@@ -35,7 +35,7 @@ _classe.atributo_ are obtained using the JSON Data field. E.g.:
 **Template HTML**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message center/Templates/configuring-functions-in-the-message-center-templates_1.png)
+![exemplohtml](https://images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
 
 The above example can have different values when comparing Sellers and Marketplaces.
 
@@ -130,4 +130,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Result:**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message center/Templates/configuring-functions-in-the-message-center-templates_2.jpg)
+![](//images.contentful.com/alneenqid6w5/5cRmcM2692G60Ok6gSAWmo/f7196556f5360f632dbccf47f837b5b9/3.1.jpg)

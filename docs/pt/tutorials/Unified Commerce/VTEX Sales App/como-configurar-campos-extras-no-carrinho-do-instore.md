@@ -22,9 +22,9 @@ Para criar os campos extras, siga os passos abaixo:
 1. Consulte a configuração atual da loja por meio da requisição GET no endpoint [Get orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/getorderformconfiguration). Salve as informações do JSON retornado da requisição.
 
 Exemplo utilizado para a loja "inStore":
-![2017-08-14 20 12 34-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-configurar-campos-extras-no-carrinho-do-instore_1.png)
+![2017-08-14 20 12 34-Postman](https://images.contentful.com/alneenqid6w5/6I61we4oF2AMkgcIAMgEo/772e7d2b045312f1f5c76b4d8eb9d30f/2017-08-14_20_12_34-Postman.png)
     2. Faça uma requisição POST utilizando o endpoint [Update orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/updateorderformconfiguration) com os mesmos dados salvos do JSON, e acrescente os campos extras (`fields`) com as informações dentro da propriedade `apps`.
 
 Exemplo de requisição POST:
 
-![2017-08-14 20 11 18-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-configurar-campos-extras-no-carrinho-do-instore_2.png)
+![2017-08-14 20 11 18-Postman](//images.contentful.com/alneenqid6w5/6QIwIi5IBiy4qCyu2qseey/538d03ceb7f47ea0e47eb8047b931da6/2017-08-14_20_11_18-Postman.png)

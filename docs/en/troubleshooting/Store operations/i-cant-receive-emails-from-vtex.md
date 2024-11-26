@@ -3,8 +3,8 @@ title: "I can't receive emails from VTEX"
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-06-10T18:28:15.898Z
-publishedAt: 2024-06-10T18:28:15.898Z
+updatedAt: 2024-11-08T18:46:08.368Z
+publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: i-cant-receive-emails-from-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Keywords__: *message center, store settings, email templates, data export, error logs, spreadsheet import, authentication token.*
+**Tags:** Message center, Email templates, Spreadsheet import, Authentication token
 
 Through the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
 - In-store authentication token
@@ -91,4 +91,4 @@ You can also check whether the email is registered as a copy in any of the store
 3. Check if the email does not appear in the template's __Cc:__ or __Bcc:__ fields. If it does, remove it and click `Save`.
 4. Do this for each store's template card and test sending an email to the desired address.
 
-![copia_email_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![copia_email_en](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/60df1d00ff23e4a1847d76a09e4dd44b/copia_email_en.png)

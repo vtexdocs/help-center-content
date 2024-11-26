@@ -1,10 +1,10 @@
 ---
 title: 'Roles'
 id: 7HKK5Uau2H6wxE1rH5oRbc
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-08T15:21:05.110Z
-updatedAt: 2023-11-30T21:36:49.415Z
-publishedAt: 2023-09-26T13:32:10.280Z
+updatedAt: 2024-11-22T14:18:05.867Z
+publishedAt: 2024-11-22T14:18:05.867Z
 firstPublishedAt: 2020-04-08T20:52:12.334Z
 contentType: tutorial
 productTeam: Identity
@@ -15,52 +15,69 @@ legacySlug: configuring-access-profiles, access-profiles
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
+Every action on VTEX, such as accessing a page in the Admin or making an API call, requires a request to our infrastructure. To guarantee the security of these operations, there is **License Manager**, a system that verifies whether a user has the right permissions to perform an action on the platform.
 
-The **Roles** page in the VTEX Admin allows you to manage the [roles](https://help.vtex.com/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#roles) added to your store and the users associated with them. To access it, in the top bar of the VTEX Admin, click your profile avatar — indicated by your email initial letter — and then click **Account settings** > **Roles**.
+To make it easier to manage these permissions, License Manager uses a system based on [resources](#resources) and [roles](#roles). See below for more details on these concepts.
 
-From the **Roles** page, you can do the following:
+## Resources
 
-* [Create a role](#creating-a-role)
-* [Search for a role](#searching-for-a-role)
-* [Edit a role](#editing-a-role)
-* [Delete a role](#deleting-a-role)
+A **resource** is an entity associated with an action or information within our infrastructure. For example, the _Product management_ resource allows a user to access and edit product information in the Catalog. To learn more about each available resource, read the [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) article.
 
-![roles-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Access control/roles_1.png)
+Each request undergoes a security analysis to check if the user has the necessary resources, i.e., the necessary permission to perform the action. Without the necessary resources, a request will not be successful.
 
-The page displays a list of all roles added to the account and their respective information in a table:
+## Roles
 
-| **Column** | **Description** |
-|---|---|
-| **Name** | Name that identifies the role. |
-| **Users** | Number of users with this role. |
-| **Role Type** | Type of role, which can be __Predefined__ or __Custom__. For more information on each type, see [Role types](https://help.vtex.com/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#role-types). |
-| **Products** | License Manager products included in the role. See the available products in the __Product__ column of the table in [License Manager resources](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). |
-| **Created Date** | Date on which the custom role was created. For roles predefined or created before December 2023, no date is displayed in this column. |
+A **role** determines the set of resources accessible to a group of users on VTEX. Each admin user can be associated with one or more roles.
 
-In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives the user unrestricted access to all native resources of the platform.
+As several employees often access the Admin, it is important to limit access to critical actions within an account. This minimizes disruptions in the store operation and ensures that each user has access only to the actions necessary for their role.
 
->⚠️ The number of users with the *Owner (Admin Super)* role should be as few as possible. In addition, make sure there is visibility and control over who is granted this access.
+For example, a team of telesales operators only needs access to order details, so they shouldn't have access to other platform settings. In this case, their role would only contain resources related to reading order details.
 
-## Creating a role
+To manage your store roles and their associated users, go to the [Roles list](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
 
-To create a new role, click `+ Create Role`. For details on how to complete the form, read [Creating roles](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW).
+Check below the different types of roles you can add to the store.
 
-## Searching for a role
+### Role types
 
-You can search for a role by entering part of its name in the search bar. The list of results will be updated in real time.
+When [creating a new role](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW), you can use one of the predefined roles provided by VTEX or create a customized one, selecting each required resource.
 
-## Editing a role
+The admin must have a role with the _Save access profile_ [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) in order to create a role in License Manager.
 
-You can edit the resources and users associated with a role. To do so, click ⫶ in the row of the role you want to edit, and then click <i class="fas fa-pencil-alt"></i> `Edit`.
+#### Predefined
 
-## Deleting a role
+Predefined roles are sets of resources predetermined by VTEX that cover the most common use cases. Check the complete list of [predefined roles](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) and their permissions.
 
-To delete a role, click `⫶` in the row of the role you want to delete, and then click <i class="far fa-trash-alt"></i> `Delete`.
+#### Custom
 
->⚠️ By deleting a role, users associated with that role will lose access to the [License Manager resources](https://help.vtex.com/entutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) from the deleted role, unless they are also assigned other roles with the same permissions.
+Besides using predefined roles, you can [create custom roles](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW#creating-custom-roles), combining the necessary resources for a group of admin users from your store.
 
-## Learn more
+For example, a team responsible for keeping the store catalog up to date usually performs a well-defined set of tasks, such as adding and editing products, categories, and brands. In this case, an admin can create a customized role with all the necessary resources for these employees.
 
-* [Access control](https://help.vtex.com/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC)
+Check the complete list of available [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+
+## Managing roles
+
+Roles can be managed through VTEX Admin. Click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account Settings** > __User Roles__ .
+
+![List roles](https://images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/8221fd52b20d28b39952ad447fa0424c/List_roles.png)
+
+This page shows a list with all roles that were added for the account, which you can edit or delete from the **Actions** column.
+
+In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives unrestricted access to all the resources of the platform.
+
+>⚠️ The number of users with an *Owner (Admin Super)* role should be as low as possible. Ensure that there is visibility and control of those who receive this access.
+>
+> Unrestricted use of very permissive roles increases the risk of attacks on stores by login credentials leakage.
+
+## Creating roles
+
+For users who should not have unrestricted access to the platform, it is important to create roles that limit the available resources to those strictly necessary for that type of user. Read the [Creating roles](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW) guide to do so.
+
+You can create a new role based on [predefined roles](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy), or you can customize them by selecting which [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) can be accessed by the users that have this role.
+
+## Learn more 
+
+* [Predefined roles](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy)
 * [Creating roles](https://help.vtex.com/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW)
+* [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
 

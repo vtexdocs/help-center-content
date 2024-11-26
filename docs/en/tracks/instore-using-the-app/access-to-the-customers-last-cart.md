@@ -20,4 +20,4 @@ When having access to this information, the sales associate can try to complete 
 
 They just need to click `Access` to see the products in the abandoned cart.
 
-![last-cart-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/access-to-the-customers-last-cart_1.png)
+![last-cart-en](https://images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/fcddb8f976cb0a98d0bb459497b9ef59/last-cart-EN.png)

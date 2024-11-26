@@ -35,7 +35,7 @@ Depois de se autenticar pelo método escolhido, você entra no painel de suporte
 
 Para abrir um chamado, basta clicar no botão __Enviar uma solicitação__.
 
-![chamado financeiro1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/abrir-chamados-para-o-suporte-financeiro-da-vtex_1.png)
+![chamado financeiro1 PT](https://images.ctfassets.net/alneenqid6w5/51uuDEcQzKOkoOUEImoGqO/c8df51e5c79445754b132ca7cef1c12c/chamado_financeiro1_PT.png)
 
 Você será levado para o formulário de abertura de chamado, onde deve preencher:
 - Seu nome.
@@ -45,7 +45,7 @@ Você será levado para o formulário de abertura de chamado, onde deve preenche
 - O assunto.
 - A descrição da pergunta ou do problema.
 
-![chamado financeiro2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/abrir-chamados-para-o-suporte-financeiro-da-vtex_2.png)
+![chamado financeiro2 PT](//images.ctfassets.net/alneenqid6w5/7sG4rinPpeuMyMcYsQke0G/10dc27da30681e980219bab1bba1dc0a/chamado_financeiro2_PT.png)
 
 Você pode também incluir anexos, como capturas de telas ou gifs animados que ajudem a descrever o contexto da sua solicitação.
 
@@ -79,7 +79,7 @@ Clicando em __Minhas solicitações__, você vê o histórico de chamados aberto
 
 Se clicar em __Todas as solicitações__, você pode ver o histórico de chamados abertos por quaisquer funcionários da sua loja.
 
-![chamado financeiro3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/abrir-chamados-para-o-suporte-financeiro-da-vtex_3.png)
+![chamado financeiro3 PT](//images.ctfassets.net/alneenqid6w5/5rFH6THjZSeC2282OGcO0/575bdab938687e35d787bb41e618fee3/chamado_financeiro3_PT.png)
 
 ## Os status dos chamados
 
@@ -94,4 +94,4 @@ Depois disso, ele passa pelos status `Aguardando resposta`, `Resolvido` e `Fecha
 
 No seu painel de suporte, você pode filtrar a busca de chamados por status. Para isso, basta usar a caixa de seleção abaixo do botão de envio de solicitação.
 
-![chamado financeiro4 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/abrir-chamados-para-o-suporte-financeiro-da-vtex_4.png)
+![chamado financeiro4 PT](//images.ctfassets.net/alneenqid6w5/66WicNamPYmIWuKGo2ICSC/f45496c0f278e4382098908fcc1ae872/chamado_financeiro4_PT.png)

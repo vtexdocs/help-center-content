@@ -3,8 +3,8 @@ title: 'Generar archivo HAR para solucionar problemas en la tienda'
 id: 15xVlw8nuakk2k6Cao4k2Q
 status: PUBLISHED
 createdAt: 2018-02-23T13:16:02.404Z
-updatedAt: 2019-12-31T15:25:44.314Z
-publishedAt: 2019-12-31T15:25:44.314Z
+updatedAt: 2024-11-21T21:50:30.178Z
+publishedAt: 2024-11-21T21:50:30.178Z
 firstPublishedAt: 2018-02-23T14:02:06.722Z
 contentType: tutorial
 productTeam: Others
@@ -17,30 +17,20 @@ subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 
 Al buscar soluciones para un problema complejo, puede ser que nuestro equipo de soporte necesite recibir información adicional sobre los requests web generados en su navegador mientras el problema ocurre.
 
-Una feature útil para esto es el log de requests generado por la herramienta de desarrollador del navegador (el _Dev Tools_).
+Una feature útil para esto es el log de requests generado por la herramienta de desarrollador del navegador (el _Dev Tools_). A través de él usted puede generar un archivo `.HAR`, que contiene información detallada sobre cada request.
 
-A través de él usted puede generar un __archivo HAR__, que contiene información detallada sobre cada request. Después, basta con enviarlo a nuestro equipo de soporte.
+>ℹ️ Para generar el archivo `.HAR`, recomendamos utilizar el navegador Google Chrome, ya que es un proceso sencillo, pero puedes usar otros navegadores, como Mozilla Firefox, Safari o Microsoft Edge.
 
->⚠️ El archivo HAR contiene información sensible sobre su tienda. Compartalo sólo con el equipo de soporte VTEX.
+<br>
 
->⚠️ Abajo tenemos el procedimiento para generar el  archivo HAR por **Google Chrome**, que es el modo que nosotros más recomendamos. Si desea hacer el proceso por medio de otros navegadores, como Mozilla Firefox o Microsoft Edge, verifique el procedimiento correcto <a href="https://support.zendesk.com/hc/pt-br/articles/204410413-Gera%25C3%25A7%25C3%25A3o-de-um-arquivo-HAR-para-resolu%25C3%25A7%25C3%25B5es-de-problemas#h_51858a69-ed0e-45a6-a25d-c9b8ba32ae32"> en este enlace /a>.
+Consulte la siguiente tabla para ver la documentación con las instrucciones de exportación de archivos para cada navegador:
 
-### Cómo generar el archivo HAR en Google Chrome
+| **Navegador** | **Documentación** |
+| ---------- | ---------- |
+| Google Chrome (recomendado) | Google: [Capture el tráfico de las sesiones web](https://support.google.com/admanager/answer/10358597?hl=es-419&sjid=2751223489427809764-SA) |
+| Mozilla Firefox, Safari o Microsoft Edge | Zendesk: [Generación de un archivo HAR para la resolución de problemas](https://support.zendesk.com/hc/es/articles/4408828867098-Generacion-de-un-archivo-HAR-para-la-resolucion-de-problemas) |
 
-Usando Google Chrome, siga estos pasos para generar el archivo HAR.
+Después de exportar el archivo `.HAR`, basta enviarlo a nuestro equipo de Soporte VTEX. Cuando utilice el Google Chrome, asegúrese de configurar la [opción de exportación con datos sensibles](https://developer.chrome.com/blog/new-in-devtools-130?hl=es-419#har).
 
-1. Vaya a la dirección URL donde se produce el problema.
-2. Haga clic con el botón derecho en cualquier lugar de la pantalla y luego en __Inspect__.
-3. El Dev Tools será abierto, entonces haga clic en la pestaña __Network__.![HARfile2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Support/Operational/generar-archivo-har_1.png)
-4. El botón de grabación debe estar rojo, lo que indica que está activado. Si no está, haga clic en él.![HARfile3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Support/Operational/generar-archivo-har_2.png)
-5. Marque la flag __Preserve log__.![HARfile5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Support/Operational/generar-archivo-har_3.png)
-6. Vuelva a cargar la página y reproduzca la navegación en la que se produce el problema.
-7. Haga clic con el botón derecho en cualquier lugar dentro del área del Network y, a continuación, haga clic en la opción __Save as HAR with content__.![HARfile4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Support/Operational/generar-archivo-har_4.png)
+>❗ El archivo HAR contiene información sensible sobre su tienda, por lo tanto compartalo sólo con el equipo de [Soporte VTEX](https://help.vtex.com/es/support).
 
-Se generará un archivo con extensión HAR, cuyo nombre es la dirección de la página.
-
-Usted puede enviar este archivo al equipo de soporte de VTEX, lo que hará sl soporte más rápido y eficaz.
-
----
-
-En otros navegadores, como Mozilla Firefox y Microsoft Edge, el procedimiento para generar archivos HAR es similar pero recomendamos usar Chrome para ello, debido a la facilidad del proceso.

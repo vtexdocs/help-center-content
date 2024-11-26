@@ -3,8 +3,8 @@ title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-09-19T19:45:23.075Z
-publishedAt: 2024-09-19T19:45:23.075Z
+updatedAt: 2024-10-31T20:45:04.174Z
+publishedAt: 2024-10-31T20:45:04.174Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -86,6 +86,7 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | Pickup Point Save | Pickup point creation or update. | Pickup point ID. |
 | UPDATE-ITEM-AVAILABILITY | Item availability update. | Previous and new item quantity, SKU ID, and warehouse ID. Example: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
 | item-availability-delete | Item availability deletion. | SKU ID and warehouse ID. Example: `112233_andreia-estoque-sp was deleted.` |
+| Item Availability Update | Item availability update. | Previous and new item quantity, SKU ID, and warehouse ID. Example: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
 | Pickup Point Delete | Pickup point deletion. | Pickup point ID. |
 | Carrier New Freight Values | Freight table update. | Shipping policy ID. |
 | Holiday Update | Holiday update. | Holiday ID. |

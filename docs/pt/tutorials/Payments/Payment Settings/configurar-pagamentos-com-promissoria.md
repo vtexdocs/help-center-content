@@ -3,8 +3,8 @@ title: 'Configurar pagamentos com Promissória'
 id: 5pW7avTwtyQcMu4uiW8quQ
 status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2023-10-18T11:58:23.708Z
-publishedAt: 2023-10-18T11:58:23.708Z
+updatedAt: 2024-11-11T20:06:25.657Z
+publishedAt: 2024-11-11T20:06:25.657Z
 firstPublishedAt: 2018-06-25T15:42:31.515Z
 contentType: tutorial
 productTeam: Financial
@@ -15,21 +15,23 @@ legacySlug: configurar-pagamentos-com-promissoria
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, sua loja pode receber pagamentos por meio de promissórias. Para isso, você deve seguir os seguintes passos:
+Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas. Para isso, você deve seguir os seguintes passos:
 
 - [Configurar afiliação de gateway](#configurar-afiliacao-de-gateway)
 - [Configurar Promissória](#configurar-promissoria)
 - [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
 
-## Configurar afiliação de gateway
+>⚠️ As informações deste artigo não são referentes as condições de pagamento **Promissory** ou **CardPromissory** disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**.
 
-Para configurar uma afiliação de gateway, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444#).
+## Configurar provedor de pagamento
 
->⚠️ Verifique se a afiliação de gateway desejada suporta o processamento de pagamento por promissória.
+Para configurar um provedor de pagamento, acesse [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444#).
+
+>⚠️ Verifique se o provedor de pagamento desejado suporta o processamento de pagamento por promissória.
 
 ## Configurar Promissória
 
-Com uma das afiliações de gateway acima cadastrada, você deverá configurar o pagamento customizado __Promissória__.
+Após cadastrar o provedor de pagamento, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Clique na aba __Pagamentos Customizados__.
@@ -50,6 +52,6 @@ Com uma das afiliações de gateway acima cadastrada, você deverá configurar o
 
 ## Configurar condição de pagamento
 
-Depois de concluir todas as etapas, o pagamento por promissória estará configurado e pronto para ser utilizado em sua loja.
+Depois de concluir todas as etapas, o pagamento por promissória customizada estará configurado e pronto para ser utilizado em sua loja.
 
 Para associá-lo a uma condição de pagamento, siga o artigo [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).

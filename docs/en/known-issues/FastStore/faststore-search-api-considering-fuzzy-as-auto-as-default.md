@@ -1,10 +1,10 @@
 ---
 title: 'Faststore search api considering fuzzy as auto as default'
 id: 2zedXBMhlD8pu4gZMXsrSp
-status: PUBLISHED
+status: ARCHIVED
 createdAt: 2023-08-28T23:35:04.009Z
-updatedAt: 2024-03-27T14:10:53.090Z
-publishedAt: 2024-03-27T14:10:53.090Z
+updatedAt: 2024-11-11T20:14:10.699Z
+publishedAt: 
 firstPublishedAt: 2023-08-28T23:35:04.608Z
 contentType: knownIssue
 productTeam: FastStore
@@ -31,6 +31,17 @@ This is easy to be replicable when you search for any product, sku, or ref ID, t
 
 
 ##
+
+## Workaround
+
+
+N/A
+
+
+
+
+
+#
 
 ## Workaround
 

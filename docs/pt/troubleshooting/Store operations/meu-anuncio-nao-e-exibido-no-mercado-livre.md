@@ -3,8 +3,8 @@ title: 'Meu anúncio não é exibido no Mercado Livre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
-updatedAt: 2024-06-13T18:11:28.836Z
-publishedAt: 2024-06-13T18:11:28.836Z
+updatedAt: 2024-11-08T15:28:30.286Z
+publishedAt: 2024-11-08T15:28:30.286Z
 firstPublishedAt: 2024-06-13T18:01:04.982Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,7 @@ legacySlug: meu-anuncio-nao-e-exibido-no-mercado-livre
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras-chave:__ *marketplace, catálogo, integração, Mercado Livre, anúncio pausado.* 
+**Tags:** Marketplace, Catálogo, Integração, Mercado Livre, Anúncio pausado 
 
 Quando um produto é removido ou desativado da política comercial utilizada na integração do Mercado Livre, a atualização dessa informação é enviada automaticamente para o marketplace, que, por sua vez, para de exibir o anúncio do produto.
 
@@ -36,7 +36,7 @@ Para validar se a política comercial está configurada corretamente no cadastro
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
 
-  ![politicas-comerciais-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+  ![politicas-comerciais-pt](https://images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/973f3dd4441c0b4646d0139380d13666/politicas-comerciais-pt.png)
 
  5. Clique no botão `Salvar`.
 
@@ -52,7 +52,7 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
 2. Na linha do card de integração desejado, clique em `Editar`.
 3. Em `Configurações`, verifique se há algum valor atribuído ao campo Estoque limite para pausa de anúncio.
 
-  ![estoque-limite-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+  ![estoque-limite-pt](//images.ctfassets.net/alneenqid6w5/wy7Bz5Dcm2pt24HNVHYdZ/4cf81a0315f7dbb465e1dd9a737d6ec9/estoque-limite-pt.png)
 
  4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
 

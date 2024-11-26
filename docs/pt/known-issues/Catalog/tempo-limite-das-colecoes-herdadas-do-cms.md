@@ -24,7 +24,7 @@ Frequentemente, ao tentar salvar os dados de um grupo de coleções usando o apl
 
 `{account}.myvtex.com/admin/a/`
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-das-colecoes-herdadas-do-cms_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pBcpo1sWfBMio0mpL5iMc4Iek/?name=inline-1265713773.png)
 
 ## Simulação
 

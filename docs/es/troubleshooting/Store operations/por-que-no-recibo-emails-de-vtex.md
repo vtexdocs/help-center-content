@@ -3,8 +3,8 @@ title: '¿Por qué no recibo emails de VTEX?'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-06-10T18:28:15.898Z
-publishedAt: 2024-06-10T18:28:15.898Z
+updatedAt: 2024-11-08T18:46:08.368Z
+publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: por-que-no-recibo-emails-de-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras clave__: *centro de mensajes, configuración de la tienda, plantillas de emails, exportación de datos, logs de errores, importación de plantillas, token de autenticación.*
+**Tags:** Central de mensajes, Plantillas de emails, Importación de plantillas, Token de autenticación
 
 A través del [Centro de mensajes](https://help.vtex.com/es/tutorial/como-funciona-el-message-center--tutorials_84), VTEX ofrece a los retailers la opción de personalizar las plantillas para enviar emails a los usuarios. Estos emails pueden utilizarse para transmitir la siguiente información:
 - Token de autenticación en la tienda
@@ -91,4 +91,4 @@ También puedes comprobar si la dirección de email está registrada como copia 
 3. Comprueba que en los campos __CC:__ o __CCO:__ de la plantilla no figura ninguna dirección de email. En caso contrario, elimina la información y haz clic en `Save`.
 4. Realiza este procedimiento con cada una de las plantillas de la tienda y haz una prueba de envío de email a la dirección deseada.
 
-![copia_email_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![copia_email_es](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/a31ab802e560774fa1ef533d50dffd88/copia_email_es.png)

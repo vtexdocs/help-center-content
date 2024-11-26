@@ -3,8 +3,8 @@ title: 'Configurar política comercial '
 id: D63aTOOoQXd6NYq1f5rhc
 status: PUBLISHED
 createdAt: 2021-02-22T16:52:54.100Z
-updatedAt: 2024-09-13T19:18:00.851Z
-publishedAt: 2024-09-13T19:18:00.851Z
+updatedAt: 2024-11-14T18:43:37.058Z
+publishedAt: 2024-11-14T18:43:37.058Z
 firstPublishedAt: 2021-02-22T21:38:33.617Z
 contentType: trackArticle
 productTeam: Channels
@@ -27,7 +27,7 @@ Só será necessário [configurar uma política comercial para marketplace](http
 - Configurar outras condições de pagamento.
 - Definir uma estratégia de envio diferente.
 
-Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação **Criação de Política Comercial.**
 
-A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.  
 

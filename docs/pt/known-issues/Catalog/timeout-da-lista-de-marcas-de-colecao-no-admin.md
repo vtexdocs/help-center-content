@@ -23,7 +23,7 @@ internalReference: 639905
 
 Atualmente, para lojas que têm mais de 4000 marcas em seu catálogo, a seguinte listagem de marcas não carrega nenhuma marca quando se tenta criar uma nova coleção:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/timeout-da-lista-de-marcas-de-colecao-no-admin_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VSET52djAjJfHdPHgtiqMACBK/?name=image.png)
 
 Isto ocorre devido a um timeout (você pode ver que há um longo tempo de carga e depois ele exibe como "sem marcas").
 

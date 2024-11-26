@@ -33,7 +33,7 @@ _**Impact:**_ Occurs with some orders
 
 Admin > Bridge > Orders
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/b2w-order-with-parameter-count-mismatch-error_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/cT90VMDIz1kZblPQWMpmmB93D/?name=image.png)
 
 
 ##

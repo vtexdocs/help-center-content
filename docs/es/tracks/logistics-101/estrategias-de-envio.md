@@ -3,8 +3,8 @@ title: 'Estrategias de envío'
 id: 4IPeNztIXsZI4oA5TyES9N
 status: PUBLISHED
 createdAt: 2022-03-07T17:45:18.081Z
-updatedAt: 2022-03-10T16:12:39.772Z
-publishedAt: 2022-03-10T16:12:39.772Z
+updatedAt: 2024-11-05T17:58:52.520Z
+publishedAt: 2024-11-05T17:58:52.520Z
 firstPublishedAt: 2022-03-07T18:16:31.599Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -18,13 +18,13 @@ Las opciones de envío a disposición del cliente en el _checkout_ de tu tienda 
 
 La estrategia de envío define cómo los almacenes, muelles y políticas de envío interactúan para atender las necesidades de tus clientes y de tu empresa. 
 
-![Estrategia EnvioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/logistics-101/estrategias-de-envio_1.png)
+![Estrategia EnvioES](https://images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/d0349a827fc24a4c5a3e1782289fd8c0/Estrategia_EnvioES.png)
 
 La estrategia de envío está definida por tres entidades logísticas:
 
 * [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140): reglas acordadas entre las tiendas y las [transportadoras](https://help.vtex.com/es/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE). Es en la política de envío donde la tienda debe registrar las condiciones de entrega que la transportadora ofrece. Con esta información, la plataforma filtra y calcula qué transportadoras satisfacen el pedido y las presenta al cliente. La política de envío también se utiliza para seleccionar el [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) del envío.
-* [Almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb): identificación del lugar donde se almacenan los ítems. La política de envío no es la única variable para elegir la entrega, también hay que tener en cuenta en qué almacén se encuentran los productos del pedido. 
 * [Muelle](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj): punto de recogida del almacén. Es a través del muelle que la tienda define la recogida de los paquetes. Las transportadoras recogen los paquetes para envío en el muelle.
+* [Almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb): identificación del lugar donde se almacenan los ítems. La política de envío no es la única variable para elegir la entrega, también hay que tener en cuenta en qué almacén se encuentran los productos del pedido. 
 
 >ℹ️ Hay otros escenarios posibles para el uso del muelle, consulta el artículo [Muelle](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj) y comprueba los casos de uso. Para saber más sobre el flujo de entregas, consulta el artículo [¿Cómo funciona el flujo de entregas?](https://help.vtex.com/es/tutorial/como-funciona-el-flujo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
 
@@ -42,9 +42,8 @@ Ten en cuenta que:
 El orden de configuración sugerido para el funcionamiento esperado de las [estrategias de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) es:
 
 1. [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
-2. [Plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127)
-3. [Muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW) 
-4. [Almacén](https://help.vtex.com/es/tutorial/gestionar-almacenes--tutorials_137)
+2. [Muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW) 
+3. [Almacén](https://help.vtex.com/es/tutorial/gestionar-almacenes--tutorials_137)
 
 ## Punto de recogida
 

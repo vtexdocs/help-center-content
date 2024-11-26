@@ -21,6 +21,6 @@ The discount calculation goes like this: `monthly fee divided by the number of d
 
 So if your monthly payment had a value of $ 750 in May - 31 days - and you hired VTEX on May 6, you would be deducted $ 145.16 on your next bill.
 
-![prorata PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Support/Financial/how-is-pro-rata-calculated-in-vtex_1.png)
+![prorata PT](https://images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
 
 The calculation was: `$ 750/31 = $ 24,19 x 3 (days) = $ 145,16`

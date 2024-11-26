@@ -3,8 +3,8 @@ title: 'Shipping rate template'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-10-10T13:26:19.271Z
-publishedAt: 2023-10-10T13:26:19.271Z
+updatedAt: 2024-11-13T19:09:02.477Z
+publishedAt: 2024-11-13T19:09:02.477Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -87,7 +87,7 @@ See below the spreadsheet columns content to understand each field in detail.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">The polygon identification defined in the <a href="https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao/"> geolocation</a> function.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">You should fill in this field only if the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> fields are empty, as they contain equivalent function data. 
+            <td class="t-body pa5" style="min-width: 15rem;">To use geolocation, after filling in the <b>PolygonName</b> column with the desired values, fill in the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> columns with the value <code>0</code>.<p>You should fill in this field only if the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> fields are used, as they contain equivalent function data.
             </td>
         </tr>
     <tr class="bb b--muted-3">
@@ -175,7 +175,7 @@ See below the spreadsheet columns content to understand each field in detail.
 >ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
 
 Here is an example of how to fill in the fields in the spreadsheet.
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/shipping-rate-template_1.png)
+![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Upload the spreadsheet in VTEX Admin
 
@@ -188,7 +188,7 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/shipping-rate-template_2.png)
+![upload tarifas envioEN](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/38cfc78b89a4e0e68bfec882af0ea9f4/upload_tarifas_envioEN.png)
 
 >⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
 

@@ -25,11 +25,11 @@ Esta página te permite realizar las siguientes acciones:
 * [Buscar hoja de trabajo](#buscar-hoja-de-trabajo)
 * [Filtrar hojas de trabajo](#filtrar-hojas-de-trabajo)
 
-![pick-pack-ordem-servico-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-hojas-de-trabajo_1.png)
+![pick-pack-ordem-servico-es](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/2f8d4456ad29068827c6eea06c74792a/image.png)
 
 Los pedidos se presentan en tarjetas que contienen la siguiente información:
 
-![pick-pack-ordem-servico-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-hojas-de-trabajo_2.png)
+![pick-pack-ordem-servico-2-es](//images.ctfassets.net/alneenqid6w5/2LZZpv41eVop7ajXNrkfC4/a1ae5432062574530f6cd465a35c752a/image.png)
 
 * ID de la hoja de trabajo.
 * Número de pedidos en la hoja de trabajo.
@@ -47,7 +47,7 @@ Puedes crear una nueva hoja de trabajo siguiendo los pasos que se indican a cont
 3. Haz clic en la pestaña **Manual** para crear manualmente la hoja de trabajo.
 4. Haz clic en `+` para crear una hoja de trabajo. Puedes crear más de una hoja de trabajo.
 5. Arrastra los pedidos que desees a la hoja de trabajo.
-  ![pick-pack-ordem-servico-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-hojas-de-trabajo_3.png)
+  ![pick-pack-ordem-servico-3-es](//images.ctfassets.net/alneenqid6w5/1xxnRTbuVnfvto7Q8czn8i/f828572d27ac5915b8561762e0be1210/image.png)
 6. Haz clic en `Crear` para finalizar.
 
 ## Consultar hojas de trabajo
@@ -62,7 +62,7 @@ Puedes optimizar la consulta de las hojas de trabajo desde las siguientes seccio
 
 También puedes acceder a más información sobre cada hoja de trabajo particular haciendo clic en el botón <i class="fas fa-chevron-down"></i> en la tarjeta.
 
-![pick-pack-ordem-servico-4-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-hojas-de-trabajo_4.png)
+![pick-pack-ordem-servico-4-es](//images.ctfassets.net/alneenqid6w5/1sQ1kwEN7xnPeL7Kb9rPIq/8070f319c3af85bbc61babfd5fb1014a/image.png)
 
 ## Buscar hoja de trabajo
 

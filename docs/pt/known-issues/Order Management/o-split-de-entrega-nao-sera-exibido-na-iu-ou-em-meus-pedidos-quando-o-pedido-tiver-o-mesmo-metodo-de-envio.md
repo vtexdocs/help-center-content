@@ -38,15 +38,15 @@ Dois itens cada um com um "courierId".
 
 ItemIndex:0
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BV7Mk1lkB4bfbDUL60PuOxVGw/?name=image.png)
 
 
 IntemIndex :1
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4PaI0LrZEb4ICKus2GFzxvsul/?name=image.png)
 
 A UI sugere isto como um pacote único:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1LIKdI2MhhOGmVfr4xMxSSL29/?name=image.png)
 
 
 

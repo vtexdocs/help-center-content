@@ -31,7 +31,7 @@ Para criar um controle customizado, siga o passo a passo abaixo:
 2. Clique em __Layout__
 3. Clique na pasta __CMS__
 4. Logo abaixo, clique na pasta __Custom Elements__
-5. Clique no botão __Add__![8 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/usar-controles-customizados_1.png)
+5. Clique no botão __Add__![8 1](https://images.ctfassets.net/alneenqid6w5/2O1QkWg7UoaHzM7r1kZetq/aae42e4de48ea2bb9845f5607d14332c/8_1.png)
 6. Preencha o campo __Name__ com o nome do controle customizado
 7. Preencha o campo __Tag name__. É este nome que será usado no controle no momento de adicioná-lo ao template.
 8. Selecione o tipo do controle em __Type__

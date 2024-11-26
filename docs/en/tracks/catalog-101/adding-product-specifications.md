@@ -33,7 +33,7 @@ To add specifications, your store already needs to have departments, categories,
 7. Fill out the specification form fields. For more info on each field, access our article on [how to fill out product specification fields](https://help.vtex.com/en/tutorial/creating-a-product-field--tutorials_106).
 8. Click on **Save**.
 
-![EN.1novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-product-specifications_1.gif)
+![EN.1novo](https://images.ctfassets.net/alneenqid6w5/2dF0ogtrRK8JwAfpklyJ7I/2ff6abcfd3e119739d8d383524b6305b/EN.1novo.gif)
 
 The following steps will let you add specification values:
 
@@ -47,7 +47,7 @@ The following steps will let you add specification values:
 8. Click on **New Value**.
 9. Type in the **Name** of the desired value and click on **Save**.
 
-![EN.2novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-product-specifications_2.gif)
+![EN.2novo](//images.ctfassets.net/alneenqid6w5/2LBqRIgwrRKGFRZI1k66xV/c225f4b00ecd036deb541355d10278e8/EN.2novo.gif)
 
 ### Linking specifications to a product
 
@@ -61,7 +61,7 @@ To include specifications to a **Product**, complete the following steps:
 4. Select the **Specifications** tab and choose the specification value for this product.
 5. Click on the **Product** tab and then on **Save**.
 
-![EN.3novo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-product-specifications_3.gif)
+![EN.3novo](//images.ctfassets.net/alneenqid6w5/6aLqyJEcn1gn7ZY6D1HOBR/b98761150ff82fce355480c78f7693e6/EN.3novo.gif)
 
 ## Spreadsheet
 
@@ -90,7 +90,7 @@ After filling in the spreadsheet data, follow the instructions below to import y
 5. Click on **Select** to choose the filled-out spreadsheet.
 6. Click on **Import**.
 
-![EN.4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/adding-product-specifications_4.gif)
+![EN.4](//images.ctfassets.net/alneenqid6w5/38zcVf51x9HpqztCxmfgRy/d4d6d36b35f4d0717c3d97fcc9c9223b/EN.4.gif)
 
 ## API 
 

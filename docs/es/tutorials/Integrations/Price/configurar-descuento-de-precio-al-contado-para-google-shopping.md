@@ -3,8 +3,8 @@ title: 'Configurar descuento de precio al contado para Google Shopping'
 id: 40K3R5d4NogMvCzIWdWt3e
 status: PUBLISHED
 createdAt: 2020-12-18T19:17:16.033Z
-updatedAt: 2024-01-19T16:37:47.493Z
-publishedAt: 2024-01-19T16:37:47.493Z
+updatedAt: 2024-11-01T13:39:20.668Z
+publishedAt: 2024-11-01T13:39:20.668Z
 firstPublishedAt: 2021-05-04T20:06:46.945Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
