@@ -69,6 +69,16 @@ const navigation = { navbar: [
     },
     slugPrefix: 'known-issues',
     categories: []
+  },
+  {
+    documentation: 'Troubleshooting',
+    name: {
+      en: 'Troubleshooting',
+      es: 'Troubleshooting',
+      pt: 'Troubleshooting'
+    },
+    slugPrefix: 'troubleshooting',
+    categories: []
   }
 ] };
 
