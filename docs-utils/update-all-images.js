@@ -1,8 +1,12 @@
-const fs = require('fs').promises;
+const fs = require('fs');
 const path = require('path');
+
+const docsDirEN = path.join(__dirname, '../docs/en/');
+const docsDirPT = path.join(__dirname, '../docs/pt/');
+const docsDirES = path.join(__dirname, '../docs/es/');
+
 const { updateImages } = require('./update-images.js');
 
-const docsDir = path.join(__dirname, '../docs');
 const MAX_CONCURRENT_FILES = 100;
 
 let activeFiles = 0;
@@ -11,16 +15,16 @@ let fileQueue = [];
 // Function to process each Markdown file
 async function processFile(filePath) {
     try {
-        console.log(`Updating images for: ${filePath}`);
+       //  console.log(`Updating images for: ${filePath}`);
         await updateImages(filePath);  // Wait for updateImages to finish before proceeding
-        console.log(`Finished updating images for: ${filePath}`);
+       // console.log(`Finished updating images for: ${filePath}`);
     } catch (error) {
         console.error(`Error processing file: ${filePath}`, error);
     } finally {
         activeFiles--;
         if (fileQueue.length > 0) {
             const nextFile = fileQueue.shift();
-            processFile(nextFile);
+            await processFile(nextFile);
         }
     }
 }
@@ -28,18 +32,18 @@ async function processFile(filePath) {
 // Function to recursively process files in directories
 async function processDirectory(dirPath) {
     try {
-        const files = await fs.readdir(dirPath);
+        const files = fs.readdirSync(dirPath);
         
         for (const file of files) {
             const filePath = path.join(dirPath, file);
-            const stats = await fs.stat(filePath);
+            const stats = fs.statSync(filePath);
 
             if (stats.isDirectory()) {
                 await processDirectory(filePath);
             } else if (path.extname(file) === '.md') {
                 if (activeFiles < MAX_CONCURRENT_FILES) {
                     activeFiles++;
-                    processFile(filePath);
+                    await processFile(filePath);
                 } else {
                     fileQueue.push(filePath);
                 }
@@ -53,7 +57,9 @@ async function processDirectory(dirPath) {
 // Start iterating from the target directory and process articles sequentially
 async function updateAllImages() {
     console.log("Updating all images...");
-    await processDirectory(docsDir);
+    await processDirectory(docsDirEN);
+    await processDirectory(docsDirPT);
+    await processDirectory(docsDirES);
 
     // Wait until all files are processed
     while (activeFiles > 0 || fileQueue.length > 0) {
@@ -62,5 +68,13 @@ async function updateAllImages() {
 
     console.log("Finished replacing all images in markdown files.");
 }
+
+(async () => {
+    try {
+        await updateAllImages();
+    } catch (error) {
+        console.error('Error during image updates:', error);
+    }
+})();
 
 module.exports = { updateAllImages }
