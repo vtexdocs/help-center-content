@@ -508,6 +508,8 @@ async function getEntries() {
           if(!file.fields.subcategories) {
             errorDocs.docs.push(file);
             continue;
+          } else if (file.fields.title === 'Troubleshooting') {
+            console.log('Troubleshooting category found')
           }
           // Add the "category-" prefix only to category slugs, not subcategories
           const updatedCategory = {
