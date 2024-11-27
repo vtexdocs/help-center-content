@@ -49,7 +49,7 @@ Dois novos botões devem ser exibidos em seu Checkout:
 - "Não tenho CPF".
 - "Não tenho telefone brasileiro".
 
-![checkoutuniversal1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurando-o-checkout-global_1.png)
+![checkoutuniversal1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurando-o-checkout-global_1.png)
 
 ## Exibindo novos endereços de entrega e fatura
 

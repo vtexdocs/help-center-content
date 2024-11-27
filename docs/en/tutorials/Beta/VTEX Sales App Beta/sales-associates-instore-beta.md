@@ -27,7 +27,7 @@ This page allows you to manage your sellers from the following actions:
 * [Edit](#editing-sales-associate-information)
 * [Delete](#deleting-a-sales-associate)
 
-![vendedores-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX Sales App Beta/sales-associates-instore-beta_1.png)
+![vendedores-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX%20Sales%20App%20Beta/sales-associates-instore-beta_1.png)
 
 The page displays the following information: 
 
@@ -50,7 +50,7 @@ You can add a sales associate by following the steps below:
 
 After creation, the sales associate will receive a confirmation email and will be redirected to the sales associate's login option in the inStore app.
 
-![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX Sales App Beta/sales-associates-instore-beta_2.png)
+![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX%20Sales%20App%20Beta/sales-associates-instore-beta_2.png)
 
 >⚠️ Sales associates registered in inStore cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.
 

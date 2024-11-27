@@ -54,9 +54,9 @@ Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valo
 
 Dessa forma, você poderia configurar também `funcionario=false`, em que apenas registros `funcionario` com valor `false` no campo receberiam a promoção.
 
-![Campo funcionário Master Data PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_1.png)
+![Campo funcionário Master Data PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_1.png)
 
-![Cluster de clientes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_2.png)
+![Cluster de clientes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_2.png)
 
 Considerando um campo do tipo **[Varchar](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
@@ -70,8 +70,8 @@ A expressão `{nomedapropriedade} contains {valor}` deve ser utilizada quando a 
 
 Por exemplo, caso você queira criar um cluster apenas com clientes cujos emails contenham `@teste.com`, a configuração seria igual à representada na imagem abaixo.
 
-![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_3.png)
+![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_3.png)
 
-![cluster email PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_4.PNG)
+![cluster email PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_4.PNG)
 
 Nesse caso, `email contains test.com` será verdadeiro, por exemplo, quando o valor for `joao@test.com` e falso quando o valor for `joao@test.org`.

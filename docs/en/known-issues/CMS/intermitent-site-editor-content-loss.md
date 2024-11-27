@@ -3,8 +3,8 @@ title: 'Intermitent Site Editor content loss'
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-10-07T18:02:10.882Z
-publishedAt: 2024-10-07T18:02:10.882Z
+updatedAt: 2024-11-18T14:05:46.071Z
+publishedAt: 2024-11-18T14:05:46.071Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS

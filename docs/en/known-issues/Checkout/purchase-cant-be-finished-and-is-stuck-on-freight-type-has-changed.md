@@ -1,5 +1,5 @@
 ---
-title: "Purchase can't be finished and is stuck on 'freight type has changed'"
+title: "Purchase can't be finished and is stuck on "freight type has changed'"
 id: mgewQ8QmZ3V3dkc7vdJkV
 status: PUBLISHED
 createdAt: 2023-09-25T13:28:28.121Z

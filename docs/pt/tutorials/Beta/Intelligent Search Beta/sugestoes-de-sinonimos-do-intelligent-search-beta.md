@@ -30,7 +30,7 @@ As sugestões são exibidas em duas categorias na listagem de sinônimos, confor
 * **Novas sugestões:** sugestões geradas pela plataforma que ainda não foram visualizadas.
 * **Sugestões salvas:** sugestões salvas para depois, como descrito no passo 5 da seção [Revisar sugestões](#revisar-sugestoes).
 
-![synonym-suggestion-list-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Intelligent Search Beta/sugestoes-de-sinonimos-do-intelligent-search-beta_1.png)
+![synonym-suggestion-list-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Intelligent%20Search%20Beta/sugestoes-de-sinonimos-do-intelligent-search-beta_1.png)
 
 Você pode revisar as sugestões geradas e optar por salvar para depois, recusar, editar ou aprovar. Confira o passo a passo na seção a seguir.
 
@@ -46,7 +46,7 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
 
 4. Você verá um modal com a primeira sugestão de sinônimo. Cada sugestão indica o termo buscado e o termo que será adicionado como sinônimo, bem como a quantidade de vezes em que clientes da sua loja reescreveram o termo original para o segundo termo nos últimos 30 dias.
 
-   ![synonym-suggestion-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Intelligent Search Beta/sugestoes-de-sinonimos-do-intelligent-search-beta_2.png)
+   ![synonym-suggestion-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Intelligent%20Search%20Beta/sugestoes-de-sinonimos-do-intelligent-search-beta_2.png)
 
 5. Para revisar cada sugestão, escolha uma das ações a seguir:
 

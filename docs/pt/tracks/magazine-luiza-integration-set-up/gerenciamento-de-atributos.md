@@ -18,7 +18,7 @@ Após realizar as configurações iniciais da integração, é possível enviar 
 
 >⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [estoque](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP>atributos dos produtos</a>, além de configurar <a href=”https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
 
-![Gerenciamento de atributos Magalu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
+![Gerenciamento de atributos Magalu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/magazine-luiza-integration-set-up/gerenciamento-de-atributos_1.gif)
 
 A página de **Gerenciamento de Atributos,** pode ser acessada no Admin VTEX em **Marketplace > Magazine Luiza > Gerenciamento de Atributos.**   
 Ao acessar a página, é exibida uma lista com as categorias previamente mapeadas pelo seller em sua loja VTEX. No topo da página, há uma barra de busca que pode ser utilizada para pesquisar categorias pelo nome.  

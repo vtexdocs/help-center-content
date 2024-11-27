@@ -89,5 +89,5 @@ Remover entregas clicando  no __X__ à direta da entrega.
 
 >❗ Só é possível editar uma rota se ela ainda estiver no status Ativo. Não é indicado alterar uma rota se ela já foi iniciada - isso pode causar inconsistências na plataforma do VTEX Tracking e no aplicativo do portador.
 
-![Cadastro de nova rota](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Tracking/Routes/nova-rota_1.gif)
+![Cadastro de nova rota](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Tracking/Routes/nova-rota_1.gif)
 

@@ -34,7 +34,7 @@ Let's say you want to enter the name of the carrier in the "product sent" email.
 
 To do this, enter the "product sent" template ("pedido enviado") and, in the __JSON Data__ field, search for the `courier` property.
 
-![templateCourierMC](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message center/Templates/including-order-variables-in-the-transactional-email-template_1.png)
+![templateCourierMC](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message%20center/Templates/including-order-variables-in-the-transactional-email-template_1.png)
 
 The filled-in value for this property is just an example, but you can use it in the __HTML__ field so that when the email is sent the customer sees the carrier that is actually responsible for the order delivery.
 
@@ -42,7 +42,7 @@ Note that the `courier` property is inside the `package` object. Therefore, you 
 
 `{{package.courier}}`
 
-![courier3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message center/Templates/including-order-variables-in-the-transactional-email-template_2.png)
+![courier3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message%20center/Templates/including-order-variables-in-the-transactional-email-template_2.png)
 
 As you see, the sample value ("Transportadora Teste Courier S.A.") was inserted in the preview screen, below the __HTML__ and __JSON Data__ fields.
 

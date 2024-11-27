@@ -52,7 +52,7 @@ In this section, we provide information on the promotion overview.
 - **Additional information (optional):** Allows you to add name and value details to the promotion.
 - **Promotion is highlighted:** Adds a tag with the promotion name,  which is displayed in the window display and on the product page. This tag will only be added if you use the right promotion display control in the template. `<vtex.cmc:discountHightLight>`.
 
-![Promotion Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_1.png)
+![Promotion Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_1.png)
 
 ## Restrict this promotion to seller products
 
@@ -65,7 +65,7 @@ For the promotion to be valid for all sellers, leave the field blank.
 
 >⚠️ It is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.2. Leave the field blank.  In this way, all sellers will be included in the promotion.
 
-![Restrict this promotion to seller products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_2.png)
+![Restrict this promotion to seller products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_2.png)
 
 ## Trade policy
 
@@ -78,7 +78,7 @@ In this section, you can set the trade policies valid for the promotion. You can
 
 For the promotion to be valid for all trade policies, leave the selection empty.
 
-![Trade Policy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_3.png)
+![Trade Policy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_3.png)
 
 # 2. Buy One Get One
 
@@ -92,7 +92,7 @@ In this section, you can define the collections, SKUs, and minimum quantity for 
 
 >⚠️ <p>A Buy One Get One promotion can be created with a maximum of 100 different SKUs at the same time.<p>
 
-![Buy One Get One](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_4.png)
+![Buy One Get One](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_4.png)
 
 # 3. Conditions for the promotion to be valid
 
@@ -105,7 +105,7 @@ In this section, we will detail the conditions you must apply for a promotion to
 - **Utm_source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
 - **Utm_campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
 
-![What are the conditions for the promotion to be valid?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_5.png)
+![What are the conditions for the promotion to be valid?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_5.png)
 
 # 4. Restrictions and limitations of use
 
@@ -116,4 +116,4 @@ In this section, you will find important information about the promotion conditi
 - Only for the same items: If this option is activated, the promotion is only applied if the minimum quantity of items (previously added) is reached using the same SKU in the cart. If this option is deactivated, the promotion will be applied even when the minimum quantity of items is added to the cart, regardless of whether the SKUs are different or the same.
 - Apply with other promotions: Allows this promotion to be applied to the cart in combination with other promotions that give the same discount type.
 
-![Restrictions and limitations of use](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/buy-one-get-one_6.png)
+![Restrictions and limitations of use](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-one-get-one_6.png)

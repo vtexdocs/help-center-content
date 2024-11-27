@@ -3,8 +3,8 @@ title: 'Não consigo importar a planilha de preços'
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2024-06-10T19:44:11.614Z
-publishedAt: 2024-06-10T19:44:11.614Z
+updatedAt: 2024-11-08T18:50:45.313Z
+publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: nao-consigo-importar-a-planilha-de-precos
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras-chave__: *planilha de preços, importação de planilhas, células.*
+**Tags:** Preços, Importação de planilhas
 
 As [tabelas ou planilhas de preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) e [Preço fixo](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
@@ -52,7 +52,7 @@ Confira se os campos de sua planilha estão devidamente preenchidos conforme as 
 
 Exemplo de planilha com filtros aplicados e campos __Error Code__ e __Error Message__ presentes:
 
-![Planilha de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
+![Planilha de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-importar-a-planilha-de-precos_1.PNG)
 
 #### Tamanho do arquivo
 

@@ -26,7 +26,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-store)
 * [Delete](#editing-a-store)
 
-![loja-fisica-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX Sales App Beta/physical-store-instore-beta_1.png)
+![loja-fisica-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX%20Sales%20App%20Beta/physical-store-instore-beta_1.png)
 
 The page displays the following information: 
 
@@ -51,7 +51,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX Sales App Beta/physical-store-instore-beta_2.png)
+![loja-fisica2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/VTEX%20Sales%20App%20Beta/physical-store-instore-beta_2.png)
 
 #### Identification
 

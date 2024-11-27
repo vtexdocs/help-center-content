@@ -3,8 +3,8 @@ title: 'Configurar pagamentos customizados'
 id: 1wWt35dRwEboRs1nrSx7G0
 status: PUBLISHED
 createdAt: 2019-11-12T14:02:06.237Z
-updatedAt: 2023-10-18T14:41:42.080Z
-publishedAt: 2023-10-18T14:41:42.080Z
+updatedAt: 2024-11-06T23:03:17.054Z
+publishedAt: 2024-11-06T23:03:17.054Z
 firstPublishedAt: 2019-11-25T15:33:37.696Z
 contentType: trackArticle
 productTeam: Financial
@@ -18,7 +18,7 @@ O **meio de pagamento customizado** é uma alternativa às opções oferecidas p
 
 É possível customizar pagamentos dentro de três categorias: **Promissórias**, **Cartões da Loja (bandeira própria)**, e **Cartões da Loja (Co-Branded)**. 
 
-Cada categoria permite cinco configurações, totalizando 15 possíveis alternativas de pagamentos customizados. 
+Cada categoria permite 5 configurações, totalizando 15 possíveis alternativas de pagamentos customizados. 
 
 ### Promissórias
 Promissória é uma promessa de pagamento que precisa de aprovação manual do lojista para aprovar a transação. É frequentemente usada para disponibilizar o pagamento através de dinheiro.  

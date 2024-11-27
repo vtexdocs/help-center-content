@@ -24,10 +24,10 @@ This document will guide you to save, validate and get documents at VTEX Master 
 It's not necessary to create a JSON Schema to save documents. You can save to any data entity if the content is a valid JSON.
 
 The JSON Schema indicates how to validate and index. A data entity may or may not have multiple JSON Schemas.
-![master-data-data-entity-schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data's overview/master-data-v2_1.jpg)
+![master-data-data-entity-schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data's%20overview/master-data-v2_1.jpg)
 
 A document could be compliant with none or multiple schemas.
-![master-data-documents-compliant](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data's overview/master-data-v2_2.jpg)
+![master-data-documents-compliant](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data's%20overview/master-data-v2_2.jpg)
 
 This means that JSON Schema is a format of documents in data entities.
 

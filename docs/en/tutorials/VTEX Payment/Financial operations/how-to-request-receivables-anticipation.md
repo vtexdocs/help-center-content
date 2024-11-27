@@ -31,7 +31,7 @@ Now that you have checked the balance, it is important to keep in mind that the 
 
 For example, if your lowest receivable is R$ 10, this is the minimum amount you can anticipate. The maximum amount is informed in the Admin’s “Anticipate receivables” page - the balance you just checked.
 
-![antecipaçãoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX Payment/Financial operations/how-to-request-receivables-anticipation_1.png)
+![antecipaçãoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20Payment/Financial%20operations/how-to-request-receivables-anticipation_1.png)
 
 >ℹ️ **Warning**: receivables in dispute or expected for the next business day cannot be anticipated.
 

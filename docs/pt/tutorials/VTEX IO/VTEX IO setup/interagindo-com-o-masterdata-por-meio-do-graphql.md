@@ -25,7 +25,7 @@ Comece certificando-se de ter a versão mais recente do VTEX CLI e clonando o ap
 
 Execute o comando `vtex init` e selecione `graphql getting-started`.
 
-![Screen Shot 2019-01-16 at 15.00.29](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/interagindo-com-o-masterdata-por-meio-do-graphql_1.png)
+![Screen Shot 2019-01-16 at 15.00.29](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/interagindo-com-o-masterdata-por-meio-do-graphql_1.png)
 
 Vamos usar sua estrutura básica para adaptá-la às nossas necessidades.
 
@@ -155,15 +155,15 @@ Abra o Postman e digite a seguinte pesquisa:
 
 Escolha um ID e copie-o. Vamos colá-lo em nossa consulta.
 
-![Screen Shot 2019-01-16 at 16.14.31](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/interagindo-com-o-masterdata-por-meio-do-graphql_2.png)
+![Screen Shot 2019-01-16 at 16.14.31](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/interagindo-com-o-masterdata-por-meio-do-graphql_2.png)
 
-![Screen Shot 2019-01-16 at 17.34.04](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/interagindo-com-o-masterdata-por-meio-do-graphql_3.png)
+![Screen Shot 2019-01-16 at 17.34.04](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/interagindo-com-o-masterdata-por-meio-do-graphql_3.png)
 
 Agora você deve ver a luz de output à direita.
 Parabéns! Você realizou sua primeira consulta simples em tempo recorde.
 
 Voltando ao terminal, você pode olhar sob o capô e perceber o GraphQL resolvendo as consultas, como normalmente você teria feito.
-![Screen Shot 2019-01-16 at 16.29.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/interagindo-com-o-masterdata-por-meio-do-graphql_4.png)
+![Screen Shot 2019-01-16 at 16.29.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/interagindo-com-o-masterdata-por-meio-do-graphql_4.png)
 
 **Mas e se quisermos pesquisar usando todos os filtros possíveis?**
 Vamos seguir em frente para definir uma nova estrutura de consulta e criar um novo resolver para lidar com os novos parâmetros.
@@ -279,6 +279,6 @@ query{
 
 ```
 
-![Screen Shot 2019-01-16 at 17.23.00](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/interagindo-com-o-masterdata-por-meio-do-graphql_5.png)
+![Screen Shot 2019-01-16 at 17.23.00](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/interagindo-com-o-masterdata-por-meio-do-graphql_5.png)
 
 E é isso :)  Happy coding!

@@ -21,7 +21,7 @@ In order to do this, the first step is accessing the integration registration:
 1. Access the __Marketplace__ module
 2. Click on __Integration__
 3. Look for the Mercado Livre __panel__
-4. Click on the __gears__ icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/faq/Channels/why-are-my-orders-not-integrating-with-mercado-livre_1.png" />
+4. Click on the __gears__ icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Channels/why-are-my-orders-not-integrating-with-mercado-livre_1.png" />
 5. Click on __Edit config_
 
 From there onwards, you'll need to redo the integration process.

@@ -31,7 +31,7 @@ See how they are calculated:
 
 So, in general, the total shipping cost is calculated as follows:
 
-![Custo-final-envio-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping rates/total-shipping-cost_1.svg)
+![Custo-final-envio-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/total-shipping-cost_1.svg)
 
 >❗ If the **price-based charge** is lower than the **insurance charge**, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>
 > The best carrier is chosen based on its shipping rate, which does not consider loading dock and warehouse costs (if any). To simulate shipping options for customers, use the [Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144).

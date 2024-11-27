@@ -66,7 +66,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
     * **or:** The campaign audience will consist of customers fitting any target audience.
     * **and:** The campaign audience will consist of customers fitting all the target audiences, summing up all their criteria.
 
-![publico-alvo-e-ou-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Campaign Audiences/creating-a-campaign-audience_1.gif)
+![publico-alvo-e-ou-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Campaign%20Audiences/creating-a-campaign-audience_1.gif)
 
 ### Define your target audience
 
@@ -82,7 +82,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
 
 For example: The target audience includes items whose brand is **Nike**, as illustrated below. The configuration also indicates that at least 3 items must meet the criteria. Therefore, a customer must have at least **3** items in the shopping cart to be included in the target audience.
 
-![exemplo-marca-publico-alvo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Campaign Audiences/creating-a-campaign-audience_2.png)
+![exemplo-marca-publico-alvo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Campaign%20Audiences/creating-a-campaign-audience_2.png)
 
 ### Conditions for your target audience to be applied
 

@@ -3,8 +3,8 @@ title: 'Configurar pagos personalizados '
 id: 1wWt35dRwEboRs1nrSx7G0
 status: PUBLISHED
 createdAt: 2019-11-12T14:02:06.237Z
-updatedAt: 2023-10-18T14:41:42.080Z
-publishedAt: 2023-10-18T14:41:42.080Z
+updatedAt: 2024-11-06T23:03:17.054Z
+publishedAt: 2024-11-06T23:03:17.054Z
 firstPublishedAt: 2019-11-25T15:33:37.696Z
 contentType: trackArticle
 productTeam: Financial
@@ -18,7 +18,7 @@ El **medio de pago personalizado** es una alternativa a las opciones que ofrece 
 
 Es posible personalizar pagos dentro de tres categorías: **Pagarés**, **Tarjetas de la Tienda (bandera propia)** y **Tarjetas de la Tienda (Co-Branded)**. 
 
-Cada categoría permite cinco configuraciones, totalizando 15 posibles alternativas de pagos personalizados.
+Cada categoría permite 5 configuraciones, totalizando 15 posibles alternativas de pagos personalizados.
 
 ### Pagarés
 Pagaré es una promesa de pago que necesita de aprobación manual del administrador de la tienda para aprobar la transacción. Se utiliza con frecuencia para realizar el pago a través de efectivo.

@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 **Insights** é uma página do Admin VTEX que exibe informações sobre o desempenho da sua loja em relação ao VTEX Pick and Pack.
 
-![pick-pack-insights-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-insights_1.png)
+![pick-pack-insights-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_1.png)
 
 A página apresenta as seguintes seções:
 
@@ -38,7 +38,7 @@ Nesta seção você terá acesso ao total de pedidos ou ordens de serviço de um
 * Últimos três meses
 * Últimos seis meses
 
-![pick-pack-insights-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-insights_2.png)
+![pick-pack-insights-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_2.png)
 
 ## Tempo das etapas
 
@@ -48,16 +48,16 @@ Nesta seção, você terá acesso às informações relativas a duração de cad
 * Tempo de embalagem
 * Tempo de envio
 
-![pick-pack-insights-3-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-insights_3.png)
+![pick-pack-insights-3-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_3.png)
 
 ## Pedidos - Orders Perfomance
 
 Nesta seção você terá acesso às informações sobre o desempenho geral dos pedidos e o tempo médio de atendimento de cada pedido.
 
-![pick-pack-insights-4-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-insights_4.png)
+![pick-pack-insights-4-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_4.png)
 
 ## Itens
 
 Nesta seção você terá acesso às informações sobre os itens dos pedidos gerenciados no VTEX Pick and Pack, o tempo médio de separação por item, quantidade de itens selecionados por separador e taxa de preenchimento dos pedidos.
 
-![pick-pack-insights-5-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-insights_5.png)
+![pick-pack-insights-5-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_5.png)

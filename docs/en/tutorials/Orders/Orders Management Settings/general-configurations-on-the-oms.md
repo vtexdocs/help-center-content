@@ -19,7 +19,7 @@ It is possible to execute configurations directly related to the conditions of t
 
 In the VTEX Admin, go to **Store Settings > Orders > Settings**, or type *Orders* in the search bar at the top of the page and select *Store Settings / Orders*.
 
-![configuracoes_pedidos_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders Management Settings/general-configurations-on-the-oms_1.png)
+![configuracoes_pedidos_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20Management%20Settings/general-configurations-on-the-oms_1.png)
 
 ## Cart
 

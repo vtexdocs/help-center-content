@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 **Análisis** es una página del Admin VTEX que muestra información sobre el desempeño de tu tienda en relación con VTEX Pick and Pack.
 
-![pick-pack-insights-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-analisis_1.png)
+![pick-pack-insights-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-analisis_1.png)
 
 La página presenta las siguientes secciones:
 
@@ -38,7 +38,7 @@ En esta sección puedes consultar el número total de pedidos y hojas de trabajo
 * Últimos tres meses
 * Últimos seis meses
 
-![pick-pack-insights-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-analisis_2.png)
+![pick-pack-insights-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-analisis_2.png)
 
 ## Tiempo de las etapas
 
@@ -48,17 +48,17 @@ En esta sección puedes consultar información sobre la duración de cada etapa 
 * Tiempo de empaque
 * Tiempo de envío
 
-![pick-pack-insights-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-analisis_3.png)
+![pick-pack-insights-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-analisis_3.png)
 
 ## Pedidos - Desempeño de pedidos
 
 En esta sección tendrás acceso a información sobre el rendimiento global de los pedidos y el tiempo promedio de fulfillment de cada uno.
 
-![pick-pack-insights-4-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-analisis_4.png)
+![pick-pack-insights-4-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-analisis_4.png)
 
 ## Ítems
 
 En esta sección puedes consultar información sobre los ítems de pedidos gestionados en VTEX Pick and Pack, el tiempo promedio de alistamiento por ítem, el número de ítems seleccionados por alistador y la tasa de fulfillment de pedidos.
 
-![pick-pack-insights-5-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-analisis_5.png)
+![pick-pack-insights-5-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-analisis_5.png)
 

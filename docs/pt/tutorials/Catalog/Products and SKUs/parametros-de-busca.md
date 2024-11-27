@@ -19,7 +19,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Ao realizar buscas na VTEX, existem algumas possibilidades de URLs. Temos as URLs de Departamentos e Categorias, que são formadas da seguinte maneira:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_1.png)
 
 Na árvore de categorias acima, os links ficariam da seguintes forma:
 
@@ -31,7 +31,7 @@ Na árvore de categorias acima, os links ficariam da seguintes forma:
 
 Ao utilizar o campo de busca, a url sempre será formada pelo termo buscado:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_2.png)
 
 - www.loja.com.br/cama
 
@@ -47,7 +47,7 @@ Onde:
 
 **C:\[IdDepartamento/IdCategoria/IdSubcategoria\]**: Retorna produtos de uma determinada subcategoria, de acordo com os IDs informados do departamento, categoria e subcategoria. Este código é apresentado ao lado dos nomes das categorias em **Cadastro de Produtos -> Categoria**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_3.png)
 
 >Observação: 
 
@@ -55,17 +55,17 @@ OBS: O ID da categoria também pode ser encontrado em sua página de edição, a
 
 **B:\[IdMarca\]:** Retorna produtos de uma determinada marca, de acordo com o ID informado. Este código é apresentado ao final da URL, na página de alteração de uma marca, em **Cadastro de Produtos -> Marca**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_4.png)
 
 >⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
 
 **H:\[IdColeção\]**: Retorna produtos de uma determinada coleção, de acordo com o ID informado. Este código é informado na edição da coleção, em **Configurações &gt; Portal &gt; Pasta Portal &gt; Subpasta Coleções:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_5.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_5.png)
 
 **spec\_fct\_\[IdCampoProduto/Sku\]:\[ValorBuscado\]:** Retorna produtos cujo valor do campo produto/sku com o ID indicado seja igual ao valor informado. Este código pode ser obtido na página de alteração de um campo produto/sku, ao final da url:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/parametros-de-busca_6.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/parametros-de-busca_6.png)
 
 Um exemplo de utilização deste campo seria:
 

@@ -27,7 +27,7 @@ Aquí podremos registrar la relación de **[Almacén](https://help.vtex.com/es/t
 
 Aquí conseguiremos levantar la definición de valores de precio y tiempo de entrega para una determinada rango de código ZIP con relación al peso cúbico del producto, dimensiones, entre otros factores. 
 
-![tarifas-envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_1.png)
+![tarifas-envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_1.png)
 
 - [Tarifas de envío](https://help.vtex.com/es/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)
 
@@ -37,35 +37,35 @@ Aquí será posible reproducir diversos escenarios para la entrega del producto,
 
 Éste regresará los valores a los Transportistas que atienden a la entrega, las dimensiones y pesos de los productos, el precio de la entrega y el tiempo estimado para que se lleve a cabo. Además de los detalles adicionales sobre los valores del rango del código ZIP, porcentuales que varían de acuerdo con el rango de peso del Producto, volumen, valores adicionales por gramo excedente, costo para la Muelle, factor cúbico y Peso cubado.
 
-![simulador envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_2.png)
+![simulador envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_2.png)
 - [Simulador de Envío](/es/tutorial/simulacion-de-flete)
 
 ## Inventario
 
 Aquí es posible gestionar y acompañar el movimiento de inventario realizada en los productos de la Tienda. Tanto cuánto las reservas que el producto posee en aquel momento y si ya fueron confirmadas o no.
 
-![gerenciar inventarioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_3.png)
+![gerenciar inventarioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_3.png)
 - [Gestionar Inventario](/es/tutorial/gestionar-items-en-inventario)
 
 ## Envío por Geolocalización
 
 Aquí podremos montar “polígonos” para una atención logística específica, normalmente utilizado en zonas rurales e industriales, donde si hay la división por lotes, por ejemplo, o en áreas de riesgo, se hace necesario excluir determinados lugares dentro de una misma región. Su estructuración es dinámica, puede ser fácilmente y literalmente diseñada en el mapa la región a delimitarse. 
 
-![geolocalizaçaoE](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_4.png)
+![geolocalizaçaoE](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_4.png)
 - [Geolocalización](/es/tutorial/gestionar-geolocalizacion)
 
 ## Puntos de recogida
 
 En Puntos de recogira es posible eliminar, editar y agregar un *Pickup Point*. La feature de Puntos de Rcogida agrega mayor flexibilidad y mejor experiencia de compra para el cliente al permitirle la retirada del pedido en un punto físico.
 
-![pontos retiradaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_5.png)
+![pontos retiradaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_5.png)
 - [Configurar Puntos de Recogida](http://help.vtex.com/es/tutorial/configurar-puntos-de-recogida-pickup-points)
 
 ## Festivos
 
 Aquí es posible registrar los días que **no** se considerarán útiles para su tienda. El módulo considerará los días festivos registrados en esta sección y estos días no se contabilizarán en el plazo de entrega.
 
-![feriadoES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/overview_6.png)
+![feriadoES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/overview_6.png)
 - [Registrar Feriados](http://help.vtex.com/es/tutorial/registrar-feriados)
 
 ## Configuraciones Generales

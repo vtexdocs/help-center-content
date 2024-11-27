@@ -30,7 +30,7 @@ This guidebook will help you customize your store settings, so that it can run b
 
 When opened for the first time, the application will ask for the name of the store that will be used. Based on the table below, just type in the name of your store, and the settings will be loaded to the app.
 
-![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-register-a-store-in-vtex-instore_1.png)
+![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-register-a-store-in-vtex-instore_1.png)
 
 ### How to register a physical store
 
@@ -40,14 +40,14 @@ To manage the registration of your physical stores, simply access your Masterdat
 
 * If you are not able to find this application, it means that your environment has not been set up correctly. In this case, we recommend using the environment settings tutorial for use by inStore.*
 
-![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-register-a-store-in-vtex-instore_2.png)
+![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-register-a-store-in-vtex-instore_2.png)
 
 By clicking on “listar”, a list of registered stores will be displayed as shown in the image below. Click on “Novo” to register a new store.
 
-![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-register-a-store-in-vtex-instore_3.png)
+![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-register-a-store-in-vtex-instore_3.png)
 
 Fill out the form with the store’s data and click on “salvar”. 
 
-![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-register-a-store-in-vtex-instore_4.png)
+![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-register-a-store-in-vtex-instore_4.png)
 
 Done!  Your store is registered! 😃 Now you can continue to register the salespersons! See [here](/en/tutorial/how-to-register-your-salespersons-on-vtex-instore) how to do this.

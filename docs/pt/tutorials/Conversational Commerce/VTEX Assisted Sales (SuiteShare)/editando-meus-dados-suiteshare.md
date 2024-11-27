@@ -17,18 +17,18 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Para editar os dados de acesso, você deve acessar _**Configurações > Minha conta**_. 
 
-![Editar_dados_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/editando-meus-dados-suiteshare_1.png)
+![Editar_dados_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/editando-meus-dados-suiteshare_1.png)
 
 Em **Profile**, edite informações como **Nome** e **Empresa**. 
 
-![Editar_dados_suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/editando-meus-dados-suiteshare_2.png)
+![Editar_dados_suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/editando-meus-dados-suiteshare_2.png)
 
 Em **Password**, edite sua senha. 
 
-![Editar_dados_suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/editando-meus-dados-suiteshare_3.png)
+![Editar_dados_suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/editando-meus-dados-suiteshare_3.png)
 
 Em **Email**, edite as informações do seu e-mail. 
 
-![Editar_dados_suitshare_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/editando-meus-dados-suiteshare_4.png)
+![Editar_dados_suitshare_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/editando-meus-dados-suiteshare_4.png)
 
 Para saber mais sobre sua conta, entre em contato conosco.

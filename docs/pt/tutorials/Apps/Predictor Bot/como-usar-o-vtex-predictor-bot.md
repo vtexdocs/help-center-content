@@ -28,18 +28,18 @@ Ao combinar dados de diferentes fontes, ele é capaz de prever como suas vendas 
 ## Como o Predictor Bot funciona
 
 Começamos por uma ideia geral de como está o desempenho da sua loja.
-![sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor Bot/como-usar-o-vtex-predictor-bot_1.png)
+![sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor%20Bot/como-usar-o-vtex-predictor-bot_1.png)
 
 Conforme ilustrado na imagem acima, cada loja típica tem um padrão - mesmo em uma base diária, ou por hora. Devemos identificar esse padrão para iniciar qualquer análise.
 
 Mas nem tudo é flores. Muitas vezes vemos algo mais ou menos assim:
-![crazy sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor Bot/como-usar-o-vtex-predictor-bot_2.png)
+![crazy sales data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor%20Bot/como-usar-o-vtex-predictor-bot_2.png)
 
 Neste caso, devemos remover discrepâncias e comparar novos conjuntos de dados contra outros períodos. Continuamos iterando assim até que nosso algoritmo saiba que temos um conjunto seguro de dados. Nesse ponto, podemos analisar e __identificar os eventos que fogem ao padrão__.
 
 Ao final, nosso gráfico previsto é algo como a curva abaixo. A linha azul é o resultado do nosso modelo. Esta curva está contida dentro de um intervalo de confiança (área azul).
 
-![unnamed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor Bot/como-usar-o-vtex-predictor-bot_3.png)
+![unnamed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor%20Bot/como-usar-o-vtex-predictor-bot_3.png)
 
 Sempre que encontramos algo, nós lhe informamos! Se o seu desempenho atual se afastar do nosso modelo mas estiver dentro dos intervalos, enviamos apenas um __ALERTA__. Se for além, você recebe um aviso __CRÍTICO__.
 
@@ -47,7 +47,7 @@ Sempre que encontramos algo, nós lhe informamos! Se o seu desempenho atual se a
 
 Podemos mandar três tipos de e-mails. Aqui está um exemplo:
 
-![Vtex Predictor Bot template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor Bot/como-usar-o-vtex-predictor-bot_4.png)
+![Vtex Predictor Bot template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Predictor%20Bot/como-usar-o-vtex-predictor-bot_4.png)
 
 Como você pode ver, este é um exemplo de notificação enviada quando a anomalia não existe mais e as vendas da sua loja voltaram ao normal.
 

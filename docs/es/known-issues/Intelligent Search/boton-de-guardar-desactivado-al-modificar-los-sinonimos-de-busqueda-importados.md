@@ -23,11 +23,11 @@ internalReference: 508893
 
 Al intentar hacer cualquier cambio en una configuración de sinónimos que fue importada previamente por un archivo csv, el botón de guardar siempre se desactiva, sin importar el cambio:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados_1.png)
 
 Esto sucede porque al importar un archivo, la información de la configuración regional no se rellena automáticamente, como en el ejemplo siguiente:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados_2.png)
 
 
 

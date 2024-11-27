@@ -1,10 +1,10 @@
 ---
-title: 'Configuring a discount for orders prepaid in full'
+title: 'Configuring a discount for orders paid in full'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2024-09-05T16:45:39.679Z
-publishedAt: 2024-09-05T16:45:39.679Z
+updatedAt: 2024-11-01T13:37:19.588Z
+publishedAt: 2024-11-01T13:37:19.588Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -44,5 +44,5 @@ Your discount for orders prepaid in full is now active!
 For stores developed on VTEX IO, this is a native feature available through the `vtex.product-price` component in the `product-spot-price` block. To configure it, please check our [product documentation](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-price#configuration).
 
 ## Related articles
-[Configuring a spot price discount for Google Shopping](https://help.vtex.com/en/tutorial/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configuring discounts for orders paid in full on Google Shopping](https://help.vtex.com/en/tutorial/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
 

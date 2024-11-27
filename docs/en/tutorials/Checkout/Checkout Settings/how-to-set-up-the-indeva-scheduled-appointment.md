@@ -31,7 +31,7 @@ The customer schedules the appointment using a form created by Indeva. Then you 
 
 Your customer’s schedule flow starts by choosing the physical store of his preference. In the image below, there is only one registered store. But you can register as many physical stores as you want.
 
-![indeva1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-set-up-the-indeva-scheduled-appointment_1.png)
+![indeva1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-set-up-the-indeva-scheduled-appointment_1.png)
 
 >ℹ️ You can also provide your customers a link that takes them directly to a specific physical store form. You just have to add the store ID at the end of the URL. Hence, your seller can share your store’s link—for example, using a QR Code or on social media.
 
@@ -46,7 +46,7 @@ By clicking on a store, your customer is automatically redirected to the form. T
 
 Finally, your customer must click on the Schedule appointment button. Now this visit will be in the appointment queue displayed in the seller’s app.
 
-![indeva2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-set-up-the-indeva-scheduled-appointment_2.png)
+![indeva2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-set-up-the-indeva-scheduled-appointment_2.png)
 
 <div class=”alert alert-warning”>
 For now, you will have to confirm the appointment manually in the store. Your customer does not receive automatic messages.
@@ -56,13 +56,13 @@ For now, you will have to confirm the appointment manually in the store. Your cu
 
 Indeva Store’s app organizes the appointment queue for every physical store. Sellers and managers can use it to control the next appointments and view the history of already done visits. 
 
-![indeva3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-set-up-the-indeva-scheduled-appointment_3.png)
+![indeva3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-set-up-the-indeva-scheduled-appointment_3.png)
 
 By selecting a specific appointment, the seller can see all appointment details: date and time of the visit, customer’s name, the message they sent, the number of people, and the customer’s phone number.
 
 If you want to contact your customer through this screen, you just have to click on the Open WhatsApp button. Then you will be redirected to a chat with that specific customer on the messaging app.
 
-![indeva4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-set-up-the-indeva-scheduled-appointment_4.png)
+![indeva4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-set-up-the-indeva-scheduled-appointment_4.png)
 
 <div class=”alert alert-info”>
 You can install the app on multiple devices of the same store, but we recommend that your team use one app per store, not one per seller. 
@@ -112,7 +112,7 @@ The app for store’s sellers and managers is available for both Android and iOS
 
 After installing and opening the app, the seller must inform a 10-digit token to synchronize the device and log in.
 
-![indeva5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-set-up-the-indeva-scheduled-appointment_5.png)
+![indeva5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-set-up-the-indeva-scheduled-appointment_5.png)
 
 To receive the token, please contact the Indeva support team via:
 - __Phone__: +55(21)3609-2830

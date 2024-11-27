@@ -3,8 +3,8 @@ title: 'Entidade de dados'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2024-06-21T21:12:23.798Z
-publishedAt: 2024-06-21T21:12:23.798Z
+updatedAt: 2024-10-23T23:39:13.110Z
+publishedAt: 2024-10-23T23:39:13.110Z
 firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
 productTeam: Master Data
@@ -19,7 +19,7 @@ Entidade de dados é uma representação de um conjunto de informações sobre u
 
 Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistema controla livros que podem ser alugados por clientes. Então, percebemos que esses 3 conceitos (livro, cliente, aluguel) são entidades que possuem informações sobre cada uma delas. Entidade de dados, portanto, é um grupo de informações sobre determinado conceito.
 
-![data-entity-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master Data/Master Data basics/entidade-de-dados_1.png)
+![data-entity-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20basics/entidade-de-dados_1.png)
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 
@@ -102,5 +102,7 @@ Siga o passo a passo abaixo para configurar uma nova entidade de dados.
 
 19. Na linha da nova entidade criada, clique no botão de disquete <i class="fas fa-save"></i> para publicar a entidade de dados criada.
 20. Clique em `OK`.
+21. Clique na aba __Aplicações__ para voltar à página inicial do Master Data.
+22. Clique em `Recarregar aplicações`.
 
 >ℹ️ Após a criação da entidade de dados, é necessário [criar o formulário para a inserção, alteração e exibição de dados no Master Data](https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data--tutorials_1047).

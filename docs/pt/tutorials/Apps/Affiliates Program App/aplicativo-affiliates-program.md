@@ -38,11 +38,11 @@ O aplicativo cria três tipos de páginas para os afiliados, que dispõem delas 
 
 A **página do afiliado** é a URL da loja VTEX que ele compartilha com os clientes. Veja um exemplo na imagem a seguir:
 
-![print_affiliates_url_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates Program App/aplicativo-affiliates-program_1.png)
+![print_affiliates_url_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates%20Program%20App/aplicativo-affiliates-program_1.png)
 
 A **página de perfil do afiliado** é uma interface pela qual ele pode acompanhar e gerenciar seus pedidos e comissões. Veja um exemplo na imagem a seguir:
 
-![affiliate_profile_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates Program App/aplicativo-affiliates-program_2.png)
+![affiliate_profile_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates%20Program%20App/aplicativo-affiliates-program_2.png)
 
 A **página de cadastro** permite que os próprios interessados em se tornar afiliados preencham seus dados para solicitar registro junto a sua loja VTEX.
 
@@ -68,7 +68,7 @@ A página **Gerenciamento de afiliados **permite realizar as seguintes ações:
 - [Visualizar detalhes do afiliado](#visualizar-detalhes-do-afiliado)
 - [Editar afiliado](#editar-afiliado)
 
-![affiliates_management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates Program App/aplicativo-affiliates-program_3.jpg)
+![affiliates_management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates%20Program%20App/aplicativo-affiliates-program_3.jpg)
 
 ### Adicionar afiliado
 
@@ -113,7 +113,7 @@ A página **Gerenciamento de pedidos** permite realizar as seguintes ações:
 - [Exportar lista de pedidos](#exportar-lista-de-pedidos)
 - [Visualizar detalhes do pedido](#visualizar-detalhes-do-pedido)
 
-![orders_management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates Program App/aplicativo-affiliates-program_4.jpg)
+![orders_management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates%20Program%20App/aplicativo-affiliates-program_4.jpg)
 
 ### Acompanhar dashboard
 
@@ -162,7 +162,7 @@ A página **Gerenciamento de comissões** permite realizar as seguintes ações:
 - [Importar comissões](#importar-comissoes)
 - [Fazer o download da última importação](#fazer-o-download-da-ultima-importacao)
 
-![commissions_ management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates Program App/aplicativo-affiliates-program_5.jpg)
+![commissions_ management_page_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Affiliates%20Program%20App/aplicativo-affiliates-program_5.jpg)
 
 ### Pesquisar comissões
 

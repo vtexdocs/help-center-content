@@ -3,8 +3,8 @@ title: 'Mi anuncio no aparece en Mercado Libre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
-updatedAt: 2024-06-13T18:11:28.836Z
-publishedAt: 2024-06-13T18:11:28.836Z
+updatedAt: 2024-11-08T15:28:30.286Z
+publishedAt: 2024-11-08T15:28:30.286Z
 firstPublishedAt: 2024-06-13T18:01:04.982Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,7 @@ legacySlug: mi-anuncio-no-aparece-en-mercado-libre
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palabras clave:__ *marketplace, catálogo, integración, Mercado Libre, anuncio pausado.*
+**Tags:** Marketplace, Catálogo, Integración, Mercado Libre, Anuncio pausado
 
 Cuando se remueve o desactiva un producto de la política comercial utilizada en la integración de Mercado Libre, la actualización de esos detalles se envía automáticamente al marketplace, que a su vez deja de mostrar el producto.
 
@@ -35,7 +35,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
 3. En la página de registro del producto, comprueba que la política comercial que se utiliza para Mercado Libre esté seleccionada.
 4. Si no lo está, marca la casilla de la política comercial.
 
-  ![politicas-comerciales-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+  ![politicas-comerciales-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/mi-anuncio-no-aparece-en-mercado-libre_1.png)
 
  5. Haz clic en el botón `Guardar`.
 
@@ -51,7 +51,7 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
 2. En la fila de la integración deseada, haz clic en `Editar`.
 3. En `Configuración`, comprueba que el campo Stock mínimo tenga un valor.
 
-  ![inventario-minimo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+  ![inventario-minimo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/mi-anuncio-no-aparece-en-mercado-libre_2.png)
 
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](https://help.vtex.com/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
 

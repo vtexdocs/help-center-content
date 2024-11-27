@@ -3,8 +3,8 @@ title: 'VTEX Admin: Start Here'
 id: 531cHtUCUi3puRXNDmKziw
 status: PUBLISHED
 createdAt: 2019-02-04T15:41:26.380Z
-updatedAt: 2024-07-03T11:18:48.914Z
-publishedAt: 2024-07-03T11:18:48.914Z
+updatedAt: 2024-10-22T17:22:01.374Z
+publishedAt: 2024-10-22T17:22:01.374Z
 firstPublishedAt: 2019-02-04T15:51:04.667Z
 contentType: tutorial
 productTeam: Others
@@ -62,6 +62,7 @@ This is where you can find all the useful links regarding the VTEX ecosystem to 
 
 ### Giving feedback through the VTEX Admin
 The Give Feedback button allows users to send feedback about their experience on the platform through the VTEX Admin. To access it, follow the steps below:
+
 1. Click the Information Center icon in the top right corner of the VTEX Admin.
 2. Click the **Give Feedback option**.
 

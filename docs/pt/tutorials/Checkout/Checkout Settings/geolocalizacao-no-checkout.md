@@ -42,7 +42,7 @@ Com a API Key em mãos, siga os passos abaixo:
 1. No Admin VTEX, acesse __Configurações da loja > Envio > Envio por geolocalização__, ou digite __Envio por geolocalização__ na barra de busca no topo da página.
 2. Insira a API Key no campo disponível e clique em __Cadastrar chave__.
 
-![Geolocalizacao 1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/geolocalizacao-no-checkout_1.png)
+![Geolocalizacao 1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/geolocalizacao-no-checkout_1.png)
 
 >ℹ️ Em alguns países, o Google Maps não realiza um mapping de alta qualidade. Com isso, pode acontecer de certos endereços serem mal escritos ou de o Google indicar um endereço incorreto. Nestes casos, deve-se corrigir o endereço diretamente no mapa.
 
@@ -61,7 +61,7 @@ Após criar o polígono e inserir seu ID na planilha de frete, você precisará 
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__.
 4. No campo __Google Maps API Key__, insira a mesma API Key informada na etapa de logística.
 
-![Google map keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/geolocalizacao-no-checkout_2.PNG)
+![Google map keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/geolocalizacao-no-checkout_2.PNG)
 
 Assim que a API Key for informada nas configurações do Checkout, a geolocalização já estará visível no checkout da sua loja.
 

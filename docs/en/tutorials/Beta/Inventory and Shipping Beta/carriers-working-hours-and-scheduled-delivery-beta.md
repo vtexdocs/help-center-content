@@ -21,7 +21,7 @@ In the tab *Shipping strategy* you can register your logistics route, including 
 The new features on the **Shipping policy** registration page give you more flexibility when setting up your delivery strategy. In the previous version, there was the section *Time setup*, in which you could select the *Working hours*, *Cut-off times* or *Scheduled Delivery* for a carrier. 
 
 **Previous version**
-![EN Configurações de tempo versão antiga](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory and Shipping Beta/carriers-working-hours-and-scheduled-delivery-beta_1.jpg)
+![EN Configurações de tempo versão antiga](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory%20and%20Shipping%20Beta/carriers-working-hours-and-scheduled-delivery-beta_1.jpg)
 
 In the new version, we’ve:  
 - Changed option names to make it more clear to users.  
@@ -29,7 +29,7 @@ In the new version, we’ve:
 - Added an option to define your delivery capacity, in order to schedule deliveries based on your operation reality.   
 
 **Beta version**
-![EN Horário de funcionamento transportadora beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory and Shipping Beta/carriers-working-hours-and-scheduled-delivery-beta_2.jpg)
+![EN Horário de funcionamento transportadora beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory%20and%20Shipping%20Beta/carriers-working-hours-and-scheduled-delivery-beta_2.jpg)
 
 ## Pickup time
 
@@ -46,7 +46,7 @@ Just like in the previous version, you can't set up the “Shipping time window�
 Previously, you could only choose the *Scheduled Delivery* function deprived of the *Business hours*. You can now set up the *Scheduled Delivery* option together with *Business hours* for your client to choose the most suitable shipping method during the order checkout. Please check the fields to fill-in when setting up this option.
 
 **Beta version**
-![EN entrega agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory and Shipping Beta/carriers-working-hours-and-scheduled-delivery-beta_3.jpg)
+![EN entrega agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Inventory%20and%20Shipping%20Beta/carriers-working-hours-and-scheduled-delivery-beta_3.jpg)
 
 - **Max. range of delivery**: this field must be filled according to your logistics operation. Please define the time period that the carrier takes to do a scheduled delivery, from the order to the delivery confirmation.  
 - **Set operational capacity**: depending on the characteristics of your operation, and on how the carrier sends its products, you might prefer to define a delivery capacity in the number of items or number of orders. For example, if your store is in the supermarket sector, and the means of transportation for the scheduled delivery is by motorcycle, only a limited number of items will fit into the motorcycle storage. For this reason, we recommend that you select “items” as units. However, if your operation already has a few items per order, you might prefer to define `orders` as units, for example.  

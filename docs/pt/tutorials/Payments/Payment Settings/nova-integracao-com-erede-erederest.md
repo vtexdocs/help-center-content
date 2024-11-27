@@ -25,11 +25,11 @@ Para configurar a nova versão, você precisa primeiro solicitar à Rede a ativa
 
 Uma vez notificado, acesse o menu __e.Rede > Configurações > Geração de token__.
 
-![GerarToken](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/nova-integracao-com-erede-erederest_1.png)
+![GerarToken](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/nova-integracao-com-erede-erederest_1.png)
 
 Depois, basta clicar no botão __Gerar Token__.
 
-![GerarToken Click](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/nova-integracao-com-erede-erederest_2.png)
+![GerarToken Click](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/nova-integracao-com-erede-erederest_2.png)
 
 Com isso, você vai poder visualizar o token que deverá ser informado no formulário de configuração da afiliação de gateway ERedeRest. Além do token, você também vai precisar informar o PV, que nada mais é do que o número de identificação do estabelecimento no site da Rede.
 
@@ -39,10 +39,10 @@ Para fazer essa configuração na VTEX, siga os passos abaixo:
 2. Em __Configurações__, acesse __Afiliações de Gateways__; 
 3. Clique no botão verde __+__ _Quero receber pagamento pelo conector..._ e procure o conector __ERedeRest.__
 
-![erederestPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/nova-integracao-com-erede-erederest_3.jpg)
+![erederestPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/nova-integracao-com-erede-erederest_3.jpg)
 
-![erederestPT-config](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/nova-integracao-com-erede-erederest_4.jpg)
+![erederestPT-config](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/nova-integracao-com-erede-erederest_4.jpg)
 
-![PegarPV](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/nova-integracao-com-erede-erederest_5.png)
+![PegarPV](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/nova-integracao-com-erede-erederest_5.png)
 
 Este novo conector oferece uma série de opções de configuração, entre elas o suporte ao ApplePay.

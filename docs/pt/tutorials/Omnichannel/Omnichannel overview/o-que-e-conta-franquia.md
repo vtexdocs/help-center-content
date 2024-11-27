@@ -19,7 +19,7 @@ Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados
 
 A conta franquia é associada a uma conta principal. No caso de uma marca que possui múltiplas lojas físicas, franqueados ou representantes, cada um deles pode ter uma conta franquia vinculada à conta principal da marca. Isso permite que eles entreguem produtos vendidos pelo ecommerce da marca.
 
-![diagrama contas v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Omnichannel/Omnichannel overview/o-que-e-conta-franquia_1.png)
+![diagrama contas v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Omnichannel/Omnichannel%20overview/o-que-e-conta-franquia_1.png)
 
 Neste artigo, você verá:
 
@@ -38,7 +38,7 @@ Além disso, utilizando a conta franquia, você pode gerenciar preços, meios de
 
 Uma conta franquia não possui um site próprio: os consumidores navegam diretamente no site da conta principal, que atua como marketplace nessa situação. Os dados dos clientes são armazenados no Master Data da conta principal.
 
-![diagrama admin contas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Omnichannel/Omnichannel overview/o-que-e-conta-franquia_2.png)
+![diagrama admin contas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Omnichannel/Omnichannel%20overview/o-que-e-conta-franquia_2.png)
 
 ## Relação entre conta franquia e Seller White Label
 

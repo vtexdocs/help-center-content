@@ -19,7 +19,7 @@ In B2B e-commerce operations, it is often necessary to inform an order's status 
 
 The **B2B Orders** app makes this process simple, allowing any employee to consult the company's orders through its online store.
 
-![orders VTEX B2B](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/B2B Orders/understanding-b2b-orders_1.png)
+![orders VTEX B2B](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/B2B%20Orders/understanding-b2b-orders_1.png)
 
 This self-service experience is possible, thanks to API integration with the ERP. With this, the employee can search for orders by:
 

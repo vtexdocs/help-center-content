@@ -25,11 +25,11 @@ A solicitação do browser é conhecida como **request**, e a resposta do servid
 
 Veja o esquema abaixo:
 
-![Como o cache funciona - comunicação entre servidor e browser](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN Service/entendendo-o-funcionamento-do-cache_1.png)
+![Como o cache funciona - comunicação entre servidor e browser](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN%20Service/entendendo-o-funcionamento-do-cache_1.png)
 
 O cache é representado através de uma camada entre o browser e o servidor. Assim, quando um **request** acontece, em vez de o sistema ir buscar as informações diretamente no servidor, primeiramente ele vai até essa camada, o que torna a resposta muito mais ágil. Veja o esquema abaixo:
 
-![Como o cache funciona - comunicação com cache (sem expirar)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN Service/entendendo-o-funcionamento-do-cache_2.png)
+![Como o cache funciona - comunicação com cache (sem expirar)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN%20Service/entendendo-o-funcionamento-do-cache_2.png)
 
 No entanto, como o dado atualizado está no servidor, de tempos em tempos o cache precisa ser atualizado. Esse tempo varia de acordo com o tipo de **request**, ou seja, se o **request** for uma página, o tempo é um, se for um arquivo javascript ou CSS é outro e, ainda, se for uma imagem, outro.
 
@@ -60,7 +60,7 @@ Quando o cache de um **request** (página ou arquivo) expira, ao realizar uma no
 
 Depois de atualizada, a versão cacheada volta a ser retornada para novas solicitações da URL. Veja o esquema ilustrando esse caso:
 
-![Como o cache funciona - comunicação com cache (expirado)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN Service/entendendo-o-funcionamento-do-cache_3.png)
+![Como o cache funciona - comunicação com cache (expirado)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN%20Service/entendendo-o-funcionamento-do-cache_3.png)
 
 Nesse aspecto, podemos separar as respostas em dois grupos: Cacheadas e não cacheadas.
 
@@ -73,7 +73,7 @@ Ao clicar no request, o primeiro ao recarregar a página, localize, entre os hea
 
 Se o valor for `MISS`, significa que o conteúdo exibido não é um conteúdo cacheado e foi retornado diretamente do servidor. Mais uma informação relevante que pode ser identificada nos headers dos **requests** é a data em que o cache foi criado. Essa informação está disponível na propriedade `X-vtex-processed-at`.
 
-[]![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN Service/entendendo-o-funcionamento-do-cache_4.png)
+[]![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/CDN%20Service/entendendo-o-funcionamento-do-cache_4.png)
 
 Apesar de arquivos JavaScript e CSS também terem a duração de cache estabelecida, como esses tipos de arquivo são utilizados na formatação dos layouts e, por isso, em alguns casos, precisam ter sua atualização mais ágil, o portal possui uma inteligência que identifica alterações em seus conteúdos, rompendo com a camada de cache. 
 

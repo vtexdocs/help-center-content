@@ -21,7 +21,7 @@ Toda conta pode ter vários workspaces. Para ver os workspaces que existem atual
 
 Veja um exemplo abaixo:
 
-![workspace list](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/listar-workspaces-da-conta_1.png)
+![workspace list](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/listar-workspaces-da-conta_1.png)
 
 As colunas que aparecem são as seguintes:
 

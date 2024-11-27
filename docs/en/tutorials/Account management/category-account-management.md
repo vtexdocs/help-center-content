@@ -1,9 +1,9 @@
 ---
 title: 'Account management'
-id: account-management
+id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -17,6 +17,8 @@ locale: en
 - [How to create a financial role?](https://help.vtex.com/en/docs/tutorials/how-to-create-a-financial-access-profile)
 - [Predefined roles](https://help.vtex.com/en/docs/tutorials/predefined-roles)
 - [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
+- [Access control](https://help.vtex.com/en/docs/tutorials/access-control)
+- [Creating roles](https://help.vtex.com/en/docs/tutorials/creating-roles)
 
 ## Users
 
@@ -28,7 +30,7 @@ locale: en
 - [Database Maintenance (Full Cleanup)](https://help.vtex.com/en/docs/tutorials/database-maintenance-full-cleanup)
 - [Transferring store ownership](https://help.vtex.com/en/docs/tutorials/transferring-store-ownership)
 - [Accessing a client's abandoned cart](https://help.vtex.com/en/docs/tutorials/accessing-a-client-abandoned-cart)
-- [User settings Overview](https://help.vtex.com/en/docs/tutorials/visao-geral-configuracoes-de-usuario)
+- [User settings Overview](https://help.vtex.com/en/docs/tutorials/user-settings-overview)
 
 ## Accounts
 

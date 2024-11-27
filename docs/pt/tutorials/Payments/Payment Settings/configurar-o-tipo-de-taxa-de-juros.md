@@ -25,7 +25,7 @@ O ID da forma de pagamento, que será configurada com Juros Simples, é obtido d
 - Acesse a Condição de Pagamento que deseja configurar para usar Juros Simples
 - Copie o último parâmetro da URL, que indica o ID dessa Forma de Pagamento (ver imagem)
 
-![imagem para valer do artigo em português de financial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-o-tipo-de-taxa-de-juros_1.png)
+![imagem para valer do artigo em português de financial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-o-tipo-de-taxa-de-juros_1.png)
 
 ## Configurar o tipo de juros usando API
 

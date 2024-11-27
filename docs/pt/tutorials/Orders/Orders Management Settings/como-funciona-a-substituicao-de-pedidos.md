@@ -62,13 +62,13 @@ Além disso, não é possível fazer a substituição nos seguintes status de pe
 
 Com essa funcionalidade, os usuários da sua loja ganham uma página de Meus Pedidos redesenhada, com opções de alteração e cancelamento:
 
-![meu pedidos1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders Management Settings/como-funciona-a-substituicao-de-pedidos_1.png)
+![meu pedidos1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/como-funciona-a-substituicao-de-pedidos_1.png)
 
-![meus pedidos3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders Management Settings/como-funciona-a-substituicao-de-pedidos_2.png)
+![meus pedidos3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/como-funciona-a-substituicao-de-pedidos_2.png)
 
 Ao selecionar **Alterar pedido**, o cliente é levado para uma tela onde escolhe qual informação gostaria de substituir:
 
-![meus pedidos2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders Management Settings/como-funciona-a-substituicao-de-pedidos_3.png)
+![meus pedidos2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/como-funciona-a-substituicao-de-pedidos_3.png)
 
 Para concluir a alteração, ele é levado para o carrinho e o Checkout, onde pode alterar endereço, tipo de frete, forma de pagamento e SKU.
 

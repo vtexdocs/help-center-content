@@ -21,6 +21,6 @@ A rota de check-in do Checkout chama no seu fluxo o Logistics. O que isso quer d
 
 Após o cadastro de sua(s) lojas(s) no MasterData ([veja aqui como fazer](/pt/tutorial/como-cadastrar-lojas-no-vtex-instore)), você poderá escolher a loja que gostaria de associar a essa doca pelo dropdown conforme a imagem abaixo:
 
-![2017-06-16 16 43 14-VTEX - Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/configuracao-de-logistica-do-vtex-instore_1.png)
+![2017-06-16 16 43 14-VTEX - Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/configuracao-de-logistica-do-vtex-instore_1.png)
 
 Para cada loja cadastrada deverá existir uma doca correspondente.

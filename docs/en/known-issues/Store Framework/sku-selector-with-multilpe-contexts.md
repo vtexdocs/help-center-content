@@ -22,10 +22,10 @@ internalReference: 341322
 
 SKU selector inside modal/quick view is not in the same context that is in the search page and product page.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/sku-selector-with-multilpe-contexts_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/sku-selector-with-multilpe-contexts_1.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/sku-selector-with-multilpe-contexts_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/sku-selector-with-multilpe-contexts_2.png)
 
 
 ##

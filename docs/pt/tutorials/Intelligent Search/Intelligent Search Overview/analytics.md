@@ -3,8 +3,8 @@ title: 'Analytics'
 id: 6qRMAHDL9hvv3oE0bh8mA1
 status: PUBLISHED
 createdAt: 2024-06-27T16:53:32.304Z
-updatedAt: 2024-06-27T16:54:23.587Z
-publishedAt: 2024-06-27T16:54:23.587Z
+updatedAt: 2024-10-31T20:52:06.594Z
+publishedAt: 2024-10-31T20:52:06.594Z
 firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,7 +28,7 @@ Siga os passos abaixo para acessar a página:
 
 ## Dados
 
-Os dados que compõem o relatório são atualizados a cada quatro horas e contêm as seguintes informações:
+Os dados que compõem o relatório são atualizados a cada doze horas e contêm as seguintes informações:
 
 * **Termos**: conteúdo das buscas realizadas.
 * **Buscas**: número de buscas realizadas para um termo específico. Quando o cliente pesquisa um termo na loja e clica em outra página ou atualiza a página, também é contabilizada uma busca.
@@ -74,8 +74,8 @@ Para exportar um relatório no formato CSV, você deve seguir os passos abaixo.
 
 O relatório CSV baixado apresenta duas tabelas. A primeira tabela, ilustrada abaixo, contém informações sobre termos pesquisados e as métricas de funil (da coluna **ProductsClick** até a coluna **ProductsSold**), caso essa opção tenha sido selecionada.
 
-![search-report-term](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent Search/Intelligent Search Overview/analytics_1.png)
+![search-report-term](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/analytics_1.png)
 
 A segunda tabela, ilustrada abaixo, mostra dados referentes ao período selecionado, exibindo a coluna Date, que informa a data da busca.
 
-![search-report-date](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent Search/Intelligent Search Overview/analytics_2.png)
+![search-report-date](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/analytics_2.png)

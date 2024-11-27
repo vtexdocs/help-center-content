@@ -21,7 +21,7 @@ Se você tem este problema no Google Chrome, basta ativar o plugin do Flash faze
 1. Clicar no botão de informação ou no cadeado, que precede a URL atual;
 2. Na linha correspondente ao Flash, que normalmente está como "Perguntar (padrão)", selecionar "Sempre permitir neste site".
 
-![chrome-flash](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/botao-de-upload-de-arquivos-nao-aparece-no-cms_1.jpg)
+![chrome-flash](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/botao-de-upload-de-arquivos-nao-aparece-no-cms_1.jpg)
 
 Normalmente esse problema está ligado à disponibilidade do Flash Player no navegador, e para o site acessado. 
 

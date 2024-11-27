@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 In the Order Management module, __Order Authorization__ allows you to control approvals for orders in your store that have a price divergence.
 
-![autorização-de-pedidos EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/how-order-authorization-workss_1.png)
+![autorização-de-pedidos EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/how-order-authorization-workss_1.png)
 
 This divergence in price between orders may occur in two main scenarios:
 

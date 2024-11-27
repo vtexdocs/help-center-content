@@ -28,11 +28,11 @@ Os clientes não conseguem excluir templates do CMS antigo.
 4. Clique na pasta **HTML Templates**.
 5. Clique no botão `delete` em qualquer template.
 
-![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/nao-e-possivel-deletar-um-template-no-cms_1.png)
+![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/nao-e-possivel-deletar-um-template-no-cms_1.png)
 
 Quando você tenta excluir um template, a seguinte mensagem é exibida:
 
-![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/nao-e-possivel-deletar-um-template-no-cms_2.png)
+![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/nao-e-possivel-deletar-um-template-no-cms_2.png)
 
 ## Workaround
 

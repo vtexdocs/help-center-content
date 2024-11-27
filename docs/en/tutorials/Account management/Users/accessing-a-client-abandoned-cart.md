@@ -29,26 +29,26 @@ Viewing these fields is very simple. Once logged in to your store Admin, just fo
 
 1. In the Admin sidebar, click __Master Data__;
 
-  ![Carrinho Abandonado - 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_1.jpg)
+  ![Carrinho Abandonado - 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_1.jpg)
 
 2. Click the __Profile System__ Settings icon (gear);
 
-  ![Carrinho Abandonado - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_2.jpg)
+  ![Carrinho Abandonado - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_2.jpg)
 
 3. Make sure you are in the __Applications__ tab;
 
-  ![Carrinho Abandonado - 3 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_3.jpg)
+  ![Carrinho Abandonado - 3 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_3.jpg)
 
 4. Click Edit (Pencil icon) in the __Customers__ category;
 
-  ![Carrinho Abandonado - 4 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_4.jpg)
+  ![Carrinho Abandonado - 4 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_4.jpg)
 
 5. Select __"Last Cart"__ and __"Cart"__ from the __Listing Options__;
 
-  ![Carrinho Abandonado - 5 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_5.jpg)
+  ![Carrinho Abandonado - 5 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_5.jpg)
 
 6. Click __Save__.
 
-  ![Carrinho Abandonado - 6 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/accessing-a-client-abandoned-cart_6.jpg)
+  ![Carrinho Abandonado - 6 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/accessing-a-client-abandoned-cart_6.jpg)
 
 With this, you can see the parameters of your customers' abandoned carts.

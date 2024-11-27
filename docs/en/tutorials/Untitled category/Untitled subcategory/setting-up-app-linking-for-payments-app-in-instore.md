@@ -17,7 +17,7 @@ subcategoryId: unknown-subcategory
 
 This article aims to explain how the inStore app configures AppLinking for `payment` and `payment-reversal` actions with the acquirers' apps.
 
-![Payment app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/setting-up-app-linking-for-payments-app-in-instore_1.png)
+![Payment app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/setting-up-app-linking-for-payments-app-in-instore_1.png)
 
 ## Setting fields
 

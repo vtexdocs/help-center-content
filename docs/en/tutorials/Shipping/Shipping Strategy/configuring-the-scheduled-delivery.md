@@ -29,7 +29,7 @@ On **Inventory & shipping**, access **Dashboard** and select the desired **Carri
 Then on **Shipping method**, click on **Scheduled Delivery**.
 
 
-![entrega-agendada en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/configuring-the-scheduled-delivery_1.png)
+![entrega-agendada en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/configuring-the-scheduled-delivery_1.png)
 For a better understandment about this sectin fields fulfillments, check out our document on how to [register a carrier](http://help.vtex.com/en/tutorial/registering-a-carrier).
 
 In this area, we have the following data:
@@ -43,7 +43,7 @@ In this area, we have the following data:
 Using the same situation of the store mentioned above, this would be the carrier configuration suitable to their demand:
 
 
-![entrega-agendada-exemplo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/configuring-the-scheduled-delivery_2.png)
+![entrega-agendada-exemplo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/configuring-the-scheduled-delivery_2.png)
 
 Assuming that Inventory time is 2 days, Dock time is 1 day, and Freight Timetable previews 5 days, the first day available for delivery will be **8** days after the date the request was made and, since the maximum delivery time is 10 days, the last day available for customer's choice will be the **18th** day after the date the request was made.
 

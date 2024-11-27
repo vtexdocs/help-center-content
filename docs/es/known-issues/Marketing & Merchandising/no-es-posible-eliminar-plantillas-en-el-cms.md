@@ -28,11 +28,11 @@ Los clientes no pueden eliminar las plantillas del CMS antiguo.
 4. Haz clic en la carpeta **HTML Templates**.
 5. Haz clic en el botón `delete` de cualquier plantilla.
 
-![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/no-es-posible-eliminar-plantillas-en-el-cms_1.png)
+![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/no-es-posible-eliminar-plantillas-en-el-cms_1.png)
 
 Cuando intentas eliminar una plantilla, se muestra el siguiente mensaje:
 
-![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/no-es-posible-eliminar-plantillas-en-el-cms_2.png)
+![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/no-es-posible-eliminar-plantillas-en-el-cms_2.png)
 
 ## Workaround
 

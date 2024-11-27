@@ -53,11 +53,11 @@ Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um 
 
 O pagamento é distribuído da seguinte forma:
 
-![Split de recebíveis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/split-de-pagamento_1.png)
+![Split de recebíveis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/split-de-pagamento_1.png)
 
 Nosso gateway calcula e distribui os pagamentos para cada beneficiário quando o pedido é faturado e envia essas informações ao provedor de pagamento. A distribuição é feita considerando o valor destinado a cada parte envolvida no pedido e as comissões cobradas pelo marketplace.
 
-![Relatório de comissão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/split-de-pagamento_2.png)
+![Relatório de comissão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/split-de-pagamento_2.png)
 
 É importante considerar que a nossa solução de split de recebíveis tem algumas limitações:
 
@@ -84,11 +84,11 @@ Isso significa que o marketplace tem menos controle sobre o fluxo de pagamento. 
 
 Por exemplo, um cliente adiciona dois produtos ao mesmo carrinho de compras. Um deles será entregue pelo próprio marketplace e o outro por um seller chamado Seller A.
 
-![Split de transação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/split-de-pagamento_3.png)
+![Split de transação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/split-de-pagamento_3.png)
 
 No split de transação, o marketplace não precisa fazer nenhuma configuração. O seller é quem precisa configurar seu próprio meio de pagamento na afiliação com o marketplace em questão. Para mais detalhes, confira nossa documentação [Envie os meios de pagamento do seller white label ao marketplace.](https://help.vtex.com/pt/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW)
 
-![Afiliação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/split-de-pagamento_4.png)
+![Afiliação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/split-de-pagamento_4.png)
 
 O split de transação tem algumas limitações que devem ser levadas em consideração.
 

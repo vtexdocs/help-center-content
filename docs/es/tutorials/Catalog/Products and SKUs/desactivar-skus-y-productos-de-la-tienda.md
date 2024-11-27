@@ -25,4 +25,4 @@ Para desactivar el SKU de un producto, seguir los pasos a continuación:
 4. Haga clic en el SKU que se desea desactivar.
 5. Desmarque la opción __Activar el SKU si es posible__.
 
-![inactivarSKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products and SKUs/desactivar-skus-y-productos-de-la-tienda_1.png)
+![inactivarSKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products%20and%20SKUs/desactivar-skus-y-productos-de-la-tienda_1.png)

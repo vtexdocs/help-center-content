@@ -28,7 +28,7 @@ A seção de métricas está organizada em três grandes grupos:
 - Dados de Pagamento;
 - Dados do Catálogo.
 
-![Action Dashboard](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/About the Admin/Admin overview/usando-a-homepage-do-painel-administrativo_1.png)
+![Action Dashboard](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/About%20the%20Admin/Admin%20overview/usando-a-homepage-do-painel-administrativo_1.png)
 
 ### Bridge
 
@@ -64,4 +64,4 @@ São exibidos os artigos novos do Help VTEX ou aqueles que foram atualizados rec
 
 Logo abaixo dos artigos, fica a seção **Info e Eventos**, onde exibimos novidades sobre a plataforma, dicas sobre e-commerce, informações sobre eventos de comércio eletrônico e tudo mais que for divulgado pela VTEX.
 
-![APIDocs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/About the Admin/Admin overview/usando-a-homepage-do-painel-administrativo_2.png)
+![APIDocs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/About%20the%20Admin/Admin%20overview/usando-a-homepage-do-painel-administrativo_2.png)

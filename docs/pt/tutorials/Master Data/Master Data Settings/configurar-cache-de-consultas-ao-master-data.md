@@ -26,7 +26,7 @@ Para configurar essa camada de cache, siga os passos abaixo:
 2. Clique em __Novo__ para criar uma nova entidade ou no ícone de lápis de uma entidade existente caso queira editá-la.
 3. Clique na caixa de seleção __Tempo de cache para consultas paginadas__ e escolha o tempo de cache para a entidade.
 
-![cacheMD](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master Data/Master Data Settings/configurar-cache-de-consultas-ao-master-data_1.jpg)
+![cacheMD](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20Settings/configurar-cache-de-consultas-ao-master-data_1.jpg)
 
 As opções de tempo de cache são:
 - 5 horas

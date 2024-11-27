@@ -53,7 +53,7 @@ Nesta seção, fornecemos informações detalhadas sobre os dados gerais desta p
 - **Informações adicionais (opcional):** permite incluir informações adicionais a promoção composto de um nome e valor.
 - **Destaque nos produtos:** insere uma tag com o nome da promoção. Utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template. <vtex.cmc:discountHightLight>.
 
-![Dados gerais da promoção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_1.png)
+![Dados gerais da promoção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_1.png)
 
 ## Restringir esta promoção a produtos dos sellers
 
@@ -66,7 +66,7 @@ Para que a promoção seja válida para todos os sellers, deixe a seleção vazi
 
 >⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
-![Restringir esta promoção a produtos dos sellers](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_2.png)
+![Restringir esta promoção a produtos dos sellers](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_2.png)
 
 ## Política comercial
 
@@ -79,7 +79,7 @@ Esta seção estabelece as políticas comerciais válidas para a promoção. Voc
 
 Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
 
-![Política comercial-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_3.png)
+![Política comercial-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_3.png)
 
 # 2. Compre e Ganhe
 
@@ -93,7 +93,7 @@ Esta seção define as coleções, SKUs e quantidade mínima que devem ser preen
 
 >⚠️ Uma promoção Compre e Ganhe pode ser criada com o máximo de 100 SKUs diferentes ao mesmo tempo.
 
-![Compre e Ganhe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_4.png)
+![Compre e Ganhe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_4.png)
 
 # 3. Quais condições para a promoção ser válida?
 
@@ -106,7 +106,7 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
 - **Utm_source:** o desconto será concedido caso a navegação seja realizada com a utm_source com o valor cadastrado.
 - **Utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
 
-![Quais as condições para a promoção ser válida?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_5.png)
+![Quais as condições para a promoção ser válida?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_5.png)
 
 # 4. Restrições e Limitações de uso
 
@@ -117,4 +117,4 @@ Nesta seção você encontrará informações importantes sobre quais condiçõe
 - **Somente para itens iguais:** Se esta opção estiver habilitada, a promoção é aplicada somente se a quantidade mínima de itens (cadastrados anteriormente) for atingida utilizando o mesmo SKU no carrinho. Caso a opção esteja desabilitada, a promoção será aplicada mesmo quando a quantidade mínima de itens for adicionada no carrinho, independentemente dos SKUs serem diferentes ou iguais.
 - **Permitir acumular promoções:** permite que essa promoção possa ser aplicada no carrinho em conjunto com outras promoções que ofereçam o mesmo tipo de desconto.
 
-![Restrições e limitações de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/compre-e-ganhe_6.png)
+![Restrições e limitações de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_6.png)

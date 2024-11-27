@@ -40,7 +40,7 @@ Para crear un formulario, sigue los pasos a continuación:
 
    Si el acrónimo de la entidad __Lista de compras__ es __LC__ y el nombre del campo es __Cliente__, se debe insertar: `LC.Cliente`. Así serán cargados los atendimientos del cliente que se está visualizando en el formulario:
 
-   ![registrosRelacionados-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master Data/Master Data v1 settings/creando-formulario-en-master-data_1.png)
+   ![registrosRelacionados-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/creando-formulario-en-master-data_1.png)
 
 Después de llenar los campos requeridos, aparecerán las fichas disponibles para configuración. Los siguientes son los campos para cada una de ellas.
 

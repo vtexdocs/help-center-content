@@ -61,13 +61,13 @@ Also, it's not possible to replace orders in the following statuses:
 
 With this feature, your store users get a redesigned My Orders page with change and cancellation options:
 
-![meus pedidos1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders Management Settings/how-the-order-replacement-works_1.png)
+![meus pedidos1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20Management%20Settings/how-the-order-replacement-works_1.png)
 
-![meus pedidos3 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders Management Settings/how-the-order-replacement-works_2.png)
+![meus pedidos3 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20Management%20Settings/how-the-order-replacement-works_2.png)
 
 When you select **Change order**, the customers are taken to a screen where they choose which information they would like to replace:
 
-![meus pedidos2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders Management Settings/how-the-order-replacement-works_3.png)
+![meus pedidos2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20Management%20Settings/how-the-order-replacement-works_3.png)
 
 To complete the change, customers are taken to the cart and the Checkout, where they can alter address, freight, payment method and SKU.
 

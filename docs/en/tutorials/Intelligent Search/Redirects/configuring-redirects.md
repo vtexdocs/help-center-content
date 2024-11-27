@@ -27,7 +27,7 @@ To configure a [redirect](https://help.vtex.com/en/tutorial/redirects--3okF84cIm
 
 You must fill in the fields below.
 
-![redirecionamentos-adminv4-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent Search/Redirects/configuring-redirects_1.png)
+![redirecionamentos-adminv4-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Redirects/configuring-redirects_1.png)
 
 ### General information
 

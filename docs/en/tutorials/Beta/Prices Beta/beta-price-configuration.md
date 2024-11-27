@@ -67,11 +67,11 @@ To create a new rule, follow the steps below:
 
   b. **Activate in specific conditions:** the price table will be activated according to the conditions set in the rule. See the configuration possibilities on the following images:
 
-  ![config-preco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices Beta/beta-price-configuration_1.png)
+  ![config-preco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices%20Beta/beta-price-configuration_1.png)
 
-  ![config-preco2-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices Beta/beta-price-configuration_2.png)
+  ![config-preco2-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices%20Beta/beta-price-configuration_2.png)
 
-![config-preco3-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices Beta/beta-price-configuration_3.png)
+![config-preco3-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Prices%20Beta/beta-price-configuration_3.png)
 
   7. Click on **Confirm**.
 

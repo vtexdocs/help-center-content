@@ -34,7 +34,7 @@ Para descobrir o ID de um SKU pelo Admin, siga os passos abaixo:
 
 No exemplo abaixo, o ID do SKU é __18__.
 
-![skuId-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/descobrir-o-id-de-um-sku_1.png)
+![skuId-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/descobrir-o-id-de-um-sku_1.png)
 
 ## URL de cadastro do SKU
 

@@ -1,9 +1,9 @@
 ---
 title: 'Storefront'
-id: cms
+id: category-cms
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: VTEX IO
 slugEN: category-cms
@@ -62,7 +62,7 @@ locale: es
 - [Pruebas A/B para tiendas en CMS Portal Legado](https://help.vtex.com/es/docs/tutorials/prueba-ab-como-donde-cuando-y-por-que)
 - [Configurar el favicono de tu tienda](https://help.vtex.com/es/docs/tutorials/configurar-el-favicono-de-tu-tienda)
 - [Responsivo × Versión Mobile](https://help.vtex.com/es/docs/tutorials/responsivo-x-version-mobile)
-- [Montar un Kit Look](https://help.vtex.com/es/docs/tutorials/como-montar-um-kit-look)
+- [Montar un Kit Look](https://help.vtex.com/es/docs/tutorials/como-montar-un-kit-look)
 - [Personalizar una página usando placeholder](https://help.vtex.com/es/docs/tutorials/como-personalizar-una-pagina-usando-placeholder)
 - [Ordenar imágenes en la vitrina y en la página de producto](https://help.vtex.com/es/docs/tutorials/ordenando-imagens-na-vitrine-e-na-pagina-de-produto)
 - [Realizar una prueba para verificar problemas de layout](https://help.vtex.com/es/docs/tutorials/como-realizar-um-teste-para-verificar-problemas-de-layout)
@@ -119,7 +119,7 @@ locale: es
 
 ## Headless CMS
 
-- [Headless CMS - Visión general](https://help.vtex.com/es/docs/tutorials/headless-cms-visao-geral)
+- [Headless CMS - Visión general](https://help.vtex.com/es/docs/tutorials/headless-cms-vision-general)
 - [Multimedia - Visión general](https://help.vtex.com/es/docs/tutorials/multimedia-vision-general)
 - [Gestionar Proyectos](https://help.vtex.com/es/docs/tutorials/gestionar-proyectos)
 - [Gestión de Páginas en el Headless CMS](https://help.vtex.com/es/docs/tutorials/gestion-de-paginas)

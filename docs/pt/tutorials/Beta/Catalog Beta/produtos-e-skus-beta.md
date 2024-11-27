@@ -19,7 +19,7 @@ subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.
 
-![products-skus-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog Beta/produtos-e-skus-beta_1.png)
+![products-skus-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/produtos-e-skus-beta_1.png)
 
 >ℹ️ Esta página está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessar esta página e fazer parte de uma nova experiência, participe do [programa Beta](https://content.vtex.com/participe-do-programa-beta-pt/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) do Novo Admin VTEX.
 
@@ -59,7 +59,7 @@ Para localizar um produto específico, você pode digitar um dos seguintes dados
 
 Em seguida, clique no critério que você deseja utilizar para a busca, conforme ilustrado na imagem a seguir:
 
-![products-skus-search-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog Beta/produtos-e-skus-beta_2.gif)
+![products-skus-search-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/produtos-e-skus-beta_2.gif)
 
 A lista de produtos exibida será atualizada de acordo com sua busca. 
 
@@ -97,7 +97,7 @@ Para visualizar o status dos SKUs de um produto, leia a seção [Visualizar list
 
 Ao clicar na seta <i class="fas fa-chevron-right"></i> na linha de um produto da lista, a plataforma exibe uma lista com todos os SKUs cadastrados para aquele produto.
 
-![sku-actions-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog Beta/produtos-e-skus-beta_3.gif)
+![sku-actions-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/produtos-e-skus-beta_3.gif)
 
 Na lista de SKUs, é possível identificar as informações a seguir:
 
@@ -142,7 +142,7 @@ Ao clicar no menu <i class="fas fa-ellipsis-v"></i> na linha de um produto e opt
 
 Esta aba do modal exibe a lista de SKUs associados ao produto e suas respectivas informações indexadas.
 
-![catalog-price-inventory-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog Beta/produtos-e-skus-beta_4.PNG)
+![catalog-price-inventory-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/produtos-e-skus-beta_4.PNG)
 
 Ao clicar na seta `>` na linha de cada SKU, você pode visualizar uma tabela com as as seguintes informações:
 
@@ -157,7 +157,7 @@ Ao clicar na seta `>` na linha de cada SKU, você pode visualizar uma tabela com
 
 Esta aba do modal apresenta o log, ou seja, o registro técnico detalhado da indexação referente ao produto e aos SKUs relacionados.
 
-![indexed-log-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog Beta/produtos-e-skus-beta_5.PNG)
+![indexed-log-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/produtos-e-skus-beta_5.PNG)
 
 ## Saiba mais
 

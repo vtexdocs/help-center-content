@@ -33,7 +33,7 @@ Con eso:
 
 - __Cuando una tienda VTEX es intermediaria en el flujo de un pedido__: pedido de cadena con __Chain Workflow__:
 
-![marketplace-recursivo-chain-order-workflow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-funciona-el-marketplace-recursivo_1.png)
+![marketplace-recursivo-chain-order-workflow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/como-funciona-el-marketplace-recursivo_1.png)
 
 
 ## Configuración

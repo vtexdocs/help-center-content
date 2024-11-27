@@ -34,18 +34,18 @@ Dicho esto, verifique el siguiente procedimiento:
 
 1. Acceda a su __cuenta de desarrollador__ Apple en `https://developer.apple.com/account/#/overview/`.
 2. Seleccione la opción __Certificates, ID & Profiles__.
-![AP1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_1.PNG)
+![AP1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_1.PNG)
 3. Haga clic en __ Identifiers__.
- ![AP2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_2.PNG)
+ ![AP2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_2.PNG)
 4. Al lado de Identifiers, haga clic en __botón azul +__.
-![AP3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_3.PNG)
+![AP3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_3.PNG)
 5. Seleccione la opción __Merchant IDs__.
 6. Haga clic en el botón azul __Continue__.
-![AP4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_4.PNG)
+![AP4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_4.PNG)
 7. Rellene el campo __Description__.
 8. Rellene el campo __Identifier__.
 9. Haga clic en el botón __Continue__.
-![AP5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_5.PNG) 
+![AP5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_5.PNG) 
 
 De este modo, se creará el __Merchant ID__. 
 
@@ -60,14 +60,14 @@ En seguida, el administrador de la tienda puede enviarlo al sistema Apple Pay.
 Para comenzar esta etapa, continúe con las instrucciones:
 
 1. En el menú del lado izquierdo, seleccione __Certificates__.
-![AP6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_6.PNG)
+![AP6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_6.PNG)
 2. Digite su __Merchant ID__ creado recientemente en la barra de búsqueda.
 3. Seleccione el __Merchant ID__ deseado.
-![AP7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_7.PNG)
+![AP7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_7.PNG)
 4. En el ítem __ Apple Pay Payment Processing Certificate__, haga clic en el botón __Create Certificate__.
-![AP8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_8.PNG)
+![AP8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_8.PNG)
 5. Asegúrese de que la pregunta *"Will payments associated with this Merchant ID be processed exclusively in China?"* esté marcada con __la opción default (No)__.
-![AP9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_9.PNG)
+![AP9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_9.PNG)
 
 En seguida, será redirigido a una pantalla con instrucciones sobre la creación del CRS (Certificate Signing Request). 
 
@@ -80,9 +80,9 @@ Con el {{merchantID}}.csr. que recibió, finalice:
 1. Haga clic en __Choose File__.
 2. Seleccione el __archivo CSR__ deseado.
 3. Haga clic en el botón __Continue__.
-![AP10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_10.PNG)
+![AP10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_10.PNG)
 4. Haga clic en __Download__.
-![AP11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_11.PNG)
+![AP11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_11.PNG)
 5. Haga clic en __Done__.
 
 ## Registrando dominios en el Merchant ID
@@ -97,17 +97,17 @@ Finalmente, es necesario importar este archivo al sistema de VTEX a través de P
 Verifique las instrucciones:
 
 1. Digite el __Merchant ID__ creado recientemente en la barra de búsqueda.
-![AP12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_12.PNG)
+![AP12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_12.PNG)
 2. Haga clic en el __Merchant ID__ deseado.
 3. En el módulo __Merchant Domains__, haga clic en el botón __Add Domain__.
-![AP13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_13.PNG)
+![AP13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_13.PNG)
 4. Agregue el dominio en el campo __Enter the domain you wish to register__.
 5. Haga clic en __Save__.
 
 Ahora, para hacer upload del archivo `.txt` por medio de la API, prosiga con las instrucciones:   
 
 1. Haga clic en __Download__ y no realice ninguna alteración en el archivo.  
-![AP14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_14.PNG)
+![AP14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_14.PNG)
 2. Abra el archivo `.txt` y __copie__ todo el contenido.
 
 En seguida, inicie una sesión en el Postman. Usted realizará una llamada vía POST para la CDN de VTEX:  
@@ -119,7 +119,7 @@ En seguida, inicie una sesión en el Postman. Usted realizará una llamada vía 
 Al realizar la llamada *POST*, la respuesta debe informar que el certificado se guardará durante 60 minutos. Durante este tiempo, debe completar la validación del dominio.
 
 Ahora, regrese al sitio web de Apple. En la misma pantalla donde descargó el archivo `.txt`, haga clic en __Verify__.
-![AP15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_15.PNG)
+![AP15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_15.PNG)
 
 Así, si el procedimiento se realiza correctamente, el dominio se registrará con el estado __Verified__. Si lo desea, puede repetir todo el proceso para registrar más dominios utilizando el botón __Add Domain__ en la sección __Merchant Domains__.
 
@@ -134,15 +134,15 @@ Para completar la acción, deberá crear una contraseña para proteger los datos
 1. Acceda al módulo __Certificates, Identifiers & Profilers__.
 2. En el menú del lado izquierdo, haga clic en __Identifiers__.
 3. En la esquina superior derecha, filtre por __Merchant IDs__.
-![AP16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_16.PNG)
+![AP16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_16.PNG)
 4. Seleccione el __Merchant Identifier__ deseado.
 5. Haga clic en __Create Certificate__.
-![AP17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_17.PNG)
+![AP17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_17.PNG)
 6. Siga las __instrucciones__ que se muestran en la pantalla para crear un certificado. 
 7. Haga clic en el botón __Continue__.
-![AP18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_18.PNG)
+![AP18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_18.PNG)
 8. Haga clic en __Download__.    
-![AP19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_19.PNG)
+![AP19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_19.PNG)
 
 Ahora, cuando se descargué el archivo, haga doble clic para instalarlo en Keychain Access.
 
@@ -150,7 +150,7 @@ Luego, continúe con el procedimiento:
 
 1. Abra el __Keychain Access__.
 2. Localice el __certificado__ creado en el paso cuatro anterior.
-3. Haga clic derecho en el ícono __llave__. ![AP20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-merchant-id-en-apple-pay_20.PNG) 
+3. Haga clic derecho en el ícono __llave__. ![AP20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-merchant-id-en-apple-pay_20.PNG) 
 4. Haga clic en __Export__.
 5. Nombre el __certificado__.
 6. Seleccione el formato de exportación __.p12__.

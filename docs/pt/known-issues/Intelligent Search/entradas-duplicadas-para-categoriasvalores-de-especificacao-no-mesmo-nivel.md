@@ -24,7 +24,7 @@ internalReference: 562588
 
 Não é possível identificar a diferença (id) entre as especificações dos módulos SI quando eles têm o mesmo nome e estão no mesmo nível
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent Search/entradas-duplicadas-para-categoriasvalores-de-especificacao-no-mesmo-nivel_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent%20Search/entradas-duplicadas-para-categoriasvalores-de-especificacao-no-mesmo-nivel_1.png)
 
 
 

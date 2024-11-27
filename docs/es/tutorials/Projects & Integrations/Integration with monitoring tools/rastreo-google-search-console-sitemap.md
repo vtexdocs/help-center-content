@@ -3,8 +3,8 @@ title: 'Rastreo Google Search Console  - Sitemap'
 id: tutorials_575
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:01.525Z
-updatedAt: 2019-12-31T15:24:04.746Z
-publishedAt: 2019-12-31T15:24:04.746Z
+updatedAt: 2024-11-18T22:54:37.262Z
+publishedAt: 2024-11-18T22:54:37.262Z
 firstPublishedAt: 2017-04-27T23:03:39.911Z
 contentType: tutorial
 productTeam: Others
@@ -36,7 +36,7 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **2. Seleccione la opción de &#8220;Sitemaps&#8221; en el apartado llamado &#8220;Rastreo&#8221;**
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/rastreo-google-search-console-sitemap_1.png)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreo-google-search-console-sitemap_1.png)****
 
 **3. Haga click en el boton &#8220;Añadir o Probar Sitemap&#8221;**
 
@@ -44,13 +44,13 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **5. **Click en &#8220;Enviar&#8221; **
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/rastreo-google-search-console-sitemap_2.png)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreo-google-search-console-sitemap_2.png)****
 
 **6. El Search Console tendrá acceso al XML y lo verificara. Haga click en la opcion &#8220;Actualizar pagina&#8221; para ir visualizando los resultados y los status de las urls enviadas por el Sitemap.**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/rastreo-google-search-console-sitemap_3.png)**
+**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreo-google-search-console-sitemap_3.png)**
 
 **7. Después de agregar con éxito el Sitemap en Search Console, se disponibilizara un reporte de las URLs enviadas versus las URLs indexadas, segmentadas por &#8220;Paginas web&#8221; e &#8220;Imagenes&#8221;**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/rastreo-google-search-console-sitemap_4.png)**
+**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreo-google-search-console-sitemap_4.png)**
 

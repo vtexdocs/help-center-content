@@ -3,8 +3,8 @@ title: 'Não consigo receber emails da VTEX'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
-updatedAt: 2024-06-10T18:28:15.898Z
-publishedAt: 2024-06-10T18:28:15.898Z
+updatedAt: 2024-11-08T18:46:08.368Z
+publishedAt: 2024-11-08T18:46:08.368Z
 firstPublishedAt: 2024-05-29T13:14:04.884Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: nao-consigo-receber-emails-da-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras-chave__: *central de mensagens, configurações da loja, templates de emails, exportação de dados, logs de erro, importação de planilhas, token de autenticação.*
+**Tags:** Central de mensagens, Templates de emails, Importação de planilhas, Token de autenticação
 
 Por meio da [Central de mensagens](https://help.vtex.com/pt/tutorial/conhecendo-o-message-center--tutorials_84), a VTEX oferece aos lojistas a opção de personalizar templates de e-mail que serão encaminhados aos usuários. Estes emails podem ser utilizados para transmitir as seguintes informações:
 - Token de autenticação na loja
@@ -91,4 +91,4 @@ Além disso, você também pode verificar se o endereço de email está cadastra
 3. Verifique se o endereço de email não está presente nos campos __Cc:__ ou __Cco:__ do template. Caso esteja, remova a informação e clique em `Salvar`.
 4. Realize este procedimento para cada um dos cards de template da loja e realize um teste de envio de email para o endereço desejado.
 
-![copia_email_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![copia_email_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-receber-emails-da-vtex_1.png)

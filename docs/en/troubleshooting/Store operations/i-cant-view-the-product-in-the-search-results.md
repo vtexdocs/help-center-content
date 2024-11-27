@@ -3,8 +3,8 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-08-08T14:57:59.572Z
-publishedAt: 2024-08-08T14:57:59.572Z
+updatedAt: 2024-11-08T19:10:04.204Z
+publishedAt: 2024-11-08T19:10:04.204Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,15 +15,15 @@ legacySlug: i-cant-view-the-product-in-the-search-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Keywords__: *product, search, catalog, intelligent search, apps, rewriter, graphql, vtex io, redirect.*
+**Tags:** Product, Search, Catalog, Intelligent search, Rewriter
 
 When the user searches in a VTEX store using [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-view-the-product-in-the-search-results_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-view-the-product-in-the-search-results_2.png)
 
 This behavior can occur due to the following reasons:
 
@@ -79,7 +79,7 @@ To remove the restriction on searching by *brand* and allow products to be found
 
 <blockquote><ui>4. Under <b>Choose an app</b>, click the Rewriter app option (<b>vtex.rewriter@{app-version-number}</b>).</ui>
 
-![Graphql_ide_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+![Graphql_ide_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-view-the-product-in-the-search-results_3.png)
 
 <blockquote><ui>5. In the query input field (below <b>GraphiQL</b>), enter the details of the <i>saveInternal</i> mutation function.<ui>
 

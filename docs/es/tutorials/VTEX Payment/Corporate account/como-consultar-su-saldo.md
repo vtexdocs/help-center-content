@@ -28,7 +28,7 @@ Para consultar el saldo de su cuenta, realice los siguientes pasos:
 - Haga clic en __Resumen de la Cuenta__.
 - En el lado izquierdo de la pantalla, busque el recuadro __Saldo__.
 
-![saldodisponivelES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX Payment/Corporate account/como-consultar-su-saldo_1.png)
+![saldodisponivelES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX%20Payment/Corporate%20account/como-consultar-su-saldo_1.png)
 
 El recuadro tiene dos valores. El primero, __Disponible__, presenta el saldo en cuenta libre para transacciones. El segundo, __Saldo a recibir__, muestra la suma de los pagos futuros que se registrarán en la cuenta digital corporativa.
 

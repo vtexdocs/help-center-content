@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2024-09-02T22:29:17.194Z
-publishedAt: 2024-09-02T22:29:17.194Z
+updatedAt: 2024-10-31T17:07:58.445Z
+publishedAt: 2024-10-31T17:07:58.445Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -34,6 +34,8 @@ The content is organized as follows:
 
 ## Available features
 
+When the customer provides their address, an initial selection of products is made to display only products that can be delivered to that location or picked up at pickup points within a radius of up to 50 km from the provided address — a limit determined by Checkout.
+
 Besides being able to buy all the products viewed, customers can filter the products on the product listing page to view only the results that meet certain criteria, as shown below. This allows customers to tailor their navigation experience to meet their needs:
 
 * Products available for the desired postal code.
@@ -42,11 +44,12 @@ Besides being able to buy all the products viewed, customers can filter the prod
 * Faster shipping method to deliver the order.
 * [Pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) where you want to pick up the order.
 
-At this stage, **Delivery Promise (Beta)** allows your store's customers to filter the products displayed in the navigation by the following criteria:
+At this stage, **Delivery Promise (Beta)** allows your store's customers to filter the products displayed in the navigation by using these filters:
 
-* Location provided by the customer.
-* Shipping or pickup.
-* Pickup point of their choice.
+* **Deliver to**: Products available for delivery to the provided address.
+* **Pickup:** Products available for pickup at pickup points within a radius of up to 50 km from the provided address. 
+* **Pickup nearby:** Products available for pickup at pickup points within a radius of up to 10 km from the provided address. 
+* **Pickup at {{name}}:** Products available for pickup at a given pickup point.
 
 >ℹ️ The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an [implementation partner](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).
 

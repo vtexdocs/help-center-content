@@ -1,10 +1,10 @@
 ---
 title: 'Configuring ClearSale v3 antifraud'
 id: 2pPORygesIqQOa6cIG6agg
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2024-04-24T18:52:20.944Z
-publishedAt: 2024-04-24T18:49:44.223Z
+updatedAt: 2024-11-08T18:13:21.419Z
+publishedAt: 2024-11-08T18:13:21.419Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -23,7 +23,7 @@ To configure ClearSaleV3, follow the steps below:
 1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __ClearSaleV3__ in the search bar and click on the name of the provider.
-4. If you wish to modify the identification name to be displayed for the PagoEfectivoV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+4. If you wish to modify the identification name to be displayed for the ClearSaleV3 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 5. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
 6. Fill in the information below according to your ClearSale settings:
 <br>
@@ -73,7 +73,7 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 10. Click on the __Create Tag__ button, enter a name for this tag and save.
 11. In the top right corner, click on __Publish__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/configuring-clearsale-v3-antifraud_1.png)
+![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-clearsale-v3-antifraud_1.png)
 
 >ℹ️ See the [ FingerPrint documentation](https://api.clearsale.com.br/docs/finger-print" target="_blank) on ClearSale for more information on the above script.
 

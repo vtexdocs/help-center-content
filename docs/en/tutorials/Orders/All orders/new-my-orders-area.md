@@ -26,28 +26,28 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 VTEX is always looking to use a modern stack to create products that deliver more value to the ecosystem. For this reason, we started using the React JS library in our most recent systems and features: the new **My Orders** feature is one example. The newest version comes with new features and design, and was created from scratch using React.
 
-![Order listing in the new My Orders](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_1.png)
+![Order listing in the new My Orders](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_1.png)
 
 ### New navigation experience
 
 React wasn't chosen only so this release was aligned with the remaining of the VTEX platform — because it's a single-page application loaded within the store, the new orders area has a fluid navigation, improving the user experience.
 
-![My Orders navigation with instant loading between pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_2.gif)
+![My Orders navigation with instant loading between pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_2.gif)
 
 ### Features
 
 This update in the My Orders will be the starting point for new features, but this one already brings improvements, like a mobile-ready layout and order timeline — a feature lots of agencies implemented on their own.
 
-![Mobile & desktop My Orders](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_3.png) 
+![Mobile & desktop My Orders](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_3.png) 
 
-![Order details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_4.png) 
+![Order details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_4.png) 
 
 
 Another new feature are the pre-defined cancelling reasions that the client can choose when cancelling an order. These reasons can be easily customized and translated in Portal v2:
 
-![Cancelamento do pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_5.png) 
+![Cancelamento do pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_5.png) 
 
-![Customizando razões de cancelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_6.png)
+![Customizando razões de cancelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_6.png)
 
 For the first time, we're also supporting native translation of the My Orders to french, right from the interface!
 
@@ -55,7 +55,7 @@ For the first time, we're also supporting native translation of the My Orders to
 
 To avoid compatibility issues and reduce the chance of breaking customizations, the new My Orders comes with an opt-in, that allows stores to migrate on the speed they wish. This opt-in checkbox is in the Portal v2, in the same section as the cancelling reasons:
 
-![Opt-in to activate the new version](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/new-my-orders-area_7.png)
+![Opt-in to activate the new version](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/new-my-orders-area_7.png)
 
 Before activating the new version, you can see it accessing your store through the beta environment: `accountname.vtexcommercestable.com.br/account/orders`.
 

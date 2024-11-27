@@ -19,18 +19,18 @@ Para posibilitar un trabajo más eficiente de nuestro equipo de consultoría y o
 
 Luego de acceder a su cuenta, usted será direccionado a la lista de sus sites, y así basta seleccionar el site cuyo acceso desea compartir haciendo clic sobre el link de su site,
 
-![web1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_1.png)
+![web1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_1.png)
 
 Así, ahora accedemos al panel administrativo de nuestra página. Diversas opciones son posibles en el menú lateral izquierdo, pero para compartir al acceso, debemos seleccionar el engranaje en el menú superior y hacer clic en **Usuarios y proprietarios de sitio**.
 
-![web2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_2.png)
+![web2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_2.png)
 
 Se exhibirá ahora la lista de los usuarios ya autorizados a este site, por lo tanto, para adicionar un nuevo usuario basta hacer clic en la parte superior de la pantalla, sobre el botón **Añadir Nuevo Usuario**.
 
-![web3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_3.png)
+![web3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_3.png)
 
 Tras el clic, se abre un pop-up solicitando como información o email del usuario a ser adicionado y el tipo de permiso, Total o restricto, que recibirá este usuario.
 
-![web4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_4.png)
+![web4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/compartir-acceso-al-google-webmaster-tools-de-su-tienda_4.png)
 
 No se olvide de hacer clic en **Añadir** para guardar.

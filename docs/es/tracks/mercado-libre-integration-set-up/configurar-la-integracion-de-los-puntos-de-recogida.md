@@ -56,7 +56,7 @@ Para ativar os pontos de retirada nas contas franquias:
 1. Acceda al Admin VTEX.
 2. En el módulo MARKETPLACE, seleccione **Integraciones**.
 3. Luego, haga clic en `Configuración`.
-4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/es/tracks/mercado-libre-integration-set-up/configurar-la-integracion-de-los-puntos-de-recogida_6.JPG" />.
+4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/configurar-la-integracion-de-los-puntos-de-recogida_6.JPG" />.
 5. Elija la opción `Editar configuración`.
 6. En el campo **Activar integración de los puntos de recogida de las cuentas franquicia**, haga clic en la opción `Sí`.
 7. Haga clic en `Guardar configuración`.

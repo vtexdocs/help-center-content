@@ -34,7 +34,7 @@ After receiving the bank file and saving it on your machine, as mentioned above
 
 Once you select the file, the platform will begin to process it, and record in the history how many payments were reconciled, with success or error. Payments that have been successfully reconciled will update the status of the orders to Approved Payment.
 
-![upload-file-ret](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank conciliation/bank-reconciliations_1.JPG)
+![upload-file-ret](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank%20conciliation/bank-reconciliations_1.JPG)
 
 ## View history
 
@@ -46,7 +46,7 @@ Among the details, it is possible to know the bank to which the slip belongs, th
 3. In **History**, click on one of the dates of the bank reconciliation operations performed.
 4. In **More Details**, click **Successfully Reconciled** or **Not Able to Reconcile** to check the details of the transactions carried out in a particular bank. 
 
-![historic-conciliation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank conciliation/bank-reconciliations_2.jpg)
+![historic-conciliation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank%20conciliation/bank-reconciliations_2.jpg)
 
 ## Payclub
 
@@ -57,4 +57,4 @@ Here you can download the payments on the day they were made through redirection
 4. Select the date you want from the calendar.
 5. Click on **Download file**.
 
-![donwload-file-conciliation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank conciliation/bank-reconciliations_3.JPG)
+![donwload-file-conciliation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Bank%20conciliation/bank-reconciliations_3.JPG)

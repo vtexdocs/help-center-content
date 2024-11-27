@@ -30,7 +30,7 @@ Then, you have to place your store on a production status on its relevant Licens
 4. On the option **Is it n production, **click on the **No button**, to change it to **Yes**;
 5. Click on the **Save** button.
 
-![accounts.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Accounts/releasing-the-store-for-production_1.png)
+![accounts.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/releasing-the-store-for-production_1.png)
 
 After this is set up, the access to the final URL of the store will be redirected to your e-commerce!
 

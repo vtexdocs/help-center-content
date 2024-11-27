@@ -21,7 +21,7 @@ Con esta nueva feature, tenemos ahora una nueva entidad de precio llamada *Preci
 
 El siguiente gráfico explica cómo funciona la cascada de precios:
 
-![tabelapreco.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/cascada-de-precios_1.png)
+![tabelapreco.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/cascada-de-precios_1.png)
 
 Cuando un precio para un SKU se solicita al módulo de precios:
 1. Un *Precio fijo* se selecciona segun sus criterios como **programación** y **cantidad mínima**.

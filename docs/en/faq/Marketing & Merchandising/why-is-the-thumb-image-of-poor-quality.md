@@ -24,7 +24,7 @@ To perform this configuration:
 3. Click **Edit** on the `Produto - Thumb` row.
 4. In the display, you can choose the maximum file size  for the thumbnails in the **Maximum size in Kb** field.
 
-![File type settings in CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing & Merchandising/why-is-the-thumb-image-of-poor-quality_1.PNG)
+![File type settings in CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing%20&%20Merchandising/why-is-the-thumb-image-of-poor-quality_1.PNG)
 
 To learn how to improve the quality of any image from your store without compromising the page load performance, we also recommend reading the article [Improving the performance of product images](https://help.vtex.com/pt/tutorial/improving-the-performance-of-product-images/).
 

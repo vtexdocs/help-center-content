@@ -49,11 +49,11 @@ Also found something curious on department page with pageView and page_view
 
 https://storetheme.vtex.com/apparel---accessories/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages_1.png)
 
 But, this specific issue is replicable at
 
 https://www.dzarm.com.br/outlet
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages_2.png)
 

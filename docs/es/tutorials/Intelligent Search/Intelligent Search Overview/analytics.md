@@ -3,8 +3,8 @@ title: 'Analytics'
 id: 6qRMAHDL9hvv3oE0bh8mA1
 status: PUBLISHED
 createdAt: 2024-06-27T16:53:32.304Z
-updatedAt: 2024-06-27T16:54:23.587Z
-publishedAt: 2024-06-27T16:54:23.587Z
+updatedAt: 2024-10-31T20:52:06.594Z
+publishedAt: 2024-10-31T20:52:06.594Z
 firstPublishedAt: 2024-06-27T16:54:23.587Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,7 +28,7 @@ A continuación se indican los pasos necesarios para acceder a la página:
 
 ## Datos
 
-Los datos que componen el informe se actualizan cada 4 horas y contienen la siguiente información:
+Los datos que componen el informe se actualizan cada doce horas y contienen la siguiente información:
 
 *   **Término de búsqueda**: contenido de las búsquedas realizadas. 
 *   **Búsquedas**: número de búsquedas realizadas para un término específico. Cuando el cliente busca un término en la tienda y hace clic en otra página o actualiza la página, también se cuenta como una búsqueda. 
@@ -74,8 +74,8 @@ Para exportar un informe en formato CSV, debe seguir los pasos que se indican a 
 
 El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
 
-![search-report-term](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Intelligent Search Overview/analytics_1.png)
+![search-report-term](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/analytics_1.png)
 
 La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
 
-![search-report-date](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Intelligent Search Overview/analytics_2.png)
+![search-report-date](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/analytics_2.png)

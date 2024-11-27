@@ -22,4 +22,4 @@ Pero recuerde: la suscripción sólo aparece en las propiedades después de que 
 1. Acceda al __Gestión de Pedidos__.
 2. Haga clic en la pestaña __Assinaturas__.
 
-![subscription ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription Guides/donde-veo-a-los-clientes-que-utilizan-recurrencia_1.png)
+![subscription ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/donde-veo-a-los-clientes-que-utilizan-recurrencia_1.png)

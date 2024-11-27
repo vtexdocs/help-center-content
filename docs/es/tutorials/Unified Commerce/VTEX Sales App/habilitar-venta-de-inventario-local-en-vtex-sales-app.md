@@ -3,8 +3,8 @@ title: 'Habilitar Venta de inventario local en VTEX Sales App'
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
-updatedAt: 2023-05-30T15:49:36.187Z
-publishedAt: 2023-05-30T15:49:36.187Z
+updatedAt: 2024-11-04T21:09:14.115Z
+publishedAt: 2024-11-04T21:09:14.115Z
 firstPublishedAt: 2023-05-22T23:31:37.597Z
 contentType: tutorial
 productTeam: Shopping
@@ -73,22 +73,22 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 1. Tras [seleccionar un vendedor](https://help.vtex.com/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
-![instore-pdp-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)
+![instore-pdp-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)
 
->ℹ️ Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
+>ℹ️ Si has habilitado el stock ilimitado, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
 
 ### Habilitar la venta de un ítem sin stock (opcional)
 
-También puedes configurar la Venta en mano para ignorar la cantidad de ítems en stock y forzar la disponibilidad de los ítems sin necesidad de activar el stock infinito. Para ello, sigue las instrucciones a continuación:
+También puedes configurar la Venta en mano para ignorar la cantidad de ítems en stock y forzar la disponibilidad de los ítems sin necesidad de activar el stock ilimitado. Para ello, sigue las instrucciones a continuación:
 
 1. Ve a la configuración técnica de Sales App utilizando la siguiente URL. Sustituye `cuenta_principal` por el nombre de la cuenta principal de tu tienda en el Admin VTEX:
 ```https://{cuenta_principal}.myvtex.com/admin/portal/#/sites```
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i> para editar.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-![instore-custom-js-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
+![instore-custom-js-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
 5. En la clave `window.INSTORE_CONFIG`, agrega la flag `venderSinStockEnMano: true`.
-![sellWithoutStockInHands-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
+![sellWithoutStockInHands-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`.
 
 ### Habilitar la venta con carrito mixto (opcional)

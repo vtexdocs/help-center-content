@@ -21,7 +21,7 @@ Este é apenas um teste do markdown-renderer.
 16. Em __Chave Secreta do Aplicativo__, clique no botão __Mostrar__.
     - Copie o campo __ID do Aplicativo__ e cole no campo `Client Id` no admin do VTEX ID.
     - Copie o campo __Chave Secreta do Aplicativo__ do Aplicativo do Facebook e cole no campo `Client Secret` no admin do VTEX ID.
-    ![ID Chave Facebook PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/teste-do-renderer-de-markdown_1.png)
+    ![ID Chave Facebook PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/teste-do-renderer-de-markdown_1.png)
 
 1. LoremIpsum
 16. Em __Chave Secreta do Aplicativo__, clique no botão __Mostrar__.

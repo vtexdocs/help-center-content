@@ -1,9 +1,9 @@
 ---
 title: 'Sellers'
-id: sellers
+id: category-sellers
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-sellers

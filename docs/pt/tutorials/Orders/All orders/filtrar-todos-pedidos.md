@@ -3,8 +3,8 @@ title: 'Filtrar pedidos em Todos os pedidos'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-12-21T14:06:54.896Z
-publishedAt: 2023-12-21T14:06:54.896Z
+updatedAt: 2024-11-12T15:08:02.463Z
+publishedAt: 2024-11-12T15:08:02.463Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,7 +19,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 No módulo **Pedidos**, a página **Todos os pedidos** permite a você acessar os pedidos da sua loja e pesquisar usando a barra de busca e filtros, como na imagem abaixo:
 
-![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/filtrar-todos-pedidos_1.png)
+![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/filtrar-todos-pedidos_1.png)
 
 Este artigo explica como utilizar estes recursos e se divide em:
 
@@ -34,6 +34,8 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 - Nome do cliente
 - Email do cliente
 - Documento do cliente 
+
+>ℹ️ Ao aplicar múltiplos filtros em pesquisas diferentes, o total de pedidos momentaneamente visualizados na janela de filtragem pode ser diferente do total apresentado na tela **Todos os pedidos**. Isso ocorre por uma limitação da plataforma, mas não impacta na validade dos resultados exibidos após a filtragem.
 
 ## Barra de busca
 
@@ -59,7 +61,7 @@ Buscar em todos os pedidos retorna a totalidade de pedidos relacionados ao crit�
 
 Para buscar em todos os pedidos, digite o termo desejado na caixa de busca. Isso fará com que a opção <i class="fas fa-toggle-on"></i> `Remover limite de datas` se torne visível. Depois basta ativá-la e isso dará início à busca.
 
-![search_bar_without_time_limit_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/filtrar-todos-pedidos_2.png)
+![search_bar_without_time_limit_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/filtrar-todos-pedidos_2.png)
 
 >❗ A busca em todos os pedidos não pode ser associada a outros filtros. Ou seja, ao remover o limite de datas da busca, qualquer filtro ativo se torna inativo. Se o termo da busca é removido ou o switch <i class="fas fa-toggle-off"></i> de busca em todos os pedidos é desativado, os filtros anteriormente configurados se tornam ativos novamente.
 
@@ -75,7 +77,7 @@ Realizar uma busca associada a filtros permite que você combine diferentes filt
 
 Na página **Pedidos > Todos os pedidos**, existe a opção `Filtros`, conforme a imagem abaixo:
 
-![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/filtrar-todos-pedidos_3.png)
+![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/filtrar-todos-pedidos_3.png)
 
 Ao clicar em `Filtros`, um modal é aberto e apresenta as seguintes opções:
 
@@ -189,7 +191,7 @@ Para utilizar esses filtros, clique em `Filtros` e selecione **Outros**. Você p
 
 Na página **Pedidos > Todos os pedidos**, existe a opção `Filtrar por status` <i class="fas fa-angle-down"></i>, conforme imagem abaixo:
 
-![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/filtrar-todos-pedidos_4.png)
+![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/filtrar-todos-pedidos_4.png)
 
 Ao clicar em `Filtrar por status` <i class="fas fa-angle-down"></i>, aparecem as opções de [status de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) da sua loja. Por exemplo, se entre todos os seus pedidos não houver pedidos cancelados, esta opção não estará visível.
 
@@ -199,7 +201,7 @@ Ao clicar em `Filtrar por status` <i class="fas fa-angle-down"></i>, aparecem as
 
 Na página **Pedidos > Todos os pedidos**, existe a opção `Criado: Hoje` <i class="fas fa-angle-down"></i>, conforme imagem abaixo:
 
-![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/filtrar-todos-pedidos_5.png)
+![search_bar_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/filtrar-todos-pedidos_5.png)
 
 Este filtro tem a data **Hoje** ativada de forma padrão, mas ao clicar nele aparecem as seguintes opções:
 

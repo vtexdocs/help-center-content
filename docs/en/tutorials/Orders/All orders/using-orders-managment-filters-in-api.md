@@ -28,18 +28,18 @@ The example used is the query API related to orders: [http://{STORENAME}.vtexcom
 
 We will use a filter based on the date of creation of the order, within a range that may bring all orders marked as “**há um mês**” and whose status is “**pronto para manuseio.”**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/using-orders-managment-filters-in-api_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/using-orders-managment-filters-in-api_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/using-orders-managment-filters-in-api_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/using-orders-managment-filters-in-api_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/using-orders-managment-filters-in-api_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/using-orders-managment-filters-in-api_3.png)
 
-After checking the filters, a URL will be generated in the browser with the parameters selected:![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/using-orders-managment-filters-in-api_4.png)
+After checking the filters, a URL will be generated in the browser with the parameters selected:![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/using-orders-managment-filters-in-api_4.png)
 
 Then, you will need to decode the URL so that it can be interpreted by the REST interface.
 Using the [URL dencoder](http://meyerweb.com/eric/tools/dencoder/ "URL dencoder") tool, you can make adjustments manually and quickly.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/using-orders-managment-filters-in-api_5.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/using-orders-managment-filters-in-api_5.png)
 
 Then, just copy the URL extension from “?” and paste it in the structure of origin to the URL of request.
 Ex.:` http://nomedaloja.vtexcommercestable.com.br/api/oms/pvt/orders/?orderBy=creationDate,desc&amp;f_creationDate=creationDate:[2014-09-03T03:00:00.000Z TO 2014-10-04T02:59:59.999Z]&amp;f_statusDescription=Pronto para o manuseio`

@@ -3,8 +3,8 @@ title: 'Admin VTEX: Comience Aquí'
 id: 531cHtUCUi3puRXNDmKziw
 status: PUBLISHED
 createdAt: 2019-02-04T15:41:26.380Z
-updatedAt: 2024-07-03T11:18:48.914Z
-publishedAt: 2024-07-03T11:18:48.914Z
+updatedAt: 2024-10-22T17:22:01.374Z
+publishedAt: 2024-10-22T17:22:01.374Z
 firstPublishedAt: 2019-02-04T15:51:04.667Z
 contentType: tutorial
 productTeam: Others
@@ -62,6 +62,7 @@ Allí hemos reunido todos los enlaces útiles de nuestro ecosistema VTEX para ay
 
 ### Feedback en el Admin VTEX
 El botón Dar feedback permite al usuario compartir su opinión sobre su experiencia en la plataforma a través del Admin VTEX. Para hacerlo, sigue los pasos a continuación:
+
 1. Haz clic en el botón Centro de Información en la esquina superior derecha del Admin VTEX.
 2. Haz clic en la opción **Dar feedback**.
 

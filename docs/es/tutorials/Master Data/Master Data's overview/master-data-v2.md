@@ -24,10 +24,10 @@ Este artículo explica cómo guardar, validar y obtener documentos en el Master 
 No es necesario crear un JSON Schema para guardar documentos. Usted puede guardar en cualquier entidad de datos si el contenido es un JSON válido.
 
 JSON Schema indica cómo validar e indizar. Una entidad de datos puede o no tener varios JSON Schemas.
-![master-data-data-entity-schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master Data/Master Data's overview/master-data-v2_1.jpg)
+![master-data-data-entity-schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data's%20overview/master-data-v2_1.jpg)
 
 Un documento puede ser compatible con varios JSON Schemas, pero también con ninguno.
-![master-data-documents-compliant](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master Data/Master Data's overview/master-data-v2_2.jpg)
+![master-data-documents-compliant](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data's%20overview/master-data-v2_2.jpg)
 
 Esto significa que JSON Schema es un formato de documentos en entidades de datos.
 

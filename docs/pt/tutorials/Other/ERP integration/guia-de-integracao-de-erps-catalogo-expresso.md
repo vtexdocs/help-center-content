@@ -32,7 +32,7 @@ Após definida as variações e a estrutura mercadológica da loja, o próximo p
 
 _Fluxo:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP integration/guia-de-integracao-de-erps-catalogo-expresso_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/ERP%20integration/guia-de-integracao-de-erps-catalogo-expresso_1.png)
 
 ### Produto
 

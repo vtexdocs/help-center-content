@@ -38,7 +38,7 @@ Digamos que tenemos una promoción de descuento nominal de $ 156,00 para ser apl
 
 Considerando la lógica del cálculo anterior, quedaría como sigue:
 
-![tabelaex.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-el-prorrateo-de-una-promocion_1.png)
+![tabelaex.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-el-prorrateo-de-una-promocion_1.png)
 
 Este cálculo se aplica a productos unitarios, como una blusa o una mesa, pero también hay productos que tienen en su registro una configuración llamada unidad multiplicadora, como una caja de piso de 2,5 m², por ejemplo.
 

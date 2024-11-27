@@ -80,7 +80,7 @@ Para pausar o envio de mensagens de uma campanha:
 
 Você pode encontrar informações relativas às suas campanhas em andamento no Admin VTEX.
 
-![Visão geral-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/WhatsApp AI Campaigns/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns_1.png)
+![Visão geral-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/WhatsApp%20AI%20Campaigns/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns_1.png)
 
 Abaixo estão os detalhes das métricas disponíveis:
 

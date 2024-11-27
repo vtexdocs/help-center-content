@@ -33,6 +33,6 @@ Neste tutorial, explicaremos como realizar essa integração por meio do Admin d
 4. Desça a tela e habilite a opção __3DS Enabled__.  
 5. Clique em __Salvar__.
 
-![RedsysV2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/adicionar-suporte-a-3ds2-na-integracao-com-a-redsys-v2_1.png)
+![RedsysV2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/adicionar-suporte-a-3ds2-na-integracao-com-a-redsys-v2_1.png)
 
 Feito isso, a solução estará habilitada para as transações da Redsýs com cartão de crédito.

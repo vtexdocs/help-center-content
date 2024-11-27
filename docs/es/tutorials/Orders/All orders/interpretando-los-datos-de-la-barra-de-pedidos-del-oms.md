@@ -26,7 +26,7 @@ El siguiente conjunto de datos es presentado en la pantalla de __Todos los pedid
 
 Al lado de cada uno de esos valores, se puede ver un porcentaje que representa la variación relativa a los pedidos de hoy.
 
-![order-metric-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/interpretando-los-datos-de-la-barra-de-pedidos-del-oms_1.png)
+![order-metric-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/interpretando-los-datos-de-la-barra-de-pedidos-del-oms_1.png)
 
 En el screenshot de las métricas arriba, podemos ver la siguiente información:
 

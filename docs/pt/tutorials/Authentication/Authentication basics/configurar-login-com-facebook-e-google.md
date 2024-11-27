@@ -38,12 +38,12 @@ Após a configuração no Facebook ou Google, é preciso configurar no Admin VTE
 2. Clique em **Configurações da conta > Autenticação**.
 
     Você será direcionado(a) para a aba **Loja virtual** da página **Autenticação**, que lista os métodos de login disponíveis na sua loja.
-    ![Lista Autenticação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/configurar-login-com-facebook-e-google_1.png)
+    ![Lista Autenticação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/configurar-login-com-facebook-e-google_1.png)
 3. Na linha do provedor de login desejado, clique em `Configurar`.
 4. Preencha o formulário com o `Client ID` e o `Segredo do cliente` cadastrado e clique em `Salvar`.
-    ![Facebook OAuth PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/configurar-login-com-facebook-e-google_2.png)
+    ![Facebook OAuth PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/configurar-login-com-facebook-e-google_2.png)
 5. Na página **Autenticação**, ative o uso do provedor clicando no interruptor.  
-    ![Lista Autenticação Switch On Highlight](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/configurar-login-com-facebook-e-google_3.png)
+    ![Lista Autenticação Switch On Highlight](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/configurar-login-com-facebook-e-google_3.png)
 
 ## Validar a configuração
 

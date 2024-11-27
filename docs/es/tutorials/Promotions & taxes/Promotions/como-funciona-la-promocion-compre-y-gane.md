@@ -54,7 +54,7 @@ En esta sección se proporciona información detallada sobre los datos generales
 - **Información adicional (opcional):** permite incluir en la promoción información adicional que incluye un nombre y un valor.
 - **Promoción resaltada:** al elegir esta opción, se crea una tag que destaca el nombre de la promoción. Se implementa en la vitrina y en la página de producto, siempre y cuando se utilice el control de visualización de promociones correcto en la plantilla. `<vtex.cmc:discountHightLight>`.
 
-![Resumen de la promoción](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_1.png)
+![Resumen de la promoción](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_1.png)
 
 ## Restringir esta promoción a los productos de los sellers
 
@@ -67,7 +67,7 @@ Para que la promoción sea válida para todos los sellers, deja la selección si
 
 >⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.
 
-![Restringir esta promoción a los productos de los sellers](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_2.png)
+![Restringir esta promoción a los productos de los sellers](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_2.png)
 
 ## Política comercial
 Esta sección establece las políticas comerciales válidas para la promoción. Puedes incluir o excluir políticas comerciales del descuento.
@@ -79,7 +79,7 @@ Esta sección establece las políticas comerciales válidas para la promoción. 
 
 Para que la promoción sea válida para todas las políticas comerciales, deja la selección sin marcar.
 
-![Política comercial-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_3.png)
+![Política comercial-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_3.png)
 
 # 2. Compra uno y lleva uno gratis
 
@@ -93,7 +93,7 @@ En esta sección se definen las colecciones, SKU y cantidad mínima que deben re
 
 >⚠️ <p>Se puede crear una promoción Compra uno y lleva uno gratis con un máximo de 100 SKU diferentes al mismo tiempo.<p>
 
-![Compra uno y lleva uno gratis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_4.png)
+![Compra uno y lleva uno gratis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_4.png)
 
 # 3. Condiciones de la promoción
 
@@ -106,7 +106,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 - **Utm_source:** el descuento se concederá si la navegación utiliza un parámetro utm_source con el valor registrado.
 - **Utm_campaign:** el descuento se concederá si la navegación utiliza un parámetro utm_campaign con el valor registrado.
 
-![Cuáles son las condiciones para que la promoción sea válida?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_5.png)
+![Cuáles son las condiciones para que la promoción sea válida?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_5.png)
 
 # 4. Restricciones y limitaciones de uso
 
@@ -117,4 +117,4 @@ En esta sección se proporciona información importante sobre las condiciones y 
 - **Solo para los mismos ítems:** si se activa esta opción, la promoción solo se aplica si se alcanza la cantidad mínima de ítems (previamente registrados) con el mismo SKU en el carrito. Si la opción está desactivada, la promoción se aplicará incluso cuando se agregue la cantidad mínima de ítems en el carrito, independientemente de si los SKU son diferentes o iguales.
 - **Aplicar con otras promociones:** permite aplicar esta promoción en el carrito simultáneamente con otras promociones que ofrezcan el mismo tipo de descuento.
 
-![Restricciones y limitaciones de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/como-funciona-la-promocion-compre-y-gane_6.png)
+![Restricciones y limitaciones de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-promocion-compre-y-gane_6.png)

@@ -33,4 +33,4 @@ So here is a step by step showing how you can use this feature :
 6. You can define a short message, called *Teaser*, to promote this condition to your customers. (To learn more, see [Teasers - Coming Soon])
 7. Save it
 
-![conditionalPrice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-create-conditional-prices_1.gif)
+![conditionalPrice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-create-conditional-prices_1.gif)

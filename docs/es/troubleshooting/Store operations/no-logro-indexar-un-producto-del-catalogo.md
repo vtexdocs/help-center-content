@@ -3,8 +3,8 @@ title: 'No logro indexar un producto del catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2024-09-09T13:47:11.853Z
-publishedAt: 2024-09-09T13:47:11.853Z
+updatedAt: 2024-11-08T20:16:41.657Z
+publishedAt: 2024-11-08T20:16:41.657Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: no-logro-indexar-un-producto-del-catalogo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras-clave**: catálogo, indexación, producto, SKU, precio, stock, colección, política comercial.
+**Tags:** Catálogo, Indexación, Producto, SKU, Política comercial
 
 El proceso de indexación permite reunir y organizar los datos de un producto, tales como información de catálogo, precio y stock, para mostrarlos a los clientes en la búsqueda y en la estantería de productos de la tienda.
 
@@ -115,4 +115,4 @@ Las cuentas que tienen 100 mil productos o más registrados deben ponerse en con
 
 Más información en [Mantenimiento de base de datos (full cleanup)](https://help.vtex.com/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Programar reindexación completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Programar reindexación completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-logro-indexar-un-producto-del-catalogo_1.png)

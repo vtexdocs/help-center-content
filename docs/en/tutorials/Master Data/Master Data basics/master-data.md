@@ -287,7 +287,7 @@ With Master Data v2, you can define data formats with JSON schemas. This format 
 
 You can save a document to any data entity if the content is a valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
 
-![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data basics/master-data_1.jpg)
+![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20basics/master-data_1.jpg)
 
 >ℹ️ A document can be compatible with multiple JSON Schemas, but also with none.
 

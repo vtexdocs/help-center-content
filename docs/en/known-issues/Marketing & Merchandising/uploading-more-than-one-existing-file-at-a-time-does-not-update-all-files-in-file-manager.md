@@ -32,7 +32,7 @@ When you upload two or more existing files to File Manager simultaneously, only 
 
 After saving, the following message will be displayed:
 
-![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager_1.png)
+![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager_1.png)
 
 This means that only one file was identified; the others are not being validated. All files are uploaded, but only one will replace its previous version.
 

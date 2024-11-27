@@ -65,13 +65,13 @@ Con ese tipo de información, el usuario indicará a Google información sobre l
 - <en style="color: gray">Fecha de la re-contraseña:_
 
 **Paso 1**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_1.gif)****
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_1.gif)****
 
 **Paso 2**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_2.gif)
 
 **Paso 3**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_3.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_3.gif)
 
 ### Productos
 
@@ -90,10 +90,10 @@ Con este tipo de información el usuario indicará a Google información sobre l
 - <en style="color: gray">Fecha de la re-contraseña:_
 
 **Paso 1**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_4.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_4.gif)
 
 **Paso 2**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration with monitoring tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_5.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console_5.gif)
 
 **Paso 3**
 Recordando que el **Marcador de Datos** sólo identifica los datos para Google, para las demás herramientas de búsqueda será necesario estructurar los datos a través de tags insertadas en el código fuente.

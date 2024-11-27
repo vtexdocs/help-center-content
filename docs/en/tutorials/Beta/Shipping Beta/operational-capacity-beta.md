@@ -29,7 +29,7 @@ A good seller operational capacity management leads to the following advantages:
 
 When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
 
-![operational_capacity_image1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping Beta/operational-capacity-beta_1.png)
+![operational_capacity_image1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_1.png)
 
 >⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
 
@@ -119,7 +119,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 
 The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
 
-![operational_capacity_image2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping Beta/operational-capacity-beta_2.png)
+![operational_capacity_image2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_2.png)
 
 The chart shows the following periods:
 
@@ -141,7 +141,7 @@ To edit the seller's address or identification name in **Operational Capacity**,
 
 In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
 
-![operational_capacity_image3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping Beta/operational-capacity-beta_3.png)
+![operational_capacity_image3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_3.png)
 
 To change these settings, follow the steps below:
 

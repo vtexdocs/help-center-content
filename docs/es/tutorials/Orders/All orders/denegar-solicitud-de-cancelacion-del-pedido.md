@@ -31,7 +31,7 @@ Para contenido para desarrolladores, consulte [Order canceling improvements](htt
 
 En la siguiente imagen puedes consultar cómo se desarrolla la denegación de las solicitudes de cancelación del pedido, una vez finalizado el periodo de cancelación:
 
-![cancel_api_improvements_help_center_ES_v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![cancel_api_improvements_help_center_ES_v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_1.png)
 
 La descripción de cada paso es la siguiente:
 
@@ -64,11 +64,11 @@ Para denegar una solicitud de cancelación del pedido a través del Admin VTEX, 
 2. Selecciona el pedido deseado para acceder a la [página de información del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la parte superior de la página, haz clic en `Denegar`.
 
-  ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+  ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_2.png)
 
 4. Ingresa en el campo Solicitud de cancelación el motivo por el que se deniega la solicitud de cancelación del pedido.
 
-  ![deny cancel request reason](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+  ![deny cancel request reason](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_3.png)
 
   >⚠️ Atención: el cliente puede recibir el mensaje que ingreses en este campo a través de [Mi cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) o a través del marketplace.
 

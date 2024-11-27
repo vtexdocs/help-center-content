@@ -57,7 +57,7 @@ Todos os relatórios gerados são disponibilizados em formato CSV para download 
 
 Para fazer download de um relatório, clique em `Baixar` na linha dele na listagem. Você pode utilizar a barra de busca e os filtros disponíveis para encontrar o relatório desejado.
 
-![ad-network-relatorios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Ad Network/relatorios-para-anunciantes-no-vtex-ad-network-beta_1.png)
+![ad-network-relatorios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Ad%20Network/relatorios-para-anunciantes-no-vtex-ad-network-beta_1.png)
 
 ### Relatório de campanha
 

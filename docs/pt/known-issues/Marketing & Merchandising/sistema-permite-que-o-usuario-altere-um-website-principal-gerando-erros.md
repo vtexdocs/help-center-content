@@ -22,7 +22,7 @@ No módulo CMS, o sistema deixa o usuário manusear um Web Site A e apontar a um
 
 Caso o usuário queira retornar, nao há a possibilidade de apontar o Web Site B para o A, como pai. Com isso, gera erros no site como o erro abaixo, e o admin fica inacessível.
 
-![KI erro website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/sistema-permite-que-o-usuario-altere-um-website-principal-gerando-erros_1.png)
+![KI erro website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/sistema-permite-que-o-usuario-altere-um-website-principal-gerando-erros_1.png)
 
 
 ## Simulação
@@ -32,7 +32,7 @@ Caso o usuário queira retornar, nao há a possibilidade de apontar o Web Site B
 - No primeiro Web Site > campo Web Site Pai, inserir o Web Site referente ao Web Site 2;
 - No segundo Web Site > campo Web Site Pai, inserir o Web Site referente ao Web Site 1.
 
-![KI erro website2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/sistema-permite-que-o-usuario-altere-um-website-principal-gerando-erros_2.png)
+![KI erro website2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/sistema-permite-que-o-usuario-altere-um-website-principal-gerando-erros_2.png)
 
 ## Workaround
 

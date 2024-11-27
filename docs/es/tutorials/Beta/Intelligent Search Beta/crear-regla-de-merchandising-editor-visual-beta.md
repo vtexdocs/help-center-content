@@ -51,7 +51,7 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
 
 El Editor visual de reglas de merchandising de VTEX Intelligent Search permite realizar las acciones que se ilustran en la imagen siguiente:
 
-![visual-merch-rules-ES-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/crear-regla-de-merchandising-editor-visual-beta_1.png)
+![visual-merch-rules-ES-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent%20Search%20Beta/crear-regla-de-merchandising-editor-visual-beta_1.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Editar nombre de la regla de merchandising.</li>
@@ -86,7 +86,7 @@ El Editor visual de reglas de merchandising de VTEX Intelligent Search permite r
 
 El filtro es un atributo seleccionable predefinido que restringe los resultados de la búsqueda, por ejemplo, permite filtrar por todos los productos de una categoría o marca, entre otras condiciones. Puedes agregar una o más condiciones a un filtro, tal como se muestra a continuación.
 
-![filtros-merchrules-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent Search Beta/crear-regla-de-merchandising-editor-visual-beta_2.gif)
+![filtros-merchrules-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent%20Search%20Beta/crear-regla-de-merchandising-editor-visual-beta_2.gif)
 
 Si deseas agregar una condición en el Editor visual, sigue cada uno de los pasos que se indican a continuación. 
 

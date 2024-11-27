@@ -63,25 +63,25 @@ En esta pestaña puedes configurar los siguientes ajustes:
 
 La pestaña Colores facilita la personalización de los colores del checkout de tu tienda, lo que incluye la modificación de los colores del fondo, de los botones o del texto, por ejemplo. Esta estandarización garantiza una armonía visual consistente.
 
-![Colores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_1.png)
+![Colores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_1.png)
 
 ## JavaScript
 
 La pestaña JavaScript agrega un nivel adicional de personalización de la interfaz al posibilitar la inserción de scripts.
 
-![Java - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_2.png)
+![Java - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_2.png)
 
 ## CSS
 
 La pestaña CSS permite ajustar el aspecto visual de la tienda mediante la inclusión de código CSS.
 
-![CSS - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_3.png)
+![CSS - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_3.png)
 
 ## Historial
 
 Permite ver y restaurar las personalizaciones creadas y publicadas anteriormente.
 
-![Histórico - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_4.png)
+![Histórico - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/ajustes-en-la-interfaz-personalizada-del-checkout-en-el-admin_4.png)
 
 Para asegurarte de que la configuración se aplique correctamente, solo tienes que configurar los ajustes necesarios y hacer clic en el botón `Publicar`.
 

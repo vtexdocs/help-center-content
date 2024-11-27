@@ -1,10 +1,10 @@
 ---
 title: 'Tags de pedidos utilizadas por el módulo de facturación'
 id: 4v33NVnAEe6HTgbF6sOBF2
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-10-04T20:18:55.246Z
-updatedAt: 2024-10-10T20:11:50.273Z
-publishedAt: 2024-10-04T21:47:59.759Z
+updatedAt: 2024-10-31T18:40:41.214Z
+publishedAt: 2024-10-31T18:40:41.214Z
 firstPublishedAt: 2024-10-04T21:40:07.736Z
 contentType: tutorial
 productTeam: Billing
@@ -69,11 +69,11 @@ A continuación se listan las tags de los canales de venta que generan el pedido
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Contracts/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
 
->⚠️ El flujo de `IsMarketplace` marca pedidos en el entorno del seller y el flujo `IsSeller` marca pedidos en el entorno del marketplace.
+>⚠️ A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como `IsB2C`. Es decir, sólo los canales de venta certificados están marcados por origen.
 
-Todas las tags de los flujos se describen a continuación.
+El flujo de `IsMarketplace` marca pedidos en el entorno del seller y el flujo `IsSeller` marca pedidos en el entorno del marketplace. Todas las tags de los flujos se describen a continuación.
 
 ### Marketplace
 

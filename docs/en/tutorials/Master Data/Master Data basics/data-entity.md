@@ -3,8 +3,8 @@ title: 'Data entity'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2024-06-21T21:12:23.798Z
-publishedAt: 2024-06-21T21:12:23.798Z
+updatedAt: 2024-10-23T23:39:13.110Z
+publishedAt: 2024-10-23T23:39:13.110Z
 firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
 productTeam: Master Data
@@ -19,7 +19,7 @@ A data entity is a representation of a set of information about a given concept.
 
 For example, imagine a system that controls a library. This system controls books that customers can borrow. Thus, we can notice that these three concepts (book, customer, borrowing) are entities that contain information about each one. 
 
-![data-entity-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data basics/data-entity_1.png)
+![data-entity-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20basics/data-entity_1.png)
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
@@ -102,5 +102,7 @@ Follow the steps below to configure a new data entity.
 
 19. In the row of the newly created entity, click the <i class="fas fa-save"></i> diskette button to publish the created data entity.
 20. Click `OK`.
+21. Click the **Applications** tab to return to the Master Data homepage.  
+22. Click the `Reload Applications` button.
 
 >ℹ️ After creating the data entity, [create the form for adding, changing, and displaying data in Master Data](https://help.vtex.com/en/tutorial/creating-form-in-master-data--tutorials_1047).

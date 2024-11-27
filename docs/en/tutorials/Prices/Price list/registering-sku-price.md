@@ -21,7 +21,7 @@ The manual process is more appropriate when the storeowner wants to alter the pr
 
 ## Manual registration or change
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/registering-sku-price_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/registering-sku-price_1.gif)
 
 ### Registration for a new value
 
@@ -58,7 +58,7 @@ _If you click on the “Novo Valor de Tabela” button after filtering an SKU, t
 
 ## Registration or change by importing Excel spreadsheets
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/registering-sku-price_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/registering-sku-price_2.gif)
 
 ### To register new prices
 
@@ -86,7 +86,7 @@ _If you click on the “Novo Valor de Tabela” button after filtering an SKU, t
 
 ### Excel spreadsheet fields for Import
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price list/registering-sku-price_3.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/registering-sku-price_3.jpg)
 
 - **StockKeepingUnitId: **ID of the SKU to be registered or whose price is to be changed;
 - **Source**: value of utm\_source;

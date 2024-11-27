@@ -29,7 +29,7 @@ A mensagem de autorização de erro pode mudar de `node` para `react` de acordo 
 1. Instalar o VTEX CLI (ToolBelt)
 2. Navegar até o diretorio da app
 3. Executar o comando "vtex-link" no terminal
-4. ![image (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/VTEX IO/erro-ao-executar-vtex-link-pela-primeira-vez_1.png)
+4. ![image (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/VTEX%20IO/erro-ao-executar-vtex-link-pela-primeira-vez_1.png)
 
 ## Workaround
 

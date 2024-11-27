@@ -21,7 +21,7 @@ Existem quatro departamentos dentro do módulo que são responsáveis pela confi
 
 ## Audiência de campanhas 
 
-![campanha-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Rates & Benefits overview/overview-2_1.png)
+![campanha-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Rates%20&%20Benefits%20overview/overview-2_1.png)
 
 Audiência de campanha é uma forma de definir o público alvo ao qual uma promoção poderá ser aplicada. Ou seja criar segmentos de clientes com base na definição de alguns critérios que serão elegíveis a uma determinada audiência de campanha e consequentemente a uma ou mais promoções. Uma audiências de campanhas pode ser associada a uma ou mais promoções de audiência de campanha.
 
@@ -29,7 +29,7 @@ Audiência de campanha é uma forma de definir o público alvo ao qual uma promo
 
 ## Promoções
 
-![promoções.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Rates & Benefits overview/overview-2_2.png)
+![promoções.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Rates%20&%20Benefits%20overview/overview-2_2.png)
 
 É aqui que os descontos que a sua loja vai oferecer são criados. É possível ainda visualizar, filtrar, buscar e arquivar todas as promoções. De acordo com a configuração de cada loja, existe um limite de promoções que podem estar ativas ao mesmo tempo. 
 
@@ -44,13 +44,13 @@ Para verificar essa quantidade, observe a mensagem que aparece no canto superior
 
 ## Cupons
 
-![cupons.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Rates & Benefits overview/overview-2_3.png)
+![cupons.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Rates%20&%20Benefits%20overview/overview-2_3.png)
 
 É nesta seção que são criados os cupons. Você também pode buscá-los e arquivá-los. [Aprenda como criar cupons](/pt/tutorial/como-criar-cupom/).
 
 ## Taxas
 
-![taxas.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Rates & Benefits overview/overview-2_4.png)
+![taxas.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Rates%20&%20Benefits%20overview/overview-2_4.png)
 
 Nesta área serão criados os impostos que incidirão sobre os seus produtos. É permitido também filtrar, buscar e arquivar as taxas. [Entenda melhor as particularidades dessa configuração no artigo sobre taxas](/pt/tutorial/como-criar-taxaimposto/).
 

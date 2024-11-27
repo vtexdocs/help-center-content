@@ -33,7 +33,7 @@ Esse é o passo mais importante para ativar o B2B. Ao configurar a Política Com
 
 Normalmente, nos B2Bs convencionais, esse campo é preenchido com o valor `approved="true"` (`approved` é o nome de um campo na entidade Cliente, no Master Data). Com essa regra, o sistema permite que apenas usuários autenticados e aprovados naveguem no site.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_1.png)
 
 ## 2. Customizar layout de diretórios B2B
 
@@ -47,15 +47,15 @@ Veja as características básicas de cada tipo de usuário:
 
 Dessa forma, para ter um ambiente B2B, será necessário customizar as pastas **401** e **403**, filhas da pasta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_2.png)
 
 Navegação por um usuário Anônimo (ao tentar acessar qualquer página, será redirecionado para 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_3.png)
 
 Navegação por um usuário não aprovado (ao tentar acessar qualquer página, será redirecionado para 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_4.png)
 
 ## 3. Definir campos de pré-cadastro
 

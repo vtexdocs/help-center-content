@@ -18,7 +18,7 @@ subcategoryId: Se4oi5LroIII2Ei0uGAoE
 El Admin renovado permite a los comerciantes gestionar todas sus experiencias de comercio digital en un solo lugar, de forma sencilla e inteligente.
 
 ## Página de inicio
-![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About the Admin/Admin overview/admin-vtex-comience-aqui1_1.gif)
+![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About%20the%20Admin/Admin%20overview/admin-vtex-comience-aqui1_1.gif)
 
 La página de inicio del admin ha sido rediseñada para proporcionar una visión general de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y ahora se llama [Vista general](https://help.vtex.com/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -26,24 +26,24 @@ Una vez que accedas al Admin, verás métricas y gráficos útiles para monitore
 
 ## Navegación mejorada 
 
-![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About the Admin/Admin overview/admin-vtex-comience-aqui1_2.png)
+![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About%20the%20Admin/Admin%20overview/admin-vtex-comience-aqui1_2.png)
 
 Todo lo que necesitas para gestionar tu tienda VTEX sigue estando disponible en el Admin, pero ahora con una organización más sencilla. Nuestros menús laterales de navegación y la barra superior han sido completamente rediseñados, y ahora agrupan categorías similares de forma más clara para reducir las distracciones y ayudar a tu equipo a encontrar lo que necesita más rápidamente. También puedes utilizar la barra de búsqueda para encontrar secciones específicas en el menú lateral.
 
 ### Centro de información
 
-![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About the Admin/Admin overview/admin-vtex-comience-aqui1_3.gif)
+![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About%20the%20Admin/Admin%20overview/admin-vtex-comience-aqui1_3.gif)
 
 Allí hemos reunido todos los enlaces útiles de nuestro ecosistema VTEX para ayudarte a sacar el máximo partido a nuestra plataforma. Haciendo clic en el botón `?` en la barra superior, puedes acceder a nuestro Centro de ayuda, al Portal del desarrollador, al Status de la plataforma, al blog y a las páginas de soporte.
 
 ## Configuración de la tienda
-![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About the Admin/Admin overview/admin-vtex-comience-aqui1_4.gif)
+![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About%20the%20Admin/Admin%20overview/admin-vtex-comience-aqui1_4.gif)
 
 Para esta experiencia, hemos reunido las configuraciones de todas las secciones del Admin en una pestaña específica: [Configuración de la tienda](https://help.vtex.com/es/v4/docs/visao-geral-configuracoes-da-loja--5e1Mj7oBDq2NEYJ7cpDdR4). Gracias a esta mejora, puedes acceder fácilmente a todas las configuraciones que afectan a cada servicio de tu cuenta.
 
 ### Configuración de la cuenta y del usuario
 
-![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About the Admin/Admin overview/admin-vtex-comience-aqui1_5.gif)
+![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/About%20the%20Admin/Admin%20overview/admin-vtex-comience-aqui1_5.gif)
 
 El avatar de tu perfil, en la esquina superior derecha, reúne ahora todas las configuraciones relacionadas con tu usuario y tu cuenta. A través del avatar, puedes acceder a la [Configuración del usuario](https://help.vtex.com/es/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), a la [Configuración de la cuenta](https://help.vtex.com/es/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), y a la información de las [Facturas](https://help.vtex.com/es/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC).  También puedes cambiar el idioma de tu Admin y cerrar la sesión.
 

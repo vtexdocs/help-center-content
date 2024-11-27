@@ -26,13 +26,13 @@ Dicho esto, eche un vistazo al paso a paso de cómo configurar esta modalidad:
 1. Acceda a la __Central de Mensajes__.
 2. Haga clic en __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-recuperacion-de-contrasena-por-sms_1.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-recuperacion-de-contrasena-por-sms_1.png)
 
 3. Haga clic en el template __Password Recovery__.
 4. Haga clic en la pestaña __SMS__;
 5. Seleccione la opción __"Activar envío de SMS?"__.
 
-  ![password-recovery-sms-tab-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-recuperacion-de-contrasena-por-sms_2.gif)
+  ![password-recovery-sms-tab-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-recuperacion-de-contrasena-por-sms_2.gif)
 
   *En el momento en que el usuario hace clic en "Activar envío de SMS", la plataforma muestra las demás configuraciones de envío.*
 
@@ -40,7 +40,7 @@ Dicho esto, eche un vistazo al paso a paso de cómo configurar esta modalidad:
 7. Rellene el campo __Destination__ con la variable `{{_accountInfo.Telephone}}`.
 8. Rellene el campo __Message Text__ con el contenido del mensaje. Las informaciones `Nombre: {{nombre}}`, `Login: {{login}}` y `Contraseña: {{contraseña}}` son esenciales.
 
-  ![password-recovery-sms-fields-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-recuperacion-de-contrasena-por-sms_3.png)
+  ![password-recovery-sms-fields-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-recuperacion-de-contrasena-por-sms_3.png)
 
 9. Revise el contenido del SMS en __Preview__.
 10. Haga clic en __Guardar__.

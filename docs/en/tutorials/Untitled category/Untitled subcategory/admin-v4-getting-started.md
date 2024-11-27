@@ -24,22 +24,22 @@ To achieve this, we are redesigning multiple parts of the experience and making 
 ## Improved navigation 
 Everything you need to manage your VTEX store is still available in Admin v4, only now with a more straightforward organization. Our left and top navigation menu were rebuilt from scratch, grouping similar categories in a clearer way to reduce distractions and help your team find what they need faster. It is also possible to use the search bar to find specific sections on the menu.
 
-![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_1.png)
+![New Admin Shell](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/admin-v4-getting-started_1.png)
 
 ### Information Center
 This is where we group all useful links from our VTEX ecosystem, to help you get the best out of our VTEX platform. By clicking on the `?` button on the top bar, you can access our Help Center, blog, Developer Portal, Platform Status and support pages.    
 
-![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_2.gif)
+![Information center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/admin-v4-getting-started_2.gif)
 
 ### Store Settings
 For this new experience, we have grouped all settings, from all sections under a specific tab: Store Settings. Through this improvement, you can easily access all settings that affect every service in your account.
 
-![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_3.gif)
+![Store settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/admin-v4-getting-started_3.gif)
 
 ### Profile Settings
 Your profile avatar, on the upper right corner now hosts all the settings related to your user and account. Through the avatar you can access user settings, account settings, billing information, change your Admin’s locale,  switch to the Admin’s previous version and logout of your account and logout. Through this improvement, we separated your profile settings from the configurations that affect your actual store. Now you have more control and visibility over actions that affect your business, and those that affect your profile. 
 
-![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_4.gif)
+![Avatar settings](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/admin-v4-getting-started_4.gif)
 
 ## Refreshed home page
 
@@ -47,7 +47,7 @@ Our admin home page was redesigned to give you a high level overview of your sto
 
 As soon as you log in to Admin v4, you will see useful metrics and charts to monitor your store's performance, such as revenue and number of orders, sales funnel and conversion rates, and your top 10 highest grossing products. Check out all components on the new Dashboard, and learn how they work, looking through the list below.
 
-![Dashboard v4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/admin-v4-getting-started_5.gif)
+![Dashboard v4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/admin-v4-getting-started_5.gif)
 
 - **Orders:**  number of orders placed.  All data about orders and revenue comes from VTEX’s Order Management System.  
 - **Sessions:** Number of visits to store  

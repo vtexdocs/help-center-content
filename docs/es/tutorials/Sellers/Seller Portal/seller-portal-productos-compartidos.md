@@ -29,7 +29,7 @@ Para acceder a la funcionalidad «Productos compartidos», acceda a la pestaña 
 
 ## Importados
 
-![Shared products Importados EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller Portal/seller-portal-productos-compartidos_1.jpg)
+![Shared products Importados EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller%20Portal/seller-portal-productos-compartidos_1.jpg)
 
 La pestaña «Importados» reúne los productos del catálogo del marketplace que ya han sido importados por el seller, es decir, que ya pueden convertirse en anuncios. La lista contiene una barra de búsqueda que permite buscar productos por nombre o SKU. А través de esta pestaña se activan los productos.  
 
@@ -39,7 +39,7 @@ Al hacer clic en un producto de la lista, accederá a la página [Detalles del P
 
 ## Disponibles
 
-![Shared products Disponíveis ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller Portal/seller-portal-productos-compartidos_2.jpg)
+![Shared products Disponíveis ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller%20Portal/seller-portal-productos-compartidos_2.jpg)
 
 La pestaña «Disponibles» reúne los productos del catálogo del marketplace que se han puesto a disposición del seller para su venta y que aún no se han incorporado a su catálogo. Puede filtrar los productos disponibles por marca o categoría para agilizar el proceso de importación de los productos seleccionados. 
 

@@ -30,20 +30,20 @@ The home page displays the promotions list in a grid that allows you to easily v
 - Duplicate or archive promotions using the <i class="fas fa-ellipsis-v"></i>  button;
 - Manage promotion conditions by clicking anywhere in the grid row (see [New promotion](#new-promotion) for more details about promotion conditions).
 
-![promobeta1 acoes lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions Beta/promotions-beta_1.gif)
+![promobeta1 acoes lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions%20Beta/promotions-beta_1.gif)
 
 You can filter and sort your promotion list according to your needs. The VTEX platform allows you to filter your promotions by *Effects*, *Status*, *Starting date*, *Ending date*, or *Trade policy*.
 
-![promobeta2 filtros lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions Beta/promotions-beta_2.gif)
+![promobeta2 filtros lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions%20Beta/promotions-beta_2.gif)
 
 You can also sort your list in ascending or descending order based on the basic information of the promotion by clicking on the filter title.
 
-![promobeta3 ordenacao lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions Beta/promotions-beta_3.gif)
+![promobeta3 ordenacao lista promocoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions%20Beta/promotions-beta_3.gif)
 
 ## New promotion
 On the Promotions page, click on the __NEW PROMOTION__ button to access the promotion creation page, where you will fill in a series of fields to configure the desired conditions for your promotion. 
 
-![promobeta4 botao novapromocao EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions Beta/promotions-beta_4.png)
+![promobeta4 botao novapromocao EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Promotions%20Beta/promotions-beta_4.png)
 
 The new promotion conditions and fields are divided into the following groups:
 

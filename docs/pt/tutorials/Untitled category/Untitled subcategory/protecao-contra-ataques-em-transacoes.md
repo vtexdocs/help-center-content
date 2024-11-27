@@ -35,9 +35,9 @@ Para habilitar a proteção, confira o passo a passo:
 4. No canto superior direito, clilque no ícone de configurações.
 5. Em __Proteção contra ataques__, clique no botão para habilitar (cor verde indica "habilitado").
 
-![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_1.png)
+![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_1.png)
 
-![proteção-opção-habilitar1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_2.png)
+![proteção-opção-habilitar1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_2.png)
 
 ### Como desabilitar a proteção contra ataques em transações?
 
@@ -66,13 +66,13 @@ Para acessar estas informações, confira o passo a passo:
 6. Para selecionar __Ameaças detectadas__ ou __Ameaças neutralizadas__, clique em uma das setas à direita.
 7. Verifique os detalhes dos eventos na janela popup apresentada.
 
-![proteção-opção-historico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_3.png)
+![proteção-opção-historico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_3.png)
 
-![proteção-tela-historico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_4.png)
+![proteção-tela-historico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_4.png)
 
-![tela-ameaça-potencial1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_5.png)
+![tela-ameaça-potencial1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_5.png)
 
-![tela-ameaça-neutralizada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/protecao-contra-ataques-em-transacoes_6.png)
+![tela-ameaça-neutralizada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/protecao-contra-ataques-em-transacoes_6.png)
 
 ### Artigos relacionados
 

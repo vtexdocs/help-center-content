@@ -38,7 +38,7 @@ Using the VTEX Admin or [Customer Credit API](https://developers.vtex.com/docs/a
 
 See below the basic flow of how Customer Credit works in VTEX stores:
 
-![GIF_CC_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer Credit/customer-credit-overview_1.gif)
+![GIF_CC_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer%20Credit/customer-credit-overview_1.gif)
 
 ## Customer Credit definitions
 

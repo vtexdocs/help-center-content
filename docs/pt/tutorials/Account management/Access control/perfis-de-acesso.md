@@ -1,10 +1,10 @@
 ---
 title: 'Perfis de acesso'
 id: 7HKK5Uau2H6wxE1rH5oRbc
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-08T15:21:05.110Z
-updatedAt: 2023-11-30T21:36:49.415Z
-publishedAt: 2023-09-26T13:32:10.280Z
+updatedAt: 2024-11-22T14:18:05.867Z
+publishedAt: 2024-11-22T14:18:05.867Z
 firstPublishedAt: 2020-04-08T20:52:12.334Z
 contentType: tutorial
 productTeam: Identity
@@ -15,50 +15,70 @@ legacySlug: como-criar-perfil-de-acesso
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-A página **Perfis de acesso** no Admin VTEX possibilita gerenciar os [perfis de acesso](https://help.vtex.com/pt/tutorial/controle-de-acesso--4rM3gyiWqtkim4Q8hOvLTC#perfis-de-acesso) cadastrados na sua loja e os usuários associados a eles. Para acessá-la, na barra superior do Admin VTEX, clique no avatar do seu perfil, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
 
-A partir da página de perfis de acesso, você pode realizar as seguintes ações:
+Toda ação na VTEX, como acessar uma página no Admin ou fazer uma chamada de API, envolve uma requisição à nossa infraestrutura. Para garantir a segurança dessas operações, existe o **License Manager**, um sistema responsável por verificar se um usuário possui as permissões adequadas para realizar uma ação na plataforma.
 
-* [Criar um perfil de acesso](#criar-um-perfil-de-acesso) 
-* [Buscar um perfil de acesso](#buscar-um-perfil-de-acesso)
-* [Editar um perfil de acesso](#editar-um-perfil-de-acesso)
-* [Excluir um perfil de acesso](#excluir-um-perfil-de-acesso)
+Para facilitar o gerenciamento dessas permissões, o License Manager é baseado em [recursos](#recursos) e [perfis de acesso](#perfis-de-acesso). Confira a seguir mais detalhes sobre esses conceitos.
 
-![roles-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Access control/perfis-de-acesso_1.png)
+## Recursos
 
-A página apresenta uma lista com todos os perfis de acesso cadastrados na conta e suas respectivas informações em uma tabela: 
+Um **recurso** é uma entidade associada a uma ação ou informação dentro de nossa infraestrutura. Por exemplo, o recurso _Product management_ permite que um usuário acesse e edite o formulário de cadastro de produtos no Catálogo. Para detalhes sobre cada recurso disponível, veja [Recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
 
-| **Coluna** | **Descrição** |
-|---|---|
-| **Nome** | Nome que identifica o perfil de acesso. |
-| **Usuários** | Quantidade de usuários associados ao perfil de acesso. |
-| **Tipo de perfil de acesso** | Tipo de perfil de acesso, que pode ser **Predefinido** ou **Personalizado**. Para mais informações sobre cada um, confira [Tipos de perfis de acesso](https://help.vtex.com/pt/tutorial/controle-de-acesso--4rM3gyiWqtkim4Q8hOvLTC#tipos-de-perfis-de-acesso). |
-| **Produtos** | Produtos do License Manager incluídos no perfil de acesso. Veja os produtos disponíveis na coluna **Produto** da tabela em [Recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). |
-| **Data de criação** | Data em que o perfil de acesso personalizado foi criado. Perfis de acesso predefinidos ou criados antes de dezembro de 2023 não apresentam nenhuma data nesta coluna. |
+Cada requisição passa por uma análise de segurança para verificar se o usuário possui os recursos necessários, ou seja, a permissão necessária para realizar aquela ação. Sem os recursos necessários, uma requisição não será bem-sucedida.
 
-Em uma conta recém-criada, apenas o perfil *Owner (Admin Super)* estará listado. Este perfil dá ao usuário acesso irrestrito a todos os recursos nativos da plataforma.
+## Perfis de acesso
+
+Um **perfil de acesso** determina o conjunto de recursos que um grupo de usuários pode acessar na VTEX. Cada usuário administrativo pode ser associado a um ou mais perfis de acesso.
+
+Como diversos colaboradores costumam acessar o Admin, é importante limitar o acesso a ações críticas dentro de uma conta para minimizar disrupções na operação da loja e garantir que cada usuário tenha acesso apenas às ações necessárias para o seu papel.
+
+Por exemplo, uma equipe de operadores de televendas precisa de acesso apenas a informações de pedidos, então não deve ter acesso a outras configurações da plataforma. Nesse caso, o perfil de acesso pode conter somente recursos relacionados à leitura de informações de pedidos.
+
+Para gerenciar os perfis de acesso cadastrados na sua loja e os usuários associados a eles, acesse a [lista de perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+
+Confira a seguir os diferentes tipos de perfis de acesso que você pode cadastrar na loja.
+
+### Tipos de perfis de acesso
+
+Ao [criar um novo perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW), você tem a opção de utilizar um dos perfis predefinidos disponibilizados pela VTEX ou de criar um perfil customizado, selecionando cada recurso necessário.
+
+O administrador precisa ter um perfil de acesso com o [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) _Save access profile_ para criar perfis de acesso no License Manager.
+
+#### Predefinidos
+
+Perfis de acesso predefinidos são conjuntos de recursos pré-determinados pela VTEX que cobrem os casos de uso mais comuns. Confira a lista completa de [perfis predefinidos](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) e as respectivas permissões associadas.
+
+#### Personalizados
+
+Além de utilizar perfis de acesso predefinidos, você pode [criar perfis de acesso personalizados](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado), reunindo os recursos necessários para um grupo de usuários administrativos da sua loja.
+
+Por exemplo, uma equipe responsável por manter o Catálogo da loja atualizado costuma realizar um conjunto bem definido de tarefas, como cadastrar e editar produtos, categorias e marcas. Nesse caso, um administrador da conta pode criar um perfil de acesso personalizado com todos os recursos necessários para esses colaboradores.
+
+Confira a lista completa de [recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) que podem ser utilizados.
+
+## Gerenciar perfis de acesso
+
+Os perfis de acesso podem ser gerenciados por meio do Admin VTEX. Para acessar a listagem de perfis de acesso, na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
+
+![Lista perfis de acesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Access%20control/perfis-de-acesso_1.png)
+
+Esta tela apresenta uma lista com todos os perfis de acesso cadastrados para a conta, que você pode editar ou excluir a partir da coluna **Ações**.
+
+Em uma conta recém-criada, apenas o perfil *Owner (Admin Super)* estará listado. Este perfil concede ao usuário acesso irrestrito a todos os recursos nativos da plataforma.
 
 >⚠️ A quantidade de usuários com o perfil *Owner (Admin Super)* deve ser a menor possível. Além disso, é preciso se certificar que haja visibilidade e controle de quem recebe esse acesso.
+>
+> O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
-## Criar um perfil de acesso
+## Criar perfis de acesso
 
-Para cadastrar um novo perfil, clique em `+ Criar perfil de acesso`. Para detalhes sobre o preenchimento do formulário, leia [Criar perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW).
+Para os usuários que não devem ter acesso irrestrito à plataforma, é importante criar perfis de acesso que limitem os recursos disponíveis a apenas os estritamente necessários para aquele tipo de usuário. Para isso, confira o guia [Criar perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW).
 
-## Buscar um perfil de acesso
-
-Você pode buscar por um perfil de acesso digitando parte do nome dele na barra de busca. Os resultados serão atualizados em tempo real na listagem.
-
-## Editar um perfil de acesso
-
-Você pode editar os recursos e usuários relacionados a um perfil de acesso. Para isso, clique em `⫶` na linha do perfil de acesso que deseja editar e, em seguida, em <i class="fas fa-pencil-alt"></i> `Editar`.
-
-## Excluir um perfil de acesso
-
-Para deletar um perfil de acesso, clique em `⫶` na linha do perfil de acesso que deseja excluir e, em seguida, em <i class="far fa-trash-alt"></i> `Excluir`.
-
->⚠️ Ao excluir um perfil de acesso, usuários associados a ele perderão acesso aos [recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados ao perfil excluído, a não ser que tenham outros perfis de acesso com as mesmas permissões.
+Você pode criar um novo perfil com base nos [perfis predefinidos](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) ou de forma customizada, selecionando os [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários.
 
 ## Saiba mais
 
-* [Controle de acesso](https://help.vtex.com/pt/tutorial/controle-de-acesso--4rM3gyiWqtkim4Q8hOvLTC)
+* [Perfis de acesso predefinidos](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy)
 * [Criar perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW)
+* [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+

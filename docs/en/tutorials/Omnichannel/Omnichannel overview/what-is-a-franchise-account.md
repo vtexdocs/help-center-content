@@ -19,7 +19,7 @@ On the VTEX platform, you have the option to register physical stores, franchise
 
 The franchise account is associated with a main account. In the case of a brand that has several physical stores, franchisees or representatives, each of them can have a franchise account linked to the brand's main account. This allows them to deliver the products sold by the brand's ecommerce.
 
-![diagrama contas v2 - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Omnichannel/Omnichannel overview/what-is-a-franchise-account_1.png)
+![diagrama contas v2 - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Omnichannel/Omnichannel%20overview/what-is-a-franchise-account_1.png)
 
 In this article, we will cover the following topics:
 
@@ -38,7 +38,7 @@ In addition, when using the franchise account you can manage prices and payment 
 
 A franchise account does not have its own website. Consumers browse directly on the main account website, which functions as a marketplace in this situation. Customer data is stored in the Master Data of the main account.
 
-![diagrama admin contas - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Omnichannel/Omnichannel overview/what-is-a-franchise-account_2.png)
+![diagrama admin contas - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Omnichannel/Omnichannel%20overview/what-is-a-franchise-account_2.png)
 
 ## Relationship between franchise account and White Label Seller
 

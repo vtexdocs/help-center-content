@@ -25,4 +25,4 @@ Para inativar o SKU de um produto, siga os passos abaixo:
 4. Clique no SKU que você deseja inativar.
 5. Desmarque a opção __Ativar o SKU se possível__.
 
-![inativarSKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/inativar-skus-e-produtos-da-loja_1.png)
+![inativarSKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/inativar-skus-e-produtos-da-loja_1.png)

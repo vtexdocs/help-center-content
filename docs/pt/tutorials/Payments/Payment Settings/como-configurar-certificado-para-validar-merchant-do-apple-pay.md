@@ -33,18 +33,18 @@ Dito isso, confira o passo a passo:
 
 1. Acesse sua __conta de desenvolvedor__ Apple em `https://developer.apple.com/account/#/overview`;
 2. Selecione a opção __Certificates, IDs & Profiles__;
-![AP1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_1.PNG)
+![AP1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_1.PNG)
 3. Clique em __Identifiers__;
- ![AP2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_2.PNG)
+ ![AP2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_2.PNG)
 4. Ao lado de Identifiers, clique no __botão azul +__;
-![AP3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_3.PNG)
+![AP3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_3.PNG)
 5. Selecione a opção __Merchant IDs__; 
 6. Clique no botão azul __Continue__;
-![AP4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_4.PNG)
+![AP4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_4.PNG)
 7. Preencha o campo __Description__;
 8. Preencha o campo __Identifier__; 
 9. Clique no botão __Continue__;
-![AP5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_5.PNG) 
+![AP5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_5.PNG) 
 
 Desse modo, o __Merchant ID__ será criado. 
 
@@ -59,14 +59,14 @@ Em seguida, o lojista pode submetê-lo ao sistema do Apple Pay.
 Para iniciar essa etapa, prossiga com as instruções: 
 
 1. No menu do lado esquerdo, selecione __Certificates__;
-![AP6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_6.PNG)
+![AP6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_6.PNG)
 2. Digite seu __Merchant ID__ recém-criado na barra de busca;
 3. Selecione o __Merchant ID__ desejado;
-![AP7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_7.PNG)
+![AP7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_7.PNG)
 4. No item __Apple Pay Payment Processing Certificate__, clique no botão __Create Certificate__;
-![AP8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_8.PNG)
+![AP8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_8.PNG)
 5. Certifique-se que a pergunta *"Will payments associated with this Merchant ID be processed exclusively in China?"* está marcada com __a opção default (No)__.
-![AP9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_9.PNG)
+![AP9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_9.PNG)
 
 Em seguida, você será direcionado para uma tela com instruções sobre a criação do CSR (Certificate Signing Request). 
 
@@ -79,9 +79,9 @@ Com o {{merchantID}}.csr. que você recebeu, finalize:
 1. Clique em __Choose File__; 
 2. Selecione o __arquivo CSR__ desejado;
 3. Clique no botão __Continue__;
-![AP10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_10.PNG)
+![AP10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_10.PNG)
 4. Clique em __Download__; 
-![AP11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_11.PNG)
+![AP11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_11.PNG)
 5. Clique em __Done__.
 
 ## Registrando domínios no Merchant ID
@@ -96,17 +96,17 @@ Por fim, é preciso importar esse arquivo para o sistema da VTEX por meio do Pos
 Confira as instruções:
 
 1. Digite pelo __Merchant ID__ recém-criado na barra de busca;
-![AP12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_12.PNG)
+![AP12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_12.PNG)
 2. Clique no __Merchant ID__ desejado;
 3. No módulo __Merchant Domains__, clique no botão __Add Domain__;
-![AP13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_13.PNG)
+![AP13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_13.PNG)
 4. Adicione o domínio no campo __Enter the domain you wish to register__; 
 5. Clique em __Save__.
 
 Agora, para fazer o upload do arquivo `.txt` por meio da API, prossiga com as instruções:
 
 1. Clique em __Download__ e não faça nenhuma alteração no arquivo; 
-![AP14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_14.PNG)
+![AP14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_14.PNG)
 2. Abra o arquivo `.txt` e __copie__ todo o conteúdo.
 
 Em seguida, inicie uma sessão no Postman. Você realizará uma chamada via POST para a CDN da VTEX:
@@ -118,7 +118,7 @@ Em seguida, inicie uma sessão no Postman. Você realizará uma chamada via POST
 Ao fazer a chamada *POST*, a resposta deve informar que o certificado estará salvo por 60 minutos. Durante esse período, você deve concluir a validação do domínio. 
 
 Agora, volte ao site da Apple. Na mesma tela em que você fez o download do arquivo `.txt`, clique em __Verify__.
-![AP15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_15.PNG)
+![AP15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_15.PNG)
 
 Assim, caso o passo a passo seja feito corretamente, o domínio estará registrado com o status __Verified__. Se quiser, você pode repetir todo o processo para registrar mais domínios usando o botão __Add Domain__ na seção __Merchant Domains__.
 
@@ -132,12 +132,12 @@ Para completar a ação, você vai precisar criar uma senha para proteger os dad
 
 1. Acesse o módulo __Certificates, Identifiers & Profilers__;
 2. No menu do lado esquerdo, clique em __Identifiers__;
-3. No canto superior direito, filtre por __Merchant IDs__;    ![AP16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_16.PNG)
+3. No canto superior direito, filtre por __Merchant IDs__;    ![AP16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_16.PNG)
 4. Selecione o __Merchant Identifier__ desejado;
-5. Clique em __Create Certificate__;    ![AP17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_17.PNG)
+5. Clique em __Create Certificate__;    ![AP17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_17.PNG)
 6. Siga as __instruções__ expostas na tela para criar um certificado;
-7. Clique no botão __Continue__;    ![AP18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_18.PNG)
-8. Clique em __Download__.    ![AP19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_19.PNG)
+7. Clique no botão __Continue__;    ![AP18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_18.PNG)
+8. Clique em __Download__.    ![AP19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_19.PNG)
 
 Agora, quando o arquivo for baixado, clique duas vezes para instalá-lo no Keychain Access.
 
@@ -145,7 +145,7 @@ Em seguida, continue com o passo a passo:
 
 1. Abra o __Keychain Access__; 
 2. Localize o __certificado__ criado no passo quatro acima;
-3. Com o botão direito do mouse, clique no ícone __Chave__; ![AP20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_20.PNG) 
+3. Com o botão direito do mouse, clique no ícone __Chave__; ![AP20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/como-configurar-certificado-para-validar-merchant-do-apple-pay_20.PNG) 
 4. Clique em __Export__;
 5. Nomeie o __certificado__; 
 6. Selecione o formato de exportação __.p12__; 

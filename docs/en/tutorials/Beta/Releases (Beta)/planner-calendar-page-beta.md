@@ -36,7 +36,7 @@ You can view the **Calendar** page in three ways:
 
 In the following image, you will see the view per month and what you can do in the interface:
 
-![releases-calendar-monthly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases (Beta)/planner-calendar-page-beta_1.png)
+![releases-calendar-monthly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases%20(Beta)/planner-calendar-page-beta_1.png)
 
 In this page, you can:
 
@@ -54,7 +54,7 @@ In this page, you can:
 
 In the following image, you'll see the view per week and what you can do in the interface:
 
-![releases-calendar-weekly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases (Beta)/planner-calendar-page-beta_2.png)
+![releases-calendar-weekly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases%20(Beta)/planner-calendar-page-beta_2.png)
 
 In this page, you can:
 
@@ -72,7 +72,7 @@ In this page, you can:
 
 In the following image, you'll see the view per day and what you can do in the interface:
 
-![daily view v2 en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases (Beta)/planner-calendar-page-beta_3.png)
+![daily view v2 en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Releases%20(Beta)/planner-calendar-page-beta_3.png)
 
 Apart from viewing information about the release, in this page, you can:
 

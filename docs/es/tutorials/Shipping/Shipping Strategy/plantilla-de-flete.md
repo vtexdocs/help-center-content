@@ -3,8 +3,8 @@ title: 'Plantilla de flete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-10-10T13:26:19.271Z
-publishedAt: 2023-10-10T13:26:19.271Z
+updatedAt: 2024-11-13T19:09:02.477Z
+publishedAt: 2024-11-13T19:09:02.477Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -88,7 +88,7 @@ Vea la siguiente tabla para entender cada campo en detalle.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Identificación del polígono definido en la función de <a href="https://help.vtex.com/es/tutorial/gerenciar-geolocalizacao/">geolocalización.</a>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Este campo solo se tiene que completar si los campos <b>ZipCodeStart</b> y <b>ZipCodeEnd</b> no están rellenados, ya que son datos de función equivalentes.  
+            <td class="t-body pa5" style="min-width: 15rem;">Para utilizar geolocalización, después de rellenar la columna <b>PolygonName</b> con los valores deseados, rellene las columnas <b>ZipCodeStart</b> y <b>ZipCodeEnd</b> con el valor <code>0</code>.<p>Este campo solo se tiene que completar si los campos <b>ZipCodeStart</b> y <b>ZipCodeEnd</b> no están rellenados, ya que son datos de función equivalentes.
             </td>
         </tr>
     <tr class="bb b--muted-3">
@@ -177,7 +177,7 @@ Vea la siguiente tabla para entender cada campo en detalle.
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/plantilla-de-flete_1.png)
+![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/plantilla-de-flete_1.png)
 
 ## Enviar el archivo por el Admin VTEX
 
@@ -190,7 +190,7 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 3. Después de descargar la plantilla modelo y [completar los campos](#completar-los-campos-de-la-plantilla), cargue el archivo en la sección Cargar tarifas de envío, como se ilustra en la siguiente imagen. 
 4. Al finalizar, haga clic en `Guardar cambios`.
 
-  ![upload tarifas envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/plantilla-de-flete_2.png)
+  ![upload tarifas envioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/plantilla-de-flete_2.png)
 
 >⚠️ Para registrar una **nueva** Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 

@@ -3,8 +3,8 @@ title: 'El producto no se muestra en la búsqueda del sitio web'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-08-08T14:57:59.572Z
-publishedAt: 2024-08-08T14:57:59.572Z
+updatedAt: 2024-11-08T19:10:04.204Z
+publishedAt: 2024-11-08T19:10:04.204Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,15 +15,15 @@ legacySlug: nao-consigo-visualizar-o-produto-na-busca-do-site
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras clave__: *producto, búsqueda, catálogo, intelligent search, apps, rewriter, graphql, vtex io, redirect.*
+**Tags:** Producto, Búsqueda, Catálogo, Intelligent search, Rewriter
 
 Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_2.png)
 
 Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
@@ -79,7 +79,7 @@ Para remover la restricción de búsqueda por marca (brand) y permitir que los p
 
 <blockquote><ui>4. En <b>Selecciona una aplicación</b>, chaz clic en la opción de Rewriter (<b>vtex.rewriter@{app-version-number}</b>).</ui>
 
-![Graphql_ide_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+![Graphql_ide_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_3.png)
 
 <blockquote><ui>5. En el campo de entrada de datos de la consulta (debajo de <b>GraphiQL</b>), ingresa los datos de la función mutación <i>saveInternal</i>.<ui>
 

@@ -17,7 +17,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Additional shipping costs are extra charges added to the shipping rate as established in [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). So, when configuring costs for shipping items, you can set a fixed rate and include additional charges. Together, these values will compose the [shipping rate](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141). 
 
-![Tarifa envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping rates/additional-shipping-costs_1.svg)
+![Tarifa envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/additional-shipping-costs_1.svg)
 
 You can configure the following additional costs:
 
@@ -26,7 +26,7 @@ You can configure the following additional costs:
 * [Insurance charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
 * [Extra shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
 
-![adicionais frete EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping rates/additional-shipping-costs_2.svg)
+![adicionais frete EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/additional-shipping-costs_2.svg)
 
 >❗ Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the [shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) is the sum of all additional charges plus the flat rate. 
 > The shipping rate is not the total shipping cost.
@@ -67,7 +67,7 @@ There are two ways to configure the weight-based additional charge:
 
 To learn more, access their tutorials.
 
-![faixa-peso EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping rates/additional-shipping-costs_3.png)
+![faixa-peso EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/additional-shipping-costs_3.png)
 
 ## Price-based additional charge
 
@@ -157,4 +157,4 @@ To configure the additional shipping charge, go to the left-side menu in the VTE
     If you want to include a 10% fee, fill in the field with 10. Use a period to indicate the decimal place, such as 1.67.
 3. Click on `Save`.
 
-![adicional configuracoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping rates/additional-shipping-costs_4.png)
+![adicional configuracoes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/additional-shipping-costs_4.png)

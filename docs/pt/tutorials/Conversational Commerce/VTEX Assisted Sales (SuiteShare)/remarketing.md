@@ -23,19 +23,19 @@ Estudos comprovam que o remarketing é 7x mais barato do que impulsionar um anú
 
 Para começar acesse o painel da Suiteshare, escolha a opção \\"_**Atrair > Remarketing\\".**_
 
-![Remarketing 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/remarketing_1.png)
+![Remarketing 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/remarketing_1.png)
 
 Na nova página, clique no botão _**“Novo”**_
 
-![Remarketing 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/remarketing_2.png)
+![Remarketing 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/remarketing_2.png)
 
 Na opção Plataforma, escolha qual é a rede social que você irá utilizar para fazer o remarketing. Depois, clique em \\"_**avançar\\".**_
 
-![Remarketing 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/remarketing_3.png)
+![Remarketing 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/remarketing_3.png)
 
 Defina as configurações de dados do Pixel.
 
-![Remarketing 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/remarketing_4.png)
+![Remarketing 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/remarketing_4.png)
 
 Em **Identificador**, dê um nome ao seu pixel para reconhecê-lo facilmente dentro da plataforma da **Suiteshare**.
 
@@ -49,7 +49,7 @@ Clique no botão _**“avançar”**_.
 
 Informe como o Remarketing irá rastrear os seus clientes. Em Conexão, você deve selecionar o link que os clientes irão clicar para iniciar uma conversa com o seu time de atendimento. O link selecionado será trackeado e, se desejar, poderá selecionar mais de um.
 
-![Remarketing 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/remarketing_5.png)
+![Remarketing 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/remarketing_5.png)
 
 Clique em _**“Finalizar”.**_
 

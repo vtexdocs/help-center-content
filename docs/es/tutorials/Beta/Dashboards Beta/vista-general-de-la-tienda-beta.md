@@ -21,7 +21,7 @@ La página Vista general (Beta) de tu Admin VTEX proporciona un seguimiento en t
 
 Esta herramienta está disponible en el Admin VTEX, en la página de inicio. Para acceder, haz clic en **Dashboards > Vista general** en el menú de navegación, o escribe _Vista general_ en la barra de búsqueda de la parte superior de la página.
 
-![ES Visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards Beta/vista-general-de-la-tienda-beta_1.png)
+![ES Visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards%20Beta/vista-general-de-la-tienda-beta_1.png)
 
 En este artículo, presentamos las principales secciones y acciones presentes en la página. Aquí verás más información sobre:
 
@@ -72,7 +72,7 @@ Si deseas analizar los resultados de campañas, promociones o lanzamientos de nu
 3. Selecciona la [vista](#vista) `Acumulado`.
 4. Haz un seguimiento de las métricas hora a hora.
 
-![ES Visão geral beta acumulado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards Beta/vista-general-de-la-tienda-beta_2.png)
+![ES Visão geral beta acumulado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards%20Beta/vista-general-de-la-tienda-beta_2.png)
 
 ### Monitorear impactos de cambios en la tienda
 
@@ -85,7 +85,7 @@ Si deseas ver el impacto de los cambios realizados en tu tienda, para identifica
 3. Evalúa el pulso en las métricas, o puntos de inflexión en el gráfico, que se han producido en las dos últimas horas. 
 4. Compara los horarios de los puntos de inflexión con los cambios generados para identificar su causa e impacto. 
 
-![ES Visão geral beta ultimas duas horas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards Beta/vista-general-de-la-tienda-beta_3.png)
+![ES Visão geral beta ultimas duas horas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards%20Beta/vista-general-de-la-tienda-beta_3.png)
 
 ## Comparar periodos
 
@@ -128,7 +128,7 @@ La siguiente tabla describe los gráficos incluidos en la sección _Monitoreo_ d
 
 ## Métricas
 
-![ES Visão geral beta metricas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards Beta/vista-general-de-la-tienda-beta_4.png)
+![ES Visão geral beta metricas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Dashboards%20Beta/vista-general-de-la-tienda-beta_4.png)
 
 La siguiente tabla describe las métricas disponibles en el panel de la página de inicio. Todas las métricas se refieren a flujos de compra realizados en tiendas VTEX en el periodo seleccionado.
 

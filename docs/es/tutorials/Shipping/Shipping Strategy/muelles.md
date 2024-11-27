@@ -3,8 +3,8 @@ title: 'Muelles'
 id: 5DY8xHEjOLYDVL41Urd5qj
 status: PUBLISHED
 createdAt: 2021-09-23T20:48:21.165Z
-updatedAt: 2021-09-23T21:32:42.402Z
-publishedAt: 2021-09-23T21:32:42.402Z
+updatedAt: 2024-11-05T18:08:12.885Z
+publishedAt: 2024-11-05T18:08:12.885Z
 firstPublishedAt: 2021-09-23T21:20:17.177Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,21 +15,17 @@ legacySlug: muelles
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-
 El muelle forma parte del sistema logístico y representa un punto intermedio entre el almacén y la transportadora. En el muelle, las transportadoras recogen los ítems para entregarlos a sus destinatarios. 
 
 En VTEX, el muelle es un intermediario entre el almacenamiento de ítems y la entrega de los pedidos de tu negocio. Es a través del muelle que se produce la integración de las partes necesarias para la logística de tu tienda, a saber: el [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![Doca ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/muelles_1.svg)
+![Doca ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/muelles_1.svg)
 
 >ℹ️ El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío.
-> El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:
-> <body>
-> <ol>
-> <li>[Política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV);</li>
-> <li>[Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140);</li>
-> <li>Muelle;</li>
-> <li>[Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).</li>
+> El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es: 
+> *[Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
+> * Muelle
+> * [Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
 
 ## Casos de uso
 

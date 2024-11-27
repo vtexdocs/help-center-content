@@ -63,17 +63,17 @@ El resumen de la promoción puede mostrar tres tipos diferentes de alertas. Mira
 Las alertas de riesgo alto indican configuraciones o errores de registro importantes que deben ser revisados, ya que pueden comprometer el rendimiento de la promoción y, en consecuencia, el margen de la operación de la tienda.
 
 Ejemplo:
-![alert-alto-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/resumen-de-la-promocion_1.png)
+![alert-alto-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/resumen-de-la-promocion_1.png)
 
 ### Riesgo medio
 Las alertas de riesgo medio muestran avisos de configuraciones que pueden causar efectos no deseados en la promoción.
 
 Ejemplo:
-![alert-medio-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/resumen-de-la-promocion_2.png)
+![alert-medio-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/resumen-de-la-promocion_2.png)
 
 ### Riesgo bajo 
 Las alertas de riesgo bajo presentan información relevante sobre la configuración de la promoción, lo que puede contribuir a mejorar el rendimiento.
 
 Ejemplo:
-![alert-baixo-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/resumen-de-la-promocion_3.png)
+![alert-baixo-risco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/resumen-de-la-promocion_3.png)
 

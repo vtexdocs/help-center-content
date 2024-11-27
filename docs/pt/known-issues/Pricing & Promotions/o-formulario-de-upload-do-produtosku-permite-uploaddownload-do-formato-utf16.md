@@ -33,7 +33,7 @@ Atualmente, se um usuário tentar carregar uma lista SKU para o formulário de p
 
 1) Criar uma promoção regular e na seção #2 "A quais **ites** esta promoção se aplicará?", carregar uma lista UTF-16 formatada, válida da SKU para os arquivos da SKU ou do Produto
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing & Promotions/o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16_1.png)
 
 2) Salvar a promoção
 

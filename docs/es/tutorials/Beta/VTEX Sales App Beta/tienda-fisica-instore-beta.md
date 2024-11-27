@@ -26,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda)
 * [Eliminar](#eliminar-tienda)
 
-![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Sales App Beta/tienda-fisica-instore-beta_1.png)
+![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Sales%20App%20Beta/tienda-fisica-instore-beta_1.png)
 
 La página contiene la siguiente información:
 
@@ -51,7 +51,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Sales App Beta/tienda-fisica-instore-beta_2.png)
+![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Sales%20App%20Beta/tienda-fisica-instore-beta_2.png)
 
 #### Identificación
 

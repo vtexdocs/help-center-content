@@ -35,11 +35,11 @@ The __Checkout__ module in the Admin, displays the sites that are registered for
 
 Creation of the new website:
 
-![en.smartcheckout1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_1.png)
+![en.smartcheckout1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_1.png)
 
 Account Name Access:
 
- ![en.smartcheckout2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_2.png)
+ ![en.smartcheckout2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_2.png)
 
 ## Editing and configuring website 
 
@@ -54,14 +54,14 @@ Account Name Access:
    - __Pages__: display existing pages for the website.
 
 Example of existing sites in the same account:
-![EN Cards Portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_3.png)
+![EN Cards Portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_3.png)
 
 Example of available pages for a website:
-![en.smartcheckout3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_4.png)
+![en.smartcheckout3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_4.png)
 
 If you want to __delete__ a site, click on the delete button for the desired site, as in the example below:
 
-![en.smartcheckout5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_5.png)
+![en.smartcheckout5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_5.png)
 
 We'll now have a more in-depth look at the following options menu settings: __Code__ and __Checkout__, being responsible for configuring the pages *checkout* and *order placed* pages.
 
@@ -78,7 +78,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
   <li><b>Calculation of Delivery Options (Beta and Stable)</b>: select whether the freight calculation will be done from the spreadsheet or by geolocation.</li>
   </ul>
 
-![en.smartcheckout6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_6.png)
+![en.smartcheckout6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_6.png)
 
 ## Configure code
 
@@ -88,7 +88,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
 
 Example:
 
-![en.smartcheckout7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_7.png)
+![en.smartcheckout7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_7.png)
 
 ### Configuring templates from the "Code" menu
 
@@ -106,27 +106,27 @@ Below are examples of how the codes present in the __checkout-header__, __checko
 
 - Template __checkout-header__ and website page header:
 
-![en.smartcheckout10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_8.png) 
+![en.smartcheckout10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_8.png) 
 
-![en.smartcheckout11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_9.png)
+![en.smartcheckout11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_9.png)
 
 - Template __checkout-footer__ and website page footer:
 
-![en.smartcheckout8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_10.png)
+![en.smartcheckout8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_10.png)
 
- ![en.smartcheckout9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_11.png)
+ ![en.smartcheckout9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_11.png)
 
 - Template __vtex-checkout__ and cart page at Checkout:
 
-![en.smartcheckout12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_12.png) 
+![en.smartcheckout12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_12.png) 
 
-![en.smartcheckout13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_13.png)
+![en.smartcheckout13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_13.png)
 
 - Template __vtex-orderPlaced__ and confirmed order page:
 
-![en.smartcheckout18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_14.png)
+![en.smartcheckout18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_14.png)
 
-![en.smartcheckout19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_15.png)
+![en.smartcheckout19](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_15.png)
 
 ### Multi-domain accounts
 
@@ -134,5 +134,5 @@ Multi-domain accounts can use just one site if no specifics configuration requir
 
 An example of a "body" tag that's inserted according to the accessed domain:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/configure-template-in-smartcheckout-update_16.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/configure-template-in-smartcheckout-update_16.jpg)
 

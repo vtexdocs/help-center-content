@@ -17,7 +17,7 @@ subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
 
 The Global Page feature provides a comprehensive view of past, present, and upcoming events associated with your account, enabling enhanced engagement and sales opportunities even after the events have concluded or before they occur. See the following example of a Global Page:
 
-![ls-global-page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![ls-global-page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Live%20Shopping/live-shopping-configuring-a-landing-page-for-live-shopping-events_1.png)
 
 The Global Page incorporates the following key features:
 

@@ -18,7 +18,7 @@ The first time you access your account through VTEX IO CLI, you will see there a
 
 They have been previously installed and are responsible for performing some basic functions.
 
-![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/VTEX IO/what-are-pre-installed-apps_1.png)
+![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/VTEX%20IO/what-are-pre-installed-apps_1.png)
 
 For example:
 - __admins-app__: renders the page of the new VTEX administrative panel.

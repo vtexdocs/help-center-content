@@ -36,11 +36,11 @@ Después de instalar, usted puede acceder a la app desde la barra lateral (secci
 4. (Opcional) Escriba una pequeña descripción de su condición. Esta descripción es sólo para control interno, no será visible a sus clientes.
 5. Haga clic en "Empezar a construir".
 
-![createCondition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions Builder/como-usar-el-app-conditions-builder_1.gif)
+![createCondition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions%20Builder/como-usar-el-app-conditions-builder_1.gif)
 
 Después de presionar el botón "Empezar a construir", usted verá un editor y una lista de bloques en el lado izquierdo de la pantalla. Ahora sólo tiene que arrastrar los bloques al editor y conectarlos, creando así su lógica.
 
-![creating](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions Builder/como-usar-el-app-conditions-builder_2.gif)
+![creating](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions%20Builder/como-usar-el-app-conditions-builder_2.gif)
 
 ### Edición de una condición
 
@@ -53,4 +53,4 @@ Si desea que una condición ya no se aplique, usted puede simplemente deshabilit
 - Cuando el botón al lado de la condición es __azul__, está __habilitado__.
 - Cuando el botón al lado de la condición es __gris__, está __deshabilitado__.
 
-![enableDisableEnglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions Builder/como-usar-el-app-conditions-builder_3.gif)
+![enableDisableEnglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Conditions%20Builder/como-usar-el-app-conditions-builder_3.gif)

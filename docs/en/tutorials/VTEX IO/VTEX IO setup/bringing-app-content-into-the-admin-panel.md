@@ -25,7 +25,7 @@ Open up your favorite text editor and navigate to your project’s folder.
 
 Adding a simple `“admin/“` to the beginning of the page name as well as to the route path should make it look like this:
 
-![2 pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX IO/VTEX IO setup/bringing-app-content-into-the-admin-panel_1.png)
+![2 pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20IO/VTEX%20IO%20setup/bringing-app-content-into-the-admin-panel_1.png)
 
 ## Fixing dependencies
 
@@ -33,7 +33,7 @@ We must now navigate to the manifest.json file where we list all of our dependan
 
 Let’s add `vtex.admin: “1.x”` to out dependencies. VTEX IO is strict about requiring explicit version.
 
-![3 manifest](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX IO/VTEX IO setup/bringing-app-content-into-the-admin-panel_2.png)
+![3 manifest](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20IO/VTEX%20IO%20setup/bringing-app-content-into-the-admin-panel_2.png)
 
 ## The final touches
 
@@ -47,5 +47,5 @@ Navigate to index.js and add the `componentDidMount()` lifecycle method above th
 
 Your React application should now have the proper URL path, the correct dependencies and an index.js that makes use of React’s lifecycle method to communicate with VTEX (through `window.postmessage`) to terminate the loading process.
 
-![4 final touches](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX IO/VTEX IO setup/bringing-app-content-into-the-admin-panel_3.png) 
-![5 completo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX IO/VTEX IO setup/bringing-app-content-into-the-admin-panel_4.png)
+![4 final touches](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20IO/VTEX%20IO%20setup/bringing-app-content-into-the-admin-panel_3.png) 
+![5 completo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20IO/VTEX%20IO%20setup/bringing-app-content-into-the-admin-panel_4.png)

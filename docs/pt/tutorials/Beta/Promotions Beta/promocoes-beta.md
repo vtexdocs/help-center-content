@@ -31,20 +31,20 @@ A página inicial apresenta a lista de promoções em uma grade que permite visu
 - Duplicar ou arquivar promoções através do botão <i class="fas fa-ellipsis-v"></i>
 - Gerenciar as condições da promoção clicando em qualquer parte da linha do grid (veja [Nova promoção](#nova-promocao) para detalhamento das condições da promoção).
 
-![promobeta1 acoes lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions Beta/promocoes-beta_1.gif)
+![promobeta1 acoes lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions%20Beta/promocoes-beta_1.gif)
 
 A lista de promoções pode ser filtrada e ordenada conforme a sua necessidade. A filtragem da lista pode ser feita por *Efeito*, *Estado*, *Data início*, *Data fim* ou *Política comercial*.
 
-![promobeta2 filtros lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions Beta/promocoes-beta_2.gif)
+![promobeta2 filtros lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions%20Beta/promocoes-beta_2.gif)
 
 A ordenação pode ser crescente ou decrescente a partir das informações básicas da promoção, bastando clicar sobre o título.
 
-![promobeta3 ordenacao lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions Beta/promocoes-beta_3.gif)
+![promobeta3 ordenacao lista promocoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions%20Beta/promocoes-beta_3.gif)
 
 ## Nova promoção
 Na tela inicial, clique no botão **NOVA PROMOÇÃO** para acessar a página de criação de promoções, na qual você vai preencher uma variedade de campos para configurar as condições desejadas para a sua promoção.
 
-![promobeta4 botao novapromocao PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions Beta/promocoes-beta_4.png)
+![promobeta4 botao novapromocao PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Promotions%20Beta/promocoes-beta_4.png)
 
 As condições da nova promoção, bem como os campos da tela, estão separados por grupos, sendo eles:
 

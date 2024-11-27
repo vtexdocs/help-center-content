@@ -23,7 +23,7 @@ internalReference: 508883
 
 Cuando se descarga un informe de búsqueda, la tabla que contiene métricas como búsquedas, clics y clics únicos al final del informe contiene una columna de fecha que muestra entradas duplicadas sin una razón aparente como se puede ver en la imagen:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/metrica-diaria-en-el-informe-de-busqueda-que-muestra-la-fecha-duplicada_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/metrica-diaria-en-el-informe-de-busqueda-que-muestra-la-fecha-duplicada_1.png)
 
 
 

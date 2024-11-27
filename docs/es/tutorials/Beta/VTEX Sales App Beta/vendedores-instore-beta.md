@@ -29,7 +29,7 @@ Esta página te permite gestionar tus vendedores a través de las siguientes acc
 * [Editar](#editar-vendedor)
 * [Eliminar](#eliminar-vendedor)
 
-![vendedores-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Sales App Beta/vendedores-instore-beta_1.png)
+![vendedores-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Sales%20App%20Beta/vendedores-instore-beta_1.png)
 
 La página contiene la siguiente información:
 
@@ -52,7 +52,7 @@ Puedes crear un vendedor siguiendo los pasos a continuación:
 
 Después de registrado, el vendedor recibirá un email de confirmación y se le redirigirá a la opción de inicio de sesión del vendedor en la aplicación inStore.
 
-![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Sales App Beta/vendedores-instore-beta_2.png)
+![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Sales%20App%20Beta/vendedores-instore-beta_2.png)
 
 >⚠️ Los vendedores registrados en inStore no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.
 

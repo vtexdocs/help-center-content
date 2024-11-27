@@ -34,7 +34,7 @@ The Apps menu allows merchants to download new apps directly from the App Store 
 
 These operations can be found in the Apps menu of your redesigned Admin.
 
-![Apps Overview menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/apps-overview_1.jpg)
+![Apps Overview menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/apps-overview_1.jpg)
 
 See below for more details on the different sections and pages of this feature, which will soon be available in the redesigned Admin. 
 

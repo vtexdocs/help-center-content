@@ -40,7 +40,7 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 4. Rellene el campo __Template XHTML__ con los códigos de template.
 5. Haga clic en `Save Template`.
 
-![template xhtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/configurar-carrito-abandonado_1.PNG)
+![template xhtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_1.PNG)
 
 >⚠️ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
 
@@ -50,7 +50,7 @@ Para utilizar una opción de modelo estándar, siga los pasos que se indican a c
 2. En __CMS > HTML Templates__, haga clic en el icono `CEM-Abandoned-Cart`.
 3. Verifique la información de los códigos de template presentes en el campo __Template XHTML__.
 
-![CEM-Abandoned-Cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/configurar-carrito-abandonado_2.PNG)
+![CEM-Abandoned-Cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_2.PNG)
 
 ### Configurar modelo de email en el Centro de mensajes
 
@@ -67,7 +67,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 
 >ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 
-![New template - message center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/configurar-carrito-abandonado_3.PNG)
+![New template - message center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_3.PNG)
 
 ### Liberación del SPF
 
@@ -75,7 +75,7 @@ La liberación del SPF es fundamental para evitar problemas de entregabilidad de
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
-![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/configurar-carrito-abandonado_4.PNG)
+![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_4.PNG)
 
 Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
@@ -141,7 +141,7 @@ Para configurar la funcionalidad de carrito abandonado en las tiendas VTEX IO, s
 3. Realice la [liberación del SPF](#liberacion-del-spf).
 4. [Configure el trigger](#configuracion-de-trigger) de la misma manera que en las tiendas Legacy hasta el Paso 10. A partir del Paso 11 (pestaña __Si es positivo__), siga las instrucciones disponibles en [Trigger configuration information](https://developers.vtex.com/vtex-developer-docs/docs/vtex-abandoned-cart-service#trigger-configuration-information).
 
-![If positive tab IO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/configurar-carrito-abandonado_5.PNG)
+![If positive tab IO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_5.PNG)
 
 ## Dudas frecuentes
 

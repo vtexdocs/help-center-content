@@ -17,7 +17,7 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 
 A página de **Conta** permite que você visualize e gerencie detalhes da sua conta VTEX. Para acessá-la, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique em **Configurações da conta** > **Conta.**
 
-![Admin v4 account settings menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_1.jpg)
+![Admin v4 account settings menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_1.jpg)
 
 >⚠️ Esta tela não tem detalhes de chaves de aplicação. Saiba onde encontrar e gerenciar estas informações no artigo [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
@@ -27,7 +27,7 @@ As funções da página de **Conta** dividem-se em duas abas: [Geral](#geral) e 
 
 As funcionalidades da aba **Geral** estão dispostas nas seções [Detalhes](#detalhes), [Informações da Empresa](#informacoes-da-empresa) e [Titular](#titular).
 
-![Página de detalhes da conta - seção conta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_2.png)
+![Página de detalhes da conta - seção conta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_2.png)
 
 Nesta aba você pode:
 
@@ -39,7 +39,7 @@ Nesta aba você pode:
 
 Nesta seção você pode consultar as informações básicas da sua conta VTEX.
 
-![Página de detalhes da conta - detalhes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_3.png)
+![Página de detalhes da conta - detalhes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_3.png)
 
 - **Nome da conta principal:** [nome de conta VTEX](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
 - **Data de criação:** data em que sua conta foi criada.
@@ -56,7 +56,7 @@ Nesta seção você visualiza os seguintes dados de cadastro da sua empresa:
 - Nome legal
 - CNPJ
 
-![Página de detalhes da conta - Informações da empresa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_4.png)
+![Página de detalhes da conta - Informações da empresa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_4.png)
 
 #### Editar informações da empresa
 
@@ -80,7 +80,7 @@ Esta seção apresenta detalhes do usuário titular da conta. Cada conta VTEX te
 
 >ℹ️ Saiba mais sobre o [usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-![Página de detalhes da conta - Titular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_5.png)
+![Página de detalhes da conta - Titular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_5.png)
 
 Caso você seja o usuário titular, poderá [transferir a propriedade da loja](https://help.vtex.com/pt/tutorial/transferencia-de-propriedade-da-loja) nesta seção. Ou seja, tornar outro usuário o titular da conta.
 
@@ -95,7 +95,7 @@ Na aba lojas, você pode:
 
 Ao clicar na aba **Lojas**, na parte superior da tela, você verá uma lista com as informações de todas as lojas criadas na sua conta VTEX. 
 
-![Página de detalhes da conta - Lojas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/gerenciamento-da-conta_6.png)
+![Página de detalhes da conta - Lojas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/gerenciamento-da-conta_6.png)
 
 Para cada loja, você pode visualizar os seguintes detalhes:
 

@@ -33,4 +33,4 @@ Segue abaixo um passo a passo de como usar esses Preços Condicionais :
 6. Você pode definir uma pequena mensagem, chamada *Teaser*, pra promover essa condição ao seu cliente. (Para entender melhor, veja [Teasers - Em breve])
 7. Salve.
 
-![conditionalPrice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-criar-precos-condicionais_1.gif)
+![conditionalPrice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-criar-precos-condicionais_1.gif)

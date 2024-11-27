@@ -100,7 +100,7 @@ Puedes pausar un producto específico de tu campaña para que el anuncio corresp
 
 En la pantalla de inicio de la aplicación [VTEX Ad Network](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), también encontrarás información sobre tus campañas en curso.
 
-![vtex_ad_network_create_campaign_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Ad Network/anunciar-con-vtex-ad-network-beta_1.png)
+![vtex_ad_network_create_campaign_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Ad%20Network/anunciar-con-vtex-ad-network-beta_1.png)
 
 En la parte superior se muestran los datos agregados:
 

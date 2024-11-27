@@ -23,7 +23,7 @@ No Admin, é possível criar *landing pages* customizadas por [*binding*](https:
 2. Selecione o *binding* no qual deseja criar a nova *landing page* no menu suspenso da página.
 3. Clique no botão `Criar nova`.
 
-  ![pt-landing-page-binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Site Editor/criando-landing-pages-por-binding_1.png)
+  ![pt-landing-page-binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Site%20Editor/criando-landing-pages-por-binding_1.png)
 
 4. Na seção `Detalhes da página`, preencha os campos e defina os metadados para sua nova *landing page* de acordo com os valores esperados:
 

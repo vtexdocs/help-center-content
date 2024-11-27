@@ -37,7 +37,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
 La configuración de facetas presenta ajustes relacionados con las [facetas](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
 
-![Configuracion del filtro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Intelligent Search Settings/configuracion-de-la-busqueda_1.png)
+![Configuracion del filtro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Intelligent%20Search%20Settings/configuracion-de-la-busqueda_1.png)
 
 * **Orden de las facetas:** orden en el que se mostrarán las facetas en la tienda. Si no hay ninguna faceta seleccionada en la sección, el orden predeterminado es alfabético.
 

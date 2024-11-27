@@ -30,7 +30,7 @@ Luego, será necesario poner la tienda con un estado de producción en el Licens
 4. En la opción **Está en producción**, clic en el botón **No**, y quedará como **Si**;
 5. Clic en el botón **Guardar**.
 
-![cuentas.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Accounts/pasando-la-tienda-para-produccion_1.png)
+![cuentas.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Accounts/pasando-la-tienda-para-produccion_1.png)
 
 Después de esa configuración, al acceder la UL final de la tienda, la misma ya va a ser direccionada para su e-commerce!
 
