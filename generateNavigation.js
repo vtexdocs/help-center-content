@@ -3,6 +3,8 @@ const fs = require("fs");
 const path = require("path");
 require("dotenv").config();
 
+console.log('Generating navigation...')
+
 const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 });
@@ -83,6 +85,7 @@ const navigation = { navbar: [
 ] };
 
 function getTutorialEndpoints(endpointIds) {
+  console.log('Getting tutorial endpoints...')
   const children = [];
   for (let i = 0; i < endpointIds.length; i++) {
     const id = endpointIds[i].sys.id;
@@ -94,6 +97,7 @@ function getTutorialEndpoints(endpointIds) {
 }
 
 function getTutorialSubcategories(subcategoriesIds) {
+  console.log('Getting tutorial subcategories...')
   const children = [];
   for (let i = 0; i < subcategoriesIds.length; i++) {
     const id = subcategoriesIds[i].sys.id;
@@ -112,6 +116,7 @@ function getTutorialSubcategories(subcategoriesIds) {
 }
 
 function getTutorialCategories() {
+  console.log('Getting tutorial categories...')
   const categories = [];
   for (let i = 0; i < tutorialCategories.length; i++) {
     const { subcategories, ...obj } = tutorialCategories[i];
@@ -127,6 +132,7 @@ function getTutorialCategories() {
 }
 
 function getTrackArticles(steps) {
+  console.log('Getting track articles...')
   const children = [];
   for (let i = 0; i < steps.length; i++) {
     const id = steps[i].sys.id;
@@ -139,6 +145,7 @@ function getTrackArticles(steps) {
 }
 
 function getTracks(trackIds) {
+  console.log('Getting tracks...')
   const children = [];
   for (let i = 0; i < trackIds.length; i++) {
     const id = trackIds[i].sys.id;
@@ -156,6 +163,7 @@ function getTracks(trackIds) {
 }
 
 function getTrackTopics() {
+  console.log('Getting track topics...')
   const categories = [];
   for (let i = 0; i < trackTopics.length; i++) {
     const { trackChildren, ...obj } = trackTopics[i];
@@ -170,6 +178,7 @@ function getTrackTopics() {
 }
 
 function getNews() {
+  console.log('Getting news...')
 
   const months = [
     { en: 'January', es: 'Enero', pt: 'Janeiro' },
@@ -295,6 +304,7 @@ function getNews() {
 }
 
 function getFaq() {
+  console.log('Getting FAQs...')
   const enDir = 'docs/en/faq';
   const ptDir = 'docs/pt/faq';
   const esDir = 'docs/es/faq';
@@ -369,6 +379,7 @@ function getFaq() {
 }
 
 function getKnownIssues() {
+  console.log('Getting Known Issues...')
   const enDir = 'docs/en/known-issues';
   const ptDir = 'docs/pt/known-issues';
   const esDir = 'docs/es/known-issues';
@@ -443,6 +454,7 @@ function getKnownIssues() {
 }
 
 async function getEntries() {
+  console.log('Getting entries...')
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
