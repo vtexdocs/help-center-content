@@ -3,6 +3,10 @@ name: Retrieve docs from Contentful
 on:
   workflow_dispatch:
 
+  repository_dispatch:
+    types:
+      - webhook
+
 jobs:
   update:
     runs-on: ubuntu-latest
