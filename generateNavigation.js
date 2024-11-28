@@ -9,6 +9,9 @@ const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 });
 
+// troubleshooting remove const troubleshootingCategoryId = '39pDkp8qxSll6mGj0tWViz'
+// troubleshooting remove const troubleshootingCategories = []
+
 const tutorialCategories = [];
 const tutorialSubcategories = {};
 const tutorialEndpoints = {};
@@ -453,6 +456,17 @@ function getKnownIssues() {
   return knownIssuesCategories;
 }
 
+function getTroubleshooting() {
+  const tutorialsContent = navigation.navbar[1].categories
+  const troubleshootingIndex = tutorialsContent.findIndex(category => category.name.en === 'Troubleshooting')
+  const troubleshootingContent = tutorialsContent[troubleshootingIndex].children
+  
+  // Remove the troubleshooting category from the tutorials categories array
+  navigation.navbar[1].categories.splice(troubleshootingIndex, 1) 
+
+  return troubleshootingContent
+}
+
 async function getEntries() {
   console.log('Getting entries...')
   try {
@@ -509,6 +523,16 @@ async function getEntries() {
             errorDocs.docs.push(file);
             continue;
           } else {
+            // troubleshooting remove// If the subcategory's category is troubleshooting, it becomes a category of the troublshooting section and not a tutorials subcategory
+            // troubleshooting removeif (file.fields.category.pt.sys.id === troubleshootingCategoryId) {
+            // troubleshooting remove  const updatedCategory = {
+            // troubleshooting remove    ...endpointObj,
+            // troubleshooting remove    children: [],
+            // troubleshooting remove    endpoints: file.fields.tutorials.pt
+            // troubleshooting remove    }
+            // troubleshooting remove    console.log('updatedCategory: ', updatedCategory.endpoints[0])
+            // troubleshooting remove  continue
+            // troubleshooting remove}
             tutorialSubcategories[file.sys.id] = {
               ...endpointObj,
               type: 'category',
@@ -520,9 +544,12 @@ async function getEntries() {
           if(!file.fields.subcategories) {
             errorDocs.docs.push(file);
             continue;
-          } else if (file.fields.title === 'Troubleshooting') {
-            console.log('Troubleshooting category found')
           }
+          // troubleshooting remove// If category is troubleshooting continue the loop and don't add it to the tutorials categories array
+          // troubleshooting removeif (file.fields.title.en === 'Troubleshooting') {
+          // troubleshooting remove  console.log('Troubleshooting category found')
+          // troubleshooting remove  continue
+          // troubleshooting remove}
           // Add the "category-" prefix only to category slugs, not subcategories
           const updatedCategory = {
             ...endpointObj,
@@ -551,6 +578,8 @@ async function getEntries() {
     navigation.navbar[3].categories = getFaq();
 
     navigation.navbar[4].categories = getKnownIssues();
+
+    navigation.navbar[5].categories = getTroubleshooting();
 
     fs.writeFile('errorDocs.json', JSON.stringify(errorDocs), (err) => console.error(err));
     fs.writeFile('navigation.json', JSON.stringify(navigation), (err) => console.error(err));
