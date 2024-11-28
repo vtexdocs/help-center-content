@@ -1,5 +1,5 @@
 ---
-title: "Regions API doesn't calculate the "seller 1' correctly while requesting non-whitelabel sellers"
+title: "Regions API doesn't calculate the 'seller 1' correctly while requesting non-whitelabel sellers"
 id: 20sT9AMMi7Ob5IZc7FeiCB
 status: ARCHIVED
 createdAt: 2022-03-28T20:45:27.687Z

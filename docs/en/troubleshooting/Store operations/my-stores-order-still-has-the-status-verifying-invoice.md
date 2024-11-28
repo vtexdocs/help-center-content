@@ -1,5 +1,5 @@
 ---
-title: "​​My store's order still has the status "Verifying invoice'"
+title: "​​My store's order still has the status 'Verifying invoice'"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
