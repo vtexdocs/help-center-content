@@ -109,7 +109,7 @@ If you wish to provide a downloadable file directly within your article (such a 
 
 #### Filling in front matter information
 
-The front-matter is the table with metadata about the article you are creating. It contains the following fields:
+The front matter is the table with metadata about the article you are creating. It contains the following fields:
 
 - **title:** article's title. E.g. "Adding SKU specifications or fields"
 - **status**: Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
