@@ -1,6 +1,6 @@
 # help-center-content
 
-Welcome to the [VTEX Help Center Portal](https://help.vtex.com/) content repository! Here you will find the archives for all articles included in this documentation portal. It is managed by the [Tech Writing team](https://github.com/vtexdocs/help-center-content/graphs/contributors) at VTEX, so if you have any questions about the repository, do not hesitate to contact any of them.
+Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository! Here you will find the archives for all articles included in this documentation portal. It is managed by the [Education & Documentation team](https://github.com/vtexdocs/help-center-content/graphs/contributors) at VTEX, so if you have any questions about the repository, do not hesitate to contact any of them.
 
 ## In this repository
 
