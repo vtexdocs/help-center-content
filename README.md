@@ -39,7 +39,7 @@ Follow the steps below to create a new article in the Help Center:
 3. [Add images](#adding-an-image-to-the-article) to the article, if necessary.
 3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
 4. Submit your PR for review on GitHub.
-5. Send the PR link in the `#helpcenter-portal-pr` Slack channel for review by another technical writer.
+5. Send the PR link in the `#helpcenter-pr` Slack channel for review by another technical writer.
 6. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
 7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
 8. Approve the PR and apply the merge to publish the article.
