@@ -262,8 +262,6 @@ Follow the steps below to add new content in the navigation sidebar:
 
     > ℹ️ For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
 
-
-
 ### Updating a published article
 
 To update the content of an article that is already published on the Help Center Portal, follow the steps below:
