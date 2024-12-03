@@ -147,7 +147,6 @@ In addition to the standard fields for all articles, check the specific fields f
 
 - **troubleshootingtags**: Troubleshooting tag information.
 
-
 ### Updating navigation sidebar
 
 The [help-portal-content](https://github.com/vtexdocs/help-center-content) repository just stores our documentation, it is not yet automatically synched to be rendered in the Help Center Portal. For now, when a new content is added to it, it is just included in the desired folder.
