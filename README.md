@@ -48,7 +48,7 @@ Follow the steps below to create a new article in the Help Center:
 
     >⚠️ Note that there may be limitations on the number of PRs approved per day due to internal and external demands of the education team. This means that if you want your content to be published, you should submit your PR for review with at least 3 days in advance from the desired publication date!
 
-#### Adding an image to the article
+#### Adding images
 
 If you need to use images to help the user understand procedures more easily, follow the steps below to insert them into an article:
 
