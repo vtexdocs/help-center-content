@@ -152,7 +152,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 For an article to appear in the Help Center sidebar, you need to create a pull request in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
-The portal's navigation comes from the navigation [file](https://github.com/vtexdocs/helpcenter/blob/main/public/navigation.json). It is a json object listing the navigation and hierarchy of all contents in Help Center Portal.
+The portal's navigation comes from the [navigation.json file](https://github.com/vtexdocs/helpcenter/blob/main/public/navigation.json). It is a json object listing the navigation and hierarchy of all content in Help Center.
 
 The excerpt below represents the first articles of the Tutorials section, for instance.
 
