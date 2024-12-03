@@ -38,7 +38,7 @@ jobs:
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
-          file: './configs/scraper_helpcenter_files.json'
+          files: './configs/scraper_helpcenter_files.json'
           added: '${{ steps.changed-files.outputs.added_files }}'
           updated: '${{ steps.changed-files.outputs.modified_files }}'
           removed: '${{ steps.changed-files.outputs.deleted_files }}'
