@@ -32,7 +32,7 @@ In this document we will address the following topics related to the Help Center
 
 Follow the steps below to create a new article in the Help Center:
 
-1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
+1. Open a branch in the [help-center-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Add a new file in the [desired folder](#in-this-repository), and write the content of the article according to the [Template --> TBD](https://github.com/vtexdocs/dev-portal-content/blob/main/templates/guide_template.md).
     > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article title.
 
