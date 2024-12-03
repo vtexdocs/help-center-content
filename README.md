@@ -149,9 +149,8 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ### Updating navigation sidebar
 
-The [help-portal-content](https://github.com/vtexdocs/help-center-content) repository just stores our documentation, it is not yet automatically synched to be rendered in the Help Center Portal. For now, when a new content is added to it, it is just included in the desired folder.
 
-For it to appear in the Help Center Portal in the sidebar navigation, you need to create a pull request in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
+For an article to appear in the Help Center sidebar, you need to create a pull request in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
 The portal's navigation comes from the navigation [file](https://github.com/vtexdocs/helpcenter/blob/main/public/navigation.json). It is a json object listing the navigation and hierarchy of all contents in Help Center Portal.
 
