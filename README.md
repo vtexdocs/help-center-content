@@ -233,7 +233,7 @@ Follow the steps below to add new content in the navigation sidebar:
    > ⚠️ **Before you start adding commits, read the [helpcenter repository's readme](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file!** Commits must be done in a certain format for your PR to be approved.
 
 2. In the [navigation.json](https://github.com/vtexdocs/helpcenter/blob/main/public/navigation.json) file, locate where you want the new reference for the article to appear.
-3. Copy and paste the structure below into **navigation.json**, replacing the names of the articles (three versions) within the `name` object, and the respective slugs in the `slug` object.
+3. Copy and paste the structure below into **navigation.json**, replacing the names of the articles (one version per locale) within the `name` object, and the respective slugs in the `slug` object.
 
    ```jsx
       {
