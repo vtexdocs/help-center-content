@@ -44,7 +44,7 @@ Follow the steps below to create a new article in the Help Center:
 7. Once the translations are complete, check the contents of the two files created by the Localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
 8. Approve the PR and apply the merge to publish the article.
 9. Follow [these instructions](#updating-navigation-sidebar) to update the portal navigation sidebar, adding the link for the newly published article.
-    >ℹ️ The [help-portal-content](https://github.com/vtexdocs/help-center-content) repository just stores our documentation, it is not automatically synched to be rendered in the Help Center Portal - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
+    >ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository only stores our documentation, it is not automatically synched to be rendered in the Help Center - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
 
     >⚠️ Note that there may be limitations on the number of PRs approved per day due to internal and external demands of the education team. This means that if you want your content to be published, you should submit your PR for review with at least 3 days in advance from the desired publication date!
 
