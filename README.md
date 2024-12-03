@@ -22,14 +22,11 @@ You will find the following folders in this repository:
 
 In this document we will address the following topics related to the Help Center Portal:
 
-- [Publication of new articles](#publishing-a-new-article)
-- [Update navigation sidebar](#updating-navigation-sidebar)
-- [Update of published articles](#updating-a-published-article)
-- [Create a redirect](#creating-a-redirect)
+- [Publishing new articles](#publishing-a-new-article)
+- [Updating the navigation sidebar](#updating-navigation-sidebar)
+- [Updating published articles](#updating-a-published-article)
+- [Creating redirects](#creating-a-redirect)
 - [Settings for specific content](#settings-for-specific-content)
-
-
-
 
 ### Publishing a new article
 
