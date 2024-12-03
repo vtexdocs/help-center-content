@@ -18,7 +18,7 @@ You will find the following folders in this repository:
   - **tutorials**: Tutorials markdown files.
 - **readme-images**: Images used in the README.md file.
 
-## Management of Help Center Portal documentation
+## Managing Help Center documentation
 
 In this document we will address the following topics related to the Help Center Portal:
 
