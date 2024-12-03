@@ -132,7 +132,7 @@ In addition to the standard fields for all articles, check the specific fields f
 - **announcementImageID:** Announcement card image identification.
 - **announcementSynopsisEN:** Announcement Synopsis information. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
 
-##### Know issue fields
+##### Known issue fields
 
 - **tag**: Name of the module to which the known issue is related.
 - **kiStatus**: Know issue status.
