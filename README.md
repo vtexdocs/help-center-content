@@ -16,7 +16,7 @@ You will find the following folders in this repository:
   - **tracks**: Tracks markdown files.
   - **troubleshooting**: Troubleshooting markdown files.
   - **tutorials**: Tutorials markdown files.
-- **readme-images**: store images used in the Readme's document.
+- **readme-images**: Images used in the README.md file.
 
 ## Management of Help Center Portal documentation
 
