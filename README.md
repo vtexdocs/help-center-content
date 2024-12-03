@@ -279,7 +279,7 @@ To update the content of an article that is already published on the Help Center
 1. Open a branch in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
     >⚠️ Before you start adding commits, read the repository's readme file. Commits must be done in a certain format for your PR to be approved.
 
-2. In the file [netlify.toml](https://github.com/vtexdocs/helpcenter/blob/main/netlify.toml), you will find an array of redirects. Add the one you want to create following this format, replacing `from` and `to` with the desired slugs:
+2. In the [netlify.toml file](https://github.com/vtexdocs/helpcenter/blob/main/netlify.toml), you will find an array of redirects. Add the one you want to create following this format, replacing `from` and `to` with the desired slugs:
 
     ```
         [[redirects]]
