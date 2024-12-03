@@ -6,9 +6,9 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository! He
 
 You will find the following folders in this repository:
 
-- **.github/workflows**: store workflows needed to migrate content from Contentful to this repository.
-- **docs-utils**: store scripts used to perform adjustments to documentation imported from Contentful.
-- **docs**: stores the markdown files of all our docs. Contains subfolders with names of the three locales (PT, EN, and ES), and within each of them, the following categories:
+- **.github/workflows**: Workflows needed to migrate content from Contentful to this repository.
+- **docs-utils**: Scripts used to perform adjustments to documentation imported from Contentful.
+- **docs**: Documentation files. Contains subfolders corresponding to each locale (PT, EN, and ES), and within each of them, the following categories:
 
   - **announcements**: Announcement markdown files.
   - **faq**: FAQ markdown files.
