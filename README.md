@@ -79,7 +79,7 @@ If you need to use an illustration that exceeds this value, you can compress it 
 
 #### Adding a download file to the article
 
-If you wish to provide a downloadable file directly within your article (such a tables or PDF), you must attach it, creating a reference as follows:
+If you wish to provide a downloadable file directly within your article (such a table or PDF file), you must attach it, creating a reference as follows:
 
 1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Copy the file you want to make available for download to the same directory as the article where it will be inserted. For instance, to attach a spreadsheet within an article located at `docs/pt/tutorials/Payments/Payment Settings/list-of-payment-providers-by-country.md`, you need to save it in the directory `docs/pt/tutorials/Payments/Payment Settings.`
