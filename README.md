@@ -12,7 +12,7 @@ You will find the following folders in this repository:
 
   - **announcements**: Announcement markdown files.
   - **faq**: FAQ markdown files.
-  - **know-issues**: Know-issues markdown files.
+  - **known-issues**: Known issues markdown files.
   - **tracks**: Tracks markdown files.
   - **troubleshooting**: Troubleshooting markdown files.
   - **tutorials**: Tutorials markdown files.
