@@ -22,7 +22,7 @@ O prazo de envio de um pedido leva em consideração os seguintes aspectos da lo
 - [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 - [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
 
-![lead_time_image_total_time_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/como-e-calculado-o-prazo-de-entrega-do-pedido_1.png)
+![lead_time_image_total_time_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping%20Strategy/como-e-calculado-o-prazo-de-entrega-do-pedido_1.png)
 
 Você define um período para essas etapas e o prazo de envio que o seu cliente vê no checkout é uma soma desses períodos. 
 

@@ -22,9 +22,9 @@ To create the extra fields, follow the steps below:
 1. Check current store configuration via GET request on endpoint [Get orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/getorderformconfiguration). Save the JSON information returned from the request.
 
 Example used for the "inStore" store:
-![2017-08-14 20 12 34-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-configure-extra-fields-in-instore-cart_1.png)
+![2017-08-14 20 12 34-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-configure-extra-fields-in-instore-cart_1.png)
     2. Make a POST request using the endpoint [Update orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/updateorderformconfiguration) cwith the same saved JSON data, and add the extra fields (`fields`) with the information inside the `apps` property.
 
 Example of POST request:
 
-![2017-08-14 20 11 18-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/how-to-configure-extra-fields-in-instore-cart_2.png)
+![2017-08-14 20 11 18-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/how-to-configure-extra-fields-in-instore-cart_2.png)

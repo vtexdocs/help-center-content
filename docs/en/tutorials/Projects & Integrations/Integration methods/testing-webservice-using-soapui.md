@@ -35,11 +35,11 @@ The step-by-step utilization is as follows:
  
 Substitute the value {STORENAME} with the name of your store.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration methods/testing-webservice-using-soapui_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20methods/testing-webservice-using-soapui_1.png)
 
 Log in using the data of the webservice desired. After logging in, you will view all the methods to be found in the [Web Service manual](/en/tutorial/manual-of-classes-and-methods-used-on-webservice/)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration methods/testing-webservice-using-soapui_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20methods/testing-webservice-using-soapui_2.png)
 
 1. Locate the desired method. e.g.: the ImageInsertUpdate method, which is the method used for adding images;
 2. Fill out the fields referring to the method (these fields are the ImageDTO type, references are in the manual);

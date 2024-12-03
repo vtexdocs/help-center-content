@@ -27,5 +27,5 @@ Siga las instrucciones a continuación para acceder a la página:
 1. En el Admin VTEX, acceda a __Storefront__, o escribe __Storefront__ en la barra de búsqueda en la parte superior de la página.
 2. En **Intelligent Search**, haga clic en **Explicación de la búsqueda**. 
 
-![Explicación de Búsqueda](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Intelligent Search Overview/explicacion-de-busqueda_1.png)
+![Explicación de Búsqueda](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/explicacion-de-busqueda_1.png)
 

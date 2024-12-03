@@ -25,7 +25,7 @@ The first box with a total time of __2 days__ will wait for the item represented
 
 The period considers T = 0 as the date of the order.
 
-![Configuração em estoque e entrega EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory and Shipping Settings/setting-up-shipment_1.png)
+![Configuração em estoque e entrega EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory%20and%20Shipping%20Settings/setting-up-shipment_1.png)
 
 ## How to set up the shipment
 

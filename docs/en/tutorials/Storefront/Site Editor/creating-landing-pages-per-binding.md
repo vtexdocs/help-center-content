@@ -23,7 +23,7 @@ In the Admin, you can create customized landing pages by [binding](https://help.
 2. Select the desired binding in which the new landing page should be created using the dropdown menu on the page.
 3. Click on the `Create New` button.
 
-  ![en-landing-page-binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Site Editor/creating-landing-pages-per-binding_1.png)
+  ![en-landing-page-binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Site%20Editor/creating-landing-pages-per-binding_1.png)
 
 4. In the `Page` details section, fill out the fields to define your new landing page's metadata, according to the expected values:
 

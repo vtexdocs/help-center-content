@@ -87,7 +87,7 @@ Para criar uma opção de envio, siga os passos abaixo:
     - **Frete grátis:** sem custos para o consumidor, não requer configurações adicionais.
 8. Clique no botão `Salvar`.
 
-![opcoes_envio_criacao_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping Beta/shipping-options-beta_1.png)
+![opcoes_envio_criacao_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping%20Beta/shipping-options-beta_1.png)
 
 ### Editar opção de envio
 
@@ -111,7 +111,7 @@ Além de editar uma opção de envio, no ícone menu <i class="fas fa-ellipsis-v
 
 Uma vez que você tenha opções de envio configuradas, elas vão aparecer em uma listagem em **Configurações da loja > Envio > Opções de envio**, conforme a imagem a seguir:
 
-![opcoes_envio_listagem_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping Beta/shipping-options-beta_2.png)
+![opcoes_envio_listagem_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Shipping%20Beta/shipping-options-beta_2.png)
 
 A tabela abaixo contém a descrição das colunas apresentadas:
 

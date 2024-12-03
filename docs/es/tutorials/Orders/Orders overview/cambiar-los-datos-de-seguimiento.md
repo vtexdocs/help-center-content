@@ -38,4 +38,4 @@ Para cambiar los datos de un pedido manualmente, sigue los pasos a continuación
     * **Seleccionar transportadora: **selecciona la transportadora que realizará la entrega.
 7. Haz clic en `Guardar`.
 
-![FaturaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/cambiar-los-datos-de-seguimiento_1.png)
+![FaturaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/cambiar-los-datos-de-seguimiento_1.png)

@@ -3,8 +3,8 @@ title: ' Importing Amazon FBA Classic orders'
 id: 2MJZgBen3hpK4xkXqcv8TO
 status: PUBLISHED
 createdAt: 2022-10-07T21:33:29.864Z
-updatedAt: 2024-08-30T14:31:51.101Z
-publishedAt: 2024-08-30T14:31:51.101Z
+updatedAt: 2024-11-04T21:07:30.839Z
+publishedAt: 2024-11-04T21:07:30.839Z
 firstPublishedAt: 2022-10-07T21:52:55.581Z
 contentType: tutorial
 productTeam: Channels
@@ -61,7 +61,7 @@ Follow the steps below to create a specific shipping strategy:
   1.	Create a [shipping policy](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associated with the trade policy used in the Amazon integration.  
   2.	Create a [dock](https://help.vtex.com/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) associated with the trade policy used in the Amazon integration.  
   3.	Create a [warehouse](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) associated with the loading dock you created in the previous step.  
-  4.	Go to the [Inventory Management](https://help.vtex.com/pt/tutorial/managing-stock-items--tutorials_139) page, find the warehouse created in the previous step, and activate the Infinite Inventory field.  
+  4.	Go to the [Inventory Management](https://help.vtex.com/pt/tutorial/managing-stock-items--tutorials_139) page, find the warehouse created in the previous step, and activate the Unlimited inventory field.
 
 ### 3. Configuring FBA Classic in the Amazon integration  
 

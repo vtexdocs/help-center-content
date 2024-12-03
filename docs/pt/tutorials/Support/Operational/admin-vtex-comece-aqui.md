@@ -3,8 +3,8 @@ title: 'Admin VTEX: Comece Aqui'
 id: 531cHtUCUi3puRXNDmKziw
 status: PUBLISHED
 createdAt: 2019-02-04T15:41:26.380Z
-updatedAt: 2024-07-03T11:18:48.914Z
-publishedAt: 2024-07-03T11:18:48.914Z
+updatedAt: 2024-10-22T17:22:01.374Z
+publishedAt: 2024-10-22T17:22:01.374Z
 firstPublishedAt: 2019-02-04T15:51:04.667Z
 contentType: tutorial
 productTeam: Others
@@ -63,6 +63,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 ### Fornecendo feedbacks no Admin VTEX
 
 O botão Enviar feedback permite que um usuário possa enviar comentários a respeito da sua experiência na plataforma por meio do Admin VTEX. Para acessá-lo, siga os passos abaixo:
+
 1. Clique no botão Central de Informações, localizado no canto superior direito do Admin VTEX.
 2. Clique na opção **Enviar feedback**.
 

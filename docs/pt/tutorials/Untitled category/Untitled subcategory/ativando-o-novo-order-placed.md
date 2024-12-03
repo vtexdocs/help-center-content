@@ -17,10 +17,10 @@ subcategoryId: unknown-subcategory
 
 O novo Order Placed traz um layout melhorado e totalmente mobile-friendly.
 
-![Nova página de Order Placed em versão desktop e mobile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/ativando-o-novo-order-placed_1.png)
+![Nova página de Order Placed em versão desktop e mobile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/ativando-o-novo-order-placed_1.png)
 
 Para ativá-lo, vá até a aba **Meus Pedidos** do módulo Portal e acione o opt-in _Order Placed Upgrade_. A nova versão será ativada por default no dia 20/12/2017 e a antiga será descontinuada.
 
-![Opt in no Portal V2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/ativando-o-novo-order-placed_2.png)
+![Opt in no Portal V2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/ativando-o-novo-order-placed_2.png)
 
 Para saber como atualizar sua customização, veja o tutorial [Customizando as páginas do Checkout Confirmation](http://help.vtex.com/tutorial/customizando-o-checkout-confirmation).

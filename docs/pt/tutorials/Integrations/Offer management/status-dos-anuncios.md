@@ -19,11 +19,11 @@ subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 
 O **Status dos anúncios** permite acompanhar anúncios enviados somente a marketplaces VTEX. Para encontrar o módulo no Admin VTEX, acesse **Marketplace > Conexões > Status dos anúncios,** ou digite **Status dos anúncios** na barra de busca. Feito isso, a seguinte página aparecerá:  
 
-![Tela Offer Status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_1.gif)
+![Tela Offer Status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_1.gif)
 
 A página **Status dos anúncios** é composta por três abas, a [**aba Publicados**](#aba-publicados), a [**aba Problemas**](#aba-problemas) e a [**aba Aguardando conclusão**](#aba-aguardando-conclusao), todas apresentam uma listagem de seus anúncios conforme o status que ele se encontra. Em cada anúncio é possível acessar e conferir seus detalhes, que mostram o status, o estoque, preço, data de atualização e motivos de rejeição no marketplace.  
 
-![Fluxo offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_2.png)  
+![Fluxo offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_2.png)  
 
 ## Aba Publicados
 
@@ -50,7 +50,7 @@ Para filtrar os anúncios por **Marketplace**, clique na seta para baixo ao lado
 
 Para filtrar os anúncios por **Estoque**, clique na seta para baixo ao lado do filtro, depois digite o número de estoque mínimo, estoque máximo, ou ambos, e clique em **APLICAR**.  
 
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_3.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_3.png)
 
 Para filtrar os anúncios por **Atualização**, clique na seta para baixo ao lado do filtro, selecione uma das opções e clique em **APLICAR.**  
 
@@ -59,7 +59,7 @@ Veja abaixo as opções disponíveis para esse filtro:
 - **Atualizado**: são anúncios que tiveram seu preço e/ou estoque atualizados pelo seller e obtiveram sucesso no processamento.  
 - **Erro ao atualizar:** são anúncios processados após atualização e, tendo sido encontrada alguma inconsistência, ele apresenta erro para atualizar.  
 
-![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_4.png)
+![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_4.png)
 
 Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por padrão, os filtros não estarão selecionados, de forma que a página inicial apresenta a quantidade total de anúncios existentes.  
 
@@ -102,7 +102,7 @@ Para atualizar qualquer informação de um anúncio já publicado, o seller deve
 
 Você será redirecionado à página correspondente para realizar as alterações necessárias.  
 
-![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_5.jpeg)
+![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_5.jpeg)
 
 ### Exportar lista de anúncios publicados
 
@@ -137,7 +137,7 @@ Para filtrar os anúncios por **Envio**, clique na seta para baixo ao lado do fi
 
 Para filtrar os anúncios por **Estoque**, clique na seta para baixo ao lado do filtro, depois digite o número de estoque mínimo ou estoque máximo, ou, ambos e clique em **APLICAR**.  
 
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/status-dos-anuncios_6.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/status-dos-anuncios_6.png)
 
 Você pode utilizar um único filtro ou combiná-los em uma mesma busca. Por padrão, os filtros não estarão selecionados, de forma que a página inicial apresenta a quantidade total de anúncios existentes.  
 

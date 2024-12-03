@@ -34,7 +34,7 @@ Neste caso, 11,87*4 = 47,48.
 
 Um efeito colateral causado por esta questão é que o Preço de venda é considerado diferente do Preço de lista do produto, e então o Preço de lista também é exibido.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store Framework/arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1_1.png)
 
 Este comportamento ocorre apenas no contexto da busca, mas não no PDP. Neste caso, o preço de venda é correto.
 

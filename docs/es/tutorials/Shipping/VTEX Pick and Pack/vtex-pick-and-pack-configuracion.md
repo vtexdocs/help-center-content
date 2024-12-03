@@ -32,7 +32,7 @@ __Configuración__ es una página del Admin VTEX donde puedes realizar los ajust
 
 En esta sección se encuentran los ajustes relativos a la etapa de alistamiento, donde puedes definir las acciones que el alistador puede realizar durante el proceso de alistamiento, incluyendo la notificación de la falta de disponibilidad de un ítem del pedido y la sugerencia de otro para su sustitución.
 
-![pick-and-pack-separacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_1.png)
+![pick-and-pack-separacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_1.png)
 
 ### Estrategia de alistamiento
 
@@ -89,7 +89,7 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 En esta sección puedes configurar el orden de las categorías en las que se alistarán los pedidos. De este modo, el alistador puede organizar el flujo de alistamiento de productos para completar los pedidos con eficacia.
 
-![pick-pack-categorias-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_2.png)
+![pick-pack-categorias-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_2.png)
 
 * **Configuración rápida:** los ajustes se aplican en todas las instalaciones. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
 * **Instalación**: determina a qué instalación se aplicarán los ajustes de las categorías.
@@ -102,7 +102,7 @@ Puedes importar un archivo CSV o exportar la lista que ya está configurada.
 
 En esta sección se encuentran los ajustes relativos a la etapa de empaque de los ítems del pedido. 
 
-![pick-pack-empacotamento-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_3.png)
+![pick-pack-empacotamento-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_3.png)
 
 * **Permitir informe de paquetes:** permite la visualización de informe de paquetes. El informe se mostrará en la pantalla **Pedidos**. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
 * **Permitir empaque automático:** permite el empaque automático. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
@@ -170,7 +170,7 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 En esta sección puedes configurar los ajustes relacionados con los pedidos procesados por VTEX Pick and Pack.
 
-![pick-pack-config-pedidos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_4.png)
+![pick-pack-config-pedidos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_4.png)
 
 * **Descargar pedidos del OMS:** permite exportar pedidos desde el OMS.
 * **Medios de pago:** medios de pago utilizados en los pedidos a exportar.
@@ -184,7 +184,7 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 En esta sección puedes configurar los ajustes de automatización de procesos de VTEX Pick and Pack.
 
-![pick-pack-automacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_5.png)
+![pick-pack-automacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_5.png)
 
 Sigue los pasos a continuación para crear una nueva automatización:
 
@@ -196,7 +196,7 @@ Sigue los pasos a continuación para crear una nueva automatización:
 
 En esta sección puedes realizar la gestión de usuarios, admins y alistadores de tu operación en VTEX Pick and Pack. Los usuarios con el permiso **Admin** tendrán acceso al Admin VTEX y podrán realizar cambios en la herramienta. Los usuarios con el permiso **Alistador** solo tendrán acceso a la aplicación VTEX Pick and Pack. 
 
-![pick-pack-usuarios-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_6.png)
+![pick-pack-usuarios-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_6.png)
 
 Para crear un nuevo usuario sigue los pasos a continuación:
 
@@ -206,7 +206,7 @@ Para crear un nuevo usuario sigue los pasos a continuación:
   - Permiso de __Admin__
     1. De la lista, selecciona al usuario que deseas registrar como Admin.
     2. Haz clic en Crear.
-    ![pick-pack-usuarios-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_7.png)
+    ![pick-pack-usuarios-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_7.png)
   - Permiso de __Alistador__
     1. Rellena los siguientes campos del formulario:
        * Nombre de usuario
@@ -217,13 +217,13 @@ Para crear un nuevo usuario sigue los pasos a continuación:
        * Permitir el envío de paquetes
        * Categorías
     2. Haz clic en `Crear`.
-    ![pick-pack-usuarios-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_8.png)
+    ![pick-pack-usuarios-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_8.png)
 
 ## Catálogo
 
 En esta sección puedes consultar la información de ítems de pedidos que se encuentran en la etapa de entrega al cliente.
 
-![pick-pack-catalogo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_9.png)
+![pick-pack-catalogo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_9.png)
 
 La página presenta la siguiente información en forma de tabla:
 
@@ -254,7 +254,7 @@ También puedes indexar el catálogo para actualizar la lista de productos. Para
 
 En esta sección podrás agregar y consultar las instalaciones de tu tienda.
 
-![pick-pack-instalacoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-configuracion_10.png)
+![pick-pack-instalacoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-configuracion_10.png)
 
 Para crear una nueva instalación sigue los pasos a continuación:
 

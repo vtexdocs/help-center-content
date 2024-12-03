@@ -28,7 +28,7 @@ Uma alternativa para os passos acima é acessar o painel de configuração de ma
 
 Substitua STORENAME pelo accountName da sua loja.
 
-![Multiplus1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/integrando-com-multiplus_1.png)
+![Multiplus1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/integrando-com-multiplus_1.png)
 
 Após clicar em **Integrar**, será aberto um formulário com alguns campos a serem preenchidos. Atente-se aos campos obrigatórios: são aqueles em que aparece um “\*” ao lado da caixa de texto.
 
@@ -41,7 +41,7 @@ Após clicar em **Integrar**, será aberto um formulário com alguns campos a se
 - **Código Parceiro que será utilizado na Multiplus**: Este código deve conter de 1 a 30 dígitos, de sua escolha. Para habilitar suas vendas você deverá informar esse código à Multiplus após realizar a configuração no Bridge. Caso você altere esse código, o novo também deverá ser informado à Multiplus, que modo que seja feita a atualização. Caso isso não ocorra, a loja ficará impedida de realizar vendas;
 - **E-mails para a criação do Afiliado**: Depois que a configuração for salva, a integração criará o Afiliado na VTEX e inserirá essa informação no cadastro.
 
-![Multiplus2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/integrando-com-multiplus_2.png)
+![Multiplus2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/integrando-com-multiplus_2.png)
 
 
 Após as informações estarem preenchidas, clique em **Salvar** e espere a mensagem de sucesso aparecer.

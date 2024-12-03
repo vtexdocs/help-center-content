@@ -19,7 +19,7 @@ A divisão de carga é a configuração que permite que uma compra seja dividida
 
 Essa configuração é muito importante pois, caso a divisão de carga não seja permitida, pode impossibilitar o fechamento de uma compra se a soma do peso de todos os produtos do carrinho for maior que o limite máximo de peso cadastrado nas políticas de envio.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory and Shipping Settings/como-funciona-a-divisao-de-carga_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory%20and%20Shipping%20Settings/como-funciona-a-divisao-de-carga_1.png)
 
 ### Como configurar
 

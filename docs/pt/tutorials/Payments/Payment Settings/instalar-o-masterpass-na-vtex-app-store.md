@@ -23,7 +23,7 @@ Este artigo tem o objetivo de mostrar o passo-a-passo para instalação da exten
 
 Em primeiro lugar, na tela **Explorar**, clique na extensão **Masterpass**.
 
-![Extension Store 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_1.png)
+![Extension Store 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_1.png)
 
 Você terá então acesso à página de detalhes da extensão, onde as seguintes informações são mostradas:
 
@@ -38,17 +38,17 @@ Para instalar o Masterpass, basta clicar no botão verde à direita do ícone da
 
 O botão de instalação leva à tela de permissões, onde é possível visualizar todos os dados e locais a que a extensão deseja ter acesso.
 
-![Masterpass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_2.gif)
+![Masterpass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_2.gif)
 
 Uma vez que você aceite as permissões, a extensão será instalada.
 
-![Masterpass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_3.png)
+![Masterpass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_3.png)
 
 ## Configuração
 
 Para funcionar corretamente, você precisa cumprir uma etapa de configuração. Basta preencher alguns campos, como os mostrados na imagem abaixo, e clicar em **Criar conta**.
 
-![Masterpass3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_4.png)
+![Masterpass3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_4.png)
 
 ## Preview
 
@@ -58,7 +58,7 @@ Além disso, a Extension Store disponibiliza um ambiete de preview do Masterpass
 
 Esse ambiente funciona como um rascunho. Nenhuma alteração feita nele afeta sua loja em produção.
 
-![Masterpass4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_5.gif)
+![Masterpass4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_5.gif)
 
 ## Publicação
 
@@ -66,4 +66,4 @@ Para mover o Masterpass para o ambiente em produção (onde seus clientes podem 
 
 Para isso, basta clicar no botão **Publicar** da top bar.
 
-![Extension Store 3 - Publishing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/instalar-o-masterpass-na-vtex-app-store_6.png)
+![Extension Store 3 - Publishing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/instalar-o-masterpass-na-vtex-app-store_6.png)

@@ -36,23 +36,23 @@ Por fim, o lojista pode conferir os próximos recebíveis e suas últimas movime
 
 Esta seção é dividida em duas partes: a de recebíveis consolidados - para recebimentos já liquidados - e a de lançamentos futuros, para compras que ainda serão liquidadas. 
 
-![extrato_financeiro_vtex_payment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_1.png)
+![extrato_financeiro_vtex_payment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_1.png)
 
 Vale ressaltar que a aba Lançamentos Futuros oferece a conciliação entre os recebíveis e seus respectivos pedidos. Caso o lojista clique em um dos recebimentos, uma tela contendo todas as transações referentes àquela movimentação financeira será exibida. 
 
-![tela_extrato-financeiro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_2.png)
+![tela_extrato-financeiro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_2.png)
 
 Além disso, para consultar os detalhes do pedido que compõe a transação, basta clicar na linha correspondente. Assim, a tela apresentará dados como: produto vendido, data e número de parcelas, por exemplo.
 
-![tela_extrato_financeiro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_3.png)
+![tela_extrato_financeiro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_3.png)
 
 O lojista pode ainda consultar o pedido diretamente no módulo Gerenciamento de Pedidos, caso clique em "Ver detalhes do pedido".
 
-![items_pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_4.png)
+![items_pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_4.png)
 
 Por fim, ainda nessa tela, o lojista pode baixar dois relatórios: extrato financeiro e recebimentos de vendas. Para isso, basta clicar no botão "Exportar", selecionar o documento e o mês desejado.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_5.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_5.png)
 
 Os dados são:
 
@@ -65,13 +65,13 @@ Por mais que em “Resumo de Contas” a plataforma apresente uma pequena sínte
 
 Ao clicar nessa seção, o lojista pode conferir suas disputas em aberto. Contudo, ao clicar em uma transação específica, a plataforma o direciona para uma página que mostra o extrato do pedido.
 
-![tela_disputas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_6.png)
+![tela_disputas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_6.png)
 
 São quatro quadros que detalham o recebível em disputa. Em “Transação”, o lojista confere os dados da compra. Assim como acessa a descrição do pedido em si no quadro logo abaixo, “Itens do Pedido”.
 
 Do lado esquerdo, temos os quadros “Recebíveis”, que apresentam os detalhes das parcelas daquela transação, e “Valor Total”. Este último detalha o histórico, assim como a soma de todos os recebíveis que compõem o pedido.
 
-![disputa_extrato](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Payment/VTEX Payment overview/resumo-da-conta_7.png)
+![disputa_extrato](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Payment/VTEX%20Payment%20overview/resumo-da-conta_7.png)
 
 ## Antecipação avulsa de recebíveis
 

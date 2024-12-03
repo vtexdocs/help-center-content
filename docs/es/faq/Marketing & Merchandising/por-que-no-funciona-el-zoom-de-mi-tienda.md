@@ -25,7 +25,7 @@ Este tamaño de imagen puede configurarse por el camino abajo:
 2. Haga clic en __Configuraciones__.
 3. Acceda a la pestaña __Tipos de Archivos__.
 
-![Tipos de Arquivo ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/por-que-no-funciona-el-zoom-de-mi-tienda_1.png)
+![Tipos de Arquivo ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/por-que-no-funciona-el-zoom-de-mi-tienda_1.png)
 
 El tamaño 1000x1000 significa que el zoom resultante mostrará la imagen en ese tamaño. Por tanto, éste es el tamaño mínimo para que funcione el zoom.
 

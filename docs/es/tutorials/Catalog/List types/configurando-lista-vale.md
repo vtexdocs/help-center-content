@@ -26,13 +26,13 @@ Es necesaria una configuración de SKU con las siguientes características para 
 - El SKU debe tener el precio de R$0,01.
 - El SKU debe ser configurado para generar crédito en vale.
 
-![sku-opção-credito-vale es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List types/configurando-lista-vale_1.png)
+![sku-opção-credito-vale es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List%20types/configurando-lista-vale_1.png)
 
 ## Configuraciones en el Tipos de Lista
 
 La creación de este tipo de lista pide, en las configuraciones, que la entrega se marque como "Valor de los productos comprados será convertido en un vale de compras". Vea la imagen de ejemplo:
 
-![entrega-tipos-lista ew](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List types/configurando-lista-vale_2.png)
+![entrega-tipos-lista ew](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List%20types/configurando-lista-vale_2.png)
 
 Grabe su lista después de realizar las demás configuraciones deseadas.
 

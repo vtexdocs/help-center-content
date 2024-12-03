@@ -34,7 +34,7 @@ After reloading inStore, whenever a salesperson prints an order, this text will 
 
 Before adding extra text, the printout of the order summary has the following format:
 
-![28. Adding extra text to the order print - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/Adding extra text to the order print/adding-extra-text-to-the-order-print_1.png)
+![28. Adding extra text to the order print - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/Adding%20extra%20text%20to%20the%20order%20print/adding-extra-text-to-the-order-print_1.png)
 
 In our example, we changed the `checkout-instore-custom.js` file by inserting the following extra text:
 
@@ -46,4 +46,4 @@ window.INSTORE_CONFIG = {
 
 Now, whenever an order summary is printed, we will get the following result:
 
-![28. Adding extra text to the order print - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/Adding extra text to the order print/adding-extra-text-to-the-order-print_2.png)
+![28. Adding extra text to the order print - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/Adding%20extra%20text%20to%20the%20order%20print/adding-extra-text-to-the-order-print_2.png)

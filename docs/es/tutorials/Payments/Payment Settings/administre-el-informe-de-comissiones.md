@@ -55,7 +55,7 @@ La creación del informe puede demorarse si el volumen de datos analizados es ex
 
 >ℹ️ Salir de la página no afectará la operación.
 
-![Informe de Comisiones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/administre-el-informe-de-comissiones_1.png)
+![Informe de Comisiones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/administre-el-informe-de-comissiones_1.png)
 
 Posteriormente, usted también puede descargar el informe recién generado mediante un link de descarga en el listado de informes.
 

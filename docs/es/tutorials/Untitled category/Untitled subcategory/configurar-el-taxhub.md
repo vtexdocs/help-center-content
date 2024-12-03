@@ -25,4 +25,4 @@ Para configurar el sistema de impuestos TaxHub, siga los pasos abajo:
 6.	En **Token de Autorización** llene con el token del servicio del paso anterior. Nota: En algunos casos puede no ser necesario;
 7.	Haga clic en **Salvar**.
 
-![TaxHub Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/configurar-el-taxhub_1.gif)
+![TaxHub Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/configurar-el-taxhub_1.gif)

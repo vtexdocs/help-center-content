@@ -18,7 +18,7 @@ Na primeira vez que acessar sua conta pela CLI do VTEX IO, você verá que já e
 
 Elas foram previamente instaladas e são responsáveis por executarem algumas funções básicas.
 
-![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/VTEX IO/o-que-sao-apps-pre-instaladas_1.png)
+![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/VTEX%20IO/o-que-sao-apps-pre-instaladas_1.png)
 
 Por exemplo:
 - __admins-app__: renderiza a página do novo painel administrativo da VTEX.

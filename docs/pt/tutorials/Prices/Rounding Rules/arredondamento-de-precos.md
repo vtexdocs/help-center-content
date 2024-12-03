@@ -60,16 +60,16 @@ Abaixo é possível ver exemplos dos fluxos de inclusão, edição e exclusão d
 
 *Fluxo de criação de uma regra*
 
-![config-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding Rules/arredondamento-de-precos_1.gif)
+![config-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding%20Rules/arredondamento-de-precos_1.gif)
 
 *Fluxo de alteração de uma regra*
 
-![editar-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding Rules/arredondamento-de-precos_2.gif)
+![editar-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding%20Rules/arredondamento-de-precos_2.gif)
 
 *Fluxo de exclusão de uma regra*
 
-![deletar-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding Rules/arredondamento-de-precos_3.gif)
+![deletar-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding%20Rules/arredondamento-de-precos_3.gif)
 
 *Simulação de preço para uma regra*
 
-![teste-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding Rules/arredondamento-de-precos_4.gif)
+![teste-arrendodamento-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Rounding%20Rules/arredondamento-de-precos_4.gif)

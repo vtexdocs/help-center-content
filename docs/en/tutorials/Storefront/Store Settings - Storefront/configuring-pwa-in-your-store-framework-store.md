@@ -26,11 +26,11 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 1. Click the **PWA** tab.
 2. Set the **Theme color**, **Background color** and add the **Android logo icon (512x512, PNG)** and **iOS logo icon (512x512, PNG)**. The colors must be specified in hexadecimal code (e.g., #F71963), and the icons must have a size of 512x512 px and a `.png` extension.
 
-  ![pwa-settings-1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store Settings - Storefront/configuring-pwa-in-your-store-framework-store_1.png)
+  ![pwa-settings-1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/configuring-pwa-in-your-store-framework-store_1.png)
 
 3. Scroll down and go to the **Other PWA settings** field. Click the arrow to show the other settings.
 
-  ![pwa-settings-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store Settings - Storefront/configuring-pwa-in-your-store-framework-store_2.png)
+  ![pwa-settings-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/configuring-pwa-in-your-store-framework-store_2.png)
 
 4. In **Other PWA settings**, complete the fields as indicated below:
 
@@ -60,7 +60,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
     - **Add to home screen**: When activated, it allows the user to install the PWA.
     - **"Add to home screen" prompt**: Defines the moment when the PWA installation will be recommended to the user. One of the following values can be assigned: On the first visit, On the first item added to the cart, or On the first order. This option only applies when **Add to Home Screen** is activated.
 
-   ![pwa-settings-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store Settings - Storefront/configuring-pwa-in-your-store-framework-store_3.png)
+   ![pwa-settings-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/configuring-pwa-in-your-store-framework-store_3.png)
 
 5. Save changes by clicking `SAVE`.
 

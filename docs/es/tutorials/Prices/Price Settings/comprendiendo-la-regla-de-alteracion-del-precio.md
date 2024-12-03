@@ -26,6 +26,6 @@ Este bloqueo se realiza también para todas las demás formas de alteración del
 
 El porcentaje de limite de precio puede ser retirado o reformulado en la pestaña __Configuración__ del módulo __Precios__. 
 
-![trava-variação-preço es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price Settings/comprendiendo-la-regla-de-alteracion-del-precio_1.png)
+![trava-variação-preço es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price%20Settings/comprendiendo-la-regla-de-alteracion-del-precio_1.png)
 
 Algunos marketplaces también utilizan este límite de variación de precios. Si desea cambiar los precios más allá de los límites configurados, basta ponerse en contacto con el marketplace solicitando el cambio.

@@ -19,7 +19,7 @@ Following the evolution of VTEX platform, the viewpart of __My Orders__ is now a
 
 In order to perform the installation, you need to access the [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My Orders/installing-my-orders-through-the-extension-store_1.png)
+![app store1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Orders/installing-my-orders-through-the-extension-store_1.png)
 
 __After installing the app, you already have the following updates:__
 
@@ -29,7 +29,7 @@ __After installing the app, you already have the following updates:__
 - Trace information for multiple items.
 - Minor Bug Fix.
 
-![app store2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My Orders/installing-my-orders-through-the-extension-store_2.png)
+![app store2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Orders/installing-my-orders-through-the-extension-store_2.png)
 
 In addition, with the new app you can perform version tests and update it whenever a new version is available, receiving continuous improvements and updates of new features.
 
@@ -42,4 +42,4 @@ To test the customizations on your page, you may work on a different workspace w
 5. Ready! Now you will see how your page will behave before you upload it.
 6. To move My Orders to the production environment (where your customers can actually use it), you must publish the change. To do that, just click on the __Publish__ button.
 
-![app store3 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My Orders/installing-my-orders-through-the-extension-store_3.png)
+![app store3 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Orders/installing-my-orders-through-the-extension-store_3.png)

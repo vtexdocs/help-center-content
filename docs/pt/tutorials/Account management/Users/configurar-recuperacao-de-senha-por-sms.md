@@ -26,13 +26,13 @@ Dito isso, confira o passo a passo de como configurar essa modalidade:
 1. Acesse __Central de Mensagens__.
 2. Clique em __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Users/configurar-recuperacao-de-senha-por-sms_1.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/configurar-recuperacao-de-senha-por-sms_1.png)
 
 3. Clique no template __Password Recovery__.
 4. Clique na aba __SMS__.
 5. Selecione a opção __“Ativar envio de SMS?”__
 
-  ![password-recovery-sms-tab-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Users/configurar-recuperacao-de-senha-por-sms_2.gif)
+  ![password-recovery-sms-tab-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/configurar-recuperacao-de-senha-por-sms_2.gif)
 
   *No momento em que o usuário clica em “Ativar envio de SMS”, a plataforma apresenta as demais configurações de envio.*
 
@@ -40,7 +40,7 @@ Dito isso, confira o passo a passo de como configurar essa modalidade:
 7. Preencha o campo __Destination__ com a variável `{{_accountInfo.Telephone}}`.
 8. Preencha o campo __Message Text__ com o conteúdo da mensagem. As informações `Nome:{{name}}`, `Login:{{login}}` e `Senha: {{senha}}` são essenciais.
 
-  ![password-recovery-sms-fields-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Users/configurar-recuperacao-de-senha-por-sms_3.png)
+  ![password-recovery-sms-fields-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/configurar-recuperacao-de-senha-por-sms_3.png)
 
 9. Revise o conteúdo do SMS em __Preview__.
 10. Clique em __Salvar __.

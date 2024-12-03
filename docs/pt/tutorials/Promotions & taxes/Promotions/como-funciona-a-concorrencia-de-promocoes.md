@@ -3,8 +3,8 @@ title: 'Como funciona a concorrência de promoções'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2024-08-23T16:45:30.591Z
-publishedAt: 2024-08-23T16:45:30.591Z
+updatedAt: 2024-11-11T17:22:09.507Z
+publishedAt: 2024-11-11T17:22:09.507Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -82,7 +82,7 @@ Todavia, elas incidem no valor já descontado pela promoção que ganhou a conco
 
 Logo, a sequência de aplicação é:
 
-![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/como-funciona-a-concorrencia-de-promocoes_1.png)
+![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-a-concorrencia-de-promocoes_1.png)
 
 >⚠️ Pedidos de origem [Marketplace](https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.
 

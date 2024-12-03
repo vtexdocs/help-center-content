@@ -3,8 +3,8 @@ title: 'Lead time: Shipping time at SKU level'
 id: 16yv5Mkj6bTyWR1hCN2f4B
 status: PUBLISHED
 createdAt: 2023-09-22T00:32:26.416Z
-updatedAt: 2024-08-16T17:55:22.057Z
-publishedAt: 2024-08-16T17:55:22.057Z
+updatedAt: 2024-11-04T21:12:54.681Z
+publishedAt: 2024-11-04T21:12:54.681Z
 firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -67,7 +67,7 @@ The VTEX platform will behave differently depending on SKU availability, and the
 
 - <i class="far fa-check-circle"></i> **SKU is in stock:** You set the SKU lead time, the time considered in the order shipping calculation, and the total time will be displayed to the customer at checkout.
 - <i class="fas fa-times"></i> **SKU is out of stock:** You set the SKU lead time, but the SKU is not considered valid because there are no units available for sale.
-- <i class="far fa-check-circle"></i> **Infinite inventory:** You set the SKU lead time, the time considered in the order's shipping calculation, and the total time will be displayed to the customer at checkout. As long as inventory is enabled as infinite, the SKU will always be valid for sales.
+- <i class="far fa-check-circle"></i> **Unlimited inventory:** You set the SKU lead time, the time considered in the order's shipping calculation, and the total time will be displayed to the customer at checkout. As long as inventory is enabled as unlimited, the SKU will always be valid for sales.
 
 ## Configuring lead time
 

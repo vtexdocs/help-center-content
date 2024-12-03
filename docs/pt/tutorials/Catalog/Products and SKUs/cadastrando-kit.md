@@ -3,8 +3,8 @@ title: 'Cadastrar kit'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2024-05-06T14:40:12.311Z
-publishedAt: 2024-05-06T14:40:12.311Z
+updatedAt: 2024-10-30T15:51:21.302Z
+publishedAt: 2024-10-30T15:51:21.302Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Um kit pode permitir ou não que seus componentes sejam vendidos separadamente, 
 
 Para a configuração do kit é necessário que os produtos que irão fazer parte dele &#8211; seus componentes &#8211; já estejam criados. Confira o exemplo abaixo:
 
-![Componentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/cadastrando-kit_1.png)
+![Componentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrando-kit_1.png)
 
 Após a criação dos produtos componentes, podemos seguir para a configuração do kit.
 
@@ -37,7 +37,7 @@ Após a criação dos produtos componentes, podemos seguir para a configuração
 5. Caso queira um kit look, clique na opção __Kit com itens vendidos separadamente__.
 6. Clique em `Salvar`.
 
-![kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/cadastrando-kit_2.png)
+![kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrando-kit_2.png)
 
 ## Associar componentes
 
@@ -52,9 +52,9 @@ Depois de criar o produto que será o kit, você precisa associar os componentes
 7. Preencha o preço unitário do SKU dentro do KIT.
 6. Clique em `Salvar`.
 
-![Adicionar componente ao kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/cadastrando-kit_3.gif)
+![Adicionar componente ao kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrando-kit_3.gif)
 
-![Kit no carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/cadastrando-kit_4.png)
+![Kit no carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrando-kit_4.png)
 
 ## Peso do kit
 
@@ -82,7 +82,7 @@ Mas note que alterar qualquer componente irá gerar um novo preço final, atuali
 
 Alterar somente o preço final não atualiza o preço dos componentes.
 
-![Lista de preços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/cadastrando-kit_5.png)
+![Lista de preços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrando-kit_5.png)
 
 ### Saiba mais
 

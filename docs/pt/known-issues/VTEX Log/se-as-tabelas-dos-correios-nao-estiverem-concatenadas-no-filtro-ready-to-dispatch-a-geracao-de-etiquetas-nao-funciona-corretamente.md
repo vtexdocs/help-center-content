@@ -38,5 +38,5 @@ Acesso Admin > Pedidos > Inventário e Expedição > Pronto para despacho > filt
 Existe uma solução para este bug? Se sim, descreva aqui.
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/VTEX Log/se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/VTEX%20Log/se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente_1.png)
 

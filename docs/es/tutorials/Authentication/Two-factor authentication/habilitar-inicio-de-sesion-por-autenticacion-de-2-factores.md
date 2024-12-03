@@ -3,8 +3,8 @@ title: 'Habilitar inicio de sesión por autenticación de dos factores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
-updatedAt: 2024-03-12T17:52:28.500Z
-publishedAt: 2024-03-12T17:52:28.500Z
+updatedAt: 2024-11-14T18:38:58.853Z
+publishedAt: 2024-11-14T18:38:58.853Z
 firstPublishedAt: 2017-11-09T13:09:54.237Z
 contentType: tutorial
 productTeam: Identity
@@ -15,85 +15,76 @@ legacySlug: habilitar-inicio-de-sesion-por-autenticacion-de-2-factores
 subcategoryId: 4sY1T2qdFehvVmC0tL5xW3
 ---
 
-La autenticación de dos fatores (2FA) es un método de verificación que aumenta en gran medida la seguridad del inicio de sesión de su tienda. 
+La autenticación de dos factores (2FA) es un método de autenticación que aumenta significativamente la seguridad del inicio de sesión en tu tienda.
 
-Esto porque, en el inicio de sesión, el sistema además de exigir el email y la contraseña exige una clave de acceso (en el caso de VTEX, esta puede ser un código enviado por SMS o generado por aplicación).
+Con 2FA, además de ingresar tu email y contraseña, el sistema solicita una clave adicional, que en VTEX puede ser un código enviado por SMS o generado por una aplicación.
 
-Como esa clave se genera durante el inicio de sesión y tiene una validez corta, se vuelve casi imposible que alguien acceda a su tienda utilizando sus datos sin autorización. Sin 2FA, si alguien tiene su email y contraseña puede tener un acceso amplio a la cuenta de su tienda.
+Esta clave se genera cuando inicias sesión y tiene un corto período de validez, lo que dificulta casi por completo que alguien acceda a tu tienda utilizando tus datos sin autorización. Sin la autenticación de dos factores, basta con que alguien sepa tu dirección de email y contraseña para tener acceso a la cuenta de tu tienda.
 
->❗ Desde el **16 de noviembre de 2017**, la autenticación de dos factores (2FA) se volvió **obligatoria para todos los emails** en el Admin de VTEX.
+>❗ La autenticación de dos factores es **obligatoria** en el Admin VTEX.
 >
 > 
 >
-> Sin 2FA, usted **no podrá iniciar sesión** utilizando email y contraseña.
+> Sin esta verificación, no es posible iniciar sesión utilizando email y contraseña.
 >
 > 
 >
-> Ese requisito obligatorio no aplica para los otros métodos de inicio de sesión (como Google, Facebook y token).
+>  La 2FA no es obligatoria para otros métodos de inicio de sesión (Google, Facebook o código de acceso).
 
-## Cómo habilitar 2FA
+>ℹ️ En algunas empresas, los operadores de televentas no pueden utilizar teléfonos celulares. Por lo tanto, los usuarios que tienen únicamente el [rol de televentas (call center operator)](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) no están obligados a activar la autenticación de dos factores.
 
-Si usted aún no configuró la autenticación de dos factores, cada vez que acceda al Admin utilizando email y contraseña aparecerá una pantalla en la que se ofrece la configuración de 2FA. 
+## Activar 2FA
 
-Existen dos opciones de autenticación, a través de: 
+Si aún no has configurado la autenticación de dos factores, notarás que al acceder al Admin con tu email y contraseña aparecerá una pantalla invitándote a configurar 2FA.
 
-- Clave generada por una __aplicación__ de autenticación.
-- Clave enviada por mensaje de celular (__SMS__).
+Hay dos opciones de autenticación:
 
-![2FA - Select - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_1.png)
+- A través de una clave generada por una __aplicación__ de autenticación.
+- A través de una clave enviada por mensaje de texto a tu teléfono (__SMS__).
 
->❗ Recomendamos enfáticamente que **elija la opción de autenticación por aplicación**, toda vez que en la autenticación por SMS usted depende de que no haya fallas en el servicio de su operador de telefonía. A través de la aplicación, la clave de acceso siempre estará disponible cuando sea necesaria.
+![2FA - Select - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_1.png)
 
->❗ Si configuró 2FA por SMS y el código está tardando en llegar, posiblemente este problema se deba a su operador de telefonía. Habilite 2FA por aplicación como se explica a continuación.
+>❗ Recomendamos encarecidamente que **elijas la opción de autenticación por aplicación**, ya que la autenticación por SMS depende del funcionamiento del operador de telefonía móvil. Con la aplicación, la clave de acceso estará siempre disponible cuando sea necesaria.
+>
+> Si has configurado 2FA por SMS y el código tarda en llegar, probablemente la causa del problema esté en tu operador de telefonía. Por eso sugerimos [activar 2FA vía aplicación](#habilitar-o-2fa-por-aplicativo).
 
-### Habilitar 2FA por aplicación
+### Activar 2FA vía aplicación
 
-Para utilizar una clave generada a través de la aplicación de autenticación:
-1. Descargue la aplicación **Google Autenticator** ([App Store](https://itunes.apple.com/br/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR)). 
+Para utilizar una clave generada por una aplicación de autenticación sigue los pasos que se indican a continuación:
 
-![2FA - App Download - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_2.png)
+1. Descarga la aplicación __Google Authenticator__ ([App Store](https://itunes.apple.com/mx/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=es_MX)).
+  ![2FA - App Download - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_2.png)
+2. Utiliza la aplicación para escanear el código QR con la cámara de tu teléfono. Tu cuenta VTEX se vinculará a la aplicación con un código de 6 dígitos.
+![mfa código](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_3.jpg)
+3. Inicia sesión ingresando el código que se muestra en la aplicación. Este código se actualiza periódicamente, consúltalo siempre que sea necesario.
+  ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_4.png)
 
-2. Utilice la aplicación para leer el código QR a través de la cámara del celular.
+>ℹ️ Si inicias sesión con email y contraseña en la misma computadora, la clave de acceso se solicitará **cada 3 días**. Cuando esto ocurra, consulta el código de la aplicación.
 
-![mfa código](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_3.jpg)
+### Activar 2FA por SMS
 
-3. Su cuenta VTEX se agregará a la aplicación, que generará un código de 6 dígitos. Ingrese ese código para finalizar su inicio de sesión.
+Para utilizar una clave enviada por SMS sigue los pasos a continuación:
 
-  *El código de la app se actualiza periódicamente. No es necesario que lo memorice, solo debe consultar la aplicación cuando lo necesite.*
+1. Ingresa tu número de teléfono para recibir el código por SMS, incluyendo tanto el código del país como el código de área.
 
-![2FA - App Insert Code - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_4.png)
+  ![2FA - SMS Insert Phone - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_5.png)
 
->ℹ️ Si usted realiza el inicio de sesión utilizando email y contraseña en el mismo computador, se solicitará la clave de acceso ** cada 3 días**. Cuando eso suceda, basta con consultar el código en la aplicación.
+2. Recibirás un mensaje de texto de VTEX en el teléfono indicado. Ingresa la clave de 6 dígitos para completar el inicio de sesión.
 
-### Habilitar 2FA por SMS
+   ![2FA - SMS Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_6.png)
 
-Para utilizar una clave enviada a través de mensaje de texto:
+>⚠️ No podemos garantizar que tu operador de telefonía pueda entregarte la clave de acceso cuando la necesites. Si el mensaje de texto de VTEX no llega, intenta reenviar el código o [activa 2FA mediante la aplicación](#habilitar-o-2fa-por-aplicativo).
 
-1. Ingrese su número de celular para que le enviemos el código por SMS, no olvide colocar el código de país y área. 
+## Modificar la configuración 2FA
 
-![2FA - SMS Insert Phone - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_5.png)
+Para cambiar la configuración de la verificación en dos pasos sigue las instrucciones a continuación:
 
-2. Usted recibirá un mensaje de texto de VTEX en el celular indicado. Ingrese la clave de 6 dígitos para finalizar su inicio de sesión.
+1. En la barra superior del Admin VTEX, haz clic en el avatar de tu perfil, marcado por la inicial de tu email, y luego en **Configuración del usuario**.
+2. Haz clic en **Verificación en dos pasos** para acceder a tu configuración.
+3. Para cambiar la configuración de 2FA sigue los pasos para activar 2FA por [SMS](#activar-2fa-por-sms) y [aplicación](#activar-2fa-por-aplicacion).
 
-![2FA - SMS Insert Code - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_6.png)
+## Recuperar el acceso al Admin VTEX
 
->⚠️ No podemos garantizar que su operador de telefonía entregue la clave de acceso siempre que sea necesario. En caso de que el mensaje de texto de VTEX no llegue, intente reenviar el código o [habilitar 2FA a través de la aplicación](#habilitar-o-2fa-por-aplicativo).
+Si pierdes el acceso al método de autenticación elegido y no puede iniciar sesión, prueba con otro método de inicio de sesión o sigue los pasos del artículo [Restablecer contraseña de acceso al Admin VTEX](https://help.vtex.com/es/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
 
-### 2FA para operadores de televenta
-
-Como en algunas empresas los operadores de televenta no pueden utilizar celulares, los usuarios VTEX que solo tienen el perfil de acceso de televenta no están obligados a habilitar la autenticación de 2 factores.
-
-## Modificar la configuración de 2FA
-
-Para modificar la configuración de la verificación en dos etapas:
-
-1. Acceda a su configuración de usuario, haciendo clic en el círculo con sus iniciales en el lado superior derecho del Admin. 
-
-![2FA - User Initials - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_7.png)
-
-2. Haga clic en **Verificación en 2 pasos** para ver su configuración.
-
-![2FA - My User - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_8.png)
-
-3. Usted también puede modificar su configuración siguiendo pasos similares a los anteriores para habilitar 2FA por [SMS](#habilitar-o-2fa-por-sms) y por [aplicación](#habilitar-o-2fa-por-aplicativo).
-
+Después de ingresar el código de acceso y redefinir tu contraseña, podrás cambiar el método de autenticación en dos pasos siguiendo las instrucciones de esta guía.

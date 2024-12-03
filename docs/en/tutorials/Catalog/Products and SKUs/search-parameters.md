@@ -19,7 +19,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 When making a search on VTEX, there are different possibilities of urls. The urls of Departments and Categories are made up as follows:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_1.png)
 
 In the categories tree above, the links are as follows:
 
@@ -33,7 +33,7 @@ www.store.com/artes-e-entretenimento/festas-e-comemoracoes/artigos-para-festas
 
 The url will always be made up with the term entered in the search field:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_2.png)
 
 www.loja.com.br/cama
 
@@ -47,23 +47,23 @@ Where:
 
 **C:\[DepartmentId/CategoryId/SubcategoryId\]**: Shows products of a specific category, according to the IDs informeds for the department, category and subcategory. This code appears next to category names on **Cadastro de Produtos -> Categoria**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_3.png)
 
 **NOTE: The category ID can also be found on your editing page, at the end of the url.**
 
 **B:\[IdMarca\]: **Shows products of a specific brand, according to the ID informed. This code is shown at the end of the URL, on the page used for changing the brand, in **Cadastro de Produtos &gt; Marca**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_4.png)
 
 >⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 **H:\[IdColeção\]**: Shows products of a specific collection, according to the ID informed. This code is informed in collection editing, in **Configurações &gt; Portal &gt; Portal folder &gt; Coleções subfolder:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_5.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_5.png)
 
 **spec\_fct\_\[IdCampoProduto/Sku\]:\[ValorBuscado\]: **Shows products whose product/sku field value, with the indicated ID, is equal to the value informed. This code can be found on the page used for changing a product/sku field, at the end of the url:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/search-parameters_6.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/search-parameters_6.png)
 
 See below an example of use of this field:
 

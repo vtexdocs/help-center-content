@@ -30,7 +30,7 @@ Basta incluir un atributo con el nombre `salesChannel`, conforme a lo ilustrado 
 
 Y entonces, los siguientes pedidos se crearán con el canal de ventas configurado. Si no hay stock para determinado ítem en este canal el ítem será excluido del pedido.  
 
-![posicao.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription Guides/como-configurar-un-saleschannel-y-definir-un-default-sla-para-los-pedidos-recurrentes_1.png)
+![posicao.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-configurar-un-saleschannel-y-definir-un-default-sla-para-los-pedidos-recurrentes_1.png)
 
 *Pantalla donde se encuentra el ID del salesChannel*
 
@@ -40,6 +40,6 @@ Basta incluir un atributo con el nombre `defaultSLA`, conforme a lo ilustrado en
 
 Y entonces, el SLA configurado tendrá precedencia sobre el SLA más barato para los siguientes pedidos que se crearán – y si éste tiene una ventana de entrega, será seleccionado el primer intervalo disponible.
 
-![transportadora.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription Guides/como-configurar-un-saleschannel-y-definir-un-default-sla-para-los-pedidos-recurrentes_2.png)
+![transportadora.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-configurar-un-saleschannel-y-definir-un-default-sla-para-los-pedidos-recurrentes_2.png)
 
 *Pantalla donde se encuentra el ID del SLA*

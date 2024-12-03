@@ -27,7 +27,7 @@ Cuando el SherlockBOT identifica un pedido cerrado de manera que puede indicar a
 
 Vea un ejemplo de esa alerta en el screenshot a continuación:
 
-![sherlock (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/entendiendo-el-aviso-de-compra-sospechosa-en-el-vtex-do_1.png)
+![sherlock (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/entendiendo-el-aviso-de-compra-sospechosa-en-el-vtex-do_1.png)
 
 El comerciante puede aún ser incluido en las barreras de seguridad del Gateway, o sea, VTEX puede aplicar a su tienda unas reglas de protección contra pruebas de tarjeta de crédito. 
 

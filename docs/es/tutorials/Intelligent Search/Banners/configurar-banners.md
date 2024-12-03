@@ -27,7 +27,7 @@ Después de configurar el banner, debes agregarlo a una página de tu tienda. Pa
 
 >ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners)para saber más.
 
-![banner-form-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Banners/configurar-banners_1.png)
+![banner-form-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Banners/configurar-banners_1.png)
 
 ## Campos de registro del banner
 
@@ -58,7 +58,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 
 Haz clic en <i class="fa-solid fa-link"></i> `Autocompletar desde URL` para agregar la URL de la página de búsqueda donde se aplicarán las reglas de activación.
 
-![banner-url-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent Search/Banners/configurar-banners_2.png)
+![banner-url-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Banners/configurar-banners_2.png)
 
 Haz clic en <i class="fas fa-plus"></i> `Agregar condición` para crear una regla. Pueden ser de los siguientes tipos:
 

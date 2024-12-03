@@ -35,11 +35,11 @@ El paso a paso de utilización es el siguiente:
 
 Sustitúa {AMBIENTEDELATIENDA} por el nombre de su tienda.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/probando-webservice-con-soapui_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/probando-webservice-con-soapui_1.png)
 
 Efectúe el login con los datos de webservice deseado. Después de efectuar el login, se visualizarán todos los métodos existentes en el [manual de Webservice](/es/tutorial/manual-de-clases-y-metodos-utilizados-en-webservice/).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/probando-webservice-con-soapui_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/probando-webservice-con-soapui_2.png)
 
 1. Localice el método deseado. Ej: el método ImageInsertUpdate, que es el método utilizado para agregar imágenes;
 2. Cargue los campos referentes al método (estos campos son de tipo ImageDTO. Las referencias están en el manual);

@@ -27,21 +27,21 @@ Para começar a configuração, você deve ter criado anteriormente os links da 
 
 Para configurar o Widget, acesse o menu **Atrair > Widget**:
 
-![Widget 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_1.png)
+![Widget 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_1.png)
 
 Clique em **Novo**.
 
-![Widget 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_2.png)
+![Widget 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_2.png)
 
 Selecione qual será o **link** do seu Widget:
 
-![Widget 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_3.png)
+![Widget 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_3.png)
 
 Lembrando: Seu widget ficará disponível para visualização durante a configuração para que você acompanhe as alterações simultaneamente, no canto inferior direito.
 
 Defina agora as **configurações:**
 
-![Widget 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_4.png)
+![Widget 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_4.png)
 
 Entre as opções, é possível definir o **tamanho** do Widget, se ficará **posicionado** no canto inferior esquerdo ou direito e também, se terá **ícone ou título, balão com mensagem** ou não.
 
@@ -49,24 +49,24 @@ Dica: explore todas as opções para escolher qual se adequa ao seu objetivo.
 
 Você também pode configurar **Gatilhos** para o seu Widget, ou seja, definir quando ele ficará visivel ou não para o seu cliente. 
 
-![Widget 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_5.png)
+![Widget 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_5.png)
 
 Defina em quais **páginas** do seu site o Widget aparecerá:
 
-![Widget 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_6.png)
+![Widget 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_6.png)
 
 É possível definir também se o clique no Widget direcionará seu cliente para uma nova aba, ou se o link destino será aberto na mesma aba.
 
-![Widget 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_7.png)
+![Widget 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_7.png)
 
 Após definir as configurações, gatilhos e ação do clique, acesse _**“Salvar”**_
 
 Para instalar o Widget no seu site, acesse o menu _**\\"Widget\\"**_ e depois em _**\\"Instalação\\"**_:
 
-![Widget 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_8.png)
+![Widget 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_8.png)
 
 Basta clicar em _**\\"copiar código\\"**_ e colar o código fornecido no _“Body”_ do painel administrativo do seu site:
 
-![Widget 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/widget_9.png)
+![Widget 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/widget_9.png)
 
 E pronto, qualquer ajuste dentro do painel do VTEX Assisted Sales (SuiteShare), seá atualizado automaticamente no seu site, sem que seja necessária qualquer alteração no script.

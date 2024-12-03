@@ -1,9 +1,9 @@
 ---
 title: 'Gerenciamento da conta'
-id: account-management
+id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -17,6 +17,8 @@ locale: pt
 - [Como criar um perfil de acesso financeiro?](https://help.vtex.com/pt/docs/tutorials/como-criar-um-perfil-de-acesso-financeiro)
 - [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos)
 - [Recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager)
+- [Controle de acesso](https://help.vtex.com/pt/docs/tutorials/controle-de-acesso)
+- [Criar perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso)
 
 ## Usuários
 

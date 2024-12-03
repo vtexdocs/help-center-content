@@ -23,7 +23,7 @@ In this article, you will find the step-by-step instructions to create subscript
 4. Select the `Regular` option.
 5. In the **What are the conditions for the promotion to be valid?** section, select the **Is a subscription order** field. This option specifies that the promotion will apply to subscription orders. Only products with a subscription in the cart will receive the discount. To understand configuration possibilities, see the following conditions:
 
-![frequenciaenglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-subscription-promotion_1.png)
+![frequenciaenglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-subscription-promotion_1.png)
 
 - **First orders**: orders that generate subscriptions but are not part of subscription cycles yet.
 - **Recurring orders**: orders from subscription cycles.

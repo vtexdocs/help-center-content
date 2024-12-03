@@ -3,8 +3,8 @@ title: 'Gestión del stock'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z
-updatedAt: 2024-04-18T15:25:20.097Z
-publishedAt: 2024-04-18T15:25:20.097Z
+updatedAt: 2024-11-04T21:16:13.814Z
+publishedAt: 2024-11-04T21:16:13.814Z
 firstPublishedAt: 2017-04-27T23:00:44.889Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -45,7 +45,7 @@ En el Admin VTEX, accede a **Catálogo > Stock > Gestión de stock**, o escribe 
     * **Enviados**: unidades del SKU enviadas. Los ítems de esta columna provienen de pedidos con status `Pago aprobado`, `Preparando entrega` o `Facturado`. <p>Al hacer clic en los ítems de la columna para ver los detalles de los SKU enviados, se te redirigirá a la gestión de pedidos.</p>
     * **Disponibles**: unidades del SKU disponibles para la venta.
     * **Actualizar recuento**: campo para actualizar manualmente la cantidad disponible de ítems del SKU. Para saber más sobre cómo actualizar el recuento, consulta el artículo [Cómo actualizar stock](https://help.vtex.com/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
-    * **Stock infinito**: permite registrar unidades infinitas del SKU para que siempre esté disponible en el _checkout_ de tu tienda. Esto elimina la necesidad de actualizar el recuento del SKU.
+    * **stock ilimitado**: permite registrar unidades ilimitadas del SKU para que siempre esté disponible en el _checkout_ de tu tienda. Esto elimina la necesidad de actualizar el recuento del SKU.
     * **Lead time (días):** configuración opcional del tiempo de envío al nivel de SKU. Al definir un tiempo para el SKU de un almacén, él se agregará al [cálculo de tiempo total de envío](https://help.vtex.com/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) del pedido. Por defecto, el [lead time](https://help.vtex.com/es/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B) está definido como zero días y su contaje se realiza en días laborables. Puedes [alterarlo para días naturales](https://help.vtex.com/es/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional) y, si quieres configurar periodos en horas, minutos y segundos, puedes utilizar el endpoint [Update inventory by SKU and warehouse endpoint](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 >❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.

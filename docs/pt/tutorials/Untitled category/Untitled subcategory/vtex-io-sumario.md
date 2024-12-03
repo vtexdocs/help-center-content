@@ -142,7 +142,7 @@ Para fazer login na conta da loja, entre no terminal e digite:
 
 O terminal vai solicitar o Account, ou seja, o nome da conta da loja.
 
-![vtex login](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/vtex-io-sumario_1.png)
+![vtex login](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/vtex-io-sumario_1.png)
 
 Após inserir o Account, digite a senha, se necessário, e pronto. Você fez login na sua conta!
 
@@ -172,7 +172,7 @@ Para voltar ao workspace master, o procedimento é o mesmo:
 
 `vtex use master`
 
-![use master](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/vtex-io-sumario_2.png)
+![use master](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/vtex-io-sumario_2.png)
 
 ---
 
@@ -213,7 +213,7 @@ Para confirmar que deu tudo certo, entre no browser e acesse a seguinte URL:
 
 Se a tela abaixo está sendo exibida, sua app está linkada.
 
-![Indexjs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/vtex-io-sumario_3.png)
+![Indexjs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/vtex-io-sumario_3.png)
 
 Entre no arquivo `Index.js` e altere alguma coisa. Salve e veja a mudança no browser!
 

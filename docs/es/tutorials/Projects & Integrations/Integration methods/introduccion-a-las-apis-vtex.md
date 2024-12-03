@@ -62,7 +62,7 @@ En ella deben incluirse:
  
 En el Postman, debe insertarse la URL en el campo destacado a continuación:
 
-![APIs1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/introduccion-a-las-apis-vtex_1.png)
+![APIs1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/introduccion-a-las-apis-vtex_1.png)
 
 ****
 
@@ -80,7 +80,7 @@ Sin embargo, usted no necesita deducir esto solo. Al poner a disposición una AP
  
 En el Postman, el método es seleccionado a la izquierda del campo de URL.
 
-![APIs2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/introduccion-a-las-apis-vtex_2.png)
+![APIs2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/introduccion-a-las-apis-vtex_2.png)
 
 
 ****
@@ -96,7 +96,7 @@ En el postman, la AppKey y el AppToken deben insertarse en la pestaña **Headers
 
 Para saber como generar su AppKey y su AppToken, ler el artículo [Crear appKey y appToken para autenticar las integraciones](/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones).
 
-![APIs3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/introduccion-a-las-apis-vtex_3.png)
+![APIs3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/introduccion-a-las-apis-vtex_3.png)
 
 ****
 
@@ -117,11 +117,11 @@ Las APIs de VTEX están disponibles en nuestro Help Center, en la sección [Deve
  
 Ellas quedan divididas por módulo o funcionalidad. Ingresando a uno de éstos, usted encuentra las APIs correspondientes, cada una de ellas acompañada de la indicación del método correcto, URL y Headers. Algunas APIs tienen también el código que debe pasarse en el Body.
  
-![APIs4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/introduccion-a-las-apis-vtex_4.png)
+![APIs4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/introduccion-a-las-apis-vtex_4.png)
  
 A la derecha de esas indicaciones, el Postman exhibe, para cada API, un Sample Request. De acuerdo con el lenguaje elegido en la caja de selección por encima de él, el Sample Request muestra cómo sería la aplicación de la solicitud en el código.
 
-![sample request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects & Integrations/Integration methods/introduccion-a-las-apis-vtex_5.png)
+![sample request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Projects%20&%20Integrations/Integration%20methods/introduccion-a-las-apis-vtex_5.png)
  
 Para algunas APIs, hay también una Sample Response, que es un ejemplo de respuesta a aquel request.
  

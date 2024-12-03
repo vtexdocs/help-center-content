@@ -34,11 +34,11 @@ Crete a Campaign audience with a target audience, in Collections, select Differe
 Return to the target audience and check that the option Different From changed to Equal to
 
 Before saving:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing & Promotions/campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection_1.png)
 
 After saving:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing & Promotions/campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection_2.png)
 
 
 ##

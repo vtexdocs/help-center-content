@@ -68,7 +68,7 @@ Para agendar um conteúdo da sua loja, siga os passos abaixo:
 3. Use o campo URL no canto superior para navegar até a página que exibe o bloco cujo conteúdo será sobrescrito.
 4. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Scheduling features/agendamento-para-eventos-especiais_1.png)
+![seta-interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Other/Scheduling%20features/agendamento-para-eventos-especiais_1.png)
 
 5. Clique em `Configurações` no canto superior direito.
 6. Clique no botão `Novo conteúdo`.

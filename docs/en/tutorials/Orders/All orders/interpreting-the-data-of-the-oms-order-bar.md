@@ -26,7 +26,7 @@ The following data set is displayed on the __All orders__ screen in the __Orders
 
 Alongside each of these values, a percentage representing the variation against today's orders will appear.
 
-![order-metric-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/interpreting-the-data-of-the-oms-order-bar_1.png)
+![order-metric-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/interpreting-the-data-of-the-oms-order-bar_1.png)
 
 In the screenshot of the metrics above, the following information will be displayed:
 

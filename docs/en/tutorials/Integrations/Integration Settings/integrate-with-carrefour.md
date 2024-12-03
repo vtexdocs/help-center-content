@@ -28,7 +28,7 @@ On the upper right-hand corner, click on the e-mail (the same that you used for 
 
 The key that appears on the screen is the information that you will need to register the integration in the VTEX Bridge module.
 
-![Carrefour1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration Settings/integrate-with-carrefour_1.png)
+![Carrefour1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/integrate-with-carrefour_1.png)
 
 ### Configuring integration in Bridge
 

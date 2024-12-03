@@ -54,7 +54,7 @@ Para configurar essa liquidação, siga o passo a passo:
 8. No campo __Captura antecipada__, selecione uma das opções de tempo disponíveis. 
 9. Preencha o campo __Alterar tempo máximo para captura__ com o período definido com a adquirente. __Caso você prefira deixar o campo em branco, o padrão de 4 dias será utilizado__.
 
-![captura_automatica_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-tempo-maximo-para-liquidacao-automatica_1.png)
+![captura_automatica_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-tempo-maximo-para-liquidacao-automatica_1.png)
 10. Clique no __botão Salvar__. 
 
 Desse modo, o novo recurso de liquidação será implementado.

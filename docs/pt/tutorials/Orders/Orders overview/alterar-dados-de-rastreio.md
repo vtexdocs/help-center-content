@@ -38,4 +38,4 @@ Para alterar os dados de um pedido manualmente, siga os passos abaixo:
     * **Selecionar transportadora:** selecione qual transportadora realizará a entrega.
 7. Clique em `Salvar`.
 
-![Fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders overview/alterar-dados-de-rastreio_1.png)
+![Fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20overview/alterar-dados-de-rastreio_1.png)

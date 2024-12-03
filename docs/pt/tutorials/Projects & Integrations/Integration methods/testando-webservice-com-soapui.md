@@ -35,7 +35,7 @@ O passo a passo de utilização é o seguinte:
 
 Substitua o valor {NOMEDALOJA} pelo nome de sua loja.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration methods/testando-webservice-com-soapui_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20methods/testando-webservice-com-soapui_1.png)
 
 Efetue o login com os dados do Web Service desejado. Após efetuar o login, você visualizará todos os métodos existentes no [manual do Web Service](/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice/).
 
@@ -44,7 +44,7 @@ Efetue o login com os dados do Web Service desejado. Após efetuar o login, voc�
 3. Localize o botão **Auth** e repita a autenticação antes de executar o método;
 4. Execute o método.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration methods/testando-webservice-com-soapui_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20methods/testando-webservice-com-soapui_2.png)
 
 >❗ Atenção: somente os métodos SOAP pertinentes ao **catálogo** são válidos.
 >

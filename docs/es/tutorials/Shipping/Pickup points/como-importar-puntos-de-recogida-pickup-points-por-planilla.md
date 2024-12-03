@@ -26,8 +26,8 @@ Puede [configurar puntos de recogida uno a uno](/es/tutorial/configurar-puntos-d
 ## Cómo subir la planilla
 1. En el menú lateral, haga clic en __Inventario y envío__, en la sección __Pedidos__.
 2. En las opciones que se abren, haga clic en __Puntos de recogida__.
-3. Haga clic en __Subir un XLS__, en la esquina superior derecha de la página. ![Subir XLS (ES)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Pickup points/como-importar-puntos-de-recogida-pickup-points-por-planilla_1.png)
-4. Un modal va a surgir, permitiendo que usted envíe su archivo (con extensión `.xls`) o baje la [planilla de ejemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Recuerde que esta planilla viene con valores de ejemplo rellenados, que deben ser borrados y reemplazados por los datos de sus propios puntos de recogida. ![modal (ES)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Pickup points/como-importar-puntos-de-recogida-pickup-points-por-planilla_2.png)
+3. Haga clic en __Subir un XLS__, en la esquina superior derecha de la página. ![Subir XLS (ES)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Pickup%20points/como-importar-puntos-de-recogida-pickup-points-por-planilla_1.png)
+4. Un modal va a surgir, permitiendo que usted envíe su archivo (con extensión `.xls`) o baje la [planilla de ejemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Recuerde que esta planilla viene con valores de ejemplo rellenados, que deben ser borrados y reemplazados por los datos de sus propios puntos de recogida. ![modal (ES)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Pickup%20points/como-importar-puntos-de-recogida-pickup-points-por-planilla_2.png)
 5. Con todo hecho correctamente, los nuevos puntos de recogida estarán configurados y disponibles para sus clientes.
 
 

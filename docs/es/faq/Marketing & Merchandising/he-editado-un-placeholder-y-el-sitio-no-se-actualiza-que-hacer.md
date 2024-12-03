@@ -19,5 +19,5 @@ Es común que la tienda haga cambios en los placeholders de un layout, en el mó
 Normalmente, esto sucede porque la tienda guarda el placeholder después de los cambios pero no guarda el layout.
 
 Siempre que cambie un placeholder, recuerde que es necesario:
-1. Guardar el placeholder.![savePlaceholder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer_1.png)
-2. Guardar el layout.![saveLayout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer_2.png)
+1. Guardar el placeholder.![savePlaceholder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer_1.png)
+2. Guardar el layout.![saveLayout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer_2.png)

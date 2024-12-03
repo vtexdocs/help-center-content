@@ -20,7 +20,7 @@ internalReference:
 
 Ao realizar uma consulta de vales, no admin, por CPF (documento), o vale do cliente não é listado.
 
-![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_1.png)
+![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_1.png)
 
 ## Simulação
 
@@ -41,5 +41,5 @@ Para consultar um CPF sem pontos e hífen (criados por API), então:
 2. Remova os pontos e o hífen;
 3. Clique em "Buscar";
 
-![vale animado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_2.gif)
+![vale animado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_2.gif)
 

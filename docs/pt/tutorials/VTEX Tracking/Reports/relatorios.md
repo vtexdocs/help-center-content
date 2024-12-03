@@ -31,4 +31,4 @@ Os relatórios disponíveis, são:
 *   [Relatório de SMS e Email](https://help.vtex.com/pt/tutorial/relatorio-de-sms-e-email--7AZmTlojzg1hDmwhDOxCNO)
 *   [Relatório de Serviços](https://help.vtex.com/pt/tutorial/relatorio-de-servicos--7djPWfxtf9qb6hFTOgKDE8)
 
-![relatorio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX Tracking/Reports/relatorios_1.png)
+![relatorio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Tracking/Reports/relatorios_1.png)

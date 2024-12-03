@@ -21,7 +21,7 @@ Las integraciones entre los sellers VTEX y los [conectores nativos](https://help
 
 Los pedidos que presentan errores por divergencia de valores mayores que los valores configurados en la integración con el marketplace, no se cargan automáticamente en el OMS. Por tanto, permanecen con el status de error en la sección `Pedidos` del módulo *INTEGRACIONES* del Admin, a la espera de ser reprocesados manualmente.
 
-![divergenciadepreçosES-01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_1.gif)
+![divergenciadepreçosES-01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_1.gif)
 
 Para que los pedidos con divergencia de valores se carguen al OMS, se creó la regla de autorización (Beta). En esta regla, todos los pedidos con divergencia de valores se envían al OMS y deben ser aprobados manualmente por el administrador de la tienda, con el email registrado en *Gestión de la cuenta > Cuenta*. Se puede tener más de un email registrado.
 
@@ -41,7 +41,7 @@ Hay dos opciones de configuración en la regla de autorización:
 
 ### Crear reglas
 
-![barra regradivergenciaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_2.JPG)
+![barra regradivergenciaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_2.JPG)
 
 Para crear las reglas, realice los siguientes pasos:
 
@@ -54,7 +54,7 @@ Para crear las reglas, realice los siguientes pasos:
    * Se crea una regla configurada automáticamente con un porcentaje de divergencia del 0% al 30%, la cual corresponde a la barra celeste.
 6. Para aumentar o disminuir el porcentaje de divergencia, haga clic en la barra y arrástrela desde los extremos, a menos " < " o a más " > ".
 7. Elija entre las siguientes acciones de reglas para pedidos: `Autorizar automáticamente`, `Negar automáticamente` o `Crear una tarea en VTEX DO para aprobar`.
-8. Para crear más reglas, haga clic en el icono <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_6.JPG" /> y repita los pasos 6 y 7.
+8. Para crear más reglas, haga clic en el icono <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_6.JPG" /> y repita los pasos 6 y 7.
 9. Haga clic en `Guardar reglas`.
 
 Durante el proceso de creación de reglas, se muestran las siguientes pestañas: 
@@ -74,7 +74,7 @@ Para editar las reglas existentes, realice los siguientes pasos:
 6. Edite la regla que desee modificando la barra de porcentaje.
 7. Haga clic en `Guardar reglas`.
 
-![divergenciadepreçosES-02](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_3.gif)
+![divergenciadepreçosES-02](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_3.gif)
 
 ## Autorización de pedidos 
 
@@ -95,7 +95,7 @@ Para autorizar manualmente los pedidos, realice los siguientes pasos:
 4. Seleccione el pedido que tiene el status `Esperando autorización manual` que desea autorizar.
 5. Haga clic en `Confirmar pedido`.
 
-![divergenciadepreçosES-03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_4.gif)
+![divergenciadepreçosES-03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_4.gif)
 
 ### Autorización por VTEX DO
 
@@ -109,4 +109,4 @@ Para autorizar manualmente los pedidos, realice los siguientes pasos:
 6. Haga clic en `Cerrar`.
 7. Haga clic en `Autorizar`.
 
-![divergenciadepreçosES-04](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configurações de Preço Beta/reglas-en-divergencia-de-valores_5.gif)
+![divergenciadepreçosES-04](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/reglas-en-divergencia-de-valores_5.gif)

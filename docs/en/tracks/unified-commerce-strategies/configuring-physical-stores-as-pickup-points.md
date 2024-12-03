@@ -3,8 +3,8 @@ title: 'Physical stores as pickup points'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z
-updatedAt: 2023-07-26T18:51:23.201Z
-publishedAt: 2023-07-26T18:51:23.201Z
+updatedAt: 2024-11-13T18:16:43.930Z
+publishedAt: 2024-11-13T18:16:43.930Z
 firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
@@ -57,6 +57,8 @@ Now, you must connect the pickup point with the warehouse of the physical store.
 4. Select the pickup points that will use the warehouse of the physical store.
 
 With this, your warehouse is connected to the pickup point, and customers can now pick up products at this physical store. When you activate this option, __Logistics__ does not observe the trade policy of the loading dock connected to the warehouse in question. 
+
+>ℹ️ When you associate the pickup point with the physical store's stock, this configuration applies to the stock of all active trade policies.
 
 ## Learn more
 - [Configuring a white label seller as a pickup point](https://help.vtex.com/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).

@@ -3,8 +3,8 @@ title: 'Visão Geral Faturas'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2023-03-31T17:49:51.645Z
-publishedAt: 2023-03-31T17:49:51.645Z
+updatedAt: 2024-10-22T19:06:23.649Z
+publishedAt: 2024-10-22T19:06:23.649Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
 productTeam: Billing
@@ -21,7 +21,7 @@ Para acessar essa página, clique no seu **avatar**, que pode ser identificado p
 
 >ℹ️ Somente usuários com o perfil de acesso [Finance](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) ou com recursos de [Billing](https://help.vtex.com/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
 
-![Admin v4 Faturas menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/visao-geral-faturas_1.jpg)
+![Admin v4 Faturas menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/visao-geral-faturas_1.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso.
 

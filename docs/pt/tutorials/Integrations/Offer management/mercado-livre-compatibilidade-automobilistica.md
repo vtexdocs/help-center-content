@@ -25,7 +25,7 @@ Nos anúncios enviados ao Mercado Livre é possível identificar quais apresenta
 
 >⚠️ Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.  
 
-![Mercado Livre: Compatibilidade Automobilística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/mercado-livre-compatibilidade-automobilistica_1.png)  
+![Mercado Livre: Compatibilidade Automobilística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/mercado-livre-compatibilidade-automobilistica_1.png)  
 
 Para acessar o módulo de Gerenciamento de anúncios, no Admin VTEX vá em Marketplace > Integrações > Gerenciamento de anúncios. Nesta página você pode filtrar os anúncios por, canal, marca, categoria ou status.
 
@@ -35,7 +35,7 @@ Para corrigir os erros de `Compatibilidade com Meli`, siga o passo a passo abaix
 2. Clique em __Error de associação de autopeças.__  
 3. Clique em __Gerenciar compatibilidade.__  
 4. Preencha os campos, __marca, modelo, ano__ e __versão,__ conforme a compatibilidade do acessório.  
-![Mercado Livre: Compatibilidade Automobilística 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer management/mercado-livre-compatibilidade-automobilistica_2.png)  
+![Mercado Livre: Compatibilidade Automobilística 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/mercado-livre-compatibilidade-automobilistica_2.png)  
 5. Adicione todos os modelos de veículos compatíveis clicando em +.
 6. Clique no botão __Adicionar exceção__ e aguarde a mensagem “exceção enviada com sucesso”.
 7. Clique em __Confirmar__ e a mensagem “compatibilidade associada com sucesso” aparecerá na tela.  

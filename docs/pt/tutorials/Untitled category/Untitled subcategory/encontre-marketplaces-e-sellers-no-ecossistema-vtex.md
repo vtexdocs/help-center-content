@@ -21,7 +21,7 @@ Note que o Marketplace Network é uma ferramenta que promove o contato entre pot
 
 ## Encontrar Sellers e Marketplaces
 
-![Marketplace network tour](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/encontre-marketplaces-e-sellers-no-ecossistema-vtex_1.gif)
+![Marketplace network tour](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/encontre-marketplaces-e-sellers-no-ecossistema-vtex_1.gif)
 
 Para acessar a listagem de marketplaces e sellers cadastrados navegue em *Marketplace > Marketplace Network > Encontrar Sellers / Encontrar Marketplaces*. Em ambas abas, é possível  buscar por palavras-chave e filtrar a lista para obter resultados mais precisos, além de entrar em contato com potenciais parceiros.
 
@@ -42,7 +42,7 @@ Para entrar em contato:
 >ℹ️ O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
 
 ## Perfil da loja
-![Network profile PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/encontre-marketplaces-e-sellers-no-ecossistema-vtex_2.gif)
+![Network profile PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/encontre-marketplaces-e-sellers-no-ecossistema-vtex_2.gif)
 
 1. Na seção *Marketplace* da sua loja, clique em __Marketplace Network__.  
 2. Clique na aba __Perfil da Loja__.  

@@ -87,7 +87,7 @@ Para agregar una opción de envío, sigue los pasos a continuación:
     - **Envío gratis:** libre de costo para el consumidor y no requiere configuración adicional.
 8. Haz clic en el botón `Guardar`.
 
-![opcoes_envio_criacao_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping Beta/shipping-options-beta_1.png)
+![opcoes_envio_criacao_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping%20Beta/shipping-options-beta_1.png)
 
 ## Editar opción de envío
 
@@ -111,7 +111,7 @@ Además de editar una opción de envío, desde el ícono de menú <i class="fas 
 
 Después de configurar las opciones de envío, aparecerán en una lista en **Configuración de la tienda > Envío > Opciones de envío**, según se muestra en la siguiente imagen:
 
-![opcoes_envio_listagem_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping Beta/shipping-options-beta_2.png)
+![opcoes_envio_listagem_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping%20Beta/shipping-options-beta_2.png)
 
 La tabla siguiente contiene la descripción de las columnas mostradas:
 

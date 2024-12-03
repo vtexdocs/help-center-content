@@ -3,8 +3,8 @@ title: 'Módulos da VTEX I'
 id: 75MX4aorniD0BYAB8Nwbo7
 status: PUBLISHED
 createdAt: 2024-01-17T19:53:53.326Z
-updatedAt: 2024-02-23T00:42:01.506Z
-publishedAt: 2024-02-23T00:42:01.506Z
+updatedAt: 2024-11-05T17:47:00.449Z
+publishedAt: 2024-11-05T17:47:00.449Z
 firstPublishedAt: 2024-02-22T14:07:05.427Z
 contentType: trackArticle
 productTeam: Others
@@ -263,8 +263,8 @@ Além disso, caso o modelo de negócio envolva lojas internacionais e vendas [cr
 O conjunto de configurações essenciais de logística de uma loja VTEX é chamado de [Estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), composta de três conceitos principais: política de envio, estoque e doca.
 
 - __[Política de envio](#politica-de-envio)__: conjunto de regras que definem as opções de envio do pedido e condições de frete.
-- __[Estoque](#estoque)__: espaço físico de armazenamento das mercadorias vendidas.
 - __[Doca](#doca)__: local de distribuição dos itens vendidos.
+- __[Estoque](#estoque)__: espaço físico de armazenamento das mercadorias vendidas.
 
 A imagem abaixo mostra como esses conceitos se relacionam entre si na venda de um produto:
 
@@ -273,19 +273,21 @@ A imagem abaixo mostra como esses conceitos se relacionam entre si na venda de u
 A tabela a seguir apresenta as principais configurações de logística da loja na VTEX:
 
 <div class="alert alert-INFO">
-A ordem de configuração inicial sugerida é a seguinte: primeiro estoque, segundo doca e terceiro política de envio.
+A ordem de configuração inicial sugerida é a seguinte: primeiro política de envio, segundo doca e terceiro estoque.
 </div>
 
 | **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
 | :---: | :--- | :--- |
-| [Estoque](#estoque) | [Gerenciar Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
-| [Doca](#doca) | [Gerenciar Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | [Política de envio](#politica-de-envio) | [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| [Doca](#doca) | [Gerenciar Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| [Estoque](#estoque) | [Gerenciar Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 | [Inventário](#gerenciamento-de-inventario) | [Gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) | [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) |
 
-#### Estoque
+#### Política de envio 
 
-É a partir do [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) que se inicia a rota logística. Ele corresponde ao espaço físico de armazenamento das mercadorias vendidas pela loja. Uma vez que os itens vendidos são separados do estoque, eles são encaminhados para a doca.
+[Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) é um conjunto de regras que definem as opções e condições de envio que serão apresentadas aos clientes no checkout. As condições de envio incluem transportadora, prazos de entrega, custo de frete, entre outros. A política de envio é vinculada ao estoque pela doca.
+
+A [transportadora](https://help.vtex.com/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE) que será responsável pelo envio do pedido é determinada por meio da política de envio. Primeiro, o cadastro de transportadoras é feito na [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), em seguida, a planilha de frete é associada quando se cria uma política de envio.
 
 #### Doca
 A [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) é o local a partir dos quais os itens são distribuídos e escoados para envio, o ponto intermediário entre estoques e transportadoras. Pela doca, ocorre a integração entre estoque, política comercial e política de envio. Alguns dos casos de uso são:
@@ -296,11 +298,9 @@ A [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) é o lo
 
 Para determinados produtos, é possível que não exista necessidade de um espaço físico de distribuição. Ainda assim, a doca é uma configuração obrigatória para o funcionamento correto das operações da plataforma VTEX.
 
-#### Política de envio 
+#### Estoque
 
-[Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) é um conjunto de regras que definem as opções e condições de envio que serão apresentadas aos clientes no checkout. As condições de envio incluem transportadora, prazos de entrega, custo de frete, entre outros. A política de envio é vinculada ao estoque pela doca.
-
-A [transportadora](https://help.vtex.com/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE) que será responsável pelo envio do pedido é determinada por meio da política de envio. Primeiro, o cadastro de transportadoras é feito na [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), em seguida, a planilha de frete é associada quando se cria uma política de envio.
+É a partir do [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) que se inicia a rota logística. Ele corresponde ao espaço físico de armazenamento das mercadorias vendidas pela loja. Uma vez que os itens vendidos são separados do estoque, eles são encaminhados para a doca.
 
 ### Gerenciamento de inventário
 

@@ -19,7 +19,7 @@ Integration with an ERP system enables control of your inventory regarding order
 
 On the VTEX system, you will be able to integrate your ERP through several interfaces: __API REST__ (JSON language) and __WebService__ (SOAP – XML language) – which is already out of use.
 
-![ERP-VTEX-Integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration methods/integration-interfaces_1.png)
+![ERP-VTEX-Integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20methods/integration-interfaces_1.png)
 
 In addition to ERP, for the transmission to occur, there must be a system in place to support the communication between ERP and VTEX. This system is named as “__Integrator__”. In general, ERP develops its own integrator, but it may also be developed by the store itself, or by an agency contracted by the store.
 

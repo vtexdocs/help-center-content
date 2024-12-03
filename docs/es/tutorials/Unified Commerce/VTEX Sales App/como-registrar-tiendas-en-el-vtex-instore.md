@@ -30,7 +30,7 @@ Este guía le ayudará a usted a personalizar la configuración de su tienda par
 
 Al abrirse la aplicación por primera vez, ella pregunta cuál es el nombre de la tienda que será usada. Conforme a la pantalla a continuación, basta digitar el nombre de su tienda para tener cargadas para el app las configuraciónes.
 
-![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-registrar-tiendas-en-el-vtex-instore_1.png)
+![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-registrar-tiendas-en-el-vtex-instore_1.png)
 
 ### Cómo registrar una tienda física
 
@@ -40,14 +40,14 @@ Para gestionar su registro de tiendas físicas basta acceder a su Masterdata. Cu
 
 *Si usted no encuentra esa aplicación, significa que su ambiento no fue todavía correctamente configurado. Para tanto, recomendamos el tutorial de configuración de ambiente para uso del inStore.*
 
-![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-registrar-tiendas-en-el-vtex-instore_2.png)
+![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-registrar-tiendas-en-el-vtex-instore_2.png)
 
 Cuando usted haga clic en listar, va a aparecer una lista de tiendas registradas, como muestra la imagen a continuación. Haga clic en "Nuevo" para registrar una nueva tienda.
 
-![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-registrar-tiendas-en-el-vtex-instore_3.png)
+![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-registrar-tiendas-en-el-vtex-instore_3.png)
 
 Rellene los datos de la tienda en el formulario y después haga clic en "salvar".
 
-![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-registrar-tiendas-en-el-vtex-instore_4.png)
+![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-registrar-tiendas-en-el-vtex-instore_4.png)
 
 Ya está. ¡Su tienda está registrada! 😃 ¡Ahora usted puede continuar registrando a los vendedores! Vea [aquí](/es/tutorial/como-registrar-vendedores-en-el-vtex-instore) cómo hacerlo.

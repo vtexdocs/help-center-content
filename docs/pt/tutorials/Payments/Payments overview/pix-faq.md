@@ -64,9 +64,9 @@ A opção de pagar via Pix aparecerá na lista, junto com as outras opções de 
 
 Quando o usuário clicar no Pix, um QR Code que comporta as informações da compra será gerado. A partir daí, o usuário tem dez minutos para efetuar a transação com a sua instituição financeira de preferência.
 
-![Checkout_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments overview/pix-faq_1.png)
+![Checkout_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/pix-faq_1.png)
 
-![QRCode_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments overview/pix-faq_2.png)
+![QRCode_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/pix-faq_2.png)
 
 ### É possível dividir um pagamento entre Pix e outra forma de pagamento?
 

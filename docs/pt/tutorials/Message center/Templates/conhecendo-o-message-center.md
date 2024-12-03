@@ -23,7 +23,7 @@ Os templates são as mensagens em si. As mensagens estão categorizadas conforme
 
 Entenda as informações que cada _card_ do template traz:
 
-![message center - card templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message center/Templates/conhecendo-o-message-center_1.png)
+![message center - card templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/conhecendo-o-message-center_1.png)
 
 - Nome do template, para identificação interna (não se trata do assunto do e-mail enviado).
 - Aplicação/módulo ao qual ele pertence (em verde).
@@ -33,7 +33,7 @@ Entenda as informações que cada _card_ do template traz:
 
 Para facilitar a navegação a interface disponibiliza, além do campo de busca por texto livre, filtros por aplicações (módulos) e tipo (mensagem padrão ou personalizada/alterada).
 
-![busca-templates-central-mensagens pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message center/Templates/conhecendo-o-message-center_2.png)
+![busca-templates-central-mensagens pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/conhecendo-o-message-center_2.png)
 
 Depois de entender o básico sobre os templates, você já pode ver como editá-los. Esse passo não é obrigatório, pois a VTEX fornece um layout básico e responsivo para todas as mensagens, com os dados necessários para uma boa comunicação com seu cliente, mas é natural que as lojas os adequem ao padrão de comunicação já usado para a marca.
 
@@ -41,7 +41,7 @@ Depois de entender o básico sobre os templates, você já pode ver como editá-
 
 O remetente é quem envia a mensagem, mas neste caso trazendo também o cadastro do nome e e-mail que será exibido ao cliente, e configurações do servidor de envio (SMTP).
 
-![message center - card remetentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message center/Templates/conhecendo-o-message-center_3.png)
+![message center - card remetentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/conhecendo-o-message-center_3.png)
 
 - Nome do remetente, para identificação interna.
 - Tipo de servidor SMTP, que pode ser da VTEX ou da própria loja.

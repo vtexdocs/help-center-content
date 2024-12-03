@@ -33,11 +33,11 @@ https://{accountName}.myvtex.com/admin/search/custom-result/create/
 
 En el caso siguiente, el campo "marca" tiene más de 9.999 entradas, por lo que al escribir el valor "JEIBAO" no aparece en el desplegable para ser seleccionado.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/la-paginacion-de-los-valores-de-los-campos-de-la-busqueda-inteligente-esta-limitada-a-9999-elementos_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/la-paginacion-de-los-valores-de-los-campos-de-la-busqueda-inteligente-esta-limitada-a-9999-elementos_1.png)
 
 La consulta graphQL que carga esta lista en Admin sólo es capaz de obtener un máximo de 9.999 registros.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent Search/la-paginacion-de-los-valores-de-los-campos-de-la-busqueda-inteligente-esta-limitada-a-9999-elementos_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/la-paginacion-de-los-valores-de-los-campos-de-la-busqueda-inteligente-esta-limitada-a-9999-elementos_2.png)
 
 
 

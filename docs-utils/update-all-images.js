@@ -1,39 +1,80 @@
-// This script has an error: it passes absolute paths to the function updateImages. So the updated image links are wrong. This can be fixed manually using VSCode search.
-const fs = require('fs').promises;  // Use the promise-based version of fs
+const fs = require('fs');
 const path = require('path');
-const { updateImages } = require('./update-images.js'); // Ensure this returns a promise or is async
 
-const targetDir = path.join(__dirname, '../docs');
-let articleNumber = 0;
-let allArticles = [];
+const docsDirEN = path.join(__dirname, '../docs/en/');
+const docsDirPT = path.join(__dirname, '../docs/pt/');
+const docsDirES = path.join(__dirname, '../docs/es/');
 
-async function iterateFiles(dir) {
-  const files = await fs.readdir(dir, { withFileTypes: true });
+const { updateImages } = require('./update-images.js');
 
-  for (const file of files) {
-    const fullPath = path.join(dir, file.name).replace(/\\/g, '/');
+const MAX_CONCURRENT_FILES = 100;
 
-    if (file.isDirectory()) {
-      // If it's a directory, recursively search it
-      await iterateFiles(fullPath);
-    } else if (file.isFile() && (file.name.endsWith('.md') || file.name.endsWith('.mdx'))) {
-      // If it's a .md or .mdx file, do something with it
-      articleNumber++;
-      allArticles.push(fullPath);
+let activeFiles = 0;
+let fileQueue = [];
+
+// Function to process each Markdown file
+async function processFile(filePath) {
+    try {
+       //  console.log(`Updating images for: ${filePath}`);
+        await updateImages(filePath);  // Wait for updateImages to finish before proceeding
+       // console.log(`Finished updating images for: ${filePath}`);
+    } catch (error) {
+        console.error(`Error processing file: ${filePath}`, error);
+    } finally {
+        activeFiles--;
+        if (fileQueue.length > 0) {
+            const nextFile = fileQueue.shift();
+            await processFile(nextFile);
+        }
     }
-  }
 }
 
-async function processArticles() {
-  for (const article of allArticles) {
-    console.log(`Updating images for: ${article}`);
-    await updateImages(article);  // Wait for updateImages to finish before proceeding
-    console.log(`Finished updating images for: ${article}`);
-  }
+// Function to recursively process files in directories
+async function processDirectory(dirPath) {
+    try {
+        const files = fs.readdirSync(dirPath);
+        
+        for (const file of files) {
+            const filePath = path.join(dirPath, file);
+            const stats = fs.statSync(filePath);
+
+            if (stats.isDirectory()) {
+                await processDirectory(filePath);
+            } else if (path.extname(file) === '.md') {
+                if (activeFiles < MAX_CONCURRENT_FILES) {
+                    activeFiles++;
+                    await processFile(filePath);
+                } else {
+                    fileQueue.push(filePath);
+                }
+            }
+        }
+    } catch (error) {
+        console.error('Error processing directory:', error);
+    }
 }
 
 // Start iterating from the target directory and process articles sequentially
+async function updateAllImages() {
+    console.log("Updating all images...");
+    await processDirectory(docsDirEN);
+    await processDirectory(docsDirPT);
+    await processDirectory(docsDirES);
+
+    // Wait until all files are processed
+    while (activeFiles > 0 || fileQueue.length > 0) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+
+    console.log("Finished replacing all images in markdown files.");
+}
+
 (async () => {
-  await iterateFiles(targetDir);  // First gather all the articles
-  await processArticles();        // Then process them one by one
+    try {
+        await updateAllImages();
+    } catch (error) {
+        console.error('Error during image updates:', error);
+    }
 })();
+
+module.exports = { updateAllImages }

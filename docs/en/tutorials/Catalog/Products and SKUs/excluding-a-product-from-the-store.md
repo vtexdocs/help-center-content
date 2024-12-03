@@ -27,6 +27,6 @@ However, if the product in question has some link to another area of the system 
 
 In this case, the following error message will appear if you try to delete it:
 
-![errorDelete](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/excluding-a-product-from-the-store_1.png)
+![errorDelete](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/excluding-a-product-from-the-store_1.png)
 
 The solution is to deactivate the product. See how to do this in the article [Deactivating store SKUs and products](/en/tutorial/deactivating-store-skus-and-products).

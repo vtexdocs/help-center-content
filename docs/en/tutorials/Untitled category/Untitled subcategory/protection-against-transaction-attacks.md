@@ -35,9 +35,9 @@ To enable the protection, please follow the instructions below:
 4. In the upper right corner, click on the Settings icon.
 5. Under __Attack protection__, click on the button to enable it (green color indicates "enabled").
 
-![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_1.png)
+![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_1.png)
 
-![protection-option-enable1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_2.png)
+![protection-option-enable1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_2.png)
 
 ### How to disable protection against transaction attacks?
 
@@ -67,13 +67,13 @@ To access this information, please follow the instructions below.
 6. To select __Detected threats__ or __Neutralized threats__, click on one of the arrows on the right.
 7. Check the details of the events in the popup window displayed.
 
-![protection-option-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_3.png)
+![protection-option-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_3.png)
 
-![protection-screen-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_4.png)
+![protection-screen-historic1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_4.png)
 
-![screen-threat-potential1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_5.png)
+![screen-threat-potential1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_5.png)
 
-![screen-threat-neutralized1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/protection-against-transaction-attacks_6.png)
+![screen-threat-neutralized1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/protection-against-transaction-attacks_6.png)
 
 ### Related Articles
 - [What is an anti-fraud solution?](https://help.vtex.com/en/tutorial/o-que-e-antifraude)

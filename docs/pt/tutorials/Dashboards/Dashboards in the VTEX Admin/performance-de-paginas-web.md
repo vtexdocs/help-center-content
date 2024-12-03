@@ -25,7 +25,7 @@ A tela “Performance das páginas web” disponibiliza a ferramenta [PageSpeed 
 
 Embora o dashboard “Performance das páginas web” ofereça as mesmas funcionalidades da ferramenta PageSpeed Insights do Google, somente no Admin VTEX os comerciantes conseguem adicionar várias URLs e monitorá-las continuamente. 
 
-![Web page performance Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/performance-de-paginas-web_1.png)
+![Web page performance Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/performance-de-paginas-web_1.png)
 
 ## Por que você deve ficar de olho no desempenho de uma página web?
 
@@ -105,7 +105,7 @@ Observação: não é possível excluir as 10 páginas mais acessadas do seu eco
 
 ## Principais métricas da web
 
-![Core web vitals PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards in the VTEX Admin/performance-de-paginas-web_2.png)
+![Core web vitals PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/performance-de-paginas-web_2.png)
 
 Para cada URL, o dashboard Performance das páginas web exibe as [Principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) referentes à página em questão. 
 

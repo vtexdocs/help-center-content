@@ -19,7 +19,7 @@ By accessing the section __All orders__, in __Orders management__, it is possibl
 
 The column __Origin__ indicates where the order came from, distinguishing each other in two possible origins: __Marketplace__ and __Fulfillment__.
 
-![orders-list-origin-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source_1.png)
+![orders-list-origin-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source_1.png)
 
 
 ## Marketplace

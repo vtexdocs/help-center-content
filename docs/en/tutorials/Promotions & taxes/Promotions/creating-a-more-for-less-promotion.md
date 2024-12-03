@@ -51,7 +51,7 @@ In this section, we provide information on the promotion overview.
 - **Additional information (optional):**: Allows you to add a name and value to the promotion.
 - **Promotion is highlighted:** Adds a tag with the promotion name to the window display and the product page. This tag will only be added if you use the right promotion display control in the template.<vtex.cmc:discountHightLight/>. Required field.
 
-![Dados gerais 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_1.png)
+![Dados gerais 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_1.png)
 
 ### Restrict this promotion to products from sellers
 
@@ -66,7 +66,7 @@ For the promotion to be valid for all sellers, leave the field blank.
 > 2. Leave the selection empty, including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.
 > 
 
-![Restringir - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_2.png)
+![Restringir - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_2.png)
 
 ### Trade Policy
 
@@ -79,7 +79,7 @@ In this section, you can set the trade policies valid for the promotion. You can
 
 For the promotion to be valid for all trade policies, leave the selection empty.
 
-![Politica - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_3.png)
+![Politica - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_3.png)
 
 ## 2. More for Less
 
@@ -95,7 +95,7 @@ In this section, you can define the products, number of items, and discounts inc
    - **With a discount of**: the percentage discount the customer will receive if they buy the number of items defined in the promotion.
    - **With a maximum price per item of**: the maximum price per item the customer will pay if they buy the number of items defined in the promotion.
 
-![Leve Mais - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_4.png)
+![Leve Mais - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_4.png)
 
 ### Advanced settings
 In this section, you can specify how the discount will be applied.
@@ -108,7 +108,7 @@ The discount must be applied:
   - **The lowest-priced products**: the discount will be applied to the cheapest items in the promotion.
   - **The highest-priced products**: the discount will be applied to the most expensive items in the promotion.
 
-![Leve Mais por menos - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_5.png)
+![Leve Mais por menos - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_5.png)
 
 #### How must the discount be distributed?
 
@@ -130,7 +130,7 @@ In this section, we will detail the conditions you must apply for a promotion to
 
   >ℹ️ By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
-![Condições de promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_6.png)
+![Condições de promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_6.png)
 
 ## 4. Restrictions and limitations of use
 
@@ -142,4 +142,4 @@ In this section, you will find important information about the promotion conditi
 - **Apply with other promotions**: if selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
 - **Apply with manual prices**: allows the promotion to apply to products whose prices were manually added via telesales. To enable the manual pricing feature, use the [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) endpoint.
 
-![Restrições e limitações - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-a-more-for-less-promotion_7.png)
+![Restrições e limitações - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_7.png)

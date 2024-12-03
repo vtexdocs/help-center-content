@@ -3,8 +3,8 @@ title: 'Setting up payments with Notes Payable'
 id: 5pW7avTwtyQcMu4uiW8quQ
 status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2023-10-18T11:58:23.708Z
-publishedAt: 2023-10-18T11:58:23.708Z
+updatedAt: 2024-11-11T20:06:25.657Z
+publishedAt: 2024-11-11T20:06:25.657Z
 firstPublishedAt: 2018-06-25T15:42:31.515Z
 contentType: tutorial
 productTeam: Financial
@@ -21,15 +21,17 @@ On VTEX, your store can receive payments made with __Notes Payable__. To enable 
 2. [Notes Payable setup](#notes-payable-setup)
 3. [Setting up the payment condition](#setting-up-the-payment-condition)
 
-## Setting up the gateway affiliation
+>⚠️ The information in this article does not refer to the **Promissory** or **CardPromissory** payment conditions available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**.
 
-To set up a gateway affiliation, access [Registering gateway affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
+## Setting up a payment provider
 
->⚠️ Check that the desired gateway affiliation supports Notes Payable payment processing.
+To set up a payment provider,  access [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
+
+>⚠️ Check that the desired payment provider supports Notes Payable payment processing.
 
 ## Notes Payable Setup
 
-After configuring one of the gateway affiliations listed above, you must configure the __Notes Payable__ custom payment.
+After registering the payment provider, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. Click on the __Custom Payments__ tab.
@@ -49,6 +51,6 @@ After configuring one of the gateway affiliations listed above, you must configu
 
 ## Setting up the payment condition
 
-After completing the steps above, Notes Payable will be available as a payment method in your store.
+After completing all the steps, the notes payable payment will be configured and ready to be used in your store.
 
 Learn how to associate it with a payment condition in our article [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions).

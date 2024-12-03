@@ -20,7 +20,7 @@ internalReference:
 
 Na tela de Tipos de Lista, ao clicar em "Ver Detalhes" ou "Novo Tipo de Lista" não está sendo possível criar/alterar o Tipo de Lista.
 
-![Criação de Tipo de Lista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/criacaoedicao-de-tipo-de-lista-nao-esta-funcionando_1.png)
+![Criação de Tipo de Lista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/criacaoedicao-de-tipo-de-lista-nao-esta-funcionando_1.png)
 
 ## Simulação
 

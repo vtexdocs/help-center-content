@@ -27,7 +27,7 @@ Caso você utilize o novo Admin VTEX, para acessá-la, vá para **Dashboards > B
 
 Para ter acesso à pagina, é necessário conter o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics* com a chave `view_metrics` em seu [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Sem esse recurso configurado em seu perfil de acesso, você receberá um erro *403 - Não autorizado* ao tentar visualizar a página. 
 
-![Black Week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards Beta/black-week_1.png)
+![Black Week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards%20Beta/black-week_1.png)
 
 Este artigo inclui as seguintes seções:
 
@@ -89,7 +89,7 @@ A Black Week inclui os seguintes gráficos para a análise dos resultados do seu
 
 ### Total de pedidos
 
-![Total de pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards Beta/black-week_2.png)
+![Total de pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards%20Beta/black-week_2.png)
 
 O gráfico _Total de Pedidos_ apresenta a quantidade de pedidos captados pela loja, agregado por dia e comparado com os anos anteriores selecionados. Saiba mais em [Dados](#dados).
 
@@ -119,7 +119,7 @@ Para ler os gráficos, note que:
 
 #### Total do dia 
 
-![Total do dia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards Beta/black-week_3.png)
+![Total do dia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards%20Beta/black-week_3.png)
 
 A visualização _Total do Dia_ indica na tela:
 
@@ -130,7 +130,7 @@ Essa visualização é útil para acompanhar o somatório de vendas no dia, send
 
 #### Últimas 2 horas
 
-![Últimas 2 horas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards Beta/black-week_4.png)
+![Últimas 2 horas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Dashboards%20Beta/black-week_4.png)
 
 A visualização _Últimas 2 horas_ indica na tela:
 

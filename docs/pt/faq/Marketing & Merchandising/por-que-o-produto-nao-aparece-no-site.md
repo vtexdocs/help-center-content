@@ -3,8 +3,8 @@ title: 'Por que o produto não aparece no site?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2024-09-30T14:42:39.397Z
-publishedAt: 2024-09-30T14:42:39.397Z
+updatedAt: 2024-11-04T21:03:12.522Z
+publishedAt: 2024-11-04T21:03:12.522Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising

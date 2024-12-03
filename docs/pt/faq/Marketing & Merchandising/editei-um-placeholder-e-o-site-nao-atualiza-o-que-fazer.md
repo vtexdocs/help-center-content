@@ -19,7 +19,7 @@ legacySlug: editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer
 Normalmente, isso acontece porque o lojista salva o placeholder após as alterações mas não salva o layout.
 
 Sempre que você alterar um placeholder, lembre-se de:
-1. Salvar o placeholder.![savePlaceholder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer_1.png)
-2. Salvar o layout.![saveLayout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer_2.png)
+1. Salvar o placeholder.![savePlaceholder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer_1.png)
+2. Salvar o layout.![saveLayout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer_2.png)
 
 

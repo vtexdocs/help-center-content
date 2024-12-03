@@ -44,10 +44,10 @@ On the website, it is possible to confirm whether the settings are correct. To d
 3. Here, the type of service must be make available for selection. The text must have a maximum of 150 characters.
 4. Select the service in the cart and click on the link to add a message.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/setting-up-a-personal-gift-message_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/setting-up-a-personal-gift-message_1.png)
 
 You can view the written message on __My Account > My Orders__:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/setting-up-a-personal-gift-message_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/setting-up-a-personal-gift-message_2.png)
 
 >ℹ️ After setting up the SKU service, wait for the indexing process for the registration to be effective on the website. Once the service is active, you will be able to test the purchase.

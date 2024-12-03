@@ -3,8 +3,8 @@ title: 'Lead time: tempo de envio a nível de SKU'
 id: 16yv5Mkj6bTyWR1hCN2f4B
 status: PUBLISHED
 createdAt: 2023-09-22T00:32:26.416Z
-updatedAt: 2024-08-16T17:55:22.057Z
-publishedAt: 2024-08-16T17:55:22.057Z
+updatedAt: 2024-11-04T21:12:54.681Z
+publishedAt: 2024-11-04T21:12:54.681Z
 firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase

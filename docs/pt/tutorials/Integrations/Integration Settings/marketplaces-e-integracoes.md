@@ -30,7 +30,7 @@ Dos marketplaces disponibilizados, temos a opção de marketplace VTEX e marketp
 
 Para acessar a página, no Admin VTEX clique em __Marketplace > Conexões > Marketplaces e Integrações__. Na página será possível visualizar os marketplaces sugeridos para conexão e a lista completa de todos os marketplaces disponíveis ou já conectados.  
 
-![Marketplace e integrações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/marketplaces-e-integracoes_1.png) 
+![Marketplace e integrações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/marketplaces-e-integracoes_1.png) 
 
 A tabela que lista os marketplaces possui as seguintes colunas:  
 

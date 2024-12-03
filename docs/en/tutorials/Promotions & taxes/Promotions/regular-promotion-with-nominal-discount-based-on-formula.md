@@ -20,7 +20,7 @@ When you create a [regular promotion](https://help.vtex.com/en/tutorial/regular-
 
 By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
 
-![discount-type-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_1.PNG)
+![discount-type-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_1.PNG)
 
 The formula used to calculate the nominal discount generally follows the same logic as the [Microsoft Excel formulas](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), which means you can use [variables](#variables) (`total`, `freight` and `quantity`), make [operations](#operations) (sum, subtraction, multiplication and division) and apply (`min` and `max` [functions](#functions).
 
@@ -75,19 +75,19 @@ The promotion will apply the lowest discount in each case, comparing the 20% cal
 
 A customer added a $ 45 item to the cart. By calculating 20% of the total price, the result is 9, as per `total * 0.2 = 9`. Since 9 is below the discount limit value, the applied discount will be $ 9.
 
-![scenario1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_2.png)
+![scenario1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_2.png)
 
 #### Scenario 2
 
 Another customer added a $ 2600 item to the cart. By calculating 20% of this amount, the result is 520, as per `total * 0.2 = 520`. Since this value is above the limit ($ 10), the discount will be $ 10.
 
-![scenario2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_3.png)
+![scenario2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_3.png)
 
 #### Scenario 3
 
 A third customer added two items to the cart: One costs $ 100 and the other $ 2600. Their sum is $ 2700, as per `total = 2700`. By calculating 20% of the total amount, the result is 540, according to `total * 0.2 = 540`. Since this value is above the limit ($ 10), the applied discount will be $ 10.
 
-![scenario3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_4.png)
+![scenario3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_4.png)
 
 The total discount of $ 10 is proportionally distributed among the items, based on each item's price and quantity. The platform makes this distribution automatically, as explained below.
 

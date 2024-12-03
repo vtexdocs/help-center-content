@@ -19,11 +19,11 @@ The **Offer Status** module allows sellers to track the sending and syncing of t
 
 **Offer Status** allows you to track offers sent only to VTEX marketplaces. To access the module, in the VTEX Admin, go to **Marketplace > Connections > Offer Status**, or type **Offer Status** in the search bar.
 
-![Offer Status Screen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_1.gif)
+![Offer Status Screen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_1.gif)
 
 The **Offer Status** page comprises three tabs: [**Published**](#published-tab), [**Issues**](#issue-tab), and [**Awaiting Completion**](#awaiting-completion-tab), all listing your offers according to their status. You can access and view details of each offer, such as their status, inventory, price, update date, and reasons for being rejected by the marketplace.
 
-![Offer Status schema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_2.png)
+![Offer Status schema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_2.png)
 
 ## Published tab
 
@@ -50,7 +50,7 @@ To filter the offers by **Marketplace**, click the down arrow, select the desire
 
 To filter the offers by **Inventory**, click the down arrow, enter the minimum and/or maximum inventory, and click **Apply**.
 
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_3.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_3.png)
 
 To filter the offers by **Update**, click the down arrow, select one of the options, and then click **Apply.**
 
@@ -59,7 +59,7 @@ See below the options available for this filter:
 - **Updated**: Offers that had their price and/or inventory updated by the seller and have been processed successfully.
 - **Error updating:** Offers that had inconsistencies and failed to update.
 
-![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_4.png)
+![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_4.png)
 
 You can use a single filter or combine them in a single search. The filters are not selected by default, so the home page displays the total number of existing offers.
 
@@ -102,7 +102,7 @@ To update any details of an already published offer, you must do the following:
 
 You will be redirected to the corresponding page to make the necessary changes.
 
-![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_5.jpeg)
+![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_5.jpeg)
 
 ### Export published offer list
 
@@ -139,7 +139,7 @@ To filter the offers by **Marketplace**, click the down arrow, select the desire
 To filter the offers by **Sent**, click the down arrow, select one of the options, and then click **Apply.**  
 
 To filter the offers by **Inventory**, click the down arrow, enter the minimum and/or maximum inventory, and click **Apply**.  
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-status_6.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-status_6.png)
 
 You can use a single filter or combine them in a single search. The filters are not selected by default, so the home page displays the total number of existing offers.  
 

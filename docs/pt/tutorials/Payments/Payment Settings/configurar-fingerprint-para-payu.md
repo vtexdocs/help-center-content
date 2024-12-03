@@ -27,7 +27,7 @@ Neste artigo, explicaremos como associar o recurso Device Fingerprint à afilia�
 
 1. Fazer login em http://www.google.com/tagmanager/ para a loja que vamos configurar;
 2. Introduzir o item etiquetas (tags) para configurar o id da sessão do device;
-3. Criar um produto de “HTML Personalizado” como se vê na imagem a seguir:![payU 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_1.png)
+3. Criar um produto de “HTML Personalizado” como se vê na imagem a seguir:![payU 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_1.png)
 4. No campo HTML da configuração, devemos colar o código HTML que chama o código para mandar a informação a PayU:
 
 ```
@@ -59,7 +59,7 @@ Neste artigo, explicaremos como associar o recurso Device Fingerprint à afilia�
 
        console.log("fingerprint: "+window.vtex.deviceFingerprint);
 
-       document.getElementById('gtm').innerHTML = '<p style="background:url(https://maf.pagosonline.net/ws/fp?id='+deviceSessionId+'80200)"></p>'+'<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_11.png">';
+       document.getElementById('gtm').innerHTML = '<p style="background:url(https://maf.pagosonline.net/ws/fp?id='+deviceSessionId+'80200)"></p>'+'<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_11.png">';
        document.getElementById('maf').innerHTML = '<object type="application/x-shockwave-flash" data="https://maf.pagosonline.net/ws/fp/fp.swf?id='+deviceSessionId+'80200" width="1" height="1" id="thm_fp"><param name="movie" value="https://maf.pagosonline.net/ws/fp/fp.swf?id='+deviceSessionId+'80200" /></object>';
 
        var pol_script = document.createElement('script');
@@ -73,23 +73,23 @@ Neste artigo, explicaremos como associar o recurso Device Fingerprint à afilia�
 <div id="maf"></div>
 ```
 
-![payU 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_2.png)
+![payU 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_2.png)
 
-Depois é preciso realizar a configuração avançada tal como consta na imagem a seguir:![payU 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_3.png)
+Depois é preciso realizar a configuração avançada tal como consta na imagem a seguir:![payU 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_3.png)
 
 Para configurar o evento, siga os passos abaixo:
 
-1. Entre na aba More:![payU 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_4.png)
-2. Crie um evento personalizado:![payU 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_5.png)
-3. Preencha-o da seguinte maneira:![payU 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_6.png)
-4. Salve o evento e posteriormente salve a etiqueta (tag):![payU 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_7.png)
-5. Uma vez salva a etiqueta, é necessário publicá-la:![payU 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_8.png)
+1. Entre na aba More:![payU 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_4.png)
+2. Crie um evento personalizado:![payU 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_5.png)
+3. Preencha-o da seguinte maneira:![payU 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_6.png)
+4. Salve o evento e posteriormente salve a etiqueta (tag):![payU 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_7.png)
+5. Uma vez salva a etiqueta, é necessário publicá-la:![payU 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_8.png)
 
 Uma vez que já configuramos a etiqueta, temos que salvar o JS chamado a partir do código. Este é salvo dentro do gestor de arquivo da VTEX. Para fazer isso é necessário seguir os seguintes passos:
 
 - Acessando o painel VTEX no menu CMS >> Layout >> Files Manager >> Gerenciamento de arquivo .js >> Add.
 
-![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_9.png)
+![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_9.png)
 
 __Anexo__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
@@ -102,4 +102,4 @@ Para fazer a validação, é necessário entrar na loja, fazer todo o processo d
 3. Faça a busca da palavra MAF
 
 Se o resultado for encontrado, significa que a configuração está correta e o Fingerprint está sendo enviado corretamente, segue um exemplo:
-![payU 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-fingerprint-para-payu_10.png)
+![payU 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_10.png)

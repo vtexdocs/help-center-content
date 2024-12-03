@@ -3,8 +3,8 @@ title: 'O pedido da minha loja não foi criado'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-07-18T20:56:20.706Z
-publishedAt: 2024-07-18T20:56:20.706Z
+updatedAt: 2024-11-08T18:57:41.671Z
+publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: o-pedido-da-minha-loja-nao-foi-criado
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Palavras-chave:** pedido, integração de pedidos, integração XML, configuração do produto, estoque negativo, sem estoque.
+**Tags:** Pedidos, Integração, Integração XML, Produto, Estoque
 
 Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERPs (Enterprise Resource Planning). 
 

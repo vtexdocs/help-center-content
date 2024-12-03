@@ -3,8 +3,8 @@ title: 'Creating Customer Credit accounts'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2024-02-08T19:08:32.443Z
-publishedAt: 2024-02-08T19:08:32.443Z
+updatedAt: 2024-11-04T18:08:56.036Z
+publishedAt: 2024-11-04T18:08:56.036Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
@@ -18,7 +18,7 @@ The next step is to create accounts for the customers you want to offer credit t
 
 - [Individual account (Admin VTEX)](#create-accounts-individually)
 - [Multiple Accounts (Admin VTEX)](#create-multiple-accounts-bulk-import)
-- [Individual account (Customer Credit API)](#criar-conta-via-api)
+- [Individual account (Customer Credit API)](#create-account-via-api)
 
 >ℹ️ Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's [Master Data entities](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities). For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store.
 
@@ -84,6 +84,6 @@ The procedure is similar to [create multiple accounts](#create-multiple-accounts
 
 ## Create account via API
 
-You can also create accounts for your customers in Customer Credit through the endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/ creditcontrol/accounts).
+You can also create accounts for your customers in Customer Credit through the endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/creditcontrol/accounts).
 
 For more information about Customer Credit API endpoints, visit [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api#overview).  

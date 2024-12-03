@@ -54,7 +54,7 @@ Once you have registered with Apple, enable the option of logging in to your sto
 
     Check out the [Registering credentials to set up Apple ID login](https://developers.vtex.com/docs/guides/registering-credentials-to-set-up-apple-id-login) developer guide to learn how to get these credentials.
 
-    ![apple-id-setup-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Authentication Beta/configuring-sign-in-with-apple-id-beta_1.png)
+    ![apple-id-setup-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Authentication%20Beta/configuring-sign-in-with-apple-id-beta_1.png)
 
 5. Click `Save`.
 6. Click `Webstore Providers` to go back to the previous page.

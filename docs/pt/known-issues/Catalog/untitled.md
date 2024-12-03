@@ -1,9 +1,9 @@
 ---
-title: 'Product not flagged to a specific SC can still be available for this SC.'
-id: 6u8IBlt5MbC3eKMUrfDhp2
+title: 'Seller commissioning per category does not work with huge categories trees'
+id: 2y4GlUEpyKldR9xo8rX3lY
 status: DRAFT
-createdAt: 2022-01-21T14:30:40.326Z
-updatedAt: 2022-01-21T14:30:40.326Z
+createdAt: 2022-01-21T14:43:35.093Z
+updatedAt: 2022-01-21T14:43:35.093Z
 publishedAt: 
 firstPublishedAt: 
 contentType: knownIssue
@@ -13,21 +13,30 @@ tag:
 slugEN: untitled
 locale: pt
 kiStatus: Backlog
-internalReference: 308613
+internalReference: 330958
 ---
 
 ## Sumário
 
 
-Product not flagged to a specific SC can still be available for this SC. This scenario happens when the Sales Channel is associated to a collection on its config, and the product is available for this collection.
-Even it is not available for the SC on the product interface, as the SC is associated to this collection, if the product is available for the collection, he will be available for this SC.
+Seller commissioning per category does not work with huge categories trees
 
 
 
 ## Simulação
 
 
-- Associate a collection to a SC;
+1) Enter account `naprateleira`;
+2) Try to edit any seller commissioning, for example: https://naprateleira.vtexcommercestable.com.br/admin/Site/SellerCommissioning.aspx?SellerId=azperfumes
+
+
+
+## Workaround
+
+
+- This change can only be done directly on the database and can (or can't) enter on the product team sprints as a task to be done.
+
+lection to a SC;
 - Put this product to be available to this collection and not for the SC on its configuration;
 - The product will be available to the SC.
 

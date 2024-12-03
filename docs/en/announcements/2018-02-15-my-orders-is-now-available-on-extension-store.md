@@ -12,7 +12,7 @@ slugEN: 2018-02-15-my-orders-is-now-available-on-extension-store
 locale: en
 legacySlug: my-orders-is-now-available-on-extension-store
 announcementImageID: ''
-announcementSynopsisEN: "Starting June 5, the use of the 'My Orders' page's extension will be required for all stores."
+announcementSynopsisEN: "Starting June 5, the use of the "My Orders" page's extension will be required for all stores."
 ---
 
 >ℹ️ As announced here, **My Orders extension** is already mandatory to all stores. Since **June 6**, it is available by default and is not accessible through VTEX's App Store anymore.

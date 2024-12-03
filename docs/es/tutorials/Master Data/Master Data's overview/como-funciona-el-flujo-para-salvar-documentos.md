@@ -17,7 +17,7 @@ subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 
 La siguiente imagen muestra el flujo para guardar documentos en Master Data. Vamos a explicar cada paso.
 
-![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master Data/Master Data's overview/como-funciona-el-flujo-para-salvar-documentos_1.png)
+![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data's%20overview/como-funciona-el-flujo-para-salvar-documentos_1.png)
 
 #### Guardar llamada de API
 Ocurre cuando el usuario llama a la API para guardar documentos (POST, PUT o PATCH).

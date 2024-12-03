@@ -27,4 +27,4 @@ A plataforma VTEX dá liberdade para que sua loja use essas configurações de d
 
 Mas, por enquanto, vamos nos ater ao cenário mais básico, ilustrado pela figura abaixo:
 
-![Logistics Concept](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/como-funciona-o-fluxo-de-entregas_1.png)
+![Logistics Concept](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping%20Strategy/como-funciona-o-fluxo-de-entregas_1.png)

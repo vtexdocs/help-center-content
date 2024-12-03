@@ -129,7 +129,7 @@ _canceling request example:_<br/>
 
 Change SKU and pricing, inventory, shipping and delivery SLA update:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_1.png)
 
 ### Insertion and SKU Update - Flow
 
@@ -441,7 +441,7 @@ When a product is inserted into the cart in the Marketplace that isn't VTEX, or 
 
 _Cart and Payment Request Flow:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_2.png)
 
 ### Cart Simulation
 
@@ -677,7 +677,7 @@ Access the attachment below:
 
 Marketplace that isn't VTEX to send an order and authorization to dispatch (proceed with the order fulfillment). If someone want a different commercial condition for the Marketplace that isn't VTEX, must be created a new commercial policy in the VTEX store, thus being able to create different promotions (discount, shipment, etc.), only to the desired affiliate. If there aren't a different commercial policy, must be used the commercial policy from the main store (sc = 1).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_3.PNG)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-marketplace-non-vtex-with-payment_3.PNG)
 
 <a name="a7"></a>
 ### Send Order

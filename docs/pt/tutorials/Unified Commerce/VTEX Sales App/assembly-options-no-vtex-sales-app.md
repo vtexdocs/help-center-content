@@ -37,9 +37,9 @@ Existem dois cenários nos quais é possível adicionar serviços a produtos pre
 
 3. Após finalizar o processo, é possível visualizar em seu carrinho o serviço que foi selecionado, com o valor total do pedido.
 
-![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/assembly-options-no-vtex-sales-app_1.png)
+![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/assembly-options-no-vtex-sales-app_1.png)
 
-![Carrinho - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/assembly-options-no-vtex-sales-app_2.png)
+![Carrinho - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/assembly-options-no-vtex-sales-app_2.png)
 
 **Cenário 2:** Seleção de múltiplos serviços
 
@@ -55,8 +55,8 @@ Existem dois cenários nos quais é possível adicionar serviços a produtos pre
 
 6. Clique no botão **Aplicar**.
 
-![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/assembly-options-no-vtex-sales-app_3.png)
+![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/assembly-options-no-vtex-sales-app_3.png)
 
-![Seguro - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/assembly-options-no-vtex-sales-app_4.png)
+![Seguro - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/assembly-options-no-vtex-sales-app_4.png)
 
-![Ordem pedido - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/assembly-options-no-vtex-sales-app_5.png)
+![Ordem pedido - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/assembly-options-no-vtex-sales-app_5.png)

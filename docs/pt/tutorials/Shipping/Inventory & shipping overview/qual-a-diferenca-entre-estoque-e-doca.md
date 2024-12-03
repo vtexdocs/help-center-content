@@ -25,7 +25,7 @@ __As três etapas da logística são representadas pela seguinte estrutura:__
 
 __E podem ser ilustradas pelo fluxo abaixo:__
 
-![PT Conceitos Logistics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory & shipping overview/qual-a-diferenca-entre-estoque-e-doca_1.png)
+![PT Conceitos Logistics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory%20&%20shipping%20overview/qual-a-diferenca-entre-estoque-e-doca_1.png)
 
 ## Estoque 
 É o espaço físico utilizado para a armazenagem das mercadorias de um e-commerce, funcionando como o repositório de disponibilidade dos itens da sua loja.

@@ -27,7 +27,7 @@ When SherlockBOT identifies a closed order that may indicate a malware, the reta
 
 See an example of this alert in the screenshot below:
 
-![sherlock (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/understanding-the-suspicious-purchase-notice-on-vtex-do_1.png)
+![sherlock (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/understanding-the-suspicious-purchase-notice-on-vtex-do_1.png)
 
 The retailer may also be included in the Gateway’s security barriers, that is, VTEX may apply protection rules to your store to protect it against credit card tests.  
 

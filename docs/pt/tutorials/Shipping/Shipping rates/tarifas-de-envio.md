@@ -19,7 +19,7 @@ As tarifas de envio são os custos de frete que sua loja oferece aos clientes, e
 
 >⚠️ O [custo final do envio](https://help.vtex.com/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV) para o cliente inclui tarifa de envio, [adicionais de frete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) e custo de doca com estoque.
 
-![Tarifa envio PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping rates/tarifas-de-envio_1.svg)
+![Tarifa envio PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping%20rates/tarifas-de-envio_1.svg)
 
 Pelo Admin VTEX, há duas maneiras de cadastrar as tarifas de envio:
 

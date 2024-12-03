@@ -1,9 +1,9 @@
 ---
 title: 'Apps'
-id: apps
+id: category-apps
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Others
 slugEN: category-apps
@@ -25,6 +25,7 @@ locale: es
 ## Customer Credit
 
 - [Customer Credit - Visión General](https://help.vtex.com/es/docs/tutorials/customer-credit-vision-general)
+- [Gestión de crédito a través de Customer Credit](https://help.vtex.com/es/docs/tutorials/gestion-crediticia-a-traves-del-customer-credit)
 
 ## Aplicación Affiliates Program
 

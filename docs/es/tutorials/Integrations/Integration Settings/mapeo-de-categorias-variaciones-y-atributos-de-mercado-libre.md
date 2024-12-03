@@ -170,7 +170,7 @@ Al concluir las etapas para rellenar la plantilla de mapeo, usted debe seguir lo
 1. Acceda al Admin.
 2. En el módulo Marketplace, haga clic en Integraciones.
 3. Seleccione la opción Configuración.
-4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/es/tutorials/Integrations/Integration Settings/mapeo-de-categorias-variaciones-y-atributos-de-mercado-libre_1.JPG" />
+4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Integration%20Settings/mapeo-de-categorias-variaciones-y-atributos-de-mercado-libre_1.JPG" />
 5. Elija la opción **Carga de mapeo**.
 6. Seleccione la opción **Elegir un archivo**.
 7. Ahora, seleccione la plantilla de mapeo de categorías, atributos y variaciones de Mercado Libre.

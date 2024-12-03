@@ -26,7 +26,7 @@ To configure this cache layer, follow the steps below:
 2. Click __Novo__ to create a new entity or the pencil icon of an existing entity if you want to edit it.
 3. Click the __Tempo de cache para consultas paginadas__ check box ("Cache time for paged queries") and choose the cache time for the entity.
 
-![cacheMD](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data Settings/setting-up-cache-for-queries-to-master-data_1.jpg)
+![cacheMD](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20Settings/setting-up-cache-for-queries-to-master-data_1.jpg)
 
 The cache time options are:
 - 5 hours

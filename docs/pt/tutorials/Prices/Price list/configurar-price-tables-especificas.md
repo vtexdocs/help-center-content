@@ -74,11 +74,11 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_1.png)
+![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/configurar-price-tables-especificas_1.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 
-![Lista de preços - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_2.png)
+![Lista de preços - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/configurar-price-tables-especificas_2.png)
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 
@@ -93,7 +93,7 @@ Quando um usuário da sua loja não está logado, os preços mostrados a ele sã
 Mas se o usuário estiver logado, ele verá os preços correspondentes à tabela de preços à qual o email dele estiver associado.
 
 Por exemplo, estes dois clientes estão atrelados a tabelas de preços diferentes:
-![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/configurar-price-tables-especificas_3.png)
+![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/configurar-price-tables-especificas_3.png)
 
 Quando o cliente Daniel, que está na tabela Silver, estiver logado na loja, ele verá os preços definidos nessa tabela. A mochila do exemplo acima aparecerá com o valor de R$ 50,00.
 Já o cliente Breno, que está na tabela Gold, verá os preços definidos nessa outra tabela. Para ele a mochila custará R$ 60,50.

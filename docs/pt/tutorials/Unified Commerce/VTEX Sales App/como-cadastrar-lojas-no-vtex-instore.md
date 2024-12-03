@@ -30,7 +30,7 @@ Esse guia auxilia o lojista a configurar sua loja para funcionar melhor com o VT
 
 Assim que o aplicativo é aberto pela primeira vez, ele pergunta qual é o nome da loja que será usada. Conforme a tela abaixo, basta digitar o nome da sua loja para ter as configurações carregadas para o app.
 
-![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-cadastrar-lojas-no-vtex-instore_1.png)
+![instore-identificacao-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-cadastrar-lojas-no-vtex-instore_1.png)
 
 ### Como cadastrar uma loja física
 
@@ -40,14 +40,14 @@ Para gerenciar o seu cadastro de lojas físicas basta acessar o seu Masterdata. 
 
 *Se você não encontrar essa aplicação significa que seu ambiente ainda não foi corretamente configurado. Para isso recomendamos o tutorial de configuração de ambiente para uso do inStore.*
 
-![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-cadastrar-lojas-no-vtex-instore_2.png)
+![masterdata-home-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-cadastrar-lojas-no-vtex-instore_2.png)
 
 Quando você clicar em *listar*, uma lista de lojas cadastradas irá aparecer como mostra a imagem abaixo. Clique em "Novo" para cadastrar uma nova loja.
 
-![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-cadastrar-lojas-no-vtex-instore_3.png)
+![cadastrar-loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-cadastrar-lojas-no-vtex-instore_3.png)
 
 Preencha os dados da loja no formulário e depois clique em "salvar".
 
-![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified Commerce/VTEX Sales App/como-cadastrar-lojas-no-vtex-instore_4.png)
+![cadastrar-loja-formulario](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-cadastrar-lojas-no-vtex-instore_4.png)
 
 Pronto. Sua loja está cadastrada! 😃 Agora você pode continuar cadastrando os vendedores! Veja [aqui](/pt/tutorial/como-cadastrar-vendedores-no-vtex-instore) como fazer.

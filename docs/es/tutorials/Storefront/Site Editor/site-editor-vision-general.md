@@ -23,7 +23,7 @@ El Site Editor es una interfaz gráfica para la gestión de contenidos de tu sto
 
 En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales herramientas disponibles en la interfaz gráfica.
 
-![Site Editor - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site Editor/site-editor-vision-general_1.png)
+![Site Editor - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site%20Editor/site-editor-vision-general_1.png)
 
 | **Herramienta**    | **Descripción** |
 | ----------        | ----------    |

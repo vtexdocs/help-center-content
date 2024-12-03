@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 No módulo de Gerenciamento de pedidos, a seção __Autorização de pedidos__ permite o controle e a aprovação de pedidos com divergências de preços na sua loja.
 
-![autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-funciona-a-autorizacao-de-pedidoss_1.png)
+![autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-funciona-a-autorizacao-de-pedidoss_1.png)
 
 As divergências de preços entre pedidos podem ser encontradas em dois principais cenários: 
 
@@ -35,15 +35,15 @@ As regras de autorização são atribuídas a uma faixa percentual à sua escolh
 
 - De 0% a 10% de variação de preço, o pedido será aprovado automaticamente
 
-![regra-1-autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-funciona-a-autorizacao-de-pedidoss_2.png)
+![regra-1-autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-funciona-a-autorizacao-de-pedidoss_2.png)
 
 - De 10% a 20% de variação de preço, o pedido será enviado para o usuário `usuario@exemplo.com.br` aprovar através de uma tarefa no VTEX DO
 
-![regra2-autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-funciona-a-autorizacao-de-pedidoss_3.png)
+![regra2-autorização-de-pedidos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-funciona-a-autorizacao-de-pedidoss_3.png)
 
 - De 20% a 100% de variação de preço, o pedido será negado automaticamente
 
-![regra3-autorização-de-pedidos pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-funciona-a-autorizacao-de-pedidoss_4.png)
+![regra3-autorização-de-pedidos pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-funciona-a-autorizacao-de-pedidoss_4.png)
 
 Para a configuração da segunda regra, será necessário o cadastro de usuários com [permissões](https://help.vtex.com/tutorial/como-criar-perfil-de-acesso--tutorials_526) para aprovação de pedidos. 
 

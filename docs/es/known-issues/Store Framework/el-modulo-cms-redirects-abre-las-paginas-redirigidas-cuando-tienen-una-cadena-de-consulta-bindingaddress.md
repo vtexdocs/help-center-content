@@ -22,7 +22,7 @@ internalReference: 1115321
 
 
 Cuando se navega por una tienda con una cadena de consulta de dirección vinculante (principalmente tiendas transfronterizas), y se intenta abrir una redirección específica a través del módulo CMS Redirects, la página no se abre. Esto ocurre porque la consulta realizada a rewriter cuenta la querystring como parte de la variable a buscar:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-modulo-cms-redirects-abre-las-paginas-redirigidas-cuando-tienen-una-cadena-de-consulta-bindingaddress_1.png)
 
 Esta búsqueda errónea conduce al KI: 729503 que afecta a las redirecciones construidas con cadenas de consulta.
 

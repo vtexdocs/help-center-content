@@ -33,7 +33,7 @@ Para todos os dados de variações de pedidos, e também para os números de evo
 
 >⚠️ Importante: se a comparação de pedidos é feita com base em 0 pedidos no passado, a variação é de 0%.
 
-![barra-de-status-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_1.png)
+![barra-de-status-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_1.png)
 
 ### Filtros
 
@@ -41,7 +41,7 @@ Permitem aplicar diversos filtros para ver somente a listagem de pedidos desejad
 
 - [Como filtrar pedidos](/pt/tutorial/como-filtrar-pedidos/)
 
-![botao-filtro-oms pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_2.png)
+![botao-filtro-oms pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_2.png)
 
 ### Barra de busca
 
@@ -49,7 +49,7 @@ Utilizada para fazer buscas sobres os termos encontrados no pedido, como número
 
 - [Como buscar pedidos](/pt/tutorial/como-buscar-o-pedido/)
 
-![barra-de-busca-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_3.png)
+![barra-de-busca-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_3.png)
 
 ### Barra de informações
 
@@ -59,7 +59,7 @@ Traz também o ranking de vendas da loja em relação a todas as outras lojas da
 
 - [Interpretando os dados da barra de pedidos na tela de Todos os Pedidos.](http://help.vtex.com/pt/tutorial/interpretando-os-dados-da-barra-de-pedidos-do-oms) 
 
-![barra-de-info-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_4.png)
+![barra-de-info-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_4.png)
 
 ### Botão de exportação
 
@@ -67,7 +67,7 @@ Utilizado para exportar os pedidos retornados na busca, sempre considerando os f
 
 - [Exportar pedidos em Gerenciamento de pedidos](http://help.vtex.com/pt/tutorial/exportando-pedidos-no-oms-2) 
 
-![botao-exportação-oms pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_5.png)
+![botao-exportação-oms pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_5.png)
 
 ### Lista de pedidos
 
@@ -75,7 +75,7 @@ Principal área de Gerenciamento de pedidos. Traz os últimos pedidos realizados
 
 - [Lista de pedidos](/pt/tutorial/lista-de-pedidos/)
 
-![todos-pedidos-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_6.png)
+![todos-pedidos-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_6.png)
 
 ### VTEX DO
 
@@ -83,7 +83,7 @@ Reúne tarefas pendentes pela loja e são geradas pelos diferentes módulos da V
 
 - [Como funciona a lista de tarefas do VTEX DO](http://help.vtex.com/pt/tutorial/vtex-do)
 
-![vtex-do-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_7.png)
+![vtex-do-oms pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_7.png)
 
 ## Assinaturas
 
@@ -101,5 +101,5 @@ A segunda aba, **Afiliados**, é destinada para configurações de afiliados em 
 
 - [Configurar Afiliado](http://help.vtex.com/pt/tutorial/como-configurar-afiliado/)
 
-![oms-configurações-gerais pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/estrutura-da-pagina-do-oms_8.png)
+![oms-configurações-gerais pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/estrutura-da-pagina-do-oms_8.png)
 

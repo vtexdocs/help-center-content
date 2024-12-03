@@ -103,7 +103,7 @@ Para instalar o aplicativo, acesse a App Store VTEX:
 
 >⚠️ As configurações feitas no campo Automatic Invoice serão aplicadas a todos os pedidos.
 
-![MCF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Amazon MCF App/aplicativo-amazon-multi-channel-fulfillment-mcf_1.PNG)
+![MCF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Amazon%20MCF%20App/aplicativo-amazon-multi-channel-fulfillment-mcf_1.PNG)
 
 ### Integração do catálogo
 

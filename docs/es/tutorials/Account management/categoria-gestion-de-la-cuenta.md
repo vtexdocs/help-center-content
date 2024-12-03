@@ -1,9 +1,9 @@
 ---
 title: 'Gestión de la cuenta'
-id: account-management
+id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -17,6 +17,8 @@ locale: es
 - [¿Cómo crear un rol financiero?](https://help.vtex.com/es/docs/tutorials/como-crear-un-rol-financiero)
 - [Roles de usuario predefinidos](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos)
 - [Recursos del License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager)
+- [Control de acceso](https://help.vtex.com/es/docs/tutorials/control-de-acceso)
+- [Crear nuevo rol](https://help.vtex.com/es/docs/tutorials/crear-nuevo-rol)
 
 ## Usuarios
 

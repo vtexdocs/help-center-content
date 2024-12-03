@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 Para entender melhor o significado de cada campo da planilha de cadastro de preço fixo, veja a descrição completa dos itens abaixo.
 
-![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/preencher-campos-da-planilha-de-importacao-de-precos-fixos_1.png)
+![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/preencher-campos-da-planilha-de-importacao-de-precos-fixos_1.png)
 
 - **SKU ID:** ID do SKU que deseja adicionar o preço fixo.
 - **Trade Policy:** nome ou ID da política comercial em que o preço fixo será aplicado.

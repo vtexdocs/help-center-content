@@ -25,7 +25,7 @@ __Las tres etapas de la logística se representan por la siguiente estructura: _
 
 __Pueden ser ilustradas por el flujo abajo: __
 
-![ES Conceitos Logistics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory & shipping overview/cual-es-la-diferencia-entre-inventario-y-muelle_1.png)
+![ES Conceitos Logistics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20&%20shipping%20overview/cual-es-la-diferencia-entre-inventario-y-muelle_1.png)
 
 ## Almacene
 Es el espacio físico utilizado para el almacenamiento de los productos de un e-commerce, funcionando como el repositorio de los ítems de su tienda.

@@ -43,7 +43,7 @@ Actualmente, VTEX ofrece un único formato de anuncio: productos patrocinados. E
 
 Consulta a continuación un ejemplo del modo de exhibición de este formato:
 
-![vtex_ad_network_sponsored_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX Ad Network/vtex-ad-network-beta_1.png)
+![vtex_ad_network_sponsored_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/VTEX%20Ad%20Network/vtex-ad-network-beta_1.png)
 
 Los retailers participantes en **VTEX Ad Network** podrán [configurar la cantidad de espacios para anuncios](https://help.vtex.com/es/tutorial/anunciando-com-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#crear-campana) que disponibilizarán en cada uno de estos contextos en la tienda.
 

@@ -26,28 +26,28 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 A VTEX busca usar uma stack moderna para criar produtos que atendam cada vez melhor ao mercado de e-commerce. Por essa razão, começamos a usar a library React JS em nossas features mais recentes: a nova página de **Meus Pedidos** é um exemplo. Ela vem com novas features e novo design, e foi criada do zero usando React. 
 
-![Tela de listagem do novo Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_1.png)
+![Tela de listagem do novo Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_1.png)
 
 ### Nova experiência de navegação
 
 O React não foi escolhido apenas para ficar alinhado com a nova plataforma da VTEX — por ser uma single-page application carregada dentro da loja, a nova área de pedidos possui uma navegação suave, com uma experiência muito melhor para o usuário.
 
-![Navegação Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_2.gif)
+![Navegação Meus Pedidos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_2.gif)
 
 ### Features
 
 Este update no Meus Pedidos vai servir de ponto de partida para novas features nesta seção, mas já traz melhorias nesta primeira versão, como layout mobile-ready e timeline do pedido — que muitas agências implementavam como customização.
 
-![Meus Pedidos mobile & desktop](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_3.png) 
+![Meus Pedidos mobile & desktop](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_3.png) 
 
-![Detalhes do Pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_4.png) 
+![Detalhes do Pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_4.png) 
 
 
 Outra nova feature são as razões pré-definidas de cancelamento, que o cliente pode escolher caso não queria escrever uma razão. Estas opções podem ser facilmente customizadas e traduzidas nas configurações do Portal v2:
 
-![Cancelamento do pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_5.png) 
+![Cancelamento do pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_5.png) 
 
-![Customizando razões de cancelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_6.png)
+![Customizando razões de cancelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_6.png)
 
 Pela primeira vez, estamos suportando também tradução nativa do My Orders para francês!
 
@@ -55,7 +55,7 @@ Pela primeira vez, estamos suportando também tradução nativa do My Orders par
 
 Para não causar problemas de compatibilidade e quebrar customizações, a nova seção de Meus Pedidos vem com um opt-in, que permite que as lojas inicialmente migrem na velocidade em que desejarem. Este opt-in fica no Portal v2, na mesma seção que a customização de razões de cancelamento:
 
-![Opt-in para ativar a nova versão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/nova-secao-de-meus-pedidos_7.png)
+![Opt-in para ativar a nova versão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/nova-secao-de-meus-pedidos_7.png)
 
 Antes de ativar a nova versão, é possível vê-lá acessando a sua loja pelo ambiente beta (accountname.vtexcommercestable.com.br/account/orders).
 

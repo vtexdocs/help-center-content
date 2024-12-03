@@ -31,7 +31,7 @@ O consumidor realiza o agendamento por meio de um formulário preparado pela Ind
 
 O fluxo de agendamento percorrido pelo cliente se inicia na escolha da loja física onde ele deseja ser atendido. Na imagem abaixo, vemos apenas uma loja cadastrada. Mas você pode cadastrar quantas lojas físicas desejar.
 
-![indeva1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_1.png)
+![indeva1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_1.png)
 
 >ℹ️ É possível também fornecer ao cliente um link que conduz diretamente ao formulário de uma loja física específica. Basta adicionar o ID da loja ao final da URL. Dessa forma, o vendedor pode compartilhar o link de sua loja – por exemplo, por meio de um QR Code ou nas mídias sociais.
 
@@ -46,7 +46,7 @@ Ao clicar na loja desejada, o cliente é levado ao formulário. Ali, ele encontr
 
 Por fim, basta o cliente clicar em Agendar horário. Com isso, essa visita entrará na fila de agendamentos mostrados pelo aplicativo dos vendedores.
 
-![indeva2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_2.png)
+![indeva2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_2.png)
 
 <div class=”alert alert-warning”>
 Por enquanto, a confirmação do agendamento deve ser feita manualmente pela loja. O cliente não receberá nenhuma mensagem automática.
@@ -56,13 +56,13 @@ Por enquanto, a confirmação do agendamento deve ser feita manualmente pela loj
 
 A app do Indeva Store organiza a fila de agendamentos realizados para cada loja física. Ele pode ser usado por vendedores ou gerentes para controle tanto dos próximos agendamentos quanto para visualização do histórico de visitas já atendidas.
 
-![indeva3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_3.png)
+![indeva3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_3.png)
 
 Ao clicar em um agendamento específico, o vendedor tem acesso aos detalhes desse agendamento: data e horário da visita, nome do cliente, mensagem enviada por ele, quantidade de pessoas e o número de telefone do cliente.
 
 Se quiser entrar em contato com o cliente a partir dessa tela, o vendedor pode clicar no botão Abrir Whatsapp. Ele será levado diretamente para uma conversa com aquele cliente específico no aplicativo de mensagens.
 
-![indeva4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_4.png)
+![indeva4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_4.png)
 
 <div class=”alert alert-info”>
 O aplicativo pode ser instalado em diversos dispositivos da mesma loja, mas recomendamos que sua equipe use um aplicativo por loja, e não por vendedor.
@@ -113,7 +113,7 @@ O app para os vendedores e gerentes da loja está disponível tanto para Android
 
 Após instalar e abrir o aplicativo, o vendedor deverá informar o token de 10 dígitos da loja para sincronizar o dispositivo e fazer o login.
 
-![indeva5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_5.png)
+![indeva5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-e-usar-o-atendimento-agendado-da-indeva_5.png)
 
 Para receber o token, entre em contato com o time da Indeva pelos canais de suporte:
 - __Telefone__: (21)3609-2830

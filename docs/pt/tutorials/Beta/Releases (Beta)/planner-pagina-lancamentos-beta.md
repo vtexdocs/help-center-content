@@ -31,7 +31,7 @@ A ordenação dos lançamentos agendados é feita com base na data de publicaç�
 
 Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegação **Lançamentos**. A imagem a seguir apresenta a interface e identifica o que você pode realizar por meio dela:
 
-![Releases list view v2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Releases (Beta)/planner-pagina-lancamentos-beta_1.png)
+![Releases list view v2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Releases%20(Beta)/planner-pagina-lancamentos-beta_1.png)
 
 | **Campo** | **Descrição** |
 |---|---|

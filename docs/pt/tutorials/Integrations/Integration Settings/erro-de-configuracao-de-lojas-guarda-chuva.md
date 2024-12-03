@@ -27,7 +27,7 @@ Nesse cenário, caso um cliente do Mercado Livre faça uma compra com dois ou ma
 
 A VTEX não recomenda esse tipo de configuração porque os pedidos nesse cenário não irão integrar.
 
-![cenario problema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/erro-de-configuracao-de-lojas-guarda-chuva_1.JPG)
+![cenario problema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/erro-de-configuracao-de-lojas-guarda-chuva_1.JPG)
 
 Entretanto, existem dois cenários na integração das lojas VTEX com o Mercado Livre que podem evitar que esse conflito aconteça. Para isso é necessário que sua loja tenha as seguintes configurações:
 
@@ -40,7 +40,7 @@ O seller utiliza uma única subaccount na VTEX e integra com uma única conta no
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no carrinho das diferentes lojas oficiais da conta do seller, o pedido será importado na VTEX sem problemas. Isso acontece porque os produtos que estão sendo anunciados no Mercado Livre fazem parte do catálogo de uma única subaccount VTEX.
 
-![cenario ideal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/erro-de-configuracao-de-lojas-guarda-chuva_2.JPG)
+![cenario ideal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/erro-de-configuracao-de-lojas-guarda-chuva_2.JPG)
 
 ## Múltiplas subaccounts VTEX e múltiplas lojas oficiais
 
@@ -48,4 +48,4 @@ O seller VTEX possui duas ou várias sub accounts e utiliza cada uma delas para 
 
 Nesse cenário, caso um usuário faça uma compra no Mercado Livre com dois ou mais produtos no mesmo carrinho pertencentes a subaccounts diferentes, os pedidos serão integrados normalmente em cada sub account na VTEX. Isso ocorre já que cada pedido gerado no Mercado Livre está vinculado a uma subaccount diferente na VTEX, portanto  os produtos vendidos coincidem com o catálogo de cada subaccount.
 
-![cenario atual](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/erro-de-configuracao-de-lojas-guarda-chuva_3.JPG)
+![cenario atual](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/erro-de-configuracao-de-lojas-guarda-chuva_3.JPG)

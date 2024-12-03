@@ -19,7 +19,7 @@ If you want regular promotion to be applied only for a limited number of times,
 
 >⚠️ Orders with status `Canceling` or `Canceled` do not count in the defined limit.
 
-![promotion-with-restriction-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/how-to-create-a-promotion-with-limitation-of-use_1.png)
+![promotion-with-restriction-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/how-to-create-a-promotion-with-limitation-of-use_1.png)
 
 You can also set the limit per customer, rather than a general usage limit. To do so, simply perform the configuration above, then click on **Enable usage limit per customer**.
 

@@ -21,7 +21,7 @@ Seguindo a [Atualização de 2015 da Especificação do feed do Google Shopping 
 
 A configuração padrão de nosso formulário de XML já está com as tags atualizada, para criar um novo feed Google Merchant / Shopping basta selecionar a opção “Feed: Atom 1”:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_1.gif)
 
 Para a correta integração com o Google Merchant / Shopping será necessário atualizar o xml com os novos campos a partir do dia 15 de setembro de 2015.
 
@@ -31,7 +31,7 @@ Conheça os novos campos do formulário de XML:
 
 Opção responsável pela definição da taxonomia dos campos “Categoria” e “Departamento + Categoria”. Comumente utilizado para o preenchimanto da tag [g:product\_type].
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_2.gif)
 
 Padrão (Ex: Categoria Pai - Categoria Filha - Categoria Neta)
 
@@ -47,7 +47,7 @@ Campo responsável pelo relacionamento das categorias de sua loja com as categor
 
 Deverá ser preenchido com a tag [g:google\_product\_category]
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_3.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google_3.gif)
 
 Para o correto funcionamento desse campo é necessário verificar se o produto tem o campo **Categorial Global** preenchido no catálogo VTEX.
 

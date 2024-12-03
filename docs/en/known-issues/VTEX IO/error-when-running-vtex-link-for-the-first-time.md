@@ -29,7 +29,7 @@ The error authorization message can change from `node`to `react` according to th
 1.  Install the VTEX CLI (Toolbelt)
 2.  Navigate towards the app's directory
 3.  Execute the "vtex-link" command through the terminal.
-4.  ![image (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/VTEX IO/error-when-running-vtex-link-for-the-first-time_1.png)
+4.  ![image (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/VTEX%20IO/error-when-running-vtex-link-for-the-first-time_1.png)
 
 ## Workaround
 

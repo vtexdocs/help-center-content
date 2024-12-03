@@ -19,11 +19,11 @@ Editing the fields that appear as mandatory in __Profile System__ in __Master Da
 1. In the admin menu, select the __Master Data__ module.
 2. Make sure that you're in the __Applications__ tab, in __Quick Links__.
 3. Click on settings in __Profile System__.
-![MasterDataTutorial 1 UM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/i-cant-edit-a-required-field-on-master-data_1.jpg)
+![MasterDataTutorial 1 UM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/i-cant-edit-a-required-field-on-master-data_1.jpg)
 4. Click on the __pencil__ next to the item you wish to configure.
-![MasterDataTutorial2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/i-cant-edit-a-required-field-on-master-data_2.png)
+![MasterDataTutorial2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/i-cant-edit-a-required-field-on-master-data_2.png)
 5. Click on __Layout Outlines__.
 6. In __Section 1__, choose the item of the field you wish to configure.
-7. In __Advanced field settings, select __Mandatory Field__ on the form. ![MasterDataTutorial3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/i-cant-edit-a-required-field-on-master-data_3.png)
+7. In __Advanced field settings, select __Mandatory Field__ on the form. ![MasterDataTutorial3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/i-cant-edit-a-required-field-on-master-data_3.png)
 The option may be changed whenever it may be necessary. 
 

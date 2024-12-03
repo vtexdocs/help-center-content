@@ -26,7 +26,7 @@ Esta página permite que você realize as seguintes ações:
 * [Filtrar pedidos](#filtrar-pedido)
 * [Exportar pedidos](#exportar-pedidos)
 
-![pick-and-pack-pedidos-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-pedidos_1.png)
+![pick-and-pack-pedidos-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-pedidos_1.png)
 
 A página apresenta as seguintes informações em uma tabela: 
 
@@ -54,7 +54,7 @@ Você pode otimizar a consulta de pedidos a partir das seguintes abas:
 
 Você também pode acessar informações mais detalhadas sobre cada pedido clicando no respectivo pedido na tabela.
 
-![pick-and-pack-pedidos-2-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-pedidos_2.png)
+![pick-and-pack-pedidos-2-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-pedidos_2.png)
 
 Ao selecionar o pedido desejado, você terá acesso às seguintes informações:
 
@@ -89,5 +89,5 @@ Você pode exportar os pedidos seguindo os passos abaixo:
 1. Clique em `Exportar`.
 2. Selecione os dados que deseja exportar: `Relatório de pacotes` ou `Orders Reports`.
     * No caso de `Relatório de pacotes`, você deve selecionar o período que deseja exportar, o tipo e o método de envio.
-  ![pick-and-pack-pedidos-3-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-pedidos_3.png)
+  ![pick-and-pack-pedidos-3-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-pedidos_3.png)
 3. Clique em `Exportar`.

@@ -3,8 +3,8 @@ title: 'O cálculo do frete leva em consideração o brinde?'
 id: frequentlyAskedQuestions_6579
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.736Z
-updatedAt: 2024-08-16T18:19:25.128Z
-publishedAt: 2024-08-16T18:19:25.128Z
+updatedAt: 2024-11-11T16:42:52.873Z
+publishedAt: 2024-11-11T16:42:52.873Z
 firstPublishedAt: 2019-01-24T22:12:48.434Z
 contentType: tutorial
 productTeam: Post-purchase

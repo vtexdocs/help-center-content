@@ -33,7 +33,7 @@ Por eso creamos el Credit Control - para que el control de crédito sea hecho de
 
 ## Como funciona
 
-![Credit Control basic flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Customer Credit/credit-control-vision-general_1.gif)
+![Credit Control basic flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Customer%20Credit/credit-control-vision-general_1.gif)
 *Flujo básico de cómo funciona el Credit Control en las tiendas VTEX.*
 
 1. La tienda enciende el conector de control de crédito y realiza las configuraciones iniciales.

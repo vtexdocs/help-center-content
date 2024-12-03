@@ -47,11 +47,11 @@ Também encontrei algo curioso na página do departamento com pageView e page_vi
 
 https://storetheme.vtex.com/apparel---accessories/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_1.png)
 
 Porém, esse problema específico pode ser replicado em
 
 https://www.dzarm.com.br/outlet
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_2.png)
 

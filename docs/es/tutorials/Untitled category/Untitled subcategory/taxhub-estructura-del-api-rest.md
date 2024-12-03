@@ -52,7 +52,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubAPIGetTax](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_1.jpg)
+![TaxHubAPIGetTax](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_1.jpg)
 
 __2 Occupation Area__
 
@@ -99,7 +99,7 @@ Response:
 ```
  
 Evidence:
-![TaxHubOccupationArea](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_2.jpg)
+![TaxHubOccupationArea](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_2.jpg)
 
 __3 FiscalRegion__
 
@@ -137,7 +137,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubFiscalRegion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_3.jpg)
+![TaxHubFiscalRegion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_3.jpg)
 
 __4	CustomerCode__
 - Host: http://api.beta.vtex.com
@@ -172,7 +172,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubCustomerCode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_4.jpg)
+![TaxHubCustomerCode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_4.jpg)
 
 __5	ItemCode__
 
@@ -208,7 +208,7 @@ Response:
 
 Evicence:
 
-![TaxHubItemCode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_5.jpg)
+![TaxHubItemCode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_5.jpg)
 
 __6 Aliquot__
 - Host: http://api.beta.vtex.com
@@ -245,7 +245,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubAliquot](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_6.jpg)
+![TaxHubAliquot](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_6.jpg)
 
 __7 TaxValue__
 
@@ -294,6 +294,6 @@ Response:
 ```
  
 Evidence:
-![TaxHubTaxValue](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/taxhub-estructura-del-api-rest_7.jpg)
+![TaxHubTaxValue](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/taxhub-estructura-del-api-rest_7.jpg)
 
 [Continua con TaxHub Estructura de App en JS](/es/tutorial/taxhub-estructura-de-app-en-js)

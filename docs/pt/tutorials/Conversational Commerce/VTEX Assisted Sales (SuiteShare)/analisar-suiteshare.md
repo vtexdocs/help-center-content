@@ -23,11 +23,11 @@ Para começar a utilizar o “**Analisar**” você precisa ter pelo menos um li
 
 Acesse dentro do painel da **VTEX Assisted Sales (SuiteShare)** a opção de _**“Analisar”**_. 
 
-![Analisar 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_1.png)
+![Analisar 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_1.png)
 
 Acessando o painel, você terá as seguintes opções:
 
-![Analisar 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_2.png)
+![Analisar 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_2.png)
 
 **1 Geral:** Uma análise geral de todos os links criados na sua conta sem diferenciar por links.
 
@@ -43,30 +43,30 @@ Clicando em geral ou no link você terá o seguinte relatório: 
 
 ## Opção de filtrar por período
 
-![Analisar 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_3.png)
+![Analisar 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_3.png)
 
 **Estatísticas total, mês, semana e dia.** 
 
-![Analisar 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_4.png)
+![Analisar 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_4.png)
 
 E o Tracking que está relacionado aos períodos. Você mudando os períodos altera o gráfico abaixo.
 
-![Analisar 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_5.png)
+![Analisar 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_5.png)
 
 **Você também tem o relatório geográfico dividido por Países, Estados e Cidades.** 
 
-![Analisar 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_6.png)
+![Analisar 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_6.png)
 
 **Referência de onde veio os cliques** - Sites (domínios) onde os seus clientes viram seus links e clicaram (aqui você descobrirá qual rede social ou canal de aquisição que você compartilhou os seus link ou utiliza seu chat e está tendo melhor conversão). Agora também é possível monitorar os acessos via QRcode.
 
-![Analisar 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_7.png)
+![Analisar 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_7.png)
 
 **Páginas URL de onde vieram os acessos** - Inclusive os QRcodes. 
 
-![Analisar 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_8.png)
+![Analisar 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_8.png)
 
 - **Navegadores** (Chrome, Firefox, Safari e etc) e **Dispositivos** (Desktop - Windows, Macbook, Mobile - Android e IOS) utilizados pelos usuários.
 
-![Analisar 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/analisar-suiteshare_9.png)
+![Analisar 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/analisar-suiteshare_9.png)
 
 Pronto, agora você já sabe analisar os seus dados.

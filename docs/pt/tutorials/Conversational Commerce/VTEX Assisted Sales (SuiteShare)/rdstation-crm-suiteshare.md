@@ -19,22 +19,22 @@ Com essa integração é possível criar oportunidades via VTEX Assisted Sales (
 
 Para realizar está integração, clique na engrenagem que se encontra no canto superior direito e em seguida clique em **"Integrações"**.
 
-![RdStation CRM 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/rdstation-crm-suiteshare_1.png)  
+![RdStation CRM 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/rdstation-crm-suiteshare_1.png)  
 
 Após clicar em integrações, localize o RD Station CRM e Clique em Habilitar.
 
-![RdStation CRM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/rdstation-crm-suiteshare_2.png)
+![RdStation CRM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/rdstation-crm-suiteshare_2.png)
 
 Após clicar em Habilitar, selecione o link de [Captura](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que irá integrar os dados para dentro do RD Station CRM.
 
-![RdStation CRM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/rdstation-crm-suiteshare_3.png)
+![RdStation CRM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/rdstation-crm-suiteshare_3.png)
 
 Em seguida, insira o seu Token. Caso esteja com dificuldades para encontrar o seu token, [Clique Aqui](\"https://crmsupport.rdstation.com.br/hc/pt-br/articles/360018468312-O-que-%C3%A9-Token-Como-ativ%C3%A1-lo-\").
 
-![RdStation CRM 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/rdstation-crm-suiteshare_4.png)
+![RdStation CRM 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/rdstation-crm-suiteshare_4.png)
 
 Após inserir o seu token, Preencha o campo usuário de acordo com qual usuário deve receber os leads dentro do CRM.
 
-![RdStation CRM 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/rdstation-crm-suiteshare_5.png)
+![RdStation CRM 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/rdstation-crm-suiteshare_5.png)
 
 Pronto, seus leads Capturados serão integrados para o RD CRM.

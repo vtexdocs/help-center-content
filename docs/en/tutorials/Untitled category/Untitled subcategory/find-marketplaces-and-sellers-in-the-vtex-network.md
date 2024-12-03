@@ -21,7 +21,7 @@ Note that Marketplace Network is a tool that promotes interaction between potent
 
 ## Finding Sellers and Marketplaces
 
-![Marketplace network tour EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/find-marketplaces-and-sellers-in-the-vtex-network_1.gif)
+![Marketplace network tour EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/find-marketplaces-and-sellers-in-the-vtex-network_1.gif)
 To see the list of available marketplaces and sellers, go to *Marketplace > Marketplace Network > Find Sellers / Find Marketplaces*. On both pages, you can search by keyword and filter the list for more exact results, as well as contact potential partners.
 
 ## Contact
@@ -41,7 +41,7 @@ To contact a member:
 >ℹ️ The potential business partner will receive an email with the information you entered. If both parties are interested, the person in charge of the seller or marketplace may contact you and negotiate a marketplace and seller agreement.
 
 ## Store Profile
-![Network profile EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/find-marketplaces-and-sellers-in-the-vtex-network_2.gif)
+![Network profile EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/find-marketplaces-and-sellers-in-the-vtex-network_2.gif)
 
 1. In the *Marketplace* section of your store, click __Marketplace Network__.      
 2. Click the __Store Profile__ page.      

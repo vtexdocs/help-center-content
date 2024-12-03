@@ -3,8 +3,8 @@ title: 'Entidad de datos'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z
-updatedAt: 2024-06-21T21:12:23.798Z
-publishedAt: 2024-06-21T21:12:23.798Z
+updatedAt: 2024-10-23T23:39:13.110Z
+publishedAt: 2024-10-23T23:39:13.110Z
 firstPublishedAt: 2017-04-27T23:03:49.803Z
 contentType: tutorial
 productTeam: Master Data
@@ -19,7 +19,7 @@ Una entidad de datos es una representación de un conjunto de información sobre
 
 Para ilustrarlo, imaginemos un sistema de control de bibliotecas. Este sistema controla los libros que los clientes pueden tomar prestados. En este ejemplo, los conceptos libro, cliente y préstamo (alquiler) son entidades que poseen informaciones sobre cada una de ellas. Una entidad de datos, por lo tanto, es un grupo de información sobre un determinado concepto.
 
-![data-entity-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master Data/Master Data basics/entidade-de-datos_1.png)
+![data-entity-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20basics/entidade-de-datos_1.png)
 
 Estos conceptos permiten configurar los más diversos escenarios de control de datos en Master Data. De forma predeterminada, se ingresan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Puedes crear todas las entidades de datos que desees para personalizar el entorno de acuerdo con las necesidades de cada tienda.
 
@@ -102,5 +102,7 @@ Sigue los pasos a continuación para configurar una nueva entidad de datos.
 
 19. En la fila de la nueva entidad, haz clic en el botón de disquete <i class="fas fa-save"></i> para publicar la entidad de datos creada.
 20. Haz clic en `OK`.
+21. Haz clic en la pestaña **Aplicaciones** para volver a la página de inicio de Master Data.  
+22.	Haz clic en `Volver a cargar aplicaciones`.
 
 >ℹ️ Después de crear la entidad de datos, debes [crear el formulario para agregar, editar y mostrar los datos en Master Data](https://help.vtex.com/es/tutorial/creando-formulario-en-master-data--tutorials_1047).

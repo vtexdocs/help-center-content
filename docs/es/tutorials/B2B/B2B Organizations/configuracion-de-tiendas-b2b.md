@@ -26,7 +26,7 @@ Consulta en esta página los pasos para realizar la configuración general de tu
 - __Use modal to switch company:__ esta opción mejorará la experiencia del usuario al facilitar el mantenimiento de las tiendas. 
 - __Clear cart when switching company or logging in:__ al seleccionar esta opción, si cambias de tienda o inicias sesión en otras cuentas se limpiará el carrito automáticamente.
 ## Términos de pago
-![Tiendas B2B - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B Organizations/configuracion-de-tiendas-b2b_1.jpg)
+![Tiendas B2B - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B%20Organizations/configuracion-de-tiendas-b2b_1.jpg)
 Puedes agregar medios de pago seleccionándolos según las necesidades de tu negocio.   
 Ejemplo: tarjeta de crédito, débito o pagarés. 
 ## Tablas de precios
@@ -35,7 +35,7 @@ Puedes agregar un patrón predeterminado de precios para las tiendas añadidas. 
 ## Políticas comerciales
 
 Puedes vincular tu tienda directamente con políticas comerciales y canales de venta.
-![Tiendas B2B -  Políticas comerciais ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B Organizations/configuracion-de-tiendas-b2b_2.jpg)
+![Tiendas B2B -  Políticas comerciais ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/B2B%20Organizations/configuracion-de-tiendas-b2b_2.jpg)
 
 1. En la lista **Políticas comerciales disponibles**, haz clic en la política comercial que deseas incluir en tu tienda y luego haz clic en `Agregar a política comercial`; esta se mostrará en la lista **Políticas comerciales seleccionadas**.
 2. Haz clic en `Guardar` al finalizar los ajustes.

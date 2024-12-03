@@ -32,7 +32,7 @@ After the variations and the store marketing structure be defined, the next step
 
 _Flow:_
 
-![image (4)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP integration/integration-guide-for-erps-express-catalog_1.png)
+![image (4)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP%20integration/integration-guide-for-erps-express-catalog_1.png)
 
 ### Product
 

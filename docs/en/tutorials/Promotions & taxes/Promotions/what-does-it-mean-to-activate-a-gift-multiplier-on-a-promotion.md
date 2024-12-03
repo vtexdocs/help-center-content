@@ -24,4 +24,4 @@ When configuring a **Buy one and Get one** promotion, it’s possible to **Activ
 For both scenarios it is necessary to fill out the maximum selectable quantity. With the **active** gift multiplier, choose the **maximum quantity** of gifts for the condition. For the **inactive** gift multiplier, the quantity is **always 1**.
 
 
-![ativar-multiplicador-brinde en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion_1.png)
+![ativar-multiplicador-brinde en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion_1.png)

@@ -28,7 +28,7 @@ Dentro de las opciones de **Planes** para las suscripciones, tenemos una funcion
 
 Para la importación, la hoja de cálculo base indicada muestra dos columnas con ejemplos de los valores que se deben colocar. En la primera columna el ID de la SKU y en la segunda el valor que define si esta SKU está asociada o no. A continuación se muestra un ejemplo de cómo se muestra:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Order Management/el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Order%20Management/el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus_1.png)
 
 En este caso, el problema se produce porque **nuestro servicio** **actualmente sólo acepta un valor numérico en la columna "asociado "**, es decir, sólo **0 para falso** o **1 para verdadero**. Al cargar la hoja de cálculo con texto en la columna "**asociado**", el plan permanecerá en el estado "**importando**" indefinidamente, lo que actualmente bloquea la posibilidad de editar o cargar una nueva hoja de cálculo.
 
@@ -52,7 +52,7 @@ Para simularlo, puedes:
 
 Para evitar este comportamiento, se recomienda **cargar la hoja de cálculo con el formato numérico indicado (0 o 1) en la columna "asociado "** y asegurarse de que esta celda está efectivamente en formato numérico. He aquí un ejemplo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Order Management/el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Order%20Management/el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus_2.png)
 
 En caso de que el plan esté "bloqueado", la idea es que por el momento se abra un ticket para que el equipo de **Gestión de Pedidos**, intente "desbloquear" el Plan específico.
 

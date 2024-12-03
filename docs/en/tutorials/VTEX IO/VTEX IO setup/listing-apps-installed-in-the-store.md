@@ -26,6 +26,6 @@ You will see a table with the following columns:
 - __Version__: version of the app.
 - __Linked__: whether or not the app is linked.
 
-![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX IO/VTEX IO setup/listing-apps-installed-in-the-store_1.png)
+![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/VTEX%20IO/VTEX%20IO%20setup/listing-apps-installed-in-the-store_1.png)
 
 There are no limits for apps that can be created for an account.

@@ -86,7 +86,7 @@ A promotion is scheduled when it is created (or modified) with a valid date and 
 
 These promotions can be easily identified on the main Promotions page: they have an orange stripe with the word scheduled in the upper right corner of the card, as shown below.
 
-![scheduleded](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/creating-promotions_1.png)
+![scheduleded](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-promotions_1.png)
 
 To schedule a promotion, follow the steps described in the [Scheduling promotions](https://help.vtex.com/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-promotions) section of the article [Scheduling features for special events](https://help.vtex.com/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI).
 

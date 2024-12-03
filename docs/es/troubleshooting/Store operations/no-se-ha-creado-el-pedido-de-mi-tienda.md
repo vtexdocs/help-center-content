@@ -3,8 +3,8 @@ title: 'No se ha creado el pedido de mi tienda'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-07-18T20:56:20.706Z
-publishedAt: 2024-07-18T20:56:20.706Z
+updatedAt: 2024-11-08T18:57:41.671Z
+publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: no-se-ha-creado-el-pedido-de-mi-tienda
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:** pedido, integración de pedidos, integración XML, configuración de productos, stock negativo, sku sin stock, sku agotado.
+**Tags:** Pedidos, Integración, Integración XML, Producto, Stock
 
 Cuando un cliente intenta realizar una compra y se produce un error al crear el pedido, esto puede deberse a varias razones, como problemas relacionados con el pago, logística o [integración del backend](https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con sistemas ERP (sistemas de planificación de recursos empresariales).
 
@@ -41,7 +41,7 @@ Hay dos formas de gestionar el [stock](https://help.vtex.com/es/tutorial/invento
 Las siguientes soluciones se centran en la gestión del stock a través del Admin VTEX:
 
 * **Actualizar recuento de stock:** en la fila correspondiente al SKU y almacén deseados, en la columna _Actualizar recuento_, ingresa el número de ítems disponibles para la venta y haz clic en `Guardar`. Este número debe ser positivo; lo contrario resultaría en un [stock negativo](https://help.vtex.com/es/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
-* **Configurar stock ilimitado:** en la fila correspondiente al SKU y almacén deseados, en la columna Stock infinito, haz clic en el botón de activación y después en `Guardar`. Cuando se activa esta configuración, el ítem se considera siempre disponible para la venta y la tienda nunca presentará productos sin stock (agotados).
+* **Configurar stock ilimitado:** en la fila correspondiente al SKU y almacén deseados, en la columna _Stock ilimitado_, haz clic en el botón de activación y después en `Guardar`. Cuando se activa esta configuración, el ítem se considera siempre disponible para la venta y la tienda nunca presentará productos sin stock (agotados).
 
 >ℹ️ Para realizar la configuración y que los productos sin stock (agotados) se muestren en tu storefront, accede al **Admin VTEX > Catálogo > Todos los productos** y en la página de configuración del producto, en la pestaña **Producto**, marca la opción **Sí** en el campo <i>Mostrar producto sin stock (agotado)</i>.
 

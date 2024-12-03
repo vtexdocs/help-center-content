@@ -42,40 +42,40 @@ If you enable the option **Apply discount only to the cheapest shipping rate**, 
 If the store configures the __Pickup__ shipping strategy, which costs R$ 0.00 for the customer, the promotion may consider this value as the lowest and not apply the discount to the shipping fees. To ensure that the promotion works as expected, applying the free shipping discount to the shipping fees, select all methods in the box except __Pickup in Store__.
 
 #### Configuration
-![Apply the discount only to the cheapest shipping option - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_1.png)
+![Apply the discount only to the cheapest shipping option - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_1.png)
 
 #### Result
-![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_2.png)
+![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_2.png)
 
 ### Scenario 2
 
 If you disable the option **Apply discount only to the cheapest shipping rate**, the discount will be applied to all available shipping rates.
 
 #### Configuration
-![Nenhum frete selecionado - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_3.png)
+![Nenhum frete selecionado - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_3.png)
 
 #### Result
-![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_4.png)
+![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_4.png)
 
 ### Scenario 3
 
 If you enable only the **Shipping Method** option and select the shipping types you want, the shipping discount will be applied to all selected shipping types.
 
 #### Configuration
-![Shipping Method - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_5.png)
+![Shipping Method - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_5.png)
 
 #### Result
-![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_6.png)
+![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_6.png)
 
 ### Scenario 4
 
 If you enable the options **Shipping Method** and **Apply discount only when one of the above carriers is selected by the customer** and select the shipping types you want, the shipping discount will be applied to all selected shipping types only when the customer chooses the shipping type at checkout.
 
 #### Configuration
-![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_7.png)
+![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_7.png)
 
 #### Result
-![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/configuring-shipping-promotions_8.png)
+![saggin frete ingles.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/configuring-shipping-promotions_8.png)
 
 In summary, the purpose of the option **Apply discount only when one of the above carriers is selected by the customer** is to apply the discount only when the carrier is selected.
 

@@ -43,7 +43,7 @@ After creating a cluster, you must include a rule in the trade policy allowing a
 3. In the **Conditional Rule** field, enter the value **ClusterName=”true”**. Note that the value **ClusterName** must be changed to the name of the field in the data entity.
 4. Click on the **Save** button.
 
-![Catalog EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Customer relations management/limiting-access-to-the-store-by-means-of-the-trade-policy_1.png)
+![Catalog EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Customer%20relations%20management/limiting-access-to-the-store-by-means-of-the-trade-policy_1.png)
 
 In the above configuration, only customers with the value “true” (using a Boolean field – where values are either true or false) can access the site.
 

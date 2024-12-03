@@ -35,7 +35,7 @@ _classe.atributo_ são obtidos do JSON. No MessageCenter exibimos o JSON espec�
 **HTML do template**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message center/Templates/configurando-funcoes-nos-templates-do-message-center_1.png)
+![exemplohtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/configurando-funcoes-nos-templates-do-message-center_1.png)
 
 Para o exemplo acima, uma loja seller pode possuir um hostname diferente de uma loja marketplace. Sempre leve em conta as suas configurações!
 
@@ -131,4 +131,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Resultado:**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message center/Templates/configurando-funcoes-nos-templates-do-message-center_2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/configurando-funcoes-nos-templates-do-message-center_2.jpg)

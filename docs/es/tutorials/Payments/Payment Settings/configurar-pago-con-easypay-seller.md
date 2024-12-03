@@ -45,7 +45,7 @@ Después de instalar la aplicación easypay seller account, debes configurarla. 
 
 <blockquote><ui>- <b>Easypay Account UID</b>: identificación de la cuenta seller en la que se abonarán los valores de la compra de productos adquiridos en la tienda. Para obtener esta información, accede al <a href="https://backoffice.easypay.pt/">entorno easypay</a>, haz clic en el logotipo de easypay situado en la esquina superior de la pantalla y, a continuación, en la cuenta deseada. Copia y guarda la información <b>Account UID</b>.</ui> 
 
-![easypay_pt_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pago-con-easypay-seller_1.PNG)
+![easypay_pt_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pago-con-easypay-seller_1.PNG)
 
 <blockquote><ui>4. Haz clic en <b>Guardar</b>.</ui>
 

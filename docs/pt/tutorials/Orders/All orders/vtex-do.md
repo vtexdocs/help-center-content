@@ -19,13 +19,13 @@ O VTEX DO é um gerenciador de tarefas geradas pelos módulos da plataforma para
 
 Para visualizar a lista de tarefas, basta clicar no canto inferior direto da tela do Gerenciamento de Pedidos.  Alguns exemplos dessas tarefas são: __revisar pagamento para cancelar; estornar pagamento; autorizar pedido com alçada; cancelamento requisitado e muitas outras__, pois cada módulo existente na VTEX tem a autonomia e permissão para postar qualquer informação.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_1.gif)
 
 Essa funcionalidade permite ao usuário as seguintes ações: atribuir as tarefas a alguém (até para si próprio), marcá-las como resolvidas, adicionar um comentário e ver mais detalhes, que é o redirecionamento para onde a tarefa precisa ser feita. Existem os botões adiar e ignorar, mas são futuras ações que ainda estão sendo desenvolvidas.
 
 ## Atribuir e desatribuir uma tarefa a si próprio
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_2.gif)
 
 ### Atribuir uma tarefa:
 - Abra o **VTEX DO**;
@@ -38,7 +38,7 @@ Essa funcionalidade permite ao usuário as seguintes ações: atribuir as tarefa
 
 ## Atribuir e desatribuir uma tarefa a outro usuário
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_3.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_3.gif)
 
 ### Atribuir uma tarefa:
 - Abra o **VTEX DO**;
@@ -55,7 +55,7 @@ _As tarefas que são atribuídas a você, aparecem na aba chamada “MINHAS”. 
 
 ## Filtrar uma tarefa
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_4.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_4.gif)
 
 É possível filtrar através da barra de busca utilizando: o nome da tarefa, nome do usuário que está atribuído às mesmas ou comentário inserido. Permite ainda filtrar de acordo com o módulo que postou a tarefa.
 
@@ -73,7 +73,7 @@ _As tarefas que são atribuídas a você, aparecem na aba chamada “MINHAS”. 
 
 Como o objetivo da funcionalidade é realizar as tarefas, uma facilidade que é proporcionada pela mesma é, o redirecionamento para o módulo que postou a tarefa dentro do pedido, transação ou qualquer outro endereço específico do respectivo módulo que criou a tarefa.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_5.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_5.gif)
 
 1. Abra o VTEX Do;
 2. Clique sobre a tarefa que deseja realizar;
@@ -85,7 +85,7 @@ Como o objetivo da funcionalidade é realizar as tarefas, uma facilidade que é 
 
 A título de manter o VTEX Do de forma organizada, o ideal é finalizar a tarefa após a realização desta, a fim de evitar retrabalho ou perda de tempo futuramente quando visualizar a lista de tarefas novamente. Uma outra possibilidade seria finalizar uma tarefa mesmo sem acatá-la, por exemplo, se for solicitado o cancelamento de um pedido, mas você conseguiu reverter a situação. Caso necessite reabrir uma tarefa que foi indevidamente finalizada, não se preocupe, pois é possível reabrí-la a qualquer momento. Basta procurá-la na lista e seguir os passos do gif a seguir.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_6.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_6.gif)
 
 ### Para finalizar uma tarefa:
 - Abra o **VTEX DO**;
@@ -101,7 +101,7 @@ A título de manter o VTEX Do de forma organizada, o ideal é finalizar a taref
 
 Ainda com o intuito de organizar essas tarefas e formalizar a comunicação através delas, existe a função de inserir um comentário de acordo com a necessidade de cada caso.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_7.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_7.gif)
 
 1. Abra o **VTEX DO**;
 2. Clique sobre a tarefa que deseja realizar um comentário;
@@ -110,4 +110,4 @@ Ainda com o intuito de organizar essas tarefas e formalizar a comunicação atra
 
 Como há a possibilidade de executar as ações do VTEX Do com ele aberto, para fechá-lo se faz necessário clicar na seta para baixo, conforme no gif abaixo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/vtex-do_8.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/vtex-do_8.gif)

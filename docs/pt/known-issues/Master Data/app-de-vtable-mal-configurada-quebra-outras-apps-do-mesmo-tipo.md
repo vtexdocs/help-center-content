@@ -29,9 +29,9 @@ Principais causas de uma app mal configurada:
 
 No caso de um JSON Schema inexistente, coloque no campo `model` o nome correto do JSON Schema.
 
-Por exemplo: ![Screen Shot 2019-01-03 at 19.31.53](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master Data/app-de-vtable-mal-configurada-quebra-outras-apps-do-mesmo-tipo_1.png)
+Por exemplo: ![Screen Shot 2019-01-03 at 19.31.53](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master%20Data/app-de-vtable-mal-configurada-quebra-outras-apps-do-mesmo-tipo_1.png)
 
-Observe como a borda da app fica vermelha e a mensagem de erro no console indica o erro "Error to get jsonschema by name": ![Screen Shot 2019-01-03 at 19.24.22](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master Data/app-de-vtable-mal-configurada-quebra-outras-apps-do-mesmo-tipo_2.png)
+Observe como a borda da app fica vermelha e a mensagem de erro no console indica o erro "Error to get jsonschema by name": ![Screen Shot 2019-01-03 at 19.24.22](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master%20Data/app-de-vtable-mal-configurada-quebra-outras-apps-do-mesmo-tipo_2.png)
 
 ## Workaround
 

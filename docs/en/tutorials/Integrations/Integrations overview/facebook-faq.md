@@ -36,7 +36,7 @@ The first step in this scenario is to investigate whether the SKU in fact does n
 
 If the SKU does have a price, check its status, as the error may also be related to its active/inactive status. The best way to do this is by performing a checkout simulation:
 
-![face faq01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/facebook-faq_1.JPG)
+![face faq01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_1.JPG)
 
 In this simulation, it is important to analyze the following fields:
 
@@ -53,7 +53,7 @@ This process is recommended for authentication issues concerning the Facebook in
 
 #### Deleting VTEX integration app on Facebook 
 1. Deleting VTEX integration app on Facebook 
-2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Integrations/Integrations overview/facebook-faq_2.JPG" />
+2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_2.JPG" />
 3.  Select **Settings and Privacy**, then click on **Settings**.
 4.  Click on **Business integrations**.
 5.  Select VTEX Integration and click **Remove**.
@@ -62,7 +62,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. Go to [Facebook Business Manager](https://business.facebook.com/).
 2. Click on **Settings**.
 3. Click on **Business Settings**.
-4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Integrations/Integrations overview/facebook-faq_3.JPG" />
+4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_3.JPG" />
 5. Click **Confirm**.
 
 #### Deleting Facebook integration on VTEX

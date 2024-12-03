@@ -3,8 +3,8 @@ title: 'Configurar pagos con Pagaré'
 id: 5pW7avTwtyQcMu4uiW8quQ
 status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z
-updatedAt: 2023-10-18T11:58:23.708Z
-publishedAt: 2023-10-18T11:58:23.708Z
+updatedAt: 2024-11-11T20:06:25.657Z
+publishedAt: 2024-11-11T20:06:25.657Z
 firstPublishedAt: 2018-06-25T15:42:31.515Z
 contentType: tutorial
 productTeam: Financial
@@ -21,15 +21,17 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 2. [Configurar Pagaré](#configurar-pagare)
 3. [Configurar las condiciones de pago](#configurar-las-condiciones-de-pago)
 
-## Configurar la afiliación de gateway
+>⚠️ La información contenida en este artículo no se refiere a las condiciones de pago **Promissory** o **CardPromissory** disponibles en el Admin en **Configuración de la tienda > Pago > Configuración > Condiciones de pago**.
 
-Para configurar una afiliación de gateway, acceda a [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+## Configurar proveedor de pago
 
->⚠️ Verifique que la afiliación de gateway deseada admita el procesamiento de pagos de pagarés.
+Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude(https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+
+>⚠️ Verifique que el proveedor de pago deseado admita el procesamiento de pagos de pagarés.
 
 ## Configurar Pagaré
 
-Después de configurar una de las afiliaciones de gateway indicadas, debe configurar el pago personalizado del __Pagaré__.
+Después de registrar el proveedor de pagos, siga los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en la pestaña __Pagos Personalizados__. 
@@ -51,6 +53,6 @@ Los pagarés se facturan en el momento de la autorización del pago. Al configur
 
 ## Configurar las condiciones de pago
 
-Después de completar todos los pasos, el pago con pagaré está configurado y listo para ser utilizado en su tienda.
+Después de completar todos los pasos, el pagaré estará configurado y listo para ser utilizado en su tienda.
 
 Para asociarlo a una condición de pago, siga el artículo [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago).

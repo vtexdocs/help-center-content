@@ -27,7 +27,7 @@ Proceed with the following steps:
 2. Type in __Payment Pending__ in the search box.
 3. Uncheck the __Enable sending emails?__ option.
 
-![Message Center - Desativar Template - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message center/Templates/how-to-disable-a-transactional-email_1.png)
+![Message Center - Desativar Template - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message%20center/Templates/how-to-disable-a-transactional-email_1.png)
 
 4. Click `Save`.
 

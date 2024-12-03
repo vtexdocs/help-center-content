@@ -26,7 +26,7 @@ Esta página permite que você realize as seguintes ações:
 * [Editar](#editar-loja-fisica)
 * [Excluir](#excluir-loja-fisica)
 
-![loja-fisica-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/loja-fisica-instore-beta_1.png)
+![loja-fisica-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/loja-fisica-instore-beta_1.png)
 
 A página apresenta as seguintes informações: 
 
@@ -52,7 +52,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/loja-fisica-instore-beta_2.png)
+![loja-fisica2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/loja-fisica-instore-beta_2.png)
 
 #### Identificação
 

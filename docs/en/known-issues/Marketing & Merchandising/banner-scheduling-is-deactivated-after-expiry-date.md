@@ -38,7 +38,7 @@ When the scheduling of a banner works correctly, it is only a coincidence if the
 - Click on "Save Settings"
 - Click on "OK" when you see the confirmation message
 
-![Banner scheduling](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/banner-scheduling-is-deactivated-after-expiry-date_1.png)
+![Banner scheduling](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/banner-scheduling-is-deactivated-after-expiry-date_1.png)
 
 ## Workaround
 

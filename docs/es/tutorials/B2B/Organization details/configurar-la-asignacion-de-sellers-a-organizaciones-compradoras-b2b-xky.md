@@ -29,15 +29,15 @@ Para asignar sellers a una determinada organización compradora sigue los pasos 
 <li>En el Admin VTEX, accede a <b>Apps > Organizaciones y centros de costos B2B > Organizaciones</b>, o ingresa <b>Organizaciones</b> en la barra de búsqueda de la parte superior de la página.</li>
 <li>En la pestaña <b>Organizaciones</b>, haz clic en el nombre de la organización compradora deseada.</li>
 
-![Organizacion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_1.jpg)
+![Organizacion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization%20details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_1.jpg)
 
 <li>En la pestaña <b>Sellers</b>, en <b>Disponible</b>, selecciona los sellers deseados.</li>
 
-![Detalles Organización](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_2.jpg)
+![Detalles Organización](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization%20details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_2.jpg)
 
 <li>Haz clic en el botón <b>AGREGAR A LA ORG.</b></li>
 
-![Detalles Organización 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_3.jpg)
+![Detalles Organización 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization%20details/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky_3.jpg)
 
 <li>Haz clic en el botón <b>Guardar</b>.</li>
 

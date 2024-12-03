@@ -33,7 +33,7 @@ Thus:
 
 - __When a VTEX store is intermediate in the order flow__: chain order with __Chain Workflow__:
 
-![marketplace-recursivo-chain-order-workflow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-recursive-marketplace-works_1.png)
+![marketplace-recursivo-chain-order-workflow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-recursive-marketplace-works_1.png)
 
 
 ## Setup

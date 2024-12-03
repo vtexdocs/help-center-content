@@ -27,6 +27,6 @@ Para configurar esta autenticación, siga los pasos abajo.
 2. Acceda **Configuración**
 3. Active la flag __Exigir autenticación del usuario para los pagos autorizados automáticamente__
 
-![autenticação-usuario-pagamento-recorrencia es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders Management Settings/configurar-autenticacion-del-usuario-para-pagos-recurrentes_1.png)
+![autenticação-usuario-pagamento-recorrencia es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20Management%20Settings/configurar-autenticacion-del-usuario-para-pagos-recurrentes_1.png)
 
 4. Haga clic en el botón __Guardar__.

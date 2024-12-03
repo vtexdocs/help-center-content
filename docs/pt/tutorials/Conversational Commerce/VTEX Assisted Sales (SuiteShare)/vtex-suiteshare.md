@@ -19,28 +19,28 @@ Para instalar o script do **VTEX Assisted Sales (SuiteShare)** no seu site, bas
 
 Primeiro, acesse o painel administrativo da VTEX e, no menu à esquerda, siga para: **_CMS -> Layout -> CMS -> Custom Elements._**
 
-![VTEX 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_1.png)
+![VTEX 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_1.png)
 
 Desça até encontrar a opção “Menu Footer - Primeiro”, ou somente “Menu Footer” caso não exista a divisão, clique em cima da linha para selecioná-la e depois clique em “Update”.
 
-![VTEX 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_2.png)
+![VTEX 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_2.png)
 
 Na tela a seguir, clique no ícone de lápis como mostrado abaixo para editar o rodapé do site.
 
-![VTEX 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_3.png)
+![VTEX 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_3.png)
 
 Role até o final do código que verá na tela, dê um Enter para pular uma linha e cole o código de instalação do **VTEX Assisted Sales (SuiteShare)**.
 
 O código de instalação do **VTEX Assisted Sales (SuiteShare)** está disponível em diversos locais, um deles é no menu _configurações> perfil>rastreamento_, ou caso você já tenha configurado o chat, em _atrair> chat> instruções de instalação_.
 
-![VTEX 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_4.png)
+![VTEX 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_4.png)
 
 Após colar o código, clique em “Update content list”.
 
-![VTEX 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_5.png)
+![VTEX 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_5.png)
 
 Depois, clique em “Save Content” para finalizar a instalação.
 
-![VTEX 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/vtex-suiteshare_6.png)
+![VTEX 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/vtex-suiteshare_6.png)
 
 Pronto, o Chat/Widget ou CTA está instalado no seu site. Agora é aproveitar as funcionalidades!

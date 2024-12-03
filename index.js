@@ -15,6 +15,8 @@ const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the 
 
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
+const { updateAllImages } = require('./docs-utils/update-all-images'); // Import the update-all-images function
+
 let fileCount = 0;
 
 let contentTypes = {
@@ -39,7 +41,7 @@ let contentTypes = {
 // Function to delete all markdown files in the 'docs' folder and its subfolders
 async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
   if (isTopLevel) {
-    console.log("Deleting markdown files and folders...");
+    console.log("Deleting files and folders...");
   }
 
   async function processFiles(files) {
@@ -52,7 +54,7 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
         await deleteMarkdownFiles(filePath, false);
         await fs.rmdir(filePath); // Delete folder after processing
         // console.log(`Deleted folder: ${filePath}`);
-      } else if (file.endsWith('.md')) {
+      } else {
         // Delete markdown files
         await fs.unlink(filePath);
         // console.log(`Deleted: ${filePath}`);
@@ -66,7 +68,7 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
     const files = await fs.readdir(folderPath);
     await processFiles(files);
     if (isTopLevel) {
-      console.log("All markdown files and folders in the docs folder have been deleted.");
+      console.log("All files and folders in the docs folder have been deleted.");
     }
   } catch (err) {
     console.error(`Error during deletion: ${err.message}`);
@@ -826,6 +828,7 @@ async function main() {
     await getEntries();
     await replaceQuotes();
     await fixCallouts();
+    await updateAllImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }

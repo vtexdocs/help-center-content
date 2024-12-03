@@ -19,7 +19,7 @@ Acompañando la evolución de la plataforma VTEX, la viewpart de __Mis Pedidos__
 
 Para hacer la instalación, es necesario acceder a la [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My Orders/instalar-my-orders-por-extension-store_1.png)
+![app store1 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Orders/instalar-my-orders-por-extension-store_1.png)
 
 __Al instalar la aplicación, uested ya cuenta con las siguientes actualizaciones:__
 
@@ -29,7 +29,7 @@ __Al instalar la aplicación, uested ya cuenta con las siguientes actualizacione
 - Información de rastreo para varios items.
 - Corrección de pequeños errores.
 
-![app store2 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My Orders/instalar-my-orders-por-extension-store_2.png)
+![app store2 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Orders/instalar-my-orders-por-extension-store_2.png)
 
 Además, con la nueva aplicación usted puede realizar pruebas de versiones y actualizarla cada vez que una nueva versión esté disponible, recibiendo mejoras continuas y actualizaciones de nuevas features.
 
@@ -42,4 +42,4 @@ Para realizar las pruebas de personalización en su página, usted puede trabaja
 5. ¡Listo! Ahora usted ve, antes de subir su página, cómo se comportará.
 6. Para mover My Orders al ambiente en producción (donde sus clientes pueden usarlo), usted debe publicar la modificación. Para ello, simplemente haga clic en el botón __Publicar__.
 
-![app store3 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My Orders/instalar-my-orders-por-extension-store_3.png)
+![app store3 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Orders/instalar-my-orders-por-extension-store_3.png)

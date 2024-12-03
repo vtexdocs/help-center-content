@@ -21,7 +21,7 @@ internalReference: 560014
 
 If you access a store and click on show more, navigate through some pages, and then click again on the "category" link to restart the navigation, the fetch more will bring the status(page) from the last navigation, not returning to the beginning.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent Search/fetchmore-keeping-the-nextpage-status-and-crashing-the-pagination_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/fetchmore-keeping-the-nextpage-status-and-crashing-the-pagination_1.png)
 
 
 ## Simulation

@@ -43,7 +43,7 @@ Atualmente, a VTEX disponibiliza um único formato de anúncio: produtos patroci
 
 Veja abaixo um exemplo da exibição deste formato:
 
-![vtex_ad_network_sponsored_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Ad Network/vtex-ad-network-beta_1.png)
+![vtex_ad_network_sponsored_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Ad%20Network/vtex-ad-network-beta_1.png)
 
 Lojas participantes do **VTEX Ad Network** poderão [configurar a quantidade de espaços de anúncio](https://help.vtex.com/pt/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#criando-uma-campanha) que disponibilizarão em cada um destes contextos na loja.
 

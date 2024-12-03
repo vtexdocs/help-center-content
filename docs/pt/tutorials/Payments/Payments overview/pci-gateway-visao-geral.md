@@ -19,7 +19,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 # Começando a usar
 
-![new-admin-pagamentos ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments overview/pci-gateway-visao-geral_1.png)
+![new-admin-pagamentos ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/pci-gateway-visao-geral_1.png)
 
 Criado para oferecer a flexibilidade máxima em relação às configurações de pagamento, o módulo de **Pagamentos** processa as transações com base em alguns conceitos de negócio. Entenda cada um deles:
 

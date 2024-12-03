@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 La [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. La relación entre la política de envío, [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) es lo que conforma la [estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) en VTEX, como se muestra en la siguiente imagen:
 
-![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/gestionar-politicas-de-envio_1.png)
+![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/gestionar-politicas-de-envio_1.png)
 
 Este artículo describe cómo monitorear y gestionar las políticas de envío. La pestaña **Políticas de envío** en el Admin VTEX, accesible en **Envío > Estrategia de envío**, te permite realizar las siguientes acciones:
 
@@ -35,7 +35,7 @@ También puedes crear políticas de envío. Consulta [Crear una política de env
 
 La pestaña **Políticas de envío** del Admin VTEX, accesible a través de **Envío > Estrategia de envío**, muestra una lista como se ilustra a continuación:
 
-![shipping_policy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping Strategy/gestionar-politicas-de-envio_2.png)
+![shipping_policy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/gestionar-politicas-de-envio_2.png)
 
 La información de la lista se describe en la siguiente tabla:
 

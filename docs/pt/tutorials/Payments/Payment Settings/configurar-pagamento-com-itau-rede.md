@@ -33,27 +33,27 @@ Para obter as credenciais __Chave de aplicação__ e __Token de aplicação__ ne
 
 <blockquote><ui>2. Selecione a conta na qual deseja transacionar pagamentos na VTEX e clique em <b>Aplicar</b>. Guarde o número da conta, pois ele deve ser utilizado no campo <b>Chave de aplicação</b> na seção <a href="#configurar-itau-rede-na-vtex">Configurar Itaú Rede na VTEX</a>.</ui> 
 
-![Itaú Rede_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_1.PNG)
+![Itaú Rede_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_1.PNG)
 
 <blockquote><ui>3. Após a tela atualizar para a conta desejada, no menu <b>para vender</b>, selecione a opção <b>e-commerce</b>.</ui>
 
-![Itaú Rede_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_2.PNG)
+![Itaú Rede_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_2.PNG)
 
 <blockquote><ui>4. Na página <b>e-commerce</b>, clique no card <b>chave de integração</b>.</ui>
 
-![Itaú Rede_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_3.png)
+![Itaú Rede_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_3.png)
 
 <blockquote><ui>5. Após ler as informações da chave de integração, clique em <b>li, estou ciente</b>.</ui>
 
-![Itaú Rede_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_4.png)
+![Itaú Rede_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_4.png)
 
 <blockquote><ui>6. Clique no botão <b>gerar nova chave</b>.</ui>
 
-![Itaú Rede_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_5.png)
+![Itaú Rede_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_5.png)
 
 <blockquote><ui>7. Verifique as informações descritas na janela <b>gerar nova chave de integração</b> e clique em <b>gerar nova chave</b>.</ui>
 
-![Itaú Rede_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-pagamento-com-itau-rede_6.png)
+![Itaú Rede_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_6.png)
 
 <blockquote><ui>8. Após a criação da nova chave, clique em <b>copiar</b> e preserve a informação em um local seguro. Esta chave deverá ser utilizada no campo <b>Token de aplicação</b> na seção <a href="#configurar-itau-rede-na-vtex">Configurar Itaú Rede na VTEX</a>.</ui>
 

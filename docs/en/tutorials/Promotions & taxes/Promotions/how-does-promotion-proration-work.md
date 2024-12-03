@@ -38,7 +38,7 @@ Let's say a nominal discount promotion of US$ 156.00 will be applied to a cart w
 
 Considering the calculation logic above, the proration would be like this:
 
-![tabelaex.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions & taxes/Promotions/how-does-promotion-proration-work_1.png)
+![tabelaex.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/how-does-promotion-proration-work_1.png)
 
 
 This calculation is applied to unitary products, such as a blouse or a table, but some products have a configuration called multiplier unit, such as a floor box with 2.5 m², for example.

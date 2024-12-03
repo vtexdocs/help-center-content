@@ -19,7 +19,7 @@ Inserir a nota fiscal no pedido é um passo obrigatório para que o status passe
 
 Para fazer manualmente pelo **Gerenciamento de pedidos**, basta clicar no botão `Faturar pacote`, como na imagem abaixo.
 
-![faturar-pedido-ex pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-inserir-a-nota-fiscal_1.png)
+![faturar-pedido-ex pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-inserir-a-nota-fiscal_1.png)
 
 Com a inserção da nota fiscal com o valor completo do pedido, o mesmo passará para o status **Faturado**.
 

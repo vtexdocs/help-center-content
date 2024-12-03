@@ -3,8 +3,8 @@ title: 'My store order was not created'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
-updatedAt: 2024-07-18T20:56:20.706Z
-publishedAt: 2024-07-18T20:56:20.706Z
+updatedAt: 2024-11-08T18:57:41.671Z
+publishedAt: 2024-11-08T18:57:41.671Z
 firstPublishedAt: 2024-07-18T20:56:20.706Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: my-store-order-was-not-created
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Keywords:** order, order integration, XML integration, product configuration, negative inventory, out-of-stock.
+**Tags:** Orders, Integration, XML integration, Product, Stock
 
 When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with ERPs (Enterprise Resource Planning).
 
@@ -41,7 +41,7 @@ There are two ways to manage your [inventory](https://help.vtex.com/en/tutorial/
 The following solutions focus on inventory management via VTEX Admin:
 
 * **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](https://help.vtex.com/en/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
-* **Configure Infinite Inventory:** In the line that corresponds to the desired SKU and warehouse, on the _Infinite Inventory_ column, turn on the switch, and click `Save`. When this configuration is activated, the item is considered always available for sales and the store never runs _out-of-stock_ for it.
+* **Configure unlimited inventory:** In the line that corresponds to the desired SKU and warehouse, on the _Unlimited inventory_ column, turn on the switch, and click `Save`. When this configuration is activated, the item is considered always available for sales and the store never runs _out-of-stock_ for it.
 
 >ℹ️ To configure <i>out-of-stock</i> products to be displayed in your storefront, in your VTEX Admin access **Catalog > All Products**, and in the product configuration page, in the **Product** tab, select the checkbox **Yes** for <i>Show when out of stock</i>.
 

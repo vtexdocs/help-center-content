@@ -25,5 +25,5 @@ To set up the tax systems, TaxHub, follow these steps:
 6.	In “Authorization Token” fill in with the service token of the previous step. Note: In certain cases, it may be unnecessary;
 7.	Click on __Save__.
 
-![TaxHub Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-configure-taxhub_1.gif)
+![TaxHub Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-configure-taxhub_1.gif)
 

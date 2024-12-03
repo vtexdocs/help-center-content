@@ -21,7 +21,7 @@ El _storefront_ también incluye VTEX Intelligent Search, una herramienta que ay
 
 Estas operaciones se realizan en el menú _Storefront_ de tu Admin VTEX. 
 
-![Storefront overview menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Storefront Overview/vision-general-storefront_1.jpg)
+![Storefront overview menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Storefront%20Overview/vision-general-storefront_1.jpg)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

@@ -26,6 +26,6 @@ Usted verá una tabla con las siguientes columnas:
 - __Version__: versión de la aplicación.
 - __Linked__: muestra si la aplicación está o no vinculada ("vtex link").
 
-![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX IO/VTEX IO setup/listar-apps-instaladas-en-la-tienda_1.png)
+![appList](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX%20IO/VTEX%20IO%20setup/listar-apps-instaladas-en-la-tienda_1.png)
 
 No hay límite de aplicaciones que se pueden crear para una cuenta.

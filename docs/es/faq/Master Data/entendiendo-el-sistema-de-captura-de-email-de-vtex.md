@@ -46,5 +46,5 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 
 >ℹ️ Cada módulo VTEX es responsable de solicitar RC.JS para transmitir los datos capturados en la sesión. RC.JS está destinado a actuar como un "mensajero" de información.
 
-![image (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master Data/entendiendo-el-sistema-de-captura-de-email-de-vtex_1.png)
+![image (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master%20Data/entendiendo-el-sistema-de-captura-de-email-de-vtex_1.png)
 

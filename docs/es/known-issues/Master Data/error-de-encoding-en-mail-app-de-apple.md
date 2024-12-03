@@ -29,7 +29,7 @@ Montar un trigger de envío de correo electrónico que tenga carácter especial 
 
 Resultado:
 
-![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Master Data/error-de-encoding-en-mail-app-de-apple_1.png)
+![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Master%20Data/error-de-encoding-en-mail-app-de-apple_1.png)
 
 ## Workaround
 

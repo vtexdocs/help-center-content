@@ -1,9 +1,9 @@
 ---
 title: 'Catalogo'
-id: catalog
+id: category-catalog
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: category-catalog
@@ -24,7 +24,7 @@ locale: es
 - [Atributo de especificaciones de producto - XML Google Shopping](https://help.vtex.com/es/docs/tutorials/atributo-de-especificaciones-de-producto-xml-googleshopping)
 - [Configurar mensaje personalizado de regalo](https://help.vtex.com/es/docs/tutorials/configurar-mensaje-personalizado-de-regalo)
 - [Mejorar la performance de imágenes de productos](https://help.vtex.com/es/docs/tutorials/mejorando-la-performance-de-imagenes-de-productos)
-- [Registrar kit](https://help.vtex.com/es/docs/tutorials/cadastrando-kit)
+- [Registrar kit](https://help.vtex.com/es/docs/tutorials/registrar-kit)
 - [Configurar la comparación de productos](https://help.vtex.com/es/docs/tutorials/configurando-a-comparacao-de-produtos)
 - [Registrar especificaciones o campos de producto](https://help.vtex.com/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto)
 - [Importar imágenes por plantilla](https://help.vtex.com/es/docs/tutorials/importando-imagenes-por-plantilla)
@@ -34,7 +34,7 @@ locale: es
 - [Crear servicio para un SKU](https://help.vtex.com/es/docs/tutorials/crear-servicio-para-un-sku)
 - [Cómo funciona la búsqueda de VTEX](https://help.vtex.com/es/docs/tutorials/como-funciona-la-busqueda-de-vtex)
 - [Registrar especificaciones o campos de SKU](https://help.vtex.com/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)
-- [Configurar producto similar, sugerencias, accesorios y genéricos](https://help.vtex.com/es/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos)
+- [Configurar producto similar, sugerencias, accesorios y genéricos](https://help.vtex.com/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos)
 - [Llenar campos de registro de producto](https://help.vtex.com/es/docs/tutorials/campos-de-registro-de-producto)
 - [Forzar búsquedas con términos bloqueados a devolver resultados](https://help.vtex.com/es/docs/tutorials/forzar-busquedas-con-terminos-bloqueados-a-devolver-resultados)
 - [Descubrir el ID de un SKU](https://help.vtex.com/es/docs/tutorials/descubrir-el-id-de-un-sku)

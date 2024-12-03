@@ -30,5 +30,5 @@ Ao adicionar/retirar filtro dentro da página de Cadastro de Produtos e Skus oco
 
 Você deve clicar onde ficava *Filtrar resultados ou fazer uma busca* e depois clicar no botão azul no canto esquerdo inferior, com isso o layout da página será normalizado.
 
-![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/quebra-de-layout-ao-adicionarretirar-filtro_1.jpg)
+![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/quebra-de-layout-ao-adicionarretirar-filtro_1.jpg)
 

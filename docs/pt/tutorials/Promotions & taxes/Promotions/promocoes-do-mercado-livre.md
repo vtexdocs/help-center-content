@@ -21,7 +21,7 @@ Para proporcionar maior agilidade à operação do seller, na barra de busca glo
 
 Para acessar a página de promoções disponíveis no Admin VTEX, você deve seguir o caminho __Marketplace > Mercado Livre > Promoções.__  
 
-![Promoções do mercado livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.gif)
+![Promoções do mercado livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocoes-do-mercado-livre_1.gif)
 
 ## Tipos de promoções  
 
