@@ -3,7 +3,7 @@ title: 'Catalog'
 id: catalog
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-12-03T19:28:52.287Z
+updatedAt: 2024-12-03T16:10:52.287Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: category-catalog
