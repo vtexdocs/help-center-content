@@ -67,7 +67,7 @@ Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexd
 
     >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
-##### What is the maximum image size I can use in an article?
+##### Maximum image size
 
 In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
