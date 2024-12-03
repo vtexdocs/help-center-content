@@ -260,7 +260,7 @@ Follow the steps below to add new content in the navigation sidebar:
 6. Send the PR link in the `#helpcenter-portal-pr` Slack channel to be approved.
 7. Once PR is approved, apply the merge to update the navigation sidebar.
 
-    > ℹ️ For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
+    > ℹ️ For it to appear in the Help Center, Education & Documentation team leaders must run the portal's build.
 
 ### Updating a published article
 
