@@ -111,16 +111,16 @@ If you wish to provide a downloadable file directly within your article (such a 
 
 The front matter is the table with metadata about the article you are creating. It contains the following fields:
 
-- **title:** article's title. E.g. "Adding SKU specifications or fields"
+- **title:** Article title. E.g. "Adding SKU specifications or fields"
 - **status**: Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
-- **createdAt:** creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **updatedAt:** update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **publishedAt:** most recent publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **firstPublishedAt:** first publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **contentType:** content type (e.g., tutorial, track, updates).
+- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **updatedAt:** Last update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **publishedAt:** Most recent publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **firstPublishedAt:** First publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **contentType:** Content type (e.g., tutorial, track, updates).
 - **productTeam:** Name of the module to which the article is related.
 - **author:** Technical writer identification.
-- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files.
+- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
 - **locale:** Article language.
 - **legacySlug:** Slug identification.
 - **hidden**: Identifies whether the article should remain hidden and be accessed only through its link.
