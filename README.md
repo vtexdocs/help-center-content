@@ -53,7 +53,7 @@ Follow the steps below to create a new article in the Help Center:
 If you need to use images to help the user understand procedures more easily, follow the steps below to insert them into an article:
 
 1. Access the folder where the article is located within the repository (PT version).
-2. Save the image inside this folder, naming it with the same slug as the article. For instance, if the article name is "How to create a catalog category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
+2. Save the image inside this folder, naming it according to the markdown file name and slug. For instance, if the article file name and slug is "how-to-create-a-catalog-category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
 
     > ℹ️ If the article has more than one image, they must be named in numerical sequence. For instance, `how-to-create-a-catalog-category_1.png`, `how-to-create-a-catalog-category_2.png`.
 
