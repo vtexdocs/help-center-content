@@ -14,8 +14,6 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: articles
 ---
 
-# Articles
-
 To convey an objective and concise message, avoid using articles.
 
 Keep button labels short to encourage action.
