@@ -134,7 +134,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ##### Know issue fields
 
-- **tag**: Name of the module to which the know issue is related.
+- **tag**: Name of the module to which the known issue is related.
 - **kiStatus**: Know issue status.
 - **internalReference**: Know issue internal reference identification.
 
