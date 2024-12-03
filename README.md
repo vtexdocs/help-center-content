@@ -65,7 +65,7 @@ If you need to use images to help the user understand procedures more easily, fo
 
 Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Overview/b2b-suite-visao-geral_1.gif)`
 
-    >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions., modifying the information according to the specific language.
+    >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
 ##### What is the maximum image size I can use in an article?
 
