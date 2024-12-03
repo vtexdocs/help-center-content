@@ -8,10 +8,10 @@ publishedAt: 2024-12-03T19:24:22.388Z
 firstPublishedAt: 2024-12-03T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: onboarding-tempoate
+slugEN: onboarding-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: onboarding-tempoate
+trackSlugEN: onboarding-template
 ---
 
 Onboarding articles introduce new users to a specific technology, tool, or system to facilitate the learning curve and enable them to become proficient and productive quickly.
