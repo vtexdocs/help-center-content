@@ -17,6 +17,8 @@ function moveArticleTagsToFrontmatter(filePath) {
         const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
     
         fs.writeFileSync(filePath, newContent)
+    } else {
+        console.log('Tags already adjusted for this file.')
     }
 }
 
@@ -30,7 +32,7 @@ function moveAllTags(folderPath) {
         if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
             console.log('FILE')
             moveArticleTagsToFrontmatter(dir)
-        } else if (fs.statSync(dir).isDirectory) {
+        } else if (fs.statSync(dir).isDirectory()) {
             console.log('FOLDER')
             moveAllTags(dir)
         }
@@ -43,7 +45,10 @@ async function adjustTroubleshootingContent() {
         const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
         if (fs.existsSync(oldPath)) {
+            console.log(`Changing ${locale} troubleshooting folder path.`)
             fs.renameSync(oldPath, newPath)
+        } else {
+            console.log(`${locale} troubleshooting folder already in correct path.`)
         }
         moveAllTags(newPath)
     }
