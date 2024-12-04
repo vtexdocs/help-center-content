@@ -13,9 +13,8 @@ slugEN: i-cant-fix-the-schema-error-in-b2b-apps
 locale: en
 legacySlug: i-cant-fix-the-schema-error-in-b2b-apps
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  B2B, Schema, Master Data
 ---
-
-**Tags:** B2B, Schema, Master Data
 
 In environments using B2B apps, users may get the alert `Schema is invalid` related to schema errors. This type of alert usually occurs due to an incorrect configuration in the CL (customer) entity within Master Data.
 

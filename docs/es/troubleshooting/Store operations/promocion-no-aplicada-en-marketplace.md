@@ -13,9 +13,8 @@ slugEN: promotion-not-applied-to-the-marketplace
 locale: es
 legacySlug: promocion-no-aplicada-en-marketplace
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Promociones, Marketplace, Política comercial, Afiliado
 ---
-
-**Tags:** Promociones, Marketplace, Política comercial, Afiliado
 
 Al configurar promociones para marketplaces los usuarios pueden experimentar dificultades debido a ajustes incorrectos en la política comercial o en el campo de afiliados. Este artículo ofrece directrices para garantizar que la promoción se configure y aplique correctamente.
 

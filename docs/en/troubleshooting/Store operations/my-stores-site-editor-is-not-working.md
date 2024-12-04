@@ -13,16 +13,15 @@ slugEN: my-stores-site-editor-is-not-working
 locale: en
 legacySlug: my-stores-site-editor-is-not-working
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Site Editor, CMS, Store Framework
 ---
-
-**Tags:** Site Editor, CMS, Store Framework
 
 [Site Editor](https://developers.vtex.com/docs/guides/vtex-io-documentation-site-editor) is the CMS available for stores using [Store Framework](https://developers.vtex.com/docs/guides/store-framework). You may encounter situations where Site Editor does not open, or you can’t save content there.
 
 Below are different troubleshooting checks and instructions you can use to solve Site Editor issues:
 
 | **Issue** | **Description** | **Troubleshooting instructions** |
-| --------- | --------------- | -------------------------------- |
+|--------- | --------------- | -------------------------------- |
 | [Site Editor does not open](#site-editor-does-not-open) | The Site Editor page either shows a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br>- [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only) |
 | [I can’t manage my store content in Site Editor](#i-cant-manage-my-store-content-in-site-editor) | You can’t edit, save, or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br>- [Check the domain's main locale](#checking-the-domains-main-locale) |
 | [I lost the content stored in Site Editor](#i-lost-the-content-stored-in-site-editor) | The content saved in Site Editor was lost. | [Open a ticket with VTEX Support](#i-lost-the-content-stored-in-site-editor). |

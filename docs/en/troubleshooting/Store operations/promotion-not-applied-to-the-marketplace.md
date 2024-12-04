@@ -13,9 +13,8 @@ slugEN: promotion-not-applied-to-the-marketplace
 locale: en
 legacySlug: promotion-not-applied-to-the-marketplace
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Promotions, Marketplace, Trade policy, Affiliate
 ---
-
-**Tags:** Promotions, Marketplace, Trade policy, Affiliate
 
 Users may experience difficulties when configuring promotions for marketplaces due to incorrect settings in the trade policy or affiliate field. This document provides guidelines to ensure the promotion is configured and applied correctly.
 
