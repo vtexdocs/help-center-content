@@ -53,7 +53,7 @@ By clicking `Feedback`, a new browser window will open with a [form](LINK) for y
 
 You can submit feedback about any page in the documentation portals by responding to the `Was this helpful?` option.
 
-![How to submit feedback][LINK]
+![How to submit feedback][https://raw.githubusercontent.com/vtexdocs/language-hub-content/refs/heads/main/images/en/001.gif]
 
 You can leave a comment about the page and why you found it helpful or not. Click `SEND FEEDBACK` to send your feedback.
 
@@ -63,7 +63,7 @@ You can leave a comment about the page and why you found it helpful or not. Clic
 
 You can contribute to any page in the documentation portals by clicking `Suggest edits (GitHub)`.
 
-![How to suggest edits on GitHub][LINK]  
+![How to suggest edits][https://raw.githubusercontent.com/vtexdocs/language-hub-content/refs/heads/main/images/en/002.gif]  
 
 By clicking `Suggest edits (GitHub)`, a new browser window will open with the documentation repository page. Follow these steps to contribute using the `Suggest edits (GitHub)`:
 
@@ -86,7 +86,7 @@ By clicking `Suggest edits (GitHub)`, a new browser window will open with the do
 4. Once you have completed the modal, click `Propose changes`.  
 5. Create a pull request with your changes by completing the following:  
      
-   ![How to open a pull request][LINK]  
+   ![How to open a pull request][https://raw.githubusercontent.com/vtexdocs/language-hub-content/refs/heads/main/images/en/003.png]  
  
 
 
