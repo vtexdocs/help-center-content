@@ -11,7 +11,14 @@ function moveArticleTagsToFrontmatter(filePath) {
     if (fileContent.includes('**Tags:**')) {
         const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
         const frontMatter = fileContent.split('---')[1]
-        const text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim() + '---' + fileContent.split('---').slice(3).join('---')
+        let text = ''
+
+        if (fileContent.split('---').length > 3) {
+            text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim() + '---' + fileContent.split('---').slice(3).join('---')
+        } else {
+            text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim()
+        }
+        
     
         // Assemble everything
         const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
