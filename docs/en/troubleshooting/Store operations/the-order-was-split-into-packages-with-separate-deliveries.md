@@ -13,9 +13,8 @@ slugEN: the-order-was-split-into-packages-with-separate-deliveries
 locale: en
 legacySlug: the-order-was-split-into-packages-with-separate-deliveries
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Separate deliveries, Order split, Packages, Shipping, Pre-sale
 ---
-
-**Tags:** Separate deliveries, Order split, Packages, Shipping, Pre-sale
 
 On VTEX, customers may receive their orders split into several packages, regardless of whether the [order has been split](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) on the platform. Customers can receive their order items in separate packages in the following cases:
 
@@ -41,4 +40,3 @@ To configure shipping groups in your store, follow the steps below:
 1. In the VTEX Admin, go to **Store Settings > Shipping > Settings**, or type **Shipping** in the search bar at the top of the page and select **Store Settings / Shipping**.
 2. On the **General Settings** page, in the section **Delivery Groups**, enter the desired number of days for the [shipment](https://help.vtex.com/en/tutorial/como-funciona-a-remessa) in the field _Create shipping groups with intervals of {X} day(s)_.
 3. Click **Save**.
-

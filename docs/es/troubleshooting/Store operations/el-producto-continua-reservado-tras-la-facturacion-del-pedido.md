@@ -13,9 +13,8 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: es
 legacySlug: el-producto-continua-reservado-tras-la-facturacion-del-pedido
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Stock, Reserva
 ---
-
-**Tags:** Stock, Reserva
 
 La reserva de stock es una función esencial que garantiza que el producto vendido no se ponga a disposición de otro cliente hasta que el pedido se haya procesado por completo. Sin embargo, una pregunta habitual entre los retailers es por qué la reserva sigue vigente incluso después de que se haya facturado el pedido.
 
@@ -56,4 +55,3 @@ Para actualizar manualmente la cantidad de ítems en stock sigue los pasos a con
 Cuando el status es **Preparando envío**, es fundamental que el sistema de stock actualice el producto, removiendo el producto de los ítems reservados y ajustando la cantidad disponible. Para que esto ocurra, el ERP debe sincronizar la cantidad final de productos en stock, restando los productos que ya están reservados de los pedidos en proceso.
 
 La configuración y la integración del ERP son responsabilidad del retailer. Este proceso se puede automatizar a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), que permite la comunicación entre el sistema ERP y el almacén de la tienda, garantizando que la información esté siempre actualizada.
-

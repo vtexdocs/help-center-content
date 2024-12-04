@@ -13,9 +13,8 @@ slugEN: i-cant-update-the-ean-of-my-skus-via-api
 locale: pt
 legacySlug: nao-consigo-atualizar-o-ean-dos-meus-skus-por-api
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Catálogo, SKU, Produto, EAN
 ---
-
-**Tags:** Catálogo, SKU, Produto, EAN
 
 Ao tentar atualizar o EAN (número de artigo europeu), que contém as informações do código de barras de um SKU, no Admin VTEX e na API, você pode encontrar problemas de sincronização do catálogo da loja, afetando o gerenciamento de estoque e a experiência do cliente.
 
@@ -45,4 +44,3 @@ Uma vez adicionado o novo valor do EAN, utilize o endpoint [Get SKU by EAN](http
 "878181"
 ]
 ```
-

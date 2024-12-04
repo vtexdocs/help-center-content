@@ -13,9 +13,8 @@ slugEN: metrics-are-not-displayed-in-the-order-dashboard
 locale: es
 legacySlug: no-puedo-ver-las-metricas-en-el-dashboard-de-pedidos
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Dashboard, VTEX Admin, Vista general, Rol de usuario
 ---
-
-**Tags:** Dashboard, VTEX Admin, Vista general, Rol de usuario
 
 Al acceder al Admin, es posible que tu tienda no cargue las métricas presentes en Dashboards > **Vista general**, mostrando íconos de advertencia y un mensaje de error. Esto puede deberse a:
 

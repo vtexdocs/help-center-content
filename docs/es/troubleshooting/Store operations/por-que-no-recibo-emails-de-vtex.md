@@ -13,9 +13,8 @@ slugEN: i-cant-receive-emails-from-vtex
 locale: es
 legacySlug: por-que-no-recibo-emails-de-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Central de mensajes, Plantillas de emails, Importación de plantillas, Token de autenticación
 ---
-
-**Tags:** Central de mensajes, Plantillas de emails, Importación de plantillas, Token de autenticación
 
 A través del [Centro de mensajes](https://help.vtex.com/es/tutorial/como-funciona-el-message-center--tutorials_84), VTEX ofrece a los retailers la opción de personalizar las plantillas para enviar emails a los usuarios. Estos emails pueden utilizarse para transmitir la siguiente información:
 - Token de autenticación en la tienda

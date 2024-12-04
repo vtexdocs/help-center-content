@@ -13,9 +13,8 @@ slugEN: my-store-order-was-not-created
 locale: pt
 legacySlug: o-pedido-da-minha-loja-nao-foi-criado
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:  Pedidos, Integração, Integração XML, Produto, Estoque
 ---
-
-**Tags:** Pedidos, Integração, Integração XML, Produto, Estoque
 
 Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERPs (Enterprise Resource Planning). 
 
@@ -57,4 +56,3 @@ Quando o produto não tem estoque e a integração não está configurada para e
 4. Clique em `Salvar`. 
 
 >⚠️ Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
-
