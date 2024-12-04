@@ -30,7 +30,7 @@ function moveAllTags(folderPath) {
         if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
             console.log('FILE')
             moveArticleTagsToFrontmatter(dir)
-        } else {
+        } else if (fs.statSync(dir).isDirectory) {
             console.log('FOLDER')
             moveAllTags(dir)
         }
@@ -42,7 +42,9 @@ async function adjustTroubleshootingContent() {
     for (locale of locales) {
         const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
-        fs.renameSync(oldPath, newPath)
+        if (fs.existsSync(oldPath)) {
+            fs.renameSync(oldPath, newPath)
+        }
         moveAllTags(newPath)
     }
 }
