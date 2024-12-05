@@ -1,42 +1,39 @@
 # help-center-content
 
-Welcome to the [VTEX Help Center Portal](https://help.vtex.com/) content repository! Here you will find the archives for all articles included in this documentation portal. It is managed by the [Tech Writing team](https://github.com/vtexdocs/help-center-content/graphs/contributors) at VTEX, so if you have any questions about the repository, do not hesitate to contact any of them.
+Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository! Here you will find the archives for all articles included in this documentation portal. It is managed by the [Education & Documentation team](https://github.com/vtexdocs/help-center-content/graphs/contributors) at VTEX, so if you have any questions about the repository, do not hesitate to contact any of them.
 
 ## In this repository
 
 You will find the following folders in this repository:
 
-- **.github/workflows**: store workflows needed to migrate content from Contentful to this repository.
-- **docs-utils**: store scripts used to perform adjustments to documentation imported from Contentful.
-- **docs**: stores the markdown files of all our docs. Contains subfolders with names of the three locales (PT, EN, and ES), and within each of them, the following categories:
+- **.github/workflows**: Workflows needed to migrate content from Contentful to this repository.
+- **docs-utils**: Scripts used to perform adjustments to documentation imported from Contentful.
+- **docs**: Documentation files. Contains subfolders corresponding to each locale (PT, EN, and ES), and within each of them, the following categories:
 
   - **announcements**: Announcement markdown files.
   - **faq**: FAQ markdown files.
-  - **know-issues**: Know-issues markdown files.
+  - **known-issues**: Known issues markdown files.
   - **tracks**: Tracks markdown files.
   - **troubleshooting**: Troubleshooting markdown files.
   - **tutorials**: Tutorials markdown files.
-- **readme-images**: store images used in the Readme's document.
+- **readme-images**: Images used in the README.md file.
 
-## Management of Help Center Portal documentation
+## Managing Help Center documentation
 
 In this document we will address the following topics related to the Help Center Portal:
 
-- [Publication of new articles](#publishing-a-new-article)
-- [Update of published articles](#updating-a-published-article)
-- [Create a redirect](#creating-a-redirect)
+- [Publishing new articles](#publishing-a-new-article)
+- [Updating published articles](#updating-a-published-article)
+- [Creating redirects](#creating-a-redirect)
 - [Settings for specific content](#settings-for-specific-content)
-
-
-
 
 ### Publishing a new article
 
-Follow the steps below to create a new article in the Help Center Portal:
+Follow the steps below to create a new article in the Help Center:
 
-1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
+1. Open a branch in the [help-center-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Add a new file in the [desired folder](#in-this-repository), and write the content of the article according to the [Template --> TBD](https://github.com/vtexdocs/dev-portal-content/blob/main/templates/guide_template.md).
-    > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article title.
+    > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article slug.
 
 3. [Add images](#adding-an-image-to-the-article) to the article, if necessary.
 3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
@@ -50,16 +47,16 @@ Follow the steps below to create a new article in the Help Center Portal:
 
     >⚠️ Note that there may be limitations on the number of PRs approved per day due to internal and external demands of the education team. This means that if you want your content to be published, you should submit your PR for review with at least 3 days in advance from the desired publication date!
 
-#### Adding an image to the article
+#### Adding images
 
 If you need to use images to help the user understand procedures more easily, follow the steps below to insert them into an article:
 
-1. Access the folder where the article is located within the repository (PT version).
-2. Save the image inside this folder, naming it with the same slug as the article. For instance, if the article name is "How to create a catalog category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
+1. Access the folder where the article is located within the repository.
+2. Save the image inside this folder, naming it according to the markdown file name and slug. For instance, if the article file name and slug is "how-to-create-a-catalog-category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
 
     > ℹ️ If the article has more than one image, they must be named in numerical sequence. For instance, `how-to-create-a-catalog-category_1.png`, `how-to-create-a-catalog-category_2.png`.
 
-3. Open the article and add `![{{Image name}}](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/{{path}}/{{image-slug-name}})`, replacing:
+3. Open the article and add `![{{Image name}}](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/{{path}}/{{image-slug-name}})`, replacing:
 
   - `{{Image name}}` by an image identification name of your choice
   - `{{path}}` by the path where you saved the image
@@ -69,7 +66,7 @@ Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexd
 
     >⚠️After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
-##### What is the maximum image size I can use in an article?
+##### Maximum image size
 
 In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
@@ -81,7 +78,7 @@ If you need to use an illustration that exceeds this value, you can compress it 
 
 #### Adding a download file to the article
 
-If you wish to provide a downloadable file directly within your article (such a tables or PDF), you must attach it, creating a reference as follows:
+If you wish to provide a downloadable file directly within your article (such a table or PDF file), you must attach it, creating a reference as follows:
 
 1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
 2. Copy the file you want to make available for download to the same directory as the article where it will be inserted. For instance, to attach a spreadsheet within an article located at `docs/pt/tutorials/Payments/Payment Settings/list-of-payment-providers-by-country.md`, you need to save it in the directory `docs/pt/tutorials/Payments/Payment Settings.`
@@ -111,9 +108,9 @@ If you wish to provide a downloadable file directly within your article (such a 
 
 #### Filling in front matter information
 
-The front-matter is the table with metadata about the article you are creating. It contains the following fields:
+The front matter is the table with metadata about the article you are creating. It contains the following fields:
 
-- **title:** article's title. E.g. "Adding SKU specifications or fields"
+- **title:** Article title. E.g. "Adding SKU specifications or fields"
 - **status**: Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
 - **createdAt:** creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
 - **updatedAt:** update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
@@ -122,7 +119,7 @@ The front-matter is the table with metadata about the article you are creating. 
 - **contentType:** content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
 - **productTeam:** Name of the module to which the article is related.
 - **author:** Technical writer identification.
-- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files.
+- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
 - **locale:** Article language.
 - **legacySlug:** Slug identification.
 - **hidden**: Identifies whether the article should remain hidden and be accessed only through its link.
@@ -134,11 +131,11 @@ In addition to the standard fields for all articles, check the specific fields f
 - **announcementImageID:** Announcement card image identification.
 - **announcementSynopsisEN:** Announcement Synopsis information. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
 
-##### Know issue fields
+##### Known issue fields
 
-- **tag**: Name of the module to which the know issue is related.
-- **kiStatus**: Know issue status.
-- **internalReference**: Know issue internal reference identification.
+- **tag**: Name of the module to which the known issue is related.
+- **kiStatus**: Known issue status.
+- **internalReference**: Known issue internal reference identification.
 
 ##### Track fields
 
