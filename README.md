@@ -62,9 +62,9 @@ If you need to use images to help the user understand procedures more easily, fo
   - `{{path}}` by the path where you saved the image
   - `{{image-slug-name}}` by the image slug name
 
-Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Overview/b2b-suite-visao-geral_1.gif)`
+Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Overview/b2b-suite-visao-geral_1.gif)`.
 
-    >⚠️After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
+   >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
 ##### Maximum image size
 
