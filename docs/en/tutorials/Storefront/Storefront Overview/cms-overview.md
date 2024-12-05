@@ -15,7 +15,7 @@ legacySlug: cms-overview
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
 ---
 
-![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Storefront Overview/cms-overview_1.png)
+![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Storefront%20Overview/cms-overview_1.png)
 
 CMS (Content Management System) is a feature dedicated to manage content in a constant and practical manner.
 

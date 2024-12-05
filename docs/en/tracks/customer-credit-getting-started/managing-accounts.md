@@ -3,8 +3,8 @@ title: 'Managing Customer Credit accounts'
 id: 4eknoeqaj6EGC20amsm6Gc
 status: PUBLISHED
 createdAt: 2018-11-06T21:15:25.330Z
-updatedAt: 2024-02-27T19:44:55.522Z
-publishedAt: 2024-02-27T19:44:55.522Z
+updatedAt: 2024-10-22T19:11:00.259Z
+publishedAt: 2024-10-22T19:11:00.259Z
 firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial

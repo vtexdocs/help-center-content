@@ -36,7 +36,7 @@ Ejemplo: Buscando/filtrando por el campo "Ciudad" con el atributo "Rio de Janeir
 
 ## Workaround
 
-![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Master Data/dificultad-en-buscar-en-el-crm-por-campos-que-contienen-espacios_1.png)
+![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Master%20Data/dificultad-en-buscar-en-el-crm-por-campos-que-contienen-espacios_1.png)
 Felizmente hay una alternativa simple que no necesita el uso de API.
 Al hacer clic en "Todos" en el menú desplegable, la misma búsqueda puede realizarse sin causar error.
 

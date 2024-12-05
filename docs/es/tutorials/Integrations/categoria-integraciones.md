@@ -1,9 +1,9 @@
 ---
 title: 'Integraciones'
-id: integrations
+id: category-integrations
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-integrations
@@ -75,8 +75,11 @@ locale: es
 - [Importación de pedidos de Amazon FBA Onsite](https://help.vtex.com/es/docs/tutorials/importacion-de-pedidos-de-amazon-fba-onsite)
 - [Importación de pedidos de Amazon FBA Classic](https://help.vtex.com/es/docs/tutorials/importacion-de-pedidos-classic-de-amazon-fba)
 - [Importación de pedidos de Amazon DBA](https://help.vtex.com/es/docs/tutorials/importacion-de-pedidos-de-amazon-dba)
+- [Shopping Feed integración](https://help.vtex.com/es/docs/tutorials/shopping-feed-integracion)
 
 ## Gestión de anuncios
 
 - [Mercado Libre: compatibilidad de autopartes](https://help.vtex.com/es/docs/tutorials/mercado-libre-compatibilidad-de-autopartes)
+- [Status de los anuncios](https://help.vtex.com/es/docs/tutorials/status-de-los-anuncios)
+- [Filtros de calidad de anuncios](https://help.vtex.com/es/docs/tutorials/calidad-de-anuncios)
 

@@ -3,8 +3,8 @@ title: 'Formulários de Cliente e Endereço não existem em multiloja'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
-updatedAt: 2024-10-03T22:05:45.312Z
-publishedAt: 2024-10-03T22:05:45.312Z
+updatedAt: 2024-11-21T14:53:44.434Z
+publishedAt: 2024-11-21T14:53:44.434Z
 firstPublishedAt: 2017-08-16T17:21:19.815Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags / Palavras-chave:__ Master Data v1, cliente, endereço, multiloja
+**Tags:** Master Data v1, Cliente, Endereço, Multiloja
 
 No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](https://help.vtex.com/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), os formulários não são criados automaticamente.
 

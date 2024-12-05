@@ -54,11 +54,11 @@ Para criar uma nova regra, siga os passos a seguir:
     - **Sempre ativar:** a tabela de preço está constantemente ativada, independente de condições.
     - **Ativar em condições específicas:** a tabela de preço será ativada segundo as condições configuradas na regra. Veja as possibilidades de configuração com as imagens a seguir:
     
-    ![PT-regra-tabela-de-preco3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_1.png)
+    ![PT-regra-tabela-de-preco3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/configuracao-de-preco_1.png)
     
-    ![PT-regra-tabela-de-preco](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_2.png)
+    ![PT-regra-tabela-de-preco](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/configuracao-de-preco_2.png)
   
-    ![PT-regra-tabela-de-preco2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/configuracao-de-preco_3.png)
+    ![PT-regra-tabela-de-preco2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/configuracao-de-preco_3.png)
     
 7. Clique em Confirmar.
 

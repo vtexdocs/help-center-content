@@ -27,4 +27,4 @@ VTEX platform gives you the freedom to use these settings in a variety of ways, 
 
 But for now, let's stick to the most basic scenario, illustrated by the image below:
 
-![Logistics Concept English](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping Strategy/how-does-the-delivery-flow-work_1.png)
+![Logistics Concept English](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/how-does-the-delivery-flow-work_1.png)

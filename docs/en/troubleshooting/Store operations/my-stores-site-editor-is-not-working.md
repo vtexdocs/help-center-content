@@ -3,8 +3,8 @@ title: 'My store’s Site Editor is not working'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2024-08-27T19:26:42.892Z
-publishedAt: 2024-08-27T19:26:42.892Z
+updatedAt: 2024-11-08T19:30:28.924Z
+publishedAt: 2024-11-08T19:30:28.924Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -15,7 +15,7 @@ legacySlug: my-stores-site-editor-is-not-working
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Keywords**: Site Editor | CMS | Store Framework
+**Tags:** Site Editor, CMS, Store Framework
 
 [Site Editor](https://developers.vtex.com/docs/guides/vtex-io-documentation-site-editor) is the CMS available for stores using [Store Framework](https://developers.vtex.com/docs/guides/store-framework). You may encounter situations where Site Editor does not open, or you can’t save content there.
 
@@ -34,7 +34,7 @@ To understand and correct each error, see the solutions below:
 
 One error you might experience with Site Editor is when you go to the VTEX Admin, access **Storefront**, and click **Site Editor**. The Site Editor page either shows a blank screen or the message `Something went wrong`.
 
-![Site Editor - Something went wrong EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Site Editor - Something went wrong EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/my-stores-site-editor-is-not-working_1.png)
 
 To solve this error, see the following instructions:
 
@@ -48,7 +48,7 @@ One possible reason for this issue might be related to the [Intelligent Search](
 1. Go to the VTEX Admin and access **Store Settings > Intelligent Search > Integrations**.
 2. On the **Integrations** page, all the statuses must be checked, as in the following image. 
 
-![Site Editor - IS integrations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![Site Editor - IS integrations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/my-stores-site-editor-is-not-working_2.png)
 
 3. If the statuses are all checked, and you still can’t open Site Editor, see the [Check the tenant configuration](#checking-the-tenant-configuration) section. Otherwise, proceed to the next step.
 4. If the Integrations page does not look like the image above, here are the reasons and how to fix them:
@@ -91,7 +91,7 @@ Another possible reason for this error is related to the locale set for the acco
 1. Go to the VTEX Admin and access **Store Settings > Channels > Trade Policies**.
 2. On the **Trade Policies** page, select the trade policy associated with your account and check the **Locale** field.
 
-![Site Editor - Locale EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+![Site Editor - Locale EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/my-stores-site-editor-is-not-working_3.png)
 
 3. The locale is considered incorrect if any of the following apply:
 - The locale is different from the one the account should use. For example, the locale is set as `en-US`, but the account should be `en-GB`.

@@ -25,7 +25,7 @@ Após a catalogação, que o marketplace pode realizar pela página **SKUs Receb
 
 A página **Vínculos de SKU** permite ao marketplace acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace. Para acessar a página, no Admin VTEX vá em **Marketplace > Sellers > Vínculos de SKU**. A seguinte interface vai aparecer:
 
-![sku-bindings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/SKU binding/vinculos-de-sku_1.png)
+![sku-bindings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/SKU%20binding/vinculos-de-sku_1.png)
 
 A tabela a seguir apresenta a descrição das colunas da listagem de vínculos de SKUs:
 

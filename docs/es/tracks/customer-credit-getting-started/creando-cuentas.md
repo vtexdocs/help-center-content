@@ -3,8 +3,8 @@ title: ' Creación de cuentas en Customer Credit'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2024-02-08T19:08:32.443Z
-publishedAt: 2024-02-08T19:08:32.443Z
+updatedAt: 2024-11-04T18:08:56.036Z
+publishedAt: 2024-11-04T18:08:56.036Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial

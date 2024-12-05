@@ -22,4 +22,4 @@ But remember: a subscribers only appears in the listing after the payment is app
 1. Access the __Orders Management__ module.
 2. Click the __Subscriptions__ tab.
 
-![subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription Guides/where-do-i-see-clients-that-use-recurrence_1.png)
+![subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription%20Guides/where-do-i-see-clients-that-use-recurrence_1.png)

@@ -29,7 +29,7 @@ Mount an email sending trigger that has a special character in the "Subject" of 
 
 Result:
 
-![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master Data/encoding-error-in-apple-mail-app_1.png)
+![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/encoding-error-in-apple-mail-app_1.png)
 
 ## Workaround
 

@@ -3,8 +3,8 @@ title: 'O Site Editor da minha loja não está funcionando'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2024-08-27T19:26:42.892Z
-publishedAt: 2024-08-27T19:26:42.892Z
+updatedAt: 2024-11-08T19:30:28.924Z
+publishedAt: 2024-11-08T19:30:28.924Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -15,7 +15,7 @@ legacySlug: o-site-editor-da-minha-loja-nao-esta-funcionando
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Palavras-chave**: Site Editor | CMS | Store Framework
+**Tags:** Site Editor, CMS, Store Framework
 
 O [Site Editor](https://developers.vtex.com/docs/guides/vtex-io-documentation-site-editor) é o CMS disponível para lojas que usam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). É possível que você se depare com situações em que o Site Editor não abre ou em que não é possível salvar conteúdo nele.
 
@@ -34,7 +34,7 @@ Para entender e corrigir cada erro, consulte as soluções abaixo:
 
 É possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.
 
-![Site Editor - Something went wrong PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Site Editor - Something went wrong PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_1.png)
 
 Para solucionar esse erro, veja as instruções a seguir:
 
@@ -48,7 +48,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
 
-![Site Editor - IS integrations PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+![Site Editor - IS integrations PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_2.png)
 
 3. Se todos os status estiverem ticados e ainda não for possível abrir o Site Editor, consulte a seção [Verificar a configuração do tenant](#verificar-a-configuracao-do-tenant-apenas-novas-contas). Caso contrário, prossiga para o próximo passo.
 4. Se a página Integrações estiver diferente da imagem acima, veja a seguir os possíveis motivos e como solucioná-los:
@@ -90,7 +90,7 @@ Outro possível motivo para esse erro está relacionado ao locale configurado pa
 1. No VTEX Admin, acesse **Configurações da loja > Canais > Políticas comerciais**.
 2. Na página **Políticas comerciais**, selecione a política comercial associada à sua conta e verifique o campo **Locale**.
 
-![Site Editor - Locale PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
+![Site Editor - Locale PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_3.png)
 
 3. O locale é considerado incorreto nos seguintes casos:
 - O locale é diferente do que a conta deveria utilizar. Por exemplo, o locale está configurado como `pt-BR`, mas a conta deveria ser `pt-PT`.

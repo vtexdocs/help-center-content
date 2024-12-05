@@ -21,7 +21,7 @@ El proceso manual es el más indicado para cuando el operador de la tienda des
 
 ## Registro o alteración manual
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price list/registrando-precios-de-sku_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price%20list/registrando-precios-de-sku_1.gif)
 
 ### Registrar un valor nuevo
 
@@ -58,7 +58,7 @@ _Si usted hace click en el valor “Nuevo Valor de Tabla” luego de filtrar un
 
 ## Registro o alteración vía importación de planilla de Excel
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price list/registrando-precios-de-sku_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price%20list/registrando-precios-de-sku_2.gif)
 
 ### Para registrar nuevos precios
 
@@ -86,7 +86,7 @@ _Si usted hace click en el valor “Nuevo Valor de Tabla” luego de filtrar un
 
 ### Campos de la planilla del Excel para importación
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price list/registrando-precios-de-sku_3.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/Price%20list/registrando-precios-de-sku_3.jpg)
 
 - **StockKeepingUnitId: **Id del SKU que desea registrar o alterar el precio;
 - **Source: **valor de utm\_source;

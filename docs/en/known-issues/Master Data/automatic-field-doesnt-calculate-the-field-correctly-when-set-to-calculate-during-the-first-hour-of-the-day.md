@@ -18,7 +18,7 @@ internalReference:
 
 ## Summary
 
-The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master Data/automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day_1.png)
+The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day_1.png)
 
 ## Simulation
 

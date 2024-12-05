@@ -21,15 +21,15 @@ Até o momento, a integração possível de ser realizada é integrar cliente ou
 
 Para realizar a integração, selecione o app VTEX conforme imagem abaixo.
 
-![VTEX-zapier](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/como-integrar-vtex-utilizando-zapier_1.png)
+![VTEX-zapier](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/como-integrar-vtex-utilizando-zapier_1.png)
 
 Depois, selecione qual das opções de integrção disponíveis você gostaria, conforme imagem abaixo.
 
-![VTEX-Zapier-integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/como-integrar-vtex-utilizando-zapier_2.png)
+![VTEX-Zapier-integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/como-integrar-vtex-utilizando-zapier_2.png)
 
 Na tela seguinte, você precisará dar acesso ao Zapier para que ele se conecte ao seu ambiente VTEX. Para isso, clique em CONNECT AN ACCOUNT e entre com APP Key, APP Token e o Accountname do seu ambiente.
 
-![VTEX-Zapier-connecting-account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/como-integrar-vtex-utilizando-zapier_3.png)
+![VTEX-Zapier-connecting-account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/como-integrar-vtex-utilizando-zapier_3.png)
 
 Leia o artigo [ONDE ENCONTRAR A APP KEY TOKEN E APP KEY DA SUA LOJA](http://help.vtex.com/pt/tutorial/onde-encontrar-appkey-e-o-apptoken-de-sua-loja) para mais detalhes.
 

@@ -25,7 +25,7 @@ Follow the instructions to start the integration process:
 
 The indexing process will start. Once completed, the screen shown below will be displayed.
 
-![integracoes-is-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent Search/Intelligent Search Settings/setting-up-intelligent-search-integration-with-the-catalog_1.PNG)
+![integracoes-is-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Intelligent%20Search%20Settings/setting-up-intelligent-search-integration-with-the-catalog_1.PNG)
 
 You don't need to repeat this process. After starting the integration, you can follow the indexing status on the [Indexing History](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) page.
 

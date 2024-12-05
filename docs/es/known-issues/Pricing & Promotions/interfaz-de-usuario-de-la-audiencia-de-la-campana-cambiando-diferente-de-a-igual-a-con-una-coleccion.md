@@ -35,11 +35,11 @@ Cree un público de Campaña con un público objetivo, en Colecciones, seleccion
 Vuelve al público objetivo y comprueba que la opción Diferente de ha cambiado a Igual a
 
 Antes de guardar:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing & Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_1.png)
 
 Después de guardar:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing & Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_2.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_2.png)
 
 
 

@@ -20,7 +20,7 @@ internalReference:
 
 A SKU KIT should weigh the sum total of its components. When a KIT is being created, the system should increment the weight of each component to the weight of the KIT, however, this is only happening when the KIT (Parent) is edited and updated. The main impact is seen in the shipping simulation, since the KIT often appears as having a much heavier weight than in reality.
 
-![shipping simulation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/sku-kit-weight-differs-between-shipping-simulation-and-registration-admin_1.png)
+![shipping simulation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/sku-kit-weight-differs-between-shipping-simulation-and-registration-admin_1.png)
 
 ## Simulation
 

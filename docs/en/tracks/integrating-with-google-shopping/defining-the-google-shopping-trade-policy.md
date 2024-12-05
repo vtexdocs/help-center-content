@@ -3,8 +3,8 @@ title: 'Defining the trade policy'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2024-09-13T18:41:25.452Z
-publishedAt: 2024-09-13T18:41:25.452Z
+updatedAt: 2024-11-14T18:54:39.695Z
+publishedAt: 2024-11-14T18:54:39.695Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -24,4 +24,6 @@ You will need to request the creation of a new trade policy only if you want to:
 
 To [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), please open a ticket to our [Support](https://help.vtex.com/en/support) by selecting Commercial and Create a trade policy.
 
-Requesting additional trade policies to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors (partners)](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
+To [purchase additional commercial policies](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via ticket in our [Support](https://help.vtex.com/pt/support) by selecting the **Commercial** option and the request type **Creation of Commercial Policy.**
+
+For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.

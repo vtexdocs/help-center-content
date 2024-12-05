@@ -167,7 +167,7 @@ Ao concluir as etapas de preenchimento da planilha de mapeamento, você deve seg
 1. Acesse o Admin.
 2. No módulo Marketplace, clique em Integrações.
 3. Selecione a opção Configurações.
-4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_6.JPG" />.
+4. Na integração Mercado Livre, clique na engrenagem<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_6.JPG" />.
 5. Escolha a opção **Upload do mapeamento**.
 6. Selecione a opção **Escolher um arquivo**.
 7. Agora, selecione a planilha de mapeamento de categorias, atributos e variações do Mercado Livre.
@@ -180,7 +180,7 @@ Agora, é necessário acessar sua conta do Mercado Livre para ativar o guia de t
 1. Acessar sua conta no Mercado Livre.
 2. Clique na opção **Vendas**.
 3. No menu no canto esquerdo, selecione a opção **Anúncios**.
-4. Clique nos 3 pontos <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_7.JPG" />
+4. Clique nos 3 pontos <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/guia-de-tamanhos_7.JPG" />
 5. Selecione a opção **Alterar**.
 6. Na opção Guia de Tamanhos, selecione a tabela que você criou.
 7. Clique em **Confirmar**.

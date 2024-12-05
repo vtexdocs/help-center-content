@@ -38,7 +38,7 @@ Quando um agendamento de banner funciona corretamente é uma coincidência do ca
 - Clicar no botão "Salvar Configurações"
 - Clicar no botão "OK" na mensagem de confirmação da operação
 
-![Agendamento de Banner](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/agendamento-de-banner-nao-funciona-corretamente_1.png)
+![Agendamento de Banner](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/agendamento-de-banner-nao-funciona-corretamente_1.png)
 
 ## Workaround
 

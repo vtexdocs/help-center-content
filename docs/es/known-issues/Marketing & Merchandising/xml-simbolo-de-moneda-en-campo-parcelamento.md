@@ -22,7 +22,7 @@ Al configurar una moneda en un XML, la misma se aplica a todos los campos, excep
 
 El campo **Parcelamento** siempre muestra la moneda "R$", independientemente de que la moneda configurada sea diferente.
 
-![Parcelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/xml-simbolo-de-moneda-en-campo-parcelamento_1.png)
+![Parcelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/xml-simbolo-de-moneda-en-campo-parcelamento_1.png)
 
 
 ## Simulación

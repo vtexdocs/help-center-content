@@ -49,9 +49,9 @@ Ou seja, estou usando as variáveis `preposicaonomeloja2` e `nomeloja`.
 
 >⚠️ Ao usar variáveis para compor um texto, substitua o símbolo `#` por `@`. Ou seja, **#variavel#** torna-se **@variavel@**.
 
-![textos-importante pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store Settings - Storefront/alterar-textos-padrao-do-sistema-exibidos-na-loja_1.png)
+![textos-importante pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/alterar-textos-padrao-do-sistema-exibidos-na-loja_1.png)
 
-![exemplo-texto-importante pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store Settings - Storefront/alterar-textos-padrao-do-sistema-exibidos-na-loja_2.png)
+![exemplo-texto-importante pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/alterar-textos-padrao-do-sistema-exibidos-na-loja_2.png)
 
 Como defini que o conteúdo da primeira variável é "à" e o da segunda é "Loja Exemplo", o texto final renderizado no site será "Seja bem-vindo à Loja Exemplo".
 

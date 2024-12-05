@@ -41,7 +41,7 @@ Apps that have a session dependency monitor changes to their inputs and modify s
 
 Transforms often trigger other transforms, repeating until no further parameter updates are sent by apps. This operation is, naturally, carefully monitored for loop conditions. The diagram below illustrates one such transform cycle:
 
-![EN - Session Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/VTEX Session/using-session-manager-to-track-browsing-sessions-in-vtex-stores_1.jpg)
+![EN - Session Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/VTEX%20Session/using-session-manager-to-track-browsing-sessions-in-vtex-stores_1.jpg)
 
 1. A change was made to session parameter X
 2. App A was monitoring session parameter X, so that triggered Transform 1

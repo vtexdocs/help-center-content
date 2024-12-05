@@ -30,5 +30,5 @@ Criar um novo dicionário no Módulo CMS que não possua nenhum Host previamente
 
 Acesse o módulo CMS, clique nos botões lupa e limpar em sequência e o botão adicionar novo host será desbloqueado.
 
-![PT - Criar dicionário não disponibiliza opção de "Add"](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/criar-dicionario-nao-disponibiliza-opcao-de-add_1.png)
+![PT - Criar dicionário não disponibiliza opção de "Add"](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/criar-dicionario-nao-disponibiliza-opcao-de-add_1.png)
 

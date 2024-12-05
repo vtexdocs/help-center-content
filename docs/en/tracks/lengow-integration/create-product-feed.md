@@ -28,7 +28,7 @@ To make product updates available to Lengow, you must [configure an XML feed](ht
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)
-- **Show Unavailable SKUs:** <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tracks/lengow-integration/create-product-feed_3.png"/> (enabled)
+- **Show Unavailable SKUs:** <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/lengow-integration/create-product-feed_3.png"/> (enabled)
 
 The feed itself should then be filled in as seen in the image below:
 

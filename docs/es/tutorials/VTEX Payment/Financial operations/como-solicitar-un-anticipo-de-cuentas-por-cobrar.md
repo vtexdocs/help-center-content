@@ -31,7 +31,7 @@ Ahora que ha verificado el saldo, es importante tener en cuenta que el valor mí
 
 Por ejemplo, si el menor valor que puede recibir es R$10, ese es el valor mínimo que puede anticipar. El valor máximo se informa en el propio Admin - el saldo que usted acaba de verificar - en la página "Anticipar cuentas por cobrar". 
 
-![antecipação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX Payment/Financial operations/como-solicitar-un-anticipo-de-cuentas-por-cobrar_1.png)
+![antecipação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/VTEX%20Payment/Financial%20operations/como-solicitar-un-anticipo-de-cuentas-por-cobrar_1.png)
 
 >ℹ️ **Atención**: las cuentas por cobrar en disputa o programadas para el siguiente día hábil no pueden ser anticipadas.
 

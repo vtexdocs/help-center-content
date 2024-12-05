@@ -21,7 +21,7 @@ The Web Application Firewall (WAF) is a security layer designed to protect web a
 
 The WAF is aimed at HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound and outbound data to detect and block possible threats.
 
-![waf-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![waf-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/web-application-firewall-waf_1.png)
 
 The WAF's operation begins with the VTEX Security team defining [security rules](#security-rules) based on the analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block the traffic, thus preventing vulnerabilities in the web application.
 

@@ -30,7 +30,7 @@ Nesta página, você verá o passo a passo de como realizar as configurações g
 É possível adicionar métodos de pagamento que façam sentido para o seu negócio. Basta selecionar os métodos que deseja incluir em sua loja. 
 
 __Exemplo:__ Boleto, Cartão de Débito e Crédito, Crédito da loja. 
-![Configurando lojas B2B - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B Organizations/configurando-lojas-b2b_1.jpg)
+![Configurando lojas B2B - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Organizations/configurando-lojas-b2b_1.jpg)
 ## Tabelas de preço
 Você poderá adicionar um padrão de preços das lojas adicionadas. Os valores serão default. Para entender mais sobre a criação de tabelas, acesse [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).
 
@@ -38,6 +38,6 @@ Você poderá adicionar um padrão de preços das lojas adicionadas. Os valores 
 
 É possível vincular sua loja diretamente a políticas comerciais e canais de vendas.
 1. Na tabela **Políticas comerciais disponíveis**, clique no vínculo que deseja incluir em sua loja e depois clique em `Adicionar Política Comercial`, e ela aparecerá na tabela **Políticas comerciais Selecionadas**.
-![Configurando lojas B2B -  Políticas comerciais ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B Organizations/configurando-lojas-b2b_2.jpg)
+![Configurando lojas B2B -  Políticas comerciais ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Organizations/configurando-lojas-b2b_2.jpg)
 2. Ao finalizar as configurações, clique em `Salvar`.
 

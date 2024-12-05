@@ -75,11 +75,11 @@ For a small number of registrations, the customer can create accounts one by one
 - Email
 - Credit limit
 
-![CustomerCredit1-EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer Credit/managing-credit-with-customer-credit_1.png)
+![CustomerCredit1-EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer%20Credit/managing-credit-with-customer-credit_1.png)
 
 If the database has a large number of accounts, it is best to import a spreadsheet in CSV format. You can download a template in the Accounts section and fill it with the required information. To do this, click on the Import button.
 
-![CustomerCredit2-EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer Credit/managing-credit-with-customer-credit_2.png)
+![CustomerCredit2-EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer%20Credit/managing-credit-with-customer-credit_2.png)
 
 ### Large databases
 

@@ -21,21 +21,21 @@ Para acceder a esta, siga los pasos a continuación:
 
 1. En la barra superior del Admin, en la esquina derecha, haga clic en el botón con la inicial de su nombre.
 2. Haga clic en la opción __Ajustes de usuario__.  
-![Opção Configurações de usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_1.png)
+![Opção Configurações de usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_1.png)
 
 Hay dos opciones en el menú:
 
 - En __Personal__, usted puede ver su nombre, su email y su número de teléfono registrado en el Admin.  
-![Configuração Pessoal User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_2.png)
+![Configuração Pessoal User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_2.png)
 
 - Al hacer clic en __Nombre__, tendrá la opción de editar su nombre y apellido.  
-![Configuração Nome User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_3.png)
+![Configuração Nome User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_3.png)
 
 - Al hacer clic en __Número de celular__, tendrá la opción de editar su número de celular con el código del país.  
-![Configuração Celular User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_4.png)
+![Configuração Celular User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_4.png)
 
 - En __Autenticación__, usted encuentra las opciones de cambio de contraseña, gestión de la verificación en 2 pasos (2FA) para su inicio de sesión en el Admin VTEX y gestión de sesiones. A continuación, vea cuáles son esas opciones.  
-![Configuração Autenticação User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_5.png)
+![Configuração Autenticação User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_5.png)
 
 ## Verificación en 2 pasos
 
@@ -53,5 +53,5 @@ Aquí, usted debe configurar la aplicación que proporcionará la clave de auten
 
 Vea en detalle cómo configurar la aplicación en el artículo [Habilitar inicio de sesión por autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
 
-![Configuração Verificação em 2 passos User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_6.png)
+![Configuração Verificação em 2 passos User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/configurar-datos-personales-en-la-pantalla-de-usuario_6.png)
 

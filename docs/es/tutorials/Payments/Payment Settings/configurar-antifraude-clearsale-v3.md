@@ -1,10 +1,10 @@
 ---
 title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2024-04-24T18:52:20.944Z
-publishedAt: 2024-04-24T18:49:44.223Z
+updatedAt: 2024-11-08T18:13:21.419Z
+publishedAt: 2024-11-08T18:13:21.419Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -22,7 +22,7 @@ Para configurar ClearSaleV3 siga los pasos a continuación:
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
 2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
 3. Escriba el nombre __ClearSaleV3__ en la barra de búsqueda y haga clic en el nombre del proveedor.
-4. Si desea modificar el nombre de identificación que se mostrará para el proveedor PagoEfectivoV2 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+4. Si desea modificar el nombre de identificación que se mostrará para el proveedor ClearSaleV3 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
 5. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
 6. Complete la siguiente información de acuerdo con su configuración de ClearSale:
 <br>
@@ -72,7 +72,7 @@ La configuración del antifraude ClearSale v3 requiere la creación de una etiqu
 10. Hacer clic en el botón __Crear Tag__, insertar un nombre para esta tag y guardar.
 11. En la esquina superior derecha, hacer clic en __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-antifraude-clearsale-v3_1.png)
+![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-antifraude-clearsale-v3_1.png)
 
 ## Detalles del campo customSLA
 

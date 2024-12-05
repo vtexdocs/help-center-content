@@ -38,7 +38,7 @@ Cuando una programación de banner funciona correctamente es una coincidencia de
 - Hacer clic en el botón “Guardar Configuraciones”
 - Hacer clic en el botón “OK” en el mensaje de confirmación de la operación
 
-![Agendamiento de Banner](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/agenda-de-banner-no-funciona-correctamente_1.png)
+![Agendamiento de Banner](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/agenda-de-banner-no-funciona-correctamente_1.png)
 
 ## Workaround
 

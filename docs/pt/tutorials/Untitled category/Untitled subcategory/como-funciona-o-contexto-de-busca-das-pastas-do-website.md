@@ -39,7 +39,7 @@ Usando o mesmo exemplo anterior, se criarmos uma pasta chamada **minha-landing-p
 
 ### Configuração
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-funciona-o-contexto-de-busca-das-pastas-do-website_1.PNG)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-funciona-o-contexto-de-busca-das-pastas-do-website_1.PNG)
 
 **Importante**:
 

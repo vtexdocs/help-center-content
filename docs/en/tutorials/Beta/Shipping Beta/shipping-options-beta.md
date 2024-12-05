@@ -87,7 +87,7 @@ Follow the steps below to create a shipping option:
     - **Free shipping:** Free of charge for the consumer; no additional configuration is required.
 8. Click `Save`.
 
-![opcoes_envio_criacao_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping Beta/shipping-options-beta_1.png)
+![opcoes_envio_criacao_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/shipping-options-beta_1.png)
 
 ## Editing a shipping option
 
@@ -111,7 +111,7 @@ Besides editing a shipping option from the menu icon <i class="fas fa-ellipsis-v
 
 Once you have configured the shipping options, they will be listed under **Store Settings > Shipping > Shipping Options**, as shown in the following image:
 
-![opcoes_envio_listagem_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping Beta/shipping-options-beta_2.png)
+![opcoes_envio_listagem_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/shipping-options-beta_2.png)
 
 The table below contains the description of the columns shown:
 

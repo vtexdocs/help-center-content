@@ -22,11 +22,11 @@ El botón <i class="fas fa-info-circle"></i>, disponible en la lista de **Produc
 
 **Producto no disponible**
 
-![info vazia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_1.png)
+![info vazia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_1.png)
 
 **Producto disponible**
 
-![info preenchida](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_2.png)
+![info preenchida](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_2.png)
 
 
 ## Simulación
@@ -44,6 +44,6 @@ El botón <i class="fas fa-info-circle"></i>, disponible en la lista de **Produc
 4. Haga clic en el botón `Información indexada`.
 5. Verifique la información del SKU en el ítem Sales Channel como se muestra en la imagen a continuación.
 
-![indexed info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_3.png)
+![indexed info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/el-boton-de-informacion-del-sku-no-muestra-los-datos_3.png)
 
 

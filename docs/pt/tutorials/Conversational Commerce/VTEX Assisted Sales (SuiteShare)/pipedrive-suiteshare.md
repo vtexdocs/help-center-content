@@ -21,37 +21,37 @@ Para realizar a integração acesse no seu painel do **VTEX Assisted Sales (Sui
 
 Na dashboard em _**“Integrações”**_.
 
-![Pipedrive 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_1.png)
+![Pipedrive 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_1.png)
 
  Ou clique em "_**configurações > Integrações"**_.
 
-![Pipedrive 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_2.png)
+![Pipedrive 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_2.png)
 
 Selecione o Pipedrive e clique em _**“integrar”**_.
 
 Clique em _**“Conectar”**_.
 
-![Pipedrive 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_3.png)
+![Pipedrive 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_3.png)
 
 Faça o login na sua conta no Pipedrive
 
-![Pipedrive 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_4.png)
+![Pipedrive 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_4.png)
 
 Autorize a conexão.
 
-![Pipedrive 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_5.png)
+![Pipedrive 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_5.png)
 
 Selecione qual será o **Formulário de captura**  a ser conectado e qual será o usuário responsável. 
 
-![Pipedrive 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_6.png)
+![Pipedrive 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_6.png)
 
 Defina qual será o pipeline que será enviado o Lead.
 
-![Pipedrive 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_7.png)
+![Pipedrive 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_7.png)
 
 Defina o estágio.
 
-![Pipedrive 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/pipedrive-suiteshare_8.png)
+![Pipedrive 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/pipedrive-suiteshare_8.png)
 
 Clique no botão _**“Salvar”**_. 
 

@@ -25,4 +25,4 @@ Para instalar el sistema de impuesto TaxHub, siga los pasos abajo:
 6.	En la misma pantalla instale su App desarrollada en node.js comprimido en formato .zip (el nombre del archivo debe ser jurisdiction.zip);
 7.	El sistema guardara el archivo automáticamente.
  
-![TaxHub Instalation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/como-instalar-el-taxhub_1.gif)
+![TaxHub Instalation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/como-instalar-el-taxhub_1.gif)

@@ -32,10 +32,10 @@ Quando esse produto não aparece na loja ou quando aparece como indisponível si
 
 O indexed info é um recurso disponível no catálogo que também poderá auxiliar investigações dessa natureza. Quando você precisa identificar de forma rápida, a razão para um SKU estar indisponível, inativo ou invisível, utilize esse recurso.
 
-![IndexedInfo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/por-que-meu-produto-aparece-indisponivel-na-loja_1.png)
+![IndexedInfo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/por-que-meu-produto-aparece-indisponivel-na-loja_1.png)
 No exemplo abaixo, é possível concluir que o SKU está indisponível por ausência de preço.
 
-![IndexedInfo_detail](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/por-que-meu-produto-aparece-indisponivel-na-loja_2.png)
+![IndexedInfo_detail](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/por-que-meu-produto-aparece-indisponivel-na-loja_2.png)
 
 ## Logística
 

@@ -3,8 +3,8 @@ title: 'Promoção não aplicada ao Marketplace'
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
-updatedAt: 2024-08-16T11:47:50.872Z
-publishedAt: 2024-08-16T11:47:50.872Z
+updatedAt: 2024-11-08T19:26:57.952Z
+publishedAt: 2024-11-08T19:26:57.952Z
 firstPublishedAt: 2024-08-15T19:18:48.612Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: promocao-nao-aplicada-ao-marketplace
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras-chave:__ promoção, marketplace, política comercial, afiliado.
+**Tags:** Promoções, Marketplace, Política comercial, Afiliado
 
 Ao configurar uma promoção para marketplaces, é possível que os usuários encontrem dificuldades devido a configurações incorretas na política comercial ou afiliado. Este documento oferece orientações para assegurar que a promoção seja configurada e aplicada corretamente.
 
@@ -30,7 +30,7 @@ A [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-c
 3. Escolha as políticas comerciais desejadas vinculadas aos marketplaces.
 4. Clique em `Salvar`.
 
-![Dados gerais da promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![Dados gerais da promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/promocao-nao-aplicada-ao-marketplace_1.png)
 
 ### Seleção de afiliados
 Para garantir que uma promoção seja aplicada corretamente em um marketplace, é necessário selecionar o afiliado desejado. O afiliado é o parceiro associado ao marketplace que disponibiliza os produtos promocionais. A seguir, estão os passos para selecionar corretamente um afiliado na configuração de uma promoção.
@@ -40,7 +40,7 @@ Para garantir que uma promoção seja aplicada corretamente em um marketplace, �
   <li>Preencha o campo <strong>Afiliados</strong> com o nome do afiliado relacionado ao marketplace desejado.</li>
 </ol>
 
-  ![condições para promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
+  ![condições para promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/promocao-nao-aplicada-ao-marketplace_2.png)
 
 <ol start="3">
   <li>Na seção <strong>Política Comercial</strong>, selecione as opções <code>Iguais</code> a e <strong>Entregue por mim (Outras lojas)</strong>.</li>

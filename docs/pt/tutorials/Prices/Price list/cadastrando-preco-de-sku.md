@@ -21,7 +21,7 @@ O processo manual é mais indicado para quando o lojista deseja alterar o preço
 
 ## Cadastro ou alteração manual
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/cadastrando-preco-de-sku_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/cadastrando-preco-de-sku_1.gif)
 
 ### Cadastrar para um valor novo
 
@@ -59,7 +59,7 @@ _Se clicar no botão “Novo Valor de Tabela” após filtrar um SKU, esse será
 
 ## Cadastro ou alteração via importação de planilha do Excel
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/cadastrando-preco-de-sku_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/cadastrando-preco-de-sku_2.gif)
 
 ### Para cadastrar novos preços
 
@@ -87,7 +87,7 @@ _Se clicar no botão “Novo Valor de Tabela” após filtrar um SKU, esse será
 
 ### Campos da planilha do Excel para importação
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price list/cadastrando-preco-de-sku_3.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/cadastrando-preco-de-sku_3.jpg)
 
 - **StockKeepingUnitId: **Id do SKU que deseja cadastrar ou alterar o preço;
 - **Source: **valor de utm_source;

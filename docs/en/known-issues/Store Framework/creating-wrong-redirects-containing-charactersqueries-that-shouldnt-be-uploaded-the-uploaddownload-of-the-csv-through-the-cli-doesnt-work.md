@@ -31,7 +31,7 @@ Create a redirect for a query for example: /?binding=XXXXX
 Delete the redirect by the graphql IDE (you won't be able to delete otherwise)
 Try to download or upload the CSV of the redirects through the CLI and you want be able to do it.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store Framework/creating-wrong-redirects-containing-charactersqueries-that-shouldnt-be-uploaded-the-uploaddownload-of-the-csv-through-the-cli-doesnt-work_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/creating-wrong-redirects-containing-charactersqueries-that-shouldnt-be-uploaded-the-uploaddownload-of-the-csv-through-the-cli-doesnt-work_1.png)
 
 
 ##

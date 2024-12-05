@@ -34,7 +34,7 @@ Digamos que usted desea insertar el nombre del transportista en el e-mail de ped
 
 Para ello, entre en la plantilla de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![templateCourierMCEspanhol](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message center/Templates/incluir-variables-del-pedido-en-el-template-de-email-transaccional_1.png)
+![templateCourierMCEspanhol](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message%20center/Templates/incluir-variables-del-pedido-en-el-template-de-email-transaccional_1.png)
 
 El valor llenado para esta propiedad es sólo un ejemplo, pero puede utilizarlo en el campo __HTML__ para que, cuando se envía el e-mail, el cliente vea el transportista de hecho responsable de la entrega del pedido.
 
@@ -42,7 +42,7 @@ Tenga en cuenta que la propiedad `courier` está dentro del objeto `package`. Po
 
 `{{package.courier}}`
 
-![courier3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message center/Templates/incluir-variables-del-pedido-en-el-template-de-email-transaccional_2.png)
+![courier3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message%20center/Templates/incluir-variables-del-pedido-en-el-template-de-email-transaccional_2.png)
 
 Vea que el valor de ejemplo ("Transportadora Teste Courier S.A.") se ha insertado en la pantalla de vista previa, debajo de los campos __HTML__ y __JSON Data__.
 

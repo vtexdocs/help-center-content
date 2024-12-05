@@ -46,7 +46,7 @@ Para más información sobre el status y el flujo del pedido, consulta el artíc
 
 ## Barra superior
 
-![BarrasuperiorES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_1.jpg)
+![BarrasuperiorES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_1.jpg)
 
 La barra superior de la página contiene la siguiente información y acciones:
 
@@ -60,7 +60,7 @@ La barra superior de la página contiene la siguiente información y acciones:
 
 ## Información general 
 
-![Informacao geraisES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_2.jpg)
+![Informacao geraisES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_2.jpg)
 
 La información general del pedido se muestra en la parte superior de la página, debajo de la barra superior, e incluye:
 
@@ -80,7 +80,7 @@ Este bloque muestra el status actual del pedido en el [flujo de pedidos](https:/
 
 ### Ítems a facturar
 
-![Itens faturarES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_3.png)
+![Itens faturarES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_3.png)
 
 El bloque **Ítems a facturar** contiene paquetes con ítems cuyo pago ha sido aprobado pero que aún no han sido [facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), es decir, sus facturas no se no se emitieron a la plataforma.
 
@@ -93,7 +93,7 @@ En la esquina superior izquierda aparecen las siguientes acciones:
 
 ### Facturas
 
-![FaturaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_4.png)
+![FaturaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_4.png)
 
 Este bloque muestra los ítems facturados con sus respectivas facturas y los paquetes que componen las entregas. En este bloque tú puedes:
 
@@ -104,7 +104,7 @@ Este bloque muestra los ítems facturados con sus respectivas facturas y los paq
 
 ### Ítems devueltos
 
-![Itens devolvidosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_5.png)
+![Itens devolvidosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_5.png)
 
 El bloque de **Ítems devueltos** se muestra cuando se devuelven ítems del pedido. Mira qué información y acciones están disponibles en este bloque:
 
@@ -118,7 +118,7 @@ El bloque de **Ítems devueltos** se muestra cuando se devuelven ítems del pedi
 
 ### Historial de ítems modificados
 
-![Historico Itens alteradosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_6.png)
+![Historico Itens alteradosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_6.png)
 
 Este bloque está disponible cuando hay un cambio de ítems en el pedido. El **Historial de ítems modificados** contiene los detalles del cambio: qué ítems se añadieron o eliminaron, la fecha en que se produjo el cambio y los valores de los productos (el precio del ítem devuelto, el precio del ítem agregado y la diferencia entre los dos).
 
@@ -126,7 +126,7 @@ Si hay cambios en el valor final del pedido, la diferencia de valor se mostrará
 
 ## Historial del pedido
 
-![Historico pedidoES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_7.jpg)
+![Historico pedidoES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_7.jpg)
 
 Este bloque muestra las interaciones dentro del pedido, con sus respectivas fechas y horas. 
 
@@ -140,7 +140,7 @@ También puedes ver los detalles de las notificaciones enviadas por email al cli
 
 ## Comentarios
 
-![ComentariosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_8.png)
+![ComentariosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_8.png)
 
 Esta sección te permite añadir comentarios internos con observaciones sobre el pedido. Para ello, escribe en la caja de texto y haz clic en `Enviar`.
 
@@ -148,7 +148,7 @@ Los comentarios enviados se registran en la página de detalles del pedido con l
 
 ## Detalles financieros
 
-![LateralES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders overview/pagina-de-detalles-del-pedido_9.png)
+![LateralES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/pagina-de-detalles-del-pedido_9.png)
 
 En la parte derecha de la página, puedes consultar los detalles financieros del pedido. Esta información se actualiza automáticamente a medida que avanza el pedido. 
 

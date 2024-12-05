@@ -19,4 +19,4 @@ Caso você necessite realizar um rollback da sua app, rode o comando `vtex depre
 
 Se você perceber em seguida que será necessario desfazer a deprecação, poderá realizar o comando `vtex undeprecate`
 
-![image (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Apps Overview/como-deprecar-e-reverter-a-deprecacao-da-sua-app_1.png)
+![image (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Apps%20Overview/como-deprecar-e-reverter-a-deprecacao-da-sua-app_1.png)

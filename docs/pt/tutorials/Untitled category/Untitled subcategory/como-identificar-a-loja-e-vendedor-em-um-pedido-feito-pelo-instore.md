@@ -29,7 +29,7 @@ Para enviar dados de pedidos para sistemas externos, como dashboards e data lake
 
 Quando um pedido é fechado no inStore, a identificação do usuário logado no aplicativo fica visível na parte superior da tela de detalhes do pedido no Admin. No exemplo abaixo, o nome do usuário é `A123456`.
 
-![PT - ID do vendedor inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_1.png)
+![PT - ID do vendedor inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_1.png)
 
 Quando os detalhes do pedido são obtidos pela [Orders API](https://developers.vtex.com/vtex-developer-docs/reference/orders), o nome do usuário está disponível no campo `callCenterOperatorData.userName`. Também é possível acessar o e-mail deste usuário em  `callCenterOperatorData.email`.
 
@@ -43,7 +43,7 @@ Quando os detalhes do pedido são obtidos pela [Orders API](https://developers.v
 
 Caso o usuário logado no aplicativo seja compartilhado entre vendedores da mesma loja, é possível ainda incluir a identificação do vendedor no campo de observação do cliente.
 
-![PT - ID do vendedor inStore (alt)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_2.png)
+![PT - ID do vendedor inStore (alt)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_2.png)
 
 Quando os detalhes do pedido são obtidos pela Orders API, esta informação fica disponível no campo `openTextField.value`.
 
@@ -57,7 +57,7 @@ Quando os detalhes do pedido são obtidos pela Orders API, esta informação fic
 
 Quando um pedido é fechado no inStore, a identificação da loja fica visível na seção de Promoções e Parcerias da tela de detalhes do pedido no Admin. No exemplo abaixo, o identificador da loja é `8b4d5ea1-2055-11ea-82fa-0ad725bc7b4f`.
 
-![PT - ID da loja inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_3.png)
+![PT - ID da loja inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_3.png)
 
 Quando os detalhes do pedido são obtidos pela Orders API, esta informação fica disponível no campo `marketingData.utmSource`.
 
@@ -82,7 +82,7 @@ Quando os detalhes do pedido são obtidos pela Orders API, esta informação fic
 
 O identificador do vendedor e da loja podem ser usados para consultar os dados de cadastro em `https://{accountName}.myvtex.com/admin/vtable`. 
 
-![PT - Admin inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_4.png)
+![PT - Admin inStore](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_4.png)
 
 >ℹ️ As instruções abaixo explicam como fazer essas consultas usando os identificadores que aparecem em um pedido. Se necessário, entretanto, é possível buscar usando qualquer campo do cadastro de lojas e vendedores.
 
@@ -98,7 +98,7 @@ Para fazer essa busca, siga as instruções abaixo:
 
 Ao concluir o passo 4, a expressão do filtro de busca deve ficar no formato `Nome:=:A123456`. Assim será possível encontrar o vendedor na listagem de vendedores, como visto na imagem abaixo.
 
-![PT - Admin dos vendedores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_5.png)
+![PT - Admin dos vendedores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_5.png)
 
 Caso prefira fazer essa consulta por API, basta usar o endpoint [Search Documents](https://developers.vtex.com/vtex-developer-docs/reference/search#searchdocuments) da [Master Data API - V2](https://developers.vtex.com/reference/master-data-api-v2-overview) para buscar pelo identificador da loja na entidade de dados `vendors`.
 
@@ -114,6 +114,6 @@ Para fazer essa busca, siga as instruções abaixo:
 
 Ao concluir o passo 4, a expressão do filtro de busca deve ficar no formato `Id do Documento:=:8b4d5ea1-2055-11ea-82fa-0ad725bc7b4f`. Assim será possível encontrar a loja na listagem de lojas, como visto na imagem abaixo.
 
-![PT - Admin das lojas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_6.png)
+![PT - Admin das lojas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/como-identificar-a-loja-e-vendedor-em-um-pedido-feito-pelo-instore_6.png)
 
 Caso prefira fazer essa consulta por API, basta usar o endpoint [Search Documents](https://developers.vtex.com/vtex-developer-docs/reference/search#searchdocuments) da [Master Data API - V2](https://developers.vtex.com/reference/master-data-api-v2-overview) para buscar pelo identificador da loja na entidade de dados `stores`.

@@ -36,7 +36,7 @@ Hay cuatro tipos de flujo de pedidos en VTEX:
 
 ### Flujo de marketplace
 
-![pedido_marketplace_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/flujo-y-status-de-pedidos_1.png)
+![pedido_marketplace_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_1.png)
 
 El flujo del _marketplace_ está integrado con el flujo del _seller_. Cuando se finaliza un pedido que será enviado por un _seller_ externo (que no es el _seller_ principal), el flujo visto por el _marketplace_ es el siguiente: 
 
@@ -53,7 +53,7 @@ Para saber cómo identificar pedidos que provienen de _marketplaces_, consulta e
 
 ### Flujo de seller
 
-![pedido_fluxo_seller_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/flujo-y-status-de-pedidos_2.png)
+![pedido_fluxo_seller_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_2.png)
 
 Este es el flujo del pedido visto por la tienda responsable de enviar los productos que componen el pedido. El pedido se realiza a través de otra tienda (o _marketplace_) y el flujo del _seller_ se inicia después de la confirmación del pedido.
 
@@ -85,7 +85,7 @@ Este es el flujo del pedido visto por la tienda responsable de enviar los produc
 
 ### Flujo completo
 
-![pedido_fluxo_completo_es_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/flujo-y-status-de-pedidos_3.png)
+![pedido_fluxo_completo_es_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_3.png)
 
 El flujo completo del pedido es visto por la tienda que realiza la venta y el envío del pedido. El flujo completo está compuesto por el flujo del _marketplace_ y el flujo del _seller_ de forma secuencial.
 
@@ -127,7 +127,7 @@ Para saber más sobre la cancelación de pedidos, consulta el artículo [¿Por q
 
 ### Flujo de cadena
 
-![pedido_fluxo_chain_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/flujo-y-status-de-pedidos_4.png)
+![pedido_fluxo_chain_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_4.png)
 
 El flujo de pedidos visto por la tienda intermediaria en una venta [Multinivel Omnichannel Inventory](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) es similar al flujo de pedidos del _marketplace_, excepto al recibir el pago de los pedidos. En la etapa de `Pago pendiente`, en lugar de la cadena recibir el pago directamente del _gateway_, el _marketplace_ informa a la cadena que recibió la confirmación del pago. 
 

@@ -21,6 +21,6 @@ The check-in route of the Checkout calls Logistics in its flow. What does this m
 
 After registering your stores on MasterData ([see here how to do this](/en/tutorial/how-to-register-a-store-in-vtex-instore)), you can choose the store you would like to associate with this dock, as shown in the image below:
 
-![2017-06-16 16 43 14-VTEX - Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified Commerce/VTEX Sales App/setting-up-vtex-instore-logistics_1.png)
+![2017-06-16 16 43 14-VTEX - Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/setting-up-vtex-instore-logistics_1.png)
 
 For each registered store, a corresponding dock should exist.

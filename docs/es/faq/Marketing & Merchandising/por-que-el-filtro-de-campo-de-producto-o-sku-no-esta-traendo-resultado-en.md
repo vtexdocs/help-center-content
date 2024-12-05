@@ -30,4 +30,4 @@ Para acceder a esta pantalla, siga los pasos abajo:
 
 La flag Filtro aparece en la pantalla de configuración del campo de producto.
 
-![Filtro Campo de produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en_1.png)
+![Filtro Campo de produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en_1.png)

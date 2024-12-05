@@ -159,7 +159,7 @@ Después de completar la segunda pestaña, se necesita reenviar la plantilla de 
 1. Acceda al Admin.
 2. En el módulo Marketplace, seleccione Integraciones.
 3. Seleccione la opción Configuración.
-4. En la integración Mercado Libre, haga clic en el ícono de engranaje<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/es/tracks/mercado-libre-integration-set-up/guia-de-talles_2.JPG" />.
+4. En la integración Mercado Libre, haga clic en el ícono de engranaje<img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/guia-de-talles_2.JPG" />.
 5. Elija la opción **Carga de mapeo**.
 6. Seleccione **Elegir un archivo**.
 7. Ahora, seleccione la plantilla de mapeo de categorías, atributos y variaciones de Mercado Libre.
@@ -172,7 +172,7 @@ Necesita acceder a su cuenta de Mercado Libre para activar la guía de tallas. D
 1. Acceda a su cuenta en Mercado Libre.
 2. Haga clic en la opción **Ventas**.
 3. En el menú del lado izquierdo, seleccione la opción **Publicaciones**.
-4. Haga clic en los 3 puntos <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/es/tracks/mercado-libre-integration-set-up/guia-de-talles_3.JPG" /> ubicados en el lado derecho de su anuncio. 
+4. Haga clic en los 3 puntos <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/guia-de-talles_3.JPG" /> ubicados en el lado derecho de su anuncio. 
 5. Seleccione **Alterar**.
 6. En la opción Guía de tallas, seleccione la tabla que creó.
 7. Haga clic en **Confirmar**.

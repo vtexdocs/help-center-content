@@ -88,11 +88,11 @@ As imagens a seguir apresentam exemplos de preenchimento no Admin VTEX:
 
 * **Exemplo de frequência mensal:** a imagem apresenta uma assinatura mensal com pedidos que podem ser feitos todo dia 1, 15 ou 28 de cada mês:
 
-  ![PT Assinatura Exemplo Valores month](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_1.png)
+  ![PT Assinatura Exemplo Valores month](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_1.png)
 
 * **Exemplo de frequência a cada 3 semanas:** a imagem apresenta uma assinatura que cria novos pedidos a cada 3 semanas, e a compra pode acontecer aos domingos, terças ou sábados.
 
-  ![PT Assinatura Exemplo Valores week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_2.png)
+  ![PT Assinatura Exemplo Valores week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_2.png)
 
 ## 3. Associar SKU ao anexo de assinatura
 

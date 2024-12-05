@@ -19,7 +19,7 @@ Ese es el procedimiento después del manejo del pedido: la creación de la nota 
 
 Para hacerlo manualmente por **Gestión de pedidos**, basta hacer clic en el botón `Facturar Paqueta`, como en la imagen abajo.
 
-![faturar-pedido-ex es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/como-insertar-la-nota-fiscal_1.png)
+![faturar-pedido-ex es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/como-insertar-la-nota-fiscal_1.png)
 
 Con la inserción de la nota fiscal con el valor completo del pedido, él pasará para el status **Facturado.**
 

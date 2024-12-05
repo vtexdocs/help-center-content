@@ -22,7 +22,7 @@ When you set a currency in an XML, it applies to all fields except the **Parcela
 
 The **Parcelamento** field always shows the currency "R$", regardless of whether the currency is set differently.
 
-![Parcelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing & Merchandising/xml-currency-symbol-in-the-installment_1.png)
+![Parcelamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/xml-currency-symbol-in-the-installment_1.png)
 
 
 ## Simulation

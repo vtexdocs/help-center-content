@@ -19,7 +19,7 @@ Entering the tax receipt in the order is a mandatory step so that the status bec
 
 To do this manually using the **Orders management**,  click on the `Invoice package` button, as shown in the image below.
 
-![faturar-pedido-ex en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All orders/entering-tax-receipts-in-the-order_1.png)
+![faturar-pedido-ex en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/All%20orders/entering-tax-receipts-in-the-order_1.png)
 
 Once the tax receipt is entered with the total amount of the order, the status changes to **Invoiced**.
 

@@ -25,7 +25,7 @@ In this article you will find the primary method for getting the orders you rece
 
 An order integration comprises four moments, each one being a small process in itself.
 
-![ERP Orders 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP integration/integration-guide-for-erps-orders_1.png) 
+![ERP Orders 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP%20integration/integration-guide-for-erps-orders_1.png) 
 
 # Order integration steps
 
@@ -39,7 +39,7 @@ After deciding it is time to take an order into your fulfillment platform, you j
 
 In the end, for the processed orders, you send a “Start Handling” message the OMS.
 
-![ERP Orders 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP integration/integration-guide-for-erps-orders_2.png) 
+![ERP Orders 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP%20integration/integration-guide-for-erps-orders_2.png) 
 
 ### API calls
 
@@ -112,7 +112,7 @@ Now the order is being processed by your fulfillment platform. During this proce
 
 When you are ready to deliver the order, it is time to tell VTEX you are ready, so that payment authorization may be captured and your customer be notified about the progress.
 
-![ERP Orders 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP integration/integration-guide-for-erps-orders_3.png)
+![ERP Orders 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP%20integration/integration-guide-for-erps-orders_3.png)
 
 ### API calls
 
@@ -185,7 +185,7 @@ There is no hard limit in the number of tracking messages that can be added to a
 
 It's important to notice that this information is actually a set of attributes of the invoice. So, it can be sent together with the invoice, when sending it to the web store in case you have this information at that time.
 
-![ERP Orders 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP integration/integration-guide-for-erps-orders_4.png) 
+![ERP Orders 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/ERP%20integration/integration-guide-for-erps-orders_4.png) 
 
 ### API calls
 

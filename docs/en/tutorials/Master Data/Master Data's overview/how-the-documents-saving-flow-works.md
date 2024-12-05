@@ -17,7 +17,7 @@ subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 
 The image below shows the flow of the saving of documents in Master Data. We'll explain each step.
 
-![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data's overview/how-the-documents-saving-flow-works_1.png)
+![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data's%20overview/how-the-documents-saving-flow-works_1.png)
 
 #### Save API call
 It happens when the user calls the saving documents APIs (POST, PUT or PATCH).

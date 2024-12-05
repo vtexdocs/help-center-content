@@ -55,7 +55,7 @@ Generating the report may take a while if the volume of data is big. In such cas
 
 >ℹ️ Leaving the page will not affect the operation.
 
-![Sales Comission Report EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/manage-the-sales-comissions-report_1.png)
+![Sales Comission Report EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/manage-the-sales-comissions-report_1.png)
 
 Later, you can also download the recently generated report using a link provided in the list of reports.  
 

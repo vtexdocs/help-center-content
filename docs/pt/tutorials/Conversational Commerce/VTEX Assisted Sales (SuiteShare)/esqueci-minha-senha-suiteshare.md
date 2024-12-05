@@ -17,14 +17,14 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Para recuperar sua senha, acesse o site do [VTEX Assisted Sales (SuiteShare)](https://suiteshare.com) e clique em **Entrar**. 
 
-![Senha_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/esqueci-minha-senha-suiteshare_1.png)
+![Senha_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/esqueci-minha-senha-suiteshare_1.png)
 
 Clique em **Esqueci minha senha**.
 
-![Senha_Suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/esqueci-minha-senha-suiteshare_2.png)
+![Senha_Suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/esqueci-minha-senha-suiteshare_2.png)
 
 Digite o seu email, para receber as informações de redefinição de senha.
 
-![Senha_Suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/esqueci-minha-senha-suiteshare_3.png)
+![Senha_Suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/esqueci-minha-senha-suiteshare_3.png)
 
 Pronto! Basta adicionar a nova senha e realizar o login normalmente.

@@ -3,8 +3,8 @@ title: 'Módulos de VTEX I'
 id: 75MX4aorniD0BYAB8Nwbo7
 status: PUBLISHED
 createdAt: 2024-01-17T19:53:53.326Z
-updatedAt: 2024-02-23T00:42:01.506Z
-publishedAt: 2024-02-23T00:42:01.506Z
+updatedAt: 2024-11-05T17:47:00.449Z
+publishedAt: 2024-11-05T17:47:00.449Z
 firstPublishedAt: 2024-02-22T14:07:05.427Z
 contentType: trackArticle
 productTeam: Others
@@ -263,8 +263,8 @@ Además, si el modelo de negocio incluye tiendas internacionales y ventas [cross
 El conjunto de configuraciones esenciales de logística para una tienda VTEX se denomina [Estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), y se compone de tres conceptos principales: política de envío, almacén y muelle.
 
 - __[Política de envío](#politica-de-envio)__: conjunto de reglas que definen las opciones y condiciones de envío del pedido.
-- __[Almacén](#almacen)__: espacio físico donde se almacenan los productos a la venta.
 - __[Muelle](#muelle)__: local de distribución de los ítems vendidos.
+- __[Almacén](#almacen)__: espacio físico donde se almacenan los productos a la venta.
 
 La imagen siguiente muestra cómo se relacionan estos conceptos en la venta de un producto:
 
@@ -273,19 +273,21 @@ La imagen siguiente muestra cómo se relacionan estos conceptos en la venta de u
 La siguiente tabla muestra los principales ajustes de logística de la tienda VTEX:
 
 <div class="alert alert-INFO">
-Recomendamos en primer lugar configurar el almacén, en segundo lugar el muelle y, finalmente, la política de envío.
+Recomendamos en primer lugar configurar la política de envío, en segundo lugar el muelle y, finalmente, el almacén.
 </div>
 
 | **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
 | :---: | :--- | :--- |
-| [Almacén](#almacen) | [Gestionar almacenes](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
-| [Muelle](#muelle) | [Gestionar el muelle](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
 | [Políticas de envío](#politica-de-envio) | [Política de Envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| [Muelle](#muelle) | [Gestionar el muelle](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| [Almacén](#almacen) | [Gestionar almacenes](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 | [Stock](#gestion-del-stock) | [Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) | [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) |
 
-####  Almacén
+#### Política de envío  
 
-La ruta logística se inicia en el [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), que es el espacio físico de almacenamiento para los productos que vende la tienda. Cuando los ítems vendidos se alistan en el almacén, se envían al muelle de carga.
+La [Política de envio](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) es un conjunto de reglas que definen las opciones y condiciones de envío que se presentarán a los clientes en el checkout. Las condiciones de envío incluyen transportadora, plazos y valor del envío. La política de envío se vincula al almacén a través del muelle.
+
+La [transportadora](https://help.vtex.com/es/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE) responsable del envío del pedido viene determinada por la política de envío. En primer lugar, deben registrarse las transportadoras en la [plantilla de envío](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127), después, esta plantilla de envío se asocia cuando se crea una política de envío.
 
 #### Muelle
 
@@ -297,11 +299,9 @@ El [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) es e
 
 Para determinados productos, puede no ser necesario un espacio físico de distribución. Aun así, para el correcto funcionamiento de las operaciones de la plataforma VTEX hay que configurar el muelle obligatoriamente.
 
-#### Política de envío  
+####  Almacén
 
-La [Política de envio](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) es un conjunto de reglas que definen las opciones y condiciones de envío que se presentarán a los clientes en el checkout. Las condiciones de envío incluyen transportadora, plazos y valor del envío. La política de envío se vincula al almacén a través del muelle.
-
-La [transportadora](https://help.vtex.com/es/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE) responsable del envío del pedido viene determinada por la política de envío. En primer lugar, deben registrarse las transportadoras en la [plantilla de envío](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127), después, esta plantilla de envío se asocia cuando se crea una política de envío.
+La ruta logística se inicia en el [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), que es el espacio físico de almacenamiento para los productos que vende la tienda. Cuando los ítems vendidos se alistan en el almacén, se envían al muelle de carga.
 
 ### Gestión del stock
 

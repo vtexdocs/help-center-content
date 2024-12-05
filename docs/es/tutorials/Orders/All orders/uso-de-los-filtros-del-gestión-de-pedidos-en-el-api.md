@@ -28,19 +28,19 @@ El ejemplo utilizado es la API de consulta a los pedidos: http://{NOMBRETIENDA}.
 
 Utilizaremos el filtro por la fecha de creación del pedido en un intervalo que traiga todos los pedidos realizados **hace un mes** y que estén en el estado **listo para el manejo.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/uso-de-los-filtros-del-gestión-de-pedidos-en-el-api_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/uso-de-los-filtros-del-gesti%C3%B3n-de-pedidos-en-el-api_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/uso-de-los-filtros-del-gestión-de-pedidos-en-el-api_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/uso-de-los-filtros-del-gesti%C3%B3n-de-pedidos-en-el-api_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/uso-de-los-filtros-del-gestión-de-pedidos-en-el-api_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/uso-de-los-filtros-del-gesti%C3%B3n-de-pedidos-en-el-api_3.png)
 
 Cuando se realizan los filtros, se generará una URL en el propio navegador con los parámetros seleccionados:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/uso-de-los-filtros-del-gestión-de-pedidos-en-el-api_4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/uso-de-los-filtros-del-gesti%C3%B3n-de-pedidos-en-el-api_4.png)
 
 Por lo tanto, es necesario descodificar la dirección URL para ser interpretada por la interfaz de REST. Una herramienta ágil para ajustar esto manualmente es la [URL del dencoder]
 (http://meyerweb.com/eric/tools/dencoder/ "URL dencoder").
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/uso-de-los-filtros-del-gestión-de-pedidos-en-el-api_5.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/uso-de-los-filtros-del-gesti%C3%B3n-de-pedidos-en-el-api_5.png)
 
 Hecho esto, basta con copiar la extensión de la URL desde el "?" Y pegar en la estructura de origen a la URL de solicitud.
 Por ejemplo: `http://{accountName}.vtexcommercestable.com.br/api/oms/pvt/orders?orderBy=creationDate,desc&f_creationDate=creationDate:[2017-01-01T03:00:00.000Z TO 2017-07-10T02:59:59.999Z]&f_statusDescription=Pronto+para+o+manuseio`

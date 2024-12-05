@@ -27,7 +27,7 @@ Esta página permite que você gerencia seus vendedores a partir das seguintes a
 * [Editar](#editar-vendedor)
 * [Excluir](#excluir-vendedor)
 
-![vendedores-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/vendedores-instore-beta_1.png)
+![vendedores-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/vendedores-instore-beta_1.png)
 
 A página apresenta as seguintes informações: 
 
@@ -50,7 +50,7 @@ Você pode cadastrar um vendedor seguindo os passos abaixo:
 
 Após o cadastro, o vendedor irá receber um email confirmando o cadastro e redirecionando para a opção de login do vendedor ao aplicativo inStore.
 
-![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX Sales App Beta/vendedores-instore-beta_2.png)
+![email-vendedor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/vendedores-instore-beta_2.png)
 
 >⚠️ Os vendedores cadastrados no inStore não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin seu cadastro será excluído.
 

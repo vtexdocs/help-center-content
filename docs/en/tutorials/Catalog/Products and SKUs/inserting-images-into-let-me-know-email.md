@@ -32,7 +32,7 @@ Here's how to do so:
 5. Go to the __HTML__ box.  
 6. Enter the __code__ of the images you want to insert. 
 
-  ![Let me know - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products and SKUs/inserting-images-into-let-me-know-email_1.jpg)
+  ![Let me know - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/inserting-images-into-let-me-know-email_1.jpg)
 
 7. Click `Save`.  
 

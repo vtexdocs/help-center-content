@@ -66,15 +66,15 @@ With this type of information, users are able to send to Google information abou
 
 **
 ****Step 1**
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/structured-data-through-google-search-console-data-markers_1.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_1.gif)****
 
 ****Step 2****
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/structured-data-through-google-search-console-data-markers_2.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_2.gif)****
 
 ****Step 3****
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/structured-data-through-google-search-console-data-markers_3.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_3.gif)****
 
 ## Products
 
@@ -94,11 +94,11 @@ With this type of information, users are able to send to Google information abou
 
 **** Step 1****
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/structured-data-through-google-search-console-data-markers_4.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_4.gif)****
 
 ****Step 2****
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/structured-data-through-google-search-console-data-markers_5.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_5.gif)****
 
 ****Step 3****
 

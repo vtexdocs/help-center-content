@@ -32,6 +32,6 @@ Exemplo:  Buscando/filtrando pelo Campo "Cidade" com o atributo "Rio de Janeiro"
 
 ## Workaround
 
-![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master Data/dificuldade-em-buscar-no-crm-por-campos-contendo-espacos_1.png)Felizmente ha um workaround simples que não necessita o uso da API.
+![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master%20Data/dificuldade-em-buscar-no-crm-por-campos-contendo-espacos_1.png)Felizmente ha um workaround simples que não necessita o uso da API.
 Ao clicar em "Todos" no dropdown, a mesma busca pode ser feita sem causar erro.
 

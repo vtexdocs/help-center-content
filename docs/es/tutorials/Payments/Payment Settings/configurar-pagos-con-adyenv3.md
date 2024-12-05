@@ -3,8 +3,8 @@ title: 'Configurar pagos con AdyenV3'
 id: 7xAz67E2Eg63LWCQNjVdwv
 status: PUBLISHED
 createdAt: 2023-05-08T20:00:38.610Z
-updatedAt: 2024-06-25T21:10:30.984Z
-publishedAt: 2024-06-25T21:10:30.984Z
+updatedAt: 2024-10-30T12:31:17.835Z
+publishedAt: 2024-10-30T12:31:17.835Z
 firstPublishedAt: 2023-05-11T20:32:21.638Z
 contentType: tutorial
 productTeam: Financial
@@ -38,7 +38,7 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 2. En la barra lateral izquierda, copia y guarda la información descrita antes de __Company__. Esta es tu Company Account.
 3. En la lista de abajo, busca el nombre de la Merchant Account a utilizar (resaltada en blanco). Copia y guarda esta información.
 
-![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_1.PNG)
+![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_1.PNG)
 
 ### Obtener la Live URL
 
@@ -53,7 +53,7 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 2. Selecciona tu credencial API.
 3. En __Server Settings > Authentication__, selecciona __API key__. 
 
-![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_2.PNG)
+![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_2.PNG)
 
 <blockquote><ui>4. Haz clic en <b>Generate Key</b> y anota la información creada en un lugar seguro.</ui>
 
@@ -61,7 +61,9 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 
 <blockquote><ui>6. Haz clic en <b>Generate Client Key</b> y anota la información creada en un lugar seguro.
 
-![Adyenv3_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_3.PNG)
+<blockquote><ui>7. En <b>Add allowed origins</b>, añade la dirección de dominio de tu tienda. Por ejemplo: https://www.tutienda.com.   
+
+![Adyenv3_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_3.png)
 
 ### Configura el webhook
 
@@ -75,7 +77,7 @@ Configura el webhook según los pasos a continuación:
 4. En __General > Description__, agrega una descripción para el nuevo webhook. Ejemplo: "Webhook Adyen Connector Provider v3".
 5. En __General > Server configuration > URL__ introduce la URL de tu cuenta VTEX. Ejemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_4.PNG)
+![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_4.PNG)
 
 <blockquote><ui>6. Haz clic en <b>Apply</b>.</ui>
 
@@ -83,11 +85,11 @@ Configura el webhook según los pasos a continuación:
 
 <blockquote><ui>8. Haz clic en <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_5.PNG)
+![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_5.PNG)
 
-![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_6.PNG)
+![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_6.PNG)
 
-![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/configurar-pagos-con-adyenv3_7.PNG)
+![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_7.PNG)
 
 >ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
 

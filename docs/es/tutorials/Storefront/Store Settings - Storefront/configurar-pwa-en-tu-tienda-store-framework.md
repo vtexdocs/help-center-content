@@ -26,11 +26,11 @@ Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **S
 1. Haz clic en la pestaña **PWA**.
 2. Define **Color del tema**, **Color de fondo**, y agrega el **ícono del logotipo Android (512x512, PNG)** y **el del logotipo iOS (512x512, PNG)**. Los colores deben especificarse en código hexadecimal (por ejemplo, #F71963) y los íconos deben tener un tamaño de 512x512 px y una extensión `.png`.
 
-  ![pwa-settings-1-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-pwa-en-tu-tienda-store-framework_1.png)
+  ![pwa-settings-1-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-pwa-en-tu-tienda-store-framework_1.png)
 
 3. Desplázate hacia abajo hasta el campo **Otras configuraciones de PWA**. Haz clic en la flecha para mostrarlas.
 
-  ![pwa-settings-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-pwa-en-tu-tienda-store-framework_2.png)
+  ![pwa-settings-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-pwa-en-tu-tienda-store-framework_2.png)
 
 4. En **Otras configuraciones de PWA**, rellena los campos según las directrices que se indican a continuación:
 
@@ -60,7 +60,7 @@ Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **S
     - **Agregar a la pantalla de inicio**: cuando se activa, permite que la PWA la instale el usuario.
     - **Mostrar promt "Agregar a la pantalla de inicio"**: define el momento en que se le sugerirá al usuario instalar la PWA. Se puede asignar uno de los siguientes valores: En la primera visita, En el primer ítem agregado al carrito o Al finalizar la primera compra. Esta opción solo es aplicable cuando la opción **Agregar a pantalla de inicio** está activada.
 
-    ![pwa-settings-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-pwa-en-tu-tienda-store-framework_3.png)
+    ![pwa-settings-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-pwa-en-tu-tienda-store-framework_3.png)
 
 5. Haz clic en `Guardar`.
 

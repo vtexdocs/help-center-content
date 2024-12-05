@@ -3,8 +3,8 @@ title: 'Google Search Console Tracking - Sitemap'
 id: tutorials_575
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:01.525Z
-updatedAt: 2019-12-31T15:24:04.746Z
-publishedAt: 2019-12-31T15:24:04.746Z
+updatedAt: 2024-11-18T22:54:37.262Z
+publishedAt: 2024-11-18T22:54:37.262Z
 firstPublishedAt: 2017-04-27T23:03:39.911Z
 contentType: tutorial
 productTeam: Others
@@ -34,11 +34,11 @@ Follow the steps below to register your Sitemap:
 Go to your store’s Search Console panel: 
 [https://search.google.com/search-console/sitemaps?resource_id=sc-domain%YOURDOMAIN.com&hl=en**]
 
-![Sitemaps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/google-search-console-tracking-sitemap_1.png)
+![Sitemaps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/google-search-console-tracking-sitemap_1.png)
 
 Add your new sitemap and click on submit. The Search Console will access the XML and verify it.
  
-After successfully adding the sitemap to Search Console, the tool will show you a list of all the URLs:![Sitemap URL List](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/google-search-console-tracking-sitemap_2.png)
+After successfully adding the sitemap to Search Console, the tool will show you a list of all the URLs:![Sitemap URL List](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/google-search-console-tracking-sitemap_2.png)
 
 
 

@@ -28,7 +28,7 @@ The metrics section is divided into three large groups:
 - Payment data;
 - Catalog Data.
 
-![Action Dashboard](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/About the Admin/Admin overview/using-the-homepage-of-the-admin-panel_1.png)
+![Action Dashboard](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/About%20the%20Admin/Admin%20overview/using-the-homepage-of-the-admin-panel_1.png)
 
 ### Bridge
 
@@ -64,4 +64,4 @@ It shows new VTEX Help articles, or those that have been updated recently.  We c
 
 Right below the articles, the **Info e Eventos** section shows the novelties about the platform, e-commerce hints, information on electronic commerce events and other disclosures made by VTEX. 
 
-![APIDocs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/About the Admin/Admin overview/using-the-homepage-of-the-admin-panel_2.png)
+![APIDocs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/About%20the%20Admin/Admin%20overview/using-the-homepage-of-the-admin-panel_2.png)

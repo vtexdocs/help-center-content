@@ -3,8 +3,8 @@ title: 'Configurar desconto de preço à vista'
 id: 7Lfcj9Wb5dpYfA2gKkACIt
 status: PUBLISHED
 createdAt: 2020-12-18T19:16:46.225Z
-updatedAt: 2024-09-05T16:45:39.679Z
-publishedAt: 2024-09-05T16:45:39.679Z
+updatedAt: 2024-11-01T13:37:19.588Z
+publishedAt: 2024-11-01T13:37:19.588Z
 firstPublishedAt: 2021-05-04T20:05:58.585Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

@@ -19,7 +19,7 @@ Special conditions are part of the configuration of payment conditions which all
 
 To identify the special conditions applicable to each payment method, in the VTEX Admin, access  __Payments > Settings > Payment Conditions__, select the desired payment method and check the options as shown in the illustration below.
 
-![special payment conditions](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/special-conditions_1.png)
+![special payment conditions](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/special-conditions_1.png)
 
 ## Commercial condition
 
@@ -29,7 +29,7 @@ To learn how to add a new commercial condition, and link it to a SKU, read the d
 
 ## How to configure a commercial condition on the payment condition
 
-![condicao-comercial en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/special-conditions_2.png)
+![condicao-comercial en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/special-conditions_2.png)
 
 1. Inside the payment condition, click on `Add special condition`.
 3. Then, click on `Commercial Condition`.
@@ -89,7 +89,7 @@ Allows a payment condition to be applied to a specific trade policy, or as many 
 
 How to configure a trade policy for the payment condition
 
-![politica-comercial en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/special-conditions_3.png)
+![politica-comercial en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/special-conditions_3.png)
 
 1. Inside Payment Conditions, click on `Add special condition`.
 3. Then, click on `Trade Policy (Sales Channel)`.
@@ -114,7 +114,7 @@ How to configure the issuing bank in the payment condition
 6. If you want to segment by co-brand, select the desired option in __Co-brand__ (this box will only appear if VTEX was made aware of the co-brand card list beforehand).
 7. Save changes.
 
-![banco-emissor en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/special-conditions_4.png)
+![banco-emissor en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/special-conditions_4.png)
 
 ### Examples
 
@@ -144,7 +144,7 @@ Allow you to set up an expiration date for the payment condition, so that its ap
 
 How to configure the payment condition period:
 
-![periodo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/special-conditions_5.png)
+![periodo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/special-conditions_5.png)
 
 1. In Payment Conditions, click on `Add special condition`.
 2. Then, click on `Period`.

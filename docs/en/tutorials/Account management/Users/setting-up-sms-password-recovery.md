@@ -26,13 +26,13 @@ That being said, check out the step-by-step on how to set it up:
 1. Enter the __Message Center__.
 2. Click __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/setting-up-sms-password-recovery_1.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-sms-password-recovery_1.png)
 
 3. Click on the __Password Recovery__ template.
 4. Click the __SMS__ tab.
 5. Choose the option __"Enable SMS sending?"__.
 
-  ![password-recovery-sms-tab-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/setting-up-sms-password-recovery_2.gif)
+  ![password-recovery-sms-tab-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-sms-password-recovery_2.gif)
 
   *After clicking on "Enable SMS sending", the platform presents the other sending settings.*
 
@@ -40,7 +40,7 @@ That being said, check out the step-by-step on how to set it up:
 7. Fill in the __Destination__ field with the variable `{{_accountInfo.Telephone}}`.
 8. Fill in the __Message Text__ field with the message content. The information `Name: {{name}}`, `Login: {{login}}` and `Password: {{password}}` are essential.
 
-  ![password-recovery-sms-fields-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Users/setting-up-sms-password-recovery_3.png)
+  ![password-recovery-sms-fields-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-sms-password-recovery_3.png)
 
 9. Review the SMS content in __Preview__.
 10. Click __Save__.

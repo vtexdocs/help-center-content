@@ -22,17 +22,17 @@ To set up payments made with Visa Debit at your store, in the VTEX Admin, go to 
 First, you need to create a payment condition to enable Visa Debit in the Checkout.
 To do so, in **Settings** access the menu of **Payment conditions** options:
 
-![2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-set-up-visa-debit_1.png)
+![2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-set-up-visa-debit_1.png)
 
 Select Visa Electron to create the payment condition:
 
-![4.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-set-up-visa-debit_2.png)
+![4.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-set-up-visa-debit_2.png)
 
 ### Configure payment condition
 
 Select the desired affiliation to transact the payments; enable the payment condition; and, finally, save the changes: 
 
-![3.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/how-to-set-up-visa-debit_3.png)
+![3.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-set-up-visa-debit_3.png)
 
 ### Display credit cards in Checkout
 

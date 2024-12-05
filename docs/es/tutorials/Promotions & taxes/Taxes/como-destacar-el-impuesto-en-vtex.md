@@ -23,10 +23,10 @@ En este artículo vamos a mostrar como el sistema funciona para estos casos.
 
 **Escenario 1**: Mi ERP envía el precio ya con IVA a VTEX, entonces no necesito hacer el cálculo.
 
-1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_1.png)
-2. Página de Producto![PRODUCTOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_2.png)
-3. Carrito![CARRITOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_3.png)
-4. Checkout![CHECKOUTSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_4.png)
+1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_1.png)
+2. Página de Producto![PRODUCTOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_2.png)
+3. Carrito![CARRITOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_3.png)
+4. Checkout![CHECKOUTSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_4.png)
 
 **Escenario 2**: Mi ERP envía el precio *sin* IVA a VTEX.
 
@@ -38,7 +38,7 @@ O entonces para crear un JS y sumar el valor del impuesto en las vitrinas, tambi
 
 __Atención__: En la pagina de producto es necesario poner un JavaScript para hacer la suma del valor.
 
-1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_5.png)
-2. Página de Producto![PRODUCTOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_6.png)
-3. Carrito![CARRITOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_7.png)
-4. Checkout![CHECKOUTCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Taxes/como-destacar-el-impuesto-en-vtex_8.png)
+1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_5.png)
+2. Página de Producto![PRODUCTOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_6.png)
+3. Carrito![CARRITOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_7.png)
+4. Checkout![CHECKOUTCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_8.png)

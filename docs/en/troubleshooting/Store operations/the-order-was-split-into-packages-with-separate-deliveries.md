@@ -3,8 +3,8 @@ title: 'The order was split into packages with separate deliveries'
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z
-updatedAt: 2024-06-19T15:13:11.172Z
-publishedAt: 2024-06-19T15:13:11.172Z
+updatedAt: 2024-11-08T18:54:00.106Z
+publishedAt: 2024-11-08T18:54:00.106Z
 firstPublishedAt: 2024-06-19T15:13:11.172Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ legacySlug: the-order-was-split-into-packages-with-separate-deliveries
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags / Keywords:** separate deliveries, order split, packages, shipping, pre-sale products.
+**Tags:** Separate deliveries, Order split, Packages, Shipping, Pre-sale
 
 On VTEX, customers may receive their orders split into several packages, regardless of whether the [order has been split](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) on the platform. Customers can receive their order items in separate packages in the following cases:
 

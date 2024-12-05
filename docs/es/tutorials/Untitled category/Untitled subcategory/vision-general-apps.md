@@ -34,7 +34,7 @@ El menú de Apps permite a los comerciantes descargar nuevas aplicaciones direct
 
 Puedes encontrar estas operaciones en el menú Apps de tu Admin actualizado.
 
-![Apps Overview menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/vision-general-apps_1.jpg)
+![Apps Overview menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/vision-general-apps_1.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad, que pronto estará disponible en el Admin actualizado. 
 

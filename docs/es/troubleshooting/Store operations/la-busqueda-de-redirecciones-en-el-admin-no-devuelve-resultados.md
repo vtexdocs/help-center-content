@@ -3,8 +3,8 @@ title: 'La búsqueda de redirecciones en el Admin no devuelve resultados'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z
-updatedAt: 2024-07-24T14:33:50.131Z
-publishedAt: 2024-07-24T14:33:50.131Z
+updatedAt: 2024-11-08T19:06:54.349Z
+publishedAt: 2024-11-08T19:06:54.349Z
 firstPublishedAt: 2024-07-24T14:13:11.586Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ legacySlug: la-busqueda-de-redirecciones-en-el-admin-no-devuelve-resultados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-**Tags/Palabras clave:** redirección
+**Tags:** Redirecciones
 
 Cuando hay un número excesivo de redirecciones, la página Redirecciones del Admin no puede procesar la búsqueda. Por lo tanto, al intentar realizarla, no se obtiene ningún resultado. Para más información sobre la página Redirecciones, consulta el artículo [Gestionar redirecciones según el binding](https://help.vtex.com/es/tutorial/administrando-redireccionamientos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
 

@@ -3,8 +3,8 @@ title: 'Lead time: tiempo de envío a nivel de SKU'
 id: 16yv5Mkj6bTyWR1hCN2f4B
 status: PUBLISHED
 createdAt: 2023-09-22T00:32:26.416Z
-updatedAt: 2024-08-16T17:55:22.057Z
-publishedAt: 2024-08-16T17:55:22.057Z
+updatedAt: 2024-11-04T21:12:54.681Z
+publishedAt: 2024-11-04T21:12:54.681Z
 firstPublishedAt: 2023-09-22T01:35:53.577Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -67,7 +67,7 @@ La plataforma VTEX presentará comportamientos diferentes dependiendo de si el S
 
 - <i class="far fa-check-circle"></i> **SKU en stock:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout.
 - <i class="fas fa-times"></i> **SKU sin stock:** el administrador de la tienda configura el lead time del SKU, pero el SKU no se considera válido porque no hay unidades disponibles para la venta.
-- <i class="far fa-check-circle"></i> **Stock infinito:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout. Si el stock está activado como infinito, el SKU siempre estará disponible para la venta.
+- <i class="far fa-check-circle"></i> **Stock ilimitado:** el administrador de la tienda configura el lead time del SKU; el periodo se considera en el cálculo de envío del pedido, y el plazo total se muestra al cliente en la etapa de checkout. Si el stock está activado como ilimitado, el SKU siempre estará disponible para la venta.
 
 ## Configurar lead time
 

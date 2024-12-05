@@ -60,7 +60,7 @@ Siga os passos abaixo:
 
 Com as chaves de autenticação disponíveis, é o momento de realizar a configuração do app Cybersource IO no Admin. 
 
-![Cybersource Admin settings PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-gateway-cybersource_1.JPG)
+![Cybersource Admin settings PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-gateway-cybersource_1.JPG)
 
 Siga os passos abaixo para configurar o app Cybersource IO:
 
@@ -182,7 +182,7 @@ document.body.appendChild(noScript);
 
 Adicionalmente, você pode definir campos customizados que serão incluídos em pedidos encaminhados da VTEX para a Cybersource. 
 
-![Cybersource Admin merchant define fields PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment Settings/configurar-gateway-cybersource_2.JPG)
+![Cybersource Admin merchant define fields PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-gateway-cybersource_2.JPG)
 
 Veja abaixo como criar estes campos:
 

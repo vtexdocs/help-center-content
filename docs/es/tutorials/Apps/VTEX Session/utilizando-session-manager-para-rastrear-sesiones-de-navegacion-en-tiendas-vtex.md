@@ -42,7 +42,7 @@ Apps que tienen una dependencia de sesión monitorean cambios en sus entradas y 
 
 Transforms frecuentemente disparan otros transforms, repitiendo hasta que ninguna actualización de parámetro adicional sea enviada por apps. Esta operación es, por supuesto, cuidadosamente monitoreada para evitar condiciones de loop. El siguiente diagrama ilustra un ejemplo de un ciclo de transform:
 
-![EN - Session Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/VTEX Session/utilizando-session-manager-para-rastrear-sesiones-de-navegacion-en-tiendas-vtex_1.jpg)
+![EN - Session Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/VTEX%20Session/utilizando-session-manager-para-rastrear-sesiones-de-navegacion-en-tiendas-vtex_1.jpg)
 
 1. Se realizó un cambio en el parámetro de sesión X
 2. App A monitoreaba el parámetro de sesión X, lo que disparó el Transform 1

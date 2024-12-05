@@ -6,7 +6,7 @@
 var deviceSessionId = '' deviceSessionId '80200';
 var fingerprintProviderUrl = 'https://openfpcdn.io/fingerprintjs/v3';
 var fingerprintProviderName = 'FINGERPRINT_V3_OPEN';
-var fingerprintServiceUrl = 'http://fingerprint-service.transactional/fingerprint-service/api/v2/fingerprint';
+var fingerprintServiceUrl = 'https://api.payulatam.com/fingerprint-service/api/v2/fingerprint';
 
 /**
  * Function containing common functionalities for fingerprint's service.

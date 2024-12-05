@@ -24,7 +24,7 @@ To access the Audit page in the VTEX Admin, go to **Apps > Installed Apps > Audi
 
 >ℹ️ To view Audit events, you must have a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-![audit-ui-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform security resources/audit_1.png)
+![audit-ui-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform%20security%20resources/audit_1.png)
 
 ## Querying events in Audit
 
@@ -48,7 +48,7 @@ Follow the instructions to search for an event using the filters available in Au
 
     For example, the query in the image below returns results for `Change Promotion Configuration` or `Change Coupon Configuration` actions whose author is `email@mail.com`.
 
-    ![filtros-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform security resources/audit_2.png)
+    ![filtros-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform%20security%20resources/audit_2.png)
 
 7. Click the `Apply` button to obtain the events found.
 

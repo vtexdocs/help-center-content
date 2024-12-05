@@ -31,7 +31,7 @@ Confira abaixo como realizar esse processo:
 4. Vá para a seção __Quais as condições para a promoção ser válida?__.
 5. Insira o código do cupom em __utm_source__.
 
-  ![Sincronizar promoções no mesmo cupom - 1 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/como-vincular-duas-promocoes-ao-mesmo-cupom_1.png)
+  ![Sincronizar promoções no mesmo cupom - 1 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/como-vincular-duas-promocoes-ao-mesmo-cupom_1.png)
 
 6. Clique em `Criar cupom a partir das UTMs acima`.
 7. Clique em `Salvar`.
@@ -39,6 +39,6 @@ Confira abaixo como realizar esse processo:
 9. Repita o processo com a segunda promoção regular.
 10. Ao final, ambas as promoções devem apresentar a mesma UTM.
 
-  ![Sincronizar promoções no mesmo cupom - 2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing & Merchandising/como-vincular-duas-promocoes-ao-mesmo-cupom_2.png)
+  ![Sincronizar promoções no mesmo cupom - 2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/como-vincular-duas-promocoes-ao-mesmo-cupom_2.png)
 
 Desse modo, o cliente pode abater os dois valores antes de finalizar a compra. 

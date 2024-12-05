@@ -30,7 +30,7 @@ Depois, é preciso colocar a loja com status de produção no License Manager d
 4. Na opção **Está em produção**, clique no botão **Não**, ficando **Sim**;
 5. Clique no botão **Salvar**.
 
-![contas.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/passando-a-loja-para-producao_1.png)
+![contas.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/passando-a-loja-para-producao_1.png)
 
 Após esta configuração, ao acessar a url final da loja, ela já será redirecionada para seu e-commerce!
 

@@ -37,7 +37,7 @@ The **Offer details** page contains the following sections:
 
 ## Header
 
-![Offer details EN cabecalho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_1.jpg)
+![Offer details EN cabecalho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_1.jpg)
 
 The header displays the main information about the offer for quick viewing, such as its image, channel, name, status, ID on VTEX, and ID on the channel. You can also make the following changes by clicking on the `Edit` button:
 
@@ -53,13 +53,13 @@ The Status block shows details about the offer status, which can be Synched, Err
 
 ### Status: Synched
 
-![Offer details PT status sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_2.jpg)
+![Offer details PT status sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_2.jpg)
 
 The *Synched* status indicates that the offer has been successfully received on a channel and is being updated by both the marketplace and the seller in real time.   
 
 ### Status: Error
 
-![Offer details PT status erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_3.jpg)
+![Offer details PT status erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_3.jpg)
 
 The *Error* status indicates that the system identified an issue that prevents an offer from being sent or updated on a channel, and the seller needs to take action to fix it. Errors can be generated on the VTEX seller side, such as product descriptions that exceed the character limit, and on the marketplace side, such as failed API calls.   
 
@@ -77,19 +77,19 @@ If there are still errors to be fixed, or if all errors have been fixed but the 
 
 ### Status: Unavailable
 
-![Offer details PT status indisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_4.jpg)
+![Offer details PT status indisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_4.jpg)
 
 The *Unavailable* status indicates that the offer has been discarded for being inactive or not included in the [sales channel](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) (or trade policy) determined for the channel.
 
 ### Status: Sending
 
-![Offer details PT status enviando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_5.jpg)
+![Offer details PT status enviando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_5.jpg)
 
 The *Sending* status indicates that the offer is being submitted to the channel. This status refers to offers that: are being submitted to the marketplace for the first time; are migrating to a new channel; or have been resent after being discarded in another channel.   
 
 ## List of interactions
 
-![Offer details PT lista interacoes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer management/offer-details_6.jpg)
+![Offer details PT lista interacoes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-details_6.jpg)
 
 The *Interactions* tab lists all `inventory`, `price` or `catalog` updates that that SKU has undergone. You can filter them by origin or status and adjust the number of items displayed per page. Each row corresponds to an interaction regarding that offer and includes the following data:
 

@@ -35,11 +35,11 @@ O módulo __Checkout__ no Admin, exibe os sites que estão cadastrados para a su
 
 Criação do novo site: 
 
-![Novo Site](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_1.png)
+![Novo Site](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_1.png)
 
 Acesso ao __Nome da Conta__: 
 
-![PT Configuração da Conta Nome Loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_2.png)
+![PT Configuração da Conta Nome Loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_2.png)
 
 ## Editar e configurar site
 
@@ -54,13 +54,13 @@ Acesso ao __Nome da Conta__:
    - __Páginas__: exibir as páginas existentes para o site. 
 
 Exemplo de sites existentes em uma mesma conta:
-![PT Cards Portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_3.png)
+![PT Cards Portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_3.png)
 
 Exemplo de páginas disponíveis para um site:
-![PT Paginas Cropped (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_4.png)
+![PT Paginas Cropped (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_4.png)
 
 Caso deseje __excluir__ um site, clique no botão de exclusão do site desejado, como no exemplo indicado abaixo:
-![PT Card Croppped Delete](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_5.png)
+![PT Card Croppped Delete](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_5.png)
 
 A seguir, vamos aprofundar o passo a passo da configuração das oções de menu: __Código__ e __Checkout__, sendo estas responsáveis por configurar as páginas de *Checkout* e *Order Placed*.
 
@@ -77,7 +77,7 @@ A seguir, vamos aprofundar o passo a passo da configuração das oções de menu
   <li><b>Cálculo das opções de Entrega (Beta e Stable)</b>: selecione se o cálculo do frete será feito a partir da planilha ou por geolocalização.</li>
   </ul>
 
-![PT Editar Checkout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_6.png)
+![PT Editar Checkout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_6.png)
 
 ## Configurar código
 
@@ -85,7 +85,7 @@ A seguir, vamos aprofundar o passo a passo da configuração das oções de menu
 2. Clique no ícone <i class="fas fa-cog" alt="engrenagem azul"></i> do site desejado.
 3. No menu de opções azul localizado na parte superior da página, clique em __Código__. Será exibido, à direita, um menu de __Arquivos__ e __Templates__ com todos os templates de seu site, configurados pelo sistema.
 
-![PT Lista Código Templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_7.PNG)
+![PT Lista Código Templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_7.PNG)
 
 ### Configurar templates do menu "Código"
 
@@ -103,27 +103,27 @@ Abaixo temos exemplos de como os códigos presentes nos templates do __checkout-
 
 - Template __checkout-header__ e cabeçalho da página do site:
 
-![checkout-header-codigo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_8.png)
+![checkout-header-codigo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_8.png)
 
-![checkout-header-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_9.png)
+![checkout-header-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_9.png)
 
 - Template __checkout-footer__ e rodapé da página do site:
 
-![checkout-footer-codigo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_10.png)
+![checkout-footer-codigo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_10.png)
 
-![checkout-footer-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_11.png)
+![checkout-footer-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_11.png)
 
 - Template __vtex-checkout__ e página do carrinho no Checkout:
 
-![smartcheckout16.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_12.png) 
+![smartcheckout16.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_12.png) 
 
-![vtex-checkout-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_13.png)
+![vtex-checkout-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_13.png)
 
 - Template __vtex-orderPlaced__ e página do pedido confirmado:
 
-![smartcheckout18.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_14.png) 
+![smartcheckout18.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_14.png) 
 
-![vtex-orderplaced-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_15.png)
+![vtex-orderplaced-page-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_15.png)
 
 ### Contas com multidomínio
 
@@ -131,4 +131,4 @@ As contas que possuem multidomínio podem usar apenas um site, caso não haja ne
 
 Classe inserida na tag "body" de acordo com o domínio acessado:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout Settings/configurar-template-no-smartcheckout-update_16.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/configurar-template-no-smartcheckout-update_16.jpg)

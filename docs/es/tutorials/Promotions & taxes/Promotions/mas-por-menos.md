@@ -51,7 +51,7 @@ En esta sección se proporciona información detallada sobre los datos generales
 - **Información adicional (opcional):** permite incluir en la promoción información adicional compuesta por un nombre y un valor.
 - **Promoción resaltada:** inserta una tag con el nombre de la promoción utilizada en la vitrina y en la página del producto. La tag solo se inserta si se utiliza el control de visualización de promociones correcto en la plantilla: `<vtex.cmc:discountHightLight/>`. Campo obligatorio.
 
-![Dados gerais 1 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_1.png)
+![Dados gerais 1 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_1.png)
 
 ### Restringir esta promoción a los productos de los sellers
 
@@ -64,7 +64,7 @@ Para que la promoción sea válida para todos los sellers, deja la selección si
 
 >⚠️ No es posible seleccionar directamente un <i>seller white label</i>. Hay dos opciones para incluir un <i>seller white label</i> en la promoción:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de tu tienda a la promoción.2. Dejar la selección sin marcar para incluir todos los <i>sellers</i>. En este caso, todos los tipos de <i>sellers, white label</i> y otros, se agregan a la promoción.
 
-![Restringir - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_2.png)
+![Restringir - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_2.png)
 
 ### Política comercial
 
@@ -77,7 +77,7 @@ Esta sección establece las políticas comerciales válidas para la promoción. 
 
 Para que la promoción sea válida en todas las políticas comerciales, deja la selección sin marcar.
 
-![Politica - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_3.png)
+![Politica - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_3.png)
 
 ## 2. Más por Menos
 
@@ -93,7 +93,7 @@ En esta sección se definen los productos, la cantidad y el descuento que serán
     - **Con un descuento de:**  el cliente se llevará la cantidad seleccionada de productos con un descuento porcentual definido en el campo.
     - **Con un precio máximo por ítem de:**  el cliente se llevará la cantidad seleccionada de productos con un precio máximo por ítem definido en el campo.
 
-![Leve Mais -ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_4.png)
+![Leve Mais -ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_4.png)
 
 ### Configuración avanzada
 En esta sección puede especificar la aplicación del descuento.
@@ -106,7 +106,7 @@ Se debe aplicar el descuento:
         - **Los productos más baratos:** el descuento se aplicará a los ítems más baratos de la promoción.
         - **Los productos más caros:** el descuento se aplicará a los ítems más caros de la promoción.
 
-![Leve Mais por menos - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_5.png)
+![Leve Mais por menos - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_5.png)
 
 #### ¿Cómo debe distribuirse el descuento?
 
@@ -128,7 +128,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 
  >ℹ️ El máximo predeterminado de medios de pago registrados por promoción es 20, aunque es posible crear una personalización para incluir hasta 100 medios de pago. Si necesitas utilizar más de 20, ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es-419/requests).
 
- ![Condições de promoção - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_6.png)
+ ![Condições de promoção - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_6.png)
 
  ## 4. Restricciones y limitaciones de uso
 
@@ -140,5 +140,5 @@ En esta sección se proporciona información detallada sobre las condiciones que
 - **Aplicar con otras promociones:** permite que se conceda más de una promoción al mismo tiempo sin importar el tipo de descuento. Aprende más sobre cómo [funciona la competencia de promociones](https://help.vtex.com/es/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270#).
 - **Aplicar con precios manuales:** permite aplicar la promoción a productos cuyos precios hayan sido ingresados manualmente por el agente de televentas. Para activar la funcionalidad de precios manuales, utiliza el endpoint [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
 
-![Restrições e limitações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/mas-por-menos_7.png)
+![Restrições e limitações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/mas-por-menos_7.png)
 

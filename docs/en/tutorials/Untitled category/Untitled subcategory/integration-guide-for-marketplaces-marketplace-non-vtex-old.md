@@ -85,7 +85,7 @@ This model includes catalog exchange, updating of commercial condition (price, i
 
 SKU FLOW: price, inventory, shipping, delivery SLAs:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_1.png)
 
 ### Insertion and SKU Update - Flow
 
@@ -397,7 +397,7 @@ When a product is inserted into the cart in the Marketplace that isn't VTEX, or 
 
 _Cart and Payment Request Flow:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_2.png)
 
 ### Cart Simulation
 
@@ -529,7 +529,7 @@ If someone want a different commercial condition for the Marketplace that isn't 
 
 _Send order and authorize dispatch request flow:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/integration-guide-for-marketplaces-marketplace-non-vtex-old_3.png)
 
 
 <a name="a7"></a>

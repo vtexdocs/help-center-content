@@ -59,7 +59,7 @@ Debe escogerse el color disponible más cercano que, en el caso de Wish, "Hielo"
 
 >ℹ️ OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla.
 
-![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/wish-integration/mapeo-de-color-y-tamaño_1.png)
+![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/wish-integration/mapeo-de-color-y-tama%C3%B1o_1.png)
 
 ## Cargando el archivo
 

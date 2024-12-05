@@ -1,10 +1,10 @@
 ---
 title: 'Crear nuevo rol'
 id: qGtNQpKSSAduX94l2WZBW
-status: DRAFT
+status: PUBLISHED
 createdAt: 2023-11-30T16:42:01.373Z
-updatedAt: 2023-11-30T21:59:23.416Z
-publishedAt: 
+updatedAt: 2024-11-22T14:17:26.392Z
+publishedAt: 2024-11-22T14:17:26.392Z
 firstPublishedAt: 2023-11-30T17:12:45.125Z
 contentType: tutorial
 productTeam: Identity
@@ -43,12 +43,12 @@ Para empezar a utilizar un rol predefinido sigue las instrucciones a continuaci�
 
     Por ejemplo, el rol **Call center operator** contiene un recurso del producto _Catálogo_ que permite realizar operaciones en una tienda en nombre de un cliente, y un recurso de _OMS_ que permite consultar el status de un pedido:
 
-    ![Nuevo perfil de acceso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Access control/crear-nuevo-rol_1.png)
+    ![Nuevo perfil de acceso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Access%20control/crear-nuevo-rol_1.png)
 
     Consulta más información sobre los roles predefinidos disponibles y los recursos asociados en [Roles de usuario predefinidos](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Agrega usuarios administrativos al rol rellenando el email del usuario en **Agregar usuarios para este rol** y haciendo clic en `Agregar`.
 
-    ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Access control/crear-nuevo-rol_2.PNG)
+    ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Access%20control/crear-nuevo-rol_2.PNG)
 
     Si el usuario no existe, se creará uno nuevo utilizando el email como nombre, es decir, el nombre y el email serán iguales.
 
@@ -68,7 +68,7 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
     Verás una lista de todos los recursos disponibles para ese producto:
 
-    ![Configurando producto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Access control/crear-nuevo-rol_3.png)
+    ![Configurando producto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Access%20control/crear-nuevo-rol_3.png)
 5. Marca los recursos a los que el rol tendrá acceso. Para más información sobre [Recursos, consulta la lista completa de License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
 6. Si deseas agregar recursos de otro producto, haz clic en el botón **Configurar otro producto** situado en la parte inferior de la lista de productos y recursos y repite los pasos 4 y 5.
 
@@ -80,7 +80,7 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
 8. Agrega usuarios administrativos al rol rellenando el email del usuario en **Agregar usuarios para este rol** y haciendo clic en `Agregar`.
 
-      ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Access control/crear-nuevo-rol_4.PNG)
+      ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Access%20control/crear-nuevo-rol_4.PNG)
 
       Si el usuario no existe, se creará uno nuevo utilizando el email como nombre, es decir, el nombre y el email serán iguales.
 9. Haz clic en `Guardar`.
@@ -89,6 +89,5 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
 ## Más información
 
-* [Control de acceso](https://help.vtex.com/es/tutorial/control-de-acceso--4rM3gyiWqtkim4Q8hOvLTC)
 * [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 * [Recursos de License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)

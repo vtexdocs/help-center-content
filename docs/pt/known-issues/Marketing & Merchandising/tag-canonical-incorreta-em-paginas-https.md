@@ -25,7 +25,7 @@ Ao ativar o HTTPS em uma pasta específica, a tag HTML _canonical_ permanece ren
 1. Ativar HTTPS em uma única pasta do site ([guia](https://help.vtex.com/tutorial/--frequentlyAskedQuestions_4378));
 2. Verificar, no HTML renderizado, a tag _canonical_.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/tag-canonical-incorreta-em-paginas-https_1.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/tag-canonical-incorreta-em-paginas-https_1.png)
 
 ## Workaround
 

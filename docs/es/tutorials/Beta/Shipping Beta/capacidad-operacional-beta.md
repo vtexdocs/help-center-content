@@ -29,7 +29,7 @@ Una buena gestión de la capacidad operativa de los sellers tiene los siguientes
 
 Al acceder a **Envío > Capacidad operativa** en el Admin VTEX, verás una página según se ilustra a continuación:
 
-![operational_capacity_image1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping Beta/capacidad-operacional-beta_1.png)
+![operational_capacity_image1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping%20Beta/capacidad-operacional-beta_1.png)
 
 >⚠️ Los sellers que aparecen en la interfaz son los sellers de tu operación, configurados previamente por nuestro equipo. Para agregar un nuevo seller, ponte en contacto con [nuestro soporte](https://help.vtex.com/es/support).
 
@@ -119,7 +119,7 @@ En la esquina superior derecha de la página de detalles del seller, hay un bot�
 
 El gráfico **Status de la capacidad operativa** muestra en tiempo real el porcentaje utilizado de la capacidad del seller, como se ilustra a continuación:
 
-![operational_capacity_image2_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping Beta/capacidad-operacional-beta_2.png)
+![operational_capacity_image2_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping%20Beta/capacidad-operacional-beta_2.png)
 
 El gráfico muestra los siguientes periodos:
 
@@ -141,7 +141,7 @@ Para editar la dirección o el nombre de identificación del seller en **Capacid
 
 En la sección **Capacidad operativa**, puedes ver la configuración actual de la capacidad operativa del seller para cada día de la semana, como se muestra a continuación:
 
-![operational_capacity_image3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping Beta/capacidad-operacional-beta_3.png)
+![operational_capacity_image3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Shipping%20Beta/capacidad-operacional-beta_3.png)
 
 Para modificar la configuración, sigue estos pasos:
 

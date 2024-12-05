@@ -3,8 +3,8 @@ title: 'Configurar produto similar, sugestões, acessórios e genéricos'
 id: tutorials_280
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:17.727Z
-updatedAt: 2024-07-25T21:19:12.871Z
-publishedAt: 2024-07-25T21:19:12.871Z
+updatedAt: 2024-10-30T18:49:41.924Z
+publishedAt: 2024-10-30T18:49:41.924Z
 firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -35,7 +35,7 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 4. Preencha os campos corretamente conforme indicação abaixo.
 5. Clique no botão `Salvar`.
 
-![produto-similar-sugestão-acessório-exemplo pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products and SKUs/configurando-produto-similar-sugestoes-acessorios-e-genericos_1.png)
+![produto-similar-sugestão-acessório-exemplo pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/configurando-produto-similar-sugestoes-acessorios-e-genericos_1.png)
 
 **Acessórios:** nesse campo cadastramos os produtos que devem ser vendidos como complemento de um outro produto. Nesta opção os produto cadastrados como acessórios são mostrados como opção de compra com o checkbox de seleção habilitado (função feita no layout).
 

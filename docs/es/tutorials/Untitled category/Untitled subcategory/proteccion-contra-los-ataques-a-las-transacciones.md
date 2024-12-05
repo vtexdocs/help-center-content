@@ -35,9 +35,9 @@ Para activar la protección, mira el paso a paso que se muestra a continuación.
 4. En la esquina superior derecha, haz clic en el ícono de configuración;
 5. En __Protección contra ataques__, haz clic en el botón para activarla (el color verde indica "activada").
 
-![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_1.png)
+![proteção-botao-configurações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_1.png)
 
-![opción-de-protección-habilitada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_2.png)
+![opción-de-protección-habilitada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_2.png)
 
 ### ¿Cómo desactivar la protección contra los ataques a las transacciones?
 
@@ -67,13 +67,13 @@ Para acceder a esta información, mira el paso a paso que se muestra a continuac
 6. Para seleccionar __Amenazas detectadas__ o __Amenazas neutralizadas__, haga clic en una de las flechas de la derecha. 
 7. Verifica los detalles de los eventos en la ventana emergente que aparece.
 
-![opción-protección-histórico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_3.png)
+![opción-protección-histórico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_3.png)
 
-![pantalla-protección-histórico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_4.png)
+![pantalla-protección-histórico1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_4.png)
 
-![pantalla-amenaza-potencial1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_5.png)
+![pantalla-amenaza-potencial1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_5.png)
 
-![pantalla-amenaza-neutralizada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/proteccion-contra-los-ataques-a-las-transacciones_6.png)
+![pantalla-amenaza-neutralizada1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/proteccion-contra-los-ataques-a-las-transacciones_6.png)
 
 ### Artículos relacionados
 - [¿Qué es una solución antifraude?](https://help.vtex.com/es/tutorial/o-que-e-antifraude)

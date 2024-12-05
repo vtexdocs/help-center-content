@@ -34,7 +34,7 @@ Para ativar o Google Pay, siga o passo a passo abaixo.
 
 Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como nova forma de pagamento. É possível que demore em torno de 10 minutos para que a configuração apareça no Checkout.
 
-![google pay - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Payments Beta/google-pay-beta_1.png)
+![google pay - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Payments%20Beta/google-pay-beta_1.png)
 
 >⚠️ Google Pay, neste momento, não vai suportar assinatura.
 

@@ -3,8 +3,8 @@ title: 'Planilha de frete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-10-10T13:26:19.271Z
-publishedAt: 2023-10-10T13:26:19.271Z
+updatedAt: 2024-11-13T19:09:02.477Z
+publishedAt: 2024-11-13T19:09:02.477Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -87,7 +87,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Identificação do polígono definido na função de <a href="https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao/">geolocalização</a>.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Este campo deverá ser preenchido somente se os campos <b>ZipCodeStart </b>e <b>ZipCodeEnd </b>não forem preenchidos, pois são dados de função equivalente.
+            <td class="t-body pa5" style="min-width: 15rem;">Para usar a geolocalização, após preencher a coluna <b>PolygonName</b> com os valores desejados, preencha as colunas <b>ZipCodeStart</b> e <b>ZipCodeEnd</b> com o valor <code>0</code>.<p>Este campo deverá ser preenchido somente se os campos <b>ZipCodeStart</b> e <b>ZipCodeEnd</b> não forem usados, pois são dados de função equivalente.
             </td>
         </tr>
     <tr class="bb b--muted-3">
@@ -177,7 +177,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping Strategy/planilha-de-frete_1.png)
+![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping%20Strategy/planilha-de-frete_1.png)
 
 ## Enviar o arquivo pelo Admin VTEX
 

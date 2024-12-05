@@ -35,7 +35,7 @@ La utlización de esas variables en los Layouts de email poseen la siguiente sin
 **HTML del template**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message center/Templates/configurando-funciones-en-templates-de-message-center_1.png)
+![exemplohtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message%20center/Templates/configurando-funciones-en-templates-de-message-center_1.png)
 
 El ejemplo arriba puede tener diferentes valores cuando se comparan Sellers y Marketplaces.
 
@@ -130,4 +130,4 @@ em até{{#hasSubStr shippingEstimate 'bd'}}
 ```
 
 **Resultado**:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message center/Templates/configurando-funciones-en-templates-de-message-center_2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message%20center/Templates/configurando-funciones-en-templates-de-message-center_2.jpg)

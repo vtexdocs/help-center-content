@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 A pricing rule is a modifier of the base price, registered on the Price List screen.
 
-![new-dashboard-pricing-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price rules/pricing-rules-v2_1.gif)
+![new-dashboard-pricing-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20rules/pricing-rules-v2_1.gif)
 
 ## How it works
 
@@ -34,7 +34,7 @@ In addition, it is important to note that pricing rules are applied to the price
 
 **Only the first** pricing rule that is valid for the SKU conditions (category; brand; and the markup range) will be applied. Even if there are other valid pricing rules, only the first one in the order will be used to calculate the price of the SKU.
 
-![new-dashboard-pricing-rule-reordering-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price rules/pricing-rules-v2_2.gif)
+![new-dashboard-pricing-rule-reordering-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20rules/pricing-rules-v2_2.gif)
 
 _We recommend that the order should start with the most specific rules and end with the most comprehensive ones._
 
@@ -42,7 +42,7 @@ _We recommend that the order should start with the most specific rules and end w
 
 The step-by-step procedure for registering is very simple, and is illustrated below:
 
-![new-dashboard-pricing-add-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price rules/pricing-rules-v2_3.gif)
+![new-dashboard-pricing-add-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20rules/pricing-rules-v2_3.gif)
 
 1. The **Price rules** will show a list of all the commercial policies. Each of these policies will contain rules. Click on the button **New rule**, above the list, to create a rule.
 2. Select the commercial policy which is to contain this rule.
@@ -53,8 +53,8 @@ The step-by-step procedure for registering is very simple, and is illustrated be
 
 Below you can see examples of the flows of editing and deleting pricing rules. 
 
-![new-dashboard-pricing-edit-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price rules/pricing-rules-v2_4.gif)
+![new-dashboard-pricing-edit-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20rules/pricing-rules-v2_4.gif)
 _Procedure for modifying a rule_
 
-![new-dashboard-pricing-remove-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price rules/pricing-rules-v2_5.gif)
+![new-dashboard-pricing-remove-rule-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20rules/pricing-rules-v2_5.gif)
 _Procedure for deleting a rule_

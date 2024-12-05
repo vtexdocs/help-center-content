@@ -22,7 +22,7 @@ internalReference:
 
 Quando o usuário realiza uma busca por termo e, em seguida, aplica um filtro nas opções de multi seleção (no controle searchNavigator), o termo buscado inicialmente é removido da consulta, ou seja, o filtro ignora o termo e aplica a busca somente com as opções escolhidas pelo usuário.
 
-![search result](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing & Merchandising/filtro-de-multi-selecao-do-controle-searchnavigator-desconsiderando-termo-buscado_1.gif)
+![search result](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/filtro-de-multi-selecao-do-controle-searchnavigator-desconsiderando-termo-buscado_1.gif)
 
 ## Simulação
 

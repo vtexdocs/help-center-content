@@ -61,7 +61,7 @@ After installing VTEX Insurance, you need to complete the Catalog setup to cover
 
 7. [Create an insurance product](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_1.png)
+8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_1.png)
 
 9. [Bind the created SKUs](https://help.vtex.com/en/tutorial/sku-bindings--1SmrVgNwjJX17hdqwLa0TX) to the Assurant seller.
 
@@ -75,7 +75,7 @@ After setting up the catalog, your store will have the products bound to insuran
 Follow the steps below to set up your VTEX Insurance app.
 
 ### Company Information
-![Insurance Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_2.png)
+![Insurance Configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_2.png)
 1. Complete the following information:
 - **Email**: Store email.
 - **Name**: Store name.
@@ -90,7 +90,7 @@ Follow the steps below to set up your VTEX Insurance app.
 
 ### Items bound to insurance items
 
-![Items Bound to Source Items](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_3.png)
+![Items Bound to Source Items](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_3.png)
 
 1. Select the codes that correspond to the insurance types you want for the collection you have created.
 
@@ -100,14 +100,14 @@ If you want to bind more than one insurance plan, such as **Theft and Qualified 
 
 ### Warranty field name
 
-![Warranty Field Name](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_4.png)
+![Warranty Field Name](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_4.png)
 
 1.  Specify the manufacturer's warranty field, indicating the name of the warranty used in the catalog.
 
 2.  Click `Submit`.
 
 ### Insurance attachment setup
-![Insurance Attachement Setup](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_5.png)
+![Insurance Attachement Setup](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_5.png)
 
 1. [Add an](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) attachment for Assurant with the information received from the support team when contracting the service.
 
@@ -118,7 +118,7 @@ If you want to bind more than one insurance plan, such as **Theft and Qualified 
 4. Click `Save`.
 
 ### Manual pricing setup
-![Manual Pricing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/vtex-insurance_6.png)
+![Manual Pricing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/vtex-insurance_6.png)
 
 1. [Activate the manual pricing](https://help.vtex.com/en/tutorial/change-the-price-of-an-item-in-the-shopping-cart--7Cd37aCAmtL1qmoZJJvjNf) in your store.
 

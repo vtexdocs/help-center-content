@@ -35,7 +35,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
   - **Metatag de descripción**: ingresa una descripción breve del contenido de la página que sea informativa y contenga palabras clave relevantes.
   - **Metatag robots**: define cómo los motores de búsqueda deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 
-  ![seo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-seo-en-la-tienda_1.png)
+  ![seo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-seo-en-la-tienda_1.png)
 
 #### Faviconos
 
@@ -43,7 +43,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
 2. Haz clic en la pestaña **General**.
 3. Haz clic en **Agregar**.
 
-  ![favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-seo-en-la-tienda_2.png)
+  ![favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-seo-en-la-tienda_2.png)
 
 4. Rellena la pantalla que se abre según se describe a continuación:
 
@@ -54,7 +54,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
 
     A continuación se muestra un ejemplo:
 
-    ![relacao-favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store Settings - Storefront/configurar-seo-en-la-tienda_3.png)
+    ![relacao-favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurar-seo-en-la-tienda_3.png)
 
 5. Haz clic en **Aplicar** para que la configuración se refleje en tu tienda. Esto puede demorar unos minutos.
 

@@ -36,12 +36,12 @@ After installing it, you can access it from the sidebar (installed apps section)
 4. (Optional) Write a short description. This is for internal control only and will not be visible to your customers.
 5. Click on "Start Building".
 
-![createCondition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions Builder/how-to-use-conditions-builder-app_1.gif)
+![createCondition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions%20Builder/how-to-use-conditions-builder-app_1.gif)
 
 After you hit the "Create button", you are going to see a workspace with a block list on the left side of the screen.  
 Now you only have to drag the blocks onto the workspace and conect them, and finally creating your logic. 
 
-![creating](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions Builder/how-to-use-conditions-builder-app_2.gif)
+![creating](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions%20Builder/how-to-use-conditions-builder-app_2.gif)
 
 
 ### Editing a condition
@@ -55,4 +55,4 @@ If you want a condition to no longer be applied, you can simply disable it inste
 - When toggle button is blue -> it is enabled
 - When toggle button is gray -> it is disabled
 
-![enableDisableEnglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions Builder/how-to-use-conditions-builder-app_3.gif)
+![enableDisableEnglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Conditions%20Builder/how-to-use-conditions-builder-app_3.gif)

@@ -3,8 +3,8 @@ title: 'Gestionar cuentas en Customer Credit'
 id: 4eknoeqaj6EGC20amsm6Gc
 status: PUBLISHED
 createdAt: 2018-11-06T21:15:25.330Z
-updatedAt: 2024-02-27T19:44:55.522Z
-publishedAt: 2024-02-27T19:44:55.522Z
+updatedAt: 2024-10-22T19:11:00.259Z
+publishedAt: 2024-10-22T19:11:00.259Z
 firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
@@ -21,7 +21,7 @@ Al hacer clic en el nombre de una cuenta específica, la pantalla __Detalles de 
 - [Información del titular](#titular)
 - [Status de crédito](#status)
 - [Facturas emitidas](#facturas)
-- [Extractos de utilización](#extractos)
+- [Estados de cuenta de uso](#estados-de-cuenta)
 - [Dependientes adicionales](#dependientes-adicionales)
 - [Cierre de cuenta](#cierre-de-cuenta)
 <br>
@@ -52,7 +52,7 @@ Listado que contiene la siguiente información sobre todos los valores emitidos 
 - Valor de la factura
 - Status de la factura (Abierto, Pagado, Cancelado, Vencido)
 
-## Extractos
+## Estados de cuenta
 
 Muestra un informe de todas las transacciones de pago y factura realizadas para el cliente durante un período seleccionado.
 

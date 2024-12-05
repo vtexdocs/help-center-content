@@ -19,7 +19,7 @@ Para fazer login na conta da loja, entre no terminal e digite `vtex login`.
 
 O terminal vai solicitar o Account, ou seja, o nome da conta da loja desejada.
 
-![vtex login](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX IO/VTEX IO setup/fazer-login-na-conta-da-loja-com-o-vtex-io_1.png)
+![vtex login](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20IO/VTEX%20IO%20setup/fazer-login-na-conta-da-loja-com-o-vtex-io_1.png)
 
 Após inserir o Account, basta informar a senha, se necessário, e pronto. Você fez login na sua conta!
 

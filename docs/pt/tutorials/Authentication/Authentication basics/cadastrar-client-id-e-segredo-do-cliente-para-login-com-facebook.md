@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 Para ativar o login via Facebook, é necessário acessar **Configurações da conta > Autenticação** pelo Admin VTEX e preencher os campos **Client ID** e **Segredo do cliente**, conforme detalhado no artigo [Configurar login com Facebook e Google](https://help.vtex.com/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
 
-![Facebook OAuth PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_1.png)
+![Facebook OAuth PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_1.png)
 
 Para obter essas credenciais, siga as instruções de cada etapa abaixo:
 
@@ -35,12 +35,12 @@ Para começar, você precisa cadastrar um aplicativo no Facebook, seguindo os pa
 4. Clique em `Criar aplicativo`.
 5. Clique em **Permitir que as pessoas entrem com a própria conta do Facebook**, dentre as opções ilustradas abaixo.
 
-   ![2-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_2.png)
+   ![2-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_2.png)
 
 6. Clique em `Avançar`.
 7. Preencha o nome do app e o email de contato do responsável pelo aplicativo, nos campos ilustrados abaixo.
 
-   ![3-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_3.png)
+   ![3-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_3.png)
 
 8. Clique em `Criar aplicativo`.
 
@@ -50,15 +50,15 @@ O próximo passo é configurar o produto Login do Facebook no aplicativo que voc
 
 1. Clique em **Produtos** no menu lateral ou no **Painel **do Meta for Developers, destacado a seguir.
 
-   ![4-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_4.png)
+   ![4-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_4.png)
 
 2. Clique em `Configurar` e, em seguida, na opção `Configurações`.
 
-   ![5-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_5.png)
+   ![5-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_5.png)
 
 3. Defina os estados como na imagem abaixo:
 
-   ![Configuração URI OAuth Facebook PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_6.png)
+   ![Configuração URI OAuth Facebook PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_6.png)
 
    Insira as URLs abaixo em **URIs de redirecionamento do OAuth válidos**, substituindo `{{HOST_URL}}` pela URL base de sua loja e `{{accountName}}` pelo nome da sua conta VTEX como descrito no Admin:
 
@@ -74,7 +74,7 @@ Por fim, você precisa preencher algumas informações sobre o app para concluir
 
 1. No menu lateral do Meta for Developers, vá em **Configurações do app** e clique em **Básico:**
 
-   ![7-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_7.png)
+   ![7-login-fb-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Authentication%20basics/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_7.png)
 
 2. Copie o valor do campo **ID do Aplicativo**. Você deverá informar este valor no campo **Client ID** ao [configurar o login com Facebook no Admin VTEX](https://help.vtex.com/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
 3. Em **Chave Secreta do Aplicativo**, clique no botão **Mostrar** e, em seguida, copie o valor do campo. Você deverá informar este valor no campo **Segredo do cliente** ao [configurar o login com Facebook no Admin VTEX](https://help.vtex.com/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).

@@ -3,8 +3,8 @@ title: 'How to assemble a Kit Look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
-updatedAt: 2023-03-29T13:22:10.064Z
-publishedAt: 2023-03-29T13:22:10.064Z
+updatedAt: 2024-10-30T18:14:08.256Z
+publishedAt: 2024-10-30T18:14:08.256Z
 firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

@@ -21,7 +21,7 @@ Si tienes este problema en Google Chrome, sólo tienes que activar el plugin Fla
 1. Haga clic en el botón de información o en el candado, que precede a la URL actual;
 2. En la línea correspondiente al Flash, que normalmente está como "Preguntar (estándar)", seleccione **Siempre permitir en este sitio**.
 
-![chrome-flash](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/boton-de-upload-de-archivos-no-aparece-en-cms_1.jpg)
+![chrome-flash](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/boton-de-upload-de-archivos-no-aparece-en-cms_1.jpg)
 
 Normalmente este problema está vinculado a la disponibilidad del Flash Player en el browser, y para el sitio web accesado. 
 

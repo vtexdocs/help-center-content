@@ -31,6 +31,6 @@ User receives a generic error message when using the CRM's search bar to filter 
 
 ## Workaround
 
-![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master Data/crm-error-when-searching-with-spaces_1.png)
+![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/crm-error-when-searching-with-spaces_1.png)
 Fortunately there is a simple workaround that does not require the use of an API.  By clicking on the "Todos"("All") dropdown next to the search bar, the same search can be made successfully without an error message.
 

@@ -31,7 +31,7 @@ Puedes obtener los datos del Segmento Cookie a través del token del segmento:
 - Abra la consola del navegador;
 - Decodifique el token de segmento presentado en el objeto render runtime;
 - En la consola, ejecute:` atob(__RUNTIME__.segmentToken)`
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store Framework/segmento-cookie-actualizado-solo-despues-de-actualizar-la-pagina_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/segmento-cookie-actualizado-solo-despues-de-actualizar-la-pagina_1.png)
 
 
 ##

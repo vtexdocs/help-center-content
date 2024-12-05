@@ -63,24 +63,24 @@ In this tab, you can configure the following:
 
 The Colors tab allows you to customize the checkout colors in your store, including backgrounds, buttons, text, and more. This standardization ensures consistent design.
 
-![Colors](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_1.png)
+![Colors](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_1.png)
 
 ## JavaScript
 
 The JavaScript tab adds an additional layer of customization to the interface by allowing you to add scripts.
 
-![Java - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_2.png)
+![Java - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_2.png)
 
 ## CSS
 
 The CSS tab allows the store layout customization by adding CSS code.
 
-![CSS - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_3.png)
+![CSS - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_3.png)
 
 ## History
 
 It allows you to view and restore previously created and published customizations.
 
-![Histórico - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_4.png)
+![Histórico - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-customize-the-checkout-ui-custom-in-the-admin_4.png)
 
 To ensure that your configuration is successfully applied, complete the necessary settings and click `Publish`.

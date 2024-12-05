@@ -32,14 +32,14 @@ Abaixo são compartilhados exemplos de onde encontrar as informações mais comu
 
 Neste evento, vemos que VTEX começou o processo de autorização com o gateway de pagamentos e respondeu que a operação pode começar:
 
-![transação-autorizando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_1.png)
+![transação-autorizando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_1.png)
 
 
 ## Transação autorizada e aprovada
 
 Através de uma solicitação de autorização, o gateway de pagamentos irá autorizar/pré-autorizar a transação, em caso de sucesso no fluxo. Com a autorização, a transação terá status de _aprovada_ para continuar com o fluxo do pedido
 
-![transação-autorizada-aprovada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_2.png)
+![transação-autorizada-aprovada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_2.png)
 
 Caso a autorização não aconteça por algum problema fora do fluxo, o log dele será detalhado na timeline de acordo com as informações retornadas pelo gateway de pagamentos.
 
@@ -47,7 +47,7 @@ Caso a autorização não aconteça por algum problema fora do fluxo, o log dele
 
 No fluxo de pedidos, existe a possibilidade de enviar o pagamento para um antifraude (diretamente integrado na VTEX) para aplicar uma análise de risco. Depois de ter solicitado uma análise, o pedido terá um status indicando o início da análise e o retorno do antifraude, juntamente com o resultado:
 
-![transação -antifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_3.png)
+![transação -antifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_3.png)
 
 Caso não aconteça a análise por causa de algum problema fora do fluxo, o log dele será detalhado na timeline, de acordo com as informações retornadas pelo gateway de pagamentos.
 
@@ -57,11 +57,11 @@ Quando a modalidade de pré-autorização de transações é utilizada, depois d
 
 Quando o processo de captura for iniciado, o evento Settlement será visualizado, o que indica que a captura foi solicitada ao gateway de pagamentos:
 
-![transação-captura-solicitação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_4.png)
+![transação-captura-solicitação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_4.png)
 
 Enquanto a captura tenha sido iniciada com sucesso, o evento Settling será visualizado. E no final da captura, o evento Settled será mostrado:
 
-![transação-captura-iniciada-capturada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_5.png)
+![transação-captura-iniciada-capturada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_5.png)
 
 Caso não aconteça a captura por causa de algum problema fora do fluxo, o log dele será detalhado na timeline, de acordo com as informações retornadas pelo operador de pagamentos.
 
@@ -69,7 +69,7 @@ Caso não aconteça a captura por causa de algum problema fora do fluxo, o log d
 
 Após a conclusão da transação, a VTEX indicará conforme mostra a imagem abaixo:
 
-![transação-concluida](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_6.png)
+![transação-concluida](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_6.png)
 
 ## Transação agendada para captura automática
 
@@ -77,5 +77,5 @@ Geralmente as afiliações permitem que você configure uma data agendada de cap
 
 Aqui você consegue ver a data do agendamento da captura automática:
 
-![captura-auto-agendada pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transação_7.png)
+![captura-auto-agendada pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/eventos-de-uma-transa%C3%A7%C3%A3o_7.png)
 

@@ -25,7 +25,7 @@ Web Page Performance brings Google's [PageSpeed Insights](https://developers.goo
 
 Although the Web Page Performance dashboard offers the same features as Google's PageSpeed Insights tool, it is only on the VTEX Admin that merchants will be able to add multiple URLs and assess them constantly. 
 
-![Web page performance Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards in the VTEX Admin/web-page-performance_1.png)
+![Web page performance Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/web-page-performance_1.png)
 
 ## Why should you track a web page's performance?
 
@@ -104,7 +104,7 @@ Note that the top 10 most accessed pages in your ecommerce cannot be deleted. Yo
 
 ## Core Web Vitals
 
-![Core web vitals EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards in the VTEX Admin/web-page-performance_2.png)
+![Core web vitals EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/web-page-performance_2.png)
 
  For each URL, the Web Page Performance page displays the score of [Google's Core Web Vitals](https://web.dev/vitals/#core-web-vitals) for that web page. 
 

@@ -1,9 +1,9 @@
 ---
 title: 'Security'
-id: security
+id: category-security
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Reliability
 slugEN: category-security
@@ -19,7 +19,6 @@ locale: en
 - [Data subject rights](https://help.vtex.com/en/docs/tutorials/data-subject-rights)
 - [Best practices for using application keys](https://help.vtex.com/en/docs/tutorials/best-practices-application-keys)
 - [Best practices to avoid scams using the VTEX brand](https://help.vtex.com/en/docs/tutorials/best-practices-to-avoid-scams-using-the-vtex-brand)
-- [Synonym list](https://help.vtex.com/en/docs/tutorials/synonym-list)
 - [Managing HTTP headers](https://help.vtex.com/en/docs/tutorials/managing-http-headers)
 
 ## Platform security resources

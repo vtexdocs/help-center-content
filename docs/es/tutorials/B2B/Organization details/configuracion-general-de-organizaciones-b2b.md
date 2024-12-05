@@ -29,6 +29,6 @@ En el Admin VTEX, accede a **Apps > Organizaciones y centros de costos B2B > Org
     - **Status:** indica si la organización compradora está activa.
     - **Campos personalizados:** campos adicionales de una organización.
 
-![Configurações gerais organizações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization details/configuracion-general-de-organizaciones-b2b_1.gif)
+![Configurações gerais organizações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Organization%20details/configuracion-general-de-organizaciones-b2b_1.gif)
 
 Asegúrate de hacer clic en el botón `Guardar` en la parte superior derecha de la página al realizar cualquier cambio.

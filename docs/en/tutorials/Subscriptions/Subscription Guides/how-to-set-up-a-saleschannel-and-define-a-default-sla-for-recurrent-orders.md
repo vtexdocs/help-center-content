@@ -30,7 +30,7 @@ Just include an attribute with the name `salesChannel`, as illustrated in the se
 
 Thereafter, the next orders will be created using the sales channel that was set up. In the event there is no stock for a given item in this channel, the item will be excluded from the order.   
 
-![posicao.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription Guides/how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders_1.png)
+![posicao.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription%20Guides/how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders_1.png)
 
 *The screen showing the salesChannel ID*
 
@@ -40,5 +40,5 @@ Just include an attribute with the name `defaultSLA`, as illustrated in the setu
 
 Thereafter, the SLA set up will take preference over the cheaper SLA for the next orders created – whereby, if it has a delivery window, the first interval available will be selected.
 
-![transportadora.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription Guides/how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders_2.png)
+![transportadora.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription%20Guides/how-to-set-up-a-saleschannel-and-define-a-default-sla-for-recurrent-orders_2.png)
 *The screen showing the ID of the SLA*

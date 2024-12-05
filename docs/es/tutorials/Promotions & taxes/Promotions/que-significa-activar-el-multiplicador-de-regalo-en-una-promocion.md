@@ -24,4 +24,4 @@ Al configurar una promoción **Comprar y obtener**, es posible **Activar multipl
 Para ambos escenarios, se necesita rellenar la cantidad máxima de seleccionable. Con el multiplicador de regalos **activado**, determine la **cantidad máxima** de regalos para la condición. Para el multiplicador de regalos **desactivado**, la cantidad es **siempre 1**.
 
 
-![ativar-multiplicador-brinde es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion_1.png)
+![ativar-multiplicador-brinde es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion_1.png)

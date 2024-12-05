@@ -67,7 +67,7 @@ Siga o passo a passo abaixo para criar um lançamento:
 
 8. Clique em `Criar`.
 
-![print_cms_paginas_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/modulo-lancamentos-beta_1.png)
+![print_cms_paginas_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/modulo-lancamentos-beta_1.png)
 
 ### Criar usando o módulo Lançamentos
 
@@ -86,7 +86,7 @@ Siga o passo a passo abaixo para criar um lançamento:
 
 Todos os lançamentos criados aparecem listados no Admin VTEX, em **Configurações da loja > Lançamentos**. A página apresenta duas abas, a `AGENDADOS` e a `NÃO AGENDADOS`, dependendo se o lançamento foi criado com uma data de publicação ou não. 
 
-![print_lancamentos_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled category/Untitled subcategory/modulo-lancamentos-beta_2.png)
+![print_lancamentos_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/modulo-lancamentos-beta_2.png)
 
 Na aba `AGENDADOS`, a descrição de cada coluna é a seguinte:
 

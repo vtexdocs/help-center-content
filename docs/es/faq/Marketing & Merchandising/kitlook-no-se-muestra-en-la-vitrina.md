@@ -32,7 +32,7 @@ __Llene el campo Label__
 4. Vaya a la pestaña __Imágenes__;
 5. Introduzca un término para llenar la __Label__;
 
-  ![Kit Look - Label - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing & Merchandising/kitlook-no-se-muestra-en-la-vitrina_1.jpg)
+  ![Kit Look - Label - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Marketing%20&%20Merchandising/kitlook-no-se-muestra-en-la-vitrina_1.jpg)
 
 6. Haga clic en __Guardar__.
 

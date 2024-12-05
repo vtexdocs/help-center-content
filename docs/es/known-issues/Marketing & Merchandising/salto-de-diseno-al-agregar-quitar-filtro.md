@@ -30,5 +30,5 @@ Al añadir / quitar filtro dentro de la página de registro de productos y Skus,
 
 Usted debe hacer clic donde quedaba *Filtrar resultados o hacer una búsqueda* y luego hacer clic en el botón azul en la esquina inferior izquierda, con lo que el diseño de la página será normalizado.
 
-![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing & Merchandising/salto-de-diseno-al-agregar-quitar-filtro_1.jpg)
+![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/salto-de-diseno-al-agregar-quitar-filtro_1.jpg)
 

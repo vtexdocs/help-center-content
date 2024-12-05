@@ -22,9 +22,9 @@ Para crear los campos adicionales, siga los pasos a continuación:
 1. Verifique la configuración actual de la tienda a través del request GET en el endpoint [Get orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/getorderformconfiguration). Guarde la información JSON recebida del request.
 
 Ejemplo utilizado para la tienda "inStore":
-![2017-08-14 20 12 34-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-configurar-campos-adicionales-en-el-carrito-de-instore_1.png)
+![2017-08-14 20 12 34-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-configurar-campos-adicionales-en-el-carrito-de-instore_1.png)
     2. Hacer un request POST usando el endpoint [Update orderForm configuration](https://developers.vtex.com/vtex-rest-api/reference/updateorderformconfiguration) con los mismos datos JSON guardados y agregue los campos adicionales (`fields`) con la información dentro de la propiedad `apps`.
 
 Ejemplo de request POST:
 
-![2017-08-14 20 11 18-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified Commerce/VTEX Sales App/como-configurar-campos-adicionales-en-el-carrito-de-instore_2.png)
+![2017-08-14 20 11 18-Postman](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/como-configurar-campos-adicionales-en-el-carrito-de-instore_2.png)

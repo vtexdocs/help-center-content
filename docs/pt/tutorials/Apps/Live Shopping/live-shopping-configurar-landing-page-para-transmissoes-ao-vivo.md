@@ -17,7 +17,7 @@ subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
 
 A Página global oferece uma visão abrangente dos eventos passados, presentes e futuros associados à sua conta, permitindo maior engajamento e oportunidades de venda mesmo após a conclusão dos eventos ou antes que eles ocorram. A seguir, veja o exemplo de uma página global:
 
-![ls-global-page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![ls-global-page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Live%20Shopping/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo_1.png)
 
 A seguir, apresentamos as principais funcionalidades encontradas na Página global:
 

@@ -3,8 +3,8 @@ title: 'No puedo importar la plantilla de precios'
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
-updatedAt: 2024-06-10T19:44:11.614Z
-publishedAt: 2024-06-10T19:44:11.614Z
+updatedAt: 2024-11-08T18:50:45.313Z
+publishedAt: 2024-11-08T18:50:45.313Z
 firstPublishedAt: 2024-06-10T17:28:51.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: no-puedo-importar-la-plantilla-de-precios
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---
 
-__Tags/Palavras clave__: *plantilla de precios, importación de plantillas, celdas.*
+**Tags:** Precios, Importación de plantillas
 
 Las [tablas o plantillas de precio](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
 
@@ -52,7 +52,7 @@ Comprueba que los campos de tu plantilla estén rellenados según las guías de 
 
 Ejemplo de plantilla con filtros aplicados y con los campos __Error Code__ y __Error Messages__:
 
-![Hoja de precios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.PNG)
+![Hoja de precios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-puedo-importar-la-plantilla-de-precios_1.PNG)
 
 #### Tamaño de archivo
 

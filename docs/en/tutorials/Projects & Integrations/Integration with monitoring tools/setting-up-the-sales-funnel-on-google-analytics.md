@@ -23,23 +23,23 @@ With the sales funnel configured, you can track and analyze the customer's steps
 
 For manual configuration or editing of an existing goal, the first step is to access Analytics and click on the __Administrator__ button in the lower left corner. Then go to the __Goals__ option, from the "View" column.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/setting-up-the-sales-funnel-on-google-analytics_1.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/setting-up-the-sales-funnel-on-google-analytics_1.png)
 
 In the goal administration screen, choose to create a new goal or to edit an existing one.
 
 __In step 1__ you can follow with a custom type goal:
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/setting-up-the-sales-funnel-on-google-analytics_2.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/setting-up-the-sales-funnel-on-google-analytics_2.png)
 
 __In step 2__ you can define the name you prefer for your goal and a position code (for internal Google Analytics use). In type, let's use "Destination":
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/setting-up-the-sales-funnel-on-google-analytics_3.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/setting-up-the-sales-funnel-on-google-analytics_3.png)
 
 __In step 3__ we have the most sensitive settings. In it we set the page that determines the completion of the goal and the path the clients will take to reach it.
 
 In the "Destination" field select the regular expression option and enter the URL of the order placed page: `^/checkout/orderPlaced`
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/setting-up-the-sales-funnel-on-google-analytics_4.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/setting-up-the-sales-funnel-on-google-analytics_4.png)
 
 Then configure the path that the client will go through until an order is finished. In such case, we're taking into account that the purchase process starts on the product screen; then my funnel will serve to measure the number of customers who access this screen, how many orders have been finished and at which step customers are giving up the purchase.
 
@@ -52,7 +52,7 @@ Still __in step 3__, enable the __Funnel__ option with the following steps:
 5. __Delivery__ = `^/checkout/(\?.*)?#/shipping$`
 6. __Payment__ = `^/checkout/(\?.*)?#/payment$`
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects & Integrations/Integration with monitoring tools/setting-up-the-sales-funnel-on-google-analytics_5.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/setting-up-the-sales-funnel-on-google-analytics_5.png)
 
 One way to verify that the goal is set correctly is to use the "Check this goal" link. Google will generate a goal conversion simulation within the last 7 days.
 

@@ -44,4 +44,4 @@ After exporting and editing the worksheet exported, it is time to import the dat
 5. Select the file.
 6. Click on the **Import** button at the bottom of the screen.
 
-![Importando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master Data/Master Data v1 applications/importing-data-into-master-data_1.gif)
+![Importando](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20v1%20applications/importing-data-into-master-data_1.gif)

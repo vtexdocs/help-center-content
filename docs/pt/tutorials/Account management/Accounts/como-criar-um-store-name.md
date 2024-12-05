@@ -22,7 +22,7 @@ Para criar ou editar um [nome de loja](https://help.vtex.com/pt/tutorial/o-que-e
 3. Clique em **Conta**.
 4. No painel Loja, você verá os nomes de loja que já existem na sua conta. Você pode editar as informações de cada loja, ou criar um novo nome de loja, clicando no botão **Configurar outra loja**.
 
-![Configuração de nome de loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account management/Accounts/como-criar-um-store-name_1.PNG)
+![Configuração de nome de loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Accounts/como-criar-um-store-name_1.PNG)
 
 Para saber como configurar o domínio de suas lojas, veja o artigo [Mudar o domínio da loja](https://help.vtex.com/pt/tutorial/o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja--frequentlyAskedQuestions_626).
 

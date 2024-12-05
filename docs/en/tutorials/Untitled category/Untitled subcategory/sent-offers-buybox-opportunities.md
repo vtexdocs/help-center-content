@@ -35,13 +35,13 @@ On the [Offer Management](https://help.vtex.com/en/tutorial/offers-listing--7MRb
 
 ## Offer details
 
-![EN Oportunidades Offer details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/sent-offers-buybox-opportunities_1.jpg)
+![EN Oportunidades Offer details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/sent-offers-buybox-opportunities_1.jpg)
 
 The [Offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) page displays a message about the `Opportunity` at the top of the page. By clicking on `View opportunity`, you will be redirected to the following page.
 
 ## Offer opportunities
 
-![EN Oportunidades oportunidades do anúncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/sent-offers-buybox-opportunities_2.jpg)
+![EN Oportunidades oportunidades do anúncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/sent-offers-buybox-opportunities_2.jpg)
 
 The **Offer opportunities** page displays the Buybox-eligible offer next to the one already available for sale on the marketplace. On this page, you can compare the data of both offers, such as their brand information, specifications, and dimensions.
 

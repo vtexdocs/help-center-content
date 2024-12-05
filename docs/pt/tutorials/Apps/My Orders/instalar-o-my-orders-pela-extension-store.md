@@ -19,7 +19,7 @@ Acompanhando a evolução da plataforma VTEX, a viewpart de __Meus Pedidos__ ago
 
 Para fazer sua instalação, é preciso que você acesse a [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My Orders/instalar-o-my-orders-pela-extension-store_1.png)
+![app store1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My%20Orders/instalar-o-my-orders-pela-extension-store_1.png)
 
 __Ao instalar a app, você já conta com as seguintes atualizações:__
 
@@ -29,7 +29,7 @@ __Ao instalar a app, você já conta com as seguintes atualizações:__
 - Informações de rastreio para vários itens.
 - Correção de bugs menores.
 
-![app store2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My Orders/instalar-o-my-orders-pela-extension-store_2.png)
+![app store2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My%20Orders/instalar-o-my-orders-pela-extension-store_2.png)
 
 Além disso, com o novo app você consegue, realizar testes de versões e atualizá-lo sempre que uma nova versão estiver disponível, recebendo melhorias contínuas e atualizações de novas features.
 
@@ -42,4 +42,4 @@ Para fazer os testes de customização na sua página, você pode trabalhar em u
 5. Pronto! Agora você vê, antes de subir sua página, como ela irá se comportar.
 6. Para mover o My Orders para o ambiente em produção (onde seus clientes podem de fato usá-lo), você precisa publicar a modificação. Para isso, basta clicar no botão __Publicar__.
 
-![app store3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My Orders/instalar-o-my-orders-pela-extension-store_3.png)
+![app store3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/My%20Orders/instalar-o-my-orders-pela-extension-store_3.png)

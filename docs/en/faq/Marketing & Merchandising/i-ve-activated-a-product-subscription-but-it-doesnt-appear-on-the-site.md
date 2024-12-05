@@ -29,6 +29,6 @@ For manual inclusion of specific SKUs, follow these step-by-step instructions:
 5. Name your Collection (the other fields are not to be filled).
 6. Insert the SKUs in the field and __separate them with commas__.
 
-![recurrence-specific-skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing & Merchandising/i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site_1.png)
+![recurrence-specific-skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing%20&%20Merchandising/i-ve-activated-a-product-subscription-but-it-doesnt-appear-on-the-site_1.png)
 
 Finally, give a name to the __Group__ of your Collection and click __Save Group__.

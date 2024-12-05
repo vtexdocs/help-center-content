@@ -3,8 +3,8 @@ title: 'Configurar condiciones de pago'
 id: tutorials_455
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2024-09-27T18:32:01.802Z
-publishedAt: 2024-09-27T18:32:01.802Z
+updatedAt: 2024-10-22T12:59:40.955Z
+publishedAt: 2024-10-22T12:59:40.955Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial
@@ -36,7 +36,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### Al contado
 
-![pagamento-a-vista es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/condiciones-de-pago_1.png)
+![pagamento-a-vista es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/condiciones-de-pago_1.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -52,7 +52,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas sin interés
 
-![parcelamento-sem-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/condiciones-de-pago_2.png)
+![parcelamento-sem-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/condiciones-de-pago_2.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -69,7 +69,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas con interés
 
-![parcelamento-com-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/condiciones-de-pago_3.png)
+![parcelamento-com-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/condiciones-de-pago_3.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -87,13 +87,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 14. Para elegir entre interés compuesto e interés simple, haga clic en __Se aplicó el interés compuesto. Cambiar__. Aparecerá una casilla de verificación que ofrece ambas opciones.
 15. Haga clic en __Guardar__.
 
-![Juros - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/condiciones-de-pago_4.png)
-
-#### Intereses Externos
-
-En algunos países, los intereses de las compras parceladas son cobrados directamente por la institución financiera. Para estos casos, es posible activar el botón __Intereses externos__. Este botón rellena con `null` el valor de los intereses en el JSON enviado al conector. Este valor `null` indica que los intereses serán cobrados posteriormente por la institución financiera. Para activar esta feature, basta hacer clic en el botón de __Intereses Externos__ en la configuración del pago en cuotas con interés.
-
->ℹ️ Atención: la funcionalidad de interés externo solo es válida para algunas afiliaciones de gateway (asegúrese de que esta opción esté disponible al registrar la afiliación deseada). Los pedidos realizados por afiliaciones que no soporten esta funcionalidad serán cancelados en el sistema.
+![Juros - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/condiciones-de-pago_4.png)
 
 ## Remover condición de pago
 
@@ -101,4 +95,4 @@ En algunos países, los intereses de las compras parceladas son cobrados directa
 2. En la pestana __Condiciones de pago__, haga clic en el condición de pago que desea eliminar.
 3. Haga clic en el icono de la papelera.
 
-![Remover condición de pago](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment Settings/condiciones-de-pago_5.png)
+![Remover condición de pago](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/condiciones-de-pago_5.png)

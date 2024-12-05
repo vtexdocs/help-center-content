@@ -27,17 +27,17 @@ Uma empresa que possui lojas em vários cidades (Ex: São Paulo, Rio de Janeiro,
 
 Para começar você deve ter [criado os links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora.  Depois de ter criado os links no painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Organizar > Geolocalização.**_
 
-![Geolocalizado 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/geolocalizado-suiteshare_1.png)
+![Geolocalizado 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/geolocalizado-suiteshare_1.png)
 
 Clique em _**“Novo”**_.
 
-![Geolocalizado 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/geolocalizado-suiteshare_2.png)
+![Geolocalizado 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/geolocalizado-suiteshare_2.png)
 
 Em **Link Âncora**, como o próprio nome já diz, você irá selecionar o link principal da central. Esse é o link que você irá divulgar e que os clientes irão clicar. 
 
 **Nota**: Esse será o link responsável por fazer a ligação com os demais atendentes.
 
-![Geolocalizado 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/geolocalizado-suiteshare_3.png)
+![Geolocalizado 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/geolocalizado-suiteshare_3.png)
 
 O link whts.co/geolocalizado  sera o link principal. Nesse link está cadastrado o número de telefone da Matriz da Loja Teste que fica no Rio de Janeiro. 
 
@@ -47,11 +47,11 @@ O link whts.co/geolocalizado  sera o link principal. Nesse link está cadastrad
 
 Clique em _**“Avançar”**_.
 
-![Geolocalizado  4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/geolocalizado-suiteshare_4.png)
+![Geolocalizado  4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/geolocalizado-suiteshare_4.png)
 
 Em Links Geolocalizados,selecione os vendedores ou números,  que irão participar da central. Clique em **_“Adicionar”_,** selecione o estado e a região e selecione o link para cada participante da central.
 
-![Geolocalizado 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/geolocalizado-suiteshare_5.png)
+![Geolocalizado 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/geolocalizado-suiteshare_5.png)
 
 **IMPORTANTE:** No exemplo definimos por estados e não por cidades, mas você também pode definir somente por cidades.
 

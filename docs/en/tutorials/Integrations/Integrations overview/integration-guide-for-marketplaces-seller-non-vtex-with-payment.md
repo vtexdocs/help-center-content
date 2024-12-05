@@ -130,7 +130,7 @@ SKU suggestion,  price and inventory updating. Every time there is a change on t
 
 _flow example:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_1.png)
 
 <a name="a1"><a/>
 ### Send Change Notification of SKU price and inventory
@@ -282,7 +282,7 @@ When a product is inserted into the cart in the Marketplace that isn't VTEX, or 
 
 *Request flow example:*
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_2.png)
 
 <a name="a4"><a/>
 ### Cart Simulation (POST AND GET)
@@ -616,7 +616,7 @@ This topic is intended to assist the Seller non VTEX to receive a order, the pay
 
 _exemplo do fluxo de chamadas de descida de pedido, pagamento e atualização de status de pagamento:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/integration-guide-for-marketplaces-seller-non-vtex-with-payment_3.png)
 
 <a name="a6"><a/>
 ### Send Order

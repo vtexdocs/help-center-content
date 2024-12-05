@@ -24,7 +24,7 @@ The VTEX platform is prepared to support domain changes without adverse impacts.
 ### 1. Create new HOST entries in the License Manager
 In the License Manager, under “Contas,” enter the new domain as the HOST of your store. At this moment, the DNS of the new domain should not be pointed to VTEX yet. 
 See below an image illustrating and giving examples of the inclusion of new HOSTs to be applied:
-![Change Domain](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account management/Accounts/how-can-i-change-the-domain-of-my-store_1.png)
+![Change Domain](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/how-can-i-change-the-domain-of-my-store_1.png)
 
 ### 2. Check the settings of the new Portal
 This step is crucial for the Checkout to continue operating after the change. You must check whether the Sites set up are connected to some inexisting Account Name created in License Manager. [Learn more about the portal settings here](/en/faq/configure-template-in-the-smartcheckout).

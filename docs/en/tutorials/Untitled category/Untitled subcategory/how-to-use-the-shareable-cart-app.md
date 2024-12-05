@@ -17,7 +17,7 @@ subcategoryId: unknown-subcategory
 
 The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sales assistants to select products for their customers and share the cart through channels such as WhatsApp, Facebook Messenger and email (Social Selling).
 
-![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_1.gif)
+![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_1.gif)
 
 This article details the steps needed to use this feature: activate the app, choose products, add sales assistant code, share and create a new cart. Before you start, you need to [activate this feature in your store](https://help.vtex.com/en/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
 
@@ -31,25 +31,25 @@ You must activate the app in your first access, by accessing the store from the 
 
 The cart sharing interface should appear on the screen, including some of the icons below. The options available depend on the configuration chosen by the store.
 
-![Screen Shot 2020-05-03 at 17.37.11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_2.png)
+![Screen Shot 2020-05-03 at 17.37.11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_2.png)
 
 ## Choosing products
 
 Once the app is activated, it is not necessary to log in to start browsing and to select products. Just browse the store as usual, as if you were making an online purchase. After choosing all products for the customer, open the cart and follow the next steps in the cart sharing interface.
 
-![shareable-cart-chooseproducts](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_3.gif)
+![shareable-cart-chooseproducts](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_3.gif)
 
 ## Adding a sales assistant code
 
-After selecting the products, click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_7.png" /> button to add your sales assistant code. Follow the store's instructions for filling out, as each store can choose different ways to identify sales assistants and add discounts to their carts.
+After selecting the products, click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_7.png" /> button to add your sales assistant code. Follow the store's instructions for filling out, as each store can choose different ways to identify sales assistants and add discounts to their carts.
 
-![shareable-cart-addcode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_4.gif)
+![shareable-cart-addcode](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_4.gif)
 
 ## Filling in personal data and address (optional)
 
 Depending on the customer's preference and your store’s guidelines, you can fill in the personal and shipping data for the order. Payment data must always be filled in by the customer.
 
-![shareable-cart-customerdetails](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_5.gif)
+![shareable-cart-customerdetails](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_5.gif)
 
 >❗ **Never ask for payment details when sending the cart.** Even if the customer insists, explain that they should fill in the payment details for security reasons.
 
@@ -57,13 +57,13 @@ Depending on the customer's preference and your store’s guidelines, you can fi
 
 After adding your sales assistant code, click on the button corresponding to the desired option. See below the steps for each sharing option.
 
-![shareable-cart-sharecart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_6.gif)
+![shareable-cart-sharecart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_6.gif)
 
 ### Whatsapp
 
 To share the cart via WhatsApp:
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_8.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_8.png" /> button
 2. Enter the **customer’s phone number** and click on OK
 3. (Optional) Customize the message on WhatsApp
 4. Send the message via WhatsApp
@@ -74,7 +74,7 @@ To share the cart via WhatsApp:
 
 To share the cart via Facebook Messenger:
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_9.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_9.png" /> button
 2. Enter the **client’s name** on Facebook Messenger
 3. Customize the message on Facebook Messenger
 4. Send the message via Facebook Messenger
@@ -87,7 +87,7 @@ To share the cart via Facebook Messenger:
 
 To share the cart via SMS: 
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_10.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_10.png" /> button
 2. Enter the **customer’s phone number** and click on OK
 3. (Optional) Customize the message on your SMS app
 4. Send the message via SMS
@@ -96,7 +96,7 @@ To share the cart via SMS:
 
 To share the cart via Link:
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_11.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_11.png" /> button
 2. Copy the link highlighted in **Link to share**
 3. (Optional) Write a custom message with the link
 4. Send the link to the customer on your contact channel
@@ -105,7 +105,7 @@ To share the cart via Link:
 
 To share the cart via Gmail:
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_12.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_12.png" /> button
 2. Enter the **customer's email address** and click on OK
 3. (Optional) Customize the message in Gmail
 4. Send the message via Gmail
@@ -114,7 +114,7 @@ To share the cart via Gmail:
 
 ### Email
 
-1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_13.png" /> button
+1. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_13.png" /> button
 2. Enter the **customer's email address** and click on OK
 3. (Optional) Customize the message in your email app 
 4. Send the message via email
@@ -123,7 +123,7 @@ To share the cart via Gmail:
 
 ## Clearing the cart
 
-After finishing assisting a customer, click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/en/tutorials/Untitled category/Untitled subcategory/how-to-use-the-shareable-cart-app_14.png"/> button to empty your cart and choose new products for another customer.
+After finishing assisting a customer, click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-use-the-shareable-cart-app_14.png"/> button to empty your cart and choose new products for another customer.
 
 >ℹ️ **Each salesperson can serve multiple customers!** We recommend keeping the links you’ve shared in a spreadsheet or notepad. This way you keep your carts organized and can make changes whenever a customer requests.
 

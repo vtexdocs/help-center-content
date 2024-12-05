@@ -66,7 +66,7 @@ To create a release, follow the step-by-step instructions below:
 
 8. Click `Create`.
 
-![print_cms_beta_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/releases-module-beta_1.png)
+![print_cms_beta_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/releases-module-beta_1.png)
 
 ### How to create a release using the Releases module
 
@@ -84,7 +84,7 @@ To create a release, follow the step-by-step instructions below:
 
 All the releases are listed in the VTEX Admin, in **Store Settings > Releases**. The page displays two tabs, `SCHEDULED` and `UNSCHEDULED`, depending on whether the release has been created with a set publish date. 
 
-![print_releases_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/releases-module-beta_2.png)
+![print_releases_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/releases-module-beta_2.png)
 
 On the `SCHEDULED` tab, each column is described as follows:
 

@@ -33,7 +33,7 @@ In this tutorial, you will learn how to add the 3DS2 authentication to the Reds�
 4. Scroll down the screen and select __Yes__ for the __3DS Enabled__ option.
 5. Click on __Save__.
 
-![RedsysV2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/enabling-3ds2-for-redsys-v2-integration_1.png)
+![RedsysV2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/enabling-3ds2-for-redsys-v2-integration_1.png)
 
 It’s done! Now the solution is enabled for Redsýs’s transactions with credit cards.
 

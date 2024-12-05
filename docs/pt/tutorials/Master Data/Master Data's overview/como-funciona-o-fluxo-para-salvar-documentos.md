@@ -17,7 +17,7 @@ subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 
 A imagem abaixo mostra o fluxo interno de salvamento de documentos no Master Data. Vamos explicar cada passo.
 
-![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master Data/Master Data's overview/como-funciona-o-fluxo-para-salvar-documentos_1.png)
+![Save flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data's%20overview/como-funciona-o-fluxo-para-salvar-documentos_1.png)
 
 #### Salvar chamada de API
 Ocorre quando o usuário chama a API de salvamento de documentos (POST, PUT ou PATCH).

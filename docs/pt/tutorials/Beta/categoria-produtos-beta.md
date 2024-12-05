@@ -1,9 +1,9 @@
 ---
 title: 'Beta'
-id: beta-products
+id: category-beta-products
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-beta-products
@@ -64,6 +64,9 @@ locale: pt
 ## Autenticação Beta
 
 - [Configurar login com Apple ID (Beta)](https://help.vtex.com/pt/docs/tutorials/configurar-login-com-apple-id-beta)
+
+## Chaves de API Beta
+
 - [Chaves de API (Beta)](https://help.vtex.com/pt/docs/tutorials/chaves-de-api)
 - [Configurar a duração de chaves de API (Beta)](https://help.vtex.com/pt/docs/tutorials/configurar-a-duracao-de-chaves-de-api)
 - [Chaves geradas (Beta)](https://help.vtex.com/pt/docs/tutorials/chaves-geradas)

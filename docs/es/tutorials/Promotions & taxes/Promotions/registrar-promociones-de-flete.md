@@ -39,40 +39,40 @@ Si habilita la opción **Aplicar el descuento solo para la opción de envío má
 Si la tienda configura la estrategia de envío __Retiro__, que tiene un costo de R$ 0,00 para el cliente, la promoción puede considerar este valor como el más bajo y no aplicar el descuento en los costos de envío. Para garantizar que la promoción funcione como se espera, aplicando el descuento de envío gratuito a los costos de envío, selecciona todos los métodos en el cuadro, excepto Retiro en Tienda.
 
 #### Configuración
-![Aplicar el descuento solo para la opción de envío más barata - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_1.png)
+![Aplicar el descuento solo para la opción de envío más barata - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_1.png)
 
 #### Resultado
-![saggincaso1.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_2.png)
+![saggincaso1.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_2.png)
 
 ### Escenario 2
 
 Si desactiva la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento se aplicará a todos los fletes disponibles.
 
 #### Configuración
-![Nenhum frete selecionado - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_3.png)
+![Nenhum frete selecionado - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_3.png)
 
 #### Resultado
-![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_4.png)
+![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_4.png)
 
 ### Escenario 3
 
 Si solo habilita la opción **Tipo de carga** y selecciona los tipos de flete deseados, el descuento de flete se aplicará a todos los tipos de flete seleccionados.
 
 #### Configuración
-![Tipo de carga - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_5.png)
+![Tipo de carga - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_5.png)
 
 #### Resultado
-![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_6.png)
+![saggincaso2.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_6.png)
 
 ### Escenario 4
 
 Si habilita las opciones **Tipo de carga** y **Aplique el descuento solo cuando el cliente seleccione uno de los transportistas anteriores** y selecciona los tipos de flete deseados, el descuento de flete se aplicará a todos los tipos de flete seleccionados solamente cuando el cliente elija el tipo de flete en el checkout.
 
 #### Configuración
-![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_7.png)
+![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_7.png)
 
 #### Resultado
-![saggincaso3.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Promotions/registrar-promociones-de-flete_8.png)
+![saggincaso3.2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/registrar-promociones-de-flete_8.png)
 
 En resumen, la casilla **Aplique el descuento solo cuando el cliente seleccione uno de los transportistas anteriores** se utiliza para aplicar el descuento solamente cuando se selecciona la transportadora.
 

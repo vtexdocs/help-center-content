@@ -27,13 +27,13 @@ Com isso o checkout poderá montar o orderForm considerando o marketingData usad
 
 Para se certificar de que o conteúdo do parâmetro `utm_source`, por exemplo, está sendo passado ao checkout, você pode seguir as etapas abaixo:
 1. Acesse qualquer página da loja com a utm na querystring (ex: {AccountName}.com.br`?utm_source=facebook`)
-2. Entre nos __developer tools__ (F12 no Chrome, se estiver no Windows, ou Cmd+Opt+I, no Mac), acesse a aba __Application__, abra os cookies do site da loja e procure o cookie __IPS__.![utmSource1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout_1.png)
+2. Entre nos __developer tools__ (F12 no Chrome, se estiver no Windows, ou Cmd+Opt+I, no Mac), acesse a aba __Application__, abra os cookies do site da loja e procure o cookie __IPS__.![utmSource1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout_1.png)
 3. Entre numa página de produto e insira um produto no carrinho.
 4. Entre no carrinho.
 5. Atualize a página e, na aba __Network__ do developer tools, monitore os requests.
 6. Selecione o request __orderForm__.
 7. No preview, abra o nó `marketingData`.
-8. Confira o valor do campo `utmSource`.![utmSource2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions & taxes/Promotions/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout_2.png)
+8. Confira o valor do campo `utmSource`.![utmSource2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/identificar-se-utms-de-marketing-estao-sendo-passadas-para-o-checkout_2.png)
 
 No exemplo da imagem acima, note que o valor do parâmetro `utm_source` foi corretamente passado para o checkout, que inseriu esse parâmetro no orderForm, dentro do campo `utmSource`.
 

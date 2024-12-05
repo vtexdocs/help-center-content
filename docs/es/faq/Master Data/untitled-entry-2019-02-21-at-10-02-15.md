@@ -24,9 +24,9 @@ A continuación, entienda el paso a paso para hacerlo:
 
 1. Acceda al __Master Data__;
 2. Haga clic en __Exportations__;
-![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master Data/untitled-entry-2019-02-21-at-10-02-15_1.png)
+![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master%20Data/untitled-entry-2019-02-21-at-10-02-15_1.png)
 3. Asegúrese de que la pestaña abierta es la de __"Applications"__;
-![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master Data/untitled-entry-2019-02-21-at-10-02-15_2.png)
+![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Master%20Data/untitled-entry-2019-02-21-at-10-02-15_2.png)
 4. En __"Status de exportaciones"__, haga clic en el informe que desea descargar.
 
 De esta forma, es posible acceder a este material aunque el email original no haya llegado al solicitante.

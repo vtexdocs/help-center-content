@@ -17,7 +17,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Los adicionales de flete son importes que se añaden al costo de envío mediante las [políticas de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Así, al configurar un valor de costo para la entrega de los ítems de su tienda, puede establecer una tarifa fija e incluir valores adicionales. El costo de envío fijo más los adicionales constituyen el costo de la [tarifa de envío](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
 
-![Tarifa envio ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping rates/adicionales-de-flete_1.svg)
+![Tarifa envio ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20rates/adicionales-de-flete_1.svg)
 
 Los valores adicionales pueden configurarse según:
 
@@ -29,7 +29,7 @@ Los valores adicionales pueden configurarse según:
 * El costo de envío: 
 [adicional de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-flete).
 
-![adicionais frete ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping rates/adicionales-de-flete_2.svg)
+![adicionais frete ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20rates/adicionales-de-flete_2.svg)
 
 >❗ Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la [tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) es la suma de todos los adicionales registrados más la tarifa fija del flete. 
 > La tarifa de envío no es el costo final de envío.
@@ -60,7 +60,7 @@ Adicional de flete: ($10+$0+$2+$5)x10%=$1,70
 Adicionales de flete: ($2+$5+$1,7)=$8,70  
 Tarifa de envío: ($10+$8,70)=$18,70  
 
-![faixa-peso ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping rates/adicionales-de-flete_3.png)
+![faixa-peso ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20rates/adicionales-de-flete_3.png)
 
 ### Configuración 
 
@@ -156,5 +156,5 @@ Para configurar el adicional de flete, vaya al menú del Admin.
     1. Si desea incluir una tasa del 10%, rellene el campo con 10. Para los números decimales, utilice puntos en lugar de comas, como en 1.67.
 3. Haga clic en `Guardar`.
 
-![adicional configuracoes ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping rates/adicionales-de-flete_4.png)
+![adicional configuracoes ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20rates/adicionales-de-flete_4.png)
 

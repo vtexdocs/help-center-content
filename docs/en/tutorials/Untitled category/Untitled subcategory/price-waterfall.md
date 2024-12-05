@@ -21,7 +21,7 @@ With this new feature, we now have a new price entity called *Conditional Prices
 
 Below we have an illustration showing how this price waterfall works:
 
-![priceWaterfall](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled category/Untitled subcategory/price-waterfall_1.png)
+![priceWaterfall](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/price-waterfall_1.png)
 
 When a price for a specific SKU is requested to the *Pricing* module:
 1. A *Fixed Price* is selected according to its criteria like **scheduling** and **minimum quantity**.

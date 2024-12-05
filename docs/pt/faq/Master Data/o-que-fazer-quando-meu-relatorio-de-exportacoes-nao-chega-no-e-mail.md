@@ -24,9 +24,9 @@ A seguir, entenda o passo a passo:
 
 1. Acesse o __Master Data__
 2. Clique em __“Exportations”__
-![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Master Data/o-que-fazer-quando-meu-relatorio-de-exportacoes-nao-chega-no-e-mail_1.png)
+![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Master%20Data/o-que-fazer-quando-meu-relatorio-de-exportacoes-nao-chega-no-e-mail_1.png)
 3. Certifique-se que aba aberta é a de __“Aplicações”__
-![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Master Data/o-que-fazer-quando-meu-relatorio-de-exportacoes-nao-chega-no-e-mail_2.png)
+![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Master%20Data/o-que-fazer-quando-meu-relatorio-de-exportacoes-nao-chega-no-e-mail_2.png)
 4. Em __“Status de exportações”__, clique no relatório que deseja baixar.
 
 Dessa forma, é possível acessar esse material mesmo que o email original não tenha chegado para o solicitante.

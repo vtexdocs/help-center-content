@@ -35,7 +35,7 @@ Este es el paso más importante para activar el B2B. Al configurar la Política 
 
 Normalmente, en los B2Bs convencionales, este campo se rellena con el valor `approved="true"` (`approved` es el nombre de un campo en la entidad __Cliente__, en el Master Data). Con esa regla, el sistema sólo dejará que usuarios autenticados y aprobados naveguen en el sitio.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_1.png)
 
 ## 2. Personalizar layout de directorios B2B
 
@@ -49,15 +49,15 @@ Vea las características básicas de cada tipo de usuario:
 
 Así, para tener un ambiente B2B, será necesario personalizar las carpetas **401** y **403**, hijas de la carpeta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_2.png)
 
 Navegación por un usuario Anónimo (al intentar acceder cualquier página, será dirigido al 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_3.png)
 
 Navegación por un usuario no aprobado (al intentar acceder cualquier página, será dirigido al 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical guides/configurando-b2b-na-vtex_4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_4.png)
 
 ## 3. Definir campos de registro previo
 

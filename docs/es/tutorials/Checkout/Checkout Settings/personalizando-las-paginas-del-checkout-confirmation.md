@@ -15,7 +15,7 @@ legacySlug: personalizando-las-paginas-del-checkout-confirmation
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-![Página de confirmação de pedido (Order Placed)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/personalizando-las-paginas-del-checkout-confirmation_1.png) 
+![Página de confirmação de pedido (Order Placed)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/personalizando-las-paginas-del-checkout-confirmation_1.png) 
 
 Con la nueva sección de Mis Pedidos viene una nueva página de confirmación de pedido, que ahora es parte del **Checkout Confirmation**, feature responsable por las páginas de confirmación del Checkout.
 
@@ -25,7 +25,7 @@ Además de la orden colocada, otra página es el Order Changed, que muestra la c
 
 Al igual que en versiones anteriores, la página de Order Placed (y también la de Order Changed) acepta **templates de HTML**:
 
-![Página de confirmação de pedido com imports de HTML](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/personalizando-las-paginas-del-checkout-confirmation_2.png)
+![Página de confirmação de pedido com imports de HTML](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/personalizando-las-paginas-del-checkout-confirmation_2.png)
  
 Para añadir su código a estes templates, basta con acceder al módulo Portal y, en la pestaña **Code**, editar los siguientes archivos:
 
@@ -34,7 +34,7 @@ Para añadir su código a estes templates, basta con acceder al módulo Portal y
 - **checkout-confirmation-header**
 - **checkout-confirmation-top**
 
-![Página do Portal v2 com arquivos de template corretos destacados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/personalizando-las-paginas-del-checkout-confirmation_3.png)
+![Página do Portal v2 com arquivos de template corretos destacados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/personalizando-las-paginas-del-checkout-confirmation_3.png)
 
 Es importante recordar que los templates para personalización son los mismos para Order Placed y Order Confirmation.
 
@@ -44,7 +44,7 @@ Es importante recordar que los templates para personalización son los mismos pa
 
 También se puede editar la interfaz del Checkout Confirmation mediante clases CSS. Sus estilos se deben agregar en una tag `<style>` en uno de los templates HTML cargadas en la página.
 
-![Página de OrderPlaced do Checkout Confirmation com classes de customização marcadas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout Settings/personalizando-las-paginas-del-checkout-confirmation_4.png)
+![Página de OrderPlaced do Checkout Confirmation com classes de customização marcadas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/personalizando-las-paginas-del-checkout-confirmation_4.png)
 
 Para personalizar los estilos del Checkout Confirmation, utilize las clases abajo:
 

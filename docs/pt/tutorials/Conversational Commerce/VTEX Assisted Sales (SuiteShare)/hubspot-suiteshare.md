@@ -23,11 +23,11 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **HubSpot**.
 
-   ![HubSpot_Suiteshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/hubspot-suiteshare_1.png)
+   ![HubSpot_Suiteshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/hubspot-suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > HubSpot > Integrar**.
 
-   ![CRM Zen_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational Commerce/VTEX Assisted Sales (SuiteShare)/hubspot-suiteshare_2.png)
+   ![CRM Zen_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/hubspot-suiteshare_2.png)
 
 Selecione a Hubspot e clique em _**“integrar”**_
 

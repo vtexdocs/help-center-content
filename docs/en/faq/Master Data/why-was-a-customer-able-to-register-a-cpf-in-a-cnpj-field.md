@@ -21,7 +21,7 @@ Follow the steps below to validate the information:
 1. Go to your store Admin: `https://{AccountName}.myvtex.com/admin`.
 2. On the side menu, click __Master Data__.
 3. In the __Profile System__ box, click __Customers__.
-4. Select the option __Email__ and search the client's email.![e-mail - Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field_1.png)
+4. Select the option __Email__ and search the client's email.![e-mail - Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/why-was-a-customer-able-to-register-a-cpf-in-a-cnpj-field_1.png)
 5. Click the customer record to access the profile details.
 
 In the __Contact__ section, you will see that the `Is Company?` option is filled with the value `No`. At the same time, in the section __Company Data__, you will see that the `Document Type` field is filled with the value `cnpj`.

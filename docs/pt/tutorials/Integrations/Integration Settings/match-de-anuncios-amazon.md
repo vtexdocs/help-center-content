@@ -19,7 +19,7 @@ Toda vez que um [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeo
 
 O EAN cadastrado na VTEX é utilizado para fazer a equivalência com os [ASINs](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (*Amazon Standard Identification Number, ou, Número de Identificação Padrão da Amazon*) correspondentes na Amazon. Para realizar o pareamento entre o EAN e o ASIN, é necessário realizar o matching manual. A correspondência entre EAN e ASINs precisa ser exata para que os anúncios sejam vinculados corretamente.   
 
-![Overview match de anúncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/match-de-anuncios-amazon_1.gif)
+![Overview match de anúncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/match-de-anuncios-amazon_1.gif)
 
 ## Aba Oportunidade  
 Na aba __Oportunidade__, o seller pode realizar o match dos produtos enviados à Amazon individualmente ou em massa, realizar busca por nome do produto e clicando no ícone <i class="fas fa-ellipsis-v"></i> o seller poderá escolher entre `ver detalhes` dos produtos e `ver anúncio` do produto correspondente na Amazon. 
@@ -75,7 +75,7 @@ Para aprovar a correspondência o seller deve seguir os passos abaixo.
 1. Na aba `Oportunidade`, clique no ícone <i class="fas fa-ellipsis-v"></i>. 
 2. Clique no botão `Ver detalhes`.  
 3. Confira as informações que aparecerão na página.  
-![Match individual de anúncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/match-de-anuncios-amazon_2.png)  
+![Match individual de anúncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/match-de-anuncios-amazon_2.png)  
 4. Conforme a análise das informações, clique em um dos botões disponíveis, `Publicar`, `Rejeitar e solicitar revisão` ou `Rejeitar`.
 
 ### Match massivo de anúncios  
@@ -85,13 +85,13 @@ Na aba de `Oportunidade`, todos os produtos listados que possuem equivalência e
 1. Na aba `Oportunidade`, marque a caixa de seleção ao lado do título dos anúncios com equivalência SKU <> ASIN.  
 Ao selecionar os produtos, aparecerá na tela o seguinte pop-up mostrando quantos produtos foram selecionados.
 
-![popup seleção mtach Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/match-de-anuncios-amazon_3.png)
+![popup seleção mtach Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/match-de-anuncios-amazon_3.png)
 
 2. Ao finalizar a seleção de produtos, clique em  `Publicar selecionados`.  
 
 3. No pop-up de confirmação do *matching*, confira os anúncios selecionados e clique em `Confirmar publicação`.  
 
-![confirmação do matching Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration Settings/match-de-anuncios-amazon_4.png)
+![confirmação do matching Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/match-de-anuncios-amazon_4.png)
 
 Quando confirmado, os seus anúncios serão enviados e enfileirados para processamento. Após aprovado, o anúncio aparecerá na aba __Anúncios__, onde você pode __“ver detalhes do seu anúncio”__, __“ver anúncio sugerido pela Amazon”__ e __pesquisar anúncios__ na barra de busca.  
 

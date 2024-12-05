@@ -60,16 +60,16 @@ Below you can see examples of the flows of adding, editing and deleting rounding
 
 *_Procedure for creating a rule_*
 
-![config-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding Rules/rounding-rules_1.gif)
+![config-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_1.gif)
 
 *_Procedure for modifying a rule_*
 
-![editar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding Rules/rounding-rules_2.gif)
+![editar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_2.gif)
 
 *_Procedure for deleting a rule_*
 
-![deletar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding Rules/rounding-rules_3.gif)
+![deletar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_3.gif)
 
 *_Price simulation for a rule_*
 
-![teste-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding Rules/rounding-rules_4.gif)
+![teste-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_4.gif)

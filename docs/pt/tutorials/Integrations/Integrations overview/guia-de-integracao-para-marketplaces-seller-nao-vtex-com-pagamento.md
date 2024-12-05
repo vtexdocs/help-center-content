@@ -130,7 +130,7 @@ Caso a loja retorne em seu serviço o **response status 200 ou 202**, significa 
 
 _exemplo do fluxo:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_1.png)
 
 <a name="a1"><a/>
 ### Enviar Notificação de Mudança de Preço e Estoque de SKU
@@ -279,7 +279,7 @@ Quando um produto é inserido no carrinho no marketplace VTEX, ou faz se alguma 
 
 *Exemplo do fluxo de chamadas no carrinho:*
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_2.png)
 
 <a name="a4"><a/>
 ### Simulação de Carrinho (POST E GET)
@@ -609,7 +609,7 @@ Este tópico tem por objetivo auxiliar o Seller não VTEX a receber um pedido, r
 
 _exemplo do fluxo de chamadas de descida de pedido, pagamento e atualização de status de pagamento:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento_3.png)
 
 <a name="a6"><a/>
 ###Enviar Pedido

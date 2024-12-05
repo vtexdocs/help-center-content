@@ -95,7 +95,7 @@ Caso a loja retorne em seu serviço o **response status 200 ou 202**, significa 
 
 _exemplo do fluxo:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_1.png)
 
 <a name="a1"><a/>
 ### Enviar Notificação de Mudança de Preço e Estoque de SKU
@@ -213,7 +213,7 @@ Este tópico tem por objetivo auxiliar o integrador na simulação de carrinho, 
 
 _exemplo do fluxo de chamadas no carrinho:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_2.png)
 
 <a name="a4"><a/>
 ### Simulação de Carrinho
@@ -375,7 +375,7 @@ Este tópico tem por objetivo auxiliar o Seller a receber um pedido do Marketpla
 
 _exemplo do fluxo:_
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/guia-de-integracao-para-marketplaces-seller-nao-vtex_3.png)
 
 <a name="a6"><a/>
 ### Enviar Pedido

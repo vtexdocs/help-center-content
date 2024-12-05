@@ -36,19 +36,19 @@ En la página [Gestión de anuncios](https://help.vtex.com/es/tutorial/offers-li
 
 ## Detalles del anuncio
 
-![ES Oportunidades Offer details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de_1.jpg)
+![ES Oportunidades Offer details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/anuncios-enviados-oportunidades-de_1.jpg)
 
 La página [Detalles del anuncio](https://help.vtex.com/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) presenta una tarjeta de `Oportunidad` en la parte superior de la página. Al hacer clic en `Ver oportunidad`, será redirigido a la siguiente página.
 
 ## Oportunidades del anuncio
 
-![ES Oportunidades oportunidades do anúncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de_2.jpg)
+![ES Oportunidades oportunidades do anúncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/anuncios-enviados-oportunidades-de_2.jpg)
 
 La página **Oportunidades del anuncio** presenta el anuncio elegible para la Catálogo MeLi al lado del anuncio que está presente en el marketplace. La página le permite comparar los datos de los dos anuncios, incluida la información de la marca, especificaciones y dimensiones.
 
 Además de la oportunidad de agregar anuncios, existe __Auto Optin (creación automática de anuncios de Catálogo MeLi)__, en esta opción el Mercado Livre evaluará las publicaciones de los vendedores, si cumple con todos los requisitos para convertirse en un anuncio de Catálogo MeLi, será hecho automáticamente y el vendedor verá el siguiente mensaje.
 
-![Auto Optin MELI](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled category/Untitled subcategory/anuncios-enviados-oportunidades-de_3.png)
+![Auto Optin MELI](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/anuncios-enviados-oportunidades-de_3.png)
 
 ## Añadir anuncios a la Catálogo MeLi
 

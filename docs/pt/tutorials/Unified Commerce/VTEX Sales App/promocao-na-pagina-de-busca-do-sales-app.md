@@ -31,5 +31,5 @@ Quando um produto tem múltiplas promoções associadas a ele, o vendedor de uma
 
 A imagem a seguir ilustra uma promoção disponível na Página de Listagem de Produtos (PLP).
 
-![promoção em destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![promoção em destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Unified%20Commerce/VTEX%20Sales%20App/promocao-na-pagina-de-busca-do-sales-app_1.png)
 

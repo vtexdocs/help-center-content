@@ -65,13 +65,13 @@ Com esse tipo de informação o usuário indicará ao Google informações sobre
 - <em style="color: gray">Data da resenha:_
 
 **Passo 1**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration with monitoring tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_1.gif)****
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_1.gif)****
 
 **Passo 2**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration with monitoring tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_2.gif)
 
 **Passo 3**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration with monitoring tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_3.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_3.gif)
 
 ### Produtos
 
@@ -90,10 +90,10 @@ Com esse tipo de informação o usuário indicará ao Google informações sobre
 - <em style="color: gray">Data da resenha:_
 
 **Passo 1**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration with monitoring tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_4.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_4.gif)
 
 **Passo 2**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects & Integrations/Integration with monitoring tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_5.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console_5.gif)
 
 **Passo 3**
 Lembrando que o **Marcador de Dados** apenas identifica os dados para o Google, para as demais ferramentas de busca será necessário estruturar os dados através de tags inseridas no código fonte.

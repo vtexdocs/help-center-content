@@ -34,7 +34,7 @@ Após recarregar o inStore, sempre que um vendedor imprimir um pedido, esse text
 
 Antes de adicionar texto extra, a impressão do resumo do pedido tem o seguinte formato:
 
-![28. Adding extra text to the order print - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/Adding extra text to the order print/adicionar-texto-extra-a-impressao-do-pedido_1.png)
+![28. Adding extra text to the order print - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/Adding%20extra%20text%20to%20the%20order%20print/adicionar-texto-extra-a-impressao-do-pedido_1.png)
 
 Em nosso exemplo, alteramos o arquivo `checkout-instore-custom.js` inserindo o seguinte texto extra:
 
@@ -46,4 +46,4 @@ window.INSTORE_CONFIG = {
 
 Agora, quando sempre que um resumo de pedido for impresso, teremos o seguinte resultado:
 
-![28. Adding extra text to the order print - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/Adding extra text to the order print/adicionar-texto-extra-a-impressao-do-pedido_2.png)
+![28. Adding extra text to the order print - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/Adding%20extra%20text%20to%20the%20order%20print/adicionar-texto-extra-a-impressao-do-pedido_2.png)

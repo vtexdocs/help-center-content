@@ -1,9 +1,9 @@
 ---
 title: 'Seguridad'
-id: security
+id: category-security
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-06T19:28:52.287Z
+updatedAt: 2024-11-26T21:55:29.577Z
 contentType: tutorial
 productTeam: Reliability
 slugEN: category-security
@@ -19,7 +19,6 @@ locale: es
 - [Derechos de los titulares de datos personales](https://help.vtex.com/es/docs/tutorials/derechos-de-los-titulares-de-datos-personales)
 - [Buenas prácticas para el uso de claves de aplicación](https://help.vtex.com/es/docs/tutorials/buenas-practicas-claves-de-aplicacion)
 - [Buenas prácticas de prevención de fraudes que utilizan la marca VTEX](https://help.vtex.com/es/docs/tutorials/buenas-practicas-de-prevencion-de-fraudes-que-utilizan-la-marca-vtex)
-- [Lista de sinónimos](https://help.vtex.com/es/docs/tutorials/lista-de-sinonimos)
 - [Gestionar encabezados HTTP](https://help.vtex.com/es/docs/tutorials/gestionar-encabezados-http)
 
 ## Recursos de seguridad de la plataforma

@@ -3,8 +3,8 @@ title: 'Integración con Renner y Camicado'
 id: 5qf2wloosKlmIB8o2AitnT
 status: PUBLISHED
 createdAt: 2021-07-02T19:25:31.689Z
-updatedAt: 2023-08-25T18:50:55.909Z
-publishedAt: 2023-08-25T18:50:55.909Z
+updatedAt: 2024-11-13T18:06:07.642Z
+publishedAt: 2024-11-13T18:06:07.642Z
 firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels

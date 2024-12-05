@@ -21,7 +21,7 @@ No Catálogo, os produtos são organizados por categorias, e as categorias organ
 
 Um exemplo de estrutura de catálogo seria o seguinte:
 
-![img como funciona o catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Catalog - Overview/visao-geral-da-estrutura-do-catalogo_1.png)
+![img como funciona o catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Catalog%20-%20Overview/visao-geral-da-estrutura-do-catalogo_1.png)
 
 >⚠️ Não é necessário que a sua árvore de categorias possua três níveis. A hierarquia exibida acima é apenas um exemplo. A quantidade de níveis de categoria a ser criada depende muito do setor de atuação de cada loja.
 

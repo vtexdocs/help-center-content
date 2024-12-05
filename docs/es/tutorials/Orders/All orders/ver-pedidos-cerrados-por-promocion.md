@@ -20,7 +20,7 @@ En la sección de __Gestión de pedidos__ es posible filtrar los pedidos realiza
 Si desea ver los pedidos que se han cerrado con esta promoción aplicada, basta con seguir los pasos abajo:
 
 1. En el menú del admin, haga clic en __Gestión de pedidos__.
-2. Haga clic en el botón de filtro y, dentro de la sección __Otros__, haga clic en la opción __Promociones__.![promo-filter-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All orders/ver-pedidos-cerrados-por-promocion_1.png)
+2. Haga clic en el botón de filtro y, dentro de la sección __Otros__, haga clic en la opción __Promociones__.![promo-filter-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/ver-pedidos-cerrados-por-promocion_1.png)
 3. Seleccione esta promoción y haga clic en __Confirmar__
 
 En la lista de pedidos, usted verá todos los pedidos cerradas con esta promoción.

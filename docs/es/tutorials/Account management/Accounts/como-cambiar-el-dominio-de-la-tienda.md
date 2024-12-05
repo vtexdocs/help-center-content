@@ -23,7 +23,7 @@ La plataforma VTEX está lista para cambios de domínio sin impactos negativos. 
 
 ### 1. Crear nuevas entradas HOST en el License Manager
 En el License Manager, en “Contas”, será necesario incluir el nuevo dominio cómo HOST de la tienda. Todavía el DNS del nuevo dominio no debe estar apuntado para VTEX. En secuencia la imágenes con ejemplo de cómo se hace la inclusión de nuevos HOSTs:
-![Cambiar dominio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account management/Accounts/como-cambiar-el-dominio-de-la-tienda_1.png)
+![Cambiar dominio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Accounts/como-cambiar-el-dominio-de-la-tienda_1.png)
 
 ### 2. Fijar las configuraciones del nuevo Portal
 Es paso es fundamental para que el Checkout funcione correctamente.

@@ -23,7 +23,7 @@ Os pedidos que apresentam erros por divergência de preço maior que os valores 
 
 Os pedidos apresentam um status de erro no módulo de *INTEGRAÇÕES* e ficam aguardando serem reprocessados manualmente.
 
-![Início (6)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_1.gif)
+![Início (6)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_1.gif)
 
 Para que os pedidos com divergência de preço subam para o OMS, foi criada a regra de divergência de valores (Beta). Nessa regra, todos os pedidos com divergência de preço são enviados ao OMS e devem ser aprovados manualmente pelo responsável da loja, com e-mail cadastrado em *Gerenciamento de contas > Contas*. É possível ter mais de um e-mail cadastrado.
 
@@ -43,7 +43,7 @@ Na configuração da regra de divergência de valores, temos duas possibilidades
 
 ### Criar regras
 
-![barra regradivergencia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_2.JPG)
+![barra regradivergencia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_2.JPG)
 
 Para criar as regras, siga os passos abaixo:
 
@@ -56,7 +56,7 @@ Para criar as regras, siga os passos abaixo:
    * É criada uma regra configurada automaticamente com percentual de divergência entre 0% a 30%, correspondente à barra azul claro.
 6. Para aumentar ou diminuir o percentual de divergência, clique na barra e arraste-a pelas extremidades, menos “<” ou para mais “>”.
 7. Escolha entre as seguintes ações de regras para pedidos: `Autorizar automaticamente`, `Negar automaticamente` ou `Criar Uma Tarefa no VTEX DO para Aprovação`.
-8. Para criar a 2ª regra, clique no ícone <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/C:/Users/Plugify/Desktop/Workspace/help-center-content/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_6.JPG" /> e repita os passos 6 e 7.
+8. Para criar a 2ª regra, clique no ícone <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_6.JPG" /> e repita os passos 6 e 7.
 11. Clique em `Salvar Regras`.
 
 Durante o processo de criação de regras, são apresentadas as seguintes abas:
@@ -76,7 +76,7 @@ Para editar as regras já existentes, siga os passos abaixo:
 5. Edite a regra que deseja alterando a barra de porcentagem.
 6. Clique em `Salvar Regras`.
 
-![Início (7)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_3.gif)
+![Início (7)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_3.gif)
 
 ## Autorização de pedidos
 
@@ -97,7 +97,7 @@ Para autorizar manualmente os pedidos, siga os passos a seguir:
 4. Selecione o pedido com status `Aguardando autorização manual` que deseja autorizar. 
 5. Clique em `Confirmar pedido`.
 
-![Início (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_4.gif)
+![Início (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_4.gif)
 
 ### Autorização pelo VTEX DO
 
@@ -111,4 +111,4 @@ O [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do--tutorials_203?&utm_source
 6. Clique em `Fechar`.
 7. Clique em `Autorizar`.
 
-![Início (9)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configurações de Preço Beta/regra-em-divergencias-de-preco-para-sellers_5.gif)
+![Início (9)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Configura%C3%A7%C3%B5es%20de%20Pre%C3%A7o%20Beta/regra-em-divergencias-de-preco-para-sellers_5.gif)

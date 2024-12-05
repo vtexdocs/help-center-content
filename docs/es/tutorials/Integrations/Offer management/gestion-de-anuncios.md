@@ -22,17 +22,17 @@ subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 
 El módulo **Gestión de anuncios** permite a los _sellers_ hacer el seguimiento del envío y la sincronización de los anuncios de las integraciones con los canales de venta. En VTEX, un anuncio es un SKU cuyo precio y stock fueron configurados por un _seller_ y que fue enviado a un canal de ventas.
 
-![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer management/gestion-de-anuncios_1.gif)
+![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer%20management/gestion-de-anuncios_1.gif)
 
 **Gestión de anuncios** permite hacer un seguimiento de los anuncios con [Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic y Premium), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y marketplaces VTEX. Para los conectores que desean integrarse a través de API, existe la [Guía de integración de Gestión de anuncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 Para acceder al módulo, en el Admin VTEX, ingresa en **Marketplace > Conexiones > Gestión de anuncios**. Una vez hecho esto, aparecerá la siguiente interfaz:
 
-![sent-offers-es_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer management/gestion-de-anuncios_2.png)
+![sent-offers-es_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer%20management/gestion-de-anuncios_2.png)
 
 La interfaz de **Gestión de anuncios** mostrará una lista con tus anuncios y podrás hacer clic sobre cada uno de ellos para acceder a los [detalles del anuncio](https://help.vtex.com/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) y verificar los [detalles de la interacción](https://help.vtex.com/es/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf). Las interacciones son los registros del anuncio durante todo el proceso de sincronización y el envío al canal de ventas. Los registros de los detalles de la interacción están disponibles durante diez días para consulta.
 
-![diagrama ju meyer sent offers es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer management/gestion-de-anuncios_3.png)
+![diagrama ju meyer sent offers es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer%20management/gestion-de-anuncios_3.png)
 
 En la página **Gestión de anuncios**, puedes realizar las siguientes acciones:
 
@@ -49,7 +49,7 @@ En la parte superior de la página, hay una barra de búsqueda con un <i class="
 - ID del SKU
 - Código EAN 
 
-![IMAGEM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer management/gestion-de-anuncios_4.png)
+![IMAGEM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer%20management/gestion-de-anuncios_4.png)
 
 Además, también puedes filtrar el resultado de la búsqueda según estos criterios:
 
@@ -74,7 +74,7 @@ En la parte superior de la página, hay una presentación general de los anuncio
 - Número total de anuncios creados.
 - Porcentaje de anuncios sincronizados correctamente.
 
-![IMAGEM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer management/gestion-de-anuncios_5.png)
+![IMAGEM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/Offer%20management/gestion-de-anuncios_5.png)
 
 Además, verás una barra de color en la cual podrás identificar el número de anuncios en cada uno de los tres status:
 

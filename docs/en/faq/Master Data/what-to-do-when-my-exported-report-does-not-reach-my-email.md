@@ -23,8 +23,8 @@ However, there is a way to extract this report manually by accessing Master Data
 Let's see how in the following step-by-step:
 
 1. Enter the __Master Data__;
-2. Click __"Exportations"__;![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/what-to-do-when-my-exported-report-does-not-reach-my-email_1.png)
-3. Make sure that the tab currently open is __"Applications"__;![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master Data/what-to-do-when-my-exported-report-does-not-reach-my-email_2.png)
+2. Click __"Exportations"__;![3WNNUZ8EgDZ4iYv8e0OyQG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/what-to-do-when-my-exported-report-does-not-reach-my-email_1.png)
+3. Make sure that the tab currently open is __"Applications"__;![7ecXBGaCeC3hTaO0lODPq1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Master%20Data/what-to-do-when-my-exported-report-does-not-reach-my-email_2.png)
 4. Under __"Export Status"__, click the report you want to download.
 
 With this, you'll be able access the content even if the original email has not arrived.

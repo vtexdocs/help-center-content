@@ -31,7 +31,7 @@ Para realizar a devolução pelo Admin VTEX, realize os seguintes passos:
     * Valor adicional, caso exista.
 6. Clique em `Solicitar estorno`.
 
-![Devolução de itens de um pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All orders/como-fazer-a-devolucao-de-itens_1.png)
+![Devolução de itens de um pedido](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-fazer-a-devolucao-de-itens_1.png)
 
 >⚠️ Note que:
 >

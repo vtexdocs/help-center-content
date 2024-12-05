@@ -45,6 +45,6 @@ Para ver estos detalles, basta con hacer una [simulación de flete](/es/tutorial
 6. Introduzca el código postal del pedido.
 7. Haga clic en __Simular Flete__.
 
-![simular-frete es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping simulator/ver-detalles-de-entrega-de-un-pedido_1.png)
+![simular-frete es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20simulator/ver-detalles-de-entrega-de-un-pedido_1.png)
 
 Para cada transportista considerado en la simulación, usted puede ver los detalles del pedido correspondiente. Para ello, haga clic en __detallar__.

@@ -26,40 +26,40 @@ Before setting up the affiliation in VTEX Admin, first you need to have your **S
 
 1. Go to the [Amazon seller central website](https://sellercentral.amazon.com) and login in your account.
 2. Open the menu on the left side.  
-![AmazonPay Panel EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_1.png)
+![AmazonPay Panel EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_1.png)
 3. Go to **Integration** > **Integration Central**.  
-![AmazonPay Integration Central Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_2.png)
+![AmazonPay Integration Central Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_2.png)
 4. In this screen, fill it with the following options:
   - **Connect to:** Website or Mobile tab.
   - **Ecommerce provider:** Self-developed.
   - **Payment-Type:** One-time Payments.  
-![AmazonPay Integration Central Settings 1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_3.png)
+![AmazonPay Integration Central Settings 1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_3.png)
 5. Click on **Generate Key**. A certificate will be downloaded, which will be used later as a Private Key.
 6. Your Public Key is generated with an **Store ID** and **Merchant ID**. Save them to set up the affiliation in your VTEX store.  
-![AmazonPay Integration Central Settings 2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_4.png)
+![AmazonPay Integration Central Settings 2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_4.png)
 
 ## Setting up the gateway affiliation
 
 1. Access the **Payments** module on the left panel of VTEX Admin.  
-![Admin Payments Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_5.png)
+![Admin Payments Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_5.png)
 2. Click on **Settings**.  
-![Admin Payments Settings Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_6.png)
+![Admin Payments Settings Menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_6.png)
 3. Access the **Gateways Affiliations** tab.
 4. Click on the **+** button.  
-![Admin Gateway Affiliations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_7.png)
+![Admin Gateway Affiliations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_7.png)
 5. Search for the **AmazonPay** affiliation card and click on it.  
-![Gateway Affiliations AmazonPay EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_8.png)
+![Gateway Affiliations AmazonPay EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_8.png)
 6. Fill the **Application Key** field with your **Merchant ID** and the **Application Token** field with your **Store ID**.  
-![AmazonPay Configuration EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_9.png)
+![AmazonPay Configuration EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_9.png)
 7. Click on **Save**.
 
 ## Setting up the AmazonPay app
 
 1. Access the **Apps** module on the left panel of VTEX Admin.
 2. Click on **My apps**.  
-![My apps menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_10.png)
+![My apps menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_10.png)
 3. Find the AmazonPay app installed by VTEX and click on **Settings**.  
-![Admin My apps AmazonPay EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment Settings/setting-up-amazonpay-beta_11.png)
+![Admin My apps AmazonPay EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/setting-up-amazonpay-beta_11.png)
 4. Fill the settings according to the table below:
 
 | Field | Description |

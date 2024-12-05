@@ -34,7 +34,7 @@ Make sure the value has been entered by following these steps:
 4. Go to the session __"What are the conditions for the benefit to be valid?"__;!
 5. Check which clusters are registered in __"Customers Cluster"__;
 
-![EN - 7GcSb6BuF6JKnmGAggO3uA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing & Merchandising/why-doesnt-my-benefit-work-for-a-client-cluster_1.png)
+![EN - 7GcSb6BuF6JKnmGAggO3uA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing%20&%20Merchandising/why-doesnt-my-benefit-work-for-a-client-cluster_1.png)
 
 6. Enter the "new data";
 7. Click __Save__;

@@ -19,7 +19,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 O aplicativo móvel do [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
-![pickpack-mobile-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_1.png)
+![pickpack-mobile-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_1.png)
 
 O manuseio do pedido é dividido em quatro etapas, seguindo o caminho normal de pedidos na loja:
 
@@ -52,7 +52,7 @@ Em seguida, o aplicativo te auxiliará no empacotamento de cada pedido com seus 
 
 A aba __Sem alocação__ lista os pedidos que devem ser selecionados para [ordens de serviço](#ordem-de-servico).
 
-![pickpack-ordemservico-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_2.png)
+![pickpack-ordemservico-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_2.png)
 
 Para criar uma ordem de serviço, siga os passos abaixo:
 
@@ -68,7 +68,7 @@ A etapa de separação consiste em selecionar fisicamente os itens correspondent
 
 A aba __Pendentes__ exibe a lista de ordens de serviço que ainda não tiveram sua separação finalizada.
 
-![pickpack-pendente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_3.png)
+![pickpack-pendente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_3.png)
 
 Nesta aba, é possível selecionar pelo ID de uma ordem de serviço, caso queira visualizar apenas os itens separados daquele pedido.
 
@@ -83,7 +83,7 @@ Ao clicar em uma ordem de serviço, as seguintes informações são exibidas:
 - __Informações:__ informações gerais da ordem de serviço e do pedido.
 - __Resumo:__ produtos que já foram separados pelo separador.
 
-![pickpack-em-separacao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_4.png)
+![pickpack-em-separacao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_4.png)
 
 Ao clicar no menu <i class="fas fa-ellipsis-v"></i>, serão exibidas as seguintes ações:
 
@@ -99,7 +99,7 @@ Para separar um produto, siga estes passos:
 1. Na tela de __Separação__, acesse a aba __Item(ns)__.
 2. Clique no produto que deseja separar ou deslize o produto para a direita. Caso o produto tenha mais de uma unidade, é necessário clicar a quantidade de unidades do produto. Para produtos que contém peso ou volume é preciso confirmar a medida e depois confirmar a seleção, como o exemplo abaixo.
 
-![pickpack-item-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_5.png)
+![pickpack-item-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_5.png)
 
 Para separar todos os produtos da ordem de serviço de uma única vez, siga estes passos:
 
@@ -120,7 +120,7 @@ Para recusar um produto da ordem de serviço, siga os passos abaixo:
 1. Acesse a aba __Item(ns)__.
 2. Clique e deslize para a esquerda o produto que deseja recusar.
 3. Selecione a razão da recusa da lista **Motivos de recusa**.
-  ![pickpack-item-recusa-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_6.png)
+  ![pickpack-item-recusa-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_6.png)
 4. Selecione a quantidade de itens que deseja recusar ou clique em `Confirmar e descartar todas as unidades`.
 5. Clique em `Descartar unidades`.
 
@@ -144,7 +144,7 @@ Para substituir itens da ordem de serviço, siga os passos abaixo:
 2. Pressione o produto que deseja substituir.
 3. Clique na opção **Substituir item**.
 4. Busque ou selecione o item que substituirá o produto do pedido e clique na caixa de seleção <i class="fas fa-check-square"></i>.
-  ![pickpack-item-substituir-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_7.png)
+  ![pickpack-item-substituir-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_7.png)
 5. Selecione o número de unidades que deverão ser substituídas.
 6. Selecione o motivo da substituição dentre as opções da lista.
 7. Preencha o campo **Descrição** com mais informações sobre a substituição.
@@ -158,14 +158,14 @@ Uma vez que todos os itens da ordem de serviço foram separados, recusados ou su
 
 Na etapa de empacotamento, o separador seleciona os itens de cada pedido nas respectivas embalagens de envio. O aplicativo móvel do Pick and Pack permite organizar todos os pacotes necessários para diversos pedidos de forma simples e fácil.
 
-![pickpack-empacotamento-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_8.png)
+![pickpack-empacotamento-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_8.png)
 
 É possível acessar a página de Empacotamento ao [concluir a separação](#concluir-separacao) de uma ordem de serviço ou seguindo estes passos:
 
 1. Na tela inicial do aplicativo, clique em **Para empacotar**. Será exibida uma lista com as [ordens de serviço](#ordens-de-servico) designadas ao separador que estão na etapa de empacotamento.
 2. Clique na ordem de serviço cujos produtos deseja separar. 
 
-![pickpack-item-pendente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_9.png)
+![pickpack-item-pendente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_9.png)
 
 Siga os passos abaixo para empacotar itens:
 
@@ -182,10 +182,10 @@ Siga os passos abaixo para empacotar itens:
 Os itens que já foram empacotados estão disponíveis na aba **Itens empacotados**. É possível alternar a visualização dos itens entre uma lista de itens ou de pedidos e pacotes, clicando em <i class="fas fa-toggle-on"></i>.
 
 __Lista de itens__
-![pickpack-item-empacotado-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_10.png)
+![pickpack-item-empacotado-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_10.png)
 
 __Pedidos e pacotes__
-![pickpack-item-empacotado-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_11.png)
+![pickpack-item-empacotado-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_11.png)
 
 ### Envio
 
@@ -201,11 +201,11 @@ Para enviar pacotes no aplicativo Pick and Pack, siga os passos abaixo:
 4. Preencha as informações de envio:
     - **Data prevista para coleta**
     - **Data prevista para entrega**
-    ![pickpack-envio-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_12.png)
+    ![pickpack-envio-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_12.png)
 5. Selecione uma transportadora disponível.
 6. Clique em `Selecionar e continuar`.
 7. Confirme as informações do envio. Se nenhuma correção for necessária, clique no botão `Criar serviço`. Caso contrário, clique em `Voltar` e volte ao passo 5. 
 
 Finalizado o cadastro, as informações do envio serão exibidas na tela seguinte no aplicativo. Os pedidos enviados estão disponíveis pelo menu <i class="fas fa-ellipsis-v"></i> __> Concluído__. 
 
-![pickpack-finalizacao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX Pick and Pack/vtex-pick-and-pack-mobile_13.png)
+![pickpack-finalizacao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-mobile_13.png)

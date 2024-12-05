@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 The Bank Identification Number (BIN) consists of the first six or eight digits of a credit or debit card and identifies the card's issuing institution.
 
-![BIN_image_digits_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments overview/adding-bin-information_1.png)
+![BIN_image_digits_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments%20overview/adding-bin-information_1.png)
 
 When a banking institution wants to create new card profiles or issue new cards for an existing model, new BINs are required. This also applies when a card [brand](https://help.vtex.com/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) is acquired by another.
 
@@ -39,4 +39,4 @@ In the ticket, you should attach a spreadsheet with the following information:
 
 Template example:
 
-![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments overview/adding-bin-information_2.PNG)
+![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments%20overview/adding-bin-information_2.PNG)

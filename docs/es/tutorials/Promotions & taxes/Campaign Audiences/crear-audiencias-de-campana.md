@@ -66,7 +66,7 @@ Luego de hacer clic en `Crear nuevo público-objetivo`, debes seguir las instruc
     * **o:** la audiencia de campaña estará compuesta por clientes que encajen en cualquiera de los públicos-objetivo.
     * **y:** la audiencia de campaña estará compuesta por clientes que encajen en todos los públicos-objetivo y sumen todos sus criterio
 
-![publico-alvo-e-ou-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Campaign Audiences/crear-audiencias-de-campana_1.gif)
+![publico-alvo-e-ou-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Campaign%20Audiences/crear-audiencias-de-campana_1.gif)
 
 ### Define a tu público-objetivo
 
@@ -82,7 +82,7 @@ Luego de hacer clic en `Crear nuevo público-objetivo`, debes seguir las instruc
 
 Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman parte del público-objetivo. La configuración también indica que, al menos, 3 ítems deben cumplir con estos criterios. Por ende, un cliente debe tener en el carrito al menos **3** ítems que cumplan con estos criterios para ser parte del público-objetivo.
 
-![exemplo-marca-publico-alvo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions & taxes/Campaign Audiences/crear-audiencias-de-campana_2.png)
+![exemplo-marca-publico-alvo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Campaign%20Audiences/crear-audiencias-de-campana_2.png)
 
 ### Condiciones para que se aplique tu público-objetivo
 
