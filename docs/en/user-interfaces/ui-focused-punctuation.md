@@ -28,7 +28,7 @@ trackSlugEN: punctuation
 | Delete user | Delete user? |
 | I agree and accept | I agree and accept. |
 
-Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
+### Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
