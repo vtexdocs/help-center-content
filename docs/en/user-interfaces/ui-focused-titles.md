@@ -62,9 +62,10 @@ trackSlugEN: titles
 
 ### Specific
 
-#### Page
+### Page
 
-Reuse the same page title whenever possible, such as in the URL, title meta tag, and, when it applies, in a navigation entry.
+#### Reuse the same page title whenever possible, such as in the URL, title meta tag, and, when it applies, in a navigation entry.
+
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
 | • Page title: Orders <br> • Title meta tag: Orders <br> • URL: /orders <br> • Navigation entry: Orders | • Page title: Orders <br> • Title meta tag: Orders listing <br> • URL: /all-orders <br> • Navigation entry: Store orders |
