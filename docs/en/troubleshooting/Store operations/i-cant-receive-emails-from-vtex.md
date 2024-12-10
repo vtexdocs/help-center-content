@@ -13,9 +13,8 @@ slugEN: i-cant-receive-emails-from-vtex
 locale: en
 legacySlug: i-cant-receive-emails-from-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Message center, Email templates, Spreadsheet import, Authentication token
 ---
-
-**Tags:** Message center, Email templates, Spreadsheet import, Authentication token
 
 Through the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
 - In-store authentication token

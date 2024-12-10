@@ -9,14 +9,23 @@ function moveArticleTagsToFrontmatter(filePath) {
     const fileContent = fs.readFileSync(filePath, 'utf-8')
     
     if (fileContent.includes('**Tags:**')) {
-        const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
+        const tags = fileContent.split('**Tags:**')[1].split('\n')[0].trim()
         const frontMatter = fileContent.split('---')[1]
-        const text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim()
+        let text = ''
+
+        if (fileContent.split('---').length > 3) {
+            text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim() + '---' + fileContent.split('---').slice(3).join('---')
+        } else {
+            text = fileContent.split('---')[2].replace(/^.*Tags:.*$/m, '').trim()
+        }
+        
     
         // Assemble everything
         const newContent = '---'+frontMatter+`tags: ${tags}\n---\n\n`+text
     
         fs.writeFileSync(filePath, newContent)
+    } else {
+        console.log('Tags already adjusted for this file.')
     }
 }
 
@@ -30,7 +39,7 @@ function moveAllTags(folderPath) {
         if (fs.statSync(dir).isFile() && (dir.endsWith('.md') || dir.endsWith('.mdx'))) {
             console.log('FILE')
             moveArticleTagsToFrontmatter(dir)
-        } else {
+        } else if (fs.statSync(dir).isDirectory()) {
             console.log('FOLDER')
             moveAllTags(dir)
         }
@@ -42,7 +51,12 @@ async function adjustTroubleshootingContent() {
     for (locale of locales) {
         const oldPath = path.resolve(`../help-center-content/docs/${locale}/tutorials/troubleshooting`)
         const newPath = path.resolve(`../help-center-content/docs/${locale}/troubleshooting`)
-        fs.renameSync(oldPath, newPath)
+        if (fs.existsSync(oldPath)) {
+            console.log(`Changing ${locale} troubleshooting folder path.`)
+            fs.renameSync(oldPath, newPath)
+        } else {
+            console.log(`${locale} troubleshooting folder already in correct path.`)
+        }
         moveAllTags(newPath)
     }
 }
