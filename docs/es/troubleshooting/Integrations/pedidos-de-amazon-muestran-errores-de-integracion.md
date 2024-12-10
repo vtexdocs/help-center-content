@@ -13,8 +13,9 @@ slugEN: integration-errors-in-amazon-orders
 locale: es
 legacySlug: pedidos-de-amazon-muestran-errores-de-integracion
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:  Pedidos, Integración, Marketplace, Amazon
 ---
+
+**Tags:** Pedidos, Integración, Marketplace, Amazon
 
 Cuando se produce un error de integración en pedidos entre **Amazon** y una tienda, se informa un mensaje de error en cada pedido. Para comprobar si un pedido contiene errores de integración, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos**o ingresa **Pedidos** en la barra de búsqueda.
 

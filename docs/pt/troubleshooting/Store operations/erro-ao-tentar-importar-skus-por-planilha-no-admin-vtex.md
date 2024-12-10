@@ -13,8 +13,9 @@ slugEN: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 locale: pt
 legacySlug: erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Catálogo, SKU, Planilha, Importação
 ---
+
+**Tags:** Catálogo, SKU, Planilha, Importação
 
 Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#cadastro-do-produto) e no cadastro do [SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119#cadastro-do-sku).
 Se ao realizar a [importação de SKUs por planilha](https://help.vtex.com/pt/tutorial/exportar-e-importar-especificacoes-de-produto-e-de-sku--tutorials_274?&utm_source=autocomplete), aparecer a mensagem 
@@ -37,3 +38,4 @@ Para resolver esse problema, é possível:
 6. Cheque se a importação foi finalizada. 
 
 Caso o erro persista após a modificação do arquivo, entre em contato com o [Nosso Suporte](https://support.vtex.com/hc/pt-br/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests).
+

@@ -13,8 +13,9 @@ slugEN: my-orders-in-mercado-libre-have-errors
 locale: pt
 legacySlug: meus-pedidos-do-mercado-livre-apresentam-erros
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:  Marketplace, Catálogo, Integração, Mercado Livre, Produtos 
 ---
+
+**Tags:** Marketplace, Catálogo, Integração, Mercado Livre, Produtos 
 
 Quando ocorre um erro de integração em pedidos entre um marketplace e o Mercado Livre, uma mensagem de erro é informada em cada pedido.   
 

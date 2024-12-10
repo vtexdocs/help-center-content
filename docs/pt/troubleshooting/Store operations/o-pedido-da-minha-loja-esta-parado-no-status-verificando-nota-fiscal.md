@@ -13,8 +13,9 @@ slugEN: my-stores-order-still-has-the-status-verifying-invoice
 locale: pt
 legacySlug: o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Pedidos, Status do pedido, Fatura
 ---
+
+**Tags:** Pedidos, Status do pedido, Fatura
 
 Ao acompanhar o [fluxo dos pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) da sua loja, você pode se deparar com um pedido que permanece no status `Verificando nota fiscal` por mais tempo do que o esperado. Nesse status, a plataforma checa se o pagamento foi liquidado e se a nota fiscal do pedido foi incluída corretamente, sendo estas condições necessárias para que o pedido avance no fluxo.
 
@@ -49,3 +50,4 @@ Para faturar o pedido (total ou parcialmente) ou ajustar os dados da nota fiscal
 >ℹ️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
 >ℹ️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](https://help.vtex.com/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+

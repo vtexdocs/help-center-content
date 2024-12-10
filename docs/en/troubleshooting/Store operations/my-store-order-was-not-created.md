@@ -13,8 +13,9 @@ slugEN: my-store-order-was-not-created
 locale: en
 legacySlug: my-store-order-was-not-created
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Orders, Integration, XML integration, Product, Stock
 ---
+
+**Tags:** Orders, Integration, XML integration, Product, Stock
 
 When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with ERPs (Enterprise Resource Planning).
 
@@ -56,3 +57,4 @@ An error with product missing information can happen when the product has no inv
 4. Click `Save`.
 
 >⚠️ You can have invoicing errors when trying to invoice an order with incorrect or missing XML information.
+

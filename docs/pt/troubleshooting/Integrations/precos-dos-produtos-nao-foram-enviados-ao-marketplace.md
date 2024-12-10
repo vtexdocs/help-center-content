@@ -13,8 +13,9 @@ slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
 locale: pt
 legacySlug: precos-dos-produtos-nao-foram-enviados-ao-marketplace
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:  Marketplace, Integração, Preços  
 ---
+
+**Tags:** Marketplace, Integração, Preços  
 
 O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  
 
@@ -48,3 +49,4 @@ Caso os produtos já estejam catalogados, é necessário reprocessar o envio dos
 4. Clique em **Reprocessar**.  
 
 Repita o processo para cada produto com o status **Processado com erro**. Caso o erro persista, entre em contato com o time de [suporte VTEX](https://help.vtex.com/pt/support).
+

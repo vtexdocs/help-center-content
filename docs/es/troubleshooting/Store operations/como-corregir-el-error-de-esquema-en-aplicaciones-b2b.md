@@ -13,8 +13,9 @@ slugEN: i-cant-fix-the-schema-error-in-b2b-apps
 locale: es
 legacySlug: como-corregir-el-error-de-esquema-en-aplicaciones-b2b
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  B2B, Schema, Master Data
 ---
+
+**Tags:** B2B, Schema, Master Data
 
 En entornos que utilizan aplicaciones B2B, puede presentarse la alerta `Schema is invalid` que está relacionada con problemas de esquema. Generalmente, este tipo de alerta se debe a una configuración incorrecta en la entidad CL (Cliente) en Master Data.
 

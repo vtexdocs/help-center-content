@@ -13,8 +13,9 @@ slugEN: my-inventory-is-negative
 locale: pt
 legacySlug: meu-estoque-esta-negativo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Estoque, Reserva, Política comercial, Admin VTEX, Inventário
 ---
+
+**Tags:** Estoque, Reserva, Política comercial, Admin VTEX, Inventário
 
 Quando a quantidade disponível de um produto é exibida como negativa, pode ser uma indicação de que há mais itens [reservados](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92) do que a quantidade total inserida em estoque. Este problema geralmente ocorre ao registrar (dar baixa) em um item de pedido que ainda está reservado pelo sistema.
 

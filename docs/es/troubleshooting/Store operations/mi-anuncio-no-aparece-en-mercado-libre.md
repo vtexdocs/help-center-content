@@ -13,8 +13,9 @@ slugEN: my-ad-is-not-displayed-on-mercado-livre
 locale: es
 legacySlug: mi-anuncio-no-aparece-en-mercado-libre
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Marketplace, Catálogo, Integración, Mercado Libre, Anuncio pausado
 ---
+
+**Tags:** Marketplace, Catálogo, Integración, Mercado Libre, Anuncio pausado
 
 Cuando se remueve o desactiva un producto de la política comercial utilizada en la integración de Mercado Libre, la actualización de esos detalles se envía automáticamente al marketplace, que a su vez deja de mostrar el producto.
 

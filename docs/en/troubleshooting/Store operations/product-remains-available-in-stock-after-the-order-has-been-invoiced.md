@@ -13,8 +13,9 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: en
 legacySlug: product-remains-available-in-stock-after-the-order-has-been-invoiced
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:  Stock, Reservation
 ---
+
+**Tags:** Stock, Reservation
 
 Reservations are an essential feature that ensures the product sold is not made available to another customer until the order has been fully processed. However, a common question among merchants is why the reservation remains active even after the order has been invoiced.
 
