@@ -13,9 +13,8 @@ slugEN: admin-redirect-search-returns-no-results
 locale: es
 legacySlug: la-busqueda-de-redirecciones-en-el-admin-no-devuelve-resultados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Redirecciones
 ---
-
-**Tags:** Redirecciones
 
 Cuando hay un número excesivo de redirecciones, la página Redirecciones del Admin no puede procesar la búsqueda. Por lo tanto, al intentar realizarla, no se obtiene ningún resultado. Para más información sobre la página Redirecciones, consulta el artículo [Gestionar redirecciones según el binding](https://help.vtex.com/es/tutorial/administrando-redireccionamientos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
 

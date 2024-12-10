@@ -13,9 +13,8 @@ slugEN: metrics-are-not-displayed-in-the-order-dashboard
 locale: pt
 legacySlug: nao-consigo-visualizar-metricas-no-dashboard-de-pedidos
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Dashboard, Admin VTEX, Visão geral, Perfis de acesso
 ---
-
-**Tags:** Dashboard, Admin VTEX, Visão geral, Perfis de acesso
 
 Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Visão geral** do dashboard, e vir acompanhadas de ícones de alerta e a mensagem "Ocorreu um problema". Isso pode ocorrer devido a:
 

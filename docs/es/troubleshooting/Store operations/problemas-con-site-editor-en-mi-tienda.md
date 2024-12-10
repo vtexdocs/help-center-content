@@ -13,16 +13,15 @@ slugEN: my-stores-site-editor-is-not-working
 locale: es
 legacySlug: problemas-con-site-editor-en-mi-tienda
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Site Editor, CMS, Store Framework
 ---
-
-**Tags:** Site Editor, CMS, Store Framework
 
 [Site Editor](https://developers.vtex.com/docs/guides/vtex-io-documentation-site-editor) es el CMS disponible para tiendas que utilizan [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Podrías experimentar problemas como no poder abrir Site Editor o que el contenido no se guarde.
 
 A continuación se muestran diferentes comprobaciones de resolución de problemas e instrucciones que puedes utilizar para resolver este tipo de situaciones en Site Editor:
 
 | **Problema** | **Descripción** | **Instrucciones para resolución de problemas** |
-| ------------ | --------------- | --------------------------------------------- |
+|------------ | --------------- | --------------------------------------------- |
 | [Site Editor no abre](#site-editor-no-abre) | La página de Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`. | - [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-la-busqueda).<br>- [Comprueba la configuración del inquilino (solo cuentas nuevas)](#comprobar-la-configuracion-del-inquilino-solo-cuentas-nuevas). |
 | [No puedo gestionar el contenido de mi tienda en Site Editor](#no-puedo-gestionar-el-contenido-de-mi-tienda-en-site-editor) | No se puede editar, guardar o eliminar contenido en Site Editor. | - [Comprueba si el rol de usuario tiene los permisos necesarios](#comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).<br>- [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio). |
 | [Perdí el contenido almacenado en Site Editor](#perdi-el-contenido-almacenado-en-site-editor) | El contenido almacenado en Site Editor se perdió. | [Abre un ticket con el soporte VTEX](#perdi-el-contenido-almacenado-en-site-editor). |

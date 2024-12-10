@@ -13,9 +13,8 @@ slugEN: i-cant-index-a-product-in-the-catalog
 locale: es
 legacySlug: no-logro-indexar-un-producto-del-catalogo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Catálogo, Indexación, Producto, SKU, Política comercial
 ---
-
-**Tags:** Catálogo, Indexación, Producto, SKU, Política comercial
 
 El proceso de indexación permite reunir y organizar los datos de un producto, tales como información de catálogo, precio y stock, para mostrarlos a los clientes en la búsqueda y en la estantería de productos de la tienda.
 

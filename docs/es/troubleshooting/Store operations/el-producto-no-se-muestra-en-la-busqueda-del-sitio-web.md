@@ -13,9 +13,8 @@ slugEN: i-cant-view-the-product-in-the-search-results
 locale: es
 legacySlug: nao-consigo-visualizar-o-produto-na-busca-do-site
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Producto, Búsqueda, Catálogo, Intelligent search, Rewriter
 ---
-
-**Tags:** Producto, Búsqueda, Catálogo, Intelligent search, Rewriter
 
 Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
 
