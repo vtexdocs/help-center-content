@@ -9,7 +9,7 @@ function moveArticleTagsToFrontmatter(filePath) {
     const fileContent = fs.readFileSync(filePath, 'utf-8')
     
     if (fileContent.includes('**Tags:**')) {
-        const tags = fileContent.split('**Tags:**')[1].split('\n')[0]
+        const tags = fileContent.split('**Tags:**')[1].split('\n')[0].trim()
         const frontMatter = fileContent.split('---')[1]
         let text = ''
 
