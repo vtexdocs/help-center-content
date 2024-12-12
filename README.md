@@ -45,8 +45,6 @@ Follow the steps below to create a new article in the Help Center:
 9. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
     >ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository only stores our documentation, it is not automatically synched to be rendered in the Help Center - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
 
-    >⚠️ Note that there may be limitations on the number of PRs approved per day due to internal and external demands of the education team. This means that if you want your content to be published, you should submit your PR for review with at least 3 days in advance from the desired publication date!
-
 #### Adding images
 
 If you need to use images to help the user understand procedures more easily, follow the steps below to insert them into an article:
