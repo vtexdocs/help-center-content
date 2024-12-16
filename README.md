@@ -159,7 +159,7 @@ To update the content of an article that is already published on the Help Center
 
 ### Creating a redirect
 
-If an article published on the Help Center Portal must be archived and another article will be used in its place, it is necessary to create a redirect to allow the user to access the new content.
+If an article published on Help Center must be archived and another article will be used in its place, it is necessary to create a redirect to allow users to access the new content.
 
 To create a redirect, follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#redirects) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository.
 
