@@ -119,7 +119,7 @@ The front matter is the table with metadata about the article you are creating. 
 - **productTeam:** Name of the module to which the article is related.
 - **author:** Technical writer ID in Contentful.
 - **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
-- **locale:** Article language.
+- **locale:** Article language (`pt`, `en`, or `es`).
 - **legacySlug:** Legacy slug in Contentful.
 - **hidden**: Identifies whether the article should remain hidden and be accessed only through its link.
 
