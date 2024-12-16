@@ -110,11 +110,11 @@ If you wish to provide a downloadable file directly within your article (such a 
 The front matter is the table with metadata about the article you are creating. It contains the following fields:
 
 - **title:** Article title. E.g. "Adding SKU specifications or fields"
-- **status**: Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
-- **createdAt:** creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **updatedAt:** update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **publishedAt:** most recent publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **firstPublishedAt:** first publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **status:** Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
+- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **publishedAt:** Most recent publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **firstPublishedAt:** First publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
 - **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
 - **productTeam:** Name of the module to which the article is related.
 - **author:** Technical writer ID in Contentful.
@@ -132,8 +132,8 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ##### Known issue fields
 
-- **tag**: Name of the module to which the known issue is related.
-- **kiStatus**: Known issue status.
+- **tag**: Name of the module to which the known issue is related (e.g., `B2B`, `Catalog`, `Identity`, etc).
+- **kiStatus**: Known issue status (e.g., `Backlog`,`Fixed`, `No Fix`, `Open`).
 - **internalReference**: Known issue Zendesk ID.
 
 ##### Track fields
@@ -143,7 +143,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ##### Troubleshooting fields
 
-- **troubleshootingtags**: Troubleshooting tag information.
+- **tags**: Troubleshooting tag information. This field should be filled in with keywords related to the problem, separated by a comma and the first letter in capital letters (e.g. Catalog, Index, Product, SKU, Trade policy)
 
 ### Updating a published article
 
