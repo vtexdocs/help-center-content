@@ -43,6 +43,7 @@ Follow the steps below to create a new article in the Help Center:
 7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
 8. Approve the PR and apply the merge to publish the article.
 9. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
+
     >ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository only stores our documentation, it is not automatically synched to be rendered in the Help Center - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
 
 #### Adding images
