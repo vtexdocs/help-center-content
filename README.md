@@ -143,7 +143,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ##### Troubleshooting fields
 
-- **tags**: Troubleshooting tag information. This field should be filled in with keywords related to the problem, separated by a comma and the first letter in capital letters (e.g. Catalog, Index, Product, SKU, Trade policy)
+- **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
 
 ### Updating a published article
 
