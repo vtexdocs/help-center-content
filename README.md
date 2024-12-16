@@ -134,7 +134,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 - **tag**: Name of the module to which the known issue is related.
 - **kiStatus**: Known issue status.
-- **internalReference**: Known issue internal reference identification.
+- **internalReference**: Known issue Zendesk ID.
 
 ##### Track fields
 
