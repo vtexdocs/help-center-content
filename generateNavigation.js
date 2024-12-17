@@ -3,6 +3,8 @@ const fs = require("fs");
 const path = require("path");
 require("dotenv").config();
 
+console.log('Generating navigation...')
+
 const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 });
@@ -22,32 +24,68 @@ const errorDocs = {
 const navigation = { navbar: [
   {
     documentation: 'Start here',
+    name: {
+      en: 'Start here',
+      es: 'Comece aqui',
+      pt: 'Comece aqui'
+    },
     slugPrefix: 'docs/tracks',
     categories: []
   },
   {
     documentation: 'Tutorials',
+    name: {
+      en: 'Tutorials',
+      es: 'Tutoriales',
+      pt: 'Tutoriais'
+    },
     slugPrefix: 'docs/tutorial',
     categories: []
   },
   {
     documentation: 'News',
+    name: {
+      en: 'News',
+      es: 'Anuncios',
+      pt: 'Comunicados'
+    },
     slugPrefix: 'announcements',
     categories: []
   },
   {
     documentation: 'FAQs',
+    name: {
+      en: 'Frequently asked questions',
+      es: 'Preguntas frecuentes',
+      pt: 'Perguntas frequentes'
+    },
     slugPrefix: 'faq',
     categories: []
   },
   {
     documentation: 'Known Issues',
+    name: {
+      en: 'Known issues',
+      es: 'Problemas Conocidos',
+      pt: 'Problemas conhecidos'
+    },
     slugPrefix: 'known-issues',
+    categories: []
+  },
+  {
+    documentation: 'Troubleshooting',
+    name: {
+      en: 'Troubleshooting',
+      es: 'Troubleshooting',
+      pt: 'Troubleshooting'
+    },
+    slugPrefix: 'troubleshooting',
     categories: []
   }
 ] };
 
 function getTutorialEndpoints(endpointIds) {
+  console.log('Getting tutorial endpoints...')
   const children = [];
   for (let i = 0; i < endpointIds.length; i++) {
     const id = endpointIds[i].sys.id;
@@ -59,6 +97,7 @@ function getTutorialEndpoints(endpointIds) {
 }
 
 function getTutorialSubcategories(subcategoriesIds) {
+  console.log('Getting tutorial subcategories...')
   const children = [];
   for (let i = 0; i < subcategoriesIds.length; i++) {
     const id = subcategoriesIds[i].sys.id;
@@ -77,6 +116,7 @@ function getTutorialSubcategories(subcategoriesIds) {
 }
 
 function getTutorialCategories() {
+  console.log('Getting tutorial categories...')
   const categories = [];
   for (let i = 0; i < tutorialCategories.length; i++) {
     const { subcategories, ...obj } = tutorialCategories[i];
@@ -92,6 +132,7 @@ function getTutorialCategories() {
 }
 
 function getTrackArticles(steps) {
+  console.log('Getting track articles...')
   const children = [];
   for (let i = 0; i < steps.length; i++) {
     const id = steps[i].sys.id;
@@ -104,6 +145,7 @@ function getTrackArticles(steps) {
 }
 
 function getTracks(trackIds) {
+  console.log('Getting tracks...')
   const children = [];
   for (let i = 0; i < trackIds.length; i++) {
     const id = trackIds[i].sys.id;
@@ -121,6 +163,7 @@ function getTracks(trackIds) {
 }
 
 function getTrackTopics() {
+  console.log('Getting track topics...')
   const categories = [];
   for (let i = 0; i < trackTopics.length; i++) {
     const { trackChildren, ...obj } = trackTopics[i];
@@ -135,6 +178,7 @@ function getTrackTopics() {
 }
 
 function getNews() {
+  console.log('Getting news...')
 
   const months = [
     { en: 'January', es: 'Enero', pt: 'Janeiro' },
@@ -260,6 +304,7 @@ function getNews() {
 }
 
 function getFaq() {
+  console.log('Getting FAQs...')
   const enDir = 'docs/en/faq';
   const ptDir = 'docs/pt/faq';
   const esDir = 'docs/es/faq';
@@ -334,6 +379,7 @@ function getFaq() {
 }
 
 function getKnownIssues() {
+  console.log('Getting Known Issues...')
   const enDir = 'docs/en/known-issues';
   const ptDir = 'docs/pt/known-issues';
   const esDir = 'docs/es/known-issues';
@@ -407,7 +453,19 @@ function getKnownIssues() {
   return knownIssuesCategories;
 }
 
+function getTroubleshooting() {
+  const tutorialsContent = navigation.navbar[1].categories
+  const troubleshootingIndex = tutorialsContent.findIndex(category => category.name.en === 'Troubleshooting')
+  const troubleshootingContent = tutorialsContent[troubleshootingIndex].children
+  
+  // Remove the troubleshooting category from the tutorials categories array
+  navigation.navbar[1].categories.splice(troubleshootingIndex, 1) 
+
+  return troubleshootingContent
+}
+
 async function getEntries() {
+  console.log('Getting entries...')
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
@@ -502,6 +560,8 @@ async function getEntries() {
     navigation.navbar[3].categories = getFaq();
 
     navigation.navbar[4].categories = getKnownIssues();
+
+    navigation.navbar[5].categories = getTroubleshooting();
 
     fs.writeFile('errorDocs.json', JSON.stringify(errorDocs), (err) => console.error(err));
     fs.writeFile('navigation.json', JSON.stringify(navigation), (err) => console.error(err));
