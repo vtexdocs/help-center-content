@@ -20,7 +20,13 @@ We welcome contributions to VTEX documentation and encourage you to help improve
 
 Before contributing to the documentation, make sure to:
 
--
+- [Define the documentation structure](#define-the-documentation-structure)
+- [Identify the audience](#identify-the-audience)
+  - [Checklist to define the documentation objectives](#checklist-to-define-the-documentation-objectives)
+    - [Audience](#audience)
+    - [Learning Category](#learning-category)
+- [Documentation style guide](#documentation-style-guide)
+  - [Style guide principles](#style-guide-principles)
 
 ## Define the documentation structure
 
@@ -30,7 +36,7 @@ Before you start writing, it’s important to understand your target audience an
 - What are the essential tasks or concepts they need to understand?
 - What additional information could enhance user understanding?
 
-### Identify the audience
+## Identify the audience
 
 To help you define the audience, answer the following questions:
 
@@ -51,32 +57,39 @@ To help you define the documentation context, see the checklist below:
 
 #### Audience
 
-  <input type="checkbox" id="beginner" name="audience" value="Beginner">
-  <label for="beginner">Beginner</label><br>
-  <input type="checkbox" id="operational" name="audience" value="Operational">
-  <label for="operational">Operational</label><br>
-  <input type="checkbox" id="developer" name="audience" value="Developer">
-  <label for="developer">Highly Technical</label><br><br>
+<ol> 
+  <li><input type="checkbox" id="beginner" name="audience" value="Beginner">
+  <label for="beginner">Beginner</label></li>
+  <li><input type="checkbox" id="operational" name="audience" value="Operational">
+  <label for="operational">Operational</label></li>
+  <li><input type="checkbox" id="developer" name="audience" value="Developer">
+  <label for="developer">Highly Technical</label></li>
+</ol>
 
 #### Learning Category
 
-  <input type="checkbox" id="awareness" name="learning_category" value="Awareness">
-  <label for="awareness">Awareness - The audience can describe or paraphrase a concept or feature.</label><br>
-  <input type="checkbox" id="comprehension" name="learning_category" value="Comprehension">
-  <label for="comprehension">Comprehension - The audience can understand a concept to support decision-making.</label><br>
-  <input type="checkbox" id="applicable_skill" name="learning_category" value="Applicable Skill">
-  <label for="applicable_skill">Applicable Skill - The audience can follow instructions to complete a task.</label><br><br>
-
-#### Learning Objective
-
-  <input type="checkbox" id="tasks" name="learning_objective" value="tasks">
-  <label for="tasks">Choose one or two tasks or concepts that the content will discuss.</label><br>
-  What should someone be able to do or understand after reading this article? Choose one or two tasks or concepts that the content will discuss.
-  Template example:
-  
-  ```md
-  "Create a guide on {add the guide’s purpose}. The guide should emphasize clarity, structure, and user-friendliness. It's intended for {add the guide’s audience}."
-  ```
+<ol>
+    <li><h4><input type="checkbox"> Audience</h4>
+      <ul>
+        <li><input type="checkbox"> Beginner</li>
+        <li><input type="checkbox"> Operational</li>
+        <li><input type="checkbox"> Highly Technical</li>
+      </ul>
+    </li>
+    <li><h4><input type="checkbox"> Learning Category</h4>
+      <ul>
+        <li><input type="checkbox"> Awareness - The audience can describe or paraphrase a concept or feature.</li>
+        <li><input type="checkbox"> Comprehension - The audience can understand a concept to support decision-making.</li>
+        <li><input type="checkbox"> Applicable Skill - The audience can follow instructions to complete a task.</li>
+      </ul>
+    </li>
+    <li><h4><input type="checkbox"> Learning Objective</h4>
+      <ul>
+        <li><input type="checkbox"> Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?</li>
+        <li><input type="checkbox"> Template example: <i>"Create a guide on <bold>add the guide’s purpose</bold>. The guide should emphasize clarity, structure, and user-friendliness. It's intended for <bold>add the guide’s audienceadd the guide’s audience</bold>."</i></li>
+      </ul>
+    </li>
+  </ol>
 
 ## Documentation style guide
 
