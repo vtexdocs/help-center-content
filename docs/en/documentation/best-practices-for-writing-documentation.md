@@ -89,7 +89,7 @@ To help you define the documentation context, see the checklist below:
         <li><input type="checkbox"> Template example: <i>"Create a guide on <bold>add the guide’s purpose</bold>. The guide should emphasize clarity, structure, and user-friendliness. It's intended for <bold>add the guide’s audienceadd the guide’s audience</bold>."</i></li>
       </ul>
     </li>
-  </ol>
+</ol>
 
 ## Documentation style guide
 
