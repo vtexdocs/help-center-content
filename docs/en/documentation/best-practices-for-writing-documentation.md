@@ -39,11 +39,11 @@ To help you define the audience, answer the following questions:
 
 At VTEX, we have the following audience as our documentation readers:
 
-| Audience type        | Description                                                                                                                                                                                                                                                                                                                                  | Most common documentation types                                                                                                                                                                                                                                                                              |
-| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Beginner**         | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context.                                                                                                                                                                                        | <ol> <li>[Conceptual guides](LINK)</li> <li>[Tutorials](LINK)</li> <li>[Announcements](LINK)</li> </ol>                                                                                                                                                                                                      |
-| **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that they can’t solve by themselves.                                                                                                                                                        | <ol> <li>[Conceptual guides](LINK)</li> <li>[Tutorials](LINK)</li> <li>[How-to guides](LINK).</li> <li>[Troubleshooting](LINK)</li> <li>[Known issues](LINK)</li> <li>[Announcements](LINK)</li> <li>[Release notes](LINK)</li> </ol>                                                                        |
-| **Highly Technical** | Builds or integrates technical solutions with VTEX. They work on store implementations, app development with our solutions, and integrations with partner systems via VTEX APIs. This audience requires in-depth technical documentation that describes the characteristics of all our features and indicates how to address business needs. | <ol> <li>[Conceptual guides](LINK)</li> <li>[Tutorials](LINK)</li> <li>[How-to guides](LINK).</li> <li>[API reference guides](LINK)</li> <li>[Troubleshooting](LINK)</li> <li>[App development](LINK)</li> <li>[Known issues](LINK)</li> <li>[Announcements](LINK)</li> <li>[Release notes](LINK)</li> </ol> |
+| Audience type | Description   |
+| :------------ | :------------ |
+| **Beginner**  | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
+| **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that they can’t solve by themselves. |
+| **Highly Technical** | Builds or integrates technical solutions with VTEX. They work on store implementations, app development with our solutions, and integrations with partner systems via VTEX APIs. This audience requires in-depth technical documentation that describes the characteristics of all our features and indicates how to address business needs. |
 
 ### Checklist to define the documentation objectives
 
@@ -56,7 +56,7 @@ To help you define the documentation context, see the checklist below:
   <input type="checkbox" id="operational" name="audience" value="Operational">
   <label for="operational">Operational</label><br>
   <input type="checkbox" id="developer" name="audience" value="Developer">
-  <label for="developer">Developer</label><br><br>
+  <label for="developer">Highly Technical</label><br><br>
 
 #### Learning Category
 
@@ -74,7 +74,7 @@ To help you define the documentation context, see the checklist below:
   What should someone be able to do or understand after reading this article? Choose one or two tasks or concepts that the content will discuss.
   Template example:
   
-  ```bash
+  ```md
   "Create a guide on {add the guide’s purpose}. The guide should emphasize clarity, structure, and user-friendliness. It's intended for {add the guide’s audience}."
   ```
 
@@ -86,8 +86,8 @@ This guideline is the VTEX interpretation of stylistics as a discipline and expl
 
 | Principle  | Orientation  | Usage  |
 | :--------- | :----------- | :----- |
-| **Clarity and conciseness** | <ol><li>Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps.</li>Use clear and informative headings and subheadings to guide readers through the documentation.<li></li></ol>| <ol><li>Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.*</li><li></li>Use headings like *Getting started*, *Instructions*, and *Advanced features*.</ol>   |
-| **Consistency**             | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
+| **Clarity and conciseness** | <ol><li>Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps.</li><li>Use clear and informative headings and subheadings to guide readers through the documentation.</li></ol>| <ol><li>Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.*</li><li>Use headings like *Getting started*, *Instructions*, and *Advanced features*.</li></ol>   |
+| **Consistency**      | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
 | **Completeness**            | Make sure the documentation is both comprehensive and concise, covering all relevant topics with enough detail. | If you’re documenting a feature, include information on how to use it, common use cases, and potential troubleshooting steps. |
 | **Usability**               | Consider the user's perspective and write the documentation in a way that is easy to navigate and use. | Use clear headings, subheadings, and bullet points to organize the content. |
 | **Logical flow**            | Organize the content in a logical sequence that is easy to follow. | Start with an introduction, followed by detailed sections on specific topics. |
