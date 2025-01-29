@@ -58,37 +58,24 @@ To help you define the documentation context, see the checklist below:
 #### Audience
 
 <ol> 
-  <li><input type="checkbox" id="beginner" name="audience" value="Beginner" />
-  <label for="beginner">Beginner</label></li>
-  <li><input type="checkbox" id="operational" name="audience" value="Operational" />
-  <label for="operational">Operational</label></li>
-  <li><input type="checkbox" id="developer" name="audience" value="Developer"  />
-  <label for="developer">Highly Technical</label></li>
+  <li><input type="checkbox" id="beginner" name="audience" value="Beginner" /> Beginner</li>
+  <li><input type="checkbox" id="operational" name="audience" value="Operational" /> Operational</li>
+  <li><input type="checkbox" id="developer" name="audience" value="Developer" /> Highly Technical</li>
 </ol>
 
 #### Learning Category
 
 <ol>
-    <li><h4><input type="checkbox" /> Audience</h4>
-      <ul>
-        <li><input type="checkbox" /> Beginner</li>
-        <li><input type="checkbox" /> Operational</li>
-        <li><input type="checkbox" /> Highly Technical</li>
-      </ul>
-    </li>
-    <li><h4><input type="checkbox" /> Learning Category</h4>
-      <ul>
-        <li><input type="checkbox" /> Awareness - The audience can describe or paraphrase a concept or feature.</li>
-        <li><input type="checkbox" /> Comprehension - The audience can understand a concept to support decision-making.</li>
-        <li><input type="checkbox" /> Applicable Skill - The audience can follow instructions to complete a task.</li>
-      </ul>
-    </li>
-    <li><h4><input type="checkbox" /> Learning Objective</h4>
-      <ul>
-        <li><input type="checkbox" /> Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?</li>
-        <li><input type="checkbox" /> Template example: <i>"Create a guide on <bold>add the guide’s purpose</bold>. The guide should emphasize clarity, structure, and user-friendliness. It's intended for <bold>add the guide’s audienceadd the guide’s audience</bold>."</i></li>
-      </ul>
-    </li>
+  <li><input type="checkbox" /> Awareness - The audience can describe or paraphrase a concept or feature.</li>
+  <li><input type="checkbox" /> Comprehension - The audience can understand a concept to support decision-making.</li>
+  <li><input type="checkbox" /> Applicable Skill - The audience can follow instructions to complete a task.</li>
+</ol>
+
+#### Learning Objective
+
+<ol>
+  <li>Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?</li>
+  <li>Template example: <i>"Create a guide on <bold>add the guide’s purpose</bold>. The guide should emphasize clarity, structure, and user-friendliness. It's intended for <bold>add the guide’s audience</bold>."</i></li>
 </ol>
 
 ## Documentation style guide
