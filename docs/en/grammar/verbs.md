@@ -38,9 +38,9 @@ When introducing sections with the phrase *you can*: at the beginning of an arti
 
 When talking about a description in a table, use the present. 
 
-![Image caption](LINK)
+![First example of usage](https://github.com/vtexdocs/language-hub-content/blob/main/images/en/verbs1.png?raw=true)
 
-![Image caption](LINK)
+![Second example of usage](https://github.com/vtexdocs/language-hub-content/blob/main/images/en/verbs2.png?raw=true)
 
 ## User Interfaces
 
