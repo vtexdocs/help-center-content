@@ -11,7 +11,7 @@ productTeam: Education
 slugEN: release-note-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: onboarding-template
+trackSlugEN: release-note-template
 ---
 
 A release note informs users about updates, enhancements, and bug fixes in a new product version. In this guide, you’ll see general guidelines on how to write a release note and the release note template.

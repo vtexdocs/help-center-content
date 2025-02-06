@@ -11,7 +11,7 @@ productTeam: Education
 slugEN: app-documentation-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: onboarding-template
+trackSlugEN: app-documentation-template
 ---
 
 An app documentation guide helps users understand [VTEX apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app), including installation and configuration.
