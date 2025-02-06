@@ -15,7 +15,7 @@ trackSlugEN: announcement-template
 ---
 
 An announcement informs users about new features, improvements, bug fixes, and other product and system updates.
-In this guide, you’ll see general guidelines, the announcement template, and examples. 
+In this guide, you’ll see general guidelines, the announcement template, and examples.
 
 > ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](LINK).
 
