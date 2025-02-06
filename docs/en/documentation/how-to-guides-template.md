@@ -8,10 +8,10 @@ publishedAt: 2025-02-06T15:00:00.388Z
 firstPublishedAt: 2025-02-06T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: how-to-template
+slugEN: how-to-guide-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: how-to-template
+trackSlugEN: how-to-guide-template
 ---
 
 A how-to guide is a type of documentation that provides specific instructions on how to perform a task. It's focused on the practical aspects of a process, often with step-by-step instructions and visual aids. How-to guides are for users who want to accomplish a specific goal and are familiar with the product or module.
@@ -31,7 +31,7 @@ While both [tutorial](LINK) and how-to guide are instructional resources, they h
 | **Content** | Educational, offering context, background, and explanations. | Practical, with direct, task-oriented instructions. |
 | **Audience**  | Users who want to learn a skill or understand a concept deeply. | Users who need to quickly achieve a specific goal, usually with prior knowledge. |
 
-## Writing how-to guides
+## Writing a how-to guide
 
 | **Topic** | **Tutorial** |
 | --------- | ------------ |
