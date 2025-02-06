@@ -8,7 +8,7 @@ publishedAt: 2024-12-03T19:24:22.388Z
 firstPublishedAt: 2024-12-03T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: onboarding-template
+slugEN: app-documentation-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: onboarding-template
