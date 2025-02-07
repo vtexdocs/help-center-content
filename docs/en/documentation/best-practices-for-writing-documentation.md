@@ -1,6 +1,6 @@
 ---
 title: "Best practices for writing documentation"
-id: edu0001
+id: edu0002
 status: PUBLISHED
 createdAt: 2024-12-03T19:24:22.388Z
 updatedAt: 2025-01-27T12:00:00.388Z
@@ -25,6 +25,7 @@ Before contributing to the documentation, make sure to:
   - [Checklist to define the documentation objectives](#checklist-to-define-the-documentation-objectives)
     - [Audience](#audience)
     - [Learning Category](#learning-category)
+    - [Learning Objective](#learning-objective)
 - [Documentation style guide](#documentation-style-guide)
   - [Style guide principles](#style-guide-principles)
 

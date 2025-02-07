@@ -1,6 +1,6 @@
 ---
 title: 'Troubleshooting'
-id: edu0005
+id: edu0010
 status: PUBLISHED
 createdAt: 2024-12-04T19:24:22.388Z
 updatedAt: 2025-02-03T11:11:00.388Z
