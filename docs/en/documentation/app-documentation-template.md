@@ -1,6 +1,6 @@
 ---
 title: 'App documentation'
-id: edu0004
+id: edu0005
 status: PUBLISHED
 createdAt: 2024-12-03T19:24:22.388Z
 updatedAt: 2025-02-03T11:11:00.388Z
@@ -8,10 +8,10 @@ publishedAt: 2024-12-03T19:24:22.388Z
 firstPublishedAt: 2024-12-03T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: onboarding-template
+slugEN: app-documentation-template
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: onboarding-template
+trackSlugEN: app-documentation-template
 ---
 
 An app documentation guide helps users understand [VTEX apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app), including installation and configuration.
