@@ -64,4 +64,4 @@ To learn more <about the feature/module/product>, see <the article>.
 
 </details>
 
-> ℹ See release note examples in the [Developer Portal](https://developers.vtex.com/updates/release-notes).
+> See release note examples in the [Developer Portal](https://developers.vtex.com/updates/release-notes).
