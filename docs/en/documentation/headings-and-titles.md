@@ -1,5 +1,5 @@
 ---
-title: 'headings and titles'
+title: 'Headings and titles'
 id: edu0012
 status: PUBLISHED
 createdAt: 2025-02-11T15:00:00.388Z
