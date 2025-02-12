@@ -49,7 +49,7 @@ An interrogation mark (`?`) can be used in FAQs and Announcements.
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| <ol><li>How does promotion proration work?</li><li>What needs to be done?</li></ol> | <ol><li>How does promotion proration work</li></li>What needs to be done</li></ol> |
+| <ol><li>How does promotion proration work?</li><li>What needs to be done?</li></ol> | <ol><li>How does promotion proration work</li><li>What needs to be done</li></ol> |
 
 When using an abbreviation or acronym in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
 
