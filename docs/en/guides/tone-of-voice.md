@@ -31,11 +31,11 @@ When writing documentation or creating a new interface, we are guiding the users
 
 We address the following audiences:
 
-| Audience type | Description | Most common documentation types |
-| --- | --- | --- |
-| **Beginner** | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. | <ol> <li>[Conceptual guides](LINK)</li> <li>[Tutorials](LINK)</li> <li>[Announcements](LINK)</li> </ol> |
-| **Operational** | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that need help to be solvedcannot be solved alone. | <ol> <li>[Conceptual guides](LINK)</li>  <li>[Tutorials](LINK)</li> <li>[How-to guides](LINK).</li> <li>[Troubleshooting](LINK)</li> <li>[Known issues](LINK)</li> <li>[Announcements](LINK)</li> <li>[Release notes](LINK)</li> </ol> |
-| **Highly Technical** | Builds or integrates technical solutions with VTEX. Works on store implementations and app development with our solutions, and integrations with partner systems via VTEX APIs, andor. Requires in-depth technical documentation that shows the characteristics of all our features and indicates how to solve business needs. | <ol> <li>[Conceptual guides](LINK)</li> <li>[Tutorials](LINK)</li> <li>[How-to guides](LINK).</li> <li>[API reference guides](LINK)</li> <li>[Troubleshooting](LINK)</li> <li>[App development](LINK)</li> <li>[Known issues](LINK)</li> <li>[Announcements](LINK)</li> <li>[Release notes](LINK)</li> </ol> |
+| Audience type | Description |
+| --- | --- |
+| **Beginner** | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
+| **Operational** | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that need help to be solvedcannot be solved alone. |
+| **Highly Technical** | Builds or integrates technical solutions with VTEX. Works on store implementations and app development with our solutions, and integrations with partner systems via VTEX APIs, andor. Requires in-depth technical documentation that shows the characteristics of all our features and indicates how to solve business needs. | 
 
 ## Voice - Personality
 
