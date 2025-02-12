@@ -1,10 +1,10 @@
 ---
 title: 'Lists and tables'
-id: edu0013
+id: formatting0002
 status: PUBLISHED
-createdAt: 2025-02-11T15:00:00.388Z
-publishedAt: 2025-02-11T15:00:00.388Z
-firstPublishedAt: 2025-02-06T15:00:00.388Z
+createdAt: 2025-12-11T15:00:00.388Z
+publishedAt: 2025-12-11T15:00:00.388Z
+firstPublishedAt: 2025-12-06T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
 slugEN: lists-and-tables
