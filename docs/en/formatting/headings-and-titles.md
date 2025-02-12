@@ -43,7 +43,7 @@ Do not use a full stop ( `.` ), bold, interrogation and exclamation marks, or it
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| <ol><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ol> | <ol><li>Managing shipping rates.</li></li>Creating <i>synonyms</i></li><li>Events available in <b>Audit</b></li></ol> |
+| <ol><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ol> | <ol><li>Managing shipping rates.</li><li>Creating <i>synonyms</i></li><li>Events available in <b>Audit</b></li></ol> |
 
 An interrogation mark (`?`) can be used in FAQs and Announcements.
 
