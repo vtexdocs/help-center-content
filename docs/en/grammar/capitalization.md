@@ -20,7 +20,7 @@ Use sentence case capitalization for documentation, including headings and all U
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| <ol><li>Create account</li><li>Try new experience</li><li>Getting started with Ad Network</li><li>Starting the integration with Catalog</li><li>Merchant ID</li><li>Copy URL to clipboard</li><li>Activate seller</li><li>Deactivate seller</li></ol> | <ol><li>Create Account</li><li>Try New Experience</li><li>Getting Started With Ad Network</li><li>Starting the Integration with Catalog</li><li>Merchant id</li><li>Copy url to clipboard</li><li>Activate Seller</li><li>Deactivate Seller</li></ol> |
+| <ul><li>Create account</li><li>Try new experience</li><li>Getting started with Ad Network</li><li>Starting the integration with Catalog</li><li>Merchant ID</li><li>Copy URL to clipboard</li><li>Activate seller</li><li>Deactivate seller</li></ul> | <ul><li>Create Account</li><li>Try New Experience</li><li>Getting Started With Ad Network</li><li>Starting the Integration with Catalog</li><li>Merchant id</li><li>Copy url to clipboard</li><li>Activate Seller</li><li>Deactivate Seller</li></ul> |
 
 ### Proper nouns
 
@@ -28,19 +28,19 @@ Capitalize all proper or trademarked nouns, including names of **products**, **f
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ol><li>Black Friday will be on November 24</li><li>Intelligent Search determines the relevance of each product by combining weights.</li><li>Contact the VTEX Support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the Brazilian market.</li><li>Personal Shopper is available in the following languages: English, Spanish, Portuguese, French, and German.</li><li>Export to Excel</li><li>Install Intelligent Search</li><li>VTEX App Store</li></ol> | <ol><li>Black friday will be on november 24</li><li>Intelligent search determines the relevance of each product by combining weights.</li><li>Contact the support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the brazilian market.</li><li>Personal Shopper is available in the following languages: english, spanish, portuguese, french, and german.</li><li>Export to excel</li><li>Install intelligent search</li><li>VTEX app store</li></ol> |
+| <ul><li>Black Friday will be on November 24</li><li>Intelligent Search determines the relevance of each product by combining weights.</li><li>Contact the VTEX Support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the Brazilian market.</li><li>Personal Shopper is available in the following languages: English, Spanish, Portuguese, French, and German.</li><li>Export to Excel</li><li>Install Intelligent Search</li><li>VTEX App Store</li></ul> | <ul><li>Black friday will be on november 24</li><li>Intelligent search determines the relevance of each product by combining weights.</li><li>Contact the support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the brazilian market.</li><li>Personal Shopper is available in the following languages: english, spanish, portuguese, french, and german.</li><li>Export to excel</li><li>Install intelligent search</li><li>VTEX app store</li></ul> |
 
 Respect the capitalization of company names as used in their copy material (not their logo), whether it’s all caps, a capital letter in between, or all lowercase.
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| <ol><li>VTEX</li><li>SAP</li><li>ServiceNow</li></ol> | <ol><li>Vtex</li><li>vtex</li><li>Sap</li><li>Servicenow</li></ol> |
+| <ul><li>VTEX</li><li>SAP</li><li>ServiceNow</li></ul> | <ul><li>Vtex</li><li>vtex</li><li>Sap</li><li>Servicenow</li></ul> |
 
 If an official name begins with a lowercase letter, use it in lowercase even at the start of a sentence. If possible, rewrite the sentence to avoid a lowercase word at the beginning.
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ol><li>To configure the easypay affiliation, follow the steps below.</li><li>Checkout customization for easypay.</li><li>VTEX is the highest-ranked <i>Leader</i></li></ol>  | <ol><li>To configure the Easypay affiliation, follow the steps below.</li><li>easypay checkout customization</li><li>Vtex is the highest-ranked <i>Leader</i></li></ol> |
+| <ul><li>To configure the easypay affiliation, follow the steps below.</li><li>Checkout customization for easypay.</li><li>VTEX is the highest-ranked <i>Leader</i></li></ul>  | <ul><li>To configure the Easypay affiliation, follow the steps below.</li><li>easypay checkout customization</li><li>Vtex is the highest-ranked <i>Leader</i></li></ul> |
 
 ### Letters following slashes
 
@@ -48,7 +48,7 @@ When a slash joins words, capitalize the word after the slash if the word before
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ol><li>Items/Units</li><li>Note/Sales associate code</li><li>Package/Order number</li></ol>  | <ol><li>Items/units</li><li>Note/sales associate code</li><li>Package/order number</li></ol> |
+| <ul><li>Items/Units</li><li>Note/Sales associate code</li><li>Package/Order number</li></ul>  | <ul><li>Items/units</li><li>Note/sales associate code</li><li>Package/order number</li></ul> |
 
 ### File formats
 
@@ -88,13 +88,13 @@ Actions and nouns listed in action and content labels (including dropdown menus 
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ol><li>Edit</li><li>Export file</li><li>Import file</li></ol>  | <ol><li>edit</li><li>export file</li><li>import file</li></ol> |
+| <ul><li>Edit</li><li>Export file</li><li>Import file</li></ul>  | <ul><li>edit</li><li>export file</li><li>import file</li></ul> |
 
 <br>
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| Filter by status: <ol><li>Confirmed</li><li>Expired</li><li>Handled</li></ol> | Filter by status: <ol><li>confirmed</li><li>expired</li><li>handled</li></ol> |
+| Filter by status: <ul><li>Confirmed</li><li>Expired</li><li>Handled</li></ul> | Filter by status: <ul><li>confirmed</li><li>expired</li><li>handled</li></ul> |
 
 ## Documentation
 
@@ -130,4 +130,4 @@ Always capitalize the first letter in a bullet or numbered list.
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ol><li>On the <b>Projects</b> page, click <code>Create new</code>.</li><li>In the <b>New project</b> page, complete the fields.</li><li>After setting each field of the page, click <code>Create</code>.</li></ol>  | <ol><li>on the <b>Projects</b> page, click <code>Create new</code>.</li><li>in the <b>New project</b> page, complete the fields.</li><li>after setting each field of the page, click <code>Create</code>.</li></ol> |
+| <ul><li>On the <b>Projects</b> page, click <code>Create new</code>.</li><li>In the <b>New project</b> page, complete the fields.</li><li>After setting each field of the page, click <code>Create</code>.</li></ul>  | <ul><li>on the <b>Projects</b> page, click <code>Create new</code>.</li><li>in the <b>New project</b> page, complete the fields.</li><li>after setting each field of the page, click <code>Create</code>.</li></ul> |
