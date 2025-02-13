@@ -18,13 +18,13 @@ Adjectives come before the noun.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • The main criteria for white label seller selection are: | • The main criteria for seller white label selection are: |
+| The main criteria for white label seller selection are the following. | The main criteria for seller white label selection are the following. |
 
 To be more objective, avoid using too many adjectives.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • In the next step, click \`Payments\`. <br> • The store setup will be complete after completing this step.   | • The next step is very easy, just click \`Payments\`. <br> • Please make sure to complete this step. It is a really important step in completing the store setup. |
+| <ul><li>In the next step, click <i>Payments</i>.</li><li>The store setup will be complete after completing this step.</li></ul>    | <ul><li>The next step is very easy, just click <i>Payments</i>.</li><li>Please make sure to complete this step. It is a really important step in completing the store setup.</li></ul> |
 
 Past participles can be part of verb tenses or adjectives describing a noun or a completed action. When they act as a verb, they come after the noun, and when they act as an adjective, they come before.
 
@@ -32,7 +32,7 @@ Past participles can be part of verb tenses or adjectives describing a noun or a
 | --------- | ------------ |
 | • Product added to cart successfully <br> • Added products are also ranked in the first positions | • Added product to cart successfully <br> • Products added are also ranked in the first positions |
 
-Nouns can act as attributive adjectives to indicate possession, measurement, or source. Attributive adjectives are used to express these qualities concisely, often in lieu of the preposition “of” or a possessive with apostrophe “‘s.”
+Nouns can act as attributive adjectives to indicate possession, measurement, or source. Attributive adjectives are used to express these qualities concisely, often in lieu of the preposition *of* or a possessive with apostrophe *‘s.*
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
