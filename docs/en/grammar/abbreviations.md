@@ -14,7 +14,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: abbreviations
 ---
 
-# Abbreviations include acronyms, shortened words, and contractions.
+Abbreviations include acronyms, shortened words, and contractions.
 
 In documentation, spell out abbreviations on the first reference if they’re not common and include the abbreviation in parentheses immediately after.
 
@@ -26,7 +26,8 @@ Don’t use *i.e.* or *e.g.* They are not localization friendly.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li> It is frequently necessary to send the item price to the gateway or to your ERP with the tax shown separately from the price. </li><li> In this function, create an event object specifying the desired event type (example: ‘purchase’) and then call ‘sendAnalyticsEvent’. </li></ol>| <ol><li> It’s frequently necessary to send the item price to the Gateway or to your ERP with the tax shown, i.e. separately from the price.</li><li>In this function, create an event object specifying the desired event type (e.g., ‘purchase’) and then call ‘sendAnalyticsEvent’.</li></ol> |
+| It is frequently necessary to send the item price to the gateway or to your ERP with the tax shown separately from the price. | It’s frequently necessary to send the item price to the Gateway or to your ERP with the tax shown, i.e. separately from the price. |
+| In this function, create an event object specifying the desired event type (example: `purchase`) and then call `sendAnalyticsEvent`.| In this function, create an event object specifying the desired event type (e.g., `purchase`) and then call `sendAnalyticsEvent`. |
 
 ## Periods with abbreviations
 
@@ -34,13 +35,15 @@ Don't use periods with acronyms or the abbreviation for the name of a country.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>You need to send the item price to your ERP with the tax shown separately from the price.</li><li> This amount is shown in US dollars.</li></ol> | <ol><li>You need to send the item price to your E.R.P. with the tax shown separately from the price.</li><li>This amount is shown in U.S. dollars.</li></ol> |
+| You need to send the item price to your ERP with the tax shown separately from the price. | You need to send the item price to your E.R.P. with the tax shown separately from the price. |
+| This amount is shown in US dollars.| This amount is shown in U.S. dollars. |
 
 If you write or say an abbreviation as a word (for example, app or sync), don't put a period after it.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>The app is available in the Extensions Hub.</li><li>You can sync your catalog with Amazon.</li></ol> | <ol><li>The app. is available in the Extensions Hub.</li><li> You can sync. your catalog with Amazon.</li></ol> |
+| The app is available in the Extensions Hub. | The app. is available in the Extensions Hub. |
+| You can sync your catalog with Amazon. | You can sync. your catalog with Amazon. |
 
 Put a period at the end of a shortened word in text, including strings that are full phrases. Omit for date and time, forms, and column headers in the UI.
 
@@ -48,7 +51,7 @@ Put a period at the end of a shortened word in text, including strings that are 
 | :---- | :---- |
 | Check the item qty. in the cart | <ol><li>Check the item qty in the cart</li><li>No.</li></ol> |
 
-### Contractions
+## Contractions
 
 Always use common contractions, such as *it’s*, *you’re*, *that's, don’t, can’t, you’ll.* Contractions help avoid misreading, as it's easier for readers to overlook the word *not* in a sentence than to misinterpret a contraction like *don’t* as *do*. 
 
@@ -74,13 +77,17 @@ Don’t use double contractions like *mustn't've* or *shouldn't've*, and avoid a
 | :---- | :---- |
 | It will disappear from the list on the SKU Bindings page. | It'll disappear from the list on the SKU Bindings page. |
 
-###  Acronyms 
+## Acronyms
 
 Most acronyms are fully capitalized, but not all. Follow the standard form used in the industry. Capitalize all words in the spelled-out form of an acronym. The names of many protocols and specifications are considered proper nouns and are capitalized when spelled out.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>Renew the API token before the duration ends.</li><li>This option involves using a third-party platform, known as Platform as a Service (PaaS).</li><li> How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)?</li><li> Multiple redirects are possible in a single URL.</li><li> A user ID screen is displayed so that the customer can continue trying to purchase.</li></ol>  | <ol><li>Renew the api token before the duration ends.</li><li> This option involves using a third-party platform, known as platform as a service (PAAS).</li><li> How does VTEX ensure compliance with the general data protection regulation (GDPR)?</li><li> Multiple redirects are possible in a single url.</li><li> A user id screen is displayed so that the customer can continue trying to purchase.</li></ol> |
+| Renew the API token before the duration ends. | Renew the api token before the duration ends. |
+| This option involves using a third-party platform, known as Platform as a Service (PaaS).  | This option involves using a third-party platform, known as platform as a service (PAAS). |
+| How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)?  | How does VTEX ensure compliance with the general data protection regulation (GDPR)? |
+|  Multiple redirects are possible in a single URL.  | Multiple redirects are possible in a single url. |
+| A user ID screen is displayed so that the customer can continue trying to purchase. | A user id screen is displayed so that the customer can continue trying to purchase. |
 
 Don't spell out common acronyms.
 
@@ -98,22 +105,27 @@ Use *a* or *an based* on pronunciation.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>A URL</li> A SKU (preferred US pronunciation is /skjuː/)</li></ol>  | <ol><li>An URL</li><li> An SKU</li></ol>  |
+| A URL | An URL  |
+| A SKU (preferred US pronunciation is /skjuː/)  | An SKU  |
 
 Avoid the possessive form. An alternative is using the preposition *of* using nouns as adjectives, which may require using a definite article or omitting the article.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>The purpose of this FAQ.</li><li> This means providing Google with the address of the store website. </li><li> The vteximg.com.br domain delivers store image files.</li></ol> | <ol><li>This FAQ's purpose.</li><li> This means providing Google with the address of your store's website.</li><li> The vteximg.com.br domain is responsible for delivering your store's image files.</li></ol> |
+| The purpose of this FAQ. | This FAQ's purpose. |
+| This means providing Google with the address of the store website. | This means providing Google with the address of your store's website. |
+| The vteximg.com.br domain delivers store image files. | The vteximg.com.br domain is responsible for delivering your store's image files. |
 
 When making acronyms, initialisms, and other abbreviations plural, treat them as regular words.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>URL mapping is used to redirect specific URLs to other URLs.</li><li> This type of app allows you to create integrations between services using REST APIs or create GraphQL APIs to use data in custom React components.</li></ol> | <ol><li>URL mapping is used to redirect specific URL to other URL.</li><li> This type of app allows you to create integrations between services using REST API’s or create GraphQL APIs to use data in custom React components.</li></ol> |
+| URL mapping is used to redirect specific URLs to other URLs. | URL mapping is used to redirect specific URL to other URL. |
+| This type of app allows you to create integrations between services using REST APIs or create GraphQL APIs to use data in custom React components. | This type of app allows you to create integrations between services using REST API’s or create GraphQL APIs to use data in custom React components. |
 
-Prefer to use the acronyms of file formats and capitalize them. When specifying file extensions, use lowercase letters (example: \`faststore.config.js\`).
+Prefer to use the acronyms of file formats and capitalize them. When specifying file extensions, use lowercase letters (example: `faststore.config.js`).
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| <ol><li>You can set up synonyms individually or by importing a spreadsheet in **CSV** format.�</li><li> package.**json**: **JSON** file describing the dependencies, script commands for building, and version details.</li></ol> | <ol><li>You can set up synonyms individually or by importing a spreadsheet in **csv** format.�</li><li> package.**JSON**: **json** file describing the dependencies, script commands for building, and version details.</li></ol> |
+| You can set up synonyms individually or by importing a spreadsheet in **CSV** format. | You can set up synonyms individually or by importing a spreadsheet in **csv** format. |
+| package.**json**: **JSON** file describing the dependencies, script commands for building, and version details. | package.**JSON**: **json** file describing the dependencies, script commands for building, and version details.</li></ol> |
