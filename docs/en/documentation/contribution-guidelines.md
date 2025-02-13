@@ -58,7 +58,7 @@ You can leave a comment about the page and why you found it helpful or not. Clic
 
 ## Suggest edits (GitHub)
 
-***Available at:** [Help Center](https://help.vtex.com/) and [Developer Portal](https://developers.vtex.com/)
+**Available at:** [Help Center](https://help.vtex.com/) and [Developer Portal](https://developers.vtex.com/)
 
 You can contribute to any page in the documentation portals by clicking `Suggest edits (GitHub)`.
 
@@ -68,7 +68,7 @@ By clicking `Suggest edits (GitHub)`, a new browser window will open with the do
 
 1. In the documentation repository page, edit the documentation file that corresponds to your suggestions.  
 
-   > ⚠️ Make sure to apply your suggestions based on the [documentation guidelines](https://docs.google.com/document/d/1i4-us9j-V8b8u5FmFu1aG0l8TzZq5isL2nH2txyW--U/edit?usp=drive_link) and the [code of conduct](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md) and maintain the documentation structure aligned with its [template](LINK).  
+   > ⚠️ Make sure to apply your suggestions based on the [documentation guidelines principles](https://deploy-preview-4--language-hub.netlify.app/docs/documentation/documentation-overview#documentation-guidelines-principles) and the [code of conduct](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md) and maintain the documentation structure aligned with its [template](LINK).  
 
 2. Click `Commit changes…`.  
 3. In the **Propose changes** modal, complete the following:
