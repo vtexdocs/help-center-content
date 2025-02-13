@@ -28,9 +28,9 @@ When the title or heading starts with a verb, use it in the \-ing form.
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| • Creating a specification group in a category | • Create a specification group in a category |
+| Creating a specification group in a category | Create a specification group in a category |
 
-When introducing sections with the phrase *you can*: at the beginning of an article, use the infinitive, but use the \-ing form in the actual heading.
+When introducing sections with the phrase *you can*: at the beginning of an article, use the infinitive, but use the *-ing* form in the actual heading.
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
