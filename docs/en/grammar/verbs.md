@@ -22,7 +22,10 @@ Start sentences with imperative verbs when indicating the actions users must tak
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| • Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout. <br> • Open the VTEX Admin and access Storefront \> FastStore WebOps. <br> • Enter your postal code. <br> • Learn more about VTEX IO Clients and their advantages. | • To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog. <br> • At the VTEX Admin, access Storefront \> FastStore WebOps. <br> • Entering your postal code. <br> • Learning more about VTEX IO Clients and their advantages. |
+| Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout. | To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog. |
+| Open the VTEX Admin and access **Storefront > FastStore WebOps**. | At the VTEX Admin, access **Storefront > FastStore WebOps**. |
+| Enter your postal code. | Entering your postal code. |
+| Learn more about VTEX IO Clients and their advantages. | Learning more about VTEX IO Clients and their advantages. |
 
 When the title or heading starts with a verb, use it in the \-ing form.
 
@@ -48,4 +51,5 @@ In buttons, use imperative verbs.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Create product <br> • Visit store | • New product <br> • Store |
+| Create product | New product |
+| Visit store | Store |
