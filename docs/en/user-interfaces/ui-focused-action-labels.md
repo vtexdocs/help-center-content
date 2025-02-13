@@ -14,56 +14,55 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: action-labels
 ---
 
-### Action labels use up to three words to indicate an action that the user wants or needs to perform. This pattern is often seen in components such as Buttons or Menus.
+Action labels use up to three words to indicate an action that the user wants or needs to perform. This pattern is often seen in components such as Buttons or Menus.
 
-### General
+## General
 
-### Keep it as short as possible while still being descriptive enough.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| • Add product | • Add new product to catalog |
-
-### Use a verb in the infinitive followed by an object.
+Keep it as short as possible while still being descriptive enough.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Create product Visit store | • New product Store |
+| Add product | Add new product to catalog |
 
-### Reuse labels for the same action. Common labels can be found in the glossary.
+Use a verb in the infinitive followed by an object.
+
+| Do ✅ | Don't ❌ |
+| :---- | :---- |
+| Create product Visit store | New product Store |
+
+Reuse labels for the same action. Common labels can be found in the glossary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | • Add product <br> • View details <br> • Edit <br> • Rename | • Insert product <br> • See details <br> • Modify <br> • Change name |
 
-### Use sentence case but capitalize proper nouns.
+Use sentence case but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | • Try new experience | • Try New Experience |
 
-### Don’t use punctuation or personal pronouns and avoid articles.
+Don’t use punctuation or personal pronouns and avoid articles.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | • Add product <br> • Preview content | • Add a product <br> • Preview my content |
 
-Specific
+## Specific
 
-### Use precise labels that reflect the exact action.
+Use precise labels that reflect the exact action.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | • Publish <br> • Rename <br> • Learn more | • Confirm <br> • Edit <br> • Click here |
 
-### When the context implies a single clear object, remove the object name from the label.
+When the context implies a single clear object, remove the object name from the label.
 
 | Do ✅                                        | Don't ❌                                      |
 | :------------------------------------------ | :------------------------------------------- |
 | • Content label: Product <br> Action label: Edit <br> • Content label: Order <br> Action label: Invoice | • Content label: Product <br> Action label: Edit product <br> • Content label: Order <br> Action label: Invoice order |
 
-
-### When a link is within a paragraph, it's not necessary to modify capitalization or start with a verb.
+When a link is within a paragraph, it's not necessary to modify capitalization or start with a verb.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
