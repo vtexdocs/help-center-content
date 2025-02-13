@@ -24,10 +24,11 @@ Always address the reader as you. Use the words *user, merchant, or seller* only
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <br> • In the **Candidates** section, check the checkbox of the offers that you want to include in the promotional campaign. | • In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <br> • In the **Candidates** section, check the checkbox of the offers that the seller wants to include in the promotional campaign. |
+| In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates</b> section, check the checkbox of the offers that you want to include in the promotional campaign.</li></ol>  | In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol>In the <b>Candidates section</b>, check the checkbox of the offers that the seller wants to include in the promotional campaign.</ol> |
 
 Use first-person plural pronouns (*we, our, us*) to refer to VTEX as author of the document when necessary.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • We recommend adjusting this setting to avoid stockout. <br> • We recommend exporting 10,000 records at a time. | • VTEX recommends adjusting this setting to avoid stockout. <br> • It's recommended to export 10,000 records at a time. |
+| We recommend adjusting this setting to avoid stockout. | VTEX recommends adjusting this setting to avoid stockout. |
+| We recommend exporting 10,000 records at a time. | It's recommended to export 10,000 records at a time. |
