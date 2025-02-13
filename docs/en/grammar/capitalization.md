@@ -22,7 +22,7 @@ Use sentence case capitalization for documentation, including headings and all U
 | :----- | :------- |
 | • Create account <br> • Try new experience <br> • Getting started with Ad Network <br> • Starting the integration with Catalog <br> • Merchant ID <br> • Copy URL to clipboard <br> • Activate seller <br> • Deactivate seller <br> | • Create account <br> • Try New Experience <br> • Getting started with Ad Network <br> • Starting the integration with Catalog <br> • Merchant id <br> • Copy url to clipboard <br> • Activate Seller <br> • Deactivate Seller |
 
-## Proper nouns
+### Proper nouns
 
 Capitalize all proper or trademarked nouns, including names of **products**, **features, modules, pages,** **people, places, nationalities, names of languages, months, days of the week,** and **holidays**. If the noun has more than one word, use title case.
 
@@ -67,7 +67,7 @@ Capitalize the first word of labels and terms in APIs unless they're always lowe
 | :---- | :-------- |
 | • Create or update promotion endpoint <br> • The Conversions API | • Create Or Update Promotion endpoint <br> • The conversions API |
 
-## Acronyms
+### Acronyms
 
 Most acronyms are fully capitalized, but not all. Follow the standard form used in the industry. Capitalize all words in the spelled-out form of an acronym. The names of many protocols and specifications are considered proper nouns and are capitalized when spelled out.
 
@@ -75,7 +75,7 @@ Most acronyms are fully capitalized, but not all. Follow the standard form used 
 | :---- | :-------- |
 | • Renew the API token before the duration ends. <br> • This option involves using a third-party platform, known as Platform as a Service (PaaS). <br> • How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)? <br>•  Multiple redirects are possible in a single URL. <br> • A user ID screen is displayed so that the customer can continue trying to purchase.  | • Renew the api token before the duration ends. <br> • This option involves using a third-party platform, known as platform as a service (PAAS). <br> • How does VTEX ensure compliance with the general data protection regulation (GDPR)? <br> • Multiple redirects are possible in a single url. <br> • A user id screen is displayed so that the customer can continue trying to purchase. |
 
-## Colons
+### Colons
 
 Capitalize the first letter after a colon.
 
@@ -99,7 +99,7 @@ Actions and nouns listed in action and content labels (including dropdown menus 
 
 ## Documentation
 
-## User Interface elements
+### User Interface elements
 
 Follow the capitalization used on the UI including labels, buttons, and VTEX Admin module names. This also applies to UI from other platforms.
 
@@ -109,7 +109,7 @@ Follow the capitalization used on the UI including labels, buttons, and VTEX Adm
 | :--------- | :------------ |
 | In the **Google Tag Manager** field, enter the store identification code in **GTM-XXXX** format, as shown in the image below.  | In the **Google tag manager** field, enter the store identification code in **gtm-XXXX** format, as shown in the image below. |
 
-## Technical references and developer fields
+### Technical references and developer fields
 
 Use camel case for placeholders and developer fields. This means capitalizing the first letter of each word, except for the first letter of the entire compound word.
 
@@ -117,7 +117,7 @@ Use camel case for placeholders and developer fields. This means capitalizing th
 | :---- | :-------- |
 | The file name should follow the pattern *{storeName}-favicon.ico*. | The file name should follow the pattern *{storename}-favicon.ico*. |
 
-## Lists
+### Lists
 
 Always capitalize the first letter in a bullet or numbered list.
 
