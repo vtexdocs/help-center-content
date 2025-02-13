@@ -14,9 +14,9 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: punctuation
 ---
 
-### In a UI, the goal is to minimize distractions and guide users through clear actions and messages. The UI must be concise, functional, and often minimal in its use of punctuation.
+In a UI, the goal is to minimize distractions and guide users through clear actions and messages. The UI must be concise, functional, and often minimal in its use of punctuation.
 
-### Avoid using periods to end single sentences, particularly in labels, label description text, tooltip text, bulleted lists, dialog body text, hyperlinked text, titles, and buttons containing a sentence.
+Avoid using periods to end single sentences, particularly in labels, label description text, tooltip text, bulleted lists, dialog body text, hyperlinked text, titles, and buttons containing a sentence.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
@@ -28,7 +28,7 @@ trackSlugEN: punctuation
 | Delete user | Delete user? |
 | I agree and accept | I agree and accept. |
 
-### Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
+Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
