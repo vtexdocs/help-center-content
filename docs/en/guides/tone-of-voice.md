@@ -14,7 +14,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: tone-of-voice
 ---
 
-### The VTEX voice represents our **core brand elements** in the way we communicate. It ensures that our writing embodies the **VTEX personality and quality standards** across all touchpoints.
+The VTEX voice represents our **core brand elements** in the way we communicate. It ensures that our writing embodies the **VTEX personality and quality standards** across all touchpoints.
 
 When communicating with our audience, keep in mind these principles:
 
@@ -39,7 +39,7 @@ We address the following audiences:
 
 ## Voice - Personality
 
-VTEX is grounded in three pillars: **boldness, trustworthiness,** and **optimism.**   
+VTEX is grounded in three pillars: **boldness, trustworthiness,** and **optimism.**
 This means we write with authority and to the point (boldness). This helps us build the trust of our clients as we help them, configure, troubleshoot, and enhance the platform (trustworthy). We do this in a confident and friendly way without alarming users (optimistic).
 
 ## Audience
