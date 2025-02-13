@@ -18,7 +18,8 @@ Use common contractions, such as negation, and *it’s,* *you’re*, *that's*, t
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| • Order Management <br> • Seller Portal | • Orders Management <br> • Sellers Portal |
+| Order Management | Orders Management |
+| Seller Portal | Sellers Portal |
 
 Avoid awkward contractions, such as *there’d*, *it’ll*, *they’d,* noun plus verb, and double.
 
