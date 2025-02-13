@@ -18,43 +18,49 @@ Headings and titles must be descriptive, as short as possible, and generally con
 Make the learning objective of the article clear, preferably with only one verb.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
+| :------ |:-------- |
 | Starting a new FastStore project | FastStore project |
 
-When the title or heading starts with a verb, use it in the -ing form.
+When the title or heading starts with a verb, use it in the *-ing* form.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
+| :------ |:-------- |
 | Creating a specification group in a category | Create a specification group in a category |
 
 In texts where titles are commands for the user, use the imperative.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ol><li>Creating a specification group in a category</li><li>Install the VTEX IO CLI on your machine</li></ol> | <ol><li>Cloning the repository created</li><li>Installing the VTEX IO CLI on your machine</li></ol> |
+| :------ | :-------- |
+| Create a specification group in a category | Cloning the repository created |
+| Install the VTEX IO CLI on your machine | Installing the VTEX IO CLI on your machine |
 
 Use sentence case, except with proper nouns.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ol><li>Setting up the Notify me option</li><li>Configuring Price Divergence rule</li><li>Order flow and status</li></ol> | <ol><li>Setting up the notify me option</li><li>Configuring Price Divergence Rule</li><li>Order Flow and Status</li></ol> |
+| :------ | :-------- |
+| Setting up the Notify me option | Setting up the notify me option |
+| Configuring Price Divergence rule | Configuring Price Divergence Rule |
+| Order flow and status | Order Flow and Status |
 
 Do not use a full stop ( `.` ), bold, interrogation and exclamation marks, or italic.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ol><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ol> | <ol><li>Managing shipping rates.</li><li>Creating <i>synonyms</i></li><li>Events available in <b>Audit</b></li></ol> |
+| :------ | :-------- |
+| Managing shipping rates | Managing shipping rates. |
+| Creating synonyms | Creating *synonyms* |
+| Events available in Audit | Events available in **Audit** |
 
 An interrogation mark (`?`) can be used in FAQs and Announcements.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ol><li>How does promotion proration work?</li><li>What needs to be done?</li></ol> | <ol><li>How does promotion proration work</li><li>What needs to be done</li></ol> |
+| :------ | :-------- |
+| How does promotion proration work? | How does promotion proration work |
+| What needs to be done? | What needs to be done |
 
 When using an abbreviation or acronym in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
 
 | Do ✅ | Don't ❌ |
-| ------ |-------- |
+| :------ | :-------- |
 | <b>Configuring SEO in your Store Framework store</b><br> SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages. | <b>Configuring SEO in your Store Framework store</b><br> SEO is one of the most important strategies to better position your site on organic search engine results pages. |
 
 Do not use highlight expressions and generic words, such as *attention*, *details*, *important observations,* and *examples.*
@@ -79,4 +85,5 @@ In the actual heading, use `-ing`.
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| <ol><li>Creating a seller</li><li>Editing a seller</li></ol> | <ol><li>Create a seller</li><li>Edit a seller</li></ol> |
+| Creating a seller | Create a seller |
+| Editing a seller | Edit a seller |
