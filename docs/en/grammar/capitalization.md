@@ -20,7 +20,14 @@ Use sentence case capitalization for documentation, including headings and all U
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| <ul><li>Create account</li><li>Try new experience</li><li>Getting started with Ad Network</li><li>Starting the integration with Catalog</li><li>Merchant ID</li><li>Copy URL to clipboard</li><li>Activate seller</li><li>Deactivate seller</li></ul> | <ul><li>Create Account</li><li>Try New Experience</li><li>Getting Started With Ad Network</li><li>Starting the Integration with Catalog</li><li>Merchant id</li><li>Copy url to clipboard</li><li>Activate Seller</li><li>Deactivate Seller</li></ul> |
+| Create account | Create Account |
+| Try new experience | Try New Experience |
+| Getting started with Ad Network | Getting started with ad network |
+| Starting the integration with Catalog | Starting the integration with catalog |
+| Merchant ID | Merchant id |
+|  Copy URL to clipboard |  Copy url to clipboard |
+| Activate seller | Activate Seller |
+| Deactivate seller | Deactivate Seller |
 
 ### Proper nouns
 
@@ -28,19 +35,30 @@ Capitalize all proper or trademarked nouns, including names of **products**, **f
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ul><li>Black Friday will be on November 24</li><li>Intelligent Search determines the relevance of each product by combining weights.</li><li>Contact the VTEX Support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the Brazilian market.</li><li>Personal Shopper is available in the following languages: English, Spanish, Portuguese, French, and German.</li><li>Export to Excel</li><li>Install Intelligent Search</li><li>VTEX App Store</li></ul> | <ul><li>Black friday will be on november 24</li><li>Intelligent search determines the relevance of each product by combining weights.</li><li>Contact the support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li><li>Requesting a trade policy for the brazilian market.</li><li>Personal Shopper is available in the following languages: english, spanish, portuguese, french, and german.</li><li>Export to excel</li><li>Install intelligent search</li><li>VTEX app store</li></ul> |
+| Black Friday will be on November 24 | Black friday will be on november 24 |
+| Intelligent Search determines the relevance of each product by combining weights. | Intelligent search determines the relevance of each product by combining weights. |
+| <ul><li>Contact the VTEX Support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li></ul> | Contact the support team. |
+| Requesting a trade policy for the Brazilian market. | Requesting a trade policy for the brazilian market. |
+| Personal Shopper is available in the following languages: English, Spanish, Portuguese, French, and German. | Personal Shopper is available in the following languages: english, spanish, portuguese, french, and german. |
+| Export to Excel | Export to excel |
+| Install Intelligent Search | Install intelligent search |
+| VTEX App Store | VTEX app store |
 
 Respect the capitalization of company names as used in their copy material (not their logo), whether it’s all caps, a capital letter in between, or all lowercase.
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| <ul><li>VTEX</li><li>SAP</li><li>ServiceNow</li></ul> | <ul><li>Vtex</li><li>vtex</li><li>Sap</li><li>Servicenow</li></ul> |
+| VTEX | <ul><li>Vtex</li><li>vtex</li></ul> |
+| SAP | Sap |
+| ServiceNow | Servicenow |
 
 If an official name begins with a lowercase letter, use it in lowercase even at the start of a sentence. If possible, rewrite the sentence to avoid a lowercase word at the beginning.
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ul><li>To configure the easypay affiliation, follow the steps below.</li><li>Checkout customization for easypay.</li><li>VTEX is the highest-ranked <i>Leader</i></li></ul>  | <ul><li>To configure the Easypay affiliation, follow the steps below.</li><li>easypay checkout customization</li><li>Vtex is the highest-ranked <i>Leader</i></li></ul> |
+| To configure the easypay affiliation, follow the steps below.  | To configure the Easypay affiliation, follow the steps below. |
+| Checkout customization for easypay.  | easypay checkout customization |
+| VTEX is the highest-ranked *Leader*  | Vtex is the highest-ranked *Leader* |
 
 ### Letters following slashes
 
@@ -48,7 +66,9 @@ When a slash joins words, capitalize the word after the slash if the word before
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ul><li>Items/Units</li><li>Note/Sales associate code</li><li>Package/Order number</li></ul>  | <ul><li>Items/units</li><li>Note/sales associate code</li><li>Package/order number</li></ul> |
+| Items/Units | Items/units |
+| Note/Sales associate code  | Note/sales associate code |
+| Package/Order number  | Package/order number |
 
 ### File formats
 
@@ -64,7 +84,8 @@ Capitalize the first word of labels and terms in APIs unless they're always lowe
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| • Create or update promotion endpoint <br> • The Conversions API | • Create Or Update Promotion endpoint <br> • The conversions API |
+| Create or update promotion endpoint | Create Or Update Promotion endpoint |
+| The Conversions API | The conversions API |
 
 ### Acronyms
 
@@ -72,7 +93,11 @@ Most acronyms are fully capitalized, but not all. Follow the standard form used 
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| • Renew the API token before the duration ends. <br> • This option involves using a third-party platform, known as Platform as a Service (PaaS). <br> • How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)? <br>•  Multiple redirects are possible in a single URL. <br> • A user ID screen is displayed so that the customer can continue trying to purchase.  | • Renew the api token before the duration ends. <br> • This option involves using a third-party platform, known as platform as a service (PAAS). <br> • How does VTEX ensure compliance with the general data protection regulation (GDPR)? <br> • Multiple redirects are possible in a single url. <br> • A user id screen is displayed so that the customer can continue trying to purchase. |
+| Renew the API token before the duration ends. | Renew the api token before the duration ends. |
+| This option involves using a third-party platform, known as Platform as a Service (PaaS).  | This option involves using a third-party platform, known as platform as a service (PAAS). |
+| How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)?  | How does VTEX ensure compliance with the general data protection regulation (GDPR)? |
+| Multiple redirects are possible in a single URL.  |  Multiple redirects are possible in a single url. |
+| A user ID screen is displayed so that the customer can continue trying to purchase.  | A user id screen is displayed so that the customer can continue trying to purchase. |
 
 ### Colons
 
@@ -88,12 +113,9 @@ Actions and nouns listed in action and content labels (including dropdown menus 
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ul><li>Edit</li><li>Export file</li><li>Import file</li></ul>  | <ul><li>edit</li><li>export file</li><li>import file</li></ul> |
-
-<br>
-
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
+| Edit  | edit |
+| Export file  | export file |
+| Import file  | import file |
 | Filter by status: <ul><li>Confirmed</li><li>Expired</li><li>Handled</li></ul> | Filter by status: <ul><li>confirmed</li><li>expired</li><li>handled</li></ul> |
 
 ## Documentation
