@@ -22,19 +22,21 @@ Avoid custom placeholder text. The user should intuitively know what information
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Search <br> • Select… | • Search by name <br> • Select an option... |
+| Search | Search by name |
+| Select… | Select an option... |
 
 Don't include redundant words.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Page title: Products <br> Field placeholder: Search by category or ID <br> • Field label: Category <br> Field placeholder: Select… | • Page title: Products <br> Field placeholder: Search by product category or product ID <br> • Field label: Category <br> Field placeholder: Select a category… |
+| • Page title: Products <br> Field placeholder: Search by category or ID| • Page title: Products <br> Field placeholder: Search by product category or product ID|
+| • Field label: Category <br> Field placeholder: Select… | • Field label: Category <br> Field placeholder: Select a category… |
 
 Write at most 36 characters.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Search by name, ID, or ref ID | • Search by name, category, description, ID, or ref ID |
+| Search by name, ID, or ref ID | Search by name, category, description, ID, or ref ID |
 
 ## Specific
 
@@ -42,4 +44,4 @@ When writing the placeholder text of a Select field, include an ellipsis at the 
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Select… | • Select |
+| Select… | Select |
