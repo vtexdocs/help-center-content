@@ -22,43 +22,48 @@ Use sentence case but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Give feedback <br> • Help Center | • Give Feedback <br> • Help center |
+| Give feedback | Give Feedback |
+| Help Center | Help center |
 
 Don't use punctuation, such as question marks or periods.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Page not found <br> • Delete user | • Page not found. <br> • Delete user? |
+| Page not found | Page not found. |
+| Delete user | Delete user? |
 
 Avoid using articles.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Add new seller | • Add a new seller |
+| Add new seller | Add a new seller |
 
 Don't use personal pronouns.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Application keys | • My application keys |
+| Application keys | My application keys |
 
 Keep it as short as possible while still being descriptive enough.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Inventory <br> • Campaigns | • Inventory management <br> • Store promotional campaigns |
+| Inventory | Inventory management |
+| Campaigns | Store promotional campaigns |
 
 Avoid redundancy, such as by omitting context present elsewhere.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Page title: <br> Products <br> • Titles inside page: <br> Products <br> Categories | • Page title: <br> Permissions <br> • Titles inside page: <br> Product permissions <br> Category permissions |
+| • Page title: <br> Products | • Page title: <br> Permissions |
+| • Titles inside page: <br> Products <br> Categories | • Titles inside page: <br> Product permissions <br> Category permissions |
 
 Don't use a marketing tone of voice.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Search <br> • New product | • VTEX Intelligent Search <br> • Quickly create a product |
+| Search | VTEX Intelligent Search |
+| New product | Quickly create a product |
 
 ## Specific
 
@@ -74,13 +79,15 @@ In a form page, when an item is being edited, use the name of the item as the pa
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Christmas discount <br> • New promotion | • Promotion <br> • Untitled promotion |
+| Christmas discount | Promotion |
+| New promotion | Untitled promotion |
 
 In a listing page, use the type of item being listed as the page title. Include only nouns in the plural form and avoid adding an unnecessary prefix or suffix.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Product <br> • Orders | • All products <br> • Orders listing |
+| Product | All products |
+| Orders | Orders listing |
 
 ### Modal
 
@@ -88,4 +95,5 @@ In a modal with a form or actions, use an action label as the title. If the moda
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Delete shipping policy <br> • Create release | • Shipping policy <br> • Create |
+| Delete shipping policy | Shipping policy |
+| Create release | Create |
