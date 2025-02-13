@@ -34,19 +34,23 @@ Reuse labels for the same action. Common labels can be found in the glossary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Add product <br> • View details <br> • Edit <br> • Rename | • Insert product <br> • See details <br> • Modify <br> • Change name |
+| Add product | Insert product |
+| View details | See details |
+| Edit | Modify |
+| Rename | Change name |
 
 Use sentence case but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Try new experience | • Try New Experience |
+| Try new experience | Try New Experience |
 
 Don’t use punctuation or personal pronouns and avoid articles.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Add product <br> • Preview content | • Add a product <br> • Preview my content |
+| Add product | Add a product |
+| Preview content | Preview my content |
 
 ## Specific
 
@@ -54,16 +58,20 @@ Use precise labels that reflect the exact action.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Publish <br> • Rename <br> • Learn more | • Confirm <br> • Edit <br> • Click here |
+| Publish | Confirm |
+| Rename | Edit |
+| Edit | Modify |
+| Learn more | Click here |
 
 When the context implies a single clear object, remove the object name from the label.
 
-| Do ✅                                        | Don't ❌                                      |
-| :------------------------------------------ | :------------------------------------------- |
-| • Content label: Product <br> Action label: Edit <br> • Content label: Order <br> Action label: Invoice | • Content label: Product <br> Action label: Edit product <br> • Content label: Order <br> Action label: Invoice order |
+| Do ✅ | Don't ❌ |
+| :---- | :---- |
+| <ul><li>Content label: Product Action</li><li>Action label: Edit</li></ul> | <ul><li>Content label: Product</li><li>Action label: Edit product</li></ul> |
+| <ul><li>Content label: Order</li><li>Action label: Invoice</li></ul> | <ul><li>Content label: Order</li><li>Action label: Invoice order</li></ul> |
 
 When a link is within a paragraph, it's not necessary to modify capitalization or start with a verb.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • This metric is only available for stores that <u>capture navigation data</u>. | • This metric is only available for stores that <u>Capture navigation data</u>. |
+| This metric is only available for stores that <u>capture navigation data</u>. | This metric is only available for stores that <u>Capture navigation data</u>. |
