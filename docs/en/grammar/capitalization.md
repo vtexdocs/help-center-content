@@ -20,7 +20,7 @@ Use sentence case capitalization for documentation, including headings and all U
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| • Create account <br> • Try new experience <br> • Getting started with Ad Network <br> • Starting the integration with Catalog <br> • Merchant ID <br> • Copy URL to clipboard <br> • Activate seller <br> • Deactivate seller <br> | • Create account <br> • Try New Experience <br> • Getting started with Ad Network <br> • Starting the integration with Catalog <br> • Merchant id <br> • Copy url to clipboard <br> • Activate Seller <br> • Deactivate Seller |
+| <ol><li>Create account</li><li>Try new experience</li><li>Getting started with Ad Network</li><li>Starting the integration with Catalog</li><li>Merchant ID</li><li>Copy URL to clipboard</li><li>Activate seller</li><li>Deactivate seller</li></ol> | <ol><li>Create Account</li><li>Try New Experience</li><li>Getting Started With Ad Network</li><li>Starting the Integration with Catalog</li><li>Merchant id</li><li>Copy url to clipboard</li><li>Activate Seller</li><li>Deactivate Seller</li></ol> |
 
 ### Proper nouns
 
@@ -36,7 +36,6 @@ Respect the capitalization of company names as used in their copy material (not 
 | :----- | :------- |
 | <ol><li>VTEX</li><li>SAP</li><li>ServiceNow</li></ol> | <ol><li>Vtex</li><li>vtex</li><li>Sap</li><li>Servicenow</li></ol> |
 
-
 If an official name begins with a lowercase letter, use it in lowercase even at the start of a sentence. If possible, rewrite the sentence to avoid a lowercase word at the beginning.
 
 | Do ✅ | Don't ❌ |
@@ -48,8 +47,8 @@ If an official name begins with a lowercase letter, use it in lowercase even at 
 When a slash joins words, capitalize the word after the slash if the word before the slash is capitalized.
 
 | Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| • Items/Units <br> • Note/Sales associate code <br> • Package/Order number | • Items/units <br> • Note/sales associate code <br> • Package/order number |
+| :---- | :-------- |
+| <ol><li>Items/Units</li><li>Note/Sales associate code</li><li>Package/Order number</li></ol>  | <ol><li>Items/units</li><li>Note/sales associate code</li><li>Package/order number</li></ol> |
 
 ### File formats
 
