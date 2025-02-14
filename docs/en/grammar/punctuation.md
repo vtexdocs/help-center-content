@@ -79,4 +79,4 @@ Use interrogation marks and personal pronouns only when confirming actions that 
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Are you sure you want to discard all changes? | <ol><li>>Want to discard all changes?</li><li>Are you sure you want to discard all changes</li></ol |
+| Are you sure you want to discard all changes? | <ol><li>Want to discard all changes?</li><li>Are you sure you want to discard all changes</li></ol> |
