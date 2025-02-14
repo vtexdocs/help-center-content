@@ -1,5 +1,5 @@
 ---
-title: 'Known Issue article'
+title: 'Known Issues article'
 id: edu0007
 status: PUBLISHED
 createdAt: 2025-02-06T15:00:00.388Z
