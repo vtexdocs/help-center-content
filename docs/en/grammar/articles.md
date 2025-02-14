@@ -30,7 +30,6 @@ Use articles when the message is longer and requires explanation.
 
 Do not use articles with proper nouns. The exceptions are when product names are treated as common nouns.
 
-
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | Use the integration with Intelligent search Order {orderId} will be canceled on Sales App | Use the integration with the Intelligent search. Order {orderId} will be canceled on the Sales App |

@@ -98,4 +98,4 @@ This guideline is the VTEX interpretation of stylistics as a discipline and expl
 | **Logical flow**            | Organize the content in a logical sequence that is easy to follow. | Start with an introduction, followed by detailed sections on specific topics. |
 | **Media and code examples** | Use media such as diagrams, screenshots, and code examples to enhance understanding. | Use screenshots, diagrams, and code snippets to illustrate examples and ensure accuracy. *Tip:* Diagrams, like platform or product architecture diagrams, can help illustrate complex processes or relationships. |
 
-For more details about these principles, see the [Foundations section](LINK).
+For more details about these principles, see the [Grammar](LINK) and [Formatting](LINK) sections.
