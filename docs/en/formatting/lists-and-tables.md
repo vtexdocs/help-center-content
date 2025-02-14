@@ -108,10 +108,6 @@ For bullet list items consisting of complete sentences, use a period at the end 
 
 Use a period if there are more elements, such as a callout, code example, or an image, between the introduction and the list.
 
-| Do ✅ | Don't ❌ |
-| ------ | -------- |
-| When you send the request, be sure to include the following fields. <code>{ "skuId": {sku-identification-number}", "quantity": "{product-identification-number}", "price": "{sku-price}"}</code> <br> <ol><li><code>skuId</code>: SKU identification code corresponding to the item.</li><li><code>quantity</code>: Item quantity.</li><code>price</code>: Item price in cents.</ol> | When you send the request, be sure to include the following fields: <code>{ "skuId": {sku-identification-number}", "quantity": "{product-identification-number}", "price": "{sku-price}"}</code> <br> <ol><li><code>skuId</code>: SKU identification code corresponding to the item.</li><li><code>quantity</code>: Item quantity.</li><code>price</code>: Item price in cents.</ol> |
-
 <details>
 <summary><b>Do ✅</b></summary>
 
@@ -119,9 +115,9 @@ When you send the request, be sure to include the following fields.
 
 ```sh
 { 
-    "skuId": {sku-identification-number}", 
-    "quantity": "{product-identification-number}", 
-    "price": "{sku-price}"
+  "skuId": {sku-identification-number}", 
+  "quantity": "{product-identification-number}", 
+  "price": "{sku-price}"
 }
 ```
 
@@ -134,15 +130,15 @@ When you send the request, be sure to include the following fields.
 <br>
 
 <details>
-<summary><b>Do ✅</b></summary>
+<summary><b>Don't ❌</b></summary>
 
 When you send the request, be sure to include the following fields:
 
 ```sh
 { 
-    "skuId": {sku-identification-number}", 
-    "quantity": "{product-identification-number}", 
-    "price": "{sku-price}"
+   "skuId": {sku-identification-number}", 
+   "quantity": "{product-identification-number}", 
+   "price": "{sku-price}"
 }
 ```
 
@@ -172,6 +168,22 @@ When creating a field, the following types are displayed:
 <br>
 
 <details>
+<summary><b>Don’t ❌</b></summary>
+
+When creating a field, the following types are displayed:
+| Field type |
+| ---------- |
+| **Auto Increment** |
+| **Boolean** |
+| **CEP** |
+
+</details>
+
+<br>
+
+Write an introductory sentence for the table and refer to the table's position using phrases like **the following table** or **the preceding table**.
+
+<details>
 <summary><b>Do ✅</b></summary>
 
 FastStore is a toolkit based on Jamstack that helps developers build high-performance stores. In the following table, see its main aspects:
@@ -181,20 +193,6 @@ FastStore is a toolkit based on Jamstack that helps developers build high-perfor
 | **Performance** | Ensures fast-loading stores and provides a good user experience, focusing on achieving high scores in tests like [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) and [Web Vitals](https://web.dev/articles/vitals#core-web-vitals).  |
 | **Stability** | Built to be stable and avoid crashes, so your store doesn't lose sales due to provider issues.  |
 | **Analytics/SEO** | Works with analytics tools to understand store customers and with SEO tools to improve store visibility in search results. |
-
-</details>
-
-<br>
-
-<details>
-<summary><b>Don’t ❌</b></summary>
-
-When creating a field, the following types are displayed:
-| Field type |
-| ---------- |
-| **Auto Increment** |
-| **Boolean** |
-| **CEP** |
 
 </details>
 
