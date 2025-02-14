@@ -128,4 +128,4 @@ Prefer to use the acronyms of file formats and capitalize them. When specifying 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | You can set up synonyms individually or by importing a spreadsheet in **CSV** format. | You can set up synonyms individually or by importing a spreadsheet in **csv** format. |
-| package.**json**: **JSON** file describing the dependencies, script commands for building, and version details. | package.**JSON**: **json** file describing the dependencies, script commands for building, and version details.</li></ol> |
+| package.**json**: **JSON** file describing the dependencies, script commands for building, and version details. | package.**JSON**: **json** file describing the dependencies, script commands for building, and version details. |
