@@ -24,19 +24,148 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 ## Writing app documentation
 
-| **Topic** | **Description** | **✅ Do** | **❌ Don’t** |
-| --- | --- | --- | --- |
-| **Target audience** | Identify your readers. | Differentiate between developers and business users. | Assume a single audience. |
-| **Learning objectives** | Define the user's takeaway. | Clearly state what users should learn. | Leave learning goals ambiguous. |
-| **Title** | Use a clear and concise title. | <ol><li>Use the app name and a verb describing the learning objective.</li><li>Capitalize the first letter of each word.</li></ol> | Include punctuation, version numbers, or the word `App`. |
-| **Introduction** | Briefly introduce the app and its benefits. | <ol><li>Summarize the app's purpose and user benefits.</li><li>Include an image and callouts for important notes.</li></ol>| Focus solely on technical details. |
-| **Before you begin (optional)** | List requirements before installation. | <ol><li>Use clear bullet points or checklists.</li><li>Use callouts if applicable.</li></ol> | Write lengthy paragraphs explaining prerequisites. |
-| **Installation** | Provide a step-by-step guide with code snippets (if applicable). | <ol><li>Provide clear and concise steps.<br></li>Enhance clarity with code snippets.<li></li></ol> | Skip steps or lack specific instructions. |
-| **Configuration** | Guide users through the app configuration. | List all essential settings with detailed steps as defined in the \[settingsSchema\](https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema). | Omit configuration details. |
-| **How it works** | (Optional) Detail the app functions and provide steps for using the app. | <ol><li>Use numbered lists for each operation, with clear and concise steps.</li><li>Use images to illustrate the UI.</li></ol> | Skip steps or lack specific instructions. |
-| **Customization** | (Optional) Provide steps for customizing the app. | <ol><li>Include <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization">CSS handles</a> and a related table if applicable.</li><li>Reference external documentation for CSS customization.</li></ol> | Ignore customization options. |
-| **Contributors** | (Optional) Acknowledge contributors. | Follow the [All-Contributors specification](https://github.com/all-contributors/all-contributors). | Omit recognition of contributors. |
-| **Callouts** | Highlight information using callouts. | Use the provided callout types (Information, Warning, Danger) with appropriate messages. | Use generic text to highlight information. |
+<details>
+<summary><b>Target audience</b></summary>
+
+**Description:** Identify your readers
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| Differentiate between developers and business users. | Assume a single audience. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Learning objective</b></summary>
+
+**Description:** Define the user's takeaway.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| Clearly state what users should learn. | Leave learning goals ambiguous. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Title</b></summary>
+
+**Description:** Use a clear and concise title.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Use the app name and a verb describing the learning objective.</li><li>Capitalize the first letter of each word.</li></ol> | Include punctuation, version numbers, or the word `App`. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Introduction</b></summary>
+
+**Description:** Briefly introduce the app and its benefits.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Summarize the app's purpose and user benefits.</li><li>Include an image and callouts for important notes.</li></ol>| Focus solely on technical details. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Before you begin (optional)</b></summary>
+
+**Description:** List requirements before installation.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Use clear bullet points or checklists.</li><li>Use callouts if applicable.</li></ol> | Write lengthy paragraphs explaining prerequisites. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Installation</b></summary>
+
+**Description:** Provide a step-by-step guide with code snippets (if applicable).
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Provide clear and concise steps.<br></li>Enhance clarity with code snippets.<li></li></ol> | Skip steps or lack specific instructions. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Configuration</b></summary>
+
+**Description:** Guide users through the app configuration.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| List all essential settings with detailed steps as defined in the <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema">settingsSchema</a>. | Omit configuration details. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>How it works</b></summary>
+
+**Description:** (Optional) Detail the app functions and provide steps for using the app.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Use numbered lists for each operation, with clear and concise steps.</li><li>Use images to illustrate the UI.</li></ol> | Skip steps or lack specific instructions. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Customization</b></summary>
+
+**Description:** (Optional) Provide steps for customizing the app.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| <ol><li>Include <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization">CSS handles</a> and a related table if applicable.</li><li>Reference external documentation for CSS customization.</li></ol> | Ignore customization options. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Contributors</b></summary>
+
+**Description:** (Optional) Acknowledge contributors.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| Follow the <a href="https://github.com/all-contributors/all-contributors">All-Contributors specification</a>. | Omit recognition of contributors. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Callouts</b></summary>
+
+**Description:** (Optional) Acknowledge contributors.
+
+| **✅ Do** | **❌ Don’t** |
+| :--- | :--- |
+| Highlight information using callouts. | Use the provided callout types (Information, Warning, Danger) with appropriate messages. | Use generic text to highlight information. |
+
+</details>
+
+<br>
 
 ## App documentation template
 
