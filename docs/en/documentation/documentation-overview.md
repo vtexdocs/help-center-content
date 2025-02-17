@@ -52,9 +52,9 @@ To help you define the audience, answer the following questions:
 
 At VTEX, we have the following audience as our documentation readers:
 
-| Audience type | Description   |
-| :------------ | :------------ |
-| **Beginner**  | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
+| Audience type        | Description   |
+| :------------------- | :------------ |
+| **Beginner**         | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
 | **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that they can’t solve by themselves. |
 | **Highly Technical** | Builds or integrates technical solutions with VTEX. They work on store implementations, app development with our solutions, and integrations with partner systems via VTEX APIs. This audience requires in-depth technical documentation that describes the characteristics of all our features and indicates how to address business needs. |
 
@@ -89,10 +89,10 @@ To help you define the documentation context, see the checklist below:
 
 This guideline is the VTEX interpretation of stylistics as a discipline and explains particular language choices when creating functional and technical content about our platform.
 
-| Principle  | Orientation  | Usage  |
-| :--------- | :----------- | :----- |
+| Principle                   | Orientation  | Usage  |
+| :-------------------------- | :----------- | :----- |
 | **Clarity and conciseness** | 1. Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps. <br> 2. Use clear and informative headings and subheadings to guide readers through the documentation.| 1. Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.* <br> 2. Use headings like *Getting started*, *Instructions*, and *Advanced features*.   |
-| **Consistency**      | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
+| **Consistency**             | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
 | **Completeness**            | Make sure the documentation is both comprehensive and concise, covering all relevant topics with enough detail. | If you’re documenting a feature, include information on how to use it, common use cases, and potential troubleshooting steps. |
 | **Usability**               | Consider the user's perspective and write the documentation in a way that is easy to navigate and use. | Use clear headings, subheadings, and bullet points to organize the content. |
 | **Logical flow**            | Organize the content in a logical sequence that is easy to follow. | Start with an introduction, followed by detailed sections on specific topics. |
