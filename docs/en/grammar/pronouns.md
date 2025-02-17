@@ -24,7 +24,7 @@ Always address the reader as you. Use the words *user, merchant, or seller* only
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates</b> section, check the checkbox of the offers that you want to include in the promotional campaign.</li></ol>  | In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol>In the <b>Candidates section</b>, check the checkbox of the offers that the seller wants to include in the promotional campaign.</ol> |
+| In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates</b> section, check the checkbox of the offers that you want to include in the promotional campaign.</li></ol>  | In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates section</b>, check the checkbox of the offers that the seller wants to include in the promotional campaign.</li></ol> |
 
 Use first-person plural pronouns (*we, our, us*) to refer to VTEX as author of the document when necessary.
 
