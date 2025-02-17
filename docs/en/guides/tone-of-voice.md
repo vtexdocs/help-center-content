@@ -31,11 +31,11 @@ When writing documentation or creating a new interface, we are guiding the users
 
 We address the following audiences:
 
-| Audience type | Description |
-| --- | --- |
-| **Beginner** | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
-| **Operational** | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that need help to be solvedcannot be solved alone. |
-| **Highly Technical** | Builds or integrates technical solutions with VTEX. Works on store implementations and app development with our solutions, and integrations with partner systems via VTEX APIs, andor. Requires in-depth technical documentation that shows the characteristics of all our features and indicates how to solve business needs. | 
+| Audience type        | Description |
+| -------------------- | ----------- |
+| **Beginner**         | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
+| **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that need help to be solvedcannot be solved alone. |
+| **Highly Technical** | Builds or integrates technical solutions with VTEX. Works on store implementations and app development with our solutions, and integrations with partner systems via VTEX APIs, andor. Requires in-depth technical documentation that shows the characteristics of all our features and indicates how to solve business needs. |
 
 ## Voice - Personality
 
@@ -47,7 +47,7 @@ This means we write with authority and to the point (boldness). This helps us bu
 VTEX is not the hero, **the audience is the hero, and VTEX is their guide**. We have so much to deliver to the world, and we tend to place ourselves as protagonists. Let's change this approach: when we present ourselves as a guide, we become the help they need to overcome their challenges. Let's see some examples:
 
 **Talking to anybody**  
-*In the Admin platform, users can create fully customized landing pages to suit their needs, such as showcasing special offers, highlighting promotions, or featuring other engaging content to enhance the user experience.* 
+*In the Admin platform, users can create fully customized landing pages to suit their needs, such as showcasing special offers, highlighting promotions, or featuring other engaging content to enhance the user experience.*
 
 **Relatable**  
 *In the Admin, you can create customized landing pages, such as pages for special offers or promotions.* 
@@ -56,10 +56,10 @@ VTEX is not the hero, **the audience is the hero, and VTEX is their guide**. We 
 **It’s never about us**. We believe that our communication strategy is the most powerful resource to start a conversation, so it's crucial to understand **who we are talking to.** We talk to people who have a tech background. So our messaging should resonate with their expertise, using clear and direct language while addressing their specific challenges and needs. By focusing on practical solutions and technical insights, we aim to create meaningful connections and provide real value to merchants.
 
 **Generic**  
-*This feature allows merchants to display products that are most relevant to customers and to add or hide pre-selected products from search results, offering greater flexibility in tailoring the shopping experience.* 
+*This feature allows merchants to display products that are most relevant to customers and to add or hide pre-selected products from search results, offering greater flexibility in tailoring the shopping experience.*
 
 **Empowering**  
-*This feature allows you to display products that are more relevant to the customer and to add or hide pre-selected products from the search results.* 
+*This feature allows you to display products that are more relevant to the customer and to add or hide pre-selected products from the search results.*
 
 ## Concise messages
 
