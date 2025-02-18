@@ -24,12 +24,49 @@ In this guide, you’ll see the available template, general guidelines, and exam
 
 While both [tutorial](LINK) and how-to guide are instructional resources, they have some differences in their structure and purpose:
 
-| **Topic** | **Tutorial** | **How-to guide** |
-| --------- | ------------ | ---------------- |
-| **Purpose** | Learning-oriented. Teaches a broader concept, skill, or process in detail. | Task-oriented. Focus on helping the user complete a specific task or goal. |
-| **Scope**   | Covers a series of steps or concepts, often related to learning a new skill. | Narrow in scope, typically covering one task or process divided into steps. |
-| **Content** | Educational, offering context, background, and explanations. | Practical, with direct, task-oriented instructions. |
-| **Audience**  | Users who want to learn a skill or understand a concept deeply. | Users who need to quickly achieve a specific goal, usually with prior knowledge. |
+<details>
+<summary><b>Purpose</b></summary>
+
+| **Tutorial** | **How-to guide** |
+| ------------ | ---------------- |
+| Learning-oriented. Teaches a broader concept, skill, or process in detail. | Task-oriented. Focus on helping the user complete a specific task or goal. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Scope</b></summary>
+
+| **Tutorial** | **How-to guide** |
+| ------------ | ---------------- |
+| Covers a series of steps or concepts, often related to learning a new skill. | Narrow in scope, typically covering one task or process divided into steps. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Content</b></summary>
+
+| **Tutorial** | **How-to guide** |
+| ------------ | ---------------- |
+| Educational, offering context, background, and explanations. | Practical, with direct, task-oriented instructions. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Audience</b></summary>
+
+| **Tutorial** | **How-to guide** |
+| ------------ | ---------------- |
+| Users who want to learn a skill or understand a concept deeply. | Users who need to quickly achieve a specific goal, usually with prior knowledge. |
+
+</details>
+
+<br>
 
 ## Writing a how-to guide
 
