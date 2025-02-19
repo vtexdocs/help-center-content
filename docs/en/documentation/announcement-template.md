@@ -17,7 +17,7 @@ trackSlugEN: announcement-template
 An announcement informs users about new features, improvements, bug fixes, and other product and system updates.
 In this guide, you’ll see general guidelines, the announcement template, and examples.
 
-> ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](LINK).
+> ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
 ## Writing an announcement
 
