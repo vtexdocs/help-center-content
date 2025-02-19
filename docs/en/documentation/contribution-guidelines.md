@@ -68,7 +68,7 @@ By clicking `Suggest edits (GitHub)`, a new browser window will open with the do
 
 1. In the documentation repository page, edit the documentation file that corresponds to your suggestions.  
 
-   > ⚠️ Make sure to apply your suggestions based on the [documentation guidelines principles](https://deploy-preview-4--language-hub.netlify.app/docs/documentation/documentation-overview#documentation-guidelines-principles) and the [code of conduct](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md) and maintain the documentation structure aligned with its [template](LINK).  
+   > ⚠️ Make sure to apply your suggestions based on the [documentation guidelines principles](https://contentguide.vtex.com/docs/documentation/documentation-overview#documentation-guidelines-principles) and the [code of conduct](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md).  
 
 2. Click `Commit changes…`.  
 3. In the **Propose changes** modal, complete the following:
