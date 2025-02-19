@@ -18,7 +18,7 @@ Troubleshooting articles help users find practical solutions to problems they ma
 
 In this guide, you’ll see the available templates, general guidelines, and examples of troubleshooting articles.
 
-> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://deploy-preview-4--language-hub.netlify.app/docs/documentation/best-practices-for-writing-documentation).
+> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
 ## Writing a troubleshooting article
 

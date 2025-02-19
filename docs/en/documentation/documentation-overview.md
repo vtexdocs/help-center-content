@@ -33,7 +33,7 @@ At VTEX, we offer resources where you can find guides, tutorials, learning paths
 
 At VTEX, our goal for documentation is to make everything as simple and clear as possible for users working with or interested in VTEX solutions.
 
-We welcome contributions to VTEX documentation and encourage you to help improve the user experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. Check our [Contribution Guidelines](https://language-hub.netlify.app/docs/documentation/contribution-guidelines) for more information.
+We welcome contributions to VTEX documentation and encourage you to help improve the user experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. Check our [Contribution Guidelines](https://contentguide.vtex.com/docs/documentation/contribution-guidelines) for more information.
 
 ### Define the documentation structure
 
@@ -98,4 +98,4 @@ This guideline is the VTEX interpretation of stylistics as a discipline and expl
 | **Logical flow**            | Organize the content in a logical sequence that is easy to follow. | Start with an introduction, followed by detailed sections on specific topics. |
 | **Media and code examples** | Use media such as diagrams, screenshots, and code examples to enhance understanding. | Use screenshots, diagrams, and code snippets to illustrate examples and ensure accuracy. *Tip:* Diagrams, like platform or product architecture diagrams, can help illustrate complex processes or relationships. |
 
-For more details about these principles, see the [Grammar](LINK) and [Formatting](LINK) sections.
+For more details about these principles, see the [Grammar](https://contentguide.vtex.com/docs/grammar) and [Formatting](https://contentguide.vtex.com/docs/formatting) sections.

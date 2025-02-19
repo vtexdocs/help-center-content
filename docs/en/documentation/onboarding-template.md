@@ -18,7 +18,7 @@ Onboarding articles introduce new users to a specific technology, tool, or syste
 
 In this guide, you'll see the available template, general guidelines, and examples of Onboarding articles in this guide.
 
-> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://deploy-preview-4--language-hub.netlify.app/docs/documentation/best-practices-for-writing-documentation).
+> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
 ## Writing an onboarding article
 
