@@ -3,7 +3,7 @@ name: Help Center Files Scraper
 on:
   pull_request:
     branches:
-      - main
+      - scrapper-tests
     types: [closed]
 
 jobs:
