@@ -34,7 +34,7 @@ jobs:
           echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
       - uses: actions/checkout@v2
       - name: Helpcenter Scraper
-        uses: vtexdocs/devportal-docsearch-action@main
+        uses: vtexdocs/devportal-docsearch-action@PedroAntunesCosta-spider-1
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
