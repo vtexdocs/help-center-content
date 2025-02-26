@@ -39,7 +39,7 @@ const navigation = { navbar: [
       es: 'Tutoriales',
       pt: 'Tutoriais'
     },
-    slugPrefix: 'docs/tutorial',
+    slugPrefix: 'docs/tutorials',
     categories: []
   },
   {

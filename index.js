@@ -690,7 +690,7 @@ legacySlug: ${legacySlugPT}
 
 ${textPT}
 `;
-    fileFolders = "faq";
+    fileFolders = "faqs";
     fileSubFolder = productTeam;
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
