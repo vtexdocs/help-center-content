@@ -15,6 +15,8 @@ legacySlug: assembly-options-pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
+teste
+
 >⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Uma Assembly Option é um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
