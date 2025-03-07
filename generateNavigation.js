@@ -59,7 +59,7 @@ const navigation = { navbar: [
       es: 'Preguntas frecuentes',
       pt: 'Perguntas frequentes'
     },
-    slugPrefix: 'faqs',
+    slugPrefix: 'faq',
     categories: []
   },
   {
@@ -305,9 +305,9 @@ function getNews() {
 
 function getFaq() {
   console.log('Getting FAQs...')
-  const enDir = 'docs/en/faqs';
-  const ptDir = 'docs/pt/faqs';
-  const esDir = 'docs/es/faqs';
+  const enDir = 'docs/en/faq';
+  const ptDir = 'docs/pt/faq';
+  const esDir = 'docs/es/faq';
 
   const enCategories = fs.readdirSync(enDir, { withFileTypes: true }).filter(dirent => dirent.isDirectory());
   const faq = {};
@@ -368,7 +368,7 @@ function getFaq() {
         pt: category,
         es: category
       },
-      slug: `faqs/${category}`,
+      slug: `faq/${category}`,
       origin: '',
       type: 'category',
       children: faq[category]
