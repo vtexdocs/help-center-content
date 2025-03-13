@@ -1,5 +1,5 @@
 ---
-title: 'O teste deu certoo b'
+title: 'O teste deu certoo d'
 id: 3BHM289568gcSwk2O80Asu
 status: CHANGED
 createdAt: 2018-07-26T18:09:29.968Z
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: acessar-o-ambiente-beta-pelo-dominio-myvtex-com
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
 ---
+
+TESTE
 
 Na VTEX, todas as lojas possuem um ambiente beta. Neste local, o usuário da plataforma (lojista, desenvolvedor ou outra pessoa com acesso) pode realizar testes para validar novas configurações  ou versões de aplicações/serviços antes de promover as mudanças no ambiente em que os clientes realizam as compras, também conhecido como ambiente de produção (stable).
 
