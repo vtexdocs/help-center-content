@@ -1,4 +1,5 @@
-name: Help Center batch files scraper
+# Workflow to manually trigger the scraping of all help center documentation files
+name: "Help Center batch files scraper"
 
 on:
   workflow_dispatch:
