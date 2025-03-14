@@ -3,23 +3,98 @@ name: "Help Center batch files scraper"
 
 on:
   workflow_dispatch:
+    inputs:
+      directory:
+        description: 'Directory to process (if empty, will process all directories in docs/)'
+        required: false
+        type: string
 
 jobs:
-  scrape-files:
+  find-dirs:
+    if: inputs.directory == ''
     runs-on: ubuntu-latest
-    name: Scraper running
+    name: Find directories to process
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Find Markdown files
+      - name: Get directories with markdown files
+        id: find-dirs
+        run: |
+          # Ensure we're only searching in docs/ directory
+          if [ ! -d "docs" ]; then
+            echo "Error: docs directory not found!"
+            exit 1
+          fi
+          
+          # Find all unique directories containing markdown files in docs/
+          DIRS=$(cd docs && find . -type f \( -name "*.md" -o -name "*.mdx" \) -exec dirname {} \; | sort -u | sed 's|^.|docs|')
+          
+          if [ -z "$DIRS" ]; then
+            echo "No markdown files found in docs/ directory!"
+            exit 1
+          fi
+          
+          echo "Found directories:"
+          echo "$DIRS"
+          echo "directories<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$DIRS" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger processing for each directory
+        # This step triggers a new workflow run for each directory found
+        # It reads the directories list from the previous step's output
+        # and uses the GitHub CLI (gh) to start a new workflow run
+        # for each directory, passing the directory path as an input parameter
+        run: |
+          while IFS= read -r dir; do
+            if [ ! -z "$dir" ]; then
+              echo "Triggering workflow for directory: $dir"
+              # This line triggers a new run of this same workflow
+              # but with the directory parameter set, which will
+              # make it execute the process-dir job instead
+              gh workflow run docsearch-scraper-batch.yml -f directory="$dir"
+              # Add a small delay to avoid rate limits
+              sleep 2
+            fi
+          done <<< "${{ steps.find-dirs.outputs.directories }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  process-dir:
+    if: inputs.directory != ''
+    runs-on: ubuntu-latest
+    name: Process directory
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find files in directory
         id: find-files
         run: |
-          FILES=$(find docs -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ' ')
-          echo "files=$FILES" >> "$GITHUB_ENV"
+          DIR="${{ inputs.directory }}"
+          # Validate that the directory is within docs/
+          if [[ "$DIR" != docs/* ]]; then
+            echo "Error: Can only process directories within docs/"
+            exit 1
+          fi
+          
+          echo "Processing directory: $DIR"
+          if [ ! -d "$DIR" ]; then
+            echo "Error: Directory $DIR not found!"
+            exit 1
+          fi
+          
+          FILES=$(find "$DIR" -maxdepth 1 -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ' ')
+          if [ -z "$FILES" ]; then
+            echo "No markdown files found in $DIR"
+          else
+            echo "Found files: $FILES"
+          fi
           echo "files=$FILES" >> "$GITHUB_OUTPUT"
-      
+
       - name: Helpcenter Scraper
+        if: steps.find-files.outputs.files != ''
         uses: vtexdocs/devportal-docsearch-action@main
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
