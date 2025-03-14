@@ -1,4 +1,4 @@
-name: Help Center Files Scraper
+name: Help Center changed files scraper
 
 on:
   pull_request:

@@ -1,0 +1,28 @@
+# Workflow to manually trigger the scraping of all help center documentation files
+name: "Help Center batch files scraper"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape-files:
+    runs-on: ubuntu-latest
+    name: Scraper running
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find Markdown files
+        id: find-files
+        run: |
+          FILES=$(find docs -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ' ')
+          echo "files=$FILES" >> "$GITHUB_ENV"
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+      
+      - name: Helpcenter Scraper
+        uses: vtexdocs/devportal-docsearch-action@main
+        with:
+          algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
+          algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
+          files: './configs/scraper_helpcenter_files.json'
+          added: ${{ steps.find-files.outputs.files }}
