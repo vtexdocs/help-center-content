@@ -15,6 +15,8 @@ legacySlug: accessing-the-beta-environment
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
 ---
 
+TESTE
+
 On VTEX, all stores have a beta environment, where platform users (sales associates, developers, or other authorized users) can run tests to validate new settings or versions of applications/services before making changes to the stable environment.
 
 >ℹ️ The beta environment is an exact replica of the stable environment, including store data and configurations.
