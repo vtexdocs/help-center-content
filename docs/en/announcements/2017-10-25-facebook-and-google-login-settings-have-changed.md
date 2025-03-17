@@ -15,6 +15,8 @@ announcementImageID: ''
 announcementSynopsisEN: 'The flag "Use VTEX keys" has been disabled and the retailer needs to set up his own'
 ---
 
+TESTE
+
 Login via Facebook and Google is a powerful feature used by hundreds of VTEX stores. And the configuration of this functionality has changed. So stay tuned.
 
 The flag __Use VTEX keys__, which previously activated the use of data provided by VTEX for login operation, has been disabled.

@@ -14,6 +14,8 @@ locale: en
 legacySlug: vtex-support-emea
 ---
 
+TESTE
+
 This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Europe, the Middle East, and Africa (EMEA).** For a broader perspective of our global support resources, see: [How does VTEX support work?](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)
 
 >ℹ️ If the Support team identifies that a ticket was opened incorrectly, they will recommend the most appropriate resource to use, and this assessment can be made at any time during the resolution process.

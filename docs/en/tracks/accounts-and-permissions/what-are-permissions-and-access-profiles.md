@@ -14,6 +14,8 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: accounts-and-permissions
 ---
 
+TESTE
+
 To organize the permissions of users who have access to the VTEX store administrative environment, the platform works with **roles**.
 
 Roles define which resources the user can view and/or change within each module of the platform. Each profile gives permission to access different areas and resources of the Admin.

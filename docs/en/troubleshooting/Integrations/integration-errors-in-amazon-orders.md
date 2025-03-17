@@ -16,6 +16,8 @@ subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags: Orders, Integration, Marketplace, Amazon
 ---
 
+TESTE
+
 When an integration error occurs in orders between **Amazon** and a store, an error message is displayed for each affected order. To check if an order has integration errors, in the VTEX Admin, go to **Marketplace > Connections > Orders**, or type **Orders** in the search bar.
 
 The most common errors in Amazon orders are:
