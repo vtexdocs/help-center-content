@@ -124,7 +124,7 @@ Actions and nouns listed in action and content labels (including dropdown menus 
 
 Follow the capitalization used on the UI including labels, buttons, and VTEX Admin module names. This also applies to UI from other platforms.
 
-![Google Tag Manager example](https://github.com/vtexdocs/language-hub-content/blob/main/images/en/capitalization.png?raw=true)
+![Google Tag Manager example](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/capitalization.png?raw=true)
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
