@@ -28,7 +28,7 @@ This article presents the availability, SLA, and additional support resources av
     <tr class="bb b--muted-3">
       <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Priority</th>
      <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Average first response time</th>
-          <th class=> Average next response time</th>
+          <th class> Average next response time</th>
            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Description</th>
     </tr>
   </thead>
