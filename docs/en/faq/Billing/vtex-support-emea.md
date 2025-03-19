@@ -46,10 +46,10 @@ This article presents the availability, SLA, and additional support resources av
       <td class="t-body pa5" style="min-width: 10rem;">High</td>
       <td class="t-body pa5" style="min-width: 15rem;">2 hours</td>
       <td class="t-body pa5" style="min-width: 20rem;">8 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">
         <p>Important features of your VTEX store are unavailable or extremely slow, with no viable alternative to overcome the problem.</p>
         <p><em>Example: A promotion is not being applied or products are not being sent from a
-Seller to a Marketplace.
-</em></p>
+Seller to a Marketplace.</em></p>
       </td>
     </tr>
     <tr class="bb b--muted-3">
@@ -77,7 +77,7 @@ viable alternative to overcome the problem.</p>
 
 Keep in mind that our first response time calculation is based on working hours. The criteria for ticket urgency are defined in the section below.  
 
->⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
+>⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store's operation, as described in [Ticket Urgency](#ticket-urgency).
 
 ## Ticket urgency
 
@@ -114,8 +114,8 @@ Urgent tickets report critical problems that have a direct impact on sales. The 
             <td class="t-body pa5" style="min-width: 15rem;">Unable to Fulfill Order</td>
             <td class="t-body pa5" style="min-width: 15rem;">
               <ul>
-                <li>Orders status isn’t being updated</li>
-                <li>Order feed or hook isn’t working</li>
+                <li>Orders status isn't being updated</li>
+                <li>Order feed or hook isn't working</li>
               </ul>
             </td>
         </tr>
@@ -147,80 +147,51 @@ The following table lists the scenarios we consider when ranking ticket priority
         </tr>
     </thead>
     <tr class="bb b--muted-3">
-        <td>Financial
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">Financial</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td rowspan="8" >Technical
-        </td>
-        <td>Question
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
+        <td rowspan="8" class="t-body pa5" style="min-width: 15rem;">Technical</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Question</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td>Task
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">Task</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td rowspan="6" >Incident
-        </td>
-        <td rowspan="3" >Internal
-        </td>
-        <td>Low
-        </td>
-        <td>Low
-        </td>
+        <td rowspan="6" class="t-body pa5" style="min-width: 15rem;">Incident</td>
+        <td rowspan="3" class="t-body pa5" style="min-width: 15rem;">Internal</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td>Moderate
-        </td>
-        <td>Normal
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">Moderate</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Normal</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td>High
-        </td>
-        <td>High
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td rowspan="3" >External / All
-        </td>
-        <td>Low
-        </td>
-        <td>Normal
-        </td>
+        <td rowspan="3" class="t-body pa5" style="min-width: 15rem;">External / All</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Normal</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td>Moderate
-        </td>
-        <td>High
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">Moderate</td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
     </tr>
     <tr class="bb b--muted-3">
-        <td>High
-        </td>
-        <td>Urgent
-        </td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Urgent</td>
     </tr>
 </table>
 
