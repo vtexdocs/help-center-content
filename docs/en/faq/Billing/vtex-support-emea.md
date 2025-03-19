@@ -22,6 +22,58 @@ This article presents the availability, SLA, and additional support resources av
 
 ## Availability
 
+<div class="overflow-x-auto">
+<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
+  <thead>
+    <tr class="bb b--muted-3">
+      <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Priority</th>
+     <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Average first response time</th>
+          <th class> Average next response time</th>
+           <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="bb b--muted-3">
+      <td class="t-body pa5" style="min-width: 10rem;">Urgent</td>
+      <td class="t-body pa5" style="min-width: 15rem;">1 hour</td>
+      <td class="t-body pa5" style="min-width: 20rem;">2 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">
+        <p>Your VTEX store in production is unavailable or completely unusable, with allcustomers or all regions affected.</p>
+        <p><em>Example: VTEX returning error 502.</em></p>
+      </td>
+    </tr>
+    <tr class="bb b--muted-3">
+      <td class="t-body pa5" style="min-width: 10rem;">High</td>
+      <td class="t-body pa5" style="min-width: 15rem;">2 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">8 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">
+        <p>Important features of your VTEX store are unavailable or extremely slow, with no viable alternative to overcome the problem.</p>
+        <p><em>Example: A promotion is not being applied or products are not being sent from a
+Seller to a Marketplace.</em></p>
+      </td>
+    </tr>
+    <tr class="bb b--muted-3">
+      <td class="t-body pa5" style="min-width: 10rem;">Normal</td>
+      <td class="t-body pa5" style="min-width: 15rem;">2 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">8 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">
+        <p>Important features of your VTEX store are unavailable or slow, but there is a
+viable alternative to overcome the problem.</p>
+        <p><em>Example:  A known issue impacts your use of VTEX, but a workaround is being used as a temporary solution.</em></p>
+      </td>
+    </tr>
+    <tr class="bb b--muted-3">
+      <td class="t-body pa5" style="min-width: 10rem;">Low</td>
+      <td class="t-body pa5" style="min-width: 15rem;"> 2 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">8 hours</td>
+      <td class="t-body pa5" style="min-width: 20rem;">
+        <p>Calls to the finance team, tasks or questions about features or documentation.</p>
+        <p><em>Example: "Is it possible to configure local holidays on the platform?"</em></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 Keep in mind that our first response time calculation is based on working hours. The criteria for ticket urgency are defined in the section below.  
 
