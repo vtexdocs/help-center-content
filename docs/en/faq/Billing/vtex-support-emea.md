@@ -83,12 +83,116 @@ Keep in mind that our first response time calculation is based on working hours.
 
 Urgent tickets report critical problems that have a direct impact on sales. The table below lists the scenarios we consider when classifying ticket urgency.
 
-
+<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
+    <thead>
+        <tr class="bb b--muted-3">
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Scenario</th>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="bb b--muted-3">
+            <td class="t-body pa5" style="min-width: 15rem;">VTEX Platform Unavailable</td>
+            <td class="t-body pa5" style="min-width: 15rem;">
+              <ul>
+                <li>Storefront or Admin completely down</li>
+                <li>Open incident in our <a href="https://status.vtex.com" target="_blank">status page</a></li>
+              </ul>
+            </td>
+        </tr>
+        <tr class="bb b--muted-3">
+            <td class="t-body pa5" style="min-width: 15rem;">Checkout Unavailable</td>
+            <td class="t-body pa5" style="min-width: 15rem;">
+              <ul>
+                <li>Shipping calculations preventing orders from being placed</li>
+                <li>Taxes not being calculated preventing orders from being placed</li>
+                <li>Shopping cart or checkout pages not loading (completely down)</li>
+              </ul>
+            </td>
+        </tr>
+        <tr class="bb b--muted-3">
+            <td class="t-body pa5" style="min-width: 15rem;">Unable to Fulfill Order</td>
+            <td class="t-body pa5" style="min-width: 15rem;">
+              <ul>
+                <li>Orders status isn't being updated</li>
+                <li>Order feed or hook isn't working</li>
+              </ul>
+            </td>
+        </tr>
+        <tr class="bb b--muted-3">
+            <td class="t-body pa5" style="min-width: 15rem;">Store Usability Unavailable</td>
+            <td class="t-body pa5" style="min-width: 15rem;">
+              <ul>
+                <li>Unable to add to cart</li>
+                <li>Unable to register on the site</li>
+                <li>Onsite search not responding</li>
+              </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Ticket Priorities
 
 The following table lists the scenarios we consider when ranking ticket priority based on how the ticket forms were filled out.  
 
-
+<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
+    <thead>
+        <tr class="bb b--muted-3">
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Source</th>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Type</th>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Users impacted</th>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Impact</th>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Priority</th>
+        </tr>
+    </thead>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">Financial</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td rowspan="8" class="t-body pa5" style="min-width: 15rem;">Technical</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Question</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">Task</td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;"></td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td rowspan="6" class="t-body pa5" style="min-width: 15rem;">Incident</td>
+        <td rowspan="3" class="t-body pa5" style="min-width: 15rem;">Internal</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">Moderate</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Normal</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td rowspan="3" class="t-body pa5" style="min-width: 15rem;">External / All</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Low</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Normal</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">Moderate</td>
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+    </tr>
+    <tr class="bb b--muted-3">
+        <td class="t-body pa5" style="min-width: 15rem;">High</td>
+        <td class="t-body pa5" style="min-width: 15rem;">Urgent</td>
+    </tr>
+</table>
 
 The priority of a ticket may change over time, based on VTEX's analysis of the impact of the request. You can check the priority of your open requests through the [support panel](https://support.vtex.com/hc/en/requests).
