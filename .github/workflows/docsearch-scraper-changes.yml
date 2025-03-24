@@ -23,16 +23,16 @@ jobs:
           separator: ","
       - name: Printing
         run: |
-          echo "All:"
-          echo "${{ steps.changed-files.outputs.all_changed_files }}"
-          echo "Added:"
-          echo "${{ steps.changed-files.outputs.added_files }}"
-          echo "Deleted:"
-          echo "${{ steps.changed-files.outputs.deleted_files }}"
-          echo "Modified:"
-          echo "${{ steps.changed-files.outputs.modified_files }}"
-          echo "Renamed:"
-          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
+          echo "All files:"
+          echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ',' '\n'
+          echo "Added files:"
+          echo "${{ steps.changed-files.outputs.added_files }}" | tr ',' '\n'
+          echo "Deleted files:"
+          echo "${{ steps.changed-files.outputs.deleted_files }}" | tr ',' '\n'
+          echo "Modified files:"
+          echo "${{ steps.changed-files.outputs.modified_files }}" | tr ',' '\n'
+          echo "Renamed files:"
+          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" | tr ',' '\n'
       - name: Process files
         id: process-files
         run: |
@@ -72,7 +72,11 @@ jobs:
 
             while [ $attempt -le $max_attempts ]; do
               echo "Attempt $attempt of $max_attempts"
-              if docker run --rm \
+              
+              # Create a temporary script to run docker with the arguments
+              local docker_script=$(mktemp)
+              cat > "$docker_script" << EOF
+              docker run --rm \
                 -v ${{ github.workspace }}:/app \
                 -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
                 -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
@@ -81,8 +85,11 @@ jobs:
                 --added "$added" \
                 --updated "$modified" \
                 --removed "$deleted" \
-                --renamed "$renamed" 2>&1 | tee "$temp_log"; then
-                rm "$temp_log"
+                --renamed "$renamed"
+              EOF
+
+              if bash "$docker_script" 2>&1 | tee "$temp_log"; then
+                rm "$temp_log" "$docker_script"
                 return 0
               fi
 
@@ -116,14 +123,14 @@ jobs:
                     "${deleted_chunks[$i]}" \
                     "${renamed_chunks[$i]}"
                 done
-                rm "$temp_log"
+                rm "$temp_log" "$docker_script"
                 return 0
               else
                 echo "Different error occurred, retrying..."
                 ((attempt++))
               fi
             done
-            rm "$temp_log"
+            rm "$temp_log" "$docker_script"
             return 1
           }
 
