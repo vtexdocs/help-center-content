@@ -1,0 +1,58 @@
+---
+title: 'Inserting and configuring placeholders'
+id: mWRZsbb2vbSxFQxeSmpLb
+status: ARCHIVED
+createdAt: 2020-01-09T15:09:14.661Z
+updatedAt: 2022-01-10T22:33:37.755Z
+publishedAt: 
+firstPublishedAt: 2020-01-13T14:29:41.300Z
+contentType: trackArticle
+productTeam: Marketing & Merchandising
+slugEN: inserting-and-configuring-placeholders
+locale: en
+trackId: 2YcpgIljVaLVQYMzxQbc3z
+trackSlugEN: cms
+---
+
+Placeholders allow the store to insert four types of elements on its page:
+- Banner
+- DHTML Banner
+- Collection
+- HTML
+
+In practice, a placeholder is a configurable snippet of code that meets store-defined conditions.
+
+For example, you could insert a placeholder on the homepage and set it as a banner; and then pick three different images for this banner, each activated on a specific date range.
+
+### Inserting the placeholder in the template
+
+First of all, to create a new placeholder, you need to insert the control that will define it in the template.
+
+This is the placeholder control: `<vtex:contentPlaceHolder id="" />`
+
+It creates a configurable element in the part of the code where it is inserted.
+
+It is important to enter an `id` value. It will be the identifier of that placeholder in the system.
+
+
+![6 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/inserting-and-configuring-placeholders_1.png)
+
+### Configuring the placeholder
+
+Once the placeholder control has been inserted into the template, you can configure it in the settings of the layout that uses this template.
+
+1. Open the layout and then click on the **Settings** tab. The new placeholder should appear there, with the name equal to the id value defined in the control. For now, this placeholder is empty, meaning there are no objects inside it.
+![6 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/inserting-and-configuring-placeholders_2.png)
+2. To insert an object, click on **add object**.
+3. Then choose the object type and click on the **Add** button.
+4. Finally, click on the **Save Settings** button.
+
+You can now edit the object inserted in the placeholder.
+
+To do this, click on the pencil icon inside the object, and then click on **add content**.
+
+![6 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/inserting-and-configuring-placeholders_3.png)
+
+You can now name this object, upload images to it and configure the conditions under which it will be rendered.
+
+At the end, click on the __Add Content List__ button and then save the content.

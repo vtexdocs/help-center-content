@@ -33,14 +33,122 @@ jobs:
           echo "${{ steps.changed-files.outputs.modified_files }}"
           echo "Renamed:"
           echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
-      - uses: actions/checkout@v2
-      - name: Helpcenter Scraper
-        uses: vtexdocs/devportal-docsearch-action@main
-        with:
-          algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
-          algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
-          files: './configs/scraper_helpcenter_files.json'
-          added: '${{ steps.changed-files.outputs.added_files }}'
-          updated: '${{ steps.changed-files.outputs.modified_files }}'
-          removed: '${{ steps.changed-files.outputs.deleted_files }}'
-          renamed: '${{ steps.changed-files.outputs.all_old_new_renamed_files }}'
+      - name: Process files
+        id: process-files
+        run: |
+          # Function to split array into chunks
+          split_array() {
+            local array=("$@")
+            local chunk_size=$1
+            shift
+            local result=()
+            for ((i=0; i<${#array[@]}; i+=chunk_size)); do
+              result+=("${array[@]:i:chunk_size}")
+            done
+            echo "${result[@]}"
+          }
+
+          # Function to extract URLs from error logs
+          extract_error_urls() {
+            local log_file=$1
+            local error_urls=()
+            while IFS= read -r line; do
+              if [[ $line =~ "ERROR: Http Status:(404|500) on (https?://[^[:space:]]+)" ]]; then
+                error_urls+=("${BASH_REMATCH[2]}")
+              fi
+            done < "$log_file"
+            echo "${error_urls[@]}"
+          }
+
+          # Function to process a group of files
+          process_group() {
+            local added=$1
+            local modified=$2
+            local deleted=$3
+            local renamed=$4
+            local attempt=1
+            local max_attempts=3
+            local temp_log=$(mktemp)
+
+            while [ $attempt -le $max_attempts ]; do
+              echo "Attempt $attempt of $max_attempts"
+              if docker run --rm \
+                -v ${{ github.workspace }}:/app \
+                -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
+                -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
+                vtexdocs/devportal-docsearch-action \
+                --files ./configs/scraper_helpcenter_files.json \
+                --added "$added" \
+                --updated "$modified" \
+                --removed "$deleted" \
+                --renamed "$renamed" 2>&1 | tee "$temp_log"; then
+                rm "$temp_log"
+                return 0
+              fi
+
+              # Check if error is "Argument list too long"
+              if grep -q "Argument list too long" "$temp_log"; then
+                echo "Argument list too long error detected, splitting into smaller groups..."
+                # Split each array into smaller chunks
+                IFS=',' read -ra ADDED <<< "$added"
+                IFS=',' read -ra MODIFIED <<< "$modified"
+                IFS=',' read -ra DELETED <<< "$deleted"
+                IFS=',' read -ra RENAMED <<< "$renamed"
+
+                # Calculate new chunk size (half of current)
+                chunk_size=$(( ${#ADDED[@]} / 2 ))
+                if [ $chunk_size -lt 1 ]; then
+                  chunk_size=1
+                fi
+
+                # Split arrays
+                added_chunks=($(split_array $chunk_size "${ADDED[@]}"))
+                modified_chunks=($(split_array $chunk_size "${MODIFIED[@]}"))
+                deleted_chunks=($(split_array $chunk_size "${DELETED[@]}"))
+                renamed_chunks=($(split_array $chunk_size "${RENAMED[@]}"))
+
+                # Process each chunk
+                for i in "${!added_chunks[@]}"; do
+                  echo "Processing chunk $((i+1)) of ${#added_chunks[@]}"
+                  process_group \
+                    "${added_chunks[$i]}" \
+                    "${modified_chunks[$i]}" \
+                    "${deleted_chunks[$i]}" \
+                    "${renamed_chunks[$i]}"
+                done
+                rm "$temp_log"
+                return 0
+              else
+                echo "Different error occurred, retrying..."
+                ((attempt++))
+              fi
+            done
+            rm "$temp_log"
+            return 1
+          }
+
+          # Convert comma-separated strings to arrays
+          IFS=',' read -ra ADDED <<< "${{ steps.changed-files.outputs.added_files }}"
+          IFS=',' read -ra MODIFIED <<< "${{ steps.changed-files.outputs.modified_files }}"
+          IFS=',' read -ra DELETED <<< "${{ steps.changed-files.outputs.deleted_files }}"
+          IFS=',' read -ra RENAMED <<< "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
+
+          # Create a temporary file to store all logs
+          temp_log_file=$(mktemp)
+
+          # Process all files and capture output
+          process_group \
+            "${{ steps.changed-files.outputs.added_files }}" \
+            "${{ steps.changed-files.outputs.modified_files }}" \
+            "${{ steps.changed-files.outputs.deleted_files }}" \
+            "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" 2>&1 | tee "$temp_log_file"
+
+          # Extract and report error URLs
+          error_urls=($(extract_error_urls "$temp_log_file"))
+          if [ ${#error_urls[@]} -gt 0 ]; then
+            echo "::warning::Found ${#error_urls[@]} URLs that returned 404 or 500 errors:"
+            printf '%s\n' "${error_urls[@]}" | sort -u
+          fi
+
+          # Clean up
+          rm "$temp_log_file"

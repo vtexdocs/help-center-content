@@ -1,0 +1,265 @@
+/**
+ * PayU Latam - Copyright (c) 2013 - 2024
+ * http://www.payu.com.co
+ */
+
+var deviceSessionId = '' deviceSessionId '80200';
+var fingerprintProviderUrl = 'https://openfpcdn.io/fingerprintjs/v3';
+var fingerprintProviderName = 'FINGERPRINT_V3_OPEN';
+var fingerprintServiceUrl = 'https://api.payulatam.com/fingerprint-service/api/v2/fingerprint';
+
+/**
+ * Function containing common functionalities for fingerprint's service.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ */
+function FingerprintUtils() {
+}
+
+/**
+ * Allows to register messages in the console of the browser.
+ * @param msg message to register.
+ */
+FingerprintUtils.prototype.log = function(msg) {
+
+	try {
+		if (!this.console) {
+			this.console = (console ? console : window.console);
+		}
+		this.console.log(msg);
+	} catch (e) {
+		document.write('<div style="display:none;">' + msg + '</div>');
+	}
+}
+
+/**
+ * Validate whether an object is empty or not
+ * @return <code>true</code> if the object is empty or otherwise <code>false</code>.
+ */
+FingerprintUtils.prototype.isEmpty = function(obj) {
+
+	return !obj;
+}
+
+/**
+ * Calculates the elapsed time from a given date to the current date.
+ * @param startDateTime start DateTime.
+ */
+FingerprintUtils.prototype.totalTimeElapsed = function(startDateTime) {
+
+	return performance.now() - startDateTime;
+}
+
+/**
+ * Converts a json object to a string object.
+ * @param jsonObj a json object.
+ * @return a string object.
+ */
+FingerprintUtils.prototype.jsonAsString = function(jsonObj) {
+
+    let result = JSON.stringify(jsonObj, function replacer(key, value) {
+        let stringData = JSON.stringify(value);
+        stringData = stringData.substring(1).slice(0, -1);
+        return '{' + stringData + '}';
+    });
+
+    if(result && result.includes("\\\\\\")) {
+        result = JSON.stringify(jsonObj);
+    }
+	return result;
+}
+
+/**
+ * Get component by name.
+ * @param components device components.
+ * @param componentName component name.
+ * @return Component found or otherwise null.
+ */
+FingerprintUtils.prototype.getComponentByName = function(components, componentName) {
+
+	let result = null;
+	for ( let i in components) {
+		if (i === componentName) {
+			result = components[i];
+			break;
+		}
+	}
+	return result;
+}
+
+/**
+ * Allows to request data from a web server.
+ * @param url Server URL.
+ * @param method HTTP method.
+ * @param async Indicates whether the request is made asynchronous or not.
+ * @param contentType content type.
+ * @param jsonData data to send.
+ * @param statusOK HTTP status that indicates a correct response.
+ */
+FingerprintUtils.prototype.sendRequest = function(url, method, async, contentType, jsonData, statusOK) {
+
+	try {
+		let xmlHttp = new XMLHttpRequest();
+		xmlHttp.open(method, url, async);
+
+		xmlHttp.setRequestHeader("Access-Control-Allow-Origin", url);
+        xmlHttp.setRequestHeader("Accept", contentType);
+		xmlHttp.setRequestHeader("Content-Type", contentType);
+
+		xmlHttp.onload = function() {
+
+			if (xmlHttp.status !== statusOK) {
+				fingerprintUtils.log(`Request failed!, returned status of ${xmlHttp.status}`);
+			}
+		};
+
+		if (!this.isEmpty(jsonData)) {
+		    jsonData.deviceData.properties = fingerprintUtils.jsonAsString(jsonData.deviceData.properties);
+		    xmlHttp.send(JSON.stringify(jsonData));
+		} else {
+			xmlHttp.send();
+		}
+	} catch (e) {
+		fingerprintUtils.log('Error sending request for save fingerprint data: ' + e);
+	}
+}
+
+/**
+ * Function containing functionalities for fingerprint's service.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ */
+function DeviceFingerprintFunc() {
+}
+
+/**
+ * Send device evaluation.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ * @param urlService string with the url of the fingerprint service.
+ */
+DeviceFingerprintFunc.prototype.sendEvaluation = function(urlService) {
+
+    if ( !deviceFingerprint.evalSubmitted && deviceFingerprint.evalCompleted ) {
+		deviceFingerprint.evalSubmitted = true;
+        fingerprintUtils.sendRequest(urlService, "POST", true, 'application/json',
+			deviceFingerprint, 202);
+    }
+}
+
+/**
+ * Execute service for fingerprint v3
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ * @param urlProvider string with the url of the fingerprint provider
+ * @param urlService string with the url of fingerprint service
+ */
+DeviceFingerprintFunc.prototype.exeFingerprint = function(urlProvider, urlService) {
+
+	const startTime = performance.now();
+	// Initialize the agent at application startup.
+	const fpPromise = import(urlProvider)
+        .then(FingerprintJS => FingerprintJS.load());
+
+    // Get the visitor identifier when you need it.
+    fpPromise
+		.then(fp => fp.get({ extendedResult: true }))
+        .then(result => {
+
+		    // This is the visitor identifier
+			deviceFingerprint.deviceData.deviceId = result.visitorId;
+			deviceFingerprint.deviceData.ipAddress = fingerprintUtils.getComponentByName(result, "ip");
+			deviceFingerprint.deviceData.properties = result;
+			deviceFingerprint.requestId = result.requestId;
+			deviceFingerprint.executionTime = Math.ceil(fingerprintUtils.totalTimeElapsed(startTime));
+			deviceFingerprint.evalCompleted = true;
+
+			this.sendEvaluation(urlService);
+        })
+		.catch(error => {
+			fingerprintUtils.log("Error obtain fingerprints: " + error.message);
+
+		});
+}
+
+/**
+ * Init the evaluation of the fingerprint device
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ * @param id evaluation identifier
+ * @param urlProvider string with the url of the fingerprint provider
+ * @param mainProvider string with the name of the fingerprint provider
+ * @param urlService string with the url of the fingerprint service
+ */
+DeviceFingerprintFunc.prototype.evaluateFingerprint = function(id, urlProvider, mainProvider, urlService) {
+
+	try {
+		if (!fingerprintUtils.isEmpty(id) && !fingerprintUtils.isEmpty(urlProvider)
+			&& !fingerprintUtils.isEmpty(urlService) && !fingerprintUtils.isEmpty(mainProvider)) {
+			deviceFingerprint.deviceSessionId =  id;
+			deviceFingerprint.mainProvider = mainProvider;
+			deviceFingerprint.evalCompleted = false;
+			deviceFingerprint.evalSubmitted = false;
+
+			this.exeFingerprint(urlProvider, urlService);
+		} else {
+			fingerprintUtils.log("Configuration error in fingerprint service: id, fingerprintServiceUrl, fingerprintProviderName and fingerprintProviderUrl are required.");
+		}
+	} catch (e) {
+		fingerprintUtils.log("Exception getting the fingerprint javascript parameters");
+	}
+}
+
+/**
+ * Starts evaluating and saving device information.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ */
+DeviceFingerprintFunc.prototype.run = function() {
+
+	// Gets the values that are sent in the service call
+	let id = (deviceSessionId ? deviceSessionId : null);
+	let urlProvider = (fingerprintProviderUrl ? fingerprintProviderUrl : null);
+	let mainProvider = (fingerprintProviderName ? fingerprintProviderName : null);
+	let urlService = (fingerprintServiceUrl ? fingerprintServiceUrl : null);
+
+	this.evaluateFingerprint(id, urlProvider, mainProvider, urlService);
+}
+
+/**
+ * Class containing data of the user's device to be sent to fingerprint service.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ */
+class DeviceData {
+
+	/** Device id. */
+	deviceId;
+	/** ipAddress of the device. */
+	ipAddress;
+	/** List with device properties (components). */
+	properties;
+}
+
+/**
+ * Class responsible for capture and send data that identifies the user's device.
+ * @author <a href="daniel.alfonso@payu.com">Daniel f. Alfonso</a>
+ */
+class DeviceFingerprint {
+
+	/** the session associated to the device.*/
+	deviceSessionId;
+	/** Device data. */
+	deviceData = new DeviceData();
+	/** Device fingerprint provider.*/
+	mainProvider;
+
+	/** Request identifier of fingerprint provider.*/
+	requestId;
+
+	/** Total time of evaluation execution.*/
+	executionTime;
+	/** Indicate if the evaluation is finished.*/
+	evalCompleted = false;
+	/** Indicates whether the evaluation has already been submitted.*/
+	evalSubmitted = false;
+}
+
+let fingerprintUtils = new FingerprintUtils();
+let deviceFingerprintUtils = new DeviceFingerprintFunc();
+let deviceFingerprint = new DeviceFingerprint();
+
+deviceFingerprintUtils.run();
