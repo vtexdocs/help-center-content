@@ -23,16 +23,21 @@ jobs:
           separator: ","
       - name: Printing
         run: |
-          echo "All:"
-          echo "${{ steps.changed-files.outputs.all_changed_files }}"
+          echo "All files count: $(echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ',' '\n' | wc -l)"
+          echo "Added files count: $(echo "${{ steps.changed-files.outputs.added_files }}" | tr ',' '\n' | wc -l)"
+          echo "Deleted files count: $(echo "${{ steps.changed-files.outputs.deleted_files }}" | tr ',' '\n' | wc -l)"
+          echo "Modified files count: $(echo "${{ steps.changed-files.outputs.modified_files }}" | tr ',' '\n' | wc -l)"
+          echo "Renamed files count: $(echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" | tr ',' '\n' | wc -l)"
+          
+          echo "First 100 files in each category:"
           echo "Added:"
-          echo "${{ steps.changed-files.outputs.added_files }}"
-          echo "Deleted:"
-          echo "${{ steps.changed-files.outputs.deleted_files }}"
+          echo "${{ steps.changed-files.outputs.added_files }}" | tr ',' '\n' | head -n 100
           echo "Modified:"
-          echo "${{ steps.changed-files.outputs.modified_files }}"
+          echo "${{ steps.changed-files.outputs.modified_files }}" | tr ',' '\n' | head -n 100
+          echo "Deleted:"
+          echo "${{ steps.changed-files.outputs.deleted_files }}" | tr ',' '\n' | head -n 100
           echo "Renamed:"
-          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
+          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" | tr ',' '\n' | head -n 100
       - name: Process files
         id: process-files
         run: |
@@ -69,62 +74,58 @@ jobs:
             local attempt=1
             local max_attempts=3
             local temp_log=$(mktemp)
+            local max_files=1000  # Maximum number of files to process at once
 
             while [ $attempt -le $max_attempts ]; do
               echo "Attempt $attempt of $max_attempts"
-              if docker run --rm \
-                -v ${{ github.workspace }}:/app \
-                -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
-                -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
-                vtexdocs/devportal-docsearch-action \
-                --files ./configs/scraper_helpcenter_files.json \
-                --added "$added" \
-                --updated "$modified" \
-                --removed "$deleted" \
-                --renamed "$renamed" 2>&1 | tee "$temp_log"; then
-                rm "$temp_log"
-                return 0
-              fi
+              
+              # Split files into smaller chunks if needed
+              IFS=',' read -ra ADDED <<< "$added"
+              IFS=',' read -ra MODIFIED <<< "$modified"
+              IFS=',' read -ra DELETED <<< "$deleted"
+              IFS=',' read -ra RENAMED <<< "$renamed"
 
-              # Check if error is "Argument list too long"
-              if grep -q "Argument list too long" "$temp_log"; then
-                echo "Argument list too long error detected, splitting into smaller groups..."
-                # Split each array into smaller chunks
-                IFS=',' read -ra ADDED <<< "$added"
-                IFS=',' read -ra MODIFIED <<< "$modified"
-                IFS=',' read -ra DELETED <<< "$deleted"
-                IFS=',' read -ra RENAMED <<< "$renamed"
+              # Process files in chunks
+              for ((i=0; i<${#ADDED[@]}; i+=max_files)); do
+                local chunk_added="${ADDED[@]:i:max_files}"
+                local chunk_modified="${MODIFIED[@]:i:max_files}"
+                local chunk_deleted="${DELETED[@]:i:max_files}"
+                local chunk_renamed="${RENAMED[@]:i:max_files}"
 
-                # Calculate new chunk size (half of current)
-                chunk_size=$(( ${#ADDED[@]} / 2 ))
-                if [ $chunk_size -lt 1 ]; then
-                  chunk_size=1
+                echo "Processing chunk $((i/max_files + 1)) of $(((${#ADDED[@]} + max_files - 1)/max_files))"
+                
+                if docker run --rm \
+                  -v ${{ github.workspace }}:/app \
+                  -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
+                  -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
+                  vtexdocs/devportal-docsearch-action \
+                  --files ./configs/scraper_helpcenter_files.json \
+                  --added "$chunk_added" \
+                  --updated "$chunk_modified" \
+                  --removed "$chunk_deleted" \
+                  --renamed "$chunk_renamed" 2>&1 | tee -a "$temp_log"; then
+                  continue
                 fi
 
-                # Split arrays
-                added_chunks=($(split_array $chunk_size "${ADDED[@]}"))
-                modified_chunks=($(split_array $chunk_size "${MODIFIED[@]}"))
-                deleted_chunks=($(split_array $chunk_size "${DELETED[@]}"))
-                renamed_chunks=($(split_array $chunk_size "${RENAMED[@]}"))
+                # Check if error is "Argument list too long" or "Maximum object size exceeded"
+                if grep -q "Argument list too long\|Maximum object size exceeded" "$temp_log"; then
+                  echo "Error detected, reducing chunk size..."
+                  max_files=$((max_files / 2))
+                  if [ $max_files -lt 10 ]; then
+                    echo "Chunk size too small, aborting"
+                    rm "$temp_log"
+                    return 1
+                  fi
+                  i=0  # Restart from beginning with smaller chunks
+                  continue
+                fi
 
-                # Process each chunk
-                for i in "${!added_chunks[@]}"; do
-                  echo "Processing chunk $((i+1)) of ${#added_chunks[@]}"
-                  process_group \
-                    "${added_chunks[$i]}" \
-                    "${modified_chunks[$i]}" \
-                    "${deleted_chunks[$i]}" \
-                    "${renamed_chunks[$i]}"
-                done
-                rm "$temp_log"
-                return 0
-              else
                 echo "Different error occurred, retrying..."
                 ((attempt++))
-              fi
+              done
             done
             rm "$temp_log"
-            return 1
+            return 0
           }
 
           # Convert comma-separated strings to arrays
