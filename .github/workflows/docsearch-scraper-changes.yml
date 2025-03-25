@@ -29,21 +29,31 @@ jobs:
           echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" > renamed_files.txt
       - name: Printing
         run: |
-          echo "All files count: $(wc -l < added_files.txt)"
-          echo "Added files count: $(wc -l < added_files.txt)"
-          echo "Deleted files count: $(wc -l < deleted_files.txt)"
-          echo "Modified files count: $(wc -l < modified_files.txt)"
-          echo "Renamed files count: $(wc -l < renamed_files.txt)"
+          # Function to count comma-separated files
+          count_files() {
+            local file=$1
+            if [ -s "$file" ]; then
+              tr ',' '\n' < "$file" | wc -l
+            else
+              echo "0"
+            fi
+          }
+          
+          echo "All files count: $(count_files added_files.txt)"
+          echo "Added files count: $(count_files added_files.txt)"
+          echo "Deleted files count: $(count_files deleted_files.txt)"
+          echo "Modified files count: $(count_files modified_files.txt)"
+          echo "Renamed files count: $(count_files renamed_files.txt)"
           
           echo "First 100 files in each category:"
           echo "Added:"
-          head -n 100 added_files.txt
+          tr ',' '\n' < added_files.txt | head -n 100
           echo "Modified:"
-          head -n 100 modified_files.txt
+          tr ',' '\n' < modified_files.txt | head -n 100
           echo "Deleted:"
-          head -n 100 deleted_files.txt
+          tr ',' '\n' < deleted_files.txt | head -n 100
           echo "Renamed:"
-          head -n 100 renamed_files.txt
+          tr ',' '\n' < renamed_files.txt | head -n 100
       - name: Process files
         id: process-files
         run: |
@@ -52,7 +62,7 @@ jobs:
             local file=$1
             local chunk_size=$2
             local type=$3
-            local total=$(wc -l < "$file")
+            local total=$(tr ',' '\n' < "$file" | wc -l)
             local i=0
 
             while [ $i -lt $total ]; do
@@ -60,7 +70,7 @@ jobs:
               [ $end -gt $total ] && end=$total
               
               # Get the chunk of files
-              local chunk=$(sed -n "$((i+1)),${end}p" "$file" | tr '\n' ',' | sed 's/,$//')
+              local chunk=$(tr ',' '\n' < "$file" | sed -n "$((i+1)),${end}p" | tr '\n' ',' | sed 's/,$//')
               echo "Processing $type files: $((i+1)) to $end of $total"
               
               # Run the chunk processor workflow
