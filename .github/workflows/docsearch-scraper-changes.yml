@@ -21,23 +21,29 @@ jobs:
             **.md
             **.mdx
           separator: ","
+      - name: Save file lists
+        run: |
+          echo "${{ steps.changed-files.outputs.added_files }}" > added_files.txt
+          echo "${{ steps.changed-files.outputs.modified_files }}" > modified_files.txt
+          echo "${{ steps.changed-files.outputs.deleted_files }}" > deleted_files.txt
+          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" > renamed_files.txt
       - name: Printing
         run: |
-          echo "All files count: $(echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ',' '\n' | wc -l)"
-          echo "Added files count: $(echo "${{ steps.changed-files.outputs.added_files }}" | tr ',' '\n' | wc -l)"
-          echo "Deleted files count: $(echo "${{ steps.changed-files.outputs.deleted_files }}" | tr ',' '\n' | wc -l)"
-          echo "Modified files count: $(echo "${{ steps.changed-files.outputs.modified_files }}" | tr ',' '\n' | wc -l)"
-          echo "Renamed files count: $(echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" | tr ',' '\n' | wc -l)"
+          echo "All files count: $(wc -l < added_files.txt)"
+          echo "Added files count: $(wc -l < added_files.txt)"
+          echo "Deleted files count: $(wc -l < deleted_files.txt)"
+          echo "Modified files count: $(wc -l < modified_files.txt)"
+          echo "Renamed files count: $(wc -l < renamed_files.txt)"
           
           echo "First 100 files in each category:"
           echo "Added:"
-          echo "${{ steps.changed-files.outputs.added_files }}" | tr ',' '\n' | head -n 100
+          head -n 100 added_files.txt
           echo "Modified:"
-          echo "${{ steps.changed-files.outputs.modified_files }}" | tr ',' '\n' | head -n 100
+          head -n 100 modified_files.txt
           echo "Deleted:"
-          echo "${{ steps.changed-files.outputs.deleted_files }}" | tr ',' '\n' | head -n 100
+          head -n 100 deleted_files.txt
           echo "Renamed:"
-          echo "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" | tr ',' '\n' | head -n 100
+          head -n 100 renamed_files.txt
       - name: Process files
         id: process-files
         run: |
@@ -110,23 +116,17 @@ jobs:
 
           # Function to process files in chunks
           process_files() {
-            local -n files=$1
+            local file=$1
             local chunk_size=$2
             local type=$3
-            local success=0
+            local total=$(wc -l < "$file")
             local i=0
-            local total=${#files[@]}
 
             while [ $i -lt $total ]; do
               local end=$((i + chunk_size))
               [ $end -gt $total ] && end=$total
               
-              local chunk=()
-              for ((j=i; j<end; j++)); do
-                chunk+=("${files[j]}")
-              done
-              
-              local chunk_str=$(join_by_comma "${chunk[@]}")
+              local chunk=$(sed -n "$((i+1)),${end}p" "$file" | tr '\n' ',' | sed 's/,$//')
               echo "Processing $type files: $((i+1)) to $end of $total"
               
               # Call process_chunk with the appropriate arguments
@@ -136,10 +136,10 @@ jobs:
               local renamed_arg=""
               
               case "$type" in
-                "added") added_arg="$chunk_str" ;;
-                "modified") modified_arg="$chunk_str" ;;
-                "deleted") deleted_arg="$chunk_str" ;;
-                "renamed") renamed_arg="$chunk_str" ;;
+                "added") added_arg="$chunk" ;;
+                "modified") modified_arg="$chunk" ;;
+                "deleted") deleted_arg="$chunk" ;;
+                "renamed") renamed_arg="$chunk" ;;
               esac
               
               process_chunk "$added_arg" "$modified_arg" "$deleted_arg" "$renamed_arg"
@@ -178,33 +178,27 @@ jobs:
           # Create a global log file
           GLOBAL_LOG=$(mktemp)
 
-          # Convert comma-separated strings to arrays
-          IFS=',' read -ra ADDED <<< "${{ steps.changed-files.outputs.added_files }}"
-          IFS=',' read -ra MODIFIED <<< "${{ steps.changed-files.outputs.modified_files }}"
-          IFS=',' read -ra DELETED <<< "${{ steps.changed-files.outputs.deleted_files }}"
-          IFS=',' read -ra RENAMED <<< "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
-
           # Process each type of files separately with a small initial chunk size
           CHUNK_SIZE=500
           
-          if [ ${#ADDED[@]} -gt 0 ]; then
+          if [ -s added_files.txt ]; then
             echo "Processing added files..."
-            process_files ADDED $CHUNK_SIZE "added" || exit 1
+            process_files added_files.txt $CHUNK_SIZE "added" || exit 1
           fi
           
-          if [ ${#MODIFIED[@]} -gt 0 ]; then
+          if [ -s modified_files.txt ]; then
             echo "Processing modified files..."
-            process_files MODIFIED $CHUNK_SIZE "modified" || exit 1
+            process_files modified_files.txt $CHUNK_SIZE "modified" || exit 1
           fi
           
-          if [ ${#DELETED[@]} -gt 0 ]; then
+          if [ -s deleted_files.txt ]; then
             echo "Processing deleted files..."
-            process_files DELETED $CHUNK_SIZE "deleted" || exit 1
+            process_files deleted_files.txt $CHUNK_SIZE "deleted" || exit 1
           fi
           
-          if [ ${#RENAMED[@]} -gt 0 ]; then
+          if [ -s renamed_files.txt ]; then
             echo "Processing renamed files..."
-            process_files RENAMED $CHUNK_SIZE "renamed" || exit 1
+            process_files renamed_files.txt $CHUNK_SIZE "renamed" || exit 1
           fi
 
           # Extract and report error URLs
@@ -216,3 +210,4 @@ jobs:
 
           # Clean up
           rm "$GLOBAL_LOG"
+          rm -f added_files.txt modified_files.txt deleted_files.txt renamed_files.txt
