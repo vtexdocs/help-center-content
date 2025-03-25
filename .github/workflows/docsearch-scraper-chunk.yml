@@ -21,4 +21,6 @@ jobs:
         uses: vtexdocs/devportal-docsearch-action@latest
         with:
           files: ./configs/scraper_helpcenter_files.json
-          ${{ inputs.type }}: ${{ inputs.files }} 
+          ${{ inputs.type }}: ${{ inputs.files }}
+          algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
+          algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
