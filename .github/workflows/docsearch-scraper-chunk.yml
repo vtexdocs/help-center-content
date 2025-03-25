@@ -1,0 +1,24 @@
+name: Help Center chunk processor
+
+on:
+  workflow_dispatch:
+    inputs:
+      type:
+        description: 'Type of files to process (added, updated, removed, renamed)'
+        required: true
+        type: string
+      files:
+        description: 'Comma-separated list of files to process'
+        required: true
+        type: string
+
+jobs:
+  process-chunk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Process files
+        uses: vtexdocs/devportal-docsearch-action@latest
+        with:
+          files: ./configs/scraper_helpcenter_files.json
+          ${{ inputs.type }}: ${{ inputs.files }} 

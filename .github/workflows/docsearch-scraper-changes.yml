@@ -63,25 +63,8 @@ jobs:
               local chunk=$(sed -n "$((i+1)),${end}p" "$file" | tr '\n' ',' | sed 's/,$//')
               echo "Processing $type files: $((i+1)) to $end of $total"
               
-              # Create a temporary workflow file for this chunk
-              cat > .github/workflows/temp-chunk.yml << EOF
-              name: Process chunk
-              on:
-                workflow_dispatch:
-              jobs:
-                process:
-                  runs-on: ubuntu-latest
-                  steps:
-                    - uses: actions/checkout@v4
-                    - name: Process $type files
-                      uses: vtexdocs/devportal-docsearch-action@latest
-                      with:
-                        files: ./configs/scraper_helpcenter_files.json
-                        $type: "$chunk"
-              EOF
-              
-              # Run the workflow
-              if ! gh workflow run temp-chunk.yml; then
+              # Run the chunk processor workflow
+              if ! gh workflow run docsearch-scraper-chunk.yml -f type="$type" -f files="$chunk"; then
                 echo "Error processing chunk, reducing size and retrying..."
                 chunk_size=$((chunk_size / 2))
                 if [ $chunk_size -lt 5 ]; then
@@ -121,4 +104,3 @@ jobs:
 
           # Clean up
           rm -f added_files.txt modified_files.txt deleted_files.txt renamed_files.txt
-          rm -f .github/workflows/temp-chunk.yml
