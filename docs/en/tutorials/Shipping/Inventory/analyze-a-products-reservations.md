@@ -1,0 +1,26 @@
+---
+title: "Analyze a product's reservations"
+id: 1xdDyqnDo4IKwcUYQouQCE
+status: ARCHIVED
+createdAt: 2017-08-01T15:07:23.815Z
+updatedAt: 2022-01-10T13:36:41.812Z
+publishedAt: 
+firstPublishedAt: 2017-08-01T15:11:15.880Z
+contentType: tutorial
+productTeam: Post-purchase
+author: authors_84
+slugEN: analyze-a-products-reservations
+locale: en
+legacySlug: analyze-a-products-reservations
+subcategoryId: 3PQwnyOcNyYgawy06oe6gE
+---
+
+Just as you can view the history of a product in a particular stock, you can also check the reservations for a product, that is, see which orders include a particular product and the status of that reservation.
+
+As explained in the [article on reservations](http://help.vtex.com/en/tutorial/how-does-reservation-work/), a reservation may have different statuses. `Confirmada` means that the order was approved, but does not mean that the product has already been shipped. Although Orders Management does not make this distinction, we separate it into two columns.
+
+To check the authorized reservations, that is, those that have not yet had an order with payment, simply click on the number of items displayed in the column **Itens reservados** (Reserved items).
+
+To view orders with the status `Billed`, that is, payment already approved, just click on the number displayed in the column **Itens em manuseio** (Items being handled).
+
+![Reservations GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory/analyze-a-products-reservations_1.gif)
