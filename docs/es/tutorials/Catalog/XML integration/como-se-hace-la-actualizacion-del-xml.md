@@ -1,0 +1,26 @@
+---
+title: 'Cómo se hace la actualización del XML'
+id: tutorials_297
+status: PUBLISHED
+createdAt: 2017-04-27T22:09:31.811Z
+updatedAt: 2024-02-29T14:57:59.233Z
+publishedAt: 2024-02-29T14:57:59.233Z
+firstPublishedAt: 2017-04-27T23:03:14.354Z
+contentType: tutorial
+productTeam: Marketing & Merchandising
+author: authors_3
+slugEN: understanding-the-updating-of-the-xml
+locale: es
+legacySlug: como-se-hace-la-actualizacion-del-xml
+subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
+---
+
+En caso de consulta recurrente, se actualiza el XML a cada 2 horas, aproximadamente.
+
+Esa consulta significa que se convocó el XML en menos de 48 horas. Aquellos XML que no se han convocado en las últimas 48 horas no son actualizados, hasta que se efectúe una nueva convocación. Así se lo hace para mantener la actualización sólo de XMLs utilizados.
+
+Es posible visualizar la última fecha de actualización del XML. Esa información queda en horario UTC al final del documento, conforme imagen abajo.
+
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/XML%20integration/como-se-hace-la-actualizacion-del-xml_1.png)
+
+>ℹ️ Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados **no** surgirán en el XML. Productos inactivos también **no** surgen en el XML.
