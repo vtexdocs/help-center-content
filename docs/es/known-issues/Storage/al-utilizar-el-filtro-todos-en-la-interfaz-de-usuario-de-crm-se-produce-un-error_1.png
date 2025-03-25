@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0">
+  <title>
+      VTEX 
+  </title>
+  <link rel='shortcut icon' href='/hc/favicon' type='image/png'/>
+  
+  <link href="https://support.vtex.com/access/unauthenticated" rel="canonical"></link>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="_TZjJarNz-4OecHsLocbVWNV_ByEjxuqlRUaTBuod74" />
+  <link rel="stylesheet" href="https://static.zdassets.com/classic/assets/application/help_center-605e47702149e2b0ac40e02a1e8a1135aaa9c8d5e33190ed0ec62f190c5744df.css" />
+
+  <script src="https://static.zdassets.com/classic/assets/vendor/jquery-3.5.1.min-a6ed45d15e46615f8c15931ca254e398a912e770b10122a4435529a1a523180d.js"></script>
+  <!--[if gte IE 7]>
+    <script src="https://static.zdassets.com/classic/assets/Placeholders-4ebb1ef271cbf42b78c665e66370fb891a420980a0eea3070ef06baac07b6113.js"></script>
+  <![endif]-->
+  <script src="https://static.zdassets.com/classic/assets/help_center-f268a8fec31526a52d94b1a9451075f5d0e4e14fb1e30a19d9a29f9d92c70880.js"></script>
+</head>
+
+<body class="access access-unauthenticated">
+  
+
+  <div class="header">
+    <div class="header_inner">
+      <div class="logo">
+        <a href="/hc" title="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en-US-x-1.txt.help_center.helpers.application.home&quot;>Home</span>"><img id="logo" alt="Logo" src="/hc/logo" /></a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="layout_wrap">
+    <div class="layout_inner">
+      <script src="https://static.zdassets.com/auth/65862f5e6fcaef29148ee7c7f0f3454a27eeefd9/v2/host-without-iframe.js" data-brand-id="144968" data-auth-origin="144968,true,true" data-auth-domain="https://vtexhelp.zendesk.com" data-return-to="https://support.vtex.com/attachments/token/iVkKaiAhzADOKFWdMVwXp6vuM?name=Captura+de+Tela+2024-11-12+a%CC%80s+18.40.15.png" data-theme="hc" data-locale="1" data-action="signin"></script>
+
+    </div>
+  </div>
+
+</body>
+</html>
