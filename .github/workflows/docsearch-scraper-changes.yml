@@ -41,16 +41,126 @@ jobs:
       - name: Process files
         id: process-files
         run: |
-          # Function to split array into chunks
-          split_array() {
-            local array=("$@")
-            local chunk_size=$1
-            shift
-            local result=()
-            for ((i=0; i<${#array[@]}; i+=chunk_size)); do
-              result+=("${array[@]:i:chunk_size}")
+          # Function to join array elements with commas
+          join_by_comma() {
+            local IFS=","
+            echo "$*"
+          }
+
+          # Function to process a chunk of files
+          process_chunk() {
+            local added=("$1")
+            local modified=("$2")
+            local deleted=("$3")
+            local renamed=("$4")
+            local temp_log=$(mktemp)
+            local attempt=1
+            local max_attempts=3
+
+            while [ $attempt -le $max_attempts ]; do
+              echo "Attempt $attempt of $max_attempts"
+              echo "Processing chunk with:"
+              echo "Added files: $(echo "$added" | tr ',' '\n' | wc -l)"
+              echo "Modified files: $(echo "$modified" | tr ',' '\n' | wc -l)"
+              echo "Deleted files: $(echo "$deleted" | tr ',' '\n' | wc -l)"
+              echo "Renamed files: $(echo "$renamed" | tr ',' '\n' | wc -l)"
+
+              if docker run --rm \
+                -v ${{ github.workspace }}:/app \
+                -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
+                -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
+                vtexdocs/devportal-docsearch-action \
+                --files ./configs/scraper_helpcenter_files.json \
+                --added "$added" \
+                --updated "$modified" \
+                --removed "$deleted" \
+                --renamed "$renamed" 2>&1 | tee -a "$temp_log"; then
+                cat "$temp_log" >> "$GLOBAL_LOG"
+                rm "$temp_log"
+                return 0
+              fi
+
+              # Check for specific errors
+              if grep -q "Maximum object size exceeded" "$temp_log"; then
+                echo "Maximum object size exceeded error detected"
+                echo "Error details:"
+                grep -A 5 "Maximum object size exceeded" "$temp_log"
+                cat "$temp_log" >> "$GLOBAL_LOG"
+                rm "$temp_log"
+                return 2
+              fi
+
+              if grep -q "Argument list too long" "$temp_log"; then
+                echo "Argument list too long error detected"
+                cat "$temp_log" >> "$GLOBAL_LOG"
+                rm "$temp_log"
+                return 2
+              fi
+
+              echo "Different error occurred, retrying..."
+              echo "Error details:"
+              cat "$temp_log"
+              ((attempt++))
             done
-            echo "${result[@]}"
+
+            cat "$temp_log" >> "$GLOBAL_LOG"
+            rm "$temp_log"
+            return 1
+          }
+
+          # Function to process files in chunks
+          process_files() {
+            local -n files=$1
+            local chunk_size=$2
+            local type=$3
+            local success=0
+            local i=0
+            local total=${#files[@]}
+
+            while [ $i -lt $total ]; do
+              local end=$((i + chunk_size))
+              [ $end -gt $total ] && end=$total
+              
+              local chunk=()
+              for ((j=i; j<end; j++)); do
+                chunk+=("${files[j]}")
+              done
+              
+              local chunk_str=$(join_by_comma "${chunk[@]}")
+              echo "Processing $type files: $((i+1)) to $end of $total"
+              
+              # Call process_chunk with the appropriate arguments
+              local added_arg=""
+              local modified_arg=""
+              local deleted_arg=""
+              local renamed_arg=""
+              
+              case "$type" in
+                "added") added_arg="$chunk_str" ;;
+                "modified") modified_arg="$chunk_str" ;;
+                "deleted") deleted_arg="$chunk_str" ;;
+                "renamed") renamed_arg="$chunk_str" ;;
+              esac
+              
+              process_chunk "$added_arg" "$modified_arg" "$deleted_arg" "$renamed_arg"
+              local result=$?
+              
+              if [ $result -eq 2 ]; then
+                # If chunk was too large, reduce size and retry
+                chunk_size=$((chunk_size / 2))
+                echo "Reducing chunk size to $chunk_size"
+                if [ $chunk_size -lt 5 ]; then
+                  echo "Chunk size too small, aborting"
+                  return 1
+                fi
+                continue
+              elif [ $result -ne 0 ]; then
+                return 1
+              fi
+              
+              i=$end
+            done
+            return 0
           }
 
           # Function to extract URLs from error logs
@@ -65,68 +175,8 @@ jobs:
             echo "${error_urls[@]}"
           }
 
-          # Function to process a group of files
-          process_group() {
-            local added=$1
-            local modified=$2
-            local deleted=$3
-            local renamed=$4
-            local attempt=1
-            local max_attempts=3
-            local temp_log=$(mktemp)
-            local max_files=1000  # Maximum number of files to process at once
-
-            while [ $attempt -le $max_attempts ]; do
-              echo "Attempt $attempt of $max_attempts"
-              
-              # Split files into smaller chunks if needed
-              IFS=',' read -ra ADDED <<< "$added"
-              IFS=',' read -ra MODIFIED <<< "$modified"
-              IFS=',' read -ra DELETED <<< "$deleted"
-              IFS=',' read -ra RENAMED <<< "$renamed"
-
-              # Process files in chunks
-              for ((i=0; i<${#ADDED[@]}; i+=max_files)); do
-                local chunk_added="${ADDED[@]:i:max_files}"
-                local chunk_modified="${MODIFIED[@]:i:max_files}"
-                local chunk_deleted="${DELETED[@]:i:max_files}"
-                local chunk_renamed="${RENAMED[@]:i:max_files}"
-
-                echo "Processing chunk $((i/max_files + 1)) of $(((${#ADDED[@]} + max_files - 1)/max_files))"
-                
-                if docker run --rm \
-                  -v ${{ github.workspace }}:/app \
-                  -e ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} \
-                  -e ALGOLIA_API_KEY=${{ secrets.ALGOLIA_WRITE_KEY }} \
-                  vtexdocs/devportal-docsearch-action \
-                  --files ./configs/scraper_helpcenter_files.json \
-                  --added "$chunk_added" \
-                  --updated "$chunk_modified" \
-                  --removed "$chunk_deleted" \
-                  --renamed "$chunk_renamed" 2>&1 | tee -a "$temp_log"; then
-                  continue
-                fi
-
-                # Check if error is "Argument list too long" or "Maximum object size exceeded"
-                if grep -q "Argument list too long\|Maximum object size exceeded" "$temp_log"; then
-                  echo "Error detected, reducing chunk size..."
-                  max_files=$((max_files / 2))
-                  if [ $max_files -lt 10 ]; then
-                    echo "Chunk size too small, aborting"
-                    rm "$temp_log"
-                    return 1
-                  fi
-                  i=0  # Restart from beginning with smaller chunks
-                  continue
-                fi
-
-                echo "Different error occurred, retrying..."
-                ((attempt++))
-              done
-            done
-            rm "$temp_log"
-            return 0
-          }
+          # Create a global log file
+          GLOBAL_LOG=$(mktemp)
 
           # Convert comma-separated strings to arrays
           IFS=',' read -ra ADDED <<< "${{ steps.changed-files.outputs.added_files }}"
@@ -134,22 +184,35 @@ jobs:
           IFS=',' read -ra DELETED <<< "${{ steps.changed-files.outputs.deleted_files }}"
           IFS=',' read -ra RENAMED <<< "${{ steps.changed-files.outputs.all_old_new_renamed_files }}"
 
-          # Create a temporary file to store all logs
-          temp_log_file=$(mktemp)
-
-          # Process all files and capture output
-          process_group \
-            "${{ steps.changed-files.outputs.added_files }}" \
-            "${{ steps.changed-files.outputs.modified_files }}" \
-            "${{ steps.changed-files.outputs.deleted_files }}" \
-            "${{ steps.changed-files.outputs.all_old_new_renamed_files }}" 2>&1 | tee "$temp_log_file"
+          # Process each type of files separately with a small initial chunk size
+          CHUNK_SIZE=500
+          
+          if [ ${#ADDED[@]} -gt 0 ]; then
+            echo "Processing added files..."
+            process_files ADDED $CHUNK_SIZE "added" || exit 1
+          fi
+          
+          if [ ${#MODIFIED[@]} -gt 0 ]; then
+            echo "Processing modified files..."
+            process_files MODIFIED $CHUNK_SIZE "modified" || exit 1
+          fi
+          
+          if [ ${#DELETED[@]} -gt 0 ]; then
+            echo "Processing deleted files..."
+            process_files DELETED $CHUNK_SIZE "deleted" || exit 1
+          fi
+          
+          if [ ${#RENAMED[@]} -gt 0 ]; then
+            echo "Processing renamed files..."
+            process_files RENAMED $CHUNK_SIZE "renamed" || exit 1
+          fi
 
           # Extract and report error URLs
-          error_urls=($(extract_error_urls "$temp_log_file"))
+          error_urls=($(extract_error_urls "$GLOBAL_LOG"))
           if [ ${#error_urls[@]} -gt 0 ]; then
             echo "::warning::Found ${#error_urls[@]} URLs that returned 404 or 500 errors:"
             printf '%s\n' "${error_urls[@]}" | sort -u
           fi
 
           # Clean up
-          rm "$temp_log_file"
+          rm "$GLOBAL_LOG"
