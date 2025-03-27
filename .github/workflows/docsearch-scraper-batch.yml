@@ -125,3 +125,5 @@ jobs:
           
           # Clean up
           rm "$LOG_FILE"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
