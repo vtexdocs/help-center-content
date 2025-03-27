@@ -54,7 +54,12 @@ jobs:
           for ((i=0; i<total_files; i+=batch_size)); do
             # Get the current batch of files
             batch=()
-            for ((j=i; j<Math.min(i+batch_size, total_files); j++)); do
+            end=$((i + batch_size))
+            if [ $end -gt $total_files ]; then
+              end=$total_files
+            fi
+            
+            for ((j=i; j<end; j++)); do
               batch+=("${all_files[j]}")
             done
             
