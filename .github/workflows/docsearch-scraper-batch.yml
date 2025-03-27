@@ -26,6 +26,8 @@ jobs:
       - name: Find all markdown files
         id: find-files
         run: |
+          echo "Searching for files in ${{ inputs.directory }}"
+
           # Ensure we're only searching in the specified directory
           if [ ! -d "${{ inputs.directory }}" ]; then
             echo "Error: ${{ inputs.directory }} directory not found!"
