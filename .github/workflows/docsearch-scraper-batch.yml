@@ -106,7 +106,6 @@ jobs:
           added: ${{ inputs.files }}
 
       - name: Check for 500 errors
-        if: failure()
         run: |
           # Create a temporary file to store the log
           LOG_FILE="scraper_log.txt"
