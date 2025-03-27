@@ -74,8 +74,8 @@ jobs:
             
             # Add a small delay between triggers to avoid rate limits
             if [ $((i+batch_size)) -lt $total_files ]; then
-              echo "Waiting 120 seconds before next batch..."
-              sleep 120
+              echo "Waiting 5 seconds before next batch..."
+              sleep 5
             fi
           done
         env:
@@ -90,32 +90,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Helpcenter Scraper
-        id: scraper
         uses: vtexdocs/devportal-docsearch-action@main
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
           files: './configs/scraper_helpcenter_files.json'
-          added: ${{ inputs.files }}
-
-      - name: Check for 500 errors
-        if: failure()
-        run: |
-          # Create a temporary file to store the log
-          LOG_FILE="scraper_log.txt"
-          
-          # Get the log from the scraper step
-          gh run view ${{ github.run_id }} --log > "$LOG_FILE"
-          
-          # Extract URLs that returned 500 errors
-          echo "URLs that returned 500 errors:"
-          echo "=============================="
-          grep -o "Http Status:500 on [^ ]*" "$LOG_FILE" | cut -d' ' -f3 || true
-          
-          # Count the number of 500 errors
-          ERROR_COUNT=$(grep -c "Http Status:500" "$LOG_FILE" || true)
-          echo "=============================="
-          echo "Total number of 500 errors: $ERROR_COUNT"
-          
-          # Clean up
-          rm "$LOG_FILE"
+          removed: ${{ inputs.files }}
