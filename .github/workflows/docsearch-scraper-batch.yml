@@ -8,6 +8,11 @@ on:
         description: 'Comma-separated list of files to process'
         required: false
         type: string
+      directory:
+        description: 'Directory to search for files'
+        required: false
+        type: string
+        default: 'docs'
 
 jobs:
   find-files:
@@ -21,17 +26,17 @@ jobs:
       - name: Find all markdown files
         id: find-files
         run: |
-          # Ensure we're only searching in docs/ directory
-          if [ ! -d "docs" ]; then
-            echo "Error: docs directory not found!"
+          # Ensure we're only searching in the specified directory
+          if [ ! -d "${{ inputs.directory }}" ]; then
+            echo "Error: ${{ inputs.directory }} directory not found!"
             exit 1
           fi
           
-          # Find all markdown files in docs/ and its subdirectories
-          FILES=$(find docs -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ',')
+          # Find all markdown files in the specified directory and its subdirectories
+          FILES=$(find ${{ inputs.directory }} -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ',')
           
           if [ -z "$FILES" ]; then
-            echo "Error: No markdown files found in docs/ directory!"
+            echo "Error: No markdown files found in ${{ inputs.directory }} directory!"
             exit 1
           fi
           
