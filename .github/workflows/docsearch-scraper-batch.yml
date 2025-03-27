@@ -53,11 +53,11 @@ jobs:
           # Read all files into an array using comma as delimiter
           IFS=',' read -r -a all_files <<< "${{ steps.find-files.outputs.files }}"
           total_files=${#all_files[@]}
-          batch_size=500
+          batch_size=400
           
           echo "Total files to process: $total_files"
           
-          # Process files in batches of 500
+          # Process files in batches of 400
           for ((i=0; i<total_files; i+=batch_size)); do
             # Get the current batch of files
             batch=()
@@ -81,8 +81,8 @@ jobs:
             
             # Add a small delay between triggers to avoid rate limits
             if [ $((i+batch_size)) -lt $total_files ]; then
-              echo "Waiting 120 seconds before next batch..."
-              sleep 120
+              echo "Waiting 420 seconds before next batch..."
+              sleep 420
             fi
           done
         env:
