@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       files:
-        description: 'Space-separated list of files to process'
+        description: 'Comma-separated list of files to process'
         required: false
         type: string
 
@@ -28,7 +28,7 @@ jobs:
           fi
           
           # Find all markdown files in docs/ and its subdirectories
-          FILES=$(find docs -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ' ')
+          FILES=$(find docs -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ',')
           
           if [ -z "$FILES" ]; then
             echo "Error: No markdown files found in docs/ directory!"
@@ -43,37 +43,37 @@ jobs:
 
       - name: Create batches and trigger workflows
         run: |
-          # Read all files into an array
-          IFS=' ' read -r -a all_files <<< "${{ steps.find-files.outputs.files }}"
-          total_files=${#all_files[@]}
-          batch_size=1000
+          # Count total files by counting commas and adding 1
+          total_files=$(echo "${{ steps.find-files.outputs.files }}" | tr -cd ',' | wc -c)
+          total_files=$((total_files + 1))
+          batch_size=500
           
           echo "Total files to process: $total_files"
           
-          # Process files in batches of 1000
-          for ((i=0; i<total_files; i+=batch_size)); do
-            # Get the current batch of files
-            batch=()
-            end=$((i + batch_size))
-            if [ $end -gt $total_files ]; then
-              end=$total_files
-            fi
+          # Process files in batches of 500
+          current_pos=0
+          batch_number=1
+          
+          while [ $current_pos -lt $total_files ]; do
+            # Get the next batch of files
+            batch=$(echo "${{ steps.find-files.outputs.files }}" | cut -d',' -f$((current_pos + 1))-$((current_pos + batch_size)))
             
-            for ((j=i; j<end; j++)); do
-              batch+=("${all_files[j]}")
-            done
+            # Count files in this batch
+            batch_count=$(echo "$batch" | tr -cd ',' | wc -c)
+            batch_count=$((batch_count + 1))
             
-            # Join the batch files with spaces
-            batch_files="${batch[*]}"
-            
-            echo "Triggering workflow for batch $((i/batch_size + 1)) with ${#batch[@]} files"
-            echo "Files in this batch: $batch_files"
+            echo "Triggering workflow for batch $batch_number with $batch_count files"
+            echo "Files in this batch: $batch"
             
             # Trigger a new workflow run with this batch
-            gh workflow run docsearch-scraper-batch.yml -f files="$batch_files"
+            gh workflow run docsearch-scraper-batch.yml -f files="$batch"
+            
+            # Move to next batch
+            current_pos=$((current_pos + batch_size))
+            batch_number=$((batch_number + 1))
             
             # Add a small delay between triggers to avoid rate limits
-            if [ $((i+batch_size)) -lt $total_files ]; then
+            if [ $current_pos -lt $total_files ]; then
               echo "Waiting 5 seconds before next batch..."
               sleep 5
             fi
@@ -96,3 +96,4 @@ jobs:
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
           files: './configs/scraper_helpcenter_files.json'
           added: ${{ inputs.files }}
+          debug: true
