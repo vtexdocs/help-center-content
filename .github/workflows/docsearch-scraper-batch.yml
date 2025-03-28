@@ -4,15 +4,25 @@ name: "Help Center batch files scraper"
 on:
   workflow_dispatch:
     inputs:
-      files:
-        description: 'Comma-separated list of files to process'
-        required: false
-        type: string
       directory:
         description: 'Directory to search for files'
         required: false
         type: string
         default: 'docs'
+      batch_size:
+        description: 'Number of files to process per batch'
+        required: false
+        type: number
+        default: 300
+      sleep_time:
+        description: 'Time to sleep between batches'
+        required: false
+        type: number
+        default: 300
+      files:
+        description: 'Comma-separated list of files to process'
+        required: false
+        type: string
 
 jobs:
   find-files:
@@ -53,11 +63,11 @@ jobs:
           # Read all files into an array using comma as delimiter
           IFS=',' read -r -a all_files <<< "${{ steps.find-files.outputs.files }}"
           total_files=${#all_files[@]}
-          batch_size=400
+          batch_size=${{ inputs.batch_size }}
           
           echo "Total files to process: $total_files"
           
-          # Process files in batches of 400
+          # Process files in batches
           for ((i=0; i<total_files; i+=batch_size)); do
             # Get the current batch of files
             batch=()
@@ -81,8 +91,8 @@ jobs:
             
             # Add a small delay between triggers to avoid rate limits
             if [ $((i+batch_size)) -lt $total_files ]; then
-              echo "Waiting 420 seconds before next batch..."
-              sleep 420
+              echo "Waiting ${{ inputs.sleep_time }} seconds before next batch..."
+              sleep ${{ inputs.sleep_time }}
             fi
           done
         env:
