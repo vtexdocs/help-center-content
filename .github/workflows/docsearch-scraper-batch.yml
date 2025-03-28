@@ -106,6 +106,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Pull the latest error log file
+        run: |
+          # Ensure the repository is up-to-date
+          git pull origin main
+          
+          # Define the CSV file path in the repository root
+          CSV_FILE="${{ github.workspace }}/error_log.csv"
+          
+          # Ensure the CSV file exists and has a header if it doesn't exist
+          if [ ! -f "$CSV_FILE" ]; then
+            echo "URL,Status Code,Date,Time" > "$CSV_FILE"
+          fi
+
       - name: Helpcenter Scraper
         id: scraper
         uses: vtexdocs/devportal-docsearch-action@main
@@ -119,11 +132,6 @@ jobs:
         run: |
           # Define the CSV file path in the repository root
           CSV_FILE="${{ github.workspace }}/error_log.csv"
-          
-          # Ensure the CSV file exists and has a header
-          if [ ! -f "$CSV_FILE" ]; then
-            echo "URL,Status Code,Date,Time" > "$CSV_FILE"
-          fi
           
           # Extract logs from the scraper step output
           echo "${{ steps.scraper.outputs.logs }}" > scraper_log.txt
@@ -142,12 +150,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: Commit and push changes in error logs file
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Ensure the branch is up-to-date
+          git pull --rebase origin main
+          
+          # Stage and commit changes
           git add error_log.csv
-          git commit -m "Update error_log.csv with new search indexing errors"
-          git push
+          git commit -m "Update error_log.csv with new search indexing errors" || echo "No changes to commit"
+          
+          # Push changes
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
