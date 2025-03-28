@@ -165,6 +165,7 @@ jobs:
           else
             echo "Branch $BRANCH_NAME does not exist. Creating it."
             git checkout -b "$BRANCH_NAME"
+            git push -u origin "$BRANCH_NAME"  # Push the new branch to the remote repository
           fi
           
           # Pull the latest content from the branch
