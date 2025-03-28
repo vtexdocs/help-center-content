@@ -155,14 +155,39 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Ensure the branch is up-to-date
-          git pull --rebase origin main
+          # Define the branch name
+          BRANCH_NAME="search-indexing-error-logs"
+          
+          # Check if the branch exists remotely
+          if git ls-remote --exit-code --heads origin "$BRANCH_NAME"; then
+            echo "Branch $BRANCH_NAME exists. Checking it out."
+            git checkout "$BRANCH_NAME"
+          else
+            echo "Branch $BRANCH_NAME does not exist. Creating it."
+            git checkout -b "$BRANCH_NAME"
+          fi
+          
+          # Pull the latest content from the branch
+          git pull origin "$BRANCH_NAME" --rebase
           
           # Stage and commit changes
           git add error_log.csv
           git commit -m "Update error_log.csv with new search indexing errors" || echo "No changes to commit"
           
-          # Push changes
-          git push origin main
+          # Push changes to the branch
+          git push origin "$BRANCH_NAME"
+
+      - name: Create Pull Request if it doesn't exist
+        run: |
+          # Check if a Pull Request already exists for the branch
+          PR_EXISTS=$(gh pr list --head "$BRANCH_NAME" --state open --json number --jq '.[0].number')
+          
+          # Check if PR_EXISTS is empty
+          if [ -z "$PR_EXISTS" ]; then
+            echo "No open Pull Request found for branch $BRANCH_NAME. Creating one."
+            gh pr create --title "Update search indexing error logs" --body "This PR updates the error_log.csv file with new search indexing errors." --head "$BRANCH_NAME" --base main
+          else
+            echo "Pull Request #$PR_EXISTS already exists for branch $BRANCH_NAME."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
