@@ -115,23 +115,30 @@ jobs:
           files: './configs/scraper_helpcenter_files.json'
           added: ${{ inputs.files }}
 
-      - name: Check for 500 errors
+      - name: Log 404 and 500 errors to CSV
         run: |
+          # Define the CSV file path
+          CSV_FILE="error_log.csv"
+          
+          # Ensure the CSV file exists and has a header
+          if [ ! -f "$CSV_FILE" ]; then
+            echo "URL,Status Code,Date,Time" > "$CSV_FILE"
+          fi
+          
           # Create a temporary file to store the log
           LOG_FILE="scraper_log.txt"
           
           # Get the log from the scraper step
           gh run view ${{ github.run_id }} --log > "$LOG_FILE"
           
-          # Extract URLs that returned 500 errors
-          echo "URLs that returned 500 errors:"
-          echo "=============================="
-          grep -o "Http Status:500 on [^ ]*" "$LOG_FILE" | cut -d' ' -f3 || true
-          
-          # Count the number of 500 errors
-          ERROR_COUNT=$(grep -c "Http Status:500" "$LOG_FILE" || true)
-          echo "=============================="
-          echo "Total number of 500 errors: $ERROR_COUNT"
+          # Extract 404 and 500 errors and append them to the CSV file
+          grep -Eo "Http Status:(404|500) on [^ ]*" "$LOG_FILE" | while read -r line; do
+            STATUS_CODE=$(echo "$line" | grep -o "Http Status:[0-9]*" | cut -d':' -f2)
+            URL=$(echo "$line" | grep -o "on [^ ]*" | cut -d' ' -f2)
+            DATE=$(date +"%Y-%m-%d")
+            TIME=$(date +"%H:%M:%S")
+            echo "$URL,$STATUS_CODE,$DATE,$TIME" >> "$CSV_FILE"
+          done
           
           # Clean up
           rm "$LOG_FILE"
