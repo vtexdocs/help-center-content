@@ -136,6 +136,10 @@ jobs:
           # Extract logs from the scraper step output
           echo "${{ steps.scraper.outputs.logs }}" > scraper_log.txt
           
+          # Debug: Print the scraper log file content
+          echo "Scraper log file content:"
+          cat scraper_log.txt
+          
           # Extract 404 and 500 errors and append them to the CSV file
           grep -Eo "Http Status:(404|500) on [^ ]*" scraper_log.txt | while read -r line; do
             STATUS_CODE=$(echo "$line" | grep -o "Http Status:[0-9]*" | cut -d':' -f2)
@@ -144,6 +148,10 @@ jobs:
             TIME=$(date +"%H:%M:%S")
             echo "$URL,$STATUS_CODE,$DATE,$TIME" >> "$CSV_FILE"
           done
+          
+          # Debug: Print the updated CSV file content
+          echo "Updated CSV file content:"
+          cat "$CSV_FILE"
           
           # Clean up
           rm scraper_log.txt
