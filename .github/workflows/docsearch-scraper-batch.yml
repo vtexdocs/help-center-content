@@ -117,8 +117,8 @@ jobs:
 
       - name: Log 404 and 500 errors to CSV
         run: |
-          # Define the CSV file path
-          CSV_FILE="error_log.csv"
+          # Define the CSV file path in the repository root
+          CSV_FILE="${{ github.workspace }}/error_log.csv"
           
           # Ensure the CSV file exists and has a header
           if [ ! -f "$CSV_FILE" ]; then
@@ -139,5 +139,15 @@ jobs:
           
           # Clean up
           rm scraper_log.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add error_log.csv
+          git commit -m "Update error_log.csv with new search indexing errors"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
