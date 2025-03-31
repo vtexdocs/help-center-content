@@ -168,7 +168,8 @@ jobs:
           
           # Check if the branch exists remotely
           if git ls-remote --exit-code --heads origin "$BRANCH_NAME"; then
-            echo "Branch $BRANCH_NAME exists. Checking it out."
+            echo "Branch $BRANCH_NAME exists. Fetching it."
+            git fetch origin "$BRANCH_NAME"
             git checkout "$BRANCH_NAME"
           else
             echo "Branch $BRANCH_NAME does not exist. Creating it."
