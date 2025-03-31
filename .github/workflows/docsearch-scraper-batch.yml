@@ -137,6 +137,12 @@ jobs:
           
           # Extract logs from the scraper step output
           echo "${{ steps.scraper.outputs.errors }}" > scraper_errors.txt
+
+          # Debug: Print the scraper output
+          echo "Scraper step output (quotes):"
+          echo "${{ steps.scraper.outputs.errors }}"
+          echo "Scraper step output (no quotes):"
+          echo ${{ steps.scraper.outputs.errors }}
           
           # Debug: Print the scraper log file content
           echo "Scraper log file content:"
@@ -168,6 +174,12 @@ jobs:
           # Define the branch name
           BRANCH_NAME="search-indexing-error-logs"
           
+          # Temporarily move the error_log.csv file if it exists and is untracked
+          if [ -f "error_log.csv" ] && ! git ls-files --error-unmatch error_log.csv > /dev/null 2>&1; then
+            echo "Temporarily moving untracked error_log.csv file."
+            mv error_log.csv error_log.csv.bak
+          fi
+          
           # Check if the branch exists remotely
           if git ls-remote --exit-code --heads origin "$BRANCH_NAME"; then
             echo "Branch $BRANCH_NAME exists. Fetching it."
@@ -177,6 +189,12 @@ jobs:
             echo "Branch $BRANCH_NAME does not exist. Creating it."
             git checkout -b "$BRANCH_NAME"
             git push -u origin "$BRANCH_NAME"  # Push the new branch to the remote repository
+          fi
+          
+          # Restore the error_log.csv file if it was moved
+          if [ -f "error_log.csv.bak" ]; then
+            echo "Restoring error_log.csv file."
+            mv error_log.csv.bak error_log.csv
           fi
           
           # Pull the latest content from the branch
