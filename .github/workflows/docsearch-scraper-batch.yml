@@ -137,6 +137,12 @@ jobs:
           
           # Extract logs from the scraper step output
           echo "${{ steps.scraper.outputs.errors }}" > scraper_errors.txt
+
+          # Debug: Print the scraper output
+          echo "Scraper step output (quotes):"
+          echo "${{ steps.scraper.outputs.errors }}"
+          echo "Scraper step output (no quotes):"
+          echo ${{ steps.scraper.outputs.errors }}
           
           # Debug: Print the scraper log file content
           echo "Scraper log file content:"
