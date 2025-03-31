@@ -127,6 +127,12 @@ jobs:
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
           files: './configs/scraper_helpcenter_files.json'
           added: ${{ inputs.files }}
+      
+      - name: Upload Scraper Logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraper-logs
+          path: scraper.log
 
       - name: Log 404 and 500 errors to CSV
         run: |
@@ -134,14 +140,14 @@ jobs:
           CSV_FILE="${{ github.workspace }}/error_log.csv"
           
           # Extract logs from the scraper step output
-          echo "${{ steps.scraper.outputs.logs }}" > scraper_log.txt
+          echo "${{ steps.scraper.outputs.errors }}" > scraper_errors.txt
           
           # Debug: Print the scraper log file content
           echo "Scraper log file content:"
-          cat scraper_log.txt
+          cat scraper_errors.txt
           
           # Extract 404 and 500 errors and append them to the CSV file
-          grep -Eo "Http Status:(404|500) on [^ ]*" scraper_log.txt | while read -r line; do
+          grep -Eo "Http Status:(404|500) on [^ ]*" scraper_errors.txt | while read -r line; do
             STATUS_CODE=$(echo "$line" | grep -o "Http Status:[0-9]*" | cut -d':' -f2)
             URL=$(echo "$line" | grep -o "on [^ ]*" | cut -d' ' -f2)
             DATE=$(date +"%Y-%m-%d")
@@ -154,7 +160,7 @@ jobs:
           cat "$CSV_FILE"
           
           # Clean up
-          rm scraper_log.txt
+          rm scraper_errors.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -168,7 +174,8 @@ jobs:
           
           # Check if the branch exists remotely
           if git ls-remote --exit-code --heads origin "$BRANCH_NAME"; then
-            echo "Branch $BRANCH_NAME exists. Checking it out."
+            echo "Branch $BRANCH_NAME exists. Fetching it."
+            git fetch origin "$BRANCH_NAME"
             git checkout "$BRANCH_NAME"
           else
             echo "Branch $BRANCH_NAME does not exist. Creating it."
