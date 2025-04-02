@@ -1,3 +1,5 @@
+console.log("TEST: Script is running!"); 
+
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -9,53 +11,44 @@ let fileQueue = [];
 
 // Function to process each Markdown file
 async function processFile(filePath) {
-    try {
-        const data = await fs.readFile(filePath, 'utf8');
-        const lines = data.split('\n');
+  try {
+    const data = await fs.readFile(filePath, 'utf8');
+    const lines = data.split('\n');
 
-        if (lines[1] && lines[1].startsWith('title:')) {
-            let titleLine = lines[1].trim();
-            const titleContentMatch = titleLine.match(/^title:\s*(['"])(.*)\1$/);
+    if (lines[1] && lines[1].trim().startsWith('title:')) {
+      let titleLine = lines[1].trim();
+      
+      // Fix unquoted titles - for example:  `title: Hello "world"`
+      if (!titleLine.match(/title:\s*['"]/)) {
+        titleLine = titleLine.replace(/title:\s*(.*)/, (_, content) => {
+          return `title: "${content.replace(/"/g, "'")}"`; // Add quotes + replace internals
+        });
+      }
+      // Fix double-quoted titles  - for example: `title: "Hello "world""`
+      else if (titleLine.includes('"') && !titleLine.includes('\\"')) {
+        titleLine = titleLine.replace(/"([^"\\]*(\\.[^"\\]*)*)"/g, (match, content) => {
+          return `"${content.replace(/"/g, "'")}"`; // Replace internal quotes
+        });
+      }
+      // Fix single-quoted titles  - for example: `title: 'Hello "world"'`
+      else if (titleLine.includes("'")) {
+        titleLine = titleLine.replace(/'([^'\\]*(\\.[^'\\]*)*)'/g, (match, content) => {
+          return `"${content.replace(/"/g, "'")}"`; // Convert to double quotes
+        });
+      }
 
-            if (titleContentMatch) {
-                const currentOuterQuote = titleContentMatch[1];
-                const originalTitleContent = titleContentMatch[2];
-                let updatedTitleContent;
-                let updatedTitleLine;
-
-                if (currentOuterQuote === `'`) {
-                    if (originalTitleContent.includes('"')) {
-                        updatedTitleContent = originalTitleContent.replace(/"/g, "'");
-                        updatedTitleLine = `title: "${updatedTitleContent}"`;
-                    } else {
-                        updatedTitleLine = titleLine;
-                    }
-                } else if (currentOuterQuote === `"`) {
-                    if (originalTitleContent.includes('"')) {
-                        updatedTitleContent = originalTitleContent.replace(/"(?![^"]*")/g, "'");
-                        updatedTitleLine = `title: "${updatedTitleContent}"`;
-                    } else {
-                        updatedTitleLine = titleLine;
-                    }
-                }
-
-                if (updatedTitleLine && updatedTitleLine !== titleLine) {
-                    lines[1] = updatedTitleLine;
-                    const newData = lines.join('\n');
-                    await fs.writeFile(filePath, newData, 'utf8');
-                    // console.log(`Quotes replaced in file: ${filePath}`);
-                }
-            }
-        }
-    } catch (error) {
-        console.error(`Error processing file: ${filePath}`, error);
-    } finally {
-        activeFiles--;
-        if (fileQueue.length > 0) {
-            const nextFile = fileQueue.shift();
-            processFile(nextFile);
-        }
+      // Only update if changes were made
+      if (titleLine !== lines[1]) {
+        lines[1] = titleLine;
+        await fs.writeFile(filePath, lines.join('\n'), 'utf8');
+      }
     }
+  } catch (error) {
+    console.error(`Error in ${filePath}:`, error);
+  } finally {
+    activeFiles--;
+    if (fileQueue.length > 0) processFile(fileQueue.shift());
+  }
 }
 
 // Function to recursively process files in directories
