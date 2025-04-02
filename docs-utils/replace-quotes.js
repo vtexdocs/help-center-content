@@ -18,7 +18,7 @@ async function processFile(filePath) {
     if (lines[1] && lines[1].trim().startsWith('title:')) {
       let titleLine = lines[1].trim();
       
-      // Fix unquoted titles - for example:  `title: Hello "world"`
+      // Fix unquoted titles - for example:  `title: Hello "world"` - not sure if we need to cover this type of scenario
       if (!titleLine.match(/title:\s*['"]/)) {
         titleLine = titleLine.replace(/title:\s*(.*)/, (_, content) => {
           return `title: "${content.replace(/"/g, "'")}"`; // Add quotes + replace internals
