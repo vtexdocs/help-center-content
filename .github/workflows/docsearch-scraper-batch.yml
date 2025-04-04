@@ -123,7 +123,7 @@ jobs:
 
       - name: Helpcenter Scraper
         id: scraper
-        uses: vtexdocs/devportal-docsearch-action@main
+        uses: vtexdocs/devportal-docsearch-action@PedroAntunesCosta-spider-1
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
