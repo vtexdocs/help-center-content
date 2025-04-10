@@ -108,19 +108,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull the latest error log file
-        run: |
-          # Ensure the repository is up-to-date
-          git pull origin main
-          
-          # Define the CSV file path in the repository root
-          CSV_FILE="${{ github.workspace }}/error_log.csv"
-          
-          # Ensure the CSV file exists and has a header if it doesn't exist
-          if [ ! -f "$CSV_FILE" ]; then
-            echo "URL,Status Code,Date,Time" > "$CSV_FILE"
-          fi
-
       - name: Helpcenter Scraper
         id: scraper
         uses: vtexdocs/devportal-docsearch-action@PedroAntunesCosta-spider-1
@@ -130,16 +117,3 @@ jobs:
           files: './configs/scraper_helpcenter_files.json'
           added: ${{ inputs.files }}
           
-        run: |
-          # Check if a Pull Request already exists for the branch
-          PR_EXISTS=$(gh pr list --head "$BRANCH_NAME" --state open --json number --jq '.[0].number')
-          
-          # Check if PR_EXISTS is empty
-          if [ -z "$PR_EXISTS" ]; then
-            echo "No open Pull Request found for branch $BRANCH_NAME. Creating one."
-            gh pr create --title "Update search indexing error logs" --body "This PR updates the error_log.csv file with new search indexing errors." --head "$BRANCH_NAME" --base main
-          else
-            echo "Pull Request #$PR_EXISTS already exists for branch $BRANCH_NAME."
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
