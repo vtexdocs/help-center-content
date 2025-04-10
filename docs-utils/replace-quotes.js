@@ -17,31 +17,55 @@ async function processFile(filePath) {
 
     if (lines[1] && lines[1].trim().startsWith('title:')) {
       let titleLine = lines[1].trim();
-      
-      // Fix unquoted titles - for example:  `title: Hello "world"` - not sure if we need to cover this type of scenario
+      console.log(`file: ${filePath} -ORIGINAL: ${titleLine}`);
+
+      // Handle empty or whitespace-only titles
+      if (titleLine === 'title:' || titleLine.match(/^title:\s+$/)) {
+        console.warn(`Warning: Empty or whitespace-only title in file: ${filePath}`);
+        return;
+      }
+
+      // Fix unquoted titles
       if (!titleLine.match(/title:\s*['"]/)) {
         titleLine = titleLine.replace(/title:\s*(.*)/, (_, content) => {
           return `title: "${content.replace(/"/g, "'")}"`; // Add quotes + replace internals
         });
       }
-      // Fix double-quoted titles  - for example: `title: "Hello "world""`
-      else if (titleLine.includes('"') && !titleLine.includes('\\"')) {
-        titleLine = titleLine.replace(/"([^"\\]*(\\.[^"\\]*)*)"/g, (match, content) => {
-          return `"${content.replace(/"/g, "'")}"`; // Replace internal quotes
+      // Fix double-quoted titles
+      else if (titleLine.match(/^title:\s*"([^`]*"[^`]*)+"$/)) {
+        titleLine = titleLine.replace(/^title:\s*"(.*)"$/, (match, content) => {
+          const cleanContent = content.replace(/^"|"$/g, ''); // Remove extra quotes
+          return `title: '${cleanContent}'`;
         });
       }
-      // Fix single-quoted titles  - for example: `title: 'Hello "world"'`
-      else if (titleLine.includes("'")) {
-        titleLine = titleLine.replace(/'([^'\\]*(\\.[^'\\]*)*)'/g, (match, content) => {
-          return `"${content.replace(/"/g, "'")}"`; // Convert to double quotes
+      // Fix single-quoted titles with nested single quotes
+      else if (titleLine.match(/^title:\s*'([^']*'[^']*)+'$/)) {
+        titleLine = titleLine.replace(/^title:\s*'(.*)'$/, (match, content) => {
+          return `title: "${content}"`; // Convert outer single quotes to double quotes
         });
+      }
+      // Handle mixed quotes
+      else if (titleLine.match(/^title:\s*"(.*'[^"]*)"/)) {
+        titleLine = titleLine.replace(/^title:\s*"(.*)"$/, (match, content) => {
+          return `title: "${content}"`; // Keep outer double quotes
+        });
+      }
+      // Handle escaped quotes
+      else if (titleLine.match(/^title:\s*".*\\".*"$/)) {
+        console.log(`Escaped quotes detected in file: ${filePath}`);
+      }
+      // Handle multiline titles
+      else if (titleLine.includes('\n')) {
+        console.warn(`Warning: Multiline title detected in file: ${filePath}`);
       }
 
       // Only update if changes were made
       if (titleLine !== lines[1]) {
+        console.log('Replacing title line:', lines[1], 'with:', titleLine);
         lines[1] = titleLine;
         await fs.writeFile(filePath, lines.join('\n'), 'utf8');
       }
+      console.log(`file: ${filePath} -UPDATED: ${titleLine}`);
     }
   } catch (error) {
     console.error(`Error in ${filePath}:`, error);
@@ -53,6 +77,7 @@ async function processFile(filePath) {
 
 // Function to recursively process files in directories
 async function processDirectory(dirPath) {
+    console.log(`Scanning directory: ${dirPath}`); // Log the directory being scanned
     try {
         const files = await fs.readdir(dirPath);
         
@@ -63,6 +88,7 @@ async function processDirectory(dirPath) {
             if (stats.isDirectory()) {
                 await processDirectory(filePath);
             } else if (path.extname(file) === '.md') {
+                console.log(`Found Markdown file: ${filePath}`); // Log each Markdown file found
                 if (activeFiles < MAX_CONCURRENT_FILES) {
                     activeFiles++;
                     processFile(filePath);
@@ -77,7 +103,7 @@ async function processDirectory(dirPath) {
 }
 
 async function replaceQuotes() {
-    console.log("Replacing quotation marks...");
+    console.log("Lendo arquivos da pasta docsDir");
     await processDirectory(docsDir);
 
     // Wait until all files are processed
