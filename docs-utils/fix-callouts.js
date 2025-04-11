@@ -1,5 +1,29 @@
 const fs = require('fs').promises;
+const fsSync = require('fs');
 const path = require('path');
+
+const scriptErrorsPath = path.resolve(__dirname, '../script-errors.md');
+
+// Function to log errors to script-errors.md
+async function logScriptStatus(scriptName, status, errors = []) {
+  const timestamp = new Date().toISOString();
+  const errorDetails = errors.length
+    ? errors.map(err => `| ${scriptName} | ❌ Failed | ${err} | ${timestamp} |`).join('\n')
+    : `| ${scriptName} | ✅ Success | - | ${timestamp} |`;
+
+  const header = `| Script Name | Status | Details | Timestamp |\n|-------------|--------|---------|-----------|`;
+  const content = `${header}\n${errorDetails}\n`;
+
+  try {
+    if (!fsSync.existsSync(scriptErrorsPath)) {
+      fsSync.writeFileSync(scriptErrorsPath, content);
+    } else {
+      fsSync.appendFileSync(scriptErrorsPath, `${errorDetails}\n`);
+    }
+  } catch (err) {
+    console.error(`Error logging script status: ${err.message}`);
+  }
+}
 
 // The root folder to process
 const rootFolder = 'docs';
@@ -112,12 +136,20 @@ async function processDirectory(directory) {
 }
 
 async function fixCallouts() {
-    console.log("Fixing callouts...");
-    await processDirectory(rootFolder);
-    while (activeFiles > 0 || fileQueue.length > 0) {
-        await new Promise(resolve => setTimeout(resolve, 100));
+    const errors = [];
+    try {
+        console.log("Fixing callouts...");
+        await processDirectory(rootFolder);
+        while (activeFiles > 0 || fileQueue.length > 0) {
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
+        console.log("Finished fixing callouts in markdown files.");
+    } catch (err) {
+        errors.push(err.message);
+        console.error(`Error fixing callouts: ${err.message}`);
+    } finally {
+        await logScriptStatus('fixCallouts', errors.length ? 'Failed' : 'Success', errors);
     }
-    console.log("Finished fixing callouts in markdown files.");
 }
 
 module.exports = { fixCallouts };
