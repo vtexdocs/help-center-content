@@ -3,6 +3,7 @@ const fs = require('fs').promises;
 const fsSync = require('fs');
 const path = require('path');
 const docsFolderPath = path.join(__dirname, 'docs');
+const scriptErrorsPath = path.join(__dirname, 'script-errors.md');
 
 const contentful = require("contentful-management");
 require("dotenv").config();
@@ -38,8 +39,30 @@ let contentTypes = {
   unknownContentTypes: [],
 };
 
+// Function to log errors to script-errors.md
+async function logScriptStatus(scriptName, status, errors = []) {
+  const timestamp = new Date().toISOString();
+  const errorDetails = errors.length
+    ? errors.map(err => `| ${scriptName} | ❌ Failed | ${err} | ${timestamp} |`).join('\n')
+    : `| ${scriptName} | ✅ Success | - | ${timestamp} |`;
+
+  const header = `| Script Name | Status | Details | Timestamp |\n|-------------|--------|---------|-----------|`;
+  const content = `${header}\n${errorDetails}\n`;
+
+  try {
+    if (!fsSync.existsSync(scriptErrorsPath)) {
+      fsSync.writeFileSync(scriptErrorsPath, content);
+    } else {
+      fsSync.appendFileSync(scriptErrorsPath, `${errorDetails}\n`);
+    }
+  } catch (err) {
+    console.error(`Error logging script status: ${err.message}`);
+  }
+}
+
 // Function to delete all markdown files in the 'docs' folder and its subfolders
 async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
+  const errors = [];
   if (isTopLevel) {
     console.log("Deleting files and folders...");
   }
@@ -47,17 +70,17 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
   async function processFiles(files) {
     const fileDeletions = files.map(async file => {
       const filePath = path.join(folderPath, file);
-      const stats = await fs.stat(filePath);
+      try {
+        const stats = await fs.stat(filePath);
 
-      if (stats.isDirectory()) {
-        // Recursively delete markdown files in subdirectories
-        await deleteMarkdownFiles(filePath, false);
-        await fs.rmdir(filePath); // Delete folder after processing
-        // console.log(`Deleted folder: ${filePath}`);
-      } else {
-        // Delete markdown files
-        await fs.unlink(filePath);
-        // console.log(`Deleted: ${filePath}`);
+        if (stats.isDirectory()) {
+          await deleteMarkdownFiles(filePath, false);
+          await fs.rmdir(filePath);
+        } else {
+          await fs.unlink(filePath);
+        }
+      } catch (err) {
+        errors.push(`Error deleting file/folder: ${filePath} - ${err.message}`);
       }
     });
 
@@ -71,7 +94,10 @@ async function deleteMarkdownFiles(folderPath, isTopLevel = true) {
       console.log("All files and folders in the docs folder have been deleted.");
     }
   } catch (err) {
+    errors.push(`Error reading folder: ${folderPath} - ${err.message}`);
     console.error(`Error during deletion: ${err.message}`);
+  } finally {
+    await logScriptStatus('deleteMarkdownFiles', errors.length ? 'Failed' : 'Success', errors);
   }
 }
 
@@ -163,77 +189,31 @@ async function getSubcategories() {
   return subcategories;
 }
 
+// Wrap getEntries with error logging
 async function getEntries() {
-
-  await getCategories();
-  await getSubcategories();
-
-  console.log("Getting entries from Contentful...");
+  const errors = [];
   try {
+    await getCategories();
+    await getSubcategories();
+
+    console.log("Getting entries from Contentful...");
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
 
-    let skip = 0;
-    let limit = 100;
-    let totalCount = 0;
-
+    let skip = 0, limit = 100, totalCount = 0;
     do {
       const response = await environment.getEntries({ skip, limit });
-      const entries = response;
       totalCount = response.total;
-
-      for (let j = 0; j < entries.items.length ; j++) {
-        let entry = entries.items[j];
-//      console.log(entry.fields)
-        createMarkdownFile(entry, categories, subcategories);
-      }
+      response.items.forEach(entry => createMarkdownFile(entry, categories, subcategories));
       skip += limit;
     } while (skip < totalCount);
-    console.log(
-      "Total amount of entries retrieved from Contentful:",
-      totalCount
-    );
-    console.log("Authors:", contentTypes.authors.length);
-    console.log("Tracks:", contentTypes.tracks.length);
-    console.log("Known Issues:", contentTypes.knownIssues.length);
-    console.log("Tutorials:", contentTypes.tutorials.length);
-    console.log("Track Articles:", contentTypes.trackArticles.length);
-    console.log("Track Topics:", contentTypes.trackTopics.length);
-    console.log("FAQs:", contentTypes.faqs.length);
-    console.log("Announcements:", contentTypes.announcements.length);
-    console.log("Categories:", contentTypes.categories.length);
-    console.log("Subcategories:", contentTypes.subcategories.length);
-    console.log("Admin V4 docs (deprecated):", contentTypes.adminV4docs.length);
-    console.log("TopBar (deprecated):", contentTypes.topBar.length);
-    console.log("TopQuestions (deprecated):", contentTypes.topQuestions.length);
-    console.log("Concepts (deprecated):", contentTypes.concepts.length);
-    console.log(
-      "Business Guides (deprecated):",
-      contentTypes.businessGuides.length
-    );
-    console.log(
-      "Unknown Content Type:",
-      contentTypes.unknownContentTypes.length
-    );
-    console.log("Entries that generated files:", fileCount / 3); // fileCount divided by the amount of locales, since it creates one file per locale
-    console.log(
-      "Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):",
-      totalCount -
-        fileCount / 3 -
-        contentTypes.authors.length -
-        contentTypes.tracks.length -
-        contentTypes.trackTopics.length -
-        contentTypes.categories.length -
-        contentTypes.subcategories.length -
-        contentTypes.adminV4docs.length -
-        contentTypes.topBar.length -
-        contentTypes.topQuestions.length -
-        contentTypes.concepts.length -
-        contentTypes.businessGuides.length -
-        contentTypes.unknownContentTypes.length
-    );
-  } catch (error) {
-    console.log("Error occurred while fetching entry:", error);
+
+    console.log("Entries fetched and files generated successfully.");
+  } catch (err) {
+    errors.push(`Error fetching entries: ${err.message}`);
+    console.error(`Error fetching entries: ${err.message}`);
+  } finally {
+    await logScriptStatus('getEntries', errors.length ? 'Failed' : 'Success', errors);
   }
 }
 
@@ -834,4 +814,14 @@ async function main() {
   }
 }
 
-main();
+// Remove the automatic execution of the main function
+// main();
+
+// Export individual functions for independent execution
+module.exports = {
+  deleteMarkdownFiles,
+  getEntries,
+  replaceQuotes,
+  fixCallouts,
+  updateAllImages
+};

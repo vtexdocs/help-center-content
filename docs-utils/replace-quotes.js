@@ -1,11 +1,34 @@
 const fs = require('fs').promises;
+const fsSync = require('fs');
 const path = require('path');
 
 const docsDir = path.resolve(__dirname, '../docs');
+const scriptErrorsPath = path.resolve(__dirname, '../script-errors.md');
 const MAX_CONCURRENT_FILES = 100;
 
 let activeFiles = 0;
 let fileQueue = [];
+
+// Function to log errors to script-errors.md
+async function logScriptStatus(scriptName, status, errors = []) {
+  const timestamp = new Date().toISOString();
+  const errorDetails = errors.length
+    ? errors.map(err => `| ${scriptName} | ❌ Failed | ${err} | ${timestamp} |`).join('\n')
+    : `| ${scriptName} | ✅ Success | - | ${timestamp} |`;
+
+  const header = `| Script Name | Status | Details | Timestamp |\n|-------------|--------|---------|-----------|`;
+  const content = `${header}\n${errorDetails}\n`;
+
+  try {
+    if (!fsSync.existsSync(scriptErrorsPath)) {
+      fsSync.writeFileSync(scriptErrorsPath, content);
+    } else {
+      fsSync.appendFileSync(scriptErrorsPath, `${errorDetails}\n`);
+    }
+  } catch (err) {
+    console.error(`Error logging script status: ${err.message}`);
+  }
+}
 
 // Function to process each Markdown file
 async function processFile(filePath) {
@@ -84,15 +107,23 @@ async function processDirectory(dirPath) {
 }
 
 async function replaceQuotes() {
-    console.log("Replacing quotation marks...");
-    await processDirectory(docsDir);
+    const errors = [];
+    try {
+        console.log("Replacing quotation marks...");
+        await processDirectory(docsDir);
 
-    // Wait until all files are processed
-    while (activeFiles > 0 || fileQueue.length > 0) {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        // Wait until all files are processed
+        while (activeFiles > 0 || fileQueue.length > 0) {
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
+
+        console.log("Finished replacing quotation marks in markdown files.");
+    } catch (err) {
+        errors.push(err.message);
+        console.error(`Error replacing quotes: ${err.message}`);
+    } finally {
+        await logScriptStatus('replaceQuotes', errors.length ? 'Failed' : 'Success', errors);
     }
-
-    console.log("Finished replacing quotation marks in markdown files.");
 }
 
 module.exports = { replaceQuotes };
