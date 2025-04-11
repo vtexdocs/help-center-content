@@ -1,9 +1,11 @@
 const fs = require('fs');
+const fsSync = require('fs');
 const path = require('path');
 
 const docsDirEN = path.join(__dirname, '../docs/en/');
 const docsDirPT = path.join(__dirname, '../docs/pt/');
 const docsDirES = path.join(__dirname, '../docs/es/');
+const scriptErrorsPath = path.resolve(__dirname, '../script-errors.md');
 
 const { updateImages } = require('./update-images.js');
 
@@ -11,6 +13,27 @@ const MAX_CONCURRENT_FILES = 100;
 
 let activeFiles = 0;
 let fileQueue = [];
+
+// Function to log errors to script-errors.md
+async function logScriptStatus(scriptName, status, errors = []) {
+  const timestamp = new Date().toISOString();
+  const errorDetails = errors.length
+    ? errors.map(err => `| ${scriptName} | ❌ Failed | ${err} | ${timestamp} |`).join('\n')
+    : `| ${scriptName} | ✅ Success | - | ${timestamp} |`;
+
+  const header = `| Script Name | Status | Details | Timestamp |\n|-------------|--------|---------|-----------|`;
+  const content = `${header}\n${errorDetails}\n`;
+
+  try {
+    if (!fsSync.existsSync(scriptErrorsPath)) {
+      fsSync.writeFileSync(scriptErrorsPath, content);
+    } else {
+      fsSync.appendFileSync(scriptErrorsPath, `${errorDetails}\n`);
+    }
+  } catch (err) {
+    console.error(`Error logging script status: ${err.message}`);
+  }
+}
 
 // Function to process each Markdown file
 async function processFile(filePath) {
@@ -56,17 +79,25 @@ async function processDirectory(dirPath) {
 
 // Start iterating from the target directory and process articles sequentially
 async function updateAllImages() {
-    console.log("Updating all images...");
-    await processDirectory(docsDirEN);
-    await processDirectory(docsDirPT);
-    await processDirectory(docsDirES);
+    const errors = [];
+    try {
+        console.log("Updating all images...");
+        await processDirectory(docsDirEN);
+        await processDirectory(docsDirPT);
+        await processDirectory(docsDirES);
 
-    // Wait until all files are processed
-    while (activeFiles > 0 || fileQueue.length > 0) {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        // Wait until all files are processed
+        while (activeFiles > 0 || fileQueue.length > 0) {
+            await new Promise(resolve => setTimeout(resolve, 100));
+        }
+
+        console.log("Finished replacing all images in markdown files.");
+    } catch (err) {
+        errors.push(err.message);
+        console.error(`Error updating images: ${err.message}`);
+    } finally {
+        await logScriptStatus('updateAllImages', errors.length ? 'Failed' : 'Success', errors);
     }
-
-    console.log("Finished replacing all images in markdown files.");
 }
 
 (async () => {
@@ -77,4 +108,4 @@ async function updateAllImages() {
     }
 })();
 
-module.exports = { updateAllImages }
+module.exports = { updateAllImages };
