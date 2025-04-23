@@ -1,6 +1,22 @@
 # help-center-content
 
-Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository! Here you will find the archives for all articles included in this documentation portal. It is managed by the [Education & Documentation team](https://github.com/vtexdocs/help-center-content/graphs/contributors) at VTEX, so if you have any questions about the repository, do not hesitate to contact any of them.
+Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
+
+## Table of Contents
+
+- [In this repository](#in-this-repository)
+- [Managing Help Center documentation](#managing-help-center-documentation)
+  - [Publishing a new article](#publishing-a-new-article)
+    - [Adding images](#adding-images)
+    - [Adding a download file to the article](#adding-a-download-file-to-the-article)
+    - [Filling in front matter information](#filling-in-front-matter-information)
+  - [Updating a published article](#updating-a-published-article)
+  - [Creating a redirect](#creating-a-redirect)
+  - [Settings for specific content](#settings-for-specific-content)
+- [GitHub Actions](#github-actions)
+  - [Help Center Batch Files Scraper](#help-center-batch-files-scraper)
+  - [Help Center Changed Files Scraper](#help-center-changed-files-scraper)
+  - [Retrieve Docs from Contentful](#retrieve-docs-from-contentful)
 
 ## In this repository
 
@@ -172,3 +188,63 @@ See in this section some specific settings that must be applied according to the
 Track articles' titles must contain the reference numbers in the navigation sidebar, but not in the title of the article page.
 
 ![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/readme-images/readme-track-illustration-6.png)
+
+## GitHub Actions
+
+This repository uses GitHub Actions for automating various tasks related to content management and search indexing. Below are details about each workflow.
+
+### Help Center Batch Files Scraper
+
+**Source**: `.github/workflows/docsearch-scraper-batch.yml`
+
+**Summary**: This workflow processes markdown files in batches for search indexing. It gets all markdown files from a given directory and it's subfolders. It can handle large numbers of files by splitting them into manageable batches to avoid rate limits and timeout issues.
+
+**Trigger Conditions**:
+- Manual trigger (workflow_dispatch)
+- Configurable inputs:
+  - directory (default: 'docs')
+  - batch_size (default: 300)
+  - sleep_time (default: 300)
+  - files (optional comma-separated list)
+
+> If `directory` is empty, `files` is mandatory and vice-versa.
+
+**Dependencies**:
+- actions/checkout@v4
+  - Function: Checks out the repository code
+- vtexdocs/devportal-docsearch-action@PedroAntunesCosta-spider-1
+  - Function: Processes documentation files and updates the search index
+
+### Help Center Changed Files Scraper
+
+**Source**: `.github/workflows/docsearch-scraper-changes.yml`
+
+**Summary**: This workflow monitors changes to markdown files and updates the search index accordingly when pull requests are merged.
+
+**Trigger Conditions**:
+- Pull request closed on main branch
+
+**Dependencies**:
+- actions/checkout@v4
+  - Function: Checks out the repository code
+- tj-actions/changed-files@v43
+  - Function: Detects which files were changed in the pull request
+- vtexdocs/devportal-docsearch-action@main
+  - Function: Updates the search index with changed files
+
+### Retrieve Docs from Contentful
+
+**Source**: `.github/workflows/retrieve-docs.yml`
+
+**Summary**: This workflow fetches documentation from Contentful and updates the repository content, creating a pull request with the changes.
+
+**Trigger Conditions**:
+- Manual trigger (workflow_dispatch)
+
+**Dependencies**:
+- actions/checkout@v3
+  - Function: Checks out the repository code
+- actions/setup-node@v2
+  - Function: Sets up Node.js environment (version 18)
+- peter-evans/create-pull-request@v3
+  - Function: Creates a pull request with the updated documentation
