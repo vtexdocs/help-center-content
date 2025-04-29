@@ -1,3 +1,5 @@
+console.log("TEST: Script is running!"); 
+
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -9,57 +11,73 @@ let fileQueue = [];
 
 // Function to process each Markdown file
 async function processFile(filePath) {
-    try {
-        const data = await fs.readFile(filePath, 'utf8');
-        const lines = data.split('\n');
+  try {
+    const data = await fs.readFile(filePath, 'utf8');
+    const lines = data.split('\n');
 
-        if (lines[1] && lines[1].startsWith('title:')) {
-            let titleLine = lines[1].trim();
-            const titleContentMatch = titleLine.match(/^title:\s*(['"])(.*)\1$/);
+    if (lines[1] && lines[1].trim().startsWith('title:')) {
+      let titleLine = lines[1].trim();
+      console.log(`file: ${filePath} -ORIGINAL: ${titleLine}`);
 
-            if (titleContentMatch) {
-                const currentOuterQuote = titleContentMatch[1];
-                const originalTitleContent = titleContentMatch[2];
-                let updatedTitleContent;
-                let updatedTitleLine;
+      // Handle empty or whitespace-only titles
+      if (titleLine === 'title:' || titleLine.match(/^title:\s+$/)) {
+        console.warn(`Warning: Empty or whitespace-only title in file: ${filePath}`);
+        return;
+      }
 
-                if (currentOuterQuote === `'`) {
-                    if (originalTitleContent.includes('"')) {
-                        updatedTitleContent = originalTitleContent.replace(/"/g, "'");
-                        updatedTitleLine = `title: "${updatedTitleContent}"`;
-                    } else {
-                        updatedTitleLine = titleLine;
-                    }
-                } else if (currentOuterQuote === `"`) {
-                    if (originalTitleContent.includes('"')) {
-                        updatedTitleContent = originalTitleContent.replace(/"(?![^"]*")/g, "'");
-                        updatedTitleLine = `title: "${updatedTitleContent}"`;
-                    } else {
-                        updatedTitleLine = titleLine;
-                    }
-                }
+      // Fix unquoted titles
+      if (!titleLine.match(/title:\s*['"]/)) {
+        titleLine = titleLine.replace(/title:\s*(.*)/, (_, content) => {
+          return `title: "${content.replace(/"/g, "'")}"`; // Add quotes + replace internals
+        });
+      }
+      // Fix double-quoted titles
+      else if (titleLine.match(/^title:\s*"([^`]*"[^`]*)+"$/)) {
+        titleLine = titleLine.replace(/^title:\s*"(.*)"$/, (match, content) => {
+          const cleanContent = content.replace(/^"|"$/g, ''); // Remove extra quotes
+          return `title: '${cleanContent}'`;
+        });
+      }
+      // Fix single-quoted titles with nested single quotes
+      else if (titleLine.match(/^title:\s*'([^']*'[^']*)+'$/)) {
+        titleLine = titleLine.replace(/^title:\s*'(.*)'$/, (match, content) => {
+          return `title: "${content}"`; // Convert outer single quotes to double quotes
+        });
+      }
+      // Handle mixed quotes
+      else if (titleLine.match(/^title:\s*"(.*'[^"]*)"/)) {
+        titleLine = titleLine.replace(/^title:\s*"(.*)"$/, (match, content) => {
+          return `title: "${content}"`; // Keep outer double quotes
+        });
+      }
+      // Handle escaped quotes
+      else if (titleLine.match(/^title:\s*".*\\".*"$/)) {
+        console.log(`Escaped quotes detected in file: ${filePath}`);
+      }
+      // Handle multiline titles
+      else if (titleLine.includes('\n')) {
+        console.warn(`Warning: Multiline title detected in file: ${filePath}`);
+      }
 
-                if (updatedTitleLine && updatedTitleLine !== titleLine) {
-                    lines[1] = updatedTitleLine;
-                    const newData = lines.join('\n');
-                    await fs.writeFile(filePath, newData, 'utf8');
-                    // console.log(`Quotes replaced in file: ${filePath}`);
-                }
-            }
-        }
-    } catch (error) {
-        console.error(`Error processing file: ${filePath}`, error);
-    } finally {
-        activeFiles--;
-        if (fileQueue.length > 0) {
-            const nextFile = fileQueue.shift();
-            processFile(nextFile);
-        }
+      // Only update if changes were made
+      if (titleLine !== lines[1]) {
+        console.log('Replacing title line:', lines[1], 'with:', titleLine);
+        lines[1] = titleLine;
+        await fs.writeFile(filePath, lines.join('\n'), 'utf8');
+      }
+      console.log(`file: ${filePath} -UPDATED: ${titleLine}`);
     }
+  } catch (error) {
+    console.error(`Error in ${filePath}:`, error);
+  } finally {
+    activeFiles--;
+    if (fileQueue.length > 0) processFile(fileQueue.shift());
+  }
 }
 
 // Function to recursively process files in directories
 async function processDirectory(dirPath) {
+    console.log(`Scanning directory: ${dirPath}`); // Log the directory being scanned
     try {
         const files = await fs.readdir(dirPath);
         
@@ -70,6 +88,7 @@ async function processDirectory(dirPath) {
             if (stats.isDirectory()) {
                 await processDirectory(filePath);
             } else if (path.extname(file) === '.md') {
+                console.log(`Found Markdown file: ${filePath}`); // Log each Markdown file found
                 if (activeFiles < MAX_CONCURRENT_FILES) {
                     activeFiles++;
                     processFile(filePath);
@@ -84,7 +103,7 @@ async function processDirectory(dirPath) {
 }
 
 async function replaceQuotes() {
-    console.log("Replacing quotation marks...");
+    console.log("Lendo arquivos da pasta docsDir");
     await processDirectory(docsDir);
 
     // Wait until all files are processed

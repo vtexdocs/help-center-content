@@ -13,9 +13,9 @@ const client = contentful.createClient({
 
 const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
 
-const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
+//const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
-const { updateAllImages } = require('./docs-utils/update-all-images'); // Import the update-all-images function
+//const { updateAllImages } = require('./docs-utils/update-all-images'); // Import the update-all-images function
 
 let fileCount = 0;
 
@@ -182,7 +182,7 @@ async function getEntries() {
       const entries = response;
       totalCount = response.total;
 
-      for (let j = 0; j < entries.items.length ; j++) {
+      for (let j = 0; j < 10 ; j++) {
         let entry = entries.items[j];
 //      console.log(entry.fields)
         createMarkdownFile(entry, categories, subcategories);
@@ -824,11 +824,17 @@ ${textPT}
 // Main function to run all tasks
 async function main() {
   try {
+    /* console.log("DELETANDO ARQUIVOS MARKDOWN");
     await deleteMarkdownFiles(docsFolderPath);
+    console.log("ARQUIVOS MARKDOWN EXCLUÍDOS");
+    console.log("CHAMANDO API DO CONTENTFUL");
     await getEntries();
+    console.log("ENTRIES COLETADAS"); */
+    console.log("AJUSTANDO CARACTERES DOS TÍTULOS");
     await replaceQuotes();
-    await fixCallouts();
-    await updateAllImages();
+    console.log("TITULOS CORRIGIDOS");
+    //await fixCallouts();
+    // await updateAllImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }
