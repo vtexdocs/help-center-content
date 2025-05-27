@@ -184,8 +184,9 @@ async function getEntries() {
 
       for (let j = 0; j < entries.items.length ; j++) {
         let entry = entries.items[j];
-//      console.log(entry.fields)
-        createMarkdownFile(entry, categories, subcategories);
+        if (isPublished(entry)) {
+          createMarkdownFile(entry, categories, subcategories);
+        }
       }
       skip += limit;
     } while (skip < totalCount);
