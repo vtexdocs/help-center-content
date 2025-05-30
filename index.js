@@ -355,11 +355,20 @@ function createMarkdownFile(entry,categories,subcategories) {
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
   let textEN = fields.text?.en || "";
-  textEN = textEN.replace('(//', '(https://').replace('[//', '[https://')
+  textEN = textEN
+    .replace(/\(\/\//g, '(https://')
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let textES = fields.text?.es || "";
-  textES = textES.replace('(//', '(https://').replace('[//', '[https://')
+  textES = textES
+    .replace(/\(\/\//g, '(https://')
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let textPT = fields.text?.pt || "";
-  textPT = textPT.replace('(//', '(https://').replace('[//', '[https://')
+  textPT = textPT
+    .replace(/\(\/\//g, '(https://')
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
@@ -827,9 +836,9 @@ async function main() {
   try {
     await deleteMarkdownFiles(docsFolderPath);
     await getEntries();
-    await replaceQuotes();
-    await fixCallouts();
-    await updateAllImages();
+    // await replaceQuotes();
+    // await fixCallouts();
+    // await updateAllImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }
