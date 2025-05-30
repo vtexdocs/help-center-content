@@ -355,7 +355,7 @@ function createMarkdownFile(entry,categories,subcategories) {
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
   let textEN = fields.text?.en || "";
-  textEN = textEN.replace('(//', '(https://').replace('[//', '[https://')
+  textEN = textEN.replace('(//', '(https://').replace('[//', '[https://').replace('](https://help.vtex.com','](')
   let textES = fields.text?.es || "";
   textES = textES.replace('(//', '(https://').replace('[//', '[https://')
   let textPT = fields.text?.pt || "";
