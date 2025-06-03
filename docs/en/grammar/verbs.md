@@ -14,7 +14,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: verbs
 ---
 
-Verbs play a critical role in creating clear and actionable content for User Interfaces and documentation. They guide users, convey actions, and ensure instructions are concise yet effective.
+Verbs play a critical role in creating clear and actionable content for user interfaces and documentation. They guide users, convey actions, and ensure instructions are concise yet effective.
 
 ## Documentation
 
