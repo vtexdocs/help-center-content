@@ -82,3 +82,27 @@ VTEX is not the hero, **the audience is the hero, and VTEX is their guide**. We 
 | --- | --- | --- |
 | To change the SKU's EAN, just delete all the existing EANs linked to it first. | Delete EAN values associated with the SKU before updating the current SKU EAN. | In order to modify the existing EAN for the SKU, it is required to remove all EAN values currently associated with the SKU beforehand. |
 | Offline payment options mean the customer has to do something outside the store to keep the transaction moving. | Offline payment conditions are those that need a customer action outside of the store environment so that the transaction can follow its flow. | Offline payment conditions refer to those that require the customer to take action outside the store environment to facilitate the continuation of the transaction process. |
+
+**Be accurate**
+
+Use descriptive language to improve the experience for people who don’t use assistive technology.
+
+| Example | Alternative | Reason |
+| ---- | ---- | ---- |
+| VTEX has ways to help streamline catalog management and enhance the shopping experience for your customer. | VTEX helps streamline catalog management and enhance your customer shopping experience. | Avoid using overly vague or promotional language. Providing clear and accurate descriptions of new features helps build trust and enables users to make informed decisions. |
+
+**Use of please**
+
+We want to be polite, but saying please in instructions is too much. 
+
+| Do ✅ | Don't ❌ |
+| ---- | ---- |
+| In the VTEX Admin, go to Orders \> All Orders | In the VTEX Admin, please go to Orders \> All Orders |
+
+**Contractions**
+
+We want to sound friendly, so we use common contractions. 
+
+| Do ✅ | Don't ❌ |
+| ---- | ---- |
+| You don't have any manually added products. | You do not have any manually added products. |
