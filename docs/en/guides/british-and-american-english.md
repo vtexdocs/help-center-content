@@ -14,8 +14,6 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: british-vs-american-english
 ---
 
-## British vs. American English
-
 The standard for content is English \- US.
 
 For example, words that might include either the letter \-**o** or the letters \-**ou** are written with \-**o**. 
