@@ -1,5 +1,5 @@
 ---
-title: 'British vs. American English'
+title: 'US English standard'
 id: guides0003
 status: PUBLISHED
 createdAt: 2025-06-02T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-06-02T19:24:22.388Z
 firstPublishedAt: 2025-06-02T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: british-vs-american-english
+slugEN: us-english-standard
 locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: british-vs-american-english
+trackSlugEN: us-english-standard
 ---
 
 The standard for content is English \- US.
