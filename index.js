@@ -277,7 +277,7 @@ function normalizeFileName(str) {
   if (!str) return '';
   return str
     .normalize('NFD')
-    // Replace common accented and special characters
+    // Replace common and special characters
     .replace(/[ñÑ]/g, 'n')
     .replace(/[óòöôõÓÒÖÔÕ]/g, 'o')
     .replace(/[áàäâãÁÀÄÂÃ]/g, 'a')
@@ -287,13 +287,9 @@ function normalizeFileName(str) {
     .replace(/[çÇ]/g, 'c')
     .replace(/[¿¡]/g, '')
     .replace(/[’'`]/g, '')
-    // Remove any remaining diacritics
     .replace(/\p{Diacritic}/gu, '')
-    // Replace any other non-alphanumeric character (except dash, underscore, dot) with dash
     .replace(/[^a-zA-Z0-9-_.]/g, '-')
-    // Collapse multiple dashes
     .replace(/-+/g, '-')
-    // Trim dashes from start/end
     .replace(/^-+|-+$/g, '');
 }
 
