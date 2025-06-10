@@ -273,6 +273,26 @@ function getSubcategoryInfo(entry) {
   }
 }
 
+function normalizeFileName(str) {
+  if (!str) return '';
+  return str
+    .normalize('NFD')
+    // Replace common and special characters
+    .replace(/[ñÑ]/g, 'n')
+    .replace(/[óòöôõÓÒÖÔÕ]/g, 'o')
+    .replace(/[áàäâãÁÀÄÂÃ]/g, 'a')
+    .replace(/[éèëêÉÈËÊ]/g, 'e')
+    .replace(/[íìïîÍÌÏÎ]/g, 'i')
+    .replace(/[úùüûÚÙÜÛ]/g, 'u')
+    .replace(/[çÇ]/g, 'c')
+    .replace(/[¿¡]/g, '')
+    .replace(/[’'`]/g, '')
+    .replace(/\p{Diacritic}/gu, '')
+    .replace(/[^a-zA-Z0-9-_.]/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
 function createMarkdownFile(entry,categories,subcategories) {
   // extract information from each entry
 
@@ -357,18 +377,15 @@ function createMarkdownFile(entry,categories,subcategories) {
   let textEN = fields.text?.en || "";
   textEN = textEN
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://')
-    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
+    .replace(/\[\/\//g, '[https://');
   let textES = fields.text?.es || "";
   textES = textES
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://')
-    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
+    .replace(/\[\/\//g, '[https://');
   let textPT = fields.text?.pt || "";
   textPT = textPT
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://')
-    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
+    .replace(/\[\/\//g, '[https://');
   let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
@@ -411,14 +428,9 @@ function createMarkdownFile(entry,categories,subcategories) {
   let announcementSynopsisPT = fields.synopsis?.pt || "";
 
   // create .md files in locale folders for each item
-
-  let fileNameEN = slugEN.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters and trim if necessary to avoid "filename too long" git error
-  let fileNameES = slugES.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNameES = fileNameES.replace(/\?/g, "");
-  let fileNamePT = slugPT.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNamePT = fileNamePT.replace(/\?/g, "");
-
+  let fileNameEN = normalizeFileName(slugEN.substring(0, 147).replace(/-$/, "")) + ".md";
+  let fileNameES = normalizeFileName(slugES.substring(0, 147).replace(/-$/, "")) + ".md";
+  let fileNamePT = normalizeFileName(slugPT.substring(0, 147).replace(/-$/, "")) + ".md";
   let fileContentEN = "";
   let fileContentES = "";
   let fileContentPT = "";
@@ -836,9 +848,9 @@ async function main() {
   try {
     await deleteMarkdownFiles(docsFolderPath);
     await getEntries();
-    // await replaceQuotes();
-    // await fixCallouts();
-    // await updateAllImages();
+    await replaceQuotes();
+    await fixCallouts();
+    await updateAllImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }
