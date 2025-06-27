@@ -851,9 +851,9 @@ async function main() {
   try {
     await deleteMarkdownFiles(docsFolderPath);
     await getEntries();
-    await replaceQuotes();
-    await fixCallouts();
-    await updateAllImages();
+    //await replaceQuotes();
+    //await fixCallouts();
+    //await updateAllImages();
   } catch (error) {
     console.error("Error in main function:", error);
   }
