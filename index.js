@@ -377,15 +377,18 @@ function createMarkdownFile(entry,categories,subcategories) {
   let textEN = fields.text?.en || "";
   textEN = textEN
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://');
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let textES = fields.text?.es || "";
   textES = textES
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://');
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let textPT = fields.text?.pt || "";
   textPT = textPT
     .replace(/\(\/\//g, '(https://')
-    .replace(/\[\/\//g, '[https://');
+    .replace(/\[\/\//g, '[https://')
+    .replace(/\]\(https:\/\/help\.vtex\.com/g, '](');
   let subcategoryId = fields.subcategory?.pt.sys.id || "unknown-subcategory";
 
   // Initialize category and subcategory variables
