@@ -1,5 +1,5 @@
 ---
-title: 'Navegação Data Pipeline'
+title: 'Navegação Data Pipeline '
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
@@ -31,9 +31,9 @@ Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um p
 ## Características dos dados de navegação
 
 | **Característica** | **Descrição** |
-|:---:|:---:|
-| Origem do dado | O conjunto de dados se origina via <i>script</i> executado no <i>frontend</i> da loja, é ele quem registra as informações das sessões e atividades dos usuários. |
-| Disponibilidade | Os dados de navegação podem ser acessados no <a href="https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados">dashboard Visão Geral</a> no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
+|:---|:---|
+| Origem do dado | O conjunto de dados se origina via *script* executado no *frontend* da loja, é ele quem registra as informações das sessões e atividades dos usuários. |
+| Disponibilidade | Os dados de navegação podem ser acessados no [dashboard Visão Geral](https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2022 para clientes que já utilizam a plataforma VTEX. |
 | Menor intervalo de atualização possível | Uma hora. |  
 
@@ -45,7 +45,7 @@ Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um p
 Esta tabela contém apenas sessões fechadas, seja por inatividade ou porque terminaram em uma compra. E é ordenada por `session_id`, `session_end_time` e `store_name`; portanto, evite filtrar grandes intervalos de dados por colunas que não estão nesta estratégia de ordenação. Veja os campos que compõem a tabela.  
 
 | **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | batch_id | character varying(13) | ID de controle da ingestão de dados. |
 | session_id | character varying(127) | UUID único identificando esta sessão, correspondente ao cookie VtexRCSessionIdv7. |
 | store_name | character varying(127) | Nome da loja que produziu as visualizações de página desta sessão. |
@@ -102,7 +102,7 @@ Uma visualização de página é contabilizada após o navegador do comprador ca
 Cada página possui atributos específicos e, como esta tabela reúne tudo em um único esquema, muitos valores nulos aparecerão. Por exemplo, espera-se que os atributos das páginas de produtos sejam nulos quando a visualização da página corresponder a uma etapa do carrinho de compras. Veja a seguir os campos que compõem a tabela.
 
 | **Nome da Coluna** | **Tipo de Campo** | **Descrição** |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | client_date | timestamp without time zone | Data e hora do servidor da visualização da página. |
 | session_id | character varying(127) | Identificador único de uma sessão, mapeando diretamente para o cookie VtexRCSessionIdv7. |
 | page_type | character varying(127) | Tipo da página acessada, com valores predefinidos como 'home', 'category', 'product', entre outros. |
