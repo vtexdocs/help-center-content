@@ -1,5 +1,5 @@
 ---
-title: 'Como funciona a Alterar pedido (Beta)'
+title: "Como funciona a Alterar pedido (Beta)"
 id: 56TO0bOFXsfmpc7YZ3wIUZ
 status: PUBLISHED
 createdAt: 2023-11-27T14:51:09.723Z
@@ -17,7 +17,7 @@ subcategoryId: 3LQ1Tl0u4frEOd45BkjFAm
 
 >ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Se você deseja utilizar a **Alterar pedido (Beta)**, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support) e informe o(s) [account name(s)](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) nos quais deseja ativá-la.
 
-A funcionalidade **Alterar pedido (beta)** permite que você mude um pedido de diversas maneiras, seja a mudança motivada pela vontade do cliente, pela indisponibilidade de produtos ou outros motivos. Os principais tipos de alteração de pedidos são: 
+A funcionalidade **Alterar pedido (beta)** permite que você mude um pedido de diversas maneiras, seja a mudança motivada pela vontade do cliente, pela indisponibilidade de produtos ou outros motivos. Os principais tipos de alteração de pedidos são:
 
 * **Adicionar:** uma quantidade de itens ou novos produtos.
 * **Remover:** uma quantidade parcial ou total de itens.
@@ -27,9 +27,9 @@ A funcionalidade **Alterar pedido (beta)** permite que você mude um pedido de d
 
 Para ver o passo a passo completo de como realizar cada ação, veja a documentação [Como alterar pedidos (Beta)](https://help.vtex.com/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw). O artigo atual aborda outros aspectos da **Alterar pedido (Beta)** e está organizado da seguinte forma:
 
-* [Alterações pelo Admin VTEX e API](#alteracoes-pelo-admin-vtex-e-api)
-* [Características gerais](#caracteristicas-gerais)
-* [Mudanças de preço](#mudancas-de-preco)
+- [Alterações pelo Admin VTEX e API](#alterações-pelo-admin-vtex-e-api)
+- [Características gerais](#características-gerais)
+- [Mudanças de preço](#mudanças-de-preço)
 
 ## Alterações pelo Admin VTEX e API
 
@@ -72,4 +72,3 @@ Veja na tabela abaixo mais informações sobre pagamento e fatura na alteração
 | Transação compartilhada entre sellers e marketplace | É possível alterar pedidos que envolvem mais um de seller e pagamentos no ambiente do marketplace, ou seja, cenários com <a href="https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx">split de pagamento</a>. |
 | Descontos | Não é possível alterar o pedido aplicando descontos maiores ou iguais ao valor total do pedido original. |
 | Fatura | <p>Com relação à <a href="https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT">fatura</a>, a alteração de pedidos se comporta da seguinte forma:</p><p><ul><li>Se o pedido já foi <a href="https://help.vtex.com/pt/tutorial/como-faturar-um-pedido--7p1h852V5t54KyscpgxE2v">faturado</a> por completo, ele não pode mais ser alterado.</li><li>Pedidos ainda não faturados ou apenas <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente faturados</a> podem sim ser alterados.</li><li>O valor das faturas parciais do pedido alterado precisa ser igual ou maior que o valor de uma fatura já emitida.</li><li>Se o valor total do pedido alterado for menor do que o valor de uma fatura já emitida, ele não pode ser alterado.</li></ul></p><p>Em geral, é o faturamento do pedido que deflagra a liquidação do pagamento. Este comportamento é diferente para lojas que configuraram a <a href="https://help.vtex.com/pt/tutorial/configuring-maximum-automatic-payment-settlement-time-frame--7dwcaxrcgcFJUk7umqPBw2">liquidação automática</a>.</p> |
-
