@@ -44,6 +44,10 @@ O histórico de alterações do pedido fica registrado na sua [página de detalh
 
 ## Características gerais
 
+<!--
+Tabela de "Características gerais" comentada para revisão.
+-->
+<!--
 A **Alterar pedidos (beta)** possui características específicas, como apresentado na tabela a seguir:
 
 | **Aspecto** | **Descrição** |
@@ -55,9 +59,14 @@ A **Alterar pedidos (beta)** possui características específicas, como apresent
 | Reserva | A <a href="https://help.vtex.com/pt/tutorial/how-does-reservation-work--tutorials_92">reserva</a> de itens em cenários de alteração de pedidos é automática. |
 | Atualização de inventário | Ao alterar um pedido, o <a href="https://help.vtex.com/pt/tutorial/inventory-management--tutorials_139">inventário</a> da loja não é atualizado automaticamente, isso precisa ser feito ela loja no Admin VTEX em <b>Catálogo > Estoque > Gerenciamento de inventário</b>, ou via API, usando o endpoint <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-">Update inventory by SKU and warehouse</a>. |
 | Permissão no Licence Manager | <p>Para um usuário ser capaz de alterar pedidos, o seu <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> precisa estar associado a pelo menos um dos seguintes <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos do Licence Manager</a>:</p><p><ul><li><code>Orders Full Access</code></li><li><code>Change order</code></li></ul></p> |
+-->
 
 ## Mudanças de preço
 
+<!--
+Tabela de "Mudanças de preço" comentada para revisão.
+-->
+<!--
 Quando a alteração de itens do pedido aumenta ou diminui o valor original da compra, a comunicação do módulo **Pedidos** é feita de forma automática com **Pagamentos** e acontece da seguinte forma:
 
 * **Preço menor após alteração:** uma notificação é enviada ao [gateway](https://help.vtex.com/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) de pagamento para estornar o valor que deve ser devolvido ao cliente.
@@ -72,3 +81,4 @@ Veja na tabela abaixo mais informações sobre pagamento e fatura na alteração
 | Transação compartilhada entre sellers e marketplace | É possível alterar pedidos que envolvem mais um de seller e pagamentos no ambiente do marketplace, ou seja, cenários com <a href="https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx">split de pagamento</a>. |
 | Descontos | Não é possível alterar o pedido aplicando descontos maiores ou iguais ao valor total do pedido original. |
 | Fatura | <p>Com relação à <a href="https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT">fatura</a>, a alteração de pedidos se comporta da seguinte forma:</p><p><ul><li>Se o pedido já foi <a href="https://help.vtex.com/pt/tutorial/como-faturar-um-pedido--7p1h852V5t54KyscpgxE2v">faturado</a> por completo, ele não pode mais ser alterado.</li><li>Pedidos ainda não faturados ou apenas <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente faturados</a> podem sim ser alterados.</li><li>O valor das faturas parciais do pedido alterado precisa ser igual ou maior que o valor de uma fatura já emitida.</li><li>Se o valor total do pedido alterado for menor do que o valor de uma fatura já emitida, ele não pode ser alterado.</li></ul></p><p>Em geral, é o faturamento do pedido que deflagra a liquidação do pagamento. Este comportamento é diferente para lojas que configuraram a <a href="https://help.vtex.com/pt/tutorial/configuring-maximum-automatic-payment-settlement-time-frame--7dwcaxrcgcFJUk7umqPBw2">liquidação automática</a>.</p> |
+-->
