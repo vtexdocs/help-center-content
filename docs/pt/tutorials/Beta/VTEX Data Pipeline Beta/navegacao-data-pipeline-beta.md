@@ -1,5 +1,5 @@
 ---
-title: 'Navegação Data Pipeline '
+title: 'Navegação Data Pipeline'
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
@@ -21,11 +21,12 @@ Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um p
 >⚠️ O conjunto de dados de navegação não captura todos os tipos de eventos que ocorrem durante a navegação.</br>
 > Ex: cliques específicos, eventos especiais e interações com o mini carrinho.</br>
 
-- [Características dos dados de navegação](#caracteristicas-dos-dados-de-navegacao)
-- [Tabela sessions](#tabela_sessions)
-- [Tabela pageviews](#tabela_pageviews)
-- [Análise com dados de navegação](#analises-com-dados-de-navegacao)
-- [Correlações com outros dados](#correlacoes-com-outros-dados)
+- [Características dos dados de navegação](#características-dos-dados-de-navegação)
+- [Tabela `sessions`](#tabela-sessions)
+- [Tabela `pageviews`](#tabela-pageviews)
+- [Análises com dados de Navegação](#análises-com-dados-de-navegação)
+- [Correlações com outros dados](#correlações-com-outros-dados)
+  - [Conheça outros Conjuntos de dados](#conheça-outros-conjuntos-de-dados)
 
 ## Características dos dados de navegação
 
