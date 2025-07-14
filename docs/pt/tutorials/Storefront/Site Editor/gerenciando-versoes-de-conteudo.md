@@ -21,12 +21,13 @@ Com o recurso **Versões**, você pode criar, programar e experimentar diferente
 
 Veja nas seguintes seções como:
 
-- [Criar uma nova versão de conteúdo](#criando-uma-nova-versao-de-conteudo)
-- [Ativar versões](#ativando-versoes)
-- [Agendar atualizações de conteúdo](#agendando-atualizaçoes-de-conteudo)
-- [Excluir versões](#excluindo-versoes)
+- [Criando uma nova versão de conteúdo](#criando-uma-nova-versão-de-conteúdo)
+- [Ativando versões](#ativando-versões)
+- [Agendando atualizações de conteúdo](#agendando-atualizações-de-conteúdo)
+- [Excluindo versões](#excluindo-versões)
 
 ## Criando uma nova versão de conteúdo
+
 Usaremos o bloco [Slider-Layout](https://developers.vtex.com/vtex-developer-docs/docs/vtex-slider-layout) de exemplo para criar uma nova versão de conteúdo para sua loja.
 
 1. No Admin VTEX acesse **Storefront > Site Editor**.
@@ -71,4 +72,3 @@ Se você deseja excluir uma versão de um bloco, siga as etapas a seguir para re
 2. Clique no bloco desejado (exemplo, Slider-Layout), selecione **VERSÕES.**
 
 3. Escolha o conteúdo que deseja excluir e clique em `mais opções` > **Remover**.
-
