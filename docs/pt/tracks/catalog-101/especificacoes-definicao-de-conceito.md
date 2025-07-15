@@ -20,7 +20,7 @@ Especificações são propriedades adicionais que podem ser cadastradas nos prod
 
 ## Especificação de Produto
 
-A especificação de produto geralmente é utilizada para criar filtros de navegação no site ou para exibir uma informação adicional na tela do produto.   
+A especificação de produto geralmente é utilizada para criar filtros de navegação no site ou para exibir uma informação adicional na tela do produto.
 
 Numa loja do setor de moda, você poderia criar uma especificação de produto para informar ao seu cliente qual o **tecido** de um item vendido em sua loja.
 
@@ -41,4 +41,3 @@ As especificações de SKU teriam os valores de **PP, P, M, G e GG**. Elas poder
 Para entender o passo a passo completo para criar especificações de SKU, confira o artigo [Cadastrar especificações ou campos de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
 
 >⚠️ Na VTEX, as especificações de SKU são campos obrigatórios para concluir o cadastro de um SKU. Isso significa que, se uma nova especificação for criada dentro de uma categoria, todos os SKUs dentro desta categoria precisam ter esta nova especificação cadastrada. Assim, todos esses SKUs ficarão inativos até que o cadastro desta nova especificação seja realizado nos SKUs da categoria em questão.
-
