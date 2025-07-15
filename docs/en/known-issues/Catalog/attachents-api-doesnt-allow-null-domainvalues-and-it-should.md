@@ -1,5 +1,5 @@
 ---
-title: "Attachents API"
+title: "Attachents API doesn't allow null 'domainValues' (and it should)"
 id: 7KMb6nh0ulcWdEfz7USbPg
 status: PUBLISHED
 createdAt: 2023-09-11T19:02:51.514Z
