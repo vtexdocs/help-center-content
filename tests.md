@@ -9,7 +9,7 @@
   The table syntax on this file seems to have some errors. Idetify and fix them.
   ```
 
-- Exemplo:
+- Example
 
     ```sh
     | **Como alterar** | **Descrição** | **Status que admite alteração** |
@@ -39,7 +39,7 @@ title: "Attachents API doesn't allow null "domainValues' (and it should)"
 To:
 
 ```sh
-title: "Attachents API doesn't allow null 'domainValues' (and it should)"
+title: "Attachents API doesn't allow null \"domainValues\" (and it should)"
 ```
 
 - The outer quotes are double quotes (").
@@ -68,7 +68,7 @@ title: ""Product name contains' search with more than one term doesn't work on c
 to
 
 ```sh
-title: "Product name contains search with more than one term doesn't work on catalog's redesigned UI"
+title: "Product name contains\" search with more than one term doesn't work on catalog's redesigned UI"
 ```
 
 ## Test 4
@@ -93,7 +93,7 @@ title: "Telesales search doesn't accept special characters aside from "@'."
 to
 
 ```sh
-title: "Telesales search doesn't accept special characters aside from '@'."
+title: "Telesales search doesn't accept special characters aside from \"@\"."
 ```
 
 ## Test 5
@@ -118,7 +118,7 @@ title: ""Go to payment' button doesn't work in delivery split when switching bet
 to
 
 ```sh
-title: "Go to payment' button doesn't work in delivery split when switching between Delivery and Pick up options"
+title: "Go to payment\" button doesn't work in delivery split when switching between Delivery and Pick up options"
 ```
 
 ## Test 6
@@ -144,7 +144,7 @@ title: "Prioritization by product's "keyword' not considering stopwords"
 to
 
 ```sh
-title: "Prioritization by product's keyword not considering stopwords"
+title: "Prioritization by product's \"keyword\" not considering stopwords"
 ```
 
 ## Test 7
@@ -169,7 +169,7 @@ title: ""I don't know my ZIP code' link in the wedding list creation page is red
 to
 
 ```sh
-title: "I don't know my ZIP code link in the wedding list creation page is redirecting to the wedding list creation page"
+title: "I don't know my ZIP code\" link in the wedding list creation page is redirecting to the wedding list creation page"
 ```
 
 ## Test 8
@@ -194,5 +194,31 @@ title: ""Let me know' email is sent even when the product is not available for t
 to
 
 ```sh
-title: "Let me know' email is sent even when the product is not available for the website's trade policy"
+title: "Let me know\" email is sent even when the product is not available for the website's trade policy"
+```
+
+## Test 9
+
+File: docs\en\known-issues\Intelligent Search\accounts-with-on-the-name-dont-have-metrics-on-search-report.md
+
+### What's the problem?
+
+The title field is incorrectly quoted:
+
+- The outer quotes are double quotes (").
+- Inside the title, there is an escaped double quote (\") before the dash (-).
+- The closing quote is a double quote at the end.
+
+### Fixed
+
+From:
+
+```sh
+title: "Accounts with "-' on the name don't have metrics on search report"
+```
+
+to
+
+```sh
+title: "Accounts with \"-\" on the name don't have metrics on search report"
 ```
