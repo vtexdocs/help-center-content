@@ -1,5 +1,5 @@
 ---
-title: 'No se pueden descargar los precios importando los resultados'
+title: "No se pueden descargar los precios importando los resultados"
 id: 6skX0nYfLU9Tuf44yn4nSB
 status: PUBLISHED
 createdAt: 2022-05-16T20:55:19.951Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: unable-to-download-prices-importing-results
+slugEN: no-se-pueden-descargar-los-precios-importando-los-resultados
 locale: es
 kiStatus: Backlog
 internalReference: 579906
@@ -18,7 +18,9 @@ internalReference: 579906
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

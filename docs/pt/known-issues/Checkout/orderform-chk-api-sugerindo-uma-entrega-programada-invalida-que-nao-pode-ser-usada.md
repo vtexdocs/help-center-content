@@ -1,5 +1,5 @@
 ---
-title: 'orderForm (Chk API) sugerindo uma entrega programada inválida que não pode ser usada'
+title: "orderForm (Chk API) sugerindo uma entrega programada inválida que não pode ser usada"
 id: 7e2bSJSJa938QCrOHkRibZ
 status: PUBLISHED
 createdAt: 2022-01-24T20:20:11.732Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-chk-api-suggesting-invalid-scheduled-delivery-that-cant-be-used
+slugEN: orderform-chk-api-sugerindo-uma-entrega-programada-invalida-que-nao-pode-ser-usada
 locale: pt
 kiStatus: Backlog
 internalReference: 298665
@@ -18,7 +18,9 @@ internalReference: 298665
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um carrinho/formulário de pedido tem vários itens com entrega programada do mesmo vendedor, as opções programadas com o mesmo ID (consideradas o mesmo método de envio) precisam ter as mesmas janelas de entrega entre elas. Se não houver interseção, o método de envio será descartado para alguns itens.

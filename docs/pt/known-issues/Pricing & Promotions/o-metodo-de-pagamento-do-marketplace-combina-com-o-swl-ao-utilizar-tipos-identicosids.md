@@ -1,5 +1,5 @@
 ---
-title: 'O método de pagamento do Marketplace combina com o SWL ao utilizar tipos idênticos:ids'
+title: "O método de pagamento do Marketplace combina com o SWL ao utilizar tipos idênticos:ids"
 id: 4AHyl5z7ySagx6Myx0KqM7
 status: PUBLISHED
 createdAt: 2022-03-15T22:06:35.540Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: payment-method-from-marketplace-matches-with-swl-when-using-identical-typesids
+slugEN: o-metodo-de-pagamento-do-marketplace-combina-com-o-swl-ao-utilizar-tipos-identicosids
 locale: pt
 kiStatus: No Fix
 internalReference: 402140
@@ -18,7 +18,9 @@ internalReference: 402140
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a configuração do método de pagamento, no produto promocional, não se destina a ser passada através da solicitação/resposta de cumprimento.

@@ -1,5 +1,5 @@
 ---
-title: 'Control accountUserProfile renders phone mask only in Brazilian standard'
+title: "Control accountUserProfile renders phone mask only in Brazilian standard"
 id: 76NuOCa920CYq2wSgSAyOc
 status: PUBLISHED
 createdAt: 2017-08-15T14:49:39.178Z

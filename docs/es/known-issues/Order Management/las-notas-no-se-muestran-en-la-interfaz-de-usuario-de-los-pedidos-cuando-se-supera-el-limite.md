@@ -1,5 +1,5 @@
 ---
-title: 'Las notas no se muestran en la interfaz de usuario de los pedidos cuando se supera el límite'
+title: "Las notas no se muestran en la interfaz de usuario de los pedidos cuando se supera el límite"
 id: 4rM3QCtcGExdLM0uFN4tOz
 status: PUBLISHED
 createdAt: 2022-06-03T18:45:04.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: notes-not-shown-on-order-detail-ui-when-exceeding-limit
+slugEN: las-notas-no-se-muestran-en-la-interfaz-de-usuario-de-los-pedidos-cuando-se-supera-el-limite
 locale: es
 kiStatus: Backlog
 internalReference: 514992
@@ -18,7 +18,9 @@ internalReference: 514992
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

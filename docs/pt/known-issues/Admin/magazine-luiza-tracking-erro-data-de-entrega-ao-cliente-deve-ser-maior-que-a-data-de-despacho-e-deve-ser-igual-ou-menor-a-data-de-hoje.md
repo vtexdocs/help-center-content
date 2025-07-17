@@ -18,7 +18,9 @@ internalReference: 856984
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na etapa de rastreamento, alguns pedidos estão retornando o seguinte erro `"Data de Entrega ao Cliente' deve ser maior que a 'Data de Despacho' e deve ser igual ou menor a data de hoje"`

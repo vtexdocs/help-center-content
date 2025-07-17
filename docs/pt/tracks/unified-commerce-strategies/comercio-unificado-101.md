@@ -16,7 +16,7 @@ trackSlugPT: estrategias-de-comercio-unificado
 
 A evolução do varejo online trouxe uma série de melhorias à experiência do cliente, e uma das mais relevantes talvez seja a que transformou a relação multicanal entre cliente e loja em uma relação de omnicanalidade.
 
-![32. Unified Commerce 101 - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/unified-commerce-strategies/comercio-unificado-101_1.png)
+![32. Unified Commerce 101 - 2](https://images.ctfassets.net/alneenqid6w5/hZLcXdCI6EXa4lR4cNShc/1bb91baac796afbdedb890b1c6362e90/32._Unified_Commerce_101_-_2.png)
 
 Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecomerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
 
@@ -26,7 +26,7 @@ No omnichannel, entretanto, os pedidos ainda são processados de forma isolada. 
 
 O __Comércio Unificado__ resolve esse problema.
 
-![32. Unified Commerce 101 - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/unified-commerce-strategies/comercio-unificado-101_2.png)
+![32. Unified Commerce 101 - 1](https://images.ctfassets.net/alneenqid6w5/4JVV00Jk5F0P5S27c9BLCo/71bbbb249454b39188d08a87d2de0761/32._Unified_Commerce_101_-_1.png)
 
 O Comércio Unificado é uma evolução do omnichannel: além do compartilhamento de dados, nessa estratégia acontece também a __unificação do sistema de processamento e gerenciamento dos pedidos__. Na prática, isso significa que todo pedido realizado em um canal da loja fica não apenas visível por outros canais como pode ser processado por eles.
 
@@ -43,7 +43,7 @@ O VTEX Sales App é um aplicativo da VTEX que permite que os vendedores de suas 
 
 Ele é uma ferramenta importante em sua estratégia de Comércio Unificado porque interage com a base de dados unificada da sua conta VTEX e com o nosso Sistema de Gerenciamento de Pedidos. Ou seja, todas as vendas feitas com o VTEX Sales App dão ao vendedor os dados do cliente, ainda que ele nunca tenha comprado nessa loja, e permitem a criação de pedidos em que o fulfillment é realizado a partir de outros canais e estoques.
 
-Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
 ## Saiba mais
 

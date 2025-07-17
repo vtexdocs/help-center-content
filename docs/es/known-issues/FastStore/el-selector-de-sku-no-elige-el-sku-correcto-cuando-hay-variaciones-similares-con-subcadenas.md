@@ -1,5 +1,5 @@
 ---
-title: 'El selector de SKU no elige el SKU correcto cuando hay variaciones similares con subcadenas.'
+title: "El selector de SKU no elige el SKU correcto cuando hay variaciones similares con subcadenas."
 id: 7EY2RMqoJM7bbLZvyVDdRn
 status: PUBLISHED
 createdAt: 2024-06-11T18:15:27.243Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: sku-selector-not-choosing-correct-sku-when-having-similar-variations-with-substrings
+slugEN: el-selector-de-sku-no-elige-el-sku-correcto-cuando-hay-variaciones-similares-con-subcadenas
 locale: es
 kiStatus: Fixed
 internalReference: 1047992
@@ -18,7 +18,9 @@ internalReference: 1047992
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al tener una subcadena de la variación en la SKU elegida en otra variación disponible, podríamos no seleccionar la SKU elegida

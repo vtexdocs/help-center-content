@@ -1,5 +1,5 @@
 ---
-title: 'La API de búsqueda no devuelve los SKUs showIfNotAvailable=true para las consultas &fq=specificationFilter.'
+title: "La API de búsqueda no devuelve los SKUs showIfNotAvailable=true para las consultas &fq=specificationFilter."
 id: 7p26JmS8pyPA8H0b1QJHyU
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:27.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: search-api-not-returning-showifnotavailabletrue-skus-for-fqspecificationfilter-queries
+slugEN: la-api-de-busqueda-no-devuelve-los-skus-showifnotavailabletrue-para-las-consultas-fqspecificationfilter
 locale: es
 kiStatus: No Fix
 internalReference: 336896
@@ -18,7 +18,9 @@ internalReference: 336896
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

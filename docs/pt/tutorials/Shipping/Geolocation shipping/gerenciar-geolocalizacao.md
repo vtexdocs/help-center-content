@@ -32,7 +32,9 @@ Acessando o link [Gere seus polígonos com geojson.io](http://geojson.io/#map=2/
 
 Esse JSON será usado para adicionar o polígono na plataforma, que entenderá a partir dessa linguagem quais códigos postais estão inclusos nessa área.
 
->❗ Na configuração de um polígono, não é possível delimitar áreas sobrepostas, ou seja, não é possível sobrepor coordenadas geográficas.
+<div class="alert alert-danger">
+Na configuração de um polígono, não é possível delimitar áreas sobrepostas, ou seja, não é possível sobrepor coordenadas geográficas.
+</div>
 
 ### Como adicionar um polígono
 
@@ -58,9 +60,10 @@ Exemplo:
 
 Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](http://help.vtex.com/tutorial/como-montar-a-planilha-de-frete/).
 
->⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com `0`.
+<div class="alert alert-warning">É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna <b>PolygonName</b> da <a href="https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127">planilha de frete</a>, a transportadora em questão não usará as colunas <b>ZipCodeStart</b> e <b>ZipCodeEnd</b>, que deverão ser preenchidas com <code>0</code>.
+</div>
 
-   Lembre-se também que para que a geolocalização funcione, deve estar preenchido o campo API Key em **Configurações da loja > Storefront > Checkout**, [na aba Checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout/), com a mesma chave que utilizou para habilitar a geolocalização.
+   Lembre-se também que para que a geolocalização funcione, deve estar preenchido o campo API Key em **Configurações da loja > Storefront > Checkout**, [na aba Checkout](/pt/tutorial/geolocalizacao-no-checkout/), com a mesma chave que utilizou para habilitar a geolocalização.
 
 Habilite também todas as APIs do Google Cloud Platform para garantir o funcionamento da chave:
 
@@ -83,4 +86,6 @@ Caso precise alterar algum local de entrega de um polígono já existente, é p
 
 Depois disso, não será necessário alterar nenhuma informação na planilha de frete, visto que o ID do polígono continua o mesmo, e é por meio dele que o sistema faz a consulta.
 
->⚠️ Caso a transportadora e planilha de frete tenham sido criadas antes de cadastrar o Polígono, recomendamos que seja editada a transportadora que tem vínculo com esse Polígono, para atualizar o relacionamento. Com isso após a Criação ou Alteração de um Poligono, abra a transportadora e clique em Salvar, somente para sensibilizar uma atualização.
+<div class="alert alert-warning">
+  Caso a transportadora e planilha de frete tenham sido criadas antes de cadastrar o Polígono, recomendamos que seja editada a transportadora que tem vínculo com esse Polígono, para atualizar o relacionamento. Com isso após a Criação ou Alteração de um Poligono, abra a transportadora e clique em Salvar, somente para sensibilizar uma atualização.
+</div>

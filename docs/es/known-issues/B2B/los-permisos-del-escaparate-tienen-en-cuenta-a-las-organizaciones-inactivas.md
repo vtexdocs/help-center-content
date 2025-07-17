@@ -1,5 +1,5 @@
 ---
-title: 'Los permisos del escaparate tienen en cuenta a las organizaciones inactivas'
+title: "Los permisos del escaparate tienen en cuenta a las organizaciones inactivas"
 id: 2GANYaXFMQpLGADajl4CbS
 status: PUBLISHED
 createdAt: 2023-10-27T22:08:14.267Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: storefront-permissions-considers-inactive-organizations
+slugEN: los-permisos-del-escaparate-tienen-en-cuenta-a-las-organizaciones-inactivas
 locale: es
 kiStatus: Fixed
 internalReference: 927174
@@ -18,7 +18,9 @@ internalReference: 927174
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario tiene asignada más de una organización, y la primera registrada está inactiva, no se reconoce como asignada ninguna organización tras el login.

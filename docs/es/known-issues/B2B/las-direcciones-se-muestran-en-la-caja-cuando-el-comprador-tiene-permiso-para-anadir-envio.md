@@ -1,5 +1,5 @@
 ---
-title: "Las direcciones se muestran en la caja cuando el comprador tiene permiso para 'Añadir envío'."
+title: 'Las direcciones se muestran en la caja cuando el comprador tiene permiso para "Añadir envío".'
 id: 2ssiTryGJ6kGoZWxWkGnFF
 status: PUBLISHED
 createdAt: 2024-05-21T22:03:55.172Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: addresses-are-shown-in-the-checkout-when-buyer-has-can-add-shipping-permission
+slugEN: las-direcciones-se-muestran-en-la-caja-cuando-el-comprador-tiene-permiso-para-anadir-envio
 locale: es
 kiStatus: Backlog
 internalReference: 1037067
@@ -18,7 +18,9 @@ internalReference: 1037067
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un rol tiene el permiso "Puede añadir envío" en la Configuración de Pago B2B y un comprador tiene direcciones registradas en el Sistema de Perfiles, al hacer clic en "Entregar en otra dirección" en el paso de envío y hacer clic en "Volver a la lista de direcciones" se muestran las direcciones del Sistema de Perfiles.

@@ -1,5 +1,5 @@
 ---
-title: 'SKU eliminado de Amazon SC no se desactiva en el Portal de Amazon'
+title: "SKU eliminado de Amazon SC no se desactiva en el Portal de Amazon"
 id: 9yeLgMrhp9nSu9MtJ518G
 status: PUBLISHED
 createdAt: 2023-05-18T11:43:30.694Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: sku-removed-from-amazon-sc-is-not-being-disable-in-amazon-portal
+slugEN: sku-eliminado-de-amazon-sc-no-se-desactiva-en-el-portal-de-amazon
 locale: es
 kiStatus: Fixed
 internalReference: 827760
@@ -18,7 +18,9 @@ internalReference: 827760
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

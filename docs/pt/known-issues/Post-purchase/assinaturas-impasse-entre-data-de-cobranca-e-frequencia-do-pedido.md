@@ -1,5 +1,5 @@
 ---
-title: 'Assinaturas: impasse entre data de cobrança e frequência do pedido'
+title: "Assinaturas: impasse entre data de cobrança e frequência do pedido"
 id: 4k32lnRONWU3YzXyvXJItO
 status: PUBLISHED
 createdAt: 2021-06-14T20:32:51.367Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Order Management
-slugEN: subscriptions-conflict-between-the-subscription-billing-frequency-and-cycle
+slugEN: assinaturas-impasse-entre-data-de-cobranca-e-frequencia-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 

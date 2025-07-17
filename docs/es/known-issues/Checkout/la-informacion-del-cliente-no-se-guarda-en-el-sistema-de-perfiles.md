@@ -1,5 +1,5 @@
 ---
-title: 'La información del cliente no se guarda en el sistema de perfiles'
+title: "La información del cliente no se guarda en el sistema de perfiles"
 id: 1MCiEAJ3ZueJVM04T7x9z2
 status: PUBLISHED
 createdAt: 2023-04-04T22:47:43.035Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: customer-information-is-not-saved-in-the-profile-system
+slugEN: la-informacion-del-cliente-no-se-guarda-en-el-sistema-de-perfiles
 locale: es
 kiStatus: No Fix
 internalReference: 784763
@@ -18,7 +18,9 @@ internalReference: 784763
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces, la información de un nuevo cliente no se guarda en el Sistema de Perfiles.

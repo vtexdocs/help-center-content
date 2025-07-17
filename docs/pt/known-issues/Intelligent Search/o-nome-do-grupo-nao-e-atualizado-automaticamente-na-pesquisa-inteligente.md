@@ -1,5 +1,5 @@
 ---
-title: 'O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente'
+title: "O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente"
 id: 1GKDLtbKdYA0hq9YUhF2Bt
 status: PUBLISHED
 createdAt: 2023-05-08T19:00:44.637Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: group-name-is-not-automatically-updated-on-intelligent-search
+slugEN: o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente
 locale: pt
 kiStatus: Backlog
 internalReference: 821481
@@ -18,7 +18,9 @@ internalReference: 821481
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, há dois módulos de coleta distintos:
@@ -30,11 +32,11 @@ Essa diferença está detalhada aqui: https://help.vtex.com/en/tracks/catalogo-1
 
 O módulo legado tem dois clusters de dados distintos, a coleção (A) e o nome do grupo (B)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent%20Search/o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
 
 No entanto, o novo módulo de coleções exibe apenas o nome da coleção, não seu GroupName:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent%20Search/o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
 
 O resultado da Intelligent Search é baseado no Group Name, e é por isso que, nos casos em que as atualizações são feitas apenas na nova interface do usuário, os resultados não são refletidos no front-end e nas consultas de pesquisa.
 

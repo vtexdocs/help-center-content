@@ -1,5 +1,5 @@
 ---
-title: "Customer information being lost when it has some order with 'profileErrorOnLoading'"
+title: 'Customer information being lost when it has some order with "profileErrorOnLoading'
 id: 7B0eutLBOCKOun4iwALVpq
 status: PUBLISHED
 createdAt: 2023-06-27T12:51:33.790Z

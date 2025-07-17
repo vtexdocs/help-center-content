@@ -1,5 +1,5 @@
 ---
-title: 'CMS Settings Role no funciona como se esperaba'
+title: "CMS Settings Role no funciona como se esperaba"
 id: 1xAUvtkD2gbvc3yaoYXT2d
 status: PUBLISHED
 createdAt: 2023-06-19T12:31:33.137Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: cms-settings-role-not-working-as-expected
+slugEN: cms-settings-role-no-funciona-como-se-esperaba
 locale: es
 kiStatus: Backlog
 internalReference: 538706
@@ -18,7 +18,9 @@ internalReference: 538706
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 CMS Settings Role no funciona como se esperaba. A veces el usuario no puede acceder al CMS incluso después de ser añadido al rol.
@@ -35,7 +37,7 @@ Otro comportamiento inesperado es que otros módulos siguen estando disponibles 
   - Menú CMS en la barra superior;
   - Ajustes CMS.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Portal/cms-settings-role-no-funciona-como-se-esperaba_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fbpObVoVdnEYGeYjd3GDh9Qqf/?name=image.png)
 
 
 - Asocie este rol a un usuario;

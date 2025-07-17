@@ -1,5 +1,5 @@
 ---
-title: 'OrderByBestDiscount devuelve el orden incorrecto'
+title: "OrderByBestDiscount devuelve el orden incorrecto"
 id: 4w9qSs9jUTty4e77iD1bIT
 status: PUBLISHED
 createdAt: 2021-08-24T16:33:08.218Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: orderbybestdiscount-returns-the-wrong-sorting-order
+slugEN: orderbybestdiscount-devuelve-el-orden-incorrecto
 locale: es
 kiStatus: Backlog
 internalReference: 

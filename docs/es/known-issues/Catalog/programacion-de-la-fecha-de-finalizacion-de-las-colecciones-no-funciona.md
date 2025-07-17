@@ -1,5 +1,5 @@
 ---
-title: 'Programación de la fecha de finalización de las Colecciones no funciona'
+title: "Programación de la fecha de finalización de las Colecciones no funciona"
 id: mhO5z0twpTunMeEsPKl0q
 status: PUBLISHED
 createdAt: 2022-03-17T21:32:13.982Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-schedule-end-date-not-working
+slugEN: programacion-de-la-fecha-de-finalizacion-de-las-colecciones-no-funciona
 locale: es
 kiStatus: Fixed
 internalReference: 497880
@@ -18,7 +18,9 @@ internalReference: 497880
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se alcanza la fecha de finalización de una colección programada, no se desencadena el proceso de reindexación de los productos que contiene, lo que hace que la programación de la fecha de finalización no sea funcional en su conjunto.

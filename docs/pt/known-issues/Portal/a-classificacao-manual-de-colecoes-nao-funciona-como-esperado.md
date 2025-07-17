@@ -1,5 +1,5 @@
 ---
-title: 'A classificação manual de coleções não funciona como esperado'
+title: "A classificação manual de coleções não funciona como esperado"
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: manual-sorting-of-collections-doesnt-work-as-expected
+slugEN: a-classificacao-manual-de-colecoes-nao-funciona-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 295245
@@ -18,7 +18,9 @@ internalReference: 295245
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

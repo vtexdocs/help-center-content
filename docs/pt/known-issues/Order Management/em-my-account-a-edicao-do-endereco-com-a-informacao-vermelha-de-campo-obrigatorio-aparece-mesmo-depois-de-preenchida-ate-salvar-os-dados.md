@@ -1,5 +1,5 @@
 ---
-title: 'Em My Account, a edição do endereço com a informação vermelha de campo obrigatório aparece mesmo depois de preenchida até salvar os dados'
+title: "Em My Account, a edição do endereço com a informação vermelha de campo obrigatório aparece mesmo depois de preenchida até salvar os dados"
 id: 1QWktgA1c4iyONb8sFCaIh
 status: PUBLISHED
 createdAt: 2023-07-28T20:52:37.170Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: on-my-account-the-address-edition-with-red-information-of-required-field-appears-even-after-filled-until-save-data
+slugEN: em-my-account-a-edicao-do-endereco-com-a-informacao-vermelha-de-campo-obrigatorio-aparece-mesmo-depois-de-preenchida-ate-salvar-os-dados
 locale: pt
 kiStatus: Backlog
 internalReference: 870891
@@ -18,7 +18,9 @@ internalReference: 870891
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na página de edição My Address (Meu endereço) de Minha conta, mesmo que o endereço seja preenchido, a informação vermelha de "Campo obrigatório" aparece até que os dados sejam salvos.

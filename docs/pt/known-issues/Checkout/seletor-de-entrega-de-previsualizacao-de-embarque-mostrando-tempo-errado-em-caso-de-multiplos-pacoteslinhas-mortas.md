@@ -1,5 +1,5 @@
 ---
-title: 'Seletor de entrega de pré-visualização de embarque mostrando tempo errado em caso de múltiplos pacotes/linhas mortas'
+title: "Seletor de entrega de pré-visualização de embarque mostrando tempo errado em caso de múltiplos pacotes/linhas mortas"
 id: 6isrBCEGK4UlpfFEEz4mxr
 status: PUBLISHED
 createdAt: 2023-03-23T15:50:24.372Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-delivery-selector-showing-wrong-time-in-case-of-multiple-packagesdeadlines
+slugEN: seletor-de-entrega-de-previsualizacao-de-embarque-mostrando-tempo-errado-em-caso-de-multiplos-pacoteslinhas-mortas
 locale: pt
 kiStatus: Backlog
 internalReference: 264441
@@ -18,7 +18,9 @@ internalReference: 264441
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se o carrinho tiver vários pacotes com diferentes prazos de entrega, o seletor de entrega de Previsão de Entrega exibe apenas um dos termos, dando informações incorretas.

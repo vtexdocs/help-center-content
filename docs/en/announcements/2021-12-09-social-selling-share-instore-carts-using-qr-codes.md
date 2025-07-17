@@ -27,7 +27,7 @@ Previously, the Social Selling feature in inStore consisted of generating a link
 
 With the change, inStore now also generates a QR code that can be scanned by customers' devices, in addition to the shareable link.
 
-![instore-social-selling-qr-code-share-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-12-09-social-selling-share-instore-carts-using-qr-codes_1.png)
+![instore-social-selling-qr-code-share-en](https://images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/f3ec6fdf7a587799dcf51ebdf30cf6f7/image2.png)
 
 ## Why did we make this change?
 
@@ -41,4 +41,4 @@ For stores that already use Social Selling in inStore, the update is automatic.
 
 If you would like to use inStore Social Selling, you need to[ contact the VTEX support team](https://support.vtex.com/hc/en-us/requests) and request the installation.
 
-For more information, read the article [Sharing shopping cart using inStore Social Selling](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+For more information, read the article [Sharing shopping cart using inStore Social Selling](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).

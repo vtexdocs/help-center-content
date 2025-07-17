@@ -23,13 +23,13 @@ La alerta de inventario crítico es una funcionalidad de logística que tiene el
 2. En **Configuración**, rellena lo campo de **Alerta de inventario crítico**.  
 3. Haga clic en **Salvar**.
 
-![alerta-estoque-critico es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Inventory%20and%20Shipping%20Settings/configurar-la-alerta-de-stock-critico_1.png)
+![alerta-estoque-critico es](https://images.ctfassets.net/alneenqid6w5/3sIAJKB8AogSyQeEqYokCe/f696e3e2cc5ab214eeda18b7ce5f7098/alerta-estoque-critico_es.png)
 
 Como usted puede ver por la imagen, ella puede ser marcada con flecha por cantidad de ítems o por porcentual.
 
 ### Cómo funciona la alerta
 
-Cuando el inventario del ítem alcance la cantidad mínima configurada, se creará una tarea en el [VTEX DO](https://help.vtex.com/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Ella se disparará siempre en el momento en el que la reserva del pedido sea hecha, o sea, en el cierre del pedido, y puede tardar de 1 a 5 minutos para aparecer en el VTEX DO.
+Cuando el inventario del ítem alcance la cantidad mínima configurada, se creará una tarea en el [VTEX DO](/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Ella se disparará siempre en el momento en el que la reserva del pedido sea hecha, o sea, en el cierre del pedido, y puede tardar de 1 a 5 minutos para aparecer en el VTEX DO.
 
 En el caso de que la reserva sea cancelada, por ejemplo, debido a una cancelación de pedido por parte del cliente, la tarea se cerrará automáticamente.
 
@@ -46,4 +46,4 @@ Sí, la alerta es considerada por el inventario, por separado.
 No, el Logistics verifica sólo los inventarios disponibles en la tienda.
 
 #### ¿Dónde veo esas alertas? ¿Cómo puedo acceder al VTEX DO?
-Las alertas quedan registradas en el [VTEX DO](https://help.vtex.com/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu), y mientras tanto sólo se puede acceder a ellas por medio de Gestión de pedidos. Sin embargo, también ponemos a disposición una [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para el caso de que usted quiera buscar o atribuir una tarea a alguna persona, por ejemplo. Consulte la documentación de la API aquí.
+Las alertas quedan registradas en el [VTEX DO](/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu), y mientras tanto sólo se puede acceder a ellas por medio de Gestión de pedidos. Sin embargo, también ponemos a disposición una [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para el caso de que usted quiera buscar o atribuir una tarea a alguna persona, por ejemplo. Consulte la documentación de la API aquí.

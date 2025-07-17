@@ -1,5 +1,5 @@
 ---
-title: 'A pesquisa não tem produtos se o nome do vendedor 1 no Gerenciamento de Vendedores for diferente do nome comercial no Gerenciamento de Contas ao usar o B2B Suite'
+title: "A pesquisa não tem produtos se o nome do vendedor 1 no Gerenciamento de Vendedores for diferente do nome comercial no Gerenciamento de Contas ao usar o B2B Suite"
 id: 7a3bwqRmeSClHMoFmyIY2a
 status: PUBLISHED
 createdAt: 2023-12-01T20:06:13.492Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: search-has-no-products-if-seller-1-name-in-the-seller-management-differs-from-trading-name-in-account-management-when-using-b2b-suite
+slugEN: a-pesquisa-nao-tem-produtos-se-o-nome-do-vendedor-1-no-gerenciamento-de-vendedores-for-diferente-do-nome-comercial-no-gerenciamento-de-contas-ao-usar-o-b2b-suite
 locale: pt
 kiStatus: Fixed
 internalReference: 946391
@@ -18,7 +18,9 @@ internalReference: 946391
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As organizações B2B usam os nomes dos vendedores do Gerenciamento de vendedores. Se uma organização tiver o vendedor 1 atribuído, o nome salvo será do Gerenciamento de vendedores, mas nenhum produto poderá ser mostrado na pesquisa se for diferente do nome comercial no Gerenciamento de contas.

@@ -1,5 +1,5 @@
 ---
-title: 'Eliminación de parámetros de la dirección URL cuando no existe la página'
+title: "Eliminación de parámetros de la dirección URL cuando no existe la página"
 id: EbKaj7Laz6IEooYS2OuYW
 status: PUBLISHED
 createdAt: 2018-12-17T21:26:03.577Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: removal-of-url-parameters-when-a-page-does-not-exist
+slugEN: eliminacion-de-parametros-de-la-direccion-url-cuando-no-existe-la-pagina
 locale: es
 kiStatus: Backlog
 internalReference: 

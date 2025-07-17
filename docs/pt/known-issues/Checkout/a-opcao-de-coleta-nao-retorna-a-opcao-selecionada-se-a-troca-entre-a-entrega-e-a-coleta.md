@@ -1,5 +1,5 @@
 ---
-title: 'A opção de coleta não retorna a opção selecionada se a troca entre a entrega e a coleta'
+title: "A opção de coleta não retorna a opção selecionada se a troca entre a entrega e a coleta"
 id: 12AvDe4dD8IQ2WaDKTSeXx
 status: PUBLISHED
 createdAt: 2022-09-21T21:06:28.853Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-option-does-not-return-selected-option-if-switching-between-delivery-and-pickup
+slugEN: a-opcao-de-coleta-nao-retorna-a-opcao-selecionada-se-a-troca-entre-a-entrega-e-a-coleta
 locale: pt
 kiStatus: Backlog
 internalReference: 588394
@@ -18,7 +18,9 @@ internalReference: 588394
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comprador seleciona uma loja para retirada, muda para entrega e acrescenta um novo endereço não disponível para entrega quando devolve para retirada, outra loja retorna selecionada. Se alternarmos entre entrega e coleta, às vezes a loja selecionada aparece inicialmente intercalada com outra loja.

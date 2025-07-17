@@ -3,8 +3,8 @@ title: 'Configuring login with Facebook and Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-10-20T19:35:59.221Z
-publishedAt: 2023-10-20T19:35:59.221Z
+updatedAt: 2025-02-28T15:23:10.253Z
+publishedAt: 2025-02-28T15:23:10.253Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
@@ -25,8 +25,8 @@ On VTEX, it is not necessary to create an account or log in to make a purchase. 
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](https://help.vtex.com/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
-- [Google](https://help.vtex.com/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
+- [Facebook](/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
+- [Google](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
 
 ## Configuring login with providers
 
@@ -37,14 +37,14 @@ After completing the configuration on Facebook and/or Google, you must configure
 
   You will be redirected to the **Webstore** tab of the **Authentication** page, which lists the login methods available in your store.
 
-  ![List Authentication](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Authentication/Authentication%20basics/configuring-login-with-facebook-and-google_1.png)
+  ![List Authentication](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/fdb1252e98fd1284278e4c83100ec111/autenticacao-en.png)
 3. In the row of the desired login provider, click `Configure`.
 4. Complete the form with the `Client ID` and `Client Secret` from the [previous step](#obtaining-credentials-from-providers) and click `Save`.
 
-  ![Facebook OAuth EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Authentication/Authentication%20basics/configuring-login-with-facebook-and-google_2.PNG)
+  ![Facebook OAuth EN](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/7daac156505a588b95fc0e90fbc08e2d/1-login-fb-en.PNG)
 6. On the **Authentication** page, enable the provider by clicking the toggle switch.
 
-  ![List Authentication Switch On Highlight](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Authentication/Authentication%20basics/configuring-login-with-facebook-and-google_3.png)
+  ![List Authentication Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/02ec0a744eb98636917b144e09cc9b3c/switch_On_highlight_EN.png)
 
 ## Validating the configuration
 

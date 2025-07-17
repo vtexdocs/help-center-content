@@ -1,5 +1,5 @@
 ---
-title: 'La hoja de cálculo de Skus aprobados no muestra el precio'
+title: "La hoja de cálculo de Skus aprobados no muestra el precio"
 id: 3nWwzGYX1Ys0rKkoSZZpdz
 status: PUBLISHED
 createdAt: 2022-03-29T19:22:12.977Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: approved-skus-spreadsheet-not-showing-price
+slugEN: la-hoja-de-calculo-de-skus-aprobados-no-muestra-el-precio
 locale: es
 kiStatus: No Fix
 internalReference: 552155
@@ -18,7 +18,9 @@ internalReference: 552155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 cuando se utiliza la opción de exportación en la pestaña de SKUs Recibidos Aprobados, el archivo excel no tiene datos en los campos Precio de Venta, Moneda y Símbolo de Moneda.

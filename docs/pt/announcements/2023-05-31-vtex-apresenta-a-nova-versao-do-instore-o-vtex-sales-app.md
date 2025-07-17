@@ -35,13 +35,13 @@ O novo menu traz vários benefícios significativos, que destacamos abaixo:
 
 A área de anúncios permite que os lojistas exibam produtos ou resultados de pesquisa específicos, permitindo que eles personalizem suas estratégias de marketing de acordo com suas necessidades e metas exclusivas.
 
-Um dos principais recursos dessa atualização é a opção de os lojistas definirem a área do anúncio como sua página inicial. Isso permite uma experiência de usuário mais personalizada, pois os clientes são imediatamente recebidos com conteúdo selecionado e recomendações de produtos. Saiba mais no artigo [Anúncios do VTEX Sales App](https://help.vtex.com/pt/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC).
+Um dos principais recursos dessa atualização é a opção de os lojistas definirem a área do anúncio como sua página inicial. Isso permite uma experiência de usuário mais personalizada, pois os clientes são imediatamente recebidos com conteúdo selecionado e recomendações de produtos. Saiba mais no artigo [Anúncios do VTEX Sales App](/pt/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC).
 
 <img src="//images.ctfassets.net/alneenqid6w5/XXJQykcV9p6yNN6Q5mB5u/ad226528000d3cd143de46bd47a7cd12/image.png" alt= “anuncio-sale-app-pt” width="35%" height="35%">
 
 ### Performance de vendas
 
-Performance de vendas permite que o lojista tenha acesso às métricas de vendas de sua loja, tornando possível a comparação de performance entre períodos de venda e desempenho de funcionários. Saiba mais no artigo [VTEX Sales App: Performance de vendas](https://help.vtex.com/pt/tutorial/sales-app-performance-de-vendas--7i4Elt835tatBM6iqZoc56).
+Performance de vendas permite que o lojista tenha acesso às métricas de vendas de sua loja, tornando possível a comparação de performance entre períodos de venda e desempenho de funcionários. Saiba mais no artigo [VTEX Sales App: Performance de vendas](/pt/tutorial/sales-app-performance-de-vendas--7i4Elt835tatBM6iqZoc56).
 
 <img src="//images.ctfassets.net/alneenqid6w5/3UWhX6QODOG8pQ6Xi0QXKV/705391db8cbbe18c8c139a1640bc6ba4/image.png" alt= “vendas-da-loja-sales-app-pt” width="35%" height="35%">
 
@@ -51,7 +51,7 @@ Nenhuma ação é necessária, já que a atualização será aplicada automatica
 
 Para mais informações sobre o VTEX Sales App, consulte a nossa documentação:
 
-* [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-* [VTEX Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-* [VTEX Sales App - Usando o app](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-* [Estratégias de Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
+* [VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+* [VTEX Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+* [VTEX Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+* [Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)

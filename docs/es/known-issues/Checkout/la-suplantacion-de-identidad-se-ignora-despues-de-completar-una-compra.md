@@ -1,5 +1,5 @@
 ---
-title: 'La suplantación de identidad se ignora después de completar una compra'
+title: "La suplantación de identidad se ignora después de completar una compra"
 id: 4mHKOlwaLwfIEf8HFh4y4Y
 status: PUBLISHED
 createdAt: 2024-03-20T20:10:26.200Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: impersonation-is-ignored-after-one-purchase-is-completed
+slugEN: la-suplantacion-de-identidad-se-ignora-despues-de-completar-una-compra
 locale: es
 kiStatus: Backlog
 internalReference: 1003545
@@ -18,7 +18,9 @@ internalReference: 1003545
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un operador del centro de llamadas se hace pasar por un comprador, completa una compra y es enviado a la página orderPlaced, se generará un nuevo orderForm.

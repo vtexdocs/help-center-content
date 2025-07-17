@@ -1,10 +1,10 @@
 ---
-title: 'Specification Values not being translated in Intelligent Search side'
+title: "Specification Values not being translated in Intelligent Search side"
 id: 3z40dVHozP36jrMvxq3TKe
 status: PUBLISHED
 createdAt: 2024-09-23T20:47:41.373Z
-updatedAt: 2024-09-26T21:39:53.046Z
-publishedAt: 2024-09-26T21:39:53.046Z
+updatedAt: 2025-03-24T20:47:43.894Z
+publishedAt: 2025-03-24T20:47:43.894Z
 firstPublishedAt: 2024-09-23T20:47:42.169Z
 contentType: knownIssue
 productTeam: Intelligent Search

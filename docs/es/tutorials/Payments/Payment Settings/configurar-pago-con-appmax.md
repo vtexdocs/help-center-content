@@ -26,8 +26,8 @@ Para configurar Appmax, siga los pasos a continuación:
 5. Después de autorizar, regresará automáticamente al Admin VTEX, y los campos __Application Key__, __Application Token__ y __Application Id__ fya estarán completados.
 6. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Appmax, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Appmax, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Appmax puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

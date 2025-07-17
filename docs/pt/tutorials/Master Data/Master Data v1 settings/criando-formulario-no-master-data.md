@@ -40,7 +40,7 @@ Para criar um formulário, siga os passos abaixo:
 
    Se a sigla da entidade __Lista de compras__ for __LC__ e o nome do campo for __Cliente__, deve ser inserido `LC.Cliente` para carregar os atendimentos do cliente que está sendo visualizado no formulário.
 
-   ![registrosRelacionados-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20v1%20settings/criando-formulario-no-master-data_1.png)
+   ![registrosRelacionados-pt](https://images.ctfassets.net/alneenqid6w5/3j6iBpbL7ao6soYaME4e2a/ce0d55331a7bbb03ce1213bb85b7efd0/image_3.png)
 
 Após preencher os campos obrigatórios, aparecerão as abas disponíveis para configuração. Confira abaixo os campos de cada uma delas.
 
@@ -55,5 +55,5 @@ Após preencher os campos obrigatórios, aparecerão as abas disponíveis para c
 
   Esses três passos podem ser repetidos até que se tenha o formulário no formato em que se deseja. É possível inserir vários campos na mesma coluna, assim como é possível criar várias seções. 
 
-- **Consultas:** Essa aba serve apenas para exibir as [consultas criadas na listagem](https://help.vtex.com/pt/tutorial/criando-uma-consulta-personalizada-no-master-data--tutorials_799).
+- **Consultas:** Essa aba serve apenas para exibir as [consultas criadas na listagem](/pt/tutorial/criando-uma-consulta-personalizada-no-master-data--tutorials_799).
 - **Folha de estilo:** Local para inserção de CSS para edição do frontend do formulário.

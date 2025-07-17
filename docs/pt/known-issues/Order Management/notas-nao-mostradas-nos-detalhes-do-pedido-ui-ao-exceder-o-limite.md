@@ -1,5 +1,5 @@
 ---
-title: 'Notas não mostradas nos detalhes do pedido UI ao exceder o limite'
+title: "Notas não mostradas nos detalhes do pedido UI ao exceder o limite"
 id: 4rM3QCtcGExdLM0uFN4tOz
 status: PUBLISHED
 createdAt: 2022-06-03T18:45:04.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: notes-not-shown-on-order-detail-ui-when-exceeding-limit
+slugEN: notas-nao-mostradas-nos-detalhes-do-pedido-ui-ao-exceder-o-limite
 locale: pt
 kiStatus: Backlog
 internalReference: 514992
@@ -18,7 +18,9 @@ internalReference: 514992
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

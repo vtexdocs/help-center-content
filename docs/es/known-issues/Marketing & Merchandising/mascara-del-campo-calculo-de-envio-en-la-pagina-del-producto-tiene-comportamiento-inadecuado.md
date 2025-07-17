@@ -1,5 +1,5 @@
 ---
-title: 'Máscara del campo cálculo de envío en la página del producto tiene comportamiento inadecuado'
+title: "Máscara del campo cálculo de envío en la página del producto tiene comportamiento inadecuado"
 id: 3e3i6QgalWSKyIw6KsYwGa
 status: PUBLISHED
 createdAt: 2017-08-11T17:33:43.752Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: mask-of-the-shipping-calculation-field-on-the-product-page-shows-wrong-behavior
+slugEN: mascara-del-campo-calculo-de-envio-en-la-pagina-del-producto-tiene-comportamiento-inadecuado
 locale: es
 kiStatus: Backlog
 internalReference: 

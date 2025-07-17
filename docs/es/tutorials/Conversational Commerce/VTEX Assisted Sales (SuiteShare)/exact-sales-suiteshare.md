@@ -15,4 +15,6 @@ legacySlug: exact-sales-suiteshare
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en portugués.</p>
+</div>

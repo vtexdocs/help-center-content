@@ -1,5 +1,5 @@
 ---
-title: 'El autocompletado de búsqueda proporciona una URL obsoleta después de navegar por las sugerencias.'
+title: "El autocompletado de búsqueda proporciona una URL obsoleta después de navegar por las sugerencias."
 id: 168oT3vpuAcRdZbE7sahtF
 status: PUBLISHED
 createdAt: 2024-01-19T01:28:08.775Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-autocomplete-providing-outdated-url-after-navigating-through-suggestions
+slugEN: el-autocompletado-de-busqueda-proporciona-una-url-obsoleta-despues-de-navegar-por-las-sugerencias
 locale: es
 kiStatus: Backlog
 internalReference: 968604
@@ -18,7 +18,9 @@ internalReference: 968604
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el componente "search-bar" con "autocomplete-result-list.v2", al pasar el ratón por las sugerencias de búsqueda también cambiarán los productos sugeridos, así como el texto de "ver todos {n} los productos" para mencionar la búsqueda seleccionada, pero el hipervínculo de "ver todos" sigue el término de búsqueda original en lugar del seleccionado.

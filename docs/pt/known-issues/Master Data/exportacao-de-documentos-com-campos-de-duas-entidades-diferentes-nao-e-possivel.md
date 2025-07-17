@@ -1,5 +1,5 @@
 ---
-title: 'Exportação de documentos com campos de duas entidades diferentes não é possível'
+title: "Exportação de documentos com campos de duas entidades diferentes não é possível"
 id: 5ed6rXDZNpVa5VOyAGrttf
 status: PUBLISHED
 createdAt: 2019-04-11T00:23:14.583Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: unable-to-export-documents-across-entities
+slugEN: exportacao-de-documentos-com-campos-de-duas-entidades-diferentes-nao-e-possivel
 locale: pt
 kiStatus: Backlog
 internalReference: 

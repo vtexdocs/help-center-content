@@ -1,5 +1,5 @@
 ---
-title: 'Produtos indisponíveis com mensagens conflitantes no novo catálogo de administração de produtos (Facelift)'
+title: "Produtos indisponíveis com mensagens conflitantes no novo catálogo de administração de produtos (Facelift)"
 id: 637P8whSEQWtERrXtndWsH
 status: PUBLISHED
 createdAt: 2024-09-10T13:40:10.557Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: unavailable-products-with-conflicting-messages-in-the-new-catalog-product-admin-facelift
+slugEN: produtos-indisponiveis-com-mensagens-conflitantes-no-novo-catalogo-de-administracao-de-produtos-facelift
 locale: pt
 kiStatus: Backlog
 internalReference: 1095510
@@ -18,7 +18,9 @@ internalReference: 1095510
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na página de produto `/admin/catalog-products`, um produto indisponível terá as mensagens `"Ative o produto para torná-lo visível na loja"` e `"Produto pendente. Verifique se esse produto tem todas as informações necessárias, preços, estoque e configurações de logística."`.

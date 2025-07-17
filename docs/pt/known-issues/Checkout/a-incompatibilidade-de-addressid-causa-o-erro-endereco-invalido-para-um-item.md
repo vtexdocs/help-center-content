@@ -1,5 +1,5 @@
 ---
-title: "A incompatibilidade de AddressId causa o erro 'endereço inválido para um item'"
+title: 'A incompatibilidade de AddressId causa o erro "endereço inválido para um item'
 id: 5bSac85eHb9NmrOhcTjHNw
 status: PUBLISHED
 createdAt: 2024-03-01T19:28:52.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: addressid-mismatch-causes-invalid-address-for-an-item-error
+slugEN: a-incompatibilidade-de-addressid-causa-o-erro-endereco-invalido-para-um-item
 locale: pt
 kiStatus: Backlog
 internalReference: 992503
@@ -18,7 +18,9 @@ internalReference: 992503
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O anexo de carrinho `shippingData` suporta o campo `addressId` em alguns objetos diferentes: `logisticsInfo`, `address` e `selectedAddresses`.

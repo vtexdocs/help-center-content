@@ -1,5 +1,5 @@
 ---
-title: 'Produtos não estão sendo enviados pela integração ao se fazer o upload de mapeamento'
+title: "Produtos não estão sendo enviados pela integração ao se fazer o upload de mapeamento"
 id: 2A6AvKjkTm2wocOg4ywIAa
 status: PUBLISHED
 createdAt: 2018-05-04T17:50:27.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slugEN: products-are-not-being-sent-by-the-integration-after-mapping-upload
+slugEN: produtos-nao-estao-sendo-enviados-pela-integracao-o-upload-mapeamento
 locale: pt
 kiStatus: Backlog
 internalReference: 

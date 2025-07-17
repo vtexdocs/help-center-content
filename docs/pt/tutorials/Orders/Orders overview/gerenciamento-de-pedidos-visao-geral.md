@@ -24,10 +24,10 @@ Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 Em **Pedidos**, você pode visualizar todas as informações relativas ao andamento dos pedidos feitos na sua loja. Também é possível enviar faturas e alterar produtos, entre outras ações. 
 
 A seção inclui as seguintes páginas:
-- [Todos os pedidos](https://help.vtex.com/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT)    
-- [Detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)  
-- [Transações](https://help.vtex.com/pt/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
-- [Conciliação Bancária](https://help.vtex.com/pt/tutorial/bank-reconciliations--tutorials_453) 
+- [Todos os pedidos](/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT)    
+- [Detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)  
+- [Transações](/pt/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
+- [Conciliação Bancária](/pt/tutorial/bank-reconciliations--tutorials_453) 
 
 Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -36,14 +36,16 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 - Email do cliente
 - Documento do cliente 
 
->ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 ## Assinaturas
 
-Na plataforma VTEX, você pode criar [assinaturas](https://help.vtex.com/pt/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#), ou seja, oferecer aos seus clientes a possibilidade de fazer pedidos recorrentes de forma automática, segundo uma frequência estabelecida.
+Na plataforma VTEX, você pode criar [assinaturas](/pt/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#), ou seja, oferecer aos seus clientes a possibilidade de fazer pedidos recorrentes de forma automática, segundo uma frequência estabelecida.
 
 Para gerenciar essa funcionalidade na sua loja, esta seção inclui as seguintes páginas:
 
-- [Dashboards](https://help.vtex.com/pt/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
-- [Planos](https://help.vtex.com/pt/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
+- [Dashboards](/pt/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
+- [Planos](/pt/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
 

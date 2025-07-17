@@ -1,5 +1,5 @@
 ---
-title: 'As mudanças feitas nos pagamentos personalizados não se refletem no checkout'
+title: "As mudanças feitas nos pagamentos personalizados não se refletem no checkout"
 id: 22ot22mIyR9v8b2vXYn8VW
 status: PUBLISHED
 createdAt: 2022-03-27T17:59:14.988Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-changes-made-to-custom-payments-are-not-reflected-in-checkout
+slugEN: as-mudancas-feitas-nos-pagamentos-personalizados-nao-se-refletem-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 276250
@@ -18,7 +18,9 @@ internalReference: 276250
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o cliente tenta modificar as configurações feitas para pagamentos personalizados que já têm uma regra de pagamento associada, as mudanças não são refletidas no checkout.

@@ -13,10 +13,11 @@ slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 locale: es
 legacySlug: que-hacer-cuando-mi-informe-de-exportaciones-no-llega-al-email
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Master Data v1, Informe, Exportación
 ---
 
-Cuando se [exporta un informe con datos de Master Data v1](https://help.vtex.com/es/tutorial/exportando-dados--tutorials_1125), dicho informe se envía al email ingresado durante la exportación. Sin embargo, es posible que el email tarde más de lo previsto en llegar a la bandeja de entrada.
+**Tags:** Master Data v1, Informe, Exportación
+
+Cuando se [exporta un informe con datos de Master Data v1](/es/tutorial/exportando-dados--tutorials_1125), dicho informe se envía al email ingresado durante la exportación. Sin embargo, es posible que el email tarde más de lo previsto en llegar a la bandeja de entrada.
 
 ## Solución
 
@@ -28,7 +29,7 @@ Se puede acceder al informe en Master Data siguiendo los pasos que se indican a 
 4. En **Status de las exportaciones**, identifica la fila del informe al que deseas acceder.
 5. Si el **Status** es **Realizado - Descargar**, haz clic en `Descargar` para descargar el archivo.
 
-    ![download-report-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-recibi-el-email-con-el-informe-exportado-de-master-data-v1_1.png)
+    ![download-report-es](https://images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/30836df1d33aa9022b19ef7e52895454/download-report-es.png)
 
     Si el status es **En ejecución**, espera a que se complete la exportación y repite los pasos anteriores.
 

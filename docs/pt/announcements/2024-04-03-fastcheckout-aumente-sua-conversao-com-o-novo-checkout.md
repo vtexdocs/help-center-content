@@ -3,8 +3,8 @@ title: 'FastCheckout: aumente sua conversão com o novo checkout'
 id: 1sOAAmRehyJ1YkzbG4BkE2
 status: PUBLISHED
 createdAt: 2024-04-03T18:54:06.111Z
-updatedAt: 2024-04-23T10:00:03.018Z
-publishedAt: 2024-04-23T10:00:03.018Z
+updatedAt: 2025-05-12T20:21:51.443Z
+publishedAt: 2025-05-12T20:21:51.443Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -18,7 +18,7 @@ announcementSynopsisPT: 'Apresentamos o FastCheckout: inovação em checkout par
 
 Com o compromisso contínuo de inovar e a entregar excelência aos nossos clientes, a VTEX apresenta o **FastCheckout**, a mais recente evolução em nosso checkout. A nova solução permite criar experiências de checkout personalizadas com alta conversão, sempre atualizadas com novas funcionalidades.
 
-![fastcheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_1.png)
+![fastcheckout](https://images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/4e751e1a0b31e6e68d6f9053f0451ecd/image.png)
 
 ## O que mudou?
 
@@ -49,13 +49,15 @@ O FastCheckout permite uma experiência de checkout customizável, adaptando-se 
 
 Proporcionamos a liberdade de incluir elementos completamente customizados, sem a necessidade de conhecimento em JavaScript ou CSS.
 
->⚠️ A primeira versão lançada do FastCheckout permite customizações limitadas. Em breve, será possível personalizar completamente o conteúdo utilizando os pontos de extensão da FastStore Platform.
+<div class="alert alert-warning">
+  <p>A primeira versão lançada do FastCheckout permite customizações limitadas. Em breve, será possível personalizar completamente o conteúdo utilizando os pontos de extensão da FastStore Platform.</p>
+</div>
 
 ### Novo fluxo de compra
 
 O novo fluxo de compra no FastCheckout é projetado para ser dinâmico e intuitivo, para oferecer aos seus clientes uma experiência de compra mais fluida e simplificada. Com etapas claramente definidas e uma navegação intuitiva, tornamos o processo de checkout mais eficiente.
 
-![GIFCheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_2.gif)
+![GIFCheckout](https://images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/27979c72da22a010d210379d502dab88/GIFCheckout.gif)
 
 ## Por que fizemos essa mudança?
 
@@ -64,5 +66,9 @@ O novo checkout foi concebido com o objetivo de aumentar a conversão das lojas 
 Facilitamos significativamente a customização, adaptável a experiência do usuário de acordo com as necessidades específicas feitas pelo Admin.
 
 ## O que precisa ser feito?
+
+<div class="alert alert-warning">
+<p>O programa de early access do FastCheckout está disponível apenas para lojas localizadas nos Estados Unidos.</p>
+</div>
 
 Para participar do programa early access do FastCheckout, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). A equipe da VTEX entrará em contato e avaliará se as funcionalidades disponíveis neste primeiro lançamento atendem às suas necessidades. Caso positivo, você será chamado para aderir ao nosso programa Beta e todos os usuários na conta da sua loja serão atualizados para a nova experiência. Nenhuma configuração adicional é necessária.

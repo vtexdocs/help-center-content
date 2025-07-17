@@ -15,19 +15,21 @@ legacySlug: alertas-de-promociones-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->ℹ️ Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro [equipo de soporte](https://help.vtex.com/es/support).
+<div class = "alert alert-info">
+Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro <a href="https://help.vtex.com/es/support">equipo de soporte</a>.
+</div>
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 
-Para minimizar los efectos indeseados en promociones, la página **Alerta de promociones** permite crear alertas con condiciones para verificar si las promociones están correctas y definir [acciones preventivas](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) para evitar ventas con precios inesperados. Sin embargo, se debe realizar un pedido para activar la primera alerta.
+Para minimizar los efectos indeseados en promociones, la página **Alerta de promociones** permite crear alertas con condiciones para verificar si las promociones están correctas y definir [acciones preventivas](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) para evitar ventas con precios inesperados. Sin embargo, se debe realizar un pedido para activar la primera alerta.
 
-Si se identifican las [condiciones](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#condiciones) definidas en la alerta, el sistema genera una alerta con la información sobre el producto vendido a precios inesperados y aplica las [acciones preventivas](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) configuradas. Si se configuró la acción de [desactivar las promociones](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas), el escenario indeseado no ocurrirá nuevamente, ya que la promoción estará desactivada.
+Si se identifican las [condiciones](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#condiciones) definidas en la alerta, el sistema genera una alerta con la información sobre el producto vendido a precios inesperados y aplica las [acciones preventivas](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas) configuradas. Si se configuró la acción de [desactivar las promociones](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#acciones-preventivas), el escenario indeseado no ocurrirá nuevamente, ya que la promoción estará desactivada.
 
 Si solo se configura la acción de alerta por email, es posible que se realicen otros pedidos con el descuento indeseado hasta que se desactive la promoción manualmente o se cambie la configuración de la promoción para que tenga el efecto esperado.
 
 Para acceder a la página en el Admin VTEX, ve a *Promociones > Alerta de promociones*. Se mostrará la interfaz a continuación:
 
-![simuladordepromocoes gerenciar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Promotions%20Beta/alertas-de-promociones-beta_1.gif)
+![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
 
 La siguiente tabla proporciona la descripción de las columnas de la lista de promociones:
 
@@ -48,7 +50,7 @@ La siguiente tabla proporciona la descripción de las columnas de la lista de pr
 
 ## Crear alerta
 
-Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR).
+Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR).
 
 ## Buscar alerta
 
@@ -93,5 +95,5 @@ Se completará la duplicación de la alerta con éxito.
 
 ## Más información
 
-- [Alertas de promociones: cómo crear una alerta de promoción](https://help.vtex.com/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
-- [Cómo funcionan las promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [Alertas de promociones: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
+- [Cómo funcionan las promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

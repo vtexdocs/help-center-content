@@ -17,15 +17,15 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 El número de identificación bancaria (BIN) se compone de los primeros seis u ocho dígitos de una tarjeta de crédito o débito y caracteriza la entidad emisora de la tarjeta.
 
-![BIN_image_digits_ES_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payments%20overview/registrar-informacion-de-bin_1.png)
+![BIN_image_digits_ES_2](https://images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/474de4b5b02f9be016dd9aae13d83b4a/BIN_image_digits_ES_2.png)
 
-Cuando la entidad emisora desea crear nuevos perfiles de tarjetas o emitir nuevas tarjetas para un modelo existente, debe crear nuevos BIN. Esto también se aplica cuando una [bandera de tarjeta](https://help.vtex.com/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) es adquirida por otra.
+Cuando la entidad emisora desea crear nuevos perfiles de tarjetas o emitir nuevas tarjetas para un modelo existente, debe crear nuevos BIN. Esto también se aplica cuando una [bandera de tarjeta](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) es adquirida por otra.
 
 En estos casos, se debe notificar a VTEX para permitir que las nuevas tarjetas se validen de forma correcta en el proceso de pago durante una compra realizada en la plataforma.
 
 ## Solicitar la inclusión de BIN
 
-Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
+Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](/es/support).
 
 El ticket debe incluir como adjunto una plantilla rellenada con la siguiente información:
 
@@ -39,4 +39,4 @@ El ticket debe incluir como adjunto una plantilla rellenada con la siguiente inf
 
 Modelo de plantilla rellenada:
 
-![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payments%20overview/registrar-informacion-de-bin_2.PNG)
+![Bin_spreadsheet](https://images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/34d0045e509662b159b442818a9854f6/Bin_spreadsheet.PNG)

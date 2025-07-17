@@ -27,7 +27,7 @@ A partir da lista de promoções no Seller Portal, você pode realizar uma varie
 * [Acessar menu de ações da promoção](#acessar-menu-de-acoes-da-promocao)
 * [Acessar promoções arquivadas](#acessar-promocoes-arquivadas)
 
-![seller-portal-promo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-promocoes_1.png)
+![seller-portal-promo-pt](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/124f6651a5de6411ec93f545748cd75c/image.png)
 
 A página **Promoções** apresenta as seguintes informações em uma tabela: 
 
@@ -40,7 +40,7 @@ A página **Promoções** apresenta as seguintes informações em uma tabela:
 
 ## Criar nova promoção
 
-Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](https://help.vtex.com/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
+Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Buscar promoções
 
@@ -71,7 +71,7 @@ O arquivo contém as seguintes informações sobre cada promoção:
 
 ## Verificar dados de uso das promoções
 
-![seller-portal-promo-ativas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-promocoes_2.png)
+![seller-portal-promo-ativas-pt](https://images.ctfassets.net/alneenqid6w5/3tnyz6u3HxC6Qjezn9PvLr/b8e5dbee51610f19330da09d655ee8ca/image.png)
 
 Para visualizar o total de promoções ativas na sua loja e a cota de espaço restante para novas promoções, clique em `Uso das promoções`.
 
@@ -91,4 +91,6 @@ Para acessar a página **Promoções arquivadas**, clique no ícone <i class="fa
 
 Você poderá desarquivar ou duplicar as promoções arquivadas clicando no ícone <i class="fas fa-ellipsis-v"></i>. 
 
->ℹ️ Ao desarquivar uma promoção, seu status mudará para `Pausada`.
+<div class="alert alert-info">
+  <p>Ao desarquivar uma promoção, seu status mudará para <code>Pausada</code>.</p>
+  </div>

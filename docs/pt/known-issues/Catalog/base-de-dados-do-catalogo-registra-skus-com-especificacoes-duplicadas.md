@@ -1,5 +1,5 @@
 ---
-title: 'Base de dados do catálogo registra SKUs com especificações duplicadas'
+title: "Base de dados do catálogo registra SKUs com especificações duplicadas"
 id: zs3Gy1NQ9EYLpAlQ3aXXe
 status: PUBLISHED
 createdAt: 2022-03-04T18:24:48.159Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-database-registers-skus-with-duplicate-specifications
+slugEN: base-de-dados-do-catalogo-registra-skus-com-especificacoes-duplicadas
 locale: pt
 kiStatus: Backlog
 internalReference: 536133
@@ -18,7 +18,9 @@ internalReference: 536133
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em algumas situações aleatórias, o banco de dados do catálogo permite que os valores de uma especificação sejam duplicados na mesma SKU.

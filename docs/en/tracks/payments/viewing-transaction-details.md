@@ -52,5 +52,5 @@ In this timeline you can see all the transaction status changes and the exact mo
 
 Reading the description of a cancellation event you can find out, for example, who was the author of that cancellation, or you might find that the connector was the one who denied payment authorization.
 
-Read the  __Viewing the order's details in Orders__ article for [examples of events recorded in this timeline](https://help.vtex.com/en/tutorial/how-to-view-the-orders-details--tutorials_452).
+Read the  __Viewing the order's details in Orders__ article for [examples of events recorded in this timeline](/en/tutorial/how-to-view-the-orders-details--tutorials_452).
 

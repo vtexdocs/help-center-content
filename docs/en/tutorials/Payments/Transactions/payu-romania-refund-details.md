@@ -15,7 +15,9 @@ legacySlug: payu-romania-refund-details
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
->⚠️ This article applies only for payments made in **Romania**.
+<div class="alert alert-warning">
+This article applies only for payments made in <b>Romania</b>.
+</div>
 
 Payment cancellations (also called voids – they can be placed only for the full amount) or refunds (total or partial) are not processed immediately, but with a timeout instead. 
 
@@ -36,7 +38,7 @@ If the Delete button is not active and the timeout has not expired, you can quic
 
 If the void or refund request has already been sent by the system to the issuing bank, we will no longer be able to delete/stop it in any way.
 
-![PayU Romania](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/payu-romania-refund-details_1.png)
+![PayU Romania](https://images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
 
 Once PayU has sent the void or refund request to the issuing bank, the status of the order will be updated in the PayU cPanel as `REVERSE` (for voids) or `REFUND`. And VTEX is going to receive a webhook from PaymentsOS, so the order status can also be updated on the platform (on Payments and consequently reflected in the OMS).
 

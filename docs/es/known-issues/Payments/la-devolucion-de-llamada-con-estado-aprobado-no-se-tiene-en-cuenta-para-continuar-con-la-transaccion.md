@@ -1,5 +1,5 @@
 ---
-title: 'La devolución de llamada con estado aprobado no se tiene en cuenta para continuar con la transacción'
+title: "La devolución de llamada con estado aprobado no se tiene en cuenta para continuar con la transacción"
 id: 1IU3macRFOPM5nI2ekXHHD
 status: PUBLISHED
 createdAt: 2024-11-04T19:56:28.031Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: callback-with-approved-status-not-being-considered-to-proceed-with-the-transaction
+slugEN: la-devolucion-de-llamada-con-estado-aprobado-no-se-tiene-en-cuenta-para-continuar-con-la-transaccion
 locale: es
 kiStatus: Backlog
 internalReference: 1129281
@@ -18,7 +18,9 @@ internalReference: 1129281
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Aunque la pasarela recibe correctamente el callback indicando que el estado del pago es aprobado, la transacción no progresa a `authorized` y luego a `approved`. Se envía una solicitud de autorización posterior, y como el retorno es `undefined`, la transacción permanece en el estado `authorizing` hasta que se agota el número de reintentos.

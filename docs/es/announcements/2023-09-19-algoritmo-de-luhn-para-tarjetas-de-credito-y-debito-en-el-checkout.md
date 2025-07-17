@@ -25,7 +25,7 @@ De ahora en adelante, se aplicará el algoritmo de Luhn para garantizar que solo
 
 Si el cliente ingresa un número incorrecto, se mostrará un mensaje de error en el checkout. En ese caso, el cliente deberá comprobar el número ingresado y corregirlo para continuar con la finalización de la compra.
 
-![algoritmo_luhn_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-09-19-algoritmo-de-luhn-para-tarjetas-de-credito-y-debito-en-el-checkout_1.PNG)
+![algoritmo_luhn_es](https://images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/b061baadc25eb3b451af06004a05a9d9/algoritmo_luhn_es.PNG)
 
 ## ¿Por qué realizamos este cambio?
 
@@ -35,4 +35,6 @@ El rechazo de una transacción de pago debido a un número de tarjeta inválido 
 
 No se requiere ninguna acción. El algoritmo de Luhn ya está activo en todas las tiendas VTEX.
 
->⚠️ El algoritmo de Luhn no restringe el fraude por ataques con tarjeta. El objetivo específico es comprobar si hay errores tipográficos o del valor ingresado en los números de las tarjetas.
+<div class="alert alert-warning">
+El algoritmo de Luhn no restringe el fraude por ataques con tarjeta. El objetivo específico es comprobar si hay errores tipográficos o del valor ingresado en los números de las tarjetas.
+</div>

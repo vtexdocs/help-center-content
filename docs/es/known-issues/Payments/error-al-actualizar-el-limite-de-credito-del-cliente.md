@@ -1,5 +1,5 @@
 ---
-title: 'Error al actualizar el límite de crédito del cliente'
+title: "Error al actualizar el límite de crédito del cliente"
 id: 5JFf84sPhezlexXG7HvQrV
 status: PUBLISHED
 createdAt: 2024-09-06T13:22:57.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-updating-customer-credit-limit
+slugEN: error-al-actualizar-el-limite-de-credito-del-cliente
 locale: es
 kiStatus: Backlog
 internalReference: 1093711
@@ -18,7 +18,9 @@ internalReference: 1093711
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar cambiar el Límite de Crédito (aumentar o disminuir) de una creditAccount puede producirse un error (vía Admin y API) con el mensaje:

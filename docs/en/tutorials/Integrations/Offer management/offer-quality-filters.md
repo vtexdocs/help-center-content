@@ -15,13 +15,13 @@ legacySlug: offer-quality-filters
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-[Marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.
+[Marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.
 
 Quality criteria are important for the marketplace's operation so that the offers submitted to the page meet the requirements relevant to the curation of your catalog.
 
 **Offer quality filters** is the page where marketplaces add and manage the requirement groups applied to the received SKU cataloging process. To access it, in your VTEX Admin, go to **Marketplace > Offer Quality** or type __"Offer Quality"__ in the search bar.
 
-![EN offer quality](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-quality-filters_1.png)
+![EN offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
 
 In this article, learn how to:
 
@@ -46,9 +46,9 @@ The feature allows the marketplace operator to perform many actions, each offeri
 | Bring more transparency to the cataloging criteria for submitted offers and how sellers and offers do or do not comply.                                                                     | It allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.         |
 
 ## Viewing Default requirements
-![EN Default requirements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Offer%20management/offer-quality-filters_2.png)
+![EN Default requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/83dd62ff723ec843269ea0919c31633d/EN_Default_requirements.png)
 
-The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
+The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
 
 You cannot disable the _Default requirements_. They are visible on the Offer quality filters page to show you which rules already applies to all submitted offers.
 
@@ -59,7 +59,9 @@ To view the rules that are already active by default, on the Offer quality filte
 - Ref ID has a maximum character limit of 50. 
 - EAN has a maximum character limit of 50. 
 
->ℹ️ You can configure VTEX Matcher's auto-approval of offers via [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig) REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
+<div class="alert alert-info">
+You can configure VTEX Matcher's auto-approval of offers via <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a> REST API calls. These are different criteria than the ones available on the Offer Quality filters page and apply to the automatic approval of offers from specific sellers.
+</div>
 
 ## Creating requirement groups
 
@@ -81,7 +83,9 @@ Create requirement groups to set rules that apply to sellers, categories, or mar
 
 You can create mandatory and/or optional requirements. Learn more about the implications of each requirement in [Cataloging offers with requirements](#cataloging-offers-with-requirements).
 
->ℹ️ Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
+<div class="alert alert-info">
+Notice that each requirement group holds only one value. Therefore, you need to create another requirement group to add more than one value. For example, if the marketplace wants to add the words "Shirts" and "T-shirts" as mandatory requirements for the Seller brand field, you need to create a requirement group for "Shirts" and another one for "T-shirts".
+</div>
 
 Follow the steps below to create a new requirement group:
 
@@ -224,7 +228,7 @@ You can create groups of rules for different business applications. Each require
 
 #### Brand
 
-This field is populated by [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) when the brand submitted by the seller has been mapped. This rule allows you to validate that sellers only send previously mapped brands or block a specific brand that has been mapped in the past.
+This field is populated by [VTEX Matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) when the brand submitted by the seller has been mapped. This rule allows you to validate that sellers only send previously mapped brands or block a specific brand that has been mapped in the past.
 
 -	**Is mapped**: Defines that the brand submitted by the seller must be mapped in the VTEX Matcher.
 -	**Is**: Defines that the offer brand field must correspond to a specific value.
@@ -291,7 +295,7 @@ You can move a requirement created as optional to mandatory and vice versa. To d
 
 ## Cataloging offers with requirements
 
-Once the requirement groups have been created and activated, they take effect following the set rules. This means that all offers submitted by sellers will be filtered according to the criteria defined for sellers, brands, or categories to get to the Received SKUs page, where the [cataloging process](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) happens.
+Once the requirement groups have been created and activated, they take effect following the set rules. This means that all offers submitted by sellers will be filtered according to the criteria defined for sellers, brands, or categories to get to the Received SKUs page, where the [cataloging process](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) happens.
 
 The following table describes what each requirement type triggers for offers that do or do not meet the set criteria.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Sinónimos no mostrados en la búsqueda explicada'
+title: "Sinónimos no mostrados en la búsqueda explicada"
 id: 6twjWHNHdarFV5pz1aTfeb
 status: PUBLISHED
 createdAt: 2023-03-20T16:57:15.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: synonyms-not-shown-in-the-explained-search
+slugEN: sinonimos-no-mostrados-en-la-busqueda-explicada
 locale: es
 kiStatus: Backlog
 internalReference: 774307
@@ -18,7 +18,9 @@ internalReference: 774307
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Es posible que algunos productos no presenten sus sinónimos en la página de administración de búsqueda explicada. Esto suele ocurrir con los sinónimos unidireccionales.

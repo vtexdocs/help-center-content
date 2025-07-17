@@ -1,5 +1,5 @@
 ---
-title: 'Las reglas de crédito de cliente eliminadas aparecerán en la caja si no se han desactivado previamente'
+title: "Las reglas de crédito de cliente eliminadas aparecerán en la caja si no se han desactivado previamente"
 id: 7culNJ04UcZfzgHFREyNEs
 status: PUBLISHED
 createdAt: 2024-03-04T23:12:22.826Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: deleted-customer-credit-rules-will-appear-at-checkout-if-not-deactivated-previously
+slugEN: las-reglas-de-credito-de-cliente-eliminadas-apareceran-en-la-caja-si-no-se-han-desactivado-previamente
 locale: es
 kiStatus: Backlog
 internalReference: 994066
@@ -18,7 +18,9 @@ internalReference: 994066
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

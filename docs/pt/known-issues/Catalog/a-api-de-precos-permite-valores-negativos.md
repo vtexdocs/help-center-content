@@ -1,5 +1,5 @@
 ---
-title: 'A API de preços permite valores negativos'
+title: "A API de preços permite valores negativos"
 id: 64gkWnDs5pvv8Ny1TJtTI0
 status: PUBLISHED
 createdAt: 2023-03-20T20:09:54.998Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: pricing-api-allows-negative-values
+slugEN: a-api-de-precos-permite-valores-negativos
 locale: pt
 kiStatus: Backlog
 internalReference: 774548
@@ -18,7 +18,9 @@ internalReference: 774548
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o PUT Price API permite a entrada de valores negativos via PUT API Payload, se você definir a marcação e o preço base para valores negativos, você definirá o produto como indisponível.
@@ -46,7 +48,7 @@ Defina o seguinte preço:
 
 A resposta será:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-api-de-precos-permite-valores-negativos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/P3rVVQbx6nfqtX2W1UMAbb0V8/?name=image.png)
 
 O que quebra a lógica de preço e torna o produto indisponível, uma vez que o checkout e as aplicações de catálogo não são capazes de lidar com valores de preço negativos.
 

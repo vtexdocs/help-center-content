@@ -1,5 +1,5 @@
 ---
-title: 'Alterar CEP não remove o endereço antigo'
+title: "Alterar CEP não remove o endereço antigo"
 id: 3kS6NurZhmokISg82eaMw2
 status: PUBLISHED
 createdAt: 2018-09-11T19:53:42.872Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: changing-zip-code-doesnt-remove-old-address
+slugEN: alterar-cep-nao-remove-o-endereco-antigo
 locale: pt
 kiStatus: Backlog
 internalReference: 

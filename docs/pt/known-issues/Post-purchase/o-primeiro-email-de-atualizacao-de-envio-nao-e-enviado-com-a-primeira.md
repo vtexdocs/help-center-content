@@ -1,5 +1,5 @@
 ---
-title: 'O primeiro email de atualização de envio não é enviado com a primeira atualização'
+title: "O primeiro email de atualização de envio não é enviado com a primeira atualização"
 id: 55EJ7SR18hEeLXOP0TF9j3
 status: PUBLISHED
 createdAt: 2021-08-25T12:19:02.034Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Message Center,Order Management
-slugEN: the-first-shipping-update-email-is-not-sent-when-the-shipping-status-is
+slugEN: o-primeiro-email-de-atualizacao-de-envio-nao-e-enviado-com-a-primeira
 locale: pt
 kiStatus: Backlog
 internalReference: 

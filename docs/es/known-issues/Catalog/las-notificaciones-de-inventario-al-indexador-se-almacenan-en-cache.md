@@ -1,5 +1,5 @@
 ---
-title: 'Las notificaciones de inventario al indexador se almacenan en caché'
+title: "Las notificaciones de inventario al indexador se almacenan en caché"
 id: 2eFmUbO1PR7ahxAGiMkqZd
 status: PUBLISHED
 createdAt: 2023-10-05T12:48:05.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inventory-notifications-to-indexer-are-cached
+slugEN: las-notificaciones-de-inventario-al-indexador-se-almacenan-en-cache
 locale: es
 kiStatus: Fixed
 internalReference: 914545
@@ -18,7 +18,9 @@ internalReference: 914545
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando una cuenta de franquicia o vendedor notifica a la cuenta principal (o marketplace) sobre cambios en el inventario, la cuenta envía el producto al indexador para tener la información más actualizada.

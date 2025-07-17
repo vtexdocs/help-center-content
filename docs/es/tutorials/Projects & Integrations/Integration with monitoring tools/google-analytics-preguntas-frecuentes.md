@@ -3,8 +3,8 @@ title: 'Google Analytics: preguntas frecuentes'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z
-updatedAt: 2024-10-17T15:04:11.365Z
-publishedAt: 2024-10-17T15:04:11.365Z
+updatedAt: 2024-12-18T02:45:12.661Z
+publishedAt: 2024-12-18T02:45:12.661Z
 firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
@@ -19,7 +19,7 @@ Consulta a continuación las respuestas a algunas de las preguntas más frecuent
 
 ## ¿Cómo instalar Google Analytics en tu tienda?
 
-La instalación se realiza a través de [Google Tag Manager](https://help.vtex.com/es/tutorial/integracao-com-o-google-tag-manager#), como se describe en el artículo [Configuración de Google Analytics en tiendas VTEX](https://help.vtex.com/es/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+La instalación se realiza a través de [Google Tag Manager](/es/tutorial/integracao-com-o-google-tag-manager#), como se describe en el artículo [Configuración de Google Analytics en tiendas VTEX](/es/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## ¿De dónde provienen los datos mostrados en Google Analytics? ¿Qué son las etiquetas de Google?
 
@@ -50,7 +50,9 @@ Como VTEX procesa las transacciones de tu tienda, todas las transacciones se reg
 - La tag de transacción se activa incluso con transacciones que no se completaron con éxito.
 - Falla o duplicación de la visualización de la página de confirmación del pedido, si la tag de transacción está vinculada a la visualización de esta página.
 
->ℹ️ También debes tener en cuenta que hay un retraso de hasta 48 horas en el registro de datos de transacciones en Google Analytics.
+<div class = "alert alert-info">
+También debes tener en cuenta que hay un retraso de hasta 48 horas en el registro de datos de transacciones en Google Analytics.
+</div>
 
 Además, las integraciones pueden construirse de forma que acaben por no desencadenar determinadas etiquetas en tu storefront. Por ejemplo, hay integraciones que utilizan una [aplicación de pago](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) y finalizan la compra sin redirigir al cliente a la página de confirmación del pedido, como la integración desarrollada por AME Digital. Las transacciones siempre se registrarán en VTEX, pero en este caso es probable que no se registre en Google Analytics, generando divergencias.
 
@@ -85,5 +87,13 @@ Por su parte, Google Analytics proporciona un embudo de ventas que se genera aut
 
 Las visualizaciones del embudo, por estar basadas en información diferente, pueden presentar divergencias.
 
-Puedes configurar otro embudo de ventas en Google Analytics, que permite una vista personalizada y un mejor control de la jornada de compra. Consulta este artículo sobre cómo [implementar el embudo de ventas en Google Analytics](https://help.vtex.com/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
+Puedes configurar otro embudo de ventas en Google Analytics, que permite una vista personalizada y un mejor control de la jornada de compra. Consulta este artículo sobre cómo [implementar el embudo de ventas en Google Analytics](/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
+
+## Qué es el funil de ventas de Google Analytics?
+
+Los objetivos de **Google Analytics** se utilizan para evaluar si se están cumpliendo con las metas de su sitio.
+
+Este artículo se mostrará cómo establecer un objetivo de conversión, conocida como "embudo de ventas". Para aprender más sobre las mediciones de Metas, puede visitar el centro de ayuda de Google Analytics.
+
+Con el Funnel de ventas configurado, se puede realizar un seguimiento y analizar los pasos de los clientes hasta la finalización de una orden. Para configurar el embudo de ventas en SmartCheckout tomemos en cuenta que el proceso de compra se inicia en la pantalla del producto y pasa a través de carrito de la compra, pago y envío (datos personales, la entrega y el envío, el pago) y alcanza el objetivo.
 

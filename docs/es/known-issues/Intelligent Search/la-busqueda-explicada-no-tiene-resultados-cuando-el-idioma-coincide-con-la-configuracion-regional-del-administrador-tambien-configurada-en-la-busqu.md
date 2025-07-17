@@ -1,5 +1,5 @@
 ---
-title: 'La Búsqueda Explicada no tiene resultados cuando el idioma coincide con la configuración regional del administrador también configurada en la Búsqueda Inteligente.'
+title: "La Búsqueda Explicada no tiene resultados cuando el idioma coincide con la configuración regional del administrador también configurada en la Búsqueda Inteligente."
 id: 1NHYVn0K3mlOTrtnoRevCw
 status: PUBLISHED
 createdAt: 2023-05-23T15:35:17.779Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: explain-search-has-no-results-when-language-matches-with-admin-locale-also-configured-in-intelligent-search
+slugEN: la-busqueda-explicada-no-tiene-resultados-cuando-el-idioma-coincide-con-la-configuracion-regional-del-administrador-tambien-configurada-en-la-busqueda-inteligente
 locale: es
 kiStatus: Backlog
 internalReference: 830490
@@ -18,7 +18,9 @@ internalReference: 830490
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se configura más de un idioma en la Búsqueda Inteligente, la Búsqueda Explicada no devolverá ningún resultado si coincide con una configuración regional de admin que también está en la Búsqueda Inteligente, pero no es la coincidencia exacta. Por ejemplo:

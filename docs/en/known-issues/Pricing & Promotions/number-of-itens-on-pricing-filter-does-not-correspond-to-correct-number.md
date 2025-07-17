@@ -1,5 +1,5 @@
 ---
-title: 'Number of itens on Pricing filter does not correspond to correct number'
+title: "Number of itens on Pricing filter does not correspond to correct number"
 id: 1FyjpY1K6JfAQ0gRIuXyuO
 status: PUBLISHED
 createdAt: 2022-03-16T19:37:02.943Z

@@ -1,5 +1,5 @@
 ---
-title: "Mensaje 'Algo ha ido mal' al acceder a las rutas /a y /p en los almacenes de Portal"
+title: 'Mensaje "Algo ha ido mal" al acceder a las rutas /a y /p en los almacenes de Portal'
 id: 2XGAGH8xpNqjJpAir6DKzz
 status: PUBLISHED
 createdAt: 2023-11-30T16:31:45.428Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: something-went-wrong-message-when-accessing-a-and-p-routes-in-portal-stores
+slugEN: mensaje-algo-ha-ido-mal-al-acceder-a-las-rutas-a-y-p-en-los-almacenes-de-portal
 locale: es
 kiStatus: Backlog
 internalReference: 945226
@@ -18,7 +18,9 @@ internalReference: 945226
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera poder buscar cualquier término en los almacenes del Portal; sin embargo, las letras "A" y "P" no se pueden buscar directamente a través de la URL.

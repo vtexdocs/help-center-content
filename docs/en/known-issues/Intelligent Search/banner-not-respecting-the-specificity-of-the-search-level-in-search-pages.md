@@ -1,5 +1,5 @@
 ---
-title: 'Banner not respecting the specificity of the search level in search pages'
+title: "Banner not respecting the specificity of the search level in search pages"
 id: 4FnLaP0Ftm4TJZaTBnLHXQ
 status: PUBLISHED
 createdAt: 2022-10-11T14:56:22.264Z

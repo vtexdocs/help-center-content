@@ -1,5 +1,5 @@
 ---
-title: 'It is not possible to create a path using content type via UI'
+title: "It is not possible to create a path using content type via UI"
 id: 3jVjkZYCATrnDNhR0IKSEA
 status: PUBLISHED
 createdAt: 2023-10-23T13:19:09.970Z

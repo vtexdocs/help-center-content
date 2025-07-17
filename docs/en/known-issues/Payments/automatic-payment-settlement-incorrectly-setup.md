@@ -1,5 +1,5 @@
 ---
-title: 'Automatic payment settlement incorrectly setup'
+title: "Automatic payment settlement incorrectly setup"
 id: 6KOQwBKNgOPNL7TM80Bqjf
 status: PUBLISHED
 createdAt: 2024-06-19T22:12:10.705Z

@@ -1,5 +1,5 @@
 ---
-title: 'Es posible pasar de la orden a la transacción pero el flujo inverso no funciona'
+title: "Es posible pasar de la orden a la transacción pero el flujo inverso no funciona"
 id: 6du2dTCMNwdGDua01BEKAU
 status: PUBLISHED
 createdAt: 2022-03-15T20:54:12.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: its-possible-to-go-from-order-to-transaction-but-the-inverse-flow-doesnt-work
+slugEN: es-posible-pasar-de-la-orden-a-la-transaccion-pero-el-flujo-inverso-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 393483
@@ -18,7 +18,9 @@ internalReference: 393483
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La `secuencia`, número que puede verse junto al número de pedido y también en la transacción, es la responsable de vincular la transacción al pedido y también la inversa.

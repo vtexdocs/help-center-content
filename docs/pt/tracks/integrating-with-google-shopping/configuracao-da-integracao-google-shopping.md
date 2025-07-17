@@ -16,16 +16,18 @@ trackSlugPT: configurar-integracao-com-o-google-shopping
 
 Este guia orienta como integrar com Google Shopping através do conector desenvolvido pela VTEX, que deve ser sua escolha padrão, pois representa mais eficiência e segurança.
 
->❗ A integração pode ser [configurada por arquivo XML](https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242) . É desaconselhável realizar simultaneamente a [configuração XML do Google Shopping](https://help.vtex.com/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372) e do conector nativo, pois isso acarreta conflitos e divergência de informações.
+<div class="alert alert-danger">
+A integração pode ser <a href="https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242">configurada por arquivo XML</a> . É desaconselhável realizar simultaneamente a <a href="https://help.vtex.com/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372">configuração XML do Google Shopping</a> e do conector nativo, pois isso acarreta conflitos e divergência de informações. 
+</div>
 
 Para realizar a integração por conector, **é indispensável possuir uma conta no Google Merchant Center.**  Caso você ainda não tenha uma, confira o tutorial do Google [Inscrever-se no Google Merchant Center](https://support.google.com/merchants/answer/188924?hl=pt-BR&ref_topic=7294166).
 
 Os próximos passos para integrar sua loja VTEX ao Google Shopping são:
 
-1. [Definir política comercial.](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd)
-2. [Configurar conector.](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl)
-3. [Autenticar conta.](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
-4. [Enviar produtos para o Google Shopping.](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82)
-5. [Configuração do feed.](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3D9Dw6MQnGkqHZhPzme31X)
+1. [Definir política comercial.](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd)
+2. [Configurar conector.](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl)
+3. [Autenticar conta.](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
+4. [Enviar produtos para o Google Shopping.](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82)
+5. [Configuração do feed.](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3D9Dw6MQnGkqHZhPzme31X)
 
 Além disso, para que a integração funcione corretamente, certifique-se de que você possui todos os [Requisitos para Campanhas do Shopping](https://support.google.com/google-ads/answer/6275312) exigidos pelo Google.

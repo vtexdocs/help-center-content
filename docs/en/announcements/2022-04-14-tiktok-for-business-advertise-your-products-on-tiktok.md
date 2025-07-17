@@ -32,7 +32,7 @@ With the new TikTok for Business app for VTEX stores, you can:
 * Install the [TikTok Pixel](https://ads.tiktok.com/help/article?aid=9663) in your VTEX store.
 * Manage your TikTok ads from the VTEX Admin.
 
-For more details on the available features, check out the [TikTok integration guide](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
+For more details on the available features, check out the [TikTok integration guide](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
 
 ## What are the advantages of using the app?
 
@@ -42,9 +42,9 @@ Our goal is to allow you to create campaigns in TikTok Ads Manager with your VTE
 
 ##  How to start using it?
 
-The app is fully compatible with [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and partially compatible with [Legacy](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
+The app is fully compatible with [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and partially compatible with [Legacy](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
 
-To install the app and integrate your VTEX store with TikTok, follow the instructions in the [TikTok integration guide](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
+To install the app and integrate your VTEX store with TikTok, follow the instructions in the [TikTok integration guide](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
 
 See also the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) guide for developers.  
 

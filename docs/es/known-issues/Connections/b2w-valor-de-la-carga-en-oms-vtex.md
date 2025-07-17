@@ -1,5 +1,5 @@
 ---
-title: '[B2W] Valor de la carga en OMS VTEX'
+title: "[B2W] Valor de la carga en OMS VTEX"
 id: 7kVoMojCNmOHatg2L1ykBP
 status: PUBLISHED
 createdAt: 2022-10-04T19:43:17.116Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: b2w-freight-value-in-oms-vtex
+slugEN: b2w-valor-de-la-carga-en-oms-vtex
 locale: es
 kiStatus: No Fix
 internalReference: 671748
@@ -18,7 +18,9 @@ internalReference: 671748
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos algunos casos en los que el valor del flete no aparece en los detalles de las transacciones de pago - OMS

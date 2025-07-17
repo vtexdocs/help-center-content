@@ -1,5 +1,5 @@
 ---
-title: 'Comissionamento de produtos Cache inconsistente'
+title: "Comissionamento de produtos Cache inconsistente"
 id: 7queBSJcAG9yIlKbvWOVgY
 status: PUBLISHED
 createdAt: 2023-08-01T17:48:39.144Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-comissioning-inconsistent-cache
+slugEN: comissionamento-de-produtos-cache-inconsistente
 locale: pt
 kiStatus: Backlog
 internalReference: 872364
@@ -18,7 +18,9 @@ internalReference: 872364
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Existem, a partir de 2023, dois conjuntos de APIs distintos para atualizar as informações de um vendedor em um marketplace, são eles:
 https://developers.vtex.com/docs/api-reference/catalog-api#put-/api/catalog_system/pvt/seller

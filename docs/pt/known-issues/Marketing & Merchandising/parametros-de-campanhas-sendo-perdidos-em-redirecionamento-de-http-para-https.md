@@ -1,5 +1,5 @@
 ---
-title: 'Parâmetros de campanhas são perdidos em redirecionamento de HTTP para HTTPS'
+title: "Parâmetros de campanhas são perdidos em redirecionamento de HTTP para HTTPS"
 id: 2GHGz8HUBiqw4mqI0uSmu6
 status: PUBLISHED
 createdAt: 2017-08-16T20:33:02.765Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
-slugEN: campaign-parameters-are-lost-when-http-is-redirected-to-https
+slugEN: parametros-de-campanhas-sendo-perdidos-em-redirecionamento-de-http-para-https
 locale: pt
 kiStatus: Fixed
 internalReference: 

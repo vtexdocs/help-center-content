@@ -1,5 +1,5 @@
 ---
-title: 'Price Exports Generated With a Format That Is Not Accepted by The Import Process'
+title: "Price Exports Generated With a Format That Is Not Accepted by The Import Process"
 id: 4qOqpaZe1aIrfgo7mXL15K
 status: PUBLISHED
 createdAt: 2022-05-24T18:13:38.306Z

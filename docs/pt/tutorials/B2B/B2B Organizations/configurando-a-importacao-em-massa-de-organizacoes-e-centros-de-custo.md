@@ -3,8 +3,8 @@ title: 'Configurando a importação em massa de dados sobre organizações e cen
 id: 41FwcZHF3GctzKcgyKGaoF
 status: PUBLISHED
 createdAt: 2024-04-25T11:45:15.945Z
-updatedAt: 2024-05-21T14:04:56.238Z
-publishedAt: 2024-05-21T14:04:56.238Z
+updatedAt: 2025-04-28T17:03:12.642Z
+publishedAt: 2025-04-28T17:03:12.642Z
 firstPublishedAt: 2024-04-29T18:38:46.485Z
 contentType: tutorial
 productTeam: B2B
@@ -17,7 +17,17 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 
 A importação em massa de dados permite a simplificação do processo de atualização e manutenção de informações para organizações compradoras, seus usuários (membros) e centros de custo.
 
->⚠️ Antes de configurar a funcionalidade de importação em massa, é necessário ter instalado em sua loja o aplicativo [B2B Suite](https://developers.vtex.com/docs/apps/vtex.b2b-suite).
+<div class="alert alert-warning">
+A importação em massa não atualiza informações de organizações ou centros de custo já existentes. Este recurso é destinado apenas à criação de novos registros. 
+</div>
+
+<div class="alert alert-warning">
+Antes de configurar a funcionalidade de importação em massa, é necessário ter instalado em sua loja o aplicativo <a href="https://developers.vtex.com/docs/apps/vtex.b2b-suite">B2B Suite</a>. 
+</div>
+
+<div class="alert alert-warning">
+Os centros de custo devem ter IDs únicos. O sistema não valida duplicidade de IDs, e isso pode fazer com que a importação falhe sem exibir mensagens de erro. 
+</div>
 
 Veja abaixo como realizar a importação em massa de dados na plataforma VTEX:
 
@@ -25,19 +35,23 @@ Veja abaixo como realizar a importação em massa de dados na plataforma VTEX:
 
 2. Na aba Organizações, clique no botão **Novo**, e selecione Importar em massa. Clique no botão **Enviar** e selecione seu arquivo **XLSX**, ou arraste e solte o arquivo na área tracejada. O arquivo importado deve ser menor que 50 MB.
 
->ℹ️ Caso necessário, baixe um arquivo modelo clicando em VTEX file template no rodapé da janela de importação e preencha os dados de importação.
+<div class = "alert alert-info">
+Caso necessário, baixe um arquivo modelo clicando em VTEX file template no rodapé da janela de importação e preencha os dados de importação.
+</div>
 
 <ol start="3">
 	<li>Após a plataforma realizar uma verificação no arquivo importado e não indicar erros, clique em Importar.</li>
 </ol>
 
->ℹ️ Caso a plataforma encontre algum tipo de erro, verifique a seção **Erros de importação**.
+<div class = "alert alert-info">
+  Caso a plataforma encontre algum tipo de erro, verifique a seção <b>Erros de importação</b>.
+</div>
 
 <ol start="4">
 	<li>Após o processo de importação ser concluído, você pode clicar em  Exibir detalhes de importação para acessar o relatório de importação.</li>
 </ol>
 
-![Importação em massa - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Organizations/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_1.gif)
+![Importação em massa - PT](https://images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/5957afd8831ee93e55609e2b55b5b552/Bulk_import_vers_o_original-PT.gif)
 
 # Erros de importação
 
@@ -51,9 +65,11 @@ Para obter uma visão detalhada dos problemas encontrados, siga os passos abaixo
 
 3. Após corrigir os erros, você pode reiniciar o processo de importação, fazendo upload do arquivo corrigido novamente.
 
->ℹ️ Certifique-se de carregar apenas o arquivo contendo as correções dos erros previamente identificados para garantir uma importação bem-sucedida.
+<div class = "alert alert-info">
+ Certifique-se de carregar apenas o arquivo contendo as correções dos erros previamente identificados para garantir uma importação bem-sucedida.
+</div>
 
-![Bulk import - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Organizations/configurando-a-importacao-em-massa-de-organizacoes-e-centros-de-custo_2.gif)
+![Bulk import - PT](https://images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/4ebe7b4b5b1c0d5b2d7feb36134d9a5e/Bulk_import_vers_o_error-gif-PT.gif)
 
 # Importação via API
 

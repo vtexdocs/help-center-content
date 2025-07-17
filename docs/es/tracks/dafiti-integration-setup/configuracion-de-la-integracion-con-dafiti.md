@@ -18,8 +18,10 @@ Esta guía explica cómo realizar la integración con Dafiti utilizando el conec
 
 Después de finalizar el [registro en el portal de Dafiti](https://www.dafiti.com.co/), los próximos pasos para integrar su tienda VTEX con Dafiti son:
 
-1. [Definir la política comercial](https://help.vtex.com/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i).
-2. [Configurar el conector](https://help.vtex.com/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3PV2OACP2E4O4uOKKW2sMg).
-3. [Enviar productos a Dafiti](https://help.vtex.com/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
+1. [Definir la política comercial](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i).
+2. [Configurar el conector](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3PV2OACP2E4O4uOKKW2sMg).
+3. [Enviar productos a Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
 
->⚠️ Es importante que la transportadora registrada en VTEX se encuentre entre las que Dafiti acepta. De lo contrario, se generará un error de seguimiento del pedido. Además, el nombre de la transportadora registrado debe ser estrictamente igual al nombre aceptado por Dafiti.
+<div class="alert alert-warning">
+Es importante que la transportadora registrada en VTEX se encuentre entre las que Dafiti acepta. De lo contrario, se generará un error de seguimiento del pedido. Además, el nombre de la transportadora registrado debe ser estrictamente igual al nombre aceptado por Dafiti.
+</div>

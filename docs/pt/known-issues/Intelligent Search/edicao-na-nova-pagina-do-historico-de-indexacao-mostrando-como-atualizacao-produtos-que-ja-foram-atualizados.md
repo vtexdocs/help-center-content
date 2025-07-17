@@ -1,5 +1,5 @@
 ---
-title: 'Edição na nova página do histórico de indexação mostrando como atualização produtos que já foram atualizados'
+title: "Edição na nova página do histórico de indexação mostrando como atualização produtos que já foram atualizados"
 id: 2Utn4RueMZjGxYGIh7dNBp
 status: PUBLISHED
 createdAt: 2022-10-19T00:34:17.082Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: issue-on-the-new-indexing-history-page-showing-as-updating-products-that-were-already-updated
+slugEN: edicao-na-nova-pagina-do-historico-de-indexacao-mostrando-como-atualizacao-produtos-que-ja-foram-atualizados
 locale: pt
 kiStatus: Backlog
 internalReference: 680241
@@ -18,7 +18,9 @@ internalReference: 680241
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

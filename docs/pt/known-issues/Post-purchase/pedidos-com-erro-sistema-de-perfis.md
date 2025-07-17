@@ -1,5 +1,5 @@
 ---
-title: "Pedidos com erro 'Ocorreu um erro de comunicação com o Sistema de Perfis'"
+title: 'Pedidos com erro "Ocorreu um erro de comunicação com o Sistema de Perfis'
 id: 2vj48Gmty8i4oQuoSOS46y
 status: PUBLISHED
 createdAt: 2017-05-08T20:51:46.084Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_84
 tag: Order Management
-slugEN: orders-with-error-sistema-de-perfis
+slugEN: pedidos-com-erro-sistema-de-perfis
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -24,7 +24,7 @@ Alguns pedidos no Gerenciamento de Pedidos ficam parados no status "Processando"
 
 Este erro é intermitente, sendo muito difícil sua simulação. A seguir, temos a imagem do log de quando este erro ocorre.
 
-![erro-sistema-de-perfis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/pedidos-com-erro-sistema-de-perfis_1.png)
+![erro-sistema-de-perfis](//images.contentful.com/alneenqid6w5/3XS6EnP8kU8W2SewuYsAes/503ce84831f50a80f57bc31a713a71c7/erro-sistema-de-perfis.png)
 
 ## Workaround
 

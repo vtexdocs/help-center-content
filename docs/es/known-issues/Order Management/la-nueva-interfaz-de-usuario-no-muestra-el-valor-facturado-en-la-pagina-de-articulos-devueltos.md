@@ -1,5 +1,5 @@
 ---
-title: 'La nueva interfaz de usuario no muestra el valor facturado en la página de artículos devueltos'
+title: "La nueva interfaz de usuario no muestra el valor facturado en la página de artículos devueltos"
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-does-not-show-the-invoiced-value-on-return-items-page
+slugEN: la-nueva-interfaz-de-usuario-no-muestra-el-valor-facturado-en-la-pagina-de-articulos-devueltos
 locale: es
 kiStatus: No Fix
 internalReference: 664838
@@ -18,7 +18,9 @@ internalReference: 664838
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de usuario no muestra en la página de artículos devueltos el valor total ya facturado.

@@ -1,5 +1,5 @@
 ---
-title: 'Producto no disponible incluso con el stock de la franquicia'
+title: "Producto no disponible incluso con el stock de la franquicia"
 id: 58KRJl4MFOaeb5KUYGmH8G
 status: PUBLISHED
 createdAt: 2022-01-25T12:17:33.680Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-unavailable-even-with-franchised-stock
+slugEN: producto-no-disponible-incluso-con-el-stock-de-la-franquicia
 locale: es
 kiStatus: Backlog
 internalReference: 404499
@@ -18,7 +18,9 @@ internalReference: 404499
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si el producto está agotado en el mercado, en cualquier otro vendedor habitual y la bandera **mostrar agotado** está desmarcada, el producto se mostrará agotado en el portal aunque tenga stock en las cuentas de las franquicias. Es posible añadir el producto a la cesta.

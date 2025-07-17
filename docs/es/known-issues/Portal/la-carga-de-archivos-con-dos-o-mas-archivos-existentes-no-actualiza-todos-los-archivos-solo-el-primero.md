@@ -1,5 +1,5 @@
 ---
-title: 'La carga de archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero.'
+title: "La carga de archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero."
 id: 2LHdzsFFe83E1Tf0Z4j66y
 status: PUBLISHED
 createdAt: 2022-03-17T00:20:51.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: file-manager-upload-with-two-one-more-existent-files-does-not-update-all-the-files-only-the-first
+slugEN: la-carga-de-archivos-con-dos-o-mas-archivos-existentes-no-actualiza-todos-los-archivos-solo-el-primero
 locale: es
 kiStatus: No Fix
 internalReference: 418253
@@ -18,7 +18,9 @@ internalReference: 418253
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La carga de archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero.

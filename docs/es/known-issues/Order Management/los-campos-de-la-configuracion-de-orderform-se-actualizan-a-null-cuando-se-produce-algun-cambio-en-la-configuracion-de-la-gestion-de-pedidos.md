@@ -1,5 +1,5 @@
 ---
-title: 'Los campos de la configuración de orderForm se actualizan a null cuando se produce algún cambio en la configuración de la gestión de pedidos.'
+title: "Los campos de la configuración de orderForm se actualizan a null cuando se produce algún cambio en la configuración de la gestión de pedidos."
 id: jKGnwUGdfmCXtKjGPe6hj
 status: PUBLISHED
 createdAt: 2023-02-06T21:00:09.224Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: fields-in-the-orderform-configuration-are-updated-to-null-when-there-is-any-change-in-order-management-settings
+slugEN: los-campos-de-la-configuracion-de-orderform-se-actualizan-a-null-cuando-se-produce-algun-cambio-en-la-configuracion-de-la-gestion-de-pedidos
 locale: es
 kiStatus: Fixed
 internalReference: 748404
@@ -18,7 +18,9 @@ internalReference: 748404
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al actualizar cualquier información en la configuración de la gestión de pedidos (en el administrador), los campos `paymentSystemToCheckFirstInstallment` y `defaultPaymentSystemToApplyOnUserOrderForm` se establecen como `null` en la configuración de orderForm

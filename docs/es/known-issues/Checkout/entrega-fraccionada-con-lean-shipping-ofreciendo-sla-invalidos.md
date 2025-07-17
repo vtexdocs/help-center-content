@@ -1,5 +1,5 @@
 ---
-title: 'Entrega fraccionada con Lean Shipping ofreciendo SLA inválidos'
+title: "Entrega fraccionada con Lean Shipping ofreciendo SLA inválidos"
 id: 61Yq1WhmCclFtcum3YMtXn
 status: PUBLISHED
 createdAt: 2024-02-27T19:21:21.615Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-split-with-lean-shipping-offering-invalid-sla
+slugEN: entrega-fraccionada-con-lean-shipping-ofreciendo-sla-invalidos
 locale: es
 kiStatus: Backlog
 internalReference: 990155
@@ -18,7 +18,9 @@ internalReference: 990155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un carro de la compra incluye productos de diferentes vendedores, con diferentes canales de entrega e ID de SLA entre ellos, la interfaz de usuario de Checkout activa Lean Shipping, resumiendo los SLA disponibles para mostrar sólo las opciones "más rápida" y "más barata" para cada artículo.

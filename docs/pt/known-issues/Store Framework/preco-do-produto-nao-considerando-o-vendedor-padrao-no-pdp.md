@@ -1,5 +1,5 @@
 ---
-title: 'Preço do produto não considerando o vendedor padrão no PDP'
+title: "Preço do produto não considerando o vendedor padrão no PDP"
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: product-price-not-considering-default-seller-in-pdp
+slugEN: preco-do-produto-nao-considerando-o-vendedor-padrao-no-pdp
 locale: pt
 kiStatus: No Fix
 internalReference: 429888
@@ -18,7 +18,9 @@ internalReference: 429888
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao mostrar o preço no PDP, o componente ignora o Vendedor por Padrão, considerando o primeiro vendedor que foi registrado.

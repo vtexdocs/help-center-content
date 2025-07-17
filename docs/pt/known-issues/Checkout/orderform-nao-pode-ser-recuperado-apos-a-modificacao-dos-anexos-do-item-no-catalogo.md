@@ -1,5 +1,5 @@
 ---
-title: 'OrderForm não pode ser recuperado após a modificação dos anexos do item no catálogo'
+title: "OrderForm não pode ser recuperado após a modificação dos anexos do item no catálogo"
 id: 5T3UBM0eCUVlKZ7ThQwFZU
 status: PUBLISHED
 createdAt: 2022-09-28T14:04:26.176Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-cant-be-retrieved-after-modifying-item-attachments-in-the-catalog
+slugEN: orderform-nao-pode-ser-recuperado-apos-a-modificacao-dos-anexos-do-item-no-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 320044
@@ -18,7 +18,9 @@ internalReference: 320044
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Após alterar (atualizar ou apagar) alguns itens anexos no catálogo de produtos, se você já tiver algum carrinho/forma de pedido que se refere a itens com anexo específico, o orderForm não pode mais ser carregado.

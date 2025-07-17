@@ -1,16 +1,16 @@
 ---
-title: 'Inconsistências no campo billingAddress enviado ao Gateway'
+title: "Inconsistências no campo billingAddress enviado ao Gateway"
 id: 2SNynMgq0w0t7WBoXGoZwR
 status: PUBLISHED
 createdAt: 2022-01-21T18:13:45.045Z
-updatedAt: 2024-08-14T13:26:01.437Z
-publishedAt: 2024-08-14T13:26:01.437Z
+updatedAt: 2025-02-07T19:22:38.643Z
+publishedAt: 2025-02-07T19:22:38.643Z
 firstPublishedAt: 2022-01-21T18:59:43.332Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: inconsistencies-in-billingaddress-field-sent-to-gateway
+slugEN: inconsistencias-no-campo-billingaddress-enviado-ao-gateway
 locale: pt
 kiStatus: Scheduled
 internalReference: 291688
@@ -18,7 +18,9 @@ internalReference: 291688
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O gateway usa o endereço errado em cenários de compras recorrentes quando já existe um cartão salvo no perfil do usuário.
@@ -45,8 +47,7 @@ Cenário B:
 ## Workaround
 
 
-N/A
-
+Envie uma solicitação de suporte ao produto para prosseguir com a transação.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Preços expirados não apagáveis/atualizáveis devido ao limite de variação de preço'
+title: "Preços expirados não apagáveis/atualizáveis devido ao limite de variação de preço"
 id: JX9nUFCmGWtOzlabxI54h
 status: PUBLISHED
 createdAt: 2022-03-16T20:45:31.592Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: expired-prices-not-deletableupdatable-due-to-price-variation-limit
+slugEN: precos-expirados-nao-apagaveisatualizaveis-devido-ao-limite-de-variacao-de-preco
 locale: pt
 kiStatus: Backlog
 internalReference: 325695
@@ -18,7 +18,9 @@ internalReference: 325695
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

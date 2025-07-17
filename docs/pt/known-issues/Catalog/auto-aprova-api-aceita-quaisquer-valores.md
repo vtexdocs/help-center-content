@@ -1,5 +1,5 @@
 ---
-title: 'Auto aprova API aceita quaisquer valores'
+title: "Auto aprova API aceita quaisquer valores"
 id: kLl4mtwKPPqW6jk5hZMWs
 status: PUBLISHED
 createdAt: 2022-12-12T14:18:51.059Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: auto-approve-api-accepts-any-values
+slugEN: auto-aprova-api-aceita-quaisquer-valores
 locale: pt
 kiStatus: No Fix
 internalReference: 713704
@@ -18,7 +18,9 @@ internalReference: 713704
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API de aprovação automática não está verificando se o vendedor existe, o que pode levar a configurações incorretas.

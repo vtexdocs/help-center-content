@@ -1,5 +1,5 @@
 ---
-title: 'Favicon does not display in some versions of Google chrome mobile'
+title: "Favicon does not display in some versions of Google chrome mobile"
 id: 2c1RVz2SC0QsYTT7i0XMJ3
 status: PUBLISHED
 createdAt: 2024-11-22T19:08:45.054Z

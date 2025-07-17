@@ -1,5 +1,5 @@
 ---
-title: "Búsqueda de 'Textos de la tienda' no funciona"
+title: 'Búsqueda de "Textos de la tienda" no funciona'
 id: 6C6JUkssKcOoQqsaikucwy
 status: PUBLISHED
 createdAt: 2017-08-24T15:16:31.392Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: store-texts-search-doesnt-work
+slugEN: busqueda-de-textos-de-la-tienda-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 

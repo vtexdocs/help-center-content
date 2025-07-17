@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-is-my-order-with-available-stock-failing-in-oms
 ---
 
-When the payment of an order takes many days to be approved, some reservations expire, causing possible errors in the [orders flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) in the **Orders** module, such as products with unavailable stock.
+When the payment of an order takes many days to be approved, some reservations expire, causing possible errors in the [orders flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) in the **Orders** module, such as products with unavailable stock.
 
 The reserved status has an expiration period. If payment is not confirmed until this date, the SKU is released for other customers, avoiding unnecessary reservation of items.
 

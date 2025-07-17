@@ -1,5 +1,5 @@
 ---
-title: 'Itens indisponíveis que quebram o cálculo do pedidoFormulário de cálculo em um cenário específico, utilizando vendedores de whitelabel'
+title: "Itens indisponíveis que quebram o cálculo do pedidoFormulário de cálculo em um cenário específico, utilizando vendedores de whitelabel"
 id: 1LJqeG27j5tY6o6Bs8cQ7P
 status: PUBLISHED
 createdAt: 2023-02-01T21:48:14.820Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: unavailable-items-breaking-the-orderform-calculation-in-a-specific-scenario-while-using-whitelabel-sellers
+slugEN: itens-indisponiveis-que-quebram-o-calculo-do-pedidoformulario-de-calculo-em-um-cenario-especifico-utilizando-vendedores-de-whitelabel
 locale: pt
 kiStatus: Backlog
 internalReference: 745047
@@ -18,7 +18,9 @@ internalReference: 745047
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

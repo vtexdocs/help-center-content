@@ -17,12 +17,12 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 No Admin VTEX, em **Configurações da loja > Pedidos > Autorização de pedidos**, é possível controlar a aprovação de pedidos com divergência de preços na sua loja.
 
-![print_autorizacao_pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/como-funciona-a-autorizacao-de-pedidos_1.png)
+![print_autorizacao_pedidos_PT](https://images.ctfassets.net/alneenqid6w5/3OSC6hxQchdd8SoWYwRI6l/92157acf2f5d379f30136b846e28a37f/print_autorizacao_pedidos_PT.png)
 
 A divergência de preços de pedidos podem ser encontradas em dois principais cenários:
 
-- [Descontos manuais](https://help.vtex.com/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#descontos-manuais)
-- [Divergência de valores](https://help.vtex.com/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#divergencia-de-valores)
+- [Descontos manuais](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#descontos-manuais)
+- [Divergência de valores](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#divergencia-de-valores)
 
 ## Descontos manuais
 
@@ -34,10 +34,10 @@ Caso um ou mais produtos recebam mais que o desconto máximo permitido, todo o p
 
 ## Divergência de valores
 
-Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração de uma [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração de uma [regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
 
 ### Saiba mais
 
-- [Regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
-- [Configuração da regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe)
-- [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
+- [Configuração da regra de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe)
+- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)

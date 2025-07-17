@@ -22,12 +22,14 @@ Para criar uma nova promoção como seller no Seller Portal, siga o passo a pass
 3. Preencha as informações descritas em [Campos de cadastro da promoção](#campos-de-cadastro-da-promocao).
 4. Clique em `Salvar.`
 5. Revise as configurações da sua promoção antes de publicá-la.
-![seller-portal-promo-revisao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_1.png)
+![seller-portal-promo-revisao-pt](https://images.ctfassets.net/alneenqid6w5/76ttKMrp8E1XlK2QZ6OAJQ/b4bd761ce6c36f7165a88ca5ac46eae3/image.png)
 6. Depois de revisar as informações, clique em `Confirmar`.
 
 Feito isso, a promoção será ativada e aplicada na sua loja.
 
->ℹ️ As promoções que afetam os mesmos itens inseridos no carrinho são comparadas pelo seu valor de desconto. Nesse caso, o módulo de Promoções procura sempre aplicar a promoção mais vantajosa para o comprador.
+<div class = "alert alert-info">
+As promoções que afetam os mesmos itens inseridos no carrinho são comparadas pelo seu valor de desconto. Nesse caso, o módulo de Promoções procura sempre aplicar a promoção mais vantajosa para o comprador.
+</div>
 
 ## Campos de cadastro da promoção
 
@@ -35,7 +37,7 @@ Feito isso, a promoção será ativada e aplicada na sua loja.
 
 Nesta seção, você deve configurar as informações gerais da sua promoção.
 
-![seller-portal-promo-geral-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_2.png)
+![seller-portal-promo-geral-pt](https://images.ctfassets.net/alneenqid6w5/33rywokDbzTvVS1VscDxvp/88a1a7946d0794d9168b3d3816adbb33/image.png)
 
 * **Nome:** nome da promoção.
 * **Status: **opção que define se a promoção está ativa <i class="fas-toggle-on"></i> ou inativa <i class="fas-toggle-off"></i>.
@@ -49,7 +51,7 @@ Nesta seção, você deve configurar as informações gerais da sua promoção.
 
 Seção que define o tipo e valor do desconto que será aplicado na promoção. Veja as opções de desconto a seguir:
 
-![seller-portal-promo-tipo-desconto-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_3.png)
+![seller-portal-promo-tipo-desconto-pt](https://images.ctfassets.net/alneenqid6w5/cvG0Q9A8BHoazDipvbnol/9acedc88d86af0f0a2fa860d941ccfa7/image.png)
 
 #### Preço
 
@@ -66,7 +68,7 @@ Seção que define o tipo e valor do desconto que será aplicado na promoção. 
 
 Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme ilustrado abaixo.
 
-![seller-portal-promo-produtos-elegiveis-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_4.png)
+![seller-portal-promo-produtos-elegiveis-pt](https://images.ctfassets.net/alneenqid6w5/77OBxN704Khh9t2MqXq49k/737ac93c123828fe3c335dcf067bf7e7/image.png)
 
 * **Todos os produtos:** aplica a promoção a todo o seu catálogo.
 * **Produtos que atendam a todas as seguintes regras:** limita a sua promoção a produtos específicos a partir das regras de seleção a seguir:
@@ -84,7 +86,7 @@ Para deletar uma regra, clique em <i class="fas-trash-can"></i> `Remover regra`.
 
 O pedido do cliente deve atender a todas as condições cadastradas nesta seção para ser válido na promoção.
 
-![seller-portal-promo-condicoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_5.png)
+![seller-portal-promo-condicoes-pt](https://images.ctfassets.net/alneenqid6w5/52hsesSaNHcwM7Ti6jKQL7/89137c0a33eea10f6c9ca9cd4e0bae1c/image.png)
 
 * **Preço do item:** o desconto será concedido apenas aos itens que estão dentro do intervalo de preço preenchidos. 
 * **Tipo de envio:** o desconto será concedido caso o tipo de frete escolhido pelo cliente seja o mesmo que o cadastrado na promoção. 
@@ -95,6 +97,6 @@ O pedido do cliente deve atender a todas as condições cadastradas nesta seçã
 
 A atuação da promoção será limitada pelo seguinte critério:
 
-![seller-portal-promo-restricoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-criar-uma-promocao_6.png)
+![seller-portal-promo-restricoes-pt](https://images.ctfassets.net/alneenqid6w5/1FG1nW6lJCXmHJtSdlERkc/4f4b06e2fe29eb7ef71c28e4f39d26c8/image.png)
 
 * **Limitar a quantidade de itens elegíveis por carrinho:** define o número máximo de itens do carrinho serão afetados pela promoção. Caso o carrinho apresente uma quantidade de itens maior que o limite, o desconto será aplicado a apenas a quantidade configurada neste campo.

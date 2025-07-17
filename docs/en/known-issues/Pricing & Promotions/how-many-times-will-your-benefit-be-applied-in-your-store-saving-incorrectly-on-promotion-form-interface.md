@@ -1,5 +1,5 @@
 ---
-title: "'How many times will your benefit be applied in your store' Saving Incorrectly on Promotion Form Interface"
+title: 'How many times will your benefit be applied in your store" Saving Incorrectly on Promotion Form Interface'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z
@@ -22,11 +22,11 @@ internalReference: 268304
 
 In the first box of the "Restrictions and Use Limitations" section of the Regular promotion form, when you save the first box with a value other than unlimited and all the other checkboxes are checked, like this:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XPIZEznRNirizqLBs0Bk3F2ns/?name=inline1741007227.png)
 
 And you revisit the promotion after saving, the data "moves" to the box below:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QH2S7TuWMuQ2DRdr78J2YbZvS/?name=inline137244708.png)
 
 
 
@@ -52,7 +52,7 @@ When you revisit the promotion, it "moves" down in the form and saving it again 
 
 **2)** Populating the second box with substitute data for "unlimited" (in other words, a high number such as 9999999) works too:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface_3.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://vtexhelp.zendesk.com/attachments/token/vZMkrn7uS56cywlx1nDO3g7vz/?name=inline-468944681.png)​
 
 3) Finally, the last workaround would be saving directly via API, in our SaveBenefit request documented in our help center: https://developers.vtex.com/reference/benefits#createorupdatecalculatorconfiguration
 

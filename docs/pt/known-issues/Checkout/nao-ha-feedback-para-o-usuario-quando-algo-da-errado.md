@@ -1,5 +1,5 @@
 ---
-title: 'Não há feedback para o usuário quando algo dá errado'
+title: "Não há feedback para o usuário quando algo dá errado"
 id: 6mjLK4MVOqWeiAXtwcl8rS
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:16.913Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: no-feedback-to-the-user-when-something-goes-wrong
+slugEN: nao-ha-feedback-para-o-usuario-quando-algo-da-errado
 locale: pt
 kiStatus: No Fix
 internalReference: 339072
@@ -18,7 +18,9 @@ internalReference: 339072
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o usuário está em caixa inserindo seus dados para finalizar sua compra e a internet cai e volta, nenhum feedback é devolvido ao usuário.

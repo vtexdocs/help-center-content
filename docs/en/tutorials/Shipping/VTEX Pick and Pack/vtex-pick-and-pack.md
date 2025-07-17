@@ -15,9 +15,11 @@ legacySlug: vtex-pick-and-pack
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
+<div class = "alert alert-info">
+If you are interested in implementing for your business, fill out our <a href="https://vtex.com/us-en/contact/">form</a> and indicate the name of the desired product in the <code>Comments</code> section.
+</div>
 
-**VTEX Pick and Pack** is the solution that enables merchants to manage order picking, packing, and delivery from physical stores and warehouses to customers’ addresses or [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). All management is made in one place, providing visibility and control for merchants through the whole fulfillment process.
+**VTEX Pick and Pack** is the solution that enables merchants to manage order picking, packing, and delivery from physical stores and warehouses to customers’ addresses or [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). All management is made in one place, providing visibility and control for merchants through the whole fulfillment process.
 
 ## Capabilities
 
@@ -36,9 +38,11 @@ With **VTEX Pick and Pack**, merchants can also collect data and analytics on th
 
 **VTEX Pick and Pack** is a solution composed of:
 
-* **[Fulfillment](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** Admin app that enables the communication between the picker and the store operator. Pickers can scan items using their mobile devices and, if the store’s operators allow them to, they can manage order changes, like replacing, removing and adding items. Pickers can gain permission to communicate with customers through their own devices, with no access to the store's Admin.
-* **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** Admin app for the store operator to instruct delivery drivers from their own fleet about collecting and delivering orders to customers’ address or pickup points. It includes route optimization and proof of collecting and delivering, meaning the driver can upload the customer's signature, a picture, or a note confirming the delivery was made.  
+* **[Fulfillment](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** Admin app that enables the communication between the picker and the store operator. Pickers can scan items using their mobile devices and, if the store’s operators allow them to, they can manage order changes, like replacing, removing and adding items. Pickers can gain permission to communicate with customers through their own devices, with no access to the store's Admin.
+* **[Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** Admin app for the store operator to instruct delivery drivers from their own fleet about collecting and delivering orders to customers’ address or pickup points. It includes route optimization and proof of collecting and delivering, meaning the driver can upload the customer's signature, a picture, or a note confirming the delivery was made.  
 * **Mobile Applications:** Applications for mobile devices meant exclusively for pickers and drivers, so that they fulfill their parts with no access to the store’s Admin.
 
->ℹ️ **Fulfillment** and **Last Mile** apps for pickers and drivers are available only for Android devices.
+<div class = "alert alert-info">
+<b>Fulfillment</b> and <b>Last Mile</b> apps for pickers and drivers are available only for Android devices.
+</div>
 

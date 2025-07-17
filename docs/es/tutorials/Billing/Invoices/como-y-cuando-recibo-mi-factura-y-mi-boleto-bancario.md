@@ -15,13 +15,15 @@ legacySlug: como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->⚠️ Este procedimiento es apenas para clientes facturados en **Brasil**.
+<div class="alert alert-warning" role="alert">
+  <p>Este procedimiento es apenas para clientes facturados en <strong>Brasil</strong>.</p>
+</div>
 
 La facturación se dispara hasta el quinto día hábil del mes. La factura y el boleto bancario están disponibles en el módulo __Facturas__ del Admin de su tienda.
 
 Cuando se realiza un cobro, enviamos un e-mail a los contactos registrados avisando de que la factura y el boleto bancario ya están disponibles para el pago o la consulta.
 
-Si no ha recibido el aviso hasta el quinto día hábil del mes, [consulte su panel administrativo](https://help.vtex.com/es/tutorial/como-descargar-las-facturas-de-vtex--tutorials_653). Si identifica alguna divergencia, [entre en contacto](https://support.vtex.com/hc/es-es/requests) con nuestro equipo financiero.
+Si no ha recibido el aviso hasta el quinto día hábil del mes, [consulte su panel administrativo](/es/tutorial/como-descargar-las-facturas-de-vtex--tutorials_653). Si identifica alguna divergencia, [entre en contacto](https://support.vtex.com/hc/es-es/requests) con nuestro equipo financiero.
 
 Si no puede descargar su boleto bancario, es posible que no tenga un perfil financiero configurado en la cuenta de la tienda. En este caso, solicite al Super Admin de la cuenta que lo agregue.  
 

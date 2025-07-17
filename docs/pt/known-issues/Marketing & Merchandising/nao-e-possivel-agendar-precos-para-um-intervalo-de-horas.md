@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível agendar preços para um intervalo de horas'
+title: "Não é possível agendar preços para um intervalo de horas"
 id: 4QxkT7HBW0QOSiCcKaSCs2
 status: PUBLISHED
 createdAt: 2017-06-27T02:12:42.022Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
-slugEN: its-not-possible-to-schedule-prices-for-a-range-of-hours
+slugEN: nao-e-possivel-agendar-precos-para-um-intervalo-de-horas
 locale: pt
 kiStatus: Backlog
 internalReference: 

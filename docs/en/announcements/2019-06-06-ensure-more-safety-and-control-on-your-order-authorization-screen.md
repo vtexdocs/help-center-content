@@ -15,9 +15,11 @@ announcementImageID: ''
 announcementSynopsisEN: 'Possibility to limit user access to order authorizations'
 ---
 
->⚠️ From June 25<sup>th</sup>, 2019, users without access to `Order Authorization` will not be allowed to neither view nor edit the Order Authorization screen.
+<div class="alert alert-warning">
+From June 25<sup>th</sup>, 2019, users without access to <code>Order Authorization</code> will not be allowed to neither view nor edit the Order Authorization screen. 
+</div>
 
-Seeking to ensure greater safety, we created the possibility to limit user access to order authorizations, allowing information to be edited or viewed by selected users. For more on Order Authorization, have a look at our [feature launch announcement](https://help.vtex.com/announcements/increase-your-sales-with-the-new-order-authentication-screen--7EXIgaESHfI46lkaZw9jrQ) or read [this tutorial explaining how it works](https://help.vtex.com/tutorial/how-order-authorisation-works--3MBK6CmKHAuUjMBieDU0pn).
+Seeking to ensure greater safety, we created the possibility to limit user access to order authorizations, allowing information to be edited or viewed by selected users. For more on Order Authorization, have a look at our [feature launch announcement](/announcements/increase-your-sales-with-the-new-order-authentication-screen--7EXIgaESHfI46lkaZw9jrQ) or read [this tutorial explaining how it works](/tutorial/how-order-authorisation-works--3MBK6CmKHAuUjMBieDU0pn).
 
 ## Main Advantages 
 
@@ -36,6 +38,6 @@ In order to do this, you need to add a product called `Order Authorization` to t
 6. Choose the type of permission you wish to grant: either `Save Configuration` if you want to allow the user to edit and save changes, or `View Configuration` if you want the user to only view the Order Authorization page.
 7. Finally, click on **Save**.
 
-![GIT-OrderAutho.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019-06-06-ensure-more-safety-and-control-on-your-order-authorization-screen_1.gif)
+![GIT-OrderAutho.en](https://images.ctfassets.net/alneenqid6w5/1K34RexhGDYnU2ogYWsH6L/5214f0861ae9a92073005c074ab5c128/GIT-OrderAutho.en.gif)
 
 Upon adding this new product to a profile, ensure that the desired users are in fact linked to this profile.

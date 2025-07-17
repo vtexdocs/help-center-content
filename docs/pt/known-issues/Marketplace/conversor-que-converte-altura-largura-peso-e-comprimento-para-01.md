@@ -1,5 +1,5 @@
 ---
-title: 'Conversor que converte Altura, Largura, Peso e Comprimento para 0,1'
+title: "Conversor que converte Altura, Largura, Peso e Comprimento para 0,1"
 id: j3rz875eWVHFMLYxcYsDL
 status: PUBLISHED
 createdAt: 2023-08-23T13:38:55.976Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: matcher-converting-height-width-weight-and-length-to-01
+slugEN: conversor-que-converte-altura-largura-peso-e-comprimento-para-01
 locale: pt
 kiStatus: Fixed
 internalReference: 886168
@@ -18,7 +18,9 @@ internalReference: 886168
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o Matcher processa os skus no módulo de sugestões do marketplace, as informações de Altura, Largura, Peso e Comprimento estão sendo definidas como 0,1 em vez de respeitar os valores enviados pelo vendedor.

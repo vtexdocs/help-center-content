@@ -1,5 +1,5 @@
 ---
-title: 'Uso de cupom não restaurado para pedidos incompletos'
+title: "Uso de cupom não restaurado para pedidos incompletos"
 id: 1iJr9GTJ8gG852YDVWTttl
 status: PUBLISHED
 createdAt: 2022-08-16T20:44:43.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: coupon-usage-not-restored-for-incomplete-orders
+slugEN: uso-de-cupom-nao-restaurado-para-pedidos-incompletos
 locale: pt
 kiStatus: Backlog
 internalReference: 639418
@@ -18,7 +18,9 @@ internalReference: 639418
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

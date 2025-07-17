@@ -1,5 +1,5 @@
 ---
-title: 'Bucle en la ventana emergente de autenticación cuando la primera condición de pago requiere autenticación'
+title: "Bucle en la ventana emergente de autenticación cuando la primera condición de pago requiere autenticación"
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: loop-in-the-authentication-popup-when-the-first-payment-condition-requires-authentication
+slugEN: bucle-en-la-ventana-emergente-de-autenticacion-cuando-la-primera-condicion-de-pago-requiere-autenticacion
 locale: es
 kiStatus: Backlog
 internalReference: 844192
@@ -18,7 +18,9 @@ internalReference: 844192
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La ventana emergente de autenticación entra en bucle cuando la primera condición de pago tiene `requiresAuthentication: true`. Continuar la compra sólo será posible si se recarga la página.

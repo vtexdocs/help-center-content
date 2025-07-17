@@ -1,5 +1,5 @@
 ---
-title: 'Erro de planilha grande de importação/exportação no New Collections Admin'
+title: "Erro de planilha grande de importação/exportação no New Collections Admin"
 id: 6xbBVR2Z7CCpIC0iCAKHgN
 status: PUBLISHED
 createdAt: 2023-02-16T19:04:08.298Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: large-importexport-spreadsheet-error-on-new-collections-admin
+slugEN: erro-de-planilha-grande-de-importacaoexportacao-no-new-collections-admin
 locale: pt
 kiStatus: Fixed
 internalReference: 362017
@@ -18,7 +18,9 @@ internalReference: 362017
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o carregamento de itens para o novo módulo de coleções com uma lista com mais de 1.000 SKUs é impossível, pois o processo atingirá o tempo limite. Ele retorna uma resposta de erro não específica:

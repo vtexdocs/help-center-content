@@ -1,5 +1,5 @@
 ---
-title: 'Gift card expiration date does not match with the date chosen when it was created'
+title: "Gift card expiration date does not match with the date chosen when it was created"
 id: 57GeuSubkdDkQNwzL3nmup
 status: PUBLISHED
 createdAt: 2022-03-27T14:08:35.577Z

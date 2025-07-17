@@ -1,5 +1,5 @@
 ---
-title: 'Valor de pagamento diferente ao misturar os tipos de vendedores para o mesmo vendedor em um carrinho'
+title: "Valor de pagamento diferente ao misturar os tipos de vendedores para o mesmo vendedor em um carrinho"
 id: 7txlcqRF5XLB014Z31pXaL
 status: PUBLISHED
 createdAt: 2023-05-08T22:25:15.897Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: different-payment-value-when-mixing-the-types-of-sellers-for-the-same-seller-in-a-cart
+slugEN: valor-de-pagamento-diferente-ao-misturar-os-tipos-de-vendedores-para-o-mesmo-vendedor-em-um-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 821741
@@ -18,7 +18,9 @@ internalReference: 821741
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nos casos em que um vendedor atua como vendedor de marca branca e como vendedor regular para itens diferentes no mesmo carrinho, o valor do pagamento será duplicado com o valor do frete.

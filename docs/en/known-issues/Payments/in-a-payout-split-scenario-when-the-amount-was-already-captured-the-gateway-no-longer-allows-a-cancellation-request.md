@@ -1,5 +1,5 @@
 ---
-title: 'In a payout split scenario when the amount was already captured, the gateway no longer allows a cancellation request'
+title: "In a payout split scenario when the amount was already captured, the gateway no longer allows a cancellation request"
 id: 5qVUfltwPb3FacbECRsNa0
 status: PUBLISHED
 createdAt: 2023-01-27T20:13:21.397Z

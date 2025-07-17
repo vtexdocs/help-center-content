@@ -1,5 +1,5 @@
 ---
-title: 'Transação presa no status aprovado com pagamento cancelado'
+title: "Transação presa no status aprovado com pagamento cancelado"
 id: 5SwwnGi26tagIXuTmvToc
 status: PUBLISHED
 createdAt: 2024-06-07T14:21:22.809Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transaction-stuck-in-status-approved-with-payment-canceled
+slugEN: transacao-presa-no-status-aprovado-com-pagamento-cancelado
 locale: pt
 kiStatus: Backlog
 internalReference: 1046365
@@ -18,7 +18,9 @@ internalReference: 1046365
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A transação ficou presa no status aprovado, mesmo que o pagamento tenha sido cancelado.

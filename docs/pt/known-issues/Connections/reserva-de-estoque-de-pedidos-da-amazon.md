@@ -1,5 +1,5 @@
 ---
-title: 'Reserva de estoque de pedidos da Amazon'
+title: "Reserva de estoque de pedidos da Amazon"
 id: 7n6h2HORuvoMJth9QBJjlX
 status: PUBLISHED
 createdAt: 2024-10-08T14:35:05.122Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-orders-stock-reservation
+slugEN: reserva-de-estoque-de-pedidos-da-amazon
 locale: pt
 kiStatus: Backlog
 internalReference: 670572
@@ -18,7 +18,9 @@ internalReference: 670572
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

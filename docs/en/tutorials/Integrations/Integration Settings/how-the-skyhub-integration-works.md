@@ -15,5 +15,5 @@ legacySlug: how-the-skyhub-integration-works
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
+English speaking countries.</div>

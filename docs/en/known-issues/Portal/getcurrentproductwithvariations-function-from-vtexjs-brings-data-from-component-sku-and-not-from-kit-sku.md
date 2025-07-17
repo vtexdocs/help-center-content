@@ -1,5 +1,5 @@
 ---
-title: 'getCurrentProductWithVariations function from VTEX.js brings data from Component SKU and not from KIT SKU.'
+title: "getCurrentProductWithVariations function from VTEX.js brings data from Component SKU and not from KIT SKU."
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z

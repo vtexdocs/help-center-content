@@ -1,5 +1,5 @@
 ---
-title: 'O aplicativo de televendas não está funcionando corretamente com RequiresAuthenticationToLoadProfile'
+title: "O aplicativo de televendas não está funcionando corretamente com RequiresAuthenticationToLoadProfile"
 id: 4L79woOuaUM2Ip5vG1Kp7D
 status: PUBLISHED
 createdAt: 2023-04-26T17:20:58.399Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile
+slugEN: o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile
 locale: pt
 kiStatus: Backlog
 internalReference: 797651
@@ -18,7 +18,9 @@ internalReference: 797651
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o sinalizador RequiresAuthenticationToLoadProfile das APIs de checkout com um aplicativo de televendas para personificar usuários, não está sendo acionado nenhum tipo de feedback para o usuário se a personificação foi feita com sucesso e causa algumas inconsistências no fluxo

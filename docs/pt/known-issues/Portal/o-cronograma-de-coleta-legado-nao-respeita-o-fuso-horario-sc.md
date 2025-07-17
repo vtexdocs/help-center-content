@@ -1,5 +1,5 @@
 ---
-title: 'O cronograma de coleta legado não respeita o fuso horário SC.'
+title: "O cronograma de coleta legado não respeita o fuso horário SC."
 id: 6f0P1Fe9ha1hLQZq80QYOL
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:26.292Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-collection-schedule-does-not-respect-sc-timezone
+slugEN: o-cronograma-de-coleta-legado-nao-respeita-o-fuso-horario-sc
 locale: pt
 kiStatus: Backlog
 internalReference: 316054
@@ -18,7 +18,9 @@ internalReference: 316054
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O cronograma de coleta legado não respeita o fuso horário SC.

@@ -1,5 +1,5 @@
 ---
-title: 'Los redireccionamientos temporales caducados no apuntan a la ruta antigua'
+title: "Los redireccionamientos temporales caducados no apuntan a la ruta antigua"
 id: 1kI87EueEtHIyfZ4KmUJSF
 status: PUBLISHED
 createdAt: 2023-09-12T14:41:09.843Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: expired-temporary-redirects-not-pointing-back-to-old-route
+slugEN: los-redireccionamientos-temporales-caducados-no-apuntan-a-la-ruta-antigua
 locale: es
 kiStatus: Backlog
 internalReference: 898062
@@ -18,7 +18,9 @@ internalReference: 898062
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

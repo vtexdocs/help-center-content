@@ -44,7 +44,7 @@ Para configurar el proveedor argonPAY, siga los pasos a continuación:
 3. Elige la condición de pago __ArgonPay__.
 4. Rellene el campo __Nombre de la regla__ con un nombre de su elección para su identificación.
 5. Active la condición en el campo __Status__.
-6. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, argonPAY puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

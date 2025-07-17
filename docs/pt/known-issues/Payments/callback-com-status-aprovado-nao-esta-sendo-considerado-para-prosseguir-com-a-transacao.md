@@ -1,5 +1,5 @@
 ---
-title: 'Callback com status aprovado não está sendo considerado para prosseguir com a transação'
+title: "Callback com status aprovado não está sendo considerado para prosseguir com a transação"
 id: 1IU3macRFOPM5nI2ekXHHD
 status: PUBLISHED
 createdAt: 2024-11-04T19:56:28.031Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: callback-with-approved-status-not-being-considered-to-proceed-with-the-transaction
+slugEN: callback-com-status-aprovado-nao-esta-sendo-considerado-para-prosseguir-com-a-transacao
 locale: pt
 kiStatus: Backlog
 internalReference: 1129281
@@ -18,7 +18,9 @@ internalReference: 1129281
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Embora o gateway receba corretamente o retorno de chamada indicando que o status do pagamento foi aprovado, a transação não progride para `authorized` e depois para `approved`. Uma solicitação de autorização subsequente é enviada e, como o retorno é "indefinido", a transação permanece no status "autorizando" até que o número de novas tentativas se esgote.

@@ -1,5 +1,5 @@
 ---
-title: ' El crédito del cliente no muestra las cuotas correctamente'
+title: "El crédito del cliente no muestra las cuotas correctamente"
 id: 5qhiwp1EhfJepX6ZFqDsiG
 status: PUBLISHED
 createdAt: 2022-03-28T02:52:15.222Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: customer-credit-doesnt-show-installments-correctly
+slugEN: el-credito-del-cliente-no-muestra-las-cuotas-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 501730
@@ -18,7 +18,9 @@ internalReference: 501730
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 El crédito del cliente no muestra los diferentes valores entre reglas con el mismo número de cuotas y diferentes periodos. Para entender mejor este problema, debemos observar el comportamiento de la pasarela y del Crédito Cliente:
 

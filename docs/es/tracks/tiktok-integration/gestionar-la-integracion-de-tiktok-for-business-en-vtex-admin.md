@@ -19,7 +19,7 @@ Después de instalar y configurar TikTok for Business, podrás gestionar la inte
 
 Cualquier usuario conectado al Admin VTEX podrá acceder a esta área para gestionar TikTok. Sin embargo, al interactuar con los botones de esta zona, el usuario será redireccionado a los entornos de TikTok – TikTok Business Center, TikTok Ads Manager y TikTok Catalog Manager, donde necesitará los permisos necesarios para ver el contenido y realizar cambios.
 
-![manage-tiktok-integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/tiktok-integration/gestionar-la-integracion-de-tiktok-for-business-en-vtex-admin_1.png)
+![manage-tiktok-integration](https://images.ctfassets.net/alneenqid6w5/6E7w4iV9rZX57u2AlG610O/0467f2bd0f4885991ec571a38218a2fb/image1.png)
 
 Desde esta página, puedes:
 
@@ -61,7 +61,7 @@ Consulta a continuación la descripción de las funcionalidades disponibles para
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
 * **Products pending:** indica cuántos productos de tu catálogo se están procesando en TikTok. Este status es transitorio y significa que TikTok está analizando la información.
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
-* **Products need additional details:** indica cuántos productos de tu catálogo carecen de [información](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#envio-de-datos-de-productos-a-tiktok) para ser sincronizados con TikTok.
+* **Products need additional details:** indica cuántos productos de tu catálogo carecen de [información](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#envio-de-datos-de-productos-a-tiktok) para ser sincronizados con TikTok.
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
 
 ## Desconectar TikTok de tu tienda
@@ -74,12 +74,11 @@ Al desconectarse, la integración con TikTok se detiene por completo: el píxel 
 
 Por otro lado, VTEX no elimina los productos existentes en TikTok, es decir, siguen apareciendo en TikTok. Para eliminarlos de TikTok, debes eliminar manualmente los productos desde [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005).
 
->⚠️ Si aparece un mensaje de error al desconectar TikTok de tu tienda VTEX, sigue los pasos a continuación para asegurarte de que la integración se desactive correctamente.
->
-> Accede a la página [Autorizaciones](https://ads.tiktok.com/ac/page/authorizations) en TikTok Ads Manager.
->
-> 2. Busca la opción **VTEX**.
->
-> 3. Haz clic en `Remover`.
+<div class="alert alert-warning">
+<p>Si aparece un mensaje de error al desconectar TikTok de tu tienda VTEX, sigue los pasos a continuación para asegurarte de que la integración se desactive correctamente.</p>
+<ol><li>Accede a la página <a href="https://ads.tiktok.com/ac/page/authorizations">Autorizaciones</a> en TikTok Ads Manager.</li>
+  <li>Busca la opción <strong>VTEX</strong>.</li>
+  <li>Haz clic en <code>Remover</code>.</li></ol>
+</div>
 
-Después de la desconexión, puedes volver a conectar la integración en cualquier momento volviendo a realizar los pasos descritos en el link [Configuración de la integración con TikTok for Business](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).
+Después de la desconexión, puedes volver a conectar la integración en cualquier momento volviendo a realizar los pasos descritos en el link [Configuración de la integración con TikTok for Business](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).

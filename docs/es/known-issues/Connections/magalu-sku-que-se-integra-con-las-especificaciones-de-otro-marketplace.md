@@ -1,5 +1,5 @@
 ---
-title: '[Magalu] Sku que se integra con las especificaciones de otro marketplace'
+title: "[Magalu] Sku que se integra con las especificaciones de otro marketplace"
 id: 4AYsfMTB2HVmp2PnOG2plY
 status: PUBLISHED
 createdAt: 2022-10-31T19:29:16.911Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magalu-sku-being-integrated-with-specifications-from-another-marketplace
+slugEN: magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace
 locale: es
 kiStatus: Fixed
 internalReference: 689151
@@ -18,7 +18,9 @@ internalReference: 689151
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos skus se están integrando con especificaciones de otro Marketplace.
@@ -32,7 +34,7 @@ Por ejemplo, al integrar nuestro catálogo en magalu, enviamos todo lo que tiene
 
 Ejemplo de especificación que se envía a Magalu
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/22vLwpFtB3XtuJPNFA2aDpqvf/?name=image.png)
 
 
 ## Workaround

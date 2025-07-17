@@ -1,5 +1,5 @@
 ---
-title: 'Error de creación de tarjeta regalo vía admin'
+title: "Error de creación de tarjeta regalo vía admin"
 id: 6GUhpZbxYr0wTIuqN3S95A
 status: PUBLISHED
 createdAt: 2024-02-21T22:45:26.869Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-creation-error-via-admin
+slugEN: error-de-creacion-de-tarjeta-regalo-via-admin
 locale: es
 kiStatus: Backlog
 internalReference: 986327
@@ -18,7 +18,9 @@ internalReference: 986327
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas cuentas no podrán crear una Tarjeta Regalo por primera vez vía admin, el mensaje de abajo aparecerá en la pantalla:

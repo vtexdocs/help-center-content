@@ -14,8 +14,6 @@ locale: en
 legacySlug: i-received-an-invoice-and-im-not-a-vtex-client
 ---
 
-TESTE
-
 VTEX currently operates with 4 different platforms: __VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP y UniteU.
 __.
 

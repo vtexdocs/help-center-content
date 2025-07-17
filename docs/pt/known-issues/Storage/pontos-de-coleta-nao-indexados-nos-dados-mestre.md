@@ -1,5 +1,5 @@
 ---
-title: 'Pontos de coleta não indexados nos dados mestre'
+title: "Pontos de coleta não indexados nos dados mestre"
 id: 6OHjbM6GXBEvgepaod3AyT
 status: PUBLISHED
 createdAt: 2023-12-14T22:29:26.240Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: pickup-points-not-indexed-in-master-data
+slugEN: pontos-de-coleta-nao-indexados-nos-dados-mestre
 locale: pt
 kiStatus: Fixed
 internalReference: 530824
@@ -18,7 +18,9 @@ internalReference: 530824
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o sistema de logística usa o MasterData para armazenar informações de pontos de coleta. Como resultado, podemos ter problemas para indexar essa entidade interna ao usar a rota de pesquisa. Isso pode levar a informações desatualizadas, como:

@@ -1,5 +1,5 @@
 ---
-title: "[Ordem com erro de 'Parâmetro de desajuste de contagem'."
+title: '[Ordem com erro de "Parâmetro de desajuste de contagem".'
 id: 6XhzSJrrHaEt85QseRdC3k
 status: PUBLISHED
 createdAt: 2023-03-22T19:32:10.011Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: b2w-order-with-parameter-count-mismatch-error
+slugEN: ordem-com-erro-de-parametro-de-desajuste-de-contagem
 locale: pt
 kiStatus: Fixed
 internalReference: 776361
@@ -18,7 +18,9 @@ internalReference: 776361
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas ordens da Skyhub não estão sendo integradas na plataforma, devido ao erro "Parameter count mismatch", onde a ordem não é criada em OMS (VTEX)
@@ -35,7 +37,7 @@ Impacto:**_ Ocorre com alguns pedidos
 
 Admin > Ponte > Pedidos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ordem-com-erro-de-parametro-de-desajuste-de-contagem_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/cT90VMDIz1kZblPQWMpmmB93D/?name=image.png)
 
 
 ##

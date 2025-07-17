@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Some orders do not update status for delivered on the marketplace'
+title: "[Magazine Luiza] Some orders do not update status for delivered on the marketplace"
 id: 4fcuYTyvlHUhY7dvM4KE1C
 status: PUBLISHED
 createdAt: 2023-05-17T18:39:14.983Z

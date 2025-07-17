@@ -1,5 +1,5 @@
 ---
-title: 'Matcher converting Height, Width, Weight and Length to 0.1'
+title: "Matcher converting Height, Width, Weight and Length to 0.1"
 id: j3rz875eWVHFMLYxcYsDL
 status: PUBLISHED
 createdAt: 2023-08-23T13:38:55.976Z
@@ -32,7 +32,7 @@ When the Matcher process the skus on the suggestions module of the marketplace t
 2. Sku gets to the marketplace and is processed by the matcher;
 3. Check on the following API if the Matcher object has the fields Height, Width, Weight and Length set as 0.1
 https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#get-/suggestions/-sellerId-/-sellerSkuId-
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/matcher-converting-height-width-weight-and-length-to-01_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/vCdMBFKEJ0243C9Ew7PPFDgp3/?name=image.png)
 
 
 ##

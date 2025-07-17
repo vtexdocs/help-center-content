@@ -1,5 +1,5 @@
 ---
-title: 'O componente ProductImage não atualiza suas imagens com base na alteração das especificações de SKU'
+title: "O componente ProductImage não atualiza suas imagens com base na alteração das especificações de SKU"
 id: 3NATd5bJRoMbzepedPaIEu
 status: PUBLISHED
 createdAt: 2022-09-30T22:16:54.477Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: the-productimage-component-doesnt-update-its-images-based-on-sku-specifications-change
+slugEN: o-componente-productimage-nao-atualiza-suas-imagens-com-base-na-alteracao-das-especificacoes-de-sku
 locale: pt
 kiStatus: Backlog
 internalReference: 669619
@@ -18,7 +18,9 @@ internalReference: 669619
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

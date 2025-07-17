@@ -1,5 +1,5 @@
 ---
-title: 'Exported Price Table Filtered by Brand does not bring all the skus'
+title: "Exported Price Table Filtered by Brand does not bring all the skus"
 id: 3Z1A0Jpua28QNbwrEhPKxw
 status: PUBLISHED
 createdAt: 2022-08-23T16:07:14.755Z
@@ -22,7 +22,7 @@ internalReference: 594075
 When exporting the price table filtered by Brand in order to get a more specific result, the spreadsheet is coming incomplete to the client.
 
 Only the skus with price showed on the first page (when the page is set with the maximum of 20 results) are exported.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/exported-price-table-filtered-by-brand-does-not-bring-all-the-skus_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Yfc9U3wsVoOTEIsYsxInZAVcn/?name=image.png)
 
 
 ##

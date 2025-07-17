@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario no refleja la marca de selección de la dirección de la factura'
+title: "La interfaz de usuario no refleja la marca de selección de la dirección de la factura"
 id: 81nUv26kFHVP6Zm8oOnuA
 status: PUBLISHED
 createdAt: 2022-04-18T13:27:37.226Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-does-not-reflect-invoice-address-selection-markup
+slugEN: la-interfaz-de-usuario-no-refleja-la-marca-de-seleccion-de-la-direccion-de-la-factura
 locale: es
 kiStatus: Backlog
 internalReference: 522946
@@ -18,7 +18,9 @@ internalReference: 522946
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

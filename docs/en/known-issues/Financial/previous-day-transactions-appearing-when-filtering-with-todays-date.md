@@ -1,5 +1,5 @@
 ---
-title: 'Previous day transactions appearing with today’s date when filtering'
+title: "Previous day transactions appearing with today’s date when filtering"
 id: 6WFNfXrSfOy5I7OEVS1MRj
 status: PUBLISHED
 createdAt: 2019-06-14T18:18:01.260Z

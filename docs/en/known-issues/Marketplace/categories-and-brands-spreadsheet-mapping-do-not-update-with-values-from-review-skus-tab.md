@@ -1,5 +1,5 @@
 ---
-title: 'Categories and Brands spreadsheet mapping do not update with values from Review Skus Tab'
+title: "Categories and Brands spreadsheet mapping do not update with values from Review Skus Tab"
 id: 50p9fJ63Loml6pWqcKxm9Y
 status: PUBLISHED
 createdAt: 2024-05-03T13:51:01.537Z

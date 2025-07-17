@@ -1,5 +1,5 @@
 ---
-title: 'Atualização do MELI Problema de estoque/preço'
+title: "Atualização do MELI Problema de estoque/preço"
 id: 7LQ81vG5nsbBn4Wj7Z9VJe
 status: PUBLISHED
 createdAt: 2023-12-12T10:22:28.961Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-update-stockprice-issue
+slugEN: atualizacao-do-meli-problema-de-estoquepreco
 locale: pt
 kiStatus: Fixed
 internalReference: 939329
@@ -18,7 +18,9 @@ internalReference: 939329
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

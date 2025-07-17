@@ -1,5 +1,5 @@
 ---
-title: 'CategoryCommissionPercentage on Seller API allowing any value'
+title: "CategoryCommissionPercentage on Seller API allowing any value"
 id: 2qFGcRO2H1JxHsYERf6X2s
 status: PUBLISHED
 createdAt: 2022-03-16T16:16:40.281Z

@@ -1,5 +1,5 @@
 ---
-title: 'O e-mail não é preenchido automaticamente para novos compradores após o login'
+title: "O e-mail não é preenchido automaticamente para novos compradores após o login"
 id: 2H6REXZGS6utlWmYKoPmGq
 status: PUBLISHED
 createdAt: 2023-10-17T16:22:21.667Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: email-not-autofilling-for-new-buyers-after-logging-in
+slugEN: o-email-nao-e-preenchido-automaticamente-para-novos-compradores-apos-o-login
 locale: pt
 kiStatus: Fixed
 internalReference: 920634
@@ -18,7 +18,9 @@ internalReference: 920634
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um novo comprador faz login e prossegue com o checkout, o e-mail não é preenchido automaticamente, exigindo que o cliente insira novamente o e-mail. Isso também acontece com o uso de APIs e o envio de cabeçalhos com os cookies do comprador.

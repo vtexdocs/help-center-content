@@ -1,5 +1,5 @@
 ---
-title: 'Precio al contado incorrecto para artículos con UnitMultiplier superior a 1 en API de búsqueda inteligente'
+title: "Precio al contado incorrecto para artículos con UnitMultiplier superior a 1 en API de búsqueda inteligente"
 id: 50Ufh8uqYt76Ddxrz0Id99
 status: PUBLISHED
 createdAt: 2023-11-11T00:26:08.800Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: wrong-spotprice-for-items-with-unitmultiplier-greater-than-1-in-intelligent-search-apis
+slugEN: precio-al-contado-incorrecto-para-articulos-con-unitmultiplier-superior-a-1-en-api-de-busqueda-inteligente
 locale: es
 kiStatus: Backlog
 internalReference: 934687
@@ -18,7 +18,9 @@ internalReference: 934687
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

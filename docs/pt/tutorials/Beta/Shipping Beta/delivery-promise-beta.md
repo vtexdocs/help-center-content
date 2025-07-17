@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2024-10-31T17:07:58.445Z
-publishedAt: 2024-10-31T17:07:58.445Z
+updatedAt: 2025-03-31T19:04:45.659Z
+publishedAt: 2025-03-31T19:04:45.659Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,15 +15,19 @@ legacySlug: delivery-promise-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://help.vtex.com/pt/support">nosso Suporte</a>.
+<div class="alert alert-info">
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://help.vtex.com/pt/support">nosso Suporte</a>.
+</div>
 
 **Delivery Promise (Beta)** é a nova solução da VTEX para que o cliente, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto formas de envio válidas para o endereço de entrega.
 
 Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao cliente para todos os produtos visualizados, conforme apresentado no vídeo a seguir:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uIV8tuy60m0?si=Z2-bhB92kp4ILpcW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l8HU2qVpsBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
->❗ A fase atual da **Delivery Promise (Beta)** ainda não permite filtrar a vitrine da loja por um prazo de envio. Para mais informações sobre filtros, veja a seção [Funcionalidades disponíveis](#funcionalidades-disponiveis).
+<div class="alert alert-danger">
+A fase atual da <b>Delivery Promise (Beta)</b> ainda não permite filtrar a vitrine da loja por um prazo de envio. Para mais informações sobre filtros, veja a seção <a href="#funcionalidades-disponiveis">Funcionalidades disponíveis</a>.
+</div>
 
 Este artigo está organizado nas seguintes seções:
 
@@ -42,7 +46,7 @@ Além de poder comprar todos os produtos visualizados, o cliente pode filtrar os
 * Prazo limite para recebimento do produto.
 * Produtos disponíveis em lojas próximas ao cliente.
 * Forma de envio mais rápida para receber o pedido.
-* [Ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) de sua escolha para retirar o pedido.
+* [Ponto de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) de sua escolha para retirar o pedido.
 
 Nesta etapa, a **Delivery Promise (Beta)** permite que os clientes da sua loja filtrem os produtos exibidos na navegação usando os seguintes filtros:
 
@@ -51,13 +55,15 @@ Nesta etapa, a **Delivery Promise (Beta)** permite que os clientes da sua loja f
 * **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido. 
 * **Retirada em {{nome}}:** produtos disponíveis para retirada em determinado ponto de retirada.
 
->ℹ️ Os filtros mencionados acima são componentes nativos do Intelligent Search. Caso você queira desenvolver componentes customizados para a sua loja, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao).
+<div class = "alert alert-info">
+Os filtros mencionados acima são componentes nativos do Intelligent Search. Caso você queira desenvolver componentes customizados para a sua loja, entre em contato com a sua equipe de desenvolvimento ou um <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao">parceiro de implementação</a>.
+</div>
 
 ## Benefícios
 
 A **Delivery Promise (Beta)** é recomendada para todos os tipos de operação, pois a solução garante diversas vantagens a qualquer modelo de negócio. Conheça as condições de arquitetura de loja para participar da fase atual do beta na seção [Requisitos e restrições](#requisitos-e-restricoes).
 
-Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
+Para operações [omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
 
 | **Benefício** | **Detalhes** |
 | :---: | :--- |
@@ -68,13 +74,12 @@ Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-co
 
 ## Requisitos e restrições
 
-O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do cliente desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida. Para isso, é necessário instalar o [Intelligent Search](https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), que solicita ao cliente o endereço da localidade. 
+O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do cliente desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida. Para isso, é necessário instalar o [Intelligent Search](/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), que solicita ao cliente o endereço da localidade. 
 
 Para participar da fase atual da **Delivery Promise (Beta)**, é necessário atender às seguintes condições:
 
-* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
-* <i class="fas fa-times"></i> **Restrição:** a loja não pode atuar como marketplace para contas do tipo [Seller Portal](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex) e nem sellers externos.
+* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
+* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend [Store Framework](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Perguntas frequentes
 
@@ -104,23 +109,25 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 
 * Cadastro a nível de produto e SKU no catálogo.
 * Cadastro de preço.
-* [Estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
-* Contagem do produto no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
-* Templates de [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
+* [Estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
+* Contagem do produto no [inventário](/pt/tutorial/gerenciar-inventario--tutorials_139) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
+* Templates de [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
 
->ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+<div class = "alert alert-info">
+Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a>.
+</div>
 
 ### 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
 
-Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). 
+Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). 
 
 ### 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
 
 Existem três formas pelas quais isso pode ser feito:
 
-* Manter o [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) do produto com contagem de estoque para vendas (lembrando que os itens [reservados](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92) não estão disponíveis para venda).
-* Habilitar a configuração [estoque infinito](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) para o produto.
-* Configurar o produto para aparecer na vitrine mesmo quando estiver esgotado. Para isso, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba Produto, marque a opção **Sim** no campo `Mostrar produto esgotado`.
+* Manter o [inventário](/pt/tutorial/gerenciar-inventario--tutorials_139) do produto com contagem de estoque para vendas (lembrando que os itens [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92) não estão disponíveis para venda).
+* Habilitar a configuração [estoque infinito](/pt/tutorial/gerenciar-inventario--tutorials_139) para o produto.
+* Configurar o produto para aparecer na vitrine mesmo quando estiver esgotado. Para isso, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba Produto, marque a opção **Sim** no campo `Mostrar quando estiver fora de estoque`.
 
 ### 4. Para utilizar a Delivery Promise (Beta), preciso solicitar a localização do cliente?
 
@@ -135,18 +142,18 @@ Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fo
 
 Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
 
-* Definir [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
-* Definir um CEP ou [geocordenadas](https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao--tutorials_138) padrão para clientes que não informam localização.
+* Definir [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
+* Definir um CEP ou [geocordenadas](/pt/tutorial/gerenciar-geolocalizacao--tutorials_138) padrão para clientes que não informam localização.
 
-Sugerimos que seja próximo a um [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) que armazene uma grande quantidade de produtos ou que seja próximo a região com maior volume de vendas.
+Sugerimos que seja próximo a um [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) que armazene uma grande quantidade de produtos ou que seja próximo a região com maior volume de vendas.
 
 ### 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
-Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) das [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) dos sellers.
+Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](/pt/tutorial/planilha-de-frete--tutorials_127) das [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) dos sellers.
 
 ### 7. O que acontece com quem usa a funcionalidade Regionalização? 
 
-A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](https://help.vtex.com/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a solução ainda está em desenvolvimento, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da **Delivery Promise (Beta)**.
+A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a solução ainda está em desenvolvimento, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da **Delivery Promise (Beta)**.
 
 ### 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
@@ -154,5 +161,5 @@ Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto,
 
 ### 9. Posso não utilizar a Delivery Promise (Beta)?
 
-Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta portanto a recomendação da VTEX.
+Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta portanto a recomendação da VTEX.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Wrong SpotPrice for items with UnitMultiplier greater than 1 in Intelligent Search APIs'
+title: "Wrong SpotPrice for items with UnitMultiplier greater than 1 in Intelligent Search APIs"
 id: 50Ufh8uqYt76Ddxrz0Id99
 status: PUBLISHED
 createdAt: 2023-11-11T00:26:08.800Z

@@ -19,7 +19,9 @@ Usted puede modificar el orden de visualización de los medios de pago en el Che
 - Por el Admin.
 - Por medio de una personalización en JavaScript.
 
->⚠️ **Atención:** aunque exista esta posibilidad, por cuestiones de seguridad y performance, **no se recomienda** que usted modifique los archivos JavaScript del Checkout. VTEX no se responsabiliza por cualquier problema generado luego de la edición de este código.
+<div class="alert alert-warning">
+<strong>Atención:</strong> aunque exista esta posibilidad, por cuestiones de seguridad y performance, <strong>no se recomienda</strong> que usted modifique los archivos JavaScript del Checkout. VTEX no se responsabiliza por cualquier problema generado luego de la edición de este código.
+</div>
 
 ## Cómo se establece el orden 
 

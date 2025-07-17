@@ -1,10 +1,10 @@
 ---
 title: 'Como adicionar o selo PCI SSC à minha loja?'
 id: frequentlyAskedQuestions_4650
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:46:01.185Z
-updatedAt: 2020-11-18T20:02:19.790Z
-publishedAt: 2020-11-10T18:14:22.516Z
+updatedAt: 2025-03-06T19:27:20.975Z
+publishedAt: 2025-03-06T19:27:20.975Z
 firstPublishedAt: 2019-01-24T22:03:53.402Z
 contentType: tutorial
 productTeam: Financial
@@ -25,9 +25,8 @@ Para adicionar o selo à sua loja, siga os passos abaixo:
 
 1. Acesse a URL [http://io.vtex.com.br/front-libs/assets/pci/index.html](http://io.vtex.com.br/front-libs/assets/pci/index.html).
 2. Escolha a imagem que mais combina com o layout da sua loja.
-3. Redirecione o link da imagem para a URL http://secure.vtex.com/?an={{AccountName}} (alterando o {{AccountName}} para o account da sua loja).
 
-### Sobre outros selos de segurança
+## Outros selos de segurança
 
 Algumas lojas virtuais já existentes na VTEX utilizam selos de segurança não fornecidos pela VTEX, como Digicert, RapidSSL, Comodo CA etc. Não é adequado exibir no rodapé (ou em outras partes do site) certificações desse tipo sem efetivamente tê-las. 
 

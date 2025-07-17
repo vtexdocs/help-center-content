@@ -1,5 +1,5 @@
 ---
-title: 'Publicação MELI no Mercado Libre é pausada quando uma SKU é inativada'
+title: "Publicação MELI no Mercado Libre é pausada quando uma SKU é inativada"
 id: 28DDIVafmZ7U5DzAXRs6Fu
 status: PUBLISHED
 createdAt: 2022-04-06T17:20:35.601Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-publication-in-mercado-libre-is-paused-when-a-sku-is-inactivated
+slugEN: publicacao-meli-no-mercado-libre-e-pausada-quando-uma-sku-e-inativada
 locale: pt
 kiStatus: Backlog
 internalReference: 557293
@@ -18,7 +18,9 @@ internalReference: 557293
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

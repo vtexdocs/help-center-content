@@ -1,5 +1,5 @@
 ---
-title: 'Shipping preview shows pick-up postal code for shipping when there is package split for pick-up and shipping'
+title: "Shipping preview shows pick-up postal code for shipping when there is package split for pick-up and shipping"
 id: 7gGu9EUZGGXp4dRCCGipsA
 status: PUBLISHED
 createdAt: 2024-06-26T20:36:39.627Z

@@ -20,14 +20,16 @@ Terminadas as etapas de conﬁguração da sua conta na Rappi e da sua conta na 
 2. Digite **Rappi** na barra de busca da página, clique no card da integração.  
 3. Clique no botão **`Conectar`**.    
 
->ℹ️ Todos os campos da tela de configuração da Rappi são obrigatórios.  
+<div class="alert alert-info">
+Todos os campos da tela de configuração da Rappi são obrigatórios.
+</div>  
 
 | **Campo** | **Descrição** | **Exemplo** |
 |---|---|---|
 | **Status da integração** | Botão que define se a integração estará ligada ou desligada. | <i class="fas fa-toggle-on"></i>  ou <i class="fas fa-toggle-off"></i> |
-| **ID do Afiliado** | Código identificador para criação de um [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | RPP |
+| **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | RPP |
 | **Email** | Email do representante comercial da Rappi para o afiliado que está sendo criado. | email@integracao.com |
-| **Canal de vendas** | Identificador da [política comercial](https://help.vtex.com/pt/tutorial/configuring-a-marketplace-trade-policy--tutorials_404) que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Rappi. | 1 |
+| **Canal de vendas** | Identificador da [política comercial](/pt/tutorial/configuring-a-marketplace-trade-policy--tutorials_404) que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Rappi. | 1 |
 | **Client Id** | Identificador fornecido pela Rappi. | rppteste |
 | **Secret** | Chave alfanumérica  fornecida pela Rappi. | xx61x016-xx41-423x-xx42-xx781x6x14xx5 |
 

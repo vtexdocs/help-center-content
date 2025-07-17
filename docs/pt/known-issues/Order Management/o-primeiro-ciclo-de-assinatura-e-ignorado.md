@@ -1,5 +1,5 @@
 ---
-title: 'O primeiro ciclo de assinatura é ignorado'
+title: "O primeiro ciclo de assinatura é ignorado"
 id: 2VX6uoop56wK6jecAly40G
 status: PUBLISHED
 createdAt: 2024-02-05T14:10:40.701Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: first-subscription-cycle-is-skipped
+slugEN: o-primeiro-ciclo-de-assinatura-e-ignorado
 locale: pt
 kiStatus: Backlog
 internalReference: 528556
@@ -18,7 +18,9 @@ internalReference: 528556
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O sistema de assinatura usa informações como a frequência de compra e a data do ciclo de assinatura para gerar um pedido de assinatura. No entanto, dependendo do fuso horário do consumidor e da hora em que o pedido é feito, o primeiro ciclo é ignorado e gerado somente no segundo mês.

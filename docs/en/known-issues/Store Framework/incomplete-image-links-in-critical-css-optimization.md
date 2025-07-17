@@ -1,5 +1,5 @@
 ---
-title: 'Incomplete Image Links in Critical CSS Optimization'
+title: "Incomplete Image Links in Critical CSS Optimization"
 id: 1965M3rMbB30pTOCiMMxXj
 status: PUBLISHED
 createdAt: 2024-10-02T17:52:53.482Z

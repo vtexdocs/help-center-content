@@ -15,11 +15,15 @@ legacySlug: search-navigator-control
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+<div class = "alert alert-warning" >
+  <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
+</div>
 
 The `<vtex.cmc:searchNavigator/>` control renders a menu of filters related to the result of a search.
 
->ℹ️ This control works **only on pages with search context**, i.e. pages where the displayed results were fetched by a user search.
+<div class="alert alert-info">
+This control works <b>only on pages with search context</b>, i.e. pages where the displayed results were fetched by a user search.
+</div>
 
 When users perform a search on the store page, the VTEX system tries to fetch results according to filter priority order. [Know more about the VTEX search works here.](/en/tutorial/how-does-vtex-search-work)
 
@@ -40,7 +44,7 @@ For a collection to be rendered in the menu by the Search Navigator control, it 
 
 This flag can be found in the collection's settings, inside CMS.
 
-![searchNavigator2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/search-navigator-control_1.jpg)
+![searchNavigator2](https://images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
 
 ## Categories
 
@@ -48,10 +52,12 @@ For a category to be rendered by this control, it must be marked with the __Menu
 
 This flag can be found on the category registration screen.
 
-![How Search Navigator control works EN 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/search-navigator-control_2.png)
+![How Search Navigator control works EN 2](https://images.ctfassets.net/alneenqid6w5/4lSSrBSvyUqEGUEw0oMiac/f132379724b8855996e6f41c2e195ce6/2018-10-23_2233_EN_2.png)
 
->ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. 
->   In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
+<div class="alert alert-info">
+  <strong>Important</strong>: The <code>&lt;vtex.cmc:searchNavigator/&gt;</code> control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. 
+  In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">catalog architecture</a> has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control. 
+</div>
 
 ## Brands
 
@@ -61,7 +67,9 @@ The brand registration page doesn't have a display flag in the menu rendered by 
 
 So, by default, brands are always displayed.
 
->⚠️ However, on department or category pages, brands will only be displayed by the Search Navigator control if the **Brand Filter** flag is checked when adding a category.
+<div class="alert alert-warning">
+However, on department or category pages, brands will only be displayed by the Search Navigator control if the <b>Brand Filter</b> flag is checked when adding a category.
+</div>
 
 ### In other pages:
 
@@ -77,7 +85,7 @@ For a product field or SKU field to be displayed on the menu by the Search Navig
 
 Both are found on the field registration screen.
 
-![How Search Navigator control works EN 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/search-navigator-control_3.png)
+![How Search Navigator control works EN 3](https://images.ctfassets.net/alneenqid6w5/2qjmz7DHFaSUq00CGy0cQw/1794e1b088a4ee376627e856dab2cd86/2018-10-23_22-24-47_EN_3.png)
 
 ## Price ranges
 
@@ -87,12 +95,6 @@ Since they're filters registered in categories, price ranges are only displayed 
 
 ---
 
->ℹ️ Filters are **always** rendered based on the attributes of  search context products; meaning based on the category, specification (color, size), brand, collection, etc.
->
-> 
->
-> Therefore, in addition to the conditions listed above for these attributes to appear as filters in the menu, it's first of all necessary for the search term to return a context with products that have such attributes.
->
-> 
->
-> If the user searches, for example, for "cell" and the Shirts category does not contain any cell, it will not appear in the menu, even if the display flag in this category is checked.
+<div class="alert alert-info">
+Filters are <strong>always</strong> rendered based on the attributes of  search context products; meaning based on the category, specification (color, size), brand, collection, etc.<br><br>Therefore, in addition to the conditions listed above for these attributes to appear as filters in the menu, it's first of all necessary for the search term to return a context with products that have such attributes.<br><br>If the user searches, for example, for "cell" and the Shirts category does not contain any cell, it will not appear in the menu, even if the display flag in this category is checked.
+</div>

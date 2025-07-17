@@ -1,5 +1,5 @@
 ---
-title: 'UI considers only the available items to calculate SLA'
+title: "UI considers only the available items to calculate SLA"
 id: 11gXg1N1Sul7EJUZACuQNW
 status: PUBLISHED
 createdAt: 2023-04-25T21:55:37.785Z

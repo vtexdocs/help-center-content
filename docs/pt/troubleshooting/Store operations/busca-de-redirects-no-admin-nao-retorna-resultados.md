@@ -13,10 +13,11 @@ slugEN: admin-redirect-search-returns-no-results
 locale: pt
 legacySlug: busca-de-redirects-no-admin-nao-retorna-resultados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Redirects
 ---
 
-Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
+**Tags:** Redirects
+
+Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
 
 ## Solução
 
@@ -107,4 +108,4 @@ Siga estes passos para obter os redirects:
 
 Caso os redirects não estejam como esperado, o app Rewriter permite fazer outras operações com redirects, como apagar os existentes e criar novos. Para detalhes sobre essas operações, veja o guia [Rewriter GraphQL API](https://developers.vtex.com/docs/apps/vtex.rewriter/rewriter-graphql-api).
 
-Além disso, é possível exportar e importar redirects com arquivos `.csv` utilizando a página Redirecionamentos ou o [plugin](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-plugins) `redirects` do VTEX IO CLI. Para detalhes sobre importar e exportar redirects, veja o artigo [Gerenciando redirecionamentos de URL por binding](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb#importando-e-exportando-redirecionamentos) e a [referência de comandos do VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference#redirects-delete).
+Além disso, é possível exportar e importar redirects com arquivos `.csv` utilizando a página Redirecionamentos ou o [plugin](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-plugins) `redirects` do VTEX IO CLI. Para detalhes sobre importar e exportar redirects, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb#importando-e-exportando-redirecionamentos) e a [referência de comandos do VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference#redirects-delete).

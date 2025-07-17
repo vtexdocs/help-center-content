@@ -1,5 +1,5 @@
 ---
-title: 'MELI Map envía incorrectamente la especificación del producto como variación'
+title: "MELI Map envía incorrectamente la especificación del producto como variación"
 id: 6b49pUUxL3B3RtUWofLjL8
 status: PUBLISHED
 createdAt: 2023-06-27T11:20:49.475Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-mapper-incorrectly-sending-product-specification-as-variation
+slugEN: meli-map-envia-incorrectamente-la-especificacion-del-producto-como-variacion
 locale: es
 kiStatus: Backlog
 internalReference: 851021
@@ -18,7 +18,9 @@ internalReference: 851021
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

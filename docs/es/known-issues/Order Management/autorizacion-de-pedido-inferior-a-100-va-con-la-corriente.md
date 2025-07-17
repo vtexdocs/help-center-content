@@ -1,5 +1,5 @@
 ---
-title: 'Autorización de pedido inferior a 100 va con la corriente'
+title: "Autorización de pedido inferior a 100 va con la corriente"
 id: 51vxznnbek6mtVtQgKEW9d
 status: PUBLISHED
 createdAt: 2024-02-16T13:44:05.199Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-authorization-lessthan-100-goes-with-the-flow
+slugEN: autorizacion-de-pedido-inferior-a-100-va-con-la-corriente
 locale: es
 kiStatus: Backlog
 internalReference: 983031
@@ -18,7 +18,9 @@ internalReference: 983031
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Identificamos que cuando el sistema de Autorización de ordenes (OrderAuth) se configura con el valor "lessThan: 100", en el "Rules-list.CreateDoEffect" , no puede entender que es menor o igual al 100%, solo que es menor al 100% y cuando la orden tiene un descuento del 100%, el sistema autoriza la orden para que siga el flujo normal.

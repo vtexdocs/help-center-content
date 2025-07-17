@@ -1,10 +1,10 @@
 ---
-title: 'Encoding issues for specific characters leads to unexpected product search'
+title: "Encoding issues for specific characters leads to unexpected product search"
 id: O0dM1H8ofJU0ahJRa6217
 status: PUBLISHED
 createdAt: 2024-04-24T22:09:33.395Z
-updatedAt: 2024-04-24T22:09:34.217Z
-publishedAt: 2024-04-24T22:09:34.217Z
+updatedAt: 2025-03-12T19:17:24.241Z
+publishedAt: 2025-03-12T19:17:24.241Z
 firstPublishedAt: 2024-04-24T22:09:34.217Z
 contentType: knownIssue
 productTeam: Intelligent Search

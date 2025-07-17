@@ -1,5 +1,5 @@
 ---
-title: "Erro 'Algo deu errado. Tente novamente.' ao adicionar imagens pelo Site Editor"
+title: 'Erro "Algo deu errado. Tente novamente." ao adicionar imagens pelo Site Editor'
 id: r3QVP1kp8HApP83bOi6t9
 status: PUBLISHED
 createdAt: 2023-11-07T22:33:02.296Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: error-something-went-wrong-please-try-again-when-adding-images-via-site-editor
+slugEN: erro-algo-deu-errado-tente-novamente-ao-adicionar-imagens-pelo-site-editor
 locale: pt
 kiStatus: Backlog
 internalReference: 932126
@@ -18,7 +18,9 @@ internalReference: 932126
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao adicionar imagens por meio do Site Editor, a mensagem "`Algo deu errado. Tente novamente.`" pode ocorrer ocasionalmente.

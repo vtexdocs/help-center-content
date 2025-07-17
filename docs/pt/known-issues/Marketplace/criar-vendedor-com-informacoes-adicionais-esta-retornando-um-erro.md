@@ -1,5 +1,5 @@
 ---
-title: 'Criar vendedor com informações adicionais está retornando um erro'
+title: "Criar vendedor com informações adicionais está retornando um erro"
 id: 4dbB48N1vHHdXjL1M1zANe
 status: PUBLISHED
 createdAt: 2023-01-26T17:12:54.701Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: create-seller-with-additional-information-is-returning-an-error
+slugEN: criar-vendedor-com-informacoes-adicionais-esta-retornando-um-erro
 locale: pt
 kiStatus: Fixed
 internalReference: 741110
@@ -18,13 +18,15 @@ internalReference: 741110
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Ao tentar criar um vendedor através de Admin e preencher o formulário opcional Informações Adicionais, um erro é devolvido assim:
 'O vendedor foi adicionado com sucesso, mas algumas informações não puderam ser salvas'.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/criar-vendedor-com-informacoes-adicionais-esta-retornando-um-erro_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/FYe7irRht0psXP4PwkEH7fm05/?name=image.png)
 
 Apesar da mensagem, o vendedor não foi realmente salvo.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Promoções de presentes que não funcionam como esperado quando atuam em conjunto com outras promoções de presentes'
+title: "Promoções de presentes que não funcionam como esperado quando atuam em conjunto com outras promoções de presentes"
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
+slugEN: promocoes-de-presentes-que-nao-funcionam-como-esperado-quando-atuam-em-conjunto-com-outras-promocoes-de-presentes
 locale: pt
 kiStatus: No Fix
 internalReference: 729980
@@ -18,7 +18,9 @@ internalReference: 729980
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -21,7 +21,7 @@ In order to do this, the first step is accessing the integration registration:
 1. Access the __Marketplace__ module
 2. Click on __Integration__
 3. Look for the Mercado Livre __panel__
-4. Click on the __gears__ icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Channels/why-are-my-orders-not-integrating-with-mercado-livre_1.png" />
+4. Click on the __gears__ icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
 5. Click on __Edit config_
 
 From there onwards, you'll need to redo the integration process.
@@ -39,7 +39,7 @@ Having done this, wait for 15 more minutes. The most important step of this proc
 
 11. Access the Mercado Livre __panel__
 12. __Login__ with the account you wish to integrate
-13. Redo the __[authorization process](https://help.vtex.com/en/tracks/--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
+13. Redo the __[authorization process](/en/tracks/--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
 14. __Save__ the configurations.
 
 Done! By doing this, your integration will go back to working normally after a few minutes.

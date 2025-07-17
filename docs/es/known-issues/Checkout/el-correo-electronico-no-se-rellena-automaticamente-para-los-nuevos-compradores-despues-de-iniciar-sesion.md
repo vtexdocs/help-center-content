@@ -1,5 +1,5 @@
 ---
-title: 'El correo electrónico no se rellena automáticamente para los nuevos compradores después de iniciar sesión'
+title: "El correo electrónico no se rellena automáticamente para los nuevos compradores después de iniciar sesión"
 id: 2H6REXZGS6utlWmYKoPmGq
 status: PUBLISHED
 createdAt: 2023-10-17T16:22:21.667Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: email-not-autofilling-for-new-buyers-after-logging-in
+slugEN: el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-compradores-despues-de-iniciar-sesion
 locale: es
 kiStatus: Fixed
 internalReference: 920634
@@ -18,7 +18,9 @@ internalReference: 920634
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un nuevo comprador inicia sesión y procede al pago, el correo electrónico no se rellena automáticamente, lo que requiere que el cliente vuelva a introducir su correo electrónico. Esto también ocurre utilizando APIs y enviando cabeceras con las cookies del comprador.

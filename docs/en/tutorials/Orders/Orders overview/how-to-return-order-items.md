@@ -15,7 +15,7 @@ legacySlug: how-to-return-order-items-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-On the **Order Details** page, retailers can track specific products’ life-cycle by analyzing their interactions, data, and context. Learn more about the new [Order Details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page. 
+On the **Order Details** page, retailers can track specific products’ life-cycle by analyzing their interactions, data, and context. Learn more about the new [Order Details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page. 
 
 You can return some items or all of them even when they were invoiced if your customer requests it, as long as the items are inserted in the invoice. A typical scenario for this action is when a customer in the fashion segment wants to return a clothing item and exchange it for one with a different size, for example. 
 
@@ -38,4 +38,6 @@ On the Order Details page, you can orchestrate this operation by completing the 
 
 After the refund is processed in the system, your returned items and information will be displayed in the **Returned items** section.
 
->ℹ️ You can change orders via API using the endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), and issue invoices after changes using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+<div class = "alert alert-info">
+You can change orders via API using the endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a>, and issue invoices after changes using the endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'ShippingEstimateDate incorrecto para el pedido FOB'
+title: "ShippingEstimateDate incorrecto para el pedido FOB"
 id: 3WLcrdw0tEdOvlMCYx9uyd
 status: PUBLISHED
 createdAt: 2023-01-05T20:26:07.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-shippingestimatedate-for-order-fob
+slugEN: shippingestimatedate-incorrecto-para-el-pedido-fob
 locale: es
 kiStatus: No Fix
 internalReference: 269104
@@ -18,7 +18,9 @@ internalReference: 269104
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

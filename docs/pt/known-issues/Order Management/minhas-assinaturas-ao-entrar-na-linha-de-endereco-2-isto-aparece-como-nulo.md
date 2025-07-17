@@ -1,5 +1,5 @@
 ---
-title: 'Minhas assinaturas Ao entrar na linha de endereço 2 isto aparece como nulo'
+title: "Minhas assinaturas Ao entrar na linha de endereço 2 isto aparece como nulo"
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: my-subscriptions-when-entering-the-address-line-2-this-appear-as-null
+slugEN: minhas-assinaturas-ao-entrar-na-linha-de-endereco-2-isto-aparece-como-nulo
 locale: pt
 kiStatus: No Fix
 internalReference: 588046
@@ -18,7 +18,9 @@ internalReference: 588046
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

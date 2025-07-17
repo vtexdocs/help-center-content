@@ -1,5 +1,5 @@
 ---
-title: 'Changes made in the Styles admin page are not saved properly'
+title: "Changes made in the Styles admin page are not saved properly"
 id: 4XmBeVMf0yZJElH85mSxC3
 status: PUBLISHED
 createdAt: 2024-01-25T19:13:16.165Z

@@ -1,5 +1,5 @@
 ---
-title: 'Atualizar vendedor usando Admin está definindo alguns campos de volta para o valor padrão depois de modificá-lo via API'
+title: "Atualizar vendedor usando Admin está definindo alguns campos de volta para o valor padrão depois de modificá-lo via API"
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: update-seller-using-admin-is-setting-some-fields-back-to-the-default-value-after-changing-it-via-api
+slugEN: atualizar-vendedor-usando-admin-esta-definindo-alguns-campos-de-volta-para-o-valor-padrao-depois-de-modificalo-via-api
 locale: pt
 kiStatus: No Fix
 internalReference: 608120
@@ -18,7 +18,9 @@ internalReference: 608120
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

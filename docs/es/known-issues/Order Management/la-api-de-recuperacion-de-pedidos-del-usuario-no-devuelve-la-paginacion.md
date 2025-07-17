@@ -1,5 +1,5 @@
 ---
-title: 'La API de recuperación de pedidos del usuario no devuelve la paginación'
+title: "La API de recuperación de pedidos del usuario no devuelve la paginación"
 id: 7ncV7acM5F3B4fJxOO2mGh
 status: PUBLISHED
 createdAt: 2022-02-03T12:20:48.330Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: retrieve-users-orders-api-does-not-return-paging
+slugEN: la-api-de-recuperacion-de-pedidos-del-usuario-no-devuelve-la-paginacion
 locale: es
 kiStatus: Backlog
 internalReference: 516699
@@ -18,7 +18,9 @@ internalReference: 516699
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

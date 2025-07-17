@@ -59,17 +59,17 @@ To create an offer page for VTEX Sales App, follow the steps below:
 4. In the **Sections** tab, click the + button to add a new section. Each section is a collection of products or search terms. Each section will be displayed as a carousel. You can reorder custom displays by clicking the Move down or Move up buttons.
 5. Select an offer type, either products or search results.
   - **Product custom display:** It will display each product and SKU (optional) that you specify. Add the following information: - **Custom display title:** Name of the custom display that will be displayed on the page. - **Product ID:** Identifier number of the product you want to display. Required field. - **Product SKU ID:** Iidentifier number of the product's SKU you want to display. Optional field.
-![vitrine-produto-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_1.png)
+![vitrine-produto-en](https://images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/055391c146dbfe153d0161eb1f9af701/image.png)
 After completing the fields, the product image will be displayed with the "starting at" price. If you include the SKU, the price and promotion of the indicated SKU will be displayed. You can add more products by clicking + NEW PRODUCT. You can add up to 10 products in each custom display. The result of the product custom display will be displayed as shown in the image below.
-![vitrine-produto-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_2.png)
+![vitrine-produto-2-en](https://images.ctfassets.net/alneenqid6w5/3SY8POqXIAK0Qi2lWax8qq/f288b81bbd6f3f9e788afdccead5286e/image.png)
   - **Search results custom display:** It will display products from a search result that you define. Add the following information: 
 Custom display title: Name of the custom display that will be displayed on the page.
     - **Search image:** image that will represent the selection of products in the showcase.
     - **Search name:** Name of the search that will be displayed on the page.
     - **Search term:** Search term: Search term that will be used as a reference for the products.
-![vitrine-busca-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_3.png)
+![vitrine-busca-en](https://images.ctfassets.net/alneenqid6w5/2nOoe8dF1IaF1YPIr3N3dV/79a8cc3b08dd79d76d402456e47a62ac/image.png)
 When the seller clicks the search term, they will be directed to the search result determined in the Search term. You can also include up to 10 searches in each custom display. See the result in the image below:
-![vitrine-busca-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_4.png)
+![vitrine-busca-2-en](https://images.ctfassets.net/alneenqid6w5/s6MJ80nGy16Ex39NnPwnT/58073fd76945673090d787622ebcc09a/image.png)
 <ol start="6">
   <li>After creating the sections, click <code>Save</code>, then click <code>Publish</code> and <code>Publish Now</code> to finalize.</li>
 </ol> 
@@ -80,7 +80,7 @@ The publication of the custom display will enter the indexing queue and will be 
     - **Custom display title:** Name of the custom display as it will appear on the page.
     - **Collection ID:** The collection identifier number that will be displayed on the page.
 
-![Vitrine - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_5.png)
+![Vitrine - EN](https://images.ctfassets.net/alneenqid6w5/4hppMA8Zky77l93af8W6ks/c3f21920a6ac94d53a3097b8a7b3ad72/Vitrine_-_EN.png)
 
 ## Activate the offer menu in VTEX Sales App
 
@@ -90,12 +90,12 @@ Access the technical settings of VTEX Sales App at:
 1. Click the <i class="fas fa-cog"></i> button.
 2. Select the **Code** tab.
 3. Select the `checkout-instore-custom-js` file in the side tab.
-![checkout-instore-custom-js-file](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_6.png)
+![checkout-instore-custom-js-file](https://images.ctfassets.net/alneenqid6w5/6JgOUD4YUDyArNzUkgzIVJ/8f4cdc9e643abd06f8b3ef4ecc906040/image.png)
 5. In the `window.INSTORE_CONFIG` object, add the flag `enableExplore: true,`.
-![window.INSTORE_CONFIG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_7.png)
+![window.INSTORE_CONFIG](https://images.ctfassets.net/alneenqid6w5/6kpTp7g4zRuIsyYGdo5Bio/e2984ba814f55a81a0b4263ff9d1a694/image.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 7. Optionally, you can set the offer page as the seller's homepage. To do this, add the flag `initialPage: 'advertisements',` to the `window.INSTORE_CONFIG` object.
-![initialPage : advertisements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_8.png)
+![initialPage : advertisements](https://images.ctfassets.net/alneenqid6w5/1zS4dgPnw7Q0ZP2w0thQdt/57c885204ca51226610e97e88f2e85e4/image.png)
 
 ## Accessing offers in VTEX Sales App
 
@@ -105,4 +105,4 @@ In VTEX Sales App, the seller will can access the offer page in two different wa
 
 * **Explore Menu:** If the offer page is not set as the seller's homepage, it can still be easily accessed through the Explore menu. To access the offer page, the seller should click the Explore menu. This will directly take the seller to the offer page, where they can view and interact with the available products and promotions.
 
-![vitrine-sale-app-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/ads-from-vtex-sales-app_9.png)
+![vitrine-sale-app-en](https://images.ctfassets.net/alneenqid6w5/3YddBVVXNGJiVWfDK1xUrg/b1924f30b51e02d7c4fa4ca057b162bb/image.png)

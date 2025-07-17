@@ -1,5 +1,5 @@
 ---
-title: 'El campo de código postal de la vista previa de envío no está oculto'
+title: "El campo de código postal de la vista previa de envío no está oculto"
 id: 6YCl40YEzu1HGkfHkcjGqu
 status: PUBLISHED
 createdAt: 2023-05-09T13:27:51.259Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-previews-postal-code-input-field-is-not-hidden
+slugEN: el-campo-de-codigo-postal-de-la-vista-previa-de-envio-no-esta-oculto
 locale: es
 kiStatus: Fixed
 internalReference: 821984
@@ -18,7 +18,9 @@ internalReference: 821984
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para algunos países, el campo de entrada del código postal de la vista previa de envío no se oculta después de incluir un código postal válido por segunda vez.

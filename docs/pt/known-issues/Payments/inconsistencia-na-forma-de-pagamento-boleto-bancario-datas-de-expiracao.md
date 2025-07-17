@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistência na forma de pagamento boleto bancário datas de expiração'
+title: "Inconsistência na forma de pagamento boleto bancário datas de expiração"
 id: 771mUo6KdQP0pCTq5F5E0m
 status: PUBLISHED
 createdAt: 2022-03-28T01:17:58.206Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: inconsistency-in-payment-method-boleto-bancario-expiration-dates
+slugEN: inconsistencia-na-forma-de-pagamento-boleto-bancario-datas-de-expiracao
 locale: pt
 kiStatus: Backlog
 internalReference: 489460
@@ -18,7 +18,9 @@ internalReference: 489460
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns Boleto Bancário gerados a partir do conector ItauShopLine podem ter um prazo de validade diferente daquele configurado na afiliação

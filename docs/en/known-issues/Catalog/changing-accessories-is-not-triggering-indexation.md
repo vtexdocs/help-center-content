@@ -1,5 +1,5 @@
 ---
-title: 'Changing Accessories is not triggering indexation'
+title: "Changing Accessories is not triggering indexation"
 id: 5asLRh4ChyuSEg1mRwWbgT
 status: PUBLISHED
 createdAt: 2024-05-22T18:30:14.578Z

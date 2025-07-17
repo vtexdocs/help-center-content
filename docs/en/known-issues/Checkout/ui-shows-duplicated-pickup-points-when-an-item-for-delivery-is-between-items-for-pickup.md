@@ -1,5 +1,5 @@
 ---
-title: 'UI shows duplicated pick-up points when an item for delivery is between items for pick-up'
+title: "UI shows duplicated pick-up points when an item for delivery is between items for pick-up"
 id: lIP6kRDsi23lNQd7RzNfY
 status: PUBLISHED
 createdAt: 2023-09-25T13:50:27.481Z

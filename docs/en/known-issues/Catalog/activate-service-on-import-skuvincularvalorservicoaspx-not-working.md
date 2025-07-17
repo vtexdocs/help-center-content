@@ -1,5 +1,5 @@
 ---
-title: 'Activate Service on Import (SkuVincularValorServico.aspx) not Working'
+title: "Activate Service on Import (SkuVincularValorServico.aspx) not Working"
 id: 1gM3bYz0IX4ozLrIkWIicb
 status: PUBLISHED
 createdAt: 2022-02-25T14:56:50.052Z
@@ -31,13 +31,13 @@ Currently, in the SkuVincularValorServico.aspx import usability, when trying to 
 
 1) Go to the UI https://account.myvtex.com/admin/Site/SkuVincularValorServico.aspx interchanging the rows in the attached sheet from 0 to 1 and vice versa:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/activate-service-on-import-skuvincularvalorservicoaspx-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ladK39V5My6gjGixeHuNTaV2b/?name=inline-1801216200.png)
 
 2) Check the final effects on the SKU you've changed values of:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/activate-service-on-import-skuvincularvalorservicoaspx-not-working_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/znYEzQhMevPcRVYKlBQYa73fF/?name=inline1216426643.png)
 
 You will be able to set them as inactive, but not as active. The import UI prompts that changes were made:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/activate-service-on-import-skuvincularvalorservicoaspx-not-working_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6iKARGtVqTbKaL0vY9s7XPvt6/?name=inline2110004305.png)
 
 No values are actually changed on the given account's database.
 

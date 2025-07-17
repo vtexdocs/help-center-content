@@ -25,7 +25,7 @@ Follow the steps below to add a rounding rule to your store:
 3. Click on the **New Rule** button.
 4. In the first step, **What is the price range to which this rule will apply?**, set a **From** - **Up To** price range to which the psychological pricing applies. 
 5. In the second step, **How many digits will be rounded?**, select the number of digits to apply psychological pricing to from the dropdown menu.
-6. In the third step, **Which rounding method will be applied?**, select the [desired method](https://help.vtex.com/en/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
+6. In the third step, **Which rounding method will be applied?**, select the [desired method](/en/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
 7. Click on **Test your prices** and insert a price to check whether the newly created rule works as intended.
 8. Lastly, click on **Save**.
 

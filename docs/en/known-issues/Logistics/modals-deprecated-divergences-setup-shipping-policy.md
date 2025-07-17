@@ -1,5 +1,5 @@
 ---
-title: 'Modals Deprecated Divergences setup - Shipping Policy'
+title: "Modals Deprecated Divergences setup - Shipping Policy"
 id: TYWgIv5xOTUBWdC63FbK5
 status: PUBLISHED
 createdAt: 2022-05-18T18:20:55.870Z

@@ -1,5 +1,5 @@
 ---
-title: 'License Manager Access for Sales Channel management is not working.'
+title: "License Manager Access for Sales Channel management is not working."
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z
@@ -28,13 +28,13 @@ At the License Manager configuration, we can select which resource the user can 
 
 - Change a user role to access only the Sales Channels Management:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/license-manager-access-for-sales-channel-management-is-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QdfNIgaeWKO0TQNp7JHBXuhtW/?name=inline-650484840.png)
 
 - Try to access this page: `account.myvtex.com/admin/Site/Store.aspx`
 
 The page will not be available on the menu:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/license-manager-access-for-sales-channel-management-is-not-working_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/uomLWmfD9EIbUO6HnbljCA7e3/?name=inline671843796.png)
 
 
 

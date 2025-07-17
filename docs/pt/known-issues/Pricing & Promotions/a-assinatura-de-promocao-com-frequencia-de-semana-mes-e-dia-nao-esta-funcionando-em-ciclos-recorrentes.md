@@ -1,5 +1,5 @@
 ---
-title: 'A assinatura de promoção com frequência de semana, mês e dia não está funcionando em ciclos recorrentes'
+title: "A assinatura de promoção com frequência de semana, mês e dia não está funcionando em ciclos recorrentes"
 id: 70DNIBLC5kctaFZSLooOQ7
 status: PUBLISHED
 createdAt: 2024-01-12T17:00:50.068Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotion-subscription-with-week-month-and-day-frequency-not-working-on-recurring-cycles
+slugEN: a-assinatura-de-promocao-com-frequencia-de-semana-mes-e-dia-nao-esta-funcionando-em-ciclos-recorrentes
 locale: pt
 kiStatus: Backlog
 internalReference: 965484
@@ -18,7 +18,9 @@ internalReference: 965484
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma promoção de assinatura é definida no módulo de assinatura, o comerciante tem a possibilidade de escolher a frequência com que essa promoção será aplicada à assinatura.

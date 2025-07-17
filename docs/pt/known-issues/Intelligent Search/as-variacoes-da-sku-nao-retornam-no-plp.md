@@ -1,5 +1,5 @@
 ---
-title: 'As variações da SKU não retornam no PLP'
+title: "As variações da SKU não retornam no PLP"
 id: 6AOmkZe06SmXpVqwQqTZdp
 status: PUBLISHED
 createdAt: 2022-10-19T12:20:41.544Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: sku-variations-doesnt-return-in-the-plp
+slugEN: as-variacoes-da-sku-nao-retornam-no-plp
 locale: pt
 kiStatus: Backlog
 internalReference: 569563
@@ -18,7 +18,9 @@ internalReference: 569563
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A apresentação das variações da SKU no PLP é limitada às variações disponíveis, independentemente da configuração do prumo skusFilter. De acordo com nossa análise, o search-graphql não está fornecendo todas as variações conforme o retorno API, portanto o ProductContextProvider não recebe todas as variações.

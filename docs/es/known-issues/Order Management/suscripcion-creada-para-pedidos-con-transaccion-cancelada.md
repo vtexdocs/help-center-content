@@ -1,5 +1,5 @@
 ---
-title: 'Suscripción creada para pedidos con transacción cancelada'
+title: "Suscripción creada para pedidos con transacción cancelada"
 id: 3kDIxoThA1INR2JugY0NpO
 status: PUBLISHED
 createdAt: 2024-11-25T13:48:05.316Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscription-created-for-orders-with-canceled-transaction
+slugEN: suscripcion-creada-para-pedidos-con-transaccion-cancelada
 locale: es
 kiStatus: Backlog
 internalReference: 1139745
@@ -18,7 +18,9 @@ internalReference: 1139745
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando cerramos una orden que contiene un artículo para abono, el sistema que genera el abono se dispara para crear la firma siempre que la orden recibe el aviso de que se ha realizado el pago, pero aún puede ocurrir que la transacción de esta orden se cancele posteriormente por análisis del sistema antifraude, pero incluso antes de que se cree la transacción, la firma ya se ha creado y está activada, lo que significa que se ejecutará en el siguiente ciclo aunque la orden que la originó no haya avanzado.

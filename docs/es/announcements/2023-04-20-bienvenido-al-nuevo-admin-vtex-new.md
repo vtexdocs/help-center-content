@@ -19,7 +19,7 @@ Las empresas digitales buscan cada vez más contar con herramientas que les perm
 
 Bienvenido a la [experiencia del nuevo Admin VTEX](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-04-20-bienvenido-al-nuevo-admin-vtex-new_1.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 ## ¿Qué cambió?
 
@@ -34,7 +34,7 @@ Aunque hemos rediseñado el Admin VTEX, la configuración y los datos de tu tien
 
 ### Cambios en el menú de navegación
 
-No se ha eliminado ninguna página del Admin VTEX, pero organizamos el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](https://help.vtex.com/es/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
+No se ha eliminado ninguna página del Admin VTEX, pero organizamos el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
 
 Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de la estructura principal del Admin VTEX se pueden encontrar al acceder a **Apps > Apps instaladas**.
 
@@ -42,22 +42,22 @@ Además de cambiar la organización de las páginas, también mejoramos algunos 
 
 | Menú                                                                                                                        | Información                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dashboards](https://help.vtex.com/es/tutorial/vista-general-dashboards--1yn2nZUoXtDO3teTEJsCNl#)                              | Panel de control de los datos de tu comercio unificado.                                                                                     |
-| [Pedidos](https://help.vtex.com/es/tutorial/pedidos-vision-general--tutorials_201#)                                     | Gestión de pedidos, transacciones, datos de envío y suscripciones.                                                                          |
-| [Catálogo](https://help.vtex.com/es/tutorial/vision-general-catalogo--FFrumKPYFpvIWKRXfhQYp)                                   | Surtido de productos de tu tienda de ecommerce.                                                                                             |
-| [Promociones](https://help.vtex.com/es/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm)                              | Gestión de promociones, cupones y campañas.                                                                                                 |
-| [Storefront](https://help.vtex.com/es/tutorial/vision-general-storefront--7cRrL2xtY7HDqiyep1PxIS#)                              | Define la experiencia del usuario y la identidad visual del sitio web, Intelligent Search y releases.                                       |
-| [Envío](https://help.vtex.com/es/tutorial/vision-general-envio--6Qc1DsKIht2l7elwJCLddX)                                         | Registro y control de los stocks, gestión de las tarifas de envío, control de la disponibilidad de los ítems y seguimiento de las entregas. |
-| [Marketplace](https://help.vtex.com/es/tutorial/vision-general-marketplace--40Zd0z9h2RXsM9uMUp3kEb#)                               | Gestión de sellers, marketplaces y conexiones.                                                                                              |
-| [Aplicaciones](https://help.vtex.com/es/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                                  | App Store y aplicaciones instaladas en la tienda.                                                                                           |
-| [Configuración de la tienda](https://help.vtex.com/es/tutorial/vision-general-configuraciones-de-la-tienda--6VtlMoid6iM9dP14X1CopT)   | Configuración de pagos, pedidos, plantillas de email, envío, productos, storefront, canales, Intelligent Search y calendario.               |
-| [Configuración del usuario](https://help.vtex.com/es/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34) | Configuración aplicada a tu tienda, que incluye tu storefront.                                                                              |
-| [Configuración de la cuenta](https://help.vtex.com/es/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8)  | Configuración aplicada a tu perfil personal en el Admin, que no están relacionadas a tu tienda o cuenta de negocio en VTEX.                 |
-| [Facturación](https://help.vtex.com/es/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs)                                | Gestión de todos los aspectos financieros de tu cuenta VTEX.                                                                                |
+| [Dashboards](/es/tutorial/vista-general-dashboards--1yn2nZUoXtDO3teTEJsCNl#)                              | Panel de control de los datos de tu comercio unificado.                                                                                     |
+| [Pedidos](/es/tutorial/pedidos-vision-general--tutorials_201#)                                     | Gestión de pedidos, transacciones, datos de envío y suscripciones.                                                                          |
+| [Catálogo](/es/tutorial/vision-general-catalogo--FFrumKPYFpvIWKRXfhQYp)                                   | Surtido de productos de tu tienda de ecommerce.                                                                                             |
+| [Promociones](/es/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm)                              | Gestión de promociones, cupones y campañas.                                                                                                 |
+| [Storefront](/es/tutorial/vision-general-storefront--7cRrL2xtY7HDqiyep1PxIS#)                              | Define la experiencia del usuario y la identidad visual del sitio web, Intelligent Search y releases.                                       |
+| [Envío](/es/tutorial/vision-general-envio--6Qc1DsKIht2l7elwJCLddX)                                         | Registro y control de los stocks, gestión de las tarifas de envío, control de la disponibilidad de los ítems y seguimiento de las entregas. |
+| [Marketplace](/es/tutorial/vision-general-marketplace--40Zd0z9h2RXsM9uMUp3kEb#)                               | Gestión de sellers, marketplaces y conexiones.                                                                                              |
+| [Aplicaciones](/es/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                                  | App Store y aplicaciones instaladas en la tienda.                                                                                           |
+| [Configuración de la tienda](/es/tutorial/vision-general-configuraciones-de-la-tienda--6VtlMoid6iM9dP14X1CopT)   | Configuración de pagos, pedidos, plantillas de email, envío, productos, storefront, canales, Intelligent Search y calendario.               |
+| [Configuración del usuario](/es/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34) | Configuración aplicada a tu tienda, que incluye tu storefront.                                                                              |
+| [Configuración de la cuenta](/es/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8)  | Configuración aplicada a tu perfil personal en el Admin, que no están relacionadas a tu tienda o cuenta de negocio en VTEX.                 |
+| [Facturación](/es/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs)                                | Gestión de todos los aspectos financieros de tu cuenta VTEX.                                                                                |
 
 ## ¿Por qué realizamos este cambio?
 
-Nuestro objetivo es aportar coherencia a tu experiencia, reduciendo la complejidad innecesaria. Para lograrlo, estamos rediseñando varias partes de la experiencia e implementando cambios estructurales en la forma en que utilizas el Admin VTEX. La [nueva página de inicio](https://help.vtex.com/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) también se ha rediseñado para que actúe como un panel de control para toda tu operación comercial, con datos procesables que te ayuden a tomar decisiones.
+Nuestro objetivo es aportar coherencia a tu experiencia, reduciendo la complejidad innecesaria. Para lograrlo, estamos rediseñando varias partes de la experiencia e implementando cambios estructurales en la forma en que utilizas el Admin VTEX. La [nueva página de inicio](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) también se ha rediseñado para que actúe como un panel de control para toda tu operación comercial, con datos procesables que te ayuden a tomar decisiones.
 
 ## ¿Qué se necesita hacer?
 

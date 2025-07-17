@@ -1,5 +1,5 @@
 ---
-title: 'Los activadores de páginas en G4A se duplican en las páginas de búsqueda personalizadas.'
+title: "Los activadores de páginas en G4A se duplican en las páginas de búsqueda personalizadas."
 id: 4hIwZ2v9bbyyZXrxoDglyx
 status: PUBLISHED
 createdAt: 2023-11-08T13:35:27.802Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages
+slugEN: los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas
 locale: es
 kiStatus: Backlog
 internalReference: 888042
@@ -18,7 +18,9 @@ internalReference: 888042
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento pageView se muestra duplicado en dataLayer cuando en las páginas de búsqueda personalizada
@@ -51,11 +53,11 @@ También encontré algo curioso en la página del departamento con pageView y pa
 
 https://storetheme.vtex.com/apparel---accessories/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXFuDY5Q9XhZ7hgIvA8m8ugJ3/?name=image.png)
 
 Pero, este problema específico es replicable en
 
 https://www.dzarm.com.br/outlet
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/los-activadores-de-paginas-en-g4a-se-duplican-en-las-paginas-de-busqueda-personalizadas_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/EVakZYSBKtcrCQoNXBe92uAzQ/?name=image.png)
 

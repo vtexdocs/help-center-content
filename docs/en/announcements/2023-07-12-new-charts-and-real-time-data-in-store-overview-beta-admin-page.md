@@ -15,9 +15,9 @@ announcementImageID: ''
 announcementSynopsisEN: "We've redesigned the Admin home page, which now features new graphs with real-time data."
 ---
 
-The [Overview (beta)](https://help.vtex.com/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) page in your VTEX Admin has been redesigned and now offers new charts, metrics, and views. These new features allow you to monitor your operation in real time, providing insights on metrics for you and your team to get quick feedback on the actions taken in the store and act promptly on improvements.
+The [Overview (beta)](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) page in your VTEX Admin has been redesigned and now offers new charts, metrics, and views. These new features allow you to monitor your operation in real time, providing insights on metrics for you and your team to get quick feedback on the actions taken in the store and act promptly on improvements.
 
-![EN visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-07-12-new-charts-and-real-time-data-in-store-overview-beta-admin-page_1.png)
+![EN visão geral beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/88b40023b0c9d38dae93d2ccb563e378/EN_visa__o_geral_beta.png)
 
 ## What has changed?
 
@@ -36,9 +36,9 @@ Real-time data supports your team in analyzing campaign results and identifying 
 
 ## What needs to be done?
 
-The updated version of the [Store Overview (Beta)](https://help.vtex.com/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) page will be available in the VTEX Admin as of August 17th. To access the page, in the VTEX Admin, go to **Dashboards > Overview (Beta)**, or type _Overview (Beta)_ in the search bar at the top of the page.
+The updated version of the [Store Overview (Beta)](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) page will be available in the VTEX Admin as of August 17th. To access the page, in the VTEX Admin, go to **Dashboards > Overview (Beta)**, or type _Overview (Beta)_ in the search bar at the top of the page.
 
 The page will be available for free during its beta phase or as determined by VTEX, but note that extra fees may apply in the future.
 
-The current Overview page in the VTEX Admin will remain available for use and can be accessed from the[ Dashboards](https://help.vtex.com/en/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) menu in your Admin.
+The current Overview page in the VTEX Admin will remain available for use and can be accessed from the[ Dashboards](/en/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) menu in your Admin.
 

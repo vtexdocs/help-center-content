@@ -15,7 +15,7 @@ legacySlug: creating-a-subscription-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
 
 1. Access the **Promotions & Taxes** module.
 2. Click on **Promotions**.
@@ -23,7 +23,7 @@ In this article, you will find the step-by-step instructions to create subscript
 4. Select the `Regular` option.
 5. In the **What are the conditions for the promotion to be valid?** section, select the **Is a subscription order** field. This option specifies that the promotion will apply to subscription orders. Only products with a subscription in the cart will receive the discount. To understand configuration possibilities, see the following conditions:
 
-![frequenciaenglish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-subscription-promotion_1.png)
+![frequenciaenglish](https://images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/a13420f2bd7a22e963097a6e9d415e46/image2__2_.png)
 
 - **First orders**: orders that generate subscriptions but are not part of subscription cycles yet.
 - **Recurring orders**: orders from subscription cycles.
@@ -42,7 +42,10 @@ Configure the frequency and cycle correctly to ensure that the promotion is appl
 | 01/22/2022 | Third cycle | Promotion will not be valid |
 | 02/05/2022 | Fourth cycle | Promotion will be valid |
 
->ℹ️ You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.
+<div class="alert alert-info" role="alert">
+ <p>
+You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.</p>
+</div>
 
 <ol start="6">
 <li> Fill in the <a href="https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327" rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">fields of this promotion</a>.</li><br>

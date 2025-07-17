@@ -1,5 +1,5 @@
 ---
-title: 'A atualização do pagamento personalizado não é refletida no checkout'
+title: "A atualização do pagamento personalizado não é refletida no checkout"
 id: 7qI8JERAmcBNN7BoCAuiz3
 status: PUBLISHED
 createdAt: 2024-09-11T13:45:38.069Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: custom-payment-update-not-reflecting-at-checkout
+slugEN: a-atualizacao-do-pagamento-personalizado-nao-e-refletida-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 1096461
@@ -18,7 +18,9 @@ internalReference: 1096461
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As atualizações feitas em pagamentos personalizados (por exemplo, nome) são salvas com sucesso no admin, mas podem não ser refletidas no checkout (mesmo depois de esperar 10 minutos).

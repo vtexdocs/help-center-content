@@ -1,5 +1,5 @@
 ---
-title: 'Registros que indican que hubo un reembolso, pero debido a un error por parte del adquirente, la anulación no se produce realmente'
+title: "Registros que indican que hubo un reembolso, pero debido a un error por parte del adquirente, la anulación no se produce realmente"
 id: Bpa1ncKcUuKd7i5isR2D4
 status: PUBLISHED
 createdAt: 2022-03-17T21:07:16.944Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: logs-stating-that-there-was-a-refund-but-due-to-an-error-on-the-part-of-the-acquirer-the-reversal-does-not-actually-occur
+slugEN: registros-que-indican-que-hubo-un-reembolso-pero-debido-a-un-error-por-parte-del-adquirente-la-anulacion-no-se-produce-realmente
 locale: es
 kiStatus: Backlog
 internalReference: 545331
@@ -18,7 +18,9 @@ internalReference: 545331
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Incluso con los registros de transacciones que informan de que se ha realizado el contracargo, se ha producido un error en la entidad adquirente.

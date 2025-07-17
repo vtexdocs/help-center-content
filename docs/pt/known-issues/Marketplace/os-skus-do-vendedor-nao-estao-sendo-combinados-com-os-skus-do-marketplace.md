@@ -1,5 +1,5 @@
 ---
-title: 'Os skus do vendedor não estão sendo combinados com os skus do marketplace'
+title: "Os skus do vendedor não estão sendo combinados com os skus do marketplace"
 id: 3nMHzPCop8uKOD98GkT3k
 status: PUBLISHED
 createdAt: 2024-10-03T16:23:17.416Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: sellers-skus-are-not-being-matched-to-the-marketplaces-skus
+slugEN: os-skus-do-vendedor-nao-estao-sendo-combinados-com-os-skus-do-marketplace
 locale: pt
 kiStatus: Backlog
 internalReference: 1100159
@@ -18,7 +18,9 @@ internalReference: 1100159
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Apesar de um produto idêntico no catálogo do Marketplace, os SKUs dos vendedores não estão sendo combinados e aprovados automaticamente. Em vez disso, eles estão indo para a Área Pendente ou, nos casos de marketplaces com o sinalizador de aprovação automática ativado, estão sendo criados como novos no catálogo.

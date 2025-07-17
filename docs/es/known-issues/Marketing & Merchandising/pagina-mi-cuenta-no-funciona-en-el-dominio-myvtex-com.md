@@ -1,5 +1,5 @@
 ---
-title: "Página 'Mi Cuenta' no funciona en el dominio 'myvtex.com'"
+title: 'Página "Mi Cuenta" no funciona en el dominio "myvtex.com'
 id: 1EW2Fuwbt3vO9uF8b9zRz4
 status: PUBLISHED
 createdAt: 2019-03-19T13:18:13.540Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: my-account-page-does-not-work-on-domain-myvtex-com
+slugEN: pagina-mi-cuenta-no-funciona-en-el-dominio-myvtex-com
 locale: es
 kiStatus: Closed
 internalReference: 

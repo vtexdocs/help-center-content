@@ -1,5 +1,5 @@
 ---
-title: 'Voucher (GiftCard) de cliente no localizado en el módulo administrativo al realizar consulta por CPF'
+title: "Voucher (GiftCard) de cliente no localizado en el módulo administrativo al realizar consulta por CPF"
 id: 57ReN0F8H6iAsimuMoUe8Q
 status: PUBLISHED
 createdAt: 2017-07-27T15:42:13.805Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Portal (CMS),Payments
-slugEN: customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query
+slugEN: voucher-giftcard-de-cliente-no-localizado-en-el-modulo-administrativo-al-realizar-consulta-por-cpf
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 Al realizar una consulta de GiftCard en el Admin, por ID (documento), el voucher del cliente no aparece.
 
-![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/voucher-giftcard-de-cliente-no-localizado-en-el-modulo-administrativo-al-realizar-consulta-por-cpf_1.png)
+![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
 
 ## Simulación
 

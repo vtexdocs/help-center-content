@@ -1,5 +1,5 @@
 ---
-title: 'Shipping promotions applying in different SLAs causing divergence in Tax Hub'
+title: "Shipping promotions applying in different SLAs causing divergence in Tax Hub"
 id: 3uI0b4FmXUh4uue5kFyFNy
 status: PUBLISHED
 createdAt: 2023-10-09T13:42:08.767Z

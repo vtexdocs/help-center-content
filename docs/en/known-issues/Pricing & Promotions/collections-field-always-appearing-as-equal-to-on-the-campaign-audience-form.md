@@ -1,5 +1,5 @@
 ---
-title: "Collections Field always appearing as 'Equal To' on the Campaign Audience Form"
+title: 'Collections Field always appearing as "Equal To" on the Campaign Audience Form'
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z
@@ -22,7 +22,7 @@ internalReference: 697168
 
 Even if we set the field Collections as "Different from" and save the form, once we open it again the value is set as "Equal to". However, this behavior is only on the UI, on the backend the value is set correctly, having no impact on sales.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/collections-field-always-appearing-as-equal-to-on-the-campaign-audience-form_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XX8ZrsQE8jH3BqY6bVvUe7zIC/?name=image.png)
 
 
 

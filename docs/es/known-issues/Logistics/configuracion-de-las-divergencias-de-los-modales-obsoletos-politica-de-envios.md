@@ -1,5 +1,5 @@
 ---
-title: 'Configuración de las divergencias de los modales obsoletos - Política de envíos'
+title: "Configuración de las divergencias de los modales obsoletos - Política de envíos"
 id: TYWgIv5xOTUBWdC63FbK5
 status: PUBLISHED
 createdAt: 2022-05-18T18:20:55.870Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: modals-deprecated-divergences-setup-shipping-policy
+slugEN: configuracion-de-las-divergencias-de-los-modales-obsoletos-politica-de-envios
 locale: es
 kiStatus: No Fix
 internalReference: 445866
@@ -18,7 +18,9 @@ internalReference: 445866
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario con respecto a los modales usados y obsoletos que no coinciden.

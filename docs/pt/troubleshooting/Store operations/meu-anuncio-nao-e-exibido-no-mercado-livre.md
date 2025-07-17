@@ -13,12 +13,13 @@ slugEN: my-ad-is-not-displayed-on-mercado-livre
 locale: pt
 legacySlug: meu-anuncio-nao-e-exibido-no-mercado-livre
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Marketplace, Catálogo, Integração, Mercado Livre, Anúncio pausado
 ---
+
+**Tags:** Marketplace, Catálogo, Integração, Mercado Livre, Anúncio pausado 
 
 Quando um produto é removido ou desativado da política comercial utilizada na integração do Mercado Livre, a atualização dessa informação é enviada automaticamente para o marketplace, que, por sua vez, para de exibir o anúncio do produto.
 
-Outra possibilidade é quando um produto atinge o [estoque mínimo](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
+Outra possibilidade é quando um produto atinge o [estoque mínimo](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
 
 ## Solução
 
@@ -26,16 +27,16 @@ Para resolver esse problema, existem duas soluções que você pode considerar: 
 
 ### Verificando a política comercial
 
-É por meio da [política comercial](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre. 
+É por meio da [política comercial](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre. 
 
 Para validar se a política comercial está configurada corretamente no cadastro do produto, acesse __Catálogo > Todos os Produtos__ no Admin VTEX ou digite __Todos os Produtos__ na barra de busca no topo da página, e siga as instruções abaixo:
 
-1. Clique em __Buscar ou filtrar resultados__ e [busque pelo produto](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By#buscar-produtos) cujo anúncio não está disponível no Mercado Livre.
+1. Clique em __Buscar ou filtrar resultados__ e [busque pelo produto](/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By#buscar-produtos) cujo anúncio não está disponível no Mercado Livre.
 2. Na linha do produto desejado, clique em `Editar`.
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
 
-  ![politicas-comerciais-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/meu-anuncio-nao-e-exibido-no-mercado-livre_1.png)
+  ![politicas-comerciais-pt](https://images.ctfassets.net/alneenqid6w5/dRDUjjHbk3Ui0ZQEX7SYd/973f3dd4441c0b4646d0139380d13666/politicas-comerciais-pt.png)
 
  5. Clique no botão `Salvar`.
 
@@ -47,13 +48,13 @@ Se sua loja está operando com o <a href="https://help.vtex.com/pt/announcements
 
 Para validar a configuração do estoque limite, acesse Marketplace > Conexões > Marketplaces e Integrações no Admin VTEX ou digite Marketplaces e integrações na barra de busca no topo da página, e siga as instruções abaixo:
 
-1. [Busque pelo card de integração](https://help.vtex.com/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V#buscar-e-filtrar) do Mercado Livre.
+1. [Busque pelo card de integração](/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V#buscar-e-filtrar) do Mercado Livre.
 2. Na linha do card de integração desejado, clique em `Editar`.
 3. Em `Configurações`, verifique se há algum valor atribuído ao campo Estoque limite para pausa de anúncio.
 
-  ![estoque-limite-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
+  ![estoque-limite-pt](https://images.ctfassets.net/alneenqid6w5/wy7Bz5Dcm2pt24HNVHYdZ/4cf81a0315f7dbb465e1dd9a737d6ec9/estoque-limite-pt.png)
 
- 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
+ 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
 Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o <a href="https://help.vtex.com/support?/cultureInfo=pt-br">suporte VTEX</a>.

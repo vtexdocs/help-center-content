@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Aplicativo que lista Pontos de Retirada e os exibe como
 
 Uma das funcionalidades mais comuns de websites e lojas online é a disponibilização de mapas que sinalizam a localização de lojas físicas. Com o novo app [Store Locator](https://apps.vtex.com/vtex-store-locator/p#overview), as lojas desenvolvidas com VTEX IO podem utilizar o Google Maps para listar os Pontos de Retirada registrados na loja e exibi-los como marcadores em um mapa.
 
-![Maps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-03-19-apresente-pontos-de-retirada-no-google-maps_1.png)
+![Maps](https://images.ctfassets.net/alneenqid6w5/5Y2mR6XMrFEcRFTAapWrGY/ac3eb4449114856b2c0e573644840dec/mapas.png)
 
 ## O que mudou? 
 As lojas desenvolvidas com VTEX IO agora podem instalar o aplicativo Store Locator e apresentar os pontos de retirada no Google Maps através de marcadores.
@@ -32,4 +32,4 @@ Exibir a localização dos pontos de retirada no mapa ajuda o usuário a situar 
 ##  O que precisa ser feito? 
 Instale o app a partir da [VTEX App Store](https://apps.vtex.com/vtex-store-locator/p#overview) e siga as instruções [desta documentação](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-locator) para configurar. Lembre-se que você precisa ter Pontos de Retirada previamente cadastrados na sua loja.
 
-Para saber mais sobre Pontos de Retirada, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+Para saber mais sobre Pontos de Retirada, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).

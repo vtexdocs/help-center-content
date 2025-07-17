@@ -1,5 +1,5 @@
 ---
-title: 'As parcelas que usam Crédito do cliente não são exibidas como uma opção no checkout.'
+title: "As parcelas que usam Crédito do cliente não são exibidas como uma opção no checkout."
 id: 1bfMjWdCLGo5VdX2atDQc9
 status: PUBLISHED
 createdAt: 2024-08-09T14:43:33.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout
+slugEN: as-parcelas-que-usam-credito-do-cliente-nao-sao-exibidas-como-uma-opcao-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 1078804
@@ -18,7 +18,9 @@ internalReference: 1078804
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao registrar uma regra com uma opção de parcelamento, ela não aparece no checkout.

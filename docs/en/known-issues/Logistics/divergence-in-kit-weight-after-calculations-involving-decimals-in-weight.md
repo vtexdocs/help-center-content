@@ -1,5 +1,5 @@
 ---
-title: 'Divergence in kit weight after calculations involving decimals in weight'
+title: "Divergence in kit weight after calculations involving decimals in weight"
 id: 4wWyTmTAd2h2oxw5HtGn6V
 status: PUBLISHED
 createdAt: 2022-09-13T19:31:43.534Z

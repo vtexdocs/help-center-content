@@ -15,11 +15,11 @@ announcementImageID: ''
 announcementSynopsisES: 'Mejoras a Marketplace Network y se añadió a todas las tiendas que operan como sellers o marketplaces.'
 ---
 
-Uno de los desafíos de los *marketplaces* y *sellers* de nuestro ecosistema es conectarse con nuevos *partners* para ampliar su oferta y alcance. El módulo [Marketplace Network](https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita esta conexión, ya que funciona como un catálogo de *partners* interesados, y permite el registro, la consulta y el contacto entre *marketplaces* y *sellers*.
+Uno de los desafíos de los *marketplaces* y *sellers* de nuestro ecosistema es conectarse con nuevos *partners* para ampliar su oferta y alcance. El módulo [Marketplace Network](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita esta conexión, ya que funciona como un catálogo de *partners* interesados, y permite el registro, la consulta y el contacto entre *marketplaces* y *sellers*.
 
 Hemos rediseñado Marketplace Network para mejorar la experiencia. Además, ya no es necesario descargar la aplicación desde nuestra App Store, se añadió la funcionalidad a todas las tiendas que operan como *sellers* o *marketplaces* de forma automática.
 
-![Marketplace network tour ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-06-09-mejoras-a-marketplace-network_1.gif)
+![Marketplace network tour ES](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/27c4fdcd812b730a445b022c7232a5f2/Marketplace_network_tour_ES.gif)
 
 ## ¿Qué cambió?
 Se hicieron algunos cambios a las páginas de Marketplace Network:
@@ -42,4 +42,4 @@ Para utilizar Marketplace Network, debe crear un perfil para su negocio para que
 
 Después del registro, solo tiene que navegar por las secciones *Encontrar sellers* y *Encontrar marketplaces* para encontrar y ponerse en contacto con posibles *partners*.
 
-Vea más información en nuestra documentación completa sobre [Marketplace Network](https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 
+Vea más información en nuestra documentación completa sobre [Marketplace Network](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 

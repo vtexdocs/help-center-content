@@ -1,5 +1,5 @@
 ---
-title: 'Las órdenes con vendedores de cambio ejecutadas no respetan el período de gracia de la cancelación'
+title: "Las órdenes con vendedores de cambio ejecutadas no respetan el período de gracia de la cancelación"
 id: 25diaeQxIpSJIfCQxFizIV
 status: PUBLISHED
 createdAt: 2022-09-13T03:17:08.065Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-change-sellers-executed-is-not-respecting-the-cancellation-grace-period
+slugEN: las-ordenes-con-vendedores-de-cambio-ejecutadas-no-respetan-el-periodo-de-gracia-de-la-cancelacion
 locale: es
 kiStatus: Backlog
 internalReference: 656815
@@ -18,7 +18,9 @@ internalReference: 656815
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los pedidos con cambio de vendedor, tienen el respectivo pedido en el primer vendedor cancelado y se creará un nuevo pedido en el segundo vendedor. Si incluso el nuevo pedido está fuera del período de gracia de cancelación, el usuario todavía puede cancelar el pedido.

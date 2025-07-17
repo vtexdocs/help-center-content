@@ -1,5 +1,5 @@
 ---
-title: 'La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto'
+title: "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto"
 id: btvmr3xSpxnJnxbahLefT
 status: PUBLISHED
 createdAt: 2022-06-14T14:04:04.519Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: position-on-selected-image-on-pdp-doesnt-reset-when-changing-product
+slugEN: la-posicion-de-la-imagen-seleccionada-en-la-pdp-no-se-restablece-al-cambiar-de-producto
 locale: es
 kiStatus: Backlog
 internalReference: 595434
@@ -18,7 +18,9 @@ internalReference: 595434
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al seleccionar cualquier imagen en la PDP de un producto, si se pasa de esta PDP directamente a otra PDP, la posición de la imagen no se borrará - si estaba viendo la tercera imagen, verá directamente la tercera imagen en la nueva PDP.

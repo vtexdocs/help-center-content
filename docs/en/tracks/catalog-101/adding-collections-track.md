@@ -14,13 +14,15 @@ trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
 ---
 
->⚠️ Before creating a collection, you must configure the authorization by having a role with the **Write Collections** feature enabled in the **Collections** section of the Catalog profiles. Find out more [here](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc).
+<div class="alert alert-warning">
+  <p>Before creating a collection, you must configure the authorization by having a role with the <b>Write Collections</b> feature enabled in the <b>Collections</b> section of the Catalog profiles. Find out more <a href="https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc">here</a>.</p>
+</div>
 
 Follow the step by step below to add a new collection:
 
 1. In the Admin, click on **Catalog**.
 2. Click on **Collections**.
 3. Click on the `Create Collection` button.
-4. Fill in the [Collection fields](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
+4. Fill in the [Collection fields](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
 5. Click on `Create` to update the information filled in the form.
-6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) that will be part of the collection.
+6. Then, [select the products](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) that will be part of the collection.

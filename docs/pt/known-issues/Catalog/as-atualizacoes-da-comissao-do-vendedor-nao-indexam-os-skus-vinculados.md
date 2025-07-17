@@ -1,5 +1,5 @@
 ---
-title: 'As atualizações da comissão do vendedor não indexam os skus vinculados'
+title: "As atualizações da comissão do vendedor não indexam os skus vinculados"
 id: GNX6sFV0thQkMLWEwxya9
 status: PUBLISHED
 createdAt: 2023-08-31T14:44:39.162Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: seller-commission-updates-does-not-index-binded-skus
+slugEN: as-atualizacoes-da-comissao-do-vendedor-nao-indexam-os-skus-vinculados
 locale: pt
 kiStatus: Backlog
 internalReference: 891162
@@ -18,7 +18,9 @@ internalReference: 891162
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comerciante atualiza a comissão do vendedor na interface do usuário de gerenciamento do vendedor, os skus vinculados relacionados a esse vendedor não são indexados automaticamente.

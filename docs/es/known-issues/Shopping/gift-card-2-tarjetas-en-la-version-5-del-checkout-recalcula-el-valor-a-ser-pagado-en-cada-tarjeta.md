@@ -1,5 +1,5 @@
 ---
-title: 'Gift Card + 2 tarjetas en la versión 5 del checkout recalcula el valor a ser pagado en cada tarjeta'
+title: "Gift Card + 2 tarjetas en la versión 5 del checkout recalcula el valor a ser pagado en cada tarjeta"
 id: 2SHo3fuu0oqyiiyo4ME2Ca
 status: PUBLISHED
 createdAt: 2018-10-03T16:17:29.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: gift-card-2-cards-in-version-5-of-the-checkout-recalculates-the-amount-to-be-paid-on-each-card
+slugEN: gift-card-2-tarjetas-en-la-version-5-del-checkout-recalcula-el-valor-a-ser-pagado-en-cada-tarjeta
 locale: es
 kiStatus: Backlog
 internalReference: 

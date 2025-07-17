@@ -1,5 +1,5 @@
 ---
-title: 'Bundle weight is not updated according to the modifications of the SKU that comprise it'
+title: "Bundle weight is not updated according to the modifications of the SKU that comprise it"
 id: 5NmyLQCFnS6D1oymRW3jbq
 status: PUBLISHED
 createdAt: 2019-07-30T14:13:15.920Z

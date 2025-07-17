@@ -1,5 +1,5 @@
 ---
-title: 'O upload do File Manager com dois ou mais arquivos existentes não atualiza todos os arquivos, apenas o primeiro'
+title: "O upload do File Manager com dois ou mais arquivos existentes não atualiza todos os arquivos, apenas o primeiro"
 id: 2LHdzsFFe83E1Tf0Z4j66y
 status: PUBLISHED
 createdAt: 2022-03-17T00:20:51.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: file-manager-upload-with-two-one-more-existent-files-does-not-update-all-the-files-only-the-first
+slugEN: o-upload-do-file-manager-com-dois-ou-mais-arquivos-existentes-nao-atualiza-todos-os-arquivos-apenas-o-primeiro
 locale: pt
 kiStatus: No Fix
 internalReference: 418253
@@ -18,7 +18,9 @@ internalReference: 418253
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O upload do gerenciador de arquivos com dois ou mais arquivos existentes não atualiza todos os arquivos, apenas o primeiro

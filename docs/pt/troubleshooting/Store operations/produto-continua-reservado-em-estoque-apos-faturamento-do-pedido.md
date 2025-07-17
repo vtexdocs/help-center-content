@@ -13,20 +13,21 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: pt
 legacySlug: produto-continua-reservado-em-estoque-apos-faturamento-do-pedido
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Estoque, Reserva
 ---
+
+**Tags:** Estoque, Reserva
 
 A reserva de estoque é uma funcionalidade essencial, que garante que o produto vendido em um pedido não seja disponibilizado para outro cliente até que o pedido seja completamente processado. No entanto, uma dúvida comum entre lojistas é entender por que a reserva permanece ativa, mesmo após o faturamento do pedido.
 
 Após a venda de um produto, ele passa pelos seguintes status no inventário da loja, que refletem a transição do pedido:
 
-1. [Reserva autorizada](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): ocorre imediatamente após a finalização da compra e a criação do pedido.
+1. [Reserva autorizada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): ocorre imediatamente após a finalização da compra e a criação do pedido.
 
-2. [Reserva confirmada](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status é alcançado após a aprovação do pagamento do pedido.
+2. [Reserva confirmada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status é alcançado após a aprovação do pagamento do pedido.
 
-3. [Reserva reconhecida](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): o pedido entra no status **Preparando entrega**, indicando que o produto está prestes a ser enviado.
+3. [Reserva reconhecida](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): o pedido entra no status **Preparando entrega**, indicando que o produto está prestes a ser enviado.
 
-Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Soluções
 
@@ -55,3 +56,4 @@ Para atualizar manualmente o saldo do inventário, siga as etapas abaixo:
 Ao atingir o status **Preparando Entrega**, é fundamental que o sistema de estoque atualize o produto, removendo-o do status de reservado e ajustando a quantidade disponível. Para isso, o ERP deve sincronizar o saldo de produtos em estoque, descontando os produtos que já estão reservados para pedidos em andamento.
 
 A configuração e integração do ERP são de responsabilidade do lojista. Esse processo pode ser automatizado através do endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), que permite a comunicação entre o sistema ERP e o estoque da loja, garantindo que as informações estejam sempre atualizadas.
+

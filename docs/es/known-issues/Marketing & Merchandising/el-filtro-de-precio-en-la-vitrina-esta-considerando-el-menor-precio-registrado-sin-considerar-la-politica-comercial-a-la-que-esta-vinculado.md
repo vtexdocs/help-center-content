@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de precio en la vitrina está considerando el menor precio registrado sin considerar la política comercial a la que está vinculado'
+title: "El filtro de precio en la vitrina está considerando el menor precio registrado sin considerar la política comercial a la que está vinculado"
 id: 1xbpUOsLDGIgqeQ6UCCgK0
 status: PUBLISHED
 createdAt: 2017-04-03T20:54:18.423Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: the-price-filter-in-the-store-window-shows-the-lowest-price-registered-ignoring-the-sales-policy-to-which-it-is-linked
+slugEN: el-filtro-de-precio-en-la-vitrina-esta-considerando-el-menor-precio-registrado-sin-considerar-la-politica-comercial-a-la-que-esta-vinculado
 locale: es
 kiStatus: Backlog
 internalReference: 

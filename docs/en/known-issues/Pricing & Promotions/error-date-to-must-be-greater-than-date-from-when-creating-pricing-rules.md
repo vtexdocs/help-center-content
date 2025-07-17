@@ -1,5 +1,5 @@
 ---
-title: "Error 'Date to' must be greater than 'Date from' when creating pricing rules"
+title: 'Error "Date to" must be greater than "Date from" when creating pricing rules'
 id: 6jEbSXEvjfJMGros69POZ7
 status: PUBLISHED
 createdAt: 2024-10-10T13:21:06.386Z

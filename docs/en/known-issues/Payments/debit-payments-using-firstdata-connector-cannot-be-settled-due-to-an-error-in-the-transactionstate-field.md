@@ -1,5 +1,5 @@
 ---
-title: 'Debit payments using Firstdata connector cannot be settled due to an error in the TransactionState field'
+title: "Debit payments using Firstdata connector cannot be settled due to an error in the TransactionState field"
 id: 6imTj4PTpJGGFqyhSLTPu9
 status: PUBLISHED
 createdAt: 2022-03-03T21:59:55.119Z

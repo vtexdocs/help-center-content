@@ -15,17 +15,17 @@ announcementImageID: ''
 announcementSynopsisPT: 'A nova interface para mapear categorias e atributos chega para substituir a planilha de mapeamento'
 ---
 
-Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](https://help.vtex.com/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos liberando oficialmente para todos os clientes VTEX que operam como sellers no Mercado Livre a nova interface de mapeamento de categorias e atributos.
+Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos liberando oficialmente para todos os clientes VTEX que operam como sellers no Mercado Livre a nova interface de mapeamento de categorias e atributos.
 
-Antes da certificação, os sellers precisavam preencher a [planilha de mapeamento](https://help.vtex.com/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) com as categorias e atributos dos produtos que desejavam anunciar no Mercado Livre. A nova interface para mapear categorias e atributos chega para substituir a planilha de mapeamento.
+Antes da certificação, os sellers precisavam preencher a [planilha de mapeamento](/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) com as categorias e atributos dos produtos que desejavam anunciar no Mercado Livre. A nova interface para mapear categorias e atributos chega para substituir a planilha de mapeamento.
 
-![announcement mapperPT (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-11-19-integracao-com-o-mercado-livre-nova-interface-para-mapear-categorias-e_1.gif)
+![announcement mapperPT (2)](https://images.contentful.com/alneenqid6w5/1LlkDGWoB39iUgkixjpTmN/130f95a8bad70defbab742752dbbe403/announcement_mapperPT__2_.gif)
 
 ## O que mudou?
 
-Buscando melhorar a experiência de todos os nossos clientes que utilizam a [integração do Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), desenvolvemos uma interface que simplifica o mapeamento de categorias e atributos. 
+Buscando melhorar a experiência de todos os nossos clientes que utilizam a [integração do Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), desenvolvemos uma interface que simplifica o mapeamento de categorias e atributos. 
 
-Agora não será mais necessário mapear os produtos utilizando a [planilha de mapeamento](https://help.vtex.com/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) para enviar os produtos do seu catálogo VTEX para o Mercado Livre. A Planilha será descontinuada após a interface ser disponibilizada para todos os clientes.
+Agora não será mais necessário mapear os produtos utilizando a [planilha de mapeamento](/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) para enviar os produtos do seu catálogo VTEX para o Mercado Livre. A Planilha será descontinuada após a interface ser disponibilizada para todos os clientes.
 
 ## Por que fizemos essa mudança?
 
@@ -41,4 +41,4 @@ A nova interface já está disponível para toda nossa base de clientes que util
 
 Todos os clientes que utilizavam a planilha de mapeamento para enviar seus produtos não precisarão utilizá-la mais, e a planilha será descontinuada até o fim de novembro de 2021. Os produtos que já foram mapeados pela planilha continuam sendo anunciados pelo Mercado Livre. Apenas os novos produtos que serão enviados terão que ser mapeados utilizando a nova interface. 
 
-Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).

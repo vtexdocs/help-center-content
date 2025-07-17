@@ -1,5 +1,5 @@
 ---
-title: 'Incoherencia al buscar facetas que contienen resultados con valores de especificación grandes.'
+title: "Incoherencia al buscar facetas que contienen resultados con valores de especificación grandes."
 id: 4taz7hmgvjn3hqWyyjxiKz
 status: PUBLISHED
 createdAt: 2023-05-11T17:42:06.008Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inconsistency-when-searching-for-facets-that-contains-results-with-large-specification-values
+slugEN: incoherencia-al-buscar-facetas-que-contienen-resultados-con-valores-de-especificacion-grandes
 locale: es
 kiStatus: Backlog
 internalReference: 824198
@@ -18,7 +18,9 @@ internalReference: 824198
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de facetas tiene un campo specificationFilters y este campo puede romper el retorno de la API cuando los valores registrados en cualquier especificación de esa categoría son demasiado grandes

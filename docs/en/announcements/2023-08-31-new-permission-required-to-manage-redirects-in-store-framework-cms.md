@@ -19,7 +19,7 @@ announcementSynopsisEN: 'Creating redirects in the Store Framework CMS requires 
 
 ## What has changed?
 
-To allow Admin users to create, edit, and remove redirects in the CMS, they must have a role with the [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource.
+To allow Admin users to create, edit, and remove redirects in the CMS, they must have a role with the [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource.
 
 ## Why did we make this change?
 
@@ -27,8 +27,8 @@ We added this required permission for security purposes. Thus, only Admin users 
 
 ## What needs to be done?
 
-For an existing Admin user to be able to manage redirects in the Store Framework CMS, they need to be assigned a user role that includes the **CMS Settings** resource. Check the instructions for editing a user's role in the [How to manage users article](https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users).
+For an existing Admin user to be able to manage redirects in the Store Framework CMS, they need to be assigned a user role that includes the **CMS Settings** resource. Check the instructions for editing a user's role in the [How to manage users article](/en/tutorial/managing-users--tutorials_512#editing-users).
 
-If you want to use a customized role, you can create a new role or edit an existing one to include the **CMS Settings** resource. Check the instructions for creating and editing roles in the [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
+If you want to use a customized role, you can create a new role or edit an existing one to include the **CMS Settings** resource. Check the instructions for creating and editing roles in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
 
-Learn more about redirects in the [Managing URL redirects](https://help.vtex.com/en/tutorial/managing-url-redirects--3UJuFrU8imSVWg134mkvJV) article.
+Learn more about redirects in the [Managing URL redirects](/en/tutorial/managing-url-redirects--3UJuFrU8imSVWg134mkvJV) article.

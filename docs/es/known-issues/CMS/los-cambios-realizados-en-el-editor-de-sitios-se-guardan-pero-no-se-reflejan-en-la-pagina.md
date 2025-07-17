@@ -1,5 +1,5 @@
 ---
-title: 'Los cambios realizados en el Editor de Sitios se guardan pero no se reflejan en la página'
+title: "Los cambios realizados en el Editor de Sitios se guardan pero no se reflejan en la página"
 id: 2peoCL4YJTTike5XPwrxWT
 status: PUBLISHED
 createdAt: 2023-04-06T18:58:03.576Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: changes-made-in-site-editor-are-saved-but-dont-reflect-on-the-page
+slugEN: los-cambios-realizados-en-el-editor-de-sitios-se-guardan-pero-no-se-reflejan-en-la-pagina
 locale: es
 kiStatus: Backlog
 internalReference: 786145
@@ -18,7 +18,9 @@ internalReference: 786145
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando creas una nueva página en Pages y luego cambias su ruta a algo diferente, el routeId no cambia. Así que cuando cree otra página con la misma ruta que la primera, el routeId seguirá siendo el mismo. Y entonces el editor del sitio tendrá problemas para guardar el contenido de estas dos páginas debido al conflicto en sus rutas.

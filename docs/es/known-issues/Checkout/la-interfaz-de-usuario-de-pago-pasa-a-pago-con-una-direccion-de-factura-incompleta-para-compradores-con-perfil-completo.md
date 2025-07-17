@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de pago pasa a Pago con una dirección de factura incompleta para compradores con perfil completo.'
+title: "La interfaz de usuario de pago pasa a Pago con una dirección de factura incompleta para compradores con perfil completo."
 id: NmN6oNKp1isyxssTE5jPR
 status: PUBLISHED
 createdAt: 2023-11-27T17:40:11.335Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-goes-to-payment-with-an-incomplete-invoice-address-for-shoppers-with-complete-profile
+slugEN: la-interfaz-de-usuario-de-pago-pasa-a-pago-con-una-direccion-de-factura-incompleta-para-compradores-con-perfil-completo
 locale: es
 kiStatus: Fixed
 internalReference: 937615
@@ -18,7 +18,9 @@ internalReference: 937615
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un comprador tiene un perfil completo y la tienda está configurada para utilizar una dirección de factura para la recogida, la interfaz de usuario pasará a Pago con una dirección de factura incompleta.
@@ -31,7 +33,7 @@ Cuando un comprador tiene un perfil completo y la tienda está configurada para 
 
 
 - Configurar la dirección de factura para la recogida;
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/la-interfaz-de-usuario-de-pago-pasa-a-pago-con-una-direccion-de-factura-incompleta-para-compradores-con-perfil-completo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1zJ19Lq9oJ5CHdkaHUfw4SAka/?name=image.png)
 
 - Después de añadir productos a la cesta, utilice un correo electrónico con un perfil completo;
 - La interfaz de usuario pasará al pago incluso con una dirección de factura incompleta en el sistema de perfiles.

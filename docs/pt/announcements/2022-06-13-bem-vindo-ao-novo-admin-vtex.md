@@ -19,7 +19,7 @@ As empresas digitais têm buscado cada vez mais ferramentas que permitam que ela
 
 Bem-vindo à [experiência do novo Admin](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store overview gif PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex_1.gif)
+![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 ## O que mudou?
 
@@ -45,9 +45,11 @@ As outras páginas do Admin serão redesenhadas ao longo do ano de 2022.
 
 ### Alterações no menu de navegação
 
-Nenhuma página foi removida do Admin VTEX, mas reorganizamos o menu de navegação para estar alinhado às páginas mais acessadas e refletir as prioridades da sua operação. Saiba mais sobre a nossa [navegação aprimorada](https://help.vtex.com/pt/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
+Nenhuma página foi removida do Admin VTEX, mas reorganizamos o menu de navegação para estar alinhado às páginas mais acessadas e refletir as prioridades da sua operação. Saiba mais sobre a nossa [navegação aprimorada](/pt/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
 
->ℹ️ É possível usar a barra de pesquisa na parte superior do seu Admin VTEX para pesquisar páginas específicas. As páginas que não fazem parte da nossa edição default do Admin VTEX podem ser encontradas em Aplicativos > Apps instalados.
+<div class="alert alert-info">
+É possível usar a barra de pesquisa na parte superior do seu Admin VTEX para pesquisar páginas específicas. As páginas que não fazem parte da nossa edição default do Admin VTEX podem ser encontradas em Aplicativos > Apps instalados.  
+</div>
 
 Além de reorganizar a ordem das páginas, também mudamos alguns nomes do menu de navegação para ficarem mais consistentes e alinhados com as funcionalidades oferecidas pela VTEX. As tabelas abaixo listam as alterações nos nomes das seções e das páginas.
 
@@ -75,11 +77,11 @@ Além de reorganizar a ordem das páginas, também mudamos alguns nomes do menu 
 
 ## Por que fizemos essa mudança?
 
-Nosso objetivo é trazer consistência à sua experiência, reduzindo a complexidade desnecessária. Para atingir este objetivo, estamos redesenhando várias partes da experiência e implementando mudanças estruturais na forma como você experiencia o Admin VTEX. A [nova página inicial](https://help.vtex.com/pt/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy) também foi redesenhada para funcionar como um painel de controle para toda a sua operação comercial, com dados acionáveis que ajudam a informar suas decisões.
+Nosso objetivo é trazer consistência à sua experiência, reduzindo a complexidade desnecessária. Para atingir este objetivo, estamos redesenhando várias partes da experiência e implementando mudanças estruturais na forma como você experiencia o Admin VTEX. A [nova página inicial](/pt/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy) também foi redesenhada para funcionar como um painel de controle para toda a sua operação comercial, com dados acionáveis que ajudam a informar suas decisões.
 
 ## O que precisa ser feito?
 
 Se você quiser participar do nosso programa Beta, clique [aqui](https://content.vtex.com/join-new-admin-beta-program-pt/). A equipe da VTEX entrará em contato e, assim que você aderir ao nosso programa Beta, todos os usuários na conta da sua loja serão atualizados para a nova experiência. Nenhuma configuração adicional é necessária.
 
-Para ajudar você a navegar na nova experiência, criamos um [novo Help Center](https://help.vtex.com/pt/v4) dedicado à experiência redesenhada, onde você poderá acessar [artigos de ajuda sobre as novas páginas](https://help.vtex.com/pt/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k) e acompanhar os lançamentos enquanto redesenhamos toda a plataforma.
+Para ajudar você a navegar na nova experiência, criamos um [novo Help Center](/pt/v4) dedicado à experiência redesenhada, onde você poderá acessar [artigos de ajuda sobre as novas páginas](/pt/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k) e acompanhar os lançamentos enquanto redesenhamos toda a plataforma.
 

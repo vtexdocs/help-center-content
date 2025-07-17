@@ -19,12 +19,12 @@ Uma promoção para um cluster de clientes é uma promoção válida apenas para
 
 Configurar clusters de clientes permite criar uma variedade de promoções personalizadas para públicos segmentados.
 
-Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](https://help.vtex.com/pt/faq/como-criar-um-cluster-de-clientes/).
+Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](/pt/faq/como-criar-um-cluster-de-clientes/).
 
 Com a propriedade definida, siga as instruções abaixo.
 
 1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
-2. Busque pela promoção em que deseja realizar essa configuração ou [crie uma nova promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes/).
+2. Busque pela promoção em que deseja realizar essa configuração ou [crie uma nova promoção](/pt/tutorial/como-criar-promocoes/).
 3. Navegue para a área **Quais as condições para a promoção ser válida?**
 4. Selecione a opção **Cluster de clientes**.
 5. Selecione a configuração de critérios que desejar:
@@ -33,7 +33,11 @@ Com a propriedade definida, siga as instruções abaixo.
 6. Preencha o campo com o cluster que deseja relacionar à promoção — [veja abaixo mais informações sobre como preencher este campo](#como-preencher-o-campo-cluster-de-clientes). Você pode adicionar mais de um cluster, clicando no botão `+`.
 7. Clique no botão `Salvar`.
 
->ℹ️ Você pode inserir no máximo 50 clusters na opção **Cluster de clientes**.
+<div class="alert alert-info">
+<p>
+Você pode inserir no máximo 50 clusters na opção <strong>Cluster de clientes</strong>. 
+</p>
+</div>
 
 ## Como preencher o campo Cluster de clientes
 
@@ -44,23 +48,31 @@ Existem dois critérios possíveis para a seleção de um cluster para a promoç
 
 Perceba que, em ambas opções, `{nomedapropriedade}` deve ser alterado pelo nome do campo na entidade de dados e `{"valor"}` deve ser substituído pelo valor definido no Master Data.
 
->ℹ️ O uso das aspas duplas varia [de acordo com o tipo de campo](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) criado no Master Data.
+<div class="alert alert-info">
+<p>
+O uso das aspas duplas varia <a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos">de acordo com o tipo de campo</a> criado no Master Data.
+</p>
+</div>
 
 ### Função de igualdade
 
 A expressão `{nomedapropriedade}={"valor"}` deve ser utilizada caso a informação contida no perfil do cliente referente à propriedade em questão deva ser **exatamente igual** ao valor preenchido na expressão.
 
-Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valor `true` (utilizado em um campo do tipo **[Boolean](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, em que os valores são sempre verdadeiro ou falso) receberão a promoção. 
+Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valor `true` (utilizado em um campo do tipo **[Boolean](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, em que os valores são sempre verdadeiro ou falso) receberão a promoção. 
 
 Dessa forma, você poderia configurar também `funcionario=false`, em que apenas registros `funcionario` com valor `false` no campo receberiam a promoção.
 
-![Campo funcionário Master Data PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_1.png)
+![Campo funcionário Master Data PT](https://images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/06fd3f196a18b3d331742a01bb4ef2d6/Campo_funcion__rio_Master_Data_PT.png)
 
-![Cluster de clientes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_2.png)
+![Cluster de clientes PT](https://images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/c1d0536a53150d809b8c6c74b5a81b12/Cluster_de_clientes_PT.png)
 
-Considerando um campo do tipo **[Varchar](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
+Considerando um campo do tipo **[Varchar](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
->⚠️ Para campos do tipo **Varchar**, o valor informado na seção **Cluster de clientes **da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção **Cluster de clientes** de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada.
+<div class="alert alert-warning">
+<p>
+Para campos do tipo <strong>Varchar</strong>, o valor informado na seção <strong>Cluster de clientes </strong>da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção <strong>Cluster de clientes</strong> de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada.
+</p>
+</div>
 
 Portanto, considerando o exemplo acima de um campo tipo **Varchar** com os valores cadastrados `"sim"` e `"não"`, o cadastro na promoção obrigatoriamente será `funcionario="sim"`. Ao cadastrar na promoção o termo `funcionario="Sim"`, por exemplo, o cluster de clientes desejado não receberá a promoção.
 
@@ -70,8 +82,8 @@ A expressão `{nomedapropriedade} contains {valor}` deve ser utilizada quando a 
 
 Por exemplo, caso você queira criar um cluster apenas com clientes cujos emails contenham `@teste.com`, a configuração seria igual à representada na imagem abaixo.
 
-![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_3.png)
+![Campo Email Master Data](https://images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4bfb1189f8f967ef9ed77e081291931b/Campo_Email_Master_Data.png)
 
-![cluster email PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criando-promocao-para-um-cluster-de-clientes_4.PNG)
+![cluster email PT](https://images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/271cdcec5cdf081311215a57cfa2994c/cluster_email_PT.PNG)
 
 Nesse caso, `email contains test.com` será verdadeiro, por exemplo, quando o valor for `joao@test.com` e falso quando o valor for `joao@test.org`.

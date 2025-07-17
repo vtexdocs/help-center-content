@@ -1,5 +1,5 @@
 ---
-title: '12 digits cardNumber being accepted in checkout and causing stuck transactions'
+title: "12 digits cardNumber being accepted in checkout and causing stuck transactions"
 id: 2vLsFwO5Dt2gUL9kUTZ8s3
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:42.814Z

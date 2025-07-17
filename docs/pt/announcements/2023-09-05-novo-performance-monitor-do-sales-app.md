@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Performance Monitor é a funcionalidade que permite que os vendedores tenham acesso ao quanto venderam usando a solução.'
 ---
 
-O [Performance Monitor](https://help.vtex.com/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/5pqtuvi97FFZiGf7MlSe8q) é a nova funcionalidade do Sales App. Com ela seus vendedores sabem exatamente o quanto venderam com a solução e como estão seus principais indicadores de varejo como: Ticket Médio, Peças por Atendimento e Preço Médio por item vendido. Além disso, também é exibido para os vendedores como estão em relação a média da sua loja.
+O [Performance Monitor](/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/5pqtuvi97FFZiGf7MlSe8q) é a nova funcionalidade do Sales App. Com ela seus vendedores sabem exatamente o quanto venderam com a solução e como estão seus principais indicadores de varejo como: Ticket Médio, Peças por Atendimento e Preço Médio por item vendido. Além disso, também é exibido para os vendedores como estão em relação a média da sua loja.
 
 Esses dados também estão disponíveis para os gestores que acessam o Portal Admin da VTEX, permitindo acompanhar de perto o desempenho de seus vendedores e lojas. 
 # O que mudou?
@@ -25,8 +25,8 @@ A funcionalidade está ativada por padrão para todas as contas que utilizem o a
 
 Para mais informações sobre o Sales App, consulte a nossa documentação:
 
-- [Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-- [Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-- [Sales App - Usando o app](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-- [Estratégias de Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
+- [Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+- [Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+- [Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+- [Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
 

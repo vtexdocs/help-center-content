@@ -1,5 +1,5 @@
 ---
-title: 'Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal.'
+title: "Bandeira de entrega em Meus Pedidos. Devido a um erro no preenchimento da Nota Fiscal."
 id: 14iGvVibb5ac4FNvEsmCAi
 status: PUBLISHED
 createdAt: 2022-03-21T19:58:25.489Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice
+slugEN: bandeira-de-entrega-em-meus-pedidos-devido-a-um-erro-no-preenchimento-da-nota-fiscal
 locale: pt
 kiStatus: Backlog
 internalReference: 547053
@@ -18,7 +18,9 @@ internalReference: 547053
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

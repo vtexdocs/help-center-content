@@ -29,11 +29,13 @@ For example, suppose the total shipping cost is US$ 25 for five items (product A
 
 For readability purposes, the term "weight" was sometimes used to refer to "mass" in this documentation. Even though they have different meanings, we opted to use this terminology according to everyday use.
 
->❗ The weight of the product cannot be zero. This can cause problems when calculating the shipping cost in the cart.
+<div class="alert alert-danger">
+The weight of the product cannot be zero. This can cause problems when calculating the shipping cost in the cart.
+</div>
 
 ## Viewing proportional shipping costs
 
 You can see how proportional weight-based shipping costs are calculated in the Admin or via API. In the Admin, go to the **Inventory & shipping** module, simulate a delivery, and you will see detailed shipping values. You can also use an API and view these values in the order's JSON — as returned by the route[ Get order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) — for each item in the logisticsInfo field of their details.
 
-Learn more in our article[ Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144).
+Learn more in our article[ Shipping simulator](/en/tutorial/simulacao-de-frete--tutorials_144).
 

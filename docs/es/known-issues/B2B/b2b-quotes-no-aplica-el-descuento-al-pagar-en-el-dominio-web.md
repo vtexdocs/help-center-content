@@ -1,5 +1,5 @@
 ---
-title: 'B2B Quotes no aplica el descuento al pagar en el dominio web'
+title: "B2B Quotes no aplica el descuento al pagar en el dominio web"
 id: 2VWm5NVqW1LRSZINAAjM7B
 status: PUBLISHED
 createdAt: 2023-06-22T17:17:04.039Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-quotes-doesnt-apply-discount-at-checkout-in-the-website-domain
+slugEN: b2b-quotes-no-aplica-el-descuento-al-pagar-en-el-dominio-web
 locale: es
 kiStatus: Fixed
 internalReference: 849080
@@ -18,7 +18,9 @@ internalReference: 849080
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando una cotización tiene un descuento aplicado por un vendedor, las Cotizaciones B2B no aplicarán el descuento al momento de pagar en el dominio del sitio web.

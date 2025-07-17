@@ -1,5 +1,5 @@
 ---
-title: 'Cupons criados como arquivados temporariamente'
+title: "Cupons criados como arquivados temporariamente"
 id: 783FJICQzATVkJ2uPgk9Mq
 status: PUBLISHED
 createdAt: 2023-09-01T13:34:21.842Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: coupons-created-as-archived-temporarrily
+slugEN: cupons-criados-como-arquivados-temporariamente
 locale: pt
 kiStatus: Backlog
 internalReference: 892041
@@ -18,7 +18,9 @@ internalReference: 892041
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando um cupom é criado, a interface do usuário/API mostra que ele está arquivado por alguns minutos (~2) quando, na verdade (no banco de dados de preços), o cupom está ativo.

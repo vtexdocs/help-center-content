@@ -1,5 +1,5 @@
 ---
-title: 'O uso do layout do controle deslizante com a propriedade navigationStep em 1 faz com que os últimos pontos fiquem vazios'
+title: "O uso do layout do controle deslizante com a propriedade navigationStep em 1 faz com que os últimos pontos fiquem vazios"
 id: 28hbmflHNhAQmHN51Y6abX
 status: PUBLISHED
 createdAt: 2023-09-29T14:41:34.387Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: using-sliderlayout-with-the-prop-navigationstep-to-1-causes-last-dots-to-be-empty
+slugEN: o-uso-do-layout-do-controle-deslizante-com-a-propriedade-navigationstep-em-1-faz-com-que-os-ultimos-pontos-fiquem-vazios
 locale: pt
 kiStatus: Backlog
 internalReference: 910125
@@ -18,7 +18,9 @@ internalReference: 910125
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando temos um bloco de layout de controle deslizante com a propriedade `navigationStep` definida como 1 e `itemsPerPage` diferente de 1, o último ponto fica vazio e não é possível excluí-lo.

@@ -1,5 +1,5 @@
 ---
-title: "Erro 'não pode criar critérios de busca! erro: o filtro já existe: 'brandId' ao criar uma promoção excluindo mais de 1 marca."
+title: 'Erro "não pode criar critérios de busca! erro: o filtro já existe: "brandId" ao criar uma promoção excluindo mais de 1 marca.'
 id: 6s6cvYpImIBEH0SLqE3J2U
 status: PUBLISHED
 createdAt: 2022-09-22T15:53:15.001Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand
+slugEN: erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca
 locale: pt
 kiStatus: No Fix
 internalReference: 663698
@@ -18,7 +18,9 @@ internalReference: 663698
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar uma promoção, o cliente pode decidir a quais itens a promoção será aplicada.

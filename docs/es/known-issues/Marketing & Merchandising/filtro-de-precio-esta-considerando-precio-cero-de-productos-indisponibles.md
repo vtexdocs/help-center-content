@@ -1,5 +1,5 @@
 ---
-title: 'Filtro de precio está considerando precio (cero) de productos indisponibles'
+title: "Filtro de precio está considerando precio (cero) de productos indisponibles"
 id: 10L0KKaGrewOQQWSw6Sms0
 status: PUBLISHED
 createdAt: 2017-04-06T18:12:42.797Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: price-filter-considers-prize-zero-from-unavailable-products
+slugEN: filtro-de-precio-esta-considerando-precio-cero-de-productos-indisponibles
 locale: es
 kiStatus: Backlog
 internalReference: 

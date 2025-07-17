@@ -1,5 +1,5 @@
 ---
-title: 'Divergência no tempo de entrega - netshoes'
+title: "Divergência no tempo de entrega - netshoes"
 id: 0AQU3vi3J0RPLtNcrMQ1N
 status: PUBLISHED
 createdAt: 2022-09-23T21:17:35.069Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: divergence-delivery-time-netshoes
+slugEN: divergencia-no-tempo-de-entrega-netshoes
 locale: pt
 kiStatus: Backlog
 internalReference: 635509
@@ -18,7 +18,9 @@ internalReference: 635509
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

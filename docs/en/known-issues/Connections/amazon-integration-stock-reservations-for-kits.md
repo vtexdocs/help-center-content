@@ -1,5 +1,5 @@
 ---
-title: 'Amazon integration stock reservations for KITS'
+title: "Amazon integration stock reservations for KITS"
 id: 6ZEvHuGCOEcuQTya1oDOyu
 status: PUBLISHED
 createdAt: 2023-05-22T14:28:54.846Z

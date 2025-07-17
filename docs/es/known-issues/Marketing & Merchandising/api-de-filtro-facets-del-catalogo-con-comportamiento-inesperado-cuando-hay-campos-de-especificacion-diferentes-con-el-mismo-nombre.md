@@ -1,5 +1,5 @@
 ---
-title: 'API de filtro (Facets) del catálogo con comportamiento inesperado cuando hay campos de especificación diferentes con el mismo nombre'
+title: "API de filtro (Facets) del catálogo con comportamiento inesperado cuando hay campos de especificación diferentes con el mismo nombre"
 id: 5kEXFKmO3YAyICAa6Usa28
 status: PUBLISHED
 createdAt: 2017-08-16T19:59:34.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-filter-api-facets-exhibits-unexpected-behavior-when-fields-of-different-specifications-have-the-same-name
+slugEN: api-de-filtro-facets-del-catalogo-con-comportamiento-inesperado-cuando-hay-campos-de-especificacion-diferentes-con-el-mismo-nombre
 locale: es
 kiStatus: Backlog
 internalReference: 

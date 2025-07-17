@@ -1,5 +1,5 @@
 ---
-title: 'Los usuarios registrados a través de la pantalla de reglas de usuario guardan el campo nombre como nulo.'
+title: "Los usuarios registrados a través de la pantalla de reglas de usuario guardan el campo nombre como nulo."
 id: 3jyQ213exrPrH0ks1PpXqg
 status: PUBLISHED
 createdAt: 2024-10-15T16:22:24.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: users-registered-via-the-user-rules-screen-save-the-name-field-as-null
+slugEN: los-usuarios-registrados-a-traves-de-la-pantalla-de-reglas-de-usuario-guardan-el-campo-nombre-como-nulo
 locale: es
 kiStatus: Backlog
 internalReference: 1117274
@@ -18,7 +18,9 @@ internalReference: 1117274
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los usuarios registrados a través de la pantalla de reglas de usuario guardan el campo nombre como nulo.

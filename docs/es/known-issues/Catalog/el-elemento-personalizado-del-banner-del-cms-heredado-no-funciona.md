@@ -1,5 +1,5 @@
 ---
-title: 'El elemento personalizado del banner del CMS heredado no funciona'
+title: "El elemento personalizado del banner del CMS heredado no funciona"
 id: 3ezW1BTc2nSvHpp0mAYhwh
 status: PUBLISHED
 createdAt: 2024-02-07T13:44:20.722Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: legacy-cmss-banner-custom-element-not-working
+slugEN: el-elemento-personalizado-del-banner-del-cms-heredado-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 978466
@@ -18,7 +18,9 @@ internalReference: 978466
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la pestaña "elementos personalizados" de las configuraciones del CMS heredado no funciona correctamente.

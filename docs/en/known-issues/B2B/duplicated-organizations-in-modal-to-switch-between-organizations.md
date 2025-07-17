@@ -1,5 +1,5 @@
 ---
-title: 'Duplicated organizations in modal to switch between organizations'
+title: "Duplicated organizations in modal to switch between organizations"
 id: 7pOIj0RzcmA5mZy60OpfRk
 status: PUBLISHED
 createdAt: 2024-02-22T16:51:15.327Z

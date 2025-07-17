@@ -1,5 +1,5 @@
 ---
-title: 'UI informs that there is no SLA for address that had previously available SLA'
+title: "UI informs that there is no SLA for address that had previously available SLA"
 id: 2xXtoKl1OBiiyPyTVeUTrg
 status: PUBLISHED
 createdAt: 2022-05-24T21:48:17.537Z
@@ -18,7 +18,9 @@ internalReference: 585249
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario conectado llega a la fase de envío, con la dirección ya preseleccionada y con el ANS disponible para esa ubicación, al editar su dirección con exactamente la misma información rellenada anteriormente, la UI informa que no hay entrega disponible. Incluso la respuesta de la API es que sí hay SLA disponible (ya que es la misma dirección).

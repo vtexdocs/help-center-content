@@ -1,5 +1,5 @@
 ---
-title: 'Os valores permitidos do anexo não são atualizados quando ele é adicionado aos itens'
+title: "Os valores permitidos do anexo não são atualizados quando ele é adicionado aos itens"
 id: 1JjFJJGsUaLWvthJ7kxSBw
 status: PUBLISHED
 createdAt: 2023-10-17T20:16:40.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: attachments-permitted-values-are-not-updated-when-its-added-to-items
+slugEN: os-valores-permitidos-do-anexo-nao-sao-atualizados-quando-ele-e-adicionado-aos-itens
 locale: pt
 kiStatus: Backlog
 internalReference: 920970
@@ -18,7 +18,9 @@ internalReference: 920970
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os valores permitidos do anexo não são atualizados se ele foi adicionado a um item antes de alterar seus valores no administrador. Isso causará um erro no carrinho com a mensagem "Não foi possível se comunicar com o vendedor".

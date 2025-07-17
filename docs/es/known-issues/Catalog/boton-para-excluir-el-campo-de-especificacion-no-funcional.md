@@ -1,5 +1,5 @@
 ---
-title: 'Botón para excluir el campo de especificación no funcional'
+title: "Botón para excluir el campo de especificación no funcional"
 id: 3TYUya4gM3ciqmRNftr2sq
 status: PUBLISHED
 createdAt: 2022-08-16T18:21:40.181Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: specification-field-delete-button-not-functional
+slugEN: boton-para-excluir-el-campo-de-especificacion-no-funcional
 locale: es
 kiStatus: Backlog
 internalReference: 328943
@@ -18,7 +18,9 @@ internalReference: 328943
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la página de campos de especificación, nuestro administrador heredado tiene un botón de "eliminar" que no funciona, esta acción no está disponible para la tienda.

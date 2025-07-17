@@ -3,8 +3,8 @@ title: 'Configuring the store domain'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2024-03-12T19:53:14.012Z
-publishedAt: 2024-03-12T19:53:14.012Z
+updatedAt: 2025-03-20T21:58:47.611Z
+publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
 productTeam: Identity
@@ -26,7 +26,7 @@ Domain-related settings are necessary for a web address to be correctly routed t
 
 The store's address is composed of the following elements:
 
-![url-diagram-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/configuring-the-store-domain_1.png)
+![url-diagram-en](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
 
 | Element | Description | Example |
 |---|---|---|
@@ -43,7 +43,7 @@ Once you have defined your store's domain, you need to configure the main host i
 
 Before proceeding with your store's address configuration, consider the following guidelines to ensure a successful implementation:
 
-* **CDN providers:** VTEX uses two CDN providers for the stores: **Cloudfront** and **Azion**. Make sure that your store's domain is not registered with these services during the pointing process. Otherwise, the CDN provisioning for your store and, consequently, the go-live will fail. Therefore, if your store's domain is registered on the Cloudfront or Azion platform, remove this registration before pointing the DNS to VTEX.
+* **CDN provider:** VTEX uses **Cloudfront** as CDN provider in the stores. Your store's domain must not be registered with Cloudfront by the time you perform the pointing. Otherwise, there will be a failure in the CDN provisioning for your store and, consequently, at go-live. So, if you have the store domain registered on the **Cloudfront** platform, delete it before pointing the DNS to VTEX.
 * **Main address:** The store must have a single main host, which will point to the VTEX servers. This host **must contain a subdomain**, which can be `www` or others.
 * **Additional addresses:** Any additional addresses, whether with a different domain or a version without subdomains, must be redirected to the single main host, as described in the Redirects section.
 
@@ -54,7 +54,7 @@ Check out the host examples below and see which ones can be used as the main hos
 | Host example | Can be used as a host: yes (✔️) or not (❌) | Description |
 |---|---|---|
 | `www.mystore.com` | ✔️ | Contains the www subdomain. |
-| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
+| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
 | `store.mybrand.com` | ✔️ | Contains the store subdomain. |
 | `www.store.mybrand.com` | ✔️ | Contains two subdomains: `www` and `store`. |
 
@@ -62,8 +62,8 @@ Check out the host examples below and see which ones can be used as the main hos
 
 To ensure your store is accessible via different URLs, such as `www.mystore.com` and `mystore.com`, you should register a single main host and redirect the additional addresses to the main one. Learn more about redirects:
 
-* [Redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278)
+* [Redirection from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278)
 
 We recommend implementing a single host in your store.
 
@@ -80,21 +80,16 @@ To register a new host, they must comply with the guidelines specified in the [R
 7. Click `Add`.
 8. Click `Save`.
 
-After completing these steps, you can [configure DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+After completing these steps, you can [configure DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->⚠️ [FastStore](https://www.faststore.dev/) stores also need to configure an address with the `secure` subdomain. Refer to the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) guide for more details.
+<div class="alert alert-warning">
+  <p><a href="https://www.faststore.dev/">FastStore</a> stores also need to configure an address with the <code>secure</code> subdomain. Refer to the<a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns"> Configuring external DNS for a custom domain</a> guide for more details.</p>
+</div>
 
->❗ If your operation has more than one VTEX account or [sub-account](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510), don't change hosts from one account to another. This will cause failures in many aspects of your store.
+<div class="alert alert-danger">
+  <p>If your operation has more than one VTEX account or <a href="https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510">sub-account</a>, don't change hosts from one account to another. This will cause failures in many aspects of your store.</p>
+</div>
 
 ## Changing host
 
-The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps below:
-
-1. Create new host entries for the store you want by following the instructions in [Registering a new host](#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
-2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in the [Configure template in SmartCheckout](https://help.vtex.com/en/faq/configurar-template-no-smartcheckout/) article. Completing this step is crucial to ensure the Checkout will continue working after the change.
-
-    You need to check if the sites configured are associated with the account registered in **Account settings > Accounts**. See the [Account management](https://help.vtex.com/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq) article for more details.
-
-3. Point the new domain's DNS to VTEX. Learn more about [DNS pointing](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex/).
-4. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX support](https://help.vtex.com/en/support) and submit a request for internal pointing, specifying the new domain. Once the ticket has been opened, the support team has up to three business days to analyze the settings and complete the pointing process.
-5. After confirming the new host's DNS propagation and internal pointing, delete the old hosts and keep only the new one.
+The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).

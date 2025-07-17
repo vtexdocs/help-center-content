@@ -19,7 +19,7 @@ A página **Loja** permite que você realize configurações de SEO, habilite fl
 
 No Admin VTEX, acesse **Configurações da loja > Storefront > Loja*** e descubra as principais ferramentas disponíveis na interface.
 
-![CMS Loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/cms-loja-visao-geral_1.png)
+![CMS Loja](https://images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/40e653a93a4543bff834816c38ec018b/store-pt-overview.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Antes de fazer alterações na aba <b>Avançado</b>, entre em contato com a sua equipe de desenvolvedores e consulte a nossa <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings">documentação sobre a otimização de desempenho</a> para mais informações.
@@ -35,5 +35,5 @@ No Admin VTEX, acesse **Configurações da loja > Storefront > Loja*** e descubr
 
 Consulte o tutorial a seguir para começar a gerenciar o conteúdo do seu storefront:
 
-- [Habilitando notificações PWA na sua loja](https://help.vtex.com/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
+- [Habilitando notificações PWA na sua loja](/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
 

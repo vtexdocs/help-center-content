@@ -3,8 +3,8 @@ title: '​​Insertar un proxy inverso delante de los servicios de VTEX'
 id: 4PFWsfRAKviNVPf1bYdiir
 status: PUBLISHED
 createdAt: 2019-09-20T14:11:30.301Z
-updatedAt: 2024-09-20T20:34:24.110Z
-publishedAt: 2024-09-20T20:34:24.110Z
+updatedAt: 2025-05-30T13:53:21.221Z
+publishedAt: 2025-05-30T13:53:21.221Z
 firstPublishedAt: 2019-09-23T12:22:50.056Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,11 +15,17 @@ legacySlug: por-que-no-recomendamos-insertar-un-proxy-inverso-en-los-servicios-v
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
->❗ Esta guía explica una práctica **no recomendada** para la mayoría de las tiendas y solo se aplica en excepciones extremas.
->
-> Implementar un proxy inverso significa sustituir todos los servicios perimetrales (CDN) gestionados y optimizados por VTEX. Esto significa que la tienda será responsable por mantener efectivamente el sitio web, incluyendo configuración, monitoreo y gestión de aspectos como el paso de encabezados, cookies y la caché. VTEX no ofrece soporte o documentación para esas configuraciones específicas y no se hace responsable por los problemas que puedan surgir.
->
-> VTEX no se hace responsable por problemas en ese sistema, ya sea en una CDN propia, un servicio de WAF u otro recurso que esté delante de nuestros servidores. No tenemos visibilidad de la operación y, por lo tanto, la solución **no** entra en nuestros acuerdos de SLA.
+<div class="alert alert-danger">
+<p>
+Esta guía explica una práctica <strong>no recomendada</strong> para la mayoría de las tiendas y solo se aplica en excepciones extremas.
+</p>
+<p>
+Implementar un proxy inverso significa sustituir todos los servicios perimetrales (CDN) gestionados y optimizados por VTEX. Esto significa que la tienda será responsable por mantener efectivamente el sitio web, incluyendo configuración, monitoreo y gestión de aspectos como el paso de encabezados, cookies y la caché. VTEX no ofrece soporte o documentación para esas configuraciones específicas y no se hace responsable por los problemas que puedan surgir.
+</p>
+<p>
+VTEX no se hace responsable por problemas en ese sistema, ya sea en una CDN propia, un servicio de WAF u otro recurso que esté delante de nuestros servidores. No tenemos visibilidad de la operación y, por lo tanto, la solución <strong>no</strong> entra en nuestros acuerdos de SLA.
+</p>
+</div>
 
 Para apuntar tu propia CDN a la CDN de VTEX, debes insertar un proxy inverso delante de los servicios de VTEX. El flujo de tráfico seguirá el orden a continuación:
 
@@ -30,19 +36,15 @@ Para apuntar tu propia CDN a la CDN de VTEX, debes insertar un proxy inverso del
 
 Sigue las guías que se describen a continuación para implementar un proxy inverso:
 
-*	[Configurar DNS](#configurar-dns)  
+*	[Crear registro TXT](#crear-registro-txt)  
 *	[Enrutar tráfico](#enrutar-trafico)  
 *	[Certificado SSL](#responsabilidades-de-los-certificados-ssl)
 
-## Configurar DNS
+## Crear registro TXT
 
-En la zona de DNS de tu dominio, debes configurar los registros DNS necesarios para dirigir el tráfico a la CDN de VTEX. Sigue las instrucciones a continuación. 
+Para garantizar que tu dominio esté correctamente dirigido a la CDN de VTEX, crea un registro TXT en formato `_{hostname}` con el valor `{hostname}.cdn.vtex.com` en la zona de DNS de tu dominio.
 
-### Crear registro TXT
-
-Para garantizar que tu dominio esté correctamente dirigido a la CDN de VTEX, crea un registro TXT en formato `_{hostname}` con el valor `{hostname}.cdn.vtex.com`.
-
-Sustituye `{hostname}` con la combinación de [subdominio, dominio y dominio de nivel superior](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de tu tienda. Por ejemplo: `www.mitienda.com`. Asegúrate de incluir `_` antes del host.  
+Sustituye `{hostname}` con la combinación de [subdominio, dominio y dominio de nivel superior](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de tu tienda. Por ejemplo: `www.mitienda.com`. Asegúrate de incluir `_` antes del host.  
 
 Formato:
 
@@ -109,10 +111,11 @@ Para permitir generar certificados SSL, asegúrate de que todo el tráfico HTTP 
 
 Algunos proxies inversos capturan esta ruta, lo que impide que VTEX pueda emitir o renovar el certificado SSL.
 
->⚠️ VTEX admite la navegación solo si:
->
-> * El host apunta a VTEX a través del CNAME.
->
-> * Es posible emitir y renovar certificados SSL para el host.
->
-> Si no se cumplen ambas condiciones, la navegación no funcionará y el sitio web se queda sin conexión.
+<div class="alert alert-warning">
+VTEX admite la navegación solo si:
+<ul>
+  <li>El registro TXT está configurado correctamente.</li>
+  <li>Es posible emitir y renovar certificados SSL para el host.</li>
+</ul>
+Si no se cumplen ambas condiciones, la navegación no funcionará y el sitio web se queda sin conexión.
+</div>

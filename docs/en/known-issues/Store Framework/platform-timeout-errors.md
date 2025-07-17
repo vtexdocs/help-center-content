@@ -1,5 +1,5 @@
 ---
-title: 'Platform timeout errors'
+title: "Platform timeout errors"
 id: 6Kp2viMZSnmGucJnciDNKx
 status: PUBLISHED
 createdAt: 2024-06-17T18:07:48.342Z
@@ -30,7 +30,7 @@ This may be related to GraphQL queries. Normally, you'll see errors in the `/met
 
 
 Try accessing some pages on the admin, for example, of an account, and randomly, this page can receive the error below. This image can also appear on myvtex environment when accessing any other pages:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/platform-timeout-errors_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bpiTuFWDjmPfEtLAiVcLhiMRs/?name=image.png)
 When you refresh the page everything should be back to normal
 
 You can see more details of the error on the console or just wait for it to refresh.

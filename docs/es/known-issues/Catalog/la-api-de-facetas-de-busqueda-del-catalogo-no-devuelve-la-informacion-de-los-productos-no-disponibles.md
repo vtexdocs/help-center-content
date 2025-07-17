@@ -1,5 +1,5 @@
 ---
-title: 'La API de Facetas de Búsqueda del Catálogo no devuelve la información de los productos no disponibles'
+title: "La API de Facetas de Búsqueda del Catálogo no devuelve la información de los productos no disponibles"
 id: 1JrbscqI4BQgFqfVuRZIl8
 status: PUBLISHED
 createdAt: 2022-05-23T13:58:53.501Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-search-facets-api-does-not-return-information-for-products-unavailable
+slugEN: la-api-de-facetas-de-busqueda-del-catalogo-no-devuelve-la-informacion-de-los-productos-no-disponibles
 locale: es
 kiStatus: No Fix
 internalReference: 583623
@@ -18,7 +18,9 @@ internalReference: 583623
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las Facetas de Búsqueda del Catálogo API / Filtros del Resultado de la Búsqueda del Portal no devuelven la información de los productos no disponibles y configurados para ser mostrados sin stock. El producto aparecerá en el Resultado de la Búsqueda, pero sus filtros no aparecerán.

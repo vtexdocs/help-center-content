@@ -30,7 +30,9 @@ This article presents key practices to help you manage your VTEX store efficient
     * [Join the VTEX Community](#join-the-vtex-community)
     * [Learn best practices for VTEX Support requests](#learn-best-practices-for-vtex-support-requests)
 
->ℹ️ **Partner agencies**Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit [vtex.com](http://vtex.com) or the [Partner Portal](https://partnerportal.vtex.com/parceiros) (available in Portuguese only).
+<div class = "alert alert-info">
+<b>Partner agencies</b><p>Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit <a href="http://vtex.com">vtex.com</a> or the <a href="https://partnerportal.vtex.com/parceiros">Partner Portal</a> (available in Portuguese only).</p>
+</div>
 
 ## Performance and security
 
@@ -38,7 +40,7 @@ In this section, you will learn about best practices to enhance the performance 
 
 ### Document your store architecture
 
-Ecommerce operations often involve integrating different systems and technologies. Keeping the [store architecture](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#arquitetura-da-loja) documentation up-to-date is strategic for ensuring optimal performance from both the structure and the professionals involved.
+Ecommerce operations often involve integrating different systems and technologies. Keeping the [store architecture](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#arquitetura-da-loja) documentation up-to-date is strategic for ensuring optimal performance from both the structure and the professionals involved.
 
 The main benefits of creating and maintaining updated documentation of the operation architecture include:
 
@@ -48,33 +50,37 @@ The main benefits of creating and maintaining updated documentation of the opera
 * **Quick action on security issues:** Addressing security issues or vulnerabilities is more efficient when architecture documentation is available.
 * **Support optimization:** When support from our team or third parties is needed, sharing the architecture documentation streamlines communication between parties and increases the effectiveness of their efforts.
 
->ℹ️ For guidelines on documenting your store architecture, see the [Get started](https://developers.vtex.com/docs/guides) page on our Developer Portal and learn about the [interactive framework](https://assets.vtex.com/4524045/) of the VTEX platform.
+<div class = "alert alert-info">
+For guidelines on documenting your store architecture, see the <a href="https://developers.vtex.com/docs/guides">Get started</a> page on our Developer Portal and learn about the <a href="https://assets.vtex.com/4524045/">interactive framework</a> of the VTEX platform.
+</div>
 
 ### Follow security guidelines
 
 There are strategies to prevent and reduce store exposure to the risk of malicious attacks. Some of the main ones are:
 
-* **Anti-fraud systems:** Configure an [anti-fraud system](https://help.vtex.com/en/tutorial/what-is-anti-fraud) for all store payment methods.
-* **reCAPTCHA:** Use [reCAPTCHA](https://help.vtex.com/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
-* **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](https://help.vtex.com/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) methods for your customers.
+* **Anti-fraud systems:** Configure an [anti-fraud system](/en/tutorial/what-is-anti-fraud) for all store payment methods.
+* **reCAPTCHA:** Use [reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
+* **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) methods for your customers.
 
->ℹ️ For more information about preventive actions, see the article [Best practices against virtual attacks](https://help.vtex.com/en/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE) and this [post](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470) on VTEX Community (available in Portuguese).
+<div class = "alert alert-info">
+For more information about preventive actions, see the article <a href="https://help.vtex.com/en/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE">Best practices against virtual attacks</a> and this <a href="https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470">post</a> on VTEX Community (available in Portuguese).
+</div>
 
 ### Manage access permission levels
 
-[VTEX store security](https://help.vtex.com/en/subcategory/seguranca-para-lojistas--6uJgdHqWf1Mo0rUfgxseTn) offers several preventive measures and [best practices](https://help.vtex.com/en/tutorial/boas-praticas-para-evitar-golpes-que-utilizam-a-marca-da-vtex--6uPwUr2Fnj2m3TM4hAj2Ec) that can significantly enhance the security of your business. One of the main ones is managing access roles in your VTEX Admin.
+[VTEX store security](/en/subcategory/seguranca-para-lojistas--6uJgdHqWf1Mo0rUfgxseTn) offers several preventive measures and [best practices](/en/tutorial/boas-praticas-para-evitar-golpes-que-utilizam-a-marca-da-vtex--6uPwUr2Fnj2m3TM4hAj2Ec) that can significantly enhance the security of your business. One of the main ones is managing access roles in your VTEX Admin.
 
-Some key recommendations for VTEX [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) are:
+Some key recommendations for VTEX [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) are:
 
-* **Grant minimal permissions:** Create roles considering the minimum level of permissions necessary for users to perform their tasks. Beyond the [predefined roles](https://help.vtex.com/en/tutorial/perfis-de-acesso), you can create [customized roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Limiting third-party access to critical content minimizes the risk of unwanted access, data leakage, or other harmful scenarios. 
-* **Re-evaluate roles:** [Manage users](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) periodically and ensure that each has an appropriate level of permission. It is crucial to delete roles from employees or vendors who are no longer in your business. Proactively and regularly reviewing users help prevent security breaches caused by improper access.
-* **Control app key permissions:** [App keys](https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) used in integrations can also access your VTEX store. Please follow our [Best practices for using application keys](https://help.vtex.com/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
+* **Grant minimal permissions:** Create roles considering the minimum level of permissions necessary for users to perform their tasks. Beyond the [predefined roles](/en/tutorial/perfis-de-acesso), you can create [customized roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Limiting third-party access to critical content minimizes the risk of unwanted access, data leakage, or other harmful scenarios. 
+* **Re-evaluate roles:** [Manage users](/en/tutorial/gerenciando-usuarios--tutorials_512) periodically and ensure that each has an appropriate level of permission. It is crucial to delete roles from employees or vendors who are no longer in your business. Proactively and regularly reviewing users help prevent security breaches caused by improper access.
+* **Control app key permissions:** [App keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) used in integrations can also access your VTEX store. Please follow our [Best practices for using application keys](/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
 * **Restrict VTEX Admin access to corporate domains:** Using corporate domains adds a layer of security, preventing unauthorized access to your store. Limiting access to only use corporate email addresses mitigates the risk of data leaks (intentional or accidental), enhances protection against phishing, and improves the traceability of audit activities.
-* **Enable two-factor authentication (2FA):** [2FA](https://help.vtex.com/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) adds an additional layer of security, protecting access to the store even if the secrecy of your password is compromised. This feature is particularly important for users with access to sensitive information and settings.
+* **Enable two-factor authentication (2FA):** [2FA](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) adds an additional layer of security, protecting access to the store even if the secrecy of your password is compromised. This feature is particularly important for users with access to sensitive information and settings.
 
 ### Explore our certified marketplaces and partners
 
-The VTEX platform architecture allows stores to act both as [marketplaces and sellers](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), and on [Marketplaces and Integrations](https://help.vtex.com/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) they can discover and communicate with each other. In addition, VTEX offers native integrations with several [certified marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-marketplace) and [partners](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-marketplaces-partners) (such as Amazon and Mercado Libre).
+The VTEX platform architecture allows stores to act both as [marketplaces and sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), and on [Marketplaces and Integrations](/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) they can discover and communicate with each other. In addition, VTEX offers native integrations with several [certified marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-marketplace) and [partners](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-marketplaces-partners) (such as Amazon and Mercado Libre).
 
 If you want to develop an integration with an external marketplace, see the article [External Marketplace](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide).
 
@@ -88,7 +94,7 @@ The VTEX platform is constantly evolving, and a great way for you and your team 
 
 | **Documentation Portal** | **Location** |
 | :---: | :---: |
-| Help Center | Page: [News](https://help.vtex.com/en/announcements) |
+| Help Center | Page: [News](/en/announcements) |
 | Developer Portal | Page: [Release Notes](https://developers.vtex.com/updates/release-notes) |
 
 Some of the main advantages of staying up to date are:
@@ -98,7 +104,9 @@ Some of the main advantages of staying up to date are:
 * Configure updates to increase store security, as we continually innovate to protect your business operation.
 * If you need to contact support, familiarity with new features allows you to interact more efficiently with our support team, resulting in quicker solutions.
 
->ℹ️ The announcements from the Help Center **News** page are also accessible through your VTEX Admin. To view this content, click the bell icon at the top of the page.
+<div class = "alert alert-info">
+The announcements from the Help Center <b>News</b> page are also accessible through your VTEX Admin. To view this content, click the bell icon at the top of the page.
+</div>
 
 ### Receive platform status notifications
 
@@ -110,7 +118,9 @@ For this purpose, VTEX provides a [platform status page](https://status.vtex.com
 * [RSS feed](https://rss.com/blog/how-do-rss-feeds-work/)
 * [Slack](https://slack.com/)
 
->ℹ️ For moreninformation about the platform status page, see the article [VTEX Status Page](https://</a>help.vtex.com/en/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ).
+<div class = "alert alert-info">
+For moreninformation about the platform status page, see the article <a href="https://</a>help.vtex.com/en/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ">VTEX Status Page</a>.
+</div>
 
 ### Explore our onboarding content
 
@@ -120,7 +130,7 @@ For this reason, we provide different types of onboarding material about the pla
 
 | **Format** | **Location** | **Language** |
 | :---: | :--- | :--- |
-| Documentation | Help Center: [Onboarding guide](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | English, Spanish, and Portuguese. |
+| Documentation | Help Center: [Onboarding guide](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | English, Spanish, and Portuguese. |
 | Videos | Site: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Portuguese only. |
 | Demos and ebooks | Site: [vtex.com](http://vtex.com) | Each piece of content is available in English, Spanish, or Portuguese, depending on your location. |
 
@@ -145,7 +155,7 @@ In some cases, submitting a ticket to VTEX Support is necessary, such as those i
 
 Our specialists are prepared to address your questions and provide a positive experience throughout the process. However, you can help ensure that support is as quick and effective as possible.
 
-These are the [best practices for opening a ticket with VTEX Support](https://help.vtex.com/en/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX), in order to achieve a faster and more objective service:
+These are the [best practices for opening a ticket with VTEX Support](/en/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX), in order to achieve a faster and more objective service:
 
 * Provide detailed information about the reason for opening the ticket.
 * Describe the situation or issue clearly, precisely, and objectively (especially for urgent matters).
@@ -153,7 +163,9 @@ These are the [best practices for opening a ticket with VTEX Support](https://he
 * When possible, attach screenshots and relevant logs.
 * When possible, explain how to reproduce the error or issue.
 
-These are some of the most important recommendations. For more information, see the article [Best practices for opening a ticket with VTEX Support](https://help.vtex.com/en/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX).
+These are some of the most important recommendations. For more information, see the article [Best practices for opening a ticket with VTEX Support](/en/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX).
 
->ℹ️ For an overview of our ticket support system, check the [VTEX Support](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) track in the **Onboarding guide**.
+<div class = "alert alert-info">
+For an overview of our ticket support system, check the <a href="https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">VTEX Support</a> track in the <b>Onboarding guide</b>.
+</div>
 

@@ -1,5 +1,5 @@
 ---
-title: 'Error en el selector de cantidad de productos para pantallas de alta resolución'
+title: "Error en el selector de cantidad de productos para pantallas de alta resolución"
 id: 2cxI6HTJLYul0WeUAJBl66
 status: PUBLISHED
 createdAt: 2022-04-14T22:27:52.393Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: product-quantity-selector-error-for-high-resolution-screens
+slugEN: error-en-el-selector-de-cantidad-de-productos-para-pantallas-de-alta-resolucion
 locale: es
 kiStatus: Backlog
 internalReference: 561921
@@ -18,7 +18,9 @@ internalReference: 561921
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al renderizar resoluciones altas, el selector de cantidad no funciona.

@@ -1,5 +1,5 @@
 ---
-title: 'Android button with unexpected behavior with the enter button'
+title: "Android button with unexpected behavior with the enter button"
 id: 7lxReFstIBsMBktghrIZXB
 status: PUBLISHED
 createdAt: 2022-07-07T14:04:42.124Z

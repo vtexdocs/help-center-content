@@ -1,5 +1,5 @@
 ---
-title: 'Thumbnail arrow not working on carousel'
+title: "Thumbnail arrow not working on carousel"
 id: 5Ps4JjtqGpPq7YPVmb9Akz
 status: PUBLISHED
 createdAt: 2024-11-19T18:14:52.949Z

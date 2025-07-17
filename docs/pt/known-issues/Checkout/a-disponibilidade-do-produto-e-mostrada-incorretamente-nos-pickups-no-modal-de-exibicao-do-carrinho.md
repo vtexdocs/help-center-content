@@ -1,5 +1,5 @@
 ---
-title: 'A disponibilidade do produto é mostrada incorretamente nos pickups no modal de exibição do carrinho'
+title: "A disponibilidade do produto é mostrada incorretamente nos pickups no modal de exibição do carrinho"
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: product-availability-is-incorrectly-showed-in-the-pickups-in-cart-display-modal
+slugEN: a-disponibilidade-do-produto-e-mostrada-incorretamente-nos-pickups-no-modal-de-exibicao-do-carrinho
 locale: pt
 kiStatus: No Fix
 internalReference: 552875
@@ -18,7 +18,9 @@ internalReference: 552875
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Unsupported fields by the Intelligent Search API returning empty'
+title: "Unsupported fields by the Intelligent Search API returning empty"
 id: Jvm9oLhUM6NqCslpBqSti
 status: PUBLISHED
 createdAt: 2024-05-13T21:03:14.026Z

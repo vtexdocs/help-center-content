@@ -1,5 +1,5 @@
 ---
-title: 'La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.'
+title: "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo."
 id: 2eti6qau2VXzuBBU8Us25V
 status: PUBLISHED
 createdAt: 2024-08-15T13:48:35.886Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: free-shipping-promotion-fails-to-apply-due-to-minimum-or-maximum-amount-being-based-on-unit-price-instead-of-total-item-value
+slugEN: la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-articulo
 locale: es
 kiStatus: Backlog
 internalReference: 1081841
@@ -18,7 +18,9 @@ internalReference: 1081841
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La promoción de envío gratuito con un importe de pedido mínimo o máximo está considerando incorrectamente el valor del artículo por unidad en lugar del valor total del artículo, lo que provoca incoherencias en la aplicación de la promoción.

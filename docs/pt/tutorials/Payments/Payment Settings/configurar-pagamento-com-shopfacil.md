@@ -34,7 +34,7 @@ Para configurar ShopFácil, siga os passos abaixo:
 4. Preencha o campo __Nome da regra__ com um nome de sua preferência para identificação.
 5. Ative a condição no campo __Status__.
 6. Em __Processar com a afiliação__, selecione o conector __ShopfacilPayment__.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector ShopFácil pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

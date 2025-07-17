@@ -1,5 +1,5 @@
 ---
-title: 'Los pedidos con itens de modificación no pueden facturarse haciendo referencia a los artículos'
+title: "Los pedidos con itens de modificación no pueden facturarse haciendo referencia a los artículos"
 id: 1g1t65544sXbvfY62dAS1n
 status: PUBLISHED
 createdAt: 2023-04-04T15:06:49.163Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-with-change-itens-cannot-be-invoiced-referencing-the-items
+slugEN: los-pedidos-con-itens-de-modificacion-no-pueden-facturarse-haciendo-referencia-a-los-articulos
 locale: es
 kiStatus: Backlog
 internalReference: 784171
@@ -18,7 +18,9 @@ internalReference: 784171
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: '[Magalu] Sku being integrated with specifications from another marketplace'
+title: "[Magalu] Sku being integrated with specifications from another marketplace"
 id: 4AYsfMTB2HVmp2PnOG2plY
 status: PUBLISHED
 createdAt: 2022-10-31T19:29:16.911Z
@@ -30,7 +30,7 @@ For example, when integrating our catalog in magalu, we send everything that has
 
 Example specification being sent to Magalu
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magalu-sku-being-integrated-with-specifications-from-another-marketplace_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/22vLwpFtB3XtuJPNFA2aDpqvf/?name=image.png)
 
 
 ## Workaround

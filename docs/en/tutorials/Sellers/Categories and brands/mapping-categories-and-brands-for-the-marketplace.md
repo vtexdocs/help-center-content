@@ -15,7 +15,7 @@ legacySlug: mapping-categories-and-brands-for-the-marketplace
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](https://help.vtex.com/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [brands](https://help.vtex.com/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) and [specifications](https://help.vtex.com/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) have to be mapped when sellers:
+When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [brands](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) and [specifications](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) have to be mapped when sellers:
 
 - Send their products for the first time  
 - Send products with data that has not been mapped before  
@@ -27,9 +27,9 @@ This allows entering the products sent by the seller with equivalent information
  3. Click __New mapping__.  
  4. Select a seller from the dropdown and click __Add__.  
  5. For the seller that was added to the panel:  
-  a. [Map the categories](https://help.vtex.com/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-categories).  
-  b. [Map the brands](https://help.vtex.com/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-brands).  
-  c. [Map the specifications](https://help.vtex.com/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-specifications).  
+  a. [Map the categories](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-categories).  
+  b. [Map the brands](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-brands).  
+  c. [Map the specifications](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-specifications).  
  6. Click __Update mapping__.  
 
 ## Mapping Categories
@@ -52,7 +52,8 @@ To complete the template:
 4. Save the template __XLS file__.  
 5. In *Categories mapping*, upload the updated template using the __Change categories mapping button__.   
 
->ℹ️ If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
+<div class="alert alert-info"> 
+If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file. </div>
 
 ### Example
 In this example, we downloaded the current template, which has the following values in the columns:
@@ -71,10 +72,11 @@ We will map the seller's categories, trying to find the best possible match with
 | [3] Women \| [28] Jeans                 | Jeans / Shorts            |                                    |
 | [3] Women \| [28] Jeans                 | Jeans / Bermudas          |                                    |
 
->ℹ️ Note that more than one category in the seller's catalog fell in the same marketplace category (Women / Jeans). In that case, duplicate the row in **Marketplace categories** and paste the values from <i>Unmapped categories sent by seller</i> into each duplicated row.
+<div class="alert alert-info">
+Note that more than one category in the seller's catalog fell in the same marketplace category (Women / Jeans). In that case, duplicate the row in <b>Marketplace categories</b> and paste the values from <i>Unmapped categories sent by seller</i> into each duplicated row. </div>
 
 ## Mapping Brands
-After the seller [sends the products to the marketplace](https://help.vtex.com/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), the marketplace has to map the brands. Matching between marketplace and seller brands is done through a template.  
+After the seller [sends the products to the marketplace](/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), the marketplace has to map the brands. Matching between marketplace and seller brands is done through a template.  
 
 ### Using the template
 You can download the updated template by clicking the Download current mapping table button in the seller you added to the *Categories and brands* page. The template contains the following columns: 
@@ -91,7 +93,9 @@ You can download the updated template by clicking the Download current mapping t
 4. Save the template __XLS file__.  
 5. In *Brands mapping*, upload the updated template using the __Change categories mapping__ button.   
 
->ℹ️ If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
+<div class="alert alert-info">
+If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
+</div>
 
 ### Example
 In this example, we downloaded the current template, which has the following values in the columns:
@@ -118,7 +122,7 @@ Note that not all marketplace brands had a match in this case. This varies depen
 
 Specifications are additional properties that can be added to your store's products or SKUs. After the seller sends the products, the marketplace has to map the product and SKU specifications. Mapping is done manually through the Categories and brands page to match the fields between the marketplace and the seller. 
 
-When a seller submits a product with a specification that has not been mapped by the marketplace and the marketplace [approves](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) this product, a new SKU is created, even though there is already a SKU in the marketplace catalog to associate it with. The unmapped specification (for example, color) or its value (for example, yellow) will be registered as an **unstructured attribute** in the marketplace catalog, but **will not be displayed in the marketplace storefront**. Therefore, it is necessary to map all the specifications and their values so that they are visible to buyers. You can view the unstructured attributes in your Admin. Go to *Catalog > Products and SKUs > choose an item from the list > click the Specifications tab*.
+When a seller submits a product with a specification that has not been mapped by the marketplace and the marketplace [approves](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) this product, a new SKU is created, even though there is already a SKU in the marketplace catalog to associate it with. The unmapped specification (for example, color) or its value (for example, yellow) will be registered as an **unstructured attribute** in the marketplace catalog, but **will not be displayed in the marketplace storefront**. Therefore, it is necessary to map all the specifications and their values so that they are visible to buyers. You can view the unstructured attributes in your Admin. Go to *Catalog > Products and SKUs > choose an item from the list > click the Specifications tab*.
 
 To map product and SKUs’ specifications, follow the steps below:
 
@@ -142,7 +146,7 @@ We will map the seller's specifications by matching the existing marketplace spe
 
 ### Specifications and received SKUs approval
 
-Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](https://help.vtex.com/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace) module when approving seller SKUs:
+Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace) module when approving seller SKUs:
 
 - __Link to existing SKU:__ the specification mapping is ignored by the marketplace system because the SKU already exists in the marketplace with the same specifications.    
 - __Link to an existing product:__ the specification mapping is only considered for SKU specifications because the product specifications already exist in the marketplace.    
@@ -150,7 +154,7 @@ Specification mapping is applied on the marketplace website in different ways, d
 
 ## Learn more
 
-- [Approving products](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus/)  
-- [Creating a trade policy](https://help.vtex.com/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Trade policy for marketplaces](https://help.vtex.com/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
+- [Approving products](/en/tutorial/sugerindo-e-aprovando-skus/)  
+- [Creating a trade policy](/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
+- [Trade policy for marketplaces](/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
 

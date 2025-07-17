@@ -1,5 +1,5 @@
 ---
-title: 'UI fails to change state between delivery and collection correctly'
+title: "UI fails to change state between delivery and collection correctly"
 id: 5gKsCV8Rh779FlzppablkP
 status: PUBLISHED
 createdAt: 2022-05-02T18:08:17.388Z

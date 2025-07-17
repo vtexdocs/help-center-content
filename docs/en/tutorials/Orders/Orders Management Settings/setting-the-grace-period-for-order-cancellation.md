@@ -21,7 +21,9 @@ That is, if the customer requests cancellation before or during the grace period
 
 If the customer requests cancellation after the grace period has ended, the store receives the request, but cancellation is only made if the store approves it at the Orders management.
 
->ℹ️ By default, the grace period for order cancellation is set to 30 minutes, but you can change it to better meet your business' demands.
+<div class = "alert alert-info">
+By default, the grace period for order cancellation is set to 30 minutes, but you can change it to better meet your business' demands.
+</div>
 
 For example, if your store sells food or pharmaceuticals that need to be delivered in a short time, it probably makes sense to have a lower cancellation tolerance.
 
@@ -33,5 +35,5 @@ To configure this time window, follow the steps below:
 
 ### Related articles
 
-- [Setting the grace period for order cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
-- [Why was my order cancelled?](https://help.vtex.com/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Setting the grace period for order cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+- [Why was my order cancelled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)

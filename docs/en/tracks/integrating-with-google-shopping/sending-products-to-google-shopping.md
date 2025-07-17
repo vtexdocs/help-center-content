@@ -3,8 +3,8 @@ title: 'Sending products to Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2024-08-06T14:24:02.734Z
-publishedAt: 2024-08-06T14:24:02.734Z
+updatedAt: 2025-04-30T18:26:28.314Z
+publishedAt: 2025-04-30T18:26:28.314Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,9 +18,11 @@ Only catalogs can be integrated with Google Shopping. Unlike other integrations,
 
 ## Reindexing the database
 
-After integrating and authenticating your account, the marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
+After integrating and authenticating your account, the marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](/en/tutorial/entendendo-o-funcionamento-da-indexacao). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
 
->ℹ️ Please note that only the [sponsor user (owner)](https://help.vtex.com/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site.
+<div class = "alert alert-info">
+Please note that only the <a href="https://help.vtex.com/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">sponsor user (owner)</a> has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site. 
+</div>
 
 To reindex the database, paste the link below in your browser, replacing the `{storename}` with the name of your store:
 
@@ -48,7 +50,9 @@ A product may eventually report the Insertion error: `Ineligible SKU`. This mean
 
 **If a product is disapproved, you will have to review its data and submit it again**. You can track the status of your products on Google Merchant Center.
 
->ℹ️ Make sure your products meet the [Product data specification](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=en) defined by Google. If a product is not in compliance with the requirements, the ad will be disapproved.
+<div class="alert alert-info">
+Make sure your products meet the <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=en">Product data specification</a> defined by Google. If a product is not in compliance with the requirements, the ad will be disapproved.
+</div>
 
 There are situations in which the product's disapproval happens after it has already been considered active. It happens more often for recently created accounts.
 
@@ -62,7 +66,9 @@ On Google Shopping, products automatically expire if they are not updated within
 
 However, you do not have to worry about that. Once the integration with the VTEX Platform connector is completed, **the system will automatically update products every 29 days.**
 
->ℹ️ There may be a delay of up to 30 minutes between processing a product's data change and updating it in the feed.
+<div class="alert alert-info">
+There may be a delay of up to 30 minutes between processing a product's data change and updating it in the feed.
+</div>
 
 ## Modifying the automatic categorization
 
@@ -74,4 +80,6 @@ However, before considering there may be a categorization issue, make sure that 
 
 To replace an incorrect category and ensure that the product will be approved, see the step-by-step instructions in the article [Google product category](https://support.google.com/merchants/answer/6324436?hl=en).
 
->⚠️ Google will accept category changes only in the cases foreseen in the article [Google product category.](https://support.google.com/merchants/answer/6324436?hl=en)
+<div class="alert alert-warning">
+Google will accept category changes only in the cases foreseen in the article <a href="https://support.google.com/merchants/answer/6324436?hl=en">Google product category.</a>
+</div>

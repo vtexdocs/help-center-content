@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Utilize múltiplos públicos-alvo em uma audiência de campanha simultaneamente, em vez de aplicar um ou outro público.'
 ---
 
-Promoções para públicos segmentados são ações estratégicas para atrair e reter clientes. Na VTEX, a [promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) possibilita atingir públicos-alvo específicos definidos em uma [audiência de campanha](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
+Promoções para públicos segmentados são ações estratégicas para atrair e reter clientes. Na VTEX, a [promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) possibilita atingir públicos-alvo específicos definidos em uma [audiência de campanha](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
 
 Aprimoramos a configuração de audiência de campanha para permitir que você some públicos-alvo, em vez de utilizar apenas um público ou outro. Assim, é possível combinar critérios e ser ainda mais preciso na definição do público que será beneficiado por uma promoção.
 
@@ -23,7 +23,7 @@ Aprimoramos a configuração de audiência de campanha para permitir que você s
 
 No Admin VTEX, em **Produtos > Promoções e Taxas > Audiências de campanhas > Nova audiência de campanha**, nas configurações referentes ao **Público-alvo**, acrescentamos a opção “e”, onde antes havia apenas a opção “ou”.  Isso significa que agora você pode aplicar uma lógica de adição de critérios (“e”), além da lógica de alternativa (“ou”) que já existia antes. Veja a imagem a seguir:
 
-![publico-alvo-e-ou-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-07-22-promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo_1.gif)
+![publico-alvo-e-ou-pt](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
 
 Com a nova opção, é possível criar promoções de campanha a partir da combinação de critérios de forma mais flexível.
 
@@ -45,7 +45,7 @@ Nenhuma ação é necessária, pois a atualização será aplicada automaticamen
 
 Para mais informações sobre promoções de campanha e audiências de campanha, consulte a nossa documentação:
 
-* [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanha--6cnuDZJzIkIeocewAQQK4K)
-* [Audiências de campanhas](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
-* [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+* [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanha--6cnuDZJzIkIeocewAQQK4K)
+* [Audiências de campanhas](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
+* [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
 * [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/setcampaignconfiguration)

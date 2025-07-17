@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia en los valores de flete prorrateados por artículo entre los pedidos de CHK y FFM'
+title: "Divergencia en los valores de flete prorrateados por artículo entre los pedidos de CHK y FFM"
 id: 6v4Fero4fkOw3omZOl21Xf
 status: PUBLISHED
 createdAt: 2022-01-24T20:24:18.002Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergency-in-apportioned-freight-values-per-item-between-chk-and-ffm-orders
+slugEN: divergencia-en-los-valores-de-flete-prorrateados-por-articulo-entre-los-pedidos-de-chk-y-ffm
 locale: es
 kiStatus: Backlog
 internalReference: 321111
@@ -18,7 +18,9 @@ internalReference: 321111
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos casos, los valores de envío prorrateados por artículo entre los pedidos del mercado (lado de la caja) y del vendedor (lado de la ejecución) pueden ser divergentes.

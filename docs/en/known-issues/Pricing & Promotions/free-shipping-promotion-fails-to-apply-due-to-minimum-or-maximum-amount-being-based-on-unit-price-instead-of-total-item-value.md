@@ -1,5 +1,5 @@
 ---
-title: 'Free shipping promotion fails to apply due to minimum or maximum amount being based on unit price instead of total item value'
+title: "Free shipping promotion fails to apply due to minimum or maximum amount being based on unit price instead of total item value"
 id: 2eti6qau2VXzuBBU8Us25V
 status: PUBLISHED
 createdAt: 2024-08-15T13:48:35.886Z

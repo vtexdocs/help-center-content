@@ -1,5 +1,5 @@
 ---
-title: 'MELI integration listing types for Peru, Venezuela, Equador and Uruguai'
+title: "MELI integration listing types for Peru, Venezuela, Equador and Uruguai"
 id: 77DQc7iQ4KgiWZGRAGdTgT
 status: PUBLISHED
 createdAt: 2023-10-25T11:48:14.580Z

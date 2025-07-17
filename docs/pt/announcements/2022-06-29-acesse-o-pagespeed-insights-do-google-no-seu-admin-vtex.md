@@ -17,11 +17,11 @@ announcementSynopsisPT: 'Analise o desempenho de URLs com a nova página Perform
 
 No mercado de comércio digital, oferecer uma experiência que não consuma muito tempo do comprador para encontrar as informações de que precisa ou para concluir um pedido pode ser a vantagem competitiva entre as marcas que disputam a atenção do mesmo usuário. Por isso, é importante acompanhar o desempenho de seu site para medir e melhorar a experiência do usuário, levando a um possível aumento nas vendas.
 
-Com esse objetivo, nós criamos a nova tela [Performance das páginas web](https://help.vtex.com/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc) e trouxemos as ferramentas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) e [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) do Google para seu Admin VTEX.
+Com esse objetivo, nós criamos a nova tela [Performance das páginas web](/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc) e trouxemos as ferramentas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) e [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) do Google para seu Admin VTEX.
 
 O PageSpeed Insights e o Lighthouse são ferramentas desenvolvidas pelo Google para gerar relatórios sobre a experiência do usuário de uma página tanto em dispositivos móveis quanto em computadores, fornecendo sugestões sobre como essa página pode ser aprimorada. Eles usam as [principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) para avaliar a experiência do usuário online. 
 
-![Web page performance Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-06-29-acesse-o-pagespeed-insights-do-google-no-seu-admin-vtex_1.png)
+![Web page performance Dash PT](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
 
 ## O que mudou?
 
@@ -41,8 +41,8 @@ Além disso, ao combinar o PageSpeed Insights e o Lighthouse na mesma tela, faci
 
 ## O que precisa ser feito?
 
-A página “Performance das páginas web” está disponível automaticamente apenas para lojas que usam o [novo Admin VTEX](https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessá-la, no menu lateral de seu Admin, clique em **Dashboards > Performance das páginas web**. 
+A página “Performance das páginas web” está disponível automaticamente apenas para lojas que usam o [novo Admin VTEX](/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessá-la, no menu lateral de seu Admin, clique em **Dashboards > Performance das páginas web**. 
 
 Se sua loja ainda estiver usando versões anteriores do Admin, [participe do nosso programa Beta](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) do novo Admin VTEX para acessar a Performance das páginas web.
 
-Descubra como aproveitar ao máximo esse dashboard em nosso artigo sobre a [Performance das páginas web](https://help.vtex.com/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc).
+Descubra como aproveitar ao máximo esse dashboard em nosso artigo sobre a [Performance das páginas web](/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc).

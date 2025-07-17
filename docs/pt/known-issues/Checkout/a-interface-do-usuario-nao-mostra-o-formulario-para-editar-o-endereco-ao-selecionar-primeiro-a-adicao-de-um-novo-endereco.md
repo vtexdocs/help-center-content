@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário não mostra o formulário para editar o endereço ao selecionar primeiro a adição de um novo endereço'
+title: "A interface do usuário não mostra o formulário para editar o endereço ao selecionar primeiro a adição de um novo endereço"
 id: 4rqphb66vAzsAyx9mUmNLu
 status: PUBLISHED
 createdAt: 2023-02-06T13:15:57.816Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-doesnt-show-the-form-to-edit-address-when-selecting-to-add-a-new-address-first
+slugEN: a-interface-do-usuario-nao-mostra-o-formulario-para-editar-o-endereco-ao-selecionar-primeiro-a-adicao-de-um-novo-endereco
 locale: pt
 kiStatus: Fixed
 internalReference: 747772
@@ -18,7 +18,9 @@ internalReference: 747772
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface do usuário não mostra o formulário correto para editar o endereço selecionado na etapa de envio ao selecionar a adição de um novo endereço primeiro.

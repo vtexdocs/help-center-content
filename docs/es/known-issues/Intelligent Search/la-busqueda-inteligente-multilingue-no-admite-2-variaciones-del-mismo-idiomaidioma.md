@@ -1,16 +1,16 @@
 ---
-title: 'La búsqueda inteligente multilingüe no admite 2 variaciones del mismo idioma/idioma'
+title: "La búsqueda inteligente multilingüe no admite 2 variaciones del mismo idioma/idioma"
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2024-08-28T17:03:13.933Z
-publishedAt: 2024-08-28T17:03:13.933Z
+updatedAt: 2025-03-14T18:38:56.651Z
+publishedAt: 2025-03-14T18:38:56.651Z
 firstPublishedAt: 2023-06-09T20:41:32.884Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom
+slugEN: la-busqueda-inteligente-multilingue-no-admite-2-variaciones-del-mismo-idiomaidioma
 locale: es
 kiStatus: Backlog
 internalReference: 841704
@@ -18,7 +18,9 @@ internalReference: 841704
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional, y si utilizamos más de una configuración regional en la cuenta, la traducción se realizará en función del idioma al que se refiera la configuración regional.

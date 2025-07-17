@@ -1,5 +1,5 @@
 ---
-title: 'Price swapped if the same item is in the cart twice and one is from Assembly Options'
+title: "Price swapped if the same item is in the cart twice and one is from Assembly Options"
 id: 6ASEyEYPt9wjj4eSzMqdc0
 status: PUBLISHED
 createdAt: 2024-07-24T14:51:12.922Z

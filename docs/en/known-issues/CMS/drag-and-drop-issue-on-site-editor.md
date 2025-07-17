@@ -1,5 +1,5 @@
 ---
-title: 'Drag and Drop issue on Site Editor'
+title: "Drag and Drop issue on Site Editor"
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z
@@ -30,7 +30,7 @@ Customers cannot use the drag and drop feature in the site editor to upload imag
 
 Go to any account and try to upload a banner image through drag and drop
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/drag-and-drop-issue-on-site-editor_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 

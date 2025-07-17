@@ -1,5 +1,5 @@
 ---
-title: 'Importação do webservice (WSDL) em HTTPS traz referências em HTTP'
+title: "Importação do webservice (WSDL) em HTTPS traz referências em HTTP"
 id: 4dnbERTOWkWAkkmSg4i0w8
 status: PUBLISHED
 createdAt: 2018-08-06T15:10:50.988Z

@@ -1,5 +1,5 @@
 ---
-title: 'Inventory notifications to indexer are cached'
+title: "Inventory notifications to indexer are cached"
 id: 2eFmUbO1PR7ahxAGiMkqZd
 status: PUBLISHED
 createdAt: 2023-10-05T12:48:05.930Z

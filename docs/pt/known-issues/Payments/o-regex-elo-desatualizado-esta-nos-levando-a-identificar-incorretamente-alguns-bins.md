@@ -1,5 +1,5 @@
 ---
-title: 'O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs'
+title: "O regex Elo desatualizado está nos levando a identificar incorretamente alguns BINs"
 id: 45vx88VCQ0yZynkVxGqSq8
 status: PUBLISHED
 createdAt: 2024-04-10T17:25:57.376Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: outdated-elo-regex-is-causing-us-to-misidentify-some-bins
+slugEN: o-regex-elo-desatualizado-esta-nos-levando-a-identificar-incorretamente-alguns-bins
 locale: pt
 kiStatus: Backlog
 internalReference: 1015043
@@ -18,7 +18,9 @@ internalReference: 1015043
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns BINs não estão sendo identificados corretamente no checkout. A bandeira do cartão é determinada por um regex que pode ficar desatualizado, levando a marcas de cartão não identificadas ou identificadas incorretamente.

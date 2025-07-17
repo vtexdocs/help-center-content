@@ -14,6 +14,6 @@ trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments
 ---
 
-The VTEX Sales App [configuration](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) allows you to receive credit and debit card payments.
+The VTEX Sales App [configuration](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) allows you to receive credit and debit card payments.
 
 First you must enable the acquirer in the __Payments__ settings, then you can set up the desired payment terms. Click on `NEXT` to read the articles explaining all the configuration steps.

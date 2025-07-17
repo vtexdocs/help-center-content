@@ -1,5 +1,5 @@
 ---
-title: 'As promoções e os impostos restritos por método de envio não funcionam para os vendedores Whitelabel'
+title: "As promoções e os impostos restritos por método de envio não funcionam para os vendedores Whitelabel"
 id: 3ue1kZdbX1mMFqPCkl0tC4
 status: PUBLISHED
 createdAt: 2023-08-09T13:25:02.168Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: promotions-and-taxes-restricted-by-shipping-method-doesnt-works-for-whitelabel-sellers
+slugEN: as-promocoes-e-os-impostos-restritos-por-metodo-de-envio-nao-funcionam-para-os-vendedores-whitelabel
 locale: pt
 kiStatus: Backlog
 internalReference: 315485
@@ -18,7 +18,9 @@ internalReference: 315485
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As promoções e os impostos restritos por métodos de envio não funcionam para os vendedores Whitelabel. Eles não serão aplicados na solicitação de simulação (usada para o carrinho e o checkout) porque a solicitação do marketplace não especifica o `selectedSla` e, portanto, seus valores não serão apresentados ao usuário.

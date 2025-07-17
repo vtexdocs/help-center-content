@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario muestra erróneamente el precio del envío cuando los paquetes se dividen para una entrega programada.'
+title: "La interfaz de usuario muestra erróneamente el precio del envío cuando los paquetes se dividen para una entrega programada."
 id: 6HkjI7IwvvYaxHAqMS2aUv
 status: PUBLISHED
 createdAt: 2023-03-20T14:59:50.827Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-wrongly-displaying-the-shipping-price-when-packages-are-split-for-scheduled-delivery
+slugEN: la-interfaz-de-usuario-muestra-erroneamente-el-precio-del-envio-cuando-los-paquetes-se-dividen-para-una-entrega-programada
 locale: es
 kiStatus: Backlog
 internalReference: 774155
@@ -18,7 +18,9 @@ internalReference: 774155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay una división de paquetes para una entrega programada, el precio de uno de los paquetes puede ser incorrecto en la interfaz de usuario, pero los precios serán correctos en la API.

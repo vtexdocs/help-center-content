@@ -1,5 +1,5 @@
 ---
-title: 'La API para listar los puntos de recogida no devuelve el campo additionalInfo'
+title: "La API para listar los puntos de recogida no devuelve el campo additionalInfo"
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: api-to-list-pickup-points-does-not-return-additionalinfo-field
+slugEN: la-api-para-listar-los-puntos-de-recogida-no-devuelve-el-campo-additionalinfo
 locale: es
 kiStatus: No Fix
 internalReference: 650714
@@ -18,7 +18,9 @@ internalReference: 650714
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Nuestra API para listar los puntos de recogida por ubicación siempre devuelve `null` en el campo `additionalInfo`. Sin embargo, como estos datos normalmente provienen de la API de logística, estos datos están presentes en el orderForm cuando se realiza un pedido en la caja.

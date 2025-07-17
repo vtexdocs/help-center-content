@@ -1,5 +1,5 @@
 ---
-title: 'Items in benefits not generated in promotions with collections associated'
+title: "Items in benefits not generated in promotions with collections associated"
 id: 9HrnxMcq7VWFQOPhg9ywd
 status: PUBLISHED
 createdAt: 2024-02-21T15:09:01.111Z

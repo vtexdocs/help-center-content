@@ -1,5 +1,5 @@
 ---
-title: 'Títulos de colunas da exportação de produtos indisponíveis em inglês'
+title: "Títulos de colunas da exportação de produtos indisponíveis em inglês"
 id: 5Xxm9H2gRYnZ2jm3Wwt1TV
 status: PUBLISHED
 createdAt: 2019-01-23T21:52:49.274Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-export-headings-not-in-english
+slugEN: titulos-de-colunas-da-exportacao-de-produtos-indisponiveis-em-ingles
 locale: pt
 kiStatus: Backlog
 internalReference: 

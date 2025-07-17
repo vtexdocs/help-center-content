@@ -1,5 +1,5 @@
 ---
-title: 'As palavras substitutas de categoria e marca não estão sendo indexadas'
+title: "As palavras substitutas de categoria e marca não estão sendo indexadas"
 id: 4gIrMX8Wd2uW3Nekcbhu7S
 status: PUBLISHED
 createdAt: 2022-01-23T02:48:06.799Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: category-and-brand-substitute-words-not-being-indexed
+slugEN: as-palavras-substitutas-de-categoria-e-marca-nao-estao-sendo-indexadas
 locale: pt
 kiStatus: Backlog
 internalReference: 374204
@@ -18,7 +18,9 @@ internalReference: 374204
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Palavras substitutas para categorias e marcas não são levadas em conta na pesquisa

@@ -1,5 +1,5 @@
 ---
-title: 'Webops build status is blank'
+title: "Webops build status is blank"
 id: 2LJ4SUqRfpU2u2Xbquua0J
 status: PUBLISHED
 createdAt: 2024-11-11T14:56:11.685Z
@@ -30,7 +30,7 @@ Sometimes, after deploying some changes to your Webops store, the Webops admin p
 
 - Try to deploy something
 - Check the status on the Webops's status, it may remain blank but on Github you'll be able to follow the build process
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/webops-build-status-is-blank_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bZAviGkL4If4NmvveJD6lynFs/?name=image.png)
 
 
 ##

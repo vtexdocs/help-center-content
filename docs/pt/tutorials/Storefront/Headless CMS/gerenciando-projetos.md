@@ -3,8 +3,8 @@ title: 'Gerenciando Projetos'
 id: 42IpDFqTVTESH8DCypJMPM
 status: PUBLISHED
 createdAt: 2023-11-01T13:45:57.091Z
-updatedAt: 2024-09-11T14:05:18.500Z
-publishedAt: 2024-09-11T14:05:18.500Z
+updatedAt: 2025-04-25T13:31:33.762Z
+publishedAt: 2025-04-25T13:31:33.762Z
 firstPublishedAt: 2023-11-01T19:38:50.237Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -17,21 +17,19 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 Projetos é uma funcionalidade do VTEX Headless CMS que simplifica o gerenciamento de vários projetos de frontend, como aplicativos móveis, sites e email marketing em uma única tela.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless%20CMS/gerenciando-projetos_1.gif)
+![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
 
 Cada projeto tem suas configurações, conteúdo e marca personalizados de acordo com públicos ou objetivos específicos.
 
 Neste guia, você aprenderá como gerenciar cada projeto de frontend da sua loja.
 
->⚠️ [ FastStore WebOps usuários](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview):As alterações feitas pelo Headless CMS no VTEX Admin, como a criação de novos tipos de conteúdo (content types), a adição de seções ou a atualização de campos, podem não aparecer automaticamente na loja uma vez que você as publique. Isso é um problema conhecido, e você deve entrar em contato com sua equipe de desenvolvimento para implementar a solução necessária. Para instruções detalhadas, consulte o artigo de problema conhecido [ O aplicativo WebOps não está totalmente integrado com o Headless CMS](https://help.vtex.com/pt/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW).
-
 ## Antes de começar
-Certifique-se de que os [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+Certifique-se de que os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.
 
-![Projects overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless%20CMS/gerenciando-projetos_2.png)
+![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -53,7 +51,7 @@ O webhook é um endpoint HTTP que permite a comunicação automatizada entre o V
 
 Depois de criar um novo projeto, você poderá criar páginas para ele com todas as rotas de URL e modelos de página compatíveis com a sua loja, como páginas iniciais, de produtos e de login.
 
-Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](https://help.vtex.com/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Configurações do projeto
 As configurações do projeto permitem que você o configure de acordo com três categorias principais:
@@ -93,7 +91,7 @@ Escolha um storefront da sua conta (por exemplo, FastStore). Os campos de [Build
 | ---------- | ---------- | ---------- |
 | URL das seções | URL do webhook para receber e salvar as seções criadas no código-fonte no Headless CMS.      | `https://infra.io.vtex.com/vbase/v0/{nomedaconta}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/sections`       |
 | URL dos tipos de conteúdo      | URL do webhook para receber e salvar os tipos de conteúdo criados no código-fonte no Headless CMS.       | `https://infra.io.vtex.com/vbase/v0/{nomedaconta}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types`       |
-| URL de build do webhook       | URL do webhook para iniciar um novo build no Headless CMS quando uma página ou conteúdo é adicionado ou editado.       | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{nomedaconta}/{workspace}/build-releases`       |
+| URL de build do webhook       | URL do webhook para iniciar um novo build no Headless CMS quando uma página ou conteúdo é adicionado ou editado.</br>[Problema conhecido - O Headless CMS não está simulando dados entre espaços de trabalho](/pt/known-issues/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho--iDUOWMDKXPb6ZjO19kmO7) Devido a um problema de simulação de dados, rascunhos criados em qualquer workspace atualmente aparecem no ambiente master. Isso significa que alterações que deveriam ficar isoladas em workspaces individuais estão visíveis no workspace master | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{nomedaconta}/master/build-releases`       |
 | Salvar URL do webhook       | URL do webhook para permitir pré-visualizações do projeto em tempo real, enviando uma notificação para que você atualize a página para refletir as alterações mais recentes no Headless CMS.       |  -       |
 | URL de pré-visualização       | URL do webhook que permite a pré-visualização de páginas no Headless CMS.       | `https://{nomedaconta}.vtex.app/api/preview`       |
 
@@ -114,7 +112,7 @@ Para arquivar um projeto, siga os passos abaixo:
 2. Escolha o projeto que deseja arquivar e clique em **Configurações** (⚙️). Isso abrirá um modal.
 
 3. No modal, clique em `Arquivar projeto` na página `Geral`. Uma mensagem pop-up aparecerá confirmando se você deseja arquivar o projeto.
-![Arquivar projeto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless%20CMS/gerenciando-projetos_3.png)
+![Arquivar projeto](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/c7410dbcff84549da3a15720a0ce68ed/projects-three-pt.png)
 4. Clique em `Arquivar`. Em seguida, será exibida uma mensagem informando que o projeto foi arquivado com sucesso.
 
 Para restaurar um projeto arquivado, siga os passos em [Restaurar projeto](#restaurar-projeto).

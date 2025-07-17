@@ -1,10 +1,10 @@
 ---
 title: 'Registar Colecciones (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2024-03-04T20:48:30.215Z
-publishedAt: 2024-02-22T12:15:26.041Z
+updatedAt: 2025-04-14T19:31:23.563Z
+publishedAt: 2025-04-14T19:31:23.563Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,10 @@ legacySlug: registrar-colecciones-beta
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
->ℹ️ Existen dos formas de configurar las colecciones, a través del **CMS** o utilizando el módulo **Colecciones (Beta)**. Este artículo se refiere a la configuración de colecciones mediante el módulo **Colecciones (Beta)**. 
->
-> La funcionalidad está en versión Beta y disponible únicamente para ambientes Admin v3. En caso de dudas, [contacte a nuestro soporte](https://support.vtex.com/hc/es-419/requests).
+<div class = "alert alert-info">
+  <p>Existen dos formas de configurar las colecciones, a través del <b>CMS</b> o utilizando el módulo <b>Colecciones (Beta)</b>. Este artículo se refiere a la configuración de colecciones mediante el módulo <b>Colecciones (Beta)</b>.</p> 
+    <p>La funcionalidad está en versión Beta y disponible únicamente para ambientes Admin v3. En caso de dudas, <a href="https://support.vtex.com/hc/es-419/requests">contacte a nuestro soporte</a>.</p>
+</div>
 
 Este nuevo módulo de **Colecciones (Beta)** permite crear y gestionar colecciones de forma práctica y rápida.
 
@@ -33,9 +34,11 @@ Este artículo explica cómo:
 
 ## Requisito previo
 
-Para crear una colección, debe tener el [perfil de acceso](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=es) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](https://help.vtex.com/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
+Para crear una colección, debe tener el [perfil de acceso](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=es) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
 
->ℹ️ Es importante destacar que las colecciones creadas en este módulo no se alteran automáticamente. Las colecciones automáticas — realizadas mediante la selección de filtros — no se pueden configurar en el módulo.
+<div class = "alert alert-info">
+  <p>Es importante destacar que las colecciones creadas en este módulo no se alteran automáticamente. Las colecciones automáticas — realizadas mediante la selección de filtros — no se pueden configurar en el módulo.</p>
+</div>
 
 ## Crear una colección
 
@@ -44,9 +47,9 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 1. En el Admin VTEX, accede a **Catálogo**, o escribe **Catálogo** en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en **Colecciones**.
 3. Haga clic en el botón `Crear Colección`.
-4. Complete los [campos del formulario de la nueva colección](https://help.vtex.com/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-registro-de-la-coleccion).
+4. Complete los [campos del formulario de la nueva colección](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-registro-de-la-coleccion).
 5. Haga clic en `Crear` para guardar la información ingresada en el formulario.
-6. Luego, [seleccione los productos](https://help.vtex.com/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#seleccion-de-productos) que formarán parte de la colección.
+6. Luego, [seleccione los productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#seleccion-de-productos) que formarán parte de la colección.
 
 ### Campos de registro de la colección
 
@@ -55,6 +58,10 @@ Para entender mejor el significado de los campos de registro de una colección d
 #### Configuración de la nueva colección
 
 - **Nombre de la colección:** nombre de la colección creada. Este campo es obligatorio.
+  <div class="alert alert-danger">
+No utilice caracteres especiales en el nombre de la colección.
+</div>
+
 - **Descripción simple:** descripción con detalles de la colección para uso interno. No se utilizará para mecanismos de búsqueda.
 - **Agregar productos automáticamente**: incluir automáticamente los productos en la colección según los criterios seleccionados.
 
@@ -85,30 +92,32 @@ La selección de productos vía Admin VTEX se puede realizar a través de la lis
 
 Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista. 
 
-![Colecciones - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_1.PNG)
+![Colecciones - ES](https://images.ctfassets.net/alneenqid6w5/3FPMxYUHhfXCFgdJ1YaWBA/01b312b5cec4047135e06017b227eec3/Colecciones_-_ES.PNG)
 
 Usted puede crear nuevos filtros a partir de otros criterios que no se incluyen en los filtros predeterminados. Las siguientes imágenes muestran algunas opciones:
 
-![Novo filtro - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_2.PNG)
+![Novo filtro - ES](https://images.ctfassets.net/alneenqid6w5/5CBl4UWLGKo9sf5CqoOIRD/fd2f6536dba1a15e56d64a94df9f66f8/Novo_filtro_-_ES.PNG)
 
-![Filtro Colecao detalhes - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_3.PNG)
+![Filtro Colecao detalhes - ES](https://images.ctfassets.net/alneenqid6w5/7E4dl1gucqIaCUMGEfZIK1/5426ac9eab57f5e5b9241ec8525140e8/Filtro_Colecao_detalhes_-_ES.PNG)
 
 Para agregar un producto a la colección, solo haga clic en el ícono <i class="fas fa-plus-circle" title = "símbolo de agregar en círculo"></i> del producto. De esa forma, se guardará en la colección automáticamente.  
 
 Si desea más información sobre el ítem, haga clic en el ícono <i class="fas fa-external-link-alt" title = "enlace externo"></i> para abrir la página del producto, o haga clic en la imagen para verla de forma ampliada. 
 
-![ES-colecao-adicionar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_4.gif)
+![ES-colecao-adicionar](https://images.ctfassets.net/alneenqid6w5/301ci58WsAbhxqAjczEVwj/1683d83db5dfa0526adef94f3c2bc7b0/ES-colecao-adicionar.gif)
 
 Si desea incluir productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Agregar Todo`. Es importante destacar que el producto debe tener al menos un SKU registrado para ser incluido en una colección.
 
-![ES-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_5.png)
+![ES-colecao-adicionar-todos](https://images.ctfassets.net/alneenqid6w5/1Qtj7Lq2xPebiPh4SrSV4R/6e66d5f68b4ffe07f6d1dd86bf16726c/ES-colecao-adicionar-todos.png)
 
->❗ No agregue de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de la tienda.
+<div class = "alert alert-danger">
+<p>No agregue de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de la tienda.</p>
+</div>
 
 #### Por plantilla
 Usted también puede agregar ítems a una colección mediante una plantilla. 
 
->ℹ️ El límite máximo para la importación e exportación es de 10,000 SKUs por operación.
+<div class = "alert alert-info">El límite máximo para la importación e exportación es de 10,000 SKUs por operación.</div>
 
 Para eso, realice los siguientes pasos: 
 
@@ -116,13 +125,15 @@ Para eso, realice los siguientes pasos:
   2. Haga clic en la opción **Incluir productos a la colección**, y luego en el botón `Importar`.
   3. Haga clic en `Descargar la plantilla` para obtener la plantilla correcta como se muestra aquí:
 
-![colecao-planilha -ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_6.png)
+![colecao-planilha -ES](https://images.ctfassets.net/alneenqid6w5/4Mqxv9SSr8WynEiEah45ix/fa56634539212f663c2a3f36782b5f66/colecao-planilha_-ES.png)
 
   4. Complete la plantilla con los IDs o los RefIDs de los productos o de los SKUs. Solo agregue un ID en cada fila. Independientemente del ID que ingrese, todos los SKUs del producto seleccionado se añadirán a la colección después de la importación.
   5. Después de completar la plantilla, guarde las modificaciones e importe el documento en el Admin. Usted puede arrastrar y soltar el archivo en el área indicada o hacer clic en **Selecciona un archivo**. Se aceptan archivos en formato CSV o XML. En caso de que utilice un arquivo CSV, use , para delimitar los campos.
   6. Para finalizar, haga clic en `Importar`.
 
->⚠️ La plantilla puede contener hasta 10.000 líneas. Sin embargo, en tiendas con un catálogo extenso, recomendamos incluir un máximo de 50 líneas a la vez para asegurar que la importación funcione correctamente.
+<div class = "alert alert-warning">
+  <p>La plantilla puede contener hasta 10.000 líneas. Sin embargo, en tiendas con un catálogo extenso, recomendamos incluir un máximo de 50 líneas a la vez para asegurar que la importación funcione correctamente.</p>
+</div>
 
 ### Eliminación de productos
 
@@ -132,15 +143,17 @@ Los productos se pueden eliminar mediante la selección de los ítems en la list
 
 Para eliminar un ítem de la colección, solo debe hacer clic en el ícono <i class="fas fa-check-circle" title = "check en círculo"></i> del producto. 
 
-![ES-colecao-remover](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_7.gif)
+![ES-colecao-remover](https://images.ctfassets.net/alneenqid6w5/4FcChdnT9NIYu69aS13TgM/f0b6c63d35ec92f9eb18f005b49d8d8a/ES-colecao-remover.gif)
 
 Si desea eliminar productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Eliminar Todo`.
 
-![ES-colecao-remover-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_8.png)
+![ES-colecao-remover-todos](https://images.ctfassets.net/alneenqid6w5/7s9ZJCnRkWSeY8xMJ5DelL/a2ca949f1e3d59fe49a2428b27c0d86e/ES-colecao-remover-todos.png)
 
 También puede hacer clic en el botón <i class="far fa-check-circle" title = "produtos nesta coleção"></i> (Productos nen esta colección) en la barra superior y después seleccionar `Eliminar Todo`. 
 
->❗ No elimine de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de su tienda.
+<div class = "alert alert-danger">
+  <p>No elimine de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de su tienda.</p>
+</div>
 
 #### Por plantilla
 
@@ -161,11 +174,13 @@ Para alterar el orden de su colección, siga estos pasos:
 
   a. Haga clic en el ícono <i class="fas fa-grip-vertical" title = "arrastrar vertical"></i>, arrastre y suelte el ítem de acuerdo con la posición deseada.
 
-  >ℹ️ No se puede utilizar esta opción si un filtro está activo.
+  <div class = "alert alert-info">
+    <p>No se puede utilizar esta opción si un filtro está activo.</p>
+  </div>
 
   b. Seleccione la caja de los productos que desea alterar y haga clic en `Mover a la posición`. Indique el número de la nueva posición y, para finalizar, haga clic en `Mover`. De esta manera, puede ordenar todos los ítems de la lista de forma masiva. 
 
-![mover-colecao-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Collection/registrar-colecciones-beta_9.png)
+![mover-colecao-ES](https://images.ctfassets.net/alneenqid6w5/2fhHZIuCwN7aysjh78tOae/20aa235a1c6afa1a6c3504b0110a2b9d/mover-colecao-ES.png)
 
 ### Exportar la plantilla de la colección
 

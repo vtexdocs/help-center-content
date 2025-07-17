@@ -1,5 +1,5 @@
 ---
-title: '[Dafiti] Imagens de qualidade Dafiti'
+title: "[Dafiti] Imagens de qualidade Dafiti"
 id: 7C5ms968kPMM1NcNUT0QKU
 status: PUBLISHED
 createdAt: 2022-10-10T18:48:49.694Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: dafiti-quality-dafiti-images
+slugEN: imagens-de-qualidade-dafiti
 locale: pt
 kiStatus: Fixed
 internalReference: 675317
@@ -18,7 +18,9 @@ internalReference: 675317
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A imagem perde qualidade quando chega à Dafiti.

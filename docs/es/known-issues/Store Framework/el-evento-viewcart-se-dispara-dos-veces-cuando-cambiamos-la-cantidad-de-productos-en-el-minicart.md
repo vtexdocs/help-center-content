@@ -1,5 +1,5 @@
 ---
-title: 'El evento view_cart se dispara dos veces cuando cambiamos la cantidad de productos en el minicart'
+title: "El evento view_cart se dispara dos veces cuando cambiamos la cantidad de productos en el minicart"
 id: 3NlB10z0ulKu7sySxPgkmp
 status: PUBLISHED
 createdAt: 2024-05-28T20:13:35.657Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: viewcart-event-is-triggered-twice-when-we-change-product-quantity-in-minicart
+slugEN: el-evento-viewcart-se-dispara-dos-veces-cuando-cambiamos-la-cantidad-de-productos-en-el-minicart
 locale: es
 kiStatus: Fixed
 internalReference: 1040772
@@ -18,7 +18,9 @@ internalReference: 1040772
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando cambiamos la cantidad de un producto en el minicart el evento view_cart se dispara dos veces

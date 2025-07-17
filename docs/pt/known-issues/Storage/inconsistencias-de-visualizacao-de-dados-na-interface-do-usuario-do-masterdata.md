@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistências de visualização de dados na interface do usuário do Masterdata'
+title: "Inconsistências de visualização de dados na interface do usuário do Masterdata"
 id: 5Sq6WAfBWynrOIZx8rFKdu
 status: PUBLISHED
 createdAt: 2024-09-27T18:00:31.097Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: data-visualization-inconsistencies-on-masterdata-ui
+slugEN: inconsistencias-de-visualizacao-de-dados-na-interface-do-usuario-do-masterdata
 locale: pt
 kiStatus: Backlog
 internalReference: 1107262
@@ -18,7 +18,9 @@ internalReference: 1107262
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um campo em uma entidade é configurado para ter um valor padrão e um documento com um valor nulo para esse campo é acessado por meio da interface do usuário de dados mestre, a interface do usuário exibirá incorretamente o valor padrão. Esse problema geralmente ocorre com documentos criados antes da configuração desse campo, pois a criação do campo não atualiza retroativamente os documentos existentes.

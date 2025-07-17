@@ -1,5 +1,5 @@
 ---
-title: 'CEPs com nome do distrito sem a cidade respectiva'
+title: "CEPs com nome do distrito sem a cidade respectiva"
 id: 1DrAs9AqCoakeaWoAKSYkm
 status: PUBLISHED
 createdAt: 2017-04-05T21:12:36.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: postal-codes-with-district-name-without-city
+slugEN: ceps-com-nome-do-distrito-sem-a-cidade-respectiva
 locale: pt
 kiStatus: Backlog
 internalReference: 

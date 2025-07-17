@@ -1,5 +1,5 @@
 ---
-title: 'Trigger no funciona'
+title: "Trigger no funciona"
 id: 4dX1C5BVnkobCV7VrwRiD4
 status: PUBLISHED
 createdAt: 2019-04-01T22:06:02.199Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: Master Data
-slugEN: trigger-doesnt-work
+slugEN: trigger-no-funciona
 locale: es
 kiStatus: Fixed
 internalReference: 

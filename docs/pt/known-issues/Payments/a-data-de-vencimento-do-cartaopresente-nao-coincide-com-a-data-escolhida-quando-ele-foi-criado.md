@@ -1,5 +1,5 @@
 ---
-title: 'A data de vencimento do cartão-presente não coincide com a data escolhida quando ele foi criado'
+title: "A data de vencimento do cartão-presente não coincide com a data escolhida quando ele foi criado"
 id: 57GeuSubkdDkQNwzL3nmup
 status: PUBLISHED
 createdAt: 2022-03-27T14:08:35.577Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-expiration-date-does-not-match-with-the-date-chosen-when-it-was-created
+slugEN: a-data-de-vencimento-do-cartaopresente-nao-coincide-com-a-data-escolhida-quando-ele-foi-criado
 locale: pt
 kiStatus: No Fix
 internalReference: 378436
@@ -18,7 +18,9 @@ internalReference: 378436
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes estão recebendo um erro ao tentarem pagar com Cartões-Presente quando a data da compra coincide com a data de expiração.

@@ -1,5 +1,5 @@
 ---
-title: 'O checkout não pode remover o item de presente quando não estiver disponível após o ponto de retirada selecionado'
+title: "O checkout não pode remover o item de presente quando não estiver disponível após o ponto de retirada selecionado"
 id: 4D6KBdrK4WU1XE81SVBPzc
 status: PUBLISHED
 createdAt: 2023-01-30T16:37:22.633Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-cant-remove-gift-item-when-unavailable-after-pickuppoint-selected
+slugEN: o-checkout-nao-pode-remover-o-item-de-presente-quando-nao-estiver-disponivel-apos-o-ponto-de-retirada-selecionado
 locale: pt
 kiStatus: Backlog
 internalReference: 363885
@@ -18,7 +18,9 @@ internalReference: 363885
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao utilizar um item em um carrinho com um benefício de promoção de presentes, o item dentro dele não pode ser removido se não estiver disponível após a seleção do ponto de coleta.

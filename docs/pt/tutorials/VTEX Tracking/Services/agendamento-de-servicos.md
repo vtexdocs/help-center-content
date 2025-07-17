@@ -17,8 +17,10 @@ subcategoryId: 7GypxQ3HDmFVCHTNTwyhr0
 
 Caso haja a necessidade de se organizar para algum serviço que deve ser feito em uma data e turno já definidos, você  pode fazer esse agendamento na plataforma VTEX Tracking.
 
->⚠️ Para utilizar o agendamento, os serviços precisam estar previamente cadastrados na plataforma.  Leia o artigo [Importação de Serviços](https://vtexhelp.myvtex.com/tutorial/importacao-de-servicos--2LRgMnGbX0af7krrs6tXy3?__bindingAddress=vtexhelp.myvtex.com/)
->  para maiores informações.
+<div class="alert alert-warning"> 
+Para utilizar o agendamento, os serviços precisam estar previamente cadastrados na plataforma.  Leia o artigo <a href="https://vtexhelp.myvtex.com/tutorial/importacao-de-servicos--2LRgMnGbX0af7krrs6tXy3?__bindingAddress=vtexhelp.myvtex.com/">Importação de Serviços</a>
+ para maiores informações.
+</div>
 
 Para agendar um serviço é preciso realizar os seguintes passos:
 
@@ -46,9 +48,11 @@ Na planilha os campos a serem preenchidos são:
 
 Para escolher o turno da entrega, marque um X na célula em apenas um dos turnos (Manhã, Tarde ou Noite).
 
-![exemplo de planilha de agendamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Tracking/Services/agendamento-de-servicos_1.png)
+![exemplo de planilha de agendamento](https://images.ctfassets.net/alneenqid6w5/5crlOibYcmzfWkusdc2iSP/2cefb30f0df8fc7ab61104a09f8f9414/exemplo_planilha_agendamento.png)
 
->❗ O modelo da planilha não deve ser alterado. Nenhuma coluna deve ser modificada ou trocada de posição.
+<div class="alert alert-danger"> 
+O modelo da planilha não deve ser alterado. Nenhuma coluna deve ser modificada ou trocada de posição. 
+</div>
 
 ## Upload da planilha
 
@@ -68,6 +72,8 @@ Depois de preencher a planilha, você precisa subir o arquivo na plataforma VTEX
 4. Na tela de Editar Serviço, faça a edição necessária.
 5. Clique em __Salvar.__
 
->⚠️ Os agendamentos só podem ser alterados se as entregas ainda estiverem no status Ativo.
+<div class="alert alert-warning">
+Os agendamentos só podem ser alterados se as entregas ainda estiverem no status Ativo. 
+</div>
 
-![Agendamento de serviços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Tracking/Services/agendamento-de-servicos_2.gif)
+![Agendamento de serviços](https://images.ctfassets.net/alneenqid6w5/OhKdJX8S3Ef4EjoUOaGL3/5f463a280ae7cfa51a856d047b39be82/Agendamento.gif)

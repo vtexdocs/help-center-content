@@ -1,5 +1,5 @@
 ---
-title: 'Cobranças não permitem mais de 1000 SKUs por Upload'
+title: "Cobranças não permitem mais de 1000 SKUs por Upload"
 id: 4XC2ZLCsBkQhexRB4YrNMn
 status: PUBLISHED
 createdAt: 2023-04-19T13:53:02.339Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-does-not-allow-more-than-1000-skus-per-upload
+slugEN: cobrancas-nao-permitem-mais-de-1000-skus-por-upload
 locale: pt
 kiStatus: Backlog
 internalReference: 793274
@@ -18,7 +18,9 @@ internalReference: 793274
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o upload de itens para o novo módulo de coleções com uma lista que tem mais de 1000 SKUs não é possível, uma vez que o processo terá um timeout.

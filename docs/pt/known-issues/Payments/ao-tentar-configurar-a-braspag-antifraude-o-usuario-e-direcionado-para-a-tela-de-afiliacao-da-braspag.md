@@ -1,5 +1,5 @@
 ---
-title: 'Ao tentar configurar a Braspag anti-fraude, o usuário é direcionado para a tela de afiliação da Braspag'
+title: "Ao tentar configurar a Braspag anti-fraude, o usuário é direcionado para a tela de afiliação da Braspag"
 id: YcLMt8AUf9SVN9s3cbKSk
 status: PUBLISHED
 createdAt: 2022-03-28T01:55:40.554Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: when-trying-to-setup-the-braspag-antifraud-the-user-is-directed-to-the-braspag-affiliation-screen
+slugEN: ao-tentar-configurar-a-braspag-antifraude-o-usuario-e-direcionado-para-a-tela-de-afiliacao-da-braspag
 locale: pt
 kiStatus: Backlog
 internalReference: 334239
@@ -18,7 +18,9 @@ internalReference: 334239
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos duas integrações internas com a Braspag, uma para a luta antifraude e outra para uma afiliação (ambas com o mesmo nome). Ao tentar clicar em anti-fraude para configurar, o usuário é direcionado para os campos de configuração de afiliação. Portanto, não é possível configurar o antifraude da Braspag através da UI Admin

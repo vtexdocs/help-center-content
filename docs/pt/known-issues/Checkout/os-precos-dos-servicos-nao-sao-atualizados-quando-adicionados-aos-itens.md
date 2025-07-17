@@ -1,5 +1,5 @@
 ---
-title: 'Os preços dos serviços não são atualizados quando adicionados aos itens'
+title: "Os preços dos serviços não são atualizados quando adicionados aos itens"
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: services-prices-are-not-updated-when-added-to-items
+slugEN: os-precos-dos-servicos-nao-sao-atualizados-quando-adicionados-aos-itens
 locale: pt
 kiStatus: Backlog
 internalReference: 822107
@@ -18,7 +18,9 @@ internalReference: 822107
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os preços dos serviços não são atualizados se tiverem sido adicionados a um item antes da alteração do preço do serviço no administrador. Isso fará com que o pedido seja criado com um preço desatualizado.

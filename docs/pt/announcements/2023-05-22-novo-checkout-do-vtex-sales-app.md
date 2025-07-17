@@ -25,7 +25,7 @@ Além disso, o novo checkout permite a venda de produtos com informações perso
 2. Ou ainda, o vendedor pode incluir uma mensagem especial para ser colocada numa embalagem de presente, adicionando um toque pessoal e emocional à compra.
 3. E mais, o vendedor também pode informar o número de série na venda de uma joia, garantindo a autenticidade e o valor do item, ao mesmo tempo que proporciona um registro crucial para fins de seguro ou revenda.
 
-A personalização é totalmente configurável por SKU, por meio do [cadastro de anexos](https://help.vtex.com/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU), proporcionando flexibilidade e adaptabilidade para atender às necessidades específicas de cada produto.
+A personalização é totalmente configurável por SKU, por meio do [cadastro de anexos](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU), proporcionando flexibilidade e adaptabilidade para atender às necessidades específicas de cada produto.
 
 ## Por que fizemos essa mudança?
 Fizemos essa mudança no Sales App para melhor atender às suas necessidades e expectativas. Refletindo as tendências do mercado, percebemos a importância de oferecer uma experiência de compra aprimorada, mais rápida e eficiente.
@@ -34,8 +34,8 @@ Fizemos essa mudança no Sales App para melhor atender às suas necessidades e e
 Nenhuma ação é necessária, já que a atualização será aplicada automaticamente em todas as lojas VTEX que utilizam o Sales App. 
 Para mais informações sobre o Sales App, consulte a nossa documentação:
 
-- [Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-- [Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-- [Sales App - Usando o app](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-- [Estratégias de Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
+- [Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+- [Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+- [Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+- [Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
 

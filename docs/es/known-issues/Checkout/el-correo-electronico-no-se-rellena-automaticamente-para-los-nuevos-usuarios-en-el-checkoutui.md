@@ -1,5 +1,5 @@
 ---
-title: 'El correo electrónico no se rellena automáticamente para los nuevos usuarios en el checkout-ui'
+title: "El correo electrónico no se rellena automáticamente para los nuevos usuarios en el checkout-ui"
 id: 2twqCnmbnrXwP04HOwaty2
 status: PUBLISHED
 createdAt: 2023-08-25T15:27:48.210Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: email-not-autofilling-for-new-users-on-checkoutui
+slugEN: el-correo-electronico-no-se-rellena-automaticamente-para-los-nuevos-usuarios-en-el-checkoutui
 locale: es
 kiStatus: Backlog
 internalReference: 887949
@@ -18,7 +18,9 @@ internalReference: 887949
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un nuevo usuario introduce un nuevo correo electrónico en el paso de correo electrónico y pasa a la página siguiente, en el componente de datos del cliente, el correo electrónico no se rellena automáticamente.

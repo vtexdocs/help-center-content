@@ -1,5 +1,5 @@
 ---
-title: "The term 'Access Profile' has been replaced by the term 'Role' in your Admin UI"
+title: 'The term "Access Profile" has been replaced by the term "Role" in your Admin UI'
 id: jSmEYL6oN5QFLA20a8Aj9
 status: PUBLISHED
 createdAt: 2021-03-23T14:02:18.054Z
@@ -19,7 +19,7 @@ announcementSynopsisEN: 'The term "Access Profile" has been replaced by "Role" t
 
 What was called “Access Profile” in the Account Management module will now be called “Role”. This change applies only to the English interface. The Admin and all documentation have been updated with the new term. No functionality has been affected. Here’s an example of how the term appears on the Roles dashboard in the Admin:
 
-![Roles Panel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-03-23-the-term-access-profile-has-been-replaced-by-the-term-role-in-your-admin-ui_1.png)
+![Roles Panel](https://images.ctfassets.net/alneenqid6w5/3onlQoxSxoBtgwPGtGUUdH/bd0130c89de14555d1bf9dd465c420be/Roles_Panel.png)
 
 All documents that mentioned this concept, both on our Developer Portal and Help Center, have been changed to include the new term.
 

@@ -1,5 +1,5 @@
 ---
-title: 'A SKU removida do Amazon SC não está sendo desabilitada no Amazon Portal'
+title: "A SKU removida do Amazon SC não está sendo desabilitada no Amazon Portal"
 id: 9yeLgMrhp9nSu9MtJ518G
 status: PUBLISHED
 createdAt: 2023-05-18T11:43:30.694Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: sku-removed-from-amazon-sc-is-not-being-disable-in-amazon-portal
+slugEN: a-sku-removida-do-amazon-sc-nao-esta-sendo-desabilitada-no-amazon-portal
 locale: pt
 kiStatus: Fixed
 internalReference: 827760
@@ -18,7 +18,9 @@ internalReference: 827760
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Change order link on checkout/orderPlaced is leading to myAccount instead of the order page'
+title: "Change order link on checkout/orderPlaced is leading to myAccount instead of the order page"
 id: 6bP44VBdFIujX072rY6wCA
 status: PUBLISHED
 createdAt: 2023-06-15T16:13:03.752Z
@@ -31,7 +31,7 @@ However, this link is not redirecting the customer to the edit page, but to the 
 
 
 Setup the Allow customers to make changes to orders flag on Admin -> settings -> order settings
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/GqrSJ7cBhZc844LR3kXH7WMlX/?name=image.png)
 
 The shopper fulfills an order and goes to the checkout/orderPlaced
 

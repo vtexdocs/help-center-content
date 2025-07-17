@@ -19,22 +19,24 @@ When an order placed on a marketplace is not integrated with VTEX, an error mess
 
 The error message often mentions SLA, the acronym for Service Level Agreement, which is the service agreement signed between the VTEX store and the marketplace. SLA errors mean that something is preventing the delivery of the order to the end customer. 
 
-To identify the problem, perform a [shipping simulation](https://help.vtex.com/en/tutorial/simulacao-de-frete). The Shipping Simulator tool allows you to check the delivery conditions of the product without actually creating an order.
+To identify the problem, perform a [shipping simulation](/en/tutorial/simulacao-de-frete). The Shipping Simulator tool allows you to check the delivery conditions of the product without actually creating an order.
 
 Here are the most common problems that cause SLA errors:
 
-- **Out of stock:** when one or more SKUs in the order are unavailable. For more information, see the article [Out-of-stock errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP#).
-- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associate a SKU to a trade policy](https://help.vtex.com/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
-- **Delivery zip code not covered by the shipping strategy:** when the delivery of the order to a given address is not included in your [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete).
-- **Loading dock not associated with trade policy:** when [adding the dock](https://help.vtex.com/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), you must link it with the trade policy defined for the marketplace.
+- **Out of stock:** when one or more SKUs in the order are unavailable. For more information, see the article [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP#).
+- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associate a SKU to a trade policy](/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+- **Delivery zip code not covered by the shipping strategy:** when the delivery of the order to a given address is not included in your [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete).
+- **Loading dock not associated with trade policy:** when [adding the dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), you must link it with the trade policy defined for the marketplace.
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **Marketplace > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
->ℹ️ If the error persists, open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
+<div class="alert alert-info">
+If the error persists, open a <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt">VTEX support ticket</a>.
+</div>
 
 ### Learn more
 
-- [Out-of-stock errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Shipping Simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete)
-- [Resolution of price divergence errors in marketplace integration orders](https://help.vtex.com/en/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Shipping Simulator](/en/tutorial/simulacao-de-frete)
+- [Resolution of price divergence errors in marketplace integration orders](/en/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)

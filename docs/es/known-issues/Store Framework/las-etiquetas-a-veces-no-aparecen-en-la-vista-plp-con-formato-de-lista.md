@@ -1,5 +1,5 @@
 ---
-title: 'Las etiquetas a veces no aparecen en la vista PLP con formato de lista'
+title: "Las etiquetas a veces no aparecen en la vista PLP con formato de lista"
 id: 4CPSP7GjBfUgxFvmnAhK8z
 status: PUBLISHED
 createdAt: 2024-02-15T13:58:42.405Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: tags-wont-sometimes-appear-on-list-format-plp-view
+slugEN: las-etiquetas-a-veces-no-aparecen-en-la-vista-plp-con-formato-de-lista
 locale: es
 kiStatus: No Fix
 internalReference: 982200
@@ -18,7 +18,9 @@ internalReference: 982200
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al visualizar el PLP en vista de lista, las etiquetas de los elementos.

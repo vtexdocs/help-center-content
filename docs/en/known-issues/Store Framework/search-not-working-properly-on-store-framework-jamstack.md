@@ -1,5 +1,5 @@
 ---
-title: 'Search not working properly on Store Framework Jamstack'
+title: "Search not working properly on Store Framework Jamstack"
 id: 7Duxb3ui9A8G1zm9TdRQY6
 status: PUBLISHED
 createdAt: 2022-03-21T18:03:56.544Z

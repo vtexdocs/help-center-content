@@ -1,5 +1,5 @@
 ---
-title: 'Tag canonical em páginas customizadas '
+title: "Tag canonical em páginas customizadas"
 id: 70PufEhKCcgmOQo6CkAEAc
 status: PUBLISHED
 createdAt: 2017-12-24T16:14:54.951Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: canonical-tag-on-custom-pages
+slugEN: tag-canonical-em-paginas-customizadas
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'El horario de recogida del legado no respeta la zona horaria de SC.'
+title: "El horario de recogida del legado no respeta la zona horaria de SC."
 id: 6f0P1Fe9ha1hLQZq80QYOL
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:26.292Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-collection-schedule-does-not-respect-sc-timezone
+slugEN: el-horario-de-recogida-del-legado-no-respeta-la-zona-horaria-de-sc
 locale: es
 kiStatus: Backlog
 internalReference: 316054
@@ -18,7 +18,9 @@ internalReference: 316054
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El horario de recogida del legado no respeta la zona horaria de SC.

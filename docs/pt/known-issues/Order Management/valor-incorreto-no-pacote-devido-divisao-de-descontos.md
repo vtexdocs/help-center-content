@@ -1,5 +1,5 @@
 ---
-title: 'Valor Incorreto no Pacote devido Divisão de Descontos'
+title: "Valor Incorreto no Pacote devido Divisão de Descontos"
 id: f27JxOqSf3sAKeHkQlHUa
 status: PUBLISHED
 createdAt: 2022-06-27T14:28:29.925Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: incorrect-value-on-package-due-discount-division
+slugEN: valor-incorreto-no-pacote-devido-divisao-de-descontos
 locale: pt
 kiStatus: Backlog
 internalReference: 605517
@@ -18,7 +18,9 @@ internalReference: 605517
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O pacote tem um valor diferente do valor total do pedido sem valor de envio. Isso acontece por causa dos descontos que não têm divisão adequada com quantidade de itens do pedido.

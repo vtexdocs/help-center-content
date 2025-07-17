@@ -1,5 +1,5 @@
 ---
-title: 'O acionador de cobranças não está funcionando como esperado nos descontos progressivos'
+title: "O acionador de cobranças não está funcionando como esperado nos descontos progressivos"
 id: 78b9yQnTm1bxgOM2cfMlql
 status: PUBLISHED
 createdAt: 2023-11-06T16:42:53.081Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: collections-trigger-not-working-as-expected-on-progressive-discounts
+slugEN: o-acionador-de-cobrancas-nao-esta-funcionando-como-esperado-nos-descontos-progressivos
 locale: pt
 kiStatus: Backlog
 internalReference: 930849
@@ -18,7 +18,9 @@ internalReference: 930849
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar uma promoção de desconto progressivo, o cliente pode definir o acionador por coleção, por uma lista de SKUs ou por ambos.

@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario no muestra la selección de ventanas para los puntos de recogida cuando un artículo de un vendedor está entre artículos para recoger de otro vendedor.'
+title: "La interfaz de usuario no muestra la selección de ventanas para los puntos de recogida cuando un artículo de un vendedor está entre artículos para recoger de otro vendedor."
 id: 7uDtst6o01FV405luUQ3Ok
 status: PUBLISHED
 createdAt: 2024-08-07T18:26:30.702Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-doesnt-show-window-selection-for-pickup-points-when-an-item-from-a-seller-is-between-items-for-pickup-from-another-seller
+slugEN: la-interfaz-de-usuario-no-muestra-la-seleccion-de-ventanas-para-los-puntos-de-recogida-cuando-un-articulo-de-un-vendedor-esta-entre-articulos-para-recoger-de-otro-vendedor
 locale: es
 kiStatus: Backlog
 internalReference: 1077568
@@ -18,7 +18,9 @@ internalReference: 1077568
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un carro con al menos tres productos, donde los pedidos de artículos son: El 1º es para recogida 1, el 2º para recogida 2 (vendedor diferente), y el 3º es para recogida 1, la IU no permitirá una selección de ANS para el 2º artículo.

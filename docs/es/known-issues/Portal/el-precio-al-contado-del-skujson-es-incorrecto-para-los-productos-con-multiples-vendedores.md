@@ -1,5 +1,5 @@
 ---
-title: 'El precio al contado del skuJson es incorrecto para los productos con múltiples vendedores'
+title: "El precio al contado del skuJson es incorrecto para los productos con múltiples vendedores"
 id: 6rgLJCE1DYPXZj1Pqt6hA2
 status: PUBLISHED
 createdAt: 2022-02-24T15:32:40.223Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: spotprice-from-the-skujson-is-incorrect-for-products-with-multiple-sellers
+slugEN: el-precio-al-contado-del-skujson-es-incorrecto-para-los-productos-con-multiples-vendedores
 locale: es
 kiStatus: No Fix
 internalReference: 264791
@@ -18,7 +18,9 @@ internalReference: 264791
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Valor del "spotPrice" (precio al contado) en el "skuJson" del Portal incorrecto en productos con múltiples vendedores.

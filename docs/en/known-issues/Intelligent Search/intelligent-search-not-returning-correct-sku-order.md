@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search not returning correct SKU Order'
+title: "Intelligent Search not returning correct SKU Order"
 id: 6gR3dsK9CFxfwss6Am89wA
 status: PUBLISHED
 createdAt: 2022-11-07T15:09:48.448Z
@@ -39,7 +39,7 @@ The prop sortVariationsByLabel from sku selector might be able to solve some cas
 
 https://developers.vtex.com/docs/guides/vtex-store-components-skuselector
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/intelligent-search-not-returning-correct-sku-order_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tcCXWNHIw8KJupddSHiMElnxl/?name=image.png)
 
 
 

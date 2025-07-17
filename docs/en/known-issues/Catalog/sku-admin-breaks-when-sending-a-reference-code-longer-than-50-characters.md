@@ -1,5 +1,5 @@
 ---
-title: 'SKU admin breaks when sending a reference code longer than 50 characters'
+title: "SKU admin breaks when sending a reference code longer than 50 characters"
 id: 3AhyVsOpwkRUEHT77Wcc1A
 status: PUBLISHED
 createdAt: 2023-08-21T17:52:27.931Z

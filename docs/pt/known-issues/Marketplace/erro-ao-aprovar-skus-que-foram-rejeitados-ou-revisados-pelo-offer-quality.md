@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao aprovar skus que foram rejeitados ou revisados pelo Offer Quality'
+title: "Erro ao aprovar skus que foram rejeitados ou revisados pelo Offer Quality"
 id: 7fRMTxq7CFRkyZeK08AGIg
 status: PUBLISHED
 createdAt: 2023-11-23T13:46:30.453Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: error-approving-skus-that-were-rejected-or-reviewed-by-offer-quality
+slugEN: erro-ao-aprovar-skus-que-foram-rejeitados-ou-revisados-pelo-offer-quality
 locale: pt
 kiStatus: Fixed
 internalReference: 940998
@@ -18,7 +18,9 @@ internalReference: 940998
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um sku é reprovado nas regras de Qualidade da Oferta criadas pelo Marketplace, ele vai diretamente para a "Guia Revisão" ou "Guia Rejeitado" dos Skus Recebidos.
@@ -26,7 +28,7 @@ Quando um sku é reprovado nas regras de Qualidade da Oferta criadas pelo Market
 No entanto, ao tentar aprovar o sku, uma mensagem de erro é retornada: "Desculpe, algo deu errado no Catálogo. Tente novamente ou entre em contato com a VTEX se o problema persistir."
 
 Isso acontece porque o módulo Matcher não conseguiu preencher as informações do produto e do sku depois de enviar o sku para essas guias (você pode verificar isso usando as APIs):
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/erro-ao-aprovar-skus-que-foram-rejeitados-ou-revisados-pelo-offer-quality_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0Dti3ak7twOpuVzvzntmPCGit/?name=image.png)
 
 ## Simulação
 

@@ -1,5 +1,5 @@
 ---
-title: 'Render component issues on site editor'
+title: "Render component issues on site editor"
 id: 66gcFw8LwnL6WsvuXPRzFn
 status: PUBLISHED
 createdAt: 2022-04-19T19:41:08.520Z
@@ -20,13 +20,13 @@ internalReference: 415674
 
 
 Due to the quantity of information on the page, the site editor may have problems when rendering blocks. This behavior occurs intermittently, sometimes components are not rendered and sometimes it's rendered twice. It can happen that no blocks will appear at all on the site editor:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/render-component-issues-on-site-editor_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
 
 Or it can happen with fewer blocks.
 
 You can also experience a delay after saving new content. The content is saved but the screen will keep loading:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/render-component-issues-on-site-editor_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
 
 
 ##

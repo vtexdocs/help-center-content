@@ -1,5 +1,5 @@
 ---
-title: "Criar dicionário não disponibiliza opção de 'Add'"
+title: 'Criar dicionário não disponibiliza opção de "Add'
 id: 6kSvXDetqLw954q5hYIRQN
 status: PUBLISHED
 createdAt: 2019-12-26T14:48:14.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: add-option-not-available-when-creating-dictionary
+slugEN: criar-dicionario-nao-disponibiliza-opcao-de-add
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -30,5 +30,5 @@ Criar um novo dicionário no Módulo CMS que não possua nenhum Host previamente
 
 Acesse o módulo CMS, clique nos botões lupa e limpar em sequência e o botão adicionar novo host será desbloqueado.
 
-![PT - Criar dicionário não disponibiliza opção de "Add"](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/criar-dicionario-nao-disponibiliza-opcao-de-add_1.png)
+![PT - Criar dicionário não disponibiliza opção de "Add"](//images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/f1e0765bbcb26d36981c3fe76d268cd3/image__2_.png)
 

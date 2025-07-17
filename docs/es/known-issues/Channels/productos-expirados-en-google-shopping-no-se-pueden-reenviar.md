@@ -1,5 +1,5 @@
 ---
-title: 'Productos expirados en Google Shopping no se pueden reenviar'
+title: "Productos expirados en Google Shopping no se pueden reenviar"
 id: 7nZszdQ8YEMg2q2MGqoQG
 status: PUBLISHED
 createdAt: 2018-06-11T16:20:09.949Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slugEN: products-expired-on-google-shopping-cannot-be-resent
+slugEN: productos-expirados-en-google-shopping-no-se-pueden-reenviar
 locale: es
 kiStatus: Fixed
 internalReference: 

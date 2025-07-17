@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar la exportación de la pestaña de procesamiento'
+title: "Ajustar la exportación de la pestaña de procesamiento"
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: adjust-processing-tab-export
+slugEN: ajustar-la-exportacion-de-la-pestana-de-procesamiento
 locale: es
 kiStatus: Backlog
 internalReference: 649311
@@ -18,7 +18,9 @@ internalReference: 649311
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La exportación en la pestaña de procesamiento de skus está fallando:
@@ -29,7 +31,7 @@ La exportación en la pestaña de procesamiento de skus está fallando:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/ajustar-la-exportacion-de-la-pestana-de-procesamiento_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UrnZzrfODolAIP6OVUyBoqlnJ/?name=image.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Problems with payment condition storage'
+title: "Problems with payment condition storage"
 id: 5PjlMyI7sWJIjVucy0hmVM
 status: PUBLISHED
 createdAt: 2022-03-13T21:39:19.155Z

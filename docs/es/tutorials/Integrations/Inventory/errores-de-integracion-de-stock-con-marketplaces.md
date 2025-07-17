@@ -15,12 +15,12 @@ legacySlug: errores-de-integracion-de-stock-con-marketplaces
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de stock en los marketplaces para los que VTEX ha desarrollado un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Como consecuencia, los ítems con errores no estarán disponibles en los _marketplaces_.  En estos casos, puedes ver un mensaje que identifica cuál es el error específico. Puedes verlo en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock,** haciendo clic en el mensaje de proceso con error.
+A veces se producen errores de integración de stock en los marketplaces para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Como consecuencia, los ítems con errores no estarán disponibles en los _marketplaces_.  En estos casos, puedes ver un mensaje que identifica cuál es el error específico. Puedes verlo en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock,** haciendo clic en el mensaje de proceso con error.
 
 Para ver qué errores de integración de _stock_ son más frecuentes en un determinado _marketplace_ y cómo resolverlos, haz clic en el nombre del _marketplace_:
 
-- [Mercado Libre](https://help.vtex.com/es/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva)
-- [Amazon](https://help.vtex.com/es/tutorial/erros-de-integracao-de-estoque-com-a-amazon--3t05cXK2vDbKCA6rifMMWj)
+- [Mercado Libre](/es/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva)
+- [Amazon](/es/tutorial/erros-de-integracao-de-estoque-com-a-amazon--3t05cXK2vDbKCA6rifMMWj)
 - Via (sólo Brasil)
 - Magazine Luiza (sólo Brasil)
 - Carrefour (sólo Brasil)
@@ -28,4 +28,4 @@ Para ver qué errores de integración de _stock_ son más frecuentes en un deter
 
 | **SEPA MÁS** |
 | ---------- |
-|Si desea más información sobre _marketplaces_ y oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/integrando-com-marketplace--tutorials_402).|
+|Si desea más información sobre _marketplaces_ y oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](/es/tutorial/integrando-com-marketplace--tutorials_402).|

@@ -1,5 +1,5 @@
 ---
-title: "Solicitação incorreta ao pesquisar termos com '%' diretamente via URL"
+title: 'Solicitação incorreta ao pesquisar termos com "%" diretamente via URL'
 id: 3gdZ8egQRa4zcNRe2f5CbT
 status: PUBLISHED
 createdAt: 2023-03-21T22:51:46.273Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: bad-request-when-searching-terms-with-directly-via-url
+slugEN: solicitacao-incorreta-ao-pesquisar-termos-com-diretamente-via-url
 locale: pt
 kiStatus: Backlog
 internalReference: 775524
@@ -18,7 +18,9 @@ internalReference: 775524
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um termo com "%" diretamente via URL, a página retorna uma solicitação 400 Bad Request.

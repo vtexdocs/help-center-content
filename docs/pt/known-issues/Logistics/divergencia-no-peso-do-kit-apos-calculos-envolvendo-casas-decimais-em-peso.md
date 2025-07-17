@@ -1,5 +1,5 @@
 ---
-title: 'Divergência no peso do kit após cálculos envolvendo casas decimais em peso'
+title: "Divergência no peso do kit após cálculos envolvendo casas decimais em peso"
 id: 4wWyTmTAd2h2oxw5HtGn6V
 status: PUBLISHED
 createdAt: 2022-09-13T19:31:43.534Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: divergence-in-kit-weight-after-calculations-involving-decimals-in-weight
+slugEN: divergencia-no-peso-do-kit-apos-calculos-envolvendo-casas-decimais-em-peso
 locale: pt
 kiStatus: Backlog
 internalReference: 657186
@@ -18,7 +18,9 @@ internalReference: 657186
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em certos casos envolvendo kits, a política de embarque pode não estar disponível, isto pode acontecer devido à lógica usada para os cálculos que envolvem o peso.

@@ -1,5 +1,5 @@
 ---
-title: 'Catalog export cannot handle ț and ș characters.'
+title: "Catalog export cannot handle ț and ș characters."
 id: 1c28limdEHowD4LKDeHAB1
 status: PUBLISHED
 createdAt: 2023-12-11T17:40:16.688Z

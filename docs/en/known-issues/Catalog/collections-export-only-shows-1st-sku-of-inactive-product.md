@@ -1,5 +1,5 @@
 ---
-title: 'Collections Export only shows 1st SKU of inactive product'
+title: "Collections Export only shows 1st SKU of inactive product"
 id: 7FegROKSwxpadN5NYVFR8M
 status: PUBLISHED
 createdAt: 2024-05-28T19:56:23.549Z

@@ -1,5 +1,5 @@
 ---
-title: 'La validez del pagaré no anula la transacción'
+title: "La validez del pagaré no anula la transacción"
 id: 3mm3tWIDKOAE9b0Yq0Wy70
 status: PUBLISHED
 createdAt: 2022-03-28T02:33:39.185Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-validity-of-the-promissory-doesnt-cancel-the-transaction
+slugEN: la-validez-del-pagare-no-anula-la-transaccion
 locale: es
 kiStatus: Fixed
 internalReference: 325491
@@ -18,7 +18,9 @@ internalReference: 325491
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un cliente realiza un pedido con el método de pago de pagarés y el pago no se realiza, la transacción no es cancelada por la pasarela después de la fecha de vencimiento del pago. En consecuencia, como la OMS no puede identificar el evento de cancelación, el pedido no se cancela

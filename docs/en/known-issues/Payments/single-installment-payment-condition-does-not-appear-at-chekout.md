@@ -1,5 +1,5 @@
 ---
-title: 'Single installment payment condition does not appear at chekout.'
+title: "Single installment payment condition does not appear at chekout."
 id: 3L7GJTRaWWA9Wjw2zkQqtS
 status: PUBLISHED
 createdAt: 2022-06-29T11:57:22.859Z

@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] Falta el atributo [SIZE]'
+title: "[Mercado Livre] Falta el atributo [SIZE]"
 id: 2UD1NwbHe86fj3CWIIZYoL
 status: PUBLISHED
 createdAt: 2022-09-14T20:40:32.698Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-attribute-size-is-missing
+slugEN: mercado-livre-falta-el-atributo-size
 locale: es
 kiStatus: Backlog
 internalReference: 658473
@@ -18,7 +18,9 @@ internalReference: 658473
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

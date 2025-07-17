@@ -1,5 +1,5 @@
 ---
-title: 'Slider-layout bug when using prop infinite as always on mobile'
+title: "Slider-layout bug when using prop infinite as always on mobile"
 id: 4JERnak05tr2K8ICjjPjrN
 status: PUBLISHED
 createdAt: 2023-10-17T17:38:34.443Z

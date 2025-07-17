@@ -1,5 +1,5 @@
 ---
-title: 'Al pegar el código postal en la vista previa del envío, a veces el resultado de la API es nulo.'
+title: "Al pegar el código postal en la vista previa del envío, a veces el resultado de la API es nulo."
 id: 5Lq32htqC7M9xiqajfn7y7
 status: PUBLISHED
 createdAt: 2022-06-01T15:30:08.776Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pasting-postal-code-in-shipping-preview-cart-sometimes-returns-null-api-result
+slugEN: al-pegar-el-codigo-postal-en-la-vista-previa-del-envio-a-veces-el-resultado-de-la-api-es-nulo
 locale: es
 kiStatus: Backlog
 internalReference: 481878
@@ -18,7 +18,9 @@ internalReference: 481878
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

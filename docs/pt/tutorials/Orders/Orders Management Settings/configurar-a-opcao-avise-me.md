@@ -15,13 +15,15 @@ legacySlug: configurar-o-avise-me
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
->⚠️ Este artigo explica como configurar o **Avise-me** em lojas que utilizam o [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Em lojas que utilizam [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), a configuração precisa ser feita seguindo os passos do guia [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+<div class="alert alert-warning">
+  <p> Este artigo explica como configurar o <strong>Avise-me</strong> em lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>. Em lojas que utilizam <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, a configuração precisa ser feita seguindo os passos do guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a>.</p>
+</div>
 
-Quando um produto está fora de [estoque](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139), o lojista pode optar por disponibilizar para o cliente o **Avise-me**. Essa funcionalidade permite que os clientes interessados sejam notificados por email quando o item voltar a ficar disponível.
+Quando um produto está fora de [estoque](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139), o lojista pode optar por disponibilizar para o cliente o **Avise-me**. Essa funcionalidade permite que os clientes interessados sejam notificados por email quando o item voltar a ficar disponível.
 
 Veja abaixo um exemplo de como a opção **Avise-me** é exibida em uma loja. Para receber uma notificação quando o item estiver disponível para venda, o cliente deve digitar o nome e o email nos campos destacados e, em seguida, clicar no botão `Enviar`.
 
-![aviseme-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/configurar-a-opcao-avise-me_1.png)
+![aviseme-pt](https://images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/c97a66089cc55b3570f518fd901a139f/image1.png)
 
 Assim que o item é reposto no estoque da loja, o sistema envia um email para o cliente automaticamente, informando que o produto já está disponível para compra. 
 
@@ -68,6 +70,6 @@ Para configurar o template de emails de **Avise-me** a serem enviados para o cli
 
 ## Saiba mais
 
-* [Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)](https://help.vtex.com/pt/tutorial/como-exportar-os-clientes-cadastrados-no-avise-me--3Yr19DMQukGeIImUeCwIao)
-* [Inserir imagens no email de "Avise-me"](https://help.vtex.com/pt/tutorial/inserir-imagens-no-email-de-avise-me--3soCXGcE3XBPsnPhxJh2DY)
-* [O que fazer quando o "Avise-me" não está sendo exibido](https://help.vtex.com/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido--oNb6JK1LPMOQwYsecKKCs)
+* [Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)](/pt/tutorial/como-exportar-os-clientes-cadastrados-no-avise-me--3Yr19DMQukGeIImUeCwIao)
+* [Inserir imagens no email de "Avise-me"](/pt/tutorial/inserir-imagens-no-email-de-avise-me--3soCXGcE3XBPsnPhxJh2DY)
+* [O que fazer quando o "Avise-me" não está sendo exibido](/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido--oNb6JK1LPMOQwYsecKKCs)

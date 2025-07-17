@@ -1,5 +1,5 @@
 ---
-title: 'Os usuários não conseguem acessar a administração do Gift Card (página em loop)'
+title: "Os usuários não conseguem acessar a administração do Gift Card (página em loop)"
 id: 5FowAAf8VulbVXcQIeSmHd
 status: PUBLISHED
 createdAt: 2024-05-02T15:26:57.386Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: users-cant-access-gift-card-admin-looping-page
+slugEN: os-usuarios-nao-conseguem-acessar-a-administracao-do-gift-card-pagina-em-loop
 locale: pt
 kiStatus: Backlog
 internalReference: 1025971
@@ -18,7 +18,9 @@ internalReference: 1025971
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se os usuários bloquearem cookies de terceiros (configurações do navegador), eles não poderão acessar o módulo Gift Card no admin, pois há um cookie definido em outro domínio da VTEX.

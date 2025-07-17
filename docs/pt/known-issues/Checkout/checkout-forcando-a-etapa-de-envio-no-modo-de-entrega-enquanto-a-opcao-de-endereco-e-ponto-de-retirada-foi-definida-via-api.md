@@ -1,5 +1,5 @@
 ---
-title: 'Checkout forçando a etapa de envio no modo de entrega enquanto a opção de endereço e ponto de retirada foi definida via API'
+title: "Checkout forçando a etapa de envio no modo de entrega enquanto a opção de endereço e ponto de retirada foi definida via API"
 id: 7nBzQb8KZ3hXy2VfvWh7he
 status: PUBLISHED
 createdAt: 2022-04-11T17:35:29.050Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-forcing-the-shipping-step-in-delivery-mode-while-the-address-and-pickup-point-option-was-defined-via-api
+slugEN: checkout-forcando-a-etapa-de-envio-no-modo-de-entrega-enquanto-a-opcao-de-endereco-e-ponto-de-retirada-foi-definida-via-api
 locale: pt
 kiStatus: Fixed
 internalReference: 287444
@@ -18,7 +18,9 @@ internalReference: 287444
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

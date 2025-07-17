@@ -1,5 +1,5 @@
 ---
-title: 'El modo de punto de recogida no utiliza las coordenadas geográficas sin una clave de Google Maps.'
+title: "El modo de punto de recogida no utiliza las coordenadas geográficas sin una clave de Google Maps."
 id: 5aPNjLlsVVeyGe0Vywt0H9
 status: PUBLISHED
 createdAt: 2024-05-29T20:31:46.863Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-modal-doesnt-utilize-geocoordinates-without-a-google-maps-key
+slugEN: el-modo-de-punto-de-recogida-no-utiliza-las-coordenadas-geograficas-sin-una-clave-de-google-maps
 locale: es
 kiStatus: Backlog
 internalReference: 1041462
@@ -18,7 +18,9 @@ internalReference: 1041462
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al insertar un código postal en el modal del selector de punto de recogida, se activa una solicitud para obtener los ANS disponibles para esa ubicación. Si la cuenta no tiene una clave de API de Google Maps definida en su configuración de Pago, esta solicitud no incluirá información de geoCoordenadas. Esto puede provocar que no se muestren los puntos de recogida dentro de un rango válido, como aquellos cuyas tablas de carga se basan en polígonos.

@@ -1,5 +1,5 @@
 ---
-title: 'Banner scheduling is deactivated after expiry date'
+title: "Banner scheduling is deactivated after expiry date"
 id: 5JrrUCTU1q2KKCqo20SQqQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:39:38.141Z
@@ -38,7 +38,7 @@ When the scheduling of a banner works correctly, it is only a coincidence if the
 - Click on "Save Settings"
 - Click on "OK" when you see the confirmation message
 
-![Banner scheduling](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/banner-scheduling-is-deactivated-after-expiry-date_1.png)
+![Banner scheduling](//images.contentful.com/alneenqid6w5/54556kzHKwMogwaMksMQ2a/e078030f450f7cdc666bcb5258ccb7d2/2017-03-16_23_06_36-Index.png)
 
 ## Workaround
 

@@ -1,5 +1,5 @@
 ---
-title: 'Preço por UTM não funciona quando se usam caracteres especiais'
+title: "Preço por UTM não funciona quando se usam caracteres especiais"
 id: 5vQnjYgbE48426q2e6GMUY
 status: PUBLISHED
 createdAt: 2017-06-05T12:24:57.621Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog,Pricing & Promotions
-slugEN: price-by-utm-doesnt-work-when-using-special-characters
+slugEN: preco-por-utm-nao-funciona-quando-usa-caracteres-especiais
 locale: pt
 kiStatus: Backlog
 internalReference: 

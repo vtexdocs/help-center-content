@@ -1,5 +1,5 @@
 ---
-title: 'El comportamiento de RefId no es coherente entre la API y la interfaz de usuario'
+title: "El comportamiento de RefId no es coherente entre la API y la interfaz de usuario"
 id: 4007iEJ8bCN96PBY0nsIB4
 status: PUBLISHED
 createdAt: 2023-09-29T13:11:04.826Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: refid-behavior-not-consistent-between-api-and-ui
+slugEN: el-comportamiento-de-refid-no-es-coherente-entre-la-api-y-la-interfaz-de-usuario
 locale: es
 kiStatus: Backlog
 internalReference: 910050
@@ -18,7 +18,9 @@ internalReference: 910050
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

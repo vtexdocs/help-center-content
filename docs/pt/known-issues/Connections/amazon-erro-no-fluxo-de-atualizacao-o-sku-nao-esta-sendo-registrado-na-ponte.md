@@ -1,5 +1,5 @@
 ---
-title: '[Amazon] Erro no fluxo de atualização: o sku não está sendo registrado na ponte'
+title: "[Amazon] Erro no fluxo de atualização: o sku não está sendo registrado na ponte"
 id: 1oBkaT6GWZfhB4t2Qpn6c0
 status: PUBLISHED
 createdAt: 2024-02-27T19:40:49.825Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge
+slugEN: amazon-erro-no-fluxo-de-atualizacao-o-sku-nao-esta-sendo-registrado-na-ponte
 locale: pt
 kiStatus: Backlog
 internalReference: 990197
@@ -18,7 +18,9 @@ internalReference: 990197
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Erro no fluxo de atualização: o sku não está sendo registrado na ponte

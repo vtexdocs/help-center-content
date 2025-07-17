@@ -1,5 +1,5 @@
 ---
-title: 'My Cards is not working for some legacy connectors'
+title: "My Cards is not working for some legacy connectors"
 id: Ln0mUfu3jDwcfndavSZkk
 status: PUBLISHED
 createdAt: 2022-05-28T12:03:48.090Z

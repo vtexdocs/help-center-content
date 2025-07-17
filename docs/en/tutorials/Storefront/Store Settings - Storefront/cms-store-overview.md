@@ -19,7 +19,7 @@ The **Store** page allows you to set up your SEO configurations, enable performa
 
 In the VTEX Admin, access **Store Settings > Storefront > Store**, and take a look at the main tools available on the interface.
 
-![CMS Store](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/cms-store-overview_1.png)
+![CMS Store](https://images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/19924b9aeffed7d9cba408245a46d365/store-en-overview.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Before making changes in the <b>Advanced</b> tab, please contact your developer team and read our documentation <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings">Optimizing performance</a> para mais informações.
@@ -35,5 +35,5 @@ In the VTEX Admin, access **Store Settings > Storefront > Store**, and take a lo
 
 Check out the  tutorial below to start managing your storefront content:
 
-- [Enabling PWA push notifications in your store](https://help.vtex.com/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
+- [Enabling PWA push notifications in your store](/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
 

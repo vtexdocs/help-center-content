@@ -1,5 +1,5 @@
 ---
-title: 'Desconto nominal + Mais por menos + Divisão para o segundo item --> desconto incorreto'
+title: "Desconto nominal + Mais por menos + Divisão para o segundo item --> desconto incorreto"
 id: 4hxRWUY6P8aDR9T1KHd3Yf
 status: PUBLISHED
 createdAt: 2024-07-25T16:48:26.511Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: nominal-discount-more-for-less-split-for-second-item-incorrect-discount
+slugEN: desconto-nominal-mais-por-menos-divisao-para-o-segundo-item-desconto-incorreto
 locale: pt
 kiStatus: Backlog
 internalReference: 1071119
@@ -18,7 +18,9 @@ internalReference: 1071119
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar uma promoção de desconto nominal acumulada com a promoção "mais por menos", quando há um desconto na promoção "mais por menos" apenas para 1 de 2 itens, isso leva a um desconto incorreto no segundo item do pedido devido à divisão do checkout.

@@ -1,5 +1,5 @@
 ---
-title: 'Itens em benefícios não gerados em promoções com coleções associadas'
+title: "Itens em benefícios não gerados em promoções com coleções associadas"
 id: 9HrnxMcq7VWFQOPhg9ywd
 status: PUBLISHED
 createdAt: 2024-02-21T15:09:01.111Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: items-in-benefits-not-generated-in-promotions-with-collections-associated
+slugEN: itens-em-beneficios-nao-gerados-em-promocoes-com-colecoes-associadas
 locale: pt
 kiStatus: Backlog
 internalReference: 985850
@@ -18,7 +18,9 @@ internalReference: 985850
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

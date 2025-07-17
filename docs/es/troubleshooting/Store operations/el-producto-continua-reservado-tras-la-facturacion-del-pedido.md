@@ -13,20 +13,21 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: es
 legacySlug: el-producto-continua-reservado-tras-la-facturacion-del-pedido
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Stock, Reserva
 ---
+
+**Tags:** Stock, Reserva
 
 La reserva de stock es una función esencial que garantiza que el producto vendido no se ponga a disposición de otro cliente hasta que el pedido se haya procesado por completo. Sin embargo, una pregunta habitual entre los retailers es por qué la reserva sigue vigente incluso después de que se haya facturado el pedido.
 
 Cuando se vende un producto, este pasa por los siguientes status en el stock de la tienda, reflejando la transición del pedido:
 
-1. [Reserva autorizada](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): tiene lugar inmediatamente después de la finalización de la compra y creación del pedido.
+1. [Reserva autorizada](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): tiene lugar inmediatamente después de la finalización de la compra y creación del pedido.
 
-2. [Reserva confirmada](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status se alcanza una vez aprobado el pago del pedido.
+2. [Reserva confirmada](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status se alcanza una vez aprobado el pago del pedido.
 
-3. [Reserva reconocida](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
+3. [Reserva reconocida](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
 
-Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Soluciones
 
@@ -55,3 +56,4 @@ Para actualizar manualmente la cantidad de ítems en stock sigue los pasos a con
 Cuando el status es **Preparando envío**, es fundamental que el sistema de stock actualice el producto, removiendo el producto de los ítems reservados y ajustando la cantidad disponible. Para que esto ocurra, el ERP debe sincronizar la cantidad final de productos en stock, restando los productos que ya están reservados de los pedidos en proceso.
 
 La configuración y la integración del ERP son responsabilidad del retailer. Este proceso se puede automatizar a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), que permite la comunicación entre el sistema ERP y el almacén de la tienda, garantizando que la información esté siempre actualizada.
+

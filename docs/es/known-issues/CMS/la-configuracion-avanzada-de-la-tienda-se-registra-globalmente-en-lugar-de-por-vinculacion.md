@@ -1,5 +1,5 @@
 ---
-title: 'La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación'
+title: "La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación"
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: advanced-store-settings-being-registered-globally-insted-of-by-binding
+slugEN: la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion
 locale: es
 kiStatus: Backlog
 internalReference: 783835
@@ -18,7 +18,9 @@ internalReference: 783835
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
@@ -35,7 +37,7 @@ https://github.com/vtex-apps/store/blob/46e3df3ecba20170fc3a6eebf12370969e3b5abf
 
 Necesitará una tienda con enlace múltiple y habilitar el enlace para la configuración de la tienda en admin/cms/store:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/CNgIedTpUI7LPWqCEfA10HIxz/?name=image.png)
 
 Guarde su configuración avanzada y compruebe la configuración de su tienda vtex:
 
@@ -52,7 +54,7 @@ Observará que los ajustes avanzados estarán fuera de los contextos de los enla
 
 Añade la configuración que desees a través de un PUT en la clave settings dentro de uno de los objetos del binding:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JYKSnxOk9qHdm8RGGp9IutNB3/?name=image.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'No se puede pausar al vendedor'
+title: "No se puede pausar al vendedor"
 id: 4s4VLWa93cnfOhf8faOXjU
 status: PUBLISHED
 createdAt: 2022-10-20T18:31:59.458Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: unable-to-pause-seller
+slugEN: no-se-puede-pausar-al-vendedor
 locale: es
 kiStatus: Fixed
 internalReference: 682151
@@ -18,7 +18,9 @@ internalReference: 682151
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces el mercado no puede pausar al vendedor a través del administrador o a través de la API.
@@ -54,7 +56,7 @@ Si el vendedor elimina el afiliado (o cambia el id de afiliado) por su parte, el
 
 Para poder pausar al vendedor hay 3 soluciones:
 
-1. Elimine la información de `Identificación de afiliado` y `Política comercial` en la sección del vendedor llamada "Integración" en la interfaz de usuario ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/no-se-puede-pausar-al-vendedor_1.png)
+1. Elimine la información de `Identificación de afiliado` y `Política comercial` en la sección del vendedor llamada "Integración" en la interfaz de usuario ![](https://vtexhelp.zendesk.com/attachments/token/Pp9HF1oSjoUYYJdnmKBUSnYVO/?name=image.png)
 2. 2. Pedir al vendedor que cree de nuevo el afiliado tal y como estaba antes y después pausar el vendedor. (después de que el vendedor puede eliminar el afiliado de nuevo);
 3. Utilice la antigua UI de gestión de vendedores para proceder a esta acción: www.myaccount.myvtex.com/admin/site/seller.aspx
 

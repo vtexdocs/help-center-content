@@ -19,16 +19,17 @@ Uma das funcionalidades do VTEX Intelligent Search é a **separação de SKUs po
 
 Antes, apenas os produtos, sem nenhuma distinção entre SKUs, eram exibidos no resultado de busca. Por conta disso, era necessário cadastrar cada SKU como um produto único para ser exibido separadamente no resultado de busca.
 
-Agora não é preciso fazer nenhuma alteração no Catálogo para que os SKUs sejam exibidos nos resultados de busca. No Admin, basta [configurar as especificações do SKU que deseja exibir na pesquisa](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
+Agora não é preciso fazer nenhuma alteração no Catálogo para que os SKUs sejam exibidos nos resultados de busca. No Admin, basta [configurar as especificações do SKU que deseja exibir na pesquisa](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
 
 Essa ferramenta é indicada, principalmente, para lojas de vestuários, pois é possível exibir os produtos por cor ou material.
 
 A seguir, confira um exemplo de separação de SKUs por cor. Na imagem abaixo, a sandália em destaque apresenta duas cores diferentes no resultado da pesquisa:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent%20Search/Intelligent%20Search%20behavior/separar-skus-por-especificacao_1.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
 
->ℹ️ Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.
+<div class="alert alert-info"><p>
+Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.</p></div>
 
 ## Configuração
-Para configurar quais atributos serão usados para separar os SKUs, acesse nosso artigo de [Configurações da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
+Para configurar quais atributos serão usados para separar os SKUs, acesse nosso artigo de [Configurações da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
 

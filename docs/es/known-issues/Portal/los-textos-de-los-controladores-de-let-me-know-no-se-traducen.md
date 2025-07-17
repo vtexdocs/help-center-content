@@ -1,5 +1,5 @@
 ---
-title: 'Los textos de los controladores de Let Me Know no se traducen'
+title: "Los textos de los controladores de Let Me Know no se traducen"
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: let-me-know-controller-texts-are-not-being-translated
+slugEN: los-textos-de-los-controladores-de-let-me-know-no-se-traducen
 locale: es
 kiStatus: No Fix
 internalReference: 517165
@@ -18,7 +18,9 @@ internalReference: 517165
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar cambiar el texto del "nombre" y del "correo electrónico" del controlador de Let Me Know a través de Store Text a otros idiomas que no sean EN-BR, el texto no se traduce y permanece en portugués

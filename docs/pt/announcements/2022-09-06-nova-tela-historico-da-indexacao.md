@@ -19,11 +19,11 @@ Em toda operação de ecommerce, é necessário cadastrar ou alterar informaçõ
 
 Para aprimorar a experiência de monitoramento da indexação do seu Catálogo, redesenhamos a página de **Histórico da Indexação** no Admin VTEX. A nova interface permite acompanhar o tempo de indexação dos seus produtos e o status de indexação da sua loja.
 
-![Histórico da Indexação 1 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-09-06-nova-tela-historico-da-indexacao_1.png)
+![Histórico da Indexação 1 - PT](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/eafd584f145b495cab5aee630f44fb8a/Screenshot_2022-09-01_at_12-47-19_Hist__rico_da_Indexa____o.png)
 
 ## O que mudou?
 
-Anteriormente, a VTEX apresentava duas indexações diferentes, para o [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ#) e para o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb#). Agora esse processo está unificado no **Histórico da Indexação**.
+Anteriormente, a VTEX apresentava duas indexações diferentes, para o [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ#) e para o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb#). Agora esse processo está unificado no **Histórico da Indexação**.
 
 A página **Histórico da Indexação** foi completamente redesenhada. Confira as principais mudanças:
 
@@ -40,7 +40,7 @@ Reformulamos a tela de **Histórico da Indexação** para proporcionar uma visã
 
 ## O que precisa ser feito?
 
-A página **Status da indexação** do Intelligent Search será desabilitada e substituída pelo **Histórico da Indexação**. Nenhuma ação é necessária, a atualização será automática para todas as lojas. Para mais informações sobre como aproveitar a interface, confira o artigo [Histórico da Indexação](https://help.vtex.com/pt/tutorial/historico-da-indexacao-beta--6v2FVuXVpyEO8hnMqPi6Xd).
+A página **Status da indexação** do Intelligent Search será desabilitada e substituída pelo **Histórico da Indexação**. Nenhuma ação é necessária, a atualização será automática para todas as lojas. Para mais informações sobre como aproveitar a interface, confira o artigo [Histórico da Indexação](/pt/tutorial/historico-da-indexacao-beta--6v2FVuXVpyEO8hnMqPi6Xd).
 
-Esta página segue o novo Design System da VTEX, com um visual mais clean, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Esta página segue o novo Design System da VTEX, com um visual mais clean, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
 

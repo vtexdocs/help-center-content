@@ -1,5 +1,5 @@
 ---
-title: 'Checkout login flow allows changing email but flow is not supported'
+title: "Checkout login flow allows changing email but flow is not supported"
 id: 2wP6MBxvyd3kFDmlgYx4Tk
 status: PUBLISHED
 createdAt: 2023-05-03T18:09:50.683Z
@@ -18,7 +18,9 @@ internalReference: 258447
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando en el checkout con un email informado y datos enmascarados, será necesario iniciar sesión si el comprador quiere cambiar alguna información. En el cuadro de inicio de sesión que se abrirá, el correo electrónico ya se rellenará con el contexto del carrito, pero la interfaz permite modificar el correo electrónico "sugerido".

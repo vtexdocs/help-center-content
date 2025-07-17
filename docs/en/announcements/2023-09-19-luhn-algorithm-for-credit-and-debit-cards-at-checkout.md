@@ -25,7 +25,7 @@ Now, the Luhn algorithm will ensure that only a valid card number can be used fo
 
 If a customer enters an incorrect number, an error message is displayed at checkout. In such cases, the customer must check and correct the number to complete the purchase.
 
-![algoritmo_luhn_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-09-19-luhn-algorithm-for-credit-and-debit-cards-at-checkout_1.PNG)
+![algoritmo_luhn_en](https://images.ctfassets.net/alneenqid6w5/5HN1Iu9vKUmeglMLOV46Rd/ccd302d3086caaeca01c5725bdbd8b2d/algoritmo_luhn_en.PNG)
 
 ## Why did we make this change?
 
@@ -35,4 +35,6 @@ Having a payment transaction declined due to an invalid card number could lead c
 
 No action is required. The Luhn algorithm is already active in all VTEX stores.
 
->⚠️ The Luhn algorithm does not prevent fraud through card testing attacks. Its purpose is to detect typing errors in card numbers.
+<div class="alert alert-warning">
+The Luhn algorithm does not prevent fraud through card testing attacks. Its purpose is to detect typing errors in card numbers.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'La importación de nuevas colecciones no maneja la importación de un ProductID no existente'
+title: "La importación de nuevas colecciones no maneja la importación de un ProductID no existente"
 id: 2bqGzlvbYqn7hVVfVbJZDO
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:12.572Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: new-collections-import-does-not-handle-non-existent-productid-import
+slugEN: la-importacion-de-nuevas-colecciones-no-maneja-la-importacion-de-un-productid-no-existente
 locale: es
 kiStatus: Backlog
 internalReference: 398602
@@ -18,7 +18,9 @@ internalReference: 398602
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

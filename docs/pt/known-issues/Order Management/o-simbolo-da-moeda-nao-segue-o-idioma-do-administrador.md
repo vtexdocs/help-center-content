@@ -1,5 +1,5 @@
 ---
-title: 'O símbolo da moeda não segue o idioma do administrador'
+title: "O símbolo da moeda não segue o idioma do administrador"
 id: 7gEGdkDSbRCtk2Q1u2nW6k
 status: PUBLISHED
 createdAt: 2024-03-15T19:37:45.395Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: currency-symbol-does-not-follow-admin-language
+slugEN: o-simbolo-da-moeda-nao-segue-o-idioma-do-administrador
 locale: pt
 kiStatus: Backlog
 internalReference: 1000915
@@ -18,7 +18,9 @@ internalReference: 1000915
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário acessa a tela de configuração do carrinho na área de pedidos (`https://{accountname}}.myvtex.com/admin/checkout/#/configurations )` o símbolo da moeda segue as convenções da localidade indicada pelo administrador, a troca desse símbolo é feita sempre que o administrador indica uma localidade diferente, porém de acordo com nossa análise essa troca está falhando em determinados momentos, fazendo com que o símbolo da moeda indicada seja o padrão da página que nesse caso é R$.

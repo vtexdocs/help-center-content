@@ -1,5 +1,5 @@
 ---
-title: 'My Subscriptions When entering the address Line 2 this appear as null'
+title: "My Subscriptions When entering the address Line 2 this appear as null"
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z

@@ -20,15 +20,15 @@ Esse é um conceito básico de estratégias Omnichannel, e essencial para a real
 
 ## Pré-requisitos
 
-Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o VTEX Sales App").
+Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o VTEX Sales App").
 
 ## Cadastrar lojas físicas no VTEX Sales App
 
 Para implementar uma estratégia de Prateleira Infinita, você deve cadastrar suas lojas físicas na plataforma da VTEX.
 
-Para isso, siga os passos do artigo [Adicionar novos vendedores e lojas ao VTEX Sales App](https://help.vtex.com/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+Para isso, siga os passos do artigo [Adicionar novos vendedores e lojas ao VTEX Sales App](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
-Um ponto de atenção importante no cadastro de uma nova loja é a [Política Comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) aplicada a essa loja. É ela que define qual sortimento de produtos serão válidos para a loja.
+Um ponto de atenção importante no cadastro de uma nova loja é a [Política Comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) aplicada a essa loja. É ela que define qual sortimento de produtos serão válidos para a loja.
 
 Se a Política Comercial principal da loja também é usada para vender em marketplaces, você deve usar uma Política Comercial diferente para o VTEX Sales App. Se não fizer isso, os métodos de pagamento `Direct Selling Debit` e `Direct Selling Credit`, configurados para o VTEX Sales App, também serão exibidos no checkout dos marketplaces.
 
@@ -36,6 +36,6 @@ Se, por outro lado, sua loja usar uma Política Comercial dedicada ao VTEX Sales
 - Seus produtos têm preços definidos para essa Política Comercial dedicada.
 - A Política Comercial dedicada consta no cadastro dos produtos que deveriam servir à loja onde o VTEX Sales App será usado.
 
-Os campos de Conta-franquia e Ponto de Retirada, no cadastro da loja, somente devem ser preenchidos caso você deseje trabalhar com retirada de produtos nas lojas físicas. Se este for o seu caso, leia também o guia [Configurar Seller White Label como Ponto de Retirada (Pickup Point)](https://help.vtex.com/pt/tutorial/configurar-seller-white-label-ponto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e).
+Os campos de Conta-franquia e Ponto de Retirada, no cadastro da loja, somente devem ser preenchidos caso você deseje trabalhar com retirada de produtos nas lojas físicas. Se este for o seu caso, leia também o guia [Configurar Seller White Label como Ponto de Retirada (Pickup Point)](/pt/tutorial/configurar-seller-white-label-ponto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e).
 
 Quando terminar de preencher os dados da loja, clique no botão `Salvar`.

@@ -15,4 +15,6 @@ legacySlug: direct-migration-magazine-luiza
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ This content is exclusively regional; therefore, it does not apply to Spanish-speaking countries.
+<div class="alert alert-warning">
+This content is exclusively regional; therefore, it does not apply to Spanish-speaking countries.
+  </div>

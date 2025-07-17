@@ -1,5 +1,5 @@
 ---
-title: 'El pie de página de mis tarjetas tiembla al intentar añadir una nueva tarjeta'
+title: "El pie de página de mis tarjetas tiembla al intentar añadir una nueva tarjeta"
 id: 5JRsJqm0PmVkdCh7td3DIr
 status: PUBLISHED
 createdAt: 2024-04-05T16:09:59.991Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: my-cards-footer-is-shivering-when-trying-to-add-a-new-card
+slugEN: el-pie-de-pagina-de-mis-tarjetas-tiembla-al-intentar-anadir-una-nueva-tarjeta
 locale: es
 kiStatus: Backlog
 internalReference: 1012542
@@ -18,7 +18,9 @@ internalReference: 1012542
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El pie de página de "Mis tarjetas" tiembla en la pantalla al intentar añadir una nueva tarjeta.

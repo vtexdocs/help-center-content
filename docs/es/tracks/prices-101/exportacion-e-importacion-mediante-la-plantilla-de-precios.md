@@ -33,14 +33,16 @@ Para exportar la plantilla de precios, sigue estos pasos:
 2. En la parte superior de la pantalla, haz clic en el ícono de exportación <i class="fas fa-download"></i>.
 > Aparecerá una barra lateral.
 3. En la sección Selecciona las tablas que deseas exportar, debes escoger una de las siguientes opciones:
-   - **Tabla de precios base (estándar):** el [precio base](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) es el precio de referencia de un SKU para todas las tablas de precios.
-   - **Tabla de precios fijos:** el [precio fijo](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) sobrescribe el precio base con la regla de precio configurada.
+   - **Tabla de precios base (estándar):** el [precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) es el precio de referencia de un SKU para todas las tablas de precios.
+   - **Tabla de precios fijos:** el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) sobrescribe el precio base con la regla de precio configurada.
    - **Tabla de precios calculados:** es el precio final que se mostrará en la tienda. Este precio no refleja las promociones.
 4. Haz clic en `Exportar tabla`.
 > Se abrirá la tabla de precios en la interfaz.
-5. En el archivo abierto, rellena las filas con los datos de precio de los SKU. La Tabla de Precios exportada contiene solo productos con precios registrados, los productos sin precio no aparecen en la hoja de cálculo. Para entender mejor el significado de cada campo, accede a nuestro artículo sobre cómo [rellenar los campos de la plantilla de importación de precios base](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) o [rellenar los campos de la plantilla de importación de precios fijos](https://help.vtex.com/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+5. En el archivo abierto, rellena las filas con los datos de precio de los SKU. La Tabla de Precios exportada contiene solo productos con precios registrados, los productos sin precio no aparecen en la hoja de cálculo. Para entender mejor el significado de cada campo, accede a nuestro artículo sobre cómo [rellenar los campos de la plantilla de importación de precios base](/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) o [rellenar los campos de la plantilla de importación de precios fijos](/es/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
 
->⚠️ La exportación de tablas de precios en formato **XLSX** está limitada a 1.048.576 filas debido a una limitación de Excel. Las exportaciones que excedan este límite resultarán en un error.
+<div class="alert alert-warning">
+La exportación de tablas de precios en formato <strong>XLSX</strong> está limitada a 1.048.576 filas debido a una limitación de Excel. Las exportaciones que excedan este límite resultarán en un error.
+</div>
 
 Después de finalizada la exportación, recibirás la plantilla en tu email registrado en la tienda VTEX. También puedes descargar la exportación al hacer clic en el botón `Descargar exportación`.
 

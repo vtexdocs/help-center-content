@@ -1,5 +1,5 @@
 ---
-title: 'Valores nulos no objeto deliverySlaInMinutes para entrega programada para o mesmo dia'
+title: "Valores nulos no objeto deliverySlaInMinutes para entrega programada para o mesmo dia"
 id: 3iSfWDl8hMtuRaYxFKWjPI
 status: PUBLISHED
 createdAt: 2024-08-12T20:58:03.483Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: null-values-in-deliveryslainminutes-object-for-same-day-scheduled-delivery
+slugEN: valores-nulos-no-objeto-deliveryslainminutes-para-entrega-programada-para-o-mesmo-dia
 locale: pt
 kiStatus: Backlog
 internalReference: 1079981
@@ -18,7 +18,9 @@ internalReference: 1079981
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os pedidos criados com entrega programada para o mesmo dia em que foram feitos retornam `items.deliverySlaInMinutes: null` dentro do objeto do carrinho.

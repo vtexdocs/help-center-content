@@ -29,11 +29,13 @@ Por exemplo, em um carrinho o frete foi calculado no valor de $25,00 para cinco 
 
 Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa". Mesmo conhecendo a diferença entre os termos e a forma correta de uso, mantemos o uso de "peso" para melhor compreensão dos usuários.
 
->❗ O peso do produto não pode ser zero. Isso pode causar problemas no cálculo do custo de frete no carrinho.
+<div class="alert alert-danger">
+O peso do produto não pode ser zero. Isso pode causar problemas no cálculo do custo de frete no carrinho.
+</div>
 
 ## Como visualizar o rateio do frete
 
 É possível visualizar como esse rateio do valor do frete é feito no cálculo do frete. Você pode consultar como a divisão dos valores é feita no módulo de de envio no Admin (ao simular um envio, os valores  de frete aparecem de forma detalhada), ou por API (visualizar esses valores no JSON do pedido, como retornado pela rota [Get order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder), dentro do detalhe de cada item no campo logisticsInfo).
 
-Para saber mais como funciona a simulação de frete leia o artigo [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).
+Para saber mais como funciona a simulação de frete leia o artigo [Simulador de envio](/pt/tutorial/simulacao-de-frete--tutorials_144).
 

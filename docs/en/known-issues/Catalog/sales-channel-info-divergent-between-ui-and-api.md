@@ -1,5 +1,5 @@
 ---
-title: 'Sales channel info divergent between UI and API'
+title: "Sales channel info divergent between UI and API"
 id: 66bWccTAGpRbodBXvmIlHK
 status: PUBLISHED
 createdAt: 2023-05-04T15:30:18.265Z
@@ -32,7 +32,7 @@ This scenario does not happen all the time. Is usually when the indexation fails
 Check the sales channel that the product belongs via UI.
 Check the sales channel that the product belongs via API:
 https://{accountName}.{environment}.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{skuId}
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/sales-channel-info-divergent-between-ui-and-api_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/F8f1Y1fSQVsq5JubtoILmeZjz/?name=image.png)
 
 
 

@@ -3,8 +3,8 @@ title: '​​How DNS configuration works on VTEX'
 id: 2P5k3oMYOj7TgSK4Mrxmgy
 status: PUBLISHED
 createdAt: 2024-01-23T16:53:52.076Z
-updatedAt: 2024-01-23T17:00:29.714Z
-publishedAt: 2024-01-23T17:00:29.714Z
+updatedAt: 2025-03-20T22:06:24.769Z
+publishedAt: 2025-03-20T22:06:24.769Z
 firstPublishedAt: 2024-01-23T16:58:57.454Z
 contentType: tutorial
 productTeam: Reliability
@@ -24,13 +24,13 @@ Redirects work in stages:
 1. The CNAME created by your team routes the store traffic to a specific location within the VTEX infrastructure.
 
    `www.mystore.com` 🠖 `CNAME `🠖 `www.mystore.com.cdn.vtex.com`
-2. Internally, VTEX configures a second CNAME that directs to the Azion or CloudFront service.
+2. Internally, VTEX configures a second CNAME that directs to the CloudFront service.
 
-   `www.mystore.com.cdn.vtex.com` 🠖 `CNAME` 🠖 `uug412qft7.map.azionedge.net`
-3. Finally, a type A redirect routes the Azion/CloudFront service to a specific IP address.
+   `www.mystore.com.cdn.vtex.com` 🠖 `CNAME` 🠖 `xxxxxxxx.cloudfront.net`
+3. Finally, a type A redirect routes the CloudFront service to a specific IP address.
 
-   `uug412qft7.map.azionedge.net` 🠖 `A` (record type containing an IP address) 🠖 `185.76.11.52`
+   `xxxxxxxx.cloudfront.net` 🠖 `A` (record type containing an IP address) 🠖 `185.76.11.52`
 
 These settings ensure the resolved IP address is dynamic and can change anytime. This is because this IP address adapts to match the CDN (Content Delivery Network) server closest to the visitor's location. This adaptation improves the site's performance, as files are delivered from servers geographically closer to the visitor.
 
-Learn more about DNS configuration on VTEX by reading the [Go-live](https://help.vtex.com/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) article.
+Learn more about DNS configuration on VTEX by reading the [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) article.

@@ -34,11 +34,13 @@ Using the VTEX Admin or [Customer Credit API](https://developers.vtex.com/docs/a
 - Configure deadlines and installments for invoices documents
 - Monitor and modify the status of issued invoices
 
->ℹ️ When installed, Customer Credit appears as a payment option at Checkout only for customers selected by the retailer, displaying the amount of credit available to be used for the purchase.
+<div class="alert alert-info">
+When installed, Customer Credit appears as a payment option at Checkout only for customers selected by the retailer, displaying the amount of credit available to be used for the purchase.
+</div>
 
 See below the basic flow of how Customer Credit works in VTEX stores:
 
-![GIF_CC_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Customer%20Credit/customer-credit-overview_1.gif)
+![GIF_CC_EN](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
 
 ## Customer Credit definitions
 
@@ -50,7 +52,9 @@ To use Customer Credit as a payment method for a purchase, the customer must hav
 
 Each account has a credit limit registered at the time of opening. This limit indicates the maximum amount that the customer can use to make one or more purchases at the same time via Customer Credit.
 
->⚠️ An account's credit limit can be changed by the retailer at any time.
+<div class="alert alert-warning">
+An account's credit limit can be changed by the retailer at any time.
+</div>
 
 ### Available credit
 
@@ -58,7 +62,9 @@ Amount that the customer still has available in their account to make purchases 
 
 Every time the customer completes a purchase and the order is billed, the amount of available credit decreases. However, after the customer makes payment for the issued invoice, the available credit value returns to the pre-purchase value.
 
->⚠️ At the time of a purchase, the customer has visibility of how much credit can be used via Customer Credit. If the purchase value is greater than the available credit, payment cannot be made through Customer Credit.
+<div class="alert alert-warning">
+At the time of a purchase, the customer has visibility of how much credit can be used via Customer Credit. If the purchase value is greater than the available credit, payment cannot be made through Customer Credit.
+</div>
 
 ### Invoice
 
@@ -76,8 +82,10 @@ After the customer makes the purchase using Customer Credit, the payment is appr
 
 The flow in Customer Credit is similar to that of credit cards in regarding order modifications. When an order value change occurs during the pre-authorization period, the credit amount changes.
 
->⚠️ If it is necessary to change an order to reduce its value after the settlement period (issuance of invoices), the system will update the invoices to the new value. If the order value is increased, the system will create new invoices.
+<div class="alert alert-warning">
+If it is necessary to change an order to reduce its value after the settlement period (issuance of invoices), the system will update the invoices to the new value. If the order value is increased, the system will create new invoices.
+</div>
 
 ## Installation and configuration
 
-To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](https://help.vtex.com/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

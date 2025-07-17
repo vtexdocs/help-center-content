@@ -1,5 +1,5 @@
 ---
-title: 'Kits sin stock se muestran como disponibles si tienen promoción de regalo'
+title: "Kits sin stock se muestran como disponibles si tienen promoción de regalo"
 id: 5xHAJ10n3qMSOGECegw8Yo
 status: PUBLISHED
 createdAt: 2018-04-24T21:43:13.080Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: kits-without-stock-are-displayed-as-available-if-they-have-a-gift-promotion
+slugEN: kits-sin-stock-se-muestran-como-disponibles-si-tienen-promocion-de-regalo
 locale: es
 kiStatus: Backlog
 internalReference: 

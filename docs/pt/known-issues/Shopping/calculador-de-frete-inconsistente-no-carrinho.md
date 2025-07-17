@@ -1,5 +1,5 @@
 ---
-title: 'Calculador de frete inconsistente no carrinho'
+title: "Calculador de frete inconsistente no carrinho"
 id: 2U3U4r7DAAuIegW0geKG8U
 status: PUBLISHED
 createdAt: 2018-12-10T16:09:32.683Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: authors_4
 tag: Checkout
-slugEN: inconsistent-shipping-calculator
+slugEN: calculador-de-frete-inconsistente-no-carrinho
 locale: pt
 kiStatus: Closed
 internalReference: 
@@ -24,7 +24,7 @@ Nestes casos, o calculador de frete tem comportamento inconsistente, exibindo do
 
 Isso acontece somente na versão 5 do checkout.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/calculador-de-frete-inconsistente-no-carrinho_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/5jaAAeUm9q4c4oy6GcYeO6/c08fe588cedc9d9a30453985a1589df9/image.png)
 
 ## Simulação
 

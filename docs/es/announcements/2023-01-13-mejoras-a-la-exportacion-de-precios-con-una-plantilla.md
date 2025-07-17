@@ -17,7 +17,7 @@ announcementSynopsisES: 'Actualizamos el proceso de exportación con una plantil
 
 En el comercio digital, los administradores de la tienda suelen actualizar los precios frecuentemente para mantener la competitividad de un producto. Mientras más rápida sea la modificación de los precios, mayor será la probabilidad de conversión de la compra.
 
-En VTEX, puedes cambiar el precio varias veces al día según la estrategia de tu tienda. En el módulo Precios, puedes registrar o editar los [precios base](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) o los [precios fijos](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) mediante:
+En VTEX, puedes cambiar el precio varias veces al día según la estrategia de tu tienda. En el módulo Precios, puedes registrar o editar los [precios base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) o los [precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) mediante:
 
 - Admin VTEX
 - Plantilla de precios
@@ -25,7 +25,7 @@ En VTEX, puedes cambiar el precio varias veces al día según la estrategia de t
 
 El registro con una plantilla se realiza en dos etapas: exportación e importación. Se ha mejorado la experiencia de exportación de precios con nuevas funcionalidades para dar más visibilidad al usuario del status de cada plantilla de exportación de precios.
 
-![exportacao es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-01-13-mejoras-a-la-exportacion-de-precios-con-una-plantilla_1.gif)
+![exportacao es](https://images.ctfassets.net/alneenqid6w5/2w6DG43n73r48D3pM6OmXa/0f70f35ceb6f562f16f40346e4e046cb/exportacao_es.gif)
 
 ## ¿Qué cambió?
 
@@ -48,5 +48,5 @@ Las razones de los cambios son:
 
 La nueva experiencia de exportación de precios está disponible para toda la base de clientes VTEX. Para acceder a ella, en el Admin VTEX, ve a *Catálogo > Precios > Lista de precios* y haz clic en el ícono <i class="fas fa-download"></i> para realizar la exportación de los precios.
 
-Para obtener más información, lea el artículo [Exportación e importación mediante la plantilla de precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
+Para obtener más información, lea el artículo [Exportación e importación mediante la plantilla de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
 

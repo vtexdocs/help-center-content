@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário fica congelada se ocorrer um erro no processo interno da ordem de colocação'
+title: "A interface do usuário fica congelada se ocorrer um erro no processo interno da ordem de colocação"
 id: pt5Orot3i9BlYCt4E2Kj5
 status: PUBLISHED
 createdAt: 2023-11-28T18:55:54.950Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-gets-frozen-if-an-error-occurs-in-the-place-order-internal-process
+slugEN: a-interface-do-usuario-fica-congelada-se-ocorrer-um-erro-no-processo-interno-da-ordem-de-colocacao
 locale: pt
 kiStatus: Backlog
 internalReference: 943771
@@ -18,7 +18,9 @@ internalReference: 943771
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando ocorre um erro durante o processo interno de colocação de pedido, a interface do usuário fica congelada no carregamento sem nenhuma mensagem de erro/aviso.

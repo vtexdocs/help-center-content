@@ -1,5 +1,5 @@
 ---
-title: 'Valor de AvailableQuantity incoherente debido al gran número de rutas creadas para entregar el artículo.'
+title: "Valor de AvailableQuantity incoherente debido al gran número de rutas creadas para entregar el artículo."
 id: 4kKVjSNsIEU8ZVGcpwvzQw
 status: PUBLISHED
 createdAt: 2024-05-16T12:14:20.776Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: availablequantity-value-inconsistent-due-to-the-large-number-of-routes-created-to-deliver-the-item
+slugEN: valor-de-availablequantity-incoherente-debido-al-gran-numero-de-rutas-creadas-para-entregar-el-articulo
 locale: es
 kiStatus: Backlog
 internalReference: 1034211
@@ -18,7 +18,9 @@ internalReference: 1034211
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Durante el pipeline de indexación de un artículo, se realiza una simulación sin uso de código postal para validar la disponibilidad, esta simulación, cuando llega al sistema logístico, realiza una validación combinando todos los muelles, almacenes y políticas de envío disponibles para un canal de venta, la respuesta a este cálculo determina la disponibilidad del artículo, sin embargo esta respuesta tiene un límite de lectura de 10.000 rutas, por lo que cuando un cálculo da como resultado más de 10.000, el resto de rutas no se tienen en cuenta, lo que puede provocar que el sistema devuelva una respuesta inconsistente.

@@ -30,7 +30,7 @@ The page displays the list of your store's promotions and their basic informatio
 | `To` | Promotion end date. |
 | `Status` | Promotion status, which can be: <p> __Active:__ when a promotion is active.</p> <p>__Scheduled:__ when the promotion was scheduled.</p> <p>__Paused:__ when the promotion is paused. <p>__Completed:__ when the promotion ended.</p> |
 
-![listadepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_1.gif)
+![listadepromocoes en](https://images.ctfassets.net/alneenqid6w5/3QkCDSGnYVvzz6ygn3ZUm8/c790e13db5f9ce7b8e9fa276478813d1/listadepromocoes_en.gif)
 
 You can sort the promotions by name, date, or status. To do this, click on the title of the column with the information you want to use as sorting criteria.
 
@@ -48,12 +48,12 @@ All the features available on the page will be described in the following sectio
 
 To add a new promotion, click the `Create Promotion` button. Then, you can select the following types of promotions: 
 
-- [Regular](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
-- [Buy Together - Bundle](https://help.vtex.com/en/tutorial/compre-junto--tutorials_323)
-- [More for Less](https://help.vtex.com/en/tutorial/leve-mais-por-menos--tutorials_325)
-- [Progressive Discount](https://help.vtex.com/en/tutorial/desconto-progressivo--tutorials_324)
-- [Buy One Get One](https://help.vtex.com/en/tutorial/compre-e-ganhe--tutorials_322)
-- [Campaign Promotion](https://help.vtex.com/en/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+- [Regular](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Buy Together - Bundle](/en/tutorial/compre-junto--tutorials_323)
+- [More for Less](/en/tutorial/leve-mais-por-menos--tutorials_325)
+- [Progressive Discount](/en/tutorial/desconto-progressivo--tutorials_324)
+- [Buy One Get One](/en/tutorial/compre-e-ganhe--tutorials_322)
+- [Campaign Promotion](/en/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
 
 ## Archived promotions
 
@@ -82,7 +82,7 @@ The file contains the following information about each promotion:
 
 ## Promotion usage
 
-![usodaspromoções en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_2.JPG)
+![usodaspromoções en](https://images.ctfassets.net/alneenqid6w5/5cvRZbj2TqwHuQcx6jjqm4/d94a8916fcd88257d83f8c8edd0a0dbf/usodaspromo____es_en.JPG)
 
 To view the total of your active promotions and the remaining quota for new promotions, click `Promotion usage`. 
 
@@ -90,11 +90,11 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 ## Filter promotions
 
-![filtrodepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_3.gif)
+![filtrodepromocoes en](https://images.ctfassets.net/alneenqid6w5/5ejpdUDVPbixeLp6nmDB1q/d637dba80b4cbda6194cae7cbf630785/filtrodepromocoes_en.gif)
 
 The promotion list can be filtered according to your needs by using the following filters:
 
-- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](https://help.vtex.com/en/tutorial/buy-together--tutorials_323), [More for Less](https://help.vtex.com/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](https://help.vtex.com/en/tutorial/progressive-discount--tutorials_324), [Buy One Get One](https://help.vtex.com/en/tutorial/buy-one-get-one--tutorials_322), and [Campaign Promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
+- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](/en/tutorial/buy-together--tutorials_323), [More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324), [Buy One Get One](/en/tutorial/buy-one-get-one--tutorials_322), and [Campaign Promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
 - **Status:** The status of the promotion. The options are: `Active`, `Scheduled`, `Paused`, and `Completed`.
 - **Last modified:** Last update history for the last 12 months, 3 months, 30 days, 7 days, or the day before the query.
 - **Trade policy:** Trade policy under which the promotion will be applied.
@@ -112,5 +112,5 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> icon in a promotion, you ca
 - <i class="fas fa-archive"></i> __Archive:__ archive the promotion. The promotion will automatically be moved to the *[Archived Promotions](#archived-promotions)* page.
 
 #### Learn more
-- [What are utm_source, utm_campaign, and utm_medium](https://help.vtex.com/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
+- [What are utm_source, utm_campaign, and utm_medium](/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
 

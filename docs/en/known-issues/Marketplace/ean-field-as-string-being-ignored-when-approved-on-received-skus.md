@@ -1,5 +1,5 @@
 ---
-title: 'Ean field as string being ignored when approved on Received Skus'
+title: "Ean field as string being ignored when approved on Received Skus"
 id: 3ubVdtlt8ElWzQGFM9OTTq
 status: PUBLISHED
 createdAt: 2023-09-11T16:37:06.258Z

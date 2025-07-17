@@ -42,7 +42,7 @@ Aprende más sobre los principales escenarios de uso de índices en Master Data 
 
 ### Consultas de hasta mil documentos
 
-Se recomienda el uso de índices para búsquedas con resultados de hasta mil documentos. Si al buscar a través de un índice obtienes más de mil documentos como resultado, puedes optimizar el rendimiento indexando el campo, es decir, [configurándolo como filtro en la entidad de datos](https://help.vtex.com/es/tutorial/filtrando-dados-no-master-data--tutorials_778).
+Se recomienda el uso de índices para búsquedas con resultados de hasta mil documentos. Si al buscar a través de un índice obtienes más de mil documentos como resultado, puedes optimizar el rendimiento indexando el campo, es decir, [configurándolo como filtro en la entidad de datos](/es/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
 ### Restricción de valores por documento (clave alternativa)
 
@@ -56,15 +56,17 @@ Si solo hay un campo configurado como índice, la clave alternativa evitará que
 
 Por ejemplo, la tabla **Cliente** tiene dos columnas: **ID** y **nombre**. Para facilitar la búsqueda, el campo **Nombre** (`name`) puede configurarse como índice y marcarse como **Valores únicos**, como se ilustra a continuación:
 
-![indices-1-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/indices-en-master-data_1.png)
+![indices-1-es](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/2a87ed75f094011598e43f6b019b9aac/indices-1-es.png)
 
 Como resultado, no será posible ingresar un nombre que ya haya sido registrado en **Cliente**:
 
-![indices-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/indices-en-master-data_2.png)
+![indices-2-es](https://images.ctfassets.net/alneenqid6w5/4hHQqk8reoDAAzuMiNBncY/d6142ece91ab5f6db03a8e97d7adb57c/indices-2-es.png)
 
 En el ejemplo anterior, como ya existe un registro con el **Nombre** igual a **María**, no es posible registrar otro con el mismo valor.
 
->⚠️ Utiliza la opción **Valores únicos** con precaución: si deseas permitir que un valor se repita, configurarlo como único hará que el sistema bloquee la inserción de registros duplicados, impidiendo su registro.
+<div class="alert alert-warning">
+  <p>Utiliza la opción <strong>Valores únicos</strong> con precaución: si deseas permitir que un valor se repita, configurarlo como único hará que el sistema bloquee la inserción de registros duplicados, impidiendo su registro.</p>
+</div>
 
 #### Varios campos en el índice
 
@@ -72,12 +74,14 @@ Si hay más de un campo en el índice, la clave alternativa evitará que un conj
 
 Por ejemplo, considera que la entidad **Cliente** tiene tres campos: **ID**, **Nombre** y **Documento**. En la configuración del índice, en **Campos**, se ingresaron los términos Nombre (`firstName`) y Documento (`document`), como se ilustra a continuación:
 
-![indices-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/indices-en-master-data_3.png)
+![indices-3-es](https://images.ctfassets.net/alneenqid6w5/66m8jlFgaiE07dSpSFiWhg/bdd2956a7232c41559937286463a9c4b/indices-3-es.png)
 
 En este caso, se puede repetir o el valor del **Nombre** o el valor del **Documento**. Sin embargo, la combinación de ambos valores no puede repetirse; es decir, no puede existir ningún registro con el mismo par (**Nombre** y **Documento**).
 
-![indices-4-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/indices-en-master-data_4.png)
+![indices-4-es](https://images.ctfassets.net/alneenqid6w5/7sLqZNCOgjbF794zd6Jcz7/3f47ce97a3d99c3109bdcb9d421b036f/indices-4-es.png)
 
 En el ejemplo anterior, ya existe un registro con el **Nombre** igual a **María**. Es posible incluir otro registro con el mismo **Nombre**, siempre que el valor del **Documento** sea diferente.
 
->⚠️ Si se repite la misma combinación de valores, el registro no se guardará. Utiliza la opción **Valores únicos** solo cuando no haya ninguna posibilidad de que un conjunto de valores se repita en registros diferentes.
+<div class="alert alert-warning">
+  <p>Si se repite la misma combinación de valores, el registro no se guardará. Utiliza la opción <strong>Valores únicos</strong> solo cuando no haya ninguna posibilidad de que un conjunto de valores se repita en registros diferentes.</p>
+</div>

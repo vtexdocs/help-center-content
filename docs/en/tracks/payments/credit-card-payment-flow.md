@@ -16,19 +16,19 @@ trackSlugEN: payments
 
 The basic flow of a credit card payment is performed by the following players:
 
-- **Payment Gateway**: A [Payment Gateway](https://help.vtex.com/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) is a system that transmits the data from the purchases made in your store. The gateway sends data and receives responses to let you know whether a particular purchase should be confirmed or not.
-- **Acquirer**: An [Acquirer](https://help.vtex.com/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
-- **Card brand**: [Card Brands](https://help.vtex.com/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) are companies responsible for defining the business rules for purchases made with credit cards. They define the standards by which acquirers must process the transactions made through this payment method (each brand has its own rules).
-- **Issuing Bank**: The [Issuing Bank](https://help.vtex.com/en/tutorial/what-is-the-issuing-bank--7aVIVGwgtU4SWuqowSQksg) is the financial institution responsible for the means of payment, whether they are "boletos" (popular Brazilian off-line payment method), debit or credit cards. Upon receiving the data of a purchase made in your store, the issuing bank will authorize the sale or not, depending on the credit limit or the money available in the user's account.
+- **Payment Gateway**: A [Payment Gateway](/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) is a system that transmits the data from the purchases made in your store. The gateway sends data and receives responses to let you know whether a particular purchase should be confirmed or not.
+- **Acquirer**: An [Acquirer](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
+- **Card brand**: [Card Brands](/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) are companies responsible for defining the business rules for purchases made with credit cards. They define the standards by which acquirers must process the transactions made through this payment method (each brand has its own rules).
+- **Issuing Bank**: The [Issuing Bank](/en/tutorial/what-is-the-issuing-bank--7aVIVGwgtU4SWuqowSQksg) is the financial institution responsible for the means of payment, whether they are "boletos" (popular Brazilian off-line payment method), debit or credit cards. Upon receiving the data of a purchase made in your store, the issuing bank will authorize the sale or not, depending on the credit limit or the money available in the user's account.
 <br/>
-To learn more about the financial agents involved in the payment flow of an order in Brazil, check out [this article](https://help.vtex.com/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi). <br/>
+To learn more about the financial agents involved in the payment flow of an order in Brazil, check out [this article](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi). <br/>
 <br/>
 
 ## Payment Flow
 
 The complete credit card payment flow at VTEX is shown in the following scheme:
 
-![Credit Card - Basic payment flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payments/credit-card-payment-flow_1.JPG)
+![Credit Card - Basic payment flow](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/dbee2595f3dda339db8010cb8d00f67d/payments_image1_EN.JPG)
 
 1. On the Checkout screen of your store, the customer chooses the _credit card_ **Payment Method** to complete the purchase.
 
@@ -42,5 +42,7 @@ The complete credit card payment flow at VTEX is shown in the following scheme:
 
 Upon the issuing bank's response, the reverse flow is performed and the **Payment Gateway** receives information whether the payment has been approved or denied.
 
->ℹ️ It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
+<div class="alert alert-info">
+It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
+</div>
 

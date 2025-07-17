@@ -1,5 +1,5 @@
 ---
-title: 'Erro 400 (Bad Request) ao acessar página de filtro com caracter especial no valor'
+title: "Erro 400 (Bad Request) ao acessar página de filtro com caracter especial no valor"
 id: 1mHUPIG42A0UUoAwac8IYE
 status: PUBLISHED
 createdAt: 2017-09-18T19:12:57.298Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: error-400-bad-request-when-accessing-filter-page-with-special-character-in-value
+slugEN: erro-400-bad-request-ao-acessar-pagina-de-filtro-com-caracter-especial-no-valor
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 Ao aplicar um filtro por especificação (menu lateral) com caracter especial, o sistema retorna tela branca com o seguinte erro 400: "Bad Request! Scripts are not allowed!"
 
-![Filtro com erro 400](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/erro-400-bad-request-ao-acessar-pagina-de-filtro-com-caracter-especial-no-valor_1.png)
+![Filtro com erro 400](//images.contentful.com/alneenqid6w5/zFVBtySVCoYSoCqEQioOw/b0ac0afcad2eb753d0c02cf14850e087/erro_400.png)
 
 ## Simulação
 

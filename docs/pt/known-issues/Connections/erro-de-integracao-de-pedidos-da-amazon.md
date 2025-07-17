@@ -1,5 +1,5 @@
 ---
-title: 'Erro de integração de pedidos da Amazon'
+title: "Erro de integração de pedidos da Amazon"
 id: 7EbYwdDqy78Jv4ztOxqgnY
 status: PUBLISHED
 createdAt: 2022-04-06T16:29:04.269Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-order-integration-error
+slugEN: erro-de-integracao-de-pedidos-da-amazon
 locale: pt
 kiStatus: Backlog
 internalReference: 557223
@@ -18,7 +18,9 @@ internalReference: 557223
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

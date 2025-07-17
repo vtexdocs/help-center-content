@@ -16,7 +16,9 @@ trackSlugEN: facebook-integration
 
 This guide explains how to integrate with Facebook using the connector developed by VTEX. Integration through native connectors should be your default selection, as it implies more efficiency and security.
 
->❗ It is possible to [set up the integration with an XML file](https://help.vtex.com/en/tutorial/configurando-xml--tutorials_242). However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
+<div class="alert alert-danger">
+It is possible to <a href="https://help.vtex.com/en/tutorial/configurando-xml--tutorials_242">set up the integration with an XML file</a>. However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
+</div>
 
 Before you proceed with the integration, you must have created:
 
@@ -27,12 +29,14 @@ Business Manager is a free tool created to make it easier for you to manage your
 
 The next steps to integrate your VTEX store with Facebook are:
 
-1. [Define the commercial policy](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
-2. [Configure the connector](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
-3. [Authenticate the account](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+1. [Define the commercial policy](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
+2. [Configure the connector](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
+3. [Authenticate the account](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
 
 After these steps have been completed, the integration is finished. However, the product attributes will not have been sent.
 
->ℹ️ If you want to send your product attributes to Facebook, you need to do a template mapping of categories and attributes. This mapping is optional. However, if you choose to do it, you must follow all the steps described above. Otherwise, errors can occur in the integration.
+<div class="alert alert-info">
+If you want to send your product attributes to Facebook, you need to do a template mapping of categories and attributes. This mapping is optional. However, if you choose to do it, you must follow all the steps described above. Otherwise, errors can occur in the integration.
+</div>
 
-The steps required to perform category and attribute mapping are described in more detail in the article [Sending products to Facebook](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+The steps required to perform category and attribute mapping are described in more detail in the article [Sending products to Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).

@@ -20,9 +20,9 @@ Caso você não esteja recebendo os emails da VTEX, verifique as seguintes situa
 
 1. Confirme se o remetente está funcionando. Caso esteja utilizando um remetente customizado, realize o teste de envio disponível na lista remetentes configurados no seu Admin VTEX, em **Configurações da loja > Templates de email > Remetentes**. O módulo tentará enviar um email utilizando os dados configurados e retornará um resultado na tela.
 
-2. Caso esteja utilizando um [servidor SMTP](https://help.vtex.com/pt/tutorial/customizing-the-vtex-smtp--tutorials_2733) próprio, recomendamos utilizar o default VTEX. 
+2. Caso esteja utilizando um [servidor SMTP](/pt/tutorial/customizing-the-vtex-smtp--tutorials_2733) próprio, recomendamos utilizar o default VTEX. 
 
-3. Confira a sua [configuração de SPF](https://help.vtex.com/pt/tutorial/configuracao-de-spf) e sua caixa de spam. Os emails podem estar caindo nela devido a regra de seu servidor de email.
+3. Confira a sua [configuração de SPF](/pt/tutorial/configuracao-de-spf) e sua caixa de spam. Os emails podem estar caindo nela devido a regra de seu servidor de email.
 
 4. Verifique se o endereço de email está corretamente preenchido nas configurações de pagamento. No seu Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações** e clique na aba **Notificações**. Caso esse campo esteja vazio, os emails não serão enviados. 
 

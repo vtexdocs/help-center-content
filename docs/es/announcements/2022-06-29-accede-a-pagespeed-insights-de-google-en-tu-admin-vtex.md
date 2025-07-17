@@ -17,11 +17,11 @@ announcementSynopsisES: 'Evalúa el rendimiento de URLs con la nueva página Ren
 
 En el mercado del comercio digital, proporcionar una experiencia que permita al comprador no llevar demasiado tiempo para encontrar la información que necesita o para completar un pedido puede ser la ventaja competitiva entre las marcas, que compiten por la atención del mismo usuario. Por lo tanto, seguir el rendimiento de tu sitio web es importante para medir y mejorar la experiencia del usuario, lo que puede suponer un aumento de las ventas.
 
-Con este fin, hemos creado la nueva pantalla [Rendimiento de las páginas web](https://help.vtex.com/es/v4/docs/rendimiento-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc) y hemos incorporado las herramientas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) y [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) de Google a tu Admin VTEX.
+Con este fin, hemos creado la nueva pantalla [Rendimiento de las páginas web](/es/v4/docs/rendimiento-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc) y hemos incorporado las herramientas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) y [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) de Google a tu Admin VTEX.
 
 PageSpeed Insights y Lighthouse son herramientas desarrolladas por Google para proporcionar información sobre la experiencia de usuario de una página tanto en dispositivos móviles como de escritorio, ofreciendo sugerencias sobre cómo se puede mejorar esa página. Utilizan las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para evaluar la experiencia del usuario _online_.
 
-![Web page performance Dash ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-06-29-accede-a-pagespeed-insights-de-google-en-tu-admin-vtex_1.png)
+![Web page performance Dash ES](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
 
 ## ¿Qué cambió?
 
@@ -41,9 +41,9 @@ Además, al combinar PageSpeed Insights y Lighthouse en la misma pantalla, facil
 
 ## ¿Qué se necesita hacer?
 
-La página "Rendimiento de las páginas web" está disponible automáticamente para las tiendas que utilizan el [nuevo Admin VTEX](https://help.vtex.com/en/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para accederla, en el menú lateral de tu Admin, haz clic en **Dashboards > Rendimiento de las páginas web**.
+La página "Rendimiento de las páginas web" está disponible automáticamente para las tiendas que utilizan el [nuevo Admin VTEX](/en/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para accederla, en el menú lateral de tu Admin, haz clic en **Dashboards > Rendimiento de las páginas web**.
 
 Si tu tienda sigue utilizando versiones anteriores del Admin, [únete a nuestro programa Beta](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) del nuevo Admin VTEX para acceder a la página “Rendimiento de las páginas web”.
 
-Descubre cómo obtener el máximo provecho de este _dashboard_ en nuestro artículo sobre el [Rendimiento de las páginas web](https://help.vtex.com/es/v4/docs/rendimiento-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc).
+Descubre cómo obtener el máximo provecho de este _dashboard_ en nuestro artículo sobre el [Rendimiento de las páginas web](/es/v4/docs/rendimiento-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc).
 

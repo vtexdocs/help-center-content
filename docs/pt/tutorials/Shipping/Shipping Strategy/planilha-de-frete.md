@@ -24,7 +24,9 @@ Para cadastrar preços de envio pela planilha de frete é necessário:
 1. [Preencher os campos da planilha](#preencher-os-campos-da-planilha)
 2. [Enviar o arquivo pelo Admin VTEX](#enviar-o-arquivo-pelo-admin-vtex)
 
->ℹ️ Há também como cadastrar preços de envio pelo módulo [Tarifas de Envio](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141). Recomendamos utilizar a [Planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
+<div class="alert alert-info"> 
+Há também como cadastrar preços de envio pelo módulo <a href="https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141">Tarifas de Envio</a>. Recomendamos utilizar a <a href="https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127">Planilha de frete</a> ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
+</div>
 
 ## Preencher os campos da planilha
 
@@ -173,11 +175,13 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
 </tbody>
 </table>
 
->ℹ️ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa".
+<div class="alert alert-info"> 
+Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa". 
+</div>
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Shipping%20Strategy/planilha-de-frete_1.png)
+![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Enviar o arquivo pelo Admin VTEX
 
@@ -190,11 +194,15 @@ O envio da planilha é feito no cadastro ou na edição de **Política de Envio.
 3. Após fazer download da planilha modelo e [preencher os campos](#preencher-os-campos-da-planilha), faça upload do arquivo na seção Upload de tarifas de envio.
 4. Ao finalizar, clique em `Salvar Alterações`.
 
-![upload tarifas envioPT]   (//images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
+![upload tarifas envioPT]   (https://images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
 
->⚠️ Para cadastrar uma **nova** Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
+<div class="alert alert-warning"> 
+Para cadastrar uma <b>nova</b> Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio</a>.
+</div>
 
->❗ Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato **.zip**. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado.
+<div class="alert alert-danger"> 
+Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato <b>.zip</b>. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado. 
+</div>
 
 Caso exista algum problema no preenchimento dos campos do arquivo enviado, você receberá um email informando o erro. Não esqueça de verificar o preenchimento correto antes de realizar uma nova tentativa de envio.
 

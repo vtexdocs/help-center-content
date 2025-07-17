@@ -1,5 +1,5 @@
 ---
-title: 'E-mails de Pagamento Pendente Replicado'
+title: "E-mails de Pagamento Pendente Replicado"
 id: 6ibJCSrep1aWEKi1DRTLDv
 status: PUBLISHED
 createdAt: 2022-05-18T18:30:57.906Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: replicated-pending-payment-emails
+slugEN: emails-de-pagamento-pendente-replicado
 locale: pt
 kiStatus: No Fix
 internalReference: 348932
@@ -18,7 +18,9 @@ internalReference: 348932
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há alguns pedidos que têm um email replicado de pagamento pendente em poucos minutos. Até mesmo dez e-mails.

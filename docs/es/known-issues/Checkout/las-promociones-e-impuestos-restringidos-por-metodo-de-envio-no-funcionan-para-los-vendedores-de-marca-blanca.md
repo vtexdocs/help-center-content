@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones e impuestos restringidos por método de envío no funcionan para los vendedores de marca blanca'
+title: "Las promociones e impuestos restringidos por método de envío no funcionan para los vendedores de marca blanca"
 id: 3ue1kZdbX1mMFqPCkl0tC4
 status: PUBLISHED
 createdAt: 2023-08-09T13:25:02.168Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: promotions-and-taxes-restricted-by-shipping-method-doesnt-works-for-whitelabel-sellers
+slugEN: las-promociones-e-impuestos-restringidos-por-metodo-de-envio-no-funcionan-para-los-vendedores-de-marca-blanca
 locale: es
 kiStatus: Backlog
 internalReference: 315485
@@ -18,7 +18,9 @@ internalReference: 315485
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las promociones e impuestos restringidos por métodos de envío no funcionan para los Vendedores de Marca Blanca. No se aplicarán en la solicitud de simulación (utilizada para el carrito y el pago) porque la solicitud de marketplace no especifica la `selectedSla`, por lo que sus valores no se presentarán al usuario.

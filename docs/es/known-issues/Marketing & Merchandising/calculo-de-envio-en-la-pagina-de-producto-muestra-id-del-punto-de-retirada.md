@@ -1,5 +1,5 @@
 ---
-title: 'Cálculo de envío en la página de producto muestra ID del punto de retirada'
+title: "Cálculo de envío en la página de producto muestra ID del punto de retirada"
 id: 4NJrWgCGXSKe2aKWo4UYUY
 status: PUBLISHED
 createdAt: 2018-06-01T12:59:25.406Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: shipping-calculation-on-product-page-displays-pickup-point-id
+slugEN: calculo-de-envio-en-la-pagina-de-producto-muestra-id-del-punto-de-retirada
 locale: es
 kiStatus: Backlog
 internalReference: 

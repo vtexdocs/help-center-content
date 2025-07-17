@@ -1,5 +1,5 @@
 ---
-title: 'El conector antifraude ClearSale está enviando los artículos del carrito equivocados en los casos en los que dos o más artículos comparten el mismo nombre.'
+title: "El conector antifraude ClearSale está enviando los artículos del carrito equivocados en los casos en los que dos o más artículos comparten el mismo nombre."
 id: 1OSID8MeL6DxaM3urR7CHj
 status: PUBLISHED
 createdAt: 2023-04-28T12:21:24.524Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-clearsale-antifraud-connector-is-sending-the-wrong-cart-items-in-cases-where-two-or-more-items-share-the-same-name
+slugEN: el-conector-antifraude-clearsale-esta-enviando-los-articulos-del-carrito-equivocados-en-los-casos-en-los-que-dos-o-mas-articulos-comparten-el-mismo-nombre
 locale: es
 kiStatus: Backlog
 internalReference: 799396
@@ -18,7 +18,9 @@ internalReference: 799396
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El conector antifraude ClearSale utiliza el nombre del artículo como condición cuando realiza un bucle a través del minicarrito enviado por la caja. En los casos en que dos o más artículos comparten el mismo nombre, aunque tengan SKU diferentes, sólo uno de esos artículos se envía al sistema antifraude. El importe de la transacción de los artículos restantes se envía como carga.

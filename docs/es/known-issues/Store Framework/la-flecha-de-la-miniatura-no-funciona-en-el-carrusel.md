@@ -1,5 +1,5 @@
 ---
-title: 'La flecha de la miniatura no funciona en el carrusel'
+title: "La flecha de la miniatura no funciona en el carrusel"
 id: 5Ps4JjtqGpPq7YPVmb9Akz
 status: PUBLISHED
 createdAt: 2024-11-19T18:14:52.949Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: thumbnail-arrow-not-working-on-carousel
+slugEN: la-flecha-de-la-miniatura-no-funciona-en-el-carrusel
 locale: es
 kiStatus: Backlog
 internalReference: 1137480
@@ -18,7 +18,9 @@ internalReference: 1137480
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar el carrusel en la PDP, la flecha superior de miniaturas no funciona. También ocurre con el carrusel de la vista rápida ya que proviene del mismo componente.

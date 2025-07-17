@@ -15,4 +15,4 @@ legacySlug: reclamaciones-de-chat-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ Contenido bajo traducción.
+<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>

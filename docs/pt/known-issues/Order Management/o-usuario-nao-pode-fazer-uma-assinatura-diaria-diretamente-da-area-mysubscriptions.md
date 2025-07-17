@@ -1,5 +1,5 @@
 ---
-title: 'O usuário não pode fazer uma assinatura diária diretamente da área my-subscriptions'
+title: "O usuário não pode fazer uma assinatura diária diretamente da área my-subscriptions"
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area
+slugEN: o-usuario-nao-pode-fazer-uma-assinatura-diaria-diretamente-da-area-mysubscriptions
 locale: pt
 kiStatus: No Fix
 internalReference: 430650
@@ -18,7 +18,9 @@ internalReference: 430650
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O usuário logado não pode fazer uma assinatura diária diretamente da guia Assinatura na Minha Conta. O botão parece não responder, e não aparece nenhuma mensagem de erro. Parece que outras freqüências, tais como assinaturas mensais ou anuais, estão operando normalmente.

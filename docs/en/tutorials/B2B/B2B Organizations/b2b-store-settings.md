@@ -3,8 +3,8 @@ title: 'B2B Store Settings'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
-updatedAt: 2024-06-06T16:33:44.798Z
-publishedAt: 2024-06-06T16:33:44.798Z
+updatedAt: 2025-06-16T12:01:28.366Z
+publishedAt: 2025-06-16T12:01:28.366Z
 firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B
@@ -17,8 +17,8 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 
 On this page, you will see the instructions on how to configure the general settings for your B2B store.
 
-1. 	In your Admin, go to Apps > B2B Organizations & Cost Centers > Organization and click the Settings tab, or search for Settings under B2B Organizations & Cost Centers
-2. 	Configure the General Settings.
+1. In your Admin, go to Apps > B2B Organizations & Cost Centers > Organization and click the Settings tab, or search for Settings under B2B Organizations & Cost Centers
+2. Configure the General Settings.
 
 - **Auto approve new organizations:** Select if you want to approve new organizations automatically.
 - **Make business document ready only:** By selecting this option, the customer will not be able to edit the business document field.
@@ -28,13 +28,13 @@ On this page, you will see the instructions on how to configure the general sett
 ## Payment Terms
 You can add payment methods by selecting them based on your business needs.  
 Example: debit card, credit card, promissory.
-![ B2B Store Settings - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/B2B%20Organizations/b2b-store-settings_1.jpg)
+![ B2B Store Settings - General Settings + Payment Terms](https://images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/4efe4d1a37c7b2858fb8f528388e45e5/image1.jpg)
 
 ## Price Tables
 You can add default prices for the stores you add. Learn more about Price Tables on [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).
 
 ## Trade Policies
- ![ B2B - Políticas comerciais EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/B2B%20Organizations/b2b-store-settings_2.jpg)
+ ![ B2B - Políticas comerciais EN](https://images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/7d93cbc41f2011d2ca1f1f3090458b2d/image2.jpg)
 You can directly link your store to trade policies and sales channels.
 
 1. In the **Available trade policies** list, click the trade policy you want to add to your store and then click `Add to Trade Policy`, which will then be displayed in the **Selected trade policies** list.

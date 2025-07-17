@@ -3,8 +3,8 @@ title: 'Crear promoción Comprar Juntos'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2024-11-06T15:47:11.539Z
-publishedAt: 2024-11-06T15:47:11.539Z
+updatedAt: 2025-02-24T16:17:27.631Z
+publishedAt: 2025-02-24T16:17:27.631Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -61,13 +61,13 @@ Este artículo detalla los pasos para crear y configurar una promoción Comprar 
 
 Define la información principal de la promoción, como nombre, descripción y vigencia.
 
-- **Nombre:** escoge un nombre claro y objetivo para la promoción.
+- **Nombre:** escoge un nombre claro y objetivo para la promoción (hasta 150 caracteres).
 - **Status:** indica si la promoción estará **Activa** o **Inactiva**. Una promoción **Activa** se aplicará según las fechas y horas configuradas, mientras que una **Inactiva** estará pausada aunque esté dentro del periodo configurado.
-- **Descripción:** ingresa una breve descripción de la promoción (hasta 300 caracteres) que incluya los objetivos principales.
+- **Descripción:** ingresa una breve descripción de la promoción (hasta 10.000 caracteres) que incluya los objetivos principales.
 - **Fecha de inicio:** define la fecha de inicio de la promoción.
 - **Hora de inicio:** define la hora de inicio de la promoción.
 - **Fecha de fin:** define la fecha en la que finalizará la promoción.
-- **Hora de fin:** define la hora exacta en que se finalizará la promoción.
+- **Hora de fin:** define la hora exacta en que se finalizará la promoción. La hora debe ser posterior a la hora actual.
 - **Utilizar configuración de recurrencia:** activa esta opción si deseas que la promoción se repita automáticamente en días y horas específicos.
 
 ### Sellers
@@ -80,7 +80,7 @@ Define los sellers a los que se aplicará la promoción, que pueden ser todos o 
 
 ### Políticas comerciales
 
-Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](https://help.vtex.com/es/faq/o-que-e-um-marketplace) (mi tienda) o como [seller](https://help.vtex.com/es/faq/o-que-e-um-seller) (tiendas de terceros - fulfillment).
+Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como [seller](/es/faq/o-que-e-um-seller) (tiendas de terceros - fulfillment).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -105,6 +105,10 @@ A continuación se explica cómo configurar la **Lista 1 y Lista 2** para activa
 - **SKU:** selecciona los SKUs adicionales que al agregarlos al carrito junto con los SKUs de la **Lista 1** activarán el descuento configurado. La promoción solo se activará si los productos de la **Lista 1** y de la **Lista 2** se agregan al carrito.
 - **Descuento:** ingresa el porcentaje de descuento que se aplicará a los SKUs de la **Lista 2** cuando se agreguen los SKUs de la **Lista 1** al carrito. Debes ingresar el valor como porcentaje (%). Por ejemplo, para conceder 10 % de descuento con la compra de un cinturón combinado con un pantalón de la **Lista 1**, ingresa "10" en el campo.
 
+<div class = "alert alert-info">
+Mantén diferentes SKUs en la Lista 1 y la Lista 2. No repitas el mismo SKU en ambas listas.
+</div>
+
 ## Condiciones
 
 Define las restricciones que se aplicarán a la promoción. Las condiciones permiten activar la promoción en circunstancias específicas según los criterios seleccionados. Para agregar una condición, sigue las instrucciones a continuación:
@@ -115,15 +119,16 @@ Define las restricciones que se aplicarán a la promoción. Las condiciones perm
 
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas identificadas por su número BIN. Importa una lista de BIN con un archivo de texto (.txt) o un archivo CSV (.csv) que describa cada BIN en una fila diferente.
 
-- **Clúster de clientes:** selecciona un [clúster de clientes](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
+
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.
 
-- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con parámetros UTM o cuando se utilice un cupón asociado a esos parámetros. Utilizar parámetros UTM es opcional y permite aplicar descuentos en campañas específicas. Define los siguientes parámetros si es necesario:
+- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con parámetros UTM o cuando se utilice un cupón asociado a esos parámetros. Utilizar parámetros UTM es opcional y permite aplicar descuentos en campañas específicas. Define los parámetros UTM siguiendo las reglas de formato, utilizando solo letras, números, guiones y guiones bajos. Si es necesario, completa los siguientes parámetros:
   - **Fuente UTM:** el descuento se aplica al navegar utilizando el parámetro utm_source configurado.
   - **Campaña UTM:** el descuento se aplica cuando al navegar utilizando el parámetro utm_campaign configurado.
   - **Crear cupón a partir de los parámetros UTM anteriores:** permite generar un cupón con los parámetros UTM ingresados en los campos "Fuente UTM" y "Campaña UTM".
-  - **Ver cupones vinculados:** permite ver los cupones que ya se vincularon a los parámetros UTM definidos.
+  - **Ver cupones vinculados:** permite ver los cupones que ya se vincularon a los parámetros UTM definidos. Al crear cupones a partir de UTMs, no uses el nombre `new`, ya que esto genera una URL no válida.
 
 ## Restricciones
 
@@ -136,9 +141,9 @@ En esta sección puedes definir la opción de combinar la promoción con otras p
 
 Destaca la promoción en la página de productos y agrega datos personalizados para personalizar esta sección de la tienda.
 
-- **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directo en las páginas de producto. Recuerda [configurar la visualización en el módulo CMS](https://help.vtex.com/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directo en las páginas de producto. Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 - **Información adicional:** haz clic en **Crear** para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 
 Vea el formulario de Comprar Juntos a continuación:
 
-![Informação geral - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/comprar-juntos-registro-de-promocion_1.gif)
+![Informação geral - ES](https://images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/8c20e0d221752e583bb48424ae21c49e/Compre_Junto_v1-_ES.gif)

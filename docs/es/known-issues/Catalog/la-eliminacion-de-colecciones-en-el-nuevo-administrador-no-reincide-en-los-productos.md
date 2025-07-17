@@ -1,5 +1,5 @@
 ---
-title: 'La eliminación de colecciones en el nuevo administrador no reincide en los productos'
+title: "La eliminación de colecciones en el nuevo administrador no reincide en los productos"
 id: 33abWd1ApVTwPKdaxqgKPm
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:28.134Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: deleting-collections-on-the-new-admin-is-not-reindexing-the-products
+slugEN: la-eliminacion-de-colecciones-en-el-nuevo-administrador-no-reincide-en-los-productos
 locale: es
 kiStatus: Backlog
 internalReference: 490740
@@ -18,7 +18,9 @@ internalReference: 490740
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, si tiene una colección creada por completo en la administración de Colecciones nuevas/antiguas (CMS), al eliminarla a través de la interfaz de usuario no se reindexan los productos que contiene, por lo que no se eliminan efectivamente de la colección.

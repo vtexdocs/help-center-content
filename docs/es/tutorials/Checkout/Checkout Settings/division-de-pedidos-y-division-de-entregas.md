@@ -22,7 +22,9 @@ Ve a continuación las principales diferencias entre los escenarios de división
 * **[División de pedidos](#division-de-pedidos):** se produce cuando hay más de un _seller_ que atiende la misma compra. Esto significa que si hay tres _sellers_ para atender una misma compra, se generan tres pedidos. 
 * **[División de paquetes](#division-de-paquetes-entregas):** se produce cuando hay más de una entrega para un mismo pedido. Por ejemplo, cuando un único _seller_ es responsable de la entrega, pero el pedido se entrega en más de un envío. 
 
->ℹ️ Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
+<div class = "alert alert-info">
+Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
+</div>
 
 Para facilitar la identificación de los casos en los que hay división de pedidos y división de entregas, mira algunos ejemplos a continuación:
 
@@ -38,7 +40,7 @@ Cuando se necesita más de un _seller_ para atender el pedido.
 
 * **División entre _Sellers White Label:_** el cliente realiza las compras, pero la plataforma elige quién entrega el pedido. La elección del _seller_ que entregará los ítems se basará en criterios de prioridad. En este caso, el cliente no elige a propósito ítems de diferentes _sellers_, ni tiene información sobre qué _sellers_ le entregarán el pedido. 
 
-    Cuando esto ocurre, al final de la compra el administrador de la tienda ve el pedido dividido — _división del pedido y de la entrega._ La elección de los _sellers_ se hace automáticamente. Si quieres saber cómo se hace, consulta el artículo [Algoritmo de selección de Sellers White Label](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
+    Cuando esto ocurre, al final de la compra el administrador de la tienda ve el pedido dividido — _división del pedido y de la entrega._ La elección de los _sellers_ se hace automáticamente. Si quieres saber cómo se hace, consulta el artículo [Algoritmo de selección de Sellers White Label](/pt/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
 
 ## División de paquetes (entregas)
 
@@ -52,6 +54,8 @@ El pedido lo atiende un solo _seller_, pero es necesario realizar más de una en
 
     Esta división se realiza de forma automática y nativa para las tiendas que cuentan con Checkout V6, a través del campo `allowMultipleDeliveries` indicado como `true` en la API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). La configuración viene activa por defecto para que sea posible realizar compras con diferentes modalidades de entrega en el mismo carrito.
 
->❗ No recomendamos operar la tienda con el campo `allowMultipleDeliveries` indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
+<div class="alert alert-danger">
+  No recomendamos operar la tienda con el campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
+</div>
 
 * **Muelles diferentes:** una misma tienda ofrece todos los ítems de un pedido, pero en el cálculo de la ruta logística están asociados a diferentes muelles. Entonces hay que _dividir los paquetes de entrega_, pero sin dividir el pedido entre diferentes tiendas. La plataforma lo hace automáticamente.

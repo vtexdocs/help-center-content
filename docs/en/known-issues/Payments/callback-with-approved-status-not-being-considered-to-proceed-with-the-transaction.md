@@ -1,5 +1,5 @@
 ---
-title: 'Callback with approved status not being considered to proceed with the transaction'
+title: "Callback with approved status not being considered to proceed with the transaction"
 id: 1IU3macRFOPM5nI2ekXHHD
 status: PUBLISHED
 createdAt: 2024-11-04T19:56:28.031Z

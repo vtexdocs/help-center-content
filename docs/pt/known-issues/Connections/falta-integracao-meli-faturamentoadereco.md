@@ -1,5 +1,5 @@
 ---
-title: 'Falta integração MELI FaturamentoAdereço'
+title: "Falta integração MELI FaturamentoAdereço"
 id: 7xYni5vYpSn6bicq4e6f2K
 status: PUBLISHED
 createdAt: 2023-03-15T13:06:41.866Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-integration-missing-billingaddress
+slugEN: falta-integracao-meli-faturamentoadereco
 locale: pt
 kiStatus: Backlog
 internalReference: 771418
@@ -18,7 +18,9 @@ internalReference: 771418
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -32,7 +32,9 @@ We automatically convert images to the [WebP](https://developers.google.com/spee
 
 Using WebP can lead to a reduction in page load time by 1 to 2 seconds, depending on the layout. Below is an explanation of how image optimization functions with each format.
 
->ℹ️ Browsers not yet [compatible with the WebP format](https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp) and services, such as integrations and marketplaces, always receive unconverted images in any format. GIF files are not converted to WebP.
+<div class="alert alert-info">
+  <p>Browsers not yet <a href="https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp">compatible with the WebP format</a> and services, such as integrations and marketplaces, always receive unconverted images in any format. GIF files are not converted to WebP.</p>
+</div>
 
 ## PNG
 
@@ -42,7 +44,7 @@ Additionally, PNG images are optimized with [pngquant](https://pngquant.org/), w
 
 Finally, VTEX delivers the smallest file between the lossless WebP and the optimized PNG, as illustrated in the diagram below.
 
-![png-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/image-compression_1.PNG)
+![png-image-compression](https://images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/c3f60b063fbfa38ed197d44d6e7da014/png-image-compression.PNG)
 
 ## JPG / JPEG
 
@@ -50,12 +52,12 @@ For images in the **JPG/JPEG** formats, which are ideal for photos, the conversi
 
 VTEX delivers the image with the smallest file size to the customer, choosing between the original and the one converted to lossless WebP, as illustrated in the diagram below.
 
-![webp-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/image-compression_2.PNG)
+![webp-image-compression](https://images.ctfassets.net/alneenqid6w5/6fZVHgF3ExpBr4XOpjw2pi/0a711ec8fb9135cbddeada05f9191d95/webp-image-compression.PNG)
 
 ## Related articles
 
-* [Best practices for using images in the Catalog](https://help.vtex.com/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk)
-* [Add image to product description](https://help.vtex.com/en/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4)
-* [Importing images from a spreadsheet](https://help.vtex.com/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
-* [Updating the image of an SKU](https://help.vtex.com/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu)
-* [Reusing images with Image Widget](https://help.vtex.com/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+* [Best practices for using images in the Catalog](/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk)
+* [Add image to product description](/en/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4)
+* [Importing images from a spreadsheet](/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
+* [Updating the image of an SKU](/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu)
+* [Reusing images with Image Widget](/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)

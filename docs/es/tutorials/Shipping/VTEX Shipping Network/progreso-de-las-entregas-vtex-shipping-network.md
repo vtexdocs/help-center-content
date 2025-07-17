@@ -15,4 +15,4 @@ legacySlug: progreso-de-las-entregas-vtex-log
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
->⚠️ Actualmente, la solución VTEX Shipping Network se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.
+<div class="alert alert-warning" role="alert">Actualmente, la solución VTEX Shipping Network se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.</div>

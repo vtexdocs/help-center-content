@@ -1,5 +1,5 @@
 ---
-title: 'Ponto de retirada não fica visível durante associação com política de envio'
+title: "Ponto de retirada não fica visível durante associação com política de envio"
 id: 3GcfZkPG9yB3l8Cfd1lVzf
 status: PUBLISHED
 createdAt: 2021-12-16T19:34:39.907Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Logistics
-slugEN: the-order-management-filter-does-not-find-results-for-criteria-that-have
+slugEN: o-filtro-do-gerenciamento-de-pedidos-nao-retorna-resultados-para-criterios
 locale: pt
 kiStatus: Backlog
 internalReference: Zendesk Ticket #353656

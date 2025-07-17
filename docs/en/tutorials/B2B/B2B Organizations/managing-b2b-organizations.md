@@ -47,7 +47,7 @@ Each organization can have one of the following status:
 
 - **Inactive:** Store admins have deactivated the organization, so your users won't be able to log in.
 
-![Status- EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/B2B%20Organizations/managing-b2b-organizations_1.gif)
+![Status- EN](https://images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/075f575659ca723e1fd8ac6f1400eb5c/Status-_EN.gif)
 
 ## Adding a new organization
 
@@ -71,7 +71,7 @@ To add a new organization, follow the steps below:
     - **Recipient:** Name of the person who will receive the orders at the address provided.
 4. Click the `Add` button.
 
-![Adiconar organização- EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/B2B%20Organizations/managing-b2b-organizations_2.gif)
+![Adiconar organização- EN](https://images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/9f298b8d96c542d3c45aadef5cc67b80/Adiconar_organiza__o-_EN.gif)
 
 ## Email notifications
 
@@ -96,5 +96,5 @@ To view or customize any of these templates, follow the steps below:
 
 5. Click `Save`.
 
-To learn more about editing email templates, see [How to create and edit transactional email templates](https://help.vtex.com/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO).
+To learn more about editing email templates, see [How to create and edit transactional email templates](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO).
 

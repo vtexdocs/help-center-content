@@ -16,7 +16,9 @@ subcategoryId: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
 
->ℹ️ This App is in beta, which means we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
+<div class="alert alert-info">
+This App is in beta, which means we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
+</div>
 
 The app allows you to integrate your business with the Amazon Multi-Channel Fulfillment (MCF) program. With the integration, VTEX clients can use Amazon's logistics network in their own stores. This way, you can sell items that are stored in Amazon fulfillment centers, and after each sale in your ecommerce, the VTEX platform sends the order information to Amazon, where it is picked, packed, and shipped to the shoppers.
 
@@ -30,13 +32,15 @@ This tutorial contains the necessary information to install and configure the ap
 
 Before installing the app:
 
-- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) to learn more about required account settings.
+- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) to learn more about required account settings.
 - Verify if the products in your store meet [Amazon's restriction policies](https://sellercentral.amazon.com/gp/help/external/200164330)
 - Ensure that your store is located in one of the countries where MCF is available. Amazon MCF is available in some countries, such as the United States, Australia, Mexico, Germany and Canada. Check out the updated list of countries where MCF is available on [Amazon's page](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel).
 
->❗ Once the app is installed, the VTEX platform will treat the integration as an Amazon external store and uses marketplace-type integration with Amazon.
-> <p> The app must be installed on all VTEX accounts in which you want to use the feature.
-> <p> We recommend using Checkout V6.
+<div class="alert alert-danger">
+Once the app is installed, the VTEX platform will treat the integration as an Amazon external store and uses marketplace-type integration with Amazon.
+<p> The app must be installed on all VTEX accounts in which you want to use the feature.
+<p> We recommend using Checkout V6.
+</div>
 
 ## Installation, configuration and access:
 
@@ -75,8 +79,10 @@ To configure this, please go to Admin and follow the steps below:
 
 In both steps 8 and 10, the key to be filled in is the Google geolocation key. To generate a key, [please refer to Google's developer guide on how to generate a key](https://developers.google.com/maps/documentation/geocoding/overview).
 
->ℹ️ If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles [Setting up geolocation at checkout](https://help.vtex.com/en/tutorial/geolocation-at-checkout--tutorials_4345)
->  and [Registering geolocation](https://help.vtex.com/en/tutorial/registering-geolocation--tutorials_138).
+<div class="alert alert-info">
+If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles <a href="https://help.vtex.com/en/tutorial/geolocation-at-checkout--tutorials_4345">Setting up geolocation at checkout</a>
+ and <a href="https://help.vtex.com/en/tutorial/registering-geolocation--tutorials_138">Registering geolocation</a>.
+</div>
 
 ### Installing the app
 
@@ -98,15 +104,17 @@ To install the app, go to the VTEX App Store:
     - **ERP URL:** the address of the ERP that will include the order invoices (in case the **Automatic Invoice** field is set to Deactivated).
     - **Amazon Marketplace:** country where you will use Amazon MCF.
 
->⚠️ The configurations made in the Automatic Invoice field will be applied to all orders.
+<div class="alert alert-warning">
+The configurations made in the Automatic Invoice field will be applied to all orders.
+</div>
 
-![MCF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Amazon%20MCF%20App/amazon-multi-channel-fulfillment-mcf-app_1.PNG)
+![MCF](https://images.contentful.com/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/e26c0d8fc1ec3a9069d09e027e36aa98/Amazon_MCF_EN.PNG)
 
 ### Integrating the catalog
 
 For items registered in one platform to be available in both, it is necessary to integrate the catalogs via marketplace.
 
-To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](https://help.vtex.com/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
 
 ### Authorizing the integration
 

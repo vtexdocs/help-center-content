@@ -1,5 +1,5 @@
 ---
-title: 'Inactive product still appearing on PDP or checkout'
+title: "Inactive product still appearing on PDP or checkout"
 id: 567gsup9oQGoMmj5utCra9
 status: PUBLISHED
 createdAt: 2022-03-14T19:50:43.917Z

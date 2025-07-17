@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Braintree'
 id: 3Is3N2MmTldXPa2FtiV8xy
 status: PUBLISHED
 createdAt: 2022-08-11T12:01:04.231Z
-updatedAt: 2024-03-18T11:55:35.217Z
-publishedAt: 2024-03-18T11:55:35.217Z
+updatedAt: 2025-04-09T16:56:31.243Z
+publishedAt: 2025-04-09T16:56:31.243Z
 firstPublishedAt: 2022-08-11T12:27:01.656Z
 contentType: tutorial
 productTeam: Financial
@@ -35,16 +35,10 @@ Para configurar Braintree-DCC, siga os passos abaixo:
    		<li><b>Liquidação automática imediatamente após a análise antifraude</b>: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
    		<li><b>Desativado</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
-8. Em __Campos do provedor__, selecione ou preencha os campos abaixo com as informações da sua conta Braintree:
-   - __Change Order Single Charge__
-   - __PayPal Secret (opcional)__
-   - __PayPal Client ID (opcional)__
-   - __PayPal Merchant ID (opcional)__
-   - __Merchant Account Id (opcional)__
-   - __Merchant Id (Braintree)__
+8. Em __Campos do provedor__, selecione ou preencha os campos __Change Order Single Charge__, __PayPal Client ID (opcional)__, __Merchant Id (Braintree)__, __PayPal Secret (opcional)__, __PayPal Merchant ID (opcional)__, __Send line items?__ e __Merchant Account Id (opcional)__ com as informações da sua conta Braintree.
 9. Clique em `Salvar`.
 
-Para configurar as condições de pagamento, acesse [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento#).
+Para configurar as condições de pagamento, acesse [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento#).
 
 Depois de seguir os passos indicados, Braintree-DCC pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

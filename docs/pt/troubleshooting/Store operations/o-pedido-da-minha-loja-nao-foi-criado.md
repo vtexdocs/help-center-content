@@ -13,14 +13,15 @@ slugEN: my-store-order-was-not-created
 locale: pt
 legacySlug: o-pedido-da-minha-loja-nao-foi-criado
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Pedidos, Integração, Integração XML, Produto, Estoque
 ---
 
-Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERPs (Enterprise Resource Planning). 
+**Tags:** Pedidos, Integração, Integração XML, Produto, Estoque
+
+Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERPs (Enterprise Resource Planning). 
 
 Antes de considerar motivos complexos para erros com pedidos não criados, aplique os processos de resolução de problemas (troubleshooting) apresentados neste artigo. Alguns dos cenários de erro mais comuns são:
 
-* O item não tinha [estoque](https://help.vtex.com/pt/tutorial/inventory-management--tutorials_139) disponível e a loja não estava configurada para vender produtos sem estoque. 
+* O item não tinha [estoque](/pt/tutorial/inventory-management--tutorials_139) disponível e a loja não estava configurada para vender produtos sem estoque. 
 * A integração XML não foi configurada para enviar informações sobre produtos sem estoque.
 
 ## Soluções
@@ -39,14 +40,16 @@ Há duas formas de gerenciar seu inventário:
 
 As soluções abaixo são voltadas para o gerenciamento de inventário via Admin VTEX:
 
-* **Atualizar a contagem do inventário:** na linha correspondente ao SKU e estoque desejados, digite o número de itens disponíveis para venda na coluna Atualizar contagem e clique em `Salvar`. Este número não pode ser negativo, caso contrário o [estoque será negativo](https://help.vtex.com/pt/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
+* **Atualizar a contagem do inventário:** na linha correspondente ao SKU e estoque desejados, digite o número de itens disponíveis para venda na coluna Atualizar contagem e clique em `Salvar`. Este número não pode ser negativo, caso contrário o [estoque será negativo](/pt/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
 * **Configurar o estoque infinito:** na linha correspondente ao SKU e estoque desejados, na coluna Estoque infinito, clique no botão de ativação e depois em `Salvar`. Quando essa configuração é ativada, o item passa a ser considerado sempre disponível para vendas e a loja nunca fica sem estoque dele.
 
->ℹ️ Para configurar os produtos sem estoque a serem exibidos no seu storefront, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba **Produto**, marque a opção **Sim** no campo <i>Mostrar produto esgotado</i>.
+<div class = "alert alert-info">
+Para configurar os produtos sem estoque a serem exibidos no seu storefront, acesse <b>Catálogo > Todos os produtos</b> no Admin VTEX e, na página de configuração do produto, na aba <b>Produto</b>, marque a opção <b>Sim</b> no campo <i>Mostrar produto esgotado</i>.
+</div>
 
 ### Revisar integração XML
 
-O XML é uma linguagem de marcação que define e armazena dados de forma partilhável. Se a [integração XML da sua loja](https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242) não estiver definida para determinadas configurações, pode ser que não seja possível exportar as informações do produto. 
+O XML é uma linguagem de marcação que define e armazena dados de forma partilhável. Se a [integração XML da sua loja](/pt/tutorial/configurando-xml--tutorials_242) não estiver definida para determinadas configurações, pode ser que não seja possível exportar as informações do produto. 
 
 Quando o produto não tem estoque e a integração não está configurada para enviar produtos sem estoque, pode ocorrer um erro com a falta de informações do produto. Para ativar a configuração, siga os passos abaixo:
 
@@ -55,4 +58,7 @@ Quando o produto não tem estoque e a integração não está configurada para e
 3. Na aba `Editar XML`, na opção **Exibir SKUs indisponíveis**, marque a caixa de seleção `Exibir SKUs fora de estoque (esgotados) entre os resultados`.
 4. Clique em `Salvar`. 
 
->⚠️ Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
+<div class="alert alert-warning">
+Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
+</div>
+

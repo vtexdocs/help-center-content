@@ -1,5 +1,5 @@
 ---
-title: 'Pre-sales of the legacy CMS collection is not working'
+title: "Pre-sales of the legacy CMS collection is not working"
 id: 1bRqhWCmtckyCbYf1SQa5N
 status: PUBLISHED
 createdAt: 2023-08-22T18:51:34.059Z

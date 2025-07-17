@@ -1,5 +1,5 @@
 ---
-title: 'Publication attributes in Mercado Livre are not integrated'
+title: "Publication attributes in Mercado Livre are not integrated"
 id: 4CxNV3zIh28wk2a6weQcK
 status: PUBLISHED
 createdAt: 2018-01-29T17:57:35.003Z

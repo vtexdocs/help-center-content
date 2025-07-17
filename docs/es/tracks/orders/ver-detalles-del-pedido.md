@@ -18,9 +18,9 @@ En el menú lateral del Admin de VTEX, dentro del área de pedidos, se encuentra
 
 En la vista predeterminada de esta pantalla, se enumeran todos los pedidos de la tienda,  de los más recientes. Puede cambiar la clasificación haciendo clic en los nombres de las columnas, así como obtener órdenes utilizando datos específicos y también exportando estos datos.
 
-Además, la búsqueda ofrece un filtro muy flexible, que explicaremos en detalle en el [proximo artículo](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+Además, la búsqueda ofrece un filtro muy flexible, que explicaremos en detalle en el [proximo artículo](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
 
-Para comprender la lista de pedidos en detalle, consulte el artículo [Visión general de la lista de pedidos](https://help.vtex.com/es/tutorial/listado-de-pedidos--tutorials_200)
+Para comprender la lista de pedidos en detalle, consulte el artículo [Visión general de la lista de pedidos](/es/tutorial/listado-de-pedidos--tutorials_200)
 
 Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -31,7 +31,7 @@ Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedid
 
 ## Ver los detalles de un pedido
 
-Hacer clic en un pedido lleva a la pantalla [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), donde puede revisar un rango de información del pedido y realizar algunas acciones, tales como:
+Hacer clic en un pedido lleva a la pantalla [detalles del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), donde puede revisar un rango de información del pedido y realizar algunas acciones, tales como:
 - Volver a enviar el último correo electrónico al cliente.
 - Cancelar manualmente el pedido.
 - Facturar los artículos del pedido.
@@ -49,7 +49,9 @@ En la plataforma VTEX también hay una funcionalidad para unificar la comunicaci
 
 Todos los datos del cliente se ingresan en el momento del cierre del pedido y no se pueden cambiar aquí. Para ver y administrar estos datos, usted puede acceder al Master Data.]
 
->ℹ️ Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
+<div class="alert alert-info">
+Si su tienda solo actúa como seller de un pedido, no se mostrará el correo electrónico del cliente. Entendemos que la relación del cliente es con el marketplace, por lo que no es recomendable compartir sus datos con el seller sin consentimiento previo.
+  </div>
 
 ### Valor total
 
@@ -61,7 +63,7 @@ Este card muestra las promociones que se aplicaron sobre el monto del pedido, as
 
 ### Estado del pedido
 
-Este es el status actual del pedido de acuerdo con el momento en que el pedido se encuentra dentro del [flujo del pedido](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+Este es el status actual del pedido de acuerdo con el momento en que el pedido se encuentra dentro del [flujo del pedido](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
 
 ### Flujo
 

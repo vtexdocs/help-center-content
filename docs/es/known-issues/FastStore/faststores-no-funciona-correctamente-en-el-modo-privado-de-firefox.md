@@ -1,5 +1,5 @@
 ---
-title: 'Faststores no funciona correctamente en el modo privado de Firefox'
+title: "Faststores no funciona correctamente en el modo privado de Firefox"
 id: 3SMQiZFYt8SSVlOJLIMYvH
 status: PUBLISHED
 createdAt: 2023-05-19T14:56:53.172Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: faststores-not-working-correctly-in-firefox-private-mode
+slugEN: faststores-no-funciona-correctamente-en-el-modo-privado-de-firefox
 locale: es
 kiStatus: Backlog
 internalReference: 828685
@@ -18,7 +18,9 @@ internalReference: 828685
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

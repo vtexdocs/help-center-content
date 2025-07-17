@@ -1,5 +1,5 @@
 ---
-title: 'Los links internos de una pagina de una colección tienen una URL canonical inexistente'
+title: "Los links internos de una pagina de una colección tienen una URL canonical inexistente"
 id: 1sJzMe74vio2Wkm60q6m6i
 status: PUBLISHED
 createdAt: 2017-12-21T17:38:14.109Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: pages-internal-collection-links-have-a-nonexistent-canonical-url
+slugEN: los-links-internos-de-una-pagina-de-una-coleccion-tienen-una-url-canonical-inexistente
 locale: es
 kiStatus: Backlog
 internalReference: 

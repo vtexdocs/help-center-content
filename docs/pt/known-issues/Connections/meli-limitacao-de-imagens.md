@@ -1,5 +1,5 @@
 ---
-title: 'MELI Limitação de imagens'
+title: "MELI Limitação de imagens"
 id: 2jzecMrFmoiSkj8CRrfMmV
 status: PUBLISHED
 createdAt: 2022-05-03T16:26:39.310Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-images-limitation
+slugEN: meli-limitacao-de-imagens
 locale: pt
 kiStatus: Backlog
 internalReference: 571539
@@ -18,7 +18,9 @@ internalReference: 571539
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

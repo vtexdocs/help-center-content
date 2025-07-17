@@ -1,5 +1,5 @@
 ---
-title: 'O modelo de parcelamento legado e os controles de prateleira não consideram os multiplicadores de unidades'
+title: "O modelo de parcelamento legado e os controles de prateleira não consideram os multiplicadores de unidades"
 id: 1E0Co7ssCUAKAgxCzlJoVn
 status: PUBLISHED
 createdAt: 2024-02-08T13:39:40.663Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-installment-template-and-shelf-controls-do-not-consider-unit-multipliers
+slugEN: o-modelo-de-parcelamento-legado-e-os-controles-de-prateleira-nao-consideram-os-multiplicadores-de-unidades
 locale: pt
 kiStatus: Backlog
 internalReference: 979205
@@ -18,7 +18,9 @@ internalReference: 979205
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para a loja que usa o CMS legado, o modelo legado e os controles de prateleira não são ajustados se o SKU tiver um multiplicador de unidades.

@@ -17,12 +17,12 @@ announcementSynopsisEN: 'Promotion summary allows you to review information abou
 
 Mistakes can happen when configuring a new promotion and filling in information. To avoid activating promotions with incorrect information, we created the promotion summary. The new feature allows you to confirm the promotion settings before activating it.
 
-![resumo-promo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-12-13-double-check-promotion-settings-before-activating-it-to-ensure-security_1.png)
+![resumo-promo-EN](https://images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/b9caef1451ab9b973ec678b858945652/image.png)
 
 ## What has changed?
 Previously, a promotion was automatically activated when saved with **Active** status. With the new feature, you can view a summary of the settings configured before activating a new promotion. This allows you to make sure that all data in the promotion is correct, avoiding implementation errors.
 
-For the summary to be displayed, the promotion must be  configured with **Active** status and must be of the [Regular](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) or [More for Less](https://help.vtex.com/en/tutorial/creating-a-more-for-less-promotion--tutorials_325) type.
+For the summary to be displayed, the promotion must be  configured with **Active** status and must be of the [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) or [More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325) type.
 
 The promotion summary displays alerts with attention points to ensure the expected behavior of a promotion before activating it.
 
@@ -42,4 +42,4 @@ The information displayed in the summary is:
 We created this feature to mitigate possible mistakes when filling in information about a promotion. The promotion summary is intended to avoid affecting the profit margin of the products included in the promotion. This way, the promotions created in your store will be applied more securely.
 
 ## What needs to be done?
-The promotion summary is available in the VTEX Admin automatically. To learn more about this feature and its fields, please refer to our article [Promotion Summary](https://help.vtex.com/en/tutorial/promotion-summary--7aSxktBrFi4sUSmuSafZ4h).
+The promotion summary is available in the VTEX Admin automatically. To learn more about this feature and its fields, please refer to our article [Promotion Summary](/en/tutorial/promotion-summary--7aSxktBrFi4sUSmuSafZ4h).

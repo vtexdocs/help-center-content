@@ -1,5 +1,5 @@
 ---
-title: "Componente de expedición bloqueado en estado 'Esperando más información'."
+title: 'Componente de expedición bloqueado en estado "Esperando más información".'
 id: 7HHlJdZvZ31NgsB7lTShAz
 status: PUBLISHED
 createdAt: 2023-03-29T19:26:05.971Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-component-locked-in-waiting-for-more-information-state
+slugEN: componente-de-expedicion-bloqueado-en-estado-esperando-mas-informacion
 locale: es
 kiStatus: Backlog
 internalReference: 780673
@@ -18,7 +18,9 @@ internalReference: 780673
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Checkout UI no renderiza el componente de envío cuando se accede a la página de checkout directamente a través de un paso específico en la URL (excepto para /cart y /shipping), el "shippingData" está incompleto, y hay un incremento de latencia en las peticiones a la API orderForm. Verá el mensaje "Esperando más información" y no podrá continuar con la compra.

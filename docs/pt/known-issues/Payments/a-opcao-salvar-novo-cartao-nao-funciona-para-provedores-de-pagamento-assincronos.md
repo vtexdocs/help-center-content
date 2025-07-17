@@ -1,5 +1,5 @@
 ---
-title: "A opção 'Salvar novo cartão' não funciona para provedores de pagamento assíncronos"
+title: 'A opção "Salvar novo cartão" não funciona para provedores de pagamento assíncronos'
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-save-new-card-option-does-not-work-for-asynchronous-payment-providers
+slugEN: a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-de-pagamento-assincronos
 locale: pt
 kiStatus: Fixed
 internalReference: 308892
@@ -18,7 +18,9 @@ internalReference: 308892
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o cliente tenta adicionar um novo cartão na seção Minha conta de lojas cujas afiliações não retornam uma resposta síncrona, o sistema retorna _ocorreu um erro ao tentar registrar o cartão_ e uma cobrança indevida de R$ 1,50 pode ser gerada.

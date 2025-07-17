@@ -1,5 +1,5 @@
 ---
-title: 'Las etiquetas canónicas no se aplican a partir del tercer nivel de categoría.'
+title: "Las etiquetas canónicas no se aplican a partir del tercer nivel de categoría."
 id: 6HU8WLT5yVRBqeBmGgYRsi
 status: PUBLISHED
 createdAt: 2023-11-08T13:31:23.182Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: canonical-tags-are-not-applied-after-3rd-category-level
+slugEN: las-etiquetas-canonicas-no-se-aplican-a-partir-del-tercer-nivel-de-categoria
 locale: es
 kiStatus: Backlog
 internalReference: 932349
@@ -18,7 +18,9 @@ internalReference: 932349
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las etiquetas canónicas no se aplican después del 3er nivel de categoría cuando se tiene un árbol de categorías con más de 3 niveles (departamento, categoría y subcategoría), los otros niveles por encima no se muestran en canónica. La única excepción es cuando las rutas se almacenan en rewriter.

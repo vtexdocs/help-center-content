@@ -1,5 +1,5 @@
 ---
-title: 'En un escenario de pago dividido cuando el importe ya ha sido capturado, la pasarela ya no permite una solicitud de cancelación.'
+title: "En un escenario de pago dividido cuando el importe ya ha sido capturado, la pasarela ya no permite una solicitud de cancelación."
 id: 5qVUfltwPb3FacbECRsNa0
 status: PUBLISHED
 createdAt: 2023-01-27T20:13:21.397Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: in-a-payout-split-scenario-when-the-amount-was-already-captured-the-gateway-no-longer-allows-a-cancellation-request
+slugEN: en-un-escenario-de-pago-dividido-cuando-el-importe-ya-ha-sido-capturado-la-pasarela-ya-no-permite-una-solicitud-de-cancelacion
 locale: es
 kiStatus: Backlog
 internalReference: 742046
@@ -18,7 +18,9 @@ internalReference: 742046
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para un escenario de split, cuando el usuario realiza una orden de cambio o incluso una simple cancelación después de que el pago ya ha sido capturado, la pasarela ya no permite recibir un nuevo UpdateAdditionalData.

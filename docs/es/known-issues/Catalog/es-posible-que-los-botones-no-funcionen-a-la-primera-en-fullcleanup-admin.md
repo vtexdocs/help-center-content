@@ -1,5 +1,5 @@
 ---
-title: 'Es posible que los botones no funcionen a la primera en fullcleanup admin'
+title: "Es posible que los botones no funcionen a la primera en fullcleanup admin"
 id: 4spOMbnKZPCcnQghKTP6Zb
 status: PUBLISHED
 createdAt: 2023-04-14T17:39:56.758Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: buttons-may-not-work-on-the-first-try-in-fullcleanup-admin
+slugEN: es-posible-que-los-botones-no-funcionen-a-la-primera-en-fullcleanup-admin
 locale: es
 kiStatus: Backlog
 internalReference: 790828
@@ -18,7 +18,9 @@ internalReference: 790828
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el administrador de Fullcleanup, se espera que los botones actúen al primer intento. Sin embargo, para realizar la acción, puede ser necesario hacer clic en el botón varias veces.

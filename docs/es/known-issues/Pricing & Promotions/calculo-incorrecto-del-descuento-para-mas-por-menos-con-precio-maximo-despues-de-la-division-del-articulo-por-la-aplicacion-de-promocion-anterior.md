@@ -1,5 +1,5 @@
 ---
-title: "Cálculo incorrecto del descuento para 'Más por menos' con precio máximo después de la división del artículo por la aplicación de promoción anterior."
+title: 'Cálculo incorrecto del descuento para "Más por menos" con precio máximo después de la división del artículo por la aplicación de promoción anterior.'
 id: 6ZiiHgNADTxZDpE9wu6EkJ
 status: PUBLISHED
 createdAt: 2024-09-06T14:21:14.890Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: incorrect-discount-calculation-for-more-for-less-with-max-price-after-item-split-by-previous-promotion-application
+slugEN: calculo-incorrecto-del-descuento-para-mas-por-menos-con-precio-maximo-despues-de-la-division-del-articulo-por-la-aplicacion-de-promocion-anterior
 locale: es
 kiStatus: Backlog
 internalReference: 1093789
@@ -18,7 +18,9 @@ internalReference: 1093789
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se produce un error al apilar una promoción Comprar juntos, o cualquier promoción que divida artículos, con una promoción Más por menos configurada para aplicar un descuento de precio máximo, lo que provoca cálculos de descuento incorrectos. El problema surge de las diferencias de precio entre los artículos divididos, lo que provoca que la segunda promoción aplique descuentos inexactos en varias SKU.

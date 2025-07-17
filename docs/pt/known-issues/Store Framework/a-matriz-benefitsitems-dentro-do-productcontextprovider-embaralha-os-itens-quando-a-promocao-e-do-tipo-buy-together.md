@@ -1,5 +1,5 @@
 ---
-title: 'A matriz Benefits.items dentro do ProductContextProvider embaralha os itens quando a promoção é do tipo Buy Together'
+title: "A matriz Benefits.items dentro do ProductContextProvider embaralha os itens quando a promoção é do tipo Buy Together"
 id: 1VeBqJAKwpVR5YHqtEJ7Xz
 status: PUBLISHED
 createdAt: 2023-10-05T19:57:59.828Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: benefitsitems-array-inside-of-productcontextprovider-shuffle-items-when-the-promotion-is-a-buy-together-type
+slugEN: a-matriz-benefitsitems-dentro-do-productcontextprovider-embaralha-os-itens-quando-a-promocao-e-do-tipo-buy-together
 locale: pt
 kiStatus: Backlog
 internalReference: 915213
@@ -18,7 +18,9 @@ internalReference: 915213
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao examinar a matriz de benefícios dentro do ProductContextProvider no PDP de um produto, podemos ver que nem todos os produtos são retornados e os que são retornados são embaralhados. As duas listas de produtos dentro da promoção estão juntas na mesma matriz. Isso só acontece quando a promoção é do tipo Buy Together.

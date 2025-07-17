@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
   <p>Essa funcionalidade está disponível para lojas usando a tecnologia Portal Legada</p>
 </div>
 
-A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS.
+A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS.
 
 ## Sites and channels
 
@@ -37,7 +37,7 @@ Antes de começar a organizar o conteúdo do seu Web Site, ele precisa estar vin
 
 Esse é um processo fundamental para o perfeito funcionamento da sua loja, mas também é muito simples. Basta seguir os passos [deste artigo](/pt/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/o-que-e-o-cms-layout_1.png)
+![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
 
 ## Layouts e templates
 
@@ -71,26 +71,26 @@ Para gerenciar os arquivos do seu Web Site, você pode acessar este diretório. 
 
 ### Referências
 
-- [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [O que são templates?](https://help.vtex.com/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [O que é um web site?](https://help.vtex.com/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [O que são controles?](https://help.vtex.com/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [O que são layouts?](https://help.vtex.com/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [O que são prateleiras?](https://help.vtex.com/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [O que é binding?](https://help.vtex.com/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
+- [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
+- [O que são templates?](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
+- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+- [O que são controles?](/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
+- [O que são layouts?](/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
+- [O que são prateleiras?](/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
+- [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Artigos relacionados
 - [Como criar um web site](/pt/tutorial/como-criar-um-web-site)
 - [Vincular um account name a um web site (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
 - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
 
-- [Criar e editar um template de página](https://help.vtex.com/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
+- [Criar e editar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
 
-- [Associar um template a um layout](https://help.vtex.com/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete)
+- [Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete)
 
-- [Gerenciando placeholders](https://help.vtex.com/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI)
+- [Gerenciando placeholders](/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI)
 
-- [Usando controles nativos da VTEX](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete)
+- [Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete)
 
-- [Para que serve o Controle Customizado?](https://help.vtex.com/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627)
+- [Para que serve o Controle Customizado?](/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627)

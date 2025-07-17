@@ -1,5 +1,5 @@
 ---
-title: 'Master Data V1 entity publishing functioning intermittently'
+title: "Master Data V1 entity publishing functioning intermittently"
 id: 7mwbfdhdw8ENUtPiC2oEPH
 status: PUBLISHED
 createdAt: 2019-07-17T17:45:55.823Z

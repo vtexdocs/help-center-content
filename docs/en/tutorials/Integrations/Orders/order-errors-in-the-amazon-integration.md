@@ -23,7 +23,7 @@ On the Amazon marketplace, some order integration errors occur more frequently t
 
 `No available sla to deliver this order`
 
-SLA errors mean that something is preventing the delivery of the order to the end customer. To identify the source of the error and correct it, check out the article [SLA errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
+SLA errors mean that something is preventing the delivery of the order to the end customer. To identify the source of the error and correct it, check out the article [SLA errors in marketplace integration orders](/en/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
 
 ____
 
@@ -31,7 +31,7 @@ ____
 
 `Order with SKU out of stock`
 
-Errors related to stock-outs occur for several reasons. To identify the source of the error and correct it, check out the article [Out-of-stock errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP).
+Errors related to stock-outs occur for several reasons. To identify the source of the error and correct it, check out the article [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP).
 
 ____
 
@@ -39,9 +39,9 @@ ____
 
 `Order with SKU inactive or out of sales channel`
 
-Only orders with active SKUs are integrated, so please check the status of the order items in your VTEX Admin, in the module **Catalog > Products and SKUs**. You can enable the SKU by [filling SKU registration fields](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), or [activating SKUs in bulk](https://help.vtex.com/en/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+Only orders with active SKUs are integrated, so please check the status of the order items in your VTEX Admin, in the module **Catalog > Products and SKUs**. You can enable the SKU by [filling SKU registration fields](/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), or [activating SKUs in bulk](/en/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
 
-If the order SKUs are active, the error indicates that one or more SKUs are not associated with the Amazon integration's trade policy. In this case, [you must associate them with the trade policy](https://help.vtex.com/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+If the order SKUs are active, the error indicates that one or more SKUs are not associated with the Amazon integration's trade policy. In this case, [you must associate them with the trade policy](/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
 
 ____
 
@@ -53,6 +53,6 @@ This error occurs when the SKU is not identified on the VTEX platform. In this c
 
 ### Learn more
 
-- [Out-of-stock errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [SLA errors in marketplace integration orders](https://help.vtex.com/en/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Troubleshooting price divergence errors in marketplace orders](https://help.vtex.com/en/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [SLA errors in marketplace integration orders](/en/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
+- [Troubleshooting price divergence errors in marketplace orders](/en/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)

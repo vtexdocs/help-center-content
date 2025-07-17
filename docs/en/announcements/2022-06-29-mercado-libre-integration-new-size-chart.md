@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.'
 ---
 
-Continuing with the improvements that were completed for the [Mercado Libre certification](https://help.vtex.com/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are launching the new Mercado Libre size chart for all VTEX stores that operate as sellers on the marketplace.
+Continuing with the improvements that were completed for the [Mercado Libre certification](/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are launching the new Mercado Libre size chart for all VTEX stores that operate as sellers on the marketplace.
 
 The size chart allows customers to find out the approximate measurement of the product they're buying, which provides a better experience when selecting product size.
 
@@ -37,7 +37,7 @@ This is another step for providing a completely centralized management experienc
 
 The new interface is already available in the VTEX Admin for all our customer base that use the Mercado Libre connector for offering their products. To access it, click **MARKETPLACE > Integrations > Settings** and, on the Mercado Libre box, click `Map`.
 
-To learn more about how to use the new interface, check the article [Sending products to Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+To learn more about how to use the new interface, check the article [Sending products to Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
 
-This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) the [New VTEX Admin](https://help.vtex.com/en/v4) Beta program.
+This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) the [New VTEX Admin](/en/v4) Beta program.
 

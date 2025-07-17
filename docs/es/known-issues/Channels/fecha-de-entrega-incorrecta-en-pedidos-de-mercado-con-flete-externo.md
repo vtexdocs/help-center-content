@@ -1,5 +1,5 @@
 ---
-title: 'Fecha de entrega incorrecta en pedidos de mercado con flete externo'
+title: "Fecha de entrega incorrecta en pedidos de mercado con flete externo"
 id: 4h0Dk87KX6oGY2kGwG2kGS
 status: PUBLISHED
 createdAt: 2018-11-15T17:26:02.509Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-delivery-date-for-marketplace-orders-having-external-shipping
+slugEN: fecha-de-entrega-incorrecta-en-pedidos-de-mercado-con-flete-externo
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'O público da campanha não guarda informações sobre cupons'
+title: "O público da campanha não guarda informações sobre cupons"
 id: 2UVQQVLSb0UjDmyWQ5xqEX
 status: PUBLISHED
 createdAt: 2022-10-13T18:18:40.484Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: campaign-audience-doesnt-save-coupon-information
+slugEN: o-publico-da-campanha-nao-guarda-informacoes-sobre-cupons
 locale: pt
 kiStatus: Backlog
 internalReference: 521601
@@ -18,7 +18,9 @@ internalReference: 521601
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O público da campanha não guarda informações sobre cupons

@@ -1,5 +1,5 @@
 ---
-title: 'Busca não funciona corretamente em Store Framework Jamstack'
+title: "Busca não funciona corretamente em Store Framework Jamstack"
 id: 7Duxb3ui9A8G1zm9TdRQY6
 status: PUBLISHED
 createdAt: 2022-03-21T18:03:56.544Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: search-not-working-properly-on-store-framework-jamstack
+slugEN: busca-nao-funciona-corretamente-em-store-framework-jamstack
 locale: pt
 kiStatus: Backlog
 internalReference: 383231
@@ -18,7 +18,9 @@ internalReference: 383231
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As sugestões de busca não funcionam corretamente em SFJ devido à falta de eventos implementados.

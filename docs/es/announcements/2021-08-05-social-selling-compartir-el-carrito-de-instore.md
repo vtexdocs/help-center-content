@@ -23,11 +23,11 @@ Utilizando inStore Social Selling, puede crear acciones de activación para un p
 
 ## ¿Qué cambió?
 
-Anteriormente no era posible compartir el carrito en inStore, [solo en el ecommerce](https://help.vtex.com/es/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
+Anteriormente no era posible compartir el carrito en inStore, [solo en el ecommerce](/es/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
 
 Con inStore Social Selling, los vendedores de su tienda física pueden seleccionar productos y generar un enlace para compartir la **Sugerencia de carrito** con uno o más clientes a través de WhatsApp, como se muestra a continuación. También es posible copiar el enlace y compartirlo en otras redes sociales.
 
-![socialselling-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-08-05-social-selling-compartir-el-carrito-de-instore_1.gif)
+![socialselling-ES](https://images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/7eb64840bde5bb1648e313d6277e872f/socialselling-ES.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en inStore. Cada carrito también estará asociado a la cuenta del vendedor y, si lo hay, al código del vendedor.
 
@@ -35,7 +35,7 @@ Sus clientes pueden acceder al carrito, realizar el pago y concluir la compra en
 
 Otra posibilidad es que el vendedor rellene los datos de entrega del cliente, elija el método de pago y luego comparta un **Enlace de pago.** De este modo, el enlace del carrito compartido ya contendrá toda la información personal. El cliente solo tiene que completar los datos de pago para finalizar la compra. Vea cómo funciona a continuación.
 
-![paymentlink ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-08-05-social-selling-compartir-el-carrito-de-instore_2.gif)
+![paymentlink ES](https://images.ctfassets.net/alneenqid6w5/7FjwJywOLKl0WjdC8U1IFc/1136d3cb3448664865ce0615392076d7/paymentlink_ES.gif)
 
 ## ¿Por qué realizamos este cambio?
 
@@ -45,4 +45,4 @@ El objetivo de esta funcionalidad es empoderar a los vendedores de las tiendas f
 
 Para utilizar inStore Social Selling, es necesario [contactar al equipo de soporte de VTEX](https://support.vtex.com/hc/pt-br/requests) y solicitar la instalación.
 
-Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](https://help.vtex.com/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).

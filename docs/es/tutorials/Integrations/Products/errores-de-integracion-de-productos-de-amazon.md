@@ -15,4 +15,4 @@ legacySlug: errores-de-integracion-de-productos-de-amazon
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
->⚠️ Contenido bajo traducción.
+<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>

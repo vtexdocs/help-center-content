@@ -15,9 +15,9 @@ announcementImageID: ''
 announcementSynopsisES: 'Hemos mejorado los bloques con la opción nativa de subir imágenes en Site Editor a través de un repositorio de imágenes.'
 ---
 
-Hemos mejorado la forma de gestionar sus imágenes en [Site Editor](https://help.vtex.com/es/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) mediante un Image Widget, que es un repositorio de imágenes centralizado para que pueda subir y reutilizar las imágenes de la tienda. 
+Hemos mejorado la forma de gestionar sus imágenes en [Site Editor](/es/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) mediante un Image Widget, que es un repositorio de imágenes centralizado para que pueda subir y reutilizar las imágenes de la tienda. 
 
-![gif-image-widget-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-08-03-reutilizar-imagenes-en-site-editor_1.gif)
+![gif-image-widget-es](https://images.ctfassets.net/alneenqid6w5/5PlVIsozLB3d1TY7NGqsqe/d92ceb37b53da2c63b9802a6c082db77/Yhin0k3Vio.gif)
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 16px">
   Image Widget está disponible en Open Beta para los usuarios de VTEX IO.
@@ -39,5 +39,5 @@ El objetivo de la mejora es ayudar a los clientes de VTEX a gestionar sus imáge
 
 No se requiere ninguna acción. Ahora, los bloques con la opción nativa de subir imágenes tienen Image Widget.
 
-Para obtener más información, consulte nuestra [documentación de Image Widget](https://help.vtex.com/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
+Para obtener más información, consulte nuestra [documentación de Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
 

@@ -1,5 +1,5 @@
 ---
-title: 'El selector de método de entrega desaparece en el flujo específico cuando sólo hay entrega programada'
+title: "El selector de método de entrega desaparece en el flujo específico cuando sólo hay entrega programada"
 id: 7I24nVw5W7YUuoTvgH8W5k
 status: PUBLISHED
 createdAt: 2022-08-12T18:07:34.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-method-selector-disappears-in-specific-flow-when-there-is-only-scheduled-delivery
+slugEN: el-selector-de-metodo-de-entrega-desaparece-en-el-flujo-especifico-cuando-solo-hay-entrega-programada
 locale: es
 kiStatus: Fixed
 internalReference: 296786
@@ -18,7 +18,9 @@ internalReference: 296786
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El selector de fecha/hora para la entrega programada desaparece cuando el usuario cambia de "recoger" a "recibir", este comportamiento ocurre independientemente del uso de la función Lean Shipping.

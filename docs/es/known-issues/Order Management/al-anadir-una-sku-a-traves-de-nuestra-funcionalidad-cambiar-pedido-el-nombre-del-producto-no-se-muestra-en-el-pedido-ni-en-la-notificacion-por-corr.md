@@ -1,5 +1,5 @@
 ---
-title: "Al añadir una SKU a través de nuestra funcionalidad 'Cambiar pedido', el nombre del producto no se muestra en el pedido ni en la notificación por correo electrónico"
+title: 'Al añadir una SKU a través de nuestra funcionalidad "Cambiar pedido", el nombre del producto no se muestra en el pedido ni en la notificación por correo electrónico'
 id: 35Q3KoOSsUr9n9XEDIk7nk
 status: PUBLISHED
 createdAt: 2022-04-07T14:53:35.829Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: when-adding-a-sku-through-our-change-order-functionality-the-product-name-is-not-displayed-in-the-order-and-email-notification
+slugEN: al-anadir-una-sku-a-traves-de-nuestra-funcionalidad-cambiar-pedido-el-nombre-del-producto-no-se-muestra-en-el-pedido-ni-en-la-notificacion-por-correo-electronico
 locale: es
 kiStatus: No Fix
 internalReference: 557978
@@ -18,7 +18,9 @@ internalReference: 557978
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Importação de Novas Colecções não trata de Importação de Produtos não Existentes'
+title: "Importação de Novas Colecções não trata de Importação de Produtos não Existentes"
 id: 2bqGzlvbYqn7hVVfVbJZDO
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:12.572Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: new-collections-import-does-not-handle-non-existent-productid-import
+slugEN: importacao-de-novas-coleccoes-nao-trata-de-importacao-de-produtos-nao-existentes
 locale: pt
 kiStatus: Backlog
 internalReference: 398602
@@ -18,7 +18,9 @@ internalReference: 398602
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos con KIT, en NEW_UI se está mostrando el ID del KIT, donde debería mostrar el ID de la SKU.'
+title: "Pedidos con KIT, en NEW_UI se está mostrando el ID del KIT, donde debería mostrar el ID de la SKU."
 id: jKvkTKNjG2hzoGOaBrV9N
 status: PUBLISHED
 createdAt: 2022-08-17T18:34:20.155Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-kit-in-newui-the-kit-id-is-being-displayed-where-it-should-show-the-sku-id
+slugEN: pedidos-con-kit-en-newui-se-esta-mostrando-el-id-del-kit-donde-deberia-mostrar-el-id-de-la-sku
 locale: es
 kiStatus: Fixed
 internalReference: 618388
@@ -18,7 +18,9 @@ internalReference: 618388
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Pedidos con KIT, en NEW_UI se está mostrando el ID del KIT, donde debería mostrar el ID de la SKU.

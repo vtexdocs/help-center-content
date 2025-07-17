@@ -15,7 +15,7 @@ legacySlug: setting-up-private-label-payments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, your store can receive payments with __private label (self card brand)__. For this, you will first need to register a [gateway affiliation](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444#) that can process this payment method.
+At VTEX, your store can receive payments with __private label (self card brand)__. For this, you will first need to register a [gateway affiliation](/en/tutorial/afiliacoes-de-gateway--tutorials_444#) that can process this payment method.
 
 Then, two setting steps must be performed.
 
@@ -37,7 +37,7 @@ With one of the above gateway affiliations successfully registered, you must set
 12. In the __Card mask__ field, choose the symbols that will represent the 16-digit card at the time of purchase. This is meant to protect your customer's card number. You can choose the characters you prefer by separating them into four groups of four and using spaces.
 13. In __Payment expiration date__, inform the maximum period (number of days) that the payment can be made. After this time, in case of non-payment, the order will be cancelled.
 14. In the __Automatic authorization__ field, inform whether you want to automatically authorize payments.
-15. In __Split payment (if the payment processing provider supports this function)__, indicate whether you want to activate the receivables split solution. If so, when the sale involves orders with multiple merchants, the promissory notes will be divided between the sellers and the marketplace. For more information, see [Split Payment](https://help.vtex.com/en/tutorial/split-de-pagamento).
+15. In __Split payment (if the payment processing provider supports this function)__, indicate whether you want to activate the receivables split solution. If so, when the sale involves orders with multiple merchants, the promissory notes will be divided between the sellers and the marketplace. For more information, see [Split Payment](/en/tutorial/split-de-pagamento).
 16. Click __Save__.
 
 ## Setting up the payment condition

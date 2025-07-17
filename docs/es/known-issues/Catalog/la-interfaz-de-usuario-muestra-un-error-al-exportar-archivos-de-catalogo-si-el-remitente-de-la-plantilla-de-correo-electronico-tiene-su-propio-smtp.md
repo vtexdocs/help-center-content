@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario muestra un error al exportar archivos de catálogo si el remitente de la plantilla de correo electrónico tiene su propio SMTP.'
+title: "La interfaz de usuario muestra un error al exportar archivos de catálogo si el remitente de la plantilla de correo electrónico tiene su propio SMTP."
 id: 6MCsAvrOHbLTYjuxRHDsuU
 status: PUBLISHED
 createdAt: 2023-03-15T19:04:48.152Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: ui-shows-an-error-when-exporting-catalog-files-if-the-email-template-sender-has-its-own-smtp
+slugEN: la-interfaz-de-usuario-muestra-un-error-al-exportar-archivos-de-catalogo-si-el-remitente-de-la-plantilla-de-correo-electronico-tiene-su-propio-smtp
 locale: es
 kiStatus: Backlog
 internalReference: 771942
@@ -18,7 +18,9 @@ internalReference: 771942
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Component Seller Selector may present inconsistency in delivery/shipping prices'
+title: "Component Seller Selector may present inconsistency in delivery/shipping prices"
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z

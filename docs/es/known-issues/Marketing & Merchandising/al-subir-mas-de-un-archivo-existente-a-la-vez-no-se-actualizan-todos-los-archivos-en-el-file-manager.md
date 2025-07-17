@@ -1,5 +1,5 @@
 ---
-title: 'Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager'
+title: "Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager"
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
+slugEN: al-subir-mas-de-un-archivo-existente-a-la-vez-no-se-actualizan-todos-los-archivos-en-el-file-manager
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -32,7 +32,7 @@ Cuando se envían simultáneamente dos o más archivos existentes en el File Man
 
 A continuación, se mostrará el siguiente mensaje:
 
-![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/al-subir-mas-de-un-archivo-existente-a-la-vez-no-se-actualizan-todos-los-archivos-en-el-file-manager_1.png)
+![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
 
 Esto significa que solo se identifica un archivo; los demás no se validan. Se cargan todos los archivos, pero solo uno de ellos sustituirá a su versión anterior.
 

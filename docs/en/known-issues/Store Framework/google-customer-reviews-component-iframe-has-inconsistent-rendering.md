@@ -1,5 +1,5 @@
 ---
-title: 'Google Customer Reviews component iframe has inconsistent rendering'
+title: "Google Customer Reviews component iframe has inconsistent rendering"
 id: 7BDB9yYv3ZHbhE4ExCXgZK
 status: PUBLISHED
 createdAt: 2023-12-22T17:55:39.082Z

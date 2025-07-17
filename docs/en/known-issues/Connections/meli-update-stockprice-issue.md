@@ -1,5 +1,5 @@
 ---
-title: 'MELI Update Stock/Price issue'
+title: "MELI Update Stock/Price issue"
 id: 7LQ81vG5nsbBn4Wj7Z9VJe
 status: PUBLISHED
 createdAt: 2023-12-12T10:22:28.961Z

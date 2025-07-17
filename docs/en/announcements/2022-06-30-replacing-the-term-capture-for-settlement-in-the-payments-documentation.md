@@ -31,4 +31,4 @@ This replacement reflects the changes that were applied to the Developer Portal.
 
 No action is required. It is only a change in the documentation. Nothing changed in how the platform works. You can continue your activities as usual.
 
-There is more information available about how settlement works in Payments in the article[ Transaction flow in Payments](https://help.vtex.com/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ).
+There is more information available about how settlement works in Payments in the article[ Transaction flow in Payments](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ).

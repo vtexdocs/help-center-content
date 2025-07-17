@@ -1,5 +1,5 @@
 ---
-title: "El filtro 'Especificación del producto' del módulo de recogida asume valores incorrectos."
+title: 'El filtro "Especificación del producto" del módulo de recogida asume valores incorrectos.'
 id: 2vg3t5kp7j4Ttla53pVjck
 status: PUBLISHED
 createdAt: 2023-10-26T22:22:44.895Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-specification-filter-on-collection-module-assuming-incorrect-values
+slugEN: el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos
 locale: es
 kiStatus: Backlog
 internalReference: 926593
@@ -18,7 +18,9 @@ internalReference: 926593
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el módulo Recogida, el filtro Especificaciones del producto no funciona correctamente cuando la especificación tiene el tipo "Texto" y "Texto grande". Cuando se selecciona este tipo de especificación, se abre un cuadro de texto para insertar los posibles valores separados por una coma, tabulador o enter. Sin embargo, cuando se teclea un solo carácter, el sistema lo asume como valor incluso sin separar los términos.

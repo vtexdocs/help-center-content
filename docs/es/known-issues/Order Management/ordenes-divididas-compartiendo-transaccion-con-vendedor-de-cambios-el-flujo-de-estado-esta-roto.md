@@ -1,5 +1,5 @@
 ---
-title: 'Órdenes divididas compartiendo transacción con Vendedor de cambios el flujo de estado está roto'
+title: "Órdenes divididas compartiendo transacción con Vendedor de cambios el flujo de estado está roto"
 id: 7mWWQxEPrb6c4xDnZVakK5
 status: PUBLISHED
 createdAt: 2024-08-15T21:15:41.792Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken
+slugEN: ordenes-divididas-compartiendo-transaccion-con-vendedor-de-cambios-el-flujo-de-estado-esta-roto
 locale: es
 kiStatus: Backlog
 internalReference: 1082298
@@ -18,7 +18,9 @@ internalReference: 1082298
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

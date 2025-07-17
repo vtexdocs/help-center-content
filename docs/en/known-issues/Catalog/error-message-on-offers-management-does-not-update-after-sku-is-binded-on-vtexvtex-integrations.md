@@ -1,5 +1,5 @@
 ---
-title: 'Error message on offers management does not update after sku is binded on VTEX<>VTEX integrations'
+title: "Error message on offers management does not update after sku is binded on VTEX<>VTEX integrations"
 id: 5tMKDMsFTZlXQrkVM4WeJD
 status: PUBLISHED
 createdAt: 2022-12-08T14:02:22.948Z

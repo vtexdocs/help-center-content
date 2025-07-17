@@ -1,5 +1,5 @@
 ---
-title: 'O envio simultâneo de mais de um arquivo existente não atualiza todos os arquivos no File Manager'
+title: "O envio simultâneo de mais de um arquivo existente não atualiza todos os arquivos no File Manager"
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
+slugEN: o-envio-simultaneo-de-mais-de-um-arquivo-existente-nao-atualiza-todos-os-arquivos-no-file-manager
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -32,7 +32,7 @@ Ao enviar simultaneamente dois ou mais arquivos existentes no File Manager, apen
 
 Depois disso, você receberá o seguinte aviso:
 
-![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/o-envio-simultaneo-de-mais-de-um-arquivo-existente-nao-atualiza-todos-os-arquivos-no-file-manager_1.png)
+![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
 
 Isto significa que apenas um arquivo é identificado; os outros não estão sendo validados. Todos os arquivos são carregados, mas apenas um substituirá sua versão anterior.
 

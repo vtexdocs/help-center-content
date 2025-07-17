@@ -3,8 +3,8 @@ title: 'Configuring redirects'
 id: 35JPufOvunMHnAAVJA6azu
 status: PUBLISHED
 createdAt: 2024-06-27T17:05:37.927Z
-updatedAt: 2024-09-20T12:54:35.729Z
-publishedAt: 2024-09-20T12:54:35.729Z
+updatedAt: 2024-12-03T16:08:32.207Z
+publishedAt: 2024-12-03T16:08:32.207Z
 firstPublishedAt: 2024-06-27T17:06:40.835Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: configuring-redirects
 subcategoryId: 1wvyJwJhKgewxGeAGCVmM6
 ---
 
-To configure a [redirect](https://help.vtex.com/en/tutorial/redirects--3okF84cImJwKzcc8hxmZ2r) on Intelligent Search, follow the steps below.
+To configure a [redirect](/en/tutorial/redirects--3okF84cImJwKzcc8hxmZ2r) on Intelligent Search, follow the steps below.
 
 1. In the VTEX Admin, go to  **Storefront**, or type  **Storefront** in the search bar at the top of the page.
 2. In **Intelligent Search**, click **Redirects**.
@@ -27,7 +27,7 @@ To configure a [redirect](https://help.vtex.com/en/tutorial/redirects--3okF84cIm
 
 You must fill in the fields below.
 
-![redirecionamentos-adminv4-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Redirects/configuring-redirects_1.png)
+![redirecionamentos-adminv4-EN](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/c67dd6c3ebe5563f2a32492db7a94298/image.png)
 
 ### General information
 
@@ -35,7 +35,7 @@ This section provides the following general information:
 
 - **Name:** name of the rule set for the redirect you created.
 - **Redirect URL**: URL to which the client will be forwarded. You must enter the full URL. Example: `https://www.store.com/_secure/account/#/orders` instead of `_secure/account/#/orders`.
-- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Trigger rules
 

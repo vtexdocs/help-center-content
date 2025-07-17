@@ -29,7 +29,7 @@ Este artículo tiene como objetivo enunciar algunas buenas prácticas en relaci�
 - No recomendamos estirar las imágenes para no afectar su calidad.
 
 ## Más información
-- [Registrar Producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Registrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
-- [Importar imágenes por plantilla](https://help.vtex.com/es/tutorial/importando-imagenes-por-plantilla--tutorials_262)
+- [Registrar Producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
+- [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Importar imágenes por plantilla](/es/tutorial/importando-imagenes-por-plantilla--tutorials_262)
 

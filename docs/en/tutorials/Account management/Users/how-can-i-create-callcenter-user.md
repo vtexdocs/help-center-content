@@ -15,7 +15,7 @@ legacySlug: how-can-i-create-call-center-user
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-This article explains how to register a user with the telesales [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). For more information on roles and how to configure them, please read the article [Roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+This article explains how to register a user with the telesales [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). For more information on roles and how to configure them, please read the article [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
 
 ## Telesales roles
 
@@ -41,7 +41,9 @@ To create a user with the telesales role, follow the steps below.
 
 7. Click on **Save**.
 
-![Animated GIF showing how to create call center operator ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/how-can-i-create-callcenter-user_1.gif)
+![Animated GIF showing how to create call center operator ](https://images.ctfassets.net/alneenqid6w5/3oF5zuTnHu0Db8EQ2KdPCY/c41d49badebeb869d2e9d4cef73c74b0/Adicionar_perfil_EN.gif)
 
->⚠️ When creating a  [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
+<div class="alert alert-warning">
+When creating a  <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">role</a>, avoid including call center <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">resources</a> with other resources. Otherwise, the role might not work as expected.
+</div>
 

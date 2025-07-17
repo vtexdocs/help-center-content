@@ -25,17 +25,17 @@ Shipping rates are the shipping costs that your store offers to customers. In th
 
 To learn more, please refer to the following articles:
 
-- [Shipping rates](https://help.vtex.com/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM): explains how shipping rates are calculated and how to create them.
-- [Managing shipping rates](https://help.vtex.com/en/tutorial/managing-shipping-rates--tutorials_141): explains how to manage a specific shipping rate using zip code.
-- [Shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127): explains how to create shipping rates in bulk (instead of creating them individually).
+- [Shipping rates](/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM): explains how shipping rates are calculated and how to create them.
+- [Managing shipping rates](/en/tutorial/managing-shipping-rates--tutorials_141): explains how to manage a specific shipping rate using zip code.
+- [Shipping rate template](/en/tutorial/shipping-rate-template--tutorials_127): explains how to create shipping rates in bulk (instead of creating them individually).
 
 ## Shipping simulator
 
-The shipping simulator is a tool used to validate[ shipping rates](https://help.vtex.com/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM). The simulation verifies the shipping conditions, allowing the retailer to check item availability, delivery methods, costs, and delivery times.
+The shipping simulator is a tool used to validate[ shipping rates](/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM). The simulation verifies the shipping conditions, allowing the retailer to check item availability, delivery methods, costs, and delivery times.
 
 With the information provided in the simulation, the retailer can assess the reasons why some carriers were disregarded for delivery in a certain location.
 
-Check out the article about the[ Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144) to understand how it works and to see how the details of the simulation are presented.
+Check out the article about the[ Shipping simulator](/en/tutorial/shipping-simulation--tutorials_144) to understand how it works and to see how the details of the simulation are presented.
 
 ## Pickup points
 
@@ -43,11 +43,11 @@ Pickup points are places where customers can collect orders made on ecommerce pl
 
 In this section, you can register new pickup points and view existing ones.
 
-To understand how this type of delivery works, please refer to the article[ How pickup points work](https://help.vtex.com/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R). To learn more about pickup points, read our article[ Configuring Pickup points](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+To understand how this type of delivery works, please refer to the article[ How pickup points work](/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R). To learn more about pickup points, read our article[ Configuring Pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
 
 ## Shipping strategy
 
-[Shipping strategy](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) is the relationship a store has with the warehouse, loading docks, and shipping policies. On the VTEX platform, the warehouse is the place where items are stored, the loading docks are the intermediaries between the warehouse and the carriers, and the shipping policies are the delivery rules agreed upon between the carrier and the store.
+[Shipping strategy](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) is the relationship a store has with the warehouse, loading docks, and shipping policies. On the VTEX platform, the warehouse is the place where items are stored, the loading docks are the intermediaries between the warehouse and the carriers, and the shipping policies are the delivery rules agreed upon between the carrier and the store.
 
 This section includes the storage and transport settings, and explains how they are connected.
 
@@ -55,7 +55,7 @@ The way the warehouse, loading docks, and shipping policy communicate will defin
 
 To understand how each part of the shipping strategy works, please refer to the articles below.
 
-- [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
-- [Loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj)
-- [Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140)
+- [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+- [Loading dock](/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj)
+- [Shipping policy](/en/tutorial/shipping-policy--tutorials_140)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Ao carregar uma página de produto com seleção de SKU por parâmetro (URL), preço não é atualizado corretamente'
+title: "Ao carregar uma página de produto com seleção de SKU por parâmetro (URL), preço não é atualizado corretamente"
 id: 4PAYx8WD2MIce8YMAaK2yk
 status: PUBLISHED
 createdAt: 2017-08-17T00:24:35.581Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: when-loading-a-product-page-with-a-selection-of-skus-by-parameter-url-the-price-is-not-correctly-updated
+slugEN: ao-carregar-uma-pagina-de-produto-com-selecao-de-sku-por-parametro-url-preco-nao-e-atualizado-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -22,7 +22,7 @@ Ao acessar uma página de produto com variação (mais de um SKU) com o parâmet
 
 No entanto, se o SKU escolhido (Do parâmetro) estiver indisponível (sem estoque / não entregável), quando o usuário seleciona outro SKU disponível no seletor de SKU, as informações de preço não são exibidas.
 
-![Preço não atualizado com seleção de SKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/ao-carregar-uma-pagina-de-produto-com-selecao-de-sku-por-parametro-url-preco-nao-e-atualizado-corretamente_1.gif)
+![Preço não atualizado com seleção de SKU](//images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
 
 ## Simulação
 

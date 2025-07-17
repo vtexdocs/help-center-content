@@ -1,5 +1,5 @@
 ---
-title: 'Formatação de preços do XML incompatível com o Google Shopping'
+title: "Formatação de preços do XML incompatível com o Google Shopping"
 id: epKPG9W2zuecMoW2KCuyk
 status: PUBLISHED
 createdAt: 2018-04-11T21:23:55.057Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: xml-price-formatting-unsupported-by-google-shopping
+slugEN: formatacao-de-precos-do-xml-incompativel-com-o-google-shopping
 locale: pt
 kiStatus: Backlog
 internalReference: 

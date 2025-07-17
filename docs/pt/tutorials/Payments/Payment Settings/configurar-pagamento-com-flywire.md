@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Flywire'
 id: 12nQ0teCWM1UUtd2Fo6lzO
 status: PUBLISHED
 createdAt: 2023-04-03T13:05:10.955Z
-updatedAt: 2024-01-25T18:15:31.540Z
-publishedAt: 2024-01-25T18:15:31.540Z
+updatedAt: 2025-02-03T22:10:40.395Z
+publishedAt: 2025-02-03T22:10:40.395Z
 firstPublishedAt: 2023-04-03T13:32:26.361Z
 contentType: tutorial
 productTeam: Financial
@@ -30,7 +30,7 @@ Flywire.
 
 ## Configurar condição de pagamento Promissória
 
-Caso deseje utilizar o Flywire com promissória e ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+Caso deseje utilizar o Flywire com promissória e ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
 
 Depois, siga os passos abaixo:
 
@@ -39,7 +39,7 @@ Depois, siga os passos abaixo:
 3. Em __Pagamento Customizado__, clique no botão correspondente ao nome utilizado para o método de pagamento por promissória (configurado na seção anterior).
 4. Ative a condição no campo __Status__.
 5. Em __Processar com a afiliação__, selecione __flywirepartnermx-payment-provider-config-v0__.
-6. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+6. Se desejar, você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 7. Clique em `Salvar`.
 
 ## Configurar condição de pagamento Flywire
@@ -49,7 +49,7 @@ Depois, siga os passos abaixo:
 3. Clique em __Flywire__.
 4. Ative a condição no campo __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+6. Se desejar, você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, Flywire pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

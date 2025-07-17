@@ -1,5 +1,5 @@
 ---
-title: '[Falha em criar variações de produtos'
+title: "[Falha em criar variações de produtos"
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: shopee-failed-to-create-product-variations
+slugEN: falha-em-criar-variacoes-de-produtos
 locale: pt
 kiStatus: No Fix
 internalReference: 685160
@@ -18,7 +18,9 @@ internalReference: 685160
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
@@ -37,7 +39,7 @@ Mesmo com preço e estoque corretamente registrados no catálogo VTEX, alguns pr
 
 Admin > APP Instalado > Calçados > Gerenciar Produtos > Status de Sincronização de Produtos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/falha-em-criar-variacoes-de-produtos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Avfj0Y3n0mu4RHD9oZfkdYcti/?name=image.png)
 
 
 

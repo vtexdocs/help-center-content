@@ -1,5 +1,5 @@
 ---
-title: 'Delay when editing Checkout files'
+title: "Delay when editing Checkout files"
 id: 4uKQzzpNfbYLKZdhTW4f0O
 status: PUBLISHED
 createdAt: 2019-09-16T17:25:55.922Z

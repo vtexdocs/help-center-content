@@ -1,5 +1,5 @@
 ---
-title: 'Ordination of images when uploading a new version not working'
+title: "Ordination of images when uploading a new version not working"
 id: 2Oq65YHU6uIQpQ5g8ZpjTE
 status: PUBLISHED
 createdAt: 2023-01-25T15:08:43.356Z
@@ -31,7 +31,7 @@ Go to the site editor
 Add a new image
 Try to order
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/ordination-of-images-when-uploading-a-new-version-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wx1y1CbhbAkyUIH8peG9xiLtJ/?name=image.png)
 
 
 ##

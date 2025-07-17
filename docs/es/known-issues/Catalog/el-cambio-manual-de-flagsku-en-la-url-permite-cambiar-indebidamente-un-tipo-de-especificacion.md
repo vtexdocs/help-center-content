@@ -1,5 +1,5 @@
 ---
-title: "El cambio manual de 'flagSKU' en la URL permite cambiar indebidamente un tipo de especificación."
+title: 'El cambio manual de "flagSKU" en la URL permite cambiar indebidamente un tipo de especificación.'
 id: 1hcfTgeb1sgHV0BVm1DGoP
 status: PUBLISHED
 createdAt: 2024-08-19T14:52:40.859Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: manually-changing-flagsku-in-the-url-allows-a-specification-type-to-be-improperly-changed
+slugEN: el-cambio-manual-de-flagsku-en-la-url-permite-cambiar-indebidamente-un-tipo-de-especificacion
 locale: es
 kiStatus: Backlog
 internalReference: 1083333
@@ -18,7 +18,9 @@ internalReference: 1083333
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se crea una especificación, se establece como un SKU o tipo de producto y esto no debe ser cambiado después de su creación.

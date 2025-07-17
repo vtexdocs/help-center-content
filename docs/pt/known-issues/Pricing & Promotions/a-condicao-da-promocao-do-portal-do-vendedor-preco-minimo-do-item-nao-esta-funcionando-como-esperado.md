@@ -1,5 +1,5 @@
 ---
-title: 'A condição da Promoção do Portal do Vendedor Preço mínimo do item não está funcionando como esperado'
+title: "A condição da Promoção do Portal do Vendedor Preço mínimo do item não está funcionando como esperado"
 id: d0qJRHP3ngtNH5gwSPaNi
 status: PUBLISHED
 createdAt: 2023-10-31T20:42:03.072Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: seller-portal-promotion-minimum-item-price-condition-not-working-as-expected
+slugEN: a-condicao-da-promocao-do-portal-do-vendedor-preco-minimo-do-item-nao-esta-funcionando-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 928558
@@ -18,7 +18,9 @@ internalReference: 928558
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

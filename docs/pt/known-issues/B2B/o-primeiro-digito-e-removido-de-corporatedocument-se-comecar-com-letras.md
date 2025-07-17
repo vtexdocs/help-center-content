@@ -1,5 +1,5 @@
 ---
-title: 'O primeiro dígito é removido de corporateDocument se começar com letras'
+title: "O primeiro dígito é removido de corporateDocument se começar com letras"
 id: sfKdoiEwBRR73CbhvSHJF
 status: PUBLISHED
 createdAt: 2023-10-17T17:26:20.683Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: first-digit-is-removed-from-corporatedocument-if-starts-with-letters
+slugEN: o-primeiro-digito-e-removido-de-corporatedocument-se-comecar-com-letras
 locale: pt
 kiStatus: Fixed
 internalReference: 920703
@@ -18,7 +18,9 @@ internalReference: 920703
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o documento corporativo de uma organização começa com letras, o primeiro dígito é removido após o acesso ao checkout.

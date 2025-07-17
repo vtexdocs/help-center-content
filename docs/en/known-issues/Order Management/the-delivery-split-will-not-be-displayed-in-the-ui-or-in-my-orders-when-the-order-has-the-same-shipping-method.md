@@ -1,5 +1,5 @@
 ---
-title: "The Delivery Split will not be displayed in the UI or in My Orders, when the order has the same 'Shipping Method'."
+title: 'The Delivery Split will not be displayed in the UI or in My Orders, when the order has the same "Shipping Method".'
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z
@@ -36,15 +36,15 @@ Two items each one with one  "courierId"
 
 ItemIndex:0
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BV7Mk1lkB4bfbDUL60PuOxVGw/?name=image.png)
 
 
 IntemIndex :1
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4PaI0LrZEb4ICKus2GFzxvsul/?name=image.png)
 
 The UI suggest this as a single package:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1LIKdI2MhhOGmVfr4xMxSSL29/?name=image.png)
 
 
 

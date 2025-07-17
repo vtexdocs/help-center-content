@@ -1,5 +1,5 @@
 ---
-title: 'O carrinho criado a partir de um pedido antigo não traz as opções de montagem'
+title: "O carrinho criado a partir de um pedido antigo não traz as opções de montagem"
 id: 530zUKzAm8oafA8BKl7G8F
 status: PUBLISHED
 createdAt: 2024-04-19T20:21:41.131Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-old-order-doesnt-bring-the-assembly-options
+slugEN: o-carrinho-criado-a-partir-de-um-pedido-antigo-nao-traz-as-opcoes-de-montagem
 locale: pt
 kiStatus: Backlog
 internalReference: 1020278
@@ -18,7 +18,9 @@ internalReference: 1020278
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um carrinho a partir de um pedido antigo (botão "Pedir novamente" na tela "Meus pedidos"), as opções de montagem do pedido original não serão mantidas.

@@ -41,9 +41,11 @@ You can create your own custom email template or use the default template option
 4. Fill in the __Template XHTML__ field with the template codes.
 5. Click on `Save Template`.
 
-![template xhtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/setting-up-abandoned-carts_1.PNG)
+![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/d48bd1624a47451e2314e2296237992f/Template_XHTML.PNG)
 
->⚠️ We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
+<div class="alert alert-warning">
+We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
+</div>
 
 To use a standard template option, follow the steps below:
 
@@ -51,7 +53,7 @@ To use a standard template option, follow the steps below:
 2. Under __CMS > HTML__ Templates, click on the `CEM-Abandoned-Cart` icon.
 3. Check the information of the template codes present in the __Template XHTML__ field.
 
-![CEM-Abandoned-Cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/setting-up-abandoned-carts_2.PNG)
+![CEM-Abandoned-Cart](https://images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/45690f27bc8825ff3819ac3204d168e8/CEM-Abandoned-Cart.PNG)
 
 ### Configuring email template in Message Center
 
@@ -66,23 +68,25 @@ Once the new email template has been created or the data from the default templa
 7. In __Html__, enter the created or default email template information.
 8. Click on `Save`.
 
->ℹ️ The JSON Data field must not be filled or its data used in the email template. It only contains information to allow a preview of the format in which the data will be viewed in the email.
+<div class = "alert alert-info">
+The JSON Data field must not be filled or its data used in the email template. It only contains information to allow a preview of the format in which the data will be viewed in the email.
+</div>
 
-![New template - message center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/setting-up-abandoned-carts_3.PNG)
+![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/72c7499b2fdc65ee661c3cb45a387a60/new_template.PNG)
 
 ### SPF Release
 
-The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](https://help.vtex.com/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
 
 As a good practice for configuring DNS for a generic domain (not mandatory), follow the example below:
 
-![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/setting-up-abandoned-carts_4.PNG)
+![Hostnames - SPF](https://images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/1ca34737e3275712b51c45283ec5b0c5/Hostnames_-_SPF.PNG)
 
-Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Learn more at [Setting up DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
 ### Configuring trigger
 
-In this step, you must create a [trigger in Master Data](https://help.vtex.com/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
+In this step, you must create a [trigger in Master Data](/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
 
 - __Checkout:__ The trigger will be enabled if the checkout is not completed and is different from null, i.e., if the customer does not place the order.
 - __Cart:__ Refers to the last products the customer added to the shopping cart. The trigger will be enabled if the value is different from null.
@@ -128,7 +132,9 @@ For the trigger to be successfully activated, the filters must be completed foll
 12. Click `Save`.
 13. Create a cart and close the page to test the trigger.
 
-  >⚠️ A page session expires in 30 minutes. Only after this time does Master Data start counting the time scheduled for the Abandoned Cart trigger. Therefore, the time until the email arrives corresponds to the session time (30 minutes) plus the time scheduled in the trigger.
+  <div class="alert alert-warning">
+	<p>A page session expires in 30 minutes. Only after this time does Master Data start counting the time scheduled for the Abandoned Cart trigger. Therefore, the time until the email arrives corresponds to the session time (30 minutes) plus the time scheduled in the trigger.</p>
+</div>
 
 13. Once you have received the abandoned cart message in your email, in the __Recipient__ field (step 12), select the __CL:Email__ option and click `Add Dynamic Email`.
 14. Click `Save`.
@@ -142,7 +148,7 @@ To configure the abandoned cart functionality in VTEX IO stores, follow these st
 3. Perform the [SPF release](#spf-release).
 4. [Configure the trigger](#trigger-configuration) the same way as in Legado stores up to Step 10. From Step 11 (__If positive__ tab), follow the instructions available at [Trigger configuration information](https://developers.vtex.com/vtex-developer-docs/docs/vtex-abandoned-cart-service#trigger-configuration-information).
 
-  ![If positive tab IO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/setting-up-abandoned-carts_5.PNG)
+  ![If positive tab IO](https://images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/1b177fab2726c1d05d39608727cc2057/If_positive_Tab_IO.PNG)
 
 ## Frequently Asked Questions (FAQ)
 

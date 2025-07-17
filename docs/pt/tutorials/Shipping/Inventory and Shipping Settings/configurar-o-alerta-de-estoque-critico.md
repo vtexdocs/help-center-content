@@ -23,11 +23,11 @@ O alerta de estoque crítico é uma funcionalidade de logística que tem o objet
 2. Preencha o campo de **Alerta de estoque crítico** com a quantidade de itens ou porcentagem de estoque desejada.
 3. Clique em **Salvar**.
 
-![alerta-estoque-critico pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory%20and%20Shipping%20Settings/configurar-o-alerta-de-estoque-critico_1.png)
+![alerta-estoque-critico pt](https://images.ctfassets.net/alneenqid6w5/4NNqAy9PJ6wUQsywOyE0UK/b033e0752c942adfbe5bab4e616acb63/alerta-estoque-critico_pt.png)
 
 ## Como funciona o Alerta
 
-Quando o estoque do item atingir a quantidade mínima configurada, será criada uma tarefa no [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Ela será disparada sempre no momento em que a reserva do pedido for feita, ou seja, no fechamento do pedido, e pode demorar de 1 a 5 minutos para aparecer no VTEX DO.
+Quando o estoque do item atingir a quantidade mínima configurada, será criada uma tarefa no [VTEX DO](/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Ela será disparada sempre no momento em que a reserva do pedido for feita, ou seja, no fechamento do pedido, e pode demorar de 1 a 5 minutos para aparecer no VTEX DO.
 
 Caso a reserva seja cancelada, por exemplo por conta de um cancelamento de pedido por parte do cliente, a tarefa será fechada automaticamente.
 
@@ -45,4 +45,4 @@ Não, o Logistics verifica apenas os estoques disponíveis da loja.
 
 ### Onde vejo esses alertas? Como posso acessar o VTEX DO?
 
-Os alertas ficam registrados no [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) e, por enquanto, só podem ser acessados em **Gerenciamento de pedidos**. No entanto, também disponibilizamos uma [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para o caso de você querer buscar ou atribuir uma tarefa a alguma pessoa, por exemplo.
+Os alertas ficam registrados no [VTEX DO](/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) e, por enquanto, só podem ser acessados em **Gerenciamento de pedidos**. No entanto, também disponibilizamos uma [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para o caso de você querer buscar ou atribuir uma tarefa a alguma pessoa, por exemplo.

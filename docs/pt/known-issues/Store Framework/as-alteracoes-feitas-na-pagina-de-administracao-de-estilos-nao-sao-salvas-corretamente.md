@@ -1,5 +1,5 @@
 ---
-title: 'As alterações feitas na página de administração de estilos não são salvas corretamente'
+title: "As alterações feitas na página de administração de estilos não são salvas corretamente"
 id: 4XmBeVMf0yZJElH85mSxC3
 status: PUBLISHED
 createdAt: 2024-01-25T19:13:16.165Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: changes-made-in-the-styles-admin-page-are-not-saved-properly
+slugEN: as-alteracoes-feitas-na-pagina-de-administracao-de-estilos-nao-sao-salvas-corretamente
 locale: pt
 kiStatus: No Fix
 internalReference: 971948
@@ -18,7 +18,9 @@ internalReference: 971948
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As alterações feitas usando a página de estilos da interface do usuário do administrador não estão sendo salvas corretamente no momento e nem sempre são aplicadas ao site.

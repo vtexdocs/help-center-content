@@ -1,5 +1,5 @@
 ---
-title: 'Alterar o número de caracteres no boletim da Braspag'
+title: "Alterar o número de caracteres no boletim da Braspag"
 id: 61xK9vvImE3hZsmhYEoWBg
 status: PUBLISHED
 createdAt: 2023-03-20T18:02:38.120Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: change-the-number-of-characters-in-the-braspag-slip
+slugEN: alterar-o-numero-de-caracteres-no-boletim-da-braspag
 locale: pt
 kiStatus: Backlog
 internalReference: 771045
@@ -18,7 +18,9 @@ internalReference: 771045
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um pedido é gerado via boleto com a Braspag e nos dados de endereço, se tiver mais de 40 caracteres, os dados de endereço estão sendo cortados. Você precisará fazer uma melhoria mudando o limite de caracteres do campo de endereço de 40 caracteres para 60.

@@ -20,7 +20,9 @@ It returns relevant results from the user's first interaction with the store thr
 
 In this track, we will present the necessary steps to configure and begin using Intelligent Search in your VTEX store.
 
->ℹ️ Explore all available features and learn more about the tool's behavior in the section [Intelligent Search - Overview](https://help.vtex.com/en/tutorial/intelligent-search-overview--5o8ixTpYIxx3uJD0B1xp3z).
+<div class="alert alert-info">
+  <p>Explore all available features and learn more about the tool's behavior in the section <a href="https://help.vtex.com/en/tutorial/intelligent-search-overview--5o8ixTpYIxx3uJD0B1xp3z">Intelligent Search - Overview</a>.</p>
+</div>
 
 ## Requirements
 
@@ -28,6 +30,8 @@ Before you start using Intelligent Search, make sure your store meets the follow
 
 * The store must have been developed using [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or [FastStore](https://developers.vtex.com/docs/guides/faststore), i.e., it must use a version of [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x or newer.
 
-  >ℹ️ The above requirement does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, you will need to implement the sending of search events. For more details, see [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
+  <div class="alert alert-info">
+    <p>The above requirement does not apply to headless implementation scenarios, in which VTEX does not provide the frontend technology. In these cases, you will need to implement the sending of search events. For more details, see <a href="https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless">VTEX Intelligent Search Events API - Headless</a>.</p>
+  </div>
 
-* The store must have active [products and SKUs in the Catalog](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).
+* The store must have active [products and SKUs in the Catalog](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).

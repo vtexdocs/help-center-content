@@ -1,5 +1,5 @@
 ---
-title: 'El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado'
+title: "El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado"
 id: 3TorBnBvCbqLB5AUG8oWp0
 status: PUBLISHED
 createdAt: 2023-05-03T21:54:48.509Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer
+slugEN: el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado
 locale: es
 kiStatus: Backlog
 internalReference: 442267
@@ -18,7 +18,9 @@ internalReference: 442267
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Durante el proceso de compra, es necesario iniciar sesión para ver/cambiar la información personal y, en algunos casos, incluso finalizar la compra. El proceso de inicio de sesión está desconectado del orderForm, por lo que puede iniciar sesión como cualquier correo electrónico y ser identificado con algún otro correo electrónico en el flujo de compra.

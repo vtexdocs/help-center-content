@@ -3,8 +3,8 @@ title: 'Como funciona a promoção Compre e ganhe'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2024-02-19T11:48:37.254Z
-publishedAt: 2024-02-19T11:48:37.254Z
+updatedAt: 2025-02-24T16:17:50.979Z
+publishedAt: 2025-02-24T16:17:50.979Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,106 +15,137 @@ legacySlug: compre-e-ganhe
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A promoção do tipo Compre e ganhe é utilizada para oferecer frete grátis ou um brinde caso determinado produto seja comprado. Por exemplo, “compre uma televisão e não pague o frete”, ou ainda “compre um video game e ganhe um jogo”.
+A promoção Compre e Ganhe oferece frete grátis ou um brinde ao adicionar produtos ao carrinho. Quando os critérios são atendidos, esses benefícios são aplicados automaticamente. Por exemplo, ao comprar uma televisão, o frete pode ser gratuito, ou ao adquirir um videogame, um jogo extra pode ser adicionado ao pedido.
 
-Neste artigo, detalharemos os passos necessários para configurar uma promoção Compre e Ganhe:
+![Compre e Ganhe-PT](https://images.ctfassets.net/alneenqid6w5/6Jhx1J6n197TiAPgJq8j5h/46bf19850ff659f4108395ac862f8598/Compre_e_Ganhe-PT.gif)
 
-1. [Quais os dados gerais desta promocao?](#1-quais-os-dados-gerais-desta-promoção)
-    - [Restringir esta promoção a produtos dos sellers](#restringir-esta-promoção-a-produtos-dos-sellers)
-    - [Política Comercial](#política-comercial)
-2. [Compre e ganhe](#2-compre-e-ganhe)
-3. [Quais as condições para a promoção ser válida?](#3-quais-as-condicoes-para-a-promocao-ser-valida)
-4. [Restrições e limitações de uso](#4-restricoes-e-limitaçoes-de-uso)
+Para configurar o **Compre e Ganhe** o seller precisa executar os seguintes passos:
 
-# Criar a promoção
+- [Criar a promoção Compre e Ganhe](#criar-a-promocao-compre-e-ganhe)
+- [Condições do Compre e Ganhe](#condicoes-do-Compre-e-Ganhe)
+- [Condições para aplicar a promoção](#condicoes-para-aplicar-a-promoção)
+- [Configurar restrições para o uso da promoção](#configurar-restrições-para-o-uso-da-promoção)
+- [Configurar acúmulo e concorrência](#configurar-acumulo-e-concorrencia)
+- [Exibir a promoção na página de produto](#exibir-a-promocao-na-pagina-de-produto)
 
-No Admin VTEX, acesse **Promoções > Promoções** ou digite **Promoções** na barra de busca no topo da página.
+## Criar a promoção Compre e Ganhe
 
-1. Clique no botão `Criar promoção`.
-2. Selecione a opção **Compre e ganhe**.
-3. Preencha os campos da promoção.
-4. Clique em `Salvar`.
+1. No Admin VTEX, acesse **Promoções** > **Promoções** ou digite **Promoções** na barra de busca no topo da página.
+2. Clique em `Criar promoção`.
+3. Selecione a opção **Compre e Ganhe**.
+4. Preencha os campos da página. Na tabela abaixo você encontra detalhes para preenchimento.
+5. Clique em `Salvar`.
 
-# 1. Quais são os dados gerais desta promoção?
+| **Campo**                                | **Descrição**                                                                                                                                                                                                                                    | **Exemplo**                                                                                                                                                                                                                  |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nome**                                 | Escolha um nome claro e objetivo para a promoção (até 150 caracteres).                                                                                                                                                                                | Queima de Estoque de Verão: Compre e Ganhe Descontos!                                                                                                                                                                          |
+| **Status**                               | Defina se a promoção estará **Ativa** ou **Inativa**. Configure como <i class="fas fa-toggle-on" aria-hidden="true"></i> para aplicar a promoção conforme as datas e horários configurados. Configure como <i class="fas fa-toggle-off" aria-hidden="true"></i> para pausá-la, mesmo que esteja dentro do período definido. | ![Habilitar Promoções-PT](https://images.ctfassets.net/alneenqid6w5/53JRRDwnwqYZHkAvXDHZ4q/eb0e4a15df178f7b63331d9260a00657/Habilitar_Promo__es-_PT.png) ![Desabilitar Promoções-PT](https://images.ctfassets.net/alneenqid6w5/3kMog54wFdkBKNgBOped6G/a823005ec61016575bb71fcb7f95d428/desabilitar_Promo__es-_PT.png) |
+| **Descrição**                            | A descrição interna da promoção deve ser usada para registrar informações destinadas à comunicação interna da loja. Este campo serve para especificar o motivo da promoção, como uma campanha específica ou uma queima de estoque. A descrição deve ter no máximo 10.000 caracteres. | Ao comprar um produto, você recebe um desconto no segundo produto.                                                                                                                   |
+| **Data de início e horário de início**   | Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado. Certifique-se de ajustar conforme o planejamento da campanha para maximizar sua eficácia.                                        | ![Data e horário de início da Promoções-PT](https://images.ctfassets.net/alneenqid6w5/5gTtMgL4HlIDqOLXr0GlkR/f8f64dfaac287942539c14665ead4223/Data_e_horario_de_inicio_da_Promo__es-PT.png)                                         |
+| **Data de término e horário de término** | Defina o período de validade da promoção configurando a data e o horário exatos para sua desativação automática. A data deve ser posterior à data atual.                                                                                                                                  | ![Data de término e horário da Promoções-PT](https://images.ctfassets.net/alneenqid6w5/47LXgLL2EnmPdeB7HBDAlc/88bd72f29fc641769bcea1ab501f667e/Data_de_termino_e_horario_da_Promo__es-PT.png)                                       |
+| **Usar configurações de recorrência**    | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir recorrência conforme o planejamento.                                                        | ![Usar recorrência-PT](https://images.ctfassets.net/alneenqid6w5/45x0h14pQOrpBu6RacEheI/3c6a2c9c33077e70b3cef58153d463fd/Usar_recorrencia-PT.png)                                            |
 
-Nesta seção, fornecemos informações detalhadas sobre os dados gerais desta promoção.
-- **Nome:** nome da promoção. Campo obrigatório.
-- **Status:** ativa ou inativa a promoção.
-- **Descrição**: o objetivo desse campo é que seja usado para comunicação interna na sua loja, a fim de deixar claro se a promoção é devido à alguma campanha, queima de estoque, etc.
-- **Data de expiração:** data e hora de início e de fim da promoção. Pode ser usada uma data e/ou horário futuros, para que a promoção comece a ser aplicada no site. Caso seja configurada desta forma, o status da promoção será exibido das seguintes formas:
-    - Agendada: antes da data e horário de início selecionados.
-    - Ativa: durante o período programado para a promoção.
-    - Inativa: após a data e horário de término selecionados.
-- **Usar configurações de recorrência:** ao selecionar esta opção, é permitido realizar configurações de recorrência, por exemplo, dia da semana e horário.
-- **Tipo e valor do desconto:** permite selecionar uma das opções abaixo:
-    1. **Preço Máximo por Item:** define o preço máximo para cada item da compra.
-    2. **Frete grátis:** desconto total sobre o valor do frete.
-    3. **Brinde:** desconto total sobre o valor do produto definido como brinde. Ao selecionar essa opção, é possível indicar o SKU (por nome ou ID) que será considerado brinde, escolher se o [multiplicador de brindes](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) deve ser ativado e a quantidade máxima de produtos que poderão ser utilizados como brindes na promoção. Para mais informações sobre este tipo de desconto, acesse  [Configurar promoção Compre e ganhe para um SKU específico](https://help.vtex.com/pt/tutorial/configurar-promocao-compre-e-ganhe-para-um-sku-especifico).
-- **Informações adicionais (opcional):** permite incluir informações adicionais a promoção composto de um nome e valor.
-- **Destaque nos produtos:** insere uma tag com o nome da promoção. Utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template. <vtex.cmc:discountHightLight>.
+### Definir os sellers participantes 
 
-![Dados gerais da promoção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_1.png)
+Nesta seção, você pode definir se a promoção será aplicada a todos os sellers ou apenas a sellers específicos. Selecione uma das opções a seguir para a aplicação da promoção.
+![Seller-PT](https://images.ctfassets.net/alneenqid6w5/5bD08s04LIKlVljTm90OTe/b467774d461ba83c11eaa00ab9d6221d/Seller-PT.png)
 
-## Restringir esta promoção a produtos dos sellers
+Selecione uma das opções para a aplicação da promoção.
 
-Nesta seção, é possível definir para quais sellers a promoção será aplicada. Você pode determinar quais sellers serão incluídos ou excluídos do desconto.
+- **Todos:** a promoção será aplicada a todos os sellers cadastrados. Use essa opção quando quiser que todos os produtos, de todos os sellers, façam parte da campanha.
+- **Iguais a:** selecione esta opção para incluir apenas sellers específicos na promoção. Após selecionar "Iguais a", você poderá escolher os sellers desejados no campo abaixo. Somente os sellers selecionados terão seus produtos incluídos na campanha.
+- **Diferentes de:** selecione esta opção para excluir sellers específicos da promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que não deseja incluir na campanha. Todos os demais sellers estarão incluídos.
 
-- Iguais a: selecione os nomes dos sellers desejados para incluí-los.
-- Diferentes de: selecione os nomes dos sellers desejados para excluí-los.
+<div class = "alert alert-warning">
+  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
+</div>
 
-Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
+### Selecionar políticas comerciais 
+Nesta seção, você pode selecionar as políticas comerciais que serão aplicadas à sua promoção. As políticas comerciais definem as condições de venda e entrega dos produtos.
 
->⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
+![Politica comercial-PT](https://images.ctfassets.net/alneenqid6w5/60M2QAZWrFtGr6VNICkpIv/47e112c8908db2e1f20eb8c8daf918c0/Politica_comercial-PT.png)
 
-![Restringir esta promoção a produtos dos sellers](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_2.png)
+Você pode escolher entre as seguintes opções:
 
-## Política comercial
+- **Todas:** aplica a promoção a todas as políticas comerciais cadastradas, sem restrições. Todos os produtos, independentemente da política comercial associada, estarão incluídos na promoção.
+- **Iguais a:** selecione as políticas comerciais que você deseja incluir na promoção. Essa opção permite que você especifique quais políticas se aplicam aos produtos que receberão o desconto.
+- **Diferentes de:** selecione as políticas comerciais que você deseja excluir da promoção. Essa opção remove determinadas políticas, garantindo que o desconto não seja aplicado a produtos que seguem essas regras comerciais.
 
-Esta seção estabelece as políticas comerciais válidas para a promoção. Você pode incluir ou excluir políticas comerciais do desconto.
+# Condições do Compre e Ganhe
+Nesta seção, você pode configurar promoções do tipo "Compre e Ganhe", permitindo oferecer benefícios ao comprar itens. A configuração ocorre em duas etapas:
 
-- **Iguais a:** selecione as políticas comerciais desejadas incluí-las.
-- **Diferentes de:** selecione as políticas comerciais desejadas excluí-las.
-- **Fornecido por mim (Minha loja):** seleção de políticas comerciais com produtos da sua loja. Pode ser selecionada mais de uma política comercial.
-- **Entregue por mim (Lojas de terceiros):** seleção de políticas comerciais em que seus produtos estão de lojas de terceiros. Pode ser selecionada mais de uma política comercial.
+- Definição dos itens que devem ser adquiridos.
+- Escolha do benefício concedido.
 
-Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
+Para começar, defina as coleções, SKUs e a quantidade mínima necessária para ativar a promoção:
 
-![Política comercial-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_3.png)
+**Na compra de:**
+- **SKUs:** insira o nome ou ID dos SKUs elegíveis para a promoção.
+- **Coleções:** adicione as coleções de produtos que farão parte da promoção.
+- **Quantidade mínima:** defina a quantidade mínima de itens que o cliente deve adicionar ao carrinho para receber o benefício.
+- **Considerar apenas itens iguais:** marque esta opção se desejar que a promoção só seja ativada com produtos idênticos.
 
-# 2. Compre e Ganhe
+<div class = "alert alert-warning">
+<p>Uma promoção Compre e Ganhe permite configurar até 100 SKUs diferentes simultaneamente.</p>
+</div>
 
-Esta seção define as coleções, SKUs e quantidade mínima que devem ser preenchidas.
+**O cliente ganha:**
 
-- **Coleções**: digite o nome de uma ou mais coleções de produtos que deseja oferecer esse tipo de desconto. A promoção será aplicada somente aos produtos que estejam nas coleções cadastradas nesse campo.
-- **SKUs**: permite inserir o nome ou ID dos SKUs nos quais deseja que o desconto seja aplicado. É possível realizar a  importação de uma lista de SKUs, que deve estar salvo em um arquivo de texto (**.txt**) com cada ID descrito em uma linha diferente.
-- **Quantidade mínima**: permite definir a quantidade mínima de produtos que devem ser inseridos no carrinho, para que o desconto seja concedido. Esse campo é de preenchimento obrigatório.
+Após definir os itens de compra, escolha o benefício que o cliente receberá:
 
->⚠️ A promoção não será criada caso os campos de Coleções ou SKUs não estejam preenchidos.
+- **Frete grátis:** escolha entre as seguintes opções de frete grátis:
+  - **Todos os fretes:** aplica frete grátis a todas as modalidades de envio.
+  - **Somente o frete mais barato:** oferece frete grátis apenas na opção mais econômica.
+  - **Tipo de frete específico:** selecione um tipo específico de frete, como envio expresso ou transportadora particular.
+- **Brinde:** desconto total sobre o valor do produto definido como brinde.
+    - **SKUs:** permite a seleção dos SKUs (por nome ou ID) correspondentes ao brinde oferecido. 
+    - **Quantidade de brindes:** estabelece um limite para a quantidade de brindes que o comprador pode receber, mesmo que haja múltiplos itens elegíveis no carrinho. Existem duas opções:
+        - ** Um brinde:** permite receber um brinde, independentemente da quantidade de itens no carrinho.
+        - **Um brinde para cada item elegível no carrinho:** permite receber um brinde para cada item elegível no carrinho.
+- **Preço máximo:** define o valor máximo permitido para cada item da compra. Esse limite será aplicado aos produtos elegíveis para o benefício.
 
->⚠️ Uma promoção Compre e Ganhe pode ser criada com o máximo de 100 SKUs diferentes ao mesmo tempo.
-
-![Compre e Ganhe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_4.png)
-
-# 3. Quais condições para a promoção ser válida?
-
+### Condições para aplicar a promoção
 Nesta seção, detalharemos as condições em que você deve aplicar para que uma promoção seja considerada válida.
 
-- **Usar BIN de restrição:** permite ativar ou desativar a restrição do BIN, limitando quais cartões de créditos poderão ser utilizados na promoção criada. É possível realizar a importação de uma lista de BINs, que deve estar salvo em um arquivo de texto (.txt) com cada BIN descrito em uma linha diferente.
-- **Cluster de Clientes:** permite ativar ou desativar a utilização do cluster de clientes. Quando ativado, é possível escolher um cluster de cliente criado por meio do [Master Data](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes).
-- **Tipo de frete:** permite escolher se a promoção será aplicada em um ou mais tipos de fretes selecionados**.**  Quando ativado, escolha um tipo de frete, e quando desativado, você terá a opção de escolher aplicar o desconto no frete mais barato.
-- **Meio de pagamento:** permite escolher se a promoção será aplicada em um ou mais tipos de meios de pagamento selecionados.
-- **Utm_source:** o desconto será concedido caso a navegação seja realizada com a utm_source com o valor cadastrado.
-- **Utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
+- **Meio de pagamento:** a promoção será aplicada quando você selecionar um dos métodos de pagamento especificados e o carrinho tiver apenas um método de pagamento.
+- **Número do Bin do cartão:** a promoção só poderá ser aplicada se forem utilizados cartões de bandeiras, bancos ou categorias específicas, identificados por seus códigos BIN. É possível realizar a importação de uma lista de BINs, que deve estar salvo em um arquivo de texto (**.txt**) ou (**.csv**) com cada BIN descrito em uma linha diferente.
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`.
+- **Tipo de frete:** permite escolher se a promoção será aplicada em um ou mais tipos de fretes selecionados.
+- **Localização de entrega:** a promoção só será aplicada caso o endereço de entrega do pedido esteja de acordo com as seguintes definições abaixo:
+  - **Países de entrega:** permite que você selecione os países onde a promoção será válida. Apenas pedidos com endereços de entrega localizados nos países selecionados poderão se beneficiar da promoção.
+  - **Cep de entrega:** permite restringir a promoção a intervalos de CEP específicos, permitindo mais controle sobre as áreas onde a promoção será aplicada.
+    - **Incluir:** a promoção será aplicada somente para os endereços dentro dos CEPs definidos.
+    - **Excluir:** a promoção não será aplicada aos endereços dentro dos CEPs definidos.
+    - **Campo "de":** insira o início do intervalo de CEP.
+    - **Campo "até":** insira o final do intervalo de CEP.
+  - **UTM:**  permite configurar a promoção para que seja aplicada quando o acesso ao site ocorrer por meio de uma URL com parâmetros UTM ou quando um cupom vinculado a esses parâmetros for utilizado. Defina os parâmetros UTM seguindo as regras de formatação, utilizando apenas letras, números, hífens e sublinhados. Se necessário, preencha os seguintes parâmetros:
 
-![Quais as condições para a promoção ser válida?](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_5.png)
+    - **Utm_source:** o desconto será concedido caso a navegação seja realizada com a utm_source com o valor cadastrado.
+    - **Utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
+    - **Criar cupom a partir dos parâmetros UTM acima:** permite gerar um cupom com base nos parâmetros UTM inseridos nos campos `UTM_source` e `UTM_campaign`. 
+    - **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos. Ao criar cupons a partir de UTMs, não use o nome `new`, pois isso gera uma URL inválida.
 
-# 4. Restrições e Limitações de uso
+### Configurar restrições para o uso da promoção
+A seção Restrições de Uso permite definir limites para o uso da promoção, seja para toda a loja ou por cliente individual. Marque as opções abaixo conforme necessário:
 
-Nesta seção você encontrará informações importantes sobre quais condições e restrições se aplicam à promoção.
+- **Limitar o uso da promoção na loja:** restringe a quantidade total de vezes que a promoção pode ser utilizada na loja.
+- **Limitar o uso da promoção por cliente:** permite restringir o número de vezes que cada cliente pode utilizar a promoção.
 
-- **Quantas vezes essa promoção pode ser aplicada na sua loja:** permite restringir a aplicação da promoção na loja por um determinado número de vezes ou utilizá-la de forma ilimitada.
-- **Quantas vezes essa promoção pode ser aplicada na sua loja por clientes:** permite restringir a aplicação da promoção na loja a cada cliente por um determinado número de vezes ou utilizá-la de forma ilimitada.
-- **Somente para itens iguais:** Se esta opção estiver habilitada, a promoção é aplicada somente se a quantidade mínima de itens (cadastrados anteriormente) for atingida utilizando o mesmo SKU no carrinho. Caso a opção esteja desabilitada, a promoção será aplicada mesmo quando a quantidade mínima de itens for adicionada no carrinho, independentemente dos SKUs serem diferentes ou iguais.
-- **Permitir acumular promoções:** permite que essa promoção possa ser aplicada no carrinho em conjunto com outras promoções que ofereçam o mesmo tipo de desconto.
+### Configurar acúmulo e concorrência
+Nesta seção, você pode definir se a promoção poderá ser combinada com outras promoções. Abaixo estão as opções disponíveis:
 
-![Restrições e limitações de uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/compre-e-ganhe_6.png)
+- **Permitir acumular com outras promoções:** a promoção poderá ser combinada com outras promoções ativas no momento. Note que, por padrão, a promoção já acumula descontos de frete ou brindes. Para mais informações acesse o artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
+
+- **Permitir acumular com preços manuais:** a promoção será aplicada mesmo quando os preços forem ajustados manualmente, garantindo que a promoção funcione junto com ajustes individuais de preços no carrinho.
+
+### Exibir a promoção na página de produto
+Destaque a promoção na página de produtos e adicione dados personalizados para customizações na loja nesta seção.
+
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
+
+<div class = "alert alert-info">
+Lembre-se configurar essa exibição no módulo <a href=https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>CMS.</a>
+</div>
+
+- **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
+

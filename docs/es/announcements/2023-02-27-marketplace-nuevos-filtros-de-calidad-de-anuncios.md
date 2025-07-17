@@ -15,13 +15,13 @@ announcementImageID: ''
 announcementSynopsisES: 'Lanzamos una nueva página de configuración para que los marketplaces creen requisitos para la aprobación de anuncios.'
 ---
 
-Una de las responsabilidades de un [marketplace](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
+Una de las responsabilidades de un [marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
 
-Para que los _marketplaces_ tengan más control sobre los criterios de aprobación de un anuncio, hemos creado la configuración **[Filtros de calidad de anuncios](https://help.vtex.com/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**, que permite a los _marketplaces_ crear los requisitos obligatorios y opcionales para su aprobación. 
+Para que los _marketplaces_ tengan más control sobre los criterios de aprobación de un anuncio, hemos creado la configuración **[Filtros de calidad de anuncios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**, que permite a los _marketplaces_ crear los requisitos obligatorios y opcionales para su aprobación. 
 
 De esta forma, los SKU que se envían al _marketplace_ cumplen los requisitos relevantes para la curación de catálogos. 
 
-![Offer Quality gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-02-27-marketplace-nuevos-filtros-de-calidad-de-anuncios_1.gif)
+![Offer Quality gif](https://images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/5525f637d51f9d9fc5fe29395f58d07f/Offer_Quality_01.gif)
 
 ## ¿Qué cambió?
 
@@ -43,12 +43,12 @@ La página de configuración proporciona una serie de herramientas para la opera
 * Permitir que el equipo de catálogo del _marketplace_ analice los anuncios caso por caso y sepa las razones por las que no cumplieron los requisitos.
 * Permitir identificar los _sellers_ y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.
 
-Sepa más acerca de los [beneficios](https://help.vtex.com/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#por-que-usar-esta-funcionalidad) de utilizar esta funcionalidad.
+Sepa más acerca de los [beneficios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#por-que-usar-esta-funcionalidad) de utilizar esta funcionalidad.
 
 ## ¿Qué se necesita hacer?
 
-La página de configuración está disponible automáticamente para todas las cuentas VTEX que utilizan la página [SKU Recibidos](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). No se requiere ninguna acción para obtener la funcionalidad.
+La página de configuración está disponible automáticamente para todas las cuentas VTEX que utilizan la página [SKU Recibidos](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). No se requiere ninguna acción para obtener la funcionalidad.
 
-Para acceder a la página donde se configuran los filtros de calidad de anuncios, en el Admin VTEX, ve a _Marketplace > **[Calidad de anuncios](https://help.vtex.com/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**_.
+Para acceder a la página donde se configuran los filtros de calidad de anuncios, en el Admin VTEX, ve a _Marketplace > **[Calidad de anuncios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**_.
 
-Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/) al programa Beta del[ nuevo Admin VTEX](https://help.vtex.com/es/v4).
+Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/) al programa Beta del[ nuevo Admin VTEX](/es/v4).

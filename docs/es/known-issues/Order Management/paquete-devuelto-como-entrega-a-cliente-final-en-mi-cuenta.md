@@ -1,5 +1,5 @@
 ---
-title: 'Paquete devuelto como entrega a cliente final en mi cuenta'
+title: "Paquete devuelto como entrega a cliente final en mi cuenta"
 id: 6kMtbSa42iBu6rqQj5QcTv
 status: PUBLISHED
 createdAt: 2022-03-11T14:25:43.659Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: returned-package-as-delivering-to-final-customer-on-my-account
+slugEN: paquete-devuelto-como-entrega-a-cliente-final-en-mi-cuenta
 locale: es
 kiStatus: Backlog
 internalReference: 415482
@@ -18,7 +18,9 @@ internalReference: 415482
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario en el que el paquete devuelto se muestra como entregado en la página **Mi Cuenta > Mis Pedidos**. Parece que se va a entregar más de un paquete al cliente en lugar de mostrar que el paquete ya fue entregado al cliente y que se generó un nuevo paquete que simboliza la devolución.

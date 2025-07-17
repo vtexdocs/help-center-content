@@ -1,5 +1,5 @@
 ---
-title: 'Cart does not update in FastStore if external request is made to update orderForm'
+title: "Cart does not update in FastStore if external request is made to update orderForm"
 id: 7ef1GxxapbH2XKKf7HBuAM
 status: PUBLISHED
 createdAt: 2024-10-31T15:08:54.129Z

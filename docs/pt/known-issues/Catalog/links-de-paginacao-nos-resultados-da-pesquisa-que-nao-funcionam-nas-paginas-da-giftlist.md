@@ -1,5 +1,5 @@
 ---
-title: 'Links de paginação nos resultados da pesquisa que não funcionam nas páginas da Giftlist'
+title: "Links de paginação nos resultados da pesquisa que não funcionam nas páginas da Giftlist"
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: pagination-links-on-search-results-not-working-on-giftlist-pages
+slugEN: links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist
 locale: pt
 kiStatus: No Fix
 internalReference: 481330
@@ -18,7 +18,9 @@ internalReference: 481330
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Links de paginação em `SearchResult' que não funcionam em `Giftlist'.
@@ -31,7 +33,7 @@ Links de paginação em `SearchResult' que não funcionam em `Giftlist'.
 - Acesse uma Giftlist com produtos suficientes para ter paginação, use um modelo padrão sem nenhuma personalização;
 - Verifique os links de paginação:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/LAmUCIdMsybPqVkRGh9TcNq99/?name=inline-998244926.png)
 
 - Estes links não funcionam.
 

@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Adjust plaintext_description specification'
+title: "[Magazine Luiza] Adjust plaintext_description specification"
 id: 71sePdd6o3q9gvQ1I4JwZl
 status: PUBLISHED
 createdAt: 2023-02-14T19:15:17.763Z
@@ -34,7 +34,7 @@ _**Specification:**_ plaintext_description
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-adjust-plaintextdescription-specification_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/S0hpp0y3EGMv1tzgohvKWYzez/?name=image.png)
 
 
 ##

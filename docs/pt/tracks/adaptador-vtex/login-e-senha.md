@@ -3,8 +3,8 @@ title: 'Login e senha'
 id: 4KchxUBPoKwy9xJ6ZTESFK
 status: PUBLISHED
 createdAt: 2021-10-05T21:49:38.048Z
-updatedAt: 2021-10-06T17:25:34.871Z
-publishedAt: 2021-10-06T17:25:34.871Z
+updatedAt: 2025-02-28T15:26:35.446Z
+publishedAt: 2025-02-28T15:26:35.446Z
 firstPublishedAt: 2021-10-06T16:13:33.742Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -20,9 +20,9 @@ Para conseguir o login e senha para acessar o adaptador, você deve abrir um cha
 
 Em seu navegador preferido, digite `https://adapterstaging.ciashop.com.br/`. Sugerimos adicionar este link na pasta favoritos do seu navegador preferido.
 
-![login-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/adaptador-vtex/login-e-senha_1.png)
+![login-adaptador](https://images.ctfassets.net/alneenqid6w5/4toFGLYSg26MGGWMf3kHDc/4fbb56d3ebf3f7dca51ea3aa9bd623c0/login-adaptador.png)
 
-## Efetuando login (ambiente de homologação) com os dados enviados pela equipe de atendimento
+## Efetuando login (ambiente de homologação) com os dados enviados pela equipe de atendimento 
 
 Após receber o login e senha, você deve acessar o adaptador através do link `https://adapterstaging.ciashop.com.br/` e informar o login e senha de acesso fornecido pela equipe de suporte VTEX Curitiba.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Magazine Luiza Marketplace'
 id: 5CEVGKgtrMuifbjNoo8jKX
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-16T19:41:45.000Z
-updatedAt: 2024-10-08T21:59:47.278Z
-publishedAt: 2024-09-16T20:17:08.702Z
+updatedAt: 2025-03-17T15:36:58.155Z
+publishedAt: 2025-03-17T15:36:58.155Z
 firstPublishedAt: 2021-03-18T14:15:52.422Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,5 +14,4 @@ trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: magazine-luiza-integration-set-up
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>

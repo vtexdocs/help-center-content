@@ -1,5 +1,5 @@
 ---
-title: "Lean shipping causes 'Something went wrong' after changing pick-up points"
+title: 'Lean shipping causes "Something went wrong" after changing pick-up points'
 id: 45jQODtjZ4vLXniNJIlQZc
 status: PUBLISHED
 createdAt: 2024-06-20T21:11:53.067Z
@@ -21,7 +21,7 @@ internalReference: 1053609
 
 A shopper can search for different pick-up points in different postal codes. When using lean shipping, after adding a postal code with pick-up points available and changing to a postal code without pick-up points, the shipping step is blocked with the message "Something went wrong".
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/lean-shipping-causes-something-went-wrong-after-changing-pickup-points_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/i0jCDFlz5EGPnKyk5Nfw0Etl0/?name=image.png)
 
 
 ##

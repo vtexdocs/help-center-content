@@ -1,5 +1,5 @@
 ---
-title: 'Não pode ser filtrado por tipo de erro no excel export do Integrações'
+title: "Não pode ser filtrado por tipo de erro no excel export do Integrações"
 id: 1gl97y31UE6WqWSkKku2UC
 status: PUBLISHED
 createdAt: 2017-12-15T12:40:09.384Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: cannot-filter-by-error-type-in-the-excel-bridge-export-spreadsheet
+slugEN: nao-pode-ser-filtrado-por-tipo-de-erro-no-excel-export-do-bridge
 locale: pt
 kiStatus: Backlog
 internalReference: 

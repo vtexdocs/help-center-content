@@ -1,5 +1,5 @@
 ---
-title: 'La API del catálogo no responde correctamente a los espacios al final de las cadenas'
+title: "La API del catálogo no responde correctamente a los espacios al final de las cadenas"
 id: 37TmHtc19126iarlQ4IL2p
 status: PUBLISHED
 createdAt: 2024-02-05T16:49:35.136Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-api-doesnt-respond-properly-to-space-at-the-end-of-strings
+slugEN: la-api-del-catalogo-no-responde-correctamente-a-los-espacios-al-final-de-las-cadenas
 locale: es
 kiStatus: No Fix
 internalReference: 977033
@@ -18,7 +18,9 @@ internalReference: 977033
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la colección de la API de catálogo, si se envía un campo JSON de cadena que termina con espacios (por ejemplo productName: "myProductName ") las API de catálogo responderán con una respuesta 400 incorrecta y un cuerpo de respuesta vacío, dejando al usuario sin saber qué se envió incorrectamente.

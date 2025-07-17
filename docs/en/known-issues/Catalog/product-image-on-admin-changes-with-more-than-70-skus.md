@@ -1,5 +1,5 @@
 ---
-title: 'Product Image on admin changes with more than 70 skus.'
+title: "Product Image on admin changes with more than 70 skus."
 id: 6EtUyiWzpm5moEN6hkY4B0
 status: PUBLISHED
 createdAt: 2024-03-21T15:18:20.218Z
@@ -20,7 +20,7 @@ internalReference: 1003966
 
 
 When a product has more than 70 skus variations it's image on admin (and on admin only) changes to a information image:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/product-image-on-admin-changes-with-more-than-70-skus_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/3oAwbW4sgou7su2F6Ls5CGqoR/?name=image.png)
 
 with the text: "ATENÇÃO: não foi possível excluir este produto porque ele tem mais SKUs do que o permitido pelo sistema."
 

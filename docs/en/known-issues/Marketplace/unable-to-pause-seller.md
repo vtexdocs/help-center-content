@@ -1,5 +1,5 @@
 ---
-title: 'Unable to pause seller'
+title: "Unable to pause seller"
 id: 4s4VLWa93cnfOhf8faOXjU
 status: PUBLISHED
 createdAt: 2022-10-20T18:31:59.458Z
@@ -52,7 +52,7 @@ If the seller deletes the affiliate (or changes the affiliate id) on their side,
 
 In order to be able to pause the seller there are 3 workarounds:
 
-1. Delete the `affiliate Id`and `Trade Policy` information on the seller section called "Integration" on the UI ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/unable-to-pause-seller_1.png)
+1. Delete the `affiliate Id`and `Trade Policy` information on the seller section called "Integration" on the UI ![](https://vtexhelp.zendesk.com/attachments/token/Pp9HF1oSjoUYYJdnmKBUSnYVO/?name=image.png)
 2. Ask the seller to create again the affiliate as it was before and after that pause the seller. (after the seller can delete the affiliate again);
 3. Use the old seller management UI to proceed with this action: www.myaccount.myvtex.com/admin/site/seller.aspx
 

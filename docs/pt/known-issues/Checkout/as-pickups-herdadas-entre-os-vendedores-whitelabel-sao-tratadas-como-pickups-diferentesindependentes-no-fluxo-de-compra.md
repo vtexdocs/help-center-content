@@ -1,5 +1,5 @@
 ---
-title: 'As pick-ups herdadas entre os vendedores Whitelabel são tratadas como pick-ups diferentes/independentes no fluxo de compra'
+title: "As pick-ups herdadas entre os vendedores Whitelabel são tratadas como pick-ups diferentes/independentes no fluxo de compra"
 id: mfLw2RDV0C7cXNic5CwoA
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:12.808Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow
+slugEN: as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra
 locale: pt
 kiStatus: Backlog
 internalReference: 438630
@@ -18,7 +18,9 @@ internalReference: 438630
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um recurso no módulo de Logística para herdar pontos de coleta entre contas de franquia e, portanto, entre vendedores de whitelabel. Enquanto registrados em um vendedor X, eles aparecerão como opções de pickup para um vendedor Y, de acordo com o que está configurado na estratégia de envio. Embora eles sejam os mesmos, sua identificação será diferente entre cada vendedor, e assim eles serão vistos como opções de retirada diferentes e independentes.

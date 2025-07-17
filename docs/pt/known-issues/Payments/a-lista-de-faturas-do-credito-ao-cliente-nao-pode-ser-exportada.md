@@ -1,5 +1,5 @@
 ---
-title: 'A lista de faturas do Crédito ao Cliente não pode ser exportada'
+title: "A lista de faturas do Crédito ao Cliente não pode ser exportada"
 id: 1n3CkkAyQ1n4bdxXC7S0yH
 status: PUBLISHED
 createdAt: 2022-03-27T14:26:44.668Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: customer-credits-invoice-list-cannot-be-exported
+slugEN: a-lista-de-faturas-do-credito-ao-cliente-nao-pode-ser-exportada
 locale: pt
 kiStatus: Backlog
 internalReference: 327219
@@ -18,7 +18,9 @@ internalReference: 327219
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há uma limitação com o módulo de Crédito ao Cliente que não permite ao usuário exportar mais de 150k faturas ao mesmo tempo.

@@ -22,11 +22,11 @@ O painel de gerenciamento de usuários teve seu design atualizado com os mesmos 
 - Apresentação da configuração de MFA (autenticação de múltiplos fatores) para cada usuário na lista de usuários.
 - Botão para exportar os dados da lista de usuários para um arquivo csv que inclui id, email e nome.
 
-![Lista Usuários User Management PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020-12-17-nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin_1.png)
+![Lista Usuários User Management PT](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/3440b1f6633113c14bf91d9147d4eb0a/Lista_Usu__rios_User_Management_PT.png)
 
 Além disso, o painel sofreu algumas alterações:
 
-- A edição dos nomes dos usuários agora só pode ser feita pelo próprio usuário através das suas Configurações de usuário. Veja o artigo [Configurar dados pessoais na tela de usuário](https://help.vtex.com/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
+- A edição dos nomes dos usuários agora só pode ser feita pelo próprio usuário através das suas Configurações de usuário. Veja o artigo [Configurar dados pessoais na tela de usuário](/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
 - Por padrão, a exclusão de usuários revoga todo o acesso do usuário à loja sem excluí-lo da base de dados. A mensagem de confirmação de exclusão agora apresenta essa informação, deixando esse fato mais evidente.
 
-A documentação completa sobre a utilização do painel de gerenciamento de usuários pode ser encontrada no artigo [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512).
+A documentação completa sobre a utilização do painel de gerenciamento de usuários pode ser encontrada no artigo [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512).

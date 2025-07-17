@@ -1,5 +1,5 @@
 ---
-title: "Autor da versão 'Note: Not found on VTEX ID.' no perfil"
+title: 'Autor da versão "Note: Not found on VTEX ID." no perfil'
 id: 0X6Aj6YdCXXfNweAkDS46
 status: PUBLISHED
 createdAt: 2023-10-04T21:48:14.699Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: version-author-note-not-found-on-vtex-id-on-the-profile
+slugEN: autor-da-versao-note-not-found-on-vtex-id-no-perfil
 locale: pt
 kiStatus: Scheduled
 internalReference: 914314
@@ -18,7 +18,9 @@ internalReference: 914314
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o cliente faz uma compra, o autor da versão recebe um ID de usuário (guid) ou um serviço, seguido pelo login/nome/descrição "`Note: Not found on VTEX ID.`" no perfil.
@@ -34,11 +36,11 @@ Esse comportamento não afeta o perfil ou a experiência do comprador, uma vez q
 - Clique no botão "_Alterar registro_";
 - Abrir uma versão recente;
 - Verifique o "_Version author_", que será um ID de usuário, e o nome "`Note: Not found on VTEX ID.`", por exemplo:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_1.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9ngSibhlO4er0Df3Fi7oQAhot/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/8tlsDbxNSFFHdJMVHf2yvctem/?name=image.png)
 
 - Verificação pela API Get version:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/autor-da-versao-note-not-found-on-vtex-id-no-perfil_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/MRrTRox5E0t91F3OpsDcRmJ9z/?name=image.png)
 
     "updatedBy_USER": "{\"Id\":\"d6d8269f-e7cc-4e4b-8b89-3b46a1407937\",\"Login\":\"vtex-service::checkout::stable\",\"Name\":null}",
 

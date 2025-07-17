@@ -1,5 +1,5 @@
 ---
-title: "Erro de cancelamento de transação com a mensagem 'Unreachable code' (código inacessível)"
+title: 'Erro de cancelamento de transação com a mensagem "Unreachable code" (código inacessível)'
 id: 2Y4joZlyDhbNWU9ycw32U3
 status: PUBLISHED
 createdAt: 2024-03-12T16:34:10.113Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transaction-cancellation-error-with-unreachable-code-message
+slugEN: erro-de-cancelamento-de-transacao-com-a-mensagem-unreachable-code-codigo-inacessivel
 locale: pt
 kiStatus: Backlog
 internalReference: 998435
@@ -18,7 +18,9 @@ internalReference: 998435
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O cancelamento de uma transação completa pode falhar ao retornar a mensagem `Código inacessível` (visível apenas por meio da API).

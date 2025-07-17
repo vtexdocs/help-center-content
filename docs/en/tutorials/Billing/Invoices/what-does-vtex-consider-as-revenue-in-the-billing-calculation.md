@@ -1,10 +1,10 @@
 ---
 title: 'What does VTEX consider as revenues for invoice calculation?'
 id: 58j4cfoXfisWyemASACwSq
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.341Z
-updatedAt: 2020-11-27T19:36:02.275Z
-publishedAt: 2020-05-15T18:50:16.189Z
+updatedAt: 2025-02-12T11:25:36.700Z
+publishedAt: 2025-02-12T11:25:36.700Z
 firstPublishedAt: 2019-01-24T22:05:40.851Z
 contentType: tutorial
 productTeam: Billing
@@ -27,13 +27,13 @@ All orders that received this status are considered on the invoice, regardless o
 Even in the case of tests, later cancellations or Anti-Fraud, we understand that the entire platform has been used, since this is the stage at which the customer completes the entire purchase process, having used the Search, Infra and Hosting resources, for example.
 
 
-To learn how to access the orders that were considered for revenues calculation, read this article [here](https://help.vtex.com/en/tutorial/how-to-access-the-value-of-approved-revenues--tutorials_4322).
+To learn how to access the orders that were considered for revenues calculation, read this article [here](/en/tutorial/how-to-access-the-value-of-approved-revenues--tutorials_4322).
 
 
 All financially approved orders will receive this status, which can be seen in the orders management module:
 
 
-![image (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/what-does-vtex-consider-as-revenue-in-the-billing-calculation_1.png)
+![image (2)](https://images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
 
 
 To access this module, follow the step by step below:

@@ -1,5 +1,5 @@
 ---
-title: 'O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando.'
+title: "O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando."
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: license-manager-access-for-sales-channel-management-is-not-working
+slugEN: o-acesso-do-license-manager-para-o-gerenciamento-de-politicas-comerciais-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 380904
@@ -18,7 +18,9 @@ internalReference: 380904
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na configuração do Gerente de Licenças, podemos selecionar qual recurso o usuário pode acessar. O gerenciamento dos Canais de Vendas não está dando acesso à página de configuração do Canal de Vendas: `account.myvtex.com/admin/Site/Store.aspx'.
@@ -30,13 +32,13 @@ Na configuração do Gerente de Licenças, podemos selecionar qual recurso o usu
 
 - Alterar uma função do usuário para acessar apenas a Gerência de Canais de Vendas:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-acesso-do-license-manager-para-o-gerenciamento-de-politicas-comerciais-nao-esta-funcionando_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QdfNIgaeWKO0TQNp7JHBXuhtW/?name=inline-650484840.png)
 
 - Tente acessar esta página: `account.myvtex.com/admin/Site/Store.aspx`
 
 A página não estará disponível no menu:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-acesso-do-license-manager-para-o-gerenciamento-de-politicas-comerciais-nao-esta-funcionando_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/uomLWmfD9EIbUO6HnbljCA7e3/?name=inline671843796.png)
 
 
 

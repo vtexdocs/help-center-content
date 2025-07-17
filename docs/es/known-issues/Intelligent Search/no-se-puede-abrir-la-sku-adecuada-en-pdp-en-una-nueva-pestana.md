@@ -1,5 +1,5 @@
 ---
-title: 'No se puede abrir la SKU adecuada en PDP en una nueva pestaña'
+title: "No se puede abrir la SKU adecuada en PDP en una nueva pestaña"
 id: 26kt6vcKm02TMXDFQPA3ES
 status: PUBLISHED
 createdAt: 2023-07-31T21:20:31.271Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab
+slugEN: no-se-puede-abrir-la-sku-adecuada-en-pdp-en-una-nueva-pestana
 locale: es
 kiStatus: Backlog
 internalReference: 871848
@@ -18,7 +18,9 @@ internalReference: 871848
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la función detach para dividir productos por alguna especificación SKU y se intenta abrir una nueva pestaña de PLP a PDP, no reconoce el parámetro de propiedad que se pasa a la URL para seleccionar el SKU correcto, sólo muestra el SKU adecuado al abrir en la misma pestaña.

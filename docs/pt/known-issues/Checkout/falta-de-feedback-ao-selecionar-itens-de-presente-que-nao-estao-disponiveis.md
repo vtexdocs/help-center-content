@@ -1,5 +1,5 @@
 ---
-title: 'Falta de feedback ao selecionar itens de presente que não estão disponíveis'
+title: "Falta de feedback ao selecionar itens de presente que não estão disponíveis"
 id: 2brpWqVbJLVoFlztAQPy3n
 status: PUBLISHED
 createdAt: 2022-09-30T16:40:09.600Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lack-of-feedback-while-selecting-gift-items-that-arent-available
+slugEN: falta-de-feedback-ao-selecionar-itens-de-presente-que-nao-estao-disponiveis
 locale: pt
 kiStatus: Fixed
 internalReference: 648767
@@ -18,7 +18,9 @@ internalReference: 648767
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A seleção de um item de presente no carrinho que não tenha estoque não dará nenhum retorno. Após selecionar o presente, o pedido de API será feito, mas quando ele responde, a seleção do presente é simplesmente removida.

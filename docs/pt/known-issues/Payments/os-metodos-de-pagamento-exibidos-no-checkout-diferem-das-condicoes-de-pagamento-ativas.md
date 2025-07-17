@@ -1,5 +1,5 @@
 ---
-title: 'Os métodos de pagamento exibidos no checkout diferem das condições de pagamento ativas'
+title: "Os métodos de pagamento exibidos no checkout diferem das condições de pagamento ativas"
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payment-methods-displayed-at-checkout-differ-from-active-payment-conditions
+slugEN: os-metodos-de-pagamento-exibidos-no-checkout-diferem-das-condicoes-de-pagamento-ativas
 locale: pt
 kiStatus: Backlog
 internalReference: 666469
@@ -18,7 +18,9 @@ internalReference: 666469
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

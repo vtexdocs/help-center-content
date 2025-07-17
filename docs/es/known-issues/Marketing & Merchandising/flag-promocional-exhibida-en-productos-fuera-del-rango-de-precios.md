@@ -1,5 +1,5 @@
 ---
-title: 'Flag promocional exhibida en productos fuera del rango de precios'
+title: "Flag promocional exhibida en productos fuera del rango de precios"
 id: 7kJl5tyxAAOoiqW2sQcY6u
 status: PUBLISHED
 createdAt: 2018-04-10T15:21:04.585Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: promotional-flag-displayed-on-products-outside-of-the-price-range
+slugEN: flag-promocional-exhibida-en-productos-fuera-del-rango-de-precios
 locale: es
 kiStatus: Backlog
 internalReference: 

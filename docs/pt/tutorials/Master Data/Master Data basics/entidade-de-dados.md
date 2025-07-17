@@ -19,16 +19,17 @@ Entidade de dados é uma representação de um conjunto de informações sobre u
 
 Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistema controla livros que podem ser alugados por clientes. Então, percebemos que esses 3 conceitos (livro, cliente, aluguel) são entidades que possuem informações sobre cada uma delas. Entidade de dados, portanto, é um grupo de informações sobre determinado conceito.
 
-![data-entity-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20basics/entidade-de-dados_1.png)
+![data-entity-pt](https://images.ctfassets.net/alneenqid6w5/4w7gskl1jpuzrFm4gj5K0J/82f3ea4c99a28baa362e8698f24dc924/data-entity-pt.png)
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 
->⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
->
-> * [Características das versões do Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versoes-disponiveis)
->
-> * [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)
->     
+<div class="alert alert-warning">
+<p>Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:</p>
+    <ul>
+        <li><a href="https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versoes-disponiveis">Características das versões do Master Data</a></li>
+        <li><a href="https://developers.vtex.com/docs/guides/master-data-v2-basics">Master Data v2</a></li>
+    </ul>
+</div>
 
 ## Tipos de dados
 
@@ -105,4 +106,6 @@ Siga o passo a passo abaixo para configurar uma nova entidade de dados.
 21. Clique na aba __Aplicações__ para voltar à página inicial do Master Data.
 22. Clique em `Recarregar aplicações`.
 
->ℹ️ Após a criação da entidade de dados, é necessário [criar o formulário para a inserção, alteração e exibição de dados no Master Data](https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data--tutorials_1047).
+<div class="alert alert-info">
+    <p>Após a criação da entidade de dados, é necessário <a href="https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data--tutorials_1047">criar o formulário para a inserção, alteração e exibição de dados no Master Data</a>.</p>
+</div>

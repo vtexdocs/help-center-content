@@ -1,5 +1,5 @@
 ---
-title: 'Search analytics report divergences between versions with/without funnel metrics'
+title: "Search analytics report divergences between versions with/without funnel metrics"
 id: 33lXZb4Nr2NOPgW2Cth9ry
 status: PUBLISHED
 createdAt: 2024-02-09T19:01:45.952Z

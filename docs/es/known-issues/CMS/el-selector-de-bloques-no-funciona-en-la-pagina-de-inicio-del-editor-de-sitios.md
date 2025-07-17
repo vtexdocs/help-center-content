@@ -1,5 +1,5 @@
 ---
-title: 'El selector de bloques no funciona en la página de inicio del Editor de Sitios'
+title: "El selector de bloques no funciona en la página de inicio del Editor de Sitios"
 id: 5E1rjZUaL9Jo25JtGcf77C
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:56.902Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: block-selector-not-working-at-site-editor-home-page
+slugEN: el-selector-de-bloques-no-funciona-en-la-pagina-de-inicio-del-editor-de-sitios
 locale: es
 kiStatus: Backlog
 internalReference: 431941
@@ -18,7 +18,9 @@ internalReference: 431941
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al acceder al Editor de Sitios, el selector de bloques no funciona inmediatamente.

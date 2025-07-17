@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect delivery date for marketplace orders having external shipping'
+title: "Incorrect delivery date for marketplace orders having external shipping"
 id: 4h0Dk87KX6oGY2kGwG2kGS
 status: PUBLISHED
 createdAt: 2018-11-15T17:26:02.509Z

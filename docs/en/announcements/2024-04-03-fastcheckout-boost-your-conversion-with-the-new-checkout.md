@@ -3,8 +3,8 @@ title: 'FastCheckout: Boost your conversion with the new checkout'
 id: 1sOAAmRehyJ1YkzbG4BkE2
 status: PUBLISHED
 createdAt: 2024-04-03T18:54:06.111Z
-updatedAt: 2024-04-23T10:00:03.018Z
-publishedAt: 2024-04-23T10:00:03.018Z
+updatedAt: 2025-05-12T20:21:51.443Z
+publishedAt: 2025-05-12T20:21:51.443Z
 contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Introducing FastCheckout: Checkout innovation for custo
 
 Committed to continuously innovating and delivering excellence to our clients, VTEX introduces **FastCheckout**, the latest evolution of our checkout. This new solution allows us to create custom checkout experiences with high conversion rates and is constantly updated with new features.
 
-![fastcheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout_1.png)
+![fastcheckout](https://images.ctfassets.net/alneenqid6w5/42O8ebq6UcdyuSyvUukhM/15f7c568ca3e481a52d3c93ecc9865bf/image.png)
 
 ## What has changed?
 
@@ -48,13 +48,15 @@ FastCheckout allows you to create a customizable checkout experience, adapting t
 
 We allow you to add fully custom elements, without having to be familiar with JavaScript or CSS.
 
->⚠️ The first version released of FastCheckout allows limited customization. Soon, you will be able to fully customize the content using the FastStore Platform extensions.
+<div class="alert alert-warning">
+  <p>The first version released of FastCheckout allows limited customization. Soon, you will be able to fully customize the content using the FastStore Platform extensions.</p>
+</div>
 
 ### New purchase flow
 
 The new purchase flow in FastCheckout is designed to be dynamic and intuitive, providing your customers with a more fluid and streamlined buying experience. We've made the checkout process more efficient with clear steps and intuitive navigation.
 
-![GIFCheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024-04-03-fastcheckout-boost-your-conversion-with-the-new-checkout_2.gif)
+![GIFCheckout](https://images.ctfassets.net/alneenqid6w5/3BruRej7wHet2sTobFDLBD/0f6cf76a12a01a77905195ba835d5028/GIFCheckout.gif)
 
 ## Why did we make this change?
 
@@ -63,6 +65,10 @@ The redesigned checkout aims to boost store conversions and simplify the customi
 We have made customization significantly easier, adapting the user experience to the specific needs of the Admin.
 
 ## What needs to be done?
+
+<div class="alert alert-warning">
+<p>The FastCheckout early access program is only available for stores located in the United States.</p>
+</div>
 
 To join the FastCheckout early access program, please contact [our support](https://support.vtex.com/hc/en/requests). The VTEX team will contact you and assess whether the features available in this first release meet your needs. If so, you will be invited to join our beta program, and all users in your store account will be upgraded to the new experience. No additional configuration is required.
 

@@ -33,4 +33,4 @@ The maximum capture time frame must be configured when adding an affiliation.
 
 In the Admin, retailers must fill out the form to configure the automatic capture feature. It has two new fields: "Payment with anticipated capture authorization" and "Change maximum time for automatic payment capture".
 
-For more details, check out the [tutorial on how to fill in these fields and enable automatic capture](https://help.vtex.com/en/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2 "tutorial on how to fill in these fields and enable automatic capture").
+For more details, check out the [tutorial on how to fill in these fields and enable automatic capture](/en/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2 "tutorial on how to fill in these fields and enable automatic capture").

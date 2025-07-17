@@ -1,5 +1,5 @@
 ---
-title: 'Cart Itens are kept in orders with total value zero'
+title: "Cart Itens are kept in orders with total value zero"
 id: 66D6RuacgCeCMQDmLPrlNP
 status: PUBLISHED
 createdAt: 2024-06-24T20:59:07.721Z

@@ -1,5 +1,5 @@
 ---
-title: 'Regra de divergência Dafiti'
+title: "Regra de divergência Dafiti"
 id: 6zVEr0022MiqlBqPNST169
 status: PUBLISHED
 createdAt: 2022-06-21T14:02:08.198Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: divergence-rule-dafiti
+slugEN: regra-de-divergencia-dafiti
 locale: pt
 kiStatus: Backlog
 internalReference: 594648
@@ -18,7 +18,9 @@ internalReference: 594648
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Pagamentos falhados criados pela caixa UI (transação sem pagamentos)'
+title: "Pagamentos falhados criados pela caixa UI (transação sem pagamentos)"
 id: 1LiK9rfhz2ULgmaitcYyyH
 status: PUBLISHED
 createdAt: 2022-09-26T14:32:12.988Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: failed-payments-created-by-checkout-ui-transaction-without-payments
+slugEN: pagamentos-falhados-criados-pela-caixa-ui-transacao-sem-pagamentos
 locale: pt
 kiStatus: Backlog
 internalReference: 339243
@@ -18,7 +18,9 @@ internalReference: 339243
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Casos de pedidos incompletos onde suas transações não têm pagamentos.

@@ -15,7 +15,9 @@ legacySlug: configurar-regla-de-precio-para-politica-comercial
 subcategoryId: wUepkh8pzimEywO8oGUIc
 ---
 
->ℹ️ Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
+<div class="alert alert-info">
+Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
+</div>
 
 Una __regla de precio__ es un conjunto de condiciones que determinan los precios para una cierta política comercial.
 
@@ -36,8 +38,8 @@ Ahora su tienda ya tiene una regla de precio configurada para una política come
 
 ## Más información
 
-- [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona una Política Comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Crear una política comercial](https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](https://help.vtex.com/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Registrar el precio base de un producto](https://help.vtex.com/es/tutorial/registering-a-products-base-price--4S9SbPWlVmOAAWO6yq8wE6)
+- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Como funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Crear una política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Configurar política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Registrar el precio base de un producto](/es/tutorial/registering-a-products-base-price--4S9SbPWlVmOAAWO6yq8wE6)

@@ -3,8 +3,8 @@ title: 'Promoção regular com desconto nominal baseado em fórmula'
 id: 2Pwrq6THyGViNedQG381jV
 status: PUBLISHED
 createdAt: 2022-04-18T16:51:30.736Z
-updatedAt: 2022-04-18T23:30:41.740Z
-publishedAt: 2022-04-18T23:30:41.740Z
+updatedAt: 2024-12-10T18:19:53.940Z
+publishedAt: 2024-12-10T18:19:53.940Z
 firstPublishedAt: 2022-04-18T20:27:39.893Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,13 +15,13 @@ legacySlug: promocao-regular-com-desconto-nominal-baseado-em-formula
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Ao criar uma [promoção regular](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327) em **Promoções e Taxas** > **Promoções** > 'Nova Promoção' > 'Promoção Regular', uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
+Ao criar uma [promoção regular](/pt/tutorial/promocao-regular--tutorials_327) em **Promoções** > **Promoções** > **Criar Promoção** > **Promoção Regular**, uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
 
 Selecionando esse tipo de desconto, você precisa criar uma fórmula para definir qual será o cálculo do desconto aplicado. Neste artigo, explicamos como construir uma fórmula para atender aos objetivos da sua promoção.
 
-![tipo-desconto-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocao-regular-com-desconto-nominal-baseado-em-formula_1.png)
+![tipo-desconto-formula](https://images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/fa412a32b6d8d56b3652332ade308dd0/image1.png)
 
-De modo geral, a fórmula para calcular o desconto nominal da promoção segue a mesma lógica das [fórmulas do Microsoft Excel](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), ou seja, você pode utilizar [variáveis](#variaveis) (`total`, `freight` e `quantity`), realizar [operações](#operacoes) (soma, subtração, multiplicação e divisão), e aplicar [funções](#funcoes) (`min` e `max`).
+Para construir sua fórmula, você pode utilizar [variáveis](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#variaveis), como total, freight e quantity, realizar [operações](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#operacoes) (soma, subtração, multiplicação e divisão) e aplicar [funções](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#funcoes), como `min` , `max` e `floor`.
 
 ## Variáveis
 
@@ -48,13 +48,17 @@ Você pode fazer uma operação de multiplicação para calcular o percentual de
 
 Para priorizar um cálculo antes de outro, escreva o cálculo que deve ser realizado antes entre parênteses `()`. Exemplo: se uma loja quer aplicar o desconto de 40% sobre o valor total somado ao frete, a fórmula deve ser `(total + freight) * 0.4`.
 
->ℹ️ Use sempre o ponto (`.`) como separador decimal.
+<div class="alert alert-info">
+  <p>Use sempre o ponto (<code>.</code>) como separador decimal.</p>
+</div>
 
 ## Funções
 
-Se desejar, você pode usar a função `min` para [limitar o valor do desconto](#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](#priorizar-o-maior-desconto-possivel). Continue a leitura para mais detalhes sobre essas possibilidades.
+Se desejar, você pode usar a função `min` para [limitar o valor do desconto](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#priorizar-o-maior-desconto-possivel). A função `floor` permite obter a parte inteira de um valor, descartando a parte decimal. Veja mais detalhes sobre como aplicar essas funções a seguir.
 
->ℹ️ Ao utilizar funções, é necessário incluir um espaço entre a função e os parênteses de abertura. Exemplo: `min (total * 0.2, 10)`.
+<div class="alert alert-info">
+<p>Ao utilizar funções, é necessário incluir um espaço entre a função e os parênteses de abertura. Exemplo: <code>min (total * 0.2, 10)</code>.</p>
+</div>
 
 ### Limitar o valor do desconto
 
@@ -74,19 +78,19 @@ Assim, a promoção vai aplicar o menor valor de desconto em cada caso, comparan
 
 Um cliente adicionou ao carrinho um item cujo preço é R$45. Ao calcular 20% do total do preço, o resultado é 9, já que `total * 0.2 = 9`. Como 9 está abaixo do valor limite de desconto, o desconto aplicado será R$9.
 
-![cenario-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocao-regular-com-desconto-nominal-baseado-em-formula_2.png)
+![cenario-1](https://images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/f02144b4ab13eedb33d12f478c273f3d/image3.png)
 
 #### Cenário 2
 
 Outro cliente adicionou ao carrinho um item cujo preço é R$ 2600. Calculando 20% desse valor, o resultado é 520, já que `total * 0.2 = 520`. Como esse valor está acima do limite (R$10), o desconto aplicado será de R$10.
 
-![cenario-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocao-regular-com-desconto-nominal-baseado-em-formula_3.png)
+![cenario-2](https://images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/8da8d4eb9f5facad8c1023e115a9cdae/image7.png)
 
 #### Cenário 3
 
 Um terceiro cliente adicionou dois itens ao carrinho: um cujo preço é R$100 e outro cujo preço é R$2600. A soma desses valores é R$2700, visto que `total = 2700`. Ao calcular 20% do valor total, obtemos o resultado de 540, já que `total * 0.2 = 540`. Como esse valor está acima do limite (R$10), o desconto total aplicado será de R$10.
 
-![cenario-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocao-regular-com-desconto-nominal-baseado-em-formula_4.png)
+![cenario-3](https://images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/2d57ca1c8a1f0093721d6fc14fc96095/image2.png)
 
 O desconto total de R$10 é distribuído proporcionalmente entre os itens, considerando o preço e a quantidade de cada um. Essa distribuição é feita automaticamente pela plataforma, seguindo a lógica explicada a seguir.
 
@@ -109,3 +113,17 @@ max ((total + freight) * 0.1, 5)
 ```
 
 Assim, a promoção vai aplicar o maior valor de desconto em cada caso, comparando o valor mínimo de R$5 ao cálculo de 10% do total somado ao frete.
+
+### Aplicar desconto múltiplo com valor arredondado para baixo
+
+Para aplicar um desconto múltiplo com base no valor arredondado para baixo, use a função `floor`, que arredonda o resultado de uma divisão para o inteiro inferior.
+
+Por exemplo, em uma promoção que oferece um desconto de R$10 para cada R$100 em compras, calcule quantas vezes R$100 se encaixa no valor total do pedido, arredondando para baixo. Multiplique então o valor de R$10 pela quantidade de parcelas inteiras de R$100 no total do pedido para determinar o desconto.
+
+Veja abaixo a estrutura da fórmula que permite calcular o desconto:
+
+```
+floor(total / 100) * 10
+```
+
+Essa promoção aplica o valor máximo de desconto possível com base no total da compra, considerando apenas múltiplos inteiros de R$100. Por exemplo, se o total do pedido for R$250, o cálculo aplicará um desconto de R$20, já que R$100 cabe duas vezes em R$250.

@@ -1,5 +1,5 @@
 ---
-title: 'O simulador logístico está mostrando a moeda padrão em vez da moeda local.'
+title: "O simulador logístico está mostrando a moeda padrão em vez da moeda local."
 id: AJSCxyexbrBHYyJTCWse6
 status: PUBLISHED
 createdAt: 2022-03-15T20:21:46.628Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: logistics-simulator-is-showing-default-currency-instead-of-local-currency
+slugEN: o-simulador-logistico-esta-mostrando-a-moeda-padrao-em-vez-da-moeda-local
 locale: pt
 kiStatus: Backlog
 internalReference: 514551
@@ -18,7 +18,9 @@ internalReference: 514551
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

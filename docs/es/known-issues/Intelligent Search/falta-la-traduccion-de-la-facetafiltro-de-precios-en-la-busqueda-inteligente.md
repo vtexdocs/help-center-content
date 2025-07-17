@@ -1,5 +1,5 @@
 ---
-title: 'Falta la traducción de la faceta/filtro de precios en la Búsqueda Inteligente'
+title: "Falta la traducción de la faceta/filtro de precios en la Búsqueda Inteligente"
 id: 6c6GnC1dKGViJ2h0ZoY5pm
 status: PUBLISHED
 createdAt: 2024-01-31T21:33:04.796Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: missing-translation-for-the-price-facetfilter-at-intelligent-search
+slugEN: falta-la-traduccion-de-la-facetafiltro-de-precios-en-la-busqueda-inteligente
 locale: es
 kiStatus: Backlog
 internalReference: 974840
@@ -18,7 +18,9 @@ internalReference: 974840
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Inteligente no aplica la traducción al nombre del filtro/facet "precio" para idiomas adicionales cuando se consulta a través de REST API.

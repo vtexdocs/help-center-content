@@ -1,5 +1,5 @@
 ---
-title: 'Datos incorrectos en pickupStoreInfo tras la creación del pedido'
+title: "Datos incorrectos en pickupStoreInfo tras la creación del pedido"
 id: 3OJzisIkFTyo97LCuiaytR
 status: PUBLISHED
 createdAt: 2023-03-28T16:11:55.486Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-data-in-pickupstoreinfo-after-order-creation
+slugEN: datos-incorrectos-en-pickupstoreinfo-tras-la-creacion-del-pedido
 locale: es
 kiStatus: Fixed
 internalReference: 347155
@@ -18,7 +18,9 @@ internalReference: 347155
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunas ocasiones, donde tenemos 1 artículo con opción de entrega y el otro artículo con opción de recogida. Los datos `pickupStoreInfo` se rellenan incorrectamente después de finalizar el pedido.

@@ -1,24 +1,26 @@
 ---
-title: 'Las normas de merchandising visual se extienden erróneamente a contextos más amplios'
+title: "Las normas de merchandising visual se extienden erróneamente a contextos más amplios"
 id: 2wXWYnsHwYrXByNRu3HdBK
 status: PUBLISHED
 createdAt: 2024-09-13T22:19:38.122Z
-updatedAt: 2024-11-11T16:45:01.734Z
-publishedAt: 2024-11-11T16:45:01.734Z
+updatedAt: 2025-01-02T16:08:44.962Z
+publishedAt: 2025-01-02T16:08:44.962Z
 firstPublishedAt: 2024-09-13T22:19:39.138Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: visual-merchandising-rules-wrongly-extendeded-to-broader-contexts
+slugEN: las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios
 locale: es
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 1098688
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las reglas de merchandising visual se establecen para contextos específicos definiendo filtros por atributos o términos de búsqueda, pero los filtros no se están limitando a su contexto exclusivo, generando resultados de búsqueda inesperados y entrando en conflicto con reglas de merchandising diferentes para otras páginas.

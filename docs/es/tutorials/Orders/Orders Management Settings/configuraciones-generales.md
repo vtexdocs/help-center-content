@@ -19,7 +19,7 @@ Es posible realizar configuraciones directamente relacionadas con las condicione
 
 En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Configuración**, o escribe *Pedidos* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Pedidos*.  
 
-![configuracoes_pedidos_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20Management%20Settings/configuraciones-generales_1.png)
+![configuracoes_pedidos_es](https://images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/228fb71ccb74cc99cb820bac2b5a94d1/configuracoes_pedidos_es.png)
 
 ## Carrito
 
@@ -52,10 +52,10 @@ Estas son las opciones en Pedidos:
 ### Modo de previsualización
 
 - **Dividir la vista por Hostname en el Admin:** separa los pedidos por nombre de host en la lista de pedidos. Si la opción está marcada, solo se mostrarán las solicitudes que se refieran al host en su cuenta respectiva. Si la opción no está marcada, todos los pedidos registrados en los dominios de la tienda se mostrarán en todas las cuentas.
-- **Dividir la vista por Hostname en MyAccount:** separa los pedidos por nombre de host en la cuenta del comprador - [MyAccount](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+- **Dividir la vista por Hostname en MyAccount:** separa los pedidos por nombre de host en la cuenta del comprador - [MyAccount](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ### Tipo de máscara de la conversación
 
 Esta configuración permite definir la configuración del Conversation Tracker. Permite alterar la visualización de los correos electrónicos de sus clientes entre los modos **Compleja** o **Simple**. Los modos alteran la forma en que se presenta el correo electrónico en el flujo de pedidos añadiendo una máscara.
 - **Compleja:** crea un alias (correo electrónico alternativo) de forma ilegible, evitando así la identificación del correo electrónico por sistemas externos.
-- **Simple:** crea un alias de menor complejidad para el correo electrónico del usuario comprador, haciendo que el correo electrónico siga siendo legible en la UI del OMS y cuando se vea en el JSON del pedido. Si quiere saber más, acceda a nuestro artículo sobre [cómo se realiza la comunicación con el cliente durante el flujo del pedido](https://help.vtex.com/es/tutorial/conversation-tracker--tutorials_195?locale=pt).
+- **Simple:** crea un alias de menor complejidad para el correo electrónico del usuario comprador, haciendo que el correo electrónico siga siendo legible en la UI del OMS y cuando se vea en el JSON del pedido. Si quiere saber más, acceda a nuestro artículo sobre [cómo se realiza la comunicación con el cliente durante el flujo del pedido](/es/tutorial/conversation-tracker--tutorials_195?locale=pt).

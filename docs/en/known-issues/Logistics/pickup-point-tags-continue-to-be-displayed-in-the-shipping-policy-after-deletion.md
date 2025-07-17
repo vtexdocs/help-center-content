@@ -1,5 +1,5 @@
 ---
-title: 'Pickup point tags continue to be displayed in the shipping policy after deletion.'
+title: "Pickup point tags continue to be displayed in the shipping policy after deletion."
 id: 2ZcIGeYUud4bQJrAd5MMLb
 status: PUBLISHED
 createdAt: 2024-04-10T18:52:17.457Z

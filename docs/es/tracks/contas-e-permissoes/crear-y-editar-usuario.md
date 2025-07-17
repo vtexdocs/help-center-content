@@ -23,7 +23,7 @@ Es en esta sección donde registramos quién puede acceder al ambiente administr
 1. En el módulo Gestión de la Cuenta, haga clic en la pestaña **Usuarios**.
 2. Haga clic en el botón **Nuevo usuario**.
 3. Complete el **Correo electrónico** y el **Nombre completo**.
-4. Agregue o cree los [roles](https://help.vtex.com/es/tutorial/gerenciando-usuarios--tutorials_512) deseados.
+4. Agregue o cree los [roles](/es/tutorial/gerenciando-usuarios--tutorials_512) deseados.
 5. Haga clic en el botón **Guardar**.
 
 El usuario recibirá un correo electrónico confirmando el registro, con un enlace para registrar la contraseña de acceso.
@@ -46,4 +46,6 @@ No se puede cambiar el correo electrónico. Para esto, es necesario hacer un nue
 2. Seleccione el usuario deseado y haga clic en el **ícono del bote de basura** en la columna de acciones.
 3. Haga clic en **confirmar**.
 
->ℹ️ Aunque los tokens de integración aparecen en la lista de usuarios, no se pueden eliminar. Para deshabilitarlos, vaya a *Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta* y desmarque el campo **Estado de los tokens**.
+<div class="alert alert-info">
+Aunque los tokens de integración aparecen en la lista de usuarios, no se pueden eliminar. Para deshabilitarlos, vaya a <em>Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta</em> y desmarque el campo <strong>Estado de los tokens</strong>.
+</div>

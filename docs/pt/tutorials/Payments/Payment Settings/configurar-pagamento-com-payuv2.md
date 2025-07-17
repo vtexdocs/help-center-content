@@ -34,15 +34,15 @@ Para configurar o PayUv2, siga os passos abaixo:
    		<li><b>Liquidação automática imediatamente após a análise antifraude</b>: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
    		<li><b>Desativado</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
-8. Caso deseje utilizar o [split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 9. Em __Campos do provedor__, no campo __Tipo Autorizacion__, selecione se suas transações de pagamento são executadas em fluxos de uma ou duas etapas. Para fluxos de uma etapa, selecione __Autorizacion y Captura__. Para fluxos de duas etapas, selecione __Pre-Autorizacion__.
 10. Em __Public Key__, informe a sua chave API da PayU.
 11. Em __Idioma__, selecione qual linguagem deve ser utilizada no sistema da PayU.
 12. Em __Expiración pago (días)__, selecione o período em que deseja configurar o vencimento de pagamentos realizados por promissórias.
 13. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o provedor PayUv2 pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

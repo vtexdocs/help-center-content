@@ -15,7 +15,7 @@ legacySlug: procedimiento-de-cuentas-a-pagar-internacional
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->ℹ️ **Procedimiento destinado a todas las sucursales VTEX, excepto Brasil.**
+<div class="alert alert-info" role="alert"><strong>Procedimiento destinado a todas las sucursales VTEX, excepto Brasil.</strong></div>
 
 Para garantizar la conformidad de todos los pagos realizados fuera del Brasil, se debe hacer el siguiente procedimiento:
 

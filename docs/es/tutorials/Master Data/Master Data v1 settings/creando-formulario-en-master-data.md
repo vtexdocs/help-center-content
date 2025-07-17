@@ -40,7 +40,7 @@ Para crear un formulario, sigue los pasos a continuación:
 
    Si el acrónimo de la entidad __Lista de compras__ es __LC__ y el nombre del campo es __Cliente__, se debe insertar: `LC.Cliente`. Así serán cargados los atendimientos del cliente que se está visualizando en el formulario:
 
-   ![registrosRelacionados-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20settings/creando-formulario-en-master-data_1.png)
+   ![registrosRelacionados-es](https://images.ctfassets.net/alneenqid6w5/3j6iBpbL7ao6soYaME4e2a/e5f7e4a9c173af6654b4e7123d3c79c2/Untitled.png)
 
 Después de llenar los campos requeridos, aparecerán las fichas disponibles para configuración. Los siguientes son los campos para cada una de ellas.
 
@@ -55,5 +55,5 @@ Después de llenar los campos requeridos, aparecerán las fichas disponibles par
 
    Estos trés pasos pueden ser repetidos hasta que se tenga el formulario en el formato que se desea. Es posible registrar varios campos en la misma columna así cómo es posible crear varias secciones. 
 
-- **Consultas:** Sirve solamente para exhibir las [consultas creadas en la lista](https://help.vtex.com/es/tutorial/creando-una-cconsulta-customizada-en-el-vtex-master-data--tutorials_799).
+- **Consultas:** Sirve solamente para exhibir las [consultas creadas en la lista](/es/tutorial/creando-una-cconsulta-customizada-en-el-vtex-master-data--tutorials_799).
 - **Hoja de estilo:** La sección para registrar los estilos (CSS) para la edición del frontend del formulario.

@@ -1,5 +1,5 @@
 ---
-title: "HUB Giftcard definindo 'R$' como a moeda automática na IU"
+title: 'HUB Giftcard definindo "R$" como a moeda automática na IU'
 id: 2ODtc4t1GSo3iUjT9Gk0uk
 status: PUBLISHED
 createdAt: 2022-11-03T12:57:31.895Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: giftcard-hub-setting-r-as-the-automatic-currency-on-the-ui
+slugEN: hub-giftcard-definindo-r-como-a-moeda-automatica-na-iu
 locale: pt
 kiStatus: Backlog
 internalReference: 690794
@@ -18,7 +18,9 @@ internalReference: 690794
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

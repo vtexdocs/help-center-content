@@ -1,5 +1,5 @@
 ---
-title: 'Configurações avançadas da loja sendo registradas globalmente através de'
+title: "Configurações avançadas da loja sendo registradas globalmente através de"
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: advanced-store-settings-being-registered-globally-insted-of-by-binding
+slugEN: configuracoes-avancadas-da-loja-sendo-registradas-globalmente-atraves-de
 locale: pt
 kiStatus: Backlog
 internalReference: 783835
@@ -18,7 +18,9 @@ internalReference: 783835
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
@@ -35,7 +37,7 @@ https://github.com/vtex-apps/store/blob/46e3df3ecba20170fc3a6eebf12370969e3b5abf
 
 Você precisará de uma loja com encadernação múltipla e habilitar a encadernação para as configurações da loja em admin/cms/store:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/configuracoes-avancadas-da-loja-sendo-registradas-globalmente-atraves-de_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/CNgIedTpUI7LPWqCEfA10HIxz/?name=image.png)
 
 Salve suas configurações avançadas e verifique as configurações de sua loja vtex:
 
@@ -53,7 +55,7 @@ Você notará que as configurações avançadas estarão fora dos contextos de v
 
 Adicione as configurações que você deseja através de um PUT na chave de configurações dentro de um dos objetos da encadernação:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/configuracoes-avancadas-da-loja-sendo-registradas-globalmente-atraves-de_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JYKSnxOk9qHdm8RGGp9IutNB3/?name=image.png)
 
 
 

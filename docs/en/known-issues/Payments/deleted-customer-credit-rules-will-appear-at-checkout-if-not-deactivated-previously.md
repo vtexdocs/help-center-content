@@ -1,5 +1,5 @@
 ---
-title: 'Deleted Customer Credit rules will appear at checkout if not deactivated previously'
+title: "Deleted Customer Credit rules will appear at checkout if not deactivated previously"
 id: 7culNJ04UcZfzgHFREyNEs
 status: PUBLISHED
 createdAt: 2024-03-04T23:12:22.826Z

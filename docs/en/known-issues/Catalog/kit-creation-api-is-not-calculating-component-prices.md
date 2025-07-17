@@ -1,5 +1,5 @@
 ---
-title: 'Kit Creation API is not Calculating Component Prices'
+title: "Kit Creation API is not Calculating Component Prices"
 id: 3yyIEv6o3CjIbUg4KoLOWT
 status: PUBLISHED
 createdAt: 2023-03-28T16:34:55.491Z

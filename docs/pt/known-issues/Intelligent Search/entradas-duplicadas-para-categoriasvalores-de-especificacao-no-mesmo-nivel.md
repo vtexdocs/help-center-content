@@ -1,5 +1,5 @@
 ---
-title: 'Entradas duplicadas para categorias/valores de especificação no mesmo nível'
+title: "Entradas duplicadas para categorias/valores de especificação no mesmo nível"
 id: IoWI8yx1cabm4bWhSU4Ek
 status: PUBLISHED
 createdAt: 2022-04-18T18:53:37.507Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: duplicated-entries-for-categoriesspecification-values-on-the-same-level
+slugEN: entradas-duplicadas-para-categoriasvalores-de-especificacao-no-mesmo-nivel
 locale: pt
 kiStatus: No Fix
 internalReference: 562588
@@ -18,13 +18,15 @@ internalReference: 562588
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Não é possível identificar a diferença (id) entre as especificações dos módulos SI quando eles têm o mesmo nome e estão no mesmo nível
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent%20Search/entradas-duplicadas-para-categoriasvalores-de-especificacao-no-mesmo-nivel_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4IkRStz0ewiubTt0pwHLx5SJ0/?name=image.png)
 
 
 

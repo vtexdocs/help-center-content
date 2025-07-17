@@ -1,5 +1,5 @@
 ---
-title: "Campo 'Url Logo' no campo 'Update Seller Request not Updating'."
+title: 'Campo "Url Logo" no campo "Update Seller Request not Updating".'
 id: 1WmNl3RgesWAUL8rjitJV1
 status: PUBLISHED
 createdAt: 2022-01-21T15:18:15.945Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: url-logo-field-in-the-update-seller-request-not-updating
+slugEN: campo-url-logo-no-campo-update-seller-request-not-updating
 locale: pt
 kiStatus: Fixed
 internalReference: 271480
@@ -18,7 +18,9 @@ internalReference: 271480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Tentar atualizar o campo "UrlLogo" na rota /api/catalog_system/pvt/seller não está refletindo nenhuma mudança.

@@ -33,7 +33,7 @@ To configure Shipay, follow the steps below:
 3. Under __Instant Payment__, select the __Pix__ option.
 4. Under __Process with affiliation__, select the __Shipay__ connector.
 5. Activate the condition in the __Status__ field.
-6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click on `Save`.
 
 After following the indicated steps, Shipay connector may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -1,5 +1,5 @@
 ---
-title: 'La ordenación de los grupos de especificaciones desde la categoría raíz no funciona'
+title: "La ordenación de los grupos de especificaciones desde la categoría raíz no funciona"
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: ordering-of-specification-groups-from-the-root-category-does-not-work
+slugEN: la-ordenacion-de-los-grupos-de-especificaciones-desde-la-categoria-raiz-no-funciona
 locale: es
 kiStatus: No Fix
 internalReference: 634129
@@ -18,7 +18,9 @@ internalReference: 634129
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se crean grupos de especificaciones en la categoría raíz, no es posible reordenarlos por parte del administrador o de la API

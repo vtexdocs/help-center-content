@@ -13,21 +13,27 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 locale: pt
 legacySlug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Master Data v1, Cliente, Endereço, Multiloja
 ---
 
-No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](https://help.vtex.com/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), os formulários não são criados automaticamente.
+**Tags:** Master Data v1, Cliente, Endereço, Multiloja
 
->⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
->
-> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-> Características das versões do Master Data
-> </a>
->
-> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-> Master Data v2
-> </a>
-> 
+No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), os formulários não são criados automaticamente.
+
+<div class="alert alert-warning">
+Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+<ul>
+<li>
+<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+Características das versões do Master Data
+</a>
+</li>
+<li>
+<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+Master Data v2
+</a>
+</li>
+</ul>
+</div>
 
 ## Solução
 

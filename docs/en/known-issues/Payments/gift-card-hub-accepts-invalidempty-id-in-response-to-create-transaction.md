@@ -1,5 +1,5 @@
 ---
-title: 'Gift Card HUB accepts Invalid/Empty ID in response to create transaction'
+title: "Gift Card HUB accepts Invalid/Empty ID in response to create transaction"
 id: 3ODSXijmpvkk55FUqMcGvQ
 status: PUBLISHED
 createdAt: 2023-07-05T12:50:36.661Z

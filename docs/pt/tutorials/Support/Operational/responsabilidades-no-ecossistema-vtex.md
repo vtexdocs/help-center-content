@@ -30,7 +30,7 @@ Durante a configuração inicial da VTEX, caso a sua loja utilize [integrações
 
 Uma vez configurada a integração inicial de produtos, preços e inventário, e desenvolvido o middleware, o fluxo de informações será conforme o diagrama a seguir.
 
-![back-office-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_1.PNG)
+![back-office-pt](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/6bc291243b2b38f8a570d404d88e055e/back-office-pt.PNG)
 
 Durante a rotina da operação, as responsabilidades são divididas da seguinte forma:
 
@@ -150,13 +150,13 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
 Ao detectar qualquer inconsistência ou erro durante a transação de pagamento de um pedido, o lojista deve:
 
 1. Entrar em contato com o(s) responsável(is) pela respectiva transação (provedores de pagamento e antifraude).
-2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](https://help.vtex.com/pt/support) informando os dados da ocorrência.
+2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](/pt/support) informando os dados da ocorrência.
 
 ## Agências implementadoras
 
 No caso das soluções de CMS nativas, é comum que o lojista conte com a parceria de uma agência implementadora para customizar a aparência e a experiência do cliente na frente de loja.
 
-A VTEX possui as seguintes possibilidades de CMS nativas: o [Layout](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para lojas [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), o [Site Editor](https://help.vtex.com/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para lojas usando o [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) e o [Headless CMS](https://help.vtex.com/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) para lojas usando a [FastStore](https://www.faststore.dev/). Além disso, também é possível integrar o seu CMS externo com as APIs da VTEX de forma [headless](https://developers.vtex.com/docs/guides/headless-commerce).
+A VTEX possui as seguintes possibilidades de CMS nativas: o [Layout](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para lojas [Portal CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), o [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para lojas usando o [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) e o [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) para lojas usando a [FastStore](https://www.faststore.dev/). Além disso, também é possível integrar o seu CMS externo com as APIs da VTEX de forma [headless](https://developers.vtex.com/docs/guides/headless-commerce).
 
 Problemas relacionados a como o conteúdo está aparecendo para o usuário final devem sempre ser tratados inicialmente com o suporte da agência. Alguns exemplos desses problemas são:
 
@@ -168,17 +168,19 @@ Problemas relacionados a como o conteúdo está aparecendo para o usuário final
 * Botões de chamada para ação (por exemplo, Comprar, Avise-me, Adicionar ao carrinho) com comportamento não esperado.
 * Preços de produtos ou valores de frete inconsistentes com o que está cadastrado na plataforma.
 
-Se a agência verificar que o problema está em controles, apps ou componentes nativos da VTEX, acione nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9), incluindo todas as evidências da investigação já feita pela agência.
+Se a agência verificar que o problema está em controles, apps ou componentes nativos da VTEX, acione nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9), incluindo todas as evidências da investigação já feita pela agência.
 
 ## Integrações com marketplaces externos
 
-A VTEX possui uma arquitetura multi-seller nativa que permite que lojas VTEX se tornem marketplaces ou sellers em outras lojas VTEX. Além disso, a plataforma também possui integrações nativas com marketplaces externos para ofertar seus produtos sem necessidade de desenvolvimento. Os marketplaces com integrações nativas podem ser encontrados no guia [Marketplaces e Integrações](https://help.vtex.com/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
+A VTEX possui uma arquitetura multi-seller nativa que permite que lojas VTEX se tornem marketplaces ou sellers em outras lojas VTEX. Além disso, a plataforma também possui integrações nativas com marketplaces externos para ofertar seus produtos sem necessidade de desenvolvimento. Os marketplaces com integrações nativas podem ser encontrados no guia [Marketplaces e Integrações](/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
 
 Ainda assim, podem existir lojas parceiras estratégicas para o seu negócio que operem fora dessa rede colaborativa nativa. Para casos como esse, a VTEX permite o desenvolvimento de [integrações com marketplaces externos](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide), com conectores externos (hubs) responsáveis por fazer a comunicação entre uma loja VTEX e um marketplace externo não-nativo.
 
 Para o suporte de uma operação nesse cenário, é importante que o lojista entenda quais as responsabilidades de cada participante dessa operação, detalhadas a seguir.
 
->⚠️ As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word).
+<div class="alert alert-warning">
+  <p>As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a>.</p>
+</div>
 
 ### Atualização ou envio de novos produtos e SKUs
 
@@ -202,16 +204,16 @@ Confira as responsabilidades envolvidas na atualização ou criação de pedidos
    * Se o pedido está preparando entrega ou faturado, por exemplo, é responsabilidade do **ERP** notificar a VTEX.
    * Se o pedido foi cancelado no marketplace, a responsabilidade é do **conector**.
 
-Para mais informações sobre quem é responsável por cada etapa do fluxo de um pedido num cenário de marketplace externo, veja [Fluxo e status de pedidos - Fluxo do Seller](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#fluxo-do-seller).
+Para mais informações sobre quem é responsável por cada etapa do fluxo de um pedido num cenário de marketplace externo, veja [Fluxo e status de pedidos - Fluxo do Seller](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#fluxo-do-seller).
 
 #### Status do pedido 
 
 Para entender qual suporte deve ser acionado caso haja algum problema na atualização do status do pedido, é preciso seguir o passo a passo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os Pedidos**.
-2. Clique no pedido desejado para acessar a [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Clique no pedido desejado para acessar a [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na seção **Histórico do pedido**, clique em `Ver interações` (botão ilustrado a seguir), e verifique se há alguma mensagem de erro. 
 
-![ver-interacoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_2.png)
+![ver-interacoes-pt](https://images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/6d50ebab0fb9de03850bc219ea7fbce8/ver-interacoes-pt.png)
 
-Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.
+Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.

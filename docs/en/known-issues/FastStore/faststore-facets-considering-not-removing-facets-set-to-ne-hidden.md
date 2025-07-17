@@ -1,5 +1,5 @@
 ---
-title: 'Faststore facets considering not removing facets set to ne hidden'
+title: "Faststore facets considering not removing facets set to ne hidden"
 id: 4EElvOEvMzcu52fhNOVJGM
 status: PUBLISHED
 createdAt: 2024-05-08T18:35:17.015Z

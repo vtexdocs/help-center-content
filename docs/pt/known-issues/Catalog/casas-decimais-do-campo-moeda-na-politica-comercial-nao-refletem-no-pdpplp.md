@@ -1,5 +1,5 @@
 ---
-title: 'Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP'
+title: "Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP"
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
+slugEN: casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp
 locale: pt
 kiStatus: No Fix
 internalReference: 695044
@@ -18,17 +18,19 @@ internalReference: 695044
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Apesar do número definido no campo Casas decimais da moeda, as casas decimais reais são sempre 2 no PDP e PLP da loja.
 
 Configuração sobre Política Comercial:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2R9hhEaXn2ur3JZlbC4d5lEeF/?name=image.png)
 
 Frontend da conta:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zPYZBDD7DEywmya5wpuyonOqY/?name=image.png)
 
 
 

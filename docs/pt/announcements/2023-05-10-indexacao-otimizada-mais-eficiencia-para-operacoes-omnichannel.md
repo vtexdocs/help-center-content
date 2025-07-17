@@ -15,9 +15,9 @@ announcementImageID: ''
 announcementSynopsisPT: 'A indexação otimizada possibilita operações omnichannel complexas, com redução de custos e tempo de processamento.'
 ---
 
-A [indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) é o processo que ocorre automaticamente toda vez que um produto é criado ou atualizado em uma loja VTEX. Esse procedimento garante que os produtos exibidos para os clientes da loja estejam sempre atualizados para a versão mais recente.
+A [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) é o processo que ocorre automaticamente toda vez que um produto é criado ou atualizado em uma loja VTEX. Esse procedimento garante que os produtos exibidos para os clientes da loja estejam sempre atualizados para a versão mais recente.
 
-Com o objetivo de aprimorar esse fluxo, reformulamos a indexação para processar somente o necessário, reduzindo significativamente o tempo e os custos de processamento envolvidos. Isso permite que lojas VTEX criem cenários [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) complexos com maior confiabilidade e competitividade.
+Com o objetivo de aprimorar esse fluxo, reformulamos a indexação para processar somente o necessário, reduzindo significativamente o tempo e os custos de processamento envolvidos. Isso permite que lojas VTEX criem cenários [omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) complexos com maior confiabilidade e competitividade.
 
 ## O que mudou?
 
@@ -39,13 +39,13 @@ Durante o mês de maio, vamos aplicar a indexação otimizada a todas as contas.
 
 Além disso, já realizamos outro ajuste em todas as lojas, incluindo as que utilizam a indexação anterior: removemos o status **Indexação pendente** da página **Catálogo > Produtos & SKUs** no Admin VTEX, mantendo a data da última indexação e o botão `Ver no site` para possibilitar acessar o produto mesmo durante a atualização de alguma informação.
 
-Nas lojas que já utilizam [o novo design da página de Produtos & SKUs (Beta)](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By), esse status não existe, pois o produto permanece **Publicado** mesmo após alterações.
+Nas lojas que já utilizam [o novo design da página de Produtos & SKUs (Beta)](/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By), esse status não existe, pois o produto permanece **Publicado** mesmo após alterações.
 
 ## Por que fizemos essa mudança?
 
 O objetivo da nova arquitetura de indexação é aumentar a conversão, evitando cenários de itens indisponíveis de forma indevida. Com a mudança, estamos oferecendo uma solução mais eficiente e consistente, que resulta em experiências melhores para os clientes da sua loja.
 
-Essa melhoria permite que lojas VTEX construam e expandam operações omnichannel complexas em grande escala, incluindo modelos de [franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl), [marketplaces](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) com um grande número de sellers e experiências regionalizadas.
+Essa melhoria permite que lojas VTEX construam e expandam operações omnichannel complexas em grande escala, incluindo modelos de [franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl), [marketplaces](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) com um grande número de sellers e experiências regionalizadas.
 
 ## O que precisa ser feito?
 

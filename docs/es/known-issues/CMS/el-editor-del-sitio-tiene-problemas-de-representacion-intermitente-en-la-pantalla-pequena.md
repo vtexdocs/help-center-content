@@ -1,5 +1,5 @@
 ---
-title: 'El editor del sitio tiene problemas de representación intermitente en la pantalla pequeña'
+title: "El editor del sitio tiene problemas de representación intermitente en la pantalla pequeña"
 id: 4BGdkeP5IZ9NfFwxIXuDAr
 status: PUBLISHED
 createdAt: 2022-04-19T14:30:17.468Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-has-intermittent-rendering-issues-in-small-screen
+slugEN: el-editor-del-sitio-tiene-problemas-de-representacion-intermitente-en-la-pantalla-pequena
 locale: es
 kiStatus: Backlog
 internalReference: 399339
@@ -18,7 +18,9 @@ internalReference: 399339
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El Editor del Sitio tiene problemas intermitentes de representación en pantallas menores de 1366px de ancho.

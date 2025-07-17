@@ -1,5 +1,5 @@
 ---
-title: 'Deslizar la imagen del producto después de hacer zoom no revierte el zoom, lo que causa problemas de visualización.'
+title: "Deslizar la imagen del producto después de hacer zoom no revierte el zoom, lo que causa problemas de visualización."
 id: 41UVOcLabjyv29Buupj1MO
 status: PUBLISHED
 createdAt: 2024-01-29T18:05:22.470Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: swiping-productimage-after-zooming-in-does-not-revert-the-zoom-causing-display-issues
+slugEN: deslizar-la-imagen-del-producto-despues-de-hacer-zoom-no-revierte-el-zoom-lo-que-causa-problemas-de-visualizacion
 locale: es
 kiStatus: Backlog
 internalReference: 491180
@@ -18,7 +18,9 @@ internalReference: 491180
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza el vtex.store-components product-image, al deslizar una imagen hacia un lado después de hacer clic en ella para el zoom, la primera imagen se mantendrá ampliada, causando problemas de renderización cuando el usuario desliza de nuevo a ella.

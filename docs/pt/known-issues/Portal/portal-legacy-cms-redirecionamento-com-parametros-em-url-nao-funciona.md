@@ -1,5 +1,5 @@
 ---
-title: 'Portal Legacy CMS Redirecionamento com parâmetros em URL não funciona'
+title: "Portal Legacy CMS Redirecionamento com parâmetros em URL não funciona"
 id: 6jcBApKHEZnkLuzoIac03u
 status: PUBLISHED
 createdAt: 2022-03-16T22:06:03.075Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: portal-legacy-cms-redirect-with-parameters-in-url-does-not-work
+slugEN: portal-legacy-cms-redirecionamento-com-parametros-em-url-nao-funciona
 locale: pt
 kiStatus: No Fix
 internalReference: 444496
@@ -18,7 +18,9 @@ internalReference: 444496
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Portal Legacy CMS Redirect não funcionará se o URL From tiver parâmetros. Se o parâmetro for um utm_source, ele funcionará. Se o parâmetro for de qualquer outro tipo, não funcionará.

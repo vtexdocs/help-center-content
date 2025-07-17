@@ -1,5 +1,5 @@
 ---
-title: 'Promoções divergência de microrredes'
+title: "Promoções divergência de microrredes"
 id: 603ZTMtdgi9olc6UiWLfmX
 status: PUBLISHED
 createdAt: 2023-12-22T18:48:32.438Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: promotions-microrounding-divergence
+slugEN: promocoes-divergencia-de-microrredes
 locale: pt
 kiStatus: Backlog
 internalReference: 957369
@@ -18,7 +18,9 @@ internalReference: 957369
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O módulo de promoções arredonda os descontos em até 3 dígitos significativos, o que pode, em cenários muito específicos, resultar em pequenas divergências no preço final de um carrinho.

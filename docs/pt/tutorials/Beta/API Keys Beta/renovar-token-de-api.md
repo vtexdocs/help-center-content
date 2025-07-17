@@ -15,11 +15,13 @@ legacySlug: renovar-token-de-api-beta
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
->ℹ️ Esta funcionalidade está na fase Beta fechada, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br).
+<div class="alert alert-info">
+  <p>Esta funcionalidade está na fase Beta fechada, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com <a href="https://support.vtex.com/hc/pt-br">nosso Suporte</a>.</p>
+</div>
 
 Quanto mais antigo o token, maior o risco de exposição e de potenciais danos à operação. O procedimento de renovação do token garante a continuidade da segurança da sua loja e minimiza possíveis vulnerabilidades.
 
-Renove o token de API com antecedência, ou seja, antes da [duração](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ) expirar, para manter o acesso contínuo aos recursos e preservar a segurança.
+Renove o token de API com antecedência, ou seja, antes da [duração](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ) expirar, para manter o acesso contínuo aos recursos e preservar a segurança.
 
 Siga o passo a passo abaixo para renovar o token de uma chave de API:
 
@@ -33,13 +35,17 @@ Siga o passo a passo abaixo para renovar o token de uma chave de API:
 
    * **Agora:** o token antigo será excluído do sistema ao finalizar o processo de renovação e apenas o novo token será válido.
 
-   >ℹ️ Caso a página seja fechada antes de selecionar uma forma de exclusão neste passo, a opção **Depois** será aplicada, ou seja, você precisará excluir o token antigo manualmente.
+   <div class="alert alert-info">
+      <p>Caso a página seja fechada antes de selecionar uma forma de exclusão neste passo, a opção <strong>Depois</strong> será aplicada, ou seja, você precisará excluir o token antigo manualmente.</p>
+    </div>
 
 6. Clique em `Finalizar`.
 
 ## Excluir token antigo
 
->ℹ️ Certifique-se de que o token antigo não está mais em uso por nenhuma integração antes de excluí-lo. Este procedimento não pode ser desfeito.
+<div class="alert alert-info">
+  <p>Certifique-se de que o token antigo não está mais em uso por nenhuma integração antes de excluí-lo. Este procedimento não pode ser desfeito.</p>
+</div>
 
 Siga as instruções abaixo para excluir manualmente um token antigo, após a renovação. Este procedimento é possível apenas quando a opção de excluir o token antigo **Depois** for selecionada ao renovar um token.
 
@@ -50,7 +56,9 @@ Siga as instruções abaixo para excluir manualmente um token antigo, após a re
 
 ## Desfazer renovação de token
 
->ℹ️ Este procedimento é possível apenas enquanto o token antigo não tiver sido [excluído](#excluir-token-antigo). Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou [excluir a chave de API](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave).
+<div class="alert alert-info">
+  <p>Este procedimento é possível apenas enquanto o token antigo não tiver sido <a href="#excluir-token-antigo">excluído</a>. Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou <a href="https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave">excluir a chave de API</a>.</p>
+</div>
 
 Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, siga os passos abaixo para desfazer a renovação.
 
@@ -61,6 +69,6 @@ Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, s
 
 ## Saiba mais
 
-* [Chaves de API (Beta)](https://help.vtex.com/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar a duração de chaves de API (Beta)](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Chaves geradas (Beta)](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Chaves de API (Beta)](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar a duração de chaves de API (Beta)](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Chaves geradas (Beta)](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)

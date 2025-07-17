@@ -1,5 +1,5 @@
 ---
-title: 'Subscriptions not executed due to data indexing failure or masterdata query failure'
+title: "Subscriptions not executed due to data indexing failure or masterdata query failure"
 id: 1PspxNexEEz4GvJ5BpZZgH
 status: PUBLISHED
 createdAt: 2024-01-04T20:27:03.576Z

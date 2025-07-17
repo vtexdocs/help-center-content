@@ -1,5 +1,5 @@
 ---
-title: 'Error de envío de SKU entre sellers y marketplaces'
+title: "Error de envío de SKU entre sellers y marketplaces"
 id: 1fh0ea4fZrfyWW5EYnrZxj
 status: PUBLISHED
 createdAt: 2021-09-30T19:19:17.233Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 46G4yHIZerH7B9Jo0Iw5KI
 tag: Suggestions
-slugEN: error-sending-skus-from-sellers-to-marketplaces-and-vice-versa
+slugEN: error-de-envio-de-sku-entre-sellers-y-marketplaces
 locale: es
 kiStatus: Fixed
 internalReference: 000
@@ -22,7 +22,7 @@ Las tiendas VTEX pueden convertirse en [sellers](https://help.vtex.com/es/tutori
 
 Esto se debe a que los productos que son vendidos tanto por el marketplace como por sus sellers no son reconocidos por el sistema al ser enviados. Solo es posible enviar productos que se venden en solo una de las tiendas.
 
-![arquitetura circular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/error-de-envio-de-sku-entre-sellers-y-marketplaces_1.JPG)
+![arquitetura circular](//images.ctfassets.net/alneenqid6w5/56mCQjosVr8YmmMpcv67gj/8fde1676b4fb9b405e56b4e52689f982/arquitetura_circular.JPG)
 
 ## Simulación
 

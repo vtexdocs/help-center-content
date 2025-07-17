@@ -1,5 +1,5 @@
 ---
-title: 'O Matcher não funciona como esperado quando o nome do Produto/SKU contém caracteres especiais'
+title: "O Matcher não funciona como esperado quando o nome do Produto/SKU contém caracteres especiais"
 id: 1kRjFExdSRMAJMgFgC7Bbj
 status: PUBLISHED
 createdAt: 2023-10-19T15:37:17.652Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: matcher-does-not-work-as-expected-when-the-productsku-name-contains-special-characters
+slugEN: o-matcher-nao-funciona-como-esperado-quando-o-nome-do-produtosku-contem-caracteres-especiais
 locale: pt
 kiStatus: Fixed
 internalReference: 736164
@@ -18,7 +18,9 @@ internalReference: 736164
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao integrar produtos que têm caracteres especiais no nome, como `. - + # /` , o Matcher dá uma pontuação de 50% e faz com que os produtos fiquem em Pending. Com isso, os produtos dependem de aprovação manual ou via API.

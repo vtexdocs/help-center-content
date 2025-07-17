@@ -1,5 +1,5 @@
 ---
-title: 'Edição Drag and Drop no Site Editor'
+title: "Edição Drag and Drop no Site Editor"
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: drag-and-drop-issue-on-site-editor
+slugEN: edicao-drag-and-drop-no-site-editor
 locale: pt
 kiStatus: Fixed
 internalReference: 685103
@@ -18,7 +18,9 @@ internalReference: 685103
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes não podem usar o recurso de arrastar e soltar no editor do site para carregar imagens, isto provavelmente ocorre em conjunto com nossa nova implementação de nosso novo Gerenciamento de Mídia CMS.
@@ -32,7 +34,7 @@ Os clientes não podem usar o recurso de arrastar e soltar no editor do site par
 
 Vá para qualquer conta e tente carregar uma imagem de banner através de arrastar e soltar
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/edicao-drag-and-drop-no-site-editor_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 

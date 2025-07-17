@@ -14,15 +14,15 @@ trackId: 3J7WFZyvTcoiwkcIVFVhIS
 trackSlugEN: next-steps-after-the-go-live
 ---
 
-[Unified commerce](https://help.vtex.com/pt/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv) is an evolution of omnichannel. This strategy involves data sharing and the unification of the order processing and management system. It means that every order placed in a store channel is visible to other sales channels and can also be processed within them. Operating with franchise accounts and [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) in an increasingly connected context can be very strategic for the business.
+[Unified commerce](/pt/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv) is an evolution of omnichannel. This strategy involves data sharing and the unification of the order processing and management system. It means that every order placed in a store channel is visible to other sales channels and can also be processed within them. Operating with franchise accounts and [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) in an increasingly connected context can be very strategic for the business.
 
 ## Franchise accounts and white label sellers
 
-[Franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) are accounts associated with a [main account](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Companies with multiple physical stores, franchisees, or multi-brands can create franchise accounts associated with the brand's main account.
+[Franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) are accounts associated with a [main account](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Companies with multiple physical stores, franchisees, or multi-brands can create franchise accounts associated with the brand's main account.
 
-![main account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/next-steps-after-the-go-live/unified-commerce_1.png)
+![main account](https://images.ctfassets.net/alneenqid6w5/5LB8M0ZLnlb9dIQuZEQh3A/aaa2c7b886fb7a050c684465fb08c8f8/next_steps_image1_EN.png)
 
-This model shares Catalog and [storefront](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) information, allowing the franchise accounts' inventory to be available for sale in the main store. It also supports different unified commerce strategies, such as [ship from store](#ship-from-store), [physical stores as pickup points](#pickup-points), and [endless aisle](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
+This model shares Catalog and [storefront](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) information, allowing the franchise accounts' inventory to be available for sale in the main store. It also supports different unified commerce strategies, such as [ship from store](#ship-from-store), [physical stores as pickup points](#pickup-points), and [endless aisle](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
 
 Other advantages of working with franchise accounts are listed below:
 
@@ -30,23 +30,25 @@ Other advantages of working with franchise accounts are listed below:
 
 - Better management and resource scalability by adding loading docks and warehouses for each store.
 
-- Management of specific promotions per account without requesting a new [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV).
+- Management of specific promotions per account without requesting a new [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV).
 
-- Payment can be made in the main or franchise account environment ([split payment](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx)/order).
+- Payment can be made in the main or franchise account environment ([split payment](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx)/order).
 
-- [Seller regionalization](https://help.vtex.com/en/tutorial/configure-seller-regionalization--32t6wLpQCEnumoh8TjT5fw) (price and inventory).
+- [Seller regionalization](/en/tutorial/configure-seller-regionalization--32t6wLpQCEnumoh8TjT5fw) (price and inventory).
 
-- Increased operational performance by using multiple requests at the store checkout. In a standard account, where the [shipping strategy](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistics-required-settings) is added to the main account, requests are processed separately and queued, generating a potential backlog of requests and increased timeouts. Whenever a timeout occurs, an error message appears at checkout, and the customer has to click F5 or the refresh button to proceed with the purchase. This behavior has a negative impact on the customer experience and lowers the store's conversion rate.
+- Increased operational performance by using multiple requests at the store checkout. In a standard account, where the [shipping strategy](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistics-required-settings) is added to the main account, requests are processed separately and queued, generating a potential backlog of requests and increased timeouts. Whenever a timeout occurs, an error message appears at checkout, and the customer has to click F5 or the refresh button to proceed with the purchase. This behavior has a negative impact on the customer experience and lowers the store's conversion rate.
 
->⚠️ [Franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) act as a [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) for the main account. When a customer adds products to the shopping cart and simulates shipping on the main account's website, the [white label seller selection algorithm](https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) automatically determines which franchise account will [fulfill](https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) the order. If one or more products in the cart are unavailable in the selected franchise account, the system will select another available account to ship the unavailable products, allowing more than one shipment for the same order. This process occurs internally on the platform, and the customer doesn't know the sellers involved.
+<div class="alert alert-warning">
+  <p><a href="https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">Franchise accounts</a> act as a <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label seller</a> for the main account. When a customer adds products to the shopping cart and simulates shipping on the main account's website, the <a href="https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">white label seller selection algorithm</a> automatically determines which franchise account will <a href="https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP">fulfill</a> the order. If one or more products in the cart are unavailable in the selected franchise account, the system will select another available account to ship the unavailable products, allowing more than one shipment for the same order. This process occurs internally on the platform, and the customer doesn't know the sellers involved.</p>
+</div>
 
 ## Ship from store
 
-Physical stores can act as mini distribution centers by shipping products directly from their warehouse to customers. This type of operation reduces shipping costs and time, improving the company's logistics planning. Learn more in the [Ship From Store](https://help.vtex.com/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) article.
+Physical stores can act as mini distribution centers by shipping products directly from their warehouse to customers. This type of operation reduces shipping costs and time, improving the company's logistics planning. Learn more in the [Ship From Store](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) article.
 
 ## Pickup points
 
-Configuring physical [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) contributes to operations that apply [unified commerce strategies](https://help.vtex.com/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3). This approach optimizes the customer's buying experience by centralizing sales and order management, and offering multiple shipping options. On VTEX, you can add the following pickup points:
+Configuring physical [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) contributes to operations that apply [unified commerce strategies](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3). This approach optimizes the customer's buying experience by centralizing sales and order management, and offering multiple shipping options. On VTEX, you can add the following pickup points:
 
 - Distribution center (DC).
 - Proprietary physical store.

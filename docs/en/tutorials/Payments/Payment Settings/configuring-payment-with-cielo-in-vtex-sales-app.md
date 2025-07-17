@@ -15,9 +15,11 @@ legacySlug: configuring-payment-with-cielo-in-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Cielo. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+At VTEX, it is possible to integrate with the payment provider Cielo. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ To use the Cielo provider in your store through other online sales channels (except VTEX Sales App), visit [Setting up payments with CieloEcommerce](https://help.vtex.com/en/tutorial/setting-up-payments-with-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
+<div class="alert alert-info">
+To use the Cielo provider in your store through other online sales channels (except VTEX Sales App), visit <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-cieloecommerce--6zuELBqEo0QzApbU4l7L4">Setting up payments with CieloEcommerce</a>.
+</div>
 
 To use the Cielo provider in the VTEX Sales App, you need to:
 
@@ -25,7 +27,9 @@ To use the Cielo provider in the VTEX Sales App, you need to:
 - [Configure Cielo connector (VTEX Sales App) on VTEX](#configure-cielo-connector-vtex-sales-app-on-vtex)
 - [Configure payment condition](#configuring-payment-condition)
 
->⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Cielo account for the latest information.
+<div class="alert alert-warning">
+Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Cielo account for the latest information.
+</div>
 
 ## Configure keys in the Mercado Pago environment
 
@@ -33,11 +37,15 @@ The following steps describe the minimum configurations to be carried out so tha
 
 <blockquote><ui>1. Access the <a href="https://desenvolvedores.cielo.com.br/api-portal/en">Cielo developer portal</a> to create a new account.</ui>
 
-<blockquote><ui>>⚠️ The Cielo developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Cielo Lio. We recommend that the procedure below be carried out by a user who already has access to the other keys in their Cielo account.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+The Cielo developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Cielo Lio. We recommend that the procedure below be carried out by a user who already has access to the other keys in their Cielo account.
+  </div></blockquote>
 
 <blockquote><ui>2. After logging in, request the creation of SalesApp keys through the link <a href="https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108">https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108</a> or by accessing <b>Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota</b> inside the portal. Enter the following data: <i>Assunto: Solicitação de chaves de produção</i> and <i>Nome do PDV: SalesApp</i>.</ui> 
 
-<blockquote><ui>>ℹ️ The keys will be available on the Cielo developer portal within 2 business days.</blockquote>
+<blockquote><ui><div class="alert alert-info">
+The keys will be available on the Cielo developer portal within 2 business days.
+</div></blockquote>
 
 ## Configure Cielo connector (VTEX Sales App) on VTEX
 
@@ -99,7 +107,7 @@ The following steps describe the minimum configurations to be carried out so tha
 4. Under **Process with provider**, select the previously configured connector.
 5. Activate the condition in the **Status** field.
 6. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-7. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 After completing these steps, the Cielo provider may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.

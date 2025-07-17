@@ -1,5 +1,5 @@
 ---
-title: "Manually changing 'flagSKU' in the URL allows a specification type to be improperly changed."
+title: 'Manually changing "flagSKU" in the URL allows a specification type to be improperly changed.'
 id: 1hcfTgeb1sgHV0BVm1DGoP
 status: PUBLISHED
 createdAt: 2024-08-19T14:52:40.859Z

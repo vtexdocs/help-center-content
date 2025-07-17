@@ -1,5 +1,5 @@
 ---
-title: 'Collections page in Organization Details shows only 20 collections'
+title: "Collections page in Organization Details shows only 20 collections"
 id: 1NL46GlhANQoa6IzGSSwdS
 status: PUBLISHED
 createdAt: 2023-08-31T20:02:37.675Z

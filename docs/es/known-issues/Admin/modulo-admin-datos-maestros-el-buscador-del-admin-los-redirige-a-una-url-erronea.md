@@ -1,5 +1,5 @@
 ---
-title: 'Módulo [Admin] Datos Maestros, el buscador del admin los redirige a una URL errónea.'
+title: "Módulo [Admin] Datos Maestros, el buscador del admin los redirige a una URL errónea."
 id: NPUIMi5uS5ngHZBeemIMe
 status: PUBLISHED
 createdAt: 2023-08-28T18:39:23.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slugEN: admin-master-data-module-the-admin-search-engine-redirects-them-to-the-wrong-url
+slugEN: modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea
 locale: es
 kiStatus: Fixed
 internalReference: 889045
@@ -18,7 +18,9 @@ internalReference: 889045
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El módulo de Datos Maestros, el motor de búsqueda admin los redirige a la URL equivocada.
@@ -33,9 +35,9 @@ El módulo de Datos Maestros, el motor de búsqueda admin los redirige a la URL 
 Pasos:
 Admin > Buscar > Datos maestros >
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DhvSEUDDmPjgGdIlWV4PJvh0A/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9nUmLbZLPdCzBgvNziUi1WCvw/?name=image.png)
 
 
 ##
@@ -47,7 +49,7 @@ Admin > Buscar > Datos maestros >
 se puede acceder normalmente usando el menú lateral:
 Admin > Tienda > Datos maestros
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/59KwJCdK91ol1f4edT4hjNBHQ/?name=image.png)
 
 
 

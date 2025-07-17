@@ -1,5 +1,5 @@
 ---
-title: 'Outdated URL on the Update binding UI'
+title: "Outdated URL on the Update binding UI"
 id: 7bgh2LIJTFovgoz0TaBr5B
 status: PUBLISHED
 createdAt: 2023-08-30T20:04:23.301Z
@@ -20,7 +20,7 @@ internalReference: 890791
 
 
 When the merchant is updating a biding the UI is like it follows:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Portal/outdated-url-on-the-update-binding-ui_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UfffIyuM7K7isQMiPnAqRvSiW/?name=image.png)
 
 When trying to go to the license manager link, they are redirected to a SWW page.
 

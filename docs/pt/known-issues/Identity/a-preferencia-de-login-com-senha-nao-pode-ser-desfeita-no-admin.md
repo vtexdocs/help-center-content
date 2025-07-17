@@ -1,5 +1,5 @@
 ---
-title: 'A preferência de login com senha não pode ser desfeita no Admin'
+title: "A preferência de login com senha não pode ser desfeita no Admin"
 id: 5OPVJusw14TQzKdAVS71wx
 status: PUBLISHED
 createdAt: 2024-04-22T13:30:15.401Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: login-preference-with-password-cannot-be-undone-in-admin
+slugEN: a-preferencia-de-login-com-senha-nao-pode-ser-desfeita-no-admin
 locale: pt
 kiStatus: Backlog
 internalReference: 1020548
@@ -18,7 +18,9 @@ internalReference: 1020548
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário faz logon na plataforma VTEX pela primeira vez (Admin), ele é solicitado a escolher sua preferência de login para a próxima vez que fizer logon. Em seguida, ele pode escolher entre digitar seu endereço de e-mail e senha ou digitar um código que será enviado para seu endereço de e-mail;

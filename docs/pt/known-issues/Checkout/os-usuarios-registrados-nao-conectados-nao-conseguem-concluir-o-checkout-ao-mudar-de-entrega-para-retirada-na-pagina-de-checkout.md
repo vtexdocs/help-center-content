@@ -1,5 +1,5 @@
 ---
-title: 'Os usuários registrados (não conectados) não conseguem concluir o checkout ao mudar de entrega para retirada na página de checkout'
+title: "Os usuários registrados (não conectados) não conseguem concluir o checkout ao mudar de entrega para retirada na página de checkout"
 id: hmQ2riW1Ptjxyhk6gcWxN
 status: PUBLISHED
 createdAt: 2023-07-28T19:49:16.993Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: registered-users-not-logged-in-cannot-finish-checkout-when-changing-from-delivery-to-pickup-on-the-checkout-page
+slugEN: os-usuarios-registrados-nao-conectados-nao-conseguem-concluir-o-checkout-ao-mudar-de-entrega-para-retirada-na-pagina-de-checkout
 locale: pt
 kiStatus: Fixed
 internalReference: 870845
@@ -18,7 +18,9 @@ internalReference: 870845
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário registrado (não conectado) inicia o checkout com Entrega como opção de envio e, posteriormente, muda para retirada, ao tentar concluir o checkout, a mensagem de erro "O campo Número no anexo de envio é inválido" será exibida e não permitirá a realização do pedido.

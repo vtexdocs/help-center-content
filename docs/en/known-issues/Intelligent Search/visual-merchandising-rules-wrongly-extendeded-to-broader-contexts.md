@@ -1,10 +1,10 @@
 ---
-title: 'Visual merchandising rules wrongly extendeded to broader contexts'
+title: "Visual merchandising rules wrongly extendeded to broader contexts"
 id: 2wXWYnsHwYrXByNRu3HdBK
 status: PUBLISHED
 createdAt: 2024-09-13T22:19:38.122Z
-updatedAt: 2024-11-11T16:45:01.734Z
-publishedAt: 2024-11-11T16:45:01.734Z
+updatedAt: 2025-01-02T16:08:44.962Z
+publishedAt: 2025-01-02T16:08:44.962Z
 firstPublishedAt: 2024-09-13T22:19:39.138Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: visual-merchandising-rules-wrongly-extendeded-to-broader-contexts
 locale: en
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 1098688
 ---
 
@@ -23,7 +23,7 @@ Visual merchandising rules are set for specific contexts by defining filters by 
 
 For context, pinned and hidden products perform the same action as the promote and remove by ID actions from a manual merch rule.
 
-The easiest example is that setting it to a category will also applly modifiers to its subcategories.
+The easiest example is that setting it to a category will also apply modifiers to its subcategories.
 
 
 ##

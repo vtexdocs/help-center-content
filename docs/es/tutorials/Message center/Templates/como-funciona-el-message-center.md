@@ -3,8 +3,8 @@ title: 'Cómo funciona el Centro de mensajes'
 id: tutorials_84
 status: PUBLISHED
 createdAt: 2017-04-27T22:20:04.874Z
-updatedAt: 2021-06-01T18:46:54.349Z
-publishedAt: 2021-06-01T18:46:54.349Z
+updatedAt: 2025-01-24T15:17:44.604Z
+publishedAt: 2025-01-24T15:17:44.604Z
 firstPublishedAt: 2017-04-27T23:00:42.423Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,6 +21,10 @@ subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 
 Las Plantillas son los mensajes en sí. Los mensajes están categorizados conforme al módulo responsable y se destinan a un contenido específico. Dentro de cada uno tenemos el título/asunto del email, el código HTML, el remitente que va a realizar el envío y el destinatario, con posibilidades de especificar “CC” y “CCO”.
 
+<div class="alert alert-warning">
+  <p> Por motivos de seguridad, no todas las plantillas se pueden enviar con “CC” y “CCO”.</p>
+</div>
+
 Entienda la información que trae cada _card_ de plantilla :
 
 - Nombre de la plantilla, para identificación interna (no se trata del asunto del email enviado).
@@ -31,7 +35,7 @@ Entienda la información que trae cada _card_ de plantilla :
 
 Para facilitar la navegación, la interfaz pone a disposición, además del campo de búsqueda por texto libre, filtros por aplicaciones (módulos) y tipo (mensaje estándar o personalizado/modificado).
 
-![busca-templates-central-mensagens es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Message%20center/Templates/como-funciona-el-message-center_1.png)
+![busca-templates-central-mensagens es](https://images.ctfassets.net/alneenqid6w5/7LOOmw6SWIaY0SQO28Oc2k/b5b9e138dd014e087d34d75a57c96bf2/busca-templates-central-mensagens_es.png)
 
 Después de entender lo básico sobre los templates, usted ya puede ver cómo editarlos. Este paso no es obligatorio, pues VTEX suministra un layout básico y responsivo para todos los mensajes, con los datos necesarios para una buena comunicación con su cliente, pero es natural que las tiendas los adapten al estándar de comunicación ya usado para la marca.
 

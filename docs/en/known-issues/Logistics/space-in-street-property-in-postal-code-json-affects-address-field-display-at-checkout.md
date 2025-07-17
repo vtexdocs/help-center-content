@@ -1,5 +1,5 @@
 ---
-title: 'Space in street property in Postal Code JSON affects address field display at checkout'
+title: "Space in street property in Postal Code JSON affects address field display at checkout"
 id: Rr3wSsdC5hxMS8ttK4kIj
 status: PUBLISHED
 createdAt: 2023-08-01T22:30:35.290Z

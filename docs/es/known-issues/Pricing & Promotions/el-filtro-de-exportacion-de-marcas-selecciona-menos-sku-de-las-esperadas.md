@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de exportación de marcas selecciona menos SKU de las esperadas'
+title: "El filtro de exportación de marcas selecciona menos SKU de las esperadas"
 id: ZceuBTJ3FOCuWdDBRectO
 status: PUBLISHED
 createdAt: 2022-06-13T14:28:10.704Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: brand-filter-export-selecting-fewer-skus-than-expected
+slugEN: el-filtro-de-exportacion-de-marcas-selecciona-menos-sku-de-las-esperadas
 locale: es
 kiStatus: Backlog
 internalReference: 597038
@@ -18,7 +18,9 @@ internalReference: 597038
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

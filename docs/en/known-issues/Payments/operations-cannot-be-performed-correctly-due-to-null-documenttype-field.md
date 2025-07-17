@@ -1,5 +1,5 @@
 ---
-title: 'Operations cannot be performed correctly due to null documentType field.'
+title: "Operations cannot be performed correctly due to null documentType field."
 id: 5cZWkKc0ZXnMZCw4bvXJjA
 status: PUBLISHED
 createdAt: 2023-05-11T17:33:04.077Z

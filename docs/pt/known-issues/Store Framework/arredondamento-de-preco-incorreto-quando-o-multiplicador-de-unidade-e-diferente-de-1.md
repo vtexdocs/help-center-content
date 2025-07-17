@@ -1,5 +1,5 @@
 ---
-title: 'Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1'
+title: "Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1"
 id: 1L5RNoTBkoJxq2c22KDTRU
 status: PUBLISHED
 createdAt: 2022-03-21T17:43:03.979Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: incorrect-price-rounding-when-unit-multiplier-is-different-from-1
+slugEN: arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1
 locale: pt
 kiStatus: Backlog
 internalReference: 426275
@@ -18,7 +18,9 @@ internalReference: 426275
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O preço mostrado pelo bloco vtex.produto-preço diverge devido aos arredondamentos de multiplicação de unidades.
@@ -34,7 +36,7 @@ Neste caso, 11,87*4 = 47,48.
 
 Um efeito colateral causado por esta questão é que o Preço de venda é considerado diferente do Preço de lista do produto, e então o Preço de lista também é exibido.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7K0amWgevdGtQcfZd1UdYaFkn/?name=inline1146427484.png)
 
 Este comportamento ocorre apenas no contexto da busca, mas não no PDP. Neste caso, o preço de venda é correto.
 

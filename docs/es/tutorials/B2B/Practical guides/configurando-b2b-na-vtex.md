@@ -27,7 +27,7 @@ Consulte a continuación los ajustes necesarios para transformar una cuenta en u
 
 ## Prerrequisito
 
-Si ya tienes una tienda B2C (Business to Consumer) en VTEX, antes de seguir los pasos descritos a continuación, debes crear una multitienda para tu operación B2B. Consulte el artículo [Crear multitienda / multidominio](https://help.vtex.com/es/tutorial/como-crear-multitienda-multidominio--tutorials_510) para obtener más información.
+Si ya tienes una tienda B2C (Business to Consumer) en VTEX, antes de seguir los pasos descritos a continuación, debes crear una multitienda para tu operación B2B. Consulte el artículo [Crear multitienda / multidominio](/es/tutorial/como-crear-multitienda-multidominio--tutorials_510) para obtener más información.
 
 ## 1. Incluir regla condicional en la Política Comercial del B2B
 
@@ -35,7 +35,7 @@ Este es el paso más importante para activar el B2B. Al configurar la Política 
 
 Normalmente, en los B2Bs convencionales, este campo se rellena con el valor `approved="true"` (`approved` es el nombre de un campo en la entidad __Cliente__, en el Master Data). Con esa regla, el sistema sólo dejará que usuarios autenticados y aprobados naveguen en el sitio.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_1.png)
+![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
 
 ## 2. Personalizar layout de directorios B2B
 
@@ -49,32 +49,36 @@ Vea las características básicas de cada tipo de usuario:
 
 Así, para tener un ambiente B2B, será necesario personalizar las carpetas **401** y **403**, hijas de la carpeta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_2.png)
+![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
 
 Navegación por un usuario Anónimo (al intentar acceder cualquier página, será dirigido al 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_3.png)
+![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
 
 Navegación por un usuario no aprobado (al intentar acceder cualquier página, será dirigido al 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_4.png)
+![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
 
 ## 3. Definir campos de registro previo
 
 El usuario que aún no está registrado en el sitio necesita tener una interface para realizar el registro previo. El registro previo es un formulario con informaciones básicas del usuario. A pesar de básica, esa información debe ser suficiente para que el dueño de la tienda lo apruebe y lo libere para navegar en el sitio.
 
-Así, es necesario definir los campos de este registro previo. Normalmente, los B2Bs usan información de cliente (nombre, e-mail, teléfono, etc.) y dirección (calle, barrio, ciudad, etc.) para este registro previo. Consulte el artículo [Importar datos de clientes](https://help.vtex.com/es/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar datos de clientes - Brasil") para obtener más información sobre los datos necesarios.
+Así, es necesario definir los campos de este registro previo. Normalmente, los B2Bs usan información de cliente (nombre, e-mail, teléfono, etc.) y dirección (calle, barrio, ciudad, etc.) para este registro previo. Consulte el artículo [Importar datos de clientes](/es/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar datos de clientes - Brasil") para obtener más información sobre los datos necesarios.
 
->⚠️ El campo utilizado como regla condicional en la política comercial nunca podrá hacer parte de este formulario, una vez que el propio usuario no puede realizar su propia aprobación. Esta responsabilidad es de la tienda.
+<div class="alert alert-warning">
+  <p>El campo utilizado como regla condicional en la política comercial nunca podrá hacer parte de este formulario, una vez que el propio usuario no puede realizar su propia aprobación. Esta responsabilidad es de la tienda.</p>
+</div>
 
 ## 4. Crear formulario de registro prévio
 
 Luego de definir los campos, deberá crear el formulario de registro previo en la carpeta **/sistema/401**, que es la única carpeta adonde el usuario anónimo siempre será dirigido.
 
-La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
+La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
 
 ## 5. Operación
 
 Con todo configurado y, finalmente, el B2B en producción, la rutina del dueño de la tienda dependerá de las reglas y necesidades de su negocio. Básicamente, a cada nuevo registro, el dueño de la tienda deberá evaluar al usuario, aprobándolo o no, en la interface del CRM, al que se puede acceder a través de la URL `http://{nombre_de_cuenta}.vtexcrm.com.br/`.
 
->ℹ️ Este artículo describe las configuraciones básicas de un B2B, pero, es posible personalizar el sistema para esa necesidad de varias formas, incluso enviando emails (triggers) a partir de eventos predefinidos.
+<div class="alert alert-info">
+  <p>Este artículo describe las configuraciones básicas de un B2B, pero, es posible personalizar el sistema para esa necesidad de varias formas, incluso enviando emails (triggers) a partir de eventos predefinidos.</p>
+</div>

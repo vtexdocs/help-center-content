@@ -1,5 +1,5 @@
 ---
-title: 'A seta da miniatura não está funcionando no carrossel'
+title: "A seta da miniatura não está funcionando no carrossel"
 id: 5Ps4JjtqGpPq7YPVmb9Akz
 status: PUBLISHED
 createdAt: 2024-11-19T18:14:52.949Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: thumbnail-arrow-not-working-on-carousel
+slugEN: a-seta-da-miniatura-nao-esta-funcionando-no-carrossel
 locale: pt
 kiStatus: Backlog
 internalReference: 1137480
@@ -18,7 +18,9 @@ internalReference: 1137480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o carrossel no PDP, a seta da miniatura superior não funciona. Isso também acontece com o carrossel da visualização rápida, pois ele vem do mesmo componente.

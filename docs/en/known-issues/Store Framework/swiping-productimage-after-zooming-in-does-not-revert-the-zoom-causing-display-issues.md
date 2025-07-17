@@ -1,5 +1,5 @@
 ---
-title: 'Swiping product-image after zooming in does not revert the zoom, causing display issues'
+title: "Swiping product-image after zooming in does not revert the zoom, causing display issues"
 id: 41UVOcLabjyv29Buupj1MO
 status: PUBLISHED
 createdAt: 2024-01-29T18:05:22.470Z

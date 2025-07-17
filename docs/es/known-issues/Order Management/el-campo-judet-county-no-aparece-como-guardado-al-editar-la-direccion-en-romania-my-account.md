@@ -1,5 +1,5 @@
 ---
-title: 'El campo Judet county no aparece como guardado al editar la dirección en Romania my account.'
+title: "El campo Judet county no aparece como guardado al editar la dirección en Romania my account."
 id: 5aOtbUdNXPzOpuvLnmJtMf
 status: PUBLISHED
 createdAt: 2022-02-24T14:52:37.615Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-field-judet-county-is-not-showing-as-saved-when-address-editing-on-romania-my-account
+slugEN: el-campo-judet-county-no-aparece-como-guardado-al-editar-la-direccion-en-romania-my-account
 locale: es
 kiStatus: No Fix
 internalReference: 394658
@@ -18,7 +18,9 @@ internalReference: 394658
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las tiendas de Rumania en la página _**Mi Cuenta**_ hay un campo llamado "Judet", condado en inglés, que no se muestra como guardado al editar la dirección.

@@ -1,5 +1,5 @@
 ---
-title: 'App settings are not erased when you delete the app'
+title: "App settings are not erased when you delete the app"
 id: 7KXfKLgbc3UDeDSsCgT0Sk
 status: PUBLISHED
 createdAt: 2024-07-15T22:29:24.058Z
@@ -36,7 +36,7 @@ However, when you select the "**Delete**" option and install the app again, you 
 - Follow the instructions to install the app;
 - Fill in the settings (if applicable) and "Save";
 - Click on "Delete". The following message will be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Apps/app-settings-are-not-erased-when-you-delete-the-app_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kM5EhsfVaHLlISckht8rRYumU/?name=image.png)
 
 > _**Do you want to remove the app X?**_
 >

@@ -15,11 +15,13 @@ announcementImageID: ''
 announcementSynopsisPT: 'Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.'
 ---
 
-Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para Faturado - sinal de que o pedido foi finalizado com sucesso. É possível inserir uma [nota fiscal completa](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), ou uma [fatura parcial](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), em cenários onde há alterações nos itens ou valor do pedido. 
+Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para Faturado - sinal de que o pedido foi finalizado com sucesso. É possível inserir uma [nota fiscal completa](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), ou uma [fatura parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), em cenários onde há alterações nos itens ou valor do pedido. 
 
 Desenvolvemos uma melhoria no OMS que fará com que as faturas parciais inseridas nos pedidos também disparem liquidações parciais na transação. O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. 
 
->ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.
+<div class = "alert alert-info">
+A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Conectores legados não possuem suporte à funcionalidade.
+</div>
 
 ## O que mudou?
 
@@ -33,7 +35,7 @@ Agora, o gateway liquida o valor correspondente à fatura inserida. Essa mudanç
 * É feito o reembolso automático ao consumidor, caso haja estorno de valores. Não é mais preciso enviar a diferença de valor por fora da VTEX.  
 * É possível ir faturando os itens conforme a sua disponibilidade. Se eventualmente o operador identificar que um item precisa ser removido juntamente com seu valor, a alteração do pedido, com o valor descontado, poderá ser feita - dado que as notas fiscais anteriores só capturaram seus valores correspondentes e mantiveram o resto do valor liquidado em aberto.  
 
-Saiba mais detalhes em [Faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+Saiba mais detalhes em [Faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
 
 ## Por que fizemos essa mudança?
 
@@ -43,19 +45,19 @@ Com isso, desbloqueamos novas ações e comportamentos no dia a dia de operadore
 
 ## O que precisa ser feito?
 
-Não é preciso realizar nenhuma ação ou configuração, o OMS já foi atualizado automaticamente para operar da nova forma. Saiba mais em [Faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+Não é preciso realizar nenhuma ação ou configuração, o OMS já foi atualizado automaticamente para operar da nova forma. Saiba mais em [Faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
 
 Para reproduzir o comportamento:
 
-1. Insira uma [fatura parcial para o pedido](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe#enviar-fatura-parcial).
+1. Insira uma [fatura parcial para o pedido](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe#enviar-fatura-parcial).
 
-    > Se você utiliza a nova [Página de detalhes do pedido (Beta)](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl) , acesse [Faturar um pedido manualmente (Beta)](https://help.vtex.com/pt/tutorial/how-to-manually-invoice-an-order-beta--7p1h852V5t54KyscpgxE2v).
+    > Se você utiliza a nova [Página de detalhes do pedido (Beta)](/pt/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl) , acesse [Faturar um pedido manualmente (Beta)](/pt/tutorial/how-to-manually-invoice-an-order-beta--7p1h852V5t54KyscpgxE2v).
 
-2. Faça uma [alteração no pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). 
+2. Faça uma [alteração no pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). 
 
-    > Se você utiliza a nova interface de Detalhes do pedido (Beta), acesse [Como alterar itens do pedido (Beta)](https://help.vtex.com/pt/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
+    > Se você utiliza a nova interface de Detalhes do pedido (Beta), acesse [Como alterar itens do pedido (Beta)](/pt/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
 
-3. Acompanhe todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). 
+3. Acompanhe todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). 
 
 Também é possível realizar as mesmas ações por meio da nossa API de Orders. Para isso, confira os endpoints:
 

@@ -21,11 +21,13 @@ Na VTEX, ambientes B2B normalmente são completamente ou parcialmente bloqueados
 
 Veja abaixo as configurações necessárias para criar uma loja B2B, na VTEX.
 
->ℹ️ Toda loja B2B se preparando para entrar em produção e fazer configuração final de domínio deve contatar [nosso Suporte](https://support.vtex.com/hc/pt-br/requests) com antecedência e solicitar que a configuração interna seja feita.
+<div class="alert alert-info">
+<p>Toda loja B2B se preparando para entrar em produção e fazer configuração final de domínio deve contatar <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a> com antecedência e solicitar que a configuração interna seja feita.</p>
+</div>
 
 ## Pré-requisito
 
-Se você já possui uma loja B2C (Business to Consumer) na VTEX, antes de seguir os passos descritos abaixo, você precisa criar uma multiloja para a sua operação B2B. Confira o artigo [Criar multiloja / multidomínio](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510) para mais informações.
+Se você já possui uma loja B2C (Business to Consumer) na VTEX, antes de seguir os passos descritos abaixo, você precisa criar uma multiloja para a sua operação B2B. Confira o artigo [Criar multiloja / multidomínio](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510) para mais informações.
 
 ## 1. Incluir regra condicional na Política Comercial do B2B
 
@@ -33,7 +35,7 @@ Esse é o passo mais importante para ativar o B2B. Ao configurar a Política Com
 
 Normalmente, nos B2Bs convencionais, esse campo é preenchido com o valor `approved="true"` (`approved` é o nome de um campo na entidade Cliente, no Master Data). Com essa regra, o sistema permite que apenas usuários autenticados e aprovados naveguem no site.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_1.png)
+![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
 
 ## 2. Customizar layout de diretórios B2B
 
@@ -47,32 +49,37 @@ Veja as características básicas de cada tipo de usuário:
 
 Dessa forma, para ter um ambiente B2B, será necessário customizar as pastas **401** e **403**, filhas da pasta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_2.png)
+![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
 
 Navegação por um usuário Anônimo (ao tentar acessar qualquer página, será redirecionado para 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_3.png)
+![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
 
 Navegação por um usuário não aprovado (ao tentar acessar qualquer página, será redirecionado para 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Practical%20guides/configurando-b2b-na-vtex_4.png)
+![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
 
 ## 3. Definir campos de pré-cadastro
 
 O usuário que ainda não é cadastrado no site precisa ter uma interface para realizar o pré-cadastro. O pré-cadastro é um formulário com informações básicas do usuário. Apesar de básicas, essas informações devem ser suficientes para o lojista aprová-lo e liberá-lo para navegação no site.
 
-Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, os B2Bs utilizam informações de cliente (nome, e-mail, telefone, etc) e endereço (rua, bairro, cidade, etc) para esse pré-cadastro. Confira o artigo [Importar dados de clientes](https://help.vtex.com/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") para mais informações sobre os dados necessários.
+Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, os B2Bs utilizam informações de cliente (nome, e-mail, telefone, etc) e endereço (rua, bairro, cidade, etc) para esse pré-cadastro. Confira o artigo [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") para mais informações sobre os dados necessários.
 
->⚠️ O campo utilizado como regra condicional na política comercial nunca poderá fazer parte desse formulário, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
+<div class="alert alert-warning">
+  <p>O campo utilizado como regra condicional na política comercial nunca poderá fazer parte desse formulário, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.</p>
+</div>
 
 ## 4. Criar formulário de pré-cadastro
 
 Após definidos os campos, você deverá criar o formulário de pré-cadastro na pasta **/sistema/401**, pois é a única pasta para onde o usuário anônimo sempre será redirecionado.
 
-As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Exemplo de template HTML e JS") com esse propósito.
+As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Exemplo de template HTML e JS") com esse propósito.
 
 ## 5. Operação
 
 Com tudo configurado e, finalmente, com o B2B em produção, a rotina do lojista dependerá das regras e necessidades de seu negócio. Basicamente, a cada novo cadastro, o lojista deverá avaliar o usuário e aprová-lo ou não na interface do CRM, que pode ser acessada pela URL `http://{nome_da_conta}.vtexcrm.com.br/`.
 
->ℹ️ Este artigo descreve as configurações básicas de um B2B, porém, é possível customizar o sistema para essa necessidade de várias formas, inclusive, enviando emails (triggers) a partir de eventos pré-definidos.
+<div class="alert alert-info">
+  <p>Este artigo descreve as configurações básicas de um B2B, porém, é possível customizar o sistema para essa necessidade de várias formas, inclusive, enviando emails (triggers) a partir de eventos pré-definidos.
+</p>
+</div>

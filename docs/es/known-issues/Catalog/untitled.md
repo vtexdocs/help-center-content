@@ -1,11 +1,11 @@
 ---
-title: 'Product not flagged to a specific SC can still be available for this SC.'
-id: 6u8IBlt5MbC3eKMUrfDhp2
-status: DRAFT
-createdAt: 2022-01-21T14:30:40.326Z
-updatedAt: 2022-01-21T14:30:40.326Z
-publishedAt: 
-firstPublishedAt: 
+title: "Fullcleanup Timeout"
+id: 4PoY6rRs2SEgKfpQNetdHn
+status: PUBLISHED
+createdAt: 2022-01-26T15:08:31.521Z
+updatedAt: 2023-05-25T14:54:03.807Z
+publishedAt: 2023-05-25T14:54:03.807Z
+firstPublishedAt: 2023-05-25T14:54:03.807Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,37 +13,31 @@ tag:
 slugEN: untitled
 locale: es
 kiStatus: Backlog
-internalReference: 308613
+internalReference: 277364
 ---
 
 ## Sumario
 
 
-Product not flagged to a specific SC can still be available for this SC. This scenario happens when the Sales Channel is associated to a collection on its config, and the product is available for this collection.
-Even it is not available for the SC on the product interface, as the SC is associated to this collection, if the product is available for the collection, he will be available for this SC.
+in the `/admin/Site/fullcleanup.aspx `interface, using this procedure for >~20k products generates a timeout on Janus due to a >50s operation.
+
+This is the same issue (origin) of several other timeouts in the catalog.
 
 
 
 ## Simulación
 
 
-- Associate a collection to a SC;
-- Put this product to be available to this collection and not for the SC on its configuration;
-- The product will be available to the SC.
+1) Create over ~20k products in a store.
+
+2) Try running the delete products & SKUs procedure on the FullCleanUp interface: `.myvtex.com/admin/site/fullcleanup.aspx`
+
+A 500 response will be returned along with a timeout error
 
 
 
 ## Workaround
 
 
-Remove the product from the collection.
-
-provider=*&form.subject=*&form.email=*&form.env_type=app_version!%3D%22*-beta*%22&form.app_version=*
-
-
-
-## Workaround
-
-
-Check if the email was sent using Splunk.
+- Ask the support team to perform this action.
 

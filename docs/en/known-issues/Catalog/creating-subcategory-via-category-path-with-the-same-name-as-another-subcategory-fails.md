@@ -1,5 +1,5 @@
 ---
-title: 'Creating subcategory via category path, with the same name as another subcategory, fails'
+title: "Creating subcategory via category path, with the same name as another subcategory, fails"
 id: 4ncZiLNaKbgfYzGHCGvwdk
 status: PUBLISHED
 createdAt: 2024-08-26T15:45:09.563Z
@@ -35,7 +35,7 @@ Using the mentioned API, create a product informing, in the category path, a sub
 
 As an example, check the tree below:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/creating-subcategory-via-category-path-with-the-same-name-as-another-subcategory-fails_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0RlxkVj9Gvd2ukR1vZcxdcmyC/?name=image.png)
 
 This would mean informing in the path "Department/Category2/Subcategory1".
 

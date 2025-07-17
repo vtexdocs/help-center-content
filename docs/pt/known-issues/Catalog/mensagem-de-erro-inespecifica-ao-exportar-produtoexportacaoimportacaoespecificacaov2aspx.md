@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem de erro inespecífica ao exportar ProdutoExportacaoImportacaoEspecificacaoV2.aspx'
+title: "Mensagem de erro inespecífica ao exportar ProdutoExportacaoImportacaoEspecificacaoV2.aspx"
 id: 3rtDeX0QppmbXOvuCtC1Lr
 status: PUBLISHED
 createdAt: 2022-03-22T13:09:32.153Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: unspecific-error-message-when-exporting-produtoexportacaoimportacaoespecificacaov2aspx
+slugEN: mensagem-de-erro-inespecifica-ao-exportar-produtoexportacaoimportacaoespecificacaov2aspx
 locale: pt
 kiStatus: No Fix
 internalReference: 314227
@@ -18,7 +18,9 @@ internalReference: 314227
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a mensagem de erro da interface ProdutoExportacaoImportacaoEspecificacaoV2.aspx no catálogo de importação/exportação, quando um usuário está tentando exportar uma ficha de especificação de produto e não há produtos em uma determinada categoria (mas há especificações registradas), não apontam a origem do problema.

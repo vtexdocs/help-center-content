@@ -1,5 +1,5 @@
 ---
-title: 'Tempo Limite de Importação de Coleções Legadas'
+title: "Tempo Limite de Importação de Coleções Legadas"
 id: 3sNnbMg00W11l46LPr130g
 status: PUBLISHED
 createdAt: 2022-02-25T12:21:12.605Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: legacy-collection-import-timeout
+slugEN: tempo-limite-de-importacao-de-colecoes-legadas
 locale: pt
 kiStatus: Backlog
 internalReference: 483785
@@ -18,12 +18,14 @@ internalReference: 483785
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando um usuário tenta importar dados através do botão de inserção de dados a granel, se a folha a ser utilizada for muito extensa, o processo pode falhar.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9TSm4inXTV8cFvuiHwLP9uMpb/?name=inline-929450477.png)
 
 
 
@@ -44,7 +46,7 @@ Atualmente, quando um usuário tenta importar dados através do botão de inser�
 
 4) Uma mensagem de carga será mostrada por ~50s
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-importacao-de-colecoes-legadas_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jd4fu2dmlX2d3WQUWxycsGOIg/?name=inline-243279848.png)
 
 E então o processo acabará por falhar.
 

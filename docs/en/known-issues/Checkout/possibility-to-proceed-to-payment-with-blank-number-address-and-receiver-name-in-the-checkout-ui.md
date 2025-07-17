@@ -1,5 +1,5 @@
 ---
-title: 'Possibility to proceed to payment with blank number address and receiver name in the checkout UI'
+title: "Possibility to proceed to payment with blank number address and receiver name in the checkout UI"
 id: 5HCvh8dM70UUvR7t1U5aKY
 status: PUBLISHED
 createdAt: 2022-03-31T20:59:56.117Z

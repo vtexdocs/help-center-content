@@ -17,13 +17,16 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 The Shopping Feed platform allows global brands to centralize, optimize, and track the distribution of their product catalog across marketplaces, comparison sites, affiliate networks, and retargeting campaigns. Integrating a VTEX store with the Shopping Feed connector enables the store to use Shopping Feed's ecommerce feed management solution to increase the visibility and profitability of its products on Amazon, Google Shopping, Facebook, eBay, Criteo, Etsy, and [others](https://shoppingfeed.com/en/channels).  
 
->⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](https://help.vtex.com/support?/cultureInfo=en) before following this tutorial.  
+<div class="alert alert-warning">
+To integrate with Shopping Feed, you must contact the <a href="https://help.vtex.com/support?/cultureInfo=en">VTEX support team</a> before following this tutorial.
+</div>  
 
-![Logo shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_1.png)
+![Logo shopping feed](https://images.ctfassets.net/alneenqid6w5/0aaChaSgJGB0XLwNrKhi0/0b21f61eee1d8e50002864d8191081e8/logo-shoppingfeed.png)
 
 Once the connector app is configured, your catalog feed will be available on ShoppingFeed, and your products will be ready to be published on the channels of your choice. As you sell across different channels, orders, and product stock levels will automatically stay synchronized between VTEX and Shopping Feed.   
 
->⚠️ To perform the integration with the connector, you must already have a Shopping Feed account. [Request a demo](https://content.shoppingfeed.com/request-a-demo) on the platform's website.  
+<div class="alert alert-warning"> To perform the integration with the connector, you must already have a Shopping Feed account. <p><a href="https://content.shoppingfeed.com/request-a-demo">Request a demo</a> on the platform's website.</p> 
+</div>  
 
 ## Installation and Configuration 
 
@@ -37,26 +40,32 @@ To install the app in your store, follow the steps below:
 5. Click the `Confirm` button.    
 6. Click the `Install` button.    
 
->ℹ️ The app will be installed in the account entered in step 3. If you want to get the app for more than one account, you will need to complete the process for each account.  
+<div class="alert alert-info">
+The app will be installed in the account entered in step 3. If you want to get the app for more than one account, you will need to complete the process for each account.
+</div>  
 
 To configure the connector, follow the steps below:  
 
 1. In the app card, click **Settings.**   
 2. Fill in the fields shown in the image below. The fields in the Cron jobs section should be modified according to [this guide](https://crontab.guru/).  
 
-![crontab shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_2.png)
+![crontab shopping feed](https://images.ctfassets.net/alneenqid6w5/TbqmKmvkaJQvZUp4M8ZOI/7e9d4223acf8346aa4dc267c371cc39f/config-shoppingfeed.png)
 
 After the app is installed in the store, a new menu option becomes available in the VTEX Admin under **Apps > Installed Apps > Shopping Feed.**  
 
->⚠️ Before starting the configurations, you must have your [Shopping Feed credentials](https://help.vtex.com/support?/cultureInfo=en).  
+<div class="alert alert-warning">
+Before starting the configurations, you must have your <a href="https://help.vtex.com/support?/cultureInfo=en">Shopping Feed credentials</a>.
+</div>  
 
 Each sales channel on Shopping Feed that the seller wants to integrate needs to be configured in the connector. For this, the processes for **Configure Affiliate for ShoppingFeed** and **Create feed** must be repeated for each sales channel.  
 
 ## Configure Affiliate for ShoppingFeed  
 
-The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](https://help.vtex.com/en/tutorial/configuring-affiliates--tutorials_187#how-to-set-it-up).
+The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](/en/tutorial/configuring-affiliates--tutorials_187#how-to-set-it-up).
 
->⚠️ For each sales channel on Shopping Feed that the seller wants to integrate, the processes for **Configure Affiliate for Shopping Feed** and **Product Feed Creation** must be repeated.  
+<div class="alert alert-warning">
+For each sales channel on Shopping Feed that the seller wants to integrate, the processes for <b>Configure Affiliate for Shopping Feed</b> and <b>Product Feed Creation</b> must be repeated.
+</div>  
 
 ### Create feed
 
@@ -78,10 +87,12 @@ To create a feed, follow the steps below:
    - Enable **Include test orders** if you want test orders to be imported into VTEX as well.  
    - In the field `Date from which to import orders`, fill in the date of the first order import.   
    - In the field `Shipment by Channel Sales Policy`, fill in which shipping policy should be associated with the integration of the channel you are registering.    
-6. Click the `Add` button and fill in the **[VTEX Shipping Policy](https://help.vtex.com/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
+6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
 7. Click the `Save` button.  
 
-![config app shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_3.png)
+![config app shopping feed](https://images.ctfassets.net/alneenqid6w5/539UhKVd6ocYzcY9Of5TY2/a040ea221be3ce0fb4622db825167818/shopping_feed_config.png)
 
->❗ Each time a new feed is created, it is necessary to refresh all feeds by clicking on
-> **<i class="fas fa-ellipsis-v" aria-hidden="true"></i>Menu > Force all feeds.**
+<div class="alert alert-danger">
+Each time a new feed is created, it is necessary to refresh all feeds by clicking on
+<b><i class="fas fa-ellipsis-v" aria-hidden="true"></i>Menu > Force all feeds.</b>
+</div>

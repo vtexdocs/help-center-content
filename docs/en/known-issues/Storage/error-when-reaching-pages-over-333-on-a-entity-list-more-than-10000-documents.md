@@ -1,5 +1,5 @@
 ---
-title: 'Error when reaching pages over 333 on a entity list (more than 10.000 documents)'
+title: "Error when reaching pages over 333 on a entity list (more than 10.000 documents)"
 id: 1COJ1WZILFeFqA4XWIseYY
 status: PUBLISHED
 createdAt: 2023-02-27T19:29:52.721Z
@@ -23,7 +23,7 @@ When the store has more than 10.000 documents, so more than 333 pages, when tryi
 
     VTEX - Master Data: Ocorreu um erro inesperado no sistema. Por favor tente novamente, caso o erro persista entre em contato com a VTEX.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5wXQPX2etczf6IiyzGFLAtIvp/?name=inline1653316518.png)
 
 
 ##

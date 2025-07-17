@@ -1,5 +1,5 @@
 ---
-title: 'La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm'
+title: "La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm"
 id: 7ef1GxxapbH2XKKf7HBuAM
 status: PUBLISHED
 createdAt: 2024-10-31T15:08:54.129Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform
+slugEN: la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform
 locale: es
 kiStatus: Backlog
 internalReference: 1127034
@@ -18,7 +18,9 @@ internalReference: 1127034
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El carro FastStore se crea/actualiza a través de _ValidateCartMutation_.

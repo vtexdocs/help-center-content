@@ -1,5 +1,5 @@
 ---
-title: '[Facebook] Today Facebook looks at sellingPrice and listPrice to update the price in the Facebook catalog'
+title: "[Facebook] Today Facebook looks at sellingPrice and listPrice to update the price in the Facebook catalog"
 id: 4CDh12JM3y9AqBnuGDHgnT
 status: PUBLISHED
 createdAt: 2024-04-03T12:41:15.144Z

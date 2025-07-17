@@ -19,7 +19,7 @@ Mercado Libre es uno de los líderes del ecommerce en América Latina, ofreciend
 
 ¡VTEX es ahora un partner integrador certificado de Mercado Libre!
 
-La certificación obtenida garantiza que la integración VTEX ha alcanzado los estándares de excelencia exigidos por Mercado Libre. En la práctica, la certificación garantiza que la solución está adaptada al [omnichannel](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y cuenta con las funcionalidades necesarias para que el seller tenga éxito en su operación de venta en Mercado Libre.
+La certificación obtenida garantiza que la integración VTEX ha alcanzado los estándares de excelencia exigidos por Mercado Libre. En la práctica, la certificación garantiza que la solución está adaptada al [omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y cuenta con las funcionalidades necesarias para que el seller tenga éxito en su operación de venta en Mercado Libre.
 
 Vea a continuación algunos de los beneficios de la certificación.
 
@@ -40,6 +40,6 @@ Todas las nuevas funcionalidades introducidas a partir de la certificación tien
 
 ## ¿Qué hay que hacer?
 
-Los usuarios que ya estén integrados con Mercado Libre deberán ponerse en contacto con el [equipo de soporte de VTEX](https://help.vtex.com/support?cultureInfo=en-us) para adaptar su tienda a las nuevas posibilidades. 
+Los usuarios que ya estén integrados con Mercado Libre deberán ponerse en contacto con el [equipo de soporte de VTEX](/support?cultureInfo=en-us) para adaptar su tienda a las nuevas posibilidades. 
 
-Si su tienda aún no tiene integración con Mercado Libre, consulte nuestra [Guía de Integración](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) para conectarla.
+Si su tienda aún no tiene integración con Mercado Libre, consulte nuestra [Guía de Integración](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) para conectarla.

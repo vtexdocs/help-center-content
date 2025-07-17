@@ -19,7 +19,7 @@ En una operación de comercio electrónico B2B, habitualmente se necesita inform
 
 La app **Pedidos B2B** simplifica este proceso y permite que cualquier colaborador de la empresa que realizó la compra  pueda consultar los pedidos realizados accediendo a la tienda virtual.
 
-![orders VTEX B2B](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/B2B%20Orders/entendiendo-pedidos-b2b_1.png)
+![orders VTEX B2B](https://images.ctfassets.net/alneenqid6w5/VNG3045dKhkQBgG1ZTxOl/d239fe8c9794fb3aa7fb29a4c0623635/Screenshot_2020-10-20_VTEX_B2B.png)
 
 Esa experiencia de autoservicio es posible gracias a una integración vía API con el ERP. De esta forma, el colaborador puede buscar pedidos por: 
 
@@ -27,9 +27,10 @@ Esa experiencia de autoservicio es posible gracias a una integración vía API c
 - **ERP order number:** número de identificación del pedido en el ERP de la tienda.
 - **My order:** número de identificación asociado al cliente que efectuó la compra.
 
->⚠️ Esta app solo está disponible para las tiendas desarrolladas con 
->     [VTEX IO](https://vtex.com/br-pt/store-framework/).
-> Antes de continuar, necesita <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">instalar y configurar Pedidos B2B</a> en su tienda.
+<div class = "alert alert-warning">
+  <p>Esta app solo está disponible para las tiendas desarrolladas con 
+    <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>.</p><p>Antes de continuar, necesita <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">instalar y configurar Pedidos B2B</a> en su tienda.</p>
+</div>
 
 ## Contexto
 

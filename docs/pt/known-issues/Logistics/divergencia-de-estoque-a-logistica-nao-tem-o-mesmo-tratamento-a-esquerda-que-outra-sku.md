@@ -1,5 +1,5 @@
 ---
-title: 'Divergência de Estoque - A logística não tem o mesmo tratamento à esquerda que outra SKU'
+title: "Divergência de Estoque - A logística não tem o mesmo tratamento à esquerda que outra SKU"
 id: 3FKaDXw5pWVyUfwgKo6pfV
 status: PUBLISHED
 createdAt: 2022-05-18T15:19:00.037Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-divergence-logistics-handle-zero-on-left-as-another-sku
+slugEN: divergencia-de-estoque-a-logistica-nao-tem-o-mesmo-tratamento-a-esquerda-que-outra-sku
 locale: pt
 kiStatus: Fixed
 internalReference: 427610
@@ -18,7 +18,9 @@ internalReference: 427610
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

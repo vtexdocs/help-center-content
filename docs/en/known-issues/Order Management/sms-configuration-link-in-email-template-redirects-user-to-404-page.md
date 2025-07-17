@@ -1,5 +1,5 @@
 ---
-title: 'SMS configuration link in email template redirects user to 404 page'
+title: "SMS configuration link in email template redirects user to 404 page"
 id: ZjIBvieBRNlN5lThuvtBf
 status: PUBLISHED
 createdAt: 2024-06-21T17:58:11.722Z

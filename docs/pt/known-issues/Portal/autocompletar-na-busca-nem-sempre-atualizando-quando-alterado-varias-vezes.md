@@ -1,5 +1,5 @@
 ---
-title: 'Autocompletar na busca nem sempre atualizando quando alterado várias vezes'
+title: "Autocompletar na busca nem sempre atualizando quando alterado várias vezes"
 id: 65UVZDYhfoJVVg5AODM5Wq
 status: PUBLISHED
 createdAt: 2023-04-19T13:54:31.560Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: autocomplete-on-search-not-always-updating-when-changed-multiple-times
+slugEN: autocompletar-na-busca-nem-sempre-atualizando-quando-alterado-varias-vezes
 locale: pt
 kiStatus: Backlog
 internalReference: 793275
@@ -18,7 +18,9 @@ internalReference: 793275
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar qualquer termo sem clicar em enter, o autocompletar traz resultados de produtos que contêm esse termo.

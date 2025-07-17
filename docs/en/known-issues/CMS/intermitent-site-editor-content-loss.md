@@ -1,10 +1,10 @@
 ---
-title: 'Intermitent Site Editor content loss'
+title: "Intermitent Site Editor content loss"
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-11-18T14:05:46.071Z
-publishedAt: 2024-11-18T14:05:46.071Z
+updatedAt: 2025-04-24T15:01:56.874Z
+publishedAt: 2025-04-24T15:01:56.874Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slugEN: intermitent-site-editor-content-loss
 locale: en
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 610533
 ---
 

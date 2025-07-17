@@ -1,5 +1,5 @@
 ---
-title: 'Modal como Generic Reason mesmo este tipo de Modal são configurados OK'
+title: "Modal como Generic Reason mesmo este tipo de Modal são configurados OK"
 id: 2ftzXjtPZcPypFpsnZMcIK
 status: PUBLISHED
 createdAt: 2022-05-18T18:23:53.248Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: modal-as-generic-reason-even-this-type-of-modal-are-configured-ok
+slugEN: modal-como-generic-reason-mesmo-este-tipo-de-modal-sao-configurados-ok
 locale: pt
 kiStatus: No Fix
 internalReference: 488339
@@ -18,7 +18,9 @@ internalReference: 488339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um cenário onde há modais configurados OK também na SKU e na Polícia Marítima e a simulação está mostrando problemas na configuração modal.

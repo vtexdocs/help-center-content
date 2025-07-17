@@ -1,5 +1,5 @@
 ---
-title: 'O status do pedido da Amazon não é revisado ao reprocessar o pedido na ponte'
+title: "O status do pedido da Amazon não é revisado ao reprocessar o pedido na ponte"
 id: 6t7R49BcUjC9LU8UWLvwdh
 status: PUBLISHED
 createdAt: 2024-10-18T12:18:00.080Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-order-status-is-not-revised-when-reprocessing-order-on-bridge
+slugEN: o-status-do-pedido-da-amazon-nao-e-revisado-ao-reprocessar-o-pedido-na-ponte
 locale: pt
 kiStatus: Backlog
 internalReference: 1119618
@@ -18,7 +18,9 @@ internalReference: 1119618
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os pedidos da Amazon que tiveram algum tipo de erro vão para a área de ponte com a mensagem de erro e o status do pedido no momento em que ele foi processado pela primeira vez.

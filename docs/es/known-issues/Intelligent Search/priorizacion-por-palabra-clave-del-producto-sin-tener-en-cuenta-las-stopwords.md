@@ -1,5 +1,5 @@
 ---
-title: "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords"
+title: 'Priorización por "palabra clave" del producto sin tener en cuenta las "stopwords'
 id: 55S7nFg61dAyCeGQCIw6aK
 status: PUBLISHED
 createdAt: 2024-05-30T22:05:25.328Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: prioritization-by-products-keyword-not-considering-stopwords
+slugEN: priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords
 locale: es
 kiStatus: Backlog
 internalReference: 1041743
@@ -18,7 +18,9 @@ internalReference: 1041743
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los productos pueden ser priorizados en los resultados de búsqueda por su "palabra clave", una palabra del nombre del producto establecida como relevante por un algoritmo. Las palabras clave son términos de búsqueda filtrados de los términos originales porque no son significativos para la búsqueda.

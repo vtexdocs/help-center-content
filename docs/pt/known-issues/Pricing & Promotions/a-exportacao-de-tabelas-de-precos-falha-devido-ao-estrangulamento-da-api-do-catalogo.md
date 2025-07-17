@@ -1,5 +1,5 @@
 ---
-title: 'A exportação de tabelas de preços falha devido ao estrangulamento da API do catálogo'
+title: "A exportação de tabelas de preços falha devido ao estrangulamento da API do catálogo"
 id: 4LSQalrhGQHuz8c087WBxP
 status: PUBLISHED
 createdAt: 2024-08-14T18:41:34.999Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: export-of-price-tables-fails-due-to-throttling-of-catalog-api
+slugEN: a-exportacao-de-tabelas-de-precos-falha-devido-ao-estrangulamento-da-api-do-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 1081437
@@ -18,7 +18,9 @@ internalReference: 1081437
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exportação de tabelas de preços está falhando devido à limitação da API do Catalog. Esse problema ocorre quando o sistema excede os limites de taxa do serviço Catalog durante o processo de exportação, impedindo a recuperação dos preços dos produtos após a busca inicial da SKU.

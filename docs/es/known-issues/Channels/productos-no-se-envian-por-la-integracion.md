@@ -1,5 +1,5 @@
 ---
-title: 'Productos no se envían por la integración al guardar el registro'
+title: "Productos no se envían por la integración al guardar el registro"
 id: 3iY2DwQyiIwIsMaicGAI6e
 status: PUBLISHED
 createdAt: 2018-05-04T17:26:27.239Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slugEN: products-are-not-being-sent-by-integration
+slugEN: productos-no-se-envian-por-la-integracion
 locale: es
 kiStatus: Backlog
 internalReference: 

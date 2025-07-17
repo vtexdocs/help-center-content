@@ -3,8 +3,8 @@ title: 'Recursos del License Manager'
 id: 3q6ztrC8YynQf6rdc6euk3
 status: PUBLISHED
 createdAt: 2022-02-14T17:53:22.572Z
-updatedAt: 2024-06-05T13:16:40.276Z
-publishedAt: 2024-06-05T13:16:40.276Z
+updatedAt: 2025-06-23T22:14:09.213Z
+publishedAt: 2025-06-23T22:14:09.213Z
 firstPublishedAt: 2022-02-14T19:56:27.935Z
 contentType: tutorial
 productTeam: Identity
@@ -15,16 +15,20 @@ legacySlug: recursos-del-license-manager
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-VTEX ofrece varios [roles de usuario predefinidos](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para los usuarios administrativos. Esto permite a los colaboradores de una empresa desempeñar sus funciones accediendo al mínimo de recursos necesarios. Sin embargo, sabemos que cada ecommerce tiene sus propias necesidades y que la flexibilidad es esencial para abordar problemas empresariales específicos.
+VTEX ofrece varios [roles de usuario predefinidos](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para los usuarios administrativos. Esto permite a los colaboradores de una empresa desempeñar sus funciones accediendo al mínimo de recursos necesarios. Sin embargo, sabemos que cada ecommerce tiene sus propias necesidades y que la flexibilidad es esencial para abordar problemas empresariales específicos.
 
 Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario personalizados, lo que permite elegir con precisión a qué recursos puede acceder un determinado rol personalizado. A continuación, encontrarás los recursos de VTEX disponibles para cada producto.
 
->❗ El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos.
-> Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.
+<div class="alert alert-danger">
+  <p>El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos.
+Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.</p>
+</div>
 
-<iframe src="https://help.vtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://help.vtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="105%" height="850"></iframe>
 
->ℹ️ En la aplicación [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), los recursos de License Manager son identificados por las respectivas claves.
+<div class = "alert alert-info">
+  <p>En la aplicación <a href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>, los recursos de License Manager son identificados por las respectivas claves.</p>
+</div>
 
 ## Recursos internos o obsoletos
 

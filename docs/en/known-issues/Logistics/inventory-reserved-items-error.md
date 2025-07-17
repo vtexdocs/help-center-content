@@ -1,5 +1,5 @@
 ---
-title: 'Inventory Reserved Items Error'
+title: "Inventory Reserved Items Error"
 id: 37cO3T4D0exvOMhStKYds9
 status: PUBLISHED
 createdAt: 2022-05-18T15:13:46.087Z

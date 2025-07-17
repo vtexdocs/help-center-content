@@ -1,5 +1,5 @@
 ---
-title: 'No se puede eliminar la Plantilla en el CMS heredado'
+title: "No se puede eliminar la Plantilla en el CMS heredado"
 id: 4mVMlMcpxiQdL7LxvCceii
 status: PUBLISHED
 createdAt: 2022-03-16T16:30:51.695Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: unable-to-delete-template-on-legacy-cms
+slugEN: no-se-puede-eliminar-la-plantilla-en-el-cms-heredado
 locale: es
 kiStatus: Backlog
 internalReference: 332033
@@ -18,7 +18,9 @@ internalReference: 332033
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes no pueden eliminar las plantillas en el CMS heredado.

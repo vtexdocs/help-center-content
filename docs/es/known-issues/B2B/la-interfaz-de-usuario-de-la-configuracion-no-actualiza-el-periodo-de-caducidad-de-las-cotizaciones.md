@@ -1,5 +1,5 @@
 ---
-title: "La interfaz de usuario de la configuración no actualiza el 'periodo de caducidad' de las cotizaciones"
+title: 'La interfaz de usuario de la configuración no actualiza el "periodo de caducidad" de las cotizaciones'
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: settings-ui-doesnt-update-expiration-period-of-quotes
+slugEN: la-interfaz-de-usuario-de-la-configuracion-no-actualiza-el-periodo-de-caducidad-de-las-cotizaciones
 locale: es
 kiStatus: Fixed
 internalReference: 876576
@@ -18,7 +18,9 @@ internalReference: 876576
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 B2B Quote settings UI no actualiza el valor del periodo de expiración; siempre es 30.

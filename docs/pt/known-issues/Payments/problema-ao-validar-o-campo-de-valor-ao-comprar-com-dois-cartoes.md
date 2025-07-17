@@ -1,5 +1,5 @@
 ---
-title: 'Problema ao validar o campo de valor ao comprar com dois cartões'
+title: "Problema ao validar o campo de valor ao comprar com dois cartões"
 id: 6dr0p9WQPSHLkFaSbjI9J7
 status: PUBLISHED
 createdAt: 2022-03-28T01:05:19.734Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: problem-while-validating-value-field-when-buying-with-two-cards
+slugEN: problema-ao-validar-o-campo-de-valor-ao-comprar-com-dois-cartoes
 locale: pt
 kiStatus: No Fix
 internalReference: 460683
@@ -18,7 +18,9 @@ internalReference: 460683
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um comprador decide pagar com dois cartões de crédito e também quer alterar o valor pago por cada cartão, acontece que ao digitar caracteres sem números no campo de valor, nossa validação tem comportamento diferente dependendo de onde o usuário insere esse caractere.

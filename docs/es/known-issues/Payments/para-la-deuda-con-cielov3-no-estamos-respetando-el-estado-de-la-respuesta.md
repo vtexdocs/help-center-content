@@ -1,5 +1,5 @@
 ---
-title: 'Para la deuda con CieloV3 no estamos respetando el estado de la respuesta'
+title: "Para la deuda con CieloV3 no estamos respetando el estado de la respuesta"
 id: SkcIYYJc8VGHS25qP9tKG
 status: PUBLISHED
 createdAt: 2022-03-03T18:40:36.990Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: for-debt-with-cielov3-we-are-not-respecting-the-status-of-the-response
+slugEN: para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta
 locale: es
 kiStatus: Backlog
 internalReference: 367284
@@ -18,7 +18,9 @@ internalReference: 367284
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 ## **Resumen**
 

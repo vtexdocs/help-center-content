@@ -1,5 +1,5 @@
 ---
-title: 'La geolocalización para buscar puntos de recogida se queda cargando'
+title: "La geolocalización para buscar puntos de recogida se queda cargando"
 id: 9HACCiPSeJY9174Qh9FQb
 status: PUBLISHED
 createdAt: 2021-09-08T18:11:35.333Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
-slugEN: geolocation-search-for-pickup-points-loading-indefinitely
+slugEN: la-geolocalizacion-para-buscar-puntos-de-recogida-se-queda-cargando
 locale: es
 kiStatus: Fixed
 internalReference: 
@@ -35,7 +35,7 @@ Si la ubicación de su navegador satisface la condición anterior, siga los paso
 5. Durante el _checkout_, seleccione la opción de entrega «punto de recogida». 
 6. Observe que la página se queda cargando, mostrando el mensaje «Esperando permiso para obtener su ubicación actual».
 
-![erro Es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/la-geolocalizacion-para-buscar-puntos-de-recogida-se-queda-cargando_1.png)
+![erro Es](//images.contentful.com/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/c9b547445063ca5893288590621944c9/erro_Es.png)
 
 ## Workaround
 

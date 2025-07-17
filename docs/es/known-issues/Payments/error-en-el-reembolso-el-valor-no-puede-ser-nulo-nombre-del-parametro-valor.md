@@ -1,5 +1,5 @@
 ---
-title: "Error en el reembolso - 'El valor no puede ser nulo. Nombre del parámetro: valor'"
+title: 'Error en el reembolso - "El valor no puede ser nulo. Nombre del parámetro: valor'
 id: 6TZFYB9zb02oMoN5IJMxR3
 status: PUBLISHED
 createdAt: 2024-06-13T18:49:16.797Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-in-refund-value-cannot-be-null-parameter-name-value
+slugEN: error-en-el-reembolso-el-valor-no-puede-ser-nulo-nombre-del-parametro-valor
 locale: es
 kiStatus: Backlog
 internalReference: 1049494
@@ -18,7 +18,9 @@ internalReference: 1049494
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar reembolsar una transacción puede producirse un error 500 con el mensaje:

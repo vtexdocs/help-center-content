@@ -1,5 +1,5 @@
 ---
-title: 'Filtro por faixa de preço considerando preço (zero) de itens indisponíveis'
+title: "Filtro por faixa de preço considerando preço (zero) de itens indisponíveis"
 id: 10L0KKaGrewOQQWSw6Sms0
 status: PUBLISHED
 createdAt: 2017-04-06T18:12:42.797Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: price-filter-considers-prize-zero-from-unavailable-products
+slugEN: filtro-por-faixa-de-preco-considerando-preco-zero-de-itens-indisponiveis
 locale: pt
 kiStatus: Backlog
 internalReference: 

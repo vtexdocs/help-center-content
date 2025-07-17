@@ -1,5 +1,5 @@
 ---
-title: 'MELI SizeChart issue attribute not valid'
+title: "MELI SizeChart issue attribute not valid"
 id: 3t6zqW9aE6pvW9b3Zvj0MB
 status: PUBLISHED
 createdAt: 2024-03-08T13:59:23.756Z

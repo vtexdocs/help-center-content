@@ -37,14 +37,14 @@ A continuación se describe toda la información sobre Google Search Console par
 
 Search Console proporciona un informe de URL indexadas con error de rastreo, principales parámetros de URL, estadísticas de rastreabilidad de tu tienda, prueba de robots, además de incluir nuevas URL y mapas del sitio.
 
-- **Errores de rastreo:** informe de URL con error de rastreo, segmentado por dispositivo y tipo de error. Puedes ver más información en el artículo [Rastreo Google Search Console - Errores de rastreo](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
+- **Errores de rastreo:** informe de URL con error de rastreo, segmentado por dispositivo y tipo de error. Puedes ver más información en el artículo [Rastreo Google Search Console - Errores de rastreo](/es/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
 - **Estadísticas de rastreo:** detalla información sobre la actividad del rastreador (crawler) de Google en todo el contenido de tu tienda, como HTML, CSS, imágenes y JS.
 - **Buscar con Google:** funcionalidad que permite simular la búsqueda de tu tienda como Google busca e indexa.
 - **Robots.txt**: valida el contenido y la estructura del archivo robot.txt de tu tienda. Puedes ver más información en [Rastreo Google Search Console - robots.txt
-](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
+](/es/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
 - **Mapas del sitio:** permite registrar el mapa del sitio de tu tienda y el informe de proporción entre URL enviadas y URL indexadas.
 - **Parámetro de URL:** lista todos los parámetros identificados en las URL de tus tiendas y permite definir la acción que Google aplicará para cada parámetro. Puedes ver más información en [Rastreo Google Search Console - Sitemap
-](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
+](/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
 
 ## Índice de Google
 
@@ -79,8 +79,8 @@ El _snippet_ es el bloque de contenido relacionado con el link de tu tienda que 
 
 ### Más información
 
-- [Verificar propiedad en Google Search Console de tienda VTEX](https://help.vtex.com/es/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
-- [Datos estructurados a través del Marcador de Datos de Google Search Console](https://help.vtex.com/es/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
-- [Rastreo Google Search Console - robots.txt](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
-- [Rastreo Google Search Console - Sitemap](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
-- [Rastreo Google Search Console - Errores de rastreo](https://help.vtex.com/es/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)
+- [Verificar propiedad en Google Search Console de tienda VTEX](/es/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
+- [Datos estructurados a través del Marcador de Datos de Google Search Console](/es/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
+- [Rastreo Google Search Console - robots.txt](/es/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
+- [Rastreo Google Search Console - Sitemap](/es/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
+- [Rastreo Google Search Console - Errores de rastreo](/es/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)

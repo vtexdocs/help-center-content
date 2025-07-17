@@ -1,5 +1,5 @@
 ---
-title: 'SMS configuration in message centre module returns an error'
+title: "SMS configuration in message centre module returns an error"
 id: 4OlzNBkOfFqHxX8WTGjH4O
 status: PUBLISHED
 createdAt: 2019-05-08T18:01:12.389Z
@@ -22,7 +22,9 @@ When configuring SMS sending in the message centre module, the UI returns an err
 
 ## Simulation
 
->ℹ️ You need to have the movile APP installed in order to simulate the error.
+<div class="alert alert-info">
+You need to have the movile APP installed in order to simulate the error.
+</div>
 
 1. Access the message centre module
 2. Select the MOVILE SMS option

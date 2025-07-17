@@ -1,5 +1,5 @@
 ---
-title: 'Informações incorretas nos campos de datas de expiração das promoções'
+title: "Informações incorretas nos campos de datas de expiração das promoções"
 id: 1iyo8L4y8A4ygwUI9f8tHA
 status: PUBLISHED
 createdAt: 2022-07-05T17:19:07.753Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: incorrect-information-in-the-expiration-date-fields-of-promotions
+slugEN: informacoes-incorretas-nos-campos-de-datas-de-expiracao-das-promocoes
 locale: pt
 kiStatus: Backlog
 internalReference: 611284
@@ -18,7 +18,9 @@ internalReference: 611284
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Intermitentemente, quando abrimos uma promoção, os campos Data de Início e Data Final exibem a data atual, e os campos Hora de Início e Hora Final exibem as 12:00 horas da manhã. Apesar das informações incorretas na IU, as datas definidas na promoção não são afetadas.

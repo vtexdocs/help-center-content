@@ -1,5 +1,5 @@
 ---
-title: 'Removal of URL parameters when a page does not exist'
+title: "Removal of URL parameters when a page does not exist"
 id: EbKaj7Laz6IEooYS2OuYW
 status: PUBLISHED
 createdAt: 2018-12-17T21:26:03.577Z

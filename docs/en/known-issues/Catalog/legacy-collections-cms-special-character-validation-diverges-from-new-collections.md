@@ -1,5 +1,5 @@
 ---
-title: 'Legacy Collections (CMS) Special Character Validation diverges from New Collections'
+title: "Legacy Collections (CMS) Special Character Validation diverges from New Collections"
 id: 2Pc1VACj7VF9n1IDtO6Mr4
 status: PUBLISHED
 createdAt: 2022-10-31T20:38:49.460Z
@@ -43,7 +43,7 @@ This behavior might lead the user to mistakenly think it items were added to the
 
 5) A special character validation prompt will be shown and no data will be saved
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/legacy-collections-cms-special-character-validation-diverges-from-new-collections_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pwqKP9iXeEaIFRjUGN93jwOOw/?name=inline773082053.png)
 
 
 

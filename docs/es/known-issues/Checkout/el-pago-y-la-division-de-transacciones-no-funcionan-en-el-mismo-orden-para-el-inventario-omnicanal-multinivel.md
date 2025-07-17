@@ -1,5 +1,5 @@
 ---
-title: 'El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel.'
+title: "El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel."
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: payout-and-transaction-split-dont-work-in-the-same-order-for-multilevel-omnichannel-inventory
+slugEN: el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel
 locale: es
 kiStatus: No Fix
 internalReference: 777201
@@ -18,7 +18,9 @@ internalReference: 777201
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un marketplace con vendedores con relación multinivel (MOI), cuando se monta un carrito con al menos un vendedor que utiliza división de transacciones y otros que utilizan división de pagos, las transacciones con división de pagos se duplicarán repitiendo los artículos de distintos vendedores. Este escenario no permitirá realizar el pedido, y aparecerá el mensaje "Lo sentimos. No se han podido procesar los pagos solicitados".

@@ -15,7 +15,7 @@ legacySlug: como-verificar-detalhes-de-erros-nos-pedidos
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Uma das maneiras de saber detalhes de erros em pedidos é por meio do link **Exibir Interações**, disponível na página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), conforme indicado abaixo:
+Uma das maneiras de saber detalhes de erros em pedidos é por meio do link **Exibir Interações**, disponível na página de [detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), conforme indicado abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
 2. Selecione o pedido desejado.

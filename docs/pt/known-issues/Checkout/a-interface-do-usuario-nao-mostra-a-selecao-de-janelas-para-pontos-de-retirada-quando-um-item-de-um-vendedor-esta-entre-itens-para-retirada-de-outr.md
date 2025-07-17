@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário não mostra a seleção de janelas para pontos de retirada quando um item de um vendedor está entre itens para retirada de outro vendedor'
+title: "A interface do usuário não mostra a seleção de janelas para pontos de retirada quando um item de um vendedor está entre itens para retirada de outro vendedor"
 id: 7uDtst6o01FV405luUQ3Ok
 status: PUBLISHED
 createdAt: 2024-08-07T18:26:30.702Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-doesnt-show-window-selection-for-pickup-points-when-an-item-from-a-seller-is-between-items-for-pickup-from-another-seller
+slugEN: a-interface-do-usuario-nao-mostra-a-selecao-de-janelas-para-pontos-de-retirada-quando-um-item-de-um-vendedor-esta-entre-itens-para-retirada-de-outro-vendedor
 locale: pt
 kiStatus: Backlog
 internalReference: 1077568
@@ -18,7 +18,9 @@ internalReference: 1077568
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um carrinho com pelo menos três produtos, onde os pedidos de itens são: O primeiro é para a retirada 1, o segundo para a retirada 2 (vendedor diferente) e o terceiro é para a retirada 1, a interface do usuário não permitirá uma seleção de SLA para o segundo item.

@@ -19,7 +19,7 @@ For this, some alternatives are offered, including **Facebook**.
 
 ## Registering a Client Id and a Client Secret for login with Facebook
 
-To configure a Facebook registration, follow the instructions detailed in [this article about the registration of Client Id and Client Secret for login with Facebook](https://help.vtex.com/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-facebook--3R7rzXWG1GswWOIkYyy8SO).
+To configure a Facebook registration, follow the instructions detailed in [this article about the registration of Client Id and Client Secret for login with Facebook](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-facebook--3R7rzXWG1GswWOIkYyy8SO).
 
 ## Configuring login on VTEX
 
@@ -28,7 +28,7 @@ After configuring the Facebook registration, you need to configure this login op
 1. In the **Account Settings** module, click on the **Authentications** tab.
 2. Click on the **Edit** button corresponding to Facebook.
 3. Fill in the fields with the _Client Id_ and _Client Secret_ registered on **Facebook**.
-    ![Facebook OAuth EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/contas-e-permissoes/configuring-login-with-facebook_1.png)
+    ![Facebook OAuth EN](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/06b29f9c839316df31c736a315ba1786/facebook_EN.png)
 4. Click on the **Save** button.
 5. To confirm that your login was successful, go to the front-end of your store and click on **Login**. 
 6. The configured login options will be shown. Click on the **Facebook** option and check if your store name is displayed.

@@ -1,5 +1,5 @@
 ---
-title: 'Mis tarjetas no funcionan para algunos conectores heredados'
+title: "Mis tarjetas no funcionan para algunos conectores heredados"
 id: Ln0mUfu3jDwcfndavSZkk
 status: PUBLISHED
 createdAt: 2022-05-28T12:03:48.090Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: my-cards-is-not-working-for-some-legacy-connectors
+slugEN: mis-tarjetas-no-funcionan-para-algunos-conectores-heredados
 locale: es
 kiStatus: Backlog
 internalReference: 373636
@@ -18,7 +18,9 @@ internalReference: 373636
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar guardar una tarjeta de crédito en Mis Tarjetas dentro de la sesión de Mi Cuenta **sin haber realizado ninguna compra con esa tarjeta anteriormente** se produce un error al intentar guardar la tarjeta con un conector interno heredado.

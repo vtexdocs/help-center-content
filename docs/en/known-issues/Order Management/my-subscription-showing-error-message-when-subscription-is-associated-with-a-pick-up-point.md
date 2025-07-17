@@ -1,5 +1,5 @@
 ---
-title: 'My subscription showing error message when subscription is associated with a pick up point'
+title: "My subscription showing error message when subscription is associated with a pick up point"
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z

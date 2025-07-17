@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario lanza solicitudes separadas para cada clave/campo de un archivo adjunto.'
+title: "La interfaz de usuario lanza solicitudes separadas para cada clave/campo de un archivo adjunto."
 id: 5IF3veMFTFi9dERoEokokt
 status: PUBLISHED
 createdAt: 2024-03-01T21:05:37.154Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-triggers-separate-requests-for-each-keyfield-of-an-attachment
+slugEN: la-interfaz-de-usuario-lanza-solicitudes-separadas-para-cada-clavecampo-de-un-archivo-adjunto
 locale: es
 kiStatus: Backlog
 internalReference: 336371
@@ -18,7 +18,9 @@ internalReference: 336371
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se establece el valor de un campo de adjunto de artículo a través de la interfaz de usuario, esto desencadena una solicitud para actualizar el orderForm, incluso si todavía hay más campos restantes.

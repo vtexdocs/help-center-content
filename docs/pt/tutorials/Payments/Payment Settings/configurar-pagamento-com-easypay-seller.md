@@ -22,7 +22,7 @@ Para utilizar a afiliação easypay no seu marketplace, é necessário:
 - [Instalar o app Easypay Seller Account](#instalar-o-app-easypay-seller-account)
 - [Configurar o app Easypay Seller Account](#configurar-o-app-easypay-seller-account)
 
->⚠️ Caso você deseje configurar easypay para outro contexto, que não o de seller, acesse os artigos [Configurar pagamento com easypay](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) ou [Configurar pagamento com easypay no Marketplace](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+<div class="alert alert-warning" role="alert">Caso você deseje configurar easypay para outro contexto, que não o de seller, acesse os artigos <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J">Configurar pagamento com easypay</a> ou <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pagamento com easypay no Marketplace</a>.</div>
 
 ## Instalar o app Easypay Seller Account
 
@@ -45,7 +45,7 @@ Após realizar a instalação do app Easypay Seller Account, você deve configur
 
 <blockquote><ui>- <b>Easypay Account UID</b>: identificação de sua conta seller onde serão depositados os valores das compras dos produtos efetuados na loja. Para obter esta informação, acesse o <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da Easypay localizado no canto superior da tela, e depois na conta desejada. Copie e salve a informação <b>Account UID</b>.</ui> 
 
-![easypay_pt_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-seller_1.PNG)
+![easypay_pt_18](https://images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/e9218fcccf92ed76e45024aa1c4c2285/easypay_pt_18.PNG)
 
 <blockquote><ui>4. Clique em <b>Salvar</b>.</ui>
 

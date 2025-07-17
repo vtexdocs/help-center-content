@@ -1,5 +1,5 @@
 ---
-title: 'No delivery window can be created due to inconsistence in estimateDate and lastDeliveryDay for high timecost'
+title: "No delivery window can be created due to inconsistence in estimateDate and lastDeliveryDay for high timecost"
 id: 3E5ZPyrjSOPD68vH4SXunM
 status: PUBLISHED
 createdAt: 2024-03-06T19:38:26.954Z

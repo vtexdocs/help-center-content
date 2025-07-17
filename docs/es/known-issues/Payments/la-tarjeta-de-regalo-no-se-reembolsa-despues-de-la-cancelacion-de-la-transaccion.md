@@ -1,5 +1,5 @@
 ---
-title: 'La tarjeta de regalo no se reembolsa después de la cancelación de la transacción'
+title: "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción"
 id: lWW0jvEty50Pphr3JFYt7
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:16.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: giftcard-not-getting-refund-after-transaction-cancellation
+slugEN: la-tarjeta-de-regalo-no-se-reembolsa-despues-de-la-cancelacion-de-la-transaccion
 locale: es
 kiStatus: Backlog
 internalReference: 491195
@@ -18,7 +18,9 @@ internalReference: 491195
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el pago es una tarjeta regalo y se produce un error durante el proceso de realización del pedido y éste queda incompleto, no se reembolsa la CG una vez cancelada la transacción.

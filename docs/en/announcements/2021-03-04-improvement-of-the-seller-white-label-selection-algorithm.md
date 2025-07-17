@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Understanding how the seller selection logic works for delivery or pickup'
 ---
 
-When a store has multiple sellers to increase its product offering and logistic capabilities, there could be infinite combinations for price and delivery time available for the same SKU. To ensure showing the customer the best alternatives, we coded different filters and business rules in the [seller selection algorithm](https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa?&utm_source=autocomplete) at checkout.
+When a store has multiple sellers to increase its product offering and logistic capabilities, there could be infinite combinations for price and delivery time available for the same SKU. To ensure showing the customer the best alternatives, we coded different filters and business rules in the [seller selection algorithm](/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa?&utm_source=autocomplete) at checkout.
 
 The seller selection algorithm was modified in order to tailor the delivery and pickup options to the client, prioritizing the greatest coverage of cart items. That means that before applying value and delivery time criteria, or pickup distance, the algorithm will try to ensure that all the items in the cart are in stock.
 
@@ -27,7 +27,9 @@ The seller selection algorithm was updated to ensure the maximum possible covera
 
 Also, for selecting sellers that offer a pickup option, the algorithm will always prioritize distance to the reference location over price and pickup time criteria.
 
->⚠️ Note: The algorithm update applies to White Label Seller, and it includes [Franchise Accounts](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). The seller selection algorithm is applied when the client checks the delivery options. That means that it is applied in the delivery preview in the cart or in the delivery and pickup stage at checkout.
+<div class="alert alert-warning">
+Note: The algorithm update applies to White Label Seller, and it includes <a href="https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">Franchise Accounts</a>. The seller selection algorithm is applied when the client checks the delivery options. That means that it is applied in the delivery preview in the cart or in the delivery and pickup stage at checkout.
+</div>
 
 ## Why did we make this change?
 

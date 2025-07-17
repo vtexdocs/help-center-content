@@ -1,5 +1,5 @@
 ---
-title: 'API para listar pontos de coleta não retorna campo de informações adicionais'
+title: "API para listar pontos de coleta não retorna campo de informações adicionais"
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: api-to-list-pickup-points-does-not-return-additionalinfo-field
+slugEN: api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais
 locale: pt
 kiStatus: No Fix
 internalReference: 650714
@@ -18,7 +18,9 @@ internalReference: 650714
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nossa API para listar os pontos de coleta por local está sempre retornando 'nulo' no campo 'informação adicional'. Entretanto, como estes dados normalmente vêm do API de logística, então estes dados estão presentes no pedidoFormulário de pedido ao colocar um pedido na caixa.

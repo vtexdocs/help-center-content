@@ -1,5 +1,5 @@
 ---
-title: 'Anúncios MELI BuyBox que não estão ligados a produtos bridge'
+title: "Anúncios MELI BuyBox que não estão ligados a produtos bridge"
 id: oI2IcQVkUxh3PcrT9k4JD
 status: PUBLISHED
 createdAt: 2023-03-30T11:04:48.189Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-buybox-ads-not-being-linked-to-bridge-products
+slugEN: anuncios-meli-buybox-que-nao-estao-ligados-a-produtos-bridge
 locale: pt
 kiStatus: Backlog
 internalReference: 780961
@@ -18,7 +18,9 @@ internalReference: 780961
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

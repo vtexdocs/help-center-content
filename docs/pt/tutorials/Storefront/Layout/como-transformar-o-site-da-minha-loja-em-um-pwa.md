@@ -1,10 +1,10 @@
 ---
 title: 'Como transformar o site da minha loja em um PWA'
 id: 3i8VmYeToAUGKgo2kKK6I2
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-03-19T18:20:25.794Z
-updatedAt: 2024-05-07T14:04:52.042Z
-publishedAt: 2023-07-10T14:28:55.813Z
+updatedAt: 2025-02-27T19:52:00.583Z
+publishedAt: 2025-02-27T19:52:00.583Z
 firstPublishedAt: 2018-03-20T14:54:55.189Z
 contentType: tutorial
 productTeam: Others
@@ -15,77 +15,131 @@ legacySlug: como-transformar-o-site-da-minha-loja-em-um-pwa
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+<div class = "alert alert-info">
+  <p>Este artigo é válido apenas para lojas utilizando o CMS Portal (Legado).</p>
 </div>
 
-PWA é a abreviação em inglês de Progressive Web App - um conjunto de técnicas usadas para desenvolver aplicações web e adicionar funcionalidades que antes só eram possíveis em apps nativos.
+Progressive Web App (PWA) é um conjunto de técnicas usadas para desenvolver aplicações web e adicionar funcionalidades que antes eram restritas a aplicativos nativos.
 
-Se você já tem um site ou uma aplicação web, pode implementar aos poucos as características que definem um PWA, como notificações, cache de arquivos, execução em modo off-line e outras possibilidades que fazem o usuário se sentir em um aplicativo nativo.
+- **Progressivo:** funciona em qualquer navegador.
+- **Responsivo:** se adapta a qualquer dispositivo, seja desktop, tablet ou mobile.
+- **Independente de conexão:** funciona mesmo quando o usuário estiver offline.
+- **Semelhante ao app:** oferece experiência de uso comparável a aplicativos nativos.
+- **Atualizado:** não é necessário baixar atualizações, pois o Service Worker permite que o navegador detecte e atualize automaticamente quando necessário.
+- **Seguro:** exige conexão HTTPS.
+- **Engajável:** permite notificações push para interação com o usuário.
+- **Instalável:** é possível adicionar um ícone na tela principal do dispositivo móvel, sem precisar acessar uma app store.
+- **Compartilhável:** seu compartilhamento é facilitado por URL, sem instalação complexa.
 
->⚠️ A plataforma VTEX **não** possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita. Lojas desenvolvidas com o VTEX IO Store Framework possuem este recurso nativamente.
+Se você já tem um site ou uma aplicação web, pode implementar aos poucos as características que definem um PWA, como notificações, cache de arquivos, execução em modo offline e outras possibilidades que fazem o usuário se sentir em um aplicativo nativo.
 
-## O Google define com exatidão o que é esperado de um PWA:
+<div class="alert alert-warning">
+A VTEX <strong>não</strong> oferece soluções nativas para conversão em PWA no CMS Portal (Legado). A VTEX fornece, no entanto, a infraestrutura básica para implementação manual. Lojas desenvolvidas com o VTEX IO Store Framework possuem este recurso nativamente.</div>
 
-__Progressivo:__ para qualquer usuário, independente do browser.
+## Instruções
 
-__Responsivo:__ se adequa a qualquer dispositivo: desktop, tablet e mobile.
+### Crie o arquivo manifest.json
 
-__Independente de conexão:__ funciona mesmo quando o usuário estiver offline.
+O arquivo `manifest.json` do aplicativo web fornece informações sobre um aplicativo (como nome, autor, ícone e descrição) em um arquivo de texto JSON. Sua criação tem como objetivo transformar uma aplicação web em algo instalável em um smartphone.
 
-__Semelhante ao app:__ o usuário se sente em um aplicativo nativo.
+Para criar o JSON, siga o passos abaixo:
 
-__Atualizado:__ não é necessário baixar atualizações, o browser simplesmente detecta e atualiza quando necessário, graças ao Service Worker.
+1. No Admin VTEX, acesse **Configurações da Loja > Storefront > Checkout**.
+2. Clique no ícone da engrenagem ⚙️ do site desejado.
+3. Na aba `Código`, clique em `Novo`.
+4. Escolha a opção `Arquivo`.
+5. No campo **Nome do arquivo**, digite `manifest.json`.
+6. Insira as informações do aplicativo (como nome, ícone e descrição), conforme o exemplo abaixo:
 
-__Seguro:__ fornecido apenas com HTTPS.
+    ```json
+    {
+      "name": "Minha Loja",
+      "short_name": "Loja",
+      "start_url": "/",
+      "display": "standalone",
+      "background_color": "#fff",
+      "theme_color": "#2F3DB2",
+      "icons": [{
+        "src": "/arquivos/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }]
+    }
+    ```
 
-__Engajável:__ através de push notifications, o usuário tem como ser engajado constantemente.
+7. Clique em `Salvar`.
 
-__Instalável:__ é possível adicionar um ícone na tela principal do smartphone, sem precisar acessar uma store.
+<div class="alert alert-info"> <p><strong>Dica:</strong> Utilize ícones em resolução mínima de 192x192px e formate cores hexadecimais conforme sua identidade visual.</p> </div>
 
-__Compartilhável:__ seu compartilhamento é facilitado por URL, sem instalação complexa.
+### Adicione o arquivo `manifest.json` ao aplicativo web
 
-## Como criar seu PWA do zero
+Após criar o arquivo `manifest.json`, adicione a seguinte linha dentro da seção `<head>` do seu arquivo `index.html`:
 
-Antes de começar, você deve ter a aplicação que irá adicionar as técnicas necessárias para que seu site ou aplicação web seja transformada em um PWA.
+```
+<link rel="manifest" href="/arquivos/manifest.json">
+```
 
-### Primeiro passo
-É preciso criar o arquivo manifest.json. O manifesto do aplicativo da web fornece informações sobre um aplicativo (como nome, autor, ícone e descrição) em um arquivo de texto JSON. O propósito do arquivo manifest é transformar uma aplicação web em algo instalável em um smartphone.
+Com isso, sua aplicação web poderá abrir um splash screen exatamente igual a aplicativos nativos.
 
-__Para criar o JSON, siga o passo a passo abaixo:__
+### Crie um Service Worker
 
-1. No admin VTEX, acesse **Storefront > Layout**.
-2. Clique na pasta **CMS**.
-3. Depois, na aba __Código__.
-4. Clique em __Novo__ e em seguida em __Arquivo__.
-5. Inclua o nome do arquivo exatamente como: __manifest.json__.
-6. Insira as informações do aplicativo (como nome, autor, ícone e descrição).
-7. Para finalizar, clique em __Salvar__.
+Service Worker é um script que seu navegador executa em segundo plano, separado da web, possibilitando recursos como sincronização periódica, notificações push e execução em modo offline.
 
-__Seu arquivo deve ser importado no index.html, assim:__
+Para criar o script, siga os passos abaixo:
 
-`<link rel="manifest" href="/arquivos/manifest.json">`
+1. No Admin VTEX, acesse **Configurações da Loja > Storefront > Checkout**.
+2. Clique no ícone da engrenagem ⚙️ do site desejado.
+3. Na aba `Código`, clique em `Novo`
+4. Escolha a opção `Arquivo`.
+5. No campo **Nome do arquivo**, digite `service-worker.js`.
+6. Programe a funcionalidade, conforme o exemplo abaixo:
 
-Depois disso, sua aplicação web poderá abrir um splash screen exatamente igual aos apps nativos.
+    ```js
+    // --- CONFIGURAÇÕES DO CACHE ---
+    // Define a versão do cache para facilitar atualizações futuras
 
-### Segundo passo
-Você deve criar um Service Worker para ter a opção de manipular as requisições que são feitas por sua aplicação e com isso possibilitar recursos que beneficiem seu PWA, como sincronização periódica, notificações push e até execução em modo off-line.
+    const CACHE = 'cache-v1';
 
-__Para criar o script, siga o passo a passo abaixo:__
+    // Lista de recursos críticos para pré-cache (páginas, CSS, imagens)
+    const FILES = ['/', '/arquivos/main.css', '/arquivos/logo.jpg'];
 
-1. No admin VTEX, acesse **Storefront > Layout**.
-2. Clique na pasta **CMS**.
-3.  Depois, na aba __Código__.
-4.  Clique em __Novo__ e em seguida em __Arquivo__.
-5.  Inclua o nome do arquivo exatamente como: __service-worker.js__.
-6.  Programe a funcionalidade.
-7.  Para finalizar, clique em __Salvar__.
+    // --- EVENTO DE INSTALAÇÃO ---
+    // Executado uma vez quando o Service Worker é registrado
 
-Apesar de o arquivo se encontrar em `/arquivos/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
+    self.addEventListener('install', (e) => {
+       // Abre o cache e armazena os recursos definidos
+      e.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)));
+    });
 
-### Terceiro passo
-A forma fácil de saber se você está no caminho certo na construção do seu PWA é usar alguma ferramenta de inspeção, como o Lighthouse do Google.
+    // --- EVENTO DE FETCH ---
+    // Intercepta todas as requisições de rede da página
 
-Basta fazer o download da extensão, entrar no site da sua loja e clicar no widget. Depois, aguardar o resultado e visualizar o feedback da ferramenta. O ideal é ir inspecionando aos poucos, para saber quais itens estão faltando.
+    self.addEventListener('fetch', (e) => {
+      // Estratégia Cache First:
+      // 1. Tenta responder com recurso do cache
+      // 2. Se não encontrado, busca na rede
 
-Fazendo isso, você terá uma versão do seu site com cara de app, por um custo muito mais baixo.
+      e.respondWith(caches.match(e.request).then(res => res || fetch(e.request)));
+    });
+    ```
+
+7. Clique em **Salvar**.
+
+Embora o arquivo esteja em `/arquivos/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
+
+<div class="alert alert-warning"> <p><strong>Atenção:</strong> O Service Worker só funcionará em ambientes HTTPS. Teste sempre em produção ou utilize tunnels seguros em desenvolvimento.</p> </div>
+
+Para saber mais sobre Service Worker, consulte a documentação do Google [Web Fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/).
+
+### Verifique a implementação do seu PWA
+
+Para garantir que seu site esteja no caminho certo na construção do seu PWA, utilize ferramentas de inspeção, como o Lighthouse do Google.
+
+Para inspecionar seu site com o Lighthouse, siga os os passos abaixo:
+
+1. Baixe a extensão do Lighthouse no seu navegador.
+2. Acesse o site da sua loja.
+3. Clique no widget da ferramenta.
+4. Aguarde a análise e visualize o feedback gerado.
+
+Para saber mais, veja o guia [Getting started with Lighthouse](https://developers.vtex.com/docs/guides/storefront-getting-started-with-lighthouse) do Developers Portal da VTEX.

@@ -1,5 +1,5 @@
 ---
-title: 'Seller Portal Promotion Minimum Item Price condition not working as expected'
+title: "Seller Portal Promotion Minimum Item Price condition not working as expected"
 id: d0qJRHP3ngtNH5gwSPaNi
 status: PUBLISHED
 createdAt: 2023-10-31T20:42:03.072Z

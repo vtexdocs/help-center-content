@@ -1,5 +1,5 @@
 ---
-title: 'O B2B Suite não usa coordenadas geográficas para calcular a Id da região'
+title: "O B2B Suite não usa coordenadas geográficas para calcular a Id da região"
 id: 7ITcf4hiOD1k6XBIhaCclj
 status: PUBLISHED
 createdAt: 2024-06-24T21:48:19.921Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-suite-dont-use-geocoordinates-to-calculate-region-id
+slugEN: o-b2b-suite-nao-usa-coordenadas-geograficas-para-calcular-a-id-da-regiao
 locale: pt
 kiStatus: Fixed
 internalReference: 1055033
@@ -18,7 +18,9 @@ internalReference: 1055033
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 É possível usar taxas de remessa usando códigos postais ou coordenadas geográficas, mas as organizações B2B usam somente códigos postais para calcular IDs de região. Se uma conta tiver geolocalização (polígonos) registrada em suas taxas de envio, os produtos serão mostrados como indisponíveis na vitrine.

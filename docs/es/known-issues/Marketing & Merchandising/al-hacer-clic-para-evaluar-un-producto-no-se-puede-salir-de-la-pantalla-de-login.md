@@ -1,5 +1,5 @@
 ---
-title: 'Al hacer clic para evaluar un producto no se puede salir de la pantalla de login'
+title: "Al hacer clic para evaluar un producto no se puede salir de la pantalla de login"
 id: JO77Qhe8KqqOk0g8KE8sU
 status: PUBLISHED
 createdAt: 2018-01-05T14:17:55.113Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: after-clicking-to-review-a-product-the-user-cant-exit-the-login-screen
+slugEN: al-hacer-clic-para-evaluar-un-producto-no-se-puede-salir-de-la-pantalla-de-login
 locale: es
 kiStatus: Backlog
 internalReference: 

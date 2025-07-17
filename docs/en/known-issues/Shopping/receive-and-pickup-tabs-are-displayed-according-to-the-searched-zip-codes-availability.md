@@ -1,5 +1,5 @@
 ---
-title: "Receive and Pick-up tabs are displayed according to the searched ZIP code's availability "
+title: "Receive and Pick-up tabs are displayed according to the searched ZIP code's availability"
 id: 5PVGReAvyE0AOcoIq2SeKS
 status: PUBLISHED
 createdAt: 2018-11-21T16:19:00.507Z
@@ -21,7 +21,7 @@ internalReference:
 At present, the possibility to display the "Receive | Pick up" options is subject to a CEP (ZIP code) search in any of the tabs. This means that, if for example you would search for a ZIP code that doesn't offer the pick-up point option in the "Receive" tab, the "Pick-up" tab would not be displayed.
 
 
-![Captura de Tela 2018-11-21 às 14.25.40](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Shopping/receive-and-pickup-tabs-are-displayed-according-to-the-searched-zip-codes-availability_1.png) 
+![Captura de Tela 2018-11-21 às 14.25.40](//images.ctfassets.net/alneenqid6w5/5kj7LZNmpiMsum4OSUc8mC/575006d7f6b4ad87dbeb60dea57b191c/Captura_de_Tela_2018-11-21_a__s_14.25.40.png) 
 
 ## Simulation
 

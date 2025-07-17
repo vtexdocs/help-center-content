@@ -1,5 +1,5 @@
 ---
-title: 'Algunos skus no se integran - Dafiti'
+title: "Algunos skus no se integran - Dafiti"
 id: 25aMinfLherQ7nKOhomTtc
 status: PUBLISHED
 createdAt: 2022-09-26T23:44:52.246Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: some-skus-dont-integrate-dafiti
+slugEN: algunos-skus-no-se-integran-dafiti
 locale: es
 kiStatus: Backlog
 internalReference: 655574
@@ -18,7 +18,9 @@ internalReference: 655574
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

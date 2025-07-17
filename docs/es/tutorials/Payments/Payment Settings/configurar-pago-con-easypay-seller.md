@@ -22,7 +22,7 @@ Para utilizar la afiliación easypay en tu marketplace, es necesario:
 - [Instalar la aplicación easypay seller account](#instalar-la-aplicacion-easypay-seller-account)
 - [Configurar la aplicación easypay seller account](#configurar-la-aplicacion-easypay-seller-account)
 
->⚠️ Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos [Configurar pago con easypay](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay marketplace](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+<div class="alert alert-warning" role="alert">Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J">Configurar pago con easypay</a> o <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pago con easypay marketplace</a>.</div>
 
 ## Instalar la aplicación easypay seller account
 
@@ -45,7 +45,7 @@ Después de instalar la aplicación easypay seller account, debes configurarla. 
 
 <blockquote><ui>- <b>Easypay Account UID</b>: identificación de la cuenta seller en la que se abonarán los valores de la compra de productos adquiridos en la tienda. Para obtener esta información, accede al <a href="https://backoffice.easypay.pt/">entorno easypay</a>, haz clic en el logotipo de easypay situado en la esquina superior de la pantalla y, a continuación, en la cuenta deseada. Copia y guarda la información <b>Account UID</b>.</ui> 
 
-![easypay_pt_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pago-con-easypay-seller_1.PNG)
+![easypay_pt_18](https://images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/e9218fcccf92ed76e45024aa1c4c2285/easypay_pt_18.PNG)
 
 <blockquote><ui>4. Haz clic en <b>Guardar</b>.</ui>
 

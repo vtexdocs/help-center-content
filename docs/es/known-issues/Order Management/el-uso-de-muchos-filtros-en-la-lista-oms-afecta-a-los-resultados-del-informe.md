@@ -1,5 +1,5 @@
 ---
-title: 'El uso de muchos filtros en la lista OMS afecta a los resultados del informe'
+title: "El uso de muchos filtros en la lista OMS afecta a los resultados del informe"
 id: WO9AvZxmUkmil35OZb8Lr
 status: PUBLISHED
 createdAt: 2023-02-17T17:45:57.039Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: using-many-filters-in-the-oms-list-affects-the-results-in-the-report
+slugEN: el-uso-de-muchos-filtros-en-la-lista-oms-afecta-a-los-resultados-del-informe
 locale: es
 kiStatus: Fixed
 internalReference: 756198
@@ -18,7 +18,9 @@ internalReference: 756198
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El uso de filtros en la Lista de Gestión de Pedidos genera un parámetro en la URL que ayuda a definir lo que se muestra al cargar la página y a generar el informe de pedidos exportados. En ese sentido, a medida que usamos más y más filtros, los parámetros incluidos en la URL aumentan proporcionalmente, y la cadena de consulta también, alcanzando puntos (tamaño) que pueden generar varios tipos de comportamientos no deseados.

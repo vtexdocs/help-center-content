@@ -15,7 +15,7 @@ legacySlug: como-configurar-boleto-bancario
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, su tienda puede vender a través del [Boleto Bancário](https://help.vtex.com/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S). Para configurar el Boleto Bancario, siga los pasos a continuación:
+En VTEX, su tienda puede vender a través del [Boleto Bancário](/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S). Para configurar el Boleto Bancario, siga los pasos a continuación:
 
 1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
 2. En la pantalla de proveedores, haga clic en el botón "Nuevo proveedor".
@@ -30,7 +30,7 @@ En VTEX, su tienda puede vender a través del [Boleto Bancário](https://help.vt
 3. En __Boleto__, seleccione la opción __Boleto Bancário__.
 4. Active la condición en el campo __Status__.
 5. En __Procesar con proveedor__, seleccione el proveedor configurado previamente.
-6. Si lo deseas, también puedes [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo deseas, también puedes [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Boleto Bancário puede tardar hasta 10 minutos en aparecer en la caja de tu tienda como opción de pago.

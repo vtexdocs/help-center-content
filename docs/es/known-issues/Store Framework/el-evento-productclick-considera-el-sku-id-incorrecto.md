@@ -1,5 +1,5 @@
 ---
-title: 'El evento productClick considera el SKU Id incorrecto'
+title: "El evento productClick considera el SKU Id incorrecto"
 id: 1tgrIgo8xGzDW9wJOnjU9E
 status: PUBLISHED
 createdAt: 2023-04-11T17:38:17.545Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: productclick-event-considers-the-incorrect-sku-id
+slugEN: el-evento-productclick-considera-el-sku-id-incorrecto
 locale: es
 kiStatus: Backlog
 internalReference: 788145
@@ -18,7 +18,9 @@ internalReference: 788145
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento productClick considera el Id SKU incorrecto cuando se utiliza el bloque Selector SKU de Resumen de Producto. Siempre utilizará el primer SKU de la lista de productos.

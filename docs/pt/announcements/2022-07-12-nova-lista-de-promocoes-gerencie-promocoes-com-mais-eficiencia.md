@@ -30,7 +30,7 @@ Desenvolvemos uma nova interface para a Lista de Promoções, que permite:
 * Exportar sua lista de promoções ativas.
 * Duplicar promoções ativas ou arquivadas para um processo de criação mais rápido.
 
-![geral-promo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-07-12-nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia_1.png)
+![geral-promo-PT](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/76708dc950cfef626516c9a08b6fe13d/image3.png)
 
 ## Por que fizemos essa mudança?
 
@@ -38,6 +38,6 @@ A atualização da Lista de Promoções faz parte do [Novo Admin VTEX](hhttps://
 
 ## O que precisa ser feito?
 
-A nova Lista de Promoções está disponível somente para lojas que estão operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para fazer parte da nova experiência, participe do [programa Beta](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) do Novo Admin VTEX.
+A nova Lista de Promoções está disponível somente para lojas que estão operando com o [Novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para fazer parte da nova experiência, participe do [programa Beta](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) do Novo Admin VTEX.
 
-Para mais informações sobre como aproveitar a nova página, confira o artigo [Lista de Promoções (Beta)](https://help.vtex.com/pt/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi).
+Para mais informações sobre como aproveitar a nova página, confira o artigo [Lista de Promoções (Beta)](/pt/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi).

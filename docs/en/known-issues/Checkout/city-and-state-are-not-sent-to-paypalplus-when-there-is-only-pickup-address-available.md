@@ -1,5 +1,5 @@
 ---
-title: 'City and state are not sent to PayPalPlus when there is only pickup address available'
+title: "City and state are not sent to PayPalPlus when there is only pickup address available"
 id: 5ScWTMLqT9oBMUYFc6WGo2
 status: PUBLISHED
 createdAt: 2023-06-01T13:47:08.477Z

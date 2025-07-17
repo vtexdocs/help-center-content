@@ -1,5 +1,5 @@
 ---
-title: 'Impossibilidade de usar duas ou mais credenciais diferentes do PayPal para a mesma conta.'
+title: "Impossibilidade de usar duas ou mais credenciais diferentes do PayPal para a mesma conta."
 id: 3cVh2SbvToH8yGOOYcWgDB
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:24.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: inability-to-use-two-or-more-different-paypal-credentials-for-the-same-account
+slugEN: impossibilidade-de-usar-duas-ou-mais-credenciais-diferentes-do-paypal-para-a-mesma-conta
 locale: pt
 kiStatus: No Fix
 internalReference: 459704
@@ -18,7 +18,9 @@ internalReference: 459704
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o usuário registra duas afiliações diferentes na mesma conta usando o PayPalPlus, a plataforma não atualiza o cache para quando houver uma alteração em uma regra de pagamento, ou seja, é possível usar apenas uma credencial por conta.

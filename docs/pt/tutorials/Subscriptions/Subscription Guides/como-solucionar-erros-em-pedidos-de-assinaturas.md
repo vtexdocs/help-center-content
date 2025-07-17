@@ -15,7 +15,9 @@ legacySlug: como-solucionar-pedidos-de-assinatura-com-erros
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
->ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 É possível identificar e gerenciar erros em pedidos de assinaturas através do módulo de **Assinaturas** > **Dashboards** > **Pedidos de Assinatura** no Admin.
 
@@ -30,7 +32,7 @@ Problemas em ciclos de assinaturas acontecem quando há um problema que impede a
 
 A aba **Ciclos com problema**, ilustrada na imagem abaixo, reúne os pedidos de assinaturas que apresentam problemas desse tipo.
 
-![cicloscomproblema PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-solucionar-erros-em-pedidos-de-assinaturas_1.png)
+![cicloscomproblema PT](https://images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
 
 A partir dessa aba, é possível gerenciar os pedidos que apresentam ciclos com problema e fazer novas tentativas manuais de criação de pedidos. Por exemplo, quando um produto está indisponível, você pode ajustar o estoque e, em seguida, fazer a nova tentativa.
 
@@ -187,7 +189,7 @@ Erros de pagamento são os que acontecem durante o fluxo de aprovação do pagam
 
 Pedidos com esse tipo de erro podem ser visualizados na aba **Erro de Pagamento**, ilustrada na imagem abaixo.
 
-![errosdepagamento PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-solucionar-erros-em-pedidos-de-assinaturas_2.png)
+![errosdepagamento PT](https://images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/305350275dedd4e7c7888814db9fab07/errosdepagamento_PT.png)
 
 Para analisar erros de pagamento, confira o passo a passo a seguir.
 
@@ -195,14 +197,14 @@ Para analisar erros de pagamento, confira o passo a passo a seguir.
 2. Clique na aba **Dashboards**.
 3. Na seção **Pedidos de Assinatura**, clique na aba **Erro de Pagamento**.
 4. Identifique o pedido desejado e clique na ID do pedido, conforme ilustrado na imagem abaixo. Você será redirecionado à página de detalhes do pedido, no módulo de **Todos os pedidos**.
-  ![PT Log Erro de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-solucionar-erros-em-pedidos-de-assinaturas_3.png)
+  ![PT Log Erro de pagamento](https://images.ctfassets.net/alneenqid6w5/7697GbtjQbOutzL1sgrpjV/afdaba25349564a26d46149b437aab2a/PT_Log_Erro_de_pagamento.png)
 5. Uma vez na página de detalhes do pedido, clique em `Ver detalhes da transação`, no card de **Pagamento**. Você será redirecionado à página de **Transações**, no módulo de **Pagamentos**.
-6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido) para mais informações.
+6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](/pt/tutorial/como-visualizar-detalhes-do-pedido) para mais informações.
 
 Os pedidos com erros de pagamento passam por 5 novas tentativas automáticas, em um período de até 12 horas, de acordo com o fluxo do gateway de pagamentos. Não é possível fazer tentativas manuais para corrigir erros de pagamento no Admin.
 
-Os clientes da sua loja podem editar suas assinaturas e realizar outras ações através da página [__Minha Conta__](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Isso permite que alguns erros de pagamento sejam resolvidos pelos próprios clientes, mesmo após o período de novas tentativas automáticas, alterando a forma de pagamento.
+Os clientes da sua loja podem editar suas assinaturas e realizar outras ações através da página [__Minha Conta__](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Isso permite que alguns erros de pagamento sejam resolvidos pelos próprios clientes, mesmo após o período de novas tentativas automáticas, alterando a forma de pagamento.
 
 #### **Saiba mais**
 
- * [Como gerenciar Assinaturas](https://help.vtex.com/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+ * [Como gerenciar Assinaturas](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)

@@ -1,5 +1,5 @@
 ---
-title: 'Os compradores não podem fazer login se houver uma configuração incorreta nas organizações/centros de custo'
+title: "Os compradores não podem fazer login se houver uma configuração incorreta nas organizações/centros de custo"
 id: r5p7K15FkbZUDSOUQ6hGz
 status: PUBLISHED
 createdAt: 2023-11-30T22:21:39.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: buyers-cant-login-if-there-is-misconfiguration-in-organizationscost-centers
+slugEN: os-compradores-nao-podem-fazer-login-se-houver-uma-configuracao-incorreta-nas-organizacoescentros-de-custo
 locale: pt
 kiStatus: Fixed
 internalReference: 945609
@@ -18,7 +18,9 @@ internalReference: 945609
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário tem a primeira organização atribuída a ele inválida com o ID do centro de custo errado, o login falha sem nenhuma mensagem.

@@ -1,5 +1,5 @@
 ---
-title: 'La suma de los valores SellingPrice puede diferir del valor total del producto restado por los descuentos totales'
+title: "La suma de los valores SellingPrice puede diferir del valor total del producto restado por los descuentos totales"
 id: wo1qtfZnDfI8EylRbXiPF
 status: PUBLISHED
 createdAt: 2019-09-13T18:08:45.753Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: sum-of-sellingprice-values-may-differ-from-total-product-value-minus-the-total-discounts
+slugEN: la-suma-de-los-valores-sellingprice-puede-diferir-del-valor-total-del-producto-restado-por-los-descuentos-totales
 locale: es
 kiStatus: Backlog
 internalReference: 

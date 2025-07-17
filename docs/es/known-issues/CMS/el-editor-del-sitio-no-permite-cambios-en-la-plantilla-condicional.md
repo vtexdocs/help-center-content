@@ -1,5 +1,5 @@
 ---
-title: 'El editor del sitio no permite cambios en la plantilla condicional'
+title: "El editor del sitio no permite cambios en la plantilla condicional"
 id: dGuXWBUUZdMB0nfndLPZ9
 status: PUBLISHED
 createdAt: 2023-07-13T20:05:31.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-doesnt-allow-changes-on-the-conditional-template
+slugEN: el-editor-del-sitio-no-permite-cambios-en-la-plantilla-condicional
 locale: es
 kiStatus: Backlog
 internalReference: 861920
@@ -18,7 +18,9 @@ internalReference: 861920
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando una plantilla se establece como la condicional no es capaz de realizar cambios en él a través del editor del sitio.

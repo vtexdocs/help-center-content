@@ -1,5 +1,5 @@
 ---
-title: 'marketingData não é salvo nos pedidos ao usar o recurso de vários cupons e utms'
+title: "marketingData não é salvo nos pedidos ao usar o recurso de vários cupons e utms"
 id: OUMc8x9sEcdp8ZbLIka4b
 status: PUBLISHED
 createdAt: 2023-11-22T21:53:36.924Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketingdata-is-not-saved-in-orders-when-using-multiple-coupons-feature-and-utms
+slugEN: marketingdata-nao-e-salvo-nos-pedidos-ao-usar-o-recurso-de-varios-cupons-e-utms
 locale: pt
 kiStatus: Fixed
 internalReference: 936458
@@ -18,7 +18,9 @@ internalReference: 936458
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o recurso de vários cupons e houver cupons e utms, ou 'marketingTags', no 'orderForm', nenhum 'marketingData' é salvo no pedido.

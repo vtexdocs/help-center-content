@@ -1,5 +1,5 @@
 ---
-title: 'Error de importación de productos compartidos'
+title: "Error de importación de productos compartidos"
 id: 7Ac5m90azZwKSOfPsz8zyC
 status: PUBLISHED
 createdAt: 2023-05-08T20:46:06.781Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: shared-products-import-error
+slugEN: error-de-importacion-de-productos-compartidos
 locale: es
 kiStatus: Backlog
 internalReference: 647962
@@ -18,7 +18,9 @@ internalReference: 647962
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente tenemos un error en algunos casos donde la ruta de la categoría contiene "/" los productos no se pueden importar a productos compartidos

@@ -1,5 +1,5 @@
 ---
-title: 'Erro 403 para todos os URLs que contêm develop-'
+title: "Erro 403 para todos os URLs que contêm develop-"
 id: X6JDmLhD0StgHPGXJd9cZ
 status: PUBLISHED
 createdAt: 2024-02-01T13:46:53.024Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: 403-error-for-all-urls-containing-develop
+slugEN: erro-403-para-todos-os-urls-que-contem-develop
 locale: pt
 kiStatus: Backlog
 internalReference: 975182
@@ -18,7 +18,9 @@ internalReference: 975182
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que um URL possa conter qualquer palavra sem gerar um erro, mas a palavra "**develop "** seguida pelo caractere "**-**" gera um erro 403 automático.

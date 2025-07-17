@@ -20,9 +20,9 @@ El costo final del envío es el precio total que se cobrará al cliente final po
 
 Vea cómo se calcula cada tarifa:
 
-* **[Tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: es la tarifa registrada con la política de envío, y corresponde a la tarifa de la transportadora o de un punto de recogida. No tiene en cuenta los costos de muelle y almacén. Esta tarifa considera:
+* **[Tarifa de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: es la tarifa registrada con la política de envío, y corresponde a la tarifa de la transportadora o de un punto de recogida. No tiene en cuenta los costos de muelle y almacén. Esta tarifa considera:
     * Un costo fijo de flete.
-    * [Adicionales de flete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): adicional de peso, adicional de precio, adicional de seguro y adicional de flete. 
+    * [Adicionales de flete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): adicional de peso, adicional de precio, adicional de seguro y adicional de flete. 
 
     La tarifa de envío se calcula mediante la suma del costo fijo y los adicionales de flete registrados. 
 
@@ -31,7 +31,9 @@ Vea cómo se calcula cada tarifa:
 
 Así que, en general, el costo final del envío puede calcularse así:
 
-![Custo-final-envio-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20rates/costo-final-del-envio_1.svg)
+![Custo-final-envio-ES](https://images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/48b3d941065ab47cb55c7b4590b993bd/Custo-final-envio-ES.svg)
 
->❗ Si el **adicional de precio** es inferior al **adicional de seguro,** la tarifa considerada es el adicional de seguro. El adicional de precio no se tomará en cuenta en el cálculo de la tarifa final.<p>
-> La elección de la transportadora para el envío de los ítems considera únicamente el precio de la Tarifa de envío, sin tener en cuenta los costos del muelle y del almacén (si existen). Para simular el escenario de entrega para el cliente utilice el[Simulador de envío](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).
+<div class="alert alert-danger">
+Si el <b>adicional de precio</b> es inferior al <b>adicional de seguro,</b> la tarifa considerada es el adicional de seguro. El adicional de precio no se tomará en cuenta en el cálculo de la tarifa final.<p>
+La elección de la transportadora para el envío de los ítems considera únicamente el precio de la Tarifa de envío, sin tener en cuenta los costos del muelle y del almacén (si existen). Para simular el escenario de entrega para el cliente utilice el<a href="https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144">Simulador de envío</a>.
+</div>

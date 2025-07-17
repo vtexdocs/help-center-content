@@ -1,5 +1,5 @@
 ---
-title: 'Let Me Know controller texts are not being translated'
+title: "Let Me Know controller texts are not being translated"
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z

@@ -1,5 +1,5 @@
 ---
-title: 'A imagem do produto no admin muda com mais de 70 skus.'
+title: "A imagem do produto no admin muda com mais de 70 skus."
 id: 6EtUyiWzpm5moEN6hkY4B0
 status: PUBLISHED
 createdAt: 2024-03-21T15:18:20.218Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-image-on-admin-changes-with-more-than-70-skus
+slugEN: a-imagem-do-produto-no-admin-muda-com-mais-de-70-skus
 locale: pt
 kiStatus: Backlog
 internalReference: 1003966
@@ -18,11 +18,13 @@ internalReference: 1003966
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um produto tem mais de 70 variações de skus, sua imagem no admin (e somente no admin) é alterada para uma imagem de informações:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-imagem-do-produto-no-admin-muda-com-mais-de-70-skus_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/3oAwbW4sgou7su2F6Ls5CGqoR/?name=image.png)
 
 com o texto: "ATENÇÃO: não foi possível excluir este produto porque ele tem mais SKUs do que o permitido pelo sistema."
 

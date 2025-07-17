@@ -1,5 +1,5 @@
 ---
-title: '<vtex.cmc ProductGifts/> does not work before acessing checkout'
+title: "<vtex.cmc ProductGifts/> does not work before acessing checkout"
 id: 3blfXfhPvY2cNEzBYGEmAo
 status: PUBLISHED
 createdAt: 2024-05-08T17:11:51.770Z

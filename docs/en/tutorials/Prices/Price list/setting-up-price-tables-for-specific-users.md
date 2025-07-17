@@ -21,7 +21,9 @@ Unlike trade policies, which can also be used to segment prices, there is no lim
 
 For example, let's say you want customers in São Paulo to see a price different from the price seen by customers in Rio de Janeiro. In this case, you can create two different price lists, and associate the first one to the customers in São Paulo, and the second to those in Rio de Janeiro.
 
->ℹ️ You can define fixed prices or price rules to modify the price of an SKU in a price table.
+<div class="alert alert-info">
+<p>You can define fixed prices or price rules to modify the price of an SKU in a price table.</p>
+</div>
 
 This gives the retailer more freedom to handle contextual information from their customers. 
 
@@ -61,8 +63,9 @@ Another way to use Price Tables is by declaring them directly on the customer fo
 10. In the row of the entity you have edited, click on the floppy disk icon to publish it.
 11. Then, click on the arrows icon to reindex it.
 
->ℹ️ Each customer can have up to 5 Price Tables associated with them.
-> When the customer has more than one Price Table linked to them, the system will follow the order in which the Price Tables were created to determine the price of each SKU. If the SKU does not have a price configured in the first Price Table, the system will look for a price in the second one, and so on. In case there is no price configured in any of the Price Tables, the base price will be applied.
+<div class="alert alert-info">
+<p>Each customer can have up to 5 Price Tables associated with them.
+When the customer has more than one Price Table linked to them, the system will follow the order in which the Price Tables were created to determine the price of each SKU. If the SKU does not have a price configured in the first Price Table, the system will look for a price in the second one, and so on. In case there is no price configured in any of the Price Tables, the base price will be applied.</p></div>
 
 Now your Customers entity has a `priceTables` attribute, which can be populated directly in the Master Data UI or via API.
 
@@ -74,17 +77,19 @@ In the Admin, go to __Prices__ > __Price List__.
 
 In the search filter, enter the names of the tables created in __Master Data__.
 
-![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/setting-up-price-tables-for-specific-users_1.png)
+![Filtros](https://images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/e57ad4523d95718b3152713093f9dbb0/Filtros.png)
 
 Price tables are shown as columns of the price list, as are trade policies.
 
-![Lista preços- EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/setting-up-price-tables-for-specific-users_2.png)
+![Lista preços- EN](https://images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/1b6487ea75a8d09f90c56c79040af682/Lista_pre_os-_EN.png)
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 
 To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
->ℹ️ The Price Table has priority over the prices from the trade Policy. If a given Price Table applies to a user's context, the price set in it will be used, even if that customer is also within the context of a trade policy with a different price.
+<div class="alert alert-info">
+<p>The Price Table has priority over the prices from the trade Policy. If a given Price Table applies to a user's context, the price set in it will be used, even if that customer is also within the context of a trade policy with a different price.</p>
+</div>
 
 ## Displaying different prices for different users
 
@@ -93,10 +98,12 @@ When a user is not logged into your store, the default prices set by the trade p
 If the user is logged in, they will see the prices corresponding to the price table with which their email is associated.
 
 For example, these two clients are linked to different price tables:
-![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/setting-up-price-tables-for-specific-users_3.png)
+![Clients](https://images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 When Daniel, who is linked to the Silver price table, is logged into the store, he will see the prices set on this table. The backpack in the example above will cost USD 50.00.
 
 Breno, who is linked to the Gold price table, will see the prices set on this table. He would pay USD 60.50 for the same backpack.
 
->⚠️ The customer <strong> must </ strong> be authenticated — through token, password, Google, or Facebook — to see the prices that apply to them. Otherwise, the price shown will be the default price. Please note that entering the email address at checkout is not enough, since in this process the customer is identified, but not authenticated.
+<div class="alert alert-warning">
+The customer <strong> must </ strong> be authenticated — through token, password, Google, or Facebook — to see the prices that apply to them. Otherwise, the price shown will be the default price. Please note that entering the email address at checkout is not enough, since in this process the customer is identified, but not authenticated.
+</div>

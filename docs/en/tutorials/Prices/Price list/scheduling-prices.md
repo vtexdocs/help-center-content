@@ -48,7 +48,9 @@ To schedule prices in the Admin, please follow the steps below.
 - **End date:** indicates the date from which the fixed price will no longer be valid.  
 - **End time:** indicates the time from which the fixed price will no longer be valid.  
 
->ℹ️ When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.
+<div class="alert alert-info">
+  <p>When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.</p>
+</div>
 
 ## Scheduling prices by importing a fixed price template
 
@@ -56,7 +58,7 @@ You can also schedule prices by importing a fixed price template. To do this, pl
 
 1. In the VTEX Admin, go to **Prices > Price list**, or type **Price list** in the search bar at the top of the page.
 2. Click on the 📥 icon to export the template to be filled in.
-![Agendar preços - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/scheduling-prices_1.png)
+![Agendar preços - EN](https://images.contentful.com/alneenqid6w5/5pBmnKfaoig59962PcNFQq/1fea4935c2c88aebabfa0a505fe4245d/image.png)
 3. Select only the **Fixed prices table** option.
 4. Click on `Export 1 table`.
 
@@ -70,9 +72,11 @@ The template will be sent to your email and you can download it. After downloadi
 - **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -
 - **Date to:** the date and time from which the fixed price will no longer be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 
->ℹ️ The **Date From** and **Date To** fields follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank) format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: `2024-12-30T22:00:00-03:00`. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: `2024-12-30T00:00:00Z`.
+<div class="alert alert-info">
+    The <strong>Date From</strong> and <strong>Date To</strong> fields follow the <a href="https://www.ietf.org/rfc/rfc3339.txt" target="_blank">RFC3339</a> format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: <code>2024-12-30T22:00:00-03:00</code>. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: <code>2024-12-30T00:00:00Z</code>.
+</div>
 
-![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/scheduling-prices_2.png)
+![Agendar preço fixo planilha PT](https://images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Once you have finished filling in the template, you must import it into the store. Please follow the steps below:
 

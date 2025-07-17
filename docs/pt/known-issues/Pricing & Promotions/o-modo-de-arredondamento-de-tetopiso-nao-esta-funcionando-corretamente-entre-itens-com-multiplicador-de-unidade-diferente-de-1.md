@@ -1,5 +1,5 @@
 ---
-title: 'O modo de arredondamento de teto/piso não está funcionando corretamente entre itens com multiplicador de unidade diferente de 1'
+title: "O modo de arredondamento de teto/piso não está funcionando corretamente entre itens com multiplicador de unidade diferente de 1"
 id: 5KzOM5kEp8QpkBTX7hdil1
 status: PUBLISHED
 createdAt: 2024-01-18T17:53:08.668Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: roundingmode-ceilingfloor-not-working-properly-among-items-with-unitmultiplier-other-than-1
+slugEN: o-modo-de-arredondamento-de-tetopiso-nao-esta-funcionando-corretamente-entre-itens-com-multiplicador-de-unidade-diferente-de-1
 locale: pt
 kiStatus: Backlog
 internalReference: 968349
@@ -18,7 +18,9 @@ internalReference: 968349
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

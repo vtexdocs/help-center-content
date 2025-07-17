@@ -1,5 +1,5 @@
 ---
-title: 'O Quantity Selector não permite que eu altere o valor digitando'
+title: "O Quantity Selector não permite que eu altere o valor digitando"
 id: 4whARKlTiLQhTluJrIRfO5
 status: PUBLISHED
 createdAt: 2024-06-28T15:01:34.187Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: quantity-selector-wont-let-me-change-the-value-by-typing
+slugEN: o-quantity-selector-nao-permite-que-eu-altere-o-valor-digitando
 locale: pt
 kiStatus: Fixed
 internalReference: 1057544
@@ -18,7 +18,9 @@ internalReference: 1057544
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente seletor de quantidade na Faststore está apresentando um bug. Se o valor mínimo de um produto for 10 e eu quiser digitar 15, o seletor não permitirá que eu exclua o 0 porque ele permitirá que digitemos 1, que seria um valor menor do que a quantidade mínima. Se eu quiser digitar 15, preciso digitar 150 e então poderei excluir o 0.

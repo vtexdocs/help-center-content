@@ -3,8 +3,8 @@ title: 'Creating a Buy Together promotion'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2024-11-06T15:47:11.539Z
-publishedAt: 2024-11-06T15:47:11.539Z
+updatedAt: 2025-02-24T16:17:27.631Z
+publishedAt: 2025-02-24T16:17:27.631Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -61,12 +61,12 @@ In this article, we'll go through the steps to create and configure a Buy Togeth
 
 Define the main information about the promotion, such as its name, description, and expiration date.
 
-- **Name:** Choose a clear and objective name for the promotion.
+- **Name:** Choose a clear and objective name for the promotion (up to 150 characters).
 - **Status:** Define whether the promotion will be **Active** or **Inactive**. When **Active**, the promotion will be applied based on the configured dates and times. If **Inactive**, the promotion will be paused, even within the defined period.
-- **Description:** Write a brief description of the promotion (up to 300 characters), highlighting its main objectives.
+- **Description:** Write a brief description of the promotion (up to 10,000 characters), highlighting its main objectives.
 - **Start date:** Enter the date the promotion will start.
 - **Start time:** Enter the time the promotion will start.
-- **End date:** Enter the date the promotion will end.
+- **End date:** Enter the date the promotion will end. The date must be later than the current date.
 - **End time:** Enter the exact time the promotion will end.
 - **Use recurrence settings:** Activate this option if you want the promotion to repeat automatically on specific days and times.
 
@@ -80,7 +80,7 @@ Define whether the promotion will apply to all sellers or only to selected ones.
 
 ### Trade policies
 
-Select the trade policies that will offer the discount. You can offer discounts for trade policies where [your store acts as a marketplace](https://help.vtex.com/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](https://help.vtex.com/pt/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
+Select the trade policies that will offer the discount. You can offer discounts for trade policies where [your store acts as a marketplace](/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](/pt/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
@@ -105,6 +105,10 @@ See below for how to configure **Lists 1 and 2** to activate discount conditions
 - **SKUs:** Select the additional SKUs which, when added to the cart along with SKUs from List 1, will activate the configured discount. The promotion is activated only if products from both List 1 and List 2 are added to the cart.
 - **Discount:** Enter the discount percentage for SKUs in List 2 when SKUs from List 1 are added to the cart. Enter the value in percent (%). For example, to apply a 10% discount on the purchase of a belt combined with pants from List 1, enter "10" in this field.
 
+<div class = "alert alert-info">
+Keep different SKUs in List 1 and List 2. Do not repeat the same SKU in both lists.
+</div>
+
 ## Conditions
 
 Define the conditions that will apply to the promotion. Conditions allow the promotion to activate under specific circumstances based on the selected criteria. To add a condition, follow the instructions below:
@@ -115,15 +119,16 @@ Define the conditions that will apply to the promotion. Conditions allow the pro
 
 - **Card BIN:** Apply this promotion when using cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a .txt or .csv file, with each BIN on a separate row.
 
-- **Customer cluster:** Select a [customer cluster](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes) previously created in Master Data. This cluster groups customers with specific characteristics to whom the promotion will apply. Choose one of the following:
+- **Customer cluster:** Select an already created [customer cluster](/pt/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
+
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 
-- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with UTM parameters or when a coupon linked to these parameters is used. Using these parameters is optional and allows you to apply discounts to specific campaigns. Set the following parameters if necessary:
+- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with UTM parameters or when a coupon linked to these parameters is used. Using these parameters is optional and allows you to apply discounts to specific campaigns. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores. If necessary, fill in the following parameters:
   - **utm_source:** Apply the discount when browsing occurs with the utm_source parameter configured.
   - **utm_campaign:** Apply the discount when browsing occurs with the utm_campaign parameter configured.
   - **Create coupon from the UTM parameters above:** Generate a coupon based on the UTM parameters entered in the "UTM_source" and "UTM_campaign" fields.
-  - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters.
+  - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters. When creating coupons from UTMs, do not use the name `new`, as this generates an invalid URL.
 
 ## Restrictions
 
@@ -136,10 +141,10 @@ In this section, determine whether the promotion can be combined with other prom
 
 In this section, you can highlight the promotion on the product listing page and add custom data for in-store customizations.
 
-- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 
 See the Buy Together creation form below:
 
-![Informação geral - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-together_1.gif)
+![Informação geral - EN](https://images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/12e35d7d12bc22ffa4921a63502d5401/Compre_Junto_V1-_EN.gif)
 

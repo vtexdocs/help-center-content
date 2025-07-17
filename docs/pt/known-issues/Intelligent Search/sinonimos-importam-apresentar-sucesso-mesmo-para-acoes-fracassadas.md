@@ -1,5 +1,5 @@
 ---
-title: 'Sinônimos importam apresentar sucesso mesmo para ações fracassadas'
+title: "Sinônimos importam apresentar sucesso mesmo para ações fracassadas"
 id: 4EhvPXp1vXBf2596mANlX6
 status: PUBLISHED
 createdAt: 2024-02-19T22:05:46.953Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: synonyms-import-presenting-success-even-for-failed-actions
+slugEN: sinonimos-importam-apresentar-sucesso-mesmo-para-acoes-fracassadas
 locale: pt
 kiStatus: Backlog
 internalReference: 984557
@@ -18,7 +18,9 @@ internalReference: 984557
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A importação de sinônimos para arquivos CSV retornará uma mensagem de sucesso mesmo para ações que falharam.

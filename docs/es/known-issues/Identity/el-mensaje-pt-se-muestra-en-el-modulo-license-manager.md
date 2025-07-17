@@ -1,5 +1,5 @@
 ---
-title: 'El mensaje PT se muestra en el módulo License Manager'
+title: "El mensaje PT se muestra en el módulo License Manager"
 id: 6nC0EfB2pO2pIyH9HEDDAP
 status: PUBLISHED
 createdAt: 2022-07-19T19:02:51.412Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: pt-message-is-shown-in-the-license-manager-module
+slugEN: el-mensaje-pt-se-muestra-en-el-modulo-license-manager
 locale: es
 kiStatus: No Fix
 internalReference: 620782
@@ -18,7 +18,9 @@ internalReference: 620782
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

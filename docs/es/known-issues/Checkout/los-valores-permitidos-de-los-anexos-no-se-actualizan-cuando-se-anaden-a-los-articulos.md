@@ -1,5 +1,5 @@
 ---
-title: 'Los valores permitidos de los anexos no se actualizan cuando se añaden a los artículos.'
+title: "Los valores permitidos de los anexos no se actualizan cuando se añaden a los artículos."
 id: 1JjFJJGsUaLWvthJ7kxSBw
 status: PUBLISHED
 createdAt: 2023-10-17T20:16:40.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: attachments-permitted-values-are-not-updated-when-its-added-to-items
+slugEN: los-valores-permitidos-de-los-anexos-no-se-actualizan-cuando-se-anaden-a-los-articulos
 locale: es
 kiStatus: Backlog
 internalReference: 920970
@@ -18,7 +18,9 @@ internalReference: 920970
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los valores permitidos del adjunto no se actualizan si se añadió a un artículo antes de cambiar sus valores en el admin. Esto provocará un error en el carrito con el mensaje "Imposible comunicarse con el vendedor".

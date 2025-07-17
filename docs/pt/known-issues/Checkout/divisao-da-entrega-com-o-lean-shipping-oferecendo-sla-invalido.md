@@ -1,5 +1,5 @@
 ---
-title: 'Divisão da entrega com o Lean Shipping oferecendo SLA inválido'
+title: "Divisão da entrega com o Lean Shipping oferecendo SLA inválido"
 id: 61Yq1WhmCclFtcum3YMtXn
 status: PUBLISHED
 createdAt: 2024-02-27T19:21:21.615Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-split-with-lean-shipping-offering-invalid-sla
+slugEN: divisao-da-entrega-com-o-lean-shipping-oferecendo-sla-invalido
 locale: pt
 kiStatus: Backlog
 internalReference: 990155
@@ -18,7 +18,9 @@ internalReference: 990155
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um carrinho de compras inclui produtos de diferentes vendedores, com diferentes canais de entrega e IDs de SLA entre eles, a interface do usuário do Checkout ativa o Lean Shipping, resumindo os SLAs disponíveis para exibir apenas as opções "mais rápida" e "mais barata" para cada item.

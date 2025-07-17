@@ -1,5 +1,5 @@
 ---
-title: 'Block Selector not working at Site Editor home page'
+title: "Block Selector not working at Site Editor home page"
 id: 5E1rjZUaL9Jo25JtGcf77C
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:56.902Z

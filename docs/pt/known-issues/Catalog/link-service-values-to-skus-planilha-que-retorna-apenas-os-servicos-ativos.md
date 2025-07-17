@@ -1,5 +1,5 @@
 ---
-title: 'LINK SERVICE VALUES TO SKUS planilha que retorna apenas os serviços ativos'
+title: "LINK SERVICE VALUES TO SKUS planilha que retorna apenas os serviços ativos"
 id: 1FqAokiJLWwWnsPodyTMKY
 status: PUBLISHED
 createdAt: 2023-08-23T17:51:58.839Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: link-service-values-to-skus-spreadsheet-only-returning-active-services
+slugEN: link-service-values-to-skus-planilha-que-retorna-apenas-os-servicos-ativos
 locale: pt
 kiStatus: Backlog
 internalReference: 886486
@@ -18,7 +18,9 @@ internalReference: 886486
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao exportar valores de serviços de uma categoria específica no admin, o resultado está trazendo apenas os serviços ativos. Não permitindo que o comerciante ative serviços anteriormente inativos por planilha.

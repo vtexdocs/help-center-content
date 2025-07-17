@@ -27,11 +27,13 @@ You can [configure which identification methods you want to enable](https://deve
 
 In the example image below, Email and CPF are enabled.
 
-![31. VTEX Sales App - Product Overview - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/customer-identification_1.PNG)
+![31. VTEX Sales App - Product Overview - 2 - EN](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99343004a1e70a756f043ea293d5cd24/identify-customer-en.PNG)
 
 Just enter one of these data in the field and click on the `Confirm` button.
 
 Alternatively, if you have enabled the Anonymous User feature, it is possible to proceed without identifying the customer. To do this, just click on `Proceed without identification`.
 
->ℹ️ Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the sales associate a series of contextual information that increases the chances of conversion.
+<div class="alert alert-info">
+Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the sales associate a series of contextual information that increases the chances of conversion.
+</div>
 

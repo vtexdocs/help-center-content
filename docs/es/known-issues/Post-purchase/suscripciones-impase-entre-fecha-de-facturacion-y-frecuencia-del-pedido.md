@@ -1,5 +1,5 @@
 ---
-title: 'Suscripciones: impase entre fecha de facturación y frecuencia del pedido'
+title: "Suscripciones: impase entre fecha de facturación y frecuencia del pedido"
 id: 4k32lnRONWU3YzXyvXJItO
 status: PUBLISHED
 createdAt: 2021-06-14T20:32:51.367Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Order Management
-slugEN: subscriptions-conflict-between-the-subscription-billing-frequency-and-cycle
+slugEN: suscripciones-impase-entre-fecha-de-facturacion-y-frecuencia-del-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 

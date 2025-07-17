@@ -1,5 +1,5 @@
 ---
-title: 'Mapeador de atributos personalizado Mercado Livre'
+title: "Mapeador de atributos personalizado Mercado Livre"
 id: 4A7inX7nFte4jRhZRLkPRO
 status: PUBLISHED
 createdAt: 2023-12-12T09:59:40.945Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: custom-attribute-mapper-mercado-livre
+slugEN: mapeador-de-atributos-personalizado-mercado-livre
 locale: es
 kiStatus: No Fix
 internalReference: 521197
@@ -18,7 +18,9 @@ internalReference: 521197
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

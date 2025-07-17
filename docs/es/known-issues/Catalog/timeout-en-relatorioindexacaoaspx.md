@@ -1,5 +1,5 @@
 ---
-title: 'Timeout en RelatorioIndexacao.aspx'
+title: "Timeout en RelatorioIndexacao.aspx"
 id: 1t6db8tkCTg9mrEFWfUwxd
 status: PUBLISHED
 createdAt: 2022-03-22T18:40:23.898Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: time-out-at-relatorioindexacaoaspx
+slugEN: timeout-en-relatorioindexacaoaspx
 locale: es
 kiStatus: Backlog
 internalReference: 547844
@@ -18,7 +18,9 @@ internalReference: 547844
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las cuentas con muchos productos pueden perder el tiempo en la pantalla del informe del índice

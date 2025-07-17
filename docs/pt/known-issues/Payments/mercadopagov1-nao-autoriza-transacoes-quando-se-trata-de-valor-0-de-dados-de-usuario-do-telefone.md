@@ -1,5 +1,5 @@
 ---
-title: 'MercadoPagoV1 não autoriza transações quando se trata de valor 0 de dados de usuário do telefone.'
+title: "MercadoPagoV1 não autoriza transações quando se trata de valor 0 de dados de usuário do telefone."
 id: 2C7ULAPQxqHjn8e1d0StFc
 status: PUBLISHED
 createdAt: 2023-03-27T15:35:09.810Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0
+slugEN: mercadopagov1-nao-autoriza-transacoes-quando-se-trata-de-valor-0-de-dados-de-usuario-do-telefone
 locale: pt
 kiStatus: Backlog
 internalReference: 778611
@@ -18,7 +18,9 @@ internalReference: 778611
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se o checkout do cliente enviar dados do usuário sem validação adequada, como um número de telefone com menos de três dígitos, estes dados são passados para o gateway como está, o que pode causar erros inesperados durante o processamento. Por exemplo, nosso analisador pode acionar uma exceção e cancelar a transação.

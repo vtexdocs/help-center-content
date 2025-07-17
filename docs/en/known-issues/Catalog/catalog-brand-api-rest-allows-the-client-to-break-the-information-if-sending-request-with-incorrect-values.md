@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Brand API REST allows the client to break the information if sending request with incorrect values'
+title: "Catalog Brand API REST allows the client to break the information if sending request with incorrect values"
 id: 6yIs7KNTiS1oghcobXNnVD
 status: PUBLISHED
 createdAt: 2024-10-30T18:59:26.880Z

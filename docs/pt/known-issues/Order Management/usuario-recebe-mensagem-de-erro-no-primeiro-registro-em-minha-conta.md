@@ -1,5 +1,5 @@
 ---
-title: 'Usuário recebe mensagem de erro no primeiro registro em Minha conta'
+title: "Usuário recebe mensagem de erro no primeiro registro em Minha conta"
 id: 1eFTt4iIxZsBPxd3UQ436r
 status: PUBLISHED
 createdAt: 2022-07-21T15:40:25.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: user-receives-error-message-on-first-registration-in-my-account
+slugEN: usuario-recebe-mensagem-de-erro-no-primeiro-registro-em-minha-conta
 locale: pt
 kiStatus: Backlog
 internalReference: 619909
@@ -18,7 +18,9 @@ internalReference: 619909
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um novo usuário se registra em **Minha conta***, a página executa duas solicitações, uma enviando os dados e a outra consultando o `ide do usuário` desse usuário, mas nesta segunda solicitação o retorno é 404 não encontrado, e a página exibe uma mensagem de erro para o usuário.

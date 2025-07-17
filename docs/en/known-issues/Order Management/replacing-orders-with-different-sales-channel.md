@@ -1,5 +1,5 @@
 ---
-title: 'Replacing orders with different Sales Channel'
+title: "Replacing orders with different Sales Channel"
 id: 2gShXcwLLHu7R8JyPjP0W6
 status: PUBLISHED
 createdAt: 2024-02-16T13:02:17.686Z

@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem de que algo deu errado ao acessar as rotas /a e /p nos repositórios do Portal'
+title: "Mensagem de que algo deu errado ao acessar as rotas /a e /p nos repositórios do Portal"
 id: 2XGAGH8xpNqjJpAir6DKzz
 status: PUBLISHED
 createdAt: 2023-11-30T16:31:45.428Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: something-went-wrong-message-when-accessing-a-and-p-routes-in-portal-stores
+slugEN: mensagem-de-que-algo-deu-errado-ao-acessar-as-rotas-a-e-p-nos-repositorios-do-portal
 locale: pt
 kiStatus: Backlog
 internalReference: 945226
@@ -18,7 +18,9 @@ internalReference: 945226
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que seja possível pesquisar qualquer termo nas lojas do Portal; no entanto, as letras "A" e "P" não são diretamente pesquisáveis por meio da URL.

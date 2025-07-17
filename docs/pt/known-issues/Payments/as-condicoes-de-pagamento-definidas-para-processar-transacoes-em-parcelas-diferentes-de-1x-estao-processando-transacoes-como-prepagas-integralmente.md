@@ -1,5 +1,5 @@
 ---
-title: 'As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente'
+title: "As condições de pagamento definidas para processar transações em parcelas diferentes de 1x estão processando transações como pré-pagas integralmente"
 id: 2z9cDiCAovzKVFZO7RSqOD
 status: PUBLISHED
 createdAt: 2024-05-09T18:47:33.319Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payment-conditions-set-to-process-transactions-in-installments-other-than-1x-are-processing-transactions-as-prepaid-in-full
+slugEN: as-condicoes-de-pagamento-definidas-para-processar-transacoes-em-parcelas-diferentes-de-1x-estao-processando-transacoes-como-prepagas-integralmente
 locale: pt
 kiStatus: Backlog
 internalReference: 1030652
@@ -18,7 +18,9 @@ internalReference: 1030652
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As condições de pagamento configuradas para processar transações em um número de parcelas diferente de 1x estão sendo capazes de processar pagamentos em 1x. O problema ocorre apenas para pagamentos em que o usuário optou por pagar como pré-pago integralmente.

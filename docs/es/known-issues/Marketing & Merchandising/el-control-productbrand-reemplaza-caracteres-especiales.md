@@ -1,5 +1,5 @@
 ---
-title: 'El control $product.Brand reemplaza caracteres especiales'
+title: "El control $product.Brand reemplaza caracteres especiales"
 id: 1UA4KGy7asC4uumY0uACGU
 status: PUBLISHED
 createdAt: 2017-08-29T20:19:03.244Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: productbrand-control-replaces-special-characters
+slugEN: el-control-productbrand-reemplaza-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 

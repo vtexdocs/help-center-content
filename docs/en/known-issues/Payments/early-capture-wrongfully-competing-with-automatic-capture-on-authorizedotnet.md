@@ -1,5 +1,5 @@
 ---
-title: 'Early Capture wrongfully competing with Automatic Capture on AuthorizeDotNet'
+title: "Early Capture wrongfully competing with Automatic Capture on AuthorizeDotNet"
 id: 2IDoJIBiGzhkVZGHurLsnj
 status: PUBLISHED
 createdAt: 2023-07-20T18:08:30.934Z

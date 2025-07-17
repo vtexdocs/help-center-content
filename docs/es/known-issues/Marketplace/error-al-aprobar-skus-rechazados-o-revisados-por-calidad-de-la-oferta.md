@@ -1,5 +1,5 @@
 ---
-title: 'Error al aprobar skus rechazados o revisados por Calidad de la Oferta'
+title: "Error al aprobar skus rechazados o revisados por Calidad de la Oferta"
 id: 7fRMTxq7CFRkyZeK08AGIg
 status: PUBLISHED
 createdAt: 2023-11-23T13:46:30.453Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: error-approving-skus-that-were-rejected-or-reviewed-by-offer-quality
+slugEN: error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta
 locale: es
 kiStatus: Fixed
 internalReference: 940998
@@ -18,7 +18,9 @@ internalReference: 940998
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un sku falla las reglas de Calidad de Oferta creadas por el Marketplace, va directamente a la "Pestaña de Revisión" o "Pestaña de Rechazados" de Skus Recibidos.
@@ -26,7 +28,7 @@ Cuando un sku falla las reglas de Calidad de Oferta creadas por el Marketplace, 
 Sin embargo, al intentar aprobar el sku, se devuelve un mensaje de error: "Lo sentimos, algo ha ido mal en el Catálogo. Por favor, inténtelo de nuevo o póngase en contacto con VTEX si el problema persiste".
 
 Esto sucede porque el módulo Matcher no fue capaz de llenar la información del producto y del sku después de enviar el sku a estas Fichas (puedes verificar esto usando las APIs):
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0Dti3ak7twOpuVzvzntmPCGit/?name=image.png)
 
 
 ##

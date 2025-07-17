@@ -1,5 +1,5 @@
 ---
-title: 'A B2B Quotes não aplica o desconto no checkout no domínio do site'
+title: "A B2B Quotes não aplica o desconto no checkout no domínio do site"
 id: 2VWm5NVqW1LRSZINAAjM7B
 status: PUBLISHED
 createdAt: 2023-06-22T17:17:04.039Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-quotes-doesnt-apply-discount-at-checkout-in-the-website-domain
+slugEN: a-b2b-quotes-nao-aplica-o-desconto-no-checkout-no-dominio-do-site
 locale: pt
 kiStatus: Fixed
 internalReference: 849080
@@ -18,7 +18,9 @@ internalReference: 849080
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma cotação tem um desconto aplicado por um vendedor, o B2B Quotes não aplica o desconto no checkout no domínio do site.

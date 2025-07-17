@@ -1,5 +1,5 @@
 ---
-title: 'EAN dos componentes do KIT não são impressos no json do pedido'
+title: "EAN dos componentes do KIT não são impressos no json do pedido"
 id: 2lrOfIp4FOcGWIA2EuG6U0
 status: PUBLISHED
 createdAt: 2017-11-07T14:28:45.693Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_3
 tag: Order Management
-slugEN: kit-components-ean-is-not-displayed-in-order-json
+slugEN: ean-dos-componentes-do-kit-nao-sao-impressos-no-json-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 

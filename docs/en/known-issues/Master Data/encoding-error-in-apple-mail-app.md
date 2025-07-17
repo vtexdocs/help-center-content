@@ -1,5 +1,5 @@
 ---
-title: 'Encoding error in Apple Mail App'
+title: "Encoding error in Apple Mail App"
 id: 1ppf3Edw6gSikk0KY44gmS
 status: PUBLISHED
 createdAt: 2018-06-26T17:54:35.967Z
@@ -29,7 +29,7 @@ Mount an email sending trigger that has a special character in the "Subject" of 
 
 Result:
 
-![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/encoding-error-in-apple-mail-app_1.png)
+![png](//images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
 
 ## Workaround
 

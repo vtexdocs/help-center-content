@@ -1,5 +1,5 @@
 ---
-title: "'Quantas vezes seu benefício será aplicado em sua loja' Salvando Incorretamente na Interface do Formulário de Promoção"
+title: 'Quantas vezes seu benefício será aplicado em sua loja" Salvando Incorretamente na Interface do Formulário de Promoção'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface
+slugEN: quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao
 locale: pt
 kiStatus: Backlog
 internalReference: 268304
@@ -18,17 +18,19 @@ internalReference: 268304
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Na primeira caixa da seção "Restrições e Limitações de Uso" do formulário de promoção Regular, quando você salva a primeira caixa com um valor que não seja ilimitado e todas as outras caixas de seleção são marcadas, assim:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XPIZEznRNirizqLBs0Bk3F2ns/?name=inline1741007227.png)
 
 E você revisita a promoção depois de salvar, os dados "mudam" para a caixa abaixo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QH2S7TuWMuQ2DRdr78J2YbZvS/?name=inline137244708.png)
 
 
 
@@ -54,7 +56,7 @@ Quando você revisita a promoção, ela "desce" na forma e a salva novamente, o 
 
 **2)** O preenchimento da segunda caixa com dados substitutos para "ilimitado" (em outras palavras, um número elevado, como 9999999) também funciona:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://vtexhelp.zendesk.com/attachments/token/vZMkrn7uS56cywlx1nDO3g7vz/?name=inline-468944681.png)
 
 3) Finalmente, a última solução seria economizar diretamente via API, em nosso pedido de SaveBenefit documentado em nosso centro de ajuda: https://developers.vtex.com/reference/benefits#createorupdatecalculatorconfiguration
 

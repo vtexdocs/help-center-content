@@ -34,11 +34,13 @@ Es el coeficiente resultante de la relación entre peso y volumen más adecuada 
 
 El cálculo del peso volumétrico se realiza efectuando la multiplicación de la Longitud x Anchura X Altura y división por el factor volumétrico proporcionado por la trasportadora.
 
->⚠️ Al calcular el factor de peso volumétrico, la plataforma VTEX no utiliza unidades de medida y los números generados son absolutos. Por lo tanto, los números y medidas que tengas en cuenta serán los del resultado final. Vale la pena señalar que la unidad de medida utilizada en su cálculo debe ser la misma utilizada por la transportadora.
+<div class="alert alert-warning">
+Al calcular el factor de peso volumétrico, la plataforma VTEX no utiliza unidades de medida y los números generados son absolutos. Por lo tanto, los números y medidas que tengas en cuenta serán los del resultado final. Vale la pena señalar que la unidad de medida utilizada en su cálculo debe ser la misma utilizada por la transportadora.
+</div>
 
 Vea el ejemplo siguiente:
 
-![example_cubic_weight_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/como-se-calcula-el-peso-cubico_1.jpg)
+![example_cubic_weight_es](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
 
 - __Dimensiones del paquete:__ `50cm x 60cm x 15cm`
 - __Peso mínimo del paquete:__ `9kg`
@@ -51,9 +53,9 @@ Sin embargo, el cálculo anterior es sólo ilustrativo. En el transportista, el 
 
 O sea, si el valor ofrecido por su compañía es `6.000`, es necesario realizar el cálculo donde este valor dividirá 1.000: Ejemplo: `1000g/6000 cm³ = 0,167`.
 
-Ese es el valor que usted debe llenar en el campo Factor de peso volumétrico en su [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
+Ese es el valor que usted debe llenar en el campo Factor de peso volumétrico en su [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/Shipping%20Strategy/como-se-calcula-el-peso-cubico_2.png)
+![cubic_weight_ES](https://images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/034836d577be3c7f920c2b195b255adb/cubic_weight_ES.png)
 
 Por lo tanto, el cálculo final sería:
 

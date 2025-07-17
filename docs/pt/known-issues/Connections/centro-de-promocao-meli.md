@@ -1,5 +1,5 @@
 ---
-title: 'Central de Promoções MELI'
+title: "Central de Promoções MELI"
 id: 37RkE9gq11IAzrS3lb0Vpg
 status: PUBLISHED
 createdAt: 2022-06-20T12:16:49.261Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-promotion-center
+slugEN: centro-de-promocao-meli
 locale: pt
 kiStatus: Backlog
 internalReference: 600922
@@ -18,7 +18,9 @@ internalReference: 600922
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

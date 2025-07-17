@@ -3,8 +3,8 @@ title: 'Cómo funciona la competencia de promociones'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2024-11-11T17:22:09.507Z
-publishedAt: 2024-11-11T17:22:09.507Z
+updatedAt: 2025-03-25T18:12:46.253Z
+publishedAt: 2025-03-25T18:12:46.253Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,13 +15,13 @@ legacySlug: entendiendo-la-competencia-de-las-promociones-2
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-El módulo Promociones sigue una lógica para definir qué promoción se aplicará a una compra determinada, al igual que [Checkout](https://help.vtex.com/es/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) selecciona qué seller realizará el fullfilment del pedido. Esta lógica se denomina competencia de promociones.
+El módulo Promociones sigue una lógica para definir qué promoción se aplicará a una compra determinada, al igual que [Checkout](/es/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) selecciona qué seller realizará el fullfilment del pedido. Esta lógica se denomina competencia de promociones.
 
-Estos son los escenarios donde ocurre la competencia de promociones:
+La competencia de promociones ocurre cuando:
 
-- Promociones con el mismo tipo de descuento
-- Aplicación de más de una promoción en el mismo ítem
-- Promociones no [configuradas](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) para permitir que las promociones se acumulen.
+- Las promociones aplicadas tienen el mismo tipo de descuento.
+- Se aplica más de una promoción al mismo ítem.
+- Estas promociones no están [configuradas](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) para permitir acumulación.
 
 Para entender cómo funciona la selección de la promoción que se aplicará, explicamos a continuación algunos conceptos del módulo Promociones.
 
@@ -34,10 +34,10 @@ Para entender cómo funciona la selección de la promoción que se aplicará, ex
 
 Los efectos de las promociones están relacionados con el beneficio que cada promoción ofrece. Existen cuatro tipos:
 
-- **Descuento sobre el precio:** son promociones que aplican un descuento porcentual o nominal sobre el valor del producto. Aquí se incluyen algunos descuentos del tipo [promoción regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324) y cualquier otra mecánica que incida en el precio de un ítem.
-- **Descuento en el envío:** son las [promociones con descuento de envío](https://help.vtex.com/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).
+- **Descuento sobre el precio:** son promociones que aplican un descuento porcentual o nominal sobre el valor del producto. Aquí se incluyen algunos descuentos del tipo [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) y cualquier otra mecánica que incida en el precio de un ítem.
+- **Descuento en el envío:** son las [promociones con descuento de envío](/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).
 - **Regalos:** son promociones que otorgan un regalo al cliente.
-- **Fórmula:** son las promociones con tipo de descuento nominal basado en [fórmula](https://help.vtex.com/es/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), que es una de las opciones dentro de la promoción regular.
+- **Fórmula:** son las promociones con tipo de descuento nominal basado en [fórmula](/es/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), que es una de las opciones dentro de la promoción regular.
 
 ## Ordenación de aplicación de las promociones
 
@@ -76,15 +76,16 @@ La **Promoción 1** se aplicará sobre el ítem con el valor previamente descont
 
 ## Acumulación de promociones
 
-Cuando las promociones se [configuran](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) marcando la casilla Aplicar con otras promociones, estas, sean del tipo que sean, siempre se aplicarán al carrito mientras se cumplan las condiciones establecidas. 
+Cuando las promociones se [configuran](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) marcando la casilla Aplicar con otras promociones, estas, sean del tipo que sean, siempre se aplicarán al carrito mientras se cumplan las condiciones establecidas. 
 
 Además, todas ellas inciden sobre el valor que ya se descontó al aplicarse la promoción que ganó la competencia de las no acumulativas. El orden de las promociones seleccionadas seguirá la ordenación por tipo y valor, tal y como se describe en el punto 1. 
 
 Por lo tanto, la secuencia de aplicación es:
 
-![promocao3 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-la-competencia-de-promociones_1.png)
+![promocao3 ES](https://images.ctfassets.net/alneenqid6w5/1CAcjiuVQECwqcoA288Aey/251351f394db394a008ccdd699e47c6f/promocao3_ES.png)
 
->⚠️ Los pedidos de origen [Marketplace](https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos. 
+<div class="alert alert-warning">
+Los pedidos de origen <a href="https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos.</div> 
 
 ## Estrategia de competencia entre promociones
 
@@ -99,7 +100,8 @@ Consulta a continuación las dos estrategias de competencia de promociones:
 - [Competencia por escenario](#competencia-por-escenario)
 - [Competencia por ítem](#competencia-por-item)
 
->ℹ️ De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si el modelo de competencia por ítem se adapta mejor a las necesidades de tu negocio, [abre un ticket](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) con nuestro equipo de soporte y solicita el cambio.
+<div class="alert alert-info">
+De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si el modelo de competencia por ítem se adapta mejor a las necesidades de tu negocio, <a href="https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abre un ticket</a> con nuestro equipo de soporte y solicita el cambio.</div>
 
 ### Competencia por escenario
 
@@ -109,7 +111,7 @@ La que conceda el mejor descuento se aplicará al carrito. Fíjate en los ejempl
 
 #### Ejemplo 1
 
-Pedro va a comprar una camiseta de 10 USD + 4 USD de envío. En este pedido pueden aplicarse cinco promociones, todas ellas previamente [configuradas](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) con la casilla `Aplicar con otras promociones desmarcada`, para no acumular promociones, excepto la primera:
+Pedro va a comprar una camiseta de 10 USD + 4 USD de envío. En este pedido pueden aplicarse cinco promociones, todas ellas previamente [configuradas](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) con la casilla `Aplicar con otras promociones desmarcada`, para no acumular promociones, excepto la primera:
 
 | Promociones acumulativas | Promociones no acumulativas |
 | ----------- | ----------- |
@@ -208,4 +210,4 @@ En este escenario, el valor total del pedido quedaría en **52.50 USD**.
 
 Esta opción ofrecería un descuento menor al cliente que la selección realizada por [competencia por escenario](#competencia-por-escenario). Por lo tanto, esta configuración depende del objetivo de negocios definido por la tienda. 
 
-En caso de que el modelo de competencia por ítem se adapte mejor a las necesidades de tu negocio, [abre un ticket](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) con nuestro equipo de soporte y solicita el cambio.
+En caso de que el modelo de competencia por ítem se adapte mejor a las necesidades de tu negocio, [abre un ticket](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) con nuestro equipo de soporte y solicita el cambio.

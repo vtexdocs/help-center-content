@@ -1,5 +1,5 @@
 ---
-title: "Produtos ausentes na guia 'Revisão' da Skus recebida"
+title: 'Produtos ausentes na guia "Revisão" da Skus recebida'
 id: 2UM0JQUZVq5o7NHCjmrg8N
 status: PUBLISHED
 createdAt: 2023-11-23T16:30:51.874Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: received-skus-review-tab-missing-products
+slugEN: produtos-ausentes-na-guia-revisao-da-skus-recebida
 locale: pt
 kiStatus: Fixed
 internalReference: 939877
@@ -18,7 +18,9 @@ internalReference: 939877
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As ofertas enviadas pelos vendedores podem eventualmente ir para a guia Revisão do Skus Recebido do Marketplace, dependendo se foram aprovadas ou não nas regras de Qualidade da Oferta.

@@ -1,5 +1,5 @@
 ---
-title: 'Price filter considers prize (zero) from unavailable products'
+title: "Price filter considers prize (zero) from unavailable products"
 id: 10L0KKaGrewOQQWSw6Sms0
 status: PUBLISHED
 createdAt: 2017-04-06T18:12:42.797Z

@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] Bridge Orders menu, not showing the shippingID information'
+title: "[Mercado Livre] Bridge Orders menu, not showing the shippingID information"
 id: 2fXDbejpPJ04NDfPCCcr0j
 status: PUBLISHED
 createdAt: 2024-03-18T20:56:17.859Z
@@ -31,7 +31,7 @@ Mercado Livre  > Bridge  > OrderId
 
 Inside the bridge orders menu, some error messages are not logging the orderID, which gives the impressions some orders are not in VTEX brige, but the sellers can find the orders by searching for the shipmentID.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-bridge-orders-menu-not-showing-the-shippingid-information_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/OZk1c79PgvKBKq6wGldvIbHM6/?name=image.png)
 
 
 ##

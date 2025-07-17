@@ -1,5 +1,5 @@
 ---
-title: 'MELI OMS Label Printing'
+title: "MELI OMS Label Printing"
 id: 6bjiu8eFZpTS3oGXiGQg34
 status: PUBLISHED
 createdAt: 2022-03-21T13:13:55.286Z
@@ -18,7 +18,9 @@ internalReference: 546542
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Estamos teniendo algunos problemas al hacer clic directamente dentro del botón "etiqueta de entrega", para los pedidos de Mercado Livre dentro de OMS.
@@ -32,7 +34,7 @@ Estamos teniendo algunos problemas al hacer clic directamente dentro del botón 
 
 **Abre el enlace de la orden de OMS y trata de abrir el enlace de "Correios "**.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/meli-oms-label-printing_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0MMTMqtCADHwEFIb5KMcsYQWE/?name=image.png)
 
 
 

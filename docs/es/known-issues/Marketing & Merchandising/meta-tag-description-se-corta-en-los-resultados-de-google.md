@@ -1,5 +1,5 @@
 ---
-title: 'Meta Tag Description se corta en los resultados de Google'
+title: "Meta Tag Description se corta en los resultados de Google"
 id: 4ynHYyNMZaeSwm8uiWK42s
 status: PUBLISHED
 createdAt: 2018-01-25T17:53:32.012Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: meta-tag-description-is-cut-in-google-search-results
+slugEN: meta-tag-description-se-corta-en-los-resultados-de-google
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'A pesquisa do seletor de ponto de coleta não funciona com Enter/Return'
+title: "A pesquisa do seletor de ponto de coleta não funciona com Enter/Return"
 id: 4hUvWjYvjVgf3Yhz88Eho1
 status: PUBLISHED
 createdAt: 2023-05-23T19:39:55.585Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-selector-search-will-not-working-with-enterreturn
+slugEN: a-pesquisa-do-seletor-de-ponto-de-coleta-nao-funciona-com-enterreturn
 locale: pt
 kiStatus: Backlog
 internalReference: 829955
@@ -18,7 +18,9 @@ internalReference: 829955
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No seletor de pontos de retirada, digitar um endereço e pressionar Enter/Return não exibirá as lojas mais próximas. O comprador sempre precisa digitar o endereço e selecionar uma opção na lista.

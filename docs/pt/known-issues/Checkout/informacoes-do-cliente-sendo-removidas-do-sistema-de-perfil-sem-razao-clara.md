@@ -1,5 +1,5 @@
 ---
-title: 'Informações do cliente sendo removidas do Sistema de Perfil sem razão clara'
+title: "Informações do cliente sendo removidas do Sistema de Perfil sem razão clara"
 id: 3xnhH9VXa5Gj0oag44cG1I
 status: PUBLISHED
 createdAt: 2022-06-25T10:53:51.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: customer-information-being-removed-from-profile-system-without-clear-reason
+slugEN: informacoes-do-cliente-sendo-removidas-do-sistema-de-perfil-sem-razao-clara
 locale: pt
 kiStatus: Backlog
 internalReference: 469823
@@ -18,7 +18,9 @@ internalReference: 469823
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes recebemos relatórios onde as informações do cliente foram removidas das entidades CL e AD da Master Data, que podem ser gerenciadas de várias maneiras - uso direto da Master Data pela própria loja (UI, API, importação/exportação de dados) e outras integrações internas da plataforma, como o serviço CHK através do Sistema de Perfil.

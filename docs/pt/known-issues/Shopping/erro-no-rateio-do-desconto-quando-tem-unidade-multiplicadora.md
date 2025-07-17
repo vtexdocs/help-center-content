@@ -1,5 +1,5 @@
 ---
-title: 'Erro no rateio do desconto quando tem unidade multiplicadora'
+title: "Erro no rateio do desconto quando tem unidade multiplicadora"
 id: 1AbljaKsBmoKwGQOMAKo2C
 status: PUBLISHED
 createdAt: 2018-03-20T19:21:20.708Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: error-in-apportioning-the-discount-when-there-is-a-multiplier-unit
+slugEN: erro-no-rateio-do-desconto-quando-tem-unidade-multiplicadora
 locale: pt
 kiStatus: Backlog
 internalReference: 

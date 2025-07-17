@@ -1,5 +1,5 @@
 ---
-title: 'Payments Gateway does not correctly send subaccount information in the payload to the connector'
+title: "Payments Gateway does not correctly send subaccount information in the payload to the connector"
 id: 49kjQUzk5LmPmfeCxpqdzg
 status: PUBLISHED
 createdAt: 2023-05-02T19:55:08.282Z

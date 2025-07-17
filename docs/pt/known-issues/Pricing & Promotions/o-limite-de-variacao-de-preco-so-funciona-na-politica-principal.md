@@ -1,5 +1,5 @@
 ---
-title: 'O limite de variação de preço só funciona na política principal'
+title: "O limite de variação de preço só funciona na política principal"
 id: 201VSNEJLEl0vuDAjYP0kJ
 status: PUBLISHED
 createdAt: 2022-03-15T22:37:13.420Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: price-variation-limit-only-works-in-the-main-policy
+slugEN: o-limite-de-variacao-de-preco-so-funciona-na-politica-principal
 locale: pt
 kiStatus: Backlog
 internalReference: 509540
@@ -18,7 +18,9 @@ internalReference: 509540
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

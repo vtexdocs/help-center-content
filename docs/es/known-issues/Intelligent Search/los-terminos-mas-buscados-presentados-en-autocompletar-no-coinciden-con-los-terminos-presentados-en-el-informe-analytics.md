@@ -1,5 +1,5 @@
 ---
-title: 'Los términos más buscados presentados en autocompletar no coinciden con los términos presentados en el informe Analytics.'
+title: "Los términos más buscados presentados en autocompletar no coinciden con los términos presentados en el informe Analytics."
 id: 6nVNhs1r0jD7ozJmW37PjU
 status: PUBLISHED
 createdAt: 2023-01-27T19:33:51.552Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: top-searches-terms-presented-in-autocomplete-are-not-in-accordance-with-terms-presented-in-the-analytics-report
+slugEN: los-terminos-mas-buscados-presentados-en-autocompletar-no-coinciden-con-los-terminos-presentados-en-el-informe-analytics
 locale: es
 kiStatus: Fixed
 internalReference: 741999
@@ -18,7 +18,9 @@ internalReference: 741999
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los datos presentados en los informes de Analítica de Búsqueda Inteligente, relacionados con los términos resultantes del autocompletado, no coinciden con los términos Top searches presentados en autocompletado que se están mostrando al usuario cuando utiliza la barra de búsqueda en la parte frontal de la tienda. De acuerdo con el propósito del módulo, los últimos 10 términos presentados en el autocompletado deberían ser los mismos que los términos presentados en el informe Analytics, al seleccionar la opción Autocompletar.

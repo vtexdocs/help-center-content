@@ -1,5 +1,5 @@
 ---
-title: "Produtos na 'product-list' que têm um 'itemAttachment' duplicado quando a quantidade é aumentada"
+title: 'Produtos na "product-list" que têm um "itemAttachment" duplicado quando a quantidade é aumentada'
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased
+slugEN: produtos-na-productlist-que-tem-um-itemattachment-duplicado-quando-a-quantidade-e-aumentada
 locale: pt
 kiStatus: Fixed
 internalReference: 337069
@@ -18,7 +18,9 @@ internalReference: 337069
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se uma loja usar o componente de lista de produtos do Store Framework, usado no minicarro, os itens do carrinho poderão ser duplicados ao aumentar a quantidade de um item que tenha um anexo (itemAttachment).

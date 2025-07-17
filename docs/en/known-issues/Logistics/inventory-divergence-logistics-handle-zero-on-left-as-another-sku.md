@@ -1,5 +1,5 @@
 ---
-title: 'Inventory Divergence - Logistics handle zero on left as another SKU'
+title: "Inventory Divergence - Logistics handle zero on left as another SKU"
 id: 3FKaDXw5pWVyUfwgKo6pfV
 status: PUBLISHED
 createdAt: 2022-05-18T15:19:00.037Z

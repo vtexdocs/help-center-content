@@ -1,5 +1,5 @@
 ---
-title: 'Solicitação dupla do Adyen 3DS2 gera recusa de autorização de pagamento'
+title: "Solicitação dupla do Adyen 3DS2 gera recusa de autorização de pagamento"
 id: 3yR8LzaUjclJ22PkAymvoe
 status: PUBLISHED
 createdAt: 2023-09-20T13:09:29.771Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: adyen-3ds2-double-request-generates-payment-authorization-denial
+slugEN: solicitacao-dupla-do-adyen-3ds2-gera-recusa-de-autorizacao-de-pagamento
 locale: pt
 kiStatus: Backlog
 internalReference: 884154
@@ -18,7 +18,9 @@ internalReference: 884154
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a solicitação 3DS2 da Adyen é enviada duas vezes, ela obtém um erro na resposta e o pagamento é automaticamente negado.

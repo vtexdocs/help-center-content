@@ -1,5 +1,5 @@
 ---
-title: 'A API REST da marca do catálogo permite que o cliente quebre as informações se enviar uma solicitação com valores incorretos'
+title: "A API REST da marca do catálogo permite que o cliente quebre as informações se enviar uma solicitação com valores incorretos"
 id: 6yIs7KNTiS1oghcobXNnVD
 status: PUBLISHED
 createdAt: 2024-10-30T18:59:26.880Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-incorrect-values
+slugEN: a-api-rest-da-marca-do-catalogo-permite-que-o-cliente-quebre-as-informacoes-se-enviar-uma-solicitacao-com-valores-incorretos
 locale: pt
 kiStatus: Backlog
 internalReference: 1126473
@@ -18,7 +18,9 @@ internalReference: 1126473
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há muitas rotas que suportam algum tipo de valor, mas se o cliente usar outro tipo de valor (por exemplo, inserir nulo em vez de booleano) pode quebrar a interface do produto / SKU / categoria / marca. Negar ao cliente a atualização das informações por meio do administrador.

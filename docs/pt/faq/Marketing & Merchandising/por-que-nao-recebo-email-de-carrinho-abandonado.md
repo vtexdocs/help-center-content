@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-nao-recebo-email-de-carrinho-abandonado
 ---
 
-Em alguns casos, a configuração da [Trigger](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data?locale=pt "Trigger") para o [Carrinho Abandonado](https://help.vtex.com/pt/tutorial/setting-up-abandoned-carts--tutorials_740#) poderá não funcionar corretamente. Esse comportamento acontece por conta de algumas configurações indevidas. Porém, esses erros podem ser corrigidos facilmente pelo [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data?locale=pt).
+Em alguns casos, a configuração da [Trigger](/pt/tutorial/criando-trigger-no-master-data?locale=pt "Trigger") para o [Carrinho Abandonado](/pt/tutorial/setting-up-abandoned-carts--tutorials_740#) poderá não funcionar corretamente. Esse comportamento acontece por conta de algumas configurações indevidas. Porém, esses erros podem ser corrigidos facilmente pelo [Master Data](/pt/tutorial/o-que-e-o-master-data?locale=pt).
 
 Siga o passo a passo a seguir para acessar a página de configurações:
 
@@ -46,4 +46,6 @@ No caso de Carrinho Abandonado, é importante configurar dois filtros: “Checko
 
 Depois da verificação, é imprescindível salvar todas as informações feitas. Posteriormente, os emails serão enviados como o de costume. 
 
->⚠️ Além disso, é importante ressaltar que o tempo de uma sessão dura **30 minutos**. Somente após esse tempo o sistema considerará o agendamento da Trigger de Carrinho Abandonado. Ou seja, o tempo considerado é o do período da sessão somado ao agendamento da Trigger.
+<div class="alert alert-warning">
+Além disso, é importante ressaltar que o tempo de uma sessão dura <strong>30 minutos</strong>. Somente após esse tempo o sistema considerará o agendamento da Trigger de Carrinho Abandonado. Ou seja, o tempo considerado é o do período da sessão somado ao agendamento da Trigger.
+</div>

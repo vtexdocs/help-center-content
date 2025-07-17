@@ -1,5 +1,5 @@
 ---
-title: 'Timeout de la lista de marcas de la colección en el Admin'
+title: "Timeout de la lista de marcas de la colección en el Admin"
 id: 4de4lqAIhr9mU77EPAbvq1
 status: PUBLISHED
 createdAt: 2022-08-17T15:58:26.950Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: admin-collection-brand-list-timeout
+slugEN: timeout-de-la-lista-de-marcas-de-la-coleccion-en-el-admin
 locale: es
 kiStatus: No Fix
 internalReference: 639905
@@ -18,12 +18,14 @@ internalReference: 639905
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, para las tiendas que tienen más de 4000 marcas en su catálogo, el siguiente listado de marcas no carga ninguna marca cuando se intenta crear una nueva colección:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/timeout-de-la-lista-de-marcas-de-la-coleccion-en-el-admin_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VSET52djAjJfHdPHgtiqMACBK/?name=image.png)
 
 Esto ocurre debido a un tiempo de espera (se puede ver que hay un largo tiempo de carga y luego se muestra como "sin marcas").
 

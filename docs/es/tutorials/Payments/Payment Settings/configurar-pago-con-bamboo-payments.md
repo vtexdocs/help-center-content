@@ -3,8 +3,8 @@ title: 'Configurar pago con Bamboo-Payments'
 id: 33TDZBp1wmgzJdiZtvu1xY
 status: PUBLISHED
 createdAt: 2022-08-12T20:06:37.117Z
-updatedAt: 2024-10-02T21:13:05.858Z
-publishedAt: 2024-10-02T21:13:05.858Z
+updatedAt: 2025-02-26T15:02:53.268Z
+publishedAt: 2025-02-26T15:02:53.268Z
 firstPublishedAt: 2022-08-12T20:13:31.863Z
 contentType: tutorial
 productTeam: Financial
@@ -35,11 +35,11 @@ Para configurar Bamboo-Payments, siga los pasos a continuación:
    		<li><b>Desactivado</b>: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
 8. En __Campos del proveedor__, llena el campo __Ingrese su llave privada__ con los datos de tu cuenta Bamboo-Payments.
-9. En __Habilitar autorización y captura__ y __País de operación__ seleccione las opciones deseadas.
+9. En __Habilitar autorización y captura__, __País de operación__, __Límite Superior de Captura Permitido (%)__ y __Límite Inferior de Captura Permitido (%)__ seleccione las opciones deseadas.
 10. Haga clic en __Guardar__.
 
-Para configurar los métodos de pago a procesar por Bamboo-Payments, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Bamboo-Payments, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Bamboo-Payments puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

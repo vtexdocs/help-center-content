@@ -41,8 +41,8 @@ To configure e-Sitef, follow the steps below:
 12. In the __Captura antecipada após anti-fraude (em horas)__ field, choose how long you want the capture to take place (after anti-fraud analysis). You can also disable the function.
 13. Click `Save`.
 
-To configure the payment methods to be processed by e-Sitef, access [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by e-Sitef, access [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, e-Sitef may take up to 10 minutes to appear at your store's checkout as a payment option.

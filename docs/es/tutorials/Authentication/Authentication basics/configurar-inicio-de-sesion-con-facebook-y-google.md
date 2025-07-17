@@ -3,8 +3,8 @@ title: 'Configurar inicio de sesión con Facebook y Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-10-20T19:35:59.221Z
-publishedAt: 2023-10-20T19:35:59.221Z
+updatedAt: 2025-02-28T15:23:10.253Z
+publishedAt: 2025-02-28T15:23:10.253Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
@@ -27,8 +27,8 @@ El comportamiento nativo de la plataforma es ofrecer opciones de inicio de sesi�
 
 Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se deben crear credenciales de OAuth 2.0 (protocolo para la integración) en esos servicios. Para obtenerlas, sigue las instrucciones en los artículos a continuación:
 
-- [Facebook](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 ## Configurar inicio de sesión con los proveedores
 
@@ -39,14 +39,14 @@ Después de realizar la configuración en Facebook y Google, debes configurar la
 
   Se te redirigirá a la pestaña **Tienda virtual** de la página **Autenticación**, que lista los métodos de inicio de sesión disponibles en tu tienda.
 
-  ![Lista Autenticación](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Authentication%20basics/configurar-inicio-de-sesion-con-facebook-y-google_1.png)
+  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
 3. En la fila del proveedor de inicio de sesión deseado, haz clic en `Configurar`.
 4. Rellena el formulario con el `Client ID` y el `Secreto del cliente` registrados en la [etapa anterior](#obtener-credenciales-de-los-proveedores) y haz clic en `Guardar`.
 
-  ![Facebook OAuth ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Authentication%20basics/configurar-inicio-de-sesion-con-facebook-y-google_2.PNG)
+  ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/e85e70614c1ff706937104c8f5ec917c/1-login-fb-es.PNG)
 5. En la página **Autenticación**, activa el uso del proveedor haciendo clic en el botón de alternancia. 
 
-  ![Lista Autenticación Switch On Highlight](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Authentication%20basics/configurar-inicio-de-sesion-con-facebook-y-google_3.png)
+  ![Lista Autenticación Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
 
 ## Validar la configuración
 

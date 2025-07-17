@@ -1,5 +1,5 @@
 ---
-title: 'Images uploaded via API using an HTTP protocol do not render on the Received SKUs page'
+title: "Images uploaded via API using an HTTP protocol do not render on the Received SKUs page"
 id: 2mi0Nyznh9NHnc7P5zLghn
 status: PUBLISHED
 createdAt: 2021-08-31T18:09:37.181Z

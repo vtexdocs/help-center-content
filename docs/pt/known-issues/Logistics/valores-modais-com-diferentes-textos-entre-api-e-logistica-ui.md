@@ -1,5 +1,5 @@
 ---
-title: 'Valores modais com diferentes textos entre API e Logística UI'
+title: "Valores modais com diferentes textos entre API e Logística UI"
 id: 3tW7Dr2nyHyvqiPMVtykAC
 status: PUBLISHED
 createdAt: 2023-03-22T14:06:50.812Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: modal-values-with-different-texts-between-api-and-logistics-ui
+slugEN: valores-modais-com-diferentes-textos-entre-api-e-logistica-ui
 locale: pt
 kiStatus: Backlog
 internalReference: 775800
@@ -18,7 +18,9 @@ internalReference: 775800
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 ## **Sumário***
 

@@ -1,5 +1,5 @@
 ---
-title: 'A API de criação de kits não está calculando os preços dos componentes'
+title: "A API de criação de kits não está calculando os preços dos componentes"
 id: 3yyIEv6o3CjIbUg4KoLOWT
 status: PUBLISHED
 createdAt: 2023-03-28T16:34:55.491Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: kit-creation-api-is-not-calculating-component-prices
+slugEN: a-api-de-criacao-de-kits-nao-esta-calculando-os-precos-dos-componentes
 locale: pt
 kiStatus: Backlog
 internalReference: 739693
@@ -18,7 +18,9 @@ internalReference: 739693
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a carga útil da API de inserção de KIT tem um formato que solicita os componentes que compõem esse kit e suas respectivas quantidades e preços.

@@ -1,5 +1,5 @@
 ---
-title: 'UI wrongly displaying the shipping price when packages are split for scheduled delivery'
+title: "UI wrongly displaying the shipping price when packages are split for scheduled delivery"
 id: 6HkjI7IwvvYaxHAqMS2aUv
 status: PUBLISHED
 createdAt: 2023-03-20T14:59:50.827Z

@@ -1,5 +1,5 @@
 ---
-title: '[Shopee] Failed to create product variations'
+title: "[Shopee] Failed to create product variations"
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z
@@ -35,7 +35,7 @@ Even with price and stock correctly registered in the VTEX catalog, some product
 
 Admin > Installed APP > Shopee > Manage Products > Product Sync Status
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/shopee-failed-to-create-product-variations_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Avfj0Y3n0mu4RHD9oZfkdYcti/?name=image.png)
 
 
 

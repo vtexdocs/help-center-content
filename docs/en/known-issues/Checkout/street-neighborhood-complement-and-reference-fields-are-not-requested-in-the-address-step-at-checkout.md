@@ -1,5 +1,5 @@
 ---
-title: 'Street, Neighborhood, Complement and Reference fields are not requested in the address step at checkout'
+title: "Street, Neighborhood, Complement and Reference fields are not requested in the address step at checkout"
 id: 2wY4t0iIie4pjpJrs0Af3F
 status: PUBLISHED
 createdAt: 2022-04-19T18:20:30.913Z

@@ -14,7 +14,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---
 
-![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/cms/what-is-the-cms_1.png)
+![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
 
 A content management system (CMS) allows continuous and practical management of content.
 
@@ -24,6 +24,6 @@ The CMS provides a set of tools that vary depending on the technology used in th
 
 The following articles contain more details about the CMS in each technology:
 
-- [FastStore CMS](https://help.vtex.com/en/tutorial/managing-pages-beta--3DO6rBhZ1p3zndnFu5BgRt)
-- [Store Framework CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
-- [Legacy CMS Portal](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262)
+- [FastStore CMS](/en/tutorial/managing-pages-beta--3DO6rBhZ1p3zndnFu5BgRt)
+- [Store Framework CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
+- [Legacy CMS Portal](/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262)

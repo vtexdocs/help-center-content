@@ -1,5 +1,5 @@
 ---
-title: "Uma SKU pode estar ativa e ter o sinalizador 'ativar se possível' desmarcado"
+title: 'Uma SKU pode estar ativa e ter o sinalizador "ativar se possível" desmarcado'
 id: 5uXQ65flkoEbYeLkNSw4ig
 status: PUBLISHED
 createdAt: 2023-11-07T11:01:20.612Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked
+slugEN: uma-sku-pode-estar-ativa-e-ter-o-sinalizador-ativar-se-possivel-desmarcado
 locale: pt
 kiStatus: Backlog
 internalReference: 931324
@@ -18,7 +18,9 @@ internalReference: 931324
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que uma SKU ativa tenha o sinalizador "ativar se possível" marcado; no entanto, esse nem sempre é o caso.

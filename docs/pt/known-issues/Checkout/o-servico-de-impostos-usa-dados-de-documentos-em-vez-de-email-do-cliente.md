@@ -1,5 +1,5 @@
 ---
-title: 'O serviço de impostos usa dados de documentos em vez de e-mail do cliente'
+title: "O serviço de impostos usa dados de documentos em vez de e-mail do cliente"
 id: IOu1ZV40Q5yHjgbcS9C15
 status: PUBLISHED
 createdAt: 2022-03-23T17:50:15.754Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-service-uses-document-data-instead-of-customer-email
+slugEN: o-servico-de-impostos-usa-dados-de-documentos-em-vez-de-email-do-cliente
 locale: pt
 kiStatus: No Fix
 internalReference: 548671
@@ -18,7 +18,9 @@ internalReference: 548671
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -17,7 +17,9 @@ announcementSynopsisES: 'VTEX cambió el funcionamiento del campo `availableQuan
 
 VTEX cambió el funcionamiento del campo `availableQuantity`, devuelto por las rutas de la API de búsqueda legada. Este cambio puede impactar el funcionamiento de las integraciones existentes.
 
->ℹ️ Este cambio no afectará a tiendas que usan VTEX Intelligent Search.
+<div class = "alert alert-info">
+Este cambio no afectará a tiendas que usan VTEX Intelligent Search.
+</div>
 
 ## ¿Qué cambió?
 

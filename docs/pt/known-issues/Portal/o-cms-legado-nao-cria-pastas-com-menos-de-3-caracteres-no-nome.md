@@ -1,5 +1,5 @@
 ---
-title: 'O CMS legado não cria pastas com menos de 3 caracteres no nome'
+title: "O CMS legado não cria pastas com menos de 3 caracteres no nome"
 id: 3kXypobV36NZNQofVAz2zi
 status: PUBLISHED
 createdAt: 2023-05-15T14:33:07.252Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-cms-does-not-create-folders-with-less-than-3-characters-in-the-name
+slugEN: o-cms-legado-nao-cria-pastas-com-menos-de-3-caracteres-no-nome
 locale: pt
 kiStatus: Backlog
 internalReference: 825530
@@ -18,7 +18,9 @@ internalReference: 825530
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O CMS legado não cria pastas com menos de 3 caracteres no nome

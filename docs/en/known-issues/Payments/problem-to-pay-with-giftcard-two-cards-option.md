@@ -1,5 +1,5 @@
 ---
-title: 'Problem to Pay with Giftcard + Two cards option'
+title: "Problem to Pay with Giftcard + Two cards option"
 id: azkOosXht4sgiDyYQ1qvo
 status: PUBLISHED
 createdAt: 2022-03-27T19:53:04.209Z

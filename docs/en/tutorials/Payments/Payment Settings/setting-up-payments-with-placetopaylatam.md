@@ -1,11 +1,11 @@
 ---
 title: 'Setting up payments with PlaceToPayLatam'
-id: 5R1aYANyHBnS3Q2KQREUkl
-status: ARCHIVED
-createdAt: 2022-08-10T17:38:19.964Z
-updatedAt: 2022-12-23T20:45:07.156Z
-publishedAt: 
-firstPublishedAt: 2022-08-10T17:49:41.311Z
+id: 1Xda32LgbEV54wHLzEAFgA
+status: PUBLISHED
+createdAt: 2024-03-14T14:28:41.680Z
+updatedAt: 2024-03-14T14:34:51.650Z
+publishedAt: 2024-03-14T14:34:51.650Z
+firstPublishedAt: 2024-03-14T14:34:51.650Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
@@ -15,10 +15,20 @@ legacySlug: setting-up-payments-with-placetopaylatam
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Place to Pay Latam payment provider. With this connector, your store can make sales through a credit and debit cards, and other methods of Place to Pay Latam system.
+At VTEX, it is possible to integrate with the PlaceToPayLatam payment provider. With this provider, your store can make sales through PlaceToPay, credit and debit cards and notes payable.
 
-To configure the payment methods to be processed by Place to Pay Latam, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/condicoes-de-pagamento).
+To configure PlaceToPayLatam, follow the steps below:
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/conditiones-especiales--tutorials_456?&utm_source=autocomplete).
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __PlaceToPayLatam__ in the search bar and click on the name of the provider.
+4. In __Provider Authorization__, fill in the __App Key__ and __App token__ fields with data provided by PlaceToPayLatam.
+5. If you wish to modify the identification name to be displayed for the PlaceToPayLatam provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
+7. Click `Save`.
 
-After following the indicated steps, Place to Pay Latam connector may take up to 10 minutes to appear at your store's checkout as a payment option.
+To configure the payment methods to be processed by PlaceToPayLatam, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
+
+After following the indicated steps, PlaceToPayLatam may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível fazer login pelo aplicativo do Google no iOS'
+title: "Não é possível fazer login pelo aplicativo do Google no iOS"
 id: 1YxuqHJbbKnzdv1d6LrfR2
 status: PUBLISHED
 createdAt: 2023-10-26T16:50:11.505Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: unable-to-log-in-through-the-google-app-on-ios
+slugEN: nao-e-possivel-fazer-login-pelo-aplicativo-do-google-no-ios
 locale: pt
 kiStatus: Backlog
 internalReference: 926239
@@ -18,7 +18,9 @@ internalReference: 926239
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao fazer login na loja a partir do aplicativo do Google (somente no aplicativo do Google e não no navegador Google Chrome em dispositivos iOS), a opção entra em loop e nunca abre o Google para escolher a conta.

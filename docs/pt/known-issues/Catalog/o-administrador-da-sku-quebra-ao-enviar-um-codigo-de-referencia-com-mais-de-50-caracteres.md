@@ -1,5 +1,5 @@
 ---
-title: 'O administrador da SKU quebra ao enviar um código de referência com mais de 50 caracteres'
+title: "O administrador da SKU quebra ao enviar um código de referência com mais de 50 caracteres"
 id: 3AhyVsOpwkRUEHT77Wcc1A
 status: PUBLISHED
 createdAt: 2023-08-21T17:52:27.931Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sku-admin-breaks-when-sending-a-reference-code-longer-than-50-characters
+slugEN: o-administrador-da-sku-quebra-ao-enviar-um-codigo-de-referencia-com-mais-de-50-caracteres
 locale: pt
 kiStatus: Backlog
 internalReference: 884789
@@ -18,7 +18,9 @@ internalReference: 884789
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que o usuário possa alterar o código de referência do SKU usando o administrador. No entanto, quando um valor maior que 50 caracteres é passado, o administrador falha, exibindo uma mensagem de "algo deu errado".

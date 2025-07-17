@@ -27,24 +27,24 @@ Um exemplo para o uso do score pode ser em eventos pontuais, quando sua loja pre
 
 ## Score na busca VTEX
 
-Se a loja utiliza a [busca VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
+Se a loja utiliza a [busca VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
 
 * **Ordem ascendente** (produtos com score mais baixo aparecem primeiro): `?O=OrderByScoreASC`
 * **Ordem descendente** (produtos com score mais alto aparecem primeiro): `?O=OrderByScoreDESC`
 
 ## Score no VTEX Intelligent Search
 
-Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [busca VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
+Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [busca VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
 
-O [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+O [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-Por outro lado, o score do Catálogo consegue compor a [relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) do Intelligent Search em meio aos outros critérios, sendo possível atribuir um peso maior a ele ou até torná-lo prioritário. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados.
+Por outro lado, o score do Catálogo consegue compor a [relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) do Intelligent Search em meio aos outros critérios, sendo possível atribuir um peso maior a ele ou até torná-lo prioritário. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados.
 
 Ignorando a influência de outros critérios, ou mesmo considerando o uso de ordenação prioritária, no VTEX Intelligent Search, os produtos sem nenhum score cadastrado aparecem após os produtos com score cadastrado nos resultados de busca.
 
 É necessário ponderar se essa prática seria adequada ao seu caso de uso em relação a outros critérios calculados automaticamente pelo sistema, como popularidade e vendas. Tornar um critério prioritário sobrepõe todos os outros, inclusive atingindo o mesmo objetivo do `OrderByScore`, ignorando as demais configurações de relevância.
 
-Para realizar a ordenação manual de itens de forma isolada, recomendamos usar [Regras de merchandising](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), evitando efeitos indesejáveis e respeitando as configurações de relevância.
+Para realizar a ordenação manual de itens de forma isolada, recomendamos usar [Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), evitando efeitos indesejáveis e respeitando as configurações de relevância.
 
 ## Editar o score de um produto
 
@@ -54,4 +54,4 @@ Para adicionar ou alterar um score relacionado a um produto, siga estes passos:
 2. Clique em `Adicionar Produto` para criar um novo produto ou clique em `Alterar` no produto que deseja editar.
 3. Insira o valor desejado do score no campo **Score (usado para ordenação de busca)**.
 
-![posicao-Score-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-funciona-o-campo-score_1.png)
+![posicao-Score-PT](https://images.ctfassets.net/alneenqid6w5/6SGu9GBtxou7sLg5rM59vl/f02f302fc3de0346b7ec9d794c413da3/Screenshot_6.png)

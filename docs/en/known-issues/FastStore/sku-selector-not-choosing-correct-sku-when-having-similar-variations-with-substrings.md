@@ -1,5 +1,5 @@
 ---
-title: 'SKU Selector not choosing correct SKU when having similar variations with substrings'
+title: "SKU Selector not choosing correct SKU when having similar variations with substrings"
 id: 7EY2RMqoJM7bbLZvyVDdRn
 status: PUBLISHED
 createdAt: 2024-06-11T18:15:27.243Z

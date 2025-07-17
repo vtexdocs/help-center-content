@@ -1,5 +1,5 @@
 ---
-title: 'Algunos SKUs no se están cargando en el catálogo de Facebook'
+title: "Algunos SKUs no se están cargando en el catálogo de Facebook"
 id: g0xGqBvBnnnSo9Wl3AfmA
 status: PUBLISHED
 createdAt: 2022-04-08T18:07:48.956Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: some-skus-are-not-being-uploaded-to-the-facebook-catalog
+slugEN: algunos-skus-no-se-estan-cargando-en-el-catalogo-de-facebook
 locale: es
 kiStatus: Backlog
 internalReference: 558926
@@ -18,7 +18,9 @@ internalReference: 558926
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

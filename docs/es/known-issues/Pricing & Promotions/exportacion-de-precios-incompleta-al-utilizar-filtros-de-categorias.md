@@ -1,5 +1,5 @@
 ---
-title: 'Exportación de precios incompleta al utilizar filtros de categorías'
+title: "Exportación de precios incompleta al utilizar filtros de categorías"
 id: 1HHojOOGcmCJYWaeKbyIRq
 status: PUBLISHED
 createdAt: 2023-02-14T12:12:03.992Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: price-export-incomplete-when-using-category-filters
+slugEN: exportacion-de-precios-incompleta-al-utilizar-filtros-de-categorias
 locale: es
 kiStatus: Backlog
 internalReference: 753466
@@ -18,7 +18,9 @@ internalReference: 753466
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar exportar una hoja de cálculo de precios fijos utilizando los filtros de categorías, algunos skus no aparecen en la hoja de cálculo a pesar de tener precios fijos. La cantidad habitual de skus que se devuelven es de 250.

@@ -1,5 +1,5 @@
 ---
-title: 'Campo Ean como string sendo ignorado quando aprovado em Skus recebidos'
+title: "Campo Ean como string sendo ignorado quando aprovado em Skus recebidos"
 id: 3ubVdtlt8ElWzQGFM9OTTq
 status: PUBLISHED
 createdAt: 2023-09-11T16:37:06.258Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: ean-field-as-string-being-ignored-when-approved-on-received-skus
+slugEN: campo-ean-como-string-sendo-ignorado-quando-aprovado-em-skus-recebidos
 locale: pt
 kiStatus: Backlog
 internalReference: 897301
@@ -18,7 +18,9 @@ internalReference: 897301
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O vendedor envia o sku com todos os campos declarados neste artigo (https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-) para o marketplace aprovar no módulo Received Skus.

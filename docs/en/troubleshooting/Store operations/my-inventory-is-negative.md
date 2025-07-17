@@ -17,7 +17,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 
 **Tags** Inventory, Reservation, Trade policy, VTEX Admin
 
-When the product available quantity is displayed as negative, it may indicate that the number of items [reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) exceeds the total quantity in stock. This problem usually happens when an order item is deducted from the inventory while still being reserved by the system.
+When the product available quantity is displayed as negative, it may indicate that the number of items [reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) exceeds the total quantity in stock. This problem usually happens when an order item is deducted from the inventory while still being reserved by the system.
 
 ## Solution
 
@@ -31,4 +31,4 @@ To update the number of available items, follow the steps below:
 4. In the **Update Count** column, enter the correct number of items in stock, considering the sum of the available items plus the reserved ones.
 5. Click **Save**.
 
-When two or more inventories use the same [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), and one has a negative number of items, the SKU will be unavailable for sale, even if items are available in one of the [inventories](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+When two or more inventories use the same [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), and one has a negative number of items, the SKU will be unavailable for sale, even if items are available in one of the [inventories](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).

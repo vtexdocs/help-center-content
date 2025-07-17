@@ -1,5 +1,5 @@
 ---
-title: 'Pré-visualização de embarque exibindo erroneamente a data em que está programada a entrega'
+title: "Pré-visualização de embarque exibindo erroneamente a data em que está programada a entrega"
 id: 6pbufuWTFkL4NK3xLIxj1z
 status: PUBLISHED
 createdAt: 2023-01-31T19:36:58.137Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
+slugEN: previsualizacao-de-embarque-exibindo-erroneamente-a-data-em-que-esta-programada-a-entrega
 locale: pt
 kiStatus: No Fix
 internalReference: 743774
@@ -18,7 +18,9 @@ internalReference: 743774
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Checkout UI converte a hora usando o fuso horário do computador exibindo a data de entrega de forma incorreta na visualização da remessa (carrinho) quando os itens são entregues programados.

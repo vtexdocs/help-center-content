@@ -1,5 +1,5 @@
 ---
-title: 'Tempo limite do InternalSearchError no Portal'
+title: "Tempo limite do InternalSearchError no Portal"
 id: 6D6mdJ3zQypy1lcuht7WuU
 status: PUBLISHED
 createdAt: 2024-06-03T15:25:56.353Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: internalsearcherror-timeouts-on-portal
+slugEN: tempo-limite-do-internalsearcherror-no-portal
 locale: pt
 kiStatus: Backlog
 internalReference: 1043003
@@ -18,7 +18,9 @@ internalReference: 1043003
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, as lojas que usam a pesquisa legada do Portal podem enfrentar, ao usar vários filtros em sua loja, como filtros de coleção em modelos, tempos limite aleatórios e intermitentes que geralmente são exibidos como um erro "Algo deu errado" para os clientes.

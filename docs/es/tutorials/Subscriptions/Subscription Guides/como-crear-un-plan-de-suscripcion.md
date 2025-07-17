@@ -15,7 +15,7 @@ legacySlug: como-crear-un-plan-de-suscripcion-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Para que los planes de **Suscripción** estén disponibles, primero debe instalar la aplicación Suscripciones y configurar los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](https://help.vtex.com/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información sobre este proceso.
+Para que los planes de **Suscripción** estén disponibles, primero debe instalar la aplicación Suscripciones y configurar los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información sobre este proceso.
 
 Después de configurar los ajustes, debe crear planes de suscripción para ponerlos a disposición de sus clientes y asociar los productos a los planes. Los planes sirven para indicar que la funcionalidad Suscripciones está activa para determinados productos y mostrar las frecuencias de suscripción disponibles.
 
@@ -23,7 +23,9 @@ Hay dos formas de crear un plan de suscripción. Lo más recomendable es crear u
 
 La otra manera es crear un [Anexo de SKU que haga referencia a la suscripción en el Catálogo](#anexo-de-sku-en-el-catalogo). El anexo de SKU equivale al plan.
 
->⚠️ No debe realizar ambas configuraciones, basta elegir una de ellas. Solo tiene que crear el nuevo plan en el módulo **Suscripciones** o el anexo de SKU en **Catálogo**. De lo contrario, el plan se duplicará.
+<div class="alert alert-warning">
+  <p>No debe realizar ambas configuraciones, basta elegir una de ellas. Solo tiene que crear el nuevo plan en el módulo <strong>Suscripciones</strong> o el anexo de SKU en <strong>Catálogo</strong>. De lo contrario, el plan se duplicará.</p>
+</div>
 
 ## Nuevo plan en el módulo Suscripciones
 
@@ -35,7 +37,9 @@ La creación de un nuevo plan desde el módulo **Suscripciones** es la forma má
 4. Haga clic en la pestaña [Productos asociados](#productos-asociados) y seleccione los productos que desea asociar a los planes de suscripción.
 5. Haga clic en `Salvar` para guardar los cambios.
 
->⚠️ Todos los planes se guardan como activos, aunque no tengan ningún producto asociado. Los planes que no tienen productos asociados no aparecen como opción para el cliente en el momento de la compra.
+<div class="alert alert-warning">
+  <p>Todos los planes se guardan como activos, aunque no tengan ningún producto asociado. Los planes que no tienen productos asociados no aparecen como opción para el cliente en el momento de la compra.</p>
+</div>
 
 ### Configuraciones
 
@@ -65,7 +69,9 @@ Para eliminar una frecuencia previamente creada, debe hacer clic en el botón de
 
 Si desea, puede ofrecer varias opciones de frecuencia en el mismo plan. En este caso, debe hacer clic de nuevo en el botón `Agregar frecuencia` y repetir el proceso de rellenar  la configuración con las otras frecuencias deseadas. De este modo, el cliente puede elegir la frecuencia que prefiera de entre las opciones.
 
->⚠️ No es posible asignar un periodo de caducidad al plan de suscripción desde el módulo **Suscripciones**. Solo los planes de suscripción configurados como Anexos de SKU en **Catálogo** pueden tener periodos de caducidad configurados.
+<div class="alert alert-warning">
+  <p>No es posible asignar un periodo de caducidad al plan de suscripción desde el módulo <strong>Suscripciones</strong>. Solo los planes de suscripción configurados como Anexos de SKU en <strong>Catálogo</strong> pueden tener periodos de caducidad configurados.</p>
+</div>
 
 ### Productos asociados
 
@@ -86,7 +92,7 @@ En esta pantalla, puede realizar las siguientes acciones:
 
 * **Seleccionar:** al hacer clic en la casilla (<i class="far fa-square"></i>) en la fila de cada producto, puede seleccionar productos o SKU individualmente. Otra opción es hacer clic en la primera casilla (<i class="far fa-square"></i>) y seleccionar todos los productos y SKU que aparecen en la página para añadirlos al plan, según se ilustra en la siguiente imagen.
 
-![selecionarskus ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-crear-un-plan-de-suscripcion_1.gif)
+![selecionarskus ES](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/9786f043859be876f63855568e6d00d3/selecionarskus_ES.gif)
 
 * __Botón de flecha__ (<i class="fas fa-chevron-down"></i>): muestra los SKU, es decir, las variaciones del producto.
 * **Añadir:** al hacer clic en este botón, se añaden los productos o SKU al plan de suscripción.
@@ -100,8 +106,8 @@ Para navegar entre las páginas de ambas listas, utilice las flechas <i class="f
 
 La creación de un anexo SKU es un modo **alterno** que tiene una función equivalente al plan de suscripción. El anexo indica que la funcionalidad de suscripción está activa para un determinado SKU, y también qué frecuencias tiene disponibles.
 
-Recomendamos utilizar el método descrito anteriormente para crear un plan directamente en el módulo **Suscripciones**. Sin embargo, si desea utilizar el anexo de SKU, siga los pasos indicados en el artículo [Cómo crear un anexo de suscripción](https://help.vtex.com/es/tutorial/como-crear-un-anexo-de-suscripcion--2bUuKyPflA8cOGLv8OvaKK).
+Recomendamos utilizar el método descrito anteriormente para crear un plan directamente en el módulo **Suscripciones**. Sin embargo, si desea utilizar el anexo de SKU, siga los pasos indicados en el artículo [Cómo crear un anexo de suscripción](/es/tutorial/como-crear-un-anexo-de-suscripcion--2bUuKyPflA8cOGLv8OvaKK).
 
 ## Más información
 
-* [Planes de suscripción (Beta)](https://help.vtex.com/es/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Planes de suscripción (Beta)](/es/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)

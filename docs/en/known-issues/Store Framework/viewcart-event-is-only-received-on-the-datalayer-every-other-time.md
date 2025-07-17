@@ -1,5 +1,5 @@
 ---
-title: 'view_cart event is only received on the dataLayer every other time'
+title: "view_cart event is only received on the dataLayer every other time"
 id: 73fimN0XczGQch20BhGAOo
 status: PUBLISHED
 createdAt: 2024-06-12T12:58:59.438Z

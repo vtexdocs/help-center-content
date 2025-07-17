@@ -1,5 +1,5 @@
 ---
-title: 'The Transaction UI currently has a limitation where it cannot display logs from /interactions if the payload exceeds 5000 lines.'
+title: "The Transaction UI currently has a limitation where it cannot display logs from /interactions if the payload exceeds 5000 lines."
 id: 1hfRLo1OBLqlsR70Os9J7L
 status: PUBLISHED
 createdAt: 2023-03-27T13:40:46.551Z

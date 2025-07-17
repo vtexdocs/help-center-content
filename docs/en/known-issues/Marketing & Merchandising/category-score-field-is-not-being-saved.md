@@ -1,5 +1,5 @@
 ---
-title: 'Category Score field is not being saved'
+title: "Category Score field is not being saved"
 id: 3YxhdI31I4SY62w6oY806s
 status: PUBLISHED
 createdAt: 2018-06-01T17:24:40.180Z

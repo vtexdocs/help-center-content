@@ -1,10 +1,10 @@
 ---
-title: 'Comprenda el detalle de su factura'
+title: 'Explicación del valor de ingresos aprobados'
 id: tutorials_4322
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:05.741Z
-updatedAt: 2023-05-31T16:14:13.332Z
-publishedAt: 2023-05-31T16:14:13.332Z
+updatedAt: 2025-02-28T13:48:02.348Z
+publishedAt: 2025-02-28T13:48:02.348Z
 firstPublishedAt: 2017-04-27T23:11:15.957Z
 contentType: tutorial
 productTeam: Billing
@@ -15,41 +15,66 @@ legacySlug: comprenda-el-valor-de-los-ingresos-aprobados
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Para VTEX, ingresos son el valor total del consumo de los pedidos que pasaron por el status **Aprobado Financieramente** en el módulo **Pedidos**. Sépa más en [¿Qué considera VTEX como ingresos en el cálculo de la factura?](https://help.vtex.com/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq).
+En VTEX, el valor total de todo pedido financieramente aprobado se considera como ingreso, incluyendo el envío y el impuesto aplicado al precio final del producto. Todos los pedidos que pasan por este status son considerados en la factura, independientemente de cancelaciones o devoluciones posteriores.
 
-## Informe Financiero
+## 1. Ingresos en VTEX
+El concepto de ingresos es importante para entender la factura. Todos los pedidos marcados como **aprobado** en el módulo **Pedidos** se consideran como parte de los ingresos en VTEX. Se toma en consideración lo siguiente:
 
-En el Informe Financiero, el cliente encuentra una lista de los pedidos aprobados financieramente con la indicación debida del canal de ventas - si es B2C, B2B, Call Center, VTEX Sales App, Marketplace Certificado, Seller Certificado, y otros canales. 
+- El valor total de los pedidos, incluyendo envío e impuestos.
+- Los pedidos cancelados, incluyendo aquellos rechazados por el sistema antifraude.
+- Pruebas de compra.
 
-Para acceder al **informe financiero** de la factura, sigue los pasos a continuación:
+Todos los casos mencionados utilizan toda la infraestructura de la plataforma, ya que este es el punto en que el cliente finaliza la compra. Por eso estos pedidos se consideran en los ingresos.
 
-1. En el Admin VTEX, accede a **Apps > Customer Credit > Facturas**, o escribe **Facturas** en la barra de búsqueda en la parte superior de la página.
-2. Seleccione la factura deseada.
-3. Haz clic en `Informe Financiero`.
+### Identificar pedidos aprobados
+Un pedido se marca como aprobado en el momento en que se autoriza el pago. El proceso varía dependiendo del medio de pago utilizado en el pedido:
 
-Recibirá un mensaje informándole de que el Informe Financiero solicitado será enviado al correo electrónico con el que accedió al Admin VTEX. 
+- **Tarjeta de crédito:** el pedido se marca como aprobado cuando el adquirente valida el saldo y los datos de la tarjeta.
+- **Pix y boleto (Brasil):** el pedido se marca como aprobado tras la confirmación del pago.
 
-## Detalles de las facturas
+Después de que el pedido se marca como aprobado, VTEX no considera otras modificaciones al pedido en relación con la facturación.
 
-Para que nuestros clientes puedan entender sus facturas, VTEX proporciona el detalle de cada factura con la relación de los valores cobrados.
+## 2. Exportar el informe financiero de la factura
+El informe financiero contiene **todos los pedidos aprobados** en el periodo correspondiente a la factura, pero solo contiene datos del entorno en que se realizó la exportación. Si tienes varios entornos, debes exportar el informe de cada uno. Después de realizar la exportación, pronto recibirás un email con el informe.
 
-Esta contiene datos descriptivos sobre el _Gross Merchandise Value_ (GMV), que es la suma de los pedidos aprobados financieramente en el mes, detallados en el informe financiero. 
+El informe financiero se genera en la sección **Facturas**. Para exportarlo, sigue los pasos a continuación:
 
-Además de la Tarifa Fija Mensual (Monthly Fixed Fee), y Take Rate aplicado, que puede variar según el plan que se haya contratado. 
+1. En Admin VTEX, haz clic en la inicial de tu nombre en la esquina superior derecha.
+2. Haz clic en **Facturación > Facturas** o ingresa **Facturas** en la barra de búsqueda.
+3. Selecciona la factura deseada.
+4. Haz clic en `Informe financiero`.
 
-Para ver el detalle de su factura, sigue los pasos a continuación: 
+<div class = "alert alert-info">
+El informe financiero es estático y no cambia una vez generado. Puedes acceder al informe en cualquier momento para consultar los ingresos.
+</div>
 
-1. En el Admin VTEX, accede a **Apps > Customer Credit > Facturas**, o escribe **Facturas** en la barra de búsqueda en la parte superior de la página.
-2. Seleccione la factura deseada.
-3. Haz clic en `Detalles`.
-6. Haga clic en la flecha, ubicada al lado de los valores descritos en la factura.
+## 3. Análisis y manipulación del informe financiero
+El informe financiero está en formato **CSV** y muestra varias columnas que detallan cada pedido. Para validar los valores de tu factura, **filtra las columas** del informe utilizando los siguientes criterios:
 
-## Entienda los valores de los ingresos aprobados
+### Filtros y cálculos del GMV de transacciones
+Utiliza la función `=SUMAR.SI` (SUMIF) en Excel para calcular el total de pedidos en diferentes casos:
 
-La suma del valor total de los pedidos aprobados financieramente que figuran en el informe financiero se denomina _Gross Merchandise Value_ (GMV).  Para obtener el valor total del GMV, debe sumar todos los valores contenidos en _Total Value String_. 
+| **Tipo de ingresos**                           | **Filtros aplicados**                                                | **Columna sumada**                | **Descripción**                                                                                                    |
+|------------------------------------------------|----------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Marketplace certificado                        | `IsCertifiedMarketplace (Q) = Verdadero (T)`                         | `Value STR (G)` o `Value (F)`     | `Value STR` contiene el valor de cada pedido en formato 00,00 y `Value (F)` contiene los valores en formato 00.00. |
+| Seller externo<br>                             | `IsExternalSeller (S) = Verdadero (T)`                               | `Value STR (G)` o `Value (F)`     | `G` y `F` indican la columna utilizada para la suma.                                                               |
+| B2B                                            | `IsB2B (O) = Verdadero (T) y IsCertifiedMarketplace (Q) = Falso (F)` | `Value STR (G)` o `Value (F)`     | `O` y `Q` son columnas del informe.                                                                                |
+| B2C                                            | `BillingType (O) = B2C`                                              | `Value STR (G)` o `Value (F)`<br> | Los filtros se aplican por columna.                                                                                |
+| Seller interno certificado y cuenta secundaria | `IsInternalCertifiedSellerAndIsChildAccount (AF) = Verdadero (T)`    | `Value STR (G)` o `Value (F)`     | `T` y `F` son valores booleanos (True o False).                                                                    |
 
-_Take Rate_ es el porcentaje mensual que se cobra sobre el valor total de los pedidos aprobados financieramente. Calculamos el porcentaje sobre el __total de pedidos aprobados financieramente__, ya que es la etapa en la que el cliente completa todo el proceso de compra, consumiendo los recursos de Búsqueda, Infraestructura, Hosting, etc.
+Los filtros permiten segmentar los datos y contabilizar correctamente cada categoría de pedido en la factura.
 
-Diferentes canales de venta (B2C, B2B, Call Center, etc.) tienen Take Rate diferentes. Para entender el porcentaje que se cobra, consulte las condiciones de su contrato.
+## 4. Correlación de los datos del informe financiero con el módulo Pedidos
+Aunque el **informe financiero** es la fuente oficial para validar las facturas, puedes correlacionar estos datos con el **informe de pedidos** para obtener más detalles sobre los pedidos facturados.
 
-Para acceder al valor de los pedidos aprobados financieramente por cada canal de venta, es necesario filtrar en la columna **Type**.
+### Exportar el informe de Pedidos para verificación
+A continuación, se describen los pasos para exportar el informe generado, incluyendo los formatos disponibles para descarga y acceso posterior.
+
+1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos** o ingresa **Todos los pedidos** en la barra de búsqueda.
+2. Filtra por la fecha de **autorización** del primer día del mes deseado hasta el primer día del mes siguiente a las 12:00 AM.
+3. Haz clic en `Utilizar mi zona horaria` para ignorar la zona horaria.
+4. Haz clic en `Aplicar`. 
+5. Haz clic en `Exportar`.
+
+Después de descargar el informe, utiliza la columna **OrderId** para correlacionar los datos con el informe financiero.
+

@@ -1,5 +1,5 @@
 ---
-title: 'La integración de Amazon no cancela los pedidos en VTEX'
+title: "La integración de Amazon no cancela los pedidos en VTEX"
 id: 6yAvdyS8zkt3owW4kO95b2
 status: PUBLISHED
 createdAt: 2022-05-30T19:12:28.085Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-integration-is-not-cancelling-orders-in-vtex
+slugEN: la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex
 locale: es
 kiStatus: Backlog
 internalReference: 588456
@@ -18,7 +18,9 @@ internalReference: 588456
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

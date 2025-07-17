@@ -1,5 +1,5 @@
 ---
-title: 'Tag canónica incorrecta en páginas HTTPS'
+title: "Tag canónica incorrecta en páginas HTTPS"
 id: 45d21Kz3hYsie6MaO24ioC
 status: PUBLISHED
 createdAt: 2018-01-24T14:54:21.165Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: incorrect-canonical-tag-on-https-pages
+slugEN: tag-canonica-incorrecta-en-paginas-https
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -25,7 +25,7 @@ Al activar el HTTPS en una carpeta específica, la tag HTML _canonical_ permanec
 1. Activar HTTPS en una sola carpeta del sitio ([guía](https://help.vtex.com/tutorial/--frequentlyAskedQuestions_4378));
 2. Comprobar, en el HTML renderizado, la tag _canonical_.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/tag-canonica-incorrecta-en-paginas-https_1.png)
+![image](//images.contentful.com/alneenqid6w5/5B2i3p2lva8OO0I4geI8Qw/7321c0d4c0a2f8d20a7940ace91bcbff/image.png)
 
 ## Workaround
 

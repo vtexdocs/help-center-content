@@ -1,5 +1,5 @@
 ---
-title: 'Portal reloads all search results when accessing the URL with pagination parameter.'
+title: "Portal reloads all search results when accessing the URL with pagination parameter."
 id: 18Y8yYKByGTzMxyYhk1pdl
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:50.182Z

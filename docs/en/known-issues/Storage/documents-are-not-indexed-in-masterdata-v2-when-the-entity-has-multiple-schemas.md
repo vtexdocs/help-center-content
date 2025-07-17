@@ -1,5 +1,5 @@
 ---
-title: 'Documents are not indexed in masterdata v2 when the entity has multiple schemas'
+title: "Documents are not indexed in masterdata v2 when the entity has multiple schemas"
 id: bjjbd2AmtCBSdQGRqYz51
 status: PUBLISHED
 createdAt: 2024-08-08T13:44:12.920Z

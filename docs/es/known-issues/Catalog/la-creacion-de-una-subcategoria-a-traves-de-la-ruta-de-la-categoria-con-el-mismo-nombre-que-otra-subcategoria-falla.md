@@ -1,5 +1,5 @@
 ---
-title: 'La creación de una subcategoría a través de la ruta de la categoría, con el mismo nombre que otra subcategoría, falla'
+title: "La creación de una subcategoría a través de la ruta de la categoría, con el mismo nombre que otra subcategoría, falla"
 id: 4ncZiLNaKbgfYzGHCGvwdk
 status: PUBLISHED
 createdAt: 2024-08-26T15:45:09.563Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: creating-subcategory-via-category-path-with-the-same-name-as-another-subcategory-fails
+slugEN: la-creacion-de-una-subcategoria-a-traves-de-la-ruta-de-la-categoria-con-el-mismo-nombre-que-otra-subcategoria-falla
 locale: es
 kiStatus: Backlog
 internalReference: 1087069
@@ -18,7 +18,9 @@ internalReference: 1087069
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, es posible crear nuevas categorías y/o subcategorías informando de sus nombres a través de la propiedad JSON "CategoryPath" en la API de inserción de productos: https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product
@@ -37,7 +39,7 @@ Utilizando la API mencionada, cree un producto informando, en la ruta de la cate
 
 Como ejemplo, compruebe el árbol siguiente:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-creacion-de-una-subcategoria-a-traves-de-la-ruta-de-la-categoria-con-el-mismo-nombre-que-otra-subcategoria-falla_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0RlxkVj9Gvd2ukR1vZcxdcmyC/?name=image.png)
 
 Esto significaría informar en la ruta "Departamento/Categoría2/Subcategoría1".
 

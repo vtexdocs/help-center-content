@@ -1,5 +1,5 @@
 ---
-title: 'Translation issues when using a subaccount to implement multi-language stores'
+title: "Translation issues when using a subaccount to implement multi-language stores"
 id: 5FOCZE7pI4npyfo7TjsFaY
 status: PUBLISHED
 createdAt: 2023-06-21T20:36:33.483Z

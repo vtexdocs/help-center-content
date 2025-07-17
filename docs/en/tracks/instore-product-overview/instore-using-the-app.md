@@ -22,11 +22,11 @@ Here you can see the behavior of the application at each stage of interaction wi
 
 See below all the recommended guides to get started with VTEX Sales App.
 
-* **[VTEX Sales App - Getting started and setting up](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc)**: concepts, prerequisites and instructions for you to set up VTEX Sales App.
-* **[VTEX Sales App - Payments](https://help.vtex.com/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy)**: the step-by-step to set up the payment methods by each certified acquirer.
-* **[VTEX Sales App - Using the app](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr)**: the VTEX Sales App app features and how to use them. **You are on this track.**
-* **[Unified Commerce Strategies](https://help.vtex.com/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv)**: step-by-step guides to implement some of the main Unified Commerce strategies at VTEX.
+* **[VTEX Sales App - Getting started and setting up](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc)**: concepts, prerequisites and instructions for you to set up VTEX Sales App.
+* **[VTEX Sales App - Payments](/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy)**: the step-by-step to set up the payment methods by each certified acquirer.
+* **[VTEX Sales App - Using the app](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr)**: the VTEX Sales App app features and how to use them. **You are on this track.**
+* **[Unified Commerce Strategies](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv)**: step-by-step guides to implement some of the main Unified Commerce strategies at VTEX.
 
-To see all VTEX Sales App related tracks, click on **[`Start here`](https://help.vtex.com/en/tracks/)** at the top of the page and scroll down to the **Omnichannel** category.
+To see all VTEX Sales App related tracks, click on **[`Start here`](/en/tracks/)** at the top of the page and scroll down to the **Omnichannel** category.
 
-Click `Next` to access the next articles in the **[VTEX Sales App - Getting Started and Configuring](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)** track.
+Click `Next` to access the next articles in the **[VTEX Sales App - Getting Started and Configuring](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)** track.

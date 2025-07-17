@@ -1,5 +1,5 @@
 ---
-title: 'Os titulares dos lugares mostrando ao invés dos dados corretos'
+title: "Os titulares dos lugares mostrando ao invés dos dados corretos"
 id: 5sZbIwHd1MNi0NsFnGO6il
 status: PUBLISHED
 createdAt: 2022-03-04T12:57:57.195Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: placeholders-showing-instead-of-the-correct-data
+slugEN: os-titulares-dos-lugares-mostrando-ao-inves-dos-dados-corretos
 locale: pt
 kiStatus: Backlog
 internalReference: 371183
@@ -18,7 +18,9 @@ internalReference: 371183
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

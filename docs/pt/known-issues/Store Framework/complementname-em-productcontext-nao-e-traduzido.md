@@ -1,5 +1,5 @@
 ---
-title: 'complementName em productContext não é traduzido'
+title: "complementName em productContext não é traduzido"
 id: 6Gol274XThpldM99pDuHAC
 status: PUBLISHED
 createdAt: 2024-09-10T18:15:06.126Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: complementname-in-productcontext-is-not-translated
+slugEN: complementname-em-productcontext-nao-e-traduzido
 locale: pt
 kiStatus: Backlog
 internalReference: 1095907
@@ -18,7 +18,9 @@ internalReference: 1095907
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Como a API de tradução de documentos de pesquisa do catálogo não traduz o campo de descrição curta chamado complementName, o contexto do produto mostra o texto original em lojas internacionalizadas.

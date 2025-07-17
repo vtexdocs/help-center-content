@@ -1,5 +1,5 @@
 ---
-title: 'O Tax Service não considera promoções nominais ao fazer pedidos'
+title: "O Tax Service não considera promoções nominais ao fazer pedidos"
 id: 1vCs62opRc2iDw0NmYqlT7
 status: PUBLISHED
 createdAt: 2023-09-14T17:48:37.761Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-service-doesnt-consider-nominal-promotions-when-placing-orders
+slugEN: o-tax-service-nao-considera-promocoes-nominais-ao-fazer-pedidos
 locale: pt
 kiStatus: Backlog
 internalReference: 900120
@@ -18,7 +18,9 @@ internalReference: 900120
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o serviço de impostos, se houver uma promoção nominal aplicada no carrinho e ocorrer uma divisão de item, o checkout da solicitação não terá a promoção nominal aplicada, não permitindo concluir a compra, e a mensagem "O pedido solicitado não pôde ser criado. Please try again" será exibida.

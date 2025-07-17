@@ -1,5 +1,5 @@
 ---
-title: 'When relating attachments to a service, other services are also changed'
+title: "When relating attachments to a service, other services are also changed"
 id: 6OdMz37fgWig4cIQciQuk4
 status: PUBLISHED
 createdAt: 2018-02-28T18:49:35.824Z

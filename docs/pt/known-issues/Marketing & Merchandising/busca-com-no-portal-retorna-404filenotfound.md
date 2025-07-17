@@ -1,5 +1,5 @@
 ---
-title: 'Busca com . no portal retorna 404?FileNotFound'
+title: "Busca com . no portal retorna 404?FileNotFound"
 id: 3Gv7Jv3fjyCwASI8MwMgmQ
 status: PUBLISHED
 createdAt: 2018-09-14T18:09:52.414Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: search-with-on-portal-returns-404filenotfound
+slugEN: busca-com-no-portal-retorna-404filenotfound
 locale: pt
 kiStatus: Backlog
 internalReference: 

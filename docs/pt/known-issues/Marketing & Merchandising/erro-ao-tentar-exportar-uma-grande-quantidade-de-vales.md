@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao tentar exportar uma grande quantidade de vales'
+title: "Erro ao tentar exportar uma grande quantidade de vales"
 id: 1IGraA4i3GkEMow4iaO6MI
 status: PUBLISHED
 createdAt: 2017-04-03T19:51:03.949Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: error-when-trying-to-export-a-large-number-of-vouchers
+slugEN: erro-ao-tentar-exportar-uma-grande-quantidade-de-vales
 locale: pt
 kiStatus: Backlog
 internalReference: 

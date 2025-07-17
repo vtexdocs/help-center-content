@@ -1,5 +1,5 @@
 ---
-title: 'Transliteration only being saved in vbase and not into rewriter'
+title: "Transliteration only being saved in vbase and not into rewriter"
 id: 3ngFt1qXOUjmY5L84dk6in
 status: PUBLISHED
 createdAt: 2023-12-12T19:54:12.171Z

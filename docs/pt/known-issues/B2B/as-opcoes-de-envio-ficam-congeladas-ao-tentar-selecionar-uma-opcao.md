@@ -1,5 +1,5 @@
 ---
-title: 'As opções de envio ficam congeladas ao tentar selecionar uma opção'
+title: "As opções de envio ficam congeladas ao tentar selecionar uma opção"
 id: 7zrMuzLq8kpNLDc2l2FswA
 status: PUBLISHED
 createdAt: 2023-09-13T14:42:26.106Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: shipping-options-gets-frozen-when-trying-to-select-an-option
+slugEN: as-opcoes-de-envio-ficam-congeladas-ao-tentar-selecionar-uma-opcao
 locale: pt
 kiStatus: Fixed
 internalReference: 898888
@@ -18,7 +18,9 @@ internalReference: 898888
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a configuração de checkout B2B e ir e voltar entre as etapas de envio e pagamento, o envio fica congelado ao tentar selecionar uma opção.

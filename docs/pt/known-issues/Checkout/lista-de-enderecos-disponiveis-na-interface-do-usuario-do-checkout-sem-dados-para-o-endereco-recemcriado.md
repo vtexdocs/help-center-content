@@ -1,5 +1,5 @@
 ---
-title: 'Lista de endereços disponíveis na interface do usuário do checkout sem dados para o endereço recém-criado'
+title: "Lista de endereços disponíveis na interface do usuário do checkout sem dados para o endereço recém-criado"
 id: 1BEDcoXLVAs5L039eKXsXv
 status: PUBLISHED
 createdAt: 2024-07-05T21:08:40.994Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: available-addresses-list-on-checkout-ui-missing-data-for-newly-created-address
+slugEN: lista-de-enderecos-disponiveis-na-interface-do-usuario-do-checkout-sem-dados-para-o-endereco-recemcriado
 locale: pt
 kiStatus: Backlog
 internalReference: 1061630
@@ -18,7 +18,9 @@ internalReference: 1061630
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário adiciona um novo endereço durante a etapa de envio do Checkout, avança para a etapa de pagamento e, em seguida, retorna à lista de endereços disponíveis da etapa de envio, esse endereço recém-criado pode estar ausente da lista ou exibir informações incompletas na interface do usuário.

@@ -29,7 +29,7 @@ Los artículos listados debajo tienen como objetivo aclarar los detalles y el pr
 
 la nueva lista de precios está compuesta por: una lista con los productos e sus precios base; reglas que alteran los precios de los productos de acuerdo con las Políticas Comerciales; reglas de redondeo de precio; y una sección de configuraciones generales.
 
-- [Registrar Tabla de Precio](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
-- [Regla de Precio](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
+- [Registrar Tabla de Precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
+- [Regla de Precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
 - [Redondeo de Precios](/es/tutorial/precio-psicologico-v2/)
-- [Configuración de precios](https://help.vtex.com/es/tutorial/configuracion-de-precios--3hbBtCzNUBrj8GaWgCtSWN)
+- [Configuración de precios](/es/tutorial/configuracion-de-precios--3hbBtCzNUBrj8GaWgCtSWN)

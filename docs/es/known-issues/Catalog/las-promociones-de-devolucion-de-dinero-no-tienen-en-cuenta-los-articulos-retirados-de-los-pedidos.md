@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones de devolución de dinero no tienen en cuenta los artículos retirados de los pedidos'
+title: "Las promociones de devolución de dinero no tienen en cuenta los artículos retirados de los pedidos"
 id: lm9v37jvUSCeh9FVFHjsr
 status: PUBLISHED
 createdAt: 2024-04-19T13:50:10.264Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cashback-promotions-do-not-consider-items-removed-from-orders
+slugEN: las-promociones-de-devolucion-de-dinero-no-tienen-en-cuenta-los-articulos-retirados-de-los-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 1019864
@@ -18,7 +18,9 @@ internalReference: 1019864
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

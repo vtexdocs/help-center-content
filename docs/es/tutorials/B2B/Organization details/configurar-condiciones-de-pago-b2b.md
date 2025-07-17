@@ -15,11 +15,13 @@ legacySlug: configurar-condiciones-de-pago-b2b
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-En una operación B2B, las [condiciones de pago](https://help.vtex.com/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) se asignan a la organización compradora. Las elecciones que realices determinarán las opciones de pago disponibles para los usuarios de la organización durante el checkout.
+En una operación B2B, las [condiciones de pago](/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) se asignan a la organización compradora. Las elecciones que realices determinarán las opciones de pago disponibles para los usuarios de la organización durante el checkout.
 
 Los usuarios con rol de administrador de la organización pueden personalizar por centro de costos las opciones de pago disponibles.
 
->ℹ️ Cuando configuras una condición de pago en el módulo de Pagos, se mostrará como un medio de pago en la sección **Disponible** dentro de la pestaña **Condiciones de pago**. Para acceder a esta sección solo tienes que hacer clic en el nombre de la organización. Los medios de pago listados son aquellos que ya están asignados a la organización.
+<div class = "alert alert-info">
+Cuando configuras una condición de pago en el módulo de Pagos, se mostrará como un medio de pago en la sección <b>Disponible</b> dentro de la pestaña <b>Condiciones de pago</b>. Para acceder a esta sección solo tienes que hacer clic en el nombre de la organización. Los medios de pago listados son aquellos que ya están asignados a la organización.
+</div>
 
 ## Asociar condiciones de pago a la organización
 Para asociar una condición de pago con una organización de compras sigue las instrucciones a continuación:

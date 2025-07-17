@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistência na quantidade de itens com Assembly options no carrinho'
+title: "Inconsistência na quantidade de itens com Assembly options no carrinho"
 id: ANQ597XM5mK85MhME920Y
 status: PUBLISHED
 createdAt: 2021-09-23T20:34:36.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
+slugEN: inconsistencia-na-quantidade-de-itens-com-assembly-options-no-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -28,7 +28,7 @@ Nos produtos com customização do Assembly options, um item pai possui componen
 3. Selecione o item filho do produto, na mesma quantidade;
 4. Confira os itens no carrinho de compras.
 
-![KI assembly](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/inconsistencia-na-quantidade-de-itens-com-assembly-options-no-carrinho_1.png)
+![KI assembly](//images.contentful.com/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/b2d02da26c27f468b43e32e0d3a81f61/KI_assembly.png)
 Observe que o carrinho contém uma unidade a mais do item filho em relação ao item pai.
 
 

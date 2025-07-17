@@ -1,5 +1,5 @@
 ---
-title: 'La doble solicitud de Adyen 3DS2 genera una denegación de autorización de pago'
+title: "La doble solicitud de Adyen 3DS2 genera una denegación de autorización de pago"
 id: 3yR8LzaUjclJ22PkAymvoe
 status: PUBLISHED
 createdAt: 2023-09-20T13:09:29.771Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: adyen-3ds2-double-request-generates-payment-authorization-denial
+slugEN: la-doble-solicitud-de-adyen-3ds2-genera-una-denegacion-de-autorizacion-de-pago
 locale: es
 kiStatus: Backlog
 internalReference: 884154
@@ -18,7 +18,9 @@ internalReference: 884154
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la solicitud 3DS2 de Adyen se envía dos veces, obtiene un error en la respuesta y el pago se deniega automáticamente.

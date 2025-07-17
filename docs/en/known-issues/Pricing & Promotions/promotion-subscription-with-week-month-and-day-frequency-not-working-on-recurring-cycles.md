@@ -1,5 +1,5 @@
 ---
-title: 'Promotion subscription with week, month and day frequency not working on recurring cycles'
+title: "Promotion subscription with week, month and day frequency not working on recurring cycles"
 id: 70DNIBLC5kctaFZSLooOQ7
 status: PUBLISHED
 createdAt: 2024-01-12T17:00:50.068Z

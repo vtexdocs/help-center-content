@@ -13,10 +13,11 @@ slugEN: admin-redirect-search-returns-no-results
 locale: en
 legacySlug: admin-redirect-search-returns-no-results
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Redirects
 ---
 
-When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](https://help.vtex.com/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb).
+**Tags:** Redirects
+
+When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb).
 
 ## Solution
 
@@ -107,4 +108,4 @@ Follow these steps to get the redirects:
 
 If the current redirects are not what's expected, the Rewriter app allows you to perform other operations with redirects, such as deleting existing ones and creating new ones. For details on these operations, see the [Rewriter GraphQL API](https://developers.vtex.com/docs/apps/vtex.rewriter/rewriter-graphql-api) guide.
 
-You can also export and import redirects with `.csv files` using the Redirects page or the VTEX IO CLI `redirects` [plugin](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-plugins). For details on importing and exporting redirects, see [Managing URL redirects by binding](https://help.vtex.com/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb#importing-and-exporting-redirects) and the [VTEX IO CLI command reference](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference#redirects-delete).
+You can also export and import redirects with `.csv files` using the Redirects page or the VTEX IO CLI `redirects` [plugin](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-plugins). For details on importing and exporting redirects, see [Managing URL redirects by binding](/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb#importing-and-exporting-redirects) and the [VTEX IO CLI command reference](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference#redirects-delete).

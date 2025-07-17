@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Order Status is not revised when reprocessing order on bridge'
+title: "Amazon Order Status is not revised when reprocessing order on bridge"
 id: 6t7R49BcUjC9LU8UWLvwdh
 status: PUBLISHED
 createdAt: 2024-10-18T12:18:00.080Z

@@ -1,5 +1,5 @@
 ---
-title: 'No se puede filtrar por Período en el listado ni en el export de Bridge'
+title: "No se puede filtrar por Período en el listado ni en el export de Bridge"
 id: 5U95urZgFa082kwwC2AKE0
 status: PUBLISHED
 createdAt: 2017-12-15T18:02:31.443Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: cannot-filter-by-period-in-the-bridge-list-or-export
+slugEN: no-se-puede-filtrar-por-periodo-en-el-listado-ni-en-el-export-de-bridge
 locale: es
 kiStatus: Backlog
 internalReference: 

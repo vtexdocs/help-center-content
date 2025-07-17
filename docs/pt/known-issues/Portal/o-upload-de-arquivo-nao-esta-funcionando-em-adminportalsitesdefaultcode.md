@@ -1,5 +1,5 @@
 ---
-title: 'O upload de arquivo não está funcionando em admin/portal/#/sites/default/code'
+title: "O upload de arquivo não está funcionando em admin/portal/#/sites/default/code"
 id: 5pFAkaymcuOQMAqUDGPQZK
 status: PUBLISHED
 createdAt: 2023-09-12T13:37:36.429Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: upload-file-not-working-on-adminportalsitesdefaultcode
+slugEN: o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode
 locale: pt
 kiStatus: Backlog
 internalReference: 897956
@@ -18,7 +18,9 @@ internalReference: 897956
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar carregar um novo arquivo em admin/portal/#/sites/default/code, nada acontece. Ao verificar o console no devTools, podemos ver uma mensagem de erro:
@@ -30,7 +32,7 @@ Ao tentar carregar um novo arquivo em admin/portal/#/sites/default/code, nada ac
 
 1. Vá para admin/portal/#/sites/default/code
 2. Vá para New -> Upload File -> selecione o arquivo que deseja importar -> clique em create
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Portal/o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
 3. Verifique se nada acontece
 
 ## Workaround

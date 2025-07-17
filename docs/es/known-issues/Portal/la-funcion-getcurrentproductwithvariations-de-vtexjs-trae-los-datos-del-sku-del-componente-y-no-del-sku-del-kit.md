@@ -1,5 +1,5 @@
 ---
-title: 'La función getCurrentProductWithVariations de VTEX.js trae los datos del SKU del componente y no del SKU del KIT.'
+title: "La función getCurrentProductWithVariations de VTEX.js trae los datos del SKU del componente y no del SKU del KIT."
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: getcurrentproductwithvariations-function-from-vtexjs-brings-data-from-component-sku-and-not-from-kit-sku
+slugEN: la-funcion-getcurrentproductwithvariations-de-vtexjs-trae-los-datos-del-sku-del-componente-y-no-del-sku-del-kit
 locale: es
 kiStatus: No Fix
 internalReference: 324416
@@ -18,7 +18,9 @@ internalReference: 324416
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La función `getCurrentProductWithVariations` de VTEX.js trae los datos del SKU del componente en lugar del SKU del KIT.

@@ -1,5 +1,5 @@
 ---
-title: '12 dígitos cardNumber siendo aceptados en la caja y causando transacciones atascadas'
+title: "12 dígitos cardNumber siendo aceptados en la caja y causando transacciones atascadas"
 id: 2vLsFwO5Dt2gUL9kUTZ8s3
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:42.814Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: 12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions
+slugEN: 12-digitos-cardnumber-siendo-aceptados-en-la-caja-y-causando-transacciones-atascadas
 locale: es
 kiStatus: Backlog
 internalReference: 452392
@@ -18,7 +18,9 @@ internalReference: 452392
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un cliente introduce un cardNumber de 12 dígitos, a pesar de que este número de dígitos no es válido, lo enviamos varias veces a la entidad adquirente aún sabiendo que no lo aprobará ya que el cardNumber no está en el patrón: [0-9]{13,19}. El resultado es un pedido atascado durante varios días hasta ser cancelado.

@@ -1,5 +1,5 @@
 ---
-title: 'La ordenación de los campos de los productos y las SKU no se guarda'
+title: "La ordenación de los campos de los productos y las SKU no se guarda"
 id: ki4RwH9MHeuYEUmyoiYSG
 status: PUBLISHED
 createdAt: 2018-08-17T02:22:22.240Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slugEN: ordering-of-product-fields-and-skus-is-not-saved
+slugEN: la-ordenacion-de-los-campos-de-los-productos-y-las-sku-no-se-guarda
 locale: es
 kiStatus: Backlog
 internalReference: 525127
@@ -18,7 +18,9 @@ internalReference: 525127
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Cuando se cambia la ordenación de los campos de productos o SKUs en una categoría que no es la principal, después de hacer clic en el botón de ordenación los cambios no se guardan y los campos modificados no aparecen después de recargar la página.
 

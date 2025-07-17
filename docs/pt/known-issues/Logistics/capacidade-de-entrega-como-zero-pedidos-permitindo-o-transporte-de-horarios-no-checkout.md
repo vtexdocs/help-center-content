@@ -1,5 +1,5 @@
 ---
-title: 'Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout'
+title: "Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout"
 id: 2bLfDs5LpdQqaiu6MYcnCB
 status: PUBLISHED
 createdAt: 2022-05-17T20:10:26.177Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout
+slugEN: capacidade-de-entrega-como-zero-pedidos-permitindo-o-transporte-de-horarios-no-checkout
 locale: pt
 kiStatus: Scheduled
 internalReference: 471612
@@ -18,7 +18,9 @@ internalReference: 471612
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

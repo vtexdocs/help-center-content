@@ -1,5 +1,5 @@
 ---
-title: 'A promoção de embarque não gera destaques / bandeiras'
+title: "A promoção de embarque não gera destaques / bandeiras"
 id: wwCzhTue5cSNhKFLFX9lP
 status: PUBLISHED
 createdAt: 2022-04-25T14:00:46.027Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: shipping-promotion-does-not-generate-highlights-flags
+slugEN: a-promocao-de-embarque-nao-gera-destaques-bandeiras
 locale: pt
 kiStatus: Backlog
 internalReference: 527111
@@ -18,7 +18,9 @@ internalReference: 527111
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Porcentagens de remessa, remessa máxima, remessa gratuita e promoções de presentes não estão gerando destaque / bandeiras nos PDPs e PLPs.

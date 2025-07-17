@@ -15,11 +15,11 @@ announcementImageID: ''
 announcementSynopsisPT: 'Lançamento da nova interface de gerenciamento de promoções do Mercado Livre'
 ---
 
-Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](https://help.vtex.com/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos lançando oficialmente a nova interface para gerenciamento de promoções no Mercado Livre para todos os clientes VTEX que operam como sellers no marketplace.
+Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos lançando oficialmente a nova interface para gerenciamento de promoções no Mercado Livre para todos os clientes VTEX que operam como sellers no marketplace.
 
 Na nova página de **Promoções** do Mercado Livre, é possível gerenciar uma lista com diferentes campanhas promocionais na plataforma disponíveis para a sua loja.
 
-![Promoções](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-06-15-integracao-com-o-mercado-livre-nova-interface-para-gerir-promocoes_1.gif)
+![Promoções](https://images.ctfassets.net/alneenqid6w5/7qDxLkDgrBDJWovD2dhG9I/08759bd0132772b8c5cb51078f9e80bd/Promo____es.gif)
 
 ## O que mudou?
 
@@ -35,4 +35,4 @@ Essa mudança faz parte das melhorias aplicadas para a certificação do Mercado
 
 A nova interface já está disponível para toda nossa base de clientes que utilizam o conector do Mercado Livre para anunciar seus produtos. Para acessá-la, clique em **MARKETPLACE > Mercado Livre > Promoções**.
 
-Para saber mais sobre como utilizar a nova funcionalidade, leia o artigo [Promoções do Mercado Livre](https://help.vtex.com/pt/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).
+Para saber mais sobre como utilizar a nova funcionalidade, leia o artigo [Promoções do Mercado Livre](/pt/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).

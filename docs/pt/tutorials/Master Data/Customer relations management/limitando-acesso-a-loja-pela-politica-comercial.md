@@ -19,16 +19,21 @@ A limitação no acesso de uma loja pode ser implementado por diversos motivos, 
 
 Esse cenário pode ser atendido através do uso do Master Data v1 e da política comercial utilizada na loja.
 
->⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
->
-> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-> Características das versões do Master Data
-> </a>
->
-> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-> Master Data v2
-> </a>
-> 
+<div class="alert alert-warning">
+Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+<ul>
+<li>
+<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+Características das versões do Master Data
+</a>
+</li>
+<li>
+<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+Master Data v2
+</a>
+</li>
+</ul>
+</div>
 
 ## Criar cluster de clientes
 
@@ -43,7 +48,7 @@ Após a criação do cluster, é preciso criar a regra na política comercial pa
 3. No campo **Regra condicional**, preencha com o valor **{NomeDoCluster}=”true”**. O valor **{NomeDoCluster}** deve ser alterado pelo nome do campo na entidade de dados.
 4. Clique no botão **Salvar**.
 
-![Catálogo PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Customer%20relations%20management/limitando-acesso-a-loja-pela-politica-comercial_1.png)
+![Catálogo PT](https://images.ctfassets.net/alneenqid6w5/7r2ANIP2U6JDt1B0dxGmF6/739b47fa293440f94bb635d0d90cfbc0/pol__ticas_comerciais_pt.png)
 
 Na configuração acima, apenas o clientes com o valor true (utilizado um campo boolean – em que os valores são verdadeiro ou falso) acessarão o site.
 
@@ -55,7 +60,7 @@ Para um caso de B2B, onde a loja ainda não conhece quais são os clientes que p
 
 ## Saiba mais
 
-- [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona uma Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Configurar política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)

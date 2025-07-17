@@ -1,5 +1,5 @@
 ---
-title: 'Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full'
+title: "Payment Conditions set to process transactions in installments other than 1x are processing transactions as prepaid in full"
 id: 2z9cDiCAovzKVFZO7RSqOD
 status: PUBLISHED
 createdAt: 2024-05-09T18:47:33.319Z

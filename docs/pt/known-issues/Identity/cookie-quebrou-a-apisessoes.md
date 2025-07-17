@@ -1,5 +1,5 @@
 ---
-title: 'Cookie quebrou a API/Sessões'
+title: "Cookie quebrou a API/Sessões"
 id: 5knDMVZabZRYaEtITjkDbE
 status: PUBLISHED
 createdAt: 2023-03-27T19:54:42.696Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: cookie-broken-the-apisessions
+slugEN: cookie-quebrou-a-apisessoes
 locale: pt
 kiStatus: Backlog
 internalReference: 779014
@@ -18,7 +18,9 @@ internalReference: 779014
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há um script que gera um cookie para rastrear os usuários e seu cookie interrompe a chamada para /api/sessions, por exemplo, porque ele tem um caractere especial no cookie de valor. Então, precisamos descartar esses cookies malformados do nosso lado e manter todos os outros, para que isso não afete o comportamento.

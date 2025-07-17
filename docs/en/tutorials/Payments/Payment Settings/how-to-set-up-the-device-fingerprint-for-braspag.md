@@ -19,11 +19,13 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
->ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+<div class="alert alert-info">
+Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+</div>
 
 This article will explain how to associate the Device Fingerprint feature with the Braspag affiliation.
 
->ℹ️ The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.
+<div class="alert alert-info">The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.</div>
 
 To enter the device fingerprint scripts required by Braspag/CyberSource, you will need to use Google Tag Manager. To do so, go to [http://www.google.com/tagmanager](http://www.google.com/tagmanager/) and access your account.
 
@@ -41,11 +43,11 @@ function() {
 
 - Create the variables `cs_orgId` and `cs_merchantId` of type **Permanente.** The values of these two variables should be filled out with the contents informed by Braspag.
 
-![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Create or edit a driver for the orderPlaced screen (screen that shows purchases successfully closed) for it to be compatible with the **Evento personalizado** type and the **orderPlaced** value.
 
-![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Creation of a Braspag tag
 
@@ -64,6 +66,6 @@ Fill it out with the HTML below:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/84f93e14dac3c4471bb1d30b09fbf62e/image.png_h_250)
+![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/84f93e14dac3c4471bb1d30b09fbf62e/image.png_h_250)
 
 At last, post the changes.

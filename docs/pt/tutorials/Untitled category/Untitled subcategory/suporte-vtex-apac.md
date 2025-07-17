@@ -15,4 +15,4 @@ legacySlug: suporte-vtex-apac
 subcategoryId: unknown-subcategory
 ---
 
-Este conteúdo está disponível apenas em inglês. [Clique aqui](https://help.vtex.com/pt/faq/vtex-support-brazil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocompletE) para acessar.
+Este conteúdo está disponível apenas em inglês. [Clique aqui](/pt/faq/vtex-support-brazil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocompletE) para acessar.

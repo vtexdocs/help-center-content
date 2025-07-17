@@ -1,5 +1,5 @@
 ---
-title: 'O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido'
+title: "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido"
 id: 7ef1GxxapbH2XKKf7HBuAM
 status: PUBLISHED
 createdAt: 2024-10-31T15:08:54.129Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform
+slugEN: o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 1127034
@@ -18,7 +18,9 @@ internalReference: 1127034
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O carrinho FastStore é criado/atualizado por meio de _ValidateCartMutation_.

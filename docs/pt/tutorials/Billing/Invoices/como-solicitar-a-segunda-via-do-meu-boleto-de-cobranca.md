@@ -15,11 +15,11 @@ legacySlug: como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->ℹ️ **ATENÇÃO: Esse procedimento é apenas para clientes faturados no Brasil.**
+<div class="alert alert-info" role="alert"><strong>ATENÇÃO: Esse procedimento é apenas para clientes faturados no Brasil.</strong></div>
 
-No módulo Faturas, é possível consultar todas as notas fiscais emitidas pela VTEX e atualizar seu boleto para pagamento após o vencimento. Caso não consiga acessar a essa área, certifique-se de que você possui o [perfil de acesso financeiro](https://help.vtex.com/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
+No módulo Faturas, é possível consultar todas as notas fiscais emitidas pela VTEX e atualizar seu boleto para pagamento após o vencimento. Caso não consiga acessar a essa área, certifique-se de que você possui o [perfil de acesso financeiro](/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
 
-Para obter a segunda via de seu boleto, acesse o link disponível em seu [Painel Financeiro](https://help.vtex.com/pt/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653).
+Para obter a segunda via de seu boleto, acesse o link disponível em seu [Painel Financeiro](/pt/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653).
 
 
 

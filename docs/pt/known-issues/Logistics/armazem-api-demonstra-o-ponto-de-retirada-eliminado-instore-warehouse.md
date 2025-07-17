@@ -1,5 +1,5 @@
 ---
-title: 'Armazém API demonstra o ponto de retirada eliminado (inStore warehouse)'
+title: "Armazém API demonstra o ponto de retirada eliminado (inStore warehouse)"
 id: obATI7B4MgRb2lNExdXcV
 status: PUBLISHED
 createdAt: 2022-05-10T20:45:27.127Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: warehouse-api-demonstrates-pickup-point-deleted-instore-warehouse
+slugEN: armazem-api-demonstra-o-ponto-de-retirada-eliminado-instore-warehouse
 locale: pt
 kiStatus: Fixed
 internalReference: 573017
@@ -18,7 +18,9 @@ internalReference: 573017
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você apaga um ponto de coleta ligado a um depósito (inStore warehouse), o ponto de coleta permanece ligado ao depósito se você o consultar via API.

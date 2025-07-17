@@ -1,5 +1,5 @@
 ---
-title: 'Misconfigured VTable app breaks other apps of the same type'
+title: "Misconfigured VTable app breaks other apps of the same type"
 id: cxsyuFBHRmG2mweiiC66Y
 status: PUBLISHED
 createdAt: 2019-01-03T21:10:51.083Z
@@ -29,9 +29,9 @@ Main causes of a badly configured app:
 
 In the case of a non-existent JSON Schema, insert the correct JSON Schema's name in the `model` field.
 
-For example: ![Screen Shot 2019-01-03 at 19.31.53](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/misconfigured-vtable-app-breaks-other-apps-of-the-same-type_1.png)
+For example: ![Screen Shot 2019-01-03 at 19.31.53](//images.ctfassets.net/alneenqid6w5/EVwmyhWMmGmcs2Y8wEQiw/ddbf9f821818f2c061a5f262ee43e675/Screen_Shot_2019-01-03_at_19.31.53.png)
 
-Notice how the app's border turns red and the error message on the console indicates "Error to get jsonschema by name": ![Screen Shot 2019-01-03 at 19.24.22](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Master%20Data/misconfigured-vtable-app-breaks-other-apps-of-the-same-type_2.png)
+Notice how the app's border turns red and the error message on the console indicates "Error to get jsonschema by name": ![Screen Shot 2019-01-03 at 19.24.22](//images.ctfassets.net/alneenqid6w5/62I23QUXPauQGGcUcoCucK/b484536ae3e462823b7715ff52a737ea/Screen_Shot_2019-01-03_at_19.24.22.png)
 
 ## Workaround
 

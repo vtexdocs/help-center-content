@@ -1,5 +1,5 @@
 ---
-title: 'O pedido não pode ser criado devido a cartão de crédito inválido'
+title: "O pedido não pode ser criado devido a cartão de crédito inválido"
 id: 3vh1jvhIzEsC4ZLC1C4pJA
 status: PUBLISHED
 createdAt: 2022-06-29T18:59:46.795Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-cant-be-created-due-to-invalid-credit-card
+slugEN: o-pedido-nao-pode-ser-criado-devido-a-cartao-de-credito-invalido
 locale: pt
 kiStatus: Backlog
 internalReference: 607742
@@ -18,7 +18,9 @@ internalReference: 607742
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A criação de uma ordem pode falhar com a exceção genérica "_Um erro de comunicação com gateway ocorreu e os dados de pagamento da transação {id} não foram recebidos com sucesso_", que têm causas de raiz diferentes. Uma delas estará relacionada à exceção interna "_As informações solicitadas da conta não existem_", que podem ser vistas no histórico da transação/pagamento relacionado ao pedido incompleto.

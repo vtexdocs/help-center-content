@@ -3,8 +3,8 @@ title: 'Audit'
 id: 5RXf9WJ5YLFBcS8q8KcxTA
 status: PUBLISHED
 createdAt: 2021-10-21T16:51:06.108Z
-updatedAt: 2024-04-18T14:03:48.943Z
-publishedAt: 2024-04-18T14:03:48.943Z
+updatedAt: 2025-04-25T19:20:49.628Z
+publishedAt: 2025-04-25T19:20:49.628Z
 firstPublishedAt: 2021-10-21T21:55:42.939Z
 contentType: tutorial
 productTeam: Others
@@ -22,9 +22,11 @@ To access the Audit page in the VTEX Admin, go to **Apps > Installed Apps > Audi
 * [Query events in Audit](#querying-events-in-audit)
 * [View the last queries in Audit](#viewing-the-last-queries-in-audit)
 
->ℹ️ To view Audit events, you must have a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+<div class="alert alert-info">
+  <p>To view Audit events, you must have a <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">role</a> associated with the <em>Insights Metrics</em>  <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">resource</a>.</p>
+</div>
 
-![audit-ui-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform%20security%20resources/audit_1.png)
+![audit-ui-en (1)](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/9e040c47cb3220175bf368155f438813/audit-ui-en__1_.png)
 
 ## Querying events in Audit
 
@@ -38,9 +40,11 @@ Follow the instructions to search for an event using the filters available in Au
 2. In the **Application** menu under **Filters**, select the application related to the query.
 3. In the **Date** menu, choose a predefined date for the query. If you prefer to set the exact date range for the query, select the **Custom** option and choose the **Start** and **End** dates for the query.
 
-   >ℹ️ Only records from the last 3 months are stored.
+   <div class= "alert alert-info">
+     <p>Only records from the last 3 months are stored.</p>
+   </div>
 
-4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
 5. Select the filter parameter (_Author_ or _Event Details_) and enter the value to which the parameter should be compared.
 
@@ -48,13 +52,15 @@ Follow the instructions to search for an event using the filters available in Au
 
     For example, the query in the image below returns results for `Change Promotion Configuration` or `Change Coupon Configuration` actions whose author is `email@mail.com`.
 
-    ![filtros-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Platform%20security%20resources/audit_2.png)
+    ![filtros-en (1)](https://images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/266db3f0a88fe7e35268d8e2410c0052/filtros-en__1_.png)
 
 7. Click the `Apply` button to obtain the events found.
 
     Check the [Results](#results) section to see how the events are displayed.
 
->⚠️ The query results correspond exactly to the content entered in the filter field. To avoid unexpected results, make sure you haven't typed extra spaces in the query terms.
+<div class= "alert alert-warning">
+  <p>The query results correspond exactly to the content entered in the filter field. To avoid unexpected results, make sure you haven't typed extra spaces in the query terms.</p>
+</div>
 
 If you wish, you can share a query with another user. To do this, click `Share Query` in the top right-hand corner of the page. The link to the Audit search will be copied to your clipboard.
 
@@ -66,8 +72,8 @@ The **Results** section lists all events found in the query and displays informa
 |---|---|
 | __Copy__ | Button to copy the event information displayed in the table to the clipboard. |
 | __Event Time__ | Date and time of the event, displayed in the browser or operating system timezone. |
-| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
 | __Author__ | Email, ID, or token of the user who performed the event. |
 | __More Details__ | Button that opens a modal with more information about the event, when applicable. The details displayed may include: <ul><li class="t-body mb5 lh-copy"><strong>Entity name:</strong> The ID of the entity that was changed.</li><li class="t-body mb5 lh-copy"><strong>Entity before action:</strong> dInformation about the entity before the event, in <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a> format.</li><li class="t-body mb5 lh-copy"><strong>Entity after action:</strong> Information about the entity after the event, in <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a> format.</li></ul>Depending on the event, not all the information above is displayed. For example, an event that deleted information only displays the entity before the action. In contrast, an event that added information only displays the entity after the action. <br /><br /> Some events have no additional information. In such cases, the modal is left blank. |
 
@@ -92,6 +98,11 @@ To query whether the price of an SKU changed on a given date:
 2. In the **Application** menu, select _Prices_.
 3. Add a filter whose **Action** must be `Put Price`.
 4. Add a filter whose **Event Details** must be the SKU ID of the item queried.
+
+<div class="alert alert-info"> 
+	<p> To identify whether the price change was made through the import of a fixed price list, check the Author column in the search results. If the <strong>author</strong> is <code>vtex-service::pricing-wrk::Stable</code>, it means the price was updated through an imported spreadsheet. If the author is a user’s email address, the change was made manually. 
+	</p> 
+</div>
 
 #### Warehouse deletion
 
@@ -125,4 +136,6 @@ See below the information available in this tab:
 | Period | Start and end date of the period selected for the query. |
 | Redo Query | Button to redo the query. |
 
->⚠️ The **Last queries** tab only saves up to 50 queries. If you want to save a query beyond this limit, add it to your browser favorites.
+<div class= "alert alert-warning">
+  <p>The <strong>Last queries</strong> tab only saves up to 50 queries. If you want to save a query beyond this limit, add it to your browser favorites.</p>
+</div>

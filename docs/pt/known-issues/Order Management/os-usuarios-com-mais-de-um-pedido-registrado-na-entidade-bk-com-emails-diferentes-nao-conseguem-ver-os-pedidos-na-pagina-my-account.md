@@ -1,5 +1,5 @@
 ---
-title: 'Os usuários com mais de um pedido registrado na entidade BK com e-mails diferentes não conseguem ver os pedidos na página My Account'
+title: "Os usuários com mais de um pedido registrado na entidade BK com e-mails diferentes não conseguem ver os pedidos na página My Account"
 id: 43NLxAbOtyVzOCdS9Dns8c
 status: PUBLISHED
 createdAt: 2024-02-21T22:30:42.218Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: users-with-more-than-one-order-registered-on-bk-entity-with-different-emails-can-not-see-the-orders-on-my-account-page
+slugEN: os-usuarios-com-mais-de-um-pedido-registrado-na-entidade-bk-com-emails-diferentes-nao-conseguem-ver-os-pedidos-na-pagina-my-account
 locale: pt
 kiStatus: Backlog
 internalReference: 986324
@@ -18,7 +18,9 @@ internalReference: 986324
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido à unificação de perfis, alguns usuários podem ter pedidos com e-mails diferentes, e isso é um problema para mostrar os pedidos na página minha conta (meus pedidos).

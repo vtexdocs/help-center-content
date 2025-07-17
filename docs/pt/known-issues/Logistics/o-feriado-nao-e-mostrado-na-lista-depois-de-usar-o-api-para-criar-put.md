@@ -1,5 +1,5 @@
 ---
-title: 'O feriado não é mostrado na lista depois de usar o API para criar (PUT)'
+title: "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
 id: WqzSTP6oFwk4MbGaO5mIU
 status: PUBLISHED
 createdAt: 2022-05-02T22:26:55.630Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: the-holiday-is-not-shown-in-the-list-after-using-the-api-to-create-put
+slugEN: o-feriado-nao-e-mostrado-na-lista-depois-de-usar-o-api-para-criar-put
 locale: pt
 kiStatus: No Fix
 internalReference: 571040
@@ -18,7 +18,9 @@ internalReference: 571040
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

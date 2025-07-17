@@ -1,5 +1,5 @@
 ---
-title: 'O envio enxuto exibe na UI o shippingEstimate mais alto dos SLAs selecionados'
+title: "O envio enxuto exibe na UI o shippingEstimate mais alto dos SLAs selecionados"
 id: 1EYi8qK6pHwBU9Yqlxa9jm
 status: PUBLISHED
 createdAt: 2024-10-30T16:05:02.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lean-shipping-displays-at-ui-the-higher-shippingestimate-from-the-selected-slas
+slugEN: o-envio-enxuto-exibe-na-ui-o-shippingestimate-mais-alto-dos-slas-selecionados
 locale: pt
 kiStatus: Backlog
 internalReference: 1126188
@@ -18,7 +18,9 @@ internalReference: 1126188
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em carrinhos que têm uma fenda de pacote entre a entrega e a retirada, o Lean Shipping exibe no UI o shippingEstimate mais alto dos SLAs selecionados. Por exemplo: há quatro produtos no carrinho e três deles têm a retirada como SLA selecionado e 4hs de shippingEstimate. O último item será entregue pela loja e tem 3bd de shippingEstimate. Na interface de usuário do checkout, o shippingEstimate será:

@@ -15,9 +15,11 @@ announcementImageID: ''
 announcementSynopsisES: 'Posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos'
 ---
 
->⚠️ A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al perfil con el producto `Order Authorization` no tendrá permiso para visualizar o editar la pantalla Autorización de Pedidos.
+<div class="alert alert-warning">
+A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al perfil con el producto <code>Order Authorization</code> no tendrá permiso para visualizar o editar la pantalla Autorización de Pedidos.
+</div>
 
-Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos, permitiendo que solo algunos usuarios puedan visualizar o editar las informaciones. Para saber más sobre la Autorización de Pedidos, acceda a  nuestro [comunicado sobre el lanzamiento de la feature](https://help.vtex.com/es/announcements/aumente-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) o el [tutorial que explica su funcionamiento](https://help.vtex.com/es/tutorial/como-funciona-la-autorizacion-de-pedidos--3MBK6CmKHAuUjMBieDU0pn).
+Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos, permitiendo que solo algunos usuarios puedan visualizar o editar las informaciones. Para saber más sobre la Autorización de Pedidos, acceda a  nuestro [comunicado sobre el lanzamiento de la feature](/es/announcements/aumente-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) o el [tutorial que explica su funcionamiento](/es/tutorial/como-funciona-la-autorizacion-de-pedidos--3MBK6CmKHAuUjMBieDU0pn).
   
 ## Principales Ventajas 
 
@@ -36,6 +38,6 @@ Para hacer esto es necesario añadir un producto llamado `Order Authorization` a
  6. Elija el tipo de permiso que desea: `Save Configuration`, para permitir al usuario editar y guardar modificaciones, o `View Configuration`, para permitirle la visualización de la página de Autorización de Pedidos.
  7. Haga clic en **Guardar**.
 
-![GIT-OrderAutho.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019-06-06-garantice-mas-seguridad-y-control-en-la-pantalla-de-autorizacion-de-pedidos_1.gif)
+![GIT-OrderAutho.es](https://images.ctfassets.net/alneenqid6w5/405FxMK69Z6aRClIKAqcqb/6879d0b48f435ed7dcc212cd239c62fe/GIT-OrderAutho.es.gif)
 
 Después de añadir este nuevo producto a un perfil, asegúrese de que los usuarios deseados están asociados a este perfil de acceso.

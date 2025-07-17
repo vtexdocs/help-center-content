@@ -1,5 +1,5 @@
 ---
-title: 'Um valor de especificação de produto válido pode ser retornado em branco no administrador do catálogo'
+title: "Um valor de especificação de produto válido pode ser retornado em branco no administrador do catálogo"
 id: 46IZtoT2nSKE71g2Tj0m8y
 status: PUBLISHED
 createdAt: 2024-01-16T00:28:14.900Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: a-valid-product-specification-value-can-be-returned-blank-in-the-catalog-admin
+slugEN: um-valor-de-especificacao-de-produto-valido-pode-ser-retornado-em-branco-no-administrador-do-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 966499
@@ -18,7 +18,9 @@ internalReference: 966499
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que o administrador de especificações do produto sempre apresente os valores corretos para as especificações de um produto. No entanto, isso pode não ser sempre o caso.

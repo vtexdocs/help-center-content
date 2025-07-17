@@ -20,7 +20,9 @@ Este error ocurre cuando la plantilla de flete importada __posee una pestaña fu
 
 Generalmente, la pestaña fuera del estándar no contiene ninguna información importante. Para resolver el problema, __elimine las pestañas fuera del estándar__, verifique si las pestañas dentro del estándar están con las informaciones correctas y realice el upload nuevamente.
 
->⚠️ Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB. De lo contrario, el upload no funcionará.
+<div class="alert alert-warning">
+Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB. De lo contrario, el upload no funcionará.
+</div>
 
 ## Obtener plantilla con formato estándar
 

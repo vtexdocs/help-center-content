@@ -15,11 +15,13 @@ legacySlug: releases-module-beta
 subcategoryId: unknown-subcategory
 ---
 
->ℹ️ The **Releases** module is currently in beta version, which means we are working to improve it. This feature is only available for stores using FastStore.
+<div class = "alert alert-info">
+The <b>Releases</b> module is currently in beta version, which means we are working to improve it. This feature is only available for stores using FastStore.
+</div>
 
 Managing an ecommerce operation requires the retailer to perform several updates and changes in the store, which are often interconnected — for example, carrying out a publicity campaign in which different storefront elements need to be configured.
 
-The **Releases** module allows the retailer to manage connected groups of changes to coordinate the stores changes’ planning, creating, scheduling and publishing. In the beta phase, the changes that can be grouped together must be related to the [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Other modules of the VTEX platform are not yet included.
+The **Releases** module allows the retailer to manage connected groups of changes to coordinate the stores changes’ planning, creating, scheduling and publishing. In the beta phase, the changes that can be grouped together must be related to the [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Other modules of the VTEX platform are not yet included.
 
 The main benefits of the module are:
 
@@ -28,7 +30,9 @@ The main benefits of the module are:
 - Better control when testing and reviewing changes before publishing.
 - Easier scheduling or deleting grouped changes.
 
->ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+<div class = "alert alert-info">
+To use the <b>Releases</b> module, you must configure the CMS. Learn more in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.
+</div>
 
 This article will cover the following topics:
 
@@ -62,11 +66,13 @@ To create a release, follow the step-by-step instructions below:
 6. Click `Create a release`.
 7. In the _Name_ field, write a name for the release.
 
-  >ℹ️ In this stage, the fields **Day to publish** and **Time** are not required. This information can be decided upon later, as described in [Scheduling releases](https://help.vtex.com/en/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#scheduling-releases).
+  <div class = "alert alert-info">
+In this stage, the fields <b>Day to publish</b> and <b>Time</b> are not required. This information can be decided upon later, as described in <a href="https://help.vtex.com/en/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#scheduling-releases">Scheduling releases</a>.
+</div>
 
 8. Click `Create`.
 
-![print_cms_beta_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/releases-module-beta_1.png)
+![print_cms_beta_en](https://images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
 
 ### How to create a release using the Releases module
 
@@ -76,7 +82,9 @@ To create a release, follow the step-by-step instructions below:
 2. Click the `Create` button.
 3. In the _Name_ field, write a name for the release.
 
-  >ℹ️ In this stage, the fields **Day to publish** and <i>Time</i> are not required. This information can be decided upon later, as described in Scheduling releases.
+  <div class = "alert alert-info">
+In this stage, the fields <b>Day to publish</b> and <i>Time</i> are not required. This information can be decided upon later, as described in Scheduling releases.
+</div>
 
 4. Click `Create`.
 
@@ -84,7 +92,7 @@ To create a release, follow the step-by-step instructions below:
 
 All the releases are listed in the VTEX Admin, in **Store Settings > Releases**. The page displays two tabs, `SCHEDULED` and `UNSCHEDULED`, depending on whether the release has been created with a set publish date. 
 
-![print_releases_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/releases-module-beta_2.png)
+![print_releases_en](https://images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
 
 On the `SCHEDULED` tab, each column is described as follows:
 
@@ -119,7 +127,9 @@ When creating a release, you can set the publish date or not, which is why there
 - **Unschedule:** Cancel the publish date, which will put the release in the `Unscheduled` status.
 - **Reschedule:** Set a new date for a release with a date defined.
 
->ℹ️ When you schedule or reschedule a release publication, you can select the option **Add end date** to set a deadline for the release to be unpublished. The end date does not mean deleting the release but archiving it to be republished at any time.
+<div class = "alert alert-info">
+When you schedule or reschedule a release publication, you can select the option <b>Add end date</b> to set a deadline for the release to be unpublished. The end date does not mean deleting the release but archiving it to be republished at any time.
+</div>
 
 ### Scheduling
 
@@ -176,7 +186,9 @@ Another way to publish is to go to the release details page, following the steps
 
 To delete a release, follow the step-by-step instructions below: 
 
->❗ Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
+<div class="alert alert-danger">
+Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
+</div>
 
 1. In the VTEX Admin, access **Store Settings > Releases**.
 2. On the line corresponding to the desired release, click the <i class="fas fa-ellipsis-v"></i> menu icon. 

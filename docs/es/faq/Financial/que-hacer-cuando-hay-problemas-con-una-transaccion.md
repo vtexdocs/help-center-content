@@ -14,7 +14,7 @@ locale: es
 legacySlug: que-hacer-cuando-hay-problemas-con-una-transaccion
 ---
 
-Para poder resolver rápidamente un problema que involucre transacciones, recomendamos que el comerciante esté esteja a par da estructura de *logs* detallada en las transacciones en Admin de VTEX. Vea [aqui](https://help.vtex.com/es/tutorial/como-visualizar-detalle-del-pedido/) cómo visualizar una transacción.
+Para poder resolver rápidamente un problema que involucre transacciones, recomendamos que el comerciante esté esteja a par da estructura de *logs* detallada en las transacciones en Admin de VTEX. Vea [aqui](/es/tutorial/como-visualizar-detalle-del-pedido/) cómo visualizar una transacción.
 
 En el log quedan registradas todas las interacciones entre VTEX y el aliado, sea el Gateway oo el AntiFraude. Empezando desde la parte inferior de la página hasta la parte superior, donde están las interacciones más recientes.
 
@@ -25,10 +25,10 @@ En ocasiones puede ocurrir una falla de comunicación entre VTEX y el aliado. Ha
 Casos como ése generan logs o mantienen el pedido en un looping. Una vez que se identifique un comportamiento errático, el camino más rápido es verificar si el status del pedido está igual en ambas plataformas. Como, por ejemplo, el Gateway haber atualizado el Status como "Settling", pero posteriormente contestar que el Status no está correcto para captura, sin embargo el Status estaría correcto. Vea el ejemplo:
 
 El día 08 de febrero, VTEX recibió una notificación del Gateway en la que hay un cambio de Status.
-![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Financial/que-hacer-cuando-hay-problemas-con-una-transaccion_1.png) 
+![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
 
 El día 03 de abril el gateway retorna error en el Status
-![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Financial/que-hacer-cuando-hay-problemas-con-una-transaccion_2.png)
+![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)
 
 Otro ejemplo sería el Gateway (aliado) retornar que no posee los datos completos de la tarjeta de crédito para proseguir con la compra. Sin embargo, en los detalles de la transacción en la parte superior de la página, es posible confirmar que la información existe – incluso porque el pedido no se habría creado sin esa información. El camino aquí sería el mismo, ponerse en contacto con su Gateway.
 

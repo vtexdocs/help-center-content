@@ -15,13 +15,15 @@ legacySlug: web-application-firewall-waf
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+<div class="alert alert-info">
+  <p>Esta funcionalidade faz parte do produto <a href="https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
+</div>
 
 O Web Application Firewall (WAF) é uma camada de segurança projetada para proteger aplicações web por meio do monitoramento e da filtragem do tráfego da Internet.
 
 O WAF é direcionado especificamente para comunicações que ocorrem pelos protocolos HTTP (Hypertext Transfer Protocol) e HTTPS (HTTP Secure), examinando os dados de entrada e saída para detectar e bloquear possíveis ameaças.
 
-![waf-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/web-application-firewall-waf_1.png)
+![waf-pt](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/9eb9944bfed9b23421e053f2c6102825/waf-pt.png)
 
 A operação do WAF começa com a definição de [regras de segurança](#regras-de-seguranca), que são definidas pelo time de Segurança da VTEX a partir da análise de padrões de circulação de informações. A partir dessas regras, o WAF monitora continuamente o tráfego da web. Quando detecta uma atividade potencialmente prejudicial, ele pode bloquear o tráfego, evitando assim a exploração de vulnerabilidades no aplicativo web.
 
@@ -43,7 +45,7 @@ Lojas que utilizam o VTEX Shield e optarem pelo WAF contam com as regras de segu
 
 ## Solicitar ativação do WAF
 
-Para solicitar a ativação do WAF na sua loja, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt/support). Inclua as informações a seguir no ticket:
+Para solicitar a ativação do WAF na sua loja, entre em contato com o [Suporte VTEX](/pt/support). Inclua as informações a seguir no ticket:
 
 * URLs a serem adicionadas ao WAF.
 * Nome e informações de contato da pessoa que será o ponto de contato com a equipe de Segurança da VTEX durante o processo de ativação.
@@ -53,4 +55,4 @@ Após a solicitação, o prazo para a ativação do WAF nas URLs da loja é de 4
 
 ## Saiba mais
 
-* [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)

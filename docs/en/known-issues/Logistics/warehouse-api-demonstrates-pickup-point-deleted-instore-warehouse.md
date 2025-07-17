@@ -1,5 +1,5 @@
 ---
-title: 'Warehouse API demonstrates pickup point deleted (inStore warehouse)'
+title: "Warehouse API demonstrates pickup point deleted (inStore warehouse)"
 id: obATI7B4MgRb2lNExdXcV
 status: PUBLISHED
 createdAt: 2022-05-10T20:45:27.127Z

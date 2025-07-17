@@ -1,5 +1,5 @@
 ---
-title: 'Los artículos no se muestran en el listado de asociación de artículos en la configuración de los planes de suscripción'
+title: "Los artículos no se muestran en el listado de asociación de artículos en la configuración de los planes de suscripción"
 id: 4PHLtCcoaRZBEwgWKamaae
 status: PUBLISHED
 createdAt: 2022-08-30T14:06:28.266Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: items-not-displayed-in-item-association-listing-in-subscription-plans-configuration
+slugEN: los-articulos-no-se-muestran-en-el-listado-de-asociacion-de-articulos-en-la-configuracion-de-los-planes-de-suscripcion
 locale: es
 kiStatus: Backlog
 internalReference: 648117
@@ -18,7 +18,9 @@ internalReference: 648117
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

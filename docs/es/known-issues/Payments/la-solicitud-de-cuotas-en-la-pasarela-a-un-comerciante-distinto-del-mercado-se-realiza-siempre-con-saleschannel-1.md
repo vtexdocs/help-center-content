@@ -1,5 +1,5 @@
 ---
-title: 'La solicitud de cuotas en la pasarela a un comerciante distinto del mercado se realiza siempre con salesChannel = 1'
+title: "La solicitud de cuotas en la pasarela a un comerciante distinto del mercado se realiza siempre con salesChannel = 1"
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-installments-request-at-the-gateway-to-a-merchant-other-than-the-marketplace-is-always-done-with-saleschannel-1
+slugEN: la-solicitud-de-cuotas-en-la-pasarela-a-un-comerciante-distinto-del-mercado-se-realiza-siempre-con-saleschannel-1
 locale: es
 kiStatus: No Fix
 internalReference: 391197
@@ -18,7 +18,9 @@ internalReference: 391197
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las solicitudes para obtener cuotas externas en la pasarela a un vendedor distinto del mercado se realizan siempre con salesChannel = 1.

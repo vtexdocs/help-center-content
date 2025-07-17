@@ -1,5 +1,5 @@
 ---
-title: 'El Editor de Sitios no carga los bloques cuando se accede a la URL de la ruta de aterrizaje'
+title: "El Editor de Sitios no carga los bloques cuando se accede a la URL de la ruta de aterrizaje"
 id: 2d2GWj84pOy0ZQLbUWi5pY
 status: PUBLISHED
 createdAt: 2023-02-16T21:06:50.850Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-doesnt-load-blocks-when-accessing-the-landing-route-url
+slugEN: el-editor-de-sitios-no-carga-los-bloques-cuando-se-accede-a-la-url-de-la-ruta-de-aterrizaje
 locale: es
 kiStatus: Backlog
 internalReference: 755993
@@ -18,7 +18,9 @@ internalReference: 755993
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si intentas acceder a una página en el editor del sitio usando la página de aterrizaje no carga los bloques, se queda en carga infinita. Por ejemplo `https://.myvtex.com/admin/cms/site-editor/.`

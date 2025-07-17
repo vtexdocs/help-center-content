@@ -1,5 +1,5 @@
 ---
-title: 'Valor incorreto para preçoDefinição na ordem da cadeia para um mercado multinível'
+title: "Valor incorreto para preçoDefinição na ordem da cadeia para um mercado multinível"
 id: 75qEjhgv1tTQNho0MArnJo
 status: PUBLISHED
 createdAt: 2023-11-27T13:50:18.505Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: wrong-value-for-pricedefinition-in-the-chain-order-for-a-multilevel-marketplace
+slugEN: valor-incorreto-para-precodefinicao-na-ordem-da-cadeia-para-um-mercado-multinivel
 locale: pt
 kiStatus: Backlog
 internalReference: 663203
@@ -18,7 +18,9 @@ internalReference: 663203
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A propriedade "priceDefinition" para pedidos no nível "chain" em um marketplace multinível não está seguindo o "sellingPrice" como esperado. Em vez disso, está seguindo a propriedade "price".

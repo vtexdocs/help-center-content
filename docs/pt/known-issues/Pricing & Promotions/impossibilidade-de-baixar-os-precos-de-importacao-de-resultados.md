@@ -1,5 +1,5 @@
 ---
-title: 'Impossibilidade de baixar os preços de importação de resultados'
+title: "Impossibilidade de baixar os preços de importação de resultados"
 id: 6skX0nYfLU9Tuf44yn4nSB
 status: PUBLISHED
 createdAt: 2022-05-16T20:55:19.951Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: unable-to-download-prices-importing-results
+slugEN: impossibilidade-de-baixar-os-precos-de-importacao-de-resultados
 locale: pt
 kiStatus: Backlog
 internalReference: 579906
@@ -18,7 +18,9 @@ internalReference: 579906
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

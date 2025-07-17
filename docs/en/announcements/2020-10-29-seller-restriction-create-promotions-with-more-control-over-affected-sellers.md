@@ -59,4 +59,4 @@ Configuration after the update:
 
 Your store doesn't need to take any action to adapt to this change. This new feature just brings a new configuration option for your promotions.
 
-Learn more about this feature in the article [Regular Promotion Fields](https://help.vtex.com/en/tutorial/promocao-regular--tutorials_327). 
+Learn more about this feature in the article [Regular Promotion Fields](/en/tutorial/promocao-regular--tutorials_327). 

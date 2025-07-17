@@ -1,5 +1,5 @@
 ---
-title: 'CVV without validation of characters type'
+title: "CVV without validation of characters type"
 id: 63MJ3ODCvr3ayfgJiuN1ja
 status: PUBLISHED
 createdAt: 2022-03-27T20:25:43.400Z

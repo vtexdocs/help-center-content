@@ -1,5 +1,5 @@
 ---
-title: 'As permissões do Storefront consideram as organizações inativas'
+title: "As permissões do Storefront consideram as organizações inativas"
 id: 2GANYaXFMQpLGADajl4CbS
 status: PUBLISHED
 createdAt: 2023-10-27T22:08:14.267Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: storefront-permissions-considers-inactive-organizations
+slugEN: as-permissoes-do-storefront-consideram-as-organizacoes-inativas
 locale: pt
 kiStatus: Fixed
 internalReference: 927174
@@ -18,7 +18,9 @@ internalReference: 927174
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um usuário tem mais de uma organização atribuída a ele e a primeira registrada está inativa, ela não é reconhecida como uma organização atribuída após o login.

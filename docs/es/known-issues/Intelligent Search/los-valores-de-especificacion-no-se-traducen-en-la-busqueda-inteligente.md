@@ -1,16 +1,16 @@
 ---
-title: 'Los valores de especificación no se traducen en la búsqueda inteligente'
+title: "Los valores de especificación no se traducen en la búsqueda inteligente"
 id: 3z40dVHozP36jrMvxq3TKe
 status: PUBLISHED
 createdAt: 2024-09-23T20:47:41.373Z
-updatedAt: 2024-09-26T21:39:53.046Z
-publishedAt: 2024-09-26T21:39:53.046Z
+updatedAt: 2025-03-24T20:47:43.894Z
+publishedAt: 2025-03-24T20:47:43.894Z
 firstPublishedAt: 2024-09-23T20:47:42.169Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: specification-values-not-being-translated-in-intelligent-search-side
+slugEN: los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente
 locale: es
 kiStatus: Backlog
 internalReference: 784129
@@ -18,7 +18,9 @@ internalReference: 784129
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

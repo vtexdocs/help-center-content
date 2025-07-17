@@ -1,5 +1,5 @@
 ---
-title: 'O Sitemap não está sendo gerado devido a um tempo limite (tooManyRequests)'
+title: "O Sitemap não está sendo gerado devido a um tempo limite (tooManyRequests)"
 id: 60BSLo3INhsKDkarla38VZ
 status: PUBLISHED
 createdAt: 2024-08-06T20:01:01.080Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sitemap-not-generating-due-a-timeout-toomanyrequests
+slugEN: o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests
 locale: pt
 kiStatus: Backlog
 internalReference: 1077009
@@ -18,7 +18,9 @@ internalReference: 1077009
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao gerar um novo mapa do site para uma loja com um grande número de produtos (isso normalmente acontece com lojas que têm cerca de 100 mil produtos), o aplicativo `vtex.store-sitemap` pode receber um erro de tooManyRequests.

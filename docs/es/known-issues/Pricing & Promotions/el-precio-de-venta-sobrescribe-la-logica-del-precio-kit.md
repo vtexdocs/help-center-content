@@ -1,16 +1,16 @@
 ---
-title: 'El precio de venta sobrescribe la lógica del precio KIT'
+title: "El precio de venta sobrescribe la lógica del precio KIT"
 id: 6eUXEJkxQUl6NCiFWrIiFw
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:02.848Z
-updatedAt: 2023-11-09T13:43:40.623Z
-publishedAt: 2023-11-09T13:43:40.623Z
+updatedAt: 2025-01-02T13:49:24.155Z
+publishedAt: 2025-01-02T13:49:24.155Z
 firstPublishedAt: 2022-06-28T16:56:03.203Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: put-price-overwrites-kit-price-logic
+slugEN: el-precio-de-venta-sobrescribe-la-logica-del-precio-kit
 locale: es
 kiStatus: Backlog
 internalReference: 404486
@@ -18,7 +18,9 @@ internalReference: 404486
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La composición del precio del KIT debe basarse en el cálculo de sus componentes y sus cantidades.
@@ -39,6 +41,8 @@ Sin embargo, actualmente existe una forma de evitar esta lógica si el usuario i
 2. 2. Compruebe que el precio del KIT se establece de acuerdo con la lógica mencionada anteriormente.
 3. Actualice el precio del KIT en el módulo de precios insertando un PUT Price en el sku del kit;
 4. 4. Verifique que aun cuando se actualicen los componentes del precio y sus cantidades, el precio del KIT permanezca como el precio put establecido anteriormente.
+
+*Nota importante: esto también ocurre para los cambios directamente en el módulo de precios admin después de crear el kit. Esencialmente, el precio del kit sólo se corrige creado según la fórmula anterior en el momento de su creación, pero no para las actualizaciones posteriores.
 
 
 

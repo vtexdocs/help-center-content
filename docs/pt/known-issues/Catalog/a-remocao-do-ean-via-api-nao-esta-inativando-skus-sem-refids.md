@@ -1,5 +1,5 @@
 ---
-title: 'A remoção do EAN via API não está inativando SKUs sem RefIDs'
+title: "A remoção do EAN via API não está inativando SKUs sem RefIDs"
 id: 2DIKKs93S41F38c3PrekSO
 status: PUBLISHED
 createdAt: 2022-08-01T11:37:52.731Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: removing-ean-via-api-is-not-inactivating-skus-without-refids
+slugEN: a-remocao-do-ean-via-api-nao-esta-inativando-skus-sem-refids
 locale: pt
 kiStatus: No Fix
 internalReference: 626031
@@ -18,7 +18,9 @@ internalReference: 626031
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

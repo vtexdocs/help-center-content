@@ -23,10 +23,10 @@ En este artículo vamos a mostrar como el sistema funciona para estos casos.
 
 **Escenario 1**: Mi ERP envía el precio ya con IVA a VTEX, entonces no necesito hacer el cálculo.
 
-1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_1.png)
-2. Página de Producto![PRODUCTOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_2.png)
-3. Carrito![CARRITOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_3.png)
-4. Checkout![CHECKOUTSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_4.png)
+1. Página de Categoría![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/5yDcEKh4VGYUuIu0W82A4o/15b1c183819fb83926b1f4dd88d9aace/1_CAT_E.png)
+2. Página de Producto![PRODUCTOSINIVA](https://images.ctfassets.net/alneenqid6w5/68zLscaDssq4WiAqYGkusc/1e0ec4b93ad2c7ff959094c1fef534fe/2_PROD_E.png)
+3. Carrito![CARRITOSINIVA](https://images.ctfassets.net/alneenqid6w5/3khmyZuLjWycCs6eSgUmci/0f466b0981d5f982db6ee79ed9a1f2a0/3_CART_E.png)
+4. Checkout![CHECKOUTSINIVA](https://images.ctfassets.net/alneenqid6w5/6CAjPrEJG0Gm2oGwoekYW4/a5281e57a934b1845357a2af9725e48c/4_CHECK_E.png)
 
 **Escenario 2**: Mi ERP envía el precio *sin* IVA a VTEX.
 
@@ -38,7 +38,7 @@ O entonces para crear un JS y sumar el valor del impuesto en las vitrinas, tambi
 
 __Atención__: En la pagina de producto es necesario poner un JavaScript para hacer la suma del valor.
 
-1. Página de Categoría![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_5.png)
-2. Página de Producto![PRODUCTOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_6.png)
-3. Carrito![CARRITOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_7.png)
-4. Checkout![CHECKOUTCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/como-destacar-el-impuesto-en-vtex_8.png)
+1. Página de Categoría![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/5yDcEKh4VGYUuIu0W82A4o/15b1c183819fb83926b1f4dd88d9aace/1_CAT_E.png)
+2. Página de Producto![PRODUCTOCONIVA](https://images.ctfassets.net/alneenqid6w5/68zLscaDssq4WiAqYGkusc/1e0ec4b93ad2c7ff959094c1fef534fe/2_PROD_E.png)
+3. Carrito![CARRITOCONIVA](https://images.ctfassets.net/alneenqid6w5/2Vqy71JAUMEKKMi6agQA6G/182ba9783f0a47e07e0ce9c91c7dec50/3A_CART_E.png)
+4. Checkout![CHECKOUTCONIVA](https://images.ctfassets.net/alneenqid6w5/6rsFbUYg4Ee0sKIyai6Ooy/199adee53185253d4248d8a279fbbbf9/4A_CHECK_E.png)

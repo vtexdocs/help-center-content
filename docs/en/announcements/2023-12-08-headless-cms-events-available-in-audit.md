@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'We added Headless CMS events to Audit logs.'
 ---
 
-[Audit](https://help.vtex.com/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), a VTEX Admin module that records events in your store for future auditing, now processes [Headless CMS](https://help.vtex.com/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt) events. Headless CMS is the VTEX solution that allows managing web content with the autonomy to create, edit, and publish content via the VTEX Admin.
+[Audit](/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), a VTEX Admin module that records events in your store for future auditing, now processes [Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt) events. Headless CMS is the VTEX solution that allows managing web content with the autonomy to create, edit, and publish content via the VTEX Admin.
 
 ## What has changed?
 
@@ -38,7 +38,9 @@ In the **Action** column, all Headless CMS events also display the following inf
 * **VARIANT_ID:** unique identifier of the content version.
 * **WORKSPACE**: workspace where the action occurred.
 
->ℹ️ Check the complete [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+<div class="alert alert-info">
+  <p>Check the complete <a href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">list of events available in Audit</a>.</p>
+</div>
 
 ## What needs to be done?
 No action is required. The change in Audit is already active for all accounts, recording the [list of events](#what-has-changed) mentioned above.

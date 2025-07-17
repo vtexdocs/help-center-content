@@ -1,5 +1,5 @@
 ---
-title: 'El artículo añadido a la orden de modificación se encuentra en otro paquete después de facturarse'
+title: "El artículo añadido a la orden de modificación se encuentra en otro paquete después de facturarse"
 id: 4a3VAtnfhYeg2N1EekVyO2
 status: PUBLISHED
 createdAt: 2022-08-19T19:25:08.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: item-added-to-change-order-is-in-another-package-after-invoiced
+slugEN: el-articulo-anadido-a-la-orden-de-modificacion-se-encuentra-en-otro-paquete-despues-de-facturarse
 locale: es
 kiStatus: Backlog
 internalReference: 412526
@@ -18,7 +18,9 @@ internalReference: 412526
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los elementos eliminados o añadidos por el flujo de órdenes de cambio no forman parte del paquete, por lo que no aparecerán en el correo electrónico de la factura, y en caso de que todos los elementos de una orden se eliminen y se añadan más tarde, el correo electrónico de la factura no se envía, porque los elementos añadidos no se añaden al paquete original de la orden;

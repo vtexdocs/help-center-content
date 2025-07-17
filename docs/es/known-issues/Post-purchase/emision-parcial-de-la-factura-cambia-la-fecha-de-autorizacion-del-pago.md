@@ -1,5 +1,5 @@
 ---
-title: 'Emisión parcial de la factura cambia la fecha de autorización del pago'
+title: "Emisión parcial de la factura cambia la fecha de autorización del pago"
 id: 3kjzXJNFj2miIeIMAW6uW2
 status: PUBLISHED
 createdAt: 2017-04-06T17:10:46.252Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 tag: Order Management
-slugEN: partial-issue-of-invoice-changes-date-of-payment-authorization
+slugEN: emision-parcial-de-la-factura-cambia-la-fecha-de-autorizacion-del-pago
 locale: es
 kiStatus: Backlog
 internalReference: 

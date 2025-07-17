@@ -26,13 +26,15 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 - [Subscriptions](#subscriptions)
 - [Authentication](#authentication)
 
->ℹ️ To learn about **My Account** customization, see our developer documentation [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Be aware that VTEX does not offer support for **My Account** when customized.
+<div class = "alert alert-info">
+To learn about <b>My Account</b> customization, see our developer documentation <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Be aware that VTEX does not offer support for <b>My Account</b> when customized.
+</div>
 
 ## Profile
 
 In this section, customers can manage their personal data saved in the store. They can [edit their profile information](#edit),[ set a new password](#password), and [choose whether to receive emails with promotions](#newsletter).
 
-![profile EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_1.png)
+![profile EN](https://images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/a9f2ca072b2a08cb6cb1bc196b9c9f1e/profile_EN.png)
 
 ### Edit
 
@@ -75,11 +77,13 @@ The `Add address` button allows customers to include new addresses besides the o
 
 ## Orders
 
->ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+<div class = "alert alert-info">
+In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
+</div>
 
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 
-![orders EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_2.png)
+![orders EN](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/29e797af3e99000a06d906bf5e3ae0d1/orders_EN.png)
 
 The **Orders** section allows customers to track the progress of their orders and offers options such as cancel or change orders. See below all available options.
 
@@ -94,24 +98,24 @@ In **Order again**, the selected shopping cart will be duplicated. This means th
 
 ### Request Cancellation
 
-Customer may request cancellation of his or her order at any time. If requested during the[grace period for cancellation](https://help.vtex.com/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
-Learn more about [setting the grace period for order cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo) 
+Customer may request cancellation of his or her order at any time. If requested during the[grace period for cancellation](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
+Learn more about [setting the grace period for order cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo) 
 
 ### View order details
 
-By clicking on an order in the list, the customer will be able to view the details of that order, such as delivery address, payment method, and total amount. In addition, they can view tracking information and a timeline indicating the [order flow](https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196).
+By clicking on an order in the list, the customer will be able to view the details of that order, such as delivery address, payment method, and total amount. In addition, they can view tracking information and a timeline indicating the [order flow](/en/tutorial/fluxo-de-pedido--tutorials_196).
 
 Customers can also use the option [Order again](#order-again) in this page. By clicking on [More options](#more-options), the [Change order](#change-order) and [Request cancellation](#request-cancellation) features will be displayed (if enabled in your store and the order is in the `Handling shipping` status).
 
-![order details EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_3.png)
+![order details EN](https://images.ctfassets.net/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/ee071c1cc75a884c9daecb85072d3453/order_details_EN.png)
 
 #### Change order
 
 If the order is in the `Handling shipping` status, they can `Change order` by clicking on `More options` on the order details page.
 
-To provide this option, the retailer must [allow customers to change orders](https://help.vtex.com/en/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
+To provide this option, the retailer must [allow customers to change orders](/en/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
 
-The `More options` button allows customers to change their order information, such as address, payment method and items, without the need to place a new order or contact the store's customer service team. Read the article [How Order replacement works](https://help.vtex.com/en/tutorial/como-funciona-a-substituicao-de-pedidos) to learn more.
+The `More options` button allows customers to change their order information, such as address, payment method and items, without the need to place a new order or contact the store's customer service team. Read the article [How Order replacement works](/en/tutorial/como-funciona-a-substituicao-de-pedidos) to learn more.
 
 ## Credit cards
 
@@ -130,29 +134,29 @@ To add new cards, follow the steps below:
 6. Solve the reCaptcha challenge.
 7. The card validation process will happen automatically. If there is no problem, you will be redirected to the card list and the new card will appear on the list.
 
-![Card ReCaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_4.gif)
+![Card ReCaptcha](https://images.ctfassets.net/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/ab1e37db8b01f154e80f8d2f4f562d7d/Card_ReCaptcha_EN.gif)
 
-However, there are limitations for stores using [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication (V1 or V2) in their acquirers:
+However, there are limitations for stores using [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication (V1 or V2) in their acquirers:
 
-* If the customer tries to add a new card that has not been previously used in your store, the following message will be displayed: _There was an error while trying to save the card._ For more details, visit our documentation [The "Save new card" option does not work when using 3-D Secure (3DS)](https://help.vtex.com/en/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
+* If the customer tries to add a new card that has not been previously used in your store, the following message will be displayed: _There was an error while trying to save the card._ For more details, visit our documentation [The "Save new card" option does not work when using 3-D Secure (3DS)](/en/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
 * In **Subscriptions**, it is not possible to save the card and then enable the subscription option. For this reason, it is necessary to enable the subscription when making a purchase, so the card will be saved automatically.
 
 * If the credit card saved in the **Credit cards** section expires, the user will need to remove it and make a new purchase to save a new card. This is because 3DS authentication requires a transaction to update and confirm credit card details.
 
-* For marketplaces, the `Save card` option in the **Credit cards** section will not be available if the payment condition for that credit card is associated only with the [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). This is because the credit card validation occurs directly on the main account, through a test transaction that charges an amount of 1.50 USD on the given card. This amount is refunded after the card is verified.
+* For marketplaces, the `Save card` option in the **Credit cards** section will not be available if the payment condition for that credit card is associated only with the [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). This is because the credit card validation occurs directly on the main account, through a test transaction that charges an amount of 1.50 USD on the given card. This amount is refunded after the card is verified.
 
-    So, to save a credit card, the credit card [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) also needs to be associated with the main account, in this case, the Marketplace.
+    So, to save a credit card, the credit card [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) also needs to be associated with the main account, in this case, the Marketplace.
 
 ## Subscriptions
 
-In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#how-your-customers-view-and-manage-their-subscriptions) to learn more.
+In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#how-your-customers-view-and-manage-their-subscriptions) to learn more.
 
 ## Authentication
 
 This section can be accessed on the left side menu by clicking on **Authentication** in the user profile settings. It offers options for password and session management.
 
-![My Authentication app EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_5.png)
+![My Authentication app EN](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/945cc2ade2766758e484814c3e380708/My_Authentication_app_EN.png)
 
 ### Password management
 
@@ -162,7 +166,7 @@ The **Password** component allows users to create their passwords, if they do no
 2. In the **Code** field, enter the verification code received by email.
 3. In the **New password** field, enter a new password. Below those fields, you will see the requirements for setting a valid password. As the user types the password meeting those requirements, their symbols will change from red to green. The password will be valid only if all symbols are green.
 4. Once you have entered a valid password, click on the `SAVE PASSWORD` button.  
-![My Authentication create password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_6.png)
+![My Authentication create password EN](https://images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/fb226bc32cfc48422cec830332d10762/My_Authentication_create_password_EN.png)
 
 To change an existing password, follow the instructions below:
 
@@ -170,9 +174,11 @@ To change an existing password, follow the instructions below:
 2. Enter the current password in the corresponding field.
 3. Enter the new password in the corresponding field, following all the requirements.
 4. Click on `SAVE PASSWORD`.
-![My Authentication change password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_7.png)
+![My Authentication change password EN](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/4a055c06066c293502ffb9652d220c93/My_Authentication_change_password_EN.png)
 
->ℹ️ If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on **I forgot my password**.
+<div class="alert alert-info">
+If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on <strong>I forgot my password</strong>.
+</div>
 
 ### Session management
 
@@ -182,7 +188,7 @@ To view active sessions, click on the `VIEW SESSIONS` button, and you will be re
 
 To revoke access from other sessions, click on the `LOG OUT` button of that session.
 
-![My Authentication Session Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_8.png)
+![My Authentication Session Management EN](https://images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/ebcd1548b887d23b0fd661a0e05a0a73/My_Authentication_Session_Management_EN_blur.png)
 
 ## Basic settings 
 
@@ -193,7 +199,7 @@ In **My Orders**, you determine which sections will be visible to the customer i
 * In **ORDERS**, the <a class="far fa-check-square"></a> _Visible_ option determines whether the customer has the [Orders](#orders) section to track their orders. 
 * In **ADDRESSES**, the <a class="far fa-check-square"></a> _Visible_ option defines whether the customer will have the [Addresses](#addresses) section with their address’ details.
 
-![vtex-my-account_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_9.png)
+![vtex-my-account_EN](https://images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/9605097215fa1591bfc7e49de4b48735/vtex-my-account_EN.png)
 
 By default, the **CARDS** and **ORDERS** options are configured as visible. To change these settings or enable others, follow the steps below: 
 

@@ -1,5 +1,5 @@
 ---
-title: 'La promoción de envío gratuito se está aplicando en pedidos divididos fuera de la restricción de la promoción'
+title: "La promoción de envío gratuito se está aplicando en pedidos divididos fuera de la restricción de la promoción"
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction
+slugEN: la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion
 locale: es
 kiStatus: No Fix
 internalReference: 732302
@@ -18,7 +18,9 @@ internalReference: 732302
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

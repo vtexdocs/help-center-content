@@ -27,9 +27,9 @@ A partir do dia 27/10/2020, recusar um SKU recebido significa bloquear seu envio
 
 Vale notar que essa ação pode ser desfeita. É possível aprovar um SKU bloqueado por API REST, se o marketplace deseja voltar a recebê-lo como sugestão do seller. Para saber mais sobre a aprovação de SKUs, acesse nossa documentação da API no Developer Portal.
 
-Não é preciso realizar nenhuma configuração para ativar essa funcionalidade, ela será instalada de forma automática na plataforma VTEX. Para saber mais sobre o bloqueio de SKUs, no painel do módulo SKUs recebidos, confira nosso artigo sobre [Catalogação manual de SKUs](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
+Não é preciso realizar nenhuma configuração para ativar essa funcionalidade, ela será instalada de forma automática na plataforma VTEX. Para saber mais sobre o bloqueio de SKUs, no painel do módulo SKUs recebidos, confira nosso artigo sobre [Catalogação manual de SKUs](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
 
-![PT SKUs Recebidos Announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020-10-26-marketplace-melhorias-no-modulo-skus-recebidos_1.jpg)
+![PT SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/b6d7724cfd093568a02012b5fdd14afe/PT_SKUs_Recebidos_Announcement.jpg)
 
 ## Configurações de aprovação automática de SKUs
 

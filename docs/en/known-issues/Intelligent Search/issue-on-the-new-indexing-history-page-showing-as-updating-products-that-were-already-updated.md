@@ -1,5 +1,5 @@
 ---
-title: 'Issue on the new indexing history page showing as updating products that were already updated'
+title: "Issue on the new indexing history page showing as updating products that were already updated"
 id: 2Utn4RueMZjGxYGIh7dNBp
 status: PUBLISHED
 createdAt: 2022-10-19T00:34:17.082Z

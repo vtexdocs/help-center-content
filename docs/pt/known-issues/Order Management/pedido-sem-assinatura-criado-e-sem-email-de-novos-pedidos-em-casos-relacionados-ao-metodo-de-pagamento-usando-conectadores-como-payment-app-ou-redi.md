@@ -1,5 +1,5 @@
 ---
-title: 'Pedido sem assinatura Criado e sem e-mail de Novos Pedidos em Casos relacionados ao método de pagamento usando conectadores como Payment App ou Redirect.'
+title: "Pedido sem assinatura Criado e sem e-mail de Novos Pedidos em Casos relacionados ao método de pagamento usando conectadores como Payment App ou Redirect."
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-with-no-subscription-created-and-no-email-of-new-orders-on-cases-related-to-payment-method-using-conectors-like-payment-app-or-redirect
+slugEN: pedido-sem-assinatura-criado-e-sem-email-de-novos-pedidos-em-casos-relacionados-ao-metodo-de-pagamento-usando-conectadores-como-payment-app-ou-redirect
 locale: pt
 kiStatus: No Fix
 internalReference: 529143
@@ -18,7 +18,9 @@ internalReference: 529143
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para pedidos com método de pagamento usando conectores como aplicativo de pagamento ou redirecionamento, não há GatewayCallback para Checkout, que é responsável por criar a assinatura e enviar um e-mail de novo pedido.

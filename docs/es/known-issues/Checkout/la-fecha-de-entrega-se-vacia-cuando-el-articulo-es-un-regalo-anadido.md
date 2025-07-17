@@ -1,5 +1,5 @@
 ---
-title: 'La fecha de entrega se vacía cuando el artículo es un regalo añadido'
+title: "La fecha de entrega se vacía cuando el artículo es un regalo añadido"
 id: 5HMepNuoEHY0xJPm4PKPb4
 status: PUBLISHED
 createdAt: 2022-05-25T21:39:17.092Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-schedule-date-getting-empty-when-item-is-a-gift-added
+slugEN: la-fecha-de-entrega-se-vacia-cuando-el-articulo-es-un-regalo-anadido
 locale: es
 kiStatus: Backlog
 internalReference: 586143
@@ -18,7 +18,9 @@ internalReference: 586143
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

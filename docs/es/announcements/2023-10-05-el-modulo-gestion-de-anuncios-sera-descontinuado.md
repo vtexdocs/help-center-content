@@ -22,11 +22,13 @@ Los anuncios enviados a los marketplaces no se verán afectados y todavía puede
 ## ¿Qué cambió?  
 
 Removimos del módulo Gestión de anuncios la posibilidad de hacer un seguimiento del status y la sincronización de los anuncios enviados a un marketplace.  
-Las funcionalidades de [Moderación](https://help.vtex.com/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Calidad](https://help.vtex.com/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) y [Oportunidades activas](https://help.vtex.com/es/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) estarán disponibles hasta el 15 de diciembre de 2023, únicamente para anuncios vinculados a la integración [Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), accediendo a **Marketplace > Mercado Libre > Gestión de anuncios.**
+Las funcionalidades de [Moderación](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Calidad](/es/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) y [Oportunidades activas](/es/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) estarán disponibles hasta el 15 de diciembre de 2023, únicamente para anuncios vinculados a la integración [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), accediendo a **Marketplace > Mercado Libre > Gestión de anuncios.**
 
 ## ¿Qué se necesita hacer?
 
 Esta actualización es automática y no se requiere ninguna acción por tu parte. El módulo dejará de estar disponible para todos los Admin VTEX a partir de la fecha anteriormente indicada.
 
->ℹ️ Pronto pondremos a disposición un reemplazo del módulo Gestión de anuncios; accede a las novedades en la página [Release notes, dentro del Developer portal](https://developers.vtex.com/updates/release-notes) y [en la pestaña Noticias de nuestro Help Center](https://help.vtex.com/es/announcements).
+<div class="alert alert-info">
+Pronto pondremos a disposición un reemplazo del módulo Gestión de anuncios; accede a las novedades en la página <a href="https://developers.vtex.com/updates/release-notes">Release notes, dentro del Developer portal</a> y <a href="https://help.vtex.com/es/announcements">en la pestaña Noticias de nuestro Help Center</a>.
+</div>
 

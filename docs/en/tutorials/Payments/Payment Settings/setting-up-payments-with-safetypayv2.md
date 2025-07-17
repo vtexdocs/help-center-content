@@ -26,8 +26,8 @@ To configure SafetyPayV2, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the SafetyPayV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. Click `Save`.
 
-To configure the payment methods to be processed by SafetyPayV2, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by SafetyPayV2, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, SafetyPayV2 may take up to 10 minutes to appear at your store's checkout as a payment option.

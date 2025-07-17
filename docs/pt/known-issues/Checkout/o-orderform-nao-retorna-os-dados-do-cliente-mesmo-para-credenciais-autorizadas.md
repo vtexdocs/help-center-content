@@ -1,5 +1,5 @@
 ---
-title: 'O OrderForm não retorna os dados do cliente mesmo para credenciais autorizadas'
+title: "O OrderForm não retorna os dados do cliente mesmo para credenciais autorizadas"
 id: JcjDusU8YP0kerWXC6LXK
 status: PUBLISHED
 createdAt: 2022-05-19T16:25:28.039Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-not-returning-customers-data-even-for-authorized-credentials
+slugEN: o-orderform-nao-retorna-os-dados-do-cliente-mesmo-para-credenciais-autorizadas
 locale: pt
 kiStatus: Fixed
 internalReference: 582070
@@ -18,7 +18,9 @@ internalReference: 582070
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Interagir com um orderForm na situação específica em que os dados do cliente foram importados automaticamente após o login removerá seus dados do orderForm, mesmo para "superusuários", identificados por suas appKeys.

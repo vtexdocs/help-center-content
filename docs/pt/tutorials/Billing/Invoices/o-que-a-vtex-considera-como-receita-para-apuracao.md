@@ -1,10 +1,10 @@
 ---
 title: 'O que a VTEX considera como receita no cálculo da fatura ?'
 id: 58j4cfoXfisWyemASACwSq
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.341Z
-updatedAt: 2020-11-27T19:36:02.275Z
-publishedAt: 2020-05-15T18:50:16.189Z
+updatedAt: 2025-02-12T11:25:36.700Z
+publishedAt: 2025-02-12T11:25:36.700Z
 firstPublishedAt: 2019-01-24T22:05:40.851Z
 contentType: tutorial
 productTeam: Billing
@@ -27,11 +27,11 @@ Todos os pedidos que passaram por esse status são considerados na fatura, indep
 Mesmo que se trate de testes, cancelamentos posteriores ou pelo Antifraude, entendemos que toda a plataforma foi utilizada. Já que esse é o estágio em que o cliente conclui todo o processo de compra, consumindo os recursos de Busca, Infra e Hosting, por exemplo.
 
 
-Para descobrir como acessar os pedidos que foram considerados na apuração da receita, leia esse artigo [aqui](https://help.vtex.com/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322).
+Para descobrir como acessar os pedidos que foram considerados na apuração da receita, leia esse artigo [aqui](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322).
 
 Buscando facilitar sua visualização, todos os pedidos financeiramente aprovados terão essa marcação, que poderá ser vista no módulo gerenciamento de pedidos. 
 
-![image (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/o-que-a-vtex-considera-como-receita-para-apuracao_1.png)
+![image (3)](https://images.ctfassets.net/alneenqid6w5/2hl6jNViPdxOaOqF9ZCrt7/ac5af18b2a91c8d3da149eff421991ea/image__3_.png)
 
 Para acessar o módulo, siga os procedimentos abaixo:
 

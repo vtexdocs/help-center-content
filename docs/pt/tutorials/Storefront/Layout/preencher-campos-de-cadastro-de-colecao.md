@@ -15,7 +15,9 @@ legacySlug: preencher-campos-de-cadastro-de-colecao
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+<div class = "alert alert-warning">
+  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+</div>
 
 Para entender melhor o significado dos campos de cadastro de uma coleção de produtos, veja abaixo a descrição completa de cada um deles:
 
@@ -23,7 +25,7 @@ Para entender melhor o significado dos campos de cadastro de uma coleção de pr
 
 - __Name__: nome para a identificação da coleção de produtos. Esse campo é obrigatório e deve conter apenas letras, números e hífen. O hífen não deve ser usado no ínicio ou no final do nome desejado.  
 
-- __Highlight?__: essa opção deve ser marcada para que a coleção seja destacada na sua loja, através do controle `$product.HightLight`. Para entender melhor sobre o uso desse controle, acesse nosso artigo [Controles do template de prateleira](https://help.vtex.com/pt/tutorial/controles-do-template-de-prateleira--tutorials_550).
+- __Highlight?__: essa opção deve ser marcada para que a coleção seja destacada na sua loja, através do controle `$product.HightLight`. Para entender melhor sobre o uso desse controle, acesse nosso artigo [Controles do template de prateleira](/pt/tutorial/controles-do-template-de-prateleira--tutorials_550).
 
 - __Searchable?__: essa opção deve ser marcada para que a coleção possa ser retornada na [API de Busca da VTEX](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 

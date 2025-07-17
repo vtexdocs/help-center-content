@@ -3,8 +3,8 @@ title: 'Configurar lista vale'
 id: tutorials_284
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:02.631Z
-updatedAt: 2019-12-31T15:22:25.169Z
-publishedAt: 2019-12-31T15:22:25.169Z
+updatedAt: 2025-05-15T18:03:04.045Z
+publishedAt: 2025-05-15T18:03:04.045Z
 firstPublishedAt: 2017-04-27T23:03:13.396Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: es
 legacySlug: configurando-lista-vale
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>La funcionalidad <a href="https://help.vtex.com/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go">Lista</a> es exclusiva para las tiendas que utilizan CMS Portal Legado.</p>
+</div>
 
 En este artículo se abordarán las particularidades de la creación de un tipo de Lista Vale, que es un tipo especial de Lista. [Vea nuestra documentación completa de Tipo de Lista haciendo clic aquí.](/es/tutorial/criando-tipo-de-lista/)
 
@@ -26,13 +30,13 @@ Es necesaria una configuración de SKU con las siguientes características para 
 - El SKU debe tener el precio de R$0,01.
 - El SKU debe ser configurado para generar crédito en vale.
 
-![sku-opção-credito-vale es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List%20types/configurando-lista-vale_1.png)
+![sku-opção-credito-vale es](https://images.ctfassets.net/alneenqid6w5/5jtCFBYaME4muoOKg8eWQE/9f8da92008fd49aa99fc123b8141a0fc/sku-op____o-credito-vale_es.png)
 
 ## Configuraciones en el Tipos de Lista
 
 La creación de este tipo de lista pide, en las configuraciones, que la entrega se marque como "Valor de los productos comprados será convertido en un vale de compras". Vea la imagen de ejemplo:
 
-![entrega-tipos-lista ew](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/List%20types/configurando-lista-vale_2.png)
+![entrega-tipos-lista ew](https://images.ctfassets.net/alneenqid6w5/5vtZiXaAPS0iWow2EgA4OE/6cf83c7a2402bdf95233cfe0729f54e7/entrega-tipos-lista_ew.png)
 
 Grabe su lista después de realizar las demás configuraciones deseadas.
 

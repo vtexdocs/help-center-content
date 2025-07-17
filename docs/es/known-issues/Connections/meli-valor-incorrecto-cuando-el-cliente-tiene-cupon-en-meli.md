@@ -1,5 +1,5 @@
 ---
-title: 'MELI valor incorrecto cuando el cliente tiene Cupón en MELI'
+title: "MELI valor incorrecto cuando el cliente tiene Cupón en MELI"
 id: 3PvNKqG2BMZDBLLVuriIHy
 status: PUBLISHED
 createdAt: 2024-01-22T11:58:00.747Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-incorrect-value-when-client-has-coupon-on-meli
+slugEN: meli-valor-incorrecto-cuando-el-cliente-tiene-cupon-en-meli
 locale: es
 kiStatus: Fixed
 internalReference: 969297
@@ -18,7 +18,9 @@ internalReference: 969297
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

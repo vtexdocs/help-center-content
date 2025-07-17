@@ -63,24 +63,24 @@ Nesta aba é possível realizar as seguintes configurações:
 
 A aba Cores permite personalizar as cores do checkout de sua loja, permitindo alterar cores de fundo, botões, texto entre outros. Essa padronização garante uma harmonia visual consistente.
 
-![Cores ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-customizar-a-interface-personalizada-do-checkout-no-admin_1.png)
+![Cores ](https://images.ctfassets.net/alneenqid6w5/4H44wWoSRkxqorAvMIIdtG/73b92d83429b6e2a0d61e2e7c1b4d20e/Cores_-_PT.png)
 
 ## Javascript
 
 A aba JavaScript  adiciona uma camada adicional de personalização à interface permitindo a inclusão de scripts.
 
-![Java - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-customizar-a-interface-personalizada-do-checkout-no-admin_2.png)
+![Java - PT](https://images.ctfassets.net/alneenqid6w5/2Uz2vqftUh4RvMsMwuO6OR/f71cb1f35775b2a770c12de7be5b9068/Java_-_PT.png)
 
 ## CSS
 
 A aba CSS permite customizações visuais da loja com a inclusão de código CSS.
 
-![CSS - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-customizar-a-interface-personalizada-do-checkout-no-admin_3.png)
+![CSS - PT](https://images.ctfassets.net/alneenqid6w5/70CMxJWujBZ9qK4bCseGeH/ba9c09575f3ba303ad987f9001afb547/CSS_-_PT.png)
 
 ## Histórico
 
 Permite visualizar e restaurar customizações criadas e publicadas anteriormente.
 
-![Histórico - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-customizar-a-interface-personalizada-do-checkout-no-admin_4.png)
+![Histórico - PT](https://images.ctfassets.net/alneenqid6w5/6C0VthFtBjKP4S3aSS2BaX/66f5b12a5417725a619895df98c4fa96/Hist_rico_-_PT.png)
 
 Para garantir que suas configurações sejam aplicadas com sucesso, basta realizar as configurações necessárias e clicar no botão `Publicar`.

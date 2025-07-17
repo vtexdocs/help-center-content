@@ -1,5 +1,5 @@
 ---
-title: 'Camada de cache de 5 minutos ao criar ou excluir regras de merchandising'
+title: "Camada de cache de 5 minutos ao criar ou excluir regras de merchandising"
 id: 2wNExsAu1fbeQujCKr6c93
 status: PUBLISHED
 createdAt: 2023-06-09T15:29:16.354Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: cache-layer-of-5-minutes-when-creating-or-deleting-merchandising-rules
+slugEN: camada-de-cache-de-5-minutos-ao-criar-ou-excluir-regras-de-merchandising
 locale: pt
 kiStatus: Backlog
 internalReference: 841197
@@ -18,7 +18,9 @@ internalReference: 841197
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar regras de merchandising visual ou excluir qualquer regra de merchandising, há um cache de 5 minutos para ficar disponível visualmente no admin.

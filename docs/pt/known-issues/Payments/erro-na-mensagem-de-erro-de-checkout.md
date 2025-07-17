@@ -1,5 +1,5 @@
 ---
-title: 'Erro na mensagem de erro de checkout'
+title: "Erro na mensagem de erro de checkout"
 id: 7jCEQoDRPvNwYCJmAt78im
 status: PUBLISHED
 createdAt: 2022-03-25T14:46:49.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-in-checkout-error-message
+slugEN: erro-na-mensagem-de-erro-de-checkout
 locale: pt
 kiStatus: No Fix
 internalReference: 409895
@@ -18,7 +18,9 @@ internalReference: 409895
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando ocorre um erro na afiliação MercadoPagov2 Fluxo de pagamento na página de checkout, os detalhes da mensagem são exibidos sem formatação para acentos e caracteres especiais.

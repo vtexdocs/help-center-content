@@ -1,5 +1,5 @@
 ---
-title: 'Problema de arrastrar y soltar en el Editor de Sitios'
+title: "Problema de arrastrar y soltar en el Editor de Sitios"
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: drag-and-drop-issue-on-site-editor
+slugEN: problema-de-arrastrar-y-soltar-en-el-editor-de-sitios
 locale: es
 kiStatus: Fixed
 internalReference: 685103
@@ -18,7 +18,9 @@ internalReference: 685103
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes no pueden utilizar la función de arrastrar y soltar en el editor del sitio para subir imágenes, esto probablemente ocurre duo nuestra nueva implementación de nuestro nuevo CMS Media Management.
@@ -32,7 +34,7 @@ Los clientes no pueden utilizar la función de arrastrar y soltar en el editor d
 
 Ir a cualquier cuenta y tratar de subir una imagen de banner a través de arrastrar y soltar
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/problema-de-arrastrar-y-soltar-en-el-editor-de-sitios_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 

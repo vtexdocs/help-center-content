@@ -1,5 +1,5 @@
 ---
-title: 'El cambio de stock se completa incluso después de recibir el error 500'
+title: "El cambio de stock se completa incluso después de recibir el error 500"
 id: 3dlP8iOBiL2tfPRvjm2kUZ
 status: PUBLISHED
 createdAt: 2022-06-20T12:40:08.834Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: stock-change-is-completed-even-after-receiving-error-500
+slugEN: el-cambio-de-stock-se-completa-incluso-despues-de-recibir-el-error-500
 locale: es
 kiStatus: No Fix
 internalReference: 388176
@@ -18,7 +18,9 @@ internalReference: 388176
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El cliente está tratando de actualizar la cantidad de sku en el inventario y la solicitud recibió el error 500. A pesar del error, la cantidad en el inventario se cambia.

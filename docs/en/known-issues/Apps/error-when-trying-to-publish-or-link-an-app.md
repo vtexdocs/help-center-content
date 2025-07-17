@@ -1,5 +1,5 @@
 ---
-title: 'Error when trying to publish or link an app'
+title: "Error when trying to publish or link an app"
 id: 2WPukfSHWzzIUjIzMJaAEK
 status: PUBLISHED
 createdAt: 2024-06-27T15:39:00.583Z

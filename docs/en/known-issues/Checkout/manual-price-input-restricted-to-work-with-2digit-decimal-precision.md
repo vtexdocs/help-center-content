@@ -1,5 +1,5 @@
 ---
-title: 'Manual price input restricted to work with 2-digit decimal precision'
+title: "Manual price input restricted to work with 2-digit decimal precision"
 id: 4HRKJU61TYSAMrElOWrbEh
 status: PUBLISHED
 createdAt: 2022-08-11T18:42:11.083Z

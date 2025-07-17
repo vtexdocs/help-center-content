@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário mostra pontos de coleta duplicados quando um item para entrega está entre itens para coleta'
+title: "A interface do usuário mostra pontos de coleta duplicados quando um item para entrega está entre itens para coleta"
 id: lIP6kRDsi23lNQd7RzNfY
 status: PUBLISHED
 createdAt: 2023-09-25T13:50:27.481Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-shows-duplicated-pickup-points-when-an-item-for-delivery-is-between-items-for-pickup
+slugEN: a-interface-do-usuario-mostra-pontos-de-coleta-duplicados-quando-um-item-para-entrega-esta-entre-itens-para-coleta
 locale: pt
 kiStatus: Backlog
 internalReference: 906549
@@ -18,7 +18,9 @@ internalReference: 906549
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um carrinho com pelo menos três produtos, onde os pedidos de itens são: O primeiro é para retirada, o segundo é para entrega e o terceiro é para retirada, a interface do usuário mostrará o ponto de retirada duplicado. Isso acontece porque a API agrupará o 1º item e o 3º item, já que se trata do mesmo SLA.

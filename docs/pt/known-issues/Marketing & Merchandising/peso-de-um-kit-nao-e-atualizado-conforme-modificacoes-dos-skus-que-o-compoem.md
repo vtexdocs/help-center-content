@@ -1,5 +1,5 @@
 ---
-title: 'Peso de um kit não é atualizado conforme modificações dos SKUs que o compõem'
+title: "Peso de um kit não é atualizado conforme modificações dos SKUs que o compõem"
 id: 5NmyLQCFnS6D1oymRW3jbq
 status: PUBLISHED
 createdAt: 2019-07-30T14:13:15.920Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: bundle-weight-is-not-updated-according-to-the-modifications-of-the-sku-that-comprise-it
+slugEN: peso-de-um-kit-nao-e-atualizado-conforme-modificacoes-dos-skus-que-o-compoem
 locale: pt
 kiStatus: Backlog
 internalReference: 

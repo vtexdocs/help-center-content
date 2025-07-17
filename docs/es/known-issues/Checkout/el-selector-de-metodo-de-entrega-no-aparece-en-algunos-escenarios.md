@@ -1,5 +1,5 @@
 ---
-title: 'El selector de método de entrega no aparece en algunos escenarios'
+title: "El selector de método de entrega no aparece en algunos escenarios"
 id: 3TmHGPquZnxXZnnnNrofSi
 status: PUBLISHED
 createdAt: 2022-07-22T14:03:10.696Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-method-selector-does-not-appear-in-some-scenarios
+slugEN: el-selector-de-metodo-de-entrega-no-aparece-en-algunos-escenarios
 locale: es
 kiStatus: Fixed
 internalReference: 293784
@@ -18,7 +18,9 @@ internalReference: 293784
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las tiendas que tienen opciones de entrega programada pueden tener un mal funcionamiento con respecto a la selección del método de entrega. Esto puede ocurrir con o sin el uso de Lean Shipping.

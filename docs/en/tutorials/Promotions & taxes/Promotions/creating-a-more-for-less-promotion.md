@@ -3,8 +3,8 @@ title: 'Creating a More for Less promotion'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z
-updatedAt: 2024-03-28T15:36:24.222Z
-publishedAt: 2024-03-28T15:36:24.222Z
+updatedAt: 2025-03-18T10:40:50.841Z
+publishedAt: 2025-03-18T10:40:50.841Z
 firstPublishedAt: 2017-04-27T23:03:15.551Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,131 +15,192 @@ legacySlug: creating-more-for-less-promotion
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The More for Less sales promotion gives customers a discount when they buy several units of the same product. A classic example of such a promotion would be "Three for the price of two".
+The More for Less promotion gives customers discounts when they add a certain quantity of the same product to their cart. A classic example would be the "Buy 2 Get 3" promotion.
 
-In this article, we explain the purpose of each field when configuring a **More for Less** promotion. Check out the configuration steps below.
+In this article, we'll explain the steps required to set up a More for Less promotion:
 
-1. [Promotion overview](#1-promotion-overview)
-    - [Restrict this promotion to sellers products](#restrict-this-promotion-to-products-from-sellers)
-    - [Trade Policy](#trade-policy)
-2. [More for Less](#2-more-for-less)
-3. [Conditions for the promotion to be valid?](#3-what-are-the-conditions-for-the-promotion-to-be-valid)
-4. [Restrictions and limitations of use](#4-restrictions-and-limitations-of-use)
+- [Creating a More for Less promotion](#creating-a-more-for-less-promotion)
+- [Configuring general information](#configuring-general-information)
+		- [Defining participating sellers](#defining-participating-sellers)
+		- [Selecting trade policies for the discount](#selecting-trade-policies-for-the-discount)
 
-Read our article [Promotion examples](https://help.vtex.com/pt/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD) for more information.
+- [Configuring the More for Less promotion](#configuring-the-more-for-less-promotion)
+		- [Advanced settings](#advanced-settings)
+
+- [Conditions for applying the promotion](#conditions-for-applying-the-promotion)
+- [Setting usage restrictions](#setting-usage-restrictions)
+- [Configuring combination and competition](#configuring-combination-and-competition)
+- [Displaying the promotion on the product page](#displaying-the-promotion-on-the-product-page)
 
 ## Creating a More for Less promotion
+1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
+2. Click the `Create Promotion button`.
+3. Select the option More for Less and enter the required information. Below are details about the fields that you need to complete.
+4. Click `Save`.
 
-1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
-2. Click on the `Create Promotion` button.
-3. Select the **More for Less** option.
-4. Complete the promotion fields.
-5. Click on `Save`.
+In this step, you will complete the general information for the promotion. Complete the following fields:
 
-## 1. Promotion overview
+| Campo                     | Descrição |
+|---------------------------|-----------|
+| **Name**                  | Choose a descriptive name for the promotion (up to 150 characters). |
+| **Status**                | Define whether the promotion will be Active or Inactive. An Active promotion will be applied based on the configured dates and times. If Inactive, the promotion will be paused, even within the scheduled period. |
+| **Description**           | Write a brief description of the promotion (up to 10,000 characters), highlighting its main objectives. |
+| **Start date time**       | Define the date and time the promotion will start. Set the exact date and time the promotion will be automatically activated. |
+| **End date and End time** | Define the date and time the promotion will end. Set the exact date and time the promotion will be automatically deactivated. |
+| **Use recurrence settings** | Activate this option if you want the promotion to repeat automatically on specific days and times. Use it for weekly, monthly, or campaigns set to specific intervals. |
 
-In this section, we provide information on the promotion overview.
+### Defining participating sellers
 
--**Name**: name of the promotion. Required field.
-- **Status**: Activates or deactivates the promotion.
-- **Description**: An internal description of the promotion. The purpose of this field is to be used as internal communication in your store to indicate whether the promotion comes from a campaign, clearance sale, etc.
-- **Expiration date**: Start and end date and time of the promotion. You can use a future date and/or time for the promotion to start on your website. If configured this way, the promotion status will be displayed as follows:
-    - **Scheduled:** Before the selected start date and time.
-    - **Active:** During the scheduled promotion period.
-    - **Inactive:** After the selected end date and time.
-- **Use recurrence settings**:By selecting this option, you can configure the recurrence, such as the weekday and time.
-- **Additional information (optional):**: Allows you to add a name and value to the promotion.
-- **Promotion is highlighted:** Adds a tag with the promotion name to the window display and the product page. This tag will only be added if you use the right promotion display control in the template.<vtex.cmc:discountHightLight/>. Required field.
+Define whether the promotion will apply to all your sellers or only to specific ones.  
+Select one of the following options to apply the promotion:
 
-![Dados gerais 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_1.png)
+- **All:** The promotion will be applied to all sellers. Use this option if you want all products from all sellers to be part of the campaign.
 
-### Restrict this promotion to products from sellers
+- **Equal to:** Select this option to include only specific sellers in the promotion.  
+  After selecting "Equal to," you can choose the sellers you want to include in the field below.  
+  Only selected sellers will have their products in the campaign.
 
-In this section, you can define to which sellers the promotion will apply. You can specify the sellers you want to include or exclude from the discount.
+- **Different from:** Select this option to exclude specific sellers from the promotion.  
+  After selecting "Different from," you can choose the sellers *you don't want to include* in the campaign.  
+  All other sellers will be included.
 
-- **Equal to**: select the name of the sellers you want to include.
-- **Different from**: select the name of the sellers you want to exclude.
+### Selecting trade policies for the discount
 
-For the promotion to be valid for all sellers, leave the field blank.
+Select the trade policies valid for the discount. You can offer discounts for trade policies where  
+[your store acts as a marketplace](/pt/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
->⚠️ You cannot select a white label seller directly. To include a white label seller in the promotion, you have two options:1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.
-> 2. Leave the selection empty, including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.
-> 
+Choose from the following options:
 
-![Restringir - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_2.png)
+- **Equal to:** Select the trade policies you want to include in the promotion.  
+  This option allows you to determine the policies that will apply to the products eligible for the discount.
 
-### Trade Policy
+- **Different from:** Selects the trade policies you want to exclude from the promotion.  
+  This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 
-In this section, you can set the trade policies valid for the promotion. You can include or exclude trade policies from the discount.
+- **All:** Select this option to apply the promotion to all trade policies without any restriction.  
+  All products, regardless of their associated trade policy, will be included in the promotion.
 
-- **Equal to**: select the trade policies you want to include.
-- **Different from**: select the trade policies you want to exclude.
-- **Provided by me (my store)**: Select trade policies with products from your store. You can select more than one trade policy.
-- **Delivered by me (other stores)**: Select trade policies in which your products are available in third-party stores. You can select more than one trade policy.
+## Configuring the More for Less promotion
 
-For the promotion to be valid for all trade policies, leave the selection empty.
+In this section, you define the promotion rules based on the number of products the customer needs to purchase to get the discount.  
+Follow the instructions below to complete the fields:
 
-![Politica - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_3.png)
+- **The customer buys [X] of the following products:**  
+  Provide the minimum number of products the customer must add to the cart to apply the discount.  
+  Enter the value directly into the numeric field.
 
-## 2. More for Less
+- **SKUs:**  
+  Add the specific SKUs that will be part of the promotion, entering the product identifiers directly into the field.  
+  The limit for creating a buy more, pay less promotion conditioned by SKUs is 100 SKUs.
 
-In this section, you can define the products, number of items, and discounts included in the promotion.
+- **Collections:**  
+  Selects a product [collection](/en/tutorial/criando-colecao-de-produtos--tutorials_244). This option simplifies promotion management for groups of items with similar characteristics.
 
-- **The customer purchases** `quantity` **of the following products**: number of units of the same product that must be added to the cart for the promotion to apply. Required field.
-    - **SKUs**: names or IDs of the SKUs to which the discount will apply. You can import a list of SKUs by clicking on the `Select a .txt file` button. The text file (.txt) must contain each SKU ID in a different row. You can also download the list of SKUs added to the field by clicking on the `Download SKU list` button.
-    - **Collections**: Collections to which the promotion will apply. The promotion will only be applied to products in the collections listed in this field. You can add a collection by entering its name. You can also select more than one collection.
+- **The customer gets [Y] of these [X] products with discount:**  
+  Define how many products the customer can get a discount on when they meet the minimum configured quantity.  
+  Enter the number in the corresponding field.  
+  For example, in a "Buy 2 Get 3" promotion, configure the settings so that the customer gets 2 products with a discount.
 
->ℹ️ If you do not inform any product collection or SKU, the platform will not allow the creation of the promotion. <p>
-
-- **And gets** `number` **of these products**: the number of items defined to receive the discount. Required field.
-   - **With a discount of**: the percentage discount the customer will receive if they buy the number of items defined in the promotion.
-   - **With a maximum price per item of**: the maximum price per item the customer will pay if they buy the number of items defined in the promotion.
-
-![Leve Mais - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_4.png)
+- **Discount of:**  
+  Determine the type and value of the discount to be applied to the products.  
+  Select between **% (percentage)** or **fixed value** and enter the desired value.
 
 ### Advanced settings
-In this section, you can specify how the discount will be applied.
-The discount must be applied:
 
-- **Considering**:
-  - **Any product**: The discount will be applied to different products in the collection or SKU list, even if the number of items per product is less than the number defined in the promotion. In this case, the system considers the sum of the eligible products in the shopping cart.
-  - **Only identical products and variations**: The discount will only be applied to a SKU. To use this option, you must have added the minimum number of items for the promotion.
-- **To**:
-  - **The lowest-priced products**: the discount will be applied to the cheapest items in the promotion.
-  - **The highest-priced products**: the discount will be applied to the most expensive items in the promotion.
+The advanced settings allow you to define how the discount will be applied to the selected products.  
+Complete the fields and select the options that best suit the promotion rules:
 
-![Leve Mais por menos - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_5.png)
+**The discount must be applied:**
 
-#### How must the discount be distributed?
+Considering:
 
-- **Only among the** `number` **products receiving the discount**: the discount will be applied in full to the selected number of products.
-- **Proportionally among the** `number` **products**: the discount will be equally distributed among the selected number of products.
+- **Any item:** The discount applies to any product within the configured criteria, without them having to be the same.
+- **Must be the same item:** The discount only applies to items that are the same (same SKU).
 
-## 3. Conditions for the promotion to be valid
+To these products:
 
-In this section, we will detail the conditions you must apply for a promotion to be valid.
+- **Cheapest:** The discount will be applied to the products with the lowest price.
+- **Most expensive:** The discount will be applied to the products with the highest price.
 
-- **Order’s minimum and maximum amount**: The promotion will be applied based on the gross amount of the cart, not considering other promotions or shipping.
-- **Full price and discounted price are the same or Full price and discounted price are different:**: Refers to the added product prices. You can only select one option.
-- **Use restriction BINs**: the discount will be granted to users paying with cards whose BINs are among the numbers entered in this field.
-- **Customer cluster**: the discount applies if the customer is included in the cluster you select in this field. It is important to highlight that the cluster name must be written exactly as in the Master Data. Spelling errors will prevent the configuration from working correctly.
-- **utm_source**: The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion. It is important to note that customers can only enter one utm_source at checkout.
-- **utm_campaign**: the discount will be granted if the customer navigation uses a utm_campaign parameter corresponding to a listed one in this promotion.
-- **Create a new coupon with the UTMs above**: Create a coupon based on the UTM values selected above to give customers access to this promotion using only the coupon code.
-- **Payment system**: Allows you to choose if the promotion will be applied to one or more of the selected payment methods.
+**How should the discount be distributed?**
 
-  >ℹ️ By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
+- **Only between the [X] items that get a discount:**  
+  The benefit will apply exclusively to the specified number of items.  
+  For example, if three items are configured, only these will get the discount.
 
-![Condições de promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_6.png)
+- **Proportionally between the [X] items:**  
+  The total amount of the discount will be distributed proportionally among all the items.
 
-## 4. Restrictions and limitations of use
+## Conditions for applying the promotion
 
-In this section, you will find important information about the promotion conditions and restrictions.
+Define restriction conditions for the promotion. Conditions allow the promotion to activate under specific circumstances based on the selected criteria.
 
-- **How many times will this promotion be applied in your store**: Limits the number of times the promotion will be applied. If you uncheck the **unlimited** field, the times field becomes available to enter the maximum number of times the promotion can be used. This only applies for orders created after the condition has been set up. It will not affect orders placed previously.
-- **How many times per customer will this promotion be applied in your store**:This field's value determines the maximum number of times each customer can benefit from the promotion. For example, if you set a limit of three uses and the promotion is applied three times on a single order, this will be considered a single use in relation to the total limit. This way, the customer can still use the promotion on two different orders. Note that this calculation is done regardless of how many times the promotion has been used on each individual order.
-- **Set maximum number of eligible items for each cart**: Defines the maximum number of items in the cart that will be affected by the promotion. Check out [this article](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy) to learn how to configure this field.
-- **Apply with other promotions**: if selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
-- **Apply with manual prices**: allows the promotion to apply to products whose prices were manually added via telesales. To enable the manual pricing feature, use the [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) endpoint.
+To add a condition, follow the instructions below:
 
-![Restrições e limitações - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/creating-a-more-for-less-promotion_7.png)
+- **Order total:** Sets the amount limits to apply the promotion based on the sum of the original amount of the items. Complete the fields below to configure the conditions:
+  - **Minimum order amount:** Set the minimum amount required to activate the promotion.  
+    Select the items that will be included in the calculation: only items included in the promotion, only items not included in the promotion, or all items in the order.
+  - **Maximum order amount:** Set the maximum amount allowed to apply the promotion.  
+    Select the items that will be included in the calculation: only items included in the promotion, only items not included in the promotion, or all items in the order.
+
+- **Payment method:** The promotion is only applied when the customer uses one of the previously configured payment methods.  
+  The options include:
+  - Boleto Bancário (Brazil).
+  - Credit cards, such as Visa or Mastercard.
+  - Other methods, such as Diners or Hipercard.
+
+- **Card BIN:** Apply the promotion with cards from specific networks, banks, or categories identified by their BIN codes.  
+  Import a list of BINs saved in a TXT or CSV file, with each BIN on a separate row.
+
+- **Customer cluster:** Select an already created [customer cluster](#) in Master Data, following the `field=value` or `field contains value` format.  
+  Choose one of the following:
+  - **All of the following:** Apply the promotion only if all cluster criteria are met.
+  - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
+
+- **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used.  
+  Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.  
+  Set the following parameters if necessary:
+  - **utm_source:** Apply the discount when browsing occurs through the configured utm_source parameter.
+  - **utm_campaign:** Apply the discount when browsing occurs through the configured utm_campaign parameter.
+  - **Create coupon from the UTM parameters above:** Generate a coupon based on the UTM parameters entered in the `UTM_source` and `UTM_campaign` fields.
+  - **View linked coupons:** View the coupons that have already been associated with the defined UTM parameters.
+
+- **Price list:** Restrict the promotion based on the presence or absence of a list price on the selected products.  
+  Choose one of the options below:
+  - **Price list not defined:** Apply the promotion only to items with equal "full" and "discounted" values, which indicates that they don't have a [price list](/en/tutorial/precos-v2) configured.
+  - **Price list defined:** Apply the promotion only to items with different "full" and "discounted" values, which indicates that they have a price list.
+
+## Setting usage restrictions
+
+In this section, you will determine whether the promotion can be combined with other promotions.  
+The available options are:
+
+- **Limit the use of the promotion in the store:**  
+  Restrict the number of times the promotion can be used in the store.
+
+- **Limit the use of the promotion per customer:**  
+  Restrict the number of times each customer can use the promotion.
+
+- **Limit the number of eligible items per cart:**  
+  Define the maximum number of items per order that will get the discount.
+
+## Configuring combination and competition
+
+Define how the promotion will be combined with other business conditions applied in the store:
+
+- **Allow combining with other promotions:**  
+  Allows the promotion to be applied simultaneously with other promotions, including additional discounts such as free shipping or gifts. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
+
+- **Allow combining with manual prices:**  
+  Select this setting so that the promotion is applied to products whose price has been adjusted.
+
+## Displaying the promotion on the product page
+In this section, you can highlight the promotion on the product listing page and add custom data for in-store customizations.
+
+- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
+
+<div class="alert alert-warning">
+  Remember <a href="https://help.vtex.com/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295" target="_blank">configure this option in the CMS module</a>.
+</div>
+
+- **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.

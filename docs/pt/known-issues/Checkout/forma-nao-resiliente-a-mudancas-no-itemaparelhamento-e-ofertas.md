@@ -1,5 +1,5 @@
 ---
-title: 'forma não resiliente a mudanças no itemAparelhamento e ofertas'
+title: "forma não resiliente a mudanças no itemAparelhamento e ofertas"
 id: 2pNOpx38Dca7HBomTZBdAD
 status: PUBLISHED
 createdAt: 2022-01-05T20:40:21.829Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-not-resilient-to-changes-in-itemattachment-and-offerings
+slugEN: forma-nao-resiliente-a-mudancas-no-itemaparelhamento-e-ofertas
 locale: pt
 kiStatus: Backlog
 internalReference: 334191
@@ -18,7 +18,9 @@ internalReference: 334191
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O OrderForm é sensível à mudança ou remoção de um item do catálogo de produtos. Se um itemAttachment deixar de existir ou começar a ter outro padrão de validação, um orderForm que já tenha dados antigos se tornará inacessível, e não será possível prosseguir com o fluxo de compra.

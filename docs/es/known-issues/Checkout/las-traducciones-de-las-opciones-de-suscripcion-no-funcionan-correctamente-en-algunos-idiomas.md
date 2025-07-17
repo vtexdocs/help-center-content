@@ -1,5 +1,5 @@
 ---
-title: 'Las traducciones de las opciones de suscripción no funcionan correctamente en algunos idiomas.'
+title: "Las traducciones de las opciones de suscripción no funcionan correctamente en algunos idiomas."
 id: 6trVpxFrfpMIibospU2scp
 status: PUBLISHED
 createdAt: 2023-04-10T16:46:34.794Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: subscription-options-translations-dont-work-properly-for-some-languages
+slugEN: las-traducciones-de-las-opciones-de-suscripcion-no-funcionan-correctamente-en-algunos-idiomas
 locale: es
 kiStatus: Backlog
 internalReference: 561186
@@ -18,7 +18,9 @@ internalReference: 561186
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el carrito, los periodos de suscripción están mal en UI. Pero, si nos fijamos en el orderForm, el período se muestra correctamente.

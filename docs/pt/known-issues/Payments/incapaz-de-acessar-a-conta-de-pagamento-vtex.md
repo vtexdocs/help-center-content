@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de acessar a conta de pagamento VTEX.'
+title: "Incapaz de acessar a conta de pagamento VTEX."
 id: 3hcMhWyKTZj4S40a5DrxGA
 status: PUBLISHED
 createdAt: 2022-03-25T16:35:36.624Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: unable-to-access-vtex-payment-account
+slugEN: incapaz-de-acessar-a-conta-de-pagamento-vtex
 locale: pt
 kiStatus: Backlog
 internalReference: 550244
@@ -18,7 +18,9 @@ internalReference: 550244
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Uma mensagem de erro é exibida quando se tenta acessar o módulo de pagamento VTEX

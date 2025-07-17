@@ -1,5 +1,5 @@
 ---
-title: 'Confirmed order email not being sent'
+title: "Confirmed order email not being sent"
 id: 4RelMFApLldLtf0GxhYzdt
 status: PUBLISHED
 createdAt: 2023-03-10T22:07:59.908Z

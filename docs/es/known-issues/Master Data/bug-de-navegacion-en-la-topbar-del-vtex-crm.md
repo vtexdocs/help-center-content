@@ -1,5 +1,5 @@
 ---
-title: 'Bug de navegación en la topbar del VTEX CRM'
+title: "Bug de navegación en la topbar del VTEX CRM"
 id: svI7gnUQLuccauCkeyyoU
 status: PUBLISHED
 createdAt: 2019-01-11T16:10:39.024Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: navigation-bug-in-vtex-crm-topbar
+slugEN: bug-de-navegacion-en-la-topbar-del-vtex-crm
 locale: es
 kiStatus: Backlog
 internalReference: 

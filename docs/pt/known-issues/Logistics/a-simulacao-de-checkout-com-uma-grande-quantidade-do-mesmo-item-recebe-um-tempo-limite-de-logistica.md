@@ -1,5 +1,5 @@
 ---
-title: 'A simulação de checkout com uma grande quantidade do mesmo item recebe um tempo limite de logística'
+title: "A simulação de checkout com uma grande quantidade do mesmo item recebe um tempo limite de logística"
 id: 753MDZbcyN9BTHAaSTpOlY
 status: PUBLISHED
 createdAt: 2024-06-18T12:42:44.404Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: checkout-simulation-with-a-great-quantity-of-the-same-sku-receives-a-logistics-timeout
+slugEN: a-simulacao-de-checkout-com-uma-grande-quantidade-do-mesmo-item-recebe-um-tempo-limite-de-logistica
 locale: pt
 kiStatus: No Fix
 internalReference: 330775
@@ -18,7 +18,9 @@ internalReference: 330775
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos um erro no serviço de logística ao tentar simular uma compra com milhares de unidades da mesma SKU. Esse erro ocorre porque a solicitação para dividir o pacote leva muito tempo.

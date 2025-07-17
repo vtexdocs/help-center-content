@@ -21,11 +21,11 @@ Los periodos de entrega que están disponibles para los clientes se denominan ve
 
 En caso de que la política de envío ofrezca el servicio, puede habilitar la entrega programada configurando las ventanas de entrega y estableciendo la capacidad de realización de entregas para cada ventana, si así lo desea.
 
->⚠️ Para que la [Entrega programada](https://help.vtex.com/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) y la [Capacidad de entrega](https://help.vtex.com/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionen correctamente, debes tener en cuenta que:
-> *La suma de {[account name](https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID de la política de envío} no puede exceder los 60 caracteres.
-> * No se debe utilizar espacio en el ID de la [política de envío](https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+<div class="alert alert-warning">
+Para que la <a href="https://help.vtex.com/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega programada</a> y la <a href="https://help.vtex.com/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidad de entrega</a> funcionen correctamente, debes tener en cuenta que:<p><ul><li>La suma de {<a href="https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la <a href="https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">política de envío</a>.</li></ul></p>
+</div>
 
-La entrega programada se habilita a través del campo Entrega programada que se muestra en la pantalla de creación o edición de [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140). 
+La entrega programada se habilita a través del campo Entrega programada que se muestra en la pantalla de creación o edición de [Política de envío](/es/tutorial/politica-de-envio--tutorials_140). 
 
 Una vez que habilite la funcionalidad __Entrega programada__ en Política de envío, puede configurar los campos que determinarán cómo esta funcionará. Estos campos definen el [tiempo máximo de entrega](#tiempo-maximo-de-entrega), el [periodo de entrega](#periodo-de-entrega) y el [límite de la capacidad de entrega](#capacidad-de-entrega).
 
@@ -43,7 +43,9 @@ El periodo de entrega, también denominado ventana de entrega, especifica los pe
 
 Los periodos/ventanas se definen a partir de las horas de inicio y fin de la operación para cada día de la semana. Además, puede definir un valor adicional para el flete en determinados días de la semana. 
 
->ℹ️ Una ventana de entrega no está disponible para su selección después de que ha iniciado. Solo estarán disponibles para los clientes las ventanas de entrega cercanas (aún no iniciadas).
+<div class="alert alert-info">
+Una ventana de entrega no está disponible para su selección después de que ha iniciado. Solo estarán disponibles para los clientes las ventanas de entrega cercanas (aún no iniciadas).
+</div>
 
 ## Capacidad de entrega
 
@@ -51,6 +53,8 @@ Definir la capacidad de entrega le permite limitar el número de ítems o pedido
 
 Cuando el cliente finaliza la compra y selecciona la entrega programada, las opciones de fecha y hora que se muestran consideran la capacidad de entrega. De esta forma, el cliente solo podrá programar las entregas en las ventanas que aún tienen disponibilidad de 1 ítem o pedido. 
 
->ℹ️ Si la ventana alcanza la capacidad total de ítems/pedidos, ya no se podrá elegir. Para que la ventana vuelva a estar disponible, debe aumentar el número de ítems/pedidos de la capacidad de entrega. Esto se puede realizar editando una [Registrar política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
-Lea el artículo [Gestionar capacidad de entrega](https://help.vtex.com/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber más.
+<div class="alert alert-info"> 
+Si la ventana alcanza la capacidad total de ítems/pedidos, ya no se podrá elegir. Para que la ventana vuelva a estar disponible, debe aumentar el número de ítems/pedidos de la capacidad de entrega. Esto se puede realizar editando una <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Registrar política de envío</a>.
+</div>
+Lea el artículo [Gestionar capacidad de entrega](/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber más.
 

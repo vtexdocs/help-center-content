@@ -1,5 +1,5 @@
 ---
-title: 'CatalogV2 User Roles not Applying'
+title: "CatalogV2 User Roles not Applying"
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z
@@ -34,7 +34,7 @@ Currently, the user role UI for the CatalogV2 application is not correctly apply
 
 2) Set a read-only user role
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalogv2-user-roles-not-applying_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/NpEBOSahA9ogF72lsW9kYRjyH/?name=inline441836406.png)
 
 3) With these rules set, log in with the related user
 

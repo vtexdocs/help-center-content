@@ -3,8 +3,8 @@ title: 'Predefined roles'
 id: jGDurZKJHvHJS13LnO7Dy
 status: PUBLISHED
 createdAt: 2022-04-07T21:34:06.385Z
-updatedAt: 2024-05-22T17:50:31.567Z
-publishedAt: 2024-05-22T17:50:31.567Z
+updatedAt: 2025-04-09T19:03:02.620Z
+publishedAt: 2025-04-09T19:03:02.620Z
 firstPublishedAt: 2022-04-07T21:48:28.951Z
 contentType: tutorial
 productTeam: Identity
@@ -15,11 +15,13 @@ legacySlug:
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
+[Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
 
 In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
 
->ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+<div class="alert alert-info">
+<p>Learn more about each resource listed in the roles below in <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">License Manager Resources</a>.</p>
+</div>
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -37,11 +39,10 @@ In this document, are listed the roles that are predefined for new VTEX stores a
 * [Logistics - Read only](#logistics-read-only)
 * [OMS - Full access](#oms-full-access)
 * [OMS - Read only](#oms-read-only)
+* [Payments Notifier](#payments-notifier)
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [VTEX Payment - Account Holder](#vtex-payment-account-holder)
-* [VTEX Payment - Bookkeeper](#vtex-payment-bookkeeper)
 * [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
@@ -67,13 +68,15 @@ Resource table:
 
 ## Call center operator
 
-This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](https://help.vtex.com/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
+This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
 
 The Assisted Sales resource causes the user to be automatically redirected to the store's telesales page, which will leave the user logging into an account with this role without access to important features of the administrative menu.
 
 We therefore recommend using two separate accounts (with different emails) for telesales users: one account for the __Call center operator__ role (with the *Assisted Sales* and *View order* resources) and another account for carrying out operations in Admin, if necessary.
 
->⚠️ When creating a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
+<div class="alert alert-warning">
+When creating a <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">role</a>, avoid including call center <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">resources</a> with other resources. Otherwise, the role might not work as expected.
+</div>
 
 Resource table:
 
@@ -140,16 +143,16 @@ Resource table:
 
 ## Sales App - Sales Associate
 
->⚠️ Sales associates registered in Sales App cannot access the VTEX Admin, only Sales App.
+<div class="alert alert-warning">
+  <p>Sales associates registered in Sales App cannot access the VTEX Admin, only Sales App.</p>
+</div>
 
 Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
 | Assisted Sales | Catalog | Televendas | After logging in, the user is redirected to the store (accountname.myvtex.com) |
-| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
-| Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
 
 ## IntegrationProfile - Fulfillment
 
@@ -288,6 +291,14 @@ Resource table:
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | View store sales stats | OMS | AcessoOMS | Displays totalizers within the All Orders section in Orders Management. Displays total sales in addition to orders details. |
 
+## Payments Notifier
+
+Resource table:
+
+| Resource name | Product | Category | Description |
+| :---- | :---- | :---- | :---- |
+| Payments Notification | PCI Gateway | Payment-NotifyPayments | Payment approval notification using the Payments Gateway API. |
+
 ## Seller Manager
 
 Resource table:
@@ -326,14 +337,6 @@ Resource table:
 | Import Redirects | VTEX IO | Infrastructure | Enable users to manage redirects with VTEX IO's command line interface |
 | Manage A/B Test | VTEX IO | A/B Test | Allows users to start, finish or get status of an A/B Test |
 | Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account |
-
-## VTEX Payment - Account Holder
-
-This role gives full read and write access to VTEX Payment data and should be restricted to users who need to make settings.
-
-## VTEX Payment - Bookkeeper
-
-This role allows users to read information about the VTEX Payment operation.
 
 ## Webservice - Full access
 

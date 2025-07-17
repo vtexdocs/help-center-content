@@ -17,7 +17,9 @@ announcementSynopsisEN: 'VTEX changed how the `availableQuantity` field works, w
 
 VTEX changed how the `availableQuantity` field works, which is returned by the API routes of the legacy search. This change may impact existing integrations.
 
->ℹ️ Stores that use VTEX Intelligent Search are not affected.
+<div class = "alert alert-info">
+Stores that use VTEX Intelligent Search are not affected.
+</div>
 
 ## What has changed?
 

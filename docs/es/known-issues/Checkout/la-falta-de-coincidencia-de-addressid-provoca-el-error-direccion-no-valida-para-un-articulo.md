@@ -1,5 +1,5 @@
 ---
-title: "La falta de coincidencia de AddressId provoca el error 'dirección no válida para un artículo'."
+title: 'La falta de coincidencia de AddressId provoca el error "dirección no válida para un artículo".'
 id: 5bSac85eHb9NmrOhcTjHNw
 status: PUBLISHED
 createdAt: 2024-03-01T19:28:52.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: addressid-mismatch-causes-invalid-address-for-an-item-error
+slugEN: la-falta-de-coincidencia-de-addressid-provoca-el-error-direccion-no-valida-para-un-articulo
 locale: es
 kiStatus: Backlog
 internalReference: 992503
@@ -18,7 +18,9 @@ internalReference: 992503
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El adjunto del carrito `shippingData` soporta el campo `addressId` dentro de algunos objetos diferentes: `logisticsInfo`, `address`, y `selectedAddresses`.

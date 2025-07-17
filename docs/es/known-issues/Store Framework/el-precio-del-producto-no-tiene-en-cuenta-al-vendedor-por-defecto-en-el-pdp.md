@@ -1,5 +1,5 @@
 ---
-title: 'El precio del producto no tiene en cuenta al vendedor por defecto en el PDP'
+title: "El precio del producto no tiene en cuenta al vendedor por defecto en el PDP"
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: product-price-not-considering-default-seller-in-pdp
+slugEN: el-precio-del-producto-no-tiene-en-cuenta-al-vendedor-por-defecto-en-el-pdp
 locale: es
 kiStatus: No Fix
 internalReference: 429888
@@ -18,7 +18,9 @@ internalReference: 429888
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al mostrar el precio en PDP, el componente ignora el Vendedor por defecto, considerando el primer vendedor que se registró.

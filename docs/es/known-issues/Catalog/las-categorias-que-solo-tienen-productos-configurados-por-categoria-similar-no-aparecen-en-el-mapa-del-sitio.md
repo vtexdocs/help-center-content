@@ -1,5 +1,5 @@
 ---
-title: 'Las categorías que sólo tienen productos configurados por Categoría similar no aparecen en el mapa del sitio.'
+title: "Las categorías que sólo tienen productos configurados por Categoría similar no aparecen en el mapa del sitio."
 id: 287jVhwVikbo7cSHksIAXL
 status: PUBLISHED
 createdAt: 2024-09-03T17:48:53.861Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: categories-that-only-have-products-setup-by-similar-category-do-not-appear-on-sitemap
+slugEN: las-categorias-que-solo-tienen-productos-configurados-por-categoria-similar-no-aparecen-en-el-mapa-del-sitio
 locale: es
 kiStatus: Backlog
 internalReference: 1091727
@@ -18,7 +18,9 @@ internalReference: 1091727
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un producto puede tener una categoría configurada y una categoría similar configurada. Con eso, una URL para la categoría similar estará disponible en el frontend mostrando este producto en particular.

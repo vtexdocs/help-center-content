@@ -1,5 +1,5 @@
 ---
-title: 'Erro de encoding no Mail App da Apple'
+title: "Erro de encoding no Mail App da Apple"
 id: 1ppf3Edw6gSikk0KY44gmS
 status: PUBLISHED
 createdAt: 2018-06-26T17:54:35.967Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data,Message Center
-slugEN: encoding-error-in-apple-mail-app
+slugEN: erro-de-encoding-no-mail-app-da-apple
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -29,7 +29,7 @@ Montar um trigger de envio de e-mail que possua caracter especial no "Assunto" d
 
 Resultado:
 
-![png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master%20Data/erro-de-encoding-no-mail-app-da-apple_1.png)
+![png](//images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
 
 ## Workaround
 

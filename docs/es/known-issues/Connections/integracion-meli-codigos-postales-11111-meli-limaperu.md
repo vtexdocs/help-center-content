@@ -1,5 +1,5 @@
 ---
-title: "Integración MELI Códigos postales '11111' Meli - Lima/Perú"
+title: 'Integración MELI Códigos postales "11111" Meli - Lima/Perú'
 id: 7ICcek0NOUczgtA65CaZk5
 status: PUBLISHED
 createdAt: 2023-05-16T17:50:38.417Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-integration-zipcodes-11111-meli-limaperu
+slugEN: integracion-meli-codigos-postales-11111-meli-limaperu
 locale: es
 kiStatus: Fixed
 internalReference: 826566
@@ -18,7 +18,9 @@ internalReference: 826566
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

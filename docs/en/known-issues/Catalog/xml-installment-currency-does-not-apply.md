@@ -1,5 +1,5 @@
 ---
-title: 'XML - Installment currency does not apply'
+title: "XML - Installment currency does not apply"
 id: 7kPbxbGnpqeqU8XCD576hZ
 status: PUBLISHED
 createdAt: 2024-02-02T19:16:59.053Z

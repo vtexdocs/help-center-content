@@ -1,5 +1,5 @@
 ---
-title: 'Erros de tempo limite da plataforma'
+title: "Erros de tempo limite da plataforma"
 id: 6Kp2viMZSnmGucJnciDNKx
 status: PUBLISHED
 createdAt: 2024-06-17T18:07:48.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: platform-timeout-errors
+slugEN: erros-de-tempo-limite-da-plataforma
 locale: pt
 kiStatus: Backlog
 internalReference: 1051070
@@ -18,7 +18,9 @@ internalReference: 1051070
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O aplicativo de mensagens recebe aleatoriamente um erro de tempo limite, e algumas páginas podem precisar ser atualizadas para funcionar corretamente. Isso está relacionado às páginas de administração, mas qualquer outra página da plataforma também pode receber esse erro.
@@ -29,7 +31,7 @@ Isso pode estar relacionado a consultas GraphQL. Normalmente, você verá erros 
 
 
 Tente acessar algumas páginas no administrador, por exemplo, de uma conta, e, aleatoriamente, essa página pode receber o erro abaixo. Essa imagem também pode aparecer no ambiente myvtex ao acessar quaisquer outras páginas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/erros-de-tempo-limite-da-plataforma_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bpiTuFWDjmPfEtLAiVcLhiMRs/?name=image.png)
 Quando você atualizar a página, tudo deverá voltar ao normal
 
 Você pode ver mais detalhes do erro no console ou apenas esperar que ele seja atualizado

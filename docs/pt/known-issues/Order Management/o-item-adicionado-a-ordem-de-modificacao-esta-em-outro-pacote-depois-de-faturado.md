@@ -1,5 +1,5 @@
 ---
-title: 'O item adicionado à ordem de modificação está em outro pacote depois de faturado'
+title: "O item adicionado à ordem de modificação está em outro pacote depois de faturado"
 id: 4a3VAtnfhYeg2N1EekVyO2
 status: PUBLISHED
 createdAt: 2022-08-19T19:25:08.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: item-added-to-change-order-is-in-another-package-after-invoiced
+slugEN: o-item-adicionado-a-ordem-de-modificacao-esta-em-outro-pacote-depois-de-faturado
 locale: pt
 kiStatus: Backlog
 internalReference: 412526
@@ -18,7 +18,9 @@ internalReference: 412526
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os itens removidos ou adicionados pelo fluxo da ordem de alteração não fazem parte do pacote, portanto, não serão exibidos no e-mail da fatura e, caso todos os itens de um pedido sejam removidos e adicionados posteriormente, o e-mail da fatura não será enviado, pois os itens adicionados não são adicionados ao pacote original do pedido;

@@ -1,5 +1,5 @@
 ---
-title: 'Exportação de catálogo para cortes de anexos > 50 caracteres'
+title: "Exportação de catálogo para cortes de anexos > 50 caracteres"
 id: 7hX23y19wmMNPTUgbhh2WX
 status: PUBLISHED
 createdAt: 2023-12-14T16:46:58.819Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-export-for-attachment-cuts-50-characters
+slugEN: exportacao-de-catalogo-para-cortes-de-anexos-50-caracteres
 locale: pt
 kiStatus: Backlog
 internalReference: 953161
@@ -18,7 +18,9 @@ internalReference: 953161
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao importar dados para anexos no módulo de catálogo, se o referido anexo tiver mais de 50 caracteres, a cadeia de caracteres é cortada, o que faz com que não haja atualizações para esses dados.

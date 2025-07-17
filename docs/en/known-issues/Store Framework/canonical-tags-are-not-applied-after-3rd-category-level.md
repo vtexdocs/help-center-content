@@ -1,5 +1,5 @@
 ---
-title: 'Canonical tags are not applied after 3rd category level'
+title: "Canonical tags are not applied after 3rd category level"
 id: 6HU8WLT5yVRBqeBmGgYRsi
 status: PUBLISHED
 createdAt: 2023-11-08T13:31:23.182Z

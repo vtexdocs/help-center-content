@@ -1,5 +1,5 @@
 ---
-title: 'O layout da página muda para móvel quando a impressão (ctrl+p) é usada no Cromo'
+title: "O layout da página muda para móvel quando a impressão (ctrl+p) é usada no Cromo"
 id: 1mPBRf1IhLj27liWa040XG
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:17.848Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: page-layout-changes-to-mobile-when-printing-ctrlp-is-used-in-chrome
+slugEN: o-layout-da-pagina-muda-para-movel-quando-a-impressao-ctrlp-e-usada-no-cromo
 locale: pt
 kiStatus: No Fix
 internalReference: 454680
@@ -18,7 +18,9 @@ internalReference: 454680
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 O layout da página muda para a versão móvel ao imprimir (CTRL+P) é ativado duas vezes no Google Chrome Desktop.
 

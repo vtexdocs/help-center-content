@@ -1,5 +1,5 @@
 ---
-title: 'El conector AdyenV1 no está enviando pspReference en algunas operaciones y por lo tanto causa error'
+title: "El conector AdyenV1 no está enviando pspReference en algunas operaciones y por lo tanto causa error"
 id: 3Eut9j0dxzywSk3ssvRo3l
 status: PUBLISHED
 createdAt: 2023-05-11T16:44:19.660Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: adyenv1-connector-is-not-sending-pspreference-on-some-operations-and-thus-causing-error
+slugEN: el-conector-adyenv1-no-esta-enviando-pspreference-en-algunas-operaciones-y-por-lo-tanto-causa-error
 locale: es
 kiStatus: Backlog
 internalReference: 758411
@@ -18,7 +18,9 @@ internalReference: 758411
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

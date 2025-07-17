@@ -1,5 +1,5 @@
 ---
-title: 'Os métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada'
+title: "Os métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada"
 id: 4EqNjqWwNVSKqR08q89f7V
 status: PUBLISHED
 createdAt: 2022-08-31T17:22:15.483Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payment-methods-remain-on-the-checkout-page-even-when-the-associated-payment-condition-is-disabled
+slugEN: os-metodos-de-pagamento-permanecem-na-pagina-de-checkout-mesmo-quando-a-condicao-de-pagamento-associada-e-desativada
 locale: pt
 kiStatus: Backlog
 internalReference: 649237
@@ -18,7 +18,9 @@ internalReference: 649237
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada por mais de 10 minutos. Esta é uma questão intermitente e não há evidências de como reproduzir este comportamento.

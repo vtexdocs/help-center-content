@@ -1,5 +1,5 @@
 ---
-title: 'Promotional price table in large shopping carts can impact performance or lead to timeout errors'
+title: "Promotional price table in large shopping carts can impact performance or lead to timeout errors"
 id: 22H47mc9qYLdzk2sFkbBut
 status: PUBLISHED
 createdAt: 2023-12-07T15:47:28.360Z

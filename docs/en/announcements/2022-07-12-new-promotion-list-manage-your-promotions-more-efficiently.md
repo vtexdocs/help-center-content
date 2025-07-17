@@ -30,7 +30,7 @@ We developed a new interface for the Promotion List, which includes:
 * Exporting your active promotions list.
 * Duplicating active or archived promotions for a faster creation process.
 
-![lista-promocoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-07-12-new-promotion-list-manage-your-promotions-more-efficiently_1.PNG)
+![lista-promocoes-en](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
 
 ## Why did we make this change?
 
@@ -38,6 +38,6 @@ The Promotion List update is part of the [New VTEX Admin](https://content.vtex.c
 
 ## What needs to be done?
 
-The new Promotion List is available only to stores using the [New VTEX Admin](https://help.vtex.com/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). To be part of the new experience, sign up for the [Beta program](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) of the New VTEX Admin.
+The new Promotion List is available only to stores using the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). To be part of the new experience, sign up for the [Beta program](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) of the New VTEX Admin.
 
-For more information on how to benefit from the new page, please read the article [Promotion List (Beta)](https://help.vtex.com/en/tutorial/promotions-list-beta--4yB7nNdliiFxBTXE19GCIi).
+For more information on how to benefit from the new page, please read the article [Promotion List (Beta)](/en/tutorial/promotions-list-beta--4yB7nNdliiFxBTXE19GCIi).

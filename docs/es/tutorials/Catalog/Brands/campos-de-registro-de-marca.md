@@ -19,16 +19,15 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Nombre__: nombre de la marca que desea registrar para identificación en un producto. Este campo es obligatorio y debe respetar el límite de 150 caracteres.
 
->❗ Al rellenar el **Nombre** de la marca, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+<div class="alert alert-danger">
+  <p>Al rellenar el <b>Nombre</b> de la marca, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 - __Palabras Sustitutas__: términos alternativos que llevan a la marca registrada. El objetivo es facilitarle al usuario encontrar la marca, incluso si lo escribe de diferentes formas. Normalmente estas palabras son diferencias o errores ortográficos y/o formas genéricas y extranjeras de denominar a la marca.   
 
@@ -40,9 +39,9 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Lomadee Campaing Code__: código utilizado para las campañas de Buscapé. Rellenar este campo con el código permite el acompañamiento de métricas de remarketing asociadas a esa marca.
 
-- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](https://help.vtex.com/es/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](/es/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
 
-- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](https://help.vtex.com/es/tutorial/--tutorials_563) para las páginas de su tienda.
+- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](/es/tutorial/--tutorials_563) para las páginas de su tienda.
 
 - __Activar la marca__: al seleccionar esa caja, la marca queda visible y lista para el uso en los productos registrados.
 

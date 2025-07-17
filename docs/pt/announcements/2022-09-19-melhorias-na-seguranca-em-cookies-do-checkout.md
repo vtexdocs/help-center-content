@@ -39,7 +39,7 @@ Você deve acionar a equipe responsável pelo desenvolvimento do seu site para s
 
 Para acessar o ambiente Beta, siga os procedimentos abaixo de acordo com a versão do Admin (V3 ou V4) utilizada em sua loja:
 
-- **Admin V3**: [Acessar o ambiente beta pelo domínio myvtex.com](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu)
+- **Admin V3**: [Acessar o ambiente beta pelo domínio myvtex.com](/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu)
 
 - **Admin V4**: habilite temporariamente o cookie `vtex-commerce-env` da seguinte forma:
 
@@ -57,5 +57,7 @@ Caso encontre algum erro durante a realização dos testes operacionais no ambie
 
 Após verificar as configurações da loja, execute novamente o teste em ambiente Beta.
 
->⚠️ A partir de 13 de Fevereiro de 2023, as lojas que não estiverem devidamente configuradas poderão não conseguir operar o Checkout corretamente.
+<div class="alert alert-warning">
+A partir de 13 de Fevereiro de 2023, as lojas que não estiverem devidamente configuradas poderão não conseguir operar o Checkout corretamente.
+</div>
 

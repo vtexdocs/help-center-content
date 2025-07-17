@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos faturados na VTEX mas que não atualizam a fatura na Netshoes'
+title: "Pedidos faturados na VTEX mas que não atualizam a fatura na Netshoes"
 id: 1SrJBQj0iTYh4AdvmJQqIg
 status: PUBLISHED
 createdAt: 2022-05-11T19:45:30.831Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: orders-invoiced-at-vtex-but-that-dont-update-the-invoice-at-netshoes
+slugEN: pedidos-faturados-na-vtex-mas-que-nao-atualizam-a-fatura-na-netshoes
 locale: pt
 kiStatus: No Fix
 internalReference: 577219
@@ -18,7 +18,9 @@ internalReference: 577219
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Pedidos faturados na VTEX mas que não atualizam a fatura na Netshoes

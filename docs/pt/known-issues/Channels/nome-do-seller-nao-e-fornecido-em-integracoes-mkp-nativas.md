@@ -1,5 +1,5 @@
 ---
-title: 'O nome do vendedor não é fornecido em integrações mkp nativas'
+title: "O nome do vendedor não é fornecido em integrações mkp nativas"
 id: bPx7CPZEXecgMe2Sscg6k
 status: PUBLISHED
 createdAt: 2017-12-28T15:21:09.238Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: seller-name-is-not-provided-in-native-mkp-integrations
+slugEN: nome-do-seller-nao-e-fornecido-em-integracoes-mkp-nativas
 locale: pt
 kiStatus: Backlog
 internalReference: 

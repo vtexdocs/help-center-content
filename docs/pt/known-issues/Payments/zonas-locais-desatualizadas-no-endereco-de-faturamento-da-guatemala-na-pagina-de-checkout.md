@@ -1,5 +1,5 @@
 ---
-title: 'Zonas locais desatualizadas no endereço de faturamento da Guatemala na página de checkout'
+title: "Zonas locais desatualizadas no endereço de faturamento da Guatemala na página de checkout"
 id: 368AeP5GZQsYb0MU75XoZl
 status: PUBLISHED
 createdAt: 2022-04-17T20:50:08.677Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page
+slugEN: zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout
 locale: pt
 kiStatus: Fixed
 internalReference: 373603
@@ -18,7 +18,9 @@ internalReference: 373603
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes guatemaltecos informaram que o formulário de endereço para faturamento está desatualizado. A causa principal é algumas mudanças locais de zona. A atualização já foi implementada no endereço de embarque e precisa ser feita também no endereço de faturamento.

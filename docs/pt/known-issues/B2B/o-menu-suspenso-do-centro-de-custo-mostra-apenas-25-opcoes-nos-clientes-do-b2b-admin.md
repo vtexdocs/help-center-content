@@ -1,5 +1,5 @@
 ---
-title: 'O menu suspenso do centro de custo mostra apenas 25 opções nos clientes do B2B Admin'
+title: "O menu suspenso do centro de custo mostra apenas 25 opções nos clientes do B2B Admin"
 id: 1ynkpOppe8iqbwB3CF0euV
 status: PUBLISHED
 createdAt: 2023-10-17T23:11:29.713Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
+slugEN: o-menu-suspenso-do-centro-de-custo-mostra-apenas-25-opcoes-nos-clientes-do-b2b-admin
 locale: pt
 kiStatus: Fixed
 internalReference: 921115
@@ -18,7 +18,9 @@ internalReference: 921115
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao registrar um novo cliente usando o B2B Admin Customers, o menu suspenso do centro de custo mostra apenas 25 opções.

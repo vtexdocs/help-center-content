@@ -1,5 +1,5 @@
 ---
-title: "Solicitação incorreta ao pesquisar termos com '#' por meio do preenchimento automático"
+title: 'Solicitação incorreta ao pesquisar termos com "#" por meio do preenchimento automático'
 id: 18pMsxubB9eSPGlULAN35p
 status: PUBLISHED
 createdAt: 2024-02-06T20:07:52.739Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: bad-request-when-searching-terms-with-through-autocomplete
+slugEN: solicitacao-incorreta-ao-pesquisar-termos-com-por-meio-do-preenchimento-automatico
 locale: pt
 kiStatus: Backlog
 internalReference: 978136
@@ -18,7 +18,9 @@ internalReference: 978136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um termo com "#" diretamente por meio do preenchimento automático, a página nunca é carregada

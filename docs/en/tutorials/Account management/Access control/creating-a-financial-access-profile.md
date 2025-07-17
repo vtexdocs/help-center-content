@@ -3,8 +3,8 @@ title: 'Creating a financial role'
 id: 717qPtxW3Cy9n5KrReHeVv
 status: PUBLISHED
 createdAt: 2020-05-21T18:32:54.471Z
-updatedAt: 2024-11-22T14:20:19.022Z
-publishedAt: 2024-11-22T14:20:19.022Z
+updatedAt: 2025-06-09T16:18:00.156Z
+publishedAt: 2025-06-09T16:18:00.156Z
 firstPublishedAt: 2020-05-21T20:22:19.449Z
 contentType: tutorial
 productTeam: Billing
@@ -15,39 +15,34 @@ legacySlug: how-to-create-a-financial-access-profile
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-To [access invoices](https://help.vtex.com/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
+To [access invoices](/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
 
-There are two predefined financial [roles](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc): [Finance](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) and [Finance Full Access](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
+There are two predefined financial [roles](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc): [Finance](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) and [Finance Full Access](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
 
-## Creating a financial role
+## How to associate users with the financial access profile
 
-To create a financial role, follow the walkthrough below:
+You can associate a user with the existing **Finance** profile:
 
-1. Open the **Admin**.
-2. Access the **Account Management** module.
-3. Click on the **Roles** tab.
-4. Click on the **New Role** button.
-5. Select the **Finance** role.
-6. (Optional) Before saving, you can **add users to this role**.
-7. Click on **Save**.
+8. In VTEX Admin, click the logged-in user's initials in the top right corner.  
+9. Click  **Account settings**.  
+10.  Click **User Roles**.  
+11.  Click `New Role`.  
+12.  Select the **Finance** profile.  
+13.  Add users to this access profile.  
+14.  Click `Save`.
 
-![gif perfildeacessoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Access%20control/creating-a-financial-access-profile_1.gif)
+The financial access profile is now created and available to be associated with existing users.
 
-After you’ve created the financial role, you can associate it with your existing users.
+## How to associate users with the financial access profile
 
-## Associating users with the financial role
+You can associate a user with the existing **Finance** profile:
 
-To associate a user with the Finance role you’ve created, follow the steps below:
+1. In **VTEX Admin**, click your name in the top right corner.  
+2. Click **Account settings**.  
+3. Click **Users**.  
+4. Select the user you want to associate.  
+5. Click `Add profiles`.  
+6. Select the **Finance** profile and click `Add profiles`.  
+7. Click `Save`.
 
-1. Open the **Admin**.
-2. Access the **Account Management** module.
-3. Click on the **Users** tab.
-4. Select the user you want to associate with the role.
-5. Choose the **Financial role**.
-6. Click on the <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Access%20control/creating-a-financial-access-profile_3.png" /> button, next to the role, to add it.
-7. Click on **Save**.
-
-![gif usuárioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Access%20control/creating-a-financial-access-profile_2.gif)
-
-The selected user is now associated with the Financial role and will be able to access invoices, contract information, charges and other financial information.
-
+The selected user is now associated with the Financial access profile and will be able to access invoices, contract information, billing, and other financial data.

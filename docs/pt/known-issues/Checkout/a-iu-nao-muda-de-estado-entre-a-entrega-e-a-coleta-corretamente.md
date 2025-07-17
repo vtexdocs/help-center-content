@@ -1,5 +1,5 @@
 ---
-title: 'A IU não muda de estado entre a entrega e a coleta corretamente'
+title: "A IU não muda de estado entre a entrega e a coleta corretamente"
 id: 5gKsCV8Rh779FlzppablkP
 status: PUBLISHED
 createdAt: 2022-05-02T18:08:17.388Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-fails-to-change-state-between-delivery-and-collection-correctly
+slugEN: a-iu-nao-muda-de-estado-entre-a-entrega-e-a-coleta-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 526736
@@ -18,7 +18,9 @@ internalReference: 526736
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, quando o usuário muda o tipo de entrega entre a entrega e a retirada na caixa (importante estar na caixa e não no carrinho, embora isso provavelmente aconteça também no carrinho), o pedidoFormulário salva o estado de entrega em `logísticaInfo` quando o pickup é selecionado.

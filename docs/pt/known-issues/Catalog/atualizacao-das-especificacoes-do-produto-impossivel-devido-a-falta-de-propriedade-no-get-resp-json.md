@@ -1,5 +1,5 @@
 ---
-title: 'Atualização das especificações do produto Impossível devido à falta de propriedade no GET Resp. JSON'
+title: "Atualização das especificações do produto Impossível devido à falta de propriedade no GET Resp. JSON"
 id: 6FeuIyF2E5WdS0PNRRzgdA
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:06.720Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: updating-product-specifications-unviable-due-to-lacking-property-on-get-resp-json
+slugEN: atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json
 locale: pt
 kiStatus: No Fix
 internalReference: 301725
@@ -18,7 +18,9 @@ internalReference: 301725
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 A resposta da GET Product Specification JSON carece de uma propriedade essencial para atualizar as especificações pré-existentes, se assim for necessário pelo usuário.
 
@@ -28,13 +30,13 @@ A resposta da GET Product Specification JSON carece de uma propriedade essencial
 
 Neste exemplo, temos a seguinte resposta:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json_1.png)
+![](https://vtexhelp.zendesk.com/attachments/token/Wf7NUwNPNVp9HWS6cpyjKO1Ht/?name=inline-981699939.png)
 
 Note que posso obter o "Valor", "Id" e "nome" com este requisito. Esta é atualmente a única maneira de obter este tipo de dados via REST API.
 
 2) Eu usei o seguinte pedido para atualizar isto (depois de obter qual é o valor de campo e de campo, consultando a categoria APIs): https://merch.vtexcommercestable.com.br/api/catalog/pvt/product/17/specification?an=merch
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json_2.png)
+![](https://vtexhelp.zendesk.com/attachments/token/v7KbNJfqfW1t4Ccl82x6ZTzpo/?name=inline-2136871145.png)
 
 Observe que uma identificação única é devolvida na resposta, esta é a identificação da associação da especificação com o produto.
 
@@ -46,7 +48,7 @@ Esta questão é a abertura do reconhecimento deste problema e o acompanhamento 
 
 Use a exportação de especificação de catálogo (https://merch.myvtex.com/admin/Site/ProdutoExportacaoImportacaoEspecificacaoV2.aspx) para obter a ID de associação desejada:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json_3.png)
+![](https://vtexhelp.zendesk.com/attachments/token/f2mM8DIYgkgBGsNdDiBmE4dW6/?name=inline1262577879.png)
 
 OU
 

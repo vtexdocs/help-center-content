@@ -1,5 +1,5 @@
 ---
-title: 'Envio incorretoData de EnvioEstimativa para pedido FOB'
+title: "Envio incorretoData de EnvioEstimativa para pedido FOB"
 id: 3WLcrdw0tEdOvlMCYx9uyd
 status: PUBLISHED
 createdAt: 2023-01-05T20:26:07.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-shippingestimatedate-for-order-fob
+slugEN: envio-incorretodata-de-envioestimativa-para-pedido-fob
 locale: pt
 kiStatus: No Fix
 internalReference: 269104
@@ -18,7 +18,9 @@ internalReference: 269104
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

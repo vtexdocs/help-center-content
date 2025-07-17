@@ -1,5 +1,5 @@
 ---
-title: '[Amazon] Error in the update flow sku is not being logged into the bridge'
+title: "[Amazon] Error in the update flow sku is not being logged into the bridge"
 id: 1oBkaT6GWZfhB4t2Qpn6c0
 status: PUBLISHED
 createdAt: 2024-02-27T19:40:49.825Z
@@ -35,7 +35,7 @@ Error in the update flow sku isn't being logged into the bridge
 
 Admin > Marketplace > Products > Amazon
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/l7i4mRjrhA0eo5BWd92YCS46m/?name=image.png)
 
 
 ##

@@ -14,9 +14,9 @@ trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: instore-primeros-pasos-y-configuracion
 ---
 
-Después de realizar las [configuraciones básicas de inStore en el Admin](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.
+Después de realizar las [configuraciones básicas de inStore en el Admin](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.
 
-**Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
+**Tienda física** es una de las páginas de **Configuración de la tienda** del Admin VTEX que muestra una lista de tiendas físicas registradas en la aplicación [VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). En ella, puedes gestionar la información de todas las tiendas físicas de la cuenta.
 
 Esta página te permite realizar las siguientes acciones: 
 
@@ -25,7 +25,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda-física)
 * [Inativar](#inativar-tienda-física)
 
-![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-first-steps-and-configurations/agregar-nuevos-tiendas-al-instore_1.png)
+![loja-fisica-ES](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
 
 La página contiene la siguiente información:
 
@@ -35,8 +35,8 @@ La página contiene la siguiente información:
 | Teléfono comercial | Número de teléfono comercial de la tienda física.                                                                                                                                               |
 | Ciudad             | Ciudad donde se encuentra la tienda física.                                                                                                                                                 |
 | Estado             | Estado donde se encuentra la tienda física.                                                                                                                                                 |
-| Cuenta franquicia     | [Cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) onde a loja física está cadastrada.                                                       |
-| Política comercial | [Política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se aplica a la tienda física.                                              |
+| Cuenta franquicia     | [Cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) onde a loja física está cadastrada.                                                       |
+| Política comercial | [Política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se aplica a la tienda física.                                              |
 
 ## Crear tienda física
 
@@ -50,7 +50,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-first-steps-and-configurations/agregar-nuevos-tiendas-al-instore_2.png)
+![loja-fisica2-es](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
 
 #### Identificación
 
@@ -70,11 +70,13 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 #### Información técnica
 
-* **Cuenta de franquicia:** nombre de la [cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que se debe registrar la tienda física.
-* **Política comercial:** [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
-* **Punto de recogida:** [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
+* **Cuenta de franquicia:** nombre de la [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que se debe registrar la tienda física.
+* **Política comercial:** [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
+* **Punto de recogida:** [punto de recogida](/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
->ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
+<div class ="alert alert-info">
+<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
+</div>
 
 ## Buscar tienda física
 

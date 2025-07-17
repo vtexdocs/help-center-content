@@ -1,5 +1,5 @@
 ---
-title: 'A pré-venda da coleção de CMS herdada não está funcionando'
+title: "A pré-venda da coleção de CMS herdada não está funcionando"
 id: 1bRqhWCmtckyCbYf1SQa5N
 status: PUBLISHED
 createdAt: 2023-08-22T18:51:34.059Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: presales-of-the-legacy-cms-collection-is-not-working
+slugEN: a-prevenda-da-colecao-de-cms-herdada-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 885693
@@ -18,7 +18,9 @@ internalReference: 885693
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Esperava-se que, ao marcar a caixa de seleção de pré-venda, a coleção fosse preenchida com produtos cuja data de lançamento tivesse sido preenchida para uma data futura.

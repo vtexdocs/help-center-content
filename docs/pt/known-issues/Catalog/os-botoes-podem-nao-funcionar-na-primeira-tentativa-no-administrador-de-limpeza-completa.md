@@ -1,5 +1,5 @@
 ---
-title: 'Os botões podem não funcionar na primeira tentativa no administrador de limpeza completa'
+title: "Os botões podem não funcionar na primeira tentativa no administrador de limpeza completa"
 id: 4spOMbnKZPCcnQghKTP6Zb
 status: PUBLISHED
 createdAt: 2023-04-14T17:39:56.758Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: buttons-may-not-work-on-the-first-try-in-fullcleanup-admin
+slugEN: os-botoes-podem-nao-funcionar-na-primeira-tentativa-no-administrador-de-limpeza-completa
 locale: pt
 kiStatus: Backlog
 internalReference: 790828
@@ -18,7 +18,9 @@ internalReference: 790828
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No administrador do Fullcleanup, espera-se que os botões ajam na primeira tentativa. No entanto, para executar a ação, pode ser necessário clicar no botão várias vezes.

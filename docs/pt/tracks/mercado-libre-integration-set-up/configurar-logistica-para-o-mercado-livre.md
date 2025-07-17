@@ -23,7 +23,9 @@ Os modos de envio podem ser de dois tipos:
 - [Mercado Envios 1 (ME1)](#mercado-envios-1-me1)
 - [Mercado Envios (ME2)](#mercado-envios-2-me2)
 
->⚠️ Independente do modo de envio que sua loja utiliza, é necessário ter um SLA configurado na VTEX, caso contrário os pedidos realizados no Mercado Livre não serão integrados na plataforma da VTEX.
+<div class="alert alert-warning">
+  Independente do modo de envio que sua loja utiliza, é necessário ter um SLA configurado na VTEX, caso contrário os pedidos realizados no Mercado Livre não serão integrados na plataforma da VTEX.
+  </div>
 
 ## Mercado Envios 1 (ME1)
 
@@ -41,11 +43,11 @@ No ME1, a cotação do frete pode ser feita de duas formas:
 
 ### Planilha de frete
 
-O seller é responsável por enviar uma [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) no formato de excel para o seu consultor comercial do Mercado Livre. 
+O seller é responsável por enviar uma [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) no formato de excel para o seu consultor comercial do Mercado Livre. 
 
 ### Frete dinâmico
 
-Na VTEX, sellers configuram as opções e valores de frete por meio de [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). O frete dinâmico é uma configuração do Mercado Envios 1 (ME1) que tem a função de verificar em tempo real os melhores preços e condições de frete para os usuários, calculando a partir das informações cadastradas nas políticas de envio na VTEX. 
+Na VTEX, sellers configuram as opções e valores de frete por meio de [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140). O frete dinâmico é uma configuração do Mercado Envios 1 (ME1) que tem a função de verificar em tempo real os melhores preços e condições de frete para os usuários, calculando a partir das informações cadastradas nas políticas de envio na VTEX. 
 
 O Mercado Livre realiza simulações de frete em tempo real no momento do fechamento da compra, e quase que simultaneamente, a VTEX disponibiliza uma URL no qual o Mercado Livre fará a requisição para obter as informações de frete que serão exibidas na plataforma no momento da compra. 
 
@@ -69,7 +71,9 @@ Alguns tipos logísticos possuem a obrigatoriedade de envio de nota fiscal ou co
 - [Flex](#flex)
 - [Mercado Envios Full](#mercado-envios-full)
 
->ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [<i>atributo de produto</i>](https://help.vtex.com/pt/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
+<div class="alert alert-info">
+Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um <a href="https://help.vtex.com/pt/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk"><i>atributo de produto</i></a> com o nome <code>meli_shipping_mode</code>, onde estará preenchido se é ME1 ou ME2. 
+</div>
 
 ### Drop Off
 
@@ -109,24 +113,26 @@ A contratação do motoboy é de responsabilidade do seller e o entregador preci
 
 Todas as configurações são feitas dentro da plataforma do Mercado Livre.
 
->ℹ️ Essa modalidade só está disponível para pedidos feitos na mesma cidade do seller.
+<div class="alert alert-info">
+Essa modalidade só está disponível para pedidos feitos na mesma cidade do seller. 
+</div>
 
 ### Mercado Envios Full
 
 [Mercado Envios Full](https://envios.mercadolivre.com.br/mercado-envios-full) é um serviço oferecido pelo Mercado Livre no qual o estoque e o envio de produtos ao consumidor final fica sob responsabilidade do Mercado Livre. Cada vez que uma venda é completada, os produtos comprados são separados, empacotados e enviados dentro de 24hs.
 
-É possível configurar esse serviço na sua loja através do [cadastro de um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque) exclusivo para o  Mercado Envios Full. Essa configuração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Envios Full é atualizada automaticamente conforme a venda é realizada.
+É possível configurar esse serviço na sua loja através do [cadastro de um estoque](/pt/tutorial/gerenciar-estoque) exclusivo para o  Mercado Envios Full. Essa configuração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Envios Full é atualizada automaticamente conforme a venda é realizada.
 
->❗ Caso o seller escolha o modelo logístico **Mercado Envios Full**, é necessário seguir a seguinte ordem de configuração: [Configurar modelo de envio](#configurando-modelo-de-envio) 
->
-> [Configurar o Mercado Envios Full](#configurar-o-mercado-envios-full)</br>
+<div class="alert alert-danger">
+  Caso o seller escolha o modelo logístico <b>Mercado Envios Full</b>, é necessário seguir a seguinte ordem de configuração: <p><ol><a href="#configurando-modelo-de-envio">Configurar modelo de envio</a> <br><a href="#configurar-o-mercado-envios-full">Configurar o Mercado Envios Full</a></br></ol></p>
+  </div>
 
 #### Configurar o Mercado Envios Full
 
 Para configurar, siga os passos a seguir: 
 
 1. No Admin VTEX, acesse **Envio > Estratégia de Envio > Estoques**, ou digite *Estratégia de Envio* na barra de busca no topo da página e selecione a aba *Estoques*.     
-2. [Cadastre](https://help.vtex.com/pt/tutorial/gerenciar-estoque) um estoque.    
+2. [Cadastre](/pt/tutorial/gerenciar-estoque) um estoque.    
 3. Na aba **Estoques**, copie o ID do estoque que você criou.    
 4. Acesse **Marketplace > Marketplaces e Integrações**, ou digite *Marketplaces e Integrações* na barra de busca no topo da página.      
 5. Clique na integração do Mercado Livre e selecione a opção `Editar configuração`.    
@@ -137,13 +143,15 @@ Para configurar, siga os passos a seguir:
 
 Após definir qual modelo de envio será utilizado para a integração da sua loja com o Mercado Livre, é necessário configurar na integração se será utilizado o ME1 ou ME2. Para isso, você deve seguir os seguintes passos, **criar um campo customizável de produto** e **preenchê-lo**.
 
-Para criar um campo de produto, siga as instruções do tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106). 
+Para criar um campo de produto, siga as instruções do tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106). 
 
->⚠️ O nome do campo criado deve ser "meli_shipping_mode" e o valor do campo deve ser preenchido como "me1" ou "me2". Caso o nome do campo ou o preenchimento seja diferente, a integração não reconhecerá o atributo.
+<div class="alert alert-warning">
+O nome do campo criado deve ser "meli_shipping_mode" e o valor do campo deve ser preenchido como "me1" ou "me2". Caso o nome do campo ou o preenchimento seja diferente, a integração não reconhecerá o atributo.
+</div>
 
 ## Consultar as notas fiscais do Mercado Livre por API
 
-As notas fiscais dos pedidos [Mercado Envios Full](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-full) emitidas pelo Mercado Livre podem ser consultadas por meio de nossas chamadas de API. Para consultar a nota fiscal faturada pelo Mercado Livre para o pedido, você deverá utilizar a chamada de API [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder). 
+As notas fiscais dos pedidos [Mercado Envios Full](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-full) emitidas pelo Mercado Livre podem ser consultadas por meio de nossas chamadas de API. Para consultar a nota fiscal faturada pelo Mercado Livre para o pedido, você deverá utilizar a chamada de API [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder). 
 
 Para cada pedido podem ser emitidos dois tipos de notas fiscais: nota fiscal e nota fiscal simbólica (utilizada para itens retornados). Confira em quais campos do corpo da resposta da chamada de API você pode encontrar informações sobre as diferentes notas fiscais:
 

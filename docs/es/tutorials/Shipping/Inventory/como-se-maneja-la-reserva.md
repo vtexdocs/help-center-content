@@ -17,19 +17,23 @@ subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 
 La reserva es una solución VTEX que impide que el mismo ítem se venda más de una vez. Una vez finalizada la compra, el ítem comprado se resta del _stock_ disponible y pasa internamente al status **Reservado**.
 
->ℹ️ En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo [Almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) para obtener más información. 
-> <p>El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139) para obtener más información.
+<div class = "alert alert-info">
+En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a> para obtener más información. 
+<p>El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139">Gestión del stock</a> para obtener más información.
+</div>
 
 Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _de tu tienda:
 
-1. **[Reserva autorizada](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-autorizada)** tras la finalización de la compra.
-2. **[Reserva confirmada](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada)**: tras la aprobación del pago.
-3. **[Reserva reconocida](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega **en el módulo **Pedidos**.
-4. **[Dado de baja en el stock:](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#dado-de-baja-en-el-stock)** pedido en transporte para entrega.
+1. **[Reserva autorizada](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-autorizada)** tras la finalización de la compra.
+2. **[Reserva confirmada](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada)**: tras la aprobación del pago.
+3. **[Reserva reconocida](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega **en el módulo **Pedidos**.
+4. **[Dado de baja en el stock:](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#dado-de-baja-en-el-stock)** pedido en transporte para entrega.
 
-Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva)
+Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva)
 
->⚠️ El hecho de añadir productos al carrito no genera reserva ni prioridad. Un ítem solo pasa al status Reserva autorizada tras el cliente finalizar el pedido.
+<div class="alert alert-warning">
+El hecho de añadir productos al carrito no genera reserva ni prioridad. Un ítem solo pasa al status Reserva autorizada tras el cliente finalizar el pedido.
+</div>
 
 ## Reserva autorizada
 
@@ -39,13 +43,15 @@ El ítem permanece en este status durante un tiempo determinado, y si no se conf
 
 _plazo de vencimiento del pago + plazo de reserva en el stock_
 
-* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](https://help.vtex.com/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
+* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
 * **Plazo de reserva en el stock:** se establece automáticamente, siguiendo las reglas que se indican a continuación.
     * **cuatro días consecutivos**: cuando el día de vencimiento del pago sea domingo, lunes o martes.
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.
     * **seis días consecutivos:** cuando el día de vencimiento del pago sea sábado.
 
->❗ Los pedidos incompletos pueden tener un plazo de reserva de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294)
+<div class="alert alert-danger">
+Los pedidos incompletos pueden tener un plazo de reserva de 11 días consecutivos. Para saber más, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294">Cómo funcionan los pedidos incompletos.</a> 
+</div>
 
 Para el markeplace externo, si la información del tiempo de reserva se envía por el campo `lockTTL`, el tiempo de reserva no será calculado por la plataforma VTEX, es si determinado por la fecha límite en el campo. Esto se hace mediante el llamado [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 
@@ -64,7 +70,7 @@ La plataforma VTEX no resta automáticamente los ítems del _stock_. Los ítems 
 
 ## Reducción del stock
 
-Al dar de baja un ítem del _stock_ se actualiza la cantidad de ítems disponibles para la venta. Esta acción la debe realizar exclusivamente el administrador de la tienda o el ERP a través de la [gestión del inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o de la [API de actualización de inventario](https://developers.vtex.com/vtex-rest-api/reference/updateinventorybyskuandwarehouse).
+Al dar de baja un ítem del _stock_ se actualiza la cantidad de ítems disponibles para la venta. Esta acción la debe realizar exclusivamente el administrador de la tienda o el ERP a través de la [gestión del inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o de la [API de actualización de inventario](https://developers.vtex.com/vtex-rest-api/reference/updateinventorybyskuandwarehouse).
 
 VTEX no actualiza la cantidad de ítems que un SKU tiene a partir del historial de sus movimientos.
 
@@ -80,7 +86,9 @@ El inventario de una tienda tiene tres unidades de un ítem. Un cliente realiza 
 
 Cuando el administrador de la tienda o el ERP actualice la cantidad de ese ítem en el inventario, restando la cantidad vendida, la plataforma actualizará la cantidad de ítems disponibles a 2 unidades, lo cual puede interpretarse como una reducción del _stock_. En este caso, la plataforma tiene solo dos unidades de ese ítem en el inventario y ninguna unidad reservada.
 
->❗ Al confirmar el inicio de la preparación, el seller pasa a ser el responsable de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el inventario, la plataforma de VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el inventario de los SKU de un pedido determinado únicamente al momento de la facturación. De este modo, se evitan las diferencias de inventario que dependen de la interacción con la [integración del backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) de la tienda.
+<div class="alert alert-danger">
+Al confirmar el inicio de la preparación, el seller pasa a ser el responsable de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el inventario, la plataforma de VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el inventario de los SKU de un pedido determinado únicamente al momento de la facturación. De este modo, se evitan las diferencias de inventario que dependen de la interacción con la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración del backoffice</a> de la tienda.
+</div>
 
 ## Cómo seguir el status de la reserva
 
@@ -89,8 +97,10 @@ Cuando el administrador de la tienda o el ERP actualice la cantidad de ese ítem
 3. En la columna `Reservado`, haz clic en el número de color azul. Si no hay ningún número azul en esta columna, significa que este ítem no tiene unidades reservadas.
 4. Se abrirá una nueva ventana con el seguimiento de la reserva de los ítems del mismo SKU. En la columna `Status` puedes ver el status de la reserva.
 
-Como se ha descrito anteriormente, el status dado de baja en el stock resulta de la actualización del stock por parte del administrador de la tienda. Por lo tanto, no es posible ver este status en la plataforma. Solo puedes consultar la cantidad de ítems disponibles para la venta y el movimiento de los ítems a través de la [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139).
+Como se ha descrito anteriormente, el status dado de baja en el stock resulta de la actualización del stock por parte del administrador de la tienda. Por lo tanto, no es posible ver este status en la plataforma. Solo puedes consultar la cantidad de ítems disponibles para la venta y el movimiento de los ítems a través de la [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139).
 
->ℹ️ Todos los status aquí descritos son internos y exclusivos de VTEX para el control de la venta de los ítems.
-> <p>El status de la reserva es una consecuencia del status del pedido. Algunos cambios dependen de acciones de los compradores, y otros de actualizaciones manuales o del ERP.
+<div class = "alert alert-info">
+Todos los status aquí descritos son internos y exclusivos de VTEX para el control de la venta de los ítems.
+<p>El status de la reserva es una consecuencia del status del pedido. Algunos cambios dependen de acciones de los compradores, y otros de actualizaciones manuales o del ERP.
+</div>
 

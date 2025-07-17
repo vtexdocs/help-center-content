@@ -3,8 +3,8 @@ title: 'Google Analytics: FAQ'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z
-updatedAt: 2024-10-17T15:04:11.365Z
-publishedAt: 2024-10-17T15:04:11.365Z
+updatedAt: 2024-12-18T02:45:12.661Z
+publishedAt: 2024-12-18T02:45:12.661Z
 firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
@@ -18,7 +18,7 @@ subcategoryId: 1luKrYptdi8WoMYckakUaM
 Check below some of the most frequently asked questions about Google Analytics for VTEX stores.
 ## How to install Google Analytics in your store
 
-The installation is done via [Google Tag Manager](https://help.vtex.com/tutorial/integracao-com-o-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](https://help.vtex.com/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+The installation is done via [Google Tag Manager](/tutorial/integracao-com-o-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## Where does the data displayed in Google Analytics come from? What are Google tags?
 
@@ -49,7 +49,9 @@ As VTEX is responsible for processing transactions from your store, all of them 
 - Transaction tag triggers even with transactions that were not successfully completed.
 - Failed or duplicated display of the order confirmation page if the transaction tag is linked to the page display.
 
->ℹ️ Consider that there is also a delay of up to 48 hours in recording transaction data on Google Analytics.
+<div class = "alert alert-info">
+Consider that there is also a delay of up to 48 hours in recording transaction data on Google Analytics.
+</div>
 
 Also, integrations can be built in such a way that they end up not triggering certain tags on your storefront. For example, there are integrations that use a [payment app](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) and complete the purchase without redirecting the customer to the order confirmation page, such as the integration developed by AME Digital. Transactions will always be recorded in VTEX, but in this case, it is likely that they are not recorded in Google Analytics, generating divergence.
 
@@ -86,3 +88,8 @@ As the funnel views are based on different information, they may differ.
 
 You can configure another sales funnel on Google Analytics, which enables a customized view and better control of the buying journey. Check out this article on how to [set up the sales funnel on Google Analytics] (https://help.vtex.com/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
+## What is the Google Analytics sales funnel?
+
+**Google Analytics** targets serve to help you find out whether the objectives of your site are being fulfilled. The purpose of this article is to show how to set up a target, known as "Sales Funnel," on SmartCheckout. To know more about the targets, go to the conversion topic in the Help section of Google Analytics. 
+
+Once the sales funnel is set up, you can monitor and analyze the customer's steps until an order is finalized. To set up the sales funnel on SmartCheckout, let us take into account that the purchase process starts on your product screen, continues through the shopping cart and checkout (personal data, delivery and shipping, payment), and reaches the target, which is the order confirmation page. 

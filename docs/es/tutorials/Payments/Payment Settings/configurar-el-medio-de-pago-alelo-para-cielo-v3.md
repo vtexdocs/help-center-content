@@ -17,15 +17,17 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 En este artículo, explicaremos cómo habilitar el vale de alimentación Alelo como medio de pago en el Checkout.
 
->ℹ️ **Atención**: el vale de alimentación Alelo es un medio de pago aceptado apenas entre clientes brasileños.
+<div class="alert alert-info">
+<strong>Atención</strong>: el vale de alimentación Alelo es un medio de pago aceptado apenas entre clientes brasileños.
+</div>
 
-Actualmente, en VTEX, Cielo es el adquirente que acepta a Alelo como medio de pago. Por lo tanto, el primer paso es habilitar este adquirente como afiliación de gateway en su tienda. Puede consultar el tutorial completo sobre cómo hacer esta configuración [aquí](https://help.vtex.com/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=es "aquí"). 
+Actualmente, en VTEX, Cielo es el adquirente que acepta a Alelo como medio de pago. Por lo tanto, el primer paso es habilitar este adquirente como afiliación de gateway en su tienda. Puede consultar el tutorial completo sobre cómo hacer esta configuración [aquí](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=es "aquí"). 
 
 Luego, puede configurar la condición de pago de Alelo.
 
 Como toda condición de pago, la configuración de Alelo también permite incluir condiciones especiales. Sin embargo, estos criterios son opcionales y su ausencia no impide el buen funcionamiento del vale de alimentación. 
 
-Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456?locale=es "cómo configurar cada una de las condiciones especiales de pago"). 
+Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456?locale=es "cómo configurar cada una de las condiciones especiales de pago"). 
 
 Ahora, siga las instrucciones:
 
@@ -39,4 +41,6 @@ Ahora, siga las instrucciones:
 8. En el lado derecho de la pantalla, establezca las __condiciones especiales__ de pago.
 9. Haga clic en el botón azul __“Guardar”__ para terminar.
 
->ℹ️ **Atención**: recuerde que las condiciones especiales de pago tardan unos 10 minutos en aplicarse en el Checkout.
+<div class="alert alert-info">
+<strong>Atención</strong>: recuerde que las condiciones especiales de pago tardan unos 10 minutos en aplicarse en el Checkout.
+</div>

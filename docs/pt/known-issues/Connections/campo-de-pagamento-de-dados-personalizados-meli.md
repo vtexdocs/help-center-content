@@ -1,5 +1,5 @@
 ---
-title: 'Campo de pagamento de dados personalizados MELI'
+title: "Campo de pagamento de dados personalizados MELI"
 id: 7sSEVGgAVYPprYLcHoyQpI
 status: PUBLISHED
 createdAt: 2022-03-15T16:53:13.567Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-customdata-paymentfield
+slugEN: campo-de-pagamento-de-dados-personalizados-meli
 locale: pt
 kiStatus: Backlog
 internalReference: 542992
@@ -18,7 +18,9 @@ internalReference: 542992
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

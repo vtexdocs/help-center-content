@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones de envío que se aplican en distintos SLA provocan divergencias en el Tax Hub'
+title: "Las promociones de envío que se aplican en distintos SLA provocan divergencias en el Tax Hub"
 id: 3uI0b4FmXUh4uue5kFyFNy
 status: PUBLISHED
 createdAt: 2023-10-09T13:42:08.767Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-promotions-applying-in-different-slas-causing-divergence-in-tax-hub
+slugEN: las-promociones-de-envio-que-se-aplican-en-distintos-sla-provocan-divergencias-en-el-tax-hub
 locale: es
 kiStatus: Fixed
 internalReference: 916423
@@ -18,7 +18,9 @@ internalReference: 916423
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando las promociones de envío aplican para diferentes SLAs, siendo uno de ellos el envío gratuito, causa divergencia en la solicitud enviada por el Tax Hub, impidiendo que el pedido sea realizado.

@@ -1,5 +1,5 @@
 ---
-title: 'Pesquisar eventos duplicados do Analytics'
+title: "Pesquisar eventos duplicados do Analytics"
 id: 48h3ObR7qqRHvU36weCvjC
 status: PUBLISHED
 createdAt: 2023-03-15T19:40:23.229Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-analytics-duplicated-events
+slugEN: pesquisar-eventos-duplicados-do-analytics
 locale: pt
 kiStatus: Fixed
 internalReference: 771986
@@ -18,7 +18,9 @@ internalReference: 771986
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns eventos dos relatórios da Pesquisa Inteligente estão duplicados, o que pode afetar a exibição de análise no módulo de administração de pesquisa.

@@ -1,5 +1,5 @@
 ---
-title: 'Promotions microrounding divergence'
+title: "Promotions microrounding divergence"
 id: 603ZTMtdgi9olc6UiWLfmX
 status: PUBLISHED
 createdAt: 2023-12-22T18:48:32.438Z

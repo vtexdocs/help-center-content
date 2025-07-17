@@ -1,5 +1,5 @@
 ---
-title: 'La disponibilidad del producto se muestra incorrectamente en el modo de visualización de las recogidas en el carro'
+title: "La disponibilidad del producto se muestra incorrectamente en el modo de visualización de las recogidas en el carro"
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: product-availability-is-incorrectly-showed-in-the-pickups-in-cart-display-modal
+slugEN: la-disponibilidad-del-producto-se-muestra-incorrectamente-en-el-modo-de-visualizacion-de-las-recogidas-en-el-carro
 locale: es
 kiStatus: No Fix
 internalReference: 552875
@@ -18,7 +18,9 @@ internalReference: 552875
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

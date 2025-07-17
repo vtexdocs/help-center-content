@@ -1,5 +1,5 @@
 ---
-title: 'O editor do site não carrega blocos ao acessar a URL da rota de desembarque'
+title: "O editor do site não carrega blocos ao acessar a URL da rota de desembarque"
 id: 2d2GWj84pOy0ZQLbUWi5pY
 status: PUBLISHED
 createdAt: 2023-02-16T21:06:50.850Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-doesnt-load-blocks-when-accessing-the-landing-route-url
+slugEN: o-editor-do-site-nao-carrega-blocos-ao-acessar-a-url-da-rota-de-desembarque
 locale: pt
 kiStatus: Backlog
 internalReference: 755993
@@ -18,7 +18,9 @@ internalReference: 755993
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você tentar acessar uma página no editor do site usando a página de desembarque, ela não carrega os blocos, ela permanece com carga infinita. Por exemplo `https://.myvtex.com/admin/cms/site-editor/.`

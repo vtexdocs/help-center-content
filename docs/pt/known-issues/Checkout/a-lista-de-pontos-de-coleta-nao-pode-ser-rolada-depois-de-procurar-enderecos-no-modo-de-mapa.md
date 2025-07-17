@@ -1,5 +1,5 @@
 ---
-title: 'A lista de pontos de coleta não pode ser rolada depois de procurar endereços no modo de mapa'
+title: "A lista de pontos de coleta não pode ser rolada depois de procurar endereços no modo de mapa"
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-points-list-cant-be-scrolled-after-searching-addresses-in-map-mode
+slugEN: a-lista-de-pontos-de-coleta-nao-pode-ser-rolada-depois-de-procurar-enderecos-no-modo-de-mapa
 locale: pt
 kiStatus: No Fix
 internalReference: 624646
@@ -18,7 +18,9 @@ internalReference: 624646
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um ponto de coleta no carrinho ou checkout enquanto em um layout estreito/resposta ao retrato (largura inferior a 1024px) usando a visualização do mapa, os resultados serão apresentados no modo lista em vez do próprio mapa, e esta lista não funcionará (o usuário não pode rolar a lista para baixo).

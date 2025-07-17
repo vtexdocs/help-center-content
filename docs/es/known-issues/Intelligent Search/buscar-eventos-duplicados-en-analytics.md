@@ -1,5 +1,5 @@
 ---
-title: 'Buscar eventos duplicados en Analytics'
+title: "Buscar eventos duplicados en Analytics"
 id: 48h3ObR7qqRHvU36weCvjC
 status: PUBLISHED
 createdAt: 2023-03-15T19:40:23.229Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-analytics-duplicated-events
+slugEN: buscar-eventos-duplicados-en-analytics
 locale: es
 kiStatus: Fixed
 internalReference: 771986
@@ -18,7 +18,9 @@ internalReference: 771986
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos eventos de los informes de búsqueda inteligente están duplicados, lo que puede afectar a la vista de análisis del módulo de administración de búsqueda.

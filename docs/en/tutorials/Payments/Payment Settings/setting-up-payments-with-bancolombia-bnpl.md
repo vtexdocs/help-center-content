@@ -33,7 +33,7 @@ To configure Bancolombia BNPL, follow the steps below:
 3. Click on the __bancolombia-bnpl__ connector.
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
-6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click on `Save`.
 
 After following the indicated steps, Bancolombia BNPL may take up to 10 minutes to appear at your store's checkout as a payment option.

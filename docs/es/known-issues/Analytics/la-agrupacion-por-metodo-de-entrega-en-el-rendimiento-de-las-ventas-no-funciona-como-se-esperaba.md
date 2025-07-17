@@ -1,5 +1,5 @@
 ---
-title: ' La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba'
+title: "La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba"
 id: 8zHND5pzrt0mrIrb061Zq
 status: PUBLISHED
 createdAt: 2022-11-30T19:02:13.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slugEN: group-by-delivery-method-on-sales-performance-not-working-as-expected
+slugEN: la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba
 locale: es
 kiStatus: No Fix
 internalReference: 639294
@@ -18,12 +18,14 @@ internalReference: 639294
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se intenta agrupar por el método de entrega en el tablero de rendimiento de ventas, aparece un error:
 "No se pueden cargar los datos. Por favor, haga clic en el botón de abajo para volver a cargar la información".
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Analytics/la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/aT7lkza6qQLaDyFJvy5G0YYED/?name=image.png)
 
 ##
 

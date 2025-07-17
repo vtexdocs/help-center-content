@@ -1,5 +1,5 @@
 ---
-title: 'Problema con las API de sesión que utilizan propiedades públicas que empiezan por el mismo prefijo'
+title: "Problema con las API de sesión que utilizan propiedades públicas que empiezan por el mismo prefijo"
 id: RAoSKg2hwwiC6L7wFPyNv
 status: PUBLISHED
 createdAt: 2023-08-21T20:00:45.403Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: issue-with-session-apis-using-public-properties-beginning-with-the-same-prefix
+slugEN: problema-con-las-api-de-sesion-que-utilizan-propiedades-publicas-que-empiezan-por-el-mismo-prefijo
 locale: es
 kiStatus: Backlog
 internalReference: 885011
@@ -18,7 +18,9 @@ internalReference: 885011
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de sesión está generando algunas inconsistencias. El equipo de ingeniería ha identificado el fallo, el fallo está relacionado con propiedades que empiezan por la misma palabra.

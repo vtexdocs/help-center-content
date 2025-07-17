@@ -1,5 +1,5 @@
 ---
-title: '[Ajustar a especificação de texto_de_sinscrição'
+title: "[Ajustar a especificação de texto_de_sinscrição"
 id: 71sePdd6o3q9gvQ1I4JwZl
 status: PUBLISHED
 createdAt: 2023-02-14T19:15:17.763Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magazine-luiza-adjust-plaintextdescription-specification
+slugEN: ajustar-a-especificacao-de-textodesinscricao
 locale: pt
 kiStatus: Backlog
 internalReference: 754022
@@ -18,7 +18,9 @@ internalReference: 754022
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
@@ -36,7 +38,7 @@ _**Especificação:**_descrição_do_texto_de_chapa
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-especificacao-de-textodesinscricao_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/S0hpp0y3EGMv1tzgohvKWYzez/?name=image.png)
 
 
 ##

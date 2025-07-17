@@ -1,5 +1,5 @@
 ---
-title: 'Arranque en frío al publicar una aplicación'
+title: "Arranque en frío al publicar una aplicación"
 id: 556RKKBALrZk5bxwwflhr4
 status: PUBLISHED
 createdAt: 2024-08-29T13:26:21.683Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: cold-start-when-publishing-an-app
+slugEN: arranque-en-frio-al-publicar-una-aplicacion
 locale: es
 kiStatus: Backlog
 internalReference: 1088942
@@ -18,7 +18,9 @@ internalReference: 1088942
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando intentamos publicar una aplicación, este proceso puede fallar en el primer intento debido a un arranque en frío de la aplicación responsable.

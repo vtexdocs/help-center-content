@@ -1,5 +1,5 @@
 ---
-title: 'O ponto de coleta não pode ser selecionado em mercados com vendedores multiníveis'
+title: "O ponto de coleta não pode ser selecionado em mercados com vendedores multiníveis"
 id: 1DGiyBrbw9qXGVMhX3k5gs
 status: PUBLISHED
 createdAt: 2023-01-11T19:57:54.964Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-cant-be-selected-in-marketplaces-with-multilevel-sellers
+slugEN: o-ponto-de-coleta-nao-pode-ser-selecionado-em-mercados-com-vendedores-multiniveis
 locale: pt
 kiStatus: Backlog
 internalReference: 524073
@@ -18,7 +18,9 @@ internalReference: 524073
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um mercado com uma relação multinível (MOI), quando um ponto de coleta é selecionado, o mercado retorna um erro de comunicação com o vendedor, impedindo o uso de pontos de coleta no mercado junto com esses vendedores.

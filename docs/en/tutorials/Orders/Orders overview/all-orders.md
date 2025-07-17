@@ -15,7 +15,9 @@ legacySlug: order-listing-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
->ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **All Orders** page allows retailers to track their store's orders and extract information for intelligent business management. To access the page, go to your VTEX Admin menu and click **Orders > All Orders**. On this page, you can:
 
@@ -26,7 +28,7 @@ The **All Orders** page allows retailers to track their store's orders and extra
 
 The following sections provide more details about each page component and its actions.
 
-![Order Listing EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20overview/all-orders_1.gif)
+![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 
@@ -48,7 +50,7 @@ For order variation data, the colors indicate:
 
 The `Export` button is located in the upper right corner of the page. You can use it to export an order report via email. To export a report, on the **All Order** page, click the `Export` button. You will receive a file in `.csv` format for download by email. 
 
-The data in the file will be the content of the page at the time of export, including the filters applied. Learn more about each field in the report in [Order report](https://help.vtex.com/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+The data in the file will be the content of the page at the time of export, including the filters applied. Learn more about each field in the report in [Order report](/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
 
 ### Total orders
 
@@ -91,7 +93,7 @@ Filters change the orders displayed in the list and the metrics displayed in the
 * Status and situation  
 * Other  
 
-To learn more about all the filter options, read the article [Filtering orders on All Orders](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192).
+To learn more about all the filter options, read the article [Filtering orders on All Orders](/en/tutorial/como-filtrar-pedidos--tutorials_192).
 
 The filter selector allows you to apply more than one filter, with no limit to how many filters can be overlapped. When accumulating filters, you might reach a data set with no information, for example, if there are no incomplete orders with a delivery date in the next seven days. 
 
@@ -147,11 +149,11 @@ The retailer can track their sales in the order list. In the default view, all s
 * To change the sorting of all the data in the list, click on the name of the desired column.   
 * To change the sorting of data between ascending and descending, double click on the desired column.    
 
-By selecting an order from the list, you will be redirected to the [Order details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page.    
+By selecting an order from the list, you will be redirected to the [Order details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page.    
 
 Learn more about each column.
 
-* **Status:** indicates in which phase of the flow the order is. To learn more, read the article [Order flow and status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+* **Status:** indicates in which phase of the flow the order is. To learn more, read the article [Order flow and status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
 * **Order number:** identification number that the customer receives on the order confirmation screen and in transactional emails. This code must be used in communications between store and buyer.  
 * **Date:** date and time when the order was placed by the customer.  
 * **Customer:** first and last name of the natural or legal person who made the purchase.  
@@ -164,9 +166,9 @@ Learn more about each column.
 
 ## VTEX DO
 
-![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20overview/all-orders_2.gif)
+![VTEX Do overview EN](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
 
-[VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
+[VTEX DO](/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
 
 To access it, click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. Tasks managed through VTEX DO can include actions from all VTEX systems, such as reviewing payments, authorizing orders, or changing loading docks addresses.
 

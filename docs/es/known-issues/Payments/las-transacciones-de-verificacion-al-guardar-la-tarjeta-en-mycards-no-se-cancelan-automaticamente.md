@@ -1,5 +1,5 @@
 ---
-title: 'Las transacciones de verificación al guardar la tarjeta en MyCards no se cancelan automáticamente'
+title: "Las transacciones de verificación al guardar la tarjeta en MyCards no se cancelan automáticamente"
 id: 3VqRlcnzHqDEx7v1IIlBuf
 status: PUBLISHED
 createdAt: 2022-03-27T15:14:55.382Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: verification-transactions-when-saving-card-in-mycards-are-not-automatically-canceled
+slugEN: las-transacciones-de-verificacion-al-guardar-la-tarjeta-en-mycards-no-se-cancelan-automaticamente
 locale: es
 kiStatus: No Fix
 internalReference: 347084
@@ -18,7 +18,9 @@ internalReference: 347084
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se guarda una tarjeta en el módulo MyCards, se genera una transacción de verificación por un monto de R$ 1,50 que, después de seguir el flujo de autorización y aprobación, debe ser cancelada automáticamente. Esta transacción tiene el objetivo de validar que la tarjeta guardada es auténtica y que realiza las transacciones sin problemas.

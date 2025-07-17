@@ -1,5 +1,5 @@
 ---
-title: 'Logs do PCI não são mais exibidos na Linha do Tempo do Gerenciamento de Pedidos'
+title: "Logs do PCI não são mais exibidos na Linha do Tempo do Gerenciamento de Pedidos"
 id: 5le6E2NJ5KyuM4sioAW4uG
 status: PUBLISHED
 createdAt: 2018-02-02T14:54:07.191Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_84
 tag: Order Management
-slugEN: pci-logs-are-no-longer-displayed-on-the-orders-managment-timeline
+slugEN: logs-do-pci-nao-sao-mais-exibidos-na-linha-do-tempo-gerenciamento-de-pedidos
 locale: pt
 kiStatus: Fixed
 internalReference: 
@@ -24,7 +24,7 @@ Na linha do tempo, encontrada no detalhe do pedido (Gerenciamento de Pedidos), n
 
 - Selecione um pedido antigo (por exemplo, de junho de 2017).
 
-![pedido com log pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/logs-do-pci-nao-sao-mais-exibidos-na-linha-do-tempo-gerenciamento-de-pedidos_1.PNG)
+![pedido com log pci](//images.contentful.com/alneenqid6w5/1OflzCTMYcQwkgcWUCkwIC/6a4dc455400128870cd4790fa3ff3372/com_log.PNG)
 
 - Compare-o com um pedido atual.
 - Veja que não aparecerão as informações do PCI sobre Antifraude, que mostramos como exemplo.

@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario utiliza el SLA incorrecto cuando se seleccionan vendedores diferentes para la entrega y la recogida.'
+title: "La interfaz de usuario utiliza el SLA incorrecto cuando se seleccionan vendedores diferentes para la entrega y la recogida."
 id: 1FidTQU7qfHsuJLUbPTe7w
 status: PUBLISHED
 createdAt: 2023-04-25T21:52:00.104Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-uses-the-wrong-sla-when-different-sellers-is-selected-for-delivery-and-pickup
+slugEN: la-interfaz-de-usuario-utiliza-el-sla-incorrecto-cuando-se-seleccionan-vendedores-diferentes-para-la-entrega-y-la-recogida
 locale: es
 kiStatus: Backlog
 internalReference: 797023
@@ -18,7 +18,9 @@ internalReference: 797023
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se pueden seleccionar diferentes marcas blancas de vendedor para entregar los productos cuando se utilizan diferentes direcciones para la entrega y la recogida. La interfaz de usuario tiene en cuenta el ANS incorrecto al cambiar entre entrega y recogida.

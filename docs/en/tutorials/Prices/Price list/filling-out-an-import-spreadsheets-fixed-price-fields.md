@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 For a better understanding of what each fixed price spreadsheet field means, read the full description below.
 
-![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/filling-out-an-import-spreadsheets-fixed-price-fields_1.png)
+![tabela.preço.fixo](https://images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
 
 - **SKU ID:** the ID of the SKU to which you want to add the fixed price.
 - **Trade policy:** the name or ID of the trade policy to which the fixed price will be applied.
@@ -34,4 +34,4 @@ The next spreadsheet fields are optional, being used only to make SKU identifica
 - **Ref ID (View Only):** unique reference code, usually created by a store's internal systems, that facilitates the catalog's product organization.
 - **EAN (View Only):** SKU's identification code (barcode).
 
->⚠️ Imported price spreadsheets have a size limit of 1 MB. If your current spreadsheet exceeds that limit, we recommend dividing it into multiple files, **making sure that prices that refer to the same SKU are kept together**.
+<div class="alert alert-warning">Imported price spreadsheets have a size limit of 1 MB. If your current spreadsheet exceeds that limit, we recommend dividing it into multiple files, <strong>making sure that prices that refer to the same SKU are kept together</strong>.</div>

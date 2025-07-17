@@ -1,5 +1,5 @@
 ---
-title: 'El botón de guardar de CampoValorForm.aspx requiere dos clics'
+title: "El botón de guardar de CampoValorForm.aspx requiere dos clics"
 id: G0YtmOpdB4nNdw8w87ZNz
 status: PUBLISHED
 createdAt: 2022-02-16T13:28:52.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: campovalorformaspx-save-button-requires-two-clicks
+slugEN: el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics
 locale: es
 kiStatus: No Fix
 internalReference: 525616
@@ -18,13 +18,15 @@ internalReference: 525616
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
 Actualmente, al acceder a la interfaz de usuario de la página del catálogo para guardar los valores de las especificaciones (https://myaccount.myvtex.com/admin/Site/CampoValor.aspx), el botón de guardar sólo funciona cuando se hace clic dos veces, lo que podría, en el caso de las conexiones de Internet más lentas, inducir a error al usuario de que los datos no se guardan.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4GJaTvjIaioudlMMG1RKKIS0J/?name=inline-576344148.png)
 
 
 

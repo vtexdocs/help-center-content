@@ -1,5 +1,5 @@
 ---
-title: 'El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible.'
+title: "El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible."
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: quantityselector-on-stepper-mode-doesnt-refresh-after-reaching-max-available-qunatity
+slugEN: el-selector-de-cantidad-en-modo-paso-a-paso-no-se-actualiza-despues-de-alcanzar-la-maxima-cantidad-disponible
 locale: es
 kiStatus: No Fix
 internalReference: 704458
@@ -18,7 +18,9 @@ internalReference: 704458
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si alcanzas la cantidad disponible del producto haciendo clic más de una vez, el componente tarda demasiado en avisarte y ni siquiera actualiza el selector de cantidad con la cantidad máxima disponible.

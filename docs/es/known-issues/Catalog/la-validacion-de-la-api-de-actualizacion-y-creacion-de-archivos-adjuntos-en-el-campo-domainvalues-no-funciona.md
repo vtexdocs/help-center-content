@@ -1,5 +1,5 @@
 ---
-title: 'La validación de la API de actualización y creación de archivos adjuntos en el campo DomainValues no funciona.'
+title: "La validación de la API de actualización y creación de archivos adjuntos en el campo DomainValues no funciona."
 id: 1NAwwi7C65xM2G61uaTLrB
 status: PUBLISHED
 createdAt: 2023-02-09T16:10:03.814Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
+slugEN: la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona
 locale: es
 kiStatus: No Fix
 internalReference: 751091
@@ -18,11 +18,13 @@ internalReference: 751091
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A través de la interfaz de usuario (directamente en VTEX admin) es posible crear un archivo adjunto sin el campo **Valores permitidos** lleno:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/8rFw6593yoVr64CViajezsXW0/?name=image.png)
 
 Sin embargo, a través de la API existe esta validación para este campo:
 

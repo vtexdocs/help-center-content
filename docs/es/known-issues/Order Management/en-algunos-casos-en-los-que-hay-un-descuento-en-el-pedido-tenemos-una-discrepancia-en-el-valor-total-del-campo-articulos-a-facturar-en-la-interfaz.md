@@ -1,5 +1,5 @@
 ---
-title: 'En algunos casos en los que hay un descuento en el pedido, tenemos una discrepancia en el valor total del campo Artículos a facturar en la interfaz de usuario del pedido.'
+title: "En algunos casos en los que hay un descuento en el pedido, tenemos una discrepancia en el valor total del campo Artículos a facturar en la interfaz de usuario del pedido."
 id: 20xiOKxpvdCODmDJDKunST
 status: PUBLISHED
 createdAt: 2024-05-06T20:17:01.162Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: in-some-cases-where-there-is-a-discount-on-the-order-we-have-a-discrepancy-in-the-total-value-of-the-items-to-invoice-field-in-the-order-ui
+slugEN: en-algunos-casos-en-los-que-hay-un-descuento-en-el-pedido-tenemos-una-discrepancia-en-el-valor-total-del-campo-articulos-a-facturar-en-la-interfaz-de-usuario-del-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 1028210
@@ -18,7 +18,9 @@ internalReference: 1028210
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se ha detectado que en algunos pedidos en los que existe un descuento asociado a uno o varios artículos, podemos tener una discrepancia en el valor total del campo "artículos a facturar" en la interfaz de usuario del pedido, ya que el cálculo de este campo tiene en cuenta el parámetro "precioVenta", en lugar del parámetro "precioDefiniciones". Por lo tanto, es posible notar diferencias de 0,01 o un poco más del valor total del pedido.

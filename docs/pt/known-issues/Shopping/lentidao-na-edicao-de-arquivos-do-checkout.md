@@ -1,5 +1,5 @@
 ---
-title: 'Lentidão na edição de arquivos do Checkout'
+title: "Lentidão na edição de arquivos do Checkout"
 id: 4uKQzzpNfbYLKZdhTW4f0O
 status: PUBLISHED
 createdAt: 2019-09-16T17:25:55.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delay-when-editing-checkout-files
+slugEN: lentidao-na-edicao-de-arquivos-do-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 

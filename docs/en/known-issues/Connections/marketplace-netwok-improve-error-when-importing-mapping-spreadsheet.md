@@ -1,5 +1,5 @@
 ---
-title: '[Marketplace Netwok] Improve error when importing mapping spreadsheet'
+title: "[Marketplace Netwok] Improve error when importing mapping spreadsheet"
 id: 5NufvGc6LuQeDjyqLMDpt8
 status: PUBLISHED
 createdAt: 2024-10-31T19:58:20.384Z
@@ -28,7 +28,7 @@ When trying to import a spreadsheet, the user receives a generic error, such as:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/marketplace-netwok-improve-error-when-importing-mapping-spreadsheet_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ocxWNQ2WYbzEeXm0E3mVqrXPu/?name=image.png)
 
 
 ##

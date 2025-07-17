@@ -28,7 +28,7 @@ La nueva interfaz de **Productos y SKUs** permite:
 - Monitorear el status de los productos y SKU de forma más directa y visual con iconos y status de SKU directamente en la lista.
 - Identificar más fácilmente los productos y SKU que tengan información pendiente para estar disponibles para la venta mediante el nuevo status **Pendiente**.
 
-![catalog-products-skus-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-04-10-nuevo-diseno-de-la-pagina-productos-y-sku_1.png)
+![catalog-products-skus-es](https://images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/2978ab303cb7eba7b77ad22caa620a49/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_29_13_1.png)
 
 ## ¿Por qué realizamos este cambio?
 
@@ -36,4 +36,4 @@ Optimizamos la página **Productos y SKUs** para garantizar una experiencia más
 
 ## ¿Cómo obtener acceso?
 
-La actualización se aplicará automáticamente en todas las tiendas. Para obtener acceso anticipado al nuevo diseño de la página **Productos y SKUs**, debe comunicarse con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests). Puedes ver más detalles sobre cómo aprovechar la página optimizada en el artículo [Productos y SKUs (Beta)](https://help.vtex.com/es/tutorial/produtos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).
+La actualización se aplicará automáticamente en todas las tiendas. Para obtener acceso anticipado al nuevo diseño de la página **Productos y SKUs**, debe comunicarse con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests). Puedes ver más detalles sobre cómo aprovechar la página optimizada en el artículo [Productos y SKUs (Beta)](/es/tutorial/produtos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).

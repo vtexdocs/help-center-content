@@ -1,5 +1,5 @@
 ---
-title: 'Pricing API Allows Negative Values'
+title: "Pricing API Allows Negative Values"
 id: 64gkWnDs5pvv8Ny1TJtTI0
 status: PUBLISHED
 createdAt: 2023-03-20T20:09:54.998Z
@@ -44,7 +44,7 @@ Set the following price:
 
 The response will be:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/pricing-api-allows-negative-values_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/P3rVVQbx6nfqtX2W1UMAbb0V8/?name=image.png)
 
 Which breaks the pricing logic and makes the product unavailable, since the checkout and catalog applications aren't able to deal with negative price values.
 

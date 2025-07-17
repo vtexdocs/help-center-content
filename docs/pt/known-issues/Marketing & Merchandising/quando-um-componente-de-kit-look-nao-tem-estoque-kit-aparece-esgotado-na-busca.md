@@ -1,5 +1,5 @@
 ---
-title: 'Quando um componente de kit look não tem estoque, kit aparece esgotado na busca'
+title: "Quando um componente de kit look não tem estoque, kit aparece esgotado na busca"
 id: 5PRtTKk1HyGkKciOussWEI
 status: PUBLISHED
 createdAt: 2017-03-29T23:44:56.615Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: when-a-component-of-the-kit-look-is-out-of-stock-the-kit-is-shown-as-sold-out-on-searching
+slugEN: quando-um-componente-de-kit-look-nao-tem-estoque-kit-aparece-esgotado-na-busca
 locale: pt
 kiStatus: Backlog
 internalReference: 

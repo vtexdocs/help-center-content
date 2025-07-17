@@ -17,9 +17,9 @@ announcementSynopsisPT: 'Lançamos quatro novas funcionalidades para acelerar su
 
 Em 2022, a VTEX vem investindo em soluções que ajudam nossos clientes a maximizar a rentabilidade do seu ecommerce e atender as expectativas dos consumidores no cenário pós pandemia. 
 
-Ao adotar uma [arquitetura de marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), lojistas podem adaptar seu negócio às tendências recentes de consumo, diminuindo custos ao expandir o sortimento de produtos e impulsionando o aumento de receita incremental.
+Ao adotar uma [arquitetura de marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), lojistas podem adaptar seu negócio às tendências recentes de consumo, diminuindo custos ao expandir o sortimento de produtos e impulsionando o aumento de receita incremental.
 
-Para possibilitar essa estratégia, estamos disponibilizando novas funcionalidades que permitem aos lojistas lançar e gerenciar operações de marketplace de forma escalável: [Seller Portal](https://help.vtex.com/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Gestão de Sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Convite de Sellers](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) e [Gerenciamento de Anúncios](https://help.vtex.com/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+Para possibilitar essa estratégia, estamos disponibilizando novas funcionalidades que permitem aos lojistas lançar e gerenciar operações de marketplace de forma escalável: [Seller Portal](/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Gestão de Sellers](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Convite de Sellers](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) e [Gerenciamento de Anúncios](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 Com nossas novas funcionalidades, marketplaces podem:
 
@@ -29,7 +29,7 @@ Com nossas novas funcionalidades, marketplaces podem:
 
 Vá além do ecommerce tradicional com as [novidades de Marketplace da VTEX](https://content.vtex.com/pt-br/2022-marketplace-release/?utm_source=announcement&utm_medium=organic&utm_campaign=2022_marketplace_release). 
 
-![capa de blog marketplace 2022](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_1.png)
+![capa de blog marketplace 2022](https://images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/a84a5eb1e72967e9365c6334d33ab1c1/capa_de_blog.png)
 
 ## O que estamos lançando?
 
@@ -78,9 +78,9 @@ Saiba mais sobre cada funcionalidade a seguir.
 
 ### Seller Portal 
 
-![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_2.gif)
+![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
-O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
+O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -119,16 +119,16 @@ Disponibilizamos a [Catalog API - Seller Portal](https://developers.vtex.com/doc
 
 #### Convite de sellers
 
-Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a página [Sellers Convidados](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), onde operadores de marketplace convidam sellers para se integrarem ao seu marketplace. A página permite convidar dois tipos de lojas:
+Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a página [Sellers Convidados](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), onde operadores de marketplace convidam sellers para se integrarem ao seu marketplace. A página permite convidar dois tipos de lojas:
 
 * **Lojas já hospedadas na VTEX:** podem conectar sua conta VTEX como novo seller do marketplace.
 * **Lojas que ainda não possuem conta na VTEX:** sellers que já estavam hospedados em outras plataformas ou que ainda não estão inseridos em nenhuma plataforma de comércio digital podem criar uma conta no Seller Portal da VTEX.
 
 ### Gestão de sellers
 
-![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_3.gif)
+![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
-Lançamos a experiência renovada da página [Gestão de Sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), onde operadores de marketplace [adicionam sellers](https://help.vtex.com/pt/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registram suas respectivas informações e administram o status de cada seller. 
+Lançamos a experiência renovada da página [Gestão de Sellers](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), onde operadores de marketplace [adicionam sellers](/pt/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registram suas respectivas informações e administram o status de cada seller. 
 
 A página inclui:
 
@@ -137,17 +137,17 @@ A página inclui:
 * Métricas sobre anúncios pendentes dos sellers.
 * Opção de adicionar sellers a grupos criados pelo próprio marketplace, facilitando o gerenciamento de múltiplos sellers de uma forma mais eficiente e escalável.
 
-_Esta página segue o novo Design System da VTEX, com um visual mais limpo, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](https://help.vtex.com/pt/v4)._
+_Esta página segue o novo Design System da VTEX, com um visual mais limpo, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](/pt/v4)._
 
 ### Gerenciamento de anúncios
 
-![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_4.gif)
+![Offer Management gif](https://images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
 
-A eficiência e atuação estratégica de um seller depende da sua visibilidade sobre o envio dos anúncios ao marketplace, além da identificação e correção de erros durante o envio. Para facilitar esse processo, lançamos a funcionalidade [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+A eficiência e atuação estratégica de um seller depende da sua visibilidade sobre o envio dos anúncios ao marketplace, além da identificação e correção de erros durante o envio. Para facilitar esse processo, lançamos a funcionalidade [Gerenciamento de anúncios](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 Até então, para os sellers obterem informações sobre anúncios em marketplaces, era necessário recorrer a três páginas diferentes do Admin VTEX: _Produto, Preço_ e _Estoque_, em _Marketplace > Integrações._ Além disso, identificar e corrigir erros no envio de anúncios era pouco intuitivo.
 
-A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simples e facilmente resolver erros de envio e sincronização de produtos. Ela está disponível para produtos enviados ao [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX.
+A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simples e facilmente resolver erros de envio e sincronização de produtos. Ela está disponível para produtos enviados ao [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX.
 
  Agora, em uma página só, sellers podem:
 
@@ -155,7 +155,7 @@ A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simpl
 * Identificar e resolver erros no envio e sincronização de anúncios de forma rápida.
 * Realizar buscas com diversos filtros.
 * Exportar planilhas com listas de anúncios.
-* Investigar de forma granular as [interações](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) dos anúncios com cada sistema envolvido.
+* Investigar de forma granular as [interações](/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) dos anúncios com cada sistema envolvido.
 
 A funcionalidade **Gerenciamento de anúncios** é voltada apenas para o uso de sellers, mas também traz benefícios para o operador de marketplace, que passa a oferecer uma experiência melhor para seus sellers e garante um envio de produtos mais rápido.
 
@@ -237,7 +237,7 @@ Confira nas tabelas abaixo o que deve ser feito para marketplaces e sellers come
 
 ## Saiba mais
 
-- [Seller Portal](https://help.vtex.com/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
-- [Gerenciamento de anúncios](https://help.vtex.com/pt/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
-- [Gerenciamento de sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
+- [Seller Portal](/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
+- [Gerenciamento de anúncios](/pt/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
+- [Gerenciamento de sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
 

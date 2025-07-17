@@ -1,5 +1,5 @@
 ---
-title: 'Configuração de SMS no módulo de Central de mensagens retorna erro'
+title: "Configuração de SMS no módulo de Central de mensagens retorna erro"
 id: 4OlzNBkOfFqHxX8WTGjH4O
 status: PUBLISHED
 createdAt: 2019-05-08T18:01:12.389Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Message Center
-slugEN: sms-configuration-in-message-centre-module-returns-an-error
+slugEN: configuracao-de-sms-no-modulo-de-central-de-mensagens-retorna-erro
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -22,7 +22,9 @@ Ao configurar o envio de SMS pelo módulo de Central de mensagens, a UI devolve 
 
 ## Simulação
 
->ℹ️ É necessario ter a APP da movile instalada para simular o erro.
+<div class="alert alert-info">
+É necessario ter a APP da movile instalada para simular o erro.
+</div>
  
  1. Entrar no modulo de Central de mensagens; 
  2. Selecionar a opção MOVILE SMS;

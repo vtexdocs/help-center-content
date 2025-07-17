@@ -1,5 +1,5 @@
 ---
-title: "Installments dropdown on checkout UI is 'loose' when scrolling the screen"
+title: 'Installments dropdown on checkout UI is "loose" when scrolling the screen'
 id: 0bbx1aDD7qw3DmaeMOebp
 status: PUBLISHED
 createdAt: 2022-03-10T20:07:05.251Z

@@ -1,5 +1,5 @@
 ---
-title: 'La función Feed Hook Indexing omite eventos en los filtros FromOrders'
+title: "La función Feed Hook Indexing omite eventos en los filtros FromOrders"
 id: 6wpHloVS4KnH1TN5S5ySN2
 status: PUBLISHED
 createdAt: 2023-05-25T20:23:18.818Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: feed-hook-indexing-feature-skipping-events-in-fromorders-filters
+slugEN: la-funcion-feed-hook-indexing-omite-eventos-en-los-filtros-fromorders
 locale: es
 kiStatus: Backlog
 internalReference: 832400
@@ -18,7 +18,9 @@ internalReference: 832400
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al configurar el filtro Feed/Hook, se define qué actualizaciones de pedidos deben mostrarse en el feed. Se pueden utilizar dos tipos de filtros en el feed: FromWorkflow y FromOrders.

@@ -15,7 +15,7 @@ legacySlug: gerenciamento-de-cotacoes-no-b2b
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
 
-O aplicativo **Cotações B2B** permite que clientes que utilizam o aplicativo [Organizações B2B](https://help.vtex.com/pt/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) solicitem cotações para seus carrinhos de compras e os salvem para uso futuro, incluindo itens, quantidades e preços. Isso facilita as negociações de preços com os representantes de vendas da loja e os fluxos de aprovação de pedidos dentro da organização.
+O aplicativo **Cotações B2B** permite que clientes que utilizam o aplicativo [Organizações B2B](/pt/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) solicitem cotações para seus carrinhos de compras e os salvem para uso futuro, incluindo itens, quantidades e preços. Isso facilita as negociações de preços com os representantes de vendas da loja e os fluxos de aprovação de pedidos dentro da organização.
 
 Confira neste artigo como gerenciar cotações:
 
@@ -75,7 +75,7 @@ A lista de cotações e carrinhos salvos exibe as seguintes informações:
 
 Os usuários podem clicar em qualquer linha ou nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e, em seguida, clique em Detalhes para visualizar e editar os informações de uma cotação, conforme suas permissões.
 
-![Minhas cotações - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Quotes/gerenciamento-de-cotacoes-no-b2b_1.png)
+![Minhas cotações - PT](https://images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/edc53f41d4d3bb19b3d85a44d9914fa0/Minhas_cota__es.png)
 
 ## Criar uma cotação ou salvando um carrinho
 Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#permissoes-de-acesso) de [Criar Cotações e Carrinhos](#criar-cotações-e-carrinhos). Após adicionar produtos ao carrinho na loja, use o conteúdo do carrinho para criar um carrinho salvo ou solicitar uma cotação. Siga as instruções abaixo:
@@ -113,7 +113,9 @@ Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#pe
    </li>
    <li>Escreva uma nota no campo <strong>Adicionar Observação</strong>, se necessário.</li>
 </ol>
->ℹ️ Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo e podem ser vistas por vendedores ou outros membros da sua organização e centro de custo. Por exemplo, se um usuário desejar solicitar um desconto específico ao vendedor da loja B2B, ele pode incluir esse pedido como uma nota.
+<div class = "alert alert-info">
+   Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo e podem ser vistas por vendedores ou outros membros da sua organização e centro de custo. Por exemplo, se um usuário desejar solicitar um desconto específico ao vendedor da loja B2B, ele pode incluir esse pedido como uma nota.
+</div>
 <ol start="8">
    <li>
       Clique em uma das seguintes opções:
@@ -130,7 +132,7 @@ Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#pe
 
 Uma cotação é essencialmente um carrinho salvo, com as quantidades e preços originais dos itens do carrinho de compras do usuário.
 
-![Crie uma cotação - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Quotes/gerenciamento-de-cotacoes-no-b2b_2.png)
+![Crie uma cotação - PT](https://images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/ed751df8db50d8cdfdf2a398800a4821/Crie_uma_cota__o.png)
 
 ## Detalhes da cotação
 A página de Detalhes da Cotação exibe todas as informações sobre uma cotação ou carrinho salvo, além das ações disponíveis conforme o status e as [permissões do usuário](#permissoes-de-acesso). Para acessar esta página, vá em Minha Conta > Cotações e Carrinhos Salvos.
@@ -153,7 +155,7 @@ Nesta página, você verá as seguintes informações:
 - **Histórico de Atualizações:** inclui um histórico de todos os eventos relacionados à cotação, como sua criação e descontos oferecidos, incluindo notas, se houver.
 - **Adicionar observação:** campo opcional para escrever comentários ou notas. Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo. Por exemplo, se um usuário desejar solicitar um desconto específico ao seu vendedor, ele pode incluir esse pedido como uma nota.
 
-![Detalhes da cotação - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/B2B%20Quotes/gerenciamento-de-cotacoes-no-b2b_3.png)
+![Detalhes da cotação - PT](https://images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/8285290b14999ec2d42790e54088319d/Detalhes_da_cota__o.png)
 
 ## Editar uma cotação
 Usuários com [permissões](#permissoes-de-acesso) de edição, geralmente associados a papéis de Vendas ou Administrador da Loja, podem editar cotações na página de Detalhes da Cotação da seguinte forma:
@@ -178,7 +180,9 @@ Usuários com [permissão](#permissoes-de-acesso) para fazer **Pedidos** a parti
 
 Para usar a cotação, clique em `Usar Cotação` na página de detalhes da cotação. Você será redirecionado para a finalização da compra, com o conteúdo da cotação ou do carrinho salvo adicionado ao seu carrinho atual. Qualquer item que estivesse anteriormente no seu carrinho será removido.
 
->⚠️ Se o aplicativo de Configurações de [Checkout B2B](https://help.vtex.com/pt/tutorial/configuracoes-de-checkout-no-b2b--u7wG1SjmeCqXCSF2UsVok) estiver instalado, o checkout ficará bloqueado até que você realize o pedido. Isso significa que você não poderá alterar as quantidades dos produtos nem adicionar ou remover novos produtos. Caso não haja itens suficientes em estoque para atender à quantidade especificada na cotação ou no carrinho salvo, o sistema ajustará automaticamente a quantidade. Se um produto não estiver disponível, o checkout permitirá que você o remova do carrinho.
+<div class="alert alert-warning">
+Se o aplicativo de Configurações de <a href="https://help.vtex.com/pt/tutorial/configuracoes-de-checkout-no-b2b--u7wG1SjmeCqXCSF2UsVok">Checkout B2B</a> estiver instalado, o checkout ficará bloqueado até que você realize o pedido. Isso significa que você não poderá alterar as quantidades dos produtos nem adicionar ou remover novos produtos. Caso não haja itens suficientes em estoque para atender à quantidade especificada na cotação ou no carrinho salvo, o sistema ajustará automaticamente a quantidade. Se um produto não estiver disponível, o checkout permitirá que você o remova do carrinho.
+</div>
 
 Após realizar o pedido, o status da cotação ou do carrinho salvo mudará automaticamente para **Realizado**, impedindo seu uso posterior.
 

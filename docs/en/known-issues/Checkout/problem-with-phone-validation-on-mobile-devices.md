@@ -1,5 +1,5 @@
 ---
-title: 'Problem with phone validation on mobile devices'
+title: "Problem with phone validation on mobile devices"
 id: 2KpjpNZEbAZ7PFFPvMvwNA
 status: PUBLISHED
 createdAt: 2024-01-12T14:24:34.604Z

@@ -1,5 +1,5 @@
 ---
-title: 'La fecha de inicio de las Colecciones no funciona'
+title: "La fecha de inicio de las Colecciones no funciona"
 id: 3G6rD1JIm5BaZhFkFrdvok
 status: PUBLISHED
 createdAt: 2022-10-28T18:07:53.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-schedule-start-date-not-working
+slugEN: la-fecha-de-inicio-de-las-colecciones-no-funciona
 locale: es
 kiStatus: Fixed
 internalReference: 667328
@@ -18,7 +18,9 @@ internalReference: 667328
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se alcanza la fecha de inicio de una colección programada, el proceso de reindexación de los productos en ella no se activa, es decir, la programación de la fecha de inicio no funciona en su totalidad. En consecuencia, los productos no se indexan en la colección en la fecha configurada.

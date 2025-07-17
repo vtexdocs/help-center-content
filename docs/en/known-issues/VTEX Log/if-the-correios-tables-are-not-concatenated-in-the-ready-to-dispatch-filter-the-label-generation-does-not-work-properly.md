@@ -1,5 +1,5 @@
 ---
-title: 'If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly'
+title: "If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly"
 id: sjvdk1dovk0UBfJJEBVcs
 status: PUBLISHED
 createdAt: 2022-02-03T19:53:04.280Z
@@ -36,5 +36,5 @@ Access Admin > Orders > Inventory & Shipping > Ready to dispatch > filter "carri
 Is there a workaround for this bug? If yes, describe here.
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/VTEX%20Log/if-the-correios-tables-are-not-concatenated-in-the-ready-to-dispatch-filter-the-label-generation-does-not-work-properly_1.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/HEOqvAUXkaIEDYgVRStQJCuWT/?name=inline1320005424.png)​
 

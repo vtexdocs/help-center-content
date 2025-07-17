@@ -56,7 +56,8 @@ O relatório contém informações sobre o último acesso, e status do usuário 
 
 ## Redefinir senha de acesso
 
->⚠️ Você não poderá escolher uma nova senha. Se optar por resetar a senha de acesso, o sistema irá gerar uma senha aleatória para o usuário.
+<div class="alert alert-warning">Você não poderá escolher uma nova senha. Se optar por resetar a senha de acesso, o sistema irá gerar uma senha aleatória para o usuário.
+</div>
 
 1. Acesse o módulo **Configurações da Conta**.  
 2. Acesse a aba **Usuários**.  
@@ -74,9 +75,9 @@ Uma nova senha, com caracteres gerados aleatoriamente, será definida. Ela apare
 - **Nome de usuário:** (obrigatório) nome do usuário a ser cadastrado.
 - **e-mail** (obrigatório) e-mail do usuário para realizar o login na sua conta.
 - **Senha:** (obrigatório) defina uma senha para acesso à sua conta.
-- **Parceiro:** cadastrado anteriormente. Só preencha se for configurar um perfil de um Parceiro. Confira como [cadastrar um parceiro](https://help.vtex.com/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ).
-- **Filial:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Filial. Confira como [cadastrar uma filial](https://help.vtex.com/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp).
-- **Transportadora:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Transportadora. Confira como [cadastrar uma transportadora](https://help.vtex.com/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y).
+- **Parceiro:** cadastrado anteriormente. Só preencha se for configurar um perfil de um Parceiro. Confira como [cadastrar um parceiro](/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ).
+- **Filial:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Filial. Confira como [cadastrar uma filial](/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp).
+- **Transportadora:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Transportadora. Confira como [cadastrar uma transportadora](/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y).
 - **Inativo:** marque a caixa de seleção para desativar o acesso do usuário. 
 
 #### Configurações de Chat

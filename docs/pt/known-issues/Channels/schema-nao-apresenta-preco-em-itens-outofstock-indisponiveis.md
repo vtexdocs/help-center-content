@@ -1,5 +1,5 @@
 ---
-title: 'Schema não apresenta preço em itens outOfstock (indisponíveis)'
+title: "Schema não apresenta preço em itens outOfstock (indisponíveis)"
 id: 492FPEWTmgsWuq6wWqSUEu
 status: PUBLISHED
 createdAt: 2018-01-29T20:29:42.910Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: schema-doesnt-present-price-in-outofstock-items-unavailable
+slugEN: schema-nao-apresenta-preco-em-itens-outofstock-indisponiveis
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -24,7 +24,7 @@ Produtos indisponíveis ( outOfstock ) não possuem a informação de preço no 
 
 - Pegue um item sem estoque que esteja sendo exibido no site como indisponível
 - Veja no Schema que ele estará impresso como  outOfstock e não exibe o preço.
-![schema  outOfstock ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Channels/schema-nao-apresenta-preco-em-itens-outofstock-indisponiveis_1.png)
+![schema  outOfstock ](//images.contentful.com/alneenqid6w5/6PgCuzUXXGo0iC6UeAMUA6/4390b013aaf5d3083ffef407180cd484/ItemTypes-duplicidade.png)
 
 
 

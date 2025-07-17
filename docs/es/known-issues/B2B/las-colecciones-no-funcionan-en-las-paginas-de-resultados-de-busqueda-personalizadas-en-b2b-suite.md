@@ -1,5 +1,5 @@
 ---
-title: 'Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite'
+title: "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite"
 id: 2O2UmKrMJHimDunDRbLBe
 status: PUBLISHED
 createdAt: 2024-06-03T22:13:10.775Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite
+slugEN: las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-en-b2b-suite
 locale: es
 kiStatus: Backlog
 internalReference: 1043470
@@ -18,7 +18,9 @@ internalReference: 1043470
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las páginas de resultados de búsqueda personalizadas configuradas con el id de colección no funcionan cuando se asignan diferentes colecciones de productos a una organización.

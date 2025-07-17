@@ -1,5 +1,5 @@
 ---
-title: 'Minha Conta - O campo Nome do Receptor não reconhece a entrada.'
+title: "Minha Conta - O campo Nome do Receptor não reconhece a entrada."
 id: 2Vg1JfyREUV9qgUMqHvtkn
 status: PUBLISHED
 createdAt: 2022-04-28T12:55:15.384Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: my-account-receiver-name-field-doesnt-recognize-input
+slugEN: minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada
 locale: pt
 kiStatus: Scheduled
 internalReference: 568527
@@ -18,7 +18,9 @@ internalReference: 568527
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar registrar o primeiro endereço nesta conta, através de "Minha conta > direciones", a informação é exibida como "obrigatória" para entrar em "Datos del Tercero Autorizado", mas mesmo após entrar com esta informação e clicar em "Anadir Dirección" o endereço não é registrado e a mensagem de que é "obrigatória" é exibida novamente, somente após a segunda tentativa é o endereço salvo com sucesso.

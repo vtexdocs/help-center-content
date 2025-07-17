@@ -1,5 +1,5 @@
 ---
-title: 'A validade da promissória não cancela a transação'
+title: "A validade da promissória não cancela a transação"
 id: 3mm3tWIDKOAE9b0Yq0Wy70
 status: PUBLISHED
 createdAt: 2022-03-28T02:33:39.185Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-validity-of-the-promissory-doesnt-cancel-the-transaction
+slugEN: a-validade-da-promissoria-nao-cancela-a-transacao
 locale: pt
 kiStatus: Fixed
 internalReference: 325491
@@ -18,7 +18,9 @@ internalReference: 325491
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um cliente faz um pedido com as notas a pagar e o pagamento não é feito, a transação não é cancelada pela porta de entrada após a data de vencimento do pagamento. Consequentemente, como a OMS não pode identificar o evento de cancelamento, o pedido não é cancelado.

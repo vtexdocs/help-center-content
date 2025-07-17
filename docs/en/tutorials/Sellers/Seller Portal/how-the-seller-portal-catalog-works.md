@@ -21,15 +21,15 @@ The Seller Portal Catalog is the module where you configure your store's product
 
 The Seller Portal Catalogue architecture is based on fundamental concepts distributed throughout the following hierarchy:
 
-![ilustra-catalogoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller%20Portal/how-the-seller-portal-catalog-works_1.png)
+![ilustra-catalogoEN](https://images.ctfassets.net/alneenqid6w5/3U5oa9w94stDXltSJPqF1V/0b0ac21f576210cc1acc7acac5391a93/ilustra-catalogoEN.png)
 
 - **Categories:** ways in which your products can be organized. You cannot add your own categories; the marketplace defines the categories that are available to classify your products under. Each product will necessarily be linked to an already existing category.  
 - **Brands:** part of the attributes that characterize your store's products, allowing your customers to also find what they are looking for in a more specific way. You cannot add your own brands, the ones shown in the *Brands* tab have already been imported from the marketplace.    
 - **Products:** the items available in the marketplace display window.  We can understand them as a broader definition of the items that are sold in your store.      
-- **Shared products:** products that are shared between your catalog and the marketplace. You do not need to add these products; you can simply set their price and inventory in the Shared Products module. The Shared Products dashboard automatically informs you of any product that the marketplace has made available to your store as a seller. Learn more on [how to manage shared products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).     
+- **Shared products:** products that are shared between your catalog and the marketplace. You do not need to add these products; you can simply set their price and inventory in the Shared Products module. The Shared Products dashboard automatically informs you of any product that the marketplace has made available to your store as a seller. Learn more on [how to manage shared products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).     
 - **Specifications:** additional properties that can be applied to your store's products. Product specifications are usually used to create filters for the marketplace or display additional information on the product page.  
 - **Variations:** characteristics that define a specific product type and distinguish it from  other options available in your store (items already available in your inventory).   
-- **Offers:**  seller products or variations, with their own price conditions and inventory that are sent to the marketplace. More info on [Offers](https://help.vtex.com/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
+- **Offers:**  seller products or variations, with their own price conditions and inventory that are sent to the marketplace. More info on [Offers](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
 
 ## Examples of category, products and variations
 
@@ -53,7 +53,7 @@ However, there are many different types of microwave ovens. You can therefore ch
 
 ## Related Articles
 
-- [Seller Portal: Shared Products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
-- [Seller Portal: Product Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)  
-- [Seller Portal: Getting Started](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)
+- [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
+- [Seller Portal: Product Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)  
+- [Seller Portal: Getting Started](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)
 

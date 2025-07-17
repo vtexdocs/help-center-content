@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Niubiz'
 id: 6rtGmpkdZUw4AjlRcOePRu
 status: PUBLISHED
 createdAt: 2024-09-19T20:02:58.068Z
-updatedAt: 2024-09-19T20:19:58.405Z
-publishedAt: 2024-09-19T20:19:58.405Z
+updatedAt: 2025-07-02T20:09:44.245Z
+publishedAt: 2025-07-02T20:09:44.245Z
 firstPublishedAt: 2024-09-19T20:19:58.405Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: configurar-pagamento-com-niubiz
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamentos Niubiz. Por meio deste provedor, sua loja pode realizar vendas por meio do cartões de crédito e privatelabels, boletos, promissórias e Niubiz.
+Na VTEX, é possível realizar a integração com o provedor de pagamentos Niubiz. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito e privatelabels, boletos, promissórias e Niubiz.
 
 Para configurar a Niubiz, siga os passos abaixo:
 
@@ -34,10 +34,11 @@ Para configurar a Niubiz, siga os passos abaixo:
    		<li><b>Liquidação automática imediatamente após a análise antifraude</b>: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
    		<li><b>Desativado</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
-8. Clique em `Salvar`.
+8. Em __Campos do provedor__, selecione ou preencha os campos __tipoFlujoNiubiz__ e __logoComercio__.
+9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Niubiz, acesse [Configurar condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Niubiz, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, Niubiz pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

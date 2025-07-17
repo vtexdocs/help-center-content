@@ -1,10 +1,10 @@
 ---
-title: 'Maximum quantity setting of the same item in the cart cannot be changed by franchise accounts'
+title: "Maximum quantity setting of the same item in the cart cannot be changed by franchise accounts"
 id: 5NqcSpcmPXEJE4KIkp6eZE
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:33.074Z
-updatedAt: 2023-10-18T14:34:56.570Z
-publishedAt: 2023-10-18T14:34:56.570Z
+updatedAt: 2025-04-22T19:37:16.136Z
+publishedAt: 2025-04-22T19:37:16.136Z
 firstPublishedAt: 2022-05-12T14:52:33.334Z
 contentType: knownIssue
 productTeam: Checkout
@@ -19,7 +19,7 @@ internalReference: 325273
 ## Summary
 
 
-The configuration of the maximum quantity of the same item in the cart cannot be changed by franchise accounts (seller whitelabel), as it takes place in a legacy catalog screen (/admin/Site/ConfigForm.aspx) – module that is removed from franchise accounts, as they inherit the products of the parent account.
+The configuration of the maximum quantity of the same item in the cart cannot be changed by franchise accounts (seller whitelabel) and seller portal, as it takes place in a legacy catalog screen (/admin/Site/ConfigForm.aspx) – module that is removed from franchise accounts, as they inherit the products of the parent account.
 
 
 ##

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Yuno'
 id: h7PS0vDJJokqI9axZPNzE
 status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z
-updatedAt: 2024-01-23T21:56:16.050Z
-publishedAt: 2024-01-23T21:56:16.050Z
+updatedAt: 2025-07-16T22:45:37.100Z
+publishedAt: 2025-07-16T22:45:37.100Z
 firstPublishedAt: 2023-04-14T13:21:45.782Z
 contentType: tutorial
 productTeam: Financial
@@ -15,22 +15,30 @@ legacySlug: configurar-pagamento-com-yuno
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Yuno. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, boleto bancário e promissórias.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Yuno. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, débito, private label, co-branded, promissórias, boleto bancário, PIX, PSE, entre outros.
 
 Para configurar Yuno, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
-3. Digite o nome __Yuno__ na barra de busca e clique sobre o nome do provedor.
-4. Preencha os campos __Application Key__, __Application Token__ e __Account ID__ com as informações da sua conta Yuno.
-5. Em __Auto Capture__, selecione se a captura do pagamento será automática após a autorização.
-6. Em __Delay To Capture (in days) Default 1 day, max 7 days__, preencha o período (em dias) no qual a captura do pagamento deverá aguardar para ser realizada. O valor padrão é 1 dia e o máximo é de 7 dias.
-7. Em __Delay To Cancel (in hours) Default 6 hours__, preencha o período (em horas), no qual a transação possa ser cancelada após a autorização. O valor padrão é de 6 horas.
-8. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
+3. Digite o nome **Yuno** na barra de busca e clique sobre o nome do provedor.
+4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Yuno.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Yuno na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
+6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
+7. Em **Liquidação automática**, selecione uma das seguintes opções:
+<br>
+<ul>
+<br>
+    	<li><b>Usar comportamento recomendado pelo processador de pagamentos</b>: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
+    	<li><b>Liquidação automática imediatamente após a autorização do pagamento</b>: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
+   		<li><b>Liquidação automática imediatamente após a análise antifraude</b>: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
+   		<li><b>Desativado</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
+</ul>
+8. Em **Campos do provedor**, selecione ou preencha os campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key** e **Main Account App token** conforme orientações do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Yuno, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Yuno, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o conector Yuno pode demorar até 10 minutos para aparecer no checkout da sua loja como opção de pagamento. 

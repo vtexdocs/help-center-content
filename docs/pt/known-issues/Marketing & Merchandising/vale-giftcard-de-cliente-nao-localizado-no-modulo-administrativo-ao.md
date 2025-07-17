@@ -1,5 +1,5 @@
 ---
-title: 'Vale (GiftCard) de cliente não localizado no módulo administrativo ao realizar consulta por CPF'
+title: "Vale (GiftCard) de cliente não localizado no módulo administrativo ao realizar consulta por CPF"
 id: 57ReN0F8H6iAsimuMoUe8Q
 status: PUBLISHED
 createdAt: 2017-07-27T15:42:13.805Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Portal (CMS),Payments
-slugEN: customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query
+slugEN: vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 Ao realizar uma consulta de vales, no admin, por CPF (documento), o vale do cliente não é listado.
 
-![vale](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_1.png)
+![vale](//images.contentful.com/alneenqid6w5/78Mt2DDgaIwg2I66gSYGgM/66de95f8e3b3b73d20a0165f4da67f88/vale.png)
 
 ## Simulação
 
@@ -41,5 +41,5 @@ Para consultar um CPF sem pontos e hífen (criados por API), então:
 2. Remova os pontos e o hífen;
 3. Clique em "Buscar";
 
-![vale animado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao_2.gif)
+![vale animado](//images.contentful.com/alneenqid6w5/p5ybSG51tYmIe2qCu2GGg/2c68720ce41c517630b7049c49daf3f9/vale.gif)
 

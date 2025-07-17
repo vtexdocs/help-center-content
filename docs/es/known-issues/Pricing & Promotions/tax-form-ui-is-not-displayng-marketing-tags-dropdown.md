@@ -1,5 +1,5 @@
 ---
-title: 'Tax Form UI is not displayng Marketing Tags DropDown'
+title: "Tax Form UI is not displayng Marketing Tags DropDown"
 id: Xqg6yYfOvVtP0TwZ2RIAk
 status: PUBLISHED
 createdAt: 2024-07-01T13:33:50.657Z
@@ -18,7 +18,9 @@ internalReference: 1058148
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al guardar impuestos en el módulo de promociones, el valor desplegable para "al menos uno de los siguientes" o "todos los siguientes" no se muestra después de guardar el impuesto. En consecuencia, el usuario no puede averiguar cuál de ellos se está utilizando.
@@ -34,7 +36,7 @@ Al guardar impuestos en el módulo de promociones, el valor desplegable para "al
 3 - Guarde el formulario
 4 - Compruébelo de nuevo, el formulario saldrá vacío:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/tax-form-ui-is-not-displayng-marketing-tags-dropdown_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kGbgj8MON0fVzgmv19hKS1F9u/?name=image.png)
 
 
 

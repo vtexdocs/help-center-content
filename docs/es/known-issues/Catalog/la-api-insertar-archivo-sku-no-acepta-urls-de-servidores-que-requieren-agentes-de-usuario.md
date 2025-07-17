@@ -1,5 +1,5 @@
 ---
-title: "La API Insertar Archivo SKU no acepta URLs de servidores que requieren 'Agentes de Usuario'."
+title: 'La API Insertar Archivo SKU no acepta URLs de servidores que requieren "Agentes de Usuario".'
 id: 5Z1PmRXyW78mohsKTMQfzj
 status: PUBLISHED
 createdAt: 2024-07-22T19:49:14.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: insert-sku-file-api-doesnt-accept-urls-from-servers-that-require-user-agents
+slugEN: la-api-insertar-archivo-sku-no-acepta-urls-de-servidores-que-requieren-agentes-de-usuario
 locale: es
 kiStatus: Backlog
 internalReference: 1069222
@@ -18,7 +18,9 @@ internalReference: 1069222
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un **user-agent** es una cadena de texto que un navegador web u otro cliente envía a un servidor web en una cabecera de petición HTTP para identificarse. Esta cadena contiene información sobre el tipo de navegador, sistema operativo, y a veces detalles adicionales como la versión del navegador y el motor de renderizado utilizado.

@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar a exportação da aba de processamento'
+title: "Ajustar a exportação da aba de processamento"
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: adjust-processing-tab-export
+slugEN: ajustar-a-exportacao-da-aba-de-processamento
 locale: pt
 kiStatus: Backlog
 internalReference: 649311
@@ -18,7 +18,9 @@ internalReference: 649311
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exportação na aba de processamento de skus está falhando:
@@ -29,7 +31,7 @@ A exportação na aba de processamento de skus está falhando:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/ajustar-a-exportacao-da-aba-de-processamento_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UrnZzrfODolAIP6OVUyBoqlnJ/?name=image.png)
 
 
 

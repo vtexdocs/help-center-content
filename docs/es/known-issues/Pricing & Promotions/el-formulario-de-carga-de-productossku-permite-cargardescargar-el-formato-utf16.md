@@ -1,5 +1,5 @@
 ---
-title: 'El formulario de carga de productos/SKU permite cargar/descargar el formato UTF-16'
+title: "El formulario de carga de productos/SKU permite cargar/descargar el formato UTF-16"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: productsku-upload-form-allows-utf16-format-uploaddownload
+slugEN: el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16
 locale: es
 kiStatus: No Fix
 internalReference: 493402
@@ -18,7 +18,9 @@ internalReference: 493402
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, si un usuario intenta cargar una lista de SKU en el formulario de promoción habitual utilizando un archivo .txt, si el archivo cargado está en el formato de codificación UTF-16, también lo estará el archivo descargado después.
@@ -33,7 +35,7 @@ Actualmente, si un usuario intenta cargar una lista de SKU en el formulario de p
 
 1) Cree una promoción regular y en la sección #2 "¿A qué **artículos** se aplicará esta promoción?", cargue una lista de SKU válida con formato UTF-16 en los archivos SKU o Producto
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/v2q7rCm249CNqnRQjXxKRdjnx/?name=inline-242501829.png)
 
 2) Guarde la promoción
 

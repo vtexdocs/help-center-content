@@ -1,5 +1,5 @@
 ---
-title: 'Skus from the same product being created separately on accounts with Autoapprove flag enabled'
+title: "Skus from the same product being created separately on accounts with Autoapprove flag enabled"
 id: 5xWm9hzTO0Yuv0e2UuMgH6
 status: PUBLISHED
 createdAt: 2024-01-09T12:39:19.465Z

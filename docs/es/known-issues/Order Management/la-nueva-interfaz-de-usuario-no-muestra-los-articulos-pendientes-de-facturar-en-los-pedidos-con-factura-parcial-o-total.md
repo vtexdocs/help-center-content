@@ -1,5 +1,5 @@
 ---
-title: 'La nueva interfaz de usuario no muestra los artículos pendientes de facturar en los pedidos con factura parcial o total.'
+title: "La nueva interfaz de usuario no muestra los artículos pendientes de facturar en los pedidos con factura parcial o total."
 id: yIkfB9VkFUeywJzclMYKe
 status: PUBLISHED
 createdAt: 2022-08-26T14:24:13.932Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-does-not-show-items-pending-to-invoice-in-orders-with-partial-or-total-invoice
+slugEN: la-nueva-interfaz-de-usuario-no-muestra-los-articulos-pendientes-de-facturar-en-los-pedidos-con-factura-parcial-o-total
 locale: es
 kiStatus: Backlog
 internalReference: 646253
@@ -18,7 +18,9 @@ internalReference: 646253
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

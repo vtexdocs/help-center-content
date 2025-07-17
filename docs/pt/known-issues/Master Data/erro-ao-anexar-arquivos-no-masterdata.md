@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao anexar arquivos no MasterData'
+title: "Erro ao anexar arquivos no MasterData"
 id: 2NkotRVyvWA3OHdxizCYgY
 status: PUBLISHED
 createdAt: 2019-02-15T18:42:41.461Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: error-while-attaching-files-in-masterdata
+slugEN: erro-ao-anexar-arquivos-no-masterdata
 locale: pt
 kiStatus: Backlog
 internalReference: 

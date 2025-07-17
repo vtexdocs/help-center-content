@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Users now require CMS GraphQL API resource for content management. Update user roles accordingly.'
 ---
 
-As of February 15, all [users](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) and [application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) that need access to Headless CMS will be required to have the `See CMS menu on the top-bar` and `Settings` License Manager [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) added to their [user roles](https://help.vtex.com/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For content management in the Headless CMS, they must also have the `CMS GraphQL API` [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This requirement applies to Headless CMS API and VTEX Admin.
+As of February 15, all [users](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) and [application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) that need access to Headless CMS will be required to have the `See CMS menu on the top-bar` and `Settings` License Manager [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) added to their [user roles](/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For content management in the Headless CMS, they must also have the `CMS GraphQL API` [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This requirement applies to Headless CMS API and VTEX Admin.
 
 ## What has changed?
 Previously, users and application keys could manage store content on Headless CMS
@@ -37,7 +37,7 @@ Ensure that Headless CMS users are associated with the `CMS GraphQL API`, `See C
 
 ### Creating a new role
 
-If you have not created a specific role for Headless CMS users yet or wish to create one, refer to the [Creating a role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) guide. Ensure that you associate the role with the `CMS GraphQL API`, `See CMS menu on the top-bar` and `Settings` resources in the **Products and Resources** section.
+If you have not created a specific role for Headless CMS users yet or wish to create one, refer to the [Creating a role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) guide. Ensure that you associate the role with the `CMS GraphQL API`, `See CMS menu on the top-bar` and `Settings` resources in the **Products and Resources** section.
 
 ### Editing a role
 

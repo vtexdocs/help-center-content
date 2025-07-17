@@ -23,7 +23,9 @@ Por lo tanto, después de un análisis objetivo y cuidadoso, hemos decidido elim
 
 El soporte al inicio de sesión con Facebook se eliminará de todas las versiones del panel administrativo de VTEX.
 
->ℹ️ La funcionalidad de inicio de sesión con Facebook seguirá estando disponible para el inicio de sesión de los compradores en tu tienda VTEX.
+<div class="alert alert-info">
+La funcionalidad de inicio de sesión con Facebook seguirá estando disponible para el inicio de sesión de los compradores en tu tienda VTEX.
+</div>
 
 ## ¿Por qué hacemos este cambio?
 

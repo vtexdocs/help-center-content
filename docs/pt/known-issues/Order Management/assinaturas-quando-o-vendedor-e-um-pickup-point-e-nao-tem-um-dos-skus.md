@@ -1,5 +1,5 @@
 ---
-title: 'Assinaturas quando o vendedor é um Pickup Point e não tem um dos SKUs.'
+title: "Assinaturas quando o vendedor é um Pickup Point e não tem um dos SKUs."
 id: 4xIlZZQu8cK42otvvbjhMA
 status: PUBLISHED
 createdAt: 2022-10-03T12:50:59.047Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus
+slugEN: assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus
 locale: pt
 kiStatus: Backlog
 internalReference: 666701
@@ -18,7 +18,9 @@ internalReference: 666701
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

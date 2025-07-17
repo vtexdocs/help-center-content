@@ -1,5 +1,5 @@
 ---
-title: 'No se restablece el uso del cupón en los pedidos incompletos'
+title: "No se restablece el uso del cupón en los pedidos incompletos"
 id: 1iJr9GTJ8gG852YDVWTttl
 status: PUBLISHED
 createdAt: 2022-08-16T20:44:43.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: coupon-usage-not-restored-for-incomplete-orders
+slugEN: no-se-restablece-el-uso-del-cupon-en-los-pedidos-incompletos
 locale: es
 kiStatus: Backlog
 internalReference: 639418
@@ -18,7 +18,9 @@ internalReference: 639418
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

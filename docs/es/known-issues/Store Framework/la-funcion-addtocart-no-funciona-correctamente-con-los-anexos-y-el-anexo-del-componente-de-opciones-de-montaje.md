@@ -1,5 +1,5 @@
 ---
-title: 'La función addToCart no funciona correctamente con los anexos y el anexo del componente de opciones de montaje.'
+title: "La función addToCart no funciona correctamente con los anexos y el anexo del componente de opciones de montaje."
 id: 6I8vn2K7PWLRwIj2YTY7nZ
 status: PUBLISHED
 createdAt: 2023-05-23T15:40:36.343Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: addtocart-function-doesnt-work-correctly-with-attachments-and-assembly-options-components-attachment
+slugEN: la-funcion-addtocart-no-funciona-correctamente-con-los-anexos-y-el-anexo-del-componente-de-opciones-de-montaje
 locale: es
 kiStatus: Backlog
 internalReference: 830495
@@ -18,7 +18,9 @@ internalReference: 830495
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La función addToCart no funciona correctamente cuando un producto tiene configuradas opciones de montaje y anexos y uno de los componentes de las opciones de montaje también tiene anexos. Sólo se añadirá al carrito el adjunto del componente.

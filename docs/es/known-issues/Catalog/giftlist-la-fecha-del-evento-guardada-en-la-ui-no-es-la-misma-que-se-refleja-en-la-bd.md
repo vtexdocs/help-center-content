@@ -1,5 +1,5 @@
 ---
-title: '[Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd'
+title: "[Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd"
 id: 6PUBzRdtno8ypsPMg97B6K
 status: PUBLISHED
 createdAt: 2022-07-25T17:45:12.568Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: giftlist-data-de-evento-salva-na-ui-nao-e-a-mesma-que-reflete-no-bd
+slugEN: giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd
 locale: es
 kiStatus: No Fix
 internalReference: 402134
@@ -18,7 +18,9 @@ internalReference: 402134
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al guardar el evento de la lista de regalos con fecha 31/12/2021, se registra en la interfaz de usuario 30/12/2021, pero es 31/12/2021 en la exportación (la fecha correcta)

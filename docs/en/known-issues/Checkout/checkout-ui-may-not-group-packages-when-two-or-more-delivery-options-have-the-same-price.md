@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI may not group packages when two or more Delivery Options have the same price'
+title: "Checkout UI may not group packages when two or more Delivery Options have the same price"
 id: 7F1g7iS8RqVPxNNZD0B2Db
 status: PUBLISHED
 createdAt: 2024-09-25T21:52:03.685Z

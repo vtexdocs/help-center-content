@@ -23,16 +23,20 @@ Para criar uma Tabela de Preços siga os seguintes passos:
 4. Escolha o nome da tabela de preços que deseja criar.
 5. Clique no botão **Criar tabela de preços**
 
-![criar-tabela-de-precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/criar-tabelas-de-precos_1.gif)
+![criar-tabela-de-precos](https://images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/9e1cb714619aad7cecfac327a7240277/criar-tabela-precos.gif)
 
  Para encontrar uma Tabela de Preço:
 
  1. Clique em **Tabela de Preço**
  2. Digite o nome da tabela que deseja encontrar no campo **Buscar**
 
-Para incluir preços na tabela de preços, você precisará cadastrar um preço base aos seus SKUs. Veja como fazer neste [tutorial](https://help.vtex.com/pt/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6).
+Para incluir preços na tabela de preços, você precisará cadastrar um preço base aos seus SKUs. Veja como fazer neste [tutorial](/pt/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6).
 
->ℹ️ Não é possível criar tabelas de preço com nomes iguais.
-> Não é possível adicionar caracteres especiais aos nomes das tabelas de preços. Apenas letras e números.
+<div class="alert alert-info">
+Não é possível criar tabelas de preço com nomes iguais.
+Não é possível adicionar caracteres especiais aos nomes das tabelas de preços. Apenas letras e números.
+</div>
 
->⚠️ Por questões de segurança, não é possível excluir tabelas de preço manualmente. Caso precise deletar uma tabela de preço, abra um chamado com o suporte da VTEX.
+<div class="alert alert-warning">
+Por questões de segurança, não é possível excluir tabelas de preço manualmente. Caso precise deletar uma tabela de preço, abra um chamado com o suporte da VTEX.
+</div>

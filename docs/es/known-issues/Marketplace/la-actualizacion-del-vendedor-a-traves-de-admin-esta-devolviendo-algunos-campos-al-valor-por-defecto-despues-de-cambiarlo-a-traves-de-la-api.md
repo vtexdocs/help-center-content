@@ -1,5 +1,5 @@
 ---
-title: 'La actualización del vendedor a través de Admin está devolviendo algunos campos al valor por defecto después de cambiarlo a través de la API'
+title: "La actualización del vendedor a través de Admin está devolviendo algunos campos al valor por defecto después de cambiarlo a través de la API"
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: update-seller-using-admin-is-setting-some-fields-back-to-the-default-value-after-changing-it-via-api
+slugEN: la-actualizacion-del-vendedor-a-traves-de-admin-esta-devolviendo-algunos-campos-al-valor-por-defecto-despues-de-cambiarlo-a-traves-de-la-api
 locale: es
 kiStatus: No Fix
 internalReference: 608120
@@ -18,7 +18,9 @@ internalReference: 608120
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

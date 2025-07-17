@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia en la configuración avanzada de la tienda en cuentas o espacios de trabajo nuevos'
+title: "Divergencia en la configuración avanzada de la tienda en cuentas o espacios de trabajo nuevos"
 id: 1Jt8McqXjYAxfJNkBZHt4j
 status: PUBLISHED
 createdAt: 2024-07-11T18:16:01.106Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: divergence-on-the-advanced-store-settings-on-new-accounts-or-workspaces
+slugEN: divergencia-en-la-configuracion-avanzada-de-la-tienda-en-cuentas-o-espacios-de-trabajo-nuevos
 locale: es
 kiStatus: Backlog
 internalReference: 1064235
@@ -18,7 +18,9 @@ internalReference: 1064235
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En nuevos espacios de trabajo o cuentas que nunca cambiaron las configuraciones avanzadas de la Configuración de la Tienda se puede verificar una inconsistencia entre la información en la UI y la bandera aplicada a la cuenta.

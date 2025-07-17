@@ -1,5 +1,5 @@
 ---
-title: "La interfaz de pago deselecciona la opción 'Programar todo' después de actualizar la página."
+title: 'La interfaz de pago deselecciona la opción "Programar todo" después de actualizar la página.'
 id: 28TIselp0EzU3iSD4kLJgX
 status: PUBLISHED
 createdAt: 2023-04-04T21:08:55.937Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-unselects-the-schedule-all-toggle-after-refreshing-the-page
+slugEN: la-interfaz-de-pago-deselecciona-la-opcion-programar-todo-despues-de-actualizar-la-pagina
 locale: es
 kiStatus: Backlog
 internalReference: 784693
@@ -18,7 +18,9 @@ internalReference: 784693
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario del proceso de pago anula la selección del conmutador "Programar todo" en el paso de envío después de actualizar la página, aunque la API siga seleccionada. Este comportamiento no tiene ningún impacto; el pedido tendrá seleccionada la entrega programada.

@@ -1,5 +1,5 @@
 ---
-title: 'A promoção Buy Together com muitos SKUs pode fazer com que os produtos qualificados não sejam carregados na frente (tempo limite)'
+title: "A promoção Buy Together com muitos SKUs pode fazer com que os produtos qualificados não sejam carregados na frente (tempo limite)"
 id: e1OJuUhZhYidnoRaDoDRc
 status: PUBLISHED
 createdAt: 2022-01-21T17:36:41.181Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: buy-together-promotion-with-lots-of-skus-may-let-the-eligible-products-not-to-load-on-the-front-timeout
+slugEN: a-promocao-buy-together-com-muitos-skus-pode-fazer-com-que-os-produtos-qualificados-nao-sejam-carregados-na-frente-tempo-limite
 locale: pt
 kiStatus: No Fix
 internalReference: 301463
@@ -18,7 +18,9 @@ internalReference: 301463
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A promoção Buy Together com muitos SKUs pode fazer com que os produtos qualificados não sejam carregados na frente devido ao tempo limite. As páginas de produto usam o controle de produto `<vtex.cmc:BuyTogether/>`. Esse controle é responsável por trazer informações de todos os SKUs qualificados definidos na promoção para a página do produto.

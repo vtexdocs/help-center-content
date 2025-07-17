@@ -1,5 +1,5 @@
 ---
-title: 'O menu suspenso Selecionar especificações do Portal do Vendedor não está funcionando corretamente'
+title: "O menu suspenso Selecionar especificações do Portal do Vendedor não está funcionando corretamente"
 id: 7DeU9mKh7gseN7svVPtDzb
 status: PUBLISHED
 createdAt: 2022-12-06T14:27:57.920Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: seller-portal-select-specifications-dropdown-malfunctioning
+slugEN: o-menu-suspenso-selecionar-especificacoes-do-portal-do-vendedor-nao-esta-funcionando-corretamente
 locale: pt
 kiStatus: No Fix
 internalReference: 711303
@@ -18,7 +18,9 @@ internalReference: 711303
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a caixa de seleção de especificação de produto da página accountname.myvtex.com/admin/products/new/ tem um comportamento defeituoso quando se tenta selecionar um valor para uma especificação de produto.
@@ -27,7 +29,7 @@ Quando o usuário tenta escolher um valor, às vezes, a entrada abaixo é seleci
 
 Por exemplo, você tem duas opções, cor e tamanho. Ao clicar na cor, às vezes, o tamanho é selecionado em seu lugar:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-menu-suspenso-selecionar-especificacoes-do-portal-do-vendedor-nao-esta-funcionando-corretamente_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PpTFjmsH4i975D0uQSLD7WmkO/?name=image.png)
 
 ## Simulação
 

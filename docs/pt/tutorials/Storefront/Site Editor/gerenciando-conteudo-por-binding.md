@@ -27,4 +27,6 @@ Por meio do módulo Storefront no Admin, a VTEX permite que você faça isso. Co
 
 4. Crie, atualize ou/e exclua conteúdo para o *binding* e a localidade predefinidos e, em seguida, salve suas alterações.
 
->⚠️ Ao editar um conteúdo de bloco, você não poderá alterar os dados de <i>binding</i> e localidade - os campos serão bloqueados. Se você deseja alterá-los durante o processo, salve ou descarte suas alterações primeiramente e retorne à página inicial do Site Editor.
+<div class="alert alert-warning">
+Ao editar um conteúdo de bloco, você não poderá alterar os dados de <i>binding</i> e localidade - os campos serão bloqueados. Se você deseja alterá-los durante o processo, salve ou descarte suas alterações primeiramente e retorne à página inicial do Site Editor.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Giftcard not getting refund after transaction cancellation'
+title: "Giftcard not getting refund after transaction cancellation"
 id: lWW0jvEty50Pphr3JFYt7
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:16.141Z

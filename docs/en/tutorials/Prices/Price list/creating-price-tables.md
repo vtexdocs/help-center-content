@@ -23,15 +23,17 @@ To create a new Price Table, follow the steps below:
 4. Choose the name of the pricing table you want to create.
 5. Click on button **Create price table**.
 
-![creating-price-tables](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/creating-price-tables_1.gif)
+![creating-price-tables](https://images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/5fabe5c47940372d29b45d2718c34b68/criar-tabela-precos-en.gif)
 
 To find a Price Table: 
 
 1. Click on **Price Table**
 2. Type the name of the table that you wish to find in **Search**
 
-To include a price in the Price Table, you will need to add a base price to your SKUs. Access our article on [how to add a base price](https://help.vtex.com/en/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6).
+To include a price in the Price Table, you will need to add a base price to your SKUs. Access our article on [how to add a base price](/en/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6).
 
->ℹ️ You can not create price tables with equal names. You can not add special characters to price table names. Just letters and numbers. 
->⚠️ For security reasons, you can not manually delete price tables. If you need to delete a price table, open a ticket with VTEX support.
+<div class = "alert alert-info"> 
+You can not create price tables with equal names. You can not add special characters to price table names. Just letters and numbers. </div> 
+<div class = "alert alert-warning"> 
+For security reasons, you can not manually delete price tables. If you need to delete a price table, open a ticket with VTEX support. </div>
 

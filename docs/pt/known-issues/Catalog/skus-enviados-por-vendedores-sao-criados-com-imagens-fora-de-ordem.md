@@ -1,5 +1,5 @@
 ---
-title: 'Skus enviados por vendedores são criados com imagens fora de ordem.'
+title: "Skus enviados por vendedores são criados com imagens fora de ordem."
 id: 4I7D9QqrG5nwN2Z8KXGGIV
 status: PUBLISHED
 createdAt: 2023-04-03T14:14:43.373Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: skus-sent-by-sellers-are-created-with-images-out-of-order
+slugEN: skus-enviados-por-vendedores-sao-criados-com-imagens-fora-de-ordem
 locale: pt
 kiStatus: Fixed
 internalReference: 648349
@@ -18,7 +18,9 @@ internalReference: 648349
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o sku é enviado por um vendedor e aprovado no módulo Skus Recebido, as imagens do novo sku no catálogo do mercado estão fora do pedido enviado pelo vendedor.

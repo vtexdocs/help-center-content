@@ -15,5 +15,5 @@ legacySlug: carrefour-inventory-integration-errors
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
+English speaking countries.</div>

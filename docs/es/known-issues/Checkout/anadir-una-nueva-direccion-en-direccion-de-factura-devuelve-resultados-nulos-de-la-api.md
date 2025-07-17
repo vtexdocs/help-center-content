@@ -1,5 +1,5 @@
 ---
-title: 'Añadir una nueva dirección en Dirección de factura devuelve resultados nulos de la API'
+title: "Añadir una nueva dirección en Dirección de factura devuelve resultados nulos de la API"
 id: 43eiz4YORQv1u4yDahZdvC
 status: PUBLISHED
 createdAt: 2023-02-07T13:15:36.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: adding-a-new-address-on-invoice-address-returns-null-api-results
+slugEN: anadir-una-nueva-direccion-en-direccion-de-factura-devuelve-resultados-nulos-de-la-api
 locale: es
 kiStatus: No Fix
 internalReference: 748668
@@ -18,7 +18,9 @@ internalReference: 748668
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay más de una dirección registrada en el Sistema de Perfiles, se produce una petición "nula" al servicio de código postal si se añade una nueva dirección en "Dirección de Facturación".

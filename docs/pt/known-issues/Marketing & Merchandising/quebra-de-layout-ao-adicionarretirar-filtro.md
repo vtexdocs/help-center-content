@@ -1,5 +1,5 @@
 ---
-title: 'Quebra de layout ao adicionar/retirar filtro'
+title: "Quebra de layout ao adicionar/retirar filtro"
 id: 4J4xxzzbi8cMge8qQq2cOy
 status: PUBLISHED
 createdAt: 2018-01-24T15:02:47.100Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: layout-malfunctions-when-adding-or-removing-a-filter
+slugEN: quebra-de-layout-ao-adicionarretirar-filtro
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -30,5 +30,5 @@ Ao adicionar/retirar filtro dentro da página de Cadastro de Produtos e Skus oco
 
 Você deve clicar onde ficava *Filtrar resultados ou fazer uma busca* e depois clicar no botão azul no canto esquerdo inferior, com isso o layout da página será normalizado.
 
-![Image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/quebra-de-layout-ao-adicionarretirar-filtro_1.jpg)
+![Image](//images.contentful.com/alneenqid6w5/2HUT45Pgcgqack2CMg22ug/0073487d59c786e3f959e608f9015e38/Exemplo.jpg)
 

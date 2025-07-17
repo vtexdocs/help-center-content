@@ -1,5 +1,5 @@
 ---
-title: 'Algunas direcciones autocompletadas por Google no se pueden guardar en Mi Cuenta'
+title: "Algunas direcciones autocompletadas por Google no se pueden guardar en Mi Cuenta"
 id: DgYKHOqC0nnpHKEdcTeXQ
 status: PUBLISHED
 createdAt: 2022-04-28T19:44:12.222Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account
+slugEN: algunas-direcciones-autocompletadas-por-google-no-se-pueden-guardar-en-mi-cuenta
 locale: es
 kiStatus: Fixed
 internalReference: 415388
@@ -18,7 +18,9 @@ internalReference: 415388
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas direcciones devueltas desde el campo de búsqueda de Google no se están guardando cuando se añaden a través del flujo Mi cuenta, y la interfaz de usuario no devuelve ninguna respuesta al usuario.

@@ -22,13 +22,11 @@ Disponível para todas as lojas desde outubro de 2017, a nova CDN vai passar a s
 __Importante:__ o principal requisito para mudar para a nova CDN é que seu site seja __totalmente disponibilizado em HTTPS__. Você deve ficar atento principalmente às chamadas HTTP do seu site, que devem passar a ser HTTPS para funcionarem na nova CDN. Veja como [ativar HTTPS em todo o site](/pt/tutorial/ativar-https-em-todo-o-site) e atente-se aos requisitos necessários para essa migração.
 
 Portanto, muita atenção:
->⚠️ Você tem até o dia **20 de abril** para garantir que sua loja:
->
-> 
-> - Esteja totalmente disponibilizada em HTTPS.
->
-> 
-> - Tenha completado a migração para a nova CDN da VTEX.
+<div class="alert alert-warning">
+Você tem até o dia <b>20 de abril</b> para garantir que sua loja:<br>
+- Esteja totalmente disponibilizada em HTTPS.<br>
+- Tenha completado a migração para a nova CDN da VTEX.
+</div>
 
 Depois dessa data, as lojas que não tenham feito as mudanças necessárias __podem sofrer indisponibilidades__, como layout quebrado até sua loja ficar *offline*. Por isso, recomendamos que você ative o HTTPS e migre para a nova CDN neste prazo. Isso vai garantir aos seus clientes a melhor experiência.
 

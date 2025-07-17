@@ -3,8 +3,8 @@ title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-10-31T20:45:04.174Z
-publishedAt: 2024-10-31T20:45:04.174Z
+updatedAt: 2025-06-12T15:42:48.235Z
+publishedAt: 2025-06-12T15:42:48.235Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: events-available-in-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Below, you will find a list of the potential events available in [Audit](https://help.vtex.com/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
+Below, you will find a list of the potential events available in [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
 
 * [OMS](#oms)
 * [Orders](#orders)
@@ -30,6 +30,7 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [Gift Card](#gift-card)
 * [Checkout](#checkout)
 * [Portal CMS](#portal-cms)
+* [Profile System](#profile-system)
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
@@ -37,10 +38,15 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [Seller Management](#seller-management)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
+* [Card tokens](#card-tokens)
 
->ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
+<div class = "alert alert-info">
+In case you encounter an event in Audit which has not been included in this list, please inform us through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">documentation feedback page</a>.
+</div>
 
->⚠️ In the Audit filter options, you can find **Shipping Options**, **Profile System**, and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
+<div class="alert alert-warning">
+<p>In the Audit filter options, you can find <strong>Shipping Options</strong>, <strong>Profile System</strong>, and <strong>Billing</strong> options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.</p>
+</div>
 
 ## OMS
 
@@ -191,6 +197,12 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | File Upload | Portal file upload. | File name changed. |
 | File Deleted | File removal. | File name and ID changed. |
 
+## Profile System
+
+| Action | Event description | Event details |
+| ---- | ---- | ---- |
+| EmailRectification | Change existing email address. | ID of user whose email was rectified. |
+
 ## License Manager
 
 | Action | Event description | Event details |
@@ -278,3 +290,12 @@ In the **Action** column, all Headless CMS events also display the following inf
 | Create campaign | Creation of a new campaign. | Campaign ID. |
 | Update ads | Update of an ad. | Ad ID. |
 | Update campaign | Update of a campaign. | Campaign ID. |
+
+## Card tokens
+
+| Action | Event description | Event details |
+|---|---|---|
+| CreateToken | Creation of a new card token. | Card token ID, customer profile associated with the token, and action performed. |
+| GetToken | Reading of a card token. | Card token ID, customer profile associated with the token, and action performed. |
+| UpdateToken | Update of a card token. | Card token ID, customer profile associated with the token, and action performed. |
+| DeleteToken | Deletion of a card token. | Card token ID, customer profile associated with the token, and action performed. |

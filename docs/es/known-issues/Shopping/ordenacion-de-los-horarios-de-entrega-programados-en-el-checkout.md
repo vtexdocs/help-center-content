@@ -1,5 +1,5 @@
 ---
-title: 'Ordenación de los horarios de entrega programados en el checkout'
+title: "Ordenación de los horarios de entrega programados en el checkout"
 id: 2ZAhWeQbJe6kWgoCEMEMWQ
 status: PUBLISHED
 createdAt: 2018-09-18T18:32:16.155Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ordering-of-delivery-times-scheduled-at-checkout
+slugEN: ordenacion-de-los-horarios-de-entrega-programados-en-el-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 Actualmente los horarios de entrega para una entrega programada están fuera de orden, o en orden decreciente. Para una mejor legibilidad, se espera que esta información se ordene de forma creciente.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Shopping/ordenacion-de-los-horarios-de-entrega-programados-en-el-checkout_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulación
 

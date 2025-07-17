@@ -3,8 +3,8 @@ title: 'Configurar condições de pagamento'
 id: tutorials_455
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2024-10-22T12:59:40.955Z
-publishedAt: 2024-10-22T12:59:40.955Z
+updatedAt: 2025-04-23T13:29:53.447Z
+publishedAt: 2025-04-23T13:29:53.447Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial
@@ -19,24 +19,26 @@ Condições de pagamento são as formas de pagamento exibidas no site para a fin
 
 ## Como configurar
 
-Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway/). 
+Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](/pt/tutorial/afiliacoes-de-gateway/). 
 
 Uma vez definido o seu provedor, para qualquer uma das condições de pagamento a serem escolhidas, sempre será necessário:
 
 - Preencher o campo __Nome da regra__ com um nome de sua preferência para identificação.
 - Ativar a condição no campo __Status__.
 - Indicar em __Processar com o provedor__, qual provedor irá processar esta condição de pagamento.
-- Definir se deseja utilizar um [sistema antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude) em __Usar solução antifraude__.
+- Definir se deseja utilizar um [sistema antifraude](/pt/tutorial/como-configurar-antifraude) em __Usar solução antifraude__.
 
-Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
->⚠️ Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+<div class="alert alert-warning">
+Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+</div>
 
 Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condição de pagamento.
 
 ### À vista
 
-![pagamento-a-vista pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/condicoes-de-pagamento_1.png)
+![pagamento-a-vista pt](https://images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/dc80b075edef9f645f7b6b0900f753a5/pagamento_a_vista_pt.png)
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -48,11 +50,13 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 8. No campo __À vista ou parcelado?__, selecione __À vista__.
 9. Clique em __Salvar__.
 
->ℹ️ No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+<div class="alert alert-info">
+No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+</div>
 
 ### Parcelado sem juros
 
-![parcelamento-sem-juros pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/condicoes-de-pagamento_2.png)
+![parcelamento-sem-juros pt](https://images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/1e8b0d5c3fde77a81029e51fc1c12415/pagamento_sem_juros_pt.png)
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -69,7 +73,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 
 ### Parcelado com juros
 
-![parcelamento-com-juros pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/condicoes-de-pagamento_3.png)
+![parcelamento-com-juros pt](https://images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/19da177093693c6176012730d2aa7b2b/pagamento_com_juros_pt.png)
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -87,7 +91,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 14. Para escolher entre juros compostos e juros simples, clique em __Juros composto aplicado. Alterar__. Uma caixa de seleção vai aparecer oferecendo as duas opções.
 15. Clique em __Salvar__.
 
-![Juros - pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/condicoes-de-pagamento_4.png)
+![Juros - pt](https://images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/9cc6477c5446496df2717eb188a11533/juros_pt.png)
 
 ## Remover condição de pagamento
 
@@ -95,5 +99,5 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 2. Na aba __Condições de Pagamentos__, clique sobre a condição de pagamento que deseja remover.
 3. Clique sobre o ícone de lixeira.
 
-![Remover condição de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/condicoes-de-pagamento_5.png)
+![Remover condição de pagamento](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/9486e6e1036228c2ad8dfa7d0685768e/remover_condi____o_pagamento.png)
 

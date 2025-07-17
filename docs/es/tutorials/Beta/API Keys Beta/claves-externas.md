@@ -3,8 +3,8 @@ title: 'Claves terceras (Beta)'
 id: 1isU0HfKkeg0atlxRha14Q
 status: PUBLISHED
 createdAt: 2024-09-30T18:40:42.116Z
-updatedAt: 2024-11-05T13:37:09.797Z
-publishedAt: 2024-11-05T13:37:09.797Z
+updatedAt: 2025-06-04T21:31:47.252Z
+publishedAt: 2025-06-04T21:31:47.252Z
 firstPublishedAt: 2024-10-08T20:11:36.474Z
 contentType: tutorial
 productTeam: Identity
@@ -15,13 +15,15 @@ legacySlug: claves-externas-beta
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con [nuestro soporte](https://support.vtex.com/hc/es-419).
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con <a href="https://support.vtex.com/hc/es-419">nuestro soporte</a>.</p>
+</div>
 
-Las claves de API externas son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) a las claves de API (el equivalente a nombres de usuario) proporcionadas por terceros, puedes permitirles acceso a recursos específicos de tu cuenta.
+Las claves de API externas son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) a las claves de API (el equivalente a nombres de usuario) proporcionadas por terceros, puedes permitirles acceso a recursos específicos de tu cuenta.
 
 La pestaña **Externas** enumera las claves de API externas agregadas a tu cuenta.
 
-<!---- IMAGEM ---->
+![apikeys-external-es](https://images.ctfassets.net/alneenqid6w5/5mwOrVyQr2LiDBAkzIZWwU/9022a21b1284920de8fdbbfb0d5002c1/apikeys-external-es.png)
 
 La página muestra la siguiente información en forma de tabla:
 
@@ -46,9 +48,11 @@ Para agregar una clave externa a tu cuenta sigue los pasos a continuación:
 2. Haz clic en la pestaña **Externas**.  
 3. Haz clic en `Agregar clave`.  
 4. Rellena el campo **Identificación de la clave** con el nombre para identificar la clave de API.   
-5. Selecciona los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.  
+5. Selecciona los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.  
 
-   >❗ Marca solo los roles necesarios para la integración que utilizará la clave de API. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas causados por la filtración de las credenciales de inicio de sesión.
+   <div class="alert alert-danger">
+     <p>Marca solo los roles necesarios para la integración que utilizará la clave de API. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas causados por la filtración de las credenciales de inicio de sesión.</p>
+   </div>
 
 6. Haz clic en `Agregar`.
 
@@ -73,6 +77,6 @@ Para remover una clave de API externa sigue las instrucciones a continuación:
 
 ## Más información
 
-* [Claves de API (beta)](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar la duración de las claves de API (beta)](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Claves generadas (beta)](https://help.vtex.com/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Claves de API (beta)](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar la duración de las claves de API (beta)](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Claves generadas (beta)](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)

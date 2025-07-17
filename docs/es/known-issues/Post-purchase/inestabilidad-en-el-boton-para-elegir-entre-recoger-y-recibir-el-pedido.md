@@ -1,5 +1,5 @@
 ---
-title: 'Inestabilidad en el botón para elegir entre recoger y recibir el pedido'
+title: "Inestabilidad en el botón para elegir entre recoger y recibir el pedido"
 id: 54pnP8pZGWSo2VZKhOLBKC
 status: PUBLISHED
 createdAt: 2021-09-08T17:53:29.698Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: instability-in-the-toggle-button-for-shipping-and-instore-pickup
+slugEN: inestabilidad-en-el-boton-para-elegir-entre-recoger-y-recibir-el-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 

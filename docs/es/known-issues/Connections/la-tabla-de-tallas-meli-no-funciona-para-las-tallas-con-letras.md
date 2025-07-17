@@ -1,5 +1,5 @@
 ---
-title: 'La tabla de tallas MELI no funciona para las tallas con letras'
+title: "La tabla de tallas MELI no funciona para las tallas con letras"
 id: 7vAViV3MmC7zOSTF0cFTYy
 status: PUBLISHED
 createdAt: 2023-07-24T12:04:19.589Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-size-chart-not-working-for-sizes-with-letters
+slugEN: la-tabla-de-tallas-meli-no-funciona-para-las-tallas-con-letras
 locale: es
 kiStatus: Fixed
 internalReference: 867262
@@ -18,7 +18,9 @@ internalReference: 867262
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Promotions resulting in wrong sorting/filtering by price or discount'
+title: "Promotions resulting in wrong sorting/filtering by price or discount"
 id: 1qGJByINC3S7ibgiQccVcY
 status: PUBLISHED
 createdAt: 2023-08-28T17:51:44.627Z

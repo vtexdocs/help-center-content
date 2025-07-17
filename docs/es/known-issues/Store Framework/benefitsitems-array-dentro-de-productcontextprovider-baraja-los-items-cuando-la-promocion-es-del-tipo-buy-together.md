@@ -1,5 +1,5 @@
 ---
-title: 'Benefits.items array dentro de ProductContextProvider baraja los items cuando la promoción es del tipo Buy Together'
+title: "Benefits.items array dentro de ProductContextProvider baraja los items cuando la promoción es del tipo Buy Together"
 id: 1VeBqJAKwpVR5YHqtEJ7Xz
 status: PUBLISHED
 createdAt: 2023-10-05T19:57:59.828Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: benefitsitems-array-inside-of-productcontextprovider-shuffle-items-when-the-promotion-is-a-buy-together-type
+slugEN: benefitsitems-array-dentro-de-productcontextprovider-baraja-los-items-cuando-la-promocion-es-del-tipo-buy-together
 locale: es
 kiStatus: Backlog
 internalReference: 915213
@@ -18,7 +18,9 @@ internalReference: 915213
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al mirar el array de beneficios dentro del ProductContextProvider en el PDP de un producto podemos ver que no se devuelven todos los productos y se barajan los que se devuelven. Ambas listas de productos dentro de la promoción están juntas en el mismo array. Esto sólo ocurre cuando la promoción es del tipo Buy Together.

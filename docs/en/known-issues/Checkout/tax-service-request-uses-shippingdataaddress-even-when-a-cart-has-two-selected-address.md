@@ -1,5 +1,5 @@
 ---
-title: 'Tax service request uses shippingData.address even when a cart has two selected address'
+title: "Tax service request uses shippingData.address even when a cart has two selected address"
 id: 21t5R3AmcllYam4mXqX6lY
 status: PUBLISHED
 createdAt: 2024-08-01T13:11:10.623Z

@@ -1,5 +1,5 @@
 ---
-title: 'Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas'
+title: "Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas"
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive
+slugEN: divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas
 locale: pt
 kiStatus: Backlog
 internalReference: 346163
@@ -18,7 +18,9 @@ internalReference: 346163
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Como na verdade a mesma API cria e atualiza o armazém (Create/update warehouse: `POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses`), a Logística identifica pelo id qual ação deve ser tomada, e como o id é sensível a maiúsculas e minúsculas, se a intenção for atualizar o id "TEST" mas o id "test" for inserido, um novo armazém é criado, mas o inventário é replicado para ambos porque o inventário é insensível a maiúsculas e minúsculas.
 
@@ -39,21 +41,21 @@ Atualizar o tempo e o custo da doca de carregamento por API com "teste" de ident
     POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses{"id": "teste", "nome": "TEST", "warehouseDocks": {"dockId": "teste de doca", "tempo": "08:00:00", "custo": 0,00 }]}
 
 Embora a identificação seja a mesma, a sensibilidade a maiúsculas e minúsculas fará com que outro armazém seja criado:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9rtOZ4rvyimyhR8a4SPYiKkcV/?name=image.png)
 
 Entretanto, para a IU de inventário, a identificação não é sensível a maiúsculas e minúsculas, portanto, para ambos os inventários, as mesmas informações serão mostradas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/0yAKYzWYy5Sn023Hk28QqcDDR/?name=image.png)
 
 Mas verificando o API, cada inventário é separado, como esperado:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/LFPgP1tbhl81JA0e7zeW6lrwv/?name=image.png)
 
 E então, ao apagar o primeiro registro de depósito (com letra maiúscula "TEST"), as informações do inventário na IU continuam mostrando aquela quantidade disponível para o inventário de "teste" de identificação (letras minúsculas), onde na verdade é 0:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_4.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_5.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nhn5tLzAlpiTrfRTSaZNu058S/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/YI35cmEAkxMVHpaqTE0KrHHS1/?name=image.png)
 
 E como consequência disso, a indexação SKU recebe quantidade 0, e se mostra fora de estoque no checkout:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_6.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Logistics/divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas_7.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Q3SECpqLt5hNL4OIkp5s55BpK/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/j3LH5atDUaQL8RzTJug42Wqq7/?name=image.png)
 
 
 ## Workaround

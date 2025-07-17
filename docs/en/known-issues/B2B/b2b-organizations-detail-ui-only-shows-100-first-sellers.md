@@ -1,5 +1,5 @@
 ---
-title: 'B2B Organizations Detail UI only shows 100 first sellers'
+title: "B2B Organizations Detail UI only shows 100 first sellers"
 id: 6gZm70bIF0p92u6WtDZqdO
 status: PUBLISHED
 createdAt: 2024-01-15T21:29:19.105Z

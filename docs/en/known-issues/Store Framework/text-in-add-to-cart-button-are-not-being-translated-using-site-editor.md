@@ -1,5 +1,5 @@
 ---
-title: 'Text in Add to Cart Button are not being translated using site editor'
+title: "Text in Add to Cart Button are not being translated using site editor"
 id: 7rA62h80a1LpDWjgd3SImp
 status: PUBLISHED
 createdAt: 2024-05-02T17:33:41.019Z

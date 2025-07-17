@@ -1,5 +1,5 @@
 ---
-title: 'El conector PayU no puede procesar pagos cuando hay datos de envío que contienen más de 40 caracteres.'
+title: "El conector PayU no puede procesar pagos cuando hay datos de envío que contienen más de 40 caracteres."
 id: 1SEaraqWshBYzjOcL9LxsN
 status: PUBLISHED
 createdAt: 2023-09-18T21:02:32.217Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-payu-connector-is-unable-to-process-payments-when-there-is-shipping-data-containing-more-than-40-characters
+slugEN: el-conector-payu-no-puede-procesar-pagos-cuando-hay-datos-de-envio-que-contienen-mas-de-40-caracteres
 locale: es
 kiStatus: Backlog
 internalReference: 902539
@@ -18,7 +18,9 @@ internalReference: 902539
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El conector de PayU no maneja los datos de dirección recibidos de la caja y los envía al proveedor tal cual, sin ninguna modificación. Sin embargo, en la documentación del proveedor se indica que dichos datos no deben superar los 40 caracteres.

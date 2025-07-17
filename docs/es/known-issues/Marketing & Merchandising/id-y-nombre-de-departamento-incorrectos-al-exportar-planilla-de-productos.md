@@ -1,5 +1,5 @@
 ---
-title: 'ID y nombre de departamento incorrectos al exportar planilla de productos'
+title: "ID y nombre de departamento incorrectos al exportar planilla de productos"
 id: 6Nj93lJqgwGkYwaSWUu0So
 status: PUBLISHED
 createdAt: 2018-06-20T14:36:47.235Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: incorrect-id-and-department-name-when-exporting-products-spreadsheet
+slugEN: id-y-nombre-de-departamento-incorrectos-al-exportar-planilla-de-productos
 locale: es
 kiStatus: Backlog
 internalReference: 783363

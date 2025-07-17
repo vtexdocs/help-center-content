@@ -1,5 +1,5 @@
 ---
-title: 'Endereço sem país perturbando o pedidoMudanças na forma'
+title: "Endereço sem país perturbando o pedidoMudanças na forma"
 id: 3LfFmUaetyqZij8MCBJtcY
 status: PUBLISHED
 createdAt: 2022-05-16T19:58:42.987Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: adress-without-country-disrupting-orderform-changes
+slugEN: endereco-sem-pais-perturbando-o-pedidomudancas-na-forma
 locale: pt
 kiStatus: No Fix
 internalReference: 579814
@@ -18,7 +18,9 @@ internalReference: 579814
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um endereço incompleto sem a informação "país" for inserido em um formulário de pedido, os itens não podem ser acrescentados a ele.

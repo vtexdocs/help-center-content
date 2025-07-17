@@ -15,7 +15,7 @@ legacySlug: mapeando-categorias-e-marcas-para-marketplace
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-Quando uma loja atua como marketplace, é preciso ter em mente que o catálogo dos seus sellers tem uma estrutura totalmente independente da sua. Para compatibilizar as definições entre ambos catálogos, é necessário que seja feito o mapeamento de [categorias](https://help.vtex.com/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [marcas](https://help.vtex.com/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) e [especificações](https://help.vtex.com/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) quando um seller:
+Quando uma loja atua como marketplace, é preciso ter em mente que o catálogo dos seus sellers tem uma estrutura totalmente independente da sua. Para compatibilizar as definições entre ambos catálogos, é necessário que seja feito o mapeamento de [categorias](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [marcas](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) e [especificações](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) quando um seller:
 
 - Envia seus produtos pela primeira vez  
 - Envia produtos com informações que ainda não foram mapeadas  
@@ -27,9 +27,9 @@ Isto permite que os produtos enviados pelo seller sejam inseridos com as informa
 3. Clique em __Novo Mapeamento__.  
 4. Selecione um seller entre as opções e clique em __Adicionar__.  
 5. Para o seller que foi adicionado ao painel:  
-  a. Faça o [mapeamento de categorias](https://help.vtex.com/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-categorias).    
-  b. Faça o [mapeamento de marcas](https://help.vtex.com/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-marcas).   
-  c. Faça o [mapeamento de especificações](https://help.vtex.com/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-especificacoes).  
+  a. Faça o [mapeamento de categorias](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-categorias).    
+  b. Faça o [mapeamento de marcas](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-marcas).   
+  c. Faça o [mapeamento de especificações](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-especificacoes).  
 6. Clique em __Atualizar mapeamento__.  
 
 ## Mapeamento de categorias
@@ -53,7 +53,9 @@ Para preencher a planilha:
 4. Salve o __arquivo XLS__ da planilha.  
 5. Em *Mapear categorias*, envie a planilha atualizada pelo botão __Atualizar mapeamento de categorias__.   
 
->ℹ️ Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de enviar o arquivo.
+<div class="alert alert-info">
+Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de enviar o arquivo.
+</div>
 
 ### Exemplo
 Neste exemplo, baixamos a planilha atual que veio com os seguintes valores em cada coluna:
@@ -72,10 +74,12 @@ Faremos o mapeamento das categorias do seller, buscando a melhor correspondênci
 | [3] Feminino\| <br>[28] Jeans                       | Jeans / Shorts            |                                    |
 | [3] Feminino\| <br>[28] Jeans                       | Jeans / Bermudas          |                                    |
 
->ℹ️ Note que mais de uma categoria no catálogo do seller se encaixou na mesma categoria do marketplace (Feminino / Jeans). Nesse caso, duplique a linha correspondente em **Marketplace categories**, e cole os valores de <i>Unmapped categories</i> sent by seller em cada linha duplicada.
+<div class="alert alert-info">
+Note que mais de uma categoria no catálogo do seller se encaixou na mesma categoria do marketplace (Feminino / Jeans). Nesse caso, duplique a linha correspondente em <b>Marketplace categories</b>, e cole os valores de <i>Unmapped categories</i> sent by seller em cada linha duplicada. 
+</div>
 
 ## Mapeamento de marcas
-Depois que o seller completar o [envio de produtos para o Marketplace](https://help.vtex.com/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de marcas. A correspondência entre marcas do marketplace e as marcas do seller é feita através de uma planilha.
+Depois que o seller completar o [envio de produtos para o Marketplace](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de marcas. A correspondência entre marcas do marketplace e as marcas do seller é feita através de uma planilha.
 
 ### Preenchendo a planilha
 Você pode baixar o modelo atualizado da planilha no botão **Baixar tabela atual**, no seller adicionado, na página de Categorias e Marcas. A planilha contém as seguintes colunas: 
@@ -92,7 +96,9 @@ Você pode baixar o modelo atualizado da planilha no botão **Baixar tabela atua
 4. Salve o __arquivo XLS__ da planilha.    
 5. Em *Mapear marca*s, envie a planilha atualizada pelo botão __Atualizar mapeamento de marcas__.     
 
->ℹ️ Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de importar o arquivo.
+<div class="alert alert-info">
+Caso o programa utilizado para abrir a planilha utilize o padrão de separadores “;”, deve-se substituí-los para “,” antes de importar o arquivo.
+</div>
 
 ### Exemplo
 Neste exemplo, baixamos a planilha atual que veio com os seguintes valores em cada coluna:
@@ -117,9 +123,9 @@ Note que nem todas as marcas do marketplace tiveram uma correspondência nesse c
 
 ## Mapeamento de Especificações
 
-Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Depois que o seller completar o [envio de produtos](https://help.vtex.com/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de especificações de produtos e SKUs. O mapeamento é feito manualmente, por meio da página de Categorias e Marcas, para apontar as equivalências entre os campos no marketplace e no seller. 
+Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Depois que o seller completar o [envio de produtos](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de especificações de produtos e SKUs. O mapeamento é feito manualmente, por meio da página de Categorias e Marcas, para apontar as equivalências entre os campos no marketplace e no seller. 
 
-Quando um seller envia um produto com uma especificação que não foi mapeada pelo marketplace, e o marketplace [aprova](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) esse produto, um novo SKU é criado, apesar de já existir um SKU no catálogo do marketplace ao qual associá-lo. A especificação não mapeada (ex. cor) ou seu valor (ex. amarelo) será registrada como um **Atributo não estruturado** no catálogo do marketplace, mas **não aparecerá no storefront do marketplace**. Portanto, é necessário mapear todas as especificações e seus valores, para que elas sejam visíveis para os compradores. Você pode visualizar os Atributos não estruturados em seu Admin. Acesse *Catálogo > Produtos e SKUs > escolha um item da lista > clique na aba de Especificações*.
+Quando um seller envia um produto com uma especificação que não foi mapeada pelo marketplace, e o marketplace [aprova](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) esse produto, um novo SKU é criado, apesar de já existir um SKU no catálogo do marketplace ao qual associá-lo. A especificação não mapeada (ex. cor) ou seu valor (ex. amarelo) será registrada como um **Atributo não estruturado** no catálogo do marketplace, mas **não aparecerá no storefront do marketplace**. Portanto, é necessário mapear todas as especificações e seus valores, para que elas sejam visíveis para os compradores. Você pode visualizar os Atributos não estruturados em seu Admin. Acesse *Catálogo > Produtos e SKUs > escolha um item da lista > clique na aba de Especificações*.
 
 Para realizar o mapeamento de especificações de produtos e SKUs, siga o passo a passo abaixo:
 
@@ -143,7 +149,7 @@ Faremos o mapeamento das especificações do seller, associando as especificaç�
 
 ### Especificações e aprovação de SKUs Recebidos
 
-O mapeamento de especificações é aplicado no site do marketplace de formas diferentes, dependendo da ação tomada no módulo [SKUs Recebidos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus/), ao aprovar SKUs do seller:
+O mapeamento de especificações é aplicado no site do marketplace de formas diferentes, dependendo da ação tomada no módulo [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/), ao aprovar SKUs do seller:
 
 - __Associar a um SKU existente__: o mapeamento de especificações é desconsiderado pelo sistema do marketplace, pois o SKU já existe no marketplace com as mesmas especificações.   
 - __Associar a um produto existente:__ o mapeamento só é considerado para as especificações de SKU. Isso ocorre dado que as especificações de produto já estão presentes no marketplace.  
@@ -151,7 +157,7 @@ O mapeamento de especificações é aplicado no site do marketplace de formas di
 
 ## Saiba Mais
 
-- [Aprovar produtos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus/)    
-- [Criar política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Política comercial para marketplaces](https://help.vtex.com/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)    
+- [Aprovar produtos](/pt/tutorial/sugerindo-e-aprovando-skus/)    
+- [Criar política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
+- [Política comercial para marketplaces](/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)    
 

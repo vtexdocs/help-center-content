@@ -1,5 +1,5 @@
 ---
-title: 'Product/SKU upload form allows UTF-16 format upload/download'
+title: "Product/SKU upload form allows UTF-16 format upload/download"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
@@ -31,7 +31,7 @@ Currently, if a user attempts to upload an SKU list to the regular promotion for
 
 1) Create a regular promotion and in section #2 "To which **items** will this promotion apply?", upload a UTF-16 formatted, valid SKU list to either the SKU or Product files
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/productsku-upload-form-allows-utf16-format-uploaddownload_1.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/v2q7rCm249CNqnRQjXxKRdjnx/?name=inline-242501829.png)​
 
 2) Save the promotion
 

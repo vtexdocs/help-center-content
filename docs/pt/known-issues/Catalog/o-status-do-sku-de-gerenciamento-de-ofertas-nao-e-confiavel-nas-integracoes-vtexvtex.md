@@ -1,5 +1,5 @@
 ---
-title: 'As interações do Sku de Gestão de Ofertas não são estáveis'
+title: "As interações do Sku de Gestão de Ofertas não são estáveis"
 id: 7o3IEgPiDB9vYVJ8RS50jl
 status: PUBLISHED
 createdAt: 2023-02-02T16:29:12.305Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: offers-management-sku-status-is-not-reliable-in-vtexvtex-integrations
+slugEN: o-status-do-sku-de-gerenciamento-de-ofertas-nao-e-confiavel-nas-integracoes-vtexvtex
 locale: pt
 kiStatus: Backlog
 internalReference: 745738
@@ -18,7 +18,9 @@ internalReference: 745738
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Atualmente o sistema de gerenciamento de ofertas mostra o status dos skus enviados de um vendedor para um mercado e suas interações e logs de ações como atualizações de preço e estoque.
 

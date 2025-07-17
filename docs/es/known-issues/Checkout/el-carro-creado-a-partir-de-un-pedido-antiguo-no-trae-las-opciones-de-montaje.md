@@ -1,5 +1,5 @@
 ---
-title: 'El carro creado a partir de un pedido antiguo no trae las opciones de montaje'
+title: "El carro creado a partir de un pedido antiguo no trae las opciones de montaje"
 id: 530zUKzAm8oafA8BKl7G8F
 status: PUBLISHED
 createdAt: 2024-04-19T20:21:41.131Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-old-order-doesnt-bring-the-assembly-options
+slugEN: el-carro-creado-a-partir-de-un-pedido-antiguo-no-trae-las-opciones-de-montaje
 locale: es
 kiStatus: Backlog
 internalReference: 1020278
@@ -18,7 +18,9 @@ internalReference: 1020278
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

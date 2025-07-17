@@ -1,5 +1,5 @@
 ---
-title: 'Product availability is incorrectly showed in the pickups in cart display modal'
+title: "Product availability is incorrectly showed in the pickups in cart display modal"
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z

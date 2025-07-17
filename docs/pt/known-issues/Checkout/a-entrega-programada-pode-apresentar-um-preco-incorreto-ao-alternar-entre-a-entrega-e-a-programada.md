@@ -1,5 +1,5 @@
 ---
-title: 'A entrega programada pode apresentar um preço incorreto ao alternar entre a entrega e a programada'
+title: "A entrega programada pode apresentar um preço incorreto ao alternar entre a entrega e a programada"
 id: 1Jue9hi3G4ryML88dqWz4E
 status: PUBLISHED
 createdAt: 2023-03-13T20:40:19.424Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: scheduled-delivery-may-show-incorrect-price-when-switching-between-delivery-and-scheduled
+slugEN: a-entrega-programada-pode-apresentar-um-preco-incorreto-ao-alternar-entre-a-entrega-e-a-programada
 locale: pt
 kiStatus: Backlog
 internalReference: 770250
@@ -18,7 +18,9 @@ internalReference: 770250
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando é configurada uma promoção de valor máximo de remessa, se você começar a mudar entre entrega padrão e entrega programada várias vezes, pode haver um preço de entrega programada diferente na IU

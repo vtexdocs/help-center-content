@@ -1,5 +1,5 @@
 ---
-title: 'Error al aplicar filtro en el módulo Catalog'
+title: "Error al aplicar filtro en el módulo Catalog"
 id: 1cCgcFEnte0kguQIi6ESo4
 status: PUBLISHED
 createdAt: 2017-04-03T19:09:52.412Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
-slugEN: error-on-applying-filter-in-the-catalog-module
+slugEN: error-al-aplicar-filtro-en-el-modulo-catalog
 locale: es
 kiStatus: Fixed
 internalReference: 

@@ -15,5 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Datos de intermediarios se ponen a disposición para ventas realizadas en los marketplaces integrados de forma nativa.'
 ---
 
->⚠️ Este contenido es exclusivamente regional;
-> por lo tanto, no se aplica a los países de habla española. Consulte este anuncio en portugués para obtener más información.
+<div class="alert alert-warning" role="alert">
+Este contenido es exclusivamente regional;
+por lo tanto, no se aplica a los países de habla española. Consulte este anuncio en portugués para obtener más información.
+</div>

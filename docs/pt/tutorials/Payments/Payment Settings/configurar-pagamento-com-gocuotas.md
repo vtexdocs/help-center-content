@@ -3,8 +3,8 @@ title: 'Configurar pagamento com GOcuotas'
 id: 6oGcugCc3pXIJEhbOZ5YmV
 status: PUBLISHED
 createdAt: 2023-09-29T11:30:25.004Z
-updatedAt: 2024-02-05T13:42:55.988Z
-publishedAt: 2024-02-05T13:42:55.988Z
+updatedAt: 2024-12-09T15:15:11.383Z
+publishedAt: 2024-12-09T15:15:11.383Z
 firstPublishedAt: 2023-09-29T11:39:03.239Z
 contentType: tutorial
 productTeam: Financial
@@ -33,7 +33,7 @@ Para configurar GOcuotas, siga os passos abaixo:
 3. Clique em __GOcuotas__.
 4. Ative a condição no campo __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, GOcuotas pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

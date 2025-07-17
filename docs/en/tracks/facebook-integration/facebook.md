@@ -14,11 +14,13 @@ trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration
 ---
 
->ℹ️ There is an integration with the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension and Conversions API</a> that should be your default selection when integrating with Facebook. This is valid even if the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a> has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
+<div class = "alert alert-info">
+There is an integration with the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension and Conversions API</a> that should be your default selection when integrating with Facebook. This is valid even if the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a> has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
+</div>
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 
-![Logo Facebook](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/facebook-integration/facebook_1.png)
+![Logo Facebook](https://images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/a7cccc844a32302789bff0768ec4c62f/facebook_logo_4.png)
 
 There are different strategies to promote your store on Facebook. Business Manager is a free tool created to make it easier for you to manage your actions on the social network. In just one place, you can manage organic posts, paid ads, content libraries, and more.
 

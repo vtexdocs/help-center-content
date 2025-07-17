@@ -1,5 +1,5 @@
 ---
-title: 'Los nuevos pedidos de suscripción no se crean con la tarjeta de crédito guardada y savePersonalDataAsOptIn'
+title: "Los nuevos pedidos de suscripción no se crean con la tarjeta de crédito guardada y savePersonalDataAsOptIn"
 id: 5mMUYOzdXM9p69oythduOx
 status: PUBLISHED
 createdAt: 2024-08-27T17:54:38.067Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin
+slugEN: los-nuevos-pedidos-de-suscripcion-no-se-crean-con-la-tarjeta-de-credito-guardada-y-savepersonaldataasoptin
 locale: es
 kiStatus: Backlog
 internalReference: 1087876
@@ -18,7 +18,9 @@ internalReference: 1087876
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 No se pueden crear nuevos pedidos con suscripciones utilizando una tarjeta de crédito guardada cuando "savePersonalDataAsOptIn" está activo en la configuración de orderForm.

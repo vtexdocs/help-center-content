@@ -1,5 +1,5 @@
 ---
-title: 'El pago sobrescribe el nombre del receptor con el nombre del cliente'
+title: "El pago sobrescribe el nombre del receptor con el nombre del cliente"
 id: 6hw8M6PeUes529M1AdK62i
 status: PUBLISHED
 createdAt: 2022-09-22T01:03:23.512Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-overwrites-receiver-name-with-customer-name
+slugEN: el-pago-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente
 locale: es
 kiStatus: Backlog
 internalReference: 324792
@@ -18,7 +18,9 @@ internalReference: 324792
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El nombre del receptor se reescribe con el nombre del cliente después de recargar la página de pago.

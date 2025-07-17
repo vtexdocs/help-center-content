@@ -1,5 +1,5 @@
 ---
-title: 'Priorización innecesaria de los resultados de búsqueda por diacríticos en portugués'
+title: "Priorización innecesaria de los resultados de búsqueda por diacríticos en portugués"
 id: 3lbgwHFc9RLusAnZnvnE1H
 status: PUBLISHED
 createdAt: 2024-05-07T15:24:18.404Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: unecessary-search-results-prioritization-by-diacritics-for-portuguese
+slugEN: priorizacion-innecesaria-de-los-resultados-de-busqueda-por-diacriticos-en-portugues
 locale: es
 kiStatus: Backlog
 internalReference: 1028763
@@ -18,7 +18,9 @@ internalReference: 1028763
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Inteligente prioriza los resultados que tienen una coincidencia exacta, teniendo en cuenta los diacríticos del término buscado y los productos.

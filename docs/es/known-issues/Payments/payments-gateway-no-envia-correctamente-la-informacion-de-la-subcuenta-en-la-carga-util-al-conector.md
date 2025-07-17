@@ -1,5 +1,5 @@
 ---
-title: 'Payments Gateway no envía correctamente la información de la subcuenta en la carga útil al conector'
+title: "Payments Gateway no envía correctamente la información de la subcuenta en la carga útil al conector"
 id: 49kjQUzk5LmPmfeCxpqdzg
 status: PUBLISHED
 createdAt: 2023-05-02T19:55:08.282Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector
+slugEN: payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector
 locale: es
 kiStatus: Backlog
 internalReference: 801012
@@ -18,7 +18,9 @@ internalReference: 801012
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El problema radica en la formulación de las URLs que se envían al proveedor de pagos. Por lo tanto, lo que ocurre es que en escenarios donde estas URLs son diferentes, como en el caso de una cuenta franquiciada que procesa el pago y almacena en una tienda rápida, la diferencia entre las URLs generadas en el pago y la URL esperada por el checkout provoca que la app no renderice.

@@ -1,5 +1,5 @@
 ---
-title: "User only with the role 'User Administrator - RESTRICTED' is not able to list the users"
+title: 'User only with the role "User Administrator - RESTRICTED" is not able to list the users'
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z
@@ -31,7 +31,7 @@ If an admin user only has the role "**User Administrator - RESTRICTED**" ("**Sav
 - Have an user with only the role "**User Administrator - RESTRICTED**";
 - Access the "**Admin Users**" page with this user (e.g. https://my-account-here.myvtex.com/admin/users);
 - You may notice that the list is empty, even with users already registered ("_No users found :: The user search returned an empty list. Try removing any search filters or adding new users to this account._"):
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fZ2k11R3xPrhNv5yHVkv9alam/?name=image.png)
 
 - It is possible to add the user you want, and include the necessary roles, but we can't access the users to add/edit/remove roles, or even delete the user through their registration, but only through the role.
 
@@ -44,7 +44,7 @@ If an admin user only has the role "**User Administrator - RESTRICTED**" ("**Sav
 You can add or remove the user to the role by accessing the role directly.
 
 You can also create a custom role with only the resources "**Get paged roles**" and "**Get paged users**":
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/yjNfjlnfFaBrXZE6gx97OaxHy/?name=image.png)
 And then, add it to the user who can save users.
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Error message displayed when adding or removing collections in Promotions'
+title: "Error message displayed when adding or removing collections in Promotions"
 id: 5AsFQ2TTsThgMDDIQumcGO
 status: PUBLISHED
 createdAt: 2024-09-10T12:49:19.503Z

@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Some skus do not update price'
+title: "[Magazine Luiza] Some skus do not update price"
 id: NXb7Bb4BTJepPphcK9z0V
 status: PUBLISHED
 createdAt: 2023-08-17T14:14:36.434Z

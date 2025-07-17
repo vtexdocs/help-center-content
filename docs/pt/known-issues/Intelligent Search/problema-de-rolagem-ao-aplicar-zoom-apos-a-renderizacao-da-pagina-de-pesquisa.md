@@ -1,5 +1,5 @@
 ---
-title: 'Problema de rolagem ao aplicar zoom após a renderização da página de pesquisa'
+title: "Problema de rolagem ao aplicar zoom após a renderização da página de pesquisa"
 id: 2FcX9UNvBOanE3EhH9q0DT
 status: PUBLISHED
 createdAt: 2024-02-08T16:51:28.278Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: scroll-issue-when-zooming-after-search-page-render
+slugEN: problema-de-rolagem-ao-aplicar-zoom-apos-a-renderizacao-da-pagina-de-pesquisa
 locale: pt
 kiStatus: Fixed
 internalReference: 979464
@@ -18,7 +18,9 @@ internalReference: 979464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

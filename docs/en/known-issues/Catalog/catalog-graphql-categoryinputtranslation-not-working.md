@@ -1,10 +1,10 @@
 ---
-title: 'Catalog GraphQL CategoryInputTranslation not working'
+title: "Catalog GraphQL CategoryInputTranslation not working"
 id: 1Zue7Roia2sYa4xNP9hF2y
 status: PUBLISHED
 createdAt: 2024-04-29T14:30:53.743Z
-updatedAt: 2024-04-29T14:30:54.577Z
-publishedAt: 2024-04-29T14:30:54.577Z
+updatedAt: 2025-01-28T14:38:29.411Z
+publishedAt: 2025-01-28T14:38:29.411Z
 firstPublishedAt: 2024-04-29T14:30:54.577Z
 contentType: knownIssue
 productTeam: Catalog
@@ -37,9 +37,8 @@ Currently, the method CategoryInputTranslation, for the catalog graphQL is not g
 ## Workaround
 
 
-Directly use the VTEX messages app for translating data instead (vtex.messages)
 
+- use `vtex.catalog-grapghql@1.103.1` via Postman
 
-
-
+- use directly `vtex.messages@1.69.0` in GraphQL IDE
 

@@ -1,5 +1,5 @@
 ---
-title: "El campo 'Cambios y devoluciones' no se actualiza en la interfaz de usuario de gestión de vendedores después de guardar."
+title: 'El campo "Cambios y devoluciones" no se actualiza en la interfaz de usuario de gestión de vendedores después de guardar.'
 id: 1z8LrsbGk5B2ejZ1PV9vaB
 status: PUBLISHED
 createdAt: 2022-11-01T17:47:30.359Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: field-exchanges-and-returns-is-not-updating-on-seller-management-ui-after-save
+slugEN: el-campo-cambios-y-devoluciones-no-se-actualiza-en-la-interfaz-de-usuario-de-gestion-de-vendedores-despues-de-guardar
 locale: es
 kiStatus: Fixed
 internalReference: 689886
@@ -18,7 +18,9 @@ internalReference: 689886
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Después de guardar el campo "Cambios y devoluciones" en la UI la información se actualiza por primera vez pero si intentamos salir del área de gestión o refrescar la página la información se pierde.

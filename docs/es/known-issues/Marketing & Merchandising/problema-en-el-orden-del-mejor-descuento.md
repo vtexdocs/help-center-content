@@ -1,5 +1,5 @@
 ---
-title: 'Problema en el orden del mejor descuento'
+title: "Problema en el orden del mejor descuento"
 id: 7JlXcIcicgQwkOkCuce4Ow
 status: PUBLISHED
 createdAt: 2017-04-03T20:07:11.542Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: problem-in-putting-discounts-in-size-order
+slugEN: problema-en-el-orden-del-mejor-descuento
 locale: es
 kiStatus: Backlog
 internalReference: 

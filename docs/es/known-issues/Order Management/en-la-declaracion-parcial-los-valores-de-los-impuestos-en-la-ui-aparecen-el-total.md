@@ -1,5 +1,5 @@
 ---
-title: 'En la declaración parcial, los valores de los impuestos en la UI aparecen el total'
+title: "En la declaración parcial, los valores de los impuestos en la UI aparecen el total"
 id: 2I5a9hwrUo6s1htxOg8H1U
 status: PUBLISHED
 createdAt: 2022-04-11T13:15:06.455Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: in-the-partial-return-the-tax-values-in-the-ui-appear-the-total
+slugEN: en-la-declaracion-parcial-los-valores-de-los-impuestos-en-la-ui-aparecen-el-total
 locale: es
 kiStatus: No Fix
 internalReference: 559458
@@ -18,7 +18,9 @@ internalReference: 559458
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un pedido en el que tenemos dos artículos idénticos, y uno de los artículos es devuelto, las tarifas de ambos artículos se muestran en la interfaz de usuario, en lugar de mostrar sólo las tarifas del artículo que fue devuelto en la interfaz de usuario. Esta información sobre las tarifas es meramente informativa, ya que lo que realmente se devuelve es lo que se rellena en la nota de devolución.

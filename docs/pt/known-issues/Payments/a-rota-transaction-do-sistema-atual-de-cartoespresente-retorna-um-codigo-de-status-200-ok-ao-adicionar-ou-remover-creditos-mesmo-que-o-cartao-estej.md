@@ -1,5 +1,5 @@
 ---
-title: 'A rota /transaction do sistema atual de cartões-presente retorna um código de status 200 OK ao adicionar ou remover créditos, mesmo que o cartão esteja inativo.'
+title: "A rota /transaction do sistema atual de cartões-presente retorna um código de status 200 OK ao adicionar ou remover créditos, mesmo que o cartão esteja inativo."
 id: 4d5oeiLIvxLqmA1uHtZmrw
 status: PUBLISHED
 createdAt: 2023-04-24T20:31:14.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-current-gift-card-systems-transaction-route-returns-a-200-ok-status-code-when-adding-or-removing-credits-even-if-the-card-is-inactive
+slugEN: a-rota-transaction-do-sistema-atual-de-cartoespresente-retorna-um-codigo-de-status-200-ok-ao-adicionar-ou-remover-creditos-mesmo-que-o-cartao-esteja-inativo
 locale: pt
 kiStatus: Backlog
 internalReference: 795997
@@ -18,7 +18,9 @@ internalReference: 795997
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, nosso sistema de cartão-presente não inclui uma verificação para verificar se um cartão-presente está ativo antes de adicionar ou remover créditos. Embora essa rota se refira apenas à realização de transações com cartão-presente, é a única maneira de fazê-lo, portanto, espera-se que alguma validação seja feita.

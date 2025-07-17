@@ -1,5 +1,5 @@
 ---
-title: 'Divergência Shipping Estimate - B2W'
+title: "Divergência Shipping Estimate - B2W"
 id: 3oQUZL446WlZ7Mw2l0OCwI
 status: PUBLISHED
 createdAt: 2022-11-04T18:15:21.312Z

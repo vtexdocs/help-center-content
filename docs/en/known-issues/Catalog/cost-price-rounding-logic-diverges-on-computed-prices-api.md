@@ -1,5 +1,5 @@
 ---
-title: 'Cost Price Rounding Logic diverges on Computed Prices API'
+title: "Cost Price Rounding Logic diverges on Computed Prices API"
 id: 744fWEh7fgMHwvidFEhlV
 status: PUBLISHED
 createdAt: 2023-06-12T17:15:06.190Z
@@ -31,7 +31,7 @@ Set a product with a cost price of 67.82 and no markup.
 
 Check the pricing UI and the response from this API, which should deliver:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/cost-price-rounding-logic-diverges-on-computed-prices-api_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/r33X4C7mwiOwq9GkcB72ngCur/?name=image.png)
 
 Even though the correct value is 67.82
 

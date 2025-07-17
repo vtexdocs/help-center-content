@@ -1,5 +1,5 @@
 ---
-title: "Error al integrar sku 'El campo no puede ser nulo' - Magalu"
+title: 'Error al integrar sku "El campo no puede ser nulo" - Magalu'
 id: 3SYlRr6XVrl7T3Uw646MkE
 status: PUBLISHED
 createdAt: 2022-08-19T21:01:40.357Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: error-integrating-sku-field-may-not-be-null-magalu
+slugEN: error-al-integrar-sku-el-campo-no-puede-ser-nulo-magalu
 locale: es
 kiStatus: Backlog
 internalReference: 639272
@@ -18,7 +18,9 @@ internalReference: 639272
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

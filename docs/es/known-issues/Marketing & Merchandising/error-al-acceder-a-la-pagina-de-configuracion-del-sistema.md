@@ -1,5 +1,5 @@
 ---
-title: 'Error al acceder a la página de configuración del sistema'
+title: "Error al acceder a la página de configuración del sistema"
 id: 3nE9IyRJuM6SWScSWiIsiY
 status: PUBLISHED
 createdAt: 2017-04-03T20:12:15.589Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: error-on-accessing-system-settings-page
+slugEN: error-al-acceder-a-la-pagina-de-configuracion-del-sistema
 locale: es
 kiStatus: Backlog
 internalReference: 

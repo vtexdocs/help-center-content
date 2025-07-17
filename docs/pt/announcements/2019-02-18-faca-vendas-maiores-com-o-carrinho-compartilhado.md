@@ -41,6 +41,8 @@ O carrinho compartilhado só é possível por causa da inclusão de um novo par�
 - Use as [APIs da VTEX](https://github.com/vtex/vtex.js/tree/master/docs/checkout#getorderformexpectedorderformsections) para obter o ID do carrinho.
 - Customize a página do carrinho para que o link passe a contar com o ID.
 
->⚠️ Lembramos que o carrinho compartilhado é opcional e as mudanças citadas aqui devem se feitas **apenas pelas lojas que desejam usar a feature**.
+<div class="alert alert-warning">
+Lembramos que o carrinho compartilhado é opcional e as mudanças citadas aqui devem se feitas <strong>apenas pelas lojas que desejam usar a feature</strong>.
+</div>
 
 Leia o [artigo sobre o carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado) e conheça melhor a nova funcionalidade. 

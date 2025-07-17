@@ -1,5 +1,5 @@
 ---
-title: 'Calendario en inglés para tiendas en español'
+title: "Calendario en inglés para tiendas en español"
 id: vRptvMiBf2SfGPFoDwjg0
 status: PUBLISHED
 createdAt: 2022-05-04T19:26:23.535Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: calendar-in-english-for-stores-in-spanish
+slugEN: calendario-en-ingles-para-tiendas-en-espanol
 locale: es
 kiStatus: Backlog
 internalReference: 412426
@@ -18,7 +18,9 @@ internalReference: 412426
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

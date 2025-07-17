@@ -1,5 +1,5 @@
 ---
-title: 'Al relacionar adjuntos a un servicio, otros servicios también se alteran'
+title: "Al relacionar adjuntos a un servicio, otros servicios también se alteran"
 id: 6OdMz37fgWig4cIQciQuk4
 status: PUBLISHED
 createdAt: 2018-02-28T18:49:35.824Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: when-relating-attachments-to-a-service-other-services-are-also-changed
+slugEN: al-relacionar-adjuntos-a-un-servicio-otros-servicios-tambien-se-alteran
 locale: es
 kiStatus: Backlog
 internalReference: 

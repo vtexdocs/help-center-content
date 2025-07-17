@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 Para entender melhor o significado de cada campo da planilha de cadastro de preço fixo, veja a descrição completa dos itens abaixo.
 
-![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/preencher-campos-da-planilha-de-importacao-de-precos-fixos_1.png)
+![tabela.preço.fixo](https://images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
 
 - **SKU ID:** ID do SKU que deseja adicionar o preço fixo.
 - **Trade Policy:** nome ou ID da política comercial em que o preço fixo será aplicado.
@@ -35,8 +35,4 @@ Os próximos campos são opcionais na planilha, exportados somente para exibiç�
 - **Ref ID (View Only):** código de referência único utilizado para facilitar a organização do catálogo de produtos. Esse ID geralmente é criado pelos sistemas internos da loja.
 - **EAN (View Only):** código de identificação único do SKU (código de barras).
 
->⚠️ Planilhas de preços usadas para importação têm um limite de tamanho de 1 MB. 
->
-> 
->
-> Se sua planilha atual excede este limite, recomendamos dividí-la em vários arquivos, **certificando-se que os preços que se referem ao mesmo SKU sejam mantidos juntos na mesma planilha**.
+<div class="alert alert-warning">Planilhas de preços usadas para importação têm um limite de tamanho de 1 MB. <br/><br/>Se sua planilha atual excede este limite, recomendamos dividí-la em vários arquivos, <strong>certificando-se que os preços que se referem ao mesmo SKU sejam mantidos juntos na mesma planilha</strong>.</div>

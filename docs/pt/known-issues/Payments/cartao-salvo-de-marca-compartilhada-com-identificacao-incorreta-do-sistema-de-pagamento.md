@@ -1,5 +1,5 @@
 ---
-title: 'Cartão salvo de marca compartilhada com identificação incorreta do sistema de pagamento'
+title: "Cartão salvo de marca compartilhada com identificação incorreta do sistema de pagamento"
 id: 1tyihmnbb7FQTr7fQWGaNy
 status: PUBLISHED
 createdAt: 2023-05-29T14:13:00.727Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: cobranded-saved-card-with-wrong-payment-system-id
+slugEN: cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento
 locale: pt
 kiStatus: Backlog
 internalReference: 833400
@@ -18,7 +18,9 @@ internalReference: 833400
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, quando um pedido é pago com um cartão de marca compartilhada, o cartão salvo tem o ID do sistema de pagamento errado. Quando esse problema ocorre, as informações do cartão salvo são exibidas no método de pagamento errado no card-ui.

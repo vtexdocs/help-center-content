@@ -1,5 +1,5 @@
 ---
-title: 'Problema para indexar os métodos de pagamento no checkout ao usar período de tempo condição especial'
+title: "Problema para indexar os métodos de pagamento no checkout ao usar período de tempo condição especial"
 id: 1sM1ZtZw0GZ9TFuULg3Igd
 status: PUBLISHED
 createdAt: 2022-04-15T18:34:49.426Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: problem-to-index-payment-methods-on-checkout-when-using-period-of-time-special-condition
+slugEN: problema-para-indexar-os-metodos-de-pagamento-no-checkout-ao-usar-periodo-de-tempo-condicao-especial
 locale: pt
 kiStatus: Backlog
 internalReference: 402857
@@ -18,7 +18,9 @@ internalReference: 402857
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos um problema para indexar os métodos de pagamento no checkout. Isso acontece com condições de pagamento que são configuradas com um período de tempo de condições especiais.

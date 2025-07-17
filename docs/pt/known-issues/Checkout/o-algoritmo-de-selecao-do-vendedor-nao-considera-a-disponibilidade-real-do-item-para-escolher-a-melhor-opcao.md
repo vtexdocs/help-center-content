@@ -1,5 +1,5 @@
 ---
-title: 'O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção'
+title: "O algoritmo de seleção do vendedor não considera a disponibilidade real do item para escolher a melhor opção"
 id: 4wT0pC5gzxFvh7nAy7CHK7
 status: PUBLISHED
 createdAt: 2022-07-07T17:40:45.874Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option
+slugEN: o-algoritmo-de-selecao-do-vendedor-nao-considera-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao
 locale: pt
 kiStatus: Backlog
 internalReference: 360097
@@ -18,7 +18,9 @@ internalReference: 360097
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O algoritmo de seleção do vendedor considera o estoque dos itens a fim de selecionar o melhor vendedor de whitelabel para um determinado contexto.

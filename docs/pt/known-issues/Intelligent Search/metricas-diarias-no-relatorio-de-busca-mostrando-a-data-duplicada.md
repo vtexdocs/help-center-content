@@ -1,5 +1,5 @@
 ---
-title: 'Métricas diárias no relatório de busca mostrando a data duplicada'
+title: "Métricas diárias no relatório de busca mostrando a data duplicada"
 id: 2GZz9wQgopOWpjDYsoAvq3
 status: PUBLISHED
 createdAt: 2022-04-27T15:02:22.168Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: daily-metrics-on-search-report-showing-duplicated-date
+slugEN: metricas-diarias-no-relatorio-de-busca-mostrando-a-data-duplicada
 locale: pt
 kiStatus: Backlog
 internalReference: 508883
@@ -18,12 +18,14 @@ internalReference: 508883
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um relatório de busca é baixado, a tabela contendo métricas como buscas, cliques e cliques únicos no final do relatório contém uma coluna de datas mostrando entradas duplicadas sem uma razão aparente, como você pode ver na imagem:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Intelligent%20Search/metricas-diarias-no-relatorio-de-busca-mostrando-a-data-duplicada_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5c2UeFN2SuSga7svfBs5UPNF5/?name=inline-1918989527.png)
 
 
 

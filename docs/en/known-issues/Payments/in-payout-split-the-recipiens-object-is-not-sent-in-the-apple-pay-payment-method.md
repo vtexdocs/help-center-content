@@ -1,5 +1,5 @@
 ---
-title: 'In Payout Split the recipiens object is not sent in the Apple Pay payment method'
+title: "In Payout Split the recipiens object is not sent in the Apple Pay payment method"
 id: MPafkQI7w3q5kGLxQTgjG
 status: PUBLISHED
 createdAt: 2024-09-09T17:54:39.877Z

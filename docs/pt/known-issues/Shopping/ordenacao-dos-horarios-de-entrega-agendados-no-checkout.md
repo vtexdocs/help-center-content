@@ -1,5 +1,5 @@
 ---
-title: 'Ordenação dos horários de entrega agendados no checkout'
+title: "Ordenação dos horários de entrega agendados no checkout"
 id: 2ZAhWeQbJe6kWgoCEMEMWQ
 status: PUBLISHED
 createdAt: 2018-09-18T18:32:16.155Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ordering-of-delivery-times-scheduled-at-checkout
+slugEN: ordenacao-dos-horarios-de-entrega-agendados-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 Atualmente os horários de entrega para uma entrega agendada estão fora de ordem, ou em ordenação decrescente. Para melhor legibilidade, é esperado que estas informações sejam ordenadas de forma crescente.
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/ordenacao-dos-horarios-de-entrega-agendados-no-checkout_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulação
 

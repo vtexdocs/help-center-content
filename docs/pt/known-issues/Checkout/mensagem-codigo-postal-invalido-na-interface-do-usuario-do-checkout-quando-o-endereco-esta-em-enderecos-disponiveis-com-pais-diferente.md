@@ -1,5 +1,5 @@
 ---
-title: "Mensagem 'Código postal inválido' na interface do usuário do checkout quando o endereço está em endereços disponíveis com país diferente"
+title: 'Mensagem "Código postal inválido" na interface do usuário do checkout quando o endereço está em endereços disponíveis com país diferente'
 id: 4VggIx4xWPNW6OBIrQ0js4
 status: PUBLISHED
 createdAt: 2024-06-21T17:08:59.860Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: invalid-postal-code-message-in-checkout-ui-when-address-is-in-available-addresses-with-different-country
+slugEN: mensagem-codigo-postal-invalido-na-interface-do-usuario-do-checkout-quando-o-endereco-esta-em-enderecos-disponiveis-com-pais-diferente
 locale: pt
 kiStatus: Backlog
 internalReference: 1053959
@@ -18,7 +18,9 @@ internalReference: 1053959
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface do usuário do checkout usa o país registrado em seu estado para validar a entrada do código postal.

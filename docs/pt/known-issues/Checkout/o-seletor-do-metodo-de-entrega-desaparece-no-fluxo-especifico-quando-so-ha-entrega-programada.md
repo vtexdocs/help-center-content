@@ -1,5 +1,5 @@
 ---
-title: 'O seletor do método de entrega desaparece no fluxo específico quando só há entrega programada'
+title: "O seletor do método de entrega desaparece no fluxo específico quando só há entrega programada"
 id: 7I24nVw5W7YUuoTvgH8W5k
 status: PUBLISHED
 createdAt: 2022-08-12T18:07:34.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delivery-method-selector-disappears-in-specific-flow-when-there-is-only-scheduled-delivery
+slugEN: o-seletor-do-metodo-de-entrega-desaparece-no-fluxo-especifico-quando-so-ha-entrega-programada
 locale: pt
 kiStatus: Fixed
 internalReference: 296786
@@ -18,7 +18,9 @@ internalReference: 296786
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O seletor de data/hora para entrega programada desaparece quando o usuário muda de "pegar" para "receber", este comportamento ocorre independentemente do uso do recurso de envio enxuto.

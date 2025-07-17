@@ -1,5 +1,5 @@
 ---
-title: 'Error exporting prices with metadata'
+title: "Error exporting prices with metadata"
 id: 7nYPmatUXq57ZUsKHvfYJo
 status: PUBLISHED
 createdAt: 2023-07-12T11:49:06.370Z

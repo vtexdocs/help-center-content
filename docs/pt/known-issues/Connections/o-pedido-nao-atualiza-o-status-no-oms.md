@@ -1,5 +1,5 @@
 ---
-title: 'O pedido não atualiza o status no OMS'
+title: "O pedido não atualiza o status no OMS"
 id: 36Zo27eIpjFpcvPrsGgN7s
 status: PUBLISHED
 createdAt: 2022-05-26T18:07:55.735Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: order-doesnt-update-status-in-oms
+slugEN: o-pedido-nao-atualiza-o-status-no-oms
 locale: pt
 kiStatus: Backlog
 internalReference: 421529
@@ -18,7 +18,9 @@ internalReference: 421529
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

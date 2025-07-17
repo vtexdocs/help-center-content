@@ -1,5 +1,5 @@
 ---
-title: 'Error accessing transaction in the order detail (New Admin)'
+title: "Error accessing transaction in the order detail (New Admin)"
 id: 3A0RCPD6LYuGicmgm4q0Iy
 status: PUBLISHED
 createdAt: 2018-04-09T14:04:17.452Z

@@ -22,7 +22,7 @@ En el Admin VTEX, la página **Storefront** > **Intelligent Search** > **Reglas 
 * [Editar](#editar-reglas-de-merchandising)
 * [Eliminar](#eliminar-reglas-de-merchandising)
 
-![reglas-merch-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Relevance/lista-de-reglas-de-merchandising_1.PNG)
+![reglas-merch-es](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/4624acb4cd7dbe4e2a4d858e570f1f92/reglas-merch-es.PNG)
 
 La página contiene la siguiente información: 
 
@@ -41,7 +41,7 @@ Para configurar una regla de merchandising, haga clic en `+ Agregar`. Más infor
 
 ### Tipos de edición
 
-Existen dos tipos de editor para Reglas de merchandising: el [Editor manual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
+Existen dos tipos de editor para Reglas de merchandising: el [Editor manual](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
 
 A continuación, te mostramos cuáles son las funcionalidades en cada una de estas opciones:
 

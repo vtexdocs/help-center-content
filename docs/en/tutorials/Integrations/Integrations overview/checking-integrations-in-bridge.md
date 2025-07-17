@@ -1,105 +1,95 @@
 ---
-title: 'Checking the integration status on the Integrations panel'
+title: 'Integration status'
 id: tutorials_422
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:50.596Z
-updatedAt: 2020-02-19T20:51:05.382Z
-publishedAt: 2020-02-19T20:51:05.382Z
+updatedAt: 2025-06-10T18:20:24.338Z
+publishedAt: 2025-06-10T18:20:24.338Z
 firstPublishedAt: 2017-04-27T23:03:24.679Z
 contentType: tutorial
 productTeam: Channels
-author: authors_59
+author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: checking-integrations-in-bridge
 locale: en
 legacySlug: checking-integrations-in-bridge
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-The __Integrations__ is the module responsible for managing all marketplaces used by your store. It's in this module that the registration of any new integration with marketplaces must be carried out.
+The **Connections** section displays the logs of a VTEX store's integrations with other marketplaces. To access it, go to **VTEX Admin > Marketplace > Connections.**  
 
-In the Integrations, you can follow the integration with various active marketplaces, verifying the integration of __order__, __product__, __tracking__, __price__ and __inventory__. In addition, you can view the integration status of each item and __reprocess__ these statuses, if necessary.
+This section allows you to monitor the status of each type of integration and reprocess any that contain errors.  
 
-## Integrations Navigation
+## Connections
 
-In the Integrations, you can see the five integration tabs listed below:
+In the **Connections** section, you can view the following types of integrations:
 
-1. [Orders](#orders)
-2. [Products](#products)
-3. [Tracking](#tracking)
-4. [Price](#price)
-5. [Inventory](#inventory)
+[Orders](#pedidos)  
+[Products](#products)  
+[Tracking](#tracking)  
+[Price](#price)  
+[Inventory](#inventory)  
 
-In all the screens there is a __filter__, a __search box__, and an __Expand All__ button, which displays the details of each line.
+Each page includes a filter, a search bar, and the buttons `Expand all` and `Export to excel`.  
 
-You can also export a report with Integrations information by clicking the __Export to excel__ button. You can use the filter to export only the information you want.
+### Orders  
 
-## Orders
+You can access the **Orders** page by going to **VTEX Admin > Marketplace > Connections > Orders.** This page displays the logs of orders placed on the marketplaces your store is integrated with. It includes the following information:  
 
-In the __Orders__ option, the Integrations displays the log of orders placed in the marketplaces with which your store is integrated. We have four columns that inform:
+- **ID:** Order number.  
+- **Affiliate:** Marketplace where the order was placed.  
+- **Status:** Can be **Processed with success** or **Processed with error.**  
+- **Processing date:** Last time the VTEX platform processed the order.  
 
-- __Order__ code.
-- __Affiliate__ where the order was made.
-- __Status__ of the order, which can be *successfull* or *with error*.
-- __Processing date__, which indicates the last time the order was processed.
+To view more details, click the order. If there's an error, the platform will display a detailed log of the issues. To solve it, go to the [Troubleshooting](/en/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) section of the Help Center and follow the solution tutorial based on the marketplace where the order was placed.  
 
-You can view more details by clicking on the order information.
+### Products  
 
-In case of error, a detailed log will be displayed with the reasons why the order was not integrated. To solve these errors, you can click the __?__ button. You will be directed to [our article](/en/faq/errors-in-bridge-how-to-solve) with guidelines for solving the error. After making the corrections, you must click on the __Actions___ button and choose the __Reprocess__ option.
+You can access the **Products** page by going to **VTEX Admin > Marketplace > Connections > Products.** This page displays the product sending logs for the marketplaces your store is integrated with.  It includes the following information:  
 
+- **SKU code:** ID that identifies the SKU in your VTEX catalog.  
+- **Affiliate:** Marketplace to which the SKU was sent.  
+- **Status:** Status of the SKU sending, which can be **Processed with success** or **Processed with error.**  
+- **Processing date:** Last time the VTEX platform processed the SKU sending.  
 
-## Products
+To view more details, click the desired SKU. If there's an error, a detailed log will be displayed explaining why the product wasn't sent to the affiliate. To solve it, make the necessary corrections and reprocess the sending.  
 
-In the __Products__ option, the Integrations displays the log of products that have been shipped to the marketplaces with which your store is integrated. We have four columns that inform:
+To reprocess the sending, click the `Actions` button and select **Reprocess SKU.**  
 
-- SKU __code__.
-- __Affiliate__ to which the SKU was sent.
-- __Status__ of the sending, which can be *successfull* or *with error*.
-- __Processing Date__, which indicates the last time an SKU sending was processed.
+### Tracking  
 
-You can view more details by clicking on the SKU information.
+You can access the **Tracking** page by going to **VTEX Admin > Marketplace > Connections > Tracking.**  This page displays the shipping logs for orders placed on the marketplaces your store is integrated with. It includes the following information:  
 
-In case of an error, a detailed log will be displayed with the reasons why the product wasn't sent to the affiliate. After making the corrections, you must click the __Actions___ button and choose the option __Reprocess SKU__.
+- **Order code:** Alphanumeric ID that identifies the order.  
+- **Affiliate:** Marketplace where the order was placed.  
+- **Status:** Tracking status of the order, which can be **Processed with success**, **Processed with warning** or **Processed with error.**  
+- **Processing date:** Last time the tracking was processed.  
 
-## Tracking
+To view more tracking details, click the desired order. If there's an error, a detailed log of the order's shipping information will be displayed. To solve the error, make the necessary corrections and reprocess the sending.  
 
-In the __Tracking__ option, the Integrations displays the log of the sending of the orders made in the marketplaces in which your store is integrated. We have four columns that inform:
+To reprocess the sending, click the `Actions` button and select **Reprocess.**  
 
-- __Order__ code.
-- __Affiliate__ to which the SKU was sent.
-- __Status__ of the trace, which can be *successfull* or *with error*.
-- __Processing Date__, which indicates the last time the tracking was processed.
+### Price  
 
-You can view more details by clicking on the tracking information.
+You can access the **Price** by going to **VTEX Admin > Marketplace > Connections > Price.** This page displays product price details sent to the marketplaces your store is integrated with. It includes the following information:  
 
-In case there's an error, a detailed log of the order sending will be displayed. After making the corrections, you must click on the __Actions___ button and choose the __Reprocess__ option.
+- **SKU code:** ID that identifies the SKU in your VTEX catalog.  
+- **Affiliate:** Marketplace to which the SKU was sent.  
+- **Status:** Price sending status of the SKU, which can be **Processed with success**, **Processed with warning** or **Processed with error.**  
+- **Processing date:** Last time the SKU price was processed.  
 
-## Price
+To view price sending details, click the desired SKU. If there's an error, a detailed log will be displayed. To solve the error, make the necessary corrections and reprocess the sending.  
 
-In the __Price__ option, the Integrations displays the price log of products that have been sent to the marketplaces with which your store is integrated. We have four columns that inform:
+To reprocess the sending, click the `Actions` button and select **Reprocess.**  
 
-- SKU __code__.
-- __Afiliado__ to which the SKU price was sent.
-- __Status__ of the sending, which can be *successfull* or *with error*.
-- __Processing Date__, which indicates the last time the SKU price was processed.
+### Inventory
 
-You can view more details by clicking on the price sending information.
+You can access the **Inventory** page by going to **VTEX Admin > Marketplace > Connections > Inventory.** This page displays inventory details sent to the marketplaces your store is integrated with. It includes the following information:  
 
-In case of an error, a detailed log will be displayed on the price sending. After making the corrections, you must click on the __Actions___ button and choose the __Reprocess__ option.
+- **SKU code:** ID that identifies the SKU in your VTEX catalog.  
+- **Affiliate:** Marketplace to which the SKU inventory was sent.  
+- **Status:** Inventory sending status of the SKU, which can be **Processed with success** or **Processed with error.**  
+- **Processing date:** Last time the inventory sending was processed.  
 
-## Inventory
+To view inventory sending details, click the desired SKU. If there's an error, a detailed log will be displayed. To solve the error, make the necessary corrections and reprocess the sending.  
 
-In the __Inventorye__ option, the Integrations displays the inventory log registering the products that have been sent to the marketplaces with which your store is integrated. We have four columns that inform:
-
-- SKU __code__.
-- __Afiliado__ to which the SKU inventory was sent.
-- __Status__ of the SKU inventory sending, which can be *successfull* or *with error*.
-- __Processing Date__, which indicates the last time the SKU inventory was processed.
-
-You can view more details by clicking on the inventory sending information.
-
-In the event of an error, a detailed log of the inventory sending will be displayed. After making the corrections, you must click on the __Actions___ button and choose the __Reprocess__ option.
-
-## Related articles
-
-- [How the minimum availability rule works](/en/tutorial/understanding-the-minimum-availability-rule)
-- [Why was the marketplace order not integrated?](/en/faq/why-was-the-marketplace-order-not-integrated)
+To reprocess the sending, click the `Actions` button and select **Reprocess.**

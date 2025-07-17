@@ -49,18 +49,20 @@ Depois de [criar uma nova versão de conteúdo](#criando-uma-nova-versão-de-con
 
 3. Escolha o conteúdo que deseja ativar e clique em `Mais opções`> **Ativar**.
 
->⚠️ Ao acessar <i>Aplicar para</i>, a opção <i>esta URL<i> sempre aparecerá acima de <i>este template<i>. Isso significa que caso o bloco tenha duas versões, cada uma com uma opção diferente de aplicação, o usuário só conseguirá reativar a versão aplicada em template se excluir a versão aplicada por URL.
->
-> Após clicar em `mais opções`> **Ativar**, você terá publicado o novo conteúdo em sua loja.
->
-> <div>
-> Você só pode ter um conteúdo ativo por vez. Se você ativar um conteúdo, os outros serão desativados.
+<div class="alert alert-warning">
+  <p>Ao acessar <i>Aplicar para</i>, a opção <i>esta URL<i> sempre aparecerá acima de <i>este template<i>. Isso significa que caso o bloco tenha duas versões, cada uma com uma opção diferente de aplicação, o usuário só conseguirá reativar a versão aplicada em template se excluir a versão aplicada por URL.</p>
+
+Após clicar em `mais opções`> **Ativar**, você terá publicado o novo conteúdo em sua loja.
+
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+Você só pode ter um conteúdo ativo por vez. Se você ativar um conteúdo, os outros serão desativados.
+</div>
 
 ## Agendando atualizações de conteúdo
 
 Depois de [criar uma nova versão de conteúdo](#criando-uma-nova-versão-de-conteúdo), você pode agendar a publicação da nova versão em sua loja por meio do recurso **Visibilidade**.
 
-Veja a documentação [Agendando atualizações de conteúdo](https://help.vtex.com/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) e aprenda a usar o recurso **Visibilidade**.
+Veja a documentação [Agendando atualizações de conteúdo](/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) e aprenda a usar o recurso **Visibilidade**.
 
 ## Excluindo versões
 

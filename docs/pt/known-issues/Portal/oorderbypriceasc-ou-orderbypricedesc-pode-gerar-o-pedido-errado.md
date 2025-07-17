@@ -1,5 +1,5 @@
 ---
-title: 'O=OrderByPriceASC (ou OrderByPriceDESC) pode gerar o pedido errado'
+title: "O=OrderByPriceASC (ou OrderByPriceDESC) pode gerar o pedido errado"
 id: 2XCplZQutilKeD2bNnjYDx
 status: PUBLISHED
 createdAt: 2022-05-20T15:48:15.215Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: oorderbypriceasc-or-orderbypricedesc-could-bring-the-wrong-order
+slugEN: oorderbypriceasc-ou-orderbypricedesc-pode-gerar-o-pedido-errado
 locale: pt
 kiStatus: Backlog
 internalReference: 582861
@@ -18,7 +18,9 @@ internalReference: 582861
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 **O=OrderByPriceASC** (ou **OrderByPriceDESC**) pode usar a política errada para pedir preços. Além disso, como o preço indexado tem apenas uma casa decimal, a segunda casa decimal do preço não será considerada.

@@ -15,4 +15,6 @@ announcementImageID: ''
 announcementSynopsisEN: ' New VTEX Log functionality for label printing and carrier notification.'
 ---
 
->⚠️ This content is not available for this language because the new feature is only available for Brazilian stores that use the VTEX Shipping Network solution. 
+<div class="alert alert-warning">
+This content is not available for this language because the new feature is only available for Brazilian stores that use the VTEX Shipping Network solution. 
+</div> 

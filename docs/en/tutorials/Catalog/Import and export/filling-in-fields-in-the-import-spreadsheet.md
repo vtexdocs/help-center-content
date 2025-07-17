@@ -3,8 +3,8 @@ title: 'Filling in fields in the product and SKU import spreadsheet'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2024-09-19T13:30:38.118Z
-publishedAt: 2024-09-19T13:30:38.118Z
+updatedAt: 2025-05-26T21:57:47.284Z
+publishedAt: 2025-05-26T21:57:47.284Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,18 +15,28 @@ legacySlug: filling-in-fields-in-the-import-spreadsheet
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-On the VTEX platform, you can [import products and SKUs in bulk using a spreadsheet](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha). To better understand the meaning of each field in the spreadsheet, see the complete description of the Product and SKU related fields in Excel.
+On the VTEX platform, you can [import products and SKUs in bulk using a spreadsheet](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha), by following the steps below:
 
->❗ When filling in **CaptionLink**, **DepartmentName**, **CategoryName** and **Brand**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+1. In the VTEX Admin, go to **Catalog > Import and Export**, or type **Import and Export** in the search bar at the top of the page.
+2. Click on `Export/Import`.
+3. Click on the `Import` tab. You can download the spreadsheet to check or change your products.
+4. Fill in the spreadsheet fields.
+5. Go back to the VTEX Admin and upload the file with the `.xls` extension.
+6. Click `Import`.
+
+Depending on the quantity of products, their processing can be time consuming. After it ends, you will receive the import confirmation in your email.
+
+To better understand the meaning of each field in the spreadsheet, see the complete description of the Product and SKU related fields in Excel.
+
+<div class="alert alert-danger">
+  <p>When filling in <b>CaptionLink</b>, <b>DepartmentName</b>, <b>CategoryName</b> and <b>Brand</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 **SkuId:** the unique identifier number of the SKU. If this field is already filled in, you cannot change it. To add a new SKU, leave the column empty.
 
@@ -94,7 +104,7 @@ On the VTEX platform, you can [import products and SKUs in bulk using a spreadsh
 
 **ShowOutOfStock:** field for displaying a product even if it is out of stock, which enables the section _Notify me_, where the customer can enter their email address to be notified when the product is back in stock. By entering _YES_, the out-of-stock product will be displayed on the website with the _Notify me_ option. By entering _NO_, the product will not be displayed on the website if it is out of stock. Required field.
 
-**Kit:** field that indicates whether the SKU is part of a [kit](https://help.vtex.com/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). This is a read-only field. If it is a new SKU, leave the field empty.
+**Kit:** field that indicates whether the SKU is part of a [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). This is a read-only field. If it is a new SKU, leave the field empty.
 
 **DepartmentId:** the unique identifier number of the product’s top-level category. This is a read-only field. If it is a new product, leave the field empty.
 
@@ -110,22 +120,17 @@ On the VTEX platform, you can [import products and SKUs in bulk using a spreadsh
 
 **CubicWeight:** deprecated field. This field is not used by the system anymore. We recommend leaving it empty.
 
-**CommercialCondition:** the unique identifier number of the [commercial condition](https://help.vtex.com/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445). It defines SKU-specific promotions and installment rules. 
+**CommercialCondition:** the unique identifier number of the [commercial condition](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445). It defines SKU-specific promotions and installment rules. 
 
-**Stores:** the unique identifier number of the [trade policy](https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). You can find this information in the _Id_ section of the _Trade policies_ module in the Admin.
+**Stores:** the unique identifier number of the [trade policy](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). You can find this information in the _Id_ section of the _Trade policies_ module in the Admin.
 
-**Accessories:** field that displays a complementary product to another product. To add this type of SKU, include the SKU ID for reference.
+**Accessories:** field that displays a complementary product to another product. To add a [accessory](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) SKU, include the SKU ID for reference.
 
-**Similar:** field that displays SKUs similar to another SKU to the customer at checkout. To add a similar SKU, include the SKU ID for reference.
+**Similar:** field that displays SKUs similar to another SKU to the customer at checkout. To add a [similar](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) SKU, include the SKU ID for reference.
 
-**Suggestion:** field that displays the SKUs that should be suggested based on a given SKU. To add a suggestion, include the SKU ID for reference.
+**Suggestion:** field that displays the SKUs that should be suggested based on a given SKU. To add a [suggestion](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), include the SKU ID for reference.
 
-**DisplayTogether:** field that displays the SKUs that will be suggested for buying together with a given SKU. To add a suggestion, include the SKU ID for reference.
+**ShowTogether:** field that displays the SKUs that will be suggested for buying together with a given SKU. To add a [show together](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) SKU, include the SKU ID for reference.
 
-**Attachment:** field that shows an [attachment](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) to the buyer of a [service](https://help.vtex.com/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) or item.
-
-###### LEARN MORE
-
-* [Filling in product registration fields](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
-* [Filling in SKU registration fields](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
+**Attachment:** field that shows an [attachment](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) to the buyer of a [service](/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) or item.
 

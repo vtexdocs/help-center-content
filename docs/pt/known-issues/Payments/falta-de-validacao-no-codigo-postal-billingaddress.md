@@ -1,5 +1,5 @@
 ---
-title: 'Falta de validação no código postal BillingAddress'
+title: "Falta de validação no código postal BillingAddress"
 id: 21x0WNTMAfzf5xky0fNGKK
 status: PUBLISHED
 createdAt: 2022-03-26T23:27:38.016Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: lack-of-validation-in-the-billingaddress-zip-code
+slugEN: falta-de-validacao-no-codigo-postal-billingaddress
 locale: pt
 kiStatus: Backlog
 internalReference: 375481
@@ -18,7 +18,9 @@ internalReference: 375481
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 É possível preencher e completar a compra preenchendo o código postal "faturamento/endereço" com caracteres não-numéricos

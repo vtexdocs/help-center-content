@@ -14,7 +14,9 @@ locale: pt
 legacySlug: ativei-a-recorrencia-de-um-produto-mas-ele-nao-aparece-no-site
 ---
 
->⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+<div class = "alert alert-warning">
+  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+</div>
 
 Sempre que você alterar ou criar uma assinatura, é preciso reindexar seus SKUs para que ela funcione corretamete. Ao fazer isso, você estará salvando a informação de que aquele SKU tem um anexo (neste caso, a assinatura) e deve ser tratado de forma diferente.
 
@@ -29,6 +31,6 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 5. Dê um nome à sua Coleção (os demais campos não devem ser preenchidos).
 6. Insira os SKUs no campo informado e __separe-os com vírgulas__.
 
-![recurrence-specific-skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Marketing%20&%20Merchandising/ativei-a-assinatura-de-um-produto-mas-ele-nao-aparece-no-site_1.png)
+![recurrence-specific-skus](https://images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.

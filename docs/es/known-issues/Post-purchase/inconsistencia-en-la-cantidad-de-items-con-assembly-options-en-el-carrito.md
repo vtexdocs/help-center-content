@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistencia en la cantidad de ítems con Assembly options en el carrito'
+title: "Inconsistencia en la cantidad de ítems con Assembly options en el carrito"
 id: ANQ597XM5mK85MhME920Y
 status: PUBLISHED
 createdAt: 2021-09-23T20:34:36.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
+slugEN: inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -28,7 +28,7 @@ En los productos con personalización de Assembly options, un ítem principal ti
 3. Selecciona el ítem secundario del producto, en la misma cantidad;
 4. Revisa los ítems en el carrito.
 
-![KI assembly](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Post-purchase/inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito_1.png)
+![KI assembly](//images.ctfassets.net/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/01c933c01f3b6b361b06de22d8160e9a/KI_assembly.png)
 
 Observa que el carrito contiene una unidad más del ítem secundario en comparación con el ítem principal.
 

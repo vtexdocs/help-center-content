@@ -1,5 +1,5 @@
 ---
-title: 'La redirección con parámetros en el CMS Builder no funciona'
+title: "La redirección con parámetros en el CMS Builder no funciona"
 id: 54X9i44JmLTO5uII1E98yL
 status: PUBLISHED
 createdAt: 2022-07-06T19:15:29.327Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: redirection-with-parameters-in-cms-builder-does-not-work
+slugEN: la-redireccion-con-parametros-en-el-cms-builder-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 593906
@@ -18,7 +18,9 @@ internalReference: 593906
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la redirección mediante parámetros genera un error a pesar de que el administrador de URL Bilder dice que es posible utilizar parámetros.

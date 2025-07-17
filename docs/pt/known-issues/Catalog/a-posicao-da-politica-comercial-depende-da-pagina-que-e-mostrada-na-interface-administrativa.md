@@ -1,5 +1,5 @@
 ---
-title: " A 'posição' da política comercial depende da página que é mostrada na interface administrativa"
+title: 'A "posição" da política comercial depende da página que é mostrada na interface administrativa'
 id: 3kcSD7J5uuHYGdhBcg1lMa
 status: PUBLISHED
 createdAt: 2022-10-31T20:28:08.565Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: position-of-the-trade-policy-depends-on-the-page-it-is-shown-on-the-admin-interface
+slugEN: a-posicao-da-politica-comercial-depende-da-pagina-que-e-mostrada-na-interface-administrativa
 locale: pt
 kiStatus: Backlog
 internalReference: 286470
@@ -18,7 +18,9 @@ internalReference: 286470
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Um cliente com mais de 20 políticas comerciais acaba tendo mais de uma política comercial por posição. Isto é crítico porque as configurações vinculadas dependem do número da posição, portanto, deve haver apenas uma política comercial por posição.

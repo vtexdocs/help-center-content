@@ -28,7 +28,9 @@ A primeira estapa de configuração será a de criação do pagamento customizad
 6. Em __Bandeira do cartão__, escolha a bandeira à qual o cartão da sua loja está vinculado. Atualmente, as bandeiras possíveis são: American Express, Cabal, Diners, Elo, Mastercard e Visa.
 7. Em __Intervalos de BIN (opcional)__, você pode informar uma faixa de BINs (inserindo o primeiro e o último código da sequência, separados por hífen) ou várias (separando cada faixa por vírgula e sem espaços).
 
->⚠️ Quando o cliente inserir um número bin fora da faixa especificada neste campo, a seguinte mensagem será exibida "Confira o número do seu cartão. Não conseguimos confirmar se o número digitado está correto". Caso não haja erro no número digitado, ele poderá clicar em "SIM, O NÚMERO ESTÁ CORRETO" para continuar a finalização do pedido.
+<div class="alert alert-warning">
+  Quando o cliente inserir um número bin fora da faixa especificada neste campo, a seguinte mensagem será exibida "Confira o número do seu cartão. Não conseguimos confirmar se o número digitado está correto". Caso não haja erro no número digitado, ele poderá clicar em "SIM, O NÚMERO ESTÁ CORRETO" para continuar a finalização do pedido.
+</div>
 
 <blockquote><ui>8. No campo <b>Código de Pagamento em Adquirente (opcional)</b>, indique o código para ser enviado e processado pelo adquirente contratado por você.</ui>
 
@@ -39,7 +41,9 @@ A primeira estapa de configuração será a de criação do pagamento customizad
 ## Configurar condição de pagamento
 Após configurar o cartão, será necessária a configuração da condição de pagamento.
 
->⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+<div class="alert alert-warning">
+  Caso o conector a ser escolhido (no <b>Passo 8.</b>) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse <a href="https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Cadastrar afiliações de gateway</a>.
+</div>
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __“+”__.

@@ -1,5 +1,5 @@
 ---
-title: 'Seleção inesperada de vários pontos de coleta para o mesmo vendedor quando nem todos os itens estão disponíveis na mesma opção'
+title: "Seleção inesperada de vários pontos de coleta para o mesmo vendedor quando nem todos os itens estão disponíveis na mesma opção"
 id: 1ILqLtP5CgtO6fhqh1dAgm
 status: PUBLISHED
 createdAt: 2022-08-16T01:03:28.941Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: unexpected-multiple-pickup-point-selection-for-the-same-seller-when-not-every-item-is-available-through-the-same-option
+slugEN: selecao-inesperada-de-varios-pontos-de-coleta-para-o-mesmo-vendedor-quando-nem-todos-os-itens-estao-disponiveis-na-mesma-opcao
 locale: pt
 kiStatus: Backlog
 internalReference: 467702
@@ -18,7 +18,9 @@ internalReference: 467702
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

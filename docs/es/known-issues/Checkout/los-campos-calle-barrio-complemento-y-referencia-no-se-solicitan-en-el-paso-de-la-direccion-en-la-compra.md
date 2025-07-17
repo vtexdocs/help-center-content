@@ -1,5 +1,5 @@
 ---
-title: 'Los campos Calle, Barrio, Complemento y Referencia no se solicitan en el paso de la dirección en la compra'
+title: "Los campos Calle, Barrio, Complemento y Referencia no se solicitan en el paso de la dirección en la compra"
 id: 2wY4t0iIie4pjpJrs0Af3F
 status: PUBLISHED
 createdAt: 2022-04-19T18:20:30.913Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: street-neighborhood-complement-and-reference-fields-are-not-requested-in-the-address-step-at-checkout
+slugEN: los-campos-calle-barrio-complemento-y-referencia-no-se-solicitan-en-el-paso-de-la-direccion-en-la-compra
 locale: es
 kiStatus: Backlog
 internalReference: 563507
@@ -18,7 +18,9 @@ internalReference: 563507
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la dirección se introduce a través de la API de código postal y estos datos se actualizan en el shippingData antes de llegar a la caja. Si nuestra API postal no devuelve todos los datos completos, por ejemplo, calle, barrio, etc. faltarán en shippingData. El problema es que cuando el cliente utiliza el componente de geolocalización en su checkout, no realiza la validación de estos campos que faltan, dejando que el usuario vaya al paso de pago sin rellenar los datos que no están completos.

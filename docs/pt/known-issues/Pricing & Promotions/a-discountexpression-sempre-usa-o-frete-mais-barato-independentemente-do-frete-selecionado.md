@@ -1,5 +1,5 @@
 ---
-title: 'A DiscountExpression sempre usa o frete mais barato, independentemente do frete selecionado'
+title: "A DiscountExpression sempre usa o frete mais barato, independentemente do frete selecionado"
 id: 6tFmwOH8tYRohn29hC4jmR
 status: PUBLISHED
 createdAt: 2024-08-02T15:42:13.663Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: discountexpression-always-uses-the-cheaper-freight-regardless-of-the-selected-one
+slugEN: a-discountexpression-sempre-usa-o-frete-mais-barato-independentemente-do-frete-selecionado
 locale: pt
 kiStatus: Backlog
 internalReference: 1075053
@@ -18,7 +18,9 @@ internalReference: 1075053
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A `DiscountExpression`, que é um desconto baseado em uma fórmula definida nas configurações da promoção, sempre usa a opção de frete mais barata, independentemente do método de envio selecionado pelo cliente. Isso resulta em discrepâncias entre o desconto concedido e o desconto esperado com base no método de envio selecionado.

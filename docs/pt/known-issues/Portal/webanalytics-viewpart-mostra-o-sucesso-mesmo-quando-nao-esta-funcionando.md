@@ -1,5 +1,5 @@
 ---
-title: 'Webanalytics Viewpart Mostra o sucesso mesmo quando não está funcionando'
+title: "Webanalytics Viewpart Mostra o sucesso mesmo quando não está funcionando"
 id: 73oMf2Wxkgw1feWUvntX6s
 status: PUBLISHED
 createdAt: 2023-03-09T18:20:47.358Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: webanalytics-viewpart-shows-success-even-when-it-isnt-working
+slugEN: webanalytics-viewpart-mostra-o-sucesso-mesmo-quando-nao-esta-funcionando
 locale: pt
 kiStatus: No Fix
 internalReference: 768059
@@ -18,7 +18,9 @@ internalReference: 768059
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a parte de visualização da webanalytics não apresenta nenhuma mensagem de erro, mesmo quando falha e não entrega o conteúdo dos metadados ao usuário.

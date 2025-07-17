@@ -1,5 +1,5 @@
 ---
-title: 'CallbackUrl always returns 403 when the connector owner account has been disabled'
+title: "CallbackUrl always returns 403 when the connector owner account has been disabled"
 id: yHrPuhMrqMJpUQe5zK3p1
 status: PUBLISHED
 createdAt: 2023-03-21T18:37:46.361Z

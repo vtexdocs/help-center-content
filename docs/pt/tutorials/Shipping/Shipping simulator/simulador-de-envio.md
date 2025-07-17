@@ -17,21 +17,20 @@ subcategoryId: 1O8AEORWOcgIiMosGoousQ
 
 O **Simulador de envio** está disponível no Admin VTEX para simular e analisar as opções de entrega disponíveis. A simulação verifica as condições de entrega dando ao lojista a capacidade de verificar disponibilidade de itens, formas de entrega, custos e prazos. 
 
-O simulador pode ser utilizado também para validar as configurações das  **[Estratégia de Envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de se habilitar o processo logístico (Estoque, Doca e [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)) considerando:
+O simulador pode ser utilizado também para validar as configurações das  **[Estratégia de Envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de se habilitar o processo logístico (Estoque, Doca e [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140)) considerando:
 
 * **Disponibilidade de um item:** o simulador verifica se o item existe em estoque e se sua entrega é possível (se há transportadoras cadastradas para aquela região, por exemplo). Se pelo menos um dos critérios não for atendido, o simulador entende que o item está indisponível.
 
 * **Disponibilidade de Sellers White Label:** o simulador seleciona o franqueado mais próximo ao endereço de entrega (a configuração logística é calculada através do ambiente do _Seller White Label_, e não no Main Account).
 
->⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
-> <body>
->
-> *Promoções aplicadas àqueles itens.
->
-> *Descontos de frete configurados através de promoções.
->
-> *O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
-> </body>
+<div class="alert alert-warning"> 
+Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
+<body>
+<ul>
+<li>Promoções aplicadas àqueles itens.</li>
+<li>Descontos de frete configurados através de promoções.</li>
+<li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo <b>Data Previsão Chegada (pré-venda)</b> <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">do cadastro do item.</a></li>
+</ul></body></div>
 
 Nesse artigo contém:
 
@@ -61,15 +60,17 @@ Se desejar, pode preencher o box `Simular itens individualmente`.
 
  10. Clique no botão `Simular Frete`.
 
->ℹ️ No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos [campos de cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) e do SKU.
+<div class = "alert alert-info">
+No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro do produto</a> e do SKU.
+</div>
 
 ## Detalhes da Simulação
 
-A simulação de frete indica todas as possibilidades de envio e disponibilidade dos itens incluídos na simulação e descreve os [detalhes de entrega de um pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), o custo de frete e o tempo de entrega considerando as particularidades abaixo.
+A simulação de frete indica todas as possibilidades de envio e disponibilidade dos itens incluídos na simulação e descreve os [detalhes de entrega de um pedido](/pt/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), o custo de frete e o tempo de entrega considerando as particularidades abaixo.
 
-* **Transportadoras desconsideradas:** ao realizar a simulação, algumas transportadoras podem estar indisponíveis por não atenderem os critérios da [ Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) (veja [transportadoras desconsideradas](#transportadoras-desconsideradas) para mais informações).
+* **Transportadoras desconsideradas:** ao realizar a simulação, algumas transportadoras podem estar indisponíveis por não atenderem os critérios da [ Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) (veja [transportadoras desconsideradas](#transportadoras-desconsideradas) para mais informações).
 * **Compartilhamento de simulação**: é possível o compartilhamento da simulação clicando em `compartilhar a simulação` no canto superior direito da página em. Ao clicar, um link de compartilhamento é copiado para a sua área de transferência. Essa funcionalidade facilita o acionamento da equipe VTEX, ou da sua loja, para resolver problemas em pedidos específicos. Somente quem tem acesso ao ambiente VTEX consegue visualizar o link gerado pelo compartilhamento.
-* **Valor do frete**: para simulações feitas com mais de um SKU, o `valor do frete` é dividido proporcionalmente ao peso de cada SKU no pacote. Por exemplo, considere uma simulação feita com 2 SKUs (um pesando 2kg, e o outro pesando 3kg). Vamos supor que o frete com a transportadora A custa 10 reais ao total. Nesse cenário, o SKU mais leve custará 4 reais, e o mais pesado 6 reais. Para saber mais, confira [Como é feito o rateio de frete](https://help.vtex.com/pt/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155).
+* **Valor do frete**: para simulações feitas com mais de um SKU, o `valor do frete` é dividido proporcionalmente ao peso de cada SKU no pacote. Por exemplo, considere uma simulação feita com 2 SKUs (um pesando 2kg, e o outro pesando 3kg). Vamos supor que o frete com a transportadora A custa 10 reais ao total. Nesse cenário, o SKU mais leve custará 4 reais, e o mais pesado 6 reais. Para saber mais, confira [Como é feito o rateio de frete](/pt/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155).
 * **Dimensões do pacote**: para simulações com SKUs contendo mais de 1 unidade, as `dimensões` descritas ao lado do SKU na página de simulação não mudarão. O sistema levará em consideração que aumentou a dimensão total do pacote.
 
 ### Transportadoras Desconsideradas

@@ -1,5 +1,5 @@
 ---
-title: 'La solicitud del centro tributario del mercado no tiene en cuenta algunos tipos de descuentos'
+title: "La solicitud del centro tributario del mercado no tiene en cuenta algunos tipos de descuentos"
 id: 630nSPu8y5G6CSFtiH3MOL
 status: PUBLISHED
 createdAt: 2023-11-30T21:14:13.709Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketplace-tax-hub-request-doesnt-consider-some-discount-types
+slugEN: la-solicitud-del-centro-tributario-del-mercado-no-tiene-en-cuenta-algunos-tipos-de-descuentos
 locale: es
 kiStatus: Fixed
 internalReference: 945580
@@ -18,7 +18,9 @@ internalReference: 945580
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cuenta tiene configurado isMarketplaceResponsibleForTaxes, la solicitud del hub de impuestos no considera algunos tipos de descuento: Nominal, Porcentaje y Precio máximo por artículo. Esto afecta al cálculo de impuestos, y el precio final es más alto de lo esperado.

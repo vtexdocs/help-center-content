@@ -1,5 +1,5 @@
 ---
-title: 'Los carritos con direcciones de varios países pierden la dirección de recogida si la tienda no puede enviar a todos los países.'
+title: "Los carritos con direcciones de varios países pierden la dirección de recogida si la tienda no puede enviar a todos los países."
 id: 5yDJ05btQxQq8BuZzfopqv
 status: PUBLISHED
 createdAt: 2024-07-19T15:02:39.647Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-with-multiple-country-addresses-lose-the-pickup-address-if-store-cant-ship-to-all-the-countries
+slugEN: los-carritos-con-direcciones-de-varios-paises-pierden-la-direccion-de-recogida-si-la-tienda-no-puede-enviar-a-todos-los-paises
 locale: es
 kiStatus: Backlog
 internalReference: 1068197
@@ -18,7 +18,9 @@ internalReference: 1068197
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un comprador tiene varias direcciones de distintos países en su perfil y la tienda no realiza entregas en ninguna de esas direcciones, al seleccionar la recogida en una dirección válida y pasar al paso de pago, la interfaz de usuario de la caja redirige al comprador de nuevo al paso de envío.

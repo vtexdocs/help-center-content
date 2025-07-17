@@ -1,5 +1,5 @@
 ---
-title: 'Cuadro de mandos de las suscripciones con información contradictoria'
+title: "Cuadro de mandos de las suscripciones con información contradictoria"
 id: WvoqrD7xvaAJ6NVOLpU1G
 status: PUBLISHED
 createdAt: 2022-05-27T20:01:11.189Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-dashboard-with-conflicting-information
+slugEN: cuadro-de-mandos-de-las-suscripciones-con-informacion-contradictoria
 locale: es
 kiStatus: No Fix
 internalReference: 587579
@@ -18,7 +18,9 @@ internalReference: 587579
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

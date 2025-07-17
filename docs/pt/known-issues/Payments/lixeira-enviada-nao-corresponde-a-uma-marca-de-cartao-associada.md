@@ -1,5 +1,5 @@
 ---
-title: 'Lixeira enviada não corresponde a uma marca de cartão associada'
+title: "Lixeira enviada não corresponde a uma marca de cartão associada"
 id: 4GvoMVXIVOdFueGiNfcTvk
 status: PUBLISHED
 createdAt: 2022-03-26T14:46:51.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: bin-sent-does-not-match-an-associated-card-brand
+slugEN: lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada
 locale: pt
 kiStatus: Backlog
 internalReference: 308896
@@ -18,7 +18,9 @@ internalReference: 308896
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A plataforma permite que você envie um BIN com outra bandeira de marca de cartão. Por exemplo, o BIN: Um BIN VISA pode ser informado, mas você pode marcar a bandeira de marca do cartão Mastercard.

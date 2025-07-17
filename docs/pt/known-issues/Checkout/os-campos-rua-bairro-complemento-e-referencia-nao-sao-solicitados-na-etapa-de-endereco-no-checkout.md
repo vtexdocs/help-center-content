@@ -1,5 +1,5 @@
 ---
-title: 'Os campos Rua, Bairro, Complemento e Referência não são solicitados na etapa de endereço no checkout'
+title: "Os campos Rua, Bairro, Complemento e Referência não são solicitados na etapa de endereço no checkout"
 id: 2wY4t0iIie4pjpJrs0Af3F
 status: PUBLISHED
 createdAt: 2022-04-19T18:20:30.913Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: street-neighborhood-complement-and-reference-fields-are-not-requested-in-the-address-step-at-checkout
+slugEN: os-campos-rua-bairro-complemento-e-referencia-nao-sao-solicitados-na-etapa-de-endereco-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 563507
@@ -18,7 +18,9 @@ internalReference: 563507
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o endereço é inserido através do código postal API e estes dados são atualizados nos dados de envio antes de chegar ao checkout. Se nosso API postal não retornar todos os dados completos, por exemplo, rua, bairro, etc. Eles estarão faltando nos dados de envio. O problema é que quando o cliente usa o componente de geolocalização em seu checkout, ele não executa a validação que falta nestes campos, deixando o usuário para ir para a etapa de pagamento sem preencher os dados que não estão completos.

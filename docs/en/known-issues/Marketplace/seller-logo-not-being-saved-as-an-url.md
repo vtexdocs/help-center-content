@@ -1,5 +1,5 @@
 ---
-title: 'Seller Logo not being saved as an URL'
+title: "Seller Logo not being saved as an URL"
 id: 2bcjVyapAH9d19w79kOB2b
 status: PUBLISHED
 createdAt: 2023-01-19T14:36:20.412Z
@@ -24,7 +24,7 @@ The seller logo information on the database is not being saved as an URL, but as
 
 Currently our orderform documentation states that this field is supposed to be an URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/seller-logo-not-being-saved-as-an-url_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
 
 But on our database is being saved in a different format.
 

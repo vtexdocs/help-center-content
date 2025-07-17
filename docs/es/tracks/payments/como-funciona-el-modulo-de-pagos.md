@@ -18,7 +18,9 @@ El módulo de **Pagos** es el sistema responsable en VTEX de gestionar todas las
 
 Antes de explorar las funcionalidades dentro de *Pagos* en el Admin de VTEX, vamos a aclarar algunos conceptos importantes que están relacionados con el flujo de pago de un pedido. Este proceso es realizado por algunos actores dentro del sistema financiero brasileño, que componen la arquitectura del módulo de Pagos.
 
->ℹ️ Es importante recordar que cada tienda tiene sus particularidades y su propio funcionamiento, lo que influye en la forma de construir el módulo de Pagos de su negocio. Para configurar su flujo financiero, es esencial, por lo tanto, tener en mente las necesidades y los propósitos reales del administrador de la tienda y del proyecto deseado.
+<div class="alert alert-info">
+Es importante recordar que cada tienda tiene sus particularidades y su propio funcionamiento, lo que influye en la forma de construir el módulo de Pagos de su negocio. Para configurar su flujo financiero, es esencial, por lo tanto, tener en mente las necesidades y los propósitos reales del administrador de la tienda y del proyecto deseado.
+</div>
 
 ## Gateway 
 
@@ -51,7 +53,7 @@ Así, el **subadquirente** puede ser entendido como una especie de intermediario
 
 Ejemplos de subadquirente: Paypal y PagSeguro.
 
-Para saber más sobre las [ventajas y desventajas de incluir a un subadquirente en su flujo](https://help.vtex.com/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Atores financeiros"), consulte nuestro artículo.   
+Para saber más sobre las [ventajas y desventajas de incluir a un subadquirente en su flujo](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Atores financeiros"), consulte nuestro artículo.   
 
 ## Bandera de la Tarjeta 
 Banderas son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito, como la cantidad de cuotas en que puede dividir el pago y el número de establecimientos en que se acepta, nacional e internacionalmente. 
@@ -83,6 +85,6 @@ Ejemplos de antifraudes:  ClearSale y Konduto.
 ## Certificación PCI SSC
 El PCI Security Standards Council es un foro mundial abierto para el continuo desarrollo, mejora, almacenamiento, difusión e implementación de normas de seguridad para la protección de datos. 
 
-[La plataforma VTEX posee un gateway propio con **certificación PCI**](https://help.vtex.com/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), que  significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
+[La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), que  significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
 
-Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en Brasil](https://help.vtex.com/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Agentes financeiros ").
+Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en Brasil](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Agentes financeiros ").

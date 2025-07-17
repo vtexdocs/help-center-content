@@ -1,5 +1,5 @@
 ---
-title: 'La expresión de cluster personalizada no funciona en la promoción de envío gratuito + canal de ventas por defecto (1)'
+title: "La expresión de cluster personalizada no funciona en la promoción de envío gratuito + canal de ventas por defecto (1)"
 id: 27QJfNVhuPNiRxqQiXPRt2
 status: PUBLISHED
 createdAt: 2022-03-16T19:36:36.102Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: customized-cluster-expression-not-working-on-free-shipping-promotion-default-saleschannel-1
+slugEN: la-expresion-de-cluster-personalizada-no-funciona-en-la-promocion-de-envio-gratuito-canal-de-ventas-por-defecto-1
 locale: es
 kiStatus: No Fix
 internalReference: 334027
@@ -18,7 +18,9 @@ internalReference: 334027
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente las expresiones de cluster personalizadas no funcionan en las promociones de tipo envío gratuito.

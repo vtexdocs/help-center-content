@@ -15,9 +15,9 @@ legacySlug: lista-de-sinonimos
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-La página **Sinónimos** te permite ver y gestionar todos los [sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de Intelligent Search registrados en tu tienda. Accede a través del Admin VTEX, haciendo clic en **Storefront > Intelligent Search > Sinónimos**.
+La página **Sinónimos** te permite ver y gestionar todos los [sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de Intelligent Search registrados en tu tienda. Accede a través del Admin VTEX, haciendo clic en **Storefront > Intelligent Search > Sinónimos**.
 
-![lista-sinonimos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Synonyms/lista-de-sinonimos_1.PNG)
+![lista-sinonimos-es](https://images.ctfassets.net/alneenqid6w5/4pBgCLPNUXZ2XZFgBS4tC7/7dcff1482a82ff95a77a3aa783157069/lista-sinonimos-es.PNG)
 
 La página presenta la siguiente información en forma de tabla:
 
@@ -73,11 +73,11 @@ Esta página te permite realizar las siguientes acciones:
 
 ## Crear sinónimos
 
-Puedes crear sinónimos individualmente haciendo clic en el botón `Crear sinónimo`. Sigue las instrucciones descritas en [Configurar sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
+Puedes crear sinónimos individualmente haciendo clic en el botón `Crear sinónimo`. Sigue las instrucciones descritas en [Configurar sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
 
 ## Importar sinónimos
 
-También es posible crear sinónimos en masa a partir de la importación de un archivo CSV, haciendo clic en el botón `Importar`. Consulta las instrucciones descritas en [Configurar sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importar-csv) para entender el modelo de la plantilla y cómo cargarla.
+También es posible crear sinónimos en masa a partir de la importación de un archivo CSV, haciendo clic en el botón `Importar`. Consulta las instrucciones descritas en [Configurar sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importar-csv) para entender el modelo de la plantilla y cómo cargarla.
 
 ## Buscar sinónimos
 
@@ -101,7 +101,7 @@ Puede filtrar la lista de sinónimos entre las siguientes opciones:
 
 ## Editar sinónimo
 
-Para editar un sinónimo registrado, haz clic en la fila correspondiente en la lista de sinónimos. Consulta más información sobre los campos editables en [Configurar sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
+Para editar un sinónimo registrado, haz clic en la fila correspondiente en la lista de sinónimos. Consulta más información sobre los campos editables en [Configurar sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
 
 ## Eliminar sinónimo
 

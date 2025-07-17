@@ -1,5 +1,5 @@
 ---
-title: 'Atualização de valores de frete API que leva tempo para refletir sobre o módulo de simulação'
+title: "Atualização de valores de frete API que leva tempo para refletir sobre o módulo de simulação"
 id: 7Gclw70xDYX34fOah2aWAa
 status: PUBLISHED
 createdAt: 2022-07-26T17:47:10.996Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: freight-values-update-api-taking-time-to-reflect-on-simulation-module
+slugEN: atualizacao-de-valores-de-frete-api-que-leva-tempo-para-refletir-sobre-o-modulo-de-simulacao
 locale: pt
 kiStatus: Backlog
 internalReference: 621230
@@ -18,7 +18,9 @@ internalReference: 621230
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As atualizações do valor do frete estão levando mais de 1 dia para refletir sobre a simulação de embarque quando a atualização foi solicitada usando o método API POST. Esta questão é intermitente, geralmente a atualização leva apenas alguns minutos.

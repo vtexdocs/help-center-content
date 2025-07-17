@@ -1,5 +1,5 @@
 ---
-title: 'Route prioritization does not offer the best option in terms of quantity of packages and items'
+title: "Route prioritization does not offer the best option in terms of quantity of packages and items"
 id: 4verafDuoFnC5vGDI4UV1m
 status: PUBLISHED
 createdAt: 2023-10-30T18:28:52.771Z

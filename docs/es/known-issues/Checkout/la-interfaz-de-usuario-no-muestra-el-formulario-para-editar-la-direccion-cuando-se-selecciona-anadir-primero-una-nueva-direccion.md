@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario no muestra el formulario para editar la dirección cuando se selecciona añadir primero una nueva dirección.'
+title: "La interfaz de usuario no muestra el formulario para editar la dirección cuando se selecciona añadir primero una nueva dirección."
 id: 4rqphb66vAzsAyx9mUmNLu
 status: PUBLISHED
 createdAt: 2023-02-06T13:15:57.816Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-doesnt-show-the-form-to-edit-address-when-selecting-to-add-a-new-address-first
+slugEN: la-interfaz-de-usuario-no-muestra-el-formulario-para-editar-la-direccion-cuando-se-selecciona-anadir-primero-una-nueva-direccion
 locale: es
 kiStatus: Fixed
 internalReference: 747772
@@ -18,7 +18,9 @@ internalReference: 747772
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario no muestra el formulario correcto para editar la dirección seleccionada en el paso Envío cuando se selecciona añadir primero una nueva dirección.

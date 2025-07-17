@@ -23,4 +23,4 @@ Read our SLA at [VTEX Commerce - SLA Agreement](https://vtex.com/us-en/privacy-a
 
 ## Learn more
 
-- [How is the platform’s operation SLA determined?](https://help.vtex.com/en/tutorial/how-is-the-platforms-operation-sla-determined--frequentlyAskedQuestions_662)
+- [How is the platform’s operation SLA determined?](/en/tutorial/how-is-the-platforms-operation-sla-determined--frequentlyAskedQuestions_662)

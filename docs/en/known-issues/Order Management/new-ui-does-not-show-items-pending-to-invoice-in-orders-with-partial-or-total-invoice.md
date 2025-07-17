@@ -1,5 +1,5 @@
 ---
-title: 'New UI does not show Items Pending to Invoice in orders with Partial or Total Invoice'
+title: "New UI does not show Items Pending to Invoice in orders with Partial or Total Invoice"
 id: yIkfB9VkFUeywJzclMYKe
 status: PUBLISHED
 createdAt: 2022-08-26T14:24:13.932Z

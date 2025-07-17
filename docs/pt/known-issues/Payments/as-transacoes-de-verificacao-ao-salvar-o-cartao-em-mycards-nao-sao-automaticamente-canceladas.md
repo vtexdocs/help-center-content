@@ -1,5 +1,5 @@
 ---
-title: 'As transações de verificação ao salvar o cartão em MyCards não são automaticamente canceladas'
+title: "As transações de verificação ao salvar o cartão em MyCards não são automaticamente canceladas"
 id: 3VqRlcnzHqDEx7v1IIlBuf
 status: PUBLISHED
 createdAt: 2022-03-27T15:14:55.382Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: verification-transactions-when-saving-card-in-mycards-are-not-automatically-canceled
+slugEN: as-transacoes-de-verificacao-ao-salvar-o-cartao-em-mycards-nao-sao-automaticamente-canceladas
 locale: pt
 kiStatus: No Fix
 internalReference: 347084
@@ -18,7 +18,9 @@ internalReference: 347084
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um cartão é salvo no módulo MyCards, é gerada uma transação de verificação no valor de R$ 1,50, que, após seguir o fluxo de autorização e aprovação, deve ser automaticamente cancelada. Esta transação destina-se a validar que o cartão salvo é autêntico e está transacionando sem problemas.

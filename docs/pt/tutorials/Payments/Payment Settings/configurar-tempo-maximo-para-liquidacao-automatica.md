@@ -3,8 +3,8 @@ title: 'Configurar tempo máximo para liquidação automática'
 id: 7dwcaxrcgcFJUk7umqPBw2
 status: PUBLISHED
 createdAt: 2020-09-22T11:49:41.297Z
-updatedAt: 2023-03-26T21:34:20.532Z
-publishedAt: 2023-03-26T21:34:20.532Z
+updatedAt: 2025-01-17T17:10:02.532Z
+publishedAt: 2025-01-17T17:10:02.532Z
 firstPublishedAt: 2020-09-22T14:37:14.174Z
 contentType: tutorial
 productTeam: Financial
@@ -15,46 +15,43 @@ legacySlug: configurar-prazo-maximo-para-captura
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Neste artigo, explicaremos como configurar o recurso de prazo máximo para liquidação que, no momento, está disponível para os conectores [Braspag](https://help.vtex.com/pt/tutorial/configurar-o-gateway-braspag--7tQmfLMvtYEsWoaaAaeKSC "Braspag"), [Cielo V3](https://help.vtex.com/pt/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu "Cielo V3"), [SiTef](https://help.vtex.com/pt/tutorial/setting-up-sitef-gateway-with-pre-auth--2ZH4DLmZpKw022aSGcGYag "Sitef") e [e-SiTef](https://help.vtex.com/pt/tutorial/configurar-gateway-e-sitef--6UEi0QAlU6BXz5RgWj34Ac). 
+Primeiramente, é importante compreender a diferença entre três conceitos similares utilizados por provedores de pagamento na plataforma, __liquidação por faturamento__, __liquidação automática__ e __liquidação antecipada__.
 
-Antes de partirmos para o passo a passo em si, é importante esclarecermos a diferença entre __liquidação por faturamento__, __liquidação automática__ e __liquidação antecipada__ - três conceitos presentes no mercado de pagamentos. Em alguns conectores de pagamentos da plataforma, esses termos são referidos como __captura por faturamento__, __captura automática__ e __captura antecipada__.
-
->⚠️ As informações a seguir são válidas para pagamentos realizados com cartão de crédito
+<div class="alert alert-warning">
+As informações a seguir são válidas para pagamentos realizados com cartão de crédito
+</div>
 
 ## Liquidação por faturamento
-A liquidação por faturamento é uma das etapas do [fluxo da transação](https://help.vtex.com/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "fluxo da transação") - o processo interno da VTEX que ocorre depois que um cliente realiza o pagamento de um pedido. Ou seja, o cliente não participa dessa dinâmica.
+A liquidação por faturamento é uma das etapas do [fluxo da transação](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ), sendo o processo interno da VTEX que ocorre depois que um cliente realiza o pagamento de um pedido.
 
-Quando o pedido é faturado - momento em que os produtos estão prontos para serem enviados para a transportadora - o Gateway realiza a liquidação. Isso acontece porque o faturamento do pedido indica que o pagamento foi realizado da forma correta.
+Quando o pedido é faturado, momento em que os produtos estão prontos para serem enviados para a transportadora, o gateway de pagamentos realiza a liquidação. Isso acontece porque o faturamento do pedido indica que o pagamento foi realizado da forma correta.
 
 ## Liquidação antecipada
 
 A liquidação antecipada é um recurso opcional que permite que o lojista estabeleça que a liquidação do pagamento irá ocorrer antes da liquidação automática realizada pela VTEX.
 
-Além disso, é importante ressaltarmos a liquidação antecipada só acontecerá depois da análise do antifraude, em casos que o cliente conte com esse serviço.
+Além disso, é importante ressaltarmos a liquidação antecipada só acontecerá depois da análise do provedor de antifraude, em casos que o cliente conte com esse serviço.
 
 ## Liquidação automática
 
 Esta é uma medida de segurança utilizada para evitar que a autorização do pagamento não seja realizada.
 
-No momento que o processo de autorização começa, o sistema espera um limite de tempo máximo, previamente agendado, para realizar a liquidação automática. Esse tempo máximo não contabiliza o período de validações do Antifraude, caso esse serviço esteja envolvido no processo.
+No momento que o processo de autorização começa, o sistema espera um limite de tempo máximo, previamente agendado, para realizar a liquidação automática. Esse tempo máximo não contabiliza o período de validações do provedor de antifraude, caso esse serviço esteja envolvido no processo.
 
 Lojista e adquirente acordam qual será o limite de tempo para que a liquidação automática seja acionada. 
 
->ℹ️ Geralmente, o tempo máximo definido para que a liquidação aconteça é de quatro dias. Entretanto, essa **não** é uma regra. Cada adquirente pode definir o período que achar mais adequado.
+<div class="alert alert-info">
+Geralmente, o tempo máximo definido para que a liquidação aconteça é de quatro dias. Entretanto, essa <strong>não</strong> é uma regra. Cada adquirente pode definir o período que achar mais adequado.
+</div>
 
-Para configurar essa liquidação, siga o passo a passo:
+Veja abaixo um exemplo de como realizar as configurações acima:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. No topo da página, clique em __Afiliações de Gateway__.
-3. Clique no __botão verde “+”__.
-4. Na seção __Outros__, selecione a __afiliação__ que deseja configurar.
-5. Do lado esquerdo da tela, preencha o campo __Nome da afiliação__.
-6. Logo abaixo, ative o modo __Live/Produção__. 
-7. Preencha os __campos__ do formulário.
-8. No campo __Captura antecipada__, selecione uma das opções de tempo disponíveis. 
-9. Preencha o campo __Alterar tempo máximo para captura__ com o período definido com a adquirente. __Caso você prefira deixar o campo em branco, o padrão de 4 dias será utilizado__.
-
-![captura_automatica_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-tempo-maximo-para-liquidacao-automatica_1.png)
-10. Clique no __botão Salvar__. 
-
-Desse modo, o novo recurso de liquidação será implementado.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome do provedor na barra de busca e clique sobre ele.
+4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta no provedor.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor desejado na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
+6. Preencha os campos disponíveis no formulário.
+7. No campo **Captura antecipada (em horas)**, selecione uma das opções de tempo disponíveis. 
+8. Preencha o campo **Alterar tempo máximo para captura** com o período definido com a adquirente. Caso você prefira deixar o campo em branco, o padrão de 4 dias será utilizado.
+9. Clique em `Salvar`. 

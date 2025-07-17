@@ -1,5 +1,5 @@
 ---
-title: "La API de sugerencia de autocompletar elimina el punto '.' del nombre del producto"
+title: 'La API de sugerencia de autocompletar elimina el punto "." del nombre del producto'
 id: 55185IvERIwGQ3kH6H510O
 status: PUBLISHED
 createdAt: 2024-04-10T13:58:51.138Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: autocomplete-suggestion-api-removes-the-dot-from-the-product-name
+slugEN: la-api-de-sugerencia-de-autocompletar-elimina-el-punto-del-nombre-del-producto
 locale: es
 kiStatus: Backlog
 internalReference: 1014701
@@ -18,7 +18,9 @@ internalReference: 1014701
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Este problema se produce cuando se busca un término y la sugerencia de autocompletar devuelve el nombre del producto sin el carácter de punto ".", aunque exista en el nombre del producto, lo que da lugar a resultados de búsqueda incorrectos.

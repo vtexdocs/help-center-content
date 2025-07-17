@@ -1,5 +1,5 @@
 ---
-title: 'pageView se activa dos veces al acceder a Mi Cuenta'
+title: "pageView se activa dos veces al acceder a Mi Cuenta"
 id: 2jV0cIVxNUhb170tBgBQo6
 status: PUBLISHED
 createdAt: 2023-07-03T16:33:09.076Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: pageview-is-triggered-twice-when-accessing-my-account
+slugEN: pageview-se-activa-dos-veces-al-acceder-a-mi-cuenta
 locale: es
 kiStatus: Backlog
 internalReference: 854480
@@ -18,7 +18,9 @@ internalReference: 854480
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al acceder a Mi Cuenta, el evento pageView se dispara dos veces, duplicando los datos en Analytics.

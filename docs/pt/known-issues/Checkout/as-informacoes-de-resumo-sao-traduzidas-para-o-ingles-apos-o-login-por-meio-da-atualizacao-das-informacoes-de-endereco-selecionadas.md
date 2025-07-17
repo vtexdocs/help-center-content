@@ -1,5 +1,5 @@
 ---
-title: 'As informações de resumo são traduzidas para o inglês após o login por meio da atualização das informações de endereço selecionadas'
+title: "As informações de resumo são traduzidas para o inglês após o login por meio da atualização das informações de endereço selecionadas"
 id: 6g05yZcdGHZqm0zeozUH8f
 status: PUBLISHED
 createdAt: 2024-02-07T14:58:10.527Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: summary-information-translate-into-english-after-logging-in-via-update-selected-address-information
+slugEN: as-informacoes-de-resumo-sao-traduzidas-para-o-ingles-apos-o-login-por-meio-da-atualizacao-das-informacoes-de-endereco-selecionadas
 locale: pt
 kiStatus: Backlog
 internalReference: 978571
@@ -18,7 +18,9 @@ internalReference: 978571
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nas contas em espanhol, fazer login no checkout por meio de "Atualizar informações de endereço selecionadas" após a identificação com um perfil completo faz com que alguns textos do resumo sejam traduzidos para o inglês.

@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao exportar uma grande quantidade de Giftcards'
+title: "Erro ao exportar uma grande quantidade de Giftcards"
 id: 3EgSlsMNM12eN5wKAyAFf3
 status: PUBLISHED
 createdAt: 2023-07-03T14:31:25.330Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-exporting-large-amount-of-giftcards
+slugEN: erro-ao-exportar-uma-grande-quantidade-de-giftcards
 locale: pt
 kiStatus: Backlog
 internalReference: 288436
@@ -18,7 +18,9 @@ internalReference: 288436
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O sistema de cartões-presente não permite exportar cartões-presente durante um período que contenha mais de 50.000 entradas.

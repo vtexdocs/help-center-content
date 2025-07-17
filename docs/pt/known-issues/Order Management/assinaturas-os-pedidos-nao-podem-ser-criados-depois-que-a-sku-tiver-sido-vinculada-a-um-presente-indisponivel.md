@@ -1,5 +1,5 @@
 ---
-title: 'Assinaturas Os pedidos não podem ser criados depois que a SKU tiver sido vinculada a um presente indisponível'
+title: "Assinaturas Os pedidos não podem ser criados depois que a SKU tiver sido vinculada a um presente indisponível"
 id: 1hY76gsKwR07AohWMsmUXu
 status: PUBLISHED
 createdAt: 2022-03-07T14:33:11.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-orders-can-not-be-created-once-the-sku-has-linked-to-a-gift-unavailable
+slugEN: assinaturas-os-pedidos-nao-podem-ser-criados-depois-que-a-sku-tiver-sido-vinculada-a-um-presente-indisponivel
 locale: pt
 kiStatus: Fixed
 internalReference: 395965
@@ -18,7 +18,9 @@ internalReference: 395965
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há uma condição em que os Pedidos de Assinatura não podem ser criados porque estão vinculados a um **presente indisponível**, mesmo que os itens de uma assinatura estejam disponíveis.

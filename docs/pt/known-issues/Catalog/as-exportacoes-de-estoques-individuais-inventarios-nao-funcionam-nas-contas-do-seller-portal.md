@@ -1,5 +1,5 @@
 ---
-title: 'As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal'
+title: "As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal"
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts
+slugEN: as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal
 locale: pt
 kiStatus: No Fix
 internalReference: 684464
@@ -18,17 +18,19 @@ internalReference: 684464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Ao tentar exportar um inventário individual em uma conta do portal do vendedor, uma mensagem de sucesso aparece na IU, mas o e-mail nunca chega.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jZNSStiS1PxKHZpHPNmMrRKNl/?name=image.png)
 
 Entretanto, se você tentar exportar todos os armazéns, o problema não acontece.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/xy8qVAYlE7VlMoSTge7HAVOaz/?name=image.png)
 
 
 

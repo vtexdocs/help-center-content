@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-i-do-not-receive-my-abandoned-cart-emails
 ---
 
-In some cases, the [Trigger settings](https://help.vtex.com/en/tutorial/how-to-create-a-trigger-in-Master-Data--tutorials_1270 "Trigger") for [Cart abandonment](https://help.vtex.com/en/tutorial/setting-up-abandoned-carts--tutorials_740#) may not work properly. This occurs because of improper configuration settings. These errors may however easily be corrected through [Master Data](https://help.vtex.com/en/tutorial/--4otjBnR27u4WUIciQsmkAw).
+In some cases, the [Trigger settings](/en/tutorial/how-to-create-a-trigger-in-Master-Data--tutorials_1270 "Trigger") for [Cart abandonment](/en/tutorial/setting-up-abandoned-carts--tutorials_740#) may not work properly. This occurs because of improper configuration settings. These errors may however easily be corrected through [Master Data](/en/tutorial/--4otjBnR27u4WUIciQsmkAw).
 
 Follow the step-by-step below in order to access the settings page:
 
@@ -46,4 +46,6 @@ When dealing with the Abandoned Cart, it's important to configure two filters: "
 
 After checking, it's crucial to save all the information created. Afterwards, the emails will be sent out as usual.
 
->⚠️ In addition, it is also important to state that a session lasts **30 minutes**. Only after this time has expired would the system consider setting off the Abandoned Cart Trigger, which means that the time taken into account is that of the session's duration in addition to that of the Trigger scheduling.
+<div class="alert alert-warning">
+In addition, it is also important to state that a session lasts <strong>30 minutes</strong>. Only after this time has expired would the system consider setting off the Abandoned Cart Trigger, which means that the time taken into account is that of the session's duration in addition to that of the Trigger scheduling.
+</div>

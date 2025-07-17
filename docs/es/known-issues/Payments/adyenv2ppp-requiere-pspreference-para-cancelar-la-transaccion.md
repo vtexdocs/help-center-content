@@ -1,5 +1,5 @@
 ---
-title: 'AdyenV2(PPP) requiere pspReference para cancelar la transacción.'
+title: "AdyenV2(PPP) requiere pspReference para cancelar la transacción."
 id: 3rKIFtngLmBTHSIr2AYql1
 status: PUBLISHED
 createdAt: 2022-03-03T22:08:18.628Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: adyenv2ppp-is-requiring-pspreference-to-cancel-transaction
+slugEN: adyenv2ppp-requiere-pspreference-para-cancelar-la-transaccion
 locale: es
 kiStatus: Backlog
 internalReference: 486752
@@ -18,7 +18,9 @@ internalReference: 486752
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la transacción es reconocida por el proveedor y el estado nunca cambia de indefinido, AdyenV2 está requiriendo una pspReference para cancelar la transacción. Este no es un comportamiento esperado porque este campo no existe en la APP, por lo que el cliente se queda atascado en el modal PIX en la interfaz de pago.

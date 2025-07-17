@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao chegar a páginas acima de 333 em uma lista de entidades (mais de 10.000 documentos)'
+title: "Erro ao chegar a páginas acima de 333 em uma lista de entidades (mais de 10.000 documentos)"
 id: 1COJ1WZILFeFqA4XWIseYY
 status: PUBLISHED
 createdAt: 2023-02-27T19:29:52.721Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents
+slugEN: erro-ao-chegar-a-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos
 locale: pt
 kiStatus: Backlog
 internalReference: 334407
@@ -18,14 +18,16 @@ internalReference: 334407
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a loja tem mais de 10.000 documentos, portanto mais de 333 páginas, ao tentar alcançar as últimas páginas sobre CRM, há um erro de mensagem:
 
     VTEX - Dados Mestres: Ocorreu um erro inesperado no sistema. Por favor tente novamente, caso o erro persista entre em contato com a VTEX.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-chegar-a-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5wXQPX2etczf6IiyzGFLAtIvp/?name=inline1653316518.png)
 
 
 ##

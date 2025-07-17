@@ -1,5 +1,5 @@
 ---
-title: 'Gift Card view only role not available'
+title: "Gift Card view only role not available"
 id: l5ucYxnwN7ahSEpOyv8US
 status: PUBLISHED
 createdAt: 2024-08-02T12:42:45.811Z

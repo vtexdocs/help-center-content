@@ -1,5 +1,5 @@
 ---
-title: 'A IU de Transação tem atualmente uma limitação onde não pode exibir logs de/interações se a carga útil exceder 5000 linhas.'
+title: "A IU de Transação tem atualmente uma limitação onde não pode exibir logs de/interações se a carga útil exceder 5000 linhas."
 id: 1hfRLo1OBLqlsR70Os9J7L
 status: PUBLISHED
 createdAt: 2023-03-27T13:40:46.551Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-transaction-ui-currently-has-a-limitation-where-it-cannot-display-logs-from-interactions-if-the-payload-exceeds-5000-lines
+slugEN: a-iu-de-transacao-tem-atualmente-uma-limitacao-onde-nao-pode-exibir-logs-deinteracoes-se-a-carga-util-exceder-5000-linhas
 locale: pt
 kiStatus: Backlog
 internalReference: 778408
@@ -18,7 +18,9 @@ internalReference: 778408
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API /interações só pode recuperar um máximo de 5000 linhas do arquivo S3 onde todos os dados são armazenados. Isto pode criar um problema quando uma transação gera logs que excedem este limite.

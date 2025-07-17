@@ -1,5 +1,5 @@
 ---
-title: 'Registered users (not logged in) cannot finish checkout when changing from delivery to pick-up on the checkout page'
+title: "Registered users (not logged in) cannot finish checkout when changing from delivery to pick-up on the checkout page"
 id: hmQ2riW1Ptjxyhk6gcWxN
 status: PUBLISHED
 createdAt: 2023-07-28T19:49:16.993Z

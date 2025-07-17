@@ -1,5 +1,5 @@
 ---
-title: 'Los productos destacados no funcionan en una lista de productos'
+title: "Los productos destacados no funcionan en una lista de productos"
 id: 7lh3YMj55vQvs3EEQFUas1
 status: PUBLISHED
 createdAt: 2022-03-21T17:34:16.526Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: product-highlights-doesnt-work-into-a-product-list
+slugEN: los-productos-destacados-no-funcionan-en-una-lista-de-productos
 locale: es
 kiStatus: Backlog
 internalReference: 546844
@@ -18,7 +18,9 @@ internalReference: 546844
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay una promoción con el resaltado activado y el producto, que está incluido en esta promoción, está dentro de una lista, como una estantería, no se muestra la insignia que informa de la promoción.

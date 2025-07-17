@@ -1,5 +1,5 @@
 ---
-title: 'Orders invoicing calculation using input invoice value in output invoice validation'
+title: "Orders invoicing calculation using input invoice value in output invoice validation"
 id: kEjeBKkJMpUDR0JdX6fZv
 status: PUBLISHED
 createdAt: 2023-11-06T11:39:27.169Z

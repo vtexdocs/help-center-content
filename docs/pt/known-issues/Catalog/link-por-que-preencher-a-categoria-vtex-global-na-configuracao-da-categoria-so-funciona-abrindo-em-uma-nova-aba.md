@@ -1,5 +1,5 @@
 ---
-title: "Link 'Por que preencher a categoria VTEX Global?' na configuração da categoria só funciona abrindo em uma nova aba"
+title: 'Link "Por que preencher a categoria VTEX Global?" na configuração da categoria só funciona abrindo em uma nova aba'
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
+slugEN: link-por-que-preencher-a-categoria-vtex-global-na-configuracao-da-categoria-so-funciona-abrindo-em-uma-nova-aba
 locale: pt
 kiStatus: No Fix
 internalReference: 544034
@@ -18,12 +18,14 @@ internalReference: 544034
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Link "Por que preencher VTEX Global Category?" na configuração da categoria só funciona abrindo em uma nova aba. tentar abrir apenas clicando no link irá redirecionar para uma página de erro.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/link-por-que-preencher-a-categoria-vtex-global-na-configuracao-da-categoria-so-funciona-abrindo-em-uma-nova-aba_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
 
 
 ##

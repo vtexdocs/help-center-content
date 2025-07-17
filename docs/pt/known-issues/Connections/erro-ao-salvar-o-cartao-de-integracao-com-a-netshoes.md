@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao salvar o cartão de integração com a Netshoes'
+title: "Erro ao salvar o cartão de integração com a Netshoes"
 id: 4amOxIQgKqzCvpuzgAeYE5
 status: PUBLISHED
 createdAt: 2022-06-14T11:55:35.684Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: error-saving-netshoes-integration-card
+slugEN: erro-ao-salvar-o-cartao-de-integracao-com-a-netshoes
 locale: pt
 kiStatus: Backlog
 internalReference: 591921
@@ -18,7 +18,9 @@ internalReference: 591921
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

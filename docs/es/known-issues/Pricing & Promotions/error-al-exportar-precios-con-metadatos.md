@@ -1,5 +1,5 @@
 ---
-title: 'Error al exportar precios con metadatos'
+title: "Error al exportar precios con metadatos"
 id: 7nYPmatUXq57ZUsKHvfYJo
 status: PUBLISHED
 createdAt: 2023-07-12T11:49:06.370Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: error-exporting-prices-with-metadata
+slugEN: error-al-exportar-precios-con-metadatos
 locale: es
 kiStatus: Backlog
 internalReference: 860290
@@ -18,7 +18,9 @@ internalReference: 860290
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En ocasiones, al intentar exportar los precios con la opción de metadatos activada y sin utilizar filtros, puede producirse un error. Comprobando el mensaje en devTools aparecerá algo similar a "Polly broken circuit on service...".

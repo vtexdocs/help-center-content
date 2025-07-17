@@ -1,5 +1,5 @@
 ---
-title: 'El pedido con intereses tiene problemas al intentar devolver todos los artículos y reembolsar el pago total'
+title: "El pedido con intereses tiene problemas al intentar devolver todos los artículos y reembolsar el pago total"
 id: 2J5XD9jjQfZWMVg0yYMzUa
 status: PUBLISHED
 createdAt: 2023-09-18T20:53:08.156Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-with-interest-has-problems-when-trying-to-return-all-the-items-and-refund-the-total-payment
+slugEN: el-pedido-con-intereses-tiene-problemas-al-intentar-devolver-todos-los-articulos-y-reembolsar-el-pago-total
 locale: es
 kiStatus: Backlog
 internalReference: 376077
@@ -18,7 +18,9 @@ internalReference: 376077
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La plataforma impide la devolución de importes superiores al total del pedido. Esto se convierte en un problema para la devolución de pedidos en los que la forma de pago conlleva intereses.

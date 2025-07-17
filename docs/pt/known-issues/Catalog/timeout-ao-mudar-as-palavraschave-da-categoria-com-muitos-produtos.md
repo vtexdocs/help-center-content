@@ -1,5 +1,5 @@
 ---
-title: 'Timeout ao mudar as palavras-chave da categoria com muitos produtos'
+title: "Timeout ao mudar as palavras-chave da categoria com muitos produtos"
 id: 14rC5XqGCOj1THVdYwbudS
 status: PUBLISHED
 createdAt: 2022-02-25T11:40:37.024Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: time-out-on-category-keywords-change-with-many-products
+slugEN: timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos
 locale: pt
 kiStatus: No Fix
 internalReference: 497335
@@ -18,7 +18,9 @@ internalReference: 497335
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Impossível alterar as palavras-chave de uma categoria com muitos produtos, já que um timeout é retornado no processo, seja por admin ou por API
 

@@ -1,5 +1,5 @@
 ---
-title: 'Los pedidos de recogida no funcionan como se esperaba'
+title: "Los pedidos de recogida no funcionan como se esperaba"
 id: 3fp47LblCRqrevZwlEakgi
 status: PUBLISHED
 createdAt: 2022-01-12T14:03:31.662Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collection-ordering-not-working-as-expected
+slugEN: los-pedidos-de-recogida-no-funcionan-como-se-esperaba
 locale: es
 kiStatus: Fixed
 internalReference: 502409
@@ -18,7 +18,9 @@ internalReference: 502409
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En Colecciones (Beta), deberíamos poder cambiar el orden de los productos dentro de una colección utilizando la función "Mover a posición":

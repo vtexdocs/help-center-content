@@ -1,5 +1,5 @@
 ---
-title: 'Al seleccionar el SKU los estantes complementarios no se actualizan'
+title: "Al seleccionar el SKU los estantes complementarios no se actualizan"
 id: VTJ27UixWu8kuoiQ8G8O2
 status: PUBLISHED
 createdAt: 2017-08-18T19:33:30.804Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: when-selecting-the-sku-the-complementary-shelves-are-not-updated
+slugEN: al-seleccionar-el-sku-los-estantes-complementarios-no-se-actualizan
 locale: es
 kiStatus: Backlog
 internalReference: 

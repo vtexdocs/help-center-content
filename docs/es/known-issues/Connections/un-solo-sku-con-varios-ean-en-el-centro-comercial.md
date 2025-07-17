@@ -1,5 +1,5 @@
 ---
-title: 'Un solo sku con varios EAN en el Centro Comercial'
+title: "Un solo sku con varios EAN en el Centro Comercial"
 id: 2LYJWSDXKbnCQHsRRaGVYe
 status: PUBLISHED
 createdAt: 2022-02-08T19:50:42.386Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: single-sku-with-multiple-ean-in-merchant-center
+slugEN: un-solo-sku-con-varios-ean-en-el-centro-comercial
 locale: es
 kiStatus: Backlog
 internalReference: 520345
@@ -18,7 +18,9 @@ internalReference: 520345
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Confirmar cómo estamos enviando la propiedad EAN cuando el producto tiene varios skus del mismo producto en el catálogo VTEX.

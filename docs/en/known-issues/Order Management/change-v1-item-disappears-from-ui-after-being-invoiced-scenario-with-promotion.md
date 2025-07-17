@@ -1,5 +1,5 @@
 ---
-title: 'Change v1 Item disappears from UI after being invoiced, scenario with promotion.'
+title: "Change v1 Item disappears from UI after being invoiced, scenario with promotion."
 id: 2OsJe5vLh2IsNUikT5VBrL
 status: PUBLISHED
 createdAt: 2024-08-13T13:11:12.493Z

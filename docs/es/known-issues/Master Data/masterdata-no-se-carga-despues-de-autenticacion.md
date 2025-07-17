@@ -1,5 +1,5 @@
 ---
-title: 'MasterData no se carga después de autenticación'
+title: "MasterData no se carga después de autenticación"
 id: 1E22WpBMvzVHzGfWUsvjc0
 status: PUBLISHED
 createdAt: 2019-02-17T20:15:14.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: Master Data
-slugEN: masterdata-doesnt-load-after-successfully-authenticating
+slugEN: masterdata-no-se-carga-despues-de-autenticacion
 locale: es
 kiStatus: Fixed
 internalReference: 

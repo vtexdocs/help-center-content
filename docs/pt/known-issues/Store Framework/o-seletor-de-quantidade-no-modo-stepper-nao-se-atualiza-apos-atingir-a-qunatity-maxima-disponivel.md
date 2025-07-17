@@ -1,5 +1,5 @@
 ---
-title: 'O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível'
+title: "O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível"
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: quantityselector-on-stepper-mode-doesnt-refresh-after-reaching-max-available-qunatity
+slugEN: o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel
 locale: pt
 kiStatus: No Fix
 internalReference: 704458
@@ -18,7 +18,9 @@ internalReference: 704458
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você atingir a quantidade disponível do produto clicando mais de uma vez, o componente leva muito tempo para avisá-lo e nem mesmo atualiza o seletor de quantidade com a quantidade máxima disponível.

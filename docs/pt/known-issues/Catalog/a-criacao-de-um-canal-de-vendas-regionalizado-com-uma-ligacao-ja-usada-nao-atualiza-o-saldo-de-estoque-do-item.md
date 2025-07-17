@@ -1,5 +1,5 @@
 ---
-title: 'A criação de um canal de vendas regionalizado com uma ligação já usada não atualiza o saldo de estoque do item'
+title: "A criação de um canal de vendas regionalizado com uma ligação já usada não atualiza o saldo de estoque do item"
 id: 7CqZPslfGY8mTmBLuWe5SQ
 status: PUBLISHED
 createdAt: 2024-03-22T19:39:26.469Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
+slugEN: a-criacao-de-um-canal-de-vendas-regionalizado-com-uma-ligacao-ja-usada-nao-atualiza-o-saldo-de-estoque-do-item
 locale: pt
 kiStatus: No Fix
 internalReference: 1005112
@@ -18,7 +18,9 @@ internalReference: 1005112
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para contas regionalizadas, o sistema de índice filtra, pelos canais de vendas regionalizados, o saldo de estoque que deve aparecer, para não mostrar vínculos de vendas que não são regionalizados.

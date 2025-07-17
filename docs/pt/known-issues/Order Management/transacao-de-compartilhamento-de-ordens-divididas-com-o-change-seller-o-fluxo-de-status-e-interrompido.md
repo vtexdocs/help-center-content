@@ -1,5 +1,5 @@
 ---
-title: 'Transação de compartilhamento de ordens divididas com o Change Seller: o fluxo de status é interrompido'
+title: "Transação de compartilhamento de ordens divididas com o Change Seller: o fluxo de status é interrompido"
 id: 7mWWQxEPrb6c4xDnZVakK5
 status: PUBLISHED
 createdAt: 2024-08-15T21:15:41.792Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: split-orders-sharing-transaction-with-change-seller-the-status-flow-is-broken
+slugEN: transacao-de-compartilhamento-de-ordens-divididas-com-o-change-seller-o-fluxo-de-status-e-interrompido
 locale: pt
 kiStatus: Backlog
 internalReference: 1082298
@@ -18,7 +18,9 @@ internalReference: 1082298
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

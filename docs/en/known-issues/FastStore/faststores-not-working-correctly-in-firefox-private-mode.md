@@ -1,5 +1,5 @@
 ---
-title: 'Faststores not working correctly in Firefox Private Mode'
+title: "Faststores not working correctly in Firefox Private Mode"
 id: 3SMQiZFYt8SSVlOJLIMYvH
 status: PUBLISHED
 createdAt: 2023-05-19T14:56:53.172Z

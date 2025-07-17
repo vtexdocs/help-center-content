@@ -21,14 +21,14 @@ If your end customer buys a product on any of your channels (online or physical 
 
 However, you may prefer this store to work as a pickup point __even in a stockout scenario__. For this, your logistics must make sure that the product will reach that store from another stock - for example, from the e-commerce one. In this case, you need to have an e-commerce shipping policy in which the pickup point of the physical store is configured.
 
-![Creating a contingency pickup point to guarantee it as an option at checkout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20overview/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout_1.jpg)
+![Creating a contingency pickup point to guarantee it as an option at checkout](https://images.ctfassets.net/alneenqid6w5/38phAuzqPzQoBPy8811K3K/962f5bd2fb48459656477102f81644c2/diagrama-como-criar-um-ponto-de_contigencia-en.jpg)
 
 ## How to set up a contingency pickup point
 
 To implement a contingency pickup point, you need to configure the following steps:
 
-1. In the VTEX Admin, [add a new pickup point](https://help.vtex.com/en/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) in the store with available inventory to serve this pickup point.
-2. [Create a new shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) with the same name as the shipping method already configured in the policy used in the physical store, where the products will be picked up.
+1. In the VTEX Admin, [add a new pickup point](/en/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) in the store with available inventory to serve this pickup point.
+2. [Create a new shipping policy](/en/tutorial/politica-de-envio--tutorials_140) with the same name as the shipping method already configured in the policy used in the physical store, where the products will be picked up.
 3. Link this new policy with the new pickup point you created.
 
 Thus, you will have two logistic routes: one using the physical store inventory and the other using the inventory of a different store.

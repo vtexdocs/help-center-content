@@ -1,5 +1,5 @@
 ---
-title: 'Exportar el CSV en el módulo de rendimiento de ventas'
+title: "Exportar el CSV en el módulo de rendimiento de ventas"
 id: 7qnlFfnImq7N6Nrz0xIT8L
 status: PUBLISHED
 createdAt: 2023-05-11T13:42:36.411Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slugEN: export-the-csv-in-the-sales-performance-module
+slugEN: exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas
 locale: es
 kiStatus: Backlog
 internalReference: 823878
@@ -18,7 +18,9 @@ internalReference: 823878
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Estamos teniendo problemas al intentar exportar el CSV en el módulo de rendimiento de ventas.
@@ -31,7 +33,7 @@ Estamos teniendo problemas al intentar exportar el CSV en el módulo de rendimie
 
 Dentro del módulo de rendimiento de ventas, hay un botón para exportar el CSV y dice que se enviará por correo electrónico, pero en algunos casos no se está enviando.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Analytics/exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/3somzO1egT0LfYDZNFaEABpyF/?name=image.png)
 
 
 

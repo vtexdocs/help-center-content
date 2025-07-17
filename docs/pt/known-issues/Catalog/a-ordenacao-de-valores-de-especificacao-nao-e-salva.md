@@ -1,5 +1,5 @@
 ---
-title: 'A ordenação de valores de especificação não é salva'
+title: "A ordenação de valores de especificação não é salva"
 id: 7Fm0MJaKXKBfpslyV0AnPk
 status: PUBLISHED
 createdAt: 2022-05-23T20:07:52.919Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: specification-value-ordering-is-not-saved
+slugEN: a-ordenacao-de-valores-de-especificacao-nao-e-salva
 locale: pt
 kiStatus: Backlog
 internalReference: 584182
@@ -18,7 +18,9 @@ internalReference: 584182
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não é possível alterar a ordem dos valores de especificação para contas com um grande volume de valores. Quando a ordem de algum valor é alterada, a página é recarregada e a alteração não é salva.

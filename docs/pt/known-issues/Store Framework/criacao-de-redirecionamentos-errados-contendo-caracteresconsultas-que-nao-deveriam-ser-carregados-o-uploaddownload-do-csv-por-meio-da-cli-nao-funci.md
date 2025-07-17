@@ -1,5 +1,5 @@
 ---
-title: 'Criação de redirecionamentos errados contendo caracteres/consultas que não deveriam ser carregados o upload/download do csv por meio da CLI não funciona'
+title: "Criação de redirecionamentos errados contendo caracteres/consultas que não deveriam ser carregados o upload/download do csv por meio da CLI não funciona"
 id: 6ShJSvo6g8ZJFaejSo0gx3
 status: PUBLISHED
 createdAt: 2024-01-25T19:00:17.586Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: creating-wrong-redirects-containing-charactersqueries-that-shouldnt-be-uploaded-the-uploaddownload-of-the-csv-through-the-cli-doesnt-work
+slugEN: criacao-de-redirecionamentos-errados-contendo-caracteresconsultas-que-nao-deveriam-ser-carregados-o-uploaddownload-do-csv-por-meio-da-cli-nao-funciona
 locale: pt
 kiStatus: No Fix
 internalReference: 971936
@@ -18,7 +18,9 @@ internalReference: 971936
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Após criar redirecionamentos incorretos contendo caracteres que não devem ser carregados, ou seja, #, consultas ou redirecionamentos que devem ser criados no nível do servidor, o upload/download em massa do csv por meio da CLI não funciona mais: #, consultas ou redirecionamentos que devem ser criados no nível do servidor, o upload/download em massa do csv por meio da CLI não funciona mais.

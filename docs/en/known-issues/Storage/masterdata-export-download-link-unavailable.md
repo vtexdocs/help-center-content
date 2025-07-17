@@ -1,5 +1,5 @@
 ---
-title: 'Masterdata Export Download Link Unavailable'
+title: "Masterdata Export Download Link Unavailable"
 id: 2oi0ABhQQxfPsKETeNUyvE
 status: PUBLISHED
 createdAt: 2022-07-08T13:50:43.220Z
@@ -32,7 +32,7 @@ Currently, for data entities with several fields, when there's an attempt to exp
 
 2 - the download link will not generate a file onto your browser
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/masterdata-export-download-link-unavailable_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nQdUqbk7BiOK5RcigZhNZR9Rr/?name=image.png)
 
 
 ##

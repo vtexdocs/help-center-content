@@ -29,7 +29,7 @@ Este artigo tem como objetivo enunciar algumas boas práticas em relação ao us
 - Não recomendamos esticar a imagem para não afetar sua qualidade.
 
 ## Saiba mais
-- [Cadastrar Producto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Cadastrar SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
-- [Importar imagens por planilha](https://help.vtex.com/pt/tutorial/importando-imagens-por-planilha--tutorials_262)
+- [Cadastrar Producto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
+- [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Importar imagens por planilha](/pt/tutorial/importando-imagens-por-planilha--tutorials_262)
 

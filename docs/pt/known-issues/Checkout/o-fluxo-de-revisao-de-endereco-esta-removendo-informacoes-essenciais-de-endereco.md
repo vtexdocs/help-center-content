@@ -1,5 +1,5 @@
 ---
-title: 'O fluxo de revisão de endereço está removendo informações essenciais de endereço'
+title: "O fluxo de revisão de endereço está removendo informações essenciais de endereço"
 id: 416pFRk6KsWIfgPr8pzWii
 status: PUBLISHED
 createdAt: 2022-08-11T18:33:49.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-review-flow-is-removing-essential-address-information
+slugEN: o-fluxo-de-revisao-de-endereco-esta-removendo-informacoes-essenciais-de-endereco
 locale: pt
 kiStatus: No Fix
 internalReference: 618756
@@ -18,7 +18,9 @@ internalReference: 618756
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A validação do endereço no modo de geolocalização (endereço inserido via Google Maps) está removendo informações essenciais, como a rua e o número, de endereços válidos, afetando o fluxo de compras.

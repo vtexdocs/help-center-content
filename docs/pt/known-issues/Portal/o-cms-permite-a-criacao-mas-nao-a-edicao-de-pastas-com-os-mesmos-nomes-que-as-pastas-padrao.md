@@ -1,5 +1,5 @@
 ---
-title: 'O CMS permite a criação mas não a edição de pastas com os mesmos nomes que as pastas padrão'
+title: "O CMS permite a criação mas não a edição de pastas com os mesmos nomes que as pastas padrão"
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: cms-allows-the-creation-but-not-the-editing-of-folders-with-the-same-names-as-the-default-ones
+slugEN: o-cms-permite-a-criacao-mas-nao-a-edicao-de-pastas-com-os-mesmos-nomes-que-as-pastas-padrao
 locale: pt
 kiStatus: No Fix
 internalReference: 566791
@@ -18,7 +18,9 @@ internalReference: 566791
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o CMS permite a criação de pastas com os mesmos nomes que as pastas padrão, mas mais tarde não permite a edição/eliminação dessas novas pastas

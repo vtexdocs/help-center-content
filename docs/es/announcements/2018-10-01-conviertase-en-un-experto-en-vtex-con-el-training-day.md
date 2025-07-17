@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisES: 'Participe en un día de entrenamiento intensivo en VTEX con los mayores especialistas en el tema.'
 ---
 
->ℹ️ Un día completo de entrenamiento en VTEX con los mayores especialistas en el tema.
+<div class="alert alert-info">
+Un día completo de entrenamiento en VTEX con los mayores especialistas en el tema.
+</div>
 
 Hace mucho tiempo, nuestros clientes y socios piden un entrenamiento de la plataforma en profundidad. Ahora, finalmente, hemos logrado atender a esa solicitación.
 

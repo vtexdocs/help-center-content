@@ -1,5 +1,5 @@
 ---
-title: 'Console error [Report Only] - Refused to apply inline style because it violates the following Content Security'
+title: "Console error [Report Only] - Refused to apply inline style because it violates the following Content Security"
 id: mix75F8F7a7D4iTWyHLyM
 status: PUBLISHED
 createdAt: 2024-04-16T10:30:41.610Z

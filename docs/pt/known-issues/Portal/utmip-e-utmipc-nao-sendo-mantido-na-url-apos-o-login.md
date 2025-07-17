@@ -1,5 +1,5 @@
 ---
-title: 'utmi_p e utmi_pc não sendo mantido na URL após o login'
+title: "utmi_p e utmi_pc não sendo mantido na URL após o login"
 id: 7e8EO8EWEJCLbXs16ZofQk
 status: PUBLISHED
 createdAt: 2022-03-16T16:17:55.535Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: utmip-e-utmipc-not-being-kept-on-the-url-after-login
+slugEN: utmip-e-utmipc-nao-sendo-mantido-na-url-apos-o-login
 locale: pt
 kiStatus: No Fix
 internalReference: 372787
@@ -18,7 +18,9 @@ internalReference: 372787
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

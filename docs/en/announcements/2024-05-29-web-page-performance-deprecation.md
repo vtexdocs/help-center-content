@@ -21,4 +21,4 @@ From now on, merchants will be able to [monitor and optimize these metrics](http
 
 ## What needs to be done?
 
-In this discontinuation, the merchants do not need to take any action. In the VTEX Admin, the [Store Overview](https://help.vtex.com/en/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) and [Sales Performance](https://help.vtex.com/en/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) modules will continue to be available.
+In this discontinuation, the merchants do not need to take any action. In the VTEX Admin, the [Store Overview](/en/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) and [Sales Performance](/en/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) modules will continue to be available.

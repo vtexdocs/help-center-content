@@ -1,5 +1,5 @@
 ---
-title: 'El informe de exportación de pedidos no funciona cuando hay algún pedido con una gran carga útil en la lista.'
+title: "El informe de exportación de pedidos no funciona cuando hay algún pedido con una gran carga útil en la lista."
 id: 3mV7q5QNFNwqsIzareUBEn
 status: PUBLISHED
 createdAt: 2023-05-25T20:58:49.088Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-export-report-does-not-work-when-there-are-some-order-with-big-payload-on-the-list
+slugEN: el-informe-de-exportacion-de-pedidos-no-funciona-cuando-hay-algun-pedido-con-una-gran-carga-util-en-la-lista
 locale: es
 kiStatus: Backlog
 internalReference: 832429
@@ -18,7 +18,9 @@ internalReference: 832429
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La exportación de pedidos no funciona correctamente porque la tarea de exportar se cancela cuando hay un pedido en la lista con una gran carga útil, por ejemplo en el caso de un pedido con más de 500 elementos en json.

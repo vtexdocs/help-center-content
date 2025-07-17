@@ -1,5 +1,5 @@
 ---
-title: 'As operações não podem ser executadas corretamente devido ao campo documentType nulo.'
+title: "As operações não podem ser executadas corretamente devido ao campo documentType nulo."
 id: 5cZWkKc0ZXnMZCw4bvXJjA
 status: PUBLISHED
 createdAt: 2023-05-11T17:33:04.077Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: operations-cannot-be-performed-correctly-due-to-null-documenttype-field
+slugEN: as-operacoes-nao-podem-ser-executadas-corretamente-devido-ao-campo-documenttype-nulo
 locale: pt
 kiStatus: Backlog
 internalReference: 697107
@@ -18,7 +18,9 @@ internalReference: 697107
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns provedores precisam necessariamente que `documentType` seja diferente de `null`, ou seja, que seja preenchido corretamente para realizar algumas operações de pagamento.

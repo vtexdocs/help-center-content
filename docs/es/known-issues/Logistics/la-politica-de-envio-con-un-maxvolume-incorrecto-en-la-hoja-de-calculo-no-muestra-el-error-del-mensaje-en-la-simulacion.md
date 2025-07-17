@@ -1,5 +1,5 @@
 ---
-title: 'La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación'
+title: "La política de envío con un MaxVolume incorrecto en la hoja de cálculo no muestra el error del mensaje en la simulación"
 id: 7zIbmadcOfI3oHmkm8LmkY
 status: PUBLISHED
 createdAt: 2022-05-18T18:19:04.901Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation
+slugEN: la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion
 locale: es
 kiStatus: No Fix
 internalReference: 380471
@@ -18,7 +18,9 @@ internalReference: 380471
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la política de envío tiene el MaxVolume en la hoja de cálculo no hay ningún mensaje de error con respecto a esto en la simulación.

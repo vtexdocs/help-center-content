@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 [Nethone](https://nethone.com/pt) é uma solução antifraude que através de inteligência artificial e machine learning identifica aspectos comportamentais específicos do usuário e minimiza os riscos e chances de fraude nas transações da sua loja.
 
->⚠️ A integração da Nethone, na VTEX, é feita via **Application Key (App Key)** e **Application Token (App Token)**. Você encontra essas informações no pacote de plugins que a Nethone enviará após a assinatura do contrato. Em caso de dúvidas, entre em contato com o suporte da Nethone.
+<div class="alert alert-warning">
+  A integração da Nethone, na VTEX, é feita via <b>Application Key (App Key)</b> e <b>Application Token (App Token)</b>. Você encontra essas informações no pacote de plugins que a Nethone enviará após a assinatura do contrato. Em caso de dúvidas, entre em contato com o suporte da Nethone.
+  </div>
 
 Para configurar a Nethone, você precisará:
 
@@ -47,7 +49,7 @@ Para a Nethone realizar a análise antifraude, é preciso associá-la às condi�
 1. Acesse o __Admin__ VTEX.
 2. Acesse o módulo __Pagamentos__.
 3. Clique em __Configurações__.
-4. Em __Condições de pagamento__, clique na condição desejada, ou siga o tutorial [Configurar uma condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para criar uma nova condição.
+4. Em __Condições de pagamento__, clique na condição desejada, ou siga o tutorial [Configurar uma condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para criar uma nova condição.
 5. Certifique-se de que a condição de pagamento esteja __Ativada__.
 6. Após selecionar ou criar uma nova condição, habilite a opção __Usar Antifraude__.
 7. Selecione a opção __Nethone__.
@@ -70,7 +72,9 @@ A próxima etapa de configuração da Nethone é feita via Javascript, por meio 
 
 ## Configurar o Google Tag Manager
 
->⚠️ As configurações documentadas a seguir são realizadas em um sistema externo à VTEX, podendo ser descontinuadas sem aviso prévio.
+<div class="alert alert-warning">
+  As configurações documentadas a seguir são realizadas em um sistema externo à VTEX, podendo ser descontinuadas sem aviso prévio.
+  </div>
 
 Com o número de identificação da sua conta instalado no checkout, realize as configurações abaixo para acompanhar as tentativas de compra que acontecerem em sua loja. 
 

@@ -27,9 +27,9 @@ Para que este cambio ocurra, el script de VTEX ID debe llamarse desde el siguien
 
 Este nuevo método trae una serie de ventajas: aún más agilidad en las mejoras del script, garantía de que su tienda está usando la última versión y el fin de la necesidad de cambiar el endpoint después de una actualización.
 
->⚠️ **Atención:**
->
-> 
-> No recomendamos el uso del link con la versión hard-coded, porque pronto vamos a suspender el soporte a ese modo de importación del script.
+<div class="alert alert-warning">
+<strong>Atención:</strong><br>
+No recomendamos el uso del link con la versión hard-coded, porque pronto vamos a suspender el soporte a ese modo de importación del script.
+</div>
 
 Como estos cambios afectan directamente el acceso del cliente a su tienda, le recomendamos que no espere el plazo final: cuanto antes empezar a utilizar el nuevo método de llamada del script de VTEX ID, mejor.

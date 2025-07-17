@@ -15,7 +15,7 @@ legacySlug: image-widget
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image widget is a modal repository for blocks that allow image uploads in [Site Editor](https://help.vtex.com/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). With this modal repository, you can upload, store, and manage your store’s images and use them on different pages, such as Home, Product, or Newsletter.
+Image widget is a modal repository for blocks that allow image uploads in [Site Editor](/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). With this modal repository, you can upload, store, and manage your store’s images and use them on different pages, such as Home, Product, or Newsletter.
 
 For instance, you may want to add a new image to your store's __Carousel__ block. You can use the Image Widget to upload the image.
 
@@ -42,10 +42,14 @@ Now that you know how to access the Image Widget, see what you can do next:
 
 After [accessing the Image Widget](#accessing-image-widget), you can add images to it:
 
->⚠️ When adding new images in the Image Widget modal using a [development workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace),  the performed settings will be saved directly in the master workspace. In other words, they will immediately be reflected in your store's modal.
+<div class="alert alert-warning">
+When adding new images in the Image Widget modal using a <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace">development workspace</a>,  the performed settings will be saved directly in the master workspace. In other words, they will immediately be reflected in your store's modal.
+</div>
 <br>
 
->⚠️ The maximum file size supported by Image Widget is 4 MB.
+<div class="alert alert-warning">
+  The maximum file size supported by Image Widget is 4 MB. 
+</div>
 
 1. Click on `Add new.`
 2. Choose the image you want to add and click on `Open`.
@@ -80,4 +84,6 @@ Go to the block in which you want to replace a picture and:
 ### Removing an image
 To remove a picture in the desired block, click on `More actions` in an image thumbnail and select __remove__. After this, the image will no longer be visible in the block.
 
->⚠️ When you remove an image, it does not mean it was deleted from the repository. To do that, check the section [Features within Image Widget](#features-within-image-widget).
+<div class="alert alert-warning">
+  When you remove an image, it does not mean it was deleted from the repository. To do that, check the section <a href="#features-within-image-widget">Features within Image Widget</a>.
+</div>

@@ -21,4 +21,6 @@ Ao clicar sobre o menu de tipos de entrega, o cliente poderá acessar outras op�
 
 Este é um comportamento padrão da plataforma, e caso o lojista deseje modificá-lo, é possível customizar o carrinho (por meio de CSS e JavaScript), de acordo com as necessidades da loja.
 
->⚠️ Lembramos que deve-se tomar muito cuidado em qualquer alteração de CSS ou JavaScript no carrinho. Se não for bem feito, esse tipo de customização pode comprometer a taxa de conversão da sua loja e a segurança do seu checkout
+<div class="alert alert-warning">
+Lembramos que deve-se tomar muito cuidado em qualquer alteração de CSS ou JavaScript no carrinho. Se não for bem feito, esse tipo de customização pode comprometer a taxa de conversão da sua loja e a segurança do seu checkout 
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Intl not considering custom currency in formatCurrency'
+title: "Intl not considering custom currency in formatCurrency"
 id: 6uzuilnzwSZ4oQBJqqoZmd
 status: PUBLISHED
 createdAt: 2023-01-19T15:45:59.663Z

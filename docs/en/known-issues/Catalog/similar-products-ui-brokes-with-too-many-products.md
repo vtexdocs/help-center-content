@@ -1,5 +1,5 @@
 ---
-title: 'Similar products UI brokes with too many products'
+title: "Similar products UI brokes with too many products"
 id: 1gaBTJ1VlwLkoBb1636qoH
 status: PUBLISHED
 createdAt: 2023-07-25T15:53:49.976Z

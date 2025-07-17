@@ -21,7 +21,9 @@ O fluxo completo é: compra fechada com boleto no site &gt; pedido entra como Pa
 
 Conforme explicado em nosso documento [Em quanto tempo um pedido de boleto sem pagamento é cancelado?](/faq/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado/), existe um prazo para o cancelamento do pedido, caso este não seja notificado como pago no status de Pagamento Aprovado (seja manualmente no OMS ou por conciliação bancária). Nesse caso, o pedido permanecerá no status de Pagamento Pendente até ser cancelado.
 
->⚠️ Os procedimentos deste artigo não são aplicáveis para as integrações que realizam a conciliação bancária de forma automática.
+<div class="alert alert-warning">
+Os procedimentos deste artigo não são aplicáveis para as integrações que realizam a conciliação bancária de forma automática.
+</div>
 
 ## Como fazer o upload
 
@@ -34,7 +36,7 @@ Após receber o arquivo do banco e salvá-lo em sua máquina, conforme citado ac
 
 Assim que selecionar o arquivo, a plataforma começará a processá-lo e registrará no histórico quantos pagamentos foram conciliados com sucesso ou erro. Os pagamentos que forem conciliados com sucesso, atualizarão os status dos pedidos para Pagamento Aprovado.
 
-![upload-arquivo-ret](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Bank%20conciliation/conciliacoes-bancarias_1.JPG)
+![upload-arquivo-ret](https://images.ctfassets.net/alneenqid6w5/3KDKXLTwzYy1W9PNKGfIyT/73a25815cf3bd17cb7c92f6f01407f7e/uploadret.JPG)
 
 ## Visualizar o histórico
 
@@ -46,7 +48,7 @@ Dentre os detalhes, é possível saber: o banco ao qual o boleto pertence, o tot
 2. Em **Histórico**, clique em uma das datas das operações de conciliação bancária realizadas.
 3. Em **Mais detalhes dos pagamentos**, clique em **Conciliados com Sucesso** ou **Não conciliados** para verificar os detalhes das operações realizadas em um determinado banco. 
 
-![historico-conciliacao](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Bank%20conciliation/conciliacoes-bancarias_2.jpg)
+![historico-conciliacao](https://images.ctfassets.net/alneenqid6w5/7K6sF9KZlBA00tbSp4q0pC/f349ccb45ed613af59dca2de908fa01a/historico_conciliacao.jpg)
 
 ## Payclub
 
@@ -57,4 +59,4 @@ Aqui é possível fazer o download dos pagamentos do dia que foram feitos atrav�
 3. Selecione a data que desejar no calendário.
 4. Clique em **Baixar arquivo**.
 
-![donwload-arquivo-conciliação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Bank%20conciliation/conciliacoes-bancarias_3.JPG)
+![donwload-arquivo-conciliação](https://images.ctfassets.net/alneenqid6w5/78K7wW5QAaA0tVCJTBwpDH/61af99bfe4978eea981dfe694308f8f4/Download_Concilia____o.JPG)

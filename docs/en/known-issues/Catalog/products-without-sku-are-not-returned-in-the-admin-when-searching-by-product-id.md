@@ -1,5 +1,5 @@
 ---
-title: 'Products without SKU are not returned in the admin when searching by Product ID'
+title: "Products without SKU are not returned in the admin when searching by Product ID"
 id: 3wKlmxitHk1fPfwwEAt6PG
 status: PUBLISHED
 createdAt: 2023-04-12T19:03:45.264Z

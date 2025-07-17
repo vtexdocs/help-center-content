@@ -1,5 +1,5 @@
 ---
-title: 'MELI Buybox ADs are not being paused when the marketplace AD is paused'
+title: "MELI Buybox ADs are not being paused when the marketplace AD is paused"
 id: 5OFALDi7lY93D7KkZ4scvg
 status: PUBLISHED
 createdAt: 2023-09-29T19:12:14.424Z

@@ -1,5 +1,5 @@
 ---
-title: 'Reembolso incorrecto de las compras con 3 métodos de pago (uno de ellos es GC)'
+title: "Reembolso incorrecto de las compras con 3 métodos de pago (uno de ellos es GC)"
 id: 5nWfRRuxOj7CN5mjXCLzzu
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:19.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: incorrect-refund-for-purchases-with-3-payment-methods-one-of-them-being-gc
+slugEN: reembolso-incorrecto-de-las-compras-con-3-metodos-de-pago-uno-de-ellos-es-gc
 locale: es
 kiStatus: Backlog
 internalReference: 464837
@@ -18,7 +18,9 @@ internalReference: 464837
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las transacciones con 3 métodos de pago que son una de sus tarjetas de regalo tienen importes de reembolso incorrectos. En algunos casos tenemos un reembolso negativo que hace que se cancele el pago.

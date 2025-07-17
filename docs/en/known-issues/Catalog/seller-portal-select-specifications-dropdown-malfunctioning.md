@@ -1,5 +1,5 @@
 ---
-title: 'Seller Portal Select Specifications Dropdown Malfunctioning'
+title: "Seller Portal Select Specifications Dropdown Malfunctioning"
 id: 7DeU9mKh7gseN7svVPtDzb
 status: PUBLISHED
 createdAt: 2022-12-06T14:27:57.920Z
@@ -25,7 +25,7 @@ When the user attempts to choose a value, sometimes, the input below is selected
 
 For instance, you have 2 options, color and size. Upon clicking on color, you, sometimes, have size selected instead:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/seller-portal-select-specifications-dropdown-malfunctioning_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PpTFjmsH4i975D0uQSLD7WmkO/?name=image.png)
 
 
 ##

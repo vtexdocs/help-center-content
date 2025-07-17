@@ -1,5 +1,5 @@
 ---
-title: 'Adyen 3DS2 double request generates payment authorization denial'
+title: "Adyen 3DS2 double request generates payment authorization denial"
 id: 3yR8LzaUjclJ22PkAymvoe
 status: PUBLISHED
 createdAt: 2023-09-20T13:09:29.771Z

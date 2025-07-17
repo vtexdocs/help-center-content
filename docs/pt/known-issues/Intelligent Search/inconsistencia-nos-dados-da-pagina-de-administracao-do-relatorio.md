@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistência nos dados da página de administração do relatório'
+title: "Inconsistência nos dados da página de administração do relatório"
 id: 1PpUu4gA3esgGcdpIjITSu
 status: PUBLISHED
 createdAt: 2022-04-27T15:04:11.275Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: inconsistency-on-the-report-admin-page-data
+slugEN: inconsistencia-nos-dados-da-pagina-de-administracao-do-relatorio
 locale: pt
 kiStatus: Backlog
 internalReference: 501829
@@ -18,7 +18,9 @@ internalReference: 501829
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao clicar na página de administração de grandes lojas, ele retorna um erro do servidor, isto está acontecendo com a agregação feita que é muito pesada.

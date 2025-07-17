@@ -1,5 +1,5 @@
 ---
-title: "O campo de coleções sempre aparece como 'Igual a' no formulário da campanha para o público"
+title: 'O campo de coleções sempre aparece como "Igual a" no formulário da campanha para o público'
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: collections-field-always-appearing-as-equal-to-on-the-campaign-audience-form
+slugEN: o-campo-de-colecoes-sempre-aparece-como-igual-a-no-formulario-da-campanha-para-o-publico
 locale: pt
 kiStatus: No Fix
 internalReference: 697168
@@ -18,13 +18,15 @@ internalReference: 697168
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Mesmo se definirmos o campo Coleções como "Diferente de" e salvarmos o formulário, uma vez que o abrirmos novamente o valor é definido como "Igual a". No entanto, este comportamento é apenas na IU, no backend o valor é definido corretamente, não tendo impacto nas vendas.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/o-campo-de-colecoes-sempre-aparece-como-igual-a-no-formulario-da-campanha-para-o-publico_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XX8ZrsQE8jH3BqY6bVvUe7zIC/?name=image.png)
 
 
 

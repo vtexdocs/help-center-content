@@ -1,5 +1,5 @@
 ---
-title: 'La suscripción promocional con frecuencia de semana, mes y día no funciona en ciclos recurrentes'
+title: "La suscripción promocional con frecuencia de semana, mes y día no funciona en ciclos recurrentes"
 id: 70DNIBLC5kctaFZSLooOQ7
 status: PUBLISHED
 createdAt: 2024-01-12T17:00:50.068Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotion-subscription-with-week-month-and-day-frequency-not-working-on-recurring-cycles
+slugEN: la-suscripcion-promocional-con-frecuencia-de-semana-mes-y-dia-no-funciona-en-ciclos-recurrentes
 locale: es
 kiStatus: Backlog
 internalReference: 965484
@@ -18,7 +18,9 @@ internalReference: 965484
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se establece una promoción de suscripción en el módulo de suscripción, el comerciante tiene la posibilidad de elegir la frecuencia con la que se aplicará esta promoción en la suscripción.

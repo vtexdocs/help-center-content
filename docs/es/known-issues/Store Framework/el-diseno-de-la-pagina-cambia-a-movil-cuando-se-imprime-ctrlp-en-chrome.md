@@ -1,5 +1,5 @@
 ---
-title: 'El diseño de la página cambia a móvil cuando se imprime (ctrl+p) en Chrome'
+title: "El diseño de la página cambia a móvil cuando se imprime (ctrl+p) en Chrome"
 id: 1mPBRf1IhLj27liWa040XG
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:17.848Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: page-layout-changes-to-mobile-when-printing-ctrlp-is-used-in-chrome
+slugEN: el-diseno-de-la-pagina-cambia-a-movil-cuando-se-imprime-ctrlp-en-chrome
 locale: es
 kiStatus: No Fix
 internalReference: 454680
@@ -18,7 +18,9 @@ internalReference: 454680
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 El diseño de la página cambia a la versión móvil cuando se activa la impresión (CTRL+P) dos veces en Google Chrome Desktop.
 

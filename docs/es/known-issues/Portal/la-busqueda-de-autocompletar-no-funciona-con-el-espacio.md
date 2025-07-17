@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda de autocompletar no funciona con el espacio'
+title: "La búsqueda de autocompletar no funciona con el espacio"
 id: 1ZZGCHgsnJ512DAZv1iCy7
 status: PUBLISHED
 createdAt: 2022-04-28T16:03:43.077Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: autocomplete-search-not-working-with-space
+slugEN: la-busqueda-de-autocompletar-no-funciona-con-el-espacio
 locale: es
 kiStatus: Backlog
 internalReference: 568821
@@ -18,7 +18,9 @@ internalReference: 568821
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

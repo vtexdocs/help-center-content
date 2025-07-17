@@ -1,5 +1,5 @@
 ---
-title: 'La preferencia de inicio de sesión con contraseña no se puede deshacer en Admin.'
+title: "La preferencia de inicio de sesión con contraseña no se puede deshacer en Admin."
 id: 5OPVJusw14TQzKdAVS71wx
 status: PUBLISHED
 createdAt: 2024-04-22T13:30:15.401Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: login-preference-with-password-cannot-be-undone-in-admin
+slugEN: la-preferencia-de-inicio-de-sesion-con-contrasena-no-se-puede-deshacer-en-admin
 locale: es
 kiStatus: Backlog
 internalReference: 1020548
@@ -18,7 +18,9 @@ internalReference: 1020548
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario se conecta a la plataforma VTEX por primera vez (Admin), se le pide que elija su preferencia de inicio de sesión para la próxima vez que se conecte. A continuación, puede elegir entre introducir su dirección de correo electrónico y contraseña, o introducir un código que se le enviará a su dirección de correo electrónico;

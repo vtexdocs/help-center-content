@@ -1,5 +1,5 @@
 ---
-title: 'Botón de Android con comportamiento inesperado con el botón de entrada'
+title: "Botón de Android con comportamiento inesperado con el botón de entrada"
 id: 7lxReFstIBsMBktghrIZXB
 status: PUBLISHED
 createdAt: 2022-07-07T14:04:42.124Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: android-button-with-unexpected-behavior-with-the-enter-button
+slugEN: boton-de-android-con-comportamiento-inesperado-con-el-boton-de-entrada
 locale: es
 kiStatus: Backlog
 internalReference: 606718
@@ -18,7 +18,9 @@ internalReference: 606718
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

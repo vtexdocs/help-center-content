@@ -14,7 +14,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---
 
-![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/o-que-e-o-cms_1.png)
+![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
 
 Un sistema de gestión de contenido o CMS (content management system) permite gestionar contenido de forma práctica y constante.
 
@@ -24,7 +24,7 @@ El CMS ofrece un conjunto de herramientas que varían según la tecnología util
 
 Los siguientes artículos detallan las funcionalidades del CMS de cada tecnología:
 
-- [FastStore CMS](https://help.vtex.com/es/tutorial/gestion-de-paginas--3DO6rBhZ1p3zndnFu5BgRt)
-- [Store Framework CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
-- [CMS Portal Legado](https://help.vtex.com/es/tutorial/que-es-el-cms-layout--EmO8u2WBj2W4MUQCS8262)
+- [FastStore CMS](/es/tutorial/gestion-de-paginas--3DO6rBhZ1p3zndnFu5BgRt)
+- [Store Framework CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
+- [CMS Portal Legado](/es/tutorial/que-es-el-cms-layout--EmO8u2WBj2W4MUQCS8262)
 

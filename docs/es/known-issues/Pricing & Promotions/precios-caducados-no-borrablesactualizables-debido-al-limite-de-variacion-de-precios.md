@@ -1,5 +1,5 @@
 ---
-title: 'Precios caducados no borrables/actualizables debido al límite de variación de precios'
+title: "Precios caducados no borrables/actualizables debido al límite de variación de precios"
 id: JX9nUFCmGWtOzlabxI54h
 status: PUBLISHED
 createdAt: 2022-03-16T20:45:31.592Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: expired-prices-not-deletableupdatable-due-to-price-variation-limit
+slugEN: precios-caducados-no-borrablesactualizables-debido-al-limite-de-variacion-de-precios
 locale: es
 kiStatus: Backlog
 internalReference: 325695
@@ -18,7 +18,9 @@ internalReference: 325695
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -15,7 +15,7 @@ legacySlug: entendiendo-el-sistema-de-captura-de-email-de-vtex
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
+El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
 
 Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), donde el usuario completa con éxito su compra y el pedido se reenvía a OMS, mientras que su correo electrónico se transmite de forma segura a Master Data. En este contexto, las acciones del usuario y el flujo de la plataforma ocurren en el siguiente orden:
 
@@ -39,13 +39,17 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 |------------------|------------------|
 | Haga clic en `Ir para la Entrega`. | Checkout solicita a RC.JS que transfiera la dirección de correo electrónico y la información del carrito a Master Data (a través del Profile System). |
 
->⚠️ Para que se pueda utilizar la función [carrito abandonado](https://help.vtex.com/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
+<div class="alert alert-warning">
+Para que se pueda utilizar la función <a href="https://help.vtex.com/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#">carrito abandonado</a>, es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
+</div>
 
 | __Usuario__ | __Plataforma VTEX__ |
 |------------------|------------------|
 | Rellena los datos de envío y pago. | The Checkout orderForm becomes an order and is transmitted to the VTEX OMS. El orderForm de Checkout se convierte en un pedido y se transmite al VTEX OMS. La información completa del usuario (nombre, apellido, correo electrónico, carrito y toda la información adicional) se transmite a Master Data. La captura de correo electrónico puede tardar hasta 46 minutos en reflejarse correctamente en CRM. |
 
->ℹ️ Cada módulo VTEX es responsable de solicitar RC.JS para transmitir los datos capturados en la sesión. RC.JS está destinado a actuar como un "mensajero" de información.
+<div class="alert alert-info">
+Cada módulo VTEX es responsable de solicitar RC.JS para transmitir los datos capturados en la sesión. RC.JS está destinado a actuar como un "mensajero" de información.
+</div>
 
 ![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
 

@@ -1,5 +1,5 @@
 ---
-title: "Button 'Cancel' inside the MyCards page not translated to Spanish"
+title: 'Button "Cancel" inside the MyCards page not translated to Spanish'
 id: 5wIEEoF7gTLYlWnANxDZ7h
 status: PUBLISHED
 createdAt: 2022-02-24T13:18:00.062Z

@@ -1,5 +1,5 @@
 ---
-title: "Nuevo objeto devuelto en API Get Order  'itemMetadata'"
+title: 'Nuevo objeto devuelto en API Get Order  "itemMetadata"'
 id: 473vn32oLLH2qyep29rpi
 status: PUBLISHED
 createdAt: 2019-04-08T16:33:34.076Z

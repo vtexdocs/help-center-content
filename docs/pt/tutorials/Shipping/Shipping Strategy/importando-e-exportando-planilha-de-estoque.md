@@ -68,4 +68,6 @@ A seguir, confira o significado de cada campo da planilha de estoque.
 - **LockIds** (texto): Código identificador da reserva.  
 - **DispatchedReservations** (número): número de itens do SKU que já passaram do status `Pronto para manuseio`, ou seja, cujas reservas já caíram.  
 
->ℹ️ Para incluir um item com estoque infinito, é preciso preencher o campo **TotalQuantity** com o valor `1000000` e alterar o campo **UnlimitedQuantity** para `True`.
+<div class = "alert alert-info">
+  Para incluir um item com estoque infinito, é preciso preencher o campo <b>TotalQuantity</b> com o valor <code>1000000</code> e alterar o campo <b>UnlimitedQuantity</b> para <code>True</code>. 
+</div>

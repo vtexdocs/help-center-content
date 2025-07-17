@@ -1,5 +1,5 @@
 ---
-title: 'Divergent status on the transaction list and on the transaction'
+title: "Divergent status on the transaction list and on the transaction"
 id: 1LD32IQJFbvlOJzD12KL64
 status: PUBLISHED
 createdAt: 2022-03-03T18:41:10.292Z

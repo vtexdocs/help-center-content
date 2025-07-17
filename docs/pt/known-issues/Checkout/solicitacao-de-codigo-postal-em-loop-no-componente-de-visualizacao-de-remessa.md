@@ -1,5 +1,5 @@
 ---
-title: 'Solicitação de código postal em loop no componente de visualização de remessa'
+title: "Solicitação de código postal em loop no componente de visualização de remessa"
 id: 6pcJyqvZ8u388xg04zJnnw
 status: PUBLISHED
 createdAt: 2022-07-25T16:47:46.301Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: postal-code-request-in-loop-in-the-shipping-preview-component
+slugEN: solicitacao-de-codigo-postal-em-loop-no-componente-de-visualizacao-de-remessa
 locale: pt
 kiStatus: Backlog
 internalReference: 352659
@@ -18,7 +18,9 @@ internalReference: 352659
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de alternar o código postal algumas vezes no componente de pré-visualização do envio do carrinho, o componente entra em um eterno looping de pedidos de `/api/checkout/pub/postal-code//`

@@ -22,12 +22,14 @@ Headers play a crucial role in HTTP communication, providing additional informat
 - __Request Headers:__ Sent by the client to the server. They contain information about the request made, such as the type of HTTP method used, the type of accepted content, cookies, among others.
 - __Response Headers:__ Sent by the server to the client. They provide information about the sent response, such as the response status, type of returned content, cookies, among others.
 
->ℹ️ For more information, refer to the [MDN’s HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) guide and related documentation.
+<div class = "alert alert-info">
+For more information, refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">MDN’s HTTP</a> guide and related documentation.
+</div>
 
 In this guide, you will learn how to manage Security Response Headers in your Store Framework store.
 ## Security Response Headers
 
-In Store Framework stores, if you need to add or change the value of a Security Response Header, open a ticket to [VTEX Support](https://help.vtex.com/en/support).
+In Store Framework stores, if you need to add or change the value of a Security Response Header, open a ticket to [VTEX Support](/en/support).
 
 Below, check the headers that accept editing:
 
@@ -42,7 +44,9 @@ Below, check the headers that accept editing:
 
 It is possible to configure a custom header, which is a value that is not standardized and is specific to the store's particular requirements or functionalities.
 
->⚠️ Each account is limited to adding a single custom header.
+<div class="alert alert-warning">
+Each account is limited to adding a single custom header.
+</div>
 
 If you need to configure a custom header, open a ticket to the VTEX Support, providing the keys and values to be set, as you are entirely responsible for this information. To guide you, refer to the MDN’s documentation about [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers). 
 

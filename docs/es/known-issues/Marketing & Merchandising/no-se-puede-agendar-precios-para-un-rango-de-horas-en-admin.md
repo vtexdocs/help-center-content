@@ -1,5 +1,5 @@
 ---
-title: 'No se puede agendar precios para un rango de horas'
+title: "No se puede agendar precios para un rango de horas"
 id: 4QxkT7HBW0QOSiCcKaSCs2
 status: PUBLISHED
 createdAt: 2017-06-27T02:12:42.022Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
-slugEN: its-not-possible-to-schedule-prices-for-a-range-of-hours
+slugEN: no-se-puede-agendar-precios-para-un-rango-de-horas-en-admin
 locale: es
 kiStatus: Backlog
 internalReference: 

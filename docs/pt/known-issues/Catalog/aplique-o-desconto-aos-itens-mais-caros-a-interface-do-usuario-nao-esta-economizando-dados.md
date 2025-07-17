@@ -1,5 +1,5 @@
 ---
-title: 'Aplique o desconto aos itens mais caros - a interface do usuário não está economizando dados.'
+title: "Aplique o desconto aos itens mais caros - a interface do usuário não está economizando dados."
 id: 6VQuVOAtzbA6OyjDEi2bHh
 status: PUBLISHED
 createdAt: 2024-04-03T17:29:36.171Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: apply-the-discount-to-the-most-expensive-items-ui-not-saving-data
+slugEN: aplique-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-economizando-dados
 locale: pt
 kiStatus: Backlog
 internalReference: 1011071
@@ -18,12 +18,14 @@ internalReference: 1011071
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a UI de promoções, a tentativa de salvar manualmente a opção "Aplicar aos itens mais caros" não funcionará e o seletor permanecerá na opção do tipo mais barato.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/aplique-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-economizando-dados_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ofDGJuHHbNRwvbYDMOSSCznvB/?name=image.png)
 
 ## Simulação
 

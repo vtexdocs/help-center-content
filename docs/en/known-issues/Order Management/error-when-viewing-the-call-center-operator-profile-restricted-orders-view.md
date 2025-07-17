@@ -1,5 +1,5 @@
 ---
-title: 'Error when viewing the Call center operator profile (restricted orders view)'
+title: "Error when viewing the Call center operator profile (restricted orders view)"
 id: 7aKQPtGvzYBaRksiuBa4YJ
 status: PUBLISHED
 createdAt: 2024-11-05T16:34:35.960Z

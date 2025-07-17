@@ -3,8 +3,8 @@ title: 'Cómo funciona Suscripciones '
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-09-20T13:14:49.119Z
-publishedAt: 2024-09-20T13:14:49.119Z
+updatedAt: 2025-02-19T20:14:45.602Z
+publishedAt: 2025-02-19T20:14:45.602Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -29,13 +29,13 @@ Una suscripción para VTEX consiste en una lista de SKUs vinculada a cierta conf
 
 ## Cómo el cliente de su tienda genera un pedido con Suscripciones 
 
-Cuando termine la [configuración de la funcionalidad Suscripciones V2](https://help.vtex.com/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj), ya estará habilitada para que el cliente de su tienda genere un pedido con Suscripciones. Hay dos maneras en que su cliente puede crear una suscripción: 
+Cuando termine la [configuración de la funcionalidad Suscripciones V2](/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj), ya estará habilitada para que el cliente de su tienda genere un pedido con Suscripciones. Hay dos maneras en que su cliente puede crear una suscripción: 
 
 ### Añadir productos para suscripción durante el checkout
 
 Al añadir un *producto habilitado para Suscripción*, durante el checkout, se mostrará un selector desplegable para cada producto con las opciones de suscripción asociadas a ese SKU. Su cliente deberá seleccionar la opción «Suscripción» y seleccionar la frecuencia de la suscripción. Tenga en cuenta que este flujo puede ser personalizado en algunos casos, dependiendo de la necesidad del negocio. 
 
-Después de seleccionar los detalles de la suscripción, el cliente procederá con el flujo normal de compra. Deberá ingresar la dirección de entrega y utilizar uno de los [**métodos de pago habilitados para el Sistema de Suscripción**](https://help.vtex.com/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj). La suscripción se activará después de la aprobación del pago.
+Después de seleccionar los detalles de la suscripción, el cliente procederá con el flujo normal de compra. Deberá ingresar la dirección de entrega y utilizar uno de los [**métodos de pago habilitados para el Sistema de Suscripción**](/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj). La suscripción se activará después de la aprobación del pago.
 
 ### Crear una nueva suscripción en la página «Mi cuenta»
 
@@ -45,11 +45,13 @@ Para ello, solo hay que entrar a la página **Mi cuenta** en el sitio web de su 
 
 ## Cómo el cliente de su tienda visualiza las Suscripciones
 
->ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
 
 Después de finalizar el pedido con Suscripción, su cliente visualiza en la página **Mi cuenta** la sección **Suscripciones**. En esta sección, el cliente también puede encontrar la lista de suscripciones realizadas con los detalles y el estado individual. Su cliente también recibirá por *email* una confirmación de la suscripción y del pedido generado.
 
-La comunicación con su cliente acerca de la suscripción se llevará a cabo por el módulo **Centro de mensajes**. Consulte nuestro artículo [Correos Electrónicos Transaccionales para Pedidos de Suscripción](https://help.vtex.com/es/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
+La comunicación con su cliente acerca de la suscripción se llevará a cabo por el módulo **Centro de mensajes**. Consulte nuestro artículo [Correos Electrónicos Transaccionales para Pedidos de Suscripción](/es/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
 
 ## Detalles de suscripción
 
@@ -70,46 +72,3 @@ Añadimos una barra de acciones para mejorar la comunicación con el usuario sob
 ## Añadir productos a su suscripción
 
 Ahora es posible añadir un nuevo ítem a su suscripción a través de la búsqueda de los productos disponibles en la tienda.
-
-## Preguntas frecuentes sobre Suscripciones 
-
-1. **¿Puedo tener más de una suscripción en mi tienda?**
-El número de suscripciones es ilimitado, tanto para su tienda como para su cliente. Esto significa que no hay un número máximo de suscripciones que puedan ser vendidas por su tienda o compradas por su cliente. Sin embargo, es importante conocer las condiciones que se aplican en las suscripciones.
-
-2. **¿Puede mi cliente comprar por suscripción y retirar en las tiendas o en puntos de recogida?**
-Sí, lea el artículo [Puntos de recogida para pedidos de suscripción (Beta)](https://help.vtex.com/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv) para más información.
-
-3. **¿Puede mi cliente registrar más de una dirección en su suscripción?**
-No es posible registrar más de una dirección en la misma suscripción.
-
-4. **¿Cuál es el plazo de entrega y la regla de flete?**
-El plazo de entrega y la regla de flete se basan en las políticas de entrega vigentes en la tienda en el momento del ciclo del pedido.
-
-5. **¿Puede mi cliente pagar en cuotas sus pedidos de suscripción?**
-Sí, cuando se configure la tienda para permitir el pago de pedidos de suscripción en cuotas. Esto se realiza a través del endpoint [Editar configuración de suscripciones](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings), marcando los campos `isMultipleInstallmentsEnabledOnCreation` y `isMultipleInstallmentsEnabledOnUpdate` como `true` (verdadero).
-
-6. **¿Qué pasa si la tarjeta de mi cliente es cancelada?**
-La suscripción no se generará por falta de posibilidad de pago.
-
-7. **¿Puede mi cliente solicitar una entrega programada para pedidos de Suscripción?**
-Todavía no es posible solicitar entregas programadas para pedidos de Suscripción. Ese escenario no se atiende para que su cliente no se vea afectado negativamente si la configuración logística de su tienda cambia. Sin embargo, su cliente puede crear una nueva suscripción con la fecha futura de la primera entrega en el día que desee.   
-
-8. **¿Cómo puedo cancelar, omitir o pausar un pedido de suscripción de mi cliente?**
-Todavía no es posible hacer cambios en los pedidos de suscripción de sus clientes a través del Admin de VTEX. Solo es posible pausar, omitir o cancelar un pedido de suscripción por medio del acceso a Televentas, en el painel de subscripción de su cliente, o por medio de nuestras [APIs](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#overview).
-
-9. **¿Es posible agregar ítems de Sellers o Marketplaces en un pedido de Suscripción?**
-Suscripciones pueden ser creadas con ítems de la propia tienda, de sellers VTEX o de sellers white lable (cuenta franquicia).
-
-10. **¿Si el administrador de la tienda crea una regla para un valor mínimo, ¿esta regla podrá afectar a las suscripciones?**
-Sí, si el valor del pedido de suscripción es inferior al límite definido por la configuración _Valor mínimo total de la compra_. Tenga en cuenta que nuestro sistema de Suscripción no admite ciclos, o pedidos con un valor total de $0.
-
-11. **¿Si el precio de un SKU cambia, ¿se verá afectada la suscripción de mi cliente?**
-Sí, el precio que paga el cliente por la suscripción se basa en el precio registrado para cada SKU. La suscripción del cliente no acompaña las condiciones de precio del primer pedido realizado. El pedido se realiza con los mismos productos que el pedido original, pero el precio se calculará en función de lo que está configurado en el momento de la siguiente ciclo del pedido.
-
-12. **¿A qué hora se crean pedidos de suscripción?**
-La creación de pedidos de suscripción se realiza entre 6:00 y 7:00 de la mañana, con referencia a la zona de Brasil (GMT-3).
-
-13. **¿La funcionalidad Suscripciones funciona con el Seller Portal?** No, Suscripciones no funciona con el [Seller Portal](https://help.vtex.com/es/tutorial/how-to-set-up-your-store-on-seller-portal).
-
-14. **¿Cómo crear suscripciones a partir de pedidos originales que tienen SKUs con anexos?**
-De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

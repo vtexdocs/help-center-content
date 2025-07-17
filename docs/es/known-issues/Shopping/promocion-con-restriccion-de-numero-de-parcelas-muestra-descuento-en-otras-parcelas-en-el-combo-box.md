@@ -1,5 +1,5 @@
 ---
-title: 'Promoción con restricción de número de parcelas muestra descuento en otras parcelas en el combo box'
+title: "Promoción con restricción de número de parcelas muestra descuento en otras parcelas en el combo box"
 id: 4oKJDg0ygC40oiOAx2lkdG
 status: PUBLISHED
 createdAt: 2019-03-18T14:30:33.359Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box
+slugEN: promocion-con-restriccion-de-numero-de-parcelas-muestra-descuento-en-otras-parcelas-en-el-combo-box
 locale: es
 kiStatus: Backlog
 internalReference: 

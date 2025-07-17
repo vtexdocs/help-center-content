@@ -1,5 +1,5 @@
 ---
-title: 'La papelera enviada no coincide con una marca de tarjeta asociada'
+title: "La papelera enviada no coincide con una marca de tarjeta asociada"
 id: 4GvoMVXIVOdFueGiNfcTvk
 status: PUBLISHED
 createdAt: 2022-03-26T14:46:51.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: bin-sent-does-not-match-an-associated-card-brand
+slugEN: la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada
 locale: es
 kiStatus: Backlog
 internalReference: 308896
@@ -18,7 +18,9 @@ internalReference: 308896
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La plataforma permite enviar un BIN con la bandera de otra marca de tarjeta. Por ejemplo: Se puede informar de un BIN de VISA, pero se puede marcar la bandera de la marca de tarjeta Mastercard.

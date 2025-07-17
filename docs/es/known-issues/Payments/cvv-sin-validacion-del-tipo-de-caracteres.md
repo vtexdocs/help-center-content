@@ -1,5 +1,5 @@
 ---
-title: 'CVV sin validación del tipo de caracteres'
+title: "CVV sin validación del tipo de caracteres"
 id: 63MJ3ODCvr3ayfgJiuN1ja
 status: PUBLISHED
 createdAt: 2022-03-27T20:25:43.400Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: cvv-without-validation-of-characters-type
+slugEN: cvv-sin-validacion-del-tipo-de-caracteres
 locale: es
 kiStatus: No Fix
 internalReference: 425204
@@ -18,7 +18,9 @@ internalReference: 425204
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el momento de la compra, pedimos la información de la tarjeta de crédito y sólo permitimos que el cliente escriba números en el campo Número de tarjeta, y sólo letras en el campo Nombre del propietario de la tarjeta. Sin embargo, no hacemos una validación similar para el campo CVV, permitiendo que el cliente escriba letras en este campo

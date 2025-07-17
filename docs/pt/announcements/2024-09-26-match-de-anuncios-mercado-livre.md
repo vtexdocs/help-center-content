@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Vincule seus anúncios às oportunidades de catálogo do Mercado Livre para ganhar relevância dos produtos.'
 ---
 
-Ao realizar a [integração](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) com o Mercado Livre, o seller envia seu catálogo ao marketplace. Com os produtos enviados e anúncios criados, o Mercado Livre oferece ao seller oportunidades de match com anúncios do tipo **catálogo,** que pode ocupar um espaço de destaque no marketplace. Para analisar uma oportunidade o seller deve acessar no Admin VTEX **Marketplace > Mercado Livre> Match de anúncios** ou digite **Match de anúncios.**  
+Ao realizar a [integração](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) com o Mercado Livre, o seller envia seu catálogo ao marketplace. Com os produtos enviados e anúncios criados, o Mercado Livre oferece ao seller oportunidades de match com anúncios do tipo **catálogo,** que pode ocupar um espaço de destaque no marketplace. Para analisar uma oportunidade o seller deve acessar no Admin VTEX **Marketplace > Mercado Livre> Match de anúncios** ou digite **Match de anúncios.**  
 
 ## Quais os benefícios da funcionalidade?
 
@@ -30,5 +30,5 @@ Os principais benefícios da funcionalidade incluem:
 
 A funcionalidade **Match de anúncios** pode ser encontrada no Admin VTEX clicando em, **Marketplace > Mercado Livre > Match de anúncios,** ou digite  Match de anúncios na barra de busca. Ela está disponível para todas as contas VTEX.  
 
-Para mais informações de como utilizar a funcionalidade, leia nossa documentação [Match de anúncios Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
+Para mais informações de como utilizar a funcionalidade, leia nossa documentação [Match de anúncios Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
 

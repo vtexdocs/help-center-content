@@ -1,5 +1,5 @@
 ---
-title: 'Item available when customer location is not defined with no stock'
+title: "Item available when customer location is not defined with no stock"
 id: 7vDywP0WtfpJ4bCiNkXNfw
 status: PUBLISHED
 createdAt: 2024-07-30T22:51:30.425Z

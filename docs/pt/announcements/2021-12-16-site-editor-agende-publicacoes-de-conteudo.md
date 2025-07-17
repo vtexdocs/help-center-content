@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Crie e programe versões de bloco predefinidas no Site 
 
 O recurso **Configurações** do Site Editor foi atualizado. Agora, além de se chamar **Versões**, você pode criar as  versões do conteúdo de sua loja desativadas e ativá-las quando desejar.
 
-![activating-versions-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-12-16-site-editor-agende-publicacoes-de-conteudo_1.gif)
+![activating-versions-pt](https://images.ctfassets.net/alneenqid6w5/31O8XD7Pt9GWWYk2W8q13K/01ea74a9392015c3eb54ae8b0546908a/activating-versions-pt.gif)
 
 ## O que mudou?
 Antes, o recurso **Versões** se chamava **Configurações**, e era apenas possível criar uma nova versão ativada, por exemplo, de um Carrossel com produtos em promoção, ou agendar a sua ativação. Após uma versão sair do ar, também não era possível ativá-la novamente.
@@ -28,5 +28,5 @@ Agora, você pode criar uma versão desativada e ativá-la quando desejar. Além
 Para facilitar a publicação de conteúdo utilizando o Site Editor, melhoramos a experiência de criação de versões de blocos de loja.
 
 ## O que precisa ser feito?
-O recurso **Versões** já está ativo no Site Editor e você já pode começar a utilizá-lo. Para mais informações, confira as documentações [Gerenciando versões de conteúdo](https://help.vtex.com/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](https://help.vtex.com/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
+O recurso **Versões** já está ativo no Site Editor e você já pode começar a utilizá-lo. Para mais informações, confira as documentações [Gerenciando versões de conteúdo](/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
 

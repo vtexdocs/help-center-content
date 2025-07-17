@@ -1,5 +1,5 @@
 ---
-title: 'As configurações do aplicativo não são apagadas quando você exclui o aplicativo'
+title: "As configurações do aplicativo não são apagadas quando você exclui o aplicativo"
 id: 7KXfKLgbc3UDeDSsCgT0Sk
 status: PUBLISHED
 createdAt: 2024-07-15T22:29:24.058Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: app-settings-are-not-erased-when-you-delete-the-app
+slugEN: as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo
 locale: pt
 kiStatus: Backlog
 internalReference: 1065954
@@ -18,7 +18,9 @@ internalReference: 1065954
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você instala um aplicativo da App Store e acessa suas configurações, você tem a opção "**Uninstall**", que exclui o aplicativo do espaço de trabalho, mas mantém suas configurações, e a opção "**Delete**", que exclui o aplicativo e suas configurações.
@@ -35,7 +37,7 @@ No entanto, quando você seleciona a opção "**Delete**" e instala o aplicativo
 - Siga as instruções para instalar o aplicativo;
 - Preencha as configurações (se aplicável) e "Salvar";
 - Clique em "Delete" (Excluir). A seguinte mensagem será exibida:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Apps/as-configuracoes-do-aplicativo-nao-sao-apagadas-quando-voce-exclui-o-aplicativo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kM5EhsfVaHLlISckht8rRYumU/?name=image.png)
 
 > _**Do you want to remove the app X?**_
 >

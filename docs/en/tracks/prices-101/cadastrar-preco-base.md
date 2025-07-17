@@ -3,8 +3,8 @@ title: 'Adding a base price'
 id: P99EjtrlRHk92Q8qDPq29
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:47.694Z
-updatedAt: 2023-03-29T18:29:21.378Z
-publishedAt: 2023-03-29T18:29:21.378Z
+updatedAt: 2024-11-27T11:36:41.541Z
+publishedAt: 2024-11-27T11:36:41.541Z
 firstPublishedAt: 2019-07-17T19:41:10.765Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ trackSlugEN: prices-101
 There are three ways to add a base price:
 
 - through Admin
-- [by using a spreadsheet](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [by using a spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - through an API REST
 
 Follow the steps below to add a base price to your SKUs:
@@ -40,7 +40,9 @@ You may also add a **List Price** linked to an SKU base price by following the s
 
 ## API REST
 
->⚠️ Authentications for the Prices module's API REST requests must be done using AppKey and AppToken. For more on this, read our article on [how to manage an AppKey and AppToken to authenticate your integrations.](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+Authentications for the Prices module's API REST requests must be done using AppKey and AppToken. For more on this, read our article on <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">how to manage an AppKey and AppToken to authenticate your integrations.</a>
+</div>
 
 To add a **base price** to an SKU, you'll have to send a __PUT__ request to the following endpoint:
 

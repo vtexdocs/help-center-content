@@ -1,10 +1,10 @@
 ---
-title: 'Search Navigator filter + Price Range yielding incorrect results'
+title: "Search Navigator filter + Price Range yielding incorrect results"
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z
-updatedAt: 2024-02-16T20:24:11.551Z
-publishedAt: 2024-02-16T20:24:11.551Z
+updatedAt: 2025-05-20T19:58:36.371Z
+publishedAt: 2025-05-20T19:58:36.371Z
 firstPublishedAt: 2022-06-28T16:55:53.927Z
 contentType: knownIssue
 productTeam: Portal
@@ -19,13 +19,9 @@ internalReference: 504992
 ## Summary
 
 
-Currently, when using the search Navigator brand filter along with a price range in a VTEX Business Edition, products outside of the filtered brand can be shown.
-
-
+Currently, when using the search Navigator brand filter along with a price range in the legacy search, products outside of the filtered brand can be shown.
 
 * * *
-
-
 
 
 ## Simulation
@@ -33,7 +29,7 @@ Currently, when using the search Navigator brand filter along with a price range
 
 1) Populate the search navigator controller with at least 2 brands, that is for a given category/subcategory, have at least 2 different brands listed:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Portal/search-navigator-filter-price-range-yielding-incorrect-results_1.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/2lJXG553wVxO5DU4GKifG7IlI/?name=inline-447748464.png)​
 
 2) Subsequently, filter for only `Brand B`, for instance, now, only the results yielded by this specific brand for this category should be shown,
 
@@ -50,7 +46,7 @@ Currently, when using the search Navigator brand filter along with a price range
 
 
 Directly use the search API using the priceRange and brand filters simultaneously, the search response is sending the correct results
-https://developers.vtex.com/vtex-rest-api/reference/search-3#productsearchfilteredandordered
+https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search.
 
 (example: `https://{accountName}.{environment}.com.br/api/catalog_system/pub/products/search?fq=C%3A%2F1000050%2F1000155?fq=C:/1000050/1000155&P:[20830 TO 24100]`)
 

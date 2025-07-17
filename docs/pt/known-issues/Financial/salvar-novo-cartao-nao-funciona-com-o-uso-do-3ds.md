@@ -1,5 +1,5 @@
 ---
-title: 'Salvar novo cartão não funciona com o uso do 3DS'
+title: "Salvar novo cartão não funciona com o uso do 3DS"
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 tag: Order Management
-slugEN: the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds
+slugEN: salvar-novo-cartao-nao-funciona-com-o-uso-do-3ds
 locale: pt
 kiStatus: Backlog
 internalReference: 

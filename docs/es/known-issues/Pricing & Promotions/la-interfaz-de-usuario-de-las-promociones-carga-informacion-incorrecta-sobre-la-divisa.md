@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de las promociones carga información incorrecta sobre la divisa'
+title: "La interfaz de usuario de las promociones carga información incorrecta sobre la divisa"
 id: 7liSZOtS1Hs2P84bXzRrG9
 status: PUBLISHED
 createdAt: 2022-12-19T14:41:51.129Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotions-ui-loading-wrong-currency-information
+slugEN: la-interfaz-de-usuario-de-las-promociones-carga-informacion-incorrecta-sobre-la-divisa
 locale: es
 kiStatus: Fixed
 internalReference: 718908
@@ -18,7 +18,9 @@ internalReference: 718908
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al abrir el módulo de Promociones muy rápidamente y muchas veces seguidas aparece un comportamiento erróneo en la UI.

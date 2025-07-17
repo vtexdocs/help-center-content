@@ -20,11 +20,13 @@ Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/faq/que-es-u
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un gateway que procese pagos con Apple Pay.
 
->⚠️ Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
+<div class="alert alert-warning">
+  Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
+</div>
 
 ## Configurar proveedor de pago
 
-En primer lugar, debes configurar un proveedor en el Admin de tu tienda que procese transacciones con Apple Pay, como [Adyen](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv) y [Stripe](https://help.vtex.com/es/tutorial/configurar-la-afiliacion-stripe--fwF2wk2FQKrODrWWkvSLO).
+En primer lugar, debes configurar un proveedor en el Admin de tu tienda que procese transacciones con Apple Pay, como [Adyen](/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv) y [Stripe](/es/tutorial/configurar-la-afiliacion-stripe--fwF2wk2FQKrODrWWkvSLO).
 
 Para consultar todas las opciones de proveedores disponibles para este método de pago, acceda a la lista como se describe en el Paso 5 de la sección [Configurar el pago con Apple Pay](#configurar-el-pago-con-apple-pay).
 
@@ -49,5 +51,5 @@ Después de seguir los pasos indicados, Apple Pay puede tardar hasta 10 minutos 
 ### Artículos relacionados
 
 - [Configurar Merchant ID en Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
-- [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456)
-- [¿Qué es una cartera digital (ewallet)?](https://help.vtex.com/es/tutorial/que-es-una-cartera-digital--4v5wcOe4A0SiaimWM2cU60)
+- [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456)
+- [¿Qué es una cartera digital (ewallet)?](/es/tutorial/que-es-una-cartera-digital--4v5wcOe4A0SiaimWM2cU60)

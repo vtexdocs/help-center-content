@@ -1,5 +1,5 @@
 ---
-title: 'As regras de visual merchandising não funcionam quando são fornecidos vários termos de pesquisa'
+title: "As regras de visual merchandising não funcionam quando são fornecidos vários termos de pesquisa"
 id: 6FkfnnvFiYXYqPgMrpDgM1
 status: PUBLISHED
 createdAt: 2024-06-20T21:41:14.250Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: visual-merchandising-rules-do-not-work-when-multiple-search-terms-are-provided
+slugEN: as-regras-de-visual-merchandising-nao-funcionam-quando-sao-fornecidos-varios-termos-de-pesquisa
 locale: pt
 kiStatus: Backlog
 internalReference: 1053623
@@ -18,7 +18,9 @@ internalReference: 1053623
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Embora seja possível fornecer vários termos de pesquisa ao criar uma regra de visual merchandising para a Pesquisa Inteligente, eles não podem ser usados. A regra será considerada inválida e não será aplicada.

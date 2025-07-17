@@ -1,5 +1,5 @@
 ---
-title: 'PlaceOrder generando valores de descuento y envío erróneos entre artículos que aparecen más de una vez.'
+title: "PlaceOrder generando valores de descuento y envío erróneos entre artículos que aparecen más de una vez."
 id: 01ipdei4r6juYcXD3xFz4b
 status: PUBLISHED
 createdAt: 2023-01-12T19:13:16.232Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: placeorder-generating-wrong-discount-and-shipping-values-between-items-that-appear-more-than-once
+slugEN: placeorder-generando-valores-de-descuento-y-envio-erroneos-entre-articulos-que-aparecen-mas-de-una-vez
 locale: es
 kiStatus: Backlog
 internalReference: 732529
@@ -18,7 +18,9 @@ internalReference: 732529
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la solicitud de creación de pedido declara el mismo artículo más de una vez, requerido para declarar diferentes precios o valores de descuento entre las múltiples unidades del artículo, el servicio de checkout sumará todas las cantidades en un único artículo y aplicará sólo las condiciones del primer artículo en todos ellos. Generará un precio/descuento total erróneo e incluso el envío.

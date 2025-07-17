@@ -15,7 +15,7 @@ legacySlug: como-devolver-itens-do-pedido-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-A página de **Detalhes do Pedido** permite que lojistas acompanhem o ciclo de vida de pedidos específicos, analisando todas as suas interações, dados e contextos. Saiba mais sobre como funciona a nova página de [Detalhes do Pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
+A página de **Detalhes do Pedido** permite que lojistas acompanhem o ciclo de vida de pedidos específicos, analisando todas as suas interações, dados e contextos. Saiba mais sobre como funciona a nova página de [Detalhes do Pedido](/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
 
 É possível devolver total ou parcialmente itens já faturados, caso o cliente solicite, desde que os itens estejam contidos na fatura. Um cenário comum para essa ação é quando um cliente de uma loja do segmento de moda deseja devolver uma peça de roupa do seu pedido, para trocá-la por um tamanho diferente, por exemplo. 
 
@@ -40,4 +40,6 @@ A página de **Detalhes do Pedido** permite orquestrar essa operação, seguindo
 
 Após o reembolso ser processado pelo sistema, os itens devolvidos e suas informações aparecerão na seção **Itens Devolvidos**.
 
->ℹ️ A alteração de pedidos via API é feita pelo endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) e a emissão de faturas após alterações é feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+<div class = "alert alert-info">
+A alteração de pedidos via API é feita pelo endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a> e a emissão de faturas após alterações é feita pelo endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
+</div>

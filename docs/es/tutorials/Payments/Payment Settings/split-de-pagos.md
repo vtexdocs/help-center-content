@@ -3,8 +3,8 @@ title: 'Split de pagos'
 id: 6k5JidhYRUxileNolY2VLx
 status: PUBLISHED
 createdAt: 2021-04-06T20:03:53.443Z
-updatedAt: 2024-09-12T14:18:25.108Z
-publishedAt: 2024-09-12T14:18:25.108Z
+updatedAt: 2025-01-17T18:57:31.739Z
+publishedAt: 2025-01-17T18:57:31.739Z
 firstPublishedAt: 2021-04-07T18:57:19.713Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,16 @@ legacySlug: split-de-pagos
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Esta es una solución de pagos para marketplace.
+<div class="alert alert-warning">
+Esta es una solución de pagos para marketplace.
+</div>
 
-Para garantizar que nuestros clientes de [marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8) automáticamente dividan el pago entre todos los [sellers](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), establezcan comisiones basadas en un porcentaje fijo y permanece operando de acuerdo con las regulaciones vigentes, VTEX ofrece el __Split de pagos__.
+Para garantizar que nuestros clientes de [marketplace](/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8) automáticamente dividan el pago entre todos los [sellers](/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), establezcan comisiones basadas en un porcentaje fijo y permanece operando de acuerdo con las regulaciones vigentes, VTEX ofrece el __Split de pagos__.
 
 A continuación se muestran dos ejemplos de escenarios de aplicación de split de pagos en los que un consumidor agrega productos de diferentes vendedores al mismo carrito:
 
-1. Cuando el marketplace es responsable de procesar el pago de la compra, VTEX automáticamente divide este pago para que cada beneficiario reciba su parte directamente en su propia cuenta bancaria, realizando así el [Split de cobros](https://help.vtex.com/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-cobros).
-2. Cuando el carrito involucra sellers que son responsables de procesar su propio método de pago (sin depender del marketplace), VTEX crea diferentes transacciones de pago para el marketplace y los sellers, realizando el [Split de transacción](https://help.vtex.com/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-transaccion).
+1. Cuando el marketplace es responsable de procesar el pago de la compra, VTEX automáticamente divide este pago para que cada beneficiario reciba su parte directamente en su propia cuenta bancaria, realizando así el [Split de cobros](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-cobros).
+2. Cuando el carrito involucra sellers que son responsables de procesar su propio método de pago (sin depender del marketplace), VTEX crea diferentes transacciones de pago para el marketplace y los sellers, realizando el [Split de transacción](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-transaccion).
 
 <div class="alerta alerta-advertencia">
 La distribución de los importes de las compras siempre se lleva a cabo de acuerdo con acuerdos de porcentaje de comisión predefinidos entre el marketplace y los sellers.
@@ -37,7 +39,7 @@ Consulte a continuación para obtener más detalles sobre cada uno de los modelo
 | __Cantidad de compras en el estado de cuenta de la tarjeta de crédito del consumidor__       | Solo una.       | Una compra por cada seller. <li>Esta manera de procesamiento puede ocasionar malentendidos y aumentar las disputas y contracargos.</li>       |
 | __Negociación de cuotas__  | El marketplace es responsable de negociar todas las cuotas. <li>Al escalar, esto puede ser una ventaja pues se tiene mayor capacidad de negociación.</li>       | Cada parte escoge su proveedor de pagos y negocia sus cuotas.       |
 | __Evaluación antifraude__      | Como solo se genera una transacción, el pedido entero lo analiza un solo antifraude.       | Como se generan varias transacciones, cada una ejecuta un análisis diferente. Si se deniega una transacción, todas las demás también se deniegan automáticamente.       |
-| __Proveedores de pagos integrados__       | Verifique qué proveedores de pago usan Split de cobros en la [Lista de Proveedores de Pago por País](https://help.vtex.com/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp) | Todos los proveedores de pago con integración en VTEX.       |
+| __Proveedores de pagos integrados__       | Verifique qué proveedores de pago usan Split de cobros en la [Lista de Proveedores de Pago por País](/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp) | Todos los proveedores de pago con integración en VTEX.       |
 | __Costo__       |Los costos dependen de la cuota negociada. <ul><li>Usualmente cuesta más que las transacciones que no se dividen.</li><li>Los carritos que contengan productos del marketplace solamente también se procesan según la cuota negociada, lo que podría aumentar el costo.</li></ul>       | No hay costos adicionales. Los clientes de VTEX solo serán responsables por las cuotas habituales de los proveedores de pago.       |
 | __Experiencia de checkout__       | No hay limitaciones con respecto a los medios de pago y las condiciones de pago. Serán definidos por el marketplace.  <ul><li>El proveedor de pagos debe admitir split para medios de pagos específicos (Pix, por ejemplo). Actualmente, nuestros partners admiten split con una o dos tarjetas de crédito, tarjetas de débito y boleto (Brasil).</li></ul>      | Solo muestra los métodos de pago aceptados por todos los vendedores que completan el pedido. Es decir, los pagos con tarjeta de crédito, efectivo o card promissory (pagaré que acepta el pago a plazos), solo estarán disponibles si todos los vendedores involucrados en el pedido los aceptan. Incompatible con:<ul><li>Boleto (Brasil).</li><li>Pix (Brasil).</li></ul><ul><li>Tarjetas con 3DS2 o cualquier autenticación.</li></ul> |
 | __Ideal para__       | <ul><li>Los marketplaces que desean cobrar comisiones automáticas y evitar el riesgo de morosidad.</li><li>Los marketplaces cuyos sellers no tengan un proveedor de pagos.</li></ul><ul><li>Los marketplaces que deseen tener más control del flujo de pago de los sellers.</li><li>  Los marketplaces que deseen procesar las transacciones con Pix (Brasil), boleto (Brasil) y tarjetas de crédito con 3DS2 u otra autenticación.</li></ul>       | <ul><li> Los marketplaces que no deseen ser comerciantes registrados (común para empresas B2B de Europa y Estados Unidos).</li><li> Casos en los que el seller tiene más poder de decisión que el marketplace y solo acepta que el pago se procese a través de su proveedor de pagos.</li></ul><ul><li> Los marketplaces que tienen urgencia de implementar split y no tengan partners que acepten split en su país.</li><li>Los *marketplaces* que no quieran asumir todos los riesgos de contracargos.</li></ul>       |
@@ -53,11 +55,11 @@ Por ejemplo, un comprador agrega dos productos al mismo carrito de compras. El m
 
 El pago se distribuye de la siguiente manera.
 
-![Split de cobros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/split-de-pagos_1.png)
+![Split de cobros](https://images.ctfassets.net/alneenqid6w5/Vz2aNof4GnIVftr4EYDQy/a0545942f5605403edc0dba83a170963/Split_de_cobros.png)
 
 Como puede ver, nuestro gateway calcula y distribuye los cobros de cada parte cuando se factura el pedido y se envía la información al proveedor de pagos. La distribución se realiza según la cantidad destinada a cada comerciante en el pedido y la comisión del marketplace.
 
-![Afiliaciones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/split-de-pagos_2.png)
+![Afiliaciones](https://images.ctfassets.net/alneenqid6w5/4BE5K8TxKtGxDGgs1UwPHk/1b919ccf365965f061df91798e0ed869/Afiliaciones.png)
 
 Nuestra solución de split de cobros tiene algunas limitaciones que se deben tener en cuenta:
 
@@ -77,7 +79,7 @@ Nuestra solución de split de cobros tiene algunas limitaciones que se deben ten
 
 ## Split de transacción
 
-En el split de transacción, el marketplace no centraliza los cobros. Justo después de que el comprador completa la compra, nuestro sistema de checkout crea la transacción o transacciones (una por seller). 
+En el __split de transacción__, el marketplace no centraliza los cobros. Justo después de que el comprador completa la compra, nuestro sistema de checkout crea la transacción o transacciones (una por seller). 
 
 El pago no siempre lo procesa el proveedor de pagos del marketplace, sino que lo procesan los proveedores de cada comerciante (el proveedor de pagos de cada *seller* es responsable de procesar su porción de la transacción).
 
@@ -85,11 +87,11 @@ Lo que significa que el marketplace tiene menos control sobre el flujo de pago. 
 
 Por ejemplo, un comprador agrega dos productos al mismo carrito de compras. El marketplace entregará uno de ellos y el otro le pertenece al seller llamado Seller A.
 
-![Transacción](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/split-de-pagos_3.png)
+![Transacción](https://images.ctfassets.net/alneenqid6w5/2uC4hZkbbq4w5WuxZS5LaP/33d5406e2d18da8290edaa3621edc7c6/Transacci__n.png)
 
-En el split de transacción, el marketplace no tiene que realizar ninguna configuración. El seller es el que tiene que configurar su medio de pago en la afiliación con un determinado marketplace. Para más detalles, consulte nuestra documentación [Enviar los medios de pago del Seller White Label al Marketplace](https://help.vtex.com/es/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW).
+En el __split de transacción__, el marketplace no tiene que realizar ninguna configuración. El seller es el que tiene que configurar su medio de pago en la afiliación con un determinado marketplace. Obtenga más información en [Enviar los medios de pago del Seller White Label al Marketplace](/es/tutorial/enviar-los-medios-de-pago-del-seller-white-label-al-marketplace--bfvtPzZyikacSqgkgeGW).
 
-![Afiliación1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/split-de-pagos_4.png)
+![Afiliación1](https://images.ctfassets.net/alneenqid6w5/4e8047JCOgEoswkj280gI5/421b393c522456e882ceaed27f73cb8c/Afiliados2.png)
 
 El split de transacción tiene algunas limitaciones que deben tomarse en cuenta.
 
@@ -104,8 +106,3 @@ El split de transacción tiene algunas limitaciones que deben tomarse en cuenta.
 ## Combinar modelos de split
 
 Cuando el modelo de split de transacción se combina con el modelo de split de cobros, el split de transacción tomará prioridad. Es decir, para los sellers que decidan utilizar su medio de pago, su porción de la transacción se procesará en su propio gateway mientras que los valores de los demás participantes de la venta los procesará el marketplace.
-
-### Más información
-
-- [Enviar los medios de pago del Seller White Label al Marketplace](https://help.vtex.com/es/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW) (para más información sobre cómo configurar el split de transacción).
-

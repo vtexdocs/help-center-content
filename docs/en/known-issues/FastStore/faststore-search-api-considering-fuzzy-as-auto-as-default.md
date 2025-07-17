@@ -1,11 +1,11 @@
 ---
-title: 'Faststore search api considering fuzzy as auto as default'
-id: 2zedXBMhlD8pu4gZMXsrSp
-status: ARCHIVED
-createdAt: 2023-08-28T23:35:04.009Z
-updatedAt: 2024-11-11T20:14:10.699Z
-publishedAt: 
-firstPublishedAt: 2023-08-28T23:35:04.608Z
+title: "Faststore search api considering fuzzy as auto as default"
+id: 5cfq9MV5QrygIaqJXqbXwZ
+status: PUBLISHED
+createdAt: 2024-11-11T18:37:39.992Z
+updatedAt: 2024-12-02T16:40:08.053Z
+publishedAt: 2024-12-02T16:40:08.053Z
+firstPublishedAt: 2024-11-11T20:20:29.842Z
 contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,7 +13,7 @@ tag: FastStore
 slugEN: faststore-search-api-considering-fuzzy-as-auto-as-default
 locale: en
 kiStatus: Fixed
-internalReference: 889321
+internalReference: 1133355
 ---
 
 ## Summary
@@ -31,17 +31,6 @@ This is easy to be replicable when you search for any product, sku, or ref ID, t
 
 
 ##
-
-## Workaround
-
-
-N/A
-
-
-
-
-
-#
 
 ## Workaround
 

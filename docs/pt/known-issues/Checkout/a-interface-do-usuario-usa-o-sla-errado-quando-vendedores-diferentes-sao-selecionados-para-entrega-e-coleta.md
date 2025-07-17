@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário usa o SLA errado quando vendedores diferentes são selecionados para entrega e coleta'
+title: "A interface do usuário usa o SLA errado quando vendedores diferentes são selecionados para entrega e coleta"
 id: 1FidTQU7qfHsuJLUbPTe7w
 status: PUBLISHED
 createdAt: 2023-04-25T21:52:00.104Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-uses-the-wrong-sla-when-different-sellers-is-selected-for-delivery-and-pickup
+slugEN: a-interface-do-usuario-usa-o-sla-errado-quando-vendedores-diferentes-sao-selecionados-para-entrega-e-coleta
 locale: pt
 kiStatus: Backlog
 internalReference: 797023
@@ -18,7 +18,9 @@ internalReference: 797023
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Etiquetas brancas de vendedores diferentes podem ser selecionadas para atender aos produtos ao usar endereços diferentes para entrega e retirada. A interface do usuário considera o SLA errado ao alternar entre entrega e retirada.

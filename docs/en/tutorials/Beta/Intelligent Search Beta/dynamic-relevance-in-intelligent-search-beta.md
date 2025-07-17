@@ -15,9 +15,10 @@ legacySlug: dynamic-relevance-in-intelligent-search-beta
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact [our support](https://support.vtex.com/hc/pt-br/requests).
->
-> For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.
+<div class="alert alert-info">
+  <p>This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our support</a>.</p>
+  <p>For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.</p>
+</div>
 
 Relevance is the feature that defines the ranking of products in search results. This configuration allows you to set weights and prioritize certain criteria, such as popularity, release date, and participation in promotions. Intelligent Search determines the relevance of each product by combining weights and priorities defined by each merchant.
 
@@ -28,7 +29,9 @@ In Intelligent Search, you can configure your search relevance in two ways:
 
 Only one of these is applied to your store at a time, and you can [change the relevance type configured](#changing-relevance-type). If you change the relevance from manual to dynamic, all the manual rules you have set will remain saved.
 
->ℹ️ Manual relevance is the store default setting.
+<div class = "alert alert-info">
+Manual relevance is the store default setting.
+</div>
 
 ## Manual relevance
 
@@ -36,10 +39,10 @@ Manual relevance is configured by distributing the weights on the **Relevance Ru
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search >** **Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Select the **Manual Relevance** option.
-![relevancia-manual-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Intelligent%20Search%20Beta/dynamic-relevance-in-intelligent-search-beta_1.png)
+![relevancia-manual-en](https://images.ctfassets.net/alneenqid6w5/5BSjswlkB1mMpR1MtCrEWL/c66c5e883e20fd0711400e63d9a18423/image.png)
 3. Click `Save`.
 
-To configure manual relevance, see the [Relevance](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) article.
+To configure manual relevance, see the [Relevance](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) article.
 
 ## Dynamic relevance
 
@@ -54,7 +57,7 @@ To enable dynamic relevance, follow these steps:
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Read the information about dynamic relevance and click `Next`.
 3. Select the **Dynamic Relevance** option.
-![relevancia-dinamica-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Intelligent%20Search%20Beta/dynamic-relevance-in-intelligent-search-beta_2.png)
+![relevancia-dinamica-en](https://images.ctfassets.net/alneenqid6w5/4yzGzHE6WhQp6qFGISgt9q/75b719ed30b77a99b0f9c9a5d7a62371/image.png)
 4. Click `Save`.
 5. Wait for the loading bar to reach 100%. This process may take a few hours. You will receive an email when the loading is complete.
 6. Click `Enable`.
@@ -63,7 +66,9 @@ To enable dynamic relevance, follow these steps:
 
 To change the relevance type, follow the steps below:
 
->⚠️ We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
+<div class = "alert alert-warning">
+We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
+</div>
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Click `Change`.

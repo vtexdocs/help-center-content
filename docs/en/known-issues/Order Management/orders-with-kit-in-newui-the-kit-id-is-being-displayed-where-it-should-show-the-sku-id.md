@@ -1,5 +1,5 @@
 ---
-title: 'Orders with KIT, in NEW_UI the KIT ID is being displayed, where it should show the SKU ID.'
+title: "Orders with KIT, in NEW_UI the KIT ID is being displayed, where it should show the SKU ID."
 id: jKvkTKNjG2hzoGOaBrV9N
 status: PUBLISHED
 createdAt: 2022-08-17T18:34:20.155Z

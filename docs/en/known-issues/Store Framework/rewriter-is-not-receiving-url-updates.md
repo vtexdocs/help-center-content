@@ -1,5 +1,5 @@
 ---
-title: 'Rewriter is not receiving URL updates'
+title: "Rewriter is not receiving URL updates"
 id: 4c3S9s57SzQCv8zv4L77Fu
 status: PUBLISHED
 createdAt: 2024-07-16T19:24:56.813Z

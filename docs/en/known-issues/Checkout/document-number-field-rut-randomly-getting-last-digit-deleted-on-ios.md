@@ -1,5 +1,5 @@
 ---
-title: 'Document number field (RUT) randomly getting last digit deleted on iOS'
+title: "Document number field (RUT) randomly getting last digit deleted on iOS"
 id: 6KcbAWPN3AylZEm6IkSw3I
 status: PUBLISHED
 createdAt: 2023-10-18T22:53:27.101Z

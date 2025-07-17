@@ -1,5 +1,5 @@
 ---
-title: 'Assembly options being ignored when selected on PDP and adding to cart'
+title: "Assembly options being ignored when selected on PDP and adding to cart"
 id: 2u0qbC98EK6vPskprYOsnd
 status: PUBLISHED
 createdAt: 2023-01-31T16:00:13.354Z

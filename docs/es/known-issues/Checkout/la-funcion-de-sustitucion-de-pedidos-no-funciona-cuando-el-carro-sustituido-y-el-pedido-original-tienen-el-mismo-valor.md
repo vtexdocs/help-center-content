@@ -1,5 +1,5 @@
 ---
-title: 'La función de sustitución de pedidos no funciona cuando el carro sustituido y el pedido original tienen el mismo valor.'
+title: "La función de sustitución de pedidos no funciona cuando el carro sustituido y el pedido original tienen el mismo valor."
 id: 7eHiC34Pgsr1XcfIVHl7Sc
 status: PUBLISHED
 createdAt: 2023-07-21T14:49:31.057Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-replacement-feature-doesnt-work-when-the-replaced-cart-and-original-order-have-the-same-value
+slugEN: la-funcion-de-sustitucion-de-pedidos-no-funciona-cuando-el-carro-sustituido-y-el-pedido-original-tienen-el-mismo-valor
 locale: es
 kiStatus: Fixed
 internalReference: 866622
@@ -18,7 +18,9 @@ internalReference: 866622
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La característica de reemplazo de pedidos no funciona cuando el carrito reemplazado tiene el mismo valor que el pedido original, y el sistema de pago es "Reutilizar Pago".

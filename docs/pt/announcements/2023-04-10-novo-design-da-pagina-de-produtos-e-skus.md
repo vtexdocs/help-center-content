@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O novo design da página de Produtos & SKUs possibilita
 
 O gerenciamento do catálogo é fundamental para o sucesso de um comércio digital, pois é a partir da vitrine de produtos que os clientes interagem com a marca e tomam decisões de compra. Por isso, é importante que os lojistas tenham uma experiência consistente e ágil ao consultar, cadastrar e editar informações sobre produtos e SKUs.
 
-Pensando nessa necessidade, redesenhamos a página **Catálogo > Produtos & SKUs** para oferecer uma experiência aprimorada de gestão do Catálogo. A interface está disponível em fase Beta, para lojas que utilizam o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Pensando nessa necessidade, redesenhamos a página **Catálogo > Produtos & SKUs** para oferecer uma experiência aprimorada de gestão do Catálogo. A interface está disponível em fase Beta, para lojas que utilizam o [Novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
 
 ## O que mudou?
 
@@ -28,7 +28,7 @@ A nova interface de **Produtos & SKUs** possibilita:
 * Acompanhar status de produtos e SKUs de forma mais direta e visual, com ícones e status de SKUs diretamente na listagem.
 * Identificar com mais facilidade produtos e SKUs com informações pendentes para ficarem disponíveis para venda, a partir do novo status **Pendente**.
 
-![catalog-products-skus-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-04-10-novo-design-da-pagina-de-produtos-e-skus_1.png)
+![catalog-products-skus-pt](https://images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/269a128e08a453ce564041ceb39bea9e/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_25_56_1.png)
 
 ## Por que fizemos essa mudança?
 
@@ -36,4 +36,4 @@ Otimizamos a página **Produtos & SKUs** para garantir uma experiência mais con
 
 ## Como ter acesso?
 
-A atualização será aplicada de forma automática em todas as lojas. Para ter acesso antecipado ao novo design da página de Produtos & SKUs, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). Confira mais detalhes sobre como aproveitar a página otimizada no artigo [Produtos & SKUs (Beta)](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By).
+A atualização será aplicada de forma automática em todas as lojas. Para ter acesso antecipado ao novo design da página de Produtos & SKUs, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). Confira mais detalhes sobre como aproveitar a página otimizada no artigo [Produtos & SKUs (Beta)](/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By).

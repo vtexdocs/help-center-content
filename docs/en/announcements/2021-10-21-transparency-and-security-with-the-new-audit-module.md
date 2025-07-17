@@ -18,7 +18,7 @@ announcementSynopsisEN: 'Launch of the new auditing tool'
 
 Ensuring your store is always in compliance with security and transparency best practices, VTEX has launched a new audit feature, **Audit**. 
 
-![Screenshot for Audit UI for announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-10-21-transparency-and-security-with-the-new-audit-module_1.png)
+![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
 
 From now on, users with the admin role can check operations performed in their store in a simple and fast way. You can create multiple search filters to make it easier to search for events and increase the speed of auditing processes.
 
@@ -28,5 +28,5 @@ Because of this flexibility, Audit has a Guide tab showing more examples of poss
 
 ## **Learn more**
 
-* [Searching for events on Audit](https://help.vtex.com/en/tutorial/searching-for-events-on-audit)
-* [Events available in Audit](https://help.vtex.com/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)
+* [Searching for events on Audit](/en/tutorial/searching-for-events-on-audit)
+* [Events available in Audit](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)

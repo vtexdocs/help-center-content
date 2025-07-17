@@ -1,5 +1,5 @@
 ---
-title: 'URL que redirigen a EmptySearch'
+title: "URL que redirigen a EmptySearch"
 id: 1ldn0vS1KKmHmvniHfr7lp
 status: PUBLISHED
 createdAt: 2023-03-29T20:28:46.379Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: urls-redirecionando-para-buscavazia
+slugEN: url-que-redirigen-a-emptysearch
 locale: es
 kiStatus: Fixed
 internalReference: 322251
@@ -18,7 +18,9 @@ internalReference: 322251
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas URL están redirigiendo a una respuesta EmptySearch.

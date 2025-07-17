@@ -1,5 +1,5 @@
 ---
-title: 'Os acionadores de exibição de página no G4A estão sendo duplicados em páginas de pesquisa personalizadas'
+title: "Os acionadores de exibição de página no G4A estão sendo duplicados em páginas de pesquisa personalizadas"
 id: 4hIwZ2v9bbyyZXrxoDglyx
 status: PUBLISHED
 createdAt: 2023-11-08T13:35:27.802Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: pageview-triggers-on-g4a-are-being-duplicated-in-custom-search-pages
+slugEN: os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas
 locale: pt
 kiStatus: Backlog
 internalReference: 888042
@@ -18,7 +18,9 @@ internalReference: 888042
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O evento pageView está sendo exibido duplicado no dataLayer quando em páginas de pesquisa personalizadas
@@ -47,11 +49,11 @@ Também encontrei algo curioso na página do departamento com pageView e page_vi
 
 https://storetheme.vtex.com/apparel---accessories/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXFuDY5Q9XhZ7hgIvA8m8ugJ3/?name=image.png)
 
 Porém, esse problema específico pode ser replicado em
 
 https://www.dzarm.com.br/outlet
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/os-acionadores-de-exibicao-de-pagina-no-g4a-estao-sendo-duplicados-em-paginas-de-pesquisa-personalizadas_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/EVakZYSBKtcrCQoNXBe92uAzQ/?name=image.png)
 

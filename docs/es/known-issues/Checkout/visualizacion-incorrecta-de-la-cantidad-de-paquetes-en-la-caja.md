@@ -1,5 +1,5 @@
 ---
-title: 'Visualización incorrecta de la cantidad de paquetes en la caja'
+title: "Visualización incorrecta de la cantidad de paquetes en la caja"
 id: 1ZphoPLQZyHJpvPlXWb1oR
 status: PUBLISHED
 createdAt: 2022-07-11T12:58:18.388Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-display-of-package-quantity-at-checkout
+slugEN: visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja
 locale: es
 kiStatus: Backlog
 internalReference: 520369
@@ -18,7 +18,9 @@ internalReference: 520369
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

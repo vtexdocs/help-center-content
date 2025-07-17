@@ -1,5 +1,5 @@
 ---
-title: 'Conflict between specifications with the same name at the Intelligent Search'
+title: "Conflict between specifications with the same name at the Intelligent Search"
 id: 1TcMLTNMMGqjgbGArywSeh
 status: PUBLISHED
 createdAt: 2023-11-10T00:13:18.275Z

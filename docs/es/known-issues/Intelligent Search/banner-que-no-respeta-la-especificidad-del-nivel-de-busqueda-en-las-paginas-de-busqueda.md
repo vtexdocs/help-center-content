@@ -1,5 +1,5 @@
 ---
-title: 'Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda'
+title: "Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda"
 id: 4FnLaP0Ftm4TJZaTBnLHXQ
 status: PUBLISHED
 createdAt: 2022-10-11T14:56:22.264Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: banner-not-respecting-the-specificity-of-the-search-level-in-search-pages
+slugEN: banner-que-no-respeta-la-especificidad-del-nivel-de-busqueda-en-las-paginas-de-busqueda
 locale: es
 kiStatus: Backlog
 internalReference: 566809
@@ -18,7 +18,9 @@ internalReference: 566809
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

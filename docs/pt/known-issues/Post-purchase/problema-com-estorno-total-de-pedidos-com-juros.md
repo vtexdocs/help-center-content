@@ -1,5 +1,5 @@
 ---
-title: 'Problema com estorno total de pedidos com juros'
+title: "Problema com estorno total de pedidos com juros"
 id: 5q0okPuWiGe8O4o9FEQCnI
 status: PUBLISHED
 createdAt: 2021-09-17T14:06:59.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Order Management
-slugEN: issue-with-full-chargeback-of-orders-with-interest
+slugEN: problema-com-estorno-total-de-pedidos-com-juros
 locale: pt
 kiStatus: Backlog
 internalReference: 

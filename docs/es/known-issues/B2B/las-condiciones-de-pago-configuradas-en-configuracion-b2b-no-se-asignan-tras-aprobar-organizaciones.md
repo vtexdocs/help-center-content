@@ -1,5 +1,5 @@
 ---
-title: 'Las condiciones de pago configuradas en Configuración B2B no se asignan tras aprobar Organizaciones'
+title: "Las condiciones de pago configuradas en Configuración B2B no se asignan tras aprobar Organizaciones"
 id: 7pUMnYPWPHlhPzlWwTtWsL
 status: PUBLISHED
 createdAt: 2024-02-26T22:29:03.516Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: payment-terms-configured-in-b2b-settings-is-not-assigned-after-approving-organizations
+slugEN: las-condiciones-de-pago-configuradas-en-configuracion-b2b-no-se-asignan-tras-aprobar-organizaciones
 locale: es
 kiStatus: Backlog
 internalReference: 989507
@@ -18,7 +18,9 @@ internalReference: 989507
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las condiciones de pago configuradas en los Ajustes de Organizaciones B2B no se guardan en los Detalles de la Organización.

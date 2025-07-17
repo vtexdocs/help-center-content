@@ -1,5 +1,5 @@
 ---
-title: 'Planilha de imagem não importada. Mensagem de erro: Falha no registro de processamento.'
+title: "Planilha de imagem não importada. Mensagem de erro: Falha no registro de processamento."
 id: 4HKn7B4b4Au5NFfg87Zu6T
 status: PUBLISHED
 createdAt: 2022-11-04T12:17:16.480Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: image-spreadsheet-not-importing-error-message-fail-to-process-record
+slugEN: planilha-de-imagem-nao-importada-mensagem-de-erro-falha-no-registro-de-processamento
 locale: pt
 kiStatus: Backlog
 internalReference: 691803
@@ -18,14 +18,16 @@ internalReference: 691803
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 Às vezes, ao tentar importar uma planilha de imagem com URLs do vteximg.com.br ou vtexassets.com que são definidos como "https://" em vez de "http://", a importação falha. A mensagem de erro é:
 
 "Falha no processamento de registros. Certifique-se de que os dados de sua folha de trabalho estejam consistentes e tente novamente. Detalhes do erro: Ocorreu um erro ao enviar o pedido".
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/planilha-de-imagem-nao-importada-mensagem-de-erro-falha-no-registro-de-processamento_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fenodCFcwpVyXYWUj6kgoi1fx/?name=image.png)
 
 
 

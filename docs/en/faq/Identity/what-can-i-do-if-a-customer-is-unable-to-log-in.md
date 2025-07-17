@@ -31,4 +31,4 @@ But since VTEX uses the same platform for all its clients, the blacklist operate
 
 If you find that the customer has not received an email and is not in the situation described above, get in touch with VTEX support to ask for his address to be taken off the blacklist.
 
-Unfortunately Amazon has no automatic way to do this. It is a manual process.
+Unfortunately Amazon has no automatic way to do this. It is still a manual process.

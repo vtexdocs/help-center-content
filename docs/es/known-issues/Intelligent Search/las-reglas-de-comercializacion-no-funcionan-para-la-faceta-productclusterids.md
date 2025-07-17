@@ -1,5 +1,5 @@
 ---
-title: "Las reglas de comercialización no funcionan para la faceta 'productClusterIds'."
+title: 'Las reglas de comercialización no funcionan para la faceta "productClusterIds".'
 id: 6sLODMgjuoyJD52uc0DBW1
 status: PUBLISHED
 createdAt: 2024-07-09T00:02:40.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: merchandising-rules-not-working-for-the-facet-productclusterids
+slugEN: las-reglas-de-comercializacion-no-funcionan-para-la-faceta-productclusterids
 locale: es
 kiStatus: Backlog
 internalReference: 1062457
@@ -18,7 +18,9 @@ internalReference: 1062457
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las reglas de merchandising no se aplican a la faceta "productClusterIds". Esto ocurre porque esta faceta tiene el comportamiento especial de ordenar los productos por el orden de colección en lugar de por relevancia y reglas de merchandising.

@@ -22,11 +22,11 @@ Aqui você pode ver o comportamento do aplicativo em cada etapa de interação c
 
 Veja abaixo todos os guias que recomendamos para você começar a usar o VTEX Sales App.
 
-* **[VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**: conceitos, pré-requisitos e instruções para configurar o VTEX Sales App.
-* **[VTEX Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)**: o passo a passo para configurar os métodos de pagamento por adquirente homologado.
-* **[VTEX Sales App - Usando o app](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)**: as funcionalidades do aplicativo do VTEX Sales App e como usá-las. __Você está nesta trilha.__
-* **[Estratégias de Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)**: guias com o passo a passo para implementar algumas das principais estratégias de Comércio Unificado na VTEX.
+* **[VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**: conceitos, pré-requisitos e instruções para configurar o VTEX Sales App.
+* **[VTEX Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)**: o passo a passo para configurar os métodos de pagamento por adquirente homologado.
+* **[VTEX Sales App - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)**: as funcionalidades do aplicativo do VTEX Sales App e como usá-las. __Você está nesta trilha.__
+* **[Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)**: guias com o passo a passo para implementar algumas das principais estratégias de Comércio Unificado na VTEX.
 
-Para ver todas as trilhas relacionadas ao VTEX Sales App, você pode clicar em **[`Comece aqui`](https://help.vtex.com/pt/tracks/)** no topo da página e descer até a categoria **Omnichannel**.
+Para ver todas as trilhas relacionadas ao VTEX Sales App, você pode clicar em **[`Comece aqui`](/pt/tracks/)** no topo da página e descer até a categoria **Omnichannel**.
 
-Clique em `Próximo` para acessar os próximos artigos da trilha **[VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**.
+Clique em `Próximo` para acessar os próximos artigos da trilha **[VTEX Sales App - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)**.

@@ -1,5 +1,5 @@
 ---
-title: 'Telesales app not working properly with RequiresAuthenticationToLoadProfile'
+title: "Telesales app not working properly with RequiresAuthenticationToLoadProfile"
 id: 4L79woOuaUM2Ip5vG1Kp7D
 status: PUBLISHED
 createdAt: 2023-04-26T17:20:58.399Z

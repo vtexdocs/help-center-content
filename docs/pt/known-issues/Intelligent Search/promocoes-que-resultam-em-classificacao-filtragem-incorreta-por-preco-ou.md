@@ -1,5 +1,5 @@
 ---
-title: 'Promoções que resultam em classificação/filtragem incorreta por preço ou desconto'
+title: "Promoções que resultam em classificação/filtragem incorreta por preço ou desconto"
 id: 1qGJByINC3S7ibgiQccVcY
 status: PUBLISHED
 createdAt: 2023-08-28T17:51:44.627Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
-slugEN: promotions-resulting-in-wrong-sorting-filtering-by-price-or-discount
+slugEN: promocoes-que-resultam-em-classificacao-filtragem-incorreta-por-preco-ou
 locale: pt
 kiStatus: Backlog
 internalReference: 888304
@@ -18,7 +18,9 @@ internalReference: 888304
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 As listas de produtos e os resultados de pesquisa podem ser mal classificados/filtrados ao usar a classificação ou a filtragem por preço ou desconto se houver preços de itens desatualizados no nível do índice, mesmo que a vitrine esteja mostrando o preço correto.
 

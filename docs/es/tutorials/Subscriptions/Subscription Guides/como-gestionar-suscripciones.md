@@ -19,7 +19,7 @@ El **Sistema de Suscripciones** es una app desarrollada por VTEX para facilitar 
 
 Su cliente indica con qué frecuencia desea repetir la compra de un determinado SKU y el sistema rehace el pedido de la compra automáticamente en cada período programado, con las mismas características configuradas en el pedido original. 
 
-Para verificar cómo **configurar** la funcionalidad de Suscripciones en su tienda, acceda a [nuestro artículo](https://help.vtex.com/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+Para verificar cómo **configurar** la funcionalidad de Suscripciones en su tienda, acceda a [nuestro artículo](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
 
 La gestión de suscripciones se realiza a través de la pestaña **Dashboards** del módulo **Suscripciones** de su Admin.
 
@@ -35,11 +35,13 @@ La sección de **Suscripciones Únicas** permite:
 - Visualizar un **gráfico dinámico** con la relación entre las *suscripciones activas*, *canceladas*, y *total de suscripciones*, dentro del período filtrado. - Al pasar el cursor sobre las líneas del gráfico, se puede ver en detalle el movimiento de las suscripciones por día.   
 - **Exportar suscripciones**  únicas dentro del período filtrado pulsando el botón de la esquina superior derecha de la pantalla.
 
-![ES Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-gestionar-suscripciones_1.png)
+![ES Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/3BEDDrOsEARRJ1XfuwABDd/ecc8168966e3379654269a2d47b405c0/ES_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Suscripción
 
->ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
 
 La sección **Pedidos de Suscripción** permite: 
 
@@ -47,12 +49,12 @@ La sección **Pedidos de Suscripción** permite:
 - Acompañe el **número absoluto y porcentaje** correspondiente de Pedidos de Suscripción que han sido *programados*, *procesados*, *generados* y *completados* por período.  
 - Visualizar un **gráfico** con el porcentaje de pedidos *omitidos*, *ciclos con problemas* y *error de pago*. 
 
-![ES Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-gestionar-suscripciones_2.png)
+![ES Dashboard Pedidos Assinatura](https://images.ctfassets.net/alneenqid6w5/7s8Mp2U4qAUAxpiTQbJGy6/c24aea7486e45591e83591e452535db9/ES_Dashboard_Pedidos_Assinatura.png)
 
 - Al acceder a cada pestaña de la sección **Pedidos de Suscripción**, es posible visualizar el flujo y los detalles de los pedidos que fueron *omitidos*, los que presentaron *ciclos problemáticos*, aquellos que contienen un *error de pago* y  pedidos *completos*.  
-- Además de listar detalles de los errores que se produjeron durante el flujo de pedidos de suscripción, también es posible realizar el **reintento manual** de los pedidos con errores. Revise nuestro artículo sobre la [Resolución de problemas de  pedidos con suscripción](https://help.vtex.com/es/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber más. 
+- Además de listar detalles de los errores que se produjeron durante el flujo de pedidos de suscripción, también es posible realizar el **reintento manual** de los pedidos con errores. Revise nuestro artículo sobre la [Resolución de problemas de  pedidos con suscripción](/es/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber más. 
 
-![pedidos_assinaturas_print_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-gestionar-suscripciones_3.png)
+![pedidos_assinaturas_print_es](https://images.ctfassets.net/alneenqid6w5/1dhCAuymIdeS4JyaxC7ep2/018f9060f82320eada25f385328cbd3a/pedidos_assinaturas_print_es.png)
 
 ### Suscriptores
 

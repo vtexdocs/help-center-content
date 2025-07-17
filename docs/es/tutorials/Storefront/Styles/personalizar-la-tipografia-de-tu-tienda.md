@@ -18,7 +18,9 @@ subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
 La tipografía de tu tienda online es una herramienta para comunicar la identidad de tu marca a los clientes.
 El Admin ofrece la flexibilidad de personalizar la tipografía de tu tienda según las necesidades de tu negocio.
 
->⚠️ Recuerda que las modificaciones a la tipografía de la tienda realizadas en el **storefront** sustituyen a las modificaciones de tipografía realizadas en el código de la tienda. Asegúrate de comunicarte con tu equipo de desarrollo y verificar si las modificaciones se definirán en el storefront o en el código de la tienda.
+<div class="alert alert-warning">
+  <p>Recuerda que las modificaciones a la tipografía de la tienda realizadas en el <b>storefront</b> sustituyen a las modificaciones de tipografía realizadas en el código de la tienda. Asegúrate de comunicarte con tu equipo de desarrollo y verificar si las modificaciones se definirán en el storefront o en el código de la tienda.</p>
+</div>
 
 ## Agregar familias de fuentes personalizadas
 
@@ -32,11 +34,13 @@ El Admin ofrece la flexibilidad de personalizar la tipografía de tu tienda seg�
 
 5. En el campo **Familia de fuentes**, crea un nombre para la fuente.
 
-    ![familia-de-fontes-giff-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Styles/personalizar-la-tipografia-de-tu-tienda_1.gif)
+    ![familia-de-fontes-giff-es](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/474de52dcf37409c1aa1b9b6f4c1ac5f/familia-de-fontes-giff-es.gif)
 
 6. Haz clic en **Enviar** para cargar el archivo de la fuente deseada.
 
->⚠️ El archivo de la familia de fuentes debe tener una de las siguientes extensiones: <i>.ttf</i> o <i>.woff</i>.
+<div class="alert alert-warning">
+  <p>El archivo de la familia de fuentes debe tener una de las siguientes extensiones: <i>.ttf</i> o <i>.woff</i>.</p>
+</div>
 
 7. Después de cargar los archivos, escoge un estilo para las fuentes. Los valores aceptados son: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` y `Black Italic`.
 
@@ -66,7 +70,7 @@ Sigue las instrucciones a continuación para agregar nuevas familias de fuentes:
 
 3. Haz clic en **Editar > Tipografía > Tokens de tipo**.
 
-    ![tokens-tipo-giff-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Styles/personalizar-la-tipografia-de-tu-tienda_2.gif)
+    ![tokens-tipo-giff-es](https://images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/42303d73693db97d563bc4c974a28c49/tokens-tipo-giff-es.gif)
 
 4. Haz clic en el token que deseas personalizar como, por ejemplo, **Heading 1** (Encabezado 1).
 

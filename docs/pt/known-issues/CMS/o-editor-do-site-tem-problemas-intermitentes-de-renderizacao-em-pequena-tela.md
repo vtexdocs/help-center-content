@@ -1,5 +1,5 @@
 ---
-title: 'O editor do site tem problemas intermitentes de renderização em pequena tela'
+title: "O editor do site tem problemas intermitentes de renderização em pequena tela"
 id: 4BGdkeP5IZ9NfFwxIXuDAr
 status: PUBLISHED
 createdAt: 2022-04-19T14:30:17.468Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-has-intermittent-rendering-issues-in-small-screen
+slugEN: o-editor-do-site-tem-problemas-intermitentes-de-renderizacao-em-pequena-tela
 locale: pt
 kiStatus: Backlog
 internalReference: 399339
@@ -18,7 +18,9 @@ internalReference: 399339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O editor do site tem problemas intermitentes de renderização em telas menores que 1366px de largura.

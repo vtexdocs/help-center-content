@@ -1,5 +1,5 @@
 ---
-title: 'AdyenV1 connector is not sending pspReference on some operations and thus causing error'
+title: "AdyenV1 connector is not sending pspReference on some operations and thus causing error"
 id: 3Eut9j0dxzywSk3ssvRo3l
 status: PUBLISHED
 createdAt: 2023-05-11T16:44:19.660Z

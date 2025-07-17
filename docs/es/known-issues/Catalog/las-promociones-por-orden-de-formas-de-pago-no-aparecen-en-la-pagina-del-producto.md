@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones por orden de formas de pago no aparecen en la página del producto'
+title: "Las promociones por orden de formas de pago no aparecen en la página del producto"
 id: HZ5IoCFFOhuxU0jQWkMPp
 status: PUBLISHED
 createdAt: 2019-08-13T20:45:50.232Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
+slugEN: las-promociones-por-orden-de-formas-de-pago-no-aparecen-en-la-pagina-del-producto
 locale: es
 kiStatus: No Fix
 internalReference: 781523
@@ -18,7 +18,9 @@ internalReference: 781523
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La página del producto sólo muestra el precio SKU con algunas promociones, que no incluyen las condiciones específicas de los métodos de pago ni el número de plazos. Estos sólo se aplican durante el pago, después de que el usuario haya optado explícitamente por utilizar una determinada condición de pago.

@@ -23,7 +23,7 @@ El Site Editor es una interfaz gráfica para la gestión de contenidos de tu sto
 
 En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales herramientas disponibles en la interfaz gráfica.
 
-![Site Editor - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site%20Editor/site-editor-vision-general_1.png)
+![Site Editor - ES](https://images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/2c015dae64ff236deade75f75990f9bc/site-editor-ui-es.png)
 
 | **Herramienta**    | **Descripción** |
 | ----------        | ----------    |
@@ -38,11 +38,11 @@ En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales
 
 Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu tienda:
 
-- [Gestionar contenido de páginas y templates](https://help.vtex.com/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37)
-- [Mejorar el SEO de las Páginas de lista de productos](https://help.vtex.com/es/tutorial/improving-the-seo-of-product-listing-pages--UrQtlKAMuSaLBP5wG9ftG)
-- [Reutilización de imágenes con Image Widget](https://help.vtex.com/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
-- [Vinculando las URL en banners utilizando Site Editor](https://help.vtex.com/es/tutorial/linking-urls-to-banners-using-the-site-editor--4z2PagtN733waiWA8ttOuD)
-- [Crear páginas de destino según el binding](https://help.vtex.com/es/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Gestionar el contenido según el binding](https://help.vtex.com/es/tutorial/managing-content-per-binding--5CZjZPMqi0ZNpuqzF6AUOn)
-- [Gestionar redirecciones según el binding](https://help.vtex.com/es/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Gestionar contenido de páginas y templates](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37)
+- [Mejorar el SEO de las Páginas de lista de productos](/es/tutorial/improving-the-seo-of-product-listing-pages--UrQtlKAMuSaLBP5wG9ftG)
+- [Reutilización de imágenes con Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+- [Vinculando las URL en banners utilizando Site Editor](/es/tutorial/linking-urls-to-banners-using-the-site-editor--4z2PagtN733waiWA8ttOuD)
+- [Crear páginas de destino según el binding](/es/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Gestionar el contenido según el binding](/es/tutorial/managing-content-per-binding--5CZjZPMqi0ZNpuqzF6AUOn)
+- [Gestionar redirecciones según el binding](/es/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb)
 

@@ -26,4 +26,4 @@ En una tienda VTEX, una transacción se inicia cada vez que un usuario elige una
 - [¿Qué es una bandera de tarjeta de crédito?](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito)
 - [¿Qué es el banco emisor?](/es/tutorial/que-es-el-banco-emisor)
 - [Diferencia entre medios de pago y condiciones de pago](/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
-- [Flujo de transacción en Pagos](https://help.vtex.com/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "Flujo de transacción en Pagos")
+- [Flujo de transacción en Pagos](/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "Flujo de transacción en Pagos")

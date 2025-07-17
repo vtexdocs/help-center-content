@@ -1,5 +1,5 @@
 ---
-title: 'As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado'
+title: "As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado"
 id: 61zSmTqfPSZTjL7PrAH737
 status: PUBLISHED
 createdAt: 2023-04-13T12:42:46.846Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: App Platform
 author: 2mXZkbi0oi061KicTExNjo
 tag: App Platform
-slugEN: cold-start-requests-failing-with-timeout-and-courier-retries-not-working-as-expected
+slugEN: as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 789499
@@ -18,7 +18,9 @@ internalReference: 789499
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um aplicativo não recebe solicitações por algum tempo, ele entra em cold start. O Courier faz várias tentativas de enviar eventos até que o aplicativo "acorde". Quando o aplicativo não "acorda", as solicitações a ele podem falhar devido a um tempo limite. Como resultado, acontece que alguns eventos parecem nunca ser enviados. Esse é um comportamento intermitente

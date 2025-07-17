@@ -1,5 +1,5 @@
 ---
-title: 'Deactivated payment system rendering at checkout'
+title: "Deactivated payment system rendering at checkout"
 id: 2LQYOKtkURQoWUU1InCRUo
 status: PUBLISHED
 createdAt: 2024-06-13T19:37:58.649Z

@@ -19,7 +19,7 @@ Las transacciones realizadas por el Pagos de VTEX pasan por diversos status, des
 
 Vea abajo un ejemplo de la línea de tiempo con los estados de la transacción.
 
-![Transaction Flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payments%20overview/flujo-de-la-transaccion-en-pagos_1.jpg)
+![Transaction Flow](https://images.contentful.com/alneenqid6w5/4AvpkJnEN2ImKkIgQQoIKK/e031cc030d5e1da745fac51137c4d4b2/Transaction_Flow.jpg)
 
 1. __Authorizing__ (Autorizando): Este es el primer status de una transacción en Pagos. En esta etapa, Pagos indica que se ha iniciado el proceso de envío de información a un adquirente o a otro gateway.
 2. __Authorized__ (Autorizado): Después del inicio del proceso de autorización, el adquirente o otro gateway envía la información de la transacción al banco emisor. El banco responde si la transacción debe ser o no autorizada. Si se niega la transacción, el pago es __cancelado__. Si lo permite, el status de la transacción pasa a __Authorized__.
@@ -29,4 +29,4 @@ Vea abajo un ejemplo de la línea de tiempo con los estados de la transacción.
 6. __Settlement of $__ (Liquidación de valor): Este estado indica que se iniciará el proceso de __liquidación__ de un valor específico. Es importante resaltar que, en esta etapa, el valor no se ha liquidado. Lo que existe es sólo una advertencia de que el proceso de liquidación de ese valor se realizará en los próximos status.
 7. __Settling__ (Liquidando): En este estado, se inicia efectivamente el intento de __liquidación__ del valor. Los sistemas responsables inician el proceso para que el valor de la transacción sea liquidado.
 8. __Settled__ (Liquidado): Cuando la transacción llegua a este status, esto indica que __el valor se ha liquidado correctamente__. En este momento, el pago ya se ha enviado a la cuenta del comerciante.
-9. __Finished__ (Finalizado): La transacción llega al status __finished__ cuando la factura con el valor del pago es emitida y vinculada al pedido en el módulo OMS. Es importante tener atención a este status, ya que incluso después de la liquidación correcta del valor, [es necesario incluir la factura en el pedido](https://help.vtex.com/es/faq/por-que-una-transaccion-fue-capturada-con-exito-pero-no-fue-finalizada-en-el-pci-gateway).
+9. __Finished__ (Finalizado): La transacción llega al status __finished__ cuando la factura con el valor del pago es emitida y vinculada al pedido en el módulo OMS. Es importante tener atención a este status, ya que incluso después de la liquidación correcta del valor, [es necesario incluir la factura en el pedido](/es/faq/por-que-una-transaccion-fue-capturada-con-exito-pero-no-fue-finalizada-en-el-pci-gateway).

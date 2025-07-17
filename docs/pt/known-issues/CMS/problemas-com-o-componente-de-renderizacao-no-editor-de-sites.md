@@ -1,5 +1,5 @@
 ---
-title: 'Problemas com o componente de renderização no editor de sites'
+title: "Problemas com o componente de renderização no editor de sites"
 id: 66gcFw8LwnL6WsvuXPRzFn
 status: PUBLISHED
 createdAt: 2022-04-19T19:41:08.520Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: render-component-issues-on-site-editor
+slugEN: problemas-com-o-componente-de-renderizacao-no-editor-de-sites
 locale: pt
 kiStatus: Backlog
 internalReference: 415674
@@ -18,17 +18,19 @@ internalReference: 415674
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido à quantidade de informações na página, o editor do site pode ter problemas ao renderizar blocos. Esse comportamento ocorre de forma intermitente, às vezes os componentes não são renderizados e às vezes são renderizados duas vezes. Pode acontecer de nenhum bloco aparecer no editor do site:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/problemas-com-o-componente-de-renderizacao-no-editor-de-sites_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
 
 Ou pode acontecer com menos blocos.
 
 Também pode ocorrer um atraso após salvar um novo conteúdo. O conteúdo é salvo, mas a tela continua carregando:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/problemas-com-o-componente-de-renderizacao-no-editor-de-sites_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
 
 ## Simulação
 

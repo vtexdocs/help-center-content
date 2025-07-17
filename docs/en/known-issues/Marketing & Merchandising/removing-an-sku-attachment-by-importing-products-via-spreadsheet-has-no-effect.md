@@ -1,5 +1,5 @@
 ---
-title: 'Removing an SKU attachment by importing products via spreadsheet has no effect'
+title: "Removing an SKU attachment by importing products via spreadsheet has no effect"
 id: 3BgRi2HNCwYEAKuOc0G4Se
 status: PUBLISHED
 createdAt: 2018-05-03T19:24:21.455Z

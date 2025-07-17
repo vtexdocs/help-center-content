@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-does-the-promised-date-differ-from-the-delivery-date
 ---
 
-When there is an error associated with the number of days of a [holiday](https://help.vtex.com/en/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk), for security reasons, the platform configures an automatic range that may be affecting the order's delivery date.
+When there is an error associated with the number of days of a [holiday](/en/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk), for security reasons, the platform configures an automatic range that may be affecting the order's delivery date.
 
 When registering a holiday, if you fill in the __Start Date__ field correctly, but fill in the __End Date__ field incorrectly, and the holiday ends up being 1 year, 6 months or any undue period, the system understands that there was a registration error and automatically sets a smaller range to deliver the order.
 
@@ -27,4 +27,4 @@ If you have incoherent deadlines or disagreement between the promised date and d
 3. Adjust them, if necessary.
 4. Click `Save`.
 
-For more information, see the article [Registering Holidays](https://help.vtex.com/en/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk).
+For more information, see the article [Registering Holidays](/en/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk).

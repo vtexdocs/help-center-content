@@ -17,7 +17,9 @@ announcementSynopsisES: 'A partir del 16/11, la autenticación de 2 factores se 
 
 A partir del 16 de noviembre, a las 14h (horario de Brasil), la autenticación de 2 factores (2FA) se vuelve __obrigatoria para todos los e-mails__ en el Admin de VTEX. Si usted utiliza email y contraseña para iniciar sesión, habilite el 2FA antes de esa fecha.
 
->ℹ️ Vea el artículo sobre [ como habilitar el 2FA ](http://help.vtex.com/es/tutorial/habilitar-login-por-autenticacion-de-2-factores).
+<div class= "alert alert-info">
+Vea el artículo sobre <a href="http://help.vtex.com/es/tutorial/habilitar-login-por-autenticacion-de-2-factores"> como habilitar el 2FA </a>.
+</div>
 
 2FA es un método de autenticación que aumenta mucho la seguridad de su tienda. Porque en el momento del login, además de pedir email y contraseña, el sistema requiere una clave de acceso generada por aplicación o SMS.
 

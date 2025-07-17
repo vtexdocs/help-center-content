@@ -1,5 +1,5 @@
 ---
-title: 'Property blockClass from infoCard not working'
+title: "Property blockClass from infoCard not working"
 id: LTEEWCaZx2unBWSEJFDw6
 status: PUBLISHED
 createdAt: 2023-01-31T19:02:03.835Z

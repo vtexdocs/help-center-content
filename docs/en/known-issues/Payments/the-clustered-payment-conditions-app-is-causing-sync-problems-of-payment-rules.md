@@ -1,5 +1,5 @@
 ---
-title: 'The Clustered Payment Conditions App is causing sync problems of payment rules'
+title: "The Clustered Payment Conditions App is causing sync problems of payment rules"
 id: 6f7VLD1g75AfZC8nhu37lM
 status: PUBLISHED
 createdAt: 2022-03-27T19:28:53.433Z

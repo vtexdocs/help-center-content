@@ -1,5 +1,5 @@
 ---
-title: 'MELI Promotions UI error'
+title: "MELI Promotions UI error"
 id: BXDd7lo9fOvUq4AIM4hZs
 status: PUBLISHED
 createdAt: 2023-04-26T11:10:30.466Z
@@ -35,7 +35,7 @@ This is due to MELI request limits, and we will further investigate on how to av
 
 Inside the menu "Mercado Livre" -  "Promotions", sometimes it may have that we have below error:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-promotions-ui-error_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nTFCikj9ovOIsLA0QqkjuAwkU/?name=image.png)
 
 
 ##

@@ -1,5 +1,5 @@
 ---
-title: 'Session cookies are shared between different bindings when they are not in the same path level'
+title: "Session cookies are shared between different bindings when they are not in the same path level"
 id: 4pKeUI7qtdByaQowYs19Et
 status: PUBLISHED
 createdAt: 2023-10-25T01:06:04.190Z

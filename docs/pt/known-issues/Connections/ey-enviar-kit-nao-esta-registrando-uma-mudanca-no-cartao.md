@@ -1,5 +1,5 @@
 ---
-title: "ey 'Enviar Kit:' não está registrando uma mudança no Cartão"
+title: 'ey "Enviar Kit:" não está registrando uma mudança no Cartão'
 id: 4J1SynfbrQqXpSIcveAMxJ
 status: PUBLISHED
 createdAt: 2022-06-14T11:56:12.170Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: ey-send-kit-is-not-recording-a-change-in-the-card
+slugEN: ey-enviar-kit-nao-esta-registrando-uma-mudanca-no-cartao
 locale: pt
 kiStatus: Backlog
 internalReference: 442215
@@ -18,7 +18,9 @@ internalReference: 442215
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

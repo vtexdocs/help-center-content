@@ -1,5 +1,5 @@
 ---
-title: 'Campo de categoria global XML que mostra as informações definidas no nível global da categoria.'
+title: "Campo de categoria global XML que mostra as informações definidas no nível global da categoria."
 id: 508Gdn8StafQKOa2Wyfr8u
 status: PUBLISHED
 createdAt: 2022-01-21T17:38:16.365Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-global-category-field-showing-the-information-defined-on-category-global-level
+slugEN: campo-de-categoria-global-xml-que-mostra-as-informacoes-definidas-no-nivel-global-da-categoria
 locale: pt
 kiStatus: No Fix
 internalReference: 282231
@@ -18,7 +18,9 @@ internalReference: 282231
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nos arquivos XML, o campo para Categoria Global está fornecendo as informações da Categoria Global definida no Nível da Categoria e não no Nível do Produto (o nível do produto deve ser priorizado).

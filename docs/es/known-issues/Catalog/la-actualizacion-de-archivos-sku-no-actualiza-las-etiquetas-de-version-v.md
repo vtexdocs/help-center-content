@@ -1,5 +1,5 @@
 ---
-title: 'La actualización de archivos SKU no actualiza las etiquetas de versión ?v'
+title: "La actualización de archivos SKU no actualiza las etiquetas de versión ?v"
 id: 5Uw2VIBtTNDY3Ha5WDzGXJ
 status: PUBLISHED
 createdAt: 2023-06-29T14:37:56.437Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sku-file-update-does-not-update-v-version-tags
+slugEN: la-actualizacion-de-archivos-sku-no-actualiza-las-etiquetas-de-version-v
 locale: es
 kiStatus: No Fix
 internalReference: 852869
@@ -18,7 +18,9 @@ internalReference: 852869
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando un archivo de imagen SKU se actualiza a través de la API para estar en la misma posición que uno anterior, su etiqueta de versión (?v=) en la página del producto no se actualiza correctamente.

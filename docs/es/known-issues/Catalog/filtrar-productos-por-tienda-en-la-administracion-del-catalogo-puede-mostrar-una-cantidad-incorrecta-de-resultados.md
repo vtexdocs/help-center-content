@@ -1,5 +1,5 @@
 ---
-title: "Filtrar productos por 'Tienda' en la administración del catálogo puede mostrar una cantidad incorrecta de resultados."
+title: 'Filtrar productos por "Tienda" en la administración del catálogo puede mostrar una cantidad incorrecta de resultados.'
 id: E38Y6a81l7QNtrmh2I2id
 status: PUBLISHED
 createdAt: 2023-02-17T16:01:30.420Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: filter-products-by-store-on-the-catalog-admin-can-show-the-wrong-ammount-of-results
+slugEN: filtrar-productos-por-tienda-en-la-administracion-del-catalogo-puede-mostrar-una-cantidad-incorrecta-de-resultados
 locale: es
 kiStatus: Backlog
 internalReference: 756461
@@ -18,7 +18,9 @@ internalReference: 756461
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Filtrar productos por "Tienda" en el Catalogo Admin puede mostrar una cantidad incorrecta de resultados

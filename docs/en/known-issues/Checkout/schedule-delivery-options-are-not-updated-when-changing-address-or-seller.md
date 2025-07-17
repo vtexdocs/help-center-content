@@ -1,5 +1,5 @@
 ---
-title: 'Schedule delivery options are not updated when changing address or seller'
+title: "Schedule delivery options are not updated when changing address or seller"
 id: z1sjFNyZVUJAR7G95itfT
 status: PUBLISHED
 createdAt: 2023-06-12T12:07:06.920Z

@@ -1,5 +1,5 @@
 ---
-title: 'After importing the Product Specification worksheet, the product is not indexed'
+title: "After importing the Product Specification worksheet, the product is not indexed"
 id: 6MQhj9Kqsg4w0iUuecgGqg
 status: PUBLISHED
 createdAt: 2017-11-27T17:42:48.080Z

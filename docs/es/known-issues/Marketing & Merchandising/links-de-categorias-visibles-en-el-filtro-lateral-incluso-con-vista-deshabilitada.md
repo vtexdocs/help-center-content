@@ -1,5 +1,5 @@
 ---
-title: 'Links de categorías visibles en el filtro lateral incluso con vista deshabilitada'
+title: "Links de categorías visibles en el filtro lateral incluso con vista deshabilitada"
 id: 5NwWyNDLtmKu6kCu6KYgs6
 status: PUBLISHED
 createdAt: 2018-05-03T17:37:48.868Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: category-links-are-visible-on-side-filter-even-when-view-is-disabled
+slugEN: links-de-categorias-visibles-en-el-filtro-lateral-incluso-con-vista-deshabilitada
 locale: es
 kiStatus: Backlog
 internalReference: 

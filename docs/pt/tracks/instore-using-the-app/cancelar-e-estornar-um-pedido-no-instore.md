@@ -19,7 +19,7 @@ Quando um cliente solicitar o cancelamento de um pedido realizado pelo VTEX Sale
 
 ## Cenário 1: o cliente não está mais na loja
 
-Se o pedido tiver sido pago por **Venda direta - Débito ou Crédito** e o cliente não estiver mais presente na loja física — ou seja, não puder passar o cartão no terminal — é necessário  realizar o cancelamento em **Pedidos** > **Todos os pedidos**, no Admin VTEX. Esse procedimento só pode ser realizado por um usuário com o [perfil de acesso OMS - Full access](https://help.vtex.com/pt/tutorial/como-criar-perfil-de-acesso/#oms-full-access), seguindo as orientações do tutorial [Cancelar pedido](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186).
+Se o pedido tiver sido pago por **Venda direta - Débito ou Crédito** e o cliente não estiver mais presente na loja física — ou seja, não puder passar o cartão no terminal — é necessário  realizar o cancelamento em **Pedidos** > **Todos os pedidos**, no Admin VTEX. Esse procedimento só pode ser realizado por um usuário com o [perfil de acesso OMS - Full access](/pt/tutorial/como-criar-perfil-de-acesso/#oms-full-access), seguindo as orientações do tutorial [Cancelar pedido](/pt/tutorial/como-cancelar-pedido--tutorials_186).
 
 Neste caso, o pedido não será cancelado de imediato. A variação de tempo é determinada pelo adquirente e pode levar de 30 minutos a 24 horas.
 
@@ -42,7 +42,7 @@ Caso o pedido cancelado tenha sido pago em dinheiro, o vendedor precisa estornar
 
 Após os passos descritos [anteriormente](#cenario-2-o-cliente-esta-na-loja), o vendedor verá a tela abaixo, que informa que o pagamento **Dinheiro** já foi estornado.
 
-![estornar-pagamentos-instore-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-using-the-app/cancelar-e-estornar-um-pedido-no-instore_1.png)
+![estornar-pagamentos-instore-PT](https://images.contentful.com/alneenqid6w5/3B51VlNXxKyfwvWMstcAtY/5f1b4407bcd67cb098427cdaf1fd7171/image3.png)
 
 Para retornar para a página de detalhes do pedido cancelado, é preciso clicar na seta <i class="fas fa-arrow-left"></i> na barra superior do VTEX Sales App.
 

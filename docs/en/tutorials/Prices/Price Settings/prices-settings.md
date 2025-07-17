@@ -29,11 +29,15 @@ See all the available configurations below:
   - **Always:** the account will always inherit all the prices from the parent account.
   - **Only for non-existent prices:** the parent account prices will be inherited only if they are non-existent in the current account.
 
-  >ℹ️ The **Inherit prices from parent account** setting is available only for child accounts. The parent account is defined when the child account is created. Ensuring that the correct parent account is associated helps avoid issues related to pricing or stock availability.
+  <div class="alert alert-info">
+    <p>The <b>Inherit prices from parent account</b> setting is available only for child accounts. The parent account is defined when the child account is created. Ensuring that the correct parent account is associated helps avoid issues related to pricing or stock availability.</p>
+</div>
 
 - **Overwrite seller prices:** this option overwrites all seller prices with the ones from the current account. 
 
-  >ℹ️ The configuration **Overwrite prices for sellers** is not available for white label sellers.
+  <div class = "alert alert-info">
+    <p>The configuration <b>Overwrite prices for sellers</b> is not available for white label sellers.</p>
+  </div>
 
 ## Consulting the Parent Account
 To check the parent account linked to a child account, use the following URL, replacing {AccountName} with the child account's name:

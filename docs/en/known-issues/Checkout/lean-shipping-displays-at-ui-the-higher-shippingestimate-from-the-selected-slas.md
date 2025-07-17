@@ -1,5 +1,5 @@
 ---
-title: 'Lean shipping displays at UI the higher shippingEstimate from the selected SLAs'
+title: "Lean shipping displays at UI the higher shippingEstimate from the selected SLAs"
 id: 1EYi8qK6pHwBU9Yqlxa9jm
 status: PUBLISHED
 createdAt: 2024-10-30T16:05:02.385Z

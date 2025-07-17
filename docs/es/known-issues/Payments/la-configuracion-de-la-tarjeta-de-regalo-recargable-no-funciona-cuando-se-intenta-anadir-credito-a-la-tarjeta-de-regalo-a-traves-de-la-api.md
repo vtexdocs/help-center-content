@@ -1,5 +1,5 @@
 ---
-title: 'La configuración de la tarjeta de regalo recargable no funciona cuando se intenta añadir crédito a la tarjeta de regalo a través de la API'
+title: "La configuración de la tarjeta de regalo recargable no funciona cuando se intenta añadir crédito a la tarjeta de regalo a través de la API"
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: giftcard-rechargeable-configuration-does-not-work-when-trying-to-add-credit-to-the-gift-card-through-api
+slugEN: la-configuracion-de-la-tarjeta-de-regalo-recargable-no-funciona-cuando-se-intenta-anadir-credito-a-la-tarjeta-de-regalo-a-traves-de-la-api
 locale: es
 kiStatus: No Fix
 internalReference: 583669
@@ -18,7 +18,9 @@ internalReference: 583669
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al crear una tarjeta regalo, configuramos si es recargable o no. Sin embargo, el impedimento de añadir crédito a una tarjeta regalo no recargable ocurre sólo a través de la UI, a través de la API es posible añadir crédito aunque la tarjeta regalo no sea recargable.

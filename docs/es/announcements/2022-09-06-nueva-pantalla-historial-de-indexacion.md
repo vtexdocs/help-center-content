@@ -19,11 +19,11 @@ En toda operación de ecommerce, es necesario registrar o cambiar información d
 
 Para mejorar la experiencia de monitoreo de la indexación del catálogo, rediseñamos la página **Historial de indexación** en el Admin VTEX. La nueva interfaz permite dar seguimiento al tiempo de indexación de los productos y al status de indexación de la tienda.
 
-![Histórico da Indexação 1 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-09-06-nueva-pantalla-historial-de-indexacion_1.png)
+![Histórico da Indexação 1 - ES](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/89edd8125cb7ba75422cd923886126df/Screenshot_2022-09-01_at_12-50-55_Historial_de_indexaci__n.png)
 
 ## ¿Qué cambió?
 
-Antes, VTEX mostraba dos indexaciones diferentes, una para [Catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) y una para [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Ahora, el proceso está unificado en **Historial de indexación**.
+Antes, VTEX mostraba dos indexaciones diferentes, una para [Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) y una para [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Ahora, el proceso está unificado en **Historial de indexación**.
 
 La página **Historial de indexación** ha sido completamente rediseñada. Algunos de los cambios son:
 
@@ -40,7 +40,7 @@ Rediseñamos la pantalla de **Historial de indexación** para proporcionar una v
 
 ## ¿Qué se necesita hacer?
 
-La página **Status de indexación** de Intelligent Search será deshabilitada y sustituída por **Historial de indexación**. No se requiere ninguna acción. La actualización será automática en todas las tiendas. Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Historial de indexación](https://help.vtex.com/es/tutorial/historial-de-indexacion-beta--6v2FVuXVpyEO8hnMqPi6Xd).
+La página **Status de indexación** de Intelligent Search será deshabilitada y sustituída por **Historial de indexación**. No se requiere ninguna acción. La actualización será automática en todas las tiendas. Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Historial de indexación](/es/tutorial/historial-de-indexacion-beta--6v2FVuXVpyEO8hnMqPi6Xd).
 
-Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del [nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
 

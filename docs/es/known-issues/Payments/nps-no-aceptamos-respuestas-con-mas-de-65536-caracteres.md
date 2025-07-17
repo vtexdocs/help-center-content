@@ -1,5 +1,5 @@
 ---
-title: 'NPS - no aceptamos respuestas con más de 65536 caracteres'
+title: "NPS - no aceptamos respuestas con más de 65536 caracteres"
 id: 11XAxAg1dG2aKQc9lzRsfp
 status: PUBLISHED
 createdAt: 2022-03-03T18:45:54.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: nps-we-arent-accepting-response-with-more-than-65536-characters
+slugEN: nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres
 locale: es
 kiStatus: Backlog
 internalReference: 317389
@@ -18,7 +18,9 @@ internalReference: 317389
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 No aceptamos respuestas de NPS con más de 65536 caracteres

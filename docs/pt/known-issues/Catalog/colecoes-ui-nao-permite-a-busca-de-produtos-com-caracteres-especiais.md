@@ -1,5 +1,5 @@
 ---
-title: 'Coleções UI não permite a busca de produtos com caracteres especiais'
+title: "Coleções UI não permite a busca de produtos com caracteres especiais"
 id: 3O9C8uOskw2UJYdBVUCFw
 status: PUBLISHED
 createdAt: 2022-04-07T20:36:02.541Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-ui-doesnt-allow-to-search-for-products-with-special-characters
+slugEN: colecoes-ui-nao-permite-a-busca-de-produtos-com-caracteres-especiais
 locale: pt
 kiStatus: Backlog
 internalReference: 344451
@@ -18,7 +18,9 @@ internalReference: 344451
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A nova coleção UI, `.myvtex.com/admin/collections', não permite que os usuários procurem produtos com caracteres especiais.

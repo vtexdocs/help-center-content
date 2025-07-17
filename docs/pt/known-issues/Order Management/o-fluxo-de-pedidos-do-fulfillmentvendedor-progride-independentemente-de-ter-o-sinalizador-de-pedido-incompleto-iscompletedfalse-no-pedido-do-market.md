@@ -1,5 +1,5 @@
 ---
-title: 'O fluxo de pedidos do Fulfillment/Vendedor progride independentemente de ter o sinalizador de pedido incompleto (isCompleted=false) no pedido do Marketplace'
+title: "O fluxo de pedidos do Fulfillment/Vendedor progride independentemente de ter o sinalizador de pedido incompleto (isCompleted=false) no pedido do Marketplace"
 id: 1wy7o9sS7qKnvVlaJd9Pq9
 status: PUBLISHED
 createdAt: 2024-11-21T18:39:13.496Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-fulfillmentseller-order-flow-progresses-regardless-of-whether-it-has-the-incomplete-order-flag-iscompletedfalse-in-the-marketplace-order
+slugEN: o-fluxo-de-pedidos-do-fulfillmentvendedor-progride-independentemente-de-ter-o-sinalizador-de-pedido-incompleto-iscompletedfalse-no-pedido-do-marketplace
 locale: pt
 kiStatus: Backlog
 internalReference: 345526
@@ -18,7 +18,9 @@ internalReference: 345526
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

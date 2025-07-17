@@ -30,8 +30,8 @@ Siga as instruções abaixo para criar e atualizar as marcas dos produtos dispon
   - __Título da Página da Marca (Tag Title)__: é o texto que aparece na aba do navegador e corresponde ao título da sua página. É considerado pelos motores de busca um dos elementos mais importantes para otimização de resultado.
   - __Adwords Remarketing Code__: também conhecido como Google Remarketing Tag, é o código usado para campanha do Google Adwords. O preenchimento desse campo com o código permite o acompanhamento de métricas de remarketing associados a essa marca. Normalmente,a sua agência de marketing digital tem acesso e pode fornecer código.
   - __Lomadee Campaing Code__: código usado para campanhas do Buscapé. O preenchimento desse campo com o código permite o acompanhamento de métricas de remarketing associados a essa marca.
-  - __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
-  - __Exibir no menu da Home__: ao selecionar essa caixa, a marca aparecerá no menu da sua loja por meio do controle *Menu de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender mais sobre o uso de controles, acesse nosso artigo com a [lista de controles](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates--tutorials_563) para as páginas da sua loja. 
+  - __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+  - __Exibir no menu da Home__: ao selecionar essa caixa, a marca aparecerá no menu da sua loja por meio do controle *Menu de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender mais sobre o uso de controles, acesse nosso artigo com a [lista de controles](/pt/tutorial/lista-de-controles-para-templates--tutorials_563) para as páginas da sua loja. 
   - __Ativar a marca__: ao selecionar essa caixa, a marca fica visível e pronta para o uso nos produtos cadastrados.
 5. Clique em  `Salvar `.
 
@@ -39,7 +39,7 @@ As informações preenchidas no cadastro podem ser atualizadas a qualquer moment
 
 Para excluir o cadastro de alguma marca, você deve clicar na seta ao lado de  `Alterar ` e selecionar a opção `Excluir`. 
 
-![editar-marca pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalog-101/cadastrar-marcas_1.png)
+![editar-marca pt](https://images.ctfassets.net/alneenqid6w5/3lz8nIX88GLSISJCiFk1h7/c45e2225e20611d450e91f3e97bc24c9/editar-marca_PT.png)
 
 ## API
 

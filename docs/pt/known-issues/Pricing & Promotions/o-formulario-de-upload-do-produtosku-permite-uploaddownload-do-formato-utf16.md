@@ -1,5 +1,5 @@
 ---
-title: 'O formulário de upload do produto/SKU permite upload/download do formato UTF-16'
+title: "O formulário de upload do produto/SKU permite upload/download do formato UTF-16"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: productsku-upload-form-allows-utf16-format-uploaddownload
+slugEN: o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16
 locale: pt
 kiStatus: No Fix
 internalReference: 493402
@@ -18,7 +18,9 @@ internalReference: 493402
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, se um usuário tentar carregar uma lista SKU para o formulário de promoção regular utilizando um arquivo .txt, se o arquivo carregado estiver no formato de codificação UTF-16, então será o arquivo carregado posteriormente.
@@ -33,7 +35,7 @@ Atualmente, se um usuário tentar carregar uma lista SKU para o formulário de p
 
 1) Criar uma promoção regular e na seção #2 "A quais **ites** esta promoção se aplicará?", carregar uma lista UTF-16 formatada, válida da SKU para os arquivos da SKU ou do Produto
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Pricing%20&%20Promotions/o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/v2q7rCm249CNqnRQjXxKRdjnx/?name=inline-242501829.png)
 
 2) Salvar a promoção
 

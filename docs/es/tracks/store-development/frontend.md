@@ -24,14 +24,14 @@ Store Framework surge de la idea de componibilidad, ya que permite combinar dife
 
 La ampliación de funcionalidades se produce a través de aplicaciones VTEX disponibles globalmente.
 
-Store Framework es una solución para construir storefronts aprovechando VTEX IO. Esta solución permite utilizar la interfaz intuitiva de [Site Editor](https://help.vtex.com/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y simplificar la gestión de contenido de la tienda.
+Store Framework es una solución para construir storefronts aprovechando VTEX IO. Esta solución permite utilizar la interfaz intuitiva de [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y simplificar la gestión de contenido de la tienda.
 
-![vtex io](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/store-development/frontend_1.png)
+![vtex io](https://images.ctfassets.net/alneenqid6w5/2ihbniXa1S2L7pLOPP0E3o/5c359c6ec0fd106a7f7783669485c64e/image3.png)
 
 Las tiendas creadas con Store Framework también tienen las siguientes funcionalidades:
-- **[Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: herramienta de búsqueda que corrige errores ortográficos y permite usar reglas condicionales para mostrar los resultados de búsqueda.
-- **[Multiidiomas](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: es la posibilidad que VTEX IO proporciona para configurar la traducción automática de la tienda a otros idiomas.
-- **[Transfronterizo](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: permite que una [multitienda VTEX](https://help.vtex.com/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en) opere en diferentes países con un enfoque propio para cada uno de ellos.
+- **[Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: herramienta de búsqueda que corrige errores ortográficos y permite usar reglas condicionales para mostrar los resultados de búsqueda.
+- **[Multiidiomas](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: es la posibilidad que VTEX IO proporciona para configurar la traducción automática de la tienda a otros idiomas.
+- **[Transfronterizo](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: permite que una [multitienda VTEX](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en) opere en diferentes países con un enfoque propio para cada uno de ellos.
 
 ## FastStore
 

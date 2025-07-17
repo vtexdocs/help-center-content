@@ -1,5 +1,5 @@
 ---
-title: "Failed searches are treated as 'not found'"
+title: 'Failed searches are treated as "not found'
 id: m4OpfsQdSSxgSbY5ANOs8
 status: PUBLISHED
 createdAt: 2024-08-27T21:28:27.655Z

@@ -43,7 +43,7 @@ Para instalar o B2B Suite, siga os passos abaixo:
 2. Na página do App Store, localize o **B2B Suite** na lista de Apps exibidos ou digite **B2B Suite** na barra de busca da página.
 3. Em seguida, clique para instalar o App.
 
-![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Overview/b2b-suite-visao-geral_1.gif)
+![Instalação B2B Suite - PT](https://images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/26332dc3085e6ff753cb644524a0ec61/Instala__o_B2B_Suite_-_PT.gif)
 
 ## Conjunto de aplicativos do B2B Suite
 
@@ -81,7 +81,7 @@ Amplia a experiência de checkout para usuários que são membros de organizaç�
 
 ### Aplicativo Histórico de pedidos B2B
 
-Fornece uma nova página de Pedidos no [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que os usuários B2B possam visualizar todos os pedidos anteriores feitos por usuários em sua organização ou centro de custos, dependendo de sua função.
+Fornece uma nova página de Pedidos no [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que os usuários B2B possam visualizar todos os pedidos anteriores feitos por usuários em sua organização ou centro de custos, dependendo de sua função.
 
 ### Aplicativo B2B Clientes
 

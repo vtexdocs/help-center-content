@@ -14,7 +14,9 @@ trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: how-to-campaign-through-google-ads
 ---
 
->⚠️ Currently, Google Shopping Ads is **only available for Brazilian stores**.
+<div class="alert alert-warning">
+Currently, Google Shopping Ads is <strong>only available for Brazilian stores</strong>.
+</div>
 
 The first step to use the app is to install it. Follow the step-by-step below:
 

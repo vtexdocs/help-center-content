@@ -1,5 +1,5 @@
 ---
-title: "La interfaz de usuario de la caja no utiliza automáticamente el 'envío reducido' para los artículos sin métodos de envío comunes."
+title: 'La interfaz de usuario de la caja no utiliza automáticamente el "envío reducido" para los artículos sin métodos de envío comunes.'
 id: 2LXp8VCAay7Ic9MBfbtirT
 status: PUBLISHED
 createdAt: 2024-04-02T15:27:23.003Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-is-not-automatically-using-lean-shipping-for-items-with-no-common-shipping-methods
+slugEN: la-interfaz-de-usuario-de-la-caja-no-utiliza-automaticamente-el-envio-reducido-para-los-articulos-sin-metodos-de-envio-comunes
 locale: es
 kiStatus: Backlog
 internalReference: 329846
@@ -18,7 +18,9 @@ internalReference: 329846
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La configuración de Checkout UI permite desactivar el lean shipping (optimizaciones del modo de entrega), pero esto sólo es posible si todos los artículos del carrito tienen en común los mismos métodos de entrega. De lo contrario, el lean shipping debe aparecer forzosamente en el carrito incluso con la opción desactivada.

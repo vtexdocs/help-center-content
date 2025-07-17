@@ -1,5 +1,5 @@
 ---
-title: 'Something Went Wrong error is displayed in the catalog admin'
+title: "Something Went Wrong error is displayed in the catalog admin"
 id: 5TZLWNau0Vo6yp8URPsGcn
 status: PUBLISHED
 createdAt: 2023-09-26T17:00:49.516Z

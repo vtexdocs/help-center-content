@@ -1,5 +1,5 @@
 ---
-title: 'Synonyms not shown in the explained search'
+title: "Synonyms not shown in the explained search"
 id: 6twjWHNHdarFV5pz1aTfeb
 status: PUBLISHED
 createdAt: 2023-03-20T16:57:15.640Z

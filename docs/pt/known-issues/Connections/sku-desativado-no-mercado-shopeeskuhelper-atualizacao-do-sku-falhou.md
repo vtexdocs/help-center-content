@@ -1,5 +1,5 @@
 ---
-title: '[SKU desativado no mercado. shopee-sku-helper (atualização do sku falhou)'
+title: "[SKU desativado no mercado. shopee-sku-helper (atualização do sku falhou)"
 id: 2GZUqJQ8MeI9lspoGYQ9Rh
 status: PUBLISHED
 createdAt: 2022-10-25T16:09:55.768Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed
+slugEN: sku-desativado-no-mercado-shopeeskuhelper-atualizacao-do-sku-falhou
 locale: pt
 kiStatus: Fixed
 internalReference: 685137
@@ -18,7 +18,9 @@ internalReference: 685137
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
@@ -37,7 +39,7 @@ Mesmo com preço e estoque corretamente registrados no catálogo VTEX, vários p
 
 Admin > APPS instalados > Calçados > Gerenciar Produtos > Status de Sincronização de Produtos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/sku-desativado-no-mercado-shopeeskuhelper-atualizacao-do-sku-falhou_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5nItV4f72xEP8f530KkOaHpuD/?name=image.png)
 
 
 ##

@@ -1,5 +1,5 @@
 ---
-title: 'Dificultad en buscar en el CRM por campos que contienen espacios'
+title: "Dificultad en buscar en el CRM por campos que contienen espacios"
 id: 6Rp3IesViMyuwy8ocACYGk
 status: PUBLISHED
 createdAt: 2018-12-26T15:12:07.010Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: crm-error-when-searching-with-spaces
+slugEN: dificultad-en-buscar-en-el-crm-por-campos-que-contienen-espacios
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -36,7 +36,7 @@ Ejemplo: Buscando/filtrando por el campo "Ciudad" con el atributo "Rio de Janeir
 
 ## Workaround
 
-![Screen Shot 2018-12-26 at 14.40.03](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Master%20Data/dificultad-en-buscar-en-el-crm-por-campos-que-contienen-espacios_1.png)
+![Screen Shot 2018-12-26 at 14.40.03](//images.ctfassets.net/alneenqid6w5/1LUggCuWywGosGoCOgKE2g/426a9dbd86c26f15a9db06cadb88ec46/Screen_Shot_2018-12-26_at_14.40.03.png)
 Felizmente hay una alternativa simple que no necesita el uso de API.
 Al hacer clic en "Todos" en el menú desplegable, la misma búsqueda puede realizarse sin causar error.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Campo E-mail de origen en el trigger no acepta placeholder'
+title: "Campo E-mail de origen en el trigger no acepta placeholder"
 id: 4EW6n1Ymus8CGSEW2CuK44
 status: PUBLISHED
 createdAt: 2017-12-12T17:50:04.943Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: triggers-source-email-field-doesnt-accept-placeholder
+slugEN: campo-email-de-origen-en-el-trigger-no-acepta-placeholder
 locale: es
 kiStatus: Backlog
 internalReference: 

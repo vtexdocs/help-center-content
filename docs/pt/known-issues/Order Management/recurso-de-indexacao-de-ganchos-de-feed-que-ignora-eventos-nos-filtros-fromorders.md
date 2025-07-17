@@ -1,5 +1,5 @@
 ---
-title: 'Recurso de indexação de ganchos de feed que ignora eventos nos filtros FromOrders'
+title: "Recurso de indexação de ganchos de feed que ignora eventos nos filtros FromOrders"
 id: 6wpHloVS4KnH1TN5S5ySN2
 status: PUBLISHED
 createdAt: 2023-05-25T20:23:18.818Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: feed-hook-indexing-feature-skipping-events-in-fromorders-filters
+slugEN: recurso-de-indexacao-de-ganchos-de-feed-que-ignora-eventos-nos-filtros-fromorders
 locale: pt
 kiStatus: Backlog
 internalReference: 832400
@@ -18,7 +18,9 @@ internalReference: 832400
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar o filtro Feed/Hook, você define quais atualizações de pedidos devem ser exibidas no feed. Dois tipos de filtros podem ser usados no feed: FromWorkflow e FromOrders.

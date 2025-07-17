@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search Banner update via Image URL does not work correctly'
+title: "Intelligent Search Banner update via Image URL does not work correctly"
 id: bMFrVUmfbjvTWs4Ag6U57
 status: PUBLISHED
 createdAt: 2023-01-17T14:34:02.195Z

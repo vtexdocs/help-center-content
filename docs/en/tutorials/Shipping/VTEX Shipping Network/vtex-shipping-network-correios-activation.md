@@ -15,4 +15,6 @@ legacySlug: vtex-shipping-network-correios-activation
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning" role="alert">
+This is a regional exclusive content not applicable to English speaking countries.
+</div>

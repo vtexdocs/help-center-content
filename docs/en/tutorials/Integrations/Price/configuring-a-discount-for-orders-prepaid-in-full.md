@@ -34,7 +34,7 @@ After you determine the discount at Checkout, you need to link the SKU to the pa
 3. Select the template of your product page.
 4. In the `skuPrice` property, add the `paymentSystemId` variable with the ID of the chosen payment method.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Price/configuring-a-discount-for-orders-prepaid-in-full_1.png)
+![Screenshot 2020-12-18 Criar preço à vista](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Click on __Save Template__ in the upper right corner.
 
@@ -44,5 +44,5 @@ Your discount for orders prepaid in full is now active!
 For stores developed on VTEX IO, this is a native feature available through the `vtex.product-price` component in the `product-spot-price` block. To configure it, please check our [product documentation](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-price#configuration).
 
 ## Related articles
-[Configuring discounts for orders paid in full on Google Shopping](https://help.vtex.com/en/tutorial/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configuring discounts for orders paid in full on Google Shopping](/en/tutorial/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
 

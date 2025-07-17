@@ -1,5 +1,5 @@
 ---
-title: 'Diacritics are removed on CatalogAPI'
+title: "Diacritics are removed on CatalogAPI"
 id: 2iVyAQ8TSaT3jFYzcQGjSs
 status: PUBLISHED
 createdAt: 2022-07-22T18:18:04.236Z
@@ -31,11 +31,11 @@ Currently, some diacritic characters, such as ă are not preserved when saved us
 
 1 - use a put product API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product with a diacritic
 Ex:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/diacritics-are-removed-on-catalogapi_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DZhYXsOPhCpPGWfd7LikCfnCq/?name=image.png)
 
 2 - Then either check this data via API or catalog admin, you'll have these characters removed: https://developers.vtex.com/vtex-rest-api/reference/catalog-api-get-product
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/diacritics-are-removed-on-catalogapi_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zac0UZAZFzPR9unBs7EtqsdxR/?name=image.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'A interação com o componente de endereço enquanto alguns dados na interface do usuário ainda estão em um estado de carregamento altera o modo de inserção de endereço'
+title: "A interação com o componente de endereço enquanto alguns dados na interface do usuário ainda estão em um estado de carregamento altera o modo de inserção de endereço"
 id: 7t3jzIpIppmZDAc9R2BgpS
 status: PUBLISHED
 createdAt: 2023-09-13T20:39:43.294Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: interacting-with-the-address-component-while-some-data-on-the-ui-is-still-in-a-loading-state-changes-the-address-insertion-mode
+slugEN: a-interacao-com-o-componente-de-endereco-enquanto-alguns-dados-na-interface-do-usuario-ainda-estao-em-um-estado-de-carregamento-altera-o-modo-de-insercao-de-endereco
 locale: pt
 kiStatus: Backlog
 internalReference: 423811
@@ -18,7 +18,9 @@ internalReference: 423811
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o usuário decide alterar seu endereço enquanto alguns dados respectivos ainda estão sendo carregados na página, o componente de endereço muda de geolocalização para o componente com um menu suspenso. Os dados podem ser, por exemplo, a seleção de uma loja para retirada. Enquanto os dados são carregados na interface, o usuário clica em "alterar endereço" e, com isso, o endereço de retorno fica em outro componente, não no componente de geolocalização.

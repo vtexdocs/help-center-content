@@ -1,5 +1,5 @@
 ---
-title: 'La API para crear/actualizar proveedores de tarjetas regalo siempre está actualizando el proveedor actual cuando nunca antes ha añadido un nuevo proveedor.'
+title: "La API para crear/actualizar proveedores de tarjetas regalo siempre está actualizando el proveedor actual cuando nunca antes ha añadido un nuevo proveedor."
 id: 4W5sYMJegRRJIGqa4yhvUQ
 status: PUBLISHED
 createdAt: 2023-03-10T19:05:01.536Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-api-to-createupdate-gift-card-providers-is-always-updating-the-current-provider-when-it-has-never-added-a-new-provider-before
+slugEN: la-api-para-crearactualizar-proveedores-de-tarjetas-regalo-siempre-esta-actualizando-el-proveedor-actual-cuando-nunca-antes-ha-anadido-un-nuevo-proveedor
 locale: es
 kiStatus: Backlog
 internalReference: 768954
@@ -18,7 +18,9 @@ internalReference: 768954
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar añadir un nuevo identificador de proveedor por primera vez en una cuenta, en lugar de añadir un nuevo proveedor, se actualiza el proveedor nativo actual (VtexGiftCard).

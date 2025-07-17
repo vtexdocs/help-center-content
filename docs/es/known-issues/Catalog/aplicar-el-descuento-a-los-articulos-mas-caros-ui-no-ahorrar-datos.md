@@ -1,5 +1,5 @@
 ---
-title: 'Aplicar el descuento a los artículos más caros - UI no ahorrar datos.'
+title: "Aplicar el descuento a los artículos más caros - UI no ahorrar datos."
 id: 6VQuVOAtzbA6OyjDEi2bHh
 status: PUBLISHED
 createdAt: 2024-04-03T17:29:36.171Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: apply-the-discount-to-the-most-expensive-items-ui-not-saving-data
+slugEN: aplicar-el-descuento-a-los-articulos-mas-caros-ui-no-ahorrar-datos
 locale: es
 kiStatus: Backlog
 internalReference: 1011071
@@ -18,12 +18,14 @@ internalReference: 1011071
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar la interfaz de usuario de promociones, al intentar guardar manualmente la opción "Aplicar a los artículos más caros" no funcionará y el selector permanecerá en la opción de tipo más barato.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/aplicar-el-descuento-a-los-articulos-mas-caros-ui-no-ahorrar-datos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ofDGJuHHbNRwvbYDMOSSCznvB/?name=image.png)
 
 
 ##

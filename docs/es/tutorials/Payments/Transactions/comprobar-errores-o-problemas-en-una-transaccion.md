@@ -21,11 +21,13 @@ Los logs de una transacción se registran en una línea de tiempo, con las inter
 
 El gateway de VTEX puede comunicarse con adquirentes, subadquirentes, antifraudes y otros gateways. Los __cambios de status en la transacción__ y los __mensajes de respuesta de los socios__ se muestran en cuadros en la pantalla de detalles de transacción.
 
->ℹ️ [Haga clic aquí](https://help.vtex.com/es/faq/tarjeta-de-credito-flujo-basico-de-un-pago) para saber cómo funciona el flujo básico de una transacción de tarjeta de crédito. Usted puede también acceder a [nuestro artículo](https://help.vtex.com/es/faq/boleto-bancario-registrado-flujo) con el esquema básico de una transacción con boleto bancario.
+<div class="alert alert-info">
+<a href="https://help.vtex.com/es/faq/tarjeta-de-credito-flujo-basico-de-un-pago">Haga clic aquí</a> para saber cómo funciona el flujo básico de una transacción de tarjeta de crédito. Usted puede también acceder a <a href="https://help.vtex.com/es/faq/boleto-bancario-registrado-flujo">nuestro artículo</a> con el esquema básico de una transacción con boleto bancario.
+</div>
 
 ## Comprobar el status de la transacción
 
-Para comprobar el __status actual__ de una transacción, basta con buscar en la línea de tiempo por la *caja en la parte superior de la pantalla con un círculo verde del lado izquierdo*. [En este artículo](https://help.vtex.com/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=es "En este artículo"), hay la explicación de cada uno de los status de una transacción exitosa. Si la transacción tiene algún problema, su status final será __Cancelled__.
+Para comprobar el __status actual__ de una transacción, basta con buscar en la línea de tiempo por la *caja en la parte superior de la pantalla con un círculo verde del lado izquierdo*. [En este artículo](/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=es "En este artículo"), hay la explicación de cada uno de los status de una transacción exitosa. Si la transacción tiene algún problema, su status final será __Cancelled__.
 
 ## Comprobar los mensajes de respuesta de los socios
 

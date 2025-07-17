@@ -1,5 +1,5 @@
 ---
-title: 'Transações com o conector TNSPay sendo negadas por erro: Cartão não PROIBIDO em 3DS'
+title: "Transações com o conector TNSPay sendo negadas por erro: Cartão não PROIBIDO em 3DS"
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
+slugEN: transacoes-com-o-conector-tnspay-sendo-negadas-por-erro-cartao-nao-proibido-em-3ds
 locale: pt
 kiStatus: No Fix
 internalReference: 541687
@@ -18,7 +18,9 @@ internalReference: 541687
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O padrão é que eles são cancelados e enviamos dois Pedidos de Autorização 3D, e você ainda não recebeu a resposta do Pedido de Autorização.

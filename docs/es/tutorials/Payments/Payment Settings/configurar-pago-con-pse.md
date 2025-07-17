@@ -21,7 +21,8 @@ Para habilitar PSE en su tienda, se requieren las siguientes acciones:
 - [Instalar y configurar la aplicación Banks for PSE](#instalacion-de-la-aplicación-banks-for-pse).
 - [Configuración la condición de pago PSE](#configuracion-la-condicion-de-pago-pse).
 
->⚠️ Para configurar la aplicación PSE en su tienda, debe tener permiso para acceder al módulo de Pagos. Si aún no dispone de este acceso, solicítelo a través del [VTEX Support](https://help.vtex.com/support).
+<div class="alert alert-warning">
+Para configurar la aplicación PSE en su tienda, debe tener permiso para acceder al módulo de Pagos. Si aún no dispone de este acceso, solicítelo a través del <a href="https://help.vtex.com/support">VTEX Support</a>.</div>
 
 ## Instalación de la aplicación Banks for PSE
 
@@ -54,7 +55,8 @@ Para habilitar PSE en su tienda, se requieren las siguientes acciones:
 6. Rellene el campo **Nombre de la regla** con un nombre de su elección para su identificación.
 7. Active la condición en el campo **Status**.
 8. En el campo **Procesar con afiliación**, elija el conector que procesará los pagos con PSE. Solo los conectores que admitan este método de pago estarán disponibles para su selección.
-9. Si lo desea, también puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+9. Si lo desea, también puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 10. Haga clic en `Guardar`.
 
->ℹ️ También puedes crear una promoción regular que se puede aplicar específicamente a los pagos realizados a través de PSE. Obtenga más información en [Crear promoción para pagos con PSE](https://help.vtex.com/es/tutorial/crear-promocion-para-pagos-con-pse--6YIp1fJ76gq667PQWjuj5T).
+<div class="alert alert-info">
+También puedes crear una promoción regular que se puede aplicar específicamente a los pagos realizados a través de PSE. Obtenga más información en <a href="https://help.vtex.com/es/tutorial/crear-promocion-para-pagos-con-pse--6YIp1fJ76gq667PQWjuj5T">Crear promoción para pagos con PSE</a>.</div>

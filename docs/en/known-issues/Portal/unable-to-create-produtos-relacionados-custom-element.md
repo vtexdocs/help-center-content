@@ -1,5 +1,5 @@
 ---
-title: "Unable to create 'Produtos Relacionados' Custom Element"
+title: 'Unable to create "Produtos Relacionados" Custom Element'
 id: 4Ca3b0mfpe20K7wSaImSQj
 status: PUBLISHED
 createdAt: 2022-01-21T14:44:26.429Z

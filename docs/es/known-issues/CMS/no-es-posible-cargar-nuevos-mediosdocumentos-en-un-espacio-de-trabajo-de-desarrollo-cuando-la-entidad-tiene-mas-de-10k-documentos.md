@@ -1,5 +1,5 @@
 ---
-title: 'No es posible cargar nuevos medios/documentos en un espacio de trabajo de desarrollo cuando la entidad tiene más de 10k documentos.'
+title: "No es posible cargar nuevos medios/documentos en un espacio de trabajo de desarrollo cuando la entidad tiene más de 10k documentos."
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: not-possible-to-upload-new-mediadocument-in-a-development-workspace-when-entity-has-more-than-10k-documents
+slugEN: no-es-posible-cargar-nuevos-mediosdocumentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10k-documentos
 locale: es
 kiStatus: Fixed
 internalReference: 795940
@@ -18,7 +18,9 @@ internalReference: 795940
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

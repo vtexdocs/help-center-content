@@ -1,5 +1,5 @@
 ---
-title: 'Buy Together Promotion with lots of SKUs may let the eligible products not to load on the front (timeout)'
+title: "Buy Together Promotion with lots of SKUs may let the eligible products not to load on the front (timeout)"
 id: e1OJuUhZhYidnoRaDoDRc
 status: PUBLISHED
 createdAt: 2022-01-21T17:36:41.181Z

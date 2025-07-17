@@ -40,7 +40,9 @@ Caso você esteja migrando uma conta, nós aproveitaremos o afiliado já usado p
 
 _`Ex:` imagine que você usa os Correios (PAC) como transportadora, seu Tipo de Transportadora na IntegraCommerce seja "Normal" e no painel logístico da VTEX se chama "Comum". Então, você deve preencher o primeiro campo com "Normal" e o segundo com "Comum". Lembre-se que as palavras devem ser exatamente iguais às cadastradas na logística._
 
->⚠️ **OBS:** cada campo de mapeamento de SLA possui uma limitação de **50** caracteres.
+<div class="alert alert-warning">
+<strong>OBS:</strong> cada campo de mapeamento de SLA possui uma limitação de <strong>50</strong> caracteres.
+</div>
 
 &bull; __Estoque mínimo*:__ você deve preencher esse campo com um valor mínimo de estoque de segurança. Por mais que a comunicação entre os sistemas da VTEX e da Magazine Luiza seja rápida, o estoque exibido no marketplace pode ficar defasado em relação ao estoque real do produto na sua loja (mesmo que por alguns minutos). Assim, quando o estoque na VTEX chegar a esse valor, a integração vai zerar o estoque para que a venda de um produto sem estoque não aconteça.
 

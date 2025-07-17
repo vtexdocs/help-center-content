@@ -3,8 +3,8 @@ title: 'How promotions work'
 id: 2a2D0K85Ahvs4hLnL3Ag7N
 status: PUBLISHED
 createdAt: 2019-11-27T13:19:58.758Z
-updatedAt: 2020-02-14T16:17:30.202Z
-publishedAt: 2020-02-14T16:17:30.202Z
+updatedAt: 2025-05-09T16:54:00.581Z
+publishedAt: 2025-05-09T16:54:00.581Z
 firstPublishedAt: 2019-12-10T19:17:50.250Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -36,3 +36,7 @@ Later on in this track, we will learn how to configure each of these types of pr
 
 Furthermore, for all promotions it is possible to define the validity period, in addition to restrictions and limitations of use.
 
+<div class = "alert alert-info">
+The Promotions module allows up to 100 active promotions at a time. Each promotion can include up to 100 SKUs.
+However, it is possible to apply promotions to collections or categories that contain more than 100 SKUs.
+</div>

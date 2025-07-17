@@ -15,7 +15,9 @@ legacySlug: configurando-produto-visitado
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
+<div class="alert alert-warning">
+  <p>Tutorial válido apenas para lojas CMS Portal Legado.</p>
+</div>
 
 O email sobre produto visitado é uma mensagem automática enviada para clientes que visitaram a página de um produto no site mas não finalizaram a compra. O envio do email tem como objetivo a recuperação da venda e a oferta de outros produtos.
 
@@ -27,7 +29,9 @@ O email sobre produto visitado é uma mensagem automática enviada para clientes
 4. [Criar a estrutura de pastas](#criar-a-estrutura-de-pastas)
 5. [Configurar a trigger de disparo do email](#configurar-a-trigger-de-disparo-do-email)
 
->⚠️ Para esse recurso funcionar de forma adequada, é necessário que sua loja possua um alto fluxo de visitas e compras, uma vez que as prateleiras são geradas relacionando dados de navegação a um produto específico.
+<div class="alert alert-warning">
+  <p>Para esse recurso funcionar de forma adequada, é necessário que sua loja possua um alto fluxo de visitas e compras, uma vez que as prateleiras são geradas relacionando dados de navegação a um produto específico.</p>
+</div>
 
 ## Definir um intervalo mínimo de disparo
 
@@ -82,7 +86,7 @@ O controle responsável por exibir o produto visitado é o `ProductQueryStringRe
 * **5**: Sugestões
 * **6**: Acessórios
 
-As três primeiras prateleiras são montadas automaticamente pelo sistema e as três últimas são configuradas [manualmente no cadastro de produtos](https://help.vtex.com/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
+As três primeiras prateleiras são montadas automaticamente pelo sistema e as três últimas são configuradas [manualmente no cadastro de produtos](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
 
 ## Criar a estrutura de pastas
 

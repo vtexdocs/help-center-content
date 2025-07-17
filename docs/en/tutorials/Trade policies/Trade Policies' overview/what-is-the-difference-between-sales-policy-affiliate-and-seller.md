@@ -25,7 +25,7 @@ To configure the product assortment, you will need to [associate the sales polic
 
 To configure logistics, follow the step-by-step described [in this article](/en/tutorial/configuring-logistics-for-a-marketplace).
 
-To learn more, see our tutorial with more details on [how to set up a sales policy for a marketplace](https://help.vtex.com/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
+To learn more, see our tutorial with more details on [how to set up a sales policy for a marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
 
 ## Seller
 
@@ -45,10 +45,12 @@ Each marketplace must have a __unique affiliate identifier__.
 
 After creating an [affiliate](/en/tutorial/configuring-affiliates/), you must associate a sales policy with it. The sales policy contains the product assortment, logistics and price information that will be sent to the affiliate.
 
->ℹ️ If the marketplace configuration is made through the [Bridge](http://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/) module, the affiliate will be automatically created in the OMS.
+<div class = "alert alert-info">
+If the marketplace configuration is made through the <a href="http://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/">Bridge</a> module, the affiliate will be automatically created in the OMS.
+</div>
 
 #### **LEAR MORE**
 
-- [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Creating a trade policy](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)

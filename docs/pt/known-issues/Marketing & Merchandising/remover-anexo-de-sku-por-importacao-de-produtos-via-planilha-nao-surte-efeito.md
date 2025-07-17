@@ -1,5 +1,5 @@
 ---
-title: 'Remover anexo de SKU por importação de produtos via planilha não surte efeito'
+title: "Remover anexo de SKU por importação de produtos via planilha não surte efeito"
 id: 3BgRi2HNCwYEAKuOc0G4Se
 status: PUBLISHED
 createdAt: 2018-05-03T19:24:21.455Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: removing-an-sku-attachment-by-importing-products-via-spreadsheet-has-no-effect
+slugEN: remover-anexo-de-sku-por-importacao-de-produtos-via-planilha-nao-surte-efeito
 locale: pt
 kiStatus: Backlog
 internalReference: 

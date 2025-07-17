@@ -1,5 +1,5 @@
 ---
-title: 'Delivery split with Lean Shipping offering invalid SLA'
+title: "Delivery split with Lean Shipping offering invalid SLA"
 id: 61Yq1WhmCclFtcum3YMtXn
 status: PUBLISHED
 createdAt: 2024-02-27T19:21:21.615Z

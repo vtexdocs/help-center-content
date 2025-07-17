@@ -1,5 +1,5 @@
 ---
-title: 'Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.'
+title: "Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura."
 id: 14iGvVibb5ac4FNvEsmCAi
 status: PUBLISHED
 createdAt: 2022-03-21T19:58:25.489Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: delivery-flag-in-my-orders-due-to-an-error-in-filling-the-invoice
+slugEN: bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura
 locale: es
 kiStatus: Backlog
 internalReference: 547053
@@ -18,7 +18,9 @@ internalReference: 547053
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

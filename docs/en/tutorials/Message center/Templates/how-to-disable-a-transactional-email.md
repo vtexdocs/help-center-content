@@ -15,7 +15,7 @@ legacySlug: how-to-disable-a-transactional-email
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-At VTEX, the user has the option to automate the sending of emails to his clients by using the [Message Center](https://help.vtex.com/en/tutorial/--tutorials_84) module. There are already some pre-configured templates available on the platform, which may be customized according to user preference.
+At VTEX, the user has the option to automate the sending of emails to his clients by using the [Message Center](/en/tutorial/--tutorials_84) module. There are already some pre-configured templates available on the platform, which may be customized according to user preference.
 
 This funcionality is however not mandatory. You can opt out of sending these messages if that's more advantageous for the store.
 
@@ -27,7 +27,7 @@ Proceed with the following steps:
 2. Type in __Payment Pending__ in the search box.
 3. Uncheck the __Enable sending emails?__ option.
 
-![Message Center - Desativar Template - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message%20center/Templates/how-to-disable-a-transactional-email_1.png)
+![Message Center - Desativar Template - EN](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/4e50e323093d11f8d3504e298421151d/payment_pending_en.png)
 
 4. Click `Save`.
 

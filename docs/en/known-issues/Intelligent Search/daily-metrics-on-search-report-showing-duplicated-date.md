@@ -1,5 +1,5 @@
 ---
-title: 'Daily metrics on search report showing duplicated date'
+title: "Daily metrics on search report showing duplicated date"
 id: 2GZz9wQgopOWpjDYsoAvq3
 status: PUBLISHED
 createdAt: 2022-04-27T15:02:22.168Z
@@ -21,7 +21,7 @@ internalReference: 508883
 
 When a search report is downloaded, the table containing metrics like searches, clicks and unique clicks at the end of the report contains a date column showing duplicated entries without an apparent reason as you can see in the image:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/daily-metrics-on-search-report-showing-duplicated-date_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/5c2UeFN2SuSga7svfBs5UPNF5/?name=inline-1918989527.png)
 
 
 

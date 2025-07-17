@@ -25,7 +25,7 @@ O sitemap de sua loja está disponível em [http://www.[dominio].com(.br)/sitema
 
 ## Cadastrando Sitemap no Search Console
 
-Após a [Verificação de propriedade](https://help.vtex.com/pt/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594) de sua loja no Search Console, você já possuirá a permissão de cadastrar e relacionar o sitemap de sua loja.
+Após a [Verificação de propriedade](/pt/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594) de sua loja no Search Console, você já possuirá a permissão de cadastrar e relacionar o sitemap de sua loja.
 
 A indexação de sua loja não fica condicionada a inserção do sitemap, mas com a adição correta os crawlers compreenderão melhor a hirarquia de suas páginas e terá maior facilidade na indexação do conteúdo.
 
@@ -35,7 +35,7 @@ Para cadastar o Sitemap você deve executar as seguites ações:
 
 2. Selecione a opção **Sitemaps** na sessão **Rastreamento**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreamento-google-search-console-sitemap_1.png)
+![](https://images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)
 
 3. Clique no botão **Adicionar / Testar Sitemap****
 
@@ -43,13 +43,13 @@ Para cadastar o Sitemap você deve executar as seguites ações:
 
 5. Clique em **Enviar Sitemap**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreamento-google-search-console-sitemap_2.png)
+![](https://images.contentful.com/alneenqid6w5/5WlIFTSGm4MGc6Wg6a24qY/8b1ae91bbedfdd5bcae4e255cd649784/image01.png)
 
 6. O Search Console irá acessar o XML e verificar, clique na opção **Atualize a página** para visualizar o status das urls do sitemap enviado
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreamento-google-search-console-sitemap_3.png)
+![](https://images.contentful.com/alneenqid6w5/4H9Cm60mooYeeeEy0cOOaW/9d714db622a05eeda0dc52042b83aaf8/image02.png)
 
 7. Após adicionar com sucesso o sitemap no Search Console, a ferramenta disponibilizará o relatório de todas as URLs enviadas versus indexadas, segmentando por **Páginas da Web** e **Imagens**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/rastreamento-google-search-console-sitemap_4.png)
+![](https://images.contentful.com/alneenqid6w5/6e0WHJD0YMCaWIkE4Kcgm/db32fa9488506be988d648554c3e3c42/image03.png)
 

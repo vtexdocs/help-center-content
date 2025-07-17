@@ -1,5 +1,5 @@
 ---
-title: 'PDP no carga cuando se pasan caracteres especiales en el enlace'
+title: "PDP no carga cuando se pasan caracteres especiales en el enlace"
 id: 442RD31ld9TYWHAECLjTmu
 status: PUBLISHED
 createdAt: 2023-03-14T17:13:19.750Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: pdp-does-not-load-when-special-characters-are-passed-on-the-link
+slugEN: pdp-no-carga-cuando-se-pasan-caracteres-especiales-en-el-enlace
 locale: es
 kiStatus: Backlog
 internalReference: 770893
@@ -18,7 +18,9 @@ internalReference: 770893
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay algunos casos especiales en los que la tienda tiene un enlace a una página en la que se pasa un carácter especial como '#' para pasar una propiedad, por ejemplo, el color del artículo, que hace que el PDP no cargue a la primera, sino que sigue intentando cargar, pero cuando se refresca la página sí carga correctamente.

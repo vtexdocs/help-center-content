@@ -15,19 +15,20 @@ legacySlug: how-to-analyze-the-stock-movement-history
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-The inventory contains information about the products available in a store and in which [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) they are stored. You can use the inventory to keep track of the updates for each SKU: the number of items available, who made the changes, the dates when they were made, and the number of SKUs before the update.
+The inventory contains information about the products available in a store and in which [warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) they are stored. You can use the inventory to keep track of the updates for each SKU: the number of items available, who made the changes, the dates when they were made, and the number of SKUs before the update.
 
 This article contains instructions for accessing the inventory update history in the VTEX Admin. 
 
->ℹ️ Don't forget the difference between warehouse and inventory:
-> **[Warehouse:**](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) Name given to the store's storage locations.
->
-> **Inventory:** List of SKUs and warehouses in which they are stored.
+<div class = "alert alert-info">
+Don't forget the difference between warehouse and inventory:
+<p><b><a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">Warehouse:</b></a> Name given to the store's storage locations.</p>
+<p><b>Inventory:</b> List of SKUs and warehouses in which they are stored.</p>
+</div>
 
 To view the update history of a SKU, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Inventory > Inventory management**, or type *Inventory management* in the search bar at the top of the page. 
-2. Select the SKU of which you want to see the history. To learn how to use the filters and search, check out the article [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139).
+2. Select the SKU of which you want to see the history. To learn how to use the filters and search, check out the article [Inventory management](/en/tutorial/managing-stock-items--tutorials_139).
 3. In the **Last update** column, click the blue number.
 4. The **Update Logs** window will open with all the changes. Each row corresponds to an update, and the columns contain:
   * The user who made the change.	
@@ -35,7 +36,9 @@ To view the update history of a SKU, follow the steps below:
   * The quantity of items before the update.
   * The quantity of itemsafter the update.
 
->⚠️ You can only see the last 50 updates in the update log of a given SKU.
+<div class="alert alert-warning">
+You can only see the last 50 updates in the update log of a given SKU.
+</div>
 
-The total quantity of items on the [Inventory Management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
+The total quantity of items on the [Inventory Management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
 

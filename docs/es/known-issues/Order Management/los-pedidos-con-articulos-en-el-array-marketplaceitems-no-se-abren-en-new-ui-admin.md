@@ -1,5 +1,5 @@
 ---
-title: 'Los pedidos con artículos en el array MarketplaceItems no se abren en New UI Admin'
+title: "Los pedidos con artículos en el array MarketplaceItems no se abren en New UI Admin"
 id: 3tj9AKklBHm4tCKYgrfDi5
 status: PUBLISHED
 createdAt: 2022-09-13T03:06:57.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-items-on-array-marketplaceitems-is-not-opening-on-new-ui-admin
+slugEN: los-pedidos-con-articulos-en-el-array-marketplaceitems-no-se-abren-en-new-ui-admin
 locale: es
 kiStatus: Fixed
 internalReference: 656821
@@ -18,7 +18,9 @@ internalReference: 656821
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

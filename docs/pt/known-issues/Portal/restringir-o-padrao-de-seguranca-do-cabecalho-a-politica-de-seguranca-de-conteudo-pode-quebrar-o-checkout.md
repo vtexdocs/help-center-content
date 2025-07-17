@@ -1,5 +1,5 @@
 ---
-title: 'Restringir o padrão de segurança do cabeçalho A Política de Segurança de Conteúdo pode quebrar o Checkout'
+title: "Restringir o padrão de segurança do cabeçalho A Política de Segurança de Conteúdo pode quebrar o Checkout"
 id: 5fQXzMrLchSUENa53MXgf
 status: PUBLISHED
 createdAt: 2023-03-02T17:29:31.623Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout
+slugEN: restringir-o-padrao-de-seguranca-do-cabecalho-a-politica-de-seguranca-de-conteudo-pode-quebrar-o-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 763359
@@ -18,7 +18,9 @@ internalReference: 763359
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A restrição do cabeçalho da Política de Segurança de Conteúdo pode fazer com que os arquivos de checkout não sejam carregados. Por exemplo, a configuração `default-src 'self'` pode fazer com que arquivos provenientes do vtex.com não sejam carregados.

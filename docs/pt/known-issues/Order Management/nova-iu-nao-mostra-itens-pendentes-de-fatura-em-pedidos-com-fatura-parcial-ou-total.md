@@ -1,5 +1,5 @@
 ---
-title: 'Nova IU não mostra itens pendentes de fatura em pedidos com Fatura Parcial ou Total'
+title: "Nova IU não mostra itens pendentes de fatura em pedidos com Fatura Parcial ou Total"
 id: yIkfB9VkFUeywJzclMYKe
 status: PUBLISHED
 createdAt: 2022-08-26T14:24:13.932Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-does-not-show-items-pending-to-invoice-in-orders-with-partial-or-total-invoice
+slugEN: nova-iu-nao-mostra-itens-pendentes-de-fatura-em-pedidos-com-fatura-parcial-ou-total
 locale: pt
 kiStatus: Backlog
 internalReference: 646253
@@ -18,7 +18,9 @@ internalReference: 646253
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

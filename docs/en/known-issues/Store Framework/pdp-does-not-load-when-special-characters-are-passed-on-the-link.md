@@ -1,5 +1,5 @@
 ---
-title: 'PDP does not load when special characters are passed on the link'
+title: "PDP does not load when special characters are passed on the link"
 id: 442RD31ld9TYWHAECLjTmu
 status: PUBLISHED
 createdAt: 2023-03-14T17:13:19.750Z

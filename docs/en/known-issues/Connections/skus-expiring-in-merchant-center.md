@@ -1,5 +1,5 @@
 ---
-title: 'SKUs expiring in Merchant Center'
+title: "SKUs expiring in Merchant Center"
 id: 3Xp43ibDVBhJDHtQgHzuzb
 status: PUBLISHED
 createdAt: 2022-03-22T20:57:40.346Z

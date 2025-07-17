@@ -1,5 +1,5 @@
 ---
-title: 'As opções de frete não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado'
+title: "As opções de frete não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado"
 id: 36iHQO4mxxTY2KbF8mkrDv
 status: PUBLISHED
 createdAt: 2023-05-26T21:26:45.607Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-options-are-not-shown-in-the-cart-when-there-is-scheduled-delivery-and-lean-shipping-activated
+slugEN: as-opcoes-de-frete-nao-sao-exibidas-no-carrinho-quando-ha-entrega-programada-e-o-lean-shipping-esta-ativado
 locale: pt
 kiStatus: Backlog
 internalReference: 362685
@@ -18,7 +18,9 @@ internalReference: 362685
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, quando o endereço é selecionado, as lojas com o Lean Shipping ativado e que oferecem entrega/coleta agendada não mostram todas as opções disponíveis na visualização do envio; somente a entrega regular é mostrada e selecionada.

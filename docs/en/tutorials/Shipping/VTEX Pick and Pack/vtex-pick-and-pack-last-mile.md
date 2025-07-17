@@ -15,16 +15,20 @@ legacySlug: vtex-pick-and-pack-last-mile
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
+<div class = "alert alert-info">
+If you are interested in implementing for your business, fill out our <a href="https://vtex.com/us-en/contact/">form</a> and indicate the name of the desired product in the <code>Comments</code> section.
+</div>
 
-[VTEX Pick and Pack](https://content.vtex.com/en/pick-and-pack/) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [VTEX Fulfillment](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) and the **Last Mile** modules. 
+[VTEX Pick and Pack](https://content.vtex.com/en/pick-and-pack/) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [VTEX Fulfillment](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) and the **Last Mile** modules. 
 
 With **Last Mile**, merchants have complete visibility of shipping and order tracking. The module has the following sections:
 
 * [Shipping services](#shipping-services)
 * [Settings](#settings)
 
->ℹ️ To start using Last Mile, it is necessary to adjust the feature's Settings.
+<div class="alert alert-info">
+To start using Last Mile, it is necessary to adjust the feature's Settings.
+</div>
 
 ## Shipping services
 
@@ -39,7 +43,7 @@ The following table contains a description of the columns:
 |  Customer  | Name and address of the customer who made the purchase.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |   Item(s)  | Total number of items that will be delivered. If two packages have three items each, in this column you will see the number six.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |  Deadline  | Limit date for the customer to receive the order.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|   Status   | The Shipping service statuses are:<br>- Created: The shipping service has just been created. This is an internal status that validates the service data.<br>- Pending: This is the service first status, of when the system sends the information to the carrier and creates the service on the carrier’s side.<br>- Assigned: The carrier has assigned a courier for the task and the courier has accepted the shipping service.<br>- Canceled: The shipping service was canceled.<br>- Delivered: The order was delivered to the customer, whether it’s their address or a [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).<br>- Incident: The carrier or courier reported an incident, a problem with the road, for example. The courier can [add a note](#field-templates-section) giving more details.<br>- On hold: The courier puts the shipping service on hold. That can happen for many reasons, a broken vehicle, for example. When it happens, the courier can give an [explanation note](#field-templates-section).<br>- On route: The courier has collected the package in the physical store or [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb), for example.<br>- Picked: The courier has collected the package.<br>- Returned: The customer couldn’t be reached or refused to receive the package, so the order was returned. |
+|   Status   | The Shipping service statuses are:<br>- Created: The shipping service has just been created. This is an internal status that validates the service data.<br>- Pending: This is the service first status, of when the system sends the information to the carrier and creates the service on the carrier’s side.<br>- Assigned: The carrier has assigned a courier for the task and the courier has accepted the shipping service.<br>- Canceled: The shipping service was canceled.<br>- Delivered: The order was delivered to the customer, whether it’s their address or a [pickup point](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).<br>- Incident: The carrier or courier reported an incident, a problem with the road, for example. The courier can [add a note](#field-templates-section) giving more details.<br>- On hold: The courier puts the shipping service on hold. That can happen for many reasons, a broken vehicle, for example. When it happens, the courier can give an [explanation note](#field-templates-section).<br>- On route: The courier has collected the package in the physical store or [warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb), for example.<br>- Picked: The courier has collected the package.<br>- Returned: The customer couldn’t be reached or refused to receive the package, so the order was returned. |
 
 You can perform the following actions in the **Shipping services**:
 
@@ -67,7 +71,7 @@ You can filter shipping services using different criteria, by clicking `Filters`
 
 * **Status:** Shipping services [statuses](#view-shipping-service-details).  
 * **Carrier:** Company responsible for delivering the package to the customer.  
-* **Payment:** [Payment method](https://help.vtex.com/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used by the customer, like a credit or a debit card.  
+* **Payment:** [Payment method](/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used by the customer, like a credit or a debit card.  
 * **Store:** Which store is related to the shipping service.  
 
 You can combine as many filters as you want. To do so, click **Filters > + Add Filter**, and then on the menu <i class="fas fa-ellipsis-v"></i> click `Duplicate`. If you wish to delete a filter, in the menu <i class="fas fa-ellipsis-v"></i> click `Delete`.
@@ -84,13 +88,15 @@ To manually create a shipping service from an order, follow the steps below:
 2. Click `Create Service`.
 3. Search the order by entering the order ID in the search box or filter orders by creation date, using the `Filter` button. 
 
-  >⚠️ Only orders in the `invoiced` status will appear in the list and search results.
+  <div class="alert alert-warning">
+Only orders in the <code>invoiced</code> status will appear in the list and search results.
+</div>
 
 4. Click the order.  
 5. Click `Create From Order {order ID}` and you will be redirected to the _New Shipping Service_ page.   
 6. Most of the data will have been imported from the order, but you can still change it, if needed. Check the information and make the necessary changes in the tabs:  
-    - **Pickup:** Fill in with the address information of where the courier will collect the packages. Be aware that this field has no relation with the usual concept of [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) in VTEX.
-    - **Delivery:** Fill in with the address information of where the courier will deliver the packages, whether the customer’s address or a [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). 
+    - **Pickup:** Fill in with the address information of where the courier will collect the packages. Be aware that this field has no relation with the usual concept of [pickup point](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) in VTEX.
+    - **Delivery:** Fill in with the address information of where the courier will deliver the packages, whether the customer’s address or a [pickup point](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). 
     - **Content:** Select the content of the delivery, it can be _Order items, Order invoices_ or _Other._
     - **Carrier:** Select the expected date for the courier to collect the packages, and the expected date for the package to get to its destination. After that, click the carrier to select it for the shipping service.
 7. When everything is ready, the `Create Service` button will appear and you must click it. 
@@ -275,18 +281,22 @@ To activate an external carrier, follow these steps:
 
 ### Users
 
-The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **Last Mile**, there is the _admin_ user, but it does not mean the [Sponsor user](https://help.vtex.com/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) - also referred as _Admin Super_ and _Owner_.
+The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **Last Mile**, there is the _admin_ user, but it does not mean the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) - also referred as _Admin Super_ and _Owner_.
 
->ℹ️ For more information, see the articles [Roles](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) resources.
+<div class="alert alert-info">
+ For more information, see the articles <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">Roles</a> and <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> resources.
+</div>
 
-To become an admin user in the **Last Mile** module, you must have certain License Manager permissions. We recommend [creating a role](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identified as “_Fulfillment admin”_, which must have at least the following products and resources associated with it:
+To become an admin user in the **Last Mile** module, you must have certain License Manager permissions. We recommend [creating a role](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identified as “_Fulfillment admin”_, which must have at least the following products and resources associated with it:
 
 |     Product     |                                                                                                                        Associated Resources                                                                                                                        |
 |:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     Insights    | Insights metrics                                                                                                                                                                                                                                                   |
 | License Manager | Get account by identifier<br>Get applications<br>Find user by email<br>View users with account access<br>View all admin users<br>Get resource by key<br>Get role<br>Get paged roles<br>Get paged users<br>Get admin status<br>Get accounts<br>Get accounts by host |
 |    Field Type   | Field's data type. For Read & Write permission, it can be:<br>Number<br>Text<br>Image<br>Date<br>Barcode<br>Check<br>Email<br>For Read Only permission, it can be Number, Text and Email.                                                                          |
->⚠️ If you are an admin user in [VTEX Fulfillment](link), you will automatically be an admin user in Last Mile.
+<div class="alert alert-warning">
+If you are an admin user in <a href="link">VTEX Fulfillment</a>, you will automatically be an admin user in Last Mile.
+</div>
 
 In **Users**, you can perform the following actions:
 
@@ -323,7 +333,7 @@ The only user profile that can configure **Last Mile** is the admin user. To cre
 
 #### Edit user
 
-Although it is only possible to create admin users in **Last Mile**, an admin user can edit all of the users listed in the page, whether they are admins, pickers or customer services. To know more about these other users, see [VTEX Fulfillment](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA).
+Although it is only possible to create admin users in **Last Mile**, an admin user can edit all of the users listed in the page, whether they are admins, pickers or customer services. To know more about these other users, see [VTEX Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA).
 
 You can edit the information listed below. 
 
@@ -351,7 +361,9 @@ To generate an Api-Key, follow the steps below:
 3. Click `Generate`.
 4. Save the Api-Key in a safe place.
 
-  >❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
+  <div class="alert alert-danger">
+You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
+</div>
 
 5. Enter the password meant for who is using the mobile application.
 6. Click `Save`.

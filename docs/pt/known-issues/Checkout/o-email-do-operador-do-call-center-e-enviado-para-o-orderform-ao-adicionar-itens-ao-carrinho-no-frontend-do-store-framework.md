@@ -1,5 +1,5 @@
 ---
-title: 'O e-mail do operador do call center é enviado para o orderForm ao adicionar itens ao carrinho no front-end do Store Framework'
+title: "O e-mail do operador do call center é enviado para o orderForm ao adicionar itens ao carrinho no front-end do Store Framework"
 id: 3KwP4q7VZsu6e3c1DwWY5t
 status: PUBLISHED
 createdAt: 2024-07-16T20:06:11.748Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: call-center-operators-email-is-sent-to-orderform-when-adding-items-to-cart-from-store-framework-frontend
+slugEN: o-email-do-operador-do-call-center-e-enviado-para-o-orderform-ao-adicionar-itens-ao-carrinho-no-frontend-do-store-framework
 locale: pt
 kiStatus: Backlog
 internalReference: 1066571
@@ -18,7 +18,9 @@ internalReference: 1066571
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar os componentes do Store Framework para adicionar itens a um carrinho enquanto estiver conectado como um operador de call center e não estiver se passando por um cliente, o e-mail do operador é preenchido no anexo clientProfileData do formulário de pedido.

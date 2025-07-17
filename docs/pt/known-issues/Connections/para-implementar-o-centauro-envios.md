@@ -1,5 +1,5 @@
 ---
-title: "[Para implementar o 'Centauro Envios"
+title: '[Para implementar o "Centauro Envios'
 id: 1xkjyfVfT8Fs2as9mbNjj3
 status: PUBLISHED
 createdAt: 2022-11-25T21:23:23.849Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: centauro-to-implement-centauro-envios
+slugEN: para-implementar-o-centauro-envios
 locale: pt
 kiStatus: No Fix
 internalReference: 618941

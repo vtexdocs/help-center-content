@@ -1,5 +1,5 @@
 ---
-title: 'UseSessionRegionAtCheckout não funciona corretamente ao adicionar o primeiro item ao carrinho'
+title: "UseSessionRegionAtCheckout não funciona corretamente ao adicionar o primeiro item ao carrinho"
 id: 2NzgWTbaHF47f5dl49A2D5
 status: PUBLISHED
 createdAt: 2023-10-24T22:51:27.435Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: usesessionregionatcheckout-doesnt-work-properly-when-adding-the-first-item-to-the-cart
+slugEN: usesessionregionatcheckout-nao-funciona-corretamente-ao-adicionar-o-primeiro-item-ao-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 925049
@@ -18,7 +18,9 @@ internalReference: 925049
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se uma conta tiver a opção "UseSessionRegionAtCheckout" configurada, ao adicionar um item e o formulário de pedido não tiver "shippingData", o vendedor não será definido, mostrando preços e disponibilidade diferentes.

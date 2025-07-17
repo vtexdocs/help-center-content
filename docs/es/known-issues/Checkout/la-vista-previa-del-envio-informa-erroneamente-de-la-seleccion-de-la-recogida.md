@@ -1,5 +1,5 @@
 ---
-title: 'La vista previa del envío informa erróneamente de la selección de la recogida'
+title: "La vista previa del envío informa erróneamente de la selección de la recogida"
 id: 1KfCAK44prpDXLKUSVmm7O
 status: PUBLISHED
 createdAt: 2022-03-30T17:47:49.278Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-wrongly-reporting-pickup-selection
+slugEN: la-vista-previa-del-envio-informa-erroneamente-de-la-seleccion-de-la-recogida
 locale: es
 kiStatus: Backlog
 internalReference: 552912
@@ -18,7 +18,9 @@ internalReference: 552912
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el carrito, al informar de su ubicación, la vista previa del envío informa erróneamente de qué recogida se ha seleccionado para esta recogida. Cuando en realidad deberían aparecer dos opciones de recogida (en este ejemplo hubo una rotura de paquete). Y al llegar a la caja, la información se proporciona correctamente, con las retiradas en las respectivas recogidas correctas.

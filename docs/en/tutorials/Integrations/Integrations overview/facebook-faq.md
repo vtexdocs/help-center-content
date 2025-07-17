@@ -36,7 +36,7 @@ The first step in this scenario is to investigate whether the SKU in fact does n
 
 If the SKU does have a price, check its status, as the error may also be related to its active/inactive status. The best way to do this is by performing a checkout simulation:
 
-![face faq01](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_1.JPG)
+![face faq01](https://images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
 
 In this simulation, it is important to analyze the following fields:
 
@@ -53,7 +53,7 @@ This process is recommended for authentication issues concerning the Facebook in
 
 #### Deleting VTEX integration app on Facebook 
 1. Deleting VTEX integration app on Facebook 
-2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_2.JPG" />
+2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
 3.  Select **Settings and Privacy**, then click on **Settings**.
 4.  Click on **Business integrations**.
 5.  Select VTEX Integration and click **Remove**.
@@ -62,7 +62,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. Go to [Facebook Business Manager](https://business.facebook.com/).
 2. Click on **Settings**.
 3. Click on **Business Settings**.
-4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integrations%20overview/facebook-faq_3.JPG" />
+4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
 5. Click **Confirm**.
 
 #### Deleting Facebook integration on VTEX
@@ -77,7 +77,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. In the Admin menu, click on **Integrations**.
 2. Click **Settings**.
 3. In the Facebook card, click on **Integrate**.
-4. Fill in the fields in the modal window (see [field details](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B))
+4. Fill in the fields in the modal window (see [field details](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B))
 5. Click **Save configuration**.
 
 When authenticating with Facebook, after reconfiguring the integration, it is important that the permissions requested by the APP are granted without exceptions.
@@ -92,8 +92,8 @@ The platform natively offers login options with email and password, and also log
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](https://help.vtex.com/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 #### Setting up the integration in your store
 

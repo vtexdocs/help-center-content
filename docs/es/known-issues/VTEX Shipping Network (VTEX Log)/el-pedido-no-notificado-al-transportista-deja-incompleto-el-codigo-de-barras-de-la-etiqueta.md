@@ -1,5 +1,5 @@
 ---
-title: 'El pedido no notificado al transportista deja incompleto el código de barras de la etiqueta'
+title: "El pedido no notificado al transportista deja incompleto el código de barras de la etiqueta"
 id: 2QjxFv2Ul2wKCdnYtrlF0T
 status: PUBLISHED
 createdAt: 2023-08-01T16:55:39.774Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: VTEX Shipping Network (VTEX Log)
 author: 2mXZkbi0oi061KicTExNjo
 tag: VTEX Shipping Network (VTEX Log)
-slugEN: order-not-notified-carrier-leaves-label-barcode-incomplete
+slugEN: el-pedido-no-notificado-al-transportista-deja-incompleto-el-codigo-de-barras-de-la-etiqueta
 locale: es
 kiStatus: Backlog
 internalReference: 872530
@@ -18,7 +18,9 @@ internalReference: 872530
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes que utilizan transportistas asociados a la Red de Envíos, al solicitar la emisión de etiquetas en Listo para enviar, pueden obtener el archivo con el código de barras incompleto, lo que puede impedir que se envíe el paquete.

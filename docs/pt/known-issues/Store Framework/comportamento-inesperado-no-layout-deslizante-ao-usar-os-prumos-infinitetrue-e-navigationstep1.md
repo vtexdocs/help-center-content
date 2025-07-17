@@ -1,5 +1,5 @@
 ---
-title: 'Comportamento inesperado no layout deslizante ao usar os prumos infinite=true e navigationStep=1'
+title: "Comportamento inesperado no layout deslizante ao usar os prumos infinite=true e navigationStep=1"
 id: 2uSG9sqj32yL3wHt0SUnOO
 status: PUBLISHED
 createdAt: 2022-02-01T19:49:07.658Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: unexpected-behavior-in-slider-layout-when-using-the-props-infinitetrue-and-navigationstep1
+slugEN: comportamento-inesperado-no-layout-deslizante-ao-usar-os-prumos-infinitetrue-e-navigationstep1
 locale: pt
 kiStatus: Backlog
 internalReference: 462895
@@ -18,7 +18,9 @@ internalReference: 462895
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Um comportamento inesperado ocorre quando se utiliza o vtex.slider-layout, se estes dois prumos forem colocados juntos:

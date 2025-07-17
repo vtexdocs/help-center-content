@@ -1,5 +1,5 @@
 ---
-title: 'Tax service uses document data instead of customer email'
+title: "Tax service uses document data instead of customer email"
 id: IOu1ZV40Q5yHjgbcS9C15
 status: PUBLISHED
 createdAt: 2022-03-23T17:50:15.754Z

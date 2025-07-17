@@ -1,5 +1,5 @@
 ---
-title: 'Checkout does not display shipping promotion at first instant for specific condition'
+title: "Checkout does not display shipping promotion at first instant for specific condition"
 id: 14rQaM53csQQeA1wu5lRj8
 status: PUBLISHED
 createdAt: 2022-05-20T17:46:10.644Z

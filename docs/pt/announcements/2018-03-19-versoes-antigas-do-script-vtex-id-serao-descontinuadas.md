@@ -27,9 +27,9 @@ Para essa mudança acontecer, o script do VTEX ID deverá ser chamado a partir d
 
 Esse novo método traz uma série de vantagens: ainda mais agilidade nas melhorias do script, garantia de que sua loja está usando a versão mais recente e o fim da necessidade de alterar a rota de chamada depois de uma atualização.
 
->⚠️ **Atenção:**
->
-> 
-> Não recomendamos o uso do link com a versão hard-coded, porque em breve vamos suspender o suporte a esse modo de importação do script.
+<div class="alert alert-warning">
+<strong>Atenção:</strong><br>
+Não recomendamos o uso do link com a versão hard-coded, porque em breve vamos suspender o suporte a esse modo de importação do script.
+</div>
 
 Como essas mudanças impactam diretamente no acesso do cliente à sua loja, recomendamos que você não espere o prazo final e passe a utilizar o novo método de chamada do script do VTEX ID o quanto antes.

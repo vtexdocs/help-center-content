@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile'
+title: "Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile"
 id: NmN6oNKp1isyxssTE5jPR
 status: PUBLISHED
 createdAt: 2023-11-27T17:40:11.335Z
@@ -29,7 +29,7 @@ When a shopper has a complete profile and the store is configured to use an invo
 
 
 - Configure the invoice address for pick-up;
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/checkout-ui-goes-to-payment-with-an-incomplete-invoice-address-for-shoppers-with-complete-profile_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1zJ19Lq9oJ5CHdkaHUfw4SAka/?name=image.png)
 
 - After adding products to the cart, use an email with a complete profile;
 - UI will move forward to Payment even with an incomplete invoice address in the Profile System.

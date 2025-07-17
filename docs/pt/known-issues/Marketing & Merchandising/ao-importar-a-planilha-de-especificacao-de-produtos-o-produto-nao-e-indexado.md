@@ -1,5 +1,5 @@
 ---
-title: 'Ao importar a planilha de Especificação de Produtos o produto não é indexado'
+title: "Ao importar a planilha de Especificação de Produtos o produto não é indexado"
 id: 6MQhj9Kqsg4w0iUuecgGqg
 status: PUBLISHED
 createdAt: 2017-11-27T17:42:48.080Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: after-importing-the-product-specification-worksheet-the-product-is-not-indexed
+slugEN: ao-importar-a-planilha-de-especificacao-de-produtos-o-produto-nao-e-indexado
 locale: pt
 kiStatus: Backlog
 internalReference: 

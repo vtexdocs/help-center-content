@@ -22,7 +22,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![merch-rules-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Relevance/merchandising-rules-list_1.PNG)
+![merch-rules-en](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
 
 The page displays the following information: 
 
@@ -41,7 +41,7 @@ To add a new merchandising rule, click `+ New`. Learn more about all the informa
 
 ### Types of editing
 
-There are two types of editor to create or modify Merchandising rules: the [Manual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
+There are two types of editor to create or modify Merchandising rules: the [Manual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
 
 Below are the features of each editor:
 

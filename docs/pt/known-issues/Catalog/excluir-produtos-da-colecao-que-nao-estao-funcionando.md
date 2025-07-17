@@ -1,5 +1,5 @@
 ---
-title: 'Excluir produtos da coleção que não estão funcionando.'
+title: "Excluir produtos da coleção que não estão funcionando."
 id: 102Z3QRDo07OM6IPJCDlsY
 status: PUBLISHED
 createdAt: 2023-10-20T16:30:13.646Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: exclude-products-from-collection-not-working
+slugEN: excluir-produtos-da-colecao-que-nao-estao-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 923016
@@ -18,7 +18,9 @@ internalReference: 923016
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A conta pode criar coleções usando a versão antiga e adicionar coleções e marcas inteiras.

@@ -1,5 +1,5 @@
 ---
-title: 'Divergência entre valor total do pedido e valor total dos produtos'
+title: "Divergência entre valor total do pedido e valor total dos produtos"
 id: 20XszEUpq8MKweAyqMyIkM
 status: PUBLISHED
 createdAt: 2018-08-22T19:31:56.591Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergence-between-total-order-value-and-total-products-value
+slugEN: divergencia-entre-valor-total-do-pedido-e-valor-total-dos-produtos
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -26,7 +26,7 @@ O pedido é fechado e transacionado normalmente na VTEX mas, dependendo dos flux
 
 Exemplo de ocorrência:
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/divergencia-entre-valor-total-do-pedido-e-valor-total-dos-produtos_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
 
 Nesse caso, o valor total do pedido cobrado do cliente ficou em `R$ 7,98`. No entanto, ao somar os valores de venda registrados em cada produto, o total seria de `R$ 7,95`.
 

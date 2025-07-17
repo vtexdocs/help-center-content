@@ -1,5 +1,5 @@
 ---
-title: '[Revista Luiza] [Pedido cancelado en Marketplace no cancelado en VTEX]'
+title: "[Revista Luiza] [Pedido cancelado en Marketplace no cancelado en VTEX]"
 id: 2HVJfeuKd74BYRpUKlpsQN
 status: PUBLISHED
 createdAt: 2023-04-18T16:53:18.470Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magazine-luiza-order-canceled-on-marketplace-didnt-cancel-on-vtex
+slugEN: revista-luiza-pedido-cancelado-en-marketplace-no-cancelado-en-vtex
 locale: es
 kiStatus: Backlog
 internalReference: 792618
@@ -18,7 +18,9 @@ internalReference: 792618
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El pedido se canceló en el mercado, pero en OMS se canceló y sigue en el estado "Esperando autorización para envío"

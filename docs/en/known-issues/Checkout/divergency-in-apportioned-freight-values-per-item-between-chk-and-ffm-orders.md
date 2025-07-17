@@ -1,5 +1,5 @@
 ---
-title: 'Divergency in apportioned freight values per item between CHK and FFM orders'
+title: "Divergency in apportioned freight values per item between CHK and FFM orders"
 id: 6v4Fero4fkOw3omZOl21Xf
 status: PUBLISHED
 createdAt: 2022-01-24T20:24:18.002Z

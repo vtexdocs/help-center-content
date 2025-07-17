@@ -1,5 +1,5 @@
 ---
-title: 'El artículo de promoción no se mostrará dividido después de añadir los datos de preferencias del cliente'
+title: "El artículo de promoción no se mostrará dividido después de añadir los datos de preferencias del cliente"
 id: 3bme5oDKxbRyQzozUP6XNp
 status: PUBLISHED
 createdAt: 2023-06-12T20:09:11.042Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: promotion-item-will-not-show-splitted-after-adding-client-preferences-data
+slugEN: el-articulo-de-promocion-no-se-mostrara-dividido-despues-de-anadir-los-datos-de-preferencias-del-cliente
 locale: es
 kiStatus: Backlog
 internalReference: 842575
@@ -18,7 +18,9 @@ internalReference: 842575
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

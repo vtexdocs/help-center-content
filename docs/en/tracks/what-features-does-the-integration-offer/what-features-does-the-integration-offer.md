@@ -14,4 +14,6 @@ trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: what-features-does-the-integration-offer
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class= "alert alert-warning">
+This is a regional exclusive content not applicable to English speaking countries.
+</div>

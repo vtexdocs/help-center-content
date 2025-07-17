@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-kushki
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Kushki es un [gateway](https://help.vtex.com/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) con certificación [PCI](https://help.vtex.com/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) que opera enfocado en América Latina.
+Kushki es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) con certificación [PCI](/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) que opera enfocado en América Latina.
 
 Para configurar Kushki, siga estos pasos:
 
@@ -27,8 +27,8 @@ Para configurar Kushki, siga estos pasos:
 6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
 7. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Liquido Payment, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Liquido Payment, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Kushki puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

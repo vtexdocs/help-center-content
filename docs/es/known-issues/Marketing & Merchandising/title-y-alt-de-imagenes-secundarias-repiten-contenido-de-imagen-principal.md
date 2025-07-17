@@ -1,5 +1,5 @@
 ---
-title: 'Title y Alt de imágenes secundarias repiten contenido de imagen principal'
+title: "Title y Alt de imágenes secundarias repiten contenido de imagen principal"
 id: F3uErEnXLaa8GEesQkk0c
 status: PUBLISHED
 createdAt: 2017-09-27T20:06:18.992Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: secondary-images-title-and-alt-repeat-main-images-content
+slugEN: title-y-alt-de-imagenes-secundarias-repiten-contenido-de-imagen-principal
 locale: es
 kiStatus: Backlog
 internalReference: 

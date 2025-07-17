@@ -1,5 +1,5 @@
 ---
-title: 'Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra'
+title: "Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra"
 id: 1xkpnp0vxR0O8sJYARcFJF
 status: PUBLISHED
 createdAt: 2022-08-11T18:41:25.906Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: partial-scheduled-delivery-window-selection-for-the-same-sla-affecting-the-purchase-flow
+slugEN: selecao-parcial-da-janela-de-entrega-programada-para-o-mesmo-sla-afetando-o-fluxo-de-compra
 locale: pt
 kiStatus: Backlog
 internalReference: 627261
@@ -18,7 +18,9 @@ internalReference: 627261
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A alteração do endereço pode alterar as opções de remessa de um item e, naturalmente, pode remover a seleção da janela de entrega para entregas programadas, se as opções forem diferentes.

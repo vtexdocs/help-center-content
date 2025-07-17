@@ -1,5 +1,5 @@
 ---
-title: 'La captura de solicitudes no registra nuevos eventos cuando se utilizan almacenes heredados'
+title: "La captura de solicitudes no registra nuevos eventos cuando se utilizan almacenes heredados"
 id: 5at40vZVpqL3Xansc726uv
 status: PUBLISHED
 createdAt: 2022-06-23T21:38:07.187Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: request-capture-not-registering-new-events-when-using-legacy-stores
+slugEN: la-captura-de-solicitudes-no-registra-nuevos-eventos-cuando-se-utilizan-almacenes-heredados
 locale: es
 kiStatus: Backlog
 internalReference: 604254
@@ -18,7 +18,9 @@ internalReference: 604254
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se utilizan los almacenes VTEX del portal (almacenes IO no VTEX) la aplicación de captura de solicitudes no está registrando eventos específicamente para las visitas a la página del producto.

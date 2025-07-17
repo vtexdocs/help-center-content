@@ -27,8 +27,8 @@ Para configurar Koin-Payments, siga los pasos a continuación:
 6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en__ Activar modo de prueba__.
 7. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Koin-Payments, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Koin-Payments, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Koin-Payments puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

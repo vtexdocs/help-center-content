@@ -1,5 +1,5 @@
 ---
-title: 'Received Skus: Export function not working for admins in other languages (only PT, EN, ES)'
+title: "Received Skus: Export function not working for admins in other languages (only PT, EN, ES)"
 id: 2fV4YP1dpdQRBYqT9S7Lzi
 status: PUBLISHED
 createdAt: 2022-09-29T14:23:38.774Z

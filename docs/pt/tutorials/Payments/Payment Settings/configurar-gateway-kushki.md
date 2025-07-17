@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-kushki
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A Kushki é um [gateway](https://help.vtex.com/pt/tutorial/o-que-e-um-gateway-de-pagamentos--2KH9Wdi7F6swOU4amECSOk) com certificação [PCI](https://help.vtex.com/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) e atuação focada na América Latina.
+A Kushki é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos--2KH9Wdi7F6swOU4amECSOk) com certificação [PCI](/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) e atuação focada na América Latina.
 
 Para configurar a Kushki, siga os passos abaixo:
 
@@ -27,8 +27,8 @@ Para configurar a Kushki, siga os passos abaixo:
 6. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
 7. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Kushki, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Kushki, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, Kushki pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento.

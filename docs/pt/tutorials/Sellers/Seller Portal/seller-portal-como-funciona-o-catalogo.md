@@ -21,15 +21,15 @@ O Catálogo do Seller Portal é o módulo onde você configura o sortimento de p
 
 A arquitetura do Catálogo do Seller Portal se baseia em alguns conceitos fundamentais distribuídos na seguinte hierarquia:
 
-![ilustra-catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-como-funciona-o-catalogo_1.png)
+![ilustra-catalogo](https://images.ctfassets.net/alneenqid6w5/3U5oa9w94stDXltSJPqF1V/95ac8458ebfd20bba03c8669a1e27fdf/ilustra-catalogo.png)
 
 - **Categorias:**  formas de organizar os seus produtos. Não é possível adicionar suas próprias Categorias, o marketplace é quem define as categorias disponíveis para enquadrar seus produtos. Cada produto estará obrigatoriamente relacionado a uma categoria já criada pelo marketplace.   
 - **Marcas:**  fazem parte dos atributos que caracterizam os Produtos da sua loja. Desta maneira, seus clientes também podem encontrar o que buscam de forma mais específica. Não é possível adicionar suas próprias marcas, as marcas na aba `Marcas` já foram importadas do marketplace.    
 - **Produtos:** os itens ofertados na vitrine do marketplace.  Podemos entendê-los como uma definição mais genérica dos itens que são vendidos em sua loja.    
-- **Produtos Compartilhados:** os produtos em comum entre seu catálogo e o que já  é ofertado no marketplace. Não é necessário fazer o cadastro desses produtos, você pode definir apenas seu preço e estoque no módulo de Produtos Compartilhados. O painel de produtos compartilhados te informa automaticamente todos os produtos que o marketplace disponibilizou especificamente para sua loja, como seller. Saiba mais em nosso artigo sobre [produtos compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).           
+- **Produtos Compartilhados:** os produtos em comum entre seu catálogo e o que já  é ofertado no marketplace. Não é necessário fazer o cadastro desses produtos, você pode definir apenas seu preço e estoque no módulo de Produtos Compartilhados. O painel de produtos compartilhados te informa automaticamente todos os produtos que o marketplace disponibilizou especificamente para sua loja, como seller. Saiba mais em nosso artigo sobre [produtos compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).           
 - **Especificações:** propriedades adicionais que podem ser aplicadas aos produtos da sua loja. A especificação de produto geralmente é utilizada para criar filtros de navegação no marketplace ou para exibir uma informação adicional na tela do produto.    
 -  **Variações:** contêm as características que definem um tipo específico de produto e o diferenciam das outras opções ofertadas pela sua loja. São os itens que os consumidores realmente compram e que existem efetivamente no seu estoque.   
-- **Anúncios:**  anúncios são produtos ou variações de um seller, com condições próprias de preço e estoque, e que foram enviados para um canal, o marketplace. Saiba mais em [Anúncios](https://help.vtex.com/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
+- **Anúncios:**  anúncios são produtos ou variações de um seller, com condições próprias de preço e estoque, e que foram enviados para um canal, o marketplace. Saiba mais em [Anúncios](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
 
 ## Exemplos de categoria, produto e variações 
 
@@ -53,8 +53,8 @@ Contudo, existem vários tipos diferentes de micro-ondas. Desse modo, você pode
 
 ## Artigos Relacionados
 
-- [Seller Portal: Produtos Compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
-- [Seller Portal: Detalhes do produto](https://help.vtex.com/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
-- [Seller Portal: Primeiros Passos](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
+- [Seller Portal: Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
+- [Seller Portal: Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
+- [Seller Portal: Primeiros Passos](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
 [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/admin/app/docs/seller-portal/tutorials/3RwSj7AyBoPtFbXkS7REiu)    
 

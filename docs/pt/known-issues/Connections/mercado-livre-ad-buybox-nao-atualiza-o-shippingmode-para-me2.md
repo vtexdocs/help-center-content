@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] AD BuyBox não atualiza o shipping_mode para ME2'
+title: "[Mercado Livre] AD BuyBox não atualiza o shipping_mode para ME2"
 id: 5XmZsbZz1171a04dWPs2MY
 status: PUBLISHED
 createdAt: 2024-06-03T11:38:34.337Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-ad-buybox-doesnt-update-shippingmode-for-me2
+slugEN: mercado-livre-ad-buybox-nao-atualiza-o-shippingmode-para-me2
 locale: pt
 kiStatus: Backlog
 internalReference: 1042779
@@ -18,7 +18,9 @@ internalReference: 1042779
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Finalizamos os ajustes.

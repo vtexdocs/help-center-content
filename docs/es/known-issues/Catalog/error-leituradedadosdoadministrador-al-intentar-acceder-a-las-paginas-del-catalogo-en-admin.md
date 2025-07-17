@@ -1,5 +1,5 @@
 ---
-title: 'Error (LeituraDeDadosDoAdministrador) al intentar acceder a las páginas del catálogo en admin'
+title: "Error (LeituraDeDadosDoAdministrador) al intentar acceder a las páginas del catálogo en admin"
 id: 40EruMGkO9DVEwb7RZ5nxF
 status: PUBLISHED
 createdAt: 2024-06-25T18:30:24.815Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin
+slugEN: error-leituradedadosdoadministrador-al-intentar-acceder-a-las-paginas-del-catalogo-en-admin
 locale: es
 kiStatus: Backlog
 internalReference: 1055578
@@ -18,7 +18,9 @@ internalReference: 1055578
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos usuarios incluso con el rol correcto reciben un error "El usuario xx no tiene acceso a la página solicitada (LeituraDeDadosDoAdministrador)" al acceder a las páginas del catálogo en admin.

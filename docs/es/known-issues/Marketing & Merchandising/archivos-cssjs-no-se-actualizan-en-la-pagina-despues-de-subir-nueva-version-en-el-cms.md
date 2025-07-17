@@ -1,5 +1,5 @@
 ---
-title: 'Archivos (CSS/JS) no se actualizan en la página después de subir nueva versión en el CMS'
+title: "Archivos (CSS/JS) no se actualizan en la página después de subir nueva versión en el CMS"
 id: 4qNIpSPGo8a8ugyemwYAuK
 status: PUBLISHED
 createdAt: 2018-02-09T19:04:53.387Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: files-cssjs-are-not-updated-on-page-after-uploading-new-version-in-cms
+slugEN: archivos-cssjs-no-se-actualizan-en-la-pagina-despues-de-subir-nueva-version-en-el-cms
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com easypay'
 id: 3xJQqjMIn0ARDI1HcwK88J
 status: PUBLISHED
 createdAt: 2023-09-18T16:48:21.184Z
-updatedAt: 2024-06-17T15:38:51.146Z
-publishedAt: 2024-06-17T15:38:51.146Z
+updatedAt: 2025-02-20T21:51:18.025Z
+publishedAt: 2025-02-20T21:51:18.025Z
 firstPublishedAt: 2023-09-18T18:53:57.235Z
 contentType: tutorial
 productTeam: Financial
@@ -25,7 +25,7 @@ Para utilizar easypay, é necessário:
 - [Configurar afiliação easypay](#configurar-afiliacao-easypay)
 - [Configurar pagamento com Apple Pay na easypay (opcional)](#configurar-pagamento-com-apple-pay-na-easypay-opcional)    
 
->⚠️ Caso você seja um marketplace ou seller, acesse os artigos [Configurar pagamento com easypay no Marketplace](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7) ou [Configurar pagamento com easypay seller](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+<div class="alert alert-warning" role="alert">Caso você seja um marketplace ou seller, acesse os artigos <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pagamento com easypay no Marketplace</a> ou <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE">Configurar pagamento com easypay seller</a>.</div>
 
 ## Instalar o app easypay
 
@@ -48,9 +48,9 @@ As informações de configuração estão divididas em quatro seções:
 - [Personalização do Checkout easypay (opcional)](#personalizacao-do-checkout-easypay)
 - [Modo sandbox](#modo-sandbox)
 
-![easypay_pt_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_1.png)
+![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
->⚠️ Você deve realizar as configurações abaixo no [ambiente easypay](https://backoffice.easypay.pt/). O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no [ambiente easypay](https://backoffice.easypay.pt/) para informações atualizadas.
+<div class="alert alert-warning" role="alert">Você deve realizar as configurações abaixo no <a href="https://backoffice.easypay.pt/">ambiente easypay</a>. O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no <a href="https://backoffice.easypay.pt/">ambiente easypay</a> para informações atualizadas.</div>
 
 ### Credenciais easypay
 
@@ -60,29 +60,29 @@ __Key ID e Key Value__: valor e ID da chave easypay.
 
 <blockquote><ui>1. No <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da easypay localizado no canto superior esquerdo da tela, e na seta da conta desejada.</ui>
 
-![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_2.PNG)
+![easypay_pt_2](https://images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
 
 <blockquote><ui>2. Acesse <b>Web Services > Configuração API 2.0 > Chaves</b>.</ui>
 
-![easypay_pt_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_3.PNG)
+![easypay_pt_3](https://images.ctfassets.net/alneenqid6w5/3Qrv6zVnD0aUq4bqHXgrlk/912dd97df028290e81d6f90057093878/easypay_pt_3.PNG)
 
 <blockquote><ui>3. Copie e salve as informações <b>ID</b> e <b>Chave</b>.</ui>
 
-![easypay_pt_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_4.PNG)
+![easypay_pt_4](https://images.ctfassets.net/alneenqid6w5/32OyO0qBLXPTJ0aZpXsQIv/849733bfcb8535a272d38c08c39138d2/easypay_pt_4.PNG)
 
 __Merchant account UID__: identificação da conta do comerciante onde serão depositados os valores das compras dos produtos efetuados na loja. Caso não haja uma conta comerciante separada, é possível utilizar o “Account UID” da conta de pagamentos.
 
 <blockquote><ui>1. No <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da easypay localizado no canto superior esquerdo da tela, e depois na conta “COMERCIANTE 1”, clique na seta.</ui>
 
-![easypay_pt_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_5.PNG)
+![easypay_pt_5](https://images.ctfassets.net/alneenqid6w5/gQE8fL64YRCCggxVZB7qX/8e130d01b3cc65871f540233b1693df5/easypay_pt_5.PNG)
 
 <blockquote><ui>2. Copie e salve as informações do <b>Account UID</b>.</ui>
 
-![easypay_pt_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_6.PNG)
+![easypay_pt_6](https://images.ctfassets.net/alneenqid6w5/3S2dkHv1WmJSyAVVn3salh/084650f9a54f09ac4466c7c0c52e6ba8/easypay_pt_6.PNG)
 
 __Margin account UID__: identificação da conta de margens. 
 
->ℹ️ Este campo somente deverá ser preenchido quando a loja for um marketplace e realizar split de pagamentos. Saiba mais em [Configurar pagamento com easypay no Marketplace](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+<div class="alert alert-info" role="alert">Este campo somente deverá ser preenchido quando a loja for um marketplace e realizar split de pagamentos. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pagamento com easypay no Marketplace</a>.</div>
 
 __Refund account ID e Refund account key__: caso não exista conta específica de reembolso, o valor do __Key ID__ deverá ser preenchido no campo __Refund account ID__, e o valor de __Key value__ em __Refund account key__.
 
@@ -90,7 +90,7 @@ __Refund account ID e Refund account key__: caso não exista conta específica d
 
 Nesta seção, você deve indicar se a sua loja utilizará pagamentos assíncronos, síncronos ou ambos. Acesse a documentação easypay para verificar os [métodos de pagamentos](https://docs.quality-utility.aws.easypay.pt/concepts/payment-methods) disponíveis e suas respectivas [siglas](https://docs.quality-utility.aws.easypay.pt/checkout/reference) de identificação.
 
-![easypay_pt_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_7.PNG)
+![easypay_pt_7](https://images.ctfassets.net/alneenqid6w5/2Im2zLusDEAguft1GN8uf3/cad6490003aff12d7e28cd11f8d93a0d/easypay_pt_7.png)
 
 __Tipos de pagamento assíncronos aceites__: métodos de pagamento assíncronos disponíveis para o cliente. Preencha apenas com as siglas dos tipos de Assíncronos, separados por vírgula, sem pontos e sem espaços.
 
@@ -98,9 +98,9 @@ Exemplo:
 
 | Correto | Incorreto |
 | ---------------- | ---------------- |
-| mb,dd,vi,sc | mb, dd, vi, sc |
+| mb,dd,vi | mb, dd, vi |
 
->⚠️ Caso este campo seja preenchido, será obrigatório o preenchimento do campo **Dias para expiração de pagamentos assíncronos**.
+<div class="alert alert-warning" role="alert">Caso este campo seja preenchido, será obrigatório o preenchimento do campo <b>Dias para expiração de pagamentos assíncronos</b>.</div>
 
 __Tipos de pagamento síncronos aceites__: métodos de pagamento síncronos disponíveis para o cliente. Preencha apenas com as siglas dos tipos de Síncronos, separados por vírgula, sem pontos e sem espaços.
 
@@ -108,7 +108,7 @@ Exemplo:
 
 | Correto | Incorreto |
 | ---------------- | ---------------- |
-| cc,mbw,uf | cc, mbw, uf |
+| cc,mbw | cc, mbw |
 
 __Dias para expiração de pagamentos assíncronos__: tempo de expiração (em dias) de pagamentos assíncronos. Preencha apenas o número de dias desejados. 
 
@@ -122,7 +122,7 @@ Exemplo:
 
 A easypay possui um layout de Checkout nativo configurado no app. Veja abaixo:
 
-![easypay_pt_8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_8.PNG)
+![easypay_pt_8](https://images.ctfassets.net/alneenqid6w5/1xcsW6xpPx79OOnA2dB1zw/d6a72835fdfeac5d00f0db79078123d5/easypay_pt_8.png)
 
 Caso deseje realizar algum tipo de personalização no Checkout nativo da easypay, preencha um ou mais dos campos nesta seção:
 
@@ -160,7 +160,7 @@ Exemplo:
 | ---------------- | ---------------- |
 | 11 | 11px |
 
->⚠️ Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b>
+<div class="alert alert-warning" role="alert">Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b></div>
 
 ### Modo Sandbox
 
@@ -174,7 +174,7 @@ Para configurar o webhook da easypay, sig os passos abaixo:
 
 <blockquote><ui>1. No <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da easypay localizado no canto superior esquerdo da tela, e depois clique na seta da conta desejada.</ui>
 
-![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_9.PNG)
+![easypay_pt_2](https://images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
 
 <blockquote><ui>2. Acesse <b>Web Services > Configuração URL</b>.</ui>
 
@@ -182,7 +182,7 @@ Para configurar o webhook da easypay, sig os passos abaixo:
 
 `https://{nome-da-sua-conta}.myvtex.com/_v/easypaypartnerpt.payment-provider-easypay/webhook`
 
-![easypay_pt_9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay_10.PNG)
+![easypay_pt_9](https://images.ctfassets.net/alneenqid6w5/2f7UMqQzrIqNbtslGCFxyC/5724ef2676c10b5f1eff6594eafb5412/easypay_pt_9.PNG)
 
 <blockquote><ui>4. Clique em <b>Submeter</b>.</ui>
 
@@ -202,9 +202,9 @@ Para configurar a afiliação easypay, siga os passos abaixo:
 
 Para processar pagamentos com Apple Pay na easypay você precisa primeiramente realizar configurações para habilitar sua loja no ambiente da Apple Pay. Saiba mais em [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/docs/guides/setting-up-merchant-id-in-apple-pay).
 
-Para configurar outros métodos de pagamento a serem processados pela easypay, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar outros métodos de pagamento a serem processados pela easypay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o conector easypay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.
 

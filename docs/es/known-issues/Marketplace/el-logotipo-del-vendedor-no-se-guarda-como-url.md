@@ -1,5 +1,5 @@
 ---
-title: 'El logotipo del vendedor no se guarda como URL'
+title: "El logotipo del vendedor no se guarda como URL"
 id: 2bcjVyapAH9d19w79kOB2b
 status: PUBLISHED
 createdAt: 2023-01-19T14:36:20.412Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: seller-logo-not-being-saved-as-an-url
+slugEN: el-logotipo-del-vendedor-no-se-guarda-como-url
 locale: es
 kiStatus: Fixed
 internalReference: 736716
@@ -18,7 +18,9 @@ internalReference: 736716
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
@@ -26,7 +28,7 @@ La información del logo del vendedor en la base de datos no se está guardando 
 
 Actualmente nuestra documentación de formulario de pedido indica que este campo se supone que es una URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/el-logotipo-del-vendedor-no-se-guarda-como-url_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
 
 Pero en nuestra base de datos se está guardando en un formato diferente.
 

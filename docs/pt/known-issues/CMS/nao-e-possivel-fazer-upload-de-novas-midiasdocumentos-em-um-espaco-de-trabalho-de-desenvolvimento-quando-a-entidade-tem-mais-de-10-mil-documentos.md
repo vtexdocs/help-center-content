@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível fazer upload de novas mídias/documentos em um espaço de trabalho de desenvolvimento quando a entidade tem mais de 10 mil documentos'
+title: "Não é possível fazer upload de novas mídias/documentos em um espaço de trabalho de desenvolvimento quando a entidade tem mais de 10 mil documentos"
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: not-possible-to-upload-new-mediadocument-in-a-development-workspace-when-entity-has-more-than-10k-documents
+slugEN: nao-e-possivel-fazer-upload-de-novas-midiasdocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-tem-mais-de-10-mil-documentos
 locale: pt
 kiStatus: Fixed
 internalReference: 795940
@@ -18,7 +18,9 @@ internalReference: 795940
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

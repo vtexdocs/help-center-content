@@ -1,5 +1,5 @@
 ---
-title: 'La información resumida se traduce al inglés después de iniciar sesión a través de la actualización de la información de la dirección seleccionada.'
+title: "La información resumida se traduce al inglés después de iniciar sesión a través de la actualización de la información de la dirección seleccionada."
 id: 6g05yZcdGHZqm0zeozUH8f
 status: PUBLISHED
 createdAt: 2024-02-07T14:58:10.527Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: summary-information-translate-into-english-after-logging-in-via-update-selected-address-information
+slugEN: la-informacion-resumida-se-traduce-al-ingles-despues-de-iniciar-sesion-a-traves-de-la-actualizacion-de-la-informacion-de-la-direccion-seleccionada
 locale: es
 kiStatus: Backlog
 internalReference: 978571
@@ -18,7 +18,9 @@ internalReference: 978571
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En las cuentas españolas, el inicio de sesión en la caja a través de "Actualizar la información de la dirección seleccionada" después de identificarse con un perfil completo hace que algunos textos del resumen se traduzcan al inglés.

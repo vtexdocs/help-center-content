@@ -21,13 +21,13 @@ Os períodos de entrega que ficam disponíveis para os consumidores são chamado
 
 Caso a política de envio ofereça o serviço, você pode habilitar a entrega agendada configurando as janelas de entrega e definindo a capacidade de realização das entregas para cada janela de entrega, caso desejar.A habilitação da entrega agendada é feita através do campo __Entrega Agendada__ presente na tela de criação ou edição de Política de Envio. 
 
->⚠️ Para que a [Entrega agendada](https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) e a [Capacidade de entrega](https://help.vtex.com/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionem corretamente, você deve observar que:
-> *A soma {[account name](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID da política de envio} não pode exceder 60 caracteres.
-> * Não se deve utilizar espaçamento no ID de [políticas de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+<div class="alert alert-warning">
+Para que a <a href="https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega agendada</a> e a <a href="https://help.vtex.com/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidade de entrega</a> funcionem corretamente, você deve observar que:<p><ul><li>A soma {<a href="https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de <a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">políticas de envio</a>.</li></ul></p>
+</div>
 
 Uma vez habilitada a Entrega Agendada, você pode configurar os campos que determinarão como ela funcionará. Tais campos definem o [tempo máximo de entrega](#tempo-maximo-de-entrega), o [período de entrega](#periodo-de-entrega) e o [limite da capacidade de entrega](#capacidade-de-entrega).
 
-Leia o artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) para saber como criar uma nova política.
+Leia o artigo [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) para saber como criar uma nova política.
 
 ## Tempo máximo de entrega
 
@@ -37,7 +37,9 @@ O tempo máximo de entrega é o maior período de tempo que a política de envio
 
 O período de entrega, também chamado de janela de entrega, se refere aos horários nos quais a transportadora está disponível para realizar entregas durante o dia. Nos períodos/janelas são definidos horários de início e fim do funcionamento por dia da semana no qual você pode ainda, definir um valor de frete adicional a ser cobrado para dias da semana específicos, como por exemplo, sábados.
 
->ℹ️ Uma janela de entrega deixa de estar disponível para seleção após ter sido iniciada. Apenas janelas de entrega próximas (ainda não iniciadas) ficarão disponíveis para os clientes.
+<div class="alert alert-info"> 
+Uma janela de entrega deixa de estar disponível para seleção após ter sido iniciada. Apenas janelas de entrega próximas (ainda não iniciadas) ficarão disponíveis para os clientes.
+</div>
 
 ## Capacidade de Entrega
 
@@ -45,7 +47,9 @@ Definir capacidade de entrega é a forma que você tem em limitar a quantidade d
 
 Quando o cliente finaliza a compra e seleciona a entrega agendada, as opções de data e hora apresentadas levam em consideração a capacidade de entrega. Invariavelmente, o cliente só conseguirá agendar entregas nas janelas que ainda tiverem disponibilidade de 1 item/pedido. 
 
->ℹ️ Se a janela já tiver a capacidade total de itens/pedidos, ela deixa de estar disponível para escolha. Para deixar novamente a janela disponível você deve aumentar os itens/pedidos da capacidade de entrega. Isso pode ser feito editando uma [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
+<div class="alert alert-info"> 
+Se a janela já tiver a capacidade total de itens/pedidos, ela deixa de estar disponível para escolha. Para deixar novamente a janela disponível você deve aumentar os itens/pedidos da capacidade de entrega. Isso pode ser feito editando uma <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de envio</a>.
+</div>
 
-Leia o artigo [Gerenciar capacidade de entrega](https://help.vtex.com/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber mais.
+Leia o artigo [Gerenciar capacidade de entrega](/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber mais.
 

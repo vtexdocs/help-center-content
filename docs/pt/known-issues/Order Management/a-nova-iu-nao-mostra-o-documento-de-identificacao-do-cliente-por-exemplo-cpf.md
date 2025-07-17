@@ -1,5 +1,5 @@
 ---
-title: 'A nova IU não mostra o documento de identificação do cliente, por exemplo CPF'
+title: "A nova IU não mostra o documento de identificação do cliente, por exemplo CPF"
 id: 7y7Npcr6krhsnnEy54vQFa
 status: PUBLISHED
 createdAt: 2022-12-08T22:21:07.966Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-does-not-show-the-customers-id-document-for-example-cpf
+slugEN: a-nova-iu-nao-mostra-o-documento-de-identificacao-do-cliente-por-exemplo-cpf
 locale: pt
 kiStatus: No Fix
 internalReference: 713480
@@ -18,7 +18,9 @@ internalReference: 713480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Nova UI não mostra o documento de identificação do cliente nos pedidos. Por exemplo, como CPF, isso acontece porque a política comercial de contas tem outro país configurado.

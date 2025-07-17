@@ -1,5 +1,5 @@
 ---
-title: 'El pago permite añadir 2 direcciones diferentes para la entrega'
+title: "El pago permite añadir 2 direcciones diferentes para la entrega"
 id: 2z7iq68qdHXAfY8RLDHXDg
 status: PUBLISHED
 createdAt: 2023-11-06T22:03:24.983Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-allows-to-add-2-different-addresses-for-delivery
+slugEN: el-pago-permite-anadir-2-direcciones-diferentes-para-la-entrega
 locale: es
 kiStatus: Backlog
 internalReference: 931225
@@ -18,7 +18,9 @@ internalReference: 931225
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Checkout permite añadir dos direcciones diferentes para la entrega en el orderForm, por ejemplo, una "comercial" y una "residencial" (definidas por el campo 'addressType'), cuando una de ellas es desechable.

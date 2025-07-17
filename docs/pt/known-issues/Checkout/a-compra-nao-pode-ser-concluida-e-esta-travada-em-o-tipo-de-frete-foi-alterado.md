@@ -1,5 +1,5 @@
 ---
-title: "A compra não pode ser concluída e está travada em 'o tipo de frete foi alterado'"
+title: 'A compra não pode ser concluída e está travada em "o tipo de frete foi alterado'
 id: mgewQ8QmZ3V3dkc7vdJkV
 status: PUBLISHED
 createdAt: 2023-09-25T13:28:28.121Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: purchase-cant-be-finished-and-is-stuck-on-freight-type-has-changed
+slugEN: a-compra-nao-pode-ser-concluida-e-esta-travada-em-o-tipo-de-frete-foi-alterado
 locale: pt
 kiStatus: Backlog
 internalReference: 449341
@@ -18,7 +18,9 @@ internalReference: 449341
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar qualquer promoção que cause a divisão de um item e dois vendedores diferentes forem selecionados, clicar em "Comprar agora" exibirá a mensagem "o tipo de frete foi alterado", impedindo a conclusão da compra.

@@ -15,5 +15,5 @@ legacySlug: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
+English speaking countries.</div>

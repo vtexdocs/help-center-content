@@ -13,10 +13,11 @@ slugEN: i-cant-receive-emails-from-vtex
 locale: en
 legacySlug: i-cant-receive-emails-from-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Message center, Email templates, Spreadsheet import, Authentication token
 ---
 
-Through the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
+**Tags:** Message center, Email templates, Spreadsheet import, Authentication token
+
+Through the [Message Center](/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
 - In-store authentication token
 -	Notification for creating and paying orders
 - Data export confirmation
@@ -44,7 +45,7 @@ If your store has a customized sender in addition to the standard __VTEX-DEFAULT
 
 ### Configuring a mail server
 
-On VTEX, you can use the native mail server or [configure an external SMTP server](https://help.vtex.com/en/tutorial/customizing-the-vtex-smtp--tutorials_2733). If you are using an external SMTP server, see the scenarios below.
+On VTEX, you can use the native mail server or [configure an external SMTP server](/en/tutorial/customizing-the-vtex-smtp--tutorials_2733). If you are using an external SMTP server, see the scenarios below.
 
 #### Configuring SMTP in the VTEX Admin
 
@@ -59,9 +60,11 @@ After the test, if the message from VTEX has not been sent to the email address 
 
 #### Configuring SPF (Sender Policy Framework)
 
-Check if the external SMTP server is configured according to the [SPF system](https://help.vtex.com/en/tutorial/best-practices-on-spf--42t0lkl2VyC6Yewc4wA6wI), which prevents unauthorized servers from sending emails on behalf of a specific domain. You can configure [SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) and [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) on the server if necessary.
+Check if the external SMTP server is configured according to the [SPF system](/en/tutorial/best-practices-on-spf--42t0lkl2VyC6Yewc4wA6wI), which prevents unauthorized servers from sending emails on behalf of a specific domain. You can configure [SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) and [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) on the server if necessary.
 
->⚠️ Check your spam folder to ensure that VTEX emails are not being sent there. This may be due to internal mail server rules.
+<div class ="alert alert-warning">
+Check your spam folder to ensure that VTEX emails are not being sent there. This may be due to internal mail server rules.
+</div>
 
 ### Configuring order and payment notifications
 
@@ -79,7 +82,9 @@ Amazon (AWS) has an email platform called Amazon Simple Email Service ([Amazon S
 
 Generally, an email can be added to the AWS suppression list and removed after approximately 12 hours. During this period, emails sent by VTEX will not be received by the email address added to the list.
 
->⚠️ AWS manages the suppression list, and VTEX has no control over the addresses on and off the list.
+<div class ="alert alert-warning">
+AWS manages the suppression list, and VTEX has no control over the addresses on and off the list.
+</div>
 
 If you suspect AWS has blocked your email, wait 12 hours and try resending an email to the blocked address.
 
@@ -90,4 +95,4 @@ You can also check whether the email is registered as a copy in any of the store
 3. Check if the email does not appear in the template's __Cc:__ or __Bcc:__ fields. If it does, remove it and click `Save`.
 4. Do this for each store's template card and test sending an email to the desired address.
 
-![copia_email_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-receive-emails-from-vtex_1.png)
+![copia_email_en](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/60df1d00ff23e4a1847d76a09e4dd44b/copia_email_en.png)

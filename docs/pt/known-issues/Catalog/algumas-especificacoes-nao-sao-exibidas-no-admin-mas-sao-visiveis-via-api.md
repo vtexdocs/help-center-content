@@ -1,5 +1,5 @@
 ---
-title: 'Algumas especificações não são exibidas no Admin, mas são visíveis via API'
+title: "Algumas especificações não são exibidas no Admin, mas são visíveis via API"
 id: 4nZgiUms8dkC8Y1LrBUHQ3
 status: PUBLISHED
 createdAt: 2022-04-14T13:26:50.927Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: some-specs-are-not-displayed-in-admin-but-are-visible-via-api
+slugEN: algumas-especificacoes-nao-sao-exibidas-no-admin-mas-sao-visiveis-via-api
 locale: pt
 kiStatus: Backlog
 internalReference: 418348
@@ -18,7 +18,9 @@ internalReference: 418348
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas especificações não são exibidas no Admin, mas são visíveis via API.

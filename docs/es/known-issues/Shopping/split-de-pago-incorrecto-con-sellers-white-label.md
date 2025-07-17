@@ -1,5 +1,5 @@
 ---
-title: 'Split de pago incorrecto con sellers white label'
+title: "Split de pago incorrecto con sellers white label"
 id: 4ONWSOeG3mmSKyawq8SYCQ
 status: PUBLISHED
 createdAt: 2018-07-24T18:27:44.066Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: authors_41
 tag: Checkout,Order Management,Payments
-slugEN: incorrect-payment-split-with-white-label-sellers
+slugEN: split-de-pago-incorrecto-con-sellers-white-label
 locale: es
 kiStatus: Backlog
 internalReference: 

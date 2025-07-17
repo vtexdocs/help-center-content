@@ -1,5 +1,5 @@
 ---
-title: 'Especificações multiplicadas pelo catálogo'
+title: "Especificações multiplicadas pelo catálogo"
 id: 2d4LXPrbVibMR8atXO6o8X
 status: PUBLISHED
 createdAt: 2023-10-16T12:48:03.714Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: specifications-multiplied-on-catalog
+slugEN: especificacoes-multiplicadas-pelo-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 919761
@@ -18,7 +18,9 @@ internalReference: 919761
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O marketplace pode aprovar produtos enviados por vendedores no módulo Received Skus.

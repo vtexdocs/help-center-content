@@ -15,9 +15,11 @@ legacySlug: configuring-payment-with-mercado-pago-in-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except VTEX Sales App), visit [Setting up payments with MercadoPagoV2](https://help.vtex.com/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4).
+<div class="alert alert-info">
+To use the MercadoPagoV2 provider in your store through other online sales channels (except VTEX Sales App), visit <a href="https://help.vtex.com/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4">Setting up payments with MercadoPagoV2</a>.
+</div>
 
 To use the MercadoPagoV2 provider in the VTEX Sales App, you need to:
 
@@ -26,7 +28,9 @@ To use the MercadoPagoV2 provider in the VTEX Sales App, you need to:
 - [Install Mercado Pago Payment and Mercado Pago Instore applications in VTEX](#install-mercado-pago-payment-and-mercado-pago-instore-applications-in-vtex)
 - [Configure payment condition](#configuring-payment-condition)
 
->⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Mercado Pago account for the latest information.
+<div class="alert alert-warning">
+Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Mercado Pago account for the latest information.
+</div>
 
 ## Configure keys in the Mercado Pago environment
 
@@ -34,7 +38,9 @@ The following steps describe the minimum configurations to be carried out so tha
 
 <blockquote><ui>1. Access the <a href="https://www.mercadopago.com.br/developers/en">Mercado Pago developer portal</a> to create a new account.</ui>
 
-<blockquote><ui>>⚠️ The Mercado Pago developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Mercado Pago. We recommend that the procedure below be carried out by a user who already has access to the other keys to their Mercado Pago account.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+The Mercado Pago developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Mercado Pago. We recommend that the procedure below be carried out by a user who already has access to the other keys to their Mercado Pago account.
+  </div></blockquote>
 
 <blockquote><ui>2. After logging in, access the Mercado Pago <a href="https://www.mercadopago.com.br/developers/en/docs/vtex/additional-content/your-integrations/credentials">credentials documentation</a> to check how to obtain the <b>Public Key</b> and <b>Access Token</b> that will be used to configure MercadoPagoV2 on VTEX.</ui> 
 
@@ -91,7 +97,9 @@ select the option <b>Aggregator</b>.</ui>
 
 ## Install Mercado Pago Payment and Mercado Pago Instore applications in VTEX
 
->⚠️ Before installing the **mercadopago.mercadopago-app** app, confirm the current version of the application with the Mercado Pago support team.
+<div class="alert alert-warning">
+  Before installing the <b>mercadopago.mercadopago-app</b> app, confirm the current version of the application with the Mercado Pago support team.
+  </div>
 
 1. In [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), run the command `vtex login accountname` to log in to your account.
 2. Install the **mercadopago.mercadopago-app** using the command `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. The information {{current-app-version}} must be replaced with the current version of the application, for example: `vtex install mercadopago.mercadopago-app@2.3.15`.
@@ -105,7 +113,7 @@ select the option <b>Aggregator</b>.</ui>
 4. Under **Process with provider**, select the previously configured connector.
 5. Activate the condition in the **Status** field.
 6. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-7. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 After completing these steps, the MercadoPagoV2 provider may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.

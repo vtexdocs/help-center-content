@@ -15,7 +15,7 @@ legacySlug: crear-promociones
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323), [Más por Menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322)y [Promoción de Campaña](https://help.vtex.com/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322)y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
 
 En este artículo, encontrarás el paso a paso para realizar las siguientes acciones:
 
@@ -28,13 +28,13 @@ En este artículo, encontrarás el paso a paso para realizar las siguientes acci
   - [Archivar promoción](#archivar-promocion)
 
 ## Registrar promoción 
-Sigue el tutorial a continuación para crear una [promoción regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Sigue el tutorial a continuación para crear una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 
  1. Ve al módulo __Promociones__.
  2. Haz clic en __Promociones__.
  3. Haz clic en el botón `Crear promoción`.
  4. Selecciona la opción `Regular`.
- 5. Rellena los [campos de la promoción](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327).
+ 5. Rellena los [campos de la promoción](/es/tutorial/regular-promotion--tutorials_327).
  6. Haz clic en `Guardar`.
 
 ## Filtrar o buscar promoción
@@ -54,7 +54,7 @@ Para buscar una promoción, sigue los pasos a continuación:
 
    1. Accede al menú **Promociones**.
    2. Haz clic en **Promociones**. 
-   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](https://help.vtex.com/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?&utm_source=autocomplete) o la [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete) registrada en la promoción. 
+   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?&utm_source=autocomplete) o la [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete) registrada en la promoción. 
 
 ## Ordenar promoción
 Puedes ordenar las promociones creadas por status o por nombre. Este recurso tiene por objeto ayudarte a encontrar una promoción que quieras verificar o cuya configuración quieras modificar. Para ordenarlas, sigue los pasos a continuación:
@@ -78,9 +78,9 @@ Puedes cambiar las configuraciones y los datos de cualquier promoción siguiendo
 La programación de una promoción se produce cuando esta se crea (o modifica) con una fecha y hora de validez posteriores al momento actual. La hora considerada es la del sistema del computador en el que se creó la promoción, sin tener en cuenta los ajustes de zona horaria.
 Estas promociones se pueden identificar fácilmente en la página principal de Promociones, ya que tienen una franja naranja con la palabra programada en la esquina superior derecha de la tarjeta, como se muestra a continuación:
 
-![programada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/crear-promociones_1.png)
+![programada](https://images.ctfassets.net/alneenqid6w5/illvXlc6M10IO8p8IfL7J/cc495af0c2c31c27cc53870ed7a95aee/programada..png)
 
-Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](https://help.vtex.com/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](https://help.vtex.com/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
+Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
 
 ## Archivar promoción
 Si no quieres que se siga utilizando una promoción, puedes moverla a la lista de promociones archivadas, con lo que su status cambiará automáticamente a Inactiva. Para archivar una promoción, sigue los pasos a continuación:

@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisPT: 'Tenha em mãos informações detalhadas sobre o cálculo do frete do pedido'
 ---
 
->⚠️ Por motivos técnicos, o lançamento dessa funcionalidade foi postergado por tempo inderteminado.
+<div class="alert alert-warning">
+Por motivos técnicos, o lançamento dessa funcionalidade foi postergado por tempo inderteminado.
+</div>
 
 
 A partir de 01 de Abril de 2019, o JSON de pedidos retornará um novo objeto chamado `alternativeTotals`.  Ele aparecerá nos totalizers que ficam dentro do array de `totals`, para as consultas feitas pela API de Get Order.

@@ -1,5 +1,5 @@
 ---
-title: 'Checkout simulation with a great quantity of the same sku receives a Logistics timeout'
+title: "Checkout simulation with a great quantity of the same sku receives a Logistics timeout"
 id: 753MDZbcyN9BTHAaSTpOlY
 status: PUBLISHED
 createdAt: 2024-06-18T12:42:44.404Z

@@ -3,8 +3,8 @@ title: 'Insert reverse proxy in front of VTEX services'
 id: 4PFWsfRAKviNVPf1bYdiir
 status: PUBLISHED
 createdAt: 2019-09-20T14:11:30.301Z
-updatedAt: 2024-09-20T20:34:24.110Z
-publishedAt: 2024-09-20T20:34:24.110Z
+updatedAt: 2025-05-30T13:53:21.221Z
+publishedAt: 2025-05-30T13:53:21.221Z
 firstPublishedAt: 2019-09-23T12:22:50.056Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,11 +15,17 @@ legacySlug: why-we-do-not-recommend-inserting-a-reverse-proxy-in-front-of-vtex-s
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
->❗ This guide addresses a practice that is **not recommended** for most stores and should only be applied in extreme cases.
->
-> Implementing a reverse proxy means replacing all edge services (CDN) managed and optimized by VTEX. This implies that the store will be responsible for effective site provisioning, including configuration, monitoring, and management of aspects such as header passing, cookies, and caching. VTEX does not provide support or documentation for these specific configurations and is not responsible for any issues that may arise.
->
-> VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore this solution is **not** covered under our SLA agreements.
+<div class="alert alert-danger">
+<p>
+This guide addresses a practice that is <strong>not recommended</strong> for most stores and should only be applied in extreme cases.
+</p>
+<p>
+Implementing a reverse proxy means replacing all edge services (CDN) managed and optimized by VTEX. This implies that the store will be responsible for effective site provisioning, including configuration, monitoring, and management of aspects such as header passing, cookies, and caching. VTEX does not provide support or documentation for these specific configurations and is not responsible for any issues that may arise.
+</p>
+<p>
+VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore this solution is <strong>not</strong> covered under our SLA agreements.
+</p>
+</div>
 
 To point your own CDN to the VTEX CDN, you need to insert a reverse proxy in front of VTEX services. In this scenario, the traffic flow follows this path:
 
@@ -30,19 +36,15 @@ To point your own CDN to the VTEX CDN, you need to insert a reverse proxy in fro
 
 Follow the guidelines below to implement the reverse proxy:
 
-* [DNS configuration](#dns-configuration)
+* [Creating a TXT record](#creating-a-txt-record)
 * [Traffic routing](#traffic-routing)
 * [Responsibilities for SSL certificates](#responsibilities-for-ssl-certificates)
 
-## DNS configuration
+## Creating a TXT record
 
-In your domain's DNS zone, you must configure the DNS records required to direct traffic to the VTEX CDN. Follow the instructions below.
+To correctly direct your domain to the VTEX CDN, create a TXT record in the format `_{hostname}` with the value `{hostname}.cdn.vtex.com` in your domain's DNS zone.
 
-### Creating a TXT record
-
-To correctly direct your domain to the VTEX CDN, create a TXT record in the format `_{hostname}` with the value `{hostname}.cdn.vtex.com`.
-
-Replace `{hostname}` with your store's [subdomain, domain, and top-level domain](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450). Example: `www.mystore.com`. Make sure to include the underscore (`_`) before the hostname.
+Replace `{hostname}` with your store's [subdomain, domain, and top-level domain](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450). Example: `www.mystore.com`. Make sure to include the underscore (`_`) before the hostname.
 
 Format:
 
@@ -58,28 +60,6 @@ Example:
 Name: _www.mystore.com
  Type: TXT
  Value: www.mystore.com.cdn.vtex.com
-```
-
-### Creating a CNAME record
-
-To direct CDN/WAF traffic to our servers, create a CNAME record with the value corresponding to the domain's CNAME.
-
-Replace `{hostname}` with your store's subdomain, domain, and top-level domain. Example: `www.mystore.com`.
-
-Format:
-
-```
-Name: {hostname}
- Type: CNAME
- Destination: {hostname}.cdn.vtex.com
-```
-
-Example:
-
-```
-Name: www.mystore.com
- Type: CNAME
- Destination: www.mystore.com.cdn.vtex.com
 ```
 
 ## Traffic routing
@@ -109,10 +89,11 @@ To enable the generation of SSL certificates, make sure that all HTTP traffic to
 
 Some reverse proxies may capture this route, preventing VTEX from issuing or renewing the SSL certificate.
 
->⚠️ VTEX only provides navigation if:
->
-> *The host points to VTEX via the CNAME.
->
-> *SSL certificates can be issued and renewed for the host.
->
-> If either condition is not met, navigation will fail, and the site will be down.
+<div class="alert alert-warning">
+VTEX only provides navigation if:
+<ul>
+<li>The TXT record is set up correctly.</li>
+<li>SSL certificates can be issued and renewed for the host.</li>
+</ul>
+If either condition is not met, navigation will fail, and the site will be down.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Excluir productos de la colección no funciona.'
+title: "Excluir productos de la colección no funciona."
 id: 102Z3QRDo07OM6IPJCDlsY
 status: PUBLISHED
 createdAt: 2023-10-20T16:30:13.646Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: exclude-products-from-collection-not-working
+slugEN: excluir-productos-de-la-coleccion-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 923016
@@ -18,7 +18,9 @@ internalReference: 923016
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La cuenta puede crear colecciones utilizando la versión anterior y añadir colecciones y marcas completas.

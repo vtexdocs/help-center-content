@@ -33,14 +33,16 @@ Follow the steps below to export the price spreadsheet:
 2. At the top of the screen, click the export icon <i class="fas fa-download"></i>.
 > A sidebar will be displayed.
 3. Under **Select the spreadsheet you want to export**, you must choose from the following options:
-   - **Base prices table (default):** The [base price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) is the SKU reference price for all price tables.
-   - **Fixed price table:** The [fixed price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) overrides the base price even if the price rule is configured.
+   - **Base prices table (default):** The [base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) is the SKU reference price for all price tables.
+   - **Fixed price table:** The [fixed price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) overrides the base price even if the price rule is configured.
    - **Calculated price table:** The final price that will be displayed in the store, which does not include promotions.
 4. Click the `Export table` button.
 > Then, the selected price table will open.
-5. In the file that opened, fill out the rows with the SKU price data. The exported Price Table contains only products with registered prices, products without a price do not appear in the spreadsheet. To better understand the meaning of each field, read our article on [filling out an import spreadsheet's base price fields](https://help.vtex.com/en/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) or [filling out an import spreadsheet's fixed price fields](https://help.vtex.com/en/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+5. In the file that opened, fill out the rows with the SKU price data. The exported Price Table contains only products with registered prices, products without a price do not appear in the spreadsheet. To better understand the meaning of each field, read our article on [filling out an import spreadsheet's base price fields](/en/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) or [filling out an import spreadsheet's fixed price fields](/en/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
 
->⚠️ The export of price tables in **XLSX** format is limited to 1,048,576 rows due to an Excel limitation. Exports exceeding this limit will result in an error.
+<div class="alert alert-warning">
+  The export of price tables in <strong>XLSX</strong> format is limited to 1,048,576 rows due to an Excel limitation. Exports exceeding this limit will result in an error.
+</div>
 
 After the export is complete, you will receive the spreadsheet in your VTEX store email. You can also download the export by clicking the`Download export` button.
 

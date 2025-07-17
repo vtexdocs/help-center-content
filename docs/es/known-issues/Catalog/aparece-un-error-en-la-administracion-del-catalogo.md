@@ -1,5 +1,5 @@
 ---
-title: 'Aparece un error en la administración del catálogo'
+title: "Aparece un error en la administración del catálogo"
 id: 5TZLWNau0Vo6yp8URPsGcn
 status: PUBLISHED
 createdAt: 2023-09-26T17:00:49.516Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: something-went-wrong-error-is-displayed-in-the-catalog-admin
+slugEN: aparece-un-error-en-la-administracion-del-catalogo
 locale: es
 kiStatus: Backlog
 internalReference: 907567
@@ -18,7 +18,9 @@ internalReference: 907567
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera utilizar el admin sin restricciones. Sin embargo, a veces se muestra un error **Something Went Wrong** en el admin del catálogo.

@@ -38,11 +38,13 @@ First, you must fill in the TikTok integration configuration form with the reque
 
 In this part of the form, you need to fill in information that will be used to integrate your product catalog with TikTok.
 
-* **Affiliate ID:** the identifier of the [new affiliate](https://help.vtex.com/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0) you want to create for the integration. The affiliate ID must contain only 3 consonants and cannot be associated with an existing affiliate. We suggest using `TKT` to easily identify TikTok. It is important to check if the ID is not in use in **Orders management > Settings > Affiliates**. The affiliate will be created automatically when you complete the configuration. 
+* **Affiliate ID:** the identifier of the [new affiliate](/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0) you want to create for the integration. The affiliate ID must contain only 3 consonants and cannot be associated with an existing affiliate. We suggest using `TKT` to easily identify TikTok. It is important to check if the ID is not in use in **Orders management > Settings > Affiliates**. The affiliate will be created automatically when you complete the configuration. 
 
 * **Trade policy:** a field to select the trade policy to be associated with a catalog integrated with TikTok. Currently, the integration only accepts trade policies with BRL as currency. See the [Sending product data to TikTok](#sending-product-data-to-tiktok) section for more information.
 
->⚠️ Do not change the affiliate configuration created automatically through this integration. Any future manual changes to the affiliate's configuration in **Orders management > Settings > Affiliates** may cause the integration to stop working.
+<div class="alert alert-warning">
+<p>Do not change the affiliate configuration created automatically through this integration. Any future manual changes to the affiliate's configuration in <strong>Orders management > Settings > Affiliates</strong> may cause the integration to stop working.</p>
+</div>
 
 ### Company data
 
@@ -74,11 +76,13 @@ After completing the integration configuration form, you need to connect your Ti
 
 ## 3. Configuring TikTok for Business
 
->⚠️ We recommend disabling the extensions that block ads in your browser to avoid errors in the following steps.
+<div class="alert alert-warning">
+<p>We recommend disabling the extensions that block ads in your browser to avoid errors in the following steps.</p>
+</div>
 
 On the **Set Up TikTok for Business page**, as illustrated below, please follow the configuration instructions described next.
 
-![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/tiktok-integration/configuring-the-integration-with-tiktok-for-business-in-vtex-admin_1.png)
+![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
 
 1. Click the __TikTok for Business Account__ section and check if your account is listed.
     * If you want to connect another account, click `Disconnect` and repeat the login step described in [Connecting the TikTok account](#2-connecting-the-tiktok-account).
@@ -90,18 +94,20 @@ On the **Set Up TikTok for Business page**, as illustrated below, please follow 
 5. In the **TikTok Ad Account** section, choose one of the following options:
     * To connect to an existing Ad Account, click `Connect`.
     * To create a new Ad Account: Edit the name of the new account as desired and click `Create New`.
-6. Click on the __Data Sharing__ section to create a [TikTok Pixel](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/7Dwfwu1aHMp1aR1yvej5nv#tiktok-pixel).
+6. Click on the __Data Sharing__ section to create a [TikTok Pixel](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/7Dwfwu1aHMp1aR1yvej5nv#tiktok-pixel).
 7. In the **Data Sharing** section, edit the name of the new Pixel as desired and click `Create New`.
 8. Use the <i class="fas fa-toggle-on"></i> button to enable or disable [Advanced Matching](https://ads.tiktok.com/help/article?aid=10007891). This feature is not available for the VTEX integration at the moment, so even if you enable it via this button, it will not be applied.
 9. Click on the __Catalog__ section to integrate your catalog with TikTok. Read [Sending product data to TikTok](#sending-product-data-to-tiktok) for more information on this process.
 10. In the **Catalog** section, edit the name of the new catalog to be created in the [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) as desired and click `Create New`. The products associated with the trade policy informed in the [form](#1-completing-the-integration-configuration-form) will be added to this catalog onc TikTok.
 11. Click `Finish Setup`.
 
-When you complete this setting, you will be redirected back to **Marketplace > TikTok** in the VTEX Admin, where you can [manage the integration](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). For some versions of the VTEX Admin, you can access the page in **Apps > My apps > TikTok**. After the configuration has been successfully completed, any user logged into the VTEX Admin can access the TikTok management area. 
+When you complete this setting, you will be redirected back to **Marketplace > TikTok** in the VTEX Admin, where you can [manage the integration](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). For some versions of the VTEX Admin, you can access the page in **Apps > My apps > TikTok**. After the configuration has been successfully completed, any user logged into the VTEX Admin can access the TikTok management area. 
 
 ### Sending product data to TikTok
 
->⚠️ TikTok only syncs products that comply with the platform's advertising policies. Read [TikTok Advertising Policies](https://ads.tiktok.com/help/article?aid=9550&lang=pt) for more information.
+<div class="alert alert-warning">
+  <p>TikTok only syncs products that comply with the platform's advertising policies. Read <a href="https://ads.tiktok.com/help/article?aid=9550&lang=pt">TikTok Advertising Policies</a> for more information.</p>
+</div>
 
 Once the integration is configured, sending products to TikTok will be an automatic process. The following data will be submitted:
 
@@ -117,4 +123,4 @@ Once the integration is configured, sending products to TikTok will be an automa
 * Price (in BRL)
 * Images
 
-For products to be synced, all of the above information must be completed. Updates to product listings made in the VTEX environment, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) or [Admin](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), are automatically replicated on TikTok.
+For products to be synced, all of the above information must be completed. Updates to product listings made in the VTEX environment, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) or [Admin](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), are automatically replicated on TikTok.

@@ -1,5 +1,5 @@
 ---
-title: 'El paso de envío puede mostrar un mensaje de no disponibilidad mientras se calculan las opciones de envío'
+title: "El paso de envío puede mostrar un mensaje de no disponibilidad mientras se calculan las opciones de envío"
 id: e8ah969LyXALENeVO9wML
 status: PUBLISHED
 createdAt: 2023-03-24T14:34:35.667Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-step-may-display-an-unavailability-message-while-the-shipping-options-are-being-calculated
+slugEN: el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio
 locale: es
 kiStatus: Backlog
 internalReference: 650038
@@ -18,7 +18,9 @@ internalReference: 650038
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un usuario que tiene guardada la dirección en su perfil, al llegar al paso de dirección donde se muestra la selección de envío, al seleccionar otra opción se muestra erróneamente un aviso de "La entrega no está disponible para esta dirección", puede aparecer rápidamente debido a la carga de información, puede ocurrir según la demora en esta búsqueda dependiendo de la complejidad de la tienda.

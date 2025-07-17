@@ -1,5 +1,5 @@
 ---
-title: 'Stuck transactions after Risk Rejection'
+title: "Stuck transactions after Risk Rejection"
 id: 4LKwXp4P9IEkUh02vNZKiA
 status: PUBLISHED
 createdAt: 2024-09-04T19:05:28.366Z

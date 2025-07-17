@@ -13,8 +13,9 @@ slugEN: promotion-not-applied-to-the-marketplace
 locale: pt
 legacySlug: promocao-nao-aplicada-ao-marketplace
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Promoções, Marketplace, Política comercial, Afiliado
 ---
+
+**Tags:** Promoções, Marketplace, Política comercial, Afiliado
 
 Ao configurar uma promoção para marketplaces, é possível que os usuários encontrem dificuldades devido a configurações incorretas na política comercial ou afiliado. Este documento oferece orientações para assegurar que a promoção seja configurada e aplicada corretamente.
 
@@ -22,14 +23,14 @@ Ao configurar uma promoção para marketplaces, é possível que os usuários en
 Para solucionar o problema de promoções não aplicadas em marketplaces, é importante revisar a [seleção da política comercial](#selecao-da-politica-comercial) e a [seleção de afiliados](https://docs.google.com/document/d/1-dKFiIasKw8wAQ1NtXrIAeiRIqRfmted1k1hU6kg_Uc/edit#seleção-de-afiliados). 
 
 ### Seleção da política comercial
-A [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define regras e condições para a aplicação de promoções nos marketplaces. É importante selecionar a política comercial correta para assegurar que a promoção seja aplicada conforme esperado. Abaixo estão os passos para configurar uma promoção de política comercial.
+A [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define regras e condições para a aplicação de promoções nos marketplaces. É importante selecionar a política comercial correta para assegurar que a promoção seja aplicada conforme esperado. Abaixo estão os passos para configurar uma promoção de política comercial.
 
-1. Crie uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
+1. Crie uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
 2. Na seção Política Comercial, selecione as opções `Iguais a` e **Entregue por mim (Outras lojas)**.
 3. Escolha as políticas comerciais desejadas vinculadas aos marketplaces.
 4. Clique em `Salvar`.
 
-![Dados gerais da promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/promocao-nao-aplicada-ao-marketplace_1.png)
+![Dados gerais da promoção - PT](https://images.ctfassets.net/alneenqid6w5/76vrpI7cmKuOXgErtBGxqO/8d21f4c534aea384c1c50759e950ff4d/Dados_gerais_da_promo__o_-_PT.png)
 
 ### Seleção de afiliados
 Para garantir que uma promoção seja aplicada corretamente em um marketplace, é necessário selecionar o afiliado desejado. O afiliado é o parceiro associado ao marketplace que disponibiliza os produtos promocionais. A seguir, estão os passos para selecionar corretamente um afiliado na configuração de uma promoção.
@@ -39,13 +40,15 @@ Para garantir que uma promoção seja aplicada corretamente em um marketplace, �
   <li>Preencha o campo <strong>Afiliados</strong> com o nome do afiliado relacionado ao marketplace desejado.</li>
 </ol>
 
-  ![condições para promoção - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/promocao-nao-aplicada-ao-marketplace_2.png)
+  ![condições para promoção - PT](https://images.ctfassets.net/alneenqid6w5/44j7gMDkkJVNZ0uhrDKpAr/323cce71c85fc6d5be055b6cd11548fb/condi__es_para_promo__o_-_PT.png)
 
 <ol start="3">
   <li>Na seção <strong>Política Comercial</strong>, selecione as opções <code>Iguais</code> a e <strong>Entregue por mim (Outras lojas)</strong>.</li>
   <li>Clique em <code>Salvar</code>.</li>
 </ol>
 
->ℹ️ Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
+<div class = "alert alert-info">
+Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
+</div>
 
-Para mais informações, acesse [Configurar promoção para marketplace](https://help.vtex.com/pt/tutorial/configurando-promocao-para-marketplace/).
+Para mais informações, acesse [Configurar promoção para marketplace](/pt/tutorial/configurando-promocao-para-marketplace/).

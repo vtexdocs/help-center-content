@@ -1,5 +1,5 @@
 ---
-title: 'Received Skus filter do not work with special characters'
+title: "Received Skus filter do not work with special characters"
 id: 6aSErtF2Xv5RuKuIHUEEPg
 status: PUBLISHED
 createdAt: 2023-11-29T17:58:26.201Z

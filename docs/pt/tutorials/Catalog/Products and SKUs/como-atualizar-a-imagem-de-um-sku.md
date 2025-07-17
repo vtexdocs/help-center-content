@@ -17,7 +17,9 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Você pode atualizar uma imagem de SKU no Admin VTEX ou utilizando a Catalog API.
 
->❗ Este procedimento deve ser realizado com muito cuidado, pois envolve a *exclusão de todas as imagens* de um SKU, o que vai torná-lo **INATIVO**. Fique atento às recomendações nos passos abaixo para que a atualização das imagens ocorra com sucesso.
+<div class="alert alert-danger">
+Este procedimento deve ser realizado com muito cuidado, pois envolve a <em>exclusão de todas as imagens</em> de um SKU, o que vai torná-lo <strong>INATIVO</strong>. Fique atento às recomendações nos passos abaixo para que a atualização das imagens ocorra com sucesso.
+</div>
 
 Como este procedimento envolve a exclusão de todas as imagens de um SKU, tornando-o inativo, recomendamos que o processo de substituição de imagens seja realizado em pequenos lotes de SKUs.
 
@@ -31,7 +33,9 @@ Como este procedimento envolve a exclusão de todas as imagens de um SKU, tornan
 4. Clique na aba __Imagens__.
 5. Escolha as imagens que deseja apagar e clique em __Retirar__.
 
->❗ Recomendamos que essas atualizações de imagens sejam feitas em pequenos lotes. Lembre-se que ao apagar todas as imagens de um SKU ele ficará inativo.
+<div class="alert alert-danger">
+Recomendamos que essas atualizações de imagens sejam feitas em pequenos lotes. Lembre-se que ao apagar todas as imagens de um SKU ele ficará inativo.
+</div>
 
 ### Adicionar as novas imagens
 

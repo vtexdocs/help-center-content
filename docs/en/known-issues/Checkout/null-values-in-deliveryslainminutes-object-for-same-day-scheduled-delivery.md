@@ -1,5 +1,5 @@
 ---
-title: 'Null values in deliverySlaInMinutes object for same day scheduled delivery'
+title: "Null values in deliverySlaInMinutes object for same day scheduled delivery"
 id: 3iSfWDl8hMtuRaYxFKWjPI
 status: PUBLISHED
 createdAt: 2024-08-12T20:58:03.483Z

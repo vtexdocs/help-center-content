@@ -3,8 +3,8 @@ title: 'Configuring payment with AdyenV3'
 id: 7xAz67E2Eg63LWCQNjVdwv
 status: PUBLISHED
 createdAt: 2023-05-08T20:00:38.610Z
-updatedAt: 2024-10-30T12:31:17.835Z
-publishedAt: 2024-10-30T12:31:17.835Z
+updatedAt: 2025-02-04T17:32:24.228Z
+publishedAt: 2025-02-04T17:32:24.228Z
 firstPublishedAt: 2023-05-11T20:32:21.638Z
 contentType: tutorial
 productTeam: Financial
@@ -22,9 +22,13 @@ To use the AdyenV3 affiliation, you must:
 - [Configure your Adyen environment](#configuring-your-adyen-environment)
 - [Configuring the AdyenV3 connector on VTEX](#configuring-the-adyenv3-connector-on-vtex)
 
->⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
+<div class="alert alert-warning">
+Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Adyen account for the latest information.
+</div>
 
->ℹ️ To use the AdyenV3 affiliation through [Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) in your physical stores (point of sale), see [Configuring payments with AdyenV3 on Sales App](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3-in-instore--24yO6KloBn6DN6CbprHtgt).
+<div class="alert alert-info">
+To use the AdyenV3 affiliation through <a href="https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf">Sales App</a> in your physical stores (point of sale), see <a href="https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3-in-instore--24yO6KloBn6DN6CbprHtgt">Configuring payments with AdyenV3 on Sales App</a>.
+</div>
 
 ## Configuring your Adyen environment
 
@@ -38,7 +42,7 @@ To enable VTEX access to the Adyen environment, follow the instructions below:
 2. In the left sidebar, copy and save the information shown above __Company__. This is your Company account.
 3. In the list below Company, search for the Merchant Account that will be used (highlighted in white). Copy and save this information.
 
-![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_1.PNG)
+![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Getting the Live URL
 
@@ -47,13 +51,15 @@ To enable VTEX access to the Adyen environment, follow the instructions below:
 
 ### Getting the API Key and Client Key
 
->⚠️ The steps below assume that the API Key and Client Key have been previously generated in the Adyen environment. If you need to create them, see the [Adyen](https://docs.adyen.com/) documentation.
+<div class="alert alert-warning">
+The steps below assume that the API Key and Client Key have been previously generated in the Adyen environment. If you need to create them, see the <a href="https://docs.adyen.com/">Adyen</a> documentation.
+</div>
 
 1. In the sidebar, click __Developers__ and, then, click __API credentials__.
 2. Select your API credential.
 3. In __Server Settings > Authentication__, select __API key__. 
 
-![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_2.PNG)
+![Adyenv3_2](https://images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
 <blockquote><ui>4. Click <b>Generate Key</b> and store the created key in a safe location.</ui>
 
@@ -63,7 +69,7 @@ To enable VTEX access to the Adyen environment, follow the instructions below:
 
 <blockquote><ui>7. In <b>Add allowed origins</b>, add the domain address of your store. For example: https://www.yourstore.com.   
 
-![Adyenv3_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_3.png)
+![Adyenv3_3](https://images.ctfassets.net/alneenqid6w5/1HlZV1tWNXS4ME0B7LYsHR/61d66686d9a3a67c3dbbce8e331fef6d/Adyenv3_3.png)
 
 ### Configuring a webhook
 
@@ -77,7 +83,7 @@ Follow the steps below to configure a webhook:
 4. In **General > Description**, add a description for the new webhook. Example "Webhook Adyen Connector Provider v3".
 5. Em **General > Server configuration > URL**, enter the URL of your VTEX account. Example: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_4.PNG)
+![Adyenv3_4](https://images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
 <blockquote><ui>6. Click <b>Apply</b>.</ui>
 
@@ -85,13 +91,15 @@ Follow the steps below to configure a webhook:
 
 <blockquote><ui>8. Click <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_5.PNG)
+![Adyenv3_5](https://images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
 
-![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_6.PNG)
+![Adyenv3_6](https://images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
 
-![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_7.PNG)
+![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
->ℹ️ If you have several stores, you need to configure a webhook for each of them.
+<div class="alert alert-info">
+If you have several stores, you need to configure a webhook for each of them.
+</div>
 
 ## Configuring the AdyenV3 connector on VTEX
 
@@ -106,19 +114,22 @@ Follow the steps below to configure a webhook:
 9. In __Company account__, enter the name of you Company account (step 2 in the [Getting the Company and Merchant account credentials](#getting-the-company-and-merchant-account-credentials) section).
 10. In __Live POS URL__, you do not need to complete this field (it only applies to Sales App).
 11. In __Client key__, fill in the Client key (step 6 in the [Getting the API Key and Client Key](#getting-the-api-key-and-client-key) section).
-12. Click `Save`.
+12. Select the __Auto Capture Settings__, __POS Auto Capture Settings__ or __Boleto Expiration Days__ fields as needed.  
+13. Click `Save`.
 
-To configure the payment methods to be processed by AdyenV3, see [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455). If you want to use the Sales App for completing purchases, see [Configuring payments with AdyenV3 on Sales App](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3-in-instore--24yO6KloBn6DN6CbprHtgt).
+To configure the payment methods to be processed by AdyenV3, see [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455). If you want to use the Sales App for completing purchases, see [Configuring payments with AdyenV3 on Sales App](/en/tutorial/configuring-payment-with-adyenv3-in-instore--24yO6KloBn6DN6CbprHtgt).
 
-To define special conditions for payment methods, see [Configuring special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+To define special conditions for payment methods, see [Configuring special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 
 ## Configuring credit card  
 
-If you wish to process credit card payments in your store using AdyenV3, in addition to performing the previous configurations described in this article, you must open a ticket at [VTEX support](https://help.vtex.com/en/support), with the following request "Provider review - Add Endpoint SecureProxy - AdyenV3".
+If you wish to process credit card payments in your store using AdyenV3, in addition to performing the previous configurations described in this article, you must open a ticket at [VTEX support](/en/support), with the following request "Provider review - Add Endpoint SecureProxy - AdyenV3".
 
 In the ticket you must also send the URL that will be authorized by Adyen to carry out the credit card transaction in your store. The URL format must be `https://{live URL prefix}-checkout-live.adyenpayments.com`, where the information "{live URL prefix}" must be the same as that entered by you in the Adyen settings in the VTEX Admin.  
 
->⚠️ The full URL address must be written in lowercase letters only, even if the "Live URL prefix" configured in the VTEX Admin has some capital letters.    
+<div class="alert alert-warning">
+The full URL address must be written in lowercase letters only, even if the "Live URL prefix" configured in the VTEX Admin has some capital letters.
+</div>    
 
 ## Configure payment with Apple Pay on Adyen (optional) 
 

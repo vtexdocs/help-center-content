@@ -21,7 +21,9 @@ Para que o envio de pacotes seja feito pelas transportadoras é preciso que cada
 
 A nova funcionalidade permite notificar transportadoras e imprimir etiquetas padronizadas para o envio de pacotes. Com a ferramenta, a loja também consulta as etiquetas de pacotes que estão prontos para envio (pacotes de pedidos faturados) e pedidos que já tiveram as etiquetas impressas.
 
->ℹ️ As etiquetas geradas seguem o padrão VTEX Shipping Network para transportadoras que possuem integração com essa solução.
+<div class = "alert alert-info">
+As etiquetas geradas seguem o padrão VTEX Shipping Network para transportadoras que possuem integração com essa solução.
+</div>
 
 ## Por que realizamos esta mudança?
 
@@ -34,7 +36,7 @@ A funcionalidade foi lançada para que o lojista:
 
 ## O que precisa ser feito?
 
-Para utilizar a nova funcionalidade, lojas que utilizam a solução [VTEX Shipping Network](https://vtex.com/br-pt/log/) devem entrar em contato com o [suporte ](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)e solicitar a ativação da ferramenta **Pronto para envio**.
+Para utilizar a nova funcionalidade, lojas que utilizam a solução [VTEX Shipping Network](https://vtex.com/br-pt/log/) devem entrar em contato com o [suporte ](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)e solicitar a ativação da ferramenta **Pronto para envio**.
 
-Confira nossa documentação sobre a nova funcionalidade [Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) para saber mais.
+Confira nossa documentação sobre a nova funcionalidade [Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) para saber mais.
 

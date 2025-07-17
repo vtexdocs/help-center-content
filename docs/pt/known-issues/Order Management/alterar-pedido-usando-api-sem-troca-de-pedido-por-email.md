@@ -1,5 +1,5 @@
 ---
-title: 'Alterar pedido usando API sem troca de pedido por e-mail'
+title: "Alterar pedido usando API sem troca de pedido por e-mail"
 id: 1KMglga4xM1s7EvNO1mmua
 status: PUBLISHED
 createdAt: 2022-05-18T18:40:48.935Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: change-order-using-api-without-email-orderchanged
+slugEN: alterar-pedido-usando-api-sem-troca-de-pedido-por-email
 locale: pt
 kiStatus: No Fix
 internalReference: 380509
@@ -18,7 +18,9 @@ internalReference: 380509
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a administração de uma conta muda o pedido aplicando descontos no valor e não nos itens usando API o e-mail de Pedido de Mudança não está sendo enviado ao cliente final.

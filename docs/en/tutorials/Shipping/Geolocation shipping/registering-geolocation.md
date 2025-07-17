@@ -32,7 +32,9 @@ Access the [Generate your polygons with geojson.io](http://geojson.io/#map=2/20.
 
 This JSON will be used to add the polygon to the platform, that will translate that language to understand which Zip Codes are included in your area.
 
->❗ When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
+<div class="alert alert-danger">
+When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
+</div>
 
 ## How to add a polygon
 
@@ -58,9 +60,10 @@ Example:
 
 Done! Now just use this same ID in the freight spreadsheet, at the **PolygonName** column. 
 
->⚠️ It is important to note that, if you use geolocation, therefore filling in the **PolygonName** column of the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127), the carrier will not use the **ZipCodeStart** and **ZipCodeEnd** columns, which must be filled in with `0`.
+<div class="alert alert-warning">It is important to note that, if you use geolocation, therefore filling in the <b>PolygonName</b> column of the <a href="https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127">shipping rate template</a>, the carrier will not use the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> columns, which must be filled in with <code>0</code>.
+</div>
 
-On the [Checkout tab](https://help.vtex.com/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
+On the [Checkout tab](/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 
 Please also enable all Google Cloud Platform APIs to ensure that the key works:
 
@@ -83,4 +86,5 @@ If you need to change some delivery area of a polygon that already exists, you c
 
 Here the process is even simpler, because you don't need to change any information on the freight spreadsheet, since the system performs the search by ID.
 
->⚠️ If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.
+<div class = "alert alert-warning"> If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.
+</div>

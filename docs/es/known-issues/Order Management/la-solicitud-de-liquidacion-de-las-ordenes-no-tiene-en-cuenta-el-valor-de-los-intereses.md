@@ -1,5 +1,5 @@
 ---
-title: 'La solicitud de liquidación de las órdenes no tiene en cuenta el valor de los intereses'
+title: "La solicitud de liquidación de las órdenes no tiene en cuenta el valor de los intereses"
 id: 149FG86c1f7sok1NJ7PWAQ
 status: PUBLISHED
 createdAt: 2024-11-05T17:51:29.058Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: request-for-settlement-of-orders-does-not-account-for-the-value-of-interest
+slugEN: la-solicitud-de-liquidacion-de-las-ordenes-no-tiene-en-cuenta-el-valor-de-los-intereses
 locale: es
 kiStatus: Backlog
 internalReference: 1130035
@@ -18,7 +18,9 @@ internalReference: 1130035
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando a una orden se le aplican intereses, el valor total de la operación acaba siendo superior al valor original de la orden. Sin embargo, durante el proceso de envío de la solicitud de liquidación desde el sistema de órdenes a la pasarela de pagos, el sistema sólo envía el importe de la orden, sin tener en cuenta los intereses, lo que da lugar a una solicitud de liquidación con un importe inferior al total de la operación, lo que puede impedir que la operación se capture completamente.

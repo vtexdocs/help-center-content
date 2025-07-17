@@ -1,5 +1,5 @@
 ---
-title: 'La promoción Comprar juntos con muchas referencias puede hacer que los productos elegibles no se carguen en la parte delantera (tiempo de espera).'
+title: "La promoción Comprar juntos con muchas referencias puede hacer que los productos elegibles no se carguen en la parte delantera (tiempo de espera)."
 id: e1OJuUhZhYidnoRaDoDRc
 status: PUBLISHED
 createdAt: 2022-01-21T17:36:41.181Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: buy-together-promotion-with-lots-of-skus-may-let-the-eligible-products-not-to-load-on-the-front-timeout
+slugEN: la-promocion-comprar-juntos-con-muchas-referencias-puede-hacer-que-los-productos-elegibles-no-se-carguen-en-la-parte-delantera-tiempo-de-espera
 locale: es
 kiStatus: No Fix
 internalReference: 301463
@@ -18,7 +18,9 @@ internalReference: 301463
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La promoción Buy Together con muchas SKU puede hacer que los productos elegibles no se carguen en la portada debido al tiempo de espera. Las páginas de producto utilizan el control de producto `<vtex.cmc:BuyTogether/>`. Este control es responsable de llevar la información de todos los SKUs elegibles establecidos en la promoción a la página del producto.

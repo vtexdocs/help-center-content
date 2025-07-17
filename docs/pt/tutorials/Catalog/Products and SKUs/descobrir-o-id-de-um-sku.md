@@ -3,47 +3,39 @@ title: 'Descobrir o ID de um SKU'
 id: 4VQZsYeb3igGK2YowuEYWW
 status: PUBLISHED
 createdAt: 2018-02-07T13:04:01.334Z
-updatedAt: 2023-03-29T18:17:03.976Z
-publishedAt: 2023-03-29T18:17:03.976Z
+updatedAt: 2025-06-25T19:23:02.945Z
+publishedAt: 2025-06-25T19:23:02.945Z
 firstPublishedAt: 2018-02-07T17:21:00.652Z
 contentType: tutorial
-productTeam: Marketing & Merchandising
+productTeam: Management
 author: authors_59
-slugEN: how-to-find-an-sku-id
+slugEN: finding-a-sku-id
 locale: pt
 legacySlug: descobrir-o-id-de-um-sku
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-O ID do SKU é o número que identifica um determinado SKU. Esta informação pode ser utilizada em chamadas de API e em investigações de cenários envolvendo um determinado SKU, por exemplo. 
+Na VTEX, o SKU (Stock Keeping Unit) corresponde tanto à unidade física de estoque do produto quanto ao nível mais específico para lidar com a variação desse produto. Por exemplo, se o produto é uma camiseta, o SKU poderia ser uma camiseta branca P. A partir do ID do SKU, você pode [editar o SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN) ou realizar outras ações.
 
-Este número identificador é extremamente importante para qualquer ação que você deseje tomar em relação a um determinado SKU.
+Para descobrir o ID de um SKU, siga os passos abaixo:
 
-Existem algumas maneiras de descobrir o ID de um SKU:
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+2. Para exibir os [SKUs adicionados ao produto](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), clique na seta para baixo ao lado do nome do produto.
+3. Identifique a sequência numérica que antecede o nome do SKU. Este é o seu ID.
 
-## Admin VTEX
+No exemplo abaixo, o produto "Camiseta Corebiz Preta" está associado ao SKU "Camiseta Preta Unisex", e o ID do SKU é `310119261`:
 
-Para descobrir o ID de um SKU pelo Admin, siga os passos abaixo:
+![finding_sku_id_PT](https://images.ctfassets.net/alneenqid6w5/3MlMkBI75SP7R5Arj2n8ke/69cd4a04d5f3c31d19a2a18ba19fed91/finding_sku_id_PT.png)
 
-1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
-2. Clique em __Todos os produtos__.
-  Você verá uma lista com todos os Produtos e SKUs cadastrados em sua loja. Na coluna central, estão listados todos os SKUs.
-4. Vá até o SKU desejado e verifique o número informado entre parênteses. Este número é o ID do seu SKU.
+## Identificar ID do SKU pela URL
 
-### Exemplo
+Quando você clica em um SKU e acessa sua [página de edição](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), a URL no seu navegador apresenta o seguinte formato: 
 
-No exemplo abaixo, o ID do SKU é __18__.
+`https://{nomeConta}.myvtex.com/catalog-products/product/{IDproduto}/sku/{IDsku}`
 
-![skuId-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/descobrir-o-id-de-um-sku_1.png)
+A sequência numérica que aparece ao final da URL corresponde ao ID do SKU.
 
-## URL de cadastro do SKU
+<div class = "alert alert-info">
+  <p>Para descobrir o ID de SKUs pela <b>Catalog API</b>, utilize o endpoint <a href="https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/sku/stockkeepingunitids">List all SKU IDs</a>.</p>
+</div>
 
-Para descobrir o ID de um SKU pela URL de cadastro do SKU, siga os passos abaixo:
-
-1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
-2. Clique em __Todos os produtos__. Você verá uma lista com todos os Produtos e SKUs cadastrados em sua loja.
-3. Clique no nome do SKU desejado.
-4. Observe a URL da página carregada. Você verá uma URL com o seguinte formato: `https://{accountName}.myvtex.com/admin/Site/SkuForm.aspx?IdSku={number}`
- O ID do SKU será o número exibido no lugar de `{number}`.
-
->❗ Para garantir que itens adicionados ao estoque fiquem disponíveis para venda na loja, o [ ID do SKU ](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW) não deve conter **o número zero à esquerda**. O sistema não reconhece, por exemplo, IDs no formato `01`, `02`, `021`, pois é esperado o formato  `1`, `2`, `21`.

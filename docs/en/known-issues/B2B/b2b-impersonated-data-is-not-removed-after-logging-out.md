@@ -1,5 +1,5 @@
 ---
-title: 'B2B impersonated data is not removed after logging out'
+title: "B2B impersonated data is not removed after logging out"
 id: bHYLV4reDQl4epmPbYwmJ
 status: PUBLISHED
 createdAt: 2024-07-18T21:56:41.780Z

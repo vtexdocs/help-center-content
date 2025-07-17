@@ -1,5 +1,5 @@
 ---
-title: 'La solicitud del centro de impuestos no suma los descuentos cuando se aplica el precio manual'
+title: "La solicitud del centro de impuestos no suma los descuentos cuando se aplica el precio manual"
 id: 3p8mpZALGS95pB9j4CclHi
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:23.968Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-hub-request-doesnt-sum-discounts-when-manual-price-is-applied
+slugEN: la-solicitud-del-centro-de-impuestos-no-suma-los-descuentos-cuando-se-aplica-el-precio-manual
 locale: es
 kiStatus: No Fix
 internalReference: 932667
@@ -18,7 +18,9 @@ internalReference: 932667
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se aplica un precio manual a un artículo para disminuir el precio, la solicitud del centro de impuestos no lo suma y muestra los totales de descuento siempre como 0.

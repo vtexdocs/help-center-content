@@ -1,5 +1,5 @@
 ---
-title: "Interfaz de usuario de la audiencia de la campaña cambiando 'Diferente de' a 'Igual a' con una colección"
+title: 'Interfaz de usuario de la audiencia de la campaña cambiando "Diferente de" a "Igual a" con una colección'
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection
+slugEN: interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion
 locale: es
 kiStatus: Backlog
 internalReference: 881131
@@ -18,7 +18,9 @@ internalReference: 881131
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
@@ -35,11 +37,11 @@ Cree un público de Campaña con un público objetivo, en Colecciones, seleccion
 Vuelve al público objetivo y comprueba que la opción Diferente de ha cambiado a Igual a
 
 Antes de guardar:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kHN5aLHsNDPz5pblzihtgsw28/?name=Captura+de+Tela+2023-08-15+a%CC%80s+12.09.12.png)
 
 Después de guardar:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/hLAnRYl94mE99yyyRWVo461j5/?name=Captura+de+Tela+2023-08-15+a%CC%80s+12.09.24.png)
 
 
 

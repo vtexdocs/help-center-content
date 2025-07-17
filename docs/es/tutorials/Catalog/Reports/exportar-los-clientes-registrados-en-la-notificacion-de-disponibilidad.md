@@ -15,9 +15,11 @@ legacySlug: exportar-los-clientes-registrados-en-la-notificacion-de-disponibilid
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
->⚠️ Este articulo se aplica a la opción **Avísame** en las tiendas que usan [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), hay que seguir las instrucciones de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+<div class="alert alert-warning">
+<p>Este articulo se aplica a la opción <strong>Avísame</strong> en las tiendas que usan <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>. En las tiendas que usan <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, hay que seguir las instrucciones de la guía <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a>.</p>
+</div>
 
-Para exportar los datos de los clientes que se han registrado en la base de [Avisame](https://help.vtex.com/es/tutorial/configurar-la-opcion-avisame--2VqVifQuf6Co2KG048Yu6e), siga los pasos abajo:
+Para exportar los datos de los clientes que se han registrado en la base de [Avisame](/es/tutorial/configurar-la-opcion-avisame--2VqVifQuf6Co2KG048Yu6e), siga los pasos abajo:
 
 1.  En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en __Informes__.

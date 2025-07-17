@@ -15,7 +15,7 @@ legacySlug: entendendo-os-pedidos-incompletos
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Sempre que um pedido não estiver listado em [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) sem nenhum filtro, ele pode estar como **incompleto**.
+Sempre que um pedido não estiver listado em [Todos os pedidos](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) sem nenhum filtro, ele pode estar como **incompleto**.
 
 O estado de incompleto é quando o pedido não está com todas informações completas para ser finalizado na plataforma.
 
@@ -23,7 +23,9 @@ Além disso, todos os pedidos incompletos não têm Workflow e esse é um compor
 
 Como um pedido incompleto foi interrompido, ativar um Workflow para uma situação inativa não seria funcional.
 
->❗ É recomendado que caso haja um Pedido Incompleto, o pedido seja refeito na loja. Pedidos incompletos são utilizados apenas para registro, e a plataforma não faz novas requisições para um pedido incompleto. Assim, se um pedido está incompleto e o cliente quer dar continuidade ao pedido, ele precisa criar um novo pedido com os mesmos itens.
+<div class="alert alert-danger"> 
+É recomendado que caso haja um Pedido Incompleto, o pedido seja refeito na loja. Pedidos incompletos são utilizados apenas para registro, e a plataforma não faz novas requisições para um pedido incompleto. Assim, se um pedido está incompleto e o cliente quer dar continuidade ao pedido, ele precisa criar um novo pedido com os mesmos itens. 
+</div>
 
 Desse modo, processo segue como de costume.
 
@@ -45,5 +47,5 @@ A desistência da finalização de compra pelo cliente após clicar no botão fi
 
 ## Como identificar esses pedidos?
 
-Nos [filtros](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos--tutorials_192) da página **Todos os pedidos**, na aba **Status**, existe a opção **Status de conclusão**. Basta marcar a opção `Incompleto` para que todos os pedidos nessa situação sejam listados.
+Nos [filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192) da página **Todos os pedidos**, na aba **Status**, existe a opção **Status de conclusão**. Basta marcar a opção `Incompleto` para que todos os pedidos nessa situação sejam listados.
 

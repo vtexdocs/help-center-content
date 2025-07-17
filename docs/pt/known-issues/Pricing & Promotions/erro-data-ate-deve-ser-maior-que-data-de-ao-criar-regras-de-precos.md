@@ -1,5 +1,5 @@
 ---
-title: "Erro: 'Data até' deve ser maior que 'Data de' ao criar regras de preços"
+title: 'Erro: "Data até" deve ser maior que "Data de" ao criar regras de preços'
 id: 6jEbSXEvjfJMGros69POZ7
 status: PUBLISHED
 createdAt: 2024-10-10T13:21:06.386Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: error-date-to-must-be-greater-than-date-from-when-creating-pricing-rules
+slugEN: erro-data-ate-deve-ser-maior-que-data-de-ao-criar-regras-de-precos
 locale: pt
 kiStatus: Backlog
 internalReference: 1114921
@@ -18,7 +18,9 @@ internalReference: 1114921
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

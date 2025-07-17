@@ -25,11 +25,11 @@ Before, when the marketplace declined SKU suggestions, they were not blocked fro
 
 Starting from October 28th, 2020, rejecting a received SKU will imply blocking its sending by sellers. This means that sellers won't be able to send their entire catalog at once whenever they send new or updated SKUs to the marketplace. 
 
-No configuration is needed to activate this functionality - it will be installed automatically on the VTEX platform. To learn more about SKU blocking in the Received SKUs module, check out our article about [Manual SKU Cataloging](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396). 
+No configuration is needed to activate this functionality - it will be installed automatically on the VTEX platform. To learn more about SKU blocking in the Received SKUs module, check out our article about [Manual SKU Cataloging](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396). 
 
 It is worth noting that this action can be undone. It is possible to approve a blocked SKU through REST API if the marketplace wishes to receive it again as a suggestion from the seller. To learn more about SKU approval, access our API documentation on the Developer Portal.
 
-![EN SKUs Recebidos Announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020-10-26-marketplace-improvements-on-received-skus_1.jpg)
+![EN SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/fab32d8d2bbf1b59bace4e2fb0d85ac5/EN_SKUs_Recebidos_Announcement.jpg)
 
 ## Configuring automatic SKU approval
 

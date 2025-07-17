@@ -3,8 +3,8 @@ title: 'Registrar Precio Base'
 id: P99EjtrlRHk92Q8qDPq29
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:47.694Z
-updatedAt: 2023-03-29T18:29:21.378Z
-publishedAt: 2023-03-29T18:29:21.378Z
+updatedAt: 2024-11-27T11:36:41.541Z
+publishedAt: 2024-11-27T11:36:41.541Z
 firstPublishedAt: 2019-07-17T19:41:10.765Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ trackSlugES: precios-101
 Hay tres formas de registrar un precio base:
 
 - A través del Admin
-- [Por plantilla](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D0
+- [Por plantilla](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - Por API REST
 
 Siga el procedimiento a continuación para registrar los precios base de sus SKUs: 
@@ -40,7 +40,9 @@ Si lo desea, es posible registrar un **precio de lista** asociado al precio base
 
 ## API REST
 
->⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para comprender más, acceda a nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para comprender más, acceda a nuestro artículo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
+</div>
 
 Para registrar el **precio base** de un SKU, usted necesita enviar un __PUT__ para el siguiente endpoint:
 

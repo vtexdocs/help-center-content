@@ -1,5 +1,5 @@
 ---
-title: 'A organização B2B não considera as contas que usam geolocalização ao registrar o endereço'
+title: "A organização B2B não considera as contas que usam geolocalização ao registrar o endereço"
 id: 2o6k71zZQWGVNDVSTwMZSx
 status: PUBLISHED
 createdAt: 2023-09-21T16:10:29.092Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-organization-dont-consider-accounts-using-geolocation-when-registering-address
+slugEN: a-organizacao-b2b-nao-considera-as-contas-que-usam-geolocalizacao-ao-registrar-o-endereco
 locale: pt
 kiStatus: Backlog
 internalReference: 904907
@@ -18,7 +18,9 @@ internalReference: 904907
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A organização B2B não tem nada para configurar um endereço quando as contas usam geolocalização, fazendo com que os itens fiquem indisponíveis.

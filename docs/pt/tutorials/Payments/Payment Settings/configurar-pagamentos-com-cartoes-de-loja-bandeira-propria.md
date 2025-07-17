@@ -15,7 +15,7 @@ legacySlug: configurar-pagamentos-com-cartoes-de-loja-bandeira-propria
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, sua loja pode receber pagamentos com __cartão de loja (bandeira própria)__. Para isso, você vai precisar primeiro cadastrar uma [afiliação de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444#) capaz de processar esse meio de pagamento. 
+Na VTEX, sua loja pode receber pagamentos com __cartão de loja (bandeira própria)__. Para isso, você vai precisar primeiro cadastrar uma [afiliação de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444#) capaz de processar esse meio de pagamento. 
 
 Em seguida, deverão ser realizadas duas etapas de configuração. 
 
@@ -36,7 +36,7 @@ Com uma das afiliações de gateway acima cadastrada com sucesso, você deverá 
 12. No campo __Máscara de Cartão__, escolha os símbolos que vão representar os 16 dígitos do cartão no momento da compra. Essa é uma configuração para proteger o número do cartão do seu cliente. Você pode escolher os caracteres que preferir, separando-os em quatro grupos de quatro e usando espaços.
 13. Em __Validade do pagamento__, informe o período máximo (quantidade de dias) que o pagamento pode ser efetuado. Após este tempo, em caso de não pagamento, o pedido será cancelado.
 14. No campo __Autorizar automaticamente (somente aplica se o Integrador é Default)__, diga se deseja autorizar os pagamentos de forma automática.
-15. No campo __Ativar split de pagamento (caso o provider de processamento do pagamento suporte esta função)__, informe se deseja ativar a solução de split de recebíveis. Em caso positivo, quando a venda envolver pedidos com múltiplos merchants, os recebíveis da promissória serão divididos entre os sellers e o marketplace. Para maiores informações, veja [Split de Pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento).
+15. No campo __Ativar split de pagamento (caso o provider de processamento do pagamento suporte esta função)__, informe se deseja ativar a solução de split de recebíveis. Em caso positivo, quando a venda envolver pedidos com múltiplos merchants, os recebíveis da promissória serão divididos entre os sellers e o marketplace. Para maiores informações, veja [Split de Pagamento](/pt/tutorial/split-de-pagamento).
 16. Clique em __Salvar__.
 
 ## Configurar condição de pagamento

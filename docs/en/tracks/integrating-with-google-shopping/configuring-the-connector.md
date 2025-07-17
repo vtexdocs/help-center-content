@@ -22,7 +22,7 @@ You must configure the integration with Google Shopping in the Admin. Please fol
 4. Complete the fields displayed on the screen as described below, and then, at the top right of the screen, click `Connect` (the fields with * are required).
 
    - **Integration\*:** click _ON_ to enable the integration.
-   - **Ignore sending EAN (GTIN):** if you click _ON_, SKUs will be sent without their barcodes. If your product has a barcode, we recommend selecting _OFF_ to include this information in the integration. See the article[ Filling in the EAN field](https://help.vtex.com/en/tutorial/cadastrar-o-codigo-de-barra-dos-skus-para-o-instore--2jkOdRB4XSMG2ke0uUQIKS#cadastrar-o-campo-ean) for further details.
+   - **Ignore sending EAN (GTIN):** if you click _ON_, SKUs will be sent without their barcodes. If your product has a barcode, we recommend selecting _OFF_ to include this information in the integration. See the article[ Filling in the EAN field](/en/tutorial/cadastrar-o-codigo-de-barra-dos-skus-para-o-instore--2jkOdRB4XSMG2ke0uUQIKS#cadastrar-o-campo-ean) for further details.
    - **Merchant Id\*:** code assigned to your Google Merchant Center profile. It is a numeric sequence that appears in the upper right corner of your screen when you access your account.
    - **Trade Policy***: number of the trade policy that will define the catalog assortment and the price of the items used in the integration.
    - **Google Merchant email\*:** the email used to create the Google Merchant Center account.

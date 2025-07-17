@@ -3,8 +3,8 @@ title: 'Como criar um anexo de assinatura pelo módulo Catálogo'
 id: 2bUuKyPflA8cOGLv8OvaKK
 status: PUBLISHED
 createdAt: 2021-07-06T15:31:40.648Z
-updatedAt: 2024-09-20T16:57:10.523Z
-publishedAt: 2024-09-20T16:57:10.523Z
+updatedAt: 2025-02-25T18:41:12.723Z
+publishedAt: 2025-02-25T18:41:12.723Z
 firstPublishedAt: 2021-07-06T17:47:38.919Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,21 +15,22 @@ legacySlug: como-criar-um-anexo-de-assinatura
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
->ℹ️ Caso você utilize o módulo de **Assinaturas** no Admin VTEX, recomendamos criar um plano de assinatura por esse módulo. Para mais informações, veja o artigo [Como criar um plano de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC).
+<div class = "alert alert-info">
+Caso você utilize o módulo de <b>Assinaturas</b> no Admin VTEX, recomendamos criar um plano de assinatura por esse módulo. Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Como criar um plano de assinatura</a>. 
+</div>
 
-[Assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é a solução da VTEX que permite aos lojistas venderem de forma recorrente e automática para os clientes assinantes, de acordo com determinada frequência.
+[Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é a solução da VTEX que permite aos lojistas venderem de forma recorrente e automática para os clientes assinantes, de acordo com determinada frequência.
 
 Existem duas formas pelas quais os produtos da sua loja podem ser adquiridos via assinatura:
 
-* Criação de [planos de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) pelo módulo **Assinatura**.
+* Criação de [planos de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) pelo módulo **Assinatura**.
 * Criação de anexos de assinatura pelo módulo **Catálogo**.
 
 Este artigo explica como criar anexos de assinatura pelo **Catálogo**, o que é recomendado quando a loja não utiliza o módulo **Assinaturas (Beta)**.
 
->⚠️ É importante compreender a utilização do termo anexo no contexto de assinaturas:
-> *[Anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm): é uma customização do SKU opcional e sem custos, uma forma do lojista adicionar informação a um item.
-> * **Anexo de assinatura:** é um tipo específico de anexo que possibilita a criação de assinaturas para um SKU. Os clientes podem criar assinaturas para obter o SKU periodicamente quando ele foi associado a um anexo de assinatura.
-> * **Assinatura de SKU com anexo:** quando o cliente cria uma assinatura a partir de um pedido com um SKU que possui anexo, para que o anexo do pedido original seja mantido nos pedidos da assinatura, o lojista precisa habilitar essa configuração na loja. Isso é feito somente por API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+<div class="alert alert-warning">
+<p>É importante compreender a utilização do termo anexo no contexto de assinaturas:<ul><li><a href="https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm">Anexo</a>: é uma customização do SKU opcional e sem custos, uma forma do lojista adicionar informação a um item.</li><li><b>Anexo de assinatura:</b> é um tipo específico de anexo que possibilita a criação de assinaturas para um SKU. Os clientes podem criar assinaturas para obter o SKU periodicamente quando ele foi associado a um anexo de assinatura.</li><li><b>Assinatura de SKU com anexo:</b> quando o cliente cria uma assinatura a partir de um pedido com um SKU que possui anexo, para que o anexo do pedido original seja mantido nos pedidos da assinatura, o lojista precisa habilitar essa configuração na loja. Isso é feito somente por API usando o endpoint <a href="https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings">Edit subscriptions settings</a>. Saiba mais em <a href="https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions">How to keep attachments from original orders in subscriptions</a>.</li></ul></p>
+</div>
 
 ## Anexo de assinatura do Catálogo
 
@@ -52,7 +53,9 @@ Siga os passos abaixo para criar um anexo de assinatura:
   * `vtex.subscription.teste`
 4. No campo **Anexo obrigatório**, deixe a caixa de seleção desmarcada.
 
-  >❗ O campo **Anexo obrigatório** não deve ser marcado. Se por acaso ele for marcado, o sistema de **Assinaturas** tentará enviar um pedido com assinatura para um item que já possui um anexo obrigatório (o anexo de assinatura), gerando um erro no sistema. Portanto, caso o campo **Anexo obrigatório** tenha sido marcado por engano, desmarque-o e solicite ao cliente da loja que realize o pedido novamente.
+  <div class="alert alert-danger">
+O campo <b>Anexo obrigatório</b> não deve ser marcado. Se por acaso ele for marcado, o sistema de <b>Assinaturas</b> tentará enviar um pedido com assinatura para um item que já possui um anexo obrigatório (o anexo de assinatura), gerando um erro no sistema. Portanto, caso o campo <b>Anexo obrigatório</b> tenha sido marcado por engano, desmarque-o e solicite ao cliente da loja que realize o pedido novamente.
+</div>
 
 5. No campo **Status**, marque a caixa de seleção `Ativa/Desativa o anexo`.
 6. Clique em `Salvar`.
@@ -73,9 +76,13 @@ Para configurar as frequências e datas de ciclo de assinatura que deseja oferec
 6. No campo **Nome da chave**, insira o valor fixo `vtex.subscription.key.purchaseday`, que corresponde a data do ciclo da assinatura.
 7. No campo **Valores permitidos**, defina os valores desejados para a data do ciclo (conforme as orientações da tabela abaixo).
 
-  >⚠️ Caso nenhum valor seja inserido no campo **Valores Permitidos** para o `vtex.subscription.key.purchaseday`, a data do ciclo de assinatura será o mesmo dia da semana (para frequência semanal) ou dia do mês (para frequência mensal) do pedido original.
+  <div class="alert alert-warning">
+<p>Caso nenhum valor seja inserido no campo <b>Valores Permitidos</b> para o <code>vtex.subscription.key.purchaseday</code>, a data do ciclo de assinatura será o mesmo dia da semana (para frequência semanal) ou dia do mês (para frequência mensal) do pedido original.</p>
+</div>
 
-  >ℹ️ Não é necessário preencher o campo **Número máximo de caracteres**.
+  <div class = "alert alert-info">
+Não é necessário preencher o campo <b>Número máximo de caracteres</b>.
+</div>
 
 8. Clique em `Salvar`.
 
@@ -88,11 +95,11 @@ As imagens a seguir apresentam exemplos de preenchimento no Admin VTEX:
 
 * **Exemplo de frequência mensal:** a imagem apresenta uma assinatura mensal com pedidos que podem ser feitos todo dia 1, 15 ou 28 de cada mês:
 
-  ![PT Assinatura Exemplo Valores month](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_1.png)
+  ![PT Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/3ogGjc6DLexe7YeL3qyiuI/748b3dd8e63870c539b58f3404521031/PT_Assinatura_Exemplo_Valores_month.png)
 
 * **Exemplo de frequência a cada 3 semanas:** a imagem apresenta uma assinatura que cria novos pedidos a cada 3 semanas, e a compra pode acontecer aos domingos, terças ou sábados.
 
-  ![PT Assinatura Exemplo Valores week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo_2.png)
+  ![PT Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/20va8G0uiw3jpHKM2a99Al/7ef796fd84e1328bcc0b6f637bdc30f1/PT_Assinatura_Exemplo_Valores_week.png)
 
 ## 3. Associar SKU ao anexo de assinatura
 
@@ -107,6 +114,6 @@ Feito isso, os clientes poderão criar assinaturas na sua loja para adquirir de 
 
 ### Saiba mais
 
-* [Como funciona a assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
-* [Como configurar Assinaturas na sua loja](https://help.vtex.com/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
+* [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
+* [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
 * [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions)

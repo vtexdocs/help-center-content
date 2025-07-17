@@ -3,8 +3,8 @@ title: 'Registrar Tabla de Precio'
 id: 2WQ3pVYfQpXkJnHr7VTFBv
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:23.343Z
-updatedAt: 2023-03-29T18:54:37.108Z
-publishedAt: 2023-03-29T18:54:37.108Z
+updatedAt: 2025-05-01T18:58:11.738Z
+publishedAt: 2025-05-01T18:58:11.738Z
 firstPublishedAt: 2019-07-17T19:40:54.612Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -16,8 +16,8 @@ trackSlugES: precios-101
 
 Hay dos formas de registrar las tablas de precio:
 
-- por el Admin 
-- por API REST
+- [A través del módulo de Precios en el Admin](#admin)
+- [Mediante la Pricing API](#pricing-api)
 
 Siga el siguiente procedimiento para registrar las tablas de precio de su tienda: 
 
@@ -29,27 +29,5 @@ Siga el siguiente procedimiento para registrar las tablas de precio de su tienda
 4.  Digite el nombre de la tabla de precio que desea crear.
 5.  Haga clic en **Crear tabla de precio**.
 
-## API REST
-
->⚠️ Authentications for Prices module's API REST calls should be done using AppKey and AppToken. For more info, read our article on [how to generate an AppKey and AppToken to authenticate integrations](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
-
-Para registrar la **tabla de precio**, necesita enviar un __PUT__ para el siguiente  endpoint:
-
-`https://api.vtex.com/{{account}}/pricing/tables/{{priceTableName}}`
-
-Al pasar el valor de la `{{priceTableName}}` en el endpoint, se creará una nueva tabla de precios.
-
-| __Propiedades__ | __Tipos__ | __Descripción__ |
-|------------------|-----------|-------------|
-| priceTableName | string | Nombre de la tabla de precio que se creará |
-
-- A continuación, tenemos un ejemplo de Header para ser pasados en el request
-
-### Headers 
-
-| Header| Value |
-|------------------|-----------|
-| Accept | application/vnd.vtex.pricing.v3+json |
-| Content-Type | application/json |
-| X-VTEX-API-AppKey | {{X-VTEX-API-AppKey}} |
-| X-VTEX-API-AppToken | {{X-VTEX-API-AppToken}} |
+## Pricing API
+Para crear una tabla de precios mediante API, utiliza el endpoint [Create price table](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/tables/-priceTableId-) de la Pricing API.

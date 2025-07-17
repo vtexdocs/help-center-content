@@ -1,5 +1,5 @@
 ---
-title: 'Pesquisar API não retornando mostrarIfNotAvailable=true SKUs for &fq=specificationFilter queries.'
+title: "Pesquisar API não retornando mostrarIfNotAvailable=true SKUs for &fq=specificationFilter queries."
 id: 7p26JmS8pyPA8H0b1QJHyU
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:27.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: search-api-not-returning-showifnotavailabletrue-skus-for-fqspecificationfilter-queries
+slugEN: pesquisar-api-nao-retornando-mostrarifnotavailabletrue-skus-for-fqspecificationfilter-queries
 locale: pt
 kiStatus: No Fix
 internalReference: 336896
@@ -18,7 +18,9 @@ internalReference: 336896
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

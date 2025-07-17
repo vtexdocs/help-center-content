@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Site Editor content storage received an upgrade for better performance and reliability.'
 ---
 
-On June 12, [Site Editor](https://help.vtex.com/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) content storage was updated for all accounts that use it in order to address a known issue: [Intermittent Site Editor content loss](https://help.vtex.com/en/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). This upgrade improves storage performance, reliability, and reduces the size of your stored content.
+On June 12, [Site Editor](/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) content storage was updated for all accounts that use it in order to address a known issue: [Intermittent Site Editor content loss](/en/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). This upgrade improves storage performance, reliability, and reduces the size of your stored content.
 ## What has changed?
 Previously, frequent content changes in Site Editor could cause the `content.json` file to become excessively large, leading to content loss when [promoting a production workspace to master](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspaces-best-practices#deployment-and-workspace-promotion) or installing a new theme version in a test workspace.
 
@@ -24,5 +24,5 @@ We have now improved the storage architecture and file partitioning solution for
 ## What needs to be done?
 No action is needed. The upgrade was automatically implemented in all VTEX stores using Site Editor.
 
-If you continue to experience content loss after June 12, open a ticket with [VTEX Support](https://help.vtex.com/support).
+If you continue to experience content loss after June 12, open a ticket with [VTEX Support](/support).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Acessórios diferentes por SKU não funcionam'
+title: "Acessórios diferentes por SKU não funcionam"
 id: 8jnZQfnv1KQWWueYci4qO
 status: PUBLISHED
 createdAt: 2018-04-30T17:15:59.325Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: different-accessories-by-sku-dont-work
+slugEN: acessorios-diferentes-por-sku-nao-funcionam
 locale: pt
 kiStatus: Backlog
 internalReference: 

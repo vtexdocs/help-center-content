@@ -1,5 +1,5 @@
 ---
-title: 'MELI Mapper incorrectly sending product specification as variation'
+title: "MELI Mapper incorrectly sending product specification as variation"
 id: 6b49pUUxL3B3RtUWofLjL8
 status: PUBLISHED
 createdAt: 2023-06-27T11:20:49.475Z

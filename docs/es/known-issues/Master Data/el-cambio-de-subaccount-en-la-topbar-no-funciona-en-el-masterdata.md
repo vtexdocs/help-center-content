@@ -1,5 +1,5 @@
 ---
-title: 'El cambio de subaccount en la topbar no funciona en el Masterdata'
+title: "El cambio de subaccount en la topbar no funciona en el Masterdata"
 id: nvnf7smhUW2uy0saI6I2w
 status: PUBLISHED
 createdAt: 2018-12-05T22:53:38.886Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: error-when-toggling-subaccounts-on-masterdatas-crm-topbar
+slugEN: el-cambio-de-subaccount-en-la-topbar-no-funciona-en-el-masterdata
 locale: es
 kiStatus: Backlog
 internalReference: 

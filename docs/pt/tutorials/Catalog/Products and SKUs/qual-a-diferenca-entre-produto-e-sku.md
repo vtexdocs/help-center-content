@@ -27,4 +27,4 @@ Estruturalmente, primeiro você define as informações do produto para, depois,
 
 ## Artigos relacionados
 
-- [Cadastrar um produto](https://help.vtex.com/pt/tutorial/cadastrando-produtos--tutorials_2567)
+- [Cadastrar um produto](/pt/tutorial/cadastrando-produtos--tutorials_2567)

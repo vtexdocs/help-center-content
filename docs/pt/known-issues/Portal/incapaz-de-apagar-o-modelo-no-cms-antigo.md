@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de apagar o modelo no CMS antigo'
+title: "Incapaz de apagar o modelo no CMS antigo"
 id: 4mVMlMcpxiQdL7LxvCceii
 status: PUBLISHED
 createdAt: 2022-03-16T16:30:51.695Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: unable-to-delete-template-on-legacy-cms
+slugEN: incapaz-de-apagar-o-modelo-no-cms-antigo
 locale: pt
 kiStatus: Backlog
 internalReference: 332033
@@ -18,7 +18,9 @@ internalReference: 332033
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os clientes não são capazes de excluir os modelos do CMS antigo.

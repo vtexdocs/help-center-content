@@ -1,5 +1,5 @@
 ---
-title: "When trying to approve payment, Orders Managment returns 'authorize-fulfillment' error. What to do?"
+title: 'When trying to approve payment, Orders Managment returns "authorize-fulfillment" error. What to do?'
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z
@@ -18,9 +18,9 @@ A common mistake in payment approval at the **Orders** module is the lack of inv
 
 In such case, when you try to approve the payment in **Orders**, you will see the following error:
 
-![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Post-purchase/when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do_1.png)
+![error authorize fulfillment](https://images.contentful.com/alneenqid6w5/5Wvwem2kucqsOIYKq4WW00/23b0ffb4209565da148382c3299e2bac/error_authorize_fulfillment.png)
 
-To confirm that this is the problem, in the [order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), click `View Interactions` to see the order details.
+To confirm that this is the problem, in the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), click `View Interactions` to see the order details.
 
 If there is an error such as "The requested reservation *00-abc* could not be guaranteed for the *00-xyz* order", it is because one or many of the SKUs included in the cart doesn't have available inventory, which prevents the purchase from being approved. In this case, correcting the inventory should allow the order to move on.
 

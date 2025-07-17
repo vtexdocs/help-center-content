@@ -23,7 +23,7 @@ Este par só pode ser criado pelo usuário Titular da conta, por questões de se
 
 ## O que mudou?
 
-Antes, quando as credenciais eram criadas, o perfil de acesso Owner (Admin Super) era atribuído automaticamente. A partir de agora, os novos appKeys criados não terão nenhum perfil de acesso atribuído a eles, sendo necessário realizar a atribuição da mesma forma que ela é feita atualmente para usuários (veja a seção Editando usuários do artigo [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editando-usuarios) para instruções).
+Antes, quando as credenciais eram criadas, o perfil de acesso Owner (Admin Super) era atribuído automaticamente. A partir de agora, os novos appKeys criados não terão nenhum perfil de acesso atribuído a eles, sendo necessário realizar a atribuição da mesma forma que ela é feita atualmente para usuários (veja a seção Editando usuários do artigo [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editando-usuarios) para instruções).
 
 Informações adicionais sobre appKeys e appTokens podem ser encontradas no artigo [Authentication](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication).
 
@@ -35,4 +35,4 @@ Uma aplicação que utiliza um appKey deveria receber acesso apenas às funciona
 
 Com a mudança, o perfil de acesso deverá ser determinado manualmente conforme a necessidade e as permissões são delimitadas de acordo com o perfil selecionado.
 
-Mais informações podem ser encontradas no artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Mais informações podem ser encontradas no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).

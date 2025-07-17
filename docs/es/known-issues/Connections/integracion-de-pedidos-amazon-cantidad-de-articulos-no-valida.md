@@ -1,5 +1,5 @@
 ---
-title: 'Integración de pedidos - Amazon - Cantidad de artículos no válida'
+title: "Integración de pedidos - Amazon - Cantidad de artículos no válida"
 id: 2Aqp7dJ8aqnZAjMxFmME3g
 status: PUBLISHED
 createdAt: 2022-03-10T17:59:27.633Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: integracao-de-pedido-amazon-quantidade-de-item-invalida
+slugEN: integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida
 locale: es
 kiStatus: Backlog
 internalReference: 385656
@@ -18,7 +18,9 @@ internalReference: 385656
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

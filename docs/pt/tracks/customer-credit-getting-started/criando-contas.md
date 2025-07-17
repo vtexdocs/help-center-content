@@ -20,7 +20,9 @@ O próximo passo é criar contas para os clientes que você deseja oferecer cré
 - [Múltiplas contas em massa (Admin VTEX)](#criar-multiplas-contas-importacao-em-massa)
 - [Conta individual (Customer Credit API)](#criar-conta-via-api)
 
->ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
+<div class="alert alert-info">
+As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas <a href="https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados">entidades do Master Data</a> da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja. 
+</div>
 
 ## Criar contas individualmente
 
@@ -32,11 +34,13 @@ Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 4. Em __Crédito__, insira em os valores de __Limite de crédito (BRL)__ e da __Tolerância__ que deseja disponibilizar ao cliente.
 5. Clique em `Confirmar`.
 
->⚠️ O preenchimento do campo **Email** é obrigatório, pois a plataforma VTEX utiliza essa informação apra realizar a autenticação de acesso do cliente aos limites de crédito da sua conta. Para mais informações sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+<div class="alert alert-warning">
+  O preenchimento do campo <b>Email</b> é obrigatório, pois a plataforma VTEX utiliza essa informação apra realizar a autenticação de acesso do cliente aos limites de crédito da sua conta. Para mais informações sobre proteção de dados, acesse <a href="https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB">Segurança do SmartCheckout</a>.
+</div>
 
 A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 
-![CC_criar_conta_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-getting-started/criando-contas_1.JPG)
+![CC_criar_conta_1_PT](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/d260357ee6bb9151e7dfc99d8fc72e90/CC_criar_conta_1_PT.JPG)
 
 ## Criar múltiplas contas (importação em massa)
 
@@ -53,7 +57,7 @@ Para criar múltiplas contas ao mesmo tempo (em massa) no Customer Credit, você
   <li>Colunas <b>Credit limit</b> e <b>Tolerance rate</b>: valores disponibilizados para cada cliente. O <b>Tolerance rate</b> deve ser inserido em formato decimal, por exemplo, uma tolerância de 5% deve ser indicada como 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-getting-started/criando-contas_2.JPG)
+![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Salve a planilha .csv.</ui>
 
@@ -67,7 +71,9 @@ Para criar múltiplas contas ao mesmo tempo (em massa) no Customer Credit, você
 
 A partir deste momento, as novas contas criadas via a planilha .csv estarão disponíveis na tela de __Contas__.
 
->⚠️ Também é possível rastrear processos anteriores de criação de múltiplas contas, identificando se as contas foram criadas de forma correta. Para verificar estas informações, clique em **Histórico de Importação** na tela de **Contas**.  
+<div class="alert alert-warning">
+  Também é possível rastrear processos anteriores de criação de múltiplas contas, identificando se as contas foram criadas de forma correta. Para verificar estas informações, clique em <b>Histórico de Importação</b> na tela de <b>Contas</b>.
+</div>  
 
 ### Atualizar múltiplas contas (importação em massa)
 

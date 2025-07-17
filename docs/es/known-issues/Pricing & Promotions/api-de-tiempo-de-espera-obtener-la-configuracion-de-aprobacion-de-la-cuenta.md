@@ -1,5 +1,5 @@
 ---
-title: 'API de tiempo de espera Obtener la configuración de aprobación de la cuenta'
+title: "API de tiempo de espera Obtener la configuración de aprobación de la cuenta"
 id: 5dalpuBbuRYXj5WSal8UqR
 status: PUBLISHED
 createdAt: 2023-03-16T19:26:12.430Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: timeout-api-get-accounts-approval-settings
+slugEN: api-de-tiempo-de-espera-obtener-la-configuracion-de-aprobacion-de-la-cuenta
 locale: es
 kiStatus: Fixed
 internalReference: 772840
@@ -18,7 +18,9 @@ internalReference: 772840
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Las transacciones realizadas con PayU no cambian de estado de cancelación'
+title: "Las transacciones realizadas con PayU no cambian de estado de cancelación"
 id: 5pyv7cj5LHOuPAiCXv7MO0
 status: PUBLISHED
 createdAt: 2022-03-03T18:45:17.651Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transactions-made-with-payu-do-not-change-from-cancelling-status
+slugEN: las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion
 locale: es
 kiStatus: Backlog
 internalReference: 338124
@@ -18,7 +18,9 @@ internalReference: 338124
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la transacción entra en un estado de **cancelación** no es posible reconocerla por lo que no cambia a **cancelada**.

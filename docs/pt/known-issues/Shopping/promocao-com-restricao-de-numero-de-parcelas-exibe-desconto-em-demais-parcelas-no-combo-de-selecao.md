@@ -1,5 +1,5 @@
 ---
-title: 'Promoção com restrição de número de parcelas exibe desconto em demais parcelas no combo de seleção'
+title: "Promoção com restrição de número de parcelas exibe desconto em demais parcelas no combo de seleção"
 id: 4oKJDg0ygC40oiOAx2lkdG
 status: PUBLISHED
 createdAt: 2019-03-18T14:30:33.359Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: benefit-with-restricted-number-of-installments-displays-discount-in-other-installments-in-the-combo-box
+slugEN: promocao-com-restricao-de-numero-de-parcelas-exibe-desconto-em-demais-parcelas-no-combo-de-selecao
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'Itens retornados com o mesmo SkuId em matrizes UniqueId diferentes não estão visíveis corretamente'
+title: "Itens retornados com o mesmo SkuId em matrizes UniqueId diferentes não estão visíveis corretamente"
 id: 65uUpH4uSicaDzruCIBaTq
 status: PUBLISHED
 createdAt: 2024-06-14T20:48:37.328Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: returned-itens-with-same-skuid-on-different-uniqueid-arrays-it-is-not-visible-properly
+slugEN: itens-retornados-com-o-mesmo-skuid-em-matrizes-uniqueid-diferentes-nao-estao-visiveis-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 1050294
@@ -18,7 +18,9 @@ internalReference: 1050294
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "As regras de merchandising não estão funcionando para a faceta 'productClusterIds'"
+title: 'As regras de merchandising não estão funcionando para a faceta "productClusterIds'
 id: 6sLODMgjuoyJD52uc0DBW1
 status: PUBLISHED
 createdAt: 2024-07-09T00:02:40.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: merchandising-rules-not-working-for-the-facet-productclusterids
+slugEN: as-regras-de-merchandising-nao-estao-funcionando-para-a-faceta-productclusterids
 locale: pt
 kiStatus: Backlog
 internalReference: 1062457
@@ -18,7 +18,9 @@ internalReference: 1062457
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As regras de merchandising não são aplicadas à faceta "productClusterIds". Isso acontece porque essa faceta tem o comportamento especial de classificar os produtos pela ordem da coleção, em vez de regras de relevância e de merchandising.

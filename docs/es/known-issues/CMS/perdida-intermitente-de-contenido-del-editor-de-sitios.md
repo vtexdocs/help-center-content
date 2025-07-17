@@ -1,24 +1,26 @@
 ---
-title: 'Pérdida intermitente de contenido del Editor de Sitios'
+title: "Pérdida intermitente de contenido del Editor de Sitios"
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-11-18T14:05:46.071Z
-publishedAt: 2024-11-18T14:05:46.071Z
+updatedAt: 2025-04-24T15:01:56.874Z
+publishedAt: 2025-04-24T15:01:56.874Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: intermitent-site-editor-content-loss
+slugEN: perdida-intermitente-de-contenido-del-editor-de-sitios
 locale: es
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 610533
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cada cambio de contenido en el Editor de Sitios inserta cambios en el archivo content.json, almacenado en un bucket en AWS S3 y en el content_render.js. Algunos clientes han informado de la pérdida de contenido del Editor de Sitios después de algunos procedimientos estándar, como la promoción del espacio de trabajo.

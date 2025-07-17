@@ -17,15 +17,15 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 O Número de Identificação Bancária (BIN) é composto pelos primeiros seis ou oito dígitos de um cartão de crédito ou débito e caracteriza a instituição responsável pela emissão do cartão.  
 
-![BIN_image_digits_PT_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/cadastrar-informacoes-de-bins_1.png)
+![BIN_image_digits_PT_2](https://images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/7ea68dacd8491fba2022ccb608efd3fd/BIN_image_digits_PT_2.png)
 
-Quando a instituição bancária deseja criar novos perfis de cartões ou emitir novos cartões para um modelo já existente, é necessário criar novos BINs. Isso também se aplica quando uma [bandeira](https://help.vtex.com/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito--4bNba5QYuIwKEmac88KwyI) é comprada por outra.
+Quando a instituição bancária deseja criar novos perfis de cartões ou emitir novos cartões para um modelo já existente, é necessário criar novos BINs. Isso também se aplica quando uma [bandeira](/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito--4bNba5QYuIwKEmac88KwyI) é comprada por outra.
 
 Nestas situações, a VTEX precisa ser notificada para permitir que os novos cartões possam ser validados de forma correta no processo de pagamento em uma compra realizada na plataforma.
 
 ## Solicitar a inclusão de BINs
 
-Para adicionar um novo BIN ou atualizar informações de um BIN já existente na VTEX, é necessário abrir um ticket no [Suporte VTEX](https://help.vtex.com/pt/support). 
+Para adicionar um novo BIN ou atualizar informações de um BIN já existente na VTEX, é necessário abrir um ticket no [Suporte VTEX](/pt/support). 
 
 No ticket, você deve encaminhar em anexo uma planilha preenchida com as seguintes informações:
 
@@ -39,5 +39,5 @@ No ticket, você deve encaminhar em anexo uma planilha preenchida com as seguint
 
 Modelo de planilha preenchida:
 
-![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/cadastrar-informacoes-de-bins_2.PNG)
+![Bin_spreadsheet](https://images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/f28a04568922f6e08425ae177b26b0fe/Bin_spreadsheet.PNG)
 

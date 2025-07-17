@@ -16,13 +16,15 @@ trackSlugES: integracion-con-google-shopping
 
 [Google Shopping](https://shopping.google.com/) es una plataforma en la que el producto aparece en listas gratis que son clasificadas orgánicamente en las búsquedas de Google. Es decir, es un servicio de comparación y seguimiento de precios que incluye sus productos de forma gratuita en los resultados de búsqueda de productos locales.
 
-![Google Shopping](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/integrating-with-google-shopping/marketplace-de-google-shopping_1.png)
+![Google Shopping](https://images.ctfassets.net/alneenqid6w5/4NP2qyti6VbXkuVSzAg5iH/1cd372670bd55e0dbf359984e058d81e/logo_Google_shopping.png)
 
 A través de Google Shopping, puede mostrar al consumidor algunos de los atributos de su producto, tales como imagen, título, precio y nombre de su tienda.
 
 El conector de Google Shopping de la plataforma VTEX le permite hacer uso de este servicio de manera sencilla y eficiente. Solo tiene que completar los pasos de configuración descritos a continuación.
 
->ℹ️ Para que la integración funcione correctamente, familiarícese con las [Políticas de anuncios de Shopping](https://support.google.com/google-ads/answer/6149970?hl=es-419) y conozca cuáles son las condiciones requeridas por Google.
+<div class="alert alert-info">
+Para que la integración funcione correctamente, familiarícese con las <a href="https://support.google.com/google-ads/answer/6149970?hl=es-419">Políticas de anuncios de Shopping</a> y conozca cuáles son las condiciones requeridas por Google.
+</div>
 
 | **SEPA MÁS** |
 | ---------- |

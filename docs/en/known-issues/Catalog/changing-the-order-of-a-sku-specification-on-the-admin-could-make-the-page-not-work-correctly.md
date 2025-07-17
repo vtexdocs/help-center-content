@@ -1,5 +1,5 @@
 ---
-title: 'Changing the order of a SKU specification on the Admin could make the page not work correctly'
+title: "Changing the order of a SKU specification on the Admin could make the page not work correctly"
 id: 5MuozhOKaYLGShytNH5k8Z
 status: PUBLISHED
 createdAt: 2022-08-10T13:57:53.322Z

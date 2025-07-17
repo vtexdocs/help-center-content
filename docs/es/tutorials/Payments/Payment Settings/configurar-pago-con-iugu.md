@@ -15,7 +15,7 @@ legacySlug: configurar-pago-con-iugu
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[iugu](https://partnerportal.vtex.com/iugu-156/p) es una solución en asociación con VTEX que proporciona las siguientes opciones de pago a través de [checkout transparente](https://help.vtex.com/es/tutorial/que-es-el-checkout-transparente--2Y4ECegUmcYUggmck2GOwe): tarjeta de crédito, pix y boleto bancario. Además, es posible realizar [operaciones de recurrencia](https://help.vtex.com/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) y [split de pagos](https://help.vtex.com/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) (cobros y transacción) entre marketplaces.
+[iugu](https://partnerportal.vtex.com/iugu-156/p) es una solución en asociación con VTEX que proporciona las siguientes opciones de pago a través de [checkout transparente](/es/tutorial/que-es-el-checkout-transparente--2Y4ECegUmcYUggmck2GOwe): tarjeta de crédito, pix y boleto bancario. Además, es posible realizar [operaciones de recurrencia](/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) y [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) (cobros y transacción) entre marketplaces.
 
 Para agregar iugu a tu tienda, sigue los pasos a continuación:
 
@@ -38,19 +38,21 @@ Para procesar métodos de pago con tarjeta de crédito, pix y boleto bancario co
 4. Complete el campo __Nombre de la condición__ con un nombre de su elección para identificación.
 5. Active la condición en el campo __Status__.
 6. En __Procesar con proveedor__ seleccione la opción iugu.
-7. Para pagos con tarjeta de crédito, seleccione si desea utilizar un sistema antifraude seleccionando la opción __Utilizar antifraude__. También es posible configurar si se deben realizar pagos con tarjeta de crédito [a vista o en cuotas (con o sin interéss)](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#a-vista).
-8. Si desea, puede configurar [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+7. Para pagos con tarjeta de crédito, seleccione si desea utilizar un sistema antifraude seleccionando la opción __Utilizar antifraude__. También es posible configurar si se deben realizar pagos con tarjeta de crédito [a vista o en cuotas (con o sin interéss)](/es/tutorial/condiciones-de-pago--tutorials_455#a-vista).
+8. Si desea, puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 9. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, el proveedor iugu puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
 
->⚠️ Antes de realizar transacciones con tarjeta de crédito, pix o boleto bancario con iugu en tu tienda, verifica si estos métodos de pago ya están habilitados en [tu área de clientes en el portal iugu](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento).
+<div class="alert alert-warning">
+  Antes de realizar transacciones con tarjeta de crédito, pix o boleto bancario con iugu en tu tienda, verifica si estos métodos de pago ya están habilitados en <a href="https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#configurando-condi%C3%A7%C3%B5es-de-pagamento">tu área de clientes en el portal iugu</a>.
+  </div>
 
 ## Configurar el split de pago en marketplace con iugu
 
-Para procesar pagos en [marketplace con split de pago](https://help.vtex.com/es/tutorial/pagos-en-los-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD#split-de-pagos) en iugu es necesario registrar sellers de tu tienda con el mismo CNPJ (número de identificación del vendedor) en el VTEX Admin y en tu área de clientes en el portal iugu. 
+Para procesar pagos en [marketplace con split de pago](/es/tutorial/pagos-en-los-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD#split-de-pagos) en iugu es necesario registrar sellers de tu tienda con el mismo CNPJ (número de identificación del vendedor) en el VTEX Admin y en tu área de clientes en el portal iugu. 
 
-Obtenga más información sobre cómo crear sellers en VTEX en [Agregar seller](https://help.vtex.com/es/tutorial/agregar-seller--tutorials_392) y acceda a la documentación de iugu para crear subcuentas (sellers) a través de [área de cliente ](https://support.iugu.com/hc/pt-br/articles/4411276874779-Como-criar-uma-subconta-pelo-painel-iugu-) o [API](https://dev.iugu.com/docs/configurar-subconta-por-api). 
+Obtenga más información sobre cómo crear sellers en VTEX en [Agregar seller](/es/tutorial/agregar-seller--tutorials_392) y acceda a la documentación de iugu para crear subcuentas (sellers) a través de [área de cliente ](https://support.iugu.com/hc/pt-br/articles/4411276874779-Como-criar-uma-subconta-pelo-painel-iugu-) o [API](https://dev.iugu.com/docs/configurar-subconta-por-api). 
 
 ### Habilitar split de cobros con iugu
 
@@ -62,16 +64,20 @@ Para habilitar el split de cobros con iugu en su tienda, siga los pasos a contin
 4. En __Control de pago__, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
 5. Haga clic en `Guardar`.
 
->⚠️ La opción de split de cobros no está disponible para su uso en un entorno de prueba.
+<div class="alert alert-warning">
+  La opción de split de cobros no está disponible para su uso en un entorno de prueba.
+  </div>
 
 Luego de seguir los pasos indicados, la funcionalidad de split de cobros con el proveedor iugu puede tardar hasta 10 minutos en activarse en tu tienda.
 
->⚠️ Para definir comisiones específicas para cada seller de su tienda, acceda a  **Marketplace > Sellers> Gestión** en el Admin de VTEX, seleccione el vendedor deseado e ingrese los valores de las comisiones en **Comisiones**.
+<div class="alert alert-warning">
+  Para definir comisiones específicas para cada seller de su tienda, acceda a  <b>Marketplace > Sellers> Gestión</b> en el Admin de VTEX, seleccione el vendedor deseado e ingrese los valores de las comisiones en <b>Comisiones</b>.
+  </div>
 
 ## Configurar la recurrencia con iugu
 
-Para que [recurrencia](https://help.vtex.com/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) esté disponible como condición especial de pago a través de iugu, es necesario:
+Para que [recurrencia](/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) esté disponible como condición especial de pago a través de iugu, es necesario:
 
 - Habilite el modo recurrencia en el VTEX Admin.
 - Configurar métodos de pago con tarjeta de crédito o boelto bancario en VTEX Admin e iugu.
-- Configura la funcionalidad [suscripciones](https://help.vtex.com/es/tutorial/como-configurar-suscripciones--1FA9dfE7vJqxBna9Nft5Sj) en tu tienda.
+- Configura la funcionalidad [suscripciones](/es/tutorial/como-configurar-suscripciones--1FA9dfE7vJqxBna9Nft5Sj) en tu tienda.

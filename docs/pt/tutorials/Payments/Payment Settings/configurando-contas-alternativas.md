@@ -15,4 +15,6 @@ legacySlug: configurando-contas-alternativas
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->ℹ️ O recurso de Contas Alternativas foi descontinuado. Para substituí-lo, use a solução de **Contas Franquia** e **Sellers White Label**. Veja mais detalhes [neste artigo do Help](http://help.vtex.com/pt/faq/definicoes-de-conta-franquia-e-seller-white-label).
+<div class="alert alert-info">
+O recurso de Contas Alternativas foi descontinuado. Para substituí-lo, use a solução de <strong>Contas Franquia</strong> e <strong>Sellers White Label</strong>. Veja mais detalhes <a href="http://help.vtex.com/pt/faq/definicoes-de-conta-franquia-e-seller-white-label">neste artigo do Help</a>.
+</div>

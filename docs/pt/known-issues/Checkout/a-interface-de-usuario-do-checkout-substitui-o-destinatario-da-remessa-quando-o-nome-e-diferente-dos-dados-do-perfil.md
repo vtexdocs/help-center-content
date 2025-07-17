@@ -1,5 +1,5 @@
 ---
-title: 'A interface de usuário do checkout substitui o destinatário da remessa quando o nome é diferente dos dados do perfil'
+title: "A interface de usuário do checkout substitui o destinatário da remessa quando o nome é diferente dos dados do perfil"
 id: 2IrL7DbWbzdgxZh6Us6n4q
 status: PUBLISHED
 createdAt: 2023-05-09T22:08:13.314Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-overwrites-shipping-recipient-when-name-is-different-from-profile-data
+slugEN: a-interface-de-usuario-do-checkout-substitui-o-destinatario-da-remessa-quando-o-nome-e-diferente-dos-dados-do-perfil
 locale: pt
 kiStatus: Fixed
 internalReference: 822670
@@ -18,7 +18,9 @@ internalReference: 822670
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um comprador tiver um perfil completo em que o nome e o sobrenome sejam diferentes do destinatário da remessa, quando o perfil for preenchido automaticamente no checkout, a interface do usuário substituirá o destinatário da remessa pelo valor do nome e do sobrenome combinados.

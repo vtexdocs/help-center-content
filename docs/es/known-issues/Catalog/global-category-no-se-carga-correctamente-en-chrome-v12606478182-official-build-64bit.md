@@ -1,5 +1,5 @@
 ---
-title: 'Global Category no se carga correctamente en chrome v126.0.6478.182 (Official Build) (64-bit)'
+title: "Global Category no se carga correctamente en chrome v126.0.6478.182 (Official Build) (64-bit)"
 id: 2B4qXQAVBGuFYJwHaPK8P4
 status: PUBLISHED
 createdAt: 2024-08-02T19:52:56.332Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: global-category-not-loading-correctly-on-chrome-v12606478182-official-build-64bit
+slugEN: global-category-no-se-carga-correctamente-en-chrome-v12606478182-official-build-64bit
 locale: es
 kiStatus: Backlog
 internalReference: 1075366
@@ -18,14 +18,16 @@ internalReference: 1075366
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la categoría global de productos no carga correctamente los datos si el usuario accede utilizando el navegador Google Chrome a través de la versión v126.0.6478.182
 
 Se puede ver la siguiente pantalla
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/global-category-no-se-carga-correctamente-en-chrome-v12606478182-official-build-64bit_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
 
 
 ##

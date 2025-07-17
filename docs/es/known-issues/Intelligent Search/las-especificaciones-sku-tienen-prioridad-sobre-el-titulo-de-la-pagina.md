@@ -1,5 +1,5 @@
 ---
-title: 'Las especificaciones SKU tienen prioridad sobre el título de la página'
+title: "Las especificaciones SKU tienen prioridad sobre el título de la página"
 id: 2AfzLrb7Vu3E4HBqH3l9iN
 status: PUBLISHED
 createdAt: 2024-08-29T20:58:07.401Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: sku-specifications-taking-priority-on-the-page-title
+slugEN: las-especificaciones-sku-tienen-prioridad-sobre-el-titulo-de-la-pagina
 locale: es
 kiStatus: Backlog
 internalReference: 1089440
@@ -18,7 +18,9 @@ internalReference: 1089440
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera que el título de la página se base en los últimos o iniciales filtros. Los filtros de las especificaciones SKU siempre se establecen como el último de la miga de pan, que tiene lugar como el título de la página.

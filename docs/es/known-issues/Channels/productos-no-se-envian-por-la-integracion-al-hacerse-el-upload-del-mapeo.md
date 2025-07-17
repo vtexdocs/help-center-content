@@ -1,5 +1,5 @@
 ---
-title: 'Productos no se envían por la integración al hacerse el upload del mapeo'
+title: "Productos no se envían por la integración al hacerse el upload del mapeo"
 id: 2A6AvKjkTm2wocOg4ywIAa
 status: PUBLISHED
 createdAt: 2018-05-04T17:50:27.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slugEN: products-are-not-being-sent-by-the-integration-after-mapping-upload
+slugEN: productos-no-se-envian-por-la-integracion-al-hacerse-el-upload-del-mapeo
 locale: es
 kiStatus: Backlog
 internalReference: 

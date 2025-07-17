@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível criar um caminho usando o tipo de conteúdo por meio da interface do usuário'
+title: "Não é possível criar um caminho usando o tipo de conteúdo por meio da interface do usuário"
 id: 3jVjkZYCATrnDNhR0IKSEA
 status: PUBLISHED
 createdAt: 2023-10-23T13:19:09.970Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: it-is-not-possible-to-create-a-path-using-content-type-via-ui
+slugEN: nao-e-possivel-criar-um-caminho-usando-o-tipo-de-conteudo-por-meio-da-interface-do-usuario
 locale: pt
 kiStatus: No Fix
 internalReference: 923619
@@ -18,7 +18,9 @@ internalReference: 923619
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se tentarmos criar um caminho usando tipos de conteúdo por meio da interface do usuário, a página não funcionará. Ela só funcionará se a criarmos por meio do tema.

@@ -1,5 +1,5 @@
 ---
-title: 'Error (LeituraDeDadosDoAdministrador) when trying to access catalog pages on admin'
+title: "Error (LeituraDeDadosDoAdministrador) when trying to access catalog pages on admin"
 id: 40EruMGkO9DVEwb7RZ5nxF
 status: PUBLISHED
 createdAt: 2024-06-25T18:30:24.815Z

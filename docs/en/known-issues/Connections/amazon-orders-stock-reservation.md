@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Orders stock reservation'
+title: "Amazon Orders stock reservation"
 id: 7n6h2HORuvoMJth9QBJjlX
 status: PUBLISHED
 createdAt: 2024-10-08T14:35:05.122Z

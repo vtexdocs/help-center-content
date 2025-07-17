@@ -1,5 +1,5 @@
 ---
-title: 'Lean Shipping forzado incluso cuando los artículos tienen los mismos ANS, pero en una ordenación diferente.'
+title: "Lean Shipping forzado incluso cuando los artículos tienen los mismos ANS, pero en una ordenación diferente."
 id: 2YTqsVWPm73msQZVQX9x80
 status: PUBLISHED
 createdAt: 2022-05-13T17:26:15.513Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lean-shipping-being-forced-even-when-the-items-have-the-same-slas-but-in-a-different-ordination
+slugEN: lean-shipping-forzado-incluso-cuando-los-articulos-tienen-los-mismos-ans-pero-en-una-ordenacion-diferente
 locale: es
 kiStatus: Fixed
 internalReference: 455218
@@ -18,7 +18,9 @@ internalReference: 455218
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos escenarios es posible que aunque la función LeanShipping esté desactivada en la configuración, el sistema aún considere necesario agrupar las opciones de envío, y con ello no desactivará leanShipping, esto se debe a que la regla utilizada por el sistema para definir el uso o no de leanShipping distinta a la configuración está activada o desactivada y existen los mismos o diferentes ANS disponibles para los artículos del carrito;

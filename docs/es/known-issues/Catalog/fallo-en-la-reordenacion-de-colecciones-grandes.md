@@ -1,5 +1,5 @@
 ---
-title: 'Fallo en la reordenación de colecciones grandes'
+title: "Fallo en la reordenación de colecciones grandes"
 id: 2wZN2wFAzWNIHgBVR7yp9R
 status: PUBLISHED
 createdAt: 2023-05-25T19:29:25.420Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: reorder-collection-failing-for-large-collections
+slugEN: fallo-en-la-reordenacion-de-colecciones-grandes
 locale: es
 kiStatus: Backlog
 internalReference: 408140
@@ -18,7 +18,9 @@ internalReference: 408140
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la nueva interfaz de administración de colecciones, cuando un usuario intenta reordenar la visualización de pedidos de productos, la mutación GraphQL del catálogo que realiza esta acción suele fallar

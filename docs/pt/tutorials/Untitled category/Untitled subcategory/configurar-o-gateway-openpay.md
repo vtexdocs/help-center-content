@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 [Openpay](https://www.openpay.mx/) é um processador de pagamentos online que permite receber pagamentos realizados com cartão de crédito, dinheiro e transferências bancárias.
 
->⚠️ Antes de realizar as configurações, é preciso que sua conta na Openpay já esteja criada e verificada. Caso você ainda não tenha se registrado, [clique aqui](https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false) e crie sua conta.
+<div class="alert alert-warning">
+  Antes de realizar as configurações, é preciso que sua conta na Openpay já esteja criada e verificada. Caso você ainda não tenha se registrado, <a href="https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false">clique aqui</a> e crie sua conta.
+  </div>
 
 Para configurar o Openpay você precisará:
 
@@ -44,8 +46,8 @@ Ao finalizar a criação e ativação da Tag, no Google Tag Manager, é preciso 
 
 ## Configurar condições de pagamento
 
-Para configurar os métodos de pagamento a serem processados pela Openpay, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Openpay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, Openpay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

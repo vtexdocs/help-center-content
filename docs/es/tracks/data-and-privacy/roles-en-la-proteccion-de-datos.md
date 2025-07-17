@@ -36,7 +36,7 @@ En dicho documento podrás consultar la siguiente información:
 * Roles del encargado y responsable del tratamiento de los datos.
 * Cumplimiento de los derechos de los titulares de los datos.
 * [Encargados secundarios](https://vtex.com/co-es/privacy-and-agreements/subprocessors/).
-* Nuestras [medidas técnicas y administrativas](https://help.vtex.com/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de seguridad de los datos.
+* Nuestras [medidas técnicas y administrativas](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de seguridad de los datos.
 * Gestión de incidentes de seguridad.
 * Limitaciones de responsabilidad:
     * Solicitudes de auditoría.
@@ -48,7 +48,9 @@ VTEX no utiliza los datos de los clientes finales para ningún otro fin que no s
 
 El DPA utilizado debe corresponder a la región específica del titular de los datos (cliente de la tienda).
 
->⚠️ Accede a [Data Processing Addendum - VTEX](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/) para ver el DPA predeterminado de VTEX para cada región.
+<div class="alert alert-warning">
+  <p>Accede a <a href="https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/">Data Processing Addendum - VTEX</a> para ver el DPA predeterminado de VTEX para cada región.</p>
+</div>
 
 ## Responsabilidades compartidas
 
@@ -56,7 +58,7 @@ Tanto VTEX como los retailers deben garantizar la seguridad de los datos persona
 
 ## Responsabilidades de VTEX
 
-VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](https://help.vtex.com/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) establecidas en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
+VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) establecidas en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
 
 ## Responsabilidades de retailers
 
@@ -74,11 +76,11 @@ VTEX prestará asistencia al retailer en algunas de estas obligaciones, como las
 
 ### Acceso a la plataforma
 
-Los retailers desempeñan un papel crucial en la seguridad de los datos, ya que sus decisiones repercuten directamente en la protección de la información. Por ejemplo, al conceder acceso a la plataforma a determinados usuarios o equipos, o al compartir [claves de aplicación](https://help.vtex.com/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), el retailer influye en la seguridad de los datos almacenados en ese entorno.
+Los retailers desempeñan un papel crucial en la seguridad de los datos, ya que sus decisiones repercuten directamente en la protección de la información. Por ejemplo, al conceder acceso a la plataforma a determinados usuarios o equipos, o al compartir [claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), el retailer influye en la seguridad de los datos almacenados en ese entorno.
 
 Para saber cómo gestionar correctamente las credenciales de acceso y garantizar la integridad de los datos, consulta los siguientes artículos:
 
-* [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Recursos de License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
-* [Claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+* [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+* [Recursos de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
 

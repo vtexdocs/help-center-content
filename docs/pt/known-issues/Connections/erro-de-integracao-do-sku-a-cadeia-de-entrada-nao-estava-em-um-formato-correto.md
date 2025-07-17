@@ -1,5 +1,5 @@
 ---
-title: "[Meli] Erro de integração do SKU 'A cadeia de entrada não estava em um formato correto'."
+title: '[Meli] Erro de integração do SKU "A cadeia de entrada não estava em um formato correto".'
 id: 2NCm4vLyb1juIuIGMaB048
 status: PUBLISHED
 createdAt: 2022-09-27T21:05:39.320Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-error-sku-integration-input-string-was-not-in-a-correct-format
+slugEN: erro-de-integracao-do-sku-a-cadeia-de-entrada-nao-estava-em-um-formato-correto
 locale: pt
 kiStatus: Backlog
 internalReference: 664010
@@ -18,7 +18,9 @@ internalReference: 664010
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns skus estão tendo um erro na integração" "A cadeia de entrada não estava em um formato correto" "A cadeia de entrada não estava em um formato correto
@@ -31,7 +33,7 @@ Alguns skus estão tendo um erro na integração" "A cadeia de entrada não esta
 
 Admin > Ponte > Produtos
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/erro-de-integracao-do-sku-a-cadeia-de-entrada-nao-estava-em-um-formato-correto_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pwn0EPjpLf7XnBrnGNXYZdV0i/?name=image.png)
 
 
 

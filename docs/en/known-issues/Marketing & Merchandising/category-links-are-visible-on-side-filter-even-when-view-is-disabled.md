@@ -1,5 +1,5 @@
 ---
-title: 'Category links are visible on side filter even when view is disabled'
+title: "Category links are visible on side filter even when view is disabled"
 id: 5NwWyNDLtmKu6kCu6KYgs6
 status: PUBLISHED
 createdAt: 2018-05-03T17:37:48.868Z

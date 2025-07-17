@@ -1,5 +1,5 @@
 ---
-title: 'Error al acceder a la transacción en el detalle del pedido (Nuevo Admin)'
+title: "Error al acceder a la transacción en el detalle del pedido (Nuevo Admin)"
 id: 3A0RCPD6LYuGicmgm4q0Iy
 status: PUBLISHED
 createdAt: 2018-04-09T14:04:17.452Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Order Management
-slugEN: error-accessing-transaction-in-the-order-detail
+slugEN: error-al-acceder-a-la-transaccion-en-el-detalle-del-pedido
 locale: es
 kiStatus: Fixed
 internalReference: 

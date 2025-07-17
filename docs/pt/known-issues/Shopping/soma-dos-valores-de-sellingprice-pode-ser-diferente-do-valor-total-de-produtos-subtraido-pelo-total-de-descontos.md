@@ -1,5 +1,5 @@
 ---
-title: 'Soma dos valores de sellingPrice pode ser diferente do valor total de produtos subtraído pelo total de descontos'
+title: "Soma dos valores de sellingPrice pode ser diferente do valor total de produtos subtraído pelo total de descontos"
 id: wo1qtfZnDfI8EylRbXiPF
 status: PUBLISHED
 createdAt: 2019-09-13T18:08:45.753Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: sum-of-sellingprice-values-may-differ-from-total-product-value-minus-the-total-discounts
+slugEN: soma-dos-valores-de-sellingprice-pode-ser-diferente-do-valor-total-de-produtos-subtraido-pelo-total-de-descontos
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: "Conflictos con los filtros de precios y 'isAvailablePerSalesChannel' en las búsquedas (Portal y Búsqueda) (de nuevo)"
+title: 'Conflictos con los filtros de precios y "isAvailablePerSalesChannel" en las búsquedas (Portal y Búsqueda) (de nuevo)'
 id: 6dLv8lP69Em68ooydjaPzY
 status: PUBLISHED
 createdAt: 2022-02-24T13:24:42.299Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: conflicts-with-price-filters-and-isavailablepersaleschannel-in-searches-portal-and-search-again
+slugEN: conflictos-con-los-filtros-de-precios-y-isavailablepersaleschannel-en-las-busquedas-portal-y-busqueda-de-nuevo
 locale: es
 kiStatus: Backlog
 internalReference: 531277
@@ -18,7 +18,9 @@ internalReference: 531277
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 ## **Resumen**
 

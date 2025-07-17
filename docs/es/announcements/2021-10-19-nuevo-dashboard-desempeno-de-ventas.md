@@ -16,11 +16,11 @@ announcementSynopsisES: 'Analiza los datos de tus canales de venta y obtén inte
 ---
 
 
-Con un volumen cada vez mayor de datos disponibles para que las operaciones de ecommerce evalúen los resultados de sus canales de venta, se hace imprescindible presentar información relevante para que se puedan tomar decisiones con mayor asertividad. Por eso hemos creado el nuevo dashboard de [Desempeño de Ventas](https://help.vtex.com/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72), un panel flexible y completo diseñado para el comercio unificado.
+Con un volumen cada vez mayor de datos disponibles para que las operaciones de ecommerce evalúen los resultados de sus canales de venta, se hace imprescindible presentar información relevante para que se puedan tomar decisiones con mayor asertividad. Por eso hemos creado el nuevo dashboard de [Desempeño de Ventas](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72), un panel flexible y completo diseñado para el comercio unificado.
 
 El dashboard permite a los usuarios analizar los datos de todos los canales de venta de la tienda y de sus sellers, incluyendo métricas sobre los ingresos, los pedidos, el ticket promedio y mucho más. También incluye gráficos y tablas para que puedas comparar los resultados de diferentes periodos, e introduce once opciones de filtro para proporcionar insights unificados de toda la operación.
 
-![Sales Perf Dash ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-10-19-nuevo-dashboard-desempeno-de-ventas_1.gif)
+![Sales Perf Dash ES](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
 
 ## ¿Qué cambió?
 Anteriormente, tu Admin VTEX solo contaba con la página Insights para generar inteligencia empresarial a partir de los datos de tus operaciones. Ahora hemos incluido una nueva página, Desempeño de Ventas, para ofrecerte una visión más detallada de los resultados de los diferentes canales de venta de tu tienda. La página Insights permanecerá en tu Admin VTEX.
@@ -34,5 +34,5 @@ Antes de la creación de la página Desempeño de Ventas, los administradores de
 - Encontrar oportunidades para mejorar los resultados de tu tienda y de tus sellers.  
 
 ## ¿Qué se necesita hacer?
-La página Desempeño de Ventas ya está disponible automáticamente en tu Admin VTEX. Para acceder a ella, en el menú lateral haz clic en **Analytics > Desempeño de Ventas**.  En algunas versiones del Admin VTEX, la página se encuentra en __Apps > Aplicaciones instaladas__. Descubre cómo sacar el máximo provecho del dashboard en el artículo [Desempeño de Ventas](https://help.vtex.com/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72).
+La página Desempeño de Ventas ya está disponible automáticamente en tu Admin VTEX. Para acceder a ella, en el menú lateral haz clic en **Analytics > Desempeño de Ventas**.  En algunas versiones del Admin VTEX, la página se encuentra en __Apps > Aplicaciones instaladas__. Descubre cómo sacar el máximo provecho del dashboard en el artículo [Desempeño de Ventas](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72).
 

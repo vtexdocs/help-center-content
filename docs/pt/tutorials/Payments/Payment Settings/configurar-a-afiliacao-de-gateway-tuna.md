@@ -17,7 +17,9 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, você pode configurar a sua loja com o gateway Tuna para receber pagamentos por meio de: boleto, cartões de débito, crédito, PIX e Bitcoin.
 
->⚠️ A integração da sua loja com a Tuna é feita por meio de uma **Application Key** e **Application Token.** Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) e aguarde o retorno da Tuna com mais detalhes.
+<div class="alert alert-warning">
+  A integração da sua loja com a Tuna é feita por meio de uma <b>Application Key</b> e <b>Application Token.</b> Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">este formulário</a> e aguarde o retorno da Tuna com mais detalhes.
+  </div>
 
 Após ter criado sua conta e obtido as __Application Key__ e __Token__, siga as etapas abaixo para configurar a Tuna na sua loja:
 
@@ -44,4 +46,4 @@ Para mais detalhes sobre esta configuração, acesse a [documentação](https://
 
 Ao concluir as etapas indicadas, a Tuna estará configurada na sua loja. Assim, quando você for cadastrar uma condição de pagamento, ela vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com a Tuna). 
 
-Para saber como definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para saber como definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento).

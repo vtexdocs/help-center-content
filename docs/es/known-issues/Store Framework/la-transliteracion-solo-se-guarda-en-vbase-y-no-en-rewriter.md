@@ -1,5 +1,5 @@
 ---
-title: 'La transliteración sólo se guarda en vbase y no en rewriter'
+title: "La transliteración sólo se guarda en vbase y no en rewriter"
 id: 3ngFt1qXOUjmY5L84dk6in
 status: PUBLISHED
 createdAt: 2023-12-12T19:54:12.171Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: transliteration-only-being-saved-in-vbase-and-not-into-rewriter
+slugEN: la-transliteracion-solo-se-guarda-en-vbase-y-no-en-rewriter
 locale: es
 kiStatus: No Fix
 internalReference: 738334
@@ -18,7 +18,9 @@ internalReference: 738334
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -15,7 +15,7 @@ legacySlug: b2b-checkout-settings-es
 subcategoryId: 6sgdAY3pCuZ7qNws6gnzDX
 ---
 
-La aplicación **B2B Checkout Settings** forma parte de la solución [B2B Suite](https://help.vtex.com/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) de VTEX, una colección de aplicaciones que permiten a las tiendas gestionar organizaciones, roles y permisos de storefront, así como la configuración del checkout para relaciones comerciales B2B.
+La aplicación **B2B Checkout Settings** forma parte de la solución [B2B Suite](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) de VTEX, una colección de aplicaciones que permiten a las tiendas gestionar organizaciones, roles y permisos de storefront, así como la configuración del checkout para relaciones comerciales B2B.
 
 Las transacciones B2B (business-to-business) son más complejas que las B2C (business-to-consumer). Las empresas B2B suelen tratar con:
 
@@ -31,15 +31,15 @@ En el comercio B2B es necesario ofrecer opciones personalizadas durante el check
 - Agregar un campo para ingresar número de orden de compra.
 - Ofrecer la opción de crear una cotización de pedido antes de realizar una compra real.
 
-La aplicación **B2B Checkout Settings** complementa otras aplicaciones de [B2B Suite](https://help.vtex.com/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-configuracoes-de-checkout-b2b) para ampliar la experiencia de checkout a usuarios que son miembros de una organización.
+La aplicación **B2B Checkout Settings** complementa otras aplicaciones de [B2B Suite](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-configuracoes-de-checkout-b2b) para ampliar la experiencia de checkout a usuarios que son miembros de una organización.
 
 ## Roles de Checkout
-Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](https://help.vtex.com/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](https://help.vtex.com/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).
+Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).
 
 De forma predeterminada, cualquier usuario con un rol que permita el acceso al storefront puede acceder al checkout, excepto aquellos con el rol Organization Buyer. Si un usuario intenta proseguir al checkout sin contar con el permiso necesario, recibirá una notificación con el mensaje: No tienes acceso al checkout.
 
 ## Direcciones de los centros de costos
-La aplicación **B2B Checkout Settings** se comunica con la aplicación [B2B Organizations](https://help.vtex.com/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) y proporciona una lista con las direcciones del centro de costos asociadas al usuario durante la etapa de checkout.
+La aplicación **B2B Checkout Settings** se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) y proporciona una lista con las direcciones del centro de costos asociadas al usuario durante la etapa de checkout.
 
 ## Campo número de orden de compra
 Una orden de compra (PO) es un acuerdo comercial entre una empresa compradora y una tienda B2B por el que se autoriza el pago de productos o servicios que se entregarán en el futuro, en un plazo determinado.
@@ -63,7 +63,9 @@ Sigue las instrucciones a continuación para personalizar el proceso de checkout
 <li>Al activar <code>Mostrar el botón Crear una cotización</code>, se agregará el botón <code>Crear una cotización</code>  en el checkout, lo que permite crear un presupuesto utilizando el contenido actual del carrito.</li>
 </ol>
 
->ℹ️ Solo se debe activar el botón `Crear una cotización` si tu tienda tiene instalada la aplicación B2B Quotes & Carts. Para más información consulta  [B2B Quotes & Carts](https://developers.vtex.com/docs/apps/vtex.b2b-quotes).
+<div class = "alert alert-info">
+Solo se debe activar el botón <code>Crear una cotización</code> si tu tienda tiene instalada la aplicación B2B Quotes & Carts. Para más información consulta  <a href="https://developers.vtex.com/docs/apps/vtex.b2b-quotes">B2B Quotes & Carts</a>.
+</div>
 
 <ol start="4">
 <li>Haz clic en <code>Guardar</code>.</li>

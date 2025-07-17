@@ -1,5 +1,5 @@
 ---
-title: "A mesma SKU em várias listas nas promoções 'Buy Together' na nova interface do usuário está fazendo com que a promoção não seja aplicada no checkout"
+title: 'A mesma SKU em várias listas nas promoções "Buy Together" na nova interface do usuário está fazendo com que a promoção não seja aplicada no checkout'
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: same-sku-in-multiple-lists-in-buy-together-promotions-on-the-new-ui-is-causing-the-promotion-to-not-apply-at-the-checkout
+slugEN: a-mesma-sku-em-varias-listas-nas-promocoes-buy-together-na-nova-interface-do-usuario-esta-fazendo-com-que-a-promocao-nao-seja-aplicada-no-checkout
 locale: pt
 kiStatus: Fixed
 internalReference: 1091209
@@ -18,7 +18,9 @@ internalReference: 1091209
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um problema na nova interface do usuário em que as promoções "Buy Together" permitem que a mesma SKU seja adicionada à Lista 1 e à Lista 2 sem nenhum aviso ou erro. Esse não é o uso pretendido do tipo de promoção, pois as promoções "Buy Together" foram projetadas para funcionar com SKUs distintas em cada lista. A configuração pode levar a comportamentos inesperados, como o fato de a promoção não ser aplicada corretamente no checkout.

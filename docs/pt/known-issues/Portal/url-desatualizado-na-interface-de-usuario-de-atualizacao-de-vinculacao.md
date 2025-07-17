@@ -1,5 +1,5 @@
 ---
-title: 'URL desatualizado na interface de usuário de atualização de vinculação'
+title: "URL desatualizado na interface de usuário de atualização de vinculação"
 id: 7bgh2LIJTFovgoz0TaBr5B
 status: PUBLISHED
 createdAt: 2023-08-30T20:04:23.301Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: outdated-url-on-the-update-binding-ui
+slugEN: url-desatualizado-na-interface-de-usuario-de-atualizacao-de-vinculacao
 locale: pt
 kiStatus: Backlog
 internalReference: 890791
@@ -18,11 +18,13 @@ internalReference: 890791
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comerciante está atualizando uma oferta, a interface do usuário é a seguinte:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Portal/url-desatualizado-na-interface-de-usuario-de-atualizacao-de-vinculacao_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UfffIyuM7K7isQMiPnAqRvSiW/?name=image.png)
 
 Ao tentar acessar o link do gerenciador de licenças, ele é redirecionado para uma página SWW.
 

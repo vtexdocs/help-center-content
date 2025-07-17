@@ -17,15 +17,15 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 The Bank Identification Number (BIN) consists of the first six or eight digits of a credit or debit card and identifies the card's issuing institution.
 
-![BIN_image_digits_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments%20overview/adding-bin-information_1.png)
+![BIN_image_digits_EN_2](https://images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/1e44ba9fd9c075edcc4042470c40af1a/BIN_image_digits_EN_2.png)
 
-When a banking institution wants to create new card profiles or issue new cards for an existing model, new BINs are required. This also applies when a card [brand](https://help.vtex.com/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) is acquired by another.
+When a banking institution wants to create new card profiles or issue new cards for an existing model, new BINs are required. This also applies when a card [brand](/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) is acquired by another.
 
 In such cases, VTEX must be notified to ensure that the new cards are correctly validated during the payment process for purchases made on the platform.
 
 ## Submitting an add BIN request
 
-To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](https://help.vtex.com/en/support).
+To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](/en/support).
 
 In the ticket, you should attach a spreadsheet with the following information:
 
@@ -39,4 +39,4 @@ In the ticket, you should attach a spreadsheet with the following information:
 
 Template example:
 
-![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payments%20overview/adding-bin-information_2.PNG)
+![Bin_spreadsheet](https://images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/3c5b160ad784b2fdf80b57f99a375050/Bin_spreadsheet.PNG)

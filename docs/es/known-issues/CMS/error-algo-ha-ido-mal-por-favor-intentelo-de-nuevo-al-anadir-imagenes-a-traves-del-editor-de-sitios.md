@@ -1,5 +1,5 @@
 ---
-title: "Error 'Algo ha ido mal. Por favor, inténtelo de nuevo' al añadir imágenes a través del Editor de Sitios."
+title: 'Error "Algo ha ido mal. Por favor, inténtelo de nuevo" al añadir imágenes a través del Editor de Sitios.'
 id: r3QVP1kp8HApP83bOi6t9
 status: PUBLISHED
 createdAt: 2023-11-07T22:33:02.296Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: error-something-went-wrong-please-try-again-when-adding-images-via-site-editor
+slugEN: error-algo-ha-ido-mal-por-favor-intentelo-de-nuevo-al-anadir-imagenes-a-traves-del-editor-de-sitios
 locale: es
 kiStatus: Backlog
 internalReference: 932126
@@ -18,7 +18,9 @@ internalReference: 932126
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al añadir imágenes a través del Editor de Sitios, el mensaje "`Algo salió mal. Por favor inténtelo de nuevo.`" puede ocurrir ocasionalmente.
@@ -34,7 +36,7 @@ Esto se debe al número de imágenes por bloque. Por el momento, no tenemos un n
 - Acceda al Editor de Sitios CMS (por ejemplo https://my-account-here.myvtex.com/admin/cms/site-editor);
 - Seleccione el bloque con las nuevas imágenes a añadir;
 - Cuando la adición se guarda, el mensaje "`Algo salió mal. Por favor, inténtelo de nuevo.`" aparecerá en la esquina inferior derecha:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/error-algo-ha-ido-mal-por-favor-intentelo-de-nuevo-al-anadir-imagenes-a-traves-del-editor-de-sitios_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/97C4wewa6iz3f7bsmHtdnXu1H/?name=image.png)
 
 
 

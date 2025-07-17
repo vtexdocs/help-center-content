@@ -1,5 +1,5 @@
 ---
-title: 'Authorization status is stuck for asynchronous transactions with 2 or more payments when the first one is canceled.'
+title: "Authorization status is stuck for asynchronous transactions with 2 or more payments when the first one is canceled."
 id: 7kEU8P6lkSQYZWzgaC16nY
 status: PUBLISHED
 createdAt: 2023-11-02T15:49:18.723Z

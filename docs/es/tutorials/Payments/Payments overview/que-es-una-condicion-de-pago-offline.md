@@ -26,5 +26,5 @@ Con eso, su tienda vuelve a tener control sobre la transacción y puede, en fin,
 Un ejemplo que ilustra este tipo de situación es el boleto bancario, que es emitido por usted, pero necesita ser pagado directamente al banco (ya sea en una agencia, un cajero electrónico o una aplicación de smartphone) antes de que el producto sea enviado para entrega.
 
 ### Artículos relacionados
-- [Boleto Bancario Registrado - Flujo básico de pago](https://help.vtex.com/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S)
-- [Configurar boleto bancario](https://help.vtex.com/es/tutorial/como-configurar-boleto-bancario--tutorials_447)
+- [Boleto Bancario Registrado - Flujo básico de pago](/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S)
+- [Configurar boleto bancario](/es/tutorial/como-configurar-boleto-bancario--tutorials_447)

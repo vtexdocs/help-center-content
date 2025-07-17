@@ -1,5 +1,5 @@
 ---
-title: '[Meli] Error importing some orders'
+title: "[Meli] Error importing some orders"
 id: vvhSQr4abUg7bx1Tzp49M
 status: PUBLISHED
 createdAt: 2022-09-23T19:51:12.905Z
@@ -33,7 +33,7 @@ IMPORTANT | This scenario only contemplates orders:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-error-importing-some-orders_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/WW2J1pFsU9mvCd4VQ9Vju0RnN/?name=image.png)
 
 
 

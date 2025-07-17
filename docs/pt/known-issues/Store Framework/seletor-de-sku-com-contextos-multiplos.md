@@ -1,5 +1,5 @@
 ---
-title: 'Seletor de SKU com contextos múltiplos'
+title: "Seletor de SKU com contextos múltiplos"
 id: 4n6ap30jnJOrzflLCnVziO
 status: PUBLISHED
 createdAt: 2024-01-29T13:31:21.812Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sku-selector-with-multilpe-contexts
+slugEN: seletor-de-sku-com-contextos-multiplos
 locale: pt
 kiStatus: Fixed
 internalReference: 341322
@@ -18,16 +18,18 @@ internalReference: 341322
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
 O seletor de SKU dentro da exibição modal/rápida não está no mesmo contexto que está na página de pesquisa e na página do produto.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/seletor-de-sku-com-contextos-multiplos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zIQ15WW7s1Zo24Z1I5tFT4H3y/?name=image.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/seletor-de-sku-com-contextos-multiplos_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/gnAeV75W2Sip3Pl1zfQyAiWOI/?name=image.png)
 
 ## Simulação
 

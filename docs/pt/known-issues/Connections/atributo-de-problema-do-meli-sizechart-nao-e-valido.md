@@ -1,5 +1,5 @@
 ---
-title: 'Atributo de problema do MELI SizeChart não é válido'
+title: "Atributo de problema do MELI SizeChart não é válido"
 id: 3t6zqW9aE6pvW9b3Zvj0MB
 status: PUBLISHED
 createdAt: 2024-03-08T13:59:23.756Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-sizechart-issue-attribute-not-valid
+slugEN: atributo-de-problema-do-meli-sizechart-nao-e-valido
 locale: pt
 kiStatus: Fixed
 internalReference: 996639
@@ -18,7 +18,9 @@ internalReference: 996639
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

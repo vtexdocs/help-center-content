@@ -19,7 +19,7 @@ Portadores são os motoristas que realizam as entregas do VTEX Tracking. Os port
 
 Os portadores devem ser cadastrados no VTEX Tracking para que sua operação de entrega seja integrada ao sistema.  Pela plataforma web é possível adicionar um novo portador, consultar e editar portadores já cadastrados. 
 
-A partir dos dados inseridos pelo portador,o sistema calcula a estimativa de tempo de entrega. O cálculo é feito pela plataforma do VTEX Tracking utilizando as informações de localização do GPS do smartphone do portador. Todo o acompanhamento diário do portador pode ser visto pela plataforma web e o portador deve utilizar o aplicativo[ móvel do VTEX Tracking](https://help.vtex.com/pt/tutorial/tutorial-aplicativo-movel-vtex-tracking--5qYuqbMVlQBfpdCzC0X6jv).  
+A partir dos dados inseridos pelo portador,o sistema calcula a estimativa de tempo de entrega. O cálculo é feito pela plataforma do VTEX Tracking utilizando as informações de localização do GPS do smartphone do portador. Todo o acompanhamento diário do portador pode ser visto pela plataforma web e o portador deve utilizar o aplicativo[ móvel do VTEX Tracking](/pt/tutorial/tutorial-aplicativo-movel-vtex-tracking--5qYuqbMVlQBfpdCzC0X6jv).  
 
 Esse artigo tem as informações necessárias para:
 
@@ -53,7 +53,9 @@ Para adicionar um novo portador, vá na plataforma web no menu à esquerda:
 
 Os campos que não são obrigatórios são utilizados para fins de consulta, não impactam o funcionamento do sistema.
 
->❗ Se o campo Fuso horário não for preenchido será considerado o fuso horário de Brasília (UTC -03:00) para o cálculo do horário da entrega para o cliente final.
+<div class="alert alert-danger">
+Se o campo Fuso horário não for preenchido será considerado o fuso horário de Brasília (UTC -03:00) para o cálculo do horário da entrega para o cliente final.
+</div>
 
 #### Dados de cadastro
 
@@ -66,7 +68,9 @@ Os campos que não são obrigatórios são utilizados para fins de consulta, nã
 
 Os campos que não são obrigatórios são utilizados para fins de consulta, não impactam o funcionamento do sistema.
 
->❗ Se ao fazer o cadastro o email do portador não for preenchido, o portador não conseguirá utilizar o aplicativo VTEX Tracking.
+<div class="alert alert-danger">
+Se ao fazer o cadastro o email do portador não for preenchido, o portador não conseguirá utilizar o aplicativo VTEX Tracking.
+</div>
 
 #### Dados de contato
 

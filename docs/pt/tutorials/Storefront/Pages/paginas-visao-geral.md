@@ -35,6 +35,6 @@ No Admin VTEX, acesse **Storefront > Pages** e descubra as principais ferramenta
 ## Próximos passos
 
 Consulte os tutoriais a seguir para começar a gerenciar o conteúdo da sua frente de loja:
-- [Criar landing pages por binding](https://help.vtex.com/pt/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Gerenciando redirecionamentos de URL por binding](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Criar landing pages por binding](/pt/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Gerenciando redirecionamentos de URL por binding](/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
 

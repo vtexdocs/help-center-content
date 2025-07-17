@@ -1,5 +1,5 @@
 ---
-title: 'Service type name field wrongly returned via API'
+title: "Service type name field wrongly returned via API"
 id: 1FdozyiQb5DLe7TPICyCDR
 status: PUBLISHED
 createdAt: 2024-01-04T16:36:17.926Z

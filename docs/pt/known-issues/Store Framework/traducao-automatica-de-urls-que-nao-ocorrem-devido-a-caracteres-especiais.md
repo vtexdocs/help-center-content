@@ -1,5 +1,5 @@
 ---
-title: 'Tradução automática de URLs que não ocorrem devido a caracteres especiais'
+title: "Tradução automática de URLs que não ocorrem devido a caracteres especiais"
 id: 7G0WKfFFZxZ7mMEoasePld
 status: PUBLISHED
 createdAt: 2024-07-09T19:45:44.410Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: automatic-translation-of-urls-not-occurring-due-to-special-characters
+slugEN: traducao-automatica-de-urls-que-nao-ocorrem-devido-a-caracteres-especiais
 locale: pt
 kiStatus: Backlog
 internalReference: 1062858
@@ -18,7 +18,9 @@ internalReference: 1062858
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o aplicativo `admin-catalog-translations` para traduzir automaticamente o conteúdo do catálogo, o linkId pode ter problemas para ser traduzido quando tiver caracteres especiais, como `ç`. O `admin-catalog-translations` usa o `messages app` para fazer as traduções e algumas palavras podem não ser traduzidas corretamente devido a esses caracteres.

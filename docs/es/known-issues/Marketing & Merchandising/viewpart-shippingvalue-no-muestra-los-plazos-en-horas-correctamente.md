@@ -1,16 +1,16 @@
 ---
-title: "ViewPart 'shippingValue' no muestra los plazos en horas correctamente"
+title: 'ViewPart "shippingValue" no muestra los plazos en horas correctamente'
 id: 5hvl9eGxPLZAuNcFAFc9Vb
 status: PUBLISHED
 createdAt: 2019-09-09T20:07:14.796Z
-updatedAt: 2022-12-22T20:48:53.944Z
-publishedAt: 2022-12-22T20:48:53.944Z
+updatedAt: 2024-12-26T19:37:53.602Z
+publishedAt: 2024-12-26T19:37:53.602Z
 firstPublishedAt: 2019-09-09T20:16:10.874Z
 contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours
+slugEN: viewpart-shippingvalue-no-muestra-los-plazos-en-horas-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -35,7 +35,5 @@ Por ejemplo, una transportadora llamada "Expreso" con plazo de hasta 4 horas par
 
 __Este componente debe considerarse obsoleto.__
 
-Actualmente, sugerimos que el cálculo de flete se realice por medio de la API de simulación de carrito en el Checkout.
-
-Además, también es posible utilizar esa API por medio de la [biblioteca Javascript “vtex.js”](https://github.com/vtex/vtex.js/tree/master/docs/checkout#simulateshippingitems-postalcode-country-saleschannel-deprecated).
+Actualmente, sugerimos que el cálculo de flete se realice por medio de la [API de simulación de carrito en el Checkout](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) o usando el endpoint [Calculate SLA](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping/calculate).
 

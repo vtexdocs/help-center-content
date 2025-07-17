@@ -1,5 +1,5 @@
 ---
-title: 'O campo Judet county não está aparecendo como salvo ao editar o endereço na minha conta na Romênia.'
+title: "O campo Judet county não está aparecendo como salvo ao editar o endereço na minha conta na Romênia."
 id: 5aOtbUdNXPzOpuvLnmJtMf
 status: PUBLISHED
 createdAt: 2022-02-24T14:52:37.615Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-field-judet-county-is-not-showing-as-saved-when-address-editing-on-romania-my-account
+slugEN: o-campo-judet-county-nao-esta-aparecendo-como-salvo-ao-editar-o-endereco-na-minha-conta-na-romenia
 locale: pt
 kiStatus: No Fix
 internalReference: 394658
@@ -18,7 +18,9 @@ internalReference: 394658
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para lojas da Romênia, na página _**My Account**_, há um campo chamado "Judet", município em inglês, que não está sendo exibido como salvo ao editar o endereço.

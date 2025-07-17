@@ -15,13 +15,15 @@ legacySlug: como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->⚠️ Este procedimento se aplica apenas para clientes faturados no **Brasil**.
+<div class="alert alert-warning" role="alert">
+  <p>Este procedimento se aplica apenas para clientes faturados no <strong>Brasil</strong>.</p>
+</div>
 
 O faturamento é disparado até o quinto dia útil do mês. Nota Fiscal e boleto ficam disponíveis no módulo __Faturas__ do Admin da sua loja. 
 
 Quando uma cobrança é feita, enviamos um email para os contatos cadastrados avisando de que a Nota Fiscal e boleto já estão disponíveis para pagamento ou consulta. 
 
-Caso não tenha recebido o aviso até o 5º dia útil do mês, [consulte seu painel administrativo](https://help.vtex.com/pt/tutorial/como-fazer-download-faturas-da-vtex--tutorials_653). Se identificar alguma divergência, entre em contato com o [Financeiro](https://support.vtex.com/hc/pt-br/requests).
+Caso não tenha recebido o aviso até o 5º dia útil do mês, [consulte seu painel administrativo](/pt/tutorial/como-fazer-download-faturas-da-vtex--tutorials_653). Se identificar alguma divergência, entre em contato com o [Financeiro](https://support.vtex.com/hc/pt-br/requests).
 
 Caso não consiga baixar seu boleto, é possível que você não tenha um perfil financeiro configurado na conta da loja, neste caso, solicite para o Super Admin da conta acrescentar.
 

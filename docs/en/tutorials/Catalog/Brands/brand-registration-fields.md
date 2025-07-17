@@ -19,16 +19,15 @@ To better understand the meaning of each Brand creation field, read their descri
 
 - __Name__: Name of the brand you wish create and identify a product with. This field is mandatory and limited to 150 characters.
 
->❗ When filling in then brand's **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+<div class="alert alert-danger">
+  <p>When filling in then brand's <b>Name</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 - __Replacement Words__: Alternative search terms that will lead to the created brand.The user can find the desired brand even when misspelling it. Used especially when words are of foreign origin and have a distinct spelling that is transcribed into a generic one, or when small spelling mistakes occur.
 
@@ -38,8 +37,8 @@ To better understand the meaning of each Brand creation field, read their descri
 
 - __Adwords Remarketing Code__: Also known as Google Remarketing Tag, it's the code used in Google Adwords campaigns. Filling out this field with the code will allow you to follow the remarketing metrics linked to that brand.
 
-- __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](https://help.vtex.com/en/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](/en/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
 
-- __Display in Home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](https://help.vtex.com/en/tutorial/--tutorials_563).
+- __Display in Home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](/en/tutorial/--tutorials_563).
 
 - __Activate Brand__: When selecting this box, the brand is visible and ready for use with the created products.

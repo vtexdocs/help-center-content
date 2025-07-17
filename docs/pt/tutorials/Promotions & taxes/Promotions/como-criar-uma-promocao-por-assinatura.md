@@ -15,14 +15,14 @@ legacySlug: como-criar-uma-promocao-por-assinatura
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
 
 1. Acesse o módulo **Promoções e Taxas**.
 2. Clique em **Promoções**.
 3. Clique no botão `Nova Promoção`.
 4. Selecione o botão `Promoção Regular`.
 5. Selecione o campo **É um pedido de assinatura** na seção **Quais as condições para a promoção ser válida?**. Essa opção define que a promoção será aplicada em pedidos de assinatura. Apenas os produtos com assinatura no carrinho receberão o desconto. Para entender as possibilidades de configuração, veja as condições a seguir:
- ![frequenciapt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/como-criar-uma-promocao-por-assinatura_1.png)
+ ![frequenciapt](https://images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/f4eb96b416f69ce48d712463b1d7bd16/image1__2_.png)
 - **Pedido original**: pedidos que geram as assinaturas, mas ainda não fazem parte dos ciclos de assinatura.
 - **Pedidos recorrentes**: pedidos que fazem parte dos ciclos de assinatura.
 - **Filtrar por**: seleção que filtra quais pedidos de assinatura que serão válidos para a promoção.
@@ -40,7 +40,9 @@ Configure corretamente a frequência e o ciclo para garantir que a promoção se
 | 22/01/2022 | Terceiro ciclo  | A promoção não será válida |
 | 05/02/2022 | Quarto ciclo    | A promoção será válida     |
 
->ℹ️ Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.
+<div class="alert alert-info" role="alert"> 
+ <p>Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.</p>
+</div>
 
 <ol start="6">
 <li>Preencha <a href="https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327" rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">os campos restantes da promoção</a>.</li><br>

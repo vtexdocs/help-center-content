@@ -14,4 +14,6 @@ locale: en
 legacySlug: what-is-the-whatsapp-link
 ---
 
->⚠️ This content is only available in Portuguese.
+<div class="alert alert-warning">
+  <p>This content is only available in Portuguese.</p>
+</div>

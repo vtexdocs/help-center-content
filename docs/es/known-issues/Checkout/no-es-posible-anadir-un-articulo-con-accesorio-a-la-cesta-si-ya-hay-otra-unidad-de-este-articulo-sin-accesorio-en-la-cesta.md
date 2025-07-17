@@ -1,5 +1,5 @@
 ---
-title: 'No es posible añadir un artículo con accesorio a la cesta si ya hay otra unidad de este artículo sin accesorio en la cesta'
+title: "No es posible añadir un artículo con accesorio a la cesta si ya hay otra unidad de este artículo sin accesorio en la cesta"
 id: 3l41VmdtPCxUjYChuO7o9O
 status: PUBLISHED
 createdAt: 2021-09-15T15:24:52.309Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: it-is-not-possible-to-add-an-item-with-attachment-to-the-cart-if-there-is-already-another-unit-of-this-item-without-attachment-in-the-cart
+slugEN: no-es-posible-anadir-un-articulo-con-accesorio-a-la-cesta-si-ya-hay-otra-unidad-de-este-articulo-sin-accesorio-en-la-cesta
 locale: es
 kiStatus: No Fix
 internalReference: 412041
@@ -18,7 +18,9 @@ internalReference: 412041
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Durante el proceso de compra, si el cliente añade un artículo que ya ha sido incluido en el carrito anteriormente y la nueva inclusión tiene opciones de montaje, el segundo artículo no se añade al carrito.

@@ -1,5 +1,5 @@
 ---
-title: 'As promoções de reembolso não consideram os itens removidos dos pedidos'
+title: "As promoções de reembolso não consideram os itens removidos dos pedidos"
 id: lm9v37jvUSCeh9FVFHjsr
 status: PUBLISHED
 createdAt: 2024-04-19T13:50:10.264Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cashback-promotions-do-not-consider-items-removed-from-orders
+slugEN: as-promocoes-de-reembolso-nao-consideram-os-itens-removidos-dos-pedidos
 locale: pt
 kiStatus: Backlog
 internalReference: 1019864
@@ -18,7 +18,9 @@ internalReference: 1019864
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao usar promoções de cashback, os cálculos são totalmente realizados no momento em que os itens são inseridos no carrinho.

@@ -31,8 +31,8 @@ Para configurar PagHiperV3, siga los pasos a continuación:
 10. En __Frase variável do vendedor__, si lo desea, configure la frase que se mostrará para cada boleto específico.
 11. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por PagHiperV3, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por PagHiperV3, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, PagHiperV3 puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

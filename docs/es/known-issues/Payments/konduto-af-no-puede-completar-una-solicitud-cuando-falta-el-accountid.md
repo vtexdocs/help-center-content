@@ -1,5 +1,5 @@
 ---
-title: 'Konduto AF no puede completar una solicitud cuando falta el accountId.'
+title: "Konduto AF no puede completar una solicitud cuando falta el accountId."
 id: CGHZoCfr01ATsbtiLU9ym
 status: PUBLISHED
 createdAt: 2022-03-03T22:09:57.638Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: konduto-af-cannot-complete-a-request-when-the-accountid-is-missing
+slugEN: konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid
 locale: es
 kiStatus: Backlog
 internalReference: 496298
@@ -18,7 +18,9 @@ internalReference: 496298
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Existe un problema para aprobar algunas transacciones que está relacionado con el sistema antifraude Konduto. Este problema surge cuando el sistema no puede realizar la petición necesaria debido a la ausencia del accountId, que es necesario para recuperar la información del pago de la base de datos de cuentas. Puede comprobarlo examinando la ruta "/payment", donde encontrará el nodo "usedAccountId" con valor "False" en estos casos.

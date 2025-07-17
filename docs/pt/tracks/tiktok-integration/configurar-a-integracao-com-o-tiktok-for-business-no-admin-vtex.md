@@ -39,10 +39,12 @@ Primeiro, é necessário inserir as informações solicitadas no formulário de 
 
 Nesta parte do formulário, você precisa preencher informações que servirão para integrar o seu catálogo de produtos na VTEX ao TikTok.
 
-* **ID do Afiliado:** identificador do novo [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) que você deseja criar para a integração. O ID do afiliado precisa conter apenas 3 consoantes e não pode estar associado a um afiliado já existente. Sugerimos utilizar `TKT` para identificar o TikTok com facilidade. É importante verificar em **Gerenciamento de pedidos > Configurações > Afiliados** se o ID não está em uso. O afiliado será criado automaticamente ao concluir a configuração. 
-* **Política Comercial:** campo para selecionar a [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será associada à integração do catálogo com o TikTok. Atualmente, a integração aceita apenas políticas comerciais com BRL como moeda. Confira a seção [Envio de dados dos produtos para o TikTok](#envio-de-dados-dos-produtos-para-o-tiktok) para mais informações.
+* **ID do Afiliado:** identificador do novo [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) que você deseja criar para a integração. O ID do afiliado precisa conter apenas 3 consoantes e não pode estar associado a um afiliado já existente. Sugerimos utilizar `TKT` para identificar o TikTok com facilidade. É importante verificar em **Gerenciamento de pedidos > Configurações > Afiliados** se o ID não está em uso. O afiliado será criado automaticamente ao concluir a configuração. 
+* **Política Comercial:** campo para selecionar a [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será associada à integração do catálogo com o TikTok. Atualmente, a integração aceita apenas políticas comerciais com BRL como moeda. Confira a seção [Envio de dados dos produtos para o TikTok](#envio-de-dados-dos-produtos-para-o-tiktok) para mais informações.
 
->⚠️ Não altere as configurações do afiliado criado automaticamente por essa integração. Qualquer alteração manual futura na configuração do afiliado em **Gerenciamento de pedidos > Configurações > Afiliados** pode fazer com que a integração pare de funcionar.
+<div class="alert alert-warning">
+  <p>Não altere as configurações do afiliado criado automaticamente por essa integração. Qualquer alteração manual futura na configuração do afiliado em <strong>Gerenciamento de pedidos > Configurações > Afiliados</strong> pode fazer com que a integração pare de funcionar.</p>
+</div>
 
 ### Dados da Empresa
 
@@ -82,7 +84,7 @@ Depois de preencher o formulário de configuração da integração, você preci
 
 Na página **Set up TikTok For Business** (Configurar o TikTok For Business), ilustrada abaixo, é necessário cumprir as instruções de configuração descritas a seguir.
 
-![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/tiktok-integration/configurar-a-integracao-com-o-tiktok-for-business-no-admin-vtex_1.png)
+![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
 
 1. Clique na seção **TikTok For Business Account** e verifique se a sua conta está listada.
     * Caso queira conectar outra conta, clique em `Disconnect` e repita a etapa de login descrita em [Conectar a conta do TikTok](#conectar-a-conta-do-tiktok).
@@ -94,20 +96,22 @@ Na página **Set up TikTok For Business** (Configurar o TikTok For Business), il
 5. Na seção **TikTok Ad Account**, escolha uma das seguintes opções:
     * Para se conectar a uma Ad Account já existente: clique em `Connect`.
     * Para criar uma nova Ad Account: edite o nome da nova conta conforme desejar e clique em `Create New`.
-6. Clique na seção **Data Sharing** para criar um [Pixel do TikTok](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/7Dwfwu1aHMp1aR1yvej5nv#pixel-do-tiktok).
+6. Clique na seção **Data Sharing** para criar um [Pixel do TikTok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/7Dwfwu1aHMp1aR1yvej5nv#pixel-do-tiktok).
 7. Na seção **Data Sharing**, edite o nome do novo Pixel conforme desejar e clique em `Create New`.
 8. Ainda em **Data Sharing**, utilize o botão  <i class="fas fa-toggle-on"></i> para ativar ou não o [Advanced Matching](https://ads.tiktok.com/help/article?aid=10007891). Essa funcionalidade não está disponível para a integração com a VTEX no momento, ou seja, mesmo que você a ative por esse botão, ela não será aplicada.
 9. Clique na seção **Catalog** para integrar o seu catálogo com o TikTok. Leia [Envio de dados dos produtos para o TikTok](#envio-de-dados-dos-produtos-para-o-tiktok) para mais informações sobre esse processo.
 10. Na seção **Catalog**, edite o nome do novo catálogo a ser criado no [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) conforme desejar e clique em `Create New`. Os produtos associados à política comercial que você informou no [formulário](#1-preencher-o-formulario-de-configuracao-da-integracao) serão adicionados a esse catálogo no TikTok.
 11. Clique em `Finish Setup`.
 
-Ao concluir essa configuração, você será conduzido novamente para **Marketplace > TikTok** no Admin VTEX, onde poderá [gerenciar a integração](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). Para algumas versões do Admin VTEX, a página se encontra em **Aplicativos > Meus Aplicativos > TikTok**. Após a configuração ter sido concluída com sucesso, qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. 
+Ao concluir essa configuração, você será conduzido novamente para **Marketplace > TikTok** no Admin VTEX, onde poderá [gerenciar a integração](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). Para algumas versões do Admin VTEX, a página se encontra em **Aplicativos > Meus Aplicativos > TikTok**. Após a configuração ter sido concluída com sucesso, qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. 
 
-![tiktok-config-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/tiktok-integration/configurar-a-integracao-com-o-tiktok-for-business-no-admin-vtex_2.gif)
+![tiktok-config-3](https://downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
 
 ### Envio de dados dos produtos para o TikTok
 
->⚠️ O TikTok sincroniza apenas produtos que estão de acordo com as políticas de publicidade da plataforma. Leia as [Políticas de Anúncios do TikTok](https://ads.tiktok.com/help/article?aid=9550&lang=pt) para mais informações.
+<div class="alert alert-warning">
+  <p>O TikTok sincroniza apenas produtos que estão de acordo com as políticas de publicidade da plataforma. Leia as <a href="https://ads.tiktok.com/help/article?aid=9550&lang=pt">Políticas de Anúncios do TikTok</a> para mais informações.</p>
+</div>
 
 Com a integração configurada, o envio de produtos para o TikTok é um processo automático. Os dados enviados são:
 
@@ -123,5 +127,5 @@ Com a integração configurada, o envio de produtos para o TikTok é um processo
 * Preço (em BRL)
 * Imagens
 
-Para que os produtos sejam sincronizados, todas essas informações precisam estar preenchidas. Atualizações no cadastro dos produtos feitas no ambiente da VTEX, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) ou [Admin](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), são replicadas de forma automática no TikTok.
+Para que os produtos sejam sincronizados, todas essas informações precisam estar preenchidas. Atualizações no cadastro dos produtos feitas no ambiente da VTEX, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) ou [Admin](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), são replicadas de forma automática no TikTok.
 

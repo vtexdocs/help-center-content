@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 The `Ready for Handling` status is the warning to the ERP that it should move the order to clear the reservation. After the ERP notifies VTEX that it has integrated the order and that the items' stock has been updated, the status is changed to `Handling Shipping`.
 
-The reservation clearing does not happen automatically. It should be controlled by your ERP. For more information, see [How the reservation works](https://help.vtex.com/en/tutorial/como-se-maneja-la-reserva--tutorials_92).
+The reservation clearing does not happen automatically. It should be controlled by your ERP. For more information, see [How the reservation works](/en/tutorial/como-se-maneja-la-reserva--tutorials_92).
 
 See below for possible ways to update this status.
 
@@ -40,4 +40,6 @@ If the store doesn't have an ERP or some system that integrates the orders, it's
     - <a class="far fa-check-square"></a> I understand the consequences of this action in the order flow.
 5. Click `Proceed with status`.
 
->⚠️ When you manually start an order handling, the order can not be integrated with the ERP later on.
+<div class="alert alert-warning">
+When you manually start an order handling, the order can not be integrated with the ERP later on.
+</div>

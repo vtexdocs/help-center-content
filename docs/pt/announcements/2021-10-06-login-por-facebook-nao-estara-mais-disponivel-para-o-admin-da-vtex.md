@@ -23,7 +23,9 @@ Por isso, após uma análise objetiva e criteriosa, decidimos remover a funciona
 
 O suporte ao login por Facebook será removido de todas versões do painel administrativo da VTEX.
 
->ℹ️ A funcionalidade de login por Facebook ainda vai estar disponível para o login de compradores na sua loja VTEX.
+<div class="alert alert-info">
+A funcionalidade de login por Facebook ainda vai estar disponível para o login de compradores na sua loja VTEX.
+</div>
 
 ## Por que estamos realizando esta mudança?
 

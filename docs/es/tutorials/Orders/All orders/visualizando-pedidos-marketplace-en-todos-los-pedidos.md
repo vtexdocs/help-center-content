@@ -21,15 +21,15 @@ En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos lo
 
 ## Página Todos los pedidos
 
-En la página [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), en la columna **Order ID** hay el código del pedido. Pedidos de marketplaces tienen un sufijo `-01`, por ejemplo.
+En la página [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), en la columna **Order ID** hay el código del pedido. Pedidos de marketplaces tienen un sufijo `-01`, por ejemplo.
 
 En la columna **Origin**, también aparece `Marketplace` cuando un pedido es de un marketplace. 
 
 ## Página de detalles del pedido
 
-En la [página de detalles del pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), en la sección **Pago**, es posible ver el nombre del comerciante asociado al pedido.
+En la [página de detalles del pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), en la sección **Pago**, es posible ver el nombre del comerciante asociado al pedido.
 
 ### Artículos relacionados
 
-- [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196)
-- [¿Por qué el pedido fue cerrado con el precio incorrecto?](https://help.vtex.com/es/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196)
+- [¿Por qué el pedido fue cerrado con el precio incorrecto?](/es/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)

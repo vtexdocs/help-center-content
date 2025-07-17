@@ -1,5 +1,5 @@
 ---
-title: 'Control accountUserProfile crea máscara de teléfono sólo en el estándar brasileño'
+title: "Control accountUserProfile crea máscara de teléfono sólo en el estándar brasileño"
 id: 76NuOCa920CYq2wSgSAyOc
 status: PUBLISHED
 createdAt: 2017-08-15T14:49:39.178Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: control-accountuserprofile-renders-phone-mask-only-in-brazilian-standard
+slugEN: control-accountuserprofile-crea-mascara-de-telefono-solo-en-el-estandar-brasileno
 locale: es
 kiStatus: Backlog
 internalReference: 

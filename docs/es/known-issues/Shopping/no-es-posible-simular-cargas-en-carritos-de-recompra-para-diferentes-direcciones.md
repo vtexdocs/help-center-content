@@ -1,5 +1,5 @@
 ---
-title: 'No es posible simular cargas en carritos de recompra para diferentes direcciones'
+title: "No es posible simular cargas en carritos de recompra para diferentes direcciones"
 id: 503wM1KC9nzDvPO4c2bQYM
 status: PUBLISHED
 createdAt: 2019-07-09T15:13:05.370Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: simulating-shipping-to-different-address-in-repurchase-carts-in-not-possible
+slugEN: no-es-posible-simular-cargas-en-carritos-de-recompra-para-diferentes-direcciones
 locale: es
 kiStatus: Backlog
 internalReference: 

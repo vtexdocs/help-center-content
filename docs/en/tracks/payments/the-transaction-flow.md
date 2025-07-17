@@ -16,13 +16,13 @@ trackSlugEN: payments
 
 The path that money travels when it is exchanged for a product or service is what we call a __transaction__.
 
-In a VTEX store, a transaction begins every time a user chooses a [payment condition](https://help.vtex.com/en/tutorial/difference-between-payment-methods-and-payment-conditions) and completes the order. From there, the purchase data is sent to be validated by each member of the process.
+In a VTEX store, a transaction begins every time a user chooses a [payment condition](/en/tutorial/difference-between-payment-methods-and-payment-conditions) and completes the order. From there, the purchase data is sent to be validated by each member of the process.
 
 Transactions performed by VTEX payments module go through various statuses, from the beginning of the authorization process through the settlement of the value and the conclusion of the transaction.
 
 See below an example timeline with the transaction statuses.
 
-![Transaction Flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payments/the-transaction-flow_1.jpg)
+![Transaction Flow](https://images.contentful.com/alneenqid6w5/4AvpkJnEN2ImKkIgQQoIKK/e031cc030d5e1da745fac51137c4d4b2/Transaction_Flow.jpg)
 
 1. __Authorizing__: This is the first status of a Payments transaction. At this stage, Payments indicates that the process of sending information to an acquirer or to another gateway has begun.
 2. __Authorized__: Upon the initiation of the authorization process, the acquirer or other gateway sends the transaction information to the issuing bank. The bank responds if the transaction should be authorized or not. If it denies the transaction, the payment is __canceled__. If it authorizes, the transaction status changes to __Authorized__.
@@ -32,4 +32,4 @@ See below an example timeline with the transaction statuses.
 6. __Settlement of $__: This status indicates that the __settlement__ process of a specific ammount will start. It's important to note that, at this stage, the value __has not been settled yet__. There is only a warning that the process of settling this value will be carried out in the next status.
 7. __Settling__: In this status, the __settlement__ attempt actually starts. The systems responsible for that begin the process by which the ammount of the transaction will be settled.
 8. __Settled__: When the transaction reaches this status, it means that the ammount was __successfully settled__. From here, the __connector__ becomes entirely responsible for the flow. It is up to the retailer to monitor if the payment amount will be properly deposited in his account.
-9. __Finished__: The transaction reaches the __finished__ status when the invoice with the payment ammount is issued and linked to the order in the OMS. You should note that even after the settlement finishes successfully, [it's necessary to include the invoice in the order](https://help.vtex.com/en/faq/why-has-a-transaction-been-successfully-captured-but-not-finalized-in-the-pci-gateway--5kOSpUYvTyuUKOOws2A8Me).
+9. __Finished__: The transaction reaches the __finished__ status when the invoice with the payment ammount is issued and linked to the order in the OMS. You should note that even after the settlement finishes successfully, [it's necessary to include the invoice in the order](/en/faq/why-has-a-transaction-been-successfully-captured-but-not-finalized-in-the-pci-gateway--5kOSpUYvTyuUKOOws2A8Me).

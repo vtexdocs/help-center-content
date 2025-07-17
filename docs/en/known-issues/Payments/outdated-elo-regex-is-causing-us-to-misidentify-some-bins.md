@@ -1,5 +1,5 @@
 ---
-title: 'Outdated Elo regex is causing us to misidentify some BINs'
+title: "Outdated Elo regex is causing us to misidentify some BINs"
 id: 45vx88VCQ0yZynkVxGqSq8
 status: PUBLISHED
 createdAt: 2024-04-10T17:25:57.376Z

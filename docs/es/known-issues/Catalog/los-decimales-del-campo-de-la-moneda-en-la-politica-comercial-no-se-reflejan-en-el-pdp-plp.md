@@ -1,5 +1,5 @@
 ---
-title: 'Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP'
+title: "Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP"
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
+slugEN: los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp
 locale: es
 kiStatus: No Fix
 internalReference: 695044
@@ -18,17 +18,19 @@ internalReference: 695044
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
 A pesar del número establecido en el campo Moneda decimal, los decimales reales son siempre 2 en el PDP y PLP de la tienda.
 
 Configuración en la política comercial:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2R9hhEaXn2ur3JZlbC4d5lEeF/?name=image.png)
 
 Frontend de la cuenta:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zPYZBDD7DEywmya5wpuyonOqY/?name=image.png)
 
 
 

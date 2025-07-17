@@ -1,5 +1,5 @@
 ---
-title: 'First digit is removed from corporateDocument if starts with letters'
+title: "First digit is removed from corporateDocument if starts with letters"
 id: sfKdoiEwBRR73CbhvSHJF
 status: PUBLISHED
 createdAt: 2023-10-17T17:26:20.683Z

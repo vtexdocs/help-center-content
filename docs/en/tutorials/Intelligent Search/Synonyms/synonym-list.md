@@ -15,9 +15,9 @@ legacySlug: synonym-list
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-The **Synonyms** page allows you to view and manage all Intelligent Search [synonyms](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) added to your store. You can access it in the VTEX Admin by clicking **Storefront > Intelligent Search > Synonyms**.
+The **Synonyms** page allows you to view and manage all Intelligent Search [synonyms](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) added to your store. You can access it in the VTEX Admin by clicking **Storefront > Intelligent Search > Synonyms**.
 
-![lista-sinonimos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Synonyms/synonym-list_1.PNG)
+![lista-sinonimos-en](https://images.ctfassets.net/alneenqid6w5/4pBgCLPNUXZ2XZFgBS4tC7/7803ace6dbfd3804a8decfa1081ee08e/lista-sinonimos-en.PNG)
 
 The page displays the following information in a table: 
 
@@ -73,11 +73,11 @@ This page allows you to do the following:
 
 ## Creating synonyms
 
-You can create synonyms individually by clicking the `Create Synonym` button. Follow the instructions described in [Configuring synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#creating-synonyms-individually).
+You can create synonyms individually by clicking the `Create Synonym` button. Follow the instructions described in [Configuring synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#creating-synonyms-individually).
 
 ## Importing synonyms
 
-You can create synonyms in bulk by importing a CSV file using the` Import` button. Check out the instructions in the [Configuring synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importing-csv) article to learn about the spreadsheet template and how to upload it. 
+You can create synonyms in bulk by importing a CSV file using the` Import` button. Check out the instructions in the [Configuring synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importing-csv) article to learn about the spreadsheet template and how to upload it. 
 
 ## Searching for synonyms
 
@@ -101,7 +101,7 @@ You can filter the synonym list using the following options:
 
 ## Editing synonyms
 
-To edit an existing synonym, click its corresponding row in the synonym list. Learn more about the editable fields in the [Configuring synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#creating-synonyms-individually) article. 
+To edit an existing synonym, click its corresponding row in the synonym list. Learn more about the editable fields in the [Configuring synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#creating-synonyms-individually) article. 
 
 ## Deleting synonyms
 

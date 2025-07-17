@@ -1,5 +1,5 @@
 ---
-title: "Política de envío no priorizada por 'Motivo: Descartado con carácter prioritario' incluso con mejor coste"
+title: 'Política de envío no priorizada por "Motivo: Descartado con carácter prioritario" incluso con mejor coste'
 id: p1oTHG7CuYITViV4uFZEQ
 status: PUBLISHED
 createdAt: 2022-05-10T18:05:57.097Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-not-prioritized-due-reason-dismissed-as-a-matter-of-priority-even-with-better-cost
+slugEN: politica-de-envio-no-priorizada-por-motivo-descartado-con-caracter-prioritario-incluso-con-mejor-coste
 locale: es
 kiStatus: Backlog
 internalReference: 379685
@@ -18,7 +18,9 @@ internalReference: 379685
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el cliente establece un coste desde el almacén hasta el muelle en la tarifa de envío, puede afectar a la selección de la política de envío. Esto puede ocurrir porque el coste del muelle no se incluye en la priorización de las pólizas de envío. Por lo tanto, se puede priorizar una política de envío que sea más cara para el consumidor, ya que el cálculo del valor del flete no tuvo en cuenta el coste del muelle.

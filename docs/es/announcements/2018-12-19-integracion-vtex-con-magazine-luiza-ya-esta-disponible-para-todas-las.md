@@ -21,7 +21,9 @@ Su tienda VTEX no depende más de las integraciones externas para vender en la M
 ## Cómo fue el cambio
 Funcionando desde octubre de 2018, nuestra integración con la Magazine Luiza estaba disponible sólo para tiendas que todavía no vendían en el marketplace. En diciembre, iniciamos la migración de las tiendas que trabajaban con integraciones externas y el proceso se concluyó con éxito.
 
->ℹ️ La integración con la Magazine Luiza ocurre a través del sistema de Integra Commerce, que intermedia las informaciones enviadas por VTEX y repasa al marketplace.
+<div class="alert alert-info">
+La integración con la Magazine Luiza ocurre a través del sistema de Integra Commerce, que intermedia las informaciones enviadas por VTEX y repasa al marketplace.
+</div>
 
 
 ## Integración completa, estable y con todo el soporte VTEX

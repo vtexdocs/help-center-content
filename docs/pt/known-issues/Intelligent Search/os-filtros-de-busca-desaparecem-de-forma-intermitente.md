@@ -1,5 +1,5 @@
 ---
-title: 'Os filtros de busca desaparecem de forma intermitente'
+title: "Os filtros de busca desaparecem de forma intermitente"
 id: 6rD4zlDx7dL9wUAsRuvSD7
 status: PUBLISHED
 createdAt: 2023-01-16T18:29:18.976Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-filters-disappear-intermittently
+slugEN: os-filtros-de-busca-desaparecem-de-forma-intermitente
 locale: pt
 kiStatus: Backlog
 internalReference: 734221
@@ -18,7 +18,9 @@ internalReference: 734221
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns cenários, quando o usuário clica no botão para limpar os filtros selecionados na página de busca, os mesmos filtros param de renderizar e são exibidos na tela.

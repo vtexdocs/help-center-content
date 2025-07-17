@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de gestión de pedidos no encuentra resultados para los criterios que tienen espacios dobles en el nombre'
+title: "El filtro de gestión de pedidos no encuentra resultados para los criterios que tienen espacios dobles en el nombre"
 id: 3Z8bOmWhsdFbMX5pMp8wZU
 status: PUBLISHED
 createdAt: 2022-04-29T20:57:35.619Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-order-management-filter-does-not-find-results-for-criteria-that-have-double-spaces-in-the-name
+slugEN: el-filtro-de-gestion-de-pedidos-no-encuentra-resultados-para-los-criterios-que-tienen-espacios-dobles-en-el-nombre
 locale: es
 kiStatus: Backlog
 internalReference: 353656
@@ -18,7 +18,9 @@ internalReference: 353656
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

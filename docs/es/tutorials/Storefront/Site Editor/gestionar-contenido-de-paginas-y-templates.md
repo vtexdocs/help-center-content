@@ -17,32 +17,42 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 El Site Editor refleje de forma nativa la aplicación Store Theme, lo que le permite sobrescribir las configuraciones predefinidas para los bloques y crear nuevo contenido para las páginas y *templates* (plantillas) de la tienda.
 
->ℹ️ Site Editor no le permite agregar un nuevo bloque a un <i>template</i> o a una página específica, solo puede sobrescribir las configuraciones de bloques existentes de la aplicación Store Theme.
+<div class="alert alert-info">
+Site Editor no le permite agregar un nuevo bloque a un <i>template</i> o a una página específica, solo puede sobrescribir las configuraciones de bloques existentes de la aplicación Store Theme.  
+</div>
 
 Utilice la autonomía que tiene sobre el código y cree el escenario de *storefront* deseado que se adapte a las necesidades de su negocio aprovechando la facilidad de la interfaz intuitiva.
 
 1. En el Admin VTEX, acceda a **Storefront > Site Editor**.
 2. Utilice el campo URL en la parte superior para navegar a la página que muestra el bloque cuyo contenido desea sobrescribir. 
 
->ℹ️ Site Editor no le permite agregar un nuevo bloque a un <i>template</i> o a una página específica, solo puede sobrescribir las configuraciones de bloques existentes de la aplicación Store Theme.
+<div class="alert alert-info">
+Site Editor no le permite agregar un nuevo bloque a un <i>template</i> o a una página específica, solo puede sobrescribir las configuraciones de bloques existentes de la aplicación Store Theme.  
+</div>
 
 ## Crear contenido
 
 1. Seleccione el bloque para el que desea crear nuevo contenido. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site%20Editor/gestionar-contenido-de-paginas-y-templates_1.png)
+![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 
->ℹ️ El contenido que ve cuando hace clic en un bloque es el que está activo en ese momento. Para más información sobre **Versiones**, acceda [Gestión de versiones de contenido](https://help.vtex.com/es/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG) y [Programar actualizaciones de contenido](https://help.vtex.com/es/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns)
+<div class="alert alert-info">
+El contenido que ve cuando hace clic en un bloque es el que está activo en ese momento. Para más información sobre <b>Versiones</b>, acceda <a href="https://help.vtex.com/es/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG">Gestión de versiones de contenido</a> y <a href="https://help.vtex.com/es/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns">Programar actualizaciones de contenido</a>
+</div>
 
 3. Haga clic en el botón `Nuevo contenido`. 
 4. Realice los cambios deseados de acuerdo con las configuraciones disponibles para el bloque. 
 5. Define si el contenido debe activarse una vez guardado haciendo clic en la casilla de verificación `Activar ahora`. Es posible definir una fecha de inicio y una fecha final para el contenido si lo desea. Para definir las fechas, active los botones respectivos y elija la fecha adecuada en el calendario.
 
-  >⚠️ Después de que se marca la casilla esta URL, el contenido solo estará visible en la URL específica en la que guardó sus cambios. Por lo tanto, tenga cuidado con los parámetros y otros componentes de URL que puedan afectar la visualización del contenido: cuanto más específica sea su URL, más restringido estará el nuevo contenido.
+  <div class="alert alert-warning">
+Después de que se marca la casilla esta URL, el contenido solo estará visible en la URL específica en la que guardó sus cambios. Por lo tanto, tenga cuidado con los parámetros y otros componentes de URL que puedan afectar la visualización del contenido: cuanto más específica sea su URL, más restringido estará el nuevo contenido.   
+</div>
 
-  >ℹ️ Site Editor aplica la configuración de contenido según la jerarquía de parámetros. Puede reproducir contenido de forma nativa para todas las páginas al crear el contenido en el mismo parámetro primario. Considere una URL de categoría determinada, por ejemplo. Al crear contenido en ella, también se actualizarán las URL de todas las páginas de productos cuyo parámetro primario sea la categoría.
+  <div class="alert alert-info">
+Site Editor aplica la configuración de contenido según la jerarquía de parámetros. Puede reproducir contenido de forma nativa para todas las páginas al crear el contenido en el mismo parámetro primario. Considere una URL de categoría determinada, por ejemplo. Al crear contenido en ella, también se actualizarán las URL de todas las páginas de productos cuyo parámetro primario sea la categoría.  
+</div>
 
 6. Aún en la sección `Visibilidad`, indique si el contenido solo se creará en la URL a la que navegó inicialmente o en el *template* completo, incluida la URL en la que se encuentra y todas las demás. 
 7. Guarde los cambios.
@@ -51,24 +61,28 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 1. Seleccione el bloque cuyo contenido desea sobrescribir. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site%20Editor/gestionar-contenido-de-paginas-y-templates_2.png)
+![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. El contenido disponible corresponde al que está activo ahora. Modifique los campos con los nuevos valores o haga clic en `Versiones` para cambiar la configuración de otro contenido. 
 3. Guarde los cambios.
 
->⚠️ No puede actualizar la visibilidad del contenido que se derive del código fuente (de la aplicación Store Theme) en Site Editor. Independientemente de sus acciones, siempre se muestran por <i>template</i> y no por URL. Sin embargo, para contenido creado manualmente en Site Editor sí puede cambiar la visibilidad a URL o <i>template</i>, según sus necesidades.
+<div class="alert alert-warning">
+No puede actualizar la visibilidad del contenido que se derive del código fuente (de la aplicación Store Theme) en Site Editor. Independientemente de sus acciones, siempre se muestran por <i>template</i> y no por URL. Sin embargo, para contenido creado manualmente en Site Editor sí puede cambiar la visibilidad a URL o <i>template</i>, según sus necesidades. 
+</div>
 
 ## Eliminar y restablecer contenido
 
 1. Seleccione el bloque cuyo contenido desea eliminar o restablecer. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Site%20Editor/gestionar-contenido-de-paginas-y-templates_3.png)
+![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 3. Haga clic en el menú del contenido deseado (tres puntos verticales). 
 4. Haga clic en `Eliminar` o `Restaurar` y confirme su acción.
 
->⚠️ Las acciones `Eliminar` y `Restaurar` dependen del tipo de contenido. El contenido nativo, es decir, el contenido creado en el código fuente, no se puede eliminar a tráves del Admin, solo restaurar (si realizó alguna actualización). Solo puede eliminar contenido que haya creado manualmente a través del Site Editor.
+<div class="alert alert-warning">
+Las acciones <code>Eliminar</code> y <code>Restaurar</code> dependen del tipo de contenido. El contenido nativo, es decir, el contenido creado en el código fuente, no se puede eliminar a tráves del Admin, solo restaurar (si realizó alguna actualización). Solo puede eliminar contenido que haya creado manualmente a través del Site Editor.
+</div>
 
 ## Configurar contenido activo e inactivo
 
@@ -80,4 +94,6 @@ Tenga en cuenta que al hacer clic en el menú del contenido (tres puntos vertica
 
 La manera correcta de definir qué contenido debe estar activo e inactivo es eliminar o restaurar el contenido activo y dejar que el primer contenido de la fila inactiva se active. 
 
->ℹ️ La fila de contenido inactivo comienza del contenido más reciente hasta el más antiguo. Tenga en cuenta que el contenido creado a través de Site Editor siempre prevalece sobre lo que se definió en el código fuente.
+<div class="alert alert-info">
+La fila de contenido inactivo comienza del contenido más reciente hasta el más antiguo. Tenga en cuenta que el contenido creado a través de Site Editor siempre prevalece sobre lo que se definió en el código fuente.
+</div>

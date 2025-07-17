@@ -14,7 +14,7 @@ trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugPT: integracao-rappi
 ---
 
-Após fazer as conﬁgurações de conta na Rappi na VTEX e integrar o conector, é necessário categorizar e enviar as variações e [especiﬁcações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) para o marketplace. O envio dessas informações é feito por meio do menu **Mapeamento de categorias**.  
+Após fazer as conﬁgurações de conta na Rappi na VTEX e integrar o conector, é necessário categorizar e enviar as variações e [especiﬁcações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) para o marketplace. O envio dessas informações é feito por meio do menu **Mapeamento de categorias**.  
 
 Esta funcionalidade fará a correspondência entre as categorias, variações e atributos da sua loja e os padrões adotados pela Rappi, agilizando o processo de catalogação dos seus produtos no Marketplace, permitindo que estes ﬁquem disponíveis para venda em menos tempo.  
 
@@ -27,4 +27,6 @@ Para realizar o mapeamento de categorias, siga as instruções abaixo.
 5. Clique em **Mapeamento de Atributos** e faça as correspondências dos campos que aparecerão na tela.  
 6. Clique no botão `Salvar Alterações`. 
 
->ℹ️ Os campos de **Mapeamento de Atributos** com asterisco **(*)** são obrigatórios.
+<div class="alert alert-info">
+  Os campos de <b>Mapeamento de Atributos</b> com asterisco <b>(*)</b> são obrigatórios.  
+</div>

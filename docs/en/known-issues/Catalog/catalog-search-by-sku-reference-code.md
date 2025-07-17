@@ -1,5 +1,5 @@
 ---
-title: '[Catalog] search by sku reference code'
+title: "[Catalog] search by sku reference code"
 id: 34SWxPr14ftOKN1e1lb0WH
 status: PUBLISHED
 createdAt: 2024-08-16T20:17:18.920Z
@@ -30,7 +30,7 @@ Error when searching using "sku reference code"
 
 https://accountname.myvtex.com/admin/catalog-products
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-search-by-sku-reference-code_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/pT9cx5kqdq9pc3M5wtev7rrA9/?name=image.png)
 
 
 ##

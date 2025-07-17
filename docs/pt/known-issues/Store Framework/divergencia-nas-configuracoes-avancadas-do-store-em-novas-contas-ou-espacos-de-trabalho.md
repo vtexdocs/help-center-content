@@ -1,5 +1,5 @@
 ---
-title: 'Divergência nas configurações avançadas do Store em novas contas ou espaços de trabalho'
+title: "Divergência nas configurações avançadas do Store em novas contas ou espaços de trabalho"
 id: 1Jt8McqXjYAxfJNkBZHt4j
 status: PUBLISHED
 createdAt: 2024-07-11T18:16:01.106Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: divergence-on-the-advanced-store-settings-on-new-accounts-or-workspaces
+slugEN: divergencia-nas-configuracoes-avancadas-do-store-em-novas-contas-ou-espacos-de-trabalho
 locale: pt
 kiStatus: Backlog
 internalReference: 1064235
@@ -18,7 +18,9 @@ internalReference: 1064235
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em novos espaços de trabalho ou contas que nunca alteraram as configurações avançadas das Configurações da loja, é possível verificar uma inconsistência entre as informações na interface do usuário e o sinalizador aplicado à conta.

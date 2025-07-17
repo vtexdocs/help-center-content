@@ -3,8 +3,8 @@ title: 'Google Analytics: FAQ'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z
-updatedAt: 2024-10-17T15:04:11.365Z
-publishedAt: 2024-10-17T15:04:11.365Z
+updatedAt: 2024-12-18T02:45:12.661Z
+publishedAt: 2024-12-18T02:45:12.661Z
 firstPublishedAt: 2021-12-17T18:53:43.536Z
 contentType: tutorial
 productTeam: Others
@@ -19,7 +19,7 @@ Confira abaixo algumas das dúvidas mais frequentes acerca de Google Analytics p
 
 ## Como instalar o Google Analytics na sua loja?
 
-A instalação é feita através do [Google Tag Manager](https://help.vtex.com/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](https://help.vtex.com/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+A instalação é feita através do [Google Tag Manager](/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## De onde vêm os dados exibidos no Google Analytics? O que são tags do Google?
 
@@ -50,13 +50,15 @@ Como a VTEX é responsável por processar transações da sua loja, todas as tra
 - Tag de transação dispara mesmo com transações que não foram concluídas com sucesso.
 - Falha ou duplicidade na exibição da página de confirmação do pedido, caso a tag de transação esteja vinculada à exibição desta página.
 
->ℹ️ Considere também que há um atraso de até 48h no registro de dados de transações no Google Analytics.
+<div class = "alert alert-info">
+Considere também que há um atraso de até 48h no registro de dados de transações no Google Analytics.
+</div>
 
 Além disso, integrações podem ser construídas de modo que acabem não disparando certas tags na sua frente de loja. Por exemplo, há integrações que usam um [app de pagamento](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) e finalizam a compra sem direcionar o cliente à página de confirmação de pedido, como a integração desenvolvida pela AME Digital. Transações sempre serão registradas na VTEX, mas, nesse caso, é provável que não seja registrada no Google Analytics, gerando divergência.
 
 ### Atribuição de vendas
 
-É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](https://help.vtex.com/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
+É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
 
 As informações de UTM reconhecidas pela VTEX podem ser verificadas no painel de ferramentas de desenvolvedor do seu navegador, no objeto `marketingData` do [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). Saiba mais neste artigo sobre [UTMs de marketing no Checkout](https://developers.vtex.com/docs/guides/check-marketing-utms-used-at-checkout).
 
@@ -85,5 +87,10 @@ Já o Google Analytics disponibiliza um funil de vendas gerado automaticamente, 
 
 Por serem baseados em informações diferentes, essas visualizações de funil podem apresentar divergências.
 
-Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](https://help.vtex.com/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
+## O que é o funil de vendas do Google Analytics?
+
+As metas do **Google Analytics** servem para ajudar a avaliar se os objetivos de seu site estão sendo cumpridos. Esse artigo vai mostrar como configurar uma meta de conversão, conhecida como “Funil de Vendas”, no SmartCheckout. Para saber mais sobre metas acesse o tópico de conversão na ajuda do Google Analytics.
+
+Com o funil de vendas configurado, é possível acompanhar e analisar os passos do cliente até a finalização de um pedido. Para configurar o funil de vendas no SmartCheckout vamos levar em conta que o processo de compra se inicia na tela do seu produto e passa por carrinho de compras, checkout (dados pessoais, entrega e frete, pagamento) e chega até a meta que é a página de pedido confirmado.

@@ -15,7 +15,7 @@ legacySlug: cambiar-los-datos-de-seguimiento-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Al introducir los datos de seguimiento en la plataforma, los administradores de tiendas y los clientes pueden seguir las entregas de los pedidos. Para insertar o modificar los datos de seguimiento, los pedidos deben [haber sido ya facturados](https://help.vtex.com/es/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Al introducir los datos de seguimiento en la plataforma, los administradores de tiendas y los clientes pueden seguir las entregas de los pedidos. Para insertar o modificar los datos de seguimiento, los pedidos deben [haber sido ya facturados](/es/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
 
 Hay dos maneras de introducir los datos de seguimiento del pedido:
 
@@ -38,4 +38,4 @@ Para cambiar los datos de un pedido manualmente, sigue los pasos a continuación
     * **Seleccionar transportadora: **selecciona la transportadora que realizará la entrega.
 7. Haz clic en `Guardar`.
 
-![FaturaES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/cambiar-los-datos-de-seguimiento_1.png)
+![FaturaES](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)

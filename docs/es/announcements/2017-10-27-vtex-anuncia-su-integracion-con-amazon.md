@@ -17,6 +17,8 @@ announcementSynopsisES: 'Ahora nuestros clientes ya pueden conectarse con una de
 
 VTEX anuncia su nueva integración con Amazon. Ahora nuestros clientes ya pueden conectarse con uno de los mayores minoristas del mundo. La integración es nativa, puede ser acompañada y configurada por el módulo Bridge y funciona de manera similar a la de los otros marketplaces nativos de VTEX.
 
-En un primer momento, la integración estará disponible para las categorías Electrónicos, Libros y Games. Para saber más detalles sobre la integración, vea nuestro [tutorial](https://help.vtex.com/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP "tutorial").
+En un primer momento, la integración estará disponible para las categorías Electrónicos, Libros y Games. Para saber más detalles sobre la integración, vea nuestro [tutorial](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP "tutorial").
 
->⚠️ Esta integración está disponible para Brasil y los Estados Unidos
+<div class="alert alert-warning">
+Esta integración está disponible para Brasil y los Estados Unidos
+</div>

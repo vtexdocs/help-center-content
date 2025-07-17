@@ -15,4 +15,6 @@ announcementImageID: ''
 announcementSynopsisEN: 'This announcement refers to terms used only in Portuguese and Spanish. Read it in those languages to find out more.'
 ---
 
->ℹ️ This change refers to terms used only in Portuguese and Spanish. Read this announcement in Portuguese or Spanish to find out more.
+<div class="alert alert-info">
+<p>This change refers to terms used only in Portuguese and Spanish. Read this announcement in Portuguese or Spanish to find out more.</p>
+</div>

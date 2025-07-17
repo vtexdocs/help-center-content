@@ -1,5 +1,5 @@
 ---
-title: 'Matcher does not work as expected when the Product/SKU name contains special characters'
+title: "Matcher does not work as expected when the Product/SKU name contains special characters"
 id: 1kRjFExdSRMAJMgFgC7Bbj
 status: PUBLISHED
 createdAt: 2023-10-19T15:37:17.652Z

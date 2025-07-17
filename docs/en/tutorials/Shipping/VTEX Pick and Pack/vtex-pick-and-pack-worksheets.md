@@ -15,7 +15,9 @@ legacySlug: vtex-pick-and-pack-worksheets
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
+<div class = "alert alert-info">
+This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our <a href="https://vtex.com/us-en/contact/">form</a> apontaby entering the product name in the <code>Comments</code> field.
+</div>
 
 **Worksheets** is a VTEX Admin page to manage the worksheets used by pickers to group and pick the order items in real time. Pickers can group as many orders as they like in each worksheet.
 
@@ -25,11 +27,11 @@ This page allows you to:
 * [Search for worksheets](#search-for-worksheets)
 * [Filter worksheets](#filter-worksheets)
 
-![pick-pack-ordem-servico-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-worksheets_1.png)
+![pick-pack-ordem-servico-en](https://images.ctfassets.net/alneenqid6w5/6mHohZLRFdkoTlltboN2pm/f2df0910a4b7c2b1be73553b20394536/image.png)
 
 Orders are displayed in cards with the following information:
 
-![pick-pack-ordem-servico-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-worksheets_2.png)
+![pick-pack-ordem-servico-2-en](https://images.ctfassets.net/alneenqid6w5/2LZZpv41eVop7ajXNrkfC4/d0d6b35257db31e3b166b8a30edd83ed/image.png)
 
 * Worksheet ID.
 * Number of orders in the worksheet.
@@ -47,7 +49,7 @@ You can create a new worksheet by following the steps below:
 3. Click the **Manual** tab to create the worksheet manually.
 4. Click the `+` icon to create a worksheet. You can create more than one worksheet.
 5. Drag the orders you want to add to the worksheet.
-  ![pick-pack-ordem-servico-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-worksheets_3.png)
+  ![pick-pack-ordem-servico-3-en](https://images.ctfassets.net/alneenqid6w5/1xxnRTbuVnfvto7Q8czn8i/e0acc7025f39b107b668caca52555544/image.png)
 6. Click `Create`.
 
 ## Viewing worksheets
@@ -62,7 +64,7 @@ You can optimize the worksheet query from the following tabs:
 
 You can also view more worksheet details by clicking the <i class="fas fa-chevron-down"></i> button on the card.
 
-![pick-pack-ordem-servico-4-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-worksheets_4.png)
+![pick-pack-ordem-servico-4-en](https://images.ctfassets.net/alneenqid6w5/1sQ1kwEN7xnPeL7Kb9rPIq/bdf69bd28c64d9ff9e855c08d9e26645/image.png)
 
 ## Searching for a worksheet
 

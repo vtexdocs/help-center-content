@@ -27,10 +27,10 @@ Google Pay is a digital wallet platform and online payment system developed by G
 
 Now, you can add Google Pay as a payment method to your store, giving customers a faster and more convenient checkout process.
 
-![google-pay-checkout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-06-20-google-pay-new-payment-method-available-on-vtex_1.png)
+![google-pay-checkout-en](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/b0a0e3b391668b1fcf2df8d3dc33a3f7/image.png)
 
 ## What needs to be done?
 
 First, read the [Google Pay and Wallet APIs Acceptable Use Policy](https://payments.developers.google.com/terms/aup) to check the types of products and services that cannot be used with Google Pay.
 
-To enable Google Pay as a payment method in your store, follow our [Google Pay](https://help.vtex.com/en/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT) article.
+To enable Google Pay as a payment method in your store, follow our [Google Pay](/en/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT) article.

@@ -1,5 +1,5 @@
 ---
-title: 'La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)'
+title: "La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)"
 id: 5gsBLbPMIZjZvkl5QHudVY
 status: PUBLISHED
 createdAt: 2022-03-30T20:10:30.205Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero
+slugEN: la-simulacion-logistica-con-el-precio-minimo-y-maximo-en-la-politica-de-envio-no-funciona-cuando-productprice-es-0-cero
 locale: es
 kiStatus: No Fix
 internalReference: 553080
@@ -18,7 +18,9 @@ internalReference: 553080
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

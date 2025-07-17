@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário do formulário de imposto não está exibindo o menu suspenso de tags de marketing'
+title: "A interface do usuário do formulário de imposto não está exibindo o menu suspenso de tags de marketing"
 id: Xqg6yYfOvVtP0TwZ2RIAk
 status: PUBLISHED
 createdAt: 2024-07-01T13:33:50.657Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: tax-form-ui-is-not-displayng-marketing-tags-dropdown
+slugEN: a-interface-do-usuario-do-formulario-de-imposto-nao-esta-exibindo-o-menu-suspenso-de-tags-de-marketing
 locale: pt
 kiStatus: Backlog
 internalReference: 1058148
@@ -18,7 +18,9 @@ internalReference: 1058148
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao salvar impostos no módulo de promoções, o valor do menu suspenso para "pelo menos um dos seguintes" ou "todos os seguintes" não é mostrado depois que o imposto é salvo. Consequentemente, o usuário não consegue descobrir qual deles está sendo usado.

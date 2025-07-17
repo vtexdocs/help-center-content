@@ -1,5 +1,5 @@
 ---
-title: 'Scheduled automatic capture does not appear.'
+title: "Scheduled automatic capture does not appear."
 id: 1cuvGbgUvd1ATeHEG6Il98
 status: PUBLISHED
 createdAt: 2024-10-22T19:54:53.978Z

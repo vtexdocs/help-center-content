@@ -1,5 +1,5 @@
 ---
-title: 'Especificación de producto/SKU duplicada al cambiar árbol de categorías o producto de categoría'
+title: "Especificación de producto/SKU duplicada al cambiar árbol de categorías o producto de categoría"
 id: 2qMpMAh6B6oGk2gEq2swCY
 status: PUBLISHED
 createdAt: 2018-04-25T21:16:08.636Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: productsku-duplicate-specification-when-changing-category-tree-or-product-category
+slugEN: especificacion-de-productosku-duplicada-al-cambiar-arbol-de-categorias-o-producto-de-categoria
 locale: es
 kiStatus: Backlog
 internalReference: 

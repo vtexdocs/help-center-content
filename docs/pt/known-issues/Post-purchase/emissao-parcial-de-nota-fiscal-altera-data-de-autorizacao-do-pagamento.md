@@ -1,5 +1,5 @@
 ---
-title: 'Emissão parcial de Nota Fiscal altera data de autorização do pagamento'
+title: "Emissão parcial de Nota Fiscal altera data de autorização do pagamento"
 id: 3kjzXJNFj2miIeIMAW6uW2
 status: PUBLISHED
 createdAt: 2017-04-06T17:10:46.252Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 tag: Order Management
-slugEN: partial-issue-of-invoice-changes-date-of-payment-authorization
+slugEN: emissao-parcial-de-nota-fiscal-altera-data-de-autorizacao-do-pagamento
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'Los pagarés extra no contemplan el margen de cambio para la venta al alza'
+title: "Los pagarés extra no contemplan el margen de cambio para la venta al alza"
 id: 4PwQpQ07NHthtUyfJibNmV
 status: PUBLISHED
 createdAt: 2022-02-16T17:44:28.486Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: extra-promissory-notes-do-not-consider-change-margin-for-upselling
+slugEN: los-pagares-extra-no-contemplan-el-margen-de-cambio-para-la-venta-al-alza
 locale: es
 kiStatus: Fixed
 internalReference: 525987
@@ -18,7 +18,9 @@ internalReference: 525987
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El valor máximo para la venta adicional sólo se calcula para los pagarés por defecto, cuando se añaden otros adicionales, nuestra pasarela no considera el campo de rango de margen cambiante en el cálculo

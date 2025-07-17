@@ -15,7 +15,7 @@ legacySlug: creating-merchandising-rules-visual-editor
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using [Visual Editor](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
+To configure a VTEX Intelligent Search [merchandising rule](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using [Visual Editor](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
 
 1.	In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
 2.	Under **Intelligent Search**, click **Merchandising Rules**.
@@ -25,13 +25,13 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
 	* **Rule name**: Merchandising rule name. Example: Promote product A when searching for a chocolate cookie.
 	* **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
 	* **End date (optional)**: Set a date when the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
-5.	Click **Visual Editor**. Read the [Types of editing](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) section for more information about each editor.
+	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5.	Click **Visual Editor**. Read the [Types of editing](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) section for more information about each editor.
 6.	Click `Next`.
 7.	Define at least one search term or filter for applying the merchandising rule:
 
 	* To define a search term, type the term in the search bar (item **II** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section).
-	* To create a filter for applying the merchandising rule (item **III** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section), follow the steps described in the[ Adding filters and conditions](https://help.vtex.com/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes) section.
+	* To create a filter for applying the merchandising rule (item **III** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section), follow the steps described in the[ Adding filters and conditions](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes) section.
 8.	You can also perform the following additional actions to customize the search results.
 
 	* Define the number of items per row in the search results.
@@ -39,18 +39,20 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
 	* Hide products in the search results.
 	* Pin products to the top positions of the search results.
 	* Drag the pinned product to the desired position in the search results.
-	* Edit the initial settings of the merchandising rule, including the rule name, start and end dates, and the locales to which it will be applied if the store uses the[ Multilanguage settings (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+	* Edit the initial settings of the merchandising rule, including the rule name, start and end dates, and the locales to which it will be applied if the store uses the[ Multilanguage settings (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.
 
->ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
+<div class="alert alert-info">
+  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
+</div>
 
 ## Actions available in the Visual Editor
 
 The Visual Editor for merchandising rules in VTEX Intelligent Search allows you to perform the actions shown in the image below:
 
-![visual-merch-rules-EN-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Relevance/creating-merchandising-rules-visual-editor_1.png)
+![visual-merch-rules-EN-v2](https://images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/2f765817f537bc8477b0d6fddfb171b8/visual-merch-rules-EN-v2.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>
@@ -89,7 +91,7 @@ To add a condition using the Visual Editor, follow the steps below.
 
 1. Click `Filter`.
 2. Click `+ Add condition`.
-3. Fill in the desired conditions. The available options are detailed in [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+3. Fill in the desired conditions. The available options are detailed in [Merchandising rule conditions](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 4. Click `Save`.
 
 The defined conditions can work together (`and`) or alternatively (`or`).

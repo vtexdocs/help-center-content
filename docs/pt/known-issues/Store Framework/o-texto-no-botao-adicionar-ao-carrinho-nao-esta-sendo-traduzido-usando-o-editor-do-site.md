@@ -1,5 +1,5 @@
 ---
-title: 'O texto no botão Adicionar ao carrinho não está sendo traduzido usando o editor do site'
+title: "O texto no botão Adicionar ao carrinho não está sendo traduzido usando o editor do site"
 id: 7rA62h80a1LpDWjgd3SImp
 status: PUBLISHED
 createdAt: 2024-05-02T17:33:41.019Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: text-in-add-to-cart-button-are-not-being-translated-using-site-editor
+slugEN: o-texto-no-botao-adicionar-ao-carrinho-nao-esta-sendo-traduzido-usando-o-editor-do-site
 locale: pt
 kiStatus: Backlog
 internalReference: 1026103
@@ -18,7 +18,9 @@ internalReference: 1026103
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar traduzir um texto usando o editor do site para o botão Adicionar ao carrinho, as alterações não são aplicadas na frente da loja.

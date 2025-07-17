@@ -1,5 +1,5 @@
 ---
-title: 'O Sitemap não está sendo gerado/atualizado'
+title: "O Sitemap não está sendo gerado/atualizado"
 id: 1tJ4XHtbnFsfS30JWXwxb0
 status: PUBLISHED
 createdAt: 2023-05-17T13:58:46.443Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sitemap-isnt-being-generatedupdated
+slugEN: o-sitemap-nao-esta-sendo-geradoatualizado
 locale: pt
 kiStatus: Fixed
 internalReference: 827104
@@ -18,7 +18,9 @@ internalReference: 827104
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

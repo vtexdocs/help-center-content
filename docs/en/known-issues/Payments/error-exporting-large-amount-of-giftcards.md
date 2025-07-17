@@ -1,11 +1,11 @@
 ---
-title: 'Error exporting large amount of Giftcards'
-id: 2EZ9XmZwYmcWdRxKbTNEBJ
-status: ARCHIVED
-createdAt: 2022-03-27T12:37:51.512Z
-updatedAt: 2023-07-03T17:14:32.962Z
-publishedAt: 
-firstPublishedAt: 2022-03-27T12:37:52.279Z
+title: "Error exporting large amount of Giftcards"
+id: 3EgSlsMNM12eN5wKAyAFf3
+status: PUBLISHED
+createdAt: 2023-07-03T14:31:25.330Z
+updatedAt: 2023-07-03T17:14:51.703Z
+publishedAt: 2023-07-03T17:14:51.703Z
+firstPublishedAt: 2023-07-03T17:14:51.703Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,29 +13,18 @@ tag: Payments
 slugEN: error-exporting-large-amount-of-giftcards
 locale: en
 kiStatus: Backlog
-internalReference: 550658
+internalReference: 288436
 ---
 
 ## Summary
 
 
-Timeout error when trying to export a large amount of gift cards, even if the query period is short.
+The Giftcard System doesn't allow to export giftcards during a period which contains more than 50000 entries.
 
 
+##
 
 ## Simulation
-
-
-N/A
-
-
-
-## Workaround
-
-
-N/A
-
-lation
 
 
 Try to make the export process with more than 50000 giftcards.

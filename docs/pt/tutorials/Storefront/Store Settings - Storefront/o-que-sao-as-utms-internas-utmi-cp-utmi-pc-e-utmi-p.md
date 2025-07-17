@@ -39,5 +39,5 @@ Eles ficam dentro do nó `marketingData`.
 
 ### Artigos relacionados
 
-- [O que são utm_source, utm_campaign e utm_medium](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
-- [Criar cupom](https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
+- [O que são utm_source, utm_campaign e utm_medium](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
+- [Criar cupom](/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)

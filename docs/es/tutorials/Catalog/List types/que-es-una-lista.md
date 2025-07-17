@@ -3,8 +3,8 @@ title: 'Qué es una Lista?'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED
 createdAt: 2018-01-25T21:44:19.327Z
-updatedAt: 2019-12-31T15:23:19.010Z
-publishedAt: 2019-12-31T15:23:19.010Z
+updatedAt: 2025-05-15T18:01:07.892Z
+publishedAt: 2025-05-15T18:01:07.892Z
 firstPublishedAt: 2018-01-25T21:46:11.893Z
 contentType: tutorial
 productTeam: Others
@@ -14,6 +14,10 @@ locale: es
 legacySlug: que-es-una-lista
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>La funcionalidad <b>Lista</b> es exclusiva para las tiendas que utilizan CMS Portal Legado.</p>
+</div>
 
 Listas son agrupaciones de productos que usted puede ofrecer en su tienda para sus clientes. Estas listas pueden ser de diversos tipos y estar asociadas a eventos como boda, despeida de soltera, cumpleaños o cualquier otro tipo de lista que el consumidor desee crear.
 

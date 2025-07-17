@@ -1,5 +1,5 @@
 ---
-title: 'Ao selecionar o SKU as prateleiras complementares não são atualizadas'
+title: "Ao selecionar o SKU as prateleiras complementares não são atualizadas"
 id: VTJ27UixWu8kuoiQ8G8O2
 status: PUBLISHED
 createdAt: 2017-08-18T19:33:30.804Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: when-selecting-the-sku-the-complementary-shelves-are-not-updated
+slugEN: ao-selecionar-o-sku-as-prateleiras-complementares-nao-sao-atualizadas
 locale: pt
 kiStatus: Backlog
 internalReference: 

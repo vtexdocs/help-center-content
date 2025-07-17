@@ -1,5 +1,5 @@
 ---
-title: 'Mis suscripciones Al introducir la dirección de la línea 2 ésta aparece como nula'
+title: "Mis suscripciones Al introducir la dirección de la línea 2 ésta aparece como nula"
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: my-subscriptions-when-entering-the-address-line-2-this-appear-as-null
+slugEN: mis-suscripciones-al-introducir-la-direccion-de-la-linea-2-esta-aparece-como-nula
 locale: es
 kiStatus: No Fix
 internalReference: 588046
@@ -18,7 +18,9 @@ internalReference: 588046
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

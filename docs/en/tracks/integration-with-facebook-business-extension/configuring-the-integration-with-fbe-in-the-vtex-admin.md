@@ -22,21 +22,25 @@ To start configuring the integration, please follow the steps below:
 2. By default, the fields related to **region and currency** and the **URL** of your VTEX store will be filled in. Check the information and, if necessary, make changes.
 3. Unless you have a custom Facebook Pixel implementation, keep the option_ Enable Pixel configuration_ enabled.
 
-  >ℹ️ Regardless of whether you have installed the <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">Facebook Pixel app</a>, the recommendation is that the **Enable Pixel configuration** option remains enabled. The exception is when you already use the Google Tag Manager. More information on <a href= "https://help.vtex.com/en/tracks/integration-with-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#facebook-pixel">Facebook Pixel</a>.
+  <div class = "alert alert-info">
+Regardless of whether you have installed the <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">Facebook Pixel app</a>, the recommendation is that the <b>Enable Pixel configuration</b> option remains enabled. The exception is when you already use the Google Tag Manager. More information on <a href= "https://help.vtex.com/en/tracks/integration-with-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#facebook-pixel">Facebook Pixel</a>.
+</div>
 
 4. Click on `CONTINUE WITH FACEBOOK`.
-5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
+5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
 6. Grant the necessary permissions for the integration by clicking `Continue`.
 7. Determine which settings will be used in the integration.
 8. Click on `Continue`.
 9. Choose which permissions must be granted to VTEX for the integration.
 
-  >❗ For the integration to work properly, we recommended that you grant all the permissions shown. By default, they are set as enabled.
+  <div class="alert alert-danger">
+For the integration to work properly, we recommended that you grant all the permissions shown. By default, they are set as enabled.
+</div>
 
 10. Click on `Next`.
 11. In the pop-up window, a confirmation that the integration has been configured will be displayed. Click on `Done`.
 
-![gif en v1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/integration-with-facebook-business-extension/configuring-the-integration-with-fbe-in-the-vtex-admin_1.gif)
+![gif en v1](https://images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
 
 ## Sending product information to Facebook Business Extension
 

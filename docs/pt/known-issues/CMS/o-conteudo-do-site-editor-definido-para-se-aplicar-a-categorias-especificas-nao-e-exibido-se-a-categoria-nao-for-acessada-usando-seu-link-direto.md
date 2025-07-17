@@ -1,5 +1,5 @@
 ---
-title: 'O conteúdo do Site Editor definido para se aplicar a categorias específicas não é exibido se a categoria não for acessada usando seu link direto'
+title: "O conteúdo do Site Editor definido para se aplicar a categorias específicas não é exibido se a categoria não for acessada usando seu link direto"
 id: 54uBX6xmhz8R2dm4LOEKJ7
 status: PUBLISHED
 createdAt: 2022-03-16T19:04:43.255Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-content-set-to-apply-to-specific-categories-isnt-displayed-if-the-category-is-not-accessed-using-its-direct-link
+slugEN: o-conteudo-do-site-editor-definido-para-se-aplicar-a-categorias-especificas-nao-e-exibido-se-a-categoria-nao-for-acessada-usando-seu-link-direto
 locale: pt
 kiStatus: Backlog
 internalReference: 371994
@@ -18,7 +18,9 @@ internalReference: 371994
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

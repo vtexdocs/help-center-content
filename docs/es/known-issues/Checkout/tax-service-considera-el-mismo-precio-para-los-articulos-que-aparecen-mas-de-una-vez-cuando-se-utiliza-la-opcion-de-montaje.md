@@ -1,5 +1,5 @@
 ---
-title: 'Tax Service considera el mismo precio para los artículos que aparecen más de una vez cuando se utiliza la opción de montaje'
+title: "Tax Service considera el mismo precio para los artículos que aparecen más de una vez cuando se utiliza la opción de montaje"
 id: 62a1S9SZmGsY58BcV6D58C
 status: PUBLISHED
 createdAt: 2023-09-25T13:27:15.638Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-service-consider-the-same-price-for-items-that-appear-more-than-once-when-using-assembly-option
+slugEN: tax-service-considera-el-mismo-precio-para-los-articulos-que-aparecen-mas-de-una-vez-cuando-se-utiliza-la-opcion-de-montaje
 locale: es
 kiStatus: Fixed
 internalReference: 906518
@@ -18,7 +18,9 @@ internalReference: 906518
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utilizan Opciones de Montaje, si el artículo se añade de nuevo al carrito, aparecerá dos veces y el Servicio de Impuestos considerará sólo el precio para ese artículo que está primero en el carrito, causando valores de divergencia de impuestos al realizar un pedido.

@@ -1,5 +1,5 @@
 ---
-title: 'La API de actualización de los valores de la carga tarda en reflejarse en el módulo de simulación'
+title: "La API de actualización de los valores de la carga tarda en reflejarse en el módulo de simulación"
 id: 7Gclw70xDYX34fOah2aWAa
 status: PUBLISHED
 createdAt: 2022-07-26T17:47:10.996Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: freight-values-update-api-taking-time-to-reflect-on-simulation-module
+slugEN: la-api-de-actualizacion-de-los-valores-de-la-carga-tarda-en-reflejarse-en-el-modulo-de-simulacion
 locale: es
 kiStatus: Backlog
 internalReference: 621230
@@ -18,7 +18,9 @@ internalReference: 621230
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las actualizaciones del valor del flete están tardando más de 1 día en reflejarse en la simulación de envío cuando la actualización se solicitó mediante el método POST de la API. Este problema es intermitente, normalmente la actualización tarda sólo unos minutos.

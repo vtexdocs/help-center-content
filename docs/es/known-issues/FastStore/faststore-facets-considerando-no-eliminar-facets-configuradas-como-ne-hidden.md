@@ -1,5 +1,5 @@
 ---
-title: 'Faststore facets considerando no eliminar facets configuradas como ne hidden'
+title: "Faststore facets considerando no eliminar facets configuradas como ne hidden"
 id: 4EElvOEvMzcu52fhNOVJGM
 status: PUBLISHED
 createdAt: 2024-05-08T18:35:17.015Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: faststore-facets-considering-not-removing-facets-set-to-ne-hidden
+slugEN: faststore-facets-considerando-no-eliminar-facets-configuradas-como-ne-hidden
 locale: es
 kiStatus: Backlog
 internalReference: 1029837
@@ -18,7 +18,9 @@ internalReference: 1029837
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

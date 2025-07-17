@@ -1,5 +1,5 @@
 ---
-title: 'Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el Bridge'
+title: "Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el Bridge"
 id: 6d2vJzRspfk1xzPAqUKoua
 status: PUBLISHED
 createdAt: 2022-06-23T14:29:39.598Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: sku-inactive-updates-on-b2w-but-doesnt-log-correct-message-on-bridge
+slugEN: sku-inactivo-se-actualiza-en-b2w-pero-no-registra-el-mensaje-correcto-en-el-bridge
 locale: es
 kiStatus: Backlog
 internalReference: 603761
@@ -18,7 +18,9 @@ internalReference: 603761
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el puente
@@ -32,7 +34,7 @@ Sku estaba inactivo en el Catálogo VTEX > Se está inactivando correctamente en
 
 Importante: el Sku está inactivo en el Marketplace, sólo el mensaje del puente es incorrecto.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/sku-inactivo-se-actualiza-en-b2w-pero-no-registra-el-mensaje-correcto-en-el-bridge_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7RAx5JXjSWAtCfh7HJ27LOZOW/?name=image.png)
 
 
 

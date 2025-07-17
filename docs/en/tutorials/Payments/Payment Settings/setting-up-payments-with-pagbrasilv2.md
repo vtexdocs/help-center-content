@@ -33,8 +33,8 @@ To configure PagBrasilV2, follow the steps below:
 12. In __Do you have an anti-fraud agent hired with this affiliation?__, indicate whether you want to use an anti-fraud agent.
 13. Click __Save__.
 
-To configure the payment methods to be processed by PagBrasilV2, access [Configuring payment vonditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by PagBrasilV2, access [Configuring payment vonditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, PagBrasilV2 may take up to 10 minutes to appear at your store's checkout as a payment option.

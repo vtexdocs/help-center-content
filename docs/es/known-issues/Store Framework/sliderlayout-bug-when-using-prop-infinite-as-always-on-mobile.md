@@ -1,5 +1,5 @@
 ---
-title: 'Slider-layout bug when using prop infinite as always on mobile'
+title: "Slider-layout bug when using prop infinite as always on mobile"
 id: 4JERnak05tr2K8ICjjPjrN
 status: PUBLISHED
 createdAt: 2023-10-17T17:38:34.443Z
@@ -18,7 +18,9 @@ internalReference: 920725
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el slider-layout está configurado como `infinite: "always"` en el móvil el componente presenta un bug intermitente. Después de un rato desplazando la estantería los productos dejarán de aparecer y en su lugar aparecerá un espacio en blanco.

@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisPT: 'A nova funcionalidade facilita a identificação de pedidos com divergência no preço e permite sua loja recuperar vendas.'
 ---
 
->⚠️ Desde que este anúncio foi publicado, deixou de ser necessário entrar em contato com o suporte da VTEX para integrar pedidos com divergência de preço. Você **não** precisa mais abrir um ticket para usar essa feature. Basta, em vez disso, acessar a feature pelo Admin, em **Gerenciamento de pedidos** > **Autorização de pedidos**.
+<div class ="alert alert-warning">
+Desde que este anúncio foi publicado, deixou de ser necessário entrar em contato com o suporte da VTEX para integrar pedidos com divergência de preço. Você <strong>não</strong> precisa mais abrir um ticket para usar essa feature. Basta, em vez disso, acessar a feature pelo Admin, em <b>Gerenciamento de pedidos</b> > <b>Autorização de pedidos</b>.
+</div>
 
 Agora, você tem a opção de integrar aqueles pedidos que vêm do marketplace com alguma divergência no preço. Para isso, introduzimos o novo status `waiting-for-manual-authorization` no fluxo de pedido que permite a integração manual nesses casos. 
 
@@ -33,4 +35,6 @@ Se sua loja possui __integração externa com marketplaces__ (e você deseja usa
 
 Se a sua loja possui __integração com marketplaces certificados__ (usando o Bridge), a flag será acionada automaticamente. Você só vai precisar cumprir as etapas descritas nos passos `2`e `3`.
 
->ℹ️ Lembre-se de que as integrações de pedido devem ser feitas usando as seguintes APIs [Get Order](https://developers.vtex.com/reference/orders#getorder) e [Get Feed Order Status](https://developers.vtex.com/reference/feed-v2-deprecated#getfeedorderstatus).
+<div class="alert alert-info">
+Lembre-se de que as integrações de pedido devem ser feitas usando as seguintes APIs <a href="https://developers.vtex.com/reference/orders#getorder">Get Order</a> e <a href="https://developers.vtex.com/reference/feed-v2-deprecated#getfeedorderstatus">Get Feed Order Status</a>.
+</div>

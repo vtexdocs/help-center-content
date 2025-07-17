@@ -1,5 +1,5 @@
 ---
-title: 'Erro na Lista de Presentes - Endereço Incompleto'
+title: "Erro na Lista de Presentes - Endereço Incompleto"
 id: 4iwradK1HCvDdbqd3tvn4N
 status: PUBLISHED
 createdAt: 2022-01-23T02:50:33.725Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: gift-list-error-incomplete-address
+slugEN: erro-na-lista-de-presentes-endereco-incompleto
 locale: pt
 kiStatus: Backlog
 internalReference: 313576
@@ -18,7 +18,9 @@ internalReference: 313576
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas Listas de Presentes são mostradas em vermelho com a mensagem "endereço incompleto". Ao clicar na URL da lista de presentes, eles a redirecionam para a seguinte mensagem de erro: `.myvtex.com/giftlist?GiftListAddressFail_ID``.

@@ -1,5 +1,5 @@
 ---
-title: 'My Orders layout breaking without customization'
+title: "My Orders layout breaking without customization"
 id: 6o2E1VOSaW2Yso0Cg0uU8Q
 status: PUBLISHED
 createdAt: 2017-05-26T15:03:53.391Z
@@ -25,7 +25,7 @@ internalReference:
 
 ---
 
-![Screen Shot 2017-05-26 at 12.01.58](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Post-purchase/my-orders-layout-breaking-without-customization_1.png)
+![Screen Shot 2017-05-26 at 12.01.58](//images.contentful.com/alneenqid6w5/qUqOq8ZyGOCAAoiUM0600/66a6bf0fa60bbd65fa9abd1ca7c825ae/Screen_Shot_2017-05-26_at_12.01.58.png)
 
 If the layout of the new My Orders presents problems in your store _out of the box_, without any customization, it may be that your store's CSS is interfering with it.
 

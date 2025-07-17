@@ -15,7 +15,7 @@ legacySlug: como-desabilitar-um-e-mail-transacional
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-Na VTEX, o usuário tem a possibilidade de automatizar o disparo de emails para seus clientes no módulo [Central de Mensagens](https://help.vtex.com/pt/tutorial/conhecendo-o-message-center "Central de Mensagens"). Já existem alguns templates pré-configurados na plataforma em que, alguns, podem ser customizados de acordo as preferências do cliente.
+Na VTEX, o usuário tem a possibilidade de automatizar o disparo de emails para seus clientes no módulo [Central de Mensagens](/pt/tutorial/conhecendo-o-message-center "Central de Mensagens"). Já existem alguns templates pré-configurados na plataforma em que, alguns, podem ser customizados de acordo as preferências do cliente.
 
 Contudo, essa funcionalidade não é obrigatória. É possível desabilitar o envio dessas mensagens caso não seja vantajoso para a loja. 
 
@@ -27,7 +27,7 @@ Confira o passo a passo a seguir:
 2. Pesquise por __Payment Pending__ na caixa de busca.
 3. Desmarque a opção __Ativar o envio de e-mails?__.
 
-![Message Center - Desativar Template - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Message%20center/Templates/como-desabilitar-um-e-mail-transacional_1.png)
+![Message Center - Desativar Template - PT](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/fa7cbe1e7c4aa18475066a865bf95583/payment_pending_pt.png)
 
 4. Clique em `Salvar`.
 

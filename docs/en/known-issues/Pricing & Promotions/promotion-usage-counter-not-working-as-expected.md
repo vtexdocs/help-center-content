@@ -1,5 +1,5 @@
 ---
-title: 'Promotion usage counter not working as expected'
+title: "Promotion usage counter not working as expected"
 id: 7iamjGsN4PuODQ359OsopW
 status: PUBLISHED
 createdAt: 2024-09-02T13:01:22.361Z

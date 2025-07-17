@@ -35,7 +35,9 @@ Veja as configurações disponíveis a seguir:
 
 - **Sobrescrever preços de sellers:** permite sobrescrever todos os preços de sellers com os da conta atual.
 
-  >ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.
+  <div class = "alert alert-info">
+    <p>A configuração <b>Sobrescrever preços de sellers</b> não é disponível para sellers white label.</p>
+  </div>
 
 ## Consultar a Conta-Pai associada
 Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{AccountName}` pelo nome da conta-filha que deseja consultar:

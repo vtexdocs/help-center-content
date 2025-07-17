@@ -1,5 +1,5 @@
 ---
-title: 'In some cases where there is a discount on the order, we have a discrepancy in the total value of the Items to invoice field in the order UI.'
+title: "In some cases where there is a discount on the order, we have a discrepancy in the total value of the Items to invoice field in the order UI."
 id: 20xiOKxpvdCODmDJDKunST
 status: PUBLISHED
 createdAt: 2024-05-06T20:17:01.162Z

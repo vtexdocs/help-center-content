@@ -1,5 +1,5 @@
 ---
-title: 'Igualador que convierte Altura, Anchura, Peso y Longitud a 0,1'
+title: "Igualador que convierte Altura, Anchura, Peso y Longitud a 0,1"
 id: j3rz875eWVHFMLYxcYsDL
 status: PUBLISHED
 createdAt: 2023-08-23T13:38:55.976Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: matcher-converting-height-width-weight-and-length-to-01
+slugEN: igualador-que-convierte-altura-anchura-peso-y-longitud-a-01
 locale: es
 kiStatus: Fixed
 internalReference: 886168
@@ -18,7 +18,9 @@ internalReference: 886168
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el Matcher procesa los skus en el módulo de sugerencias del marketplace las infos de Altura, Anchura, Peso y Longitud se están poniendo a 0.1 en lugar de respetar los valores enviados por el vendedor.
@@ -34,7 +36,7 @@ Cuando el Matcher procesa los skus en el módulo de sugerencias del marketplace 
 2. El sku llega al marketplace y es procesado por el matcher;
 3. Compruebe en la siguiente API si el objeto Matcher tiene los campos Height, Width, Weight y Length configurados como 0.1
 https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#get-/suggestions/-sellerId-/-sellerSkuId-
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/igualador-que-convierte-altura-anchura-peso-y-longitud-a-01_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/vCdMBFKEJ0243C9Ew7PPFDgp3/?name=image.png)
 
 
 ##

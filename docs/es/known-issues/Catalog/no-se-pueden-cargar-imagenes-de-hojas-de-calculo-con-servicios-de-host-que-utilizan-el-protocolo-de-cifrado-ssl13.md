@@ -1,5 +1,5 @@
 ---
-title: 'No se pueden cargar imágenes de hojas de cálculo con servicios de host que utilizan el protocolo de cifrado SSL1.3'
+title: "No se pueden cargar imágenes de hojas de cálculo con servicios de host que utilizan el protocolo de cifrado SSL1.3"
 id: sqoXJSms7bhmdNe0Id111
 status: PUBLISHED
 createdAt: 2023-06-28T12:23:54.884Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: unable-to-upload-spreadsheet-images-with-host-services-using-protocol-encryption-protocol-ssl13
+slugEN: no-se-pueden-cargar-imagenes-de-hojas-de-calculo-con-servicios-de-host-que-utilizan-el-protocolo-de-cifrado-ssl13
 locale: es
 kiStatus: Backlog
 internalReference: 851911
@@ -18,7 +18,9 @@ internalReference: 851911
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el host de imágenes de la hoja de cálculo utiliza un protocolo de encriptación SSL1.3, aparece un error al intentar subir la hoja de cálculo:

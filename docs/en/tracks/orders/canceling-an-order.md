@@ -19,9 +19,13 @@ You can cancel an order with VTEX in three different ways:
 - Through API.
 - Following the customer's request.
 
->⚠️ Once an order is canceled, you cannot change its status. Orders that have **invoiced** status can not be canceled.
+<div class="alert alert-warning">
+Once an order is canceled, you cannot change its status. Orders that have <b>invoiced</b> status can not be canceled.
+</div>
 
->ℹ️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+<div class = "alert alert-info">
+Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
+</div>
 
 ## Cancellation through Orders module
 
@@ -44,8 +48,8 @@ Check out our [ERP integration guide](https://developers.vtex.com/docs/erp-integ
 
 The customer can request the cancellation of the order through the **My orders** screen.
 
-If the customer requests cancellation within the grace period of the order, which is [configurable](https://help.vtex.com/en/tutorial/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
+If the customer requests cancellation within the grace period of the order, which is [configurable](/en/tutorial/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
 
 After the grace period, it is understood that the store is already acting on the order. In such case, the store must confirm the cancellation request.
 
-Check out our article [customer requested full cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer).
+Check out our article [customer requested full cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer).

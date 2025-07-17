@@ -15,9 +15,11 @@ legacySlug: como-exportar-os-clientes-cadastrados-no-avise-me
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
->⚠️ Este artigo se aplica à opção **Avise-me** apenas em lojas que utilizam o [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Em lojas que utilizam [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), é necessário seguir as instruções do guia [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+<div class="alert alert-warning">
+  <p>Este artigo se aplica à opção <strong>Avise-me</strong> apenas em lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>. Em lojas que utilizam <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, é necessário seguir as instruções do guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a>.</p>
+</div>
 
-Para exportar os dados dos clientes que se cadastraram na base de notificação de disponibilidade ([Avise-me](https://help.vtex.com/pt/tutorial/configurar-o-avise-me--2VqVifQuf6Co2KG048Yu6e)), siga os passos abaixo:
+Para exportar os dados dos clientes que se cadastraram na base de notificação de disponibilidade ([Avise-me](/pt/tutorial/configurar-o-avise-me--2VqVifQuf6Co2KG048Yu6e)), siga os passos abaixo:
 
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em __Relatórios__.

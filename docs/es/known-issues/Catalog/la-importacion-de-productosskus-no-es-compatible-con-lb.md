@@ -1,5 +1,5 @@
 ---
-title: "La importación de productos&SKUs no es compatible con 'lb'"
+title: "La importación de productos&SKUs no es compatible con 'lb"
 id: 1OjtnFf9MpY1IFzQa8Ua2t
 status: PUBLISHED
 createdAt: 2022-06-17T19:38:17.726Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: productsskus-import-does-not-support-lb
+slugEN: la-importacion-de-productosskus-no-es-compatible-con-lb
 locale: es
 kiStatus: No Fix
 internalReference: 337860
@@ -18,18 +18,20 @@ internalReference: 337860
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la hoja de catálogo de Productos y SKUs no soporta la unidad de medida 'lb'. `/admin/Site/Relatorio_Skus.aspx`
 
 En realidad se trata de una unidad de lb en nuestro SKU UI que es configurable:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/IYCZqjQWduAKjhP73hd7Uqaho/?name=inline1704074446.png)
 
 Sin embargo, la importación de productos&sku actualmente devuelve un mensaje de error cada vez que un usuario intenta importar cualquier sku que contenga este valor, independientemente de si los otros campos son válidos:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-importacion-de-productosskus-no-es-compatible-con-lb_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1v8a6RWRFaqwAHilwADBdnw7z/?name=inline802930792.png)
 
 
 

@@ -28,15 +28,15 @@ That said, we can move on to configuring the payment conditions.
 
 ## General Settings
 
-To set up a payment condition, you first need to register a payment provider, as described in [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
+To set up a payment condition, you first need to register a payment provider, as described in [Register payment and anti-fraud providers](/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
 Regardless of the payment condition to be chosen, the following actions must always be carried out:
 - Define the name of the rule according to what it represents, to help identify it;
 - Activate it;
 - Define which payment provider this condition will be processed by;
-- Define whether or not you will use [anti-fraud](https://help.vtex.com/en/tutorial/como-configurar-antifraude--tutorials_446).
+- Define whether or not you will use [anti-fraud](/en/tutorial/como-configurar-antifraude--tutorials_446).
 
-Furthermore, for some payment conditions it may be necessary to define whether payment will be made in cash or in installments, with or without interest and [special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+Furthermore, for some payment conditions it may be necessary to define whether payment will be made in cash or in installments, with or without interest and [special conditions](/en/tutorial/special-conditions--tutorials_456).
 
 As the __Credit Card__ is a payment method that allows you to apply all these features, see below how to configure it:
 
@@ -98,9 +98,9 @@ If you decide to configure a payment method that accepts installments with inter
 
 ### Automatic Installment
 The Automatic Installment option allows you to configure the details of the installments directly in the payment provider (outside the VTEX environment).
-To enable this option, select “Yes” in the **Use external installments** field during the [provider setup](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
+To enable this option, select “Yes” in the **Use external installments** field during the [provider setup](/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
 
-![automaticinstallment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payments/configuring-a-payment-condition_1.JPG)
+![automaticinstallment](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/965203e926177f608618ed0048411de6/parcelamentoautomaticous.JPG)
 
 After enabling automatic installment payment on the provider, follow these steps:
 

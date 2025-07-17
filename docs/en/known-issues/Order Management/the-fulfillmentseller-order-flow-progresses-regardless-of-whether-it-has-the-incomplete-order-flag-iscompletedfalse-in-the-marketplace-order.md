@@ -1,5 +1,5 @@
 ---
-title: 'The Fulfillment/Seller order flow progresses regardless of whether it has the incomplete order flag (isCompleted=false) in the Marketplace order'
+title: "The Fulfillment/Seller order flow progresses regardless of whether it has the incomplete order flag (isCompleted=false) in the Marketplace order"
 id: 1wy7o9sS7qKnvVlaJd9Pq9
 status: PUBLISHED
 createdAt: 2024-11-21T18:39:13.496Z
@@ -38,7 +38,7 @@ The main problem is to make the fulfillment of the order without a complete Mark
 It is not a scenario that can be replicated, however, it is possible to validate the property in the JSON of the **Marketplace order** `"isCompleted:"` if it is currently with the value `false`, and the **Fulfillment order (Seller)** `"isCompleted:"` with value `true` and his workflow allowing to advance the order.
 
 Example of **Marketplace order** property `"isCompleted": false`:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-fulfillmentseller-order-flow-progresses-regardless-of-whether-it-has-the-incomplete-order-flag-iscompletedfalse-in-the-marketplace-order_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/61ctwev8pXI4WHheLVtfnD0Sq/?name=inline1159444440.png)
 
 
 ##

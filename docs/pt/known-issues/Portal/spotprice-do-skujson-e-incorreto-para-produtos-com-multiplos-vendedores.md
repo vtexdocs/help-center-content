@@ -1,5 +1,5 @@
 ---
-title: 'spotPrice do skuJson é incorreto para produtos com múltiplos Vendedores'
+title: "spotPrice do skuJson é incorreto para produtos com múltiplos Vendedores"
 id: 6rgLJCE1DYPXZj1Pqt6hA2
 status: PUBLISHED
 createdAt: 2022-02-24T15:32:40.223Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: spotprice-from-the-skujson-is-incorrect-for-products-with-multiple-sellers
+slugEN: spotprice-do-skujson-e-incorreto-para-produtos-com-multiplos-vendedores
 locale: pt
 kiStatus: No Fix
 internalReference: 264791
@@ -18,7 +18,9 @@ internalReference: 264791
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Valor do "spotPrice" (preço à vista) no "skuJson" do Portal incorreto em produtos com múltiplos vendedores.

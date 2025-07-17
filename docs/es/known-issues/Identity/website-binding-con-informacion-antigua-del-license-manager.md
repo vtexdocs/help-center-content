@@ -1,5 +1,5 @@
 ---
-title: 'Website Binding con información antigua del License Manager'
+title: "Website Binding con información antigua del License Manager"
 id: 1F8B0AD7IEGgmqWswAAkYe
 status: PUBLISHED
 createdAt: 2017-04-10T13:26:43.145Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: License Manager
-slugEN: website-binding-with-old-license-manager-details
+slugEN: website-binding-con-informacion-antigua-del-license-manager
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -29,13 +29,13 @@ El ejemplo de la tienda __Delacasa__ ilustra el bug:
 Antes de llamarse __delacasa__ habían creado el dominio __decoramovel__, el Portal creó el Binding y posteriormente adicionó las nuevas informaciones del nuevo dominio en el mismo Binding.
 
 Las nuevas informaciones insertadas en el LM:
-![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/website-binding-con-informacion-antigua-del-license-manager_1.JPG) 
+![license-manager-delacasa](//images.contentful.com/alneenqid6w5/6rC1pqQuQ0yeI60YqqS0Si/2d0cf344afd3f7cea14cf844ea86329b/license-manager-delacasa.JPG) 
 
 El diccionario del Website (mundinho) [mundito] como quedó, dejando el comportamiento en evidencia:
-![dicionario-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/website-binding-con-informacion-antigua-del-license-manager_2.JPG) 
+![dicionario-delacasa](//images.contentful.com/alneenqid6w5/2w9Zf8aK1aw0euMsSouUEm/59b5b620f7c36f52f81af250be71b542/dicionario-delacasa.JPG) 
 
 La parte de Webiste Binding que muestra el resultado:
-![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/website-binding-con-informacion-antigua-del-license-manager_3.JPG)
+![binding-delacasa](//images.contentful.com/alneenqid6w5/4JqhEdsgdGWgo2QOCksUaM/bc67aa1883df5f8827d399f4e89fc123/binding-delacasa.JPG)
 
 ## Simulación
 
@@ -52,5 +52,5 @@ El nuevo Binding cargará las informaciones nuevas.
 Luego de crear el nuevo, hacer el cambio y luego, de ser necesario, excluir el antiguo.
 
 Es importante mantener este orden, para evitar que el sitio salga del aire.
-![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Identity/website-binding-con-informacion-antigua-del-license-manager_4.png)
+![2017-04-10 10 40 41-Index](//images.contentful.com/alneenqid6w5/Jvzm768i64YeqQkqCYAWk/3261595cb7f9af998aac4f0c99fe3fb6/2017-04-10_10_40_41-Index.png)
 

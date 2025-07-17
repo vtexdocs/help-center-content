@@ -3,8 +3,8 @@ title: 'Criar tabela de preços promocionais'
 id: pIwaCYDwWqpbao6GahcjT
 status: PUBLISHED
 createdAt: 2019-06-17T20:59:23.665Z
-updatedAt: 2023-03-31T20:53:38.138Z
-publishedAt: 2023-03-31T20:53:38.138Z
+updatedAt: 2025-02-20T12:56:10.833Z
+publishedAt: 2025-02-20T12:56:10.833Z
 firstPublishedAt: 2019-06-18T15:44:00.577Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,10 +15,10 @@ legacySlug: criar-tabela-de-precos-promocionais
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Antes de ativar sua tabela de preço promocional é importante ter uma tabela de preço criada. Veja como fazer isso no tutorial **[Criar tabelas de preços](https://help.vtex.com/pt/tutorial/criar-tabelas-de-precos?locale=pt).** Complete esta etapa e siga os passos seguintes.
+Antes de ativar sua tabela de preço promocional é importante ter uma tabela de preço criada. Veja como fazer isso no tutorial **[Criar tabelas de preços](/pt/tutorial/criar-tabelas-de-precos?locale=pt).** Complete esta etapa e siga os passos seguintes.
 
 Depois de definida a tabela de preços que deseja usar, você pode criar uma tabela de preços promocionais, utilizando estes dois tipos de promoção. Clique e confira os campos a serem preenchidos:
- **[promoções regulares](https://help.vtex.com/pt/tutorial/promocao-regular?locale=pt) ou [promoções de audiência de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha?locale=pt)**
+ **[promoções regulares](/pt/tutorial/promocao-regular?locale=pt) ou [promoções de audiência de campanha](/pt/tutorial/promocao-de-campanha?locale=pt)**
 
 Para criar uma tabela de preços promocionais é necessário cumprir as etapas acima e depois seguir os seguintes passos.
 

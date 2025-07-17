@@ -3,8 +3,8 @@ title: 'Como funciona a configuração de DNS na VTEX'
 id: 2P5k3oMYOj7TgSK4Mrxmgy
 status: PUBLISHED
 createdAt: 2024-01-23T16:53:52.076Z
-updatedAt: 2024-01-23T17:00:29.714Z
-publishedAt: 2024-01-23T17:00:29.714Z
+updatedAt: 2025-03-20T22:06:24.769Z
+publishedAt: 2025-03-20T22:06:24.769Z
 firstPublishedAt: 2024-01-23T16:58:57.454Z
 contentType: tutorial
 productTeam: Reliability
@@ -24,14 +24,14 @@ O funcionamento dos redirecionamentos ocorre em etapas:
 1. O CNAME criado pela sua equipe encaminha o tráfego da loja para um local específico na infraestrutura da VTEX.
 
     `www.minhaloja.com` 🠖 `CNAME `🠖 `www.minhaloja.com.cdn.vtex.com`
-2. Internamente, a VTEX configura um segundo CNAME que direciona para o serviço da Azion ou CloudFront.
+2. Internamente, a VTEX configura um segundo CNAME que direciona para o serviço da CloudFront.
 
-    `www.minhaloja.com.cdn.vtex.com` 🠖 `CNAME` 🠖 `uug412qft7.map.azionedge.net`
-3. Finalmente, um redirecionamento do tipo A conduz a rota do serviço Azion/CloudFront para um endereço IP específico.
+    `www.minhaloja.com.cdn.vtex.com` 🠖 `CNAME` 🠖 `xxxxxxxx.cloudfront.net`
+3. Finalmente, um redirecionamento do tipo A conduz a rota do serviço CloudFront para um endereço IP específico.
 
-    `uug412qft7.map.azionedge.net` 🠖 `A` (tipo de registro que contém um endereço IP) 🠖 `185.76.11.52`
+    `xxxxxxxx.cloudfront.net` 🠖 `A` (tipo de registro que contém um endereço IP) 🠖 `185.76.11.52`
 
 Essas configurações garantem que o endereço IP resolvido seja dinâmico, podendo mudar a qualquer momento. Isto acontece porque este endereço IP se adapta para corresponder ao servidor de CDN (_Content Delivery Network_) mais próximo da localização do visitante. Esta adaptação melhora o desempenho do site, já que os arquivos são entregues a partir de servidores mais próximos geograficamente do visitante.
 
-Para mais informações sobre configuração de DNS na VTEX, veja [Go-live](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj).
+Para mais informações sobre configuração de DNS na VTEX, veja [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj).
 

@@ -3,8 +3,8 @@ title: 'Comportamento da busca'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-10-03T23:11:03.742Z
-publishedAt: 2024-10-03T23:11:03.742Z
+updatedAt: 2025-06-24T19:21:01.124Z
+publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -49,7 +49,9 @@ Exemplo: suponha que um cliente queira pesquisar pelo termo `bola`. Seguindo a c
 * `bora` (trocar 1 caractere)
 * `obla` (trocar 2 caracteres que ficam um do lado do outro entre eles)
 
->ℹ️ Espaços em branco não são considerados no *fuzzy*, então `base ball` não será corrigido para `baseball`, por exemplo. Recomendamos o uso de [sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) para esses casos.
+<div class ="alert alert-info">
+	<p>Espaços em branco não são considerados no <em>fuzzy</em>, então <code>base ball</code> não será corrigido para <code>baseball</code>, por exemplo. Recomendamos o uso de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">sinônimos</a> para esses casos.</p>
+</div>
 
 ### Resultado mínimo
 
@@ -60,7 +62,9 @@ Em uma busca com múltiplos termos, ocorre a lógica a seguir:
 1. Se o resultado mínimo não for atingido mesmo com a autocorreção inicial, a busca passa a incluir resultados mais abrangentes, que apresentam qualquer um dos termos pesquisados. Por exemplo, quando um usuário pesquisa por "tenis nike", mas o catálogo não possui nenhum produto com esse nome, a busca pode apresentar como resultado um produto com apenas o termo "tenis" no nome.
 2. Se a busca abrangente não apresentar o resultado mínimo, ela será repetida aplicando a autocorreção novamente a cada um dos termos.
 
->⚠️ Buscas com múltiplos termos são mais eficientes quando o cliente ordena os resultados por relevância, já que elas podem ter um número maior de resultados além do contexto que foi buscado. Na ordenação por relevância, ainda priorizam-se os itens relacionados aos múltiplos termos. Porém, ao aplicar outras ordenações, como preço ou mais vendidos, a ordem dos resultados depende desses valores numéricos e não necessariamente prioriza itens que contêm mais palavras dos termos de busca.
+<div class= "alert alert-warning">
+<p>Buscas com múltiplos termos são mais eficientes quando o cliente ordena os resultados por relevância, já que elas podem ter um número maior de resultados além do contexto que foi buscado. Na ordenação por relevância, ainda priorizam-se os itens relacionados aos múltiplos termos. Porém, ao aplicar outras ordenações, como preço ou mais vendidos, a ordem dos resultados depende desses valores numéricos e não necessariamente prioriza itens que contêm mais palavras dos termos de busca.</p>
+</div>
 
 ### Limite de paginação
 
@@ -76,15 +80,17 @@ Determina quais informações de produto são pesquisáveis. A partir da configu
 
 | Informações | Configuração |
 | - | - |
-| <ul><li>Nome do produto</li> <li>Marca</li><li>ID do produto (`ProductID`)</li><li>Código de referência do produto (`ProductRefID`)</li><li>ID do SKU (`SKUID`)</li><li>Código de referência do SKU (`SKURefID`)</li><li>EAN</li></ul> | Informações pesquisáveis por **padrão** no VTEX Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=pt-br). |
-| <ul><li>Especificações de produto</li><li>Especificações de SKU</li></ul> | Para incluir as especificações desejadas como campos pesquisáveis, é necessário configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo: se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
-| <ul><li>Código do fabricante (`ManufactureID`)</li><li>Departamento</li><li>Categoria</li><li>Subcategoria</li></ul> | Entre em contato com o nosso [Suporte](https://help.vtex.com/support?/cultureInfo=en-us) para definir esses campos como pesquisáveis. | 
+| <ul><li>Nome do produto</li> <li>Marca</li><li>ID do produto (`ProductID`)</li><li>Código de referência do produto (`ProductRefID`)</li><li>ID do SKU (`SKUID`)</li><li>Código de referência do SKU (`SKURefID`)</li><li>EAN</li></ul> | Informações pesquisáveis por **padrão** no VTEX Intelligent Search. Para remover alguma delas, entre em contato com o nosso [Suporte](/support?/cultureInfo=pt-br). |
+| <ul><li>Especificações de produto</li><li>Especificações de SKU</li><li>Departamento</li><li>Categoria</li><li>Subcategoria</li></ul> | Para incluir as especificações desejadas como campos pesquisáveis, é necessário configurar a opção **Especificações pesquisáveis** no Admin VTEX, em **Intelligent Search** > **Configurações da busca**.<br /><br /> Por exemplo: se uma camisa não tiver a cor no nome do produto ou do SKU, por padrão, o Intelligent Search não identifica esse atributo em uma pesquisa por "camisa azul", trazendo como resultado camisas de diversas cores. Contudo, se a especificação de cor estiver configurada como pesquisável, a busca consegue trazer camisas azuis nas primeiras posições.<br /><br /> Para mais detalhes sobre a definição de especificações pesquisáveis, acesse o guia [Configurações da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracoes-gerais). Saiba mais sobre especificações em [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
+| >Código do fabricante (`ManufactureID`) | Entre em contato com o nosso [Suporte](/support?/cultureInfo=en-us) para definir esses campos como pesquisáveis. | 
 
 _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produto está cadastrado com o nome "Tênis Nike Total 90" e com a cor "preta". Se um cliente pesquisar por "Tenis Preto", a ferramenta retornará produtos que possuem o termo "tenis" e cor "preta" no topo do resultado de busca.
 
 É possível buscar por caracteres especiais (`-` e `/`) para encontrar um produto.
 
->⚠️ A escolha dos campos de busca afeta as possibilidades das [Regras de merchandising](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo **`SKUID` **como pesquisável, não será possível promover um **`ProductID` **ou um **`ProductRefID` **utilizando Regras de merchandising.
+<div class ="alert alert-warning">
+	<p>A escolha dos campos de busca afeta as possibilidades das <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">Regras de merchandising</a>, pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo <strong><code>SKUID</code> </strong>como pesquisável, não será possível promover um <strong><code>ProductID</code> </strong>ou um <strong><code>ProductRefID</code> </strong>utilizando Regras de merchandising.</p>
+</div>
 
 ### Definição e ordenação de campos de filtro
 
@@ -96,9 +102,11 @@ A relevância é a funcionalidade que define a ordem dos produtos no resultado d
 
 _Exemplo_: um lojista configurou que o critério Promoção possui uma relevância maior que outros critérios. Dessa forma, quando o cliente pesquisa pelo termo “camiseta” na busca interna da loja, as camisetas incluídas em promoções tendem a aparecer primeiro nos resultados, dependendo dos pesos atribuídos aos outros critérios.
 
-Para mais informações sobre como personalizar a ordenação dos resultados de acordo com as necessidades da sua loja, leia o artigo [Configuração de relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Para mais informações sobre como personalizar a ordenação dos resultados de acordo com as necessidades da sua loja, leia o artigo [Configuração de relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
->ℹ️ Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.
+<div class ="alert alert-info">
+	<p>Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando <code>map=productClusterIds</code>, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar <code>productClusterNames</code>, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.</p>
+</div>
 
 ## Formas alternativas de busca
 

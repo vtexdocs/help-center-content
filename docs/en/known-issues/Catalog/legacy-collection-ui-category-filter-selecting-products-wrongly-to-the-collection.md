@@ -1,5 +1,5 @@
 ---
-title: 'Legacy collection UI category filter selecting products wrongly to the collection'
+title: "Legacy collection UI category filter selecting products wrongly to the collection"
 id: 1IlioZpOSQf5t4TWqZreiS
 status: PUBLISHED
 createdAt: 2022-10-31T20:42:26.100Z

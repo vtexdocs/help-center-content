@@ -1,5 +1,5 @@
 ---
-title: 'Assinatura criada para pedidos com transação cancelada'
+title: "Assinatura criada para pedidos com transação cancelada"
 id: 3kDIxoThA1INR2JugY0NpO
 status: PUBLISHED
 createdAt: 2024-11-25T13:48:05.316Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscription-created-for-orders-with-canceled-transaction
+slugEN: assinatura-criada-para-pedidos-com-transacao-cancelada
 locale: pt
 kiStatus: Backlog
 internalReference: 1139745
@@ -18,7 +18,9 @@ internalReference: 1139745
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando fechamos uma ordem que contém um item para assinatura, o sistema que gera a assinatura é acionado para criar a assinatura sempre que a ordem recebe o aviso de que o pagamento foi efetuado, mas ainda pode acontecer de a transação dessa ordem ser cancelada posteriormente devido à análise do sistema antifraude, mas, mesmo antes de a transação ser criada, a assinatura já foi criada e está ativada, o que significa que será executada no próximo ciclo, mesmo que a ordem que a originou não tenha avançado.

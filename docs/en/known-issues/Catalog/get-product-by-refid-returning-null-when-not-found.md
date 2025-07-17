@@ -1,5 +1,5 @@
 ---
-title: "GET Product by Refid Returning 'Null' when not Found"
+title: 'GET Product by Refid Returning "Null" when not Found'
 id: 6yiM9gJT5DB77pZSBNfGZ3
 status: PUBLISHED
 createdAt: 2023-05-16T19:35:46.743Z
@@ -37,7 +37,7 @@ curl --location --request GET 'https://mystore.vtexcommercestable.com.br/api/cat
 
 You should get the following response if the given id doesn't exist
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/get-product-by-refid-returning-null-when-not-found_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zLUjULwrXOEEd8hX9P0pTq8op/?name=inline-1138166273.png)
 
 This is incorrect since the expected is a `404 - Not Found`
 

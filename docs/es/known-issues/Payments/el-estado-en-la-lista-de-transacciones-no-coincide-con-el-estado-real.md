@@ -1,5 +1,5 @@
 ---
-title: 'El estado en la lista de transacciones no coincide con el estado real'
+title: "El estado en la lista de transacciones no coincide con el estado real"
 id: 3L0eXIO6aHmv9GSlPwCq3t
 status: PUBLISHED
 createdAt: 2024-03-22T16:23:32.369Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: status-on-transactions-list-doesnt-match-actual-state
+slugEN: el-estado-en-la-lista-de-transacciones-no-coincide-con-el-estado-real
 locale: es
 kiStatus: Backlog
 internalReference: 1004883
@@ -18,7 +18,9 @@ internalReference: 1004883
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas transacciones pueden no coincidir con el estado real al abrirlas (problema de indexación).

@@ -1,5 +1,5 @@
 ---
-title: "La API de inserción de archivos de SKU no responde con la propiedad 'Texto'."
+title: 'La API de inserción de archivos de SKU no responde con la propiedad "Texto".'
 id: 2rPsyAkpGNCVIM4yGlcMBw
 status: PUBLISHED
 createdAt: 2024-04-10T14:59:14.341Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sku-insert-file-api-is-not-responding-with-the-text-property
+slugEN: la-api-de-insercion-de-archivos-de-sku-no-responde-con-la-propiedad-texto
 locale: es
 kiStatus: Fixed
 internalReference: 1014787
@@ -18,7 +18,9 @@ internalReference: 1014787
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la API para crear un archivo sku https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file no responde con la propiedad "Texto" correctamente.

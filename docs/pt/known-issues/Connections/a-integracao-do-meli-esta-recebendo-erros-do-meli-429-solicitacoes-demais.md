@@ -1,5 +1,5 @@
 ---
-title: "A integração do MELI está recebendo erros do MELI '429 solicitações demais'"
+title: 'A integração do MELI está recebendo erros do MELI "429 solicitações demais'
 id: 1e4g9nzZFyanywmLbSHq4D
 status: PUBLISHED
 createdAt: 2023-08-03T10:47:41.602Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-integration-is-receiving-errors-from-meli-429-too-many-requests
+slugEN: a-integracao-do-meli-esta-recebendo-erros-do-meli-429-solicitacoes-demais
 locale: pt
 kiStatus: Fixed
 internalReference: 873998
@@ -18,7 +18,9 @@ internalReference: 873998
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

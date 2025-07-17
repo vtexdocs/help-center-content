@@ -1,5 +1,5 @@
 ---
-title: 'Checkout allows to add 2 different addresses for delivery'
+title: "Checkout allows to add 2 different addresses for delivery"
 id: 2z7iq68qdHXAfY8RLDHXDg
 status: PUBLISHED
 createdAt: 2023-11-06T22:03:24.983Z

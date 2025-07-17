@@ -1,5 +1,5 @@
 ---
-title: 'Os documentos não são indexados no masterdata v2 quando a entidade tem vários esquemas'
+title: "Os documentos não são indexados no masterdata v2 quando a entidade tem vários esquemas"
 id: bjjbd2AmtCBSdQGRqYz51
 status: PUBLISHED
 createdAt: 2024-08-08T13:44:12.920Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: documents-are-not-indexed-in-masterdata-v2-when-the-entity-has-multiple-schemas
+slugEN: os-documentos-nao-sao-indexados-no-masterdata-v2-quando-a-entidade-tem-varios-esquemas
 locale: pt
 kiStatus: Backlog
 internalReference: 1077981
@@ -18,7 +18,9 @@ internalReference: 1077981
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma entidade masterdata v2 tem muitos esquemas, ela sofre com problemas de indexação e alguns documentos não são retornados na pesquisa.

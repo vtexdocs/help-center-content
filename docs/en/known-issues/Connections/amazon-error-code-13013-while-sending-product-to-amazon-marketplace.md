@@ -1,5 +1,5 @@
 ---
-title: '[Amazon] Error Code 13013 while sending product to Amazon marketplace'
+title: "[Amazon] Error Code 13013 while sending product to Amazon marketplace"
 id: 5bmPQ4Jzi8HvoDoTaDFv9b
 status: PUBLISHED
 createdAt: 2023-10-27T11:24:52.357Z

@@ -3,8 +3,8 @@ title: 'Cadastrar preço base'
 id: P99EjtrlRHk92Q8qDPq29
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:47.694Z
-updatedAt: 2023-03-29T18:29:21.378Z
-publishedAt: 2023-03-29T18:29:21.378Z
+updatedAt: 2024-11-27T11:36:41.541Z
+publishedAt: 2024-11-27T11:36:41.541Z
 firstPublishedAt: 2019-07-17T19:41:10.765Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ trackSlugPT: precos-101
 Há três formas de cadastrar um preço base:
 
 - pelo Admin
-- [por planilha](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) 
+- [por planilha](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) 
 - por API REST
 
 Siga o passo a passo abaixo para cadastrar os preços base de seus SKUs: 
@@ -40,7 +40,9 @@ Caso você deseje, é possível cadastrar um **preço de lista** associado ao pr
 
 ## API REST
 
->⚠️ As autenticações para as chamadas de API REST do módulo de Preços devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre [como gerar um Appkey e um AppToken para autenticar suas integrações.](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+<div class="alert alert-warning">
+As autenticações para as chamadas de API REST do módulo de Preços devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">como gerar um Appkey e um AppToken para autenticar suas integrações.</a>
+</div>
 
 Para cadastrar o **preço base** de um SKU, você precisa enviar um __PUT__ para o seguinte endpoint:
 

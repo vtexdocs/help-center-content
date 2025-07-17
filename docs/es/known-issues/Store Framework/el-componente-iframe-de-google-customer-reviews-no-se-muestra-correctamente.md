@@ -1,5 +1,5 @@
 ---
-title: 'El componente iframe de Google Customer Reviews no se muestra correctamente'
+title: "El componente iframe de Google Customer Reviews no se muestra correctamente"
 id: 7BDB9yYv3ZHbhE4ExCXgZK
 status: PUBLISHED
 createdAt: 2023-12-22T17:55:39.082Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: google-customer-reviews-component-iframe-has-inconsistent-rendering
+slugEN: el-componente-iframe-de-google-customer-reviews-no-se-muestra-correctamente
 locale: es
 kiStatus: No Fix
 internalReference: 578443
@@ -18,7 +18,9 @@ internalReference: 578443
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El iframe, responsable de la insignia de Opiniones de clientes de Google, tiene una representación incoherente dentro del elemento div del componente Opiniones de clientes de Google.

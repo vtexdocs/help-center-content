@@ -1,5 +1,5 @@
 ---
-title: 'Shipping options gets frozen when trying to select an option'
+title: "Shipping options gets frozen when trying to select an option"
 id: 7zrMuzLq8kpNLDc2l2FswA
 status: PUBLISHED
 createdAt: 2023-09-13T14:42:26.106Z

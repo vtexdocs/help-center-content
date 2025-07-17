@@ -1,5 +1,5 @@
 ---
-title: 'XML file does not get price from SWL'
+title: "XML file does not get price from SWL"
 id: 5wQep876yfIFr7NibBQtL
 status: PUBLISHED
 createdAt: 2022-01-21T14:53:24.449Z

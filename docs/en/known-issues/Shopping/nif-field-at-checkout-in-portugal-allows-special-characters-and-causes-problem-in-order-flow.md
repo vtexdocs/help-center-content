@@ -1,5 +1,5 @@
 ---
-title: 'NIF field at checkout in Portugal allows special characters and causes problem in order flow'
+title: "NIF field at checkout in Portugal allows special characters and causes problem in order flow"
 id: 5xQ3fPZq4oUk8QsY0KUEYm
 status: PUBLISHED
 createdAt: 2018-03-28T12:47:56.181Z
@@ -20,7 +20,7 @@ internalReference:
 
 The NIF field (document) in the checkout for Portugal (UI) is allowing special characters to be entered as value. However, orders that are closed with special characters get stuck with error in the OMS.
 
-![OMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Shopping/nif-field-at-checkout-in-portugal-allows-special-characters-and-causes-problem-in-order-flow_1.png)
+![OMS](//images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
 
 ## Simulation
 

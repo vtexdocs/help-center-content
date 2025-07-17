@@ -1,5 +1,5 @@
 ---
-title: 'A atualização das políticas comerciais disponíveis do vendedor não aciona a indexação automática'
+title: "A atualização das políticas comerciais disponíveis do vendedor não aciona a indexação automática"
 id: 45FOjSN4a5ZhCqilQfUX99
 status: PUBLISHED
 createdAt: 2024-05-31T13:49:57.732Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: update-sellers-available-trade-policies-does-not-trigger-automatic-indexation
+slugEN: a-atualizacao-das-politicas-comerciais-disponiveis-do-vendedor-nao-aciona-a-indexacao-automatica
 locale: pt
 kiStatus: Backlog
 internalReference: 1041874
@@ -18,7 +18,9 @@ internalReference: 1041874
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na UI de gerenciamento do vendedor, remova ou adicione uma nova política comercial a um vendedor.

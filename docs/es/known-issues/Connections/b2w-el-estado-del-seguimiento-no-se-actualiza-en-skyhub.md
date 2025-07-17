@@ -1,5 +1,5 @@
 ---
-title: '[B2W] El estado del seguimiento no se actualiza en Skyhub'
+title: "[B2W] El estado del seguimiento no se actualiza en Skyhub"
 id: 3TKWSVwPPYyoqkKWtNUCb3
 status: PUBLISHED
 createdAt: 2022-10-06T19:23:32.891Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: b2w-tracking-status-not-updated-on-skyhub
+slugEN: b2w-el-estado-del-seguimiento-no-se-actualiza-en-skyhub
 locale: es
 kiStatus: Backlog
 internalReference: 673597
@@ -18,7 +18,9 @@ internalReference: 673597
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

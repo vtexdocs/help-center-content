@@ -1,5 +1,5 @@
 ---
-title: 'Paginación del módulo de precios continúa apareciendo al aplicar un filtro'
+title: "Paginación del módulo de precios continúa apareciendo al aplicar un filtro"
 id: 64JuaXsWyrcQmk6iUi8wFD
 status: PUBLISHED
 createdAt: 2019-12-10T21:18:48.943Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 3b6CkfkmuAY4Be6231c37z
 tag: Pricing & Promotions
-slugEN: pricing-module-pagination-continues-to-appear-even-when-filters-are-applied
+slugEN: paginacion-del-modulo-de-precios-continua-apareciendo-al-aplicar-un-filtro
 locale: es
 kiStatus: Backlog
 internalReference: 

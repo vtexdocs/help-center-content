@@ -1,5 +1,5 @@
 ---
-title: 'Nem todos os skus são devolvidos na planilha de especificação do produto/sku'
+title: "Nem todos os skus são devolvidos na planilha de especificação do produto/sku"
 id: 3fo3A4mQ1YjyJH7yWETk8J
 status: PUBLISHED
 createdAt: 2022-08-31T20:34:22.708Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: not-all-skus-are-returned-on-the-productsku-specification-spreadsheet
+slugEN: nem-todos-os-skus-sao-devolvidos-na-planilha-de-especificacao-do-produtosku
 locale: pt
 kiStatus: Fixed
 internalReference: 649316
@@ -18,7 +18,9 @@ internalReference: 649316
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Este comportamento acontece quando uma categoria tem muitas especificações e muitos skus. Dessa forma, ao exportar a planilha, eventualmente o limite de excelência será atingido (cerca de 65k).

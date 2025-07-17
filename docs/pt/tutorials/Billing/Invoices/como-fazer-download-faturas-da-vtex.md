@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 Neste artigo você encontrará informações de como acessar suas faturas, ou boletos, como são conhecidos no Brasil. A forma de acessar suas faturas e outras informações da sua conta é a mesma para todos os países.
 
-Para acessá-las, é preciso associar um [perfil de acesso financeiro](https://help.vtex.com/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) a todos os usuários autorizados a visualizar essas informações. 
+Para acessá-las, é preciso associar um [perfil de acesso financeiro](/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) a todos os usuários autorizados a visualizar essas informações. 
 
 Com o perfil de acesso financeiro habilitado, para executar ações referentes a faturas, acesse a opção *Configurações da Conta > Faturas > Títulos* no Admin. Na tela seguinte, você verá, listados por mês e cor, os valores dos títulos disponíveis. 
 
@@ -47,7 +47,7 @@ Para fazer o download da sua fatura, siga os passos abaixo:
 
 Feito isso, sua fatura estará disponível em outra aba.
 
-![baixar faturas pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_1.gif)
+![baixar faturas pt](https://images.ctfassets.net/alneenqid6w5/2v9nnJfdYMrIw9DhYsV6oz/8acb4b8fe2db1b1cf36500cd2bff7b09/baixar_faturas_pt.gif)
 
 ## Brasil
 
@@ -65,9 +65,9 @@ Para fazer o download de seu boleto, siga os passos abaixo:
 6. Clique em **Efetuar Pagamento**.
 7. Será gerado um boleto, e multa e juros serão incluídos automaticamente. 
 
->ℹ️ No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.
+<div class="alert alert-info"> No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.</div>
 
-![baixar boletos pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_2.gif)
+![baixar boletos pt](https://images.ctfassets.net/alneenqid6w5/3gRniiqHrpZZHNTsQC8Gfm/21d45f702de76ea5c866b61a3c80be8f/baixar_boletos_pt.gif)
 
 ### Fazer download da Nota Fiscal
 
@@ -84,6 +84,6 @@ Desse modo, a Nota Fiscal será aberta em outra aba do seu navegador. Clique **I
 1. Em Destino, selecione a opção **Salvar em PDF**.
 2. Para finalizar, clique em **Salvar**.
 
-![baixar notafiscal pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Invoices/como-fazer-download-faturas-da-vtex_3.gif)
+![baixar notafiscal pt](https://images.ctfassets.net/alneenqid6w5/5jKzvOnt2V3JtrvKfxJ9zU/8ce862d5a13587d72464d3a3efea907f/baixar_notafiscal_pt.gif)
 
-Caso você tenha dúvidas sobre o valor cobrado na fatura, leia o artigo [Compreenda o valor da receita aprovada](https://help.vtex.com/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender o valor que foi cobrado.
+Caso você tenha dúvidas sobre o valor cobrado na fatura, leia o artigo [Compreenda o valor da receita aprovada](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender o valor que foi cobrado.

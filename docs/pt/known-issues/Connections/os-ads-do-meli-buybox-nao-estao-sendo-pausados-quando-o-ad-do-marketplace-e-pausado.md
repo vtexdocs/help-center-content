@@ -1,5 +1,5 @@
 ---
-title: 'Os ADs do MELI Buybox não estão sendo pausados quando o AD do marketplace é pausado'
+title: "Os ADs do MELI Buybox não estão sendo pausados quando o AD do marketplace é pausado"
 id: 5OFALDi7lY93D7KkZ4scvg
 status: PUBLISHED
 createdAt: 2023-09-29T19:12:14.424Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-buybox-ads-are-not-being-paused-when-the-marketplace-ad-is-paused
+slugEN: os-ads-do-meli-buybox-nao-estao-sendo-pausados-quando-o-ad-do-marketplace-e-pausado
 locale: pt
 kiStatus: Fixed
 internalReference: 910371
@@ -18,7 +18,9 @@ internalReference: 910371
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

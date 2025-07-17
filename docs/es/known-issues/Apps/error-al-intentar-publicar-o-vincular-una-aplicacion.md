@@ -1,5 +1,5 @@
 ---
-title: 'Error al intentar publicar o vincular una aplicación'
+title: "Error al intentar publicar o vincular una aplicación"
 id: 2WPukfSHWzzIUjIzMJaAEK
 status: PUBLISHED
 createdAt: 2024-06-27T15:39:00.583Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: error-when-trying-to-publish-or-link-an-app
+slugEN: error-al-intentar-publicar-o-vincular-una-aplicacion
 locale: es
 kiStatus: Backlog
 internalReference: 1056882
@@ -18,7 +18,9 @@ internalReference: 1056882
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Nuestro equipo investigó que esto está normalmente asociado con el desarrollo de una aplicación de gran tamaño. Esto ocurre porque el builder hub explota su memoria debido a la gran cantidad de archivos en la app. Los retrasos en la vinculación de la aplicación también pueden estar asociados con este problema.

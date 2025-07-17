@@ -27,5 +27,5 @@ There will be no contractual or commercial changes since the contract was betwee
 
 No action is required, as the update will be applied automatically to all VTEX stores. Any technical questions or issues related to the product should be addressed directly with [Assurant](https://www.assurant.com.br/).
 
->⚠️ VTEX will not provide technical support to customers.
+<div class = "alert alert-warning">VTEX will not provide technical support to customers.</div>
 

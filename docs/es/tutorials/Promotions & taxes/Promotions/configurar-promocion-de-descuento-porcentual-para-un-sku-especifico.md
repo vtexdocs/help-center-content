@@ -3,8 +3,8 @@ title: 'Configurar promoción de descuento porcentual para un SKU específico'
 id: 3rbh8ELSLu2IGCeQ6SImU0
 status: PUBLISHED
 createdAt: 2017-08-22T15:24:10.731Z
-updatedAt: 2023-03-31T21:00:56.560Z
-publishedAt: 2023-03-31T21:00:56.560Z
+updatedAt: 2024-11-27T12:06:17.717Z
+publishedAt: 2024-11-27T12:06:17.717Z
 firstPublishedAt: 2017-08-22T15:41:27.016Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -20,7 +20,7 @@ Para esa configuración, es necesario configurar una promoción del tipo Lleve m
 1. En el Admin VTEX, accede a *Promociones > Promociones*, o escribe *Promociones* en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el botón **Crear promoción**.
 3. Haga clic en la opción **Más por menos**.
-4. Rellene los campos conforme a la [documentación de la promoción](http://help.vtex.com/tutorial/como-criar-promocoes/ "documentação da promoção").
+4. Rellene los campos conforme a la [documentación de la promoción](/es/tutorial/leve-mais-por-menos--tutorials_325).
 5. En el campo **SKUs**, rellene con el SKU al que desea dar la promoción.
 6. En el campo **A cada _ produto(s)**, rellene con el valor **1**.
 7. En el campo **O cliente levará _ produtos**, rellene con el valor **1**.

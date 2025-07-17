@@ -18,7 +18,7 @@ announcementSynopsisES: 'Lanzamiento de una nueva herramienta de auditoría'
 
 Siempre en línea con las mejores prácticas de seguridad y transparencia para tu tienda, VTEX ha lanzado un nuevo recurso de auditoría: **Audit**. 
 
-![Screenshot for Audit UI for announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-10-21-transparencia-y-seguridad-con-el-nuevo-modulo-audit_1.png)
+![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/e5e64ab35e499176c8815260dd703e00/Audit_ES.png)
 
 A partir de ahora, los administradores pueden verificar las distintas operaciones que se han realizado en su tienda de forma sencilla y rápida. Es posible crear varios filtros para facilitar la búsqueda de eventos y aumentar la velocidad de los procesos de auditoría.
 
@@ -28,5 +28,5 @@ Debido a esta flexibilidad, Audit contiene la pestaña Guía, que muestra más e
 
 ## **Sepa más**
 
-* [Cómo encontrar eventos en Audit](https://help.vtex.com/es/tutorial/como-encontrar-eventos-en-audit)
-* [Eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)
+* [Cómo encontrar eventos en Audit](/es/tutorial/como-encontrar-eventos-en-audit)
+* [Eventos disponibles en Audit](/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)

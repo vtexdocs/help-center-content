@@ -1,5 +1,5 @@
 ---
-title: 'SKU removed from Amazon SC is not being disable in Amazon Portal'
+title: "SKU removed from Amazon SC is not being disable in Amazon Portal"
 id: 9yeLgMrhp9nSu9MtJ518G
 status: PUBLISHED
 createdAt: 2023-05-18T11:43:30.694Z

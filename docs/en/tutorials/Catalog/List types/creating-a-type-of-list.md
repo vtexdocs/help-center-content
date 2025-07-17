@@ -3,8 +3,8 @@ title: 'Creating a list type'
 id: tutorials_254
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:52.502Z
-updatedAt: 2023-03-29T19:44:52.284Z
-publishedAt: 2023-03-29T19:44:52.284Z
+updatedAt: 2025-05-15T17:58:10.792Z
+publishedAt: 2025-05-15T17:58:10.792Z
 firstPublishedAt: 2017-04-27T23:03:11.198Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: en
 legacySlug: creating-a-type-of-list
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>The <a href="https://help.vtex.com/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go">List</a> feature is exclusive to stores that use Legacy CMS Portal.</p>
+</div>
 
 Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 
@@ -26,7 +30,9 @@ Creating a type of list is configuring the lists to appear on the site. For exam
 
 After creating the types of list, clients can add their lists to the site.
 
->⚠️ It is not possible to delete a list once it has been created.
+<div class="alert alert-warning">
+  <p>It is not possible to delete a list once it has been created.</p>
+</div>
 
 ## Form fields
 
@@ -59,7 +65,7 @@ The store owner decides if a list will be related to an event. Once the type of 
 
 When **Have an event** is selected, the form offers other configuration options for the event, including all the deadlines for creating this type of list, as shown below.
 
-![eventos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/creating-a-type-of-list_1.png)
+![eventos.en](https://images.ctfassets.net/alneenqid6w5/2ThHmo4PQitWv6EJAoVIdF/7eb8e5c05fee152945b70b3844f63ac0/eventos.en.png)
 
 The events area must determine whether a list has a fixed date for the event. Wish lists and purchases lists do not require a fixed date. On the other hand, wedding lists or baby showers must take the date of the event into account, with all the products purchased being delivered in advance.
 
@@ -77,7 +83,7 @@ The following options are available:
 
 After creating the type of list, you will be directed to the screen showing the types of list already registered in the store. This screen provides the following information and functions:
 
-![listagem.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/creating-a-type-of-list_2.png)
+![listagem.en](https://images.ctfassets.net/alneenqid6w5/4vHN91gXTrDhXKKa5hEc42/2f28b377bbfcb2cc548b3ce80155037f/listagem.en.png)
 
 - **Export to Excel**: Allows data for list types to be exported to Excel;
 - **Version**: Identifies lists created in a previous version, with limited functions. The latest version is the “V2”;

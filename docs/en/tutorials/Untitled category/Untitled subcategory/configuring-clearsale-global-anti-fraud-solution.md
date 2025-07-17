@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 ClearSale Global is an anti-fraud solution, available __exclusively for the international market__. Through customer behavior analysis, the solution identifies vulnerabilities and prevents possible fraud in the transactions of your store.
 
->ℹ️ If you are in Brazil and would like to use ClearSale, VTEX offers integration with ClearSale V3, exclusive for Brazilian customers. Please refer to the tutorial [Configuring ClearSale V3 anti-fraud solution](https://help.vtex.com/en/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) to configure it.
+<div class="alert alert-info">
+If you are in Brazil and would like to use ClearSale, VTEX offers integration with ClearSale V3, exclusive for Brazilian customers. Please refer to the tutorial <a href="https://help.vtex.com/en/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete">Configuring ClearSale V3 anti-fraud solution</a> to configure it.
+  </div>
 
 To configure ClearSale Global, you will need to:
 
@@ -77,7 +79,7 @@ To configure ClearSale Global, you will need to:
 <br>  
   <ui>11. In the top right corner, click on <b>Publish</b>.</ui>
 
-![Fingerprint ClearSalve_Screen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/configuring-clearsale-global-anti-fraud-solution_1.png)
+![Fingerprint ClearSalve_Screen](https://images.ctfassets.net/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/030e58c5ff8495926031bead9fd13b0e/Fingerprint_ClearSalve_Screen.png)
 
 For more details about the code entered in Google Tag Manager, we recommend reading [this documentation](https://api.clearsale.com.br/docs/behavior-analytics) from ClearSale.
 
@@ -88,7 +90,7 @@ ClearSale Global will perform anti-fraud analysis of transactions if it is assoc
 1. Access the VTEX __Admin__.
 2. Access the __Payments__ module.
 3. Click on __Settings__.
-4. In the __Payment conditions__ tab, select an existing condition, or check out the tutorial [Configuring a payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) to create a new one.
+4. In the __Payment conditions__ tab, select an existing condition, or check out the tutorial [Configuring a payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) to create a new one.
 5. Make sure the payment condition is __Active__.
 6. After selecting or creating a new condition, enable the option __Use anti-fraud solution__.
 7. Select the option __ClearSale Global__.

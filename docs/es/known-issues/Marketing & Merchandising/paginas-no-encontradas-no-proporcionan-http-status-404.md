@@ -1,5 +1,5 @@
 ---
-title: 'Páginas no encontradas no proporcionan HTTP Status 404'
+title: "Páginas no encontradas no proporcionan HTTP Status 404"
 id: 45TCR3O8V2uyWcwmqYs4qS
 status: PUBLISHED
 createdAt: 2017-10-14T20:05:49.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: pages-not-found-do-not-provide-http-status-404
+slugEN: paginas-no-encontradas-no-proporcionan-http-status-404
 locale: es
 kiStatus: Backlog
 internalReference: 

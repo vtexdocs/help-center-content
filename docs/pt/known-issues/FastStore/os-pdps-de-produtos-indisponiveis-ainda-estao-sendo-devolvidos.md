@@ -1,5 +1,5 @@
 ---
-title: 'Os PDPs de produtos indisponíveis ainda estão sendo devolvidos'
+title: "Os PDPs de produtos indisponíveis ainda estão sendo devolvidos"
 id: 6Q2TOp3UPHuCXDpZceV1Dn
 status: PUBLISHED
 createdAt: 2024-05-31T14:43:14.505Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: unavailable-products-pdp-are-still-being-returned
+slugEN: os-pdps-de-produtos-indisponiveis-ainda-estao-sendo-devolvidos
 locale: pt
 kiStatus: Backlog
 internalReference: 1041920
@@ -18,7 +18,9 @@ internalReference: 1041920
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um produto não está disponível, seu PDP ainda pode ser devolvido.

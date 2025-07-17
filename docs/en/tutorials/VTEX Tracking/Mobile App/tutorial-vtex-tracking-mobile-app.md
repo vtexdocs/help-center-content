@@ -15,4 +15,4 @@ legacySlug: tutorial-vtex-tracking-mobile-app
 subcategoryId: 6pbaGm24tlXta7TKTtMc5l
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation.</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Items with assembly options are shown as unavailable for delivery'
+title: "Items with assembly options are shown as unavailable for delivery"
 id: uDN6ZTQgbLlZul7eLP5SQ
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:20.031Z

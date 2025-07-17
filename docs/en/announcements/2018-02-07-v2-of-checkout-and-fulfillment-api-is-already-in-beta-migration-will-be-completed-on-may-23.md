@@ -15,19 +15,21 @@ announcementImageID: ''
 announcementSynopsisEN: 'The V2 brings a lot of improvements in comparison with the previous version and removes some outdated routes and fields.'
 ---
 
->❗ The migration to V2 of Checkout and Fulfillment API was already completed on **05/23/2018**
+<div class="alert alert-danger">
+The migration to V2 of Checkout and Fulfillment API was already completed on <strong>05/23/2018</strong>
+</div>
 
->⚠️ The deadline changed from **05/21** to **05/23** (a two-day postponement) due to the need for additional tests.
+<div class="alert alert-warning">
+The deadline changed from <strong>05/21</strong> to <strong>05/23</strong> (a two-day postponement) due to the need for additional tests.
+</div>
 
 The second version of the Checkout and Fulfillment API is already available in beta. Starting __May 23__, all stores will be running it. This V2 brings a lot of improvements in comparison with the previous version and removes some outdated routes and fields.
 
->⚠️ **Atention**
->
-> 
-> We strongly recommend you to run tests to evaluate all impacts and adapt you web site's integrations and customizations before the deadline.
->
->  
-> So, when we complete the update to the API's new version, the process will run smoothly for your store.
+<div class="alert alert-warning">
+<strong>Atention</strong><br>
+We strongly recommend you to run tests to evaluate all impacts and adapt you web site's integrations and customizations before the deadline.<br> 
+So, when we complete the update to the API's new version, the process will run smoothly for your store.
+</div>
 
 Take a look at everything wich changes with the Checkout and Fulfillment new API (and what's in beta or in stable):
 

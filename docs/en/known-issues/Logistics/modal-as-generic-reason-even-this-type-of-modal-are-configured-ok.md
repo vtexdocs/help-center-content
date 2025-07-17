@@ -1,5 +1,5 @@
 ---
-title: 'Modal as Generic Reason even this type of Modal are configured OK'
+title: "Modal as Generic Reason even this type of Modal are configured OK"
 id: 2ftzXjtPZcPypFpsnZMcIK
 status: PUBLISHED
 createdAt: 2022-05-18T18:23:53.248Z

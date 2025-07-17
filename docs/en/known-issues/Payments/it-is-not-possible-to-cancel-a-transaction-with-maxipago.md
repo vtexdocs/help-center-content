@@ -1,11 +1,11 @@
 ---
-title: 'It is not possible to cancel a transaction with MaxiPago'
-id: 3L7ioEisXAhkk80uEVV1ld
-status: DRAFT
-createdAt: 2022-06-28T17:06:18.053Z
-updatedAt: 2022-06-28T17:06:18.053Z
-publishedAt: 
-firstPublishedAt: 
+title: "It is not possible to cancel a transaction with MaxiPago"
+id: 6HTbiKFtp2hTd080AeVk7O
+status: PUBLISHED
+createdAt: 2022-06-28T17:06:17.956Z
+updatedAt: 2023-05-23T17:38:06.349Z
+publishedAt: 2023-05-23T17:38:06.349Z
+firstPublishedAt: 2022-06-28T17:06:18.268Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo

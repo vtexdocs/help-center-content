@@ -1,5 +1,5 @@
 ---
-title: 'Components in a kit with the same price'
+title: "Components in a kit with the same price"
 id: 6TIDKJ6nEGUu3E5bzAea65
 status: PUBLISHED
 createdAt: 2024-02-26T19:53:43.754Z

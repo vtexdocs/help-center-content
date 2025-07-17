@@ -1,5 +1,5 @@
 ---
-title: 'Valores negativos em destinatários divididos'
+title: "Valores negativos em destinatários divididos"
 id: 7j3wwcjbTt1LFBD3TM9Bus
 status: PUBLISHED
 createdAt: 2022-03-03T18:40:21.910Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: negative-amounts-in-split-recipients
+slugEN: valores-negativos-em-destinatarios-divididos
 locale: pt
 kiStatus: Backlog
 internalReference: 388580
@@ -18,7 +18,9 @@ internalReference: 388580
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um cenário de mercado com pagamento dividido quando o mercado não tem comissão sobre a transação, arredondar qualquer valor de referência (buyTotal ou totalSellers) pode resultar em um valor negativo para o mercado.

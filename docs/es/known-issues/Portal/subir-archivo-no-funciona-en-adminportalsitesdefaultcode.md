@@ -1,5 +1,5 @@
 ---
-title: 'Subir archivo no funciona en admin/portal/#/sites/default/code'
+title: "Subir archivo no funciona en admin/portal/#/sites/default/code"
 id: 5pFAkaymcuOQMAqUDGPQZK
 status: PUBLISHED
 createdAt: 2023-09-12T13:37:36.429Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: upload-file-not-working-on-adminportalsitesdefaultcode
+slugEN: subir-archivo-no-funciona-en-adminportalsitesdefaultcode
 locale: es
 kiStatus: Backlog
 internalReference: 897956
@@ -18,7 +18,9 @@ internalReference: 897956
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar subir un nuevo fichero en admin/portal/#/sites/default/code no ocurre nada. Comprobando la consola en devTools podemos ver un mensaje de error:
@@ -33,7 +35,7 @@ Al intentar subir un nuevo fichero en admin/portal/#/sites/default/code no ocurr
 
 1. 1. Vaya a admin/portal/#/sites/default/code
 2. Vaya a Nuevo -> Subir Archivo -> seleccione el archivo que desea importar -> pulse crear
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Portal/subir-archivo-no-funciona-en-adminportalsitesdefaultcode_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
 3. Compruebe que no ocurre nada.
 
 

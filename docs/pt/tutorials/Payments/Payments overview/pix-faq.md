@@ -35,7 +35,7 @@ Caso o seu banco não apareça nas opções de "afiliação", na tela de integra
 
 ### Quais são os provedores de pagamento já disponíveis?
 
-Durante o procedimento de [configuração do PIX](https://help.vtex.com/pt/tutorial/setting-up-pix-as-a-payment-method--5sbNavMSJY4jyLmLKRHiOf#), na opção __Processar com a afiliação__, você poderá verificar os provedores disponíveis para processar pagamentos via PIX na VTEX.
+Durante o procedimento de [configuração do PIX](/pt/tutorial/setting-up-pix-as-a-payment-method--5sbNavMSJY4jyLmLKRHiOf#), na opção __Processar com a afiliação__, você poderá verificar os provedores disponíveis para processar pagamentos via PIX na VTEX.
 
 Caso o parceiro responsável pelo processamento dos pagamentos do seu ecommerce não esteja nessa lista, você pode contatá-lo diretamente e solicitar a integração com a VTEX via [Payment Provider Protocol](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-protocol).
 
@@ -46,7 +46,7 @@ Você pode conferir a documentação para integração de parceiros específica 
 Isso acontece porque o seu parceiro ainda não está integrado com a VTEX para processar pagamentos via Pix.
 
 ### Como posso configurar o Pix em meu e-commerce?
-Uma vez que o cliente tenha contactado seu parceiro de pagamentos e realizado corretamente a integração via Payment Provider Protocol, é possível configurar o Pix como meio de pagamento na sua loja via Admin. Para configurá-lo corretamente, [acesse o tutorial](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento).
+Uma vez que o cliente tenha contactado seu parceiro de pagamentos e realizado corretamente a integração via Payment Provider Protocol, é possível configurar o Pix como meio de pagamento na sua loja via Admin. Para configurá-lo corretamente, [acesse o tutorial](/pt/tutorial/configurar-pix-como-meio-de-pagamento).
 
 ### Já posso aceitar pagamentos com Pix usando o Mercado Pago?
 
@@ -64,13 +64,13 @@ A opção de pagar via Pix aparecerá na lista, junto com as outras opções de 
 
 Quando o usuário clicar no Pix, um QR Code que comporta as informações da compra será gerado. A partir daí, o usuário tem dez minutos para efetuar a transação com a sua instituição financeira de preferência.
 
-![Checkout_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/pix-faq_1.png)
+![Checkout_Pix](https://images.ctfassets.net/alneenqid6w5/8wd0gOpf8bsODhLIgZWSS/c57d465dca70e9362f3a3f9a485ae9ac/Checkout_Pix.png)
 
-![QRCode_Pix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/pix-faq_2.png)
+![QRCode_Pix](https://images.ctfassets.net/alneenqid6w5/5aHNT7dd5nIXellY6L7Y74/97796620983d212cc6f063860df6734f/QRCode_Pix.png)
 
 ### É possível dividir um pagamento entre Pix e outra forma de pagamento?
 
-Atualmente, na VTEX, é possível dividir um pagamento somente entre Pix e [Giftcard](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995).
+Atualmente, na VTEX, é possível dividir um pagamento somente entre Pix e [Giftcard](/pt/tutorial/gift-card--tutorials_995).
 
 ### Como a plataforma irá subir o nosso QR Code para o consumidor? Como funciona essa integração?
 

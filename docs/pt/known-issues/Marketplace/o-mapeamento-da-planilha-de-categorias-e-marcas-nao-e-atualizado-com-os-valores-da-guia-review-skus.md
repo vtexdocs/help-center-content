@@ -1,5 +1,5 @@
 ---
-title: 'O mapeamento da planilha de categorias e marcas não é atualizado com os valores da guia Review Skus'
+title: "O mapeamento da planilha de categorias e marcas não é atualizado com os valores da guia Review Skus"
 id: 50p9fJ63Loml6pWqcKxm9Y
 status: PUBLISHED
 createdAt: 2024-05-03T13:51:01.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: categories-and-brands-spreadsheet-mapping-do-not-update-with-values-from-review-skus-tab
+slugEN: o-mapeamento-da-planilha-de-categorias-e-marcas-nao-e-atualizado-com-os-valores-da-guia-review-skus
 locale: pt
 kiStatus: Backlog
 internalReference: 1026699
@@ -18,7 +18,9 @@ internalReference: 1026699
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um vendedor envia ao marketplace um sku com uma categoria ou marca que ainda não está mapeada na planilha, a planilha é atualizada com esse novo valor na 3ª coluna para ser mapeada.

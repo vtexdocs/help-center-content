@@ -1,5 +1,5 @@
 ---
-title: 'As cobranças não são abertas em subcontas'
+title: "As cobranças não são abertas em subcontas"
 id: Ly7eHGXdzg0aJLYF2c4eZ
 status: PUBLISHED
 createdAt: 2024-07-31T18:50:48.046Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-dont-open-on-subaccounts
+slugEN: as-cobrancas-nao-sao-abertas-em-subcontas
 locale: pt
 kiStatus: Backlog
 internalReference: 649948
@@ -18,7 +18,9 @@ internalReference: 649948
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar abrir uma coleção no novo módulo de coleções de uma subconta, é retornado o erro "Desculpe, ocorreu um erro desconhecido".

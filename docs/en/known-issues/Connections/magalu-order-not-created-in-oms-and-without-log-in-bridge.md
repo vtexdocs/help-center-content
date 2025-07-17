@@ -1,5 +1,5 @@
 ---
-title: '[Magalu] Order not created in OMS and without log in Bridge'
+title: "[Magalu] Order not created in OMS and without log in Bridge"
 id: 3PlXX7uTMjwhlxXOIgfnSG
 status: PUBLISHED
 createdAt: 2022-10-06T12:48:46.567Z

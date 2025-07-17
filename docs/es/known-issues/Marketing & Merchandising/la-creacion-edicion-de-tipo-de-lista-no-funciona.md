@@ -1,5 +1,5 @@
 ---
-title: 'La creación / edición de tipo de lista no funciona'
+title: "La creación / edición de tipo de lista no funciona"
 id: O7fwPOv0mymmwMiiauc6g
 status: PUBLISHED
 createdAt: 2017-08-21T15:37:40.240Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: creating-or-editing-list-type-does-not-work
+slugEN: la-creacion-edicion-de-tipo-de-lista-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -20,7 +20,7 @@ internalReference:
 
 En la pantalla de Tipos de lista, al hacer clic en "Ver detalles" o "Nuevo tipo de lista" no se puede crear / cambiar el tipo de lista.
 
-![Creación de tipo de lista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/la-creacion-edicion-de-tipo-de-lista-no-funciona_1.png)
+![Creación de tipo de lista](//images.contentful.com/alneenqid6w5/3dmnyQDRyMc8guqw8m8EOc/b6192d84ade5e8990990d170ac4614d2/1.png)
 
 ## Simulación
 

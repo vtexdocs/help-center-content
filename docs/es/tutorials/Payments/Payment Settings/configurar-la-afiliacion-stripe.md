@@ -17,7 +17,9 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 [Stripe](https://stripe.com/es) es una plataforma de pago que ofrece un sistema integrado enfocado en la recepción de pagos, transferencias, donaciones y cualquier tipo de transacción financiera habitual en los ecommerce y otras páginas web.
 
->⚠️ La integración de tu tienda con Stripe se realiza a través de **Application Key** y **Application Token**. Para obtener estos datos, primero debes [crear tu cuenta](https://dashboard.stripe.com/register" target="_blank) en la plataforma y. Cuando hayas terminado, accede a [esta documentación](https://stripe.com/docs/keys" target="_blank) de Stripe para obtener acceso a tu **clave publicable** y **clave secreta**. Estas claves son obligatorias para las configuraciones en la plataforma VTEX.
+<div class="alert alert-warning">
+La integración de tu tienda con Stripe se realiza a través de <strong>Application Key</strong> y <strong>Application Token</strong>. Para obtener estos datos, primero debes <a href="https://dashboard.stripe.com/register" target="_blank">crear tu cuenta</a> en la plataforma y. Cuando hayas terminado, accede a <a href="https://stripe.com/docs/keys" target="_blank">esta documentación</a> de Stripe para obtener acceso a tu <strong>clave publicable</strong> y <strong>clave secreta</strong>. Estas claves son obligatorias para las configuraciones en la plataforma VTEX.
+</div>
 
 Stripe admite pagos en más de 40 países. Se puede acceder a la lista de países disponibles en el [sitio web de Stripe](https://stripe.com/es/enterprise).
 
@@ -54,19 +56,18 @@ Después de realizar la configuración en el ambiente VTEX, también debes confi
 8. Haga clic en __Añadir eventos__.
 9. Haga clic en __Añadir punto de conexión__.
 
->ℹ️ Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera:
->
-> - Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago.
->
-> - Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de [certificaciones VTEX](https://vtex.com/es-es/compliance/certifications) y descargue el archivo disponible en la sección PCI.
->
-> Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.
+<div class="alert alert-info">
+  <p>Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera:</p>
+  <p>- Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago.</p>
+  <p>- Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de <a href="https://vtex.com/es-es/compliance/certifications">certificaciones VTEX</a> y descargue el archivo disponible en la sección PCI.</p>
+  <p>Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.</p>
+</div>
 
 ## Configuración de condición de pago
 
 Cuando hayas completado los pasos indicados, Stripe estará configurado en tu tienda. Así que cuando registres una condición de pago, esta estará disponible en el campo __Proceso con la afiliación__ (siempre y cuando el método de pago sea compatible con Stripe).
 
-Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455).
 
 ## Configurar Google Pay
 
@@ -85,7 +86,9 @@ Cuando hayas realizado estos pasos, Google Pay figurará en el *checkout* de la 
 
 El conector Stripe te permite añadir Apple Pay como método de pago en el checkout de tu tienda.
 
->⚠️ Apple Pay actualmente solo funciona en los sistemas operativos MacOs e IOS, y el navegador Safari. Para más información acceda a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
+<div class="alert alert-warning">
+Apple Pay actualmente solo funciona en los sistemas operativos MacOs e IOS, y el navegador Safari. Para más información acceda a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
+</div>
 
 Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos que se indican a continuación:
 
@@ -94,7 +97,7 @@ Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos
 3. Haga clic en __Apple Pay > Configurar__ y luego en __Agregar a nuevo dominio__.
 4. Introduce el dominio público del sitio web de tu tienda.
 5. Haga clic en __Descargar archivo de verificación__ para guardarlo en su dispositivo.
-6. Crear las credenciales [appkey e apptoken](https://help.vtex.com/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#).
+6. Crear las credenciales [appkey e apptoken](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#).
 7. Realice una llamada al endpoint para enviar el archivo de verificación previamente descargado, agregando las credenciales creadas y su dirección de dominio público en el encabezado (https://{{dominioPublicodoSite}}/well-known/raw/apple-developer-merchantid-domain-association).
 8. Haga clic en __Add__.
 9. Acceda al __Admin VTEX__.
@@ -107,7 +110,7 @@ Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos
 16. En el campo __Procesar con afiliación__, selecciona la opción Stripe.
 17. Si tiene un antifraude configurado en su tienda, puede habilitarlo para esa condicione de pago marcando la casilla __Utilizar antifraude__.
 18. Elige si los pagos será con o sin cuotas.
-19. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais).
+19. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais).
 20. Haga clic en __Guardar__.
 
 Cuando hayas realizado estos pasos, Apple Pay figurará en el checkout de la tienda como uno de los métodos de pago disponibles.

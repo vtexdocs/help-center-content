@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível simular fretes em carrinhos de recompra para endereços diferentes'
+title: "Não é possível simular fretes em carrinhos de recompra para endereços diferentes"
 id: 503wM1KC9nzDvPO4c2bQYM
 status: PUBLISHED
 createdAt: 2019-07-09T15:13:05.370Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: simulating-shipping-to-different-address-in-repurchase-carts-in-not-possible
+slugEN: nao-e-possivel-simular-fretes-em-carrinhos-de-recompra-para-enderecos-diferentes
 locale: pt
 kiStatus: Backlog
 internalReference: 

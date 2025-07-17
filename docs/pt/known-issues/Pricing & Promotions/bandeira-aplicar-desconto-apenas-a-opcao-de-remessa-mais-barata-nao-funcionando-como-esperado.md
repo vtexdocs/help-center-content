@@ -1,5 +1,5 @@
 ---
-title: "Bandeira 'Aplicar desconto apenas à opção de remessa mais barata' não funcionando como esperado"
+title: 'Bandeira "Aplicar desconto apenas à opção de remessa mais barata" não funcionando como esperado'
 id: 15irjH6rNkHhkBeRNn9RUI
 status: PUBLISHED
 createdAt: 2022-10-05T18:01:57.821Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected
+slugEN: bandeira-aplicar-desconto-apenas-a-opcao-de-remessa-mais-barata-nao-funcionando-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 672567
@@ -18,7 +18,9 @@ internalReference: 672567
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

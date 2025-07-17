@@ -1,5 +1,5 @@
 ---
-title: 'Catálogo Myvtex Iframe HTML Select Breaking para Cromo 108'
+title: "Catálogo Myvtex Iframe HTML Select Breaking para Cromo 108"
 id: 7kax7PbhijSluYJETvOe92
 status: PUBLISHED
 createdAt: 2022-12-06T18:58:36.011Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
+slugEN: catalogo-myvtex-iframe-html-select-breaking-para-cromo-108
 locale: pt
 kiStatus: Backlog
 internalReference: 711637
@@ -18,7 +18,9 @@ internalReference: 711637
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
@@ -26,7 +28,7 @@ Este é um efeito colateral de uma atualização cromada que foi agendada para u
 
 O efeito sentido sobre o administrador da VTEX é que os usuários do cromado v108 estão tendo dificuldade em selecionar a partir dos menus suspensos, por exemplo, na aba de configuração do SKU, ao tentar selecionar um valor no menu suspenso, nenhuma ação é gerada (toda a lista de valores possíveis deve ser mostrada):
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/catalogo-myvtex-iframe-html-select-breaking-para-cromo-108_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
 
 
 

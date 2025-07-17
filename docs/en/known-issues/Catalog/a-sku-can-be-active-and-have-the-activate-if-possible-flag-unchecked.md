@@ -1,5 +1,5 @@
 ---
-title: "A SKU can be active and have the 'activate if possible' flag unchecked"
+title: 'A SKU can be active and have the "activate if possible" flag unchecked'
 id: 5uXQ65flkoEbYeLkNSw4ig
 status: PUBLISHED
 createdAt: 2023-11-07T11:01:20.612Z

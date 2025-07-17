@@ -1,5 +1,5 @@
 ---
-title: 'El servicio fiscal utiliza los datos del documento en lugar del correo electrónico del cliente'
+title: "El servicio fiscal utiliza los datos del documento en lugar del correo electrónico del cliente"
 id: IOu1ZV40Q5yHjgbcS9C15
 status: PUBLISHED
 createdAt: 2022-03-23T17:50:15.754Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-service-uses-document-data-instead-of-customer-email
+slugEN: el-servicio-fiscal-utiliza-los-datos-del-documento-en-lugar-del-correo-electronico-del-cliente
 locale: es
 kiStatus: No Fix
 internalReference: 548671
@@ -18,7 +18,9 @@ internalReference: 548671
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

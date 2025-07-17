@@ -3,8 +3,8 @@ title: 'Banners'
 id: 72XytEoeqOAOiH05oVF0pH
 status: PUBLISHED
 createdAt: 2024-06-27T16:30:55.610Z
-updatedAt: 2024-06-27T16:31:52.889Z
-publishedAt: 2024-06-27T16:31:52.889Z
+updatedAt: 2025-04-14T15:01:20.064Z
+publishedAt: 2025-04-14T15:01:20.064Z
 firstPublishedAt: 2024-06-27T16:31:52.889Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,9 +19,7 @@ Banners es la funcionalidad de Intelligent Search responsable de mostrar banners
 
 Con diferentes perfiles, cada grupo de clientes de tu tienda tiene sus propios intereses. Tus campañas de marketing deben tener esto en cuenta para que sean efectivas y puedan aumentar las tasas de conversión en ventas. La flexibilidad de configuración de los banners permite crear campañas de marketing más creativas, trabajando la relación de tu marca con el público de forma individualizada.
 
-Cabe destacar que esta configuración puede realizarse tanto por términos como por filtros utilizados durante la búsqueda. Si un cliente busca "zapatillas de correr", puede filtrar el resultado de la búsqueda por diferentes atributos ("talla", "tipo" y "marca"). Seleccionando el filtro "nike", si hay un banner de esa marca en la tienda, se puede mostrar al cliente (filtro).
-
-A partir de la captura del contexto realizada por Intelligent Search, el sistema selecciona qué contenido previamente registrado es el más relevante para el escenario.
+Cabe destacar que esta configuración puede realizarse tanto por términos como por filtros utilizados durante la búsqueda. A partir de la captura del contexto realizada por Intelligent Search, el sistema selecciona qué contenido previamente registrado es el más relevante para el escenario.
 
 Por ejemplo, el cliente busca "zapatilla de correr" y, en el resultado de la búsqueda, puede filtrar por varios atributos ("talla", "tipo" y "marca"). Al seleccionar el filtro "Nike", si tiene una campaña de la marca en la tienda, esta se puede mostrar al cliente (filtro). El cliente también puede ser dirigido a una promoción más específica de zapatilla de correr Nike (término y filtro) si se ha creado una campaña y está relacionada con el banner.
 
@@ -34,7 +32,7 @@ En VTEX Admin, la página **Storefront** > **Banners** muestra la lista completa
 * [Editar banner](#editar-banner)
 * [Eliminar banner](#eliminar-banner) 
 
-![banners-intro-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Banners/banners_1.png)
+![banners-intro-es](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/eab33921ebea3c1b09cf74f57f0701aa/image.png)
 
 La página contiene la siguiente información:
 
@@ -49,7 +47,7 @@ La página contiene la siguiente información:
 
 ## Crear banner
 
-Para configurar un banner, haga clic en `Nuevo`. Más información sobre toda la información necesaria para crear un Banner en [Configurar Banners](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+Para configurar un banner, haga clic en `Nuevo`. Más información sobre toda la información necesaria para crear un Banner en [Configurar Banners](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
 
 ## Buscar banner
 

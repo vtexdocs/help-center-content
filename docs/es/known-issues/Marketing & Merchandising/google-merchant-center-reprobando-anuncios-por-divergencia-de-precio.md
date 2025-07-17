@@ -1,5 +1,5 @@
 ---
-title: ' Google Merchant Center reprobando anuncios por divergencia de precio'
+title: "Google Merchant Center reprobando anuncios por divergencia de precio"
 id: PzvIhzUPXUOCNKWy9YGGC
 status: PUBLISHED
 createdAt: 2019-08-13T21:12:20.480Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: google-merchant-center-is-denying-ads-due-to-price-divergence
+slugEN: google-merchant-center-reprobando-anuncios-por-divergencia-de-precio
 locale: es
 kiStatus: Fixed
 internalReference: 

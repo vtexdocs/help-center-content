@@ -1,5 +1,5 @@
 ---
-title: 'Some Specs are not displayed in Admin but are visible via API'
+title: "Some Specs are not displayed in Admin but are visible via API"
 id: 4nZgiUms8dkC8Y1LrBUHQ3
 status: PUBLISHED
 createdAt: 2022-04-14T13:26:50.927Z

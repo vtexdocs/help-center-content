@@ -1,5 +1,5 @@
 ---
-title: '[Shopee] Error al crear variaciones de producto'
+title: "[Shopee] Error al crear variaciones de producto"
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: shopee-failed-to-create-product-variations
+slugEN: shopee-error-al-crear-variaciones-de-producto
 locale: es
 kiStatus: No Fix
 internalReference: 685160
@@ -18,7 +18,9 @@ internalReference: 685160
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

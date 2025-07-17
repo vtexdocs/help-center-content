@@ -31,7 +31,7 @@ This improvement allows sales associates to find products beyond the store's inv
 
 - **Optimization for slow connections:** By leveraging browser caching, the search will return new information only when necessary, guaranteeing a fast response even in scenarios with slow internet connections.
 
-![Mobile - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024-05-03-improvements-to-unified-search-in-vtex-sales-app_1.gif)
+![Mobile - EN](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/13a9e307f44564906b210cc72a38c436/mobile__1_.gif)
 
 ## Why did we make this change?
 
@@ -39,5 +39,5 @@ This change is meant to improve the browsing and product search experience of sa
 
 ## What needs to be done?
 
-No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
 

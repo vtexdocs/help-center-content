@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda inteligente no captura los eventos de venta para FastStore'
+title: "La búsqueda inteligente no captura los eventos de venta para FastStore"
 id: 4sT3tm37DP6E6jWzYNHJQe
 status: PUBLISHED
 createdAt: 2024-06-05T22:21:23.343Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-not-capturing-sales-events-for-faststore
+slugEN: la-busqueda-inteligente-no-captura-los-eventos-de-venta-para-faststore
 locale: es
 kiStatus: Fixed
 internalReference: 1045163
@@ -18,7 +18,9 @@ internalReference: 1045163
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La Búsqueda Inteligente no está capturando los eventos de pedidos finalizados para las tiendas que utilizan FastStore. Estos eventos componen los criterios de relevancia y la clasificación de productos por ventas.

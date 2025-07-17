@@ -1,5 +1,5 @@
 ---
-title: '[Amazon] Código de error 13013 al enviar un producto al mercado de Amazon'
+title: "[Amazon] Código de error 13013 al enviar un producto al mercado de Amazon"
 id: 5bmPQ4Jzi8HvoDoTaDFv9b
 status: PUBLISHED
 createdAt: 2023-10-27T11:24:52.357Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-error-code-13013-while-sending-product-to-amazon-marketplace
+slugEN: amazon-codigo-de-error-13013-al-enviar-un-producto-al-mercado-de-amazon
 locale: es
 kiStatus: Fixed
 internalReference: 926656
@@ -18,7 +18,9 @@ internalReference: 926656
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

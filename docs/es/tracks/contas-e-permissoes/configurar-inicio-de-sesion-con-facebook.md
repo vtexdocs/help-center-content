@@ -19,7 +19,7 @@ Para esto, se ofrecen algunas alternativas, entre estas **Facebook**.
 
 ## Registrar Client Id y Client Secret para iniciar sesión con Facebook  
 
-Antes de la configuración en VTEX, es necesario configurar el registro en Facebook. Para esto, siga nuestras instrucciones en el [artículo sobre registro de client id y client secret para iniciar sesión en Facebook](https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook?locale=es). 
+Antes de la configuración en VTEX, es necesario configurar el registro en Facebook. Para esto, siga nuestras instrucciones en el [artículo sobre registro de client id y client secret para iniciar sesión en Facebook](/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook?locale=es). 
 
 ## Configurar inicio de sesión en VTEX
 
@@ -28,7 +28,7 @@ Después de la configuración en Facebook, es necesario configurar esta opción 
 1.  En el módulo de **Configuración de la cuenta**, acceda a la pestaña de **Autenticación**.
 2.  Haga clic en el botón **Editar** correspondiente a Facebook.
 3.  Rellene los campos con el _Client Id_ y _Client Secret_ registrados en **Facebook**.
-    ![Facebook OAuth ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/contas-e-permissoes/configurar-inicio-de-sesion-con-facebook_1.png)
+    ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
 4.  Haga clic en el botón **Salvar**. 
 5.  Para validar si el inicio de sesión se hizo correctamente, acceda al  front-end de su tienda y haga clic en **Login**.
 6. Aparecerán las opciones de inicio de sesión configuradas. Haga clic en la opción **Facebook** y compruebe si se muestra el nombre de su tienda.

@@ -1,5 +1,5 @@
 ---
-title: 'Error al importar/exportar una hoja de cálculo grande en el nuevo administrador de cobros'
+title: "Error al importar/exportar una hoja de cálculo grande en el nuevo administrador de cobros"
 id: 6xbBVR2Z7CCpIC0iCAKHgN
 status: PUBLISHED
 createdAt: 2023-02-16T19:04:08.298Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: large-importexport-spreadsheet-error-on-new-collections-admin
+slugEN: error-al-importarexportar-una-hoja-de-calculo-grande-en-el-nuevo-administrador-de-cobros
 locale: es
 kiStatus: Fixed
 internalReference: 362017
@@ -18,7 +18,9 @@ internalReference: 362017
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, subir artículos al nuevo módulo de colecciones con una lista de más de 1000 SKUs es imposible, ya que el proceso se agota. Devuelve una respuesta de error inespecífica

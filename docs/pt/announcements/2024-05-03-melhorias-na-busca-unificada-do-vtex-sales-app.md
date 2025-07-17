@@ -32,7 +32,7 @@ Com a nova melhoria, você encontrará mudanças que visam melhorar sua experiê
 
 - **Otimização para conexões lentas:** com o uso de caches do navegador, a busca retornará novas informações apenas quando necessário, garantindo uma resposta rápida mesmo em cenários de conexão lenta.
 
-![Mobile - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-05-03-melhorias-na-busca-unificada-do-vtex-sales-app_1.gif)
+![Mobile - PT](https://images.ctfassets.net/alneenqid6w5/2wdRQcrdDW1OKapj13T6Lq/9d6c3d38f68b7ddbca623b0cf4b2067a/mobile__1_.gif)
 
 ## Por que fizemos essa mudança?
 
@@ -40,4 +40,4 @@ Desenvolvemos esta melhoria principalmente para os vendedores de lojas físicas,
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. A funcionalidade será aplicada automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App. Para mais informações, acesse o artigo [Busca unificada no VTEX Sales App](https://help.vtex.com/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+Nenhuma ação é necessária. A funcionalidade será aplicada automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App. Para mais informações, acesse o artigo [Busca unificada no VTEX Sales App](/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 

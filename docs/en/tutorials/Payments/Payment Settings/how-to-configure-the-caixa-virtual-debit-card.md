@@ -15,4 +15,4 @@ legacySlug: how-to-configure-the-caixa-virtual-debit-card
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Only applicable to the Brazilian market.
+<div class="alert alert-warning" role="alert">Only applicable to the Brazilian market.</div>

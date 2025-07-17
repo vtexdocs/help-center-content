@@ -3,8 +3,8 @@ title: 'Comportamiento de búsqueda'
 id: B9o3JbV6utAinBJ1ETujs
 status: PUBLISHED
 createdAt: 2024-06-27T17:30:43.356Z
-updatedAt: 2024-10-03T23:11:03.742Z
-publishedAt: 2024-10-03T23:11:03.742Z
+updatedAt: 2025-06-24T19:21:01.124Z
+publishedAt: 2025-06-24T19:21:01.124Z
 firstPublishedAt: 2024-06-27T17:33:21.153Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -49,7 +49,9 @@ Ejemplo: un cliente desea buscar el término `bola`. Siguiendo la configuración
 * `bora` (cambiar 1 carácter)
 * `obla` (intercambiar 2 caracteres que estén uno al lado del otro)
 
->ℹ️ El *fuzzy* no considera los espacios en blanco. Esto quiere decir que, por ejemplo, `base ball` no se corregiría a `baseball`. Recomendamos usar [sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) en estos casos.
+<div class ="alert alert-info">
+	<p>El <em>fuzzy</em> no considera los espacios en blanco. Esto quiere decir que, por ejemplo, <code>base ball</code> no se corregiría a <code>baseball</code>. Recomendamos usar <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">sinónimos</a> en estos casos.</p>
+</div>
 
 ### Resultado mínimo
 
@@ -60,7 +62,9 @@ En las búsquedas que contienen varios términos, se aplica la siguiente lógica
 Si no se devuelve la cantidad mínima de resultados con la autocorrección inicial, la búsqueda comienza a incluir resultados más amplios que contengan cualquiera de los términos buscados. Por ejemplo, cuando un usuario busca “zapatilla nike” pero el catálogo no tiene ningún producto con ese nombre, la búsqueda puede mostrar como resultado un producto que contenga solo “zapatilla” en el nombre.
 Si la búsqueda más amplia no devuelve la cantidad de resultados mínima, se repetirá la autocorrección nuevamente en cada uno de los términos.
 
->⚠️ Las búsquedas que contienen varios términos son más eficientes cuando el cliente ordena los resultados por relevancia, ya que pueden devolver un número mayor de resultados más allá del contexto de búsqueda inicial. En el orden por relevancia también pueden priorizarse ítems relacionados con cada término. Por otro lado, cuando se aplican otros criterios, como precio o más vendidos, el orden de los resultados depende de los valores numéricos y no necesariamente prioriza ítems que contienen más palabras.
+<div class= "alert alert-warning">
+<p>Las búsquedas que contienen varios términos son más eficientes cuando el cliente ordena los resultados por relevancia, ya que pueden devolver un número mayor de resultados más allá del contexto de búsqueda inicial. En el orden por relevancia también pueden priorizarse ítems relacionados con cada término. Por otro lado, cuando se aplican otros criterios, como precio o más vendidos, el orden de los resultados depende de los valores numéricos y no necesariamente prioriza ítems que contienen más palabras.</p>
+</div>
 
 ### Límite de paginación
 
@@ -76,15 +80,17 @@ Determina la información de producto que se puede buscar. A partir de la config
 
 | Información | Configuración |
 | - | - |
-| <ul><li>Nombre del producto</li><li>Marca</li><li>ID de producto (`ProductID`)</li><li>Código de referencia del producto (`ProductRefID`)</li><li>ID del SKU (`SKUID`)</li><li>Código de referencia del SKU (`SKURefID`)</li><li>EAN</li></ul> | Se pueden realizar búsquedas en estos datos de forma predeterminada en VTEX Intelligent Search. Para remover alguno de ellos, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support). |
-| <ul><li>Especificaciones de producto</li><li>Especificaciones de SKU</li></ul> | Para incluir las especificaciones deseadas como campos que se pueden buscar, debes configurar la opción __Especificaciones buscables__ en el Admin VTEX a través de __Configuración de la tienda__ > __Intelligent Search__ > __Configuración de la búsqueda__. <br /><br /> Por ejemplo, si una camisa no tiene el color en el nombre del producto o del SKU, de forma predeterminada, Intelligent Search no identifica ese atributo cuando se busque “camisa azul” y devolverá como resultado camisas de diferentes colores. Sin embargo, si la especificación de color se configura de manera que se pueden realizar búsquedas sobre la especificación de color, la búsqueda podrá devolver camisas azules en las primeras posiciones. <br /><br /> Para más detalles sobre la definición de especificaciones buscables, accede a la guía [Configuración de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracion-general). Puedes ver más información sobre especificaciones en [Especificaciones de producto y SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
-| <ul><li>Código del fabricante (`ManufactureID`)</li><li>Departamiento</li><li>Categoría</li><li>Subcategoría</li></ul> | Ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support) para configurar la realización de búsquedas en estes campos. |
+| <ul><li>Nombre del producto</li><li>Marca</li><li>ID de producto (`ProductID`)</li><li>Código de referencia del producto (`ProductRefID`)</li><li>ID del SKU (`SKUID`)</li><li>Código de referencia del SKU (`SKURefID`)</li><li>EAN</li></ul> | Se pueden realizar búsquedas en estos datos de forma predeterminada en VTEX Intelligent Search. Para remover alguno de ellos, ponte en contacto con nuestro [Soporte](/es/support). |
+| <ul><li>Especificaciones de producto</li><li>Especificaciones de SKU</li><li>Departamiento</li><li>Categoría</li><li>Subcategoría</li></ul> | Para incluir las especificaciones deseadas como campos que se pueden buscar, debes configurar la opción __Especificaciones buscables__ en el Admin VTEX a través de __Configuración de la tienda__ > __Intelligent Search__ > __Configuración de la búsqueda__. <br /><br /> Por ejemplo, si una camisa no tiene el color en el nombre del producto o del SKU, de forma predeterminada, Intelligent Search no identifica ese atributo cuando se busque “camisa azul” y devolverá como resultado camisas de diferentes colores. Sin embargo, si la especificación de color se configura de manera que se pueden realizar búsquedas sobre la especificación de color, la búsqueda podrá devolver camisas azules en las primeras posiciones. <br /><br /> Para más detalles sobre la definición de especificaciones buscables, accede a la guía [Configuración de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#configuracion-general). Puedes ver más información sobre especificaciones en [Especificaciones de producto y SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). |
+| Código del fabricante (`ManufactureID`) | Ponte en contacto con nuestro [Soporte](/es/support) para configurar la realización de búsquedas en estes campos. |
 
 Ejemplo: se configuró que la especificación “color” se puede buscar y el producto está registrado con el nombre “Zapatilla Nike Total 90” y con el color “negro”. Si un cliente busca “Zapatilla Negra”, la herramienta devolverá productos que tengan el término “zapatilla” y el color “negra” en la parte superior del resultado de búsqueda.
 
 Se puede encontrar un producto realizando una búsqueda por caracteres especiales (`-` y `/`).
 
->⚠️ La selección de los campos de búsqueda afecta las posibilidades de las [reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo `SKUID` para búsquedas, no se podrá promover un `ProductID` o un `ProductRefID` utilizando reglas de merchandising.
+<div class="alert alert-warning">
+	<p>La selección de los campos de búsqueda afecta las posibilidades de las <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">reglas de merchandising</a>, ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo <code>SKUID</code> para búsquedas, no se podrá promover un <code>ProductID</code> o un <code>ProductRefID</code> utilizando reglas de merchandising.</p>
+</div>
 
 ### Definición y orden de los campos de filtro
 
@@ -96,9 +102,11 @@ La relevancia es la funcionalidad que define el orden de los productos en el res
 
 Ejemplo: un administrador de la tienda configuró que el criterio “promoción” tiene una mayor relevancia que otros criterios. Así, cuando un cliente busca “camiseta” en la búsqueda interna de la tienda, las camisetas incluidas en las promociones tienden a aparecer en primer lugar en los resultados, dependiendo del peso asignado a los demás criterios.
 
-Para obtener más información sobre cómo personalizar el orden de los resultados de acuerdo con las necesidades de tu tienda, consulta el artículo [Configuración de relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Para obtener más información sobre cómo personalizar el orden de los resultados de acuerdo con las necesidades de tu tienda, consulta el artículo [Configuración de relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
->ℹ️ Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando `map=productClusterIds`, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar `productClusterNames`, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.
+<div class="alert alert-info">
+	<p>Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando <code>map=productClusterIds</code>, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar <code>productClusterNames</code>, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.</p>
+</div>
 
 ## Formas alternativas de búsqueda
 

@@ -1,5 +1,5 @@
 ---
-title: 'Produtos similares UI brokes with too many products'
+title: "Produtos similares UI brokes with too many products"
 id: 1gaBTJ1VlwLkoBb1636qoH
 status: PUBLISHED
 createdAt: 2023-07-25T15:53:49.976Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: similar-products-ui-brokes-with-too-many-products
+slugEN: produtos-similares-ui-brokes-with-too-many-products
 locale: pt
 kiStatus: Backlog
 internalReference: 868425
@@ -18,7 +18,9 @@ internalReference: 868425
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

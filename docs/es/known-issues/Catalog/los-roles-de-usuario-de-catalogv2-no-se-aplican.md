@@ -1,5 +1,5 @@
 ---
-title: 'Los roles de usuario de CatalogV2 no se aplican'
+title: "Los roles de usuario de CatalogV2 no se aplican"
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalogv2-user-roles-not-applying
+slugEN: los-roles-de-usuario-de-catalogv2-no-se-aplican
 locale: es
 kiStatus: No Fix
 internalReference: 489297
@@ -18,7 +18,9 @@ internalReference: 489297
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Actualmente, la interfaz de usuario de la aplicación CatalogV2 no aplica correctamente los permisos de control de acceso cuando un usuario utiliza la interfaz para crear, leer o actualizar productos.
 
@@ -30,7 +32,7 @@ Actualmente, la interfaz de usuario de la aplicación CatalogV2 no aplica correc
 
 2) Establezca un rol de usuario de sólo lectura
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-roles-de-usuario-de-catalogv2-no-se-aplican_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/NpEBOSahA9ogF72lsW9kYRjyH/?name=inline441836406.png)
 
 3) Con estas reglas establecidas, inicie la sesión con el usuario relacionado
 

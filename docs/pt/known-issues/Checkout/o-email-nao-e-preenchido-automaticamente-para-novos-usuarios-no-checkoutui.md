@@ -1,5 +1,5 @@
 ---
-title: 'O e-mail não é preenchido automaticamente para novos usuários no checkout-ui'
+title: "O e-mail não é preenchido automaticamente para novos usuários no checkout-ui"
 id: 2twqCnmbnrXwP04HOwaty2
 status: PUBLISHED
 createdAt: 2023-08-25T15:27:48.210Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: email-not-autofilling-for-new-users-on-checkoutui
+slugEN: o-email-nao-e-preenchido-automaticamente-para-novos-usuarios-no-checkoutui
 locale: pt
 kiStatus: Backlog
 internalReference: 887949
@@ -18,7 +18,9 @@ internalReference: 887949
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um novo usuário insere um novo e-mail na etapa de e-mail e prossegue para a próxima página, no componente de dados do cliente, o e-mail não é preenchido automaticamente.

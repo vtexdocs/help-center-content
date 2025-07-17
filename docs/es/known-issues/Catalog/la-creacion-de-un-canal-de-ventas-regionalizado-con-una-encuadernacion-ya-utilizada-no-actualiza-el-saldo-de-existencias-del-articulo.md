@@ -1,5 +1,5 @@
 ---
-title: 'La creación de un canal de ventas regionalizado con una encuadernación ya utilizada no actualiza el saldo de existencias del artículo.'
+title: "La creación de un canal de ventas regionalizado con una encuadernación ya utilizada no actualiza el saldo de existencias del artículo."
 id: 7CqZPslfGY8mTmBLuWe5SQ
 status: PUBLISHED
 createdAt: 2024-03-22T19:39:26.469Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: creating-a-regionalized-sales-channel-with-an-already-used-binding-does-not-update-the-items-stockbalance
+slugEN: la-creacion-de-un-canal-de-ventas-regionalizado-con-una-encuadernacion-ya-utilizada-no-actualiza-el-saldo-de-existencias-del-articulo
 locale: es
 kiStatus: No Fix
 internalReference: 1005112
@@ -18,7 +18,9 @@ internalReference: 1005112
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las cuentas regionalizadas el sistema de índices filtra por los canales de venta regionalizados el stockbalance que debe aparecer, para no mostrar vinculaciones de ventas que no están regionalizadas.

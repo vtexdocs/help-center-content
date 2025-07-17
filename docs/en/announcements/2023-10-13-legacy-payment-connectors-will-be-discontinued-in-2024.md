@@ -15,19 +15,23 @@ announcementImageID: ''
 announcementSynopsisEN: 'In 2024, VTEX will discontinue legacy payment connectors, that do not use the Payment Provider Protocol.'
 ---
 
-To integrate payment methods to the VTEX platform, payment providers can create payment connectors using the [Payment Provider Protocol](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). However, several legacy connectors are using older versions of our payment integration architecture, which are less stable and less performant.
+To integrate payment methods to the VTEX platform, payment providers can create payment connectors using the [Payment Provider Protocol](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). However, several legacy connectors are using older versions of our payment integration architecture, which are less stable and less performant.
 
->⚠️ **Update (03/15/2024): **[List of connectors available for migration](https://help.vtex.com/en/announcements/discontinuation-of-legacy-payment-connectors--11SHyRwcAr4fs46K7PccOr).
+<div class="alert alert-warning">
+<b>Update (03/15/2024): </b><a href="https://help.vtex.com/en/announcements/discontinuation-of-legacy-payment-connectors--11SHyRwcAr4fs46K7PccOr">List of connectors available for migration</a>.
+</div>
 
 ## What has changed?
 
->❗ These changes will not affect Black Friday 2023. They will only be implemented in the first quarter of 2024.
+<div class="alert alert-danger">
+These changes will not affect Black Friday 2023. They will only be implemented in the first quarter of 2024.
+</div>
 
 VTEX is initiating the discontinuation of these legacy connectors, which will happen gradually:
 
 - **January 31, 2024** - Blocking the creation of new gateway affiliations using legacy payment connectors. As of this date, VTEX stores will no longer be able to set up connections using the connectors that will be discontinued. All payment rules already configured will continue to operate as usual without affecting transactions.
-- **February 10, 2024** - Suggested deadline for submitting new connectors for approval. If partner companies want to develop new connectors using the [PPP](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) to replace legacy connectors, we suggest submitting them for approval by this date. By doing so, VTEX stores will have a few weeks to reconfigure their payment connections before discontinuation. This date is also intended to guarantee the SLA of the [payment connector approval process on the VTEX platform](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
-- **March 31, 2024** - Permanent discontinuation of connectors that do not use the [PPP](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). From this date, VTEX will block all transactions from legacy payment connectors.
+- **February 10, 2024** - Suggested deadline for submitting new connectors for approval. If partner companies want to develop new connectors using the [PPP](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) to replace legacy connectors, we suggest submitting them for approval by this date. By doing so, VTEX stores will have a few weeks to reconfigure their payment connections before discontinuation. This date is also intended to guarantee the SLA of the [payment connector approval process on the VTEX platform](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
+- **March 31, 2024** - Permanent discontinuation of connectors that do not use the [PPP](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). From this date, VTEX will block all transactions from legacy payment connectors.
 
 ### List of legacy payment connectors
 
@@ -95,9 +99,9 @@ See the list of all the connectors that will be discontinued:
 
 ## Why we are making this change?
 
-Connectors using the [PPP](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) have higher authorization rates than legacy connectors. Therefore, migrating to new connectors tends to boost VTEX stores' sales.
+Connectors using the [PPP](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) have higher authorization rates than legacy connectors. Therefore, migrating to new connectors tends to boost VTEX stores' sales.
 
-Furthermore, many legacy connectors are outdated in terms of technology. Migrating to connectors using the [PPP](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) ensures that VTEX stores will be using more modern and stable technologies offered by VTEX.
+Furthermore, many legacy connectors are outdated in terms of technology. Migrating to connectors using the [PPP](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) ensures that VTEX stores will be using more modern and stable technologies offered by VTEX.
 
 ## What needs to be done?
 
@@ -105,11 +109,13 @@ The actions required from this change depend on your context in the VTEX ecosyst
 
 ### Legacy payment connector providers
 
-If you are a payment provider managing one or more [connectors being discontinued](#list-of-legacy-payment-connectors), you must develop a new connector using the [Payment Provider Protocol](https://help.vtex.com/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Otherwise, you will not be able to process transactions as of the discontinuation date mentioned above.
+If you are a payment provider managing one or more [connectors being discontinued](#list-of-legacy-payment-connectors), you must develop a new connector using the [Payment Provider Protocol](/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Otherwise, you will not be able to process transactions as of the discontinuation date mentioned above.
 
 In this case, we recommend that you submit your new connector for approval by February 10, 2024, so that stores have time to reconfigure their payment connections before discontinuation. Learn more about the [approval process for new payment connectors](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
 
->❗ VTEX cannot guarantee that your new payment connector will be available to VTEX merchants before the official discontinuation if you submit it for approval after this date.
+<div class="alert alert-danger">
+VTEX cannot guarantee that your new payment connector will be available to VTEX merchants before the official discontinuation if you submit it for approval after this date.
+</div>
 
 If you have any questions about this process or would like to align joint communication with merchants, please contact your VTEX Partner Manager.
 

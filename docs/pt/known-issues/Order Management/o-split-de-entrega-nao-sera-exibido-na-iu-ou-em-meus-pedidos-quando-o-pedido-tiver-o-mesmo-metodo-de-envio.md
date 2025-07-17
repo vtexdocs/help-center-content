@@ -1,5 +1,5 @@
 ---
-title: "O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo 'Método de Envio'."
+title: 'O Split de Entrega não será exibido na IU ou em Meus Pedidos, quando o pedido tiver o mesmo "Método de Envio".'
 id: 2VnPyguau8KjpWx09C2vOW
 status: PUBLISHED
 createdAt: 2022-03-15T20:24:32.693Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method
+slugEN: o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio
 locale: pt
 kiStatus: Backlog
 internalReference: 495352
@@ -18,7 +18,9 @@ internalReference: 495352
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A sugestão do pacote dividido não está funcionando corretamente, quando você termina a compra a IU sugere os pacotes divididos em casos de docas diferentes ou tamanhos diferentes e estratégias de embarque diferentes.
@@ -38,15 +40,15 @@ Dois itens cada um com um "courierId".
 
 ItemIndex:0
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order%20Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BV7Mk1lkB4bfbDUL60PuOxVGw/?name=image.png)
 
 
 IntemIndex :1
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order%20Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4PaI0LrZEb4ICKus2GFzxvsul/?name=image.png)
 
 A UI sugere isto como um pacote único:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Order%20Management/o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1LIKdI2MhhOGmVfr4xMxSSL29/?name=image.png)
 
 
 

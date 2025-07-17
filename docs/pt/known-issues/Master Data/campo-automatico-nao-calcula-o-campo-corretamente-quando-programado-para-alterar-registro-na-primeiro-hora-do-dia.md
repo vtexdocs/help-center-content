@@ -1,5 +1,5 @@
 ---
-title: 'Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia '
+title: "Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia"
 id: 6DieNCI6paEUeg06cKsCYI
 status: PUBLISHED
 createdAt: 2018-12-17T18:37:45.246Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day
+slugEN: campo-automatico-nao-calcula-o-campo-corretamente-quando-programado-para-alterar-registro-na-primeiro-hora-do-dia
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -18,7 +18,7 @@ internalReference:
 
 ## Sumário
 
-O Campo automático (campo calculado) funciona corretamente quando  "Recalcular esse campo:" é setado para "somente quando inserir registro", mas para de funcionar quando é programado para recalcular "na primeira hora..." e suas variantes.![inline1511102536](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Master%20Data/campo-automatico-nao-calcula-o-campo-corretamente-quando-programado-para-alterar-registro-na-primeiro-hora-do-dia_1.png)
+O Campo automático (campo calculado) funciona corretamente quando  "Recalcular esse campo:" é setado para "somente quando inserir registro", mas para de funcionar quando é programado para recalcular "na primeira hora..." e suas variantes.![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulação
 

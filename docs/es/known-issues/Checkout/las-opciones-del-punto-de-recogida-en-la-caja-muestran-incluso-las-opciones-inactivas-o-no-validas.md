@@ -1,5 +1,5 @@
 ---
-title: 'Las opciones del punto de recogida en la caja muestran incluso las opciones inactivas o no válidas'
+title: "Las opciones del punto de recogida en la caja muestran incluso las opciones inactivas o no válidas"
 id: 4LF45BWQxDh6r7Bk7chu4P
 status: PUBLISHED
 createdAt: 2022-05-31T18:07:23.568Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-options-in-the-checkout-shows-even-inactive-or-invalid-options
+slugEN: las-opciones-del-punto-de-recogida-en-la-caja-muestran-incluso-las-opciones-inactivas-o-no-validas
 locale: es
 kiStatus: Backlog
 internalReference: 328464
@@ -18,7 +18,9 @@ internalReference: 328464
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El modal de puntos de recogida, desde el checkout, muestra en azul las opciones válidas como SLA calculadas para el carrito y en gris otras opciones que no estaban calculadas previamente como SLA, para que el comprador pueda conocer estas opciones e incluso comprobar su disponibilidad bajo demanda. Estas opciones provienen de la API `/api/checkout/pub/pickup-points` (que no es más que un proxy al servicio de Logística), que listará todos los puntos de recogida de la tienda.

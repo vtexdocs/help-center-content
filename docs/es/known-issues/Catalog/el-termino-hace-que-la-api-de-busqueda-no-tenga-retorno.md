@@ -1,5 +1,5 @@
 ---
-title: 'El término hace que la API de búsqueda no tenga retorno'
+title: "El término hace que la API de búsqueda no tenga retorno"
 id: 2ZmZlhMUaIEmbjLhXiDngm
 status: PUBLISHED
 createdAt: 2022-05-02T16:20:29.941Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: term-makes-search-api-have-no-return
+slugEN: el-termino-hace-que-la-api-de-busqueda-no-tenga-retorno
 locale: es
 kiStatus: Backlog
 internalReference: 570542
@@ -18,7 +18,9 @@ internalReference: 570542
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas palabras son ignoradas por la búsqueda, en el caso de "é", el término debe ser convertido en "e" y luego ignorado por la búsqueda. Pero una búsqueda con ese término devolverá una búsqueda vacía.

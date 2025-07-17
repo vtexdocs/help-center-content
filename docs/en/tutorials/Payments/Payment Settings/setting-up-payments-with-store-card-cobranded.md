@@ -29,7 +29,9 @@ The first configuration step will be the creation of the custom payment __(cobra
 7. In __BIN ranges (optional)__, 
 you can enter a range of BINs (by entering the first and last code in the sequence, separated by a hyphen) or several (separating each range by a comma and without spaces).
 
->⚠️ When the customer enters a bin number outside the range specified in this field, the following message will be displayed "Check the digits printed on your card. We couldn't confirm if the card number is correct". If there is no error in the number entered, they can click on "YES, THE NUMBER IS CORRECT" to continue completing the order.
+<div class="alert alert-warning">
+  When the customer enters a bin number outside the range specified in this field, the following message will be displayed "Check the digits printed on your card. We couldn't confirm if the card number is correct". If there is no error in the number entered, they can click on "YES, THE NUMBER IS CORRECT" to continue completing the order.
+</div>
 
 <blockquote><ui>8. In the field <b>Acquirer Payment Code (optional)</b>, enter the code to be sent and processed by the acquirer you have contracted.</ui>
 
@@ -40,7 +42,9 @@ you can enter a range of BINs (by entering the first and last code in the sequen
 ## Set up payment condition
 After configuring the card, you will need to configure the payment condition.
 
->⚠️ If the connector to be chosen (in **Step.8**)is not registered in your store, the message "(Configure)" will be displayed after the connector name. In this situation, choose another available connector or register it. For more information, see [Registering gateway affiliations](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+<div class="alert alert-warning">
+  If the connector to be chosen (in <b>Step.8</b>)is not registered in your store, the message "(Configure)" will be displayed after the connector name. In this situation, choose another available connector or register it. For more information, see <a href="https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#">Registering gateway affiliations</a>.
+</div>
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. In the Gateway affiliations tab, click on the __"+"__ button.

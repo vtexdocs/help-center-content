@@ -1,5 +1,5 @@
 ---
-title: 'Usuário imigrante não envia cookie de autenticação imersonalizado para algumas chamadas'
+title: "Usuário imigrante não envia cookie de autenticação imersonalizado para algumas chamadas"
 id: 3e5CZqPbsTRbhDz8W1c0p4
 status: PUBLISHED
 createdAt: 2023-04-13T21:24:06.328Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: impersonate-user-not-sending-impersonated-authentication-cookie-for-some-calls
+slugEN: usuario-imigrante-nao-envia-cookie-de-autenticacao-imersonalizado-para-algumas-chamadas
 locale: pt
 kiStatus: Backlog
 internalReference: 790185
@@ -18,7 +18,9 @@ internalReference: 790185
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você está em acesso de telemarketing e tenta imitar o acesso de um usuário que tem acesso a uma política comercial com restrições, algumas camadas de gráficos não estão enviando o cookie do usuário imitado, causando uma resposta de acesso proibido das APIs

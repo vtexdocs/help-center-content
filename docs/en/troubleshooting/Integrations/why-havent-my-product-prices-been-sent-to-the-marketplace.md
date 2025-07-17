@@ -13,10 +13,11 @@ slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
 locale: en
 legacySlug: why-havent-my-product-prices-been-sent-to-the-marketplace
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Marketplace, Integration, Pricing
 ---
 
-A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
+**Tags:** Marketplace, Integration, Pricing
+
+A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
 
 ## Solution
 
@@ -24,14 +25,14 @@ To solve the problem, you must first identify which of the processes contains th
 
 ### Price module configuration
 
-The [Price module configuration](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) is where the seller creates, edits, and stores the price data for the SKUs sold in their store.  
+The [Price module configuration](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) is where the seller creates, edits, and stores the price data for the SKUs sold in their store.  
 
 See the table below for possible error messages related to price settings and the actions required to fix them.  
 
 |**Error message**|**Meaning**|**Required action**|
 |:--:|:--:|:--:|
-|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| The seller cannot give more than 70% off the [base price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) of a product.| Change the discount price to a value within the percentage required by the marketplace.| 
-|Check if the SKU has a price set for this policy or if the price has expired.|The SKU price has not been added to the [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in the integration with the marketplace, or it has expired.| Add the SKU price to the trade policy used to integrate the store with the marketplace.|
+|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| The seller cannot give more than 70% off the [base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) of a product.| Change the discount price to a value within the percentage required by the marketplace.| 
+|Check if the SKU has a price set for this policy or if the price has expired.|The SKU price has not been added to the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in the integration with the marketplace, or it has expired.| Add the SKU price to the trade policy used to integrate the store with the marketplace.|
 
 ### Product cataloging
 
@@ -45,4 +46,5 @@ If the products have already been cataloged, you must submit the product prices 
 3. Click the `Actions` button.  
 4. Click **Reprocess**.  
 
-Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](https://help.vtex.com/en/support).
+Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](/en/support).  
+

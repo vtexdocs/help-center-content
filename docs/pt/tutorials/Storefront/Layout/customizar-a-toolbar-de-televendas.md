@@ -15,7 +15,7 @@ legacySlug: customizar-a-toolbar-de-televendas
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ Não é recomendável alterar a altura do elemento da toolbar. Caso sua loja tenha um header ou outro elemento fixo no topo da tela, ele deve receber a propriedade `top` com a altura necessária para compensar presença da toolbar de televendas.
+<div class="alert alert-warning">Não é recomendável alterar a altura do elemento da toolbar. Caso sua loja tenha um header ou outro elemento fixo no topo da tela, ele deve receber a propriedade <code>top</code> com a altura necessária para compensar presença da toolbar de televendas.</div>
 
 A nova toolbar de televendas pode ser customizada com os estilos da sua loja ou com javascript. Para sobrescrever os estilos originais da toolbar, faça a customização em um arquivo **.css **ou **.js** e carregue-o no template da página.
 

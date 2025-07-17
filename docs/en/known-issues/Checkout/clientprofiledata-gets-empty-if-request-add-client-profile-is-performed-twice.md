@@ -1,5 +1,5 @@
 ---
-title: 'clientProfileData gets empty if request Add client profile is performed twice'
+title: "clientProfileData gets empty if request Add client profile is performed twice"
 id: 1TG7cnnMyWHNKrCjoouKoC
 status: PUBLISHED
 createdAt: 2023-10-02T15:51:35.989Z

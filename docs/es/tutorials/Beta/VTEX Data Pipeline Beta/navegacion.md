@@ -3,8 +3,8 @@ title: 'Navegación Data Pipeline'
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-09-13T17:51:19.060Z
-publishedAt: 2024-09-13T17:51:19.060Z
+updatedAt: 2025-03-07T11:30:01.968Z
+publishedAt: 2025-03-07T11:30:01.968Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
@@ -18,7 +18,9 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 El conjunto de datos de navegación opera con dos tablas principales: `pageviews` y `sessions`. `Pageview` se refiere a cada nueva página a la que accede el usuario mientras navega por la tienda, mientras que `session` se define como el conjunto de todas las pageviews realizadas por un usuario en una única visita.
 Cada `session` permanece activa si no se produce una nueva `pageview` durante un periodo de 30 minutos.
 
->⚠️ El conjunto de datos de navegación no captura todos los tipos de eventos que ocurren durante la navegación. Por ejemplo, no se registran clics específicos, eventos especiales ni interacciones con el minicarrito.  
+<div class="alert alert-warning">
+El conjunto de datos de navegación no captura todos los tipos de eventos que ocurren durante la navegación. Por ejemplo, no se registran clics específicos, eventos especiales ni interacciones con el minicarrito.
+</div>  
 
 En esta sección puedes consultar la siguiente información:
 
@@ -37,10 +39,12 @@ En esta sección puedes consultar la siguiente información:
 | **Historial** | Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX. |
 | **Intervalo mínimo de actualización** | Una hora. |
 
->⚠️ Data Pipeline solo proporciona datos de sesiones originadas en las soluciones de <i>storefront</i> de VTEX: CMS Legado, Store Framework y FastStore. VTEX no tiene acceso a sesiones originadas en marketplaces de terceros o storefronts de tiendas propietarias. Además, las personalizaciones realizadas en el <i>frontend</i> de la tienda pueden interferir o incluso desactivar el <i>script,</i> provocando que algunas sesiones no se registren o que la tasa de conversión observada en el dashboard no sea precisa.
-> Para minimizar el impacto en el desempeño de la tienda, el <i>script</i> está configurado para ser el último elemento en cargarse en la página. Esto significa que es posible que no se capturen sesiones muy breves.  
+<div class="alert alert-warning">
+Data Pipeline solo proporciona datos de sesiones originadas en las soluciones de <i>storefront</i> de VTEX: CMS Legado, Store Framework y FastStore. VTEX no tiene acceso a sesiones originadas en marketplaces de terceros o storefronts de tiendas propietarias. Además, las personalizaciones realizadas en el <i>frontend</i> de la tienda pueden interferir o incluso desactivar el <i>script,</i> provocando que algunas sesiones no se registren o que la tasa de conversión observada en el dashboard no sea precisa.
+<p>Para minimizar el impacto en el desempeño de la tienda, el <i>script</i> está configurado para ser el último elemento en cargarse en la página. Esto significa que es posible que no se capturen sesiones muy breves.</p>
+  </div>  
 
-## Tabla `sessions`  
+## Tabla sessions  
 
 Esta tabla contiene solo las sesiones finalizadas, ya sea por inactividad o porque culminaron en una compra. Se ordena por `session_id`, `session_end_time` y `store_name`. Por este motivo, evita filtrar grandes intervalos de datos por columnas que no están relacionados con esta estrategia de ordenación.   
 Consulta a continuación los campos que componen la tabla.  
@@ -71,12 +75,12 @@ Consulta a continuación los campos que componen la tabla.
 | **user_id** | character varying(16383) | Identificador único del comprador, mapeado por la cookie VtexRCMacIdv7. |
 | **pageviews_count** | integer | Recuento de páginas vistas en esta sesión. |
 | **views_home** | integer | Recuento de páginas de inicio vistas en esta sesión. |
-| **views_category** | integer | Recuento de vistas de páginas de [categoría](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) en esta sesión. |
-| **views_department** | integer | Recuento de páginas de [departamento](https://help.vtex.com/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) vistas en esta sesión. |
+| **views_category** | integer | Recuento de vistas de páginas de [categoría](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) en esta sesión. |
+| **views_department** | integer | Recuento de páginas de [departamento](/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) vistas en esta sesión. |
 | **views_search** | integer | Recuento de páginas de búsqueda vistas en esta sesión. |
 | **views_product** | integer | Recuento de páginas de producto vistas en esta sesión. |
 | **views_checkout** | integer | Recuento de páginas de checkout vistas en esta sesión. |
-| **views_other** | integer | Recuento de páginas vistas que no sean de [producto](https://help.vtex.com/es/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw), búsqueda, [categoría](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [departamento](https://help.vtex.com/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) o checkout en esta sesión. |
+| **views_other** | integer | Recuento de páginas vistas que no sean de [producto](/es/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw), búsqueda, [categoría](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [departamento](/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) o checkout en esta sesión. |
 | **views_checkout_cart** | integer | Recuento de páginas de checkout vistas en la fase de carrito. |
 | **views_checkout_payment** | integer | Recuento de páginas de checkout vistas en la fase de pago. |
 | **views_checkout_shipping** | integer | Recuento de páginas de checkout vistas en la fase de envío. |
@@ -95,7 +99,7 @@ Consulta a continuación los campos que componen la tabla.
 | **exit_page_type** | character varying(16383) | Tipo de página de la última página vista en esta sesión. |
 | **exit_page_checkout_step** | character varying(16383) | Fase de checkout de la última página vista en esta sesión. |  
 
-## Tabla `pageviews`  
+## Tabla pageviews  
 
 Cada ítem de esta tabla corresponde a una página vista por el comprador, como la página de inicio, la página de producto y la fase de checkout.
 Una página vista se cuenta después de que el navegador del comprador haya cargado la página. Cada página tiene atributos específicos y, como esta tabla lo reúne todo en un único esquema, aparecerán muchos valores nulos. Por ejemplo, se espera que los atributos de las páginas de producto sean nulos cuando la vista de la página corresponde a una fase de carrito.  
@@ -199,10 +203,11 @@ En los datos de navegación de VTEX observamos importantes interacciones con otr
 
 ### Descubra otros conjuntos de datos
 
-- [Stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

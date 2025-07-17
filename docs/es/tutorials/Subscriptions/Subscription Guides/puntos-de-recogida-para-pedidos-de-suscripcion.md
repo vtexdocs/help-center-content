@@ -17,29 +17,31 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 Un punto de recogida es un lugar físico donde el cliente tiene la opción de recoger su pedido, en vez de recibirlo en casa. Un ejemplo de escenario para esta funcionalidad es la recogida en la tienda.
 
-Además de los pedidos habituales, puede habilitar puntos de recogida para los pedidos de suscripción, si utiliza el [módulo Suscripciones](https://help.vtex.com/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+Además de los pedidos habituales, puede habilitar puntos de recogida para los pedidos de suscripción, si utiliza el [módulo Suscripciones](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
 
 A continuación, vea lo que se requiere para habilitar esta funcionalidad.
 
 - [Requisitos](#requisitos)
 - [Eligir puntos de recogida](#eligir-puntos-de-recogida)
 
->ℹ️ La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a [Checkout V6](https://help.vtex.com/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
+<div class="alert alert-info">
+  <p>La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a <a href="https://help.vtex.com/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH">Checkout V6</a>.</p>
+</div>
 
 ## Requisitos
 
 Para habilitar los puntos de recogida para los pedidos de suscripción, se deben cumplir la lista de requisitos logísticos que se indica a continuación.
 
-*   Debe tener el [módulo Suscripciones](https://help.vtex.com/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) instalado y la opción «Puntos de recogida» habilitada. Para eso, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
-*   Necesita configurar los puntos de recogida en su tienda. Solo se pueden utilizar puntos de recogida de la tienda principal o de franquicias (Sellers White Label) para los pedidos de suscripción. Para saber cómo efectuar la configuración, lea el artículo [Configurar Puntos de recogida (Pickup Points)](https://help.vtex.com/es/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
-*   Las transportadoras asociadas a los puntos de recogida para pedidos de suscripción **no** pueden tener [ventanas de entrega](https://help.vtex.com/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configuradas.
+*   Debe tener el [módulo Suscripciones](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) instalado y la opción «Puntos de recogida» habilitada. Para eso, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
+*   Necesita configurar los puntos de recogida en su tienda. Solo se pueden utilizar puntos de recogida de la tienda principal o de franquicias (Sellers White Label) para los pedidos de suscripción. Para saber cómo efectuar la configuración, lea el artículo [Configurar Puntos de recogida (Pickup Points)](/es/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+*   Las transportadoras asociadas a los puntos de recogida para pedidos de suscripción **no** pueden tener [ventanas de entrega](/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configuradas.
 *   Los ítems deben contar con _stock_ en la fecha del ciclo de suscripción, es decir, cuando se crean los pedidos recurrentes.
 
 ## Elegir puntos de recogida
 
 El cliente final puede elegir los puntos de recogida para ítems de un pedido de suscripción cuando realiza el _checkout_, como se muestra en la siguiente imagen.
 
-![subscriptionspickup ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/puntos-de-recogida-para-pedidos-de-suscripcion_1.gif)
+![subscriptionspickup ES](https://images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/0be6afd36b5bb8966096600810768bbe/subscriptionspickup_ES.gif)
 
 También puede asignar puntos de recogida al [crear nuevas suscripciones](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions) a través de la [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1). En el caso de las suscripciones existentes, puede modificar la dirección de entrega a través de la [ruta de actualización de suscripciones de la API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#patch_api-rns-pub-subscriptions-id) para empezar a utilizar un punto de recogida.
 
@@ -47,6 +49,6 @@ Para descubrir los puntos de recogida disponibles cerca de un código postal o d
 
 ## Artículos relacionados
 
-*   [Cómo configurar Suscripciones en su tienda](https://help.vtex.com/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj)
-*   [Configurar Puntos de recogida (Pickup Points)](https://help.vtex.com/es/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
-*   [Configurar Seller White Label como punto de recogida (Pickup Point)](https://help.vtex.com/es/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)
+*   [Cómo configurar Suscripciones en su tienda](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj)
+*   [Configurar Puntos de recogida (Pickup Points)](/es/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
+*   [Configurar Seller White Label como punto de recogida (Pickup Point)](/es/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)

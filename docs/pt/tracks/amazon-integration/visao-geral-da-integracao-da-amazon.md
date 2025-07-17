@@ -17,11 +17,11 @@ trackSlugPT: integracao-com-a-amazon
 Este guia orienta como configurar sua loja com a Amazon através do conector desenvolvido pela VTEX. Para realizar a configuração entre VTEX e Amazon, é necessário concluir algumas configurações básicas:
 
 ## Configurações de conta na Amazon 
-- [Criar conta de seller na Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#criacao-de-uma-conta-de-seller-na-amazon)
-- [Autorizar a VTEX no painel da Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#autorizacao-da-vtex-no-painel-da-amazon)
+- [Criar conta de seller na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#criacao-de-uma-conta-de-seller-na-amazon)
+- [Autorizar a VTEX no painel da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#autorizacao-da-vtex-no-painel-da-amazon)
 
 ## Configurações na plataforma VTEX
-- [Definir política comercial na Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa)
-- [Definir Estratégia de Envio](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio)
-- [Configurar conector da Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)
-- [Enviar produtos para a Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD)
+- [Definir política comercial na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa)
+- [Definir Estratégia de Envio](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio)
+- [Configurar conector da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)
+- [Enviar produtos para a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD)

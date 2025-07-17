@@ -1,5 +1,5 @@
 ---
-title: 'CMS is not accessible through the new Admin (My VTEX)'
+title: "CMS is not accessible through the new Admin (My VTEX)"
 id: 49Ws7DDihGeQU04UmI86Cu
 status: PUBLISHED
 createdAt: 2018-04-18T20:04:23.491Z
@@ -20,7 +20,7 @@ internalReference:
 
 When accessing the CMS through the new administrative environment (My VTEX - `{AccountName}.myvtex.com/admin`), an error page is displayed, and the CMS can not be accessed.
 
-![4JSc1cw](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/cms-is-not-accessible-through-the-new-admin_1.png)
+![4JSc1cw](//images.ctfassets.net/alneenqid6w5/2SQ58O96w0u668aoMgeygI/2fe3498d2cade6d204c2b2b67e0be9b0/4JSc1cw.png)
 
 ## Simulation
 

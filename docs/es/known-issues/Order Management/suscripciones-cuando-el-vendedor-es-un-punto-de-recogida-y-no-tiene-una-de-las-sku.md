@@ -1,5 +1,5 @@
 ---
-title: 'Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.'
+title: "Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU."
 id: 4xIlZZQu8cK42otvvbjhMA
 status: PUBLISHED
 createdAt: 2022-10-03T12:50:59.047Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-when-the-seller-is-a-pickup-point-and-does-not-have-one-of-the-skus
+slugEN: suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku
 locale: es
 kiStatus: Backlog
 internalReference: 666701
@@ -18,7 +18,9 @@ internalReference: 666701
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

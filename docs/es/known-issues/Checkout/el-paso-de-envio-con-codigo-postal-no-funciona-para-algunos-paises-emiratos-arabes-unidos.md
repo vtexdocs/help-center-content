@@ -1,5 +1,5 @@
 ---
-title: 'El paso de envío con código postal no funciona para algunos países (Emiratos Árabes Unidos)'
+title: "El paso de envío con código postal no funciona para algunos países (Emiratos Árabes Unidos)"
 id: 2nlXX0e1q1MLiSjCG1U1Uf
 status: PUBLISHED
 createdAt: 2024-06-21T16:31:14.956Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates
+slugEN: el-paso-de-envio-con-codigo-postal-no-funciona-para-algunos-paises-emiratos-arabes-unidos
 locale: es
 kiStatus: Fixed
 internalReference: 312132
@@ -18,7 +18,9 @@ internalReference: 312132
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 ## **Resumen**
 

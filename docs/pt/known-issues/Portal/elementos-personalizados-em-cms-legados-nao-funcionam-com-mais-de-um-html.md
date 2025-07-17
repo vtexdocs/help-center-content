@@ -1,5 +1,5 @@
 ---
-title: 'Elementos personalizados em cms legados não funcionam com mais de um HTML'
+title: "Elementos personalizados em cms legados não funcionam com mais de um HTML"
 id: 6hGraRq2ffsw5c3jJ8nwh0
 status: PUBLISHED
 createdAt: 2023-07-31T16:35:04.392Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: custom-elements-on-legacy-cms-not-working-with-more-than-one-html
+slugEN: elementos-personalizados-em-cms-legados-nao-funcionam-com-mais-de-um-html
 locale: pt
 kiStatus: Backlog
 internalReference: 871480
@@ -18,7 +18,9 @@ internalReference: 871480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um elemento personalizado com mais de um elemento HTML, somente o primeiro é carregado no modelo.

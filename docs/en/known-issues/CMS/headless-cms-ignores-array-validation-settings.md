@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS ignores array validation settings'
+title: "Headless CMS ignores array validation settings"
 id: 1szfagZFJHmevSWDTyd45e
 status: PUBLISHED
 createdAt: 2024-06-07T14:22:41.366Z

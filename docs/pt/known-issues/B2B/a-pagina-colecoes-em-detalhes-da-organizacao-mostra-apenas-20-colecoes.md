@@ -1,5 +1,5 @@
 ---
-title: 'A página Coleções em Detalhes da organização mostra apenas 20 coleções'
+title: "A página Coleções em Detalhes da organização mostra apenas 20 coleções"
 id: 1NL46GlhANQoa6IzGSSwdS
 status: PUBLISHED
 createdAt: 2023-08-31T20:02:37.675Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: collections-page-in-organization-details-shows-only-20-collections
+slugEN: a-pagina-colecoes-em-detalhes-da-organizacao-mostra-apenas-20-colecoes
 locale: pt
 kiStatus: Fixed
 internalReference: 891511
@@ -18,7 +18,9 @@ internalReference: 891511
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A página Coleções em Detalhes da organização mostra apenas 20 coleções, mesmo depois de alterar a quantidade de linhas na parte inferior da página.

@@ -1,5 +1,5 @@
 ---
-title: "Si no se añaden los datos en el paso 'entregar en otra dirección', desaparece el botón 'ir al pago'."
+title: 'Si no se añaden los datos en el paso "entregar en otra dirección", desaparece el botón "ir al pago".'
 id: cdZO8gGXDB1JZSj42AnVh
 status: PUBLISHED
 createdAt: 2022-01-24T21:42:52.750Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: failure-to-add-data-in-the-deliver-to-another-address-step-causes-the-go-to-payment-button-to-disappear
+slugEN: si-no-se-anaden-los-datos-en-el-paso-entregar-en-otra-direccion-desaparece-el-boton-ir-al-pago
 locale: es
 kiStatus: Backlog
 internalReference: 467419
@@ -18,7 +18,9 @@ internalReference: 467419
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Durante la etapa de pago, en el paso de rellenar los datos de envío, pulsando sobre la opción "Entregar en otra dirección", si no se añade ninguna dirección y el comprador vuelve a la lista de direcciones (utilizando el botón "volver a la libreta de direcciones") el botón "Ir al pago" desaparece.

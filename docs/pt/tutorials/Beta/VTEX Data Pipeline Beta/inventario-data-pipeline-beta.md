@@ -3,8 +3,8 @@ title: 'Inventário Data Pipeline '
 id: 2IvKMZV9SNrE6ipBRQr8h2
 status: PUBLISHED
 createdAt: 2024-02-02T17:41:24.979Z
-updatedAt: 2024-09-13T17:28:37.925Z
-publishedAt: 2024-09-13T17:28:37.925Z
+updatedAt: 2025-04-15T14:02:23.916Z
+publishedAt: 2025-04-15T14:02:23.916Z
 firstPublishedAt: 2024-05-27T19:26:59.588Z
 contentType: tutorial
 productTeam: Others
@@ -20,8 +20,7 @@ O conjunto de dados composto pela tabela `item_inventory` fornece informações 
 Nesta seção você encontra as seguintes informações:
 
 - [Características dos dados de inventário](#caracteristicas-dos-dados-de-inventario)
-- [Tabela item_update_latest](#tabela-item-update-latest)
-- [Tabela: item_update_historical](#tabela-item-update-historical)
+- [Tabela item_inventory](#tabela-item_inventory)
 - [Análise com item_inventory](#analises-com-item_inventory)
 - [Correlações com outros dados](#correlacoes-com-outros-dados)
 
@@ -34,40 +33,23 @@ Nesta seção você encontra as seguintes informações:
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |
 | **Menor intervalo de atualização possível** | Uma hora. |
 
-## Tabela item_update_latest
+## Tabela item_inventory
 
 Conheça a seguir os campos que constituem a tabela:  
 
 | **Nome da Coluna** | **Tipo da Coluna** | **Descrição da Coluna** |
-|:---:|:---:|:---:|
-| **batch_id** | character varying(13) | Identificador usado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. |
-| **last_date** | timestamp without time zone | Data e hora da última alteração no inventário. |
-| **item_availabilty_id** | character varying(65535) | ID do esquema de inventário do SKU. |
-| **item_id** | character varying(65535) | Identificador do item. |
-| **main_account_name** | character varying(65535) | Nome da conta principal associada ao item. |
-| **account_name** | character varying(65535) | Nome da conta relacionada ao item. |
-| **is_unlimited_quantity** | boolean | Indicador booleano que indica se um SKU está sempre disponível, independentemente de sua quantidade. |
-| **quantity** | integer | Quantidade de SKU em estoque. |
-| **reserved_quantity** | integer | Unidades de SKU reservadas. Pedidos para essas reservas ainda não foram aprovados para pagamento. |
-| **reservation_id** | character varying(65535) | Identificação de uma reserva para esse item. |
-
-## Tabela item_update_historical
-
-| **Nome da Coluna**| **Tipo da Coluna** | **Descrição da Coluna**|
-|:----:|:---:|:---:|
-| **batch_id** | character varying(13) | Identificador usado quando os dados são carregados na tabela para controle de qualidade da ingestão de dados. |
-| **created_at** | timestamp without time zone  | Data e hora da alteração no inventário. |
-| **item_availabilty_id**| character varying(65535)| ID do esquema de inventário do SKU. |
-| **item_id** | character varying(65535)| Identificador do item. |
-| **main_account_name**| character varying(65535) | Nome da conta principal associada ao item. |
-| **account_name** | character varying(65535) | Nome da conta relacionada ao item.|
-| **author_id** | character varying(65535) | Autor da alteração no inventário. |
-| **event_type** | character varying(65535) | Tipo de alteração na disponibilidade (por exemplo, criação de reserva, cancelamento de reserva, atualização de disponibilidade do item). |
-| **metadata_created_at** | timestamp without time zone| Hora em que um evento foi gerado. |
-| **is_unlimited_quantity** | boolean | Indicador booleano que indica se um SKU está sempre disponível, independentemente de sua quantidade.|
-| **quantity** | integer | Quantidade de SKU em estoque.|
-| **reserved_quantity** | integer | Unidades de SKU reservadas. Pedidos para essas reservas ainda não foram aprovados para pagamento.|
-| **reservation_id** | character varying(65535)| Identificação de uma reserva para esse item. |
+|---------|------------|----------|
+|parent_account_name | character varying(200) | Nome da conta principal associada à entidade fundamental à qual o estoque pertence.|
+| main_account | character varying(200)| Nome da conta principal do comerciante no Gerenciador de Licenças.  |
+| account_name| character varying(200) | Nome da conta à qual o estoque pertence.|
+| quantity| bigint| A quantidade total de itens disponíveis em estoque.|
+| reserved_quantity | bigint  | Número de reservas ativas para um item.  |
+| is_unlimited_quantity  | boolean| Indica se o item pode ter estoque infinito (True) ou não (False).|
+| batch_id  | character(13) | Identifica o último lote de ingestão que atualizou esta linha.  |
+| warehouse_id | character varying(400) | ID do depósito onde o estoque está localizado. |
+| item_id | character varying(300) | Identifica o item cujo estoque está sendo quantificado. |
+| last_update| timestamp without time zone  | A última vez que o estoque desse item específico foi atualizado. |
+| warehouse_status | varchar(8) | Exibe o status atual do estoque onde este inventário está armazenado. Os valores aceitos são: ativo, inativo ou excluído. |
 
 ## Análises com inventory
 
@@ -88,10 +70,10 @@ Os dados de inventário se correlacionam com os conjuntos de pedidos e produtos,
 
 ### Conheça outros Conjuntos de dados
 
-- [Navegação](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
+- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

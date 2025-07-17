@@ -1,5 +1,5 @@
 ---
-title: "The 'items' field will be removed from the List Orders API"
+title: 'The "items" field will be removed from the List Orders API'
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z
@@ -23,7 +23,9 @@ List Orders API request: <code>http://{{accountName}}.{{environment}}.com.br/api
 
 If your store uses the List Orders API and your integration mapping is expected to receive the `items` field, your development team needs to __remove it from the integration mapping__.
 
->⚠️ The `items` field of the List Orders API has already been **stale** for quite some time. It does not have any use today, and so your store should not consider it in your integrations. To get order items, you should be using the [Feed API](http://help.vtex.com/en/tutorial/how-the-oms-feed-works) .
+<div class="alert alert-warning">
+The <code>items</code> field of the List Orders API has already been <strong>stale</strong> for quite some time. It does not have any use today, and so your store should not consider it in your integrations. To get order items, you should be using the <a href="http://help.vtex.com/en/tutorial/how-the-oms-feed-works">Feed API</a> .
+</div>
 
 It is important to remember that __the List Orders API remains working normally__. Only the `items` field will be deleted.
 
@@ -33,9 +35,13 @@ Removing this field will greatly increase the stability and performance of the o
 
 That is why it's crucial to remove it from integration.
 
->ℹ️ **Attention:** This change only impacts integrations that depend on the delivery of the `items` field through the List Orders API.
+<div class="alert alert-info">
+<strong>Attention:</strong> This change only impacts integrations that depend on the delivery of the `items` field through the List Orders API.
+</div>
 
->ℹ️ This change does **not** affect the Get Orders API. In it, the `items` field continues to exist and keeps being normally updated.
+<div class="alert alert-info">
+This change does <strong>not</strong> affect the Get Orders API. In it, the <code>items</code> field continues to exist and keeps being normally updated.
+</div>
 
 <div class="alert">
 Get Order API request: <code>http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}</code>

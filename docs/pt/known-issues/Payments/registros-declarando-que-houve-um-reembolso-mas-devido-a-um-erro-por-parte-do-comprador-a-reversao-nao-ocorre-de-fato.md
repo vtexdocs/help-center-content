@@ -1,5 +1,5 @@
 ---
-title: 'Registros declarando que houve um reembolso, mas devido a um erro por parte do comprador, a reversão não ocorre de fato'
+title: "Registros declarando que houve um reembolso, mas devido a um erro por parte do comprador, a reversão não ocorre de fato"
 id: Bpa1ncKcUuKd7i5isR2D4
 status: PUBLISHED
 createdAt: 2022-03-17T21:07:16.944Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: logs-stating-that-there-was-a-refund-but-due-to-an-error-on-the-part-of-the-acquirer-the-reversal-does-not-actually-occur
+slugEN: registros-declarando-que-houve-um-reembolso-mas-devido-a-um-erro-por-parte-do-comprador-a-reversao-nao-ocorre-de-fato
 locale: pt
 kiStatus: Backlog
 internalReference: 545331
@@ -18,7 +18,9 @@ internalReference: 545331
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Mesmo com os registros das transações informando que o estorno foi feito, ocorreu um erro no adquirente.

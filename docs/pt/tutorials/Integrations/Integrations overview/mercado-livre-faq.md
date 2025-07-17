@@ -3,8 +3,8 @@ title: 'Mercado Livre: FAQ'
 id: 3w4IgSgKZOocGee8cgSWW0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.512Z
-updatedAt: 2023-03-22T20:46:37.753Z
-publishedAt: 2023-03-22T20:46:37.753Z
+updatedAt: 2025-02-20T13:59:29.817Z
+publishedAt: 2025-02-20T13:59:29.817Z
 firstPublishedAt: 2019-01-24T22:00:23.608Z
 contentType: tutorial
 productTeam: Channels
@@ -50,7 +50,9 @@ Existem três formas de enviar a descrição do seu produto para o Mercado Livre
 - Criar uma especificação de produto
 - Criar template na Central de Mensagens (opcional)
 
->ℹ️ Leia o artigo do Mercado Livre [“Como descrever os seus produtos”](https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147) para dicas de como descrever seus produtos.
+<div class = "alert alert-info">
+Leia o artigo do Mercado Livre <a href="https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147">“Como descrever os seus produtos”</a> para dicas de como descrever seus produtos.
+</div>
 
 #### Preencher o campo Descrição do produto
 
@@ -60,13 +62,13 @@ Ou você pode utilizar a rota [PUT Update Product](https://developers.vtex.com/v
 
 #### Criar uma especificação de produto
 
-[Crie uma especificação de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) chamada `plaintext_description_meli` e preencha com a descrição que desejar que desejar para o seu produto.
+[Crie uma especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) chamada `plaintext_description_meli` e preencha com a descrição que desejar que desejar para o seu produto.
 
 Ou você pode utilizar a rota [POST Create Specification](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-post-specification) e preencher o campo **Name** com `plaintext_description_meli` e o campo **Description** com a descrição que desejar para o seu produto.
 
 #### Criar template na Central de Mensagens (opcional)
 
-A [Central de Mensagens](https://help.vtex.com/pt/tutorial/conhecendo-o-message-center--tutorials_84) é um módulo responsável por configurar e enviar e-mails na VTEX através de um template de mensagens. A vantagem de criar um template para descrição dos seus produtos, é que se sua loja anunciar muitos produtos no Mercado Livre, eles terão uma descrição padrão e personalizada para todos eles.
+A [Central de Mensagens](/pt/tutorial/conhecendo-o-message-center--tutorials_84) é um módulo responsável por configurar e enviar e-mails na VTEX através de um template de mensagens. A vantagem de criar um template para descrição dos seus produtos, é que se sua loja anunciar muitos produtos no Mercado Livre, eles terão uma descrição padrão e personalizada para todos eles.
 
 Antes de criar o template, é necessário [preencher o campo Descrição do anúncio](#preencher-o-campo-descrição-do-produto). Ele será importante para criar uma descrição exclusiva para o seu produto. Depois de preencher o campo, acesse o Admin VTEX em *CLIENTE > Central de mensagens > Templates* e busque pelo card **Bridge - Integração Mercado Livre**.
 
@@ -92,20 +94,15 @@ Os campos `{{TÍTULO}}` e `{{DESCRIÇÃO}}` utilizarão as informações do prod
 
 A descrição personalizada do seu anúncio no Mercado Livre será exibida no seguinte formato:
 
-`Loja do Gustavo
-
+Loja do Gustavo
 Entrega em todo o Brasil
-
 Direto da fábrica
-
 {{TÍTULO}}
-
 {{DESCRIÇÃO}}
 
 DÚVIDAS FREQUENTES
-
-O PRODUTO É NOVO ?
-Sim, todos os nossos produtos são novos.`
+O PRODUTO É NOVO?
+Sim, todos os nossos produtos são novos.
 
 ### Por que meu anúncio foi pausado no Mercado Livre?
 
@@ -113,7 +110,7 @@ A pausa no anúncio do Mercado Livre pode ter ocorrido por dois motivos:
 
 #### 1. Quando o produto é removido da política comercial vinculada ao Mercado Livre ou inativado, o anúncio será pausado.
 
-Para realizar a integração com o Mercado Livre é definir uma política comercial, ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja. [Leia mais](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw)
+Para realizar a integração com o Mercado Livre é definir uma política comercial, ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja. [Leia mais](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw)
 
 #### 2. Quando o produto atinge o estoque mínimo cadastrado, o anúncio será pausado. O valor desse estoque mínimo é definido no painel de configuração do Mercado Livre no Bridge da VTEX.
 
@@ -123,7 +120,7 @@ Ao cadastrar um produto, é necessário estabelecer uma quantidade mínima para 
 
 A categoria em questão exige o mapeamento de marca e modelo. Essas informações devem estar presentes na planilha de mapeamento. Formato de exemplo:
 
-![mercadolivre faq erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/mercado-livre-faq_1.JPG)
+![mercadolivre faq erro](https://images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
 
 ### Por que meu anúncio está desativado no Mercado Livre?
 
@@ -143,13 +140,13 @@ O Mercado Livre possui uma limitação de 60 caracteres no nome do anúncio. Por
 
 Pela regra do Mercado Livre, não é possível reenviar informações dos produtos depois que eles foram anunciados e vendidos. Será necessário excluir o anúncio do produto e alterar as informações desejadas.
 
-Caso o produto não tenha sido vendido ainda, será possível fazer alterações. Se a alteração for no valor da variação/atributo, essa mudança deve ser realizada na [página de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Se a alteração for no valor da especificação do produto, leia nosso artigo [Cadastrar especificações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
+Caso o produto não tenha sido vendido ainda, será possível fazer alterações. Se a alteração for no valor da variação/atributo, essa mudança deve ser realizada na [página de mapeamento](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Se a alteração for no valor da especificação do produto, leia nosso artigo [Cadastrar especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
 
->⚠️ Após excluir um produto, não é possível recuperar a relevância do seu anúncio.
+<div class="alert alert-warning">Após excluir um produto, não é possível recuperar a relevância do seu anúncio.</div>
 
 ### Por que meu produto foi categorizado de forma errada no Mercado Livre?
 
-Erro de categorização está relacionado ao nome e o preço do produto. Para a categorização correta dos seus seus produtos é necessário fazer [upload da planilha de mapeamento](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx). Essa planilha será utilizada nas etapas de categorização, variação e atributos do seu produto. Para saber mais consulte este [artigo](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA#categorizacao).
+Erro de categorização está relacionado ao nome e o preço do produto. Para a categorização correta dos seus seus produtos é necessário fazer [upload da planilha de mapeamento](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx). Essa planilha será utilizada nas etapas de categorização, variação e atributos do seu produto. Para saber mais consulte este [artigo](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA#categorizacao).
 
 ### Por que o Mercado Livre retorna erros de atributo após o mapeamento?
 
@@ -163,13 +160,13 @@ No entanto, esses atributos são bastante claros (Cor principal, Cor secundária
 
 Se algum desses atributos for preenchido incorretamente (por exemplo, se você atribuiu um código referente a Tamanho de cinto para um calçado), o Integrações vai retornar um erro com o seguinte formato:
 
-![mercadolivre faq erro2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/mercado-livre-faq_2.JPG)
+![mercadolivre faq erro2](https://images.ctfassets.net/alneenqid6w5/2vUouOJPTK2ual9FZMfOFS/5e3d929a0cd2523663b9370745dce783/mercadolivre_faq_erro2.JPG)
 
 Neste caso, temos dois exemplos de erros na mesma mensagem.
 
 O primeiro deles indica que o atributo cujo código se inicia com o número `113000` é necessário para a categoria escolhida e não foi inserido na planilha de mapeamento. Veja a planilha abaixo:
 
-![mercadolivre faq erro3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/mercado-livre-faq_3.JPG)
+![mercadolivre faq erro3](https://images.ctfassets.net/alneenqid6w5/2YAWKiw4kIJc41xfNm1sdw/6345af3383c6acdaea4813c42274248b/mercadolivre_faq_erro3.JPG)
 
 O segundo erro indica que o atributo cujo código se inicia com o número `63000`, inserido na última coluna da planilha acima, é inválido para a categoria escolhida.
 
@@ -190,7 +187,7 @@ Com exceção dos produtos de roupa, calçados e bolsas, a integração cria som
 
 ### Por que as especificações/atributos dos meus SKUs não são enviadas para o Mercado Livre?
 
-Com exceção dos SKUs de roupa, para enviar as variações e atributos dos SKUs de qualquer categoria é necessário montar a planilha de mapeamento. Para mais informações, leia o artigo [Mapeamento de categorias, variações e atributos do Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Com exceção dos SKUs de roupa, para enviar as variações e atributos dos SKUs de qualquer categoria é necessário montar a planilha de mapeamento. Para mais informações, leia o artigo [Mapeamento de categorias, variações e atributos do Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
 
 ### Como apagar um anúncio no Mercado Livre?
 
@@ -214,7 +211,7 @@ Existe o elemento principal do anúncio e ele contém as variações (que são o
 
 Acontece que cada categoria tem sua especificação de quantidade de imagens que podem ser adicionadas, para o caso da categoria MLA3697 são somente 12 imagens permitidas para esse elemento principal. Veja [aqui](https://api.mercadolibre.com/categories/MLA3697) as condições dessa categoria. 
 
-![mercadolivre faq erro4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/mercado-livre-faq_4.JPG)
+![mercadolivre faq erro4](https://images.ctfassets.net/alneenqid6w5/5fz7U4ytVKkijIWqof3XGu/b7748b6c1c14bbf87b1f6bb009d58c5d/mercadolivre_faq_erro4.JPG)
 
 `Sku não integrado pois o mesmo não possui descrição`
 
@@ -250,7 +247,7 @@ Dito isso, o primeiro passo é acessar o cadastro dessa integração:
 1. Acesse o módulo __Marketplace__
 2. Clique em __Integrações__
 3. Procure o __painel__ do Mercado Livre
-4. Clique na __engrenagem__ <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/mercado-livre-faq_5.png" />
+4. Clique na __engrenagem__ <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
 5. Clique em __Editar configuração__
 
 A partir daí, é preciso refazer o processo de integração.
@@ -268,7 +265,7 @@ Feito isso, aguarde mais 15 minutos. Agora começa a etapa mais importante do pr
 
 11. Acesse o __painel__ do Mercado Livre
 12. Faça o __login__ com a conta que deseja integrar
-13. Refaça o __[processo de autorizaçao](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak "processo de autorização")__
+13. Refaça o __[processo de autorizaçao](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak "processo de autorização")__
 15. __Salve__ as configurações.
 
 Pronto! Desse modo, sua integração voltará a funcionar normalmente dentro de alguns minutos.

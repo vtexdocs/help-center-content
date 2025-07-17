@@ -33,11 +33,13 @@ Estas são as pastas que toda loja precisa ter no CMS para garantir o correto fu
 
 Veja abaixo estas pastas básicas no CMS:
 
-![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/estrutura-de-pastas-do-cms_1.png)
+![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
->❗ Os nomes das pastas obrigatórias **não** devem ser editados. Isso pode comprometer o funcionamento correto da loja e impedir que compras sejam realizadas.
+<div class="alert alert-danger">
+  <p>Os nomes das pastas obrigatórias <b>não</b> devem ser editados. Isso pode comprometer o funcionamento correto da loja e impedir que compras sejam realizadas.</p>
+</div>
 
 Como as pastas se referem a páginas dinâmicas, seus nomes não aparecem na navegação do cliente. Ou seja, o fato de a edição dos nomes ser vetada não afeta o texto final das suas URLs nem, portanto, a internacionalização do seu site.
 
@@ -53,7 +55,9 @@ São elas:
 
 Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Os nomes delas podem ser livremente editados.
 
->⚠️ Como são pastas privadas, `/account` e `/account/orders` **precisam requerer autenticação**. Veja [neste artigo](http://help.vtex.com/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
+<div class="alert alert-warning">
+Como são pastas privadas, <code>/account</code> e <code>/account/orders</code> <b>precisam requerer autenticação</b>. Veja <a href="http://help.vtex.com/pt/tutorial/exigir-autenticacao-em-paginas-da-loja">neste artigo</a> como garantir que elas estejam configuradas para pedir autenticação do usuário.
+</div>
 
 ## Pastas úteis
 
@@ -61,4 +65,4 @@ Há pastas que, embora não sejam tão importantes quanto as anteriores, costuma
 
 - `/sistema/buscavazia`: pasta para onde o usuário é direcionado caso a busca não encontre resultados.
 - `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erros de acordo com os códigos de status HTTP, tais como `404` (página não encontrada), `401` (não autorizado) e `500` (erro de servidor).
-- `/sistema/marcas`: pasta que contém layouts de páginas de marcas, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, essas páginas serão renderizadas da mesma forma que a pasta de busca. Para entender como funcionam páginas de marca, veja o artigo [sobre a busca da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex).
+- `/sistema/marcas`: pasta que contém layouts de páginas de marcas, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, essas páginas serão renderizadas da mesma forma que a pasta de busca. Para entender como funcionam páginas de marca, veja o artigo [sobre a busca da VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex).

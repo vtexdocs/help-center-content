@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: offers-management-sku-status-is-not-reliable-in-vtexvtex-integrations
+slugEN: el-estado-de-la-sku-de-gestion-de-ofertas-no-es-fiable-en-las-integraciones-vtexvtex
 locale: es
 kiStatus: Backlog
 internalReference: 745738
@@ -18,7 +18,9 @@ internalReference: 745738
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Actualmente el sistema de gestión de ofertas muestra el estado de los skus enviados desde un vendedor a un marketplace y sus interacciones y logs de acciones como actualizaciones de precio y stock.
 

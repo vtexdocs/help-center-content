@@ -1,5 +1,5 @@
 ---
-title: 'Pedido de checkoutFatura de Boleto Bancário'
+title: "Pedido de checkoutFatura de Boleto Bancário"
 id: 6LfWcVU6fgXalUXslYATIc
 status: PUBLISHED
 createdAt: 2022-05-18T18:35:54.748Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: checkout-orderplaced-boleto-bank-invoice-moip
+slugEN: pedido-de-checkoutfatura-de-boleto-bancario
 locale: pt
 kiStatus: Backlog
 internalReference: 376951
@@ -18,7 +18,9 @@ internalReference: 376951
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O OrderPlaced tem um recurso automático que injeta o PDF do "Boleto - Bank Invoice" em um iframe dentro da página de pedido acabado.

@@ -1,5 +1,5 @@
 ---
-title: 'Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela'
+title: "Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela"
 id: 4IFxkUqJ9jdqkJf7kSNUcy
 status: PUBLISHED
 createdAt: 2022-03-26T12:27:04.928Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option
+slugEN: pois-em-pagamento-a-vista-1-parcela-esta-sendo-processado-por-condicoes-de-pagamento-que-nao-tem-opcao-de-1-parcela
 locale: pt
 kiStatus: Backlog
 internalReference: 292781
@@ -18,7 +18,9 @@ internalReference: 292781
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Pois em pagamento à vista (1 parcela) está sendo ignorada para a regra de condição de pagamento, embora a condição de pagamento não tenha configuração para 1 parcela.

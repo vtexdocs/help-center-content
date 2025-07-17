@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect ID and department name when exporting products spreadsheet'
+title: "Incorrect ID and department name when exporting products spreadsheet"
 id: 6Nj93lJqgwGkYwaSWUu0So
 status: PUBLISHED
 createdAt: 2018-06-20T14:36:47.235Z

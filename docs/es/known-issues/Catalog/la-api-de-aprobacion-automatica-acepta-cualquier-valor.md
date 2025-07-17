@@ -1,5 +1,5 @@
 ---
-title: 'La API de aprobación automática acepta cualquier valor'
+title: "La API de aprobación automática acepta cualquier valor"
 id: kLl4mtwKPPqW6jk5hZMWs
 status: PUBLISHED
 createdAt: 2022-12-12T14:18:51.059Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: auto-approve-api-accepts-any-values
+slugEN: la-api-de-aprobacion-automatica-acepta-cualquier-valor
 locale: es
 kiStatus: No Fix
 internalReference: 713704
@@ -18,7 +18,9 @@ internalReference: 713704
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la API de autoaprobación no comprueba si el vendedor existe, lo que puede dar lugar a configuraciones incorrectas.

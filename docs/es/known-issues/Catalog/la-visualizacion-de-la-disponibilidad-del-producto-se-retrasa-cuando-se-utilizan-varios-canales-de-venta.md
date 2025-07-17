@@ -1,5 +1,5 @@
 ---
-title: 'La visualización de la disponibilidad del producto se retrasa cuando se utilizan varios canales de venta'
+title: "La visualización de la disponibilidad del producto se retrasa cuando se utilizan varios canales de venta"
 id: 7JluVogO4pom0l57UobYIP
 status: PUBLISHED
 createdAt: 2023-12-07T16:18:59.300Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-availability-display-delayed-when-using-multiple-sales-channels
+slugEN: la-visualizacion-de-la-disponibilidad-del-producto-se-retrasa-cuando-se-utilizan-varios-canales-de-venta
 locale: es
 kiStatus: Backlog
 internalReference: 949411
@@ -18,7 +18,9 @@ internalReference: 949411
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La visualización, para tiendas de portales heredados, de productos en PLPs se basa en el canal de venta de la tienda y sus datos básicos de disponibilidad.

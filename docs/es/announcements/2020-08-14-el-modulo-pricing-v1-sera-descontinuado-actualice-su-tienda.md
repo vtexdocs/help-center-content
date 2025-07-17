@@ -3,8 +3,8 @@ title: 'El módulo Pricing V1 será descontinuado: actualice su tienda hasta sep
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
-updatedAt: 2021-11-17T18:09:13.896Z
-publishedAt: 2021-11-17T18:09:13.896Z
+updatedAt: 2025-02-25T14:22:03.942Z
+publishedAt: 2025-02-25T14:22:03.942Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -31,7 +31,7 @@ Para saber si su cuenta aún está utilizando Pricing V1, realice los siguientes
 
 Si ve una pantalla similar a la que aparece a continuación, significa que necesita realizar la migración de su cuenta. 
 
-![Tela pricing antiga - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020-08-14-el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda_1.png)
+![Tela pricing antiga - ES](https://images.ctfassets.net/alneenqid6w5/54yIQLSCHg9VfDUumByo2r/20ba1b2f56b1e1b90fa6ecc4f386cbc5/Tela_pricing_antiga_-_ES.png)
 
 Si su cuenta VTEX sigue utilizando versiones anteriores del Admin de VTEX (como "vtexcommercestable"), usted necesitará realizar la migración de la misma. Para eso, siga los pasos a continuación: 
 
@@ -72,9 +72,9 @@ VTEX migrará automáticamente aquellas tiendas que utilizan Pricing V1 solo par
 
 Para un mejor rendimiento y estabilidad de la tienda, VTEX recomienda que sus clientes revisen y actualicen sus APIs, manteniendo siempre las últimas versiones.
 
-Sin embargo, para la migración de Pricing V1, este cambio es opcional. Puede encontrar las rutas actualizadas de la API  en [nuestra documentación](https://developers.vtex.com/reference/pricing-api-overview).
+Sin embargo, para la migración de Pricing V1, este cambio es opcional. Puede encontrar las rutas actualizadas de la API  en [nuestra documentación](https://developers.vtex.com/docs/api-reference/pricing-api).
 
-Sepa más sobre las nuevas funcionalidades de la versión actualizada del módulo Precios accediendo a [nuestro track de precios](https://help.vtex.com/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
+Sepa más sobre las nuevas funcionalidades de la versión actualizada del módulo Precios accediendo a [nuestro track de precios](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
 
 Si tiene alguna pregunta, póngase en contacto con el Account Manager o el Customer Success de su cuenta, o abra un ticket en [nuestro Soporte](https://support.vtex.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fen-us%2Frequests).
 

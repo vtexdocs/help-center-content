@@ -1,5 +1,5 @@
 ---
-title: 'Skus de un mismo producto creados por separado en cuentas con el indicador Autoaprobar activado.'
+title: "Skus de un mismo producto creados por separado en cuentas con el indicador Autoaprobar activado."
 id: 5xWm9hzTO0Yuv0e2UuMgH6
 status: PUBLISHED
 createdAt: 2024-01-09T12:39:19.465Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: skus-from-the-same-product-being-created-separately-on-accounts-with-autoapprove-flag-enabled
+slugEN: skus-de-un-mismo-producto-creados-por-separado-en-cuentas-con-el-indicador-autoaprobar-activado
 locale: es
 kiStatus: Fixed
 internalReference: 962986
@@ -18,7 +18,9 @@ internalReference: 962986
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El vendedor envía un lote con skus del mismo producto (todas las variaciones posibles del producto).

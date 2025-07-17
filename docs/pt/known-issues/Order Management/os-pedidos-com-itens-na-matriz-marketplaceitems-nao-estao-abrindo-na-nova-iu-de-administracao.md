@@ -1,5 +1,5 @@
 ---
-title: 'Os pedidos com itens na matriz MarketplaceItems não estão abrindo na Nova IU de administração'
+title: "Os pedidos com itens na matriz MarketplaceItems não estão abrindo na Nova IU de administração"
 id: 3tj9AKklBHm4tCKYgrfDi5
 status: PUBLISHED
 createdAt: 2022-09-13T03:06:57.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-items-on-array-marketplaceitems-is-not-opening-on-new-ui-admin
+slugEN: os-pedidos-com-itens-na-matriz-marketplaceitems-nao-estao-abrindo-na-nova-iu-de-administracao
 locale: pt
 kiStatus: Fixed
 internalReference: 656821
@@ -18,7 +18,9 @@ internalReference: 656821
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Error when publishing dynamic storage data entity'
+title: "Error when publishing dynamic storage data entity"
 id: 1yNh5CV41vrrrU5F7Vj2tG
 status: PUBLISHED
 createdAt: 2023-10-04T16:33:03.051Z
@@ -34,13 +34,13 @@ When the store creates or updates a Data Entity and then tries to publish it, th
 
 - Access the Dynamic Storage system / Data Structure application (https://my-account-here.ds.vtexcrm.com.br);
 - Access the Data Entities tab:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/65UPKYKl3vuaeweF46K91bpI5/?name=image.png)
 
 - Click on the disk icon to publish the Data Entity that was created or updated:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/C1nUZnpG8lmDWOL8wrXRBiGj0/?name=image.png)
 
 - Then the following message will be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-publishing-dynamic-storage-data-entity_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DFKVanOk3noBMaN8aBd6CQssp/?name=image.png)
 
     Unexpected error. Please try again or contact customer support.
 

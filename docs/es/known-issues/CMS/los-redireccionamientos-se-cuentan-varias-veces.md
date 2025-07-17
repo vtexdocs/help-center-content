@@ -1,5 +1,5 @@
 ---
-title: 'Los redireccionamientos se cuentan varias veces'
+title: "Los redireccionamientos se cuentan varias veces"
 id: 51JfHBdp72duH5cBWMYl0t
 status: PUBLISHED
 createdAt: 2024-07-16T19:48:36.586Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: redirects-are-being-counted-multiple-times
+slugEN: los-redireccionamientos-se-cuentan-varias-veces
 locale: es
 kiStatus: Fixed
 internalReference: 1066548
@@ -18,7 +18,9 @@ internalReference: 1066548
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar cargar un archivo con más de 200 redirecciones, el frente entra en un bucle y lee esas redirecciones tres veces. Esto puede llevar a más redirecciones en el mensaje de error en pantalla o en el modal de carga. Las redirecciones no se están duplicando, pero las estamos leyendo más de una vez.

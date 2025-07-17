@@ -15,7 +15,7 @@ legacySlug: crear-regla-de-merchandising-editor-visual
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) de VTEX Intelligent Search utilizando el [Editor visual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), sigue los pasos a continuación.
+Para configurar una [regla de merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) de VTEX Intelligent Search utilizando el [Editor visual](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), sigue los pasos a continuación.
 
 1. En el Admin VTEX, accede a **Storefront**, o ingresa **Storefront **en la barra de búsqueda.
 2. En **Intelligent Search**, haz clic en **Reglas de merchandising**.
@@ -25,31 +25,33 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
     * **Nombre de la regla**: nombre de la regla de merchandising. Ejemplo: promocionar el producto A cuando el cliente busque "galletas de chocolate".
     * **Fecha de inicio (opcional)**: define la fecha a partir de la cual se aplicará la regla de merchandising. La fecha considera la zona horaria UTC-0.
     * **Fecha de fin (opcional)**: define la fecha en que la regla de merchandising dejará de aplicarse a las búsquedas de la tienda. La fecha considera la zona horaria UTC-0.
-    * **Aplicar a los idiomas:** idiomas en los que se aplicará la regla de merchandising. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
-5. Haz clic en **Editor visual**. Para más información sobre cada editor, consulta [Tipos de edición](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
+    * **Aplicar a los idiomas:** idiomas en los que se aplicará la regla de merchandising. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5. Haz clic en **Editor visual**. Para más información sobre cada editor, consulta [Tipos de edición](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
 6. Haz clic en `Siguiente`.
 7. Define al menos un término de búsqueda o filtro para aplicar la regla de merchandising:
 
     * Para definir un término de búsqueda, ingresa el término en la barra de búsqueda (ítem **II** de la sección [Acciones disponibles en el Editor visual](https://docs.google.com/document/d/1zUZ_FhSGgJ8b3E0oF-q04sfcaDw6_btr/edit#bookmark=id.2et92p0)).
-    * Si deseas crear un filtro para aplicar la regla de merchandising (ítem **III** de la sección [Acciones disponibles en el Editor visual](https://docs.google.com/document/d/1zUZ_FhSGgJ8b3E0oF-q04sfcaDw6_btr/edit#bookmark=id.2et92p0)), sigue las instrucciones descritas en la sección [Agregar filtros y condiciones](https://help.vtex.com/es/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes).
+    * Si deseas crear un filtro para aplicar la regla de merchandising (ítem **III** de la sección [Acciones disponibles en el Editor visual](https://docs.google.com/document/d/1zUZ_FhSGgJ8b3E0oF-q04sfcaDw6_btr/edit#bookmark=id.2et92p0)), sigue las instrucciones descritas en la sección [Agregar filtros y condiciones](/es/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes).
 8. Si lo deseas, realiza las acciones opcionales que se indican a continuación para personalizar los resultados de la búsqueda.
     * Definir cantidad de ítems por fila en los resultados de búsqueda.
     * Definir cantidad de ítems por página en los resultados de búsqueda.
     * Ocultar producto en los resultados de búsqueda.
     * Fijar producto, es decir, anclarlo en las primeras posiciones de los resultados de búsqueda.
     * Arrastrar el producto fijado a la posición deseada en los resultados de búsqueda.
-    * Editar la configuración inicial de la regla de merchandising, que incluye el nombre de la regla, las fechas de inicio y fin y, si la tienda utiliza la [Configuración multidioma (beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO), los idiomas a los que se aplicará.
+    * Editar la configuración inicial de la regla de merchandising, que incluye el nombre de la regla, las fechas de inicio y fin y, si la tienda utiliza la [Configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO), los idiomas a los que se aplicará.
 
       Más información sobre estas acciones en los puntos **4, 5, 6, 8, 9** y **11** de la sección [Acciones disponibles en el Editor visual](#acciones-disponibles-en-el-editor-visual).
 9. Haz clic en `Guardar`.
 
- >ℹ️ Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.
+ <div class="alert alert-info">
+  <p>Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.</p>
+</div>
 
 ## Acciones disponibles en el Editor visual
 
 El Editor visual de reglas de merchandising de VTEX Intelligent Search permite realizar las acciones que se ilustran en la imagen siguiente:
 
-![visual-merch-rules-ES-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Relevance/crear-regla-de-merchandising-editor-visual_1.png)
+![visual-merch-rules-ES-v2](https://images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Editar nombre de la regla de merchandising.</li>
@@ -84,13 +86,13 @@ El Editor visual de reglas de merchandising de VTEX Intelligent Search permite r
 
 El filtro es un atributo seleccionable predefinido que restringe los resultados de la búsqueda, por ejemplo, permite filtrar por todos los productos de una categoría o marca, entre otras condiciones. Puedes agregar una o más condiciones a un filtro, tal como se muestra a continuación.
 
-![filtros-merchrules-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Relevance/crear-regla-de-merchandising-editor-visual_2.gif)
+![filtros-merchrules-es](https://images.ctfassets.net/alneenqid6w5/5e2KtHyjaAmvBqRDaJe8EK/cff18739dd40a27d303df3b5664e4d63/filtros-es.gif)
 
 Si deseas agregar una condición en el Editor visual, sigue cada uno de los pasos que se indican a continuación. 
 
 1. Haz clic en `Filtro`.
 2. Haz clic en `Agregar condición`.
-3. Rellena las condiciones que deseas crear. Las opciones disponibles se describen en [Condiciones de las reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+3. Rellena las condiciones que deseas crear. Las opciones disponibles se describen en [Condiciones de las reglas de merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 4. Haz clic en `Guardar`.
 
 Las condiciones definidas pueden funcionar en forma conjunta (`y`) o alternativamente (`o`).

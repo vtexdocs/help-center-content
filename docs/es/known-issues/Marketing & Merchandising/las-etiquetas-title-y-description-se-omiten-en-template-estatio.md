@@ -1,5 +1,5 @@
 ---
-title: 'Las etiquetas title y description se omiten en template estátio'
+title: "Las etiquetas title y description se omiten en template estátio"
 id: 2ElYglcUPOQieoUUG6akqo
 status: PUBLISHED
 createdAt: 2017-09-05T20:55:36.892Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: tags-title-and-description-are-ignored-in-static-template
+slugEN: las-etiquetas-title-y-description-se-omiten-en-template-estatio
 locale: es
 kiStatus: Backlog
 internalReference: 

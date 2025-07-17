@@ -1,5 +1,5 @@
 ---
-title: "Comportamentos incorretos para a mutação addToCart a partir do checkout-graphql enquanto envia 'opções' para itens já adicionados"
+title: 'Comportamentos incorretos para a mutação addToCart a partir do checkout-graphql enquanto envia "opções" para itens já adicionados'
 id: 1lMWbgmBsOis9gAKcMm8ob
 status: PUBLISHED
 createdAt: 2022-05-03T20:42:18.655Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: misbehaviors-for-addtocart-mutation-from-checkoutgraphql-while-sending-options-for-already-added-items
+slugEN: comportamentos-incorretos-para-a-mutacao-addtocart-a-partir-do-checkout-graphql-enquanto-envia-opcoes-para-itens-ja-adicionados
 locale: pt
 kiStatus: Fixed
 internalReference: 452053
@@ -18,7 +18,9 @@ internalReference: 452053
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Ao utilizar o "_addToCart"_ mutação do "_checkout-graphql"_ em um carrinho onde um determinado item já foi adicionado sem "_opções_", tentar incluí-lo novamente, desta vez com "_opções_", não vai funcionar corretamente. A mutação não registrará as "_opções_" enviadas e também retornará um erro se elas estiverem relacionadas com informações de "_subscrição_".
 

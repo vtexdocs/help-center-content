@@ -1,5 +1,5 @@
 ---
-title: 'Os dados de personificação B2B não são removidos após o logout'
+title: "Os dados de personificação B2B não são removidos após o logout"
 id: bHYLV4reDQl4epmPbYwmJ
 status: PUBLISHED
 createdAt: 2024-07-18T21:56:41.780Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-impersonated-data-is-not-removed-after-logging-out
+slugEN: os-dados-de-personificacao-b2b-nao-sao-removidos-apos-o-logout
 locale: pt
 kiStatus: Backlog
 internalReference: 1067969
@@ -18,7 +18,9 @@ internalReference: 1067969
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O logout após a representação de um usuário no B2B Suite não remove as permissões de vitrine da sessão.

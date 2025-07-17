@@ -1,5 +1,5 @@
 ---
-title: 'Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad'
+title: "Condiciones de pago establecidas para procesar transacciones a plazos distintas de 1x están procesando transacciones como prepagadas en su totalidad"
 id: 2z9cDiCAovzKVFZO7RSqOD
 status: PUBLISHED
 createdAt: 2024-05-09T18:47:33.319Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payment-conditions-set-to-process-transactions-in-installments-other-than-1x-are-processing-transactions-as-prepaid-in-full
+slugEN: condiciones-de-pago-establecidas-para-procesar-transacciones-a-plazos-distintas-de-1x-estan-procesando-transacciones-como-prepagadas-en-su-totalidad
 locale: es
 kiStatus: Backlog
 internalReference: 1030652
@@ -18,7 +18,9 @@ internalReference: 1030652
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las condiciones de pago configuradas para procesar transacciones en un número de plazos distinto de 1x están pudiendo procesar pagos en 1x. El problema solo se produce en los pagos en los que el usuario ha optado por el prepago total.

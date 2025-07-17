@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect USD currency displayed in some locales'
+title: "Incorrect USD currency displayed in some locales"
 id: 3ESHpG4r40Ltyljn621zF2
 status: PUBLISHED
 createdAt: 2022-02-23T21:47:29.346Z

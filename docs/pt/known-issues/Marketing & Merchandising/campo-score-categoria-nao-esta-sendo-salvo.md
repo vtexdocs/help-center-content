@@ -1,5 +1,5 @@
 ---
-title: 'Campo Score categoria não está sendo salvo'
+title: "Campo Score categoria não está sendo salvo"
 id: 3YxhdI31I4SY62w6oY806s
 status: PUBLISHED
 createdAt: 2018-06-01T17:24:40.180Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: category-score-field-is-not-being-saved
+slugEN: campo-score-categoria-nao-esta-sendo-salvo
 locale: pt
 kiStatus: Fixed
 internalReference: 

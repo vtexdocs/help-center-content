@@ -1,5 +1,5 @@
 ---
-title: 'Inventário incorretamente atualizado'
+title: "Inventário incorretamente atualizado"
 id: 2M8DqNY1pGQWZnF9ZXNycq
 status: PUBLISHED
 createdAt: 2022-05-03T12:32:14.192Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: incorrectly-updated-inventory
+slugEN: inventario-incorretamente-atualizado
 locale: pt
 kiStatus: No Fix
 internalReference: 556514
@@ -18,7 +18,9 @@ internalReference: 556514
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A emissora foi notificada para mudança de estoque no mesmo dia dentro de 2 minutos, mas apenas uma notificação chegou na integração.

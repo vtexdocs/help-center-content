@@ -1,5 +1,5 @@
 ---
-title: '[Meli] Error en la importación de algunos pedidos'
+title: "[Meli] Error en la importación de algunos pedidos"
 id: vvhSQr4abUg7bx1Tzp49M
 status: PUBLISHED
 createdAt: 2022-09-23T19:51:12.905Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-error-importing-some-orders
+slugEN: meli-error-en-la-importacion-de-algunos-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 664351
@@ -18,7 +18,9 @@ internalReference: 664351
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 identificamos que estamos haciendo la división por tipo de listado, así que cuando tratamos de dividir, y es Cumplimiento, no lo deja.
@@ -35,7 +37,7 @@ IMPORTANTE | Este escenario sólo contempla los pedidos:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/meli-error-en-la-importacion-de-algunos-pedidos_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/WW2J1pFsU9mvCd4VQ9Vju0RnN/?name=image.png)
 
 
 

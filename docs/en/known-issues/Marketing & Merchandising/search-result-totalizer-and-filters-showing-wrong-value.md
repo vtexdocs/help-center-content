@@ -1,5 +1,5 @@
 ---
-title: 'Search result totalizer and filters showing wrong value'
+title: "Search result totalizer and filters showing wrong value"
 id: 62FJLXM5ckM8sqYUIQg0C4
 status: PUBLISHED
 createdAt: 2017-12-22T16:50:30.032Z
@@ -18,7 +18,9 @@ internalReference:
 
 ## Summary
 
->⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+<div class = "alert alert-warning">
+  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+</div>
 
 When doing any type of search (category, brand, by term etc), the searchNavigator control displays all possible filters for the result, usually on the side. On the side of each filter, the system displays the totalizer. That is the quantity of products that exist for each option. Eventually, this totalizer does not present a correct value and when clicking on the option the result displays more or less products than the quantity indicated in the filter.
 

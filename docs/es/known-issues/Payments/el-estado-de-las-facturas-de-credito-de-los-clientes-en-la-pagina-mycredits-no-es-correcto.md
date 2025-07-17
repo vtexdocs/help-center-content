@@ -1,5 +1,5 @@
 ---
-title: 'El estado de las facturas de crédito de los clientes en la página MyCredits no es correcto'
+title: "El estado de las facturas de crédito de los clientes en la página MyCredits no es correcto"
 id: 413knN4Gtk9GuZV5zFlw7k
 status: PUBLISHED
 createdAt: 2022-03-27T17:49:32.464Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: customer-credit-invoices-status-at-mycredits-page-are-not-correct
+slugEN: el-estado-de-las-facturas-de-credito-de-los-clientes-en-la-pagina-mycredits-no-es-correcto
 locale: es
 kiStatus: No Fix
 internalReference: 369457
@@ -18,7 +18,9 @@ internalReference: 369457
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El estado de las facturas en la interfaz de MyCredits de las tiendas españolas no se muestra como debería, se muestran los nombres de los componentes en lugar de "cancelado", "vencido", "pagado" o "abierto".

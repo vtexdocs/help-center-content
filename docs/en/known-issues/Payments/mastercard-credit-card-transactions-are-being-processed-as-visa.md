@@ -1,5 +1,5 @@
 ---
-title: 'Mastercard credit card transactions are being processed as Visa'
+title: "Mastercard credit card transactions are being processed as Visa"
 id: 4B547KIrO7xBUWdCUhPkjs
 status: PUBLISHED
 createdAt: 2024-05-02T19:12:19.672Z

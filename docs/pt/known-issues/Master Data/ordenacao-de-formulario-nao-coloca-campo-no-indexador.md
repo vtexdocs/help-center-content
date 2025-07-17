@@ -1,5 +1,5 @@
 ---
-title: 'Ordenação de formulário não coloca campo no indexador'
+title: "Ordenação de formulário não coloca campo no indexador"
 id: 4rvX9Omm0gKqeuwiAYsIwu
 status: PUBLISHED
 createdAt: 2018-03-19T21:07:37.180Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: form-ordering-does-not-insert-field-in-indexer
+slugEN: ordenacao-de-formulario-nao-coloca-campo-no-indexador
 locale: pt
 kiStatus: Backlog
 internalReference: 

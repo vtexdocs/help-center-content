@@ -14,7 +14,9 @@ trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugPT: como-fazer-campanhas-atraves-do-google-ads
 ---
 
->⚠️ Atualmente, o Google Shopping Ads está disponível **somente para lojas brasileiras**.
+<div class="alert alert-warning">
+Atualmente, o Google Shopping Ads está disponível <strong>somente para lojas brasileiras</strong>.
+</div>
 
 O primeiro passo para usar o app é instalá-lo. Siga o passo-a-passo abaixo:
 

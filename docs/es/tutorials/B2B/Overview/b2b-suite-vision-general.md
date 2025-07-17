@@ -47,7 +47,7 @@ Para instalar B2B Suite, sigue los pasos que se indican a continuación:
 
 3. A continuación, haz clic para instalar la aplicación.
 
-![Instalação B2B Suite - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/Overview/b2b-suite-vision-general_1.gif)
+![Instalação B2B Suite - ES](https://images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/c127f17208e4daeb0746bbb38f1c93b9/Instala__o_B2B_Suite_-_ES.gif)
 
 ## Conjunto de aplicaciones B2B Suite
 
@@ -85,7 +85,7 @@ Amplía la experiencia de checkout para usuarios que son miembros de organizacio
 
 ### B2B Orders History
 
-Proporciona una nueva página de Pedidos en [Mi cuenta](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que los usuarios B2B puedan ver todos los pedidos anteriores realizados por usuarios de su organización o centro de costos, en función de su rol.
+Proporciona una nueva página de Pedidos en [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que los usuarios B2B puedan ver todos los pedidos anteriores realizados por usuarios de su organización o centro de costos, en función de su rol.
 
 ### B2B Admin Customers
 

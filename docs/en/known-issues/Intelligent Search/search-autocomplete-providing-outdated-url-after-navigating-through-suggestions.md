@@ -1,5 +1,5 @@
 ---
-title: 'Search autocomplete providing outdated URL after navigating through suggestions'
+title: "Search autocomplete providing outdated URL after navigating through suggestions"
 id: 168oT3vpuAcRdZbE7sahtF
 status: PUBLISHED
 createdAt: 2024-01-19T01:28:08.775Z

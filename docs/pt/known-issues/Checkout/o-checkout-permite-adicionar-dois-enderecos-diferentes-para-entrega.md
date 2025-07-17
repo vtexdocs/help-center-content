@@ -1,5 +1,5 @@
 ---
-title: 'O checkout permite adicionar dois endereços diferentes para entrega'
+title: "O checkout permite adicionar dois endereços diferentes para entrega"
 id: 2z7iq68qdHXAfY8RLDHXDg
 status: PUBLISHED
 createdAt: 2023-11-06T22:03:24.983Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-allows-to-add-2-different-addresses-for-delivery
+slugEN: o-checkout-permite-adicionar-dois-enderecos-diferentes-para-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 931225
@@ -18,7 +18,9 @@ internalReference: 931225
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O checkout permite adicionar dois endereços diferentes para entrega no formulário de pedido, por exemplo, um "comercial" e um "residencial" (definido pelo campo "addressType"), quando um deles é descartável.

@@ -1,105 +1,97 @@
 ---
-title: 'Comprobar status de integración en el panel del Integrations'
+title: 'Status de integraciones'
 id: tutorials_422
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:50.596Z
-updatedAt: 2020-02-19T20:51:05.382Z
-publishedAt: 2020-02-19T20:51:05.382Z
+updatedAt: 2025-06-10T18:20:24.338Z
+publishedAt: 2025-06-10T18:20:24.338Z
 firstPublishedAt: 2017-04-27T23:03:24.679Z
 contentType: tutorial
 productTeam: Channels
-author: authors_59
+author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: checking-integrations-in-bridge
 locale: es
 legacySlug: como-verificar-la-integracion-en-bridge
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-__Integraciones__ es el módulo responsable de la gestión de todos los marketplaces utilizados por su tienda. En este módulo se debe realizar el registro de toda nueva integración con marketplaces.
+Los logs de las integraciones de tiendas VTEX con otros marketplaces se encuentran en la sección **Conexiones**, en **Admin VTEX > Marketplace > Conexiones**.  
 
-En el Integraciones, es posible acompañar la integración con los diversos marketplaces activos, verificando la integración de __pedido__, __producto__, __rastreo__, __precio__ y __inventario__. Además, e sposible ver el status de la integración de cada ítem y realizar el __reprocesamiento__ de ese status, si es necesario.
+La sección te permite monitorear los status de cada tipo de integración o reprocesar las integraciones que tengan status de error.  
 
-## Navegación del Integraciones
+## Conexiones
 
-En el Integraciones, usted puede consultar las cinco pestañas de integración enumeradas a continuación:
+En la sección **Conexiones** puedes consultar los siguientes tipos de integración:
 
-1. [Pedidos](#pedidos)
-2. [Productos](#productos)
-3. [Rastreo](#rastreo)
-4. [Precio](#precio)
-5. [Inventario](#inventario)
+[Pedidos](#pedidos)  
+[Productos](#productos)  
+[Seguimiento](#seguimiento)  
+[Precio](#precio)  
+[Stock](#stock)  
 
-En todas las pantallas hay un __filtro__, una __caja de búsqueda__ y un botón de __Expandir Todos__, que muestra los detalles de cada línea.
+Cada página tiene un filtro, una barra de búsqueda, un botón `Expandir todo` y un botón `Exportar a Excel`.  
 
-También es posible exportar un informe con la información de Integraciones haciendo clic en el botón __Exportar a excel__. Usted puede utilizar el filtro para exportar solamente la información deseada.
+### Pedidos  
 
-## Pedidos
+Puedes acceder a la página **Pedidos** a través de **Admin VTEX > Marketplace > Conexiones > Pedidos.** Esta página muestra los logs de los pedidos realizados en los marketplaces integrados con tu tienda y contiene la siguiente información:  
 
-En la opción __Pedidos__, el Integraciones muestra el registro de pedidos realizados en los marketplaces en los que está integrada su tienda. Tenemos cuatro columnas que informan:
+- **ID:** número del pedido.  
+- **Afiliado:** marketplace de origen del pedido.  
+- **Status:** **procesado con éxito** o **procesado con error.**  
+- **Fecha de procesamiento:** última vez que la plataforma VTEX procesó el pedido.  
 
-- __Código__ del pedido.
-- __Afiliado__ donde se realizó el pedido.
-- __Status__ del pedido, que puede ser *proceso con éxito* o *proceso con error*.
-- __Data de procesamiento__, que indica la última vez que se procesó el pedido.
+Para ver más detalles del pedido, haz clic en el pedido. En caso de error, la plataforma muestra un log detallado sobre las causas del error del pedido. Para solucionar los errores, accede a la sección [resolución de problemas](/es/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) en el Help Center y consulta el tutorial del marketplace en que se realizó el pedido.  
 
-Usted puede ver más detalles haciendo clic en la información del pedido.
+### Productos  
 
-En caso de error, se mostrará un registro detallado de las causas del pedido no integrado. Para solucionar estos errores, puede hacer clic en el botón __?__. Usted será enviado a [nuestro artículo](/es/faq/errores-en-bridge-como-solucionar) con orientaciones para la resolución del error. Después de hacer las correcciones, debe hacer clic en el botón __Acciones__ y elegir la opción __Reprocesar__.
+En el Admin VTEX, accede a **Marketplace > Conexiones > Productos.** Esta página muestra los logs del envío de productos a los marketplaces integrados con tu tienda  y contiene la siguiente información:  
 
+- **Código del SKU:** ID que identifica el SKU en tu catálogo VTEX.  
+- **Afiliado:** marketplace al que se envió el SKU.  
+- **Status:** status de envío del SKU que puede ser **procesado con éxito** o **procesado con error.**  
+- **Fecha de procesamiento:** última vez que la plataforma VTEX procesó el envío del SKU.  
 
-## Productos
+Para ver más detalles, haz clic en el SKU deseado. En caso de error, se muestra un log detallado sobre las causas que hicieron fallar el envío del producto al afiliado.  
 
-En la opción __Productos__, el Integraciones muestra el registro de productos que se han enviado a los marketplaces en los que está integrada su tienda. Tenemos cuatro columnas que informan:
+Para solucionar los errores, debes realizar las correcciones y luego reprocesar el envío haciendo clic en el botón `Acciones` y seleccionando la opción **Reprocesar SKU.**  
 
-- __Código__ de SKU.
-- __Afiliado__ para el que se envió el SKU.
-- __Status__ del envío de SKU, que puede ser *proceso con éxito* o *proceso con error*.
-- __Data de procesamiento__, que indica la última vez que se procesó un envío de SKU.
+### Seguimiento  
 
-Es posible ver más detalles haciendo clic en la información de SKU.
+En el Admin VTEX, accede a **Marketplace > Conexiones > Seguimiento.** Esta página muestra los logs de envío de los pedidos realizados en los marketplaces integrados con tu tienday contiene la siguiente información:  
 
-En caso de error, se mostrará un registro detallado de las causas del producto no enviado al afiliado. Después de hacer las correcciones, usted debe hacer clic en el botón __Acciones__ y elegir la opción __Reprocesar SKU__.
+- **Código del pedido:** ID alfanumérico que identifica el pedido.  
+- **Afiliado:** marketplace de origen del pedido.  
+- **Status:** status de seguimiento del pedido que puede ser **procesado con éxito, procesado con advertencia** o **procesado con error.**  
+- **Fecha de procesamiento:** la última vez que el seguimiento fue procesado.  
 
-## Rastreo
+Para ver más detalles de seguimiento, haz clic en el pedido deseado. En caso de error, se muestra un log detallado sobre el envío del pedido.   
 
-En la opción __Rastreo__, el Integraciones muestra el registro del envío de los pedidos realizados en los marketplaces en los que está integrada su tienda. Tenemos cuatro columnas que informan:
+Para solucionar los errores, debes realizar las correcciones y luego reprocesar el envío haciendo clic en el botón `Acciones` y seleccionando la opción **Reprocesar SKU.**  
 
-- __Código__ del pedido.
-- __Afiliado__ donde se realizó el pedido.
-- __Status__ del rastreo, que puede ser *proceso con éxito* o *proceso con error*.
-- __Data de procesamiento__, que indica la última vez que se procesó el rastreo.
+### Precio
 
-Usted puede ver más detalles haciendo clic en la información de rastreo.
+En el Admin VTEX, accede a **Marketplace > Conexiones > Precio.** Esta página detalla el envío de precios de los productos a los marketplaces integrados con tu tienda y contiene la siguiente información:  
 
-En caso de error, se mostrará un registro detallado sobre el envío del pedido. Después de hacer las correcciones, usted debe hacer clic en el botón __Acciones__ y elegir la opción __Reprocesar__.
+- **Código del SKU:** ID que identifica el SKU en tu catálogo VTEX.  
+- **Afiliado:** marketplace al que se envió el SKU.  
+- **Status:** status del envío del precio del SKU, que puede ser **procesado con éxito, procesado con advertencia** o **procesado con error.**  
+- **Fecha de procesamiento:** última vez que el envío del precio del SKU fue procesado.  
 
-## Precio
+Para ver más detalles del envío de precio, haz clic en el SKU deseado. En caso de error, se muestra un log detallado. 
 
-En la opción __Precio__, el Integraciones muestra el registro de precios de productos que se han enviado a los marketplaces en los que está integrada su tienda. Tenemos cuatro columnas que informan:
+Para solucionar los errores, debes realizar las correcciones en el catálogo y luego reprocesar el envío haciendo clic en el botón `Acciones` y seleccionando la opción **Reprocesar SKU.**  
 
-- __Código__ de SKU.
-- __Afiliado__ para el que se envió el precio del SKU.
-- __Status__ del envío del precio del SKU, que puede ser *proceso con éxito* o *proceso con error*.
-- __Data de procesamiento__, que indica la última vez que se procesó el envío de precio de SKU.
+### Stock  
 
-Usted puede ver más detalles haciendo clic en la información de envío de precios.
+En el Admin VTEX, accede a **Marketplace > Conexiones > Stock.** Esta página muestra la información de stock enviada a los marketplaces integrados con tu tienda y contiene la siguiente información:  
 
-En caso de error, se mostrará un registro detallado sobre el envío del precio. Después de hacer las correcciones, usted debe hacer clic en el botón __Acciones__ y elegir la opción __Reprocesar__.
+- **Código del SKU:** ID que identifica el SKU en tu catálogo VTEX.  
+- **Afiliado:** marketplace al que se envió el stock del SKU.  
+- **Status:** status del envío del stock del SKU, que puede ser **procesado con éxito** o **procesado con error.**  
+- **Fecha de procesamiento:** última vez que el envío del stock del SKU fue procesado.  
 
-## Inventario
+Para ver los detalles de envío del stock, haz clic en el SKU deseado. En caso de error, se muestra un log detallado.   
 
-En la opción __Inventario__, el Integraciones muestra el registro del inventario de productos que se envió a los marketplaces en los que está integrada su tienda. Tenemos cuatro columnas que informan:
+Para solucionar los errores, debes realizar las correcciones indicadas en el mensaje y luego reprocesar el envío
+haciendo clic en el botón `Acciones` y seleccionando la opción **Reprocesar.**
 
-- __Código__ de SKU.
-- __Afiliado__ para el que se envió el inventário.
-- __Status__ del envío del inventario, que puede ser *proceso con éxito* o *proceso con error*.
-- __Data de procesamiento__, que indica la última vez que se procesó el envío de inventario de SKU.
-
-Es posible ver más detalles haciendo clic en la información de envío del inventario.
-
-En caso de error, se mostrará un registro detallado sobre el envío del inventario. Después de hacer las correcciones, usted debe hacer clic en el botón __Acciones__ y elegir la opción __Reprocesar__.
-
-## Artículos relacionados
-
-- [Cómo funciona la regla de disponibilidad mínima](/es/tutorial/como-funciona-la-regla-de-disponibilidad-minima)
-- [¿Por qué el pedido de marketplace no integró?](/es/faq/por-que-el-pedido-del-marketplace-no-integro)

@@ -1,5 +1,5 @@
 ---
-title: "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
+title: 'Texto Grande Indexado" e "Texto Indexado" não sendo alterados pela Importação de Especificação'
 id: 5ty5q8AfOROtCc8GegzZbd
 status: PUBLISHED
 createdAt: 2022-04-22T17:12:36.962Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: large-indexed-text-and-indexed-text-not-being-changed-by-specification-import
+slugEN: texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao
 locale: pt
 kiStatus: Backlog
 internalReference: 322657
@@ -18,7 +18,9 @@ internalReference: 322657
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

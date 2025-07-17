@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de pago sobrescribe el destinatario del envío cuando el nombre es diferente de los datos del perfil.'
+title: "La interfaz de pago sobrescribe el destinatario del envío cuando el nombre es diferente de los datos del perfil."
 id: 2IrL7DbWbzdgxZh6Us6n4q
 status: PUBLISHED
 createdAt: 2023-05-09T22:08:13.314Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-overwrites-shipping-recipient-when-name-is-different-from-profile-data
+slugEN: la-interfaz-de-pago-sobrescribe-el-destinatario-del-envio-cuando-el-nombre-es-diferente-de-los-datos-del-perfil
 locale: es
 kiStatus: Fixed
 internalReference: 822670
@@ -18,7 +18,9 @@ internalReference: 822670
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un comprador tiene un perfil completo en el que el nombre y los apellidos difieren del destinatario del envío, cuando su perfil se rellena automáticamente al realizar el pago, la interfaz de usuario sobrescribe el Destinatario del envío con el valor del nombre y los apellidos combinados.

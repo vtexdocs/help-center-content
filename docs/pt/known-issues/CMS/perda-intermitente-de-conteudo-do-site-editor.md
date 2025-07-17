@@ -1,24 +1,26 @@
 ---
-title: 'Perda intermitente de conteúdo do Site Editor'
+title: "Perda intermitente de conteúdo do Site Editor"
 id: 3a5MlAoD2Z7Gu6HDS8wihD
 status: PUBLISHED
 createdAt: 2022-07-05T17:07:24.733Z
-updatedAt: 2024-11-18T14:05:46.071Z
-publishedAt: 2024-11-18T14:05:46.071Z
+updatedAt: 2025-04-24T15:01:56.874Z
+publishedAt: 2025-04-24T15:01:56.874Z
 firstPublishedAt: 2022-07-05T17:07:25.091Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: intermitent-site-editor-content-loss
+slugEN: perda-intermitente-de-conteudo-do-site-editor
 locale: pt
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 610533
 ---
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Cada alteração de conteúdo no Site Editor insere alterações no arquivo content.json, armazenado em um bucket no AWS S3 e no content_render.js. Alguns clientes relataram uma perda de conteúdo do Site Editor após alguns procedimentos padrão, como a promoção do espaço de trabalho.
@@ -31,7 +33,7 @@ O conteúdo do espaço de trabalho não é levado para o ambiente mestre após o
 O cenário é intermitente. No entanto, ele foi relatado em dois cenários diferentes:
 
 **1. Ao promover um espaço de trabalho de produção para mestre:**
-Esse problema é novo e diferente do anterior que originou esse KI. Isso vem ocorrendo desde janeiro de 2024, quando introduzimos o `content_render.json`.  Este é o passo a passo em que normalmente esse problema ocorre:
+Esse problema é novo e diferente do problema anterior que originou esse KI. Isso vem ocorrendo desde janeiro de 2024, quando introduzimos o `content_render.json`.  Este é o passo a passo em que normalmente esse problema ocorre:
 
 1.1 Criação de um espaço de trabalho de produção;
 

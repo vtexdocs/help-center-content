@@ -1,5 +1,5 @@
 ---
-title: 'Minicart does not translate the product url'
+title: "Minicart does not translate the product url"
 id: 3Ujn5De4MdtH1AGoziqBk
 status: PUBLISHED
 createdAt: 2024-09-26T17:20:42.216Z

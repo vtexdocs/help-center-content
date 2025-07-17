@@ -1,5 +1,5 @@
 ---
-title: '[admin] review global search'
+title: "[admin] review global search"
 id: 1r83M4ug7WVoF1gb22NMh0
 status: PUBLISHED
 createdAt: 2023-08-29T20:01:07.327Z
@@ -30,7 +30,7 @@ global search isn't finding information about "users"
 Steps:
 Admin > global search > Master Data > User
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Admin/admin-review-global-search_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bT7SSj1ApVwcvNCxCwtOB8yJj/?name=image.png)
 
 
 ##

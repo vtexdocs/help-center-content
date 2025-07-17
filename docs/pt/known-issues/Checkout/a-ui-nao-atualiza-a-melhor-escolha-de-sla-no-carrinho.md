@@ -1,5 +1,5 @@
 ---
-title: 'A UI não atualiza a melhor escolha de SLA no carrinho'
+title: "A UI não atualiza a melhor escolha de SLA no carrinho"
 id: 5H05jLUJA0gmSDTO6nMsPE
 status: PUBLISHED
 createdAt: 2022-03-26T02:30:36.692Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-does-not-update-best-sla-choice-in-cart
+slugEN: a-ui-nao-atualiza-a-melhor-escolha-de-sla-no-carrinho
 locale: pt
 kiStatus: No Fix
 internalReference: 550201
@@ -18,7 +18,9 @@ internalReference: 550201
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando temos dois SKUs no carrinho cujo SLAID dos itens tem uma interseção, este é o SLA que será oferecido no carrinho com o leanShipping ativo;

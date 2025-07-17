@@ -1,5 +1,5 @@
 ---
-title: 'Algunas funciones del componente de diseño adhesivo no funcionarán como se espera cuando se visualicen a través del navegador Safari.'
+title: "Algunas funciones del componente de diseño adhesivo no funcionarán como se espera cuando se visualicen a través del navegador Safari."
 id: 6qXYzloLLowKzEqIUX1IB0
 status: PUBLISHED
 createdAt: 2023-11-08T13:34:35.513Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: some-functions-of-the-sticky-layout-component-wont-work-as-expected-when-viewed-through-safari-browser
+slugEN: algunas-funciones-del-componente-de-diseno-adhesivo-no-funcionaran-como-se-espera-cuando-se-visualicen-a-traves-del-navegador-safari
 locale: es
 kiStatus: Backlog
 internalReference: 868535
@@ -18,7 +18,9 @@ internalReference: 868535
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas funciones del componente de diseño pegajoso no funcionan como se espera cuando se ve a través del navegador Safari

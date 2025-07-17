@@ -1,5 +1,5 @@
 ---
-title: 'Quantidade sendo modificada no item errado com o componente da lista de produtos (IO/SF)'
+title: "Quantidade sendo modificada no item errado com o componente da lista de produtos (IO/SF)"
 id: jWaas8MOVv5NYSImgA9ao
 status: PUBLISHED
 createdAt: 2022-12-16T18:10:39.004Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: authors_84
 tag: Store Framework
-slugEN: quantity-being-modified-in-the-wrong-item-with-product-list-component-io-sf
+slugEN: quantidade-sendo-modificada-no-item-errado-com-o-componente-da-lista-de
 locale: pt
 kiStatus: Backlog
 internalReference: 402976
@@ -18,7 +18,9 @@ internalReference: 402976
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 No componente ["vtex.product-list"](https://github.com/vtex-apps/product-list), utilizado no Minicart IO/SF ([vtex.minicart](https://github.com/vtex-apps/minicart) v2) ou no "Cart v0" ([vtex.checkout-cart](https://github.com/vtex-apps/checkout-cart)), quando um carrinho tem o mesmo item fatiado em mais de uma ocorrência (por exemplo, quando é necessário para o rateio de descontos ou talvez quando tem itemAttachments), para alterar a quantidade para sua segunda ocorrência chamará o API para sua primeira ocorrência, portanto, a quantidade somada para o item estará errada.
 

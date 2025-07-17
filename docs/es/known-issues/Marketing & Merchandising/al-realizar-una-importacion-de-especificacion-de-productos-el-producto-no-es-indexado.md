@@ -1,5 +1,5 @@
 ---
-title: 'Al realizar una importación de Especificación de Productos el producto no es indexado'
+title: "Al realizar una importación de Especificación de Productos el producto no es indexado"
 id: 6MQhj9Kqsg4w0iUuecgGqg
 status: PUBLISHED
 createdAt: 2017-11-27T17:42:48.080Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: after-importing-the-product-specification-worksheet-the-product-is-not-indexed
+slugEN: al-realizar-una-importacion-de-especificacion-de-productos-el-producto-no-es-indexado
 locale: es
 kiStatus: Backlog
 internalReference: 

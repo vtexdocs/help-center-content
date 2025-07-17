@@ -33,21 +33,27 @@ Ejemplo:
 
 - **URL del carrito compartido**: `https://www.{nombredelatienda}.com/checkout/?orderFormId=31155bb8fd6944c99829c171aa8ed5c4#/cart`
 
->⚠️ Al ensamblar la URL del carrito compartido, verifique que la querystring **?orderFormId=...** posicionarse entre **/checkout/** y **#/cart**.
+<div class="alert alert-warning">
+Al ensamblar la URL del carrito compartido, verifique que la querystring <b>?orderFormId=...</b> posicionarse entre <b>/checkout/</b> y <b>#/cart</b>.
+</div>
 
 Para obtener acceso a la información de identificación del carrito, acceda [Checkout API](https://developers.vtex.com/vtex-rest-api/reference/checkout-api-overview).
 
->ℹ️ El uso de la funcionalidad de carrito abandonado es opcional, no generando impacto para las tiendas que no la utilizan.
+<div class="alert alert-info">
+El uso de la funcionalidad de carrito abandonado es opcional, no generando impacto para las tiendas que no la utilizan.
+</div>
 
 ## Seguridad de información
 
 Toda la información (personal, de entrega y de pago) está protegida, siendo visualizada únicamente por el usuario registrado en la plataforma (después de iniciar sesión). Los datos aparecen enmascarados para otras personas que acceden al carrito.
 
-Para saber más sobre protección de datos, visite [Seguridad de SmartCheckout](https://help.vtex.com/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para saber más sobre protección de datos, visite [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ## Rastreo de páginas
 
 Cuando se insertan nuevos parámetros en una URL, como una `querystring`, el seguimiento de la página puede cambiar, lo que afecta las evaluaciones realizadas por sistemas como el embudo de conversión de Google Analytics. Para utilizar el servicio de seguimiento de páginas con parámetros adicionales, consulte las reglas actualizadas en 
-[Configurar embudo de ventas en Google Analytics](https://help.vtex.com/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
+[Configurar embudo de ventas en Google Analytics](/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
 
->ℹ️ Si utiliza otro sistema de seguimiento de páginas en su tienda, consulte la documentación interna de ese sistema.
+<div class="alert alert-info">
+Si utiliza otro sistema de seguimiento de páginas en su tienda, consulte la documentación interna de ese sistema.
+</div>

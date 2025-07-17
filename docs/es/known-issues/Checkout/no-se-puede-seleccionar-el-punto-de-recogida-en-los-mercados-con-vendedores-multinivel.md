@@ -1,5 +1,5 @@
 ---
-title: 'No se puede seleccionar el punto de recogida en los mercados con vendedores multinivel'
+title: "No se puede seleccionar el punto de recogida en los mercados con vendedores multinivel"
 id: 1DGiyBrbw9qXGVMhX3k5gs
 status: PUBLISHED
 createdAt: 2023-01-11T19:57:54.964Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-cant-be-selected-in-marketplaces-with-multilevel-sellers
+slugEN: no-se-puede-seleccionar-el-punto-de-recogida-en-los-mercados-con-vendedores-multinivel
 locale: es
 kiStatus: Backlog
 internalReference: 524073
@@ -18,7 +18,9 @@ internalReference: 524073
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un mercado con una relación multinivel (MOI), cuando se selecciona un punto de recogida, el mercado devuelve un error de comunicación con el vendedor, impidiendo el uso de puntos de recogida en el mercado junto con esos vendedores.

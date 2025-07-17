@@ -14,10 +14,10 @@ trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: instore-primeros-pasos-y-configuracion
 ---
 
-Una vez realizadas las [configuraciones básicas de VTEX Sales App en el Admin](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), es posible agregar nuevos vendedores al sistema o administrar vendedores ya registrados.
-La categoría **Vendedores** representa una sección dentro del módulo **Configuración de la tienda** del Admin VTEX, mostrando la lista completa de vendedores registrados en la aplicación [VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Dentro de esta página, es posible gestionar la información de los vendedores en todas las [cuentas franquicia]() de tu tienda, mediante operaciones de [crear](#crear-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedore), [editar](Editar) y [eliminar](#eliminar-vendedor).
+Una vez realizadas las [configuraciones básicas de VTEX Sales App en el Admin](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), es posible agregar nuevos vendedores al sistema o administrar vendedores ya registrados.
+La categoría **Vendedores** representa una sección dentro del módulo **Configuración de la tienda** del Admin VTEX, mostrando la lista completa de vendedores registrados en la aplicación [VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Dentro de esta página, es posible gestionar la información de los vendedores en todas las [cuentas franquicia]() de tu tienda, mediante operaciones de [crear](#crear-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedore), [editar](Editar) y [eliminar](#eliminar-vendedor).
 
-![vendedores-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-first-steps-and-configurations/gestionar-vendedores-en-instore_1.png)
+![vendedores-es](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
 
 La página contiene la siguiente información:
 
@@ -25,7 +25,7 @@ La página contiene la siguiente información:
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nombre  | Nombre que identifica el vendedor, definido en la etapa[Crear vendedor](#crear-vendedor).                                                                                    |
 | Código | Código identificador de cada vendedor, el mismo registrado en el sistema de la tienda física.                                                                           |
-| Tienda  | Nombre identificador de la[cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor está registrado. |
+| Tienda  | Nombre identificador de la[cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor está registrado. |
 | Email   | Email de acceso de cada vendedor.                                                                                                                                         |
 
 ## Registrar vendedor
@@ -40,7 +40,9 @@ Puedes realizar el registro de un vendedor siguiendo los pasos a continuación:
 
 Una vez registrado, el vendedor recibirá un email de confirmación de registro y será redirigido a la aplicación VTEX Sales App para iniciar sesión como vendedor.
 
->⚠️ Los vendedores registrados en VTEX Sales App no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.
+<div class ="alert alert-warning">
+<p>Los vendedores registrados en VTEX Sales App no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.</p> 
+</div>
 
 ### Campos de registro del vendedor
 
@@ -53,9 +55,11 @@ Una vez registrado, el vendedor recibirá un email de confirmación de registro 
 
 #### Tienda física
 
-* **Tienda:** [cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor será registrado. Campo obligatorio.
+* **Tienda:** [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor será registrado. Campo obligatorio.
 
->ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en VTEX Sales App.
+<div class ="alert alert-info">
+<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en VTEX Sales App.</p> 
+</div>
 
 ## Buscar vendedor
 

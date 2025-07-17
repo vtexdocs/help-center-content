@@ -1,5 +1,5 @@
 ---
-title: 'Get seller List responding with empty UrlLogo'
+title: "Get seller List responding with empty UrlLogo"
 id: 1kKsre07DDa56hsEgXnYCz
 status: PUBLISHED
 createdAt: 2022-02-25T13:28:50.337Z

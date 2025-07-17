@@ -1,5 +1,5 @@
 ---
-title: 'Filtro de Gestión de pedidos no trae los pedidos hechos el día 18/02/2018'
+title: "Filtro de Gestión de pedidos no trae los pedidos hechos el día 18/02/2018"
 id: 1TGxwZaPgYiQIauAE2CuYk
 status: PUBLISHED
 createdAt: 2018-03-15T13:44:08.799Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Order Management
-slugEN: orders-management-filter-doesnt-bring-the-orders-made-on-02-18-2018
+slugEN: filtro-de-gestion-de-pedidos-no-trae-los-pedidos-hechos-el-dia-18-02-2018
 locale: es
 kiStatus: Backlog
 internalReference: 

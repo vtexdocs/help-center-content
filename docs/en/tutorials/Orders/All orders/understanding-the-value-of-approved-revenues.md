@@ -3,8 +3,8 @@ title: 'Understanding the value of approved revenues'
 id: tutorials_4322
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:05.741Z
-updatedAt: 2023-05-31T16:14:13.332Z
-publishedAt: 2023-05-31T16:14:13.332Z
+updatedAt: 2025-02-28T13:48:02.348Z
+publishedAt: 2025-02-28T13:48:02.348Z
 firstPublishedAt: 2017-04-27T23:11:15.957Z
 contentType: tutorial
 productTeam: Billing
@@ -15,39 +15,66 @@ legacySlug: understanding-the-value-of-approved-revenues
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-For VTEX, revenue is the total value of orders that received the **Financially Approved** status in the **Orders** module. For more information, see [What does VTEX consider as revenues for invoice calculation?](https://help.vtex.com/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq).
+For VTEX, every financially approved order has its total amount considered as revenue, including shipping costs and taxes applied to the final product price. All orders that go through this status are included in the invoice, regardless of subsequent cancellation or return.
 
-## Financial Report
+## 1. Understanding revenue on VTEX
+To understand the invoice, you need to understand the definition of revenue. On VTEX, all orders marked as **approved** in the Orders module are considered revenue. This includes:
 
-In the Financial Report, customers find a list of financially approved orders and the sales channels used - B2C, B2B, Call Center, VTEX Sales App, certified Marketplace, certified Seller, etc.
+- Order total including shipping and taxes.
+- Canceled orders, including those denied by the anti-fraud solution.
+- Purchase tests.
 
-To access an invoice’s Financial Report, follow the steps below:
+All the above cases use the whole platform infrastructure because this is the stage when a customer completes the purchase. This is why these orders are included in the revenue.
 
-1. In the VTEX Admin, go to **Apps > Customer Credit > Invoices**, or type **Invoices** in the search bar at the top of the page.
-2. Select the desired invoice.
-3. Click the `Financial Report` button.
+### Identifying when an order is marked as approved
+An order is marked as approved when the payment is authorized. The process varies based on the payment method used for the order:
 
-You will receive a message notifying that the requested financial report will be sent to your VTEX user email.
+- **Credit card:** The order is marked when the acquirer validates the balance and card information.
+- **Pix and boleto (Brazil):** The order is marked only after payment confirmation.
 
-## Invoice details
+Once an order is marked as approved, VTEX no longer considers changes to the order for billing purposes.
 
-To help customers understand their invoices, VTEX provides the details of each invoice, with a list of the amounts charged.
+## 2. Exporting the invoice financial report
+The financial report includes **all approved orders** in the period corresponding to the invoice, considering only the environment from which it's exported. If you have multiple environments, you must export a report for each one. After export, the report will be sent to your email shortly.
 
-It contains descriptive data on the _Gross Merchandise Value_ (GMV), which is the sum of the financially approved orders in that month, detailed in the financial report, in addition to the _Monthly Fixed Fee_ and the Take Rate applied, which may vary according to your contract.
+The **Invoices module** generates the financial report. To export it, follow the steps below:
 
-To view your invoice’s details, follow the steps below:
+1. In the VTEX Admin, click the initial of your email address at the top right corner.
+2. Click **Billing  Invoices**, or type **Invoices** in the search bar.
+3. Select the desired invoice.
+4. Click `Financial Report`.
 
-1. In the VTEX Admin, go to **Apps > Customer Credit > Invoices**, or type **Invoices** in the search bar at the top of the page.
-2. Select the desired invoice.
-3. Click `Details`.
-4. Click on the arrow next to the values in the invoice.
+<div class = "alert alert-info">
+The financial report is static and doesn't change after it's generated. You can access it at any time to view the revenue.
+</div>
 
-## Understanding the values of approved revenues
+## 3. Analyzing and manipulating the financial report
+The financial report is in **CSV** format with several columns detailing each order. To validate the invoice values, apply **filters to the columns** in the report, following the criteria below:
 
-The sum of the total value of the financially approved orders listed in the financial report is called _Gross Merchandise Value_ (GMV). To obtain the total value of the GMV, you must add all the values contained in _Total Value String_.
+### Filtering and calculating the transacted GMV
+Use the `=SUMIF` function in Excel to calculate the total number of orders in different scenarios:
 
-The _Take Rate_ is the monthly percentage charged on the total value of the financially approved orders. We calculate the percentage on the __total of financially approved orders__, since this is the stage at which the customer completes the entire purchase process, having used Search, Infra, Hosting, and other resources.
+| **Revenue type**                          | **Applied filters**                                               | **Summed column**              | **Description**                                                                                              |
+|-------------------------------------------|-------------------------------------------------------------------|--------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Certified marketplace                     | `IsCertifiedMarketplace (Q) = True (T)`                           | `Value STR (G)` or `Value (F)` | `Value STR` contains the total of each order in 00,00 format and `Value` contains the total in 00.00 format. |
+| External seller                           | `IsExternalSeller (S) = True (T)`                                 | `Value STR (G)` or `Value (F)` | `G` or `F` indicate the column used for the sum.                                                             |
+| B2B                                       | `IsB2B (O) = True (T) and IsCertifiedMarketplace (Q) = False (F)` | `Value STR (G)` or `Value (F)` | `O` and `Q` are report columns.                                                                              |
+| B2C                                       | `BillingType (O) = B2C`                                           | `Value STR (G)` or `Value (F)` | Filters are applied per column.                                                                              |
+| Internal certified seller & child account | `IsInternalCertifiedSellerAndIsChildAccount (AF) = True (T)`      | `Value STR (G)` or `Value (F)` | `T` and `F` indicate boolean values (True or False).                                                         |
 
-Different sales channels (B2C, B2B, Call Center...) have different Take Rates. To understand the percentage being charged, see the conditions in your contract.
-To access the value of the financially approved orders by sales channels, you must filter it in the **Type** column.
+These filters allow you to segment the data and ensure that each order category is accounted for correctly on the invoice.
+
+## 4. Compare the data in the financial report with the data in the Orders module
+Although the **financial report** is the official source for validating invoices, you can compare this information with the **order report** to get more details about the invoiced orders.
+
+### Exporting the orders report for review
+In this section, you will see the process of exporting the generated report, including the formats available for download and how to access it later.
+
+1. In the VTEX Admin, go to **Orders > All Orders** or type **All Orders** in the search bar.
+2. Filter by **Authorized date** from the first day of the desired month to the first day of the following month, both at 12:00 AM.
+3. Click `Use my time zone` to disregard the time zone.
+4. Click `Apply`.
+5. Click `Export`.
+
+After downloading the report, use the **OrdersIDs** to compare the information with the financial report.
 

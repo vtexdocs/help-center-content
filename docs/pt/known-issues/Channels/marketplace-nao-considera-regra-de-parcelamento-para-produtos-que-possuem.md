@@ -1,5 +1,5 @@
 ---
-title: 'Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller'
+title: "Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller"
 id: 57fIYUFmvuyYaq8W6KkieC
 status: PUBLISHED
 createdAt: 2017-06-16T21:18:22.276Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: authors_35
 tag: Checkout,Payments
-slugEN: marketplace-doesnt-consider-installment-rule-for-products-that-have-a-commercial-condition-in-the-seller
+slugEN: marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -25,10 +25,10 @@ Essa funcionalidade é comumente usada para criar cenários como este: a geladei
 O problema conhecido fica evidente no seguinte exemplo, em que o marketplace não consegue refletir as mesmas regras de parcelamento que o seller:
 
 ## Marketplace - Até 12x sem juros
-![Geladeira Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_1.png)
+![Geladeira Marketplace](//images.contentful.com/alneenqid6w5/c7CtSlVToIIQScyiM4AiS/e9f1415ccbe79d8fe34af8e9901b6570/Geladeira_Marketplace.png)
 
 ## Seller - Até 10x sem juros
-![2017-06-16 18 15 44-Geladeira 540 Litros Evox Brastemp Side Inverse - Brastemp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Channels/marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem_2.png)
+![2017-06-16 18 15 44-Geladeira 540 Litros Evox Brastemp Side Inverse - Brastemp](//images.contentful.com/alneenqid6w5/6HZs1prIVaUsOYCWeEMG8U/169a380f8e4c43cd0c644d280da0d126/2017-06-16_18_15_44-Geladeira_540_Litros_Evox_Brastemp_Side_Inverse_-_Brastemp.png)
 
 A exibição no marketplace está errada. Os parcelamentos em 11x e 12x não exibem juros, quando, na realidade, deveriam exibir.
 

@@ -1,5 +1,5 @@
 ---
-title: '[admin] revisar búsqueda global'
+title: "[admin] revisar búsqueda global"
 id: 1r83M4ug7WVoF1gb22NMh0
 status: PUBLISHED
 createdAt: 2023-08-29T20:01:07.327Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slugEN: admin-review-global-search
+slugEN: admin-revisar-busqueda-global
 locale: es
 kiStatus: Backlog
 internalReference: 889993
@@ -18,7 +18,9 @@ internalReference: 889993
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 la búsqueda global no encuentra información sobre "usuarios"
@@ -32,7 +34,7 @@ la búsqueda global no encuentra información sobre "usuarios"
 Pasos:
 Admin > búsqueda global > Datos maestros > Usuario
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/admin-revisar-busqueda-global_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bT7SSj1ApVwcvNCxCwtOB8yJj/?name=image.png)
 
 
 ##

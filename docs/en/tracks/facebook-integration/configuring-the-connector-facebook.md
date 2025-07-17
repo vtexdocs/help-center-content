@@ -23,7 +23,7 @@ The native connector used for integrating with Facebook must be configured in th
 5. Fill in the fields in the modal window according to the descriptions below, then click on the `Save configuration` button. Fields marked with an asterisk are mandatory.
 
 - **Integration (if you deactivate the integration, then all settings, including the authentication and affiliates, will be deleted)*:** toggle the _Activate_ option to enable the integration.
-- **Affiliate ID*:** Identification code for creating an [affiliate](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) that is not yet registered in your system. The code must consist of three consonants, repeated or not. Vowels are not accepted. Suggestion: FCB. Once the connector is created, the affiliate is automatically created.
+- **Affiliate ID*:** Identification code for creating an [affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) that is not yet registered in your system. The code must consist of three consonants, repeated or not. Vowels are not accepted. Suggestion: FCB. Once the connector is created, the affiliate is automatically created.
 - **Affiliate email*:** fill in an email address for the affiliate you are creating. Notifications about the integration will be sent to this email address.
 - **Trade policy*:** the ID of the trade policy that will be used in the integration. All products linked to this trade policy will be sent to Facebook.
 - **Product display name*:** determines the rule for naming SKUs on Facebook. You can choose between two options.

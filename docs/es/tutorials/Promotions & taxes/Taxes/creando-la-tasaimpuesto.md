@@ -3,8 +3,8 @@ title: 'Crear tasa/impuesto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2023-10-26T13:20:22.531Z
-publishedAt: 2023-10-26T13:20:22.531Z
+updatedAt: 2025-04-11T16:22:19.619Z
+publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,6 +18,10 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 El impuesto es lo contrario de la promoción, es decir, un porcentaje adicional introducido en el precio del producto, para aumentar el valor. El impuesto puede ajustarse teniendo en cuenta los distintos tipos de condiciones, tales como rango de códigos postales, el departamento y la marca de los productos, el clúster del cliente etc. La cuota única se inserta en el carrito, en la zona denominada de impuestos.
 
 El impuesto se aplica conforme al registro que hará el vendedor. A continuación, el carrito de su tienda tiene un producto de otro vendedor, el impuesto que se aplicará en este producto será el que registra el vendedor en la administración del producto. No se considerará el impuesto registrado en el módulo de precios de mercado, si tenemos un impuesto asociado con este producto.
+
+<div class = "alert alert-info">
+Las cuentas del Seller Portal no tienen acceso al módulo de creación de impuestos. Sin embargo, al crear un impuesto en VTEX Admin, si deseas que se aplique en el contexto de seller, selecciona la política comercial correspondiente durante la configuración.
+</div>
 
 ## Cómo realizarlo
 
@@ -58,4 +62,4 @@ El impuesto se aplica conforme al registro que hará el vendedor. A continuaci�
 
 La planificación de un impuesto se produce cuando es creado o modificado con el tiempo y la fecha de validación más adelante del actual. Visualmente se pueden identificar estos impuestos en la página principal del módulo de Tsas y Promociones a través de una franja naranja en la esquina superior derecha de la lista de precios con la palabra programado. A continuación se muestra un ejemplo de cómo se identifica el impuesto cuando está programado.
 
-![agendamento.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Taxes/creando-la-tasaimpuesto_1.png)
+![agendamento.es](https://images.ctfassets.net/alneenqid6w5/2DPKlUdsr38TTIwc3e9GH5/31b3319951c14c8faa6ab3558cebf19b/agendamento.es.png)

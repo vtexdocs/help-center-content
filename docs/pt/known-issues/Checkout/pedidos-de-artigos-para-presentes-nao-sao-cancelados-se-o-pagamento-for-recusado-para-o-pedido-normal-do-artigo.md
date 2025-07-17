@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos de artigos para presentes não são cancelados se o pagamento for recusado para o pedido normal do artigo'
+title: "Pedidos de artigos para presentes não são cancelados se o pagamento for recusado para o pedido normal do artigo"
 id: 6Yr7bEseJceNQiY2sw7Vtx
 status: PUBLISHED
 createdAt: 2022-10-18T22:34:21.726Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orders-for-gift-items-arent-canceled-if-the-payment-is-refused-for-the-regular-items-order
+slugEN: pedidos-de-artigos-para-presentes-nao-sao-cancelados-se-o-pagamento-for-recusado-para-o-pedido-normal-do-artigo
 locale: pt
 kiStatus: Backlog
 internalReference: 679598
@@ -18,7 +18,9 @@ internalReference: 679598
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As ordens são independentes quando não compartilham a mesma transação de pagamento. Pedidos criados para preencher apenas o item de presente através de um vendedor diferente dos outros itens de uma compra não têm nenhuma transação de pagamento porque são gratuitos.

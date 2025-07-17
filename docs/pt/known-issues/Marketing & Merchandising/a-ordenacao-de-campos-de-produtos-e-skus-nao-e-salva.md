@@ -1,5 +1,5 @@
 ---
-title: 'A ordenação de campos de produtos e SKUs não é salva'
+title: "A ordenação de campos de produtos e SKUs não é salva"
 id: ki4RwH9MHeuYEUmyoiYSG
 status: PUBLISHED
 createdAt: 2018-08-17T02:22:22.240Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slugEN: ordering-of-product-fields-and-skus-is-not-saved
+slugEN: a-ordenacao-de-campos-de-produtos-e-skus-nao-e-salva
 locale: pt
 kiStatus: Backlog
 internalReference: 525127
@@ -18,7 +18,9 @@ internalReference: 525127
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Quando você muda o pedido de produtos ou campos de SKUs em uma categoria diferente da principal, após clicar no botão de ordenação as mudanças não são salvas e os campos alterados não aparecem após a página ser recarregada.
 

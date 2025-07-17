@@ -1,5 +1,5 @@
 ---
-title: 'A exportação de valores de anexos do SKU não funcionam corretamente para sistemas operacionais em espanhol'
+title: "A exportação de valores de anexos do SKU não funcionam corretamente para sistemas operacionais em espanhol"
 id: 75FXMEc3L2kI0JaFjyyZuU
 status: PUBLISHED
 createdAt: 2022-04-25T20:26:43.281Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: export-sku-attachment-values-does-not-work-correctly-for-spanish-language-operating-systems
+slugEN: a-exportacao-de-valores-de-anexos-do-sku-nao-funcionam-corretamente-para-sistemas-operacionais-em-espanhol
 locale: pt
 kiStatus: Backlog
 internalReference: 566393
@@ -18,7 +18,9 @@ internalReference: 566393
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o idioma do sistema operacional é o espanhol (Peru), a exportação dos valores dos anexos da SKU gera uma planilha com as colunas "Valor" e "Custo" incorretamente preenchidas

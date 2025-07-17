@@ -1,5 +1,5 @@
 ---
-title: 'Alguns módulos do Admin VTEX e storefront da loja podem sofrer problemas no Firefox 89.0'
+title: "Alguns módulos do Admin VTEX e storefront da loja podem sofrer problemas no Firefox 89.0"
 id: 10BUSPqviNy4VQzuIbllKL
 status: PUBLISHED
 createdAt: 2021-06-08T17:54:36.813Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 tag: Checkout,Payments,Store Framework
-slugEN: vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0
+slugEN: alguns-modulos-do-admin-vtex-e-storefront-da-loja-podem-sofrer-problemas-no
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -37,7 +37,9 @@ Para consertar esse problema, você deve desligar a opção de rastreamento:
 
 Não se preocupe: desligar essa opção não significa que sua loja estará desprotegida.    
 
->ℹ️ Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador.  
+<div class= "alert alert-info">
+Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador. 
+</div>  
 
-![Firefox bug PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Others/alguns-modulos-do-admin-vtex-e-storefront-da-loja-podem-sofrer-problemas-no_1.jpg)
+![Firefox bug PT](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
 

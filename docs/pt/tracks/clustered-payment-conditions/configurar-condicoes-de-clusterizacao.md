@@ -16,13 +16,17 @@ trackSlugPT: condicoes-de-pagamento-clusterizadas
 
 Como mencionamos, a Clustered Payment Conditions define que uma condição de pagamento será aplicada para um ou mais consumidores. 
 
->⚠️ A clusterização de clientes pode ser aplicada em condições de pagamento que foram configuradas previamente. 
->
-> Isso significa que você pode editar condições de pagamento que já existem e aplicar condições de clusterização a essas regras.  
+<div class="alert alert-warning">
+A clusterização de clientes pode ser aplicada em condições de pagamento que foram configuradas previamente. 
+
+Isso significa que você pode editar condições de pagamento que já existem e aplicar condições de clusterização a essas regras. 
+</div>  
 
 Aqui, explicaremos como configurar uma condição especial de pagamento a partir de clusters.
 
->❗ **Atenção**: só é permitido criar cinco clusters de clientes por condição de pagamento.
+<div class="alert alert-danger">
+<strong>Atenção</strong>: só é permitido criar cinco clusters de clientes por condição de pagamento.
+</div>
 
 ## Criar uma nova condição de pagamento
 
@@ -30,7 +34,7 @@ Aqui, explicaremos como configurar uma condição especial de pagamento a partir
 
 Em seguida, do lado direito da tela, clique no botão verde “+” e busque pela opção “Customer Credit”. Ela estará na seção “Outro”.
 
-Você será direcionado para a página de configuração da nova condição de pagamento. Explicamos como preencher os campos no artigo de [como configurar uma condição de pagamento](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "como configurar uma condição de pagamento") da track do Customer Credit.
+Você será direcionado para a página de configuração da nova condição de pagamento. Explicamos como preencher os campos no artigo de [como configurar uma condição de pagamento](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "como configurar uma condição de pagamento") da track do Customer Credit.
 
 Ao finalizar a configuração das regras de prazo e parcelamento, prossiga para a clusterização:
 

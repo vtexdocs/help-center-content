@@ -1,5 +1,5 @@
 ---
-title: 'When evaluating a product, it is not indexed, making shelf out of date'
+title: "When evaluating a product, it is not indexed, making shelf out of date"
 id: 1SdYr4o8G4uuq4yy8S002A
 status: PUBLISHED
 createdAt: 2017-08-10T17:41:52.600Z

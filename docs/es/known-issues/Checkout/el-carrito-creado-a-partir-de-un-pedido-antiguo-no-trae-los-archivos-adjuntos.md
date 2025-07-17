@@ -1,5 +1,5 @@
 ---
-title: 'El carrito creado a partir de un pedido antiguo no trae los archivos adjuntos'
+title: "El carrito creado a partir de un pedido antiguo no trae los archivos adjuntos"
 id: 2TGthMyZOUQWkc2Wo6wgIg
 status: PUBLISHED
 createdAt: 2019-01-08T16:58:19.057Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-old-order-doesnt-bring-the-attachments
+slugEN: el-carrito-creado-a-partir-de-un-pedido-antiguo-no-trae-los-archivos-adjuntos
 locale: es
 kiStatus: No Fix
 internalReference: 802464
@@ -18,7 +18,9 @@ internalReference: 802464
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

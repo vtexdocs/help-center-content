@@ -28,6 +28,8 @@ Veja mais mudanças importantes:
 - Data layer atualizado com informações para serem usadas no Google Enhanced Ecommerce.
 - Possibilidade de edição dos arquivos `checkout5-custom.js` e `orderplaced2-custom.js` para customizar o JavaScript do checkout e da tela de pedido finalizado, repectivamente.
 
->⚠️ Mas lembre-se: a VTEX **não recomenda** a alteração dos arquivos de JavaScript, porque isso pode causar danos de segurança ao seu checkout. Por isso, não nos responsabilizamos por qualquer problema gerado na edição desse código.
+<div class="alert alert-warning">
+Mas lembre-se: a VTEX <strong>não recomenda</strong> a alteração dos arquivos de JavaScript, porque isso pode causar danos de segurança ao seu checkout. Por isso, não nos responsabilizamos por qualquer problema gerado na edição desse código.
+</div>
 
 Para saber todos os detalhes sobre a nova versão do SmartCheckout™, veja o [artigo do VTEX Help](/pt/tutorial/mudando-para-nova-versao-do-smart-checkout).

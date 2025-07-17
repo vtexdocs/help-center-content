@@ -1,5 +1,5 @@
 ---
-title: 'La información del cliente se elimina del sistema de perfiles sin una razón clara'
+title: "La información del cliente se elimina del sistema de perfiles sin una razón clara"
 id: 3xnhH9VXa5Gj0oag44cG1I
 status: PUBLISHED
 createdAt: 2022-06-25T10:53:51.548Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: customer-information-being-removed-from-profile-system-without-clear-reason
+slugEN: la-informacion-del-cliente-se-elimina-del-sistema-de-perfiles-sin-una-razon-clara
 locale: es
 kiStatus: Backlog
 internalReference: 469823
@@ -18,7 +18,9 @@ internalReference: 469823
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces recibimos informes en los que la información del cliente se ha eliminado de las entidades CL y AD de Master Data, lo que puede gestionarse de muchas maneras: uso directo de Master Data por parte de la propia tienda (UI, API, importación/exportación de datos) y otras integraciones internas de la plataforma, como el servicio CHK a través de Profile System.

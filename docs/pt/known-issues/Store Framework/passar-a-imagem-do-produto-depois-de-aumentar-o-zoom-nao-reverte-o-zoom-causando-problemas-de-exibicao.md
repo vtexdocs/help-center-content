@@ -1,5 +1,5 @@
 ---
-title: 'Passar a imagem do produto depois de aumentar o zoom não reverte o zoom, causando problemas de exibição'
+title: "Passar a imagem do produto depois de aumentar o zoom não reverte o zoom, causando problemas de exibição"
 id: 41UVOcLabjyv29Buupj1MO
 status: PUBLISHED
 createdAt: 2024-01-29T18:05:22.470Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: swiping-productimage-after-zooming-in-does-not-revert-the-zoom-causing-display-issues
+slugEN: passar-a-imagem-do-produto-depois-de-aumentar-o-zoom-nao-reverte-o-zoom-causando-problemas-de-exibicao
 locale: pt
 kiStatus: Backlog
 internalReference: 491180
@@ -18,7 +18,9 @@ internalReference: 491180
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o vtex.store-components product-image, ao deslizar uma imagem para o lado depois de clicar nela para aumentar o zoom, a primeira imagem continuará ampliada, causando problemas de renderização quando o usuário deslizar de volta para ela.

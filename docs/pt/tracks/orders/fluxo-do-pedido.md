@@ -14,24 +14,26 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---
 
-O [fluxo do pedido](https://help.vtex.com/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
+O [fluxo do pedido](/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
 
 Alterações no pedido - sejam elas causadas pelo cliente, pela loja ou por sistemas externos - geram mudanças no __status do pedido__. E com, isso, o pedido se movimenta dentro do fluxo.
 
 ## Marketplaces e Sellers
 
-Os conceitos de [Marketplace e Seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
+Os conceitos de [Marketplace e Seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
 
 - __Marketplace__ é o ambiente onde é realizado o fechamento do pedido, ou seja, onde o cliente realiza o processo de checkout. 
 - __Seller__ é o dono do SKU. É, portanto, o responsável pelo fulfilment - ou seja, por fazer a entrega do produto ao cliente. 
 
->ℹ️ Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias entregas é Marketplace e Seller ao mesmo tempo.
+<div class="alert alert-info">
+Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias entregas é Marketplace e Seller ao mesmo tempo.
+</div>
 
 É importante entender esses conceitos porque o fluxo do pedido no Marketplace é diferente do fluxo no Seller.
 
 ## Fluxo do pedido no Marketplace
 
-![Screen Shot Fluxo de Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_1.png)
+![Screen Shot Fluxo de Marketplace](https://images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
 
 Ocorre quando a loja atua apenas como Marketplace no pedido. Ou seja, quando a loja vende produtos de outra loja - seu Seller.
 
@@ -45,7 +47,7 @@ Então, o despacho é autorizado e logo em seguida entra-se no status `Carência
 
 ## Fluxo do pedido no Seller
 
-![screenshoot fluxo seller PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_2.JPG)
+![screenshoot fluxo seller PT](https://images.ctfassets.net/alneenqid6w5/19xYHIDMJf3wClpHAnTwuf/8adf145a324fdbc36db70785f55675c0/screenshoot_fluxo_seller_PT.JPG)
 
 Ocorre quando a loja atua como Seller. Ou seja, quando ela é a dona do produto.
 
@@ -59,7 +61,7 @@ O próximo status é então o de `Preparando entrega`, quando o Seller prepara a
 
 ## Fluxo completo do pedido
 
-![Screen Shot Fluxo completo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_3.png)
+![Screen Shot Fluxo completo](https://images.ctfassets.net/alneenqid6w5/7A1IWqoCQw4INm34u6lOWF/f21882fb0c337fbaf2ebb462ebb197f7/Screen_Shot_Fluxo_completo.png)
 
 Ocorre quando a loja é ao mesmo tempo Marketplace e Seller. Ou seja, é quando o pedido foi fechado na loja e a própria loja é a dona do produto, sendo responsável pelo fulfillment.
 
@@ -69,13 +71,14 @@ Depois de aprovado o pagamento, o pedido segue para `Pagamento aprovado` e em se
 
 Ou seja, neste caso tanto as etapas de pagamento quanto de entrega são responsabilidade da loja.
 
->ℹ️ Todo pedido é finalizado em apenas um destes dois status possíveis:
->
-> 
->
-> * Faturado
->
-> * Cancelado
-> 
+<div class="alert alert-info">
+Todo pedido é finalizado em apenas um destes dois status possíveis:<br>
+<ul>
+  <li>Faturado</li>
+  <li>Cancelado</li>
+</ul>
+</div>
 
->ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status).
+<div class="alert alert-info">
+Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em <a href="https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status">Entendendo os status</a>. 
+</div>

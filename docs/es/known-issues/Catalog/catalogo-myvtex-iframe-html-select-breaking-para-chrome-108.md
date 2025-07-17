@@ -1,5 +1,5 @@
 ---
-title: 'Catálogo Myvtex Iframe HTML Select Breaking para Chrome 108'
+title: "Catálogo Myvtex Iframe HTML Select Breaking para Chrome 108"
 id: 7kax7PbhijSluYJETvOe92
 status: PUBLISHED
 createdAt: 2022-12-06T18:58:36.011Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
+slugEN: catalogo-myvtex-iframe-html-select-breaking-para-chrome-108
 locale: es
 kiStatus: Backlog
 internalReference: 711637
@@ -18,7 +18,9 @@ internalReference: 711637
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
@@ -26,7 +28,7 @@ Este es un efecto secundario de una actualización de Chrome que ha sido program
 
 El efecto en el administrador de VTEX es que los usuarios de Chrome v108 tienen problemas para seleccionar en menús desplegables, por ejemplo, en la pestaña de configuración SKU, cuando se intenta seleccionar un valor en el menú desplegable, no se genera ninguna acción (debería mostrarse toda la lista de valores posibles):
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-myvtex-iframe-html-select-breaking-para-chrome-108_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
 
 
 

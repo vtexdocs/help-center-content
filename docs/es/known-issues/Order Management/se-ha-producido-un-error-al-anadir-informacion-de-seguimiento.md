@@ -1,5 +1,5 @@
 ---
-title: "'Se ha producido un error al añadir información de seguimiento"
+title: "Se ha producido un error al añadir información de seguimiento"
 id: 1gmlrPh9P1KbNI5NNXuImO
 status: PUBLISHED
 createdAt: 2023-02-08T18:38:55.699Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: an-error-has-occurred-when-adding-tracking-information
+slugEN: se-ha-producido-un-error-al-anadir-informacion-de-seguimiento
 locale: es
 kiStatus: Backlog
 internalReference: 409225
@@ -18,7 +18,9 @@ internalReference: 409225
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Al introducir la información de seguimiento cuando el número de factura contiene espacios, se produce el siguiente error (ya sea a través de la interfaz de usuario o de la API) "`An error has occurred`".
 

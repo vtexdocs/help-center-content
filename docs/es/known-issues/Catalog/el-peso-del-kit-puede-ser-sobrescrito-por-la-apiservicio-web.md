@@ -1,5 +1,5 @@
 ---
-title: 'El peso del kit puede ser sobrescrito por la API/servicio web'
+title: "El peso del kit puede ser sobrescrito por la API/servicio web"
 id: Dlrs4qgHsnwIHxqqV0Rmg
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:40.711Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: kit-weight-can-be-overritten-by-apiwebservice
+slugEN: el-peso-del-kit-puede-ser-sobrescrito-por-la-apiservicio-web
 locale: es
 kiStatus: No Fix
 internalReference: 429993
@@ -19,11 +19,13 @@ internalReference: 429993
 ## Sumario
 
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés</p>
+</div>
 
 Actualmente, las reglas de negocio de nuestro catálogo establecen que el peso de la carga de un KIT SKU debe ser definido por la suma de sus componentes - https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-peso-del-kit-puede-ser-sobrescrito-por-la-apiservicio-web_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jgbIT0VRNCLLOdiQO0CQrka5D/?name=inline-2098334185.png)
 
 Sin embargo, actualmente es posible sobrescribir este cálculo de peso a través de la API y o del webservice, donde el valor establecido es el que se envía directamente en la carga útil, sin considerar el peso de ningún componente.
 

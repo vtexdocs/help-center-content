@@ -1,5 +1,5 @@
 ---
-title: 'Transacciones incompletas que aparecen con moneda brasileña'
+title: "Transacciones incompletas que aparecen con moneda brasileña"
 id: 7g0j3FGa5E8kNi9PM3kBOf
 status: PUBLISHED
 createdAt: 2024-04-01T13:37:35.197Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: incomplete-transactions-appearing-with-brazilian-currency
+slugEN: transacciones-incompletas-que-aparecen-con-moneda-brasilena
 locale: es
 kiStatus: Backlog
 internalReference: 1007953
@@ -18,7 +18,9 @@ internalReference: 1007953
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Transacciones incompletas (cliente "Sin nombre") pueden aparecer en la sección de Transacciones con moneda R$, estos son resultado de un error de creación (los datos de pago no fueron enviados) pero las órdenes son creadas correctamente en moneda local.

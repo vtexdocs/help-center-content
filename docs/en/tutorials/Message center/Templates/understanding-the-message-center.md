@@ -3,8 +3,8 @@ title: 'How the Message Center works'
 id: tutorials_84
 status: PUBLISHED
 createdAt: 2017-04-27T22:20:04.874Z
-updatedAt: 2021-06-01T18:46:54.349Z
-publishedAt: 2021-06-01T18:46:54.349Z
+updatedAt: 2025-01-24T15:17:44.604Z
+publishedAt: 2025-01-24T15:17:44.604Z
 firstPublishedAt: 2017-04-27T23:00:42.423Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,6 +21,10 @@ subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 
 The templates are the messages themselves. The messages are categorized in accordance with the module responsible and are intended for specific content. Within each of them we have the title/subject of the e-mail, the HTML code, the sender who is going to send it and the addressee, with the possibility of specifying “CC” and “BCC”.
 
+<div class="alert alert-warning">
+  <p>Due to safety reasons, not all templates can be sent with “CC” and “BCC”.</p>
+</div>
+
 Understand the information that each template card contains:
 
 - Template name for internal identification (this is not the subject of the e-mail sent).
@@ -31,7 +35,7 @@ Understand the information that each template card contains:
 
 To facilitate browsing, in addition to the free text search field, the interface provided filters per application (modules) and type (standard/default and/or personalized/amended message).
 
-![busca-templates-central-mensagens en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Message%20center/Templates/understanding-the-message-center_1.png)
+![busca-templates-central-mensagens en](https://images.ctfassets.net/alneenqid6w5/6unXvbEcUgaQAucsKCcm8W/9aebebd28a45aea02949470c429fe4db/busca-templates-central-mensagens_en.png)
 
 After understanding the basic about the templates, you can see how to edit them. This step is not mandatory, since VTEX provides a basic and responsive layout for all messages, with information needed to communicate properly with your customer, but it is natural that the stores adapt the brand communication standard they already use.
 

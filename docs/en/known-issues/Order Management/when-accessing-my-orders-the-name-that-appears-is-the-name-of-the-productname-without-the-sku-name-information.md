@@ -1,5 +1,5 @@
 ---
-title: 'When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information.'
+title: "When accessing my orders, the name that appears is the name of the ProductName without the SKU Name information."
 id: 1PTEStTC2MDQwZpE0myF44
 status: PUBLISHED
 createdAt: 2024-03-08T13:16:01.672Z

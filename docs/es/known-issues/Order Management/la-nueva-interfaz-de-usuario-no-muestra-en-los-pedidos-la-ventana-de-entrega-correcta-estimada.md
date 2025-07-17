@@ -1,5 +1,5 @@
 ---
-title: 'La nueva interfaz de usuario no muestra en los pedidos la ventana de entrega correcta estimada'
+title: "La nueva interfaz de usuario no muestra en los pedidos la ventana de entrega correcta estimada"
 id: 5YG6dpMbOX3DK1fSWEyAzJ
 status: PUBLISHED
 createdAt: 2023-01-09T13:18:30.970Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated
+slugEN: la-nueva-interfaz-de-usuario-no-muestra-en-los-pedidos-la-ventana-de-entrega-correcta-estimada
 locale: es
 kiStatus: Backlog
 internalReference: 620668
@@ -18,7 +18,9 @@ internalReference: 620668
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 En la nueva interfaz de usuario, algunos pedidos no muestran correctamente el desglose de la entrega estimada.
 

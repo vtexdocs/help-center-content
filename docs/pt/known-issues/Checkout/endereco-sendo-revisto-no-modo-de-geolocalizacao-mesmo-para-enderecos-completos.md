@@ -1,5 +1,5 @@
 ---
-title: 'Endereço sendo revisto no modo de geolocalização mesmo para endereços completos'
+title: "Endereço sendo revisto no modo de geolocalização mesmo para endereços completos"
 id: 6eHvTDvNlIiBGmlUJAAsNU
 status: PUBLISHED
 createdAt: 2022-08-11T18:40:54.009Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-being-reviewed-in-the-geolocation-mode-even-for-complete-addresses
+slugEN: endereco-sendo-revisto-no-modo-de-geolocalizacao-mesmo-para-enderecos-completos
 locale: pt
 kiStatus: Backlog
 internalReference: 618724
@@ -18,7 +18,9 @@ internalReference: 618724
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O botão "calculate shipping", usado para validação de endereço no modo de geolocalização (endereço inserido via Google Maps), está sendo mostrado mesmo para endereços completos. Ele deve ser mostrado apenas para endereços editados - devido a informações alteradas ou endereços incompletos no primeiro momento - para garantir que eles sejam válidos, mas não para endereços completos.

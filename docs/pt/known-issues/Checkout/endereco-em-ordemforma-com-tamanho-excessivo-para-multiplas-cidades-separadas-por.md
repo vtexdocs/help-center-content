@@ -1,5 +1,5 @@
 ---
-title: "Endereço em ordemForma com tamanho excessivo para múltiplas cidades separadas por '::'."
+title: 'Endereço em ordemForma com tamanho excessivo para múltiplas cidades separadas por "::".'
 id: 7E6x4O56SxcSeU2qv09GBt
 status: PUBLISHED
 createdAt: 2023-01-06T11:52:36.229Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-in-orderform-with-excessive-size-for-multiples-cities-separated-by
+slugEN: endereco-em-ordemforma-com-tamanho-excessivo-para-multiplas-cidades-separadas-por
 locale: pt
 kiStatus: Backlog
 internalReference: 287854
@@ -18,7 +18,9 @@ internalReference: 287854
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, o Checkout API usa "::" como separador quando há várias possibilidades de cidades do serviço de CEP, causando um erro sobre o tamanho excessivo no endereço de campo, impactando a colocação do pedido. Este comportamento acontece porque a API tem um autocompletar para endereço

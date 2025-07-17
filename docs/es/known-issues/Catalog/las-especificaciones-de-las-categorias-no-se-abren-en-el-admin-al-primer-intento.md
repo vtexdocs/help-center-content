@@ -1,5 +1,5 @@
 ---
-title: 'Las especificaciones de las categorías no se abren en el Admin al primer intento'
+title: "Las especificaciones de las categorías no se abren en el Admin al primer intento"
 id: 3201pbbSjB9rNzGP8HA6ow
 status: PUBLISHED
 createdAt: 2022-09-23T14:29:09.527Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: category-specs-do-not-open-in-admin-on-first-attempt
+slugEN: las-especificaciones-de-las-categorias-no-se-abren-en-el-admin-al-primer-intento
 locale: es
 kiStatus: Backlog
 internalReference: 664419
@@ -18,7 +18,9 @@ internalReference: 664419
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces, al intentar abrir una especificación de producto o sku en el administrador de categorías, la página no se carga correctamente y se actualiza de nuevo a la página inicial del árbol de categorías.

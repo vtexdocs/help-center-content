@@ -15,7 +15,7 @@ legacySlug: alterar-dados-de-rastreio-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Ao inserir os dados de rastreio na plataforma, lojistas e clientes podem acompanhar entregas de pedidos. Para inserir ou alterar os dados de rastreio, é preciso que os pedidos já [estejam faturados](https://help.vtex.com/pt/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Ao inserir os dados de rastreio na plataforma, lojistas e clientes podem acompanhar entregas de pedidos. Para inserir ou alterar os dados de rastreio, é preciso que os pedidos já [estejam faturados](/pt/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
 
 Há duas formas de inserir os dados de rastreio dos pedidos:
 
@@ -38,4 +38,4 @@ Para alterar os dados de um pedido manualmente, siga os passos abaixo:
     * **Selecionar transportadora:** selecione qual transportadora realizará a entrega.
 7. Clique em `Salvar`.
 
-![Fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20overview/alterar-dados-de-rastreio_1.png)
+![Fatura](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)

@@ -19,4 +19,4 @@ Hemos llegado oficialmente a la __Black Week,__ que se extiende del __20/11/2023
 
 Con el objetivo de maximizar las oportunidades de mejora de las acciones del __Black Friday__ durante este período, creamos el __Guía de los dashboards VTEX para la Black Week: FAQ,__ enfocado en aclarar las preguntas más frecuentes relacionadas con el uso de los dashboards en el VTEX Admin durante el evento más importante del año.
 
-Lea el [Guía de los dashboards VTEX para la Black Week: FAQ](https://help.vtex.com/es/tutorial/guia-de-los-dashboards-vtex-para-la-black-week-faq--6O3CiGiZctVIgIrpIcko9h) donde encontrará respuestas a las preguntas más frecuentes sobre cómo utilizar los Dashboards durante la Black Week.
+Lea el [Guía de los dashboards VTEX para la Black Week: FAQ](/es/tutorial/guia-de-los-dashboards-vtex-para-la-black-week-faq--6O3CiGiZctVIgIrpIcko9h) donde encontrará respuestas a las preguntas más frecuentes sobre cómo utilizar los Dashboards durante la Black Week.

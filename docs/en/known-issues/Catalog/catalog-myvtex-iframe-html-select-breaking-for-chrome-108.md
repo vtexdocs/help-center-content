@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Myvtex Iframe HTML Select Breaking for Chrome 108'
+title: "Catalog Myvtex Iframe HTML Select Breaking for Chrome 108"
 id: 7kax7PbhijSluYJETvOe92
 status: PUBLISHED
 createdAt: 2022-12-06T18:58:36.011Z
@@ -24,7 +24,7 @@ This is a side effet of a chrome update that has been scheduled for a fix, by th
 
 The effect felt on the VTEX admin is, that chrome v108 users are having trouble in selecting from dropdown menus, for instance, on the SKU configuration tab, when attempting to select a value on the dropdown menu, no actions are generated (the entire list of possible values should be shown):
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-myvtex-iframe-html-select-breaking-for-chrome-108_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
 
 
 

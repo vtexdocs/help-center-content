@@ -1,5 +1,5 @@
 ---
-title: 'B2B Bulk Import no valida el ID ya en uso'
+title: "B2B Bulk Import no valida el ID ya en uso"
 id: 2zXPi9LJ2vP3wBkdF8xaVS
 status: PUBLISHED
 createdAt: 2024-11-04T14:32:24.901Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-bulk-import-doesnt-validate-id-already-in-use
+slugEN: b2b-bulk-import-no-valida-el-id-ya-en-uso
 locale: es
 kiStatus: Backlog
 internalReference: 1128764
@@ -18,7 +18,9 @@ internalReference: 1128764
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al importar organizaciones y centros de coste mediante importación masiva, no existe validación para verificar si el ID ya está en uso. Esto permite iniciar la importación y puede hacer que el proceso se atasque.

@@ -1,5 +1,5 @@
 ---
-title: 'Oferta de flete MELI para varios officialStoreIDs'
+title: "Oferta de flete MELI para varios officialStoreIDs"
 id: 4KdPYtRbDdsBrn2k0dz7oc
 status: PUBLISHED
 createdAt: 2024-02-07T11:19:11.169Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-freight-quotation-for-multiple-officialstoreids
+slugEN: oferta-de-flete-meli-para-varios-officialstoreids
 locale: es
 kiStatus: Fixed
 internalReference: 978358
@@ -18,7 +18,9 @@ internalReference: 978358
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente tenemos un problema con la integración de MELI con respecto a la API de cotización de flete de MELI, esto se aplica sólo para los vendedores que utilizan múltiples officialStoreIDs en MELI, pero utilizando sólo una cuenta en VTEX utilizando el mismo sellerID en MELI

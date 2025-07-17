@@ -1,5 +1,5 @@
 ---
-title: 'Controle Welcome Message não funciona na home do site'
+title: "Controle Welcome Message não funciona na home do site"
 id: 38WkIwnvReicEOu6eOccuY
 status: PUBLISHED
 createdAt: 2017-04-26T23:34:28.335Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: welcome-message-control-doesnt-work-in-the-homepage
+slugEN: controle-welcome-message-nao-funciona-na-home-do-site
 locale: pt
 kiStatus: Backlog
 internalReference: 

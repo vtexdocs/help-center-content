@@ -17,11 +17,13 @@ subcategoryId: 2vuGumwWQ432unGlyOOXXc
 
 **Personal Shopper** is an app that allows businesses to host live shopping sessions in the store, enabling real-time interaction with customers. During these sessions, a personal shopper can showcase products, answer questions, and add products to the customer's cart. This interactive shopping experience is designed to engage customers, increase sales, and build brand loyalty.
 
->⚠️ Personal Shopper is designed for sellers who want to show new collections to high-value customers or B2B clients. These customized live sessions are intended to provide a more personalized shopping experience than public [Live Shopping](https://help.vtex.com/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL).
+<div class="alert alert-warning">
+  Personal Shopper is designed for sellers who want to show new collections to high-value customers or B2B clients. These customized live sessions are intended to provide a more personalized shopping experience than public <a href="https://help.vtex.com/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL">Live Shopping</a>.
+</div>
 
 The Personal Shopper app is compatible with desktop and mobile devices.
 
-| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Personal%20Shopper/personal-shopper-overview_1.gif)     |
+| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
 | ---------- | ---------- |
 | Personal Shopper on mobile       | Personal Shopper on desktop       |
 
@@ -64,7 +66,9 @@ Personal Shopper is a paid app with different subscription plans: **Standard** a
 
 To keep track of your plan usage in the Personal Shopper app, go to **Apps > Personal Shopper > Settings**. In the `Management Personal Shop` tab, you will find the **PLAN** section, where you can view your plan usage details. This section provides information about your subscription and usage, helping you to monitor and manage your plan effectively.
 
->ℹ️ For more information about plans and pricing, see the [Personal Shopper page](https://vtex.com/mx-es/vtex-personal-shopper/).
+<div class="alert alert-info">
+  For more information about plans and pricing, see the <a href="https://vtex.com/mx-es/vtex-personal-shopper/">Personal Shopper page</a>.
+</div>
 
 Once you have successfully [installed the Personal Shopper app](https://developers.vtex.com/docs/apps/vtexventures.personal-shopper-free#installation), access the Admin and go to the **Apps** menu. Within the **Personal Shopper** section, you will find the following pages:
 
@@ -101,7 +105,7 @@ To configure your Personal Shopper preferences, follow these steps:
 1. Within the Admin, go to **Apps > Personal Shopper > Setting**.
 2. Switch to the `Settings` tab.
 3. In the **General account** section, fill out the following fields based on the instructions below:
-    * **Url client**: enter the URL of the page you created in the [Creating a Personal Shopper landing page](https://help.vtex.com/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#creating-a-personal-shopper-landing-page) section. For example: `https://www.mystore.com/personal-shopper`.
+    * **Url client**: enter the URL of the page you created in the [Creating a Personal Shopper landing page](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#creating-a-personal-shopper-landing-page) section. For example: `https://www.mystore.com/personal-shopper`.
     * **Store name**: enter the name of your store. This name will be used in emails sent to customers and personal shoppers.
 4. In the **Privacy policy, the terms and conditions** section, configure the appropriate links and text to request user consent for the privacy policy and terms and conditions of data processing.
 5. In the **Messages and notifications** section, customize the following messages:
@@ -197,11 +201,11 @@ As a registered Personal Shopper consultant, you have the ability to create call
 5. Click `Create call`.
 6. Choose `Start an instant call` to begin the call with the customer or `Create a call for later` to schedule a call.
 
-![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Personal%20Shopper/personal-shopper-overview_2.png)
+![calls-personalshopper](https://images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/64790cd53a1f332edc6afc7ac91d0351/image.png)
 
-If you choose to start an instant call, click `Start call` to begin the call with the customer. This allows you to engage in real-time interaction and provide personalized assistance. For more information on conducting a call, see the [Conducting a call](https://help.vtex.com/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section. In this case, please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
+If you choose to start an instant call, click `Start call` to begin the call with the customer. This allows you to engage in real-time interaction and provide personalized assistance. For more information on conducting a call, see the [Conducting a call](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section. In this case, please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
 
-If you opt to schedule a call for later, you will be provided with the call link to share with the participants. For more information, see the [Joining a scheduled event](https://help.vtex.com/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#joining-a-scheduled-event) section.
+If you opt to schedule a call for later, you will be provided with the call link to share with the participants. For more information, see the [Joining a scheduled event](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#joining-a-scheduled-event) section.
 
 ### Managing availability
 
@@ -223,7 +227,7 @@ To join an event requested by a customer or an event that you have previously cr
 4. Click `Join` to join the call with the customer.
 5. Click `Start call`.
 
-For more information on conducting a call once you have joined, see the [Conducting a call](https://help.vtex.com/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section.
+For more information on conducting a call once you have joined, see the [Conducting a call](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section.
 
 Please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
 
@@ -231,7 +235,7 @@ Please ensure that you grant your browser the necessary permissions for micropho
 
 When participating in a call as a personal shopper, you will have access to various video conference tools, as presented in the following:
 
-![call-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Personal%20Shopper/personal-shopper-overview_3.png)
+![call-personalshopper](https://images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/a1b93a297ef796c03ed827319fc47137/image.png)
 
 * **I - Microphone:** Allows participants to control their audio by muting or unmuting themselves.
 * **II - Camera:** Allows participants to turn their video camera on or off during the video conference.

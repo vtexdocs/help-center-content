@@ -1,5 +1,5 @@
 ---
-title: 'Scroll issue when zooming after search page render'
+title: "Scroll issue when zooming after search page render"
 id: 2FcX9UNvBOanE3EhH9q0DT
 status: PUBLISHED
 createdAt: 2024-02-08T16:51:28.278Z

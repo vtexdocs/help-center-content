@@ -1,5 +1,5 @@
 ---
-title: 'Search by EAN not working on Received Skus'
+title: "Search by EAN not working on Received Skus"
 id: PKdNXxjVPFbJbVBSTFvep
 status: PUBLISHED
 createdAt: 2022-01-26T19:24:01.975Z

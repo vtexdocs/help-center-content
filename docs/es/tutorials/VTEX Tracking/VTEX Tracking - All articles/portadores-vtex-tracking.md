@@ -15,4 +15,4 @@ legacySlug: portadores-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.
+<div class="alert alert-warning" role="alert">Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.</div>

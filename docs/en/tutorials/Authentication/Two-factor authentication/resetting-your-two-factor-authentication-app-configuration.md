@@ -15,7 +15,7 @@ legacySlug: resetting-your-two-factor-authentication-app-configuration
 subcategoryId: 4sY1T2qdFehvVmC0tL5xW3
 ---
 
-If you have already [enabled two-factor authentication login](https://help.vtex.com/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ) but made a mistake during the configuration or lost access to your two-factor authentication app, you might not be able to access your VTEX account.
+If you have already [enabled two-factor authentication login](/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ) but made a mistake during the configuration or lost access to your two-factor authentication app, you might not be able to access your VTEX account.
 
 ## Regaining access to VTEX Admin
 

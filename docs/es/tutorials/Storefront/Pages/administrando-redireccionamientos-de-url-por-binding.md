@@ -17,18 +17,20 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 
 Las redirecciones son una herramienta para reenviar tanto a los usuarios como a los motores de búsqueda a una URL activa más relevante o similar diferente de la que solicitaron inicialmente.
 
-Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
+Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
 
->⚠️ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
+<div class="alert alert-warning" role="alert">
+Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <strong>CMS Settings</strong>. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios">Gestionar usuarios</a>, o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">Roles</a>.
+</div>
 
 En el Admin VTEX:
 
 1. Acceda al módulo **Storefront > Páginas**.
 2. Haga clic en la pestaña `Redirecciones`.
 
-![es-redirect-tab](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/administrando-redireccionamientos-de-url-por-binding_1.png)
+![es-redirect-tab](https://images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
 
 ## Crear redirecciones manualmente
 
@@ -40,7 +42,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Indique si la redirección será permanente o temporal. Si es temporal, puede activar el botón `Esta redirección tiene una fecha final` y definir la fecha final. 
 5. Guarde los cambios.
 
-![es-novoredirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/administrando-redireccionamientos-de-url-por-binding_2.png)
+![es-novoredirect](https://images.ctfassets.net/alneenqid6w5/1XJSvEL4ozDdupa3j0mcx8/95ddbd08e7902a6c7aa7f30a4af85120/nuevo-redirect.png)
 
 ## Eliminar redirecciones manualmente
 
@@ -50,15 +52,19 @@ En la pestaña Redirecciones del módulo Páginas:
 2. Haga clic en el botón `Remover`.
 3. Confirme la acción. 
 
-![es-remover-redirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/administrando-redireccionamientos-de-url-por-binding_3.png)
+![es-remover-redirect](https://images.ctfassets.net/alneenqid6w5/5khhDBT5o6ESJjwlaFClr5/a6d978fecd07eba1007ea1b28d2675b6/remover-redirect.png)
 
->⚠️ Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error.
+<div class="alert alert-warning">
+Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error. 
+</div>
 
 ## Importar y exportar redirecciones
 
 Para gestionar las redirecciones de su tienda en masa, puede importar y exportar la plantilla de redirecciones. 
 
->⚠️ Las entradas de la plantilla se crearán o eliminarán obligatoriamente en la lista de las redirecciones de la tienda. No es posible crear <i>y</i> eliminar redirecciones con la misma plantilla. Antes de rellenar y cargar la plantilla al Admin, defina cuál es el objetivo final de esta acción.
+<div class="alert alert-warning">
+Las entradas de la plantilla se crearán o eliminarán obligatoriamente en la lista de las redirecciones de la tienda. No es posible crear <i>y</i> eliminar redirecciones con la misma plantilla. Antes de rellenar y cargar la plantilla al Admin, defina cuál es el objetivo final de esta acción.
+</div>
 
 En la pestaña Redirecciones del módulo Páginas:
 
@@ -77,9 +83,11 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Haga clic en el botón `Importar`. 
 5. Haga clic en el botón `Guardar` o `Eliminar` según sea el caso. 
 
-  ![es-redirect-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/administrando-redireccionamientos-de-url-por-binding_4.png)
+  ![es-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/4jcHxndX1LyV74UdFJgWNV/7efcfc5207e0972a2b31a4be847b7000/planilha-redirect.png)
 
-  >⚠️ Al seleccionar la opción `Guardar`, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción `Eliminar` las eliminará todas de la base de datos de su tienda.
+  <div class="alert alert-warning">
+Al seleccionar la opción <code>Guardar</code>, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción <code>Eliminar</code> las eliminará todas de la base de datos de su tienda.
+</div>
 
 6. Cargue la plantilla desde sus archivos locales.
 7. Haga clic en el botón `Importar archivo`.

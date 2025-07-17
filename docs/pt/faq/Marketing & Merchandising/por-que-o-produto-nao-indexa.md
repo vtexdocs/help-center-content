@@ -16,7 +16,7 @@ legacySlug: por-que-o-produto-nao-indexa
 
 ### Tempo limite
 
-Caso um produto tenha várias ocorrências na indexação, conforme explica o artigo [Como funciona a indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256), ele pode sair da fila de indexação por atingir o tempo limite de espera.
+Caso um produto tenha várias ocorrências na indexação, conforme explica o artigo [Como funciona a indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256), ele pode sair da fila de indexação por atingir o tempo limite de espera.
 
 Para ilustrar, veja o exemplo abaixo.
 
@@ -24,7 +24,7 @@ Produto A com 5 SKUs e ativo em 5 políticas comerciais.
 
 Neste cenário, o produto A sofrerá 25 validações a cada alteração, isso porque para cada SKU serão verificadas as disponibilidades de estoque e as regras de preço e promoções, dentro de cada política comercial. Para evitar tantas validações, a melhor saída é o ajuste e diminuição do número de políticas comerciais.
 
-Como explicado em [Configurar política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404), é possível que uma mesma política seja utilizada para mais de um marketplace, desde que eles usem o mesmo catálogo, preço e estoque.
+Como explicado em [Configurar política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404), é possível que uma mesma política seja utilizada para mais de um marketplace, desde que eles usem o mesmo catálogo, preço e estoque.
 
 Também há a possibilidade de reduzir o número de SKUs por produto, neste caso, deve-se dividir um produtos em mais de um, visando aumentar a especificidade do produto. Ex.:
 

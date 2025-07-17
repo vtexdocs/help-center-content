@@ -1,5 +1,5 @@
 ---
-title: 'Admin está mostrando a extensão da imagem como .jpg mesmo quando a imagem é .png'
+title: "Admin está mostrando a extensão da imagem como .jpg mesmo quando a imagem é .png"
 id: 1nVCuVnNjT7e1E9Cy0Veer
 status: PUBLISHED
 createdAt: 2022-02-02T18:48:49.607Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: admin-is-showing-image-extension-as-jpg-even-when-the-image-is-png
+slugEN: admin-esta-mostrando-a-extensao-da-imagem-como-jpg-mesmo-quando-a-imagem-e-png
 locale: pt
 kiStatus: No Fix
 internalReference: 516269
@@ -18,7 +18,9 @@ internalReference: 516269
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na página de exportação da imagem ou no relatório da imagem exportada, a URL das imagens está com a extensão .jpg mesmo quando a imagem é PNG. Entretanto, as informações incorretas no Admin não afetam o formato real da imagem, e ao acessar a URL da imagem pela frente você pode ver que a imagem ainda é PNG.

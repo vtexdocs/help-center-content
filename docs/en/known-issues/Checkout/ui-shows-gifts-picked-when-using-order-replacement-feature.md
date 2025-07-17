@@ -1,5 +1,5 @@
 ---
-title: "UI shows 'Gifts picked!' when using Order replacement feature"
+title: 'UI shows "Gifts picked!" when using Order replacement feature'
 id: 4efm7L6hQhad98uYkjzrXO
 status: PUBLISHED
 createdAt: 2023-09-27T20:57:46.944Z

@@ -1,5 +1,5 @@
 ---
-title: 'A condição de pagamento em uma única parcela não aparece no checkout.'
+title: "A condição de pagamento em uma única parcela não aparece no checkout."
 id: 3L7GJTRaWWA9Wjw2zkQqtS
 status: PUBLISHED
 createdAt: 2022-06-29T11:57:22.859Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: single-installment-payment-condition-does-not-appear-at-chekout
+slugEN: a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 605568
@@ -18,7 +18,9 @@ internalReference: 605568
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar uma única condição de pagamento com apenas uma opção de parcelamento ou várias condições de pagamento em que apenas uma opção de parcelamento está disponível para um carrinho específico, essa opção de parcelamento não é exibida no checkout. Embora seja exibida corretamente em `paymentData`, ela não é visível para o usuário. Em vez disso, apenas a opção de pagar o valor total é exibida. Entretanto, quando a transação é concluída, o pagamento é processado com a opção de parcelamento correta.

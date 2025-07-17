@@ -1,5 +1,5 @@
 ---
-title: 'Error al modificar un índice si los campos son idénticos.'
+title: "Error al modificar un índice si los campos son idénticos."
 id: Ckic7QH3kKyW3IA92A3Cm
 status: PUBLISHED
 createdAt: 2023-07-03T18:48:49.070Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-when-changing-an-index-if-the-fields-are-identical
+slugEN: error-al-modificar-un-indice-si-los-campos-son-identicos
 locale: es
 kiStatus: Backlog
 internalReference: 854634
@@ -18,7 +18,9 @@ internalReference: 854634
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La actualización de un índice de esquema puede dar lugar a un error 500 Internal Server cuando no hay cambios que realizar, esto significa que los valores de los campos son idénticos a los actuales.

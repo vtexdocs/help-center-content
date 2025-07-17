@@ -1,5 +1,5 @@
 ---
-title: 'Vale + 2 cartões na versão 5 do checkout recalcula o valor a ser pago em cada cartão'
+title: "Vale + 2 cartões na versão 5 do checkout recalcula o valor a ser pago em cada cartão"
 id: 2SHo3fuu0oqyiiyo4ME2Ca
 status: PUBLISHED
 createdAt: 2018-10-03T16:17:29.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: gift-card-2-cards-in-version-5-of-the-checkout-recalculates-the-amount-to-be-paid-on-each-card
+slugEN: vale-2-cartoes-na-versao-5-do-checkout-recalcula-o-valor-a-ser-pago-em-cada-cartao
 locale: pt
 kiStatus: Backlog
 internalReference: 

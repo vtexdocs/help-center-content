@@ -1,5 +1,5 @@
 ---
-title: 'Recarregamento inesperado ao registrar/atualizar um produto'
+title: "Recarregamento inesperado ao registrar/atualizar um produto"
 id: 4XAYOJG7cgEJG6PqcmOkAY
 status: PUBLISHED
 createdAt: 2023-07-17T19:00:56.863Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: unexpected-reload-happening-when-registeringupdating-a-product
+slugEN: recarregamento-inesperado-ao-registraratualizar-um-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 863542
@@ -18,7 +18,9 @@ internalReference: 863542
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

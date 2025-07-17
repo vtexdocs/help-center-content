@@ -1,5 +1,5 @@
 ---
-title: 'Comment vtexcrm field is not showing its content'
+title: "Comment vtexcrm field is not showing its content"
 id: 2jI4W9GOzuxyWbHApDVtI5
 status: PUBLISHED
 createdAt: 2022-04-25T14:19:28.685Z
@@ -41,7 +41,7 @@ Currently, when saving data in the "Comentar" field in a Master Data form, the i
 3. Open the comment field
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/comment-vtexcrm-field-is-not-showing-its-content_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tUX7c40L6Mucgl7J60Ba4Ysn5/?name=image.png)
 
 
 4. Try inserting any data in it and save

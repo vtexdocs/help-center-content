@@ -1,5 +1,5 @@
 ---
-title: '[Analytics] Error loading data in sales performance dashboard'
+title: "[Analytics] Error loading data in sales performance dashboard"
 id: 248vcET5q5GkJj0dgpc9O2
 status: PUBLISHED
 createdAt: 2023-04-28T19:55:43.216Z
@@ -31,7 +31,7 @@ Some accounts are showing error `Unable to load data. Please click the button be
 
 Admin > Dashboard > Sales Performance
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/analytics-error-loading-data-in-sales-performance-dashboard_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/v4JRdMCm3Y37Vz3euoIwEYz5c/?name=image.png)
 
 
 ##

@@ -1,5 +1,5 @@
 ---
-title: 'A política de remessa presa no status de processamento é exibida como ativa na nova UI de logística'
+title: "A política de remessa presa no status de processamento é exibida como ativa na nova UI de logística"
 id: 6c6JrnkhTdz5kM8kGzsRXQ
 status: PUBLISHED
 createdAt: 2023-10-25T23:48:45.891Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui
+slugEN: a-politica-de-remessa-presa-no-status-de-processamento-e-exibida-como-ativa-na-nova-ui-de-logistica
 locale: pt
 kiStatus: Fixed
 internalReference: 925914
@@ -18,7 +18,9 @@ internalReference: 925914
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, a política de remessa pode ficar presa no status de processamento, mas na nova interface de usuário de logística você não consegue vê-la porque ela informa que o status está ativo.

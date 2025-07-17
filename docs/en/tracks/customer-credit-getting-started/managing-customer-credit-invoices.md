@@ -21,13 +21,15 @@ The __Invoices__ screen in the VTEX Admin (__Apps > Customer Credit > Invoices__
 - [Settle invoices](#settle-invoices)
 <br>
 <br>
-![Invoices_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/customer-credit-getting-started/managing-customer-credit-invoices_1.JPG)
+![Invoices_EN](https://images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/5f6f07bf3e43e11762d057b41b2277bb/Invoices_EN.JPG)
 
 ## Invoice filter
 
 To select the list of invoices to be displayed, you can click on one of the four statuses (Open, Paid, Canceled or Expired), or enter the identification number of the order for which the invoice was issued.
 
->⚠️ In Customer Credit, all invoices are created with the status **Open**.
+<div class="alert alert-warning">
+In Customer Credit, all invoices are created with the status <b>Open</b>.
+</div>
 
 ## Invoice details
 
@@ -40,7 +42,9 @@ To facilitate the payment process for a invoice, it is possible to provide a pay
 - Use the `IMPORT` function to insert data from a .csv spreadsheet.
 - Via [PUT Change Invoice](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-creditAccountId-/invoices/-invoiceId-) endpoint of the Customer Credit API.
 
->ℹ️ After carrying out one of the procedures above, the customer will have access to the **PAY** button that is available in their customer area on the store's website (**My Account > My Credits**).
+<div class="alert alert-info">
+After carrying out one of the procedures above, the customer will have access to the <b>PAY</b> button that is available in their customer area on the store's website (<b>My Account > My Credits</b>).
+</div>
 
 ### Individual settlement
 

@@ -1,5 +1,5 @@
 ---
-title: 'Sistema que considera al vendedor 1 para el límite de vendedores de la regla'
+title: "Sistema que considera al vendedor 1 para el límite de vendedores de la regla"
 id: 1bUax0hSCVrnFPZ4g1VWOa
 status: PUBLISHED
 createdAt: 2022-04-20T20:43:57.392Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: system-considering-seller-1-for-rule-sellers-limit
+slugEN: sistema-que-considera-al-vendedor-1-para-el-limite-de-vendedores-de-la-regla
 locale: es
 kiStatus: No Fix
 internalReference: 564614
@@ -18,7 +18,9 @@ internalReference: 564614
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hoy en día, en un escenario en el que tenemos una cuenta que utiliza una arquitectura en el modelo MOI (marketplace/vendedor multinivel), el sistema considera al vendedor 1 como parte del cálculo para limitar el número de vendedores en el carro que se puede configurar utilizando la clave maxNumberOfWhiteLabelSellers

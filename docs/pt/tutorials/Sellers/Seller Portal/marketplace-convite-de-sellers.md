@@ -28,7 +28,7 @@ Além de enviar convites, a página também conta com a lista de sellers, para q
 
 Para que novos sellers se integrem ao seu marketplace, algumas ações precisam ser feitas no seu ambiente VTEX: [Convidar](#convidar-seller) e [Conectar](#conectar-seller)
 
-![sellers convidados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/marketplace-convite-de-sellers_1.JPG)
+![sellers convidados](https://images.ctfassets.net/alneenqid6w5/2y4yFpA7vo6BNjMdVyvZSU/bf18d2e0010e23be921ecb520a060725/sellers_convidados.JPG)
 
 ## Convidar seller
 
@@ -37,19 +37,21 @@ O convite é feito por meio de um link enviado por email ao seller, que contém 
 1. Em _MARKETPLACE_, acesse a página **Convite de Sellers**.
 3. Clique em `Convidar Seller`.    
 4. Preencha os **Dados Gerais** do Seller:
-    - **Nome do Seller:** nome do representante comercial do seller, que vai orquestrar a conexão ao lado do seller. Essa pessoa precisa [ter perfil de acesso para o OMS](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).
+    - **Nome do Seller:** nome do representante comercial do seller, que vai orquestrar a conexão ao lado do seller. Essa pessoa precisa [ter perfil de acesso para o OMS](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).
     - **Email:** email do representante comercial do seller, que receberá o convite para criação de conta, ou conexão de conta existente.      
 5. Selecione o tipo de seller entre `Comum` e `Whitelabel`.  
 6. Marque a flag **Compartilhar catálogo do marketplace**, se quiser que o seller importe seus produtos e árvore de categorias.   
 7. Se você marcou a flag do passo anterior, determine como vai compartilhar seu catálogo com o seller:
-    - **Política comercial:** definindo uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) associada aos produtos e árvore de categorias que deseja compartilhar com o seller.
-    - **Coleção:** definindo uma [coleção](https://help.vtex.com/pt/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) com os produtos e árvore de categorias a serem compartilhados com o seller.
+    - **Política comercial:** definindo uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) associada aos produtos e árvore de categorias que deseja compartilhar com o seller.
+    - **Coleção:** definindo uma [coleção](/pt/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) com os produtos e árvore de categorias a serem compartilhados com o seller.
 8. Clique em `Enviar Convite`.   
 
 O seller receberá por email o convite para vender em seu marketplace. 
 
->ℹ️ O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. 
-> Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite.
+<div class="alert alert-info">
+O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. 
+Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite. 
+</div>
 
 ## Conectar seller
 

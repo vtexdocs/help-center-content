@@ -1,5 +1,5 @@
 ---
-title: 'Redirecionamentos temporários expirados não apontam de volta para a rota antiga'
+title: "Redirecionamentos temporários expirados não apontam de volta para a rota antiga"
 id: 1kI87EueEtHIyfZ4KmUJSF
 status: PUBLISHED
 createdAt: 2023-09-12T14:41:09.843Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: expired-temporary-redirects-not-pointing-back-to-old-route
+slugEN: redirecionamentos-temporarios-expirados-nao-apontam-de-volta-para-a-rota-antiga
 locale: pt
 kiStatus: Backlog
 internalReference: 898062
@@ -18,7 +18,9 @@ internalReference: 898062
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

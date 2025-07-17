@@ -16,7 +16,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
 
 Neste artigo, você encontrará o passo a passo para:
 
@@ -30,13 +30,13 @@ Neste artigo, você encontrará o passo a passo para:
 
 ## Cadastrar promoção 
 
-O tutorial abaixo indicará como criar uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Veja os passos a seguir:
+O tutorial abaixo indicará como criar uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Veja os passos a seguir:
 
  1. Acesse o módulo Promoções e Taxas.
  2. Clique em Promoções
  3. Clique no botão `Criar Promoção`.
  4. Selecione a opção `Regular`.
- 5. Preencha os [campos desta promoção](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327).
+ 5. Preencha os [campos desta promoção](/pt/tutorial/promocao-regular--tutorials_327).
  6. Clique em `Salvar`.
 
 ## Filtrar ou buscar promoção
@@ -59,7 +59,7 @@ Para buscar uma promoção, siga os passos abaixo:
 
  1. Acesse o menu **Promoções**.
  2. Clique em **Promoções**. 
- 3. Digite na barra de busca o nome, a descrição, o [UTM](https://www.google.com/url?q=https://help.vtex.com/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?%26utm_source%3Dautocomplete&sa=D&source=editors&ust=1633968747852000&usg=AOvVaw348Ju8pmnwK1DymI1bWbCb) ou a [Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete)  cadastrados na promoção.
+ 3. Digite na barra de busca o nome, a descrição, o [UTM](https://www.google.com/url?q=https://help.vtex.com/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?%26utm_source%3Dautocomplete&sa=D&source=editors&ust=1633968747852000&usg=AOvVaw348Ju8pmnwK1DymI1bWbCb) ou a [Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete)  cadastrados na promoção.
 
 ## Ordenar Promoção
 
@@ -85,9 +85,9 @@ Para buscar uma promoção, siga os passos abaixo:
 
 O agendamento de uma promoção ocorre quando esta é criada (ou alterada) com data e hora de validade posteriores ao momento atual . Lembrando que o horário considerado é o do sistema do computador no qual a promoção foi criada, desconsiderando-se ajustes de fuso horário.
 
-Essas promoções podem ser facilmente identificadas na página principal de Promoções, visto que possuem uma tarja laranja no canto superior direito da ficha, com a palavra agendada, como mostra o exemplo a seguir:![agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/criar-promocoes_1.png)
+Essas promoções podem ser facilmente identificadas na página principal de Promoções, visto que possuem uma tarja laranja no canto superior direito da ficha, com a palavra agendada, como mostra o exemplo a seguir:![agendada](https://images.contentful.com/alneenqid6w5/illvXlc6M10IO8p8IfL7J/5006d8b3f6d996abf06bfb0fdc248623/agendada.png)
 
-Para agendar uma promoção, siga os passos da seção [Agendar promoções](https://help.vtex.com/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#agendar-promocoes) do artigo [Agendamento para eventos especiais](https://help.vtex.com/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI)
+Para agendar uma promoção, siga os passos da seção [Agendar promoções](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#agendar-promocoes) do artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI)
 
 ## Arquivar promoção
 

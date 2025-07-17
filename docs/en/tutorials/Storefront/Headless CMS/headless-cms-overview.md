@@ -33,22 +33,22 @@ The headless CMS allows you to:
 
 ## Managing Projects
 
-[Projects](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) is a feature in Headless CMS that allows you to create and manage multiple frontend projects like mobile apps, websites, and email marketing from a single control panel.
+[Projects](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) is a feature in Headless CMS that allows you to create and manage multiple frontend projects like mobile apps, websites, and email marketing from a single control panel.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Headless%20CMS/headless-cms-overview_1.gif)
+![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/9d484d193a357cf0a0ac5e8a3aa16e9a/projects-one-en.gif)
 
-For more information, refer to [Managing Projects](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM). 
+For more information, refer to [Managing Projects](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM). 
 
 ## Managing pages
-Within each project, you can also manage all the URL routes and page templates for your store's website, including the home page, product page (PDP), and others. For more information, refer to [Managing Pages in the Headless CMS](https://help.vtex.com/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
+Within each project, you can also manage all the URL routes and page templates for your store's website, including the home page, product page (PDP), and others. For more information, refer to [Managing Pages in the Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
 
 ## Managing Singleton content types
-Singleton is a content type that simplifies content management by creating and managing a single page, guaranteeing the existence of only one version of this content type in the Headless CMS. This approach enhances content reliability and simplifies the creation and maintenance of content within a Headless CMS environment.  For more information, refer to [Managing Singleton content types](https://help.vtex.com/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
+Singleton is a content type that simplifies content management by creating and managing a single page, guaranteeing the existence of only one version of this content type in the Headless CMS. This approach enhances content reliability and simplifies the creation and maintenance of content within a Headless CMS environment.  For more information, refer to [Managing Singleton content types](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
 
 ## Next steps
 Check out the following tutorials to start managing your storefront content:
 
-- [Managing Projects](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) 
-- [Managing Pages in the Headless CMS](https://help.vtex.com/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
-- [Managing Singleton content types](https://help.vtex.com/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
+- [Managing Projects](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) 
+- [Managing Pages in the Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+- [Managing Singleton content types](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
 

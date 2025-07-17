@@ -1,5 +1,5 @@
 ---
-title: 'URL Redirecionar com caracteres especiais erros de não retorno ascii'
+title: "URL Redirecionar com caracteres especiais erros de não retorno ascii"
 id: 3rqIVyN7gPKAz0WRzgV4Zc
 status: PUBLISHED
 createdAt: 2023-02-10T13:05:23.823Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: url-redirect-with-special-characters-non-ascii-return-errors
+slugEN: url-redirecionar-com-caracteres-especiais-erros-de-nao-retorno-ascii
 locale: pt
 kiStatus: Backlog
 internalReference: 457047
@@ -18,7 +18,9 @@ internalReference: 457047
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se criarmos um redirecionamento com alguns caracteres especiais, por exemplo `/televisão`, ele não funcionará, receberemos o seguinte erro:

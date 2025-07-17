@@ -1,5 +1,5 @@
 ---
-title: 'As transações da marca de cartão da Elo com a ERedeRest não estão respeitando a captura antecipada'
+title: "As transações da marca de cartão da Elo com a ERedeRest não estão respeitando a captura antecipada"
 id: 2OSpQyzDkiGioqcEmhuXpk
 status: PUBLISHED
 createdAt: 2023-05-08T20:29:59.412Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture
+slugEN: as-transacoes-da-marca-de-cartao-da-elo-com-a-erederest-nao-estao-respeitando-a-captura-antecipada
 locale: pt
 kiStatus: No Fix
 internalReference: 350814
@@ -18,7 +18,9 @@ internalReference: 350814
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para transações com a marca de cartão Elo, a configuração de captura antecipada não está sendo respeitada, e a transação está sendo capturada imediatamente após a aprovação.

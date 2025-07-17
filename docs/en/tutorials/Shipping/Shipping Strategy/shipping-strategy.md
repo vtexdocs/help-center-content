@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 The shipping strategy refers to the relationship between inventory, loading dock and shipping policy. The way they communicate will define the structure combination for shipping your customers’ orders. 
 
-![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/shipping-strategy_1.png)
+![shipping_strategy_EN](https://images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
@@ -49,6 +49,6 @@ You can configure initial settings through the VTEX Admin or via API. If you are
 
 | **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
 | :--- | :--- | :--- |
-| 1. [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) | [Creating a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
-| 2. [Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Managing loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
-| 3. [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Managing warehouses](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 1. [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140) | [Creating a shipping policy](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Managing loading docks](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 3. [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Managing warehouses](/en/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

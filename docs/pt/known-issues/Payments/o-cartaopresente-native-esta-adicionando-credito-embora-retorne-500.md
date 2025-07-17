@@ -1,5 +1,5 @@
 ---
-title: 'O cartão-presente Native está adicionando crédito, embora retorne 500'
+title: "O cartão-presente Native está adicionando crédito, embora retorne 500"
 id: 1EngiQGhpPorgURRsszMX4
 status: PUBLISHED
 createdAt: 2023-02-27T20:40:44.824Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: native-gift-card-is-adding-credit-although-it-returns-500
+slugEN: o-cartaopresente-native-esta-adicionando-credito-embora-retorne-500
 locale: pt
 kiStatus: Backlog
 internalReference: 760896
@@ -18,7 +18,9 @@ internalReference: 760896
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de realizar alguns testes empíricos, observamos que a rota /transaction na API nativa de cartão-presente às vezes retorna um código de erro 500 ao adicionar o crédito solicitado, o que é um comportamento inesperado. Além disso, notamos que a solicitação está demorando mais do que o esperado para receber uma resposta, indicando um comportamento de tempo limite. Como resultado, não há um bloqueio eficaz para garantir que o saldo do cartão não seja creditado nesse cenário.

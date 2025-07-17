@@ -1,5 +1,5 @@
 ---
-title: 'error de bloqueo al utilizar las API de catálogo'
+title: "error de bloqueo al utilizar las API de catálogo"
 id: 6A4jBKBKIzn87mxNQJ4YQN
 status: PUBLISHED
 createdAt: 2023-07-14T18:29:11.937Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: deadlocked-error-when-using-catalog-apis
+slugEN: error-de-bloqueo-al-utilizar-las-api-de-catalogo
 locale: es
 kiStatus: Backlog
 internalReference: 862626
@@ -18,7 +18,9 @@ internalReference: 862626
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

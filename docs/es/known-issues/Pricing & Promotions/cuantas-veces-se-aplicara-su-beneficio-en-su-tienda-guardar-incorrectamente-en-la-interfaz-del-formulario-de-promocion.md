@@ -1,5 +1,5 @@
 ---
-title: "'¿Cuántas veces se aplicará su beneficio en su tienda?' Guardar incorrectamente en la interfaz del formulario de promoción"
+title: '¿Cuántas veces se aplicará su beneficio en su tienda?" Guardar incorrectamente en la interfaz del formulario de promoción'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface
+slugEN: cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion
 locale: es
 kiStatus: Backlog
 internalReference: 268304
@@ -18,17 +18,19 @@ internalReference: 268304
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 
 En la primera casilla de la sección "Restricciones y limitaciones de uso" del formulario de la promoción regular, cuando se guarda la primera casilla con un valor distinto de ilimitado y todas las demás casillas están marcadas, así:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/XPIZEznRNirizqLBs0Bk3F2ns/?name=inline1741007227.png)
 
 Y vuelves a visitar la promoción después de guardarla, los datos se "mueven" a la casilla de abajo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QH2S7TuWMuQ2DRdr78J2YbZvS/?name=inline137244708.png)
 
 
 
@@ -54,7 +56,7 @@ Cuando vuelvas a visitar la promoción, ésta se "moverá" hacia abajo en el for
 
 **2)** Rellenar la segunda casilla con datos sustitutivos de "ilimitado" (es decir, un número alto como 9999999) también funciona:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7J5orWNE31sV3vzBFhy6pwWXs/?name=inline-1533850111.png) ![](https://vtexhelp.zendesk.com/attachments/token/vZMkrn7uS56cywlx1nDO3g7vz/?name=inline-468944681.png)
 
 3) Finalmente, la última solución sería guardar directamente a través de la API, en nuestra solicitud SaveBenefit documentada en nuestro centro de ayuda: https://developers.vtex.com/reference/benefits#createorupdatecalculatorconfiguration
 

@@ -1,5 +1,5 @@
 ---
-title: 'Ativar serviço na importação (SkuVincularValorServico.aspx) não está funcionando'
+title: "Ativar serviço na importação (SkuVincularValorServico.aspx) não está funcionando"
 id: 1gM3bYz0IX4ozLrIkWIicb
 status: PUBLISHED
 createdAt: 2022-02-25T14:56:50.052Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: activate-service-on-import-skuvincularvalorservicoaspx-not-working
+slugEN: ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 339894
@@ -18,7 +18,9 @@ internalReference: 339894
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, na usabilidade de importação do SkuVincularValorServico.aspx, ao tentar alterar os serviços que saíram anteriormente de inativos para ativos, os valores não são alterados. A interface do usuário avisa que os valores foram alterados, mas nada acontece de fato.
@@ -30,13 +32,13 @@ Atualmente, na usabilidade de importação do SkuVincularValorServico.aspx, ao t
 
 1) Acesse a interface do usuário https://account.myvtex.com/admin/Site/SkuVincularValorServico.aspx e altere as linhas da planilha anexa de 0 para 1 e vice-versa:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ladK39V5My6gjGixeHuNTaV2b/?name=inline-1801216200.png)
 
 2) Verifique os efeitos finais na SKU cujos valores você alterou:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/znYEzQhMevPcRVYKlBQYa73fF/?name=inline1216426643.png)
 
 Você poderá defini-los como inativos, mas não como ativos. A interface de importação avisa que as alterações foram feitas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/ativar-servico-na-importacao-skuvincularvalorservicoaspx-nao-esta-funcionando_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6iKARGtVqTbKaL0vY9s7XPvt6/?name=inline2110004305.png)
 
 Nenhum valor é realmente alterado no banco de dados da conta fornecida
 

@@ -3,8 +3,8 @@ title: 'Configurar dominio de la tienda'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z
-updatedAt: 2024-03-12T19:53:14.012Z
-publishedAt: 2024-03-12T19:53:14.012Z
+updatedAt: 2025-03-20T21:58:47.611Z
+publishedAt: 2025-03-20T21:58:47.611Z
 firstPublishedAt: 2017-04-27T23:03:51.625Z
 contentType: tutorial
 productTeam: Identity
@@ -26,7 +26,7 @@ La configuración relacionada con el dominio es necesaria para que una direcció
 
  La dirección de la tienda se compone de los elementos ilustrados a continuación:
 
-![url-diagram-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Accounts/configurar-dominio-de-la-tienda_1.png)
+![url-diagram-es](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/70d9e55fc1f035bfb1b8733aa0cfdec4/url-diagram-es.png)
 
 | Elemento | Descripción | Ejemplo |
 |---|---|---|
@@ -42,7 +42,8 @@ Una vez definido el dominio de tu tienda, debes configurar el host principal en 
 ## Reglas para el host principal
 
 Antes de continuar con la configuración de las direcciones de tu tienda, toma en cuenta las siguientes prácticas para garantizar una implementación exitosa:
-* **Proveedores de CDN:** VTEX utiliza dos proveedores de CDN en las tiendas: **Cloudfront** y **Azion**. Es importante que el dominio de tu tienda no esté registrado en estos servicios al momento de realizar el apuntamiento. De lo contrario, se producirá un fallo en el aprovisionamiento de CDN de tu tienda y, en consecuencia, en el go live. Por lo tanto, si tienes el dominio de la tienda registrado en la plataforma Cloudfront o Azion, remueve el registro antes de apuntar el DNS a VTEX.
+
+* **Proveedor de CDN:** VTEX utiliza **Cloudfront** como proveedor de CDN para las tiendas. Es importante que el dominio de tu tienda no esté registrado en este servicio al momento de realizar el apuntamiento. De lo contrario, se producirá un fallo en el aprovisionamiento de CDN para tu tienda y, en consecuencia, en el go-live. Por lo tanto, si tienes el dominio de la tienda registrado en la plataforma **Cloudfront**, remueve el registro antes de apuntar el DNS a VTEX.
 * **Dirección principal:** La tienda debe tener un único host principal, que apuntará a los servidores de VTEX. Este host **debe contener un subdominio**, que puede ser `www` u otros.
 * **Direcciones adicionales:** cualquier dirección adicional, ya sea con un dominio diferente o una versión sin subdominios, se debe redirigir al único host principal, según se describe en Redirecciones.
 
@@ -61,8 +62,8 @@ Consulta los siguientes ejemplos y observa los que se pueden utilizar como host 
 
 Para garantizar el acceso a tu tienda a través de diferentes URL, tales como `www.mitienda.com` y `mitienda.com` debes configurar un único host principal y redirigir las direcciones adicionales a la dirección principal. Para más información sobre redirecciones, consulta:
 
-* [Redirección de otras direcciones](https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Mejores prácticas para acceder a tienda sin www](https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
+* [Redirección de otras direcciones](/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Mejores prácticas para acceder a tienda sin www](/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
 
 Ten en cuenta que lo recomendado es implementar un único host en tu tienda.
 
@@ -79,21 +80,16 @@ Para registrar un nuevo host, el mismo debe cumplir con las prácticas descritas
 7. Haz clic en el botón `Agregar`.
 8. Haz clic en el botón `Guardar`.
 
-Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
->⚠️ Para las tiendas[ FastStore](https://www.faststore.dev/), también es necesario configurar una dirección con el subdominio `secure`. Para más información, consulta la guía [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
+<div class="alert alert-warning">
+  <p>Para las tiendas<a href="https://www.faststore.dev/"> FastStore</a>, también es necesario configurar una dirección con el subdominio <code>secure</code>. Para más información, consulta la guía <a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns">Configuring external DNS for a custom domain</a>.</p>
+</div>
 
->❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](https://help.vtex.com/es/tutorial/crear-subconta-multitienda-multidominio--tutorials_510), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
+<div class="alert alert-danger">
+  <p>Si tu operación tiene más de una cuenta VTEX o <a href="https://help.vtex.com/es/tutorial/crear-subconta-multitienda-multidominio--tutorials_510">subcuentas</a>, no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.</p>
+</div>
 
 ## Cambiar host
 
-La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos a continuación:
-
-1. Crea nuevas entradas de host para la tienda deseada, según los pasos descritos en [Registrar nuevo host](#registrar-nuevo-host). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
-2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar template en SmartCheckout](https://help.vtex.com/es/faq/configurar-template-no-smartcheckout/). Este paso es esencial para que Checkout siga funcionando después del cambio.
-
-    Debes comprobar que los sitios web configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuentas**. Para más información, consulta [Gestión de la cuenta](https://help.vtex.com/es/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq).
-
-3. Apunta el DNS del nuevo dominio a VTEX. En esta serie puedes encontrar más información sobre el [apuntamiento de DNS](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex/).
-4. Si su tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [soporte VTEX](https://help.vtex.com/es/support) y solicita el apuntamiento interno. La solicitud debe incluir el nuevo dominio. Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento.
-5. Después de confirmar el apuntamiento interno y la propagación de DNS del nuevo host, elimina hosts antiguos y mantén solo el nuevo.
+La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos en [Cambiar el dominio de la tienda](/es/tutorial/cambiar-el-dominio-de-la-tienda--frequentlyAskedQuestions_626/).

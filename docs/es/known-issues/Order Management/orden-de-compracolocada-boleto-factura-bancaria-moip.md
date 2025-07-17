@@ -1,5 +1,5 @@
 ---
-title: 'Orden de compraColocada Boleto Factura bancaria MOIP'
+title: "Orden de compraColocada Boleto Factura bancaria MOIP"
 id: 6LfWcVU6fgXalUXslYATIc
 status: PUBLISHED
 createdAt: 2022-05-18T18:35:54.748Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: checkout-orderplaced-boleto-bank-invoice-moip
+slugEN: orden-de-compracolocada-boleto-factura-bancaria-moip
 locale: es
 kiStatus: Backlog
 internalReference: 376951
@@ -18,7 +18,9 @@ internalReference: 376951
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El orderPlaced tiene una función automática que inyecta el PDF del "Boleto - Factura Bancaria" en un iframe dentro de la página de pedido terminado.

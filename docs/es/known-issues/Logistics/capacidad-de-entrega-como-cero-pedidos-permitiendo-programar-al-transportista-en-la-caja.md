@@ -1,5 +1,5 @@
 ---
-title: 'Capacidad de entrega como (cero) Pedidos, permitiendo programar al Transportista en la Caja'
+title: "Capacidad de entrega como (cero) Pedidos, permitiendo programar al Transportista en la Caja"
 id: 2bLfDs5LpdQqaiu6MYcnCB
 status: PUBLISHED
 createdAt: 2022-05-17T20:10:26.177Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout
+slugEN: capacidad-de-entrega-como-cero-pedidos-permitiendo-programar-al-transportista-en-la-caja
 locale: es
 kiStatus: Scheduled
 internalReference: 471612
@@ -18,7 +18,9 @@ internalReference: 471612
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

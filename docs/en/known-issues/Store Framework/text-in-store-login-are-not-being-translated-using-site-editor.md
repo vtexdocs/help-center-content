@@ -1,5 +1,5 @@
 ---
-title: 'Text in Store Login are not being translated using site editor'
+title: "Text in Store Login are not being translated using site editor"
 id: 6DptiKTxtOcYIJEgJlZCmo
 status: PUBLISHED
 createdAt: 2023-11-08T13:33:41.296Z
@@ -43,7 +43,7 @@ When trying to translate a text using the site editor for the Store Login, the c
 
 Make sure iconLabel is empty in both the store code and site editor.
 If you are not sure if it's empty in the site editor, you can reset the content by going through the site editor version > reset.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/text-in-store-login-are-not-being-translated-using-site-editor_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PXovY6zVHdqqhxjodbtMqdXAa/?name=image.png)
 
 Follow the documentation here and the contexts here to set the label as desired instead.
 

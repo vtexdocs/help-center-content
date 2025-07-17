@@ -18,9 +18,9 @@ O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-comm
 
 Sua operação está presente nos países: Argentina, Brasil, Chile, Colômbia,  México, Uruguai e Venezuela.
 
-![mercado-livre-reproducao-w-970x550](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/mercado-libre-integration-set-up/mercado-livre-marketplace_1.jpg)
+![mercado-livre-reproducao-w-970x550](https://images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/9f13547ee20c96383f18e8151f98177e/mercado-livre-reproducao-w-970x550.jpg)
 
 O marketplace do Mercado Livre oferece um ambiente de negociação on-line totalmente automatizado, organizado por tópicos e fácil de usar. Esse serviço oferece aos compradores uma grande variedade de itens novos e usados, permitindo que empresas e indivíduos anunciem itens e realizem suas vendas e compras no maior mercado da América Latina.
 
-Antes de começar, é importante que você [crie uma conta no Mercado Livre](https://vendedores.mercadolivre.com.br/como-criar-uma-conta-no-mercado-livre/) na [Central de Vendedores](https://vendedores.mercadolivre.com.br/). Depois de criar sua conta na plataforma do Mercado Livre, siga os passos a seguir para conectar sua loja ao Mercado Livre, porém, esteja atento à [arquitetura que será utilizada](https://help.vtex.com/pt/tutorial/erro-de-configuracao-de-lojas-guarda-chuva--16PIrnBPonKv5Eb3SBdKmq) para evitar problemas.
+Antes de começar, é importante que você [crie uma conta no Mercado Livre](https://vendedores.mercadolivre.com.br/como-criar-uma-conta-no-mercado-livre/) na [Central de Vendedores](https://vendedores.mercadolivre.com.br/). Depois de criar sua conta na plataforma do Mercado Livre, siga os passos a seguir para conectar sua loja ao Mercado Livre, porém, esteja atento à [arquitetura que será utilizada](/pt/tutorial/erro-de-configuracao-de-lojas-guarda-chuva--16PIrnBPonKv5Eb3SBdKmq) para evitar problemas.
 

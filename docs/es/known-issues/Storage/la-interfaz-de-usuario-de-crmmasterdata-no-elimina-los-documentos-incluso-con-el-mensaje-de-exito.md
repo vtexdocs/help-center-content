@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito'
+title: "La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito"
 id: 68de6QDUomjPPDXf9P14c3
 status: PUBLISHED
 createdAt: 2023-03-27T20:03:54.217Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message
+slugEN: la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito
 locale: es
 kiStatus: No Fix
 internalReference: 699374
@@ -18,7 +18,9 @@ internalReference: 699374
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de CRM no elimina los documentos, aunque se muestra el mensaje de éxito.
@@ -31,9 +33,9 @@ La interfaz de usuario de CRM no elimina los documentos, aunque se muestra el me
 
 
 - Acceda al sistema de aplicación (.vtexcrm.com.br)
-- Seleccione una vista, como Clientes, haga clic en ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito_1.png)
+- Seleccione una vista, como Clientes, haga clic en ![](https://vtexhelp.zendesk.com/attachments/token/l2EMLx8PT4mDFNKGPAtZQVGxt/?name=image.png)
 - A continuación, el sistema mostrará los documentos que pertenecen a los datos de la entidad seleccionada
-- Seleccione un documento y haga clic en el botón eliminar ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito_2.png)
+- Seleccione un documento y haga clic en el botón eliminar ![](https://vtexhelp.zendesk.com/attachments/token/ipkMJC5WWN1LRfeRAkxr7RUCG/?name=image.png)
 - Después de eso, el sistema le pedirá que confirme la acción
 - Después de la confirmación, aparece el mensaje "_Registro excluído com sucesso!_".
 - Pero el documento sigue en la lista al hacer clic en el botón OK

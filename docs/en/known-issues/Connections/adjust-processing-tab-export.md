@@ -1,5 +1,5 @@
 ---
-title: 'Adjust processing tab export'
+title: "Adjust processing tab export"
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z
@@ -27,7 +27,7 @@ Export in skus processing tab is failing:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/adjust-processing-tab-export_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UrnZzrfODolAIP6OVUyBoqlnJ/?name=image.png)
 
 
 

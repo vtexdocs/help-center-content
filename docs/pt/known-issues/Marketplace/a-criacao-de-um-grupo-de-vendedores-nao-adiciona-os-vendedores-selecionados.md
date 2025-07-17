@@ -1,5 +1,5 @@
 ---
-title: 'A criação de um grupo de vendedores não adiciona os vendedores selecionados'
+title: "A criação de um grupo de vendedores não adiciona os vendedores selecionados"
 id: 5J14RCg9E4LzBcvJQyOAYy
 status: PUBLISHED
 createdAt: 2023-10-27T17:33:45.625Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: seller-group-creation-does-not-add-selected-sellers
+slugEN: a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados
 locale: pt
 kiStatus: Fixed
 internalReference: 926969
@@ -18,15 +18,17 @@ internalReference: 926969
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O marketplace pode criar grupos com alguns vendedores na interface de gerenciamento do vendedor.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Mi9PZxDSnInogb65PbJ3fEduu/?name=image.png)
 
 No entanto, ao adicionar um nome de grupo e vendedores nessa interface do usuário, somente o nome do grupo está sendo salvo. É exibida uma mensagem de erro:
 "Desculpe, algo deu errado ao adicionar os vendedores ao grupo XXX."
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Gd0FRbqKLDnCGFmIjuXIctxwX/?name=image.png)
 
 ## Simulação
 

@@ -1,5 +1,5 @@
 ---
-title: '[MELI] Attribute is being sent to MELI without being mapped from seller'
+title: "[MELI] Attribute is being sent to MELI without being mapped from seller"
 id: CILYWlvEAlXkcvEYuZ99m
 status: PUBLISHED
 createdAt: 2023-10-30T10:09:31.578Z

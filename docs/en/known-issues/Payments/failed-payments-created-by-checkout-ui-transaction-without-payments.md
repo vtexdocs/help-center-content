@@ -1,5 +1,5 @@
 ---
-title: 'Failed payments created by Checkout UI (transaction without payments)'
+title: "Failed payments created by Checkout UI (transaction without payments)"
 id: 1LiK9rfhz2ULgmaitcYyyH
 status: PUBLISHED
 createdAt: 2022-09-26T14:32:12.988Z

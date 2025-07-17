@@ -1,5 +1,5 @@
 ---
-title: 'Modificación de la cantidad en un artículo erróneo con un componente de lista de productos (IO/SF)'
+title: "Modificación de la cantidad en un artículo erróneo con un componente de lista de productos (IO/SF)"
 id: jWaas8MOVv5NYSImgA9ao
 status: PUBLISHED
 createdAt: 2022-12-16T18:10:39.004Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: authors_84
 tag: Store Framework
-slugEN: quantity-being-modified-in-the-wrong-item-with-product-list-component-io-sf
+slugEN: modificacion-de-la-cantidad-en-un-articulo-erroneo-con-un-componente-de
 locale: es
 kiStatus: Backlog
 internalReference: 402976
@@ -18,7 +18,9 @@ internalReference: 402976
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 En el componente ["vtex.product-list"](https://github.com/vtex-apps/product-list), utilizado en IO/SF Minicart ([vtex.minicart](https://github.com/vtex-apps/minicart) v2) o en "Cart v0" ([vtex.checkout-cart](https://github.com/vtex-apps/checkout-cart)), cuando un carrito tiene el mismo artículo troceado en más de una ocurrencia (por ejemplo cuando se necesita para el prorrateo de descuentos o quizás cuando tiene itemAttachments), para cambiar la cantidad para su segunda ocurrencia se llamará a la API para su primera ocurrencia, por lo que la cantidad sumada para el artículo será incorrecta.
 

@@ -1,5 +1,5 @@
 ---
-title: 'El informe de exportación de pedidos no funciona correctamente debido al doble espacio en el nombre de la promoción.'
+title: "El informe de exportación de pedidos no funciona correctamente debido al doble espacio en el nombre de la promoción."
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-export-report-is-not-working-properly-due-double-space-on-promotion-name
+slugEN: el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-al-doble-espacio-en-el-nombre-de-la-promocion
 locale: es
 kiStatus: Fixed
 internalReference: 786216
@@ -18,7 +18,9 @@ internalReference: 786216
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El sistema de reporte de pedidos actualmente no puede construir un archivo a partir de filtros de promoción que contengan doble espacio en sus nombres, al intentar construir el reporte el sistema genera un error y no se realiza la exportación, dando como resultado el mensaje "_Exportación completada. Se enviaron 0 pedidos a su correo electrónico"_.
