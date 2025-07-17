@@ -22,10 +22,10 @@ Keep it as short as possible while still being descriptive enough. Also, remembe
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Provider could not be saved due to a technical issue | We faced an unexpected issue while attempting to save the provider. There might be several reasons for this, such as server downtime or network errors |
+| Provider couldn't be saved due to a technical issue | We faced an unexpected issue while attempting to save the provider. There might be several reasons for this, such as server downtime or network errors |
 | Check this option | Check this |
 |  Select at least one option | Select at least one |
-| Products could not be imported because the CSV file is invalid | Something went wrong |
+| Products couldn't be imported because the CSV file is invalid | Something went wrong |
 
 Don't use technical language.
 
@@ -38,7 +38,7 @@ Reuse messages (or their structure) whenever possible.
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | Collection exported successfully | The collection was successfully exported. |
-| Provider could not be saved due to a technical issue | A technical issue prevented the provider from being saved |
+| Provider couldn't be saved due to a technical issue | A technical issue prevented the provider from being saved |
 |  Enter this information | This field is required |
 | Check this option | This option needs to be checked |
 | Select at least one option | At least one option needs to be selected |
@@ -55,7 +55,7 @@ Use an objective and neutral tone.
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | Invoice couldn't be sent due to a technical issue | Oops, something went wrong, and the invoice could not be sent |
-| Products could not be imported because the CSV file is invalid | Please upload a valid CSV file |
+| Products couldn't be imported because the CSV file is invalid | Please upload a valid CSV file |
 |  Account created successfully | Account successfully created! |
 | Log in to your Admin | Hello. Log in to your Admin |
 | Double-check the password | Unfortunately, the password is incorrect |
@@ -72,7 +72,7 @@ Use punctuation only when a larger message is extremely necessary.
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | The store is being edited live. Changes will have immediate effect. | The store is being edited live and changes will have immediate effect. |
-| File could not be processed because its size is larger than 10MB | Sorry, your file is too large. To avoid errors, try files under 10 MB. |
+| File couldn't be processed because its size is larger than 10MB | Sorry, your file is too large. To avoid errors, try files under 10 MB. |
 | Collection deleted successfully | Collection deleted successfully! |
 | Double-check the password | The password is incorrect, please try again. |
 | Upload an image up to 5 MB | This file is too large, please upload an image with 5MB at most. |
