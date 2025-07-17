@@ -91,6 +91,7 @@ function getTutorialEndpoints(endpointIds) {
     const id = endpointIds[i].sys.id;
     if(Object.hasOwn(tutorialEndpoints, id)) {
       children.push(tutorialEndpoints[id]);
+
     }
   }
   return children;
@@ -482,6 +483,17 @@ async function getEntries() {
       for (let j = 0; j < entries.items.length; j++) {
         const file = entries.items[j];
         const type = file.sys.contentType.sys.id;
+
+        // Skip files that are not published
+        if (!(file.sys.publishedVersion &&
+    file.sys.version == file.sys.publishedVersion + 1)) {
+          // This file is not published yet, skip it
+          // if (file.fields.title) {
+          //   console.log(`Skipping unpublished file: ${JSON.stringify(file.fields.title)}`);
+          // }
+          continue;
+        }
+        
         if ((type != 'trackTopic' && !file.fields.slug) || file.sys.archivedAt || !file.sys.publishedAt) continue;
 
         const endpointObj = {
