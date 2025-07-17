@@ -31,7 +31,7 @@ Don't use technical language.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Invoice could not be sent due to a technical issue | Error 298dx9283 prevented the invoice from being sent |
+| Invoice couldn't be sent due to a technical issue | Error 298dx9283 prevented the invoice from being sent |
 
 Reuse messages (or their structure) whenever possible.
 
@@ -54,7 +54,7 @@ Use an objective and neutral tone.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Invoice could not be sent due to a technical issue | Oops, something went wrong, and the invoice could not be sent |
+| Invoice couldn't be sent due to a technical issue | Oops, something went wrong, and the invoice could not be sent |
 | Products could not be imported because the CSV file is invalid | Please upload a valid CSV file |
 |  Account created successfully | Account successfully created! |
 | Log in to your Admin | Hello. Log in to your Admin |
