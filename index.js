@@ -11,11 +11,30 @@ const client = contentful.createClient({
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? "",
 });
 
-const { replaceQuotes } = require('./docs-utils/replace-quotes'); // Import the fix-callouts function
-
 const { fixCallouts } = require('./docs-utils/fix-callouts'); // Import the fix-callouts function
 
 const { updateAllImages } = require('./docs-utils/update-all-images'); // Import the update-all-images function
+
+// Fix title quotes function
+function fixTitleQuotes(title) {
+  // Remove leading/trailing whitespace and quotes
+  title = title.trim().replace(/^['"]+|['"]+$/g, '');
+
+  // If both single and double quotes are present, escape double quotes and use double quotes outside
+  if (title.includes('"') && title.includes("'")) {
+    return `"${title.replace(/\"/g, '\\"')}"`;
+  }
+  // If only single quotes are present, use double quotes outside
+  if (title.includes("'")) {
+    return `"${title}"`;
+  }
+  // If only double quotes are present, use single quotes outside
+  if (title.includes('"')) {
+    return `'${title}'`;
+  }
+  // If neither, use double quotes outside
+  return `"${title}"`;
+}
 
 let fileCount = 0;
 
@@ -273,6 +292,30 @@ function getSubcategoryInfo(entry) {
   }
 }
 
+function normalizeFileName(str) {
+  if (!str) return '';
+  return str
+    .normalize('NFD')
+    // Replace common accented and special characters
+    .replace(/[ñÑ]/g, 'n')
+    .replace(/[óòöôõÓÒÖÔÕ]/g, 'o')
+    .replace(/[áàäâãÁÀÄÂÃ]/g, 'a')
+    .replace(/[éèëêÉÈËÊ]/g, 'e')
+    .replace(/[íìïîÍÌÏÎ]/g, 'i')
+    .replace(/[úùüûÚÙÜÛ]/g, 'u')
+    .replace(/[çÇ]/g, 'c')
+    .replace(/[¿¡]/g, '')
+    .replace(/[’'`]/g, '')
+    // Remove any remaining diacritics
+    .replace(/\p{Diacritic}/gu, '')
+    // Replace any other non-alphanumeric character (except dash, underscore, dot) with dash
+    .replace(/[^a-zA-Z0-9-_.]/g, '-')
+    // Collapse multiple dashes
+    .replace(/-+/g, '-')
+    // Trim dashes from start/end
+    .replace(/^-+|-+$/g, '');
+}
+
 function createMarkdownFile(entry,categories,subcategories) {
   // extract information from each entry
 
@@ -412,13 +455,9 @@ function createMarkdownFile(entry,categories,subcategories) {
 
   // create .md files in locale folders for each item
 
-  let fileNameEN = slugEN.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters and trim if necessary to avoid "filename too long" git error
-  let fileNameES = slugES.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNameES = fileNameES.replace(/\?/g, "");
-  let fileNamePT = slugPT.substring(0, 147).replace(/-$/, "") + ".md";
-  fileNamePT = fileNamePT.replace(/\?/g, "");
-
+  let fileNameEN = normalizeFileName(slugEN.substring(0, 147).replace(/-$/, "")) + ".md";
+  let fileNameES = normalizeFileName(slugES.substring(0, 147).replace(/-$/, "")) + ".md";
+  let fileNamePT = normalizeFileName(slugPT.substring(0, 147).replace(/-$/, "")) + ".md";
   let fileContentEN = "";
   let fileContentES = "";
   let fileContentPT = "";
@@ -430,7 +469,7 @@ function createMarkdownFile(entry,categories,subcategories) {
 
   if (contentType === "knownIssue") {
     fileContentEN = `---
-title: ${titleEN.includes("'") ? `"${titleEN}"` :  `'${titleEN}'`}
+title: ${fixTitleQuotes(titleEN)}
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -461,7 +500,7 @@ ${kiWorkaroundEN}
 
 `;
     fileContentES = `---
-title: ${titleES.includes("'") ? `"${titleES}"` : `'${titleES}'`}
+title: ${fixTitleQuotes(titleES)}
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -472,7 +511,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
-slugEN: ${slugEN}
+slugEN: ${slugES}
 locale: es
 kiStatus: ${kiStatusES}
 internalReference: ${internalReference}
@@ -492,7 +531,7 @@ ${kiWorkaroundES}
 
 `;
     fileContentPT = `---
-title: ${titlePT.includes("'") ? `"${titlePT}"` : `'${titlePT}'`}
+title: ${fixTitleQuotes(titlePT)}
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -503,7 +542,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
-slugEN: ${slugEN}
+slugEN: ${slugPT}
 locale: pt
 kiStatus: ${kiStatusPT}
 internalReference: ${internalReference}
@@ -836,7 +875,6 @@ async function main() {
   try {
     await deleteMarkdownFiles(docsFolderPath);
     await getEntries();
-    // await replaceQuotes();
     // await fixCallouts();
     // await updateAllImages();
   } catch (error) {
