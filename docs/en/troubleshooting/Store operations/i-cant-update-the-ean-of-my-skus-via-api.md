@@ -13,9 +13,8 @@ slugEN: i-cant-update-the-ean-of-my-skus-via-api
 locale: en
 legacySlug: i-cant-update-the-ean-of-my-skus-via-api
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Catalog, SKU, product, EAN
 ---
-
-**Tags:** Catalog, SKU, product, EAN
 
 When trying to update the EAN (European Article Number), which contains the barcode information for a SKU, you may face issues with catalog synchronization between the VTEX Admin and API. This can impact inventory management and customer experience.
 
@@ -45,4 +44,3 @@ After adding the new EAN, use the [Get SKU by EAN](https://developers.vtex.com/d
 "878181"
 ]
 ```
-

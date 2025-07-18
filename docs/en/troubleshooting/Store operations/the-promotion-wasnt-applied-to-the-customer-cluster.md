@@ -13,9 +13,8 @@ slugEN: the-promotion-wasnt-applied-to-the-customer-cluster
 locale: en
 legacySlug: the-promotion-wasnt-applied-to-the-customer-cluster
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Promotions, Cluster, Customer profile, Master Data
 ---
-
-**Tags:** Promotions, Cluster, Customer profile, Master Data
 
 A [custom promotion](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342) can be configured for a specific group of users in your store, such as a [customer cluster](/en/tutorial/how-can-i-create-cluster-of-customers--frequentlyAskedQuestions_1724). However, there may be situations where the promotion is not displayed correctly for this targeted audience. The main reasons are:
 

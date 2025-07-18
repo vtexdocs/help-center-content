@@ -13,9 +13,8 @@ slugEN: i-cant-index-a-product-in-the-catalog
 locale: en
 legacySlug: i-cant-index-a-product-in-the-catalog
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Catalog, Index, Product, SKU, Trade policy
 ---
-
-**Tags:** Catalog, Index, Product, SKU, Trade policy
 
 The indexing process gathers and organizes a product's data, such as catalog information, price, and stock quantity, to be displayed to customers in search results and on store shelves.
 

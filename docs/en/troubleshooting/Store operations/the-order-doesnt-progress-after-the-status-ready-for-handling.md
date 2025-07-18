@@ -13,9 +13,8 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 locale: en
 legacySlug: the-order-doesnt-progress-after-the-status-ready-for-handling
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Handling, Orders, Order status, Integration, ERP, OMS
 ---
-
-**Tags:** Handling, Orders, Order status, Integration, ERP, OMS
 
 The `Ready for handling` status occurs in the [order flow](/en/tutorial/order-flow-and-status--tutorials_196#seller-flow) right after the cancellation window is closed. At this point, VTEX should receive information from the [ERP system](https://developers.vtex.com/docs/guides/erp-integration-guide) indicating that the order has been integrated and the item stock has been updated, allowing the flow to proceed to the `Handling shipment` status.
 

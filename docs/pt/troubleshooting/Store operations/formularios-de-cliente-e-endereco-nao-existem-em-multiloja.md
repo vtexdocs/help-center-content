@@ -13,9 +13,8 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 locale: pt
 legacySlug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Master Data v1, Cliente, Endereço, Multiloja
 ---
-
-**Tags:** Master Data v1, Cliente, Endereço, Multiloja
 
 No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), os formulários não são criados automaticamente.
 

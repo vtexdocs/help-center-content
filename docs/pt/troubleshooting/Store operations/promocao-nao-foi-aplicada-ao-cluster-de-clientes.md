@@ -13,9 +13,8 @@ slugEN: the-promotion-wasnt-applied-to-the-customer-cluster
 locale: pt
 legacySlug: promocao-nao-foi-aplicada-ao-cluster-de-clientes
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Promoções, Cluster, Perfil de clientes, Master Data
 ---
-
-**Tags:** Promoções, Cluster, Perfil de clientes, Master Data
 
 Uma [promoção personalizada](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes) pode ser configurada para atender a um grupo específico de usuários em sua loja, ou seja, um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724). No entanto, podem ocorrer situações em que a promoção não é exibida corretamente para este público segmentado. As principais causas são:
 
