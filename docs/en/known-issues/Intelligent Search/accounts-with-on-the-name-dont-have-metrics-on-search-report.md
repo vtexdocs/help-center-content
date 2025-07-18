@@ -1,5 +1,5 @@
 ---
-title: "Accounts with '-' on the name don't have metrics on search report"
+title: "Accounts with \"-\" on the name don't have metrics on search report"
 id: 71rVz43g0rgIN7Joe4GEj6
 status: PUBLISHED
 createdAt: 2023-04-19T17:35:28.560Z
