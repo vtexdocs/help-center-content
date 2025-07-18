@@ -488,7 +488,6 @@ async function getEntries() {
         if (!(file.sys.publishedVersion &&
     file.sys.version == file.sys.publishedVersion + 1)) {
           // This file is not published yet, skip it
-          }
           continue;
         }
 
