@@ -484,25 +484,15 @@ async function getEntries() {
         const file = entries.items[j];
         const type = file.sys.contentType.sys.id;
 
-        console.log('Processing file:', file.sys.id, 'Type:', type);
-        console.log('Published version:', file.sys.publishedVersion, 'Current version:', file.sys.version);
-
         // Skip files that are not published
         if (!(file.sys.publishedVersion &&
     file.sys.version == file.sys.publishedVersion + 1)) {
           // This file is not published yet, skip it
-          if (file.fields.title) {
-            console.log(`Skipping unpublished file: ${JSON.stringify(file.fields.title)}`);
           }
           continue;
         }
 
         if ((type != 'trackTopic' && !file.fields.slug) || file.sys.archivedAt || !file.sys.publishedAt) continue;
-
-        // Debugging log to check what files are being processed in this specific loop
-        if (file.fields.title) {
-            console.log(`Processing file: ${JSON.stringify(file.fields.title)}`);
-        }
 
         const endpointObj = {
           name: file.fields.title,
