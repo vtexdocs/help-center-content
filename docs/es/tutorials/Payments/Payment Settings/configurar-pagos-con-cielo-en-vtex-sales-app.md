@@ -3,8 +3,8 @@ title: 'Configurar pagos con Cielo en VTEX Sales App'
 id: 2p8rALKTNojgEl8zKn5BtG
 status: PUBLISHED
 createdAt: 2024-08-16T15:15:25.799Z
-updatedAt: 2024-09-24T16:17:56.062Z
-publishedAt: 2024-09-24T16:17:56.062Z
+updatedAt: 2025-07-17T20:58:47.728Z
+publishedAt: 2025-07-17T20:58:47.728Z
 firstPublishedAt: 2024-08-16T18:22:08.305Z
 contentType: tutorial
 productTeam: Financial

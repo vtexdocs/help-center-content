@@ -3,8 +3,8 @@ title: 'Instalar e Configurar conector Shopee'
 id: 2kss3HDVbJwgOOKFgOVhcf
 status: PUBLISHED
 createdAt: 2025-03-17T15:10:36.951Z
-updatedAt: 2025-07-01T18:35:33.080Z
-publishedAt: 2025-07-01T18:35:33.080Z
+updatedAt: 2025-07-18T00:14:06.512Z
+publishedAt: 2025-07-18T00:14:06.512Z
 firstPublishedAt: 2025-03-17T15:36:28.899Z
 contentType: trackArticle
 productTeam: Channels
@@ -47,7 +47,7 @@ Preencha os campos que aparecerão na tela. Veja na tabela a seguir quais são o
 <tbody>
   <tr>
     <td class="tg-n6bu">Integração Logística do Vendedor do Shopee<br></td>
-    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário autenticar essa integração com a Shopee por meio de login.</td>
+    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário <a href="https://help.vtex.com/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee">autenticar essa integração</a> com a Shopee por meio de login.</td>
   </tr>
   <tr>
     <td class="tg-n6bu">ID de afiliado</td>

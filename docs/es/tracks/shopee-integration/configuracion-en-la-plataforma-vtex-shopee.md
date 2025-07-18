@@ -3,8 +3,8 @@ title: 'Configuración en la plataforma VTEX'
 id: 70xqC5uNOggv51Lb3su45w
 status: PUBLISHED
 createdAt: 2025-03-17T15:05:24.376Z
-updatedAt: 2025-07-01T18:35:23.962Z
-publishedAt: 2025-07-01T18:35:23.962Z
+updatedAt: 2025-07-18T00:11:26.931Z
+publishedAt: 2025-07-18T00:11:26.931Z
 firstPublishedAt: 2025-03-17T15:36:00.320Z
 contentType: trackArticle
 productTeam: Channels

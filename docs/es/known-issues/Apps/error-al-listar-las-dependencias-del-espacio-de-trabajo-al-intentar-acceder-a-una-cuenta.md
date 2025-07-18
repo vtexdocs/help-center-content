@@ -3,8 +3,8 @@ title: 'Error al listar las dependencias del espacio de trabajo" al intentar acc
 id: 668VbRnIy8mdfMFyRH9ehX
 status: PUBLISHED
 createdAt: 2025-07-16T13:57:30.593Z
-updatedAt: 2025-07-16T13:57:31.816Z
-publishedAt: 2025-07-16T13:57:31.816Z
+updatedAt: 2025-07-18T13:31:31.640Z
+publishedAt: 2025-07-18T13:31:31.640Z
 firstPublishedAt: 2025-07-16T13:57:31.816Z
 contentType: knownIssue
 productTeam: Apps

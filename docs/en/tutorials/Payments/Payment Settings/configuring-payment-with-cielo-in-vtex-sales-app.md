@@ -3,8 +3,8 @@ title: 'Configuring payment with Cielo in VTEX Sales App'
 id: 2p8rALKTNojgEl8zKn5BtG
 status: PUBLISHED
 createdAt: 2024-08-16T15:15:25.799Z
-updatedAt: 2024-09-24T16:17:56.062Z
-publishedAt: 2024-09-24T16:17:56.062Z
+updatedAt: 2025-07-17T20:58:47.728Z
+publishedAt: 2025-07-17T20:58:47.728Z
 firstPublishedAt: 2024-08-16T18:22:08.305Z
 contentType: tutorial
 productTeam: Financial
@@ -23,7 +23,7 @@ To use the Cielo provider in your store through other online sales channels (exc
 
 To use the Cielo provider in the VTEX Sales App, you need to:
 
-- [Configure keys in the Cielo environment](#configure-keys-in-the-mercado-pago-environment)
+- [Configure keys in the Cielo environment](#configure-keys-in-the-cielo-environment)
 - [Configure Cielo connector (VTEX Sales App) on VTEX](#configure-cielo-connector-vtex-sales-app-on-vtex)
 - [Configure payment condition](#configuring-payment-condition)
 
@@ -31,7 +31,7 @@ To use the Cielo provider in the VTEX Sales App, you need to:
 Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Cielo account for the latest information.
 </div>
 
-## Configure keys in the Mercado Pago environment
+## Configure keys in the Cielo environment
 
 The following steps describe the minimum configurations to be carried out so that the Cielo connector is properly configured. Other personalized settings applied to customers, enabling specific payment methods or particular features of the platform, must be carried out in accordance with Cielo's documentation.
 
