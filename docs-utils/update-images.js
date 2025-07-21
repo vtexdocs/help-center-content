@@ -28,23 +28,48 @@ const checkAndCompressImage = async (filePath) => {
 
       if (fileSizeInMB > 100) { // If file exceeds 100MB
           console.log(`File ${filePath} is over 100MB (${fileSizeInMB.toFixed(2)} MB). Compressing...`);
-          let compressedFilePath = filePath.replace(/(\.\w+)$/, '_compressed$1'); // Add "_compressed" before the extension
-          await sharp(filePath, {limitInputPixels: 0, animated: true })
-              .resize(800) 
-              .gif({ interFrameMaxError: 32 })
-              .toFile(compressedFilePath);
+          let compressedFilePath = filePath.replace(/(\.\w+)$/, '_compressed$1'); 
 
-          // Check if original file exists and delete it
-          if (fs.existsSync(filePath)) {
-            fs.unlinkSync(filePath); // Delete the original file
-            console.log(`Original file deleted: ${filePath}`);
-            fs.renameSync(compressedFilePath, filePath);
-            console.log(`File renamed: ${filePath}`);
-          } else {
-              console.log(`Original file not found, skipping deletion: ${filePath}`);
+        // Add "_compressed" before the extension
+        await sharp(filePath, {limitInputPixels: 0, animated: true })
+          .resize(800) 
+          .gif({ interFrameMaxError: 32 })
+          .toFile(compressedFilePath);
+
+        // Add a delay to ensure file handles are released
+        await new Promise(res => setTimeout(res, 3000)); // 3 seconds
+
+        // Delete original and rename compressed
+        const retryFS = async (fn, args, retries = 20, delay = 2000) => {
+          for (let i = 0; i < retries; i++) {
+            try {
+              return fn(...args);
+            } catch (err) {
+              if (i === retries - 1) throw err;
+              if (err.code === 'EBUSY' || err.code === 'EPERM') {
+                await new Promise(res => setTimeout(res, delay));
+                console.warn(`Retrying due to error: ${err.message}. Attempt ${i + 1}/${retries}`);
+              } else {
+                throw err;
+              }
+            }
           }
+        };
+        
+        try {
+          if (fs.existsSync(filePath)) {
+            await retryFS(fs.promises.unlink, [filePath]);
+            console.log(`Original file deleted: ${filePath}`);
+          }
+          await retryFS(fs.promises.rename, [compressedFilePath, filePath]);
+          console.log(`File renamed: ${filePath}`);
+        } catch (fsErr) {
+          console.error(`FS error during delete/rename:`, fsErr.message);
+          // Clean up: if compressed exists but not renamed, leave as is
+        }
 
-          return filePath; // Return compressed file path
+        return filePath; // Return compressed file path
+
       } else {
         console.log(`File ${filePath} is within the size limit (${fileSizeInMB.toFixed(2)} MB).`);
         return filePath; // Return original file path if no compression needed
