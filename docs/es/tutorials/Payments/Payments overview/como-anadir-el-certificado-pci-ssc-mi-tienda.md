@@ -1,10 +1,10 @@
 ---
 title: '¿Cómo añadir el certificado PCI SSC a mi tienda?'
 id: frequentlyAskedQuestions_4650
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:46:01.185Z
-updatedAt: 2020-11-18T20:02:19.790Z
-publishedAt: 2020-11-10T18:14:22.516Z
+updatedAt: 2025-03-06T19:27:20.975Z
+publishedAt: 2025-03-06T19:27:20.975Z
 firstPublishedAt: 2019-01-24T22:03:53.402Z
 contentType: tutorial
 productTeam: Financial
@@ -26,9 +26,8 @@ Para agregar el sello de la certificación a su tienda, siga los siguientes paso
 
 1. Acceda a la URL [http://io.vtex.com.br/front-libs/assets/pci/index.html](http://io.vtex.com.br/front-libs/assets/pci/index.html).
 2. Elija la imagen del sello que mejor se adapte al diseño de su tienda.
-3. Redireccione el link de la imagen a la URL http://secure.vtex.com/?an={{AccountName}} (cambiando el {{AccountName}} por el Account de su tienda).
 
-### Acerca de otros sellos de seguridad
+## Otros sellos de seguridad
 
 Algunas tiendas virtuales que ya existen en VTEX utilizan sellos de seguridad que no son suministrados por VTEX, como Digicert, RapidSSL, Comodo CA, entre otros. No es adecuado mostrar estos al final de la página (o en otras partes del sitio web), si no se cuenta con esas certificaciones. 
 

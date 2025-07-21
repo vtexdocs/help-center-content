@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível cancelar uma transação com a MaxiPago'
+title: "Não é possível cancelar uma transação com a MaxiPago"
 id: 6HTbiKFtp2hTd080AeVk7O
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:17.956Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: it-is-not-possible-to-cancel-a-transaction-with-maxipago
+slugEN: nao-e-possivel-cancelar-uma-transacao-com-a-maxipago
 locale: pt
 kiStatus: Backlog
 internalReference: 507480
@@ -18,7 +18,9 @@ internalReference: 507480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Quando a transação não avança para o estágio autorizado há muitos dias e o cliente tenta cancelá-la, ele recebe a seguinte mensagem de erro no OMS:
 

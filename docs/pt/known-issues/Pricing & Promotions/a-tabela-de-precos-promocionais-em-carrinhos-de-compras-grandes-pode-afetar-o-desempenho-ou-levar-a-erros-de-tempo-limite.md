@@ -1,5 +1,5 @@
 ---
-title: 'A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou levar a erros de tempo limite'
+title: "A tabela de preços promocionais em carrinhos de compras grandes pode afetar o desempenho ou levar a erros de tempo limite"
 id: 22H47mc9qYLdzk2sFkbBut
 status: PUBLISHED
 createdAt: 2023-12-07T15:47:28.360Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors
+slugEN: a-tabela-de-precos-promocionais-em-carrinhos-de-compras-grandes-pode-afetar-o-desempenho-ou-levar-a-erros-de-tempo-limite
 locale: pt
 kiStatus: Backlog
 internalReference: 949389
@@ -18,7 +18,9 @@ internalReference: 949389
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

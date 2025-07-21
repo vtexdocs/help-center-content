@@ -15,11 +15,13 @@ legacySlug: configuring-payment-conditions-for-b2b
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-In a B2B operation, [payment conditions](https://help.vtex.com/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) are assigned to the buying organization. You determine the payment options that the organization users see at checkout.
+In a B2B operation, [payment conditions](/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) are assigned to the buying organization. You determine the payment options that the organization users see at checkout.
 
 An organization administrator user can customize the available payment options by cost center.
 
->ℹ️ When you configure a payment condition in the Payments module, it will display as a payment method in the **Available** list in the **Payment Conditions** tab. To view the list, click the name of the organization. The payment methods listed are the ones that are already assigned to the organization.
+<div class = "alert alert-info">
+When you configure a payment condition in the Payments module, it will display as a payment method in the <b>Available</b> list in the <b>Payment Conditions</b> tab. To view the list, click the name of the organization. The payment methods listed are the ones that are already assigned to the organization.
+</div>
 
 ## Linking payment conditions to the organization
 To link a payment condition to a buyer organization, follow the instructions below:

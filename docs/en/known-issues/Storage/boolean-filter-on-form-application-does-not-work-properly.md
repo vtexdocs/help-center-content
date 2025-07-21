@@ -1,5 +1,5 @@
 ---
-title: 'Boolean filter on Form Application does not work properly'
+title: "Boolean filter on Form Application does not work properly"
 id: 4x77xCLrvU4gDWZ4s1faHw
 status: PUBLISHED
 createdAt: 2023-10-11T21:15:13.342Z

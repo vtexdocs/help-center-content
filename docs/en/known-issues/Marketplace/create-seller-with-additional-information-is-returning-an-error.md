@@ -1,5 +1,5 @@
 ---
-title: 'Create seller with Additional Information is returning an error'
+title: "Create seller with Additional Information is returning an error"
 id: 4dbB48N1vHHdXjL1M1zANe
 status: PUBLISHED
 createdAt: 2023-01-26T17:12:54.701Z

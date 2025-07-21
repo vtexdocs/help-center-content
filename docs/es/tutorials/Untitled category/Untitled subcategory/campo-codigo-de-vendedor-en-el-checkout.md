@@ -20,7 +20,9 @@ En VTEX, puedes crear un campo para registrar el código de vendedor en el Check
 - Ofrecer descuentos exclusivos al consumidor.
 - Gestionar el desempeño de tus vendedores, extrayendo datos como número de ventas o ticket promedio por vendedor y ranking para comisiones de ventas, entre otros.
 
->⚠️ El campo **Código de vendedor** no sustituye el campo **Cupón de descuento** (que es nativo en la plataforma VTEX). Al realizar la configuración que se describe en este artículo, puedes utilizar los dos para ofrecer descuentos.
+<div class="alert alert-warning">
+  El campo <b>Código de vendedor</b> no sustituye el campo <b>Cupón de descuento</b> (que es nativo en la plataforma VTEX). Al realizar la configuración que se describe en este artículo, puedes utilizar los dos para ofrecer descuentos.
+</div>
 
 Para crear el campo y agregarlo a la pantalla del Checkout de tu tienda, debes completar tres pasos:
 
@@ -30,10 +32,10 @@ Para crear el campo y agregarlo a la pantalla del Checkout de tu tienda, debes c
 
 ## Crear una nueva entidad de datos
 
-El campo **Código de Vendedor** se debe registrar en [Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) como una nueva entidad. Para crear la entidad de datos, sigue los pasos a continuación:
+El campo **Código de Vendedor** se debe registrar en [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) como una nueva entidad. Para crear la entidad de datos, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Master Data** o escribe **Master Data** en la barra de búsqueda en la parte superior de la página.
-2. Crea una nueva [entidad de datos](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar) con el nombre *codigovendedor*.
+2. Crea una nueva [entidad de datos](/es/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar) con el nombre *codigovendedor*.
 3. Dentro da nova entidade de dados, crie os seguintes campos:
     - **Código do vendedor**: código con un valor máximo de 10 caracteres (tipo Varchar10).
     - **Email**: dirección de email del vendedor (tipo Email).
@@ -51,13 +53,15 @@ El campo **Código de Vendedor** se debe registrar en [Master Data](https://help
 Después de crear la entidad *codigovendedor*, debes asociarla a una promoción. Para crear una promoción, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Promociones > Promociones**, o escribe **Promociones** en la barra de búsqueda en la parte superior de la página.
-2. Crea una nueva [promoción regular](https://help.vtex.com/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Rellena la información de **Resumen de la promoción** y **¿A qué ítems se aplicará esta promoción?** según lo desees.
+2. Crea una nueva [promoción regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Rellena la información de **Resumen de la promoción** y **¿A qué ítems se aplicará esta promoción?** según lo desees.
 
->ℹ️ Si deseas utilizar el campo Código de vendedor para ofrecer un descuento en el valor de la compra, rellena la información de **¿Cuál es el tipo y valor del descuento?**.
+<div class="alert alert-info">
+ Si deseas utilizar el campo Código de vendedor para ofrecer un descuento en el valor de la compra, rellena la información de <b>¿Cuál es el tipo y valor del descuento?</b>.
+</div>
 
 <blockquote><ui>3. En <b>¿Cuáles son las condiciones para que la promoción sea válida?</b>, haz clic en la opción <b>utm_campaign</b> e ingresa <i>codigovendedor</i> en el campo.</ui>
 
-![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/campo-codigo-de-vendedor-en-el-checkout_1.PNG)
+![utm campaign codigovendedor](https://images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/5fac14ad4842791589bab32d955f480f/UTM_Campaign_codigovendedor.PNG)
 
 <blockquote><ui>4. En <b>Restricciones y limitaciones de uso</b>, agrega las demás restricciones disponibles, si así lo deseas. Selecciona la opción <b>Aplicar con otras promociones</b>.</ui>
 
@@ -73,7 +77,9 @@ También debes completar los siguientes pasos:
 
 1. Al simular una compra e ingresar el código del vendedor en la pantalla del Checkout, asegúrate de que la llamada GET [Search Documents](https://developers.vtex.com/docs/api-reference/master-data-api-v2#get-/api/dataentities/-dataEntityName-/search) realice la búsqueda en la entidad `codigovendedor` y devuelva toda la información registrada de dicho vendedor. Ejemplo de llamada: https://{accountName}.{environment}.com.br/api/dataentities/codigovendedor/search?codigovendedor=12345.
 
->⚠️ El campo **status** debe devolver el valor **true** para indicar que el código del vendedor es válido.
+<div class="alert alert-warning">
+  El campo <b>status</b> debe devolver el valor <b>true</b> para indicar que el código del vendedor es válido.
+</div>
 
 <blockquote><ui>2. Realiza la llamada POST <a href="https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm">Update orderForm configuration</a> para incluir la siguiente información en el <a href="https://developers.vtex.com/docs/guides/orderform-fields">orderForm</a> de tu tienda</ui>:
 
@@ -81,8 +87,10 @@ También debes completar los siguientes pasos:
 
   <blockquote><blockquote>- <b>openTextField</b> (opcional): ingresa observaciones o comentarios como, por ejemplo, información para filtros de comisiones.
 
->⚠️ En la pantalla del Checkout solo debe aparecer el nombre del vendedor.
+<div class="alert alert-warning">
+  En la pantalla del Checkout solo debe aparecer el nombre del vendedor.
+</div>
 
 Después de ejecutar todos los pasos descritos anteriormente, el campo **Código de vendedor** estará disponible en la pantalla del Checkout.
 
-![Código de vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Untitled%20category/Untitled%20subcategory/campo-codigo-de-vendedor-en-el-checkout_2.png)
+![Código de vendedor](https://images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/8f7156a46e01ad6715f446aad5e2bd7e/Checkout_UI_-_ES_2.png)

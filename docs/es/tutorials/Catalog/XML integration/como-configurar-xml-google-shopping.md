@@ -15,9 +15,13 @@ legacySlug: como-configurar-xml-google-shopping
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
->ℹ️ Desenvolvemos um novo tipo de integração com o Google Shopping por API, que permite acompanhamento em tempo real. Saiba mais em [Integración con Google Shopping](https://help.vtex.com/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG).
+<div class = "alert alert-info">
+  <p>Desenvolvemos um novo tipo de integração com o Google Shopping por API, que permite acompanhamento em tempo real. Saiba mais em <a href="https://help.vtex.com/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG">Integración con Google Shopping</a>.</p>
+</div>
 
->⚠️ Este artículo hace referencia al modelo del 22 de mayo de 2013 de las especificaciones de Google Shopping. O Google modifica e atualiza seu modelo sem prévio aviso. Por ello, comprueba siempre si nuestra explicación permanece actualizada según la [documentación de Google Shopping](https://support.google.com/merchants/answer/188494?hl=pt-BR).
+<div class = "alert alert-warning">
+  <p>Este artículo hace referencia al modelo del 22 de mayo de 2013 de las especificaciones de Google Shopping. O Google modifica e atualiza seu modelo sem prévio aviso. Por ello, comprueba siempre si nuestra explicación permanece actualizada según la <a href="https://support.google.com/merchants/answer/188494?hl=pt-BR">documentación de Google Shopping</a>.</p>
+</div>
 
 Puede configurar Google Shopping a través de VTEX Admin siguiendo los siguientes pasos:
 
@@ -35,4 +39,6 @@ Puede configurar Google Shopping a través de VTEX Admin siguiendo los siguiente
 
 ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/XML%20integration/como-configurar-xml-google-shopping_1.png)
 
->⚠️ Si la opción **Mostrar SKU no disponibles** está desmarcada, los productos o SKU que estén agotados no aparecerán en el XML. Los productos inactivos tampoco aparecerán en el XML.
+<div class = "alert alert-warning">
+  <p>Si la opción <strong>Mostrar SKU no disponibles</strong> está desmarcada, los productos o SKU que estén agotados no aparecerán en el XML. Los productos inactivos tampoco aparecerán en el XML.</p>
+</div>

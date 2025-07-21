@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário considera apenas os itens disponíveis para calcular o SLA'
+title: "A interface do usuário considera apenas os itens disponíveis para calcular o SLA"
 id: 11gXg1N1Sul7EJUZACuQNW
 status: PUBLISHED
 createdAt: 2023-04-25T21:55:37.785Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-considers-only-the-available-items-to-calculate-sla
+slugEN: a-interface-do-usuario-considera-apenas-os-itens-disponiveis-para-calcular-o-sla
 locale: pt
 kiStatus: Backlog
 internalReference: 797028
@@ -18,7 +18,9 @@ internalReference: 797028
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Etiquetas brancas de vendedores diferentes podem ser selecionadas para atender aos produtos ao usar endereços diferentes para entrega e coleta. Quando a opção de retirada é selecionada e, ao mudar para entrega, a interface do usuário considera apenas os itens disponíveis para calcular o novo SLA para entrega, mesmo que os produtos estejam disponíveis. O preço de entrega considerará apenas os itens selecionados disponíveis para retirada.

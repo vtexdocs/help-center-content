@@ -1,5 +1,5 @@
 ---
-title: 'Opção de parcelamento de 1x ausente no Checkout com várias condições de pagamento e configuração padrão definida para uma opção diferente'
+title: "Opção de parcelamento de 1x ausente no Checkout com várias condições de pagamento e configuração padrão definida para uma opção diferente"
 id: 6xzCd4cSKl7ygcptvqwZs9
 status: PUBLISHED
 createdAt: 2023-05-11T17:23:35.529Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: missing-1x-installment-option-on-checkout-with-multiple-payment-conditions-and-default-configuration-set-to-a-different-option
+slugEN: opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente
 locale: pt
 kiStatus: Backlog
 internalReference: 709971
@@ -18,7 +18,9 @@ internalReference: 709971
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há mais de uma condição de pagamento configurada para um sistema de pagamento e uma condição de pagamento diferente daquela com a opção de parcelamento em 1x está configurada como padrão, a opção de parcelamento em 1x não aparece na página de checkout. Nesses casos, apenas a opção de parcelamento em 1x é removida do checkout.

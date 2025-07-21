@@ -1,5 +1,5 @@
 ---
-title: 'Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre'
+title: "Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre"
 id: 3kXypobV36NZNQofVAz2zi
 status: PUBLISHED
 createdAt: 2023-05-15T14:33:07.252Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-cms-does-not-create-folders-with-less-than-3-characters-in-the-name
+slugEN: legacy-cms-no-crea-carpetas-con-menos-de-3-caracteres-en-el-nombre
 locale: es
 kiStatus: Backlog
 internalReference: 825530
@@ -18,7 +18,9 @@ internalReference: 825530
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre

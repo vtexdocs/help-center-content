@@ -1,5 +1,5 @@
 ---
-title: 'No Payout Split, o objeto recipiens não é enviado no método de pagamento do Apple Pay'
+title: "No Payout Split, o objeto recipiens não é enviado no método de pagamento do Apple Pay"
 id: MPafkQI7w3q5kGLxQTgjG
 status: PUBLISHED
 createdAt: 2024-09-09T17:54:39.877Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: in-payout-split-the-recipiens-object-is-not-sent-in-the-apple-pay-payment-method
+slugEN: no-payout-split-o-objeto-recipiens-nao-e-enviado-no-metodo-de-pagamento-do-apple-pay
 locale: pt
 kiStatus: Backlog
 internalReference: 1094952
@@ -18,7 +18,9 @@ internalReference: 1094952
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não é possível criar/enviar objetos de destinatários para o método de pagamento Apple Pay, mesmo com todas as configurações necessárias ativadas.

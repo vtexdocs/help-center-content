@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao publicar entidade de dados de armazenamento dinâmico'
+title: "Erro ao publicar entidade de dados de armazenamento dinâmico"
 id: 1yNh5CV41vrrrU5F7Vj2tG
 status: PUBLISHED
 createdAt: 2023-10-04T16:33:03.051Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-when-publishing-dynamic-storage-data-entity
+slugEN: erro-ao-publicar-entidade-de-dados-de-armazenamento-dinamico
 locale: pt
 kiStatus: Backlog
 internalReference: 666357
@@ -18,7 +18,9 @@ internalReference: 666357
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o armazenamento cria ou atualiza uma entidade de dados e tenta publicá-la, pode ocorrer o seguinte erro:

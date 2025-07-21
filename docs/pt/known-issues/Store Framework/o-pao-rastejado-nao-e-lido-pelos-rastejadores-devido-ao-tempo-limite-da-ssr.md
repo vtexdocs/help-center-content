@@ -1,5 +1,5 @@
 ---
-title: 'O pão rastejado não é lido pelos rastejadores devido ao tempo limite da SSR'
+title: "O pão rastejado não é lido pelos rastejadores devido ao tempo limite da SSR"
 id: 3Xyp2JVHVvlouNrRkDEL1O
 status: PUBLISHED
 createdAt: 2023-01-31T15:52:59.855Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: breadcrumb-not-being-read-by-crawlers-due-ssr-timeout
+slugEN: o-pao-rastejado-nao-e-lido-pelos-rastejadores-devido-ao-tempo-limite-da-ssr
 locale: pt
 kiStatus: Backlog
 internalReference: 460999
@@ -18,7 +18,9 @@ internalReference: 460999
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao carregar pela primeira vez o pão ralado, os dados da lista de categorias estão ficando mais rápidos do que os da árvore de categorias enviada pela consulta de facetas, isto está causando um comportamento inesperado no tempo de carga do pão ralado, porque a lista de categorias traz também categorias similares de produtos similares e não tem todas as informações necessárias para a json+ld.

@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos con changes pueden no enviar e-mail transaccional de Pedido Facturado'
+title: "Pedidos con changes pueden no enviar e-mail transaccional de Pedido Facturado"
 id: 1tyY0JutqQyJB18U9WTRXX
 status: PUBLISHED
 createdAt: 2019-02-17T20:45:54.094Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Pricing & Promotions
-slugEN: orders-with-changes-may-not-send-transactional-email-for-invoiced-order
+slugEN: pedidos-con-changes-pueden-no-enviar-e-mail-transaccional-de-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 

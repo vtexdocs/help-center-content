@@ -1,5 +1,5 @@
 ---
-title: 'O aplicativo Webops não está totalmente integrado ao Headless CMS'
+title: "O aplicativo Webops não está totalmente integrado ao Headless CMS"
 id: 577fIocKB9BYYCOkN9dZfW
 status: PUBLISHED
 createdAt: 2024-06-12T19:42:12.627Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: webops-app-is-not-fully-integrated-with-headless-cms
+slugEN: o-aplicativo-webops-nao-esta-totalmente-integrado-ao-headless-cms
 locale: pt
 kiStatus: Fixed
 internalReference: 1048810
@@ -18,7 +18,9 @@ internalReference: 1048810
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O aplicativo `vtex.webops` não está totalmente integrado ao CMS headless, isso está relacionado aos repositórios do Github hospedados externamente e ao processo de publicação

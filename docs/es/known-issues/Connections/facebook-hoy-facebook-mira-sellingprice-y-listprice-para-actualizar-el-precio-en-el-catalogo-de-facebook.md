@@ -1,5 +1,5 @@
 ---
-title: '[Facebook] Hoy Facebook mira sellingPrice y listPrice para actualizar el precio en el catálogo de Facebook'
+title: "[Facebook] Hoy Facebook mira sellingPrice y listPrice para actualizar el precio en el catálogo de Facebook"
 id: 4CDh12JM3y9AqBnuGDHgnT
 status: PUBLISHED
 createdAt: 2024-04-03T12:41:15.144Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: facebook-today-facebook-looks-at-sellingprice-and-listprice-to-update-the-price-in-the-facebook-catalog
+slugEN: facebook-hoy-facebook-mira-sellingprice-y-listprice-para-actualizar-el-precio-en-el-catalogo-de-facebook
 locale: es
 kiStatus: Backlog
 internalReference: 924411
@@ -18,7 +18,9 @@ internalReference: 924411
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hoy Facebook mira sellingPrice y listPrice para actualizar el precio en el catálogo de Facebook.

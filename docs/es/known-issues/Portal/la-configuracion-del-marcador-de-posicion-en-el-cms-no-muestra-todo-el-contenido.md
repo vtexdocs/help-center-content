@@ -1,5 +1,5 @@
 ---
-title: 'La configuración del marcador de posición en el CMS no muestra todo el contenido'
+title: "La configuración del marcador de posición en el CMS no muestra todo el contenido"
 id: 66IuxgG1s382mr25Amcv7L
 status: PUBLISHED
 createdAt: 2022-03-22T15:14:47.515Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: placeholder-settings-in-the-cms-does-not-display-all-content
+slugEN: la-configuracion-del-marcador-de-posicion-en-el-cms-no-muestra-todo-el-contenido
 locale: es
 kiStatus: Backlog
 internalReference: 547555
@@ -18,7 +18,9 @@ internalReference: 547555
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, cuando se añade demasiado contenido dentro de un marcador de posición en un diseño de CMS, Admin no permite el desplazamiento de la página, lo que detiene la edición

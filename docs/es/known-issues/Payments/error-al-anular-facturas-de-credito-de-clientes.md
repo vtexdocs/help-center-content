@@ -1,5 +1,5 @@
 ---
-title: 'Error al anular facturas de crédito de clientes'
+title: "Error al anular facturas de crédito de clientes"
 id: 75nZNOHGYGBlAoTOjG6gs
 status: PUBLISHED
 createdAt: 2023-10-26T21:09:54.255Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-cancelling-customer-credit-invoices
+slugEN: error-al-anular-facturas-de-credito-de-clientes
 locale: es
 kiStatus: Backlog
 internalReference: 926563
@@ -18,7 +18,9 @@ internalReference: 926563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos casos las facturas no se pueden cancelar, al ejecutar la API DELETE obtenemos un error 500 con la siguiente respuesta:

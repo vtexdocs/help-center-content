@@ -1,5 +1,5 @@
 ---
-title: 'Os usuários não podem acessar as configurações de crédito do cliente UI no Admin devido a um erro proibido'
+title: "Os usuários não podem acessar as configurações de crédito do cliente UI no Admin devido a um erro proibido"
 id: 3RBofop7gS1VlKEDHozclF
 status: PUBLISHED
 createdAt: 2022-02-24T13:19:29.719Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: users-are-unable-to-access-customer-credit-settings-ui-on-the-admin-due-to-a-forbidden-error
+slugEN: os-usuarios-nao-podem-acessar-as-configuracoes-de-credito-do-cliente-ui-no-admin-devido-a-um-erro-proibido
 locale: pt
 kiStatus: Backlog
 internalReference: 380931
@@ -18,7 +18,9 @@ internalReference: 380931
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os usuários não podem acessar a interface de configuração de crédito do cliente na interface de administração e observamos o seguinte erro "Proibido" na operação de configuração de consultas.

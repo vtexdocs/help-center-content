@@ -3,8 +3,8 @@ title: "Intelligent Search multilanguage doesn't support 2 variations of the sam
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2024-08-28T17:03:13.933Z
-publishedAt: 2024-08-28T17:03:13.933Z
+updatedAt: 2025-03-14T18:38:56.651Z
+publishedAt: 2025-03-14T18:38:56.651Z
 firstPublishedAt: 2023-06-09T20:41:32.884Z
 contentType: knownIssue
 productTeam: Intelligent Search

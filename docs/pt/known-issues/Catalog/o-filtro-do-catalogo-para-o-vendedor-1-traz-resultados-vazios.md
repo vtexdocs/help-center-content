@@ -1,5 +1,5 @@
 ---
-title: 'O filtro do catálogo para o vendedor = 1 traz resultados vazios'
+title: "O filtro do catálogo para o vendedor = 1 traz resultados vazios"
 id: 3BG6c5IPa7W950vCpTFY6H
 status: PUBLISHED
 createdAt: 2023-05-03T14:37:41.635Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-filter-for-seller-1-brings-empty-results
+slugEN: o-filtro-do-catalogo-para-o-vendedor-1-traz-resultados-vazios
 locale: pt
 kiStatus: Backlog
 internalReference: 801538
@@ -18,7 +18,9 @@ internalReference: 801538
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao filtrar exclusivamente o vendedor principal nos menus do Catálogo, nenhum resultado é exibido. Isso acontece porque esse filtro está procurando incorretamente por um vendedor específico quando, em vez disso, o vendedor = 1 (o vendedor principal da conta) é o próprio marketplace.

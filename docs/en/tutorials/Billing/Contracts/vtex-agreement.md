@@ -25,8 +25,10 @@ The **Appendix 1 Order Form** and the **partnership-specific Terms and Condition
 
 ## Where can I find my agreement with VTEX?
 
-The Master Agreement applicable to you is available under **Privacy Policy > Privacy & Agreements > [Master Services Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** for clients and **Privacy Policy > Privacy & Agreements > [Partner Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** for partners, depending on the region and the date on which **Appendix 1** or the **partnership-specific Terms and Conditions** were signed. **Appendix 1** and the **Terms and Conditions** signed with VTEX can be requested directly from the CS of your account via [VTEX Support](https://help.vtex.com/support?/cultureInfo=pt-br).
+The Master Agreement applicable to you is available under **Privacy Policy > Privacy & Agreements > [Master Services Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** for clients and **Privacy Policy > Privacy & Agreements > [Partner Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** for partners, depending on the region and the date on which **Appendix 1** or the **partnership-specific Terms and Conditions** were signed. **Appendix 1** and the **Terms and Conditions** signed with VTEX can be requested directly from the CS of your account via [VTEX Support](/support?/cultureInfo=pt-br).
 
 You can also find the most updated Master Agreements — the ones applicable to new clients and partners — on the [VTEX Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements/) page.
 
->ℹ️ If the **MSA, MPA, Appendix 1,** or **partnership-specific Terms and Conditions** signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.
+<div class="alert alert-info">
+  If the <b>MSA, MPA, Appendix 1,</b> or <b>partnership-specific Terms and Conditions</b> signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.
+  </div>

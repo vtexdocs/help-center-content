@@ -1,5 +1,5 @@
 ---
-title: 'Os PaymentSystems não são retornados no orderForm quando o preço do carrinho vem exclusivamente do manualPrice'
+title: "Os PaymentSystems não são retornados no orderForm quando o preço do carrinho vem exclusivamente do manualPrice"
 id: 3KPNFtPgEwshbv6WiGrqOF
 status: PUBLISHED
 createdAt: 2024-04-30T20:06:52.774Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: paymentsystems-are-not-returned-in-orderform-when-a-cart-price-comes-exclusively-from-manualprice
+slugEN: os-paymentsystems-nao-sao-retornados-no-orderform-quando-o-preco-do-carrinho-vem-exclusivamente-do-manualprice
 locale: pt
 kiStatus: Backlog
 internalReference: 1025321
@@ -18,7 +18,9 @@ internalReference: 1025321
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o valor total de um carrinho provém exclusivamente de um preço manual, os itens `preço` e `preço de entrega` são `0`, nenhum sistema de pagamento além do Gift Card (se ativo) é oferecido.

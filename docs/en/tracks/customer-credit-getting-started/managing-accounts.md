@@ -36,7 +36,9 @@ It presents information about the account status (active, inactive), identificat
 
 Displays the amount of credit available for the customer to use for purchases and the total amount to be paid (in invoices) for purchases already made using Customer Credit as a means of payment.
 
->⚠️ When the customer makes a purchase using Customer Credit, but the order has not yet been billed (invoice issued), the **Reserved Credit** field is also displayed on this screen containing information on the order value.
+<div class="alert alert-warning">
+When the customer makes a purchase using Customer Credit, but the order has not yet been billed (invoice issued), the <b>Reserved Credit</b> field is also displayed on this screen containing information on the order value.
+</div>
 
 ## Manage
 
@@ -72,4 +74,6 @@ From this moment on, the customer and their dependent will be able to share the 
 
 If you wish to close the customer's account, in the __Others__ section, click on `CLOSE ACCOUNT`.
 
->⚠️ A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can [open a new account](https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually) for the customer using the same email as the closed account.
+<div class="alert alert-warning">
+A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can <a href="https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually">open a new account</a> for the customer using the same email as the closed account.
+</div>

@@ -3,8 +3,8 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-10-31T20:45:04.174Z
-publishedAt: 2024-10-31T20:45:04.174Z
+updatedAt: 2025-06-12T15:42:48.235Z
+publishedAt: 2025-06-12T15:42:48.235Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -30,6 +30,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 * [Tarjeta de regalo](#tarjeta-de-regalo)
 * [Checkout](#checkout)
 * [Portal CMS](#portal-cms)
+* [Profile System](#profile-system)
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
@@ -37,10 +38,15 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 * [Gestión de sellers](#gestion-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
+* [Tokens de tarjeta](#tokens-de-tarjeta)
 
->ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
+<div class = "alert alert-info">
+Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback sobre documentación</a>.
+</div>
 
->⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Opciones de envío**, **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
+<div class="alert alert-warning">
+En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar <strong>Opciones de envío</strong>, <strong>Profile System</strong> y <strong>Billing</strong>, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
+</div>
 
 ## OMS
 
@@ -183,6 +189,20 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 |---|---|---|
 | SaveOrderFormConfiguration | Cambio de la configuración de OrderForm, que se encarga del funcionamiento del checkout de la tienda. | Descripción de la acción (”configurated OrderForm”) |
 
+## Portal CMS
+
+| Acción | Descripción del evento |  Detalles del evento |
+|---|---|---|
+| File Update | Actualización del archivo del portal. | Nombre e ID del archivo cambiados. |
+| File Upload | Carga de archivo del portal. | Nombre de fichero cambiado. |
+| File Deleted |  Eliminación de fichero. | Nombre e ID del fichero cambiados. |
+
+## Profile System
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| EmailRectification | Modificación de dirección de correo electrónico existente. | ID del usuario cuyo email fue rectificado. |
+
 ## License Manager
 
 | Acción | Descripción del evento | Detalles del evento |
@@ -270,3 +290,12 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 | Create campaign | Creación de una nueva campaña. | ID de la campaña. |
 | Update ads | Actualización de un anuncio. | ID del anuncio. |
 | Update campaign | Actualización de una campaña. | ID de la campaña. |
+
+## Tokens de tarjeta
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| CreateToken | Creación de un nuevo token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
+| GetToken | Lectura de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
+| UpdateToken | Actualización de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
+| DeleteToken | Eliminación de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |

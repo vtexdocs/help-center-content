@@ -1,5 +1,5 @@
 ---
-title: "El mensaje 'Mi dirección de facturación es ...' en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán."
+title: 'El mensaje "Mi dirección de facturación es ..." en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán.'
 id: 3AqPihwDDIM2qixa1jvJmz
 status: PUBLISHED
 createdAt: 2022-03-28T01:11:35.679Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-message-my-billing-address-is-on-the-credit-card-iframe-is-in-the-wrong-language-when-using-checkout-in-catalan-language
+slugEN: el-mensaje-mi-direccion-de-facturacion-es-en-el-iframe-de-la-tarjeta-de-credito-esta-en-un-idioma-incorrecto-cuando-se-utiliza-el-checkout-en-catalan
 locale: es
 kiStatus: Fixed
 internalReference: 481181
@@ -18,7 +18,9 @@ internalReference: 481181
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El mensaje "Mi dirección de facturación es ..." en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán.

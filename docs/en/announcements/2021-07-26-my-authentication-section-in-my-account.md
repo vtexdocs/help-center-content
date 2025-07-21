@@ -17,11 +17,13 @@ announcementSynopsisEN: 'My authentication is a section in My account that allow
 
 The My Authentication section is available on all VTEX accounts, and you can find it on the My account dashboard in your store.
 
->❗ This change will affect all VTEX stores. Because this change interferes with some components in the store UI, you are required to make some changes in your store’s settings until September 29, 2021.
+<div class="alert alert-danger">
+This change will affect all VTEX stores. Because this change interferes with some components in the store UI, you are required to make some changes in your store’s settings until September 29, 2021.
+</div>
 
 ## What has changed?
 
-In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](https://help.vtex.com/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
+In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ![My Authentication app EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-07-26-my-authentication-section-in-my-account_1.png)
 
@@ -53,7 +55,9 @@ Enabling a new section means a new element will be added to your store’s UI, w
 - If your store uses VTEX IO, access the URL `https://{account}.myvtex.com/account#/authentication`, replacing `{account}` with the name of your account.
 - If your store does not use VTEX IO, access the URL `https://{account}.vtexcommercestable.com.br/_secure/account#/authentication`, replacing `{account}` with the name of your account.
 
->⚠️ Before accessing the URL, you need to log in to your store with a user account.
+<div class="alert alert-warning">
+Before accessing the URL, you need to log in to your store with a user account.
+</div>
 
 To customize the section appearance, ask the developer responsible to follow the instructions in the article [My Authentication Customization Guide using CMS](https://developers.vtex.com/vtex-rest-api/docs/ui-customization-my-authentication), if your store does not use VTEX IO. For stores using VTEX IO, check out the article [My Authentication Customization Guide on VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-my-authentication) in our developer portal.
 

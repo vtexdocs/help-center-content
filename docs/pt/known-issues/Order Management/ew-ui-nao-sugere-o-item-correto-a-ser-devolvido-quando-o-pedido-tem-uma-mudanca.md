@@ -1,5 +1,5 @@
 ---
-title: 'New UI não sugere o item correto a ser devolvido quando o pedido tem uma mudança'
+title: "New UI não sugere o item correto a ser devolvido quando o pedido tem uma mudança"
 id: 7hjZaUZ1GNiGjMnSKe0pZu
 status: PUBLISHED
 createdAt: 2023-01-18T17:05:53.889Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: ew-ui-does-not-suggest-the-correct-item-to-be-returned-once-the-order-has-a-change
+slugEN: ew-ui-nao-sugere-o-item-correto-a-ser-devolvido-quando-o-pedido-tem-uma-mudanca
 locale: pt
 kiStatus: Backlog
 internalReference: 735854
@@ -18,7 +18,9 @@ internalReference: 735854
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A nova IU não sugere o item correto a ser devolvido.

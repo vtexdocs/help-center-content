@@ -15,7 +15,7 @@ legacySlug: erros-de-integracao-de-estoque-com-a-amazon
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com a Amazon e orienta sobre como solucioná-los.
+Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com a Amazon e orienta sobre como solucioná-los.
 
 Existem mensagens que identificam quais são os erros. Você pode visualizá-las no Admin VTEX, em **MARKETPLACE > Conexões > Estoque**, clicando sobre a mensagem de processo com erro.
 
@@ -39,7 +39,7 @@ ____
 
 **Mensagem traduzida:** Este SKU não está no catálogo da Amazon. Se você carregou um arquivo de inventário para vários marketplaces e agora está recebendo esta mensagem em um marketplace diferente daquele em que você carregou o arquivo, este erro indica que a página de detalhes desse item não existe no marketplace em que a mensagem está sendo exibida. A Amazon está tentando criar a página de detalhes desse item em seu nome. Se tiver êxito, seu anúncio estará disponível no marketplace designado em até 48 horas.
 
-Esta mensagem indica uma falha ao exportar o SKU para o catálogo da Amazon, provavelmente porque a planilha de mapeamento não foi preenchida corretamente para aquele SKU. Isso impossibilita a integração de estoque com a Amazon. Primeiro é necessário exportar novamente a categoria à qual pertence o SKU, o que pode ser feito consultando [Envio de produtos para a Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Em seguida, [atualize seu estoque](https://help.vtex.com/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). Isso automaticamente será refletido na Amazon, e, portanto, não é necessário fazer um reprocessamento manual do erro.
+Esta mensagem indica uma falha ao exportar o SKU para o catálogo da Amazon, provavelmente porque a planilha de mapeamento não foi preenchida corretamente para aquele SKU. Isso impossibilita a integração de estoque com a Amazon. Primeiro é necessário exportar novamente a categoria à qual pertence o SKU, o que pode ser feito consultando [Envio de produtos para a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Em seguida, [atualize seu estoque](/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). Isso automaticamente será refletido na Amazon, e, portanto, não é necessário fazer um reprocessamento manual do erro.
 
 ____
 
@@ -96,6 +96,6 @@ Estes erros ocorrem devido a problemas com _token_. Para a Amazon, um _token_ po
 <br></br>
 ### Saiba mais
 
-- [Integração com a Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [Controle de estoque mínimo para integrações](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](https://help.vtex.com/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Integração com a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)

@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos com vendedores de mudança executados não estão respeitando o período de carência de cancelamento'
+title: "Pedidos com vendedores de mudança executados não estão respeitando o período de carência de cancelamento"
 id: 25diaeQxIpSJIfCQxFizIV
 status: PUBLISHED
 createdAt: 2022-09-13T03:17:08.065Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-change-sellers-executed-is-not-respecting-the-cancellation-grace-period
+slugEN: pedidos-com-vendedores-de-mudanca-executados-nao-estao-respeitando-o-periodo-de-carencia-de-cancelamento
 locale: pt
 kiStatus: Backlog
 internalReference: 656815
@@ -18,7 +18,9 @@ internalReference: 656815
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Pedidos com vendedor de mudança, tem o pedido de respeitabilidade no primeiro vendedor cancelado e um novo pedido no segundo vendedor será criado. Se mesmo o novo pedido estiver fora do período de carência de Cancelamento, o usuário ainda poderá cancelar o pedido.

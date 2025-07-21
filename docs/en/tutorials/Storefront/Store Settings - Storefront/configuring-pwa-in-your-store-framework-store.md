@@ -68,6 +68,6 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 
 Our service worker supports native push prompts to install the app on the first visit, the first item added to the cart, or the first order. You can customize the notifications in your store's PWA using your own service worker, which will work alongside ours.
 
-To learn how to create your own service worker, see [How to install a service worker](https://help.vtex.com/en/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
+To learn how to create your own service worker, see [How to install a service worker](/en/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
 
 To learn how to leverage the service worker builder to group different service workers in your store, see [Using several service workers in your store](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-service-workers-in-your-store).

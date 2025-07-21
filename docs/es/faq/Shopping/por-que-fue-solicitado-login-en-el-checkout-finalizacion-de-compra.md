@@ -22,8 +22,10 @@ Como el SmartCheckout permite cerrar una compra sólo con el email y con el CVV 
 
 O sea, en el caso de que el cliente finalice la compra tan sólo con el email y el CVV de la tarjeta de crédito y la autorización de la operadora no ocurra en hasta 3 veces seguidas, es mostrada la pantalla de login para que el cliente siga intentando comprar. Ese conteo vuelve al inicio cuando el cliente inicia sesión y completa con éxito su compra.
 
->⚠️ La solicitud de una nueva autenticación al cliente sólo está relacionada con el límite establecido de 3 intentos de compra sin éxito con la misma tarjeta. Esto quiere decir que, **independientemente del intervalo de tiempo entre cada intento, se solicitará la autenticación cuando el cliente intenta por tercera vez finalizar una compra sin éxito.**
+<div class="alert alert-warning">
+La solicitud de una nueva autenticación al cliente sólo está relacionada con el límite establecido de 3 intentos de compra sin éxito con la misma tarjeta. Esto quiere decir que, <strong>independientemente del intervalo de tiempo entre cada intento, se solicitará la autenticación cuando el cliente intenta por tercera vez finalizar una compra sin éxito.</strong>
+</div>
 
 Esa medida tiene por objeto la seguridad de los datos de los clientes contra ataques e intentos de fraude.
 
-Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](https://help.vtex.com/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).

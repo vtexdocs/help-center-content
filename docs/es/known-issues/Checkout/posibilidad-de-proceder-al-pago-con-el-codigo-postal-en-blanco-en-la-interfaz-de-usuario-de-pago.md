@@ -1,5 +1,5 @@
 ---
-title: 'Posibilidad de proceder al pago con el código postal en blanco en la interfaz de usuario de pago.'
+title: "Posibilidad de proceder al pago con el código postal en blanco en la interfaz de usuario de pago."
 id: 32IVEgy5AgcFkCimUl87Rp
 status: PUBLISHED
 createdAt: 2023-01-18T21:46:19.613Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: possibility-to-proceed-to-payment-with-blank-postal-code-in-the-checkout-ui
+slugEN: posibilidad-de-proceder-al-pago-con-el-codigo-postal-en-blanco-en-la-interfaz-de-usuario-de-pago
 locale: es
 kiStatus: Backlog
 internalReference: 334310
@@ -18,7 +18,9 @@ internalReference: 334310
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando eres un usuario que tiene un login y va al checkout, donde los datos están enmascarados, y en el formulario de envío, eliges la opción de entregar en otras direcciones, existe la posibilidad de ir al pago sin necesidad de rellenar el código postal. Llegando así al proceso de pago con los datos de entrega vacíos en la UI.

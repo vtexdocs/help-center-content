@@ -1,5 +1,5 @@
 ---
-title: 'Partial issue of Invoice changes date of payment authorization'
+title: "Partial issue of Invoice changes date of payment authorization"
 id: 3kjzXJNFj2miIeIMAW6uW2
 status: PUBLISHED
 createdAt: 2017-04-06T17:10:46.252Z

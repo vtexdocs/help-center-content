@@ -35,7 +35,7 @@ To configure aCuotaz, follow the steps below:
 2. In the __Payment Conditions__ tab, click on the `+` button.
 3. Click on __aCuotaz__.
 4. Activate the condition in the __Status__ field.
-5. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+5. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 6. Click `Save`.
 
 After following the indicated steps, aCuotaz may take up to 10 minutes to appear at your store's checkout as a payment option.

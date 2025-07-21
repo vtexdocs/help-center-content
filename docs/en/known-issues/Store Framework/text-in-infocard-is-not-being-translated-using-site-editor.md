@@ -1,5 +1,5 @@
 ---
-title: 'Text in InfoCard is not being translated using site editor'
+title: "Text in InfoCard is not being translated using site editor"
 id: 5HYTZvxkPoTZltMkZcVfVO
 status: PUBLISHED
 createdAt: 2024-06-13T18:47:41.470Z

@@ -1,5 +1,5 @@
 ---
-title: 'Master Data’s Dynamic Storage entity groups not working as expected'
+title: "Master Data’s Dynamic Storage entity groups not working as expected"
 id: 2qgBrT6ehhUyy7Z9Xj4R85
 status: PUBLISHED
 createdAt: 2019-08-05T20:46:48.873Z

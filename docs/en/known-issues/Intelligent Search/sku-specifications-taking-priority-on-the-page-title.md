@@ -1,5 +1,5 @@
 ---
-title: 'SKU specifications taking priority on the page title'
+title: "SKU specifications taking priority on the page title"
 id: 2AfzLrb7Vu3E4HBqH3l9iN
 status: PUBLISHED
 createdAt: 2024-08-29T20:58:07.401Z

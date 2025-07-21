@@ -25,7 +25,7 @@ En el pasado, rechazar una sugerencia de SKU de un seller no significaba bloquea
 
 A partir del 28/10/2020, rechazar un SKU recibido significa bloquear su envío por parte del seller. Esto significa que los sellers no podrán enviar su catálogo completo a la vez.
 
-No se requiere ninguna configuración para activar esta funcionalidad, se instalará automáticamente en la plataforma VTEX. Para saber más sobre el bloqueo de SKUs, en el panel del módulo de SKUs recibidos, vea nuestro artículo sobre [Catalogación manual de SKUs](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
+No se requiere ninguna configuración para activar esta funcionalidad, se instalará automáticamente en la plataforma VTEX. Para saber más sobre el bloqueo de SKUs, en el panel del módulo de SKUs recibidos, vea nuestro artículo sobre [Catalogación manual de SKUs](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
 
 Cabe señalar que esta acción puede ser deshecha. Es posible aprobar un SKU por API REST, si el marketplace quiere recibirlo de nuevo como una sugerencia del seller. Para obtener más información sobre la aprobación de SKUs, acceda a nuestra documentación de API en el Portal del Desarrollador.
 

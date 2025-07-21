@@ -1,5 +1,5 @@
 ---
-title: 'Los compradores no pueden iniciar sesión si hay una configuración incorrecta en las organizaciones/centros de costes'
+title: "Los compradores no pueden iniciar sesión si hay una configuración incorrecta en las organizaciones/centros de costes"
 id: r5p7K15FkbZUDSOUQ6hGz
 status: PUBLISHED
 createdAt: 2023-11-30T22:21:39.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: buyers-cant-login-if-there-is-misconfiguration-in-organizationscost-centers
+slugEN: los-compradores-no-pueden-iniciar-sesion-si-hay-una-configuracion-incorrecta-en-las-organizacionescentros-de-costes
 locale: es
 kiStatus: Fixed
 internalReference: 945609
@@ -18,7 +18,9 @@ internalReference: 945609
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario tiene la primera organización asignada no es válida con el ID de centro de coste incorrecto el inicio de sesión falla sin ningún mensaje.

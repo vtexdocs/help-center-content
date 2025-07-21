@@ -19,7 +19,9 @@ A tipografia da sua loja online é uma ferramenta para mostrar a identidade de s
 
 No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de acordo com as necessidades de seu negócio.
 
->⚠️ Lembre-se de que as mudanças realizadas na tipografia da sua loja no **Storefront** substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.
+<div class="alert alert-warning">
+  <p>Lembre-se de que as mudanças realizadas na tipografia da sua loja no <b>Storefront</b> substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.</p>
+</div>
 
 ## Adicionar famílias de fontes personalizadas
 
@@ -37,7 +39,9 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 
 6. Clique em **Enviar** para fazer o upload do arquivo da fonte desejada.
 
->⚠️ O arquivo da família de fontes deve ter uma das seguintes extensões: <i>.ttf</i> ou <i>.woff</i>.
+<div class="alert alert-warning">
+  <p>O arquivo da família de fontes deve ter uma das seguintes extensões: <i>.ttf</i> ou <i>.woff</i>.</p>
+</div>
 
 7. Após finalizar o upload dos arquivos, escolha um estilo para as fontes. Os valores aceitos são: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` e `Black Italic`.
 

@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisEN: "Take part in an intensive VTEX training day with the world's leading experts."
 ---
 
->ℹ️ A full day of training in VTEX given by leading experts.
+<div class="alert alert-info">
+A full day of training in VTEX given by leading experts.
+</div>
 
 For a long time, customers and partners have been asking for in-depth platform training. Now, finally, we have been able to fulfill that request.
 

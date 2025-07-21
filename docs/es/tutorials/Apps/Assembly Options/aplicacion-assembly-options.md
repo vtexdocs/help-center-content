@@ -15,9 +15,11 @@ legacySlug: aplicacion-assembly-options
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
->⚠️ Esta aplicación solo está disponible para las tiendas que usan[ VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de continuar, debes [instalar y configurar Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
+<div class="alert alert-warning">
+<p>Esta aplicación solo está disponible para las tiendas que usan<a href="https://vtex.com/br-pt/store-framework/"> VTEX IO</a>. Antes de continuar, debes <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar y configurar Product Customizer</a> en tu tienda.</p>
+</div>
 
-En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](https://help.vtex.com/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) (opciones de ensamblaje). Esta solución consiste en crear [anexos](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
+En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) (opciones de ensamblaje). Esta solución consiste en crear [anexos](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
 
 La [aplicación Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) proporciona una interfaz para configurar y gestionar las opciones de personalización en tiendas que usan [VTEX IO](https://vtex.com/es-es/store-framework/) en lugar de implementar las opciones de ensamblaje a través de los anexos del Catálogo.
 
@@ -25,7 +27,9 @@ La [aplicación Assembly Options](https://apps.vtex.com/vtex-admin-assembly-opti
 
 La aplicación puede instalarse de forma gratuita a través de [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) o a través de [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), siguiendo los pasos de la [guía para desarrolladores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
->⚠️ Cuando la aplicación Assembly Options se instala en una [cuenta de seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), los clientes de tu tienda pueden ver las opciones de personalización del producto en el *checkout*. Para que las opciones se muestren en la página del producto, debes instalar la aplicación en una [cuenta de marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
+<div class="alert alert-warning">
+<p>Cuando la aplicación Assembly Options se instala en una <a href="https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w">cuenta de seller</a>, los clientes de tu tienda pueden ver las opciones de personalización del producto en el <em>checkout</em>. Para que las opciones se muestren en la página del producto, debes instalar la aplicación en una <a href="https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8">cuenta de marketplace</a>.</p>
+</div>
 
 Una vez instalada, la página **Catálogo > Opciones de ensamblaje** estará disponible en el Admin VTEX. A continuación, puedes ver las funcionalidades que estarán disponibles tras la instalación.
 
@@ -37,7 +41,7 @@ En el Admin VTEX, en **Catálogo > Opciones de ensamblaje**, tendrás acceso a u
 
 La información que aparecerá en la lista será:
 
-* **ID:** muestra el ID de la opción de ensamblaje, la cual equivale al ID del [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) en el **Catálogo**.
+* **ID:** muestra el ID de la opción de ensamblaje, la cual equivale al ID del [anexo](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) en el **Catálogo**.
 * **Nombre:** muestra el nombre del anexo de la opción de ensamblaje.
 * **Obligatorio:** cuando tiene un <i class="far fa-check-circle"></i>, esta columna indica que el anexo de opción de ensamblaje es obligatorio. Si el campo está vacío, significa que no es obligatorio.
 * **Status:** indica el status de la opción de ensamblaje, la cual puede ser:
@@ -79,9 +83,11 @@ La página **Productos > Opciones de ensamblaje > Nuevas opciones de ensamblaje*
 
 Al guardar la opción de ensamblaje, se creará un anexo automáticamente en **Catálogo > Anexos**, con el prefijo `vtex.assembly-option.` en el nombre de la opción de ensamblaje creada. Ejemplo: `vtex.assembly-option.Ingredientes`.
 
->⚠️ Para que las opciones de personalización registradas en la opción de ensamblaje aparezcan en el *storefront*, debes asociar el anexo creado a un SKU en **Catálogo > Productos y SKU > Configuraciones avanzadas > Anexos**. Para hacerlo, sigue los pasos descriptos en [Asociar el anexo a un SKU](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku).
+<div class="alert alert-warning">
+<p>Para que las opciones de personalización registradas en la opción de ensamblaje aparezcan en el <em>storefront</em>, debes asociar el anexo creado a un SKU en <strong>Catálogo > Productos y SKU > Configuraciones avanzadas > Anexos</strong>. Para hacerlo, sigue los pasos descriptos en <a href="https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku">Asociar el anexo a un SKU</a>.</p>
+</div>
 
 ## Más información
 
-* [Opciones de ensamblaje](https://help.vtex.com/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
-* [¿Qué es un anexo?](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm)
+* [Opciones de ensamblaje](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
+* [¿Qué es un anexo?](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm)

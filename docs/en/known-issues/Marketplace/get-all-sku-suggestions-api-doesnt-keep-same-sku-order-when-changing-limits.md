@@ -1,10 +1,10 @@
 ---
-title: ""Get all SKU suggestions' API doesn't keep same sku order when changing limits"
+title: "Get all SKU suggestions\" API doesn't keep same sku order when changing limits"
 id: 4wQbZm9rFc8iD2xYwEiAlQ
 status: PUBLISHED
 createdAt: 2022-12-05T14:49:46.856Z
-updatedAt: 2024-03-01T21:06:12.857Z
-publishedAt: 2024-03-01T21:06:12.857Z
+updatedAt: 2025-05-26T18:23:13.310Z
+publishedAt: 2025-05-26T18:23:13.310Z
 firstPublishedAt: 2022-12-05T14:49:47.309Z
 contentType: knownIssue
 productTeam: Marketplace

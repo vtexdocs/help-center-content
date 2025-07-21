@@ -1,5 +1,5 @@
 ---
-title: 'Product availability display delayed when using multiple sales channels'
+title: "Product availability display delayed when using multiple sales channels"
 id: 7JluVogO4pom0l57UobYIP
 status: PUBLISHED
 createdAt: 2023-12-07T16:18:59.300Z

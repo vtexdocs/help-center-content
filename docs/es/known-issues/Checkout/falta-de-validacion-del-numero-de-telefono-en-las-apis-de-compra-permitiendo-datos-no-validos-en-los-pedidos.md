@@ -1,5 +1,5 @@
 ---
-title: 'Falta de validación del número de teléfono en las APIs de compra permitiendo datos no válidos en los pedidos'
+title: "Falta de validación del número de teléfono en las APIs de compra permitiendo datos no válidos en los pedidos"
 id: 141uMln6PSWcm2YSE5UpSI
 status: PUBLISHED
 createdAt: 2022-10-18T22:35:54.297Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lack-of-phone-number-validation-in-the-purchase-apis-allowing-invalid-data-in-the-orders
+slugEN: falta-de-validacion-del-numero-de-telefono-en-las-apis-de-compra-permitiendo-datos-no-validos-en-los-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 680500
@@ -18,7 +18,9 @@ internalReference: 680500
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La validación de un número de teléfono está restringida al formulario donde se inserta o edita a través de la interfaz en el paso de perfil de compra. Los valores insertados directamente a través de las APIs REST a un orderForm o a un pedido, o que provengan del perfil del cliente (que, a su manera, pueden ser insertados por diferentes vías) no son validados por la plataforma.

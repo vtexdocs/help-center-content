@@ -1,5 +1,5 @@
 ---
-title: 'Divergence between total order value and total products value'
+title: "Divergence between total order value and total products value"
 id: 20XszEUpq8MKweAyqMyIkM
 status: PUBLISHED
 createdAt: 2018-08-22T19:31:56.591Z

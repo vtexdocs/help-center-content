@@ -1,5 +1,5 @@
 ---
-title: 'My Cards UI allow customers to save credit cards without number field filled in the address information'
+title: "My Cards UI allow customers to save credit cards without number field filled in the address information"
 id: 7Ab61xaPRXqxA7VYEnFu8J
 status: PUBLISHED
 createdAt: 2022-02-10T12:34:15.351Z

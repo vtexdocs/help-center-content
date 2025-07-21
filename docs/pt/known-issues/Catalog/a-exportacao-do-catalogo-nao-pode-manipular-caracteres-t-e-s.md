@@ -1,5 +1,5 @@
 ---
-title: 'A exportação do catálogo não pode manipular caracteres ț e ș.'
+title: "A exportação do catálogo não pode manipular caracteres ț e ș."
 id: 1c28limdEHowD4LKDeHAB1
 status: PUBLISHED
 createdAt: 2023-12-11T17:40:16.688Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-export-cannot-handle-t-and-s-characters
+slugEN: a-exportacao-do-catalogo-nao-pode-manipular-caracteres-t-e-s
 locale: pt
 kiStatus: Backlog
 internalReference: 950933
@@ -18,7 +18,9 @@ internalReference: 950933
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o catálogo de importação/exportação corta os caracteres especiais ț e ș ao exportar dados.

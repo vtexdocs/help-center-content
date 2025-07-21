@@ -17,7 +17,9 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX es posible la integración con el proveedor de pagos Malga. Con este proveedor, su tienda puede realizar ventas a través de tarjetas de crédito, PIX y boletos.
 
->ℹ️ Si desea obtener más información sobre la integración de Malga en VTEX, acceda a la [documentación externa de Malga](https://docs.malga.io/sdks/plugins/vtex-connector).
+<div class="alert alert-info">
+Si desea obtener más información sobre la integración de Malga en VTEX, acceda a la <a href="https://docs.malga.io/sdks/plugins/vtex-connector">documentación externa de Malga</a>.
+</div>
 
 Para configurar Malga, siga los pasos a continuación:
 
@@ -38,8 +40,8 @@ Para configurar Malga, siga los pasos a continuación:
 </ul>
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Malga, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Malga, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Malga puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

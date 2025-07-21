@@ -1,5 +1,5 @@
 ---
-title: "A interface do usuário de configurações não atualiza o 'período de expiração' das cotações"
+title: 'A interface do usuário de configurações não atualiza o "período de expiração" das cotações'
 id: 4CmuAYwDn7tcCiR9DQHSFb
 status: PUBLISHED
 createdAt: 2023-08-07T19:42:22.810Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: settings-ui-doesnt-update-expiration-period-of-quotes
+slugEN: a-interface-do-usuario-de-configuracoes-nao-atualiza-o-periodo-de-expiracao-das-cotacoes
 locale: pt
 kiStatus: Fixed
 internalReference: 876576
@@ -18,7 +18,9 @@ internalReference: 876576
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A UI de configurações de cotação B2B não atualiza o valor do período de expiração; ele é sempre 30.

@@ -19,7 +19,7 @@ Mercado Libre is one of the leaders in ecommerce in Latin America. It offers eco
 
 VTEX is now a certified Mercado Libre integration partner!
 
-The certification ensures that the VTEX integration has reached the standards of excellence required by Mercado Libre. In practice, the certification ensures that the solution is adapted to [omnichannel](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) and has the necessary features for the seller to succeed in their sales operation on Mercado Libre.
+The certification ensures that the VTEX integration has reached the standards of excellence required by Mercado Libre. In practice, the certification ensures that the solution is adapted to [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) and has the necessary features for the seller to succeed in their sales operation on Mercado Libre.
 
 Here are some of the benefits provided by the certification:
 
@@ -42,6 +42,6 @@ All new features introduced by the certification aim to increase sales and impro
 
 ## What needs to be done?
 
-Users that already use the VTEX-Mercado Libre integration can contact [VTEX support](https://help.vtex.com/support?cultureInfo=en-us) for more details about the new improvements. 
+Users that already use the VTEX-Mercado Libre integration can contact [VTEX support](/support?cultureInfo=en-us) for more details about the new improvements. 
 
-If your store is not integrated with Mercado Libre yet, check out our [Integration guide](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq).
+If your store is not integrated with Mercado Libre yet, check out our [Integration guide](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq).

@@ -1,5 +1,5 @@
 ---
-title: 'Valores errados nos destinatários de uma transação dividida com cancelamento parcial.'
+title: "Valores errados nos destinatários de uma transação dividida com cancelamento parcial."
 id: 5srb8YPqWIn5D5ZpJVs1u7
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:02.299Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: wrong-values-in-recipients-of-a-transaction-split-with-partial-cancellation
+slugEN: valores-errados-nos-destinatarios-de-uma-transacao-dividida-com-cancelamento-parcial
 locale: pt
 kiStatus: Backlog
 internalReference: 489481
@@ -18,7 +18,9 @@ internalReference: 489481
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um cenário de Payout Split, quando há um cancelamento parcial antes da captura, não alteramos os campos dos destinatários para que os valores para quando cada participante receberá sejam diferentes do correto, ou seja, os valores dentro dos destinatários da liquidação aparecem como se não tivesse havido cancelamento parcial.

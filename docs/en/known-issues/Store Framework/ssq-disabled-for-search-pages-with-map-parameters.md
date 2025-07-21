@@ -1,5 +1,5 @@
 ---
-title: 'SSQ disabled for search pages with map parameters'
+title: "SSQ disabled for search pages with map parameters"
 id: 4hbo7YxKAxLOkhT21w1Q4e
 status: PUBLISHED
 createdAt: 2024-09-04T12:52:05.855Z

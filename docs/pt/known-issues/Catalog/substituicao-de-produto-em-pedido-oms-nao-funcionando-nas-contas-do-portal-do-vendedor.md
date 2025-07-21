@@ -1,5 +1,5 @@
 ---
-title: 'Substituição de produto em pedido OMS não funcionando nas contas do portal do vendedor'
+title: "Substituição de produto em pedido OMS não funcionando nas contas do portal do vendedor"
 id: 1wQTfSR6OB6CL0sRpCYARp
 status: PUBLISHED
 createdAt: 2023-02-14T12:25:00.911Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-replacement-on-oms-order-not-working-on-seller-portal-accounts
+slugEN: substituicao-de-produto-em-pedido-oms-nao-funcionando-nas-contas-do-portal-do-vendedor
 locale: pt
 kiStatus: No Fix
 internalReference: 753484
@@ -18,7 +18,9 @@ internalReference: 753484
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não está sendo possível alterar o sku de um pedido porque a OMS utiliza a API de busca (que está relacionada ao catálogo V1) e as contas do portal do vendedor utilizam uma nova versão do catálogo. Nenhum proxy foi implementado nesta área.

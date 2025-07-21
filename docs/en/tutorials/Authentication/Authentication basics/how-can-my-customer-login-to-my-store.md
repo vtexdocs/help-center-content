@@ -62,4 +62,4 @@ This type of login __ requests email and password__ so that the client can authe
 
 ### Social media login
 
-Social media login options using your Google or Facebook accounts may also be added. Read our article on [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) for more info.
+Social media login options using your Google or Facebook accounts may also be added. Read our article on [Configuring login with Facebook and Google](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) for more info.

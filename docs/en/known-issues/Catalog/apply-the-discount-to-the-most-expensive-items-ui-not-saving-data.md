@@ -1,5 +1,5 @@
 ---
-title: 'Apply the discount to the most expensive items - UI not saving data.'
+title: "Apply the discount to the most expensive items - UI not saving data."
 id: 6VQuVOAtzbA6OyjDEi2bHh
 status: PUBLISHED
 createdAt: 2024-04-03T17:29:36.171Z

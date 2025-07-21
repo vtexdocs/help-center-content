@@ -1,5 +1,5 @@
 ---
-title: 'Los pagos a plazos con crédito de cliente no se muestran como opción en el proceso de pago.'
+title: "Los pagos a plazos con crédito de cliente no se muestran como opción en el proceso de pago."
 id: 1bfMjWdCLGo5VdX2atDQc9
 status: PUBLISHED
 createdAt: 2024-08-09T14:43:33.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: installments-using-customer-credit-are-not-displayed-as-an-option-at-checkout
+slugEN: los-pagos-a-plazos-con-credito-de-cliente-no-se-muestran-como-opcion-en-el-proceso-de-pago
 locale: es
 kiStatus: Backlog
 internalReference: 1078804
@@ -18,7 +18,9 @@ internalReference: 1078804
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al registrar una regla con una opción de pago a plazos, ésta no aparece en el checkout.

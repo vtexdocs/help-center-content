@@ -1,5 +1,5 @@
 ---
-title: 'Sistema permite al usuario cambiar un sitio web principal, generando errores'
+title: "Sistema permite al usuario cambiar un sitio web principal, generando errores"
 id: 1etuCzBmHEywwm02USmyW6
 status: PUBLISHED
 createdAt: 2017-06-14T18:44:43.954Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: system-allows-the-user-to-change-a-main-web-site-generating-errors
+slugEN: sistema-permite-al-usuario-cambiar-un-sitio-web-principal-generando-errores
 locale: es
 kiStatus: Backlog
 internalReference: 

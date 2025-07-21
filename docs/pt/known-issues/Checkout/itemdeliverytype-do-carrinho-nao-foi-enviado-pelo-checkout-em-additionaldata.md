@@ -1,5 +1,5 @@
 ---
-title: 'item.deliveryType do carrinho não foi enviado pelo checkout em AdditionalData'
+title: "item.deliveryType do carrinho não foi enviado pelo checkout em AdditionalData"
 id: lV8VxXUPOzO9cSMgNV4fj
 status: PUBLISHED
 createdAt: 2024-03-19T12:59:17.599Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-itemdeliverytype-is-missing-sent-by-checkout-in-additionaldata
+slugEN: itemdeliverytype-do-carrinho-nao-foi-enviado-pelo-checkout-em-additionaldata
 locale: pt
 kiStatus: Backlog
 internalReference: 1002115
@@ -18,7 +18,9 @@ internalReference: 1002115
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há uma divisão de quantidade na `priceDefinition` devido ao arredondamento do multiplicador de unidades, o gateway não pode receber nenhum valor para `deliveryType` no objeto do carrinho. Portanto, isso pode fazer com que o provedor de pagamento negue o pagamento se ele usar esse campo...

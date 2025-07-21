@@ -1,5 +1,5 @@
 ---
-title: 'SKU activo incluso sin especificaciones registradas'
+title: "SKU activo incluso sin especificaciones registradas"
 id: RVkBbJAVMGwo2cqcq6Okg
 status: PUBLISHED
 createdAt: 2018-06-28T22:50:36.470Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slugEN: sku-active-even-without-registered-specifications
+slugEN: sku-activo-incluso-sin-especificaciones-registradas
 locale: es
 kiStatus: Closed
 internalReference: 

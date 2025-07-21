@@ -1,5 +1,5 @@
 ---
-title: 'Los clics en el NumericStepper no funcionan'
+title: "Los clics en el NumericStepper no funcionan"
 id: 7xGnJNyjWERcJ48ollIqh1
 status: PUBLISHED
 createdAt: 2022-07-04T16:45:10.692Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: clicks-on-the-numericstepper-not-working
+slugEN: los-clics-en-el-numericstepper-no-funcionan
 locale: es
 kiStatus: Backlog
 internalReference: 537245
@@ -18,7 +18,9 @@ internalReference: 537245
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clics del Stepper Numérico no están funcionando como se esperaba - todavía se puede editar el cuadro de texto pero los botones no aumentan o disminuyen el número del cuadro de texto. Las llamadas de red parecen enviarse de la misma manera. El cliente reportó este problema al usar Windows 11 con Chrome. Algunas consideraciones:

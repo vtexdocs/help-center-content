@@ -19,7 +19,9 @@ subcategoryId: 1luKrYptdi8WoMYckakUaM
 
 With the sales funnel configured, you can track and analyze the customer's steps until the completion of an order. To set up the sales funnel, let's take into account that the purchase process starts on your product screen and goes through the shopping cart, checkout (personal data, shipping, payment) and reaches the goal, which is the order placed page.
 
->ℹ️ To make it easier, the entire setup in this article can be [imported directly into Google Analytics](https://support.google.com/analytics/answer/1032415?hl=en" target="_blank) with [this template](https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank).
+<div class="alert alert-info">
+To make it easier, the entire setup in this article can be <a href="https://support.google.com/analytics/answer/1032415?hl=en" target="_blank">imported directly into Google Analytics</a> with <a href="https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank">this template</a>.
+</div>
 
 For manual configuration or editing of an existing goal, the first step is to access Analytics and click on the __Administrator__ button in the lower left corner. Then go to the __Goals__ option, from the "View" column.
 
@@ -60,35 +62,30 @@ Now just save the goal and wait for the time the system needs to start counting 
 
 To view your funnel, see the Analytics reports and go to the __Conversions__ menu and then to the __Goals__ option.
 
->⚠️ If you have a multi-language store with languages as [subdirectories of the gTLD](https://support.google.com/webmasters/answer/182192?hl=en#locale-specific-urls) you should replace every [carret](https://support.google.com/analytics/answer/1034376?hl=en&ref_topic=1034375) (`^`) with a [regex](https://support.google.com/analytics/answer/1034324?hl=en) that matches the different subdirectories. For instance, if your website is available in:
->
-> * **Italian: **`example.com/it`
->
-> * **Spanish: **`example.com/es`
->
-> * **French: **`example.com/fr`
->
-> You would have to change your destination:
->
-> ***From: **`^/checkout/orderPlaced` 
->
-> ***To: **`^/(it|es|fr)/checkout/orderPlaced`
->
-> This needs to be done for every funnel step as well.
+<div class="alert alert-warning">
+<p>If you have a multi-language store with languages as <a href="https://support.google.com/webmasters/answer/182192?hl=en#locale-specific-urls">subdirectories of the gTLD</a> you should replace every <a href="https://support.google.com/analytics/answer/1034376?hl=en&ref_topic=1034375">carret</a> (<code>^</code>) with a <a href="https://support.google.com/analytics/answer/1034324?hl=en">regex</a> that matches the different subdirectories. For instance, if your website is available in:</p>
+  <ul>
+    <li><strong>Italian: </strong><code>example.com/it</code></li>
+    <li><strong>Spanish: </strong><code>example.com/es</code></li>
+    <li><strong>French: </strong><code>example.com/fr</code></li>
+  </ul>
+  <p>You would have to change your destination:</p>
+  <ul>
+<li><strong>From: </strong><code>^/checkout/orderPlaced</code></li> 
+<li><strong>To: </strong><code>^/(it|es|fr)/checkout/orderPlaced</code></li>
+  </ul>
+  <p>This needs to be done for every funnel step as well.</p>
+</div>
 
->⚠️ The funnel settings in this article have been updated to follow the new version of [SmartCheckout shared cart](http://help.vtex.com/en/tutorial/what-is-the-shared-cart).
->
-> For comparison purposes, see below the old settings:
->
-> Product: `/p($|\?)` (not required)
->
-> Cart: `^/checkout/(#/cart)?$`
->
-> Identification: `^/checkout/#/email`
->
-> Personal Data: `^/checkout/#/profile`
->
-> Delivery: `^/checkout/#/shipping`
->
-> Payment: `^/checkout/#/payment`
-> 
+<div class="alert alert-warning">
+<p>The funnel settings in this article have been updated to follow the new version of <a href="http://help.vtex.com/en/tutorial/what-is-the-shared-cart">SmartCheckout shared cart</a>.</p>
+<p>For comparison purposes, see below the old settings:</p>
+<ol>
+<li>Product: <code>/p($|\?)</code> (not required)</li>
+<li>Cart: <code>^/checkout/(#/cart)?$</code></li>
+<li>Identification: <code>^/checkout/#/email</code></li>
+<li>Personal Data: <code>^/checkout/#/profile</code></li>
+<li>Delivery: <code>^/checkout/#/shipping</code></li>
+<li>Payment: <code>^/checkout/#/payment</code></li>
+</ol>
+</div>

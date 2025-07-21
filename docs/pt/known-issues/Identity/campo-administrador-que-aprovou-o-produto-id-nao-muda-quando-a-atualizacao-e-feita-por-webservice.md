@@ -1,5 +1,5 @@
 ---
-title: "Campo 'Administrador que aprovou o produto (id)' não muda quando a atualização é feita por webservice"
+title: 'Campo "Administrador que aprovou o produto (id)" não muda quando a atualização é feita por webservice'
 id: 5R6Jj0aglq0gUu2OakqgUw
 status: PUBLISHED
 createdAt: 2017-04-11T22:17:03.345Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
-slugEN: the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice
+slugEN: campo-administrador-que-aprovou-o-produto-id-nao-muda-quando-a-atualizacao-e-feita-por-webservice
 locale: pt
 kiStatus: Backlog
 internalReference: 

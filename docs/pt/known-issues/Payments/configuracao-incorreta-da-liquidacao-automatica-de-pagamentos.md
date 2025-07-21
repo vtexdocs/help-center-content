@@ -1,5 +1,5 @@
 ---
-title: 'Configuração incorreta da liquidação automática de pagamentos'
+title: "Configuração incorreta da liquidação automática de pagamentos"
 id: 6KOQwBKNgOPNL7TM80Bqjf
 status: PUBLISHED
 createdAt: 2024-06-19T22:12:10.705Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: automatic-payment-settlement-incorrectly-setup
+slugEN: configuracao-incorreta-da-liquidacao-automatica-de-pagamentos
 locale: pt
 kiStatus: Backlog
 internalReference: 1053010
@@ -18,7 +18,9 @@ internalReference: 1053010
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O problema é que o gateway ignorou o valor `delayToAutoSettleAfterAntifraud`.

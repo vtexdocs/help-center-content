@@ -1,5 +1,5 @@
 ---
-title: 'Benefits.items array inside of ProductContextProvider shuffle items when the promotion is a Buy Together type'
+title: "Benefits.items array inside of ProductContextProvider shuffle items when the promotion is a Buy Together type"
 id: 1VeBqJAKwpVR5YHqtEJ7Xz
 status: PUBLISHED
 createdAt: 2023-10-05T19:57:59.828Z

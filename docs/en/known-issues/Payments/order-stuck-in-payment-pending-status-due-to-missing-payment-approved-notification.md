@@ -1,10 +1,10 @@
 ---
-title: 'Order stuck in Payment Pending status due to missing payment approved notification'
+title: "Order stuck in Payment Pending status due to missing payment approved notification"
 id: 1yM3alrrYhrpdZhBPLslZC
 status: PUBLISHED
 createdAt: 2024-05-24T15:04:47.795Z
-updatedAt: 2024-05-24T15:04:48.820Z
-publishedAt: 2024-05-24T15:04:48.820Z
+updatedAt: 2025-03-06T12:54:01.253Z
+publishedAt: 2025-03-06T12:54:01.253Z
 firstPublishedAt: 2024-05-24T15:04:48.820Z
 contentType: knownIssue
 productTeam: Payments
@@ -22,7 +22,7 @@ internalReference: 1031035
 
 In the "Payment Pending" status, a payment notification is expected to be sent to the Orders module. During this period, some problems with event processing may occur.
 The message queue provides an asynchronous communication protocol, in which events are placed in a queue to be consumed at a predetermined time in the future.
-This KI refers explicitly to the scenarios with PPP connectors and is not intended to exhaust all possibilities of event processing problems that may occur.
+This KI refers explicitly to the scenarios with PPP connectors and GiftcardHub, and is not intended to exhaust all possibilities of event processing problems that may occur.
 
 
 ##

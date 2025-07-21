@@ -1,5 +1,5 @@
 ---
-title: "IU do público-alvo da campanha alterando 'Diferente de' para 'Igual a' com uma coleção"
+title: 'IU do público-alvo da campanha alterando "Diferente de" para "Igual a" com uma coleção'
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection
+slugEN: iu-do-publicoalvo-da-campanha-alterando-diferente-de-para-igual-a-com-uma-colecao
 locale: pt
 kiStatus: Backlog
 internalReference: 881131
@@ -18,7 +18,9 @@ internalReference: 881131
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

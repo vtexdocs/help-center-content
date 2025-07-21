@@ -1,5 +1,5 @@
 ---
-title: 'Los artículos no disponibles rompen el cálculo del orderForm en un escenario específico cuando se utilizan vendedores con etiqueta blanca.'
+title: "Los artículos no disponibles rompen el cálculo del orderForm en un escenario específico cuando se utilizan vendedores con etiqueta blanca."
 id: 1LJqeG27j5tY6o6Bs8cQ7P
 status: PUBLISHED
 createdAt: 2023-02-01T21:48:14.820Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: unavailable-items-breaking-the-orderform-calculation-in-a-specific-scenario-while-using-whitelabel-sellers
+slugEN: los-articulos-no-disponibles-rompen-el-calculo-del-orderform-en-un-escenario-especifico-cuando-se-utilizan-vendedores-con-etiqueta-blanca
 locale: es
 kiStatus: Backlog
 internalReference: 745047
@@ -18,7 +18,9 @@ internalReference: 745047
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

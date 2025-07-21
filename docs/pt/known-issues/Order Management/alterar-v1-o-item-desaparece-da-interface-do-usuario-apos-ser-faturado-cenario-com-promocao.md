@@ -1,5 +1,5 @@
 ---
-title: 'Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção.'
+title: "Alterar v1 O item desaparece da interface do usuário após ser faturado, cenário com promoção."
 id: 2OsJe5vLh2IsNUikT5VBrL
 status: PUBLISHED
 createdAt: 2024-08-13T13:11:12.493Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: change-v1-item-disappears-from-ui-after-being-invoiced-scenario-with-promotion
+slugEN: alterar-v1-o-item-desaparece-da-interface-do-usuario-apos-ser-faturado-cenario-com-promocao
 locale: pt
 kiStatus: No Fix
 internalReference: 1080187
@@ -18,7 +18,9 @@ internalReference: 1080187
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Identificamos um cenário na Change V1 em que, após aplicar uma promoção "compre 2 e ganhe um desconto na segunda unidade", quando faturamos um dos itens e o segundo é removido por meio da Change V1, as informações sobre o produto que foi faturado desaparecem da UI de pedidos, deixando apenas as informações sobre o item que foi removido na Change V1.

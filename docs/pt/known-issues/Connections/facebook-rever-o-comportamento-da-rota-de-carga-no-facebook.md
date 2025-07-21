@@ -1,5 +1,5 @@
 ---
-title: '[Facebook] [Rever o comportamento da rota de carga no facebook]'
+title: "[Facebook] [Rever o comportamento da rota de carga no facebook]"
 id: 1gd1djMnaXxFw8l2ZsKZFn
 status: PUBLISHED
 createdAt: 2023-03-30T11:38:17.727Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: facebook-review-skus-load-route-behavior-on-facebook
+slugEN: facebook-rever-o-comportamento-da-rota-de-carga-no-facebook
 locale: pt
 kiStatus: Fixed
 internalReference: 660874
@@ -18,7 +18,9 @@ internalReference: 660874
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Revisar o comportamento da rota de carga do skus no facebook

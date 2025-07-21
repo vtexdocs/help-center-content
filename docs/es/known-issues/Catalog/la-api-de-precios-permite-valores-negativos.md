@@ -1,5 +1,5 @@
 ---
-title: 'La API de precios permite valores negativos'
+title: "La API de precios permite valores negativos"
 id: 64gkWnDs5pvv8Ny1TJtTI0
 status: PUBLISHED
 createdAt: 2023-03-20T20:09:54.998Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: pricing-api-allows-negative-values
+slugEN: la-api-de-precios-permite-valores-negativos
 locale: es
 kiStatus: Backlog
 internalReference: 774548
@@ -18,7 +18,9 @@ internalReference: 774548
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la API de precio PUT permite la entrada de valores negativos a través de la carga útil de la API PUT, si establece el margen y el precio base en valores negativos, establecerá el producto como no disponible.

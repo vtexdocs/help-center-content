@@ -1,5 +1,5 @@
 ---
-title: 'Assembly options attachments lose binding if items are available in different white-label sellers'
+title: "Assembly options attachments lose binding if items are available in different white-label sellers"
 id: 6hYI9jZIeOeJ78apjX7Fk2
 status: PUBLISHED
 createdAt: 2024-08-02T12:30:49.104Z

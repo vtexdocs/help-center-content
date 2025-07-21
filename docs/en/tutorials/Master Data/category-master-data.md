@@ -3,7 +3,7 @@ title: 'Master Data'
 id: category-master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: category-master-data
@@ -43,13 +43,13 @@ locale: en
 
 ## Customer relations management
 
-- [Import customer data](https://help.vtex.com/en/docs/tutorials/import-customer-data-brazil)
+- [Import customer data](https://help.vtex.com/en/docs/tutorials/import-customer-data)
 - [How to limit access to the store using a trade policy](https://help.vtex.com/en/docs/tutorials/limiting-access-to-the-store-by-means-of-the-trade-policy)
 - [Adding a record on a Master Data form](https://help.vtex.com/en/docs/tutorials/adding-a-record-on-a-master-data-form)
 - [Configure employee benefits using Master Data clusters](https://help.vtex.com/en/docs/tutorials/configure-employee-benefits-using-master-data-clusters)
 - [Create a cluster of customers](https://help.vtex.com/en/docs/tutorials/how-can-i-create-cluster-of-customers)
 - [Editing a required field on Profile System of Master Data](https://help.vtex.com/en/docs/tutorials/edit-a-required-field-on-profile-system-of-master-data)
-- [Formularios Cliente y Dirección no existen en multitienda](https://help.vtex.com/en/docs/tutorials/customer-and-address-forms-do-not-exist-in-multistores)
+- [Customer and Address forms do not exist in multistores](https://help.vtex.com/en/docs/tutorials/customer-and-address-forms-do-not-exist-in-multistores)
 - [Modifying details of customers’ addresses](https://help.vtex.com/en/docs/tutorials/how-to-modify-details-of-customers-addresses)
 - [Customer approval](https://help.vtex.com/en/docs/tutorials/customer-approval)
 

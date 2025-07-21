@@ -1,5 +1,5 @@
 ---
-title: 'Problema con la validación del teléfono en dispositivos móviles'
+title: "Problema con la validación del teléfono en dispositivos móviles"
 id: 2KpjpNZEbAZ7PFFPvMvwNA
 status: PUBLISHED
 createdAt: 2024-01-12T14:24:34.604Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: problem-with-phone-validation-on-mobile-devices
+slugEN: problema-con-la-validacion-del-telefono-en-dispositivos-moviles
 locale: es
 kiStatus: Backlog
 internalReference: 964802
@@ -18,7 +18,9 @@ internalReference: 964802
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La validación del campo del teléfono en dispositivos móviles no se comporta como es debido. Cuando se alcanza el número esperado de caracteres, la validación marca correctamente el campo con un check. Sin embargo, cuando se añaden caracteres adicionales y luego se eliminan uno a uno, la validación no reconoce que el recuento de caracteres sigue siendo superior al esperado, marcando incorrectamente la entrada como válida. La validación también marca como válidas las entradas con menos caracteres de los esperados.

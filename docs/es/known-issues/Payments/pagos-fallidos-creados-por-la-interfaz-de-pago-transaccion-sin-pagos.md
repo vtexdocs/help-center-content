@@ -1,5 +1,5 @@
 ---
-title: 'Pagos fallidos creados por la interfaz de pago (transacción sin pagos)'
+title: "Pagos fallidos creados por la interfaz de pago (transacción sin pagos)"
 id: 1LiK9rfhz2ULgmaitcYyyH
 status: PUBLISHED
 createdAt: 2022-09-26T14:32:12.988Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: failed-payments-created-by-checkout-ui-transaction-without-payments
+slugEN: pagos-fallidos-creados-por-la-interfaz-de-pago-transaccion-sin-pagos
 locale: es
 kiStatus: Backlog
 internalReference: 339243
@@ -18,7 +18,9 @@ internalReference: 339243
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Casos de pedidos incompletos donde sus transacciones no tienen pagos.

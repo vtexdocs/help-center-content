@@ -1,5 +1,5 @@
 ---
-title: 'Global Category not loading correctly on chrome v126.0.6478.182 (Official Build) (64-bit)'
+title: "Global Category not loading correctly on chrome v126.0.6478.182 (Official Build) (64-bit)"
 id: 2B4qXQAVBGuFYJwHaPK8P4
 status: PUBLISHED
 createdAt: 2024-08-02T19:52:56.332Z

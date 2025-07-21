@@ -1,5 +1,5 @@
 ---
-title: 'Freight Values Update API taking time to reflect on simulation module'
+title: "Freight Values Update API taking time to reflect on simulation module"
 id: 7Gclw70xDYX34fOah2aWAa
 status: PUBLISHED
 createdAt: 2022-07-26T17:47:10.996Z

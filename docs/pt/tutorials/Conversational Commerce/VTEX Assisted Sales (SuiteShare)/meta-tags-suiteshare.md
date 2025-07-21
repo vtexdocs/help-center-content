@@ -27,7 +27,9 @@ Meta tag no Facebook:
 
 As Meta Tags servem como uma prévia do que o usuário irá encontrar quando clicar no seu link.
 
->⚠️ **Importante**: Antes de começar, você já deverá ter criado um link para cada número de WhatsApp. Se ainda não fez isso, é só acessar esse [link](http://help.suiteshare.com/support/solutions/articles/67000192026-links).
+<div class="alert alert-warning">
+  <p><b>Importante</b>: Antes de começar, você já deverá ter criado um link para cada número de WhatsApp. Se ainda não fez isso, é só acessar esse <a href="http://help.suiteshare.com/support/solutions/articles/67000192026-links">link</a>.</p>
+</div>
 
 No painel da VTEX Assisted Sales (SuiteShare), acesse a opção _**Atrair > Links**_.
 

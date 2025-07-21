@@ -41,6 +41,8 @@ To create a gift card using a specific currency, follow the steps below:
 
 ![Multi-currency gift card](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-07-27-multi-currency-gift-card_1.PNG)
 
-The currencies available will be the same as those in the [trade policies](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) of each store.
+The currencies available will be the same as those in the [trade policies](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) of each store.
 
->⚠️ You must choose the currency when creating each gift card or a batch of gift cards since you cannot change the gift card currency after it has been created.
+<div class="alert alert-warning">
+You must choose the currency when creating each gift card or a batch of gift cards since you cannot change the gift card currency after it has been created.
+</div>

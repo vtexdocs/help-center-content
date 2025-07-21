@@ -109,7 +109,7 @@ Para gestionar el chat en vivo durante tu evento, busca el evento deseado en la 
 * **VII - Seleccionar mensaje**: selecciona el mensaje a ser respondido. Haz clic en este ícono para enviar una respuesta al mensaje seleccionado.
 * **VIII - Enviar**: Envía un mensaje de chat para interactuar activamente con los espectadores y participantes durante el evento. Escribe tu mensaje en el campo de entrada y haz clic en el ícono de enviar.
 
-Además, también puedes [enviar preguntas y encuestas](https://help.vtex.com/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#enviar-preguntas-y-encuestas) y[ bloquear palabras no deseadas](https://help.vtex.com/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#bloquear-palabras-no-deseadas).
+Además, también puedes [enviar preguntas y encuestas](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#enviar-preguntas-y-encuestas) y[ bloquear palabras no deseadas](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#bloquear-palabras-no-deseadas).
 
 #### Enviar preguntas y encuestas
 
@@ -128,7 +128,9 @@ Para mantener un entorno de chat agradable, puedes evitar que ciertas palabras s
 2. Haz clic en `Nuevas` para definir las palabras que deben prohibirse en el chat en vivo.
 3. Haz clic en `Guardar` para guardar los cambios.
 
->ℹ️ Esta función es útil para bloquear comentarios groseros, políticos o no relacionados con tu transmisión en vivo. Observa que las palabras agregadas se aplicarán a todos los eventos, sin excepción.
+<div class="alert alert-info">
+  Esta función es útil para bloquear comentarios groseros, políticos o no relacionados con tu transmisión en vivo. Observa que las palabras agregadas se aplicarán a todos los eventos, sin excepción.
+</div>
 
 ### Acceder al estudio de streaming
 
@@ -143,7 +145,7 @@ Para acceder al estudio de streaming sigue los pasos a continuación:
 
 ### Mostrar productos durante el evento en vivo
 
-Cuando [creas un nuevo evento](https://help.vtex.com/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#crear-nuevo-evento), tienes la opción de agregar el ID de la colección de productos que se vinculará al evento de transmisión en vivo. En la sección **Productos de la colección** puedes gestionar los productos que se mostrarán durante el evento.
+Cuando [creas un nuevo evento](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#crear-nuevo-evento), tienes la opción de agregar el ID de la colección de productos que se vinculará al evento de transmisión en vivo. En la sección **Productos de la colección** puedes gestionar los productos que se mostrarán durante el evento.
 
 Para mostrar productos durante el evento en vivo sigue estos pasos:
 
@@ -160,7 +162,9 @@ Después de realizar toda la configuración y personalización de la aplicación
 2. Copia el ID del evento en la sección `Detalles`.
 3. Cambia el status del evento a `En vivo` haciendo clic en el botón de alternancia `Iniciar`.
 ![ls-event-details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_6.png)
-  >⚠️ El evento puede tardar hasta 3 minutos en iniciarse.
+  <div class="alert alert-warning" role="alert">
+  El evento puede tardar hasta 3 minutos en iniciarse.
+  </div>
 
 4. Accede a **Storefront > Site Editor**.
 5. Busca el bloque **Live Shopping** en tu storefront, de acuerdo con el template que utilizaste, y selecciónalo.
@@ -169,7 +173,9 @@ Después de realizar toda la configuración y personalización de la aplicación
 7. Haz clic en `Eventos (en vivo)` para elegir el evento deseado.
 8. Haz clic en `Guardar` para guardar los cambios.
 
->ℹ️ Utiliza el módulo Site Editor para configurar los textos, imágenes y banners que se mostrarán junto al reproductor de **Live Shopping**.
+<div class="alert alert-info">
+  Utiliza el módulo Site Editor para configurar los textos, imágenes y banners que se mostrarán junto al reproductor de <b>Live Shopping</b>.
+</div>
 
 ### Personalizar apariencia
 
@@ -180,7 +186,9 @@ Para crear una experiencia personalizada y visualmente atractiva para el evento 
 3. Cuando el evento esté en vivo, ve a la sección **Tipo de layout** y haz clic en el botón `Personalizar apariencia` para acceder al módulo de personalización.
 4. En la página **Apariencia** encontrarás dos opciones: móvil y escritorio. Al seleccionar cada opción, puedes configurar y personalizar los componentes específicos de esas vistas, personalizando tanto los productos como las secciones de chat del reproductor de Live Shopping.
   ![ls-look-feel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_8.png)
-  >ℹ️ Observa que cuando entras en el módulo de personalización y empiezas a personalizar un componente, este se destacará en color azul.
+  <div class="alert alert-info">
+  Observa que cuando entras en el módulo de personalización y empiezas a personalizar un componente, este se destacará en color azul.
+</div>
 
 5. Selecciona la versión para dispositivos móviles haciendo clic en el ícono del celular para personalizar las siguientes opciones:
     * **Productos**
@@ -213,7 +221,9 @@ Debes finalizar la transmisión en vivo para dar por concluido el evento. Sigue 
 
 1. En la lista de eventos, busca el evento deseado y haz clic en el botón de flecha de la columna `Acciones`.
 2. Cambia el status del evento a `Finalizado` pulsando el botón de alternancia `Status`.
->⚠️ El proceso de finalización de la transmisión en vivo puede demorar un poco. No cierres la página hasta que el proceso se complete. El status `Finalizado` cambiará a verde cuando termine.
+<div class="alert alert-warning" role="alert">
+  El proceso de finalización de la transmisión en vivo puede demorar un poco. No cierres la página hasta que el proceso se complete. El status `Finalizado` cambiará a verde cuando termine.
+</div>
 
 ![ls-event-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_9.png)
 

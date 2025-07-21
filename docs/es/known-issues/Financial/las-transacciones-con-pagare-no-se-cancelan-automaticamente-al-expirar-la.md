@@ -1,5 +1,5 @@
 ---
-title: 'Las transacciones con pagaré no se cancelan automáticamente al expirar la fecha de pago'
+title: "Las transacciones con pagaré no se cancelan automáticamente al expirar la fecha de pago"
 id: 5isjT9txiBYSQzZK00xjg3
 status: PUBLISHED
 createdAt: 2021-09-30T15:45:44.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Payments
-slugEN: transactions-with-notes-payable-note-are-not-automatically-cancelled-after
+slugEN: las-transacciones-con-pagare-no-se-cancelan-automaticamente-al-expirar-la
 locale: es
 kiStatus: Backlog
 internalReference: 

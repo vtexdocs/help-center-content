@@ -1,5 +1,5 @@
 ---
-title: "Erro nas operações de reembolso e captura com divisão de pagamento - 'O valor nos destinatários * é diferente do valor da operação *'."
+title: 'Erro nas operações de reembolso e captura com divisão de pagamento - "O valor nos destinatários * é diferente do valor da operação *".'
 id: 3Wo9ltN7Ju0ZqVLAQZcd7m
 status: PUBLISHED
 createdAt: 2023-08-23T13:57:20.424Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-in-refund-and-capture-operations-with-payout-split-value-in-recipients-is-different-than-operation-value
+slugEN: erro-nas-operacoes-de-reembolso-e-captura-com-divisao-de-pagamento-o-valor-nos-destinatarios-e-diferente-do-valor-da-operacao
 locale: pt
 kiStatus: Backlog
 internalReference: 698005
@@ -18,7 +18,9 @@ internalReference: 698005
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido a problemas de arredondamento ao recalcular os destinatários de uma transação com Payout Split, seja na captura ou no reembolso, recebemos a seguinte exceção do gateway, pois a soma do valor do destinatário é diferente do valor da transação.

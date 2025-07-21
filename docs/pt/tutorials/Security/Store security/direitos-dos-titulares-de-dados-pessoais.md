@@ -25,7 +25,9 @@ Neste artigo, você aprenderá como cumprir com os seguintes direitos dos titula
 - [Consentimento](#consentimento)
 - [Exclusão](#exclusão)
 
->❗ A VTEX não se responsabiliza por dados pessoais armazenados por sistemas integrados à sua loja, como por exemplo: ERPs, marketplaces externos, sellers externos, aplicativos de terceiros disponíveis na [VTEX App Store](https://help.vtex.com/pt/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e) ou customizações implementadas pelo seu time de desenvolvimento. Você deve mapear estes dados e garantir a aplicabilidade dos direitos dos titulares de dados pessoais nestas instâncias, além dos processos descritos abaixo.
+<div class="alert alert-danger">
+A VTEX não se responsabiliza por dados pessoais armazenados por sistemas integrados à sua loja, como por exemplo: ERPs, marketplaces externos, sellers externos, aplicativos de terceiros disponíveis na <a href="https://help.vtex.com/pt/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e">VTEX App Store</a> ou customizações implementadas pelo seu time de desenvolvimento. Você deve mapear estes dados e garantir a aplicabilidade dos direitos dos titulares de dados pessoais nestas instâncias, além dos processos descritos abaixo.
+</div>
 
 ## Acesso e portabilidade
 
@@ -39,7 +41,7 @@ Ao atender uma solicitação de acesso ou portabilidade, é importante garantir 
 
 #### Master Data v1
 
-Você pode usar a [API do Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) ou o Admin VTEX para acessar e exportar dados de clientes armazenados no [Master Data v1](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+Você pode usar a [API do Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) ou o Admin VTEX para acessar e exportar dados de clientes armazenados no [Master Data v1](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
 
 Caso deseje usar a API, seu time de desenvolvimento deve usar o [endpoint de busca do Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search), buscando nas entidades de dados de clientes (**CL**), endereços (**AD**) e quaisquer outra que tenha configurado para receber informações pessoais de seus clientes. Filtre a busca pelo email do cliente.
 
@@ -49,7 +51,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 2. Clique na aba **Aplicações.**
 3. Clique em visualizar (ícone da direita) correspondente à entidade de dados desejada.
 ![visualizar button master data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/Store%20security/direitos-dos-titulares-de-dados-pessoais_1.png)
-4. Use o [filtro do Master Data v1](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
+4. Use o [filtro do Master Data v1](/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
 5. Clique no botão `Exportar XLS`.
 6. Selecione a opção `Selecionar todos os campos`.
 7. Caso deseje, altere o email para o qual deseja enviar o relatório.
@@ -57,7 +59,9 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 
 Repita este passo a passo para as entidades de dados de clientes (**CL**), endereços (**AD**) e quaisquer outra que tenha configurado para receber informações pessoais de seus clientes.
 
->ℹ️ Saiba mais sobre como [filtrar dados](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) e [exportar dados](https://help.vtex.com/pt/tutorial/exporting-data--tutorials_1125). na interface do Master Data v1.
+<div class = "alert alert-info">
+Saiba mais sobre como <a href="https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters">filtrar dados</a> e <a href="https://help.vtex.com/pt/tutorial/exporting-data--tutorials_1125">exportar dados</a>. na interface do Master Data v1.
+</div>
 
 #### Master Data v2
 
@@ -85,7 +89,9 @@ Seus clientes podem exercer seu direito de consentimento e de retificação de d
 - Visualizar e editar seus endereços cadastrados.
 - Visualizar e editar seus meios de pagamento registrados.
 
->ℹ️ Saiba mais sobre a página [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+Saiba mais sobre a página <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 ## Consentimento
 
@@ -95,23 +101,25 @@ O consentimento não é necessário em todas as situações. Se você utilizar i
 
 ### Inscrição em newsletter
 
-Ao concluir uma compra no checkout VTEX, seus clientes poderão optar por se inscrever na newsletter da sua loja. Posteriormente, caso desejem alterar sua opção, podem gerenciar sua inscrição na seção [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) da sua loja, na aba **Dados pessoais**. Esta é uma opção nativa das lojas VTEX.
+Ao concluir uma compra no checkout VTEX, seus clientes poderão optar por se inscrever na newsletter da sua loja. Posteriormente, caso desejem alterar sua opção, podem gerenciar sua inscrição na seção [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) da sua loja, na aba **Dados pessoais**. Esta é uma opção nativa das lojas VTEX.
 
 Caso seja necessário, seu time de desenvolvimento pode [ajustar diretamente a opção de inscrição de um cliente específico](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1) usando a API do Master Data v1.
 
->ℹ️ Saiba mais sobre a página Minha Conta. Confira também como seu time de desenvolvimento pode [ajustar diretamente a inscrição de um cliente na newsletter](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1).
+<div class = "alert alert-info">
+Saiba mais sobre a página Minha Conta. Confira também como seu time de desenvolvimento pode <a href="https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1">ajustar diretamente a inscrição de um cliente na newsletter</a>.
+</div>
 
 ### Carrinho abandonado
 
-A plataforma VTEX permite [configurar automação de carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740). Ou seja, configurar o envio automático de emails para clientes que acessaram a sua loja, adicionaram produtos ao carrinho e finalizaram a sessão sem comprar.
+A plataforma VTEX permite [configurar automação de carrinho abandonado](/pt/tutorial/configurar-carrinho-abandonado--tutorials_740). Ou seja, configurar o envio automático de emails para clientes que acessaram a sua loja, adicionaram produtos ao carrinho e finalizaram a sessão sem comprar.
 
-Para garantir o direito de consentimento para esta finalidade específica, você deve [configurar sua automação de carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740) de modo a permitir o envio de email apenas a clientes [inscritos na newsletter da loja](#inscricao-em-newsletter). Clientes inscritos na newsletter têm o campo `isNewsletterOptIn` configurado como `true` na entidade **CL** do [Master Data v1](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+Para garantir o direito de consentimento para esta finalidade específica, você deve [configurar sua automação de carrinho abandonado](/pt/tutorial/configurar-carrinho-abandonado--tutorials_740) de modo a permitir o envio de email apenas a clientes [inscritos na newsletter da loja](#inscricao-em-newsletter). Clientes inscritos na newsletter têm o campo `isNewsletterOptIn` configurado como `true` na entidade **CL** do [Master Data v1](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
 
 ### Avise-me
 
-A função [Avise-me](https://help.vtex.com/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) permite que pessoas se inscrevam para receber notificação por email quando haja reposição de inventário de algum item de seu interesse.
+A função [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) permite que pessoas se inscrevam para receber notificação por email quando haja reposição de inventário de algum item de seu interesse.
 
-Qualquer pessoa pode gerenciar o consentimento relativo ao [Avise-me](https://help.vtex.com/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) na própria página do produto de interesse.
+Qualquer pessoa pode gerenciar o consentimento relativo ao [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) na própria página do produto de interesse.
 
 ### Salvar dados de perfil ou pagamento no momento de uma compra
 
@@ -119,10 +127,12 @@ O direito de consentimento permite que pessoas façam compras na sua loja sem qu
 
 Entre em contato com o seu time de desenvolvimento para disponibilizar esta opção de acordo com o guia [Habilitando opção de salvar dados de usuário](https://developers.vtex.com/docs/guides/enable-the-save-user-data-opt-in).
 
->ℹ️ Saiba mais sobre [automação de carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
+<div class = "alert alert-info">
+Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740">automação de carrinho abandonado</a>.
+</div>
 
 ## Exclusão
 
 O direito de exclusão permite que os clientes solicitem que suas informações pessoais sejam excluídas da plataforma.
 
-Caso algum cliente solicite a exclusão de seus dados da sua loja, você pode cumprir esse direito seguindo o guia [Exclusão de dados de clientes](https://help.vtex.com/pt/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).
+Caso algum cliente solicite a exclusão de seus dados da sua loja, você pode cumprir esse direito seguindo o guia [Exclusão de dados de clientes](/pt/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).

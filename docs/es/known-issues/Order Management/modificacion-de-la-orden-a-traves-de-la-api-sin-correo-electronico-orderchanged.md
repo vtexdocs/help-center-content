@@ -1,5 +1,5 @@
 ---
-title: 'Modificación de la orden a través de la API sin correo electrónico order-changed'
+title: "Modificación de la orden a través de la API sin correo electrónico order-changed"
 id: 1KMglga4xM1s7EvNO1mmua
 status: PUBLISHED
 createdAt: 2022-05-18T18:40:48.935Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: change-order-using-api-without-email-orderchanged
+slugEN: modificacion-de-la-orden-a-traves-de-la-api-sin-correo-electronico-orderchanged
 locale: es
 kiStatus: No Fix
 internalReference: 380509
@@ -18,7 +18,9 @@ internalReference: 380509
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el administrador de una cuenta cambia el pedido aplicando descuentos sobre el valor y no sobre los artículos utilizando la API, el correo electrónico de la orden de cambio no se envía al cliente final.

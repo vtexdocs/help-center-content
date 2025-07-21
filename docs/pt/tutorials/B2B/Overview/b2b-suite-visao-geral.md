@@ -81,7 +81,7 @@ Amplia a experiência de checkout para usuários que são membros de organizaç�
 
 ### Aplicativo Histórico de pedidos B2B
 
-Fornece uma nova página de Pedidos no [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que os usuários B2B possam visualizar todos os pedidos anteriores feitos por usuários em sua organização ou centro de custos, dependendo de sua função.
+Fornece uma nova página de Pedidos no [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que os usuários B2B possam visualizar todos os pedidos anteriores feitos por usuários em sua organização ou centro de custos, dependendo de sua função.
 
 ### Aplicativo B2B Clientes
 

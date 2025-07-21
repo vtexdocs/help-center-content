@@ -25,7 +25,7 @@ No dashboard, em **Integrações**, clique em **Ver todas as integrações**.
 
 Selecione o **Exact sales** e clique em **Integrar**.
 
-Selecione o [**Formulário de captura**](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje conectar.
+Selecione o [**Formulário de captura**](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje conectar.
 
 ![Exact Sales_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/exact-sales-suiteshare_2.png)
 

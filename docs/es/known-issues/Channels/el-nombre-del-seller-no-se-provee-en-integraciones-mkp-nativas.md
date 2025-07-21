@@ -1,5 +1,5 @@
 ---
-title: 'El Nombre del Seller no se provee en integraciones mkp nativas'
+title: "El Nombre del Seller no se provee en integraciones mkp nativas"
 id: bPx7CPZEXecgMe2Sscg6k
 status: PUBLISHED
 createdAt: 2017-12-28T15:21:09.238Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: seller-name-is-not-provided-in-native-mkp-integrations
+slugEN: el-nombre-del-seller-no-se-provee-en-integraciones-mkp-nativas
 locale: es
 kiStatus: Backlog
 internalReference: 

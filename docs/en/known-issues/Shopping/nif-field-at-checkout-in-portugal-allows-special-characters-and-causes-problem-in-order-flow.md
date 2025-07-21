@@ -1,5 +1,5 @@
 ---
-title: 'NIF field at checkout in Portugal allows special characters and causes problem in order flow'
+title: "NIF field at checkout in Portugal allows special characters and causes problem in order flow"
 id: 5xQ3fPZq4oUk8QsY0KUEYm
 status: PUBLISHED
 createdAt: 2018-03-28T12:47:56.181Z

@@ -15,7 +15,7 @@ legacySlug: understanding-incomplete-orders
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Whenever an order is not listed on the [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page with no filter, it may be incomplete.
+Whenever an order is not listed on the [All Orders](/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page with no filter, it may be incomplete.
 
 The incomplete status arises when all the information about the order has not been completed for finalization on the platform.
 
@@ -23,7 +23,9 @@ In addition, all incomplete orders do not have Workflow and this behavior is exp
 
 Because an incomplete order was interrupted, activating a Workflow for an inactive situation would not be functional.
 
->❗ If there is an incomplete order, we recommend placing it again in the store. The platform will record the incomplete orders, but not process them. So if an order is incomplete and the customer still wants to purchase the items, they need to create a new order with the same items.
+<div class="alert alert-danger"> 
+If there is an incomplete order, we recommend placing it again in the store. The platform will record the incomplete orders, but not process them. So if an order is incomplete and the customer still wants to purchase the items, they need to create a new order with the same items.
+</div>
 
 Hence, the process proceeds as usual.
 
@@ -45,4 +47,4 @@ Customer desists from finalizing the purchase after clicking on the finalize pur
 
 ## How to identify these orders?
 
-On the **All Orders** page, the [filters](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.
+On the **All Orders** page, the [filters](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.

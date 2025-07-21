@@ -1,5 +1,5 @@
 ---
-title: 'Tag canonical incorreta em páginas HTTPS'
+title: "Tag canonical incorreta em páginas HTTPS"
 id: 45d21Kz3hYsie6MaO24ioC
 status: PUBLISHED
 createdAt: 2018-01-24T14:54:21.165Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: incorrect-canonical-tag-on-https-pages
+slugEN: tag-canonical-incorreta-em-paginas-https
 locale: pt
 kiStatus: Backlog
 internalReference: 

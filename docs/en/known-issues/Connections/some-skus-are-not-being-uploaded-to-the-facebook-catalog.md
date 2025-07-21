@@ -1,5 +1,5 @@
 ---
-title: 'Some SKUs are not being uploaded to the Facebook catalog'
+title: "Some SKUs are not being uploaded to the Facebook catalog"
 id: g0xGqBvBnnnSo9Wl3AfmA
 status: PUBLISHED
 createdAt: 2022-04-08T18:07:48.956Z

@@ -1,5 +1,5 @@
 ---
-title: 'Error al incluir muchos filtros en la lista de pedidos'
+title: "Error al incluir muchos filtros en la lista de pedidos"
 id: 5M3g0lGChGPauii9O69wUz
 status: PUBLISHED
 createdAt: 2022-12-21T13:56:55.765Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: error-when-including-many-filters-in-the-order-list
+slugEN: error-al-incluir-muchos-filtros-en-la-lista-de-pedidos
 locale: es
 kiStatus: Fixed
 internalReference: 347932
@@ -18,7 +18,9 @@ internalReference: 347932
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunas tiendas, la lista de Vendedores, promociones u otros filtros puede ser bastante alta, y en algunos momentos pueden querer hacer una selección bastante amplia.

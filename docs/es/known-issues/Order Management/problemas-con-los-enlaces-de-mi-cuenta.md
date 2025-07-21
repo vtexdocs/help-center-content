@@ -1,5 +1,5 @@
 ---
-title: 'Problemas con los enlaces de Mi cuenta'
+title: "Problemas con los enlaces de Mi cuenta"
 id: 1p23CCNhJwnEXm501P9Nxh
 status: PUBLISHED
 createdAt: 2023-07-03T17:26:59.597Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: issues-with-my-account-links
+slugEN: problemas-con-los-enlaces-de-mi-cuenta
 locale: es
 kiStatus: Backlog
 internalReference: 522514
@@ -18,7 +18,9 @@ internalReference: 522514
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los enlaces en Mi Cuenta (menú de cabecera) no funcionan si el usuario ya está en la sección Mi Cuenta

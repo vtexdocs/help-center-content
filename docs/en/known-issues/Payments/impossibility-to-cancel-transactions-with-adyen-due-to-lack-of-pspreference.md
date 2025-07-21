@@ -1,5 +1,5 @@
 ---
-title: 'Impossibility to cancel transactions with Adyen due to lack of pspReference'
+title: "Impossibility to cancel transactions with Adyen due to lack of pspReference"
 id: 3g0QyPZcq9aivqD1zlv4gD
 status: PUBLISHED
 createdAt: 2022-03-22T12:17:47.680Z

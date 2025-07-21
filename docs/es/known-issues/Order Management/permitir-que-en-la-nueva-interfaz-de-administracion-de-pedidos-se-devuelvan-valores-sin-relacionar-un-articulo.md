@@ -1,5 +1,5 @@
 ---
-title: 'Permitir que en la nueva interfaz de administración de pedidos se devuelvan valores sin relacionar un artículo'
+title: "Permitir que en la nueva interfaz de administración de pedidos se devuelvan valores sin relacionar un artículo"
 id: 4mD1o81lDZEB5y35KRM6LW
 status: PUBLISHED
 createdAt: 2022-02-08T01:36:09.738Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: allow-in-the-new-order-admin-ui-return-values-without-relating-an-item
+slugEN: permitir-que-en-la-nueva-interfaz-de-administracion-de-pedidos-se-devuelvan-valores-sin-relacionar-un-articulo
 locale: es
 kiStatus: Fixed
 internalReference: 519576
@@ -18,7 +18,9 @@ internalReference: 519576
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para los flujos de devolución dentro de un pedido, es posible indicar qué productos serán devueltos y/o los valores asociados, como los gastos de envío o simplemente una parte del valor del pedido.

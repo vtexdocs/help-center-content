@@ -1,5 +1,5 @@
 ---
-title: 'CMS Loyalty Value Settings not Working'
+title: "CMS Loyalty Value Settings not Working"
 id: 5oh7WEZvQO339HRaWhBUfA
 status: PUBLISHED
 createdAt: 2023-01-04T14:18:17.304Z

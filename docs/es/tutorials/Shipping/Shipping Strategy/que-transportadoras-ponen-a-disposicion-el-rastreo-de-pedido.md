@@ -19,7 +19,7 @@ Después de [informar la factura](/es/tutorial/como-insertar-la-nota-fiscal), ta
 
 ## Integración con las transportadoras
 
-Como se detalla en [en este problema conocido](https://help.vtex.com/es/known-issues/la-integracion-de-rastreo-no-esta-realizando-la-actualizacion-automatica), la actualización automática de rastreo por transportadoras integradas **está actualmente deshabilitada** en las tiendas VTEX.
+Como se detalla en [en este problema conocido](/es/known-issues/la-integracion-de-rastreo-no-esta-realizando-la-actualizacion-automatica), la actualización automática de rastreo por transportadoras integradas **está actualmente deshabilitada** en las tiendas VTEX.
 
 Por lo tanto, las verificaciones automáticas del status de la entrega **no se están realizando** y los correos electrónicos con el status actualizado **no se están enviando** a los clientes, incluso si las tiendas han configurado previamente las transportadoras integradas de forma nativa en VTEX.
 
@@ -31,10 +31,10 @@ Puede actualizar activamente los datos de rastreo utilizando el endpoint [Update
 
 Estos datos pueden ser enviados por cualquier sistema externo que siga el status de la entrega del paquete, ya sea un ERP, un middleware o la propia transportadora.
 
-También es posible [incluir variable](https://help.vtex.com/es/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe#outras-variaveis-de-e-mails-de-pedido) `trackingURL` en algunos [templates del Centro de Mensajes](https://help.vtex.com/es/tutorial/lista-de-templates-de-e-mail-no-message-center--3g2S2kqBOoSGcCaqMYK2my), como **Order invoiced** y **Order shipped**, y el cliente podrá efectuar el rastreo mediante el enlace.
+También es posible [incluir variable](/es/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe#outras-variaveis-de-e-mails-de-pedido) `trackingURL` en algunos [templates del Centro de Mensajes](/es/tutorial/lista-de-templates-de-e-mail-no-message-center--3g2S2kqBOoSGcCaqMYK2my), como **Order invoiced** y **Order shipped**, y el cliente podrá efectuar el rastreo mediante el enlace.
 
 ## Integración con la oficina de Correos
 
-Como se detalla [en este problema conocido](https://help.vtex.com/es/known-issues/actualizacion-automatica-del-rastreo-de-entregas-via-correios--7hKUU5Qp4AyCW2QaMQC0S6), la integración de rastreo nativa con la oficina de correos está actualmente deshabilitada.
+Como se detalla [en este problema conocido](/es/known-issues/actualizacion-automatica-del-rastreo-de-entregas-via-correios--7hKUU5Qp4AyCW2QaMQC0S6), la integración de rastreo nativa con la oficina de correos está actualmente deshabilitada.
 
 Una alternativa es utilizar soluciones desarrolladas por parceros para el seguimiento de las entregas de Correios, como el [rastreo de XP Agência](https://rastreio.xpagencia.com.br/).

@@ -18,7 +18,7 @@ announcementSynopsisES: '  Gestione y limite el número de ítems o pedidos en s
 
 Política de envío es un conjunto de reglas que definen las opciones y condiciones de envío que se presentarán al consumidor en el momento de la compra.
 
-Ahora puede configurar la capacidad de entrega de sus políticas de envío para gestionar cuántos ítems o pedidos puede entregar su tienda en cada ventana de [Entrega programada](https://help.vtex.com/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi).
+Ahora puede configurar la capacidad de entrega de sus políticas de envío para gestionar cuántos ítems o pedidos puede entregar su tienda en cada ventana de [Entrega programada](/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi).
 
 ## ¿Qué cambió? 
 
@@ -38,7 +38,9 @@ Se ha realizado el cambio para garantizar que nuestros clientes puedan hacer seg
 
 Para utilizar la capacidad de entrega, es necesario configurar una política de envío para realizar entregas programadas y, a continuación, configurar la capacidad de entrega.
 
-Para saber cómo configurar la capacidad de entrega para sus entregas programadas, lea [Capacidad de Entrega](https://help.vtex.com/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
+Para saber cómo configurar la capacidad de entrega para sus entregas programadas, lea [Capacidad de Entrega](/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
 
->ℹ️ Esta funcionalidad está en fase Beta y solo está disponible para los ambientes Admin v3.
+<div class="alert alert-info">
+Esta funcionalidad está en fase Beta y solo está disponible para los ambientes Admin v3.
+</div>
 

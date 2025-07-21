@@ -1,5 +1,5 @@
 ---
-title: 'Falta de información de pago para integrar pedidos (cuando se produce retentación con el conector)'
+title: "Falta de información de pago para integrar pedidos (cuando se produce retentación con el conector)"
 id: 5WMBV2GRuo2mqmyCkKmwsG
 status: PUBLISHED
 createdAt: 2018-03-19T13:30:56.334Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: authors_41
 tag: Checkout,Payments
-slugEN: lack-of-payment-information-to-integrate-orders
+slugEN: falta-de-informacion-de-pago-para-integrar-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 

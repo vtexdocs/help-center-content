@@ -21,9 +21,10 @@ Uma causa de promoção é qualquer condição que gera uma promoção.
 
 Por exemplo: o lojista pode configurar uma promoção para ser aplicada caso o cliente escolha determinado meio de pagamento. Neste caso, o meio de pagamento é a causa da promoção.
 
->❗ Não é possível salvar uma promoção que desrespeite algum dos limites. Portanto, se atualmente sua loja tem promoções que ultrapassem algum desses limites, fique atento. 
->
-> Qualquer alteração em alguma dessas promoções fará com que os novos limites sejam aplicados. Assim, você não conseguirá salvar a promoção usando as configurações anteriores.
+<div class="alert alert-danger">Não é possível salvar uma promoção que desrespeite algum dos limites. Portanto, se atualmente sua loja tem promoções que ultrapassem algum desses limites, fique atento. 
+
+Qualquer alteração em alguma dessas promoções fará com que os novos limites sejam aplicados. Assim, você não conseguirá salvar a promoção usando as configurações anteriores.
+</div>
 
 Seguem abaixo os novos limites para cada causa de promoção:
 

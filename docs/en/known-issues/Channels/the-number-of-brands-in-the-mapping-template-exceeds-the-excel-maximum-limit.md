@@ -1,5 +1,5 @@
 ---
-title: 'The number of brands in the mapping template exceeds the Excel maximum limit'
+title: "The number of brands in the mapping template exceeds the Excel maximum limit"
 id: 4sYUppK1iceta3rO6lLO1K
 status: PUBLISHED
 createdAt: 2021-08-31T18:18:28.874Z

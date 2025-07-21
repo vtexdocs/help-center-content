@@ -1,5 +1,5 @@
 ---
-title: 'O item de promoção não será exibido dividido após a adição de dados de preferências do cliente'
+title: "O item de promoção não será exibido dividido após a adição de dados de preferências do cliente"
 id: 3bme5oDKxbRyQzozUP6XNp
 status: PUBLISHED
 createdAt: 2023-06-12T20:09:11.042Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: promotion-item-will-not-show-splitted-after-adding-client-preferences-data
+slugEN: o-item-de-promocao-nao-sera-exibido-dividido-apos-a-adicao-de-dados-de-preferencias-do-cliente
 locale: pt
 kiStatus: Backlog
 internalReference: 842575
@@ -18,7 +18,9 @@ internalReference: 842575
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao aplicar uma promoção Mais por Menos, o comportamento esperado é separar o item promocional dos itens regulares, mas os itens serão agrupados após a adição dos dados de preferências do cliente.

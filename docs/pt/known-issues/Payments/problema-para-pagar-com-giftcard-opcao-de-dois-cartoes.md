@@ -1,5 +1,5 @@
 ---
-title: 'Problema para pagar com Giftcard + opção de dois cartões'
+title: "Problema para pagar com Giftcard + opção de dois cartões"
 id: azkOosXht4sgiDyYQ1qvo
 status: PUBLISHED
 createdAt: 2022-03-27T19:53:04.209Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: problem-to-pay-with-giftcard-two-cards-option
+slugEN: problema-para-pagar-com-giftcard-opcao-de-dois-cartoes
 locale: pt
 kiStatus: Backlog
 internalReference: 393958
@@ -18,7 +18,9 @@ internalReference: 393958
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando os usuários aplicam um cartão presente e depois vão usar "Pague com Dois Cartões" para pagar a diferença, a tela salta e apenas escolhe um valor diferente daquele escolhido

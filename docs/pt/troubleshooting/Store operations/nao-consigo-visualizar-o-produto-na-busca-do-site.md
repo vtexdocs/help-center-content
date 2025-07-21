@@ -3,8 +3,8 @@ title: 'Não consigo visualizar o produto na busca do site'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-11-08T19:10:04.204Z
-publishedAt: 2024-11-08T19:10:04.204Z
+updatedAt: 2025-03-31T19:12:10.972Z
+publishedAt: 2025-03-31T19:12:10.972Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Produto, Busca, Catálogo, Intelligent search, Rewriter
 ---
 
-Quando o usuário realiza a pesquisa em uma loja VTEX por meio do [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), é possível que o produto desejado não seja localizado, mesmo que o termo utilizado na busca esteja presente nas informações cadastradas do item.
+Quando o usuário realiza a pesquisa em uma loja VTEX por meio do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), é possível que o produto desejado não seja localizado, mesmo que o termo utilizado na busca esteja presente nas informações cadastradas do item.
 
 Cenário de exemplo: ao pesquisar no site da loja por produtos que contenham o termo "Pendleton", o resultado da busca exibe 6 produtos. Entretanto, quando acessamos o Admin VTEX (__Storefront > Intelligent Search > Explicação da busca__) e digitamos o mesmo termo, são apresentados 9 produtos.
 
@@ -28,7 +28,7 @@ Este comportamento pode ocorrer devido aos seguintes cenários:
 
 1. Cadastro incorreto do produto no Catálogo.
 
-2. O termo utilizado não está presente em um dos campos pesquisáveis do produto. Saiba mais em [Configurações para o comportamento da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracoes-para-o-comportamento-da-busca) e [Configuração da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. O termo utilizado não está presente em um dos campos pesquisáveis do produto. Saiba mais em [Configurações para o comportamento da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracoes-para-o-comportamento-da-busca) e [Configuração da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
 
@@ -42,31 +42,35 @@ Para permitir que os produtos pesquisados sejam exibidos corretamente no resulta
 
 ### Verificação dos campos de cadastro do produto
 
-A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke). Siga os passos abaixo para verificar os campos __Marca, Exibir no site e Mostrar produto esgotado__:
+A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke). Siga os passos abaixo para verificar os campos __Marca, Mostrar no site e Mostrar quando estiver fora de estoque__:
 
 <blockquote><ui>1. No Admin VTEX, acesse <b>Catálogo > Todos os produtos</b>.</ui>
 
-<blockquote><ui>>⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  Lojas que utilizam a página <b>Produtos e SKUS (Beta)</b>, devem verificar os campos de cadastro do produto acessando <b>Catálogo > Produtos e SKUS</b> no Admin VTEX. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos e SKUS (Beta)</a>.
+</div></blockquote>
 
 <blockquote><ui>2. Localize o produto desejado e clique em <b>EDITAR</b>.</ui>
 
 <blockquote><ui>3. No campo <b>Marca</b>, verifique se a informação está correta. Se necessário, adicione a marca correspondente ao produto. Somente é possível adicionar marcas que já tenham sido previamente <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR">cadastradas na loja</a>.</ui>
 
-<blockquote><ui>4. Na opção <b>Exibir no site</b>, confirme se o campo está selecionado.</ui>
+<blockquote><ui>4. Na opção <b>Mostrar no site</b>, confirme se o campo está selecionado.</ui>
 
-<blockquote><ui>5. Na opção <b>Mostrar produto esgotado</b>, confirme se o campo está selecionado.</ui>
+<blockquote><ui>5. Na opção <b>Mostrar quando estiver fora de estoque</b>, confirme se o campo está selecionado.</ui>
 
 <blockquote><ui>6. Clique em <i>Salvar</i>.</ui>
 
 <blockquote><ui>7. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página <b>Explicação da busca</b> do Intelligent Search (<b>Storefront > Intelligent Search > Explicação da busca</b>).</ui>
 
-<blockquote><ui>>⚠️ Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.
+</div></blockquote>
 
 ### Modificação do filtro da busca no Rewriter
 
 Outro fator que pode contribuir para um produto não ser exibido em um resultado de busca é o comportamento padrão que o app [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) apresenta ao exibir produtos.
 
-Se um termo for registrado no Rewriter como marca, o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) receberá a informação de que ele deverá ser exibido apenas quando estiver presente em uma marca.
+Se um termo for registrado no Rewriter como marca, o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) receberá a informação de que ele deverá ser exibido apenas quando estiver presente em uma marca.
 
 Para remover a restrição de busca por marca (*brand*) e permitir os produtos sejam localizados também por termos presentes no nome ou descrição (*full text*), siga os passos abaixo:
 
@@ -118,7 +122,9 @@ internal {
 }
 ```
 
-<blockquote><ui>>⚠️ O valor <i>ft</i> (full text) ao invés de <i>b</i> (brand) no parâmetro <i>map</i> indica que produtos em que o termo <i>Pendleton</i> esteja presente no nome ou na descrição também passarão a ser exibidos na busca.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  O valor <i>ft</i> (full text) ao invés de <i>b</i> (brand) no parâmetro <i>map</i> indica que produtos em que o termo <i>Pendleton</i> esteja presente no nome ou na descrição também passarão a ser exibidos na busca.
+</div></blockquote>
 
 <blockquote><ui>7. Clique na seta do GraphiQL IDE (ao lado de <b>GraphiQL</b>) para realizar a atualização do filtro de busca. O novo padrão de filtro de busca para o termo será confirmada pela exibição da seguinte mensagem no campo de resultados do GraphiQL IDE.</ui>
 
@@ -147,7 +153,8 @@ internal {
 
 <blockquote><ui>8. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página <b>Explicação da busca</b> do Intelligent Search (<b>Storefront > Intelligent Search > Explicação da busca</b>).</ui>
 
-<blockquote><ui>>⚠️ Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.</div></blockquote>
 
 ### Remoção da rota interna de busca no Rewriter
 

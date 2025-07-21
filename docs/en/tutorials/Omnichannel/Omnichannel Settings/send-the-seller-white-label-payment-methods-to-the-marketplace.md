@@ -19,7 +19,9 @@ The objective of this tutorial is to teach how to send the payment options from 
 
 This feature allows for purchases made on an e-commerce to be completed with the payment options of a physical store. This decreases the complexity of the operation, separating centers of cost, since the invoice and the payments will be attributed directly to the Registration Number of the physial store, which acts as White Label Seller of a Marketplace.
 
->ℹ️ This configuration replaces the old feature of ** Alternative Accounts** for this scenario.
+<div class="alert alert-info">
+This configuration replaces the old feature of <strong> Alternative Accounts</strong> for this scenario.
+</div>
 
 ## Registering payment options on the Seller White Label
 

@@ -1,5 +1,5 @@
 ---
-title: 'Video attribute is not being sent from seller to marketplace'
+title: "Video attribute is not being sent from seller to marketplace"
 id: 6JfHpP6F8TGmJofoKc99ON
 status: PUBLISHED
 createdAt: 2022-02-07T20:07:23.358Z

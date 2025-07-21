@@ -15,7 +15,7 @@ legacySlug: como-criar-um-plano-de-assinatura-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Para disponibilizar planos de **Assinaturas**, você precisa antes instalar o aplicativo de Assinaturas e realizar as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](https://help.vtex.com/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para mais informações sobre esse processo.
+Para disponibilizar planos de **Assinaturas**, você precisa antes instalar o aplicativo de Assinaturas e realizar as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para mais informações sobre esse processo.
 
 Após realizar as configurações, é necessário criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis.
 
@@ -23,7 +23,9 @@ Existem dois caminhos possíveis para criar um plano de assinatura. O caminho **
 
 Outra possibilidade é criar um [Anexo de SKU referente à assinatura no Catálogo](#caminho-alternativo-anexo-de-sku-no-catalogo). O Anexo de SKU é equivalente ao plano.
 
->⚠️ Você **não** deve realizar ambas as configurações, basta optar por uma delas. Crie apenas o novo plano no módulo de **Assinaturas** ou o anexo de SKU no **Catálogo**. Caso contrário, o plano será duplicado.
+<div class="alert alert-warning">
+  <p>Você <strong>não</strong> deve realizar ambas as configurações, basta optar por uma delas. Crie apenas o novo plano no módulo de <strong>Assinaturas</strong> ou o anexo de SKU no <strong>Catálogo</strong>. Caso contrário, o plano será duplicado.</p>
+</div>
 
 ## Novo plano no módulo de Assinaturas
 
@@ -35,7 +37,9 @@ Criar um novo plano a partir do módulo de **Assinaturas** é o caminho mais rec
 4. Clique na aba [Produtos Associados](#produtos-associados) e selecione os produtos que você deseja associar aos planos de assinatura.
 5. Clique em `Salvar`.
 
->⚠️ Todo plano é salvo como ativo, mesmo que não tenha nenhum produto associado. Planos sem produtos associados não aparecem como opção para o cliente no momento da compra.
+<div class="alert alert-warning">
+  <p>Todo plano é salvo como ativo, mesmo que não tenha nenhum produto associado. Planos sem produtos associados não aparecem como opção para o cliente no momento da compra.</p>
+</div>
 
 ### Configurações
 
@@ -65,7 +69,9 @@ Para excluir uma frequência criada anteriormente, você precisa clicar no botã
 
 Você pode disponibilizar múltiplas opções de frequência no mesmo plano, se desejar. Nesse caso, você deve clicar novamente no botão `Adicionar frequência` e repetir esse processo, preenchendo as configurações com as outras frequências desejadas. Dessa forma, o cliente poderá escolher a frequência que preferir dentre as opções.
 
->⚠️ Não é possível atribuir um prazo de validade ao plano de assinatura pelo módulo de **Assinaturas**. Somente planos de assinatura configurados como Anexos de SKU no **Catálogo** podem ter prazos de validade configurados.
+<div class="alert alert-warning">
+  <p>Não é possível atribuir um prazo de validade ao plano de assinatura pelo módulo de <strong>Assinaturas</strong>. Somente planos de assinatura configurados como Anexos de SKU no <strong>Catálogo</strong> podem ter prazos de validade configurados.</p>
+</div>
 
 ### Produtos Associados
 
@@ -100,8 +106,8 @@ Para navegar entre páginas de ambas as listas, utilize as setas <i class="fas f
 
 Criar um anexo de SKU é um caminho alternativo que tem função equivalente ao plano de assinatura. O anexo é responsável por indicar que a funcionalidade de Assinatura está ativa para determinado SKU, e também quais são as frequências disponíveis.
 
-Recomendamos utilizar o caminho descrito anteriormente para criar um plano diretamente no módulo de **Assinaturas**. Porém, caso você deseje utilizar o Anexo de SKU, siga as etapas listadas no artigo [Como criar um anexo de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
+Recomendamos utilizar o caminho descrito anteriormente para criar um plano diretamente no módulo de **Assinaturas**. Porém, caso você deseje utilizar o Anexo de SKU, siga as etapas listadas no artigo [Como criar um anexo de assinatura](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
 
 ## Saiba mais
 
-* [Planos de assinatura](https://help.vtex.com/pt/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Planos de assinatura](/pt/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)

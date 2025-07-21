@@ -1,5 +1,5 @@
 ---
-title: 'La vista previa de envío muestra erróneamente la fecha en la que está programada la entrega'
+title: "La vista previa de envío muestra erróneamente la fecha en la que está programada la entrega"
 id: 6pbufuWTFkL4NK3xLIxj1z
 status: PUBLISHED
 createdAt: 2023-01-31T19:36:58.137Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
+slugEN: la-vista-previa-de-envio-muestra-erroneamente-la-fecha-en-la-que-esta-programada-la-entrega
 locale: es
 kiStatus: No Fix
 internalReference: 743774
@@ -18,7 +18,9 @@ internalReference: 743774
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Checkout UI convierte la hora utilizando la zona horaria del ordenador mostrando la fecha de entrega incorrectamente en shipping-preview (carrito) cuando los artículos son de entrega programada.

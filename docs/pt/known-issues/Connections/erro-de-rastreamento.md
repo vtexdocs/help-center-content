@@ -1,5 +1,5 @@
 ---
-title: 'Erro de rastreamento'
+title: "Erro de rastreamento"
 id: 7CKv6XYkFl8jkFBvSJ22Wn
 status: PUBLISHED
 createdAt: 2022-06-20T18:25:25.307Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: tracking-error
+slugEN: erro-de-rastreamento
 locale: pt
 kiStatus: Backlog
 internalReference: 514557
@@ -18,7 +18,9 @@ internalReference: 514557
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O vendedor faturou alguns pedidos, mas as informações de rastreamento não foram enviadas à B2W.

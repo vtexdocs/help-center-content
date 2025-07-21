@@ -3,8 +3,8 @@ title: 'Configurar lista vale'
 id: tutorials_284
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:02.631Z
-updatedAt: 2019-12-31T15:22:25.169Z
-publishedAt: 2019-12-31T15:22:25.169Z
+updatedAt: 2025-05-15T18:03:04.045Z
+publishedAt: 2025-05-15T18:03:04.045Z
 firstPublishedAt: 2017-04-27T23:03:13.396Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: es
 legacySlug: configurando-lista-vale
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>La funcionalidad <a href="https://help.vtex.com/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go">Lista</a> es exclusiva para las tiendas que utilizan CMS Portal Legado.</p>
+</div>
 
 En este artículo se abordarán las particularidades de la creación de un tipo de Lista Vale, que es un tipo especial de Lista. [Vea nuestra documentación completa de Tipo de Lista haciendo clic aquí.](/es/tutorial/criando-tipo-de-lista/)
 

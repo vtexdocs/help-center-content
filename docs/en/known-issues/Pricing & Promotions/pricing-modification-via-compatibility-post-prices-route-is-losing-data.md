@@ -1,10 +1,10 @@
 ---
-title: 'Pricing modification via compatibility post prices route is losing data'
+title: "Pricing modification via compatibility post prices route is losing data"
 id: 4VqqNOUcRIGiZhxyVU4Ite
 status: PUBLISHED
 createdAt: 2022-03-29T19:12:47.179Z
-updatedAt: 2022-11-25T22:12:44.964Z
-publishedAt: 2022-11-25T22:12:44.964Z
+updatedAt: 2024-12-19T19:50:09.968Z
+publishedAt: 2024-12-19T19:50:09.968Z
 firstPublishedAt: 2022-03-29T19:12:47.781Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -19,22 +19,29 @@ internalReference: 487698
 ## Summary
 
 
-We've identified a problem in the compatibility post prices route when sending too many requests in a small window we are not using the most updated price
-
-We strongly recommend that all accounts stop using our pricing v1 apis.
+We've identified an issue with the compatibility post prices route. When multiple price update requests are sent within a short timeframe, the system might not process the most up-to-date price. This can result in outdated or incorrect prices being applied.
 
 
+##
 
 ## Simulation
 
 
-Send a batch of prices updates and follow up the splunk logs
+
+1. Use the compatibility post prices route to send a batch of price updates.
+2. Monitor the process using Audit logs to track whether all updates are correctly applied.
+3. Repeat the test with different batch sizes and intervals between requests. Note that the issue does not consistently occur in every test.
 
 
+##
 
 ## Workaround
 
 
-1- we recommend the use of the pricing v2 apis
-2- better distribute the requests, wait like 30s between them.
+
+- Transition to using the Pricing V2 APIs, which do not exhibit this issue.
+- Distribute the requests more evenly by introducing delays, such as waiting at least 30 seconds between consecutive batches.
+
+
+
 

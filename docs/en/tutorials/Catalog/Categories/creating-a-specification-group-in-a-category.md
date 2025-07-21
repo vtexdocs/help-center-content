@@ -15,16 +15,18 @@ legacySlug: creating-category-groups
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-A group is defined by a set of [specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) (fields) related to products or SKUs of a certain [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
+A group is defined by a set of [specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) (fields) related to products or SKUs of a certain [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
 
-At VTEX, a specification is always included in a specification group associated with a category. Therefore, to create [a product specification](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) or a [SKU specification](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), you must first have at least one category and one specification group already created.
+At VTEX, a specification is always included in a specification group associated with a category. Therefore, to create [a product specification](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) or a [SKU specification](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), you must first have at least one category and one specification group already created.
 
 In this article, we explain how the specification inheritance works and how to create specification groups in the VTEX Admin. Check out the following sections:
 
 * [Specification inheritance](#specification-inheritance)
 * [Step-by-step instructions in the VTEX Admin](#step-by-step-instructions-in-the-vtex-admin)
 
->ℹ️ To create a specification group using the **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
+<div class = "alert alert-info">
+  <p>To create a specification group using the <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
+</div>
 
 ## Specification inheritance
 
@@ -52,7 +54,7 @@ You can create as many fields as you consider necessary in the group. The create
 
 ## Learn more
 
-* [Categories](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Product and SKU specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-* [Adding specifications or product fields](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-* [Adding SKU specifications or fields](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+* [Categories](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Product and SKU specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+* [Adding specifications or product fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+* [Adding SKU specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)

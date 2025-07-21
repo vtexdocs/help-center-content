@@ -1,5 +1,5 @@
 ---
-title: 'Pedido preso no status de vendedor cancellation-request-denied-ffm'
+title: "Pedido preso no status de vendedor cancellation-request-denied-ffm"
 id: 5hBeTQMKmo5C63QRAOSvT2
 status: PUBLISHED
 createdAt: 2024-03-22T17:50:37.946Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-stuck-at-seller-status-cancellationrequestdeniedffm
+slugEN: pedido-preso-no-status-de-vendedor-cancellationrequestdeniedffm
 locale: pt
 kiStatus: Backlog
 internalReference: 1004978
@@ -18,7 +18,9 @@ internalReference: 1004978
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Identificamos que alguns vendedores, na estrutura do vendedor e do marketplace da VTEX, ao solicitarem o cancelamento, recusam esse cancelamento por meio da interface do usuário ou chamam a API "cancellation-request-denied-ffm", como se estivessem negando a própria solicitação de cancelamento, por algum motivo, a solicitação para negar o cancelamento se sobrepõe à solicitação de cancelamento.

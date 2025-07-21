@@ -1,5 +1,5 @@
 ---
-title: 'El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente'
+title: "El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente"
 id: 1GKDLtbKdYA0hq9YUhF2Bt
 status: PUBLISHED
 createdAt: 2023-05-08T19:00:44.637Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: group-name-is-not-automatically-updated-on-intelligent-search
+slugEN: el-nombre-del-grupo-no-se-actualiza-automaticamente-en-la-busqueda-inteligente
 locale: es
 kiStatus: Backlog
 internalReference: 821481
@@ -18,7 +18,9 @@ internalReference: 821481
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, existen 2 módulos de recogida distintos:

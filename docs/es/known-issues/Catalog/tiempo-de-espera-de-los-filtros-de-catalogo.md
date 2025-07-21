@@ -1,5 +1,5 @@
 ---
-title: 'Tiempo de espera de los filtros de catálogo'
+title: "Tiempo de espera de los filtros de catálogo"
 id: 5KtT2SvTSO6xMdJOSYz5VZ
 status: PUBLISHED
 createdAt: 2023-10-19T17:11:37.486Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-filters-timeout
+slugEN: tiempo-de-espera-de-los-filtros-de-catalogo
 locale: es
 kiStatus: Backlog
 internalReference: 922350
@@ -18,7 +18,9 @@ internalReference: 922350
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para las tiendas con una gran cantidad de skus (1 millón o más), a menudo, al filtrar utilizando los filtros de la interfaz de usuario del catálogo, ya sea para el menú principal o para la sección de informes, si la consulta de filtro devuelve un resultado muy grande, la interfaz de usuario se agota (504 tiempo de espera de la puerta de enlace).

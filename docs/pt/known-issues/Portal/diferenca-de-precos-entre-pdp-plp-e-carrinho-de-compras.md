@@ -1,5 +1,5 @@
 ---
-title: 'Diferença de preços entre PDP, PLP e carrinho de compras'
+title: "Diferença de preços entre PDP, PLP e carrinho de compras"
 id: 3Oo5ccYOG7hcEXYaROxXMV
 status: PUBLISHED
 createdAt: 2023-06-29T20:02:13.485Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: difference-in-prices-between-pdp-plp-and-checkout-cart
+slugEN: diferenca-de-precos-entre-pdp-plp-e-carrinho-de-compras
 locale: pt
 kiStatus: Backlog
 internalReference: 853175
@@ -18,7 +18,9 @@ internalReference: 853175
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

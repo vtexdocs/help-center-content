@@ -1,5 +1,5 @@
 ---
-title: 'Mi suscripción muestra un mensaje de error cuando la suscripción está asociada a un punto de recogida'
+title: "Mi suscripción muestra un mensaje de error cuando la suscripción está asociada a un punto de recogida"
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point
+slugEN: mi-suscripcion-muestra-un-mensaje-de-error-cuando-la-suscripcion-esta-asociada-a-un-punto-de-recogida
 locale: es
 kiStatus: Backlog
 internalReference: 692523
@@ -18,7 +18,9 @@ internalReference: 692523
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

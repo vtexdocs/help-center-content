@@ -1,5 +1,5 @@
 ---
-title: 'Gestão de estoques Pesquisa não funciona corretamente nas contas do portal do vendedor'
+title: "Gestão de estoques Pesquisa não funciona corretamente nas contas do portal do vendedor"
 id: 7pCEQVKpXDq8NwtMXDxlFT
 status: PUBLISHED
 createdAt: 2022-11-08T18:55:29.448Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inventory-management-search-not-working-properly-on-seller-portal-accounts
+slugEN: gestao-de-estoques-pesquisa-nao-funciona-corretamente-nas-contas-do-portal-do-vendedor
 locale: pt
 kiStatus: Backlog
 internalReference: 694254
@@ -18,7 +18,9 @@ internalReference: 694254
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Pesquisa de Gerenciamento de Inventário não se comporta como esperado nas contas do portal do vendedor. Isto acontece porque este tipo de contas utiliza uma versão diferente do catálogo.

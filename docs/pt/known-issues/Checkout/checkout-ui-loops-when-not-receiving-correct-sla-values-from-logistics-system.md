@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI loops when not receiving correct SLA values from logistics system'
+title: "Checkout UI loops when not receiving correct SLA values from logistics system"
 id: 4tACwwmorLZ7NAt3zWldWL
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:24.852Z
@@ -18,13 +18,19 @@ internalReference: 485016
 
 ## Sumário
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Simulação
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+<div class="alert alert-warning">
+  <p>Este conteúdo só está disponível em Inglês.</p>
+</div>
 

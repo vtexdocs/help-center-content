@@ -1,5 +1,5 @@
 ---
-title: 'UI mostra um erro ao exportar arquivos de catálogo se o remetente do modelo de e-mail tiver seu próprio SMTP'
+title: "UI mostra um erro ao exportar arquivos de catálogo se o remetente do modelo de e-mail tiver seu próprio SMTP"
 id: 6MCsAvrOHbLTYjuxRHDsuU
 status: PUBLISHED
 createdAt: 2023-03-15T19:04:48.152Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: ui-shows-an-error-when-exporting-catalog-files-if-the-email-template-sender-has-its-own-smtp
+slugEN: ui-mostra-um-erro-ao-exportar-arquivos-de-catalogo-se-o-remetente-do-modelo-de-email-tiver-seu-proprio-smtp
 locale: pt
 kiStatus: Backlog
 internalReference: 771942
@@ -18,7 +18,9 @@ internalReference: 771942
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

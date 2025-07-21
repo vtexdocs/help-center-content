@@ -1,5 +1,5 @@
 ---
-title: "Campo 'address' vem com valor 'null' na consulta da API do Pagamentos"
+title: 'Campo "address" vem com valor "null" na consulta da API do Pagamentos'
 id: 7oEEc24umACsOoy4Ceso2W
 status: PUBLISHED
 createdAt: 2018-01-11T16:33:01.231Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-field-comes-with-null-vaule-in-payments-api-query
+slugEN: campo-address-vem-com-valor-null-na-consulta-da-api-do-pagamentos
 locale: pt
 kiStatus: Backlog
 internalReference: 

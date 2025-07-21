@@ -1,10 +1,10 @@
 ---
-title: 'Delivery capacity is not respected if there is space in the Id of Shipping Policy'
+title: "Delivery capacity is not respected if there is space in the Id of Shipping Policy"
 id: 1OyY54G05o15EI2zAmW4Vq
 status: PUBLISHED
 createdAt: 2023-07-14T21:25:50.522Z
-updatedAt: 2024-03-19T19:26:55.344Z
-publishedAt: 2024-03-19T19:26:55.344Z
+updatedAt: 2024-12-19T19:05:37.172Z
+publishedAt: 2024-12-19T19:05:37.172Z
 firstPublishedAt: 2023-07-14T21:25:51.117Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slugEN: delivery-capacity-is-not-respected-if-there-is-space-in-the-id-of-shipping-policy
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 862830
 ---
 

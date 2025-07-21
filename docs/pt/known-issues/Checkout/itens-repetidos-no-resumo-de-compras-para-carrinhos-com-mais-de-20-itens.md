@@ -1,5 +1,5 @@
 ---
-title: 'Itens repetidos no resumo de compras para carrinhos com mais de 20 itens'
+title: "Itens repetidos no resumo de compras para carrinhos com mais de 20 itens"
 id: 2k76x4aStel8e4ItTHfhof
 status: PUBLISHED
 createdAt: 2022-08-24T17:26:32.083Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: repeated-items-in-the-purchase-summary-for-carts-with-more-than-20-items
+slugEN: itens-repetidos-no-resumo-de-compras-para-carrinhos-com-mais-de-20-itens
 locale: pt
 kiStatus: Backlog
 internalReference: 367339
@@ -18,7 +18,9 @@ internalReference: 367339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao chegar à caixa com mais de 20 itens, os itens mostrados no resumo de compras (lista de itens do topo direito) podem ser duplicados. Os totalizadores e até mesmo o API estão corretos. O cenário não acontece na lista principal de itens (etapa do carrinho de compras).

@@ -1,37 +1,35 @@
 ---
-title: 'Ordenação de blocos contentplaceholder nos controles no CMS legado (Portal) não possui padrão de ordenação'
-id: 5za4LsH4Gh4SnDcmgZVlQX
-status: DRAFT
-createdAt: 2022-01-23T02:33:57.248Z
-updatedAt: 2022-01-23T02:33:57.248Z
-publishedAt: 
-firstPublishedAt: 
+title: "Stores with not all the Storetext Available"
+id: 6in8zqqOmpuH485AoYhZdC
+status: PUBLISHED
+createdAt: 2022-01-23T02:30:55.301Z
+updatedAt: 2024-07-01T18:47:52.134Z
+publishedAt: 2024-07-01T18:47:52.134Z
+firstPublishedAt: 2024-07-01T18:47:52.134Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: untitled
 locale: en
-kiStatus: Backlog
-internalReference: 388640
+kiStatus: No Fix
+internalReference: 304836
 ---
 
 ## Summary
 
 
-Vimos exemplos de ordenação dos blocos contentplaceholder seguindo ordem alfabética (independente da ordem de criação) e em outros casos seguindo a ordem de criação.
+There are some stores without all the StoreText Available to be edited on the `/admin/Site/TextoSite.aspx`:
 
 
 ## Simulation
 
 
-- Criar content placeholders para uma determimada página no CMS legado;
-- Inserir diversos Content Placeholders
-- Verificar ordenação, dependendo da quantidade de PlaceHolders, a ordenação seguida muda para alfabética.
+This problem happens in not every store, it has to be checked if all the Store text is available on the URL `/admin/Site/TextoSite.aspx`.
 
 
 ## Workaround
 
 
-Não temos workaround.
+Ask the Support Team by a ticket to add the remaining Store Texts.
 

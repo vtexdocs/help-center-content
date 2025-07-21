@@ -31,4 +31,4 @@ Ao cadastrar seu produto em múltiplas categorias, ele aparecerá em mais result
 
 Caso você ainda utilize a planilha antiga para fazer o mapeamento, você deverá passar a utilizar o novo modelo da planilha, na qual é obrigatório que os produtos sejam cadastrados com os seguintes atributos: Variation, Gender, Origin, ColorFamily, OriginCountry (obrigatório apenas para clientes da Dafiti Brasil).
 
-Para mais informações sobre como utilizar a planilha, leia a documentação [Envio de produtos para Dafiti](https://help.vtex.com/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
+Para mais informações sobre como utilizar a planilha, leia a documentação [Envio de produtos para Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).

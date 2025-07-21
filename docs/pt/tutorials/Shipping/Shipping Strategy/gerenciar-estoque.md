@@ -16,29 +16,31 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
 
-O estoque é o espaço físico de armazenamento do ecommerce. Na plataforma VTEX, você pode adicionar itens aos estoques cadastrados na sua loja. Com os itens em estoque, é possível controlar movimentações, disponibilidade e gerenciar o envio dos itens pelas docas e [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). 
+O estoque é o espaço físico de armazenamento do ecommerce. Na plataforma VTEX, você pode adicionar itens aos estoques cadastrados na sua loja. Com os itens em estoque, é possível controlar movimentações, disponibilidade e gerenciar o envio dos itens pelas docas e [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140). 
 
->ℹ️ Para entender melhor como a plataforma VTEX interpreta e define o funcionamento do estoque, consulte o artigo de [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+<div class="alert alert-info">
+Para entender melhor como a plataforma VTEX interpreta e define o funcionamento do estoque, consulte o artigo de <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a>.
+</div>
 
 Além disso, é possível cadastrar o estoque, as docas que escoarão os produtos, o tempo que os itens levam para ser transportados do estoque até a doca e o valor cobrado por esse transporte.
 
 Este artigo contém as informações necessárias para:
 
-* [Cadastrar um novo estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque).  
-* [Preencher os campos de cadastro no estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro).  
-* [Editar um estoque existente](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#editar-estoque).  
-* [Excluir um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#excluir-estoque).  
+* [Cadastrar um novo estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque).  
+* [Preencher os campos de cadastro no estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro).  
+* [Editar um estoque existente](/pt/tutorial/gerenciar-estoque--tutorials_137#editar-estoque).  
+* [Excluir um estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#excluir-estoque).  
 
->⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-> <body>
->
-> [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)
->
-> 2. [Doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
->
-> [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
->
-> </body>
+<div class="alert alert-warning">
+A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
+<body>
+<ol>
+<li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio</a></li>
+  <li><a href="https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">Doca</a></li>
+<li><a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a></li>
+</ol>
+</body>
+</div>
 
 ## Cadastrar estoque
 
@@ -53,14 +55,14 @@ Este artigo contém as informações necessárias para:
 
 * **Nome**: nome do estoque.
 * **ID** (Opcional): identificador do estoque. Se não for preenchido, será criado automaticamente.
-* **Origem**: relaciona o estoque a uma doca. Selecione uma [doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) existente: 
+* **Origem**: relaciona o estoque a uma doca. Selecione uma [doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) existente: 
     * Clique no botão `Adicionar doca` .
     * Selecione pelo <i class="fas fa-check-square"></i> qual doca (ou docas) deseja.
     * Depois de selecionar clique em `Salvar alterações`.
     * Depois de selecionada a doca, preencha o campo **Dias e horas de processamento.** Neste campo você deve configurar o tempo de manuseio do pedido (em dias e horas) para transportá-lo do estoque à doca. O campo deve ser preenchido com o número de dias clicando em <i class="fas fa-minus"></i> e <i class="fas fa-plus"></i> e a quantidade de horas pelo campo <i class="far fa-clock"></i>.  
     * Preencha a **Tarifa adicional** caso tenha algum custo adicional de preparação dos pedidos do estoque à doca.
     * Clique em `Salvar Alterações.`
-* **Estoque inStore**: marque  <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque a uma loja física que possui inStore. Para que os [pontos de retirada](https://help.vtex.com/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E) fiquem disponíveis para associação, eles precisam estar previamente cadastrados. Para saber mais como utilizar essa funcionalidade, consulte o artigo [Lojas físicas como pontos de retirada](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW)
+* **Estoque inStore**: marque  <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque a uma loja física que possui inStore. Para que os [pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E) fiquem disponíveis para associação, eles precisam estar previamente cadastrados. Para saber mais como utilizar essa funcionalidade, consulte o artigo [Lojas físicas como pontos de retirada](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW)
 
 ## Editar estoque
 
@@ -80,4 +82,6 @@ Este artigo contém as informações necessárias para:
 3. No card do estoque desejado, selecione o <i class="fas fa-ellipsis-v"></i>.
 4. Selecione a opção `Deletar`.  
 
->⚠️ Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo [catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR), e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo [gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+<div class="alert alert-warning">
+Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">catálogo</a>, e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">gerenciamento de inventário</a>.
+</div>

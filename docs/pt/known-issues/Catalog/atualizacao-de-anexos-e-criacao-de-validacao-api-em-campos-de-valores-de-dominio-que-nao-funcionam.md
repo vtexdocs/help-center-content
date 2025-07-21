@@ -1,5 +1,5 @@
 ---
-title: 'Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam'
+title: "Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam"
 id: 1NAwwi7C65xM2G61uaTLrB
 status: PUBLISHED
 createdAt: 2023-02-09T16:10:03.814Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
+slugEN: atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam
 locale: pt
 kiStatus: No Fix
 internalReference: 751091
@@ -18,7 +18,9 @@ internalReference: 751091
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Via UI (diretamente na VTEX admin) é possível criar um anexo sem o campo **Valores permitidos** preenchidos:

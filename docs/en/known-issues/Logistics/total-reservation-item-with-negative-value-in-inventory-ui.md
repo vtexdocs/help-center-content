@@ -1,5 +1,5 @@
 ---
-title: 'Total reservation item with negative value in inventory UI'
+title: "Total reservation item with negative value in inventory UI"
 id: 5W8BeBZjSgN30YXwXfT8kV
 status: PUBLISHED
 createdAt: 2024-02-29T22:05:19.854Z

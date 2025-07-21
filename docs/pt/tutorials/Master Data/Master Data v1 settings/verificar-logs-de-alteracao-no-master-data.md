@@ -15,7 +15,7 @@ legacySlug: verificar-logs-de-alteracao-no-master-data
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-Na VTEX, os Logs funcionam como um histórico detalhado de alterações feitas em uma loja online. Ou seja, uma vez que alguma configuração for feita na plataforma, essa informação será gravada em um banco de dados, o [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data").  
+Na VTEX, os Logs funcionam como um histórico detalhado de alterações feitas em uma loja online. Ou seja, uma vez que alguma configuração for feita na plataforma, essa informação será gravada em um banco de dados, o [Master Data](/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data").  
 
 No cenário de e-commerce, às vezes, algumas configurações podem ser realizadas sem que se saiba exatamente o porquê. Nesses casos, o lojista pode consultar os Logs para averiguar a procedência desta ação.
 

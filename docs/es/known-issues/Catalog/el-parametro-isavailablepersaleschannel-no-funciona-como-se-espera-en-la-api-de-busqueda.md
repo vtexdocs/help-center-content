@@ -1,5 +1,5 @@
 ---
-title: 'El parámetro isAvailablePerSalesChannel no funciona como se espera en la API de búsqueda'
+title: "El parámetro isAvailablePerSalesChannel no funciona como se espera en la API de búsqueda"
 id: 6vexCZQTib8fFI6sCSTdWL
 status: PUBLISHED
 createdAt: 2022-09-12T16:03:25.215Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: isavailablepersaleschannel-parameter-does-not-work-as-expected-on-the-search-api
+slugEN: el-parametro-isavailablepersaleschannel-no-funciona-como-se-espera-en-la-api-de-busqueda
 locale: es
 kiStatus: No Fix
 internalReference: 656284
@@ -18,7 +18,9 @@ internalReference: 656284
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar utilizar el parámetro isAvailablePerSalesChannel para mostrar los productos disponibles (fq=isAvailablePerSalesChannel_{id}:1) o no disponibles (fq=isAvailablePerSalesChannel_{id}:0) el resultado no es coherente.

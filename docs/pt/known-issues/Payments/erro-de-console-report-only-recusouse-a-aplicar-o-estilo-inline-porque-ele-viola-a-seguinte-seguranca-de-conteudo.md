@@ -1,5 +1,5 @@
 ---
-title: 'Erro de console [Report Only] - Recusou-se a aplicar o estilo inline porque ele viola a seguinte segurança de conteúdo'
+title: "Erro de console [Report Only] - Recusou-se a aplicar o estilo inline porque ele viola a seguinte segurança de conteúdo"
 id: mix75F8F7a7D4iTWyHLyM
 status: PUBLISHED
 createdAt: 2024-04-16T10:30:41.610Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security
+slugEN: erro-de-console-report-only-recusouse-a-aplicar-o-estilo-inline-porque-ele-viola-a-seguinte-seguranca-de-conteudo
 locale: pt
 kiStatus: Backlog
 internalReference: 1017370
@@ -18,7 +18,9 @@ internalReference: 1017370
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos alguns logs no console que relatam bloqueios de script devido a restrições por meio do cabeçalho CSP.

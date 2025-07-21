@@ -15,7 +15,7 @@ legacySlug: registering-a-client-id-and-a-client-secret-for-login-with-facebook
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-To enable login via Facebook, in your VTEX Admin, go to **Account Settings > Authentication** and complete the **Client ID** and **Client Secret** fields, as described in the [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) article.
+To enable login via Facebook, in your VTEX Admin, go to **Account Settings > Authentication** and complete the **Client ID** and **Client Secret** fields, as described in the [Configuring login with Facebook and Google](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) article.
 
 ![Facebook OAuth EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Authentication/Authentication%20basics/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook_1.PNG)
 
@@ -76,12 +76,12 @@ Finally, you must complete specific information about the app to finish the regi
 
    ![7-login-fb-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Authentication/Authentication%20basics/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook_7.png)
 
-2. Copy the value from the **App ID** field. You must enter this value in the **Client ID** field when[ configuring Facebook Login in the VTEX Admin](https://help.vtex.com/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
-3. Under **App Secret**, click the **Show** button, and then copy the value from the field. You must enter this value in the **Client Secret** field when [configuring Facebook Login in the VTEX Admin](https://help.vtex.com/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
+2. Copy the value from the **App ID** field. You must enter this value in the **Client ID** field when[ configuring Facebook Login in the VTEX Admin](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
+3. Under **App Secret**, click the **Show** button, and then copy the value from the field. You must enter this value in the **Client Secret** field when [configuring Facebook Login in the VTEX Admin](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
 4. Add the link to your store's terms of service in the **Terms of Service URL** field.
 5. Under **App Icon (1024 x 1024)**, add an icon of exactly 1024x1024 pixels and a transparent background for your app.
 6. **Choose a Category**. For stores, we recommend using **Shopping**.
 7. Below in this form, complete the **Data Protection Officer Contact Information** with the details of the company running the store.
 8. At the bottom of the page, click `Save Changes`.
 
-Once you have completed all these steps, you can use the **Client ID** and **Client Secret** you obtained to configure Facebook Login in your store, as detailed in the [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) article.
+Once you have completed all these steps, you can use the **Client ID** and **Client Secret** you obtained to configure Facebook Login in your store, as detailed in the [Configuring login with Facebook and Google](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513) article.

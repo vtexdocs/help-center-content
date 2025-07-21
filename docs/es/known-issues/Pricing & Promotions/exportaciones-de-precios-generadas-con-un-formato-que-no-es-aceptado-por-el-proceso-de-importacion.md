@@ -1,5 +1,5 @@
 ---
-title: 'Exportaciones de precios generadas con un formato que no es aceptado por el proceso de importación'
+title: "Exportaciones de precios generadas con un formato que no es aceptado por el proceso de importación"
 id: 4qOqpaZe1aIrfgo7mXL15K
 status: PUBLISHED
 createdAt: 2022-05-24T18:13:38.306Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: price-exports-generated-with-a-format-that-is-not-accepted-by-the-import-process
+slugEN: exportaciones-de-precios-generadas-con-un-formato-que-no-es-aceptado-por-el-proceso-de-importacion
 locale: es
 kiStatus: Fixed
 internalReference: 584975
@@ -18,7 +18,9 @@ internalReference: 584975
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces (hay un 50% de posibilidades) los precios se exportan utilizando un nuevo formato que no es aceptado por la importación de precios.

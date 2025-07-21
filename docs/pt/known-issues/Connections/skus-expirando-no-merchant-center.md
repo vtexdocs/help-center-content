@@ -1,5 +1,5 @@
 ---
-title: 'SKUs expirando no Merchant Center'
+title: "SKUs expirando no Merchant Center"
 id: 3Xp43ibDVBhJDHtQgHzuzb
 status: PUBLISHED
 createdAt: 2022-03-22T20:57:40.346Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: skus-expiring-in-merchant-center
+slugEN: skus-expirando-no-merchant-center
 locale: pt
 kiStatus: Backlog
 internalReference: 548044
@@ -18,7 +18,9 @@ internalReference: 548044
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

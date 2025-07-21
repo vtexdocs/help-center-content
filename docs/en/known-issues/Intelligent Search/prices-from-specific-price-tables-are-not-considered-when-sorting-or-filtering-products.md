@@ -1,5 +1,5 @@
 ---
-title: 'Prices from specific price tables are not considered when sorting or filtering products'
+title: "Prices from specific price tables are not considered when sorting or filtering products"
 id: 5P7TkO8THxwNBJXgwnaqxe
 status: PUBLISHED
 createdAt: 2024-08-22T19:26:24.575Z

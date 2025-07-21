@@ -62,7 +62,9 @@ Para baixar um app para a sua conta:
 
 Após realizar estes passos, o app estará disponível na sua conta e será instalado na loja que estiver utilizando no momento.
 
->⚠️ Antes de baixar um app, recomendamos ver os termos e condições do fornecedor e os termos da VTEX pelos links disponíveis abaixo do botão **Baixar App**.
+<div class="alert alert-warning">
+Antes de baixar um app, recomendamos ver os termos e condições do fornecedor e os termos da VTEX pelos links disponíveis abaixo do botão <b>Baixar App</b>.
+</div>
 
 O custo de um app pode ser uma das seguintes formas:
 
@@ -70,4 +72,4 @@ O custo de um app pode ser uma das seguintes formas:
 - Custo fixo mensal.
 - Condições especiais. Podem incluir número de mensagens SMS enviadas, tempo de transmissão ao vivo, entre outros.
 
-Os custos serão adicionados automaticamente à sua [fatura VTEX](https://help.vtex.com/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) logo após a aquisição do app.
+Os custos serão adicionados automaticamente à sua [fatura VTEX](/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) logo após a aquisição do app.

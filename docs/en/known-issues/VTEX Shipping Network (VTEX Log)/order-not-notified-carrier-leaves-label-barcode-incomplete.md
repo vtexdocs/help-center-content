@@ -1,5 +1,5 @@
 ---
-title: 'Order not notified carrier leaves label barcode incomplete'
+title: "Order not notified carrier leaves label barcode incomplete"
 id: 2QjxFv2Ul2wKCdnYtrlF0T
 status: PUBLISHED
 createdAt: 2023-08-01T16:55:39.774Z

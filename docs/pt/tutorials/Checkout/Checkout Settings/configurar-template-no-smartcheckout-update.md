@@ -3,8 +3,8 @@ title: 'Configurar template no SmartCheckout'
 id: ToTE5XB39t0SwtHgpgwSv
 status: PUBLISHED
 createdAt: 2019-08-27T17:48:08.831Z
-updatedAt: 2023-03-24T19:06:08.064Z
-publishedAt: 2023-03-24T19:06:08.064Z
+updatedAt: 2025-05-29T17:21:39.692Z
+publishedAt: 2025-05-29T17:21:39.692Z
 firstPublishedAt: 2019-10-28T16:39:00.190Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,7 +19,9 @@ O __Portal__ é usado para renderizar as telas de __Checkout__ (Carrinho, Dados 
 
 O módulo __Checkout__ no Admin, exibe os sites que estão cadastrados para a sua conta. Por meio dele, também é possível criar um novo site, editar e configurar informações sobre os sites já existentes.
 
->ℹ️ Cada site cadastrado corresponde a um multidomínio (caso a conta possua multidomínios contratados). Para contas que não utilizam multidomínios, não é necessário cadastrar mais de um site neste módulo. Saiba mais em [Criar multiloja/multidomínio](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+<div class="alert alert-info">
+Cada site cadastrado corresponde a um multidomínio (caso a conta possua multidomínios contratados). Para contas que não utilizam multidomínios, não é necessário cadastrar mais de um site neste módulo. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510#">Criar multiloja/multidomínio</a>.
+</div>
 
 ## Criar novo site
 
@@ -66,6 +68,10 @@ A seguir, vamos aprofundar o passo a passo da configuração das oções de menu
 
 ## Configurar Checkout
 
+<div class="alert alert-warning">
+  Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso do License Manager</a> <b>Manage portal</b>. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil <b>Owner (Admin Super)</b>.
+</div>
+
 1. No Admin VTEX, acesse __Configurações da loja > Storefront > Checkout__, ou digite __Checkout__ na barra de busca no topo da página.
 2. Clique no ícone <i class="fas fa-cog" alt="engrenagem azul"></i> do site desejado.
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__ e configure os campos abaixo, conforme necessário:
@@ -95,7 +101,9 @@ O código HTML preenchido no template corresponde ao que aparecerá nas páginas
 
 Dos templates disponíveis templates, os únicos que não podem ser alterados são __vtex-checkout__ e __vtex-orderPlaced__. Estes correspondem ao funcionamento nativo da plataforma, renderizando o conteúdo principal das páginas de __checkout__ e __order placed__.
 
->⚠️ Javascripts incluídos diretamente em quaisquer templates do Portal serão ignorados pela plataforma. Ou seja, no momento da renderização da página, a plataforma o removerá. Isso porque o [SmartCheckout](https://help.vtex.com/pt/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#) apenas aceita scripts originados no Google Tag Manager. Assim, sempre que houver necessidade de realizar alguma customização (ou mesmo inserção de tags específicas) via javascript, utilize [Google Tag Manager](https://help.vtex.com/pt/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
+<div class="alert alert-warning">
+Javascripts incluídos diretamente em quaisquer templates do Portal serão ignorados pela plataforma. Ou seja, no momento da renderização da página, a plataforma o removerá. Isso porque o <a href="https://help.vtex.com/pt/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#">SmartCheckout</a> apenas aceita scripts originados no Google Tag Manager. Assim, sempre que houver necessidade de realizar alguma customização (ou mesmo inserção de tags específicas) via javascript, utilize <a href="https://help.vtex.com/pt/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#">Google Tag Manager</a>.
+</div>
 
 ### Exemplos de preenchimento de templates
 

@@ -1,5 +1,5 @@
 ---
-title: 'EAN of the KIT components is not displayed in order json'
+title: "EAN of the KIT components is not displayed in order json"
 id: 2lrOfIp4FOcGWIA2EuG6U0
 status: PUBLISHED
 createdAt: 2017-11-07T14:28:45.693Z

@@ -28,7 +28,9 @@ A VTEX app extends the functionalities of the VTEX platform, helping merchants c
 
 Our plug and play solution allows third party developers to create apps for the VTEX ecosystem in multiple ways. Both first-party and third-party apps are available for download at the [VTEX App Store](https://apps.vtex.com/), and they can be either free or paid. 
 
->ℹ️ If you are a developer, check the <a href = "https://developers.vtex.com">Developer Portal</a> for more information on how to develop your own VTEX apps.
+<div class="alert alert-info">
+If you are a developer, check the <a href = "https://developers.vtex.com">Developer Portal</a> for more information on how to develop your own VTEX apps.
+  </div>
 
 The Apps menu allows merchants to download new apps directly from the App Store and manage installed apps without leaving the VTEX Admin. Please notice that the Apps menu is flexible and might include custom sections related to the apps installed in your account. 
 

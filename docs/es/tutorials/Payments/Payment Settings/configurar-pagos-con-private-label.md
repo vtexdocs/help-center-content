@@ -15,7 +15,7 @@ legacySlug: configurar-pagos-con-private-label
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, su tienda puede recibir pagos con __private label (bandera propia)__. Para ello, necesitará primero registrar una [afiliación de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444#) capaz de procesar este medio de pago. 
+En VTEX, su tienda puede recibir pagos con __private label (bandera propia)__. Para ello, necesitará primero registrar una [afiliación de gateway](/es/tutorial/afiliacoes-de-gateway--tutorials_444#) capaz de procesar este medio de pago. 
 
 A continuación, se deben realizar dos pasos de configuración.
 
@@ -37,7 +37,7 @@ Con una de las afiliaciones de gateway arriba registrada con éxito, usted deber
 12. En el campo __Máscara de la tarjeta__, seleccione los símbolos que van a representar los 16 dígitos de la tarjeta en el momento de la compra. Esta es una configuración para proteger el número de tarjeta de su cliente. Usted puede elegir los caracteres que prefiera, separándolos en cuatro grupos de cuatro y utilizando espacios.
 13. En __Fecha de vencimiento del pago__, informar el plazo máximo (número de días) que se puede realizar el pago. Pasado este tiempo, si no se realiza el pago, el pedido será cancelado.
 14. En el campo __Autorizar automáticamente__, informe si desea autorizar los pagos de forma automática.
-15. En el campo __Activar split de pago (si el proveedor de procesamiento de pagos permite esta función)__, informe si desea activar la solución de partición de cuentas por cobrar. Si es así confirmado, cuando la venta implique pedidos con varios comerciantes, las cuentas por cobrar se dividirán entre los vendedores y el marketplace. Para más información, ver [Split de Pagos](https://help.vtex.com/es/tutorial/split-de-pagamento).
+15. En el campo __Activar split de pago (si el proveedor de procesamiento de pagos permite esta función)__, informe si desea activar la solución de partición de cuentas por cobrar. Si es así confirmado, cuando la venta implique pedidos con varios comerciantes, las cuentas por cobrar se dividirán entre los vendedores y el marketplace. Para más información, ver [Split de Pagos](/es/tutorial/split-de-pagamento).
 16. Haga clic en __Guardar__.
 
 ## Configurar la condición de pago

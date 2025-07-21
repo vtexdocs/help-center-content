@@ -15,9 +15,9 @@ legacySlug: configurar-horario-de-funcionamento-para-transportadoras, configurar
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Na VTEX, é possível determinar o horário de funcionamento das [transportadoras](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) da sua loja através de configurações na [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), na qual você define os períodos válidos para a transportadora coletar e enviar pedidos.
+Na VTEX, é possível determinar o horário de funcionamento das [transportadoras](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) da sua loja através de configurações na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140), na qual você define os períodos válidos para a transportadora coletar e enviar pedidos.
 
-Para configurar o horário de funcionamento, no seu Admin VTEX, acesse **Envio > Estratégia de envio** e crie uma [nova política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) ou [edite](https://help.vtex.com/pt/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) uma existente. 
+Para configurar o horário de funcionamento, no seu Admin VTEX, acesse **Envio > Estratégia de envio** e crie uma [nova política de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) ou [edite](/pt/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) uma existente. 
 
 As configurações de horário de funcionamento influenciam o cálculo do tempo de entrega e estão ao final da página de detalhes da política de envio selecionada com as seguintes opções:
 
@@ -26,12 +26,16 @@ As configurações de horário de funcionamento influenciam o cálculo do tempo 
 
 ## Janela de envio
 
-1. Na [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), na seção **Horário de funcionamento**, clique em `Janela de envio`.
+1. Na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140), na seção **Horário de funcionamento**, clique em `Janela de envio`.
 2. Se você deseja ativar a opção `Aceitar compras fora do horário de funcionamento`, ative o toggle. Caso contrário, deixe-o desativado.
 
-  >❗ Para autorizar a transportadora a receber pedidos nos finais de semana, este toggle deve ser marcado como `Ativo`. Mesmo se sábados e domingos estiverem configurados como janelas válidas, a ativação do toggle é obrigatória para autorizar a transportadora a receber pedidos fora do horário de funcionamento.
+  <div class="alert alert-danger">
+Para autorizar a transportadora a receber pedidos nos finais de semana, este toggle deve ser marcado como <code>Ativo</code>. Mesmo se sábados e domingos estiverem configurados como janelas válidas, a ativação do toggle é obrigatória para autorizar a transportadora a receber pedidos fora do horário de funcionamento.
+</div>
 
-  >ℹ️ Quando esta opção está habilitada, o [cálculo de envio](https://help.vtex.com/pt/tutorial/how-shipping-calculation-works--tutorials_116) do pedido é influenciado, e o tempo desde a realização do pedido até o horário de início de funcionamento da transportadora é somado ao tempo de envio total de envio.
+  <div class = "alert alert-info">
+Quando esta opção está habilitada, o <a href="https://help.vtex.com/pt/tutorial/how-shipping-calculation-works--tutorials_116">cálculo de envio</a> do pedido é influenciado, e o tempo desde a realização do pedido até o horário de início de funcionamento da transportadora é somado ao tempo de envio total de envio.
+</div>
 
 3. Selecione o `Dia da semana` e respectivamente o `Horário de início` e `Horário de término` do envio, sendo:
     * **Dia da semana:** os dias da semana que a transportadora faz as entregas.
@@ -42,7 +46,7 @@ As configurações de horário de funcionamento influenciam o cálculo do tempo 
 
 ## Horário de coleta
 
-1. Na [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), na seção **Horário de funcionamento**, clique na janela `Horário de coleta`.
+1. Na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140), na seção **Horário de funcionamento**, clique na janela `Horário de coleta`.
 2. Selecione um `Dia da semana`.
 3. Selecione um `Horário de coleta`. 
 4. Para adicionar um novo horário, clique em `Adicionar horário de coleta`.

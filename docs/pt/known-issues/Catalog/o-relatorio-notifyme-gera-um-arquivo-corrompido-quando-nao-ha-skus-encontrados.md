@@ -1,5 +1,5 @@
 ---
-title: 'O relatório Notify-me gera um arquivo corrompido quando não há SKUs encontrados'
+title: "O relatório Notify-me gera um arquivo corrompido quando não há SKUs encontrados"
 id: 4UXSRdwdh7TTqGvQ3HrBX4
 status: PUBLISHED
 createdAt: 2023-12-20T20:13:33.873Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found
+slugEN: o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-ha-skus-encontrados
 locale: pt
 kiStatus: Backlog
 internalReference: 956264
@@ -18,7 +18,9 @@ internalReference: 956264
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o relatório "Notifique-me" não tiver SKUs, a tentativa de exportá-lo gerará um arquivo corrompido para o Excel

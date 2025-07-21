@@ -1,5 +1,5 @@
 ---
-title: 'Segmento Cookie actualizado sólo después de actualizar la página'
+title: "Segmento Cookie actualizado sólo después de actualizar la página"
 id: 3QBmp4D2tvIAxEzEy2LpNf
 status: PUBLISHED
 createdAt: 2022-11-01T16:33:05.698Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: segment-cookie-updated-only-after-refreshing-the-page
+slugEN: segmento-cookie-actualizado-solo-despues-de-actualizar-la-pagina
 locale: es
 kiStatus: Backlog
 internalReference: 647116
@@ -18,7 +18,9 @@ internalReference: 647116
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas funciones y componentes de VTEX pueden utilizar datos solicitados a la cookie de segmento para presentar información (como precio, datos de promoción, disponibilidad de SKU, etc.) en el escaparate. Esta cookie se almacena en el navegador del usuario cuando se crea la sesión. A veces, sobre todo en escenarios dinámicos donde se necesita hacer cambios en el frente donde se desencadena una actualización del Segmento Cookie, la cookie en sí pierde algunos datos que es de un comportamiento en render-runtime que no desencadena el cambio de segmento al contexto.

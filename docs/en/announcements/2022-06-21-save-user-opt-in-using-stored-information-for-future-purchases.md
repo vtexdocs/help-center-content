@@ -25,7 +25,7 @@ From now on, two checkboxes will be available on the Checkout screen, allowing u
 
 ![ Save user data opt-in EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-06-21-save-user-opt-in-using-stored-information-for-future-purchases_1.PNG)
 
-Learn more in [SmartCheckout - Customer information automatic fill-in](https://help.vtex.com/en/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
+Learn more in [SmartCheckout - Customer information automatic fill-in](/en/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 
 ##  What needs to be done?
 

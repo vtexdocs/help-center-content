@@ -1,5 +1,5 @@
 ---
-title: 'Simulação Logística com preço mínimo e máximo na Política de Embarque não funciona quando o Preço do Produto como 0 (ZERO)'
+title: "Simulação Logística com preço mínimo e máximo na Política de Embarque não funciona quando o Preço do Produto como 0 (ZERO)"
 id: 5gsBLbPMIZjZvkl5QHudVY
 status: PUBLISHED
 createdAt: 2022-03-30T20:10:30.205Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero
+slugEN: simulacao-logistica-com-preco-minimo-e-maximo-na-politica-de-embarque-nao-funciona-quando-o-preco-do-produto-como-0-zero
 locale: pt
 kiStatus: No Fix
 internalReference: 553080
@@ -18,7 +18,9 @@ internalReference: 553080
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

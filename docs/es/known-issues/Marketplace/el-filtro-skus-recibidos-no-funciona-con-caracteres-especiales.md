@@ -1,5 +1,5 @@
 ---
-title: 'El filtro Skus recibidos no funciona con caracteres especiales'
+title: "El filtro Skus recibidos no funciona con caracteres especiales"
 id: 6aSErtF2Xv5RuKuIHUEEPg
 status: PUBLISHED
 createdAt: 2023-11-29T17:58:26.201Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: received-skus-filter-do-not-work-with-special-characters
+slugEN: el-filtro-skus-recibidos-no-funciona-con-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 944533
@@ -18,7 +18,9 @@ internalReference: 944533
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar filtrar los skus en el módulo de Skus Recibidos, el marketplace puede elegir filtrar por vendedor, categoría y/o marca.

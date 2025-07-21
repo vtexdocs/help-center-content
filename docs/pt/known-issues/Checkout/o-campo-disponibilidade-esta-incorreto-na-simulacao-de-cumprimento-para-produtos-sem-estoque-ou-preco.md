@@ -1,5 +1,5 @@
 ---
-title: "O campo 'disponibilidade' está incorreto na Simulação de Cumprimento para produtos sem estoque ou preço"
+title: 'O campo "disponibilidade" está incorreto na Simulação de Cumprimento para produtos sem estoque ou preço'
 id: 1k2zcLEN5vG6mnksLwEXxp
 status: PUBLISHED
 createdAt: 2023-10-04T14:22:53.519Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: availability-field-is-incorrect-in-fulfillment-simulation-for-no-stock-or-price-products
+slugEN: o-campo-disponibilidade-esta-incorreto-na-simulacao-de-cumprimento-para-produtos-sem-estoque-ou-preco
 locale: pt
 kiStatus: Backlog
 internalReference: 773537
@@ -18,7 +18,9 @@ internalReference: 773537
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um produto está fora de estoque ou não tem preço, a simulação de atendimento informa incorretamente o campo `disponibilidade` como `disponível`.

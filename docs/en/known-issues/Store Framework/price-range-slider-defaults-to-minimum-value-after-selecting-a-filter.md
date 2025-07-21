@@ -1,5 +1,5 @@
 ---
-title: 'Price Range Slider defaults to minimum value after selecting a filter'
+title: "Price Range Slider defaults to minimum value after selecting a filter"
 id: 15ABXMTT9cqieizxYWqC2V
 status: PUBLISHED
 createdAt: 2023-11-08T13:34:50.960Z

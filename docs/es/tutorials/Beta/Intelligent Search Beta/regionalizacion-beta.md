@@ -15,11 +15,13 @@ legacySlug: regionalizacion-beta
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
+<div class="alert alert-info">
+<p>Esta funcionalidad está en etapa Beta, lo que significa que estamos trabajando para mejorarla. En caso de dudas, contacte a <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
+</div>
 
-La Regionalización es una funcionalidad de [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) que permite optimizar los resultados de búsqueda según la disponibilidad de sellers en la región del cliente. Para instalar y configurar VTEX Intelligent Search en tu tienda, lee nuestro artículo Search.
+La Regionalización es una funcionalidad de [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) que permite optimizar los resultados de búsqueda según la disponibilidad de sellers en la región del cliente. Para instalar y configurar VTEX Intelligent Search en tu tienda, lee nuestro artículo Search.
 
-La Regionalización utiliza un comportamiento de VTEX Intelligent Search llamado [Disponibilidad](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux), que busca los productos disponibles en el stock de los sellers que atienden una región determinada.
+La Regionalización utiliza un comportamiento de VTEX Intelligent Search llamado [Disponibilidad](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux), que busca los productos disponibles en el stock de los sellers que atienden una región determinada.
 
 Las tiendas que tienen más de un seller white label registrado suelen tener un stock específico para cada región. Es el caso de los ecommerces de supermercados, por ejemplo.
 
@@ -34,23 +36,25 @@ Para empezar a utilizar la Regionalización, sigue los pasos a continuación.
 2. [Solicitud de activación de la Regionalización](#2-solicitud-de-activacion-de-la-regionalizacion)
 3. [Configuración en VTEX IO](#3-configuracion-en-vtex-io)
 
->⚠️ Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.
+<div class="alert alert-warning">
+  <p>Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.</p>
+</div>
 
 ## 1. Configuración de sellers 
 
-En primer lugar, debes comprender qué escenario de [seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w) se aplica a tu tienda. Mira a continuación los posibles escenarios.
+En primer lugar, debes comprender qué escenario de [seller](/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w) se aplica a tu tienda. Mira a continuación los posibles escenarios.
 
 ### Seller 1
 
-Por estándar, cada tienda VTEX se crea con la arquitectura para actuar como seller e [marketplace](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-en-vtex--tutorials_402) simultáneamente. Esto significa que tu tienda VTEX es el seller con ID igual a 1, ya que puede funcionar como seller en su propio ambiente.
+Por estándar, cada tienda VTEX se crea con la arquitectura para actuar como seller e [marketplace](/es/tutorial/estrategias-de-marketplace-en-vtex--tutorials_402) simultáneamente. Esto significa que tu tienda VTEX es el seller con ID igual a 1, ya que puede funcionar como seller en su propio ambiente.
 
-Este seller se crea automáticamente en la cuenta de la tienda, representando su propio stock. Esto es válido tanto para los marketplaces que venden sus propios productos como para las tiendas que no son marketplaces, pero que combinan el checkout y el proceso de [fulfillment](https://help.vtex.com/es/tutorial/que-son-pedidos-con-origen-marketplace-y-origen-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) en su ecommerce.
+Este seller se crea automáticamente en la cuenta de la tienda, representando su propio stock. Esto es válido tanto para los marketplaces que venden sus propios productos como para las tiendas que no son marketplaces, pero que combinan el checkout y el proceso de [fulfillment](/es/tutorial/que-son-pedidos-con-origen-marketplace-y-origen-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) en su ecommerce.
 
 ### Seller white label
 
-El [seller white label](https://help.vtex.com/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa) es un seller que los clientes finales no eligen, es decir, los clientes no tienen visibilidad de su existencia en ningún momento del proceso de compra.
+El [seller white label](/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa) es un seller que los clientes finales no eligen, es decir, los clientes no tienen visibilidad de su existencia en ningún momento del proceso de compra.
 
-Cuando el consumidor añade productos al carrito y simula el costo de envío en la tienda, el sistema selecciona automáticamente el seller white label que tiene ese producto en stock y muestra las formas de entrega de los sellers que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de sellers white label, lee nuestro [artículo](https://help.vtex.com/es/tutorial/algoritmo-de-seleccion-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre el tema.
+Cuando el consumidor añade productos al carrito y simula el costo de envío en la tienda, el sistema selecciona automáticamente el seller white label que tiene ese producto en stock y muestra las formas de entrega de los sellers que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de sellers white label, lee nuestro [artículo](/es/tutorial/algoritmo-de-seleccion-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre el tema.
 
 Debes configurar uno o más sellers white label en tu tienda, porque Intelligent Search verifica la disponibilidad de stock de los productos en los sellers white label de cada región para definir qué productos se mostrarán al cliente.
 

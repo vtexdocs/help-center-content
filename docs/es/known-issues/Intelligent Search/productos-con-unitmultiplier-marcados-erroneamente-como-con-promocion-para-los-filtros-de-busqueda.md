@@ -1,5 +1,5 @@
 ---
-title: "Productos con 'unitMultiplier' marcados erróneamente como 'con promoción' para los filtros de búsqueda"
+title: 'Productos con "unitMultiplier" marcados erróneamente como "con promoción" para los filtros de búsqueda'
 id: 2rCi8K01DHsNuYsefE7oR2
 status: PUBLISHED
 createdAt: 2024-02-15T22:52:17.434Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: products-with-unitmultiplier-wrongly-flagged-as-with-promotion-for-search-filters
+slugEN: productos-con-unitmultiplier-marcados-erroneamente-como-con-promocion-para-los-filtros-de-busqueda
 locale: es
 kiStatus: Backlog
 internalReference: 982830
@@ -18,7 +18,9 @@ internalReference: 982830
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un producto cuyo precio de venta sea inferior a su precio de lista será marcado como parte de una promoción a efectos de filtrado de búsqueda. Los productos con algún multiplicador de unidades pueden dar lugar a un cálculo erróneo que puede afectar a esta comparación, dando lugar a que reciban erróneamente esta bandera.

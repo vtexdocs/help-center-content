@@ -1,10 +1,10 @@
 ---
-title: 'What are utm_source, utm_campaign, and utm_medium'
+title: 'Campaign tracking with UTM parameters'
 id: 2wTz7QJ8KUG6skGAoAQuii
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.092Z
-updatedAt: 2022-11-28T19:10:34.068Z
-publishedAt: 2022-11-28T19:10:34.068Z
+updatedAt: 2025-05-26T16:32:16.492Z
+publishedAt: 2025-05-26T16:32:16.492Z
 firstPublishedAt: 2019-01-24T22:11:24.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,31 +15,34 @@ legacySlug: what-are-utm-source-utm-campaign-and-utm-medium
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Urchin Tracking Modules (UTMs) are URL parameters commonly used in marketing contexts to track the traffic that comes to the pages of the site.
+UTMs (Urchin Tracking Modules) are URL parameters commonly used in marketing to track website traffic.
 
-You can, for example, define that whenever a user comes to your store from a click on a Facebook ad, the URL will be mounted with the parameter `utm_source=fb`.
+<div class="alert alert-info">
+  UTM parameters aren't created or managed directly on the VTEX platform. They need to be added manually to the URLs of marketing campaigns. You should use external tools, like 
+  <a href="https://analytics.google.com/" target="_blank">Google Analytics</a>, to analyze the traffic data obtained from parameters.
+</div>
 
-Or you can define that, for that same UTM, certain benefits will be applied. That is, whenever a customer comes from Facebook, a certain benefit will be applied to the order made by them.
+For example, when you click on a Facebook ad, you'll be directed to a URL containing the parameter `utm_source=fb`.
 
-In a nutshell, the platform allows you to take certain actions according to the origin of the traffic to the store.
-
->ℹ️ On the **Orders Management** screen, only utm_source is [available for filter](https://help.vtex.com/en/tutorial/filtering-orders-on-the-oms).
+You can also link specific promotions to certain UTM values, and whenever a customer comes to the website using a URL that has UTM parameters configured, a promotion can be applied to their purchase and the marketplace can identify it.
 
 ### Types of UTM
+You can use three types of UTM for traffic tracking:
 
-Conceptually, VTEX works with three types of UTM:
-- __utm_source__: The source of the traffic, that is, from which site, advertiser, or publication the user came from.
-- __utm_medium__: The advertising or marketing media used to reach your site (examples: banner, cpc, newsletter).
-- __utm_campaign__: The name of the campaign that defines a particular marketing context (examples: Christmas, launch, promo01).
+- **utm_source:** Identifies the traffic source, such as a website, advertiser, or publication.
+- **utm_medium:** Specifies the advertising medium, such as banner, CPC (cost per click), or newsletter.
+- **utm_campaign:** Defines the campaign name, indicating the marketing context, such as Christmas, release, or promotion.
 
-But you can use these UTMs in whatever way meets your business rules best.
+<div class="alert alert-info">
+  On the Order Management page, only the <code>utm_source</code> parameter is 
+  <a href="https://help.vtex.com/en/tutorial/como-filtrar-pedidos" target="_blank">available for filtering</a>.
+</div>
 
-Therefore, in practice, what matters is defining the correct action for the values of these parameters.
+<div class="alert alert-danger">
+Don't use special characters in UTM values (example:`utm_source=#fb`). Only alphanumeric characters, hyphens, and underscores are supported.
+</div>
 
->❗ Notice: **special characters** should not be used in UTMs. These variables on function properly when ** alphanumerical, hiphen and underscore ** characters are used.
-
-For more information about issues with adding UTMs to cart, go to [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
+For more information about issues related to applying UTMs to carts, see [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Related articles
-
-- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/faq/what-are-the-internal-utms)
+- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)

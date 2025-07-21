@@ -1,10 +1,10 @@
 ---
-title: 'Inconsistencies in billingAddress field sent to Gateway'
+title: "Inconsistencies in billingAddress field sent to Gateway"
 id: 2SNynMgq0w0t7WBoXGoZwR
 status: PUBLISHED
 createdAt: 2022-01-21T18:13:45.045Z
-updatedAt: 2024-08-14T13:26:01.437Z
-publishedAt: 2024-08-14T13:26:01.437Z
+updatedAt: 2025-02-07T19:22:38.643Z
+publishedAt: 2025-02-07T19:22:38.643Z
 firstPublishedAt: 2022-01-21T18:59:43.332Z
 contentType: knownIssue
 productTeam: Payments
@@ -49,8 +49,7 @@ Scenario B:
 ## Workaround
 
 
-N/A
-
+Submit a product support request to proceed with the transaction.
 
 
 

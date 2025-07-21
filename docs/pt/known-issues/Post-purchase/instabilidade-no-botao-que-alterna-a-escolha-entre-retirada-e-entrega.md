@@ -1,5 +1,5 @@
 ---
-title: ' Instabilidade no botão que alterna a escolha entre  retirada e entrega'
+title: "Instabilidade no botão que alterna a escolha entre  retirada e entrega"
 id: 54pnP8pZGWSo2VZKhOLBKC
 status: PUBLISHED
 createdAt: 2021-09-08T17:53:29.698Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: instability-in-the-toggle-button-for-shipping-and-instore-pickup
+slugEN: instabilidade-no-botao-que-alterna-a-escolha-entre-retirada-e-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'App settings are not erased when you delete the app'
+title: "App settings are not erased when you delete the app"
 id: 7KXfKLgbc3UDeDSsCgT0Sk
 status: PUBLISHED
 createdAt: 2024-07-15T22:29:24.058Z

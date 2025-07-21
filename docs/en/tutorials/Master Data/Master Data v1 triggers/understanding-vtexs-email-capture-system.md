@@ -15,7 +15,7 @@ legacySlug: understanding-vtexs-email-capture-system
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-The purpose of this article is to show how a user's email is received in the [Master Data CRM](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). For this, it will be demonstrated how **Checkout**, **RC.JS** and **Master Data** work together to capture the email information of a new user.
+The purpose of this article is to show how a user's email is received in the [Master Data CRM](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). For this, it will be demonstrated how **Checkout**, **RC.JS** and **Master Data** work together to capture the email information of a new user.
 
 For better understanding, we will present a scenario (divided into 3 steps), where the user successfully completes his purchase and the order is forwarded to OMS, while his email is transmitted securely to Master Data. In this context, user actions and platform flow occur in the following order:
 
@@ -39,13 +39,17 @@ For better understanding, we will present a scenario (divided into 3 steps), whe
 |------------------|------------------|
 | Click on `Go to delivery`. | Checkout prompts RC.JS to transfer email address and cart information to Master Data (via Profile System). |
 
->⚠️ So that the [abandoned cart](https://help.vtex.com/en/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#) function can be used , the user must have filled in the following information: e-mail, name, surname and CPF. The lack of one of these data, makes it impossible to use the abandoned cart.
+<div class="alert alert-warning">
+So that the <a href="https://help.vtex.com/en/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#">abandoned cart</a> function can be used , the user must have filled in the following information: e-mail, name, surname and CPF. The lack of one of these data, makes it impossible to use the abandoned cart.
+</div>
 
 | __User__ | __VTEX Platform__ |
 |------------------|------------------|
 | Fill in the shipping and payment information. | The Checkout orderForm becomes an order and is transmitted to the VTEX OMS. The user's complete information (first name, last name, email, cart and all additional information) is transmitted to Master Data. Email capture can take up to 46 minutes to properly reflect in CRM. |
 
->ℹ️ Each VTEX module is responsible for requesting RC.JS to transmit the data captured in the session. RC.JS is intended to act as a "messenger" of information.
+<div class="alert alert-info">
+Each VTEX module is responsible for requesting RC.JS to transmit the data captured in the session. RC.JS is intended to act as a "messenger" of information.
+</div>
 
 ![image (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20v1%20triggers/understanding-vtexs-email-capture-system_1.png)
 

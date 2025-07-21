@@ -1,5 +1,5 @@
 ---
-title: 'Alguns comportamentos inesperados no MasterData'
+title: "Alguns comportamentos inesperados no MasterData"
 id: 4E9jB5vkUMucnAuwUMOGQL
 status: PUBLISHED
 createdAt: 2023-09-18T21:27:15.291Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: some-unexpected-behavior-in-masterdata
+slugEN: alguns-comportamentos-inesperados-no-masterdata
 locale: pt
 kiStatus: Backlog
 internalReference: 669048
@@ -18,7 +18,9 @@ internalReference: 669048
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Mesmo com dados disponíveis (documentos), as informações não são retornadas como esperado.

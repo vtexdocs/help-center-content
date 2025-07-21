@@ -19,11 +19,13 @@ __Device Fingerprint__ é um identificador que atua no processamento de um pagam
 
 Por meio da coleta de dados não sensíveis, o Device Fingerprint identifica e analisa o nível de segurança do dispositivo utilizado para realizar a transação, bem como as transações que anteriormente foram realizadas com este mesmo dispositivo.
 
->ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+<div class="alert alert-info">
+Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+</div>
 
 Neste artigo, explicaremos como associar o recurso Device Fingerprint à afiliação PayU.
 
->ℹ️ As instruções dessa etapa do artigo são realizadas em um ambiente externo. Desse modo, podem estar desatualizadas.
+<div class="alert alert-info">As instruções dessa etapa do artigo são realizadas em um ambiente externo. Desse modo, podem estar desatualizadas.</div>
 
 1. Fazer login em http://www.google.com/tagmanager/ para a loja que vamos configurar;
 2. Introduzir o item etiquetas (tags) para configurar o id da sessão do device;
@@ -91,7 +93,7 @@ Uma vez que já configuramos a etiqueta, temos que salvar o JS chamado a partir 
 
 ![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-fingerprint-para-payu_9.png)
 
-__Anexo__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Anexo__: [md5.js](https://assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
 ### Validação
 

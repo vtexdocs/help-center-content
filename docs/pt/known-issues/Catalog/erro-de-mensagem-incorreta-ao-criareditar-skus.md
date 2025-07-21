@@ -1,5 +1,5 @@
 ---
-title: 'Erro de mensagem incorreta ao criar/editar SKUs'
+title: "Erro de mensagem incorreta ao criar/editar SKUs"
 id: 19tQzBRYyVSI1MW2STZNFf
 status: PUBLISHED
 createdAt: 2023-03-20T19:50:11.591Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: incorrect-message-error-when-creatingediting-skus
+slugEN: erro-de-mensagem-incorreta-ao-criareditar-skus
 locale: pt
 kiStatus: Backlog
 internalReference: 774518
@@ -18,7 +18,9 @@ internalReference: 774518
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para criar ou editar uma SKU é necessário preencher os campos necessários, tais como peso, altura, largura e comprimento da remessa. Entretanto, quando deixamos um desses campos sem um valor válido e salvamos a SKU, Admin retorna uma mensagem de erro sobre as especificações, mesmo quando não há especificações obrigatórias a serem preenchidas.

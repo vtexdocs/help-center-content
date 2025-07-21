@@ -1,5 +1,5 @@
 ---
-title: 'SSQ desactivado para páginas de búsqueda con parámetros de mapa'
+title: "SSQ desactivado para páginas de búsqueda con parámetros de mapa"
 id: 4hbo7YxKAxLOkhT21w1Q4e
 status: PUBLISHED
 createdAt: 2024-09-04T12:52:05.855Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: ssq-disabled-for-search-pages-with-map-parameters
+slugEN: ssq-desactivado-para-paginas-de-busqueda-con-parametros-de-mapa
 locale: es
 kiStatus: Backlog
 internalReference: 1092143
@@ -18,7 +18,9 @@ internalReference: 1092143
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En las páginas de búsqueda que utilizan los parámetros del mapa, el SSQ está desactivado, y las consultas realizadas después de montar la página no están presentes en el HTML.

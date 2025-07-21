@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao visualizar o perfil do operador do call center (visualização de ordens restritas)'
+title: "Erro ao visualizar o perfil do operador do call center (visualização de ordens restritas)"
 id: 7aKQPtGvzYBaRksiuBa4YJ
 status: PUBLISHED
 createdAt: 2024-11-05T16:34:35.960Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: error-when-viewing-the-call-center-operator-profile-restricted-orders-view
+slugEN: erro-ao-visualizar-o-perfil-do-operador-do-call-center-visualizacao-de-ordens-restritas
 locale: pt
 kiStatus: Backlog
 internalReference: 1129938
@@ -18,7 +18,9 @@ internalReference: 1129938
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para limitar o acesso de um usuário de televendas aos pedidos criados por ele, é necessário dar ao usuário o seguinte perfil "`Operador de call center (visualização restrita de pedidos)`" No entanto, ao acessar a tela de perfis, você perceberá que o recurso associado "`Mostrar apenas os pedidos criados pelo usuário (via call center)`" não está selecionado, o que dá a impressão de que o perfil não atende às suas expectativas, mas ao validá-lo acessando o admin com um usuário com esse perfil, vemos que o comportamento está correto, restringindo o acesso do usuário aos pedidos criados por ele.

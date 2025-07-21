@@ -17,13 +17,13 @@ announcementSynopsisEN: "The redesigned Products and SKUs interface allows you t
 
 Catalog management is key to a successful ecommerce website, as the product window display allows customers to interact with the brand and make purchase decisions. Therefore, retailers need to have a consistent and agile experience when viewing, adding, and editing information about products and SKUs.
 
-With this in mind, we have redesigned the **Catalog > Products & SKUs** page to provide an enhanced Catalog management experience. The interface is available in Beta for stores using the [New VTEX Admin](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). 
+With this in mind, we have redesigned the **Catalog > Products & SKUs** page to provide an enhanced Catalog management experience. The interface is available in Beta for stores using the [New VTEX Admin](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). 
 
 ## What has changed?
 
 The new **Products & SKUs** interface allows you to:
 
-* Access your store's full list of products and SKUs with a more modern and intuitive design, updated for the [New VTEX Admin](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+* Access your store's full list of products and SKUs with a more modern and intuitive design, updated for the [New VTEX Admin](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
 * Find products faster with optimized search and easy-to-use filters.
 * Track product and SKU status in a more straightforward and visual way, with icons and SKU status in the list.
 * Easily identify products and SKUs with pending information waiting to be available for sale through the new **Pending** status.
@@ -36,4 +36,4 @@ We have streamlined the **Products and SKUs** page to ensure a more consistent, 
 
 ## How to get access?
 
-The update will be applied automatically in all stores. To get early access to the redesigned **Product & SKUs** page, contact [our Support](https://support.vtex.com/hc/pt-br/requests). Read the [Products & SKUs (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) article for more details on leveraging the optimized page.
+The update will be applied automatically in all stores. To get early access to the redesigned **Product & SKUs** page, contact [our Support](https://support.vtex.com/hc/pt-br/requests). Read the [Products & SKUs (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) article for more details on leveraging the optimized page.

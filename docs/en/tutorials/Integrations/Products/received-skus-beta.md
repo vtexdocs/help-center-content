@@ -15,9 +15,9 @@ legacySlug: received-offers
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-The Received SKUs page provides a way for [marketplaces](https://help.vtex.com/en/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
+The Received SKUs page provides a way for [marketplaces](/en/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
 
-Cataloging can be done manually or automatically [using one or more matchers](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
+Cataloging can be done manually or automatically [using one or more matchers](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
 
 This article provides an overview in the sections [Page structure](#page-structure), [Cataloging priority](#cataloging-priority), and [Cataloging items](#cataloging-items).  
 
@@ -56,7 +56,9 @@ To check all the specifications of a product, click the name of the product. Thi
 
 The **Issues** tab contains all the offers that haven't been approved because they have issues that need to be corrected by the seller. The filters, actions, and identification fields of the Issues tab are similar to the ones in the **[Pending](#pending)** tab.  
 
->ℹ️ The **Issues** tab doesn't have the option to request a correction.  
+<div class="alert alert-info">
+ The <b>Issues</b> tab doesn't have the option to request a correction.
+</div>  
 
 To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
@@ -84,7 +86,9 @@ Each row in the list represents a product and contains the following information
 - **Seller:** Name of the seller who sent the offer.  
 - **Submitted Date:** Date when the offer was sent to the marketplace.  
 
->ℹ️ The offers in this tab are being evaluated by Matcher and Offer Quality or autoApprove, if they're configured. After evaluation, the offer can be sent to the **Pending, Issues, Approved, or Blocked** tabs, depending on the requirements.  
+<div class="alert alert-info">
+The offers in this tab are being evaluated by Matcher and Offer Quality or autoApprove, if they're configured. After evaluation, the offer can be sent to the <b>Pending, Issues, Approved, or Blocked</b> tabs, depending on the requirements.
+</div>  
 
 ### Blocked  
 
@@ -121,15 +125,19 @@ In this case, the items will be sorted in ascending or descending order when you
 
 ## Cataloging items  
 
-All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](https://help.vtex.com/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
+All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
 
->⚠️ The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.  
+<div class="alert alert-warning">
+The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.
+</div>  
 
 ### Cataloging options
 
 To catalog an offer, access the **Received SKUs** page on the VTEX Admin by going to **Marketplace > Received SKUs** or typing **Received SKUs** in the Admin search bar.  
 
->ℹ️ All the offers on the Pending tab can be cataloged individually or in bulk.  
+<div class="alert alert-info">
+All the offers on the Pending tab can be cataloged individually or in bulk.
+</div>  
 
 The available cataloging actions are: 
 
@@ -157,7 +165,9 @@ Creates a new SKU in the catalog and, consequently, a new product. We recommend 
 
 ![received-skus-create-new-product-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_5.png)
 
->ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.
+<div class="alert alert-info">
+This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
+</div>
 
 #### Link to an existing product  
 
@@ -176,7 +186,9 @@ Imagine that a marketplace already has the White Shirt SKU in S, M, and L, and a
 
 Creating a new link groups the new sizes with the existing ones. After this, the product will have XS, S, M, L, and XL as available sizes.  
 
->ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.  
+<div class="alert alert-info">
+This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
+</div>  
 
 #### Link to an existing SKU  
 
@@ -194,7 +206,9 @@ A possible use case would be a marketplace that has Phone XYZ with a 128 GB memo
 
 Now, let's say the marketplace received the same 128 GB SKU from Seller 2. To avoid duplicates in the catalog, the marketplace would have to link these two SKUs.  
 
->ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.  
+<div class="alert alert-info">
+This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
+</div>  
 
 #### Block  
 
@@ -209,7 +223,9 @@ Blocks the selected offers. This will prevent them from being automatically proc
 
 When the marketplace blocks a SKU, it won't be included with other submitted offers the next time that the seller sends products. A SKU can be unblocked using a REST API if the marketplace wants to receive it as a suggestion from the seller. To learn more about SKU approval, see [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
->ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**. Blocked offers can be viewed in the **Blocked** tab.  
+<div class="alert alert-info">
+This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>. Blocked offers can be viewed in the <b>Blocked</b> tab.
+</div>  
 
 #### Reject for correction  
 
@@ -222,7 +238,9 @@ Rejects the offer and sends an information correction request to the seller. To 
 
 ![received-skus-reject-for-correction-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_9.png)
 
->ℹ️ This action can be applied in the offer tab **Pending**. The offers that need correction will show in the **Issues** tab.  
+<div class="alert alert-info">
+<p>This action can be applied in the offer tab <b>Pending</b>. The offers that need correction will show in the <b>Issues</b> tab.</p>
+</div>  
 
 #### Automatic approval  
 

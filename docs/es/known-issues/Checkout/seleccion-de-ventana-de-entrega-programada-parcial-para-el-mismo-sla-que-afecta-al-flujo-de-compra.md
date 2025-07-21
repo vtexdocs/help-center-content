@@ -1,5 +1,5 @@
 ---
-title: 'Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra'
+title: "Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra"
 id: 1xkpnp0vxR0O8sJYARcFJF
 status: PUBLISHED
 createdAt: 2022-08-11T18:41:25.906Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: partial-scheduled-delivery-window-selection-for-the-same-sla-affecting-the-purchase-flow
+slugEN: seleccion-de-ventana-de-entrega-programada-parcial-para-el-mismo-sla-que-afecta-al-flujo-de-compra
 locale: es
 kiStatus: Backlog
 internalReference: 627261
@@ -18,7 +18,9 @@ internalReference: 627261
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El cambio de dirección puede modificar las opciones de envío de un artículo y, naturalmente, puede eliminar la selección de la ventana de entrega para las entregas programadas si las opciones son diferentes.

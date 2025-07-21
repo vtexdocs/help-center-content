@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'O perfil de acesso Owner (Admin Super) não inclui mais o recurso Save user, ligado a ações de gerenciamento de usuários.'
 ---
 
-**Owner (Admin Super)** é um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que abarca praticamente todos os [recursos](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários para acessar informações e realizar tarefas no dia a dia da sua loja VTEX.
+**Owner (Admin Super)** é um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que abarca praticamente todos os [recursos](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários para acessar informações e realizar tarefas no dia a dia da sua loja VTEX.
 
 Buscando melhorar as práticas de segurança do nosso ecossistema, redefinimos as permissões padrão de usuários e chaves na plataforma. Chaves são equivalentes a senhas e devem ser protegidas na mesma proporção.
 
@@ -23,13 +23,13 @@ Estas medidas visam facilitar aos lojistas restringir o número de usuários que
 
 ## O que mudou?
 
-A partir de hoje, o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Super Admin)** não inclui mais o [recurso](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save user**. Isso significa que usuários que tenham apenas este perfil perderão a capacidade de:
-- [Criar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512).
-- Atribuir [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) a usuários.
-- Remover [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários.
-- [Editar dados de usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editando-usuarios).
-- Criar [chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
-- Alterar [chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+A partir de hoje, o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Super Admin)** não inclui mais o [recurso](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save user**. Isso significa que usuários que tenham apenas este perfil perderão a capacidade de:
+- [Criar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512).
+- Atribuir [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) a usuários.
+- Remover [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários.
+- [Editar dados de usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editando-usuarios).
+- Criar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+- Alterar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
 Além disso, a VTEX disponibiliza a partir de hoje o perfil de acesso **User Administrator - RESTRICTED**, que inclui apenas o recurso **Save user**, descrito acima.
 
@@ -53,17 +53,19 @@ Entretanto, recomendamos que revise os usuários da sua loja e remova o perfil *
 
 Usuários que, a partir de agora, venham a receber o perfil de acesso **Owner (Admin Super)** não terão o recurso **Save user** e não poderão realizar as suas ações associadas, como criação e alteração de usuários e chaves de aplicação.
 
-Caso deseje que algum usuário da sua loja possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que este usuário tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
+Caso deseje que algum usuário da sua loja possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que este usuário tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
 
 ### Chaves de aplicação
 
-Chaves de aplicação com o perfil de acesso **Owner (Admin Super)** não receberão o perfil **User Administrator - RESTRICTED** automaticamente. Portanto, caso deseje que alguma chave de aplicação possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que esta chave tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
+Chaves de aplicação com o perfil de acesso **Owner (Admin Super)** não receberão o perfil **User Administrator - RESTRICTED** automaticamente. Portanto, caso deseje que alguma chave de aplicação possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que esta chave tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
 
->⚠️ Note que, com as mudanças descritas acima, chaves de aplicação não têm mais o recurso **Save user**, então um usuário com este recurso deverá concedê-lo, caso seja necessário.
+<div class="alert alert-warning">
+Note que, com as mudanças descritas acima, chaves de aplicação não têm mais o recurso <b>Save user</b>, então um usuário com este recurso deverá concedê-lo, caso seja necessário.
+</div>
 
 ## Como proteger as chaves da sua loja?
 
-Siga as [boas práticas na utilização de chaves de aplicação](https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
+Siga as [boas práticas na utilização de chaves de aplicação](/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
 
 Incidentes ocorrem quando as chaves de aplicação de nossos clientes ficam expostas na internet ou são capturadas através de phishing. O vazamento dessas chaves pode ter diversas causas, como, por exemplo:
 
@@ -79,9 +81,9 @@ Reforçamos a todos a importância de alterar periodicamente todas as senhas de 
 ## Saiba mais
 
 Confira as seguintes documentações para saber mais sobre a gestão de usuários e permissões na sua loja:
-- [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-- [Recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
-- [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)
-- [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
-- [Boas práticas na utilização de chaves de aplicação](https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
+- [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
+- [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+- [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+- [Boas práticas na utilização de chaves de aplicação](/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
 

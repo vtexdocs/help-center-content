@@ -1,5 +1,5 @@
 ---
-title: 'problemas de b-mail com Fila/Umbro'
+title: "problemas de b-mail com Fila/Umbro"
 id: 1VOox8HJ95ayn3RkvjkmR1
 status: PUBLISHED
 createdAt: 2022-04-20T15:34:48.933Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: bmail-problems-with-filaumbro
+slugEN: problemas-de-bmail-com-filaumbro
 locale: pt
 kiStatus: Backlog
 internalReference: 392798
@@ -18,7 +18,9 @@ internalReference: 392798
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

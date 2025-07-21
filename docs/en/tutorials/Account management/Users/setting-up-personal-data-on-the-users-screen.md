@@ -48,6 +48,6 @@ You only need to enable this setting if you wish to receive the authentication c
 
 Here you must configure the application that will provide the authentication key.
 
-See in detail how to configure the application in the article on [Enabling two-factor authentication login](https://help.vtex.com/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
+See in detail how to configure the application in the article on [Enabling two-factor authentication login](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
 
 ![Configuration 2-step User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_6.png)

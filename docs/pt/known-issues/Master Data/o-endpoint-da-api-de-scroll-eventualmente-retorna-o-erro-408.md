@@ -1,5 +1,5 @@
 ---
-title: 'O endpoint da API de Scroll eventualmente retorna o erro 408'
+title: "O endpoint da API de Scroll eventualmente retorna o erro 408"
 id: 4d05lBhLsBSgDknxAWaL1A
 status: PUBLISHED
 createdAt: 2019-06-12T18:05:38.623Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: master-datas-scroll-endpoint-sometimes-returns-a-408-error
+slugEN: o-endpoint-da-api-de-scroll-eventualmente-retorna-o-erro-408
 locale: pt
 kiStatus: Backlog
 internalReference: 

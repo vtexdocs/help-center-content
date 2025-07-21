@@ -1,5 +1,5 @@
 ---
-title: 'Algunas funciones de gestión de inventario no funcionan correctamente en las cuentas del portal del vendedor'
+title: "Algunas funciones de gestión de inventario no funcionan correctamente en las cuentas del portal del vendedor"
 id: uJ4qws662c8pUnyfOV1fV
 status: PUBLISHED
 createdAt: 2024-03-18T17:54:20.400Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: some-inventory-management-features-not-working-properly-on-seller-portal-accounts
+slugEN: algunas-funciones-de-gestion-de-inventario-no-funcionan-correctamente-en-las-cuentas-del-portal-del-vendedor
 locale: es
 kiStatus: Backlog
 internalReference: 1001665
@@ -18,7 +18,9 @@ internalReference: 1001665
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las funciones de gestión de inventario (como los enlaces a los productos) no se comportan como se espera en las cuentas del portal del vendedor. Esto ocurre porque este tipo de cuentas utilizan una versión diferente del catálogo.

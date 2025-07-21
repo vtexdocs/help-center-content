@@ -1,5 +1,5 @@
 ---
-title: 'A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho'
+title: "A aplicação de um cupom remove a promoção inicial da campanha UTM do carrinho"
 id: 2A1S6PgEwD9SgQo1UHrFFS
 status: PUBLISHED
 createdAt: 2024-08-27T20:52:46.450Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart
+slugEN: a-aplicacao-de-um-cupom-remove-a-promocao-inicial-da-campanha-utm-do-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 1088010
@@ -18,7 +18,9 @@ internalReference: 1088010
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um bug em que a aplicação de um cupom aciona um conflito com uma promoção associada a uma `utm_campaign`. Quando uma promoção é ativada por uma `utm_campaign` específica e um cupom (que também tem sua própria configuração de `utm_campaign`) é adicionado, o cupom remove a promoção inicial. Apesar de a `utm_campaign` inicial permanecer no `orderForm`, a promoção inicial não é mais aplicada. A segunda promoção é acionada pelo cupom, não pelo UTM.

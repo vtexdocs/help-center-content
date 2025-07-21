@@ -1,24 +1,26 @@
 ---
-title: 'Produtos com preço zero mostrados como indisponíveis no Intelligent Search'
+title: "Produtos com preço zero mostrados como indisponíveis no Intelligent Search"
 id: 4oh4ROvCp7JrfWeSAc0dE0
 status: PUBLISHED
 createdAt: 2024-06-05T23:34:05.987Z
-updatedAt: 2024-06-05T23:34:07.147Z
-publishedAt: 2024-06-05T23:34:07.147Z
+updatedAt: 2025-03-21T18:49:01.897Z
+publishedAt: 2025-03-21T18:49:01.897Z
 firstPublishedAt: 2024-06-05T23:34:07.147Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: products-with-price-zero-shown-as-unavailable-at-intelligent-search
+slugEN: produtos-com-preco-zero-mostrados-como-indisponiveis-no-intelligent-search
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1045184
 ---
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os produtos com preço zero são mostrados como indisponíveis pela Pesquisa Inteligente. Diferentemente de um produto sem preço registrado, o preço definido como zero define um produto gratuito.

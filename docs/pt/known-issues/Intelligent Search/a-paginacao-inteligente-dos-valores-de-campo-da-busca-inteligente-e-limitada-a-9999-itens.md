@@ -1,5 +1,5 @@
 ---
-title: 'A paginação inteligente dos valores de campo da Busca Inteligente é limitada a 9.999 itens'
+title: "A paginação inteligente dos valores de campo da Busca Inteligente é limitada a 9.999 itens"
 id: 1AH9HOWWqOnENncdxIBszv
 status: PUBLISHED
 createdAt: 2022-03-21T17:42:26.464Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-searchs-pagination-of-field-values-is-limited-to-9999-items
+slugEN: a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens
 locale: pt
 kiStatus: Backlog
 internalReference: 428486
@@ -18,7 +18,9 @@ internalReference: 428486
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Intelligent Search tem um problema com a paginação de valores. Isto resulta em alguns valores não serem exibidos ao selecioná-lo em um filtro de condições, como as condições das Regras de Merchandising, por exemplo. Se o campo selecionado contiver mais de 9.999 valores, somente os primeiros 9.999 serão exibidos no dropdown de visualização.

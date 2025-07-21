@@ -28,7 +28,7 @@ The articles listed below are intended to explain in detail the process of prici
 
 The new price list consists of: a list of products with their base prices; rules for modifying product prices according to Commercial Policies; rules for rounding up or down price; and a section on general configurations.
 
-- [Adding Price Tables](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
-- [Price rule](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
+- [Adding Price Tables](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
+- [Price rule](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
 - [Rounding Rules](/en/tutorial/psychological-price-v2/)
-- [Price Configuration](https://help.vtex.com/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN)
+- [Price Configuration](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN)

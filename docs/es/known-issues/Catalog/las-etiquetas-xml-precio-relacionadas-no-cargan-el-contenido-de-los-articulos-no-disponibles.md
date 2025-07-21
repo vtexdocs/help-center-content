@@ -1,5 +1,5 @@
 ---
-title: 'Las etiquetas XML <precio> relacionadas no cargan el contenido de los artículos no disponibles'
+title: "Las etiquetas XML <precio> relacionadas no cargan el contenido de los artículos no disponibles"
 id: 7u2WDGV9FJl4fXwfOhRx8N
 status: PUBLISHED
 createdAt: 2024-01-31T19:11:20.119Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-price-related-tags-do-not-load-contents-for-unavailable-items
+slugEN: las-etiquetas-xml-precio-relacionadas-no-cargan-el-contenido-de-los-articulos-no-disponibles
 locale: es
 kiStatus: Backlog
 internalReference: 974722
@@ -18,7 +18,9 @@ internalReference: 974722
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La integración XML carga cualquier etiqueta relacionada con el precio, como minPrice, maxPrice, currentPrice, se cargan como una etiqueta de valor nulo (<![CDATA[]]>) cuando el artículo no está disponible y también se establece para mostrar si no está disponible.

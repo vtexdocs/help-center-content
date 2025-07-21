@@ -21,5 +21,5 @@ Es común también que los comerciantes quieran realizar este tipo de evaluació
 
 ## ¿Qué se necesita hacer?
 
-Para realizar pruebas de seguridad en tu tienda, debes realizar una solicitud detallada y luego informar a VTEX de cualquier vulnerabilidad encontrada. Consulta este artículo para saber cómo [solicitar una evaluación de seguridad e informar de vulnerabilidades](https://help.vtex.com/es/tutorial/avaliacoes-de-seguranca-e-relatorios-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
+Para realizar pruebas de seguridad en tu tienda, debes realizar una solicitud detallada y luego informar a VTEX de cualquier vulnerabilidad encontrada. Consulta este artículo para saber cómo [solicitar una evaluación de seguridad e informar de vulnerabilidades](/es/tutorial/avaliacoes-de-seguranca-e-relatorios-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
 

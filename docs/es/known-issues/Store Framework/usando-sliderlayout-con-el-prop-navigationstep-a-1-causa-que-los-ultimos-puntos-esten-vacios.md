@@ -1,5 +1,5 @@
 ---
-title: 'Usando slider-layout con el prop navigationStep a 1 causa que los últimos puntos estén vacíos'
+title: "Usando slider-layout con el prop navigationStep a 1 causa que los últimos puntos estén vacíos"
 id: 28hbmflHNhAQmHN51Y6abX
 status: PUBLISHED
 createdAt: 2023-09-29T14:41:34.387Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: using-sliderlayout-with-the-prop-navigationstep-to-1-causes-last-dots-to-be-empty
+slugEN: usando-sliderlayout-con-el-prop-navigationstep-a-1-causa-que-los-ultimos-puntos-esten-vacios
 locale: es
 kiStatus: Backlog
 internalReference: 910125
@@ -18,7 +18,9 @@ internalReference: 910125
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando tenemos un bloque slider-layout con la prop `navigationStep` puesta a 1 y el `itemsPerPage` diferente de 1 el último punto estará vacío y no es posible borrarlo.

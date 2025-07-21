@@ -18,7 +18,9 @@ The **Payments** module is the system responsible for managing all actions regar
 
 Before we explore the features within VTEX Admin *Payments*, let's clarify some important concepts regarding the payment flow of an order. This process is performed by some actors within the Brazilian financial system, which make up the Payments module architecture.
 
->ℹ️ It is important to remember that each store has its own particularities and its own operation, which influence how to build your business' Payment module. To set up your cash flow, it is therefore crucial to keep in mind the real needs and purposes of the retailer and of the desired project.
+<div class="alert alert-info">
+It is important to remember that each store has its own particularities and its own operation, which influence how to build your business' Payment module. To set up your cash flow, it is therefore crucial to keep in mind the real needs and purposes of the retailer and of the desired project.
+</div>
 
 ## Gateway 
 
@@ -52,7 +54,7 @@ Therefore, the **sub-acquirer** can be considered an middleman between acquirer 
 
 Sub-acquirers examples: Paypal and PagSeguro.
 
-To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](https://help.vtex.com/en/tutorial/difference-between-acquires-sub-acquirers-and-gateways--1dyPJ3gQCCO4ea2o6OMgCi), check out our article.
+To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](/en/tutorial/difference-between-acquires-sub-acquirers-and-gateways--1dyPJ3gQCCO4ea2o6OMgCi), check out our article.
 
 ## Card brands
 Card brands are companies that are responsible for defining the business rules for purchases made with credit cards_, such as the number of installments you can split a payment on and the facilities in which it is accepted, nationally and internationally.
@@ -84,7 +86,7 @@ Anti-fraud examples: ClearSale and Konduto.
 ## PCI SSC certification
 PCI Security Standards Council is an open global forum for the continued development, enhancement, storage, dissemination and implementation of data protection security standards.
 
-[The VTEX platform has its own **PCI-certified** gateway](https://help.vtex.com/en/tutorial/what-is-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), meaning that data from all payments made in your store is protected according to the highest security standards.
+[The VTEX platform has its own **PCI-certified** gateway](/en/tutorial/what-is-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), meaning that data from all payments made in your store is protected according to the highest security standards.
 
-If you want to learn more about the concepts of gateway, acquirer, sub-acquirer, brand, issuing banks and anti-fraud, check out our [article on financial agents in Brazil](https://help.vtex.com/en/tutorial/financial-agents-explained--1dyPJ3gQCCO4ea2o6OMgCi).
+If you want to learn more about the concepts of gateway, acquirer, sub-acquirer, brand, issuing banks and anti-fraud, check out our [article on financial agents in Brazil](/en/tutorial/financial-agents-explained--1dyPJ3gQCCO4ea2o6OMgCi).
 

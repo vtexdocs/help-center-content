@@ -3,8 +3,8 @@ title: 'Configuring the integration'
 id: 2TTDtf6ZityqXzfPfnvJ3e
 status: PUBLISHED
 createdAt: 2024-10-23T17:17:07.710Z
-updatedAt: 2024-10-23T19:02:53.492Z
-publishedAt: 2024-10-23T19:02:53.492Z
+updatedAt: 2025-05-28T14:34:26.994Z
+publishedAt: 2025-05-28T14:34:26.994Z
 firstPublishedAt: 2024-10-23T19:01:15.353Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,4 +14,6 @@ trackId: eipXIoOCKRgTDkg1Z1C4a
 trackSlugEN: posthaus-integration
 ---
 
->⚠️ This is a regional exclusive content not applicable to english speaking countries.
+<div class="alert alert-warning">
+This is a regional exclusive content not applicable to english speaking countries.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Al evaluar un producto, él no se indiza, dejando la vitrina desfasada'
+title: "Al evaluar un producto, él no se indiza, dejando la vitrina desfasada"
 id: 1SdYr4o8G4uuq4yy8S002A
 status: PUBLISHED
 createdAt: 2017-08-10T17:41:52.600Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: when-evaluating-a-product-it-is-not-indexed-making-shelf-out-of-date
+slugEN: al-evaluar-un-producto-el-no-se-indiza-dejando-la-vitrina-desfasada
 locale: es
 kiStatus: Backlog
 internalReference: 

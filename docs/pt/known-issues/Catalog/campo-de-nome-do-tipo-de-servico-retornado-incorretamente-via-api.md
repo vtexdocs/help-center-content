@@ -1,5 +1,5 @@
 ---
-title: 'Campo de nome do tipo de serviço retornado incorretamente via API'
+title: "Campo de nome do tipo de serviço retornado incorretamente via API"
 id: 1FdozyiQb5DLe7TPICyCDR
 status: PUBLISHED
 createdAt: 2024-01-04T16:36:17.926Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: service-type-name-field-wrongly-returned-via-api
+slugEN: campo-de-nome-do-tipo-de-servico-retornado-incorretamente-via-api
 locale: pt
 kiStatus: Backlog
 internalReference: 961278
@@ -18,7 +18,9 @@ internalReference: 961278
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, as APIs do Catálogo de SKU não estão retornando corretamente o nome de um tipo de serviço. Em vez disso, está sendo retornado o nome do valor do serviço.

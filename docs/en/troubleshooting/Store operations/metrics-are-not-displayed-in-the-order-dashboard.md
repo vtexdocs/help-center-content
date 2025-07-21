@@ -36,7 +36,7 @@ Adjusting the comparison period can solve the issue by displaying relevant metri
 ![Dashboard - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/metrics-are-not-displayed-in-the-order-dashboard_2.png)
 
 ### Wait for information to be updated
-Please allow 10 to 80 minutes for the information to be updated on the dashboard. This period is necessary for the data to be processed and displayed correctly. For more information about the waiting time, see [Comparing periods](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete).
+Please allow 10 to 80 minutes for the information to be updated on the dashboard. This period is necessary for the data to be processed and displayed correctly. For more information about the waiting time, see [Comparing periods](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete).
 
 ### Check access permissions
-To view the information on the dashboard, make sure that your role contains the **Insights Metrics** [resource](https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). For more information about roles and how to configure them, see [Roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+To view the information on the dashboard, make sure that your role contains the **Insights Metrics** [resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). For more information about roles and how to configure them, see [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).

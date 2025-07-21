@@ -23,12 +23,12 @@ En caso necesario, puedes realizar una prueba de penetración independiente (con
 
 De manera resumida, el nuevo proceso para realizar pruebas de penetración consiste en:
 
-1. Solicitar la programación de una prueba abriendo un ticket para el [equipo de soporte](https://help.vtex.com/support?/cultureInfo=es-419) de VTEX.
+1. Solicitar la programación de una prueba abriendo un ticket para el [equipo de soporte](/support?/cultureInfo=es-419) de VTEX.
 2. Revisar y firmar el [acuerdo de confidencialidad](https://assets.ctfassets.net/alneenqid6w5/5iw8rN7CdSn7PHKvMMcO19/ab46ae4025d506e052dcef5974f9007f/Pentest_NDA_.zip) antes de ejecutar cualquier prueba.
 3. Compartir los resultados con el equipo de seguridad de VTEX una vez finalizada la prueba.
 
-Para más información sobre este procedimiento, consulta la guía [Pruebas de penetración y avisos de vulnerabilidad](https://help.vtex.com/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb).
+Para más información sobre este procedimiento, consulta la guía [Pruebas de penetración y avisos de vulnerabilidad](/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb).
 
 ## ¿Por qué realizamos este cambio?
 
-Hemos actualizado el procedimiento de pruebas de penetración para garantizar la seguridad de la plataforma y que las evaluaciones se realicen de forma segura, impidiendo [procedimientos no permitidos](https://help.vtex.com/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb#procedimientos-no-permitidos) y acciones que puedan perjudicar a nuestros clientes.
+Hemos actualizado el procedimiento de pruebas de penetración para garantizar la seguridad de la plataforma y que las evaluaciones se realicen de forma segura, impidiendo [procedimientos no permitidos](/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb#procedimientos-no-permitidos) y acciones que puedan perjudicar a nuestros clientes.

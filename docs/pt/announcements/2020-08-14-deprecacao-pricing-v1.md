@@ -3,8 +3,8 @@ title: 'Módulo Pricing V1 será descontinuado: atualize sua loja até Setembro'
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
-updatedAt: 2021-11-17T18:09:13.896Z
-publishedAt: 2021-11-17T18:09:13.896Z
+updatedAt: 2025-02-25T14:22:03.942Z
+publishedAt: 2025-02-25T14:22:03.942Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -73,9 +73,9 @@ Lojas que utilizam o Pricing V1 apenas para **gerenciamento de preços, sem util
 
 Para uma melhor performance e estabilidade da loja, a VTEX recomenda que os clientes revisem e atualizem suas APIs, mantendo-se sempre no versionamento mais recente.
 
-Porém, para a migração do Pricing V1, esta mudança é opcional. Você pode encontrar as rotas atualizadas da API na [nossa documentação](https://developers.vtex.com/reference/pricing-api-overview).
+Porém, para a migração do Pricing V1, esta mudança é opcional. Você pode encontrar as rotas atualizadas da API na [nossa documentação](https://developers.vtex.com/docs/api-reference/pricing-api).
 
-Saiba mais sobre as novas funcionalidades da versão atualizada do módulo de Preço acessando [nossa track de Preços](https://help.vtex.com/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
+Saiba mais sobre as novas funcionalidades da versão atualizada do módulo de Preço acessando [nossa track de Preços](/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
 
 Em caso de dúvidas, entre em contato com o Account Manager ou o Customer Success da sua conta, ou abra um ticket no [nosso Suporte](https://support.vtex.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fen-us%2Frequests).
 

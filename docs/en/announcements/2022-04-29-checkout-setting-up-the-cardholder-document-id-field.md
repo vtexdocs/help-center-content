@@ -29,7 +29,9 @@ Previously, when selecting a credit or debit card as a payment method on the Che
 
 Now, if the anti-fraud solution thinks that the **Cardholder Document** field is not necessary for their anti-fraud analysis, the retailer can go to the VTEX Admin and configure whether or not the field should be displayed at Checkout.
 
->ℹ️ The **Cardholder Document** field must be filled out with information that is specific to each country, such as CPF (Brazil) and Social Security Number (United States). The field name will be displayed differently at Checkout, depending on the country where the purchase is taking place.
+<div class = "alert alert-info">
+  The <b>Cardholder Document</b> field must be filled out with information that is specific to each country, such as CPF (Brazil) and Social Security Number (United States). The field name will be displayed differently at Checkout, depending on the country where the purchase is taking place.
+</div>
 
 ## Why did we make this change?
 
@@ -45,8 +47,10 @@ To check if the anti-fraud solutions configured in your store allow changing the
 
 ![cardholder document field](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-04-29-checkout-setting-up-the-cardholder-document-id-field_1.png)
 
->⚠️ If the **Cardholder document field** option is not available on the configuration screen of your anti-fraud solution provider, the **Cardholder document** field will still be displayed at Checkout in your store, and the customer will be required to fill it out.
+<div class = "alert alert-warning">
+  If the <b>Cardholder document field</b> option is not available on the configuration screen of your anti-fraud solution provider, the <b>Cardholder document</b> field will still be displayed at Checkout in your store, and the customer will be required to fill it out.
+</div>
 
-For more information about how to configure the visibility of this field on your store’s Checkout, see [Cardholder Document Configuration (Help Center)](https://help.vtex.com/en/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#cardholder-document-configuration).
+For more information about how to configure the visibility of this field on your store’s Checkout, see [Cardholder Document Configuration (Help Center)](/en/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#cardholder-document-configuration).
 
 For more information about the configuration set up internally by the anti-fraud solution, see [Cardholder Document Configuration (Developer Portal)](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).

@@ -1,5 +1,5 @@
 ---
-title: 'Na página Order Placed, o DataLayer captura apenas as informações do primeiro pagamento dentro da transação (transactionPaymentType)'
+title: "Na página Order Placed, o DataLayer captura apenas as informações do primeiro pagamento dentro da transação (transactionPaymentType)"
 id: 5cTy3dCZ6x7FNMKvBbc9s8
 status: PUBLISHED
 createdAt: 2023-01-04T21:06:17.111Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: authors_84
 tag: Order Management
-slugEN: on-the-order-placed-page-the-datalayer-only-captures-the-information-of-the
+slugEN: na-pagina-order-placed-o-datalayer-captura-apenas-as-informacoes-do-primeiro
 locale: pt
 kiStatus: No Fix
 internalReference: 727339
@@ -18,7 +18,9 @@ internalReference: 727339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Quando a compra é concluída, o cliente vai para a página conhecida como **Order Placed**, nesta página temos um **Indicar evento de captura de pedido***(`RequestType: "orderPlaced"`) de nossa plataforma que captura alguns detalhes do pedido e serve para alimentar a **DataLayer*** com informações.
 

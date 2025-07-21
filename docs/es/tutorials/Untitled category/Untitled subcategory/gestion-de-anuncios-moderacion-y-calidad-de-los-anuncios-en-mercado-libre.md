@@ -27,7 +27,7 @@ Cuando un anuncio tiene la etiqueta `moderación`, significa que no cumple con l
 
 Para ello, haz clic en el título del anuncio en **Marketplace > Mercado Libre > Gestión de anuncios**. Serás dirigido a la página de gestión de la moderación y de la calidad de los anuncios.
 
-En la página encontrará información sobre su anuncio. Para consultar qué oportunidades del catálogo de Mercado Livre están disponibles para su tienda, acceda a la documentación [Match de anuncios de Mercado Libre](https://help.vtex.com/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
+En la página encontrará información sobre su anuncio. Para consultar qué oportunidades del catálogo de Mercado Livre están disponibles para su tienda, acceda a la documentación [Match de anuncios de Mercado Libre](/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
 
 ## Calidad
 

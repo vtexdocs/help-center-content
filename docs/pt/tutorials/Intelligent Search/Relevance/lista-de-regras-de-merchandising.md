@@ -39,7 +39,7 @@ Para configurar uma regra de merchandising, clique em `+ Adicionar`. Saiba mais 
 
 #### Tipos de edição
 
-Existem dois tipos de edição para criar Regras de merchandising: o [Editor manual](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) e o [Editor visual](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
+Existem dois tipos de edição para criar Regras de merchandising: o [Editor manual](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) e o [Editor visual](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
 
 Veja a seguir as funcionalidades de cada editor:
 

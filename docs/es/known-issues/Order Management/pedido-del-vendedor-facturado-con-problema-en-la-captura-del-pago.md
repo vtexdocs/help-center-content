@@ -1,5 +1,5 @@
 ---
-title: 'Pedido del vendedor facturado con problema en la captura del pago'
+title: "Pedido del vendedor facturado con problema en la captura del pago"
 id: 59M66kN7D6qy8ErLnbdT9r
 status: PUBLISHED
 createdAt: 2024-01-29T16:51:46.993Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: sellers-order-invoiced-with-problem-in-the-payment-capture
+slugEN: pedido-del-vendedor-facturado-con-problema-en-la-captura-del-pago
 locale: es
 kiStatus: Backlog
 internalReference: 376646
@@ -18,7 +18,9 @@ internalReference: 376646
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Ahora mismo, tal y como está construida nuestra arquitectura, tanto el Vendedor como el Marketplace son dos entidades totalmente diferentes. Marketplace se encarga de recibir el dinero del cliente y el vendedor es responsable de toda la logística hasta el momento en que entrega los productos al cliente.

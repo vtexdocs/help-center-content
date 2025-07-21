@@ -1,5 +1,5 @@
 ---
-title: 'La publicación de MELI en Mercado Libre se detiene cuando se desactiva una SKU'
+title: "La publicación de MELI en Mercado Libre se detiene cuando se desactiva una SKU"
 id: 28DDIVafmZ7U5DzAXRs6Fu
 status: PUBLISHED
 createdAt: 2022-04-06T17:20:35.601Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-publication-in-mercado-libre-is-paused-when-a-sku-is-inactivated
+slugEN: la-publicacion-de-meli-en-mercado-libre-se-detiene-cuando-se-desactiva-una-sku
 locale: es
 kiStatus: Backlog
 internalReference: 557293
@@ -18,7 +18,9 @@ internalReference: 557293
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

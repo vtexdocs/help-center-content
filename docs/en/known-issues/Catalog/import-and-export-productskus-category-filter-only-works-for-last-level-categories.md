@@ -1,5 +1,5 @@
 ---
-title: 'Import and export Product/Skus category filter only works for last level categories'
+title: "Import and export Product/Skus category filter only works for last level categories"
 id: i7KO2Nw3puiniVTRbDJok
 status: PUBLISHED
 createdAt: 2022-03-25T17:49:45.769Z

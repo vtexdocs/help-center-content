@@ -1,5 +1,5 @@
 ---
-title: "Error 'Field Group not found in the category' when creating specification via API using group that belongs to parent category"
+title: 'Error "Field Group not found in the category" when creating specification via API using group that belongs to parent category'
 id: 2xkVJw4JcfdhgV1Ag2HdGu
 status: PUBLISHED
 createdAt: 2024-10-01T19:01:14.594Z

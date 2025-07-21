@@ -1,5 +1,5 @@
 ---
-title: 'As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal'
+title: "As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal"
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts
+slugEN: as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal
 locale: pt
 kiStatus: No Fix
 internalReference: 684464
@@ -18,7 +18,9 @@ internalReference: 684464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

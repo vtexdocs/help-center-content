@@ -1,5 +1,5 @@
 ---
-title: "FOB External Marketplace integrate an order (Erro code: 'FMT010')"
+title: 'FOB External Marketplace integrate an order (Erro code: "FMT010")'
 id: 3qzV4zJRkPIwQnAZuK5dWu
 status: PUBLISHED
 createdAt: 2022-02-25T16:33:49.641Z

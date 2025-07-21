@@ -15,7 +15,9 @@ legacySlug: criando-trigger-no-master-data
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->ℹ️ Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
+<div class="alert alert-info">
+<p>Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
+</div>
 
 Conceitualmente, trigger é um recurso de programação que executa uma ação específica sempre que um evento associado ocorre. No Master Data, um trigger é a configuração de um ou mais disparos (eventos) que são acionados quando uma determinada situação ocorre, baseada em diversas variáveis.
 
@@ -84,7 +86,7 @@ Siga as instruções a seguir para criar um trigger no Master Data v1:
 2. Clique na aba **Ativação**.
 3. Clique no botão `Adicionar`.
 4. Insira o **Nome** do trigger.
-5. Selecione a [entidade de dados](https://help.vtex.com/pt/tutorial/entidade-de-dados--tutorials_1265/ "entidade de dados") que irá disparar a ação do trigger.
+5. Selecione a [entidade de dados](/pt/tutorial/entidade-de-dados--tutorials_1265/ "entidade de dados") que irá disparar a ação do trigger.
 
    Após selecionar a entidade de dados, surgirão os demais campos de configuração.
 7. Selecione um status para o trigger, que pode ser **Ativo** ou **Desativado**.
@@ -121,7 +123,9 @@ Aqui, você deve definir as condições que vão disparar o(s) evento(s) configu
 
    ![filters-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20v1%20triggers/criando-trigger-no-master-data_2.png)
 
->ℹ️ O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.
+<div class="alert alert-info">
+  <p>O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.</p>
+</div>
 
 ### Agendar
 
@@ -165,5 +169,5 @@ Serão feitos os disparos de eventos para quando o registro não passar pelos fi
 
 ## Exemplos
 
-- [Configurar Carrinho Abandonado](https://help.vtex.com/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
+- [Configurar Carrinho Abandonado](/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
 

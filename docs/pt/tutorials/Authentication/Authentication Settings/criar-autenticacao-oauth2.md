@@ -21,7 +21,7 @@ Para alguns lojistas, existe a necessidade de criar uma autenticação adicional
 
 Por conta disso, a VTEX disponibiliza autenticação OAuth2 integrada ao VTEX ID.
 
->⚠️ Como este é um assunto com aspectos bastante técnicos, recomendamos o acompanhamento de um parceiro ou equipe de TI.
+<div class="alert alert-warning">Como este é um assunto com aspectos bastante técnicos, recomendamos o acompanhamento de um parceiro ou equipe de TI.</div>
 
 ## O que é OAuth2
 
@@ -156,7 +156,7 @@ Response:
 
 Assim que o serviço estiver desenvolvido e público na internet, todos os dados de configuração devem ser encaminhados à VTEX (via ticket de suporte) para que seja configurado o ambiente da loja e integrado ao VTEX ID, disponibilizando mais uma opção de login para seus clientes.
 
->ℹ️ Se você tiver múltiplas lojas (subcontas) listadas em **Configurações da conta > Gerenciamento da conta > Conta**, cada uma exigirá sua própria configuração de provedor de identidade OAuth2.
+<div class="alert alert-info">Se você tiver múltiplas lojas (subcontas) listadas em <strong>Configurações da conta > Gerenciamento da conta > Conta</strong>, cada uma exigirá sua própria configuração de provedor de identidade OAuth2.</div>
 
 Em resumo, são eles:
 

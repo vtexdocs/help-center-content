@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Sales App: Sales Performance'
 id: 7i4Elt835tatBM6iqZoc56
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-05-29T17:39:08.403Z
-updatedAt: 2023-06-01T00:18:47.651Z
-publishedAt: 2023-05-31T23:26:46.656Z
+updatedAt: 2025-02-07T18:43:10.804Z
+publishedAt: 2025-02-07T18:43:10.804Z
 firstPublishedAt: 2023-05-29T18:56:28.137Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,9 +19,9 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 You can access your store sales performance metrics by following the steps below:
 
-1. 	In Sales App, go to the main page.
-2. 	Click the <i class="fas fa-bars"></i> button.
-3. 	Click **Sales Performance**.
+1. In Sales App, go to the main page.
+2. Click the menu icon <i class="fas fa-bars" aria-hidden="true"></i>.
+3. Click **Sales Performance**.
 
 ![Sales Performance (Store)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Unified%20Commerce/VTEX%20Sales%20App/sales-app-sales-performance_1.png)
 

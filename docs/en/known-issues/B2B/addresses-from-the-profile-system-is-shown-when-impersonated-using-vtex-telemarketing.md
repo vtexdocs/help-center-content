@@ -1,5 +1,5 @@
 ---
-title: 'Addresses from the profile system is shown when impersonated using VTEX Telemarketing'
+title: "Addresses from the profile system is shown when impersonated using VTEX Telemarketing"
 id: 5fFacgD8grxKqJoOO2fwU7
 status: PUBLISHED
 createdAt: 2023-07-12T13:19:48.090Z

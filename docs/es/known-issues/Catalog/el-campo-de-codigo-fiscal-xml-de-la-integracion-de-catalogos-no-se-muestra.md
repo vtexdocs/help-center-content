@@ -1,5 +1,5 @@
 ---
-title: 'El campo de código fiscal XML de la integración de catálogos no se muestra'
+title: "El campo de código fiscal XML de la integración de catálogos no se muestra"
 id: 19Ubw33gsHcyIeMUQA3LGh
 status: PUBLISHED
 createdAt: 2024-05-10T14:28:22.117Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-integration-xml-fiscal-code-field-not-rendering
+slugEN: el-campo-de-codigo-fiscal-xml-de-la-integracion-de-catalogos-no-se-muestra
 locale: es
 kiStatus: Backlog
 internalReference: 1031109
@@ -18,7 +18,9 @@ internalReference: 1031109
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

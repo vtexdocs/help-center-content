@@ -1,5 +1,5 @@
 ---
-title: 'Ordenação de imagens ao fazer upload de uma nova versão não funcionando'
+title: "Ordenação de imagens ao fazer upload de uma nova versão não funcionando"
 id: 2Oq65YHU6uIQpQ5g8ZpjTE
 status: PUBLISHED
 createdAt: 2023-01-25T15:08:43.356Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: ordination-of-images-when-uploading-a-new-version-not-working
+slugEN: ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando
 locale: pt
 kiStatus: No Fix
 internalReference: 739814
@@ -18,7 +18,9 @@ internalReference: 739814
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O filtro de pedidos no editor CMS/Site quando se carrega uma nova imagem não está funcionando corretamente

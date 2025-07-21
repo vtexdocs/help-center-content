@@ -15,4 +15,4 @@ legacySlug: configurar-pagamento-com-tino
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Contenido bajo traducción.
+<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>

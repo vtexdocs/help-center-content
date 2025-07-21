@@ -1,5 +1,5 @@
 ---
-title: 'SkuServicoForm.aspx not listing Value Tables at first for a Value type'
+title: "SkuServicoForm.aspx not listing Value Tables at first for a Value type"
 id: 2QrjRVvJXiWmRXTYf8DrMK
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:32.216Z

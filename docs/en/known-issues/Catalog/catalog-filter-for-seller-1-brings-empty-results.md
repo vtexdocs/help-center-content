@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Filter for Seller = 1 brings Empty results'
+title: "Catalog Filter for Seller = 1 brings Empty results"
 id: 3BG6c5IPa7W950vCpTFY6H
 status: PUBLISHED
 createdAt: 2023-05-03T14:37:41.635Z

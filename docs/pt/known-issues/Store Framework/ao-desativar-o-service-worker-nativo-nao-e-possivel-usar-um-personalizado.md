@@ -1,5 +1,5 @@
 ---
-title: 'Ao desativar o service worker nativo, não é possível usar um personalizado'
+title: "Ao desativar o service worker nativo, não é possível usar um personalizado"
 id: 1GpzVam1nuGbrKR4Izx6D9
 status: PUBLISHED
 createdAt: 2023-03-14T18:20:55.443Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: when-disabling-native-service-worker-its-not-possible-to-use-a-custom-one
+slugEN: ao-desativar-o-service-worker-nativo-nao-e-possivel-usar-um-personalizado
 locale: pt
 kiStatus: Backlog
 internalReference: 770949
@@ -18,7 +18,9 @@ internalReference: 770949
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

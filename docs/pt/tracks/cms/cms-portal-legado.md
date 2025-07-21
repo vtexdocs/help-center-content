@@ -16,7 +16,7 @@ trackSlugPT: cms
 
 ## Layout
 
-A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
+A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
 
 ![CMS - Layout PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-portal-legado_1.png)
 
@@ -32,11 +32,11 @@ A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEq
 
 - **Product Cluster (Collections):** criar grupos de produtos. Você pode usar esse recurso para criar páginas de Campanhas ou de Coleções de Produtos com clusters de produtos específicos.
 
-- **Sites and Channels:** configurar [o binding da sua loja](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](https://help.vtex.com/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
+- **Sites and Channels:** configurar [o binding da sua loja](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
 
 ## Configurações
 
-A seção [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações relacionadas ao site da sua loja, como metadados, tags de SEO, tipos de arquivos, etc. 
+A seção [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações relacionadas ao site da sua loja, como metadados, tags de SEO, tipos de arquivos, etc. 
 
 ![CMS - Settings PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-portal-legado_2.png)
 
@@ -102,7 +102,7 @@ Há pastas que, embora não sejam tão importantes quanto as anteriores, costuma
 São elas:
 - `/sistema/buscavazia`: pasta para onde o usuário é direcionado caso a busca não encontre resultados.
 - `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erros de acordo com os códigos de status HTTP, tais como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
-- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas iguais à pasta busca. Para entender como funcionam páginas de marca, veja o artigo [Como funciona a busca da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex).
+- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas iguais à pasta busca. Para entender como funcionam páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex).
 
 ## Controles nativos da VTEX
 
@@ -116,34 +116,34 @@ Para adicionar um controle, basta colá-lo no código. O resultado será renderi
 
 ### Lista de controles nativos da VTEX
 
-Você pode conferir todos os controles nativos disponíveis e seus respectivos usos no artigo [Lista de controles para templates](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates).
+Você pode conferir todos os controles nativos disponíveis e seus respectivos usos no artigo [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates).
 
 ## Referências
 
-- [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [O que são templates?](https://help.vtex.com/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [O que é um web site?](https://help.vtex.com/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [O que são controles?](https://help.vtex.com/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [O que são layouts?](https://help.vtex.com/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [O que são prateleiras?](https://help.vtex.com/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [O que é binding?](https://help.vtex.com/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
+- [Configurações](/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM)
+- [O que são templates?](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
+- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+- [O que são controles?](/pt/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
+- [O que são layouts?](/pt/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
+- [O que são prateleiras?](/pt/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
+- [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ## Guides
-- **[Criar e editar um template de página](https://help.vtex.com/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
+- **[Criar e editar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
 
-- **[Associar um template a um layout](https://help.vtex.com/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Associe um template a um layout usando a pasta Sites e canais.
+- **[Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Associe um template a um layout usando a pasta Sites e canais.
 
-- **[Gerenciando placeholders](https://help.vtex.com/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Um placeholder é um trecho de código configurável que atende a condições definidas pela loja. Insira e configure um placeholder, por exemplo, um banner na sua loja.
+- **[Gerenciando placeholders](/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Um placeholder é um trecho de código configurável que atende a condições definidas pela loja. Insira e configure um placeholder, por exemplo, um banner na sua loja.
 
-- **[Usando controles nativos da VTEX](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Controles são trechos de código que você pode utilizar nos templates do seu site para realizar ações específicas, por exemplo, um controle em uma página de produto para exibir o nome do produto na tela.
+- **[Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Controles são trechos de código que você pode utilizar nos templates do seu site para realizar ações específicas, por exemplo, um controle em uma página de produto para exibir o nome do produto na tela.
 
-- **[Para que serve o Controle Customizado?](https://help.vtex.com/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
+- **[Para que serve o Controle Customizado?](/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
-- [Lista de controles para templates](https://help.vtex.com/pt/tutorial/list-of-controls-for-templates--tutorials_563)
-- [Controle de Busca - fulltextSearchBox](https://help.vtex.com/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Controle de destaque de coleção](https://help.vtex.com/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
-- [Controle de breadcrumb](https://help.vtex.com/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
-- [Controles do template de prateleira](https://help.vtex.com/pt/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
+- [Lista de controles para templates](/pt/tutorial/list-of-controls-for-templates--tutorials_563)
+- [Controle de Busca - fulltextSearchBox](/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
+- [Controle de destaque de coleção](/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
+- [Controle de breadcrumb](/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
+- [Controles do template de prateleira](/pt/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
 

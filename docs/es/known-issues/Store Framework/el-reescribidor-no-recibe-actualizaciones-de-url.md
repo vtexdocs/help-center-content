@@ -1,5 +1,5 @@
 ---
-title: 'El reescribidor no recibe actualizaciones de URL'
+title: "El reescribidor no recibe actualizaciones de URL"
 id: 4c3S9s57SzQCv8zv4L77Fu
 status: PUBLISHED
 createdAt: 2024-07-16T19:24:56.813Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: rewriter-is-not-receiving-url-updates
+slugEN: el-reescribidor-no-recibe-actualizaciones-de-url
 locale: es
 kiStatus: Backlog
 internalReference: 1066527
@@ -18,7 +18,9 @@ internalReference: 1066527
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se cambia/elimina una URL en el catálogo, la reescritura no recibe este cambio. Dado que la reescritura no recibe ninguna notificación al respecto, la URL sigue apuntando al tipo incorrecto, lo que también puede provocar problemas en el SI.

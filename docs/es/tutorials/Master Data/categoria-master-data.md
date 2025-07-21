@@ -3,7 +3,7 @@ title: 'Master Data'
 id: category-master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: category-master-data
@@ -43,13 +43,13 @@ locale: es
 
 ## Gestión de clientes
 
-- [Importar datos de clientes](https://help.vtex.com/es/docs/tutorials/importar-datos-de-clientes-brasil)
+- [Importar datos de clientes](https://help.vtex.com/es/docs/tutorials/importar-datos-de-clientes)
 - [Limitar acceso a la tienda por política comercial](https://help.vtex.com/es/docs/tutorials/limitar-acceso-la-politica-comercial-la-tienda)
 - [Agregar un registro en un formulario de Master Data](https://help.vtex.com/es/docs/tutorials/agregar-un-registro-en-un-formulario-de-master-data)
 - [Configurar los beneficios para empleados usando clusters de Master Data](https://help.vtex.com/es/docs/tutorials/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data)
 - [Crear clúster de clientes](https://help.vtex.com/es/docs/tutorials/como-crear-un-cluster-de-cliente)
 - [Editar un campo obligatório en Profile System de Master Data](https://help.vtex.com/es/docs/tutorials/edite-un-campo-obligatorio-en-profile-system-de-master-data)
-- [Customer and Address forms do not exist in multistores](https://help.vtex.com/es/docs/tutorials/formularios-cliente-y-direccion-no-existen-en-multitienda)
+- [Formularios Cliente y Dirección no existen en multitienda](https://help.vtex.com/es/docs/tutorials/formularios-cliente-y-direccion-no-existen-en-multitienda)
 - [Modificar la información de dirección de los clientes](https://help.vtex.com/es/docs/tutorials/como-modificar-la-informacion-de-direccion-de-los-clientes)
 - [Aprobación de clientes](https://help.vtex.com/es/docs/tutorials/aprobacion-de-clientes)
 

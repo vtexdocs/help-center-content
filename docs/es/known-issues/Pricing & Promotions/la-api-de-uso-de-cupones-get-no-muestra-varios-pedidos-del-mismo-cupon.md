@@ -1,5 +1,5 @@
 ---
-title: 'La API de uso de cupones GET no muestra varios pedidos del mismo cupón.'
+title: "La API de uso de cupones GET no muestra varios pedidos del mismo cupón."
 id: 7B9Qlcx2XMGxWj9OB5Xl8n
 status: PUBLISHED
 createdAt: 2023-09-08T17:54:13.642Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: get-coupon-usage-api-doesnt-list-multiple-orders-for-the-same-coupon
+slugEN: la-api-de-uso-de-cupones-get-no-muestra-varios-pedidos-del-mismo-cupon
 locale: es
 kiStatus: Backlog
 internalReference: 326662
@@ -18,7 +18,9 @@ internalReference: 326662
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

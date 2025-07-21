@@ -25,4 +25,6 @@ And don't worry: this transition will not interfere on your daily routine, becau
 
 If you can't wait to try the __new Admin__, type `https://{AccountName}.myvtex.com/admin` in your browser, replacing _{AccountName}_ with your store's account name.
 
->⚠️ The legacy modules (Catalog, Master Data, and CMS) will keep redirecting to their external environments.
+<div class="alert alert-warning">
+The legacy modules (Catalog, Master Data, and CMS) will keep redirecting to their external environments.
+</div>

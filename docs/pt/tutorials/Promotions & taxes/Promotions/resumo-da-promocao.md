@@ -30,7 +30,7 @@ O resumo da promoção apresenta:
 Após revisar a promoção, clique em `Salvar` para ativá-la. Caso queira editar algum campo, clique em `Cancelar` e altere as informações desejadas.
 
 ## Dados gerais
-Nesta seção, você pode revisar as informações que foram configuradas na seção [Quais os dados gerais desta promoção?](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao) do formulário da promoção.
+Nesta seção, você pode revisar as informações que foram configuradas na seção [Quais os dados gerais desta promoção?](/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao) do formulário da promoção.
 
 - **Nome:** nome da promoção.
 - **Duração:** tempo válido da promoção.
@@ -39,22 +39,22 @@ Nesta seção, você pode revisar as informações que foram configuradas na se�
 - **Com destaque:** flag com o nome da promoção, utilizada na vitrine e na página de produto.
 
 ## Itens
-Aqui, são exibidos os itens selecionados na seção [Em quais itens esta promoção será aplicada?](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#2-em-quais-itens-esta-promocao-sera-aplicada) na configuração da promoção.
+Aqui, são exibidos os itens selecionados na seção [Em quais itens esta promoção será aplicada?](/pt/tutorial/promocao-regular--tutorials_327#2-em-quais-itens-esta-promocao-sera-aplicada) na configuração da promoção.
 
 - **Itens incluídos:** categorias, marcas, coleções, produtos ou SKUs que vão ter o desconto da promoção aplicado.
 - **Itens excluídos:** categorias, marcas, coleções , produtos ou SKUs que vão ser excluídos da promoção, o que faz ela ser válida para o restante do catálogo 
 
 ## Condições
-Nesta seção, as condições configuradas na parte [Quais as condições para a promoção ser válida?](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#3-quais-as-condicoes-para-a-promocao-ser-valida) da promoção são exibidas. O pedido do cliente deve atender às condições cadastradas nesta seção para ser válido na promoção.
+Nesta seção, as condições configuradas na parte [Quais as condições para a promoção ser válida?](/pt/tutorial/promocao-regular--tutorials_327#3-quais-as-condicoes-para-a-promocao-ser-valida) da promoção são exibidas. O pedido do cliente deve atender às condições cadastradas nesta seção para ser válido na promoção.
 
 ## Restrições
-Esta seção apresenta as [Restrições e limitações de uso](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso) configuradas na promoção.
+Esta seção apresenta as [Restrições e limitações de uso](/pt/tutorial/promocao-regular--tutorials_327#4-restricoes-e-limitacoes-de-uso) configuradas na promoção.
 
 ## Sellers
-Esta seção exibe quais sellers serão incluídos ou excluídos da promoção, conforme definido na opção de [Restringir esta promoção a produtos dos sellers](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#restringir-esta-promocao-a-produtos-dos-sellers) durante a configuração da promoção.
+Esta seção exibe quais sellers serão incluídos ou excluídos da promoção, conforme definido na opção de [Restringir esta promoção a produtos dos sellers](/pt/tutorial/promocao-regular--tutorials_327#restringir-esta-promocao-a-produtos-dos-sellers) durante a configuração da promoção.
 
 ## Política comercial
-Esta seção estabelece as políticas comerciais válidas para a promoção, definidas na parte de [Política Comercial](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327#politica-comercial) do formulário da promoção.
+Esta seção estabelece as políticas comerciais válidas para a promoção, definidas na parte de [Política Comercial](/pt/tutorial/promocao-regular--tutorials_327#politica-comercial) do formulário da promoção.
 
 ## Tipos de alertas
 O resumo da promoção pode exibir três tipos diferentes de alertas. Veja as descrições abaixo para entendê-los:

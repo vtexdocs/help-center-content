@@ -1,5 +1,5 @@
 ---
-title: 'Error de encoding en Mail App de Apple'
+title: "Error de encoding en Mail App de Apple"
 id: 1ppf3Edw6gSikk0KY44gmS
 status: PUBLISHED
 createdAt: 2018-06-26T17:54:35.967Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data,Message Center
-slugEN: encoding-error-in-apple-mail-app
+slugEN: error-de-encoding-en-mail-app-de-apple
 locale: es
 kiStatus: Backlog
 internalReference: 

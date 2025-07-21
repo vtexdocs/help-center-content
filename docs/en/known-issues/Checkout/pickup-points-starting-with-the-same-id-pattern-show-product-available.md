@@ -1,5 +1,5 @@
 ---
-title: 'Pick-up points starting with the same ID pattern show product available'
+title: "Pick-up points starting with the same ID pattern show product available"
 id: 1iCnOFHyKNTLvY20VS58HP
 status: PUBLISHED
 createdAt: 2024-01-10T16:01:39.766Z

@@ -1,5 +1,5 @@
 ---
-title: 'A solicitação de parcelas na porta de entrada de um comerciante que não o mercado é sempre feita com canal de vendas = 1'
+title: "A solicitação de parcelas na porta de entrada de um comerciante que não o mercado é sempre feita com canal de vendas = 1"
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-installments-request-at-the-gateway-to-a-merchant-other-than-the-marketplace-is-always-done-with-saleschannel-1
+slugEN: a-solicitacao-de-parcelas-na-porta-de-entrada-de-um-comerciante-que-nao-o-mercado-e-sempre-feita-com-canal-de-vendas-1
 locale: pt
 kiStatus: No Fix
 internalReference: 391197
@@ -18,7 +18,9 @@ internalReference: 391197
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os pedidos para obter parcelas externas na porta de entrada de um comerciante que não seja o mercado são sempre feitos com canal de vendas = 1.

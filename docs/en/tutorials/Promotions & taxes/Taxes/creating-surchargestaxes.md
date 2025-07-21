@@ -3,8 +3,8 @@ title: 'How to create surcharges/taxes'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2023-10-26T13:20:22.531Z
-publishedAt: 2023-10-26T13:20:22.531Z
+updatedAt: 2025-04-11T16:22:19.619Z
+publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,6 +18,10 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 A surcharge is the opposite of a promotion, that is, it is an additional percentage added to the product price in order to increase the value. A surcharge can be configured on the basis of a range of conditions, such as postal code (CEP) range, department, the brand of the products, the customer cluster, and so on. The surcharge is added only in the shopping cart, in the area marked **Tax**.
 
 The surcharge is applied in accordance with the registration done on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered on the admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
+
+<div class = "alert alert-info">
+Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate trade policy during configuration.
+</div>
 
 ## How to create them
 

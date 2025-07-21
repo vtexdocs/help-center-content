@@ -1,5 +1,5 @@
 ---
-title: 'Criação/Edição de Tipo de Lista não está funcionando'
+title: "Criação/Edição de Tipo de Lista não está funcionando"
 id: O7fwPOv0mymmwMiiauc6g
 status: PUBLISHED
 createdAt: 2017-08-21T15:37:40.240Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: creating-or-editing-list-type-does-not-work
+slugEN: criacaoedicao-de-tipo-de-lista-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 

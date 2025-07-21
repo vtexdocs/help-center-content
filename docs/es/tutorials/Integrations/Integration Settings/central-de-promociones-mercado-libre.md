@@ -3,8 +3,8 @@ title: 'Central de promociones Mercado Libre'
 id: 1LDJfpPipZ5t1RS6QowZtU
 status: PUBLISHED
 createdAt: 2024-10-17T16:50:33.863Z
-updatedAt: 2024-10-17T20:42:14.714Z
-publishedAt: 2024-10-17T20:42:14.714Z
+updatedAt: 2025-06-24T18:36:31.202Z
+publishedAt: 2025-06-24T18:36:31.202Z
 firstPublishedAt: 2024-10-17T20:42:14.714Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,7 @@ legacySlug: central-de-promociones-mercado-libre
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-En la página **Promociones** del menú de Mercado Libre en el Admin VTEX, los [sellers](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tienen acceso a una lista con todas las campañas promocionales de Mercado Libre. En esta página puedes consultar el **nombre, tipo y ID de las campañas, el plazo para incluir anuncios, el periodo de vigencia** y el **status.**  
+En la página **Promociones** del menú de Mercado Libre en el Admin VTEX, los [sellers](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tienen acceso a una lista con todas las campañas promocionales de Mercado Libre. En esta página puedes consultar el **nombre, tipo y ID de las campañas, el plazo para incluir anuncios, el periodo de vigencia** y el **status.**  
 
 Al hacer clic en una promoción de la lista, el seller utiliza la barra de búsqueda para encontrar anuncios registrados, ya sea por el **ID-MercadoLibre** o por **Nombre** del anuncio.  
 
@@ -72,7 +72,9 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. En la ventana emergente haz clic en el botón `Confirmar`.  
 
->ℹ️ Los anuncios removidos de la campaña aparecerán listados en la sección **Candidatos** y podrán incluirse nuevamente.
+<div class="alert alert-info">
+Los anuncios removidos de la campaña aparecerán listados en la sección <b>Candidatos</b> y podrán incluirse nuevamente.
+</div>
 
 ### Co-fondeada
 
@@ -143,7 +145,8 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. En la ventana emergente haz clic en el botón `Confirmar`.  
 
->ℹ️ Los anuncios removidos de la campaña no pueden volver a enviarse.
+<div class="alert alert-info">
+Los anuncios removidos de la campaña no pueden volver a enviarse.</div>
 
 ### Descuento por volumen
 
@@ -206,7 +209,9 @@ Cuando el status de la campaña cambie a **Activa**, todos los anuncios listados
 
 En la sección **Participando** se mostrarán los anuncios previamente configurados para participar en una campaña promocional cuyo status es **Activa**.  
 
->ℹ️ En este tipo de campaña no es posible remover los anuncios.
+<div class="alert alert-info">
+En este tipo de campaña no es posible remover los anuncios.
+</div>
 
 ### Oferta relámpago
 
@@ -235,7 +240,9 @@ Cuando el status de la campaña cambie a **Activa**, todos los anuncios listados
 
 En la sección **Participando** se mostrarán los anuncios previamente configurados para participar en una campaña promocional cuyo status es **Activa**.  
 
->ℹ️ En este tipo de campaña no es posible remover los anuncios si la campaña tiene el status **Activa**.
+<div class="alert alert-info">
+En este tipo de campaña no es posible remover los anuncios si la campaña tiene el status <b>Activa</b>.
+</div>
 
 ### Co-fondeada automatizada
 
@@ -333,7 +340,9 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.
 3. En la ventana emergente haz clic en el botón `Confirmar`.
 
->ℹ️ En este tipo de campaña, los anuncios removidos no pueden volver a incluirse.
+<div class="alert alert-info">
+En este tipo de campaña, los anuncios removidos no pueden volver a incluirse.
+</div>
 
 ### Campaña del vendedor
 
@@ -342,9 +351,22 @@ En el tipo **Campaña del vendedor** el seller define el tipo de descuento, el p
 - **Porcentaje fijo:** el seller define un porcentaje de descuento que se aplicará a todos los anuncios incluidos en la promoción.  
 - **Porcentaje flexible:** el seller puede definir un descuento diferente para cada anuncio incluido en la promoción.  
 
->ℹ️ El seller debe crear la campaña en la **Central de promociones** de Mercado Libre.
+Para crear una promoción del tipo **Campaña del vendedor** sigue los pasos a continuación:
 
-Después de crear la campaña en Mercado Libre, se mostrará en el Admin VTEX en **Marketplace > Mercado Libre > Promociones.** Al seleccionar una campaña del tipo **Campaña del vendedor**, el seller encontrará las siguientes tres secciones:  
+1. En el Admin VTEX, accede a **Marketplace > Mercado Libre > Promociones,** o ingresa **Promociones** en la barra de búsqueda.  
+2. Haz clic en el botón `Crear promoción`.  
+3. Haz clic en la opción **Campaña del vendedor.**  
+4. Llena los campos de la promoción descritos a continuación.  
+5. Haz clic en el botón Guardar.  
+
+| **Campo** | **Descripción** |
+|---|---|
+| Nombre | Ingresa un nombre para la campaña. |
+| Descuento | Escoge el tipo de descuento. Las opciones son **Diferente para cada anuncio** o **Igual para todos los anuncios**
+| Duración | Define la fecha de inicio y fin de la campaña. |
+
+Después de crearla, la campaña se mostrará en la lista del módulo de **Promociones,** y deberás incluir productos. 
+Al seleccionar la campaña creada, se presentan tres secciones diferentes.
 
 #### Candidatos
 
@@ -381,9 +403,26 @@ Los tipos de cupones disponibles son:
 - **Porcentaje fijo:** el seller define el porcentaje de descuento del cupón.  
 - **Valor fijo:** el seller define el valor del cupón en R$.  
 
->ℹ️ El seller debe crear la campaña en la **Central de promociones** de Mercado Libre.
+Para crear una promoción del tipo **Cupones del vendedor** sigue los pasos a continuación:
 
-Después de crear la campaña en Mercado Libre, se mostrará en el Admin VTEX accediendo a**Marketplace > Mercado Libre > Promociones. Al seleccionar una campaña del tipo **Cupones del vendedor**, el seller encontrará las siguientes tres secciones:  
+1. En el Admin VTEX, accede a **Marketplace > Mercado Libre > Promociones,** o ingresa **Promociones** en la barra de búsqueda.  
+2. Haz clic en el botón `Crear promoción`.  
+3. Haz clic en la opción **Cupones del vendedor.**  
+4. Llena los campos de la promoción descritos a continuación.  
+5. Haz clic en el botón Guardar.  
+
+| **Campo** | **Descripción** |
+|---|---|
+| Nombre | Ingresa un nombre para la campaña. |
+| Audiencia | Selecciona el público que podrá utilizar el cupón. |
+| Código de cupón | Crea un código para el cupón. |
+| Descuento | Selecciona el tipo de descuento. **Porcentaje** o **Valor fijo.** |
+| Valor mínimo de la compra | Define el valor mínimo de compra para aplicar el cupón.  |
+| Presupuesto disponible | Define el valor que se destinará a esta campaña. |
+| Duración | Define la fecha de inicio y fin de la campaña. |
+
+Después de crearla, la campaña se mostrará en la lista del módulo de **Promociones,** y deberás incluir productos. 
+Al seleccionar la campaña creada, se presentan tres secciones diferentes.
 
 #### Candidatos
 

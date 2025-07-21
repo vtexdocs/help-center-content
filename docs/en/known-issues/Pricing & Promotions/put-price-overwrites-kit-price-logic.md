@@ -1,10 +1,10 @@
 ---
-title: 'Put Price Overwrites KIT Price Logic'
+title: "Put Price Overwrites KIT Price Logic"
 id: 6eUXEJkxQUl6NCiFWrIiFw
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:02.848Z
-updatedAt: 2023-11-09T13:43:40.623Z
-publishedAt: 2023-11-09T13:43:40.623Z
+updatedAt: 2025-01-02T13:49:24.155Z
+publishedAt: 2025-01-02T13:49:24.155Z
 firstPublishedAt: 2022-06-28T16:56:03.203Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -38,6 +38,8 @@ However, there is currently a way to bypass this logic if the user insert a PUT 
 2. Check that the KIT price is set according to their logic mentioned above.
 3. Update the KIT price on the pricing module by inserting a PUT Price on the kit sku;
 4. Check that even when updating the price components and their quantities, the KIT price will remain as the put price set before.
+
+*important note: this also happens for changes directly in the pricing module admin after creating the kit. Essentially, the kit price is only corrected created according to the formula above upon its creation, but not for posterior updates.
 
 
 ##

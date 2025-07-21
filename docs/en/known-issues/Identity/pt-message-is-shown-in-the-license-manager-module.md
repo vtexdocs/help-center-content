@@ -1,5 +1,5 @@
 ---
-title: 'PT message is shown in the License Manager module'
+title: "PT message is shown in the License Manager module"
 id: 6nC0EfB2pO2pIyH9HEDDAP
 status: PUBLISHED
 createdAt: 2022-07-19T19:02:51.412Z

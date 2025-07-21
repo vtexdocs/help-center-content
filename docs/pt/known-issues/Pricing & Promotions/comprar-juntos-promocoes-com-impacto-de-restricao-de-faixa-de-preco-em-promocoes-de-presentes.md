@@ -1,5 +1,5 @@
 ---
-title: 'Comprar juntos promoções com impacto de restrição de faixa de preço em promoções de presentes'
+title: "Comprar juntos promoções com impacto de restrição de faixa de preço em promoções de presentes"
 id: 6tjViVNzlWgfLOLsUEtYSF
 status: PUBLISHED
 createdAt: 2022-10-11T19:54:05.862Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: buy-together-promotions-with-price-range-restriction-impact-in-gift-promotions
+slugEN: comprar-juntos-promocoes-com-impacto-de-restricao-de-faixa-de-preco-em-promocoes-de-presentes
 locale: pt
 kiStatus: Backlog
 internalReference: 676382
@@ -18,7 +18,9 @@ internalReference: 676382
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

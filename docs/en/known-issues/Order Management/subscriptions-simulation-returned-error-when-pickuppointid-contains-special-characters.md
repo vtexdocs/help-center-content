@@ -1,5 +1,5 @@
 ---
-title: 'Subscriptions simulation returned error when PickupPointID contains special characters'
+title: "Subscriptions simulation returned error when PickupPointID contains special characters"
 id: aM2So6TmVffZ1ywtQsknS
 status: PUBLISHED
 createdAt: 2023-09-19T17:31:47.442Z

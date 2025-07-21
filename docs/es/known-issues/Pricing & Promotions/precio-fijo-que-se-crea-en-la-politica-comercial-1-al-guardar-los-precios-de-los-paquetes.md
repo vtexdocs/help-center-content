@@ -1,5 +1,5 @@
 ---
-title: 'Precio fijo que se crea en la política comercial 1 al guardar los precios de los paquetes.'
+title: "Precio fijo que se crea en la política comercial 1 al guardar los precios de los paquetes."
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
+slugEN: precio-fijo-que-se-crea-en-la-politica-comercial-1-al-guardar-los-precios-de-los-paquetes
 locale: es
 kiStatus: No Fix
 internalReference: 705869
@@ -18,7 +18,9 @@ internalReference: 705869
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

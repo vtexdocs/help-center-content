@@ -1,5 +1,5 @@
 ---
-title: 'La aplicación de televenta no funciona correctamente con RequiresAuthenticationToLoadProfile'
+title: "La aplicación de televenta no funciona correctamente con RequiresAuthenticationToLoadProfile"
 id: 4L79woOuaUM2Ip5vG1Kp7D
 status: PUBLISHED
 createdAt: 2023-04-26T17:20:58.399Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile
+slugEN: la-aplicacion-de-televenta-no-funciona-correctamente-con-requiresauthenticationtoloadprofile
 locale: es
 kiStatus: Backlog
 internalReference: 797651
@@ -18,7 +18,9 @@ internalReference: 797651
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza el flag RequiresAuthenticationToLoadProfile de las APIs de checkout con una app de televenta para suplantar usuarios, no se está lanzando ningún tipo de feedback al usuario si la suplantación se ha realizado con éxito y provoca algunas inconsistencias en el flujo

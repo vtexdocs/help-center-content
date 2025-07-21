@@ -1,5 +1,5 @@
 ---
-title: 'A mudança de acessórios não está acionando a indexação'
+title: "A mudança de acessórios não está acionando a indexação"
 id: 5asLRh4ChyuSEg1mRwWbgT
 status: PUBLISHED
 createdAt: 2024-05-22T18:30:14.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: changing-accessories-is-not-triggering-indexation
+slugEN: a-mudanca-de-acessorios-nao-esta-acionando-a-indexacao
 locale: pt
 kiStatus: Backlog
 internalReference: 1037800
@@ -18,7 +18,9 @@ internalReference: 1037800
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o comerciante faz alterações ou adiciona novos acessórios à sku, o indexador não está sendo acionado automaticamente.

@@ -1,5 +1,5 @@
 ---
-title: 'Solicitud de código postal en bucle en el componente de vista previa del envío'
+title: "Solicitud de código postal en bucle en el componente de vista previa del envío"
 id: 6pcJyqvZ8u388xg04zJnnw
 status: PUBLISHED
 createdAt: 2022-07-25T16:47:46.301Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: postal-code-request-in-loop-in-the-shipping-preview-component
+slugEN: solicitud-de-codigo-postal-en-bucle-en-el-componente-de-vista-previa-del-envio
 locale: es
 kiStatus: Backlog
 internalReference: 352659
@@ -18,7 +18,9 @@ internalReference: 352659
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Después de alternar el código postal unas cuantas veces en el componente de vista previa de envío del carrito, el componente entra en un eterno bucle de peticiones de `/api/checkout/pub/postal-code//`

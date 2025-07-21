@@ -1,5 +1,5 @@
 ---
-title: 'Los controles heredados de plantillas de plazos y estanterías no tienen en cuenta los multiplicadores de unidades'
+title: "Los controles heredados de plantillas de plazos y estanterías no tienen en cuenta los multiplicadores de unidades"
 id: 1E0Co7ssCUAKAgxCzlJoVn
 status: PUBLISHED
 createdAt: 2024-02-08T13:39:40.663Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: legacy-installment-template-and-shelf-controls-do-not-consider-unit-multipliers
+slugEN: los-controles-heredados-de-plantillas-de-plazos-y-estanterias-no-tienen-en-cuenta-los-multiplicadores-de-unidades
 locale: es
 kiStatus: Backlog
 internalReference: 979205
@@ -18,7 +18,9 @@ internalReference: 979205
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, para la tienda que utiliza el CMS heredado, la plantilla heredada y los controles de estantería no se ajustan si el SKU tiene un multiplicador de unidades.

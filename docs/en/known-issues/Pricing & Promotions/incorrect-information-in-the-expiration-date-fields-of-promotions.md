@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect information in the Expiration Date fields of promotions'
+title: "Incorrect information in the Expiration Date fields of promotions"
 id: 1iyo8L4y8A4ygwUI9f8tHA
 status: PUBLISHED
 createdAt: 2022-07-05T17:19:07.753Z

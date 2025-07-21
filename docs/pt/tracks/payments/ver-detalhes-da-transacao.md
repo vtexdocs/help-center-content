@@ -54,4 +54,4 @@ Nessa área é possível ver cada mudança de status da transação, com o momen
 
 Ao ler a descrição de um evento de cancelamento, por exemplo, você pode descobrir quem foi o autor desse cancelamento, ou pode descobrir que foi o conector quem negou a autorização do pagamento.
 
-Leia o artigo __Visualizar detalhes da transação em Pedidos__ para consultar [exemplos de eventos registrados nessa timeline](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452#exemplos).
+Leia o artigo __Visualizar detalhes da transação em Pedidos__ para consultar [exemplos de eventos registrados nessa timeline](/pt/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452#exemplos).

@@ -1,5 +1,5 @@
 ---
-title: 'El control deslizante de la gama de precios adopta por defecto el valor mínimo después de seleccionar un filtro.'
+title: "El control deslizante de la gama de precios adopta por defecto el valor mínimo después de seleccionar un filtro."
 id: 15ABXMTT9cqieizxYWqC2V
 status: PUBLISHED
 createdAt: 2023-11-08T13:34:50.960Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: price-range-slider-defaults-to-minimum-value-after-selecting-a-filter
+slugEN: el-control-deslizante-de-la-gama-de-precios-adopta-por-defecto-el-valor-minimo-despues-de-seleccionar-un-filtro
 locale: es
 kiStatus: Backlog
 internalReference: 843442
@@ -18,7 +18,9 @@ internalReference: 843442
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Este es un rango de precios, es un deslizador y tiene dos selectores (marcadores), uno para el mínimo y otro para el máximo para saber dónde posicionarse en el deslizador.

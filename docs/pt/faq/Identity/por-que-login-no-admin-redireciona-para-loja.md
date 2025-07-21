@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-login-no-admin-redireciona-para-loja
 ---
 
-Este cenário acontece quando o email utilizado para fazer login no painel administrativo possui acesso a algum recurso de Televendas, configuração realizada através de [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete), no __Gerenciamento da conta__.
+Este cenário acontece quando o email utilizado para fazer login no painel administrativo possui acesso a algum recurso de Televendas, configuração realizada através de [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete), no __Gerenciamento da conta__.
 
 Os perfis de televendas bloqueiam o acesso ao __Catálogo__, ou seja, o usuário não consegue adicionar um produto, por exemplo. Se for necessário acessar esse módulo, o usuário deverá trabalhar com dois logins diferentes.
 

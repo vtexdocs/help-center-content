@@ -1,5 +1,5 @@
 ---
-title: 'O card do Facebook não salva algumas configurações'
+title: "O card do Facebook não salva algumas configurações"
 id: 4MTMozT5bmub7Y96TXCl09
 status: PUBLISHED
 createdAt: 2022-03-23T18:52:58.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: card-facebook-doesnt-save-some-settings
+slugEN: o-facebook-do-cartao-nao-salva-algumas-configuracoes
 locale: pt
 kiStatus: No Fix
 internalReference: 548763
@@ -18,7 +18,9 @@ internalReference: 548763
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O facebook do cartão não salva algumas configurações.

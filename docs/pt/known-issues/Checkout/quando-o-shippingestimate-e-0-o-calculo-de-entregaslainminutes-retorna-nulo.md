@@ -1,5 +1,5 @@
 ---
-title: 'Quando o shippingEstimate é = 0, o cálculo de entregaSlaInMinutes retorna nulo'
+title: "Quando o shippingEstimate é = 0, o cálculo de entregaSlaInMinutes retorna nulo"
 id: UGk2WYb3w3ZWH4pL07TNg
 status: PUBLISHED
 createdAt: 2022-02-01T13:04:45.737Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: when-shippingestimate-is-0-the-deliveryslainminutes-calculation-returns-null
+slugEN: quando-o-shippingestimate-e-0-o-calculo-de-entregaslainminutes-retorna-nulo
 locale: pt
 kiStatus: No Fix
 internalReference: 514835
@@ -18,7 +18,9 @@ internalReference: 514835
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No fluxo de checkout `deliverySlaInMinutes` delivery checkout juntamente com os detalhes da transação para o gateway, estes dados são calculados com base na `shippingEstimate` entregue pela logística, porém quando este valor entregue pela logística é = 0 a resposta de checkout para `deliverySlaInMinutes` é 0 zero, quando o correto seria 0; porém isto acaba afetando diretamente o fluxo desenvolvido pelo gateway para a anti-fraude;

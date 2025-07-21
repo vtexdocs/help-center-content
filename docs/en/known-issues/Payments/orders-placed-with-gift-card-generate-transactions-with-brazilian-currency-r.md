@@ -1,5 +1,5 @@
 ---
-title: 'Orders placed with Gift Card generate Transactions with Brazilian currency (R$)'
+title: "Orders placed with Gift Card generate Transactions with Brazilian currency (R$)"
 id: 6KbJ0z705zqqSfL9PiuLHj
 status: PUBLISHED
 createdAt: 2024-08-19T15:44:05.465Z

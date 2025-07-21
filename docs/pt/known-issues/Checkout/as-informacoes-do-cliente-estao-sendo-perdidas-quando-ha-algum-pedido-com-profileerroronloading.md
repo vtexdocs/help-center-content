@@ -1,5 +1,5 @@
 ---
-title: "As informações do cliente estão sendo perdidas quando há algum pedido com 'profileErrorOnLoading'"
+title: 'As informações do cliente estão sendo perdidas quando há algum pedido com "profileErrorOnLoading'
 id: 7B0eutLBOCKOun4iwALVpq
 status: PUBLISHED
 createdAt: 2023-06-27T12:51:33.790Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: customer-information-being-lost-when-it-has-some-order-with-profileerroronloading
+slugEN: as-informacoes-do-cliente-estao-sendo-perdidas-quando-ha-algum-pedido-com-profileerroronloading
 locale: pt
 kiStatus: Backlog
 internalReference: 340036
@@ -18,7 +18,9 @@ internalReference: 340036
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o pedido tem "profileErrorOnLoading=true", o comportamento esperado é que o perfil do cliente, o endereço e o cartão de crédito não sejam salvos/atualizados no Profile System.

@@ -14,4 +14,6 @@ trackId: AW7klkYMh557y5IUOgzco
 trackSlugPT: hub-de-extensoes
 ---
 
->⚠️ Conteúdo ainda não disponível.
+<div class="alert alert-warning">
+Conteúdo ainda não disponível.
+</div>

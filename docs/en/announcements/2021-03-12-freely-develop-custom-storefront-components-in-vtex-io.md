@@ -19,7 +19,9 @@ If your store is built using the [VTEX Store Framework](https://developers.vtex.
 
 From now on, **develop custom storefront components in [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io) using the VTEX Store Framework and [React](https://reactjs.org/) technologies** according to your business needs, without asking VTEX for permission. 
 
->ℹ️ Store Framework is the VTEX solution to build storefront in lightning speed. VTEX customers can leverage all its benefits by using the VTEX IO development platform. If you are not familiar with the VTEX IO yet, get in touch with your Customer Success, Account Manager or SI Partner Agency to know how to start!
+<div class="alert alert-info">
+Store Framework is the VTEX solution to build storefront in lightning speed. VTEX customers can leverage all its benefits by using the VTEX IO development platform. If you are not familiar with the VTEX IO yet, get in touch with your Customer Success, Account Manager or SI Partner Agency to know how to start! 
+</div>
 
 ## What changed?
 
@@ -27,7 +29,9 @@ Before,  developers interested in creating custom components using the VTEX Stor
 
 This is no longer required as **we officially move our React builder to open beta status**. You can take advantage of this autonomy to further customize and improve your storefront experience using React technology. 
 
->⚠️ <bold>This change applies only to the React builder.</bold> We continue to require that you fill in the [Application form for development](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io) and wait for our approval if your project depends on builders that are still in closed beta. This includes, for example, back-end integrations using Node.js and GraphQL.
+<div class="alert alert-warning">
+<bold>This change applies only to the React builder.</bold> We continue to require that you fill in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">Application form for development</a> and wait for our approval if your project depends on builders that are still in closed beta. This includes, for example, back-end integrations using Node.js and GraphQL.  
+</div>
 
 ## Why did we make this change?
 
@@ -37,5 +41,7 @@ We understand that VTEX IO has now reached enough maturity and stability as a de
 
 No actions are needed from your side. Keep in mind, however, that **VTEX does not provide support to custom components developed by third-parties**. Their maintenance, performance, and quality is under the responsibility of the app's vendor.
 
->ℹ️ Check out our documentation on [best practices for storefront component development](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-developing-custom-storefront-components)!
+<div class="alert alert-info">
+Check out our documentation on <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-developing-custom-storefront-components">best practices for storefront component development</a>!
+</div>
 

@@ -77,7 +77,7 @@ Esse processo é indicado quando a integração está com algum problema de aute
 1. No menu do Admin, clique em **Integrações**.
 2. Clique em **Configurações**.
 3. No box do Facebook, clique em **Integrar**.
-4. Preencha os campos exibidos na tela (veja [detalhamento dos campos](https://help.vtex.com/pt/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B)).
+4. Preencha os campos exibidos na tela (veja [detalhamento dos campos](/pt/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B)).
 5. Clique no botão **Salvar Configuração**.
 
 Após refazer a configuração, é muito importante que na etapa de autenticação com o Facebook seja concedida as permissões solicitadas pelo APP, sem exceções.
@@ -91,8 +91,8 @@ Nativamente, a plataforma oferece opções de login com Email e Senha e, também
 #### Faça o registro junto aos provedores
 Antes de configurar nossa integração de login com o Google e Facebook, é necessário criar credenciais de OAuth 2.0 (protocolo utilizado para integração) nesses serviços. Para fazer isso, siga as instruções nos artigos indicados abaixo:
 
-- [Facebook](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 #### Configure na sua loja
 Após a configuração no Facebook e/ou Google, é preciso configurar na sua loja a opção de login por esses dois provedores. Nos dois casos, você precisará ter em mãos o `Client ID` e o `Client Secret` cadastrados.

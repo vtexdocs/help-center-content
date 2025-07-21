@@ -3,8 +3,8 @@ title: 'Marketplace in Data Pipeline'
 id: 4L3hlSqsnxGqVyxmoYvjTV
 status: PUBLISHED
 createdAt: 2024-11-22T18:54:14.211Z
-updatedAt: 2024-11-22T20:17:59.186Z
-publishedAt: 2024-11-22T20:17:59.186Z
+updatedAt: 2025-03-07T11:30:02.324Z
+publishedAt: 2025-03-07T11:30:02.324Z
 firstPublishedAt: 2024-11-22T20:13:33.475Z
 contentType: tutorial
 productTeam: Channels
@@ -27,7 +27,7 @@ Neste artigo você encontra as seguintes informações:
 - [Análises com dados de marketplace in](#analises-com-dados-de-marketplace-in)  
 - [Correlação com outro dado](#correlacao-com-outros-dados)  
 
-#### Características dos Dados
+## Características dos Dados
 
 |**Características** | **Descrição**|
 |:---:|:---:|
@@ -36,7 +36,7 @@ Neste artigo você encontra as seguintes informações:
 |Histórico | O histórico de dados começa em setembro de 2024. Os dados são mantidos por dois anos a partir de 2024.|
 |Intervalo Mínimo de Atualização | Uma hora.|
 
-#### Tabela: sellers_latest
+## Tabela: sellers_latest
 
 Os campos da tabela são descritos abaixo:
 
@@ -58,7 +58,7 @@ main_account | character varying(100) | Nome da conta principal associada ao ven
 |updated_at | timestamp | Data da última atualização do vendedor.|
 |batch_id | character(13) | ID do lote onde esses dados chegaram. Permite saber quando esses dados foram entregues.|
 
-#### Tabela: sellers_inventory
+## Tabela sellers_inventory
 
 Os campos da tabela são descritos abaixo:
 
@@ -75,7 +75,7 @@ Os campos da tabela são descritos abaixo:
 |last_update | timestamp | Data da última atualização do inventário.|
 |batch_id | character(13) | ID do lote onde esses dados chegaram. Permite saber quando esses dados foram entregues.|
 
-#### Tabela: sellers_pricing
+## Tabela sellers_pricing
 
 Os campos da tabela são descritos abaixo:
 
@@ -93,7 +93,7 @@ Os campos da tabela são descritos abaixo:
 |last_date| date | Data e hora da última atualização do preço.|
 |batch_id | character(13) | ID do lote onde esses dados chegaram. Permite saber quando esses dados foram entregues.|
 
-#### Tabela: sellers_promotions
+## Tabela sellers_promotions
 
 Os campos da tabela são descritos abaixo:
 
@@ -118,7 +118,7 @@ Os campos da tabela são descritos abaixo:
 |is_first_buy| boolean | Indica se a promoção é válida apenas para a primeira compra do usuário.|
 |batch_id | character(13) | ID do lote onde esses dados chegaram. Permite saber quando esses dados foram entregues.|
 
-#### Tabela: sellers_orders
+## Tabela sellers_orders
 
 Os campos da tabela são descritos abaixo:
 
@@ -143,7 +143,7 @@ Os campos da tabela são descritos abaixo:
 |shippingdata_address_state | character varying(65535) | Estado de envio do pedido.|
 |shippingdata_address_country | character varying(65535) | País de envio do pedido.|
 
-#### Análises com dados de marketplace in
+## Análises com dados de marketplace in
 
 Algumas das análises que podem ser feitas usando a tabela de preços são mencionadas abaixo:  
 
@@ -151,17 +151,18 @@ Algumas das análises que podem ser feitas usando a tabela de preços são menci
 - **Principais vendedores:** Analisar os vendedores com o maior número de pedidos e seus respectivos valores brutos de mercadorias (GMV).  
 - **Inventário do vendedor:** Revisar o inventário de cada vendedor ativo.  
 
-#### Correlação com outro dado
+## Correlação com outro dado
 
 Os dados de Marketplace in estão intimamente ligados aos dados de pedidos, proporcionando uma análise mais profunda de compras e vendas. Um exemplo é analisar dados de pedidos em conjunto com esta tabela oferece insights ainda mais valiosos sobre os detalhes dos pedidos feitos por cada vendedor.
 
-__Conheça outros Conjuntos de dados__  
+### Conheça outros Conjuntos de dados  
 
-[Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-[Navegação](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
-[Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-[Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-[Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-[Promoções](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-[Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-[Logs do bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
+- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
+- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promoções](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

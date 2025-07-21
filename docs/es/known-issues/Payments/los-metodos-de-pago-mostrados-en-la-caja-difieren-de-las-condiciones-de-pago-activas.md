@@ -1,5 +1,5 @@
 ---
-title: 'Los métodos de pago mostrados en la caja difieren de las condiciones de pago activas.'
+title: "Los métodos de pago mostrados en la caja difieren de las condiciones de pago activas."
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: payment-methods-displayed-at-checkout-differ-from-active-payment-conditions
+slugEN: los-metodos-de-pago-mostrados-en-la-caja-difieren-de-las-condiciones-de-pago-activas
 locale: es
 kiStatus: Backlog
 internalReference: 666469
@@ -18,7 +18,9 @@ internalReference: 666469
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Este KI se manifiesta de dos maneras en la caja:

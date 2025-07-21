@@ -1,5 +1,5 @@
 ---
-title: 'O comerciante não consegue abrir uma conta para alguns clientes na API de crédito ao cliente'
+title: "O comerciante não consegue abrir uma conta para alguns clientes na API de crédito ao cliente"
 id: 4NGCingtQxzFV1gMbxFzT1
 status: PUBLISHED
 createdAt: 2023-09-25T13:22:58.063Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: merchant-not-being-able-to-open-account-for-some-clients-in-customer-credit-api
+slugEN: o-comerciante-nao-consegue-abrir-uma-conta-para-alguns-clientes-na-api-de-credito-ao-cliente
 locale: pt
 kiStatus: Backlog
 internalReference: 906509
@@ -18,7 +18,9 @@ internalReference: 906509
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Por algum motivo, ao tentar abrir uma nova conta para clientes específicos por meio da API, ele retorna o seguinte erro:

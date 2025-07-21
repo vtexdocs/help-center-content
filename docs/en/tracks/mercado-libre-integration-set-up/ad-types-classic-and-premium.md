@@ -14,4 +14,4 @@ trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>

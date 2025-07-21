@@ -1,5 +1,5 @@
 ---
-title: 'Co-branded saved card with wrong payment system id'
+title: "Co-branded saved card with wrong payment system id"
 id: 1tyihmnbb7FQTr7fQWGaNy
 status: PUBLISHED
 createdAt: 2023-05-29T14:13:00.727Z

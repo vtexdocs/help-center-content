@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de exportar mais de 65.536 linhas no CMS Builder'
+title: "Incapaz de exportar mais de 65.536 linhas no CMS Builder"
 id: 1ayifXtoKBxlyVsN5OTysW
 status: PUBLISHED
 createdAt: 2021-12-22T20:26:09.950Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: unable-to-export-more-than-65536-lines-in-cms-builder
+slugEN: incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder
 locale: pt
 kiStatus: Backlog
 internalReference: 492861
@@ -18,7 +18,9 @@ internalReference: 492861
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Incapaz de exportar mais de 65.536 linhas em CMS Builder (.xls limite de linha)

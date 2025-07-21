@@ -1,5 +1,5 @@
 ---
-title: 'Campo NIF no checkout de Portugal permite caracteres especiais e provoca problema no fluxo do pedido'
+title: "Campo NIF no checkout de Portugal permite caracteres especiais e provoca problema no fluxo do pedido"
 id: 5xQ3fPZq4oUk8QsY0KUEYm
 status: PUBLISHED
 createdAt: 2018-03-28T12:47:56.181Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: nif-field-at-checkout-in-portugal-allows-special-characters-and-causes-problem-in-order-flow
+slugEN: campo-nif-no-checkout-de-portugal-permite-caracteres-especiais-e-provoca-problema-no-fluxo-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 

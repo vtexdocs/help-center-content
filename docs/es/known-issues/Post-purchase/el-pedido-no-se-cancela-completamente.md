@@ -1,5 +1,5 @@
 ---
-title: 'El pedido no se cancela completamente '
+title: "El pedido no se cancela completamente"
 id: 5rEjHAKKVHQWbgkTpEBreV
 status: PUBLISHED
 createdAt: 2021-09-15T15:03:40.366Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-isnt-fully-canceled
+slugEN: el-pedido-no-se-cancela-completamente
 locale: es
 kiStatus: Backlog
 internalReference: 

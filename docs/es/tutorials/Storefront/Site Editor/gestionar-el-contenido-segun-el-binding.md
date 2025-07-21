@@ -27,5 +27,7 @@ A través de la sección Storefront del Admin, VTEX le permite personalizar su t
 
 4. Cree, actualice o elimine contenido para el *binding* y región predefinidos y guarde los cambios. 
 
->⚠️ Mientras edita contenido en un bloque, no puede cambiar los datos de <i>binding</i> ni configuración regional: los campos estarán bloqueados. Si desea cambiarlos, guarde o descarte los cambios y vuelva a la página de inicio de Site Editor.
+<div class="alert alert-warning">
+Mientras edita contenido en un bloque, no puede cambiar los datos de <i>binding</i> ni configuración regional: los campos estarán bloqueados. Si desea cambiarlos, guarde o descarte los cambios y vuelva a la página de inicio de Site Editor.
+</div>
 

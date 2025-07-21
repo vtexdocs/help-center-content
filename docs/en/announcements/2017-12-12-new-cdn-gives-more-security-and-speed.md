@@ -26,11 +26,9 @@ Some of the advantages of using a CDN are:
 
 And with HTTP/2 support you have access to a series of other improvements.
 
->⚠️ **All VTEX stores have to migrate** to the new CDN.
->
-> 
->
-> Check out [in this article ](http://help.vtex.com/en/tutorial/activating-new-vtex-cdn) how to perform this migration.
+<div class = "alert alert-warning">
+<strong>All VTEX stores have to migrate</strong> to the new CDN.<br><br>Check out <a href="http://help.vtex.com/en/tutorial/activating-new-vtex-cdn">in this article </a> how to perform this migration.
+</div>
 
 There are no risks or contraindications to joining the new model.
 

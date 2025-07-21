@@ -1,5 +1,5 @@
 ---
-title: 'Informações indexadas desatualizadas ao realizar duas alterações de produto em uma linha.'
+title: "Informações indexadas desatualizadas ao realizar duas alterações de produto em uma linha."
 id: 66aX8MktRogeUD9bbTo0vF
 status: PUBLISHED
 createdAt: 2023-09-26T14:44:57.146Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: outdated-indexed-information-when-performing-2-product-changes-in-a-row
+slugEN: informacoes-indexadas-desatualizadas-ao-realizar-duas-alteracoes-de-produto-em-uma-linha
 locale: pt
 kiStatus: No Fix
 internalReference: 907428
@@ -18,7 +18,9 @@ internalReference: 907428
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para lojas que usam o mecanismo de pesquisa legado, se duas alterações nos dados de um produto forem feitas em uma sucessão rápida (ou seja, você inativou um produto e o reativou logo em seguida) e a última alteração retornar as informações do produto para o que era antes, o estado desse item pode ficar preso na primeira alteração, pois a última não é reconhecida corretamente.

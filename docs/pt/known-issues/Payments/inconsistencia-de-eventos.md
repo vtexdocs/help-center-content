@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistência de eventos'
+title: "Inconsistência de eventos"
 id: 2YnhehJXuJcsy3f3Rezn6X
 status: PUBLISHED
 createdAt: 2022-06-20T23:00:31.430Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: event-inconsistency
+slugEN: inconsistencia-de-eventos
 locale: pt
 kiStatus: Fixed
 internalReference: 267299
@@ -18,7 +18,9 @@ internalReference: 267299
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

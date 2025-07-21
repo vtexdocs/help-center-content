@@ -1,5 +1,5 @@
 ---
-title: 'Peso de SKU KIT divergente entre simulación de flete y registro (admin)'
+title: "Peso de SKU KIT divergente entre simulación de flete y registro (admin)"
 id: 4YAWHxWpPOAoyi0O8MuEeC
 status: PUBLISHED
 createdAt: 2017-09-29T12:52:49.738Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sku-kit-weight-differs-between-shipping-simulation-and-registration-admin
+slugEN: peso-de-sku-kit-divergente-entre-simulacion-de-flete-y-registro-admin
 locale: es
 kiStatus: Backlog
 internalReference: 

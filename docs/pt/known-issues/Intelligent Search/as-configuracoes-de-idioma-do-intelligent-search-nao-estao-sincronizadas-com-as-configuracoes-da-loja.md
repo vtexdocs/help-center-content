@@ -1,5 +1,5 @@
 ---
-title: 'As configurações de idioma do Intelligent Search não estão sincronizadas com as configurações da loja'
+title: "As configurações de idioma do Intelligent Search não estão sincronizadas com as configurações da loja"
 id: 1GqoAyUSbTxwHvzoMoAYfD
 status: PUBLISHED
 createdAt: 2024-02-27T21:30:40.309Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-language-settings-not-in-sync-with-store-configurations
+slugEN: as-configuracoes-de-idioma-do-intelligent-search-nao-estao-sincronizadas-com-as-configuracoes-da-loja
 locale: pt
 kiStatus: Backlog
 internalReference: 990343
@@ -18,7 +18,9 @@ internalReference: 990343
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O idioma principal da Pesquisa Inteligente não é atualizado automaticamente de acordo com a política comercial e as configurações de vinculação, o que o torna fora de sincronia.

@@ -1,5 +1,5 @@
 ---
-title: 'Exportar o CSV no módulo de desempenho de vendas'
+title: "Exportar o CSV no módulo de desempenho de vendas"
 id: 7qnlFfnImq7N6Nrz0xIT8L
 status: PUBLISHED
 createdAt: 2023-05-11T13:42:36.411Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slugEN: export-the-csv-in-the-sales-performance-module
+slugEN: exportar-o-csv-no-modulo-de-desempenho-de-vendas
 locale: pt
 kiStatus: Backlog
 internalReference: 823878
@@ -18,7 +18,9 @@ internalReference: 823878
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Estamos tendo problemas ao tentar exportar o CSV no módulo de desempenho de vendas.

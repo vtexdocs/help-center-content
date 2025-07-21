@@ -1,5 +1,5 @@
 ---
-title: 'Export lots of products/SKUs takes long time and sometimes the request can not completed'
+title: "Export lots of products/SKUs takes long time and sometimes the request can not completed"
 id: 4MBgn0t3jm698ZkkcF1o5G
 status: PUBLISHED
 createdAt: 2022-01-21T14:33:34.881Z

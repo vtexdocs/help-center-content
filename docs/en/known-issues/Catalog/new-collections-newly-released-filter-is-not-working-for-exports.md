@@ -1,19 +1,19 @@
 ---
 title: "New Collections 'Newly Released' filter is not working for Exports"
-id: 5JAkYgWVz6pwLn17oQkuif
-status: DRAFT
-createdAt: 2022-05-11T13:58:31.619Z
-updatedAt: 2022-11-17T20:58:07.666Z
-publishedAt: 
-firstPublishedAt: 2022-05-11T13:58:32.467Z
+id: 7n6JZhsHxN8k27DUHOhgYg
+status: PUBLISHED
+createdAt: 2022-05-11T13:58:31.689Z
+updatedAt: 2024-07-01T18:48:19.827Z
+publishedAt: 2024-07-01T18:48:19.827Z
+firstPublishedAt: 2022-05-11T13:58:32.282Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: new-collections-newly-released-filter-is-not-working-for-exports
 locale: en
-kiStatus: Backlog
-internalReference: 
+kiStatus: No Fix
+internalReference: 576760
 ---
 
 ## Summary

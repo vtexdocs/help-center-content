@@ -1,5 +1,5 @@
 ---
-title: 'Legacy CMS does not create folders with less than 3 characters in the name'
+title: "Legacy CMS does not create folders with less than 3 characters in the name"
 id: 3kXypobV36NZNQofVAz2zi
 status: PUBLISHED
 createdAt: 2023-05-15T14:33:07.252Z

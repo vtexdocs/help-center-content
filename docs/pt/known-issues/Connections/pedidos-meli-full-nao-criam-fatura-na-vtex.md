@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos MELI FULL não criam fatura na VTEX'
+title: "Pedidos MELI FULL não criam fatura na VTEX"
 id: 6SNkDcqCWeDDPm01RrM0FQ
 status: PUBLISHED
 createdAt: 2024-02-05T11:14:30.020Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-full-orders-not-creating-invoice-in-vtex
+slugEN: pedidos-meli-full-nao-criam-fatura-na-vtex
 locale: pt
 kiStatus: Backlog
 internalReference: 976614
@@ -18,7 +18,9 @@ internalReference: 976614
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

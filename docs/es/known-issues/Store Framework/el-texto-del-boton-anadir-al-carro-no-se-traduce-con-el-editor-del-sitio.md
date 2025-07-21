@@ -1,5 +1,5 @@
 ---
-title: 'El texto del botón Añadir al carro no se traduce con el editor del sitio.'
+title: "El texto del botón Añadir al carro no se traduce con el editor del sitio."
 id: 7rA62h80a1LpDWjgd3SImp
 status: PUBLISHED
 createdAt: 2024-05-02T17:33:41.019Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: text-in-add-to-cart-button-are-not-being-translated-using-site-editor
+slugEN: el-texto-del-boton-anadir-al-carro-no-se-traduce-con-el-editor-del-sitio
 locale: es
 kiStatus: Backlog
 internalReference: 1026103
@@ -18,7 +18,9 @@ internalReference: 1026103
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar traducir un texto utilizando el editor del sitio para el botón Añadir al carro, los cambios no se aplicarán en el frente de la tienda.

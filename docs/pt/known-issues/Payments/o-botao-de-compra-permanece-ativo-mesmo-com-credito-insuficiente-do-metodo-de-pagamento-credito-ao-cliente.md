@@ -1,5 +1,5 @@
 ---
-title: 'O botão de compra permanece ativo mesmo com crédito insuficiente do Método de Pagamento Crédito ao Cliente'
+title: "O botão de compra permanece ativo mesmo com crédito insuficiente do Método de Pagamento Crédito ao Cliente"
 id: 76oPdoBKDn3PSn2KhomgQc
 status: PUBLISHED
 createdAt: 2022-03-27T14:14:51.967Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-purchase-button-stays-active-even-with-insufficient-credit-of-payment-method-customer-credit
+slugEN: o-botao-de-compra-permanece-ativo-mesmo-com-credito-insuficiente-do-metodo-de-pagamento-credito-ao-cliente
 locale: pt
 kiStatus: No Fix
 internalReference: 309820
@@ -18,7 +18,9 @@ internalReference: 309820
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O botão de compra permanece ativo mesmo com crédito insuficiente no crédito do cliente.

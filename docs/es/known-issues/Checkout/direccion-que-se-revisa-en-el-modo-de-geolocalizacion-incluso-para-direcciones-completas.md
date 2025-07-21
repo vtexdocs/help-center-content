@@ -1,5 +1,5 @@
 ---
-title: 'Dirección que se revisa en el modo de geolocalización incluso para direcciones completas'
+title: "Dirección que se revisa en el modo de geolocalización incluso para direcciones completas"
 id: 6eHvTDvNlIiBGmlUJAAsNU
 status: PUBLISHED
 createdAt: 2022-08-11T18:40:54.009Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-being-reviewed-in-the-geolocation-mode-even-for-complete-addresses
+slugEN: direccion-que-se-revisa-en-el-modo-de-geolocalizacion-incluso-para-direcciones-completas
 locale: es
 kiStatus: Backlog
 internalReference: 618724
@@ -18,7 +18,9 @@ internalReference: 618724
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El botón "calcular envío", utilizado para la validación de la dirección en el modo de geolocalización (dirección insertada a través de Google Maps), se está mostrando incluso para direcciones completas. Debería mostrarse solo para las direcciones editadas -por cambio de información o por direcciones que estaban incompletas en un primer momento- para asegurar que son válidas, pero no para las direcciones completas.

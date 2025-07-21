@@ -1,5 +1,5 @@
 ---
-title: 'Price updates with cache on end applications'
+title: "Price updates with cache on end applications"
 id: 1ZDl8C3DDoACmxRqRlYDJo
 status: PUBLISHED
 createdAt: 2023-09-08T16:08:24.445Z

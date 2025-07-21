@@ -1,5 +1,5 @@
 ---
-title: 'Currency symbol does not follow admin language'
+title: "Currency symbol does not follow admin language"
 id: 7gEGdkDSbRCtk2Q1u2nW6k
 status: PUBLISHED
 createdAt: 2024-03-15T19:37:45.395Z

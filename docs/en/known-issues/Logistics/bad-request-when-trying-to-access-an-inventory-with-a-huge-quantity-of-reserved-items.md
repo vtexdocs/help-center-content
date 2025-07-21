@@ -1,5 +1,5 @@
 ---
-title: 'Bad request when trying to access an inventory with a huge quantity of reserved items'
+title: "Bad request when trying to access an inventory with a huge quantity of reserved items"
 id: 4DujUMKeYTlx2MXAjnHlS5
 status: PUBLISHED
 createdAt: 2024-07-03T20:18:55.508Z

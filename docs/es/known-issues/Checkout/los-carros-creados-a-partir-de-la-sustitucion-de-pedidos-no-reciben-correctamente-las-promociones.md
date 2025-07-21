@@ -1,5 +1,5 @@
 ---
-title: 'Los carros creados a partir de la sustitución de pedidos no reciben correctamente las promociones'
+title: "Los carros creados a partir de la sustitución de pedidos no reciben correctamente las promociones"
 id: 2ODIE9RNP7Q5LCglXsztzf
 status: PUBLISHED
 createdAt: 2023-10-20T17:47:40.494Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: carts-created-from-order-replacement-do-not-receive-promotions-correctly
+slugEN: los-carros-creados-a-partir-de-la-sustitucion-de-pedidos-no-reciben-correctamente-las-promociones
 locale: es
 kiStatus: Backlog
 internalReference: 473424
@@ -18,7 +18,9 @@ internalReference: 473424
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

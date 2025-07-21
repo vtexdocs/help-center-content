@@ -16,14 +16,14 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
 Quando o cliente realiza um pedido, o carrinho pode conter produtos que se encontram em uma das seguintes configurações:
-- Armazenamento em múltiplos locais ([estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) ou [docas](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)).
-- Vendedores específicos para cada produto selecionado, incluindo [sellers white label](https://help.vtex.com/pt/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa).
-- Entregas realizadas por diferentes [transportadoras](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
+- Armazenamento em múltiplos locais ([estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) ou [docas](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)).
+- Vendedores específicos para cada produto selecionado, incluindo [sellers white label](/pt/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa).
+- Entregas realizadas por diferentes [transportadoras](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 
 Neste contexto, o Checkout v6 da VTEX permite processar diferentes opções de entrega e combinar os produtos selecionados em pacotes. Esta otimização das opções de entrega (também conhecida como **Lean Shipping**), melhora a experiência de compra do cliente por meio das seguintes ações:
 - **Redução de informações no Checkout**:
   - Opções de envios mais caros e demorados não são mostrados para o cliente.
-  - Produtos com diferentes opções de entrega são organizados automaticamente em [múltiplos pacotes](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), sem a necessidade de análise do cliente.   
+  - Produtos com diferentes opções de entrega são organizados automaticamente em [múltiplos pacotes](/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), sem a necessidade de análise do cliente.   
 
 - **Checkout mais rápido**: processamento interno das opções disponíveis de entrega, reduzindo a quantidade de opções que possuem custos e prazo de entrega similares.
 
@@ -34,13 +34,17 @@ O Checkout v6 da VTEX combina informações como CEP do cliente, localização d
 - **Mais econômica**: opção com o menor custo para o cliente.
 - **Mais rápida**: opção com o menor tempo de entrega.
 
->⚠️ Quando somente um tipo de opção de entrega estiver disponível para um determinado pedido, as opções **Mais econômica** e **Mais rápida** não serão mostradas no Checkout.
+<div class="alert alert-warning">
+Quando somente um tipo de opção de entrega estiver disponível para um determinado pedido, as opções <b>Mais econômica</b> e <b>Mais rápida</b> não serão mostradas no Checkout.
+</div>
 
 ## Desabilitar a função Opções de entrega otimizadas
 
 A funcionalidade de **Opções de entrega otimizadas** está ativada por padrão no Checkout v6. Entretanto, em algumas regiões podem ocorrer cenários que contribuam para que esta função não seja utilizada. Em países como Espanha ou Estados Unidos, onde as opções disponíveis de entrega são similares, os consumidores preferem escolher a transportadora baseados no seu nível de confiança na empresa.
 
->⚠️ Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de [múltiplas entregas](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as **Opções de entrega otimizadas** continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
+<div class="alert alert-warning">
+Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de <a href="https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">múltiplas entregas</a> esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as <b>Opções de entrega otimizadas</b> continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
+</div>
 
 Para desabilitar a função __Opções de entrega otimizadas__, siga os passos abaixo:
 

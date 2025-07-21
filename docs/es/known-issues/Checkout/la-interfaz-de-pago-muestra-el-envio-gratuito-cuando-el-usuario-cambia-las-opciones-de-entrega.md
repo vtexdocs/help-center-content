@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de pago muestra el envío gratuito cuando el usuario cambia las opciones de entrega.'
+title: "La interfaz de pago muestra el envío gratuito cuando el usuario cambia las opciones de entrega."
 id: 5ibXQuVSU5vLfihL8uImyX
 status: PUBLISHED
 createdAt: 2023-09-27T20:40:02.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options
+slugEN: la-interfaz-de-pago-muestra-el-envio-gratuito-cuando-el-usuario-cambia-las-opciones-de-entrega
 locale: es
 kiStatus: Backlog
 internalReference: 897109
@@ -18,7 +18,9 @@ internalReference: 897109
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de la caja muestra la entrega gratuita cuando el usuario cambia el método de entrega de envío normal a entrega programada. El problema solo se produce en el cuadro de entrega y cuando la cuenta tiene configurada la función LeanShipping. aunque la IU muestra el envío gratuito, los valores totales de la compra se muestran y cobran correctamente.

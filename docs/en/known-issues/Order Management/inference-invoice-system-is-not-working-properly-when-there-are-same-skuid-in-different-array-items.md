@@ -1,5 +1,5 @@
 ---
-title: 'Inference Invoice System is not working properly when there are same SKUid in different array items'
+title: "Inference Invoice System is not working properly when there are same SKUid in different array items"
 id: 3fSQGwIPj0ekewMuaxPPEe
 status: PUBLISHED
 createdAt: 2024-03-28T19:00:12.852Z

@@ -1,5 +1,5 @@
 ---
-title: 'Error al intentar abrir Mis Tarjetas'
+title: "Error al intentar abrir Mis Tarjetas"
 id: 52tGDR6eR5NU63HIJd29fr
 status: PUBLISHED
 createdAt: 2022-03-26T14:43:45.711Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-when-trying-to-open-my-cards
+slugEN: error-al-intentar-abrir-mis-tarjetas
 locale: es
 kiStatus: Backlog
 internalReference: 370706
@@ -18,7 +18,9 @@ internalReference: 370706
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos usuarios específicos están recibiendo el siguiente mensaje de error al iniciar sesión en Mis tarjetas:

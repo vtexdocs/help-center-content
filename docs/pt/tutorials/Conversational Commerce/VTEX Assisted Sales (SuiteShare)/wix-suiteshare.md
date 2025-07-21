@@ -37,4 +37,4 @@ Salve a nova configuração.
 
 Pronto! Agora o chat do VTEX Assisted Sales (SuiteShare) estará disponível no seu site do Wix.
 
-Não sabe como configurar o chat dentro do VTEX Assisted Sales (SuiteShare)? [Acesse aqui](https://help.vtex.com/pt/tutorial/chat--2HdGrTcSYL1ZIXy7QTWE5).
+Não sabe como configurar o chat dentro do VTEX Assisted Sales (SuiteShare)? [Acesse aqui](/pt/tutorial/chat--2HdGrTcSYL1ZIXy7QTWE5).

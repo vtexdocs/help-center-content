@@ -15,4 +15,4 @@ legacySlug: pix-faq
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation.</div>

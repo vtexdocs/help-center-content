@@ -1,5 +1,5 @@
 ---
-title: 'O método StockKeepingUnitInsertUpdate WebService permite a inserção de RefId existentes'
+title: "O método StockKeepingUnitInsertUpdate WebService permite a inserção de RefId existentes"
 id: 7wQ9uztQCTIQIWajMd6vaU
 status: PUBLISHED
 createdAt: 2022-01-21T15:19:32.095Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid
+slugEN: o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes
 locale: pt
 kiStatus: No Fix
 internalReference: 419460
@@ -18,7 +18,9 @@ internalReference: 419460
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Hoje não somos capazes de inserir/atualizar um RefId já registrado para outro SKU usando API REST, o upload de planilhas ou Administração de Catálogo, mas usando o WebService podemos inserir um RefId existente.

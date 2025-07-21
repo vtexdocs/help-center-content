@@ -1,5 +1,5 @@
 ---
-title: 'El artículo deja de estar disponible si las opciones de montaje posibles no coinciden con el canal de venta del carrito.'
+title: "El artículo deja de estar disponible si las opciones de montaje posibles no coinciden con el canal de venta del carrito."
 id: 36TbVrK9qcFFNUaIdN7JTH
 status: PUBLISHED
 createdAt: 2024-08-20T12:43:01.364Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: item-becomes-unavailable-if-its-possible-assembly-options-dont-match-the-cart-sales-channel
+slugEN: el-articulo-deja-de-estar-disponible-si-las-opciones-de-montaje-posibles-no-coinciden-con-el-canal-de-venta-del-carrito
 locale: es
 kiStatus: Fixed
 internalReference: 1083848
@@ -18,7 +18,9 @@ internalReference: 1083848
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si un artículo tiene alguna opción de montaje posible que no está disponible para el canal de ventas utilizado en el carrito, el artículo deja de estar disponible.

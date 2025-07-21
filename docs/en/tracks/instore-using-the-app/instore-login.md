@@ -16,7 +16,7 @@ trackSlugEN: instore-using-the-app
 
 The first contact between the the physical store sales associate and VTEX Sales App happens when logging into the application.
 
-Here, the email and password created for the sales associate in the [Basic Setup](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO#adding-a-sales-associates-email-and-name) must be used. Remember that you cannot use emails that already have access to the administrative panel of VTEX stores.
+Here, the email and password created for the sales associate in the [Basic Setup](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO#adding-a-sales-associates-email-and-name) must be used. Remember that you cannot use emails that already have access to the administrative panel of VTEX stores.
 
 ![31. inStore - Product Overview - 1 - EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/instore-login_1.png)
 

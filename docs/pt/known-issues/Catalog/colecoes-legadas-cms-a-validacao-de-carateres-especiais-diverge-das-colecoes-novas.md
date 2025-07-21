@@ -1,5 +1,5 @@
 ---
-title: 'Coleções Legadas (CMS) A Validação de Caráteres Especiais diverge das Coleções Novas'
+title: "Coleções Legadas (CMS) A Validação de Caráteres Especiais diverge das Coleções Novas"
 id: 2Pc1VACj7VF9n1IDtO6Mr4
 status: PUBLISHED
 createdAt: 2022-10-31T20:38:49.460Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: legacy-collections-cms-special-character-validation-diverges-from-new-collections
+slugEN: colecoes-legadas-cms-a-validacao-de-carateres-especiais-diverge-das-colecoes-novas
 locale: pt
 kiStatus: Backlog
 internalReference: 450569
@@ -18,7 +18,9 @@ internalReference: 450569
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

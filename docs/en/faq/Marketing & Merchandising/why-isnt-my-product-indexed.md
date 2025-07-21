@@ -16,7 +16,7 @@ legacySlug: why-isnt-my-product-indexed
 
 ### Timeout
 
-When several instances of a product are being indexed, as explained in our article [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256), it may leave the indexation queue for having reached the maximum waiting time.
+When several instances of a product are being indexed, as explained in our article [How indexing works](/en/tutorial/understanding-how-indexation-works--tutorials_256), it may leave the indexation queue for having reached the maximum waiting time.
 
 The example below illustrates this situation:
 
@@ -24,7 +24,7 @@ Product A with 5 SKUs and enabled for 5 commercial policies.
 
 In this situation, product A will record 25 validations for each change. The reason for this is that, for each SKU, the inventory availability and price and promotion rules will be checked according to each commercial policy. In order to avoid so many validations, we recommend adjusting and reducing the number of commercial policies.
 
-As explained in [Configuring a marketplace trade policy](https://help.vtex.com/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404), one single policy can be used for several marketplaces, as long as these use the same catalog, price and inventory.
+As explained in [Configuring a marketplace trade policy](/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404), one single policy can be used for several marketplaces, as long as these use the same catalog, price and inventory.
 
 The number of SKUs by product can also be reduced. In this case, we recommend splitting one product into several products, aiming at increasing the product’s particularities. Example:
 

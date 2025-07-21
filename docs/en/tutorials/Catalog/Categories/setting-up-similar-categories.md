@@ -1,10 +1,10 @@
 ---
-title: 'Setting up Similar Categories'
+title: 'Setting up similar categories'
 id: tutorials_204
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:03.892Z
-updatedAt: 2024-08-08T19:19:13.231Z
-publishedAt: 2024-08-08T19:19:13.231Z
+updatedAt: 2025-05-23T23:04:07.864Z
+publishedAt: 2025-05-23T23:04:07.864Z
 firstPublishedAt: 2017-04-27T23:00:46.323Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,46 +15,42 @@ legacySlug: setting-up-similar-categories
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-In VTEX Admin, you can register a Similar Category at [product](#similar-product-category) level or at [category](#similar-category-within-a-category) level. You can also register it using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-).
+In VTEX Admin, you can register a similar category at product level or category level, as shown in the next sections.  
 
-## Similar product category
+<div class = "alert alert-info">
+  <p>To register a similar category at via Catalog API, use the <a href="https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-">Add similar category</a> endpoint.</p>
+</div>
+
+## Configuring similar category at product level
 
 Configuring a similar category in a product causes the product to be displayed on the page of the category registered as similar, in addition to its original category.
-
-Follow the steps below for this configuration:
-
-1. In the VTEX Admin, go to __Catalog__.
-2. Click on __Products and SKUs__. You will be redirected to the page with the product listing.
-3. On the product that you wish to include in a similar category, click on the arrow next to the `Update` button. A drop-down menu will appear.
-4. Click on the __Similar Category__ option. You will see a page listing the categories that are similar to the selected product. On this page, you can delete an existing similar category or create a new one.
-5. To create a new similar category, click on `New Similar Category`.
-6. Click `Select Category`. When you do this, a new window will open with the list of all categories.
-7. Click `Expand All' to see all the options, and then click on the desired category.
-   The new window will automatically close and the __Similar Category__ field will be filled in with the one you have chosen.
-9. Click `Save`.
 
 Only the main product category will define the fields, specifications and filters. For example, if a product is in the main category __Cups__ and the similar category __Jars__, when you access the __Jars__ category, you will not see the __American Cups__ filter (which is part of the main __Cups__ category).
 
 Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will not see the glass cups, since it is impossible to populate a similar category field for a product in the main category.
 
-## Similar Category within a category
+To configure a similar category at product level, follow the steps below:
 
->⚠️ This setting is only compatible with stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
+2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+3. In the **Storefront** section, add the desired categories in the **Similar Categories** field.
+4. Click `Save`.
+
+## Configuring similar category within a category
+
+<div class="alert alert-warning">
+  <p>This setting is only compatible with stores using <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>.</p>
+</div>
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 
-See the step-by-step below:
+To configure a similar category at category level, follow the steps below:
 
-1. In the VTEX Admin, go to __Catalog__.
-2. Click on __Categories__.
-3. Click __Show All__ to view all options, then click the desired category.
-4. Click the __Actions__ button.
-5. Click the __Include Similar__ option. This will open the list of similar categories in that category.
-6. Click the __New Similar Category__ button.
-7. Click the __Select Category__ button. When you do this, a new window will open with the list of all categories.
-8. Click __Show all__ to view all of the categories available, and then click on the desired category.
-11. Click the __Save__ button.
-
-## API
-
-To add a Similar Category by API, use the endpoint [Create Similar Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-).
+1. In the VTEX Admin, go to **Catalog > Categories**, or type **Categories** in the search bar at the top of the page.
+2. Click `Show All` to view all options, then on the desired category.
+3. Click `Actions`.
+4. Click the `Include Similar` option. This will open the list of similar categories in that category.
+5. Click `New Similar Category`.
+6. Click `Select Category`. When you do this, a new window will open with the list of all categories.
+7. Click `Show all` to view all of the categories available, and then click on the desired category.
+8. Click `Save`.

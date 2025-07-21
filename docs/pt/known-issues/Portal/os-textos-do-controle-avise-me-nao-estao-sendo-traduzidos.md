@@ -1,5 +1,5 @@
 ---
-title: 'Os textos do controle Avise-me não estão sendo traduzidos'
+title: "Os textos do controle Avise-me não estão sendo traduzidos"
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: let-me-know-controller-texts-are-not-being-translated
+slugEN: os-textos-do-controle-avise-me-nao-estao-sendo-traduzidos
 locale: pt
 kiStatus: No Fix
 internalReference: 517165
@@ -18,7 +18,9 @@ internalReference: 517165
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar mudar o texto "nome" e "e-mail" do controlador Let Me Know via Store Text para outros idiomas além do EN-BR, o texto não é traduzido e permanece em português

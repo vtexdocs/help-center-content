@@ -44,4 +44,4 @@ Para as lojas desenvolvidas com o VTEX IO, essa funcionalidade está disponível
 
 ## Artigos relacionados
 
-[Configurar desconto de  preço à vista para Google Shopping](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configurar desconto de  preço à vista para Google Shopping](/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)

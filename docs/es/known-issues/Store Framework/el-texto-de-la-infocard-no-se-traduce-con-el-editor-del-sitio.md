@@ -1,5 +1,5 @@
 ---
-title: 'El texto de la InfoCard no se traduce con el editor del sitio.'
+title: "El texto de la InfoCard no se traduce con el editor del sitio."
 id: 5HYTZvxkPoTZltMkZcVfVO
 status: PUBLISHED
 createdAt: 2024-06-13T18:47:41.470Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: text-in-infocard-is-not-being-translated-using-site-editor
+slugEN: el-texto-de-la-infocard-no-se-traduce-con-el-editor-del-sitio
 locale: es
 kiStatus: Backlog
 internalReference: 1049491
@@ -18,7 +18,9 @@ internalReference: 1049491
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al intentar traducir un texto utilizando el editor del sitio para el componente de la tarjeta de información, los cambios no se aplicarán en el frente de la tienda.

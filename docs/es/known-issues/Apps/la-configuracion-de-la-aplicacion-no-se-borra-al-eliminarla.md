@@ -1,5 +1,5 @@
 ---
-title: 'La configuración de la aplicación no se borra al eliminarla.'
+title: "La configuración de la aplicación no se borra al eliminarla."
 id: 7KXfKLgbc3UDeDSsCgT0Sk
 status: PUBLISHED
 createdAt: 2024-07-15T22:29:24.058Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: app-settings-are-not-erased-when-you-delete-the-app
+slugEN: la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla
 locale: es
 kiStatus: Backlog
 internalReference: 1065954
@@ -18,7 +18,9 @@ internalReference: 1065954
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

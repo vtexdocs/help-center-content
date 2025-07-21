@@ -1,5 +1,5 @@
 ---
-title: 'Error de mensaje erróneo al utilizar una tarjeta regalo inexistente'
+title: "Error de mensaje erróneo al utilizar una tarjeta regalo inexistente"
 id: 6Bxu8UsBv4OE1pusXz0j7j
 status: PUBLISHED
 createdAt: 2022-05-23T19:32:47.312Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: wrong-message-error-when-using-a-nonexisting-gift-card
+slugEN: error-de-mensaje-erroneo-al-utilizar-una-tarjeta-regalo-inexistente
 locale: es
 kiStatus: Backlog
 internalReference: 584102
@@ -18,7 +18,9 @@ internalReference: 584102
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 hay un manejo incorrecto de uno de los errores del Sistema de Tarjeta de Regalo VTEX. Cuando el usuario está rellenando el Código de Canje de la Tarjeta Regalo en el proceso de compra, si el usuario rellena un código de compra que no existe, en lugar de ser informado de que el código no es válido, se mostrará el siguiente error en el proceso de compra "_Se ha producido un error de comunicación con el sistema de la tarjeta regalo_". Pero en realidad, no hay ningún problema de conexión, sino que el vale no existe.

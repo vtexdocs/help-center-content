@@ -1,5 +1,5 @@
 ---
-title: 'Atributos das Publicações no Mercado Livre não integrados'
+title: "Atributos das Publicações no Mercado Livre não integrados"
 id: 4CxNV3zIh28wk2a6weQcK
 status: PUBLISHED
 createdAt: 2018-01-29T17:57:35.003Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: publication-attributes-in-mercado-livre-are-not-integrated
+slugEN: atributos-das-publicacoes-no-mercado-livre-nao-integrados
 locale: pt
 kiStatus: Fixed
 internalReference: 
@@ -32,5 +32,7 @@ Não é reproduzível, uma vez que a configuração do Mercado Livre na VTEX Bri
 
 Também é possível carregar os atributos manualmente no Mercado Livre.
 
->ℹ️ Este problema já foi solucionado pela nossa equipe. [Saiba mais.](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
+<div class="alert alert-info">
+Este problema já foi solucionado pela nossa equipe. <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA">Saiba mais.</a>
+</div>
 

@@ -1,5 +1,5 @@
 ---
-title: 'A colocação do código postal na visualização de frete do carrinho está duplicando as opções de endereço para clientes recorrentes'
+title: "A colocação do código postal na visualização de frete do carrinho está duplicando as opções de endereço para clientes recorrentes"
 id: 4J8TMlhGmMtnHKXGES4qie
 status: PUBLISHED
 createdAt: 2023-12-20T21:36:52.612Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: placing-postal-code-in-the-shipping-preview-of-the-cart-is-duplicating-address-options-for-recurring-customers
+slugEN: a-colocacao-do-codigo-postal-na-visualizacao-de-frete-do-carrinho-esta-duplicando-as-opcoes-de-endereco-para-clientes-recorrentes
 locale: pt
 kiStatus: Backlog
 internalReference: 956338
@@ -18,7 +18,9 @@ internalReference: 956338
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Temos alguns problemas quando se trata de colocar códigos postais no módulo **Shipping Preview** no carrinho, alguns deles estão descritos nestes KIs:

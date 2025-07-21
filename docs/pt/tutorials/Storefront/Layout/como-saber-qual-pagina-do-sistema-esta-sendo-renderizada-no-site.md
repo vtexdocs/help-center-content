@@ -31,6 +31,8 @@ Veja abaixo a relação entre a pasta no CMS e o código-fonte da loja.
 
 ![CommerceContext](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site_1.png)
 
->ℹ️ Essa linha de código está sempre comentada. Portanto, ela tem função apenas informativa. Ou seja, não realiza nenhuma ação.
+<div class="alert alert-info">
+Essa linha de código está sempre comentada. Portanto, ela tem função apenas informativa. Ou seja, não realiza nenhuma ação.
+</div>
 
 Essa informação é útil, por exemplo, para saber qual pasta a busca da sua loja por determinado termo está retornando.

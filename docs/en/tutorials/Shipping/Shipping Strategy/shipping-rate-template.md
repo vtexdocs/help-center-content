@@ -24,7 +24,9 @@ To add shipping costs to the template, you have to:
 1. [Fill in the fields in the spreadsheet](#fill-in-the-fields-in-the-spreadsheet)
 2. [Upload the spreadsheet in VTEX Admin](#upload-the-spreadsheet-in-vtex-admin)
 
->ℹ️ You can also add shipping costs in the Shipping rates module. We recommend using the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127) to include multiple ZIP code ranges and using the Shipping rates module to manage existing shipping costs and add ZIP code ranges individually.
+<div class="alert alert-info"> 
+You can also add shipping costs in the Shipping rates module. We recommend using the <a href="https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127">shipping rate template</a> to include multiple ZIP code ranges and using the Shipping rates module to manage existing shipping costs and add ZIP code ranges individually. 
+</div>
 
 ## Fill in the fields in the spreadsheet
 
@@ -172,7 +174,9 @@ See below the spreadsheet columns content to understand each field in detail.
 </tbody>
 </table>
 
->ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
+<div class="alert alert-info"> 
+We used the term "weight" when referring to "mass" in this documentation for readability. 
+</div>
 
 Here is an example of how to fill in the fields in the spreadsheet.
 ![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/shipping-rate-template_1.png)
@@ -190,9 +194,13 @@ Follow the steps below:
 
 ![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20Strategy/shipping-rate-template_2.png)
 
->⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
+<div class="alert alert-warning">
+For <b>new</b> shipping policies, other steps are required. Check out the article <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Shipping policy</a> for more information.
+</div>
 
->❗ Each tab in the spreadsheet supports a maximum of 65,536 rows. You can create as many tabs as you want on the same worksheet, provided that it does not exceed the limit of rows and the maximum file size of 10MB. You can compress the file by saving it as **.zip**, if necessary. If the file is still too large to upload, you can split it into two files and create another shipping policy to upload the second file.
+<div class="alert alert-danger"> 
+Each tab in the spreadsheet supports a maximum of 65,536 rows. You can create as many tabs as you want on the same worksheet, provided that it does not exceed the limit of rows and the maximum file size of 10MB. You can compress the file by saving it as <b>.zip</b>, if necessary. If the file is still too large to upload, you can split it into two files and create another shipping policy to upload the second file. 
+</div>
 
 In the event that the spreadsheet contains an error, you will receive an email with details about the error. Make sure you have reviewed all the fields before uploading the file again.
 

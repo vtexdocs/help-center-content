@@ -3,8 +3,8 @@ title: 'Configuración de la búsqueda'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2024-06-17T14:10:20.364Z
-publishedAt: 2024-06-17T14:10:20.364Z
+updatedAt: 2025-04-24T15:27:15.330Z
+publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,7 +19,7 @@ La página **Configuración de la búsqueda** comprende la configuración global
 
 ## Configuración general
 
-La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
 * **Utiliza las especificaciones de SKU para mostrar productos individuales en los resultados de búsqueda**: establece las características que determinarán el orden de los SKU en los resultados de búsqueda.
 
@@ -27,15 +27,15 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
     Para agregar una especificación, haz clic en la barra del menú desplegable y selecciona la especificación deseada.
 
-    Consulta la guía [Separar SKUs por especificación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para obtener más detalles sobre esta configuración. 
+    Consulta la guía [Separar SKUs por especificación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para obtener más detalles sobre esta configuración. 
 
 * **Especificaciones buscables:** determina las especificaciones de producto que pueden ser buscadas por el motor de búsqueda.
 
-    Por ejemplo, si una camisa no contiene un color en el nombre del producto o en el SKU, de manera predeterminada, Intelligent Search no identificará este atributo en una búsqueda de "camisa azul", lo que dará como resultado camisas de diferentes colores. Sin embargo, si la especificación de color está configurada como buscable, la búsqueda puede hacer que aparezcan camisas azules en las primeras posiciones.
+    Por ejemplo, si una camisa no contiene un color en el nombre del producto, de manera predeterminada, Intelligent Search no identificará este atributo en una búsqueda de "camisa azul", lo que dará como resultado camisas de diferentes colores. Sin embargo, si la especificación de color está configurada como buscable, la búsqueda puede hacer que aparezcan camisas azules en las primeras posiciones.
 
 ## Configuración de filtros
 
-La configuración de facetas presenta ajustes relacionados con las [facetas](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
+La configuración de facetas presenta ajustes relacionados con las [facetas](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
 
 ![Configuracion del filtro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Intelligent%20Search/Intelligent%20Search%20Settings/configuracion-de-la-busqueda_1.png)
 

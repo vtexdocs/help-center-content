@@ -15,7 +15,9 @@ legacySlug: creating-trigger-in-master-data
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->ℹ️ This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
+<div class="alert alert-info">
+<p>This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
+</div>
 
 Conceptually, a trigger is a programming resource that performs a specific action whenever an associated event occurs. In Master Data, a trigger consists of configuring one or more events that activate when a particular situation occurs based on different variables.
 
@@ -84,7 +86,7 @@ Follow the instructions below to create a trigger in Master Data v1:
 2. Click the **Trigger** tab.
 3. Click the `Add` button.
 4. Enter the **Name** of the trigger.
-5. Select the [data entity](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265 "data entity") that will fire the trigger.
+5. Select the [data entity](/en/tutorial/data-entity--tutorials_1265 "data entity") that will fire the trigger.
 6. After selecting the data entity, the other configuration fields will be displayed.
 7. Select a status for the trigger, which can be **Enabled** or **Disabled**.
 8. Configure each of the tabs based on the sections:
@@ -120,7 +122,9 @@ In this section, you must set the conditions that will fire the event(s) configu
 
    ![filters-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20v1%20triggers/creating-trigger-in-master-data_2.png)
 
->ℹ️ Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.
+<div class="alert alert-info">
+  <p>Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.</p>
+</div>
 
 ### Schedule
 
@@ -164,4 +168,4 @@ Events will be triggered when the record does not meet the trigger additional fi
 
 ## Examples
 
-- [Configuring abandoned carts](https://help.vtex.com/en/tutorial/configuring-abandoned-carts--tutorials_740)
+- [Configuring abandoned carts](/en/tutorial/configuring-abandoned-carts--tutorials_740)

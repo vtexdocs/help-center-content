@@ -1,5 +1,5 @@
 ---
-title: 'Visual merchandising rules do not work when multiple search terms are provided'
+title: "Visual merchandising rules do not work when multiple search terms are provided"
 id: 6FkfnnvFiYXYqPgMrpDgM1
 status: PUBLISHED
 createdAt: 2024-06-20T21:41:14.250Z

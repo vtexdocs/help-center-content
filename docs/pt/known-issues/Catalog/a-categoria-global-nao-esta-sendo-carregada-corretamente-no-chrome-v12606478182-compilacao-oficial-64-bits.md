@@ -1,5 +1,5 @@
 ---
-title: 'A categoria global não está sendo carregada corretamente no chrome v126.0.6478.182 (compilação oficial) (64 bits)'
+title: "A categoria global não está sendo carregada corretamente no chrome v126.0.6478.182 (compilação oficial) (64 bits)"
 id: 2B4qXQAVBGuFYJwHaPK8P4
 status: PUBLISHED
 createdAt: 2024-08-02T19:52:56.332Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: global-category-not-loading-correctly-on-chrome-v12606478182-official-build-64bit
+slugEN: a-categoria-global-nao-esta-sendo-carregada-corretamente-no-chrome-v12606478182-compilacao-oficial-64-bits
 locale: pt
 kiStatus: Backlog
 internalReference: 1075366
@@ -18,7 +18,9 @@ internalReference: 1075366
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a categoria global de produtos não está carregando corretamente os dados se o usuário estiver acessando usando o navegador Google Chrome por meio da versão v126.0.6478.182

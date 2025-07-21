@@ -1,5 +1,5 @@
 ---
-title: 'Error al buscar puntos de recogida y listar tiendas en el localizador de tiendas'
+title: "Error al buscar puntos de recogida y listar tiendas en el localizador de tiendas"
 id: Ycy0EPwfhPfDUx1abDMb2
 status: PUBLISHED
 createdAt: 2024-10-17T00:03:29.004Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator
+slugEN: error-al-buscar-puntos-de-recogida-y-listar-tiendas-en-el-localizador-de-tiendas
 locale: es
 kiStatus: Backlog
 internalReference: 1118712
@@ -18,7 +18,9 @@ internalReference: 1118712
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al buscar un punto de recogida en Logística, puede producirse el siguiente error:

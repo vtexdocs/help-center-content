@@ -1,5 +1,5 @@
 ---
-title: 'Permitir no novo Order Admin UI valores de retorno sem relacionar um item'
+title: "Permitir no novo Order Admin UI valores de retorno sem relacionar um item"
 id: 4mD1o81lDZEB5y35KRM6LW
 status: PUBLISHED
 createdAt: 2022-02-08T01:36:09.738Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: allow-in-the-new-order-admin-ui-return-values-without-relating-an-item
+slugEN: permitir-no-novo-order-admin-ui-valores-de-retorno-sem-relacionar-um-item
 locale: pt
 kiStatus: Fixed
 internalReference: 519576
@@ -18,7 +18,9 @@ internalReference: 519576
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para fluxos de devolução dentro de um pedido, é possível indicar quais produtos serão devolvidos e/ou valores associados, tais como custos de envio ou simplesmente uma parte do valor do pedido.

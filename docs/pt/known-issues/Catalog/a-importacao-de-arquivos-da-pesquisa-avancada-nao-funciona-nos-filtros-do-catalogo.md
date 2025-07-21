@@ -1,5 +1,5 @@
 ---
-title: 'A importação de arquivos da pesquisa avançada não funciona nos filtros do catálogo'
+title: "A importação de arquivos da pesquisa avançada não funciona nos filtros do catálogo"
 id: KB8nLgJorL1aKtUuf8Dga
 status: PUBLISHED
 createdAt: 2024-08-23T17:56:17.370Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: advanced-searchs-file-import-not-functioning-on-catalog-filters
+slugEN: a-importacao-de-arquivos-da-pesquisa-avancada-nao-funciona-nos-filtros-do-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 1086454
@@ -18,7 +18,9 @@ internalReference: 1086454
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a pesquisa no catálogo legado tem uma funcionalidade, na guia "Pesquisa avançada", que permite importar um arquivo para criar um filtro de pesquisa.

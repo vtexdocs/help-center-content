@@ -1,5 +1,5 @@
 ---
-title: 'DiscountExpression siempre utiliza el flete más barato independientemente del seleccionado'
+title: "DiscountExpression siempre utiliza el flete más barato independientemente del seleccionado"
 id: 6tFmwOH8tYRohn29hC4jmR
 status: PUBLISHED
 createdAt: 2024-08-02T15:42:13.663Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: discountexpression-always-uses-the-cheaper-freight-regardless-of-the-selected-one
+slugEN: discountexpression-siempre-utiliza-el-flete-mas-barato-independientemente-del-seleccionado
 locale: es
 kiStatus: Backlog
 internalReference: 1075053
@@ -18,7 +18,9 @@ internalReference: 1075053
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

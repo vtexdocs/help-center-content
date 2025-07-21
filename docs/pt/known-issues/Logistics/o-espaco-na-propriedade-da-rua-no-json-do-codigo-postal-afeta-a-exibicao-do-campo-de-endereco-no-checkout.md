@@ -1,5 +1,5 @@
 ---
-title: 'O espaço na propriedade da rua no JSON do código postal afeta a exibição do campo de endereço no checkout'
+title: "O espaço na propriedade da rua no JSON do código postal afeta a exibição do campo de endereço no checkout"
 id: Rr3wSsdC5hxMS8ttK4kIj
 status: PUBLISHED
 createdAt: 2023-08-01T22:30:35.290Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout
+slugEN: o-espaco-na-propriedade-da-rua-no-json-do-codigo-postal-afeta-a-exibicao-do-campo-de-endereco-no-checkout
 locale: pt
 kiStatus: No Fix
 internalReference: 872935
@@ -18,7 +18,9 @@ internalReference: 872935
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao ativar o uso da API de código postal no formulário de endereço para países que não estão no modelo BR (país, estado, cidade, bairro, rua), esses países que não têm todos esses campos preenchidos na API e precisam ser capazes de inserir os outros dados de endereço no formulário de endereço no checkout, o campo rua do bloco de endereço não estará disponível se a propriedade rua do JSON estiver com espaço, pois será entendido como preenchido e válido, o que não permite prosseguir com o pedido.

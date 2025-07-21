@@ -1,5 +1,5 @@
 ---
-title: '[MELI] O atributo está sendo enviado para o MELI sem ser mapeado pelo vendedor'
+title: "[MELI] O atributo está sendo enviado para o MELI sem ser mapeado pelo vendedor"
 id: CILYWlvEAlXkcvEYuZ99m
 status: PUBLISHED
 createdAt: 2023-10-30T10:09:31.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-attribute-is-being-sent-to-meli-without-being-mapped-from-seller
+slugEN: meli-o-atributo-esta-sendo-enviado-para-o-meli-sem-ser-mapeado-pelo-vendedor
 locale: pt
 kiStatus: Fixed
 internalReference: 791380
@@ -18,7 +18,9 @@ internalReference: 791380
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

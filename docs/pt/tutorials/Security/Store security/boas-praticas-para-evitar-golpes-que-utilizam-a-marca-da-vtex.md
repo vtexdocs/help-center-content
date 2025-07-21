@@ -25,7 +25,7 @@ A VTEX geralmente se comunica com seus clientes por meio de canais oficiais:
 
 * Mensagens dentro do Admin VTEX
 * E-mails corporativos
-* Comunicados no [Help Center](https://help.vtex.com/) ou no [Developer Portal](https://developers.vtex.com/)
+* Comunicados no [Help Center](/) ou no [Developer Portal](https://developers.vtex.com/)
 * Publicações no [site](https://vtex.com/br-pt/) ou nas redes sociais oficiais da VTEX
 
 Desconfie de qualquer comunicação que solicite informações confidenciais ou ações suspeitas, especialmente se vier de fontes não verificadas.
@@ -34,7 +34,7 @@ Desconfie de qualquer comunicação que solicite informações confidenciais ou 
 
 ## Proteger credenciais de login
 
-Mantenha em segurança as [chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet), os [tokens de usuário](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e as credenciais de [login](https://help.vtex.com/pt/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#login) na VTEX, como email, senha e códigos de acesso. Nunca compartilhe com terceiros dados pessoais e confidenciais, informações sobre a loja, códigos, entre outras informações sensíveis.
+Mantenha em segurança as [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet), os [tokens de usuário](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e as credenciais de [login](/pt/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#login) na VTEX, como email, senha e códigos de acesso. Nunca compartilhe com terceiros dados pessoais e confidenciais, informações sobre a loja, códigos, entre outras informações sensíveis.
 
 Golpistas podem tentar obter acesso à sua conta para realizar atividades fraudulentas em nome da sua empresa. Antes de agir ou de fornecer qualquer informação, confirme se é realmente a VTEX que está se comunicando com você.
 
@@ -42,7 +42,7 @@ Golpistas podem tentar obter acesso à sua conta para realizar atividades fraudu
 
 Se você receber ofertas no nome da VTEX que afirmam ser parte de programas de incentivo, não siga as instruções do remetente. A VTEX não oferece programa de incentivo e não solicita pagamentos de pessoas físicas ou jurídicas fora do contrato de prestação de serviços da plataforma.
 
-Sempre verifique a URL de destino antes de clicar em um link ou acessar uma página e confirme se é um dos [canais oficiais](#verificar-a-autenticidade-da-comunicacao) de comunicação da VTEX. Em caso de dúvidas, acione o nosso [Suporte](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). 
+Sempre verifique a URL de destino antes de clicar em um link ou acessar uma página e confirme se é um dos [canais oficiais](#verificar-a-autenticidade-da-comunicacao) de comunicação da VTEX. Em caso de dúvidas, acione o nosso [Suporte](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). 
 
 ## Consultar os recursos de segurança da VTEX
 
@@ -50,5 +50,5 @@ A VTEX oferece recursos de segurança e orientações para ajudar seus clientes 
 
 ## Relatar atividades suspeitas
 
-Se você suspeitar de atividades fraudulentas que utilizam a marca da VTEX, reporte-as imediatamente ao [Suporte](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). A partir disso, a equipe de Segurança da VTEX irá investigar a situação e realizar as ações necessárias para prevenir e combater possíveis fraudes.
+Se você suspeitar de atividades fraudulentas que utilizam a marca da VTEX, reporte-as imediatamente ao [Suporte](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). A partir disso, a equipe de Segurança da VTEX irá investigar a situação e realizar as ações necessárias para prevenir e combater possíveis fraudes.
 

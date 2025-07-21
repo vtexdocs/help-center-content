@@ -1,5 +1,5 @@
 ---
-title: 'A CallbackUrl sempre retorna 403 quando a conta do proprietário do conector foi desativada'
+title: "A CallbackUrl sempre retorna 403 quando a conta do proprietário do conector foi desativada"
 id: yHrPuhMrqMJpUQe5zK3p1
 status: PUBLISHED
 createdAt: 2023-03-21T18:37:46.361Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: callbackurl-always-returns-403-when-the-connector-owner-account-has-been-disabled
+slugEN: a-callbackurl-sempre-retorna-403-quando-a-conta-do-proprietario-do-conector-foi-desativada
 locale: pt
 kiStatus: Backlog
 internalReference: 775235
@@ -18,7 +18,9 @@ internalReference: 775235
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para conectores utilizando nosso PPP, a configuração do conector inclui um campo chamado `accountName` que especifica a conta utilizada para publicar o aplicativo. Normalmente, o valor `accountName` é o mesmo que o nome da conta do parceiro. Entretanto, quando o parceiro publica conectores com sua infra-estrutura, ele utiliza um ponto final específico, que não é relativo; é assim que os conectores que utilizam nossa infra-estrutura IO fazem.

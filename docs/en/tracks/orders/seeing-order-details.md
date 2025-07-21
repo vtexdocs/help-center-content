@@ -18,9 +18,9 @@ In the Admin side menu, within the Orders area, is the __Orders__ section. Click
 
 In the default view of this screen, all store orders are listed starting from the most recent ones. You can change the sorting by clicking on the column names, as well as fetch orders using specific data, and also export this data.
 
-In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
 
-To further explore the order list, see the [Order List Overview article](https://help.vtex.com/en/tutorial/orders-list--tutorials_200).
+To further explore the order list, see the [Order List Overview article](/en/tutorial/orders-list--tutorials_200).
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 
@@ -31,7 +31,7 @@ Besides searching for orders in **Orders > All Orders**, you can search for orde
 
 ## Viewing the Details of an Order
 
-Clicking on an order takes you to the [order details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) screen, where you can review a range of order information and perform some actions, such as:
+Clicking on an order takes you to the [order details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) screen, where you can review a range of order information and perform some actions, such as:
 - Resend the last email to the customer.
 - Manually cancel the order.
 - Invoice the order items.
@@ -49,7 +49,9 @@ In VTEX platform there is also a feature to unify all email communication with t
 
 All customer data is entered at the time of closing the order and cannot be changed here. To view and manage this data, you can access Master Data.
 
->ℹ️ If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
+<div class="alert alert-info">
+If your store only acts as a seller of an order, the customer's email will not be displayed. We understand that the customer's relationship is with the marketplace, so it is not advisable to share your data with the seller without prior consent.
+  </div>
 
 ### Total Value
 
@@ -61,7 +63,7 @@ This card displays promotions that were applied to the order value as well as th
 
 ### Order status
 
-This is the current order status, which indicates the point at which the order is in the [order flow](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+This is the current order status, which indicates the point at which the order is in the [order flow](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
 
 ### Flow
 

@@ -1,5 +1,5 @@
 ---
-title: 'Entender por qué algunos pedidos realizados en Magalu estaban como incompletos'
+title: "Entender por qué algunos pedidos realizados en Magalu estaban como incompletos"
 id: 5eFd1ukCxF9n53TeMiCvOX
 status: PUBLISHED
 createdAt: 2022-06-14T18:50:10.262Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: nderstand-why-some-orders-placed-at-magalu-were-as-incomplet
+slugEN: ntender-por-que-algunos-pedidos-realizados-en-magalu-estaban-como-incompletos
 locale: es
 kiStatus: Backlog
 internalReference: 597771
@@ -18,7 +18,9 @@ internalReference: 597771
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

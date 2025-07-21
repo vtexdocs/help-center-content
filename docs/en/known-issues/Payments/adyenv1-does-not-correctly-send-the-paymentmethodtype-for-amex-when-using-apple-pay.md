@@ -1,5 +1,5 @@
 ---
-title: 'AdyenV1 does not correctly send the paymentMethod.type for Amex when using Apple Pay.'
+title: "AdyenV1 does not correctly send the paymentMethod.type for Amex when using Apple Pay."
 id: UCCG0Lwe3U6dO7MHwFebO
 status: PUBLISHED
 createdAt: 2023-10-17T14:58:27.621Z

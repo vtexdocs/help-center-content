@@ -1,5 +1,5 @@
 ---
-title: 'Issues inserting values in loyalty gift card at checkout'
+title: "Issues inserting values in loyalty gift card at checkout"
 id: 74bFvs0PmQzRGzkOdnwiLw
 status: PUBLISHED
 createdAt: 2023-11-28T17:16:34.758Z

@@ -28,5 +28,5 @@ Debido a esta flexibilidad, Audit contiene la pestaña Guía, que muestra más e
 
 ## **Sepa más**
 
-* [Cómo encontrar eventos en Audit](https://help.vtex.com/es/tutorial/como-encontrar-eventos-en-audit)
-* [Eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)
+* [Cómo encontrar eventos en Audit](/es/tutorial/como-encontrar-eventos-en-audit)
+* [Eventos disponibles en Audit](/es/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)

@@ -1,5 +1,5 @@
 ---
-title: 'La API del catálogo stockkeepingunit permite valores de condición comercial no válidos'
+title: "La API del catálogo stockkeepingunit permite valores de condición comercial no válidos"
 id: 1ONAspL4Wj9fdu2tYcX4Ur
 status: PUBLISHED
 createdAt: 2023-03-10T20:44:01.459Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
+slugEN: la-api-del-catalogo-stockkeepingunit-permite-valores-de-condicion-comercial-no-validos
 locale: es
 kiStatus: No Fix
 internalReference: 769053
@@ -18,7 +18,9 @@ internalReference: 769053
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la API de mantenimiento de existencias https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/{skuid} no realiza ninguna comprobación para el campo "CommercialConditionId".

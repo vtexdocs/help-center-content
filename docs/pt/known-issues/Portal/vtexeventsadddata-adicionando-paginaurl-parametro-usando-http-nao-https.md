@@ -1,5 +1,5 @@
 ---
-title: 'vtex.events.addData adicionando páginaUrl Parâmetro usando http, não https'
+title: "vtex.events.addData adicionando páginaUrl Parâmetro usando http, não https"
 id: GKPhSAhbbODMlXwmcm0qX
 status: PUBLISHED
 createdAt: 2022-12-13T15:32:13.749Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: vtexeventsadddata-adding-pageurl-parameter-using-http-not-https
+slugEN: vtexeventsadddata-adicionando-paginaurl-parametro-usando-http-nao-https
 locale: pt
 kiStatus: Backlog
 internalReference: 348128
@@ -18,7 +18,9 @@ internalReference: 348128
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 `vtex.events.addData` adicionando pageUrl Parameter utilizando http, não https

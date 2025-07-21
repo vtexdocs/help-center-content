@@ -1,10 +1,10 @@
 ---
-title: 'Special Characters cannot be used for CNPJ search on MasterData'
+title: "Special Characters cannot be used for CNPJ search on MasterData"
 id: 4sgob00QXkGYPC3TjSpQeN
 status: PUBLISHED
 createdAt: 2022-06-21T15:35:26.675Z
-updatedAt: 2023-08-07T13:52:30.392Z
-publishedAt: 2023-08-07T13:52:30.392Z
+updatedAt: 2024-12-12T19:59:49.961Z
+publishedAt: 2024-12-12T19:59:49.961Z
 firstPublishedAt: 2022-06-21T15:35:27.341Z
 contentType: knownIssue
 productTeam: Storage
@@ -24,24 +24,26 @@ The CNPJ and CPF field types are used amongst various parts of VTEX and they are
 These fields must be formatted in a very specific manner and their special characters (such as "." and "/") are currently not compatible ith the search present in both the API ( ) and UI.
 
 
-
-
+##
 
 ## Simulation
 
 
-
-1. Go to your account's masterdata myaccount.vtexcrm.com.br
-2. In the applications listing access your form for "Cleintes"
-3. In the filters, search for "CNPJ"
-4. Type a special character in your search, such as "/"
-5. An "Erro Inesperado" window will pop up
-
+Go to your account's masterdata myaccount.vtexcrm.com.br
+In the applications listing access your form for "Cleintes"
+In the filters, search for "CNPJ"
+Type a special character in your search, such as "/"
+An "Erro Inesperado" window will pop up
 
 
+##
 
 ## Workaround
 
 
-Use alternative fields for searching or only aplhanumerical characters when searching with cpf and cnpf
+Search using the "All" field or using double quotes ("00.000.000/0000-00") for the system to interpret the string or use alternative fields for searching or only aplhanumerical characters when searching with cpf and cnpf.
+
+
+
+
 

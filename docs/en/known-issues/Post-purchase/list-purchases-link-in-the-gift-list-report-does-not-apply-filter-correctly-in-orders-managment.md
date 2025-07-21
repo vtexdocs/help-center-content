@@ -1,5 +1,5 @@
 ---
-title: "'List Purchases' link in the gift list report does not apply filter correctly in Orders Managment"
+title: 'List Purchases" link in the gift list report does not apply filter correctly in Orders Managment'
 id: 5p7nqrzUqIK88cYkkOqMMG
 status: PUBLISHED
 createdAt: 2017-04-03T19:36:10.117Z

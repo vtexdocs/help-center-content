@@ -1,5 +1,5 @@
 ---
-title: 'Volver a pedir desde el historial de pedidos B2B no funciona'
+title: "Volver a pedir desde el historial de pedidos B2B no funciona"
 id: 2kT6UJsivYRgEaYpeRpEWa
 status: PUBLISHED
 createdAt: 2023-05-05T13:16:44.403Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: order-again-from-b2b-orders-history-doesnt-work
+slugEN: volver-a-pedir-desde-el-historial-de-pedidos-b2b-no-funciona
 locale: es
 kiStatus: Fixed
 internalReference: 819920
@@ -18,7 +18,9 @@ internalReference: 819920
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la aplicación Historial de Pedidos B2B, la funcionalidad Volver a Pedir no funciona.

@@ -1,5 +1,5 @@
 ---
-title: 'Información de categoría de producto de dataLayer con una ordenación errónea'
+title: "Información de categoría de producto de dataLayer con una ordenación errónea"
 id: 5M84UlbbxXG6msTBUYiksT
 status: PUBLISHED
 createdAt: 2022-12-13T18:02:07.567Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: product-category-information-from-datalayer-with-a-wrong-sorting
+slugEN: informacion-de-categoria-de-producto-de-datalayer-con-una-ordenacion-erronea
 locale: es
 kiStatus: Fixed
 internalReference: 328415
@@ -18,7 +18,9 @@ internalReference: 328415
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La información de la categoría del producto en el dataLayer en las páginas de pago se muestra en el orden incorrecto. Esto está representado por la propiedad "categoryTree".

@@ -1,5 +1,5 @@
 ---
-title: ' O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento'
+title: "O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento"
 id: 5FfCMy8XNdJhO8OvRatbZY
 status: PUBLISHED
 createdAt: 2022-04-19T19:44:44.842Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: cms-styles-selector-doesnt-work-in-development-workspaces
+slugEN: o-seletor-de-estilos-cms-nao-funciona-em-espacos-de-trabalho-de-desenvolvimento
 locale: pt
 kiStatus: Backlog
 internalReference: 388544
@@ -18,7 +18,9 @@ internalReference: 388544
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'O checkout não exibe a promoção de frete no primeiro instante para uma condição específica'
+title: "O checkout não exibe a promoção de frete no primeiro instante para uma condição específica"
 id: 14rQaM53csQQeA1wu5lRj8
 status: PUBLISHED
 createdAt: 2022-05-20T17:46:10.644Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-does-not-display-shipping-promotion-at-first-instant-for-specific-condition
+slugEN: o-checkout-nao-exibe-a-promocao-de-frete-no-primeiro-instante-para-uma-condicao-especifica
 locale: pt
 kiStatus: No Fix
 internalReference: 280144
@@ -18,7 +18,9 @@ internalReference: 280144
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O checkout (backend) tem o comportamento de pré-selecionar o melhor método de entrega para o usuário assim que um código postal é informado.

@@ -1,5 +1,5 @@
 ---
-title: 'La aplicación Webops no está totalmente integrada con Headless CMS'
+title: "La aplicación Webops no está totalmente integrada con Headless CMS"
 id: 577fIocKB9BYYCOkN9dZfW
 status: PUBLISHED
 createdAt: 2024-06-12T19:42:12.627Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: webops-app-is-not-fully-integrated-with-headless-cms
+slugEN: la-aplicacion-webops-no-esta-totalmente-integrada-con-headless-cms
 locale: es
 kiStatus: Fixed
 internalReference: 1048810
@@ -18,7 +18,9 @@ internalReference: 1048810
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

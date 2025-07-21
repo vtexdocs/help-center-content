@@ -1,5 +1,5 @@
 ---
-title: "Problemas com 'preço de' no controle 'ButtonBuyModal'"
+title: 'Problemas com "preço de" no controle "ButtonBuyModal'
 id: 2DdTK2AQNysEqM8AyMwSMQ
 status: PUBLISHED
 createdAt: 2018-10-05T17:06:27.321Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: problems-with-price-from-in-the-buttonbuymodal-control
+slugEN: problemas-com-preco-de-no-controle-buttonbuymodal
 locale: pt
 kiStatus: Backlog
 internalReference: 

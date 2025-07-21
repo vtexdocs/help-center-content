@@ -1,5 +1,5 @@
 ---
-title: 'Seller Portal Select Specifications Dropdown Malfunctioning'
+title: "Seller Portal Select Specifications Dropdown Malfunctioning"
 id: 7DeU9mKh7gseN7svVPtDzb
 status: PUBLISHED
 createdAt: 2022-12-06T14:27:57.920Z

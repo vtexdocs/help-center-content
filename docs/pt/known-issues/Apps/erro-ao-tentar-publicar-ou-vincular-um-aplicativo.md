@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao tentar publicar ou vincular um aplicativo'
+title: "Erro ao tentar publicar ou vincular um aplicativo"
 id: 2WPukfSHWzzIUjIzMJaAEK
 status: PUBLISHED
 createdAt: 2024-06-27T15:39:00.583Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: error-when-trying-to-publish-or-link-an-app
+slugEN: erro-ao-tentar-publicar-ou-vincular-um-aplicativo
 locale: pt
 kiStatus: Backlog
 internalReference: 1056882
@@ -18,7 +18,9 @@ internalReference: 1056882
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Nossa equipe investigou que isso normalmente está associado ao desenvolvimento de um aplicativo de grande porte. Isso acontece porque o hub do construtor estourou sua memória devido a muitos arquivos no aplicativo. Atrasos na vinculação do aplicativo também podem estar associados a esse problema

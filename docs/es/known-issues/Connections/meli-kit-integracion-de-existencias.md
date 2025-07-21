@@ -1,5 +1,5 @@
 ---
-title: 'MELI KIT Integración de existencias'
+title: "MELI KIT Integración de existencias"
 id: 3OTRje0QGmk8EKI9j6QstJ
 status: PUBLISHED
 createdAt: 2022-03-04T18:15:07.592Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-kit-stock-integration
+slugEN: meli-kit-integracion-de-existencias
 locale: es
 kiStatus: Backlog
 internalReference: 489220
@@ -18,7 +18,9 @@ internalReference: 489220
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Necesitamos investigar y solucionar el problema al enviar el balance de stock a MELI cuando el artículo es un KIT. Envíe el saldo de existencias del KIT en lugar de las existencias de la SKU.

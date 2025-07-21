@@ -18,7 +18,7 @@ The _Facebook Business Extension and Conversions API_ app is available in the VT
 
 1. In the VTEX App Store, go to the app page [Facebook Business Extension e Conversions API](https://apps.vtex.com/vtex-facebook-fbe/p).
 2. Click on `GET APP`.
-3. In the _Enter your account_ field, fill in the [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) of your VTEX store.
+3. In the _Enter your account_ field, fill in the [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) of your VTEX store.
 4. Click on `CONFIRM`.
 5. In your cart in the VTEX App Store, click on `PLACE ORDER`.
 6. Click on `GO TO INSTAL PAGE`.

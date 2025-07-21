@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos El vendedor 1 no tiene notificaciones en el tipo de gancho FromOrders para el pago del estado aprobado'
+title: "Pedidos El vendedor 1 no tiene notificaciones en el tipo de gancho FromOrders para el pago del estado aprobado"
 id: 4FurUuRzROSdEckWPFXH1w
 status: PUBLISHED
 createdAt: 2022-08-18T18:04:03.821Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-seller-1-has-no-notifications-on-hook-type-fromorders-for-state-payment-approved
+slugEN: pedidos-el-vendedor-1-no-tiene-notificaciones-en-el-tipo-de-gancho-fromorders-para-el-pago-del-estado-aprobado
 locale: es
 kiStatus: Backlog
 internalReference: 640925
@@ -18,7 +18,9 @@ internalReference: 640925
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El vendedor de pedidos 1, donde el MKT y el FFMT están en la misma cuenta, no tiene notificaciones en el tipo de gancho FromOrders para el estado "Payment-Approved".

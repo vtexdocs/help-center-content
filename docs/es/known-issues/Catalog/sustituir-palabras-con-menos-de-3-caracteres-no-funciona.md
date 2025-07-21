@@ -1,5 +1,5 @@
 ---
-title: 'Sustituir palabras con menos de 3 caracteres no funciona'
+title: "Sustituir palabras con menos de 3 caracteres no funciona"
 id: 5sAdcBkmVVnRoQD3WUBNJ0
 status: PUBLISHED
 createdAt: 2022-06-08T20:03:47.576Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: substitute-words-with-less-than-3-characters-does-not-work
+slugEN: sustituir-palabras-con-menos-de-3-caracteres-no-funciona
 locale: es
 kiStatus: No Fix
 internalReference: 282500
@@ -18,7 +18,9 @@ internalReference: 282500
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Sustituir palabras con menos de 3 caracteres no funciona

@@ -1,5 +1,5 @@
 ---
-title: 'Problemas em adicionar itens com têm anexos ao carrinho do IO'
+title: "Problemas em adicionar itens com têm anexos ao carrinho do IO"
 id: 6fuqi9FsGdIbuf8L6AyvqT
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:09.917Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: problems-adding-items-to-cart-in-io-that-have-attachments
+slugEN: problemas-em-adicionar-itens-com-tem-anexos-ao-carrinho-do-io
 locale: pt
 kiStatus: Backlog
 internalReference: 429724
@@ -18,7 +18,9 @@ internalReference: 429724
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

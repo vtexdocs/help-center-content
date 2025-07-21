@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Nuevo diseño del formulario de promociones de VTEX, con interfaz moderna y uso simplificado.'
 ---
 
-VTEX ofrece un formulario renovado para crear promociones de tipo [Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323). Con un diseño moderno e intuitivo, la nueva interfaz simplifica y mejora la experiencia de uso. 
+VTEX ofrece un formulario renovado para crear promociones de tipo [Comprar juntos](/es/tutorial/compre-junto--tutorials_323). Con un diseño moderno e intuitivo, la nueva interfaz simplifica y mejora la experiencia de uso. 
 
 ## ¿Qué cambió?
 El nuevo formulario para crear promociones reemplaza la interfaz anterior, proporcionando una organización visual más clara. La actualización, con componentes modernos e información bien organizada, simplifica la creación de promociones.

@@ -29,11 +29,13 @@ Por ejemplo, en un carrito de compras se calculó que el valor total del flete e
 
 Para facilitar la compresión a los usuarios, utilizamos el término «peso» en vez de «masa» en nuestra documentación, a pesar de que existe una diferencia entre ambos términos y un uso correcto.
 
->❗ El peso del producto no puede ser cero. Esto puede provocar problemas en los costos del cálculo del flete.
+<div class="alert alert-danger">
+El peso del producto no puede ser cero. Esto puede provocar problemas en los costos del cálculo del flete.
+</div>
 
 ## Cómo visualizar el prorrateo del flete
 
 Es posible visualizar cómo se prorratea el valor del flete en el cálculo del flete. Puede ver la división de tales valores en el módulo Inventario y envío en el Admin (al simular un envío, los valores del flete se muestran de forma detallada) o por API (visualizar los valores en el JSON del pedido, tal y como lo devuelve la ruta [Get order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder), dentro del detalle de cada ítem en el campo logisticsInfo).
 
-Para saber más sobre cómo funciona la simulación de flete, lea el artículo [Simulador de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144).
+Para saber más sobre cómo funciona la simulación de flete, lea el artículo [Simulador de envío](/es/tutorial/simulacao-de-frete--tutorials_144).
 

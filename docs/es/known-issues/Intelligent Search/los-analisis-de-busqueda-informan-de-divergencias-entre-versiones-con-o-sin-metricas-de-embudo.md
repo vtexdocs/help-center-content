@@ -1,5 +1,5 @@
 ---
-title: 'Los análisis de búsqueda informan de divergencias entre versiones con o sin métricas de embudo'
+title: "Los análisis de búsqueda informan de divergencias entre versiones con o sin métricas de embudo"
 id: 33lXZb4Nr2NOPgW2Cth9ry
 status: PUBLISHED
 createdAt: 2024-02-09T19:01:45.952Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-analytics-report-divergences-between-versions-withwithout-funnel-metrics
+slugEN: los-analisis-de-busqueda-informan-de-divergencias-entre-versiones-con-o-sin-metricas-de-embudo
 locale: es
 kiStatus: Backlog
 internalReference: 980297
@@ -18,7 +18,9 @@ internalReference: 980297
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El informe de análisis de búsqueda exportado como CSV puede divergir entre su versión con métricas de embudo y su versión sin ellas.

@@ -1,5 +1,5 @@
 ---
-title: 'El producto inactivo sigue apareciendo en la PDP o en la caja'
+title: "El producto inactivo sigue apareciendo en la PDP o en la caja"
 id: 567gsup9oQGoMmj5utCra9
 status: PUBLISHED
 createdAt: 2022-03-14T19:50:43.917Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inactive-product-still-appearing-on-pdp-or-checkout
+slugEN: el-producto-inactivo-sigue-apareciendo-en-la-pdp-o-en-la-caja
 locale: es
 kiStatus: Backlog
 internalReference: 542264
@@ -18,7 +18,9 @@ internalReference: 542264
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Desactivar sólo el producto por API hace que el producto permanezca activo para el PDP y la caja

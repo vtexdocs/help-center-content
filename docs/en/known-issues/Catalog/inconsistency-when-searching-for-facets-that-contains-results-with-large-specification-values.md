@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency when searching for facets that contains results with large specification values'
+title: "Inconsistency when searching for facets that contains results with large specification values"
 id: 4taz7hmgvjn3hqWyyjxiKz
 status: PUBLISHED
 createdAt: 2023-05-11T17:42:06.008Z

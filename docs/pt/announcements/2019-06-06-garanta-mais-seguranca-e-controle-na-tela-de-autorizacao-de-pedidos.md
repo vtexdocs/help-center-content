@@ -15,9 +15,11 @@ announcementImageID: ''
 announcementSynopsisPT: 'Possibilidade de limitar perfis de acesso à tela de Autorização de pedidos'
 ---
 
->⚠️ A partir do dia 25 de junho de 2019, o usuário que não tiver acesso vinculado ao perfil com o produto `Order Authorization`  não terá permissão para visualizar ou editar a tela de Autorização de Pedidos.
+<div class="alert alert-warning">
+A partir do dia 25 de junho de 2019, o usuário que não tiver acesso vinculado ao perfil com o produto <code>Order Authorization</code>  não terá permissão para visualizar ou editar a tela de Autorização de Pedidos.
+</div>
 
-Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso à tela de Autorização de pedidos, permitindo que somente alguns usuários visualizem ou editem as informações. Para saber mais sobre a Autorização de pedidos, acesse nosso [comunicado sobre o lançamento da feature](https://help.vtex.com/pt/announcements/aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) ou o [tutorial que explica o seu funcionamento](https://help.vtex.com/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn)
+Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso à tela de Autorização de pedidos, permitindo que somente alguns usuários visualizem ou editem as informações. Para saber mais sobre a Autorização de pedidos, acesse nosso [comunicado sobre o lançamento da feature](/pt/announcements/aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) ou o [tutorial que explica o seu funcionamento](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn)
   
 ## Principais Vantagens
 

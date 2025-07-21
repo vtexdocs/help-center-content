@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Brand API REST permite al cliente romper la información si envía la petición con valores erróneos'
+title: "Catalog Brand API REST permite al cliente romper la información si envía la petición con valores erróneos"
 id: 1nYTOhy1TjaQOK6xDvU5H6
 status: PUBLISHED
 createdAt: 2023-03-10T20:26:07.105Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-brand-api-rest-allows-the-client-to-break-the-information-if-sending-request-with-wrong-values
+slugEN: catalog-brand-api-rest-permite-al-cliente-romper-la-informacion-si-envia-la-peticion-con-valores-erroneos
 locale: es
 kiStatus: Fixed
 internalReference: 269109
@@ -18,7 +18,9 @@ internalReference: 269109
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un montón de rutas que soportan algún tipo de valor, pero si el cliente utiliza otro tipo de valor (por ejemplo, insertar null en lugar de boolean) puede romper la interfaz de producto / SKU / categoría / marca. Negando al cliente actualizar la información a través de admin.

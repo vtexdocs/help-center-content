@@ -22,7 +22,7 @@ A configuração da integração com o Google Shopping é feita no Admin. Para r
 4. Preencha os campos da tela descritos logo abaixo e em seguida, clique no botão `Salvar configuração` (campos marcados com o símbolo * são obrigatórios).
 
    - **Integração*:** a integração somente será habilitada se você clicar em _sim._
-   - **Ignorar envio do EAN (GTIN):** a opção _sim_ significa que os SKUs serão enviados sem o código de barras. Se o seu produto possuir código de barras, a recomendação é marcar _não, _de forma a incluir essa informação na integração. Caso necessário, veja o artigo [Cadastrar o campo EAN](https://help.vtex.com/pt/tutorial/cadastrar-o-codigo-de-barra-dos-skus-para-o-instore--2jkOdRB4XSMG2ke0uUQIKS#cadastrar-o-campo-ean).
+   - **Ignorar envio do EAN (GTIN):** a opção _sim_ significa que os SKUs serão enviados sem o código de barras. Se o seu produto possuir código de barras, a recomendação é marcar _não, _de forma a incluir essa informação na integração. Caso necessário, veja o artigo [Cadastrar o campo EAN](/pt/tutorial/cadastrar-o-codigo-de-barra-dos-skus-para-o-instore--2jkOdRB4XSMG2ke0uUQIKS#cadastrar-o-campo-ean).
    - **Merchant Id*:** código atribuído ao seu perfil no Google Merchant Center (sequência numérica que aparece no canto superior direito da sua tela quando você acessa sua conta).
    - **Política comercial*:** número da política comercial que definirá o sortimento de catálogo e valores dos itens utilizados na integração.
    - **E-mail da conta Google Merchant*:** email utilizado na criação da conta no Google Merchant Center.

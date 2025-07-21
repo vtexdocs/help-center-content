@@ -1,5 +1,5 @@
 ---
-title: 'Campo Nome do produto em XML retorna Nome do produto + Nome do Sku quando o produto tem apenas 1 sku'
+title: "Campo Nome do produto em XML retorna Nome do produto + Nome do Sku quando o produto tem apenas 1 sku"
 id: 7sNNzBe5pLn7oigDgoCKjv
 status: PUBLISHED
 createdAt: 2022-09-19T19:06:55.572Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku
+slugEN: campo-nome-do-produto-em-xml-retorna-nome-do-produto-nome-do-sku-quando-o-produto-tem-apenas-1-sku
 locale: pt
 kiStatus: No Fix
 internalReference: 661089
@@ -18,7 +18,9 @@ internalReference: 661089
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

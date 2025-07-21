@@ -1,5 +1,5 @@
 ---
-title: 'XML carrega preço do produto sem multiplicador de unidade do SKU'
+title: "XML carrega preço do produto sem multiplicador de unidade do SKU"
 id: 3B1Vi8l3gICcqKuqcAoKqI
 status: PUBLISHED
 createdAt: 2018-03-29T19:49:29.768Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-loads-product-price-without-sku-unit-multiplier
+slugEN: xml-carrega-preco-do-produto-sem-multiplicador-de-unidade-do-sku
 locale: pt
 kiStatus: Backlog
 internalReference: 

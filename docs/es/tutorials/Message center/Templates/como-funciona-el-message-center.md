@@ -3,8 +3,8 @@ title: 'Cómo funciona el Centro de mensajes'
 id: tutorials_84
 status: PUBLISHED
 createdAt: 2017-04-27T22:20:04.874Z
-updatedAt: 2021-06-01T18:46:54.349Z
-publishedAt: 2021-06-01T18:46:54.349Z
+updatedAt: 2025-01-24T15:17:44.604Z
+publishedAt: 2025-01-24T15:17:44.604Z
 firstPublishedAt: 2017-04-27T23:00:42.423Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -20,6 +20,10 @@ subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ## Plantillas
 
 Las Plantillas son los mensajes en sí. Los mensajes están categorizados conforme al módulo responsable y se destinan a un contenido específico. Dentro de cada uno tenemos el título/asunto del email, el código HTML, el remitente que va a realizar el envío y el destinatario, con posibilidades de especificar “CC” y “CCO”.
+
+<div class="alert alert-warning">
+  <p> Por motivos de seguridad, no todas las plantillas se pueden enviar con “CC” y “CCO”.</p>
+</div>
 
 Entienda la información que trae cada _card_ de plantilla :
 

@@ -1,5 +1,5 @@
 ---
-title: 'Validação de anexo somente no marketplace ao adicionar um item de um vendedor com anexo'
+title: "Validação de anexo somente no marketplace ao adicionar um item de um vendedor com anexo"
 id: 638N4urP08NY7v8jdH7U5N
 status: PUBLISHED
 createdAt: 2023-12-22T18:18:59.194Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: attachment-validation-only-in-the-marketplace-when-adding-an-item-from-a-seller-with-attachment
+slugEN: validacao-de-anexo-somente-no-marketplace-ao-adicionar-um-item-de-um-vendedor-com-anexo
 locale: pt
 kiStatus: Backlog
 internalReference: 957343
@@ -18,7 +18,9 @@ internalReference: 957343
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao adicionar um item de um vendedor com um anexo na mesma solicitação de API, a validação do anexo ocorre somente no marketplace.

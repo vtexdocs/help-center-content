@@ -1,5 +1,5 @@
 ---
-title: 'Link do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplace'
+title: "Link do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplace"
 id: 5LPtSrvUVnd3Bnw3GtQ67M
 status: PUBLISHED
 createdAt: 2019-03-08T20:00:30.460Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Order Management
-slugEN: tx-id-link-in-orders-management-doesnt-redirect-to-payment-module-in
+slugEN: link-do-tx-id-no-gerenciamento-de-pedidos-nao-redireciona-para-o-modulo-de
 locale: pt
 kiStatus: Backlog
 internalReference: 

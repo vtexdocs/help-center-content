@@ -1,5 +1,5 @@
 ---
-title: 'Item disponível quando a localização do cliente não está definida e não há estoque'
+title: "Item disponível quando a localização do cliente não está definida e não há estoque"
 id: 7vDywP0WtfpJ4bCiNkXNfw
 status: PUBLISHED
 createdAt: 2024-07-30T22:51:30.425Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: item-available-when-customer-location-is-not-defined-with-no-stock
+slugEN: item-disponivel-quando-a-localizacao-do-cliente-nao-esta-definida-e-nao-ha-estoque
 locale: pt
 kiStatus: Backlog
 internalReference: 1073363
@@ -18,7 +18,9 @@ internalReference: 1073363
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a localização do cliente não é definida, os itens aparecem disponíveis mesmo quando não há estoque disponível e nenhuma etiqueta branca do vendedor é abrangente. Isso acontece somente se a SKU tiver estoque no vendedor de etiqueta branca em um depósito associado a um canal de vendas diferente daquele registrado no endpoint de atendimento do vendedor.

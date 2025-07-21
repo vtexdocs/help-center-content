@@ -1,5 +1,5 @@
 ---
-title: 'URL obsoleta en la interfaz de usuario de actualización de enlaces'
+title: "URL obsoleta en la interfaz de usuario de actualización de enlaces"
 id: 7bgh2LIJTFovgoz0TaBr5B
 status: PUBLISHED
 createdAt: 2023-08-30T20:04:23.301Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: outdated-url-on-the-update-binding-ui
+slugEN: url-obsoleta-en-la-interfaz-de-usuario-de-actualizacion-de-enlaces
 locale: es
 kiStatus: Backlog
 internalReference: 890791
@@ -18,7 +18,9 @@ internalReference: 890791
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el comerciante es la actualización de una licitación de la interfaz de usuario es como sigue:

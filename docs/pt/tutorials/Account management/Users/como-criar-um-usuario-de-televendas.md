@@ -15,7 +15,7 @@ legacySlug: como-criar-um-usuario-de-televendas
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artigo explica como cadastrar um usuário com o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Este artigo explica como cadastrar um usuário com o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
 
 ## Os perfis de televendas
 
@@ -43,5 +43,7 @@ Para criar um usuário com perfil de televendas, siga os seguintes passos:
 
 ![GIF animado mostrando como criar usuário televendas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/como-criar-um-usuario-de-televendas_1.gif)
 
->⚠️ Ao criar um [perfil](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+<div class="alert alert-warning">
+  Ao criar um <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil</a>, evite incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+</div>
 

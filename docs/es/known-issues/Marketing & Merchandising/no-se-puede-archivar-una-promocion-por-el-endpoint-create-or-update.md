@@ -1,5 +1,5 @@
 ---
-title: 'No se puede archivar una promoción por el endpoint Create Or Update Promotion'
+title: "No se puede archivar una promoción por el endpoint Create Or Update Promotion"
 id: 3MUDa3ZvdhoahJhZ4FvekO
 status: PUBLISHED
 createdAt: 2021-02-25T20:33:18.281Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Pricing & Promotions
-slugEN: you-cannot-archive-a-promotion-via-the-create-or-update-promotion-endpoint
+slugEN: no-se-puede-archivar-una-promocion-por-el-endpoint-create-or-update
 locale: es
 kiStatus: Backlog
 internalReference: 

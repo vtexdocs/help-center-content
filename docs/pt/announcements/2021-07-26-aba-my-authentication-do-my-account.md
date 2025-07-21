@@ -17,11 +17,13 @@ announcementSynopsisPT: 'My Authentication é uma aba do My Account que permite 
 
 My Authentication é uma aba que aparece no painel do My Account dentro da loja e está disponível em todas as contas da VTEX.
 
->❗ Esta mudança afetará todas as lojas da VTEX. Como a mudança interfere em alguns componentes na UI da loja, é necessário que você faça alterações manuais nas configurações da sua loja até a data limite de 29/09.
+<div class="alert alert-danger">
+Esta mudança afetará todas as lojas da VTEX. Como a mudança interfere em alguns componentes na UI da loja, é necessário que você faça alterações manuais nas configurações da sua loja até a data limite de 29/09.
+</div>
 
 ## O que muda?
 
-Esta aba é um local onde os usuários serão capazes de gerenciar a sua senha. Na aba também é possível gerenciar as sessões de login, permitindo ao usuário encerrar outras sessões remotamente. Mais detalhes sobre o uso da aba podem ser encontrados na seção [Autenticação do artigo Configurar o My Account](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+Esta aba é um local onde os usuários serão capazes de gerenciar a sua senha. Na aba também é possível gerenciar as sessões de login, permitindo ao usuário encerrar outras sessões remotamente. Mais detalhes sobre o uso da aba podem ser encontrados na seção [Autenticação do artigo Configurar o My Account](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ![My Authentication app PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-07-26-aba-my-authentication-do-my-account_1.png)
 
@@ -53,7 +55,9 @@ Como a habilitação da aba insere um elemento na UI da loja, ela pode precisar 
 - Caso a sua loja seja VTEX IO, utilize o endereço `https://{account}.myvtex.com/account#/authentication`, substituindo `{account}` pelo nome da conta.
 - Caso a sua loja não use o VTEX IO, utilize o endereço `https://{account}.vtexcommercestable.com.br/_secure/account#/authentication`, substituindo `{account}` pelo nome da conta.
 
->⚠️ Antes de acessar a aba de autenticação pela URL é preciso fazer login na loja com uma conta de usuário.
+<div class="alert alert-warning">
+Antes de acessar a aba de autenticação pela URL é preciso fazer login na loja com uma conta de usuário.
+</div>
 
 Para realizar a customização de aparência da aba, peça para o desenvolvedor seguir o artigo [My Authentication Customization Guide using CMS](https://developers.vtex.com/vtex-rest-api/docs/ui-customization-my-authentication), para lojas que não utilizam o VTEX IO, ou o artigo [My Authentication Customization Guide on VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-my-authentication), para lojas do VTEX IO, no nosso portal para desenvolvedores.
 

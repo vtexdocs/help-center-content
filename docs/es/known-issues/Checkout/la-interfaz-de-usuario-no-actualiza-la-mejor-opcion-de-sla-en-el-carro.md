@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario no actualiza la mejor opción de SLA en el carro'
+title: "La interfaz de usuario no actualiza la mejor opción de SLA en el carro"
 id: 5H05jLUJA0gmSDTO6nMsPE
 status: PUBLISHED
 createdAt: 2022-03-26T02:30:36.692Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-does-not-update-best-sla-choice-in-cart
+slugEN: la-interfaz-de-usuario-no-actualiza-la-mejor-opcion-de-sla-en-el-carro
 locale: es
 kiStatus: No Fix
 internalReference: 550201
@@ -18,7 +18,9 @@ internalReference: 550201
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando tenemos dos SKUs en el carrito cuyo SLAID de los artículos tiene una intersección, este es el SLA que se ofrecerá en el carrito con leanShipping activo;

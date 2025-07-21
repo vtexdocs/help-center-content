@@ -1,5 +1,5 @@
 ---
-title: 'Faça um loop na janela pop-up de autenticação quando a primeira condição de pagamento exigir autenticação'
+title: "Faça um loop na janela pop-up de autenticação quando a primeira condição de pagamento exigir autenticação"
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: loop-in-the-authentication-popup-when-the-first-payment-condition-requires-authentication
+slugEN: faca-um-loop-na-janela-popup-de-autenticacao-quando-a-primeira-condicao-de-pagamento-exigir-autenticacao
 locale: pt
 kiStatus: Backlog
 internalReference: 844192
@@ -18,7 +18,9 @@ internalReference: 844192
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O pop-up de autenticação entra em loop quando a primeira condição de pagamento tem `requiresAuthentication: true`. A continuação da compra só será possível se a página for recarregada.

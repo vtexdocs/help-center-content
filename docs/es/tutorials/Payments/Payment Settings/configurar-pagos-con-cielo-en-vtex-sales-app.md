@@ -3,8 +3,8 @@ title: 'Configurar pagos con Cielo en VTEX Sales App'
 id: 2p8rALKTNojgEl8zKn5BtG
 status: PUBLISHED
 createdAt: 2024-08-16T15:15:25.799Z
-updatedAt: 2024-09-24T16:17:56.062Z
-publishedAt: 2024-09-24T16:17:56.062Z
+updatedAt: 2025-07-17T20:58:47.728Z
+publishedAt: 2025-07-17T20:58:47.728Z
 firstPublishedAt: 2024-08-16T18:22:08.305Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,11 @@ legacySlug: configurar-pagos-con-cielo-en-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago Cielo. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+En VTEX, es posible integrarse con el proveedor de pago Cielo. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ Para utilizar el proveedor Cielo en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con CieloEcommerce](https://help.vtex.com/es/tutorial/configurar-pago-con-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
+<div class="alert alert-info">
+Para utilizar el proveedor Cielo en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-cieloecommerce--6zuELBqEo0QzApbU4l7L4">Configurar pago con CieloEcommerce</a>.
+</div>
 
 Para utilizar el proveedor Cielo en la VTEX Sales App, es necesario:
 
@@ -25,7 +27,9 @@ Para utilizar el proveedor Cielo en la VTEX Sales App, es necesario:
 - [Configurar el conector Cielo (VTEX Sales App) en VTEX](#configurar-el-conector-cielo-vtex-sales-app-en-vtex)
 - [Configurar condición de pago](#configurar-condicion-de-pago)
 
->⚠️ Las configuraciones realizadas en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Cielo para obtener información actualizada.
+<div class="alert alert-warning">
+Las configuraciones realizadas en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Cielo para obtener información actualizada.
+</div>
 
 ## Configurar claves en el entorno de Cielo
 
@@ -33,12 +37,16 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 
 <blockquote><ui>1. Accede al <a href="https://desenvolvedores.cielo.com.br/api-portal/pt-br">portal para desarrolladores de Cielo</a> para crear una nueva cuenta.</ui>
 
-<blockquote><ui>>⚠️ El portal de desarrolladores Cielo permite al usuario obtener información sobre todas las claves necesarias para configurar la conexión entre VTEX y Cielo Lio. Recomendamos que el procedimiento a continuación lo realice un usuario que ya tenga acceso a las otras claves en su cuenta Cielo.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+El portal de desarrolladores Cielo permite al usuario obtener información sobre todas las claves necesarias para configurar la conexión entre VTEX y Cielo Lio. Recomendamos que el procedimiento a continuación lo realice un usuario que ya tenga acceso a las otras claves en su cuenta Cielo.
+  </div></blockquote>
 
 <blockquote><ui>2. Luego de iniciar sesión, solicite la creación de claves de SalesApp a través del enlace <a href="https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108">https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108</a> 
 o accediendo <b>Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota</b> dentro del portal. Introduzca los siguientes datos: <i>Assunto: Solicitação de chaves de produção</i> y <i>Nome do PDV: SalesApp</i>.</ui> 
 
-<blockquote><ui>>ℹ️ Las claves estarán disponibles en el portal de desarrolladores Cielo dentro de 2 días hábiles.</blockquote>
+<blockquote><ui><div class="alert alert-info">
+Las claves estarán disponibles en el portal de desarrolladores Cielo dentro de 2 días hábiles.
+</div></blockquote>
 
 ## Configurar el conector Cielo (VTEX Sales App) en VTEX
 
@@ -100,7 +108,7 @@ o accediendo <b>Suporte > Cielo Lio > Envie sua pergunta > Token de integração
 4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 8. Haga clic en `Guardar`.
 
 Tras seguir los pasos indicados, el proveedor Cielo puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.

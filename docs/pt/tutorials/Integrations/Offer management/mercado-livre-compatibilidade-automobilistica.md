@@ -15,15 +15,19 @@ legacySlug: mercado-livre-compatibilidade-automobilistica
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
->ℹ️ Este recurso está disponível apenas para sellers VTEX que vendem produtos automobilísticos da Argentina, Brasil e México.  
+<div class = "alert alert-info">
+Este recurso está disponível apenas para sellers VTEX que vendem produtos automobilísticos da Argentina, Brasil e México.
+</div>  
 
-No módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE), os sellers de lojas VTEX podem acompanhar e gerenciar os anúncios enviados aos canais de vendas, [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e outros marketplaces VTEX. 
+No módulo [Gerenciamento de anúncios](/pt/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE), os sellers de lojas VTEX podem acompanhar e gerenciar os anúncios enviados aos canais de vendas, [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e outros marketplaces VTEX. 
 
 A compatibilidade automobilística, possibilita aos sellers informar com quais veículos cada acessório anunciado é compatível, tirando a necessidade de criar diversos anúncios para um mesmo produto. 
 
 Nos anúncios enviados ao Mercado Livre é possível identificar quais apresentam o erro `Compatibilidade com Meli`, esse erro ocorre quando o anúncio de um acessório automobilístico é enviado sem as informações de qual veículo ele é compatível ou quando as configurações estão cadastradas de maneira incorreta. 
 
->⚠️ Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.  
+<div class = "alert alert-warning">
+Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.
+</div>  
 
 ![Mercado Livre: Compatibilidade Automobilística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/mercado-livre-compatibilidade-automobilistica_1.png)  
 
@@ -42,12 +46,14 @@ Para corrigir os erros de `Compatibilidade com Meli`, siga o passo a passo abaix
 
 Realizado o passo a passo, seu anúncio está pronto para ser enviado ao Mercado Livre.  
 
->ℹ️ Não é possível informar a compatibilidade automobilística para lubrificantes, fluido refrigerante e fluido para freios.
+<div class = "alert alert-info">
+Não é possível informar a compatibilidade automobilística para lubrificantes, fluido refrigerante e fluido para freios.
+</div>
 
 Artigos relacionados:
 
-- [Mapear categorias e atributos dos produtos para o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
-- [Gerenciamento de anúncios: detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)
-- [Gerenciamento de anúncios: detalhes da interação](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
+- [Mapear categorias e atributos dos produtos para o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
+- [Gerenciamento de anúncios: detalhes do anúncio](/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)
+- [Gerenciamento de anúncios: detalhes da interação](/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 - [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/docs/guides/sent-offers-integration-guide-connectors)
 

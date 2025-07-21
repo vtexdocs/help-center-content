@@ -33,10 +33,14 @@ See more details on [How to visualize the order detail](/en/tutorial/how-to-view
 
 To capture the IP by integration, it is possible to check the API Get Order with the orderID.
 
->ℹ️ [See documentation of API OMS](https://developers.vtex.com/reference/orders#getorder)
+<div class="alert alert-info">
+<a href="https://developers.vtex.com/reference/orders#getorder">See documentation of API OMS</a>
+</div>
 
 Once the Order Json is obtained, it is possible to capture the `transactionId` and check the API **Get Transaction Details** with the transaction ID.
 
->ℹ️ [See documentation of API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
+<div class="alert alert-info">
+<a href="https://developers.vtex.com/reference/transaction-process#transactiondetails">See documentation of API Transaction</a>
+</div>
 
 Finally, from this last call it is possible to check the `ipAddress` field.

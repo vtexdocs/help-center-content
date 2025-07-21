@@ -15,7 +15,9 @@ legacySlug: configurar-producto-visitado
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->⚠️ Tutorial válido únicamente para tiendas CMS Portal Legado.
+<div class="alert alert-warning">
+  <p>Tutorial válido únicamente para tiendas CMS Portal Legado.</p>
+</div>
 
 El email de producto visitado es un mensaje automático que se envía a los clientes que han visitado la página de un producto en el sitio web, pero no finalizaron la compra. El propósito de este email es recuperar la venta y ofrecer otros productos.
 
@@ -27,7 +29,9 @@ Puedes configurarlo vía Master Data siguiendo las instrucciones de las seccione
 4. [Crear estructura de carpetas](#heading=h.tyjcwt)
 5. [Configurar trigger de envío de email](#heading=h.3dy6vkm)
 
->⚠️ Para que este recurso funcione adecuadamente es necesario que tu tienda tenga un alto flujo de visitas y compras, ya que la estantería de productos se genera utilizando datos de navegación relacionados con un producto específico.
+<div class="alert alert-warning">
+  <p>Para que este recurso funcione adecuadamente es necesario que tu tienda tenga un alto flujo de visitas y compras, ya que la estantería de productos se genera utilizando datos de navegación relacionados con un producto específico.</p>
+</div>
 
 ## Definir un intervalo mínimo de envío
 
@@ -82,7 +86,7 @@ El control encargado de mostrar el producto visitado es `ProductQueryStringRefer
 * **5**: Sugerencias
 * **6**: Accesorios
 
-Las tres primeras estanterías las compone automáticamente el sistema y las tres últimas se configuran [manualmente en el registro de productos](https://help.vtex.com/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
+Las tres primeras estanterías las compone automáticamente el sistema y las tres últimas se configuran [manualmente en el registro de productos](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
 
 ## Crear la estructura de carpetas
 

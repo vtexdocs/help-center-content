@@ -1,5 +1,5 @@
 ---
-title: 'The purchase button stays active even with insufficient credit of Payment Method Customer Credit'
+title: "The purchase button stays active even with insufficient credit of Payment Method Customer Credit"
 id: 76oPdoBKDn3PSn2KhomgQc
 status: PUBLISHED
 createdAt: 2022-03-27T14:14:51.967Z

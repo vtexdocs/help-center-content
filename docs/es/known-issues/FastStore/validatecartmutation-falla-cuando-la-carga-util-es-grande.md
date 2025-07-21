@@ -1,5 +1,5 @@
 ---
-title: 'ValidateCartMutation falla cuando la carga útil es grande'
+title: "ValidateCartMutation falla cuando la carga útil es grande"
 id: 5YmPMVGsi92owcmICg3CY3
 status: PUBLISHED
 createdAt: 2024-02-21T15:23:44.054Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: validatecartmutation-failing-when-large-payload
+slugEN: validatecartmutation-falla-cuando-la-carga-util-es-grande
 locale: es
 kiStatus: Backlog
 internalReference: 985867
@@ -18,7 +18,9 @@ internalReference: 985867
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

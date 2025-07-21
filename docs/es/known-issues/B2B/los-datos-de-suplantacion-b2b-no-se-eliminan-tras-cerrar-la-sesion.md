@@ -1,5 +1,5 @@
 ---
-title: 'Los datos de suplantación B2B no se eliminan tras cerrar la sesión'
+title: "Los datos de suplantación B2B no se eliminan tras cerrar la sesión"
 id: bHYLV4reDQl4epmPbYwmJ
 status: PUBLISHED
 createdAt: 2024-07-18T21:56:41.780Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-impersonated-data-is-not-removed-after-logging-out
+slugEN: los-datos-de-suplantacion-b2b-no-se-eliminan-tras-cerrar-la-sesion
 locale: es
 kiStatus: Backlog
 internalReference: 1067969
@@ -18,7 +18,9 @@ internalReference: 1067969
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El cierre de sesión después de hacerse pasar por un usuario en B2B Suite no elimina los permisos de la tienda de la sesión.

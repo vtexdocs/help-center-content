@@ -1,5 +1,5 @@
 ---
-title: 'O espaço na identificação do armazém faz com que os pedidos logísticos internos falhem'
+title: "O espaço na identificação do armazém faz com que os pedidos logísticos internos falhem"
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: space-in-warehouse-id-causes-internal-logistics-requests-to-fail
+slugEN: o-espaco-na-identificacao-do-armazem-faz-com-que-os-pedidos-logisticos-internos-falhem
 locale: pt
 kiStatus: No Fix
 internalReference: 654370
@@ -18,7 +18,9 @@ internalReference: 654370
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A IU de logística permite que um usuário crie um depósito registrando uma identificação com espaço e isto afeta diretamente as solicitações feitas a este depósito e pode causar falhas na atualização do estoque.

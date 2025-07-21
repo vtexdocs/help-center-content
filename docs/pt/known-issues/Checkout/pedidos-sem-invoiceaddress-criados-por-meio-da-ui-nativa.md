@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos sem invoiceAddress criados por meio da UI nativa'
+title: "Pedidos sem invoiceAddress criados por meio da UI nativa"
 id: 1XjNZhcTJ5rZJP4w3kJtcW
 status: PUBLISHED
 createdAt: 2022-01-24T20:21:07.893Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orders-without-invoiceaddress-created-through-native-ui
+slugEN: pedidos-sem-invoiceaddress-criados-por-meio-da-ui-nativa
 locale: pt
 kiStatus: Fixed
 internalReference: 306140
@@ -18,7 +18,9 @@ internalReference: 306140
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, ainda é possível criar pedidos sem o `invoiceAddress` por meio da interface de checkout.

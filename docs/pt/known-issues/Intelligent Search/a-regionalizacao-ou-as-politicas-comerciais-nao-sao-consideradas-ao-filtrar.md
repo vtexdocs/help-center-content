@@ -1,5 +1,5 @@
 ---
-title: 'A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço'
+title: "A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço"
 id: hipqkoLiWMSMEWJxecoIW
 status: PUBLISHED
 createdAt: 2023-05-08T14:46:49.797Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
-slugEN: regionalization-or-trade-policies-arent-considered-while-filtering-or
+slugEN: a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar
 locale: pt
 kiStatus: Backlog
 internalReference: 571101
@@ -18,7 +18,9 @@ internalReference: 571101
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Ao usar a Pesquisa Inteligente (via PLP ou mesmo sua API) junto com a regionalização (regionId) ou a variação da política comercial, a classificação e a filtragem de itens por preço não funcionam corretamente.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Produtos sem SKU não são devolvidos na administração ao pesquisar por ID do produto'
+title: "Produtos sem SKU não são devolvidos na administração ao pesquisar por ID do produto"
 id: 3wKlmxitHk1fPfwwEAt6PG
 status: PUBLISHED
 createdAt: 2023-04-12T19:03:45.264Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: products-without-sku-are-not-returned-in-the-admin-when-searching-by-product-id
+slugEN: produtos-sem-sku-nao-sao-devolvidos-na-administracao-ao-pesquisar-por-id-do-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 740431
@@ -18,7 +18,9 @@ internalReference: 740431
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Produtos sem SKU não são devolvidos na administração ao pesquisar por ID do produto

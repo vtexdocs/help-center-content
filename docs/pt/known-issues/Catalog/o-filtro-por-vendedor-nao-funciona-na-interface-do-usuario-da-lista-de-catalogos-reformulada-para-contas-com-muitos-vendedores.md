@@ -1,5 +1,5 @@
 ---
-title: 'O filtro por vendedor não funciona na interface do usuário da lista de catálogos reformulada para contas com muitos vendedores'
+title: "O filtro por vendedor não funciona na interface do usuário da lista de catálogos reformulada para contas com muitos vendedores"
 id: CmbTPwIG607eKi7DchCHw
 status: PUBLISHED
 createdAt: 2024-08-02T16:50:48.989Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: filter-by-seller-does-not-work-on-redesigned-catalog-list-ui-for-accounts-with-many-sellers
+slugEN: o-filtro-por-vendedor-nao-funciona-na-interface-do-usuario-da-lista-de-catalogos-reformulada-para-contas-com-muitos-vendedores
 locale: pt
 kiStatus: Backlog
 internalReference: 1075106
@@ -18,7 +18,9 @@ internalReference: 1075106
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface do usuário da lista de catálogos redesenhada fornece alguns filtros:

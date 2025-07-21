@@ -1,5 +1,5 @@
 ---
-title: 'Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager'
+title: "Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager"
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
+slugEN: al-subir-mas-de-un-archivo-existente-a-la-vez-no-se-actualizan-todos-los-archivos-en-el-file-manager
 locale: es
 kiStatus: Backlog
 internalReference: 

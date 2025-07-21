@@ -1,5 +1,5 @@
 ---
-title: 'El descuento nominal no se distribuye entre todos los artículos de la cesta'
+title: "El descuento nominal no se distribuye entre todos los artículos de la cesta"
 id: gt1qMqN71YkaHuZgk9Ibs
 status: PUBLISHED
 createdAt: 2023-01-25T17:33:59.274Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: nominal-discount-is-not-being-distributed-among-all-items-in-the-cart
+slugEN: el-descuento-nominal-no-se-distribuye-entre-todos-los-articulos-de-la-cesta
 locale: es
 kiStatus: Backlog
 internalReference: 334130
@@ -18,7 +18,9 @@ internalReference: 334130
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'A API da região retorna a lista de vendedores devido ao cache'
+title: "A API da região retorna a lista de vendedores devido ao cache"
 id: 1uDscW8Z3tG4EXS23fCfci
 status: PUBLISHED
 createdAt: 2024-01-22T17:34:18.690Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: region-api-returns-seller-list-due-to-cache
+slugEN: a-api-da-regiao-retorna-a-lista-de-vendedores-devido-ao-cache
 locale: pt
 kiStatus: Backlog
 internalReference: 969692
@@ -18,7 +18,9 @@ internalReference: 969692
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar uma estrutura de subconta com região, se a API Get sellers by region or address for usada em ambas as contas para o mesmo canal de vendas e uma delas não estiver disponível para esse canal de vendas, ela retornará uma lista de vendedores devido ao cache.

@@ -1,5 +1,5 @@
 ---
-title: '​​El punto de recogida no es visible durante la asociación con la política de envío'
+title: "​​El punto de recogida no es visible durante la asociación con la política de envío"
 id: 3GcfZkPG9yB3l8Cfd1lVzf
 status: PUBLISHED
 createdAt: 2021-12-16T19:34:39.907Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Logistics
-slugEN: the-order-management-filter-does-not-find-results-for-criteria-that-have
+slugEN: el-filtro-de-gestion-de-pedidos-no-devuelve-resultados-para-los-criterios
 locale: es
 kiStatus: Backlog
 internalReference: Zendesk Ticket #353656

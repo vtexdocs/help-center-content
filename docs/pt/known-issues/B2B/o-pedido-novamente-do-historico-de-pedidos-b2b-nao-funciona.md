@@ -1,5 +1,5 @@
 ---
-title: 'O pedido novamente do histórico de pedidos B2B não funciona'
+title: "O pedido novamente do histórico de pedidos B2B não funciona"
 id: 2kT6UJsivYRgEaYpeRpEWa
 status: PUBLISHED
 createdAt: 2023-05-05T13:16:44.403Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: order-again-from-b2b-orders-history-doesnt-work
+slugEN: o-pedido-novamente-do-historico-de-pedidos-b2b-nao-funciona
 locale: pt
 kiStatus: Fixed
 internalReference: 819920
@@ -18,7 +18,9 @@ internalReference: 819920
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o aplicativo B2B Orders History, a funcionalidade Order Again não funciona.

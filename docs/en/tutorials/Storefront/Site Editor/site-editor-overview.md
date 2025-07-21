@@ -38,11 +38,11 @@ In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the mai
 
 Check out the following tutorials to start managing your storefront content:
 
-- [Managing page and template content](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37)
-- [Improving SEO of Product Listing Pages](https://help.vtex.com/tutorial/improving-the-seo-of-product-listing-pages--UrQtlKAMuSaLBP5wG9ftG)
-- [Reusing images with Image Widget](https://help.vtex.com/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
-- [Linking URLs to banners using Site Editor](https://help.vtex.com/tutorial/linking-urls-to-banners-using-the-site-editor--4z2PagtN733waiWA8ttOuD)
-- [Creating landing pages via binding](https://help.vtex.com/en/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Managing content via binding](https://help.vtex.com/en/tutorial/managing-content-per-binding--5CZjZPMqi0ZNpuqzF6AUOn)
-- [Managing URL redirects via binding](https://help.vtex.com/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Managing page and template content](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37)
+- [Improving SEO of Product Listing Pages](/tutorial/improving-the-seo-of-product-listing-pages--UrQtlKAMuSaLBP5wG9ftG)
+- [Reusing images with Image Widget](/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+- [Linking URLs to banners using Site Editor](/tutorial/linking-urls-to-banners-using-the-site-editor--4z2PagtN733waiWA8ttOuD)
+- [Creating landing pages via binding](/en/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Managing content via binding](/en/tutorial/managing-content-per-binding--5CZjZPMqi0ZNpuqzF6AUOn)
+- [Managing URL redirects via binding](/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb)
 

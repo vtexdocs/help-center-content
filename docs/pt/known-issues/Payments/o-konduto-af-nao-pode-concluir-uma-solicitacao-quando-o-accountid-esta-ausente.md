@@ -1,5 +1,5 @@
 ---
-title: 'O Konduto AF não pode concluir uma solicitação quando o accountId está ausente.'
+title: "O Konduto AF não pode concluir uma solicitação quando o accountId está ausente."
 id: CGHZoCfr01ATsbtiLU9ym
 status: PUBLISHED
 createdAt: 2022-03-03T22:09:57.638Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: konduto-af-cannot-complete-a-request-when-the-accountid-is-missing
+slugEN: o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente
 locale: pt
 kiStatus: Backlog
 internalReference: 496298
@@ -18,7 +18,9 @@ internalReference: 496298
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um problema para aprovar algumas transações relacionadas ao sistema antifraude da Konduto. Esse problema ocorre quando o sistema não consegue fazer a solicitação necessária devido à ausência do accountId, que é necessário para recuperar as informações de pagamento do banco de dados da conta. Você pode verificar isso examinando a rota "/payment", onde encontrará o nó "usedAccountId" com um valor de "False" nesses casos.

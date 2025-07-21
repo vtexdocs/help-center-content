@@ -1,5 +1,5 @@
 ---
-title: 'Campos de tradução de categoria sendo sobregravados no catálogo graphql'
+title: "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
 id: 2nZlEN8Tlt7oKfF77u63ch
 status: PUBLISHED
 createdAt: 2023-03-22T15:48:59.725Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: category-translation-fields-being-overwritten-on-catalog-graphql
+slugEN: campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql
 locale: pt
 kiStatus: Backlog
 internalReference: 654896
@@ -18,7 +18,9 @@ internalReference: 654896
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao traduzir o conteúdo usando o aplicativo de catálogo-graphql ou a tradução do catálogo, os campos como nome, título ou descrição estão sendo sobregravados. Este comportamento só acontece se um destes campos (nome, título, descrição) for igual no registro do catálogo.

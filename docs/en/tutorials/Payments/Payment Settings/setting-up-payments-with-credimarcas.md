@@ -39,7 +39,9 @@ To configure Credimarcas provider, follow the steps below:
 
 ## Setting up Notes Payable
 
->⚠️ If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
+<div class="alert alert-warning">
+  <p>If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable">Setting up payments with Notes Payable</a>.</p>
+</div>
 
 To use Credimarcas with notes payable, follow the steps below:
 
@@ -48,11 +50,11 @@ To use Credimarcas with notes payable, follow the steps below:
 3. On __Custom Payment__, click the button corresponding to the name used for the Notes Payable payment method (previously configured).
 4. Activate the condition in the __Status__ field.
 5. On __Process with affiliation__, select __confepartnerco-credimarcas-v0__.
-6. If you wish, you can also configure [payment special conditionso](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditionso](/en/tutorial/special-conditions--tutorials_456).
 7. Click on `Save`.
 
 ## Setting up Private label
 
-To use Credimarcas with private labels cards, access [Setting up Private Label payments](https://help.vtex.com/en/tutorial/setting-up-private-label-payments--428FgVdSGQUeAOoogkaIw4).
+To use Credimarcas with private labels cards, access [Setting up Private Label payments](/en/tutorial/setting-up-private-label-payments--428FgVdSGQUeAOoogkaIw4).
 
 After following the indicated steps, Credimarcas connector may take up to 10 minutes to appear at your store's checkout as a payment option.

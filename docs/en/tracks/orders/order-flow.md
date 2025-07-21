@@ -14,18 +14,20 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---
 
-The [Order flow](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
+The [Order flow](/en/tutorial/order-flow-and-status--tutorials_196) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
 
 Order changes - whether caused by the customer, the store, or external systems - generate changes to the __order status__. And with that, the order moves within the flow.
 
 ## Marketplaces and Sellers
 
-[Marketplace and Seller](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
+[Marketplace and Seller](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
 
 - __Marketplace__ is the environment where the order is closed, ie, where the customer performs the checkout process.
 - __Seller__ is the owner of the SKU. It is therefore responsible for the fulfillment - that is, for delivering the product to the customer.
 
->ℹ️ Every store that sells products in its own environment and makes its own deliveries is a Marketplace and a Seller at the same time.
+<div class="alert alert-info">
+Every store that sells products in its own environment and makes its own deliveries is a Marketplace and a Seller at the same time.
+</div>
 
 It's important to understand these concepts because the Marketplace's order flow is different from the Seller's order flow.
 
@@ -69,13 +71,14 @@ Once the payment has been approved, the order goes to `Payment Approved` and the
 
 That is, in this case both payment and delivery steps are the store's responsibility.
 
->ℹ️ There are only two possible final statuses for every order:
->
-> 
->
-> * Invoiced
->
-> * Canceled
-> 
+<div class="alert alert-info">
+There are only two possible final statuses for every order:<br>
+<ul>
+  <li>Invoiced</li>
+  <li>Canceled</li>
+</ul>
+</div>
 
->ℹ️ To understand each order status in more detail, see a table with all statuses at [Understanding the Status](https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196#understanding-the-status).
+<div class="alert alert-info">
+To understand each order status in more detail, see a table with all statuses at <a href="https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196#understanding-the-status">Understanding the Status</a>.
+</div>

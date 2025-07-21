@@ -1,10 +1,10 @@
 ---
-title: 'Error importing product image spreadsheet'
+title: "Error importing product image spreadsheet"
 id: 4Ydb20N43mQA4a4O6wmss2
 status: PUBLISHED
 createdAt: 2018-04-13T00:00:44.849Z
-updatedAt: 2022-11-14T13:33:41.202Z
-publishedAt: 2022-11-14T13:33:41.202Z
+updatedAt: 2025-01-31T23:37:04.264Z
+publishedAt: 2025-01-31T23:37:04.264Z
 firstPublishedAt: 2018-04-13T00:12:24.202Z
 contentType: knownIssue
 productTeam: Marketing & Merchandising
@@ -32,6 +32,6 @@ When you upload the spreadsheet to import product images, all or some of the lin
 
 ## Workaround
 
-There is no workaround for importing images through spreadsheet. An alternative way to import images is to use webservice.
+There is no workaround for importing images through spreadsheet. An alternative way to import images is to use [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
 
 

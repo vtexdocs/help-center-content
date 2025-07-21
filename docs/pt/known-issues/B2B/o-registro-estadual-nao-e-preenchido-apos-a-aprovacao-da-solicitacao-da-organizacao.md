@@ -1,5 +1,5 @@
 ---
-title: 'O registro estadual não é preenchido após a aprovação da solicitação da organização'
+title: "O registro estadual não é preenchido após a aprovação da solicitação da organização"
 id: 7uUdlnXhfaaylNQNpIy3vE
 status: PUBLISHED
 createdAt: 2023-05-12T20:03:31.153Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: state-registration-is-not-filled-after-approving-the-organization-request
+slugEN: o-registro-estadual-nao-e-preenchido-apos-a-aprovacao-da-solicitacao-da-organizacao
 locale: pt
 kiStatus: Fixed
 internalReference: 825127
@@ -18,7 +18,9 @@ internalReference: 825127
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O campo Registro de Estado não é preenchido após a aprovação da Solicitação de Organização no administrador.

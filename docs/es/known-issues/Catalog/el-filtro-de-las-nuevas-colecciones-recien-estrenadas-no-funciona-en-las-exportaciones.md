@@ -1,5 +1,5 @@
 ---
-title: "El filtro de las nuevas colecciones 'Recién estrenadas' no funciona en las exportaciones"
+title: 'El filtro de las nuevas colecciones "Recién estrenadas" no funciona en las exportaciones'
 id: 7n6JZhsHxN8k27DUHOhgYg
 status: PUBLISHED
 createdAt: 2022-05-11T13:58:31.689Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: new-collections-newly-released-filter-is-not-working-for-exports
+slugEN: el-filtro-de-las-nuevas-colecciones-recien-estrenadas-no-funciona-en-las-exportaciones
 locale: es
 kiStatus: No Fix
 internalReference: 576760
@@ -18,7 +18,9 @@ internalReference: 576760
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El filtro de productos "Lanzamiento reciente" en el nuevo módulo de colecciones recupera los productos que se establecieron con la variable de fecha de lanzamiento en el pasado reciente. Está presente en el siguiente componente de la interfaz de usuario:

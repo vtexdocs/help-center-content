@@ -1,5 +1,5 @@
 ---
-title: 'Gift Card creation error via admin'
+title: "Gift Card creation error via admin"
 id: 6GUhpZbxYr0wTIuqN3S95A
 status: PUBLISHED
 createdAt: 2024-02-21T22:45:26.869Z

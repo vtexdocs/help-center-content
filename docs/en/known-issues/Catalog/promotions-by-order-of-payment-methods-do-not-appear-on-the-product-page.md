@@ -1,5 +1,5 @@
 ---
-title: 'Promotions by order of payment methods do not appear on the product page'
+title: "Promotions by order of payment methods do not appear on the product page"
 id: HZ5IoCFFOhuxU0jQWkMPp
 status: PUBLISHED
 createdAt: 2019-08-13T20:45:50.232Z

@@ -1,5 +1,5 @@
 ---
-title: 'Filtros de especificação com restrição de caracteres '
+title: "Filtros de especificação com restrição de caracteres"
 id: 3V0CMV9PMQmm2QuSaoqCcO
 status: PUBLISHED
 createdAt: 2018-09-20T16:28:09.186Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: specification-filters-with-character-restriction
+slugEN: filtros-de-especificacao-com-restricao-de-caracteres
 locale: pt
 kiStatus: Backlog
 internalReference: 

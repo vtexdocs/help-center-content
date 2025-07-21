@@ -1,5 +1,5 @@
 ---
-title: 'Agenda de banner no funciona correctamente'
+title: "Agenda de banner no funciona correctamente"
 id: 5JrrUCTU1q2KKCqo20SQqQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:39:38.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: banner-scheduling-is-deactivated-after-expiry-date
+slugEN: agenda-de-banner-no-funciona-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 

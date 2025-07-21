@@ -1,5 +1,5 @@
 ---
-title: "Una SKU puede estar activa y tener el indicador 'activar si es posible' desmarcado"
+title: 'Una SKU puede estar activa y tener el indicador "activar si es posible" desmarcado'
 id: 5uXQ65flkoEbYeLkNSw4ig
 status: PUBLISHED
 createdAt: 2023-11-07T11:01:20.612Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: a-sku-can-be-active-and-have-the-activate-if-possible-flag-unchecked
+slugEN: una-sku-puede-estar-activa-y-tener-el-indicador-activar-si-es-posible-desmarcado
 locale: es
 kiStatus: Backlog
 internalReference: 931324
@@ -18,7 +18,9 @@ internalReference: 931324
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera que una SKU activa tenga marcada la opción "activar si es posible", sin embargo, no siempre es así.

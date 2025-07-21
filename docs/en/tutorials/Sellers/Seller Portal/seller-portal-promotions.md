@@ -40,7 +40,7 @@ The **Promotions** page displays the following information in a table:
 
 ## Creating a new promotion
 
-To create a new promotion, click the `Create Promotion` button. For more information, read the guide [Seller Portal: Creating a promotion](https://help.vtex.com/en/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI).
+To create a new promotion, click the `Create Promotion` button. For more information, read the guide [Seller Portal: Creating a promotion](/en/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Searching for promotions
 
@@ -91,5 +91,7 @@ To go to the **Archived Promotions** page, click the <i class="fas fa-ellipsis-v
 
 You can unarchive or duplicate archived promotions by clicking the <i class="fas fa-ellipsis-v"></i> icon.
 
->ℹ️ When you unarchive a promotion, the status will change to `Paused`.
+<div class="alert alert-info">
+  <p>When you unarchive a promotion, the status will change to <code>Paused</code>.</p>
+  </div>
 

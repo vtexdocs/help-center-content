@@ -1,5 +1,5 @@
 ---
-title: 'PaymentSystems are not returned in orderForm when a cart price comes exclusively from manualPrice'
+title: "PaymentSystems are not returned in orderForm when a cart price comes exclusively from manualPrice"
 id: 3KPNFtPgEwshbv6WiGrqOF
 status: PUBLISHED
 createdAt: 2024-04-30T20:06:52.774Z

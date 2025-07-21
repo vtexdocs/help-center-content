@@ -38,12 +38,12 @@ Abaixo serão disponibilizadas todas as informações sobre o Google Search Cons
 
 O Search Console disponibiliza relatório de URLs indexadas com erro de rastreamento, principais parâmetros de URL, estatísticas da rastreabilidade de sua loja, teste de robots, além da inclusão de novas URLs e sitemaps.
 
-- **Erros de rastreamento:** relatório de URLs com erro no rastreamento, segmentado por dispositivo e tipo de erro. Saiba mais no artigo [Rastreamento Google Search Console - Erros de rastreamento](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
+- **Erros de rastreamento:** relatório de URLs com erro no rastreamento, segmentado por dispositivo e tipo de erro. Saiba mais no artigo [Rastreamento Google Search Console - Erros de rastreamento](/pt/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
 - **Estatísticas de rastreamento:** detalha informações sobre a atividade do Crawler do Google em todo o conteúdo de sua loja, como HTML, CSS, imagens e JS.
 - **Buscar com o Google:** funcionalidade que permite simular a busca de sua loja como o Google busca e indexa.
-- **Robots.txt**: valida o conteúdo e estrutura do arquivo robot.txt de sua loja. Saiba mais em [Rastreamento Google Search Console - robots.txt](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
+- **Robots.txt**: valida o conteúdo e estrutura do arquivo robot.txt de sua loja. Saiba mais em [Rastreamento Google Search Console - robots.txt](/pt/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
 - **Sitemaps**: permite o cadastro do sitemap de sua loja e o relatório de proporção de URLs enviadas versus URLs indexadas.
-- **Parâmetro de URL:** lista todos os parâmetros identificados nas urls de suas lojas e possibilita a definição de qual ação o Google aplicará para cada parâmetro. Saiba mais em [Rastreamento Google Search Console - Sitemap](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
+- **Parâmetro de URL:** lista todos os parâmetros identificados nas urls de suas lojas e possibilita a definição de qual ação o Google aplicará para cada parâmetro. Saiba mais em [Rastreamento Google Search Console - Sitemap](/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
 
 ## Índice do Google
 
@@ -78,8 +78,8 @@ O _snippet_ é um bloco de conteúdo relacionado ao link de sua loja que é exib
 
 ### Saiba mais
 
-- [Verificar propriedade no Google Search Console de loja VTEX](https://help.vtex.com/pt/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
-- [Dados estruturados através do Marcador de Dados do Google Search Console](https://help.vtex.com/pt/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
-- [Rastreamento Google Search Console - robots.txt](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
-- [Rastreamento Google Search Console - Sitemap](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
-- [Rastreamento Google Search Console - Erros de rastreamento](https://help.vtex.com/pt/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)
+- [Verificar propriedade no Google Search Console de loja VTEX](/pt/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
+- [Dados estruturados através do Marcador de Dados do Google Search Console](/pt/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
+- [Rastreamento Google Search Console - robots.txt](/pt/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
+- [Rastreamento Google Search Console - Sitemap](/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
+- [Rastreamento Google Search Console - Erros de rastreamento](/pt/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)

@@ -1,5 +1,5 @@
 ---
-title: 'Minha assinatura mostra uma mensagem de erro quando a assinatura está associada a um ponto de coleta'
+title: "Minha assinatura mostra uma mensagem de erro quando a assinatura está associada a um ponto de coleta"
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: my-subscription-showing-error-message-when-subscription-is-associated-with-a-pick-up-point
+slugEN: minha-assinatura-mostra-uma-mensagem-de-erro-quando-a-assinatura-esta-associada-a-um-ponto-de-coleta
 locale: pt
 kiStatus: Backlog
 internalReference: 692523
@@ -18,7 +18,9 @@ internalReference: 692523
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

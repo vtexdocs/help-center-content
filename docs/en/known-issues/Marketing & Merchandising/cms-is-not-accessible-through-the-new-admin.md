@@ -1,5 +1,5 @@
 ---
-title: 'CMS is not accessible through the new Admin (My VTEX)'
+title: "CMS is not accessible through the new Admin (My VTEX)"
 id: 49Ws7DDihGeQU04UmI86Cu
 status: PUBLISHED
 createdAt: 2018-04-18T20:04:23.491Z

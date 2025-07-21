@@ -1,5 +1,5 @@
 ---
-title: 'Error when searching for pickup points and listing stores in the store locator'
+title: "Error when searching for pickup points and listing stores in the store locator"
 id: Ycy0EPwfhPfDUx1abDMb2
 status: PUBLISHED
 createdAt: 2024-10-17T00:03:29.004Z

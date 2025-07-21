@@ -1,10 +1,10 @@
 ---
 title: 'Creating Collections (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2024-03-04T20:48:30.215Z
-publishedAt: 2024-02-22T12:15:26.041Z
+updatedAt: 2025-04-14T19:31:23.563Z
+publishedAt: 2025-04-14T19:31:23.563Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,10 @@ legacySlug: cadastrar-colecoes-beta
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
->ℹ️ There are two ways to configure collections, through the **CMS** or using the **Collections (Beta)** module. This article is about configuring collections through the **Collections (Beta)** module.
->
-> This feature is in Beta stage and available for environments starting from Admin v3. If you have any questions, please [contact our Support team](https://support.vtex.com/hc/en-us/requests" target="_blank).
+<div class = "alert alert-info" >
+  <p>There are two ways to configure collections, through the <b>CMS</b> or using the <b>Collections (Beta)</b> module. This article is about configuring collections through the <b>Collections (Beta)</b> module.</p>
+    <p>This feature is in Beta stage and available for environments starting from Admin v3. If you have any questions, please <a href="https://support.vtex.com/hc/en-us/requests" target="_blank">contact our Support team</a>.</p>
+</div>
 
 The new __Collections (Beta)__ module allows you to create and manage collections in a practical and quick way. 
 
@@ -33,7 +34,7 @@ This article explains how to:
 
 ## Prerequisite
 
-To create a collection, you must have the _Owner (Admin Super)_ [role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
+To create a collection, you must have the _Owner (Admin Super)_ [role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
 
 ## Create a collection
 
@@ -42,11 +43,13 @@ Follow the step by step below to add a new collection:
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click on **Collections**.
 3. Click on the `Create Collection` button.
-4. Fill in the [Collection fields](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
+4. Fill in the [Collection fields](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
 5. Click on `Create` to update the information filled in the form.
-6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
+6. Then, [select the products](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
 
->ℹ️ Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.
+<div class = "alert alert-info">
+  <p>Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.</p>
+</div>
 
 ### Collection data fields
 
@@ -55,6 +58,10 @@ To better understand the meaning of the data fields of a products collection, th
 #### New Collection settings
 
 - **Collection Name:** the collection's name. This is a mandatory field.
+  <div class="alert alert-danger">
+Don’t use special characters in the collection name.
+</div>
+
 - **Simple description:** description for internal use, with the collection's details. It will not be used for search engines.
 - **Add products automatically:** automatically include products in the collection based on the selected criteria.
 
@@ -103,11 +110,13 @@ If you want to add in bulk, apply one of the filters and click on the `Add All` 
 
 ![EN-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_5.png)
 
->❗ <p> Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
+<div class = "alert alert-danger" >
+  <p> Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
+</div>
 
 #### By spreadsheet
 
->ℹ️ The maximum limit for import and export is 10,000 SKUs per operation.
+<div class = "alert alert-info">The maximum limit for import and export is 10,000 SKUs per operation.</div>
 
 You can also add items to a collection using a spreadsheet by following the steps below:
 
@@ -119,7 +128,9 @@ You can also add items to a collection using a spreadsheet by following the step
   6. After filling out the spreadsheet, save the changes, and import the document into the VTEX Admin. You can drop the file in the indicated area or click on **Choose a file**. Files in CSV or XML format are accepted.
   7. To finish, click on `Import`.
 
- >⚠️ The spreadsheet can contain up to 10,000 rows. However, in stores with a large catalog, we recommend including a maximum of 50 rows at a time to ensure the import works correctly.
+ <div class = "alert alert-warning" >
+  <p>The spreadsheet can contain up to 10,000 rows. However, in stores with a large catalog, we recommend including a maximum of 50 rows at a time to ensure the import works correctly.</p>
+</div>
 
 ### Product removal
 
@@ -137,7 +148,9 @@ If you wish to remove in bulk, apply one of the filters and click on the `Remove
 
 You can also click on the button <i class="far fa-check-circle" title = "check in circle"></i> (**Products in this collection**) in the top bar and then click `Remove All`.
 
->❗ <p> Do not bulk remove more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
+<div class = "alert alert-danger" >
+  <p> Do not bulk remove more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
+</div>
 
 #### By spreadsheet
 
@@ -158,7 +171,9 @@ To change your collection's order, follow the steps below:
 
   a. Click on the <i class="fas fa-grip-vertical" title="drag vertical"></i> icon, drag the item and release it on the desired position.
 
-  >ℹ️ You cannot use this option if a filter is active.
+  <div class = "alert alert-info" >
+    <p> You cannot use this option if a filter is active.</p>
+  </div>
 
   b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allows you to rearrange items in bulk.
 

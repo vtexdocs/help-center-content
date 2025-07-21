@@ -15,4 +15,4 @@ legacySlug: accounts-payable-procedures
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries. The English speaking countries version version is available at [Accounts Payable - International.](https://help.vtex.com/en/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs)
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries. The English speaking countries version version is available at <a href="https://help.vtex.com/en/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs">Accounts Payable - International.</a> </div>

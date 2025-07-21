@@ -1,5 +1,5 @@
 ---
-title: 'Atualização Regex da Cabal'
+title: "Atualização Regex da Cabal"
 id: 7vKZhdGjEVzQUqhR9QUTs9
 status: PUBLISHED
 createdAt: 2022-03-27T18:08:17.932Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: cabals-regex-update
+slugEN: atualizacao-regex-da-cabal
 locale: pt
 kiStatus: Backlog
 internalReference: 374652
@@ -18,7 +18,9 @@ internalReference: 374652
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

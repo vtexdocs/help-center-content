@@ -1,5 +1,5 @@
 ---
-title: 'Fixed Price being created on trade Policy 1 when saving bundle prices.'
+title: "Fixed Price being created on trade Policy 1 when saving bundle prices."
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z

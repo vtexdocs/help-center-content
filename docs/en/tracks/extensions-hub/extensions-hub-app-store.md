@@ -62,7 +62,9 @@ Follow the steps below to get an app:
 
 After completing these steps, the app will be available in your account and installed in the store you are currently using.
 
->⚠️ Before buying an app, we recommend reading the vendor terms and conditions and VTEX terms through the links available under the **Get App** button.
+<div class="alert alert-warning" role="alert">
+Before buying an app, we recommend reading the vendor terms and conditions and VTEX terms through the links available under the <b>Get App</b> button.
+</div>
 
 The app pricing can be as follows:
 
@@ -70,4 +72,4 @@ The app pricing can be as follows:
 - Flat monthly fee.
 - Special conditions. These may include the number of SMS sent, the live-streaming duration, among others.
 
-The costs will be automatically added to your [VTEX invoice](https://help.vtex.com/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) immediately after you buy the app.
+The costs will be automatically added to your [VTEX invoice](/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) immediately after you buy the app.

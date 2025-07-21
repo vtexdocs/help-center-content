@@ -1,5 +1,5 @@
 ---
-title: 'O relatório dos assinantes não mostra corretamente as assinaturas ativas'
+title: "O relatório dos assinantes não mostra corretamente as assinaturas ativas"
 id: 4sqvm1v4CbCJLQ3HBBVTmp
 status: PUBLISHED
 createdAt: 2022-05-27T19:44:57.301Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscribers-report-does-not-show-active-subscriptions-correctly
+slugEN: o-relatorio-dos-assinantes-nao-mostra-corretamente-as-assinaturas-ativas
 locale: pt
 kiStatus: No Fix
 internalReference: 587556
@@ -18,7 +18,9 @@ internalReference: 587556
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando exportamos o relatório de assinantes, as informações nas colunas "TotalSubscrições" e "TotalSubscriçõesAtivos" são divergentes em comparação com as informações mostradas no painel de controle.

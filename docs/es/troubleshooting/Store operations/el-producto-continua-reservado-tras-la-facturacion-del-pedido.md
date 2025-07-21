@@ -20,13 +20,13 @@ La reserva de stock es una función esencial que garantiza que el producto vendi
 
 Cuando se vende un producto, este pasa por los siguientes status en el stock de la tienda, reflejando la transición del pedido:
 
-1. [Reserva autorizada](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): tiene lugar inmediatamente después de la finalización de la compra y creación del pedido.
+1. [Reserva autorizada](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): tiene lugar inmediatamente después de la finalización de la compra y creación del pedido.
 
-2. [Reserva confirmada](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status se alcanza una vez aprobado el pago del pedido.
+2. [Reserva confirmada](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status se alcanza una vez aprobado el pago del pedido.
 
-3. [Reserva reconocida](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
+3. [Reserva reconocida](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
 
-Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Soluciones
 

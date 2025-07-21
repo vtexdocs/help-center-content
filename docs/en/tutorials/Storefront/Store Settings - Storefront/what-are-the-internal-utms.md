@@ -41,5 +41,5 @@ They can be found inside the `marketingData` node.
 
 ### Related articles
 
-- [What are utm_source, utm_campaign and utm_medium](https://help.vtex.com/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
-- [Creating a coupon](https://help.vtex.com/en/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
+- [What are utm_source, utm_campaign and utm_medium](/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
+- [Creating a coupon](/en/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)

@@ -21,7 +21,9 @@ Na VTEX, as lojas podem definir manualmente o preço de um item (SKU) disponíve
 
 - **Permissão**: Shopping Cart Full Access
 
->⚠️ Os passos abaixo indicados devem ser realizados no domínio <i>myvtex</i> de cada loja ({accountName}.myvtex.com.br).
+<div class="alert alert-warning">
+  Os passos abaixo indicados devem ser realizados no domínio <i>myvtex</i> de cada loja ({accountName}.myvtex.com.br).
+</div>
 
 ## Modificando o preço do item
 
@@ -40,7 +42,9 @@ Além da configuração na tela do Checkout, o preço de um produto também pode
 
 A segurança operacional desta funcionalidade está baseada no controle do acesso de pessoas que possuam perfis específicos (mencionados anteriormente), sem os quais não se pode modificar manualmente o preço de um item. Além disto, todas as modificações de preço realizadas são registradas e rastreáveis. Saiba mais em [Recording manual changes to item prices](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#recording-manual-changes-to-item-prices).
 
-Assim que o pedido é fechado, o preço manual inserido precisa ser aprovado pelo administrador da loja ou por um usuário com permissão no sistema de[Autorização de Pedidos](https://help.vtex.com/pt/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn). 
+Assim que o pedido é fechado, o preço manual inserido precisa ser aprovado pelo administrador da loja ou por um usuário com permissão no sistema de[Autorização de Pedidos](/pt/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn). 
 
->ℹ️ Uma vez validado o valor do preço manual, o pedido segue o fluxo normal de faturamento.
+<div class = "alert alert-info">
+Uma vez validado o valor do preço manual, o pedido segue o fluxo normal de faturamento.
+</div>
 

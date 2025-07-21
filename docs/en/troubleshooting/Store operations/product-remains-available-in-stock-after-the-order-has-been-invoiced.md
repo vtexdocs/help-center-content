@@ -20,13 +20,13 @@ Reservations are an essential feature that ensures the product sold is not made 
 
 After a product is sold, it undergoes the following statuses in the store inventory, reflecting the order's progress:
 
-1. [Authorized reservation](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): Occurs immediately after the order is completed and created.
+1. [Authorized reservation](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): Occurs immediately after the order is completed and created.
 
-2. [Confirmed reservation](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#confirmed-reservation): Status reached once the order payment has been approved.
+2. [Confirmed reservation](/en/tutorial/como-a-reserva-funciona--tutorials_92#confirmed-reservation): Status reached once the order payment has been approved.
 
-3. [Acknowledged reservation](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92): The order goes into the "Awaiting fulfillment" status, indicating that the product is about to be shipped.
+3. [Acknowledged reservation](/en/tutorial/como-a-reserva-funciona--tutorials_92): The order goes into the "Awaiting fulfillment" status, indicating that the product is about to be shipped.
 
-Products are only withdrawn from inventory when the order reaches the **Awaiting fulfillment** status. The [removal from inventory](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#removal-from-inventory), which updates the number of available items, can be done manually by the merchant or automatically through the ERP. This process is carried out via [inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) or the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Products are only withdrawn from inventory when the order reaches the **Awaiting fulfillment** status. The [removal from inventory](/en/tutorial/como-a-reserva-funciona--tutorials_92#removal-from-inventory), which updates the number of available items, can be done manually by the merchant or automatically through the ERP. This process is carried out via [inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) or the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Solutions
 

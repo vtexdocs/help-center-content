@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Bamboo-Payments'
 id: 33TDZBp1wmgzJdiZtvu1xY
 status: PUBLISHED
 createdAt: 2022-08-12T20:06:37.117Z
-updatedAt: 2024-10-02T21:13:05.858Z
-publishedAt: 2024-10-02T21:13:05.858Z
+updatedAt: 2025-02-26T15:02:53.268Z
+publishedAt: 2025-02-26T15:02:53.268Z
 firstPublishedAt: 2022-08-12T20:13:31.863Z
 contentType: tutorial
 productTeam: Financial
@@ -35,11 +35,11 @@ Para configurar o Bamboo-Payments, siga os passos abaixo:
    		<li><b>Desativado</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
 8. Em __Campos do provedor__, preencha o campo __Ingrese su llave privada__ com as informações da sua conta Bamboo-Payments.
-9. Em __Habilitar autorización y captura__ e __País de operación__ selecione as opções desejadas.
+9. Em __Habilitar autorización y captura__, __País de operación__, __Límite Superior de Captura Permitido (%)__ e __Límite Inferior de Captura Permitido (%)__ selecione as opções desejadas.
 10. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Bamboo-Payments, acesse [Configurar condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Bamboo-Payments, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, Bamboo-Payments pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

@@ -1,5 +1,5 @@
 ---
-title: "El HUB de tarjetas de regalo establece 'R$' como moneda automática en la interfaz de usuario"
+title: 'El HUB de tarjetas de regalo establece "R$" como moneda automática en la interfaz de usuario'
 id: 2ODtc4t1GSo3iUjT9Gk0uk
 status: PUBLISHED
 createdAt: 2022-11-03T12:57:31.895Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: giftcard-hub-setting-r-as-the-automatic-currency-on-the-ui
+slugEN: el-hub-de-tarjetas-de-regalo-establece-r-como-moneda-automatica-en-la-interfaz-de-usuario
 locale: es
 kiStatus: Backlog
 internalReference: 690794
@@ -18,7 +18,9 @@ internalReference: 690794
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

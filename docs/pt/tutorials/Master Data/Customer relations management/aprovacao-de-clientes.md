@@ -34,6 +34,6 @@ Desse modo, o conteúdo da loja será exibido para os clientes selecionados.
 
 Você pode aprovar vários clientes de uma vez por meio de uma rota da [API do Master Data](https://developers.vtex.com/docs/api-reference/masterdata-api "API do Master Data").
 
-Todas as informações relacionadas a um cliente podem ser interpretadas como um documento na [entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265) __Cliente__. Logo, a rota [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id- "PATCH Update partial document") deve ser utilizada para alterar o valor relativo ao campo __Aprovado__ de forma massiva.
+Todas as informações relacionadas a um cliente podem ser interpretadas como um documento na [entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265) __Cliente__. Logo, a rota [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id- "PATCH Update partial document") deve ser utilizada para alterar o valor relativo ao campo __Aprovado__ de forma massiva.
 
-Confira o artigo [Importar dados de clientes](https://help.vtex.com/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes") para saber quais campos devem ser criados para um documento específico de pessoa física.
+Confira o artigo [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes") para saber quais campos devem ser criados para um documento específico de pessoa física.

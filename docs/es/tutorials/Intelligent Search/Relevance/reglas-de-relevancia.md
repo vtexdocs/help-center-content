@@ -3,8 +3,8 @@ title: 'Reglas de relevancia'
 id: 1o9jtVGjSIiptbqdNXIlNK
 status: PUBLISHED
 createdAt: 2024-06-27T17:12:27.900Z
-updatedAt: 2024-09-20T20:56:15.445Z
-publishedAt: 2024-09-20T20:56:15.445Z
+updatedAt: 2025-04-17T14:36:26.477Z
+publishedAt: 2025-04-17T14:36:26.477Z
 firstPublishedAt: 2024-06-27T17:13:52.839Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,22 +28,22 @@ Hay dos posibles escenarios de configuración de relevancia:
 
 La información aplicada para establecer la relevancia es:
 
-- **Descuento:** criterio que compara el [Precio de lista](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#precio-de-lista) y el [Precio base](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#definicion) registrados para determinar si el producto califica para un descuento.
-- **Fecha de release:** este criterio asigna un valor decreciente automático (entre 1 y 0) a partir de la fecha de registro del producto en la tienda, considerando un intervalo de 90 días. Los productos registrados hoy tendrían un valor de 1 y ese valor disminuiría cada día, hasta convertirse en 0 a partir del día 90. Este valor se multiplica por el peso que introduzca para el criterio **Fecha de release** para establecer la relevancia.
+- **Descuento:** criterio que compara el [Precio de lista](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#precio-de-lista) y el [Precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#definicion) registrados para determinar si el producto califica para un descuento.
+- **Fecha de release:** este criterio asigna un valor decreciente automático (entre 1 y 0) a partir de la [fecha de release](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8#visibilidad) configurada durante el registro del producto, considerando un intervalo de 90 días. Los productos con una fecha de release igual a la de hoy tendrían un valor de 1. Este valor disminuye cada día hasta que, a partir del día 90, se convierte en 0. Este valor se multiplica por el peso establecido para el criterio **Fecha de lanzamiento** para obtener la relevancia.
 - **Más vendidos:** número de pedidos del producto en los últimos 90 días.
 - **Más vendidos por ingresos:** total de ganancia adquirida por el producto en los últimos 90 días.
 - **Popularidad:** número de clics de un producto en los últimos 90 días.
-- **Promoción:** criterio que comprueba si existen [Audiencias de las campañas](https://help.vtex.com/es/tutorial/overview-2--tutorials_326#audiencia-de-campanas) o [Promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) vinculadas al artículo para determinar si el producto clasifica como promoción.
-- **Puntuación del catálogo:** criterio de desempate del orden basado en el valor del campo **Puntuación** registrado en el producto. A efectos de la composición de la relevancia, cuanto mayor sea la puntuación, mayor será el peso, es decir, el comportamiento es descendente: se da prioridad a los productos con una puntuación más alta. Más información sobre el campo y su comportamiento en la guía [¿Cómo funciona el campo Puntuación?](https://help.vtex.com/es/tutorial/como-funciona-el-campo-puntuacion--1BUZC0mBYEEIUgeQYAKcae).
+- **Promoción:** criterio que comprueba si existen [Audiencias de las campañas](/es/tutorial/overview-2--tutorials_326#audiencia-de-campanas) o [Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) vinculadas al artículo para determinar si el producto clasifica como promoción.
+- **Puntuación del catálogo:** criterio de desempate del orden basado en el valor del campo **Puntuación** registrado en el producto. A efectos de la composición de la relevancia, cuanto mayor sea la puntuación, mayor será el peso, es decir, el comportamiento es descendente: se da prioridad a los productos con una puntuación más alta. Más información sobre el campo y su comportamiento en la guía [¿Cómo funciona el campo Puntuación?](/es/tutorial/como-funciona-el-campo-puntuacion--1BUZC0mBYEEIUgeQYAKcae).
 - **Variedad de matriz disponible:** la relevancia se basa en el porcentaje de SKU disponibles por producto. En un escenario donde el _Producto A_ tiene 3 SKU y 3 de ellos están disponibles, y el _Producto B_ tiene 5 SKU y 2 de ellos están disponibles, el _Producto A_ se destaca sobre _Producto B_ porque el porcentaje de SKU es mayor.
 
 El conjunto de distribución de pesos y criterios genera una puntuación para el producto, lo que ayuda a su posicionamiento en el orden del resultado de la búsqueda.
 
->⚠️ Si deseas utilizar criterios de prioridad, posiciona el más importante en primer lugar, ya que la clasificación siempre se basará en este.
->
-> El primer criterio de prioridad tiene más peso que los demás, por lo que puede anular los otros criterios de prioridad y la composición de criterios.
->
-> En caso de empate, se tomarán en cuenta los demás criterios para determinar el orden final de los resultados (primero los otros criterios de prioridad y luego la composición de criterios).
+<div class="alert alert-warning">
+  <p>Si deseas utilizar criterios de prioridad, posiciona el más importante en primer lugar, ya que la clasificación siempre se basará en este.</p>
+  <p>El primer criterio de prioridad tiene más peso que los demás, por lo que puede anular los otros criterios de prioridad y la composición de criterios.</p>
+  <p>En caso de empate, se tomarán en cuenta los demás criterios para determinar el orden final de los resultados (primero los otros criterios de prioridad y luego la composición de criterios).</p>
+</div>
 
 De esta manera, es posible adaptar el comportamiento del resultado de búsqueda a una estrategia específica.
 

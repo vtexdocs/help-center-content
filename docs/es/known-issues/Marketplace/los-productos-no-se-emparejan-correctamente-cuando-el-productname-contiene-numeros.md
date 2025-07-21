@@ -1,5 +1,5 @@
 ---
-title: 'Los productos no se emparejan correctamente cuando el productName contiene números'
+title: "Los productos no se emparejan correctamente cuando el productName contiene números"
 id: 7Kr0VtRScH54j04Rh2uuOj
 status: PUBLISHED
 createdAt: 2023-03-01T18:55:20.183Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: products-not-being-correctly-matched-when-the-productname-contains-numbers
+slugEN: los-productos-no-se-emparejan-correctamente-cuando-el-productname-contiene-numeros
 locale: es
 kiStatus: Fixed
 internalReference: 762525
@@ -18,7 +18,9 @@ internalReference: 762525
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el vendedor envía un sku al marketplace, el sistema Matcher se encarga de consultar el catálogo del marketplace y verificar si ya existe un producto similar al skus del vendedor.

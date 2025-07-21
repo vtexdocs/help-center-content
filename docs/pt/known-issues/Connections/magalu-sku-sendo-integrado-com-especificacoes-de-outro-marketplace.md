@@ -1,5 +1,5 @@
 ---
-title: '[Magalu] Sku sendo integrado com especificações de outro marketplace'
+title: "[Magalu] Sku sendo integrado com especificações de outro marketplace"
 id: 4AYsfMTB2HVmp2PnOG2plY
 status: PUBLISHED
 createdAt: 2022-10-31T19:29:16.911Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magalu-sku-being-integrated-with-specifications-from-another-marketplace
+slugEN: magalu-sku-sendo-integrado-com-especificacoes-de-outro-marketplace
 locale: pt
 kiStatus: Fixed
 internalReference: 689151
@@ -18,7 +18,9 @@ internalReference: 689151
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns skus estão sendo integrados com especificações de outro Mercado.

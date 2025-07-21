@@ -1,5 +1,5 @@
 ---
-title: 'App de VTable mal configurada quebra outras apps do mesmo tipo'
+title: "App de VTable mal configurada quebra outras apps do mesmo tipo"
 id: cxsyuFBHRmG2mweiiC66Y
 status: PUBLISHED
 createdAt: 2019-01-03T21:10:51.083Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: misconfigured-vtable-app-breaks-other-apps-of-the-same-type
+slugEN: app-de-vtable-mal-configurada-quebra-outras-apps-do-mesmo-tipo
 locale: pt
 kiStatus: Backlog
 internalReference: 

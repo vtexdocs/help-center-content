@@ -1,5 +1,5 @@
 ---
-title: "Política de embarque não priorizada devido ao 'Motivo': Dispensada como prioridade' mesmo com melhor custo"
+title: 'Política de embarque não priorizada devido ao "Motivo": Dispensada como prioridade" mesmo com melhor custo'
 id: p1oTHG7CuYITViV4uFZEQ
 status: PUBLISHED
 createdAt: 2022-05-10T18:05:57.097Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-not-prioritized-due-reason-dismissed-as-a-matter-of-priority-even-with-better-cost
+slugEN: politica-de-embarque-nao-priorizada-devido-ao-motivo-dispensada-como-prioridade-mesmo-com-melhor-custo
 locale: pt
 kiStatus: Backlog
 internalReference: 379685
@@ -18,7 +18,9 @@ internalReference: 379685
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o cliente estabelece um custo do armazém até o cais na taxa de embarque, isso pode afetar a seleção da política de embarque. Isto pode acontecer porque o custo da doca não está incluído na priorização das políticas de embarque. Portanto, uma política de embarque mais cara para o consumidor pode ser priorizada, já que o cálculo do valor do frete não levou em consideração o custo do cais.

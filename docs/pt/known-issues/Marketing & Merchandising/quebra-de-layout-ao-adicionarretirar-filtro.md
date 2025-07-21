@@ -1,5 +1,5 @@
 ---
-title: 'Quebra de layout ao adicionar/retirar filtro'
+title: "Quebra de layout ao adicionar/retirar filtro"
 id: 4J4xxzzbi8cMge8qQq2cOy
 status: PUBLISHED
 createdAt: 2018-01-24T15:02:47.100Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: layout-malfunctions-when-adding-or-removing-a-filter
+slugEN: quebra-de-layout-ao-adicionarretirar-filtro
 locale: pt
 kiStatus: Backlog
 internalReference: 

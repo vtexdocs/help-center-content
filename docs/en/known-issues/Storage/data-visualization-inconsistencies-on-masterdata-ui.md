@@ -1,5 +1,5 @@
 ---
-title: 'Data Visualization Inconsistencies on Masterdata UI'
+title: "Data Visualization Inconsistencies on Masterdata UI"
 id: 5Sq6WAfBWynrOIZx8rFKdu
 status: PUBLISHED
 createdAt: 2024-09-27T18:00:31.097Z

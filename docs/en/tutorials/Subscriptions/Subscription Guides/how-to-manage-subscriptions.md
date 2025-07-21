@@ -19,7 +19,7 @@ The **Subscriptions** module is an app developed by VTEX to facilitate recurring
 
 Your customers indicate how often they want to repeat the purchase of a specific SKU, and the system automatically resubmits the purchase order (with the same characteristics configured in the original order) every scheduled period. 
 
-To see how to configure the **Subscriptions** functionality in your store, read [this article](https://help.vtex.com/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+To see how to configure the **Subscriptions** functionality in your store, read [this article](/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
 
 Subscriptions are managed through the **Dashboards** page in the  **Subscriptions** module in your Admin.
 
@@ -39,7 +39,9 @@ The **Unique Subscriptions** section allows you to:
 
 ### Subscription Orders
 
->ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **Subscription Orders** section allows you to:
 
@@ -50,7 +52,7 @@ The **Subscription Orders** section allows you to:
 ![EN Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription%20Guides/how-to-manage-subscriptions_2.png)
 
 - When accessing each tab of the **Subscription Orders** table, you can view the flow and details of the orders that were *skipped*, those that presented *Cycles with an issue*, those that contain a *Payment Error* and the *Completed* orders. 
-- In addition to listing the details of the errors that occurred during the  Subscription orders flow, it is also possible to perform a **manual retry** of orders with errors. Check out our article on [Troubleshooting of Subscription orders issues](https://help.vtex.com/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) to learn more.
+- In addition to listing the details of the errors that occurred during the  Subscription orders flow, it is also possible to perform a **manual retry** of orders with errors. Check out our article on [Troubleshooting of Subscription orders issues](/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) to learn more.
 
 ![EN Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Subscriptions/Subscription%20Guides/how-to-manage-subscriptions_3.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Meus Créditos não mostram a fatura PaymentLink mesmo que o campo esteja definido'
+title: "Meus Créditos não mostram a fatura PaymentLink mesmo que o campo esteja definido"
 id: YQ2hkDciJqNZiAfqdNO4t
 status: PUBLISHED
 createdAt: 2022-03-18T21:29:25.136Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: my-credits-doesnt-show-the-paymentlink-invoice-even-if-the-field-is-set
+slugEN: meus-creditos-nao-mostram-a-fatura-paymentlink-mesmo-que-o-campo-esteja-definido
 locale: pt
 kiStatus: Fixed
 internalReference: 546267
@@ -18,7 +18,9 @@ internalReference: 546267
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O link do campo PaymentLink não está sendo exibido na página Meus Créditos, dentro da MyAccount, embora tenha sido configurado e disponível na página de Faturas de Crédito do Cliente, dentro da Admin.

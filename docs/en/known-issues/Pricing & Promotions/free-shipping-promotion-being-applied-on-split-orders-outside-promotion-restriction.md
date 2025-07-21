@@ -1,5 +1,5 @@
 ---
-title: 'Free shipping promotion being applied on split orders outside promotion restriction'
+title: "Free shipping promotion being applied on split orders outside promotion restriction"
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z

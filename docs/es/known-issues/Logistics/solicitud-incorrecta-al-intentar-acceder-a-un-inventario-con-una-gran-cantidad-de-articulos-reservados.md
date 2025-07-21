@@ -1,5 +1,5 @@
 ---
-title: 'Solicitud incorrecta al intentar acceder a un inventario con una gran cantidad de artículos reservados.'
+title: "Solicitud incorrecta al intentar acceder a un inventario con una gran cantidad de artículos reservados."
 id: 4DujUMKeYTlx2MXAjnHlS5
 status: PUBLISHED
 createdAt: 2024-07-03T20:18:55.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: bad-request-when-trying-to-access-an-inventory-with-a-huge-quantity-of-reserved-items
+slugEN: solicitud-incorrecta-al-intentar-acceder-a-un-inventario-con-una-gran-cantidad-de-articulos-reservados
 locale: es
 kiStatus: Fixed
 internalReference: 296066
@@ -18,7 +18,9 @@ internalReference: 296066
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

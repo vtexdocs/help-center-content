@@ -1,5 +1,5 @@
 ---
-title: "Email de 'Avise-me' é enviado mesmo quando o produto não está disponível para a política comercial do site"
+title: 'Email de "Avise-me" é enviado mesmo quando o produto não está disponível para a política comercial do site'
 id: 577r3i32P5Yv9QIfVR5AYP
 status: PUBLISHED
 createdAt: 2021-02-22T20:44:52.444Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: let-me-know-email-is-sent-even-when-the-product-is-not-available-for-the-websites-trade-policy
+slugEN: email-de-aviseme-e-enviado-mesmo-quando-o-produto-nao-esta-disponivel-para-a-politica-comercial-do-site
 locale: pt
 kiStatus: Backlog
 internalReference: 

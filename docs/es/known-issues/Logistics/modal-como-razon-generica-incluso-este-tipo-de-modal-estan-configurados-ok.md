@@ -1,5 +1,5 @@
 ---
-title: 'Modal como Razón Genérica incluso este tipo de Modal están configurados OK'
+title: "Modal como Razón Genérica incluso este tipo de Modal están configurados OK"
 id: 2ftzXjtPZcPypFpsnZMcIK
 status: PUBLISHED
 createdAt: 2022-05-18T18:23:53.248Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: modal-as-generic-reason-even-this-type-of-modal-are-configured-ok
+slugEN: modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok
 locale: es
 kiStatus: No Fix
 internalReference: 488339
@@ -18,7 +18,9 @@ internalReference: 488339
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un escenario en el que hay modales configurados OK en SKU y Shipping Police también y la simulación está mostrando un problema en la configuración modal.

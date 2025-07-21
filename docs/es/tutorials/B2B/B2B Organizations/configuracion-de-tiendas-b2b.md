@@ -3,8 +3,8 @@ title: 'Configuración de tiendas B2B'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
-updatedAt: 2024-06-06T16:33:44.798Z
-publishedAt: 2024-06-06T16:33:44.798Z
+updatedAt: 2025-06-16T12:01:28.366Z
+publishedAt: 2025-06-16T12:01:28.366Z
 firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B

@@ -1,5 +1,5 @@
 ---
-title: "Ao carregar a página 'Mapeamento do Catálogo' em admin a mensagem inicial não é traduzida"
+title: 'Ao carregar a página "Mapeamento do Catálogo" em admin a mensagem inicial não é traduzida'
 id: 4WszmRZ5jpeSDNTEuFIdwF
 status: PUBLISHED
 createdAt: 2022-12-15T12:32:17.741Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: when-loading-the-catalog-maping-page-on-admin-the-initial-message-is-not-translated
+slugEN: ao-carregar-a-pagina-mapeamento-do-catalogo-em-admin-a-mensagem-inicial-nao-e-traduzida
 locale: pt
 kiStatus: No Fix
 internalReference: 717066
@@ -18,7 +18,9 @@ internalReference: 717066
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

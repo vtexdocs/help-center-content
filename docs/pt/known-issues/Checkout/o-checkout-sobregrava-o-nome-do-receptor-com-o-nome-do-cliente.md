@@ -1,5 +1,5 @@
 ---
-title: 'O checkout sobregrava o nome do receptor com o nome do cliente'
+title: "O checkout sobregrava o nome do receptor com o nome do cliente"
 id: 6hw8M6PeUes529M1AdK62i
 status: PUBLISHED
 createdAt: 2022-09-22T01:03:23.512Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-overwrites-receiver-name-with-customer-name
+slugEN: o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente
 locale: pt
 kiStatus: Backlog
 internalReference: 324792
@@ -18,7 +18,9 @@ internalReference: 324792
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O nome do receptor é reescrito com o nome do cliente após recarregar a página de checkout.

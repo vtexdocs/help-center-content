@@ -1,5 +1,5 @@
 ---
-title: 'Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs'
+title: "Una regex de Elo obsoleta nos hace identificar erróneamente algunos BINs"
 id: 45vx88VCQ0yZynkVxGqSq8
 status: PUBLISHED
 createdAt: 2024-04-10T17:25:57.376Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: outdated-elo-regex-is-causing-us-to-misidentify-some-bins
+slugEN: una-regex-de-elo-obsoleta-nos-hace-identificar-erroneamente-algunos-bins
 locale: es
 kiStatus: Backlog
 internalReference: 1015043
@@ -18,7 +18,9 @@ internalReference: 1015043
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos BIN no se identifican correctamente en la caja. La marca de la tarjeta se determina mediante una regex que podría quedar obsoleta, dando lugar a marcas de tarjeta no identificadas o mal identificadas.

@@ -1,5 +1,5 @@
 ---
-title: 'IU de promoções carregando informações de moeda incorretas'
+title: "IU de promoções carregando informações de moeda incorretas"
 id: 7liSZOtS1Hs2P84bXzRrG9
 status: PUBLISHED
 createdAt: 2022-12-19T14:41:51.129Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotions-ui-loading-wrong-currency-information
+slugEN: iu-de-promocoes-carregando-informacoes-de-moeda-incorretas
 locale: pt
 kiStatus: Fixed
 internalReference: 718908
@@ -18,7 +18,9 @@ internalReference: 718908
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao abrir o módulo Promoções muito rapidamente e várias vezes seguidas, um comportamento incorreto aparece na interface do usuário.

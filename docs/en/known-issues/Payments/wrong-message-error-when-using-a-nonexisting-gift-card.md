@@ -1,5 +1,5 @@
 ---
-title: 'Wrong message error when using a non-existing Gift card'
+title: "Wrong message error when using a non-existing Gift card"
 id: 6Bxu8UsBv4OE1pusXz0j7j
 status: PUBLISHED
 createdAt: 2022-05-23T19:32:47.312Z

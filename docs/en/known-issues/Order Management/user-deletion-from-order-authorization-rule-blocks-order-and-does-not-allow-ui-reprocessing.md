@@ -1,5 +1,5 @@
 ---
-title: 'User deletion from Order Authorization rule blocks order and does not allow UI reprocessing'
+title: "User deletion from Order Authorization rule blocks order and does not allow UI reprocessing"
 id: 3OW5OoBG6OYW8mHDcZMoOi
 status: PUBLISHED
 createdAt: 2022-10-27T17:40:30.149Z

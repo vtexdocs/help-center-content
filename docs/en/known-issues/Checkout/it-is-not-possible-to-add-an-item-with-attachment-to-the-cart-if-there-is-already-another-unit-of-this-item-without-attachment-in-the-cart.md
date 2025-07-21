@@ -1,5 +1,5 @@
 ---
-title: 'It is not possible to add an item with attachment to the cart if there is already another unit of this item without attachment in the cart'
+title: "It is not possible to add an item with attachment to the cart if there is already another unit of this item without attachment in the cart"
 id: 3l41VmdtPCxUjYChuO7o9O
 status: PUBLISHED
 createdAt: 2021-09-15T15:24:52.309Z

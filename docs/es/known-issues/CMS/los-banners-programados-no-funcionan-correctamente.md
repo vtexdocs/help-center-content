@@ -1,5 +1,5 @@
 ---
-title: 'Los banners programados no funcionan correctamente'
+title: "Los banners programados no funcionan correctamente"
 id: 4bIdOHIxrFOpbI94HugWf7
 status: PUBLISHED
 createdAt: 2022-03-21T17:52:05.046Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: scheduled-banners-doesnt-work-properly
+slugEN: los-banners-programados-no-funcionan-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 400194
@@ -18,7 +18,9 @@ internalReference: 400194
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al programar un banner en el CMS no funciona como se pretende y muchas veces el banner se bloquea o no muestra toda la información que contiene.

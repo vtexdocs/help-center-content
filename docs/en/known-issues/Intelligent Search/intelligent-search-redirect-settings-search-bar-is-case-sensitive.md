@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search Redirect settings search bar is case sensitive'
+title: "Intelligent Search Redirect settings search bar is case sensitive"
 id: 5QEkcyhCQWyw093UkDCeOq
 status: PUBLISHED
 createdAt: 2023-09-26T23:50:50.661Z

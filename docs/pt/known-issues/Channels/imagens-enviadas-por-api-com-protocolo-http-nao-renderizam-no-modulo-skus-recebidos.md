@@ -1,5 +1,5 @@
 ---
-title: 'Imagens enviadas por API com protocolo HTTP não renderizam no módulo SKUs Recebidos'
+title: "Imagens enviadas por API com protocolo HTTP não renderizam no módulo SKUs Recebidos"
 id: 2mi0Nyznh9NHnc7P5zLghn
 status: PUBLISHED
 createdAt: 2021-08-31T18:09:37.181Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
-slugEN: images-uploaded-via-api-using-an-http-protocol-do-not-render-on-the-received-skus-page
+slugEN: imagens-enviadas-por-api-com-protocolo-http-nao-renderizam-no-modulo-skus-recebidos
 locale: pt
 kiStatus: Backlog
 internalReference: 

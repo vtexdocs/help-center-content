@@ -1,5 +1,5 @@
 ---
-title: 'Campos no marcados como obligatorios en Master Data conducen a un error de pago'
+title: "Campos no marcados como obligatorios en Master Data conducen a un error de pago"
 id: 1iB9Zy7FPH2ge6L7AVyHxN
 status: PUBLISHED
 createdAt: 2019-09-17T21:45:28.631Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: fields-not-marked-as-mandatory-in-master-data-lead-to-checkout-error
+slugEN: campos-no-marcados-como-obligatorios-en-master-data-conducen-a-un-error-de-pago
 locale: es
 kiStatus: Backlog
 internalReference: 

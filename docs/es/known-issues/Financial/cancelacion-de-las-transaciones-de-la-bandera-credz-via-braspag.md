@@ -1,5 +1,5 @@
 ---
-title: 'Cancelación de las transaciones de la bandera Credz via Braspag'
+title: "Cancelación de las transaciones de la bandera Credz via Braspag"
 id: 13zKpRlvD8WCc888IYSKQE
 status: PUBLISHED
 createdAt: 2017-07-03T21:04:29.131Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: authors_4
 tag: Payments
-slugEN: cancelacion-de-las-transacciones-de-banner-de-credz-a-traves-de-braspag
+slugEN: cancelacion-de-las-transaciones-de-la-bandera-credz-via-braspag
 locale: es
 kiStatus: Backlog
 internalReference: 

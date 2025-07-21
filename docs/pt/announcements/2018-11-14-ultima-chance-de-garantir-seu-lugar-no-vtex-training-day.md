@@ -38,9 +38,9 @@ O palco do VTEX IO, a plataforma de desenvolvimento da VTEX. Nossos engenheiros 
 <br />
 <br />
 
->ℹ️ **Garanta 30% de desconto** na compra de 10 ou mais ingressos! 
->
-> Mas corra, que a promoção é válida só até o fim de novembro.
+<div class="alert alert-info">
+<strong>Garanta 30% de desconto</strong> na compra de 10 ou mais ingressos! <br />Mas corra, que a promoção é válida só até o fim de novembro.
+</div>
 
 
 __Quando:__ 06/12/2018 _(o evento dura o dia todo)_ 

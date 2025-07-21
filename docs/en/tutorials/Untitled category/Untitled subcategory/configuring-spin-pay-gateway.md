@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 You can now use the [Spin Pay](https://spinpay.com.br/) gateway to process payments in your VTEX store. This solution allows you to receive payments via PIX (Brazilian instant payment system) and the main digital wallets available on the market today.
 
->⚠️ To use Spin Pay on VTEX, you must have an **Application Key (App Key)** and an **Application Token (App Token)**. You can get these keys after Spin Pay approves your registration and you sign the contract.
+<div class="alert alert-warning">
+  To use Spin Pay on VTEX, you must have an <b>Application Key (App Key)</b> and an <b>Application Token (App Token)</b>. You can get these keys after Spin Pay approves your registration and you sign the contract. 
+   </div>
 
 Once your registration has been approved and you have signed the contract, follow the steps below to configure Spin Pay in your store.
 
@@ -34,7 +36,7 @@ Spin Pay will then be ready to process payments in your store. Follow the instru
 
 ### Configuring a payment condition
 
-Once you have installed the gateway in your store, configure its [payment conditions](https://help.vtex.com/en/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) to ensure payments will be processed correctly.
+Once you have installed the gateway in your store, configure its [payment conditions](/en/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) to ensure payments will be processed correctly.
 
 1. Go to the __Admin__.
 2. Access the __Payments__ module.
@@ -47,6 +49,8 @@ Once you have installed the gateway in your store, configure its [payment condit
 9. If you have an anti-fraud solution, check the box next to __Use anti-fraud__ and choose an option.
 10. Click on __Save__.
 
->⚠️ Spin Pay is a brazilian instant payment solution in which debits are made directly to the consumer's bank account. For this reason, it doesn’t offer the option to pay in installments.
+<div class="alert alert-warning">
+  Spin Pay is a brazilian instant payment solution in which debits are made directly to the consumer's bank account. For this reason, it doesn’t offer the option to pay in installments.
+   </div>
 
 After completing all these steps, Spin Pay will be ready to process payments in your store.

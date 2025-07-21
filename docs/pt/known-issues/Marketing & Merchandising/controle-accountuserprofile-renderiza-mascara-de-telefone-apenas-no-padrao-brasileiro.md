@@ -1,5 +1,5 @@
 ---
-title: 'Controle accountUserProfile renderiza máscara de telefone apenas no padrão brasileiro'
+title: "Controle accountUserProfile renderiza máscara de telefone apenas no padrão brasileiro"
 id: 76NuOCa920CYq2wSgSAyOc
 status: PUBLISHED
 createdAt: 2017-08-15T14:49:39.178Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: control-accountuserprofile-renders-phone-mask-only-in-brazilian-standard
+slugEN: controle-accountuserprofile-renderiza-mascara-de-telefone-apenas-no-padrao-brasileiro
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'Validación de adjuntos sólo en el mercado al añadir un artículo de un vendedor con adjunto.'
+title: "Validación de adjuntos sólo en el mercado al añadir un artículo de un vendedor con adjunto."
 id: 638N4urP08NY7v8jdH7U5N
 status: PUBLISHED
 createdAt: 2023-12-22T18:18:59.194Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: attachment-validation-only-in-the-marketplace-when-adding-an-item-from-a-seller-with-attachment
+slugEN: validacion-de-adjuntos-solo-en-el-mercado-al-anadir-un-articulo-de-un-vendedor-con-adjunto
 locale: es
 kiStatus: Backlog
 internalReference: 957343
@@ -18,7 +18,9 @@ internalReference: 957343
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Añadir un artículo de un vendedor con un archivo adjunto en la misma solicitud de API, la validación de archivos adjuntos se produce sólo en el mercado.

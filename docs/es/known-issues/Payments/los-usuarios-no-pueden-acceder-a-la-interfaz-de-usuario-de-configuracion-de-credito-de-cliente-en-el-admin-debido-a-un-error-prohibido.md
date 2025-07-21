@@ -1,5 +1,5 @@
 ---
-title: 'Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin debido a un error prohibido'
+title: "Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin debido a un error prohibido"
 id: 3RBofop7gS1VlKEDHozclF
 status: PUBLISHED
 createdAt: 2022-02-24T13:19:29.719Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: users-are-unable-to-access-customer-credit-settings-ui-on-the-admin-due-to-a-forbidden-error
+slugEN: los-usuarios-no-pueden-acceder-a-la-interfaz-de-usuario-de-configuracion-de-credito-de-cliente-en-el-admin-debido-a-un-error-prohibido
 locale: es
 kiStatus: Backlog
 internalReference: 380931
@@ -18,7 +18,9 @@ internalReference: 380931
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin y hemos observado el siguiente error "Prohibido" en la operación SettingQueries.

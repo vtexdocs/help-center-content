@@ -1,5 +1,5 @@
 ---
-title: 'La solicitud del centro tributario del mercado no tiene en cuenta el precio manual para los descuentos'
+title: "La solicitud del centro tributario del mercado no tiene en cuenta el precio manual para los descuentos"
 id: 2pGgbPB7Qm4dXtQauohvx7
 status: PUBLISHED
 createdAt: 2023-11-08T17:59:41.102Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketplace-tax-hub-request-doesnt-consider-manual-price-for-discounts
+slugEN: la-solicitud-del-centro-tributario-del-mercado-no-tiene-en-cuenta-el-precio-manual-para-los-descuentos
 locale: es
 kiStatus: Fixed
 internalReference: 932657
@@ -18,7 +18,9 @@ internalReference: 932657
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cuenta tiene configurado isMarketplaceResponsibleForTaxes, la solicitud del centro de impuestos no tiene en cuenta los precios manuales para los descuentos de artículos.

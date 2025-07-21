@@ -1,5 +1,5 @@
 ---
-title: 'El carro FastStore fusiona los artículos de la cadena de montaje'
+title: "El carro FastStore fusiona los artículos de la cadena de montaje"
 id: 4NBNaTZpr6PnRxPfrtGj77
 status: PUBLISHED
 createdAt: 2024-06-14T17:25:47.764Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: faststore-cart-merges-assembly-line-items
+slugEN: el-carro-faststore-fusiona-los-articulos-de-la-cadena-de-montaje
 locale: es
 kiStatus: Fixed
 internalReference: 1050068
@@ -18,7 +18,9 @@ internalReference: 1050068
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si la misma opción de montaje se añade a diferentes productos FastStore los fusionará en una única partida.

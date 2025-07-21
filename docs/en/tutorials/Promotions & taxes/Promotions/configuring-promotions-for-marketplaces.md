@@ -19,7 +19,7 @@ The VTEX promotion module allows you to create different promotions, from the mo
 
 ## Promotions available on marketplaces
 
-Only the following [regular promotions](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) work on marketplaces:
+Only the following [regular promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) work on marketplaces:
 
 - Free shipping
 - Percentage shipping
@@ -45,13 +45,15 @@ For this type of promotion, it is important to keep the following information in
 - Once the seller has created and activated the promotion, it does not send any notifications to the marketplace. It is up to the marketplace to check the promotional price.
 - For the promotion to be applied to the product price, the marketplace must simulate the SKU price using the [Do OrderForm Simulation](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) endpoint of the Checkout API.
 - The promotion will not apply to the product price if the marketplace uses the [Get Price](https://developers.vtex.com/docs/api-reference/pricing-api#get-/prices/-itemId-) endpoint of the Pricing API for checking prices. This endpoint shows only the prices listed on VTEX without considering promotions.
-- Sellers determine the discount limits that the marketplace can apply to the total order value. If the discount is greater than the established limit, the order will not be placed. You can change your store’s settings in the [Order authorization](https://help.vtex.com/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#price-divergence) section.
+- Sellers determine the discount limits that the marketplace can apply to the total order value. If the discount is greater than the established limit, the order will not be placed. You can change your store’s settings in the [Order authorization](/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#price-divergence) section.
 
 ### Available settings
 
 There are differences between the settings available for VTEX marketplaces and external marketplaces. See in the table below the features applicable in each case.
 
->⚠️ In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.
+<div class = "alert alert-warning">
+  <p>In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.</p>
+</div>
 
 | Settings  | Description      | Available for VTEX marketplaces? | Available for external marketplaces? |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------ |
@@ -95,10 +97,10 @@ See below the settings that are not available for marketplaces:
 
 | Name                                                                      | Description                                                                                                                                                                                               |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Customer cluster                                                          | Discount given if the customer is part of the selected [cluster](https://help.vtex.com/en/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).                                     |
-| Marketing tags                                                            | Used to limit the promotion's activation if the order is placed through [the VTEX Subscriptions module](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).     |
-| UTMs                                                                      | Discount given depending on the value of a given [UTM parameter](https://help.vtex.com/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                               |
-| Campaign audience                                                         | Allows you to segment your store's promotions by defining [target audiences](https://help.vtex.com/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) that meet specific criteria. |
+| Customer cluster                                                          | Discount given if the customer is part of the selected [cluster](/en/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).                                     |
+| Marketing tags                                                            | Used to limit the promotion's activation if the order is placed through [the VTEX Subscriptions module](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).     |
+| UTMs                                                                      | Discount given depending on the value of a given [UTM parameter](/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                               |
+| Campaign audience                                                         | Allows you to segment your store's promotions by defining [target audiences](/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) that meet specific criteria. |
 | Coupons                                                                   | Code that allows promotions to be applied to the total cart amount.                                                                                                                                       |
 | Cart maximum or minimum total amount                                      | Applied based on the total cart amount, regardless of other promotions or shipping.                                                                                                                       |
 | Number of installments                                                    | Discount given if the number of installments selected by the customer is within the specified range.                                                                                                      |
@@ -117,21 +119,23 @@ See below the settings that are not available for marketplaces:
 
 If necessary, you can segment promotions for specific marketplaces. You can obtain these results by using two selectors:
 
-- [Trade policy](https://help.vtex.com/en/tutorial/what-is-a-sales-policy--563tbcL0TYKEKeOY4IAgAE): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
-- [Affiliate](https://help.vtex.com/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0): used to select one or more specific marketplaces, even if they do not share the same sales channel settings.
+- [Trade policy](/en/tutorial/what-is-a-sales-policy--563tbcL0TYKEKeOY4IAgAE): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
+- [Affiliate](/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0): used to select one or more specific marketplaces, even if they do not share the same sales channel settings.
 
 ### Selection by trade policy
 
-1. Create a [regular promotion](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 2. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 3. Select the trade policies. 
 4. Click on `Save`.
 
 ### Selection by affiliates
 
-1. Create a [regular promotion](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 2. Fill in the **Affiliates** field with the name of the affiliate related to the marketplace in question.
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.
 
->⚠️ Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.
+<div class = "alert alert-warning">
+  <p> Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.</p>
+</div>

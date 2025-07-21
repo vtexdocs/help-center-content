@@ -31,7 +31,9 @@ Contact the operation's IT team which is responsible for the network firewall se
 
 This team will need to __revise the firewall rules and tweak them to ensure the vtexassets.com domain's access__.
 
->ℹ️ Note: You will not need to make any adjustments in the front end as the domain `vteximg.com.br` will continue to work for customizations.
+<div class="alert alert-info">
+Note: You will not need to make any adjustments in the front end as the domain <code>vteximg.com.br</code> will continue to work for customizations.
+</div>
 
 ## What impact may befall your operation if the adjustment does not occur?
 

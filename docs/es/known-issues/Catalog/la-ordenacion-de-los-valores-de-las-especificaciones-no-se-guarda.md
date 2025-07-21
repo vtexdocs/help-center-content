@@ -1,5 +1,5 @@
 ---
-title: 'La ordenación de los valores de las especificaciones no se guarda'
+title: "La ordenación de los valores de las especificaciones no se guarda"
 id: 7Fm0MJaKXKBfpslyV0AnPk
 status: PUBLISHED
 createdAt: 2022-05-23T20:07:52.919Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: specification-value-ordering-is-not-saved
+slugEN: la-ordenacion-de-los-valores-de-las-especificaciones-no-se-guarda
 locale: es
 kiStatus: Backlog
 internalReference: 584182
@@ -18,7 +18,9 @@ internalReference: 584182
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 No es posible cambiar el orden de los valores de las especificaciones para las cuentas con un gran volumen de valores. Cuando se cambia el orden de algún valor, la página se recarga y el cambio no se guarda

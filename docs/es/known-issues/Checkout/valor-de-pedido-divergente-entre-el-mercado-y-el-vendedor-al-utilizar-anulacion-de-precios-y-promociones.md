@@ -1,5 +1,5 @@
 ---
-title: 'Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones'
+title: "Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones"
 id: 4OsDOEqVDpDTen3BFyHSYf
 status: PUBLISHED
 createdAt: 2023-02-17T18:37:04.409Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions
+slugEN: valor-de-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-anulacion-de-precios-y-promociones
 locale: es
 kiStatus: Backlog
 internalReference: 756629
@@ -18,7 +18,9 @@ internalReference: 756629
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el precio del artículo del vendedor _menos_ los descuentos del marketplace tiene un valor negativo, no se puede aplicar al artículo (no pueden tener un precio negativo), por lo que se considerará como cero y se estropeará con otros cálculos. Esto ocurre cuando el mercado está utilizando la función de anulación de precio del vendedor, generando valores más altos que la propia cuenta del vendedor, y luego combinando con una promoción.

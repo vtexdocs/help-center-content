@@ -17,9 +17,9 @@ announcementSynopsisEN: "We've launched four new features to boost your marketpl
 
 In 2022, VTEX has been investing in solutions to help our customers maximize their ecommerce profit and meet consumer needs in the post-pandemic scenario. 
 
-By adopting a [marketplace architecture](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), retailers can adapt their business to the latest consumer trends, lowering costs by expanding product assortment, and driving incremental revenue growth. 
+By adopting a [marketplace architecture](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), retailers can adapt their business to the latest consumer trends, lowering costs by expanding product assortment, and driving incremental revenue growth. 
 
-We are providing new features to make this strategy possible, allowing retailers to launch and manage marketplace operations in a scalable way with: [Seller Portal](https://help.vtex.com/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Seller Management](https://help.vtex.com/en/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Seller Invite](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), and [Offer Management](https://help.vtex.com/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE). 
+We are providing new features to make this strategy possible, allowing retailers to launch and manage marketplace operations in a scalable way with: [Seller Portal](/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Seller Management](/en/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Seller Invite](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), and [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE). 
 
 The new features allow marketplaces to:
 
@@ -80,7 +80,7 @@ Learn more about each one below.
 
 ![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-10-17-vtex-marketplace-launches-in-2022_2.gif)
 
-The Seller Portal is a VTEX platform edition for [sellers](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
+The Seller Portal is a VTEX platform edition for [sellers](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -119,7 +119,7 @@ We provided [Catalog API - Seller Portal](https://developers.vtex.com/vtex-rest-
 
 #### Seller Invite 
 
-To facilitate new sellers joining the Seller Portal, we have also launched the [Seller Invite](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) page, where marketplace operators invite sellers to join their marketplace. The page allows you to invite two types of sellers: 
+To facilitate new sellers joining the Seller Portal, we have also launched the [Seller Invite](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) page, where marketplace operators invite sellers to join their marketplace. The page allows you to invite two types of sellers: 
 
 * **VTEX hosted stores:** can connect their VTEX account as a new marketplace seller.
 * **Stores that do not have a VTEX account:** sellers hosted on other platforms or not yet subscribed to any digital commerce platform can create an account on the VTEX Seller Portal.
@@ -128,7 +128,7 @@ To facilitate new sellers joining the Seller Portal, we have also launched the [
 
 ![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-10-17-vtex-marketplace-launches-in-2022_3.gif)
 
-We launched the redesigned experience of the [Seller Management](https://help.vtex.com/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) page, where marketplace operators can [add sellers](https://help.vtex.com/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
+We launched the redesigned experience of the [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) page, where marketplace operators can [add sellers](/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
 
 The page includes:
 
@@ -137,11 +137,11 @@ The page includes:
 * Metrics about seller pending offers.
 * The option to add sellers to groups created by the marketplace that makes it easier to manage multiple sellers in a more efficient and scalable way.
 
-_This page follows the new VTEX Design System, with a clean, modern and easy-to-use layout. [Join](https://content.vtex.com/join-new-admin-beta-program-en/) the [Redesigned VTEX Admin](https://help.vtex.com/en/v4) Beta program to access more pages with this new look and feel and a redesigned Admin with actionable data._ 
+_This page follows the new VTEX Design System, with a clean, modern and easy-to-use layout. [Join](https://content.vtex.com/join-new-admin-beta-program-en/) the [Redesigned VTEX Admin](/en/v4) Beta program to access more pages with this new look and feel and a redesigned Admin with actionable data._ 
 
 ### Offer management
 
-A seller's efficiency and strategic performance depend on their visibility over submitting offers to the marketplace and identifying and fixing errors during the process. To make this process easier, we have launched the [Offer Management](https://help.vtex.com/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE) feature. 
+A seller's efficiency and strategic performance depend on their visibility over submitting offers to the marketplace and identifying and fixing errors during the process. To make this process easier, we have launched the [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE) feature. 
 
 Until now, to get information about marketplace offers, sellers had to go to three different pages in the VTEX Admin: _Product, Price, _and_ Inventory_ under _Marketplace > Integrations_. In addition, identifying and fixing errors when submitting offers was hardly intuitive.
 
@@ -153,7 +153,7 @@ The new feature allows the seller to monitor their listings easily and to quickl
 * Quickly identify and fix errors when sending and synchronizing offers.
 * Search using different filters.
 * Export spreadsheets with offer lists.
-* Investigate in a granular way the offer [interactions](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) with each system involved.
+* Investigate in a granular way the offer [interactions](/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) with each system involved.
 
 The **Offer Management** feature is intended only for sellers, but it also benefits the marketplace operator, who can provide a better experience for their sellers and ensure faster product delivery.
 
@@ -234,6 +234,6 @@ Check the tables below to see what needs to be done for marketplaces and sellers
 </table>
 
 ## Learn more
-- [Seller Portal](https://help.vtex.com/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
-- [Offer Management](https://help.vtex.com/en/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
-- [Seller Management](https://help.vtex.com/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
+- [Seller Portal](/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
+- [Offer Management](/en/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
+- [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)

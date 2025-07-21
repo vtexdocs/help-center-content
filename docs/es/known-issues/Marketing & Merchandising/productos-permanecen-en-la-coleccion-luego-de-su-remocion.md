@@ -1,5 +1,5 @@
 ---
-title: 'Productos permanecen en la colección luego de su remoción'
+title: "Productos permanecen en la colección luego de su remoción"
 id: hyuFn96MqOsyIoM6iUqWo
 status: PUBLISHED
 createdAt: 2017-06-16T20:47:54.231Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: products-remain-in-the-collection-after-their-removal
+slugEN: productos-permanecen-en-la-coleccion-luego-de-su-remocion
 locale: es
 kiStatus: Fixed
 internalReference: 

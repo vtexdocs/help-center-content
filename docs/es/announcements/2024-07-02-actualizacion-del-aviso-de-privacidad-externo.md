@@ -36,4 +36,4 @@ Hemos actualizado nuestro Aviso de Privacidad de acuerdo con la legislación vig
 
 ## ¿Qué se necesita hacer?
 
-No es necesaria ninguna acción. El documento ya está disponible en todos los idiomas en el sitio web de VTEX. Para más información, accede al nuevo [Aviso de Privacidad Externo](https://vtex.com/mx-es/privacy-and-agreements/external-notice/) y a la guía de onboarding de [Datos y privacidad](https://help.vtex.com/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq).
+No es necesaria ninguna acción. El documento ya está disponible en todos los idiomas en el sitio web de VTEX. Para más información, accede al nuevo [Aviso de Privacidad Externo](https://vtex.com/mx-es/privacy-and-agreements/external-notice/) y a la guía de onboarding de [Datos y privacidad](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq).

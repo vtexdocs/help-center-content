@@ -25,7 +25,7 @@ Veja na tabela abaixo quais campos podem ser customizados e qual a descrição d
 | **Nome do campo** | **Descrição** |
 |:---:|:---:|
 | meli_title | Envia o nome cadastrado neste campo ao invés do nome que consta no campo `title`. |
-| meli_shipping_mode | Define o [tipo logístico](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) utilizado pelo seller: [me1](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) ou [me2](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
+| meli_shipping_mode | Define o [tipo logístico](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) utilizado pelo seller: [me1](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) ou [me2](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
 | officialstoreid_meli | Define qual a loja oficial do seller no Mercado Livre. |
 | plaintext_description_meli | Envia a descrição de produto cadastrada neste campo ao invés da descrição que consta no campo `productDescription`. |
 | free_shipping | Informa ao Mercado Livre se o produto é oferecido com a opção de frete grátis.  |
@@ -42,13 +42,15 @@ Para criar um campo de produto, siga os passos abaixo:
 5. Clique em **Campo (Produto).**  
 6. Clique em **Novo Campo.**  
 7. Preencha as informações referentes ao campo que está sendo criado:  
->⚠️ O nome do campo deve ser preenchido exatamente como um dos nomes apresentados na tabela da seção [Campos customizáveis](#campos-customizaveis).  
+<div class="alert alert-warning">
+O nome do campo deve ser preenchido exatamente como um dos nomes apresentados na tabela da seção <a href="#campos-customizaveis">Campos customizáveis</a>.
+</div>  
 
   **Nome:** nome da especificação (campo) de produto.  
   **Texto:** descrição sobre o campo.  
-  **Tipo:** tipo de campo, que pode variar entre **Texto, Texto Grande, Número, Combo, Radio, CheckBox, Texto Indexado e Texto Grande Indexado.** [Leia a seção Tipos de campo de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106#tipos-de-campo-de-produto) para mais informações sobre cada opção.  
+  **Tipo:** tipo de campo, que pode variar entre **Texto, Texto Grande, Número, Combo, Radio, CheckBox, Texto Indexado e Texto Grande Indexado.** [Leia a seção Tipos de campo de produto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106#tipos-de-campo-de-produto) para mais informações sobre cada opção.  
   **Valor Padrão:** valor de preenchimento já definido na criação do campo.  
-  **Grupo:** nome do [grupo de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria) criado anteriormente, do qual esse campo fará parte.  
+  **Grupo:** nome do [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) criado anteriormente, do qual esse campo fará parte.  
   **Filtro:** define se a especificação será utilizada como filtro na navegação do site.  
   **Obrigatório:** define se o valor obrigatoriamente precisa ser preenchido no cadastro do produto ou não. Caso o campo seja obrigatório, o produto só poderá ser ativado após o preenchimento desta especificação.  
   **Exibe Especificação:** define se o campo é mostrado na página de detalhes do produto, na aba **Especificações.**  

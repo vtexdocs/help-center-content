@@ -1,5 +1,5 @@
 ---
-title: 'O elemento personalizado de banner do CMS legado não está funcionando'
+title: "O elemento personalizado de banner do CMS legado não está funcionando"
 id: 3ezW1BTc2nSvHpp0mAYhwh
 status: PUBLISHED
 createdAt: 2024-02-07T13:44:20.722Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: legacy-cmss-banner-custom-element-not-working
+slugEN: o-elemento-personalizado-de-banner-do-cms-legado-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 978466
@@ -18,7 +18,9 @@ internalReference: 978466
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a guia "elementos personalizados" das configurações do CMS legado não está funcionando corretamente.

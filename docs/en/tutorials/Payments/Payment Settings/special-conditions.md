@@ -25,7 +25,7 @@ To identify the special conditions applicable to each payment method, in the VTE
 
 Allows you to set a payment rule for each SKU group, but for it to work properly, it is necessary to first create different system default business conditions and secondly, the SKUs that comply with this rule must be properly linked to the commercial condition.
 
-To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](https://help.vtex.com/en/tutorial/registering-a-commercial-condition--tutorials_445).
+To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](/en/tutorial/registering-a-commercial-condition--tutorials_445).
 
 ## How to configure a commercial condition on the payment condition
 
@@ -136,7 +136,9 @@ Suppose that you want to offer a special payment condition to customers paying b
 
 In this case, you must select the issuing bank which responsible for this card followed by the name of your store in the __Co-brand__ field.
 
->⚠️ Be aware that by default, the info as to whether or not a card has co-brand is **not** added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
+<div class="alert alert-warning">
+Be aware that by default, the info as to whether or not a card has co-brand is <strong>not</strong> added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
+</div>
 
 ## Period
 
@@ -158,4 +160,6 @@ How to configure the payment condition period:
 
 Suppose that your store usually offers a payment with in to 6x, without interest, but wants to use the end-of-year sales to offer payment in up to 12x, without interest. In this case, follow the steps above, and add the period of the payment condition. Its application can cease on January 1st of the following year, for example.
 
->⚠️ Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the **Payments** module can take up to 10 minutes to start operating in Smart Checkout.
+<div class = "alert alert-warning">
+  <p>Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the <strong>Payments</strong> module can take up to 10 minutes to start operating in Smart Checkout.</p>
+</div>

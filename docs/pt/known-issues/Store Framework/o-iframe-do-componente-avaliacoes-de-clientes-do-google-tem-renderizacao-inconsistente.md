@@ -1,5 +1,5 @@
 ---
-title: 'O iframe do componente Avaliações de clientes do Google tem renderização inconsistente'
+title: "O iframe do componente Avaliações de clientes do Google tem renderização inconsistente"
 id: 7BDB9yYv3ZHbhE4ExCXgZK
 status: PUBLISHED
 createdAt: 2023-12-22T17:55:39.082Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: google-customer-reviews-component-iframe-has-inconsistent-rendering
+slugEN: o-iframe-do-componente-avaliacoes-de-clientes-do-google-tem-renderizacao-inconsistente
 locale: pt
 kiStatus: No Fix
 internalReference: 578443
@@ -18,7 +18,9 @@ internalReference: 578443
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O iframe, responsável pelo emblema do Google Customer Review, tem renderização inconsistente dentro do elemento div do componente Google Customer Reviews.

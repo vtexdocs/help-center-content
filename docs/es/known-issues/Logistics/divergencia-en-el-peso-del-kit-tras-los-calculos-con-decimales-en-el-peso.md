@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia en el peso del kit tras los cálculos con decimales en el peso'
+title: "Divergencia en el peso del kit tras los cálculos con decimales en el peso"
 id: 4wWyTmTAd2h2oxw5HtGn6V
 status: PUBLISHED
 createdAt: 2022-09-13T19:31:43.534Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: divergence-in-kit-weight-after-calculations-involving-decimals-in-weight
+slugEN: divergencia-en-el-peso-del-kit-tras-los-calculos-con-decimales-en-el-peso
 locale: es
 kiStatus: Backlog
 internalReference: 657186
@@ -18,7 +18,9 @@ internalReference: 657186
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En ciertos casos de kits, la política de envío puede no estar disponible, esto puede suceder debido a la lógica utilizada para los cálculos que involucran el peso.

@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito'
+title: "La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito"
 id: 68de6QDUomjPPDXf9P14c3
 status: PUBLISHED
 createdAt: 2023-03-27T20:03:54.217Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message
+slugEN: la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito
 locale: es
 kiStatus: No Fix
 internalReference: 699374
@@ -18,7 +18,9 @@ internalReference: 699374
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de CRM no elimina los documentos, aunque se muestra el mensaje de éxito.

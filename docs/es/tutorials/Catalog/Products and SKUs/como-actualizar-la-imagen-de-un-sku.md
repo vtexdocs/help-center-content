@@ -17,7 +17,9 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Usted puede actualizar una imagen de SKU de dos formas: en el Admin VTEX ou por la Catalog API.
 
->❗ Este es un procedimiento que se debe realizar con mucho cuidado. El procedimiento que se describe a continuación implica la exclusión de todas las imágenes de un SKU, lo que lo volverá **INACTIVO**. Manténgase atento a las recomendaciones de los siguientes pasos para que la actualización de las imágenes se realice con éxito.
+<div class = "alert alert-danger">
+Este es un procedimiento que se debe realizar con mucho cuidado. El procedimiento que se describe a continuación implica la exclusión de todas las imágenes de un SKU, lo que lo volverá <strong>INACTIVO</strong>. Manténgase atento a las recomendaciones de los siguientes pasos para que la actualización de las imágenes se realice con éxito.
+</div>
 
 Como este procedimiento implica la exclusión de todas las imágenes de un SKU y lo vuelve inactivo, recomendamos que el proceso de sustitución de imágenes se realice en pequeños lotes de SKUs.
 
@@ -31,7 +33,9 @@ Como este procedimiento implica la exclusión de todas las imágenes de un SKU y
 4. Haga clic en la pestaña __Imágenes__.
 5. Seleccione las imágenes que desea borrar y haga clic en __Retirar__. Recuerde que al borrar todas las imágenes de un SKU este quedará inactivo.
 
->❗ Recomendamos que estas actualizaciones de imágenes se realicen en pequeños lotes. Recuerde que, al borrar todas las imágenes de un SKU, este quedará inactivo.
+<div class = "alert alert-danger">
+Recomendamos que estas actualizaciones de imágenes se realicen en pequeños lotes. Recuerde que, al borrar todas las imágenes de un SKU, este quedará inactivo.
+</div>
 
 ### Subir las nuevas imágenes
 

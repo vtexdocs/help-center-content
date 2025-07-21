@@ -19,7 +19,7 @@ O SmartCheckout™ V5 permite a compra sem login e senha da VTEX (one-click-buy 
 
 ### Iframe nas formas de pagamento com cartão
 
-As formas de pagamento por cartão de crédito, débito e private label (cartão emitido pelo varejista e aceito apenas dentro da sua rede de estabelecimentos) ficam isoladas em um iframe. Isso impede a customização de JavaScript, o que aumenta a segurança da sua loja. Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+As formas de pagamento por cartão de crédito, débito e private label (cartão emitido pelo varejista e aceito apenas dentro da sua rede de estabelecimentos) ficam isoladas em um iframe. Isso impede a customização de JavaScript, o que aumenta a segurança da sua loja. Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 Note que, apesar de estar em um iframe, ainda é possível aplicar CSS normalmente no campo. Mas é importante prestar atenção no seletor CSS utilizado porque, por ser um iframe, ele deve começar com elementos que estejam dentro de `#app-container .App` sem, por exemplo, `#payment-data` ou `.payment-group` (que estão fora do iframe).
 
@@ -55,7 +55,9 @@ Você pode usar os arquivos `checkout5-custom.js` e `orderplaced2-custom.js` p
 4. No menu __Arquivos__, localizado no lado direito da página, clique naqueles em que desejar realizar ajustes no código.
 5. Clique no botão `Salvar`.
 
->⚠️ Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX **não recomenda** customizações e não se responsabiliza por qualquer dano causado por esse código.
+<div class="alert alert-warning">
+  Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX <b>não recomenda</b> customizações e não se responsabiliza por qualquer dano causado por esse código.
+</div>
 
 __IMPORTANTE:__ não use esses arquivos para inserir tags de marketing e integrações. Se precisar delas, faça isso pelo Google Tag Manager.
 

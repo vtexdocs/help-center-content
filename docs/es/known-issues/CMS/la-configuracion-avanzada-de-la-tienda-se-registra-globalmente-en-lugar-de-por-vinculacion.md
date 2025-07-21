@@ -1,5 +1,5 @@
 ---
-title: 'La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación'
+title: "La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación"
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: advanced-store-settings-being-registered-globally-insted-of-by-binding
+slugEN: la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion
 locale: es
 kiStatus: Backlog
 internalReference: 783835
@@ -18,7 +18,9 @@ internalReference: 783835
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1'
+title: "Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1"
 id: 1L5RNoTBkoJxq2c22KDTRU
 status: PUBLISHED
 createdAt: 2022-03-21T17:43:03.979Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: incorrect-price-rounding-when-unit-multiplier-is-different-from-1
+slugEN: arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1
 locale: pt
 kiStatus: Backlog
 internalReference: 426275
@@ -18,7 +18,9 @@ internalReference: 426275
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O preço mostrado pelo bloco vtex.produto-preço diverge devido aos arredondamentos de multiplicação de unidades.

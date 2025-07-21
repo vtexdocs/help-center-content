@@ -14,7 +14,7 @@ trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugES: instore-usando-el-app
 ---
 
-VTEX Sales App permite [habilitar una funcionalidad de transferencia de carrito](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). Esta funcionalidad permite que una compra iniciada en un dispositivo se complete en cualquier otro dispositivo presente en el flujo de compra, sin la necesidad de leer los productos nuevamente.
+VTEX Sales App permite [habilitar una funcionalidad de transferencia de carrito](/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). Esta funcionalidad permite que una compra iniciada en un dispositivo se complete en cualquier otro dispositivo presente en el flujo de compra, sin la necesidad de leer los productos nuevamente.
 
 ## Transferir carrito
 

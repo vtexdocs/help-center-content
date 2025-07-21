@@ -19,14 +19,14 @@ Existem quatro tipos de configuração logística para atender aos pedidos reali
 
 - [Selfship](#selfship)  
 - [FBA Onsite](#fba-onsite)  
-- FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação [Importação de Pedidos Amazon FBA Classic](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO)  
-- DBA, para conhecer sobre o programa e a integração com a VTEX, confira a documentação [Importação de Pedidos Amazon DBA](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig)  
+- FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação [Importação de Pedidos Amazon FBA Classic](/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO)  
+- DBA, para conhecer sobre o programa e a integração com a VTEX, confira a documentação [Importação de Pedidos Amazon DBA](/pt/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig)  
 
 O Seller pode utilizar o Selfship, FBA Onsite, FBA Classic e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.  
 
 ## Selfship
 
-_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e [Definir Estratégia de Envio na Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio).  
+_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e [Definir Estratégia de Envio na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio).  
 
 ## FBA Onsite (Fulfillment by Amazon)
 
@@ -42,7 +42,7 @@ Veja a seguir as etapas necessárias para ativar esse serviço na integração c
 
 ### 1. Criar especificação de produto
 
-O primeiro passo para configurar seus produtos FBA Onsite é [cadastrar uma especificação de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) chamada **AMAZON_CHANNEL**. Dessa forma, você sinaliza à Amazon o tipo de envio do produto.
+O primeiro passo para configurar seus produtos FBA Onsite é [cadastrar uma especificação de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) chamada **AMAZON_CHANNEL**. Dessa forma, você sinaliza à Amazon o tipo de envio do produto.
 Os valores que deverão ser preenchidos vão variar conforme a segmentação dos produtos:  
 
 - **MFN:** valor correspondente aos produtos que serão entregues sob a responsabilidade do seller. Válido para o programa Selfship ou DBA.  
@@ -52,16 +52,18 @@ Após criar a especificação de produto, seu produto estará ativo para os pedi
 
 ### 2. Definir Estratégia de Envio para Pedidos FBA Onsite
 
->ℹ️ É importante assegurar que a <a href=”https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV”>política comercial</a> utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.  
+<div class="alert alert-info">
+É importante assegurar que a <a href=”https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV”>política comercial</a> utilizada é específica para a Amazon. Dessa forma, você garante que o estoque criado não será utilizado por outra integração.
+</div>  
 
-Para dar continuidade à configuração, é preciso determinar uma [Estratégia de Envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusiva para o FBA Onsite, ou seja, informar qual será a operação de entrega de seus produtos.  
+Para dar continuidade à configuração, é preciso determinar uma [Estratégia de Envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusiva para o FBA Onsite, ou seja, informar qual será a operação de entrega de seus produtos.  
 
 Para criar uma Estratégia de Envio específica, é necessário realizar os seguintes passos:  
 
-1. Crie uma [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.  
-2. Crie uma [Doca](https://help.vtex.com/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) associada à política comercial usada na integração da Amazon.  
-3. Crie um [Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) associado à Doca criada no passo anterior.  
-4. Acesse a página [Gerenciar Inventário](https://help.vtex.com/pt/tutorial/managing-stock-items--tutorials_139), localize o estoque criado no passo anterior e ative o campo **Estoque Infinito.**  
+1. Crie uma [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.  
+2. Crie uma [Doca](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) associada à política comercial usada na integração da Amazon.  
+3. Crie um [Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137) associado à Doca criada no passo anterior.  
+4. Acesse a página [Gerenciar Inventário](/pt/tutorial/managing-stock-items--tutorials_139), localize o estoque criado no passo anterior e ative o campo **Estoque Infinito.**  
 
 ### 3. Configurar FBA Onsite na integração da Amazon
 

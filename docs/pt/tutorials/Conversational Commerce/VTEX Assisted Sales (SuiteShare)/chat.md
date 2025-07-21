@@ -19,9 +19,9 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Tenha um chat sem filas e sem que o seu cliente fique esperando horas para ser atendido. Envie ele diretamente para o seu WhatsApp.
 
-Para começar você [deve ter criado os links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora. 
+Para começar você [deve ter criado os links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora. 
 
-**Importante**: Para criar um chat é preciso ter um [_**captura**_](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) ou um [**_seletivo_**](https://help.vtex.com/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX) criado. Se você ainda não criou, acesse os nossos artigos. 
+**Importante**: Para criar um chat é preciso ter um [_**captura**_](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) ou um [**_seletivo_**](/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX) criado. Se você ainda não criou, acesse os nossos artigos. 
 
 Acesse “_**Atrair**_” > “_**Chat**_”  
 

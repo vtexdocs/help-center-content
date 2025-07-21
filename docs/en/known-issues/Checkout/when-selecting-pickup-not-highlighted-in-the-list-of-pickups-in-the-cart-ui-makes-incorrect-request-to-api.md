@@ -1,5 +1,5 @@
 ---
-title: 'When selecting pickup not highlighted in the list of pickups in the cart, UI makes incorrect request to API'
+title: "When selecting pickup not highlighted in the list of pickups in the cart, UI makes incorrect request to API"
 id: 42NRIpmVxU7XgOMGHlO6zI
 status: PUBLISHED
 createdAt: 2022-02-22T18:21:47.541Z

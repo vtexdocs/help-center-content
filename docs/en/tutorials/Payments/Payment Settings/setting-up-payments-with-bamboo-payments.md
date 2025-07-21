@@ -3,8 +3,8 @@ title: 'Setting up payments with Bamboo-Payments'
 id: 33TDZBp1wmgzJdiZtvu1xY
 status: PUBLISHED
 createdAt: 2022-08-12T20:06:37.117Z
-updatedAt: 2024-10-02T21:13:05.858Z
-publishedAt: 2024-10-02T21:13:05.858Z
+updatedAt: 2025-02-26T15:02:53.268Z
+publishedAt: 2025-02-26T15:02:53.268Z
 firstPublishedAt: 2022-08-12T20:13:31.863Z
 contentType: tutorial
 productTeam: Financial
@@ -35,11 +35,11 @@ To configure Bamboo-Payments, follow the steps below:
    		<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
 8. In __Provider Fields__, fill in the __Ingrese su llave privada__ field with your Bamboo-Payments account information.
-9. In __Habilitar autorización y captura__ and __País de operación__ select the desired options.
+9. In __Habilitar autorización y captura__, __País de operación__, __Límite Superior de Captura Permitido (%)__ and __Límite Inferior de Captura Permitido (%)__ select the desired options.
 10. Click __Save__.
 
-To configure the payment methods to be processed by Bamboo-Payments, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by Bamboo-Payments, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, Bamboo-Payments may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -1,5 +1,5 @@
 ---
-title: 'La configuración del valor de fidelización CMS no funciona'
+title: "La configuración del valor de fidelización CMS no funciona"
 id: 5oh7WEZvQO339HRaWhBUfA
 status: PUBLISHED
 createdAt: 2023-01-04T14:18:17.304Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cms-loyalty-value-settings-not-working
+slugEN: la-configuracion-del-valor-de-fidelizacion-cms-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 726849
@@ -18,7 +18,9 @@ internalReference: 726849
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

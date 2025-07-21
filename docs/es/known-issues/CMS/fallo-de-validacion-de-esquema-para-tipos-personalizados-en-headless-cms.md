@@ -1,5 +1,5 @@
 ---
-title: 'Fallo de validación de esquema para tipos personalizados en Headless CMS'
+title: "Fallo de validación de esquema para tipos personalizados en Headless CMS"
 id: 2dcDsFQkqbNqJZXEzztQ11
 status: PUBLISHED
 createdAt: 2023-09-19T21:43:59.145Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: schema-validation-failing-for-custom-types-in-headless-cms
+slugEN: fallo-de-validacion-de-esquema-para-tipos-personalizados-en-headless-cms
 locale: es
 kiStatus: Backlog
 internalReference: 903687
@@ -18,7 +18,9 @@ internalReference: 903687
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

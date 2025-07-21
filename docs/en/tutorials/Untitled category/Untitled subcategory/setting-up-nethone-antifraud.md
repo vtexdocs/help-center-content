@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 Nethone is an anti-fraud solution that identifies specific aspects of user behavior and minimizes the risk of fraud in your store's transactions by using artificial intelligence and machine learning.
 
->⚠️ You can integrate your store with Nethone via **Application Key (App Key)** and **Application Token (App Token)**. You will find this information in the plugin package that Nethone will send you after you sign the contract. If you have any questions, please contact the Nethone support team.
+<div class="alert alert-warning">
+  You can integrate your store with Nethone via <b>Application Key (App Key)</b> and <b>Application Token (App Token)</b>. You will find this information in the plugin package that Nethone will send you after you sign the contract. If you have any questions, please contact the Nethone support team. 
+  </div>
 
 To set up Nethone in your store, you will need to:
 
@@ -47,7 +49,7 @@ To perform the anti-fraud analysis, the Nethone affiliation must be associated w
 1. Go to the VTEX __Admin__.
 2. Access the __Payments__ module.
 3. Click on __Settings__.
-4. In the __Payment conditions__ tab, select an existing condition, or check out the [Configuring a payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) tutorial to create a new one.
+4. In the __Payment conditions__ tab, select an existing condition, or check out the [Configuring a payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) tutorial to create a new one.
 5. Make sure the payment condition is __Active__.
 6. After selecting or creating a new condition, enable the option __Use anti-fraud solution__.
 7. Select the __Nethone__ option.
@@ -70,7 +72,9 @@ The next step for configuring the Nethone affiliation is integrating with Google
 
 ## Configuring Google Tag Manager
 
->⚠️ The configurations documented below are to be performed on a system external to VTEX and may be discontinued without notice.
+<div class="alert alert-warning">
+The configurations documented below are to be performed on a system external to VTEX and may be discontinued without notice.
+  </div>
 
 Once you have configured your account ID number at checkout, follow the instructions below to track purchase attempts made in your store.
 

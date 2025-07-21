@@ -81,10 +81,10 @@ A seguir, detalhamos os componentes exibidos na página.
 
 Problemas na navegação na frente de loja.
 
-* **Portal/CMS:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+* **Portal/CMS:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [Portal CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 * **Store Framework:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework).
 * **FastStore:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [FastStore](https://www.faststore.dev/).
-* **Sales App:** instabilidades observadas no [Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc), a solução da VTEX para vendas assistidas em lojas físicas.
+* **Sales App:** instabilidades observadas no [Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc), a solução da VTEX para vendas assistidas em lojas físicas.
 * **3rd Party Apps**: instabilidades observadas em extensões mantidas por terceiros.
 
 ### Checkout
@@ -125,7 +125,9 @@ Para visualizar as ocorrências de um dia específico, passe o mouse sobre a dat
 
 ![statuspage-8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Infrastructure/SLA%20&%20Status/pagina-de-status-da-vtex_8.png)
 
->⚠️ Se a manutenção agendada durar um período maior que um dia, somente a data de início estará marcada no calendário. É necessário abrir o [registro da manutenção](#registro-de-manutencao-agendada) para ver a data de início e a data de fim.
+<div class="alert alert-warning">
+  <p>Se a manutenção agendada durar um período maior que um dia, somente a data de início estará marcada no calendário. É necessário abrir o <a href="#registro-de-manutencao-agendada">registro da manutenção</a> para ver a data de início e a data de fim.</p>
+</div>
 
 A seguir, detalhamos as informações disponíveis no [registro de incidente](#registro-de-incidente) e no [registro de manutenção agendada](#registro-de-manutencao-agendada).
 

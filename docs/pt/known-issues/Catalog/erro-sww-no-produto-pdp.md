@@ -1,5 +1,5 @@
 ---
-title: 'Erro SWW no produto PDP'
+title: "Erro SWW no produto PDP"
 id: 3DhuWocQwqiWxuAffdwYkg
 status: PUBLISHED
 createdAt: 2023-01-23T12:38:30.711Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: error-sww-on-product-pdp
+slugEN: erro-sww-no-produto-pdp
 locale: pt
 kiStatus: Backlog
 internalReference: 738108
@@ -18,7 +18,9 @@ internalReference: 738108
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em algumas ocasiões, ao abrir o PDP do produto por meio da página de administração (ou do domínio final), um erro Something Went Wrong (Algo deu errado) é exibido na tela.

@@ -1,5 +1,5 @@
 ---
-title: 'Perfil de acesso ao catálogo dá acesso ao módulo Gift Card'
+title: "Perfil de acesso ao catálogo dá acesso ao módulo Gift Card"
 id: 1ZLEcFdDt267fJ2BQ9iLil
 status: PUBLISHED
 createdAt: 2022-03-27T01:11:44.523Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: catalog-access-profile-gives-access-to-the-gift-card-module
+slugEN: perfil-de-acesso-ao-catalogo-da-acesso-ao-modulo-gift-card
 locale: pt
 kiStatus: Backlog
 internalReference: 362165
@@ -18,7 +18,9 @@ internalReference: 362165
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O acesso ao módulo de catálogo também dá acesso ao módulo de cartões-presente através da interface de usuário.

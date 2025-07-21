@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-meu-pedido-com-estoque-disponivel-esta-dando-erro-no-oms
 ---
 
-Quando o pagamento de um pedido demora muitos dias para ser aprovado, algumas reservas acabam expirando, ocasionando possíveis erros no [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) no módulo **Pedidos**, como produtos com estoque indisponível.
+Quando o pagamento de um pedido demora muitos dias para ser aprovado, algumas reservas acabam expirando, ocasionando possíveis erros no [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) no módulo **Pedidos**, como produtos com estoque indisponível.
 
 A fim de evitar a reserva desnecessária de SKUs, o status `Reservado` tem um prazo de validade estabelecido e, caso o pagamento não seja confirmado até essa data, o SKU do pedido é liberado para outra compra. 
 

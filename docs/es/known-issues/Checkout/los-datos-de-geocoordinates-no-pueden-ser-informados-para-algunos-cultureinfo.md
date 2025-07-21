@@ -1,5 +1,5 @@
 ---
-title: 'Los datos de GeoCoordinates no pueden ser informados para algunos cultureInfo'
+title: "Los datos de GeoCoordinates no pueden ser informados para algunos cultureInfo"
 id: 4MjLbyrniWsPKpFBHgn8sG
 status: PUBLISHED
 createdAt: 2022-05-19T16:19:45.245Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: geocoordinates-data-cant-be-informed-for-some-cultureinfo
+slugEN: los-datos-de-geocoordinates-no-pueden-ser-informados-para-algunos-cultureinfo
 locale: es
 kiStatus: No Fix
 internalReference: 582065
@@ -18,7 +18,9 @@ internalReference: 582065
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

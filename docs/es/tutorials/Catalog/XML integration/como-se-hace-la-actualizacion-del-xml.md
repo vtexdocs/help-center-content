@@ -23,4 +23,4 @@ Es posible visualizar la última fecha de actualización del XML. Esa informaci�
 
 ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/XML%20integration/como-se-hace-la-actualizacion-del-xml_1.png)
 
->ℹ️ Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados **no** surgirán en el XML. Productos inactivos también **no** surgen en el XML.
+<div class="alert alert-info">Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados <strong>no</strong> surgirán en el XML. Productos inactivos también <strong>no</strong> surgen en el XML.</div>

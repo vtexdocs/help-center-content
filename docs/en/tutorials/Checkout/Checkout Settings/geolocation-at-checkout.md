@@ -44,7 +44,9 @@ Once you have an API Key, proceed as follows:
 
 ![Geolocalizacao 1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/geolocation-at-checkout_1.png)
 
->ℹ️ In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
+<div class="alert alert-info">
+In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
+  </div>
 
 ### Setting up the polygon
 

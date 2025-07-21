@@ -3,8 +3,8 @@ title: 'Preencher campos da planilha de importação de produtos e SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2024-09-19T13:30:38.118Z
-publishedAt: 2024-09-19T13:30:38.118Z
+updatedAt: 2025-05-26T21:57:47.284Z
+publishedAt: 2025-05-26T21:57:47.284Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,18 +15,28 @@ legacySlug: preencher-campos-da-planilha-de-importacao
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-Na VTEX, é possível [importar produtos e SKUs em massa por meio de uma planilha](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha). Para entender o significado de cada campo da planilha, veja abaixo a descrição completa dos campos de Produto e SKU relacionados no Excel.
+Na VTEX, é possível [importar produtos e SKUs em massa por meio de uma planilha](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha), seguindo os passos abaixo:
 
->❗ Ao preencher **TextoLink**, **NomeDepartamento**, **NomeCategoria** e **Marca**, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+1. No Admin VTEX, acesse **Catálogo > Importação e exportação**, ou digite **Importação e exportação** na barra de busca no topo da página.
+2. Clique em `Exportação/Importação`.
+3. Clique na aba `Importar`. Você pode fazer o download da planilha para conferir ou alterar seus produtos.
+4. Preencha os campos referentes à planilha.
+5. Retorne ao Admin VTEX e faça o upload do arquivo no formato `.xls`.
+6. Clique em `Importar`.
+
+Dependendo da quantidade de produtos, seu processamento pode demorar algumas horas. Após finalizado, você receberá no email cadastrado a confirmação da importação.
+
+Para entender o significado de cada campo da planilha, veja abaixo a descrição completa dos campos de Produto e SKU relacionados no Excel.
+
+<div class="alert alert-danger">
+  <p>Ao preencher <b>TextoLink</b>, <b>NomeDepartamento</b>, <b>NomeCategoria</b> e <b>Marca</b>, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 **SkuId:** número único identificador do SKU. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo SKU, deixe a coluna vazia.
 
@@ -94,7 +104,7 @@ Na VTEX, é possível [importar produtos e SKUs em massa por meio de uma planilh
 
 **ExibeSemEstoque:** campo responsável por exibir um produto na loja mesmo quando esgotado, com a seção _Avise-me_, onde o cliente pode informar seu email para ser avisado quando o produto estiver disponível. Ao marcar _SIM_, o produto esgotado vai aparecer no site com _Avise-me_. Marcando _NÃO_, ele não será exibido no site. Campo obrigatório.
 
-**Kit:** campo que define se o SKU faz parte de um [kit](https://help.vtex.com/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Campo não editável pela planilha. Em caso de um novo SKU, deixe o campo vazio.
+**Kit:** campo que define se o SKU faz parte de um [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Campo não editável pela planilha. Em caso de um novo SKU, deixe o campo vazio.
 
 **IdDepartamento:** número único identificador da categoria de maior nível hierárquico do produto. Campo não editável pela planilha. Em caso de um novo produto, deixe o campo vazio.
 
@@ -110,22 +120,17 @@ Na VTEX, é possível [importar produtos e SKUs em massa por meio de uma planilh
 
 **PesoCubico:** campo deprecado. Este campo não é utilizado pelo sistema e recomendamos mantê-lo vazio. 
 
-**CondicaoComercial:** número único identificador da [condição comercial](https://help.vtex.com/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445). Ele define promoções e regras de parcelamento específicas para SKUs. 
+**CondicaoComercial:** número único identificador da [condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445). Ele define promoções e regras de parcelamento específicas para SKUs. 
 
-**CodigosLojas:** número único identificador da [política comercial](https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Essa informação é encontada na seção _Id_ do módulo _Políticas comerciais_ no Admin.
+**CodigosLojas:** número único identificador da [política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Essa informação é encontada na seção _Id_ do módulo _Políticas comerciais_ no Admin.
 
-**Acessorios:** campo que exibe os produtos que devem ser vendidos como complementos de um outro produto. Para adicionar um SKU acessório, inclua o ID do SKU.
+**Acessorios:** campo que exibe os produtos que devem ser vendidos como complementos de um outro produto. Para adicionar um SKU [acessório](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), inclua o ID do SKU.
 
-**Similares:** campo que exibe os SKUs similares a um outro SKU, que serão apresentados ao cliente na hora da compra. Para adicionar um SKU similar, inclua o ID do SKU.
+**Similares:** campo que exibe os SKUs [similares](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) a um outro SKU, que serão apresentados ao cliente na hora da compra. Para adicionar um SKU similar, inclua o ID do SKU.
 
-**Sugestao:** campo que exibe os SKUs que devem ser mostrados como sugestão ao SKU em questão. Para adicionar um SKU sugestão, inclua o ID do SKU.
+**Sugestao:** campo que exibe os SKUs que devem ser mostrados como [sugestão](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) ao SKU em questão. Para adicionar um SKU sugestão, inclua o ID do SKU.
 
-**MostrarJunto:** campo que exibe os SKUs dos SKUs sugeridos para compra em conjunto. Para adicionar um SKU sugestão, inclua o ID do SKU.
+**MostrarJunto:** campo que exibe os SKUs dos SKUs sugeridos para compra em conjunto. Para adicionar um SKU [mostrar junto](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), inclua o ID do SKU.
 
-**Anexos:** campo que mostra um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) ao comprador de um [serviço](https://help.vtex.com/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) ou do próprio item comprado.
-
-###### SAIBA MAIS
-
-* [Preencher campos de cadastro do Produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
-* [Preencher campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
+**Anexos:** campo que mostra um [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) ao comprador de um [serviço](/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) ou do próprio item comprado.
 

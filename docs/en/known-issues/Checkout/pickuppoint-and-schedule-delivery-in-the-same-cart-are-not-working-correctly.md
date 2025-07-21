@@ -1,5 +1,5 @@
 ---
-title: 'Pick-up-point and schedule delivery in the same cart are not working correctly'
+title: "Pick-up-point and schedule delivery in the same cart are not working correctly"
 id: 6ZCy8a4K6655BANe2yvz6e
 status: PUBLISHED
 createdAt: 2023-06-16T21:14:13.927Z

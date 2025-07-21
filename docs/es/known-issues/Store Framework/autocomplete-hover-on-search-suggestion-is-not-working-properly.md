@@ -1,5 +1,5 @@
 ---
-title: 'autocomplete - hover on search suggestion is not working properly'
+title: "autocomplete - hover on search suggestion is not working properly"
 id: 3lZ6vNv8feascNEHZNFuTH
 status: PUBLISHED
 createdAt: 2022-11-14T12:04:39.996Z
@@ -18,13 +18,19 @@ internalReference: 697406
 
 ## Sumario
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 
 ## Simulación
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 

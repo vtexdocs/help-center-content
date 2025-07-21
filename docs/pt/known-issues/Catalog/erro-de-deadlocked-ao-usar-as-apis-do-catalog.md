@@ -1,5 +1,5 @@
 ---
-title: 'Erro de deadlocked ao usar as APIs do Catalog'
+title: "Erro de deadlocked ao usar as APIs do Catalog"
 id: 6A4jBKBKIzn87mxNQJ4YQN
 status: PUBLISHED
 createdAt: 2023-07-14T18:29:11.937Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: deadlocked-error-when-using-catalog-apis
+slugEN: erro-de-deadlocked-ao-usar-as-apis-do-catalog
 locale: pt
 kiStatus: Backlog
 internalReference: 862626
@@ -18,7 +18,9 @@ internalReference: 862626
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O uso constante de algumas APIs de catálogo, como "Add SKU to Subcollection" (Adicionar SKU à subcoleção) ou a tentativa de vincular produtos por meio do módulo de sugestões pode causar erros de bloqueio para o comerciante.

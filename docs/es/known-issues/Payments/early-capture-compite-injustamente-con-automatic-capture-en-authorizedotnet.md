@@ -1,5 +1,5 @@
 ---
-title: 'Early Capture compite injustamente con Automatic Capture en AuthorizeDotNet'
+title: "Early Capture compite injustamente con Automatic Capture en AuthorizeDotNet"
 id: 2IDoJIBiGzhkVZGHurLsnj
 status: PUBLISHED
 createdAt: 2023-07-20T18:08:30.934Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: early-capture-wrongfully-competing-with-automatic-capture-on-authorizedotnet
+slugEN: early-capture-compite-injustamente-con-automatic-capture-en-authorizedotnet
 locale: es
 kiStatus: Backlog
 internalReference: 866068
@@ -18,7 +18,9 @@ internalReference: 866068
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para que podamos entender este comportamiento, primero tenemos que comprender la diferencia entre captura automática y captura anticipada:

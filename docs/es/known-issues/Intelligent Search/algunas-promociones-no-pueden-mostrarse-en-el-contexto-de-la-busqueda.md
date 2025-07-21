@@ -1,5 +1,5 @@
 ---
-title: 'Algunas promociones no pueden mostrarse en el contexto de la búsqueda'
+title: "Algunas promociones no pueden mostrarse en el contexto de la búsqueda"
 id: 48NdMjFOswJ5w7Nypc2Txd
 status: PUBLISHED
 createdAt: 2022-03-17T20:42:39.545Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: some-promotions-cant-be-displayed-in-search-context
+slugEN: algunas-promociones-no-pueden-mostrarse-en-el-contexto-de-la-busqueda
 locale: es
 kiStatus: Backlog
 internalReference: 475289
@@ -18,7 +18,9 @@ internalReference: 475289
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos tipos de promociones no se recuperan en el contexto de ProductSummaryProvider, y por lo tanto sus insignias no son renderizadas por el componente vtex.product-highlights.

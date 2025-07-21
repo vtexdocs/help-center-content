@@ -1,5 +1,5 @@
 ---
-title: 'Timeout en la aprobación manual de productos'
+title: "Timeout en la aprobación manual de productos"
 id: 7JfgNTNNPiKnpuSZZcRvx9
 status: PUBLISHED
 createdAt: 2021-08-31T18:29:22.514Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
-slugEN: timeout-when-approving-products-manually
+slugEN: timeout-en-la-aprobacion-manual-de-productos
 locale: es
 kiStatus: Backlog
 internalReference: 

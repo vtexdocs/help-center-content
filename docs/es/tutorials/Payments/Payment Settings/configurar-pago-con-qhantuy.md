@@ -37,8 +37,8 @@ Para configurar Qhantuy, siga los pasos a continuación:
 
 <ui>  7. Haga clic en <b>Guardar.</b></ui>
 
-Para configurar los métodos de pago a procesar por Qhantuy, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Qhantuy, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Qhantuy puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

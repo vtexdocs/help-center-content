@@ -38,7 +38,9 @@ The stage for VTEX IO, VTEX's development platform. Our engineers will explain a
 <br />
 <br />
 
->ℹ️ **Get 30% off** buying 10 or more tickets! But hurry up, because this condition will only be available until the end of November.
+<div class="alert alert-info">
+<strong>Get 30% off</strong> buying 10 or more tickets! But hurry up, because this condition will only be available until the end of November.
+</div>
 
 
 __When:__ 06/12/2018 _(all day long)_ 

@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível criar feed XML em HTTPS'
+title: "Não é possível criar feed XML em HTTPS"
 id: 1nWCF9Rq1GM6AScc0ce2M8
 status: PUBLISHED
 createdAt: 2017-07-09T23:54:48.739Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Catalog
-slugEN: its-not-possible-to-create-xml-feed-in-https
+slugEN: nao-e-possivel-criar-feed-xml-em-https
 locale: pt
 kiStatus: Fixed
 internalReference: 

@@ -31,7 +31,9 @@ Aplicamos las siguientes optimizaciones en la experiencia de gestión de promoci
 
 **Optimización de recursos:** hemos optimizado el tiempo de carga y el desempeño de la lista de promociones.
 
->ℹ️ Para ver a las promociones que se archivaron automáticamente, accede al Admin VTEX **Promociones > Promociones**, o **ingresa Promociones** en la barra de búsqueda de la parte superior de la página. En la esquina superior derecha haz clic en <i class="fas fa-ellipsis-v" aria-hidden="true"></i>, y después en Promociones aplicadas.
+<div class = "alert alert-info">
+Para ver a las promociones que se archivaron automáticamente, accede al Admin VTEX <b>Promociones > Promociones</b>, o <b>ingresa Promociones</b> en la barra de búsqueda de la parte superior de la página. En la esquina superior derecha haz clic en <i class="fas fa-ellipsis-v" aria-hidden="true"></i>, y después en Promociones aplicadas.
+</div>
 
 ## ¿Qué se necesita hacer?
 

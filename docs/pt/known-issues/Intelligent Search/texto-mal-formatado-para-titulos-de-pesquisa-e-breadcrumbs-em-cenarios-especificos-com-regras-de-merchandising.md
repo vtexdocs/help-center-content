@@ -1,5 +1,5 @@
 ---
-title: 'Texto mal formatado para títulos de pesquisa e breadcrumbs em cenários específicos com regras de merchandising'
+title: "Texto mal formatado para títulos de pesquisa e breadcrumbs em cenários específicos com regras de merchandising"
 id: 3dQskVnI1sbF6jgsopjUUt
 status: PUBLISHED
 createdAt: 2024-03-13T20:52:33.781Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: badly-formatted-text-for-search-titles-and-breadcrumbs-in-specific-scenarios-with-merchandising-rules
+slugEN: texto-mal-formatado-para-titulos-de-pesquisa-e-breadcrumbs-em-cenarios-especificos-com-regras-de-merchandising
 locale: pt
 kiStatus: Backlog
 internalReference: 999476
@@ -18,7 +18,9 @@ internalReference: 999476
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas páginas de resultados de pesquisa ocultam os filtros aplicados - já que eles já fazem parte da própria página, portanto, são definidos como "initialAttributes" - para se concentrar nos filtros adicionais que podem ser aplicados. Nesses cenários, os valores do título da página e dos breadcrumbs são basicamente definidos pelo primeiro produto da página.

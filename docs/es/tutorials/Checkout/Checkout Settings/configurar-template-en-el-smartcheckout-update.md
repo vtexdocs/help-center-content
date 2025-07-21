@@ -3,8 +3,8 @@ title: 'Configurar template en el SmartCheckout'
 id: ToTE5XB39t0SwtHgpgwSv
 status: PUBLISHED
 createdAt: 2019-08-27T17:48:08.831Z
-updatedAt: 2023-03-24T19:06:08.064Z
-publishedAt: 2023-03-24T19:06:08.064Z
+updatedAt: 2025-05-29T17:21:39.692Z
+publishedAt: 2025-05-29T17:21:39.692Z
 firstPublishedAt: 2019-10-28T16:39:00.190Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,7 +19,9 @@ El __portal__ es usado para renderizar las pantallas de __Checkout__ (carrito, d
 
 El módulo __Checkout__ en Admin, muestra los sitios que están registrados para su cuenta. A través de él, también es posible crear un nuevo sitio, editar y configurar información sobre sitios existentes.
 
->ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+<div class="alert alert-info">
+Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en <a href="https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#">Crear multitienda/multidominio</a>.
+</div>
 
 ## Crear un nuevo sitio web
 
@@ -67,6 +69,10 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
 
 ## Configurar Checkout
 
+<div class="alert alert-warning">
+  Los usuarios que realizan configuraciones de checkout deben tener un rol con el <a href="https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <b>Manage portal</b>. A su vez, este nuevo rol deben crearlo usuarios que tengan acceso <b>Owner (Admin Super)</b>.
+</div>
+
 1. En el Admin VTEX, accede a __Configuración de la tienda > Storefront > Checkout__, o escribe __Checkout__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el icono <i class="fas fa-cog" alt="blue gear"></i> del sitio deseado.
 3. En el menú de opciones azul ubicado en la parte superior de la página, haga clic en __Checkout__ y configure los campos a continuación según sea necesario:
@@ -98,7 +104,9 @@ El código HTML completado en el template corresponde a lo que aparecerá en las
 
 De templates disponibles, los únicos que no se pueden cambiar son __vtex-checkout__ y __vtex-orderPlaced__. Estos corresponden al funcionamiento nativo de la plataforma, presentando el contenido principal de las páginas de __checkout__ y __order placed__.
 
->⚠️ La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que [SmartCheckout](https://help.vtex.com/es/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#) solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice [Google Tag Manager](https://help.vtex.com/es/tutorial/integration-with-google-tag%20-%20gerente--frequentlyAskedQuestions_616#).
+<div class="alert alert-warning">
+La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que <a href="https://help.vtex.com/es/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#">SmartCheckout</a> solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice <a href="https://help.vtex.com/es/tutorial/integration-with-google-tag%20-%20gerente--frequentlyAskedQuestions_616#">Google Tag Manager</a>.
+</div>
 
 ### Ejemplos de cómo rellenar templates 
 

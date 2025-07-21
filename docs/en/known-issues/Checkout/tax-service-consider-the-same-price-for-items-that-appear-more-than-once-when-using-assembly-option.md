@@ -1,5 +1,5 @@
 ---
-title: 'Tax Service consider the same price for items that appear more than once when using Assembly Option'
+title: "Tax Service consider the same price for items that appear more than once when using Assembly Option"
 id: 62a1S9SZmGsY58BcV6D58C
 status: PUBLISHED
 createdAt: 2023-09-25T13:27:15.638Z

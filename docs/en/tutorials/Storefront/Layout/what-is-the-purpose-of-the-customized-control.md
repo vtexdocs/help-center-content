@@ -33,7 +33,9 @@ To create a customized control tag, click on Add, enter a name, a tag name, and 
 
 ![cms-custom-elements EN / ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/what-is-the-purpose-of-the-customized-control_1.png)
 
->⚠️ **Warning:** do not create an HTML type control with an element `title`. This may interfere with your store operation.
+<div class="alert alert-warning">
+  <p><b>Warning:</b> do not create an HTML type control with an element <code>title</code>. This may interfere with your store operation.</p>
+</div>
 
 ## Application of customized controls on a page template
 

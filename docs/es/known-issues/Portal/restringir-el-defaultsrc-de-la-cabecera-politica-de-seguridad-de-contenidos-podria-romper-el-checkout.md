@@ -1,5 +1,5 @@
 ---
-title: 'Restringir el default-src de la cabecera Política de Seguridad de Contenidos podría romper el Checkout'
+title: "Restringir el default-src de la cabecera Política de Seguridad de Contenidos podría romper el Checkout"
 id: 5fQXzMrLchSUENa53MXgf
 status: PUBLISHED
 createdAt: 2023-03-02T17:29:31.623Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout
+slugEN: restringir-el-defaultsrc-de-la-cabecera-politica-de-seguridad-de-contenidos-podria-romper-el-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 763359
@@ -18,7 +18,9 @@ internalReference: 763359
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Restringir la cabecera de la Política de Seguridad de Contenidos puede provocar que no se carguen los archivos de checkout. Por ejemplo, la configuración `default-src 'self'` puede provocar que no se carguen los archivos procedentes de vtex.com

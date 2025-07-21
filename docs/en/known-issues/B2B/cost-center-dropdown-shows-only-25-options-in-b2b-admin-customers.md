@@ -1,5 +1,5 @@
 ---
-title: 'Cost center dropdown shows only 25 options in B2B Admin Customers'
+title: "Cost center dropdown shows only 25 options in B2B Admin Customers"
 id: 1ynkpOppe8iqbwB3CF0euV
 status: PUBLISHED
 createdAt: 2023-10-17T23:11:29.713Z

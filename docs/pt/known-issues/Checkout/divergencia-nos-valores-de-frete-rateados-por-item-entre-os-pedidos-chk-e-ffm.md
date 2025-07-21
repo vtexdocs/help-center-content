@@ -1,5 +1,5 @@
 ---
-title: 'Divergência nos valores de frete rateados por item entre os pedidos CHK e FFM'
+title: "Divergência nos valores de frete rateados por item entre os pedidos CHK e FFM"
 id: 6v4Fero4fkOw3omZOl21Xf
 status: PUBLISHED
 createdAt: 2022-01-24T20:24:18.002Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergency-in-apportioned-freight-values-per-item-between-chk-and-ffm-orders
+slugEN: divergencia-nos-valores-de-frete-rateados-por-item-entre-os-pedidos-chk-e-ffm
 locale: pt
 kiStatus: Backlog
 internalReference: 321111
@@ -18,7 +18,9 @@ internalReference: 321111
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, os valores de remessa repartidos por item entre o mercado (lado do checkout) e o vendedor (lado do cumprimento) os pedidos podem ser divergentes.

@@ -1,16 +1,16 @@
 ---
-title: 'A integração do MercadoPagoV1 e V2 não funciona com a funcionalidade de salvar cartão'
+title: "A integração do MercadoPagoV1 e V2 não funciona com a funcionalidade de salvar cartão"
 id: 2V8kdA60OTl7VQoUUNgBci
 status: PUBLISHED
 createdAt: 2022-05-03T15:45:09.856Z
-updatedAt: 2024-01-09T13:23:20.203Z
-publishedAt: 2024-01-09T13:23:20.203Z
+updatedAt: 2025-01-29T14:08:25.999Z
+publishedAt: 2025-01-29T14:08:25.999Z
 firstPublishedAt: 2022-05-03T15:45:10.554Z
 contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-mercadopagov1-and-v2-integration-does-not-work-with-save-card-functionality
+slugEN: a-integracao-do-mercadopagov1-e-v2-nao-funciona-com-a-funcionalidade-de-salvar-cartao
 locale: pt
 kiStatus: Backlog
 internalReference: 283727
@@ -18,7 +18,9 @@ internalReference: 283727
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A integração do MercadoPagoV1 e do MercadoPagoV2 não funciona corretamente com a funcionalidade de salvar cartão na seção "Minha conta" para países que não permitem transações com decimais.

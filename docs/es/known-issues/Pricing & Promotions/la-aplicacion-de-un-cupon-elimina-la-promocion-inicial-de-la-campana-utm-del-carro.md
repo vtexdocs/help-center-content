@@ -1,5 +1,5 @@
 ---
-title: 'La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro'
+title: "La aplicación de un cupón elimina la promoción inicial de la campaña UTM del carro"
 id: 2A1S6PgEwD9SgQo1UHrFFS
 status: PUBLISHED
 createdAt: 2024-08-27T20:52:46.450Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: applying-a-coupon-removes-initial-utm-campaign-promotion-from-cart
+slugEN: la-aplicacion-de-un-cupon-elimina-la-promocion-inicial-de-la-campana-utm-del-carro
 locale: es
 kiStatus: Backlog
 internalReference: 1088010
@@ -18,7 +18,9 @@ internalReference: 1088010
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

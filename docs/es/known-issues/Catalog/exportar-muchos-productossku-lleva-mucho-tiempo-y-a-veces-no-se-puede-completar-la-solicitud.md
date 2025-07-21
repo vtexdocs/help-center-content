@@ -1,5 +1,5 @@
 ---
-title: 'Exportar muchos productos/SKU lleva mucho tiempo y a veces no se puede completar la solicitud.'
+title: "Exportar muchos productos/SKU lleva mucho tiempo y a veces no se puede completar la solicitud."
 id: 4MBgn0t3jm698ZkkcF1o5G
 status: PUBLISHED
 createdAt: 2022-01-21T14:33:34.881Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: export-lots-of-productsskus-takes-long-time-and-sometimes-the-request-can-not-completed
+slugEN: exportar-muchos-productossku-lleva-mucho-tiempo-y-a-veces-no-se-puede-completar-la-solicitud
 locale: es
 kiStatus: No Fix
 internalReference: 284386
@@ -18,7 +18,9 @@ internalReference: 284386
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Exportar muchos productos/SKUs lleva mucho tiempo y a veces no se puede completar la solicitud. Este problema también afecta a otras exportaciones de catálogos.

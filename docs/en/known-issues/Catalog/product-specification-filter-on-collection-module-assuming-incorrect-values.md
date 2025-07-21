@@ -1,5 +1,5 @@
 ---
-title: "'Product Specification' filter on Collection Module assuming incorrect values"
+title: 'Product Specification" filter on Collection Module assuming incorrect values'
 id: 2vg3t5kp7j4Ttla53pVjck
 status: PUBLISHED
 createdAt: 2023-10-26T22:22:44.895Z

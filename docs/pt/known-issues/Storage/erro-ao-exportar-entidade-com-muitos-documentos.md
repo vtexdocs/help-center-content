@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao exportar entidade com muitos documentos'
+title: "Erro ao exportar entidade com muitos documentos"
 id: 1uLEk6e9z3011GaoJ4DNU0
 status: PUBLISHED
 createdAt: 2023-07-07T15:59:46.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-exporting-entity-with-too-many-documents
+slugEN: erro-ao-exportar-entidade-com-muitos-documentos
 locale: pt
 kiStatus: Backlog
 internalReference: 857894
@@ -18,7 +18,9 @@ internalReference: 857894
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exportação de um grande número de documentos de uma entidade resulta em processamento excessivo, causando erros na fila do processo e impedindo a exportação da lista de documentos.

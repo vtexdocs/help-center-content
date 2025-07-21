@@ -1,5 +1,5 @@
 ---
-title: 'Aparece un mensaje de error al añadir o eliminar colecciones en Promociones'
+title: "Aparece un mensaje de error al añadir o eliminar colecciones en Promociones"
 id: 5AsFQ2TTsThgMDDIQumcGO
 status: PUBLISHED
 createdAt: 2024-09-10T12:49:19.503Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: error-message-displayed-when-adding-or-removing-collections-in-promotions
+slugEN: aparece-un-mensaje-de-error-al-anadir-o-eliminar-colecciones-en-promociones
 locale: es
 kiStatus: Backlog
 internalReference: 1095440
@@ -18,7 +18,9 @@ internalReference: 1095440
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al añadir o eliminar colecciones en las promociones, se muestra un mensaje de error en la interfaz de usuario: "Erro - ¡No se pueden crear criterios de búsqueda!". A pesar del mensaje de error, los cambios se guardan correctamente y aparece un mensaje "Promoção salva com sucesso!" debajo del error. El problema se observa específicamente cuando se utiliza el selector "_Diferente de:"_ con más de una colección en la lista. En particular, el error no se produce cuando se guarda una promoción con el selector _"Diferente de:"_ y sólo aparece una colección.

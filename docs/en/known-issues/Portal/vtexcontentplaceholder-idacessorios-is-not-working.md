@@ -1,5 +1,5 @@
 ---
-title: "<vtex:contentPlaceHolder id='Acessorios'/> is not working"
+title: '<vtex:contentPlaceHolder id="Acessorios"/> is not working'
 id: 7x8f0vGaunX1P3EFJGCYaz
 status: PUBLISHED
 createdAt: 2022-01-23T02:24:12.606Z

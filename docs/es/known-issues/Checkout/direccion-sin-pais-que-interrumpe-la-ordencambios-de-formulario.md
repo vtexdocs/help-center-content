@@ -1,5 +1,5 @@
 ---
-title: 'Dirección sin país que interrumpe la ordenCambios de formulario'
+title: "Dirección sin país que interrumpe la ordenCambios de formulario"
 id: 3LfFmUaetyqZij8MCBJtcY
 status: PUBLISHED
 createdAt: 2022-05-16T19:58:42.987Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: adress-without-country-disrupting-orderform-changes
+slugEN: direccion-sin-pais-que-interrumpe-la-ordencambios-de-formulario
 locale: es
 kiStatus: No Fix
 internalReference: 579814
@@ -18,7 +18,9 @@ internalReference: 579814
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si se inserta una dirección incompleta sin la información del "país" en un orderForm, no se pueden añadir artículos al mismo.

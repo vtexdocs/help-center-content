@@ -1,5 +1,5 @@
 ---
-title: 'Configurações avançadas da loja sendo registradas globalmente através de'
+title: "Configurações avançadas da loja sendo registradas globalmente através de"
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: advanced-store-settings-being-registered-globally-insted-of-by-binding
+slugEN: configuracoes-avancadas-da-loja-sendo-registradas-globalmente-atraves-de
 locale: pt
 kiStatus: Backlog
 internalReference: 783835
@@ -18,7 +18,9 @@ internalReference: 783835
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

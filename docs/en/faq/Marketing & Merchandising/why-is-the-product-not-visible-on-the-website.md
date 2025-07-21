@@ -16,14 +16,14 @@ legacySlug: why-is-the-product-not-shown-on-the-website
 
 For a product to be displayed on the product listing page, it needs to be available for sale, which happens when the following settings are correctly configured:
 
-* The [product](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](https://help.vtex.com/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) are added to the Catalog.
-* The product has a [price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
-* The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), etc.
-* Regarding [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139), the product must meet one of the following conditions:
-    * There is stock available for sale ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+* The [product](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) are added to the Catalog.
+* The product has a [price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [shipping policies](/en/tutorial/politica-de-envio--tutorials_140), etc.
+* Regarding [inventory](/en/tutorial/gerenciar-inventario--tutorials_139), the product must meet one of the following conditions:
+    * There is stock available for sale ([reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
     * Unlimited inventory is configured for the product.
     * The option to display the product when it is sold out is active.
-* The store [Content Management System (CMS)](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates are configured.
+* The store [Content Management System (CMS)](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates are configured.
 
 You must adjust one or more of these settings when a product is not displayed on the product listing page.
 
@@ -34,9 +34,11 @@ This article explains how to investigate and fix product unavailability errors o
 * [Logistics](#logistics)
 * [CMS](#cms)
 
->⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
+<div class="alert alert-warning">
+After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the <a href="https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao">indexing queue</a> in the VTEX Admin, under <b>Catalog > Reports > Indexed Products</b>. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
+</div>
 
-There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw).
+There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw).
 
 ## Catalog
 
@@ -61,15 +63,16 @@ To check the product settings, you must follow the steps below.
     * **Brand:** Check the brand associated with the product and make sure it is active.
     * **Category:** Check the category associated with the product and make sure it is active.
 
-   >⚠️ When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely.
->
-> Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.
+   <div class="alert alert-warning">
+      <p>When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely.</p>
+      <p>Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.</p>
+   </div>
 
-    * **Trade policies:** Check if the product is associated with a [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). If it's not, use the selection box to choose the trade policy with which you want to associate it.
+    * **Trade policies:** Check if the product is associated with a [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). If it's not, use the selection box to choose the trade policy with which you want to associate it.
     * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website at the mentioned date.
     * **Show on site:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed on the website.
     * **Product active:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed.
-    * **Show out of stock:** Check if the **Yes** option is selected — in this case, the expected behavior is that out-of-stock products will be shown in the store featuring a [Notify me](https://help.vtex.com/en/tutorial/setting-up-the-notify-me-option--2VqVifQuf6Co2KG048Yu6e) button. If this option is not enabled, the product may not be displayed in the store because it is not available in stock.
+    * **Show out of stock:** Check if the **Yes** option is selected — in this case, the expected behavior is that out-of-stock products will be shown in the store featuring a [Notify me](/en/tutorial/setting-up-the-notify-me-option--2VqVifQuf6Co2KG048Yu6e) button. If this option is not enabled, the product may not be displayed in the store because it is not available in stock.
     * If the product contains specifications, check the **Specifications** tab to see if they are filled in.
 3. After each change, click `Save`.
 
@@ -87,16 +90,16 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
     |Button | Description |
     |-|-|
-    | ![04-botao-precos](//images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
-    | ![05-botao-logistica](//images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
-    | ![06-botao-indexed-info](//images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
+    | ![04-botao-precos](https://images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
+    | ![05-botao-logistica](https://images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
+    | ![06-botao-indexed-info](https://images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
 3. Click the **SKU** option to access the SKUs detailed list.
 4. In the **Status** column, check if the indicated situation is `Active`. If the SKUs are active, go to step 7.
 5. If a SKU appears as `Inactive`, click `Update` to view the SKU detailed information.
 
-    ![07-catalogo-skus-en](//images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/038a679284d7261a44ace5814e67ee34/07-catalogo-skus-en.png)
+    ![07-catalogo-skus-en](https://images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/038a679284d7261a44ace5814e67ee34/07-catalogo-skus-en.png)
 
 6. On the SKU information page, continue checking the items listed below.
     * **Activate SKU if possible:** Check if this option is selected. Otherwise, the SKU will not be displayed. When you activate this option, you determine that the SKU will be activated if it meets the necessary requirements:
@@ -111,11 +114,11 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
 <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png" alt="08-aba-imagens-es" style="margin-bottom: 20px;"> <figcaption align = "center"><em><strong>Images</strong> tab</em></figcaption></figure>
 
-![09-sku-imagens-en](//images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
+![09-sku-imagens-en](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
 
 ### Indexed Info
 
-For a product to be displayed on the website, it needs to be [indexed](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256). The **Catalog** indexer allows you to view detailed information about each product and SKU indexing, following the steps below.
+For a product to be displayed on the website, it needs to be [indexed](/en/tutorial/understanding-how-indexation-works--tutorials_256). The **Catalog** indexer allows you to view detailed information about each product and SKU indexing, following the steps below.
 
 1. In **Products > Catalog > Products and SKUs**, find in the list the SKU you want to investigate.
 2. On the row of the desired SKU, click the down arrow  <i class="fa-solid fa-sort-down"></i> next to the `Edit` button.
@@ -125,21 +128,22 @@ The indexing list displays each product SKU status. If any issue is detected, th
 
 In the example below, you can conclude that the SKU is unavailable because there are no items in stock:
 
-![10-indexed-info-code](//images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/f1e1650c980fd7042649f6bd8ae3e9a4/Group_1__7_.png)
+![10-indexed-info-code](https://images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/f1e1650c980fd7042649f6bd8ae3e9a4/Group_1__7_.png)
 
 Based on this information, you can take action to correct the issue. In this example, you should adjust the item quantity in stock in the [Logistics](#logistics) system.
 
 An active SKU without errors will appear in the index, similar to the one illustrated below:
 
-![11-indexed-info-code-active](//images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
+![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
 
->ℹ️ If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem.
->
-> To do this, you can edit one of the fields within the product or SKUs information page and save the changes. This will force a reindexing.
+<div class="alert alert-info">
+<p>If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem.</p>
+<p>To do this, you can edit one of the fields within the product or SKUs information page and save the changes. This will force a reindexing.</p>
+</div>
 
 ## Prices
 
-In the **Prices** module, it's important to verify if your product SKU contains [base prices](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx).
+In the **Prices** module, it's important to verify if your product SKU contains [base prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx).
 
 1. Access **Products > Prices > Price list**.
 2. Check each SKU row and the column corresponding to the desired trade policy.
@@ -148,7 +152,7 @@ In the **Prices** module, it's important to verify if your product SKU contains 
 
 In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the trade policy column — only the information _No price yet_ is displayed.
 
-![12-precos-en](//images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/fe4b6781deb81831cd88cef790af7aee/12-precos-en.PNG)
+![12-precos-en](https://images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/fe4b6781deb81831cd88cef790af7aee/12-precos-en.PNG)
 
 ### Creating a base price
 
@@ -162,48 +166,56 @@ To create a base price in the VTEX Admin, follow the steps below:
 
 4. Click `X` or in the area outside the side bar to save the price.
 
-You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
 
 ## Logistics
 
-Different aspects of [logistics](https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) can cause the product's unavailability on the product listing page. The product may be unavailable because the store [shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) does not allow shipping to the customer's location or because there is not enough quantity of the product in the [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139).
+Different aspects of [logistics](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) can cause the product's unavailability on the product listing page. The product may be unavailable because the store [shipping strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) does not allow shipping to the customer's location or because there is not enough quantity of the product in the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139).
 
->ℹ️ If the product is displayed as available on the product listing page but becomes unavailable when added to the cart, see the article [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw). 
+<div class = "alert alert-info">
+If the product is displayed as available on the product listing page but becomes unavailable when added to the cart, see the article <a href="https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw">Which logistics settings can impact the product availability in the cart?</a>.
+</div> 
 
 ### Shipping Simulator
 
 One way to test if there is a feasible delivery route is using the **Shipping Simulator** to validate the store's logistical settings and check your inventory.
 
-To simulate shipping an item to a location, in the VTEX Admin, go to **Shipping > Shipping Simulator**. You can find the instructions in the article [Shipping Simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144).
+To simulate shipping an item to a location, in the VTEX Admin, go to **Shipping > Shipping Simulator**. You can find the instructions in the article [Shipping Simulator](/en/tutorial/simulador-de-envio--tutorials_144).
 
->⚠️ When investigating the availability of an item through the **Shipping Simulator**, we recommend using an address covered by all your [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). If the item is unavailable for this location, it won't be available for any other.
+<div class="alert alert-warning">
+When investigating the availability of an item through the <b>Shipping Simulator</b>, we recommend using an address covered by all your <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">shipping policies</a>. If the item is unavailable for this location, it won't be available for any other.
+</div>
 
-When the logistics settings for the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are configured correctly, and the shipping policy covers the customer's location, the item may not be displayed on the product listing page due to its inventory, as explained below.
+When the logistics settings for the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140), [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are configured correctly, and the shipping policy covers the customer's location, the item may not be displayed on the product listing page due to its inventory, as explained below.
 
 ### Inventory
 
 By adopting any of the following inventory strategies, you can ensure product availability on the product listing page:
 
-* Ensure sufficient item count for sales ([reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+* Ensure sufficient item count for sales ([reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, change the value in the *Update Count* column in the product row, and click `Save`.
-* Activate the [unlimited inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
+* Activate the [unlimited inventory](/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, activate the toggle in the *Unlimited inventory* column in the product row, and click `Save`.
 * Configure the product to be displayed on the product listing page when out of stock.
     * In the VTEX Admin, go to **Catalog > All Products**, and click a product to go to its configuration page. In the *Product* tab, check the `Yes` option in the `Show when out of stock` field.
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the product unavailability on the product listing page could be due to a lack of stock.
 
->⚠️ If your store has [franchise accounts](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in your storefront.
+<div class="alert alert-warning">
+If your store has <a href="https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex">franchise accounts</a>, for the inventory of these accounts to be available for sale, the products must be linked to the same <a href="https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">trade policy</a> used in your storefront.
+</div>
 
 ## CMS
 
-If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is correct and check the specific settings for [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is correct and check the specific settings for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
 
->⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
+<div class="alert alert-warning">
+<p>To perform the CMS investigation described below, you must ask your store's developer team for support.</p>
+</div>
 
 ## Binding
 
-Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you must confirm that the [binding](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is configured, i.e. that your website and its folder structure are correctly associated with your VTEX account.
+Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you must confirm that the [binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is configured, i.e. that your website and its folder structure are correctly associated with your VTEX account.
 
 1. In the VTEX Admin, go to **CMS > Layout**.
 2. Click the **CMS** folder.
@@ -212,15 +224,15 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
     If the icon is blue, it means the binding is correct, you don’t need to do anything.
 
-    If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](https://help.vtex.com/en/faq/website-com-erro-como-ajustar) to correct the error.
+    If the icon is yellow, there is an error in the binding. In this case, you must follow the steps in the article [Website with error: how to fix it?](/en/faq/website-com-erro-como-ajustar) to correct the error.
 
 ### Legacy CMS Portal
 
-If your store uses the [CMS Legacy Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), we recommend that your store's developers check if the product search result [control](https://help.vtex.com/en/tutorial/lista-de-controles-para-templates--tutorials_563#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
+If your store uses the [CMS Legacy Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), we recommend that your store's developers check if the product search result [control](/en/tutorial/lista-de-controles-para-templates--tutorials_563#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
 
 ### CMS VTEX IO
 
-If your store is developed with [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), your store's developers must check the **Pages** settings and the blocks declared in the store templates.
+If your store is developed with [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), your store's developers must check the **Pages** settings and the blocks declared in the store templates.
 
 #### Pages
 
@@ -234,7 +246,7 @@ Follow the steps below to check the template your page is using.
 
     In the example below, the default template is `vtex.curbside-pickup@0.x:store.curbside-pickup` and there is no conditional template.
 
-    ![16-templates-cms-en](//images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/13b66c83e437aa4e2a3bd0d9f722553b/16-templates-cms-en.PNG)
+    ![16-templates-cms-en](https://images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/13b66c83e437aa4e2a3bd0d9f722553b/16-templates-cms-en.PNG)
 
 4. Next, you must check the blocks declared in the used template, as described in [Templates](#templates).
 
@@ -247,10 +259,10 @@ For stores developed with VTEX IO, you need to check the following items in [you
 
 ## Learn more
 
-* [Catalog - concept definition](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
-* [Which logistics settings can impact the product availability in the cart?](https://help.vtex.com/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw)
-* [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256)
-* [Pricing module - Overview](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
-* [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139)
-* [Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144)
-* [CMS - Overview](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)
+* [Catalog - concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+* [Which logistics settings can impact the product availability in the cart?](/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw)
+* [How indexing works](/en/tutorial/understanding-how-indexation-works--tutorials_256)
+* [Pricing module - Overview](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+* [Inventory management](/en/tutorial/managing-stock-items--tutorials_139)
+* [Shipping simulator](/en/tutorial/shipping-simulation--tutorials_144)
+* [CMS - Overview](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)

@@ -1,5 +1,5 @@
 ---
-title: 'Sku denegado en Skus recibidos después de la aceleración en el catálogo del mercado'
+title: "Sku denegado en Skus recibidos después de la aceleración en el catálogo del mercado"
 id: 4fleOaKNp6ALXdmZcAVCg0
 status: PUBLISHED
 createdAt: 2024-01-23T12:50:23.697Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: sku-denied-on-received-skus-after-throttling-on-marketplace-catalog
+slugEN: sku-denegado-en-skus-recibidos-despues-de-la-aceleracion-en-el-catalogo-del-mercado
 locale: es
 kiStatus: Backlog
 internalReference: 970208
@@ -18,7 +18,9 @@ internalReference: 970208
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al aprobar un nuevo producto en Skus Recibidos (automática o manualmente) el módulo de sugerencias se comunica con el catálogo del Marketplace para realizar la acción.

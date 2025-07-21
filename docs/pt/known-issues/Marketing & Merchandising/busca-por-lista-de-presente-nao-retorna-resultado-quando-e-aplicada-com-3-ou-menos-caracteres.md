@@ -1,5 +1,5 @@
 ---
-title: 'Busca por lista de presente não retorna resultado quando é aplicada com 3 ou menos caracteres'
+title: "Busca por lista de presente não retorna resultado quando é aplicada com 3 ou menos caracteres"
 id: 3CcMnzSpUQcUaG4wkm2ay2
 status: PUBLISHED
 createdAt: 2018-02-08T17:25:13.152Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: search-for-gift-list-comes-back-empty-when-using-3-characters-or-less
+slugEN: busca-por-lista-de-presente-nao-retorna-resultado-quando-e-aplicada-com-3-ou-menos-caracteres
 locale: pt
 kiStatus: Backlog
 internalReference: 

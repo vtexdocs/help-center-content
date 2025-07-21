@@ -3,8 +3,8 @@ title: 'Exclusão de dados de clientes'
 id: 1R9Fn7A06Ifj4R9YD4JTKU
 status: PUBLISHED
 createdAt: 2022-04-14T13:28:53.209Z
-updatedAt: 2023-06-23T15:06:52.315Z
-publishedAt: 2023-06-23T15:06:52.315Z
+updatedAt: 2025-04-10T14:19:21.979Z
+publishedAt: 2025-04-10T14:19:21.979Z
 firstPublishedAt: 2022-04-14T13:50:08.688Z
 contentType: tutorial
 productTeam: Others
@@ -15,47 +15,52 @@ legacySlug: exclusao-de-dados-de-clientes
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-De acordo com regulações de proteção de dados como [LGPD e GDPR](https://vtex.com/us-en/privacy-and-agreements/vtex-commitment/), empresas que utilizam dados pessoais de clientes devem aceitar seus pedidos de exclusão de cadastro. Portanto, a VTEX permite que você solicite a exclusão de dados dos clientes da sua loja.
+De acordo com regulações de proteção de dados, como a [LGPD e a GDPR](https://vtex.com/us-en/privacy-and-agreements/vtex-commitment/), empresas que armazenam dados pessoais de clientes devem atender a solicitações de exclusão de cadastro. A VTEX permite que lojistas solicitem a exclusão desses dados diretamente pelo Copilot.
 
-## Antes de solicitar a exclusão de dados
+## 1. Verificar dados armazenados no Master Data
 
-Antes de [solicitar a exclusão via suporte](#solicitar-exclusao-via-suporte), é importante que você confira quais entidades de dados do Master Data armazenam dados de clientes na sua operação.
+Antes de [solicitar a exclusão de dados de clientes via Copilot](#solicitar-exclusao-de-dados-do-cliente-via-copilot), siga estas etapas:
 
-Você deve ter cuidado para não excluir nenhuma informação das [entidades nativas do Master Data](#entidades-nativas-do-master-data). Entretanto, você deve ter excluir manualmente informações do cliente que estejam armazenadas em [outras entidades de dados](#outras-entidades-de-dados), caso sua loja tenha. Você pode encontrar mais detalhes sobre isso abaixo.
+1. **Identifique onde os dados estão armazenados:** Verifique quais entidades de dados do [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) armazenam dados de clientes na sua operação.
+2. **Exclua entidades personalizadas manualmente:** Se sua loja armazena dados de clientes em entidades personalizadas, você deverá excluí-las manualmente antes de solicitar a remoção via Copilot. Para instruções, consulte a seção [Entidades de dados personalizadas](#entidades-de-dados-personalizadas). Siga este processo apenas para entidades personalizadas. Não exclua as [entidades nativas](#entidades-nativas-do-master-data) CL e AD do Master Data.
 
 ### Entidades nativas do Master Data
 
-Com a sua [solicitação via suporte](#solicitar-exclusao-via-suporte), a VTEX excluirá os dados das entidades de dados nativas **CL** e **AD**. É importante que você não exclua dados destas entidades.
+Após a [solicitação de exclusão de dados](#solicitar-exclusao-de-dados-do-cliente-via-copilot), a VTEX excluirá os dados das entidades de dados nativas CL e AD. É importante que você não exclua dados destas entidades.
 
-### Outras entidades de dados
+### Entidades de dados personalizadas
 
-Se a sua loja armazena informações de clientes em outras entidades de dados, você precisa fazer a exclusão manual destes dados antes de fazer a solicitação via suporte. Para fazer isso, use a API do Master Data:
+Se sua loja armazena informações de clientes em entidades de dados personalizadas (que não sejam CL e AD), você deve excluí-las manualmente antes de solicitar a exclusão de dados de clientes via Copilot. Para isso, use a API do Master Data:
 
-1. Busque o documento com o endpoint [Search document](https://developers.vtex.com/vtex-rest-api/reference/searchdocuments-1)
+1. Localize o documento correspondente ao cliente utilizando o endpoint [Search document](https://developers.vtex.com/vtex-rest-api/reference/searchdocuments-1). 
 
-2. Utilize a requisição [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1)
+2. Exclua o documento correspondente utilizando o endpoint [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1).
 
->❗ Não realize esse processo para as entidades **CL** e **AD**.
+<div class="alert alert-danger">
+Não realize esse processo para as entidades nativas <strong>CL</strong> e <strong>AD</strong>.
+</div>
 
-## Solicitar exclusão via suporte
+## 2. Configurar perfil de acesso
 
-Você deverá solicitar a extensão da exclusão de dados pessoais de seus clientes nos sistemas da VTEX via abertura de ticket no [Suporte VTEX](https://help.vtex.com/pt/support).
+Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](/pt/tutorial/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
 
-Para formalizar o pedido, siga os passos:
+- **Write user rights requests** (do produto **User Rights**);
+- **Open Support Ticket** (do produto **VTEX Support**).
 
-1. Acesse o [Suporte VTEX](https://help.vtex.com/pt/support).
-2. Preencha seu nome completo no campo **Nome** e selecione no campo **Loja** o nome da loja que deseja solicitar o chamado.
-3. Clique na opção `Continuar`.
-4. Selecione a opção `Técnico`.
-5. No campo **Tipos de problema**, selecione a opção `Gostaria de solicitar uma configuração`.
-6. No campo **Assunto da solicitação**, você deverá preencher as seguintes informações:
-   * Solicitação de Data Subject Request
-   * VTEX accounts
-   * Email vinculado a contas VTEX cujos dados devem ser excluídos.
-7. Selecione no campo **Sua experiência com a plataforma** a opção que corresponde à sua experiência como usuário da plataforma VTEX.
-8. Preencha o campo **Descreva o que aconteceu detalhadamente** com detalhes da sua solicitação.
-9. Clique em `Enviar`.
+![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/Store%20security/exclusao-de-dados-de-clientes_1.jpg)
 
->⚠️ Solicite a exclusão de dados de apenas uma conta, ou seja, um email do shopper a ser excluído por ticket. Caso você inclua mais de um email, o ticket será retornado.
+Em seguida, atribua este perfil de acesso ao usuário que será responsável pela solicitação de exclusão de dados de clientes.
 
-Sua solicitação será enviada à nossa equipe de suporte. Na conclusão do chamado, será emitido um certificado para o email em que o ticket foi aberto comprovando a veracidade da conclusão da exclusão dos dados.
+## 3. Solicitar exclusão de dados do cliente via Copilot
+
+Com os dados verificados e o perfil configurado, siga estes passos para realizar a solicitação via Copilot:
+
+1. Faça login no Admin VTEX com a conta em que a exclusão será realizada, utilizando um usuário com o perfil de acesso **Lei Geral de Proteção de Dados** configurado em [2. Configurar perfil de acesso](#2-configurar-perfil-de-acesso).
+2. Clique no botão **Copilot** no canto superior direito.
+3. Envie a mensagem: `Eu quero excluir um cliente da plataforma VTEX`.
+    ![copilot-excluir-cliente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/Store%20security/exclusao-de-dados-de-clientes_2.gif)
+4. Quando solicitado, informe o email do cliente que deseja excluir. É possível solicitar a exclusão de apenas um cliente por vez. Portanto, cada solicitação deve conter apenas um email.
+
+Após essa etapa, a solicitação será encaminhada ao suporte da VTEX, e você receberá o ID do ticket de suporte para acompanhamento.
+
+Na conclusão do chamado, será enviado para o email associado ao ticket a comprovação de que os dados foram excluídos com sucesso dos produtos VTEX.

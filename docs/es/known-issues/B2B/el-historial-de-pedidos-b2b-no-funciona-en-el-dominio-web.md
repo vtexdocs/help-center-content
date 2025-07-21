@@ -1,5 +1,5 @@
 ---
-title: 'El historial de pedidos B2B no funciona en el dominio web'
+title: "El historial de pedidos B2B no funciona en el dominio web"
 id: 4Y7lpxWvMBZFaAA4wuvbGP
 status: PUBLISHED
 createdAt: 2023-06-22T21:53:45.542Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-orders-history-doesnt-work-in-the-website-domain
+slugEN: el-historial-de-pedidos-b2b-no-funciona-en-el-dominio-web
 locale: es
 kiStatus: Fixed
 internalReference: 849394
@@ -18,7 +18,9 @@ internalReference: 849394
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El Historial de Pedidos B2B no funciona en el dominio web, mostrando el mensaje "No tiene permiso para acceder a esto".

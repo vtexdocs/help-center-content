@@ -1,5 +1,5 @@
 ---
-title: 'Dificultad en buscar en el CRM por campos que contienen espacios'
+title: "Dificultad en buscar en el CRM por campos que contienen espacios"
 id: 6Rp3IesViMyuwy8ocACYGk
 status: PUBLISHED
 createdAt: 2018-12-26T15:12:07.010Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: crm-error-when-searching-with-spaces
+slugEN: dificultad-en-buscar-en-el-crm-por-campos-que-contienen-espacios
 locale: es
 kiStatus: Backlog
 internalReference: 

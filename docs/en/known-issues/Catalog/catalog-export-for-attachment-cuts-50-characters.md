@@ -1,5 +1,5 @@
 ---
-title: 'Catalog export for attachment cuts > 50 characters'
+title: "Catalog export for attachment cuts > 50 characters"
 id: 7hX23y19wmMNPTUgbhh2WX
 status: PUBLISHED
 createdAt: 2023-12-14T16:46:58.819Z

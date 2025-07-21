@@ -1,5 +1,5 @@
 ---
-title: 'Actualizaciones de precios con caché en las aplicaciones finales'
+title: "Actualizaciones de precios con caché en las aplicaciones finales"
 id: 1ZDl8C3DDoACmxRqRlYDJo
 status: PUBLISHED
 createdAt: 2023-09-08T16:08:24.445Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: price-updates-with-cache-on-end-applications
+slugEN: actualizaciones-de-precios-con-cache-en-las-aplicaciones-finales
 locale: es
 kiStatus: Backlog
 internalReference: 896520
@@ -18,7 +18,9 @@ internalReference: 896520
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

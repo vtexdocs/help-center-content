@@ -1,5 +1,5 @@
 ---
-title: 'Erro na visualização da interface do usuário de pedidos após a solicitação da fatura via aplicativo'
+title: "Erro na visualização da interface do usuário de pedidos após a solicitação da fatura via aplicativo"
 id: 1yrb25L1Skj3sRRWyiFDSA
 status: PUBLISHED
 createdAt: 2024-07-24T14:24:29.799Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: error-in-viewing-the-orders-ui-after-requesting-the-invoice-via-app
+slugEN: erro-na-visualizacao-da-interface-do-usuario-de-pedidos-apos-a-solicitacao-da-fatura-via-aplicativo
 locale: pt
 kiStatus: Backlog
 internalReference: 1070299
@@ -18,7 +18,9 @@ internalReference: 1070299
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando executamos uma "alteração V2" removendo ou adicionando um item a um pedido, criamos uma alteração na lista de itens do pedido, o que pode aumentar ou diminuir o número de índices na lista de itens no json. Essa alteração, por sua vez, pode não ser consumida por todos os aplicativos ou bancos de dados envolvidos no processamento do pedido, como o aplicativo notificador de faturas;

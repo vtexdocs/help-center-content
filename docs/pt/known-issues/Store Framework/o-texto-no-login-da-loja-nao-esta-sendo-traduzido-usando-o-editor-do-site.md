@@ -1,5 +1,5 @@
 ---
-title: 'O texto no login da loja não está sendo traduzido usando o editor do site'
+title: "O texto no login da loja não está sendo traduzido usando o editor do site"
 id: 6DptiKTxtOcYIJEgJlZCmo
 status: PUBLISHED
 createdAt: 2023-11-08T13:33:41.296Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: text-in-store-login-are-not-being-translated-using-site-editor
+slugEN: o-texto-no-login-da-loja-nao-esta-sendo-traduzido-usando-o-editor-do-site
 locale: pt
 kiStatus: Backlog
 internalReference: 911757
@@ -18,7 +18,9 @@ internalReference: 911757
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar traduzir um texto usando o editor do site para o login da loja, as alterações não serão aplicadas na frente da loja.

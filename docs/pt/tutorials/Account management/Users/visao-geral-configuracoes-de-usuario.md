@@ -31,4 +31,4 @@ Nessa página, que em breve estará no design do Admin v4, é possível realizar
 - Verificação em 2 passos
 - Sessões ativas
 
-Mais informações sobre como utilizar a tela de usuário para configurar os dados do usuário podem ser encontradas no artigo [Configurar dados pessoais na tela de usuário](https://help.vtex.com/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
+Mais informações sobre como utilizar a tela de usuário para configurar os dados do usuário podem ser encontradas no artigo [Configurar dados pessoais na tela de usuário](/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).

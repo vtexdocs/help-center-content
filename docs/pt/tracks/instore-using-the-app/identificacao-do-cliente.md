@@ -33,5 +33,7 @@ Basta inserir um desses dados no campo e clicar em `Confirmar`.
 
 Alternativamente, caso você tenha habilitado Usuário Anônimo, é possível avançar sem identificar o cliente. Para isso, basta clicar em `Continuar sem identificação`.
 
->ℹ️ Embora seja possível atender clientes sem identificá-los, recomendamos sempre fazer a identificação, uma vez que isso dá ao vendedor uma série de informações contextuais que aumentam as chances de conversão.
+<div class="alert alert-info">
+Embora seja possível atender clientes sem identificá-los, recomendamos sempre fazer a identificação, uma vez que isso dá ao vendedor uma série de informações contextuais que aumentam as chances de conversão.
+</div>
 

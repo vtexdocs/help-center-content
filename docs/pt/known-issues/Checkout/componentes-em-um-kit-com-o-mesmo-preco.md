@@ -1,5 +1,5 @@
 ---
-title: 'Componentes em um kit com o mesmo preço'
+title: "Componentes em um kit com o mesmo preço"
 id: 6TIDKJ6nEGUu3E5bzAea65
 status: PUBLISHED
 createdAt: 2024-02-26T19:53:43.754Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: components-in-a-kit-with-the-same-price
+slugEN: componentes-em-um-kit-com-o-mesmo-preco
 locale: pt
 kiStatus: Backlog
 internalReference: 989371
@@ -18,7 +18,9 @@ internalReference: 989371
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os componentes em um kit têm o mesmo preço quando uma promoção de presente é configurada e um vendedor regular a cumpre.

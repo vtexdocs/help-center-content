@@ -1,5 +1,5 @@
 ---
-title: 'Product/SKU upload form allows UTF-16 format upload/download'
+title: "Product/SKU upload form allows UTF-16 format upload/download"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z

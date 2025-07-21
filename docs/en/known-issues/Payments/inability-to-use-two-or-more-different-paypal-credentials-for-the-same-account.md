@@ -1,5 +1,5 @@
 ---
-title: 'Inability to use two or more different PayPal credentials for the same account.'
+title: "Inability to use two or more different PayPal credentials for the same account."
 id: 3cVh2SbvToH8yGOOYcWgDB
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:24.442Z

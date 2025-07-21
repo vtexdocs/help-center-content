@@ -3,8 +3,8 @@ title: 'Tablas de Precio - Definición de Concepto'
 id: 1wAm5m3IUfIj6maBdaRJt8
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:10.820Z
-updatedAt: 2022-07-27T20:42:39.133Z
-publishedAt: 2022-07-27T20:42:39.133Z
+updatedAt: 2024-12-04T18:04:10.370Z
+publishedAt: 2024-12-04T18:04:10.370Z
 firstPublishedAt: 2019-07-17T19:40:46.639Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -16,26 +16,28 @@ trackSlugES: precios-101
 
 ## Definiciones
 
-Una __tabla de precios__ es un conjunto de precios de SKUs que se puede aplicar a un determinado contexto. Estas tablas guardan las informaciones de los precios que se muestran en una tienda.
+Una tabla de precios es un conjunto de precios de SKUs que se aplican a un contexto específico. Esta tabla almacena la información de los precios, haciéndolos visibles en la tienda.
 
-Podemos entender una tabla de precios como una entidad que almacena y entrega los __precios calculados__ de sus SKUs.
+Podemos considerar una tabla de precios como una entidad que proporciona los [precios calculados](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado) de los SKUs.
 
 ## Relación entre Tablas de Precios y Políticas Comerciales
 
-Existe una diferencia entre las tablas de precios creadas para *[políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)* y las tablas de precios creadas para *otros contextos*.
+Las tablas de precios y las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) tienen finalidades distintas. Las tablas de precios contienen los precios específicos de los SKUs y determinan cuánto cuesta cada ítem en un contexto. Las políticas comerciales definen el contexto de venta, indicando quién verá el precio y dónde se mostrará.
 
-Las tablas de precios no asociadas a políticas comerciales se pueden usar en contextos como __promociones__ y __clústeres de clientes__. Las tablas creadas para políticas comerciales *solo pueden asociarse a la propia política comercial*. Así, la tabla de precio asociada a una política comercial informa el precio de los SKUs para esta política y no puede asociarse a otros contextos.
+Cuando no están vinculadas a políticas comerciales, estas tablas pueden aplicarse en contextos como [promociones](/es/tutorial/criar-promocoes--tutorials_320) y [clúster de clientes](/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). Sin embargo, si se crean para atender una política comercial, deben asociarse exclusivamente a la política correspondiente. 
 
-Es importante resaltar que los conceptos de __tabla de precios__ y __política comercial__ son *diferentes*. La política comercial es el *contexto* al cual una tabla de precios se asocia.
+<div class = "alert alert-info">
+Una tabla vinculada a una política comercial define el precio de los SKUs para ese contexto de venta específico y no puede utilizarse en otros contextos.
+</div>
 
 ## Ejemplo
 
-Imagine un escenario en el que quiera crear una estrategia de precificación para vender un SKU en tres contextos diferentes. Para esto, necesita crear tres tablas de precio - una para cada contexto.
+Considera un caso en el que, para un mismo SKU, necesitas fijar precios diferentes, puesto que hay tres contextos distintos: una promoción específica, un clúster de clientes y una política comercial.
 
-La idea es tener un precio específico para:  
+Para hacerlo, tienes que crear tres tablas de precios:  
 
-- aplicación de una promoción; 
-- un clúster de clientes;
-- una política comercial.
+- Tabla para aplicar el precio promocional.
+- Tabla para el precio del clúster de clientes.
+- Tabla asociada a la política comercial, que define el precio específico para ese contexto de venta.
 
-Debe crear __dos tablas de precio genéricas__, una para el clúster de clientes y otra para la aplicación de la promoción. Además, debe ingresar el precio deseado en la __tabla de precio asociada a la política comercial__ en cuestión.
+Las dos primeras tablas de precios son genéricas y pueden utilizarse para distintas promociones o clústeres. La tercera tabla es exclusiva de la política comercial en cuestión y solo puede utilizarse en ese contexto específico.

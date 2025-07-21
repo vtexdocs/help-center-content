@@ -1,16 +1,16 @@
 ---
-title: "La API 'Obtener todas las sugerencias de SKU' no mantiene el mismo orden de SKU al cambiar los límites."
+title: 'La API "Obtener todas las sugerencias de SKU" no mantiene el mismo orden de SKU al cambiar los límites.'
 id: 4wQbZm9rFc8iD2xYwEiAlQ
 status: PUBLISHED
 createdAt: 2022-12-05T14:49:46.856Z
-updatedAt: 2024-03-01T21:06:12.857Z
-publishedAt: 2024-03-01T21:06:12.857Z
+updatedAt: 2025-05-26T18:23:13.310Z
+publishedAt: 2025-05-26T18:23:13.310Z
 firstPublishedAt: 2022-12-05T14:49:47.309Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: get-all-sku-suggestions-api-doesnt-keep-same-sku-order-when-changing-limits
+slugEN: la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-sku-al-cambiar-los-limites
 locale: es
 kiStatus: No Fix
 internalReference: 367187
@@ -18,7 +18,9 @@ internalReference: 367187
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

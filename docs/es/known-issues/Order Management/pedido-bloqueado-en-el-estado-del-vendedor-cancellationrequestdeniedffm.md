@@ -1,5 +1,5 @@
 ---
-title: 'Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm'
+title: "Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm"
 id: 5hBeTQMKmo5C63QRAOSvT2
 status: PUBLISHED
 createdAt: 2024-03-22T17:50:37.946Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-stuck-at-seller-status-cancellationrequestdeniedffm
+slugEN: pedido-bloqueado-en-el-estado-del-vendedor-cancellationrequestdeniedffm
 locale: es
 kiStatus: Backlog
 internalReference: 1004978
@@ -18,7 +18,9 @@ internalReference: 1004978
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hemos identificado que algunos vendedores, en la estructura de vendedores y marketplace de VTEX, cuando solicitan la cancelación, luego deniegan esta cancelación a través de la UI, o llaman a la API "cancellation-request-denied-ffm", esto es como si denegaran la propia solicitud de cancelación, por alguna razón, la solicitud de denegar la cancelación se solapa con la solicitud de cancelar.

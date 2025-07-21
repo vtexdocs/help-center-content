@@ -1,10 +1,10 @@
 ---
-title: 'Image format as JPG or PNG do not work on seller portal catalog'
+title: "Image format as JPG or PNG do not work on seller portal catalog"
 id: 19s9bGcpNsOkIkA0iGkWRi
 status: PUBLISHED
 createdAt: 2024-04-22T12:41:43.272Z
-updatedAt: 2024-04-22T12:41:44.252Z
-publishedAt: 2024-04-22T12:41:44.252Z
+updatedAt: 2025-07-08T20:19:36.545Z
+publishedAt: 2025-07-08T20:19:36.545Z
 firstPublishedAt: 2024-04-22T12:41:44.252Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: image-format-as-jpg-or-png-do-not-work-on-seller-portal-catalog
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1020505
 ---
 

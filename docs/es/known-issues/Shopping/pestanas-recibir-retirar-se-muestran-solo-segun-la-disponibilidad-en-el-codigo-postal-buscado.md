@@ -1,5 +1,5 @@
 ---
-title: "Pestañas 'Recibir | Retirar' se muestran solo según la disponibilidad en el código postal buscado"
+title: 'Pestañas "Recibir | Retirar" se muestran solo según la disponibilidad en el código postal buscado'
 id: 5PVGReAvyE0AOcoIq2SeKS
 status: PUBLISHED
 createdAt: 2018-11-21T16:19:00.507Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: receive-and-pickup-tabs-are-displayed-according-to-the-searched-zip-codes-availability
+slugEN: pestanas-recibir-retirar-se-muestran-solo-segun-la-disponibilidad-en-el-codigo-postal-buscado
 locale: es
 kiStatus: Backlog
 internalReference: 

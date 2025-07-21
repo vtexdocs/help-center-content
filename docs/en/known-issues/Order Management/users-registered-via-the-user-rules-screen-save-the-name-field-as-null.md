@@ -1,5 +1,5 @@
 ---
-title: 'Users registered via the user rules screen save the name field as null.'
+title: "Users registered via the user rules screen save the name field as null."
 id: 3jyQ213exrPrH0ks1PpXqg
 status: PUBLISHED
 createdAt: 2024-10-15T16:22:24.074Z

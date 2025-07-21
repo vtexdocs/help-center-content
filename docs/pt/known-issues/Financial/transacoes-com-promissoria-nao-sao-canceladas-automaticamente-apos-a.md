@@ -1,5 +1,5 @@
 ---
-title: 'Transações com promissória não são canceladas automaticamente após a expiração da data do pagamento'
+title: "Transações com promissória não são canceladas automaticamente após a expiração da data do pagamento"
 id: 5isjT9txiBYSQzZK00xjg3
 status: PUBLISHED
 createdAt: 2021-09-30T15:45:44.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Payments
-slugEN: transactions-with-notes-payable-note-are-not-automatically-cancelled-after
+slugEN: transacoes-com-promissoria-nao-sao-canceladas-automaticamente-apos-a
 locale: pt
 kiStatus: Backlog
 internalReference: 

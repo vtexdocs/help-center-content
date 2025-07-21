@@ -3,8 +3,8 @@ title: 'Configurar pagos con AdyenV3'
 id: 7xAz67E2Eg63LWCQNjVdwv
 status: PUBLISHED
 createdAt: 2023-05-08T20:00:38.610Z
-updatedAt: 2024-10-30T12:31:17.835Z
-publishedAt: 2024-10-30T12:31:17.835Z
+updatedAt: 2025-02-04T17:32:24.228Z
+publishedAt: 2025-02-04T17:32:24.228Z
 firstPublishedAt: 2023-05-11T20:32:21.638Z
 contentType: tutorial
 productTeam: Financial
@@ -22,9 +22,13 @@ Para utilizar la afiliación AdyenV3, debes:
 - [Configurar el entorno Adyen](#configurar-el-entorno-adyen)
 - [Configurar el conector AdyenV3 en VTEX](#configurar-el-conector-adyenv3-en-vtex)
 
->⚠️ La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
+<div class="alert alert-warning">
+La configuración realizada en un entorno externo a VTEX puede interrumpirse o modificarse sin previo aviso. Consulta tu cuenta Adyen para obtener información actualizada.
+</div>
 
->ℹ️ Para utilizar la afiliación AdyenV3 a través de [Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) en tus tiendas físicas (puntos de ventas), ve a [Configurar pago con AdyenV3 en Sales App](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt).
+<div class="alert alert-info">
+Para utilizar la afiliación AdyenV3 a través de <a href="https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf">Sales App</a> en tus tiendas físicas (puntos de ventas), ve a <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt">Configurar pago con AdyenV3 en Sales App</a>.
+</div>
 
 ## Configurar el entorno Adyen
 
@@ -47,7 +51,9 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 
 ### Obtener la API Key y la Client Key
 
->⚠️ La información a continuación supone que la API Key y la Client Key se han generado previamente en el entorno de Adyen. En caso de que necesites crearlas, consulta la documentación de [Adyen](https://docs.adyen.com/).
+<div class="alert alert-warning">
+La información a continuación supone que la API Key y la Client Key se han generado previamente en el entorno de Adyen. En caso de que necesites crearlas, consulta la documentación de <a href="https://docs.adyen.com/">Adyen</a>.
+</div>
 
 1. Haz clic en __Developers__ en la barra lateral y luego en __API credentials__.
 2. Selecciona tu credencial API.
@@ -91,7 +97,9 @@ Configura el webhook según los pasos a continuación:
 
 ![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Payment%20Settings/configurar-pagos-con-adyenv3_7.PNG)
 
->ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
+<div class="alert alert-info">
+Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
+</div>
 
 ## Configurar el conector AdyenV3 en VTEX
 
@@ -105,20 +113,23 @@ Configura el webhook según los pasos a continuación:
 8. En __Live URL prefix__, complete el URL prefix (paso 2 de la sección [Obtener la Live URL](#obtener-la-live-url)).
 9. En __Company account__, introduzca el nombre de tu Company Account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
 10. En __Live POS URL__, no es necesario rellenar este campo (solo aplicable a Sales App).
-11. En __Client key__, complete el Client key (paso 6 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)). 
-12. Haga clic en `Guardar`.
+11. En __Client key__, complete el Client key (paso 6 de la sección [Obtener la API Key y la Client Key](#obtener-la-api-key-y-la-client-key)).
+12. Seleccione los campos __Auto Capture Settings__, __POS Auto Capture Settings__ o __Boleto Expiration Days__ según sea necesario.  
+13. Haga clic en `Guardar`.
 
-Para configurar los medios de pago que procesará AdyenV3, accede a [Condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455). Si deseas realizar ventas a través de Sales App, ve a [Configurar pagos con AdyenV3 en Sales App](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt).
+Para configurar los medios de pago que procesará AdyenV3, accede a [Condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455). Si deseas realizar ventas a través de Sales App, ve a [Configurar pagos con AdyenV3 en Sales App](/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt).
 
-Para establecer condiciones especiales en los medios de pago, ve a [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456).
+Para establecer condiciones especiales en los medios de pago, ve a [Configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456).
 
 ## Configura la tarjeta de crédito
 
-Si desea procesar pagos con tarjeta de crédito en su tienda utilizando AdyenV3, además de realizar las configuraciones anteriores descritas en este artículo, debe abrir un ticket en [Soporte VTEX](https://help.vtex.com/es/support), con la siguiente solicitud "Provider review - Add Endpoint SecureProxy - AdyenV3".  
+Si desea procesar pagos con tarjeta de crédito en su tienda utilizando AdyenV3, además de realizar las configuraciones anteriores descritas en este artículo, debe abrir un ticket en [Soporte VTEX](/es/support), con la siguiente solicitud "Provider review - Add Endpoint SecureProxy - AdyenV3".  
 
 En el ticket también deberás enviar la URL que será autorizada por Adyen para realizar la transacción con tarjeta de crédito en tu tienda. El formato de la URL debe ser `https://{live URL prefix}-checkout-live.adyenpayments.com`, donde la información "{live URL prefix}" debe ser la misma que la ingresada por usted en las configuraciones de Adyen en el VTEX Admin .  
 
->⚠️ La dirección URL completa debe escribirse únicamente en letras minúsculas, incluso si el "Live URL prefix" configurado en el VTEX Admin tiene algunas letras mayúsculas.  
+<div class="alert alert-warning">
+La dirección URL completa debe escribirse únicamente en letras minúsculas, incluso si el "Live URL prefix" configurado en el VTEX Admin tiene algunas letras mayúsculas.
+</div>  
 
 ## Configurar el pago con Apple Pay en Adyen (opcional) 
 

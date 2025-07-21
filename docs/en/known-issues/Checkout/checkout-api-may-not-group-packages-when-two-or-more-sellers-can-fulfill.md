@@ -1,5 +1,5 @@
 ---
-title: 'Checkout API may not group packages when two or more sellers can fulfill'
+title: "Checkout API may not group packages when two or more sellers can fulfill"
 id: 3nTRP8r3ZvoZ6UqC1RTbIb
 status: PUBLISHED
 createdAt: 2023-05-03T22:24:43.036Z

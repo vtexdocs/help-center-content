@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] Menu Bridge Orders, não mostra as informações de shippingID'
+title: "[Mercado Livre] Menu Bridge Orders, não mostra as informações de shippingID"
 id: 2fXDbejpPJ04NDfPCCcr0j
 status: PUBLISHED
 createdAt: 2024-03-18T20:56:17.859Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-bridge-orders-menu-not-showing-the-shippingid-information
+slugEN: mercado-livre-menu-bridge-orders-nao-mostra-as-informacoes-de-shippingid
 locale: pt
 kiStatus: Backlog
 internalReference: 1001903
@@ -18,7 +18,9 @@ internalReference: 1001903
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, temos um problema que afeta apenas a visibilidade de alguns pedidos MELI. O que acontece é que estamos registrando o ShipmentID no menu de ponte de pedidos, mas algumas mensagens de erro não têm o OrderID, e isso é necessário em alguns casos, pois o OrderID é a informação que os vendedores têm no Portal MELI.

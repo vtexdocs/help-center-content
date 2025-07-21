@@ -1,5 +1,5 @@
 ---
-title: 'Creating and deleting a large number of redirects breaks the redirects page'
+title: "Creating and deleting a large number of redirects breaks the redirects page"
 id: 5uFuid4a5f7uiRVW9LdT5Q
 status: PUBLISHED
 createdAt: 2024-04-02T19:45:07.540Z

@@ -1,5 +1,5 @@
 ---
-title: 'Problemas de traducción al utilizar una subcuenta para implantar tiendas multilingües'
+title: "Problemas de traducción al utilizar una subcuenta para implantar tiendas multilingües"
 id: 5FOCZE7pI4npyfo7TjsFaY
 status: PUBLISHED
 createdAt: 2023-06-21T20:36:33.483Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: translation-issues-when-using-a-subaccount-to-implement-multilanguage-stores
+slugEN: problemas-de-traduccion-al-utilizar-una-subcuenta-para-implantar-tiendas-multilingues
 locale: es
 kiStatus: Backlog
 internalReference: 848524
@@ -18,7 +18,9 @@ internalReference: 848524
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La indexación unificada de catálogos sólo tiene en cuenta las traducciones de los mensajes de la cuenta principal, incluso cuando se utiliza una arquitectura de subcuentas para implementar almacenes transfronterizos.

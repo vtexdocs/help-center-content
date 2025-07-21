@@ -3,8 +3,8 @@ title: 'Search configuration'
 id: 1yNCDwz0k77ovSGqkTbZMv
 status: PUBLISHED
 createdAt: 2024-06-17T14:08:59.824Z
-updatedAt: 2024-06-17T14:10:20.364Z
-publishedAt: 2024-06-17T14:10:20.364Z
+updatedAt: 2025-04-24T15:27:15.330Z
+publishedAt: 2025-04-24T15:27:15.330Z
 firstPublishedAt: 2024-06-17T14:10:20.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,7 +19,7 @@ The **Search Settings** page comprises the VTEX Intelligent Search general setti
 
 ## General settings
 
-The general settings display the following options related to[ product and SKU specifications](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+The general settings display the following options related to[ product and SKU specifications](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
 * **Use SKU specifications to display individual products in search results**: Defines which specifications will sort the SKUs in the search results.
 
@@ -27,15 +27,15 @@ The general settings display the following options related to[ product and SKU s
 
     To configure this field, click the dropdown arrow and select the specifications you want to add.
 
-    Check the guide [Detaching SKUs by specification](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
+    Check the guide [Detaching SKUs by specification](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
 
 * **Searchable specifications:** Determines which product specifications can be searched by the search engine.
 
-    For example, if a shirt doesn't have a color in the product name or SKU, by default, Intelligent Search won't identify this attribute in the search results for "blue shirt", returning shirts of different colors. However, if the color specification is set as searchable, the search can return blue shirts in the top results.
+    For example, if a shirt doesn't have a color in the product name, by default, Intelligent Search won't identify this attribute in the search results for "blue shirt", returning shirts of different colors. However, if the color specification is set as searchable, the search can return blue shirts in the top results.
 
 ## Facet settings
 
-The facet settings have settings related to the[ filters](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
+The facet settings have settings related to the[ filters](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
 ![Facet configurations](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Intelligent%20Search%20Settings/search-configuration_1.png)
 

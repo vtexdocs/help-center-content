@@ -1,5 +1,5 @@
 ---
-title: 'Nas páginas de Ordens de Lista, as Ordens de Exportação não estão funcionando quando o filtro selecionado tem caracteres especiais'
+title: "Nas páginas de Ordens de Lista, as Ordens de Exportação não estão funcionando quando o filtro selecionado tem caracteres especiais"
 id: 2eA1rykmTHxhUsiCQmeNoA
 status: PUBLISHED
 createdAt: 2022-09-21T17:54:38.517Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: on-list-orders-pages-the-export-orders-is-not-working-when-the-filter-selected-has-special-characters
+slugEN: nas-paginas-de-ordens-de-lista-as-ordens-de-exportacao-nao-estao-funcionando-quando-o-filtro-selecionado-tem-caracteres-especiais
 locale: pt
 kiStatus: Backlog
 internalReference: 662821
@@ -18,7 +18,9 @@ internalReference: 662821
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A nova IU tem uma limitação para exportar alguns pedidos uma vez que o filtro selecionado tem no nome um exemplo de caráter especial ("&" e "á" ou "ú") acontece porque mesmo a nova IU pode filtrar os pedidos que ela chama de antiga rota OMS para exportar os pedidos.

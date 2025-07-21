@@ -1,5 +1,5 @@
 ---
-title: 'Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API'
+title: "Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API"
 id: 42NRIpmVxU7XgOMGHlO6zI
 status: PUBLISHED
 createdAt: 2022-02-22T18:21:47.541Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: when-selecting-pickup-not-highlighted-in-the-list-of-pickups-in-the-cart-ui-makes-incorrect-request-to-api
+slugEN: ao-selecionar-pickups-nao-destacados-na-lista-de-pickups-no-carrinho-a-ui-faz-solicitacao-incorreta-ao-api
 locale: pt
 kiStatus: Fixed
 internalReference: 529850
@@ -18,7 +18,9 @@ internalReference: 529850
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você seleciona uma opção de pickup que não está destacada, a IU faz uma solicitação incorreta à API, e com isso, a solicitação recebe um erro e não atualiza os dados desta pickup selecionada.

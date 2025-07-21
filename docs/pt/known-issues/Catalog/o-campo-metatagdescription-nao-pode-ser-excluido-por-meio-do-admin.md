@@ -1,5 +1,5 @@
 ---
-title: "O campo 'MetaTagDescription' não pode ser excluído por meio do Admin"
+title: 'O campo "MetaTagDescription" não pode ser excluído por meio do Admin'
 id: 7h0HlpuQnE8nWylgSWJ1lR
 status: PUBLISHED
 createdAt: 2024-02-08T20:21:00.735Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: metatagdescription-field-cannot-be-deleted-through-admin
+slugEN: o-campo-metatagdescription-nao-pode-ser-excluido-por-meio-do-admin
 locale: pt
 kiStatus: Backlog
 internalReference: 979691
@@ -18,7 +18,9 @@ internalReference: 979691
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um comportamento inconsistente no campo `MetaTagDescription` no registro do produto, que não pode ser excluído por meio do Admin, mas é possível excluir por meio da API. No Admin, ao clicar em "salvar" com esse campo vazio, o valor do campo `Description` é copiado. Esse cenário não acontece quando se usa a API, o valor é excluído corretamente.

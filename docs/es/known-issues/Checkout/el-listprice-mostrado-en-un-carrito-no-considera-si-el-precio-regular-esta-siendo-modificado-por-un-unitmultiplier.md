@@ -1,5 +1,5 @@
 ---
-title: 'El ListPrice mostrado en un carrito no considera si el precio regular está siendo modificado por un unitMultiplier'
+title: "El ListPrice mostrado en un carrito no considera si el precio regular está siendo modificado por un unitMultiplier"
 id: 13cdmEllp9RB30DSJ9Ttka
 status: PUBLISHED
 createdAt: 2022-05-13T16:53:11.761Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: listprice-shown-in-a-cart-doesnt-consider-if-the-regular-price-is-being-modified-by-a-unitmultiplier
+slugEN: el-listprice-mostrado-en-un-carrito-no-considera-si-el-precio-regular-esta-siendo-modificado-por-un-unitmultiplier
 locale: es
 kiStatus: Backlog
 internalReference: 578649
@@ -18,7 +18,9 @@ internalReference: 578649
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El ListPrice de un carrito interactúa con el precio expuesto para mostrar un precio antiguo frente al actual, en una cuestión de resaltar los descuentos.

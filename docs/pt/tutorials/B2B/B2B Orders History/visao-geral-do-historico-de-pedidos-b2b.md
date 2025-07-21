@@ -15,10 +15,10 @@ legacySlug: visao-geral-do-historico-de-pedidos-b2b
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 ---
 
-Em uma [operação B2B](https://help.vtex.com/pt/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), múltiplos usuários dentro de uma mesma organização realizam pedidos em nome da empresa. O aplicativo **Histórico de Pedidos B2B** foi desenvolvido para atender a essas necessidades específicas, permitindo que os usuários visualizem e gerenciem pedidos de forma integrada e colaborativa.
+Em uma [operação B2B](/pt/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), múltiplos usuários dentro de uma mesma organização realizam pedidos em nome da empresa. O aplicativo **Histórico de Pedidos B2B** foi desenvolvido para atender a essas necessidades específicas, permitindo que os usuários visualizem e gerenciem pedidos de forma integrada e colaborativa.
 
 ## Funcionalidade
-O aplicativo Histórico de Pedidos B2B substitui a página de Pedidos padrão em [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) por uma versão adaptada para o cenário B2B. Essa personalização permite que os [usuários](https://help.vtex.com/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA) logados de uma organização não apenas vejam seus próprios pedidos, mas também acessem pedidos feitos por outros membros da mesma organização ou centro de custo, desde que possuam as permissões adequadas.
+O aplicativo Histórico de Pedidos B2B substitui a página de Pedidos padrão em [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) por uma versão adaptada para o cenário B2B. Essa personalização permite que os [usuários](/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA) logados de uma organização não apenas vejam seus próprios pedidos, mas também acessem pedidos feitos por outros membros da mesma organização ou centro de custo, desde que possuam as permissões adequadas.
 
 ## Benefícios
 A visualização centralizada de pedidos é importante para:

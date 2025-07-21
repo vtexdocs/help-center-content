@@ -1,5 +1,5 @@
 ---
-title: 'As mensagens de erro do Minicart Coupon só aparecem após uma segunda tentativa'
+title: "As mensagens de erro do Minicart Coupon só aparecem após uma segunda tentativa"
 id: 6ZdpXaHJFudXXwUDC00lcr
 status: PUBLISHED
 createdAt: 2023-12-18T16:22:10.537Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: minicart-coupon-error-messages-only-appear-after-a-second-try
+slugEN: as-mensagens-de-erro-do-minicart-coupon-so-aparecem-apos-uma-segunda-tentativa
 locale: pt
 kiStatus: No Fix
 internalReference: 938379
@@ -18,7 +18,9 @@ internalReference: 938379
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As mensagens de erro de cupom no Minicart não aparecerão na primeira vez que você tentar um cupom, mesmo que ele não exista.

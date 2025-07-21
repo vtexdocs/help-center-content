@@ -1,5 +1,5 @@
 ---
-title: 'Payment Terms configured in B2B Settings is not assigned after approving Organizations'
+title: "Payment Terms configured in B2B Settings is not assigned after approving Organizations"
 id: 7pUMnYPWPHlhPzlWwTtWsL
 status: PUBLISHED
 createdAt: 2024-02-26T22:29:03.516Z

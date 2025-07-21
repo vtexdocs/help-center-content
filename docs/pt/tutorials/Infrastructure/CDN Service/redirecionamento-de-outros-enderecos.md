@@ -3,8 +3,8 @@ title: 'Redirecionamento de outros endereços'
 id: 3Xi2AeLUx2QpJQu8DTX8KQ
 status: PUBLISHED
 createdAt: 2022-09-19T21:21:24.455Z
-updatedAt: 2024-01-23T18:16:55.386Z
-publishedAt: 2024-01-23T18:16:55.386Z
+updatedAt: 2025-03-25T12:35:48.215Z
+publishedAt: 2025-03-25T12:35:48.215Z
 firstPublishedAt: 2022-09-19T21:40:22.913Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,7 +15,7 @@ legacySlug:
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-Uma loja virtual deve ter um único endereço principal, que irá [apontar para os servidores da VTEX](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes do lançamento oficial da loja. Veja [Configurar o domínio da loja](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) para saber as regras que o endereço precisa cumprir e como cadastrá-lo.
+Uma loja virtual deve ter um único endereço principal, que irá [apontar para os servidores da VTEX](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes do lançamento oficial da loja. Veja [Configurar o domínio da loja](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) para saber as regras que o endereço precisa cumprir e como cadastrá-lo.
 
 Para permitir o acesso à loja por outros endereços e versões sem subdomínio, é necessário configurar o redirecionamento desses endereços para o endereço principal da loja, cadastrado em **Configurações da conta > Conta > Lojas** no Admin VTEX. Veja exemplos abaixo:
 
@@ -31,7 +31,9 @@ Existem diversas maneiras de configurar redirecionamentos, sendo o uso do <code>
 
 A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Direcionar](http://direcionar.com.br/), por sua simplicidade de uso.
 
->⚠️ O [Direcionar](http://direcionar.com.br/) não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
+<div class="alert alert-warning">
+  <p>O <a href="http://direcionar.com.br/">Direcionar</a> não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.</p>
+</div>
 
 ### Redirecionamento de endereço sem subdomínio (como www)
 
@@ -49,7 +51,7 @@ Para acessar a loja por meio de um endereço sem subdomínios, como `www`, é pr
   |---|---|---|
   | Host Record: redirect | Type: CNAME | To: www.meusite.com.direcionar.com.br |
 
-Saiba mais sobre situações como essa em [Melhores práticas para acessar a loja sem www](https://help.vtex.com/pt/tutorial/melhores-praticas-para-acessar-a-loja-sem-www--tutorials_4278).
+Saiba mais sobre situações como essa em [Melhores práticas para acessar a loja sem www](/pt/tutorial/melhores-praticas-para-acessar-a-loja-sem-www--tutorials_4278).
 
 A propagação do redirecionamento pode levar alguns minutos para ser concluída, a depender do provedor de DNS.
 
@@ -75,5 +77,5 @@ No [Direcionar](http://direcionar.com.br/), não é possível instalar um certif
 
 Para lidar com essa limitação, considere os seguintes pontos:
 
-1. Se o domínio de origem não possui subdomínio, como `site.com`, aponte-o para um servidor de gestão da própria loja, ou seja, um servidor físico ou virtual que é administrado pelo próprio usuário ou empresa. Este servidor deve possuir um **certificado SSL instalado para o domínio de origem**, viabilizando o acesso seguro via HTTPS. Acesse [Certificado de segurança (SSL)](https://help.vtex.com/pt/tutorial/certificado-de-seguranca-ssl--tutorials_1308) para mais informações.
+1. Se o domínio de origem não possui subdomínio, como `site.com`, aponte-o para um servidor de gestão da própria loja, ou seja, um servidor físico ou virtual que é administrado pelo próprio usuário ou empresa. Este servidor deve possuir um **certificado SSL instalado para o domínio de origem**, viabilizando o acesso seguro via HTTPS. Acesse [Certificado de segurança (SSL)](/pt/tutorial/certificado-de-seguranca-ssl--tutorials_1308) para mais informações.
 2. Defina uma **regra de redirecionamento**. Para usar um servidor de gestão própria para redirecionar acessos com HTTPS, você precisará definir uma regra de redirecionamento no servidor. Ela pode variar conforme o tipo de servidor utilizado (Apache, ASP, nginx). Portanto, para configurar essa regra, você deve saber qual tipo de servidor está sendo usado e aplicar as configurações correspondentes.

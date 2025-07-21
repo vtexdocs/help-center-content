@@ -1,5 +1,5 @@
 ---
-title: 'Notify-me report generates a corrupted file when there are no SKUs found'
+title: "Notify-me report generates a corrupted file when there are no SKUs found"
 id: 4UXSRdwdh7TTqGvQ3HrBX4
 status: PUBLISHED
 createdAt: 2023-12-20T20:13:33.873Z

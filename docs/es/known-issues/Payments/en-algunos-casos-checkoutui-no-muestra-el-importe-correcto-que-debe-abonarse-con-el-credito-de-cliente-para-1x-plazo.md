@@ -1,5 +1,5 @@
 ---
-title: 'En algunos casos, Checkout-UI no muestra el importe correcto que debe abonarse con el Crédito de cliente para 1x plazo'
+title: "En algunos casos, Checkout-UI no muestra el importe correcto que debe abonarse con el Crédito de cliente para 1x plazo"
 id: 3YsvVet6LKw1buFapSwFWm
 status: PUBLISHED
 createdAt: 2023-02-06T20:00:37.983Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: in-some-cases-checkoutui-does-not-show-the-correct-amount-to-be-paid-with-customer-credit-for-1x-installment
+slugEN: en-algunos-casos-checkoutui-no-muestra-el-importe-correcto-que-debe-abonarse-con-el-credito-de-cliente-para-1x-plazo
 locale: es
 kiStatus: Backlog
 internalReference: 748320
@@ -18,7 +18,9 @@ internalReference: 748320
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para un escenario donde el Crédito de Cliente es usado para pagar una cantidad menor que el valor total del carrito; muestra, para 1x cuota en el desplegable, la cantidad total ignorando débitos considerados como pagar con otro método de pago como una tarjeta de regalo.

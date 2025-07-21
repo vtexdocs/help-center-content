@@ -1,5 +1,5 @@
 ---
-title: 'As imagens do Infocard para celular não serão aplicadas'
+title: "As imagens do Infocard para celular não serão aplicadas"
 id: 1vx5fwa5nL3SO27HpihLFd
 status: PUBLISHED
 createdAt: 2024-02-19T19:12:18.516Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: infocard-mobile-images-wont-apply
+slugEN: as-imagens-do-infocard-para-celular-nao-serao-aplicadas
 locale: pt
 kiStatus: Backlog
 internalReference: 909647
@@ -18,7 +18,9 @@ internalReference: 909647
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você altera a imagem em um infocard para ser exibida na versão móvel, ela não será exibida. Em vez disso, a imagem principal continua sendo exibida.

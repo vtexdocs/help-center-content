@@ -1,5 +1,5 @@
 ---
-title: 'Webops app is not fully integrated with Headless CMS'
+title: "Webops app is not fully integrated with Headless CMS"
 id: 577fIocKB9BYYCOkN9dZfW
 status: PUBLISHED
 createdAt: 2024-06-12T19:42:12.627Z

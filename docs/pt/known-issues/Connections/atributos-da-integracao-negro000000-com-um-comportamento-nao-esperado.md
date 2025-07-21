@@ -1,5 +1,5 @@
 ---
-title: '[Atributos da integração Negro_#000000 com um comportamento não esperado'
+title: "[Atributos da integração Negro_#000000 com um comportamento não esperado"
 id: 1GPrObE1SQPP4ScyNHyjDt
 status: PUBLISHED
 createdAt: 2022-09-19T14:04:56.594Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-attributes-negro000000-integration-with-a-non-expected-behavior
+slugEN: atributos-da-integracao-negro000000-com-um-comportamento-nao-esperado
 locale: pt
 kiStatus: No Fix
 internalReference: 660703
@@ -18,7 +18,9 @@ internalReference: 660703
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

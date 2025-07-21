@@ -1,5 +1,5 @@
 ---
-title: 'Configurações do Intelligent Search Redirect A barra de pesquisa diferencia maiúsculas de minúsculas'
+title: "Configurações do Intelligent Search Redirect A barra de pesquisa diferencia maiúsculas de minúsculas"
 id: 5QEkcyhCQWyw093UkDCeOq
 status: PUBLISHED
 createdAt: 2023-09-26T23:50:50.661Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-redirect-settings-search-bar-is-case-sensitive
+slugEN: configuracoes-do-intelligent-search-redirect-a-barra-de-pesquisa-diferencia-maiusculas-de-minusculas
 locale: pt
 kiStatus: Fixed
 internalReference: 361894
@@ -18,7 +18,9 @@ internalReference: 361894
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A página de configurações do Intelligent Search Redirect tem uma barra de pesquisa para ajudar a encontrar configurações de redirecionamento específicas, mas ela diferencia maiúsculas de minúsculas e só encontrará termos se eles corresponderem exatamente.

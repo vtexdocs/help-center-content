@@ -1,5 +1,5 @@
 ---
-title: 'O link Alterar pedido no checkout/orderPlaced está direcionando para myAccount em vez da página do pedido'
+title: "O link Alterar pedido no checkout/orderPlaced está direcionando para myAccount em vez da página do pedido"
 id: 6bP44VBdFIujX072rY6wCA
 status: PUBLISHED
 createdAt: 2023-06-15T16:13:03.752Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page
+slugEN: o-link-alterar-pedido-no-checkoutorderplaced-esta-direcionando-para-myaccount-em-vez-da-pagina-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 844893
@@ -18,7 +18,9 @@ internalReference: 844893
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tiver configurado a possibilidade de o comprador alterar o pedido por conta própria, o link de alteração de pedido aparecerá no modelo checkout/orderPlaced.

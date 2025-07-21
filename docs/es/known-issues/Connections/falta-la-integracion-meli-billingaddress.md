@@ -1,5 +1,5 @@
 ---
-title: 'Falta la integración MELI BillingAddress'
+title: "Falta la integración MELI BillingAddress"
 id: 7xYni5vYpSn6bicq4e6f2K
 status: PUBLISHED
 createdAt: 2023-03-15T13:06:41.866Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-integration-missing-billingaddress
+slugEN: falta-la-integracion-meli-billingaddress
 locale: es
 kiStatus: Backlog
 internalReference: 771418
@@ -18,7 +18,9 @@ internalReference: 771418
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Master Data v1, Relatório, Exportação
 ---
 
-Ao [exportar um relatório com dados do Master Data v1](https://help.vtex.com/pt/tutorial/exportando-dados--tutorials_1125), o relatório é enviado para o email informado durante a exportação. Porém, é possível que o email demore mais que o esperado para chegar na sua caixa de entrada.
+Ao [exportar um relatório com dados do Master Data v1](/pt/tutorial/exportando-dados--tutorials_1125), o relatório é enviado para o email informado durante a exportação. Porém, é possível que o email demore mais que o esperado para chegar na sua caixa de entrada.
 
 ## Solução
 

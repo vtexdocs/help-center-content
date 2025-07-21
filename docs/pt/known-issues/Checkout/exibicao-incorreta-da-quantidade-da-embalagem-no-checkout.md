@@ -1,5 +1,5 @@
 ---
-title: 'Exibição incorreta da quantidade da embalagem no checkout'
+title: "Exibição incorreta da quantidade da embalagem no checkout"
 id: 1ZphoPLQZyHJpvPlXWb1oR
 status: PUBLISHED
 createdAt: 2022-07-11T12:58:18.388Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-display-of-package-quantity-at-checkout
+slugEN: exibicao-incorreta-da-quantidade-da-embalagem-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 520369
@@ -18,7 +18,9 @@ internalReference: 520369
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

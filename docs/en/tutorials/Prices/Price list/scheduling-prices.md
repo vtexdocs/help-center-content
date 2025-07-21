@@ -48,7 +48,9 @@ To schedule prices in the Admin, please follow the steps below.
 - **End date:** indicates the date from which the fixed price will no longer be valid.  
 - **End time:** indicates the time from which the fixed price will no longer be valid.  
 
->ℹ️ When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.
+<div class="alert alert-info">
+  <p>When scheduling prices in the Admin, the time zone considered will be the one used in the user’s computer.</p>
+</div>
 
 ## Scheduling prices by importing a fixed price template
 
@@ -70,7 +72,9 @@ The template will be sent to your email and you can download it. After downloadi
 - **Date from:** the date and time from which the fixed price will be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format. -
 - **Date to:** the date and time from which the fixed price will no longer be valid, in [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format.
 
->ℹ️ The **Date From** and **Date To** fields follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank) format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: `2024-12-30T22:00:00-03:00`. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: `2024-12-30T00:00:00Z`.
+<div class="alert alert-info">
+    The <strong>Date From</strong> and <strong>Date To</strong> fields follow the <a href="https://www.ietf.org/rfc/rfc3339.txt" target="_blank">RFC3339</a> format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: <code>2024-12-30T22:00:00-03:00</code>. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: <code>2024-12-30T00:00:00Z</code>.
+</div>
 
 ![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/scheduling-prices_2.png)
 

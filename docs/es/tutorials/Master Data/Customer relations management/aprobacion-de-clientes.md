@@ -34,6 +34,6 @@ De este modo, el contenido de la tienda se mostrará a los clientes seleccionado
 
 Puede aprobar varios clientes a la vez a través de una ruta de [API de Master Data](https://developers.vtex.com/docs/api-reference/masterdata-api).
 
-Toda la información relacionada con un cliente puede interpretarse como un documento en [entidad de datos](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265) __Cliente__. Por lo tanto, la ruta [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id-) debe ser utilizada para cambiar masivamente el valor relacionado con el campo __Aprobado__.
+Toda la información relacionada con un cliente puede interpretarse como un documento en [entidad de datos](/es/tutorial/criando-entidade-de-dados--tutorials_1265) __Cliente__. Por lo tanto, la ruta [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id-) debe ser utilizada para cambiar masivamente el valor relacionado con el campo __Aprobado__.
 
 Consulte el artículo [Importar datos de clientes](https://developers.vtex.com/docs/guides/import-customer-data) para saber qué campos deben crearse para un documento específico de persona física.

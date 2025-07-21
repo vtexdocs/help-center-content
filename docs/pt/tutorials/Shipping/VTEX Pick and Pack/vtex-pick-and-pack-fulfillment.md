@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z
-updatedAt: 2023-08-31T19:52:23.529Z
-publishedAt: 2023-08-31T19:52:23.529Z
+updatedAt: 2025-07-16T15:33:51.287Z
+publishedAt: 2025-07-16T15:33:51.287Z
 firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,11 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
+<div class = "alert alert-info">
+Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso <a href="https://vtex.com/br-pt/contato/">formulário</a> apontando no campo <code>Comentários</code> o nome do produto desejado.
+</div>
 
-[VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) é uma solução para otimizar os processos de fulfillment das lojas, otimizando a coleta e o empacotamento dos pedidos, além da entrega last mile. A solução é composta pelas páginas de [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) e **VTEX Pick and Pack Fulfillment**, e aparece em seu Admin VTEX em **Apps**.
+[VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) é uma solução para otimizar os processos de fulfillment das lojas, otimizando a coleta e o empacotamento dos pedidos, além da entrega last mile. A solução é composta pelas páginas de [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) e **VTEX Pick and Pack Fulfillment**, e aparece em seu Admin VTEX em **Apps**.
 
 O módulo **VTEX Pick and Pack Fulfillment** está relacionado ao processo de manuseio de pedidos e apresenta as seguintes seções:
 
@@ -26,7 +28,9 @@ O módulo **VTEX Pick and Pack Fulfillment** está relacionado ao processo de ma
 * [Configurações](#configuracoes)
 * [Usuários](#usuarios)
 
->❗ O **VTEX Pick and Pack** não é um sistema de faturação. Após a coleta e o empacotamento, o pedido deve ser faturado e atualizado como `Faturado` no OMS, de modo que o **VTEX Fulfillment** possa terminar o fluxo de coleta e empacotamento e seguir com o envio.
+<div class="alert alert-danger">
+O <b>VTEX Pick and Pack</b> não é um sistema de faturação. Após a coleta e o empacotamento, o pedido deve ser faturado e atualizado como <code>Faturado</code> no OMS, de modo que o <b>VTEX Fulfillment</b> possa terminar o fluxo de coleta e empacotamento e seguir com o envio.
+</div>
 
 ## Coleta e empacotamento
 
@@ -37,7 +41,7 @@ A interface de gerenciamento de pedidos tem duas páginas principais:
 
 ### Lista de coleta e empacotamento
 
-Ao acessar **Fulfillment > Coleta e empacotamento**, você encontra uma página listando todos os pedidos com pagamento confirmado que estão no [status](https://help.vtex.com/pt/tutorial/order-flow-and-status--tutorials_196) `Pronto para coleta`, como na imagem abaixo:
+Ao acessar **Fulfillment > Coleta e empacotamento**, você encontra uma página listando todos os pedidos com pagamento confirmado que estão no [status](/pt/tutorial/order-flow-and-status--tutorials_196) `Pronto para coleta`, como na imagem abaixo:
 
 A tabela abaixo contém a descrição das colunas apresentadas:
 
@@ -45,7 +49,7 @@ A tabela abaixo contém a descrição das colunas apresentadas:
 | ---------- | ---------- |
 | Data de criação | Data e hora de realização do pedido. |
 | Data de entrega | O prazo de entrega dos pedidos, conforme definido no acordo de nível de serviço (SLA) entre a loja e o cliente. |
-| Método de entrega | Tipo de envio do pedido, que pode ser entrega, envio para o endereço do cliente, ou coleta em um [ponto de retirada](https://help.vtex.com/pt/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). |
+| Método de entrega | Tipo de envio do pedido, que pode ser entrega, envio para o endereço do cliente, ou coleta em um [ponto de retirada](/pt/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). |
 | Número do pedido | ID único que identifica um pedido, o mesmo usado no sistema de gerenciamento de pedidos (OMS). |
 | Entregador | Nome do entregador alocado para o pedido. O entregador é a pessoa responsável pelo processo de coleta. O valor padrão é `Não alocado` até que um entregador seja alocado. |
 | Status | Status do pedido, que pode ser: <ul><li><b>Pronto para separar:</b> os pedidos estão prontos para serem separados, mas ainda não foram alocados a um coletor.</li><li><b>Pronto para coletar:</b> o pedido foi alocado para um coletor e depende da confirmação dele para passar para o próximo status.</li><li><b>Coletando:</b> os itens do pedido estão sendo coletados.</li><li><b>Pronto para embalar:</b> o coletor terminou o processo de coleta e o pedido está pronto para ser embalado.</li><li><b>Embalando:</b> os itens do pedido estão sendo colocados em sacolas ou embalagens determinadas pela loja.</li><li><b>Pronto para faturar:</b> o pedido pode ser faturado. A solução <i>VTEX Pick and Pack</i> não fatura pedidos.</li><li><b>Faturado:</b> o pedido foi faturado.</li><li><b>Preparando serviços:</b> os serviços de envio estão prontos para serem criados.</li><li><b>Pronto para enviar:</b> o pedido está pronto para ser enviado.</li><li><b>Entregue:</b> o pedido foi entregue no endereço do cliente ou no ponto de retirada.</li><li><b>Parado:</b> o pedido foi de fulfillment externo e não poderá ser processado pelo <i>VTEX Pick and Pack</i>. Se o pedido for faturado no OMS em um status diferente de <code>Pronto para faturar</code>, o sistema também o considerará um fulfillment externo e alterará o status do pedido para <code>Parado</code>.</li><li><b>Cancelado:</b> o pedido estava pronto para ser coletado, mas foi cancelado.</li></ul> |
@@ -58,11 +62,11 @@ Para ver mais detalhes de um pedido, selecione-o na lista e as seguintes informa
 | Informações de entrega | Endereço de entrega do cliente ou endereço do ponto de retirada, quando o cliente escolhe a opção de retirada na loja. |
 | Janela de entrega | Mostra a data em que o pedido foi feito e a data prevista para o cliente recebê-lo. |
 | Item(ns) do pedido | Quantidade de itens e suas categorias. |
-| Meio de pagamento | Valor total do pedido e o [meio de pagamento](https://help.vtex.com/pt/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) usado, como cartões de crédito ou débito. |
+| Meio de pagamento | Valor total do pedido e o [meio de pagamento](/pt/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) usado, como cartões de crédito ou débito. |
 
 Você pode realizar as seguintes ações na página de Coleta e empacotamento:
 
-* [fesquisar](#pesquisar)
+* [Pesquisar](#pesquisar)
 * [Filtrar](#filtrar)
 * [Importar](#importar)
 * [Exportar](#exportar)
@@ -87,8 +91,8 @@ Você pode filtrar os pedidos utilizando diferentes critérios, e ao clicar em `
 * **Status:** selecione um ou mais [status do pedido](#lista-de-coleta-e-empacotamento).
 * **Total do pedido:** faixa de preço do pedido, que pode ir de R$ 0 a R$ 5 milhões.
 * **Número de itens:** número de itens do pedido, que pode ir de 0 a 99.
-* **Transportadora:** a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) responsável pela entrega.
-* **Meio de pagamento:** o [meio de pagamento](https://help.vtex.com/pt/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) usado pelo cliente, como cartões de crédito ou débito.
+* **Transportadora:** a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) responsável pela entrega.
+* **Meio de pagamento:** o [meio de pagamento](/pt/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) usado pelo cliente, como cartões de crédito ou débito.
 * **Entregador:** o entregador alocado para o processo de coleta do pedido. Use os emails dos entregadores disponíveis.
 * **Categorias:** categorias de itens dos pedidos, por exemplo, _Bebidas_ ou _Roupas_. Depende da árvore de categoria da loja configurada no Catálogo.
 
@@ -151,7 +155,9 @@ Na página de detalhes, você pode realizar as ações abaixo. As ações dispon
 * [Adicionar serviço de envio](#adicionar-servico-de-envio)
 * [Rastrear pedido](#rastrear-pedido)
 
->❗ Embora as ações acima possam ser realizadas por [usuários](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios) com acesso ao Admin, geralmente as ações com um ***** (asterisco) devem ser executadas somente por entregadores em seus dispositivos móveis, sem qualquer acesso ao Admin da loja.
+<div class="alert alert-danger">
+Embora as ações acima possam ser realizadas por <a href="https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios">usuários</a> com acesso ao Admin, geralmente as ações com um <b>*</b> (asterisco) devem ser executadas somente por entregadores em seus dispositivos móveis, sem qualquer acesso ao Admin da loja.
+</div>
 
 #### Coletar
 
@@ -213,7 +219,7 @@ Você pode substituir um produto da seguinte forma:
 
 No fluxo natural, a substituição de itens é feita por coletores em seus dispositivos móveis. Esta seção mostra como fazer isso via Admin, no caso de [outros usuários](#usuarios) precisarem realizar esta ação.
 
-Você pode substituir um item por outro com base em uma recomendação. A opção exibida depende de quais são suas configurações no [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). 
+Você pode substituir um item por outro com base em uma recomendação. A opção exibida depende de quais são suas configurações no [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). 
 
 Para substituir um item por uma recomendação, siga os passos abaixo:
 
@@ -290,8 +296,9 @@ Para criar um novo pacote, siga os passos abaixo:
 
 Você pode adicionar um único produto a um pacote ou todos os produtos de uma vez. Depois que todos os produtos estiverem embalados, clique em `Fechar pacotes`. Uma vez fechados os pacotes, você não poderá mais adicionar itens ou fazer qualquer tipo de alteração.
 
->❗ O **VTEX Pick and Pack** não é um sistema de faturação. Assim que o pedido passar para o status de `Pronto para faturar`, ele deve ser faturado e atualizado como `faturado` no OMS. Somente depois disso o **VTEX Fulfillment** irá terminar o fluxo de coleta e empacotamento e proceder para o envio.
-> Se o pedido é faturado em um status diferente de /`Pronto para faturar`, o sistema irá considerar que é um caso de fulfillment externo e mudará o status do pedido para `Inativo`, desativando o **VTEX Pick and Pack** para processá-lo.
+<div class="alert alert-danger">
+<p>O <b>VTEX Pick and Pack</b> não é um sistema de faturação. Assim que o pedido passar para o status de <code>Pronto para faturar</code>, ele deve ser faturado e atualizado como <code>faturado</code> no OMS. Somente depois disso o <b>VTEX Fulfillment</b> irá terminar o fluxo de coleta e empacotamento e proceder para o envio.</p><p>Se o pedido é faturado em um status diferente de /<code>Pronto para faturar</code>, o sistema irá considerar que é um caso de fulfillment externo e mudará o status do pedido para <code>Inativo</code>, desativando o <b>VTEX Pick and Pack</b> para processá-lo.</p>
+</div>
 
 #### Imprimir recibo e comprovante
 
@@ -320,7 +327,7 @@ Você receberá uma mensagem de sucesso e o pedido passará para o status _Pront
 
 #### Rastrear pedido
 
-Quando o pedido passar para o status _Pronto para enviar_ ou _Entregue_, o botão `Ir para rastreamento` aparecerá na [página de detalhes de Coleta e empacotamento](#detalhes-de-coleta-e-empacotamento). Ao clicar nele, você será redirecionado para o [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) para rastrear o pedido.
+Quando o pedido passar para o status _Pronto para enviar_ ou _Entregue_, o botão `Ir para rastreamento` aparecerá na [página de detalhes de Coleta e empacotamento](#detalhes-de-coleta-e-empacotamento). Ao clicar nele, você será redirecionado para o [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) para rastrear o pedido.
 
 Você também pode ir para o **Last Mile** diretamente no Admin da loja, acessando **Apps > Last Mile > Serviços de envio**.
 
@@ -331,7 +338,9 @@ No **VTEX Pick and Pack**, a página **Insights** apresenta dados e análises so
 * [Coleta e empacotamento](#insights-coleta-e-empacotamento)
 * [Operação](#insights-operacao)
 
->⚠️ Para poder acessar a página de **Insights**, você precisa ter um perfil de usuário administrador no VTEX Fulfillment, que é diferente dos [perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para mais informações, consulte a seção [Usuários](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios).
+<div class="alert alert-warning">
+Para poder acessar a página de <b>Insights</b>, você precisa ter um perfil de usuário administrador no VTEX Fulfillment, que é diferente dos <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">perfis de acesso</a>. Para mais informações, consulte a seção <a href="https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios">Usuários</a>.
+</div>
 
 ### Insights: Coleta e empacotamento
 
@@ -347,7 +356,9 @@ Você pode combinar vários filtros para filtrar as informações que deseja ver
 * Cidade
 * Seller
 
->ℹ️ O filtro **Seller** está disponível apenas para contas que operam como marketplace. [Sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) não têm essa opção de filtro em **Insights**.
+<div class = "alert alert-info">
+O filtro <b>Seller</b> está disponível apenas para contas que operam como marketplace. <a href="https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">Sellers white label</a> não têm essa opção de filtro em <b>Insights</b>.
+</div>
 
 Além da métrica de **total de pedidos**, há uma sequência de métricas para obter dados sobre _meios de pagamento_ e pedidos:
 
@@ -366,7 +377,9 @@ Abaixo do **total de pedidos**, você encontrará métricas sobre o número de p
 
 Na aba **Operação**, você verá o **fluxo de pedidos** de Coleta e empacotamento, que mostrará a quantidade total de pedidos distribuídos por dia nos últimos sete dias. Quanto mais escuro for o tom de azul, mais pedidos, quanto mais claro, menos.
 
->ℹ️ O fluxo de **Coleta e empacotamento** é calculado considerando todos os pedidos dos últimos 7 dias e os distribui em horas, de 0 a 23. Mesmo se você mudar o período para 15 dias, por exemplo, a visualização permanecerá fixa considerando 7 dias.
+<div class = "alert alert-info">
+O fluxo de <b>Coleta e empacotamento</b> é calculado considerando todos os pedidos dos últimos 7 dias e os distribui em horas, de 0 a 23. Mesmo se você mudar o período para 15 dias, por exemplo, a visualização permanecerá fixa considerando 7 dias.
+</div>
 
 Abaixo do **fluxo de pedidos**, há uma métrica com pedidos filtrados por entregador. Você irá ver informações sobre:
 
@@ -397,7 +410,9 @@ Para configurar o **VTEX Pick and Pack** na sua loja, no Admin VTEX, acesse **Ap
 * [Impressão](#configuracoes-de-impressao)
 * [Webhooks](#configuracoes-de-weebhook)
 
->⚠️ Para poder acessar as **Configurações**, você precisa ser um [usuário administrador do VTEX Fulfillment](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios-e-license-manager-no-vtex-fulfillment) ou um usuário de atendimento ao cliente.
+<div class="alert alert-warning">
+Para poder acessar as <b>Configurações</b>, você precisa ser um <a href="https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios-e-license-manager-no-vtex-fulfillment">usuário administrador do VTEX Fulfillment</a> ou um usuário de atendimento ao cliente.
+</div>
 
 ### Configurações gerais
 
@@ -457,7 +472,9 @@ Para criar um pacote, faça o seguinte:
 2. Preencha o nome que identificará o pacote.
 3. Preencha as medidas do pacote: altura, largura e comprimento, usando apenas números. 
 
-  >ℹ️ A unidade de medida é aquela configurada na aba [Geral](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#configuracoes-gerais), em **Unidades de medida**.
+  <div class = "alert alert-info">
+A unidade de medida é aquela configurada na aba <a href="https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#configuracoes-gerais">Geral</a>, em <b>Unidades de medida</b>.
+</div>
 
 4. Clique em `Adicionar`.
 
@@ -465,7 +482,7 @@ Para excluir um pacote, clique na linha desse pacote e, em seguida, clique em `S
 
 ### Configurações de envio
 
-Nesta aba, você associa um serviço [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) à sua loja, o que permite rastrear o status e a localização com atualizações em tempo real, enquanto sua frota interna de entregadores realiza as entregas dos pedidos aos clientes.
+Nesta aba, você associa um serviço [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) à sua loja, o que permite rastrear o status e a localização com atualizações em tempo real, enquanto sua frota interna de entregadores realiza as entregas dos pedidos aos clientes.
 
 Se o botão **Last Mile** <i class="fas fa-toggle-off"></i> estiver desativado, não há opções de configuração. Para começar a usar o Last Mile, faça o seguinte:
 
@@ -502,7 +519,9 @@ Ao terminar de definir as configurações de impressão, clique em `Salvar`.
 
 Nesta aba, você pode configurar um webhook para ser notificado sobre alterações de status dos pedidos e [obter informações](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api) sobre um pedido específico.
 
->ℹ️ Para mais informações, veja nossa documentação do [VTEX Pick and Pack para desenvolvedores](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api#webhook).
+<div class = "alert alert-info">
+Para mais informações, veja nossa documentação do <a href="https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api#webhook">VTEX Pick and Pack para desenvolvedores</a>.
+</div>
 
 ## Usuários
 
@@ -516,9 +535,9 @@ No **VTEX Pick and Pack**, a página **Usuários** permite gerenciar os perfis e
 
 ### Usuários e License Manager no VTEX Fulfillment
 
-O conceito de _usuário_ no **VTEX Pick e Pack** é diferente do significado comum do termo na VTEX. No **VTEX Fulfillment**, existem três tipos de usuários que participam do processo de fulfillment: entregador, atendimento ao cliente e administrador. Geralmente, na VTEX, os usuários estão relacionados com [perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) e [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+O conceito de _usuário_ no **VTEX Pick e Pack** é diferente do significado comum do termo na VTEX. No **VTEX Fulfillment**, existem três tipos de usuários que participam do processo de fulfillment: entregador, atendimento ao cliente e administrador. Geralmente, na VTEX, os usuários estão relacionados com [perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) e [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-Para acessar o **VTEX Fulfillment**, os usuários administradores e de atendimento ao cliente devem ter permissões relacionadas aos recursos do License Manager. Recomendamos [criar um perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identificado como "_Admin fulfillment_", contendo pelo menos os seguintes produtos e recursos associados a ele:
+Para acessar o **VTEX Fulfillment**, os usuários administradores e de atendimento ao cliente devem ter permissões relacionadas aos recursos do License Manager. Recomendamos [criar um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identificado como "_Admin fulfillment_", contendo pelo menos os seguintes produtos e recursos associados a ele:
 
 | **Produto** | **Recursos associados** |
 | ---------- | ---------- |
@@ -550,10 +569,12 @@ Para criar um novo _entregador_, siga os passos abaixo:
         * Uma letra maiúscula
         * Uma letra minúscula
         * Um número
-    * **Lojas:** selecione o ambiente ao qual o entregador será associado. Cada ambiente pode ter múltiplos [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associados a ele.
+    * **Lojas:** selecione o ambiente ao qual o entregador será associado. Cada ambiente pode ter múltiplos [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associados a ele.
     * **Categorias:** selecione até quatro categorias relacionadas aos produtos que o entregador irá coletar.
 
-  >ℹ️ As categorias relacionadas ao entregador otimizam o algoritmo ao determinar qual entregador receberá o pedido. Mas essa não é uma limitação: qualquer entregador pode ser alocado para serviços de todas as categorias.
+  <div class = "alert alert-info">
+As categorias relacionadas ao entregador otimizam o algoritmo ao determinar qual entregador receberá o pedido. Mas essa não é uma limitação: qualquer entregador pode ser alocado para serviços de todas as categorias.
+</div>
 
 4. Clique em `Salvar usuário`.
 
@@ -605,7 +626,9 @@ Para gerar uma chave API, siga os passos abaixo:
 4. Clique em `Gerar`.
 5. Salve a chave API em um lugar seguro.
 
-  >❗ A chave API será exibida apenas uma vez. Você não poderá acessar essa informação novamente, então salve-a em um local seguro.
+  <div class="alert alert-danger">
+A chave API será exibida apenas uma vez. Você não poderá acessar essa informação novamente, então salve-a em um local seguro.
+</div>
 
 6. Insira a senha.
 7. Clique em `Salvar`.

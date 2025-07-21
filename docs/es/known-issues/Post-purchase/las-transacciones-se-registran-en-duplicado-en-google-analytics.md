@@ -1,5 +1,5 @@
 ---
-title: 'Las transacciones se registran en duplicado en Google Analytics'
+title: "Las transacciones se registran en duplicado en Google Analytics"
 id: 3pBn0BG1cAAqkw6CMEywIs
 status: PUBLISHED
 createdAt: 2018-11-20T16:44:40.811Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_4
 tag: Checkout
-slugEN: duplicate-transactions-being-recorded-in-google-analytics
+slugEN: las-transacciones-se-registran-en-duplicado-en-google-analytics
 locale: es
 kiStatus: Backlog
 internalReference: 

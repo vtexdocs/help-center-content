@@ -1,5 +1,5 @@
 ---
-title: 'La API de creación de productos no envía valores nulos como fecha de lanzamiento.'
+title: "La API de creación de productos no envía valores nulos como fecha de lanzamiento."
 id: 6IjwYVm9SdNEtW9aNYkSrj
 status: PUBLISHED
 createdAt: 2024-04-29T15:10:44.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: create-product-api-doesnt-send-nulls-as-release-date-values
+slugEN: la-api-de-creacion-de-productos-no-envia-valores-nulos-como-fecha-de-lanzamiento
 locale: es
 kiStatus: Backlog
 internalReference: 1024207
@@ -18,7 +18,9 @@ internalReference: 1024207
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar las API de creación o actualización de productos en la aplicación de catálogo: https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product y enviar el campo releaseDate como null, en su valor, se crea con la fecha actual en su lugar.

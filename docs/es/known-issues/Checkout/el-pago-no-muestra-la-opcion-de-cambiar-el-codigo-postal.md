@@ -1,5 +1,5 @@
 ---
-title: 'El pago no muestra la opción de cambiar el código postal'
+title: "El pago no muestra la opción de cambiar el código postal"
 id: 23xS5PVwwuDm5NhSZN65sU
 status: PUBLISHED
 createdAt: 2022-04-18T14:04:04.407Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-does-not-show-option-to-change-zip-code
+slugEN: el-pago-no-muestra-la-opcion-de-cambiar-el-codigo-postal
 locale: es
 kiStatus: Fixed
 internalReference: 321598
@@ -18,7 +18,9 @@ internalReference: 321598
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para los artículos que están restringidos a la recogida en la tienda a determinadas direcciones, la opción de cambiar el código postal está desapareciendo mientras el usuario está en la pestaña de entrega, en el carrito .

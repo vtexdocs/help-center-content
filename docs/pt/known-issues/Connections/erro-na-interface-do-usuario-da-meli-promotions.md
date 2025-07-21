@@ -1,5 +1,5 @@
 ---
-title: 'Erro na interface do usuário da MELI Promotions'
+title: "Erro na interface do usuário da MELI Promotions"
 id: BXDd7lo9fOvUq4AIM4hZs
 status: PUBLISHED
 createdAt: 2023-04-26T11:10:30.466Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-promotions-ui-error
+slugEN: erro-na-interface-do-usuario-da-meli-promotions
 locale: pt
 kiStatus: Backlog
 internalReference: 797143
@@ -18,7 +18,9 @@ internalReference: 797143
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -3,8 +3,8 @@ title: 'Amazon'
 id: 5sYA9MlRo92jJIxKF1MTXb
 status: PUBLISHED
 createdAt: 2021-07-19T15:04:49.589Z
-updatedAt: 2022-11-04T19:45:22.939Z
-publishedAt: 2022-11-04T19:45:22.939Z
+updatedAt: 2025-02-03T14:30:09.411Z
+publishedAt: 2025-02-03T14:30:09.411Z
 firstPublishedAt: 2021-07-19T20:20:32.860Z
 contentType: trackArticle
 productTeam: Channels
@@ -20,7 +20,12 @@ A Amazon é uma plataforma de ecommerce, considerada uma das cinco maiores empre
 
 A configuração com a Amazon tem como objetivo enviar o catálogo de produtos da sua loja VTEX para esse marketplace, permitindo que você anuncie seus produtos e aumente suas vendas.
 
-A configuração está disponível para lojas VTEX no Brasil e Estados Unidos apenas para as seguintes categorias de produtos: 
+<div class="alert alert-info">
+A configuração está disponível para lojas VTEX no Brasil e Estados Unidos.
+</div>
+
+Somente as seguintes categorias de produtos podem ser integradas: 
+
 - Livros
 - Eletrônicos 
 - TV e Áudio

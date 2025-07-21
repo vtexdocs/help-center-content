@@ -1,5 +1,5 @@
 ---
-title: 'Error de envío de SKU entre sellers y marketplaces'
+title: "Error de envío de SKU entre sellers y marketplaces"
 id: 1fh0ea4fZrfyWW5EYnrZxj
 status: PUBLISHED
 createdAt: 2021-09-30T19:19:17.233Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 46G4yHIZerH7B9Jo0Iw5KI
 tag: Suggestions
-slugEN: error-sending-skus-from-sellers-to-marketplaces-and-vice-versa
+slugEN: error-de-envio-de-sku-entre-sellers-y-marketplaces
 locale: es
 kiStatus: Fixed
 internalReference: 000

@@ -1,5 +1,5 @@
 ---
-title: 'A solicitação do hub de impostos não soma os descontos quando o preço manual é aplicado'
+title: "A solicitação do hub de impostos não soma os descontos quando o preço manual é aplicado"
 id: 3p8mpZALGS95pB9j4CclHi
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:23.968Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: tax-hub-request-doesnt-sum-discounts-when-manual-price-is-applied
+slugEN: a-solicitacao-do-hub-de-impostos-nao-soma-os-descontos-quando-o-preco-manual-e-aplicado
 locale: pt
 kiStatus: No Fix
 internalReference: 932667
@@ -18,7 +18,9 @@ internalReference: 932667
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,24 +1,26 @@
 ---
-title: 'Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada'
+title: "Filtros por especificaciones SKU sin tener en cuenta la disponibilidad regionalizada"
 id: 3CeTfHaNBfhrC5qIi3nTLh
 status: PUBLISHED
 createdAt: 2024-06-05T20:52:53.211Z
-updatedAt: 2024-06-05T20:52:54.055Z
-publishedAt: 2024-06-05T20:52:54.055Z
+updatedAt: 2025-03-31T21:40:45.796Z
+publishedAt: 2025-03-31T21:40:45.796Z
 firstPublishedAt: 2024-06-05T20:52:54.055Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: filters-by-sku-specifications-not-considering-regionalized-availability
+slugEN: filtros-por-especificaciones-sku-sin-tener-en-cuenta-la-disponibilidad-regionalizada
 locale: es
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1045111
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al filtrar la búsqueda por una especificación de SKU también se aplicará un filtro por disponibilidad de SKU, eliminando los productos en los que la variación seleccionada esté agotada, pero no se aplica a las tiendas regionalizadas.

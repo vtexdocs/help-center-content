@@ -17,13 +17,13 @@ announcementSynopsisES: 'Visualiza y gestiona las promociones aplicadas al carri
 
 Hemos lanzado globalmente y para todas las tiendas VTEX el **Simulador de promociones**: una nueva herramienta que permite visualizar las promociones aplicadas en el carrito de compras en tu tienda, junto con sus condiciones de activación. 
 
-Dadas las diversas opciones de configuración de [promociones](https://help.vtex.com/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N), este recurso es importante para tener una visión clara de la competencia, la acumulación de descuentos durante la compra y las causas de activación de dichas promociones.
+Dadas las diversas opciones de configuración de [promociones](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N), este recurso es importante para tener una visión clara de la competencia, la acumulación de descuentos durante la compra y las causas de activación de dichas promociones.
 
 Hemos creado el **Simulador de promociones** con el objetivo de proporcionar a los administradores de tiendas más autonomía para gestionar y dirigir las promociones de acuerdo con sus estrategias de negocio. Con la nueva herramienta, podrás explorar y optimizar el desempeño de tus promociones, garantizando una mayor eficiencia en tu operación y una experiencia de compra mejorada para tus clientes.
 
 ## ¿Qué hay de nuevo?
 
-A partir de ahora, el **Simulador de promociones** estará accesible para todas las tiendas VTEX a través de [Cartman](https://help.vtex.com/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451), una herramienta auxiliar a disposición de los administradores de tiendas en la etapa del checkout. Con el simulador podrás:
+A partir de ahora, el **Simulador de promociones** estará accesible para todas las tiendas VTEX a través de [Cartman](/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451), una herramienta auxiliar a disposición de los administradores de tiendas en la etapa del checkout. Con el simulador podrás:
 
 * **Ver las** promociones aplicables o aplicadas a cada ítem del carrito y las condiciones para activarlas.
 * **Gestionar las promociones** existentes desde el carrito de compras.
@@ -35,9 +35,9 @@ A partir de ahora, el **Simulador de promociones** estará accesible para todas 
 
 ## ¿Qué se necesita hacer?
 
-No es necesario realizar ninguna acción, ya que el **Simulador de promociones** ya está disponible en todas las tiendas VTEX a través de [Cartman](https://help.vtex.com/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451).
+No es necesario realizar ninguna acción, ya que el **Simulador de promociones** ya está disponible en todas las tiendas VTEX a través de [Cartman](/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451).
 
-Los usuarios deben tener un [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con permisos para ver el módulo **Promociones** en el Admin VTEX y poder acceder al **Simulador de promociones**.
+Los usuarios deben tener un [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con permisos para ver el módulo **Promociones** en el Admin VTEX y poder acceder al **Simulador de promociones**.
 
 Para empezar a utilizar el Simulador, sigue los pasos a continuación:
 
@@ -51,4 +51,4 @@ Para empezar a utilizar el Simulador, sigue los pasos a continuación:
 
     En la nueva ventana, verás los detalles de las promociones aplicadas y no aplicadas al carrito.
 
-Consulta el artículo [Simulador de promociones](https://help.vtex.com/es/tutorial/simulador-de-promociones-beta--4zc8SNqjqeIJ0ZRMhjlnvy) para obtener más detalles sobre cómo utilizar la nueva herramienta.
+Consulta el artículo [Simulador de promociones](/es/tutorial/simulador-de-promociones-beta--4zc8SNqjqeIJ0ZRMhjlnvy) para obtener más detalles sobre cómo utilizar la nueva herramienta.

@@ -3,8 +3,8 @@ title: 'Creating a list type'
 id: tutorials_254
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:52.502Z
-updatedAt: 2023-03-29T19:44:52.284Z
-publishedAt: 2023-03-29T19:44:52.284Z
+updatedAt: 2025-05-15T17:58:10.792Z
+publishedAt: 2025-05-15T17:58:10.792Z
 firstPublishedAt: 2017-04-27T23:03:11.198Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: en
 legacySlug: creating-a-type-of-list
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>The <a href="https://help.vtex.com/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go">List</a> feature is exclusive to stores that use Legacy CMS Portal.</p>
+</div>
 
 Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 
@@ -26,7 +30,9 @@ Creating a type of list is configuring the lists to appear on the site. For exam
 
 After creating the types of list, clients can add their lists to the site.
 
->⚠️ It is not possible to delete a list once it has been created.
+<div class="alert alert-warning">
+  <p>It is not possible to delete a list once it has been created.</p>
+</div>
 
 ## Form fields
 

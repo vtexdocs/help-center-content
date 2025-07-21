@@ -1,5 +1,5 @@
 ---
-title: 'Promotions UI loading wrong currency information'
+title: "Promotions UI loading wrong currency information"
 id: 7liSZOtS1Hs2P84bXzRrG9
 status: PUBLISHED
 createdAt: 2022-12-19T14:41:51.129Z

@@ -1,5 +1,5 @@
 ---
-title: 'Se está estudiando una política de envíos que no entregue los fines de semana'
+title: "Se está estudiando una política de envíos que no entregue los fines de semana"
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-that-does-not-deliver-on-weekends-is-being-considered
+slugEN: se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana
 locale: es
 kiStatus: No Fix
 internalReference: 594828
@@ -18,7 +18,9 @@ internalReference: 594828
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Antes, la funcionalidad "**Fines de semana y festivos**" y "**horario comercial**" funcionaban conjuntamente, es decir, una información dependía de la otra.

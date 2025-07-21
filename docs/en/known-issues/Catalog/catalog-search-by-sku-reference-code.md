@@ -1,5 +1,5 @@
 ---
-title: '[Catalog] search by sku reference code'
+title: "[Catalog] search by sku reference code"
 id: 34SWxPr14ftOKN1e1lb0WH
 status: PUBLISHED
 createdAt: 2024-08-16T20:17:18.920Z

@@ -1,5 +1,5 @@
 ---
-title: 'Transações registradas em duplicidade no Google Analytics'
+title: "Transações registradas em duplicidade no Google Analytics"
 id: 3pBn0BG1cAAqkw6CMEywIs
 status: PUBLISHED
 createdAt: 2018-11-20T16:44:40.811Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_4
 tag: Checkout
-slugEN: duplicate-transactions-being-recorded-in-google-analytics
+slugEN: transacoes-duplicadas-no-google-analytics
 locale: pt
 kiStatus: Backlog
 internalReference: 

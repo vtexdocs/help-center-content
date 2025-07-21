@@ -1,5 +1,5 @@
 ---
-title: 'La promoción de envíos no genera puntos destacados / banderas'
+title: "La promoción de envíos no genera puntos destacados / banderas"
 id: wwCzhTue5cSNhKFLFX9lP
 status: PUBLISHED
 createdAt: 2022-04-25T14:00:46.027Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: shipping-promotion-does-not-generate-highlights-flags
+slugEN: la-promocion-de-envios-no-genera-puntos-destacados-banderas
 locale: es
 kiStatus: Backlog
 internalReference: 527111
@@ -18,7 +18,9 @@ internalReference: 527111
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los porcentajes de envío, el envío máximo, el envío gratuito y las promociones de regalo no están generando puntos destacados / banderas en los PDP y PLP.

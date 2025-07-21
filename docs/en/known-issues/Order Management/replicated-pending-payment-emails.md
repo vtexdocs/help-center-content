@@ -1,5 +1,5 @@
 ---
-title: 'Replicated Pending Payment E-mails'
+title: "Replicated Pending Payment E-mails"
 id: 6ibJCSrep1aWEKi1DRTLDv
 status: PUBLISHED
 createdAt: 2022-05-18T18:30:57.906Z

@@ -1,5 +1,5 @@
 ---
-title: 'La API del catálogo Crear archivo SKU sólo funciona con una URL'
+title: "La API del catálogo Crear archivo SKU sólo funciona con una URL"
 id: 2rbU28Rw8AESiAvzuc6cWf
 status: PUBLISHED
 createdAt: 2022-10-26T13:30:57.669Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-api-create-sku-file-only-work-with-an-url
+slugEN: la-api-del-catalogo-crear-archivo-sku-solo-funciona-con-una-url
 locale: es
 kiStatus: Fixed
 internalReference: 503153
@@ -18,7 +18,9 @@ internalReference: 503153
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API del catálogo Crear archivo SKU sólo funciona con la opción 1 ( enviar una imagen a través de la URL)

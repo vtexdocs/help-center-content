@@ -1,5 +1,5 @@
 ---
-title: "Como remover a mensagem de erro 'Request headers must contain only ASCII characters'"
+title: 'Como remover a mensagem de erro "Request headers must contain only ASCII characters"'
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
@@ -60,7 +60,7 @@ Na página em que a mensagem "__Request headers must contain only ASCII characte
 
 Uma vez identificados os cookies contendo caracteres especiais, é necessário verificar a sua origem para que sejam removidos da página. As fontes mais comuns de cookies incorretos são:
 
-- [UTMs](https://help.vtex.com/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) criados em sua loja ou em campanhas de publicidade do Google, Facebook, entre outros, que possuam caracteres acentuados. Exemplo de UTM utilizado em data comemorativa: `www.site.com?utm_source=dia-das-mães`.
+- [UTMs](/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) criados em sua loja ou em campanhas de publicidade do Google, Facebook, entre outros, que possuam caracteres acentuados. Exemplo de UTM utilizado em data comemorativa: `www.site.com?utm_source=dia-das-mães`.
 - Javascripts customizados, onde implementações de front-end utilizadas para armazenar dados ou outro tipo de função podem conter caracteres especiais.
 - Scripts de clientes parceiros que criam cookies com caracteres especiais.
 
@@ -84,4 +84,6 @@ Se desejar, você também pode incluir no script as seguintes funções:
 - Expirar automaticamente os cookies contendo caracteres especiais
 - Acionar o recarregamento da página por meio da função `window.location.reload()`  
 
->⚠️ A remoção dos cookies via script não é uma solução definitiva. Conforme descrito na seção **Desabilitando cookies com caracteres especiais**, é necessário identificar a origem e interromper o processo de envio de cookies com caracteres especiais.
+<div class="alert alert-warning">
+  A remoção dos cookies via script não é uma solução definitiva. Conforme descrito na seção <b>Desabilitando cookies com caracteres especiais</b>, é necessário identificar a origem e interromper o processo de envio de cookies com caracteres especiais.
+</div>

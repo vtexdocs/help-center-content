@@ -1,5 +1,5 @@
 ---
-title: 'El cambio de accesorios no provoca la indexación'
+title: "El cambio de accesorios no provoca la indexación"
 id: 5asLRh4ChyuSEg1mRwWbgT
 status: PUBLISHED
 createdAt: 2024-05-22T18:30:14.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: changing-accessories-is-not-triggering-indexation
+slugEN: el-cambio-de-accesorios-no-provoca-la-indexacion
 locale: es
 kiStatus: Backlog
 internalReference: 1037800
@@ -18,7 +18,9 @@ internalReference: 1037800
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el comerciante realiza cambios o añade nuevos accesorios a la sku, el indexador no se activa automáticamente.

@@ -15,11 +15,13 @@ legacySlug: vtex-do-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para que el equipo de _ecommerce_ de tu tienda las realice manualmente. Para acceder a VTEX DO, en el menú del Admin VTEX, ve a **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y haz clic en el ícono de bandeja de entrada, ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda.
+VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para que el equipo de _ecommerce_ de tu tienda las realice manualmente. Para acceder a VTEX DO, en el menú del Admin VTEX, ve a **Pedidos > [Todos los pedidos](/es/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y haz clic en el ícono de bandeja de entrada, ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda.
 
 ![VTEX Do overview ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/vtex-do-interface_1.gif)
 
->ℹ️ Solo los usuarios con el perfil de acceso <a href = "https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> pueden realizar tareas a través de VTEX DO.
+<div class = "alert alert-info">
+Solo los usuarios con el perfil de acceso <a href = "https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> pueden realizar tareas a través de VTEX DO.
+</div>
 
 Las tareas aparecen en dos pestañas:
 - **Todas:** todas las tareas vinculadas a los pedidos de la cuenta de la tienda.

@@ -1,5 +1,5 @@
 ---
-title: 'Shipping calculation on product page displays pickup point ID'
+title: "Shipping calculation on product page displays pickup point ID"
 id: 4NJrWgCGXSKe2aKWo4UYUY
 status: PUBLISHED
 createdAt: 2018-06-01T12:59:25.406Z

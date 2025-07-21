@@ -1,5 +1,5 @@
 ---
-title: 'Payment methods displayed at checkout differ from active payment conditions'
+title: "Payment methods displayed at checkout differ from active payment conditions"
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z

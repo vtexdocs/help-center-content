@@ -1,5 +1,5 @@
 ---
-title: 'Exportação do filtro de marca Selecionando menos SKUs do que o esperado'
+title: "Exportação do filtro de marca Selecionando menos SKUs do que o esperado"
 id: ZceuBTJ3FOCuWdDBRectO
 status: PUBLISHED
 createdAt: 2022-06-13T14:28:10.704Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: brand-filter-export-selecting-fewer-skus-than-expected
+slugEN: exportacao-do-filtro-de-marca-selecionando-menos-skus-do-que-o-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 597038
@@ -18,7 +18,9 @@ internalReference: 597038
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

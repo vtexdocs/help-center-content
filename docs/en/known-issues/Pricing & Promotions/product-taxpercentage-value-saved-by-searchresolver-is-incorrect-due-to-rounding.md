@@ -1,5 +1,5 @@
 ---
-title: 'Product taxPercentage value saved by search-resolver is incorrect due to rounding'
+title: "Product taxPercentage value saved by search-resolver is incorrect due to rounding"
 id: 5zalMbGTuKaxpepVEdW3Dt
 status: PUBLISHED
 createdAt: 2022-03-21T17:38:14.386Z

@@ -19,7 +19,7 @@ SmartCheckout™ V5 allows purchase without VTEX login and password (one-click-b
 
 ### Iframe for the card payments
 
-Payment with credit card, debit card and private label (type of card issued by the retailer and only accepted within your network of stores) is now isolated inside an iframe, which makes it impossible to customize JavaScript, increasing the security of your store. For more information about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Payment with credit card, debit card and private label (type of card issued by the retailer and only accepted within your network of stores) is now isolated inside an iframe, which makes it impossible to customize JavaScript, increasing the security of your store. For more information about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 Note that, besides the fact of being inside an iframe, it's still possible to apply CSS on the field. But you must pay attention to the CSS selector you're using: It needs to start with elements that are inside `#app-container .App` and without i.e. `#payment-data` or `.payment-group`, that are outside the iframe.
 
@@ -53,7 +53,9 @@ You can use the files `checkout5-custom.js` and `orderplaced2-custom.js` in o
 4. In the __Files__ menu, located on the right side of the page, click on the ones you want to make adjustments to the code.
 5. Click the `Save` button.
 
->⚠️ Customizing JavaScript files can damage your Checkout. VTEX **does not recommend** customizations and doesn't take responsibility for any damage caused by this code.
+<div class="alert alert-warning">
+  Customizing JavaScript files can damage your Checkout. VTEX <b>does not recommend</b> customizations and doesn't take responsibility for any damage caused by this code.
+</div>
 
 __IMPORTANT:__ Do not use these files to insert marketing and integration tags. In case you need them, do so through Google Tag Manager.
 

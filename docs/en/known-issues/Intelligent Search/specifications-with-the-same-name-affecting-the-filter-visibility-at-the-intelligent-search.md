@@ -1,5 +1,5 @@
 ---
-title: 'Specifications with the same name affecting the filter visibility at the Intelligent Search'
+title: "Specifications with the same name affecting the filter visibility at the Intelligent Search"
 id: 2ez8tdBqUE03nTejbMLSFp
 status: PUBLISHED
 createdAt: 2024-08-09T00:01:34.212Z

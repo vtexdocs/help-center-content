@@ -1,5 +1,5 @@
 ---
-title: 'The ClearSale antifraud connector is sending the wrong cart items in cases where two or more items share the same name.'
+title: "The ClearSale antifraud connector is sending the wrong cart items in cases where two or more items share the same name."
 id: 1OSID8MeL6DxaM3urR7CHj
 status: PUBLISHED
 createdAt: 2023-04-28T12:21:24.524Z

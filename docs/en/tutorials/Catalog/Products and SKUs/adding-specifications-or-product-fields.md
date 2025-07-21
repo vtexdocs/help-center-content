@@ -15,9 +15,9 @@ legacySlug: creating-a-product-field
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-When adding a product, you can use the [specification](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) field to include characteristics applicable to all its variations (SKUs).
+When adding a product, you can use the [specification](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) field to include characteristics applicable to all its variations (SKUs).
 
-At VTEX, a specification is always included in a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create a product specification (field), you must first create at least one category and one specification group.
+At VTEX, a specification is always included in a [specification group](/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create a product specification (field), you must first create at least one category and one specification group.
 
 Example: Consider a fashion store. In the **T-shirts** category, the specification group can be named **Characteristics** and include the **Fabric** field and its values, **Cotton **and **Polyester**.
 
@@ -33,7 +33,9 @@ In this article, we explain how the specification inheritance works for the adde
         * [Product registration](#product-registration)
         * [Spreadsheet](#spreadsheet)
 
->ℹ️ To create a product specification using **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
+<div class = "alert alert-info">
+  <p>To create a product specification using <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
+</div>
 
 ## Product specifications inheritance
 
@@ -47,7 +49,7 @@ Since this is a product specification, the information selected on that page wil
 
 ## Step-by-step instructions on VTEX Admin
 
-To see product specifications while creating or editing products, besides having previously created a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the fields and fill in their values. Next, you will be able to fill in your product specifications.
+To see product specifications while creating or editing products, besides having previously created a [specification group](/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the fields and fill in their values. Next, you will be able to fill in your product specifications.
 
 See the step-by-step instructions below.
 
@@ -69,7 +71,7 @@ To create a product field, follow the steps below:
     * **Text**: Field description.
     * **Type**: Field type, which can vary between **Text**, **Large Text**, **Number**, **Combo**, **Radio**, **CheckBox**, **Indexed Text** and **Large Indexed Text**. For more information on each option, read the [Field types](#product-field-types) section.
     * **Default Value**: Value already defined when creating the field.
-    * **Group**: Name of the previously created [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246) in which the field will be included.
+    * **Group**: Name of the previously created [specification group](/en/tutorial/creating-category-groups--tutorials_246) in which the field will be included.
     * **Filter**: Defines if the specification will be used as a filter when navigating the website.
     * **Required**: Defines if a value is mandatory when adding a product. In the case of a required field, the product will be activated only after filling in this specification.
     * **Show specification**: Defines if the field is displayed on the product details page in the **Specifications** tab.
@@ -146,7 +148,9 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
 ![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-specifications-or-product-fields_3.gif)
 
->ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
+<div class = "alert alert-info">
+  <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
+</div>
 
 #### Accessing or editing values
 
@@ -210,5 +214,5 @@ To fill in product specifications in bulk by spreadsheet, you need to export the
 ![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-specifications-or-product-fields_5.gif)
 
 ## Learn more
-- [Adding SKU specifications or fields](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)
-- [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Adding SKU specifications or fields](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)
+- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

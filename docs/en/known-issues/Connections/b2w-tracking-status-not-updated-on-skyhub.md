@@ -1,5 +1,5 @@
 ---
-title: '[B2W] Tracking status not updated on Skyhub'
+title: "[B2W] Tracking status not updated on Skyhub"
 id: 3TKWSVwPPYyoqkKWtNUCb3
 status: PUBLISHED
 createdAt: 2022-10-06T19:23:32.891Z

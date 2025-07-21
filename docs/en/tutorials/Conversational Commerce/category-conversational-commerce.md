@@ -3,7 +3,7 @@ title: 'Conversational Commerce'
 id: category-conversational-commerce
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Shopping
 slugEN: category-conversational-commerce
@@ -50,9 +50,4 @@ locale: en
 - [Wix](https://help.vtex.com/en/docs/tutorials/wix-suiteshare)
 - [Active Campaign](https://help.vtex.com/en/docs/tutorials/active-campaign-suiteshare)
 - [Meta Tags](https://help.vtex.com/en/docs/tutorials/meta-tags-suiteshare)
-
-## WhatsApp AI Campaigns
-
-- [Recovering abandoned checkouts with WhatsApp AI Campaigns](https://help.vtex.com/en/docs/tutorials/recovering-abandoned-checkouts-with-whatsapp-ai-campaigns)
-- [WhatsApp AI Campaigns management and details](https://help.vtex.com/en/docs/tutorials/whatsapp-ai-campaigns-management-and-details)
 

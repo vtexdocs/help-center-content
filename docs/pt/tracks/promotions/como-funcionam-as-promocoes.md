@@ -3,8 +3,8 @@ title: 'Como funcionam as promoções'
 id: 2a2D0K85Ahvs4hLnL3Ag7N
 status: PUBLISHED
 createdAt: 2019-11-27T13:19:58.758Z
-updatedAt: 2020-02-14T16:17:30.202Z
-publishedAt: 2020-02-14T16:17:30.202Z
+updatedAt: 2025-05-09T16:54:00.581Z
+publishedAt: 2025-05-09T16:54:00.581Z
 firstPublishedAt: 2019-12-10T19:17:50.250Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -35,3 +35,8 @@ Além disso, há 6 tipos diferentes de promoções, cada uma atendendo a um cen�
 Mais à frente nesta trilha vamos aprender a configurar cada um desses tipos de promoção.
 
 Além disso, para todas as promoções é possível definir período de validade, além de restrições e limitações de uso.
+
+<div class = "alert alert-info">
+O módulo de promoções permite até 100 promoções ativas por vez. Cada promoção pode incluir até 100 SKUs.
+No entanto, é possível aplicar promoções a coleções ou categorias que contenham mais de 100 SKUs.
+</div>

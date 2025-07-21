@@ -15,13 +15,15 @@ legacySlug: simulador-de-promocoes-beta
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
->⚠️ Os usuários devem possuir um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com autorização para acessar o módulo **Promoções **no Admin VTEX para utilizar o **Simulador de promoções**.
+<div class="alert alert-warning">
+  <p>Os usuários devem possuir um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> com autorização para acessar o módulo <strong>Promoções </strong>no Admin VTEX para utilizar o <strong>Simulador de promoções</strong>.</p>
+</div>
 
 O **Simulador de promoções** é uma ferramenta que permite visualizar as promoções criadas na sua loja VTEX que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
 
-Com múltiplas possibilidades de configuração de promoções, o simulador possibilita ter visibilidade da [concorrência](https://help.vtex.com/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
+Com múltiplas possibilidades de configuração de promoções, o simulador possibilita ter visibilidade da [concorrência](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
 
-O **Simulador de promoções** está disponível para todas as lojas VTEX pelo [Cartman](https://help.vtex.com/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451), ferramenta para lojistas na etapa do checkout. Para acessar o simulador, siga os passos abaixo:
+O **Simulador de promoções** está disponível para todas as lojas VTEX pelo [Cartman](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451), ferramenta para lojistas na etapa do checkout. Para acessar o simulador, siga os passos abaixo:
 
 1. Na barra superior do Admin VTEX, clique no botão `Pré-visualizar` para abrir a página de acesso restrito da sua loja.
 
@@ -45,7 +47,9 @@ A interface do **Simulador de promoções** apresenta as seguintes informações
 | **Total** | Preço total que será cobrado pelo produto, considerando descontos da promoção e quantidade de itens. |
 | **Desconto** | Status do desconto no carrinho, que pode ser `Aplicado` ou `Não aplicado`. O status `Aplicado` indica que ao menos uma promoção foi aplicada ao produto. |
 
->ℹ️ Envie um feedback sobre sua experiência utilizando o **Simulador de promoções** a partir do botão de megafone <i class="fas fa-megaphone"></i> no canto direito da tela.
+<div class="alert alert-info">
+  <p>Envie um feedback sobre sua experiência utilizando o **Simulador de promoções** a partir do botão de megafone <i class="fas fa-megaphone"></i> no canto direito da tela.</p>
+</div>
 
 ### Atualizar simulador
 
@@ -53,7 +57,7 @@ Se precisar adicionar ou remover itens do carrinho, você pode manter a janela d
 
 ### Buscar e filtrar promoções
 
-A ferramenta apresenta uma barra de busca para encontrar promoções pelo nome do produto ou nome da promoção. Além disso, você pode filtrar as promoções por **Tipo de promoção** ([Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322) ou [Promoção de Campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)) e **Desconto** (Aplicado ou Não aplicado).
+A ferramenta apresenta uma barra de busca para encontrar promoções pelo nome do produto ou nome da promoção. Além disso, você pode filtrar as promoções por **Tipo de promoção** ([Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322) ou [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)) e **Desconto** (Aplicado ou Não aplicado).
 
 ### Ver detalhes das promoções aplicadas
 
@@ -68,14 +72,14 @@ Para editar uma promoção, siga os passos abaixo:
 
    Você será redirecionado(a) ao formulário da promoção.
 
-3. Edite os [campos da promoção](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#quais-os-dados-gerais-desta-promocao).
+3. Edite os [campos da promoção](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#quais-os-dados-gerais-desta-promocao).
 4. Ao concluir as alterações, clique no botão `Salvar`.
 
 ### Simular promoções
 
 O **Simulador de promoções** possibilita testar a aplicação de uma outra promoção ou simular o que aconteceria ao desativar promoções aplicadas. Para isso, clique no botão `Selecionar promoções`, no topo direito da página, conforme ilustrado na imagem abaixo.
 
-![ui-Simulator-promo-pt-gif-2](//images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/6bc4e0a9ee37002a0d265d57a156bff6/ui-simulador-promo-pt-230706.gif)
+![ui-Simulator-promo-pt-gif-2](https://images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/6bc4e0a9ee37002a0d265d57a156bff6/ui-simulador-promo-pt-230706.gif)
 
 Para fazer uma simulação, siga as instruções abaixo:
 
@@ -88,10 +92,12 @@ Para fazer uma simulação, siga as instruções abaixo:
 
     Você verá o resultado da simulação a partir das promoções selecionadas. Para visualizar se as promoções testadas foram aplicadas aos itens do carrinho na simulação, observe o status da coluna **Desconto** ou clique no produto.
 
->ℹ️ É possível aplicar promoções em produtos que já possuem uma promoção ativa. Apesar do conflito entre elas, o sistema VTEX sempre seleciona a promoção mais benéfica para os clientes da sua loja, considerando o preço total dos itens ou frete.
+<div class="alert alert-info">
+  <p>É possível aplicar promoções em produtos que já possuem uma promoção ativa. Apesar do conflito entre elas, o sistema VTEX sempre seleciona a promoção mais benéfica para os clientes da sua loja, considerando o preço total dos itens ou frete.</p>
+</div>
 
 ### Saiba mais
 
-* [Como funcionam as promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
-* [Promoções para cenários específicos](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
-* [Configurar o Cartman](https://help.vtex.com/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451)
+* [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+* [Promoções para cenários específicos](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+* [Configurar o Cartman](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451)

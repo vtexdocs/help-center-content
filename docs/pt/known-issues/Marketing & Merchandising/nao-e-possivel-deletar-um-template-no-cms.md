@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível deletar um template no CMS'
+title: "Não é possível deletar um template no CMS"
 id: 2mYdWzEDh7dk4t0SnSEoCn
 status: PUBLISHED
 createdAt: 2021-09-29T18:19:17.160Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: unable-to-delete-templates-on-legacy-cms
+slugEN: nao-e-possivel-deletar-um-template-no-cms
 locale: pt
 kiStatus: Backlog
 internalReference: 

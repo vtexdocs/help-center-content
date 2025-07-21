@@ -1,5 +1,5 @@
 ---
-title: 'Atraso no registro CancelReason na ordem json'
+title: "Atraso no registro CancelReason na ordem json"
 id: 3n8i3EHJO9wPTEKDbaWbo2
 status: PUBLISHED
 createdAt: 2023-04-18T17:20:25.088Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: delay-to-register-cancelreason-in-the-order-json
+slugEN: atraso-no-registro-cancelreason-na-ordem-json
 locale: pt
 kiStatus: Backlog
 internalReference: 792650
@@ -18,7 +18,9 @@ internalReference: 792650
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido à forma como o fluxo de atualização do pedido é executado de qualquer status a ser cancelado, é possível que o sistema de Pedido demore um pouco para registrar o CancelReason na ordem json, causando um breve cenário de inconsistência se o Json for consultado ou usado alguns segundos após a ação de cancelamento;

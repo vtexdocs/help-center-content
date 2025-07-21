@@ -1,5 +1,5 @@
 ---
-title: 'El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web'
+title: "El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web"
 id: 577r3i32P5Yv9QIfVR5AYP
 status: PUBLISHED
 createdAt: 2021-02-22T20:44:52.444Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: let-me-know-email-is-sent-even-when-the-product-is-not-available-for-the-websites-trade-policy
+slugEN: el-email-avisame-se-envia-incluso-cuando-el-producto-no-esta-disponible-para-la-politica-comercial-del-sitio-web
 locale: es
 kiStatus: Backlog
 internalReference: 

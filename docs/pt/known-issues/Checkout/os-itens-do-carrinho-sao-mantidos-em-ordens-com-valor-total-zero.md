@@ -1,5 +1,5 @@
 ---
-title: 'Os Itens do carrinho são mantidos em ordens com valor total zero'
+title: "Os Itens do carrinho são mantidos em ordens com valor total zero"
 id: 66D6RuacgCeCMQDmLPrlNP
 status: PUBLISHED
 createdAt: 2024-06-24T20:59:07.721Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-itens-are-kept-in-orders-with-total-value-zero
+slugEN: os-itens-do-carrinho-sao-mantidos-em-ordens-com-valor-total-zero
 locale: pt
 kiStatus: Backlog
 internalReference: 1054999
@@ -18,7 +18,9 @@ internalReference: 1054999
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Sempre que um carrinho tiver um valor total de "0", nenhuma transação será criada ao finalizar um pedido.  Ao concluir um pedido por meio da interface do usuário do checkout, não ocorre nenhuma solicitação de processamento de pedido, portanto, os itens e os dados do carrinho são mantidos e o comprador pode criar um pedido com o mesmo carrinho novamente.

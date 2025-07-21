@@ -27,9 +27,10 @@ This self-service experience is possible, thanks to API integration with the ERP
 - **ERP order number:** identification number of the order placed through the store ERP.
 - **My order:** identification number associated with the customer who made the purchase.
 
->⚠️ This app is only available for stores developed using 
->     [VTEX IO](https://vtex.com/br-pt/store-framework/).
-> Before proceeding, you need to <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">install and configure B2B orders</a> on your store.
+<div class = "alert alert-warning" >
+  <p>This app is only available for stores developed using 
+    <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>.</p><p>Before proceeding, you need to <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">install and configure B2B orders</a> on your store.</p>
+</div>
 
 ## Context
 

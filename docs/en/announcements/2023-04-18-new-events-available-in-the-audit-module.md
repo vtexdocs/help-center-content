@@ -15,11 +15,11 @@ announcementImageID: ''
 announcementSynopsisEN: 'Audit is making available new events related to the VTEX ID, License manager, and Pricing modules.'
 ---
 
-[Audit](https://help.vtex.com/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) is a module that tracks events happening in your VTEX store, enabling future auditing. VTEX has improved Audit, which now tracks a broader range of events.
+[Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) is a module that tracks events happening in your VTEX store, enabling future auditing. VTEX has improved Audit, which now tracks a broader range of events.
 
 ## What has changed?
 
-VTEX has added the following events to the [list of events available in Audit](https://help.vtex.com/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ):
+VTEX has added the following events to the [list of events available in Audit](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ):
 
 ### VTEX ID
 
@@ -228,7 +228,9 @@ VTEX has added the following events to the [list of events available in Audit](h
   </tr>
 </table>
 
->ℹ️ See the [full list of events available in Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+<div class = "alert alert-info">
+See the <a href="https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ">full list of events available in Audit</a>.
+</div>
 
 ## What needs to be done?
 

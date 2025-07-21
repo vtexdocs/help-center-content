@@ -1,5 +1,5 @@
 ---
-title: 'Entradas duplicadas para categorías/valores de especificación en el mismo nivel'
+title: "Entradas duplicadas para categorías/valores de especificación en el mismo nivel"
 id: IoWI8yx1cabm4bWhSU4Ek
 status: PUBLISHED
 createdAt: 2022-04-18T18:53:37.507Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: duplicated-entries-for-categoriesspecification-values-on-the-same-level
+slugEN: entradas-duplicadas-para-categoriasvalores-de-especificacion-en-el-mismo-nivel
 locale: es
 kiStatus: No Fix
 internalReference: 562588
@@ -18,7 +18,9 @@ internalReference: 562588
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'CatalogV2 Funções do usuário que não se aplicam'
+title: "CatalogV2 Funções do usuário que não se aplicam"
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalogv2-user-roles-not-applying
+slugEN: catalogv2-funcoes-do-usuario-que-nao-se-aplicam
 locale: pt
 kiStatus: No Fix
 internalReference: 489297
@@ -18,7 +18,9 @@ internalReference: 489297
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Atualmente, a IU do usuário para a aplicação CatalogV2 não está aplicando corretamente as permissões de controle de acesso quando um usuário está utilizando a IU para criar/ler/atualizar produtos.
 

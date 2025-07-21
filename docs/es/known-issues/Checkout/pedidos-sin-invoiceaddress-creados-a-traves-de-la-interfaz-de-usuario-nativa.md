@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos sin invoiceAddress creados a través de la interfaz de usuario nativa'
+title: "Pedidos sin invoiceAddress creados a través de la interfaz de usuario nativa"
 id: 1XjNZhcTJ5rZJP4w3kJtcW
 status: PUBLISHED
 createdAt: 2022-01-24T20:21:07.893Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orders-without-invoiceaddress-created-through-native-ui
+slugEN: pedidos-sin-invoiceaddress-creados-a-traves-de-la-interfaz-de-usuario-nativa
 locale: es
 kiStatus: Fixed
 internalReference: 306140
@@ -18,7 +18,9 @@ internalReference: 306140
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

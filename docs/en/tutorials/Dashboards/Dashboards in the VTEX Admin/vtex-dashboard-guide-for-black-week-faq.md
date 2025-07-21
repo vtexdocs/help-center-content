@@ -47,9 +47,9 @@ To configure the reference filter, follow these steps:
 3. Set a date.  
 4. Click `Apply`.  
 
->⚠️ A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. 
->
-> This option is available for clients who were already using the VTEX platform during that period last year.</br>
+<div class="alert alert-warning">
+A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. <br>This option is available for clients who were already using the VTEX platform during that period last year.</br>
+</div>
 
 ![reference-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vtex-dashboard-guide-for-black-week-faq_2.png)
 
@@ -73,7 +73,9 @@ To view the best-selling products, in the **Metrics** section click the <i class
 
 ![best-selling-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vtex-dashboard-guide-for-black-week-faq_5.png)
 
->⚠️ For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
+<div class="alert alert-warning">
+For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
+  </div>
 
 ## How can I track my ecommerce data beyond today?  
 
@@ -139,9 +141,9 @@ There are several reasons why metrics in the real-time Overview might differ fro
 
 To see the data from all stores, use the Sales Performance page, which shows aggregated data with an approximate refresh rate of 90 minutes.  
 
->❗ If your operation uses more than one currency, the **Overview dashboard** will sum your orders in the currency that is most used in your sales. 
->
-> To make a comparison with the **Orders** page, you need to sum the order total from all your currencies.</br>
+<div class="alert alert-danger">
+  If your operation uses more than one currency, the <b>Overview dashboard</b> will sum your orders in the currency that is most used in your sales. <br>To make a comparison with the <b>Orders</b> page, you need to sum the order total from all your currencies.</br>
+  </div>
 
 ![all-orders-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vtex-dashboard-guide-for-black-week-faq_13.png)  
 

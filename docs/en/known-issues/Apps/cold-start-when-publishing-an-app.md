@@ -1,5 +1,5 @@
 ---
-title: 'Cold start when publishing an app'
+title: "Cold start when publishing an app"
 id: 556RKKBALrZk5bxwwflhr4
 status: PUBLISHED
 createdAt: 2024-08-29T13:26:21.683Z

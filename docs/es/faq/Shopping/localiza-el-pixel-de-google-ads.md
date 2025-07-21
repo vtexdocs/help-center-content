@@ -14,4 +14,6 @@ locale: es
 legacySlug: localiza-el-pixel-de-google-ads
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en portugués.</p>
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Vale não pode ser configurado para uso restrito no caso de CNPJ'
+title: "Vale não pode ser configurado para uso restrito no caso de CNPJ"
 id: 4k3FdaYP3WUqYsAeUSGY22
 status: PUBLISHED
 createdAt: 2017-04-11T21:26:42.491Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Portal (CMS)
-slugEN: voucher-cannot-be-configured-for-restricted-use-in-the-case-of-a-cnpj
+slugEN: vale-nao-pode-ser-configurado-restrito-cnpj
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: "The term 'Access Profile' has been replaced by the term 'Role' in your Admin UI"
+title: 'The term "Access Profile" has been replaced by the term "Role" in your Admin UI'
 id: jSmEYL6oN5QFLA20a8Aj9
 status: PUBLISHED
 createdAt: 2021-03-23T14:02:18.054Z

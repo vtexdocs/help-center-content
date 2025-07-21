@@ -1,5 +1,5 @@
 ---
-title: 'El sitemap no se genera/actualiza'
+title: "El sitemap no se genera/actualiza"
 id: 1tJ4XHtbnFsfS30JWXwxb0
 status: PUBLISHED
 createdAt: 2023-05-17T13:58:46.443Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sitemap-isnt-being-generatedupdated
+slugEN: el-sitemap-no-se-generaactualiza
 locale: es
 kiStatus: Fixed
 internalReference: 827104
@@ -18,7 +18,9 @@ internalReference: 827104
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

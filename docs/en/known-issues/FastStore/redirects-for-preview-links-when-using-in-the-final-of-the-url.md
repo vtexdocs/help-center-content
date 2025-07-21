@@ -1,5 +1,5 @@
 ---
-title: 'Redirects for preview links when using / in the final of the URL'
+title: "Redirects for preview links when using / in the final of the URL"
 id: 7mO7pEA0DMclbWy2pPPUkd
 status: PUBLISHED
 createdAt: 2023-10-27T19:00:01.248Z

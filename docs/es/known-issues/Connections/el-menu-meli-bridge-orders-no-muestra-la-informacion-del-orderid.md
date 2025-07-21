@@ -1,5 +1,5 @@
 ---
-title: 'El menú MELI Bridge Orders no muestra la información del OrderID'
+title: "El menú MELI Bridge Orders no muestra la información del OrderID"
 id: ZBc9ny043rVpYFqkZIQ1K
 status: PUBLISHED
 createdAt: 2023-08-16T10:46:52.015Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-bridge-orders-menu-not-showing-the-orderid-information
+slugEN: el-menu-meli-bridge-orders-no-muestra-la-informacion-del-orderid
 locale: es
 kiStatus: Fixed
 internalReference: 881733
@@ -18,7 +18,9 @@ internalReference: 881733
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

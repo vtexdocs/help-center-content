@@ -1,5 +1,5 @@
 ---
-title: 'O campo de código fiscal XML do Catalog Integration não está sendo renderizado'
+title: "O campo de código fiscal XML do Catalog Integration não está sendo renderizado"
 id: 19Ubw33gsHcyIeMUQA3LGh
 status: PUBLISHED
 createdAt: 2024-05-10T14:28:22.117Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-integration-xml-fiscal-code-field-not-rendering
+slugEN: o-campo-de-codigo-fiscal-xml-do-catalog-integration-nao-esta-sendo-renderizado
 locale: pt
 kiStatus: Backlog
 internalReference: 1031109
@@ -18,7 +18,9 @@ internalReference: 1031109
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a configuração XML do catálogo para o campo de código fiscal não está gerando os resultados esperados, pois sempre retorna um <![CDATA[]]>

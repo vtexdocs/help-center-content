@@ -1,5 +1,5 @@
 ---
-title: 'Some Inventory Management features not working properly on seller portal accounts'
+title: "Some Inventory Management features not working properly on seller portal accounts"
 id: uJ4qws662c8pUnyfOV1fV
 status: PUBLISHED
 createdAt: 2024-03-18T17:54:20.400Z

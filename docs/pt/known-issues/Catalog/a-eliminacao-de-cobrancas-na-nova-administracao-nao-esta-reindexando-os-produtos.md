@@ -1,5 +1,5 @@
 ---
-title: 'A eliminação de cobranças na nova administração não está reindexando os produtos'
+title: "A eliminação de cobranças na nova administração não está reindexando os produtos"
 id: 33abWd1ApVTwPKdaxqgKPm
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:28.134Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: deleting-collections-on-the-new-admin-is-not-reindexing-the-products
+slugEN: a-eliminacao-de-cobrancas-na-nova-administracao-nao-esta-reindexando-os-produtos
 locale: pt
 kiStatus: Backlog
 internalReference: 490740
@@ -18,7 +18,9 @@ internalReference: 490740
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, se você tiver uma coleção criada inteiramente ou na nova/legacy (CMS) Collections admin, eliminando-a via UI não reindexará os produtos nela contidos, conseqüentemente não os removerá efetivamente da coleção.

@@ -1,5 +1,5 @@
 ---
-title: 'parcelamentoOpções do pedidoO formulário API não leva em conta promoções de parcelas específicas'
+title: "parcelamentoOpções do pedidoO formulário API não leva em conta promoções de parcelas específicas"
 id: YgwSByoCsjqEmWOmuXRU4
 status: PUBLISHED
 createdAt: 2022-08-24T15:53:17.291Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: installmentoptions-from-orderform-api-doesnt-take-into-account-specific-installment-promotions
+slugEN: parcelamentoopcoes-do-pedidoo-formulario-api-nao-leva-em-conta-promocoes-de-parcelas-especificas
 locale: pt
 kiStatus: No Fix
 internalReference: 644563
@@ -18,7 +18,9 @@ internalReference: 644563
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma promoção é restrita a uma quantidade específica de parcelas de cartão de crédito (por exemplo, "10% em dinheiro"), o valor descontado é aplicado mesmo para parcelas fora da faixa limitada, onde o objeto "parcelamentoOptions" do OrderForm API retornará valores errados.

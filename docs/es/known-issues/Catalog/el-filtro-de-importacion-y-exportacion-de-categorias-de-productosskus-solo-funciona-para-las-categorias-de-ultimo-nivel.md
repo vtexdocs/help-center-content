@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de importación y exportación de categorías de productos/skus sólo funciona para las categorías de último nivel'
+title: "El filtro de importación y exportación de categorías de productos/skus sólo funciona para las categorías de último nivel"
 id: i7KO2Nw3puiniVTRbDJok
 status: PUBLISHED
 createdAt: 2022-03-25T17:49:45.769Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: import-and-export-productskus-category-filter-only-works-for-last-level-categories
+slugEN: el-filtro-de-importacion-y-exportacion-de-categorias-de-productosskus-solo-funciona-para-las-categorias-de-ultimo-nivel
 locale: es
 kiStatus: Fixed
 internalReference: 550313
@@ -18,7 +18,9 @@ internalReference: 550313
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para reducir la cantidad de skus exportados en la hoja de cálculo Producto/Skus el cliente puede utilizar los filtros.

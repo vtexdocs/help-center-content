@@ -1,5 +1,5 @@
 ---
-title: 'As configurações do CMS não permitem retirar valor do campo Unidade de Massa'
+title: "As configurações do CMS não permitem retirar valor do campo Unidade de Massa"
 id: QVmSN1VuGQUiklZDkarEI
 status: PUBLISHED
 createdAt: 2022-03-11T13:49:28.490Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: cms-settings-does-not-allow-removing-value-from-the-unit-of-mass-field
+slugEN: as-configuracoes-do-cms-nao-permitem-retirar-valor-do-campo-unidade-de-massa
 locale: pt
 kiStatus: No Fix
 internalReference: 540756
@@ -18,7 +18,9 @@ internalReference: 540756
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando você insere um valor no campo Unidade de massa nas configurações do CMS, o sistema não permite que o valor seja removido pela IU

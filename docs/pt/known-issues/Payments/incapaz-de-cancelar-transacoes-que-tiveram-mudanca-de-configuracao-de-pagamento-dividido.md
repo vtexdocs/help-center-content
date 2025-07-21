@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de cancelar transações que tiveram mudança de configuração de pagamento dividido'
+title: "Incapaz de cancelar transações que tiveram mudança de configuração de pagamento dividido"
 id: 2bhsI5119DLOhNjk2cb6q
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:10.992Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: unable-to-cancel-transactions-that-had-payout-split-config-change
+slugEN: incapaz-de-cancelar-transacoes-que-tiveram-mudanca-de-configuracao-de-pagamento-dividido
 locale: pt
 kiStatus: No Fix
 internalReference: 364382
@@ -18,7 +18,9 @@ internalReference: 364382
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há uma mudança na configuração, adicionando a divisão do pagamento, e isto faz com que novas transações tenham informações que antes não estavam disponíveis e agora serão utilizadas na operação de cancelamento, o que faz com que as transações criadas antes desta configuração não sejam canceladas.

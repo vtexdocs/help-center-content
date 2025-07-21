@@ -1,5 +1,5 @@
 ---
-title: 'Questões do menu dobrável que rendem todos os itens'
+title: "Questões do menu dobrável que rendem todos os itens"
 id: 1iOlmwj8DvaxCQCmvyHQww
 status: PUBLISHED
 createdAt: 2022-05-23T19:39:49.204Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: collapsible-menu-issues-rendering-all-the-items
+slugEN: questoes-do-menu-dobravel-que-rendem-todos-os-itens
 locale: pt
 kiStatus: No Fix
 internalReference: 542091
@@ -18,7 +18,9 @@ internalReference: 542091
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, ao usar um submenu dobrável que tem muitos itens do tamanho do menu pode travar e com ele não exibir todos os itens dentro. Isto acontece devido a um valor calculado que define a altura do menu.

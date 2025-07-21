@@ -1,5 +1,5 @@
 ---
-title: 'Brands with some special characters are not searchable on the brand admin'
+title: "Brands with some special characters are not searchable on the brand admin"
 id: 296otMWGge4c2LJMvVhKEr
 status: PUBLISHED
 createdAt: 2024-01-04T13:57:15.861Z

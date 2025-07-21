@@ -1,10 +1,10 @@
 ---
-title: "Legacy Catalog UI 'delete' button not functional"
+title: 'Legacy Catalog UI "delete" button not functional'
 id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
 createdAt: 2022-01-23T02:51:17.884Z
-updatedAt: 2024-05-21T16:03:51.417Z
-publishedAt: 2024-05-21T16:03:51.417Z
+updatedAt: 2025-07-16T12:54:26.955Z
+publishedAt: 2025-07-16T12:54:26.955Z
 firstPublishedAt: 2024-05-21T16:03:51.417Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: legacy-catalog-ui-delete-button-not-functional
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 326408
 ---
 

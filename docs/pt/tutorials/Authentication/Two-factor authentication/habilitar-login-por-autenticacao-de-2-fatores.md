@@ -21,17 +21,13 @@ Isto porque, no momento do login, além de exigir o e-mail e a senha, o sistema 
 
 Como essa chave é gerada no momento do login e tem prazo de validade curto, torna-se quase impossível que alguém entre em sua loja usando seus dados sem autorização. Sem o 2FA, basta que alguém saiba seu e-mail e sua senha para ter amplo acesso à conta da sua loja.
 
->❗ A autenticação de dois fatores (2FA) é **obrigatória** no Admin da VTEX
->
-> 
->
-> Sem 2FA, não é possível fazer login usando email e senha.
->
-> 
->
-> O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
+<div class="alert alert-danger">
+A autenticação de dois fatores (2FA) é <strong>obrigatória</strong> no Admin da VTEX<br><br>Sem 2FA, não é possível fazer login usando email e senha.<br><br>O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
+</div>
 
->ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
+<div class="alert alert-info">
+Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator">perfil de acesso de televendas</a> não são obrigados a habilitar autenticação de dois fatores.
+</div>
 
 ## Habilitar o 2FA
 
@@ -44,9 +40,10 @@ Há duas opções de autenticação:
 
 ![2FA - Select - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Two-factor%20authentication/habilitar-login-por-autenticacao-de-2-fatores_1.png)
 
->❗ Recomendamos fortemente que você **escolha a opção de autenticação por aplicativo**, uma vez que a autenticação por SMS depende do funcionamento da operadora de telefonia. Pelo aplicativo, a chave de acesso estará sempre à disposição quando for necessária.
->
-> Se você configurou o 2FA por SMS e o código está demorando a chegar, provavelmente a causa do problema está na operadora de telefone. Opte por [habilitar o 2FA por aplicativo](#habilitar-o-2fa-por-aplicativo).
+<div class="alert alert-danger">
+ <p>Recomendamos fortemente que você <strong>escolha a opção de autenticação por aplicativo</strong>, uma vez que a autenticação por SMS depende do funcionamento da operadora de telefonia. Pelo aplicativo, a chave de acesso estará sempre à disposição quando for necessária.</p>
+ <p>Se você configurou o 2FA por SMS e o código está demorando a chegar, provavelmente a causa do problema está na operadora de telefone. Opte por <a href="#habilitar-o-2fa-por-aplicativo">habilitar o 2FA por aplicativo</a>.</p>
+</div>
 
 ### Habilitar o 2FA por aplicativo
 
@@ -59,7 +56,9 @@ Para usar uma chave gerada por aplicativo de autenticação, siga os passos abai
 3. Insira o código exibido no aplicativo para concluir seu login. O código do app é atualizado periodicamente. Consulte-o sempre que necessário.
   ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Two-factor%20authentication/habilitar-login-por-autenticacao-de-2-fatores_4.png)
 
->ℹ️ Se você fizer login usando email e senha no mesmo computador, a chave de acesso será solicitada **a cada 3 dias**. Quando isso acontecer, consulte o código no aplicativo.
+<div class="alert alert-info">
+Se você fizer login usando email e senha no mesmo computador, a chave de acesso será solicitada <strong>a cada 3 dias</strong>. Quando isso acontecer, consulte o código no aplicativo.
+</div>
 
 ### Habilitar o 2FA por SMS
 
@@ -73,7 +72,9 @@ Para usar uma chave enviada por mensagem de texto, siga os passos abaixo:
 
    ![2FA - SMS Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Authentication/Two-factor%20authentication/habilitar-login-por-autenticacao-de-2-fatores_6.png)
 
->⚠️ Não podemos garantir que sua operadora de telefonia conseguirá entregar a chave de acesso sempre que necessário. Caso a mensagem de texto da VTEX não chegue, tente reenviar o código ou [habilitar o 2FA por aplicativo](#habilitar-o-2fa-por-aplicativo).
+<div class="alert alert-warning">
+Não podemos garantir que sua operadora de telefonia conseguirá entregar a chave de acesso sempre que necessário. Caso a mensagem de texto da VTEX não chegue, tente reenviar o código ou <a href="#habilitar-o-2fa-por-aplicativo">habilitar o 2FA por aplicativo</a>.
+</div>
 
 ## Modificar configurações de 2FA
 
@@ -85,7 +86,7 @@ Para modificar as configurações de verificação em duas etapas, siga os passo
 
 ## Recuperar acesso ao Admin VTEX
 
-Se você perder o acesso ao método de autenticação escolhido e não estiver conseguindo fazer login, tente outro método de login ou siga os passos do artigo [Redefinir senha de acesso ao Admin VTEX](https://help.vtex.com/pt/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
+Se você perder o acesso ao método de autenticação escolhido e não estiver conseguindo fazer login, tente outro método de login ou siga os passos do artigo [Redefinir senha de acesso ao Admin VTEX](/pt/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
 
 Uma vez que tiver informado o código de acesso e redefinido a senha, você poderá alterar o método de autenticação de dois fatores conforme as instruções deste guia.
 

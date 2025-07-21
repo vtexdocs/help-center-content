@@ -1,5 +1,5 @@
 ---
-title: '[MELI] El atributo se envía a MELI sin que el vendedor lo asigne.'
+title: "[MELI] El atributo se envía a MELI sin que el vendedor lo asigne."
 id: CILYWlvEAlXkcvEYuZ99m
 status: PUBLISHED
 createdAt: 2023-10-30T10:09:31.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-attribute-is-being-sent-to-meli-without-being-mapped-from-seller
+slugEN: meli-el-atributo-se-envia-a-meli-sin-que-el-vendedor-lo-asigne
 locale: es
 kiStatus: Fixed
 internalReference: 791380
@@ -18,7 +18,9 @@ internalReference: 791380
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

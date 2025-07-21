@@ -1,5 +1,5 @@
 ---
-title: 'Promotion More for Less not working alongside regular promotion'
+title: "Promotion More for Less not working alongside regular promotion"
 id: 7MhNRYvHedtAKGPBBVulc4
 status: PUBLISHED
 createdAt: 2022-12-16T18:52:03.482Z

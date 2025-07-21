@@ -1,5 +1,5 @@
 ---
-title: 'El canal de ventas configurado en Configuración B2B no se asigna después de aprobar Organizaciones'
+title: "El canal de ventas configurado en Configuración B2B no se asigna después de aprobar Organizaciones"
 id: 7kxMtk2YHJdk5uPdj5wBs5
 status: PUBLISHED
 createdAt: 2023-07-21T20:03:44.671Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: sales-channel-configured-in-b2b-settings-is-not-assigned-after-approving-organizations
+slugEN: el-canal-de-ventas-configurado-en-configuracion-b2b-no-se-asigna-despues-de-aprobar-organizaciones
 locale: es
 kiStatus: Backlog
 internalReference: 866933
@@ -18,7 +18,9 @@ internalReference: 866933
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El canal de ventas configurado en los Ajustes de Organizaciones B2B no se guarda en los Detalles de la Organización.

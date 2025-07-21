@@ -1,5 +1,5 @@
 ---
-title: 'El activador de cobros no funciona como se esperaba en los Descuentos Progresivos'
+title: "El activador de cobros no funciona como se esperaba en los Descuentos Progresivos"
 id: 78b9yQnTm1bxgOM2cfMlql
 status: PUBLISHED
 createdAt: 2023-11-06T16:42:53.081Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: collections-trigger-not-working-as-expected-on-progressive-discounts
+slugEN: el-activador-de-cobros-no-funciona-como-se-esperaba-en-los-descuentos-progresivos
 locale: es
 kiStatus: Backlog
 internalReference: 930849
@@ -18,7 +18,9 @@ internalReference: 930849
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al crear una promoción de descuento progresivo el cliente puede establecer el activador por colección, por una lista de SKU o por ambas.

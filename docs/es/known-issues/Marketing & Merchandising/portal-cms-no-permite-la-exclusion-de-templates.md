@@ -1,5 +1,5 @@
 ---
-title: 'Portal CMS no permite la exclusión de templates'
+title: "Portal CMS no permite la exclusión de templates"
 id: 6gJPScO5ryCWqOA2M6OEAY
 status: PUBLISHED
 createdAt: 2017-04-10T14:52:54.044Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: cms-portal-does-not-allow-deletion-of-templates
+slugEN: portal-cms-no-permite-la-exclusion-de-templates
 locale: es
 kiStatus: Backlog
 internalReference: 

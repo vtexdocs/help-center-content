@@ -1,5 +1,5 @@
 ---
-title: 'API de pesquisa de catálogo limitada a 2500 resultados'
+title: "API de pesquisa de catálogo limitada a 2500 resultados"
 id: 33kKjUGKN5tlxvksnbnw7n
 status: PUBLISHED
 createdAt: 2023-08-31T14:59:31.132Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-search-api-limited-to-2500-results
+slugEN: api-de-pesquisa-de-catalogo-limitada-a-2500-resultados
 locale: pt
 kiStatus: Backlog
 internalReference: 891184
@@ -18,7 +18,9 @@ internalReference: 891184
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a API Catalog Search, o máximo de resultados obtidos é 2500, mesmo que haja mais produtos.

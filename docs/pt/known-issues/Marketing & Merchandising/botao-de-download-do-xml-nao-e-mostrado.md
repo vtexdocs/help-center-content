@@ -1,5 +1,5 @@
 ---
-title: 'Botão de download do XML não é mostrado'
+title: "Botão de download do XML não é mostrado"
 id: 6qNhl2d2AdOpNErwJoASmS
 status: PUBLISHED
 createdAt: 2019-10-22T18:37:39.163Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: button-to-download-xml-is-hidden
+slugEN: botao-de-download-do-xml-nao-e-mostrado
 locale: pt
 kiStatus: Backlog
 internalReference: 

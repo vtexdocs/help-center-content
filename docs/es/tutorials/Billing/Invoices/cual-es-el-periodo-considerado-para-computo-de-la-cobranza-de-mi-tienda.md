@@ -22,4 +22,6 @@ Por lo tanto, el periodo que deberá tenerse en cuenta es siempre del primero al
 ## Ejemplo
 En el día 01/03 se emite una factura con la referencia "Febrero". Todos los pedidos que pasaron por el status __aprobado__, del día 01/02 hasta el 28/02, serán considerados en esa factura.
 
->⚠️ Si recibe un cobro sin que su tienda esté en producción, sepa que se refiere al **fee mensual** de la tasa de mantenimiento de su ambiente. Este valor es cobrado pues aunque la tienda no esté en producción ya está consumiendo la estructura VTEX.
+<div class="alert alert-warning">
+Si recibe un cobro sin que su tienda esté en producción, sepa que se refiere al <strong>fee mensual</strong> de la tasa de mantenimiento de su ambiente. Este valor es cobrado pues aunque la tienda no esté en producción ya está consumiendo la estructura VTEX.
+</div>

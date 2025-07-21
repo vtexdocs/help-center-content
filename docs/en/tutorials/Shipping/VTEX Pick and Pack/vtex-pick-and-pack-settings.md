@@ -15,7 +15,9 @@ legacySlug: vtex-pick-and-pack-settings
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
+<div class = "alert alert-info">
+This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our <a href="https://vtex.com/us-en/contact/">form</a> apontaby entering the product name in the <code>Comments</code> field.
+</div>
 
 **Settings** is a VTEX Admin page that allows you to select the VTEX Pick and Pack settings for your store. The settings are distributed in the following tabs:
 
@@ -38,13 +40,15 @@ In this tab, you'll find the settings related to the picking of order items. Her
 
 In this section, you can define the picking strategy types you would like for your pickers.
 
->ℹ️ Only the **Wave picking** strategy is currently available.
+<div class = "alert alert-info">
+  Only the <strong>Wave picking</strong> strategy is currently available.
+</div>
 
 ### Order Changes
 
 In this section, you can set actions related to order changes, such as when items are out of stock.
 
-* **Send changes to the OMS:** Allows you to send the changes made by the picker to the [VTEX OMS](https://help.vtex.com/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
+* **Send changes to the OMS:** Allows you to send the changes made by the picker to the [VTEX OMS](/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Allow changing item prices:** Allows the picker to change the item prices from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Allow replacing items:** Allows the picker to replace unavailable items from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Allow rejecting items:** Allows the picker to reject unavailable items from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
@@ -155,7 +159,7 @@ In this section, you must add the types of envelopes your store will use to pack
    * **Type**: Envelope type. The options are Box, Bag, Envelope, Tape, Paper, and Others.
    * **Description**: Envelope description for internal use.
    * **Code**: Envelope identification code.
-   * **Cubic weight**: Envelope [cubic weight](https://help.vtex.com/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128).
+   * **Cubic weight**: Envelope [cubic weight](/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128).
    * **Height**: Envelope height in millimeters.
    * **Length**: Envelope length in millimeters.
    * **Weight**: Envelope weight in millimeters.
@@ -246,7 +250,9 @@ You can add bulk SKU IDs and EANs for your products via a CSV file. To do this, 
 
 You can also index the catalog to update the product list. To do this, click `Index Catalog` and then `Continue`.
 
->❗ Indexing the catalog will delete and recreate all its contents, so you could lose all your custom EAN and SKU codes.
+<div class = "alert alert-danger">
+Indexing the catalog will delete and recreate all its contents, so you could lose all your custom EAN and SKU codes.
+</div>
 
 ## Facilities
 

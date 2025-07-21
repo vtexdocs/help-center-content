@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario muestra que se ha seleccionado una recogida en el carro con suscripciones, pero no en la API.'
+title: "La interfaz de usuario muestra que se ha seleccionado una recogida en el carro con suscripciones, pero no en la API."
 id: 6WUGylIHWZtfeAm7hplYHD
 status: PUBLISHED
 createdAt: 2024-03-08T19:08:16.010Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-shows-a-pickup-was-selected-in-cart-with-subscriptions-but-it-wasnt-in-api
+slugEN: la-interfaz-de-usuario-muestra-que-se-ha-seleccionado-una-recogida-en-el-carro-con-suscripciones-pero-no-en-la-api
 locale: es
 kiStatus: Backlog
 internalReference: 996976
@@ -18,7 +18,9 @@ internalReference: 996976
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las opciones de recogida se ofrecen a los compradores en un carro con un artículo con una suscripción. Cuando se selecciona una de las opciones de recogida, el proceso de pago cambia automáticamente a entrega, pero la interfaz de usuario sigue mostrando que se ha seleccionado la opción de recogida.

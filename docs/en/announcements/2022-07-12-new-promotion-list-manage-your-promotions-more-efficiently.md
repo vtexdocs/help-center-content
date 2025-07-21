@@ -38,6 +38,6 @@ The Promotion List update is part of the [New VTEX Admin](https://content.vtex.c
 
 ## What needs to be done?
 
-The new Promotion List is available only to stores using the [New VTEX Admin](https://help.vtex.com/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). To be part of the new experience, sign up for the [Beta program](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) of the New VTEX Admin.
+The new Promotion List is available only to stores using the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). To be part of the new experience, sign up for the [Beta program](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) of the New VTEX Admin.
 
-For more information on how to benefit from the new page, please read the article [Promotion List (Beta)](https://help.vtex.com/en/tutorial/promotions-list-beta--4yB7nNdliiFxBTXE19GCIi).
+For more information on how to benefit from the new page, please read the article [Promotion List (Beta)](/en/tutorial/promotions-list-beta--4yB7nNdliiFxBTXE19GCIi).

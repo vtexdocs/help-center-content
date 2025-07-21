@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI shows free shipping when the user switches the delivery options'
+title: "Checkout UI shows free shipping when the user switches the delivery options"
 id: 5ibXQuVSU5vLfihL8uImyX
 status: PUBLISHED
 createdAt: 2023-09-27T20:40:02.973Z

@@ -1,5 +1,5 @@
 ---
-title: 'As tags XML <price> relacionadas não carregam o conteúdo de itens indisponíveis'
+title: "As tags XML <price> relacionadas não carregam o conteúdo de itens indisponíveis"
 id: 7u2WDGV9FJl4fXwfOhRx8N
 status: PUBLISHED
 createdAt: 2024-01-31T19:11:20.119Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-price-related-tags-do-not-load-contents-for-unavailable-items
+slugEN: as-tags-xml-price-relacionadas-nao-carregam-o-conteudo-de-itens-indisponiveis
 locale: pt
 kiStatus: Backlog
 internalReference: 974722
@@ -18,7 +18,9 @@ internalReference: 974722
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A integração XML carrega qualquer tag relacionada ao preço, como minPrice, maxPrice, currentPrice, que são carregadas como uma tag de valor nulo (<![CDATA[]]>) quando o item não está disponível e também são definidas para serem exibidas se não estiverem disponíveis.

@@ -34,7 +34,7 @@ Para configurar Ame Digital, siga os passos abaixo:
 5. Ative a condição no campo __Status__.
 6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar antifraude__.
 7. Escolha se os pagamentos serão à vista ou parcelados.
-8. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+8. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 9. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o conector Ame Digital pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

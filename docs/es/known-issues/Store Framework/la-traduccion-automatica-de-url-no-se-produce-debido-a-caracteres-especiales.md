@@ -1,5 +1,5 @@
 ---
-title: 'La traducción automática de URL no se produce debido a caracteres especiales'
+title: "La traducción automática de URL no se produce debido a caracteres especiales"
 id: 7G0WKfFFZxZ7mMEoasePld
 status: PUBLISHED
 createdAt: 2024-07-09T19:45:44.410Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: automatic-translation-of-urls-not-occurring-due-to-special-characters
+slugEN: la-traduccion-automatica-de-url-no-se-produce-debido-a-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 1062858
@@ -18,7 +18,9 @@ internalReference: 1062858
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

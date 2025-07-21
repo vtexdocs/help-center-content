@@ -1,5 +1,5 @@
 ---
-title: 'Erro com alguns triggers de carrinho abandonado'
+title: "Erro com alguns triggers de carrinho abandonado"
 id: KtQfgCcXGEKkO8SMaUAKQ
 status: PUBLISHED
 createdAt: 2018-12-10T17:50:12.518Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
-slugEN: abandoned-shopping-cart-triggers-stopped-working
+slugEN: erro-com-alguns-triggers-de-carrinho-abandonado
 locale: pt
 kiStatus: Backlog
 internalReference: 

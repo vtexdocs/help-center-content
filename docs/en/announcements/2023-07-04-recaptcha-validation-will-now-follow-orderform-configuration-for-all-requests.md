@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Merchants that use the Checkout API to place orders from mobile apps/headless storefronts must review their integrations'
 ---
 
-[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) is a security service used to determine if a given action is performed by a real user or malicious automation, protecting websites from fraud and abuse. By activating [reCAPTCHA at checkout](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP), you are following best practices against virtual attacks and reducing the risk that your store can be exploited for fraudulent purposes.
+[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) is a security service used to determine if a given action is performed by a real user or malicious automation, protecting websites from fraud and abuse. By activating [reCAPTCHA at checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP), you are following best practices against virtual attacks and reducing the risk that your store can be exploited for fraudulent purposes.
 
 To further protect our customers, VTEX will now enforce the reCAPTCHA orderForm configuration set in each account for all Checkout API requests, regardless of the roles associated with the user or application key.
 
@@ -23,7 +23,7 @@ Merchants that use the Checkout API to place orders from mobile apps, headless s
 
 ## What is changing?
 
-Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](https://help.vtex.com/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This includes [predefined roles](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](https://help.vtex.com/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
+Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This includes [predefined roles](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
 
 Now, reCAPTCHA verification will follow orderForm configuration set in each account for all Checkout API requests, regardless of the roles associated with the user or application key.
 
@@ -64,20 +64,24 @@ They should be able to follow the diagram below to assess whether an integration
 
 If your development team identified that your integration requires attention, they must follow the instructions provided in the developer guide [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations).
 
->⚠️ If you are implementing reCAPTCHA on a native mobile app, use reCAPTCHA v3. Otherwise, reCAPTCHA use v2.
+<div class="alert alert-warning">
+If you are implementing reCAPTCHA on a native mobile app, use reCAPTCHA v3. Otherwise, reCAPTCHA use v2.
+</div>
 
 Using the reCAPTCHA key returned by the Checkout, the reCAPTCHA widget should be rendered in the user interface of your mobile app/headless storefront (or similar) as described in the [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display) or [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) documentation provided by Google.
 
 After the shopper has completed the reCAPTCHA challenge, their response (`recaptchaToken`) should be sent to the Checkout API to complete the purchase, as described in the *Final validation* section of [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations#final-validation). Checkout API will then [verify the user's response](https://developers.google.com/recaptcha/docs/verify) using the provided token.
 
->❗ All integrations using Checkout API to place orders must be reviewed and adjusted before September 1, 2023. Applications that fail to render the reCAPTCHA widget and verify the user's response will not be able to place orders after this date.
+<div class="alert alert-danger">
+All integrations using Checkout API to place orders must be reviewed and adjusted before September 1, 2023. Applications that fail to render the reCAPTCHA widget and verify the user's response will not be able to place orders after this date.
+</div>
 
 ## Learn more
 
 Check out the following documentation to learn more about reCAPTCHA and best practices to ensure your store is protected:
 
-- [Using reCAPTCHA at Checkout](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP)
-- [Best practices against virtual attacks](https://help.vtex.com/en/tutorial/best-practices-against-virtual-attacks--191rpbF7UgrKapVCi1PCDE)
-- [Best practices for using application keys](https://help.vtex.com/en/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm)
-- [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Using reCAPTCHA at Checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP)
+- [Best practices against virtual attacks](/en/tutorial/best-practices-against-virtual-attacks--191rpbF7UgrKapVCi1PCDE)
+- [Best practices for using application keys](/en/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm)
+- [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
 

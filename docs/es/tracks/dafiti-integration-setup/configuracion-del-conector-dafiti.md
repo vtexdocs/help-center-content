@@ -26,7 +26,7 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Ambiente*:** elija la opción _Producción_ para utilizar el ambiente real de ventas de Dafiti. Esta es la configuración sugerida. Si desea realizar algunas pruebas en la integración, marque _QA_. Dafiti proporciona el _token_ y el acceso al ambiente de prueba.
 
-- **ID del afiliado*:** es el identificador del [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado) que está creando con esta integración. No puede ser igual a ningún afiliado anteriormente registrado en el Admin. Para configurar el ID del afiliado, debe elegir tres consonantes, repetidas o no (sugerencia: DFT). Si tiene una configuración de [integración para multidominios](https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio), preste mucha atención al ID de afiliado, ya que este campo debe tener un valor diferente para cada dominio.
+- **ID del afiliado*:** es el identificador del [afiliado](/es/tutorial/o-que-e-afiliado) que está creando con esta integración. No puede ser igual a ningún afiliado anteriormente registrado en el Admin. Para configurar el ID del afiliado, debe elegir tres consonantes, repetidas o no (sugerencia: DFT). Si tiene una configuración de [integración para multidominios](/es/tutorial/como-criar-multiloja-multidominio), preste mucha atención al ID de afiliado, ya que este campo debe tener un valor diferente para cada dominio.
 
 - **Política comercial*:** es el ID de la política comercial que se utilizará para la integración con Dafiti. Todos los productos vinculados a esta política comercial se enviarán al marketplace.
 
@@ -40,11 +40,13 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Permitir HTML en la descripción del producto*:** determina si la descripción de los productos se enviará a Dafiti con etiquetas HTML. Al marcar _Sí_, se enviará la descripción exactamente de la forma en que se registró en la plataforma VTEX, manteniendo la estilización del texto en negrita o en cursiva, por ejemplo. Al marcar _No_, la integración eliminará las etiquetas HTML de las descripciones de sus productos.
 
-- **FOB*:** tipo de flete, denominado _Libre a bordo_, en el que el tipo de entrega del producto, su cobro y la emisión de etiqueta son definidos y realizados por el marketplace. Al marcar _Sí_, Dafiti se hace responsable del flete. Al elegir _No_, el flete se establece de acuerdo con su [estrategia de envío](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l) en VTEX. Si desea más información, lea el artículo [Cómo funciona el flete cuando la entrega es hecha por el marketplace](https://help.vtex.com/es/tutorial/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega--EY1l6tYW3IUquwwwcQqwQ).
+- **FOB*:** tipo de flete, denominado _Libre a bordo_, en el que el tipo de entrega del producto, su cobro y la emisión de etiqueta son definidos y realizados por el marketplace. Al marcar _Sí_, Dafiti se hace responsable del flete. Al elegir _No_, el flete se establece de acuerdo con su [estrategia de envío](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l) en VTEX. Si desea más información, lea el artículo [Cómo funciona el flete cuando la entrega es hecha por el marketplace](/es/tutorial/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega--EY1l6tYW3IUquwwwcQqwQ).
 
-- **Enviar Kit*:** si selecciona _No_, los SKU [registrados como kits](https://help.vtex.com/es/tutorial/cadastrando-kit--tutorials_215) no se enviarán a Dafiti. Al activar el _Sí_, todos los ítems de su política comercial se enviarán al marketplace, sin filtrar los SKU registrados como kits. Se pueden realizar cambios en la configuración del conector en cualquier momento, y esto no afecta a los SKU que ya han sido enviados. Por ejemplo, si cambiara su configuración de _Sí_ a _No_, los SKU enviados previamente a Dafiti no se eliminarán ni tendrán ningún cambio.
+- **Enviar Kit*:** si selecciona _No_, los SKU [registrados como kits](/es/tutorial/cadastrando-kit--tutorials_215) no se enviarán a Dafiti. Al activar el _Sí_, todos los ítems de su política comercial se enviarán al marketplace, sin filtrar los SKU registrados como kits. Se pueden realizar cambios en la configuración del conector en cualquier momento, y esto no afecta a los SKU que ya han sido enviados. Por ejemplo, si cambiara su configuración de _Sí_ a _No_, los SKU enviados previamente a Dafiti no se eliminarán ni tendrán ningún cambio.
 
-  >ℹ️ Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: <i>«El conector está configurado para no enviar los SKU del tipo Kit»</i>. Este mensaje puede verse en Admin, en el módulo **MARKETPLACE > Integraciones > Productos,** al hacer clic en el SKU.
+  <div class="alert alert-info">
+Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: <i>«El conector está configurado para no enviar los SKU del tipo Kit»</i>. Este mensaje puede verse en Admin, en el módulo <b>MARKETPLACE > Integraciones > Productos,</b> al hacer clic en el SKU.
+</div>
 
 - **Nombre de SKU*:** determina cuál será la regla para nombrar los SKU en el portal de Dafiti. Debe seleccionar una de las combinaciones disponibles de los siguientes atributos: _Marca_, _Nombre del Producto_ y _Nombre del SKU._
 
@@ -55,7 +57,7 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 - **NCM:** es la Nomenclatura Común del Mercosur (NCM), que define la tasa impositiva común para el bloque. Para determinados productos, es necesario informar en este campo el nombre único de la especificación del producto o SKU responsable, que contiene la información de NCM en el catálogo.
 - **Id. de cliente:** código único asignado a un vendedor para acceder a la integración.
 - **Client Secret:** código único utilizado para autenticar la integración.
-- **Mapeo de campos personalizados (Nombre y descripción):** Para utilizar este mapeo es necesario crear un campo personalizado. Para saber cómo crear campos personalizados accede a la documentación de [Registrar especificaciones o campos de producto](https://help.vtex.com/es/tutorial/criando-um-campo-de-produto--tutorials_106).
+- **Mapeo de campos personalizados (Nombre y descripción):** Para utilizar este mapeo es necesario crear un campo personalizado. Para saber cómo crear campos personalizados accede a la documentación de [Registrar especificaciones o campos de producto](/es/tutorial/criando-um-campo-de-produto--tutorials_106).
 
 Para que el mapeo funcione, el seller debe seguir los siguientes pasos:
 

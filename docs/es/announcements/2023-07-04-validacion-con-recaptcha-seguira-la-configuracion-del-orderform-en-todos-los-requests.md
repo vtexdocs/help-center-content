@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Tiendas que utilicen la API de Checkout para realizar pedidos deben revisar sus integraciones'
 ---
 
-[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) es un servicio de seguridad utilizado para determinar si una acción la realiza un usuario real o una automatización maliciosa, protegiendo los sitios web contra fraudes y abusos. Al activar [reCAPTCHA en el checkout](https://help.vtex.com/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP), además de seguir las mejores prácticas contra ataques virtuales, reduces el riesgo de que tu tienda sea vulnerada con fines fraudulentos.
+[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) es un servicio de seguridad utilizado para determinar si una acción la realiza un usuario real o una automatización maliciosa, protegiendo los sitios web contra fraudes y abusos. Al activar [reCAPTCHA en el checkout](/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP), además de seguir las mejores prácticas contra ataques virtuales, reduces el riesgo de que tu tienda sea vulnerada con fines fraudulentos.
 
 A partir de ahora, y para proteger aún más a nuestros clientes, VTEX aplicará la configuración del orderForm reCAPTCHA de cada cuenta a todos los requests provenientes de la API de Checkout, independientemente de los roles asociados al usuario o clave de la aplicación.
 
@@ -24,7 +24,7 @@ Los administradores de tienda que utilizan la API de Checkout para realizar pedi
 
 ## ¿Qué cambia?
 
-Antes, la verificación con reCAPTCHA no era necesaria para los pedidos realizados por usuarios y claves de aplicación con el recurso [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) `Shopping Cart Full Access` en License Manager. Esto incluye [roles predefinidos](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy) como el rol `Owner (Admin Super)` y `User Admin - RESTRICTED`, así como el [usuario Titular](https://help.vtex.com/es/tutorial/que-es-el-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+Antes, la verificación con reCAPTCHA no era necesaria para los pedidos realizados por usuarios y claves de aplicación con el recurso [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) `Shopping Cart Full Access` en License Manager. Esto incluye [roles predefinidos](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy) como el rol `Owner (Admin Super)` y `User Admin - RESTRICTED`, así como el [usuario Titular](/es/tutorial/que-es-el-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
 Ahora, la verificación con reCAPTCHA seguirá la configuración del orderForm establecida en cada cuenta en todos los requests de la API de Checkout, independientemente de los roles asociados al usuario o la clave de aplicación.
 
@@ -65,20 +65,24 @@ Tu tienda utiliza reCAPTCHA en el Checkout y está preparada para exhibirlo corr
 
 Si tu equipo de desarrolladores identifica que tu integración requiere algún tipo de atención, deben seguir las instrucciones proporcionadas en el artículo [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations).
 
->⚠️ Si está implementando reCAPTCHA en una aplicación móvil nativa, use reCAPTCHA v3. De lo contrario, use reCAPTCHA v2.
+<div class="alert alert-warning">
+Si está implementando reCAPTCHA en una aplicación móvil nativa, use reCAPTCHA v3. De lo contrario, use reCAPTCHA v2.
+</div>
 
 Al utilizar el `recaptchaKey` que devolvió el Checkout, el widget reCAPTCHA debe ser renderizado en la interfaz de usuario de tu aplicación móvil/entorno de tienda headless (o similar) como se describe en el artículo de [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display?hl=es-419) o [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3?hl=es-419) proporcionado por Google.
 
 Después de que el comprador resuelva el reCAPTCHA, su respuesta (`recaptchaToken`) se debe enviar a la API de Checkout para completar la compra, tal y como se describe en la sección *Final validation* del artículo [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations#final-validation). En este momento, la API de Checkout [verificará la respuesta del usuario](https://developers.google.com/recaptcha/docs/verify?hl=es-419) utilizando el token proporcionado.
 
->❗ Todas las integraciones que utilicen la API de Checkout para realizar pedidos deben revisarse y ajustarse antes del 1 de septiembre de 2023. Las aplicaciones que no tengan la capacidad de mostrar el widget reCAPTCHA y verificar la respuesta del usuario no podrán realizar pedidos a partir de esta fecha.
+<div class="alert alert-danger">
+Todas las integraciones que utilicen la API de Checkout para realizar pedidos deben revisarse y ajustarse antes del 1 de septiembre de 2023. Las aplicaciones que no tengan la capacidad de mostrar el widget reCAPTCHA y verificar la respuesta del usuario no podrán realizar pedidos a partir de esta fecha.
+</div>
 
 ## Más información
 
 Consulta los siguientes artículos sobre reCAPTCHA y las mejores prácticas para garantizar la protección de tu tienda:
 
-- [reCAPTCHA en el Checkout](https://help.vtex.com/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP)
-- [Prácticas recomendadas para evitar ataques virtuales](https://help.vtex.com/es/tutorial/practicas-recomendadas-para-evitar-ataques-virtuales--191rpbF7UgrKapVCi1PCDE)
-- [Prácticas recomendadas para evitar ataques virtuales](https://help.vtex.com/es/tutorial/buenas-practicas-claves-de-aplicacion--7b6nD1VMHa49aI5brlOvJm)
-- [Recursos del License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
+- [reCAPTCHA en el Checkout](/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP)
+- [Prácticas recomendadas para evitar ataques virtuales](/es/tutorial/practicas-recomendadas-para-evitar-ataques-virtuales--191rpbF7UgrKapVCi1PCDE)
+- [Prácticas recomendadas para evitar ataques virtuales](/es/tutorial/buenas-practicas-claves-de-aplicacion--7b6nD1VMHa49aI5brlOvJm)
+- [Recursos del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
 

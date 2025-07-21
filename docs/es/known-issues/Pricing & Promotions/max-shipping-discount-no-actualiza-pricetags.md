@@ -1,5 +1,5 @@
 ---
-title: 'Max Shipping Discount no actualiza priceTags'
+title: "Max Shipping Discount no actualiza priceTags"
 id: uA0KFnyIOHq3ikcaZmYGr
 status: PUBLISHED
 createdAt: 2023-09-20T17:54:59.620Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: max-shipping-discount-not-updating-pricetags
+slugEN: max-shipping-discount-no-actualiza-pricetags
 locale: es
 kiStatus: Backlog
 internalReference: 904190
@@ -18,7 +18,9 @@ internalReference: 904190
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

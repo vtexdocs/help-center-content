@@ -15,7 +15,9 @@ legacySlug: alerta-de-promocoes-como-criar-um-alerta-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->ℹ️ Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class = "alert alert-info">
+Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+</div>
 
 Criar promoções é uma boa estratégia para atrair mais compradores para o ecommerce. Ao configurá-las, é fundamental ter atenção para que os descontos aplicados resultem nos efeitos esperados, pois erros durante o cadastro de promoções podem causar perdas de receita.
 
@@ -40,7 +42,9 @@ Confira as instruções a seguir para criar um novo alerta:
 
 Ao concluir, o novo alerta de promoção terá sido criado com sucesso.
 
->ℹ️ Ao configurar alertas para produtos com multiplicadores de unidade, como itens vendidos em frações (ex: 0,5 kg), é importante saber que o sistema pode sinalizar promoções incorretamente para esses produtos. Isso ocorre porque ele não consegue identificar com precisão o preço por grama ou outras frações de unidade. Por isso, recomendamos revisar os alertas com cuidado ao gerenciar itens pesáveis.
+<div class = "alert alert-info">
+Ao configurar alertas para produtos com multiplicadores de unidade, como itens vendidos em frações (ex: 0,5 kg), é importante saber que o sistema pode sinalizar promoções incorretamente para esses produtos. Isso ocorre porque ele não consegue identificar com precisão o preço por grama ou outras frações de unidade. Por isso, recomendamos revisar os alertas com cuidado ao gerenciar itens pesáveis.
+</div>
 
 ## Condições
 
@@ -77,5 +81,5 @@ Caso você ative essa opção e não selecione nenhuma promoção, o alerta não
 
 ## Saiba mais
 
-- [Alerta de promoção](https://help.vtex.com/pt/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
-- [Como funcionam as promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [Alerta de promoção](/pt/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
+- [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

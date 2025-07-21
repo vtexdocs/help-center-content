@@ -1,5 +1,5 @@
 ---
-title: 'orderForm no resiste a los cambios en itemAttachment y ofertas'
+title: "orderForm no resiste a los cambios en itemAttachment y ofertas"
 id: 2pNOpx38Dca7HBomTZBdAD
 status: PUBLISHED
 createdAt: 2022-01-05T20:40:21.829Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-not-resilient-to-changes-in-itemattachment-and-offerings
+slugEN: orderform-no-resiste-a-los-cambios-en-itemattachment-y-ofertas
 locale: es
 kiStatus: Backlog
 internalReference: 334191
@@ -18,7 +18,9 @@ internalReference: 334191
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El orderForm es sensible a la modificación o eliminación de un itemAttachment del catálogo de productos. Si un itemAttachment deja de existir o comienza a tener otro patrón de validación, un orderForm que ya tiene datos antiguos se volverá inaccesible, y no será posible proceder con el flujo de compra.

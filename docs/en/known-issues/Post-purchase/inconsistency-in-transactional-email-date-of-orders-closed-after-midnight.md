@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency in transactional email date of orders closed after midnight'
+title: "Inconsistency in transactional email date of orders closed after midnight"
 id: 3D3FSEGDPykoUosW4wcwQS
 status: PUBLISHED
 createdAt: 2018-04-24T20:17:05.814Z

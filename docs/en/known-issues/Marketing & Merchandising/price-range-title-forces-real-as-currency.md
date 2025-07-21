@@ -1,5 +1,5 @@
 ---
-title: 'Price range title forces Real as currency'
+title: "Price range title forces Real as currency"
 id: 5gSZMEyGaAeSmKaYMYeqwG
 status: PUBLISHED
 createdAt: 2019-01-07T20:08:04.094Z

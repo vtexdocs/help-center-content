@@ -60,5 +60,7 @@ As melhorias atendem principalmente a cenários em que um mesmo pedido possui pr
 Essa mudança __não requer__ nenhum tipo de ação. Se a sua loja já usa a __versão 4 do orderPlaced__, que é compatível com todas as funcionalidades de [Omnichannel](/pt/announcement/mude-seu-negocio-com-a-experiencia-omnichannel-vtex), o novo comportamento já está sendo aplicado.
 
 
->⚠️ Essa mudança foi realizada **apenas na versão 4 do orderPlaced** e não afeta o comportamento das versões anteriores.
+<div class="alert alert-warning">
+Essa mudança foi realizada <strong>apenas na versão 4 do orderPlaced</strong> e não afeta o comportamento das versões anteriores.
+</div>
 

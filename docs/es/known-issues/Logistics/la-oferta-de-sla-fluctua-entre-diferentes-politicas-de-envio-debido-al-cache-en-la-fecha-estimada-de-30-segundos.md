@@ -1,5 +1,5 @@
 ---
-title: 'La oferta de SLA fluctúa entre diferentes políticas de envío debido al caché en la fecha estimada de 30 segundos'
+title: "La oferta de SLA fluctúa entre diferentes políticas de envío debido al caché en la fecha estimada de 30 segundos"
 id: 2uN3bVrxHhj6Xs6TeQTJDr
 status: PUBLISHED
 createdAt: 2024-05-21T19:34:50.437Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: sla-offer-fluctuating-between-different-shipping-policies-due-to-cache-in-estimated-date-of-30-seconds
+slugEN: la-oferta-de-sla-fluctua-entre-diferentes-politicas-de-envio-debido-al-cache-en-la-fecha-estimada-de-30-segundos
 locale: es
 kiStatus: Backlog
 internalReference: 1036916
@@ -18,7 +18,9 @@ internalReference: 1036916
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La simulación logística puede oscilar entre ofrecer SLAs si el cliente tiene políticas de envío con el mismo precio, tiempo de entrega, SlaType, coste de muelle y configuración de almacén, pero diferente prioridad de muelle.

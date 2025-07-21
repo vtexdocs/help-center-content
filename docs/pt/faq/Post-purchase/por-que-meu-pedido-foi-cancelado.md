@@ -26,7 +26,7 @@ Veja a seguir como identificar o motivo de cancelamentos.
 
 Em seu Admin VTEX,em  **Pedidos > Transações**, ficam registradas todas as interações tanto com a operadora/gateway de pagamento quanto com o anti fraude. Esses dois agentes são responsáveis pela maioria dos cancelamentos realizados. 
 
-Sempre que um cancelamento é feito, o agente responsável loga nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Veja aqui o passo a passo de [como verificar as transações](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+Sempre que um cancelamento é feito, o agente responsável loga nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Veja aqui o passo a passo de [como verificar as transações](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
 
 ## Verifique as interações do pedido
 
@@ -35,7 +35,7 @@ No módulo **Pedidos**, é possível analisar a origem do cancelamento do pedido
 Para ver as interações de um pedido, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Clique no pedido desejado, acessando a [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Clique no pedido desejado, acessando a [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na seção **Histórico do pedido**, clique no botão `Ver interações`.
 
 ### Cancelamento pelo marketplace
@@ -52,4 +52,4 @@ No módulo **Pedidos**, os usuários da loja podem realizar o cancelamento manua
 
 Nesses casos, primeiro o pedido fica com status `Cancelamento Solicitado` e após uma aprovação, ou nova solicitação de cancelamento pelos usuários da loja, o status passa para `Cancelado`. 
 
-Todas essas alterações no pedido podem ser visualizadas nas suas interações na [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+Todas essas alterações no pedido podem ser visualizadas nas suas interações na [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).

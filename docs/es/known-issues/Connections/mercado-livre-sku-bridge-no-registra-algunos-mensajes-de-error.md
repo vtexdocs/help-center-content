@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] [Sku] Bridge no registra algunos mensajes de error'
+title: "[Mercado Livre] [Sku] Bridge no registra algunos mensajes de error"
 id: 2GcnFE9TKcivoPekYuCNF9
 status: PUBLISHED
 createdAt: 2024-07-23T16:00:26.447Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-sku-bridge-isnt-logging-some-error-messages
+slugEN: mercado-livre-sku-bridge-no-registra-algunos-mensajes-de-error
 locale: es
 kiStatus: Backlog
 internalReference: 1069692
@@ -18,7 +18,9 @@ internalReference: 1069692
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Contexto correcto: En algunos casos, el vendedor no puede integrar el SKU, ya que el mensaje de error con el motivo por el que se moderó el artículo no aparece correctamente en Bridge.

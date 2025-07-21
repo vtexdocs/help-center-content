@@ -19,7 +19,9 @@ A partir del 24 de junio de 2019, los status de los pedidos de Fulfillment `orde
 
 Los pedidos de origen Fulfillment son aquellos relacionados con las etapas de entrega o recogida de un pedido. Podemos asociar los pedidos que tienen este origen al proceso que realiza un seller para efectuar la entrega o recogida de un pedido.
 
->⚠️ El status de los pedidos de origen Marketplace no se alterará.
+<div class="alert alert-warning">
+El status de los pedidos de origen Marketplace no se alterará.
+</div>
 
 ## ¿Por qué VTEX está tomando esta acción?
 

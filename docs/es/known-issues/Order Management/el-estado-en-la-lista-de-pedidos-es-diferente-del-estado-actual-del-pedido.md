@@ -1,5 +1,5 @@
 ---
-title: 'El estado en la lista de pedidos es diferente del estado actual del pedido'
+title: "El estado en la lista de pedidos es diferente del estado actual del pedido"
 id: 2UBFdtXWtCIygv0SiObCTN
 status: PUBLISHED
 createdAt: 2022-05-11T18:25:07.711Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: status-in-the-order-list-is-different-from-the-current-order-status
+slugEN: el-estado-en-la-lista-de-pedidos-es-diferente-del-estado-actual-del-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 577103
@@ -18,7 +18,9 @@ internalReference: 577103
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos casos, la lista de pedidos muestra un estado diferente del estado actual del pedido (tarjeta).

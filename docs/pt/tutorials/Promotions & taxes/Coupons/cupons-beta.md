@@ -19,9 +19,11 @@ Um cupom consiste em um código promocional, composto de uma sequência de letra
 
 ## Como criar cupons
 
-É possível criar e editar cupons pelo Admin VTEX, em **Promoções** > [Cupons](https://help.vtex.com/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ), ou pela [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
+É possível criar e editar cupons pelo Admin VTEX, em **Promoções** > [Cupons](/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ), ou pela [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
->⚠️ Para ser utilizado, o cupom precisa estar vinculado a pelo menos uma promoção. É possível associar um cupom a qualquer tipo de promoção, exceto a [Promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). Saiba mais em [Criar cupom (Beta)](https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU).
+<div class="alert alert-warning">
+<p>Para ser utilizado, o cupom precisa estar vinculado a pelo menos uma promoção. É possível associar um cupom a qualquer tipo de promoção, exceto a <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Promoção de campanha</a>. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU">Criar cupom (Beta)</a>.</p>
+</div>
 
 ## Tipos de cupons
 
@@ -50,11 +52,11 @@ Um grupo de cupom é útil em cenários como:
 
 A plataforma gera códigos automaticamente a partir do prefixo, adicionando um hífen e um código aleatório de 15 caracteres, incluindo letras e números. Exemplo: ao criar um grupo de cupons com o código `PROMO`, a plataforma vai gerar códigos no formato `PROMO-99n0xjzfum1o6tk`.
 
-Você pode gerar até 1000 códigos associados a um grupo. Para gerar mais de um código atrelado a um cupom, é necessário ativar a opção **Gerar cupons em grupo** ao criá-lo e informar a quantidade de cupons desejada. Veja [Criar cupom](https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU) para mais informações sobre essa configuração.
+Você pode gerar até 1000 códigos associados a um grupo. Para gerar mais de um código atrelado a um cupom, é necessário ativar a opção **Gerar cupons em grupo** ao criá-lo e informar a quantidade de cupons desejada. Veja [Criar cupom](/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU) para mais informações sobre essa configuração.
 
 A quantidade de vezes que cada código do grupo poderá ser utilizado é configurável em **Restrições**, durante a criação do cupom.
 
 ## Saiba mais
 
-* [Lista de Cupons](https://help.vtex.com/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ)
-* [Criar cupom](https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
+* [Lista de Cupons](/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ)
+* [Criar cupom](/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)

@@ -1,5 +1,5 @@
 ---
-title: 'Se salta el primer ciclo de suscripción'
+title: "Se salta el primer ciclo de suscripción"
 id: 2VX6uoop56wK6jecAly40G
 status: PUBLISHED
 createdAt: 2024-02-05T14:10:40.701Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: first-subscription-cycle-is-skipped
+slugEN: se-salta-el-primer-ciclo-de-suscripcion
 locale: es
 kiStatus: Backlog
 internalReference: 528556
@@ -18,7 +18,9 @@ internalReference: 528556
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El sistema de suscripción utiliza información como la frecuencia de compra y la fecha del ciclo de suscripción para generar un pedido de suscripción. Sin embargo, en función de la zona horaria del consumidor y de la hora a la que se realiza el pedido, se omite el primer ciclo y sólo se genera el segundo mes.

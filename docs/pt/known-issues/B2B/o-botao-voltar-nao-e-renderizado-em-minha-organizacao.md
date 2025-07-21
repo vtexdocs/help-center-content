@@ -1,5 +1,5 @@
 ---
-title: "O botão 'Voltar' não é renderizado em Minha organização"
+title: 'O botão "Voltar" não é renderizado em Minha organização'
 id: xzd2JVKP6jcTN0dGWwISB
 status: PUBLISHED
 createdAt: 2023-04-25T21:26:35.401Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: back-button-is-not-rendered-in-my-organization
+slugEN: o-botao-voltar-nao-e-renderizado-em-minha-organizacao
 locale: pt
 kiStatus: Fixed
 internalReference: 797003
@@ -18,7 +18,9 @@ internalReference: 797003
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O botão "Voltar" não é renderizado em Minha organização em celulares, impedindo que o comprador acesse outras opções em Minha conta.

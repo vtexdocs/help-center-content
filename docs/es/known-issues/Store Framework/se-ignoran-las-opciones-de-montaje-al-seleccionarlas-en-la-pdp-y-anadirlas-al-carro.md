@@ -1,5 +1,5 @@
 ---
-title: 'Se ignoran las opciones de montaje al seleccionarlas en la PDP y añadirlas al carro.'
+title: "Se ignoran las opciones de montaje al seleccionarlas en la PDP y añadirlas al carro."
 id: 2u0qbC98EK6vPskprYOsnd
 status: PUBLISHED
 createdAt: 2023-01-31T16:00:13.354Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: assembly-options-being-ignored-when-selected-on-pdp-and-adding-to-cart
+slugEN: se-ignoran-las-opciones-de-montaje-al-seleccionarlas-en-la-pdp-y-anadirlas-al-carro
 locale: es
 kiStatus: Fixed
 internalReference: 743529
@@ -18,7 +18,9 @@ internalReference: 743529
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un PDP de opciones de montaje, cuando el usuario selecciona diferentes cantidades para un mismo artículo y va al carro de la Caja la selección es ignorada y las cantidades se reinician a la cantidad inicial. Pero si el usuario aumenta, para **todos** los artículos, en 1 cantidad al menos se persiste la selección.

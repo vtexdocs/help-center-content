@@ -15,7 +15,7 @@ legacySlug: guia-dos-dashboards-vtex-para-a-black-week-faq
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-Este guia tem como objetivo responder as perguntas mais frequentes sobre como utilizar os [dashboards do Admin VTEX](https://help.vtex.com/pt/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante a Black Week.
+Este guia tem como objetivo responder as perguntas mais frequentes sobre como utilizar os [dashboards do Admin VTEX](/pt/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante a Black Week.
 
 - [Qual a melhor forma de acompanhar meu ecommerce durante a Black Week no Admin VTEX?](#qual-a-melhor-forma-de-acompanhar-meu-ecommerce-durante-a-black-week-no-admin-vtex)
 - [Como acompanhar meus dados de ecommerce além do dia de hoje?](#como-acompanhar-meus-dados-de-ecommerce-alem-do-dia-de-hoje)
@@ -47,9 +47,9 @@ Para configurar a referência, siga os passos a seguir:
 4. Defina uma data.  
 5. Clique em **`Aplicar`**.  
 
->⚠️ Uma comparação útil durante a Black Week é com a mesma data do ano anterior. No ajuste de referência, defina preferencialmente uma data entre 21/11/2022 e 27/11/2022, idealmente, os mesmos dias da semana. 
->
-> Esta opção está disponível para clientes que utilizavam a plataforma VTEX nesse período no ano passado.</br>
+<div class="alert alert-warning">
+Uma comparação útil durante a Black Week é com a mesma data do ano anterior. No ajuste de referência, defina preferencialmente uma data entre 21/11/2022 e 27/11/2022, idealmente, os mesmos dias da semana. <br>Esta opção está disponível para clientes que utilizavam a plataforma VTEX nesse período no ano passado.</br>
+</div>
 
 ![referencia-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_2.png)
 
@@ -72,11 +72,13 @@ Para visualizar os produtos mais vendidos, no quadro de **Métricas,** clique no
 
 ![mais-vendidos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_5.png)
 
->ℹ️ Para análises ou acompanhamentos de períodos maiores, recomendamos o uso do nosso dashboard de performance de vendas, que será detalhado na próxima pergunta.
+<div class="alert alert-info">
+Para análises ou acompanhamentos de períodos maiores, recomendamos o uso do nosso dashboard de performance de vendas, que será detalhado na próxima pergunta.
+  </div>
 
 ## Como acompanhar meus dados de ecommerce além do dia de hoje?
 
-Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](https://help.vtex.com/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
+Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
 
 ### Filtros
 - **Data**  
@@ -137,9 +139,9 @@ Há alguns motivos que podem levar a diferenças entre as métricas da Visão ge
 
 Para ver as métricas combinadas de todas as lojas,acesse o dashboard **Performance de vendas,** que apresenta dados agregados com uma taxa de atualização de aproximadamente 90 minutos. 
 
->❗ No **dashboard Visão geral em tempo real,** ecommercess que operam com mais de uma moeda têm seus pedidos somados somente na moeda mais utilizada em suas vendas.
->
-> Para comparar com a tela de **Pedidos,** você deve somar o total de pedidos de todas as suas moedas.</br>  
+<div class="alert alert-danger">
+  No <b>dashboard Visão geral em tempo real,</b> ecommercess que operam com mais de uma moeda têm seus pedidos somados somente na moeda mais utilizada em suas vendas.<br>Para comparar com a tela de <b>Pedidos,</b> você deve somar o total de pedidos de todas as suas moedas.</br>
+</div>  
 
 ![todos-os-pedidos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-dos-dashboards-vtex-para-a-black-week-faq_13.png)
 
@@ -178,7 +180,7 @@ Como resultado, se você opera com mais de uma moeda, é importante somar o tota
 
 ## Por que o número de pedidos da análise de funil de vendas não bate com o da parte de Monitoramento?
 
-Para entender essa diferença, é essencial saber que as métricas de monitoramento na Visão geral em tempo real são geradas a partir de dados do nosso [Sistema de Gerenciamento de Pedidos (OMS)](https://help.vtex.com/pt/subcategory/visao-geral-de-pedidos--3VNOhxDrvYxJThhuJClrYZ). O OMS contém informações sobre todos os diferentes tipos de pedidos da loja, incluindo vendas de marketplaces, vendas diretas, aplicativos, entre outros.  
+Para entender essa diferença, é essencial saber que as métricas de monitoramento na Visão geral em tempo real são geradas a partir de dados do nosso [Sistema de Gerenciamento de Pedidos (OMS)](/pt/subcategory/visao-geral-de-pedidos--3VNOhxDrvYxJThhuJClrYZ). O OMS contém informações sobre todos os diferentes tipos de pedidos da loja, incluindo vendas de marketplaces, vendas diretas, aplicativos, entre outros.  
 
 Por outro lado, os dados do funil de vendas são coletados da base de navegação do site, que captura exclusivamente os dados de vendas realizadas dentro da loja online do cliente. Isso significa que vendas realizadas em marketplaces ou em outras lojas que não utilizam o storefront da VTEX não são contabilizadas neste funil.  
 

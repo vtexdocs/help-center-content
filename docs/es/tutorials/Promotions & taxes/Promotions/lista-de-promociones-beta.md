@@ -30,7 +30,7 @@ La página muestra la lista con las promociones registradas en tu tienda y su in
 | `Hasta` | Fecha de fin de la promoción.  |
 | `Status` | Status de la promoción, que puede ser: <p> __Activa:__ la promoción está activada.</p> <p>__Programada:__ la promoción está programada.</p> <p>__Pausada:__ la promoción está pausada. <p>__Completada:__ la promoción ha finalizado.</p> |
 
-![listadepromocoes es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promociones-beta_1.gif)
+![listadepromocoes es](https://images.ctfassets.net/alneenqid6w5/223hOuKKb0a23uFeYIr7UU/ae1fa5b782b350cdda3458e28459d51e/listadepromocoes_es.gif)
 
 Puedes ordernar la lista de promociones por nombre, fechas o status. Para ordenarlas, haz clic en el título de la columna que tiene la información que deseas utilizar como criterio de ordenación.
 
@@ -48,12 +48,12 @@ Todas las funcionalidades de la página se detallarán en las siguientes seccion
 
 Para registrar una nueva promoción, haz clic en el botón Crear promoción. Luego, puedes seleccionar los siguientes tipos de promociones:
 
-- [Regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
-- [Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323)
-- [Más por menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325)
-- [Descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324)
-- [Compra uno y lleva uno gratis](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322)
-- [Promoción de campaña](https://help.vtex.com/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+- [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Comprar juntos](/es/tutorial/compre-junto--tutorials_323)
+- [Más por menos](/es/tutorial/leve-mais-por-menos--tutorials_325)
+- [Descuento progresivo](/es/tutorial/desconto-progressivo--tutorials_324)
+- [Compra uno y lleva uno gratis](/es/tutorial/compre-e-ganhe--tutorials_322)
+- [Promoción de campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
 
 ## Promociones archivadas
 
@@ -82,7 +82,7 @@ El archivo contiene la siguiente información sobre cada promoción:
 
 ## Uso de las promociones
 
-![usodaspromoções en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promociones-beta_2.JPG)
+![usodaspromoções en](https://images.ctfassets.net/alneenqid6w5/51IiIaxilx3SqfVdRtiX1A/15a27215629ed81ae47e6582bd6d9261/usodaspromo____es_en.JPG)
 
 Para ver el total de promociones activas en tu tienda y el espacio restante para nuevas promociones, haz clic en <i class="fas fa-chart-line"></i> `Uso de las promociones`.
 
@@ -90,11 +90,11 @@ El número máximo de promociones activas por defecto es de 100. Si necesitas au
 
 ## Filtrar promociones
 
-![filtrodepromocoes es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promociones-beta_3.gif)
+![filtrodepromocoes es](https://images.ctfassets.net/alneenqid6w5/6EuQui1lZ8MfnkvdvXh87S/2e90d2071d83698429988c2124acf67f/filtrodepromocoes_es.gif)
 
 La lista de promociones se puede filtrar según tus necesidades, utilizando los siguientes filtros:  
 
-- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323), [Más por Menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322) y [Promoción de Campaña](https://help.vtex.com/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
+- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322) y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 - **Status:** status de la promoción. Las opciones son `Ejecutando`, `Programada`, `Pausada` y `Realizada`.
 - **Última edición:** historial de las últimas ediciones en los últimos 12 meses, 3 meses, 30 días, 7 días o el día anterior a la consulta.
 - **Política comercial:** la política comercial a la que se aplicará la promoción.
@@ -112,4 +112,4 @@ Al hacer clic en el ícono <i class="fas fa-ellipsis-v"></i> de una promoción, 
 - <i class="fas fa-archive"></i> __Archivar:__ archivar la promoción. La promoción se trasladará automáticamente a la página __Promociones archivadas__.
 
 #### Más información
-- [Qué son utm_source, utm_campaign y utm_medium](https://help.vtex.com/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
+- [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)

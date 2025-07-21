@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Central de mensagens, Templates de emails, Importação de planilhas, Token de autenticação
 ---
 
-Por meio da [Central de mensagens](https://help.vtex.com/pt/tutorial/conhecendo-o-message-center--tutorials_84), a VTEX oferece aos lojistas a opção de personalizar templates de e-mail que serão encaminhados aos usuários. Estes emails podem ser utilizados para transmitir as seguintes informações:
+Por meio da [Central de mensagens](/pt/tutorial/conhecendo-o-message-center--tutorials_84), a VTEX oferece aos lojistas a opção de personalizar templates de e-mail que serão encaminhados aos usuários. Estes emails podem ser utilizados para transmitir as seguintes informações:
 - Token de autenticação na loja
 - Notificação de criação e pagamento de pedidos
 - Confirmação de exportação de dados
@@ -44,7 +44,7 @@ Se a sua loja possui um remetente customizado, além do remetente padrão __VTEX
 
 ### Configuração de servidor de email
 
-Na VTEX é possível utilizar o servidor nativo de emails ou [configurar um servidor SMTP externo](https://help.vtex.com/pt/tutorial/personalizando-o-smtp-da-vtex--tutorials_2733). Caso você esteja utilizando um servidor SMTP externo, verifique os cenários abaixo.
+Na VTEX é possível utilizar o servidor nativo de emails ou [configurar um servidor SMTP externo](/pt/tutorial/personalizando-o-smtp-da-vtex--tutorials_2733). Caso você esteja utilizando um servidor SMTP externo, verifique os cenários abaixo.
 
 #### Configuração SMTP no Admin VTEX
 
@@ -59,9 +59,11 @@ Após o teste, caso a mensagem da VTEX não tenha sido enviada para o email do u
 
 #### Configuração SPF (Sender Policy Framework)
 
-Confira se o servidor SMTP externo está devidamente configurado conforme o [sistema SPF](https://help.vtex.com/pt/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI), responsável por evitar que servidores não autorizados enviem emails em nome de um domínio específico. Caso necessário, você pode realizar a [configuração do SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) e da [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) no servidor.
+Confira se o servidor SMTP externo está devidamente configurado conforme o [sistema SPF](/pt/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI), responsável por evitar que servidores não autorizados enviem emails em nome de um domínio específico. Caso necessário, você pode realizar a [configuração do SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) e da [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) no servidor.
 
->⚠️ Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de mail.
+<div class ="alert alert-warning">
+Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de mail.
+</div>
 
 ### Configuração da notificação de pedido e pagamento
 
@@ -79,7 +81,9 @@ A Amazon (AWS) possui uma plataforma de email chamada Amazon Simple Email Servic
 
 Em situações normais, um endereço de email pode ser incluído na lista de supressão da AWS e ser removido após aproximadamente 12 horas. Durante este período, emails enviados pela VTEX não serão recebidos pelo endereço de email incluído na lista.
 
->⚠️ A gestão da lista de supressão é de responsabilidade da AWS, e a VTEX não tem responsabilidade sobre a movimentação de entrada e saída de endereços na lista.
+<div class ="alert alert-warning">
+A gestão da lista de supressão é de responsabilidade da AWS, e a VTEX não tem responsabilidade sobre a movimentação de entrada e saída de endereços na lista.
+</div>
 
 Caso desconfie que o seu endereço de email tenha sido bloqueado pela AWS, aguarde o período de 12 horas e tente reenviar novamente um email para o endereço bloqueado.
 

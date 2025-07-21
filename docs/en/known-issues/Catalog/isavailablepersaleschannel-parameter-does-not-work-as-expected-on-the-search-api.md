@@ -1,5 +1,5 @@
 ---
-title: 'isAvailablePerSalesChannel parameter does not work as expected on the Search API'
+title: "isAvailablePerSalesChannel parameter does not work as expected on the Search API"
 id: 6vexCZQTib8fFI6sCSTdWL
 status: PUBLISHED
 createdAt: 2022-09-12T16:03:25.215Z

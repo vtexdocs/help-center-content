@@ -1,5 +1,5 @@
 ---
-title: 'Two different workflows for the same order resulting in status: detail.state.null'
+title: "Two different workflows for the same order resulting in status: detail.state.null"
 id: 7GeeO1co0E04mY5MYt5R3f
 status: PUBLISHED
 createdAt: 2022-10-19T15:07:49.704Z
@@ -18,7 +18,9 @@ internalReference: 680919
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Devido a uma falha na etapa de criação do fluxo de trabalho, algumas ordens cujo fluxo de criação foi concluído corretamente, podem apresentar o seguinte valor no campo de status: `detail.state.null `e na listagem de ordens não apresentam nenhum valor de status;

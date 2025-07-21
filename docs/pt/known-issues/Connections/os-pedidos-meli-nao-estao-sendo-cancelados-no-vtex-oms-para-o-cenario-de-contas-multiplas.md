@@ -1,5 +1,5 @@
 ---
-title: 'Os pedidos MELI não estão sendo cancelados no VTEX OMS para o cenário de contas múltiplas'
+title: "Os pedidos MELI não estão sendo cancelados no VTEX OMS para o cenário de contas múltiplas"
 id: 4u9ue93sHNWcfVm3sRL2qx
 status: PUBLISHED
 createdAt: 2024-02-06T11:04:52.918Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-orders-not-being-cancelled-in-vtex-oms-for-multiples-accounts-scenario
+slugEN: os-pedidos-meli-nao-estao-sendo-cancelados-no-vtex-oms-para-o-cenario-de-contas-multiplas
 locale: pt
 kiStatus: Backlog
 internalReference: 977453
@@ -18,7 +18,9 @@ internalReference: 977453
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

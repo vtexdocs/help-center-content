@@ -1,5 +1,5 @@
 ---
-title: "Campaign audience UI changing 'Different from' to 'Equal to' with a collection"
+title: 'Campaign audience UI changing "Different from" to "Equal to" with a collection'
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z

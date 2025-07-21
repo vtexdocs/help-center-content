@@ -1,5 +1,5 @@
 ---
-title: "Dados do perfil carregados vazios na interface do usuário para o perfil completo com 'ignoreProfileData'"
+title: "Dados do perfil carregados vazios na interface do usuário para o perfil completo com 'ignoreProfileData"
 id: 10B1QKgN42sjapDEALmKOp
 status: PUBLISHED
 createdAt: 2024-04-15T11:41:06.841Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: profile-data-loaded-empty-in-the-ui-for-complete-profile-with-ignoreprofiledata
+slugEN: dados-do-perfil-carregados-vazios-na-interface-do-usuario-para-o-perfil-completo-com-ignoreprofiledata
 locale: pt
 kiStatus: Backlog
 internalReference: 1016582
@@ -18,7 +18,9 @@ internalReference: 1016582
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao definir "ignoreProfileData" via API Ignore profile data on checkout, se o comprador tiver um perfil completo, mas não estiver conectado, os dados serão carregados vazios na interface do usuário.

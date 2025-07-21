@@ -1,5 +1,5 @@
 ---
-title: 'Busca por marca com apóstrofo não retorna dados no Admin'
+title: "Busca por marca com apóstrofo não retorna dados no Admin"
 id: 2Z3k2leNVmCoBIPmIPDrz2
 status: PUBLISHED
 createdAt: 2020-05-05T15:36:13.219Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: searches-for-brands-that-have-an-apostrophe-do-not-return-data-in-the-admin
+slugEN: busca-por-marca-com-apostrofo-nao-retorna-dados-no-admin
 locale: pt
 kiStatus: Backlog
 internalReference: 

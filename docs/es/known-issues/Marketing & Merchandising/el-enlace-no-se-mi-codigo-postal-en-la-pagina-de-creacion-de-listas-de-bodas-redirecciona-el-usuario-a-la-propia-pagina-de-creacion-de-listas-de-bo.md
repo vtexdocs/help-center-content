@@ -1,5 +1,5 @@
 ---
-title: "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas"
+title: 'El enlace "No sé mi código postal" en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas'
 id: 59Go6zy62I2iwACQqW8qmA
 status: PUBLISHED
 createdAt: 2018-02-20T22:07:31.331Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: i-dont-know-my-zip-code-link-in-the-wedding-list-creation-page-is-redirecting-to-the-wedding-list-creation-page
+slugEN: el-enlace-no-se-mi-codigo-postal-en-la-pagina-de-creacion-de-listas-de-bodas-redirecciona-el-usuario-a-la-propia-pagina-de-creacion-de-listas-de-bodas
 locale: es
 kiStatus: Backlog
 internalReference: 

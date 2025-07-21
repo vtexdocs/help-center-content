@@ -1,5 +1,5 @@
 ---
-title: 'El mensaje que aparece al hacer clic en el botón Comprar impide que los clientes continúen con la compra'
+title: "El mensaje que aparece al hacer clic en el botón Comprar impide que los clientes continúen con la compra"
 id: 3i3eys6d4MWnt0E611OdPH
 status: PUBLISHED
 createdAt: 2021-10-13T16:50:22.116Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: message-displayed-when-clicking-the-buy-button-prevents-customers-from-proceeding-with-the-purchase
+slugEN: el-mensaje-que-aparece-al-hacer-clic-en-el-boton-comprar-impide-que-los-clientes-continuen-con-la-compra
 locale: es
 kiStatus: Backlog
 internalReference: 

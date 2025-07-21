@@ -1,5 +1,5 @@
 ---
-title: 'When loading a product page with a selection of SKUs by parameter (URL), the price is not correctly updated'
+title: "When loading a product page with a selection of SKUs by parameter (URL), the price is not correctly updated"
 id: 4PAYx8WD2MIce8YMAaK2yk
 status: PUBLISHED
 createdAt: 2017-08-17T00:24:35.581Z

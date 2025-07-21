@@ -15,4 +15,4 @@ legacySlug: configuring-payment-with-tino
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation. </div>

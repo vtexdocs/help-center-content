@@ -15,11 +15,13 @@ legacySlug: modulo-lancamentos-beta
 subcategoryId: unknown-subcategory
 ---
 
->ℹ️ O módulo **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam FastStore.
+<div class="alert alert-info">
+O módulo <b>Lançamentos</b> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam FastStore.
+</div>
 
 O gerenciamento de uma operação de ecommerce requer que o lojista faça uma série de atualizações e modificações na sua loja, que muitas vezes estão relacionadas entre si. Um exemplo é a realização de uma campanha publicitária, em que diferentes elementos do storefront precisam ser configurados.
 
-O módulo **Lançamentos** permite ao lojista gerenciar grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação das modificações na loja. Na fase em beta, as modificações que podem ser agrupadas precisam ser relacionadas ao [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), outros módulos da plataforma VTEX ainda não estão inclusos.
+O módulo **Lançamentos** permite ao lojista gerenciar grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação das modificações na loja. Na fase em beta, as modificações que podem ser agrupadas precisam ser relacionadas ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), outros módulos da plataforma VTEX ainda não estão inclusos.
 
 Os principais benefícios com o módulo são:
 
@@ -28,7 +30,9 @@ Os principais benefícios com o módulo são:
 - Maior controle ao testar e revisar mudanças antes da publicação.
 - Facilidade em agendar ou excluir grupos de modificações.
 
->ℹ️ Para utilizar o módulo **Lançamentos** é necessário realizar a configuração do CMS. Saiba mais em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+<div class = "alert alert-info">
+Para utilizar o módulo <b>Lançamentos</b> é necessário realizar a configuração do CMS. Saiba mais em <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.
+</div>
 
 O artigo trata adiante dos seguintes tópicos:
 
@@ -63,7 +67,9 @@ Siga o passo a passo abaixo para criar um lançamento:
 6. Clique em `Criar um lançamento`.
 7. Preencha o campo _Nome_ com um nome para o lançamento.
 
-  >ℹ️ Nesta etapa, não é obrigatório preencher os campos **Dia da publicação** e Hora</b>. Isso pode ser determinado depois, como será visto em [Agendar lançamentos](https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#agendar-lancamentos).
+  <div class = "alert alert-info">
+Nesta etapa, não é obrigatório preencher os campos <b>Dia da publicação</b> e Hora</b>. Isso pode ser determinado depois, como será visto em <a href="https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#agendar-lancamentos">Agendar lançamentos</a>.
+</div>
 
 8. Clique em `Criar`.
 
@@ -78,7 +84,9 @@ Siga o passo a passo abaixo para criar um lançamento:
 2. Clique no botão `Criar`.
 3. Preencha o campo _Nome_ com um nome para o lançamento.
 
-  >ℹ️ Nesta etapa, não é obrigatório preencher os campos **Dia da publicação** e Hora</b>. Isso pode ser determinado depois, como será visto em [Agendar lançamentos](https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#agendar-lancamentos).
+  <div class = "alert alert-info">
+Nesta etapa, não é obrigatório preencher os campos <b>Dia da publicação</b> e Hora</b>. Isso pode ser determinado depois, como será visto em <a href="https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#agendar-lancamentos">Agendar lançamentos</a>.
+</div>
 
 4. Clique em `Criar`.
 
@@ -121,7 +129,9 @@ Na criação de um lançamento, é possível definir ou não a data de publicaç
 - **Desagendar:** cancelar a data de publicação, o que faz o lançamento passar para o status `Não agendado`.
 - **Reagendar:** definir uma nova data para um lançamento que já tinha data determinada.
 
->ℹ️ Ao agendar ou reagendar a publicação de um lançamento, é possível selecionar a opção **Adicionar data de fim**, de forma a definir um prazo para o lançamento ser despublicado. A data fim não significa a [exclusão do lançamento](https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#excluir-lancamentos), e sim o seu arquivamento, podendo o lançamento ser publicado novamente a qualquer tempo.
+<div class = "alert alert-info">
+Ao agendar ou reagendar a publicação de um lançamento, é possível selecionar a opção <b>Adicionar data de fim</b>, de forma a definir um prazo para o lançamento ser despublicado. A data fim não significa a <a href="https://help.vtex.com/pt/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#excluir-lancamentos">exclusão do lançamento</a>, e sim o seu arquivamento, podendo o lançamento ser publicado novamente a qualquer tempo.
+</div>
 
 ### Agendar
 
@@ -180,7 +190,9 @@ Outra forma de publicar é entrando na página de detalhes do lançamento, confo
 
 Siga o passo a passo abaixo para excluir um lançamento:
 
->❗ Lançamentos excluídos são deletados e não podem ser recuperados. As atualizações que faziam parte do lançamento são mantidas, mas o agrupamento entre elas deixa de existir.
+<div class="alert alert-danger">
+Lançamentos excluídos são deletados e não podem ser recuperados. As atualizações que faziam parte do lançamento são mantidas, mas o agrupamento entre elas deixa de existir.
+</div>
 
 1. No Admin VTEX, acesse **Configurações da loja > Lançamentos.**
   > Se sua loja utiliza o Redesigned VTEX Admin, acesse **Storefront > Lançamentos**.

@@ -1,5 +1,5 @@
 ---
-title: 'Merchant not being able to open account for some clients in Customer Credit API'
+title: "Merchant not being able to open account for some clients in Customer Credit API"
 id: 4NGCingtQxzFV1gMbxFzT1
 status: PUBLISHED
 createdAt: 2023-09-25T13:22:58.063Z

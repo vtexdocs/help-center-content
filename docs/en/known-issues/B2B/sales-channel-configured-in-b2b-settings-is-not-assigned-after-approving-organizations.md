@@ -1,5 +1,5 @@
 ---
-title: 'Sales channel configured in B2B Settings is not assigned after approving Organizations'
+title: "Sales channel configured in B2B Settings is not assigned after approving Organizations"
 id: 7kxMtk2YHJdk5uPdj5wBs5
 status: PUBLISHED
 createdAt: 2023-07-21T20:03:44.671Z

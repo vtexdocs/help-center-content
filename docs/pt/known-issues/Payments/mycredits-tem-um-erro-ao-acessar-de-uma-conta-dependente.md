@@ -1,5 +1,5 @@
 ---
-title: 'MyCredits tem um erro ao acessar de uma conta dependente'
+title: "MyCredits tem um erro ao acessar de uma conta dependente"
 id: 6QJWAD7Q2PSEMsmZYXqMag
 status: PUBLISHED
 createdAt: 2022-03-27T16:19:47.411Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: mycredits-has-an-error-when-accessing-from-an-dependent-account
+slugEN: mycredits-tem-um-erro-ao-acessar-de-uma-conta-dependente
 locale: pt
 kiStatus: No Fix
 internalReference: 367276
@@ -18,7 +18,9 @@ internalReference: 367276
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Existe a possibilidade de criar um dependente adicional, ao criar uma conta no Crédito ao Cliente e quando você faz isso, a conta dependente está mostrando um erro ao acessar o MyCredits (dentro de Minha Conta)

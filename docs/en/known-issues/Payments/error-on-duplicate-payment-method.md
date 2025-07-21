@@ -1,5 +1,5 @@
 ---
-title: 'Error on duplicate payment method'
+title: "Error on duplicate payment method"
 id: 1wdiEae6sehlnTDnanWT7n
 status: PUBLISHED
 createdAt: 2023-11-02T12:23:14.027Z

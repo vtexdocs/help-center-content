@@ -3,8 +3,8 @@ title: 'Adding SKU specifications or fields'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-11-30T12:05:25.945Z
-publishedAt: 2023-11-30T12:05:25.945Z
+updatedAt: 2025-05-20T20:29:30.252Z
+publishedAt: 2025-05-20T20:29:30.252Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 An SKU specification is a mandatory field in the SKU form where you can insert specific characteristics for every product variation.
 
-At VTEX, a specification is always included in a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
+At VTEX, a specification is always included in a [specification group](/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
 
 Example: A fashion store which intends to sell a **Polo shirt** product in the S, M or L sizes. In the **T-shirts** category, the specification group can be named **Characteristics**. In this case, size is the characteristic which will distinguish one SKU from another. Therefore, the retailer must create an SKU field called **Size**, having **S**, **M** and **L** as value options.
 
@@ -33,7 +33,9 @@ In this article, we explain how the specification inheritance works for the adde
         * [SKU Registration](#sku-registration)
         * [Spreadsheet](#spreadsheet)
 
->ℹ️ To create an SKU specification using **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
+<div class = "alert alert-info">
+  <p>To create an SKU specification using <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
+</div>
 
 ## SKU Specification inheritance
 
@@ -47,13 +49,15 @@ Since this is an SKU specification, the information selected on that page will a
 
 ## Step-by-step instructions in the VTEX Admin
 
-To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
+To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
 
 See the step-by-step instructions below.
 
 ### Creating an SKU field
 
->⚠️ Once created, the SKU fields cannot be deleted. If you uncheck the field, all the SKUs in that category will become inactive, until the field is checked again. If you do not fill out a specification when adding an SKU, it may cause the SKU not to appear on the website, because it is inactive.
+<div class = "alert alert-warning">
+  <p>Once created, the SKU fields cannot be deleted. If you uncheck the field, all the SKUs in that category will become inactive, until the field is checked again. If you do not fill out a specification when adding an SKU, it may cause the SKU not to appear on the website, because it is inactive.</p>
+</div>
 
 To create an SKU field, follow the instructions below:
 
@@ -61,29 +65,36 @@ To create an SKU field, follow the instructions below:
 2. Click on **Categories**.
 3. Click the category associated with the specification group in which you want to create the SKU field.
 
-  >⚠️ Please note that when you create a specification for a higher category level, it will appear in all the sublevels of that category.
+  <div class = "alert alert-warning">
+    <p>Please note that when you create a specification for a higher category level, it will appear in all the sublevels of that category.</p>
+  </div>
 
-3. Click `Actions` <i class="fas fa-angle-down"></i>.
-4. Click `Field (SKU)`.
-5. Click `New field`.
-6. Fill in the information related to the field you are creating:
-    * **Name**: Name of the SKU specification (field).
-    * **Text**: Field description.
+4. Click `Actions` <i class="fas fa-angle-down"></i>.
+5. Click `Field (SKU)`.
+6. Click `New field`.
+7. Fill in the information related to the field you are creating:
+
+    <div class = "alert alert-info">
+      <p>It is mandatory to fill in the fields marked with an asterisk ( * ). The settings regarding which fields are required or not cannot be changed.</p>
+    </div>
+
+    * **Name** *: Name of the SKU specification (field).
+    * **Text** *: Field description.
     * **Type**: Field type, which may vary between **Combo **or **Radio**. For more information on each option, read the [Field types](#sku-field-types) section.
-    * **Group**: Name of the [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), in which the field will be included.
+    * **Group**: Name of the [specification group](/en/tutorial/creating-category-groups--tutorials_246), in which the field will be included.
     * **Filter**: Defines if the specification will be used as a filter when navigating the** website.**
     * **Required**: Defines if a value is mandatory when adding an SKU. In the field is mandatory, the SKU may only be activated after filling in this specification.
     * **Show Specification**: Defines if the field is displayed on the SKU details page, in the **Specifications** tab.
-    * **Link in the Top Menu**: Defines if the link to the field values is displayed in the in the main menu of the site.
-    * **Link in the Side Menu**: Defines if the link to the field values is displayed in the side menu of the site.
-    * **Active**: Inserts or removes this field when adding an SKU.
-7. Click `Save`.
+    * **Link in the top menu**: Defines if the link to the field values is displayed in the in the main menu of the site.
+    * **Link in the side menu**: Defines if the link to the field values is displayed in the side menu of the site.
+    * **Active**: Activates this field.
+8. Click `Save`.
 
 ![sku-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-sku-specifications-or-fields_2.gif)
 
 #### SKU Field types
 
-There are two SKU field types — **Combo** and **Radio**. The purpose of SKU specifications is to distinguish between variations of the same product, based on objective and preset characteristics for selection, such as size or color, among others. To display text fields and more complex HTML structures, such as descriptions or size charts, you must use the [product fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106) feature.
+There are two SKU field types — **Combo** and **Radio**. The purpose of SKU specifications is to distinguish between variations of the same product, based on objective and preset characteristics for selection, such as size or color, among others. To display text fields and more complex HTML structures, such as descriptions or size charts, you must use the [product fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106) feature.
 
 See the table below for details on the SKU field types you can select in the **Type** option when [creating an SKU field](#creating-an-sku-field):
 
@@ -132,7 +143,9 @@ The **Values** of the SKU fields will vary according to the selected field type:
 
 ![sku-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-sku-specifications-or-fields_4.gif)
 
->ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
+<div class = "alert alert-info">
+  <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
+</div>
 
 #### Accessing or editing values
 
@@ -198,5 +211,5 @@ To fill in SKU specifications in bulk using a spreadsheet, first you must export
 ![sku-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-sku-specifications-or-fields_6.gif)
 
 ## Learn more
-- [Adding product specifications or fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
-- [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Adding product specifications or fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
+- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

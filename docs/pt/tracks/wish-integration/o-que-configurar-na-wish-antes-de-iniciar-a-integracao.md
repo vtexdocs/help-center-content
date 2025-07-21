@@ -14,7 +14,7 @@ trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugPT: integracao-com-a-wish
 ---
 
->⚠️ Atualmente, o app da Wish está disponível somente para lojas brasileiras.
+<div class="alert alert-warning">Atualmente, o app da Wish está disponível somente para lojas brasileiras.</div>
 
 É necessário preparar o seu ambiente na Wish antes de iniciar a integração na VTEX. Os principais passos são:
 

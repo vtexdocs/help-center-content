@@ -1,16 +1,16 @@
 ---
-title: 'O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma'
+title: "O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma"
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z
-updatedAt: 2024-08-28T17:03:13.933Z
-publishedAt: 2024-08-28T17:03:13.933Z
+updatedAt: 2025-03-14T18:38:56.651Z
+publishedAt: 2025-03-14T18:38:56.651Z
 firstPublishedAt: 2023-06-09T20:41:32.884Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom
+slugEN: o-intelligent-search-multilingue-nao-e-compativel-com-duas-variacoes-do-mesmo-idiomaidioma
 locale: pt
 kiStatus: Backlog
 internalReference: 841704
@@ -18,7 +18,9 @@ internalReference: 841704
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere, e se usarmos mais de uma localidade na conta, a tradução será feita com base no idioma ao qual a localidade se refere.

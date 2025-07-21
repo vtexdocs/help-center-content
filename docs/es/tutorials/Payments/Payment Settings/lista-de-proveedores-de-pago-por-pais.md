@@ -15,7 +15,7 @@ legacySlug: lista-de-proveedores-de-pago-por-pais
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-VTEX ofrece la posibilidad de varios [proveedores de pago](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444) para su negocio en muchos países.
+VTEX ofrece la posibilidad de varios [proveedores de pago](/es/tutorial/afiliacoes-de-gateway--tutorials_444) para su negocio en muchos países.
 
 Para identificar las opciones disponibles, ingrese el nombre del país, el proveedor de pago o la disponibilidad de Split de Cobros (Sí/No) en el campo **Search** de la a continuación. También puede optar por mostrar 10, 25, 50 o 100 resultados por página seleccionando el campo **Show Entries**.
 

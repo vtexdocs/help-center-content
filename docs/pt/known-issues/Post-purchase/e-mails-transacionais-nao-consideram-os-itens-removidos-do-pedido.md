@@ -1,5 +1,5 @@
 ---
-title: 'E-mails transacionais não consideram os itens removidos do pedido'
+title: "E-mails transacionais não consideram os itens removidos do pedido"
 id: 42sPSPAnjiMkeOIsSAgmo4
 status: PUBLISHED
 createdAt: 2018-03-27T15:00:02.581Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Message Center,Order Management
-slugEN: transactional-emails-dont-consider-items-removed-from-the-order
+slugEN: e-mails-transacionais-nao-consideram-os-itens-removidos-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'El flujo de pedidos de Cumplimiento/Vendedor avanza independientemente de si tiene el indicador de pedido incompleto (isCompleted=false) en el pedido de Marketplace'
+title: "El flujo de pedidos de Cumplimiento/Vendedor avanza independientemente de si tiene el indicador de pedido incompleto (isCompleted=false) en el pedido de Marketplace"
 id: 1wy7o9sS7qKnvVlaJd9Pq9
 status: PUBLISHED
 createdAt: 2024-11-21T18:39:13.496Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: the-fulfillmentseller-order-flow-progresses-regardless-of-whether-it-has-the-incomplete-order-flag-iscompletedfalse-in-the-marketplace-order
+slugEN: el-flujo-de-pedidos-de-cumplimientovendedor-avanza-independientemente-de-si-tiene-el-indicador-de-pedido-incompleto-iscompletedfalse-en-el-pedido-de-marketplace
 locale: es
 kiStatus: Backlog
 internalReference: 345526
@@ -18,7 +18,9 @@ internalReference: 345526
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

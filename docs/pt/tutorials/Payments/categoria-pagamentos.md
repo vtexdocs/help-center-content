@@ -3,9 +3,9 @@ title: 'Pagamentos'
 id: category-payments
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
-productTeam: Post-purchase
+productTeam: Financial
 slugEN: category-payments
 locale: pt
 ---

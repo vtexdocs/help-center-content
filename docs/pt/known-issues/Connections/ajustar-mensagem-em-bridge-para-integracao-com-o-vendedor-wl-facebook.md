@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar mensagem em bridge para integração com o vendedor WL - Facebook'
+title: "Ajustar mensagem em bridge para integração com o vendedor WL - Facebook"
 id: 1BkqKFPOSVBWoXnbVLzwP7
 status: PUBLISHED
 createdAt: 2022-06-17T13:35:57.858Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: adjust-message-in-bridge-for-integration-with-wl-seller-facebook
+slugEN: ajustar-mensagem-em-bridge-para-integracao-com-o-vendedor-wl-facebook
 locale: pt
 kiStatus: Backlog
 internalReference: 600208
@@ -18,7 +18,9 @@ internalReference: 600208
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ajustar mensagem em ponte para integração com o vendedor WL

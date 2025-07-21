@@ -1,5 +1,5 @@
 ---
-title: "Checkout com erro 'loja não encontrada'. O que fazer?"
+title: 'Checkout com erro "loja não encontrada". O que fazer?'
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z

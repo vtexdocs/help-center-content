@@ -1,5 +1,5 @@
 ---
-title: 'The order confirmation email is sent twice when two different payment methods are used'
+title: "The order confirmation email is sent twice when two different payment methods are used"
 id: 3QkvzMI8Tx6k9ikQSsREpt
 status: PUBLISHED
 createdAt: 2021-09-21T14:38:35.783Z

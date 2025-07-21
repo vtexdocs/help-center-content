@@ -1,5 +1,5 @@
 ---
-title: 'Alterações nas condições de pagamento não aplicadas nas configurações de checkout B2B'
+title: "Alterações nas condições de pagamento não aplicadas nas configurações de checkout B2B"
 id: 12PfZx6O0MIUSIFdpQdUdI
 status: PUBLISHED
 createdAt: 2024-04-18T19:07:22.743Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: payment-terms-changes-not-applied-in-the-b2b-checkout-settings
+slugEN: alteracoes-nas-condicoes-de-pagamento-nao-aplicadas-nas-configuracoes-de-checkout-b2b
 locale: pt
 kiStatus: Fixed
 internalReference: 1019548
@@ -18,7 +18,9 @@ internalReference: 1019548
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A atualização das condições de pagamento na UI de detalhes da organização para uma organização não se aplica às configurações de checkout B2B.

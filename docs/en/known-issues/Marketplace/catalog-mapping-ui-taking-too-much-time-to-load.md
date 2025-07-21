@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Mapping UI taking too much time to load.'
+title: "Catalog Mapping UI taking too much time to load."
 id: 3k0hZEn51PUFUfw0fCs1VM
 status: PUBLISHED
 createdAt: 2023-05-10T16:40:05.978Z

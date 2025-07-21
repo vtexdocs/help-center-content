@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with Lyra'
 id: 1FlJmbVEqF8KJ5ueZUpCWM
-status: ARCHIVED
+status: PUBLISHED
 createdAt: 2022-10-18T13:23:05.314Z
-updatedAt: 2022-12-23T20:24:51.783Z
-publishedAt: 
+updatedAt: 2025-07-16T22:35:59.168Z
+publishedAt: 2025-07-16T22:35:59.168Z
 firstPublishedAt: 2022-10-18T16:31:23.474Z
 contentType: tutorial
 productTeam: Financial
@@ -15,36 +15,35 @@ legacySlug: setting-up-payments-with-lyra
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Lyra payment provider. With this connector, your store can make sales through the Lyra.
+At VTEX, it is possible to integrate with the Lyra payment provider.Through this provider, your store can make sales using Lyra.
 
-To set up Lyra affiliation, follow the steps below:
+To configure Lyra, follow the steps below:
 
-1. Access the __Admin__ VTEX.
-2. Click on __Payments__.
-3. Then, click on __Settings__.
-4. In the __Gateway affiliations__ tab, click on the `+` button.
-5. Click on the __Lyra__ connector.
-6. Click the __Install app__ button and follow the installation instructions.
-7. Fill in the following fields with data provided by Lyra:
-   - __Application Key__
-   - __Application Token__
-   - __Modo__
-   - __Contraseña de Test__
-   - __Contraseña de Producción__
-   - __Clave Pública de Test__
-   - __Clave Pública de Producción__
-   - __Clave HMAC-SHA-256 de Test__ 
-   - __Clave HMAC-SHA-256 de Producción__
-8. Click on `Save`.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider button.
+3. Type the name **Lyra** in the search bar and click on the name of the provider.
+4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account Lyra.
+5. If you wish to modify the identification name to be displayed for the Lyra provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
+7. In the **Automatic settlement** field, select one of the following option:
+<ul>
+    	<li><b>Use behavior recommended by the payment processor</b>: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform`s default behavior).</li>
+    	<li><b>Automatic capture immediately after payment authorization</b>: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
+    	<li><b>Automatic capture immediately after anti-fraud analysis</b>: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>
+    	<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
+</ul>
+
+9. In **Provider Fields**, select or complete the fields **Clave pública, Clave HMAC-SHA-256, Pago por token, Modo de ingreso de datos de pago, Número de intentos de pago con tarjeta, Tema, Modo compacto** according to the provider`s instructions.
+10. Click `Save`.
 
 ## Setting up Lyra payment condition 
 
-1. Access the __Admin__ VTEX.
-2. Click on __Payments__.
-3. Then, click on __Settings__.
-4. In the __Payment Conditions__ tab, click on the `+` button.
-5. Choose the payment condition __Lyra__.
-6. Activate the condition in the __Status__ field.
-7. Click on `Save`.
+1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
+2. In the __Payment Conditions__ tab, click the `+` button.
+3. Click __Lyra__ option.
+4. On the configuration page, activate the condition by clicking __Status__.
+5. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
+6. If necessary, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+7. Click `Save`.
 
-After following the indicated steps, Lyra connector may take up to 10 minutes to appear at your store's checkout as a payment option.
+After following the indicated steps, Lyra may take up to 10 minutes to appear at your store's checkout as a payment option.

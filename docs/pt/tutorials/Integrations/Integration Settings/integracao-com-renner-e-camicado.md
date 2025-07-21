@@ -17,9 +17,11 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 A [Renner](https://www.lojasrenner.com.br/) é uma marca do segmento fashion, e a [Camicado](https://www.camicado.com.br/) uma empresa do segmento de casa e decoração. Ambas fazem parte da corporação brasileira Lojas Renner S.A., um ecossistema de moda e lifestyle.
 
-Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
+Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
 
->ℹ️ Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
+<div class="alert alert-info">
+Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
+</div>
 
 Cada marketplace possui um método de cadastro:
 
@@ -41,13 +43,13 @@ Para integrar com a Renner ou a Camicado, é necessário realizar as seguintes e
 
 ### Definir política comercial
 
-A [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos na Renner ou na Camicado, não é necessário [criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
+A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos na Renner ou na Camicado, não é necessário [criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Caso seja do seu interesse ter configurações específicas para vender na Renner ou na Camicado, você pode [configurar uma política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a Renner e a Camicado, ou outras lojas VTEX.
+Caso seja do seu interesse ter configurações específicas para vender na Renner ou na Camicado, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a Renner e a Camicado, ou outras lojas VTEX.
 
 ### Criar novo AppKey e AppToken
 
-A chave de integração, chamada de _access key_, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e a Renner e Camicado. Somente o [usuário Titular da conta (_owner_)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para [criar um *AppKey e AppToken*](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication), e a opção só é visível no Admin para este usuário. 
+A chave de integração, chamada de _access key_, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e a Renner e Camicado. Somente o [usuário Titular da conta (_owner_)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para [criar um *AppKey e AppToken*](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication), e a opção só é visível no Admin para este usuário. 
 
 Se você for integrar com os dois parceiros, Renner e Camicado, será necessário criar um *AppKey e AppToken* para cada um deles. Para configurar uma nova chave, siga os passos abaixo:
 
@@ -58,11 +60,13 @@ Se você for integrar com os dois parceiros, Renner e Camicado, será necessári
 5. Clique em `Adicionar perfis` e selecione os perfis desejados.  
 6. Clique em `Gerar`.  
 
->❗ O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+<div class="alert alert-danger">
+O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
+</div>
 
 ### Criar ID do afiliado
 
-O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com a Renner ou a Camicado, é preciso [configurar um afiliado](https://help.vtex.com/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo. Para criar um novo ID do afiliado, siga os passos abaixo:
+O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com a Renner ou a Camicado, é preciso [configurar um afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo. Para criar um novo ID do afiliado, siga os passos abaixo:
 
 1. No Admin VTEX, acesse __Configurações da loja > Pedidos > Configurações__, ou digite Pedidos na barra de busca no topo da página e e selecione *Configurações da loja / Pedidos*.  
 2. Na aba __Afiliados__, Clique em `+Novo afiliado`.  
@@ -119,6 +123,8 @@ Alguns dos dados a serem enviados são encontrados no seu Admin, são eles:
 
 Uma vez que você tenha reunido esses dados, você deverá enviá-los para o contato informado pela Renner ou pela Camicado, e a integração será concluída pelo parceiro. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos próprios parceiros.
 
->ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do [Tutorial de Auxílio ao parceiro.pdf](//assets.ctfassets.net/alneenqid6w5/6ZlzfzebAChZfHotC5TAjW/e31c7ac40a98ff314c6368f009331b9d/Tutorial_de_Aux_lio_ao_parceiro.pdf).  
+<div class="alert alert-info">
+A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do <a href="//assets.ctfassets.net/alneenqid6w5/6ZlzfzebAChZfHotC5TAjW/e31c7ac40a98ff314c6368f009331b9d/Tutorial_de_Aux_lio_ao_parceiro.pdf">Tutorial de Auxílio ao parceiro.pdf</a>.
+</div>  
 
 Caso você tenha dúvidas sobre a integração com a Renner, você pode utilizar o [formulário de suporte Renner](https://atendimento.lojasrenner.com.br/hc/pt-br/requests/new?ticket_form_id=360004738294). Se as dúvidas forem relativas à Camicado, entre em contato pelo email _suporte_marketplace@camicado.com.br_.

@@ -36,4 +36,4 @@ Finally, return to the initial panel and follow the steps below.
 5. Search for the desired __SKU__.
 6. Confirm that the __price table__ has the price registered.
 
-To learn more, read the article [Setting up Price Tables for specific users](https://help.vtex.com/en/tutorial/setting-up-price-tables-for-specific-users-using-session--5S9oDOMHNmY4K0kAewAiWY).
+To learn more, read the article [Setting up Price Tables for specific users](/en/tutorial/setting-up-price-tables-for-specific-users-using-session--5S9oDOMHNmY4K0kAewAiWY).

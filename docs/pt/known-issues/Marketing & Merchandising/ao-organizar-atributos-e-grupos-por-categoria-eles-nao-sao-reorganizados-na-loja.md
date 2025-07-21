@@ -1,5 +1,5 @@
 ---
-title: 'Ao organizar atributos e grupos por categoria, eles não são reorganizados na loja'
+title: "Ao organizar atributos e grupos por categoria, eles não são reorganizados na loja"
 id: 1oWkNKBfrWMmKSWOeeGikO
 status: PUBLISHED
 createdAt: 2017-12-18T17:08:46.708Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: attributes-and-groups-organized-by-category-are-not-reorganized-in-the-store
+slugEN: ao-organizar-atributos-e-grupos-por-categoria-eles-nao-sao-reorganizados-na-loja
 locale: pt
 kiStatus: Backlog
 internalReference: 

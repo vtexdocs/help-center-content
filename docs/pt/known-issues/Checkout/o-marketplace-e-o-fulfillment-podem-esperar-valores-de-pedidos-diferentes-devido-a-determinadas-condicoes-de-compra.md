@@ -1,5 +1,5 @@
 ---
-title: 'O Marketplace e o Fulfillment podem esperar valores de pedidos diferentes devido a determinadas condições de compra'
+title: "O Marketplace e o Fulfillment podem esperar valores de pedidos diferentes devido a determinadas condições de compra"
 id: 5LoC3DwesBWH5kr2b5u6WD
 status: PUBLISHED
 createdAt: 2024-05-13T20:04:19.094Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketplace-and-fulfillment-can-expect-different-order-values-due-to-certain-purchase-conditions
+slugEN: o-marketplace-e-o-fulfillment-podem-esperar-valores-de-pedidos-diferentes-devido-a-determinadas-condicoes-de-compra
 locale: pt
 kiStatus: Backlog
 internalReference: 1032473
@@ -18,7 +18,9 @@ internalReference: 1032473
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As camadas do Marketplace e do Fulfillment podem esperar valores diferentes para o pedido, impedindo a conclusão da compra.

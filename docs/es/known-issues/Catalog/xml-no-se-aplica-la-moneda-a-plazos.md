@@ -1,5 +1,5 @@
 ---
-title: 'XML - No se aplica la moneda a plazos'
+title: "XML - No se aplica la moneda a plazos"
 id: 7kPbxbGnpqeqU8XCD576hZ
 status: PUBLISHED
 createdAt: 2024-02-02T19:16:59.053Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-installment-currency-does-not-apply
+slugEN: xml-no-se-aplica-la-moneda-a-plazos
 locale: es
 kiStatus: No Fix
 internalReference: 976295
@@ -18,7 +18,9 @@ internalReference: 976295
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se configura una moneda en un XML, se aplica a todos los campos excepto al campo "Cuota".

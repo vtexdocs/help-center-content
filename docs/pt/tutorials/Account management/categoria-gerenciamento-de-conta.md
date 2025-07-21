@@ -3,7 +3,7 @@ title: 'Gerenciamento da conta'
 id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -13,12 +13,11 @@ locale: pt
 ## Controle de acesso
 
 - [Perfis de acesso](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso)
-- [Toolbar de televendas](https://help.vtex.com/pt/docs/tutorials/toolbar-de-televendas)
-- [Como criar um perfil de acesso financeiro?](https://help.vtex.com/pt/docs/tutorials/como-criar-um-perfil-de-acesso-financeiro)
+- [Criar perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso)
 - [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos)
 - [Recursos do License Manager](https://help.vtex.com/pt/docs/tutorials/recursos-do-license-manager)
-- [Controle de acesso](https://help.vtex.com/pt/docs/tutorials/controle-de-acesso)
-- [Criar perfil de acesso](https://help.vtex.com/pt/docs/tutorials/criar-perfil-de-acesso)
+- [Criar um perfil de acesso financeiro](https://help.vtex.com/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro)
+- [Toolbar de televendas](https://help.vtex.com/pt/docs/tutorials/toolbar-de-televendas)
 
 ## Usuários
 

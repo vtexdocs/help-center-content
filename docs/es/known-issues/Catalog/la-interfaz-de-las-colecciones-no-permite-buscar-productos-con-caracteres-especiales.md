@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de las colecciones no permite buscar productos con caracteres especiales'
+title: "La interfaz de las colecciones no permite buscar productos con caracteres especiales"
 id: 3O9C8uOskw2UJYdBVUCFw
 status: PUBLISHED
 createdAt: 2022-04-07T20:36:02.541Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-ui-doesnt-allow-to-search-for-products-with-special-characters
+slugEN: la-interfaz-de-las-colecciones-no-permite-buscar-productos-con-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 344451
@@ -18,7 +18,9 @@ internalReference: 344451
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de colecciones, `.myvtex.com/admin/collections`, no permite a los usuarios buscar productos con caracteres especiales.

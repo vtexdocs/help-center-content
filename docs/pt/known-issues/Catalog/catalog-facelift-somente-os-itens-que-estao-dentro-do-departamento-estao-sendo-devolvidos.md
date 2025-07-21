@@ -1,16 +1,16 @@
 ---
-title: '[Catalog] [Facelift] Somente os itens que estão dentro do departamento estão sendo devolvidos'
+title: "[Catalog] [Facelift] Somente os itens que estão dentro do departamento estão sendo devolvidos"
 id: 5oWpggJGMvwQOEEzWnb75I
 status: PUBLISHED
 createdAt: 2024-10-17T12:41:39.520Z
-updatedAt: 2024-10-17T12:42:06.645Z
-publishedAt: 2024-10-17T12:42:06.645Z
+updatedAt: 2024-12-19T18:41:16.770Z
+publishedAt: 2024-12-19T18:41:16.770Z
 firstPublishedAt: 2024-10-17T12:41:40.784Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-facelift-only-items-that-are-within-the-department-are-being-returned
+slugEN: catalog-facelift-somente-os-itens-que-estao-dentro-do-departamento-estao-sendo-devolvidos
 locale: pt
 kiStatus: Backlog
 internalReference: 1118841
@@ -18,7 +18,9 @@ internalReference: 1118841
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Somente os itens que estão dentro do departamento estão sendo devolvidos

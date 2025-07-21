@@ -1,5 +1,5 @@
 ---
-title: 'Skus recebidos: A função de exportação não está funcionando para administradores em outros idiomas (somente PT, EN, ES)'
+title: "Skus recebidos: A função de exportação não está funcionando para administradores em outros idiomas (somente PT, EN, ES)"
 id: 2fV4YP1dpdQRBYqT9S7Lzi
 status: PUBLISHED
 createdAt: 2022-09-29T14:23:38.774Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: received-skus-export-function-not-working-for-admins-in-other-languages-only-pt-en-es
+slugEN: skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-somente-pt-en-es
 locale: pt
 kiStatus: Fixed
 internalReference: 668122
@@ -18,7 +18,9 @@ internalReference: 668122
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de exportação para recuperar uma planilha com os skus pendentes, aprovados ou rejeitados por vendedor não está funcionando quando o administrador está definido para qualquer outro idioma que não seja PT, EN, ES.

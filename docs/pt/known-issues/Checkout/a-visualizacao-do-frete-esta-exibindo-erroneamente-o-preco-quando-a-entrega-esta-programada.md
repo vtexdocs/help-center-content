@@ -1,5 +1,5 @@
 ---
-title: 'A visualização do frete está exibindo erroneamente o preço quando a entrega está programada'
+title: "A visualização do frete está exibindo erroneamente o preço quando a entrega está programada"
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-wrongly-displaying-the-price-when-its-scheduled-delivery
+slugEN: a-visualizacao-do-frete-esta-exibindo-erroneamente-o-preco-quando-a-entrega-esta-programada
 locale: pt
 kiStatus: Fixed
 internalReference: 532487
@@ -18,7 +18,9 @@ internalReference: 532487
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O preço de entrega exibido no shipping-preview (carrinho) está incorreto quando os itens têm entrega programada e todos esses itens saem no mesmo SLA. Mesmo com a API retornando o valor correto, a interface do usuário não reflete essa informação e exibe o valor incorreto.

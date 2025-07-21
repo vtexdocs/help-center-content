@@ -21,7 +21,7 @@ El _storefront_ también incluye VTEX Intelligent Search, una herramienta que ay
 
 Estas operaciones se realizan en el menú _Storefront_ de tu Admin VTEX. 
 
-![Storefront overview menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Storefront%20Overview/vision-general-storefront_1.jpg)
+![Storefront overview menu ES](https://images.ctfassets.net/alneenqid6w5/2vIJXsLuEsAOqgOxb9umYZ/b950fe38232e7fdb3603c1c344830d8a/Storefront_overview_menu_ES.jpg)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 
@@ -31,9 +31,9 @@ La sección Gestión de contenidos reúne las herramientas necesarias para crear
 
 Esta sección incluye las siguientes páginas y sus respectivas funcionalidades:
 
-- [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW): Asocia el proyecto del _storefront_ de tu tienda a una política comercial.  
+- [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW): Asocia el proyecto del _storefront_ de tu tienda a una política comercial.  
 - __Pages__: Crea páginas personalizadas para tu tienda.  
-- [Site Editor](https://help.vtex.com/es/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3): Crea, edita, publica y programa modificaciones en los componentes y el comportamiento de tu _storefront_.  
+- [Site Editor](/es/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3): Crea, edita, publica y programa modificaciones en los componentes y el comportamiento de tu _storefront_.  
 - __Banners__: Crea reglas para mostrar diferentes _banners_ en tu _storefront_.  
 - __Styles__: Gestiona la tipografía y la paleta de colores del _storefront_.   
 - __Redirects__: Crea redireccionamientos de una URL de tu tienda a otra.  
@@ -43,14 +43,14 @@ Esta sección incluye las siguientes páginas y sus respectivas funcionalidades:
 _Intelligent Search_ es una aplicación de búsqueda inteligente para ecommerce que ayuda al cliente en su jornada de compra. Desde el principio de la interacción del usuario con la barra de búsqueda, la herramienta presenta sugerencias y resultados de búsqueda estratégicos.
 
 La sección incluye las siguientes páginas:
-- [Reglas de relevancia](https://help.vtex.com/es/v4/docs/reglas-de-relevancia--1Eb7AncaXipJGDuY0sz9IS): define el orden de los productos en el resultado de búsqueda.  
-- [Redireccionamientos](https://help.vtex.com/es/v4/docs/redireccionamientos--e5KdkBkx2ZIB4d4sFgPnT): redirecciona al cliente a cualquier otra página, interna o externa a tu sitio web.  
-- [Configuración de búsqueda](https://help.vtex.com/es/v4/docs/configuracion-de-busqueda--3vB1ISndZI2dEEa63TeJHy): comprende todos los ajustes globales de VTEX Intelligent Search.
+- [Reglas de relevancia](/es/v4/docs/reglas-de-relevancia--1Eb7AncaXipJGDuY0sz9IS): define el orden de los productos en el resultado de búsqueda.  
+- [Redireccionamientos](/es/v4/docs/redireccionamientos--e5KdkBkx2ZIB4d4sFgPnT): redirecciona al cliente a cualquier otra página, interna o externa a tu sitio web.  
+- [Configuración de búsqueda](/es/v4/docs/configuracion-de-busqueda--3vB1ISndZI2dEEa63TeJHy): comprende todos los ajustes globales de VTEX Intelligent Search.
 
 Las siguientes páginas pronto se incluirán en el nuevo diseño:
-- [Sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL): permite registrar sinónimos para un término de búsqueda específico, lo que aumenta las posibilidades de éxito de la búsqueda.  
-- [Explicación de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
-- [Reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8): manipula los resultados de una búsqueda.   
-- [Historial de indexación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
-- [Analytics](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
+- [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL): permite registrar sinónimos para un término de búsqueda específico, lo que aumenta las posibilidades de éxito de la búsqueda.  
+- [Explicación de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
+- [Reglas de merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8): manipula los resultados de una búsqueda.   
+- [Historial de indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
+- [Analytics](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
 

@@ -15,13 +15,15 @@ announcementImageID: ''
 announcementSynopsisES: 'Usuarios solo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil de aceso y permisos.'
 ---
 
-Los [perfiles de acceso](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permiten a las tiendas conceder y limitar el acceso de los usuarios a un subconjunto determinado de recursos en la plataforma. Aunque esto era suficiente para proteger la integridad y seguridad de su cuenta, los usuarios sí podían ver los ítems del menú de las secciones restringidas del Admin. Ahora las secciones no son visibles de manera que los usuarios solo ven los ítems a los que tienen acceso. 
+Los [perfiles de acceso](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permiten a las tiendas conceder y limitar el acceso de los usuarios a un subconjunto determinado de recursos en la plataforma. Aunque esto era suficiente para proteger la integridad y seguridad de su cuenta, los usuarios sí podían ver los ítems del menú de las secciones restringidas del Admin. Ahora las secciones no son visibles de manera que los usuarios solo ven los ítems a los que tienen acceso. 
 
->ℹ️ Esta acción tiene bajo impacto en las operaciones de la tienda, dado que es una reorganización de la barra de navegación de la izquierda y no supone cambios a los perfiles de usuarios individuales.  Además, no se perderá ninguna configuración predefinida: si sus usuarios ya tenían perfiles y permisos predefinidos, no sufrirán ningún cambio.
+<div class="alert alert-info">
+Esta acción tiene bajo impacto en las operaciones de la tienda, dado que es una reorganización de la barra de navegación de la izquierda y no supone cambios a los perfiles de usuarios individuales.  Además, no se perderá ninguna configuración predefinida: si sus usuarios ya tenían perfiles y permisos predefinidos, no sufrirán ningún cambio.
+</div>
 
 ## ¿Qué cambió?
 
-Antes, los usuarios podían ver los ítems del menú de la barra lateral del Admin, incluso las secciones a las que no tenían acceso. Por ejemplo, un usuario con el [perfil Call center operator](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) no tiene acceso a «Master Data», pero la opción estaría visible en el menú de la barra lateral.
+Antes, los usuarios podían ver los ítems del menú de la barra lateral del Admin, incluso las secciones a las que no tenían acceso. Por ejemplo, un usuario con el [perfil Call center operator](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) no tiene acceso a «Master Data», pero la opción estaría visible en el menú de la barra lateral.
 
 Ahora, los usuarios sólo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil. En el ejemplo anterior, el usuario con el perfil de acceso «Call center operator» ya no verá «Master Data» en el menú de la barra lateral. 
 
@@ -37,4 +39,4 @@ El objetivo de esta modificación de mantenimiento es limitar la visualización 
 
 No necesita tomar ninguna acción. Todos los usuarios automáticamente verán solo los ítems del menú de la barra lateral a los que tengan acceso.
 
-Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) y [cómo crear un perfil de acceso](http://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.
+Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) y [cómo crear un perfil de acceso](http://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.

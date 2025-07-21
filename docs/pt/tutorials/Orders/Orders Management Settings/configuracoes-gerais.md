@@ -52,11 +52,11 @@ Essa configuração é uma flag que ativa ou inativa a possibilidade dos cliente
 ### Modo de visualização
 
 - **Separar visualização por nome de host no Admin:** separa os pedidos por nome de conta na lista de pedidos. Caso a opção esteja marcada, apenas os pedidos referentes ao host serão demonstrados na sua respectiva account. Caso a opção esteja desmarcada, todos os pedidos cadastrados nos domínios da loja serão demonstrados em todas as accounts.
-- **Separar visualização por nome de host no MyAccount:** separa os pedidos por nome de conta no [MyAccount](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), ou seja, na conta do comprador.
+- **Separar visualização por nome de host no MyAccount:** separa os pedidos por nome de conta no [MyAccount](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), ou seja, na conta do comprador.
 
 ### Tipo de máscara de conversa
 
 Essa configuração permite definir a configuração do Conversation Tracker. Ela altera a visualização dos emails dos seus clientes entre os modos **Complexa** ou **Simples**. Os modos alteram a forma como o email é entregue no fluxo do pedido, adicionando uma máscara.
 - **Complexa:** cria um alias (e-mail alternativo) de forma não legível evitando assim a identificação do e-mail por sistemas externos.
-- **Simples:** cria um alias de menor complexidade para o e-mail do usuário comprador, fazendo com que o e-mail continue legível na UI do OMS e quando visto no JSON do pedido. Se quiser saber mais, acesse nosso artigo sobre [como é feita a comunicação com o cliente durante o fluxo pedido](https://help.vtex.com/pt/tutorial/conversation-tracker--tutorials_195?locale=pt).
+- **Simples:** cria um alias de menor complexidade para o e-mail do usuário comprador, fazendo com que o e-mail continue legível na UI do OMS e quando visto no JSON do pedido. Se quiser saber mais, acesse nosso artigo sobre [como é feita a comunicação com o cliente durante o fluxo pedido](/pt/tutorial/conversation-tracker--tutorials_195?locale=pt).
 

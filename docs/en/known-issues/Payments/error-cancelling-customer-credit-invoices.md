@@ -1,5 +1,5 @@
 ---
-title: 'Error cancelling Customer Credit invoices'
+title: "Error cancelling Customer Credit invoices"
 id: 75nZNOHGYGBlAoTOjG6gs
 status: PUBLISHED
 createdAt: 2023-10-26T21:09:54.255Z

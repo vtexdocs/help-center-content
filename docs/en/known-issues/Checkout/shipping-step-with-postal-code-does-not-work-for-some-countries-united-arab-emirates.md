@@ -1,5 +1,5 @@
 ---
-title: 'Shipping step with postal code does not work for some countries (United Arab Emirates)'
+title: "Shipping step with postal code does not work for some countries (United Arab Emirates)"
 id: 2nlXX0e1q1MLiSjCG1U1Uf
 status: PUBLISHED
 createdAt: 2024-06-21T16:31:14.956Z

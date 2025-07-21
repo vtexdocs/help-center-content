@@ -1,5 +1,5 @@
 ---
-title: 'Error al aprobar skus rechazados o revisados por Calidad de la Oferta'
+title: "Error al aprobar skus rechazados o revisados por Calidad de la Oferta"
 id: 7fRMTxq7CFRkyZeK08AGIg
 status: PUBLISHED
 createdAt: 2023-11-23T13:46:30.453Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: error-approving-skus-that-were-rejected-or-reviewed-by-offer-quality
+slugEN: error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta
 locale: es
 kiStatus: Fixed
 internalReference: 940998
@@ -18,7 +18,9 @@ internalReference: 940998
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un sku falla las reglas de Calidad de Oferta creadas por el Marketplace, va directamente a la "Pestaña de Revisión" o "Pestaña de Rechazados" de Skus Recibidos.

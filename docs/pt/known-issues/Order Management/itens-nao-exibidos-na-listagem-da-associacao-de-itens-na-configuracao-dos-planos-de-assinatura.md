@@ -1,5 +1,5 @@
 ---
-title: 'Itens não exibidos na listagem da associação de itens na configuração dos planos de assinatura'
+title: "Itens não exibidos na listagem da associação de itens na configuração dos planos de assinatura"
 id: 4PHLtCcoaRZBEwgWKamaae
 status: PUBLISHED
 createdAt: 2022-08-30T14:06:28.266Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: items-not-displayed-in-item-association-listing-in-subscription-plans-configuration
+slugEN: itens-nao-exibidos-na-listagem-da-associacao-de-itens-na-configuracao-dos-planos-de-assinatura
 locale: pt
 kiStatus: Backlog
 internalReference: 648117
@@ -18,7 +18,9 @@ internalReference: 648117
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

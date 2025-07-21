@@ -19,7 +19,7 @@ Em um cenário onde o consumidor busca diversidade e facilidade de pagamentos, �
 
 Por isso, a VTEX firmou uma parceria com a Lendico, que lançou a função [Boleto Parcelado](https://lendico.com.br/boleto-parcelado-varejista/), visando democratizar o poder de compra e contribuir exponencialmente para o aumento das suas vendas.
 
->ℹ️ Esta opção de pagamento está disponível apenas no Brasil.
+<div class="alert alert-info" role="alert">Esta opção de pagamento está disponível apenas no Brasil.</div>
 
 ## Quem é a Lendico?
 
@@ -43,7 +43,7 @@ A VTEX já se encarrega de garantir uma experiência de compra fluida e simples 
 
 Para utilizar o Boleto Parcelado Lendico, é preciso contatá-los através do e-mail: bizdev@lendico.com.br e firmar uma parceria comercial. Somente a partir daí, será possível realizar as configurações necessárias no ambiente da VTEX.
 
-Todo o passo a passo detalhado está disponível no nosso Help Center, no artigo [Configurar boleto parcelado Lendico como meio de pagamento](https://help.vtex.com/pt/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
+Todo o passo a passo detalhado está disponível no nosso Help Center, no artigo [Configurar boleto parcelado Lendico como meio de pagamento](/pt/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
 
 Caso queira mais informações sobre a Lendico acesse: https://lendico.com.br/boleto-parcelado-varejista 
 

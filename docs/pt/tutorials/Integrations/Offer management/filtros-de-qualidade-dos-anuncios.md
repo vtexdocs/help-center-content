@@ -15,7 +15,7 @@ legacySlug: filtros-de-qualidade-dos-anuncios
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 
+Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 
 
 É importante para a operação do marketplace que existam critérios de qualidade para que os anúncios que chegam até a página já estejam de acordo com os requisitos que importam na curadoria de seu catálogo. 
 
@@ -49,7 +49,7 @@ A funcionalidade permite ao operador de marketplace realizar uma série de açõ
 
 ![PT Default requirements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Offer%20management/filtros-de-qualidade-dos-anuncios_2.png)
 
-A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
+A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
 
 Não é possível desativar as "Default requirements", e estão à mostra na página para dar visibilidade a quais regras já se aplicam a todos os anúncios recebidos. Para visualizar as regras já ativas por padrão, na página _Filtros de qualidade dos anúncios_, selecione o grupo de requisitos `Default requirements` e visualize as opções:
 
@@ -58,7 +58,9 @@ Não é possível desativar as "Default requirements", e estão à mostra na pá
 * Ref ID possui quantidade de caracteres máximo de 50
 * EAN possui quantidade de caracteres máximo de 50
 
->ℹ️ É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig). São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
+<div class="alert alert-info">
+  É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a>. São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
+  </div>
 
 ## Criar grupos de requisitos 
 Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias ou marketplaces. Os grupos de requisitos aplicam regras aos campos listados a seguir. Saiba mais sobre a definição de cada Tipo de requisito.
@@ -79,7 +81,9 @@ Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias 
 
 É possível criar requisitos obrigatórios e/ou opcionais. Saiba mais sobre as implicações de cada requisito em [Catalogar anúncios com requisitos](#catalogar-anuncios-com-requisitos). 
 
->ℹ️ Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
+<div class="alert alert-info">
+Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
+  </div>
 
 Para criar um novo grupo de requisitos:
 
@@ -222,7 +226,7 @@ Para que os grupos de requisitos sejam aplicados nos SKUs Recebidos, é necessá
 
 #### Marca 
 
-Esse campo é preenchido pelo [VTEX Matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) quando a marca enviada pelo seller já foi mapeada anteriormente. É uma regra válida para que sellers só enviem marcas que já foram previamente mapeadas, ou bloquear alguma marca específica que foi mapeada no passado.
+Esse campo é preenchido pelo [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) quando a marca enviada pelo seller já foi mapeada anteriormente. É uma regra válida para que sellers só enviem marcas que já foram previamente mapeadas, ou bloquear alguma marca específica que foi mapeada no passado.
 
 * **Está mapeado:** define a obrigatoriedade da marca enviada pelo seller estar mapeada no VTEX Matcher.
 * **É:** define a obrigatoriedade do campo marca do anúncio corresponder a um valor específico.
@@ -289,7 +293,7 @@ Para excluir grupos de requisitos, **selecione o grupo desejado > clique no menu
 
 ## Catalogar anúncios com requisitos
 
-Uma vez que os grupos de requisitos foram criados e ativados, eles passam a valer seguindo as regras configuradas. Isso significa que todos os anúncios enviados por sellers serão filtrados de acordo com os critérios definidos para sellers, marcas ou categorias cheguem até a página SKU Recebidos, onde o [processo de catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) acontece. 
+Uma vez que os grupos de requisitos foram criados e ativados, eles passam a valer seguindo as regras configuradas. Isso significa que todos os anúncios enviados por sellers serão filtrados de acordo com os critérios definidos para sellers, marcas ou categorias cheguem até a página SKU Recebidos, onde o [processo de catalogação](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) acontece. 
 
 A tabela a seguir descreve o que cada tipo de requisito aciona para anúncios que se encaixam ou não nos critérios estabelecidos.
 

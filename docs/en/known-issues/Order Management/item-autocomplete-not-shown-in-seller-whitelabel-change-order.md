@@ -1,10 +1,10 @@
 ---
-title: 'Item auto-complete not shown in seller whitelabel (change order)'
+title: "Item auto-complete not shown in seller whitelabel (change order)"
 id: 1jvkXj20gVHNtpp3KNL5GW
 status: PUBLISHED
 createdAt: 2024-03-05T21:55:53.411Z
-updatedAt: 2024-03-11T20:00:01.928Z
-publishedAt: 2024-03-11T20:00:01.928Z
+updatedAt: 2025-06-30T19:54:11.785Z
+publishedAt: 2025-06-30T19:54:11.785Z
 firstPublishedAt: 2024-03-05T21:55:54.222Z
 contentType: knownIssue
 productTeam: Order Management
@@ -19,7 +19,7 @@ internalReference: 348841
 ## Summary
 
 
-When changing an item (change order) from a WhiteLabel seller account, the auto-complete does not show the item as expected.
+When changing an item (change order) from a WhiteLabel seller or Seller Portal account, the auto-complete does not show the item as expected.
 
 
 

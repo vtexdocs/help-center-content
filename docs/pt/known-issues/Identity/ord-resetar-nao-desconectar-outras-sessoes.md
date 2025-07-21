@@ -1,5 +1,5 @@
 ---
-title: 'ord resetar não desconectar outras sessões'
+title: "ord resetar não desconectar outras sessões"
 id: 3LVhz4vELaVWEMnO1cpCbI
 status: PUBLISHED
 createdAt: 2022-03-18T18:51:36.294Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: ord-reset-not-logging-out-other-sessions
+slugEN: ord-resetar-nao-desconectar-outras-sessoes
 locale: pt
 kiStatus: Backlog
 internalReference: 530461
@@ -18,7 +18,9 @@ internalReference: 530461
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

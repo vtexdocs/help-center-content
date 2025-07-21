@@ -1,5 +1,5 @@
 ---
-title: 'API do catálogo da unidade de estocagem permite valores de condição comercial inválidos'
+title: "API do catálogo da unidade de estocagem permite valores de condição comercial inválidos"
 id: 1ONAspL4Wj9fdu2tYcX4Ur
 status: PUBLISHED
 createdAt: 2023-03-10T20:44:01.459Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
+slugEN: api-do-catalogo-da-unidade-de-estocagem-permite-valores-de-condicao-comercial-invalidos
 locale: pt
 kiStatus: No Fix
 internalReference: 769053
@@ -18,7 +18,9 @@ internalReference: 769053
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a unidade de estocagem API https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/{skuid} não realiza nenhuma verificação para o campo "CommercialConditionId".

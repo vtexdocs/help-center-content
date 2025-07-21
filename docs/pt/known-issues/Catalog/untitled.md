@@ -1,11 +1,11 @@
 ---
-title: 'Seller commissioning per category does not work with huge categories trees'
-id: 2y4GlUEpyKldR9xo8rX3lY
-status: DRAFT
-createdAt: 2022-01-21T14:43:35.093Z
-updatedAt: 2022-01-21T14:43:35.093Z
-publishedAt: 
-firstPublishedAt: 
+title: "Fullcleanup Timeout"
+id: 4PoY6rRs2SEgKfpQNetdHn
+status: PUBLISHED
+createdAt: 2022-01-26T15:08:31.521Z
+updatedAt: 2023-05-25T14:54:03.807Z
+publishedAt: 2023-05-25T14:54:03.807Z
+firstPublishedAt: 2023-05-25T14:54:03.807Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
@@ -13,46 +13,31 @@ tag:
 slugEN: untitled
 locale: pt
 kiStatus: Backlog
-internalReference: 330958
+internalReference: 277364
 ---
 
 ## Sumário
 
 
-Seller commissioning per category does not work with huge categories trees
+in the `/admin/Site/fullcleanup.aspx `interface, using this procedure for >~20k products generates a timeout on Janus due to a >50s operation.
+
+This is the same issue (origin) of several other timeouts in the catalog.
 
 
 
 ## Simulação
 
 
-1) Enter account `naprateleira`;
-2) Try to edit any seller commissioning, for example: https://naprateleira.vtexcommercestable.com.br/admin/Site/SellerCommissioning.aspx?SellerId=azperfumes
+1) Create over ~20k products in a store.
+
+2) Try running the delete products & SKUs procedure on the FullCleanUp interface: `.myvtex.com/admin/site/fullcleanup.aspx`
+
+A 500 response will be returned along with a timeout error
 
 
 
 ## Workaround
 
 
-- This change can only be done directly on the database and can (or can't) enter on the product team sprints as a task to be done.
-
-lection to a SC;
-- Put this product to be available to this collection and not for the SC on its configuration;
-- The product will be available to the SC.
-
-
-
-## Workaround
-
-
-Remove the product from the collection.
-
-provider=*&form.subject=*&form.email=*&form.env_type=app_version!%3D%22*-beta*%22&form.app_version=*
-
-
-
-## Workaround
-
-
-Check if the email was sent using Splunk.
+- Ask the support team to perform this action.
 

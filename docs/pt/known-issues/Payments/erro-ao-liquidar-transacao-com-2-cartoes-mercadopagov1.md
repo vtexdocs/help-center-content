@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao liquidar transação com 2 cartões - MercadoPagoV1'
+title: "Erro ao liquidar transação com 2 cartões - MercadoPagoV1"
 id: 1WFFLHywLePfl5v5IMhili
 status: PUBLISHED
 createdAt: 2022-03-03T21:30:42.237Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-when-settling-transaction-with-2-cards-mercadopagov1
+slugEN: erro-ao-liquidar-transacao-com-2-cartoes-mercadopagov1
 locale: pt
 kiStatus: No Fix
 internalReference: 395943
@@ -18,7 +18,9 @@ internalReference: 395943
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 ## **Sumário***
 

@@ -1,5 +1,5 @@
 ---
-title: 'Cuando shippingEstimate es = 0, el cálculo de deliverySlaInMinutes devuelve null'
+title: "Cuando shippingEstimate es = 0, el cálculo de deliverySlaInMinutes devuelve null"
 id: UGk2WYb3w3ZWH4pL07TNg
 status: PUBLISHED
 createdAt: 2022-02-01T13:04:45.737Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: when-shippingestimate-is-0-the-deliveryslainminutes-calculation-returns-null
+slugEN: cuando-shippingestimate-es-0-el-calculo-de-deliveryslainminutes-devuelve-null
 locale: es
 kiStatus: No Fix
 internalReference: 514835
@@ -18,7 +18,9 @@ internalReference: 514835
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el flujo de pago `deliverySlaInMinutes` entrega junto con los detalles de la transacción a la pasarela, este dato se calcula en base al `shippingEstimate` entregado por logística, sin embargo cuando este valor entregado por logística es = 0 la respuesta de pago para `deliverySlaInMinutes` es 0 nulo, cuando lo correcto sería 0; sin embargo esto termina afectando directamente el flujo desarrollado por la pasarela para antifraude;

@@ -1,5 +1,5 @@
 ---
-title: 'Installments using Customer Credit are not displayed as an option at checkout.'
+title: "Installments using Customer Credit are not displayed as an option at checkout."
 id: 1bfMjWdCLGo5VdX2atDQc9
 status: PUBLISHED
 createdAt: 2024-08-09T14:43:33.140Z

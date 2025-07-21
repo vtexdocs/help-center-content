@@ -1,5 +1,5 @@
 ---
-title: 'La regex obsoleta de Mastercard Debit está provocando que identifiquemos erróneamente algunos BIN.'
+title: "La regex obsoleta de Mastercard Debit está provocando que identifiquemos erróneamente algunos BIN."
 id: 5gx4dSY2P5gGE0JI661hGL
 status: PUBLISHED
 createdAt: 2022-08-20T00:03:11.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins
+slugEN: la-regex-obsoleta-de-mastercard-debit-esta-provocando-que-identifiquemos-erroneamente-algunos-bin
 locale: es
 kiStatus: Backlog
 internalReference: 642136
@@ -18,7 +18,9 @@ internalReference: 642136
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos códigos BIN no se identifican correctamente en la caja. La marca de la tarjeta se determina mediante una regex que puede quedar obsoleta, provocando que la marca de la tarjeta no se identifique o se identifique erróneamente.

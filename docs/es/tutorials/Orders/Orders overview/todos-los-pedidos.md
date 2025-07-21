@@ -15,7 +15,9 @@ legacySlug: lista-de-pedidos-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
->ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
 
 La página **Todos los pedidos** permite a los administradores de la tienda hacer seguimiento de los pedidos de su tienda y extraer información para la gestión inteligente de su negocio. Para acceder a la página, en el menú del Admin VTEX, haz clic en **Pedidos > Todos los pedidos**. En esta página puedes: 
 
@@ -49,7 +51,7 @@ Para los datos de variaciones de pedidos, los colores indican:
 
 En la esquina superior derecha de la página se encuentra el botón `Exportar`, que sirve para enviar un informe de pedidos por email. Para exportar el informe, en la página **Todos los pedidos**, haz clic en el botón `Exportar`. Recibirás un email con el archivo en formato .csv para descargar. 
 
-Los datos del archivo reflejan el contenido de la página en el momento de la exportación, incluidos los filtros aplicados. Aprende más sobre cada campo del informe en [Informe de pedidos](https://help.vtex.com/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+Los datos del archivo reflejan el contenido de la página en el momento de la exportación, incluidos los filtros aplicados. Aprende más sobre cada campo del informe en [Informe de pedidos](/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
 
 ### Total de pedidos
 
@@ -90,7 +92,7 @@ Los filtros cambian los pedidos que aparecen en la lista y las métricas de la b
 * Status
 * Otros
 
-Para saber más sobre todas las opciones de filtros, consulta el artículo [Filtrar pedidos en Todos los pedidos](https://help.vtex.com/es/tutorial/como-filtrar-pedidos--tutorials_192).
+Para saber más sobre todas las opciones de filtros, consulta el artículo [Filtrar pedidos en Todos los pedidos](/es/tutorial/como-filtrar-pedidos--tutorials_192).
 
 El selector de filtros permite añadir más de uno, sin límite de combinación de filtros. Lo que puede pasar al acumular filtros es que termines con un conjunto de datos sin información, como, por ejemplo, cuando no hay pedidos incompletos con la fecha de entrega en los próximos siete días. 
 
@@ -148,11 +150,11 @@ Puedes personalizar la visualización de las columnas:
 * Para cambiar el orden de todos los datos de la lista, haz clic en el nombre de la columna deseada.   
 * Para alternar el orden de los datos entre  ascendente y descendente, haz clic dos veces en la columna deseada.    
 
-Al seleccionar un pedido de la lista, se te redirigirá a la página [Detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
+Al seleccionar un pedido de la lista, se te redirigirá a la página [Detalles del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 
 A continuación, encontrarás más detalles sobre cada columna:
 
-* **Status:** identifica en que etapa del flujo se encuentra el pedido. Puedes ver más información en [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+* **Status:** identifica en que etapa del flujo se encuentra el pedido. Puedes ver más información en [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
 * **ID del pedido:** número de identificación que el cliente recibe en la pantalla de confirmación de compra y en los _emails_ transaccionales. Este código es el que debe utilizarse en las comunicaciones entre la tienda y el comprador.  
 * **Fecha de creación:** es la fecha y hora en que el cliente realizó el pedido.
 * **Cliente:** nombre y apellidos de la persona natural o jurídica que realizó la compra.  
@@ -167,7 +169,7 @@ A continuación, encontrarás más detalles sobre cada columna:
 
 ![VTEX Do overview ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/Orders%20overview/todos-los-pedidos_2.gif)
 
-[VTEX DO](https://help.vtex.com/es/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) es un gestor de tareas creadas por el Admin VTEX automáticamente y que requieren una acción manual por parte del equipo de _ecommerce_. 
+[VTEX DO](/es/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) es un gestor de tareas creadas por el Admin VTEX automáticamente y que requieren una acción manual por parte del equipo de _ecommerce_. 
 
 Para acceder a VTEX DO, haz clic en el ícono de bandeja de entrada ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda. Las tareas gestionadas a través de VTEX DO pueden incluir acciones de todos los sistemas VTEX, como revisar el pago, autorizar el pedido o cambiar la dirección del muelle.
 

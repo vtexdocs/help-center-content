@@ -1,5 +1,5 @@
 ---
-title: 'As condições do catálogo de promoções se aplicam ao skucomponent, mesmo quando apenas o skukit é adicionado ao carrinho'
+title: "As condições do catálogo de promoções se aplicam ao skucomponent, mesmo quando apenas o skukit é adicionado ao carrinho"
 id: g9V2wsKiakxYs4982oPDH
 status: PUBLISHED
 createdAt: 2024-08-22T13:29:07.146Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotions-catalog-conditions-apply-to-skucomponent-even-when-only-adding-skukit-to-cart
+slugEN: as-condicoes-do-catalogo-de-promocoes-se-aplicam-ao-skucomponent-mesmo-quando-apenas-o-skukit-e-adicionado-ao-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 1085500
@@ -18,7 +18,9 @@ internalReference: 1085500
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao adicionar uma restrição de promoção que tem uma regra de catálogo (ou seja, categorias, skus, marcas, coleções, ...) e esse conjunto contém o componente de um SKU, mas não o kit em si, a intenção do usuário, originalmente, é dar esse desconto apenas quando o componente for comprado separadamente.

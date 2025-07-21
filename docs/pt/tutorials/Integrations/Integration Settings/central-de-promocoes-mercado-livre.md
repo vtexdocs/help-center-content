@@ -3,8 +3,8 @@ title: 'Central de Promoções Mercado Livre'
 id: 1LDJfpPipZ5t1RS6QowZtU
 status: PUBLISHED
 createdAt: 2024-10-17T16:50:33.863Z
-updatedAt: 2024-10-17T20:42:14.714Z
-publishedAt: 2024-10-17T20:42:14.714Z
+updatedAt: 2025-06-24T18:36:31.202Z
+publishedAt: 2025-06-24T18:36:31.202Z
 firstPublishedAt: 2024-10-17T20:42:14.714Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,7 @@ legacySlug: central-de-promocoes-mercado-livre
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Na página **Promoções,** no menu do Mercado Livre no Admin VTEX, os [sellers](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tem acesso a uma lista com todas as campanhas promocionais disponibilizadas pelo Mercado Livre. Nesta página, o seller pode consultar o **nome das campanhas, o tipo da campanha, ID da campanha, o prazo de incluir anúncios, o período de vigência** e seus **status.**  
+Na página **Promoções,** no menu do Mercado Livre no Admin VTEX, os [sellers](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tem acesso a uma lista com todas as campanhas promocionais disponibilizadas pelo Mercado Livre. Nesta página, o seller pode consultar o **nome das campanhas, o tipo da campanha, ID da campanha, o prazo de incluir anúncios, o período de vigência** e seus **status.**  
 
 Ao clicar em uma promoção da lista, o seller utiliza a barra de busca para encontrar anúncios cadastrados através do **ID-MercadoLivre** ou pelo **Nome** de cada um.  
 
@@ -27,17 +27,17 @@ Para acessar a página **Promoções** no Admin VTEX, vá em **Marketplace > Mer
 
 Existem diferentes tipos de campanhas na página **Promoções do Mercado Livre**, são elas:  
 
-[Tradicional](#tradicional)  
-[Coparticipação](#coparticipacao)  
-[Pré-acordado](#pre-acordado)  
-[Desconto por volume](#desconto-por-volume)  
-[Oferta do dia](#oferta-do-dia)  
-[Oferta relâmpago](#oferta-relampago)  
-[Coparticipação automatizada](#coparticipacao-automatizada)  
-[Preços competitivos](#precos-competitivos)  
-[Liquidação de estoque Full](#liquidacao-de-estoque-full)  
-[Campanha do vendedor](#campanha-do-vendedor)  
-[Cupom do vendedor](#cupom-do-vendedor)  
+- [Tradicional](#tradicional)  
+- [Coparticipação](#coparticipacao)  
+- [Pré-acordado](#pre-acordado)  
+- [Desconto por volume](#desconto-por-volume)  
+- [Oferta do dia](#oferta-do-dia)  
+- [Oferta relâmpago](#oferta-relampago)  
+- [Coparticipação automatizada](#coparticipacao-automatizada)  
+- [Preços competitivos](#precos-competitivos)  
+- [Liquidação de estoque Full](#liquidacao-de-estoque-full)  
+- [Campanha do vendedor](#campanha-do-vendedor)  
+- [Cupom do vendedor](#cupom-do-vendedor)  
 
 ### Tradicional
 
@@ -72,7 +72,9 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.
 
->ℹ️ Os anúncios removidos da campanha aparecerão listados na seção **Candidatos** e poderão ser incluídos novamente.
+<div class="alert alert-info">
+Os anúncios removidos da campanha aparecerão listados na seção <b>Candidatos</b> e poderão ser incluídos novamente.
+</div>
 
 ### Coparticipação
 
@@ -80,7 +82,9 @@ Este é o tipo de campanha promocional que o Mercado Livre cobre um percentual d
 
 Neste tipo de campanha, é o Mercado Livre quem define a porcentagem de desconto que cada uma das partes deve oferecer para um produto, o seller pode aceitar ou não incluir o produto na promoção.  
 
->ℹ️ A porcentagem do desconto não pode ser alterada.
+<div class="alert alert-info">
+A porcentagem do desconto não pode ser alterada.
+</div>
 
 Ao clicar em uma campanha do tipo **Coparticipação,** o seller encontra três seções, são elas as seguintes:  
 
@@ -144,7 +148,9 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
->ℹ️ Os anúncios removidos da campanha não poderão ser reenviados.
+<div class="alert alert-info">
+Os anúncios removidos da campanha não poderão ser reenviados.
+</div>
 
 ### Desconto por volume
 
@@ -207,7 +213,9 @@ Quando o status da campanha alterar para **Iniciada,** todos os anúncios listad
 
 Na seção **Participando,** serão listados os anúncios configurados previamente para participar de uma campanha promocional que está com o status **Iniciada.**  
 
->ℹ️ Neste tipo de campanha, não é possível remover os anúncios, caso a campanha já tenha sido iniciada.
+<div class="alert alert-info">
+Neste tipo de campanha, não é possível remover os anúncios, caso a campanha já tenha sido iniciada.
+</div>
 
 ### Oferta relâmpago
 
@@ -234,7 +242,9 @@ Quando o status da campanha alterar para **Iniciada,** todos os anúncios listad
 
 Na seção **Participando,** serão listados os anúncios configurados previamente para participar de uma campanha promocional que está com o status **Iniciada.**  
 
->ℹ️ Neste tipo de campanha, não é possível remover os anúncios caso a campanha tenha o status **Iniciada**.
+<div class="alert alert-info">
+Neste tipo de campanha, não é possível remover os anúncios caso a campanha tenha o status <b>Iniciada</b>.
+</div>
 
 ### Co-participação automatizada
 
@@ -328,18 +338,33 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
->ℹ️ Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
+<div class="alert alert-info">
+Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
+</div>
 
 ### Campanha do vendedor
 
 No tipo **Campanha do vendedor,** o seller define o tipo de desconto, o período e a quantidade do desconto. Neste tipo de campanha existem duas opções de desconto, são as seguintes:  
 
-- **Percentual fixo:** o seller define um percentual de desconto que será aplicado a todos os anúncios que for incluso na promoção.  
-- **Percentual flexível:** o seller pode definir um desconto diferente para cada anúncio incluso na promoção.  
+- **Igual para todos os anúncios :** o seller define um percentual de desconto que será aplicado a todos os anúncios que for incluso na promoção.  
+- **Diferente por anúncio:** o seller pode definir um desconto diferente para cada anúncio incluso na promoção.  
 
->ℹ️ A criação da campanha deve ser realizada pelo seller no **Promotion Center** do Mercado Livre.
+Para criar uma campanha do tipo **Campanha do vendedor,** siga os passos abaixo:
 
-Após criar a campanha no Mercado Livre, ela será exibida no Admin VTEX em **Marketplace > Mercado Livre > Promoções.** Ao selecionar uma campanha do tipo **Campanha do vendedor**, o seller encontra três seções diferentes.  
+1. No Admin VTEX acesse **Marketplace > Mercado Livre > Promoções,** ou digite **Promoções** na barra de busca.  
+2. Clique no botão `Criar promoção`.  
+3. Clique na opção **Promoção do vendedor.**  
+4. Preencha os campos da promoção que estão descritos a seguir.  
+5. Clique no botão Salvar.  
+
+| **Campo** | **Descrição** |
+|---|---|
+| Nome | Defina um nome para a campanha. |
+| Desconto | Escolha qual tipo de desconto. As opções são, **Diferente por anúncio** ou **Igual para todos anúncios.** |
+| Duração | Defina a data de início e fim da campanha. |
+
+Após criar a campanha, ela será exibida na listagem do módulo de **Promoções,** e será necessário incluir produtos na campanha. 
+Ao selecionar a campanha criada, três seções diferentes são apresentadas.
 
 #### Candidatos
 
@@ -367,7 +392,9 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
->ℹ️ Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
+<div class="alert alert-info">
+Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
+</div>
 
 ### Cupom do vendedor
 
@@ -376,9 +403,26 @@ No tipo **Cupom do vendedor,** o seller cria um cupom de desconto, define os an�
 - **Percentual fixo:** o seller define o percentual de desconto do cupom.  
 - **Valor fixo:** o seller define o valor em reais para o cupom.  
 
->ℹ️ A criação da campanha deve ser realizada pelo seller no **Promotion Center** do Mercado Livre.
+Para criar uma campanha do tipo **Cupom do vendedor,** siga os passos abaixo:
 
-Após criar a campanha no Mercado Livre, ela será exibida no Admin VTEX em **Marketplace > Mercado Livre > Promoções.** Ao selecionar uma campanha do tipo *Cupom do vendedor**, o seller encontra três seções diferentes.  
+1. No Admin VTEX acesse **Marketplace > Mercado Livre > Promoções,** ou digite **Promoções** na barra de busca.  
+2. Clique no botão `Criar promoção`.  
+3. Clique na opção **Cupom do vendedor.**  
+4. Preencha os campos da promoção que estão descritos a seguir.  
+5. Clique no botão Salvar.  
+
+| **Campo** | **Descrição** |
+|---|---|
+| Nome | Defina um nome para a campanha. |
+| Audiência | Escolha qual público poderá utilizar o cupom. |
+| Código do cupom | Crie um código para o cupom. |
+| Desconto | Escolha qual tipo de desconto. **Porcentagem** ou **Valor fixo.** |
+| Valor mínimo de compra | Defina qual o valor mínimo de compra para que o cupom seja aplicado.  |
+| Orçamento disponível | Defina qual valor deve ser gasto nesta campanha. |
+| Duração | Defina a data de início e fim da campanha. |
+
+Após criar a campanha ela será exibida na listagem do módulo de **Promoções** e é necessário incluir produtos na campanha. 
+Ao selecionar a campanha criada, três seções diferentes são apresentadas.
 
 #### Candidatos
 

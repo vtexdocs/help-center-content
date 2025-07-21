@@ -1,5 +1,5 @@
 ---
-title: 'Search for Number of Items per Inventory does not work'
+title: "Search for Number of Items per Inventory does not work"
 id: 30XzfoV5qg8Aigo2ioqIyU
 status: PUBLISHED
 createdAt: 2017-08-29T17:10:42.318Z

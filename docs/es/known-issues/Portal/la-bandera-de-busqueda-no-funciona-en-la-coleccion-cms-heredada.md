@@ -1,5 +1,5 @@
 ---
-title: 'La bandera de búsqueda no funciona en la Colección CMS heredada'
+title: "La bandera de búsqueda no funciona en la Colección CMS heredada"
 id: 47spDrddLoEmRbYmlj7wY2
 status: PUBLISHED
 createdAt: 2022-01-21T14:52:14.951Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: searchable-flag-does-not-work-on-legacy-cms-collection
+slugEN: la-bandera-de-busqueda-no-funciona-en-la-coleccion-cms-heredada
 locale: es
 kiStatus: Backlog
 internalReference: 322552
@@ -18,7 +18,9 @@ internalReference: 322552
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La bandera de búsqueda no funciona en la Colección CMS heredada. Nuestro documento explica que cuando usamos esta bandera, si buscamos el nombre de la colección, debería devolver los itens asociados a esta colección.

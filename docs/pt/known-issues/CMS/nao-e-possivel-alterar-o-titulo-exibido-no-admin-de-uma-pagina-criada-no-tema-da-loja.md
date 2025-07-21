@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível alterar o título exibido no admin de uma página criada no tema da loja'
+title: "Não é possível alterar o título exibido no admin de uma página criada no tema da loja"
 id: 5UlRlFZYX4afQitO7rtcm
 status: PUBLISHED
 createdAt: 2024-08-06T20:40:17.364Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: it-is-not-possible-to-change-the-title-displayed-on-the-admin-of-a-page-create-on-the-stores-theme
+slugEN: nao-e-possivel-alterar-o-titulo-exibido-no-admin-de-uma-pagina-criada-no-tema-da-loja
 locale: pt
 kiStatus: Backlog
 internalReference: 1077069
@@ -18,7 +18,9 @@ internalReference: 1077069
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você acessar o módulo de páginas do CMS e tentar criar uma página manualmente por meio do administrador, poderá alterar seu título com êxito. Mas se você criar uma página usando o tema da loja e tentar alterar o título por meio do tema ou do administrador, isso não será possível.

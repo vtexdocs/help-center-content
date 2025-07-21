@@ -3,8 +3,8 @@ title: 'Roles de usuario predefinidos'
 id: jGDurZKJHvHJS13LnO7Dy
 status: PUBLISHED
 createdAt: 2022-04-07T21:34:06.385Z
-updatedAt: 2024-05-22T17:50:31.567Z
-publishedAt: 2024-05-22T17:50:31.567Z
+updatedAt: 2025-04-09T19:03:02.620Z
+publishedAt: 2025-04-09T19:03:02.620Z
 firstPublishedAt: 2022-04-07T21:48:28.951Z
 contentType: tutorial
 productTeam: Identity
@@ -15,11 +15,13 @@ legacySlug: perfiles-de-acceso-predefinidos
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupan los [recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), siendo que cada recurso representa una permisión en la plataforma VTEX.
+[Roles de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupan los [recursos del License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), siendo que cada recurso representa una permisión en la plataforma VTEX.
 
 En este documento, se enumeran roles que están predefinidos para las nuevas tiendas VTEX y sus respectivos recursos. Para acceder a ellos directamente, utilice la lista a continuación.
 
->ℹ️ Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo [Recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+<div class="alert alert-info">
+<p>Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo <a href="https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">Recursos del License Manager</a>.</p>
+</div>
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -37,11 +39,10 @@ En este documento, se enumeran roles que están predefinidos para las nuevas tie
 * [Logistics - Read only](#logistics-read-only)
 * [OMS - Full access](#oms-full-access)
 * [OMS - Read only](#oms-read-only)
+* [Payments Notifier](#payments-notifier)
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [VTEX Payment - Account Holder](#vtex-payment-account-holder)
-* [VTEX Payment - Bookkeeper](#vtex-payment-bookkeeper)
 * [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
@@ -74,7 +75,8 @@ El recurso __Assisted Sales__ hace que el usuario sea redirigido automáticament
 
 Por lo tanto, recomendamos utilizar dos cuentas separadas (con correos electrónicos separados) para los usuarios de televenta: una cuenta para el rol de __Call center operator__ (con los recursos *Assisted Sales* y *View order*) y otra cuenta para realizar operaciones en Admin, si es necesario.
 
->⚠️ Al crear un [rol](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el rol no funcione de forma esperada.
+<div class="alert alert-warning">Al crear un <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">rol</a>, evita incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televentas junto con otros recursos. De lo contrario, puede que el rol no funcione de forma esperada.
+</div>
 
 Tabla de recursos:
 
@@ -141,16 +143,16 @@ Tabla de recursos:
 
 ## Sales App - Sales Associate
 
->⚠️ Los vendedores registrados en Sales App no tienen acceso a VTEX Admin, sólo a Sales App.
+<div class="alert alert-warning">
+  <p>Los vendedores registrados en Sales App no tienen acceso a VTEX Admin, sólo a Sales App.</p>
+</div>
 
 Tabla de recursos:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
 | Assisted Sales | Catalog | Televendas | Después de iniciar sesión, el usuario es redirigido a la tienda (accountname.myvtex.com). |
-| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera una transacción. |
 | View order | OMS | AcessoOMS | Permite la visualización de todos los pedidos en el OMS. |
-| Cancel order | OMS | AcessoOMS | Permite Cancelar pedido en el OMS. |
 
 ## IntegrationProfile - Fulfillment
 
@@ -289,6 +291,14 @@ Tabla de recursos:
 | View order | OMS | AccesoOMS | Permite la visualización de todos los pedidos en el OMS. |
 | View store sales stats | OMS | AccesoOMS | Muestra totalizadores dentro de la sección Todos los pedidos de Gestión de Pedidos. Muestra total de ventas, además de los detalles de los pedidos. |
 
+## Payments Notifier
+
+Tabla de recursos:
+
+| Nombre del recurso | Producto | Categoría | Descripción |
+| :---- | :---- | :---- | :---- |
+| Payments Notification | PCI Gateway | Payment-NotifyPayments | Notificación de aprobación de pago mediante la API de Payments Gateway. |
+
 ## Seller Manager
 
 Tabla de recursos:
@@ -327,14 +337,6 @@ Tabla de recursos:
 | Import Redirects | VTEX IO | Infrastructure | Permite al usuario gestionar redirecciones con la interfaz de línea de comando de VTEX IO. |
 | Manage A/B Test | VTEX IO | A/B Test | Permite iniciar, terminar u obtener status de una prueba A/B. |
 | Read logs | Application Logs Stream | Logs | Leer logs de apps de VTEX IO que pertenecen a esta cuenta. |
-
-## VTEX Payment - Account Holder
-
-Este rol da acceso completo de lectura y escritura de los datos de VTEX Payment y debería estar restringido a los usuarios que necesiten efectuar configuraciones.
-
-## VTEX Payment - Bookkeeper
-
-Este rol permite la lectura de información sobre la operación de VTEX Payment.
 
 ## Webservice - Full access
 

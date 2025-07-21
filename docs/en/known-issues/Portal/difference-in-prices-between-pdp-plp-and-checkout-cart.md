@@ -1,5 +1,5 @@
 ---
-title: 'Difference in prices between PDP, PLP and Checkout Cart'
+title: "Difference in prices between PDP, PLP and Checkout Cart"
 id: 3Oo5ccYOG7hcEXYaROxXMV
 status: PUBLISHED
 createdAt: 2023-06-29T20:02:13.485Z

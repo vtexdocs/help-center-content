@@ -1,5 +1,5 @@
 ---
-title: 'O modal de ponto de coleta não utiliza geoCoordinates sem uma chave do Google Maps'
+title: "O modal de ponto de coleta não utiliza geoCoordinates sem uma chave do Google Maps"
 id: 5aPNjLlsVVeyGe0Vywt0H9
 status: PUBLISHED
 createdAt: 2024-05-29T20:31:46.863Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-point-modal-doesnt-utilize-geocoordinates-without-a-google-maps-key
+slugEN: o-modal-de-ponto-de-coleta-nao-utiliza-geocoordinates-sem-uma-chave-do-google-maps
 locale: pt
 kiStatus: Backlog
 internalReference: 1041462
@@ -18,7 +18,9 @@ internalReference: 1041462
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A inserção de um código postal no modal do seletor de ponto de coleta aciona uma solicitação para obter os SLAs disponíveis para esse local. Se a conta não tiver uma chave de API do Google Maps definida em suas configurações de Checkout, essa solicitação não incluirá informações de geoCoordinates. Isso pode fazer com que os pontos de coleta dentro de um intervalo válido não sejam exibidos, como aqueles cujas tabelas de frete são baseadas em polígonos.

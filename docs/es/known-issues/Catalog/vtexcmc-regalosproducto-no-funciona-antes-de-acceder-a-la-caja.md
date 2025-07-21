@@ -1,5 +1,5 @@
 ---
-title: '<vtex.cmc RegalosProducto/> no funciona antes de acceder a la caja'
+title: "<vtex.cmc RegalosProducto/> no funciona antes de acceder a la caja"
 id: 3blfXfhPvY2cNEzBYGEmAo
 status: PUBLISHED
 createdAt: 2024-05-08T17:11:51.770Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: vtexcmc-productgifts-does-not-work-before-acessing-checkout
+slugEN: vtexcmc-regalosproducto-no-funciona-antes-de-acceder-a-la-caja
 locale: es
 kiStatus: Backlog
 internalReference: 1029719
@@ -18,7 +18,9 @@ internalReference: 1029719
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

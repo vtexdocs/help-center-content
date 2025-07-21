@@ -1,5 +1,5 @@
 ---
-title: 'Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas'
+title: "Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas"
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive
+slugEN: divergencia-de-inventario-na-iu-x-api-devido-a-identificacao-do-deposito-ser-sensivel-a-maiusculas-e-minusculas
 locale: pt
 kiStatus: Backlog
 internalReference: 346163
@@ -18,7 +18,9 @@ internalReference: 346163
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Como na verdade a mesma API cria e atualiza o armazém (Create/update warehouse: `POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses`), a Logística identifica pelo id qual ação deve ser tomada, e como o id é sensível a maiúsculas e minúsculas, se a intenção for atualizar o id "TEST" mas o id "test" for inserido, um novo armazém é criado, mas o inventário é replicado para ambos porque o inventário é insensível a maiúsculas e minúsculas.
 

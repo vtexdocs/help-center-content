@@ -19,11 +19,9 @@ A partir do dia __27 de abril de 2020__, a UI do Checkout da VTEX receberá uma 
 
 Essa mudança tem por objetivo atender às leis de proteção de dados, mantendo sua loja em acordo com as recentes alterações na legislação sobre o tema.
 
->⚠️ **Atenção:** se atualmente sua loja realiza alguma customização do Checkout VTEX que altera o comportamento da flag de newsletter (por exemplo, desmarcando a flag via script), a alteração que estamos anunciando pode afetar o comportamento esperado. Nos casos em que atualmente a customização via script desmarca a flag, por exemplo, pode ser que agora ela passe a fazer justamente o contrário, marcando a flag.
->
-> 
->
-> Portanto, caso sua loja tenha implementado alguma customização que altere o comportamento padrão da flag de newsletter, é importante garantir que sua equipe de desenvolvimento fique ciente da mudança e realize ajustes, caso necessário.
+<div class="alert alert-warning">
+<strong>Atenção:</strong> se atualmente sua loja realiza alguma customização do Checkout VTEX que altera o comportamento da flag de newsletter (por exemplo, desmarcando a flag via script), a alteração que estamos anunciando pode afetar o comportamento esperado. Nos casos em que atualmente a customização via script desmarca a flag, por exemplo, pode ser que agora ela passe a fazer justamente o contrário, marcando a flag.<br><br>Portanto, caso sua loja tenha implementado alguma customização que altere o comportamento padrão da flag de newsletter, é importante garantir que sua equipe de desenvolvimento fique ciente da mudança e realize ajustes, caso necessário.
+</div>
 
 - __Data e horário da mudança__: 27 de abril de 2020, às 11h (Brazil Time).
 - __O que você precisa fazer__: se sua loja customiza a flag de newsletter do Checkout (e apenas neste caso), seu time de desenvolvimento deve checar se a mudança impactará o comportamento da flag.

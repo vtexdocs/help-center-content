@@ -28,5 +28,5 @@ Now, you can create an inactive version and activate it when you desire. Besides
 To make it easier to publish content using Site Editor, we have improved the experience of creating store block versions.
 
 ## What needs to be done?
-The **Versions** feature is now active in Site Editor and you can already use it. For more information, please refer to the articles [Managing content versions](https://help.vtex.com/en/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) and [Scheduling content updates](https://help.vtex.com/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
+The **Versions** feature is now active in Site Editor and you can already use it. For more information, please refer to the articles [Managing content versions](/en/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) and [Scheduling content updates](/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
 

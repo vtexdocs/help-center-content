@@ -1,5 +1,5 @@
 ---
-title: 'Informações do canal de vendas divergentes entre a interface do usuário e a API'
+title: "Informações do canal de vendas divergentes entre a interface do usuário e a API"
 id: 66bWccTAGpRbodBXvmIlHK
 status: PUBLISHED
 createdAt: 2023-05-04T15:30:18.265Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sales-channel-info-divergent-between-ui-and-api
+slugEN: informacoes-do-canal-de-vendas-divergentes-entre-a-interface-do-usuario-e-a-api
 locale: pt
 kiStatus: Backlog
 internalReference: 802560
@@ -18,7 +18,9 @@ internalReference: 802560
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, as informações sobre o canal de vendas podem ser diferentes, dependendo de onde o cliente está verificando.

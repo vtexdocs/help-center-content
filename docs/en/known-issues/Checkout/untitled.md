@@ -1,5 +1,5 @@
 ---
-title: 'UI does not display/select correctly the address used for delivery calculation.'
+title: "UI does not display/select correctly the address used for delivery calculation."
 id: 2rBE1Pur8HEZo3nR03LfSm
 status: PUBLISHED
 createdAt: 2022-01-24T21:44:28.050Z

@@ -1,5 +1,5 @@
 ---
-title: 'Error sending SKUs from sellers to marketplaces and vice versa'
+title: "Error sending SKUs from sellers to marketplaces and vice versa"
 id: 1fh0ea4fZrfyWW5EYnrZxj
 status: PUBLISHED
 createdAt: 2021-09-30T19:19:17.233Z

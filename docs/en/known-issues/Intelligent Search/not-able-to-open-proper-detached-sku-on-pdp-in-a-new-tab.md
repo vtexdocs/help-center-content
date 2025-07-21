@@ -1,5 +1,5 @@
 ---
-title: 'Not able to open proper detached SKU on PDP in a new tab'
+title: "Not able to open proper detached SKU on PDP in a new tab"
 id: 26kt6vcKm02TMXDFQPA3ES
 status: PUBLISHED
 createdAt: 2023-07-31T21:20:31.271Z

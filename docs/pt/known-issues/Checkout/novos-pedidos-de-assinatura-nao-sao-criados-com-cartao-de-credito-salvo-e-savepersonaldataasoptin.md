@@ -1,5 +1,5 @@
 ---
-title: 'Novos pedidos de assinatura não são criados com cartão de crédito salvo e savePersonalDataAsOptIn'
+title: "Novos pedidos de assinatura não são criados com cartão de crédito salvo e savePersonalDataAsOptIn"
 id: 5mMUYOzdXM9p69oythduOx
 status: PUBLISHED
 createdAt: 2024-08-27T17:54:38.067Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin
+slugEN: novos-pedidos-de-assinatura-nao-sao-criados-com-cartao-de-credito-salvo-e-savepersonaldataasoptin
 locale: pt
 kiStatus: Backlog
 internalReference: 1087876
@@ -18,7 +18,9 @@ internalReference: 1087876
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Novos pedidos com assinaturas não podem ser criados usando um cartão de crédito salvo quando "savePersonalDataAsOptIn" está ativo na configuração do formulário de pedido.

@@ -1,5 +1,5 @@
 ---
-title: 'Preço fixo sendo criado na política comercial 1 ao economizar preços de pacote.'
+title: "Preço fixo sendo criado na política comercial 1 ao economizar preços de pacote."
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
+slugEN: preco-fixo-sendo-criado-na-politica-comercial-1-ao-economizar-precos-de-pacote
 locale: pt
 kiStatus: No Fix
 internalReference: 705869
@@ -18,7 +18,9 @@ internalReference: 705869
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -3,7 +3,7 @@ title: 'Beta'
 id: category-beta-products
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-beta-products
@@ -91,4 +91,5 @@ locale: es
 - [Promociones Data Pipeline ](https://help.vtex.com/es/docs/tutorials/promociones)
 - [Tarjeta de regalo Data Pipeline](https://help.vtex.com/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
 - [Registros del Bridge Data Pipeline](https://help.vtex.com/es/docs/tutorials/registros-del-bridge-data-pipeline)
+- [Marketplace in Data Pipeline](https://help.vtex.com/es/docs/tutorials/marketplace-in-data-pipeline)
 

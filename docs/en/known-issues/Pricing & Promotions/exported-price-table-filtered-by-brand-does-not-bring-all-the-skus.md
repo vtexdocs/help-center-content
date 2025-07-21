@@ -1,5 +1,5 @@
 ---
-title: 'Exported Price Table Filtered by Brand does not bring all the skus'
+title: "Exported Price Table Filtered by Brand does not bring all the skus"
 id: 3Z1A0Jpua28QNbwrEhPKxw
 status: PUBLISHED
 createdAt: 2022-08-23T16:07:14.755Z

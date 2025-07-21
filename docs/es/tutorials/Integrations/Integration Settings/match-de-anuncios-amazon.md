@@ -15,7 +15,7 @@ legacySlug: match-de-anuncios-amazon
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Cada vez que se envía a Amazon un [SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) con [EAN](https://sellercentral.amazon.es/ap/signin?clientContext=261-8757701-2350731&openid.return_to=https%3A%2F%2Fsellercentral.amazon.es%2Fhome&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=sc_es_amazon_v2&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&mons_redirect=sign_in&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.OXnfPkFrVoFi4dXfMrd7Kwek1FssNeqXCta87Q1sSl7DqyJ98__Ryw.4muN2tysN_PkuvSf.GznbHEikHTllZro87ZYZUVtkWUrdodtIbspeQgF7icUzljTLsJ9OJCcDhh3SWh6pjIEoME_cB7BjSiYsMxXdzC_6AmgEYy6ZwL4Fbh3ihkizNyVPa1j09UxedsZRR3M0Q5ScowfAIkBLN3E-_dLmYWprisRLsH4P7E5Mgqwe_kYo3nw8cyd8thAySiZqAqsohOOz9vlb.nEUzoBpuJOR05XA169HidA) registrado en VTEX, el marketplace realiza el proceso de matching (hallar coincidencias), que consiste en unificar los anuncios de un mismo producto a través de su EAN.  
+Cada vez que se envía a Amazon un [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) con [EAN](https://sellercentral.amazon.es/ap/signin?clientContext=261-8757701-2350731&openid.return_to=https%3A%2F%2Fsellercentral.amazon.es%2Fhome&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=sc_es_amazon_v2&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&mons_redirect=sign_in&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.OXnfPkFrVoFi4dXfMrd7Kwek1FssNeqXCta87Q1sSl7DqyJ98__Ryw.4muN2tysN_PkuvSf.GznbHEikHTllZro87ZYZUVtkWUrdodtIbspeQgF7icUzljTLsJ9OJCcDhh3SWh6pjIEoME_cB7BjSiYsMxXdzC_6AmgEYy6ZwL4Fbh3ihkizNyVPa1j09UxedsZRR3M0Q5ScowfAIkBLN3E-_dLmYWprisRLsH4P7E5Mgqwe_kYo3nw8cyd8thAySiZqAqsohOOz9vlb.nEUzoBpuJOR05XA169HidA) registrado en VTEX, el marketplace realiza el proceso de matching (hallar coincidencias), que consiste en unificar los anuncios de un mismo producto a través de su EAN.  
 
 El EAN registrado en VTEX se utiliza para hacer la equivalencia con los [ASIN](https://afiliados.amazon.com.mx/) (*Amazon Standard Identification Number, o número de identificación estándar de Amazon*) correspondientes en Amazon. Para hacer el emparejamiento entre EAN y ASIN, es necesario realizar el matching manualmente. La correspondencia entre EAN y ASIN debe ser exacta para que los anuncios se vinculen correctamente.  
 
@@ -60,7 +60,7 @@ A continuación te explicamos más sobre la estructura de esta pestaña.
 
 ## Cómo realizar el matching manual entre productos  
 
-Tras el [envío](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD), los productos estarán disponibles en la página de Match de anuncios Amazon. Para visualizar los anuncios no aprobados, accede al Admin VTEX, haz clic en *Marketplace >* __Match de anuncios Amazon__ o utiliza la barra de búsqueda de la parte superior de la página.  
+Tras el [envío](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD), los productos estarán disponibles en la página de Match de anuncios Amazon. Para visualizar los anuncios no aprobados, accede al Admin VTEX, haz clic en *Marketplace >* __Match de anuncios Amazon__ o utiliza la barra de búsqueda de la parte superior de la página.  
 
 ### Match individual de anuncios  
 
@@ -68,7 +68,7 @@ En la pestaña `Oportunidad`, al hacer clic sobre el ícono <i class="fas fa-ell
 
 Estos son los botones disponibles en cada una de las páginas y sus acciones: 
 
-- **Botón `Rechazar`:** este botón elimina la sugerencia de match y el seller deberá enviar nuevamente el producto si lo desea, siguiendo el [tutorial de envío de productos](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
+- **Botón `Rechazar`:** este botón elimina la sugerencia de match y el seller deberá enviar nuevamente el producto si lo desea, siguiendo el [tutorial de envío de productos](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
 - **Botón `Rechazar y pedir revisión`:** si el seller no está de acuerdo con la sugerencia de match y desea pedir una revisión a Amazon, debe escoger esta opción. Al hacer clic en este botón, se redirigirá al seller a la página para abrir tickets de soporte de Amazon y la sugerencia de match se mostrará en la lista de oportunidades.
 El seguimiento de la revisión se debe realizar mediante el dashboard de tickets de Amazon.
 - **Botón `Publicar`:** si el seller está de acuerdo con la sugerencia propuesta por Amazon, solo basta hacer clic en `Publicar`.
@@ -101,7 +101,7 @@ Al seleccionar los productos, aparecerá en la pantalla el siguiente pop up indi
 
 Tras la confirmación, tus anuncios se enviarán y se pondrán en cola para su procesamiento. Una vez aprobado, el anuncio aparecerá en la pestaña __Anuncios__, donde podrás __"ver detalles" de tu anuncio__, __ver "anuncio sugerido" por Amazon__ y __buscar__ anuncios en la barra de búsqueda.  
 
-Los anuncios que no devuelvan coincidencias deberán ser reenviados. Para ello, consulta el [tutorial de envío de productos](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).  
+Los anuncios que no devuelvan coincidencias deberán ser reenviados. Para ello, consulta el [tutorial de envío de productos](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).  
 
-Antes de realizar un nuevo envío, asegúrate de que los campos `categoría global` y `EAN` están configurados como se indica en el paso a paso la [Preconfiguraciones del catálogo](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#3-pre-configuracoes-no-catalogo), y que todos los productos cumplen los requisitos de la [plantilla de atributos obligatorios de Amazon](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
+Antes de realizar un nuevo envío, asegúrate de que los campos `categoría global` y `EAN` están configurados como se indica en el paso a paso la [Preconfiguraciones del catálogo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#3-pre-configuracoes-no-catalogo), y que todos los productos cumplen los requisitos de la [plantilla de atributos obligatorios de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
 

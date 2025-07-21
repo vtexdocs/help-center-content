@@ -3,8 +3,8 @@ title: 'Configurar gateway CyberSource IO'
 id: 6nhvUTrLxeacsoYG6GkGM
 status: PUBLISHED
 createdAt: 2018-04-30T17:34:57.517Z
-updatedAt: 2024-04-22T14:35:34.191Z
-publishedAt: 2024-04-22T14:35:34.191Z
+updatedAt: 2025-03-07T13:27:18.752Z
+publishedAt: 2025-03-07T13:27:18.752Z
 firstPublishedAt: 2018-04-30T20:20:44.704Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ legacySlug: configurar-gateway-cybersource
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A Cybersource é uma empresa que oferece diversas soluções para auxiliar a gestão de pagamentos da sua loja. Entre elas estão um [gateway](https://help.vtex.com/pt/tutorial/o-que-e-um-gateway-de-pagamentos) e um [antifraude](https://help.vtex.com/pt/tutorial/o-que-e-antifraude), ambos com integrações disponíveis na VTEX.
+A Cybersource é uma empresa que oferece diversas soluções para auxiliar a gestão de pagamentos da sua loja. Entre elas estão um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) e um [antifraude](/pt/tutorial/o-que-e-antifraude), ambos com integrações disponíveis na VTEX.
 
-Caso deseje maiores informações sobre como integrar o antifraude da Cybersource em sua loja, acesse [Configurar antifraude Cybersource](https://help.vtex.com/pt/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
+Caso deseje maiores informações sobre como integrar o antifraude da Cybersource em sua loja, acesse [Configurar antifraude Cybersource](/pt/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
 
 Para utilizar o gateway da Cybersource IO em sua loja, as seguintes ações são necessárias:
 
@@ -37,7 +37,9 @@ Os seguintes apps da Cybersource devem ser instalados na conta de sua loja:
 - __vtex.cybersource__
 - __vtex.cybersource-payer-auth__
 
->⚠️ Caso você pretenda utilizar o sistema de antifraude da Cybersource, mas deseja transacionar os pagamentos em um gateway que não seja o da Cybersource, será necessário instalar o app **vtex.cybersource-fraud**.
+<div class="alert alert-warning">
+  Caso você pretenda utilizar o sistema de antifraude da Cybersource, mas deseja transacionar os pagamentos em um gateway que não seja o da Cybersource, será necessário instalar o app <b>vtex.cybersource-fraud</b>.
+  </div>
 
 Saiba mais como instalar aplicativos em uma conta VTEX em [Installing an app](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app). 
 
@@ -45,7 +47,9 @@ Saiba mais como instalar aplicativos em uma conta VTEX em [Installing an app](ht
 
 Após a instalação dos apps você deve criar as chaves de autenticação no ambiente da Cybersource. 
 
->⚠️ As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Cybersource para informações atualizadas.
+<div class="alert alert-warning">
+  As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Cybersource para informações atualizadas.
+  </div>
 
 Siga os passos abaixo:
 
@@ -131,10 +135,12 @@ Para processar pagamentos com cartões de crédito por meio da Cybersource, siga
 5. Ative a condição no campo __Status__.
 6. Em __Processar com o provedor__ selecione a opção __Cybersource - IO__.
 7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__ e escolha o provedor de sua preferência.
-8. Se desejar, você também poderá configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+8. Se desejar, você também poderá configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
 9. Clique em __Salvar__.
 
->⚠️ Se você criou anteriormente condições de pagamento com cartão de crédito para outros gateways (incluindo o provedor Cybersource legado), poderá definir essas condições como **Inativas**. As transações em andamento iniciadas nesse provedor ainda serão processadas por ele, mesmo que esteja inativo. Apenas novas transações serão processadas pelo novo provedor Cybersource IO. Caso você precise reverter para o provedor anterior por qualquer motivo, basta definir as respectivas condições de pagamento como **Ativas** e as condições de pagamento do Cybersource IO como **Inativas**.
+<div class="alert alert-warning">
+  Se você criou anteriormente condições de pagamento com cartão de crédito para outros gateways (incluindo o provedor Cybersource legado), poderá definir essas condições como <b>Inativas</b>. As transações em andamento iniciadas nesse provedor ainda serão processadas por ele, mesmo que esteja inativo. Apenas novas transações serão processadas pelo novo provedor Cybersource IO. Caso você precise reverter para o provedor anterior por qualquer motivo, basta definir as respectivas condições de pagamento como <b>Ativas</b> e as condições de pagamento do Cybersource IO como <b>Inativas</b>.
+  </div>
 
 ## Configurar Cybersource IO Device Fingerprint (opcional)
 
@@ -142,7 +148,9 @@ Device Fingerprint é um identificador que atua no processamento de um pagamento
 
 Por meio da coleta de dados não sensíveis, o Device Fingerprint identifica e analisa o nível de segurança do dispositivo utilizado para realizar a transação, bem como as transações que anteriormente foram realizadas com este mesmo dispositivo.
 
->ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+<div class="alert alert-info">
+Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+</div>
 
 Para configurar o Device Fingerprint da Cybersource IO, siga os passos abaixo:
 
@@ -152,31 +160,33 @@ Para configurar o Device Fingerprint da Cybersource IO, siga os passos abaixo:
 4. Em __Arquivos__, clique sobre __checkout5.custom.js__.
 5. Insira o código abaixo no campo de texto e clique em `Salvar`.
 
-    function addsDeviceFingerPrint() {
-      if (!window.vtex) return;
-      if (window.vtex.deviceFingerprint) return;
-      $.ajax({
-type: 'get',
-async: true,
-url: rootPath() + '/api/sessions?items=*'
-      }).then(function(response) {
-var ORG_ID = "{{ORG_ID}}";
-var MERCHANT_ID = "{{MERCHANT_ID}}";
-console.log('session', response);
-window.vtex.deviceFingerprint = response.id;
-var sessionId = response.id || "CYBERSOURCE";
-var script = document.createElement("script");
-script.type = "text/javascript";
-script.src = `https://h.online-metrix.net/fp/tags.js?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
-document.head.appendChild(script);
-var noScript = document.createElement("noscript");
-var iframe = document.createElement("iframe");
-iframe.style = "width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;";
-iframe.src = `https://h.online-metrix.net/fp/tags?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
-noScript.appendChild(iframe);
-document.body.appendChild(noScript);
-      })
-    }
+```
+function addsDeviceFingerPrint() {
+  if (!window.vtex) return;
+  if (window.vtex.deviceFingerprint) return;
+  $.ajax({
+    type: 'get',
+    async: true,
+    url: rootPath() + '/api/sessions?items=*'
+  }).then(function(response) {
+    var ORG_ID = "{{ORG_ID}}";
+    var MERCHANT_ID = "{{MERCHANT_ID}}";
+    console.log('session', response);
+    window.vtex.deviceFingerprint = response.id;
+    var sessionId = response.id || "CYBERSOURCE";
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = `https://h.online-metrix.net/fp/tags.js?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
+    document.head.appendChild(script);
+    var noScript = document.createElement("noscript");
+    var iframe = document.createElement("iframe");
+    iframe.style = "width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;";
+    iframe.src = `https://h.online-metrix.net/fp/tags?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
+    noScript.appendChild(iframe);
+    document.body.appendChild(noScript);
+  })
+}
+```
 
 ## Configurar campos do merchant (opcional)
 

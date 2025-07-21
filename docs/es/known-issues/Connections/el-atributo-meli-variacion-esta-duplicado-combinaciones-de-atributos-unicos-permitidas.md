@@ -1,5 +1,5 @@
 ---
-title: 'El atributo MELI Variación está duplicado. Combinaciones de atributos únicos permitidas.'
+title: "El atributo MELI Variación está duplicado. Combinaciones de atributos únicos permitidas."
 id: 7A80EYAOYmEWSlpvWrbXAT
 status: PUBLISHED
 createdAt: 2023-02-23T13:00:55.730Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-variation-attribute-is-duplicated-allowed-unique-attributes-combinations
+slugEN: el-atributo-meli-variacion-esta-duplicado-combinaciones-de-atributos-unicos-permitidas
 locale: es
 kiStatus: Backlog
 internalReference: 758331
@@ -18,7 +18,9 @@ internalReference: 758331
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -25,4 +25,4 @@ O processo de indexação é seguro e conta com regras de repescagem – caso um
 
 A indexação também é muito importante para analisar, tratar e organizar os dados da melhor forma para serem exibidos nos resultados.
 
-Confira [Histórico da indexação](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para mais informações sobre como monitorar o processo de indexação.
+Confira [Histórico da indexação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para mais informações sobre como monitorar o processo de indexação.

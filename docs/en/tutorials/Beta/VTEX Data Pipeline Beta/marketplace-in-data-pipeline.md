@@ -3,8 +3,8 @@ title: 'Marketplace in Data Pipeline'
 id: 4L3hlSqsnxGqVyxmoYvjTV
 status: PUBLISHED
 createdAt: 2024-11-22T18:54:14.211Z
-updatedAt: 2024-11-22T20:17:59.186Z
-publishedAt: 2024-11-22T20:17:59.186Z
+updatedAt: 2025-03-07T11:30:02.324Z
+publishedAt: 2025-03-07T11:30:02.324Z
 firstPublishedAt: 2024-11-22T20:13:33.475Z
 contentType: tutorial
 productTeam: Channels
@@ -27,7 +27,7 @@ This section includes the following information:
 - [Analyses with Marketplace in](#analyses-with-marketplace-in)  
 - [Correlations with other data](#correlations-with-other-data)  
 
-#### Data characteristics
+## Data characteristics
 
 | **Characteristic** | **Description** |
 |:-----:|:---:|
@@ -36,7 +36,7 @@ This section includes the following information:
 | History| The data history starts in September 2024. For clients already using the VTEX platform, data is retained for two years starting in 2024. |
 | Minimum update interval| One hour.|
 
-#### Table: sellers_latest
+## Table: sellers_latest
 
 The table fields are described below:
 
@@ -58,7 +58,7 @@ The table fields are described below:
 | updated_at| timestamp without time zone | The timestamp of the last time the seller was updated.|
 | batch_id| character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
 
-#### Table: sellers_inventory
+## Table: sellers_inventory
 
 The table fields are described below:
 
@@ -75,7 +75,7 @@ The table fields are described below:
 | last_update| timestamp without time zone | The timestamp of the last time the inventory was updated. |
 | batch_id | character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
 
-#### Table: sellers_pricing
+## Table: sellers_pricing
 
 The table fields are described below:
 
@@ -93,7 +93,7 @@ The table fields are described below:
 | last_date| date| The timestamp of the last time the pricing was updated.|
 | batch_id| character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
 
-#### Table: sellers_promotions
+## Table: sellers_promotions
 
 The table fields are described below:
 
@@ -118,7 +118,8 @@ The table fields are described below:
 | is_first_buy | boolean| Indicates if the promotion is valid only for the user's first purchase.|
 | batch_id | character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
 
-#### Table: sellers_orders
+## Table: sellers_orders
+
 The table fields are described below:
 
 | **Column name**| **Column type**| **Column description**|
@@ -139,7 +140,7 @@ The table fields are described below:
 | item_ids| character varying(1000)| List of items in the order.|
 | batch_id| character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
 
-#### Analyses with Marketplace in
+## Analyses with Marketplace in
 
 Some of the analyses that can be run using the pricing table are mentioned below:
 
@@ -147,18 +148,18 @@ Some of the analyses that can be run using the pricing table are mentioned below
 - __Top-performing sellers:__ Analyze the sellers with the highest number of orders and their respective Gross Merchandise Value (GMV).  
 - __Seller inventory:__ Review the inventory of each active seller.  
 
-#### Correlations with other data
+## Correlations with other data
 
 Marketplace in data is closely tied to order data, providing a deeper analysis of purchases and sales. An example is analyzing order data together with this table offers even more valuable insights into the details of orders placed by each seller.  
 
-__Discover other Datasets__  
+### Discover other Datasets
 
-[Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-[Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
-[Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-[Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-[Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-[Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-[Gift Cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
-[Bridge Logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+[Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
+[Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
+[Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+[Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
+[Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+[Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+[Gift Cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
+[Bridge Logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

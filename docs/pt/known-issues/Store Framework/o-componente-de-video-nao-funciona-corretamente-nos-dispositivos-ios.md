@@ -1,5 +1,5 @@
 ---
-title: 'O componente de vídeo não funciona corretamente nos dispositivos iOS'
+title: "O componente de vídeo não funciona corretamente nos dispositivos iOS"
 id: 2bRQkTdRk2OJQMw5CKVieW
 status: PUBLISHED
 createdAt: 2022-07-01T17:21:47.912Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: video-component-doesnt-work-properly-on-ios-devices
+slugEN: o-componente-de-video-nao-funciona-corretamente-nos-dispositivos-ios
 locale: pt
 kiStatus: No Fix
 internalReference: 609462
@@ -18,7 +18,9 @@ internalReference: 609462
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente nativo do Vídeo exibe comportamento inconsistente quando se tenta renderizar YouTube ou Vimeo iFrame em dispositivos iOS. Em alguns testes o iFrame não foi renderizado como esperado, ou sua colocação não foi de acordo com o que foi definido no código ou no Editor do site.

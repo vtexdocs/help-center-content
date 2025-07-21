@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Search API limited to 2500 results'
+title: "Catalog Search API limited to 2500 results"
 id: 33kKjUGKN5tlxvksnbnw7n
 status: PUBLISHED
 createdAt: 2023-08-31T14:59:31.132Z

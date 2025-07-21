@@ -1,5 +1,5 @@
 ---
-title: 'Suscripciones Los pedidos no pueden crearse una vez que la SKU se ha vinculado a un regalo no disponible'
+title: "Suscripciones Los pedidos no pueden crearse una vez que la SKU se ha vinculado a un regalo no disponible"
 id: 1hY76gsKwR07AohWMsmUXu
 status: PUBLISHED
 createdAt: 2022-03-07T14:33:11.578Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-orders-can-not-be-created-once-the-sku-has-linked-to-a-gift-unavailable
+slugEN: suscripciones-los-pedidos-no-pueden-crearse-una-vez-que-la-sku-se-ha-vinculado-a-un-regalo-no-disponible
 locale: es
 kiStatus: Fixed
 internalReference: 395965
@@ -18,7 +18,9 @@ internalReference: 395965
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Existe la condición de que los Pedidos desde Suscripción no se pueden crear porque están vinculados a un **regalo no disponible**, aunque los artículos de una suscripción estén disponibles.

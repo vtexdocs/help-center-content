@@ -15,4 +15,4 @@ announcementImageID: ''
 announcementSynopsisES: 'Ahora, el canal principal para abrir un ticket es la Comunidad VTEX.'
 ---
 
->ℹ️ Este contenido está siendo traducido.
+<div class="alert alert-info">Este contenido está siendo traducido.</div>

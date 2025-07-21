@@ -1,5 +1,5 @@
 ---
-title: 'Autocomplete on Search not always updating when changed multiple times'
+title: "Autocomplete on Search not always updating when changed multiple times"
 id: 65UVZDYhfoJVVg5AODM5Wq
 status: PUBLISHED
 createdAt: 2023-04-19T13:54:31.560Z

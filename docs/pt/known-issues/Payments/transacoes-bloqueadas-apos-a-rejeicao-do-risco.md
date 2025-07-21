@@ -1,5 +1,5 @@
 ---
-title: 'Transações bloqueadas após a rejeição do risco'
+title: "Transações bloqueadas após a rejeição do risco"
 id: 4LKwXp4P9IEkUh02vNZKiA
 status: PUBLISHED
 createdAt: 2024-09-04T19:05:28.366Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: stuck-transactions-after-risk-rejection
+slugEN: transacoes-bloqueadas-apos-a-rejeicao-do-risco
 locale: pt
 kiStatus: Fixed
 internalReference: 1092563
@@ -18,7 +18,9 @@ internalReference: 1092563
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As transações com uma resposta RiskRejected do conector antifraude que já tiveram uma liquidação ficam presas em um loop de alteração de status.

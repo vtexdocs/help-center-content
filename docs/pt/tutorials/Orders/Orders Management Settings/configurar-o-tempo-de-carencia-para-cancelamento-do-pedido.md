@@ -21,7 +21,9 @@ Ou seja, se o cliente solicitar o cancelamento antes ou durante o período de ca
 
 Se o cliente solicitar o cancelamento depois que a carência tiver terminado, a loja recebe a solicitação, mas o cancelamento só é realizado se o lojista aprová-lo em **Pedidos**.
 
->ℹ️ Por padrão, o tempo de carência para cancelamento é de 30 minutos mas você pode configurá-lo para atender à demanda do seu negócio.
+<div class = "alert alert-info">
+Por padrão, o tempo de carência para cancelamento é de 30 minutos mas você pode configurá-lo para atender à demanda do seu negócio.
+</div>
 
 Por exemplo, se sua loja vende comida ou produtos farmacêuticos, que precisam ser entregues em pouco tempo, talvez faça sentido ter uma carência para cancelamento menor que 30 minutos.
 
@@ -33,5 +35,5 @@ Para configurar a janela de tempo, siga os passos abaixo:
 
 ### Artigos relacionados
 
-- [Cancelamento de pedido solicitado pelo cliente](https://help.vtex.com/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)
-- [Por que meu pedido foi cancelado?](https://help.vtex.com/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Cancelamento de pedido solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)
+- [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)

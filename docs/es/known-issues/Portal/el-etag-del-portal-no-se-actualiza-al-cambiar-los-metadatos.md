@@ -1,5 +1,5 @@
 ---
-title: 'El Etag del portal no se actualiza al cambiar los metadatos'
+title: "El Etag del portal no se actualiza al cambiar los metadatos"
 id: 5en7I1i58RXjB6x2ZzlINp
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:32.249Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: portal-etag-not-updating-when-changing-metadata
+slugEN: el-etag-del-portal-no-se-actualiza-al-cambiar-los-metadatos
 locale: es
 kiStatus: Backlog
 internalReference: 411434
@@ -18,7 +18,9 @@ internalReference: 411434
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

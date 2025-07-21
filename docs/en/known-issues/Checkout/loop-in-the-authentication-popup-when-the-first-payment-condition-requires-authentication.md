@@ -1,5 +1,5 @@
 ---
-title: 'Loop in the authentication pop-up when the first payment condition requires authentication'
+title: "Loop in the authentication pop-up when the first payment condition requires authentication"
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z

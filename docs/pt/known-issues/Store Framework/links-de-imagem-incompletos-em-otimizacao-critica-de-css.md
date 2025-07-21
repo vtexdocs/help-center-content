@@ -1,5 +1,5 @@
 ---
-title: 'Links de imagem incompletos em otimização crítica de CSS'
+title: "Links de imagem incompletos em otimização crítica de CSS"
 id: 1965M3rMbB30pTOCiMMxXj
 status: PUBLISHED
 createdAt: 2024-10-02T17:52:53.482Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: incomplete-image-links-in-critical-css-optimization
+slugEN: links-de-imagem-incompletos-em-otimizacao-critica-de-css
 locale: pt
 kiStatus: Backlog
 internalReference: 1110160
@@ -18,7 +18,9 @@ internalReference: 1110160
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o recurso de otimização crítica de CSS está ativado nas lojas do Store Framework, os links de imagem adicionados via CSS são inseridos apenas com o caminho (path) e não com o URL completo. Isso pode levar a erros 404 quando se tenta acessar esses links por meio do URL do site.

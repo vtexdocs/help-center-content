@@ -19,7 +19,7 @@ O módulo **Assinaturas** é um app desenvolvido pela VTEX para facilitar as ven
 
 Seu cliente indica a periodicidade que deseja repetir a compra de um determinado SKU, e o sistema refaz o pedido de compra (com as mesmas características configuradas no pedido original), automaticamente a cada período agendado.
 
-Para instalar e configurar a funcionalidade de **Assinaturas** na sua loja, acesse [nosso artigo](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+Para instalar e configurar a funcionalidade de **Assinaturas** na sua loja, acesse [nosso artigo](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
 
 O gerenciamento de assinaturas é feito pela aba **Dashboards** do módulo **Assinaturas** no Admin.
 
@@ -39,7 +39,9 @@ A seção **Assinaturas Únicas** permite:
 
 ### Pedidos de Assinatura
 
->ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 A seção **Pedidos de Assinatura** permite:
 
@@ -50,7 +52,7 @@ A seção **Pedidos de Assinatura** permite:
 ![PT Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-gerenciar-assinaturas_2.png)
 
 - Ao acessar cada aba do quadro **Pedidos de Assinatura**, é possível visualizar o fluxo e detalhes dos pedidos que foram Pulados, os que apresentaram Ciclos com problema, aqueles que contém um Erro de Pagamento e pedidos Completos.    
-- Além de listar detalhes dos erros que ocorreram durante  o fluxo de pedidos de Assinatura, também é possível realizar a **retentativa manual** dos pedidos com erros. Confira nosso artigo sobre a [Resolução de problemas de pedidos com Assinatura](https://help.vtex.com/pt/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber mais. 
+- Além de listar detalhes dos erros que ocorreram durante  o fluxo de pedidos de Assinatura, também é possível realizar a **retentativa manual** dos pedidos com erros. Confira nosso artigo sobre a [Resolução de problemas de pedidos com Assinatura](/pt/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber mais. 
 
 ![PT Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Subscriptions/Subscription%20Guides/como-gerenciar-assinaturas_3.png)
 

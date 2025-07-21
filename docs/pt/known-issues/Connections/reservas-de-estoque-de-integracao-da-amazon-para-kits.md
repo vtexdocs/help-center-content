@@ -1,5 +1,5 @@
 ---
-title: 'Reservas de estoque de integração da Amazon para KITS'
+title: "Reservas de estoque de integração da Amazon para KITS"
 id: 6ZEvHuGCOEcuQTya1oDOyu
 status: PUBLISHED
 createdAt: 2023-05-22T14:28:54.846Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: amazon-integration-stock-reservations-for-kits
+slugEN: reservas-de-estoque-de-integracao-da-amazon-para-kits
 locale: pt
 kiStatus: Fixed
 internalReference: 829583
@@ -18,7 +18,9 @@ internalReference: 829583
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

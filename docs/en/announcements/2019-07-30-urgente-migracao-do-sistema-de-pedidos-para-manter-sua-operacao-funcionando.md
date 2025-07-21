@@ -19,7 +19,9 @@ On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/announcements/o
 
 __The migration due date has been changed and stores that have not yet adapted to the new version have until August 12th to implement the integration__. After this date, it will no longer be possible to consume orders data using previous versions of this API, thus impacting your order delivery process.
 
->ℹ️ No action is required from stores already using Feed API V3.
+<div class="alert alert-info">
+No action is required from stores already using Feed API V3.
+</div>
 
 The discontinuation of this API's V1 and V2 will interrupt orders integration from services that use these versions. It is therefore necessary for your integration to be running V3 of this API for your orders delivery operation to continue functioning properly.
 

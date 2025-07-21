@@ -1,5 +1,5 @@
 ---
-title: 'Se devuelve una transacción no relacionada cuando se utiliza el número de secuencia para obtener una transacción en la interfaz de administración.'
+title: "Se devuelve una transacción no relacionada cuando se utiliza el número de secuencia para obtener una transacción en la interfaz de administración."
 id: 62ePhzVMcAe8KRgs4ASSSv
 status: PUBLISHED
 createdAt: 2022-07-25T17:03:28.496Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: unrelated-transaction-returned-when-using-sequence-number-to-fetch-a-transaction-in-admin-ui
+slugEN: se-devuelve-una-transaccion-no-relacionada-cuando-se-utiliza-el-numero-de-secuencia-para-obtener-una-transaccion-en-la-interfaz-de-administracion
 locale: es
 kiStatus: Backlog
 internalReference: 503446
@@ -18,7 +18,9 @@ internalReference: 503446
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario busca una transacción en el admin por el número de secuencia, en algunos casos, el retorno es la transacción deseada y la transacción no relacionada con el estado de devolución de cargos.

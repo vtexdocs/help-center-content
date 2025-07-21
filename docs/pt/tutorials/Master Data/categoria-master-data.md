@@ -3,7 +3,7 @@ title: 'Master Data'
 id: category-master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: category-master-data
@@ -43,7 +43,7 @@ locale: pt
 
 ## Gestão de clientes
 
-- [Importar dados de clientes](https://help.vtex.com/pt/docs/tutorials/importando-dados-de-clientes-brasil)
+- [Importar dados de clientes](https://help.vtex.com/pt/docs/tutorials/importando-dados-de-clientes)
 - [Limitar acesso à loja pela política comercial](https://help.vtex.com/pt/docs/tutorials/limitando-acesso-a-loja-pela-politica-comercial)
 - [Incluir um registro em um formulário do Master Data](https://help.vtex.com/pt/docs/tutorials/incluir-um-registro-em-um-formulario-do-master-data)
 - [Configurar benefícios para funcionários usando Master Data clusters](https://help.vtex.com/pt/docs/tutorials/configurar-beneficios-para-funcionarios-usando-master-data-clusters)

@@ -1,5 +1,5 @@
 ---
-title: 'Painel de controle das assinaturas com informações conflitantes'
+title: "Painel de controle das assinaturas com informações conflitantes"
 id: WvoqrD7xvaAJ6NVOLpU1G
 status: PUBLISHED
 createdAt: 2022-05-27T20:01:11.189Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-dashboard-with-conflicting-information
+slugEN: painel-de-controle-das-assinaturas-com-informacoes-conflitantes
 locale: pt
 kiStatus: No Fix
 internalReference: 587579
@@ -18,7 +18,9 @@ internalReference: 587579
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

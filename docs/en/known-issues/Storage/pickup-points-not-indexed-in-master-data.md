@@ -1,5 +1,5 @@
 ---
-title: 'Pickup Points not indexed in Master Data'
+title: "Pickup Points not indexed in Master Data"
 id: 6OHjbM6GXBEvgepaod3AyT
 status: PUBLISHED
 createdAt: 2023-12-14T22:29:26.240Z

@@ -1,5 +1,5 @@
 ---
-title: 'El pedido no se puede crear debido a que la tarjeta de crédito no es válida'
+title: "El pedido no se puede crear debido a que la tarjeta de crédito no es válida"
 id: 3vh1jvhIzEsC4ZLC1C4pJA
 status: PUBLISHED
 createdAt: 2022-06-29T18:59:46.795Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-cant-be-created-due-to-invalid-credit-card
+slugEN: el-pedido-no-se-puede-crear-debido-a-que-la-tarjeta-de-credito-no-es-valida
 locale: es
 kiStatus: Backlog
 internalReference: 607742
@@ -18,7 +18,9 @@ internalReference: 607742
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La creación de un pedido puede fallar con la excepción genérica "_Se ha producido un error de comunicación con la pasarela y los datos de pago de la transacción {id} no se han recibido correctamente_", que tienen diferentes causas de origen. Una de ellas estará relacionada con la excepción interna "_La información de la cuenta solicitada no existe_", que puede verse en el historial de transacciones/pagos relacionado con el pedido incompleto.

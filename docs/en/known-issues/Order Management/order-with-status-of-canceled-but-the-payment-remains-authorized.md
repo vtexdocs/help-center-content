@@ -1,5 +1,5 @@
 ---
-title: 'Order with status of canceled but the payment remains authorized'
+title: "Order with status of canceled but the payment remains authorized"
 id: 19WmIjIbAQmJ19AOC4q56N
 status: PUBLISHED
 createdAt: 2022-05-11T12:49:23.081Z

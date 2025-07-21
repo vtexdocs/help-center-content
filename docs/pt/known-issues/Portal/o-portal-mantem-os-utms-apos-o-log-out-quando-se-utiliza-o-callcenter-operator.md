@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: portal-keeps-utms-after-logging-out-when-using-callcenter-operator
+slugEN: o-portal-mantem-os-utms-apos-o-log-out-quando-se-utiliza-o-callcenter-operator
 locale: pt
 kiStatus: No Fix
 internalReference: 534838
@@ -18,7 +18,9 @@ internalReference: 534838
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Portal mantém os UTM's após o log out quando se utiliza o Callcenter Operator.

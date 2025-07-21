@@ -1,5 +1,5 @@
 ---
-title: 'Carregamento eterno ao permitir geolocalização para busca de pontos de retirada'
+title: "Carregamento eterno ao permitir geolocalização para busca de pontos de retirada"
 id: 9HACCiPSeJY9174Qh9FQb
 status: PUBLISHED
 createdAt: 2021-09-08T18:11:35.333Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
-slugEN: geolocation-search-for-pickup-points-loading-indefinitely
+slugEN: carregamento-eterno-ao-permitir-geolocalizacao-para-busca-de-pontos-de
 locale: pt
 kiStatus: Fixed
 internalReference: 

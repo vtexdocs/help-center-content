@@ -1,5 +1,5 @@
 ---
-title: 'A adição de um novo endereço no endereço da fatura retorna resultados API nulos'
+title: "A adição de um novo endereço no endereço da fatura retorna resultados API nulos"
 id: 43eiz4YORQv1u4yDahZdvC
 status: PUBLISHED
 createdAt: 2023-02-07T13:15:36.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: adding-a-new-address-on-invoice-address-returns-null-api-results
+slugEN: a-adicao-de-um-novo-endereco-no-endereco-da-fatura-retorna-resultados-api-nulos
 locale: pt
 kiStatus: No Fix
 internalReference: 748668
@@ -18,7 +18,9 @@ internalReference: 748668
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há mais de um endereço registrado no Sistema de Perfil, há uma solicitação "nula" ao serviço de CEP se você adicionar um novo endereço em "Endereço de Fatura".

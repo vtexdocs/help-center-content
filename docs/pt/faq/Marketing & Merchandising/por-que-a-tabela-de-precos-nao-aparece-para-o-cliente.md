@@ -38,4 +38,4 @@ Por fim, retorne ao painel inicial e siga as etapas abaixo.
 5. Busque pela __SKU__ desejado.
 6. Valide se a __tabela de preço__ tem o preço cadastrado.
 
-Para saber mais, leia o artigo [Configurar tabelas de preços para usuários específicos](https://help.vtex.com/pt/tutorial/configurar-price-tables-especificas-com-o-session--5S9oDOMHNmY4K0kAewAiWY).
+Para saber mais, leia o artigo [Configurar tabelas de preços para usuários específicos](/pt/tutorial/configurar-price-tables-especificas-com-o-session--5S9oDOMHNmY4K0kAewAiWY).

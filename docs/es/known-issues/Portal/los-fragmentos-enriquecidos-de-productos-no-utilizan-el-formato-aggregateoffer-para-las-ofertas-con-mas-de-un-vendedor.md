@@ -1,5 +1,5 @@
 ---
-title: 'Los fragmentos enriquecidos de productos no utilizan el formato AggregateOffer para las ofertas con más de un vendedor.'
+title: "Los fragmentos enriquecidos de productos no utilizan el formato AggregateOffer para las ofertas con más de un vendedor."
 id: pA3jkQ7qHjWXul7ZsBLy2
 status: PUBLISHED
 createdAt: 2023-02-14T12:45:02.825Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: product-rich-snippets-not-using-aggregateoffer-format-for-offers-with-more-than-one-seller
+slugEN: los-fragmentos-enriquecidos-de-productos-no-utilizan-el-formato-aggregateoffer-para-las-ofertas-con-mas-de-un-vendedor
 locale: es
 kiStatus: Backlog
 internalReference: 753505
@@ -18,7 +18,9 @@ internalReference: 753505
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un mismo producto está asociado a múltiples ofertas (por ejemplo, el mismo par de zapatos es ofrecido por diferentes comerciantes), entonces AggregateOffer puede ser usado para enviar esta información a Google de forma que su rastreador no rechace la oferta por precios erróneos.

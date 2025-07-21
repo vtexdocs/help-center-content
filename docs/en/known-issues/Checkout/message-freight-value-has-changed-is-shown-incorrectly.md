@@ -1,5 +1,5 @@
 ---
-title: "Message 'Freight value has changed' is shown incorrectly"
+title: 'Message "Freight value has changed" is shown incorrectly'
 id: 6ct93Q2391vEd0JAt0n5RU
 status: PUBLISHED
 createdAt: 2023-03-21T22:28:23.673Z

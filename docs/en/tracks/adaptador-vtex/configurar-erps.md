@@ -14,4 +14,6 @@ trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugEN: adaptador-vtex
 ---
 
->⚠️ This content is only available in Portuguese.
+<div class="alert alert-warning">
+  <p>This content is only available in Portuguese.</p>
+</div>

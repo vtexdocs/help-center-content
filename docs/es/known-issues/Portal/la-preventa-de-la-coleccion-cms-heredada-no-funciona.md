@@ -1,5 +1,5 @@
 ---
-title: 'La preventa de la colección CMS heredada no funciona'
+title: "La preventa de la colección CMS heredada no funciona"
 id: 1bRqhWCmtckyCbYf1SQa5N
 status: PUBLISHED
 createdAt: 2023-08-22T18:51:34.059Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: presales-of-the-legacy-cms-collection-is-not-working
+slugEN: la-preventa-de-la-coleccion-cms-heredada-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 885693
@@ -18,7 +18,9 @@ internalReference: 885693
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se esperaba que, al seleccionar la casilla de verificación de pre-pedido, la colección se poblaría con productos cuya fecha de lanzamiento se hubiera rellenado para una fecha futura.

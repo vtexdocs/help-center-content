@@ -1,5 +1,5 @@
 ---
-title: 'El campo vtexcrm no muestra su contenido'
+title: "El campo vtexcrm no muestra su contenido"
 id: 2jI4W9GOzuxyWbHApDVtI5
 status: PUBLISHED
 createdAt: 2022-04-25T14:19:28.685Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: comment-vtexcrm-field-is-not-showing-its-content
+slugEN: el-campo-vtexcrm-no-muestra-su-contenido
 locale: es
 kiStatus: Backlog
 internalReference: 565919
@@ -18,7 +18,9 @@ internalReference: 565919
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -32,7 +32,9 @@ Fazemos uma conversão automática para o formato [WebP](https://developers.goog
 
 O uso do WebP pode gerar um ganho de 1 a 2 segundos no tempo de carregamento das páginas, variando conforme o layout. Confira a seguir como funciona a otimização de imagens em cada formato.
 
->ℹ️ Navegadores que ainda não são [compatíveis com o formato WebP](https://developers.google.com/speed/webp/faq?hl=pt-br#which_web_browsers_natively_support_webp) e serviços como integrações e marketplaces sempre recebem imagens não convertidas, em qualquer formato. Arquivos no formato GIF não passam pela conversão para WebP.
+<div class="alert alert-info">
+  <p>Navegadores que ainda não são <a href="https://developers.google.com/speed/webp/faq?hl=pt-br#which_web_browsers_natively_support_webp">compatíveis com o formato WebP</a> e serviços como integrações e marketplaces sempre recebem imagens não convertidas, em qualquer formato. Arquivos no formato GIF não passam pela conversão para WebP.</p>
+</div>
 
 ## PNG
 
@@ -54,7 +56,7 @@ A VTEX entrega ao cliente a imagem com menor tamanho de arquivo, dentre a origin
 
 ## Artigos relacionados
 
-* [Boas práticas para o uso de imagens no Catálogo](https://help.vtex.com/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk)
-* [Adicionar imagem à descrição do produto](https://help.vtex.com/pt/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
-* [Importar imagens por planilha](https://help.vtex.com/pt/tutorial/importando-imagens-por-planilha--tutorials_262)
-* [Como atualizar a imagem de um SKU?](https://help.vtex.com/pt/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu)[Reutilizando imagens com o Image Widget](https://help.vtex.com/pt/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+* [Boas práticas para o uso de imagens no Catálogo](/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk)
+* [Adicionar imagem à descrição do produto](/pt/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
+* [Importar imagens por planilha](/pt/tutorial/importando-imagens-por-planilha--tutorials_262)
+* [Como atualizar a imagem de um SKU?](/pt/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu)[Reutilizando imagens com o Image Widget](/pt/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)

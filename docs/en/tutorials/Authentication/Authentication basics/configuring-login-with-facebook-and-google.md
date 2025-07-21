@@ -3,8 +3,8 @@ title: 'Configuring login with Facebook and Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-10-20T19:35:59.221Z
-publishedAt: 2023-10-20T19:35:59.221Z
+updatedAt: 2025-02-28T15:23:10.253Z
+publishedAt: 2025-02-28T15:23:10.253Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
@@ -25,8 +25,8 @@ On VTEX, it is not necessary to create an account or log in to make a purchase. 
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](https://help.vtex.com/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
-- [Google](https://help.vtex.com/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
+- [Facebook](/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
+- [Google](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
 
 ## Configuring login with providers
 

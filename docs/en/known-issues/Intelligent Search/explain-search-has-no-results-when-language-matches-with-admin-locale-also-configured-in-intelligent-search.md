@@ -1,5 +1,5 @@
 ---
-title: 'Explain Search has no results when language matches with admin locale also configured in Intelligent Search'
+title: "Explain Search has no results when language matches with admin locale also configured in Intelligent Search"
 id: 1NHYVn0K3mlOTrtnoRevCw
 status: PUBLISHED
 createdAt: 2023-05-23T15:35:17.779Z

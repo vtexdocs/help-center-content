@@ -1,5 +1,5 @@
 ---
-title: 'Transacción bloqueada en estado aprobado con pago cancelado'
+title: "Transacción bloqueada en estado aprobado con pago cancelado"
 id: 5SwwnGi26tagIXuTmvToc
 status: PUBLISHED
 createdAt: 2024-06-07T14:21:22.809Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transaction-stuck-in-status-approved-with-payment-canceled
+slugEN: transaccion-bloqueada-en-estado-aprobado-con-pago-cancelado
 locale: es
 kiStatus: Backlog
 internalReference: 1046365
@@ -18,7 +18,9 @@ internalReference: 1046365
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La transacción estaba atascada en estado aprobado, a pesar de que el pago fue cancelado.

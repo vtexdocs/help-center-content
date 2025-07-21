@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda de gestión de inventario no funciona correctamente en las cuentas del portal del vendedor'
+title: "La búsqueda de gestión de inventario no funciona correctamente en las cuentas del portal del vendedor"
 id: 7pCEQVKpXDq8NwtMXDxlFT
 status: PUBLISHED
 createdAt: 2022-11-08T18:55:29.448Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inventory-management-search-not-working-properly-on-seller-portal-accounts
+slugEN: la-busqueda-de-gestion-de-inventario-no-funciona-correctamente-en-las-cuentas-del-portal-del-vendedor
 locale: es
 kiStatus: Backlog
 internalReference: 694254
@@ -18,7 +18,9 @@ internalReference: 694254
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La búsqueda de gestión de inventario no se comporta como se espera en las cuentas del portal del vendedor. Esto ocurre porque este tipo de cuentas utilizan una versión diferente del catálogo.

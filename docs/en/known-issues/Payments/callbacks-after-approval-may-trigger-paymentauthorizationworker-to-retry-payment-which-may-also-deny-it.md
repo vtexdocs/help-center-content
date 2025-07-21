@@ -1,5 +1,5 @@
 ---
-title: 'Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it.'
+title: "Callbacks after approval may trigger PaymentAuthorizationWorker to retry payment which may also deny it."
 id: 1dbTbMRMvJQaxzXjWwQplD
 status: PUBLISHED
 createdAt: 2023-09-15T18:22:54.533Z

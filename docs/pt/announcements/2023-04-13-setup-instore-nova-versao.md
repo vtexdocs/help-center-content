@@ -21,8 +21,8 @@ Para oferecer um processo de onboarding mais acessível e simplificado para o [i
 
 Anteriormente, os usuários precisavam entrar em contato com o suporte da VTEX para ativar algumas configurações do inStore em suas lojas. Com a nova versão, as seguintes melhorias foram implementadas:
 
-* A instalação do [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) agora é padrão, o que permite o uso de filtros e melhora o desempenho da busca.
-* A instalação do [Social Selling](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) também é padrão, permitindo que qualquer vendedor que use o inStore possa realizar vendas utilizando o checkout do ecommerce.
+* A instalação do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) agora é padrão, o que permite o uso de filtros e melhora o desempenho da busca.
+* A instalação do [Social Selling](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) também é padrão, permitindo que qualquer vendedor que use o inStore possa realizar vendas utilizando o checkout do ecommerce.
 * Os métodos de pagamento como Pix e PagarMe agora são configurados automaticamente.
 
 ## Por que fizemos essa mudança?
@@ -37,7 +37,7 @@ Caso deseje implementar essas funcionalidades em uma loja existente, entre em co
 
 Para mais informações sobre o inStore, consulte a nossa documentação:
 
-* [inStore - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-* [inStore - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-* [inStore - Usando o app](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-* [Estratégias de Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
+* [inStore - Primeiros passos e configurações](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+* [inStore - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+* [inStore - Usando o app](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+* [Estratégias de Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)

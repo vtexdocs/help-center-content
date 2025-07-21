@@ -1,5 +1,5 @@
 ---
-title: 'Erro de criação de cartão-presente via administrador'
+title: "Erro de criação de cartão-presente via administrador"
 id: 6GUhpZbxYr0wTIuqN3S95A
 status: PUBLISHED
 createdAt: 2024-02-21T22:45:26.869Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-creation-error-via-admin
+slugEN: erro-de-criacao-de-cartaopresente-via-administrador
 locale: pt
 kiStatus: Backlog
 internalReference: 986327
@@ -18,7 +18,9 @@ internalReference: 986327
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas contas não conseguirão criar um Gift Card pela primeira vez por meio do admin, a mensagem abaixo aparecerá na tela:

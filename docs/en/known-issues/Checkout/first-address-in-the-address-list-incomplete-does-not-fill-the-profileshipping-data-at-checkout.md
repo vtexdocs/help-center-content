@@ -1,5 +1,5 @@
 ---
-title: 'First address in the address list incomplete does not fill the profile/shipping data at checkout'
+title: "First address in the address list incomplete does not fill the profile/shipping data at checkout"
 id: 2AqDZb1AGBjmeMOBU0JkLQ
 status: PUBLISHED
 createdAt: 2024-01-03T20:44:07.692Z

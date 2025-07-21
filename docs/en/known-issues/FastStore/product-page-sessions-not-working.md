@@ -1,5 +1,5 @@
 ---
-title: 'Product page sessions not working'
+title: "Product page sessions not working"
 id: 6Hgk9lBPmrZ9byc6eeRiki
 status: PUBLISHED
 createdAt: 2024-01-04T21:34:51.613Z

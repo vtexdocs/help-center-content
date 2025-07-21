@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Products in the Cell phones category in Mercado Libre must have the new mandatory attribute'
 ---
 
-When a VTEX store integrated with Mercado Livre wants to [send products](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) to the marketplace catalog, it must map the categories and attributes of these products.
+When a VTEX store integrated with Mercado Livre wants to [send products](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) to the marketplace catalog, it must map the categories and attributes of these products.
 
 Following a [resolution by Anatel](https://www.gov.br/anatel/pt-br/assuntos/noticias/anatel-alerta-marketplaces-sobre-venda-de-produtos-nao-homologados), Brazil’s National Telecommunications Agency, products in the Cell phones category in Mercado Libre must have the new mandatory attribute `ANATEL_HOMOLOGATION_NUMBER` in order to be sold in marketplaces.
 
@@ -31,6 +31,6 @@ This change was made due to [Anatel's new resolution](https://www.gov.br/anatel/
 
 ## What needs to be done?
 
-First, follow the steps in the article [Adding product specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) to create, on the VTEX platform, the product specification `ANATEL_HOMOLOGATION_NUMBER` for products in the Cell phones category.
+First, follow the steps in the article [Adding product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) to create, on the VTEX platform, the product specification `ANATEL_HOMOLOGATION_NUMBER` for products in the Cell phones category.
 
-After adding the new attribute, map the category and the attribute to send the product to Mercado Libre. For more information about this process, read the article [Sending products to Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+After adding the new attribute, map the category and the attribute to send the product to Mercado Libre. For more information about this process, read the article [Sending products to Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).

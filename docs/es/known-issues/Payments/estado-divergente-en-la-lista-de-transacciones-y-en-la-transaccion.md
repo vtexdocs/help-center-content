@@ -1,5 +1,5 @@
 ---
-title: 'Estado divergente en la lista de transacciones y en la transacción'
+title: "Estado divergente en la lista de transacciones y en la transacción"
 id: 1LD32IQJFbvlOJzD12KL64
 status: PUBLISHED
 createdAt: 2022-03-03T18:41:10.292Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: divergent-status-on-the-transaction-list-and-on-the-transaction
+slugEN: estado-divergente-en-la-lista-de-transacciones-y-en-la-transaccion
 locale: es
 kiStatus: Fixed
 internalReference: 308919
@@ -18,7 +18,9 @@ internalReference: 308919
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El estado de las transacciones es diferente una vez que las abre en comparación con lo que se muestra en la lista de transacciones.

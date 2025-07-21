@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos completos com erro na criação devido a falha no gatewaycallbak'
+title: "Pedidos completos com erro na criação devido a falha no gatewaycallbak"
 id: 2qVa686QBsvkgXY8wwmc8Y
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:00.775Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: complete-orders-with-error-in-creation-due-to-failure-in-gatewaycallbak
+slugEN: pedidos-completos-com-erro-na-criacao-devido-a-falha-no-gatewaycallbak
 locale: pt
 kiStatus: Backlog
 internalReference: 416936
@@ -18,7 +18,9 @@ internalReference: 416936
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Recebemos algumas consultas sobre pedidos que estavam presos no status de pagamento aprovado, mas já aprovados, o que não deveria acontecer no fluxo normal de pedidos.

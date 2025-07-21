@@ -42,7 +42,9 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 
 ![template xhtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_1.PNG)
 
->⚠️ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
+<div class="alert alert-warning">
+Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
+</div>
 
 Para utilizar una opción de modelo estándar, siga los pasos que se indican a continuación:
 
@@ -65,23 +67,25 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 7. En __Html__, ingrese la información del template de email creado o predeterminado.
 8. Haga clic `Save`. 
 
->ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
+<div class = "alert alert-info">
+El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
+</div>
 
 ![New template - message center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_3.PNG)
 
 ### Liberación del SPF
 
-La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](https://help.vtex.com/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
 ![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/configurar-carrito-abandonado_4.PNG)
 
-Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
 ### Configurar trigger
 
-En esta etapa, es necesario configurar un [trigger en Master Data](https://help.vtex.com/es/tutorial/criando-trigger-no-master-data--tutorials_1270). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
+En esta etapa, es necesario configurar un [trigger en Master Data](/es/tutorial/criando-trigger-no-master-data--tutorials_1270). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
 
 - __Checkout:__ el trigger se activará si no se completa el checkout y es diferente de nulo, es decir, si el cliente no finaliza la compra.
 - Carrito:__ relacionado con los últimos productos que el cliente agregó al carrito. El trigger se activa si el valor es diferente de nulo.
@@ -127,7 +131,9 @@ Para que la activación del trigger sea posible, es necesario que los filtros es
 13. Haz clic en `Guardar`.
 14. Crea un carrito y cierra la página para probar el trigger.
 
-  >⚠️ La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.
+  <div class="alert alert-warning">
+	<p>La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.</p>
+</div>
 
 14. Después de que recibas el email de carrito abandonado, en el campo __Destinatario__ (paso 12), selecciona la opción __CL:Email__ y haz clic en `Agregar email dinámico`.
 15. Haz clic en `Guardar`.

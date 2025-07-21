@@ -1,5 +1,5 @@
 ---
-title: 'O Inference Invoice System não está funcionando corretamente quando há o mesmo SKUid em diferentes itens de matriz'
+title: "O Inference Invoice System não está funcionando corretamente quando há o mesmo SKUid em diferentes itens de matriz"
 id: 3fSQGwIPj0ekewMuaxPPEe
 status: PUBLISHED
 createdAt: 2024-03-28T19:00:12.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: inference-invoice-system-is-not-working-properly-when-there-are-same-skuid-in-different-array-items
+slugEN: o-inference-invoice-system-nao-esta-funcionando-corretamente-quando-ha-o-mesmo-skuid-em-diferentes-itens-de-matriz
 locale: pt
 kiStatus: Backlog
 internalReference: 1008459
@@ -18,7 +18,9 @@ internalReference: 1008459
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns pedidos têm o mesmo SKUid em uma matriz separada de itens, o que acontece no momento da compra no checkout por diferentes motivos, como desconto a ser aplicado, por exemplo.

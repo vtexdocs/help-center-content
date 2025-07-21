@@ -1,5 +1,5 @@
 ---
-title: 'GIFs animados no funcionan en Google Chrome'
+title: "GIFs animados no funcionan en Google Chrome"
 id: 62tEP9HJo4e4i202mmi0W0
 status: PUBLISHED
 createdAt: 2017-08-16T21:33:58.098Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal
-slugEN: animated-gifs-dont-work-in-google-chrome
+slugEN: gifs-animados-no-funcionan-en-google-chrome
 locale: es
 kiStatus: Fixed
 internalReference: 

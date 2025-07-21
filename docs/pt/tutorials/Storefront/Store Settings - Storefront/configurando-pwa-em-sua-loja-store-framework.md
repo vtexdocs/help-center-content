@@ -68,6 +68,6 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
 
 Nosso service worker suporta os push nativos para instalar o app na primeira visita, no primeiro item adicionado ao carrinho ou na primeira compra. Você pode personalizar as notificações no PWA de sua loja usando um service worker próprio que funcionará junto ao nosso.
 
-Para saber como criar um Service Worker próprio, confira a documentação [Como instalar um Service Worker](https://help.vtex.com/pt/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
+Para saber como criar um Service Worker próprio, confira a documentação [Como instalar um Service Worker](/pt/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
 
 Para aprender como aproveitar o Service Worker builder para agrupar vários services workers em sua loja, confira a documentação [Using several service workers in your store](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-service-workers-in-your-store).

@@ -1,5 +1,5 @@
 ---
-title: 'Se muestran marcadores de posición en lugar de los datos correctos'
+title: "Se muestran marcadores de posición en lugar de los datos correctos"
 id: 5sZbIwHd1MNi0NsFnGO6il
 status: PUBLISHED
 createdAt: 2022-03-04T12:57:57.195Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: placeholders-showing-instead-of-the-correct-data
+slugEN: se-muestran-marcadores-de-posicion-en-lugar-de-los-datos-correctos
 locale: es
 kiStatus: Backlog
 internalReference: 371183
@@ -18,7 +18,9 @@ internalReference: 371183
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

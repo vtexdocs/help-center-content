@@ -1,5 +1,5 @@
 ---
-title: 'Products not being correctly matched when the productName contains numbers'
+title: "Products not being correctly matched when the productName contains numbers"
 id: 7Kr0VtRScH54j04Rh2uuOj
 status: PUBLISHED
 createdAt: 2023-03-01T18:55:20.183Z

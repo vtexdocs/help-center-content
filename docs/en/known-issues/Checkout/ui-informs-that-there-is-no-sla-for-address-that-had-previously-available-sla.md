@@ -1,5 +1,5 @@
 ---
-title: 'UI informs that there is no SLA for address that had previously available SLA'
+title: "UI informs that there is no SLA for address that had previously available SLA"
 id: 2xXtoKl1OBiiyPyTVeUTrg
 status: PUBLISHED
 createdAt: 2022-05-24T21:48:17.537Z

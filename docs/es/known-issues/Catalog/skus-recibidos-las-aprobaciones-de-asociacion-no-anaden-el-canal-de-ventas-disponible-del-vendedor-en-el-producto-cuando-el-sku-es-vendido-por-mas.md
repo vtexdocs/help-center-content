@@ -1,5 +1,5 @@
 ---
-title: 'Skus recibidos: Las aprobaciones de asociación no añaden el canal de ventas disponible del vendedor en el producto cuando el sku es vendido por más de 1 vendedor.'
+title: "Skus recibidos: Las aprobaciones de asociación no añaden el canal de ventas disponible del vendedor en el producto cuando el sku es vendido por más de 1 vendedor."
 id: 5ob4jquCm8l84MhX6285h8
 status: PUBLISHED
 createdAt: 2022-04-18T17:15:41.091Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller
+slugEN: skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas-de-1-vendedor
 locale: es
 kiStatus: No Fix
 internalReference: 562472
@@ -18,7 +18,9 @@ internalReference: 562472
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un producto vendido por otro vendedor en el catálogo del mercado está disponible para ser vendido en el canal de ventas de este vendedor.

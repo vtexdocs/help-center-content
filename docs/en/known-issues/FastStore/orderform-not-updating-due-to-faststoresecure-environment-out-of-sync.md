@@ -1,10 +1,10 @@
 ---
-title: 'OrderForm not updating due to Faststore/secure environment out of sync'
+title: "OrderForm not updating due to Faststore/secure environment out of sync"
 id: 4Xkk9LA95PRXbKxFYy189f
 status: PUBLISHED
 createdAt: 2024-06-27T15:22:19.922Z
-updatedAt: 2024-10-30T16:04:56.063Z
-publishedAt: 2024-10-30T16:04:56.063Z
+updatedAt: 2025-07-08T18:00:26.684Z
+publishedAt: 2025-07-08T18:00:26.684Z
 firstPublishedAt: 2024-06-27T15:22:20.951Z
 contentType: knownIssue
 productTeam: FastStore
@@ -42,8 +42,9 @@ After the gatewayCallback response, the expected scenario would be a new orderFo
 ## Workaround
 
 
-N/A
+This issue still impacts stores using the v1 version of Faststore.
 
+For stores using v3 that are with our CLI updated, the solution is to update to the domain unification feature, so this issue will be solved. You can open a support ticket asking for this feature.
 
 
 

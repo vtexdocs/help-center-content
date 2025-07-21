@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia de precios en integración con el mercado'
+title: "Divergencia de precios en integración con el mercado"
 id: 2oKzaHhwrSeW282EOciSE2
 status: PUBLISHED
 createdAt: 2018-12-07T16:20:45.819Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: TnXcuQydAAOuwWACo864E
 tag: Pricing & Promotions
-slugEN: price-mismatch-error-when-integrating-with-select-marketplaces
+slugEN: divergencia-de-precios-en-integracion-con-el-mercado
 locale: es
 kiStatus: Fixed
 internalReference: 

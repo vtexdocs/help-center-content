@@ -3,8 +3,8 @@ title: 'Configurar pago con Niubiz'
 id: 6rtGmpkdZUw4AjlRcOePRu
 status: PUBLISHED
 createdAt: 2024-09-19T20:02:58.068Z
-updatedAt: 2024-09-19T20:19:58.405Z
-publishedAt: 2024-09-19T20:19:58.405Z
+updatedAt: 2025-07-02T20:09:44.245Z
+publishedAt: 2025-07-02T20:09:44.245Z
 firstPublishedAt: 2024-09-19T20:19:58.405Z
 contentType: tutorial
 productTeam: Financial
@@ -34,10 +34,11 @@ Para configurar Niubiz, siga los pasos a continuación:
    		<li><b>Liquidación automática inmediatamente después del análisis antifraude</b>: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").</li>
    		<li><b>Desactivado</b>: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
-8. Haga clic en `Guardar`.
+8. En __Campos del proveedor__, seleccione o complete los campos __tipoFlujoNiubiz__ y __logoComercio__.
+9. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Niubiz, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Niubiz, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Niubiz puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

@@ -1,5 +1,5 @@
 ---
-title: 'Subscription created for orders with canceled transaction'
+title: "Subscription created for orders with canceled transaction"
 id: 3kDIxoThA1INR2JugY0NpO
 status: PUBLISHED
 createdAt: 2024-11-25T13:48:05.316Z

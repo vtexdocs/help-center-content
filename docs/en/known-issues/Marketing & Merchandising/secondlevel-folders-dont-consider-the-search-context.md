@@ -1,5 +1,5 @@
 ---
-title: "Second-level folders don't consider the 'search context'"
+title: "Second-level folders don't consider the \"search context"
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z
@@ -18,7 +18,9 @@ internalReference:
 
 ## Summary
 
->⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+<div class = "alert alert-warning">
+  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+</div>
 
 Second-level folders are not considering the "search context" that was registered for it. The _slug_ of the URL's second level is acting as a filter of the first folder (based on its context).
 

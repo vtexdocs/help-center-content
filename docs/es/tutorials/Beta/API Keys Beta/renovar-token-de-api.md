@@ -15,11 +15,13 @@ legacySlug: renovar-token-de-api-beta
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con [nuestro soporte](https://support.vtex.com/hc/es-419).
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con <a href="https://support.vtex.com/hc/es-419">nuestro soporte</a>.</p>
+</div>
 
 Cuanto más antiguo sea el token, mayor será el riesgo de exposición y los posibles daños para la operación. El procedimiento de renovación de tokens garantiza la continuidad de la seguridad de tu tienda y minimiza posibles vulnerabilidades.
 
-Para garantizar un acceso continuo a los recursos y preservar la seguridad, renueva el token de la API antes de que finalice su [periodo de duración](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-claves-de-api--kcGIFysFt02FDuhsfjQwZ).
+Para garantizar un acceso continuo a los recursos y preservar la seguridad, renueva el token de la API antes de que finalice su [periodo de duración](/es/tutorial/configurar-la-duracion-de-claves-de-api--kcGIFysFt02FDuhsfjQwZ).
 
 Sigue los pasos a continuación para renovar el token de una clave de API:
 
@@ -33,13 +35,17 @@ Sigue los pasos a continuación para renovar el token de una clave de API:
 
    * **Ahora:** el token antiguo se eliminará del sistema cuando finalice el proceso de renovación y a partir de ese momento solo será válido el token nuevo.
 
-   >ℹ️ Si se cierra la página antes de seleccionar una de las dos opciones, se aplicará la opción **Después**, lo que significa que tendrás que eliminar el token antiguo manualmente.
+   <div class="alert alert-info">
+     <p>Si se cierra la página antes de seleccionar una de las dos opciones, se aplicará la opción <strong>Después</strong>, lo que significa que tendrás que eliminar el token antiguo manualmente.</p>
+   </div>
 
 6. Haz clic en `Finalizar`.
 
 ## Eliminar token antiguo
 
->⚠️ Asegúrate de que el token antiguo no está siendo utilizado por ninguna integración antes de eliminarlo. Este procedimiento no puede deshacerse.
+<div class="alert alert-warning">
+  <p>Asegúrate de que el token antiguo no está siendo utilizado por ninguna integración antes de eliminarlo. Este procedimiento no puede deshacerse.</p>
+</div>
 
 Sigue las instrucciones para eliminar manualmente un token antiguo tras la renovación. Este procedimiento solo es posible si se selecciona la opción **Después** al renovar un token.
 
@@ -50,7 +56,9 @@ Sigue las instrucciones para eliminar manualmente un token antiguo tras la renov
 
 ## Deshacer renovación de token
 
->⚠️ Este procedimiento solo es posible mientras el token antiguo no haya sido [eliminado](#eliminar-token-antiguo). Si se eliminó el token antiguo, será necesario renovar el token de nuevo o [eliminar la clave de API](https://help.vtex.com/es/tutorial/clave-generada--7fnU4iZdvZKbxCaT3Ymdjc#eliminar-clave).
+<div class="alert alert-warning">
+  <p>Este procedimiento solo es posible mientras el token antiguo no haya sido <a href="#eliminar-token-antiguo">eliminado</a>. Si se eliminó el token antiguo, será necesario renovar el token de nuevo o <a href="https://help.vtex.com/es/tutorial/clave-generada--7fnU4iZdvZKbxCaT3Ymdjc#eliminar-clave">eliminar la clave de API</a>.</p>
+</div>
 
 Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigue los pasos a continuación para deshacer la renovación.
 
@@ -61,6 +69,6 @@ Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigu
 
 ## Más información
 
-* [Claves de API (beta)](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar la duración de las claves de API (beta)](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Claves generadas (beta)](https://help.vtex.com/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Claves de API (beta)](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar la duración de las claves de API (beta)](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Claves generadas (beta)](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)

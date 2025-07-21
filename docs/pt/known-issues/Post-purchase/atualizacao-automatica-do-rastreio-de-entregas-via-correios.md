@@ -1,5 +1,5 @@
 ---
-title: 'Atualização automática do rastreio de entregas via Correios'
+title: "Atualização automática do rastreio de entregas via Correios"
 id: 7hKUU5Qp4AyCW2QaMQC0S6
 status: PUBLISHED
 createdAt: 2017-08-16T22:07:06.254Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_4
 tag: Order Management
-slugEN: automatic-update-of-deliveries-tracking-by-correios
+slugEN: atualizacao-automatica-do-rastreio-de-entregas-via-correios
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -35,7 +35,9 @@ Basta ter um código de rastreio válido em qualquer pedido. Nos dias seguintes,
 
 A confirmação de entrega feita via OMS também é repassada aos marketplaces.
 
->ℹ️ Atualmente, oferecemos o [VTEX Shipping Network](https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib), nossa solução logística para integrar sua operação aos serviços dos Correios e/ou transportadoras parceiras. Todos os pedidos da loja que estiverem vinculados a essa solução vão dispor de rastreamento com atualização automática.
+<div class = "alert alert-info">
+Atualmente, oferecemos o <a href="https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib">VTEX Shipping Network</a>, nossa solução logística para integrar sua operação aos serviços dos Correios e/ou transportadoras parceiras. Todos os pedidos da loja que estiverem vinculados a essa solução vão dispor de rastreamento com atualização automática.
+</div>
 
 Outra opção é utilizar soluções desenvolvidas por parceiros para acompanhar entregas dos Correios, como o [rastreio da XP Agência](https://rastreio.xpagencia.com.br/).
 

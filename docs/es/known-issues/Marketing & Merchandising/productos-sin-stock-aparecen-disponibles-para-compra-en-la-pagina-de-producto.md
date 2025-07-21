@@ -1,5 +1,5 @@
 ---
-title: 'Productos sin stock aparecen disponibles para compra en la página de producto'
+title: "Productos sin stock aparecen disponibles para compra en la página de producto"
 id: 5yLgUHlBraGeUYAUK4w288
 status: PUBLISHED
 createdAt: 2018-02-08T18:17:40.064Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: out-of-stock-products-are-displayed-as-available-for-purchase-on-the-product-page
+slugEN: productos-sin-stock-aparecen-disponibles-para-compra-en-la-pagina-de-producto
 locale: es
 kiStatus: Backlog
 internalReference: 

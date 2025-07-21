@@ -19,6 +19,8 @@ Las tiendas VTEX ya contaban con compresión automática de imágenes para el fo
 
 Esta conversión sólo ocurre cuando su tienda es accedida por un navegador compatible con el formato (por ejemplo, Google Chrome). En navegadores que no reconocen el WebP, las imágenes siguen siendo renderizadas en sus formatos originales. Recordamos también que la compresión automática no cambia el archivo que subió en el CMS, pero sólo la forma en que se representa este archivo en la pantalla de su usuario.
 
->⚠️ La compresión **sin pérdidas** es aplicable sólo a los archivos **PNG**. Los archivos **JPG** continúan siendo comprimidos por el proceso **lossy** (que disminuye el tamaño de la imagen para aumentar la velocidad de carga de la página).
+<div class="alert alert-warning">
+La compresión <strong>sin pérdidas</strong> es aplicable sólo a los archivos <strong>PNG</strong>. Los archivos <strong>JPG</strong> continúan siendo comprimidos por el proceso <strong>lossy</strong> (que disminuye el tamaño de la imagen para aumentar la velocidad de carga de la página). 
+</div>
 
 Este cambio se ha desarrollado para satisfacer a los usuarios que realmente necesitan mantener una calidad de imagen más alta, incluso después de la conversión al formato WebP. Para condiciones normales de uso, los archivos _.jpg_ siguen siendo la solución más indicada.

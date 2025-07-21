@@ -1,5 +1,5 @@
 ---
-title: 'Erro na criação de pagamentos personalizados'
+title: "Erro na criação de pagamentos personalizados"
 id: 28jwG2jyT5FkSTbb85KlLX
 status: PUBLISHED
 createdAt: 2024-03-06T14:19:49.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-in-custom-payments-creation
+slugEN: erro-na-criacao-de-pagamentos-personalizados
 locale: pt
 kiStatus: No Fix
 internalReference: 995110
@@ -18,7 +18,9 @@ internalReference: 995110
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os comerciantes podem enfrentar um erro ao criar um pagamento personalizado. Depois de preencher tudo e clicar em salvar, a mensagem "O pagamento personalizado foi configurado com sucesso" aparece, mas a criação realmente falhou (não aparece na interface do usuário).

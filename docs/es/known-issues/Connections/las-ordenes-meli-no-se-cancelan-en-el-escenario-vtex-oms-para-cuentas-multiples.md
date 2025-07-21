@@ -1,5 +1,5 @@
 ---
-title: 'Las órdenes MELI no se cancelan en el escenario VTEX OMS para cuentas múltiples'
+title: "Las órdenes MELI no se cancelan en el escenario VTEX OMS para cuentas múltiples"
 id: 4u9ue93sHNWcfVm3sRL2qx
 status: PUBLISHED
 createdAt: 2024-02-06T11:04:52.918Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-orders-not-being-cancelled-in-vtex-oms-for-multiples-accounts-scenario
+slugEN: las-ordenes-meli-no-se-cancelan-en-el-escenario-vtex-oms-para-cuentas-multiples
 locale: es
 kiStatus: Backlog
 internalReference: 977453
@@ -18,7 +18,9 @@ internalReference: 977453
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

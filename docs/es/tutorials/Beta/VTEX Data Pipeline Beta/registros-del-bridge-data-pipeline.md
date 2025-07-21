@@ -3,8 +3,8 @@ title: 'Registros del Bridge Data Pipeline'
 id: 2RFVJZL19nsWBSB4IXA0Z
 status: PUBLISHED
 createdAt: 2024-09-13T16:45:05.348Z
-updatedAt: 2024-09-13T17:38:17.507Z
-publishedAt: 2024-09-13T17:38:17.507Z
+updatedAt: 2025-03-07T11:30:01.974Z
+publishedAt: 2025-03-07T11:30:01.974Z
 firstPublishedAt: 2024-09-13T17:17:56.608Z
 contentType: tutorial
 productTeam: Channels
@@ -17,7 +17,9 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 El conjunto de datos del `Bridge` incluye información histórica sobre los registros de Bridge. 
 
->⚠️ Actualmente, el conjunto de datos solo proporciona la información de los registros de seguimiento y de pedidos cancelados.  
+<div class="alert alert-warning">
+Actualmente, el conjunto de datos solo proporciona la información de los registros de seguimiento y de pedidos cancelados.
+</div>  
 
 En esta sección encontrará la siguiente información:
 
@@ -26,7 +28,7 @@ En esta sección encontrará la siguiente información:
 - [Análisis con datos del Bridge](#analisis-con-bridge)  
 - [Correlaciones con otros datos](#correlaciones-con-otros-datos)  
 
-#### Características de los datos
+## Características de los datos
 
 | **Característica** | **Descripción** |
 |:---:|:---:|
@@ -34,7 +36,7 @@ En esta sección encontrará la siguiente información:
 | Historial | Los datos se mantienen durante dos años, a partir de 2024 para los clientes que ya utilizan la plataforma VTEX. |
 | Intervalo mínimo de actualización | Una hora. |
 
-#### Tabla: `order_status_change`
+## Tabla: order_status_change
 
 | **Nombre de la columna** | **Tipo de columna** | **Descripción de la columna** |
 |:---:|:---:|:---:|
@@ -50,14 +52,14 @@ En esta sección encontrará la siguiente información:
 | update_timestamp | timestamp without time zone | La hora en que la integración procesó la actualización. |
 | batch_id | character(13) | El ID de cada lote de datos. Tenga en cuenta que esta tabla tiene actualizaciones en sus filas, lo que hace que su batch_id se actualice en el momento de la actualización. |
 
-#### Análisis con Bridge
+## Análisis con Bridge
 
 Aquí hay algunos análisis que puedes realizar utilizando la tabla Bridge:
 
 - **Análisis de Pedidos de Marketplace:** comprenda los registros asociados con sus pedidos de marketplaces externos.  
 - **Perspectivas sobre los registros de marketplaces externos:** realiza análisis por lotes sobre mensajes de marketplaces externos relacionados con el seguimiento y cancelación de pedidos.  
 
-#### Correlaciones con otros datos
+## Correlaciones con otros datos
 
 Los datos del Bridge están relacionados con los datos de pedidos, proporcionando un análisis completo de compras y ventas. Aquí hay un ejemplo:  
 
@@ -65,10 +67,11 @@ Los datos del Bridge están relacionados con los datos de pedidos, proporcionand
 
 ### Descubra otros conjuntos de datos
 
-- [Inventario](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegación](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
-- [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventario](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
+- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
+- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Marketplace and Fulfillment can expect different order values due to certain purchase conditions'
+title: "Marketplace and Fulfillment can expect different order values due to certain purchase conditions"
 id: 5LoC3DwesBWH5kr2b5u6WD
 status: PUBLISHED
 createdAt: 2024-05-13T20:04:19.094Z

@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de la página de la Tarjeta de regalo se está cargando indefinidamente, lo que impide a los usuarios con permiso acceder a ella correctamente'
+title: "La interfaz de la página de la Tarjeta de regalo se está cargando indefinidamente, lo que impide a los usuarios con permiso acceder a ella correctamente"
 id: 6HfglIfAEuXfQlVVnIJiQO
 status: PUBLISHED
 createdAt: 2021-07-29T12:25:51.576Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Gift Card
-slugEN: gift-card-page-ui-loading-indefinitely
+slugEN: interfaz-pagina-tarjeta-de-regalo-cargando-indefinidamente
 locale: es
 kiStatus: Backlog
 internalReference: 

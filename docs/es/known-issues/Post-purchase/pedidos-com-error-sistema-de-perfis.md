@@ -1,5 +1,5 @@
 ---
-title: "Pedidos con error 'Ocorreu um erro de comunicação com o Sistema de Perfis'"
+title: 'Pedidos con error "Ocorreu um erro de comunicação com o Sistema de Perfis'
 id: 2vj48Gmty8i4oQuoSOS46y
 status: PUBLISHED
 createdAt: 2017-05-08T20:51:46.084Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_84
 tag: Order Management
-slugEN: orders-with-error-sistema-de-perfis
+slugEN: pedidos-com-error-sistema-de-perfis
 locale: es
 kiStatus: Backlog
 internalReference: 

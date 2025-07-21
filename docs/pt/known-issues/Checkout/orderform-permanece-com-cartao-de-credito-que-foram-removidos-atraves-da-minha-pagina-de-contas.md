@@ -1,5 +1,5 @@
 ---
-title: 'OrderForm permanece com cartão de crédito que foram removidos através da minha página de contas'
+title: "OrderForm permanece com cartão de crédito que foram removidos através da minha página de contas"
 id: 4wcp7SdlHPTRSHxsDxZ1Xr
 status: PUBLISHED
 createdAt: 2022-05-03T11:47:35.874Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-remains-with-credit-card-that-were-removed-via-myaccount-page
+slugEN: orderform-permanece-com-cartao-de-credito-que-foram-removidos-atraves-da-minha-pagina-de-contas
 locale: pt
 kiStatus: Fixed
 internalReference: 276823
@@ -18,7 +18,9 @@ internalReference: 276823
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A remoção de um cartão de crédito usando a página da minha conta não atualiza o formulário de pedido, que manteria um cartão de crédito que não existe mais.

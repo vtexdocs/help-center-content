@@ -1,5 +1,5 @@
 ---
-title: 'Inactive organizations shown when changing organizations'
+title: "Inactive organizations shown when changing organizations"
 id: 9m120PVN0KvEluldvCPFP
 status: PUBLISHED
 createdAt: 2024-09-05T13:38:55.666Z

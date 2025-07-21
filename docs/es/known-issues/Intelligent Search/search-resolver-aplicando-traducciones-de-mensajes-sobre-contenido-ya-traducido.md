@@ -1,5 +1,5 @@
 ---
-title: 'Search Resolver aplicando traducciones de Mensajes sobre contenido ya traducido'
+title: "Search Resolver aplicando traducciones de Mensajes sobre contenido ya traducido"
 id: 7OIKmmhO3Pa2z0pIU33kY
 status: PUBLISHED
 createdAt: 2023-07-20T15:28:57.078Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-resolver-applying-messages-translations-over-already-translated-content
+slugEN: search-resolver-aplicando-traducciones-de-mensajes-sobre-contenido-ya-traducido
 locale: es
 kiStatus: Backlog
 internalReference: 865918
@@ -18,7 +18,9 @@ internalReference: 865918
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El Search Resolver (capa GraphQL para la Búsqueda Inteligente) solicita traducciones al servicio de Mensajes incluso para tiendas de un solo idioma o contenido ya traducido en una tienda multi-idioma.

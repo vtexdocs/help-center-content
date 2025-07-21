@@ -1,5 +1,5 @@
 ---
-title: 'installmentOptions de la API de orderForm no tiene en cuenta las promociones específicas de los plazos'
+title: "installmentOptions de la API de orderForm no tiene en cuenta las promociones específicas de los plazos"
 id: YgwSByoCsjqEmWOmuXRU4
 status: PUBLISHED
 createdAt: 2022-08-24T15:53:17.291Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: installmentoptions-from-orderform-api-doesnt-take-into-account-specific-installment-promotions
+slugEN: installmentoptions-de-la-api-de-orderform-no-tiene-en-cuenta-las-promociones-especificas-de-los-plazos
 locale: es
 kiStatus: No Fix
 internalReference: 644563
@@ -18,7 +18,9 @@ internalReference: 644563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando una promoción está restringida a una cantidad específica de cuotas de la tarjeta de crédito (por ejemplo, "10% en efectivo"), el importe descontado se aplica incluso a las cuotas fuera del rango limitado, donde el objeto "installmentOptions" de la API de orderForm devolverá valores erróneos.

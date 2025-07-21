@@ -1,5 +1,5 @@
 ---
-title: 'Error 400 (Bad Request) al acceder a la página de filtro con carácter especial en el valor'
+title: "Error 400 (Bad Request) al acceder a la página de filtro con carácter especial en el valor"
 id: 1mHUPIG42A0UUoAwac8IYE
 status: PUBLISHED
 createdAt: 2017-09-18T19:12:57.298Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: error-400-bad-request-when-accessing-filter-page-with-special-character-in-value
+slugEN: error-400-bad-request-al-acceder-a-la-pagina-de-filtro-con-caracter-especial-en-el-valor
 locale: es
 kiStatus: Backlog
 internalReference: 

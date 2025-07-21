@@ -1,5 +1,5 @@
 ---
-title: 'Outdated URL on the Update binding UI'
+title: "Outdated URL on the Update binding UI"
 id: 7bgh2LIJTFovgoz0TaBr5B
 status: PUBLISHED
 createdAt: 2023-08-30T20:04:23.301Z

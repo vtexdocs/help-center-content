@@ -15,7 +15,7 @@ legacySlug: desempeno-de-ventas
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-La página Desempeño de Ventas es un panel diseñado para el comercio unificado, que ayuda a las tiendas a hacer crecer su negocio y a tomar decisiones más precisas. El dashboard permite a los usuarios analizar los datos de los pedidos de su tienda y de sus sellers, en el caso de las [tiendas que actúan como marketplaces](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#actuar-como-un-marketplace). Con esta página, los usuarios pueden:
+La página Desempeño de Ventas es un panel diseñado para el comercio unificado, que ayuda a las tiendas a hacer crecer su negocio y a tomar decisiones más precisas. El dashboard permite a los usuarios analizar los datos de los pedidos de su tienda y de sus sellers, en el caso de las [tiendas que actúan como marketplaces](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#actuar-como-un-marketplace). Con esta página, los usuarios pueden:
 
 - Monitorear el estado general de su negocio  
 - Evaluar el impacto en las ventas de los eventos de alta demanda, como el Black Friday y el Cyber Monday  
@@ -29,13 +29,15 @@ Puedes personalizar la visualización de los datos del gráfico y de la lista fi
 ![Sales Perf Dash ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/desempeno-de-ventas_1.gif)
 
 ## Datos 
-Los datos de la página proceden del [sistema de Gestión de pedidos](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
+Los datos de la página proceden del [sistema de Gestión de pedidos](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
 
 Para asegurarte de que tienes acceso tanto a los últimos datos actualizados como a todo tu historial para analizarlo sin perder rendimiento, internamente el panel de Desempeño de Ventas divide estos datos en grupos separados.
 
 Estos grupos también son procesados por sistemas diferentes, lo que puede provocar una diferencia entre los datos del OMS y los del Desempeño de las Ventas, aunque nuestro objetivo es presentar una divergencia máxima del 3%.
 
->⚠️ Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+<div class ="alert alert-warning">
+Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+</div>
 
 ## Periodo
 
@@ -84,10 +86,10 @@ Las dimensiones son las opciones disponibles para filtrar, agrupar y comparar da
 | 1P / 3P | 1P (first-party) determina las métricas de la propia tienda. 3P (third-party) determina las métricas de terceros. Por ejemplo, seleccionando la métrica Pedidos y filtrando por 3P, verás los pedidos de terceros, tus sellers, en la lista y en el gráfico. |
 | Campaña | Nombre de las campañas creadas en el Admin VTEX. |
 | Cupón | Nombre de los cupones creados en el Admin VTEX. |
-| Política comercial | Nombre de las [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) registradas en tu tienda para filtrar por las distintas estrategias y canales de venta. |
-| Promociones | Nombre de las [promociones](https://help.vtex.com/es/tutorial/ejemplos-de-promociones--5A8UTc7knvAscxo7e7rMFD) creadas en el Admin VTEX. |
-| UTM Campaign | Nome de las [UTM](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns registradas para tus campañas. |
-| UTM Source | Nombre de las [UTM](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Source registradas para identificar el origen del tráfico en tu _ecommerce_. |
+| Política comercial | Nombre de las [políticas comerciales](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) registradas en tu tienda para filtrar por las distintas estrategias y canales de venta. |
+| Promociones | Nombre de las [promociones](/es/tutorial/ejemplos-de-promociones--5A8UTc7knvAscxo7e7rMFD) creadas en el Admin VTEX. |
+| UTM Campaign | Nome de las [UTM](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns registradas para tus campañas. |
+| UTM Source | Nombre de las [UTM](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Source registradas para identificar el origen del tráfico en tu _ecommerce_. |
 
 ## Métricas
 Tanto el gráfico como la lista muestran las métricas de tu tienda, a partir de los datos del módulo de Gestión de Pedidos (OMS). Las métricas se dividen en:
@@ -209,7 +211,9 @@ La lista representa las métricas y los filtros aplicados al gráfico en formato
   - __Absoluta__: visualiza en números absolutos el aumento o disminución de las métricas de la lista entre un periodo y otro.   
   - __Representativa__: visualiza el porcentaje de representatividad de un elemento dentro de una métrica.  
 
->ℹ️ Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
+<div class="alert alert-info">
+Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
+  </div>
 
 ### Exportar datos
 

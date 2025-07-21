@@ -1,5 +1,5 @@
 ---
-title: 'Actualización de las especificaciones del producto inviable debido a la falta de propiedad en GET Resp. JSON'
+title: "Actualización de las especificaciones del producto inviable debido a la falta de propiedad en GET Resp. JSON"
 id: 6FeuIyF2E5WdS0PNRRzgdA
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:06.720Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: updating-product-specifications-unviable-due-to-lacking-property-on-get-resp-json
+slugEN: actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json
 locale: es
 kiStatus: No Fix
 internalReference: 301725
@@ -18,7 +18,9 @@ internalReference: 301725
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 La respuesta JSON de GET Product Specification carece de una propiedad esencial para actualizar las especificaciones preexistentes si así lo necesita el usuario.
 

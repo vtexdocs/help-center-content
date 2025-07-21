@@ -15,17 +15,21 @@ legacySlug: cadastrar-colecoes
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.
+<div class = "alert alert-warning">
+  <p>Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de <a href="https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye">Coleções Beta</a>. Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.</p>
+</div>
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 
 1. No Admin VTEX, acesse **Storefront > Layout**.
 2. Dentro da pasta CMS, clique em __Product Clusters (Collections)__.
 3. Clique em __New Collection__.
-4. Preencha os campos do formulário de Coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](https://help.vtex.com/pt/tutorial/preencher-campos-de-cadastro-de-colecao--7eKL7CFRW3yGKlnDfQetbj).
+4. Preencha os campos do formulário de Coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](/pt/tutorial/preencher-campos-de-cadastro-de-colecao--7eKL7CFRW3yGKlnDfQetbj).
 5. Clique em __Save Product Cluster__.
 
->⚠️ Quando a quantidade de coleções criadas ultrapassar o limite de vinte, as coleções excedentes podem ser encontradas na interface através do campo de pesquisa. A busca nesse campo deve ser feita com base no nome da coleção desejada.
+<div class="alert alert-warning">
+  Quando a quantidade de coleções criadas ultrapassar o limite de vinte, as coleções excedentes podem ser encontradas na interface através do campo de pesquisa. A busca nesse campo deve ser feita com base no nome da coleção desejada.
+</div>
 
 A escolha dos produtos que vão compor uma coleção é feita através da criação de um __grupo__. Para isso, basta clicar em __New Group__ dentro da coleção desejada. 
 
@@ -50,7 +54,9 @@ Sendo:
 
 Por isso, o primeiro grupo criado para qualquer coleção deve ser obrigatoriamente do tipo _Inclusive_.
 
->⚠️ Esteja sempre atento ao tipo de grupo definido no cadastro. Ao incluir produtos em um grupo tipo <i>Exclusive</i>, por exemplo, eles **não** serão incluídos a uma coleção por conta da natureza do seu grupo.
+<div class="alert alert-warning">
+Esteja sempre atento ao tipo de grupo definido no cadastro. Ao incluir produtos em um grupo tipo <i>Exclusive</i>, por exemplo, eles <strong>não</strong> serão incluídos a uma coleção por conta da natureza do seu grupo. 
+</div>
 
 ## Seleção de produtos
 
@@ -97,11 +103,15 @@ No campo __Find SKUs__, é possível digitar o ID de quantos SKUs forem desejado
 
 Para excluir um SKU da lista, basta clicar no botão vermelho ao lado dele.
 
->ℹ️ Quando o número de SKUs na listagem ultrapassar 10 itens, um controle de paginação ficará disponível.
+<div class="alert alert-info">
+Quando o número de SKUs na listagem ultrapassar 10 itens, um controle de paginação ficará disponível.
+</div>
 
 ### Por planilha 
 
->ℹ️ Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção [aqui](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
+<div class="alert alert-info">
+Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção <a href="//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls">aqui</a>.
+</div>
 
 #### Inclusão massiva
 
@@ -125,11 +135,15 @@ Para evitar a exclusão manual de um SKU por vez, também é possível usar o re
 
 Nesse caso em específico, os SKUs listados na planilha importada serão excluídos do grupo. Para isso, clique na opção __excluir skus__ depois que o arquivo for carregado.
 
->⚠️ Os SKUs inativos não terão seus IDs considerados para inclusão ou exclusão mesmo que estejam listados na planilha.
+<div class="alert alert-warning">
+Os SKUs inativos não terão seus IDs considerados para inclusão ou exclusão mesmo que estejam listados na planilha.
+</div>
 
 ## Produtos por data de lançamento no mercado
 
->⚠️ Na seção de **Other options**, as opções **Pre-sales** e **Launches** são um complemento à escolha dos produtos por Categorias, Marcas ou SKUs. Isso significa que essas flags só vão funcionar se você já tiver selecionado anteriormente
+<div class="alert alert-warning">
+Na seção de <strong>Other options</strong>, as opções <strong>Pre-sales</strong> e <strong>Launches</strong> são um complemento à escolha dos produtos por Categorias, Marcas ou SKUs. Isso significa que essas flags só vão funcionar se você já tiver selecionado anteriormente
+</div>
 
 Note que apenas é possível selecionar uma das duas opções. Caso queira que ambos os cenários sejam contemplados, crie dois grupos e configure cada um deles com a respectiva opção.
 
@@ -143,4 +157,6 @@ Para criar uma coleção de produtos que ainda não foram lançados na sua loja,
 
 A opção __Launches__ permite criar uma coleção de produtos recentemente lançados. Ao selecionar essa opção, o sistema considerará todos os produtos lançados dentro do intervalo de 30 dias anteriores ao vigente. A data de lançamento considerada é também aquela definida no campo _Data de lançamento no mercado_ no cadastro do produto. 
 
->ℹ️ Se quiser entender como funciona a exclusão de uma coleção de produtos, acesse nosso artigo sobre [como deletar coleções](https://help.vtex.com/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2).
+<div class="alert alert-info">
+Se quiser entender como funciona a exclusão de uma coleção de produtos, acesse nosso artigo sobre <a href="https://help.vtex.com/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2">como deletar coleções</a>.
+</div>

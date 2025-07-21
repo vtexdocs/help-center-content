@@ -1,5 +1,5 @@
 ---
-title: "How to remove the error message 'Request headers must only contain ASCII characters'"
+title: 'How to remove the error message "Request headers must only contain ASCII characters"'
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
@@ -60,7 +60,7 @@ On the page where the message "__Request headers must contain only ASCII charact
 
 Once cookies containing special characters have been identified, their origin must be verified so that they can be removed from the page. The most common sources of incorrect cookies are:
 
-- [UTMs](https://help.vtex.com/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) created in your store or in advertising campaigns on Google, Meta, or others with special characters. Example of UTM used on a holiday date in Spanish: `www.site.com?utm_source=mothers-day`.
+- [UTMs](/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) created in your store or in advertising campaigns on Google, Meta, or others with special characters. Example of UTM used on a holiday date in Spanish: `www.site.com?utm_source=mothers-day`.
 - Custom Javascript, where frontend implementations are used to store data or other types of functions, may contain special characters.
 - Scripts from partner clients that create cookies with special characters.
 
@@ -84,4 +84,6 @@ If you want, you can also include the following functions in the script:
 - Automatically expire cookies containing special characters
 - Trigger page reload using the function `window.location.reload()`  
 
->⚠️ Deleting cookies via script is not a permanent solution. As described in the **Disabling cookies with special characters** section, you must identify the source and stop sending cookies with special characters.
+<div class="alert alert-warning">
+  Deleting cookies via script is not a permanent solution. As described in the <b>Disabling cookies with special characters</b> section, you must identify the source and stop sending cookies with special characters.
+</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Order report inconsistency when tid field is duplicated in the connectorResponses field from GET payment details API.'
+title: "Order report inconsistency when tid field is duplicated in the connectorResponses field from GET payment details API."
 id: 4xXSp2RMyHMeHpEUXgmpAZ
 status: PUBLISHED
 createdAt: 2023-09-06T21:18:05.941Z

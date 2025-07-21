@@ -1,5 +1,5 @@
 ---
-title: 'UI duplicando seleção de data e hora para entrega programada quando há divisão de entrega'
+title: "UI duplicando seleção de data e hora para entrega programada quando há divisão de entrega"
 id: 6nPIfnI47XKI0YYNEEPenR
 status: PUBLISHED
 createdAt: 2022-04-28T20:03:10.918Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-duplicating-date-and-time-selection-for-scheduled-delivery-when-it-has-delivery-division
+slugEN: ui-duplicando-selecao-de-data-e-hora-para-entrega-programada-quando-ha-divisao-de-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 569132
@@ -18,7 +18,9 @@ internalReference: 569132
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

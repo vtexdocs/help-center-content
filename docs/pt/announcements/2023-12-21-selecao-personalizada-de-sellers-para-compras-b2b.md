@@ -28,5 +28,5 @@ Para permitir um processo de compra mais ágil, centralizado e que simplifique o
 ## O que precisa ser feito?
 
 Nenhuma ação é necessária. A funcionalidade já está disponível para todas as lojas.
-Para mais informações sobre como criar uma nova atribuição de seller, acesse [Configurando atribuição de sellers a organizações compradoras (B2B)](https://help.vtex.com/pt/tutorial/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky--3VJtKNbLpVAl71uVdaOqpE).
+Para mais informações sobre como criar uma nova atribuição de seller, acesse [Configurando atribuição de sellers a organizações compradoras (B2B)](/pt/tutorial/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky--3VJtKNbLpVAl71uVdaOqpE).
 

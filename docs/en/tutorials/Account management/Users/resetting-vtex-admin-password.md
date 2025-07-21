@@ -34,4 +34,4 @@ Once you have completed the above instructions, the old password is disabled, an
 
 ## Learn more
 
-* [Authentication](https://help.vtex.com/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)
+* [Authentication](/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)

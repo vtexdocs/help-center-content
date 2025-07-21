@@ -1,5 +1,5 @@
 ---
-title: 'O analisador de palavras do Intelligent Search não normaliza o gênero em palavras em português'
+title: "O analisador de palavras do Intelligent Search não normaliza o gênero em palavras em português"
 id: 2oVUQnXZK6FNXg7co88C1B
 status: PUBLISHED
 createdAt: 2024-07-26T22:55:32.746Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-word-analyzer-not-normalizing-gender-in-portuguese-words
+slugEN: o-analisador-de-palavras-do-intelligent-search-nao-normaliza-o-genero-em-palavras-em-portugues
 locale: pt
 kiStatus: Backlog
 internalReference: 1072003
@@ -18,7 +18,9 @@ internalReference: 1072003
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Espera-se que os termos pesquisados sejam normalizados entre suas diferentes formas (plural/singular, gênero e outras possibilidades), um processo formalmente chamado de stemming. O analisador é diferente para cada idioma para atender às suas necessidades.

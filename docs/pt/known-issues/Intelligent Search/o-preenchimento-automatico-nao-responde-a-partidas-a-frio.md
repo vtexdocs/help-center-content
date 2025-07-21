@@ -1,5 +1,5 @@
 ---
-title: 'O preenchimento automático não responde a partidas a frio'
+title: "O preenchimento automático não responde a partidas a frio"
 id: 2lgYjT8lmFIvLV3vKOXKmt
 status: PUBLISHED
 createdAt: 2022-02-23T22:01:05.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: autocomplete-not-answering-to-cold-starts
+slugEN: o-preenchimento-automatico-nao-responde-a-partidas-a-frio
 locale: pt
 kiStatus: Fixed
 internalReference: 418573
@@ -18,7 +18,9 @@ internalReference: 418573
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de pesquisa inteligente conhecido como **autocompletar** não está funcionando em algumas lojas novas, mesmo após a execução de um processo interno chamado _cold start_.

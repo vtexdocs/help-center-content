@@ -1,5 +1,5 @@
 ---
-title: 'Sugerencias transformar UnitMultiplier menor que 1 a 0'
+title: "Sugerencias transformar UnitMultiplier menor que 1 a 0"
 id: 3TC3n2xGTDGFKZUoooJOTR
 status: PUBLISHED
 createdAt: 2022-11-21T19:45:52.096Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: suggestions-transforming-unitmultiplier-less-than-1-to-0
+slugEN: sugerencias-transformar-unitmultiplier-menor-que-1-a-0
 locale: es
 kiStatus: Fixed
 internalReference: 702056
@@ -18,7 +18,9 @@ internalReference: 702056
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

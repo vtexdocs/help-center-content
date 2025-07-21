@@ -1,5 +1,5 @@
 ---
-title: 'Considerar parâmetro map na criação da tag canonical'
+title: "Considerar parâmetro map na criação da tag canonical"
 id: ilHxRrPwliYiaGKaqQecE
 status: PUBLISHED
 createdAt: 2017-05-09T15:51:15.454Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: consider-map-parameter-in-the-creation-of-canonical-tag
+slugEN: considerar-parametro-map-na-criacao-da-tag-canonical
 locale: pt
 kiStatus: Backlog
 internalReference: 

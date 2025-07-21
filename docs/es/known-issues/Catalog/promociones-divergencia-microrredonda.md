@@ -1,5 +1,5 @@
 ---
-title: 'Promociones divergencia microrredonda'
+title: "Promociones divergencia microrredonda"
 id: 603ZTMtdgi9olc6UiWLfmX
 status: PUBLISHED
 createdAt: 2023-12-22T18:48:32.438Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: promotions-microrounding-divergence
+slugEN: promociones-divergencia-microrredonda
 locale: es
 kiStatus: Backlog
 internalReference: 957369
@@ -18,7 +18,9 @@ internalReference: 957369
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El módulo de promociones redondea los descuentos hasta en 3 dígitos significativos, lo que puede, en escenarios muy concretos, suponer ligeras divergencias en el precio final de un carrito.

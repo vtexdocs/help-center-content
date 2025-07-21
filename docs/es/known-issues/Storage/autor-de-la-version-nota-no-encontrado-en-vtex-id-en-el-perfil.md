@@ -1,5 +1,5 @@
 ---
-title: "Autor de la versión 'Nota: No encontrado en VTEX ID.' en el perfil"
+title: 'Autor de la versión "Nota: No encontrado en VTEX ID." en el perfil'
 id: 0X6Aj6YdCXXfNweAkDS46
 status: PUBLISHED
 createdAt: 2023-10-04T21:48:14.699Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: version-author-note-not-found-on-vtex-id-on-the-profile
+slugEN: autor-de-la-version-nota-no-encontrado-en-vtex-id-en-el-perfil
 locale: es
 kiStatus: Scheduled
 internalReference: 914314
@@ -18,7 +18,9 @@ internalReference: 914314
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el cliente realiza una compra, el autor de la versión recibe un id de usuario (guid) o un servicio, seguido del login/nombre/descripción "`Note: Not found on VTEX ID.`" en el perfil.

@@ -19,7 +19,7 @@ Cuando se requiere la [devolución parcial o total de los ítems](/es/tutorial/c
 
 En este caso, VTEX realiza sí el extorno en el adquirente cuando el valor ya fue capturado (status `Facturado`). Funciona de la siguiente forma: VTEX contacta al adquirente e intenta realizar el extorno online lo antes posible.
 
-Sin embargo, si esta operación no tiene éxito, se enviará [una notificación vía  e-mail](https://help.vtex.com/es/tutorial/como-configurar-notificacoes?locale=es]"una notificación vía e-mail") informando al administrador de la tienda que será necesario contactar al adquirente para efectuar el extorno automático.
+Sin embargo, si esta operación no tiene éxito, se enviará [una notificación vía  e-mail](/es/tutorial/como-configurar-notificacoes?locale=es]"una notificación vía e-mail") informando al administrador de la tienda que será necesario contactar al adquirente para efectuar el extorno automático.
 
 Para obtener más información, [haga clic aquí](/es/faq/por-que-se-cobro-en-la-factura-del-cliente-mi-pedido-cancelado).
 

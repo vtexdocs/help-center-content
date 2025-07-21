@@ -1,5 +1,5 @@
 ---
-title: 'No se puede asociar Sellers-SKUs en la planilla de Export/Import de SKU/Produto'
+title: "No se puede asociar Sellers-SKUs en la planilla de Export/Import de SKU/Produto"
 id: 1Y2qEpfCDOAQOgm0oeCCgW
 status: PUBLISHED
 createdAt: 2017-12-28T21:12:56.067Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: seller-skus-cannot-be-associated-in-the-exportimport-skuproduct-spreadsheet
+slugEN: no-se-puede-asociar-sellersskus-en-la-planilla-de-exportimport-de-skuproduto
 locale: es
 kiStatus: Backlog
 internalReference: 

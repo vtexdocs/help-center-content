@@ -1,5 +1,5 @@
 ---
-title: 'VTEX Admin and the storefront might experience some trouble on Firefox 89.0'
+title: "VTEX Admin and the storefront might experience some trouble on Firefox 89.0"
 id: 10BUSPqviNy4VQzuIbllKL
 status: PUBLISHED
 createdAt: 2021-06-08T17:54:36.813Z
@@ -38,7 +38,9 @@ To fix this issue, you should turn off the tracking toggle:
 
 Don’t worry: turning off this option will not make your store unprotected.
 
->ℹ️ If after these steps your Admin or store is still not loading, we advise you to try another browser.
+<div class= "alert alert-info">
+If after these steps your Admin or store is still not loading, we advise you to try another browser.
+</div>
 
 ![Firefox bug EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Others/vtex-admin-and-the-storefront-might-experience-some-trouble-on-firefox-89-0_1.jpg)
 

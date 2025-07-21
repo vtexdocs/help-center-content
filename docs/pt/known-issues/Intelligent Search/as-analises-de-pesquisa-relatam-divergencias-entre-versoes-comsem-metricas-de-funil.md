@@ -1,5 +1,5 @@
 ---
-title: 'As análises de pesquisa relatam divergências entre versões com/sem métricas de funil'
+title: "As análises de pesquisa relatam divergências entre versões com/sem métricas de funil"
 id: 33lXZb4Nr2NOPgW2Cth9ry
 status: PUBLISHED
 createdAt: 2024-02-09T19:01:45.952Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-analytics-report-divergences-between-versions-withwithout-funnel-metrics
+slugEN: as-analises-de-pesquisa-relatam-divergencias-entre-versoes-comsem-metricas-de-funil
 locale: pt
 kiStatus: Backlog
 internalReference: 980297
@@ -18,7 +18,9 @@ internalReference: 980297
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O relatório de análise de pesquisa exportado como CSV pode divergir entre sua versão com métricas de funil e sua versão sem elas.

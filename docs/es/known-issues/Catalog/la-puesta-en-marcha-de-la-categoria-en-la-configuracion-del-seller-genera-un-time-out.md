@@ -1,5 +1,5 @@
 ---
-title: 'La puesta en marcha de la categoría en la configuración del seller genera un Time Out'
+title: "La puesta en marcha de la categoría en la configuración del seller genera un Time Out"
 id: 5NsiGAjTIK1ygBvJo1ks2k
 status: PUBLISHED
 createdAt: 2022-09-05T14:18:53.669Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: category-commissioning-on-the-seller-config-generates-time-out
+slugEN: la-puesta-en-marcha-de-la-categoria-en-la-configuracion-del-seller-genera-un-time-out
 locale: es
 kiStatus: Fixed
 internalReference: 310527
@@ -18,7 +18,9 @@ internalReference: 310527
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si una cuenta tiene muchas categorías, en la pantalla de configuración del vendedor puede que no se cargue la puesta en marcha de la categoría debido a un tiempo de espera.

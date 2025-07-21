@@ -1,5 +1,5 @@
 ---
-title: 'Los pedidos de artículos de regalo no se cancelan si se rechaza el pago del pedido del artículo normal'
+title: "Los pedidos de artículos de regalo no se cancelan si se rechaza el pago del pedido del artículo normal"
 id: 6Yr7bEseJceNQiY2sw7Vtx
 status: PUBLISHED
 createdAt: 2022-10-18T22:34:21.726Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orders-for-gift-items-arent-canceled-if-the-payment-is-refused-for-the-regular-items-order
+slugEN: los-pedidos-de-articulos-de-regalo-no-se-cancelan-si-se-rechaza-el-pago-del-pedido-del-articulo-normal
 locale: es
 kiStatus: Backlog
 internalReference: 679598
@@ -18,7 +18,9 @@ internalReference: 679598
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los pedidos son independientes cuando no comparten la misma transacción de pago. Los pedidos creados para cumplir sólo con el artículo de regalo a través de un vendedor diferente a los demás artículos de una compra no tienen ninguna transacción de pago porque son gratuitos.

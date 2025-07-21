@@ -1,5 +1,5 @@
 ---
-title: 'Produtos sem estoque em vendedores de whitelabel estão aparecendo no final do PLP'
+title: "Produtos sem estoque em vendedores de whitelabel estão aparecendo no final do PLP"
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: products-without-stock-on-whitelabel-sellers-are-appearing-in-the-end-of-plp
+slugEN: produtos-sem-estoque-em-vendedores-de-whitelabel-estao-aparecendo-no-final-do-plp
 locale: pt
 kiStatus: No Fix
 internalReference: 495741
@@ -18,7 +18,9 @@ internalReference: 495741
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os produtos que não têm estoque nos vendedores da WL estão aparecendo no final do PLP.

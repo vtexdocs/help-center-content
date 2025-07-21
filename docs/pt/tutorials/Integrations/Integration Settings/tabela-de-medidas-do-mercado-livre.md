@@ -117,7 +117,9 @@ O template da tabela de medidas para roupas da parte inferior possui as seguinte
 | **Person_height_from** | Altura da pessoa - início do intervalo de medidas. | Preencha cada linha com a medida mínima da altura de uma pessoa em centímetros. Por exemplo, 188 cm. |
 | **Person_height_to** | Altura da pessoa - fim do intervalo de medidas. | Preencha cada linha com a medida mínima da altura de uma pessoa em centímetros. Por exemplo, 193 cm. |
 
->ℹ️ É necessário utilizar espaço entre o número e a medida (cm), separar os números utilizando pontos (.), preencher todas as colunas com o tamanho do corpo, e conferir se os campos **Gênero** e **Tamanho** foram selecionados corretamente.
+<div class="alert alert-info">
+  É necessário utilizar espaço entre o número e a medida (cm), separar os números utilizando pontos (.), preencher todas as colunas com o tamanho do corpo, e conferir se os campos <b>Gênero</b> e <b>Tamanho</b> foram selecionados corretamente.
+  </div>
 
 ## Fazer upload da Tabela de medidas
 
@@ -134,4 +136,6 @@ Após preencher a planilha de mapeamento, faça o seu upload:
 
 Ao finalizar, sua tabela de medida personalizada terá sido criada com sucesso.  
 
->ℹ️ Caso ocorra algum erro, o problema será indicado na tela de upload. O erro deve ser resolvido e o upload deverá ser realizado novamente.
+<div class="alert alert-info">
+  Caso ocorra algum erro, o problema será indicado na tela de upload. O erro deve ser resolvido e o upload deverá ser realizado novamente.
+  </div>

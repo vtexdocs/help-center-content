@@ -1,5 +1,5 @@
 ---
-title: 'El enlace de cambio de pedido en la página de pago/pedido realizado lleva a myAccount en lugar de a la página de pedido.'
+title: "El enlace de cambio de pedido en la página de pago/pedido realizado lleva a myAccount en lugar de a la página de pedido."
 id: 6bP44VBdFIujX072rY6wCA
 status: PUBLISHED
 createdAt: 2023-06-15T16:13:03.752Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: change-order-link-on-checkoutorderplaced-is-leading-to-myaccount-instead-of-the-order-page
+slugEN: el-enlace-de-cambio-de-pedido-en-la-pagina-de-pagopedido-realizado-lleva-a-myaccount-en-lugar-de-a-la-pagina-de-pedido
 locale: es
 kiStatus: Backlog
 internalReference: 844893
@@ -18,7 +18,9 @@ internalReference: 844893
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la cuenta ha configurado la posibilidad de que el comprador cambie el pedido por sí mismo, el enlace de cambio de pedido aparecerá en la plantilla de pago/pedido realizado.

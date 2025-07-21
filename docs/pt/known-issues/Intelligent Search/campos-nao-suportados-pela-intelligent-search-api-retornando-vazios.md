@@ -1,5 +1,5 @@
 ---
-title: 'Campos não suportados pela Intelligent Search API retornando vazios'
+title: "Campos não suportados pela Intelligent Search API retornando vazios"
 id: Jvm9oLhUM6NqCslpBqSti
 status: PUBLISHED
 createdAt: 2024-05-13T21:03:14.026Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: unsupported-fields-by-the-intelligent-search-api-returning-empty
+slugEN: campos-nao-suportados-pela-intelligent-search-api-retornando-vazios
 locale: pt
 kiStatus: Backlog
 internalReference: 1032531
@@ -18,7 +18,9 @@ internalReference: 1032531
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API de pesquisa inteligente baseia-se principalmente na API de pesquisa de catálogo herdada por motivos de compatibilidade, mas nem todas as propriedades retornam as mesmas informações. Em alguns casos, elas são diferentes ou estão vazias.

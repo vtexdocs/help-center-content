@@ -28,15 +28,15 @@ Dito isso, podemos partir para a configuração das condições de pagamento em 
 
 ## Configurações gerais
 
-Para configurar uma condição de pagamento, primeiramente você precisa cadastrar um provedor de pagamento, conforme descrito em [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para configurar uma condição de pagamento, primeiramente você precisa cadastrar um provedor de pagamento, conforme descrito em [Cadastrar provedores de pagamento e antifraude](/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 Independente da condição de pagamento a ser escolhida, as ações abaixo sempre devem ser efetuadas:
 - Definir o nome da regra de acordo com o que ela representa, para ajudar a identificá-la;
 - Ativá-la;
 - Definir por qual provedor de pagamento essa condição será processada;
-- Definir se você vai ou não usar [antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude--tutorials_446).
+- Definir se você vai ou não usar [antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446).
 
-Além disso, para algumas condições de pagamento pode ser necessário definir se o pagamento será à vista ou em parcelas, com ou sem juros e [condições especiais](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+Além disso, para algumas condições de pagamento pode ser necessário definir se o pagamento será à vista ou em parcelas, com ou sem juros e [condições especiais](/pt/tutorial/condicoes-especiais--tutorials_456).
 
 Como o __Cartão de Crédito__ é um meio de pagamento que permite aplicar todas essas características, veja abaixo como configurá-lo:
 
@@ -96,7 +96,7 @@ Caso você decida configurar um meio de pagamento que aceite parcelas com juros,
 
 ### Parcelamento Automático
 A opção de Parcelamento Automático permite que você configure os detalhes dos parcelamentos diretamente no provedor de pagamento (externamente ao ambiente VTEX).
-Para habilitar esta opção, selecione “Sim” no campo **Usar parcelamento externo** durante a etapa de [configuração de provedores](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para habilitar esta opção, selecione “Sim” no campo **Usar parcelamento externo** durante a etapa de [configuração de provedores](/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 ![parcelamentoautomatico](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/payments/configurar-uma-condicao-de-pagamento_1.JPG)
 

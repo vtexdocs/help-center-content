@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Lanzamiento beta de la nueva experiencia de las interfaces de Estrategia de envío.'
 ---
 
-A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versión beta de las nuevas interfaces de la **Estrategia de envío**, compuesta por las páginas de [Políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), [Muelles](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) y [Almacenes](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versión beta de las nuevas interfaces de la **Estrategia de envío**, compuesta por las páginas de [Políticas de envío](/es/tutorial/politica-de-envio--tutorials_140), [Muelles](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) y [Almacenes](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX design system_, como se puede ver a continuación:
 
@@ -25,7 +25,7 @@ Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX d
 
 Las nuevas interfaces de la **Estrategia de envío** ofrecen una experiencia más intuitiva y se han actualizado para el Admin VTEX. Además, se han realizado las siguientes mejoras en la página de **Políticas de envío**:
 
-* **Nuevo flujo de activación:** puedes activar o desactivar tus [políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) de forma sencilla y práctica, seleccionando la opción deseada en el menú <i class="fas fa-ellipsis-v"></i> correspondiente a la política de envío que deseas modificar.
+* **Nuevo flujo de activación:** puedes activar o desactivar tus [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) de forma sencilla y práctica, seleccionando la opción deseada en el menú <i class="fas fa-ellipsis-v"></i> correspondiente a la política de envío que deseas modificar.
 * **Fácil seguimiento de información:** ahora puedes hacer un seguimiento de la relación entre tus políticas de envío y muelles, teniendo una mayor visibilidad de tu operación.
 
 ## ¿Por qué realizamos este cambio?
@@ -38,5 +38,7 @@ A partir del 31 de mayo, la versión beta de la **Estrategia de envío** está d
 
 Si después de probar el beta deseas volver a la versión anterior, en el menú <i class="fas fa-ellipsis-v"></i> en la parte superior de **Estrategia de envío**, haga clic en `Cambiar a la versión anterior` y comenta el motivo. El regreso será automático.
 
->⚠️ A partir del 26 de julio, las nuevas interfaces de la **Estrategia de envío** sean el estándar para todas las tiendas VTEX.
+<div class="alert alert-warning">
+A partir del 26 de julio, las nuevas interfaces de la <b>Estrategia de envío</b> sean el estándar para todas las tiendas VTEX.
+</div>
 

@@ -15,7 +15,9 @@ legacySlug: vista-general-de-la-tienda-beta
 subcategoryId: QPnz120TdtLcXSh65c4Gs
 ---
 
->ℹ️ La versión actualizada de la página Vista general de la tienda (Beta) está disponible para uso gratuito en el Admin VTEX durante su periodo beta, o hasta que VTEX lo decida. Es importante tener en cuenta que en el futuro podrían aplicarse tarifas adicionales. Además, la página de Vista general, actualmente presente en el VTEX Admin, seguirá estando disponible para su uso por el momento.
+<div class="alert alert-info"> 
+La versión actualizada de la página Vista general de la tienda (Beta) está disponible para uso gratuito en el Admin VTEX durante su periodo beta, o hasta que VTEX lo decida. Es importante tener en cuenta que en el futuro podrían aplicarse tarifas adicionales. Además, la página de Vista general, actualmente presente en el VTEX Admin, seguirá estando disponible para su uso por el momento.
+</div>
 
 La página Vista general (Beta) de tu Admin VTEX proporciona un seguimiento en tiempo real de tu operación en el día actual, ofreciendo visibilidad en las métricas para que tu equipo y tú tengan un rápido feedback sobre las acciones realizadas en la tienda y puedan actuar con prontitud para implementar mejoras. 
 
@@ -36,7 +38,9 @@ En este artículo, presentamos las principales secciones y acciones presentes en
 
 Las métricas de la página incluyen datos sobre los pedidos y la navegación, que se obtienen de distintos sistemas.
 
->⚠️ Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+<div class ="alert alert-warning">
+Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+</div>
 
 * **Pedidos e ingresos:** los datos sobre pedidos e ingresos proceden del OMS, el Sistema de Gestión de Pedidos de VTEX, e incluyen los pedidos realizados a través de todos tus canales de venta.
 * **Sesiones:** los datos de navegación proceden del sistema interno de la plataforma que captura las sesiones de los usuarios en el storefront de las tiendas VTEX. Las sesiones están representadas por el conjunto de páginas vistas a las que accede un mismo usuario cuando navega por tu tienda online, sin tener en cuenta marketplaces, aplicaciones, VTEX Sales App y cualquier otro canal de venta.
@@ -61,7 +65,9 @@ Puedes utilizar diferentes  [métricas](#metricas) y gráficos de [monitoreo](#m
 | Resultados financieros  | - [Ingresos capturados](#monitoreo) <br>- [Ticket promedio](#metricas) <br>- [Productos con mayores ingresos](#metricas)                                                                                                                                                                                                               |
 | Conversión              | - [Tasa de conversión](#metricas) <br>- [Embudo de ventas](#embudo-de-ventas) <br>- [Pedidos capturados](#monitoreo), comparado con el número de Pedidos cancelados. Los resultados obtenidos pueden guiar a tu equipo a identificar aquellos problemas operativos en el fulfillment o atención al cliente que causaron los pedidos cancelados. |
 
->ℹ️ Importante: mientras que los gráficos de Monitoreo se actualizan en hasta tres minutos, las Métricas se actualizan cada quince minutos, lo que puede influir en tu análisis de resultados. Más información en [Actualización de datos](#atualizacion-de-datos).
+<div class="alert alert-info"> 
+Importante: mientras que los gráficos de Monitoreo se actualizan en hasta tres minutos, las Métricas se actualizan cada quince minutos, lo que puede influir en tu análisis de resultados. Más información en <a href="#atualizacion-de-datos">Actualización de datos</a>.
+</div>
 
 ### Analizar resultados de campañas
 

@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Master Data v1, Report, Export
 ---
 
-When [exporting a report with data from Master Data v1](https://help.vtex.com/en/tutorial/exporting-data--tutorials_1125), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
+When [exporting a report with data from Master Data v1](/en/tutorial/exporting-data--tutorials_1125), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
 
 ## Solution
 

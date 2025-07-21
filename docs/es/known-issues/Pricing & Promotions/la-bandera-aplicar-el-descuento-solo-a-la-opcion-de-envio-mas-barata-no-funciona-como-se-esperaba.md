@@ -1,5 +1,5 @@
 ---
-title: "La bandera 'Aplicar el descuento sólo a la opción de envío más barata' no funciona como se esperaba"
+title: 'La bandera "Aplicar el descuento sólo a la opción de envío más barata" no funciona como se esperaba'
 id: 15irjH6rNkHhkBeRNn9RUI
 status: PUBLISHED
 createdAt: 2022-10-05T18:01:57.821Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected
+slugEN: la-bandera-aplicar-el-descuento-solo-a-la-opcion-de-envio-mas-barata-no-funciona-como-se-esperaba
 locale: es
 kiStatus: Backlog
 internalReference: 672567
@@ -18,7 +18,9 @@ internalReference: 672567
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

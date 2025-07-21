@@ -34,7 +34,7 @@ Although we have redesigned the VTEX Admin, your store settings and data have no
 
 ### Changes in navigation menu
 
-No page has been removed from the VTEX Admin, but we have reorganized the navigation menu to better match the most accessed pages and reflect your operation's priorities. Learn more about our [Enhanced navigation](https://help.vtex.com/en/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
+No page has been removed from the VTEX Admin, but we have reorganized the navigation menu to better match the most accessed pages and reflect your operation's priorities. Learn more about our [Enhanced navigation](/en/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
 
 You can use the search bar at the top of your VTEX Admin to search for specific pages. Pages that are not part of our standard edition of the VTEX Admin can also be found by accessing **Apps > Installed Apps.**
 
@@ -42,22 +42,22 @@ Besides reorganizing the order of pages, we have also changed some of the labels
 
 | Menu                                                                                                            | Information                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [Dashboards](https://help.vtex.com/en/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl)                  | Management dashboard for unified commerce data.                                                                             |
-| [Orders](https://help.vtex.com/en/tutorial/orders-overview--tutorials_201)                          | Management of orders, transactions, shipping information, and subscriptions.                                                |
-| [Catalog](https://help.vtex.com/en/tutorial/catalog-overview-2--FFrumKPYFpvIWKRXfhQYp)                       | Product assortment of your ecommerce website.                                                                               |
-| [Promotions](https://help.vtex.com/en/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm)                   | Management of promotions, coupons, and campaigns.                                                                           |
-| [Storefront](https://help.vtex.com/en/tutorial/storefront-overview--7cRrL2xtY7HDqiyep1PxIS)                  | Defines the user experience and visual identity of the store website, Intelligent Search, and releases.                     |
-| [Shipping](https://help.vtex.com/en/tutorial/shipping-overview--6Qc1DsKIht2l7elwJCLddX)                          | Management of inventory, shipping rates, item availability, and delivery tracking.                                          |
-| [Marketplace](https://help.vtex.com/en/tutorial/marketplace-overview--40Zd0z9h2RXsM9uMUp3kEb)                   | Management of sellers, marketplaces, and connections.                                                                       |
-| [Apps](https://help.vtex.com/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                               | App Store and installed apps.                                                                                               |
-| [Store Settings](https://help.vtex.com/en/tutorial/store-settings-overview--6VtlMoid6iM9dP14X1CopT#)   | Settings for payments, orders, email templates, shipping, products, storefront, channels, Intelligent Search, and calendar. |
-| [User Settings](https://help.vtex.com/en/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34)     | Settings applied to your store, including your storefront.                                                                  |
-| [Account Settings](https://help.vtex.com/tutorial/account-settings-overview--6USYxLuzNt4uAkvjdPF7I8) | Settings applied to your personal profile in the Admin, not related to the store or your VTEX business account.             |
-| [Invoices](https://help.vtex.com/en/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs#)                         | Management of all financial aspects of your VTEX account.                                                                   |
+| [Dashboards](/en/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl)                  | Management dashboard for unified commerce data.                                                                             |
+| [Orders](/en/tutorial/orders-overview--tutorials_201)                          | Management of orders, transactions, shipping information, and subscriptions.                                                |
+| [Catalog](/en/tutorial/catalog-overview-2--FFrumKPYFpvIWKRXfhQYp)                       | Product assortment of your ecommerce website.                                                                               |
+| [Promotions](/en/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm)                   | Management of promotions, coupons, and campaigns.                                                                           |
+| [Storefront](/en/tutorial/storefront-overview--7cRrL2xtY7HDqiyep1PxIS)                  | Defines the user experience and visual identity of the store website, Intelligent Search, and releases.                     |
+| [Shipping](/en/tutorial/shipping-overview--6Qc1DsKIht2l7elwJCLddX)                          | Management of inventory, shipping rates, item availability, and delivery tracking.                                          |
+| [Marketplace](/en/tutorial/marketplace-overview--40Zd0z9h2RXsM9uMUp3kEb)                   | Management of sellers, marketplaces, and connections.                                                                       |
+| [Apps](/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                               | App Store and installed apps.                                                                                               |
+| [Store Settings](/en/tutorial/store-settings-overview--6VtlMoid6iM9dP14X1CopT#)   | Settings for payments, orders, email templates, shipping, products, storefront, channels, Intelligent Search, and calendar. |
+| [User Settings](/en/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34)     | Settings applied to your store, including your storefront.                                                                  |
+| [Account Settings](/tutorial/account-settings-overview--6USYxLuzNt4uAkvjdPF7I8) | Settings applied to your personal profile in the Admin, not related to the store or your VTEX business account.             |
+| [Invoices](/en/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs#)                         | Management of all financial aspects of your VTEX account.                                                                   |
 
 ## Why did we make this change?
 
-Our goal is to bring consistency to your experience by reducing unnecessary complexity. To achieve this goal, we are redesigning several parts of the experience and implementing structural changes in how you navigate the VTEX Admin. The [new home page](https://help.vtex.com/en/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ) was also redesigned to serve as a control panel for your entire business operation, with actionable data to inform your decisions.
+Our goal is to bring consistency to your experience by reducing unnecessary complexity. To achieve this goal, we are redesigning several parts of the experience and implementing structural changes in how you navigate the VTEX Admin. The [new home page](/en/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ) was also redesigned to serve as a control panel for your entire business operation, with actionable data to inform your decisions.
 
 ## What needs to be done?
 

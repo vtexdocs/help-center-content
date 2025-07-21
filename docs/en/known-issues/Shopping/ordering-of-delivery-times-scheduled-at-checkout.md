@@ -1,5 +1,5 @@
 ---
-title: 'Ordering of delivery times scheduled at checkout'
+title: "Ordering of delivery times scheduled at checkout"
 id: 2ZAhWeQbJe6kWgoCEMEMWQ
 status: PUBLISHED
 createdAt: 2018-09-18T18:32:16.155Z

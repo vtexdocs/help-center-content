@@ -1,5 +1,5 @@
 ---
-title: 'Change order link on checkout/orderPlaced is leading to myAccount instead of the order page'
+title: "Change order link on checkout/orderPlaced is leading to myAccount instead of the order page"
 id: 6bP44VBdFIujX072rY6wCA
 status: PUBLISHED
 createdAt: 2023-06-15T16:13:03.752Z

@@ -1,5 +1,5 @@
 ---
-title: 'Client document value will not update correctly sometimes in Global Checkout setting'
+title: "Client document value will not update correctly sometimes in Global Checkout setting"
 id: 3846jcrfuMvULJt5dZkJxf
 status: PUBLISHED
 createdAt: 2023-07-17T20:50:26.133Z

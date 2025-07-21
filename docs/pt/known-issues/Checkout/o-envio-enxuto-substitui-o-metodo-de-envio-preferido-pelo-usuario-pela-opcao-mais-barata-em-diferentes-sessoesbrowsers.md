@@ -1,5 +1,5 @@
 ---
-title: 'O envio enxuto substitui o método de envio preferido pelo usuário pela opção mais barata em diferentes sessões/browsers'
+title: "O envio enxuto substitui o método de envio preferido pelo usuário pela opção mais barata em diferentes sessões/browsers"
 id: 2bUIAHTUDuu2K98HWVjVfb
 status: PUBLISHED
 createdAt: 2023-02-01T21:06:22.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lean-shipping-overrides-user-preferred-shipping-method-to-cheapest-option-in-different-sessionsbrowsers
+slugEN: o-envio-enxuto-substitui-o-metodo-de-envio-preferido-pelo-usuario-pela-opcao-mais-barata-em-diferentes-sessoesbrowsers
 locale: pt
 kiStatus: Backlog
 internalReference: 607411
@@ -18,7 +18,9 @@ internalReference: 607411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em novas sessões (navegadores diferentes) para a mesma ordemFormulário, a opção selecionada anteriormente não é levada em conta, sendo sempre sobreposta à opção "mais barata", afeta especialmente os cenários de carrinho compartilhado

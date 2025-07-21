@@ -1,5 +1,5 @@
 ---
-title: "Link de texto criado com ' ' no Marketplace após as aprovações - Reocorrência"
+title: 'Link de texto criado com " " no Marketplace após as aprovações - Reocorrência'
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: textlink-created-with-on-marketplace-upon-approvals-reoccurence
+slugEN: link-de-texto-criado-com-no-marketplace-apos-as-aprovacoes-reocorrencia
 locale: pt
 kiStatus: Fixed
 internalReference: 795900
@@ -18,7 +18,9 @@ internalReference: 795900
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns cenários, ao aprovar um produto em um Marketplace, no aplicativo Received SKUs, a solicitação falha ao inserir dados no catálogo e, ao tentar novamente, os campos de link de texto preenchem os caracteres "-" com " ", alterando o comportamento desejado.

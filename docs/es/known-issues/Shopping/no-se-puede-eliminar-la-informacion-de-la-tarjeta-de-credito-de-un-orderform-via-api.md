@@ -1,5 +1,5 @@
 ---
-title: 'No se puede eliminar la información de la tarjeta de crédito de un orderForm vía API'
+title: "No se puede eliminar la información de la tarjeta de crédito de un orderForm vía API"
 id: 2EEKXZk35YE9nb0L3A8TUF
 status: PUBLISHED
 createdAt: 2021-09-13T23:41:59.223Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cannot-remove-credit-card-information-from-an-orderform-via-api
+slugEN: no-se-puede-eliminar-la-informacion-de-la-tarjeta-de-credito-de-un-orderform-via-api
 locale: es
 kiStatus: Backlog
 internalReference: 

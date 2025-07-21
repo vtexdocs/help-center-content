@@ -1,5 +1,5 @@
 ---
-title: 'Cart Itens se guardan en pedidos con valor total cero'
+title: "Cart Itens se guardan en pedidos con valor total cero"
 id: 66D6RuacgCeCMQDmLPrlNP
 status: PUBLISHED
 createdAt: 2024-06-24T20:59:07.721Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-itens-are-kept-in-orders-with-total-value-zero
+slugEN: cart-itens-se-guardan-en-pedidos-con-valor-total-cero
 locale: es
 kiStatus: Backlog
 internalReference: 1054999
@@ -18,7 +18,9 @@ internalReference: 1054999
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

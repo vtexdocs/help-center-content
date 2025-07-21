@@ -1,5 +1,5 @@
 ---
-title: 'La publicación de entidad Master Data V1 funciona de manera intermitente'
+title: "La publicación de entidad Master Data V1 funciona de manera intermitente"
 id: 7mwbfdhdw8ENUtPiC2oEPH
 status: PUBLISHED
 createdAt: 2019-07-17T17:45:55.823Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: master-data-v1-entity-publishing-functioning-intermittently
+slugEN: la-publicacion-de-entidad-master-data-v1-funciona-de-manera-intermitente
 locale: es
 kiStatus: Backlog
 internalReference: 

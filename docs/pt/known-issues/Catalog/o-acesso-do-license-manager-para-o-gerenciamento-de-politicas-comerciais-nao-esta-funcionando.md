@@ -1,5 +1,5 @@
 ---
-title: 'O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando.'
+title: "O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando."
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: license-manager-access-for-sales-channel-management-is-not-working
+slugEN: o-acesso-do-license-manager-para-o-gerenciamento-de-politicas-comerciais-nao-esta-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 380904
@@ -18,7 +18,9 @@ internalReference: 380904
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na configuração do Gerente de Licenças, podemos selecionar qual recurso o usuário pode acessar. O gerenciamento dos Canais de Vendas não está dando acesso à página de configuração do Canal de Vendas: `account.myvtex.com/admin/Site/Store.aspx'.

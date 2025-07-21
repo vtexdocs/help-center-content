@@ -45,9 +45,11 @@ Quando ainda não há informações de localização do cliente, a heurística d
 
 Isso acontece tanto durante a navegação quanto no carrinho, com o objetivo de evitar que o cliente veja produtos de vendedores que não realizam entregas no seu endereço.
 
->ℹ️ Mesmo que durante a navegação as informações de localização do cliente tenham sido capturadas e armazenadas  no campo `regionId` da API de Sessão, a localização não é usada no carrinho. No carrinho só fica disponível para o cliente os produtos do seller principal e dos sellers abrangentes. Os produtos dos outros sellers só ficam disponíveis após o cliente informar o código postal de entrega no checkout.
+<div class = "alert alert-info">
+Mesmo que durante a navegação as informações de localização do cliente tenham sido capturadas e armazenadas  no campo <code>regionId</code> da API de Sessão, a localização não é usada no carrinho. No carrinho só fica disponível para o cliente os produtos do seller principal e dos sellers abrangentes. Os produtos dos outros sellers só ficam disponíveis após o cliente informar o código postal de entrega no checkout.
+</div>
 
-Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes. Saiba mais em [Seleção de seller white label](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
+Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes. Saiba mais em [Seleção de seller white label](/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
 
 ## Como habilitar um seller como abrangente
 

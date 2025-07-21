@@ -17,7 +17,9 @@ subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 
 Esta é uma configuração amplamente utilizada quando um fluxo muito grande de pedidos acaba gerando uma demanda logística considerável, pois possibilita que um pacote aguarde o tempo de preparo de outro para ser enviado em grupo, por uma mesma transportadora, a um destinatário final.
 
->⚠️ Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
+<div class="alert alert-warning">
+Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
+</div>
 
 Na imagem abaixo vemos a configuração de remessa de __6 dias.__ Cada caixinha representa o custo em dias de um pacote, considerando apenas o __custo de estoque e o custo da doca.__
 

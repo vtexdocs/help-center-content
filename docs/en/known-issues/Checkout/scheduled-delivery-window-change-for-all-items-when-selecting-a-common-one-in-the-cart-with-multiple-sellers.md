@@ -1,5 +1,5 @@
 ---
-title: 'Scheduled delivery window change for all items when selecting a common one in the cart with multiple sellers'
+title: "Scheduled delivery window change for all items when selecting a common one in the cart with multiple sellers"
 id: 1Dkdy8fr6AcV766gDgYgqp
 status: PUBLISHED
 createdAt: 2024-08-30T17:20:33.623Z

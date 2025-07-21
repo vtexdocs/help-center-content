@@ -1,5 +1,5 @@
 ---
-title: 'Gift promotions not working as expected when acting alongside other gift promotion'
+title: "Gift promotions not working as expected when acting alongside other gift promotion"
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z

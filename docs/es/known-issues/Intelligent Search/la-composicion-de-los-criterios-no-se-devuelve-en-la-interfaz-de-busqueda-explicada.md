@@ -1,5 +1,5 @@
 ---
-title: 'La composición de los criterios no se devuelve en la interfaz de búsqueda explicada'
+title: "La composición de los criterios no se devuelve en la interfaz de búsqueda explicada"
 id: 5IyEZe5GBlt732g0rbU5T4
 status: PUBLISHED
 createdAt: 2023-06-29T15:05:18.815Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: criteria-composition-is-not-returned-on-the-explained-search-ui
+slugEN: la-composicion-de-los-criterios-no-se-devuelve-en-la-interfaz-de-busqueda-explicada
 locale: es
 kiStatus: Backlog
 internalReference: 852898
@@ -18,7 +18,9 @@ internalReference: 852898
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se busca un término en el que la respuesta es un solo producto, ese producto no tendrá la composición de criterios que aparece en la pantalla de la búsqueda explicada.

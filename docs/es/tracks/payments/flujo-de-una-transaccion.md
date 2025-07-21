@@ -16,7 +16,7 @@ trackSlugES: pagos
 
 El camino que recorre el dinero cuando se intercambia por un producto o servicio es lo que llamamos __transacción__.
 
-En una tienda VTEX, una transacción comienza cada vez que un usuario elige una [condición de pago](https://help.vtex.com/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de compra se envían para validación de cada uno de los integrantes del proceso.
+En una tienda VTEX, una transacción comienza cada vez que un usuario elige una [condición de pago](/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de compra se envían para validación de cada uno de los integrantes del proceso.
 
 Las transacciones realizadas por el módulo de pagos de VTEX pasan por diversos status, desde el inicio del proceso de autorización, pasando por la liquidación del valor y llegando hasta la finalización de la transacción.
 

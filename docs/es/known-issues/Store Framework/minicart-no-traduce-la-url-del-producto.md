@@ -1,5 +1,5 @@
 ---
-title: 'Minicart no traduce la url del producto'
+title: "Minicart no traduce la url del producto"
 id: 3Ujn5De4MdtH1AGoziqBk
 status: PUBLISHED
 createdAt: 2024-09-26T17:20:42.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: minicart-does-not-translate-the-product-url
+slugEN: minicart-no-traduce-la-url-del-producto
 locale: es
 kiStatus: Backlog
 internalReference: 1106430
@@ -18,7 +18,9 @@ internalReference: 1106430
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En una tienda multi-idioma, es común traducir la URL del producto al idioma de destino, pero en el minicart, la información no se traduce. El minicart recibe sus valores cuando el producto es añadido al carrito por el addToCartButton utilizando el detailUrl.

@@ -1,5 +1,5 @@
 ---
-title: 'Especificação do produto Índice de exportação fora da faixa'
+title: "Especificação do produto Índice de exportação fora da faixa"
 id: 2Qu9QCZvfcjmNfAh3uvPkf
 status: PUBLISHED
 createdAt: 2022-02-25T12:22:04.014Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-specification-export-index-out-of-range
+slugEN: especificacao-do-produto-indice-de-exportacao-fora-da-faixa
 locale: pt
 kiStatus: Backlog
 internalReference: 481095
@@ -18,7 +18,9 @@ internalReference: 481095
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar exportar especificações de produtos da interface do usuário "Importar e exportar", se houver algum valor nulo ou relação nula na categoria a ser exportada, o processo falhará com uma mensagem "Índice fora do intervalo". Em outras palavras, a categoria deve ter registrado diretamente em seu nível um campo de produto, produtos e produtos com valores associados.

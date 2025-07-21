@@ -1,5 +1,5 @@
 ---
-title: 'Os cookies de sessão são compartilhados entre diferentes vinculações quando não estão no mesmo nível de caminho'
+title: "Os cookies de sessão são compartilhados entre diferentes vinculações quando não estão no mesmo nível de caminho"
 id: 4pKeUI7qtdByaQowYs19Et
 status: PUBLISHED
 createdAt: 2023-10-25T01:06:04.190Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: session-cookies-are-shared-between-different-bindings-when-they-are-not-in-the-same-path-level
+slugEN: os-cookies-de-sessao-sao-compartilhados-entre-diferentes-vinculacoes-quando-nao-estao-no-mesmo-nivel-de-caminho
 locale: pt
 kiStatus: No Fix
 internalReference: 925071
@@ -18,7 +18,9 @@ internalReference: 925071
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os cookies para informações da sessão são exclusivos da vinculação de conta específica, mas as vinculações que não estão no mesmo nível de caminho podem receber cookies de níveis inferiores, causando problemas.

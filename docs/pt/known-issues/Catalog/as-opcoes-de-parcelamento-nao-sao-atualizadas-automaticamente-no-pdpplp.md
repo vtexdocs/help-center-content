@@ -1,5 +1,5 @@
 ---
-title: 'As opções de parcelamento não são atualizadas automaticamente no PDP/PLP'
+title: "As opções de parcelamento não são atualizadas automaticamente no PDP/PLP"
 id: 1PSjCEZyKatCZ9Q1W1zQOc
 status: PUBLISHED
 createdAt: 2024-02-23T12:31:32.446Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: installment-options-not-updating-automatically-on-pdpplp
+slugEN: as-opcoes-de-parcelamento-nao-sao-atualizadas-automaticamente-no-pdpplp
 locale: pt
 kiStatus: Backlog
 internalReference: 987467
@@ -18,7 +18,9 @@ internalReference: 987467
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma conta altera as opções de parcelamento de um produto, apesar de o produto estar corretamente indexado, as opções de parcelamento não são atualizadas no PLP ou no PDP (às vezes em ambos).

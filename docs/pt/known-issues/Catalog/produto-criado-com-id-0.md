@@ -1,5 +1,5 @@
 ---
-title: 'Produto Criado com ID = 0.'
+title: "Produto Criado com ID = 0."
 id: 5eMPxXAxxdJUKWMi1i8tWl
 status: PUBLISHED
 createdAt: 2022-05-04T15:30:22.045Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-created-with-id-0
+slugEN: produto-criado-com-id-0
 locale: pt
 kiStatus: Backlog
 internalReference: 335840
@@ -18,7 +18,9 @@ internalReference: 335840
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 É possível criar produtos com ID = 0 se eles utilizarem nosso API ou WebService.

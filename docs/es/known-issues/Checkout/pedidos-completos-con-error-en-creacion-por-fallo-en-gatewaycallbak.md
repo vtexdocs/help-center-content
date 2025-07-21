@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos completos con error en creación por fallo en gatewaycallbak'
+title: "Pedidos completos con error en creación por fallo en gatewaycallbak"
 id: 2qVa686QBsvkgXY8wwmc8Y
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:00.775Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: complete-orders-with-error-in-creation-due-to-failure-in-gatewaycallbak
+slugEN: pedidos-completos-con-error-en-creacion-por-fallo-en-gatewaycallbak
 locale: es
 kiStatus: Backlog
 internalReference: 416936
@@ -18,7 +18,9 @@ internalReference: 416936
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hemos recibido algunas consultas sobre pedidos que estaban atascados en el estado de pago aprobado pero que ya lo estaban, lo que no debería ocurrir en el flujo normal de pedidos.

@@ -22,7 +22,9 @@ A partir da parceria com o marketplace, desenvolvemos uma solução que substitu
 ## Como foi a mudança
 No ar desde outubro de 2018, nossa integração com a Magazine Luiza estava disponível apenas para lojistas que ainda não vendiam no marketplace. Em dezembro, iniciamos a migração das lojas que trabalhavam com integrações externas e o processo foi concluído com sucesso.
 
->ℹ️ A integração com a Magazine Luiza acontece através do sistema da Integra Commerce, que intermedia as informações enviadas pela VTEX e repassa ao marketplace.
+<div class="alert alert-info">
+A integração com a Magazine Luiza acontece através do sistema da Integra Commerce, que intermedia as informações enviadas pela VTEX e repassa ao marketplace.
+</div>
 
 
 ## Integração completa, estável e com todo o suporte VTEX

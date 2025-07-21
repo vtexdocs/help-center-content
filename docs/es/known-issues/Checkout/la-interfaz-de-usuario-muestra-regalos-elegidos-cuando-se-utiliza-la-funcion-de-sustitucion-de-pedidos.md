@@ -1,5 +1,5 @@
 ---
-title: "La interfaz de usuario muestra '¡Regalos elegidos!' cuando se utiliza la función de sustitución de pedidos."
+title: 'La interfaz de usuario muestra "¡Regalos elegidos!" cuando se utiliza la función de sustitución de pedidos.'
 id: 4efm7L6hQhad98uYkjzrXO
 status: PUBLISHED
 createdAt: 2023-09-27T20:57:46.944Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-shows-gifts-picked-when-using-order-replacement-feature
+slugEN: la-interfaz-de-usuario-muestra-regalos-elegidos-cuando-se-utiliza-la-funcion-de-sustitucion-de-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 909137
@@ -18,7 +18,9 @@ internalReference: 909137
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar la función de sustitución de pedidos, la interfaz de usuario de la caja muestra "¡Regalos seleccionados!" aunque no haya ninguna promoción de regalos configurada.

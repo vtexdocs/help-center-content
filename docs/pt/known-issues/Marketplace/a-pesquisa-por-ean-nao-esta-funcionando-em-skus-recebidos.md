@@ -1,5 +1,5 @@
 ---
-title: 'A pesquisa por EAN não está funcionando em Skus recebidos'
+title: "A pesquisa por EAN não está funcionando em Skus recebidos"
 id: PKdNXxjVPFbJbVBSTFvep
 status: PUBLISHED
 createdAt: 2022-01-26T19:24:01.975Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: search-by-ean-not-working-on-received-skus
+slugEN: a-pesquisa-por-ean-nao-esta-funcionando-em-skus-recebidos
 locale: pt
 kiStatus: No Fix
 internalReference: 510907
@@ -18,7 +18,9 @@ internalReference: 510907
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de pesquisa Received Skus permite que o marketplace pesquise um produto ou sku pelos seguintes critérios:

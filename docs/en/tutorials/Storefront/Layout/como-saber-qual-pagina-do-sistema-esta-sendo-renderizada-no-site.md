@@ -31,6 +31,8 @@ See below the relationship between the folder in the CMS and the store's source 
 
 ![CommerceContext](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site_1.png)
 
->ℹ️ This line of code is always commented out. Therefore, it has only informative function. That is, it does not take any action.
+<div class="alert alert-info">
+This line of code is always commented out. Therefore, it has only informative function. That is, it does not take any action.
+</div>
 
 This information is useful, for example, to know which folder the search for a certain term is returning in your store.

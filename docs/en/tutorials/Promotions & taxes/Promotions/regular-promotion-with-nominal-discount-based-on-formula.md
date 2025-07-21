@@ -3,8 +3,8 @@ title: 'Regular promotion with nominal discount based on formula'
 id: 2Pwrq6THyGViNedQG381jV
 status: PUBLISHED
 createdAt: 2022-04-18T16:51:30.736Z
-updatedAt: 2022-04-18T23:30:41.740Z
-publishedAt: 2022-04-18T23:30:41.740Z
+updatedAt: 2024-12-10T18:19:53.940Z
+publishedAt: 2024-12-10T18:19:53.940Z
 firstPublishedAt: 2022-04-18T20:27:39.893Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,13 +16,13 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-When you create a [regular promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) in **Promotions & Taxes** > **Promotions** > <code>New promotion</code> > <code>Regular</code>, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
+When you create a [regular promotion](/en/tutorial/regular-promotion--tutorials_327) in **Promotions** > **Promotions** > <code>New promotion</code> > <code>Regular</code>, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
 
 By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
 
 ![discount-type-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion-with-nominal-discount-based-on-formula_1.PNG)
 
-The formula used to calculate the nominal discount generally follows the same logic as the [Microsoft Excel formulas](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), which means you can use [variables](#variables) (`total`, `freight` and `quantity`), make [operations](#operations) (sum, subtraction, multiplication and division) and apply (`min` and `max` [functions](#functions).
+To build your formula, you can use [variables](#variables) such as total, shipping (freight), and quantity, perform [operations](#operations) (addition, subtraction, multiplication, and division) and apply [functions](#functions) such as `min`, `max`, and `floor`.
 
 ## Variables
 
@@ -49,13 +49,17 @@ You can do a multiplication to calculate the desired discount percentage using [
 
 To indicate the order in which calculations should be done, write the calculation which comes first between parenthesis `()`. For example: If a store wants to apply a 40% discount on the total price of the order plus the shipping cost, the formula must be `(total + freight) * 0.4`.
 
->ℹ️ You must always use the dot (`.`) as a decimal separator.
+<div class="alert alert-info">
+  <p>You must always use the dot (<code>.</code>) as a decimal separator.</p>
+</div>
 
 ## Functions
 
-If you want to [limit the discount](#limiting-the-discount), you can use the `min` function. Use the `max` function if you want to [prioritize the highest discount possible](#prioritizing-the-highest-discount-possible). Read on for more details about these functions.
+You can use the min [function to limit the discount](#limiting-the-discount-value) value or the max function to [prioritize the largest possible discount](#prioritizing-the-largest-possible-discount). The `floor` function allows you to get the integer part of a value, discarding decimals. See below for more details on how to apply these functions.
 
->ℹ️ When using functions, there must be a space between the function and the opening parenthesis. For example: `min (total * 0.2, 10)`.
+<div class="alert alert-info">
+<p>When using functions, there must be a space between the function and the opening parenthesis. For example: <code>min (total * 0.2, 10)</code>.</p>
+</div>
 
 ### Limiting the discount
 
@@ -111,3 +115,16 @@ max ((total + freight) * 0.1, 5)
 
 The promotion will apply the highest discount in each case, comparing the minimum value of $ 5 to the calculation of 10% of the order total price plus the shipping cost.
 
+### Applying a multiple discount with a rounded-down value
+
+To apply a multiple discount based on a rounded-down value, use the `floor` function, which rounds the result of a division down to the nearest integer.
+
+For example, in a promotion offering a discount of $10 USD for every $100 USD spent, calculate how many times $100 USD fits into the order total, rounding down. Then, multiply the discount value of $10 USD by the number of complete multiples of $100 USD to determine the discount.
+
+Below is the formula structure for calculating the discount:
+
+```
+floor(total / 100) * 10
+```
+
+This promotion applies the largest possible discount based on the order total, considering only whole multiples of $100 USD. For example, if the order total is $250 USD, the calculation will apply a discount of $20 USD since US$100 fits twice into $250 USD.

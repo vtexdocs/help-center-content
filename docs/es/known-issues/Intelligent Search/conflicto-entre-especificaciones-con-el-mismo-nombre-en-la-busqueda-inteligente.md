@@ -1,5 +1,5 @@
 ---
-title: 'Conflicto entre especificaciones con el mismo nombre en la Búsqueda Inteligente'
+title: "Conflicto entre especificaciones con el mismo nombre en la Búsqueda Inteligente"
 id: 1TcMLTNMMGqjgbGArywSeh
 status: PUBLISHED
 createdAt: 2023-11-10T00:13:18.275Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: conflict-between-specifications-with-the-same-name-at-the-intelligent-search
+slugEN: conflicto-entre-especificaciones-con-el-mismo-nombre-en-la-busqueda-inteligente
 locale: es
 kiStatus: Fixed
 internalReference: 933958
@@ -18,7 +18,9 @@ internalReference: 933958
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Múltiples especificaciones con el mismo nombre son agrupadas en la misma _"faceta"_ por la Búsqueda Inteligente, lo que puede ser un problema si tienen diferentes configuraciones.

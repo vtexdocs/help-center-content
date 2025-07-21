@@ -1,5 +1,5 @@
 ---
-title: 'La ciudad y el estado no se envían a PayPalPlus cuando sólo hay una dirección de recogida disponible.'
+title: "La ciudad y el estado no se envían a PayPalPlus cuando sólo hay una dirección de recogida disponible."
 id: 5ScWTMLqT9oBMUYFc6WGo2
 status: PUBLISHED
 createdAt: 2023-06-01T13:47:08.477Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: city-and-state-are-not-sent-to-paypalplus-when-there-is-only-pickup-address-available
+slugEN: la-ciudad-y-el-estado-no-se-envian-a-paypalplus-cuando-solo-hay-una-direccion-de-recogida-disponible
 locale: es
 kiStatus: Fixed
 internalReference: 836025
@@ -18,7 +18,9 @@ internalReference: 836025
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los campos "ciudad" y "estado" no se envían a PayPalPlus cuando el comprador sólo añade una dirección de recogida al carro, lo que hace que no se cargue la forma de pago.

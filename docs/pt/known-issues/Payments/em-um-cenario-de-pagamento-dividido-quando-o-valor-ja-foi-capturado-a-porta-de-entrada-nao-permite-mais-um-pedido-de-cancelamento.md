@@ -1,5 +1,5 @@
 ---
-title: 'Em um cenário de pagamento dividido quando o valor já foi capturado, a porta de entrada não permite mais um pedido de cancelamento'
+title: "Em um cenário de pagamento dividido quando o valor já foi capturado, a porta de entrada não permite mais um pedido de cancelamento"
 id: 5qVUfltwPb3FacbECRsNa0
 status: PUBLISHED
 createdAt: 2023-01-27T20:13:21.397Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: in-a-payout-split-scenario-when-the-amount-was-already-captured-the-gateway-no-longer-allows-a-cancellation-request
+slugEN: em-um-cenario-de-pagamento-dividido-quando-o-valor-ja-foi-capturado-a-porta-de-entrada-nao-permite-mais-um-pedido-de-cancelamento
 locale: pt
 kiStatus: Backlog
 internalReference: 742046
@@ -18,7 +18,9 @@ internalReference: 742046
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para um cenário dividido, quando o usuário faz um pedido de mudança ou mesmo um simples cancelamento após o pagamento já ter sido capturado, o gateway não permite mais receber um novo UpdateAdditionalData.

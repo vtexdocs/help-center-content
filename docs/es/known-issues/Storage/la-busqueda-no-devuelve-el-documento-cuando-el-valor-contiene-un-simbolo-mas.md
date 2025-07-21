@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda no devuelve el documento cuando el valor contiene un símbolo + (más).'
+title: "La búsqueda no devuelve el documento cuando el valor contiene un símbolo + (más)."
 id: 7oWiN8Esh9iKy8144Tpglx
 status: PUBLISHED
 createdAt: 2024-07-08T18:52:21.794Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: searching-not-return-document-when-the-value-contains-a-plus-symbol
+slugEN: la-busqueda-no-devuelve-el-documento-cuando-el-valor-contiene-un-simbolo-mas
 locale: es
 kiStatus: No Fix
 internalReference: 828170
@@ -18,7 +18,9 @@ internalReference: 828170
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se busca un documento utilizando un valor de campo que incluye el símbolo "+", la búsqueda no devuelve el documento. Esto ocurre porque el símbolo "+" se interpreta incorrectamente, lo que provoca que el valor de búsqueda no coincida con el valor existente.

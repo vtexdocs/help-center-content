@@ -1,5 +1,5 @@
 ---
-title: 'Produtos não estão sendo enviados pela integração ao salvar o cadastro'
+title: "Produtos não estão sendo enviados pela integração ao salvar o cadastro"
 id: 3iY2DwQyiIwIsMaicGAI6e
 status: PUBLISHED
 createdAt: 2018-05-04T17:26:27.239Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
-slugEN: products-are-not-being-sent-by-integration
+slugEN: produtos-nao-estao-sendo-enviados-pela-integracao-ao-salvar-cadastro
 locale: pt
 kiStatus: Backlog
 internalReference: 

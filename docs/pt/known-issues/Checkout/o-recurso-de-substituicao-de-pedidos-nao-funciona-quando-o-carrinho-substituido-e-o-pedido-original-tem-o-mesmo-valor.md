@@ -1,5 +1,5 @@
 ---
-title: 'O recurso de substituição de pedidos não funciona quando o carrinho substituído e o pedido original têm o mesmo valor'
+title: "O recurso de substituição de pedidos não funciona quando o carrinho substituído e o pedido original têm o mesmo valor"
 id: 7eHiC34Pgsr1XcfIVHl7Sc
 status: PUBLISHED
 createdAt: 2023-07-21T14:49:31.057Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-replacement-feature-doesnt-work-when-the-replaced-cart-and-original-order-have-the-same-value
+slugEN: o-recurso-de-substituicao-de-pedidos-nao-funciona-quando-o-carrinho-substituido-e-o-pedido-original-tem-o-mesmo-valor
 locale: pt
 kiStatus: Fixed
 internalReference: 866622
@@ -18,7 +18,9 @@ internalReference: 866622
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O recurso de substituição de pedidos não funciona quando o carrinho substituído tem o mesmo valor do pedido original e o sistema de pagamento é "Reutilizar pagamento".

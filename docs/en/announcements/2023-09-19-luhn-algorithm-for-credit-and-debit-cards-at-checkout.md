@@ -35,4 +35,6 @@ Having a payment transaction declined due to an invalid card number could lead c
 
 No action is required. The Luhn algorithm is already active in all VTEX stores.
 
->⚠️ The Luhn algorithm does not prevent fraud through card testing attacks. Its purpose is to detect typing errors in card numbers.
+<div class="alert alert-warning">
+The Luhn algorithm does not prevent fraud through card testing attacks. Its purpose is to detect typing errors in card numbers.
+</div>

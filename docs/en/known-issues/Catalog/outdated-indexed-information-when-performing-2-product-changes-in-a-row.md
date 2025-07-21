@@ -1,5 +1,5 @@
 ---
-title: 'Outdated indexed information when performing 2 product changes in a row.'
+title: "Outdated indexed information when performing 2 product changes in a row."
 id: 66aX8MktRogeUD9bbTo0vF
 status: PUBLISHED
 createdAt: 2023-09-26T14:44:57.146Z

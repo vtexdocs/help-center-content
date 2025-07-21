@@ -35,5 +35,5 @@ Unificamos os módulos em __Marketplaces e Integrações__ para que sellers VTEX
 
 ## O que precisa ser feito?  
 
-Esta atualização estará disponível automaticamente para todos os usuários VTEX a partir do dia 03 de maio de 2023. Para saber mais detalhes da página, leia a documentação [Marketplaces e Integrações](https://help.vtex.com/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
+Esta atualização estará disponível automaticamente para todos os usuários VTEX a partir do dia 03 de maio de 2023. Para saber mais detalhes da página, leia a documentação [Marketplaces e Integrações](/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
 

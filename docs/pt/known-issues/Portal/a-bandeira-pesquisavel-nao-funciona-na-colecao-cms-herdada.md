@@ -1,5 +1,5 @@
 ---
-title: 'A bandeira pesquisável não funciona na coleção CMS herdada'
+title: "A bandeira pesquisável não funciona na coleção CMS herdada"
 id: 47spDrddLoEmRbYmlj7wY2
 status: PUBLISHED
 createdAt: 2022-01-21T14:52:14.951Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: searchable-flag-does-not-work-on-legacy-cms-collection
+slugEN: a-bandeira-pesquisavel-nao-funciona-na-colecao-cms-herdada
 locale: pt
 kiStatus: Backlog
 internalReference: 322552
@@ -18,7 +18,9 @@ internalReference: 322552
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A bandeira pesquisável não funciona na Coleção CMS herdada. Nosso documento explica que quando usamos esta bandeira, se pesquisarmos o nome da coleção, ela deve retornar os itens associados a esta coleção.

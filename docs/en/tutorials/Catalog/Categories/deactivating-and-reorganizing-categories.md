@@ -15,7 +15,7 @@ legacySlug: disabling-and-reorganizing-categories
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-From the **Catalog > Categories** page in the VTEX Admin, you can perform actions related to the [categories](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206) configured in your store. See the sections below to learn how you can:
+From the **Catalog > Categories** page in the VTEX Admin, you can perform actions related to the [categories](/en/tutorial/registering-a-category--tutorials_206) configured in your store. See the sections below to learn how you can:
 
 - [Deactivate a category](#deactivating-a-category)
 - [Change the order of subcategories](#changing-the-order-of-subcategories)
@@ -45,7 +45,9 @@ If a category has subcategories, they appear below the parent category in the ca
 
 ## Changing the category tree
 
->⚠️ Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the[ known issue](https://help.vtex.com/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) related to this for more information.
+<div class="alert alert-warning">
+  <p>Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the<a href="https://help.vtex.com/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD"> known issue</a> related to this for more information.</p>
+</div>
 
 There are cases where you need to change the hierarchy level of a category. For example, imagine a store has a parent category called **Accessories** and a child category (subcategory) called **Shoes**, and they want to make **Shoes** a separate parent category.
 
@@ -70,5 +72,5 @@ To move a category without causing errors or losing information, follow the step
 
 ## Learn more
 
-- [Categories - Concept definition](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Adding a category](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206)
+- [Categories - Concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+- [Adding a category](/en/tutorial/registering-a-category--tutorials_206)

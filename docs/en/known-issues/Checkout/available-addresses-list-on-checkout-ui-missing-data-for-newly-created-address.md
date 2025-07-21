@@ -1,5 +1,5 @@
 ---
-title: 'Available addresses list on Checkout UI missing data for newly created address'
+title: "Available addresses list on Checkout UI missing data for newly created address"
 id: 1BEDcoXLVAs5L039eKXsXv
 status: PUBLISHED
 createdAt: 2024-07-05T21:08:40.994Z

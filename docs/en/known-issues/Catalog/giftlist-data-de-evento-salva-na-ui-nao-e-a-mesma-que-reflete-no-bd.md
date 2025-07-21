@@ -1,5 +1,5 @@
 ---
-title: '[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd'
+title: "[Giftlist] Data de evento salva na UI não é a mesma que reflete no bd"
 id: 6PUBzRdtno8ypsPMg97B6K
 status: PUBLISHED
 createdAt: 2022-07-25T17:45:12.568Z

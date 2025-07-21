@@ -1,5 +1,5 @@
 ---
-title: 'Error de consola [Sólo informe] - Se ha denegado la aplicación del estilo en línea porque infringe la siguiente seguridad de contenido'
+title: "Error de consola [Sólo informe] - Se ha denegado la aplicación del estilo en línea porque infringe la siguiente seguridad de contenido"
 id: mix75F8F7a7D4iTWyHLyM
 status: PUBLISHED
 createdAt: 2024-04-16T10:30:41.610Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: console-error-report-only-refused-to-apply-inline-style-because-it-violates-the-following-content-security
+slugEN: error-de-consola-solo-informe-se-ha-denegado-la-aplicacion-del-estilo-en-linea-porque-infringe-la-siguiente-seguridad-de-contenido
 locale: es
 kiStatus: Backlog
 internalReference: 1017370
@@ -18,7 +18,9 @@ internalReference: 1017370
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos algunos logs en la consola informando de bloqueos de script debido a restricciones a través de la cabecera CSP.

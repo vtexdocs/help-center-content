@@ -1,5 +1,5 @@
 ---
-title: 'Get seller List respondendo com UrlLogo vazio'
+title: "Get seller List respondendo com UrlLogo vazio"
 id: 1kKsre07DDa56hsEgXnYCz
 status: PUBLISHED
 createdAt: 2022-02-25T13:28:50.337Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: get-seller-list-responding-with-empty-urllogo
+slugEN: get-seller-list-respondendo-com-urllogo-vazio
 locale: pt
 kiStatus: Fixed
 internalReference: 387508
@@ -18,7 +18,9 @@ internalReference: 387508
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o caminho `/api/catalog_system/pvt/seller/list` está respondendo com uma propriedade UrlLogo vazia para todos os vendedores, independentemente de eles terem ou não um arquivo de logotipo válido.

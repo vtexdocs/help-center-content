@@ -1,5 +1,5 @@
 ---
-title: 'Conta no Seller Portal Não é capaz de exportar basePrice'
+title: "Conta no Seller Portal Não é capaz de exportar basePrice"
 id: 4Aafr7IqhFwcej2QFE4Ve8
 status: PUBLISHED
 createdAt: 2022-01-21T13:49:17.618Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: seller-portal-account-not-able-to-export-baseprice
+slugEN: conta-no-seller-portal-nao-e-capaz-de-exportar-baseprice
 locale: pt
 kiStatus: Backlog
 internalReference: 408868
@@ -18,7 +18,9 @@ internalReference: 408868
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Algumas contas do Portal do Vendedor não são capazes de exportar `basePrice'.

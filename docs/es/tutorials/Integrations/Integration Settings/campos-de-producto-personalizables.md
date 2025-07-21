@@ -25,7 +25,7 @@ Consulte la siguiente tabla sobre qué campos se pueden personalizar y la descri
 | **Nombre del campo** | **Descripción** |
 |:---:|:---:|
 | meli_title | Envíe el nombre registrado en este campo en lugar del nombre en el campo `título`. |
-| meli_shipping_mode | Define el [tipo de logística](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) utilizada por el vendedor: [me1](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) o [me2](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
+| meli_shipping_mode | Define el [tipo de logística](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) utilizada por el vendedor: [me1](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) o [me2](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
 | officialstoreid_meli | Define la tienda oficial del vendedor en Mercado Livre. |
 | plaintext_description_meli | Envía la descripción del producto registrado en este campo en lugar de la descripción en el campo `productDescription`. |
 | free_shipping | Informar a Mercado Livre si el producto se ofrece con la opción de envío gratuito. |
@@ -42,7 +42,9 @@ Para crear un campo de producto, sigue los pasos a continuación:
 5. Haz clic en __Campo (Producto).__  
 6. Haz clic en __Nuevo campo.__  
 7. Completa la información del campo que estás creando:  
->⚠️ El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones[Campos personalizables](#campos-personalizables).  
+<div class="alert alert-warning">
+El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones<a href="#campos-personalizables">Campos personalizables</a>.
+</div>  
 
   __Nombre:__ nombre de la especificación (campo) de producto.  
   __Texto:__ descripción del campo.  

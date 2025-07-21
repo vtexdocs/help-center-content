@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível adicionar um item com anexo ao carrinho se já houver outra unidade desse item sem anexo no carrinho'
+title: "Não é possível adicionar um item com anexo ao carrinho se já houver outra unidade desse item sem anexo no carrinho"
 id: 3l41VmdtPCxUjYChuO7o9O
 status: PUBLISHED
 createdAt: 2021-09-15T15:24:52.309Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: it-is-not-possible-to-add-an-item-with-attachment-to-the-cart-if-there-is-already-another-unit-of-this-item-without-attachment-in-the-cart
+slugEN: nao-e-possivel-adicionar-um-item-com-anexo-ao-carrinho-se-ja-houver-outra-unidade-desse-item-sem-anexo-no-carrinho
 locale: pt
 kiStatus: No Fix
 internalReference: 412041
@@ -18,7 +18,9 @@ internalReference: 412041
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Durante o processo de compra, se o cliente adicionar um item que já tenha sido incluído no carrinho anteriormente e a nova inclusão tiver opções de montagem, o segundo item não será adicionado ao carrinho.

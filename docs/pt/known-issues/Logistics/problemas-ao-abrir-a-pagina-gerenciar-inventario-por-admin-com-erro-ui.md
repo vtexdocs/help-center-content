@@ -1,5 +1,5 @@
 ---
-title: "Problemas ao abrir a página 'Gerenciar Inventário' por Admin com erro (UI)."
+title: 'Problemas ao abrir a página "Gerenciar Inventário" por Admin com erro (UI).'
 id: 7owutd1w2Fa2JjgDnn3j5q
 status: PUBLISHED
 createdAt: 2022-03-15T20:14:57.926Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: problems-opening-manage-inventory-by-admin-page-with-error-ui
+slugEN: problemas-ao-abrir-a-pagina-gerenciar-inventario-por-admin-com-erro-ui
 locale: pt
 kiStatus: Backlog
 internalReference: 466491
@@ -18,7 +18,9 @@ internalReference: 466491
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Problemas ao abrir a página "Gerenciar inventário" por Admin com mensagem de erro:

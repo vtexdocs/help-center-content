@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX'
+title: "Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX"
 id: 5tMKDMsFTZlXQrkVM4WeJD
 status: PUBLISHED
 createdAt: 2022-12-08T14:02:22.948Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
+slugEN: mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-a-integracoes-vtexvtex
 locale: pt
 kiStatus: No Fix
 internalReference: 712956
@@ -18,7 +18,9 @@ internalReference: 712956
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

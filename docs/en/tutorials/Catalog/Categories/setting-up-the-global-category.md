@@ -19,7 +19,9 @@ The global category tree is the taxonomy created by Google for the [Merchant Cen
 
 The same global categories are available for products from all stores.
 
->ℹ️ For every category of your store, you need to choose a global category.
+<div class="alert alert-info">
+For every category of your store, you need to choose a global category.
+</div>
 
 ### Why use it?
 
@@ -27,7 +29,9 @@ We have adopted this taxonomy because it's widely applicable to any context, and
 
 It is used, for example, as a reference for the integration of products with Amazon, Buscapé and marketplaces.
 
->ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM" target="_blank).
+<div class="alert alert-info">
+The default behavior of our integration with Google Shopping is <strong>not to send</strong> this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM" target="_blank">contact support</a>.
+</div>
 
 ### When is it applied?
 
@@ -45,7 +49,7 @@ __Example__: If your store has a "Motherboard" category, you should choose the g
 
 ### How to configure a global category?
 
-In the [VTEX catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
+In the [VTEX catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
 
 Defining a global category is mandatory. **You can use it to integrate a store with external sales channels.** Currently, VTEX uses the global category only for the Amazon integration connector. 
 
@@ -55,7 +59,9 @@ You must choose the global category that most closely matches your product. Your
 
 Ideally, it would be best if you determined the global category in the category settings. This way, all products in a given category will belong to the same global category.
 
->❗ Choosing a global category when adding a product is only recommended if it needs to be configured differently from the products in the category it belongs to.
+<div class="alert alert-danger">
+Choosing a global category when adding a product is only recommended if it needs to be configured differently from the products in the category it belongs to.
+</div>
 
 You must configure the global category in the Admin. Please follow the steps below:
 
@@ -68,4 +74,6 @@ You must configure the global category in the Admin. Please follow the steps bel
 7. Type the name of the category you want to find and click on the <i class="fas fa-search"></i> button.
 8. Select a category and then click on the `Save` button.
 
->ℹ️ You can also configure the global category via [XML](https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242) file.
+<div class="alert alert-info">
+You can also configure the global category via <a href="https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242">XML</a> file.
+</div>

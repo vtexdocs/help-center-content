@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Agora você pode habilitar preços manuais para assinaturas em sua loja.'
 ---
 
-Ao utilizar [Assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453), aplicativo desenvolvido pela VTEX para facilitar vendas recorrentes, é possível que os comerciantes precisem configurar um preço manual para cada item a fim de oferecer melhores ofertas aos compradores recorrentes. 
+Ao utilizar [Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453), aplicativo desenvolvido pela VTEX para facilitar vendas recorrentes, é possível que os comerciantes precisem configurar um preço manual para cada item a fim de oferecer melhores ofertas aos compradores recorrentes. 
 
 Pensando nisso, agora você pode habilitar a funcionalidade de Preço Manual para Assinaturas v3 na sua loja, que permite:
 
@@ -34,4 +34,6 @@ Esta alteração foi motivada pela demanda dos lojistas de estabelecer preços m
 
 Para habilitar a funcionalidade de Preço Manual para Assinaturas, siga os passos descritos no guia para desenvolvedores [Enabling Manual Prices for Subscriptions v3](https://developers.vtex.com/vtex-rest-api/docs/enabling-manual-prices-for-subscriptions-v3) (Habilitar Preços Manuais para Assinaturas v3).
 
->⚠️ A funcionalidade de Preço Manual está disponível apenas para Assinaturas v3. Se você estiver utilizando uma versão anterior do sistema de Assinaturas, consulte o [Subscriptions v3 migration guide](https://developers.vtex.com/vtex-rest-api/docs/subscriptions-v3-migration-guide) (Guia de migração para Assinaturas v3).
+<div class="alert alert-warning">
+<p>A funcionalidade de Preço Manual está disponível apenas para Assinaturas v3. Se você estiver utilizando uma versão anterior do sistema de Assinaturas, consulte o <a href="https://developers.vtex.com/vtex-rest-api/docs/subscriptions-v3-migration-guide">Subscriptions v3 migration guide</a> (Guia de migração para Assinaturas v3).</p>
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Se produce un error al intentar realizar una búsqueda utilizando el campo 'Todos' en VTEX CRM UI"
+title: 'Se produce un error al intentar realizar una búsqueda utilizando el campo "Todos" en VTEX CRM UI'
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm-ui
+slugEN: se-produce-un-error-al-intentar-realizar-una-busqueda-utilizando-el-campo-todos-en-vtex-crm-ui
 locale: es
 kiStatus: Backlog
 internalReference: 925679
@@ -18,7 +18,9 @@ internalReference: 925679
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El filtro "Todos" de la interfaz de usuario de CRM devuelve un error cuando se utiliza en entidades con muchos documentos. Esto ocurre porque el filtro "Todos" realiza una búsqueda comodín en todos los campos de búsqueda, lo que puede dar lugar a un error debido al gran volumen de datos que se consultan.

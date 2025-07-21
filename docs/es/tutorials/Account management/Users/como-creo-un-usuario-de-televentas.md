@@ -15,7 +15,7 @@ legacySlug: como-creo-un-usuario-de-televentas
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artículo explica cómo registrar un usuario con el [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televentas. Para más información sobre los roles de usuario y cómo configurarlos, consulta [este](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) artículo.
+Este artículo explica cómo registrar un usuario con el [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televentas. Para más información sobre los roles de usuario y cómo configurarlos, consulta [este](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) artículo.
 
 ## Roles de televentas
 
@@ -43,5 +43,6 @@ Para crear un usuario con el rol de televentas, sigue los pasos a continuación:
 
 ![GIF animado que muestra cómo crear un usuario de televentas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Users/como-creo-un-usuario-de-televentas_1.gif)
 
->⚠️ Al crear un [perfil](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
+<div class="alert alert-warning">Al crear un <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil</a>, evita incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
+</div>
 

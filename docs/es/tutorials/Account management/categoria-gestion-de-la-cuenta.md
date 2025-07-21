@@ -3,7 +3,7 @@ title: 'Gestión de la cuenta'
 id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -13,12 +13,11 @@ locale: es
 ## Control de acceso
 
 - [Roles](https://help.vtex.com/es/docs/tutorials/roles)
-- [Barra de herramientas de televentas](https://help.vtex.com/es/docs/tutorials/barra-de-herramientas-de-televentas)
-- [¿Cómo crear un rol financiero?](https://help.vtex.com/es/docs/tutorials/como-crear-un-rol-financiero)
+- [Crear nuevo rol](https://help.vtex.com/es/docs/tutorials/crear-nuevo-rol)
 - [Roles de usuario predefinidos](https://help.vtex.com/es/docs/tutorials/roles-de-usuario-predefinidos)
 - [Recursos del License Manager](https://help.vtex.com/es/docs/tutorials/recursos-del-license-manager)
-- [Control de acceso](https://help.vtex.com/es/docs/tutorials/control-de-acceso)
-- [Crear nuevo rol](https://help.vtex.com/es/docs/tutorials/crear-nuevo-rol)
+- [Crear un rol financiero](https://help.vtex.com/es/docs/tutorials/crear-un-rol-financiero)
+- [Barra de herramientas de televentas](https://help.vtex.com/es/docs/tutorials/barra-de-herramientas-de-televentas)
 
 ## Usuarios
 

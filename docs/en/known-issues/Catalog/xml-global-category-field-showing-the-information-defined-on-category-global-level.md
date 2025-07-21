@@ -1,5 +1,5 @@
 ---
-title: 'XML Global category field showing the information defined on Category Global Level.'
+title: "XML Global category field showing the information defined on Category Global Level."
 id: 508Gdn8StafQKOa2Wyfr8u
 status: PUBLISHED
 createdAt: 2022-01-21T17:38:16.365Z

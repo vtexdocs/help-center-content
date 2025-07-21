@@ -1,5 +1,5 @@
 ---
-title: 'Valor padrão na especificação só funciona quando se cria produtos através de Admin'
+title: "Valor padrão na especificação só funciona quando se cria produtos através de Admin"
 id: 6oL4LDFx18s0pOvOEKcniQ
 status: PUBLISHED
 createdAt: 2022-03-25T14:21:28.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: default-value-on-specification-only-working-when-creating-products-through-admin
+slugEN: valor-padrao-na-especificacao-so-funciona-quando-se-cria-produtos-atraves-de-admin
 locale: pt
 kiStatus: Backlog
 internalReference: 550097
@@ -18,7 +18,9 @@ internalReference: 550097
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar uma especificação em uma Categoria VTEX você pode configurar um valor padrão que será preenchido quando o sku/produto for criado sem esta informação.

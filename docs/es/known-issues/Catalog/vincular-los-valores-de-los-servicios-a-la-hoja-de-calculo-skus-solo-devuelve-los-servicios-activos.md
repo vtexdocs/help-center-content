@@ -1,5 +1,5 @@
 ---
-title: 'Vincular los valores de los servicios a la hoja de cálculo SKUS sólo devuelve los servicios activos'
+title: "Vincular los valores de los servicios a la hoja de cálculo SKUS sólo devuelve los servicios activos"
 id: 1FqAokiJLWwWnsPodyTMKY
 status: PUBLISHED
 createdAt: 2023-08-23T17:51:58.839Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: link-service-values-to-skus-spreadsheet-only-returning-active-services
+slugEN: vincular-los-valores-de-los-servicios-a-la-hoja-de-calculo-skus-solo-devuelve-los-servicios-activos
 locale: es
 kiStatus: Backlog
 internalReference: 886486
@@ -18,7 +18,9 @@ internalReference: 886486
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al exportar valores de servicios de una categoría específica en el admin el resultado solo trae los servicios activos. No permitiendo al comerciante activar servicios previamente inactivos por hoja de cálculo.

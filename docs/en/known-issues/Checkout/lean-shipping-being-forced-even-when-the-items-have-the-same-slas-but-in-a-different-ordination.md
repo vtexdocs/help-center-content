@@ -1,5 +1,5 @@
 ---
-title: 'Lean Shipping being forced even when the items have the same SLAs, but in a different ordination'
+title: "Lean Shipping being forced even when the items have the same SLAs, but in a different ordination"
 id: 2YTqsVWPm73msQZVQX9x80
 status: PUBLISHED
 createdAt: 2022-05-13T17:26:15.513Z

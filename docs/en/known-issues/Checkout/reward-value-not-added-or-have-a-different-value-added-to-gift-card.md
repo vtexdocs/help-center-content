@@ -1,5 +1,5 @@
 ---
-title: 'Reward value not added or have a different value added to gift card'
+title: "Reward value not added or have a different value added to gift card"
 id: 3i9TwGKpYOkwnHUXDON9V7
 status: PUBLISHED
 createdAt: 2023-06-14T16:06:37.154Z

@@ -1,5 +1,5 @@
 ---
-title: 'Error de Braspag al capturar o cancelar debido a un error con el código BP901'
+title: "Error de Braspag al capturar o cancelar debido a un error con el código BP901"
 id: 6jNI8lEoQe7t9hLVdD0T2R
 status: PUBLISHED
 createdAt: 2022-06-14T17:08:24.367Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: braspag-error-when-capturing-or-canceling-due-to-an-error-with-code-bp901
+slugEN: error-de-braspag-al-capturar-o-cancelar-debido-a-un-error-con-el-codigo-bp901
 locale: es
 kiStatus: Backlog
 internalReference: 490428
@@ -18,7 +18,9 @@ internalReference: 490428
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas transacciones devuelven una falla de comunicación o integración entre Braspag y la adquirida, o sea, un error de timeout. El código de error para este comportamiento es BP901.

@@ -1,5 +1,5 @@
 ---
-title: 'Website Binding com informações antigas do License Manager'
+title: "Website Binding com informações antigas do License Manager"
 id: 1F8B0AD7IEGgmqWswAAkYe
 status: PUBLISHED
 createdAt: 2017-04-10T13:26:43.145Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: License Manager
-slugEN: website-binding-with-old-license-manager-details
+slugEN: website-binding-com-informacoes-antigas-do-license-manager
 locale: pt
 kiStatus: Backlog
 internalReference: 

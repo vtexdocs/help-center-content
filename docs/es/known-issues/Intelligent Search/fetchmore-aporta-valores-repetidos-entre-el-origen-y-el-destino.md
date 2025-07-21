@@ -1,5 +1,5 @@
 ---
-title: 'FetchMore aporta valores repetidos entre el origen y el destino'
+title: "FetchMore aporta valores repetidos entre el origen y el destino"
 id: 1Vx0YekKCDaf8t6hocU1iv
 status: PUBLISHED
 createdAt: 2023-05-31T16:39:58.224Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: fetchmore-bringing-repeated-values-between-the-to-and-from
+slugEN: fetchmore-aporta-valores-repetidos-entre-el-origen-y-el-destino
 locale: es
 kiStatus: Scheduled
 internalReference: 835396
@@ -18,7 +18,9 @@ internalReference: 835396
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La función fetchMore está trayendo entre la primera y la segunda página algunos valores duplicados y esto hace que la página muestre repetidamente algunos de los productos.

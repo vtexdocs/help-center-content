@@ -14,7 +14,7 @@ trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugPT: configurar-integracao-da-netshoes
 ---
 
-Caso a [arquitetura do seu catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) separe variações de um mesmo modelo em produtos diferentes na VTEX, você precisará criar agrupamentos de produtos para que elas sejam exibidas corretamente na Netshoes.
+Caso a [arquitetura do seu catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) separe variações de um mesmo modelo em produtos diferentes na VTEX, você precisará criar agrupamentos de produtos para que elas sejam exibidas corretamente na Netshoes.
 
 <table width="100%">
   <tr>
@@ -128,7 +128,7 @@ Para verificar como está estruturado seu catálogo, você pode acessar a seçã
 
 <p></p>
 
->ℹ️ Você pode filtrar os resultados para exibir apenas produtos vinculados à política comercial escolhida para a Netshoes na etapa anterior. Para isso, basta clicar em *Filtrar resultados ou fazer uma busca* e selecionar a política comercial no seletor *Loja*.
+<div class="alert alert-info">Você pode filtrar os resultados para exibir apenas produtos vinculados à política comercial escolhida para a Netshoes na etapa anterior. Para isso, basta clicar em <em>Filtrar resultados ou fazer uma busca</em> e selecionar a política comercial no seletor <em>Loja</em>.</div>
 
 ## Cadastro do agrupamento de produtos
 
@@ -136,6 +136,6 @@ Para que seus produtos sejam agrupados pela integração com a Netshoes, será n
 
 Para fazer isso, você deve:
 
-1. [Cadastrar especificação de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) com nome `NetshoesProductGroup` e tipo _Texto Grande_. Este campo pode ser cadastrado na raiz (*Categorias*) da sua árvore de categorias. 
+1. [Cadastrar especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) com nome `NetshoesProductGroup` e tipo _Texto Grande_. Este campo pode ser cadastrado na raiz (*Categorias*) da sua árvore de categorias. 
 
-2. Preencher a especificação `NetshoesProductGroup` com o mesmo valor para todos produtos que devem ser agrupados. O processo de preenchimento desta especificação pode ser feito por [importação de planilha](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin#planilha).
+2. Preencher a especificação `NetshoesProductGroup` com o mesmo valor para todos produtos que devem ser agrupados. O processo de preenchimento desta especificação pode ser feito por [importação de planilha](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin#planilha).

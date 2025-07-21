@@ -1,5 +1,5 @@
 ---
-title: 'Mapa del sitio de las subcuentas que incluye productos de otras subcuentas y de la cuenta principal'
+title: "Mapa del sitio de las subcuentas que incluye productos de otras subcuentas y de la cuenta principal"
 id: 520s91dIRV8B81JRYmPENz
 status: PUBLISHED
 createdAt: 2022-07-29T12:48:02.893Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sitemap-from-subaccounts-including-products-from-other-subaccounts-and-mainaccount
+slugEN: mapa-del-sitio-de-las-subcuentas-que-incluye-productos-de-otras-subcuentas-y-de-la-cuenta-principal
 locale: es
 kiStatus: Backlog
 internalReference: 617974
@@ -18,7 +18,9 @@ internalReference: 617974
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El mapa del sitio generado está mostrando todos los productos de las subcuentas y cuentas, sin tener en cuenta el canal de venta de los productos y si la subcuenta tiene un sitio web propio.

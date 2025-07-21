@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário mostra que uma retirada foi selecionada no carrinho com assinaturas, mas não foi na API'
+title: "A interface do usuário mostra que uma retirada foi selecionada no carrinho com assinaturas, mas não foi na API"
 id: 6WUGylIHWZtfeAm7hplYHD
 status: PUBLISHED
 createdAt: 2024-03-08T19:08:16.010Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-shows-a-pickup-was-selected-in-cart-with-subscriptions-but-it-wasnt-in-api
+slugEN: a-interface-do-usuario-mostra-que-uma-retirada-foi-selecionada-no-carrinho-com-assinaturas-mas-nao-foi-na-api
 locale: pt
 kiStatus: Backlog
 internalReference: 996976
@@ -18,7 +18,9 @@ internalReference: 996976
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As opções de retirada são oferecidas aos compradores em um carrinho com um item com uma assinatura. Quando uma das retiradas é selecionada, o checkout muda automaticamente para entrega, mas a interface do usuário ainda mostra que a retirada foi selecionada.

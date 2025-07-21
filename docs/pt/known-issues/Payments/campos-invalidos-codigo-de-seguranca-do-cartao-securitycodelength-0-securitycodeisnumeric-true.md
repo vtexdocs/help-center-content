@@ -1,5 +1,5 @@
 ---
-title: 'Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true'
+title: "Campos inválidos: Código de segurança do cartão. SecurityCodeLength: 0 SecurityCodeIsNumeric: true"
 id: 8VlvruNr0pp9zKKSaPLGZ
 status: PUBLISHED
 createdAt: 2022-03-27T22:58:34.329Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true
+slugEN: campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true
 locale: pt
 kiStatus: Backlog
 internalReference: 442772
@@ -18,7 +18,9 @@ internalReference: 442772
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O erro acontece em um cenário específico onde você preenche as informações do cartão, depois muda o método de pagamento para outro (MercadoPago, por exemplo) e depois volta novamente ao método de pagamento com cartão de crédito e depois confirma o pagamento.

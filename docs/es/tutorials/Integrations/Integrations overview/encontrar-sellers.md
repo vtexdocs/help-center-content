@@ -19,8 +19,10 @@ La página **Encontrar sellers** facilita la búsqueda y comunicación con selle
 
 Para utilizar la página,debes crear un **Perfil de la tienda**,según se describe en la documentación.
 
->ℹ️ Ten en cuenta que **Encontrar sellers** es una herramienta que promueve el contacto entre posibles partners, sin embargo, no es un paso obligatorio para operar como marketplace y seller en VTEX.
-> Si deseas operar como marketplace y seller simultáneamente, lee la documentación [Estrategias de marketplace en VTEX.](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace)  
+<div class="alert alert-info">
+  Ten en cuenta que <b>Encontrar sellers</b> es una herramienta que promueve el contacto entre posibles partners, sin embargo, no es un paso obligatorio para operar como marketplace y seller en VTEX.
+Si deseas operar como marketplace y seller simultáneamente, lee la documentación <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace">Estrategias de marketplace en VTEX.</a>
+</div>  
 
 Para acceder a la lista de sellers registrados, ve a **Marketplace > Encontrar sellers** o ingresa **Encontrar sellers** en la barra de búsqueda.
 
@@ -50,4 +52,6 @@ Para ponerte en contacto:
 1. Rellena el campo **Contactar seller**.
 1. Haz clic en el botón **Enviar**.
 
->ℹ️ El partner potencial recibirá un email con la información incluida. Si el interés es mutuo,el encargado del seller o el marketplace puede ponerse en contacto contigo y negociar las condiciones del acuerdo entre marketplace y seller.
+<div class="alert alert-info">
+El partner potencial recibirá un email con la información incluida. Si el interés es mutuo,el encargado del seller o el marketplace puede ponerse en contacto contigo y negociar las condiciones del acuerdo entre marketplace y seller.
+</div>

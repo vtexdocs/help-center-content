@@ -1,5 +1,5 @@
 ---
-title: 'A interface de usuário detalhada das organizações B2B mostra apenas 100 primeiros vendedores'
+title: "A interface de usuário detalhada das organizações B2B mostra apenas 100 primeiros vendedores"
 id: 6gZm70bIF0p92u6WtDZqdO
 status: PUBLISHED
 createdAt: 2024-01-15T21:29:19.105Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: b2b-organizations-detail-ui-only-shows-100-first-sellers
+slugEN: a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores
 locale: pt
 kiStatus: Fixed
 internalReference: 966450
@@ -18,7 +18,9 @@ internalReference: 966450
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface de usuário de detalhes das organizações B2B mostra apenas os 100 primeiros vendedores; a interface de usuário não tem paginação, tornando impossível selecionar um vendedor se não estiver na primeira página

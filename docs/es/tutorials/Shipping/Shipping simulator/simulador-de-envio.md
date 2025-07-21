@@ -17,19 +17,19 @@ subcategoryId: 1O8AEORWOcgIiMosGoousQ
 
 El **Simulador de envío** está disponible en el Admin para simular y analizar las opciones de entrega disponibles. La simulación verifica las condiciones de entrega dando al administrador de tienda la capacidad de verificar la disponibilidad de ítems, formas de entrega, costos y plazos. 
 
-El simulador también se puede utilizar para validar la configuración de la  **[Estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de que se habilite el proceso logístico (Stock, Muelle y [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)) considerando:
+El simulador también se puede utilizar para validar la configuración de la  **[Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de que se habilite el proceso logístico (Stock, Muelle y [Política de envío](/es/tutorial/politica-de-envio--tutorials_140)) considerando:
 
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
 
->⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
->
-> *Promociones aplicadas a esos ítems.
->
-> *Descuentos de flete configurados a través de promociones.
->
-> *El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
-> 
+<div class="alert alert-warning"> 
+Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
+<ul>
+<li>Promociones aplicadas a esos ítems.</li>
+<li>Descuentos de flete configurados a través de promociones.</li>
+<li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo <b>Fecha de previsión de llegada (Preventa)</b>  <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">del registro del ítem.</li></a>
+</ul>
+</div>
 
 ## Simular el envío
 
@@ -54,16 +54,18 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
  10. Haga clic en el botón `Simular Envío`.  
 
->ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y SKU.
+<div class = "alert alert-info">
+En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro del producto</a> y SKU.
+</div>
 
 ## Detalles de la simulación
 
-La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
+La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
 
-* **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) (vea 
+* **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](/es/tutorial/politica-de-envio--tutorials_140) (vea 
 [transportadoras desconsideradas](#transportadoras-desconsideradas) para más información)
 * **Compartición de simulación:** se puede realizar la compartición de la simulación haciendo clic en `Compartir simulación` en la esquina superior derecha de la página. Al hacer clic, se copiará un _link_ de compartición en su área de transferencia. Esta funcionalidad facilita la comunicación con el equipo de VTEX, o de su tienda, para resolver problemas que se producen en pedidos específicos. Solo la persona que tiene acceso al ambiente VTEX puede ver el _link_ de compartición generado.
-* **Valor del flete:** para las simulaciones realizadas con más de un SKU, el `valor del flete` se divide proporcionalmente al peso de cada SKU en el paquete. Por ejemplo, considere una simulación realizada con 2 SKU (uno de 2 kg y otro de 3 kg). Supongamos que el valor total del flete en la transportadora A es de USD 10. En este caso, el valor de flete del SKU más liviano es de USD 4 y el del más pesado es de USD 6. Para saber más, vea [Cómo se realiza el rateo de flete](https://help.vtex.com/es/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
+* **Valor del flete:** para las simulaciones realizadas con más de un SKU, el `valor del flete` se divide proporcionalmente al peso de cada SKU en el paquete. Por ejemplo, considere una simulación realizada con 2 SKU (uno de 2 kg y otro de 3 kg). Supongamos que el valor total del flete en la transportadora A es de USD 10. En este caso, el valor de flete del SKU más liviano es de USD 4 y el del más pesado es de USD 6. Para saber más, vea [Cómo se realiza el rateo de flete](/es/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
 * **Dimensiones del paquete:** para las simulaciones con SKUs que contienen más de 1 unidad, las dimensiones que se describen al lado del SKU en la página de simulación no cambiarán. El sistema tomará en cuenta que la dimensión total del paquete aumentó. 
 
 ### Transportadoras desconsideradas

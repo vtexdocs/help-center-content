@@ -33,5 +33,7 @@ Just enter one of these data in the field and click on the `Confirm` button.
 
 Alternatively, if you have enabled the Anonymous User feature, it is possible to proceed without identifying the customer. To do this, just click on `Proceed without identification`.
 
->ℹ️ Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the sales associate a series of contextual information that increases the chances of conversion.
+<div class="alert alert-info">
+Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the sales associate a series of contextual information that increases the chances of conversion.
+</div>
 

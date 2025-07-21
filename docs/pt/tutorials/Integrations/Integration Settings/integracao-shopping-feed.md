@@ -15,4 +15,6 @@ legacySlug: integracao-shopping-feed
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ Este conteúdo é exclusivamente regional; portanto não se aplica a países de língua portuguesa.
+<div class="alert alert-warning" role="alert">
+Este conteúdo é exclusivamente regional; portanto não se aplica a países de língua portuguesa.
+</div>

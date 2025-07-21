@@ -1,5 +1,5 @@
 ---
-title: 'Os índices do cluster que excedem o limite de campos fazem com que os documentos não sejam indexados.'
+title: "Os índices do cluster que excedem o limite de campos fazem com que os documentos não sejam indexados."
 id: 6NPe2vm2ay5BMqvAr1P4zd
 status: PUBLISHED
 createdAt: 2024-08-08T14:12:00.560Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: clusters-indexes-that-exceed-the-limit-of-fields-cause-documents-to-fail-to-be-indexed
+slugEN: os-indices-do-cluster-que-excedem-o-limite-de-campos-fazem-com-que-os-documentos-nao-sejam-indexados
 locale: pt
 kiStatus: Backlog
 internalReference: 1078027
@@ -18,7 +18,9 @@ internalReference: 1078027
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um índice, que pode conter várias contas, ultrapassa o limite de campos, os novos documentos não são indexados, o que leva a problemas de pesquisa e recuperação.

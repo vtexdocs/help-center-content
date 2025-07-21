@@ -1,5 +1,5 @@
 ---
-title: 'Collections trigger not working as expected on Progressive Discounts'
+title: "Collections trigger not working as expected on Progressive Discounts"
 id: 78b9yQnTm1bxgOM2cfMlql
 status: PUBLISHED
 createdAt: 2023-11-06T16:42:53.081Z

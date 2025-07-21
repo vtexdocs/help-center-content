@@ -1,5 +1,5 @@
 ---
-title: 'Meus Cartões não estão funcionando para alguns conectores legados'
+title: "Meus Cartões não estão funcionando para alguns conectores legados"
 id: Ln0mUfu3jDwcfndavSZkk
 status: PUBLISHED
 createdAt: 2022-05-28T12:03:48.090Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: my-cards-is-not-working-for-some-legacy-connectors
+slugEN: meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados
 locale: pt
 kiStatus: Backlog
 internalReference: 373636
@@ -18,7 +18,9 @@ internalReference: 373636
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar salvar um cartão de crédito em My Cards dentro da sessão My Account ** sem ter feito qualquer compra com esse cartão antes** ocorrerá um erro ao tentar salvar o cartão com um conector legado interno.

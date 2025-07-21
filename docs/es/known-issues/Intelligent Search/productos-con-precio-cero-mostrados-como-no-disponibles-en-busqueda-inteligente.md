@@ -1,24 +1,26 @@
 ---
-title: 'Productos con precio cero mostrados como no disponibles en Búsqueda Inteligente'
+title: "Productos con precio cero mostrados como no disponibles en Búsqueda Inteligente"
 id: 4oh4ROvCp7JrfWeSAc0dE0
 status: PUBLISHED
 createdAt: 2024-06-05T23:34:05.987Z
-updatedAt: 2024-06-05T23:34:07.147Z
-publishedAt: 2024-06-05T23:34:07.147Z
+updatedAt: 2025-03-21T18:49:01.897Z
+publishedAt: 2025-03-21T18:49:01.897Z
 firstPublishedAt: 2024-06-05T23:34:07.147Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: products-with-price-zero-shown-as-unavailable-at-intelligent-search
+slugEN: productos-con-precio-cero-mostrados-como-no-disponibles-en-busqueda-inteligente
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1045184
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los productos con precio cero son mostrados como no disponibles por la Búsqueda Inteligente. A diferencia de un producto sin precio registrado, el precio fijado como cero define un producto libre.

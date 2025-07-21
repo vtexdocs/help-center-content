@@ -1,5 +1,5 @@
 ---
-title: 'Campaign parameters are lost when HTTP is redirected to HTTPS'
+title: "Campaign parameters are lost when HTTP is redirected to HTTPS"
 id: 2GHGz8HUBiqw4mqI0uSmu6
 status: PUBLISHED
 createdAt: 2017-08-16T20:33:02.765Z

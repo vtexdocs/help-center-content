@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario sólo tiene en cuenta los elementos disponibles para calcular el SLA'
+title: "La interfaz de usuario sólo tiene en cuenta los elementos disponibles para calcular el SLA"
 id: 11gXg1N1Sul7EJUZACuQNW
 status: PUBLISHED
 createdAt: 2023-04-25T21:55:37.785Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-considers-only-the-available-items-to-calculate-sla
+slugEN: la-interfaz-de-usuario-solo-tiene-en-cuenta-los-elementos-disponibles-para-calcular-el-sla
 locale: es
 kiStatus: Backlog
 internalReference: 797028
@@ -18,7 +18,9 @@ internalReference: 797028
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se pueden seleccionar diferentes marcas blancas de vendedor para cumplir con los productos cuando se utilizan diferentes direcciones para la entrega y la recogida. Cuando se selecciona la opción de recogida y al cambiar a entrega, la interfaz de usuario sólo tiene en cuenta los artículos disponibles para calcular el nuevo ANS de entrega, aunque los productos estén disponibles. El precio de entrega sólo tendrá en cuenta los artículos seleccionados disponibles para la recogida.

@@ -1,5 +1,5 @@
 ---
-title: 'Attributes and groups organized by category are not reorganized in the store'
+title: "Attributes and groups organized by category are not reorganized in the store"
 id: 1oWkNKBfrWMmKSWOeeGikO
 status: PUBLISHED
 createdAt: 2017-12-18T17:08:46.708Z

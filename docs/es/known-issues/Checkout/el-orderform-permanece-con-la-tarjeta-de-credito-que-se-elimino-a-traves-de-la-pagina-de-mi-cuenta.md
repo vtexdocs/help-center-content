@@ -1,5 +1,5 @@
 ---
-title: 'El OrderForm permanece con la tarjeta de crédito que se eliminó a través de la página de mi cuenta'
+title: "El OrderForm permanece con la tarjeta de crédito que se eliminó a través de la página de mi cuenta"
 id: 4wcp7SdlHPTRSHxsDxZ1Xr
 status: PUBLISHED
 createdAt: 2022-05-03T11:47:35.874Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-remains-with-credit-card-that-were-removed-via-myaccount-page
+slugEN: el-orderform-permanece-con-la-tarjeta-de-credito-que-se-elimino-a-traves-de-la-pagina-de-mi-cuenta
 locale: es
 kiStatus: Fixed
 internalReference: 276823
@@ -18,7 +18,9 @@ internalReference: 276823
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La eliminación de una tarjeta de crédito a través de la página de mi cuenta no actualiza el orderForm, que mantendría una tarjeta de crédito que ya no existe.

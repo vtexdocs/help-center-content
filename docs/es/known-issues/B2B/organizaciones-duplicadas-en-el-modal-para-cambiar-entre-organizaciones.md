@@ -1,5 +1,5 @@
 ---
-title: 'Organizaciones duplicadas en el modal para cambiar entre organizaciones'
+title: "Organizaciones duplicadas en el modal para cambiar entre organizaciones"
 id: 7pOIj0RzcmA5mZy60OpfRk
 status: PUBLISHED
 createdAt: 2024-02-22T16:51:15.327Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: duplicated-organizations-in-modal-to-switch-between-organizations
+slugEN: organizaciones-duplicadas-en-el-modal-para-cambiar-entre-organizaciones
 locale: es
 kiStatus: Backlog
 internalReference: 986868
@@ -18,7 +18,9 @@ internalReference: 986868
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario tiene muchas organizaciones registradas y utiliza el modal para cambiar entre organizaciones, algunas organizaciones se mostrarán duplicadas en la lista.

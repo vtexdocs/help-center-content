@@ -1,5 +1,5 @@
 ---
-title: 'refatorar nosso fluxo de senhas para chamar a nova mutação correspondente no aplicativo graphql'
+title: "refatorar nosso fluxo de senhas para chamar a nova mutação correspondente no aplicativo graphql"
 id: 245W7bXAR6nnnLbqqmOCda
 status: PUBLISHED
 createdAt: 2022-05-12T16:02:40.629Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: refactor-our-reset-password-flow-to-call-the-new-corresponding-mutation-in-the-graphql-app
+slugEN: refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql
 locale: pt
 kiStatus: Scheduled
 internalReference: 577825
@@ -18,7 +18,9 @@ internalReference: 577825
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O usuário não pode fazer o login após mudar a senha temporária e é direcionado para a tela para solicitar acesso

@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] Error 40000 / 40007 after clicking the button to publish in the Buybox Catalog.'
+title: "[Mercado Livre] Error 40000 / 40007 after clicking the button to publish in the Buybox Catalog."
 id: 1UurW8nVNB4Npcs0CNRJ4R
 status: PUBLISHED
 createdAt: 2024-10-24T11:37:40.859Z

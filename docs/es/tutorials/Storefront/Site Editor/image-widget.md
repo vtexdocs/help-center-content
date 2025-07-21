@@ -15,7 +15,7 @@ legacySlug: image-widget
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image Widget es un repositorio modal de bloques que permite subir imágenes al [Site Editor](https://help.vtex.com/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Con este modal, puede subir, almacenar y gestionar las imágenes de su tienda y utilizarlas en diferentes páginas, como la de Inicio, Producto o Newsletter.
+Image Widget es un repositorio modal de bloques que permite subir imágenes al [Site Editor](/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Con este modal, puede subir, almacenar y gestionar las imágenes de su tienda y utilizarlas en diferentes páginas, como la de Inicio, Producto o Newsletter.
 
 Por ejemplo, puede añadir una nueva imagen al bloque __Carrusel__ de su tienda a través de  Image Widget.
 
@@ -41,9 +41,13 @@ Ahora que ya sabe cómo acceder a Image Widget, vea lo que puede hacer a continu
 ### Añadir una imagen
 Después de [acceder a Image Widget](#acceso-a-image-widget) y con él abierto podrá añadir imágenes:
 
->⚠️ Al agregar nuevas imágenes en el modal Image Widget usando un [development workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace), la configuración realizada se guardará directamente en el espacio de trabajo principal. Es decir, se reflejarán inmediatamente en el modal de tu tienda.
+<div class="alert alert-warning">
+Al agregar nuevas imágenes en el modal Image Widget usando un <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace">development workspace</a>, la configuración realizada se guardará directamente en el espacio de trabajo principal. Es decir, se reflejarán inmediatamente en el modal de tu tienda.
+</div>
 <br>
->⚠️ El tamaño máximo que admite Image Widget es de 4 MB por archivo.
+<div class="alert alert-warning">
+  El tamaño máximo que admite Image Widget es de 4 MB por archivo.
+</div>
 
 1. Haga clic en `Añadir imagen`.
 2. Elige la imagen que quiere añadir y haga clic en `Abrir`.
@@ -79,5 +83,7 @@ En el bloque en el que desea sustituir una imagen:
 ### Eliminar una imagen
 Para eliminar una imagen del bloque deseado, haga clic en `Más acciones` en la miniatura de la imagen y seleccione __Eliminar.__ Después de este procedimiento, la imagen ya no será visible en el bloque.
 
->⚠️ Cuando se remueve una imagen, no significa que se excluya del repositorio. Para ello, consulte la sección [Funcionalidades dentro de Image Widget](#funcionalidades-dentro-de-image-widget).
+<div class="alert alert-warning">
+  Cuando se remueve una imagen, no significa que se excluya del repositorio. Para ello, consulte la sección <a href="#funcionalidades-dentro-de-image-widget">Funcionalidades dentro de Image Widget</a>.
+</div>
 

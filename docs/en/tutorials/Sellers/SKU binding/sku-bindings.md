@@ -15,13 +15,15 @@ legacySlug: sku-bindings
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6
 ---
 
-As part of the [collaborative commerce](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) promoted by VTEX, the architecture of a VTEX store allows it to act both as a [seller](https://help.vtex.com/en/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) and as a [marketplace](https://help.vtex.com/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
+As part of the [collaborative commerce](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) promoted by VTEX, the architecture of a VTEX store allows it to act both as a [seller](/en/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) and as a [marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
 
-Every time a seller sends its products to a VTEX marketplace, the marketplace [catalogs the received SKUs](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) and creates a binding between the seller’s SKUs and the marketplace SKUs. This means that there is a connection between the seller’s catalog and the marketplace catalog. 
+Every time a seller sends its products to a VTEX marketplace, the marketplace [catalogs the received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) and creates a binding between the seller’s SKUs and the marketplace SKUs. This means that there is a connection between the seller’s catalog and the marketplace catalog. 
 
-Once the marketplace has cataloged the SKUs, either via the **Received SKUs** page or by using the [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the bindings between the seller’s SKUs and the marketplace SKUs appear on the **SKU Bindings** page. Bindings will automatically have the _Bind_ status.
+Once the marketplace has cataloged the SKUs, either via the **Received SKUs** page or by using the [VTEX Matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the bindings between the seller’s SKUs and the marketplace SKUs appear on the **SKU Bindings** page. Bindings will automatically have the _Bind_ status.
 
->ℹ️ By default, [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that binding between their SKUs and the ones from the marketplace.
+<div class = "alert alert-info">
+By default, <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label sellers</a> do not have that binding between their SKUs and the ones from the marketplace.
+</div>
 
 The **SKU Bindings** page allows the marketplace to track and manage the binding relationship between the seller’s SKUs and the ones from the marketplace. To access the page, go to the VTEX Admin, **Marketplace > Sellers > SKU Bindings**. You'll see the following interface:
 
@@ -31,8 +33,8 @@ The following table contains a description of the columns in the SKU binding lis
 
 | **Column** | **Description** |
 | ---------- | ---------- |
-| SKU | A numerical code that identifies the [SKU](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) of the marketplace catalog. |
-| Seller | [Seller’s](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392) name and ID in the marketplace. |
+| SKU | A numerical code that identifies the [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) of the marketplace catalog. |
+| Seller | [Seller’s](/en/tutorial/adicionar-seller--tutorials_392) name and ID in the marketplace. |
 | Seller SKU | An alphanumeric code that identifies the SKU of the seller’s catalog to which the marketplace SKU is bound to. |
 | Status | The status of the binding between the seller’s SKU and the ones from the marketplace may be of two types: <ul><li><b>Bound:</b> There is a connection between the seller’s SKU and the marketplace SKU.</li><li><b>Unbound:</b> There is no connection between the seller’s SKU and the marketplace SKU.</li></ul> If a SKU binding is changed from <b>Bind</b> to <b>Unbind</b>, then the seller’s SKU will become unavailable in the marketplace catalog. |
 
@@ -63,13 +65,17 @@ You can also search through the list by filtering per binding status. To do this
 
 To return to the list with all the binding statuses, click on the `Clear all` button. This button will only clear the status filter, not the terms you have entered into the search boxes.
 
->ℹ️ If the search returns no results, check the spelling of the words you have written or check the combination of filters you have used.
+<div class = "alert alert-info">
+If the search returns no results, check the spelling of the words you have written or check the combination of filters you have used.
+</div>
 
 ## Unbinding a SKU
 
 To undo a SKU binding, click on the _switch_ <i class="fas fa-toggle-on"></i> option and confirm the option `Unbind SKU`. 
 
->ℹ️ When you unbind the seller's SKU, the SKU will no longer receive price and stock updates, and it will be shown as unavailable in the marketplace catalog. You may rebind the SKU at any time. To do so, you do not have to catalog the seller's SKU again.
+<div class = "alert alert-info">
+When you unbind the seller's SKU, the SKU will no longer receive price and stock updates, and it will be shown as unavailable in the marketplace catalog. You may rebind the SKU at any time. To do so, you do not have to catalog the seller's SKU again.
+</div>
 
 If you want to reestablish the binding between the seller’s SKU and the marketplace SKU, select the _switch_ option <i class="fas fa-toggle-on"></i> again by clicking on it.
 
@@ -91,7 +97,9 @@ To remove the binding between the seller’s SKU and the marketplace SKU, follow
 2. On the row where you may find the desired item, click on the menu icon <i class="fas fa-ellipsis-v"></i>.
 3. Click on the <i class="far fa-trash-alt"></i> `Remove` button.
 
->⚠️ When you remove a binding, the seller's SKU will no longer be part of the marketplace catalog. Therefore, it'll disappear from the list on the **SKU Bindings** page. You cannot recover a removed binding. However, the seller can resend the SKU to the marketplace, which will [catalog](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) the SKU again and make it available.
+<div class="alert alert-warning">
+When you remove a binding, the seller's SKU will no longer be part of the marketplace catalog. Therefore, it'll disappear from the list on the <b>SKU Bindings</b> page. You cannot recover a removed binding. However, the seller can resend the SKU to the marketplace, which will <a href="https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396">catalog</a> the SKU again and make it available.
+</div>
 
 ## Exporting
 
@@ -103,11 +111,13 @@ To export the SKU binding list in XLSX format, follow the steps below:
 
 The spreadsheet will be sent to the email of the user that is currently logged in. Export time depends on processing factors of the VTEX platform and on the size of the file.
 
->ℹ️ When exporting, the exported file will have a list with the bindings of the SKUs. If there's an active search or filter, only the selected bindings will be exported.
+<div class = "alert alert-info">
+When exporting, the exported file will have a list with the bindings of the SKUs. If there's an active search or filter, only the selected bindings will be exported.
+</div>
 
 ## Learn more
 
-- [Configuring a VTEX marketplace](https://help.vtex.com/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
-- [Configuring a seller on VTEX marketplace](https://help.vtex.com/en/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP)
-- [Cataloging received SKUs](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396)
-- [How VTEX Matcher scoring works](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424)
+- [Configuring a VTEX marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
+- [Configuring a seller on VTEX marketplace](/en/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP)
+- [Cataloging received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396)
+- [How VTEX Matcher scoring works](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424)

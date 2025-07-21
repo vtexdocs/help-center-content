@@ -1,5 +1,5 @@
 ---
-title: 'Orders with items on array MarketplaceItems is not opening on New UI Admin'
+title: "Orders with items on array MarketplaceItems is not opening on New UI Admin"
 id: 3tj9AKklBHm4tCKYgrfDi5
 status: PUBLISHED
 createdAt: 2022-09-13T03:06:57.141Z

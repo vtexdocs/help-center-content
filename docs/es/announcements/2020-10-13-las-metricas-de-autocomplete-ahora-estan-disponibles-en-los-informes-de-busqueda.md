@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Para un análisis más completo del comportamiento de búsqueda, incluimos las métricas de Autocomplete en esto informe'
 ---
 
-Para analizar y monitorear el desempeño de [VTEX lntelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), se puede ver y exportar [informes](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) con datos relacionados a las búsquedas realizadas en la tienda. Para permitir un análisis más completo del comportamiento de búsqueda de sus clientes, incluimos las métricas de [Autocomplete](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) en estos informes.
+Para analizar y monitorear el desempeño de [VTEX lntelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), se puede ver y exportar [informes](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) con datos relacionados a las búsquedas realizadas en la tienda. Para permitir un análisis más completo del comportamiento de búsqueda de sus clientes, incluimos las métricas de [Autocomplete](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) en estos informes.
 
 ## ¿Qué cambió?
 Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y los términos utilizados en estas. Ahora, también se puede analizar el desempeño de las sugerencias de búsqueda realizadas por Autocomplete.  

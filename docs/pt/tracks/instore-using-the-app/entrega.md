@@ -29,19 +29,19 @@ A tela seguinte permite definir escolhas de entrega. Como o VTEX Sales App lida 
 - Retirar em uma loja física.
 - Personalizar por item.
 
-![instore-definir-escolhas-de-entrega](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/697cb506db0466fd5f137629ec57458a/entrega-2.png)
+![instore-definir-escolhas-de-entrega](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/697cb506db0466fd5f137629ec57458a/entrega-2.png)
 
 ### Pontos de retirada
 
 Para opções de retirada em loja (pickup point), o sistema seleciona as lojas que têm os itens em estoque e mostra a loja mais próxima ao CEP do cliente, como sugestão. Se o vendedor quiser trocar a loja onde o cliente fará a coleta, basta clicar no botão `Alterar ponto de retirada`.
 
-![31. VTEX Sales App - Product Overview - 11](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/667f6c141be1ad04b2588fc6e28526be/entrega-retirada.png)
+![31. VTEX Sales App - Product Overview - 11](https://images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/667f6c141be1ad04b2588fc6e28526be/entrega-retirada.png)
 
 Ao clicar em `Alterar ponto de retirada`, o vendedor primeiro visualiza o ponto de retirada sugerido pelo sistema. Para ver os demais pontos de retirada disponíveis, é necessário clicar em `Ver todos os pontos de retirada`.
 
-![31. VTEX Sales App - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
+![31. VTEX Sales App - Product Overview - 12](https://images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
 
 O VTEX Sales App mostrará, então, a lista de pontos de retirada, ordenada por menor distância do CEP do cliente. Também é possível escolher o ponto de retirada a partir da visualização no mapa, clicando na aba __Mapa__.
 
-![31. VTEX Sales App - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)
+![31. VTEX Sales App - Product Overview - 13](https://images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)
 

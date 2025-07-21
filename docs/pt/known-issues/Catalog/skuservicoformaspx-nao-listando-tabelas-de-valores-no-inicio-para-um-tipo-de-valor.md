@@ -1,5 +1,5 @@
 ---
-title: 'SkuServicoForm.aspx não listando Tabelas de Valores no início para um tipo de Valor'
+title: "SkuServicoForm.aspx não listando Tabelas de Valores no início para um tipo de Valor"
 id: 2QrjRVvJXiWmRXTYf8DrMK
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:32.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: skuservicoformaspx-not-listing-value-tables-at-first-for-a-value-type
+slugEN: skuservicoformaspx-nao-listando-tabelas-de-valores-no-inicio-para-um-tipo-de-valor
 locale: pt
 kiStatus: No Fix
 internalReference: 335819
@@ -18,7 +18,9 @@ internalReference: 335819
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Ao associar um serviço para uma SKU no nosso catálogo, para uma loja que tem múltiplos tipos de serviço e valores de serviço (campo Tipo de Valor), no início, quando um utilizador entra na UI, a lista de opções para um dado "Tipo de Serviço" está atualmente apenas a listar as opções associadas na tabela de Valores do primeiro tipo de serviço selecionado.
 

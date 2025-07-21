@@ -1,5 +1,5 @@
 ---
-title: 'Actualmente, la interfaz de usuario de transacciones tiene una limitación por la que no puede mostrar registros de /interactions si la carga útil supera las 5000 líneas.'
+title: "Actualmente, la interfaz de usuario de transacciones tiene una limitación por la que no puede mostrar registros de /interactions si la carga útil supera las 5000 líneas."
 id: 1hfRLo1OBLqlsR70Os9J7L
 status: PUBLISHED
 createdAt: 2023-03-27T13:40:46.551Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-transaction-ui-currently-has-a-limitation-where-it-cannot-display-logs-from-interactions-if-the-payload-exceeds-5000-lines
+slugEN: actualmente-la-interfaz-de-usuario-de-transacciones-tiene-una-limitacion-por-la-que-no-puede-mostrar-registros-de-interactions-si-la-carga-util-supera-las-5000-lineas
 locale: es
 kiStatus: Backlog
 internalReference: 778408
@@ -18,7 +18,9 @@ internalReference: 778408
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la API /interactions sólo puede recuperar un máximo de 5000 líneas del archivo S3 donde se almacenan todos los datos. Esto puede crear un problema cuando una transacción genera registros que superan este límite.

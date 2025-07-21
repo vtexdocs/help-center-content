@@ -44,6 +44,8 @@ Para asignar sellers a una determinada organización compradora sigue los pasos 
 A partir de ahora, cada vez que la organización realice una búsqueda en la plataforma VTEX, solamente se mostrarán los productos de los sellers que tenga asignados.
 </ol>
 
->⚠️ Las organizaciones compradoras que opten por no crear asignaciones de sellers, podrán acceder igualmente a la información y realizar compras a todos los sellers disponibles en el marketplace.
+<div class="alert alert-warning">
+Las organizaciones compradoras que opten por no crear asignaciones de sellers, podrán acceder igualmente a la información y realizar compras a todos los sellers disponibles en el marketplace.
+</div>
 
-Para más información sobre cómo integrar un nuevo seller, consulta el artículo [Agregar seller](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392).
+Para más información sobre cómo integrar un nuevo seller, consulta el artículo [Agregar seller](/es/tutorial/adicionar-seller--tutorials_392).

@@ -23,7 +23,7 @@ Também é possível cadastrar e gerenciar __usuários__ por meio do módulo Ger
 1.  No módulo Gerenciamento da conta, clique na aba **Usuários**.  
 2.  Clique no botão **Novo usuário**.  
 3.  Preencha o **Email** e o **Nome Completo**.  
-4.  Adicione ou crie os [perfis de acesso](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) desejados.  
+4.  Adicione ou crie os [perfis de acesso](/pt/tutorial/gerenciando-usuarios--tutorials_512) desejados.  
 5.  Clique no botão **Salvar**.
 
 O usuário irá receber um e-mail confirmando o cadastro, com um link para cadastrar a senha de acesso.
@@ -46,4 +46,6 @@ Não é possível alterar o e-mail. Para isso, é necessário fazer um novo cada
 2. Selecione o usuário desejado e clique no **ícone de lixeira**, na coluna de ações.  
 3. Clique em **confirmar**.
 
->ℹ️ Embora tokens de integração apareçam na listagem de usuários, eles não podem ser excluídos. Para desativá-los, acesse *Configuração da conta > Gerenciamento da conta > Conta* e desmarque o campo **Status dos Tokens**.
+<div class="alert alert-info">
+Embora tokens de integração apareçam na listagem de usuários, eles não podem ser excluídos. Para desativá-los, acesse <em>Configuração da conta > Gerenciamento da conta > Conta</em> e desmarque o campo <strong>Status dos Tokens</strong>.
+</div>

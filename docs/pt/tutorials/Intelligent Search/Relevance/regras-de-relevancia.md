@@ -3,8 +3,8 @@ title: 'Regras de relevância'
 id: 1o9jtVGjSIiptbqdNXIlNK
 status: PUBLISHED
 createdAt: 2024-06-27T17:12:27.900Z
-updatedAt: 2024-09-20T20:56:15.445Z
-publishedAt: 2024-09-20T20:56:15.445Z
+updatedAt: 2025-04-17T14:36:26.477Z
+publishedAt: 2025-04-17T14:36:26.477Z
 firstPublishedAt: 2024-06-27T17:13:52.839Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,24 +28,24 @@ Existem dois cenários possíveis de configurações de relevância:
 
 As informações aplicadas para compor a relevância são:
 
-- **Desconto:** critério que compara o [Preço de lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e o [Preço base](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#definicao) cadastrados para determinar se o produto será classificado com desconto.
-- **Data de lançamento:** esse critério atribui um valor automático decrescente (entre 1 e 0) a partir da data de cadastro do produto na loja, considerando um intervalo de 90 dias. Produtos cadastrados hoje teriam o valor 1 e esse valor vai reduzindo a cada dia, até que, do dia 90 em diante, passa a ser 0. Esse valor é multiplicado pelo peso que você cadastrar para o critério **Data de lançamento** para compor a relevância.
+- **Desconto:** critério que compara o [Preço de lista](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e o [Preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#definicao) cadastrados para determinar se o produto será classificado com desconto.
+- **Data de lançamento:** esse critério atribui um valor automático decrescente (entre 1 e 0) a partir da [data de lançamento](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8#frente-de-loja) configurada durante o cadastro do produto, considerando um intervalo de 90 dias. Produtos com a data de lançamento igual a hoje teriam o valor 1 e esse valor vai reduzindo a cada dia, até que, do dia 90 em diante, passa a ser 0. Esse valor é multiplicado pelo peso que você cadastrar para o critério **Data de lançamento** para compor a relevância.
 - **Mais vendidos:** números de pedidos do produto nos últimos 90 dias.
 - **Mais vendidos por receita:** lucro total adquirido pelo produto nos últimos 90 dias.
 - **Popularidade:** número de cliques de um produto nos últimos 90 dias.
-- **Promoção:** critério que verifica se há [Audiências de campanhas](https://help.vtex.com/pt/tutorial/overview-2--tutorials_326#audiencia-de-campanhas) ou [Promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) vinculadas ao item para determinar se o produto será classificado como promoção.
-- **Pontuação do catálogo:** critério de desempate de ordenações baseado no valor do campo __Score__ cadastrado no __Catálogo__. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados. Saiba mais sobre o campo e seu comportamento no guia [Como funciona o campo Score?](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+- **Promoção:** critério que verifica se há [Audiências de campanhas](/pt/tutorial/overview-2--tutorials_326#audiencia-de-campanhas) ou [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) vinculadas ao item para determinar se o produto será classificado como promoção.
+- **Pontuação do catálogo:** critério de desempate de ordenações baseado no valor do campo __Score__ cadastrado no __Catálogo__. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados. Saiba mais sobre o campo e seu comportamento no guia [Como funciona o campo Score?](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - **Variedade de matriz disponível:** A relevância se dá a partir da porcentagem de SKUs disponíveis por produto. Exemplo: Num cenário em que _Produto A_ tem 3 SKus e 3 deles estão disponíveis, e _Produto B_ tem 5 SKUs 2 dele está disponível, o _Produto A_ se sobressai ao _Produto B_ pois a porcentagem de SKUs é maior.
 
 O conjunto de distribuição de pesos e critérios gera uma pontuação para o produto, o que auxilia no seu posicionamento na ordenação do resultado da pesquisa.
 
 Dessa forma, é possível adequar o comportamento do resultado de busca a uma estratégia específica.
 
->⚠️ Se você deseja utilizar critérios prioritários, posicione o mais importante em primeiro lugar, pois a ordenação será sempre aplicada com base nele.
->
-> O primeiro critério prioritário tem mais peso do que os outros, por isso ele pode neutralizar os demais critérios prioritários e a composição de critérios.
->
-> Em casos de empate, os demais critérios serão considerados para definir a ordem final dos resultados (primeiro os outros prioritários e depois a composição de critérios).
+<div class="alert alert-warning">
+  <p>Se você deseja utilizar critérios prioritários, posicione o mais importante em primeiro lugar, pois a ordenação será sempre aplicada com base nele.</p>
+  <p>O primeiro critério prioritário tem mais peso do que os outros, por isso ele pode neutralizar os demais critérios prioritários e a composição de critérios.</p>
+  <p>Em casos de empate, os demais critérios serão considerados para definir a ordem final dos resultados (primeiro os outros prioritários e depois a composição de critérios).</p>
+</div>
 
 ## Exemplo
 

@@ -34,6 +34,6 @@ Para configurar Zoop, siga los pasos a continuación:
 
 <ui>  7. Haga clic en <b>Guardar.</b></ui>
 
-Para configurar las condiciones de pago, acceda a [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago#).
+Para configurar las condiciones de pago, acceda a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago#).
 
 Después de seguir los pasos indicados, Zoop puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

@@ -1,5 +1,5 @@
 ---
-title: '[Revista Luiza] Los pedidos con estado APROBADO en el marketplace no se están aprobando en VTEX'
+title: "[Revista Luiza] Los pedidos con estado APROBADO en el marketplace no se están aprobando en VTEX"
 id: b11rdpYX5fEpjzuTm13lw
 status: PUBLISHED
 createdAt: 2023-05-10T19:01:49.804Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magazine-luiza-orders-with-approved-status-on-the-marketplace-are-not-being-approved-on-vtex
+slugEN: revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex
 locale: es
 kiStatus: Backlog
 internalReference: 823443
@@ -18,7 +18,9 @@ internalReference: 823443
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos con estado APROBADO en el mercado no están siendo aprobados en VTEX

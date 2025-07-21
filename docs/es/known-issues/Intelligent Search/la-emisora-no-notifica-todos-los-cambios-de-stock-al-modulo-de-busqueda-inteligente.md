@@ -1,24 +1,26 @@
 ---
-title: 'La emisora no notifica todos los cambios de stock al módulo de búsqueda inteligente'
+title: "La emisora no notifica todos los cambios de stock al módulo de búsqueda inteligente"
 id: XLozPnuonjPImtZa8bWAz
 status: PUBLISHED
 createdAt: 2022-10-24T12:26:59.536Z
-updatedAt: 2023-07-05T17:37:16.708Z
-publishedAt: 2023-07-05T17:37:16.708Z
+updatedAt: 2025-02-17T14:01:02.310Z
+publishedAt: 2025-02-17T14:01:02.310Z
 firstPublishedAt: 2022-10-24T12:27:00.490Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: broadcaster-not-notifying-all-the-stock-changes-to-the-intelligent-search-module
+slugEN: la-emisora-no-notifica-todos-los-cambios-de-stock-al-modulo-de-busqueda-inteligente
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 683345
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

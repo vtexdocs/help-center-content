@@ -1,5 +1,5 @@
 ---
-title: 'El selector de país para la dirección de facturación mientras está en modo internacional permanece restringido a los países de entrega'
+title: "El selector de país para la dirección de facturación mientras está en modo internacional permanece restringido a los países de entrega"
 id: 5lHG60ATBiCdPBQnE1CEuP
 status: PUBLISHED
 createdAt: 2022-05-24T13:38:13.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: country-selector-for-billing-address-while-in-international-mode-stays-restricted-to-the-delivery-countries
+slugEN: el-selector-de-pais-para-la-direccion-de-facturacion-mientras-esta-en-modo-internacional-permanece-restringido-a-los-paises-de-entrega
 locale: es
 kiStatus: No Fix
 internalReference: 335581
@@ -18,7 +18,9 @@ internalReference: 335581
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

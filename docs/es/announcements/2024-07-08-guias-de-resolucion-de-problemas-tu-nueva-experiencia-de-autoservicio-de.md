@@ -16,21 +16,25 @@ announcementSynopsisES: 'Resuelve problemas con mayor rapidez y autonomía con n
 ---
 
 VTEX está en constante evolución para mejorar la experiencia de soporte al cliente, capacitándolo para resolver problemas de manera más eficaz y autónoma. 
-Con el objetivo de facilitar el proceso de soporte, ahora tienes acceso a las Guías de resolución de problemas disponibles en el [Help Center](https://help.vtex.com/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) y [Developer Portal](https://developers.vtex.com/docs/troubleshooting). Estas guías explican los posibles escenarios de error tanto en las operaciones como en el desarrollo de la tienda o aplicaciones, proporcionando orientación sobre cómo restaurar el desempeño esperado de tu tienda.
+Con el objetivo de facilitar el proceso de soporte, ahora tienes acceso a las Guías de resolución de problemas disponibles en el [Help Center](/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) y [Developer Portal](https://developers.vtex.com/docs/troubleshooting). Estas guías explican los posibles escenarios de error tanto en las operaciones como en el desarrollo de la tienda o aplicaciones, proporcionando orientación sobre cómo restaurar el desempeño esperado de tu tienda.
 
->ℹ️ ¿Deseas contribuir a esta iniciativa? Rellena este [Formulario de feedback](https://forms.gle/PdVNZmMDMjiDfJaf8).
+<div class="alert alert-info" role="alert"> 
+  ¿Deseas contribuir a esta iniciativa? Rellena este <a href="https://forms.gle/PdVNZmMDMjiDfJaf8">Formulario de feedback</a>.
+</div>
 
 ## ¿Cómo están organizadas las guías de resolución de problemas?
-Las guías de resolución de problemas están disponibles en el [Help Center](https://help.vtex.com/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) e [Developer Portal](https://developers.vtex.com/docs/troubleshooting), y se dividen en las siguientes categorías:
+Las guías de resolución de problemas están disponibles en el [Help Center](/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) e [Developer Portal](https://developers.vtex.com/docs/troubleshooting), y se dividen en las siguientes categorías:
 
-- [Help Center](https://help.vtex.com/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
-  - [Operaciones de la tienda](https://help.vtex.com/es/subcategory/operaciones-de-la-tienda--2Q0IQjRcOqSgJTh6wRHVMB): sección destinada a resolver las dificultades encontradas en las operaciones de la plataforma y tiendas de ecommerce.
+- [Help Center](/es/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
+  - [Operaciones de la tienda](/es/subcategory/operaciones-de-la-tienda--2Q0IQjRcOqSgJTh6wRHVMB): sección destinada a resolver las dificultades encontradas en las operaciones de la plataforma y tiendas de ecommerce.
 
 - [Developer Portal](https://developers.vtex.com/docs/troubleshooting)
   - **Development**: sección destinada a tratar errores relacionados con el desarrollo de storefronts y aplicaciones.
   - **Store performance**: sección con procedimientos para depurar errores y restaurar el funcionamiento de la tienda en caso de que esté inoperativa o fuera de línea. 
 
->ℹ️ En el momento de la publicación de este anuncio, ya están disponibles 15 guías para consulta y se están elaborando más.
+<div class="alert alert-info" role="alert"> 
+En el momento de la publicación de este anuncio, ya están disponibles 15 guías para consulta y se están elaborando más.
+</div>
 
 ## ¿Por qué creamos esta iniciativa?
 Nuestro objetivo es hacer que la experiencia de soporte de VTEX sea más sencilla y eficiente. Con las nuevas guías de resolución de problemas podrás:

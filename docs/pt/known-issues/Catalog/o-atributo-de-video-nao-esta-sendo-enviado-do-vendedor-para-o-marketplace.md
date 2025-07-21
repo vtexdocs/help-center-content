@@ -1,5 +1,5 @@
 ---
-title: 'O atributo de vídeo não está sendo enviado do vendedor para o marketplace'
+title: "O atributo de vídeo não está sendo enviado do vendedor para o marketplace"
 id: 6JfHpP6F8TGmJofoKc99ON
 status: PUBLISHED
 createdAt: 2022-02-07T20:07:23.358Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: video-attribute-is-not-being-sent-from-seller-to-marketplace
+slugEN: o-atributo-de-video-nao-esta-sendo-enviado-do-vendedor-para-o-marketplace
 locale: pt
 kiStatus: No Fix
 internalReference: 519412
@@ -18,7 +18,9 @@ internalReference: 519412
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As integrações VTEX<>VTEX não estão conseguindo enviar atributos de vídeo do vendedor para o marketplace.

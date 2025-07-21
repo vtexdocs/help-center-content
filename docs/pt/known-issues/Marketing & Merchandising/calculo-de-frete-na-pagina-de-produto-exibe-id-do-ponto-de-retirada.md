@@ -1,5 +1,5 @@
 ---
-title: 'Cálculo de frete na página de produto exibe ID do ponto de retirada'
+title: "Cálculo de frete na página de produto exibe ID do ponto de retirada"
 id: 4NJrWgCGXSKe2aKWo4UYUY
 status: PUBLISHED
 createdAt: 2018-06-01T12:59:25.406Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: shipping-calculation-on-product-page-displays-pickup-point-id
+slugEN: calculo-de-frete-na-pagina-de-produto-exibe-id-do-ponto-de-retirada
 locale: pt
 kiStatus: Backlog
 internalReference: 

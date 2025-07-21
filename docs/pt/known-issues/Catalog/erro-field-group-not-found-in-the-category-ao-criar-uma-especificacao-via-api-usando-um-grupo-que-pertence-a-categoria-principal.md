@@ -1,5 +1,5 @@
 ---
-title: "Erro 'Field Group not found in the category' ao criar uma especificação via API usando um grupo que pertence à categoria principal"
+title: 'Erro "Field Group not found in the category" ao criar uma especificação via API usando um grupo que pertence à categoria principal'
 id: 2xkVJw4JcfdhgV1Ag2HdGu
 status: PUBLISHED
 createdAt: 2024-10-01T19:01:14.594Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: error-field-group-not-found-in-the-category-when-creating-specification-via-api-using-group-that-belongs-to-parent-category
+slugEN: erro-field-group-not-found-in-the-category-ao-criar-uma-especificacao-via-api-usando-um-grupo-que-pertence-a-categoria-principal
 locale: pt
 kiStatus: Backlog
 internalReference: 1109219
@@ -18,7 +18,9 @@ internalReference: 1109219
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 É possível criar uma especificação usando a seguinte API:

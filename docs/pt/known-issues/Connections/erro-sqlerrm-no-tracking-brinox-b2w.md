@@ -1,5 +1,5 @@
 ---
-title: 'Erro sqlerrm no tracking Brinox - B2W'
+title: "Erro sqlerrm no tracking Brinox - B2W"
 id: 6OGP86nyRHLgVOO31R2zMm
 status: PUBLISHED
 createdAt: 2022-09-28T17:55:48.995Z
@@ -18,7 +18,9 @@ internalReference: 643287
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

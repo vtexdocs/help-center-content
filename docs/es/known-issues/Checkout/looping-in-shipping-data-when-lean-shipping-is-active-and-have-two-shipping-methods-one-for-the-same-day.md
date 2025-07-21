@@ -1,5 +1,5 @@
 ---
-title: 'Looping in shipping data when lean shipping is active and have two shipping methods, one for the same day'
+title: "Looping in shipping data when lean shipping is active and have two shipping methods, one for the same day"
 id: 2XVEHwNsoDNql5fcRgSIeV
 status: PUBLISHED
 createdAt: 2022-11-04T15:29:29.976Z
@@ -18,13 +18,19 @@ internalReference: 373868
 
 ## Sumario
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 
 ## Simulación
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+<div class="alert alert-warning">
+  <p>Este contenido sólo está disponible en Inglês.</p>
+</div>
 

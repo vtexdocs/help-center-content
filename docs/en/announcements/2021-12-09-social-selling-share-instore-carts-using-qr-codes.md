@@ -41,4 +41,4 @@ For stores that already use Social Selling in inStore, the update is automatic.
 
 If you would like to use inStore Social Selling, you need to[ contact the VTEX support team](https://support.vtex.com/hc/en-us/requests) and request the installation.
 
-For more information, read the article [Sharing shopping cart using inStore Social Selling](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+For more information, read the article [Sharing shopping cart using inStore Social Selling](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).

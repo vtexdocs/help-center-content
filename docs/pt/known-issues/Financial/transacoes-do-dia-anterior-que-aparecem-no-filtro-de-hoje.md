@@ -1,5 +1,5 @@
 ---
-title: ' Transações do dia anterior que aparecem no filtro de hoje'
+title: "Transações do dia anterior que aparecem no filtro de hoje"
 id: 6WFNfXrSfOy5I7OEVS1MRj
 status: PUBLISHED
 createdAt: 2019-06-14T18:18:01.260Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 4iKDU1m0huXy1qFWff7vY5
 tag: Payments
-slugEN: previous-day-transactions-appearing-when-filtering-with-todays-date
+slugEN: transacoes-do-dia-anterior-que-aparecem-no-filtro-de-hoje
 locale: pt
 kiStatus: Backlog
 internalReference: 

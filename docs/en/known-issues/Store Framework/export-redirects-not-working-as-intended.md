@@ -1,5 +1,5 @@
 ---
-title: 'Export Redirects not working as intended'
+title: "Export Redirects not working as intended"
 id: 5WoiJDQCSMDCwCn1auNwC4
 status: PUBLISHED
 createdAt: 2022-04-05T12:53:18.824Z

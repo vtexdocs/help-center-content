@@ -1,5 +1,5 @@
 ---
-title: 'O Formulário de endereço não é exibido quando o comprador opta por inserir um novo endereço'
+title: "O Formulário de endereço não é exibido quando o comprador opta por inserir um novo endereço"
 id: 4HOP82OvC4smfjPFT8aXJA
 status: PUBLISHED
 createdAt: 2024-07-05T21:16:00.552Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: address-form-is-not-shown-when-the-shopper-opts-to-insert-a-new-address
+slugEN: o-formulario-de-endereco-nao-e-exibido-quando-o-comprador-opta-por-inserir-um-novo-endereco
 locale: pt
 kiStatus: Backlog
 internalReference: 1061637
@@ -18,7 +18,9 @@ internalReference: 1061637
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, quando um comprador identificado tenta adicionar um novo endereço na etapa de envio do checkout, uma mensagem solicitando autenticação é solicitada, mas o formulário de endereço não é exibido e não pode ser preenchido.

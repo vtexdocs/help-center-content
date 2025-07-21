@@ -1,5 +1,5 @@
 ---
-title: 'Edição na Busca Explicada de buscas com acentos'
+title: "Edição na Busca Explicada de buscas com acentos"
 id: 5rh2FSzIeSjnO7bUlEkJ9S
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:57.268Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: issue-on-the-explained-search-for-searches-with-accent-marks
+slugEN: edicao-na-busca-explicada-de-buscas-com-acentos
 locale: pt
 kiStatus: No Fix
 internalReference: 434752
@@ -18,7 +18,9 @@ internalReference: 434752
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao utilizar a Busca Explicada no administrador para depurar e pesquisar um produto com acento no nome como por exemplo "Pão Francês", temos um sinônimo funcionando como esperado, mas esta informação não é refletida na tela para a equipe depurar e verificar se está funcionando.

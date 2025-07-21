@@ -1,5 +1,5 @@
 ---
-title: 'Recogidas no permite más de 1000 SKU por carga'
+title: "Recogidas no permite más de 1000 SKU por carga"
 id: 4XC2ZLCsBkQhexRB4YrNMn
 status: PUBLISHED
 createdAt: 2023-04-19T13:53:02.339Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-does-not-allow-more-than-1000-skus-per-upload
+slugEN: recogidas-no-permite-mas-de-1000-sku-por-carga
 locale: es
 kiStatus: Backlog
 internalReference: 793274
@@ -18,7 +18,9 @@ internalReference: 793274
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, no es posible subir artículos al nuevo módulo de colecciones con una lista que tenga más de 1000 SKUs, ya que el proceso se agotará.

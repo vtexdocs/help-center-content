@@ -17,11 +17,13 @@ announcementSynopsisES: 'My Authentication es una pestaña de My Account que per
 
 My Authentication es una pestaña que aparece en el panel de My Account dentro de la tienda y está disponible en todas las cuentas VTEX.
 
->❗ Este cambio afectará a todas las tiendas VTEX. Debido a que el cambio interfiere en algunos componentes de la interfaz de usuario de la tienda, es necesario realizar cambios manuales en la configuración de la tienda antes de la fecha límite del 29 de septiembre.
+<div class="alert alert-danger">
+Este cambio afectará a todas las tiendas VTEX. Debido a que el cambio interfiere en algunos componentes de la interfaz de usuario de la tienda, es necesario realizar cambios manuales en la configuración de la tienda antes de la fecha límite del 29 de septiembre.
+</div>
 
 ## ¿Qué cambia?
 
-En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](https://help.vtex.com/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
+En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ![My Authentication app ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-07-26-pestana-my-authentication-de-my-account_1.png)
 
@@ -53,7 +55,9 @@ Debido a que la habilitación de la pestaña inserta un elemento en la interfaz 
 - Si su tienda es VTEX IO, utilice la dirección `https://{account}.myvtex.com/account#/authentication`, sustituyendo `{account}` por el nombre de la cuenta.
 - Si su tienda no usa VTEX IO, utilice la dirección `https://{account}.vtexcommercestable.com.br/_secure/account#/authentication`, sustituyendo `{account}` por el nombre de la cuenta.
 
->⚠️ Antes de acceder a la pestaña de autentificación a través de la URL es necesario acceder a la tienda con una cuenta de usuario.
+<div class="alert alert-warning">
+Antes de acceder a la pestaña de autentificación a través de la URL es necesario acceder a la tienda con una cuenta de usuario.
+</div>
 
 Para realizar la personalización de la apariencia de la pestaña, pida al desarrollador que consulte el artículo [My Authentication Customization Guide using CMS](https://developers.vtex.com/vtex-rest-api/docs/ui-customization-my-authentication), para las tiendas que no usan VTEX IO, o el artículo [My Authentication Customization Guide on VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-my-authentication), para las tiendas de VTEX IO, en nuestro portal del desarrollador.
 

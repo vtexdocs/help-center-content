@@ -14,7 +14,9 @@ locale: en
 legacySlug: como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja
 ---
 
->⚠️ Tutorial valid only for Legacy CMS Stores.
+<div class="alert alert-warning">
+  Tutorial valid only for Legacy CMS Stores.
+</div>
 
 In this article, you will learn how to find the origin of the problem. The first step is to block front-end customizations. Depending on the website’s response, you will be able to identify whether the problem is in the information that VTEX delivers natively or in your page customization.
 

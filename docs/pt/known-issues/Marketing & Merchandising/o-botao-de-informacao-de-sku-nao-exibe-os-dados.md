@@ -1,5 +1,5 @@
 ---
-title: 'O botão de informação de SKU não exibe os dados'
+title: "O botão de informação de SKU não exibe os dados"
 id: 3Pa3Kx653YbONJF4XWu5Hp
 status: PUBLISHED
 createdAt: 2021-08-20T20:05:29.918Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: the-product-information-button-does-not-display-the-data
+slugEN: o-botao-de-informacao-de-sku-nao-exibe-os-dados
 locale: pt
 kiStatus: Backlog
 internalReference: 

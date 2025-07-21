@@ -3,8 +3,8 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2024-06-07T20:19:30.086Z
-publishedAt: 2024-06-07T20:19:30.086Z
+updatedAt: 2025-05-06T14:07:44.336Z
+publishedAt: 2025-05-06T14:07:44.336Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
 productTeam: Master Data
@@ -21,13 +21,17 @@ Por padrão, o Master Data é usado para armazenar e organizar dados de clientes
 
 Neste artigo você saberá mais detalhes sobre cada versão disponível do Master Data, conceitos importantes e como utilizar.
 
->ℹ️ Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
+<div class = "alert alert-info">
+Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
+</div>
 
 ## Versões disponíveis
 
 Atualmente existem duas versões disponíveis e você pode escolher aquela que melhor se adequa às necessidades da sua operação. A principal diferença entre as duas é que a v2 não possui interface gráfica, podendo ser utilizada apenas por meio da [API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), ainda que possua outras funcionalidades relevantes, como o uso de [JSON schemas](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
->ℹ️ Vale ressaltar a plataforma VTEX nativamente salva dados de clientes da sua loja no Master Data v1.
+<div class = "alert alert-info">
+A VTEX automaticamente salva dados de clientes da sua loja no Master Data v1.
+</div>
 
 Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão versões se diferem.
 
@@ -189,23 +193,13 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
                </ul>
             </td>
          </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">VTable</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li><a href="https://developers.vtex.com/docs/guides/vtable"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">VTable</a></li>
-               </ul>
-            </td>
-         </tr>
       </tbody>
    </table>
 </div>
 
->❗ Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
+<div class="alert alert-danger">
+Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
+</div>
 
 ## Componentes básicos
 
@@ -237,7 +231,7 @@ Os atributos que compõem documentos do Master Data são chamados de campos. Na 
 
 Por exemplo, em uma entidade que guarda dados de clientes da loja, como `CL` ou `Client`, podemos preencher campos como **nome**, **email**, **data de nascimento** e **documento**.
 
-No Master Data v1, campos devem ser preenchidos no formato específico configurado na entidade de dados. Saiba mais sobre os [tipos de campos no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos).
+No Master Data v1, campos devem ser preenchidos no formato específico configurado na entidade de dados. Saiba mais sobre os [tipos de campos no Master Data v1](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos).
 
 Já na v2, não há restrição de campos e formatos a princípio. Validação de formato acontece por meio de [JSON schemas](#v2-schemas).
 
@@ -253,7 +247,9 @@ Como mencionado acima, cada documento tem um ID gerado automaticamente pela plat
 
 Por exemplo, é possível consultar um documento com informações de um cliente especificando o valor do campo `email` referente ao cliente.
 
->ℹ️ Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
+<div class = "alert alert-info">
+Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
+</div>
 
 ## Triggers
 
@@ -262,19 +258,23 @@ Um trigger do Master Data é um mecanismo que executa uma ação após a criaç�
 - Enviar email.
 - Salvar documento em outra entidade de dados.
 
-Saiba mais sobre como [configurar triggers no Master Data v1](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) ou como [configurar triggers com a API do Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
+Saiba mais sobre como [configurar triggers no Master Data v1](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) ou como [configurar triggers com a API do Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
 
 ## v2 schemas
 
 Com a v2 do Master Data, você pode definir formatos de dados com JSON schemas. Este formato indica como o Master Data deve validar e indexar documentos.
 
->ℹ️ Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
+<div class = "alert alert-info">
+  Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
+</div>
 
 Você pode salvar um documento em qualquer entidade de dados se o conteúdo for um JSON válido. Uma entidade de dados pode ou não ter múltiplos JSON schemas associados.
 
 ![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20basics/master-data_1.jpg)
 
->ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
+<div class = "alert alert-info">
+Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
+</div>
 
 ## Casos de uso
 
@@ -290,5 +290,5 @@ Saiba como configurar [testes A/B com Master Data v2](https://developers.vtex.co
 
 O Master Data também pode ser utilizado para criar integrações de carrinho abandonado. Ou seja, a realização de ações automáticas sempre que um cliente adicionar produtos no carrinho da sua loja e terminar sua sessão sem finalizar a compra.
 
-Para saber mais veja este guia sobre [configuração de carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740)
+Para saber mais veja este guia sobre [configuração de carrinho abandonado](/pt/tutorial/configurar-carrinho-abandonado--tutorials_740)
 

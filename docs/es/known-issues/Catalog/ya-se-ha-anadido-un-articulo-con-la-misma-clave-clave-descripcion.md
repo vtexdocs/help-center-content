@@ -1,5 +1,5 @@
 ---
-title: "'Ya se ha añadido un artículo con la misma clave. Clave: descripción'"
+title: "Ya se ha añadido un artículo con la misma clave. Clave: descripción"
 id: 5eGfoHuVu83bqGvSOvDF5z
 status: PUBLISHED
 createdAt: 2024-08-20T14:40:23.496Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: an-item-with-the-same-key-has-already-been-added-key-description
+slugEN: ya-se-ha-anadido-un-articulo-con-la-misma-clave-clave-descripcion
 locale: es
 kiStatus: Backlog
 internalReference: 1084015
@@ -18,7 +18,9 @@ internalReference: 1084015
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la aplicación de ventas puede encontrarse con un problema a la hora de cargar correctamente las páginas de los productos en los que el campo de producto "descripción" también tiene registrada la propia palabra "descripción".

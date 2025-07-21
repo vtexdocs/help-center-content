@@ -1,5 +1,5 @@
 ---
-title: 'delayToAutoSettleAfterAntifraud activación de la captura automática incluso sin antifraude'
+title: "delayToAutoSettleAfterAntifraud activación de la captura automática incluso sin antifraude"
 id: 4HjKZsCbSTJSYE49xij9C8
 status: PUBLISHED
 createdAt: 2023-05-08T19:59:07.523Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: delaytoautosettleafterantifraud-triggering-automatic-capture-even-without-antifraud
+slugEN: delaytoautosettleafterantifraud-activacion-de-la-captura-automatica-incluso-sin-antifraude
 locale: es
 kiStatus: Backlog
 internalReference: 369633
@@ -18,7 +18,9 @@ internalReference: 369633
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando la transacción **NO** tiene antifraude, se toma el valor más corto entre `delayToAutoSettle` y `delayToAutoSettleAfterAntifraud`. En este caso, el responsable de la captura es el `EarlySettlementWorker`, que es el trabajador de captura anticipada. Técnicamente, es el trabajador que se llama después de que el antifraude se realice, pero cuando no hay uno, comienza su cuenta atrás después de la autorización del pago.

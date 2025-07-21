@@ -15,7 +15,7 @@ legacySlug: seller-management-beta
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-**Seller Management** is the page where marketplace operators [add sellers](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392), input their information, and manage their status. The page features metrics that allow marketplaces to assess their operation. It is also possible to apply filters to the seller list and group sellers using the _Group_ option. 
+**Seller Management** is the page where marketplace operators [add sellers](/en/tutorial/adicionar-seller--tutorials_392), input their information, and manage their status. The page features metrics that allow marketplaces to assess their operation. It is also possible to apply filters to the seller list and group sellers using the _Group_ option. 
 
 ![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Management/seller-management_1.gif)
 
@@ -26,7 +26,7 @@ The page displays general metrics for the sellers:
 - **Total sellers:** All sellers integrated to the marketplace, including active and paused sellers.    
 - **Active sellers:** Sellers who are receiving orders in the marketplace. By clicking on this metric, the list will be filtered by active sellers. To activate a seller, click on its status in the list and select _active_.    
 - **Paused sellers:** Sellers who are not listed on the storefront and no longer receive orders in the marketplace. By clicking on this metric, the list will be filtered by paused sellers. To pause a seller, click on its status in the list and select _paused_.      
-- **Pending offers:** All pending offers from your sellers, within a period of 180 days. By clicking on this metric, you will be redirected to the [Received SKUs](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) page.    
+- **Pending offers:** All pending offers from your sellers, within a period of 180 days. By clicking on this metric, you will be redirected to the [Received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) page.    
 
 ## Filters
 
@@ -34,8 +34,8 @@ You can use the search bar to search for a seller by name, ID, company registrat
 
 - **Status:** Whether the seller is active or paused.    
 - **Integration:** The type of integration used for each seller.    
- - **Visibility:** Whether the seller's store is visible in your marketplace storefront or whether the seller is a [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), whose store is not displayed to the customer.     
-- **Groups:** Allows you to group sellers with similar characteristics. This filter includes the groups created when [Adding a seller](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392) or Managing groups.  
+ - **Visibility:** Whether the seller's store is visible in your marketplace storefront or whether the seller is a [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), whose store is not displayed to the customer.     
+- **Groups:** Allows you to group sellers with similar characteristics. This filter includes the groups created when [Adding a seller](/en/tutorial/adicionar-seller--tutorials_392) or Managing groups.  
 
 ## Groups
 Groups help your operation manage multiple sellers in a more efficient and scalable way. Sellers can be grouped into one or more groups according to your needs, using names of your choice. You can manually create, edit, and delete groups when adding a seller.
@@ -90,16 +90,18 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 - **Seller details:** Redirects to the Seller details page, where you can view or edit information.  
 - **Orders:** Redirects to the All orders page in the VTEX OMS, filtered by the orders from the selected seller.  
 
->ℹ️ Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
+<div class="alert alert-info">
+Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
+  </div>
 
 ### Identifiable sellers and unidentifiable sellers (white label)
 
 The _label _icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
 
 - **Identifiable seller:** The seller is visible in your marketplace storefront and can be chosen by the consumer. The filled label icon means that the seller is identifiable.  
-- **Unidentifiable seller (white label):** [White label sellers](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  
+- **Unidentifiable seller (white label):** [White label sellers](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  
 
-If you would like to add a white label seller, this model must be covered by your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation.
+If you would like to add a white label seller, this model must be covered by your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation.
 
 ### Bulk actions
 You can perform bulk actions by clicking on the checkbox on the left of the list to select multiple sellers. A menu will be displayed with the options to **pause**, **activate**, or **add sellers to a group**.
@@ -107,6 +109,6 @@ You can perform bulk actions by clicking on the checkbox on the left of the list
 By pausing sellers, you can catalog their offers and perform all the necessary tests before making them available on your storefront to take orders, for example.
 
 ## Learn more
-- [Adding a seller](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392)
-- [Configuring a VTEX marketplace](https://help.vtex.com/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)  
-- [Actions for a VTEX marketplace operation](https://help.vtex.com/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Adding a seller](/en/tutorial/adicionar-seller--tutorials_392)
+- [Configuring a VTEX marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)  
+- [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)

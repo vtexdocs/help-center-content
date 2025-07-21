@@ -1,5 +1,5 @@
 ---
-title: 'Falta de respuesta al seleccionar artículos de regalo que no están disponibles'
+title: "Falta de respuesta al seleccionar artículos de regalo que no están disponibles"
 id: 2brpWqVbJLVoFlztAQPy3n
 status: PUBLISHED
 createdAt: 2022-09-30T16:40:09.600Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lack-of-feedback-while-selecting-gift-items-that-arent-available
+slugEN: falta-de-respuesta-al-seleccionar-articulos-de-regalo-que-no-estan-disponibles
 locale: es
 kiStatus: Fixed
 internalReference: 648767
@@ -18,7 +18,9 @@ internalReference: 648767
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La selección de un artículo de regalo en el carrito que no tiene existencias no proporcionará ninguna respuesta. Después de seleccionar el regalo, se realizará la solicitud de la API, pero cuando responda, la selección del regalo se eliminará sin más.

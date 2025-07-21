@@ -1,5 +1,5 @@
 ---
-title: 'El sistema de facturación por inferencia no funciona correctamente cuando hay el mismo SKUid en diferentes elementos de la matriz.'
+title: "El sistema de facturación por inferencia no funciona correctamente cuando hay el mismo SKUid en diferentes elementos de la matriz."
 id: 3fSQGwIPj0ekewMuaxPPEe
 status: PUBLISHED
 createdAt: 2024-03-28T19:00:12.852Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: inference-invoice-system-is-not-working-properly-when-there-are-same-skuid-in-different-array-items
+slugEN: el-sistema-de-facturacion-por-inferencia-no-funciona-correctamente-cuando-hay-el-mismo-skuid-en-diferentes-elementos-de-la-matriz
 locale: es
 kiStatus: Backlog
 internalReference: 1008459
@@ -18,7 +18,9 @@ internalReference: 1008459
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos tienen el mismo SKUid en un conjunto separado de artículos, esto ocurre en el momento de la compra en la caja por diferentes razones como el descuento a aplicar, por ejemplo.

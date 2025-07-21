@@ -15,7 +15,9 @@ legacySlug: associate-a-sku-to-a-trade-policy
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
->⚠️ This tutorial explains how to assign **existing SKUs** to a given [trade policy](https://help.vtex.com/en/tutorial/creating-a-sales-policy--563tbcL0TYKEKeOY4IAgAE). To add a new SKU, please read the tutorial [Adding SKUs](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+<div class="alert alert-warning" role="alert">
+  <p>This tutorial explains how to assign <b>existing SKUs</b> to a given <a href="https://help.vtex.com/en/tutorial/creating-a-sales-policy--563tbcL0TYKEKeOY4IAgAE">trade policy</a>. To add a new SKU, please read the tutorial <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ">Adding SKUs</a>.</p>
+</div>
 
 You can associate an SKU with one or more trade policies on the configuration page of each SKU.
 
@@ -27,6 +29,8 @@ You can associate an SKU with one or more trade policies on the configuration pa
 6. Mark the checkbox of the trade policy for B2B.
 7. At the bottom of the page, click on the `Save` button to save changes.
 
->⚠️ If no specific trade policy is selected on the SKU configuration, all trade policies will have access to the SKU.
+<div class="alert alert-warning" role="alert">
+  <p>If no specific trade policy is selected on the SKU configuration, all trade policies will have access to the SKU.</p>
+</div>
 
-Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256).
+Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](/en/tutorial/understanding-how-indexation-works--tutorials_256).

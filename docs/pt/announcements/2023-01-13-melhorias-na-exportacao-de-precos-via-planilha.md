@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Atualizamos o processo de exportação de preços via p
 
 No comércio digital, lojistas costumam atualizar preços com muita frequência para manter a competitividade de um produto. Quanto mais rápida é a alteração dos preços, maior é a chance de conversão de compras.
 
-Na VTEX, é possível alterar o preço várias vezes ao dia de acordo com a estratégia da sua loja. No módulo de Preços, é possível cadastrar ou alterar [preços base](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) ou [preços fixos](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) utilizando:
+Na VTEX, é possível alterar o preço várias vezes ao dia de acordo com a estratégia da sua loja. No módulo de Preços, é possível cadastrar ou alterar [preços base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) ou [preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) utilizando:
 
 - Admin VTEX
 - Planilha de preços
@@ -48,5 +48,5 @@ As mudanças foram realizadas pelo seguintes motivos:
 
 A nova experiência de exportação de preços está disponível para toda base de clientes VTEX. Para acessá-la,  entre no Admin VTEX em *Catálogo > Preços > Lista de preços* e clique no ícone <i class="fas fa-download"></i> para fazer a exportação dos preços.
 
-Para mais informações, leia o artigo [Exportação e importação via planilha de preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
+Para mais informações, leia o artigo [Exportação e importação via planilha de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Exibição da disponibilidade do produto atrasada ao usar vários canais de vendas'
+title: "Exibição da disponibilidade do produto atrasada ao usar vários canais de vendas"
 id: 7JluVogO4pom0l57UobYIP
 status: PUBLISHED
 createdAt: 2023-12-07T16:18:59.300Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-availability-display-delayed-when-using-multiple-sales-channels
+slugEN: exibicao-da-disponibilidade-do-produto-atrasada-ao-usar-varios-canais-de-vendas
 locale: pt
 kiStatus: Backlog
 internalReference: 949411
@@ -18,7 +18,9 @@ internalReference: 949411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exibição, para lojas de portais antigos, de produtos em PLPs é baseada no canal de vendas da loja e em seus dados básicos de disponibilidade.

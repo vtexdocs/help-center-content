@@ -1,5 +1,5 @@
 ---
-title: 'Problemas com BillingAddress que levam ao cancelamento de transações'
+title: "Problemas com BillingAddress que levam ao cancelamento de transações"
 id: 14RT6S4Hm7H30L0FBzdDRY
 status: PUBLISHED
 createdAt: 2024-05-06T16:34:12.989Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: issues-with-billingaddress-leading-to-transaction-cancellations
+slugEN: problemas-com-billingaddress-que-levam-ao-cancelamento-de-transacoes
 locale: pt
 kiStatus: Backlog
 internalReference: 1027901
@@ -18,7 +18,9 @@ internalReference: 1027901
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

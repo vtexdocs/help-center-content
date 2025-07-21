@@ -1,5 +1,5 @@
 ---
-title: 'Organizações inativas mostradas ao mudar de organização'
+title: "Organizações inativas mostradas ao mudar de organização"
 id: 9m120PVN0KvEluldvCPFP
 status: PUBLISHED
 createdAt: 2024-09-05T13:38:55.666Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: inactive-organizations-shown-when-changing-organizations
+slugEN: organizacoes-inativas-mostradas-ao-mudar-de-organizacao
 locale: pt
 kiStatus: Backlog
 internalReference: 1092989
@@ -18,7 +18,9 @@ internalReference: 1092989
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As organizações inativas são mostradas na lista ao mudar de organização. Embora seja possível selecionar, há uma validação durante o login, e a organização ativa seguinte na lista é selecionada.

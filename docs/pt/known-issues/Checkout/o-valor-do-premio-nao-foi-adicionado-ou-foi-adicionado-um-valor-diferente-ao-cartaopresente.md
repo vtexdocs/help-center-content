@@ -1,5 +1,5 @@
 ---
-title: 'O valor do prêmio não foi adicionado ou foi adicionado um valor diferente ao cartão-presente'
+title: "O valor do prêmio não foi adicionado ou foi adicionado um valor diferente ao cartão-presente"
 id: 3i9TwGKpYOkwnHUXDON9V7
 status: PUBLISHED
 createdAt: 2023-06-14T16:06:37.154Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: reward-value-not-added-or-have-a-different-value-added-to-gift-card
+slugEN: o-valor-do-premio-nao-foi-adicionado-ou-foi-adicionado-um-valor-diferente-ao-cartaopresente
 locale: pt
 kiStatus: Backlog
 internalReference: 844079
@@ -18,7 +18,9 @@ internalReference: 844079
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O valor do prêmio pode não ser ou ter um valor diferente adicionado ao cartão-presente do comprador quando a promoção estiver configurada para aplicar o valor do prêmio quando o status do pedido mudar para pagamento aprovado.

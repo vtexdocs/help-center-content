@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search not capturing sales events for FastStore'
+title: "Intelligent Search not capturing sales events for FastStore"
 id: 4sT3tm37DP6E6jWzYNHJQe
 status: PUBLISHED
 createdAt: 2024-06-05T22:21:23.343Z

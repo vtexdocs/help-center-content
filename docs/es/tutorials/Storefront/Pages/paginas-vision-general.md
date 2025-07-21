@@ -25,7 +25,7 @@ En Páginas, también puedes crear redirecciones de URL para redirigir a los vis
 
 En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales herramientas disponibles en la interfaz.
 
-![Páginas UI - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/paginas-vision-general_1.png)
+![Páginas UI - ES](https://images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
 
 | **Herramienta** | **Descripción** |
 | ---------- | ---------- |
@@ -37,5 +37,5 @@ En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales he
 ## Próximos pasos
 
 Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu storefront:
-- [Crear páginas de destino según el binding](https://help.vtex.com/es/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Gestionar redirecciones según el binding](https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Crear páginas de destino según el binding](/es/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
+- [Gestionar redirecciones según el binding](/es/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)

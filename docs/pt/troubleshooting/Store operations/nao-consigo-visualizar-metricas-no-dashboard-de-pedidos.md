@@ -36,7 +36,7 @@ Ajustar o período de comparação pode resolver o problema ao exibir métricas 
 ![Dashboard- PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_2.png)
 
 ### Aguarde a atualização das informações
-Considere o tempo de espera de 10 a 80 minutos para a atualização das informações no painel. Este período é necessário para que os dados sejam processados e exibidos corretamente. Para mais informações sobre o tempo de espera, acesse  [Comparação de períodos](https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete#comparacao-de-periodos).
+Considere o tempo de espera de 10 a 80 minutos para a atualização das informações no painel. Este período é necessário para que os dados sejam processados e exibidos corretamente. Para mais informações sobre o tempo de espera, acesse  [Comparação de períodos](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete#comparacao-de-periodos).
 
 ### Verifique as permissões de acesso
-Para visualizar as informações no dashboard, certifique de que você possui um perfil de acesso que contenha o [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) Insights Metrics. Para mais informações sobre os perfis de acesso e como configurá-los, acesse o artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Para visualizar as informações no dashboard, certifique de que você possui um perfil de acesso que contenha o [recurso](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) Insights Metrics. Para mais informações sobre os perfis de acesso e como configurá-los, acesse o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).

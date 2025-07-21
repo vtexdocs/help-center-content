@@ -1,5 +1,5 @@
 ---
-title: 'Problemas com os links de Minha conta'
+title: "Problemas com os links de Minha conta"
 id: 1p23CCNhJwnEXm501P9Nxh
 status: PUBLISHED
 createdAt: 2023-07-03T17:26:59.597Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: issues-with-my-account-links
+slugEN: problemas-com-os-links-de-minha-conta
 locale: pt
 kiStatus: Backlog
 internalReference: 522514
@@ -18,7 +18,9 @@ internalReference: 522514
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os links em Minha conta (menu do cabeçalho) não funcionam se o usuário já estiver na seção Minha conta

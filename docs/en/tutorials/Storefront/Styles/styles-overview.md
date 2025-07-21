@@ -32,4 +32,4 @@ To access it, log in to VTEX Admin, access **Storefront > Styles**, and check ou
 | New     | Create a new style template for your store’s website. |
 
 ## Next steps
-- [Customizing your store’s typography](https://help.vtex.com/en/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)
+- [Customizing your store’s typography](/en/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)

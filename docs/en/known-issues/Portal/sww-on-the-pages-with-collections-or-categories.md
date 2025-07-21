@@ -1,5 +1,5 @@
 ---
-title: 'SWW on the pages with collections or categories'
+title: "SWW on the pages with collections or categories"
 id: 2ip0Xv0lzakCou8Hztm1eU
 status: PUBLISHED
 createdAt: 2023-04-05T18:42:00.801Z

@@ -1,5 +1,5 @@
 ---
-title: 'O editor do site não permite alterações no modelo condicional'
+title: "O editor do site não permite alterações no modelo condicional"
 id: dGuXWBUUZdMB0nfndLPZ9
 status: PUBLISHED
 createdAt: 2023-07-13T20:05:31.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: site-editor-doesnt-allow-changes-on-the-conditional-template
+slugEN: o-editor-do-site-nao-permite-alteracoes-no-modelo-condicional
 locale: pt
 kiStatus: Backlog
 internalReference: 861920
@@ -18,7 +18,9 @@ internalReference: 861920
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um modelo é definido como condicional, não é possível fazer alterações nele por meio do editor do site.

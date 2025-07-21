@@ -1,5 +1,5 @@
 ---
-title: 'Problemas al insertar valores en la tarjeta regalo de fidelización en la caja'
+title: "Problemas al insertar valores en la tarjeta regalo de fidelización en la caja"
 id: 74bFvs0PmQzRGzkOdnwiLw
 status: PUBLISHED
 createdAt: 2023-11-28T17:16:34.758Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: issues-inserting-values-in-loyalty-gift-card-at-checkout
+slugEN: problemas-al-insertar-valores-en-la-tarjeta-regalo-de-fidelizacion-en-la-caja
 locale: es
 kiStatus: Backlog
 internalReference: 943629
@@ -18,7 +18,9 @@ internalReference: 943629
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar la tarjeta regalo de fidelización, los usuarios pueden tener una mala experiencia al seleccionar la opción "Utilizar sólo parte del valor", ya que no hay ningún botón "Añadir" después de rellenar "Valor a utilizar" (la entrada se acepta automáticamente), por lo que si un valor no se rellena lo suficientemente rápido, se actualizará sólo con los primeros dígitos, obligando al usuario a repetir el procedimiento. Esta experiencia es peor a través del sitio web para móviles.

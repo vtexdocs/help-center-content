@@ -1,5 +1,5 @@
 ---
-title: 'Tarjeta regalo ver sólo papel no disponible'
+title: "Tarjeta regalo ver sólo papel no disponible"
 id: l5ucYxnwN7ahSEpOyv8US
 status: PUBLISHED
 createdAt: 2024-08-02T12:42:45.811Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-view-only-role-not-available
+slugEN: tarjeta-regalo-ver-solo-papel-no-disponible
 locale: es
 kiStatus: Backlog
 internalReference: 1074878
@@ -18,7 +18,9 @@ internalReference: 1074878
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Aunque tenemos los recursos "Visor de Tarjetas de Regalo" y "Ver Tarjetas de Regalo" en el Producto "Tarjeta de Regalo" (Configuración de Cuenta > Roles de Usuario) ambos permiten a los usuarios crear y editar Tarjetas de Regalo.

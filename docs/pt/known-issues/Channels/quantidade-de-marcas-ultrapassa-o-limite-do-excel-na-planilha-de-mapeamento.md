@@ -1,5 +1,5 @@
 ---
-title: 'Quantidade de marcas ultrapassa o limite do excel na planilha de mapeamento'
+title: "Quantidade de marcas ultrapassa o limite do excel na planilha de mapeamento"
 id: 4sYUppK1iceta3rO6lLO1K
 status: PUBLISHED
 createdAt: 2021-08-31T18:18:28.874Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
-slugEN: the-number-of-brands-in-the-mapping-template-exceeds-the-excel-maximum-limit
+slugEN: quantidade-de-marcas-ultrapassa-o-limite-do-excel-na-planilha-de-mapeamento
 locale: pt
 kiStatus: Backlog
 internalReference: 

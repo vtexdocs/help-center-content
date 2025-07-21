@@ -1,5 +1,5 @@
 ---
-title: 'Alguns endereços preenchidos automaticamente pelo Google não podem ser salvos em My Account'
+title: "Alguns endereços preenchidos automaticamente pelo Google não podem ser salvos em My Account"
 id: DgYKHOqC0nnpHKEdcTeXQ
 status: PUBLISHED
 createdAt: 2022-04-28T19:44:12.222Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: some-addresses-autocompleted-by-google-are-not-able-to-be-saved-on-my-account
+slugEN: alguns-enderecos-preenchidos-automaticamente-pelo-google-nao-podem-ser-salvos-em-my-account
 locale: pt
 kiStatus: Fixed
 internalReference: 415388
@@ -18,7 +18,9 @@ internalReference: 415388
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns endereços retornados do campo de pesquisa do Google não estão sendo salvos quando adicionados por meio do fluxo Minha conta, e a interface do usuário não retorna nenhum feedback para o usuário.

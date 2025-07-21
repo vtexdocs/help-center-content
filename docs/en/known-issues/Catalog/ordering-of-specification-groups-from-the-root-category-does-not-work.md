@@ -1,5 +1,5 @@
 ---
-title: 'Ordering of specification groups from the root category does not work'
+title: "Ordering of specification groups from the root category does not work"
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z

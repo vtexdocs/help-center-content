@@ -1,5 +1,5 @@
 ---
-title: 'En la lista de direcciones disponibles de la interfaz de pago faltan datos de la dirección recién creada.'
+title: "En la lista de direcciones disponibles de la interfaz de pago faltan datos de la dirección recién creada."
 id: 1BEDcoXLVAs5L039eKXsXv
 status: PUBLISHED
 createdAt: 2024-07-05T21:08:40.994Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: available-addresses-list-on-checkout-ui-missing-data-for-newly-created-address
+slugEN: en-la-lista-de-direcciones-disponibles-de-la-interfaz-de-pago-faltan-datos-de-la-direccion-recien-creada
 locale: es
 kiStatus: Backlog
 internalReference: 1061630
@@ -18,7 +18,9 @@ internalReference: 1061630
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un usuario añade una nueva dirección durante el paso de envío de la caja, avanza al paso de pago y, a continuación, vuelve a la lista de direcciones disponibles del paso de envío, es posible que esta dirección recién creada no aparezca en la lista o que muestre información incompleta en la interfaz de usuario.

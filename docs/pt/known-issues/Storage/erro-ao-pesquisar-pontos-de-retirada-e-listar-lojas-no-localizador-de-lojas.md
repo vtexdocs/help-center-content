@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao pesquisar pontos de retirada e listar lojas no localizador de lojas'
+title: "Erro ao pesquisar pontos de retirada e listar lojas no localizador de lojas"
 id: Ycy0EPwfhPfDUx1abDMb2
 status: PUBLISHED
 createdAt: 2024-10-17T00:03:29.004Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator
+slugEN: erro-ao-pesquisar-pontos-de-retirada-e-listar-lojas-no-localizador-de-lojas
 locale: pt
 kiStatus: Backlog
 internalReference: 1118712
@@ -18,7 +18,9 @@ internalReference: 1118712
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao pesquisar um ponto de coleta em Logística, pode ocorrer o seguinte erro:

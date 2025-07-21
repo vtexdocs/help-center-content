@@ -1,5 +1,5 @@
 ---
-title: "La casilla de verificación 'Aplicar descuento sólo con el transportista seleccionado' no se mantiene en la interfaz de usuario."
+title: 'La casilla de verificación "Aplicar descuento sólo con el transportista seleccionado" no se mantiene en la interfaz de usuario.'
 id: 2gcsCgGhE4V1Hbp4ZkNO78
 status: PUBLISHED
 createdAt: 2024-08-21T20:17:29.685Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: checkbox-for-apply-discount-only-with-selected-carrier-does-not-persist-in-ui
+slugEN: la-casilla-de-verificacion-aplicar-descuento-solo-con-el-transportista-seleccionado-no-se-mantiene-en-la-interfaz-de-usuario
 locale: es
 kiStatus: Backlog
 internalReference: 1085241
@@ -18,7 +18,9 @@ internalReference: 1085241
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay un problema en el módulo de impuestos donde la opción "Aplicar el descuento sólo cuando uno de los transportistas anteriores es seleccionado por el cliente" no permanece marcada en la interfaz de usuario, a pesar de que se establece correctamente a través de la API.

@@ -1,5 +1,5 @@
 ---
-title: 'Rastreamento de pedido via JadLog retorna confirmação de entrega sem que o pedido tenha sido entregue'
+title: "Rastreamento de pedido via JadLog retorna confirmação de entrega sem que o pedido tenha sido entregue"
 id: 6tu2YbryI8gkiWiE0Ioe2g
 status: PUBLISHED
 createdAt: 2017-10-02T19:59:26.648Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Order Management
-slugEN: order-tracking-via-jadlog-returns-delivery-confirmation-without-the-order-being-delivered
+slugEN: rastreamento-pedido-jadlog-retorna-confirmacao-antes-da-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 

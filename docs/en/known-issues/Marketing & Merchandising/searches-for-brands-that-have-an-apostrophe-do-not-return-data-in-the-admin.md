@@ -1,5 +1,5 @@
 ---
-title: 'Searches for brands that have an apostrophe do not return data in the Admin'
+title: "Searches for brands that have an apostrophe do not return data in the Admin"
 id: 2Z3k2leNVmCoBIPmIPDrz2
 status: PUBLISHED
 createdAt: 2020-05-05T15:36:13.219Z

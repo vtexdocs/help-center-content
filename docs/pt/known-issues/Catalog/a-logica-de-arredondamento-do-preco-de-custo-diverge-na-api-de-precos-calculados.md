@@ -1,5 +1,5 @@
 ---
-title: 'A lógica de arredondamento do preço de custo diverge na API de preços calculados'
+title: "A lógica de arredondamento do preço de custo diverge na API de preços calculados"
 id: 744fWEh7fgMHwvidFEhlV
 status: PUBLISHED
 createdAt: 2023-06-12T17:15:06.190Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cost-price-rounding-logic-diverges-on-computed-prices-api
+slugEN: a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados
 locale: pt
 kiStatus: Backlog
 internalReference: 842336
@@ -18,7 +18,9 @@ internalReference: 842336
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, a API de preços computados tem uma propriedade chamada "preço de custo" que, em cenários específicos, pode mostrar uma diferença de 1 centavo entre seu valor na interface do usuário e a API de preços computados https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-

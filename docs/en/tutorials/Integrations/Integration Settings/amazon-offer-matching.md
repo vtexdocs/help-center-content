@@ -15,7 +15,7 @@ legacySlug: amazon-offer-matching
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Every time a [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) with an [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) from VTEX is sent to Amazon, the marketplace performs a process called matching, which consists of grouping offers for the same product based on their EAN.  
+Every time a [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) with an [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) from VTEX is sent to Amazon, the marketplace performs a process called matching, which consists of grouping offers for the same product based on their EAN.  
 
 On VTEX, the EAN is used to map the products with the corresponding [ASINs](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (*Amazon Standard Identification Number*) on Amazon. To map the equivalence between the EAN and the ASIN, manual matching is required. EAN and ASIN matches need to be exact for the offers to be linked correctly.  
 
@@ -59,13 +59,13 @@ See the tab structure below.
 
 ## Matching products manually  
 
-Once you have [sent](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) the products, they will be available on the __Amazon Offer Matching page__. To view the unapproved offers, go to the VTEX Admin and click *Marketplace >* __Amazon Offer Matching__ or use the search bar at the top of the page.  
+Once you have [sent](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) the products, they will be available on the __Amazon Offer Matching page__. To view the unapproved offers, go to the VTEX Admin and click *Marketplace >* __Amazon Offer Matching__ or use the search bar at the top of the page.  
 
 ### Single Offer Match  
 
 In the `Opportunities` tab, each listed product has the icon <i class="fas fa-ellipsis-v"></i>. Clicking on it will display two buttons: `View Details` and `View Suggested Offer`, which will redirect users to new pages. The first shows the single product match, while the second displays the suggested offer published on Amazon.
 See the buttons available on each page and their actions.
-- **`Reject` button:** It deletes the suggested match, and the seller will have to submit the product again, following the [product submission guide](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
+- **`Reject` button:** It deletes the suggested match, and the seller will have to submit the product again, following the [product submission guide](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
 - **`Reject and request review` button:** If the seller disagrees with the matching suggestion and wants to request a review from Amazon, they should choose this option. Clicking this button will take the seller to the Amazon ticket page and remove the matching suggestion from the **opportunities** list.
 This review can be tracked via the Amazon ticket dashboard.
 - **`Publish` button:** If the seller agrees with the Amazon suggestion, they should click `Publish`.
@@ -96,6 +96,6 @@ As you select the products, the following pop-up will appear on the screen showi
 
 Once confirmed, your offers will be sent and queued for processing. After approval, they will appear in the __Offers tab__, where you can __"View details of your offer"__, __"View offer suggested by Amazon"__, and __search for__ offers using the search bar.  
 
-Offers that have no matches must be sent again. To resend an offer, follow the steps in the [Sending products to Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) tutorial.
-Before resending an offer, make sure that the `Global category` and `EAN` fields are configured by following the steps in [Pre-configuring the catalog](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#3-pre-configuracoes-no-catalogo) and that all products meet the [required attributes on Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
+Offers that have no matches must be sent again. To resend an offer, follow the steps in the [Sending products to Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) tutorial.
+Before resending an offer, make sure that the `Global category` and `EAN` fields are configured by following the steps in [Pre-configuring the catalog](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#3-pre-configuracoes-no-catalogo) and that all products meet the [required attributes on Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
 

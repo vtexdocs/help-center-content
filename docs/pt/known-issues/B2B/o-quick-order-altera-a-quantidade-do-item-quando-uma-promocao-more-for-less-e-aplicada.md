@@ -1,5 +1,5 @@
 ---
-title: 'O Quick Order altera a quantidade do item quando uma promoção More for Less é aplicada'
+title: "O Quick Order altera a quantidade do item quando uma promoção More for Less é aplicada"
 id: 2nixdZvlUVIXnY8h3pF60j
 status: PUBLISHED
 createdAt: 2024-10-24T14:40:29.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: quick-order-changes-items-quantity-when-a-more-for-less-promotion-is-applied
+slugEN: o-quick-order-altera-a-quantidade-do-item-quando-uma-promocao-more-for-less-e-aplicada
 locale: pt
 kiStatus: Backlog
 internalReference: 1123142
@@ -18,7 +18,9 @@ internalReference: 1123142
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao aplicar uma promoção Mais por Menos (mas qualquer promoção que divida itens terá o mesmo comportamento), o comportamento esperado é separar o item promocional dos itens regulares, mas isso não acontece no aplicativo Quick Order.

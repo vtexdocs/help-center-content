@@ -1,5 +1,5 @@
 ---
-title: 'Caráter especial no relatório do nome do vendedor'
+title: "Caráter especial no relatório do nome do vendedor"
 id: 13FMy6rGbNacrS7MUYTT48
 status: PUBLISHED
 createdAt: 2023-02-17T13:18:20.237Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: special-character-in-seller-name-report
+slugEN: carater-especial-no-relatorio-do-nome-do-vendedor
 locale: pt
 kiStatus: Backlog
 internalReference: 756243
@@ -18,7 +18,9 @@ internalReference: 756243
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Especificamente para o caráter especial ":", quando temos um vendedor com este caráter especial no nome, e tentamos filtrá-lo para a elaboração de relatórios, temos o seguinte quando o vemos em "devtools":

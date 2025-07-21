@@ -1,5 +1,5 @@
 ---
-title: 'Pedido xxx com status inválido'
+title: "Pedido xxx com status inválido"
 id: 47wnxyMKwus7haRmDwu8rW
 status: PUBLISHED
 createdAt: 2022-01-31T23:03:38.788Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: order-xxx-with-invalid-status
+slugEN: pedido-xxx-com-status-invalido
 locale: pt
 kiStatus: Backlog
 internalReference: 514613
@@ -18,7 +18,9 @@ internalReference: 514613
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

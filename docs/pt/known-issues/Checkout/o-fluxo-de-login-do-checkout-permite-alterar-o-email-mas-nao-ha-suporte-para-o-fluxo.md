@@ -1,5 +1,5 @@
 ---
-title: 'O fluxo de login do checkout permite alterar o e-mail, mas não há suporte para o fluxo'
+title: "O fluxo de login do checkout permite alterar o e-mail, mas não há suporte para o fluxo"
 id: 2wP6MBxvyd3kFDmlgYx4Tk
 status: PUBLISHED
 createdAt: 2023-05-03T18:09:50.683Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-login-flow-allows-changing-email-but-flow-is-not-supported
+slugEN: o-fluxo-de-login-do-checkout-permite-alterar-o-email-mas-nao-ha-suporte-para-o-fluxo
 locale: pt
 kiStatus: Backlog
 internalReference: 258447
@@ -18,7 +18,9 @@ internalReference: 258447
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao finalizar a compra com um e-mail informado e dados mascarados, será necessário fazer login se o comprador quiser alterar alguma informação. Na caixa de login que será aberta, o e-mail já estará preenchido com o contexto do carrinho, mas a interface permite que o e-mail "sugerido" seja modificado.

@@ -15,4 +15,4 @@ legacySlug: configurar-pago-con-pagaleve
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Este es un contenido exclusivo regional no aplicable a los países de habla hispana.
+<div class="alert alert-warning" role="alert">Este es un contenido exclusivo regional no aplicable a los países de habla hispana.</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Products with sku variations approved on Received Skus are being created with duplicated skus on the Catalog.'
+title: "Products with sku variations approved on Received Skus are being created with duplicated skus on the Catalog."
 id: 2RqrBOeHDBZmfmqe6Rowl2
 status: PUBLISHED
 createdAt: 2023-08-29T15:50:44.042Z

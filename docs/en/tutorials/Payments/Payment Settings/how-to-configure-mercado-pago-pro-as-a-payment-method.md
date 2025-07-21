@@ -15,7 +15,7 @@ legacySlug: setting-up-mercado-pago-pro-as-a-payment-method
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Mercado Pago Pro is a payment solution from Mercado Pago’s [digital wallet](https://help.vtex.com/en/tutorial/o-que-e-uma-carteira-digital-e-wallet--4v5wcOe4A0SiaimWM2cU60) (e-wallet).
+Mercado Pago Pro is a payment solution from Mercado Pago’s [digital wallet](/en/tutorial/o-que-e-uma-carteira-digital-e-wallet--4v5wcOe4A0SiaimWM2cU60) (e-wallet).
 
 To offer this payment option to your customers in SmartCheckout, first you must add a gateway affiliation and then configure Mercado Pago Pro as a payment method.
 
@@ -23,8 +23,8 @@ Before configuring the payment condition, you must ensure that the MercadoPagoV1
 
 If necessary, access the links below to configure the sub-acquirers:
 
-- [MercadoPagoV1](https://help.vtex.com/en/tutorial/setting-up-mercadopagov1-sub-acquirer--6wTlR3UTJe6YMAsEuquO26)
-- [MercadoPagoV2](https://help.vtex.com/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4)
+- [MercadoPagoV1](/en/tutorial/setting-up-mercadopagov1-sub-acquirer--6wTlR3UTJe6YMAsEuquO26)
+- [MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4)
 
 ## Configuring the Mercado Pago Pro payment method
 
@@ -41,9 +41,11 @@ Follow the instructions below:
 7. In __Process with affiliation__, select one of the options: __MercadoPagoV1__ or __MercadoPagoV2__.
 8. If necessary, mark the __“Use antifraud”__ checkbox.
 
-On the right side of the screen, you can configure [special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+On the right side of the screen, you can configure [special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 
 However, this step is optional. You can click directly on the __blue button “Save”__ to finish the payment method configuration.
 
->⚠️ Remember that new payment conditions can take up to 10 minutes to be displayed in  SmartCheckout.
+<div class="alert alert-warning">
+Remember that new payment conditions can take up to 10 minutes to be displayed in  SmartCheckout.
+</div>
 

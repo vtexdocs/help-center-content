@@ -1,5 +1,5 @@
 ---
-title: 'Attachment list on SKU UI can lead to timeouts'
+title: "Attachment list on SKU UI can lead to timeouts"
 id: 4LGpbu237ZeEZxv5DEl8BR
 status: PUBLISHED
 createdAt: 2024-11-11T20:08:32.198Z

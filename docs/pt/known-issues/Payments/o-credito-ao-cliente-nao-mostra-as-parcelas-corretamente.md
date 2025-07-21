@@ -1,5 +1,5 @@
 ---
-title: ' O crédito ao cliente não mostra as parcelas corretamente'
+title: "O crédito ao cliente não mostra as parcelas corretamente"
 id: 5qhiwp1EhfJepX6ZFqDsiG
 status: PUBLISHED
 createdAt: 2022-03-28T02:52:15.222Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: customer-credit-doesnt-show-installments-correctly
+slugEN: o-credito-ao-cliente-nao-mostra-as-parcelas-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 501730
@@ -18,7 +18,9 @@ internalReference: 501730
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 O crédito do cliente não exibe os diferentes valores entre regras com o mesmo número de parcelas e períodos diferentes. Para entender melhor este problema, devemos observar a porta de entrada e o comportamento do crédito do cliente:
 

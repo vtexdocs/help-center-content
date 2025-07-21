@@ -1,5 +1,5 @@
 ---
-title: 'Error in viewing the orders UI after requesting the invoice via App'
+title: "Error in viewing the orders UI after requesting the invoice via App"
 id: 1yrb25L1Skj3sRRWyiFDSA
 status: PUBLISHED
 createdAt: 2024-07-24T14:24:29.799Z

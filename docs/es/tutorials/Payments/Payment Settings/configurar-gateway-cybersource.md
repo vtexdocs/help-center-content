@@ -3,8 +3,8 @@ title: 'Configurar gateway CyberSource IO'
 id: 6nhvUTrLxeacsoYG6GkGM
 status: PUBLISHED
 createdAt: 2018-04-30T17:34:57.517Z
-updatedAt: 2024-04-22T14:35:34.191Z
-publishedAt: 2024-04-22T14:35:34.191Z
+updatedAt: 2025-03-07T13:27:18.752Z
+publishedAt: 2025-03-07T13:27:18.752Z
 firstPublishedAt: 2018-04-30T20:20:44.704Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ legacySlug: configurar-gateway-cybersource
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Cybersource es una empresa que ofrece varias soluciones para ayudar a gestionar los pagos en su tienda. Entre ellos se encuentran un [gateway](https://help.vtex.com/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) y un [antifraude](https://help.vtex.com/es/tutorial/que-es-antifraude--69SjFCc4rC6Ii0OMAeYAsG), ambos con integraciones disponibles en VTEX.
+Cybersource es una empresa que ofrece varias soluciones para ayudar a gestionar los pagos en su tienda. Entre ellos se encuentran un [gateway](/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) y un [antifraude](/es/tutorial/que-es-antifraude--69SjFCc4rC6Ii0OMAeYAsG), ambos con integraciones disponibles en VTEX.
 
-Si desea obtener más información sobre cómo integrar Cybersource antifraude en su tienda, vaya a [Configurar antifraude CyberSource](https://help.vtex.com/es/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
+Si desea obtener más información sobre cómo integrar Cybersource antifraude en su tienda, vaya a [Configurar antifraude CyberSource](/es/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
 
 Para utilizar el gateway Cybersource IO en su tienda, se requieren las siguientes acciones:
 
@@ -37,7 +37,9 @@ Las siguientes aplicaciones Cybersource deben estar instaladas en su cuenta de t
 - __vtex.cybersource__
 - __vtex.cybersource-payer-auth__
 
->⚠️ Si tiene la intención de utilizar el sistema antifraude de Cybersource, pero desea realizar transacciones de pagos en un gateway que no sea de Cybersource, deberá instalar la aplicación **vtex.cybersource-fraud**.
+<div class="alert alert-warning">
+Si tiene la intención de utilizar el sistema antifraude de Cybersource, pero desea realizar transacciones de pagos en un gateway que no sea de Cybersource, deberá instalar la aplicación <b>vtex.cybersource-fraud</b>.
+  </div>
 
 Conozca más sobre la instalación de aplicaciones en una cuenta VTEX en [Installing an app](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app). 
 
@@ -45,7 +47,9 @@ Conozca más sobre la instalación de aplicaciones en una cuenta VTEX en [Instal
 
 Después de instalar las aplicaciones, debe crear claves de autenticación en el entorno Cybersource.
 
->⚠️ Las configuraciones realizadas en un ambiente externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulte su cuenta Cybersource para obtener información actualizada.
+<div class="alert alert-warning">
+  Las configuraciones realizadas en un ambiente externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulte su cuenta Cybersource para obtener información actualizada.
+  </div>
 
 Siga los pasos a continuación:
 
@@ -132,10 +136,11 @@ Para procesar pagos con tarjeta de crédito a través de Cybersource, siga los p
 5. Active la condición en el campo __Status__.
 6. En __Procesar con proveedor__ selecciona la opción __Cybersource - IO__.
 7. Si desea utilizar un sistema antifraude, seleccione la opción __Usar antifraude__ y elija su proveedor preferido.
-8. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456). 
+8. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456). 
 9. Haga clic en __Guardar__.
 
->⚠️ Si anteriormente creó condiciones de pago con tarjeta de crédito para otros gateways (incluido el proveedor Cybersource legado), puede establecer esas condiciones en **Inactivas**. Las transacciones en curso iniciadas desde ese proveedor seguirán siendo procesadas por ese proveedor, incluso si está inactivo. El nuevo proveedor de Cybersource IO solo procesará las transacciones nuevas. Si necesita volver a su proveedor anterior por algún motivo, simplemente establezca sus condiciones de pago en **Activas** y las condiciones de pago de Cybersource IO en **Inactivas**.
+<div class="alert alert-warning">
+  Si anteriormente creó condiciones de pago con tarjeta de crédito para otros gateways (incluido el proveedor Cybersource legado), puede establecer esas condiciones en <b>Inactivas</b>. Las transacciones en curso iniciadas desde ese proveedor seguirán siendo procesadas por ese proveedor, incluso si está inactivo. El nuevo proveedor de Cybersource IO solo procesará las transacciones nuevas. Si necesita volver a su proveedor anterior por algún motivo, simplemente establezca sus condiciones de pago en <b>Activas</b> y las condiciones de pago de Cybersource IO en <b>Inactivas</b>.</div>
 
 ## Configurar Cybersource IO Device Fingerprint (opcional)
 
@@ -143,7 +148,9 @@ Device Fingerprint es un identificador que actúa en el procesamiento de un pago
 
 Mediante la recolección de datos no sensibles, Device Fingerprint identifica y analiza el nivel de seguridad del dispositivo utilizado para realizar la transacción, así como las transacciones que se realizaron previamente con este mismo dispositivo.
 
->ℹ️ Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+<div class="alert alert-info">
+Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+</div>
 
 Para configurar Device Fingerprint Cybersource IO, siga los pasos a continuación:
 
@@ -153,32 +160,33 @@ Para configurar Device Fingerprint Cybersource IO, siga los pasos a continuació
 4. En __Archivos__, haga clic en __checkout5.custom.js__.
 5. Ingrese el código a continuación en el campo de texto y haga clic en "Guardar".
 
-    function addsDeviceFingerPrint() {
-      if (!window.vtex) return;
-      if (window.vtex.deviceFingerprint) return;
-      $.ajax({
-type: 'get',
-async: true,
-url: rootPath() + '/api/sessions?items=*'
-      }).then(function(response) {
-var ORG_ID = "{{ORG_ID}}";
-var MERCHANT_ID = "{{MERCHANT_ID}}";
-console.log('session', response);
-window.vtex.deviceFingerprint = response.id;
-var sessionId = response.id || "CYBERSOURCE";
-var script = document.createElement("script");
-script.type = "text/javascript";
-script.src = `https://h.online-metrix.net/fp/tags.js?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
-document.head.appendChild(script);
-var noScript = document.createElement("noscript");
-var iframe = document.createElement("iframe");
-iframe.style = "width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;";
-iframe.src = `https://h.online-metrix.net/fp/tags?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
-noScript.appendChild(iframe);
-document.body.appendChild(noScript);
-      })
-    }
-
+```
+function addsDeviceFingerPrint() {
+  if (!window.vtex) return;
+  if (window.vtex.deviceFingerprint) return;
+  $.ajax({
+    type: 'get',
+    async: true,
+    url: rootPath() + '/api/sessions?items=*'
+  }).then(function(response) {
+    var ORG_ID = "{{ORG_ID}}";
+    var MERCHANT_ID = "{{MERCHANT_ID}}";
+    console.log('session', response);
+    window.vtex.deviceFingerprint = response.id;
+    var sessionId = response.id || "CYBERSOURCE";
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = `https://h.online-metrix.net/fp/tags.js?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
+    document.head.appendChild(script);
+    var noScript = document.createElement("noscript");
+    var iframe = document.createElement("iframe");
+    iframe.style = "width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;";
+    iframe.src = `https://h.online-metrix.net/fp/tags?org_id=${ORG_ID}&session_id=${MERCHANT_ID}${sessionId}`;
+    noScript.appendChild(iframe);
+    document.body.appendChild(noScript);
+  })
+}
+```
 ## Configurar campos de comerciante (opcional)
 
 Además, puede definir campos personalizados que se incluirán en los pedidos enviados desde VTEX a Cybersource. 

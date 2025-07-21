@@ -19,10 +19,10 @@ A new API, which gives more autonomy to marketplaces using VTEX, is already in s
 
 With this new status, marketplaces can recover sales that would be otherwise lost should a seller canceled an order. Now, they will still have time to find another seller with the requirements to accept the order and ensure conversion.
 
->⚠️ **Warning:**
->
->  
-> The "Window to change Seller" status is only available when both **Marketplace** and **Seller** are VTEX users. If there's no VTEX seller with the necessary inventory, the order will not proceed to the new status and will be canceled automatically.
+<div class="alert alert-warning">
+<strong>Warning:</strong><br> 
+The "Window to change Seller" status is only available when both <strong>Marketplace</strong> and <strong>Seller</strong> are VTEX users. If there's no VTEX seller with the necessary inventory, the order will not proceed to the new status and will be canceled automatically. 
+</div>
 
 This new feature allows marketplaces to have a more efficient quality control on the overall buying experience because they can also choose a different seller when the order status is "__Pending payment__" or "__Awaiting authorization__". Another possibility is for those stores that have white label sellers: now they're able to change the seller responsible for an order.
 

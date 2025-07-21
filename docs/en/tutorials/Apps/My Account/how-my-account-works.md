@@ -26,7 +26,9 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 - [Subscriptions](#subscriptions)
 - [Authentication](#authentication)
 
->ℹ️ To learn about **My Account** customization, see our developer documentation [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Be aware that VTEX does not offer support for **My Account** when customized.
+<div class = "alert alert-info">
+To learn about <b>My Account</b> customization, see our developer documentation <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Be aware that VTEX does not offer support for <b>My Account</b> when customized.
+</div>
 
 ## Profile
 
@@ -75,7 +77,9 @@ The `Add address` button allows customers to include new addresses besides the o
 
 ## Orders
 
->ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+<div class = "alert alert-info">
+In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
+</div>
 
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 
@@ -94,12 +98,12 @@ In **Order again**, the selected shopping cart will be duplicated. This means th
 
 ### Request Cancellation
 
-Customer may request cancellation of his or her order at any time. If requested during the[grace period for cancellation](https://help.vtex.com/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
-Learn more about [setting the grace period for order cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo) 
+Customer may request cancellation of his or her order at any time. If requested during the[grace period for cancellation](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
+Learn more about [setting the grace period for order cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo) 
 
 ### View order details
 
-By clicking on an order in the list, the customer will be able to view the details of that order, such as delivery address, payment method, and total amount. In addition, they can view tracking information and a timeline indicating the [order flow](https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196).
+By clicking on an order in the list, the customer will be able to view the details of that order, such as delivery address, payment method, and total amount. In addition, they can view tracking information and a timeline indicating the [order flow](/en/tutorial/fluxo-de-pedido--tutorials_196).
 
 Customers can also use the option [Order again](#order-again) in this page. By clicking on [More options](#more-options), the [Change order](#change-order) and [Request cancellation](#request-cancellation) features will be displayed (if enabled in your store and the order is in the `Handling shipping` status).
 
@@ -109,9 +113,9 @@ Customers can also use the option [Order again](#order-again) in this page. By c
 
 If the order is in the `Handling shipping` status, they can `Change order` by clicking on `More options` on the order details page.
 
-To provide this option, the retailer must [allow customers to change orders](https://help.vtex.com/en/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
+To provide this option, the retailer must [allow customers to change orders](/en/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
 
-The `More options` button allows customers to change their order information, such as address, payment method and items, without the need to place a new order or contact the store's customer service team. Read the article [How Order replacement works](https://help.vtex.com/en/tutorial/como-funciona-a-substituicao-de-pedidos) to learn more.
+The `More options` button allows customers to change their order information, such as address, payment method and items, without the need to place a new order or contact the store's customer service team. Read the article [How Order replacement works](/en/tutorial/como-funciona-a-substituicao-de-pedidos) to learn more.
 
 ## Credit cards
 
@@ -132,21 +136,21 @@ To add new cards, follow the steps below:
 
 ![Card ReCaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_4.gif)
 
-However, there are limitations for stores using [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication (V1 or V2) in their acquirers:
+However, there are limitations for stores using [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication (V1 or V2) in their acquirers:
 
-* If the customer tries to add a new card that has not been previously used in your store, the following message will be displayed: _There was an error while trying to save the card._ For more details, visit our documentation [The "Save new card" option does not work when using 3-D Secure (3DS)](https://help.vtex.com/en/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
+* If the customer tries to add a new card that has not been previously used in your store, the following message will be displayed: _There was an error while trying to save the card._ For more details, visit our documentation [The "Save new card" option does not work when using 3-D Secure (3DS)](/en/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
 * In **Subscriptions**, it is not possible to save the card and then enable the subscription option. For this reason, it is necessary to enable the subscription when making a purchase, so the card will be saved automatically.
 
 * If the credit card saved in the **Credit cards** section expires, the user will need to remove it and make a new purchase to save a new card. This is because 3DS authentication requires a transaction to update and confirm credit card details.
 
-* For marketplaces, the `Save card` option in the **Credit cards** section will not be available if the payment condition for that credit card is associated only with the [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). This is because the credit card validation occurs directly on the main account, through a test transaction that charges an amount of 1.50 USD on the given card. This amount is refunded after the card is verified.
+* For marketplaces, the `Save card` option in the **Credit cards** section will not be available if the payment condition for that credit card is associated only with the [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). This is because the credit card validation occurs directly on the main account, through a test transaction that charges an amount of 1.50 USD on the given card. This amount is refunded after the card is verified.
 
-    So, to save a credit card, the credit card [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) also needs to be associated with the main account, in this case, the Marketplace.
+    So, to save a credit card, the credit card [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) also needs to be associated with the main account, in this case, the Marketplace.
 
 ## Subscriptions
 
-In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#how-your-customers-view-and-manage-their-subscriptions) to learn more.
+In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#how-your-customers-view-and-manage-their-subscriptions) to learn more.
 
 ## Authentication
 
@@ -172,7 +176,9 @@ To change an existing password, follow the instructions below:
 4. Click on `SAVE PASSWORD`.
 ![My Authentication change password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/My%20Account/how-my-account-works_7.png)
 
->ℹ️ If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on **I forgot my password**.
+<div class="alert alert-info">
+If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on <strong>I forgot my password</strong>.
+</div>
 
 ### Session management
 

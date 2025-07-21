@@ -1,5 +1,5 @@
 ---
-title: 'Aparece un mensaje de error inesperado al seleccionar PayPal Plus en el checkout'
+title: "Aparece un mensaje de error inesperado al seleccionar PayPal Plus en el checkout"
 id: 5ZxTkuVCHrFXCnpf4Q5Nb7
 status: PUBLISHED
 createdAt: 2019-03-20T17:56:18.673Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: unexpected-error-message-is-displayed-when-selecting-paypal-plus-at-checkout
+slugEN: aparece-un-mensaje-de-error-inesperado-al-seleccionar-paypal-plus-en-el-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 

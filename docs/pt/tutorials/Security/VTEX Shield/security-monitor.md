@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2024-10-10T14:12:24.884Z
-publishedAt: 2024-10-10T14:12:24.884Z
+updatedAt: 2025-05-19T20:49:33.423Z
+publishedAt: 2025-05-19T20:49:33.423Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -15,7 +15,9 @@ legacySlug: security-monitor
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+<div class="alert alert-info">
+  <p>Esta funcionalidade faz parte do produto <a href="https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
+</div>
 
 O Security Monitor é um dashboard que auxilia lojistas a identificarem e gerenciarem riscos potenciais em sua conta em tempo real. A ferramenta identifica e notifica lojistas por email sobre riscos relacionados a configurações e comportamento de usuários administrativos, possibilitando ações preventivas contra vulnerabilidades de segurança.
 
@@ -36,6 +38,7 @@ Em todas as abas, é possível realizar as seguintes ações:
 
 * [Buscar descobertas](#buscar-descobertas)
 * [Filtrar descobertas por tipo](#filtrar-descobertas-por-tipo)
+* [Exportar descobertas](#exportar-descobertas)
 * [Editar configurações de notificações](#editar-configuracoes-de-notificacoes)
 
 A seguir, confira informações específicas sobre as informações disponíveis em cada aba e as ações relacionadas.
@@ -108,6 +111,38 @@ Ao clicar em <i class="fas fa-chevron-down"></i> `Tipo`, você pode escolher um 
 
 ![4-filter-findings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_4.png)
 
+## Exportar descobertas
+
+Para exportar as descobertas para um arquivo no formato CSV, siga os passos abaixo:
+
+1. Clique no botão `Exportar` no canto superior direito da tela.
+2. Selecione quais descobertas incluir no arquivo exportado:
+   * Todas as descobertas  
+   * Abertas  
+   * Silenciadas  
+   * Fechadas  
+3. Clique em `Exportar`. O arquivo gerado será enviado por email assim que estiver pronto.  
+4. Abra o email recebido e clique em `Download` para baixar o arquivo.
+
+### Informações presentes no arquivo exportado
+
+O arquivo CSV exportado contém as informações a seguir sobre cada descoberta:
+
+| Coluna | Descrição |
+| :---- | :---- |
+| *Id* | ID da descoberta. |
+| *Type* | Tipo de descoberta detectada. |
+| *Finding* | Email de usuário ou chave de aplicação relacionada à descoberta. |
+| *Sensor* | Sensor que detectou a ameaça (VTEX Identity). |
+| *Account* | Conta em que a ameaça foi detectada. |
+| *Severity* | Nível de severidade da ameaça, determinado pelo impacto ou potencial risco: <ul><li>High (alta)</li><li> Medium (média)</li><li> Low (baixa)</li></ul> |
+| *Detected* | Data e horário da descoberta, no formato DD/MM/AAAA hh:mm:ss. |
+| *Description* | Ação recomendada diante da descoberta. |
+| *Status* | Status da ameaça, que pode ser: <ul><li>Open (aberta)</li><li>Closed (fechada) </li><li> AutoClosed (fechada automaticamente)</li></ul> |
+| *Snoozed Until* | Data até quando a descoberta está silenciada, no formato DD/MM/AAAA hh:mm:ss. Este campo só é preenchido se a descoberta estiver silenciada. |
+| *Closed* | Data e horário em que a descoberta foi fechada, no formato DD/MM/AAAA hh:mm:ss. |
+| *Closed By* | Responsável por fechar a descoberta. |
+
 ## Editar configurações de notificações
 
 Para editar os usuários administrativos que vão receber notificações em caso de descobertas, siga os passos abaixo:
@@ -123,7 +158,7 @@ Para editar os usuários administrativos que vão receber notificações em caso
 
 ## Saiba mais
 
-* [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-* [Usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)
-* [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+* [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+* [Usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+* [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)

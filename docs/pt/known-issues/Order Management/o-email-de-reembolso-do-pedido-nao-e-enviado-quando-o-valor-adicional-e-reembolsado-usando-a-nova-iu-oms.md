@@ -1,5 +1,5 @@
 ---
-title: 'O e-mail de reembolso do pedido não é enviado quando o valor adicional é reembolsado usando a nova IU (OMS).'
+title: "O e-mail de reembolso do pedido não é enviado quando o valor adicional é reembolsado usando a nova IU (OMS)."
 id: 4nQanqQiHuAN6dT7iYYO26
 status: PUBLISHED
 createdAt: 2022-04-19T15:27:27.050Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-refund-email-not-getting-sent-when-additional-amount-is-refunded-using-new-ui-oms
+slugEN: o-email-de-reembolso-do-pedido-nao-e-enviado-quando-o-valor-adicional-e-reembolsado-usando-a-nova-iu-oms
 locale: pt
 kiStatus: Fixed
 internalReference: 563300
@@ -18,7 +18,9 @@ internalReference: 563300
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma ordem é devolvida pelo Marketplace através da "nova IU" e um valor "adicional" é inserido na "nova IU", ela gera um cartão de presente erroneamente e com isso, o Checkout retorna um erro dizendo "que não há valor a ser revertido e o e-mail transacional "vtexcommerce-order-refunded" não é enviado para o cliente final.

@@ -1,5 +1,5 @@
 ---
-title: 'Caracteres especiales en el nombre de la SKU rompe la selección de la SKU en las páginas del Portal Web Store PDP para la caja de radio Tipo de selección de la categoría'
+title: "Caracteres especiales en el nombre de la SKU rompe la selección de la SKU en las páginas del Portal Web Store PDP para la caja de radio Tipo de selección de la categoría"
 id: 1G4FSBVZqn44ke7YJTuBJA
 status: PUBLISHED
 createdAt: 2022-03-16T16:26:36.035Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: special-characters-on-the-sku-name-breaks-sku-selection-on-portal-web-store-pdp-pages-for-radio-box-category-type-of-selection
+slugEN: caracteres-especiales-en-el-nombre-de-la-sku-rompe-la-seleccion-de-la-sku-en-las-paginas-del-portal-web-store-pdp-para-la-caja-de-radio-tipo-de-seleccion-de-la-categoria
 locale: es
 kiStatus: No Fix
 internalReference: 337933
@@ -18,7 +18,9 @@ internalReference: 337933
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los caracteres especiales en el nombre de la SKU rompen la selección de la SKU en las páginas PDP del Portal Web Store para la selección del tipo de categoría de la caja de radio, por ejemplo, caracteres como `%`.

@@ -1,5 +1,5 @@
 ---
-title: 'La hoja de cálculo de imágenes no se importa. Mensaje de error: Fallo al procesar el registro.'
+title: "La hoja de cálculo de imágenes no se importa. Mensaje de error: Fallo al procesar el registro."
 id: 4HKn7B4b4Au5NFfg87Zu6T
 status: PUBLISHED
 createdAt: 2022-11-04T12:17:16.480Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: image-spreadsheet-not-importing-error-message-fail-to-process-record
+slugEN: la-hoja-de-calculo-de-imagenes-no-se-importa-mensaje-de-error-fallo-al-procesar-el-registro
 locale: es
 kiStatus: Backlog
 internalReference: 691803
@@ -18,7 +18,9 @@ internalReference: 691803
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

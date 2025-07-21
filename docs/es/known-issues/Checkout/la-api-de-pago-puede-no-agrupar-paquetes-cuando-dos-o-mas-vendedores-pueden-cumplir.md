@@ -1,5 +1,5 @@
 ---
-title: 'La API de pago puede no agrupar paquetes cuando dos o más vendedores pueden cumplir'
+title: "La API de pago puede no agrupar paquetes cuando dos o más vendedores pueden cumplir"
 id: 3nTRP8r3ZvoZ6UqC1RTbIb
 status: PUBLISHED
 createdAt: 2023-05-03T22:24:43.036Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-api-may-not-group-packages-when-two-or-more-sellers-can-fulfill
+slugEN: la-api-de-pago-puede-no-agrupar-paquetes-cuando-dos-o-mas-vendedores-pueden-cumplir
 locale: es
 kiStatus: Backlog
 internalReference: 802156
@@ -18,7 +18,9 @@ internalReference: 802156
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando dos o más vendedores pueden completar un carro con más de un artículo, es posible que la API de pago no agrupe los paquetes seleccionando vendedores diferentes para cada producto. Esto aumenta el valor del envío para el comprador.

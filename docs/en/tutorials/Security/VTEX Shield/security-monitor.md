@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2024-10-10T14:12:24.884Z
-publishedAt: 2024-10-10T14:12:24.884Z
+updatedAt: 2025-05-19T20:49:33.423Z
+publishedAt: 2025-05-19T20:49:33.423Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -15,7 +15,9 @@ legacySlug: security-monitor
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
+<div class="alert alert-info">
+  <p>This feature is part of <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our <a href="https://vtex.com/br-pt/contato/">contact form</a>.</p>
+</div>
 
 Security Monitor is a dashboard that helps merchants identify and manage potential risks in their environment in real time. The tool identifies configuration risks and the behavior of admin users, then notifies merchants via email, enabling them to take preventive action against security vulnerabilities.
 
@@ -36,6 +38,7 @@ In all tabs, you can:
 
 - [Search for findings](#searching-for-findings)
 - [Filter findings by type](#filtering-findings-by-type)
+- [Export findings](#exporting-findings)
 - [Edit notification settings](#editing-notification-settings)
 
 Below, you will find specific details about the information available in each tab and their related actions.
@@ -108,6 +111,38 @@ By clicking `Type` <i class="fas fa-chevron-down"></i>, you can choose one of th
 
 ![4-filter-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_4.png)
 
+## Exporting findings
+
+To export findings to a CSV file, follow the steps below:
+
+1. Click the `Export` button in the top right corner of the screen.  
+2. Select which findings to include in the exported file:  
+   * All findings  
+   * Open  
+   * Snoozed  
+   * Closed  
+3. Click `Export`. The generated file will be sent to your email once it's ready.  
+4. Open the email you received and click `Download` to download the file.
+
+### Information in the exported file
+
+The exported CSV file includes the following information about each finding:
+
+| Column | Description |
+| :---- | :---- |
+| *Id* | ID of the finding. |
+| *Type* | Type of finding detected. |
+| *Finding* | User email or application key related to the finding. |
+| *Sensor* | Sensor that detected the threat (VTEX Identity). |
+| *Account* | Account where the threat was detected. |
+| *Severity* | Level of threat severity, determined by the impact or potential risk: <ul><li>High</li><li>Medium</li><li>Low</li></ul> |
+| *Detected* | Date and time of the finding, in the format DD/MM/YYYY hh:mm:ss. |
+| *Description* | Recommended action based on the finding. |
+| *Status* | Status of the threat, which can be: <ul><li>Open</li><li>Closed</li><li> AutoClosed</li></ul> |
+| *Snoozed Until* | Date until which the finding is snoozed, in the format DD/MM/YYYY hh:mm:ss. This field is only populated if the finding is snoozed. |
+| *Closed* | Date and time when the finding was closed, in the format DD/MM/YYYY hh:mm:ss. |
+| *Closed By* | User responsible for closing the finding. |
+
 ## Editing notification settings
 
 To edit the admin users who will be notified about the findings, follow the steps below:
@@ -122,7 +157,7 @@ To edit the admin users who will be notified about the findings, follow the step
 
 ## Learn more
 
-* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)
-* [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+* [Users](/en/tutorial/managing-users--tutorials_512)
+* [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

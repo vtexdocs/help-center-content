@@ -1,5 +1,5 @@
 ---
-title: 'Produtos com variações de sku aprovadas em Skus Recebidos estão sendo criados com skus duplicados no Catálogo.'
+title: "Produtos com variações de sku aprovadas em Skus Recebidos estão sendo criados com skus duplicados no Catálogo."
 id: 2RqrBOeHDBZmfmqe6Rowl2
 status: PUBLISHED
 createdAt: 2023-08-29T15:50:44.042Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: products-with-sku-variations-approved-on-received-skus-are-being-created-with-duplicated-skus-on-the-catalog
+slugEN: produtos-com-variacoes-de-sku-aprovadas-em-skus-recebidos-estao-sendo-criados-com-skus-duplicados-no-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 889676
@@ -18,7 +18,9 @@ internalReference: 889676
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O vendedor pode enviar um produto com várias variações de sku.

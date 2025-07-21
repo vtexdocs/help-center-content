@@ -1,5 +1,5 @@
 ---
-title: 'O atributo meli_shipping_mode não está sendo atualizado na integração MELI'
+title: "O atributo meli_shipping_mode não está sendo atualizado na integração MELI"
 id: 7DMsCqv2AsOEsL3LGLhxWq
 status: PUBLISHED
 createdAt: 2023-08-03T10:19:05.524Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: attribute-melishippingmode-not-being-updated-in-meli-integration
+slugEN: o-atributo-melishippingmode-nao-esta-sendo-atualizado-na-integracao-meli
 locale: pt
 kiStatus: Fixed
 internalReference: 873993
@@ -18,7 +18,9 @@ internalReference: 873993
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

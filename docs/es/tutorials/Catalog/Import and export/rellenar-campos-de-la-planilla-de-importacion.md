@@ -3,8 +3,8 @@ title: 'Rellenar campos de la planilla de importación de productos y SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z
-updatedAt: 2024-09-19T13:30:38.118Z
-publishedAt: 2024-09-19T13:30:38.118Z
+updatedAt: 2025-05-26T21:57:47.284Z
+publishedAt: 2025-05-26T21:57:47.284Z
 firstPublishedAt: 2018-02-06T20:23:29.492Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,18 +15,28 @@ legacySlug: rellenar-campos-de-la-planilla-de-importacion
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-En VTEX, se puede [importar productos y SKU de forma masiva a través de una plantilla](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#plantilla). Para entender el significado de cada uno de los campos, vea a continuación una descripción completa de la lista de campos de Producto y SKU que aparecen en la plantilla.
+En VTEX, se puede [importar productos y SKU de forma masiva a través de una plantilla](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#plantilla), siguiendo los pasos a continuación:
 
->❗ Al rellenar **CaptionLink**, **DepartamentName**, **CategoryName** y **Brand**, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX.  Consulta la lista de palabras reservadas a continuación.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+1. En el Admin VTEX, accede a **Catálogo > Importación y exportación**, o escribe **Importación y exportación** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en `Exportación/Importación`.
+3. Haz clic en la pestaña `Importar`. Usted puede descargar la planilla para verificar o cambiar sus productos.
+4. Rellene los campos referentes a la planilla.
+5. Vuelva al Admin y haga el upload del archivo con la extensión `.xls`.
+6. Haz clic en `Importar`.
+
+Dependiendo de la cantidad de productos, su procesamiento puede tardar. Después de finalizado, usted recibirá en el email registrado la confirmación de la importación.
+
+Para entender el significado de cada uno de los campos, vea a continuación una descripción completa de la lista de campos de Producto y SKU que aparecen en la plantilla.
+
+<div class="alert alert-danger">
+  <p>Al rellenar <b>CaptionLink</b>, <b>DepartamentName</b>, <b>CategoryName</b> y <b>Brand</b>, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
+  <ul>
+<li><code>a</code></li>
+<li><code>meta</code></li>
+<li><code>api</code></li>
+<li><code>admin</code></li>
+</ul></p>
+</div>
 
 __SkuId:__ número único de identificación del SKU. Si este campo ya está rellenado, no puede modificarlo. Para agregar un nuevo SKU, deje la columna vacía.
 
@@ -94,7 +104,7 @@ __SupplierId:__ campo obsoleto. Este campo no es utilizado por el sistema y se r
 
 __ShowOutOfStock:__ campo responsable de mostrar un producto en la tienda incluso cuando está agotado, con la sección _Avíseme_, donde el cliente puede ingresar su dirección de correo electrónico para ser notificado cuando el producto esté disponible. Marcando _SÍ_, el producto agotado aparecerá en el sitio con _Avíseme_. Si marca _NO_, no aparecerá en el sitio. Campo obligatorio.
 
-__Kit:__ define si el SKU del producto en cuestión forma parte de un [Kit](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). No es posible editar este campo a través de la plantilla. Si se trata de un nuevo SKU, deje el campo vacío.
+__Kit:__ define si el SKU del producto en cuestión forma parte de un [Kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). No es posible editar este campo a través de la plantilla. Si se trata de un nuevo SKU, deje el campo vacío.
 
 __DepartamentId:__ número único de identificación de la categoría de mayor nivel jerárquico del producto. No es posible editar este campo a través de la plantilla. Si se trata de un nuevo producto, deje el campo vacío.
 
@@ -110,21 +120,17 @@ __Brand:__ nombre dado a la marca del producto. No es posible editar este campo 
 
 __CubicWeight:__ campo obsoleto. Este campo no es utilizado por el sistema y se recomienda mantenerlo vacío.
 
-__CommercialCondition:__ número único de identificación de la [condición comercial](https://help.vtex.com/es/tutorial/registrar-condicion-comercial--tutorials_445). Define las promociones y reglas de pago en cuotas específicas para cada SKU. 
+__CommercialCondition:__ número único de identificación de la [condición comercial](/es/tutorial/registrar-condicion-comercial--tutorials_445). Define las promociones y reglas de pago en cuotas específicas para cada SKU. 
 
-__Stores:__ número único de identificación de la [política comercial](https://help.vtex.com/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Esta información se encuentra en la sección _ID_ del  módulo _Políticas comerciales_ en el Admin.
+__Stores:__ número único de identificación de la [política comercial](/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Esta información se encuentra en la sección _ID_ del  módulo _Políticas comerciales_ en el Admin.
 
-__Accessories:__ muestra los productos que deben venderse como complemento de otro producto. Para incluir un SKU accesorio, incluya el ID del SKU.
+__Accessories:__ muestra los productos que deben venderse como complemento de otro producto. Para incluir un SKU [accesorio](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280), incluya el ID del SKU.
 
-__Similar:__ muestra los SKU similares a otro SKU que se mostrarán al cliente a la hora de la compra. Para añadir un SKU similar, incluya el ID del SKU.
+__Similar:__ muestra los SKU similares a otro SKU que se mostrarán al cliente a la hora de la compra. Para añadir un SKU [similar](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280), incluya el ID del SKU.
 
-__Suggestions:__ muestra los SKU que deben mostrarse como sugerencia al SKU en cuestión. Para añadir un SKU como sugerencia, incluya el ID del SKU. 
+__Suggestions:__ muestra los SKU que deben mostrarse como sugerencia al SKU en cuestión. Para añadir un SKU [sugerido](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280), incluya el ID del SKU. 
 
-__MostrarJunto:__ muestra los SKU de los SKU sugeridos para la compra en conjunto. Para añadir un SKU como sugerencia, incluya el ID del SKU. 
+__MostrarJunto:__ muestra los SKU de los SKU sugeridos para la compra en conjunto. Para añadir un SKU [mostrar junto](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280), incluya el ID del SKU. 
 
-__Attachment:__ muestra un [anexo](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) al comprador de un [servicio](https://help.vtex.com/es/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y) o del propio ítem comprado.
+__Attachment:__ muestra un [anexo](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) al comprador de un [servicio](/es/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y) o del propio ítem comprado.
 
-###### ARTÍCULOS RELACIONADOS
-
-- [Campos de registro del producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
-- [Campos de registro de SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)

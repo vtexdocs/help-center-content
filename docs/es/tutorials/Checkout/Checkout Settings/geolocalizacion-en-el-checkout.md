@@ -44,7 +44,9 @@ Cuando tengas la API, siga los pasos adelante:
 
 ![Geolocalizacao 1 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/geolocalizacion-en-el-checkout_1.png)
 
->ℹ️ En algunos paises, el Google Maps no hace un mapping de buena calidad, lo que hace con que las direcciones queden mal escritas o incorrectas. En estes casos, la dirección debe ser alterada directamente en el mapa.
+<div class="alert alert-info">
+En algunos paises, el Google Maps no hace un mapping de buena calidad, lo que hace con que las direcciones queden mal escritas o incorrectas. En estes casos, la dirección debe ser alterada directamente en el mapa.
+  </div>
 
 ### Configurando el poligono
 

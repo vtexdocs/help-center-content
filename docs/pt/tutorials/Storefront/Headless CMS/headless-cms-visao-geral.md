@@ -33,21 +33,21 @@ Com o Headless CMS, você pode:
 
 ## Gerenciar projetos
 
-[Projetos](https://help.vtex.com/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
+[Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
 
 ![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Headless%20CMS/headless-cms-visao-geral_1.gif)
 
-Para mais informações, acesse o artigo [Gerenciando Projetos](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM).
+Para mais informações, acesse o artigo [Gerenciando Projetos](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM).
 
 ## Gerenciar páginas
-Em cada projeto, você também pode gerenciar todas as rotas de URL e modelos de página para o site de sua loja, incluindo a página inicial, a página de produto (PDP) e outras. Para obter mais informações, consulte [Gerenciando Páginas no Headless CMS](https://help.vtex.com/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
+Em cada projeto, você também pode gerenciar todas as rotas de URL e modelos de página para o site de sua loja, incluindo a página inicial, a página de produto (PDP) e outras. Para obter mais informações, consulte [Gerenciando Páginas no Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
 
 ## Gerenciar content types do tipo Singleton
-Singleton é um tipo de conteúdo que simplifica o gerenciamento de conteúdo através da criação e do gerenciamento de uma única página, garantindo a existência de apenas uma versão desse tipo de conteúdo no Headless CMS. Essa abordagem aumenta a confiança no conteúdo e simplifica a criação e a manutenção do conteúdo em um ambiente Headless CMS.  Para obter mais informações, consulte [Gerenciando content types do tipo Singleton](https://help.vtex.com/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
+Singleton é um tipo de conteúdo que simplifica o gerenciamento de conteúdo através da criação e do gerenciamento de uma única página, garantindo a existência de apenas uma versão desse tipo de conteúdo no Headless CMS. Essa abordagem aumenta a confiança no conteúdo e simplifica a criação e a manutenção do conteúdo em um ambiente Headless CMS.  Para obter mais informações, consulte [Gerenciando content types do tipo Singleton](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
 
 ## Próximos passos
 Confira os tutoriais a seguir para começar a gerenciar o conteúdo do seu storefront:
 
-- [Gerenciando Projetos](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM)
-- [Gerenciando Páginas no Headless CMS](https://help.vtex.com/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
-- [Gerenciando content types do tipo Singleton](https://help.vtex.com/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
+- [Gerenciando Projetos](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM)
+- [Gerenciando Páginas no Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+- [Gerenciando content types do tipo Singleton](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)

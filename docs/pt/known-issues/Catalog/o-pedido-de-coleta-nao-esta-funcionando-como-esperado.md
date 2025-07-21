@@ -1,5 +1,5 @@
 ---
-title: 'O pedido de coleta não está funcionando como esperado'
+title: "O pedido de coleta não está funcionando como esperado"
 id: 3fp47LblCRqrevZwlEakgi
 status: PUBLISHED
 createdAt: 2022-01-12T14:03:31.662Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collection-ordering-not-working-as-expected
+slugEN: o-pedido-de-coleta-nao-esta-funcionando-como-esperado
 locale: pt
 kiStatus: Fixed
 internalReference: 502409
@@ -18,7 +18,9 @@ internalReference: 502409
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em Coleções (Beta), devemos poder alterar a ordem dos produtos dentro de uma coleção usando o recurso "Mover para a posição":

@@ -1,5 +1,5 @@
 ---
-title: 'A interface de usuário do checkout mostra o frete grátis quando o usuário alterna as opções de entrega'
+title: "A interface de usuário do checkout mostra o frete grátis quando o usuário alterna as opções de entrega"
 id: 5ibXQuVSU5vLfihL8uImyX
 status: PUBLISHED
 createdAt: 2023-09-27T20:40:02.973Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-shows-free-shipping-when-the-user-switches-the-delivery-options
+slugEN: a-interface-de-usuario-do-checkout-mostra-o-frete-gratis-quando-o-usuario-alterna-as-opcoes-de-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 897109
@@ -18,7 +18,9 @@ internalReference: 897109
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A interface de usuário do checkout mostra a entrega gratuita quando o usuário muda o método de entrega de envio normal para entrega programada. O problema ocorre somente na caixa de entrega e quando a conta tem o recurso LeanShipping configurado. Embora a interface do usuário mostre o frete grátis, os valores totais da compra são exibidos e cobrados corretamente.

@@ -1,5 +1,5 @@
 ---
-title: '[Catálogo] buscar por código de referencia sku'
+title: "[Catálogo] buscar por código de referencia sku"
 id: 34SWxPr14ftOKN1e1lb0WH
 status: PUBLISHED
 createdAt: 2024-08-16T20:17:18.920Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-search-by-sku-reference-code
+slugEN: catalogo-buscar-por-codigo-de-referencia-sku
 locale: es
 kiStatus: Backlog
 internalReference: 1082930
@@ -18,7 +18,9 @@ internalReference: 1082930
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Error al buscar utilizando "código de referencia sku"

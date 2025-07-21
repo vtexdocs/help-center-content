@@ -44,7 +44,9 @@ Porém, caso mais de uma promoção seja aplicada, o que aparecerá será apenas
 
 ## orderForm
 
->⚠️ Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.
+<div class = "alert alert-warning">
+  <p>Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.</p>
+</div>
 
 Na página do carrinho, você pode verificar o orderForm, que é um arquivo em formato JSON com todas as informações correspondentes ao pedido que está sendo criado.
 
@@ -54,7 +56,7 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 2. Clique em `Network`.
 3. Marque a opção **Preserve log**.
 4. Recarregue a página.
-5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 6. Clique sobre a linha do `orderForm`. Ao lado abrirá uma nova janela.
 7. Clique em `Preview`.
 8. Procure por `ratesAndBenefitsData` e clique sobre o item.
@@ -67,11 +69,11 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 
 ## Simulador de promoções (Beta)
 
-O Simulador de Promoções é uma ferramenta que permite visualizar as promoções criadas na plataforma VTEX que foram aplicadas no carrinho de compras e suas condições de ativação. Com múltiplas possibilidades de configuração de promoções, é importante ter visibilidade da [concorrência](https://help.vtex.com/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
+O Simulador de Promoções é uma ferramenta que permite visualizar as promoções criadas na plataforma VTEX que foram aplicadas no carrinho de compras e suas condições de ativação. Com múltiplas possibilidades de configuração de promoções, é importante ter visibilidade da [concorrência](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
 
-Para mais informações, leia o artigo [Simulador de promoções (Beta)](https://help.vtex.com/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
+Para mais informações, leia o artigo [Simulador de promoções (Beta)](/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
 
 ## Saiba mais
 
-* [Como funcionam as promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-* [Como identificar promoções atribuídas a um SKU?](https://help.vtex.com/pt/tutorial/como-identificar-promocoes-atribuidas-a-um-sku--frequentlyAskedQuestions_4813)
+* [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+* [Como identificar promoções atribuídas a um SKU?](/pt/tutorial/como-identificar-promocoes-atribuidas-a-um-sku--frequentlyAskedQuestions_4813)

@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Lançamento do beta da nova experiência das interfaces da Estratégia de envio.'
 ---
 
-A partir de 31 de maio, estamos lançando para todas as lojas VTEX a versão beta das novas interfaces da **Estratégia de envio**, que é composta pelas páginas [Políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), [Docas](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) e [Estoques](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+A partir de 31 de maio, estamos lançando para todas as lojas VTEX a versão beta das novas interfaces da **Estratégia de envio**, que é composta pelas páginas [Políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140), [Docas](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) e [Estoques](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 As páginas da **Estratégia de envio** foram atualizadas para o novo design system da VTEX, como pode ser visto a seguir:
 
@@ -25,7 +25,7 @@ As páginas da **Estratégia de envio** foram atualizadas para o novo design sys
 
 As novas interfaces oferecem um visual mais intuitivo e foram atualizadas para o Admin VTEX. Além disso, em **Políticas de envio**, foram feitas as seguintes melhorias:
 
-* **Novo fluxo de ativação:** você pode ativar ou desativar suas [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) de forma simples e prática, escolhendo a opção desejada no menu <i class="fas fa-ellipsis-v"></i> na linha referente à política que deseja alterar.
+* **Novo fluxo de ativação:** você pode ativar ou desativar suas [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) de forma simples e prática, escolhendo a opção desejada no menu <i class="fas fa-ellipsis-v"></i> na linha referente à política que deseja alterar.
 * **Fácil acompanhamento de informações:** agora é possível facilmente acompanhar a relação entre suas políticas de envio e docas, ganhando mais visibilidade da sua operação.
 
 ## Por que fizemos essa mudança?
@@ -38,5 +38,7 @@ A partir de 31 de maio, a versão beta da **Estratégia de envio** está dispon�
 
 Se após o teste você desejar voltar à versão antiga, no menu <i class="fas fa-ellipsis-v"></i> do canto superior da página, clique em `Voltar à versão anterior` e comente sobre o motivo. O retorno à experiência antiga será automático.
 
->⚠️ A partir de 26 de julho, as novas interfaces de **Estratégia de envio** serão o padrão para todas as lojas VTEX.
+<div class="alert alert-warning">
+A partir de 26 de julho, as novas interfaces de <b>Estratégia de envio</b> serão o padrão para todas as lojas VTEX.
+</div>
 

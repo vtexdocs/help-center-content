@@ -1,5 +1,5 @@
 ---
-title: 'Em alguns casos, a Checkout-UI não mostra o valor correto a ser pago com o Crédito do Cliente para 1x a prestação'
+title: "Em alguns casos, a Checkout-UI não mostra o valor correto a ser pago com o Crédito do Cliente para 1x a prestação"
 id: 3YsvVet6LKw1buFapSwFWm
 status: PUBLISHED
 createdAt: 2023-02-06T20:00:37.983Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: in-some-cases-checkoutui-does-not-show-the-correct-amount-to-be-paid-with-customer-credit-for-1x-installment
+slugEN: em-alguns-casos-a-checkoutui-nao-mostra-o-valor-correto-a-ser-pago-com-o-credito-do-cliente-para-1x-a-prestacao
 locale: pt
 kiStatus: Backlog
 internalReference: 748320
@@ -18,7 +18,9 @@ internalReference: 748320
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para um cenário onde o Crédito do Cliente é utilizado para pagar um valor inferior ao valor total do carrinho; ele mostra, para 1x a prestação no dropdown, o valor total ignorando débitos considerados como pagamento com outro método de pagamento como um cartão presente.

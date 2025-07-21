@@ -1,5 +1,5 @@
 ---
-title: 'Categories that only have products setup by Similar Category do not appear on sitemap'
+title: "Categories that only have products setup by Similar Category do not appear on sitemap"
 id: 287jVhwVikbo7cSHksIAXL
 status: PUBLISHED
 createdAt: 2024-09-03T17:48:53.861Z

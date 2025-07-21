@@ -1,5 +1,5 @@
 ---
-title: 'Promotions catalog conditions apply to skucomponent even when only adding skukit to cart'
+title: "Promotions catalog conditions apply to skucomponent even when only adding skukit to cart"
 id: g9V2wsKiakxYs4982oPDH
 status: PUBLISHED
 createdAt: 2024-08-22T13:29:07.146Z

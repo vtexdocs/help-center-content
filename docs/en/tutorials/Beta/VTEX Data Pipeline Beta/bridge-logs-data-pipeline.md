@@ -3,8 +3,8 @@ title: 'Bridge Logs Data Pipeline'
 id: 2RFVJZL19nsWBSB4IXA0Z
 status: PUBLISHED
 createdAt: 2024-09-13T16:45:05.348Z
-updatedAt: 2024-09-13T17:38:17.507Z
-publishedAt: 2024-09-13T17:38:17.507Z
+updatedAt: 2025-03-07T11:30:01.974Z
+publishedAt: 2025-03-07T11:30:01.974Z
 firstPublishedAt: 2024-09-13T17:17:56.608Z
 contentType: tutorial
 productTeam: Channels
@@ -17,7 +17,9 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 The `bridge` dataset includes historical information on Bridge logs. 
 
->⚠️ Currently, the dataset only provides tracking and canceled order log information.
+<div class="alert alert-warning">
+Currently, the dataset only provides tracking and canceled order log information.
+</div>
 
 This section includes the following information:
 
@@ -26,7 +28,7 @@ This section includes the following information:
 - [Analyses with bridge data](#analyses-with-bridge)
 - [Correlations with other data](#correlations-with-other-data)
 
-#### Data characteristics
+## Data characteristics
 
 | **Characteristic** | **Description** |
 |:---:|:---:|
@@ -35,7 +37,7 @@ This section includes the following information:
 | History | Data is maintained for two years, starting in 2024 for customers already using the VTEX platform. |
 | Minimum update interval | One hour. |
 
-#### Table: `order_status_change`
+## Table: order_status_change
 
 The table fields are described below:
 
@@ -53,14 +55,14 @@ The table fields are described below:
 | update_timestamp | timestamp without time zone | The time when the integration processed the update. |
 | batch_id | character(13) | The ID of each batch of data. Keep in mind that this table has updates in its rows, which causes their batch_id to be bumped at the time of the update. |
 
-#### Analyses with Bridge
+## Analyses with Bridge
 
 Here are some of the analyses you can perform using the Bridge table:
 
 - **Analysis of Marketplace Orders:** Understand the logs associated with your orders from external marketplaces.  
 - **Insight into External Marketplace Logs:** Conduct batch analyses on messages from external marketplaces related to order tracking and cancellations.  
 
-#### Correlations with other data
+## Correlations with other data
 
 Bridge data closely ties with order data, providing a comprehensive analysis of purchases and sales. Here are an  examples:
 
@@ -68,9 +70,10 @@ Bridge data closely ties with order data, providing a comprehensive analysis of 
 
 ### Discover other Datasets
 
-- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
-- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
+- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
+- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)

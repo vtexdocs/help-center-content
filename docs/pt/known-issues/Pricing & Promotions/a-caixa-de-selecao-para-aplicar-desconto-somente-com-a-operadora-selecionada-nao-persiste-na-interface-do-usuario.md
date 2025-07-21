@@ -1,5 +1,5 @@
 ---
-title: "A caixa de seleção para 'Aplicar desconto somente com a operadora selecionada' não persiste na interface do usuário"
+title: 'A caixa de seleção para "Aplicar desconto somente com a operadora selecionada" não persiste na interface do usuário'
 id: 2gcsCgGhE4V1Hbp4ZkNO78
 status: PUBLISHED
 createdAt: 2024-08-21T20:17:29.685Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: checkbox-for-apply-discount-only-with-selected-carrier-does-not-persist-in-ui
+slugEN: a-caixa-de-selecao-para-aplicar-desconto-somente-com-a-operadora-selecionada-nao-persiste-na-interface-do-usuario
 locale: pt
 kiStatus: Backlog
 internalReference: 1085241
@@ -18,7 +18,9 @@ internalReference: 1085241
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um problema no módulo de impostos em que a opção "Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente" não permanece marcada na interface do usuário, embora esteja corretamente definida via API.

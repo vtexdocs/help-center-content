@@ -1,5 +1,5 @@
 ---
-title: 'Error closing Customer Credit account'
+title: "Error closing Customer Credit account"
 id: zp8Bd8sIijJVNHws4nrkh
 status: PUBLISHED
 createdAt: 2023-09-20T21:38:28.253Z

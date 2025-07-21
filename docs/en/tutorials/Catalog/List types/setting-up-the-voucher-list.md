@@ -3,8 +3,8 @@ title: 'Setting up the voucher list'
 id: tutorials_284
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:02.631Z
-updatedAt: 2019-12-31T15:22:25.169Z
-publishedAt: 2019-12-31T15:22:25.169Z
+updatedAt: 2025-05-15T18:03:04.045Z
+publishedAt: 2025-05-15T18:03:04.045Z
 firstPublishedAt: 2017-04-27T23:03:13.396Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: en
 legacySlug: setting-up-the-voucher-list
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>The <a href="https://help.vtex.com/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go">List</a> feature is exclusive to stores that use Legacy CMS Portal.</p>
+</div>
 
 This article will discuss the details for creation of a type of Voucher List, which is a special type of List. [See our List Type documentation by clicking here.](/en/tutorial/creating-a-type-of-list/)
 
@@ -28,13 +32,11 @@ To create this type of list, an SKU must be set up as follows:
 
 ![sku-opção-credito-vale en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/setting-up-the-voucher-list_1.png)
 
-
 ## List Types Settings
 
 The creation of this type of list requires that in the List Types settings the delivery is marked as “Value of products purchased will be converted into a gift card voucher”. See the example image.
 
 ![entrega-tipos-lista en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/setting-up-the-voucher-list_2.png)
-
 
 Save your list after you have defined all settings.
 

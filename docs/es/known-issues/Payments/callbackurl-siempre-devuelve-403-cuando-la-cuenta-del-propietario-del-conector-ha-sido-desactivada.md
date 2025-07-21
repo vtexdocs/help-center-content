@@ -1,5 +1,5 @@
 ---
-title: 'CallbackUrl siempre devuelve 403 cuando la cuenta del propietario del conector ha sido desactivada'
+title: "CallbackUrl siempre devuelve 403 cuando la cuenta del propietario del conector ha sido desactivada"
 id: yHrPuhMrqMJpUQe5zK3p1
 status: PUBLISHED
 createdAt: 2023-03-21T18:37:46.361Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: callbackurl-always-returns-403-when-the-connector-owner-account-has-been-disabled
+slugEN: callbackurl-siempre-devuelve-403-cuando-la-cuenta-del-propietario-del-conector-ha-sido-desactivada
 locale: es
 kiStatus: Backlog
 internalReference: 775235
@@ -18,7 +18,9 @@ internalReference: 775235
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

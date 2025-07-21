@@ -1,5 +1,5 @@
 ---
-title: 'Fallo en la cancelación (PPP) cuando cancellationId=null'
+title: "Fallo en la cancelación (PPP) cuando cancellationId=null"
 id: 4yNCRQ1xhA8lEp5AGRs5eu
 status: PUBLISHED
 createdAt: 2022-06-21T21:37:04.567Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: failure-on-the-cancellation-ppp-when-cancellationidnull
+slugEN: fallo-en-la-cancelacion-ppp-cuando-cancellationidnull
 locale: es
 kiStatus: No Fix
 internalReference: 333897
@@ -18,7 +18,9 @@ internalReference: 333897
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

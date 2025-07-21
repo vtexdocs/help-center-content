@@ -15,11 +15,13 @@ legacySlug: vtex-do-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](https://help.vtex.com/en/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
+VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](/en/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
 
 ![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20overview/vtex-do-interface_1.gif)
 
->ℹ️ Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
+<div class = "alert alert-info">
+Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
+</div>
 
 The tasks are listed in two tabs:
 

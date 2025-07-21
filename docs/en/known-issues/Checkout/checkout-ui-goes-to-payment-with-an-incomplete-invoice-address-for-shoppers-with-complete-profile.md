@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile'
+title: "Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile"
 id: NmN6oNKp1isyxssTE5jPR
 status: PUBLISHED
 createdAt: 2023-11-27T17:40:11.335Z

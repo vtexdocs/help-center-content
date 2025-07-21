@@ -1,5 +1,5 @@
 ---
-title: 'Differences between Specification Value on APIs and Portal'
+title: "Differences between Specification Value on APIs and Portal"
 id: 29Utcf4B7PBZitEHxrZwbE
 status: PUBLISHED
 createdAt: 2023-06-29T20:11:49.484Z

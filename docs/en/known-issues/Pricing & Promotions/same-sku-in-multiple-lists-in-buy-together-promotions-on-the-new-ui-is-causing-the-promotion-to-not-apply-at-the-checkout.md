@@ -1,5 +1,5 @@
 ---
-title: "Same SKU in multiple lists in 'Buy Together' promotions on the new UI is causing the promotion to not apply at the checkout"
+title: 'Same SKU in multiple lists in "Buy Together" promotions on the new UI is causing the promotion to not apply at the checkout'
 id: 4M9UZhQqkU4Tl07lyLPtMt
 status: PUBLISHED
 createdAt: 2024-09-03T10:55:07.063Z

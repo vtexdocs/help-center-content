@@ -37,7 +37,7 @@ On **Orders** module, you may analyze the origin of the order's cancellation. Th
 To see the order's interaction, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. click the desired order, going to the [order's details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. click the desired order, going to the [order's details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. In the **Order History** section, click on the button `View Interactions`.
 
 ### Cancellation made by marketplace
@@ -54,4 +54,4 @@ On **Orders** module, the store's users are able to make cancellations manually,
 
 In these cases, the order status will be `Cancellation requested`. Upon approval, or a new cancellation request sent by store users, the status will change to `Canceled`.
 
-All these changes can be viewed on the order's interactions, on the [order's details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+All these changes can be viewed on the order's interactions, on the [order's details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).

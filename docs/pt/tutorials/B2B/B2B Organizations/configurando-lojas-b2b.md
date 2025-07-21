@@ -3,8 +3,8 @@ title: 'Configurando lojas B2B'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
-updatedAt: 2024-06-06T16:33:44.798Z
-publishedAt: 2024-06-06T16:33:44.798Z
+updatedAt: 2025-06-16T12:01:28.366Z
+publishedAt: 2025-06-16T12:01:28.366Z
 firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B
@@ -18,6 +18,7 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 Nesta página, você verá o passo a passo de como realizar as configurações gerais de sua loja B2B. 
 
 1. No seu Admin, acesse Apps > B2B Organizations & Cost Centers > Organizations e clique na aba de Settings, ou pesquise por Settings na barra de busca do seu admin.
+
 2. Defina as configurações gerais.
 
 - **Auto approve new organizations:** selecionando essa opção, você ativará a função de aprovar automaticamente novas organizações;

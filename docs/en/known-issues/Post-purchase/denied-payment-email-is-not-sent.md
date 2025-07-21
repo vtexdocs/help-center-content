@@ -1,5 +1,5 @@
 ---
-title: 'Denied payment email is not sent'
+title: "Denied payment email is not sent"
 id: 60n6pzdjGMk6Sq6oCC2QAQ
 status: PUBLISHED
 createdAt: 2017-10-01T19:38:06.243Z

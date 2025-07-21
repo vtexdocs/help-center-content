@@ -1,5 +1,5 @@
 ---
-title: 'Specifications multiplied on catalog'
+title: "Specifications multiplied on catalog"
 id: 2d4LXPrbVibMR8atXO6o8X
 status: PUBLISHED
 createdAt: 2023-10-16T12:48:03.714Z

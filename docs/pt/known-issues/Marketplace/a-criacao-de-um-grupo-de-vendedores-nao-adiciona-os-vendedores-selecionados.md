@@ -1,5 +1,5 @@
 ---
-title: 'A criação de um grupo de vendedores não adiciona os vendedores selecionados'
+title: "A criação de um grupo de vendedores não adiciona os vendedores selecionados"
 id: 5J14RCg9E4LzBcvJQyOAYy
 status: PUBLISHED
 createdAt: 2023-10-27T17:33:45.625Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: seller-group-creation-does-not-add-selected-sellers
+slugEN: a-criacao-de-um-grupo-de-vendedores-nao-adiciona-os-vendedores-selecionados
 locale: pt
 kiStatus: Fixed
 internalReference: 926969
@@ -18,7 +18,9 @@ internalReference: 926969
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O marketplace pode criar grupos com alguns vendedores na interface de gerenciamento do vendedor.

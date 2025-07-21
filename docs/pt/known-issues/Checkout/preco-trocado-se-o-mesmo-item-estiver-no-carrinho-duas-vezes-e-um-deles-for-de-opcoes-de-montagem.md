@@ -1,5 +1,5 @@
 ---
-title: 'Preço trocado se o mesmo item estiver no carrinho duas vezes e um deles for de Opções de montagem'
+title: "Preço trocado se o mesmo item estiver no carrinho duas vezes e um deles for de Opções de montagem"
 id: 6ASEyEYPt9wjj4eSzMqdc0
 status: PUBLISHED
 createdAt: 2024-07-24T14:51:12.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: price-swapped-if-the-same-item-is-in-the-cart-twice-and-one-is-from-assembly-options
+slugEN: preco-trocado-se-o-mesmo-item-estiver-no-carrinho-duas-vezes-e-um-deles-for-de-opcoes-de-montagem
 locale: pt
 kiStatus: Backlog
 internalReference: 1070336
@@ -18,7 +18,9 @@ internalReference: 1070336
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um item for adicionado ao carrinho como uma opção (também conhecida como filho) das Opções de montagem, e o mesmo item for adicionado ao carrinho como um item normal, os preços serão misturados e cada um será aplicado ao item incorreto.

@@ -1,5 +1,5 @@
 ---
-title: 'Nenhuma janela de entrega pode ser criada devido à inconsistência em estimateDate e lastDeliveryDay para timecost alto'
+title: "Nenhuma janela de entrega pode ser criada devido à inconsistência em estimateDate e lastDeliveryDay para timecost alto"
 id: 3E5ZPyrjSOPD68vH4SXunM
 status: PUBLISHED
 createdAt: 2024-03-06T19:38:26.954Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: no-delivery-window-can-be-created-due-to-inconsistence-in-estimatedate-and-lastdeliveryday-for-high-timecost
+slugEN: nenhuma-janela-de-entrega-pode-ser-criada-devido-a-inconsistencia-em-estimatedate-e-lastdeliveryday-para-timecost-alto
 locale: pt
 kiStatus: Backlog
 internalReference: 995491
@@ -18,7 +18,9 @@ internalReference: 995491
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Unecessary search results prioritization by diacritics for Portuguese'
+title: "Unecessary search results prioritization by diacritics for Portuguese"
 id: 3lbgwHFc9RLusAnZnvnE1H
 status: PUBLISHED
 createdAt: 2024-05-07T15:24:18.404Z

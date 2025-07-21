@@ -1,5 +1,5 @@
 ---
-title: "O pedido foi faturado no ERP mas continua no status 'Preparando Entrega'. O que fazer?"
+title: 'O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?'
 id: 4szpXviNMAkwOe2cCiMiMe
 status: PUBLISHED
 createdAt: 2017-12-19T13:00:23.800Z
@@ -19,7 +19,7 @@ Se um pedido foi faturado com sucesso no seu ERP, mas continua parado no status 
 Para verificar, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Clique na pedido para abrir a página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Clique na pedido para abrir a página de [detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na seção **Status do pedido**, clique no botão `Tentar novamente`.
 
 Verifique se aparece alguma mensagem e se nela é descrito o erro.

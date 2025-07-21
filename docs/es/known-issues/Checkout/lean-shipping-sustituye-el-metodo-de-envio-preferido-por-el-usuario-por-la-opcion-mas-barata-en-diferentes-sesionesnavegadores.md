@@ -1,5 +1,5 @@
 ---
-title: 'Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores.'
+title: "Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores."
 id: 2bUIAHTUDuu2K98HWVjVfb
 status: PUBLISHED
 createdAt: 2023-02-01T21:06:22.140Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lean-shipping-overrides-user-preferred-shipping-method-to-cheapest-option-in-different-sessionsbrowsers
+slugEN: lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores
 locale: es
 kiStatus: Backlog
 internalReference: 607411
@@ -18,7 +18,9 @@ internalReference: 607411
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

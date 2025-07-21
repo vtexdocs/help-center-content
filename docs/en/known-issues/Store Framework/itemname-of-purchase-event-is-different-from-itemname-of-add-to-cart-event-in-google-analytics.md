@@ -1,5 +1,5 @@
 ---
-title: 'item_name of purchase event is different from item_name of add to cart event in Google Analytics'
+title: "item_name of purchase event is different from item_name of add to cart event in Google Analytics"
 id: 3FV2cJIV7uOIoH0lpl0iMP
 status: PUBLISHED
 createdAt: 2023-08-10T12:59:26.495Z

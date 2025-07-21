@@ -33,4 +33,6 @@ Você pode encontrar os dois IDs através do relatório enviado a partir do pain
 
 ![Pedidos Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integrations%20overview/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre_1.png)
 
->⚠️ Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.
+<div class="alert alert-warning">
+Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.
+</div>

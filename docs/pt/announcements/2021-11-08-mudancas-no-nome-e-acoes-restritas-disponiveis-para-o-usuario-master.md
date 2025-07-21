@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O gerenciamento das credenciais de autenticação não 
 
 Agilizar processos é fundamental para que as operações de comércio digital acompanhem a natureza dinâmica e acelerada dos mercados globais. Certas ações críticas de manutenção e autorização, entretanto, devem ser gerenciadas de forma centralizada, dado o potencial impacto negativo dos erros. 
 
-É por isso que cada conta VTEX tem apenas um [usuário Titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular) - o único a quem é dado acesso total a todas as seções do Admin. Se você já está conosco há algum tempo, talvez tenha se perguntado: 
+É por isso que cada conta VTEX tem apenas um [usuário Titular](/pt/tutorial/o-que-e-o-usuario-titular) - o único a quem é dado acesso total a todas as seções do Admin. Se você já está conosco há algum tempo, talvez tenha se perguntado: 
 
 _"Titular?! Você não quis dizer <span style="text-decoration:underline;">usuário Master</span>"?_
 
@@ -29,14 +29,14 @@ Mas isso não é tudo. Também modificamos o processo para mudar o usuário Titu
 
 ![Gerenciamento titular gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-11-08-mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master_1.gif)
 
-Confira o artigo [Transferência de propriedade da loja](https://help.vtex.com/pt/tutorial/transferencia-de-propriedade-da-loja) para mais detalhes sobre este novo processo.
+Confira o artigo [Transferência de propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja) para mais detalhes sobre este novo processo.
 
 ## As credenciais de autenticação não são mais restritas ao usuário Titular
 
-Antes, somente o usuário Titular podia criar e gerenciar pares de appKey e appToken para a [autenticação de integrações via API.](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao) Agora qualquer usuário com o recurso `License Manager / Save User ` incluído em seus [perfis de acesso](https://help.vtex.com/en/tutorial/roles) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue esta responsabilidade conforme necessário. 
+Antes, somente o usuário Titular podia criar e gerenciar pares de appKey e appToken para a [autenticação de integrações via API.](/pt/tutorial/chaves-de-aplicacao) Agora qualquer usuário com o recurso `License Manager / Save User ` incluído em seus [perfis de acesso](/en/tutorial/roles) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue esta responsabilidade conforme necessário. 
 
 ## Saiba mais
 
-* [O que é o usuário Titular?](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular)
-* [Transferência de propriedade da loja](https://help.vtex.com/pt/tutorial/transferencia-de-propriedade-da-loja)
-* [Autenticação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao)
+* [O que é o usuário Titular?](/pt/tutorial/o-que-e-o-usuario-titular)
+* [Transferência de propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja)
+* [Autenticação](/pt/tutorial/chaves-de-aplicacao)

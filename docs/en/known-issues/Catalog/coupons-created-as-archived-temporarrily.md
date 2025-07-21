@@ -1,5 +1,5 @@
 ---
-title: 'Coupons created as archived temporarrily'
+title: "Coupons created as archived temporarrily"
 id: 783FJICQzATVkJ2uPgk9Mq
 status: PUBLISHED
 createdAt: 2023-09-01T13:34:21.842Z

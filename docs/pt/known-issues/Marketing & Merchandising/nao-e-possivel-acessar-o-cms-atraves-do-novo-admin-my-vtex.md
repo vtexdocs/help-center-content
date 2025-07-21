@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível acessar o CMS através do novo admin (My VTEX)'
+title: "Não é possível acessar o CMS através do novo admin (My VTEX)"
 id: 49Ws7DDihGeQU04UmI86Cu
 status: PUBLISHED
 createdAt: 2018-04-18T20:04:23.491Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: cms-is-not-accessible-through-the-new-admin
+slugEN: nao-e-possivel-acessar-o-cms-atraves-do-novo-admin-my-vtex
 locale: pt
 kiStatus: Fixed
 internalReference: 

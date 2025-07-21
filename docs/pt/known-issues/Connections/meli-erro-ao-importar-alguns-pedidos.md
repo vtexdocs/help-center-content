@@ -1,5 +1,5 @@
 ---
-title: '[Meli] Erro ao importar alguns pedidos'
+title: "[Meli] Erro ao importar alguns pedidos"
 id: vvhSQr4abUg7bx1Tzp49M
 status: PUBLISHED
 createdAt: 2022-09-23T19:51:12.905Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-error-importing-some-orders
+slugEN: meli-erro-ao-importar-alguns-pedidos
 locale: pt
 kiStatus: Backlog
 internalReference: 664351
@@ -18,7 +18,9 @@ internalReference: 664351
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 identificamos que estamos fazendo a divisão por tipo de listagem, portanto, quando tentamos a divisão, e é Fulfillment, não estamos deixando que isso aconteça.

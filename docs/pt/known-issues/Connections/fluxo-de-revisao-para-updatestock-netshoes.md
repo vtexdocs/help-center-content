@@ -1,5 +1,5 @@
 ---
-title: 'Fluxo de revisão para UpdateStock - Netshoes'
+title: "Fluxo de revisão para UpdateStock - Netshoes"
 id: 2PUhOyf34WSVygB5LvB68a
 status: PUBLISHED
 createdAt: 2022-10-24T16:17:37.186Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: review-flow-for-updatestock-netshoes
+slugEN: fluxo-de-revisao-para-updatestock-netshoes
 locale: pt
 kiStatus: Backlog
 internalReference: 646869
@@ -18,7 +18,9 @@ internalReference: 646869
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Fluxo de revisão para UpdateStock

@@ -1,5 +1,5 @@
 ---
-title: 'Preço incorreto na mudança de pedido devido ao multiplicador de unidade'
+title: "Preço incorreto na mudança de pedido devido ao multiplicador de unidade"
 id: 50OfQDGWS0XTWEGsBdIOmV
 status: PUBLISHED
 createdAt: 2022-05-30T19:26:35.327Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: incorrect-price-on-order-change-due-to-unit-multiplier
+slugEN: preco-incorreto-na-mudanca-de-pedido-devido-ao-multiplicador-de-unidade
 locale: pt
 kiStatus: Fixed
 internalReference: 371066
@@ -18,7 +18,9 @@ internalReference: 371066
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se você adicionar ou remover uma SKU de um pedido existente (o processo de pedido de modificação) e a SKU tiver uma unidade multiplicadora diferente de 1, o multiplicador de unidade não é considerado para o cálculo do novo valor do pedido.

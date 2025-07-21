@@ -3,8 +3,8 @@ title: 'Pricing V1 Module will be discontinued: update your store by September'
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
-updatedAt: 2021-11-17T18:09:13.896Z
-publishedAt: 2021-11-17T18:09:13.896Z
+updatedAt: 2025-02-25T14:22:03.942Z
+publishedAt: 2025-02-25T14:22:03.942Z
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -73,9 +73,9 @@ Stores using Pricing V1 only for **price management, without using UTM**, will b
 
 For better store performance and stability, VTEX recommends that customers review and update their APIs, always staying updated with the latest versions.
 
-However, for the Pricing V1 migration, this change is optional. You can find the updated API routes in [our documentation](https://developers.vtex.com/reference/pricing-api-overview). 
+However, for the Pricing V1 migration, this change is optional. You can find the updated API routes in [our documentation](https://developers.vtex.com/docs/api-reference/pricing-api). 
 
-Learn more about the new features of the Price module's updated version by accessing [our Prices Track](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
+Learn more about the new features of the Price module's updated version by accessing [our Prices Track](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
 
 If you have any questions, please contact your Account Manager or Customer Success Manager, or open a ticket in [our Support center](https://support.vtex.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fen-us%2Frequests).
 

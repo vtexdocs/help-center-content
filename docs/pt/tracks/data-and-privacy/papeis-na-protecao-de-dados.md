@@ -36,7 +36,7 @@ Nele, você encontrará informações sobre:
 * Papéis de operador e controlador.
 * Atendimento a direitos dos titulares de dados.
 * [Suboperadores](https://vtex.com/br-pt/privacy-and-agreements/subprocessors/).
-* Nossas [medidas técnicas e administrativas](https://help.vtex.com/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança de dados.
+* Nossas [medidas técnicas e administrativas](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança de dados.
 * Gerenciamento de incidentes de segurança.
 * Limitações de responsabilidades:
     * Pedidos de auditoria.
@@ -48,7 +48,9 @@ A VTEX não utiliza dados de clientes finais para nenhuma outra finalidade que n
 
 O DPA utilizado deve ser o da região específica do titular dos dados (cliente da loja).
 
->⚠️ Acesse [Data Processing Addendum - VTEX](https://vtex.com/br-pt/privacy-and-agreements/data-processing-addendum/) para visualizar o DPA padrão da VTEX para cada região.
+<div class="alert alert-warning">
+  <p>Acesse <a href="https://vtex.com/br-pt/privacy-and-agreements/data-processing-addendum/">Data Processing Addendum - VTEX</a> para visualizar o DPA padrão da VTEX para cada região.</p>
+</div>
 
 ## Responsabilidades compartilhadas
 
@@ -56,7 +58,7 @@ Tanto a VTEX quanto os lojistas devem assegurar a segurança dos dados pessoais,
 
 ## Responsabilidades da VTEX
 
-A VTEX, como operadora, poderá auxiliar o lojista no atendimento aos direitos de titulares, na realização de relatórios de impacto à privacidade e no aviso de qualquer incidente envolvendo dados pessoais de que tenha conhecimento. Ademais, nos comprometemos com as [medidas técnicas e administrativas](https://help.vtex.com/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança previstas no [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+A VTEX, como operadora, poderá auxiliar o lojista no atendimento aos direitos de titulares, na realização de relatórios de impacto à privacidade e no aviso de qualquer incidente envolvendo dados pessoais de que tenha conhecimento. Ademais, nos comprometemos com as [medidas técnicas e administrativas](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança previstas no [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
 
 ## Responsabilidades de lojistas
 
@@ -74,10 +76,10 @@ A VTEX prestará assistência ao lojista em algumas dessas obrigações, tais co
 
 ### Acesso à plataforma
 
-O lojista desempenha um papel crucial na segurança dos dados, pois suas decisões têm um impacto direto na proteção das informações. Por exemplo, ao conceder acesso à plataforma a determinados usuários ou equipes, ou compartilhar [chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), o lojista influencia a segurança dos dados armazenados nesse ambiente.
+O lojista desempenha um papel crucial na segurança dos dados, pois suas decisões têm um impacto direto na proteção das informações. Por exemplo, ao conceder acesso à plataforma a determinados usuários ou equipes, ou compartilhar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), o lojista influencia a segurança dos dados armazenados nesse ambiente.
 
 Para entender como gerenciar adequadamente credenciais de acesso e garantir a integridade dos dados, consulte os artigos a seguir:
 
-* [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-* [Recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
-* [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+* [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)

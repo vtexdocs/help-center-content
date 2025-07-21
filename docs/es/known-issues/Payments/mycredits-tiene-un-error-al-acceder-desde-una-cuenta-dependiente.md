@@ -1,5 +1,5 @@
 ---
-title: 'MyCredits tiene un error al acceder desde una cuenta dependiente'
+title: "MyCredits tiene un error al acceder desde una cuenta dependiente"
 id: 6QJWAD7Q2PSEMsmZYXqMag
 status: PUBLISHED
 createdAt: 2022-03-27T16:19:47.411Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: mycredits-has-an-error-when-accessing-from-an-dependent-account
+slugEN: mycredits-tiene-un-error-al-acceder-desde-una-cuenta-dependiente
 locale: es
 kiStatus: No Fix
 internalReference: 367276
@@ -18,7 +18,9 @@ internalReference: 367276
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Existe la posibilidad de crear un dependiente adicional, cuando se crea una cuenta en Crédito Cliente y al hacerlo, la cuenta dependiente está mostrando un error cuando se accede a MisCréditos (dentro de Mi Cuenta)

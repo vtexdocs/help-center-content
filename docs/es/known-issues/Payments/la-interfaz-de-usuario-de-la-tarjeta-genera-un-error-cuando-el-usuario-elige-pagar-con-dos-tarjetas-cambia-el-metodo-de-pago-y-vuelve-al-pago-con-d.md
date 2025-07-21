@@ -1,5 +1,5 @@
 ---
-title: ' La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas'
+title: "La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas"
 id: 1LZL3Gq40b7TRjCLnASacW
 status: PUBLISHED
 createdAt: 2022-11-30T19:03:35.002Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-cardui-generates-an-error-when-the-user-chooses-to-pay-with-two-cards-changes-the-payment-method-and-returns-to-the-payment-with-two-cards
+slugEN: la-interfaz-de-usuario-de-la-tarjeta-genera-un-error-cuando-el-usuario-elige-pagar-con-dos-tarjetas-cambia-el-metodo-de-pago-y-vuelve-al-pago-con-dos-tarjetas
 locale: es
 kiStatus: Fixed
 internalReference: 670424
@@ -18,7 +18,9 @@ internalReference: 670424
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario elige pagar con dos tarjetas, luego cambia el método de pago y vuelve a pagar con dos tarjetas, aparecerá el mensaje "_Error inesperado"_ en la caja de opciones de pago.

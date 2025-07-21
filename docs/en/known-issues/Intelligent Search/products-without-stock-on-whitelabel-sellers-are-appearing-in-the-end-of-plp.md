@@ -1,5 +1,5 @@
 ---
-title: 'Products without stock on whitelabel sellers are appearing in the end of PLP'
+title: "Products without stock on whitelabel sellers are appearing in the end of PLP"
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z

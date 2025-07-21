@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency when searching for pickup points by location'
+title: "Inconsistency when searching for pickup points by location"
 id: 1izy3WCIhWVsLY7b9HOJUl
 status: PUBLISHED
 createdAt: 2021-09-27T19:59:47.595Z

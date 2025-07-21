@@ -1,5 +1,5 @@
 ---
-title: 'El CMS permite la creación pero no la edición de carpetas con los mismos nombres que los predeterminados'
+title: "El CMS permite la creación pero no la edición de carpetas con los mismos nombres que los predeterminados"
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: cms-allows-the-creation-but-not-the-editing-of-folders-with-the-same-names-as-the-default-ones
+slugEN: el-cms-permite-la-creacion-pero-no-la-edicion-de-carpetas-con-los-mismos-nombres-que-los-predeterminados
 locale: es
 kiStatus: No Fix
 internalReference: 566791
@@ -18,7 +18,9 @@ internalReference: 566791
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, el CMS permite la creación de carpetas con los mismos nombres que las carpetas por defecto, pero posteriormente no permite editar/borrar estas nuevas carpetas

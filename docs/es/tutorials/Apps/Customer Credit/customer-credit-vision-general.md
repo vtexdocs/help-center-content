@@ -34,7 +34,9 @@ A través de VTEX Admin o [API de Customer Credit](https://developers.vtex.com/d
 - Configurar plazos y cuotas para documentos de facturas.
 - Monitorear y modificar el status de las facturas emitidas.
 
->ℹ️ Cuando se instala, el Customer Credit aparece como una opción de pago en el momento del pago solo para los clientes seleccionados por el administrador de la tiend, y muestra la cantidad de crédito disponible para usar en la compra.
+<div class="alert alert-info">
+Cuando se instala, el Customer Credit aparece como una opción de pago en el momento del pago solo para los clientes seleccionados por el administrador de la tiend, y muestra la cantidad de crédito disponible para usar en la compra.
+</div>
 
 Vea a continuación el flujo básico de cómo funciona el Customer Credit en las tiendas VTEX:
 
@@ -50,7 +52,9 @@ Para utilizar Customer Credit como medio de pago de una compra, el cliente debe 
 
 Cada cuenta tiene un límite de crédito registrado al momento de su apertura. Este límite indica el monto máximo que el cliente puede utilizar para realizar una o más compras al mismo tiempo a través de Customer Credit.
 
->⚠️ El administrador de la tienda puede cambiar el límite de crédito de una cuenta en cualquier momento.
+<div class="alert alert-warning">
+El administrador de la tienda puede cambiar el límite de crédito de una cuenta en cualquier momento.
+</div>
 
 ### Crédito disponible
 
@@ -58,7 +62,9 @@ Monto que el cliente aún tiene disponible en su cuenta para realizar compras a 
 
 Cada vez que el cliente completa una compra y se factura el pedido, la cantidad de crédito disponible disminuye. Sin embargo, después de que el cliente realiza el pago de la factura emitida, el valor del crédito disponible vuelve al valor previo a la compra.
 
->⚠️ En el momento de una compra, el cliente tiene visibilidad de cuánto crédito puede utilizar a través del Customer Credit. Si el valor de la compra es mayor que el crédito disponible, no se podrá realizar el pago a través de Customer Credit.
+<div class="alert alert-warning">
+En el momento de una compra, el cliente tiene visibilidad de cuánto crédito puede utilizar a través del Customer Credit. Si el valor de la compra es mayor que el crédito disponible, no se podrá realizar el pago a través de Customer Credit.
+</div>
 
 ### Factura
 
@@ -76,8 +82,10 @@ Luego de que el cliente realiza la compra utilizando Customer Credit, el pago se
 
 El flujo en Customer Credit es similar al de las tarjetas de crédito en relación a las modificaciones de pedidos. Cuando se produce un cambio en el valor del pedido durante el período de preautorización, el monto del crédito cambia.
 
->⚠️ Si es necesario cambiar una orden para reducir su valor después del período de liquidación (emisión de facturas), el sistema actualizará las facturas al nuevo valor. Si el valor del pedido aumenta, el sistema creará nuevas facturas.
+<div class="alert alert-warning">
+Si es necesario cambiar una orden para reducir su valor después del período de liquidación (emisión de facturas), el sistema actualizará las facturas al nuevo valor. Si el valor del pedido aumenta, el sistema creará nuevas facturas.
+</div>
 
 ## Instalacion y configuracion
 
-Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](https://help.vtex.com/es/tracks/customer-credit-como-empezar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](/es/tracks/customer-credit-como-empezar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

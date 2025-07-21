@@ -1,5 +1,5 @@
 ---
-title: 'O portal recarrega todos os resultados da busca ao acessar a URL com parâmetro de paginação.'
+title: "O portal recarrega todos os resultados da busca ao acessar a URL com parâmetro de paginação."
 id: 18Y8yYKByGTzMxyYhk1pdl
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:50.182Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: portal-reloads-all-search-results-when-accessing-the-url-with-pagination-parameter
+slugEN: o-portal-recarrega-todos-os-resultados-da-busca-ao-acessar-a-url-com-parametro-de-paginacao
 locale: pt
 kiStatus: No Fix
 internalReference: 342378
@@ -18,7 +18,9 @@ internalReference: 342378
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O portal recarrega todos os resultados da busca ao acessar a URL com um parâmetro de paginação.

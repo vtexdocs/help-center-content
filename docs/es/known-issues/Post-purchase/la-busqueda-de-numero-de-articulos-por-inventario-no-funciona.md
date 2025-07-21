@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda de número de artículos por inventario no funciona'
+title: "La búsqueda de número de artículos por inventario no funciona"
 id: 30XzfoV5qg8Aigo2ioqIyU
 status: PUBLISHED
 createdAt: 2017-08-29T17:10:42.318Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: search-for-number-of-items-per-inventory-does-not-work
+slugEN: la-busqueda-de-numero-de-articulos-por-inventario-no-funciona
 locale: es
 kiStatus: Backlog
 internalReference: 

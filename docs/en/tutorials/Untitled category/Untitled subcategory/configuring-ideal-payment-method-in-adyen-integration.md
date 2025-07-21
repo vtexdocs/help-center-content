@@ -16,10 +16,12 @@ subcategoryId: unknown-subcategory
 ---
 
 __iDEAL__ is an online payment method available only to customers in The Netherlands which allows consumers to make payments directly in their own bank. 
-In this tutorial, you will go through the steps to configure it in your store through an integration with [Adyen](https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337).
+In this tutorial, you will go through the steps to configure it in your store through an integration with [Adyen](/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337).
 
->❗ **Adyen** is currently the only partner that supports payments made with iDEAL. This means you need to get in touch with Adyen to check whether iDEAL is applicable for your location. 
-> If so, consult the article [How to set up the Adyen gateway on VTEX](https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337?&utm_source=autocomplete) and configure the affiliation in your store.
+<div class="alert alert-danger">
+  <b>Adyen</b> is currently the only partner that supports payments made with iDEAL. This means you need to get in touch with Adyen to check whether iDEAL is applicable for your location. 
+If so, consult the article <a href="https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337?&utm_source=autocomplete">How to set up the Adyen gateway on VTEX</a> and configure the affiliation in your store.
+  </div>
 
 1. Access the VTEX __Admin__.
 2. Click on __Payments__ > __Settings__.
@@ -30,7 +32,7 @@ In this tutorial, you will go through the steps to configure it in your store th
 7. In __Process with affiliation__, Adyen should already be set.
 8. If you have an anti-fraud solution, check the box next to __Use Anti-fraud__ to enable it.
 
-If you wish to create __special conditions__ for this payment method, access the documentation [Configuring special payment conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456) for more information and details on each step. If you prefer not to create any conditions, click on __Save__ to complete the configuration.
+If you wish to create __special conditions__ for this payment method, access the documentation [Configuring special payment conditions](/en/tutorial/condicoes-especiais--tutorials_456) for more information and details on each step. If you prefer not to create any conditions, click on __Save__ to complete the configuration.
 
 After completing all these steps, iDEAL should be correctly installed in your store.
 

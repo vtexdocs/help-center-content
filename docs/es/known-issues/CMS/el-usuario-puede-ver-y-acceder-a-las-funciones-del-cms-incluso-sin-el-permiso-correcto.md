@@ -1,5 +1,5 @@
 ---
-title: 'El usuario puede ver y acceder a las funciones del CMS incluso sin el permiso correcto'
+title: "El usuario puede ver y acceder a las funciones del CMS incluso sin el permiso correcto"
 id: n2BmrCyzXD04sysczRuyt
 status: PUBLISHED
 createdAt: 2024-06-07T12:22:10.494Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: user-can-still-see-and-access-cms-features-even-without-the-correct-permission
+slugEN: el-usuario-puede-ver-y-acceder-a-las-funciones-del-cms-incluso-sin-el-permiso-correcto
 locale: es
 kiStatus: Backlog
 internalReference: 1046263
@@ -18,7 +18,9 @@ internalReference: 1046263
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si el usuario no tiene ninguno de los permisos de CMS el usuario no debería ser capaz de acceder o incluso ver los módulos de CMS. Pero esto no sucede.

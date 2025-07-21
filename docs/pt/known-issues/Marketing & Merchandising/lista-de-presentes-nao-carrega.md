@@ -1,5 +1,5 @@
 ---
-title: 'Lista de presentes não carrega'
+title: "Lista de presentes não carrega"
 id: 3qIHpPzdGoyWMwmyoGugwq
 status: PUBLISHED
 createdAt: 2017-04-11T21:42:34.789Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: gift-list-does-not-load
+slugEN: lista-de-presentes-nao-carrega
 locale: pt
 kiStatus: Backlog
 internalReference: 

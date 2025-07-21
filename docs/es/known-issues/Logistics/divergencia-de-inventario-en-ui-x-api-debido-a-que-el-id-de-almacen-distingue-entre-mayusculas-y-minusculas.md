@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas'
+title: "Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas"
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-divergence-in-ui-x-api-due-to-warehouse-id-being-case-sensitive
+slugEN: divergencia-de-inventario-en-ui-x-api-debido-a-que-el-id-de-almacen-distingue-entre-mayusculas-y-minusculas
 locale: es
 kiStatus: Backlog
 internalReference: 346163
@@ -18,7 +18,9 @@ internalReference: 346163
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Como en realidad la misma API crea y actualiza el almacén (Create/update warehouse: `POST https://{accountName}.{environment}.com.br/api/logistics/pvt/configuration/warehouses`), Logística identifica por el id qué acción debe realizarse, y como el id es sensible a mayúsculas y minúsculas, si la intención sería actualizar de id "TEST" pero se introduce el id "test", se crea un nuevo almacén, pero el inventario se replica para ambos porque el inventario es insensible a mayúsculas y minúsculas.
 

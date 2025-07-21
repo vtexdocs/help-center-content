@@ -1,5 +1,5 @@
 ---
-title: 'My Cards footer is shivering when trying to add a new card'
+title: "My Cards footer is shivering when trying to add a new card"
 id: 5JRsJqm0PmVkdCh7td3DIr
 status: PUBLISHED
 createdAt: 2024-04-05T16:09:59.991Z

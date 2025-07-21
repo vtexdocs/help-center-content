@@ -46,7 +46,9 @@ However, if more than one promotion is applied, what appears will be the sum of 
 
 ## orderForm
 
->⚠️ To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.
+<div class = "alert alert-warning">
+  <p>To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.</p>
+</div>
 
 On the cart page, you can check the `orderForm`, which is a file in JSON format with all the information corresponding to the order being created.
 
@@ -56,7 +58,7 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 2. Click on `Network`.
 3. Check the **Preserve log** option.
 4. Reload the page.
-5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](//images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
 6. Click on the `orderForm` line. A new window will open next to it.
 7. Click on `Preview`.
 8. Search for `ratesAndBenefitsData` and click on the item.
@@ -69,11 +71,11 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 
 ## Promotions Simulator (Beta)
 
-The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
+The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
 
-For more information, read the [Promotions Simulator (Beta)](https://help.vtex.com/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
+For more information, read the [Promotions Simulator (Beta)](/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
 
 ## Learn more
 
-* [How promotions work](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-* [How to identify promotions attributed to an SKU?](https://help.vtex.com/en/tutorial/how-to-identify-promotions-attributed-to-an-sku--frequentlyAskedQuestions_4813)
+* [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+* [How to identify promotions attributed to an SKU?](/en/tutorial/how-to-identify-promotions-attributed-to-an-sku--frequentlyAskedQuestions_4813)

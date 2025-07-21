@@ -1,5 +1,5 @@
 ---
-title: 'Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP'
+title: "Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP"
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
+slugEN: casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp
 locale: pt
 kiStatus: No Fix
 internalReference: 695044
@@ -18,7 +18,9 @@ internalReference: 695044
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

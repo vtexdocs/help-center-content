@@ -1,5 +1,5 @@
 ---
-title: 'New UI does not show the invoiced value on Return items page'
+title: "New UI does not show the invoiced value on Return items page"
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z

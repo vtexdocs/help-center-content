@@ -1,5 +1,5 @@
 ---
-title: 'O sistema não permite o cancelamento múltiplo com Giftcard'
+title: "O sistema não permite o cancelamento múltiplo com Giftcard"
 id: 2htvtVV2158piX4lTYhAvE
 status: PUBLISHED
 createdAt: 2022-03-27T12:54:40.811Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-system-does-not-allow-multiple-cancellation-with-giftcard
+slugEN: o-sistema-nao-permite-o-cancelamento-multiplo-com-giftcard
 locale: pt
 kiStatus: Backlog
 internalReference: 309117
@@ -18,7 +18,9 @@ internalReference: 309117
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O sistema não está enviando o cancelamento parcial de uma transação de Giftcard.

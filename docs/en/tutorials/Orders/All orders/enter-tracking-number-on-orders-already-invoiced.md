@@ -24,8 +24,10 @@ You can enter the tracking number on orders already invoiced, by following the s
 5. Fill in the **Tracking number** field with the number.
 6. Click `Save`.
 
->⚠️ VTEX Admin does not allow bulk importing of order tracking numbers through files upload. The method commonly used for this is via integration between VTEX and the ERP. If your ERP is integrated with VTEX, you can import the tracking numbers using the API.
+<div class="alert alert-warning">
+VTEX Admin does not allow bulk importing of order tracking numbers through files upload. The method commonly used for this is via integration between VTEX and the ERP. If your ERP is integrated with VTEX, you can import the tracking numbers using the API.
+</div>
 
 ### Learn more
 
-- [Register tracking on the tax receipt](https://help.vtex.com/en/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)
+- [Register tracking on the tax receipt](/en/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)

@@ -1,5 +1,5 @@
 ---
-title: 'Explained search interface overlapping long texts between different areas or products'
+title: "Explained search interface overlapping long texts between different areas or products"
 id: 5BMYpoif30DAOjPOVHMDfS
 status: PUBLISHED
 createdAt: 2023-09-21T00:25:00.402Z

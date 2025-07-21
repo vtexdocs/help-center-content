@@ -1,5 +1,5 @@
 ---
-title: 'The PayU connector is unable to process payments when there is shipping data containing more than 40 characters.'
+title: "The PayU connector is unable to process payments when there is shipping data containing more than 40 characters."
 id: 1SEaraqWshBYzjOcL9LxsN
 status: PUBLISHED
 createdAt: 2023-09-18T21:02:32.217Z

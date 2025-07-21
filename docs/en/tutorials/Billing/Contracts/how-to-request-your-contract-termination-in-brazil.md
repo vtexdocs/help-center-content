@@ -15,4 +15,4 @@ legacySlug: how-to-request-your-contractual-termination-brazil
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>

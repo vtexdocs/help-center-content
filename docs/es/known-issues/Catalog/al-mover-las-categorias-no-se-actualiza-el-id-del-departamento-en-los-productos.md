@@ -1,5 +1,5 @@
 ---
-title: 'Al mover las categorías no se actualiza el ID del departamento en los Productos'
+title: "Al mover las categorías no se actualiza el ID del departamento en los Productos"
 id: 7unyFh8IcgF7bmvXV7V37m
 status: PUBLISHED
 createdAt: 2022-06-23T19:50:55.026Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: moving-categories-does-not-update-the-department-id-on-the-products
+slugEN: al-mover-las-categorias-no-se-actualiza-el-id-del-departamento-en-los-productos
 locale: es
 kiStatus: Backlog
 internalReference: 316694
@@ -18,7 +18,9 @@ internalReference: 316694
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Mover categorías en el árbol de categorías, por ejemplo mover un departamento a otra categoría no actualiza el ID del departamento en los Productos.

@@ -1,5 +1,5 @@
 ---
-title: 'Solicitudes de simulación innecesarias y componentes que se recargan'
+title: "Solicitudes de simulación innecesarias y componentes que se recargan"
 id: 1qXJU1XC4r0e9KWxNUKp3L
 status: PUBLISHED
 createdAt: 2022-08-30T17:34:47.635Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: unecessary-simulation-requests-and-components-being-reloaded
+slugEN: solicitudes-de-simulacion-innecesarias-y-componentes-que-se-recargan
 locale: es
 kiStatus: No Fix
 internalReference: 648298
@@ -18,7 +18,9 @@ internalReference: 648298
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se pueden hacer múltiples solicitudes de simulación después de los cambios en el orderForm. Esto está relacionado con el cálculo de _lean shipping_ para calcular los paquetes de envío.

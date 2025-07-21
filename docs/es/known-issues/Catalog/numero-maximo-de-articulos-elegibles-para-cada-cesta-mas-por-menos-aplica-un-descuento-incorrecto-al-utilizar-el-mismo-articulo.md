@@ -1,5 +1,5 @@
 ---
-title: "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo."
+title: 'número máximo de artículos elegibles para cada cesta" + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.'
 id: gWIMhi9RCv9BE1RvV6GiM
 status: PUBLISHED
 createdAt: 2024-07-30T17:14:36.972Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: maximum-number-of-eligible-items-for-each-cart-more-for-less-applies-incorrect-discount-when-using-the-same-item
+slugEN: numero-maximo-de-articulos-elegibles-para-cada-cesta-mas-por-menos-aplica-un-descuento-incorrecto-al-utilizar-el-mismo-articulo
 locale: es
 kiStatus: Backlog
 internalReference: 1073080
@@ -18,7 +18,9 @@ internalReference: 1073080
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al utilizar un descuento de más por menos junto con otra promoción que utiliza el "máximo de artículos por carrito" para el mismo artículo, acumulándose ambos, se produce un descuento incorrecto, superando la configuración inicialmente configurada.

@@ -1,5 +1,5 @@
 ---
-title: 'Nova UI não mostra nos pedidos a janela de entrega correta estimada'
+title: "Nova UI não mostra nos pedidos a janela de entrega correta estimada"
 id: 5YG6dpMbOX3DK1fSWEyAzJ
 status: PUBLISHED
 createdAt: 2023-01-09T13:18:30.970Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-do-not-shows-on-orders-the-correct-delivery-window-estimated
+slugEN: nova-ui-nao-mostra-nos-pedidos-a-janela-de-entrega-correta-estimada
 locale: pt
 kiStatus: Backlog
 internalReference: 620668
@@ -18,7 +18,9 @@ internalReference: 620668
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Na nova IU, alguns pedidos não mostram corretamente a entrega estimada.
 

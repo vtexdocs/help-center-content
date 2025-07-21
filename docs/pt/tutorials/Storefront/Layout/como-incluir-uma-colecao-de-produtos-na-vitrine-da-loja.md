@@ -3,8 +3,8 @@ title: 'Incluir uma coleção de produtos na vitrine da loja'
 id: frequentlyAskedQuestions_589
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.516Z
-updatedAt: 2023-03-29T18:05:00.147Z
-publishedAt: 2023-03-29T18:05:00.147Z
+updatedAt: 2025-02-01T00:12:59.875Z
+publishedAt: 2025-02-01T00:12:59.875Z
 firstPublishedAt: 2019-01-24T22:12:59.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,9 @@ legacySlug: como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+<div class = "alert alert-warning">
+  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+</div>
 
 As vitrines são utilizadas no destaque de produtos em diversas páginas, elas também podem ser utilizadas para recomendações, na página do produto.
 
@@ -51,7 +53,7 @@ Lembre-se de salvar as alterações antes de efetuar uma busca ou mudar de pági
 O próximo passo é adicionar o conteúdo, selecionando **Add Content**.
 ![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_7.png)
 
-É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/tutorial/parametros-de-busca "aqui"))
+É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
 
 Os conteúdos a serem preenchidos na parte **Content**:
 _Content_: Nome que identificará cada conjunto de itens

@@ -15,7 +15,7 @@ legacySlug: add-3ds-support-to-the-integration-with-adyen
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-To add support for [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (security protocol that allows buyers to be authenticated by the issuing bank) in the Adyen integration, you must configure the connector first. Follow the steps below:
+To add support for [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (security protocol that allows buyers to be authenticated by the issuing bank) in the Adyen integration, you must configure the connector first. Follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. Access the __Gateways Affiliations__ tab.
@@ -23,14 +23,16 @@ To add support for [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1e
 4. Go to __Live Endpoint URL Prefix__ and follow [this Adyen tutorial](https://help.adyen.com/en_US/knowledge/ecommerce-integrations/integrations-basics/how-can-i-find-the-endpoint-url-for-my-live-account) to get the necessary information.
 5. In the field __Enable 3D Secure?__, select __Yes__.
 6. Choose the 3DS mode — 3DS, 3DS2, or 3DS2 Data only — defined in the agreed-upon business partnership with Adyen.
-7. Fill in the remaining fields according to [this tutorial](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
+7. Fill in the remaining fields according to [this tutorial](/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 8. Click on __Save__.
 
 ### Enable 3DS Responses
 
 After configuring the connector on VTEX, go to the Adyen dashboard to enable 3DS for your store transactions.
 
->⚠️ We recommend that you set up the test environment before moving to the live environment. Validate the settings in the test environment, then access the **Live** environment to make final adjustments.
+<div class="alert alert-warning">
+  We recommend that you set up the test environment before moving to the live environment. Validate the settings in the test environment, then access the <b>Live</b> environment to make final adjustments.
+  </div>
 
 1. Click on the links below to access Adyen's test and live environments:
 

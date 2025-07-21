@@ -15,4 +15,4 @@ legacySlug: products-errors-in-the-amazon-integration
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation.</div>

@@ -1,5 +1,5 @@
 ---
-title: 'Payment Method from Marketplace matches with SWL when using identical types:ids'
+title: "Payment Method from Marketplace matches with SWL when using identical types:ids"
 id: 4AHyl5z7ySagx6Myx0KqM7
 status: PUBLISHED
 createdAt: 2022-03-15T22:06:35.540Z

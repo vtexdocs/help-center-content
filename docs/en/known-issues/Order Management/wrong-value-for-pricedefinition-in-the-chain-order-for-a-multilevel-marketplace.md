@@ -1,5 +1,5 @@
 ---
-title: 'Wrong value for priceDefinition in the chain order for a multilevel marketplace'
+title: "Wrong value for priceDefinition in the chain order for a multilevel marketplace"
 id: 75qEjhgv1tTQNho0MArnJo
 status: PUBLISHED
 createdAt: 2023-11-27T13:50:18.505Z

@@ -1,5 +1,5 @@
 ---
-title: 'Os destaques de produtos não funcionam em uma lista de produtos'
+title: "Os destaques de produtos não funcionam em uma lista de produtos"
 id: 7lh3YMj55vQvs3EEQFUas1
 status: PUBLISHED
 createdAt: 2022-03-21T17:34:16.526Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: product-highlights-doesnt-work-into-a-product-list
+slugEN: os-destaques-de-produtos-nao-funcionam-em-uma-lista-de-produtos
 locale: pt
 kiStatus: Backlog
 internalReference: 546844
@@ -18,7 +18,9 @@ internalReference: 546844
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando há uma promoção com destaque habilitado e o produto, que está incluído nesta promoção, está dentro de uma lista, como uma prateleira, o crachá que informa a promoção não é exibido.

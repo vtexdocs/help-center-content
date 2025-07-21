@@ -22,7 +22,9 @@ Using Google Shopping, you can display to potential customers some of the attrib
 
 The Google Shopping connector on the VTEX Platform allows you to use this service in a simple and efficient way. To integrate it with your store, follow the steps described in this article.
 
->ℹ️ Before configuring the integration, read the [ Shopping ads policies](https://support.google.com/google-ads/answer/6149970?hl=en) to learn what are the conditions required by Google.
+<div class="alert alert-info">
+Before configuring the integration, read the <a href="https://support.google.com/google-ads/answer/6149970?hl=en"> Shopping ads policies</a> to learn what are the conditions required by Google.
+</div>
 
 | **LEARN MORE** |
 | ---------- |

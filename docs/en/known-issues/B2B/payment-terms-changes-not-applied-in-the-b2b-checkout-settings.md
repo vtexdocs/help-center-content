@@ -1,5 +1,5 @@
 ---
-title: 'Payment Terms changes not applied in the B2B Checkout Settings'
+title: "Payment Terms changes not applied in the B2B Checkout Settings"
 id: 12PfZx6O0MIUSIFdpQdUdI
 status: PUBLISHED
 createdAt: 2024-04-18T19:07:22.743Z

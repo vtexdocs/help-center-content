@@ -1,5 +1,5 @@
 ---
-title: 'Facetas del Segmento que afectan a las migas de pan, al título de la página y a los filtros adicionales'
+title: "Facetas del Segmento que afectan a las migas de pan, al título de la página y a los filtros adicionales"
 id: 3lBgcsjxiZxoDvnPhbMXgo
 status: PUBLISHED
 createdAt: 2024-06-27T22:57:42.875Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: facets-from-the-segment-affecting-breadcrumbs-page-title-and-additional-filters
+slugEN: facetas-del-segmento-que-afectan-a-las-migas-de-pan-al-titulo-de-la-pagina-y-a-los-filtros-adicionales
 locale: es
 kiStatus: Backlog
 internalReference: 1057254
@@ -18,7 +18,9 @@ internalReference: 1057254
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La propiedad "facets" almacenada en el Segmento/Sesión para un contexto de navegación funciona para limitar los resultados de búsqueda a filtros predefinidos. Por ejemplo, es utilizada por "Organizaciones B2B" para restringir lo que un usuario puede ver en la tienda.

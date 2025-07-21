@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda en la pestaña Usuarios en Detalles de la organización B2B no filtra cuando no hay ningún resultado.'
+title: "La búsqueda en la pestaña Usuarios en Detalles de la organización B2B no filtra cuando no hay ningún resultado."
 id: 39z2nGzYZztEhqJ1qCvFql
 status: PUBLISHED
 createdAt: 2024-08-09T18:28:00.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: search-in-users-tab-in-b2b-organization-details-doesnt-filter-when-there-is-no-result
+slugEN: la-busqueda-en-la-pestana-usuarios-en-detalles-de-la-organizacion-b2b-no-filtra-cuando-no-hay-ningun-resultado
 locale: es
 kiStatus: Backlog
 internalReference: 1079002
@@ -18,7 +18,9 @@ internalReference: 1079002
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al buscar en la pestaña Usuarios en Detalles de la Organización B2B con un término que no tiene resultado, no se filtra nada y se muestran todos los usuarios en el resultado.

@@ -3,8 +3,8 @@ title: 'Inserir um proxy reverso em frente aos serviços da VTEX'
 id: 4PFWsfRAKviNVPf1bYdiir
 status: PUBLISHED
 createdAt: 2019-09-20T14:11:30.301Z
-updatedAt: 2024-09-20T20:34:24.110Z
-publishedAt: 2024-09-20T20:34:24.110Z
+updatedAt: 2025-05-30T13:53:21.221Z
+publishedAt: 2025-05-30T13:53:21.221Z
 firstPublishedAt: 2019-09-23T12:22:50.056Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,11 +15,17 @@ legacySlug: por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-serv
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
->❗ Este guia aborda uma prática **não recomendada** para a maioria das lojas e é aplicável somente a casos de extrema exceção.
->
-> Implementar um proxy reverso significa substituir todos os serviços de borda (CDN) gerenciados e otimizados pela VTEX. Isso implica que a loja será responsável pelo fornecimento efetivo do site, incluindo configurações, monitoramento e gerenciamento de aspectos como repasse de cabeçalhos, cookies e cache. A VTEX não oferece suporte ou documentação para essas configurações específicas e não se responsabiliza por problemas que possam surgir.
->
-> A VTEX não se responsabiliza por problemas nesse sistema, seja um CDN próprio, serviço de WAF ou outro recurso que fique à frente dos nossos servidores. Não teremos visibilidade da operação, e, portanto, a solução **não** se enquadra em nossos acordos de SLA.
+<div class="alert alert-danger">
+<p>
+Este guia aborda uma prática <strong>não recomendada</strong> para a maioria das lojas e é aplicável somente a casos de extrema exceção.
+</p>
+<p>
+Implementar um proxy reverso significa substituir todos os serviços de borda (CDN) gerenciados e otimizados pela VTEX. Isso implica que a loja será responsável pelo fornecimento efetivo do site, incluindo configurações, monitoramento e gerenciamento de aspectos como repasse de cabeçalhos, cookies e cache. A VTEX não oferece suporte ou documentação para essas configurações específicas e não se responsabiliza por problemas que possam surgir.
+</p>
+<p>
+A VTEX não se responsabiliza por problemas nesse sistema, seja um CDN próprio, serviço de WAF ou outro recurso que fique à frente dos nossos servidores. Não teremos visibilidade da operação, e, portanto, a solução <strong>não</strong> se enquadra em nossos acordos de SLA.
+</p>
+</div>
 
 Para apontar sua própria CDN para a CDN da VTEX, é necessário inserir um proxy reverso em frente aos serviços da VTEX. Neste cenário, o fluxo de tráfego passa a seguir este caminho: 
 
@@ -30,19 +36,15 @@ Para apontar sua própria CDN para a CDN da VTEX, é necessário inserir um prox
 
 Siga as orientações abaixo para implementar o proxy reverso:
 
-* [Configuração de DNS](#configuracao-de-dns)  
+* [Registro TXT](#registro-txt)  
 * [Encaminhamento de tráfego](#encaminhamento-de-trafego)  
 * [Responsabilidades sobre certificados SSL](#responsabilidades-sobre-certificados-ssl)
 
-## Configuração de DNS
+## Registro TXT
 
-Na zona de DNS do seu domínio, você deve configurar os registros DNS necessários para direcionar o tráfego para a CDN VTEX. Siga as instruções a seguir.
+Para garantir que seu domínio esteja corretamente direcionado para a CDN VTEX, crie um registro TXT no formato `_{hostname}` com o valor `{hostname}.cdn.vtex.com` na zona de DNS do seu domínio.
 
-### Criar registro TXT
-
-Para garantir que seu domínio esteja corretamente direcionado para a CDN VTEX, crie um registro TXT no formato `_{hostname}` com o valor `{hostname}.cdn.vtex.com`.
-
-Substitua `{hostname}` pela combinação de [subdomínio, domínio e domínio de nível superior](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) da sua loja, por exemplo: `www.minhaloja.com`. Certifique-se de incluir o `_` antes do host.
+Substitua `{hostname}` pela combinação de [subdomínio, domínio e domínio de nível superior](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) da sua loja, por exemplo: `www.minhaloja.com`. Certifique-se de incluir o `_` antes do host.
 
 Formato:
 
@@ -58,28 +60,6 @@ Exemplo:
 Nome: _www.minhaloja.com
 Tipo: TXT
 Valor: www.minhaloja.com.cdn.vtex.com
-```
-
-### Criar registro CNAME
-
-Crie um registro CNAME para direcionar o tráfego da CDN/WAF para nossos servidores com o valor correspondente ao CNAME do domínio.
-
-Substitua `{hostname}` pela combinação de subdomínio, domínio e domínio de nível superior da sua loja, por exemplo: `www.minhaloja.com`.
-
-Formato:
-
-```
-Nome: {hostname}
-Tipo: CNAME
-Destino: {hostname}.cdn.vtex.com
-```
-
-Exemplo:
-
-```
-Nome: www.minhaloja.com
-Tipo: CNAME
-Destino: www.minhaloja.com.cdn.vtex.com
 ```
 
 ## Encaminhamento de tráfego
@@ -109,10 +89,15 @@ Para permitir a geração de certificados SSL, certifique-se de que todo o tráf
 
 Alguns proxies reversos capturam essa rota, e, com isso, a VTEX não consegue emitir ou renovar o certificado SSL.
 
->⚠️ A VTEX somente provê navegação se:
->
-> * O host apontar para a VTEX através do CNAME.
->
-> * For possível emitir e renovar certificados SSL para o host.
->
-> Se ambas as condições não forem atendidas, a navegação não funcionará, e o site ficará fora do ar.
+<div class="alert alert-warning">
+<p>
+A VTEX somente provê navegação se:
+</p>
+<ul>
+  <li>Houver um registro TXT configurado corretamente.</li>
+  <li>For possível emitir e renovar certificados SSL para o host.</li>
+</ul>
+<p>
+Se ambas as condições não forem atendidas, a navegação não funcionará, e o site ficará fora do ar.
+</p>
+</div>

@@ -34,9 +34,13 @@ Há duas opções de autenticação:
 
 ![2FA - Select - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/contas-e-permissoes/habilitar-login-por-2-factor-authentication_1.png)
 
->⚠️ Recomendamos o uso de [aplicativo de autenticação](#habilitar-o-2fa-por-aplicativo), para que falhas na sua operadora de telefonia não inviabilizem seu login. Pelo aplicativo, a chave de acesso estará sempre disponível para uso.
+<div class="alert alert-warning">
+  Recomendamos o uso de <a href="#habilitar-o-2fa-por-aplicativo">aplicativo de autenticação</a>, para que falhas na sua operadora de telefonia não inviabilizem seu login. Pelo aplicativo, a chave de acesso estará sempre disponível para uso.
+</div>
 
->ℹ️ Como algumas empresas restringem o uso de celular por operadores de televendas, usuários com o [perfil de acesso de televendas](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) não são obrigados a habilitar 2FA quando fazem login usando e-mail e senha.
+<div class="alert alert-info">
+Como algumas empresas restringem o uso de celular por operadores de televendas, usuários com o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator">perfil de acesso de televendas</a> não são obrigados a habilitar 2FA quando fazem login usando e-mail e senha.
+</div>
 
 ## Habilitar o 2FA por aplicativo
 
@@ -56,7 +60,9 @@ Para usar uma chave gerada por aplicativo de autenticação:
 
   ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/contas-e-permissoes/habilitar-login-por-2-factor-authentication_4.png)
 
->ℹ️ Se você fizer login usando e-mail e senha no mesmo computador, a chave de acesso será solicitada **a cada 3 dias**. Quando isso acontecer, basta consultar o código no aplicativo.
+<div class="alert alert-info">
+Se você fizer login usando e-mail e senha no mesmo computador, a chave de acesso será solicitada <strong>a cada 3 dias</strong>. Quando isso acontecer, basta consultar o código no aplicativo.
+</div>
 
 ## Habilitar o 2FA por SMS
 
@@ -70,7 +76,9 @@ Para usar uma chave enviada por mensagem de texto:
 
    ![2FA - SMS Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/contas-e-permissoes/habilitar-login-por-2-factor-authentication_6.png)
 
->⚠️ Não podemos garantir que sua operadora de telefonia conseguirá entregar a chave de acesso sempre que necessário. Caso a mensagem de texto da VTEX não chegue, tente reenviar o código ou [habilitar o 2FA por aplicativo](#habilitar-o-2fa-por-aplicativo).
+<div class="alert alert-warning">
+Não podemos garantir que sua operadora de telefonia conseguirá entregar a chave de acesso sempre que necessário. Caso a mensagem de texto da VTEX não chegue, tente reenviar o código ou <a href="#habilitar-o-2fa-por-aplicativo">habilitar o 2FA por aplicativo</a>.
+</div>
 
 ## Modificar configurações de 2FA
 

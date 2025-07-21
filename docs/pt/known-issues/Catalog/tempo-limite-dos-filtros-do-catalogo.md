@@ -1,5 +1,5 @@
 ---
-title: 'Tempo limite dos filtros do catálogo'
+title: "Tempo limite dos filtros do catálogo"
 id: 5KtT2SvTSO6xMdJOSYz5VZ
 status: PUBLISHED
 createdAt: 2023-10-19T17:11:37.486Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-filters-timeout
+slugEN: tempo-limite-dos-filtros-do-catalogo
 locale: pt
 kiStatus: Backlog
 internalReference: 922350
@@ -18,7 +18,9 @@ internalReference: 922350
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para lojas com uma grande quantidade de skus (1 milhão ou mais), muitas vezes, ao filtrar usando os filtros da interface do usuário do catálogo, seja para o menu principal ou para a seção de relatórios, se a consulta de filtro retornar um resultado muito grande, a interface do usuário não funcionará mais (504 gateway timeout)

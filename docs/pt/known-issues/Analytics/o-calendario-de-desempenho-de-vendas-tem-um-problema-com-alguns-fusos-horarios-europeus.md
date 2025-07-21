@@ -1,5 +1,5 @@
 ---
-title: 'O calendário de desempenho de vendas tem um problema com alguns fusos horários europeus'
+title: "O calendário de desempenho de vendas tem um problema com alguns fusos horários europeus"
 id: 23RDaWJO0UQr0QxtTi24is
 status: PUBLISHED
 createdAt: 2023-03-06T16:20:46.718Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
-slugEN: sales-performance-calendar-has-a-problem-with-some-european-time-zones
+slugEN: o-calendario-de-desempenho-de-vendas-tem-um-problema-com-alguns-fusos-horarios-europeus
 locale: pt
 kiStatus: Backlog
 internalReference: 718470
@@ -18,7 +18,9 @@ internalReference: 718470
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em nosso Painel de Controle de Desempenho de Vendas*** disponibilizamos, dentro dos filtros, a possibilidade de selecionar um período personalizado para validar as informações correspondentes. No entanto, neste momento temos um problema com nosso calendário quando se trata de alguns **fusos horários europeus*** (até agora identificamos o problema apenas em **Reino Unido e Portugal***).

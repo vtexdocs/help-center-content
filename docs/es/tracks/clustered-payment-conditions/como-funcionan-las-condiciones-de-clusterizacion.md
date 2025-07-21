@@ -20,7 +20,9 @@ Estas condiciones, a su vez, se basan en los datos que el Master Data almacena s
 
 De esta manera, las reglas de plazo y de pago en cuotas se aplicarán al consumidor o los consumidores que se ajusten a la condición o las condiciones.
 
->❗ **Atención**: solo se permite crear cinco clústeres de clientes por condición de pago.
+<div class="alert alert-danger">
+<strong>Atención</strong>: solo se permite crear cinco clústeres de clientes por condición de pago.
+</div>
 
 Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros para crear un clúster.
 
@@ -28,11 +30,11 @@ Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros pa
 
 ## Propiedad
 
-La propiedad se rellena con uno de los campos presentes en el [Master Data](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629 "Master Data"). En pocas palabras, podemos decir que los campos son la información de los consumidores que almacena el sistema de VTEX. 
+La propiedad se rellena con uno de los campos presentes en el [Master Data](/es/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629 "Master Data"). En pocas palabras, podemos decir que los campos son la información de los consumidores que almacena el sistema de VTEX. 
 
 Recordando que existen algunos campos nativos en el Master Data, lo que significa que en el momento que un cliente obtiene acceso al Admin de su tienda, ya hay algunos campos creados en el Master Data. Sin embargo, estos campos no son determinantes.
 
-Además de los campos nativos, el cliente puede [crear los campos que desee](https://help.vtex.com/es/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete "crear los campos que desee"), y cuando así lo desee. 
+Además de los campos nativos, el cliente puede [crear los campos que desee](/es/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete "crear los campos que desee"), y cuando así lo desee. 
 
 En consecuencia, puede crear las propiedades (bien sean de texto, numéricas, verdadero/falso, por fecha) que le parezcan más adecuadas para aplicar a la condición especial de pago por clusterización. 
 

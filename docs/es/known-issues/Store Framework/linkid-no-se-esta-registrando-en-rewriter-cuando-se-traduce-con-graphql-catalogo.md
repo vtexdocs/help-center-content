@@ -1,5 +1,5 @@
 ---
-title: 'linkId no se está registrando en rewriter cuando se traduce con graphql catálogo'
+title: "linkId no se está registrando en rewriter cuando se traduce con graphql catálogo"
 id: 7b7KOHlxyIO4zKy2xrMuSD
 status: PUBLISHED
 createdAt: 2022-09-08T21:27:03.855Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: linkid-is-not-being-registered-on-rewriter-when-translating-with-catalog-graphql
+slugEN: linkid-no-se-esta-registrando-en-rewriter-cuando-se-traduce-con-graphql-catalogo
 locale: es
 kiStatus: Backlog
 internalReference: 654951
@@ -18,7 +18,9 @@ internalReference: 654951
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza el catálogo graphQL y se traduce la URL utilizando el linkId el rewriter debería almacenar el linkId, pero no está sucediendo: https://developers.vtex.com/docs/guides/catalog-internationalization

@@ -15,7 +15,9 @@ legacySlug: url-mapping-301-redirect
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in [Pages](https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Please refer to [Managing URL redirects](https://help.vtex.com/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) for more information.
+<div class="alert alert-warning">
+<p>This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in <a href="https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc">Pages</a>. Please refer to <a href="https://help.vtex.com/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV">Managing URL redirects</a> for more information.</p>
+</div>
 
 URL mapping is used to redirect specific URLs to other URLs. This feature is useful when a store already has URLs indexed in search engines and wants to redirect them to more attractive ones without changing the SEO and avoiding indexing errors.
 
@@ -44,7 +46,9 @@ There are two ways to add and change URL mapping:
 - **Start date:** date and time when the mapping will no longer be considered.
 - **Active:** indicates if the mapping option is active or inactive.
 
->ℹ️ To map a URL to home (root directory), fill in the **Url to** field with a slash `/`.
+<div class="alert alert-info"> 
+  <p>To map a URL to home (root directory), fill in the <b>Url to</b> field with a slash <code>/</code>.</p>
+</div>
 
 ## Via spreadsheet
 

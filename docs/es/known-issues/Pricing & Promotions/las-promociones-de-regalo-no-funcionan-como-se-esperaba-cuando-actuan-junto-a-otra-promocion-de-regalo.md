@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones de regalo no funcionan como se esperaba cuando actúan junto a otra promoción de regalo'
+title: "Las promociones de regalo no funcionan como se esperaba cuando actúan junto a otra promoción de regalo"
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion
+slugEN: las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-a-otra-promocion-de-regalo
 locale: es
 kiStatus: No Fix
 internalReference: 729980
@@ -18,7 +18,9 @@ internalReference: 729980
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

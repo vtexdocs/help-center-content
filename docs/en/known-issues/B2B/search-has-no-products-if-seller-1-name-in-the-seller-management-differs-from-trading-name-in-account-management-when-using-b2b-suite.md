@@ -1,5 +1,5 @@
 ---
-title: 'Search has no products if seller 1 name in the Seller Management differs from trading name in Account Management when using B2B Suite'
+title: "Search has no products if seller 1 name in the Seller Management differs from trading name in Account Management when using B2B Suite"
 id: 7a3bwqRmeSClHMoFmyIY2a
 status: PUBLISHED
 createdAt: 2023-12-01T20:06:13.492Z

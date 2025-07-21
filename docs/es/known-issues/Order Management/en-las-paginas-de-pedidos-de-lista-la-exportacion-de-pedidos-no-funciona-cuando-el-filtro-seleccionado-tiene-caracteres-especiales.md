@@ -1,5 +1,5 @@
 ---
-title: 'En las páginas de pedidos de lista, la exportación de pedidos no funciona cuando el filtro seleccionado tiene caracteres especiales'
+title: "En las páginas de pedidos de lista, la exportación de pedidos no funciona cuando el filtro seleccionado tiene caracteres especiales"
 id: 2eA1rykmTHxhUsiCQmeNoA
 status: PUBLISHED
 createdAt: 2022-09-21T17:54:38.517Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: on-list-orders-pages-the-export-orders-is-not-working-when-the-filter-selected-has-special-characters
+slugEN: en-las-paginas-de-pedidos-de-lista-la-exportacion-de-pedidos-no-funciona-cuando-el-filtro-seleccionado-tiene-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 662821
@@ -18,7 +18,9 @@ internalReference: 662821
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La nueva interfaz de usuario tiene una limitación para exportar algunos pedidos una vez que el filtro seleccionado tiene en el nombre un carácter especial, por ejemplo ("&" y "á" o "ú") esto ocurre porque incluso la nueva interfaz de usuario puede filtrar los pedidos, pero llama a la antigua ruta de OMS para exportar los pedidos.

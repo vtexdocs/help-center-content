@@ -1,5 +1,5 @@
 ---
-title: 'Encomendas Vendedor 1 não tem notificações sobre o tipo de gancho de Encomendas para Pagamento Estatal Aprovado'
+title: "Encomendas Vendedor 1 não tem notificações sobre o tipo de gancho de Encomendas para Pagamento Estatal Aprovado"
 id: 4FurUuRzROSdEckWPFXH1w
 status: PUBLISHED
 createdAt: 2022-08-18T18:04:03.821Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-seller-1-has-no-notifications-on-hook-type-fromorders-for-state-payment-approved
+slugEN: encomendas-vendedor-1-nao-tem-notificacoes-sobre-o-tipo-de-gancho-de-encomendas-para-pagamento-estatal-aprovado
 locale: pt
 kiStatus: Backlog
 internalReference: 640925
@@ -18,7 +18,9 @@ internalReference: 640925
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Encomendas Vendedor 1, onde o MKT e FFMT está na mesma conta, não tem notificações sobre o tipo de gancho de Encomendas para o estado "Pagamento-Aprovado".

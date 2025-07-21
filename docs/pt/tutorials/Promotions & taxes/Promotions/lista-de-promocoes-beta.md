@@ -48,12 +48,12 @@ Todas as funcionalidades da página serão detalhadas nas seguintes seções:
 
 Para cadastrar uma nova promoção, clique no botão `Criar Promoção`. Em seguida, você pode selecionar os seguintes tipos de promoções:
 
-- [Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
-- [Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323)
-- [Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325)
-- [Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324)
-- [Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322)
-- [Promoção de Campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+- [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Compre Junto](/pt/tutorial/compre-junto--tutorials_323)
+- [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325)
+- [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324)
+- [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322)
+- [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
 
 ## Promoções arquivadas
 
@@ -94,7 +94,7 @@ O número máximo padrão de promoções ativas é 100. Caso precise aumentar es
 
 A lista de promoções pode ser filtrada conforme a sua necessidade. A filtragem da lista pode ser feita pelos filtros a seguir: 
 
-- **Tipo de desconto:** tipo de desconto que será aplicado na promoção. As opções são [Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
+- **Tipo de desconto:** tipo de desconto que será aplicado na promoção. As opções são [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 - **Status:** status da promoção. As opções são `Ativa`, `Programada`, `Pausada` e `Finalizada`.
 - **Última edição:** histórico das últimas edições nos últimos 12 meses, 3 meses, 30 dias, 7 dias ou no dia anterior à consulta.
 - **Política comercial:** política comercial em que a promoção será aplicada.
@@ -112,4 +112,4 @@ Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de uma promoção, você p
 - <i class="fas fa-archive"></i> __Arquivar:__ arquivar a promoção. A promoção será movida automaticamente para a página *[Promoções arquivadas](#promocoes-arquivadas)*.
 
 #### Saiba mais
-- [O que são utm_source, utm_campaign e utm_medium](https://help.vtex.com/pt/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
+- [O que são utm_source, utm_campaign e utm_medium](/pt/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)

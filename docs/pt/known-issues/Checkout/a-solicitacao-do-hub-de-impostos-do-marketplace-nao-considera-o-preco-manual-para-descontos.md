@@ -1,5 +1,5 @@
 ---
-title: 'A solicitação do hub de impostos do Marketplace não considera o preço manual para descontos'
+title: "A solicitação do hub de impostos do Marketplace não considera o preço manual para descontos"
 id: 2pGgbPB7Qm4dXtQauohvx7
 status: PUBLISHED
 createdAt: 2023-11-08T17:59:41.102Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketplace-tax-hub-request-doesnt-consider-manual-price-for-discounts
+slugEN: a-solicitacao-do-hub-de-impostos-do-marketplace-nao-considera-o-preco-manual-para-descontos
 locale: pt
 kiStatus: Fixed
 internalReference: 932657
@@ -18,7 +18,9 @@ internalReference: 932657
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tem isMarketplaceResponsibleForTaxes configurado, a solicitação do hub de impostos não considera preços manuais para descontos de itens.

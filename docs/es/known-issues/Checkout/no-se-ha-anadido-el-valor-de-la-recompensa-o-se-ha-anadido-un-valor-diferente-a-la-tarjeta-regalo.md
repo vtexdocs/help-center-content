@@ -1,5 +1,5 @@
 ---
-title: 'No se ha añadido el valor de la recompensa o se ha añadido un valor diferente a la tarjeta regalo'
+title: "No se ha añadido el valor de la recompensa o se ha añadido un valor diferente a la tarjeta regalo"
 id: 3i9TwGKpYOkwnHUXDON9V7
 status: PUBLISHED
 createdAt: 2023-06-14T16:06:37.154Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: reward-value-not-added-or-have-a-different-value-added-to-gift-card
+slugEN: no-se-ha-anadido-el-valor-de-la-recompensa-o-se-ha-anadido-un-valor-diferente-a-la-tarjeta-regalo
 locale: es
 kiStatus: Backlog
 internalReference: 844079
@@ -18,7 +18,9 @@ internalReference: 844079
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El valor de la recompensa puede no ser o tener un valor diferente añadido a la tarjeta regalo del comprador cuando la promoción está configurada para aplicar el importe de la recompensa cuando el estado del pedido cambia a pago aprobado.

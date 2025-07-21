@@ -1,5 +1,5 @@
 ---
-title: 'MELI OMS Label Printing'
+title: "MELI OMS Label Printing"
 id: 6bjiu8eFZpTS3oGXiGQg34
 status: PUBLISHED
 createdAt: 2022-03-21T13:13:55.286Z

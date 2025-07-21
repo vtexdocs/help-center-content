@@ -1,5 +1,5 @@
 ---
-title: 'SLA offer fluctuating between different shipping policies due to cache in estimated date of 30 seconds'
+title: "SLA offer fluctuating between different shipping policies due to cache in estimated date of 30 seconds"
 id: 2uN3bVrxHhj6Xs6TeQTJDr
 status: PUBLISHED
 createdAt: 2024-05-21T19:34:50.437Z

@@ -1,5 +1,5 @@
 ---
-title: 'A API de política comercial não gera solicitação de reindexação'
+title: "A API de política comercial não gera solicitação de reindexação"
 id: 6xAm1zg05zDB3ff8rOloMR
 status: PUBLISHED
 createdAt: 2023-04-28T18:52:41.010Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: trade-policy-api-do-not-generate-reindexing-request
+slugEN: a-api-de-politica-comercial-nao-gera-solicitacao-de-reindexacao
 locale: pt
 kiStatus: Backlog
 internalReference: 276511
@@ -18,7 +18,9 @@ internalReference: 276511
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Usar a API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-trade-policy para inserir/excluir uma política comercial em um produto ou a API não gera uma solicitação de reindexação.

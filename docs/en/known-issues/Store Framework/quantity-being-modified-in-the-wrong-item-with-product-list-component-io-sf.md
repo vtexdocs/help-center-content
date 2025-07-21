@@ -1,5 +1,5 @@
 ---
-title: 'Quantity being modified in the wrong item with product-list component (IO/SF)'
+title: "Quantity being modified in the wrong item with product-list component (IO/SF)"
 id: jWaas8MOVv5NYSImgA9ao
 status: PUBLISHED
 createdAt: 2022-12-16T18:10:39.004Z

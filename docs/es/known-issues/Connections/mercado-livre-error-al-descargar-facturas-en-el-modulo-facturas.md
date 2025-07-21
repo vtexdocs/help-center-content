@@ -1,5 +1,5 @@
 ---
-title: "[Mercado Livre] Error al descargar facturas en el módulo 'Facturas"
+title: '[Mercado Livre] Error al descargar facturas en el módulo "Facturas'
 id: 6qk4FjmVE85YO8NJT9bQBh
 status: PUBLISHED
 createdAt: 2024-08-27T12:03:22.113Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-error-downloading-invoices-in-the-invoices-module
+slugEN: mercado-livre-error-al-descargar-facturas-en-el-modulo-facturas
 locale: es
 kiStatus: Backlog
 internalReference: 1087545
@@ -18,7 +18,9 @@ internalReference: 1087545
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Error al descargar facturas en el módulo "Facturas" de Mercado Livre

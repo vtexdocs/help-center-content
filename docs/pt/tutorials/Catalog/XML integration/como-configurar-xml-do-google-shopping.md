@@ -15,9 +15,13 @@ legacySlug: como-configurar-xml-do-google-shopping
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
->ℹ️ Desenvolvemos um novo tipo de integração com o Google Shopping por API, que permite acompanhamento em tempo real. Saiba mais em [Configurar integração com o Google Shopping](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw).
+<div class = "alert alert-info">
+ <p>Desenvolvemos um novo tipo de integração com o Google Shopping por API, que permite acompanhamento em tempo real. Saiba mais em <a href="https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw">Configurar integração com o Google Shopping</a>.</p>
+</div>
 
->⚠️ Este artigo se refere ao modelo de 22 de maio de 2013 de especificações do Google Shopping. O Google modifica e atualiza seu modelo sem prévio aviso. Portanto, sempre confirme se nossa explicação permanece atualizada segundo a [documentação do Google Shopping](https://support.google.com/merchants/answer/188494?hl=pt-BR).
+<div class = "alert alert-warning">
+ <p>Este artigo se refere ao modelo de 22 de maio de 2013 de especificações do Google Shopping. O Google modifica e atualiza seu modelo sem prévio aviso. Portanto, sempre confirme se nossa explicação permanece atualizada segundo a <a href="https://support.google.com/merchants/answer/188494?hl=pt-BR">documentação do Google Shopping</a>.</p>
+</div>
 
 Você pode configurar o Google Shopping através do Admin VTEX, seguindo os passos abaixo:
 
@@ -35,4 +39,6 @@ Você pode configurar o Google Shopping através do Admin VTEX, seguindo os pass
 
 ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/XML%20integration/como-configurar-xml-do-google-shopping_1.png)
 
->⚠️ Caso a opção **Exibir SKUs indisponíveis** esteja desmarcada, os produtos ou SKUs que estiverem esgotados não aparecerão no XML. Produtos inativos também não aparecem no XML.
+<div class = "alert alert-warning">
+  <p>Caso a opção <strong>Exibir SKUs indisponíveis</strong> esteja desmarcada, os produtos ou SKUs que estiverem esgotados não aparecerão no XML. Produtos inativos também não aparecem no XML.</p>
+</div>

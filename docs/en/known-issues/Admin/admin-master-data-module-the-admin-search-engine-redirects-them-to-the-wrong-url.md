@@ -1,5 +1,5 @@
 ---
-title: '[Admin] Master Data module, the admin search engine redirects them to the wrong URL.'
+title: "[Admin] Master Data module, the admin search engine redirects them to the wrong URL."
 id: NPUIMi5uS5ngHZBeemIMe
 status: PUBLISHED
 createdAt: 2023-08-28T18:39:23.578Z

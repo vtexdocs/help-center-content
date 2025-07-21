@@ -3,8 +3,8 @@ title: 'Perfis de acesso predefinidos'
 id: jGDurZKJHvHJS13LnO7Dy
 status: PUBLISHED
 createdAt: 2022-04-07T21:34:06.385Z
-updatedAt: 2024-05-22T17:50:31.567Z
-publishedAt: 2024-05-22T17:50:31.567Z
+updatedAt: 2025-04-09T19:03:02.620Z
+publishedAt: 2025-04-09T19:03:02.620Z
 firstPublishedAt: 2022-04-07T21:48:28.951Z
 contentType: tutorial
 productTeam: Identity
@@ -15,11 +15,13 @@ legacySlug:
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), sendo que cada recurso representa uma permissão na plataforma VTEX.
+[Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), sendo que cada recurso representa uma permissão na plataforma VTEX.
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
->ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+<div class = "alert alert-info">
+<p>Para saber mais sobre cada recurso listado nos perfis, veja o artigo <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">Recursos do License Manager</a>.</p>
+</div>
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -37,11 +39,10 @@ Neste documento estão listados os perfis de acesso que estão predefinidos para
 * [Logistics - Read only](#logistics-read-only)
 * [OMS - Full access](#oms-full-access)
 * [OMS - Read only](#oms-read-only)
+* [Payments Notifier](#payments-notifier)
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [VTEX Payment - Account Holder](#vtex-payment-account-holder)
-* [VTEX Payment - Bookkeeper](#vtex-payment-bookkeeper)
 * [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
@@ -67,13 +68,15 @@ Tabela de recursos:
 
 ## Call center operator
 
-Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) da VTEX e permite visualizar pedidos.
+Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) da VTEX e permite visualizar pedidos.
 
 O recurso **Assisted Sales** causa o redirecionamento automático do usuário para a página de televendas da loja, o que deixará o usuário que fizer login numa conta com esse perfil sem acesso a recursos importantes do menu administrativo.
 
 Portanto, recomendamos a utilização de duas contas separadas (com emails distintos) para usuários de televendas: uma conta para o perfil __Call center operator__ (com os recursos <em>Assisted Sales</em> e <em>View order</em>) e outra conta para realizar operações no Admin, se necessário.
 
->⚠️ Ao criar um [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+<div class="alert alert-warning">
+  Ao criar um <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil de acesso</a>, evite incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+</div>
 
 Tabela de recursos:
 
@@ -140,16 +143,16 @@ Tabela de recursos:
 
 ## Sales App - Sales Associate
 
->⚠️ Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.
+<div class="alert alert-warning">
+  <p>Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.</p>
+</div>
 
 Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
 | Assisted Sales | Catalog | Televendas | Após o login o usuário é redirecionado para a loja (accountname.myvtex.com) |
-| View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera uma transação. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
-| Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 
 ## IntegrationProfile - Fulfillment
 
@@ -288,6 +291,14 @@ Tabela de recursos:
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | View store sales stats | OMS | AcessoOMS | Exibe totalizadores dentro da seção Todos os pedidos do Gerenciamento de pedidos. Exibe total de vendas além dos detalhes dos pedidos. |
 
+## Payments Notifier
+
+Tabela de recursos:
+
+| Nome do recurso | Produto | Categoria | Descrição |
+| ---- | ---- | ---- | ---- |
+| Payments Notification | PCI Gateway | Payment-NotifyPayments | Notificação de aprovação de pagamento, utilizando a Payments Gateway API. |
+
 ## Seller Manager
 
 Tabela de recursos:
@@ -326,14 +337,6 @@ Tabela de recursos:
 | Import Redirects | VTEX IO | Infrastructure | Enable user to manage redirects with VTEX IO's command line interface |
 | Manage A/B Test | VTEX IO | A/B Test | Allow to start, finish or get status of a A/B Test |
 | Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account |
-
-## VTEX Payment - Account Holder
-
-Este perfil dá pleno acesso de leitura e escrita aos dados do VTEX Payment e deve ser restrito aos usuários que precisem efetuar configurações.
-
-## VTEX Payment - Bookkeeper
-
-Este perfil possibilita a leitura de informações sobre a operação do VTEX Payment.
 
 ## Webservice - Full access
 

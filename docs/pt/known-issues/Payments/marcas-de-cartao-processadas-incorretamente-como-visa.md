@@ -1,5 +1,5 @@
 ---
-title: 'Marcas de cartão processadas incorretamente como Visa'
+title: "Marcas de cartão processadas incorretamente como Visa"
 id: 7xXie4JWGLWe0ImmHAHzSy
 status: PUBLISHED
 createdAt: 2024-04-30T13:28:23.035Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: card-brands-incorrectly-processed-as-visa
+slugEN: marcas-de-cartao-processadas-incorretamente-como-visa
 locale: pt
 kiStatus: Backlog
 internalReference: 1024823
@@ -18,7 +18,9 @@ internalReference: 1024823
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns cartões de crédito podem ser processados como Visa quando, na verdade, são de outra marca.

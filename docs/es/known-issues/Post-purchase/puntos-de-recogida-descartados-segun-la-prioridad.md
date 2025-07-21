@@ -1,5 +1,5 @@
 ---
-title: 'Puntos de recogida descartados según la prioridad'
+title: "Puntos de recogida descartados según la prioridad"
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: pickup-point-disregarded-based-on-priority
+slugEN: puntos-de-recogida-descartados-segun-la-prioridad
 locale: es
 kiStatus: Backlog
 internalReference: 380545

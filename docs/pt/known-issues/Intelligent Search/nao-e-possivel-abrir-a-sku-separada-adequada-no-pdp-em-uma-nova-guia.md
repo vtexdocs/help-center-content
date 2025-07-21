@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível abrir a SKU separada adequada no PDP em uma nova guia'
+title: "Não é possível abrir a SKU separada adequada no PDP em uma nova guia"
 id: 26kt6vcKm02TMXDFQPA3ES
 status: PUBLISHED
 createdAt: 2023-07-31T21:20:31.271Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab
+slugEN: nao-e-possivel-abrir-a-sku-separada-adequada-no-pdp-em-uma-nova-guia
 locale: pt
 kiStatus: Backlog
 internalReference: 871848
@@ -18,7 +18,9 @@ internalReference: 871848
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar o recurso de desanexação para dividir produtos por alguma especificação de SKU e tentar abrir uma nova guia do PLP para o PDP, ele não reconhece o parâmetro de propriedade que está sendo passado para o URL para selecionar o SKU correto, apenas exibe o SKU adequado ao abrir na mesma guia.

@@ -15,9 +15,10 @@ legacySlug: relevancia-dinamica-en-intelligent-search-beta
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
->
-> Para los clientes seleccionados, la funcionalidad está disponible para su uso gratuito en VTEX Admin durante su período Beta, o hasta que lo decida VTEX. Es posible que en el futuro se apliquen tarifas adicionales.
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si estás interesado en implementarla en el futuro, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a>.</p>
+  <p>Para los clientes seleccionados, la funcionalidad está disponible para su uso gratuito en VTEX Admin durante su período Beta, o hasta que lo decida VTEX. Es posible que en el futuro se apliquen tarifas adicionales.</p>
+</div>
 
 Intelligent Search es una solución de búsqueda de la plataforma VTEX que, de forma sencilla e intuitiva, devuelve resultados relevantes basados en el catálogo desde la primera interacción del usuario con la tienda, ya sea a través de la barra de búsqueda, al navegar por las categorías o incluso a través de las vitrinas de productos. 
 
@@ -30,7 +31,9 @@ En Intelligent Search, hay dos formas de configurar la relevancia de búsqueda:
 
 Solamente una de ellas se aplica a tu tienda por vez, pero puedes [cambiar el tipo de relevancia](#cambiar-el-tipo-de-relevancia) configurado. Si cambias la relevancia manual a dinámica, todas las reglas manuales ya registradas se seguirán guardando.
 
->ℹ️ La relevancia manual está configurada como predeterminada en la tienda.
+<div class = "alert alert-info">
+La relevancia manual está configurada como predeterminada en la tienda.
+</div>
 
 ## Manual 
 
@@ -41,7 +44,7 @@ La relevancia manual se configura distribuyendo los pesos en la página **Reglas
 ![relevancia-manual-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Intelligent%20Search%20Beta/relevancia-dinamica-en-intelligent-search-beta_1.png)
 3. Haz clic en `Guardar`.
 
-Para configurar la relevancia manual, consulta el artículo [Relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Para configurar la relevancia manual, consulta el artículo [Relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
 ## Dinámica
 
@@ -65,7 +68,9 @@ Para activar la relevancia dinámica, sigue estos pasos:
 
 Para cambiar el tipo de relevancia sigue los pasos a continuación:
 
->⚠️ No recomendamos cambiar constantemente el tipo de relevancia que utiliza tu tienda. El sistema necesita una semana para asentarse.
+<div class = "alert alert-warning">
+No recomendamos cambiar constantemente el tipo de relevancia que utiliza tu tienda. El sistema necesita una semana para asentarse.
+</div>
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search > Reglas de relevancia**  o ingresa **Reglas de relevancia** en la barra de búsqueda de la parte superior de la página.
 2. Haz clic en `Cambiar`.

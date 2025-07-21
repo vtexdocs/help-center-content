@@ -1,5 +1,5 @@
 ---
-title: 'Seletor de SKU com contextos múltiplos'
+title: "Seletor de SKU com contextos múltiplos"
 id: 4n6ap30jnJOrzflLCnVziO
 status: PUBLISHED
 createdAt: 2024-01-29T13:31:21.812Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sku-selector-with-multilpe-contexts
+slugEN: seletor-de-sku-com-contextos-multiplos
 locale: pt
 kiStatus: Fixed
 internalReference: 341322
@@ -18,7 +18,9 @@ internalReference: 341322
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

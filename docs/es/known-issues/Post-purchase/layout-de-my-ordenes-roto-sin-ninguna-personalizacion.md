@@ -1,5 +1,5 @@
 ---
-title: 'Layout de My Ordenes roto sin ninguna personalización'
+title: "Layout de My Ordenes roto sin ninguna personalización"
 id: 6o2E1VOSaW2Yso0Cg0uU8Q
 status: PUBLISHED
 createdAt: 2017-05-26T15:03:53.391Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_6
 tag: My Orders
-slugEN: my-orders-layout-breaking-without-customization
+slugEN: layout-de-my-ordenes-roto-sin-ninguna-personalizacion
 locale: es
 kiStatus: Fixed
 internalReference: 

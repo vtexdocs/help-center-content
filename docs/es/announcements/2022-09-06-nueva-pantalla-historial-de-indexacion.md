@@ -23,7 +23,7 @@ Para mejorar la experiencia de monitoreo de la indexación del catálogo, redise
 
 ## ¿Qué cambió?
 
-Antes, VTEX mostraba dos indexaciones diferentes, una para [Catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) y una para [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Ahora, el proceso está unificado en **Historial de indexación**.
+Antes, VTEX mostraba dos indexaciones diferentes, una para [Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) y una para [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Ahora, el proceso está unificado en **Historial de indexación**.
 
 La página **Historial de indexación** ha sido completamente rediseñada. Algunos de los cambios son:
 
@@ -40,7 +40,7 @@ Rediseñamos la pantalla de **Historial de indexación** para proporcionar una v
 
 ## ¿Qué se necesita hacer?
 
-La página **Status de indexación** de Intelligent Search será deshabilitada y sustituída por **Historial de indexación**. No se requiere ninguna acción. La actualización será automática en todas las tiendas. Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Historial de indexación](https://help.vtex.com/es/tutorial/historial-de-indexacion-beta--6v2FVuXVpyEO8hnMqPi6Xd).
+La página **Status de indexación** de Intelligent Search será deshabilitada y sustituída por **Historial de indexación**. No se requiere ninguna acción. La actualización será automática en todas las tiendas. Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Historial de indexación](/es/tutorial/historial-de-indexacion-beta--6v2FVuXVpyEO8hnMqPi6Xd).
 
-Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del [nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
 

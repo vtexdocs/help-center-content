@@ -1,5 +1,5 @@
 ---
-title: "La importación de productos&SKUs no es compatible con 'lb'"
+title: "La importación de productos&SKUs no es compatible con 'lb"
 id: 1OjtnFf9MpY1IFzQa8Ua2t
 status: PUBLISHED
 createdAt: 2022-06-17T19:38:17.726Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: productsskus-import-does-not-support-lb
+slugEN: la-importacion-de-productosskus-no-es-compatible-con-lb
 locale: es
 kiStatus: No Fix
 internalReference: 337860
@@ -18,7 +18,9 @@ internalReference: 337860
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la hoja de catálogo de Productos y SKUs no soporta la unidad de medida 'lb'. `/admin/Site/Relatorio_Skus.aspx`

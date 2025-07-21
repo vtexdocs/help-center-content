@@ -1,5 +1,5 @@
 ---
-title: 'El estado de compilación de Webops está en blanco'
+title: "El estado de compilación de Webops está en blanco"
 id: 2LJ4SUqRfpU2u2Xbquua0J
 status: PUBLISHED
 createdAt: 2024-11-11T14:56:11.685Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: webops-build-status-is-blank
+slugEN: el-estado-de-compilacion-de-webops-esta-en-blanco
 locale: es
 kiStatus: Backlog
 internalReference: 1133146
@@ -18,7 +18,9 @@ internalReference: 1133146
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces, después de desplegar algunos cambios en su tienda Webops, el estado de construcción de la página de administración Webops puede permanecer en blanco. Esto puede suceder cuando se producen múltiples despliegues en un corto período de tiempo.

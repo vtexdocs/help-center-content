@@ -1,5 +1,5 @@
 ---
-title: "Campo 'items' se quitará de la API de List Orders"
+title: 'Campo "items" se quitará de la API de List Orders'
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z
@@ -23,7 +23,9 @@ Request de la API de List Orders: <code>http://{{accountName}}.{{environment}}.c
 
 Si su tienda utiliza la API de List Orders y en el mapeo de su integración se espera recibir el campo `items`, su equipo de desarrollo necesita retirarlo del mapeo de la integración.
 
->⚠️ El campo `items` de la API de List Orders ya está **obsoleto** desde hace bastante tiempo. Él no tiene ninguna utilidad actualmente, y por eso su tienda no debería considerarlo en sus integraciones. Para recoger artículos de pedidos, usted debe usar la [API del Feed](http://help.vtex.com/es/tutorial/como-funciona-el-feed-del-oms).
+<div class="alert alert-warning">
+El campo <code>items</code> de la API de List Orders ya está <strong>obsoleto</strong> desde hace bastante tiempo. Él no tiene ninguna utilidad actualmente, y por eso su tienda no debería considerarlo en sus integraciones. Para recoger artículos de pedidos, usted debe usar la <a href="http://help.vtex.com/es/tutorial/como-funciona-el-feed-del-oms">API del Feed</a>.
+</div>
 
 Es importante recordar que la API de List Orders sigue funcionando normalmente. Sólo se eliminará el campo `items`.
 
@@ -33,9 +35,13 @@ La retirada de este campo aumentará considerablemente la estabilidad y el rendi
 
 Por eso, es crucial retirarlo de la integración.
 
->ℹ️ **Atención:** este cambio sólo impacta las integraciones que dependen de la entrega del campo `items` por la API de List Orders.
+<div class="alert alert-info">
+<strong>Atención:</strong> este cambio sólo impacta las integraciones que dependen de la entrega del campo `items` por la API de List Orders.
+</div>
 
->ℹ️ Este cambio **no** afecta a la API de Get Orders. En ella, el campo `items` sigue existiendo y se actualiza normalmente.
+<div class="alert alert-info">
+Este cambio <strong>no</strong> afecta a la API de Get Orders. En ella, el campo <code>items</code> sigue existiendo y se actualiza normalmente.
+</div>
 
 <div class="alert">
 Request de la API de Get Order: <code>http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}</code>

@@ -1,5 +1,5 @@
 ---
-title: 'Users are unable to access customer credit settings UI on the Admin due to a forbidden error'
+title: "Users are unable to access customer credit settings UI on the Admin due to a forbidden error"
 id: 3RBofop7gS1VlKEDHozclF
 status: PUBLISHED
 createdAt: 2022-02-24T13:19:29.719Z

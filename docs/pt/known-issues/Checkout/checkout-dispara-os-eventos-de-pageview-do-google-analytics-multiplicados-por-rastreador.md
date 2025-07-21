@@ -1,5 +1,5 @@
 ---
-title: 'Checkout dispara os eventos de pageview do Google Analytics multiplicados por rastreador'
+title: "Checkout dispara os eventos de pageview do Google Analytics multiplicados por rastreador"
 id: 1XMmCfDdKVLEZ5SFq7TyrO
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:41.067Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-firing-google-analytics-pageview-events-multiplied-per-tracker
+slugEN: checkout-dispara-os-eventos-de-pageview-do-google-analytics-multiplicados-por-rastreador
 locale: pt
 kiStatus: Fixed
 internalReference: 350780
@@ -18,7 +18,9 @@ internalReference: 350780
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A implementação do Google Analytics do Checkout está disparando o evento de pageview uma vez por rastejador, mesmo que o rastejador não tenha a intenção de rastrear as informações de pageview.

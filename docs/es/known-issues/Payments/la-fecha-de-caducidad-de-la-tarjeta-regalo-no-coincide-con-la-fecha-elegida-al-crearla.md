@@ -1,5 +1,5 @@
 ---
-title: 'La fecha de caducidad de la tarjeta regalo no coincide con la fecha elegida al crearla'
+title: "La fecha de caducidad de la tarjeta regalo no coincide con la fecha elegida al crearla"
 id: 57GeuSubkdDkQNwzL3nmup
 status: PUBLISHED
 createdAt: 2022-03-27T14:08:35.577Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-expiration-date-does-not-match-with-the-date-chosen-when-it-was-created
+slugEN: la-fecha-de-caducidad-de-la-tarjeta-regalo-no-coincide-con-la-fecha-elegida-al-crearla
 locale: es
 kiStatus: No Fix
 internalReference: 378436
@@ -18,7 +18,9 @@ internalReference: 378436
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los clientes están recibiendo un error al intentar pagar con tarjetas regalo cuando la fecha de la compra coincide con la fecha de caducidad.

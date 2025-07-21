@@ -32,9 +32,9 @@ Las reglas de merchandising pueden configurarse para diferentes casos de uso. Se
 
 ## Cómo funciona
 
-Las reglas de merchandising son una configuración de prioridad. Esto significa que si creas una regla para promover un producto específico dada una determinada búsqueda, dicho producto se mostrará al principio de los resultados, independientemente de las demás[ configuraciones de relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Las reglas de merchandising son una configuración de prioridad. Esto significa que si creas una regla para promover un producto específico dada una determinada búsqueda, dicho producto se mostrará al principio de los resultados, independientemente de las demás[ configuraciones de relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-Las reglas de activación definen cómo se aplican las reglas de merchandising. En otras palabras, las reglas de activación son [condiciones](https://help.vtex.com/es/tutorial/condiciones-de-reglas-de-merchandising--4K9WCBiQ4ndU396ZygDpc2) que identifican los escenarios en que debe activarse el efecto.
+Las reglas de activación definen cómo se aplican las reglas de merchandising. En otras palabras, las reglas de activación son [condiciones](/es/tutorial/condiciones-de-reglas-de-merchandising--4K9WCBiQ4ndU396ZygDpc2) que identifican los escenarios en que debe activarse el efecto.
 
 ## Buenas prácticas
 
@@ -46,16 +46,18 @@ Algunos de los principales casos de uso de las reglas de merchandising son:
 
 Toma en cuenta las siguientes recomendaciones al utilizar reglas de merchandising en tu tienda:
 
-* Gestiona las reglas de merchandising considerando las [reglas de relevancia](https://help.vtex.com/es/tutorial/regras-de-relevancia--1o9jtVGjSIiptbqdNXIlNK) y los [sinónimos](https://help.vtex.com/es/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN) de Intelligent Search. Asegúrate de que estos tres elementos estén alineados para evitar conflictos y proporcionar una experiencia de búsqueda coherente y eficaz.
+* Gestiona las reglas de merchandising considerando las [reglas de relevancia](/es/tutorial/regras-de-relevancia--1o9jtVGjSIiptbqdNXIlNK) y los [sinónimos](/es/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN) de Intelligent Search. Asegúrate de que estos tres elementos estén alineados para evitar conflictos y proporcionar una experiencia de búsqueda coherente y eficaz.
 * No utilices reglas de merchandising con efectos opuestos para los mismos ítems, ya que pueden producirse comportamientos inesperados en los resultados de búsqueda.
 * La creación de muchas reglas de merchandising puede tener un impacto considerable en las búsquedas orgánicas.
-* Ten cuidado al utilizar [reglas de activación](https://help.vtex.com/es/tutorial/criar-regra-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc#regras-de-ativacao) globales, ya que impactarán todas las búsquedas.
+* Ten cuidado al utilizar [reglas de activación](/es/tutorial/criar-regra-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc#regras-de-ativacao) globales, ya que impactarán todas las búsquedas.
 
->⚠️ Si los resultados de búsqueda no son adecuados, no recomendamos crear reglas de merchandising para corregirlos. Esto podría deberse a otro tipo de problema de configuración. En ese caso, ponte en contacto con nuestro [soporte](https://support.vtex.com/hc/es-419).
+<div class="alert alert-warning">
+  <p>Si los resultados de búsqueda no son adecuados, no recomendamos crear reglas de merchandising para corregirlos. Esto podría deberse a otro tipo de problema de configuración. En ese caso, ponte en contacto con nuestro <a href="https://support.vtex.com/hc/es-419">soporte</a>.</p>
+</div>
 
 ## Más información
 
-* [Lista de Reglas de merchandising](https://help.vtex.com/es/tutorial/lista-de-reglas-de-merchandising--3CZOjyie1LZVOhzeviVCgu)
-* [Crear regla de merchandising - Editor visual](https://help.vtex.com/es/tutorial/criar-regla-de-merchandising-editor-visual--3gPO5CMJ3Off0OtA3EPzow)
-* [Crear regla de merchandising - Editor manual](https://help.vtex.com/es/tutorial/criar-regla-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc)
-* [Condiciones de las reglas de merchandising](https://help.vtex.com/es/tutorial/condiciones-de-reglas-de-merchandising--4K9WCBiQ4ndU396ZygDpc2)
+* [Lista de Reglas de merchandising](/es/tutorial/lista-de-reglas-de-merchandising--3CZOjyie1LZVOhzeviVCgu)
+* [Crear regla de merchandising - Editor visual](/es/tutorial/criar-regla-de-merchandising-editor-visual--3gPO5CMJ3Off0OtA3EPzow)
+* [Crear regla de merchandising - Editor manual](/es/tutorial/criar-regla-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc)
+* [Condiciones de las reglas de merchandising](/es/tutorial/condiciones-de-reglas-de-merchandising--4K9WCBiQ4ndU396ZygDpc2)

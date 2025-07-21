@@ -1,5 +1,5 @@
 ---
-title: 'O favicon não é exibido em algumas versões do Google Chrome para celular'
+title: "O favicon não é exibido em algumas versões do Google Chrome para celular"
 id: 2c1RVz2SC0QsYTT7i0XMJ3
 status: PUBLISHED
 createdAt: 2024-11-22T19:08:45.054Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: favicon-does-not-display-in-some-versions-of-google-chrome-mobile
+slugEN: o-favicon-nao-e-exibido-em-algumas-versoes-do-google-chrome-para-celular
 locale: pt
 kiStatus: Backlog
 internalReference: 1139339
@@ -18,7 +18,9 @@ internalReference: 1139339
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O favicon não é exibido em determinadas versões do Google Chrome Mobile. Esse problema foi relatado de forma inconsistente e parece afetar configurações específicas de dispositivos e navegadores.

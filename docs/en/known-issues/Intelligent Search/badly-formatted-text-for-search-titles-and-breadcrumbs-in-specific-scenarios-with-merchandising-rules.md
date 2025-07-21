@@ -1,5 +1,5 @@
 ---
-title: 'Badly formatted text for search titles and breadcrumbs in specific scenarios with merchandising rules'
+title: "Badly formatted text for search titles and breadcrumbs in specific scenarios with merchandising rules"
 id: 3dQskVnI1sbF6jgsopjUUt
 status: PUBLISHED
 createdAt: 2024-03-13T20:52:33.781Z

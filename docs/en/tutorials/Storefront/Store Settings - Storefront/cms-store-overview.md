@@ -35,5 +35,5 @@ In the VTEX Admin, access **Store Settings > Storefront > Store**, and take a lo
 
 Check out the  tutorial below to start managing your storefront content:
 
-- [Enabling PWA push notifications in your store](https://help.vtex.com/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
+- [Enabling PWA push notifications in your store](/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
 

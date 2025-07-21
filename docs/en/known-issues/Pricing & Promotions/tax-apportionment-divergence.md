@@ -1,5 +1,5 @@
 ---
-title: 'Tax apportionment divergence.'
+title: "Tax apportionment divergence."
 id: 4X7RMIaiJXcCUTZv5Pcy1q
 status: PUBLISHED
 createdAt: 2022-04-14T12:30:26.091Z

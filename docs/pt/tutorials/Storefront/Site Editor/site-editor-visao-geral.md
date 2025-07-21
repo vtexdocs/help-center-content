@@ -38,11 +38,11 @@ No Admin VTEX, acesse **Storefront > Site Editor** e confira as principais ferra
 
 Confira os seguintes tutoriais para começar a gerenciar o conteúdo da sua frente de loja:
 
-- [Gerenciando conteúdo de página e template](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37?&utm_source=autocomplete)
-- [Melhorando o SEO das Páginas de lista de produtos](https://help.vtex.com/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG)
-- [Reutilizando imagens com o Image Widget](https://help.vtex.com/pt/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
-- [Vinculando URLs em banners usando o Site Editor](https://help.vtex.com/pt/tutorial/vinculando-urls-em-banners-usando-o-site-editor--4z2PagtN733waiWA8ttOuD)
-- [Criando landing pages por binding](https://help.vtex.com/pt/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A)
-- [Gerenciando conteúdo por binding](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn)
-- [Gerenciando redirecionamentos de URL por binding](https://help.vtex.com/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37?&utm_source=autocomplete)
+- [Melhorando o SEO das Páginas de lista de produtos](/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG)
+- [Reutilizando imagens com o Image Widget](/pt/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+- [Vinculando URLs em banners usando o Site Editor](/pt/tutorial/vinculando-urls-em-banners-usando-o-site-editor--4z2PagtN733waiWA8ttOuD)
+- [Criando landing pages por binding](/pt/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A)
+- [Gerenciando conteúdo por binding](/pt/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn)
+- [Gerenciando redirecionamentos de URL por binding](/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
 

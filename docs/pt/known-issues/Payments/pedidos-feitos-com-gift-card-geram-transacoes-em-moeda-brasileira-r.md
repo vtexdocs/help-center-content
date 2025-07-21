@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos feitos com Gift Card geram transações em moeda brasileira (R$)'
+title: "Pedidos feitos com Gift Card geram transações em moeda brasileira (R$)"
 id: 6KbJ0z705zqqSfL9PiuLHj
 status: PUBLISHED
 createdAt: 2024-08-19T15:44:05.465Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r
+slugEN: pedidos-feitos-com-gift-card-geram-transacoes-em-moeda-brasileira-r
 locale: pt
 kiStatus: Backlog
 internalReference: 1083379
@@ -18,7 +18,9 @@ internalReference: 1083379
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os pagamentos com Gift Card não são criados com um `currencyCode`, como consequência, as transações serão criadas com o padrão R$ (Real brasileiro), o que não acontece quando outro método de pagamento está presente (por exemplo, Gift Card + Cartão de crédito).

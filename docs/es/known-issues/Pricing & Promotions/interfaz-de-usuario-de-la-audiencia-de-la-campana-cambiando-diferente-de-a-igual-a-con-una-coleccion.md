@@ -1,5 +1,5 @@
 ---
-title: "Interfaz de usuario de la audiencia de la campaña cambiando 'Diferente de' a 'Igual a' con una colección"
+title: 'Interfaz de usuario de la audiencia de la campaña cambiando "Diferente de" a "Igual a" con una colección'
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: campaign-audience-ui-changing-different-from-to-equal-to-with-a-collection
+slugEN: interfaz-de-usuario-de-la-audiencia-de-la-campana-cambiando-diferente-de-a-igual-a-con-una-coleccion
 locale: es
 kiStatus: Backlog
 internalReference: 881131
@@ -18,7 +18,9 @@ internalReference: 881131
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

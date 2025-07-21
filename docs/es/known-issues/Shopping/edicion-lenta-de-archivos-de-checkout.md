@@ -1,5 +1,5 @@
 ---
-title: 'Edición lenta de archivos de Checkout'
+title: "Edición lenta de archivos de Checkout"
 id: 4uKQzzpNfbYLKZdhTW4f0O
 status: PUBLISHED
 createdAt: 2019-09-16T17:25:55.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: delay-when-editing-checkout-files
+slugEN: edicion-lenta-de-archivos-de-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 

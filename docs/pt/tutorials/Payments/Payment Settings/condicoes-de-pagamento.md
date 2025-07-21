@@ -3,8 +3,8 @@ title: 'Configurar condições de pagamento'
 id: tutorials_455
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2024-10-22T12:59:40.955Z
-publishedAt: 2024-10-22T12:59:40.955Z
+updatedAt: 2025-04-23T13:29:53.447Z
+publishedAt: 2025-04-23T13:29:53.447Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial
@@ -19,18 +19,20 @@ Condições de pagamento são as formas de pagamento exibidas no site para a fin
 
 ## Como configurar
 
-Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway/). 
+Antes de iniciar a configuração de uma condição de pagamento, é necessário cadastrar uma [integração de pagamento](/pt/tutorial/afiliacoes-de-gateway/). 
 
 Uma vez definido o seu provedor, para qualquer uma das condições de pagamento a serem escolhidas, sempre será necessário:
 
 - Preencher o campo __Nome da regra__ com um nome de sua preferência para identificação.
 - Ativar a condição no campo __Status__.
 - Indicar em __Processar com o provedor__, qual provedor irá processar esta condição de pagamento.
-- Definir se deseja utilizar um [sistema antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude) em __Usar solução antifraude__.
+- Definir se deseja utilizar um [sistema antifraude](/pt/tutorial/como-configurar-antifraude) em __Usar solução antifraude__.
 
-Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Além disso, existe a possibilidade de definir se o pagamento será: à vista ou em parcelas, com ou sem juros, ou com [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
->⚠️ Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+<div class="alert alert-warning">
+Quaisquer alterações nas condições de pagamento podem demorar até 10 minutos para aparecerem no checkout da sua loja.
+</div>
 
 Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condição de pagamento.
 
@@ -48,7 +50,9 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 8. No campo __À vista ou parcelado?__, selecione __À vista__.
 9. Clique em __Salvar__.
 
->ℹ️ No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+<div class="alert alert-info">
+No Passo 5. você pode escolher outros métodos de pagamento como cartões de débito, cobranded, private, promissórias, boletos, PIX, entre outros.
+</div>
 
 ### Parcelado sem juros
 

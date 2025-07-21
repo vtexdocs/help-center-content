@@ -1,5 +1,5 @@
 ---
-title: 'Total de itens de reserva com valor negativo na interface do usuário do inventário'
+title: "Total de itens de reserva com valor negativo na interface do usuário do inventário"
 id: 5W8BeBZjSgN30YXwXfT8kV
 status: PUBLISHED
 createdAt: 2024-02-29T22:05:19.854Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: total-reservation-item-with-negative-value-in-inventory-ui
+slugEN: total-de-itens-de-reserva-com-valor-negativo-na-interface-do-usuario-do-inventario
 locale: pt
 kiStatus: Backlog
 internalReference: 991735
@@ -18,7 +18,9 @@ internalReference: 991735
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -19,7 +19,9 @@ El **Informe de Indexación** es el reporte que indica el status de indexación 
 
 ![productosindexados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Reports/utilizando-el-informe-de-indexacion_1.png)
 
->ℹ️ **Nota:** Acceda a ver más información en [Entendiendo el funcionamiento de la indexación.](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion)
+<div class="alert alert-info">
+<strong>Nota:</strong> Acceda a ver más información en <a href="/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion">Entendiendo el funcionamiento de la indexación.</a>
+</div>
 
 ## Cómo acceder al informe de indexación
 

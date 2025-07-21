@@ -1,5 +1,5 @@
 ---
-title: 'Error al instalar la aplicación de crédito al cliente'
+title: "Error al instalar la aplicación de crédito al cliente"
 id: 1ZrXFgFApBkNdDkIVtJfHN
 status: PUBLISHED
 createdAt: 2022-03-27T16:27:57.734Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-when-install-customer-credit-app
+slugEN: error-al-instalar-la-aplicacion-de-credito-al-cliente
 locale: es
 kiStatus: Backlog
 internalReference: 336533
@@ -18,7 +18,9 @@ internalReference: 336533
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al descargar la aplicación de Crédito Cliente e insertar el nombre de la cuenta en el campo de la derecha, se devuelve el mensaje: _no se ha podido encontrar la tienda indicada_. este es un problema intermitente un No se ha podido identificar el escenario específico que hace que aparezca este error.

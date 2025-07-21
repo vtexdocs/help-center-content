@@ -1,5 +1,5 @@
 ---
-title: '[Analytics] Error al cargar datos en el panel de rendimiento de ventas'
+title: "[Analytics] Error al cargar datos en el panel de rendimiento de ventas"
 id: 248vcET5q5GkJj0dgpc9O2
 status: PUBLISHED
 createdAt: 2023-04-28T19:55:43.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: analytics-error-loading-data-in-sales-performance-dashboard
+slugEN: analytics-error-al-cargar-datos-en-el-panel-de-rendimiento-de-ventas
 locale: es
 kiStatus: Backlog
 internalReference: 799899
@@ -18,7 +18,9 @@ internalReference: 799899
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Error al cargar los datos en el cuadro de mandos `rendimiento de ventas

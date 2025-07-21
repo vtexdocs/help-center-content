@@ -32,7 +32,9 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 
 ![Minimum Order Value - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku_1.png)
 
->⚠️ Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
+<div class="alert alert-warning">
+Ao cliente é permitido montar um carrinho com um valor menor que o especificado na regra de "Valor mínimo total do carrinho". Entretanto, no momento de fechamento da compra, só serão concluídos os pedidos que estiverem com o valor igual ou acima do especificado.
+</div>
 
 ## Definir uma quantidade máxima de itens do mesmo SKU por carrinho
 
@@ -42,6 +44,8 @@ Já em operações B2B, há necessidade de se manter relações com os comprador
 
 ![Quantidade Maxima de um mesmo SKU no carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku_2.png)
 
->⚠️ Não existem limites para a quantidade máxima de itens do **mesmo SKU** por carrinho. A única restrição é referente a quantidade máxima de itens de **SKUs diferentes**, que devem ser no máximo de 300 itens por carrinho.
+<div class="alert alert-warning">
+Não existem limites para a quantidade máxima de itens do <b>mesmo SKU</b> por carrinho. A única restrição é referente a quantidade máxima de itens de <b>SKUs diferentes</b>, que devem ser no máximo de 300 itens por carrinho. 
+</div>
 
 Caso deseja utilizar ações que impeça o usuário de exceder os valores específicados ainda durante o fluxo de compra (por exemplo, criar uma trava do botão de acionar ao carrinho quando a quantida máxima de itens for atingida), será necessário criar uma customização no front-end da loja.

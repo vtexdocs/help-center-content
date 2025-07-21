@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar código postal no quita la dirección antigua'
+title: "Cambiar código postal no quita la dirección antigua"
 id: 3kS6NurZhmokISg82eaMw2
 status: PUBLISHED
 createdAt: 2018-09-11T19:53:42.872Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: changing-zip-code-doesnt-remove-old-address
+slugEN: cambiar-codigo-postal-no-quita-la-direccion-antigua
 locale: es
 kiStatus: Backlog
 internalReference: 

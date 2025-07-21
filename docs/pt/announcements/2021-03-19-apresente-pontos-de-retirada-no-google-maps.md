@@ -32,4 +32,4 @@ Exibir a localização dos pontos de retirada no mapa ajuda o usuário a situar 
 ##  O que precisa ser feito? 
 Instale o app a partir da [VTEX App Store](https://apps.vtex.com/vtex-store-locator/p#overview) e siga as instruções [desta documentação](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-locator) para configurar. Lembre-se que você precisa ter Pontos de Retirada previamente cadastrados na sua loja.
 
-Para saber mais sobre Pontos de Retirada, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+Para saber mais sobre Pontos de Retirada, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).

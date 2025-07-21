@@ -21,7 +21,9 @@ Es decir, si el cliente solicita la cancelación antes o durante el período de 
 
 Si el cliente solicita la cancelación después de que la carencia haya terminado, la tienda recibe la solicitud, pero la cancelación sólo se realiza si la tienda la aprueba en Gestión de pedidos.
 
->ℹ️ De forma predeterminada, el tiempo de carencia para cancelación de pedido es de 30 minutos, pero se puede configurar para satisfacer la demanda de su negocio.
+<div class = "alert alert-info">
+De forma predeterminada, el tiempo de carencia para cancelación de pedido es de 30 minutos, pero se puede configurar para satisfacer la demanda de su negocio.
+</div>
 
 Por ejemplo, si su tienda vende alimentos o productos farmacéuticos, que necesitan ser entregados en poco tiempo, puede ser mejor tener una carencia de cancelación menor de 30 minutos.
 
@@ -33,5 +35,5 @@ Para configurar esta ventana de tiempo, sigue los pasos a continuación:
 
 ### Artículos relacionados
 
-- [Configurar el tiempo de espera para cancelar el pedido](https://help.vtex.com/es/tutorial/como-funciona-la-cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo)
-- [¿Por qué un pedido fue cancelado?](https://help.vtex.com/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Configurar el tiempo de espera para cancelar el pedido](/es/tutorial/como-funciona-la-cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo)
+- [¿Por qué un pedido fue cancelado?](/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)

@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect apportionment of kit value when discount is applied'
+title: "Incorrect apportionment of kit value when discount is applied"
 id: mZLhWgjrvEa0eISE4syUE
 status: PUBLISHED
 createdAt: 2017-04-06T17:27:01.147Z

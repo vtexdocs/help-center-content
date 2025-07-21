@@ -1,5 +1,5 @@
 ---
-title: "Algunos métodos de pago no se muestran en las promociones 'Comprar juntos' de la nueva interfaz de usuario."
+title: 'Algunos métodos de pago no se muestran en las promociones "Comprar juntos" de la nueva interfaz de usuario.'
 id: MDXIGrCng2fJOUibsc2RK
 status: PUBLISHED
 createdAt: 2024-09-03T01:49:54.371Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: some-payment-methods-are-not-displayed-at-buy-together-promotions-on-the-new-ui
+slugEN: algunos-metodos-de-pago-no-se-muestran-en-las-promociones-comprar-juntos-de-la-nueva-interfaz-de-usuario
 locale: es
 kiStatus: Backlog
 internalReference: 1091169
@@ -18,7 +18,9 @@ internalReference: 1091169
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Existe un problema por el que determinados métodos de pago no se muestran correctamente al configurar promociones "Comprar juntos" en la nueva interfaz de usuario. En concreto, los métodos de pago que tienen condiciones especiales establecidas por el canal de ventas no son compatibles. La interfaz heredada no tiene este problema.

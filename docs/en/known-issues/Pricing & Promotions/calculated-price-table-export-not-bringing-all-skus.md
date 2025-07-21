@@ -1,10 +1,10 @@
 ---
-title: 'Calculated Price Table export not bringing all skus'
+title: "Calculated Price Table export not bringing all SKUs"
 id: 3pJcwSnZG1nO0YjIPCnfyV
 status: PUBLISHED
 createdAt: 2022-12-23T13:41:21.656Z
-updatedAt: 2022-12-23T13:41:22.123Z
-publishedAt: 2022-12-23T13:41:22.123Z
+updatedAt: 2024-12-19T13:57:55.682Z
+publishedAt: 2024-12-19T13:57:55.682Z
 firstPublishedAt: 2022-12-23T13:41:22.123Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -19,10 +19,7 @@ internalReference: 722005
 ## Summary
 
 
-
-When exporting the calculated price table on the pricing module UI sometimes not all skus are being exported.
-
-The spreadsheet size can change if you export more than once, bringing fewer results than the expected.
+When exporting the Calculated Price Table from the Pricing module UI, not all SKUs are consistently included in the exported file. The number of lines in the exported spreadsheet can vary between exports, sometimes resulting in fewer SKUs than expected.
 
 
 ##
@@ -30,14 +27,13 @@ The spreadsheet size can change if you export more than once, bringing fewer res
 ## Simulation
 
 
+This issue is intermittent, but it can be observed as follows:
 
-This scenario is tricky to reproduce because it doesn't always happens.
-
-
-1. Go to the pricing module UI and make sure you're not using any filters
-2. Export the Calculated Price Table more than once
-3. Check the amount of lines on the spreadsheet.
-4. Export again the Calculated Price Table and check if the size is the same as the previous one. Sometimes it won't be.
+1. Navigate to the Pricing module UI.
+2. Ensure no filters are applied.
+3. Export the Calculated Price Table.
+4. Compare the number of rows in the exported spreadsheet.
+5. Repeat the export process multiple times. On some attempts, the spreadsheet may have fewer rows than previous exports.
 
 
 ##
@@ -45,6 +41,12 @@ This scenario is tricky to reproduce because it doesn't always happens.
 ## Workaround
 
 
+To ensure accurate results:
 
-Since the scenario does not happen every time, make sure to download more than once the spreadsheet to know the real size of the Calculated Price Table. You can use that one as the reference.
+- Export the Calculated Price Table multiple times and compare the spreadsheets to make sure about the price table number of rows.
+- Use the export with the largest number of rows as the reference for the complete Calculated Price Table.
+
+
+
+
 

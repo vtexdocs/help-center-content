@@ -15,7 +15,7 @@ legacySlug: managing-b2b-quotes
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
 
-The **B2B Quotes** app allows customers using the [B2B Organizations](https://help.vtex.com/pt/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
+The **B2B Quotes** app allows customers using the [B2B Organizations](/pt/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
 
 In this article, you'll find:
 
@@ -115,7 +115,9 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
    </li>
    <li>Write a note in the <strong>Add Note</strong> field, if necessary.</li>
 </ol>
->ℹ️ Notes added here will be visible as part of the Update History of the quote or saved cart and can be seen by the sales associates or other members of your organization and cost center. For example: if a user wants to ask for a specific discount from the sales associate in the B2B store, they can enter this request as a note.
+<div class = "alert alert-info">
+   Notes added here will be visible as part of the Update History of the quote or saved cart and can be seen by the sales associates or other members of your organization and cost center. For example: if a user wants to ask for a specific discount from the sales associate in the B2B store, they can enter this request as a note.
+</div>
 <ol start="8">
    <li>
       Click one of the following options:
@@ -181,6 +183,8 @@ Users with the [permission](#access-permissions) to **Reject** Quotes and Carts 
 
 To use the quote, click `Use Quote` on the quote details page. You will be redirected to checkout, with the content of the quote or saved cart added to your current cart. All items that were previously in your cart will be removed.
 
->⚠️ If the [ Checkout Settings](https://help.vtex.com/en/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok) app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
+<div class="alert alert-warning">
+If the <a href="https://help.vtex.com/en/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok"> Checkout Settings</a> app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
+</div>
 
 After placing the order, the status of the quote or saved cart will automatically change to **Placed**, preventing its further use.

@@ -1,32 +1,37 @@
 ---
-title: '[Mercado Livre] Remover a validação under_review em Atualizar SKU'
+title: "[Mercado Livre] Remover a validação under_review em Atualizar SKU"
 id: 1yeZeigiok3zaltkI7RTMW
 status: PUBLISHED
 createdAt: 2023-08-30T18:15:25.269Z
-updatedAt: 2023-08-30T18:15:25.924Z
-publishedAt: 2023-08-30T18:15:25.924Z
+updatedAt: 2025-06-23T14:26:02.163Z
+publishedAt: 2025-06-23T14:26:02.163Z
 firstPublishedAt: 2023-08-30T18:15:25.924Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-remove-underreview-validation-in-update-sku
+slugEN: mercado-livre-remover-a-validacao-underreview-em-atualizar-sku
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 890658
 ---
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
-Remover a validação under_review no fluxo Update SKU porque quando o vendedor aplica as ações para corrigir os casos de moderação e estes estão relacionados com o catálogo, não estamos enviando essas alterações para o MELI e, finalmente, os anúncios MELI continuam sendo moderados.
+Mapa de moderação atualizado
+Nesse caso, quando a moderação for marcada como DOMAIN, redirecionaremos para o catálogo em vez do Mapper, porque o anúncio não pode ser atualizado. O vendedor deve criar um novo anúncio
 
 ## Simulação
 
 
-O SKU foi moderado por estar na categoria errada, a correção já foi feita e agora ele tem o mapeamento correto no mapepr, mas ainda não está sendo exportado de acordo com a categoria do mapeador
+Corrigido
+
+
 
 ## Workaround
 

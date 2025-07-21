@@ -1,5 +1,5 @@
 ---
-title: 'Planilha de imagens não exportadas quando a conta tem muitos skus'
+title: "Planilha de imagens não exportadas quando a conta tem muitos skus"
 id: 61QPFKVJfCSIMyX1iLuJbQ
 status: PUBLISHED
 createdAt: 2022-08-02T19:05:25.641Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: images-spreadsheet-not-exported-when-the-account-has-too-many-skus
+slugEN: planilha-de-imagens-nao-exportadas-quando-a-conta-tem-muitos-skus
 locale: pt
 kiStatus: Backlog
 internalReference: 623183
@@ -18,7 +18,9 @@ internalReference: 623183
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Apesar da mensagem de sucesso na planilha de administração das imagens sendo processada e que em breve será enviada para o e-mail, o relatório nunca chega de fato.

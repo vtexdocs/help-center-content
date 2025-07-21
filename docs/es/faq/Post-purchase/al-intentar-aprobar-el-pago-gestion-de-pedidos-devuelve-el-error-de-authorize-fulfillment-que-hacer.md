@@ -1,5 +1,5 @@
 ---
-title: "Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de 'authorize-fulfillment'. ¿Que hacer?"
+title: 'Al intentar aprobar el pago, Gestión de Pedidos devuelve el error de "authorize-fulfillment". ¿Que hacer?'
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z
@@ -20,7 +20,7 @@ En este caso, al intentar aprobar el pago en **Pedidos**, usted verá el siguien
 
 ![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Post-purchase/al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer_1.png)
 
-Para confirmar que el problema es este, en la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), haga clic en `Ver interacciones` para ver los detalles del pedido.
+Para confirmar que el problema es este, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), haga clic en `Ver interacciones` para ver los detalles del pedido.
 
 Si hay un error como "La reserva solicitada *00-abc* no pudo ser garantizada para el pedido *00-xyz*", es porque algun de los SKUs incluidos en el carrito no tiene stock disponible, lo que inviabiliza que la compra sea aprobada. En este caso, corregir el inventario debe permitir que el pedido siga su flujo.
 

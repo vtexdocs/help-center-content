@@ -1,5 +1,5 @@
 ---
-title: 'La API de búsqueda no acepta caracteres especiales'
+title: "La API de búsqueda no acepta caracteres especiales"
 id: 4wBStygR6YPA6g5lgvPGqa
 status: PUBLISHED
 createdAt: 2023-02-15T12:39:13.771Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: search-api-does-not-accept-special-characters
+slugEN: la-api-de-busqueda-no-acepta-caracteres-especiales
 locale: es
 kiStatus: Backlog
 internalReference: 754363
@@ -18,7 +18,9 @@ internalReference: 754363
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de búsqueda en catálogos, documentada aquí: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search- , no acepta términos con caracteres especiales como el apóstrofo ' o las comillas ".

@@ -1,5 +1,5 @@
 ---
-title: 'El sitemap no indexa las páginas de departamentos, marcas y/o categorías'
+title: "El sitemap no indexa las páginas de departamentos, marcas y/o categorías"
 id: 59AJOYBjpw23Ee8EXKOjUF
 status: PUBLISHED
 createdAt: 2024-08-06T19:23:18.073Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: sitemap-does-not-index-departments-brands-andor-categories-pages
+slugEN: el-sitemap-no-indexa-las-paginas-de-departamentos-marcas-yo-categorias
 locale: es
 kiStatus: Backlog
 internalReference: 1076965
@@ -18,7 +18,9 @@ internalReference: 1076965
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

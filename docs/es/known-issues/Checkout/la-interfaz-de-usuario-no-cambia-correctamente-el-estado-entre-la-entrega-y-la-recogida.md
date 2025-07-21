@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario no cambia correctamente el estado entre la entrega y la recogida'
+title: "La interfaz de usuario no cambia correctamente el estado entre la entrega y la recogida"
 id: 5gKsCV8Rh779FlzppablkP
 status: PUBLISHED
 createdAt: 2022-05-02T18:08:17.388Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-fails-to-change-state-between-delivery-and-collection-correctly
+slugEN: la-interfaz-de-usuario-no-cambia-correctamente-el-estado-entre-la-entrega-y-la-recogida
 locale: es
 kiStatus: Backlog
 internalReference: 526736
@@ -18,7 +18,9 @@ internalReference: 526736
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces, cuando el usuario cambia el tipo de entrega entre entrega y recogida en el Checkout (importante que sea en el checkout y no en el carrito, aunque probablemente también ocurra en el carrito), el orderForm guarda el estado de entrega en `logisticsInfo` cuando se selecciona la recogida.

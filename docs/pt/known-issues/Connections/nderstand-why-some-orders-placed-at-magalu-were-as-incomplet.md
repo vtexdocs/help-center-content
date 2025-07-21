@@ -1,5 +1,5 @@
 ---
-title: 'Entender por que alguns pedidos feitos na Magalu estavam incompletos'
+title: "Entender por que alguns pedidos feitos na Magalu estavam incompletos"
 id: 5eFd1ukCxF9n53TeMiCvOX
 status: PUBLISHED
 createdAt: 2022-06-14T18:50:10.262Z
@@ -18,7 +18,9 @@ internalReference: 597771
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

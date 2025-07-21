@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect data in pickupStoreInfo after order creation'
+title: "Incorrect data in pickupStoreInfo after order creation"
 id: 3OJzisIkFTyo97LCuiaytR
 status: PUBLISHED
 createdAt: 2023-03-28T16:11:55.486Z

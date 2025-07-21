@@ -21,7 +21,9 @@ Para enviar tus productos a Mercado Libre, debes:
 1. [Mapear las categorías de los productos.](#mapear-categorias)
 2. [Mapear los atributos de los productos.](#mapear-atributos)
 
->ℹ️ Tus productos deben tener el [Stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Precio](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Mercado Libre.
+<div class = "alert alert-info">
+Tus productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Stock</a> e <a href="https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Precio</a> configurados antes de enviarlos a Mercado Libre.
+</div>
 
 ## Mapear categorías
 
@@ -72,4 +74,4 @@ Para mapear los atributos, sigue los pasos a continuación:
 
 Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/mercado-libre-integration-set-up/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
 
-Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](https://help.vtex.com/pt/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)
+Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/pt/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)

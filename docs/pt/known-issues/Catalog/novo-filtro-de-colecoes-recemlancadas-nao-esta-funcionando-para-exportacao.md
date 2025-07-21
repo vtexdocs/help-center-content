@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: new-collections-newly-released-filter-is-not-working-for-exports
+slugEN: novo-filtro-de-colecoes-recemlancadas-nao-esta-funcionando-para-exportacao
 locale: pt
 kiStatus: No Fix
 internalReference: 576760
@@ -18,7 +18,9 @@ internalReference: 576760
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O filtro de produtos "Recentemente Lançado" no novo módulo de coleções busca produtos que foram definidos com a variável data de lançamento no passado recente. Ele está presente no seguinte componente da IU:

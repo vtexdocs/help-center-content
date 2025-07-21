@@ -15,7 +15,9 @@ legacySlug: como-identificar-promocoes-atribuidas-a-um-sku
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
->⚠️ As etapas documentadas neste artigo utilizam o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.
+<div class="alert alert-warning" role="alert">
+<p>As etapas documentadas neste artigo utilizam o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.</p>
+</div>
 
 Escrevemos este artigo para responder a uma dúvida recorrente dos usuários da plataforma VTEX: qual o motivo de uma promoção estar aplicada a um SKU quando aparentemente não deveria?
 
@@ -31,5 +33,5 @@ Para descobrir quais promoções estão sendo atribuídas a um SKU, devemos anal
 
 ## Saiba mais
 
-- [Como funcionam as promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-- [Como identificar promoções aplicadas no carrinho](https://help.vtex.com/pt/tutorial/como-identificar-as-promocoes-no-carrinho--frequentlyAskedQuestions_345)
+- [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+- [Como identificar promoções aplicadas no carrinho](/pt/tutorial/como-identificar-as-promocoes-no-carrinho--frequentlyAskedQuestions_345)

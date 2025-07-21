@@ -1,5 +1,5 @@
 ---
-title: 'Category specs do not open in admin on first attempt'
+title: "Category specs do not open in admin on first attempt"
 id: 3201pbbSjB9rNzGP8HA6ow
 status: PUBLISHED
 createdAt: 2022-09-23T14:29:09.527Z

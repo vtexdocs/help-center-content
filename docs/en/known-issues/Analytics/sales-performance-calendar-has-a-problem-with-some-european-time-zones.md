@@ -1,5 +1,5 @@
 ---
-title: 'Sales Performance Calendar has a problem with some European time zones'
+title: "Sales Performance Calendar has a problem with some European time zones"
 id: 23RDaWJO0UQr0QxtTi24is
 status: PUBLISHED
 createdAt: 2023-03-06T16:20:46.718Z

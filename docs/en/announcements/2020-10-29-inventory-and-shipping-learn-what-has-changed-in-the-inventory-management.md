@@ -1,5 +1,5 @@
 ---
-title: "Inventory & Shipping: learn what has changed in the 'Inventory management' tab "
+title: 'Inventory & Shipping: learn what has changed in the "Inventory management" tab '
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z
@@ -35,5 +35,5 @@ With the new design of the Inventory management interface, all items in stock ar
 
 The tab’s design has been improved, but the configuration fields have not changed. All the information previously contained in your *Inventory* tab remains the same. No configuration is required.
 
-For more information, check out the documentation on the new [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque) page.  
+For more information, check out the documentation on the new [Inventory management](/en/tutorial/gerenciar-itens-em-estoque) page.  
 

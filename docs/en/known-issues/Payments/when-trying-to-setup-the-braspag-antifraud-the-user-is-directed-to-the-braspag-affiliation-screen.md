@@ -1,5 +1,5 @@
 ---
-title: 'When trying to setup the Braspag anti-fraud, the user is directed to the Braspag affiliation screen'
+title: "When trying to setup the Braspag anti-fraud, the user is directed to the Braspag affiliation screen"
 id: YcLMt8AUf9SVN9s3cbKSk
 status: PUBLISHED
 createdAt: 2022-03-28T01:55:40.554Z

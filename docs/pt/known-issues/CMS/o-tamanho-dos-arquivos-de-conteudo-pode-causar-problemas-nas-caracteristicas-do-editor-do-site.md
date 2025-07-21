@@ -1,5 +1,5 @@
 ---
-title: 'O tamanho dos arquivos de conteúdo pode causar problemas nas características do Editor do site'
+title: "O tamanho dos arquivos de conteúdo pode causar problemas nas características do Editor do site"
 id: UevN0hPbmi9f9RQtsI1bi
 status: PUBLISHED
 createdAt: 2022-12-13T14:37:50.733Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: size-of-content-files-can-cause-problems-in-site-editor-features
+slugEN: o-tamanho-dos-arquivos-de-conteudo-pode-causar-problemas-nas-caracteristicas-do-editor-do-site
 locale: pt
 kiStatus: Backlog
 internalReference: 715480
@@ -18,7 +18,9 @@ internalReference: 715480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Cada atualização de conteúdo ou estrutura em um tema de loja é registrada em arquivos chamados `content.json` e `template.json`, esses arquivos funcionam como "mapas" que mantêm as referências de todo o conteúdo que a vitrine mostra, portanto, é também baseada no que é exibido como uma prévia no Editor do Site.

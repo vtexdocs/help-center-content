@@ -1,5 +1,5 @@
 ---
-title: 'Orders without some details in the shipping SLA object'
+title: "Orders without some details in the shipping SLA object"
 id: 7ByfCgcHrjZRMaw0AdYE6j
 status: PUBLISHED
 createdAt: 2022-05-09T15:23:21.128Z

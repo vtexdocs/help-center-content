@@ -1,5 +1,5 @@
 ---
-title: 'Legacy Collections (CMS) Special Character Validation diverges from New Collections'
+title: "Legacy Collections (CMS) Special Character Validation diverges from New Collections"
 id: 2Pc1VACj7VF9n1IDtO6Mr4
 status: PUBLISHED
 createdAt: 2022-10-31T20:38:49.460Z

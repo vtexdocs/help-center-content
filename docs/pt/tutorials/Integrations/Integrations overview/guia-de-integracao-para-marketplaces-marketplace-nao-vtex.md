@@ -15,7 +15,9 @@ legacySlug: guia-de-integracao-para-marketplaces-marketplace-nao-vtex
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
->⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
+<div class="alert alert-warning">
+Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
+</div> 
 
 Este documento auxilia na integração de um Marketplace não hospedado na plataforma VTEX com um Seller hospedado na plataforma VTEX.
 
@@ -52,7 +54,9 @@ Neste artigo, você confere a visão geral do processo de integração de ambos 
 
 3) Marketplace busca preço, estoque e dados de frete do SKU pela API de Fullfillment.  
 
->ℹ️ Saiba mais na documentação para desenvolvedores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
+<div class = "alert alert-info">
+Saiba mais na documentação para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
+</div>
 
 ## B) Fluxo referente ao Envio e Processamento de Pedidos 
 
@@ -90,4 +94,6 @@ O fluxo de integrações referente ao envio e processamento de pedidos pode ser 
 
 6) Enviar solicitação de cancelamento.
 
->ℹ️ Saiba mais na documentação para desenvolvedores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
+<div class = "alert alert-info">
+Saiba mais na documentação para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
+</div>

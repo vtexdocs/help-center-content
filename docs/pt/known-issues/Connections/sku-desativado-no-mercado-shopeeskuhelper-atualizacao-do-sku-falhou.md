@@ -1,5 +1,5 @@
 ---
-title: '[SKU desativado no mercado. shopee-sku-helper (atualização do sku falhou)'
+title: "[SKU desativado no mercado. shopee-sku-helper (atualização do sku falhou)"
 id: 2GZUqJQ8MeI9lspoGYQ9Rh
 status: PUBLISHED
 createdAt: 2022-10-25T16:09:55.768Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: shopee-sku-disabled-in-marketplace-shopeeskuhelper-sku-update-failed
+slugEN: sku-desativado-no-mercado-shopeeskuhelper-atualizacao-do-sku-falhou
 locale: pt
 kiStatus: Fixed
 internalReference: 685137
@@ -18,7 +18,9 @@ internalReference: 685137
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

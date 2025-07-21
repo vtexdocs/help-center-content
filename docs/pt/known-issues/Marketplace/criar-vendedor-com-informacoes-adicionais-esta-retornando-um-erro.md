@@ -1,5 +1,5 @@
 ---
-title: 'Criar vendedor com informações adicionais está retornando um erro'
+title: "Criar vendedor com informações adicionais está retornando um erro"
 id: 4dbB48N1vHHdXjL1M1zANe
 status: PUBLISHED
 createdAt: 2023-01-26T17:12:54.701Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: create-seller-with-additional-information-is-returning-an-error
+slugEN: criar-vendedor-com-informacoes-adicionais-esta-retornando-um-erro
 locale: pt
 kiStatus: Fixed
 internalReference: 741110
@@ -18,7 +18,9 @@ internalReference: 741110
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

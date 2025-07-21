@@ -1,5 +1,5 @@
 ---
-title: 'A API do OrderForm impede a seleção do método de envio para o mesmo item em diferentes vendedores'
+title: "A API do OrderForm impede a seleção do método de envio para o mesmo item em diferentes vendedores"
 id: 4dEfq7lNqTLF7SFIOaRsc2
 status: PUBLISHED
 createdAt: 2023-01-27T21:56:04.190Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orderform-api-preventing-the-shipping-method-selection-for-the-same-item-under-different-sellers
+slugEN: a-api-do-orderform-impede-a-selecao-do-metodo-de-envio-para-o-mesmo-item-em-diferentes-vendedores
 locale: pt
 kiStatus: Fixed
 internalReference: 742139
@@ -18,7 +18,9 @@ internalReference: 742139
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Embora um formulário de pedido ofereça suporte para que a mesma SKU seja adicionada várias vezes por meio de diferentes vendedores, ele não permite que o método de envio (SLA) seja selecionado individualmente, onde a logística de um vendedor é completamente independente dos outros.

@@ -16,7 +16,9 @@ subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
 
->⚠️ Autocomplete es una herramienta que ya está activa en VTEX Intelligent Search. No es posible desactivarla en el Admin.
+<div class = "alert alert-warning">
+    Autocomplete es una herramienta que ya está activa en VTEX Intelligent Search. No es posible desactivarla en el Admin.
+    </div>
 
 Autocomplete funciona según la información obtenida a través del historial de búsqueda de términos relacionados con el Catálogo. Estos resultados se muestran en cuatro listas diferentes, que pueden estar juntas o separadas, dependiendo de la interacción con el cliente. Las secciones son:
 
@@ -25,20 +27,28 @@ Autocomplete funciona según la información obtenida a través del historial de
 - Sugerencia de productos.
 - Términos más buscados.
 
->⚠️ Cuando se busca un término no registrado, Autocomplete no encuentra productos con las especificaciones deseadas y no muestra ninguna sugerencia.
+<div class="alert alert-warning" role="alert">
+<p>Cuando se busca un término no registrado, Autocomplete no encuentra productos con las especificaciones deseadas y no muestra ninguna sugerencia.
+</p>
+</div>
 
 Durante la interacción con la barra de búsqueda, VTEX Intelligent Search inmediatamente muestra el conjunto de Términos más buscados y Últimas búsquedas, si el cliente ya ha realizado alguna búsqueda.
 
 Cuando el usuario comienza a escribir, el sistema muestra las Sugerencias de búsqueda y Sugerencias de productos y elimina las listas anteriores.
 
->ℹ️ La información de las secciones **Términos más buscados** y **Sugerencia de búsquedas** es actualizada diariamente. Para la actualización, se utilizan los datos de los últimos 14 días de interacción de los clientes con la búsqueda.
+<div class = "alert alert-info">
+  <p>La información de las secciones <b>Términos más buscados</b> y <b>Sugerencia de búsquedas</b> es actualizada diariamente. Para la actualización, se utilizan los datos de los últimos 14 días de interacción de los clientes con la búsqueda.</p>
+  </div>
 
 De esta forma, es posible proporcionar al cliente una experiencia de búsqueda más fluida y personalizada. Así puede ver el resultado rápidamente, además de recibir sugerencias basadas en su búsqueda. 
 
 Otra ventaja para el administrador de la tienda es el aumento de conversión, que es el resultado de la dinámica de facilidad de uso y experiencia.
 
->ℹ️ Autocomplete ofrece sugerencias de búsqueda incluso cuando la tienda es nueva y aún no muestra datos de interacciones con los clientes, como clics y búsquedas.
->     En este caso, la funcionalidad genera sugerencias de búsqueda a partir de un algoritmo que extrae palabras clave del catálogo, productos, marcas y categorías registradas en la tienda.
+<div class = "alert alert-info">
+  <p>Autocomplete ofrece sugerencias de búsqueda incluso cuando la tienda es nueva y aún no muestra datos de interacciones con los clientes, como clics y búsquedas.
+    En este caso, la funcionalidad genera sugerencias de búsqueda a partir de un algoritmo que extrae palabras clave del catálogo, productos, marcas y categorías registradas en la tienda.
+</p>
+  </div>
 
 ## Términos más buscados
 

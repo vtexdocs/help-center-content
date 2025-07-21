@@ -1,5 +1,5 @@
 ---
-title: "La importación de especificaciones de producto con el tipo 'texto' no activa la indexación del producto."
+title: 'La importación de especificaciones de producto con el tipo "texto" no activa la indexación del producto.'
 id: 5eQB7LCCyDbVNQBQvWti33
 status: PUBLISHED
 createdAt: 2024-03-12T19:36:58.647Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-specification-import-with-type-text-does-not-trigger-the-products-indexation
+slugEN: la-importacion-de-especificaciones-de-producto-con-el-tipo-texto-no-activa-la-indexacion-del-producto
 locale: es
 kiStatus: Backlog
 internalReference: 998658
@@ -18,7 +18,9 @@ internalReference: 998658
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al importar especificaciones de producto, los tipos con valores pre-registrados (como Checkbox o Radio) activan la indexación del producto, pero cuando el tipo es "Texto" no ocurre lo mismo.

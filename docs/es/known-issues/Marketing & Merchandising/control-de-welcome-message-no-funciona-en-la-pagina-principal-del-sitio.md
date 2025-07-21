@@ -1,5 +1,5 @@
 ---
-title: 'Control de Welcome Message no funciona en la página principal del sitio'
+title: "Control de Welcome Message no funciona en la página principal del sitio"
 id: 38WkIwnvReicEOu6eOccuY
 status: PUBLISHED
 createdAt: 2017-04-26T23:34:28.335Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: welcome-message-control-doesnt-work-in-the-homepage
+slugEN: control-de-welcome-message-no-funciona-en-la-pagina-principal-del-sitio
 locale: es
 kiStatus: Backlog
 internalReference: 

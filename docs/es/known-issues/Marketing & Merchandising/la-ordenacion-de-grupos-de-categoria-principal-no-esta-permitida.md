@@ -1,5 +1,5 @@
 ---
-title: 'La ordenación de grupos de categoría principal no está permitida'
+title: "La ordenación de grupos de categoría principal no está permitida"
 id: 5AsWMR6XkLQ4OHPW2DQVTI
 status: PUBLISHED
 createdAt: 2019-02-19T22:23:09.119Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slugEN: ordering-main-category-groups-is-not-allowed
+slugEN: la-ordenacion-de-grupos-de-categoria-principal-no-esta-permitida
 locale: es
 kiStatus: Backlog
 internalReference: 

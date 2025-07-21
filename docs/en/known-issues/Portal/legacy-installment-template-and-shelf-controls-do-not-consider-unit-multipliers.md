@@ -1,5 +1,5 @@
 ---
-title: 'Legacy installment template and shelf controls do not consider unit multipliers'
+title: "Legacy installment template and shelf controls do not consider unit multipliers"
 id: 1E0Co7ssCUAKAgxCzlJoVn
 status: PUBLISHED
 createdAt: 2024-02-08T13:39:40.663Z

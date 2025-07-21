@@ -1,5 +1,5 @@
 ---
-title: 'Atualização de especificação por API ou webservice não envia produto para indexação'
+title: "Atualização de especificação por API ou webservice não envia produto para indexação"
 id: d0xRClv0lM6q6EmcSCG0Q
 status: PUBLISHED
 createdAt: 2018-04-03T14:31:21.538Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
-slugEN: specification-update-through-api-or-webservice-doesnt-send-product-for-indexing
+slugEN: atualizacao-de-especificacao-de-produto-por-api-ou-ws-nao-envia-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 0

@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency payment terms information between Cost Center Details in My Organization and B2B Checkout Settings'
+title: "Inconsistency payment terms information between Cost Center Details in My Organization and B2B Checkout Settings"
 id: VB70gSEsPOdTHVi3SPMaB
 status: PUBLISHED
 createdAt: 2023-06-20T18:29:30.859Z

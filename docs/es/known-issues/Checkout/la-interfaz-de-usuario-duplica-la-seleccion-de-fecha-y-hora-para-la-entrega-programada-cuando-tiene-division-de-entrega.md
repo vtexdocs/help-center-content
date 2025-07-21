@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario duplica la selección de fecha y hora para la entrega programada cuando tiene división de entrega'
+title: "La interfaz de usuario duplica la selección de fecha y hora para la entrega programada cuando tiene división de entrega"
 id: 6nPIfnI47XKI0YYNEEPenR
 status: PUBLISHED
 createdAt: 2022-04-28T20:03:10.918Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-duplicating-date-and-time-selection-for-scheduled-delivery-when-it-has-delivery-division
+slugEN: la-interfaz-de-usuario-duplica-la-seleccion-de-fecha-y-hora-para-la-entrega-programada-cuando-tiene-division-de-entrega
 locale: es
 kiStatus: Backlog
 internalReference: 569132
@@ -18,7 +18,9 @@ internalReference: 569132
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -30,9 +30,11 @@ To install the Order Configuration application in your Admin, see [our VTEX IO d
 
 Once the application has been installed, usage configurations are defined in [Price Simulations API](https://developers.vtex.com/reference/price-simulations-api-overview).
 
-You must associate a [price table](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) with each scenario via API. This way, when users configure their purchase conditions, they will receive the prices referring to that rule.
+You must associate a [price table](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) with each scenario via API. This way, when users configure their purchase conditions, they will receive the prices referring to that rule.
 
 If you configure a scenario that has no price table linked to it, it will use a default price table.
 
->ℹ️ Users need to be logged in to use Order Configuration and view the different prices based on their configurations.
+<div class = "alert alert-info">
+  <p>Users need to be logged in to use Order Configuration and view the different prices based on their configurations.</p>
+</div>
 

@@ -26,7 +26,7 @@ Separamos duas situações em que isso pode acontecer:
 
 ## O produto é removido ou desativado da política comercial ##
 
-Definir uma [política comercial](https://help.vtex.com/pt/faq/o-que-e-uma-politica-comercial "política comercial") é o primeiro passo para realizar a [integração com o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). Ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja.
+Definir uma [política comercial](/pt/faq/o-que-e-uma-politica-comercial "política comercial") é o primeiro passo para realizar a [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). Ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja.
 
 Quando um produto é removido da política comercial, essa atualização é enviada automaticamente para o Mercado Livre, que, por sua vez, para de exibir o anúncio do produto.  
 
@@ -37,4 +37,4 @@ Vale ressaltar que o valor desse estoque mínimo é definido no painel de config
 
 
 Para saber mais, acesse:
-[FAQ Mercado Livre](https://help.vtex.com/pt/faq/mercado-livre-faq "FAQ Mercado Livre")
+[FAQ Mercado Livre](/pt/faq/mercado-livre-faq "FAQ Mercado Livre")

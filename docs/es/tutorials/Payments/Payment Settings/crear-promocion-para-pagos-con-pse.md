@@ -15,7 +15,7 @@ legacySlug: crear-promocion-para-pagos-con-pse
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[PSE (Pagos Seguros en Línea)](https://help.vtex.com/es/tutorial/configurar-pagamento-com-pse--7dRChubn7TqdEyWrHQEQp6) es un medio de pago disponible en las tiendas VTEX para transacciones en Colombia. Si utilizas PSE en tu tienda y deseas ofrecer una condición especial de pago al cliente según el tipo de banco seleccionado, puedes crear una promoción regular para PSE.
+[PSE (Pagos Seguros en Línea)](/es/tutorial/configurar-pagamento-com-pse--7dRChubn7TqdEyWrHQEQp6) es un medio de pago disponible en las tiendas VTEX para transacciones en Colombia. Si utilizas PSE en tu tienda y deseas ofrecer una condición especial de pago al cliente según el tipo de banco seleccionado, puedes crear una promoción regular para PSE.
 
 Para configurar promociones por banco con PSE, debes:
 
@@ -60,7 +60,9 @@ Después de obtener el código del banco, crea la promoción regular siguiendo l
 
 <blockquote><ui>6. En <b>¿Cuál es el tipo y valor del descuento?</b>, define el tipo de descuento de la promoción e indica su valor.</ui>
 
-<blockquote><ui>>ℹ️ El tipo de promoción "Porcentual" es más común para promociones de bancos.</blockquote>
+<blockquote><ui><div class="alert alert-info">
+El tipo de promoción "Porcentual" es más común para promociones de bancos.
+</div></blockquote>
 <br>  
 <blockquote><ui>7. En la sección <b>¿A qué ítems se aplicará esta promoción?</b>, selecciona si el descuento por pago con el banco deseado a través de PSE se debe aplicar a todos los productos de la tienda o si solo se aplica a algunos tipos de productos. Si deseas restringir la promoción, configura los demás campos de esta sección.</ui>
 
@@ -70,7 +72,9 @@ Después de obtener el código del banco, crea la promoción regular siguiendo l
 
 <blockquote><ui>10. En la sección <b>Restricciones y limitaciones de uso</b> puedes marcar la opción <b>Aplicar con otras promociones</b> para que la promoción se pueda acumular con otras promociones.</ui>
 
-<blockquote><ui>>⚠️ La promoción de PSE siempre se agregará al carrito si la opción **Aplicar con otras promociones** está marcada y se han aplicado otras promociones a los productos. Si la opción **Aplicar con otras promociones** no está marcada, el checkout solo aplicará la promoción que permita el mayor descuento sobre los productos.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+  La promoción de PSE siempre se agregará al carrito si la opción <b>Aplicar con otras promociones</b> está marcada y se han aplicado otras promociones a los productos. Si la opción <b>Aplicar con otras promociones</b> no está marcada, el checkout solo aplicará la promoción que permita el mayor descuento sobre los productos.
+</div></blockquote>
 <br>  
 <blockquote><ui>11. Haz clic en <b>Guardar</b>.</ui>
 

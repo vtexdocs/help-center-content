@@ -23,8 +23,8 @@ Na plataforma VTEX Tracking, você pode:
 
 - [Visualizar lista de rotas](#visualizar-lista-de-rotas)
 - [Visualizar detalhes da rota](#visualizar-detalhes-de-rota)
-- [Monitorar rota](https://help.vtex.com/pt/tutorial/monitoramento-de-rotas--6VaqvUgJkx1ecE3HcOH0oH)
-- [Criar nova rota](https://help.vtex.com/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h)
+- [Monitorar rota](/pt/tutorial/monitoramento-de-rotas--6VaqvUgJkx1ecE3HcOH0oH)
+- [Criar nova rota](/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h)
 - Editar uma rota
 - Excluir uma rota
 
@@ -57,6 +57,6 @@ A janela de detalhes da rota contém as seguintes informações referente à rot
 Para fechar a janela de detalhes clique em Fechar ou no botão __X__ (no canto superior direito da janela). 
 
 ## Aprenda mais
-- [Nova Rota](https://help.vtex.com/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h)
-- [Monitoramento de Rota](https://help.vtex.com/pt/tutorial/monitoramento-de-rotas--6VaqvUgJkx1ecE3HcOH0oH?&utm_source=autocomplete)
+- [Nova Rota](/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h)
+- [Monitoramento de Rota](/pt/tutorial/monitoramento-de-rotas--6VaqvUgJkx1ecE3HcOH0oH?&utm_source=autocomplete)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Mask of the shipping calculation field on the product page shows wrong behavior'
+title: "Mask of the shipping calculation field on the product page shows wrong behavior"
 id: 3e3i6QgalWSKyIw6KsYwGa
 status: PUBLISHED
 createdAt: 2017-08-11T17:33:43.752Z

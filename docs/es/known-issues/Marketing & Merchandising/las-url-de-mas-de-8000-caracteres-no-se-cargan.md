@@ -1,5 +1,5 @@
 ---
-title: 'Las URL de más de 8000 caracteres no se cargan'
+title: "Las URL de más de 8000 caracteres no se cargan"
 id: 3tZpUf9X428GQNCaIa24hX
 status: PUBLISHED
 createdAt: 2021-07-26T13:08:22.992Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Portal (CMS)
-slugEN: urls-longer-than-8-000-characters-do-not-load
+slugEN: las-url-de-mas-de-8000-caracteres-no-se-cargan
 locale: es
 kiStatus: Backlog
 internalReference: 

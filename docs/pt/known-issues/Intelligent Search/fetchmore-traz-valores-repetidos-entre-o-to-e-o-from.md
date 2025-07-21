@@ -1,5 +1,5 @@
 ---
-title: 'FetchMore traz valores repetidos entre o to e o from'
+title: "FetchMore traz valores repetidos entre o to e o from"
 id: 1Vx0YekKCDaf8t6hocU1iv
 status: PUBLISHED
 createdAt: 2023-05-31T16:39:58.224Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: fetchmore-bringing-repeated-values-between-the-to-and-from
+slugEN: fetchmore-traz-valores-repetidos-entre-o-to-e-o-from
 locale: pt
 kiStatus: Scheduled
 internalReference: 835396
@@ -18,7 +18,9 @@ internalReference: 835396
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A função fetchMore está trazendo entre a primeira e a segunda página alguns valores duplicados e isso faz com que a página exiba repetidamente alguns dos produtos.

@@ -3,8 +3,8 @@ title: 'Setting up payments with ePago'
 id: 7CPahJlR1RgwKmTQSps3le
 status: PUBLISHED
 createdAt: 2024-09-17T13:36:41.989Z
-updatedAt: 2024-09-17T19:20:35.413Z
-publishedAt: 2024-09-17T19:20:35.413Z
+updatedAt: 2025-01-09T19:10:57.127Z
+publishedAt: 2025-01-09T19:10:57.127Z
 firstPublishedAt: 2024-09-17T13:57:36.464Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: setting-up-payments-with-epago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the ePago payment provider. With this provider, your store can make sales through PagoClasico.
+At VTEX, it is possible to integrate with the ePago payment provider. With this provider, your store can make sales through PagoClasico and notes payable.
 
 To configure ePago, follow the steps below:
 
@@ -33,7 +33,7 @@ To configure ePago, follow the steps below:
 2. In the __Payment Conditions__ tab, click on the `+` button.
 3. Click on __PagoClasico__.
 4. Activate the condition in the __Status__ field.
-5. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+5. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 6. Click `Save`.
 
 After following the indicated steps, ePago may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -1,5 +1,5 @@
 ---
-title: 'Tipos de listados de integración MELI para Perú, Venezuela, Ecuador y Uruguai'
+title: "Tipos de listados de integración MELI para Perú, Venezuela, Ecuador y Uruguai"
 id: 77DQc7iQ4KgiWZGRAGdTgT
 status: PUBLISHED
 createdAt: 2023-10-25T11:48:14.580Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-integration-listing-types-for-peru-venezuela-equador-and-uruguai
+slugEN: tipos-de-listados-de-integracion-meli-para-peru-venezuela-ecuador-y-uruguai
 locale: es
 kiStatus: Backlog
 internalReference: 925139
@@ -18,7 +18,9 @@ internalReference: 925139
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

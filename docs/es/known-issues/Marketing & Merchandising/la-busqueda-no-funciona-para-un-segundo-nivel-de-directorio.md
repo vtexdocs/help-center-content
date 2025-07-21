@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda no funciona para un segundo nivel de directorio'
+title: "La búsqueda no funciona para un segundo nivel de directorio"
 id: 6oAmtEIyyWWciICgSuYC00
 status: PUBLISHED
 createdAt: 2017-04-11T22:25:02.223Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: search-doesnt-work-for-a-second-folderlevel
+slugEN: la-busqueda-no-funciona-para-un-segundo-nivel-de-directorio
 locale: es
 kiStatus: Backlog
 internalReference: 

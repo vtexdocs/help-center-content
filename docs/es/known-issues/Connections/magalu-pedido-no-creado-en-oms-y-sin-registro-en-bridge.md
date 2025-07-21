@@ -1,5 +1,5 @@
 ---
-title: '[Magalu] Pedido no creado en OMS y sin registro en Bridge'
+title: "[Magalu] Pedido no creado en OMS y sin registro en Bridge"
 id: 3PlXX7uTMjwhlxXOIgfnSG
 status: PUBLISHED
 createdAt: 2022-10-06T12:48:46.567Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magalu-order-not-created-in-oms-and-without-log-in-bridge
+slugEN: magalu-pedido-no-creado-en-oms-y-sin-registro-en-bridge
 locale: es
 kiStatus: Backlog
 internalReference: 667547
@@ -18,7 +18,9 @@ internalReference: 667547
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

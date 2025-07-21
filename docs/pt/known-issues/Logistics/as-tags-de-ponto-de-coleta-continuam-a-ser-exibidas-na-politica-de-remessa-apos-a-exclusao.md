@@ -1,5 +1,5 @@
 ---
-title: 'As tags de ponto de coleta continuam a ser exibidas na política de remessa após a exclusão.'
+title: "As tags de ponto de coleta continuam a ser exibidas na política de remessa após a exclusão."
 id: 2ZcIGeYUud4bQJrAd5MMLb
 status: PUBLISHED
 createdAt: 2024-04-10T18:52:17.457Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: pickup-point-tags-continue-to-be-displayed-in-the-shipping-policy-after-deletion
+slugEN: as-tags-de-ponto-de-coleta-continuam-a-ser-exibidas-na-politica-de-remessa-apos-a-exclusao
 locale: pt
 kiStatus: Backlog
 internalReference: 1015158
@@ -18,7 +18,9 @@ internalReference: 1015158
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As tags registradas no ponto de coleta estão disponíveis em um menu suspenso nas políticas de remessa para vincular o PUP à política de remessa; no entanto, quando qualquer uma dessas tags é excluída no PUP, elas permanecem disponíveis no menu suspenso da política de remessa.

@@ -15,7 +15,7 @@ legacySlug: guia-de-los-dashboards-vtex-para-la-black-week-faq
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-Esta guía tiene como objetivo responder las preguntas más frecuentes sobre cómo utilizar los [dashboards en el Admin VTEX](https://help.vtex.com/es/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante la Black Week.  
+Esta guía tiene como objetivo responder las preguntas más frecuentes sobre cómo utilizar los [dashboards en el Admin VTEX](/es/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante la Black Week.  
 
 - [¿Cuál es la mejor manera de hacer un seguimiento de mi tienda online durante la Black Week en el Admin VTEX?](#cual-es-la-mejor-manera-de-hacer-un-seguimiento-de-mi-tienda-online-durante-la-black-week-en-el-admin-vtex)
 - [¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?](#como-puedo-monitorear-los-datos-de-mi-tienda-online-mas-alla-del-dia-de-hoy)
@@ -47,9 +47,9 @@ Para configurar la referencia sigue los pasos a continuación:
 3. Define una fecha.
 4. Haz clic en **`Aplicar`.**  
 
->⚠️ Una comparación valiosa durante la Black Week se realiza al contrastar datos con la misma fecha del año anterior. En la configuración de referencia, se recomienda establecer preferiblemente una fecha entre el 21/11/2022 y el 27/11/2022, preferentemente los mismos días de la semana. 
->
-> Esta opción está dirigida a clientes que utilizaron el Admin VTEX durante ese periodo el año pasado.</br>  
+<div class="alert alert-warning">
+Una comparación valiosa durante la Black Week se realiza al contrastar datos con la misma fecha del año anterior. En la configuración de referencia, se recomienda establecer preferiblemente una fecha entre el 21/11/2022 y el 27/11/2022, preferentemente los mismos días de la semana. <br>Esta opción está dirigida a clientes que utilizaron el Admin VTEX durante ese periodo el año pasado.</br>
+</div>  
 
 ![referencia-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-de-los-dashboards-vtex-para-la-black-week-faq_2.png)  
 
@@ -72,11 +72,13 @@ Para consultar los productos más vendidos, en la sección **Métricas**  haz cl
 
 ![mas-vendidos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-de-los-dashboards-vtex-para-la-black-week-faq_5.png)   
 
->❗ Para análisis o seguimientos de periodos más extensos, recomendamos el uso de nuestro dashboard Desempeño de ventas, que se detalla en la siguiente pregunta.
+<div class="alert alert-danger">
+Para análisis o seguimientos de periodos más extensos, recomendamos el uso de nuestro dashboard Desempeño de ventas, que se detalla en la siguiente pregunta.
+</div>
 
 ## ¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?  
 
-Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](https://help.vtex.com/es/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
+Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](/es/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
 
 ### Filtros  
 
@@ -137,9 +139,9 @@ Hay varias razones por las cuales las métricas de la Vista general en tiempo re
 
 Para obtener una visión completa de las métricas combinadas de todas las tiendas, te recomendamos acceder al dashboard Desempeño de ventas. Este dashboard ofrece datos agregados con una tasa de actualización de aproximadamente 90 minutos.  
 
->❗ Si tu tienda online opera con más de una moneda puedes consultar los pedidos en el **dashboard Vista general;** el total de los mismos se presentan sumados en la moneda más utilizada en tus ventas. 
->
-> Para comparar con la pantalla **Pedidos,** debes sumar el total de pedidos en todas las monedas.</br>    
+<div class="alert alert-danger">
+Si tu tienda online opera con más de una moneda puedes consultar los pedidos en el <b>dashboard Vista general;</b> el total de los mismos se presentan sumados en la moneda más utilizada en tus ventas. <br>Para comparar con la pantalla <b>Pedidos,</b> debes sumar el total de pedidos en todas las monedas.</br>
+</div>    
 
 ![todos-los-pedidos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/guia-de-los-dashboards-vtex-para-la-black-week-faq_13.png)
 

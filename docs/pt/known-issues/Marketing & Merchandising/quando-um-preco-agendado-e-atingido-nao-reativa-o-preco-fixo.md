@@ -1,5 +1,5 @@
 ---
-title: 'Quando um preço agendado é atingido, não reativa o preço fixo'
+title: "Quando um preço agendado é atingido, não reativa o preço fixo"
 id: 75RY8MaDPaiOGOoY2mwycg
 status: PUBLISHED
 createdAt: 2017-06-23T16:23:03.818Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
-slugEN: when-a-schedule-price-expires-the-fixed-price-is-not-reenabled
+slugEN: quando-um-preco-agendado-e-atingido-nao-reativa-o-preco-fixo
 locale: pt
 kiStatus: Backlog
 internalReference: 

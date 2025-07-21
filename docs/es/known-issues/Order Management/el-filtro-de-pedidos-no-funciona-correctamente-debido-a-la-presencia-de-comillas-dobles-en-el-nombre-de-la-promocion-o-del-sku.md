@@ -1,5 +1,5 @@
 ---
-title: "El filtro de pedidos no funciona correctamente debido a la presencia de comillas dobles (') en el nombre de la promoción o del SKU."
+title: 'El filtro de pedidos no funciona correctamente debido a la presencia de comillas dobles (") en el nombre de la promoción o del SKU.'
 id: 4Qm0akQTQXR8sSbkTDiBL7
 status: PUBLISHED
 createdAt: 2024-06-06T15:42:19.747Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-filter-doesnt-work-properly-due-to-double-quotes-in-the-promotion-name-or-sku-name
+slugEN: el-filtro-de-pedidos-no-funciona-correctamente-debido-a-la-presencia-de-comillas-dobles-en-el-nombre-de-la-promocion-o-del-sku
 locale: es
 kiStatus: Backlog
 internalReference: 1045623
@@ -18,7 +18,9 @@ internalReference: 1045623
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El sistema de filtrado de pedidos actualmente no devuelve los pedidos con promociones que contienen comillas dobles `"` en sus nombres, esto también se aplica al nombre SKU.

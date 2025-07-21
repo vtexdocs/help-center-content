@@ -1,5 +1,5 @@
 ---
-title: 'Repetidas atualizações de UTM não são guardadas no cookie'
+title: "Repetidas atualizações de UTM não são guardadas no cookie"
 id: 7CVw4A7scMoKag4UsScSkM
 status: PUBLISHED
 createdAt: 2018-06-28T22:14:17.988Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: repeated-utm-updates-are-not-saved-in-the-cookie
+slugEN: repetidas-atualizacoes-de-utm-nao-sao-guardadas-no-cookie
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 En este artículo encontrará información sobre cómo acceder a sus facturas, o boletos, como se conocen en Brasil. La forma de acceder a sus facturas y demás información de su cuenta es la misma para todos los países.
 
-Para acceder a estas, debe asociar un [perfil de acceso financiero](https://help.vtex.com/es/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) a todos los usuarios autorizados para visualizar esta información.
+Para acceder a estas, debe asociar un [perfil de acceso financiero](/es/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) a todos los usuarios autorizados para visualizar esta información.
 
 Con el perfil de acceso financiero habilitado, para realizar acciones relacionadas con las facturas, acceda a la opción *Configuraciones de la Cuenta > Facturas > Títulos* en el Admin. En la siguiente pantalla, aparecerán los valores de los títulos disponibles, listados por mes y color.
 
@@ -64,7 +64,7 @@ Para descargar su boleto, realice los siguientes pasos:
 6. Haga clic en **Efectuar Pago**.
 7. Se generará un boleto, la multa y los intereses se incluirán automáticamente. 
 
->ℹ️ En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.
+<div class="alert alert-info">En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.</div>
 
 ![baixar boletos es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Invoices/como-descargar-las-facturas-de-vtex_2.gif)
 
@@ -85,4 +85,4 @@ De esta forma, la Nota Fiscal se abrirá en otra pestaña de su navegador. Haga 
 
 ![baixar notafiscal es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Invoices/como-descargar-las-facturas-de-vtex_3.gif)
 
-Si tiene dudas sobre el valor de la factura, lea el artículo [comprenda el valor de los ingresos aprobados](https://help.vtex.com/es/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender el valor que se cobró.
+Si tiene dudas sobre el valor de la factura, lea el artículo [comprenda el valor de los ingresos aprobados](/es/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender el valor que se cobró.

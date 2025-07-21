@@ -3,8 +3,8 @@ title: 'Claves generadas (Beta)'
 id: 7fnU4iZdvZKbxCaT3Ymdjc
 status: PUBLISHED
 createdAt: 2024-09-30T18:39:21.339Z
-updatedAt: 2024-11-05T13:36:57.782Z
-publishedAt: 2024-11-05T13:36:57.782Z
+updatedAt: 2025-02-05T19:20:40.887Z
+publishedAt: 2025-02-05T19:20:40.887Z
 firstPublishedAt: 2024-10-08T19:18:05.329Z
 contentType: tutorial
 productTeam: Identity
@@ -15,13 +15,15 @@ legacySlug: claves-generadas-beta
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con [nuestro soporte](https://support.vtex.com/hc/es-419).
+<div class="alert alert-info">
+  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si te interesa implementarla en el futuro, ponte en contacto con <a href="https://support.vtex.com/hc/es-419">nuestro soporte</a>.</p>
+</div>
 
 Las claves de API internas son credenciales generadas y gestionadas por tu cuenta VTEX. Esto significa que debes tener acceso a todos los pares de claves y tokens de API (el equivalente a los nombres de usuario y contraseña) para las integraciones de API.
 
 La pestaña **Generadas** presenta las claves de API creadas por tu cuenta.
 
-<!---- IMAGEM ---->
+![apikeys-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/API%20Keys%20Beta/claves-generadas_1.png)
 
 La página muestra la siguiente información en forma de tabla: 
 
@@ -49,7 +51,7 @@ Sigue las instrucciones a continuación para crear una nueva clave de API:
 2. Comprueba que estás en la pestaña **Generadas**.  
 3. Haz clic en `+ Generar clave`.  
 4. Rellena el campo **Identificación de la clave** con el nombre para identificar la clave de API. Este campo es obligatorio.  
-5. Selecciona los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.
+5. Selecciona los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.
 
    <div class="alert alert-error">
      <p>Marca solo los roles necesarios para la integración que utilizará la clave de API. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas al filtrarse las credenciales de inicio de sesión.</p>
@@ -92,15 +94,17 @@ Sigue los pasos a continuación para desactivar o activar una clave de API:
 
 ## Renovar token
 
-El token correspondiente a una clave de API solo es válido durante el periodo estipulado al [configurar la duración de las claves de API](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ). Es necesario renovar el token de API antes de su vencimiento para mantener el acceso continuo a los recursos y garantizar la seguridad.
+El token correspondiente a una clave de API solo es válido durante el periodo estipulado al [configurar la duración de las claves de API](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ). Es necesario renovar el token de API antes de su vencimiento para mantener el acceso continuo a los recursos y garantizar la seguridad.
 
-Para hacerlo, sigue los pasos descritos en [Renovar token de API](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Para hacerlo, sigue los pasos descritos en [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 ## Eliminar clave
 
 Las claves de API que no se vayan a utilizar pueden eliminarse. Al eliminarlas, es posible mantener la lista organizada y facilitar la gestión de las claves en uso.  
 
->⚠️ Asegúrate de que la clave de API no está siendo utilizada por ninguna integración antes de eliminarla. Este procedimiento no puede deshacerse.
+<div class="alert alert-warning">
+  <p>Asegúrate de que la clave de API no está siendo utilizada por ninguna integración antes de eliminarla. Este procedimiento no puede deshacerse.</p>
+</div>
 
 Para eliminar una clave de API de forma permanente sigue los pasos a continuación:
 
@@ -112,6 +116,6 @@ Para eliminar una clave de API de forma permanente sigue los pasos a continuaci�
 
 ## Más información
 
-* [Claves de API (beta)](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Configurar la duración de las claves de API (beta)](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Claves externas (beta)](https://help.vtex.com/es/tutorial/claves-externas--1isU0HfKkeg0atlxRha14Q)
+* [Claves de API (beta)](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)  
+* [Configurar la duración de las claves de API (beta)](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Claves externas (beta)](/es/tutorial/claves-externas--1isU0HfKkeg0atlxRha14Q)

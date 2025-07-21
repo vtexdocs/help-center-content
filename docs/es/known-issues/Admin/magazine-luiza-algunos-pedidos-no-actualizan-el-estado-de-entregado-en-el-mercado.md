@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Algunos pedidos no actualizan el estado de entregado en el mercado'
+title: "[Magazine Luiza] Algunos pedidos no actualizan el estado de entregado en el mercado"
 id: 4fcuYTyvlHUhY7dvM4KE1C
 status: PUBLISHED
 createdAt: 2023-05-17T18:39:14.983Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slugEN: magazine-luiza-some-orders-do-not-update-status-for-delivered-on-the-marketplace
+slugEN: magazine-luiza-algunos-pedidos-no-actualizan-el-estado-de-entregado-en-el-mercado
 locale: es
 kiStatus: Backlog
 internalReference: 827440
@@ -18,7 +18,9 @@ internalReference: 827440
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunos pedidos no están actualizando el estado a `DELIVERED` en el mercado

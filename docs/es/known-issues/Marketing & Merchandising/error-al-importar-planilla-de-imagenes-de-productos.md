@@ -1,16 +1,16 @@
 ---
-title: 'Error al importar planilla de imágenes de productos'
+title: "Error al importar planilla de imágenes de productos"
 id: 4Ydb20N43mQA4a4O6wmss2
 status: PUBLISHED
 createdAt: 2018-04-13T00:00:44.849Z
-updatedAt: 2022-11-14T13:33:41.202Z
-publishedAt: 2022-11-14T13:33:41.202Z
+updatedAt: 2025-01-31T23:37:04.264Z
+publishedAt: 2025-01-31T23:37:04.264Z
 firstPublishedAt: 2018-04-13T00:12:24.202Z
 contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
-slugEN: error-importing-product-image-spreadsheet
+slugEN: error-al-importar-planilla-de-imagenes-de-productos
 locale: es
 kiStatus: Backlog
 internalReference: 697200
@@ -32,6 +32,6 @@ Al enviar la planilla para importación de imágenes de productos, todas o algun
 
 ## Workaround
 
-No hay workaround para la importación de imágenes por planilla. Una ruta alternativa para importar imágenes es utilizar webservice.
+No hay workaround para la importación de imágenes por planilla. Una ruta alternativa para importar imágenes es utilizar [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
 
 

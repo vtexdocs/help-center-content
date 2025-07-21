@@ -1,5 +1,5 @@
 ---
-title: 'A função de configurações do CMS não está funcionando como esperado'
+title: "A função de configurações do CMS não está funcionando como esperado"
 id: 1xAUvtkD2gbvc3yaoYXT2d
 status: PUBLISHED
 createdAt: 2023-06-19T12:31:33.137Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: cms-settings-role-not-working-as-expected
+slugEN: a-funcao-de-configuracoes-do-cms-nao-esta-funcionando-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 538706
@@ -18,7 +18,9 @@ internalReference: 538706
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A função de configurações do CMS não está funcionando como esperado. Às vezes, o usuário não consegue acessar o CMS mesmo depois de ser adicionado à função.

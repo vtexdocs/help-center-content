@@ -1,5 +1,5 @@
 ---
-title: 'A falsificação de identidade é ignorada após a conclusão de uma compra'
+title: "A falsificação de identidade é ignorada após a conclusão de uma compra"
 id: 4mHKOlwaLwfIEf8HFh4y4Y
 status: PUBLISHED
 createdAt: 2024-03-20T20:10:26.200Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: impersonation-is-ignored-after-one-purchase-is-completed
+slugEN: a-falsificacao-de-identidade-e-ignorada-apos-a-conclusao-de-uma-compra
 locale: pt
 kiStatus: Backlog
 internalReference: 1003545
@@ -18,7 +18,9 @@ internalReference: 1003545
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um operador de call center se faz passar por um comprador, conclui uma compra e é enviado para a página orderPlaced, um novo orderForm será gerado.

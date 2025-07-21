@@ -1,5 +1,5 @@
 ---
-title: "Los banners de búsqueda no siguen el operador 'AND' para las condiciones de activación"
+title: 'Los banners de búsqueda no siguen el operador "AND" para las condiciones de activación'
 id: 4nQLt5q3Mz2DxvBIyZknXj
 status: PUBLISHED
 createdAt: 2024-06-20T21:17:46.485Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: search-banners-not-following-the-operator-and-for-trigger-conditions
+slugEN: los-banners-de-busqueda-no-siguen-el-operador-and-para-las-condiciones-de-activacion
 locale: es
 kiStatus: Backlog
 internalReference: 1053614
@@ -18,7 +18,9 @@ internalReference: 1053614
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las condiciones para los banners de búsqueda (gestionados a través de "/admin/search/v4/banners/") no soportan el operador "AND" tal y como se presenta en sus reglas de activación. La interfaz de usuario es incorrecta, y el operador se comporta como "OR" de forma fija.

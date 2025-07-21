@@ -1,5 +1,5 @@
 ---
-title: 'Problemas con el almacenamiento de las condiciones de pago'
+title: "Problemas con el almacenamiento de las condiciones de pago"
 id: 5PjlMyI7sWJIjVucy0hmVM
 status: PUBLISHED
 createdAt: 2022-03-13T21:39:19.155Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: problems-with-payment-condition-storage
+slugEN: problemas-con-el-almacenamiento-de-las-condiciones-de-pago
 locale: es
 kiStatus: Backlog
 internalReference: 377684
@@ -18,7 +18,9 @@ internalReference: 377684
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay una cuenta y una subcuenta con el mismo sufijo estamos teniendo problemas para almacenar las Condiciones de Pago cada vez que hay cambios en ellas.

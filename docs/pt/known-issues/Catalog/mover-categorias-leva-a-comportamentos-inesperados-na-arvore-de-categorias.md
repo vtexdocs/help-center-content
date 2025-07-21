@@ -1,5 +1,5 @@
 ---
-title: 'Mover Categorias leva a comportamentos inesperados na árvore de categorias'
+title: "Mover Categorias leva a comportamentos inesperados na árvore de categorias"
 id: 2HKIvNomXHcDyYiuQYQvqI
 status: PUBLISHED
 createdAt: 2022-06-20T19:34:47.422Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: moving-categories-leads-to-unexpected-behaviors-in-the-categories-tree
+slugEN: mover-categorias-leva-a-comportamentos-inesperados-na-arvore-de-categorias
 locale: pt
 kiStatus: Backlog
 internalReference: 367136
@@ -18,7 +18,9 @@ internalReference: 367136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, esta funcionalidade pode levar a inconsistências no banco de dados da sua árvore de categorias, dependendo do tipo de movimento. Esta funcionalidade não é, portanto, recomendada até que possa ser remediada.

@@ -27,7 +27,9 @@ La pantalla __Facturas__ en el Admin de VTEX (__Aplicaciones > Customer Credit >
 
 Para seleccionar la lista de invoices que se mostrarán, puede hacer clic en uno de los cuatro estados (Abierto, Pagado, Cancelado o Vencido), o ingresar el número de identificación del pedido para el cual se emitió la invoice.
 
->⚠️ En Customer Credit, todos los títulos se crean con el estado **Abierto**.
+<div class="alert alert-warning">
+En Customer Credit, todos los títulos se crean con el estado <b>Abierto</b>.
+</div>
 
 ## Detalhes de la factura
 
@@ -40,7 +42,9 @@ Para facilitar el proceso de pago de una factura, es posible proporcionar un lin
 - Utilice la función `IMPORTAR` para insertar datos desde una plantilla .csv.
 - Via endpoint [PUT Change Invoice](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-creditAccountId-/invoices/-invoiceId-) da API Customer Credit.
 
->ℹ️ Luego de realizar uno de los trámites anteriores, el cliente tendrá acceso al botón **PAGAR** que estará disponible en su área de cliente en la web de la tienda (<b>Mi Cuenta > Mis Créditos</b >).
+<div class="alert alert-info">
+Luego de realizar uno de los trámites anteriores, el cliente tendrá acceso al botón <b>PAGAR</b> que estará disponible en su área de cliente en la web de la tienda (<b>Mi Cuenta > Mis Créditos</b >).
+</div>
 
 ### Liquidación individual
 

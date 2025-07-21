@@ -37,7 +37,9 @@ See below these basic folders in the CMS:
 
 These folders come by default in the environment of all VTEX stores.
 
->❗ The names of the required folders must **not** be edited. This can compromise the proper functioning of the store and prevent purchases from being made.
+<div class="alert alert-danger">
+  <p>The names of the required folders must <b>not</b> be edited. This can compromise the proper functioning of the store and prevent purchases from being made.</p>
+</div>
 
 Since folders refer to dynamic pages, their names don't appear on the customer's navigation. In other words, the fact that editing the names is banned does not affect the final text of your URLs, nor the internationalization of your site.
 
@@ -53,7 +55,9 @@ These are:
 
 For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
 
->⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+<div class="alert alert-warning">
+Since they are private folders, <code>/account</code> and <code>/account/orders</code> <b>must require authentication</b>. See <a href="http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages">in this article</a> how to ensure they are configured to ask for user authentication.
+</div>
 
 ## Useful folders
 
@@ -61,4 +65,4 @@ There are folders that, although not as important as the previous ones, are ofte
 
 - `/sistema/buscavazia`: folder to which the user is directed if the search finds no results.
 - `/sistema/{codigoHTTP}`: folder that renders error pages according to HTTP status codes, such as `404` (page not found), `401` (unauthorized), and `500` (server error).
-- `/sistema/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [about VTEX search](https://help.vtex.com/en/tutorial/how-does-vtex-search-work--tutorials_542).
+- `/sistema/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [about VTEX search](/en/tutorial/how-does-vtex-search-work--tutorials_542).

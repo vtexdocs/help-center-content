@@ -19,7 +19,7 @@ The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sal
 
 ![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/how-to-activate-the-shareable-cart-app_1.gif)
 
-This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
+This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
 
 ## Installation 
 
@@ -33,7 +33,7 @@ To install the app in your store, follow the steps below:
 
 After you complete these steps, the app will be installed on the account you entered. The next step is to review the app's settings to adjust it to meet your store's needs. 
 
->⚠️ Your account name is the identifier used to access your Admin. You must replace the <code class="c-link">{accountName}</code> with it in the link `https://<span class="c-link">{accountName}</span>.myvtex.com/admin`
+<div class="alert alert-warning" role="alert">Your account name is the identifier used to access your Admin. You must replace the <code class="c-link">{accountName}</code> with it in the link <code>https://<span class="c-link">{accountName}</span>.myvtex.com/admin</code></div>
 
 ## Configuration
 
@@ -63,7 +63,7 @@ The field in which the salesperson code will be inserted depends on the store ne
 
 If both options are selected, the sales assistant needs to indicate which field he is filling in the cart sharing interface.
 
->ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/reference/orders#getorder).
+<div class="alert alert-info" role="alert">The added information can be found on the <strong>Promotions and Partnerships card</strong> in the <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank">orders details</a> or within the <code>marketingData</code> object returned when obtaining the order information using the <a href="https://developers.vtex.com/reference/orders#getorder">Orders API</a>.</div>
 
 ### Channels
 
@@ -76,11 +76,11 @@ This setting allows you to activate the desired sharing channels in the cart sha
 - Gmail
 - Email
 
->⚠️ Sales assistants will need to log in to the social media accounts and applications used for sharing on the device they use to add items to the cart.
+<div class="alert alert-warning" role="alert">Sales assistants will need to log in to the social media accounts and applications used for sharing on the device they use to add items to the cart.</div>
 
 ## Customization (optional)
 
-You can change the button colors on your store's cart sharing interface through [Checkout customization](https://help.vtex.com/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
+You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 
@@ -88,7 +88,7 @@ In the image below, option A shows the original colors and option B shows one po
 
 The code below must be added at the end of the `checkout5-custom.css` or `checkout6-custom.css` file, available for customization in *Store Settings > Checkout > Code*. The file that should be edited depends on the version of the Checkout used by your store.
 
->❗ **Warning:** Errors in the checkout customization can break your customers’ purchase flow. If you do not understand the code below, ask your technical team for help.
+<div class="alert alert-danger" role="alert"><strong>Warning:</strong> Errors in the checkout customization can break your customers’ purchase flow. If you do not understand the code below, ask your technical team for help.</div>
 
 Then change the properties in the CSS code according to your needs.
 
@@ -183,7 +183,7 @@ Then change the properties in the CSS code according to your needs.
 
 ### How is this functionality technically possible?
 
-The app uses VTEX's [shared cart](https://help.vtex.com/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
+The app uses VTEX's [shared cart](/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
 
 ### How to identify sales assistants and promotions?
 
@@ -230,7 +230,7 @@ See some possibilities in the table below. We recommend that the store's technic
   </tbody>
 </table>
 
->ℹ️ In Scenario 4 it is necessary to [generate coupons in bulk](https://help.vtex.com/en/tutorial/how-to-generate-massive-coupons--frequentlyAskedQuestions_348), so that each sales assistant has their own coupon for identification and discount activation.
+<div class="alert alert-info" role="alert">In Scenario 4 it is necessary to <a href="https://help.vtex.com/en/tutorial/how-to-generate-massive-coupons--frequentlyAskedQuestions_348">generate coupons in bulk</a>, so that each sales assistant has their own coupon for identification and discount activation.</div>
 
 ### Who fills in personal details and addresses, sales assistants or customers?
 

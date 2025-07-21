@@ -1,5 +1,5 @@
 ---
-title: "Exportação de Catálogo não mostra os Canais de Venda quando 'nenhum' está marcado"
+title: 'Exportação de Catálogo não mostra os Canais de Venda quando "nenhum" está marcado'
 id: 10Bozz8ai3fAvu1m9Ex2Gk
 status: PUBLISHED
 createdAt: 2022-12-23T13:38:32.114Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-export-does-not-show-sales-channels-when-none-are-tagged
+slugEN: exportacao-de-catalogo-nao-mostra-os-canais-de-venda-quando-nenhum-esta-marcado
 locale: pt
 kiStatus: Backlog
 internalReference: 722001
@@ -18,7 +18,9 @@ internalReference: 722001
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, os canais de venda a serem verificados na IU do produto têm uma lógica de "se nenhum for verificado, todos eles estão disponíveis".

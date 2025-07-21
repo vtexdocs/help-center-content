@@ -14,5 +14,7 @@ trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugES: integracion-rappi
 ---
 
->⚠️ Este contenido es exclusivamente regional; 
-> por lo tanto, no se aplica a los países de habla española.
+<div class="alert alert-warning" role="alert">
+  Este contenido es exclusivamente regional; 
+por lo tanto, no se aplica a los países de habla española.
+</div>

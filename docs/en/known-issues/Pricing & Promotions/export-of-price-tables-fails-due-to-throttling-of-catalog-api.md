@@ -1,5 +1,5 @@
 ---
-title: 'Export of Price Tables Fails Due to Throttling of Catalog API'
+title: "Export of Price Tables Fails Due to Throttling of Catalog API"
 id: 4LSQalrhGQHuz8c087WBxP
 status: PUBLISHED
 createdAt: 2024-08-14T18:41:34.999Z

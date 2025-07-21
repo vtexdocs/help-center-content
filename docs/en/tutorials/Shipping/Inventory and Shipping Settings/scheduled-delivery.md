@@ -21,13 +21,13 @@ The delivery time frames that are available to customers are called delivery win
 
 If this is the case, you can enable scheduled deliveries by configuring delivery windows and setting the delivery capacity for each of them. To do that, access the Scheduled delivery section on the Shipping Policy page.
 
->⚠️ For [Scheduled delivery](https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:
-> *The result from {[account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.
-> * Do not use spaces in [shipping policy IDs](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+<div class="alert alert-warning">
+For <a href="https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Scheduled delivery</a> and <a href="https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Delivery capacity</a> to perform correctly, you must follow the rules below:<p><ul><li>The result from {<a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in <a href="https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">shipping policy IDs</a>.</li></ul></p>
+</div>
 
 Once you've enabled the __Scheduled Delivery__ feature in the Shipping Policy, you can fill in the fields that will determine how it will work. Fill them to define the [maximum delivery time](#maximum-delivery-time), the [delivery window](#delivery-window), and the [delivery capacity limit](#delivery-capacity).
 
-For more information, read our article on [Shipping policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140).
+For more information, read our article on [Shipping policies](/en/tutorial/shipping-policy--tutorials_140).
 
 ## Maximum delivery time
 
@@ -38,7 +38,10 @@ You can configure it through the Maximum delivery time field in the scheduled de
 ## Delivery window
 
 Delivery windows are the time frames during which packages are sent to customers. To configure them, set start and end times by day of the week. You can also set an additional shipping rate for certain days of the week.
->ℹ️ A delivery window can't be selected after it has started. Only upcoming delivery windows —which have not yet started— will be available to customers.
+<div class="alert alert-info">
+A delivery window can't be selected after it has started. Only upcoming delivery windows —which have not yet started— will be available to customers.
+
+</div>
 
 ## Delivery capacity
 
@@ -46,7 +49,9 @@ Setting the delivery capacity is a way of limiting the number of items or orders
 
 When the customer completes the purchase and selects the scheduled delivery option, the date and time options displayed will take into account the delivery capacity of the delivery window. The customer will only be able to schedule deliveries in windows that still have at least 1 item/order available. 
 
->ℹ️ If the delivery window has reached its full capacity, it will not be available to be selected. To make it available, increase the number of items/orders by editing the [Shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140). 
+<div class="alert alert-info">
+If the delivery window has reached its full capacity, it will not be available to be selected. To make it available, increase the number of items/orders by editing the <a href="https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140">Shipping policy</a>.
+</div> 
 
-For more information, read our article on [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz). 
+For more information, read our article on [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz). 
 

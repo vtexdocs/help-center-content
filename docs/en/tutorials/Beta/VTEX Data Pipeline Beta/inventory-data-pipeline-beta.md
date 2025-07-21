@@ -3,8 +3,8 @@ title: 'Inventory Data Pipeline '
 id: 2IvKMZV9SNrE6ipBRQr8h2
 status: PUBLISHED
 createdAt: 2024-02-02T17:41:24.979Z
-updatedAt: 2024-09-13T17:28:37.925Z
-publishedAt: 2024-09-13T17:28:37.925Z
+updatedAt: 2025-04-15T14:02:23.916Z
+publishedAt: 2025-04-15T14:02:23.916Z
 firstPublishedAt: 2024-05-27T19:26:59.588Z
 contentType: tutorial
 productTeam: Others
@@ -20,8 +20,7 @@ The dataset of the `item_inventory` table provides information about the availab
 This section includes the following information:  
 
 - [Inventory data characteristics](#data-characteristics)
-- [Table: item_update_latest](#table-item-update-latest)
-- [Table: item_update_historical](#table-item-update-historical)
+- [Table: item_inventory](#table-item_inventory)
 - [Analyses with item_inventory](#analyses-with-inventory)
 - [Correlations with other data](#correlations-with-other-data)
 
@@ -31,45 +30,26 @@ This section includes the following information:
 |:---:|:---:|
 | **Data source** | Obtained from information in the logistics module. |
 | **Availability** | VTEX Admin. |
-| **History** | The data is retained for two years, from 2024 for clients who already use the VTEX platform. |
+| **History** | We have made historical data available since June 2022. For customers who already use the VTEX platform, data is retained for two years starting in 2024. |
 | **Minimum update interval** | One hour. |
 
-## Table: item_update_latest
+## Table: item_inventory
 
 The table fields are described below:
 
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
-| **batch_id** | character varying(13) | Identifier used when data is loaded into the table for quality control of data ingestion. |
-| **last_date** | timestamp without time zone | Date and time of the last change to the inventory. |
-| **item_availabilty_id** | character varying(65535) | SKU inventory schema's id. |
-| **item_id** | character varying(65535)	 | Item’s identifier. |
-| **main_account_name** | character varying(65535)	 | Name of the parent account associated with the item. |
-| **account_name** | character varying(65535)	 | Name of the account related to the item. |
-| **is_unlimited_quantity** | boolean | Boolean flag that indicates whether a sku is always available regardless of its quantity. |
-| **quantity** | integer | SKU quantity on stock. |
-| **reserved_quantity** | integer | Reserved SKU units. Orders for these reservations have not yet been approved for payment. |
-| **reservation_id** | character varying(65535) | Identification of a reserve for that item. |
-
-## Table: item_update_historical
-
-The table fields are described below:
-
-| **Column name** | **Column type** | **Column description** |
-|:---:|:---:|:---:|
-| **batch_id** | character varying(13) | Identifier used when data is loaded into the table for quality control of data ingestion. |
-| **created_at** | timestamp without time zone | Date and time of the change to the inventory. |
-| **item_availabilty_id** | character varying(65535) | SKU inventory schema's id |
-| **item_id** | character varying(65535)	 | Item’s identifier |
-| **main_account_name** | character varying(65535)	 | Name of the parent account associated with the item. |
-| **account_name** | character varying(65535)	 | Name of the account related to the item. |
-| **author_id** | character varying(65535) | Author of the inventory change |
-| **event_type** | character varying(65535) | Type of availability change (e.g. reservation-create, reservation-cancel, item-availability-update) |
-| **metadata_created_at** | timestamp without time zone | Time an event was generated |
-| **is_unlimited_quantity** | boolean | Boolean flag that indicates whether a sku is always available regardless of its quantity |
-| **quantity** | integer | SKU quantity on stock |
-| **reserved_quantity** | integer | Reserved SKU units. Orders for these reservations have not yet been approved for payment. |
-| **reservation_id** | character varying(65535) | Identification of a reserve for that item |
+| **Column Name**| **Column Type**| **Description**|
+|--------|------------|---------------|
+|parent_account_name | character varying(200) | Name of the main account associated with the fundamental entity to which the inventory belongs.|
+| main_account | character varying(200)| Name of the Merchant's main account in License Manager.|
+| account_name| character varying(200)| Name of the account to whom the inventory belongs.|
+| quantity| bigint| The total quantity of items available in stock.|
+| reserved_quantity | bigint| Number of active reservations for an item. |
+| is_unlimited_quantity | boolean| Indicates whether the item can have infinite stock (True/False).|
+| batch_id| character(13)| Identifies the last ingestion batch that updated this row.|
+| warehouse_id| character varying(400)| ID of the warehouse where the stock is located.|
+| item_id| character varying(300)| Identifies the item whose stock is being quantified. |
+| last_update | timestamp without time zone  | The last time this particular item stock was updated. |
+| warehouse_status | varchar(8) | Display the current status of the warehouse where this inventory is stored. Accepted values are: active, inactive, or deleted. |
 
 ## Analyses with inventory
 
@@ -90,10 +70,10 @@ Inventory data correlates with order and product sets, and provides a more compr
 
 ### Discover other Datasets
 
-- [Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
+- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

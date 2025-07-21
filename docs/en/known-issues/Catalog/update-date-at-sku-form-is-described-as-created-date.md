@@ -1,5 +1,5 @@
 ---
-title: 'Update date at sku form is described as created date'
+title: "Update date at sku form is described as created date"
 id: j1tph6HBivcCZwvMVsr4o
 status: PUBLISHED
 createdAt: 2024-10-21T13:41:00.047Z

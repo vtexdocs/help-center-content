@@ -1,19 +1,19 @@
 ---
-title: 'Some special characters are not stripped from product searches or indexing'
-id: 3qbzEcCkXpaPA0U23trlwT
-status: DRAFT
-createdAt: 2022-04-26T22:41:20.214Z
-updatedAt: 2023-11-29T20:24:51.268Z
-publishedAt: 
-firstPublishedAt: 2022-04-26T22:42:16.929Z
+title: "Some special characters are not stripped from product searches or indexing"
+id: 2yarH7RCUQWKZ0I435hGcD
+status: PUBLISHED
+createdAt: 2023-11-29T20:26:50.510Z
+updatedAt: 2024-07-01T18:49:20.705Z
+publishedAt: 2024-07-01T18:49:20.705Z
+firstPublishedAt: 2023-11-29T20:26:51.145Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: some-special-characters-are-not-stripped-from-product-searches-or-indexing
 locale: en
-kiStatus: Backlog
-internalReference: 382382
+kiStatus: No Fix
+internalReference: 944659
 ---
 
 ## Summary

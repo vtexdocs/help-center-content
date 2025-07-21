@@ -1,5 +1,5 @@
 ---
-title: "'No puede desactivar este producto porque tiene uno o más skus activos' no se traduce automáticamente en el Product admin"
+title: 'No puede desactivar este producto porque tiene uno o más skus activos" no se traduce automáticamente en el Product admin'
 id: 2wYoZ01LtolL1Tfhc4ldV8
 status: PUBLISHED
 createdAt: 2023-04-03T19:17:17.147Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin
+slugEN: no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin
 locale: es
 kiStatus: Backlog
 internalReference: 768603
@@ -18,7 +18,9 @@ internalReference: 768603
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

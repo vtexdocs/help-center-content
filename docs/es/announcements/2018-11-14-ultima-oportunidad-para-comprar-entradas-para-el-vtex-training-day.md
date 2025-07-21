@@ -38,9 +38,9 @@ El escenario del VTEX IO, la plataforma de desarrollo de VTEX. Nuestros ingenier
 <br />
 <br />
 
->ℹ️ ¡**Garantiza un 30% de descuento** en la compra de 10 o más ingresos! 
->
-> Pero corre, que la promoción es válida sólo hasta finales de noviembre.
+<div class="alert alert-info">
+¡<strong>Garantiza un 30% de descuento</strong> en la compra de 10 o más ingresos! <br />Pero corre, que la promoción es válida sólo hasta finales de noviembre.
+</div>
 
 
 __¿Cuando?__ 06/12/2018 _(o evento dura o dia todo)_ 

@@ -15,9 +15,9 @@ legacySlug: seller-portal-detalles-del-producto
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-![Shared products product details ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/Seller%20Portal/seller-portal-detalles-del-producto_1.jpg)
+![Shared products product details ES](https://images.ctfassets.net/alneenqid6w5/6H2NihfYF5QWfj60VjFueu/03a548e0bc52ff9953b51621583da3c9/Shared_products_product_details_ES.jpg)
 
-En la página «Detalles del producto» en la funcionalidad [Produtos Compartidos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) se puede ver toda la información sobre un producto específico. A partir de ella el seller puede: 
+En la página «Detalles del producto» en la funcionalidad [Produtos Compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) se puede ver toda la información sobre un producto específico. A partir de ella el seller puede: 
 
 - Visualizar la *Información General* registrada por el marketplace para ese producto, como su ID, foto, marca, categoría y descripción.   
 - Visualizar la información de los SKU vinculados al producto, es decir, sus variaciones con características específicas que lo diferencian de las otras opciones que ofrece su tienda para ese mismo producto.  
@@ -39,11 +39,11 @@ Para acceder a la página «Detalles del producto», acceda a Productos > Catál
 *Será dirigido al módulo «Stock» para completar la configuración. Consulte nuestra documentación para obtener más información.*   
   5. Seleccione la opción **Activar producto**.
 
-Una vez completada la configuración de precio y stock, su producto se convertirá automáticamente en un anuncio en el marketplace. Para saber más sobre la venta de productos compartidos en el marketplace, consulte nuestro artículo sobre [Anuncios](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
+Una vez completada la configuración de precio y stock, su producto se convertirá automáticamente en un anuncio en el marketplace. Para saber más sobre la venta de productos compartidos en el marketplace, consulte nuestro artículo sobre [Anuncios](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
 
 ## Artículos Relacionados
 
 - [Seller Portal: Produtos Compartilhados](/admin/app/docs/seller-portal/tutorials/6vUGj2UmOuLzQTK9pj04lu)  
 - [Seller Portal: Como Funciona o Catálogo](/admin/app/docs/seller-portal/tutorials/7pMB6YOt6YQDQQbzFB4Pxp)        
-- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)     
+- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)     
 

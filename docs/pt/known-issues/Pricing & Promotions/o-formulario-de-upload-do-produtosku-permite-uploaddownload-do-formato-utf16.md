@@ -1,5 +1,5 @@
 ---
-title: 'O formulário de upload do produto/SKU permite upload/download do formato UTF-16'
+title: "O formulário de upload do produto/SKU permite upload/download do formato UTF-16"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: productsku-upload-form-allows-utf16-format-uploaddownload
+slugEN: o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16
 locale: pt
 kiStatus: No Fix
 internalReference: 493402
@@ -18,7 +18,9 @@ internalReference: 493402
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, se um usuário tentar carregar uma lista SKU para o formulário de promoção regular utilizando um arquivo .txt, se o arquivo carregado estiver no formato de codificação UTF-16, então será o arquivo carregado posteriormente.

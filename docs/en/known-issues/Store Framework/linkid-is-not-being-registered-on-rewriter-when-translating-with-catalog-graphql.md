@@ -1,5 +1,5 @@
 ---
-title: 'linkId is not being registered on rewriter when translating with catalog graphql'
+title: "linkId is not being registered on rewriter when translating with catalog graphql"
 id: 7b7KOHlxyIO4zKy2xrMuSD
 status: PUBLISHED
 createdAt: 2022-09-08T21:27:03.855Z

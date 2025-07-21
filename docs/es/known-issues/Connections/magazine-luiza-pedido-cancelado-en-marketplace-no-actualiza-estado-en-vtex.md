@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Pedido cancelado en marketplace no actualiza estado en VTEX'
+title: "[Magazine Luiza] Pedido cancelado en marketplace no actualiza estado en VTEX"
 id: 4C1G20Iwj6x1mvqzsSDU0P
 status: PUBLISHED
 createdAt: 2023-07-20T15:33:25.631Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magazine-luiza-order-canceled-on-marketplace-didnt-update-status-on-vtex
+slugEN: magazine-luiza-pedido-cancelado-en-marketplace-no-actualiza-estado-en-vtex
 locale: es
 kiStatus: Backlog
 internalReference: 865926
@@ -18,7 +18,9 @@ internalReference: 865926
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Orden cancelada en marketplace no actualiza estado en VTEX

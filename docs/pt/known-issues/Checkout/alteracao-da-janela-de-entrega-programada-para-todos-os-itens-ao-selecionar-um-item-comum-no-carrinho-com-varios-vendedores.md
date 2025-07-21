@@ -1,5 +1,5 @@
 ---
-title: 'Alteração da janela de entrega programada para todos os itens ao selecionar um item comum no carrinho com vários vendedores'
+title: "Alteração da janela de entrega programada para todos os itens ao selecionar um item comum no carrinho com vários vendedores"
 id: 1Dkdy8fr6AcV766gDgYgqp
 status: PUBLISHED
 createdAt: 2024-08-30T17:20:33.623Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: scheduled-delivery-window-change-for-all-items-when-selecting-a-common-one-in-the-cart-with-multiple-sellers
+slugEN: alteracao-da-janela-de-entrega-programada-para-todos-os-itens-ao-selecionar-um-item-comum-no-carrinho-com-varios-vendedores
 locale: pt
 kiStatus: Backlog
 internalReference: 1089806
@@ -18,7 +18,9 @@ internalReference: 1089806
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando dois itens de vendedores diferentes com entrega programada estão em um carrinho, suas janelas de entrega podem se sobrepor. Se a data selecionada para o primeiro item for anterior ao período sobreposto, a interface do usuário do checkout considerará a data do segundo item. Por exemplo:

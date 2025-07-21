@@ -1,5 +1,5 @@
 ---
-title: 'El evento de compra GA4 no tiene el árbol de categorías en item_category en dataLayer'
+title: "El evento de compra GA4 no tiene el árbol de categorías en item_category en dataLayer"
 id: 6GCrgcG8PJHaZp80hi4Gb1
 status: PUBLISHED
 createdAt: 2023-07-12T16:42:17.087Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: ga4-purchase-event-doesnt-have-the-category-tree-on-itemcategory-in-datalayer
+slugEN: el-evento-de-compra-ga4-no-tiene-el-arbol-de-categorias-en-itemcategory-en-datalayer
 locale: es
 kiStatus: Backlog
 internalReference: 860655
@@ -18,7 +18,9 @@ internalReference: 860655
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento de compra GA4 no tiene el árbol de categorías en item_category en dataLayer, por lo que la única categoría disponible es la categoría de último nivel del producto.

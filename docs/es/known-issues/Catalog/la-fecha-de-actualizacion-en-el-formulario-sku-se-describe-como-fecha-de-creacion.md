@@ -1,5 +1,5 @@
 ---
-title: 'La fecha de actualización en el formulario sku se describe como fecha de creación'
+title: "La fecha de actualización en el formulario sku se describe como fecha de creación"
 id: j1tph6HBivcCZwvMVsr4o
 status: PUBLISHED
 createdAt: 2024-10-21T13:41:00.047Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: update-date-at-sku-form-is-described-as-created-date
+slugEN: la-fecha-de-actualizacion-en-el-formulario-sku-se-describe-como-fecha-de-creacion
 locale: es
 kiStatus: Backlog
 internalReference: 1120514
@@ -18,7 +18,9 @@ internalReference: 1120514
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El campo mal llamado "fecha de creación" en realidad informa de la fecha de la última actualización del sku (igual que el campo fecha de actualización del formulario de producto).

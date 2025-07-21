@@ -35,13 +35,13 @@ The new menu provides significant advantages, which are highlighted below:
 
 The Offers section allows merchants to display specific products or search results and customize their marketing strategies to their business needs and goals.
 
-One of the key features of this update is that merchants can set the Offers section as their home page. This provides a more customized user experience, as customers are immediately greeted with selected content and product recommendations. Learn more in the [Enabling Local stock sale in VTEX Sales App](https://help.vtex.com/en/tutorial/enabling-local-stock-sale-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q) article.
+One of the key features of this update is that merchants can set the Offers section as their home page. This provides a more customized user experience, as customers are immediately greeted with selected content and product recommendations. Learn more in the [Enabling Local stock sale in VTEX Sales App](/en/tutorial/enabling-local-stock-sale-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q) article.
 
 <img src="//images.ctfassets.net/alneenqid6w5/XXJQykcV9p6yNN6Q5mB5u/fcdfa190f4766760449d9bf4d7eff4b5/image.png" alt= “anuncio-sale-app-en” width="35%" height="35%">
 
 ### Sales Performance
 
-The Sales Performance page allows merchants to view their sales metrics and compare performance across sales dates and staff performance. Learn more in the [VTEX Sales App: Sales Performance](https://help.vtex.com/en/tutorial/sales-app-sales-performance--7i4Elt835tatBM6iqZoc56) article.
+The Sales Performance page allows merchants to view their sales metrics and compare performance across sales dates and staff performance. Learn more in the [VTEX Sales App: Sales Performance](/en/tutorial/sales-app-sales-performance--7i4Elt835tatBM6iqZoc56) article.
 
 <img src="//images.ctfassets.net/alneenqid6w5/3UWhX6QODOG8pQ6Xi0QXKV/0f05e6e637790f140f22bb5b9bf877e5/image.png" alt= “vendas-da-loja-sales-app-en” width="35%" height="35%">
 
@@ -51,8 +51,8 @@ No action is required, as the update will be automatically applied to all VTEX s
 
 To learn more about the VTEX Sales App in our documentation:
 
-- [VTEX Sales App - Getting started and setting up](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)
-- [VTEX Sales App - Payments](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)
-- [VTEX Sales App - Using the app](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)
-- [Unified Commerce Strategies](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)
+- [VTEX Sales App - Getting started and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)
+- [VTEX Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)
+- [VTEX Sales App - Using the app](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)
+- [Unified Commerce Strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)
 

@@ -15,7 +15,7 @@ legacySlug: procedimento-de-contas-a-pagar-internacional
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->ℹ️ **Procedimento destinado a todas filiais VTEX, exceto Brasil.**
+<div class="alert alert-info" role="alert"><strong>Procedimento destinado a todas filiais VTEX, exceto Brasil.</strong></div>
 
 Para garantir a conformidade em todos os pagamentos realizados fora do Brasil, é preciso seguir os seguintes procedimentos:
 

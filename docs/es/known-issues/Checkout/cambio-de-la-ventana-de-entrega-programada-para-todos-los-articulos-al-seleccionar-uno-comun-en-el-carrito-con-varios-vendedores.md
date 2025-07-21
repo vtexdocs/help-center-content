@@ -1,5 +1,5 @@
 ---
-title: 'Cambio de la ventana de entrega programada para todos los artículos al seleccionar uno común en el carrito con varios vendedores.'
+title: "Cambio de la ventana de entrega programada para todos los artículos al seleccionar uno común en el carrito con varios vendedores."
 id: 1Dkdy8fr6AcV766gDgYgqp
 status: PUBLISHED
 createdAt: 2024-08-30T17:20:33.623Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: scheduled-delivery-window-change-for-all-items-when-selecting-a-common-one-in-the-cart-with-multiple-sellers
+slugEN: cambio-de-la-ventana-de-entrega-programada-para-todos-los-articulos-al-seleccionar-uno-comun-en-el-carrito-con-varios-vendedores
 locale: es
 kiStatus: Backlog
 internalReference: 1089806
@@ -18,7 +18,9 @@ internalReference: 1089806
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando dos artículos de diferentes vendedores con entrega programada están en un carro, sus ventanas de entrega pueden solaparse. Si la fecha seleccionada para el primer artículo es anterior al periodo solapado, la interfaz de pago tendrá en cuenta la fecha del segundo artículo. Por ejemplo:

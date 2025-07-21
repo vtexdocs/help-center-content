@@ -81,10 +81,10 @@ A continuación, se describen los componentes mostrados en la página.
 
 Problemas de navegación en el storefront.
 
-* **Portal/CMS:** inestabilidad observada en tiendas desarrolladas con la tecnología de storefront [Portal CMS Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+* **Portal/CMS:** inestabilidad observada en tiendas desarrolladas con la tecnología de storefront [Portal CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 * **Store Framework:** inestabilidad observada en tiendas desarrolladas con la tecnología de storefront[ Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework).
 * **FastStore:** inestabilidad observada en tiendas desarrolladas con la tecnología de storefront[ FastStore](https://www.faststore.dev/).
-* **Sales App:** inestabilidad observada en [Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc), la solución de VTEX para ventas asistidas en tiendas físicas.
+* **Sales App:** inestabilidad observada en [Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc), la solución de VTEX para ventas asistidas en tiendas físicas.
 * **3rd Party Apps:** inestabilidad observada en extensiones mantenidas por terceros.
 
 ### Checkout
@@ -125,7 +125,9 @@ Para ver los eventos ocurridos en un día específico, pasa el mouse sobre la fe
 
 ![statuspage-8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Infrastructure/SLA%20&%20Status/pagina-vtex-status_8.png)
 
->⚠️ Si un mantenimiento programado dura más de un día, solo se marcará la fecha de inicio en el calendario. Debes abrir el [registro de mantenimiento](#registro-de-mantenimiento-programado) para ver la fecha de inicio y la fecha de fin.
+<div class="alert alert-warning">
+  <p>Si un mantenimiento programado dura más de un día, solo se marcará la fecha de inicio en el calendario. Debes abrir el <a href="#registro-de-mantenimiento-programado">registro de mantenimiento</a> para ver la fecha de inicio y la fecha de fin.</p>
+</div>
 
 A continueación, describimos la información disponible en el registro del incidente y en el registro de mantenimiento programado.
 

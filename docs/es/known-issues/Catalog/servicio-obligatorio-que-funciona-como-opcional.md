@@ -1,5 +1,5 @@
 ---
-title: 'Servicio obligatorio que funciona como opcional'
+title: "Servicio obligatorio que funciona como opcional"
 id: 6bcdioCSYL7ZGoOy0nEtJC
 status: PUBLISHED
 createdAt: 2023-08-01T15:15:29.008Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: mandatory-service-working-as-optional
+slugEN: servicio-obligatorio-que-funciona-como-opcional
 locale: es
 kiStatus: Backlog
 internalReference: 872411
@@ -18,7 +18,9 @@ internalReference: 872411
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al crear un servicio el comerciante puede elegir si va a ser un campo obligatorio en el pago o no.

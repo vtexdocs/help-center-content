@@ -37,7 +37,9 @@ Para criar uma tag personalizada de controle customizado, basta clicar em __Add_
 
 ![cms-custom-elements PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/para-que-serve-o-controle-customizado_1.png)
 
->⚠️ **Atenção:** não crie um controle do tipo HTML com um elemento `title`. Isso pode interferir no funcionamento correto da sua loja.
+<div class="alert alert-warning">
+  <p><b>Atenção:</b> não crie um controle do tipo HTML com um elemento <code>title</code>. Isso pode interferir no funcionamento correto da sua loja.</p>
+</div>
 
 ## Aplicando um controle customizado a um template de página
 

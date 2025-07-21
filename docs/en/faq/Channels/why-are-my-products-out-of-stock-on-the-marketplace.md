@@ -23,7 +23,7 @@ After the configurations, it is necessary to index all products in the base, so 
 1. With the sponsor user, access the link link {{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx;
 2. Click on the button **Reindexar Base**.
 
-Remember! You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](https://help.vtex.com/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "How to use the Index Report") and the [Integrations module](http://help.vtex.com/tutorial/bridge/ "bridge").
+Remember! You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "How to use the Index Report") and the [Integrations module](http://help.vtex.com/tutorial/bridge/ "bridge").
 
 ___ WARNING: If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner .___
 

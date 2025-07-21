@@ -1,5 +1,5 @@
 ---
-title: 'Pickup point options in the checkout shows even inactive or invalid options'
+title: "Pickup point options in the checkout shows even inactive or invalid options"
 id: 4LF45BWQxDh6r7Bk7chu4P
 status: PUBLISHED
 createdAt: 2022-05-31T18:07:23.568Z

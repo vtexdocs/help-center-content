@@ -15,13 +15,15 @@ legacySlug: promotion-alerts-beta
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
->ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://help.vtex.com/en/support).
+<div class = "alert alert-info">
+This module is in Beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://help.vtex.com/en/support">Support team</a>.
+</div>
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the discounts applied will produce the expected results since mistakes during the promotion creation can lead to revenue losses.
 
-To mitigate unwanted impacts on promotions, the **Promotion Alerts** page allows you to create conditions to check if promotions are correct and to establish [preemptive actions](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions) to avoid selling at unexpected prices. However, an order is required to activate the first alert.
+To mitigate unwanted impacts on promotions, the **Promotion Alerts** page allows you to create conditions to check if promotions are correct and to establish [preemptive actions](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions) to avoid selling at unexpected prices. However, an order is required to activate the first alert.
 
-If the defined [conditions](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#conditions) are met, the system generates an alert informing you of the product sold at unexpected prices and then applies the configured [preemptive actions](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions). If you configure the action of [deactivating promotions](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions), the unwanted scenario will not be repeated since the promotion will have been deactivated.
+If the defined [conditions](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#conditions) are met, the system generates an alert informing you of the product sold at unexpected prices and then applies the configured [preemptive actions](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions). If you configure the action of [deactivating promotions](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions), the unwanted scenario will not be repeated since the promotion will have been deactivated.
 
 Suppose you only configure the email alert action, further orders with the unwanted discount can still be placed until you manually deactivate or change the promotion settings to have the desired effect.
 
@@ -48,7 +50,7 @@ The Promotion Alerts page allows you to:
 
 ## Creating an alert
 
-To create a promotion alert, click the `Create Alert` button.  Please read the article [Promotion Alerts: How to create a promotion alert](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR) to learn more.
+To create a promotion alert, click the `Create Alert` button.  Please read the article [Promotion Alerts: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR) to learn more.
 
 ## Searching for an alert
 
@@ -93,5 +95,5 @@ Then, the alert will have been successfully duplicated.
 
 ## Learn more
 
-- [Promotion Alert: How to create a promotion alert](https://help.vtex.com/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
-- [How promotions work](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [Promotion Alert: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
+- [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

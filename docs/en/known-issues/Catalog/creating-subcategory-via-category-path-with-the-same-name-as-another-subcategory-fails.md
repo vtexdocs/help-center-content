@@ -1,5 +1,5 @@
 ---
-title: 'Creating subcategory via category path, with the same name as another subcategory, fails'
+title: "Creating subcategory via category path, with the same name as another subcategory, fails"
 id: 4ncZiLNaKbgfYzGHCGvwdk
 status: PUBLISHED
 createdAt: 2024-08-26T15:45:09.563Z

@@ -1,5 +1,5 @@
 ---
-title: 'Programação de Data de Fim para Coleções não Funcionando'
+title: "Programação de Data de Fim para Coleções não Funcionando"
 id: mhO5z0twpTunMeEsPKl0q
 status: PUBLISHED
 createdAt: 2022-03-17T21:32:13.982Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-schedule-end-date-not-working
+slugEN: programacao-de-data-de-fim-para-colecoes-nao-funcionando
 locale: pt
 kiStatus: Fixed
 internalReference: 497880
@@ -18,7 +18,9 @@ internalReference: 497880
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando a data final de uma coleção programada é atingida, o processo de reindexação dos produtos contidos nela não é acionado, fazendo com que a programação da data final não funcione como um todo.

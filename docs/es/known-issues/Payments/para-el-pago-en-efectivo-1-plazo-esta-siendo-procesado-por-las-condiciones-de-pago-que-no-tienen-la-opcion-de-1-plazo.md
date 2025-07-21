@@ -1,5 +1,5 @@
 ---
-title: 'Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo'
+title: "Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo"
 id: 4IFxkUqJ9jdqkJf7kSNUcy
 status: PUBLISHED
 createdAt: 2022-03-26T12:27:04.928Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option
+slugEN: para-el-pago-en-efectivo-1-plazo-esta-siendo-procesado-por-las-condiciones-de-pago-que-no-tienen-la-opcion-de-1-plazo
 locale: es
 kiStatus: Backlog
 internalReference: 292781
@@ -18,7 +18,9 @@ internalReference: 292781
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para el pago en efectivo (1 plazo) se está ignorando para la regla de condición de pago, aunque la condición de pago no tiene configuración para 1 plazo.

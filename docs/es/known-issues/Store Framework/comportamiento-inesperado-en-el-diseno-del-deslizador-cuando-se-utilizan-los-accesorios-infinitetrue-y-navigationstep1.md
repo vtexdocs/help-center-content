@@ -1,5 +1,5 @@
 ---
-title: 'Comportamiento inesperado en el diseño del deslizador cuando se utilizan los accesorios infinite=true y navigationStep=1'
+title: "Comportamiento inesperado en el diseño del deslizador cuando se utilizan los accesorios infinite=true y navigationStep=1"
 id: 2uSG9sqj32yL3wHt0SUnOO
 status: PUBLISHED
 createdAt: 2022-02-01T19:49:07.658Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: unexpected-behavior-in-slider-layout-when-using-the-props-infinitetrue-and-navigationstep1
+slugEN: comportamiento-inesperado-en-el-diseno-del-deslizador-cuando-se-utilizan-los-accesorios-infinitetrue-y-navigationstep1
 locale: es
 kiStatus: Backlog
 internalReference: 462895
@@ -18,7 +18,9 @@ internalReference: 462895
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se produce un comportamiento inesperado cuando se utiliza vtex.slider-layout, si estos dos props se establecen juntos:

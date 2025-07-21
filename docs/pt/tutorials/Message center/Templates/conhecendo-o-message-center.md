@@ -3,8 +3,8 @@ title: 'Como funciona a Central de mensagens'
 id: tutorials_84
 status: PUBLISHED
 createdAt: 2017-04-27T22:20:04.874Z
-updatedAt: 2021-06-01T18:46:54.349Z
-publishedAt: 2021-06-01T18:46:54.349Z
+updatedAt: 2025-01-24T15:17:44.604Z
+publishedAt: 2025-01-24T15:17:44.604Z
 firstPublishedAt: 2017-04-27T23:00:42.423Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -20,6 +20,10 @@ subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ## Templates
 
 Os templates são as mensagens em si. As mensagens estão categorizadas conforme o módulo responsável e destinam-se a um conteúdo específico. Dentro de cada um temos o título/assunto do e-mail, o código HTML, o remetente que vai fazer o envio e o destinatário, com possibilidades de especificar “CC” e “CCO”.
+
+<div class="alert alert-warning">
+  <p>Por questões de segurança, nem todos templates podem ser enviados com “CC” e “CCO”.</p>
+</div>
 
 Entenda as informações que cada _card_ do template traz:
 

@@ -1,5 +1,5 @@
 ---
-title: 'Widget de usuário de personificação não exibido se showModal estiver ativado'
+title: "Widget de usuário de personificação não exibido se showModal estiver ativado"
 id: 19IHgjxPOEFC6HsAc5FD96
 status: PUBLISHED
 createdAt: 2024-06-03T15:55:49.797Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: impersonation-user-widget-not-shown-if-showmodal-is-enabled
+slugEN: widget-de-usuario-de-personificacao-nao-exibido-se-showmodal-estiver-ativado
 locale: pt
 kiStatus: Backlog
 internalReference: 1043039
@@ -18,7 +18,9 @@ internalReference: 1043039
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Após a representação de outro e-mail, espera-se que seja exibido um botão "Stop Impersonation", mas quando o `showModal` está ativado, ele não é exibido.

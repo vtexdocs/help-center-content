@@ -1,5 +1,5 @@
 ---
-title: 'CEP como condição em uma promoção não considera o país'
+title: "CEP como condição em uma promoção não considera o país"
 id: 5rPGioNAiWaEmAIMQSACaM
 status: PUBLISHED
 createdAt: 2017-04-05T12:24:01.042Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_41
 tag: Pricing & Promotions
-slugEN: postal-code-as-condition-in-a-promotion-doesnt-consider-the-country
+slugEN: cep-como-condicao-em-uma-promocao-nao-considera-o-pais
 locale: pt
 kiStatus: Backlog
 internalReference: 

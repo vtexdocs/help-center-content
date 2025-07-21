@@ -1,5 +1,5 @@
 ---
-title: " [Magalu] Pedido con error 'Referencia de objeto no establecida a una instancia de un objeto'"
+title: '[Magalu] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto'
 id: 6758qSnWuXR6TWQ1mlKOxs
 status: PUBLISHED
 createdAt: 2022-11-29T17:45:30.636Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magalu-order-with-error-object-reference-not-set-to-an-instance-of-an-object
+slugEN: magalu-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto
 locale: es
 kiStatus: Backlog
 internalReference: 707113
@@ -18,7 +18,9 @@ internalReference: 707113
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Los pedidos no se han creado en OMS+Bridge y en el registro aparece el error: `"Object reference not set to an instance of an object"`.

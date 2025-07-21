@@ -1,24 +1,26 @@
 ---
-title: 'La capacidad de entrega no se respeta si hay espacio en el Id de la política de envío'
+title: "La capacidad de entrega no se respeta si hay espacio en el Id de la política de envío"
 id: 1OyY54G05o15EI2zAmW4Vq
 status: PUBLISHED
 createdAt: 2023-07-14T21:25:50.522Z
-updatedAt: 2024-03-19T19:26:55.344Z
-publishedAt: 2024-03-19T19:26:55.344Z
+updatedAt: 2024-12-19T19:05:37.172Z
+publishedAt: 2024-12-19T19:05:37.172Z
 firstPublishedAt: 2023-07-14T21:25:51.117Z
 contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: delivery-capacity-is-not-respected-if-there-is-space-in-the-id-of-shipping-policy
+slugEN: la-capacidad-de-entrega-no-se-respeta-si-hay-espacio-en-el-id-de-la-politica-de-envio
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 862830
 ---
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si la función de programación de entregas está en uso y la capacidad de entrega está habilitada, hay dos escenarios conocidos que pueden hacer que la ventana esté disponible incluso después de haber alcanzado su límite máximo de capacidad configurada.

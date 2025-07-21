@@ -19,7 +19,9 @@ A árvore da categoria global é a taxonomia criada pelo Google para o [Merchant
 
 As mesmas categorias globais estão disponíveis para os produtos de todas as lojas.
 
->ℹ️ Para toda categoria da sua loja, é necessário escolher uma categoria global.
+<div class="alert alert-info">
+Para toda categoria da sua loja, é necessário escolher uma categoria global.
+</div>
 
 ### Por que usar?
 
@@ -27,7 +29,9 @@ Adotamos essa taxonomia porque ela é amplamente aplicável a qualquer contexto,
 
 Ela é usada, por exemplo, como referência para a integração de produtos com Amazon, Buscapé e marketplaces.
 
->ℹ️ O comportamento padrão da nossa integração com o Google Shopping é **não enviar** esta informação. Assim, a maioria das lojas conta com a categorização automática da própria Google. Caso prefira a categorização manual, [abra um chamado de suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank).
+<div class="alert alert-info">
+O comportamento padrão da nossa integração com o Google Shopping é <strong>não enviar</strong> esta informação. Assim, a maioria das lojas conta com a categorização automática da própria Google. Caso prefira a categorização manual, <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank">abra um chamado de suporte</a>.
+</div>
 
 ### Quando ela é aplicada?
 
@@ -45,7 +49,7 @@ __Exemplo__: se sua loja tem uma categoria "Placas-mãe", o ideal é você escol
 
 ### Como configurar a categoria global?
 
-No [catálogo da VTEX](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), a categoria global utilizada segue a [lista de todas as categorias de produtos Google](https://support.google.com/merchants/answer/6324436?hl=pt-BR). Adotamos este padrão por ele se aplicar a inúmeros contextos, o que facilita a categorização de produtos de diversos segmentos em uma só estrutura. 
+No [catálogo da VTEX](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), a categoria global utilizada segue a [lista de todas as categorias de produtos Google](https://support.google.com/merchants/answer/6324436?hl=pt-BR). Adotamos este padrão por ele se aplicar a inúmeros contextos, o que facilita a categorização de produtos de diversos segmentos em uma só estrutura. 
 
 A definição de uma categoria global é obrigatória. **Sua principal aplicação é na integração de uma loja a canais externos de venda.** Atualmente a VTEX utiliza esse tipo de categoria somente para o conector da integração com a Amazon.
 
@@ -55,7 +59,9 @@ Você sempre deve escolher a categoria global que mais se aproxima dos produtos 
 
 O ideal é que uma categoria global seja determinada nas configurações de categoria. Isso permite que todos os produtos de uma categoria pertençam à mesma categoria global. 
 
->❗ Escolher uma categoria global no cadastro do produto é recomendável somente se ele tiver que ser configurado de forma diferente da categoria na qual está inserido.
+<div class="alert alert-danger">
+Escolher uma categoria global no cadastro do produto é recomendável somente se ele tiver que ser configurado de forma diferente da categoria na qual está inserido.
+</div>
 
 A configuração da categoria global é feita no Admin, e o seu preenchimento é obrigatório. Para configurá-la, siga os passos abaixo:
 
@@ -68,4 +74,6 @@ A configuração da categoria global é feita no Admin, e o seu preenchimento é
 7. Escreva o nome da categoria que deseja encontrar e clique no botão <i class="fas fa-search"></i>. Você pode utilizar a barra de busca para encontrar a categoria desejada.
 8. Clique na categoria escolhida, para que ela seja selecionada, e em seguida clique no botão `Salvar`.
 
->ℹ️ A categoria global pode também ser [configurada por arquivo XML](https://help.vtex.com/pt/tutorial/configuring-xml--tutorials_242).
+<div class="alert alert-info">
+A categoria global pode também ser <a href="https://help.vtex.com/pt/tutorial/configuring-xml--tutorials_242">configurada por arquivo XML</a>.
+</div>

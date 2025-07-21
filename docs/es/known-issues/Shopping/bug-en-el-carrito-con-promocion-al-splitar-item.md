@@ -1,5 +1,5 @@
 ---
-title: "Bug en el carrito con promoción al 'splitar' item"
+title: 'Bug en el carrito con promoción al "splitar" item'
 id: 26EY5QcY4wcGm88okke8SY
 status: PUBLISHED
 createdAt: 2017-05-24T20:20:57.562Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: authors_37
 tag: Catalog
-slugEN: bug-in-cart-with-promotion-when-splitting-item
+slugEN: bug-en-el-carrito-con-promocion-al-splitar-item
 locale: es
 kiStatus: Fixed
 internalReference: 

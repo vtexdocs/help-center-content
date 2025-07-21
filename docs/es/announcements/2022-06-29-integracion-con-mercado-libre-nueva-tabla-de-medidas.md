@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Lanzamos una nueva tabla de medidas de Mercado Libre para las tiendas que actúan como sellers en el marketplace.'
 ---
 
-Continuando con las mejoras realizadas para la [certificación de Mercado Libre](https://help.vtex.com/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), lanzamos la nueva tabla de medidas de Mercado Libre para todas las tiendas VTEX que operan como sellers en el marketplace. 
+Continuando con las mejoras realizadas para la [certificación de Mercado Libre](/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), lanzamos la nueva tabla de medidas de Mercado Libre para todas las tiendas VTEX que operan como sellers en el marketplace. 
 
 La tabla de medidas permite que los clientes sepan el tamaño aproximado del producto que están adquiriendo para brindar una mejor experiencia al momento de seleccionar el tamaño del producto.
 
@@ -37,6 +37,6 @@ Es un paso más para lograr nuestro objetivo de proporcionar una experiencia de 
 
 La nueva interfaz ya está disponible en el Admin VTEX para toda nuestra base de clientes que utilizan el conector de Mercado Libre para anunciar sus productos. Para acceder a la nueva interfaz, haz clic en **MARKETPLACE > Integraciones > Configuración**. Luego, en el recuadro de Mercado Libre, haz clic en `Realizar mapeo`.
 
-Para saber más sobre cómo utilizar la nueva interfaz, consulta el artículo[ Enviar productos a Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber más sobre cómo utilizar la nueva interfaz, consulta el artículo[ Enviar productos a Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
 
-Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más limpio, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) al programa Beta del [nuevo Admin VTEX](https://help.vtex.com/pt/v4).
+Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más limpio, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) al programa Beta del [nuevo Admin VTEX](/pt/v4).

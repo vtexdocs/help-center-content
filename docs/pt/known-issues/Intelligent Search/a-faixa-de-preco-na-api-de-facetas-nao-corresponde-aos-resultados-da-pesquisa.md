@@ -1,5 +1,5 @@
 ---
-title: 'A faixa de preço na API de facetas não corresponde aos resultados da pesquisa'
+title: "A faixa de preço na API de facetas não corresponde aos resultados da pesquisa"
 id: 2X9Z21u9kJh55uWu6o6sP3
 status: PUBLISHED
 createdAt: 2024-03-08T22:36:43.149Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: price-range-at-the-facets-api-doesnt-correspond-to-the-search-results
+slugEN: a-faixa-de-preco-na-api-de-facetas-nao-corresponde-aos-resultados-da-pesquisa
 locale: pt
 kiStatus: Backlog
 internalReference: 997121
@@ -18,7 +18,9 @@ internalReference: 997121
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As faixas de preço da API de facetas ("Obter lista das facetas possíveis para uma determinada consulta") podem variar entre o retorno de baldes de valores "de" e "para" com preços arredondados e os preços mínimo e máximo entre os resultados da pesquisa.

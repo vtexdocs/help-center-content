@@ -1,5 +1,5 @@
 ---
-title: 'Planilha de imagem não importada. Mensagem de erro: Falha no registro de processamento.'
+title: "Planilha de imagem não importada. Mensagem de erro: Falha no registro de processamento."
 id: 4HKn7B4b4Au5NFfg87Zu6T
 status: PUBLISHED
 createdAt: 2022-11-04T12:17:16.480Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: image-spreadsheet-not-importing-error-message-fail-to-process-record
+slugEN: planilha-de-imagem-nao-importada-mensagem-de-erro-falha-no-registro-de-processamento
 locale: pt
 kiStatus: Backlog
 internalReference: 691803
@@ -18,7 +18,9 @@ internalReference: 691803
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

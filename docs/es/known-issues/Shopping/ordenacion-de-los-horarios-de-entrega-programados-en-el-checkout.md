@@ -1,5 +1,5 @@
 ---
-title: 'Ordenación de los horarios de entrega programados en el checkout'
+title: "Ordenación de los horarios de entrega programados en el checkout"
 id: 2ZAhWeQbJe6kWgoCEMEMWQ
 status: PUBLISHED
 createdAt: 2018-09-18T18:32:16.155Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ordering-of-delivery-times-scheduled-at-checkout
+slugEN: ordenacion-de-los-horarios-de-entrega-programados-en-el-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 

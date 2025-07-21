@@ -15,17 +15,21 @@ legacySlug: planner-releases-page-beta
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
->ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
+<div class="alert alert-info">
+  <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
+</div>
 
-The **Releases** module allows you to [manage your releases](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store.
+The **Releases** module allows you to [manage your releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store.
 
-In the navigation menu of the **Releases** in the VTEX Admin, you'll find the **Releases** and [Calendar](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) pages. You can create a new release and perform other [actions](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) under **Releases**.
+In the navigation menu of the **Releases** in the VTEX Admin, you'll find the **Releases** and [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) pages. You can create a new release and perform other [actions](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) under **Releases**.
 
-On the **Releases** page, you'll see all existing releases listed by the `Not scheduled` [status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) releases first, followed by those already scheduled. 
+On the **Releases** page, you'll see all existing releases listed by the `Not scheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) releases first, followed by those already scheduled. 
 
 The order of the scheduled releases is based on the publication date: The further into the future a release is, the sooner it'll appear on the list. However, the older the release is, the latest it'll appear.
 
->⚠️ In the beta version, releases must be [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+<div class="alert alert-warning">
+  <p>In the beta version, releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
+</div>
 
 ## List view
 
@@ -39,7 +43,7 @@ Go to the **Releases** navigation menu to access the **Releases** page in the VT
 | **Last Modified** | Time elapsed since the last modification to the release. |
 | **Created by** | ID of the last user who modified the content of the release. |
 | **Publish Date** | Date and time or scheduled date and time of the publication of the release. In case the release does not have a defined date, this field will appear as `Not scheduled`. |
-| **Status** | Indication of the [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). |
+| **Status** | Indication of the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). |
 
 In the **Releases** page, you can:
 
@@ -47,16 +51,16 @@ In the **Releases** page, you can:
 
 **II - Search for releases:** Enter the name of the release you want to find in the search bar. The search takes into consideration all existing releases.
 
-**III - Filter releases:** To filter by [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), use the `Status` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date or publication date, click on `Date` <i class="fas fa-angle-down"></i> and choose the desired date.
+**III - Filter releases:** To filter by [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), use the `Status` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date or publication date, click on `Date` <i class="fas fa-angle-down"></i> and choose the desired date.
 
-**IV - Create new release:** To create a new release, click on the `Create Release` button and follow the step-by-step instructions in [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Create new release:** To create a new release, click on the `Create Release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 **VI - Navigate between pages:** To see more release results, navigate the result pages using the arrows <i class="fas fa-angle-left"></i> <i class="fas fa-angle-right"></i>.
 
-**VII - Perform actions on the release:** Depending on the [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**VII - Perform actions on the release:** Depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 ## Learn more
 
-* [Releases: Release concept](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: Calendar page](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Releases: Release concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
+* [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
+* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)

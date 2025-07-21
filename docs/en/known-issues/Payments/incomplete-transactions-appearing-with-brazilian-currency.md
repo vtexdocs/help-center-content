@@ -1,5 +1,5 @@
 ---
-title: 'Incomplete transactions appearing with Brazilian currency'
+title: "Incomplete transactions appearing with Brazilian currency"
 id: 7g0j3FGa5E8kNi9PM3kBOf
 status: PUBLISHED
 createdAt: 2024-04-01T13:37:35.197Z

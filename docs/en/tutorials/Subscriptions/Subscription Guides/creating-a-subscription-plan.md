@@ -15,7 +15,7 @@ legacySlug: creating-a-subscription-plan-beta
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-To offer **subscription plans** to your customers, you need to install the Subscriptions app and make the necessary configurations. For more information about this process, see our article [How to configure Subscriptions in your store](https://help.vtex.com/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
+To offer **subscription plans** to your customers, you need to install the Subscriptions app and make the necessary configurations. For more information about this process, see our article [How to configure Subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
 
 Once the app has been set up, you must create subscription plans for your customers and associate products with these plans. The Plans feature indicates for which products the Subscriptions option is active and the available subscription frequencies.
 
@@ -23,7 +23,9 @@ There are two possible ways to create a subscription plan. The **most recommende
 
 Another possibility is to create a [SKU attachment related to the subscription in the Catalog](#sku-attachment-in-the-catalog) module. SKU attachments are equivalent to subscription plans.
 
->⚠️ For this reason, you should **not** create both. Otherwise, the plan will be duplicated.
+<div class="alert alert-warning">
+  <p>For this reason, you should <strong>not</strong> create both. Otherwise, the plan will be duplicated.</p>
+</div>
 
 ## Creating a new plan in the Subscriptions module
 
@@ -35,7 +37,9 @@ Creating a new plan in the **Subscriptions** module is the most recommended opti
 4. Click on the [Associated Products](#associated-products) tab and select the products you want to associate with the subscription plan.
 5. Click on `Save`.
 
->⚠️ By default, plans are saved as active, even if they do not have any associated products. Plans that do not have associated products are not available as an option for customers.
+<div class="alert alert-warning">
+  <p>By default, plans are saved as active, even if they do not have any associated products. Plans that do not have associated products are not available as an option for customers.</p>
+</div>
 
 ### Settings
 
@@ -64,7 +68,9 @@ To delete a previously created frequency, click on the <i class="far fa-trash-al
 
 You can provide multiple frequency options on the same plan. In this case, you should click the `Add frequency` button again and repeat the process by filling in the fields with the new frequency information. This way, customers can choose the frequency they prefer.
 
->⚠️ You cannot assign a validity period to the subscription plan in the **Subscriptions** module. Only subscription plans configured as SKU attachments in the **Catalog** module can have validity periods configured.
+<div class="alert alert-warning">
+  <p>You cannot assign a validity period to the subscription plan in the <strong>Subscriptions</strong> module. Only subscription plans configured as SKU attachments in the <strong>Catalog</strong> module can have validity periods configured.</p>
+</div>
 
 ### Associated Products
 
@@ -99,8 +105,8 @@ To navigate between pages in both lists, use the <i class="fas fa-chevron-left">
 
 Creating a SKU attachment is an alternative option equivalent to creating a subscription plan. The attachment indicates that the Subscription feature is active for a given SKU, and which frequencies are available.
 
-We recommend using the path described above to create a plan directly in the Subscriptions module. However, if you opt to do it via SKU attachment, follow the steps described in the article [How to create a subscription attachment](https://help.vtex.com/en/tutorial/how-to-create-a-subscription-attachment--2bUuKyPflA8cOGLv8OvaKK).
+We recommend using the path described above to create a plan directly in the Subscriptions module. However, if you opt to do it via SKU attachment, follow the steps described in the article [How to create a subscription attachment](/en/tutorial/how-to-create-a-subscription-attachment--2bUuKyPflA8cOGLv8OvaKK).
 
 ## Learn more
 
-* [Subscription plans](https://help.vtex.com/en/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Subscription plans](/en/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)

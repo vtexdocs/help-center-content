@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de pausar o vendedor'
+title: "Incapaz de pausar o vendedor"
 id: 4s4VLWa93cnfOhf8faOXjU
 status: PUBLISHED
 createdAt: 2022-10-20T18:31:59.458Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: unable-to-pause-seller
+slugEN: incapaz-de-pausar-o-vendedor
 locale: pt
 kiStatus: Fixed
 internalReference: 682151
@@ -18,7 +18,9 @@ internalReference: 682151
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes o mercado não consegue fazer uma pausa no vendedor via admin ou via API.

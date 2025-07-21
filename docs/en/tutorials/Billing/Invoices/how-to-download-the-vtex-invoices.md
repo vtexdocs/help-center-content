@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 In this article, you will find information on how to access your invoices or "boletos" (popular Brazilian off-line payment method), as they are widely known in Brazil. The way to access your invoices and more information about your account is the same, irrespective of the country where you are.
 
-To access them you need to link a [financial role](https://help.vtex.com/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) with all users who are authorized to have access to this information.
+To access them you need to link a [financial role](/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) with all users who are authorized to have access to this information.
 
 With an authorized financial role set, access the option *Account Setting > Billing > Invoices* to take invoices-related actions. On the next screen the available invoices will appear listed by month and color.
 
@@ -64,7 +64,7 @@ To download your "boleto", follow the steps below:
 6. Click on **Pay this Invoice**.
 7. A new "boleto" will be generated; and penalties and taxes will be included automatically when required. 
 
->ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
+<div class="alert alert-info">In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.</div>
 
 ![baixar boletos en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_2.gif)
 
@@ -85,7 +85,7 @@ The Nota Fiscal will be opened in another tab on your browser. Click on **Print 
 
 ![baixar notafiscal en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_3.gif)
 
-If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](https://help.vtex.com/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
+If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
 
 
 

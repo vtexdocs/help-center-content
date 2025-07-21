@@ -1,5 +1,5 @@
 ---
-title: 'Não pode pagar com MercadoPago Redirect e Vale no carrinho com produto do Seller'
+title: "Não pode pagar com MercadoPago Redirect e Vale no carrinho com produto do Seller"
 id: 2WwCIW6chacwYakYUemOyQ
 status: PUBLISHED
 createdAt: 2017-11-15T14:46:42.109Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Payments
-slugEN: you-cannot-pay-with-mercadopago-redirect-and-vale-in-shopping-cart
+slugEN: nao-pode-pagar-com-mercadopago-redirect-e-vale-no-carrinho-com-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 

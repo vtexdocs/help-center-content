@@ -1,5 +1,5 @@
 ---
-title: 'Unexpected reload happening when registering/updating a product'
+title: "Unexpected reload happening when registering/updating a product"
 id: 4XAYOJG7cgEJG6PqcmOkAY
 status: PUBLISHED
 createdAt: 2023-07-17T19:00:56.863Z

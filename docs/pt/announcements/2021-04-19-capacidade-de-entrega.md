@@ -18,7 +18,7 @@ announcementSynopsisPT: '  Gerencie e limite a quantidade de itens ou pedidos da
 
 Política de envio é um conjunto de regras que definem as opções e condições de frete que serão apresentadas ao consumidor no momento da finalização da compra.
 
-Agora você pode configurar a Capacidade de Entrega das suas Políticas de Envio para gerenciar a quantidade de itens ou pedidos que que sua loja consegue entregar em cada janela de  [Entrega Agendada](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi).
+Agora você pode configurar a Capacidade de Entrega das suas Políticas de Envio para gerenciar a quantidade de itens ou pedidos que que sua loja consegue entregar em cada janela de  [Entrega Agendada](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi).
 
 ## O que mudou?
 
@@ -38,6 +38,8 @@ Realizamos a mudança para garantir que  nossos clientes possam acompanhar e lim
 
 Para utilizar da capacidade de entrega é necessário configurar uma  política de envio para prover  entregas agendadas e então, configurar a capacidade de entrega.
 
-Para saber como configurar a capacidade de entrega das suas entregas agendadas leia  [Capacidade de Entrega](https://help.vtex.com/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
+Para saber como configurar a capacidade de entrega das suas entregas agendadas leia  [Capacidade de Entrega](/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
 
->ℹ️ Essa funcionalidade está em estágio Beta e disponível apenas para ambientes Admin v3.
+<div class="alert alert-info">
+Essa funcionalidade está em estágio Beta e disponível apenas para ambientes Admin v3. 
+</div>

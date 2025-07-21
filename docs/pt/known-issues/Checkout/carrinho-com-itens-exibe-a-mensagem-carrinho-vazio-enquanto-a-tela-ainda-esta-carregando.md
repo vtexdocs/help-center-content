@@ -1,5 +1,5 @@
 ---
-title: "Carrinho com itens exibe a mensagem 'carrinho vazio' enquanto a tela ainda está carregando"
+title: 'Carrinho com itens exibe a mensagem "carrinho vazio" enquanto a tela ainda está carregando'
 id: 4oAiVz7fJL9vPkpPFEGyBT
 status: PUBLISHED
 createdAt: 2023-03-09T22:42:06.855Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-with-items-displays-empty-cart-message-while-screen-is-still-loading
+slugEN: carrinho-com-itens-exibe-a-mensagem-carrinho-vazio-enquanto-a-tela-ainda-esta-carregando
 locale: pt
 kiStatus: Backlog
 internalReference: 303673
@@ -18,7 +18,9 @@ internalReference: 303673
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Enquanto a tela do carrinho está carregando, eventualmente, uma mensagem de "carrinho vazio" aparece antes dos itens. Este cenário pode acontecer rapidamente, com menos de milissegundos, e tornar-se imperceptível, ou possivelmente mais lentamente, durando até um segundo ou até mais e gerando consultas por parte das lojas.

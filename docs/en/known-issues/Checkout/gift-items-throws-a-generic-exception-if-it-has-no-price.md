@@ -1,5 +1,5 @@
 ---
-title: 'Gift items throws a generic exception if it has no price'
+title: "Gift items throws a generic exception if it has no price"
 id: 7Jw1Nihqp3Sg2ecg7R9IEt
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:18.546Z

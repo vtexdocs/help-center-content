@@ -1,5 +1,5 @@
 ---
-title: "Preços restritos ao valor máximo 'Int32' na API Change Price"
+title: 'Preços restritos ao valor máximo "Int32" na API Change Price'
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: prices-restricted-to-int32-max-value-on-change-price-api
+slugEN: precos-restritos-ao-valor-maximo-int32-na-api-change-price
 locale: pt
 kiStatus: No Fix
 internalReference: 566142
@@ -18,7 +18,9 @@ internalReference: 566142
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O Checkout REST API Change price não suporta preços maiores que um valor "Int32". Portanto, a aplicação de um "preço manual" será restrita ao número "2.147.483.647" (número em decimais).

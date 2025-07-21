@@ -1,5 +1,5 @@
 ---
-title: 'Al colocar el código postal en la vista previa de envío del carro, se duplican las opciones de dirección para los clientes recurrentes.'
+title: "Al colocar el código postal en la vista previa de envío del carro, se duplican las opciones de dirección para los clientes recurrentes."
 id: 4J8TMlhGmMtnHKXGES4qie
 status: PUBLISHED
 createdAt: 2023-12-20T21:36:52.612Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: placing-postal-code-in-the-shipping-preview-of-the-cart-is-duplicating-address-options-for-recurring-customers
+slugEN: al-colocar-el-codigo-postal-en-la-vista-previa-de-envio-del-carro-se-duplican-las-opciones-de-direccion-para-los-clientes-recurrentes
 locale: es
 kiStatus: Backlog
 internalReference: 956338
@@ -18,7 +18,9 @@ internalReference: 956338
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tenemos algunos problemas a la hora de colocar los códigos postales en el módulo **Previsualización de envíos** del carrito, algunos de ellos se describen en estos KIs:

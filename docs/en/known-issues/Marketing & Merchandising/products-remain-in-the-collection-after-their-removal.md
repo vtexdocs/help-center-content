@@ -1,5 +1,5 @@
 ---
-title: 'Products remain in the collection after their removal'
+title: "Products remain in the collection after their removal"
 id: hyuFn96MqOsyIoM6iUqWo
 status: PUBLISHED
 createdAt: 2017-06-16T20:47:54.231Z

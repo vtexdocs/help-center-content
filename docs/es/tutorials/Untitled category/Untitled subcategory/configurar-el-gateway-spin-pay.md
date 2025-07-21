@@ -17,7 +17,9 @@ subcategoryId: unknown-subcategory
 
 En VTEX, ahora puede ofrecer el *gateway* [Spin Pay](https://spinpay.com.br/) para procesar los pagos en su tienda. A través de esta solución, podrá recibir pagos vía PIX (método de pago instantáneo en Brasil) y las principales billeteras digitales que actualmente están disponibles en el mercado. 
 
->⚠️ Para utilizar Spin Pay en VTEX, debe tener una **Application Key (App Key)** y una **Application Token (App Token)**. Estos datos únicamente se obtienen después de que Spin Pay aprueba su registro y usted firma el contrato de prestación de servicios. Si su registro ya ha sido aprobado y el contrato firmado, realice los siguientes pasos.
+<div class="alert alert-warning">
+  Para utilizar Spin Pay en VTEX, debe tener una <b>Application Key (App Key)</b> y una <b>Application Token (App Token)</b>. Estos datos únicamente se obtienen después de que Spin Pay aprueba su registro y usted firma el contrato de prestación de servicios. Si su registro ya ha sido aprobado y el contrato firmado, realice los siguientes pasos.
+   </div>
 
 Realice los siguientes pasos para configurar Spin Pay en su tienda:
 
@@ -34,7 +36,7 @@ Posteriormente, Spin Pay estará listo para procesar pagos en su tienda. Realice
 
 ### Configurar condición de pago
 
-Cuando el gateway está instalado en su tienda, debe configurar la [condición de pago](https://help.vtex.com/es/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que los pagos se procesen correctamente. 
+Cuando el gateway está instalado en su tienda, debe configurar la [condición de pago](/es/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que los pagos se procesen correctamente. 
 
 1. Acceda al __Admin__ VTEX.
 2. Acceda al módulo __Pagos__.
@@ -47,7 +49,9 @@ Cuando el gateway está instalado en su tienda, debe configurar la [condición d
 9. En __Usando Antifraude__, en caso de que haya contratado una solución, habilite el campo y seleccione la opción deseada.
 10. Haga clic en __Salva__ para guardar las configuraciones.
 
->⚠️ Spin Pay es una solución brasileña de pago instantáneo en la que el débito se efectúa directamente en la cuenta del consumidor. Por esta razón, no es posible ofrecer pagos en cuotas.
+<div class="alert alert-warning">
+  Spin Pay es una solución brasileña de pago instantáneo en la que el débito se efectúa directamente en la cuenta del consumidor. Por esta razón, no es posible ofrecer pagos en cuotas.
+   </div>
 
 Cuando concluya todos los pasos, Spin Pay estará habilitado para procesar los pagos en su tienda.
 

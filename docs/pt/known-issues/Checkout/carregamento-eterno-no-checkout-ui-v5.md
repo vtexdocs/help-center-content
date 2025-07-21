@@ -1,5 +1,5 @@
 ---
-title: 'Carregamento eterno no Checkout UI v5'
+title: "Carregamento eterno no Checkout UI v5"
 id: 6lOzyvQqoRCNWkIjRtyibv
 status: PUBLISHED
 createdAt: 2022-10-18T15:28:04.738Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: eternal-loading-in-checkout-ui-v5
+slugEN: carregamento-eterno-no-checkout-ui-v5
 locale: pt
 kiStatus: Backlog
 internalReference: 332740
@@ -18,7 +18,9 @@ internalReference: 332740
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No Checkout v5, em um cenário específico, a página está presa em uma carga infinita, e no console, podemos ver o erro: "Uncaught SyntaxError": Token u inesperado em JSON na posição 0 em JSON.parse (<anónimo>)".

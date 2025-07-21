@@ -1,5 +1,5 @@
 ---
-title: 'Issue on translating titles for some facets'
+title: "Issue on translating titles for some facets"
 id: iG3Kb1AfH7QIqYn1ewnuw
 status: PUBLISHED
 createdAt: 2023-03-22T19:26:31.477Z

@@ -3,8 +3,8 @@ title: 'Evaluación de riesgos'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2024-08-08T21:07:08.119Z
-publishedAt: 2024-08-08T21:07:08.119Z
+updatedAt: 2025-04-22T14:40:08.173Z
+publishedAt: 2025-04-22T14:40:08.173Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others
@@ -41,10 +41,10 @@ Haz clic en los puntos a continuación para acceder a las FAQ de cada tema:
 
 Parte de la información sobre seguridad está restringida a usuarios con acceso al Admin VTEX, por lo que no está presente en el Help Center de VTEX. Para consultar esa información, ingresa a continuación el nombre de tu cuenta VTEX:
 
-Ingrese su [nombre de cuenta](https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) VTEX para acceder a la documentación.
+Ingrese su [nombre de cuenta](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) VTEX para acceder a la documentación.
 <iframe src="https://help.vtex.com/insertaccountname?id=1ayXEtqawI9yuxFXutiITh" title="Ingrese su nombre de cuenta y haz click en el botón." frameBorder="0" width="400" height="50"></iframe>
 
->⚠️ Si tiene dificultades para acceder a las preguntas frecuentes, intente instalar la última versión de la aplicación `vtex.admin-docs` usando la [CLI de VTEX](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) y repetir el proceso.
+<div class="alert alert-warning">Si tiene dificultades para acceder a las preguntas frecuentes, intente instalar la última versión de la aplicación <code>vtex.admin-docs</code> usando la <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-installation-and-command-reference">CLI de VTEX</a> y repetir el proceso.</div>
 
 ## Preguntas frecuentes - Seguridad
 
@@ -129,11 +129,11 @@ VTEX, como encargada del tratamiento, procesa los datos personales de los compra
 * Número de documento de identidad (cuando lo exija el país en el que opera la tienda)
 * Historial de tarjeta de regalo
 * Carrito abandonado
-* Conversaciones de [Conversation Tracker](https://help.vtex.com/es/tutorial/comprendiendo-el-conversation-tracker--tutorials_195)
+* Conversaciones de [Conversation Tracker](/es/tutorial/comprendiendo-el-conversation-tracker--tutorials_195)
 * Contraseñas de sesión (cifradas)
 * Tokens generados
 
-La lista de datos anterior se encuentra detallada en el [Data Processing Addendum (DPA)](https://help.vtex.com/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
+La lista de datos anterior se encuentra detallada en el [Data Processing Addendum (DPA)](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd#data-processing-addendum-dpa).
 
 #### ¿Cómo asegura VTEX el cumplimiento del Reglamento General de Protección de Datos (RGPD) y de la Ley General de Protección de Datos de Brasil (LGPD)?
 VTEX se compromete a cumplir toda la normativa aplicable en materia de protección de datos, incluidos el RGPD y la LGPD. Puedes obtener más información sobre nuestras políticas, contratos y compromiso con el cumplimiento de la protección de datos en nuestro sitio web, en la página [Privacidad y Contratos](https://vtex.com/mx-es/privacy-and-agreements/).
@@ -145,7 +145,7 @@ VTEX actúa como encargada del tratamiento de los datos de los consumidores fina
 
 Como responsable del tratamiento, el retailer define las bases jurídicas y los fines del tratamiento de datos. Si por razones técnicas, contractuales o legales no puedes atender la solicitud, es posible justificar el motivo de la negativa.
 
-Si necesitas ayuda para ejercer los derechos de titulares de datos de alguno de los clientes de tu tienda, consulta [Eliminación de los datos de clientes](https://help.vtex.com/es/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).
+Si necesitas ayuda para ejercer los derechos de titulares de datos de alguno de los clientes de tu tienda, consulta [Eliminación de los datos de clientes](/es/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).
 
 #### ¿Dispone VTEX de una política de clasificación de la información?
 VTEX ha establecido una política de clasificación de la información con el objetivo de orientar a sus empleados sobre la correcta categorización de la información, en función de su nivel de criticidad. Nuestra política tiene como objetivo garantizar la seguridad, integridad y confidencialidad de los datos de VTEX, así como ayudar a gestionar el acceso a esta información de manera apropiada. La política establece los siguientes niveles de clasificación: público, interno y confidencial, y especifica las medidas de seguridad asociadas a cada categoría.
@@ -202,14 +202,14 @@ Dentro de este equipo, hay grupos específicos encargados de gestionar los siste
 A continuación, la solicitud de acceso se evalúa para garantizar que el empleado en cuestión necesita y debe recibir el acceso solicitado. Antes de que el acceso se conceda, el flujo pasa por varias etapas de autenticación, validación y aprobación formal de la solicitud.
 
 #### ¿Limita VTEX el acceso de acuerdo con el principio de mínimo privilegio?
-Sí, VTEX restringe el acceso de acuerdo con el principio de mínimo privilegio. Esto significa que los usuarios reciben [permisos de acceso](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) solo para lo estrictamente necesario en el desempeño de sus funciones, lo que minimiza el riesgo de exposición indebida de información sensible y fortalece la seguridad de los sistemas y datos.
+Sí, VTEX restringe el acceso de acuerdo con el principio de mínimo privilegio. Esto significa que los usuarios reciben [permisos de acceso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) solo para lo estrictamente necesario en el desempeño de sus funciones, lo que minimiza el riesgo de exposición indebida de información sensible y fortalece la seguridad de los sistemas y datos.
 
 #### ¿Cómo se estructura la arquitectura de autenticación y la gestión de identidades disponible en la plataforma VTEX?
 La plataforma VTEX cuenta con una solución de identidad lista para usar llamada VTEX ID. También brindamos soporte para la integración de [proveedores de identidad SSO](https://developers.vtex.com/docs/guides/login-integration-guide) en el Admin y en el sitio web de la tienda.
 
 El Admin usa [SAML 2.0](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) como protocolo de autenticación, y los clientes de VTEX pueden integrar un proveedor de identidad existente utilizando SAML 2.0 como estándar. El sitio web de la tienda puede integrarse con proveedores de identidad externos a través del protocolo [OAuth 2.0](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2).
 
-Disponemos de un proceso de [gestión de accesos](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que incluye el acceso a los entornos de producción y otros entornos relacionados.
+Disponemos de un proceso de [gestión de accesos](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que incluye el acceso a los entornos de producción y otros entornos relacionados.
 
 A continuación, incluimos links a contenido técnico más detallado sobre nuestros controles de autenticación:
 * [Login integration guide](https://developers.vtex.com/docs/guides/login-integration-guide)
@@ -224,11 +224,11 @@ Las contraseñas en VTEX ID deben cumplir con los siguientes requisitos:
 * Mínimo de 1 carácter especial.
 * No se pueden repetir las últimas 4 contraseñas utilizadas.
 
-Los retailers pueden optar por aplicar la opción [vencimiento de la contraseña](https://help.vtex.com/es/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) a los usuarios del Admin tras un periodo específico, que puede ser de 15, 30 o 90 días.
+Los retailers pueden optar por aplicar la opción [vencimiento de la contraseña](/es/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) a los usuarios del Admin tras un periodo específico, que puede ser de 15, 30 o 90 días.
 
 Además, tienen la opción de integrar un proveedor de identidad externo, lo que les permitiría definir sus propias políticas de contraseña personalizadas. Para más información, consulta [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide).
 
-Si una cuenta se bloquea debido a que el usuario ingresa incorrectamente la contraseña (medida de seguridad), el usuario legítimo aún puede iniciar sesión a través de otros métodos, como recibir un token por email o usar un[ inicio de sesión social integrado](https://help.vtex.com/es/tutorial/configurar-login-com-facebook-e-google--tutorials_513) (Google o Facebook), lo que evita posibles ataques de fuerza bruta contra contraseñas débiles.
+Si una cuenta se bloquea debido a que el usuario ingresa incorrectamente la contraseña (medida de seguridad), el usuario legítimo aún puede iniciar sesión a través de otros métodos, como recibir un token por email o usar un[ inicio de sesión social integrado](/es/tutorial/configurar-login-com-facebook-e-google--tutorials_513) (Google o Facebook), lo que evita posibles ataques de fuerza bruta contra contraseñas débiles.
 
 #### ¿Ofrece la plataforma VTEX inicio de sesión único (SSO)?
 Como capa adicional de seguridad, proporcionamos el recurso de inicio de sesión único (SSO), disponible tanto en el Admin VTEX de la tienda (entorno administrativo) como en el storefront para los clientes.
@@ -245,21 +245,21 @@ Es importante destacar que no existe un método de acceso integrado; cada client
 Este enfoque nos brinda agilidad en las mejoras y correcciones de bugs, mientras posibilita una escalabilidad eficiente para satisfacer las necesidades específicas de cada cliente, manteniendo siempre la seguridad y la resiliencia.
 
 #### ¿Cómo se gestiona el acceso de usuario en la plataforma, incluyendo la transferencia, adición, edición y eliminación de cuentas?
-La gestión de usuarios administrativos se realiza directamente a través del Admin VTEX. A los usuarios administrativos se les asignan perfiles de acceso que pueden contener uno o varios [permisos](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3), establecidos por el [usuario titular](https://help.vtex.com/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta o por usuarios con roles User Administrator - RESTRICTED o con un rol personalizado que contenga el [recurso](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) Save User. Para más información, consulta [Gestionar usuarios](https://help.vtex.com/es/tutorial/managing-users--tutorials_512).
+La gestión de usuarios administrativos se realiza directamente a través del Admin VTEX. A los usuarios administrativos se les asignan perfiles de acceso que pueden contener uno o varios [permisos](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3), establecidos por el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta o por usuarios con roles User Administrator - RESTRICTED o con un rol personalizado que contenga el [recurso](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) Save User. Para más información, consulta [Gestionar usuarios](/es/tutorial/managing-users--tutorials_512).
 
 #### ¿Dispone la plataforma de funcionalidades para gestionar, organizar y personalizar los permisos de gestión de la tienda?
 Cada acción en VTEX, como acceder a una página en el Admin o hacer una llamada de API, implica un request a nuestra infraestructura. Para garantizar la seguridad de estas operaciones contamos con License Manager, el sistema encargado de comprobar si un usuario tiene los permisos adecuados para realizar una acción en la plataforma. Para facilitar la gestión de estos permisos, License Manager se basa en recursos y roles.
 
-Un recurso es una entidad asociada a una acción o información dentro de nuestra infraestructura. Por ejemplo, el recurso Product management permite a un usuario acceder y editar el formulario de registro de productos en el Catálogo. Para obtener más detalles sobre cada recurso disponible, consulta [Recursos del License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
+Un recurso es una entidad asociada a una acción o información dentro de nuestra infraestructura. Por ejemplo, el recurso Product management permite a un usuario acceder y editar el formulario de registro de productos en el Catálogo. Para obtener más detalles sobre cada recurso disponible, consulta [Recursos del License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
 
-Los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) determinan el conjunto de recursos a los que un grupo de usuarios puede acceder en VTEX. Cada usuario administrativo puede ser asociado a uno o varios roles. Al crear un nuevo rol, tienes la opción de utilizar uno de los [Roles de usuario predefinidos](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) que proporciona VTEX o crear [uno personalizado](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), seleccionando cada recurso necesario.
+Los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) determinan el conjunto de recursos a los que un grupo de usuarios puede acceder en VTEX. Cada usuario administrativo puede ser asociado a uno o varios roles. Al crear un nuevo rol, tienes la opción de utilizar uno de los [Roles de usuario predefinidos](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) que proporciona VTEX o crear [uno personalizado](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), seleccionando cada recurso necesario.
 
 ### Seguridad de la plataforma
 
 #### ¿La plataforma utiliza certificados SSL (Secure Sockets Layer)?
 SSL (Secure Sockets Layer) es un protocolo desarrollado para aumentar la seguridad de los datos transmitidos por internet. Las conexiones vía SSL son especialmente recomendables para enviar información como números de tarjetas de crédito, contraseñas y cualquier otra información confidencial a través de Internet.
 
-No es necesario solicitar la compra del certificado SSL, ya que VTEX genera uno para tu tienda y garantiza su renovación automática. El certificado se emite a través de Let's Encrypt y su creación es responsabilidad de VTEX en el momento del go live de la tienda. Aprende más en [Certificado de seguridad (SSL)](https://help.vtex.com/es/tutorial/certificado-de-seguridad-ssl--tutorials_1308).
+No es necesario solicitar la compra del certificado SSL, ya que VTEX genera uno para tu tienda y garantiza su renovación automática. El certificado se emite a través de Let's Encrypt y su creación es responsabilidad de VTEX en el momento del go live de la tienda. Aprende más en [Certificado de seguridad (SSL)](/es/tutorial/certificado-de-seguridad-ssl--tutorials_1308).
 
 #### ¿Cómo se gestionan los parches de seguridad?
 Nuestros clientes no son responsables de aplicar los parches, ya que VTEX realiza un proceso de gestión de parches que asegura que todos los inquilinos utilicen la misma versión de software.
@@ -270,13 +270,13 @@ VTEX gestiona los releases de software en actualizaciones principales, secundari
 La plataforma VTEX es una solución SaaS (Software as a Service) y se puede acceder a ella mediante cualquier navegador de internet. VTEX se encarga de proporcionar y actualizar periódicamente la solución con nuevas funcionalidades y de monitorear por completo su funcionamiento. Además, hay equipos especializados que garantizan la escalabilidad de la plataforma monitoreando constantemente el desempeño de cada tienda.
 
 #### ¿Restringe la plataforma el acceso a IP públicas en internet?
-Es posible bloquear el acceso al entorno administrativo de la tienda (VTEX Admin) para IP específicas. No obstante, el sitio web de la tienda permanece abierto al público en general. Para solicitar bloqueos específicos, ponte en contacto con nuestro [soporte](https://help.vtex.com/es/support).
+Es posible bloquear el acceso al entorno administrativo de la tienda (VTEX Admin) para IP específicas. No obstante, el sitio web de la tienda permanece abierto al público en general. Para solicitar bloqueos específicos, ponte en contacto con nuestro [soporte](/es/support).
 
 #### ¿Funciona la solución con un protocolo seguro (HTTPS)?
 La plataforma VTEX funciona con el protocolo seguro HTTPS. Este protocolo garantiza que la comunicación entre los componentes del sistema se mantenga protegida y los datos se transporten de modo seguro.
 
 #### ¿La solución utiliza WAF?
-Contamos con una solución de WAF como parte del producto add-on [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Consulta la documentación de [WAF](https://help.vtex.com/es/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) para más información.
+Contamos con una solución de WAF como parte del producto add-on [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Consulta la documentación de [WAF](/es/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) para más información.
 
 #### ¿Utiliza la plataforma VTEX el concepto API first?
 VTEX prioriza el desarrollo de API first, donde todos los datos que se manejan en la plataforma pueden ser manipulados a través de API. Aprende más sobre las [API de VTEX](https://developers.vtex.com/docs/api-reference).
@@ -288,7 +288,7 @@ La plataforma VTEX está constantemente monitoreada por un sistema de monitoreo 
 
 Algunas de estas alertas se reenvían a nuestros equipos internos, mientras que otras se envían directamente a los administradores de cada tienda. También hay alertas que solo se registran y no generan notificaciones. Por ejemplo, los intentos fallidos de inicio de sesión se limitan y registran, pero no generan alertas. Sin embargo, el propietario de la cuenta recibirá un email si un usuario intenta modificar las credenciales administrativas.
 
-El producto add-on [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) genera algunas alertas adicionales para reforzar aún más la seguridad y ofrece a los retailers más independencia para realizar su propio monitoreo.
+El producto add-on [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) genera algunas alertas adicionales para reforzar aún más la seguridad y ofrece a los retailers más independencia para realizar su propio monitoreo.
 
 #### ¿Cómo se monitorea la plataforma para evaluar su desempeño? ¿Cuáles son las variables que definen la escalabilidad de la solución?
 Nuestra plataforma está equipada con varios indicadores de rendimiento que nos alertan de posibles problemas. Los indicadores incluyen métricas de CPU y memoria de los servidores, tiempo de respuesta de cada request y volumen promedio de ventas. Mantenemos un monitoreo continuo de estos y otros indicadores, con el soporte de una inteligencia artificial (IA) basada en una heurística propia. Esta IA identifica y notifica a nuestro equipo cada vez que se produce una desviación del estándar previsto.
@@ -300,12 +300,12 @@ Para atender estas alertas, contamos con un equipo de ingenieros disponible las 
 #### ¿Cuál es el contenido mínimo de logs que registra la plataforma?
 Todas las operaciones sensibles que tienen lugar en la plataforma se registran automáticamente en logs y esta funcionalidad no puede ser desactivada. VTEX almacena todos los logs de errores de la plataforma VTEX en un software SIEM (Security Information and Event Management), cuyos datos están disponibles para el equipo de VTEX con el fin de analizar y mejorar el producto. Además, VTEX monitorea determinados patrones en los logs de la aplicación y la infraestructura que sugieren riesgos potenciales para la seguridad del sistema. En caso de identificarlos, se emiten alertas o incluso se aplican contramedidas automáticas.
 
-Asimismo, VTEX también registra diversas operaciones, incluyendo autores y marcas de tiempo en [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), un módulo disponible en el Admin VTEX que permite buscar e investigar el historial de logs mediante el uso de filtros. Cada módulo de la plataforma cuenta con un equipo de desarrollo específico que analiza y decide la información que se registra en ese módulo. Consulta la lista de[ Eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+Asimismo, VTEX también registra diversas operaciones, incluyendo autores y marcas de tiempo en [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), un módulo disponible en el Admin VTEX que permite buscar e investigar el historial de logs mediante el uso de filtros. Cada módulo de la plataforma cuenta con un equipo de desarrollo específico que analiza y decide la información que se registra en ese módulo. Consulta la lista de[ Eventos disponibles en Audit](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 #### ¿Cómo pueden los clientes de VTEX acceder en tiempo real a todos los logs de la plataforma?
 VTEX no permite el acceso a sus sistemas internos, con el fin de preservar la privacidad y seguridad de nuestros clientes, así como para garantizar el cumplimiento de la normativa y legislación vigente.
 
-Sin embargo, disponibilizamos logs de diversos [eventos](https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ) en [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) y permitimos que nuestros clientes soliciten logs de eventos específicos abriendo un ticket vía [soporte](https://help.vtex.com/es/support). Además, pueden implementar una capa de proxy inverso antes de VTEX, lo que proporciona una mayor visibilidad de los requests que llegan a su entorno. Este enfoque permite a los clientes tener un control más detallado y personalizado del flujo de datos en su infraestructura, manteniendo al mismo tiempo la seguridad y privacidad necesarias.
+Sin embargo, disponibilizamos logs de diversos [eventos](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ) en [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) y permitimos que nuestros clientes soliciten logs de eventos específicos abriendo un ticket vía [soporte](/es/support). Además, pueden implementar una capa de proxy inverso antes de VTEX, lo que proporciona una mayor visibilidad de los requests que llegan a su entorno. Este enfoque permite a los clientes tener un control más detallado y personalizado del flujo de datos en su infraestructura, manteniendo al mismo tiempo la seguridad y privacidad necesarias.
 
 ### Desarrollo seguro
 
@@ -352,7 +352,7 @@ Principalmente, VTEX utiliza las siguientes regiones de datos de AWS para los pr
 Las evaluaciones de vulnerabilidad se realizan de forma continua. Cada verificación debe ser realizada nuevamente hasta que sea aprobada sin encontrar problemas. Un auditor las aceptará durante los periodos de recertificación.
 
 #### ¿Las personalizaciones o configuraciones del producto realizadas por los clientes podrían introducir vulnerabilidades de seguridad en la plataforma? En caso afirmativo, ¿cómo se gestionan estas eventualidades?
-Los retailers y cualquier agencia implementadora que estos contraten tienen la libertad de realizar personalizaciones y ajustes en la plataforma dentro de sus propios entornos. En caso de que se detecten vulnerabilidades en los sistemas de VTEX, nuestro equipo de seguridad y desarrollo actúa con rapidez para solucionar estos problemas. Debido a la naturaleza personalizable de la plataforma, es responsabilidad del retailer y de la agencia implementadora hacer frente a las vulnerabilidades que puedan surgir como resultado de las personalizaciones realizadas durante el desarrollo. Para más información, consulta[ Responsabilidades en el ecosistema VTEX](https://help.vtex.com/es/tutorial/responsabilidades-en-el-ecosistema-vtex--3vL9aWICDr3WR64DYi1fJ3#agencias-implementadoras).
+Los retailers y cualquier agencia implementadora que estos contraten tienen la libertad de realizar personalizaciones y ajustes en la plataforma dentro de sus propios entornos. En caso de que se detecten vulnerabilidades en los sistemas de VTEX, nuestro equipo de seguridad y desarrollo actúa con rapidez para solucionar estos problemas. Debido a la naturaleza personalizable de la plataforma, es responsabilidad del retailer y de la agencia implementadora hacer frente a las vulnerabilidades que puedan surgir como resultado de las personalizaciones realizadas durante el desarrollo. Para más información, consulta[ Responsabilidades en el ecosistema VTEX](/es/tutorial/responsabilidades-en-el-ecosistema-vtex--3vL9aWICDr3WR64DYi1fJ3#agencias-implementadoras).
 
 ### Respuesta y mitigación de incidentes
 
@@ -360,7 +360,10 @@ Los retailers y cualquier agencia implementadora que estos contraten tienen la l
 Sí, VTEX cuenta con un protocolo formal de respuesta a incidentes de seguridad que abarca las fases clave del proceso: preparación, identificación de amenazas, contención, eliminación, recuperación y restauración. Este procedimiento también incluye un plan de comunicación integrado que se aplica en todas las fases de la respuesta. Además, contamos con manuales detallados para orientar al equipo de servicio. También realizamos pruebas de penetración de caja gris (gray box) anualmente para evaluar y aumentar continuamente nuestras medidas de seguridad.
 
 #### ¿Dispone VTEX de un calendario de pruebas de penetración? ¿Con qué frecuencia se realizan las pruebas?
-Las pruebas de penetración (pentest) se realizan cada seis meses en VTEX. Los retailers que deseen realizar pruebas de penetración y análisis de vulnerabilidades en sus entornos necesitan contratar el producto add-on [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) y se les alienta a compartir los resultados con VTEX, posibilitando que nuestro equipo de seguridad aborde cualquier posible problema identificado.
+
+Las pruebas de penetración (pentest) se realizan cada seis meses en VTEX. Compartimos el **Certificado de prueba de penetración** de las pruebas más recientes realizadas en nuestra plataforma por una consultoría de seguridad externa independiente, respetable y técnicamente competente.
+
+Para obtener el documento, sin costo, [abre un ticket con Soporte VTEX](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 #### ¿Cuenta VTEX con un procedimiento de respuesta a incidentes para fuga de datos que cumpla con las leyes de protección de datos personales?
 Sí, el plan de respuesta a incidentes de seguridad de VTEX prevé incidentes relacionados con fugas de datos y cumple con las leyes de protección de datos personales. Abarca las etapas esenciales del proceso: preparación, identificación de amenazas, contención, eliminación, recuperación y restauración. Este procedimiento también incluye un plan de comunicación integrado que se aplica en todas las fases de la respuesta.

@@ -15,10 +15,10 @@ legacySlug: como-solicitar-una-copia-de-mi-boleto
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->ℹ️ **ATENCIÓN: Este procedimiento es apenas para clientes facturados en Brasil.**
+<div class="alert alert-info" role="alert"><strong>ATENCIÓN: Este procedimiento es apenas para clientes facturados en Brasil.</strong></div>
 
-En el módulo de Facturas, se puede consultar todas las facturas emitidas por VTEX y actualizar su boleto para pagar después de la fecha de vencimiento. Si no puede acceder a esta área, asegúrese de que tiene el [perfil de acceso financiero](https://help.vtex.com/es/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
+En el módulo de Facturas, se puede consultar todas las facturas emitidas por VTEX y actualizar su boleto para pagar después de la fecha de vencimiento. Si no puede acceder a esta área, asegúrese de que tiene el [perfil de acceso financiero](/es/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
 
-Para obtener una copia de su boleto, acceda al enlace disponible en su [Panel Financiero](https://help.vtex.com/es/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653).
+Para obtener una copia de su boleto, acceda al enlace disponible en su [Panel Financiero](/es/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653).
 
 

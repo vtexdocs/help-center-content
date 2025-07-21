@@ -1,5 +1,5 @@
 ---
-title: 'La selección de sellers disponible en la política comercial no funciona correctamente'
+title: "La selección de sellers disponible en la política comercial no funciona correctamente"
 id: 1w656dzgvHG8yIvPfFdGBX
 status: PUBLISHED
 createdAt: 2022-02-01T20:55:24.960Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: selection-of-sellers-available-in-the-commercial-policy-is-not-working-properly
+slugEN: la-seleccion-de-sellers-disponible-en-la-politica-comercial-no-funciona-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 515480
@@ -18,7 +18,9 @@ internalReference: 515480
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El cambio de disponibilidad de un vendedor en una póliza comercial no está siendo reconocido correctamente en el catálogo. Esto puede causar dos escenarios: un producto de un vendedor no seleccionado pasa a estar disponible o un producto de un vendedor seleccionado pasa a no estar disponible

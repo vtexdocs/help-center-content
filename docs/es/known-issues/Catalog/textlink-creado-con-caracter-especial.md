@@ -1,5 +1,5 @@
 ---
-title: 'textlink creado con carácter especial'
+title: "textlink creado con carácter especial"
 id: 3peJGluNHYX8NV8xI3qBCJ
 status: PUBLISHED
 createdAt: 2022-03-07T17:03:09.777Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: textlink-created-with-special-character
+slugEN: textlink-creado-con-caracter-especial
 locale: es
 kiStatus: Backlog
 internalReference: 537159
@@ -18,7 +18,9 @@ internalReference: 537159
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando un producto tiene caracteres especiales específicos en el nombre, como por ejemplo ®, el `textlink` se crea con ese carácter en la URL.

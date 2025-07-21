@@ -1,5 +1,5 @@
 ---
-title: "El filtro 'productClusterIds' es sobrescrito por 'productClusterNames' al aplicar filtros adicionales"
+title: 'El filtro "productClusterIds" es sobrescrito por "productClusterNames" al aplicar filtros adicionales'
 id: 3d4BIZQBZgeK3eKwT8B1PZ
 status: PUBLISHED
 createdAt: 2023-09-13T22:42:57.138Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: filter-productclusterids-is-overwritten-by-productclusternames-while-applying-additional-filters
+slugEN: el-filtro-productclusterids-es-sobrescrito-por-productclusternames-al-aplicar-filtros-adicionales
 locale: es
 kiStatus: Backlog
 internalReference: 899508
@@ -18,7 +18,9 @@ internalReference: 899508
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se inicia una búsqueda desde el filtro "productClusterIds", al aplicar cualquier filtro adicional se convertirá en "productClusterNames", perdiendo la característica de presentar los ítems con la ordenación definida manualmente en la colección de productos.

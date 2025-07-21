@@ -1,5 +1,5 @@
 ---
-title: 'UI shows an error when exporting catalog files if the email template sender has its own SMTP'
+title: "UI shows an error when exporting catalog files if the email template sender has its own SMTP"
 id: 6MCsAvrOHbLTYjuxRHDsuU
 status: PUBLISHED
 createdAt: 2023-03-15T19:04:48.152Z

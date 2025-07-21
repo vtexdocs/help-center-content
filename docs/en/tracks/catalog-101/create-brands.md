@@ -29,8 +29,8 @@ Follow the instructions below to create and update brands for products available
   - __Brand Description (Meta Tag Description)__: A brief description of the brand, displayed by search engines. Since search engines can only display less than 150 characters, we recommend not exceeding this character limit when creating the description.
   - __Brand Page Title (Tag Title)__: Title shown in the browser bar, which corresponds to the title of your page. Search engines consider it one of the most important result optimization elements.
   - __Adwords Remarketing Code__: Also known as Google Remarketing Tag, it's the code used in Google Adwords campaigns. Filling out this field with the code will allow you to follow the remarketing metrics linked to that brand.
-  - __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
-  - __Display in Home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](https://help.vtex.com/en/tutorial/list-of-controls-for-templates--tutorials_563).
+  - __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
+  - __Display in Home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](/en/tutorial/list-of-controls-for-templates--tutorials_563).
   - __Activate Brand__: When selecting this box, the brand is visible and ready for use with the created products.
 5. Click on `Save`.
 

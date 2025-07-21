@@ -22,7 +22,7 @@ Desenvolvemos melhorias para o módulo de **Pagamentos** para aprimorar sua expe
 Com o objetivo de aprimorar a experiência de compra dos clientes, apresentamos novas funcionalidades para o módulo de **Pagamentos**. Confira as principais melhorias:
 
 * **Gateway está preparado para permitir a troca de email do comprador:** junto com outros módulos da VTEX, o Gateway está agora adaptado para que o comprador possa alterar o email salvo em sua conta na loja. 
-* **Implementação de capturas  parciais:** disponível para que as lojas usem a captura  parcial. Todas as transações com divisão "aguardarão" a transação completa para tomar medidas de captura, o que significa redução de custos para o comerciante. Saiba mais no artigo [Faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+* **Implementação de capturas  parciais:** disponível para que as lojas usem a captura  parcial. Todas as transações com divisão "aguardarão" a transação completa para tomar medidas de captura, o que significa redução de custos para o comerciante. Saiba mais no artigo [Faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
 
 ## O que precisa ser feito?
 

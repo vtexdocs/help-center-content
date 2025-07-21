@@ -16,7 +16,9 @@ trackSlugPT: catalogo-101
 
 Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Na VTEX, essas especificações são cadastradas na seção **Categorias** e são chamadas de **Campo**.
 
->⚠️ Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.
+<div class="alert alert-warning">
+<p>Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.</p>
+</div>
 
 ## Especificação de Produto
 
@@ -28,7 +30,7 @@ Essa informação poderia ser exibida como filtro numa barra lateral ou como um 
 
 As especificações de produto podem receber dados como strings e números, podendo ser consumidas pelas APIs da VTEX para serem utilizadas na customização de front-end ou no envio de informações para integrações externas.
 
-Para entender o passo a passo completo para criar especificações de produto, confira o artigo [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106).
+Para entender o passo a passo completo para criar especificações de produto, confira o artigo [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106).
 
 ## Especificação de SKU
 
@@ -38,7 +40,9 @@ Numa loja de camisas, você poderia criar uma especificação de SKU para difere
 
 As especificações de SKU teriam os valores de **PP, P, M, G e GG**. Elas poderiam ser utilizadas como filtro de navegação do site. Além disso, as especificações funcionariam como seletores de SKU na página do produto.
 
-Para entender o passo a passo completo para criar especificações de SKU, confira o artigo [Cadastrar especificações ou campos de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
+Para entender o passo a passo completo para criar especificações de SKU, confira o artigo [Cadastrar especificações ou campos de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
 
->⚠️ Na VTEX, as especificações de SKU são campos obrigatórios para concluir o cadastro de um SKU. Isso significa que, se uma nova especificação for criada dentro de uma categoria, todos os SKUs dentro desta categoria precisam ter esta nova especificação cadastrada. Assim, todos esses SKUs ficarão inativos até que o cadastro desta nova especificação seja realizado nos SKUs da categoria em questão.
+<div class="alert alert-warning">
+Na VTEX, as especificações de SKU são campos obrigatórios para concluir o cadastro de um SKU. Isso significa que, se uma nova especificação for criada dentro de uma categoria, todos os SKUs dentro desta categoria precisam ter esta nova especificação cadastrada. Assim, todos esses SKUs ficarão inativos até que o cadastro desta nova especificação seja realizado nos SKUs da categoria em questão.
+</div>
 

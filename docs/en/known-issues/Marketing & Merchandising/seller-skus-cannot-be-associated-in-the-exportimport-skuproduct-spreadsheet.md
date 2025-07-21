@@ -1,5 +1,5 @@
 ---
-title: 'Seller SKUs cannot be associated in the Export/Import SKU/Product spreadsheet'
+title: "Seller SKUs cannot be associated in the Export/Import SKU/Product spreadsheet"
 id: 1Y2qEpfCDOAQOgm0oeCCgW
 status: PUBLISHED
 createdAt: 2017-12-28T21:12:56.067Z

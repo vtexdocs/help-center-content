@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao buscar textos - Módulo CMS'
+title: "Erro ao buscar textos - Módulo CMS"
 id: 7g9e4G7i12CSs4OK0YgCi4
 status: PUBLISHED
 createdAt: 2017-08-17T20:44:25.357Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Portal (CMS)
-slugEN: error-fetching-texts-cms-module
+slugEN: erro-ao-buscar-textos-modulo-cms
 locale: pt
 kiStatus: Backlog
 internalReference: 

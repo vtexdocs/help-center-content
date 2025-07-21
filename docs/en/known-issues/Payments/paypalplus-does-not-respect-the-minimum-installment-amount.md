@@ -1,5 +1,5 @@
 ---
-title: 'PayPalPlus does not respect the minimum installment amount'
+title: "PayPalPlus does not respect the minimum installment amount"
 id: 1IGzNPtXaaUsPkaq0qRgfK
 status: PUBLISHED
 createdAt: 2022-03-26T23:00:59.044Z

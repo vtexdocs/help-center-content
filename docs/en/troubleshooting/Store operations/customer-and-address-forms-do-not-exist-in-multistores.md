@@ -16,18 +16,23 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Master Data v1, Customer, Address, Multistore
 ---
 
-In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](https://help.vtex.com/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), the forms are not created automatically.
+In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), the forms are not created automatically.
 
->⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
->
-> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-> Master Data version characteristics
->  </a>
->
-> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-> Master Data v2
-> </a>
-> 
+<div class="alert alert-warning">
+This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
+ <ul>
+<li>
+<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+Master Data version characteristics
+ </a>
+</li>
+<li>
+<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+Master Data v2
+</a>
+</li>
+</ul>
+</div>
 
 ## Solution
 

@@ -3,8 +3,8 @@ title: 'Configurar pago con PayPalV2'
 id: 2nGiQVk3YKvOAu8Zg4RKFr
 status: PUBLISHED
 createdAt: 2024-03-14T18:53:09.449Z
-updatedAt: 2024-07-24T19:40:23.978Z
-publishedAt: 2024-07-24T19:40:23.978Z
+updatedAt: 2025-07-16T22:42:18.769Z
+publishedAt: 2025-07-16T22:42:18.769Z
 firstPublishedAt: 2024-03-14T19:02:53.958Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: configurar-pago-con-paypalv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos PayPalV2. A través de este proveedor, su tienda puede realizar ventas mediante PayPalCP y PayPal.
+En VTEX es posible la integración con el proveedor de pagos PayPalV2. A través de este proveedor, su tienda puede realizar ventas mediante PayPalCP ,PayPal, PayPalBCDC y PIX.
 
 Para configurar PayPalV2, siga los pasos a continuación:
 
@@ -36,8 +36,8 @@ Para configurar PayPalV2, siga los pasos a continuación:
 </ul>
 8. Haga clic en __Guardar__.
 
-Para configurar los métodos de pago a procesar por PayPalV2, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por PayPalV2, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, PayPalV2 puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

@@ -47,7 +47,9 @@ To do this dynamically, I can change the text of the `topbarSaudacao` key to the
 
 That is, I'm using the variables `preposicaonomeloja2` and `nomeloja`.
 
->⚠️ When using variables to compose a text, replace the `#` symbol with `@`. That is, **#variable#** becomes **@variable@**.
+<div class="alert alert-warning">
+When using variables to compose a text, replace the <code>#</code> symbol with <code>@</code>. That is, <b>#variable#</b> becomes <b>@variable@</b>.
+</div>
 
 ![textos-importantes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/changing-default-system-texts-displayed-in-the-store_1.png)
 ![exemplos-textos-importantes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Store%20Settings%20-%20Storefront/changing-default-system-texts-displayed-in-the-store_2.png)

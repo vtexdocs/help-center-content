@@ -3,7 +3,7 @@ title: 'Apps'
 id: category-apps
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Others
 slugEN: category-apps
@@ -36,4 +36,8 @@ locale: en
 - [Live Shopping](https://help.vtex.com/en/docs/tutorials/live-shopping)
 - [Live Shopping: Events](https://help.vtex.com/en/docs/tutorials/live-shopping-events)
 - [Live Shopping: Configuring a landing page for live shopping events](https://help.vtex.com/en/docs/tutorials/live-shopping-configuring-a-landing-page-for-live-shopping-events)
+
+## Personal Shopper
+
+- [Personal Shopper Overview](https://help.vtex.com/en/docs/tutorials/personal-shopper-overview)
 

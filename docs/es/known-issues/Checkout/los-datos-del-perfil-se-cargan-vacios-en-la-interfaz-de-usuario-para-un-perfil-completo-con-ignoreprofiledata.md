@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: profile-data-loaded-empty-in-the-ui-for-complete-profile-with-ignoreprofiledata
+slugEN: los-datos-del-perfil-se-cargan-vacios-en-la-interfaz-de-usuario-para-un-perfil-completo-con-ignoreprofiledata
 locale: es
 kiStatus: Backlog
 internalReference: 1016582
@@ -18,7 +18,9 @@ internalReference: 1016582
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al configurar 'ignoreProfileData' a través de la API Ignorar datos de perfil en el pago, si el comprador tiene un perfil completo pero no ha iniciado sesión, los datos se cargarán vacíos en la interfaz de usuario.

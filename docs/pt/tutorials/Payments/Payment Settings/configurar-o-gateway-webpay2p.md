@@ -15,5 +15,5 @@ legacySlug: configurar-o-gateway-webpay2p
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
->⚠️ Este conteúdo é exclusivamente regional e portanto, 
-> não aplicável a países de língua portuguesa.
+<div class="alert alert-warning" role="alert">Este conteúdo é exclusivamente regional e portanto, 
+não aplicável a países de língua portuguesa.</div>

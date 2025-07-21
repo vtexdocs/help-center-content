@@ -1,5 +1,5 @@
 ---
-title: '<vtex.cmc ProductGifts/> não funciona antes de acessar o checkout'
+title: "<vtex.cmc ProductGifts/> não funciona antes de acessar o checkout"
 id: 3blfXfhPvY2cNEzBYGEmAo
 status: PUBLISHED
 createdAt: 2024-05-08T17:11:51.770Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: vtexcmc-productgifts-does-not-work-before-acessing-checkout
+slugEN: vtexcmc-productgifts-nao-funciona-antes-de-acessar-o-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 1029719
@@ -18,7 +18,9 @@ internalReference: 1029719
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

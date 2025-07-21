@@ -1,5 +1,5 @@
 ---
-title: 'Ajuste a consulta de envio quando o pedido tem mais de um produto - Centauro'
+title: "Ajuste a consulta de envio quando o pedido tem mais de um produto - Centauro"
 id: 5VsGJar6FBHbGi4OZpxvbk
 status: PUBLISHED
 createdAt: 2022-06-15T19:08:37.828Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: adjust-shipping-query-when-the-order-has-more-than-one-product-centauro
+slugEN: ajuste-a-consulta-de-envio-quando-o-pedido-tem-mais-de-um-produto-centauro
 locale: pt
 kiStatus: No Fix
 internalReference: 599380
@@ -18,7 +18,9 @@ internalReference: 599380
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ajuste a consulta de envio quando o pedido tem mais de um produto

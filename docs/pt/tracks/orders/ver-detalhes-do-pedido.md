@@ -18,9 +18,9 @@ No menu lateral do Admin da VTEX, dentro da área de Pedidos, fica a seção __T
 
 Na visualização padrão dessa tela são listados todos os pedidos da loja a partir do mais recente. É possível alterar a ordenação clicando no nome das colunas, assim como buscar os pedidos por meio de dados específicos, e também exportar esses dados.
 
-Além disso, a busca oferece um filtro bastante flexível, que explicaremos em detalhes no [próximo artigo](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+Além disso, a busca oferece um filtro bastante flexível, que explicaremos em detalhes no [próximo artigo](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
 
-Para entender a lista de pedidos em detalhes, consulte o artigo [Visão geral da lista de pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos--tutorials_200)
+Para entender a lista de pedidos em detalhes, consulte o artigo [Visão geral da lista de pedidos](/pt/tutorial/lista-de-pedidos--tutorials_200)
 
 Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -31,7 +31,7 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 
 ## Vendo os detalhes de um pedido
 
-Ao clicar em um pedido, você é direcionado para a tela de [detalhes do pedido](https://help.vtex.com/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
+Ao clicar em um pedido, você é direcionado para a tela de [detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
 - Reenviar o último e-mail para o cliente.
 - Cancelar manualmente o pedido.
 - Faturar os itens do pedido.
@@ -63,7 +63,7 @@ Nesse card são exibidas as promoções que foram aplicadas em cima do valor do 
 
 ### Status do pedido
 
-É o status atual do pedido, de acordo com o momento em que o pedido se encontra dentro do [fluxo do pedido](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+É o status atual do pedido, de acordo com o momento em que o pedido se encontra dentro do [fluxo do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
 
 ### Fluxo
 

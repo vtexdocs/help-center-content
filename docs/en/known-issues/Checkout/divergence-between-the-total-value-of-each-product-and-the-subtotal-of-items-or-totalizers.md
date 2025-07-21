@@ -1,5 +1,5 @@
 ---
-title: 'Divergence between the total value of each product and the subtotal of items or totalizers'
+title: "Divergence between the total value of each product and the subtotal of items or totalizers"
 id: 2Z8vR0cKkaSYQqF9MUX8PX
 status: PUBLISHED
 createdAt: 2022-01-24T20:46:09.666Z

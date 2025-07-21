@@ -1,5 +1,5 @@
 ---
-title: 'ProdutoClique o evento que não aciona na barra de busca'
+title: "ProdutoClique o evento que não aciona na barra de busca"
 id: Nk7Dkd4YoY5LXbxpWJIKz
 status: PUBLISHED
 createdAt: 2023-01-30T17:43:44.441Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: productclick-event-not-triggering-in-searchbar
+slugEN: produtoclique-o-evento-que-nao-aciona-na-barra-de-busca
 locale: pt
 kiStatus: Backlog
 internalReference: 742754
@@ -18,7 +18,9 @@ internalReference: 742754
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Diferencias entre el valor de especificación en las API y el portal'
+title: "Diferencias entre el valor de especificación en las API y el portal"
 id: 29Utcf4B7PBZitEHxrZwbE
 status: PUBLISHED
 createdAt: 2023-06-29T20:11:49.484Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: differences-between-specification-value-on-apis-and-portal
+slugEN: diferencias-entre-el-valor-de-especificacion-en-las-api-y-el-portal
 locale: es
 kiStatus: Backlog
 internalReference: 853184
@@ -18,7 +18,9 @@ internalReference: 853184
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

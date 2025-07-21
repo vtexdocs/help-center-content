@@ -25,7 +25,9 @@ Para configurar um banner, siga os seguintes passos:
 
 Depois de realizar as configurações do banner, você deve adicioná-lo a uma página da sua loja. Para isso, siga os passos do guia [Banner](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-banner).
 
->ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners) para saber mais.
+<div class = "alert alert-info">
+  <p>Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo <a href="https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners">VTEX Intelligent Search: configurações Multi-idioma (Beta)</a> para saber mais.</p>
+</div>
 
 ![banner-form-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent%20Search/Banners/configurar-banners_1.png)
 
@@ -50,7 +52,7 @@ Para cadastrar o banner, é necessário preencher os seguintes campos:
 * **Horário de início**: horário que define o início da disponibilidade do banner.
 * **Data de término**: data que define o término da disponibilidade do banner - o que permite o gestor agendar campanhas futuras, facilitando o seu controle.
 * **Horário de término**: horário que define o término da disponibilidade do banner.
-* **Idiomas:** idiomas aos quais o banner será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Idiomas:** idiomas aos quais o banner será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Regras de ativação 
 

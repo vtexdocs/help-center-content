@@ -1,5 +1,5 @@
 ---
-title: 'Un conflicto de Regex hace que identifiquemos erróneamente Mastercard como Visa'
+title: "Un conflicto de Regex hace que identifiquemos erróneamente Mastercard como Visa"
 id: MzUm8xH6vDeGxWcj6GCbZ
 status: PUBLISHED
 createdAt: 2023-09-04T17:51:08.019Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: regex-conflict-causes-us-to-misidentify-mastercard-as-visa
+slugEN: un-conflicto-de-regex-hace-que-identifiquemos-erroneamente-mastercard-como-visa
 locale: es
 kiStatus: Backlog
 internalReference: 893588
@@ -18,7 +18,9 @@ internalReference: 893588
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Un conflicto de Regex hace que identifiquemos erróneamente la marca de las tarjetas en la caja.

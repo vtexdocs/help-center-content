@@ -1,5 +1,5 @@
 ---
-title: 'Los diacríticos se eliminan en CatalogAPI'
+title: "Los diacríticos se eliminan en CatalogAPI"
 id: 2iVyAQ8TSaT3jFYzcQGjSs
 status: PUBLISHED
 createdAt: 2022-07-22T18:18:04.236Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: diacritics-are-removed-on-catalogapi
+slugEN: los-diacriticos-se-eliminan-en-catalogapi
 locale: es
 kiStatus: No Fix
 internalReference: 623345
@@ -18,7 +18,9 @@ internalReference: 623345
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

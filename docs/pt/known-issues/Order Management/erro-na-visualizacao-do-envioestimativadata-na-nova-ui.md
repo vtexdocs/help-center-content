@@ -1,5 +1,5 @@
 ---
-title: 'Erro na visualização do envioEstimativaData na Nova UI'
+title: "Erro na visualização do envioEstimativaData na Nova UI"
 id: 7K9hFPStESW2urw4yzkY6t
 status: PUBLISHED
 createdAt: 2022-09-21T12:37:43.379Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: error-viewing-shippingestimatedate-in-new-ui
+slugEN: erro-na-visualizacao-do-envioestimativadata-na-nova-ui
 locale: pt
 kiStatus: Backlog
 internalReference: 661040
@@ -18,7 +18,9 @@ internalReference: 661040
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

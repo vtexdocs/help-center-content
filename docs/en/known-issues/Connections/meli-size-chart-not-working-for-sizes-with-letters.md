@@ -1,5 +1,5 @@
 ---
-title: 'MELI Size Chart not working for sizes with Letters'
+title: "MELI Size Chart not working for sizes with Letters"
 id: 7vAViV3MmC7zOSTF0cFTYy
 status: PUBLISHED
 createdAt: 2023-07-24T12:04:19.589Z

@@ -3,8 +3,8 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-10-31T20:45:04.174Z
-publishedAt: 2024-10-31T20:45:04.174Z
+updatedAt: 2025-06-12T15:42:48.235Z
+publishedAt: 2025-06-12T15:42:48.235Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: eventos-disponiveis-no-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://help.vtex.com/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) por aplicação.
+Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) por aplicação.
 
 * [OMS](#oms)
 * [Pedidos](#pedidos)
@@ -30,6 +30,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [Vale-presente](#vale-presente)
 * [Checkout](#checkout)
 * [Portal CMS](#portal-cms)
+* [Profile System](#profile-system)
 * [License Manager](#license-manager)
 * [VTEX ID](#vtex-id)
 * [Master Data](#master-data)
@@ -37,10 +38,15 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
+* [Tokens de cartão](#tokens-de-cartao)
 
->ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
+<div class = "alert alert-info">
+  <p>Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback de documentação</a>.</p>
+  </div>
 
->⚠️ Nas opções de filtros do Audit, você pode encontrar **Opções de envio**, **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
+<div class="alert alert-warning">
+  <p>Nas opções de filtros do Audit, você pode encontrar <strong>Opções de envio</strong>, <strong>Profile System</strong> e <strong>Billing</strong> além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.</p>
+</div>
 
 ## OMS
 
@@ -191,6 +197,12 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 | File Upload | Upload de arquivo do portal. | Nome do arquivo alterado. |
 | File Deleted | Exclusão de arquivo. | Nome e ID do arquivo alterado. |
 
+## Profile System
+
+| Ação | Descrição do evento | Detalhes do evento |
+| ---- | ---- | ---- |
+| EmailRectification | Alteração de email existente. | ID do usuário cujo email foi alterado. |
+
 ## License Manager
 
 | Ação | Descrição do evento | Detalhes do evento |
@@ -279,3 +291,11 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 | Update ads | Atualização de um anúncio. | ID do anúncio. |
 | Update campaign | Atualização de uma campanha. | ID da campanha. |
 
+## Tokens de cartão
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| CreateToken | Criação de um novo token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
+| GetToken | Leitura de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
+| UpdateToken | Atualização de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
+| DeleteToken | Exclusão de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |

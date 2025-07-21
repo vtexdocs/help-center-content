@@ -1,5 +1,5 @@
 ---
-title: 'Substituição de pedidos por outro canal de vendas'
+title: "Substituição de pedidos por outro canal de vendas"
 id: 2gShXcwLLHu7R8JyPjP0W6
 status: PUBLISHED
 createdAt: 2024-02-16T13:02:17.686Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: replacing-orders-with-different-sales-channel
+slugEN: substituicao-de-pedidos-por-outro-canal-de-vendas
 locale: pt
 kiStatus: Backlog
 internalReference: 982965
@@ -18,7 +18,9 @@ internalReference: 982965
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Identificamos que não é possível substituir uma SKU no pedido se o canal de vendas (SC), igual a 1, não estiver disponível para a conta.

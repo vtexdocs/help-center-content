@@ -1,5 +1,5 @@
 ---
-title: 'Checkout forcing the shipping step in delivery mode while the address and pickup point option was defined via API'
+title: "Checkout forcing the shipping step in delivery mode while the address and pickup point option was defined via API"
 id: 7nBzQb8KZ3hXy2VfvWh7he
 status: PUBLISHED
 createdAt: 2022-04-11T17:35:29.050Z

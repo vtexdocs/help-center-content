@@ -15,20 +15,22 @@ legacySlug: importacao-de-pedidos-amazon-dba
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->ℹ️ A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
+<div class = "alert alert-info">
+A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
+</div>  
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
   - [Selfship](#Selfship)
-  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO).
-  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n)
+  - [FBA Classic, para conhecer sobre o programa e a integração com a VTEX, confira a documentação Importação de Pedidos Amazon FBA Classic](/pt/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO).
+  - FBA Onsite, para conhecer sobre o programa e a integração com a VTEX, confira a documentação sobre [Importação de pedidos FBA Onsite](/pt/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n)
   - [DBA](#DBA-Delivery-by-Amazon)
 
 O Seller pode utilizar o Selfship, FBA e DBA de forma simultânea ou apenas uma das opções logísticas, considerando a elegibilidade dos produtos para os respectivos programas. Independente de optar por utilizar somente uma das opções logísticas ou utilizar dois, ou mais programas, é possível acompanhar e gerenciar todos os pedidos realizados através do Admin VTEX.
 
 ## Selfship
 
-_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e [Definir Estratégia de Envio na Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio). 
+_Selfship_ é a estratégia logística onde o seller é responsável por todo o processo de Fulfillment, desde separar o produto até a entrega final do mesmo. Para configurar essa opção, você deve seguir os passos descritos nas etapas [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e [Definir Estratégia de Envio na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio). 
 
 ## DBA (Delivery by Amazon)  
 
@@ -58,7 +60,7 @@ Após salvar as configurações, o DBA estará ativo na integração com a Amazo
 
 ### 2. Enviar XML NFs    
 
-A cada compra finalizada, os pedidos correspondentes ao DBA aparecerão na aba __Pedidos > Todos pedidos__ do Admin VTEX. O sufixo **`_DBA`** aparecerá no ID de cada pedido do programa. Para prosseguir com a entrega, o pedido precisa ser faturado, conforme os passos descritos em [Faturar um pedido > Nota Fiscal](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT#nota-fiscal).  
+A cada compra finalizada, os pedidos correspondentes ao DBA aparecerão na aba __Pedidos > Todos pedidos__ do Admin VTEX. O sufixo **`_DBA`** aparecerá no ID de cada pedido do programa. Para prosseguir com a entrega, o pedido precisa ser faturado, conforme os passos descritos em [Faturar um pedido > Nota Fiscal](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT#nota-fiscal).  
 
 ![pedido DBA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/importacao-de-pedidos-amazon-dba_1.gif)
 

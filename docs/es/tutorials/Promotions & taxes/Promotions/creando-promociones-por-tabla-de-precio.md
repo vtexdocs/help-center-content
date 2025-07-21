@@ -3,8 +3,8 @@ title: 'Creando Promociones por Tabla de Precio'
 id: pIwaCYDwWqpbao6GahcjT
 status: PUBLISHED
 createdAt: 2019-06-17T20:59:23.665Z
-updatedAt: 2023-03-31T20:53:38.138Z
-publishedAt: 2023-03-31T20:53:38.138Z
+updatedAt: 2025-02-20T12:56:10.833Z
+publishedAt: 2025-02-20T12:56:10.833Z
 firstPublishedAt: 2019-06-18T15:44:00.577Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,9 +16,9 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 Crear promoción por tabla de precio
-Antes de activar su tabla de precio promocional es importante tener una tabla de precio creada. Vea cómo hacerlo en el tutorial **[Crear tablas de precios](https://help.vtex.com/es/tutorial/crear-tablas-de-precios?locale=pt).** Complete esta etapa y siga los siguientes pasos.
+Antes de activar su tabla de precio promocional es importante tener una tabla de precio creada. Vea cómo hacerlo en el tutorial **[Crear tablas de precios](/es/tutorial/criar-tabelas-de-precos?locale=pt).** Complete esta etapa y siga los siguientes pasos.
 Después de definida la tabla de precios que desea usar, puede crear una tabla de precios promocionales, utilizando estos dos tipos de descuento. Haga clic y verifique los campos que deben rellenarse:
-*[promociones regulares](https://help.vtex.com/es/tutorial/promocao-regular?locale=pt) o [promociones de audiencia de campaña](https://help.vtex.com/es/tutorial/promocao-de-campanha?locale=pt)***
+*[promociones regulares](/es/tutorial/promocao-regular?locale=pt) o [promociones de audiencia de campaña](/es/tutorial/promocao-de-campanha?locale=pt)***
 
 Para crear una tabla de precios promocionales es necesario cumplir las etapas anteriores y después seguir los siguientes pasos.
 

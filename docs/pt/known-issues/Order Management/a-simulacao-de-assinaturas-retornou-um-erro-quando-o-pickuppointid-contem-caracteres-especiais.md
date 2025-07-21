@@ -1,5 +1,5 @@
 ---
-title: 'A simulação de assinaturas retornou um erro quando o PickupPointID contém caracteres especiais'
+title: "A simulação de assinaturas retornou um erro quando o PickupPointID contém caracteres especiais"
 id: aM2So6TmVffZ1ywtQsknS
 status: PUBLISHED
 createdAt: 2023-09-19T17:31:47.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-simulation-returned-error-when-pickuppointid-contains-special-characters
+slugEN: a-simulacao-de-assinaturas-retornou-um-erro-quando-o-pickuppointid-contem-caracteres-especiais
 locale: pt
 kiStatus: No Fix
 internalReference: 903332
@@ -18,7 +18,9 @@ internalReference: 903332
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para realizar um pedido de assinatura ou atualizar uma assinatura, o sistema de assinatura realiza uma simulação e, nessa simulação, utiliza os dados de entrega retornados pelo sistema de logística e, se nesses dados houver um ponto de coleta cujo ID esteja sublinhado, o sistema de assinatura não conseguirá escolher o SLA corretamente, gerando o erro "Invalid AddressProvider:...." na simulação e, consequentemente, não gerará o pedido.

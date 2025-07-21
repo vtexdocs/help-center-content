@@ -42,7 +42,7 @@ The integration sends product, inventory and prices in separate entities. Once t
 
 **Required fields are asterisked.**
 
-*¹ Some specifications are required. To learn more, [click here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#other-specifications).*
+*¹ Some specifications are required. To learn more, [click here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#other-specifications).*
 
 Specifications are sent if they conform to Netshoes' expected values. That is, when you submit a product, the integration scans its specifications. If they find any that matches the expected value of the product category in Netshoes, it sends the specification. If the specification does not have the expected value, the integration doesn't send the specification.
 
@@ -54,7 +54,9 @@ When the specifications are successfully sent for the first time, Netshoes recei
 
 _`Ex:` If the product description is changed, the integration will not update the description inside the marketplace._
 
->⚠️ Note: The product can not be deleted in the Netshoes panel, so it may be sent by the integration again.
+<div class="alert alert-warning">
+Note: The product can not be deleted in the Netshoes panel, so it may be sent by the integration again.
+</div>
 
 At Netshoes, products have two possible statuses:
 - __Active:__ available for sale
@@ -64,17 +66,19 @@ There they are grouped by a product that has several variations/SKUs.
 
 _`Ex:` Blue shirt (product) | S, M, L (variations/SKUs)_
 
-The category is sent according to the Department filled in the [mapping worksheet](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+The category is sent according to the Department filled in the [mapping worksheet](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
 
 ## 2 - Inventory
 
 Netshoes only receives inventories for products that have already been successfully sent. Before this, stock sendings are rejected. 
 
-Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
+Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
 
 After the products receive the first stock load, the update is made SKU by SKU whenever there's a stock change in VTEX.
 
->⚠️ **Note:** The inventory data sent to Netshoes is registered to our system for only **3 months**.
+<div class="alert alert-warning">
+<strong>Note:</strong> The inventory data sent to Netshoes is registered to our system for only <strong>3 months</strong>.
+</div>
 
 ## 3 - Prices
 
@@ -90,11 +94,11 @@ _` Ex1:` benefit of 10% discount for a certain category_
 
 _`Ex2:` SKU X is $ 10.00 in the sales policy used in Netshoes and has a fixed price of $ 15.00 for the same sales policy. The integration will send $ 15,00.
 
->⚠️ Note: since the payment method is made in the marketplace, the payment rules are determined by it. Because of this, we can't send differentiated prices depending on the payment method.
->
->
-> 
-> *Ex: If there are interests for installment payments configured in VTEX, the price sent will still be the one returned by the fulfillment simulation.*
+<div class="alert alert-warning">
+Note: since the payment method is made in the marketplace, the payment rules are determined by it. Because of this, we can't send differentiated prices depending on the payment method.
+<br />
+<em>Ex: If there are interests for installment payments configured in VTEX, the price sent will still be the one returned by the fulfillment simulation.</em>
+</div>
 
 ## 4 - Benefits
 
@@ -109,7 +113,9 @@ Only benefits that can be calculated in the fulfillment simulation are applied. 
 | Maximum Shipping | - | Type of Shipping |
 | Free Shipping | - | - |
 
->ℹ️ It is not possible to apply <strong>any</ strong> condition type in benefits whose fields were filled in as <strong>-</ strong>, that is, no condition will be taken into account in the integration.
+<div class="alert alert-info">
+It is not possible to apply <strong>any</ strong> condition type in benefits whose fields were filled in as <strong>-</ strong>, that is, no condition will be taken into account in the integration.
+</div>
 
 ## 5 - Order Flow
 
@@ -121,23 +127,19 @@ When an order is made in the marketplace there are some points that influence it
 
 In this integration there are two points that will influence the delivery: __Shipping Calculation__ and __Time of Shipping Preparation__. The sum of the two will be the __Total Delivery Time__.
 
->ℹ️ Ex:
->
->
-> 
-> Normal Shipping = 3 days
->
->
-> 
-> Cost Time = 2 days
->
->
-> 
-> Total Delivery Time = 5 days
+<div class="alert alert-info">
+Ex:
+<br />
+Normal Shipping = 3 days
+<br />
+Cost Time = 2 days
+<br />
+Total Delivery Time = 5 days
+</div>
 
 - __Shipping__
 
-At the time of ordering, by default, Netshoes queries the shipping table registered in VTEX and we send them back the shipping options. It is worth mentioning that, in order to be able to perform the query, you must register the [Shipping API](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#shipping-api) in the Netshoes panel.
+At the time of ordering, by default, Netshoes queries the shipping table registered in VTEX and we send them back the shipping options. It is worth mentioning that, in order to be able to perform the query, you must register the [Shipping API](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#shipping-api) in the Netshoes panel.
 
 The store can also register a __contingency table__ in Netshoes. Thus, if by any chance the integration is unable to query the shipping in VTEX or if the Shipping API is not registered in their panel, Netshoes uses the information in this table. In this case, Netshoes sends us the order and the integration tries to make a shipping *match* calculated with the carrier that best fits within VTEX (we use the carrier __type__ as a parameter). If the integration can not find an equal carrier type, we integrate the order using the cheapest carrier available.
 
@@ -145,78 +147,46 @@ The store can also register a __contingency table__ in Netshoes. Thus, if by any
 
 The shipping preparation time is based on the sum of the `Cost Time` field in the Inventory and the `Cost Time` at the warehouse dock. We send in bulk the same preparation time for all products.
 
->ℹ️ Ex:
->
->
-> 
-> **Inventory A**
->
->
-> 
-> - Warehouse Dock 1: Cost Time = 3 days
->
->
-> 
-> **Inventory B**
->
->
-> 
-> - Warehouse Dock 1: Cost Time = 5 days
->
->
-> 
->
->
-> 
-> **Warehouse Dock 1:**
->
->
-> 
-> - Cost Time = 2 days
->
->
-> 
->
->
-> 
-> An order with Shipping Time = 3 days will have a different Total Delivery Time depending on where the product will depart from.
->
->
-> 
->
->
-> 
-> **Leaving Inventory A:**
->
->
-> 
-> - Preparation time = 3 + 2 (warehouse dock 1) = 5 days
->
->
-> 
-> - Shipping time = 3 days
->
->
-> 
-> - Total delivery time = 8 days
->
->
-> 
-> **Exiting inventory B:**
->
->
-> 
-> - Preparation time = 5 + 2 (warehouse dock 1) = 7 days
->
->
-> 
-> - Shipping time = 3 days
->
->
-> 
-> - Total delivery time = 10 days
+<div class="alert alert-info">
+Ex:
+<br />
+<strong>Inventory A</strong>
+<br />
+- Warehouse Dock 1: Cost Time = 3 days
+<br />
+<strong>Inventory B</strong>
+<br />
+- Warehouse Dock 1: Cost Time = 5 days
+<br />
+<br />
+<strong>Warehouse Dock 1:</strong>
+<br />
+- Cost Time = 2 days
+<br />
+<br />
+An order with Shipping Time = 3 days will have a different Total Delivery Time depending on where the product will depart from.
+<br />
+<br />
+<strong>Leaving Inventory A:</strong>
+<br />
+- Preparation time = 3 + 2 (warehouse dock 1) = 5 days
+<br />
+- Shipping time = 3 days
+<br />
+- Total delivery time = 8 days
+<br />
+<strong>Exiting inventory B:</strong>
+<br />
+- Preparation time = 5 + 2 (warehouse dock 1) = 7 days
+<br />
+- Shipping time = 3 days
+<br />
+- Total delivery time = 10 days
+</div>
 
->⚠️ Note: In case of using the contingency table to calculate shipping, Netshoes does not query VTEX. In this case, the only factor that will be taken into account for **Total Delivery Time**, will be the **Shipping</ strong> provided by them, ignoring the <strong>Preparation Time**. You should be careful about this, as it may lead to discrepancies in the **Total Delivery Time**.
+<div class="alert alert-warning">
+Note: In case of using the contingency table to calculate shipping, Netshoes does not query VTEX. In this case, the only factor that will be taken into account for <strong>Total Delivery Time</strong>, will be the <strong>Shipping</ strong> provided by them, ignoring the <strong>Preparation Time</strong>. You should be careful about this, as it may lead to discrepancies in the <strong>Total Delivery Time</strong>.
+</div>
 
 #### Price/Availability:
 
@@ -238,7 +208,7 @@ Netshoes orders have their own statuses. Here's an explanation of these statuses
 
 <br />
 
-Netshoes notifies VTEX via the __Order Import API__ [(set up this API now!)](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#orders-import-api) every time an order is made on their platform, and then we try to integrate it. 
+Netshoes notifies VTEX via the __Order Import API__ [(set up this API now!)](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#orders-import-api) every time an order is made on their platform, and then we try to integrate it. 
 
 Even if the API is not registered, VTEX reads an order feed at Netshoes to ensure there are no lost orders! But still, we suggest that the API be registered, because it guarantees a much faster integration of orders, reducing chances of a stock break.
 
@@ -274,4 +244,4 @@ When you invoice the order in VTEX, the integration updates the status in Netsho
   - `trackingNumber`, `trackingUrl` and `courier`
 
 - To change the status to __delivered__ you will need:
-  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](https://help.vtex.com/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).
+  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).

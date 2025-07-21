@@ -1,5 +1,5 @@
 ---
-title: 'Especificações com o mesmo nome que afetam a visibilidade do filtro na Pesquisa Inteligente'
+title: "Especificações com o mesmo nome que afetam a visibilidade do filtro na Pesquisa Inteligente"
 id: 2ez8tdBqUE03nTejbMLSFp
 status: PUBLISHED
 createdAt: 2024-08-09T00:01:34.212Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: specifications-with-the-same-name-affecting-the-filter-visibility-at-the-intelligent-search
+slugEN: especificacoes-com-o-mesmo-nome-que-afetam-a-visibilidade-do-filtro-na-pesquisa-inteligente
 locale: pt
 kiStatus: Backlog
 internalReference: 1078576
@@ -18,7 +18,9 @@ internalReference: 1078576
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Várias especificações com o mesmo nome são agrupadas na mesma _"faceta"_ pela Pesquisa Inteligente, o que pode ser problemático se elas tiverem configurações diferentes.

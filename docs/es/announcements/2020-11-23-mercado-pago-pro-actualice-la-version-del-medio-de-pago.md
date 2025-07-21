@@ -33,6 +33,6 @@ Todos los clientes VTEX que utilizan Mercado Pago Pro tienen Payment App —func
 
 Ahora, el cliente podrá configurar Mercado Pago Pro como un medio de pago asociado a la afiliación de Gateway MercadoPagoV1.
 
-Para saber más detalles sobre este proceso, lea nuestro artículo sobre [cómo configurar Mercado Pago Pro como un medio de pago](https://help.vtex.com/pt/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete "cómo configurar Mercado Pago Pro como un medio de pago").
+Para saber más detalles sobre este proceso, lea nuestro artículo sobre [cómo configurar Mercado Pago Pro como un medio de pago](/pt/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete "cómo configurar Mercado Pago Pro como un medio de pago").
 
 Si tiene alguna pregunta, puede ponerse en contacto con su CSM — Customer Success Manager—, su gerente de cuenta en VTEX.

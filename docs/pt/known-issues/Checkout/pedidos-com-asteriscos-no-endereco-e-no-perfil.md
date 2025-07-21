@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos com asteriscos no endereço e no perfil'
+title: "Pedidos com asteriscos no endereço e no perfil"
 id: 6AaZ4p042LZwvfeKIqavjw
 status: PUBLISHED
 createdAt: 2023-08-25T17:03:49.755Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: orders-with-asterisks-in-the-address-and-profile
+slugEN: pedidos-com-asteriscos-no-endereco-e-no-perfil
 locale: pt
 kiStatus: Backlog
 internalReference: 360783
@@ -18,7 +18,9 @@ internalReference: 360783
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há pedidos em que `invoiceAddress`, `shippingAddress` ou `clientProfileData` estão sendo enviados como "mascarados" em vez do endereço real. Esse comportamento ocorre quando um usuário conclui a compra com um formulário de pedido que contém dados mascarados que são "stringificados". Como esses campos são de cadeia de caracteres, os dados do pedido são preenchidos com a máscara '***'.

@@ -1,5 +1,5 @@
 ---
-title: 'A interface de usuário de registro do vendedor não envia produtos para reindexação ao inativar um vendedor'
+title: "A interface de usuário de registro do vendedor não envia produtos para reindexação ao inativar um vendedor"
 id: 0iAMGhIOKDyMbEykB4pfx
 status: PUBLISHED
 createdAt: 2023-10-06T19:45:08.963Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: seller-register-ui-doesnt-send-products-to-reindex-when-inactivating-a-seller
+slugEN: a-interface-de-usuario-de-registro-do-vendedor-nao-envia-produtos-para-reindexacao-ao-inativar-um-vendedor
 locale: pt
 kiStatus: Backlog
 internalReference: 915970
@@ -18,7 +18,9 @@ internalReference: 915970
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a nova interface de usuário de experiência do vendedor, /admin/sellers, a ação de inativar um vendedor deve reindexar seus produtos relacionados para que possam ser removidos dos mercados associados, o que não está acontecendo atualmente.

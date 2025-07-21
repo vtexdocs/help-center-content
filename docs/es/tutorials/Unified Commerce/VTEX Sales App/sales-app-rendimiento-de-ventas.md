@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Sales App: Desempeño de Ventas'
 id: 7i4Elt835tatBM6iqZoc56
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-05-29T17:39:08.403Z
-updatedAt: 2023-06-01T00:18:47.651Z
-publishedAt: 2023-05-31T23:26:46.656Z
+updatedAt: 2025-02-07T18:43:10.804Z
+publishedAt: 2025-02-07T18:43:10.804Z
 firstPublishedAt: 2023-05-29T18:56:28.137Z
 contentType: tutorial
 productTeam: Shopping
@@ -20,10 +20,10 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 Puedes acceder a las métricas de ventas de tu tienda que indican el desempeño de las ventas. Para ello, sigue los pasos a continuación:
 
 1. En VTEX Sales App, ve a la página principal de la aplicación.
-2. Haz clic en el botón <i class="fas fa-bars"></i>.
+2. Haz clic en el botón <i class="fas fa-bars" aria-hidden="true"></i>.
 3. Después, en **Desempeño de ventas**.
 
-![Sales Performance (Store)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/sales-app-rendimiento-de-ventas_1.png)
+![Sales Performance (Store)](https://images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/befba785d99d38ac7ae16e4a045ab32a/analytics_en.png)
 
 En esa página, tendrás acceso a las siguientes métricas:
 
@@ -37,7 +37,7 @@ En esa página, tendrás acceso a las siguientes métricas:
 
 Para acceder a las métricas específicas de un vendedor, sigue los pasos a continuación:
 
-![Ventas de Bruna - VTEX Sales App](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Unified%20Commerce/VTEX%20Sales%20App/sales-app-rendimiento-de-ventas_2.png)
+![Ventas de Bruna - VTEX Sales App](https://images.ctfassets.net/alneenqid6w5/78nJXcuThGbc7cGrOb7CqV/0742350774cffb176c09e1597d24270d/Ventas_de_bruna_-.png)
 
 1. Haz clic en el ícono <i class="far fa-id-badge"></i>.
 2. Selecciona el perfil de un vendedor e introduce la contraseña.

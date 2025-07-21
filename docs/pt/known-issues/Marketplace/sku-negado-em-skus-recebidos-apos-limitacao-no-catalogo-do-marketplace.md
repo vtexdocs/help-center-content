@@ -1,5 +1,5 @@
 ---
-title: 'Sku negado em Skus recebidos após limitação no catálogo do marketplace'
+title: "Sku negado em Skus recebidos após limitação no catálogo do marketplace"
 id: 4fleOaKNp6ALXdmZcAVCg0
 status: PUBLISHED
 createdAt: 2024-01-23T12:50:23.697Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: sku-denied-on-received-skus-after-throttling-on-marketplace-catalog
+slugEN: sku-negado-em-skus-recebidos-apos-limitacao-no-catalogo-do-marketplace
 locale: pt
 kiStatus: Backlog
 internalReference: 970208
@@ -18,7 +18,9 @@ internalReference: 970208
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao aprovar um novo produto em Skus recebidos (automática ou manualmente), o módulo de sugestões se comunica com o catálogo do Marketplace para executar a ação.

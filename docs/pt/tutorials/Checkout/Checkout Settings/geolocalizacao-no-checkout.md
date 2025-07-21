@@ -44,7 +44,9 @@ Com a API Key em mãos, siga os passos abaixo:
 
 ![Geolocalizacao 1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/geolocalizacao-no-checkout_1.png)
 
->ℹ️ Em alguns países, o Google Maps não realiza um mapping de alta qualidade. Com isso, pode acontecer de certos endereços serem mal escritos ou de o Google indicar um endereço incorreto. Nestes casos, deve-se corrigir o endereço diretamente no mapa.
+<div class="alert alert-info">
+Em alguns países, o Google Maps não realiza um mapping de alta qualidade. Com isso, pode acontecer de certos endereços serem mal escritos ou de o Google indicar um endereço incorreto. Nestes casos, deve-se corrigir o endereço diretamente no mapa.
+  </div>
 
 ### Configurando o polígono
 

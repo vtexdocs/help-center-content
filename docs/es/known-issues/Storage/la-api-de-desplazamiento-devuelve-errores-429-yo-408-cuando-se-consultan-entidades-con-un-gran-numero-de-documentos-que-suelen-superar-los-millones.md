@@ -1,5 +1,5 @@
 ---
-title: 'La API de desplazamiento devuelve errores 429 y/o 408 cuando se consultan entidades con un gran número de documentos, que suelen superar los millones.'
+title: "La API de desplazamiento devuelve errores 429 y/o 408 cuando se consultan entidades con un gran número de documentos, que suelen superar los millones."
 id: 1Yx7s4kDAJOzpNCxro7TmW
 status: PUBLISHED
 createdAt: 2024-05-20T15:01:15.646Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: the-scroll-api-returns-429-andor-408-errors-when-querying-entities-with-a-large-number-of-documents-typically-exceeding-millions
+slugEN: la-api-de-desplazamiento-devuelve-errores-429-yo-408-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-que-suelen-superar-los-millones
 locale: es
 kiStatus: Backlog
 internalReference: 1035873
@@ -18,7 +18,9 @@ internalReference: 1035873
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de desplazamiento está diseñada para manejar grandes conjuntos de datos permitiendo la recuperación de documentos de forma desplazable. Sin embargo, cuando se consultan entidades con un número significativo de documentos, normalmente millones, los usuarios pueden encontrarse con errores 429 (Demasiadas solicitudes) y/o 408 (Tiempo de espera de la solicitud). Estos errores surgen debido al elevado volumen de datos que se procesan, que puede saturar la API y provocar la limitación de la tasa de solicitudes o tiempos de espera.

@@ -26,7 +26,9 @@ Es posible configurar qué pestañas aparecen para el consumidor en las [configu
 - [Suscripciones](#subscripciones)
 - [Autenticación](#autenticacion)
 
->ℹ️ Para saper sobre cómo personalizar la funcionalidad **Mi cuenta**, consulte la documentación para desarrolladores [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Es importante señalar que VTEX no presta soporte a **Mi cuenta** que es personalizada.
+<div class = "alert alert-info">
+Para saper sobre cómo personalizar la funcionalidad <b>Mi cuenta</b>, consulte la documentación para desarrolladores <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Es importante señalar que VTEX no presta soporte a <b>Mi cuenta</b> que es personalizada.
+</div>
 
 ## Perfil
 
@@ -75,7 +77,9 @@ El botón `Añadir dirección` permite incluir direcciones diferentes a las que 
 
 ## Pedidos
 
->ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
 
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 
@@ -94,13 +98,13 @@ En `Hacer pedido de nuevo`, el carrito del pedido seleccionado será duplicado. 
 
 ### Solicitar cancelación
 
-El cliente puede solicitar la cancelación de su pedido en cualquier momento. Si se solicita durante el [periodo de espera](https://help.vtex.com/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC#), no es necesaria la aprobación de la tienda para que la misma surta efecto.
+El cliente puede solicitar la cancelación de su pedido en cualquier momento. Si se solicita durante el [periodo de espera](/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC#), no es necesaria la aprobación de la tienda para que la misma surta efecto.
 
-Obtén más información en el artículo sobre [cómo funciona la cancelación de pedido solicitada por el cliente](https://help.vtex.com/es/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#).
+Obtén más información en el artículo sobre [cómo funciona la cancelación de pedido solicitada por el cliente](/es/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#).
 
 ### Ver detalles del pedido
 
-Al hacer clic en un pedido del listado, el cliente podrá visualizar todos los detalles de su pedido, como la dirección de entrega, la forma de pago utilizada y el total pagado. Además, puede ver la información de rastreo por ítems del pedido y una línea de tiempo con todos los _status_ del [flujo del pedido](https://help.vtex.com/es/tutorial/fluxo-de-pedido--tutorials_196).
+Al hacer clic en un pedido del listado, el cliente podrá visualizar todos los detalles de su pedido, como la dirección de entrega, la forma de pago utilizada y el total pagado. Además, puede ver la información de rastreo por ítems del pedido y una línea de tiempo con todos los _status_ del [flujo del pedido](/es/tutorial/fluxo-de-pedido--tutorials_196).
 
 El cliente también puede [Hacer pedido de nuevo](#hacer-pedido-de-nuevo) desde esta página. Al hacer clic en `Más opciones`, se muestran las funcionalidades de [Modificar pedido](#modificar-pedido) (en caso de que esté habilitada y el _status_ del pedido sea `Preparando el pedido`) y [Solicitar cancelación](#solicitar-cancelacion).
 
@@ -110,9 +114,9 @@ El cliente también puede [Hacer pedido de nuevo](#hacer-pedido-de-nuevo) desde 
 
 Si el _status_ del pedido es `Preparando el pedido`, se puede elegir **Modificar pedido** haciendo clic en `Más opciones` en la página de detalles del pedido.
 
-Para habilitar esta opción, el administrador de la tienda debe [permitir que los clientes realicen modificaciones en los pedidos](https://help.vtex.com/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) en la configuración del módulo **Pedidos**.
+Para habilitar esta opción, el administrador de la tienda debe [permitir que los clientes realicen modificaciones en los pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) en la configuración del módulo **Pedidos**.
 
-Este botón permite que el cliente modifique la información del pedido, como dirección, forma de pago e ítems del carrito, sin necesidad de realizar un nuevo pedido o contactar al equipo de servicio al cliente de la tienda. Lea el artículo [Cómo funciona la substitución de pedidos](https://help.vtex.com/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt) para saber más.
+Este botón permite que el cliente modifique la información del pedido, como dirección, forma de pago e ítems del carrito, sin necesidad de realizar un nuevo pedido o contactar al equipo de servicio al cliente de la tienda. Lea el artículo [Cómo funciona la substitución de pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt) para saber más.
 
 ## Tarjetas de crédito
 
@@ -133,21 +137,21 @@ Para agregar nuevas tarjetas, sigue los pasos a continuación:
 
 ![Card ReCaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_4.gif)
 
-Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
+Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
 
-* Si el comprador intenta registrar una nueva tarjeta sin haberla usado previamente en su tienda, aparecerá el mensaje_ _«_Se produjo_ _un error al intentar registrar la tarjeta_». Para saber más detalles, acceda a nuestra documentación [‘Guardar tarjeta’ no funciona al usar la autenticación 3DS](https://help.vtex.com/es/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
+* Si el comprador intenta registrar una nueva tarjeta sin haberla usado previamente en su tienda, aparecerá el mensaje_ _«_Se produjo_ _un error al intentar registrar la tarjeta_». Para saber más detalles, acceda a nuestra documentación [‘Guardar tarjeta’ no funciona al usar la autenticación 3DS](/es/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
 * En **Suscripciones**, no se puede guardar la tarjeta primero y luego activar la suscripción del servicio deseado. En situaciones como esta, es necesario activar la suscripción al realizar la compra. De esa manera, la tarjeta se guardará automáticamente.
 
 * Si la tarjeta de crédito guardada en la pestaña **Tarjetas de crédito** está vencida, se deberá eliminar y realizar una nueva compra para guardarla, ya que, debido a la autenticación **3DS**, no es posible actualizar y confirmar los datos de la tarjeta sin haber realizado una transacción en la tienda.
 
-* En tiendas que actúan como _marketplace_, la opción `Guardar tarjeta` de la pestaña **Tarjetas de crédito** no estará disponible para los casos en que la condición de pago de la tarjeta de crédito solo esté asociada al [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Esto se debe a que la validación de la tarjeta se realiza directamente en la cuenta principal, a través de una transacción de prueba por el valor de USD 1,50, que se reembolsa inmediatamente.
+* En tiendas que actúan como _marketplace_, la opción `Guardar tarjeta` de la pestaña **Tarjetas de crédito** no estará disponible para los casos en que la condición de pago de la tarjeta de crédito solo esté asociada al [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Esto se debe a que la validación de la tarjeta se realiza directamente en la cuenta principal, a través de una transacción de prueba por el valor de USD 1,50, que se reembolsa inmediatamente.
 
-    En otras palabras, para guardar la tarjeta, la [condición de pago](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de tarjeta de crédito también debe estar en la cuenta principal, en este caso, en Marketplace.
+    En otras palabras, para guardar la tarjeta, la [condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de tarjeta de crédito también debe estar en la cuenta principal, en este caso, en Marketplace.
 
 ## Suscripciones
 
-En esta pestaña, el cliente puede gestionar todas sus suscripciones registradas, así como modificar los datos relacionados con las mismas. Lea el artículo [Cómo funciona Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber más.
+En esta pestaña, el cliente puede gestionar todas sus suscripciones registradas, así como modificar los datos relacionados con las mismas. Lea el artículo [Cómo funciona Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber más.
 
 ## Autenticación 
 
@@ -173,7 +177,9 @@ Para cambiar la contraseña actual:
 4. Haga clic en el botón `GUARDAR CONTRASEÑA` para completar el cambio de contraseña.  
 ![My Authentication change password ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_7.png)
 
->ℹ️ Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link **Olvidé mi contraseña**.
+<div class="alert alert-info">
+Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link <strong>Olvidé mi contraseña</strong>.
+</div>
 
 ### Gestión de sesiones 
 

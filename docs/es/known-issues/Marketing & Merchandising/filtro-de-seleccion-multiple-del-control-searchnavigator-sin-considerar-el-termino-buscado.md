@@ -1,5 +1,5 @@
 ---
-title: 'Filtro de selección múltiple del control searchNavigator sin considerar el término buscado'
+title: "Filtro de selección múltiple del control searchNavigator sin considerar el término buscado"
 id: ijtyA8hzgsgSYwa6EoyES
 status: PUBLISHED
 createdAt: 2017-08-29T15:40:30.287Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: searchnavigator-control-multiselection-filter-disregards-searched-term
+slugEN: filtro-de-seleccion-multiple-del-control-searchnavigator-sin-considerar-el-termino-buscado
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumario
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 Cuando el usuario realiza una búsqueda por término y, a continuación, aplica un filtro en las opciones de selección múltiple (en el control searchNavigator), el término buscado inicialmente se elimina de la consulta, es decir, el filtro ignora el término y aplica la búsqueda solo con las opciones elegidas por el usuario.
 

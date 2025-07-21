@@ -1,5 +1,5 @@
 ---
-title: 'Kit criado por integração não recebe uma tabela de valores'
+title: "Kit criado por integração não recebe uma tabela de valores"
 id: 1IhCGsM5a48Ai6IESYCeGQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:46:50.768Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog
-slugEN: kit-created-by-integration-doesnt-receive-a-table-of-values
+slugEN: kit-criado-por-integracao-nao-recebe-uma-tabela-de-valores
 locale: pt
 kiStatus: Backlog
 internalReference: 

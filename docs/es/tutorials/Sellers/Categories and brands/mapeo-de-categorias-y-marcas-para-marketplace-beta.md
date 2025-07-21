@@ -15,5 +15,5 @@ legacySlug: mapeo-de-categorias-y-marcas-para-marketplace-beta
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
->⚠️ Este contenido es exclusivamente regional; 
-> por lo tanto, no se aplica a los países de habla española.
+<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
+por lo tanto, no se aplica a los países de habla española.</div>

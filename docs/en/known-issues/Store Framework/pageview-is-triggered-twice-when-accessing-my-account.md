@@ -1,5 +1,5 @@
 ---
-title: 'pageView is triggered twice when accessing My Account'
+title: "pageView is triggered twice when accessing My Account"
 id: 2jV0cIVxNUhb170tBgBQo6
 status: PUBLISHED
 createdAt: 2023-07-03T16:33:09.076Z

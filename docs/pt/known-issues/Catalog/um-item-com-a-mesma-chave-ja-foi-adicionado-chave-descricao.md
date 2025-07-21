@@ -1,5 +1,5 @@
 ---
-title: "'Um item com a mesma chave já foi adicionado. Chave: descrição'"
+title: "Um item com a mesma chave já foi adicionado. Chave: descrição"
 id: 5eGfoHuVu83bqGvSOvDF5z
 status: PUBLISHED
 createdAt: 2024-08-20T14:40:23.496Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: an-item-with-the-same-key-has-already-been-added-key-description
+slugEN: um-item-com-a-mesma-chave-ja-foi-adicionado-chave-descricao
 locale: pt
 kiStatus: Backlog
 internalReference: 1084015
@@ -18,7 +18,9 @@ internalReference: 1084015
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o aplicativo de vendas pode enfrentar um problema ao carregar corretamente as páginas de produtos nos quais o campo de produto "description" também tem a palavra "description" registrada.

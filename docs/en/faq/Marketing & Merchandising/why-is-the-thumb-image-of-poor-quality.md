@@ -1,5 +1,5 @@
 ---
-title: "Why is the 'thumb' image of poor quality?"
+title: 'Why is the "thumb" image of poor quality?'
 id: 4T5kL7MK5a8Y4AC8SO0yKG
 status: PUBLISHED
 createdAt: 2017-05-09T14:00:47.862Z
@@ -26,5 +26,5 @@ To perform this configuration:
 
 ![File type settings in CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Marketing%20&%20Merchandising/why-is-the-thumb-image-of-poor-quality_1.PNG)
 
-To learn how to improve the quality of any image from your store without compromising the page load performance, we also recommend reading the article [Improving the performance of product images](https://help.vtex.com/pt/tutorial/improving-the-performance-of-product-images/).
+To learn how to improve the quality of any image from your store without compromising the page load performance, we also recommend reading the article [Improving the performance of product images](/pt/tutorial/improving-the-performance-of-product-images/).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Não pode ser filtrado por período na lista ou na exportação do Bridge'
+title: "Não pode ser filtrado por período na lista ou na exportação do Bridge"
 id: 5U95urZgFa082kwwC2AKE0
 status: PUBLISHED
 createdAt: 2017-12-15T18:02:31.443Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
-slugEN: cannot-filter-by-period-in-the-bridge-list-or-export
+slugEN: nao-pode-ser-filtrado-por-periodo-na-lista-ou-na-exportacao-do-bridge
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'O pedido não pode ser criado quando o vendedor tem um código de país diferente'
+title: "O pedido não pode ser criado quando o vendedor tem um código de país diferente"
 id: 5AaGGDakL4Ys5ZvzD2RNAB
 status: PUBLISHED
 createdAt: 2023-03-03T13:02:18.553Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: order-cannot-be-created-when-seller-has-a-different-country-code
+slugEN: o-pedido-nao-pode-ser-criado-quando-o-vendedor-tem-um-codigo-de-pais-diferente
 locale: pt
 kiStatus: Backlog
 internalReference: 763955
@@ -18,7 +18,9 @@ internalReference: 763955
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um mercado, quando há um vendedor configurado com um Código de País diferente, o serviço de atendimento considerará o Código de País do vendedor ao fazer o pedido. Isso pode gerar um erro se o Código de País do vendedor definir campos obrigatórios diferentes dos do mercado.

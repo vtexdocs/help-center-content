@@ -15,7 +15,7 @@ legacySlug: como-devolver-items-del-pedido-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-La página **Detalles del pedido** permite que los administradores de la tienda acompañen el ciclo de vida de pedidos específicos, analizando todas sus interacciones, datos y contextos. Aprenda más sobre cómo funciona la nueva página de [Detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
+La página **Detalles del pedido** permite que los administradores de la tienda acompañen el ciclo de vida de pedidos específicos, analizando todas sus interacciones, datos y contextos. Aprenda más sobre cómo funciona la nueva página de [Detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
 
 Es posible devolver algunos ítems o todos los ítems que ya fueron facturados, en caso de que el cliente de su tienda lo solicite, con la condición de que los ítems estén contenidos en la factura. Un escenario común para esa acción es cuando el cliente de una tienda del sector moda desea devolver una prenda de vestir de su pedido, para cambiarla por una de talla diferente, por ejemplo. 
 
@@ -36,4 +36,6 @@ La página de Detalles del pedido permite orquestar esa operación realizando lo
 
 Después de que el reembolso sea procesado por el sistema, los ítems devueltos y su información aparecerán en la sección *Ítems devueltos*.
 
->ℹ️ El cambio de pedidos se realiza a través de API por el endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) y la emisión de facturas actualizadas por el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+<div class = "alert alert-info">
+El cambio de pedidos se realiza a través de API por el endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a> y la emisión de facturas actualizadas por el endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
+</div>

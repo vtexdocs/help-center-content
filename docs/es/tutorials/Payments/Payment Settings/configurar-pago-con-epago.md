@@ -3,8 +3,8 @@ title: 'Configurar pago con ePago'
 id: 7CPahJlR1RgwKmTQSps3le
 status: PUBLISHED
 createdAt: 2024-09-17T13:36:41.989Z
-updatedAt: 2024-09-17T19:20:35.413Z
-publishedAt: 2024-09-17T19:20:35.413Z
+updatedAt: 2025-01-09T19:10:57.127Z
+publishedAt: 2025-01-09T19:10:57.127Z
 firstPublishedAt: 2024-09-17T13:57:36.464Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: configurar-pago-con-epago
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos ePago. Con este proveedor, su tienda puede realizar ventas a través de PagoClasico.
+En VTEX es posible la integración con el proveedor de pagos ePago. Con este proveedor, su tienda puede realizar ventas a través de PagoClasico y pagarés.
 
 Para configurar ePago siga los pasos a continuación:
 
@@ -33,7 +33,7 @@ Para configurar ePago siga los pasos a continuación:
 2. En la pestaña __Condiciones de pago__, haga clic en el botón `+`.
 3. Haga clic en __PagoClasico__.
 4. Active la condición en el campo __Status__.
-5. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+5. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 6. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, ePago puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

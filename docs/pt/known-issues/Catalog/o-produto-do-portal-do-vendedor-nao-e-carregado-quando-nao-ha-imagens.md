@@ -1,5 +1,5 @@
 ---
-title: 'O produto do Portal do Vendedor não é carregado quando não há imagens'
+title: "O produto do Portal do Vendedor não é carregado quando não há imagens"
 id: 58szTo4jJRTjjIoGoDXH3F
 status: PUBLISHED
 createdAt: 2023-05-02T13:58:51.153Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: seller-portal-product-doesnt-load-when-without-images
+slugEN: o-produto-do-portal-do-vendedor-nao-e-carregado-quando-nao-ha-imagens
 locale: pt
 kiStatus: Backlog
 internalReference: 800480
@@ -18,7 +18,9 @@ internalReference: 800480
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para contas do portal do vendedor, se você tiver um produto sem imagens para cada sku, a interface do usuário do produto não será carregada corretamente.

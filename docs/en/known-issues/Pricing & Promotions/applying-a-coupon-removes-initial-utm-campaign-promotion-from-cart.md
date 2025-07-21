@@ -1,5 +1,5 @@
 ---
-title: 'Applying a Coupon Removes Initial UTM Campaign Promotion from Cart'
+title: "Applying a Coupon Removes Initial UTM Campaign Promotion from Cart"
 id: 2A1S6PgEwD9SgQo1UHrFFS
 status: PUBLISHED
 createdAt: 2024-08-27T20:52:46.450Z

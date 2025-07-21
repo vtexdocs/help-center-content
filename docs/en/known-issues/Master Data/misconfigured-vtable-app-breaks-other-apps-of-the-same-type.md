@@ -1,5 +1,5 @@
 ---
-title: 'Misconfigured VTable app breaks other apps of the same type'
+title: "Misconfigured VTable app breaks other apps of the same type"
 id: cxsyuFBHRmG2mweiiC66Y
 status: PUBLISHED
 createdAt: 2019-01-03T21:10:51.083Z

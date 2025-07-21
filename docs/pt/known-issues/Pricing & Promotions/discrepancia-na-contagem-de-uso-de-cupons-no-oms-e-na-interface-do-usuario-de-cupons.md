@@ -1,5 +1,5 @@
 ---
-title: 'Discrepância na contagem de uso de cupons no OMS e na interface do usuário de cupons'
+title: "Discrepância na contagem de uso de cupons no OMS e na interface do usuário de cupons"
 id: 5PyOeirr1XqXREmQJpSHs1
 status: PUBLISHED
 createdAt: 2023-12-18T21:53:26.360Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: discrepancy-on-coupon-usage-count-on-oms-and-coupons-ui
+slugEN: discrepancia-na-contagem-de-uso-de-cupons-no-oms-e-na-interface-do-usuario-de-cupons
 locale: pt
 kiStatus: Backlog
 internalReference: 954959
@@ -18,7 +18,9 @@ internalReference: 954959
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns pedidos não estão sendo recuperados no uso dos cupons, identificamos que alguns pedidos não estavam sendo contados pelo administrador de cupons.

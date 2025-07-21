@@ -1,5 +1,5 @@
 ---
-title: 'Order tracking via JadLog returns delivery confirmation without the order being delivered'
+title: "Order tracking via JadLog returns delivery confirmation without the order being delivered"
 id: 6tu2YbryI8gkiWiE0Ioe2g
 status: PUBLISHED
 createdAt: 2017-10-02T19:59:26.648Z

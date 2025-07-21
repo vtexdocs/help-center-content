@@ -1,5 +1,5 @@
 ---
-title: 'Lean Shipping no se desactiva después de quitar artículos del carrito'
+title: "Lean Shipping no se desactiva después de quitar artículos del carrito"
 id: 4dZZz28csz9BLhJNvQGHQV
 status: PUBLISHED
 createdAt: 2023-10-09T14:20:03.767Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: lean-shipping-doesnt-deactivate-after-removing-items-from-cart
+slugEN: lean-shipping-no-se-desactiva-despues-de-quitar-articulos-del-carrito
 locale: es
 kiStatus: Backlog
 internalReference: 916461
@@ -18,7 +18,9 @@ internalReference: 916461
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Lean Shipping no se desactiva automáticamente después de eliminar artículos del carrito, manteniendo sólo uno donde debería mostrar todas las opciones.

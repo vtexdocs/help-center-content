@@ -1,5 +1,5 @@
 ---
-title: 'Facetas do Segmento que afetam os breadcrumbs, o título da página e os filtros adicionais'
+title: "Facetas do Segmento que afetam os breadcrumbs, o título da página e os filtros adicionais"
 id: 3lBgcsjxiZxoDvnPhbMXgo
 status: PUBLISHED
 createdAt: 2024-06-27T22:57:42.875Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: facets-from-the-segment-affecting-breadcrumbs-page-title-and-additional-filters
+slugEN: facetas-do-segmento-que-afetam-os-breadcrumbs-o-titulo-da-pagina-e-os-filtros-adicionais
 locale: pt
 kiStatus: Backlog
 internalReference: 1057254
@@ -18,7 +18,9 @@ internalReference: 1057254
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A propriedade "facets" armazenada no Segmento/Sessão para um contexto de navegação funciona para limitar os resultados da pesquisa a filtros predefinidos. Por exemplo, ela é usada por "B2B Organizations" para restringir o que um usuário pode ver na loja.

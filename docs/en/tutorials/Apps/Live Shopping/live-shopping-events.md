@@ -111,7 +111,7 @@ To manage the live chat during your event, find the desired event in the events 
 * **VII - Select message**: Selects the message to reply to. When you click this icon and send a new message, it will appear as a reply to the selected message.
 * **VIII - Send**: Sends the chat message to actively engage with the viewers and participants during the event. Type your message in the input field and click the send icon.
 
-Additionally, you can [send quizzes and polls](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#sending-quizzes-and-polls) and [block undesired words](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#blocking-undesired-words).
+Additionally, you can [send quizzes and polls](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#sending-quizzes-and-polls) and [block undesired words](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#blocking-undesired-words).
 
 #### Sending quizzes and polls
 
@@ -130,7 +130,9 @@ To maintain a positive and appropriate chat environment, you can block certain w
 2. Click `New` to define which words should be forbidden from being displayed in the live chat.
 3. Click `Save` to save your changes.
 
->ℹ️ This feature is useful for blocking rude, political, or unrelated comments from your live stream. Note that the added words will be applied to all events without exceptions
+<div class="alert alert-info">
+  This feature is useful for blocking rude, political, or unrelated comments from your live stream. Note that the added words will be applied to all events without exceptions
+</div>
 
 ### Accessing the Streaming Studio
 
@@ -145,7 +147,7 @@ To access the Streaming Studio, follow these steps:
 
 ### Displaying products during the live event
 
-When you [create a new event](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#creating-a-new-event), you have the option to add the ID of the product collection to be attached to the live-stream event. In the **Products within collection** section, you can manage which products will be displayed during the event.
+When you [create a new event](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#creating-a-new-event), you have the option to add the ID of the product collection to be attached to the live-stream event. In the **Products within collection** section, you can manage which products will be displayed during the event.
 
 To display products during the live event, follow these steps:
 
@@ -161,7 +163,9 @@ After performing all the configuration and customization of the Live Shopping ap
 2. Copy the event's ID in the `Details` section.
 3. Change the event status to `Live` by enabling the `Turn on` toogle.
   ![ls-event-details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Live%20Shopping/live-shopping-events_6.png)
-  >⚠️ It may take approximately 3 minutes for the event to go live.
+  <div class="alert alert-warning" role="alert">
+  It may take approximately 3 minutes for the event to go live.
+  </div>
 
 4. Go to **Storefront > Site Editor**.
 5. Find the **Live Shopping** block in your storefront, based on the template you used, and select it.
@@ -170,7 +174,9 @@ After performing all the configuration and customization of the Live Shopping ap
 7. Click `Events (Live)` to choose the desired event.
 8. Click `Save` to save your changes.
 
->ℹ️ Use the Site Editor module to configure texts, images, and banners to be displayed alongside the **Live Shopping** player.
+<div class="alert alert-info">
+  Use the Site Editor module to configure texts, images, and banners to be displayed alongside the <b>Live Shopping</b> player.
+</div>
 
 ### Customizing the look and feel
 
@@ -181,7 +187,9 @@ To create a personalized and visually appealing live event experience, you can c
 3. Once the event is live, go to the **Layout Type** section and click the `Customize look and feel` button to enter the customization module.
 4. On the **Look and Feel** page, you will find two options: mobile and desktop. By selecting each option, you can configure and customize the components specific to those views, customizing both the products and chat sections of the Live Shopping player.
   ![ls-look-feel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Live%20Shopping/live-shopping-events_8.png)
-  >ℹ️ Note that when you enter the customization module and start customizing a component, the specific component you are working on will be identified and highlighted in blue color.
+  <div class="alert alert-info" role="alert">
+  Note that when you enter the customization module and start customizing a component, the specific component you are working on will be identified and highlighted in blue color.
+  </div>
 
 5. Select the mobile mode by clicking the mobile icon to customize the following options:
   * **Products**
@@ -214,7 +222,9 @@ Once your live-streaming event is complete, you need to finalize it to wrap up t
 
 1. In the events list, find the desired event and click the arrow button in the `Action` column.
 2. Change the status of the event to `Finalized` by toggling the `Status` button.
-  >⚠️ The process of finalizing the live shopping event may take a while. Do not close the page until the process is complete, when the `Finalized` status turns green.
+  <div class="alert alert-warning">
+  The process of finalizing the live shopping event may take a while. Do not close the page until the process is complete, when the <code>Finalized</code> status turns green.
+  </div>
 
 ![ls-event-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Apps/Live%20Shopping/live-shopping-events_9.png)
 

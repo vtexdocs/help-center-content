@@ -1,5 +1,5 @@
 ---
-title: 'The legacy Adyen connector is unable of asynchronously denying payment capture'
+title: "The legacy Adyen connector is unable of asynchronously denying payment capture"
 id: 5tdNyMfA5zeNg4sCbPQgUc
 status: PUBLISHED
 createdAt: 2024-02-02T15:15:57.980Z

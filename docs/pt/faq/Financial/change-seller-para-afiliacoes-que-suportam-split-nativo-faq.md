@@ -16,9 +16,9 @@ legacySlug: change-seller-para-afiliacoes-que-suportam-split-nativo-faq
 
 Durante o processo de compra em um Marketplace, pode ocorrer a necessidade de alteração de seller - quem entrega o produto ao consumidor final. Um dos motivos mais comuns é a falta de estoque, o que acaba acarretando no cancelamento da venda.
 
-Com a funcionalidade de __Change seller__ para marketplaces com afiliações que suportam split de pagamentos, é possível fazer a [alteração do seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) e garantir que a venda seja efetivada, evitando reembolsos de pagamento e burocracias desnecessárias.
+Com a funcionalidade de __Change seller__ para marketplaces com afiliações que suportam split de pagamentos, é possível fazer a [alteração do seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) e garantir que a venda seja efetivada, evitando reembolsos de pagamento e burocracias desnecessárias.
 
-Acesse o artigo [Afiliações com split nativo e alteração de seller](https://help.vtex.com/pt/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A), para mais detalhes sobre o funcionamento da solução, e caso tenha interesse em saber como utilizá-la, confira o tutorial [Como usar o Change Seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+Acesse o artigo [Afiliações com split nativo e alteração de seller](/pt/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A), para mais detalhes sobre o funcionamento da solução, e caso tenha interesse em saber como utilizá-la, confira o tutorial [Como usar o Change Seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 Abaixo compilamos as principais dúvidas que podem surgir quanto ao change seller.
 
@@ -51,7 +51,9 @@ Quando o pagamento é liquidado, as informações sobre recebedores e valores s�
 
 Não. Pagamentos com split suportam change seller apenas quando foram realizados com um ou dois cartões de crédito. Isso acontece porque, na maior parte dos provedores de pagamento, meios como o boleto ou cartão de débito têm o valor capturado imediatamente. Sendo assim, não conseguimos oferecer uma janela de tempo para a realização do change seller.
 
->⚠️ Em casos de tentativa de change seller com meios de pagamento que não seja cartão de crédito, você receberá a seguinte mensagem de erro na chamada da API: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done"
+<div class="alert alert-warning">
+  Em casos de tentativa de change seller com meios de pagamento que não seja cartão de crédito, você receberá a seguinte mensagem de erro na chamada da API: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done"
+  </div>
 
 ### Será possível realizar reembolsos parciais ou totais dos pedidos?
 
@@ -79,7 +81,9 @@ Foi necessário realizar o change seller e, após a mudança, o pedido foi desig
 
 Na tela do seller __Parceiro02__ podemos notar um decréscimo de R$0,28 com a identificação "Desconto de Coinshop" (apesar do preço para o seller Parceiro02 ser de R$ 0,30, o valor pago a ele foi de apenas R$ 0,02)
 
->ℹ️ Vale ressaltar que nesse caso o change seller foi possível pois a diferença era inferior a R$0,30, caso fosse de R$0,31 ou mais o change seller não aconteceria.
+<div class="alert alert-info">
+  Vale ressaltar que nesse caso o change seller foi possível pois a diferença era inferior a R$0,30, caso fosse de R$0,31 ou mais o change seller não aconteceria.
+  </div>
 
 Após o faturamento do pedido, o valor de R$5,02 foi liquidado e a divisão do pagamento, efetivado.
 
@@ -107,7 +111,9 @@ Com relação à distribuição desses recebíveis com o seller, a divisão seri
 | Marketplace Coinshop     | Comissão x Valor do produto = 10%(0,60)       | 0,06 (apenas ilustrativo)       |
 | Seller Japacoin     | Total do pedido - Comissão = 0,60-0,06      | 0,54 (apenas ilustrativo)       |
 
->ℹ️ Vale relembrar que em casos onde o preço do novo seller é inferior ao preço do seller original, não existirá uma trava de segurança de R$0,30
+<div class="alert alert-info">
+Vale relembrar que em casos onde o preço do novo seller é inferior ao preço do seller original, não existirá uma trava de segurança de R$0,30
+  </div>
 
 Sendo assim, apesar do preço para o seller Japacoin ser de R$ 0,04, o valor dividido foi de R$ 0,60.
 
@@ -115,7 +121,7 @@ Sendo assim, apesar do preço para o seller Japacoin ser de R$ 0,04, o valor div
 
 Durante o processo de change seller, o marketplace pode utilizar a API para simulação de carrinho. 
 
-Com a informação dos sellers em mãos, você pode simular carrinhos para verificar a disponibilidade dos produtos. Para mais informações, confira este tutorial do nosso Help Center - [Como usar o Change Seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+Com a informação dos sellers em mãos, você pode simular carrinhos para verificar a disponibilidade dos produtos. Para mais informações, confira este tutorial do nosso Help Center - [Como usar o Change Seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 Durante a etapa de simulação você pode verificar o preço dos produtos e do frete no novo seller para decidir se quer optar pela troca de seller.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Problema en la Búsqueda Explicada para las búsquedas con tildes'
+title: "Problema en la Búsqueda Explicada para las búsquedas con tildes"
 id: 5rh2FSzIeSjnO7bUlEkJ9S
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:57.268Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: issue-on-the-explained-search-for-searches-with-accent-marks
+slugEN: problema-en-la-busqueda-explicada-para-las-busquedas-con-tildes
 locale: es
 kiStatus: No Fix
 internalReference: 434752
@@ -18,7 +18,9 @@ internalReference: 434752
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza la Búsqueda Explicada en el admin para depurar y buscar un producto con acento en el nombre como por ejemplo "Pão Francês", tenemos un sinónimo que funciona como se espera pero esta información no se refleja en la pantalla para que el equipo pueda depurar y comprobar si está funcionando.

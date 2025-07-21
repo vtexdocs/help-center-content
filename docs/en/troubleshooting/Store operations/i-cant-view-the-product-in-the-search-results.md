@@ -3,8 +3,8 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2024-11-08T19:10:04.204Z
-publishedAt: 2024-11-08T19:10:04.204Z
+updatedAt: 2025-03-31T19:12:10.972Z
+publishedAt: 2025-03-31T19:12:10.972Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags: Product, Search, Catalog, Intelligent search, Rewriter
 ---
 
-When the user searches in a VTEX store using [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
+When the user searches in a VTEX store using [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
@@ -28,7 +28,7 @@ This behavior can occur due to the following reasons:
 
 1. Incorrect product registration in the Catalog.
 
-2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#standard-search-behavior) and [Search configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#standard-search-behavior) and [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
 
 3. Internal route redirecting the search result to a brand page.
 
@@ -42,11 +42,13 @@ To enable the searched products to be displayed correctly in the site's search r
 
 ### Verifying product registration fields
 
-A missing product in a search result may come from incomplete fields during the [product registration](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
+A missing product in a search result may come from incomplete fields during the [product registration](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
 
 <blockquote><ui>1. In the Admin VTEX, go to <b>Catalog > All Products</b>.</ui>
 
-<blockquote><ui>>⚠️ Stores using the **Produtos and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  Stores using the <b>Produtos and SKUS (Beta)</b> page should check the product registration fields by going to <b>Catalog > Products and SKUs</b> in the VTEX Admin. Learn more about <a href="https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos and SKUS (Beta)</a>.
+</div></blockquote>
 
 <blockquote><ui>2. Find the product you want and click <b>Edit product</b>.</ui>
 
@@ -60,13 +62,15 @@ A missing product in a search result may come from incomplete fields during the 
 
 <blockquote><ui>7. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the <b>Explained Search</b> page under Intelligent Search (<b>Storefront > Intelligent Search > Explained Search</b>).</ui>
 
-<blockquote><ui>>⚠️ If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.
+</div></blockquote>
 
 ### Changing search filters in Rewriter
 
 Another reason a product may not be displayed in search results is the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app's default behavior when displaying products.
 
-If a term is listed in Rewriter as a brand, [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) will understand that it should only be displayed when it is included in a brand name.
+If a term is listed in Rewriter as a brand, [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) will understand that it should only be displayed when it is included in a brand name.
 
 To remove the restriction on searching by *brand* and allow products to be found also by terms in the name or description (*full text*), follow the steps below:
 
@@ -118,7 +122,9 @@ internal {
 }
 ```
 
-<blockquote><ui>>⚠️ The value <i>ft</i> (full text) instead of <i>b</i> (brand) in the <i>map</i> parameter indicates that products with the term <i>Pendleton</i> in the name or description will also be displayed in the search.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  The value <i>ft</i> (full text) instead of <i>b</i> (brand) in the <i>map</i> parameter indicates that products with the term <i>Pendleton</i> in the name or description will also be displayed in the search.
+</div></blockquote>
 
 <blockquote><ui>7. Click the GraphiQL IDE arrow (next to <b>GraphiQL</b>) to update the search filter. The display of the following message in the GraphiQL IDE results field will confirm the new default search filter for the term.</ui>
 
@@ -147,7 +153,9 @@ internal {
 
 <blockquote><ui>8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the <b>Explained Search</b> page under Intelligent Search (<b>Storefront > Intelligent Search > Explained Search</b>).</ui>
 
-<blockquote><ui>>⚠️ If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.</blockquote>
+<blockquote><ui><div class ="alert alert-warning">
+  If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.
+</div></blockquote>
 
 ### Removing internal search route in Rewriter
 

@@ -1,5 +1,5 @@
 ---
-title: 'Não considerando a moeda personalizada no formato'
+title: "Não considerando a moeda personalizada no formato"
 id: 6uzuilnzwSZ4oQBJqqoZmd
 status: PUBLISHED
 createdAt: 2023-01-19T15:45:59.663Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: intl-not-considering-custom-currency-in-formatcurrency
+slugEN: nao-considerando-a-moeda-personalizada-no-formato
 locale: pt
 kiStatus: Backlog
 internalReference: 736695
@@ -18,7 +18,9 @@ internalReference: 736695
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

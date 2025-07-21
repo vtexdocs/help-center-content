@@ -1,5 +1,5 @@
 ---
-title: 'Transações realizadas em condições erradas'
+title: "Transações realizadas em condições erradas"
 id: 19wXvdynMwM6AEJAlaWJF7
 status: PUBLISHED
 createdAt: 2022-03-03T18:40:16.563Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transactions-entered-into-wrong-conditions
+slugEN: transacoes-realizadas-em-condicoes-erradas
 locale: pt
 kiStatus: Backlog
 internalReference: 392666
@@ -18,7 +18,9 @@ internalReference: 392666
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Transações realizadas em condições erradas, mais abrangentes do que o esperado(configuradas)

@@ -15,7 +15,9 @@ legacySlug: vtex-log-dashboard
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
->⚠️ Attention: This feature is in Open Beta stage.
+<div class="alert alert-warning">
+Attention: This feature is in Open Beta stage.
+</div>
 
 VTEX Shipping Network uses order tracking data directly from carriers, keeping you and your customer up to date on the status of each delivery. **VTEX Shipping Network dashboards** manage the data obtained from VTEX Shipping Network, so that you can extract intelligent information for your logistics management. 
 

@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda por lista de regalo no devuelve resultado cuando se aplica con 3 o menos caracteres'
+title: "La búsqueda por lista de regalo no devuelve resultado cuando se aplica con 3 o menos caracteres"
 id: 3CcMnzSpUQcUaG4wkm2ay2
 status: PUBLISHED
 createdAt: 2018-02-08T17:25:13.152Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: search-for-gift-list-comes-back-empty-when-using-3-characters-or-less
+slugEN: la-busqueda-por-lista-de-regalo-no-devuelve-resultado-cuando-se-aplica-con-3-o-menos-caracteres
 locale: es
 kiStatus: Backlog
 internalReference: 

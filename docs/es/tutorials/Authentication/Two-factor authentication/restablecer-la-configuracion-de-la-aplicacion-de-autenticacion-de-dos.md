@@ -15,7 +15,7 @@ legacySlug: restablecer-la-configuracion-de-la-aplicacion-de-autenticacion-de-do
 subcategoryId: 4sY1T2qdFehvVmC0tL5xW3
 ---
 
-Si ya has [activado el inicio de sesión mediante autenticación de dos factores](https://help.vtex.com/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ), pero cometiste algún error durante la configuración o perdiste el acceso a tu aplicación de autenticación de dos factores, es posible que no puedas acceder a tu cuenta VTEX.
+Si ya has [activado el inicio de sesión mediante autenticación de dos factores](/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ), pero cometiste algún error durante la configuración o perdiste el acceso a tu aplicación de autenticación de dos factores, es posible que no puedas acceder a tu cuenta VTEX.
 
 ## Retomar el acceso al VTEX Admin
 

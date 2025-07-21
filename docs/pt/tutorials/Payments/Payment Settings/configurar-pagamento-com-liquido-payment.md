@@ -25,8 +25,8 @@ Para configurar Liquido Payment, siga os passos abaixo:
 4. Nos campos __Application Key__, __Application Token__ e __Client ID__ insira as informações que foram fornecidas pela Liquido Payment.
 5. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Liquido Payment, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Liquido Payment, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o conector Liquido Payment pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

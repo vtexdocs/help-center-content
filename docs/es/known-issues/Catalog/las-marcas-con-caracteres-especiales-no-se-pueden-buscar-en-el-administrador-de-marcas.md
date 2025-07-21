@@ -1,5 +1,5 @@
 ---
-title: 'Las marcas con caracteres especiales no se pueden buscar en el administrador de marcas.'
+title: "Las marcas con caracteres especiales no se pueden buscar en el administrador de marcas."
 id: 296otMWGge4c2LJMvVhKEr
 status: PUBLISHED
 createdAt: 2024-01-04T13:57:15.861Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: brands-with-some-special-characters-are-not-searchable-on-the-brand-admin
+slugEN: las-marcas-con-caracteres-especiales-no-se-pueden-buscar-en-el-administrador-de-marcas
 locale: es
 kiStatus: No Fix
 internalReference: 503496
@@ -18,7 +18,9 @@ internalReference: 503496
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La interfaz de usuario de marcas, `.myvtex.com/admin/Site/Marca.aspx`, no permite a los usuarios buscar marcas con algunos caracteres especiales en el nombre, como los apóstrofes `'`. Además, tampoco se pueden buscar letras de alfabetos no latinos, por ejemplo del alfabeto polaco como `Ż`.

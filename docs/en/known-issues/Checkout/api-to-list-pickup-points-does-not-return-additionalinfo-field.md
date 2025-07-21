@@ -1,5 +1,5 @@
 ---
-title: 'API to list pickup points does not return additionalInfo field'
+title: "API to list pickup points does not return additionalInfo field"
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z

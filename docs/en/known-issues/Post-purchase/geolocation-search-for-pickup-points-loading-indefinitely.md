@@ -1,5 +1,5 @@
 ---
-title: 'Geolocation search for pickup points loading indefinitely'
+title: "Geolocation search for pickup points loading indefinitely"
 id: 9HACCiPSeJY9174Qh9FQb
 status: PUBLISHED
 createdAt: 2021-09-08T18:11:35.333Z

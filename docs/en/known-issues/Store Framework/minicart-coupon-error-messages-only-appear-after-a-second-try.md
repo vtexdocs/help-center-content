@@ -1,5 +1,5 @@
 ---
-title: 'Minicart Coupon error messages only appear after a second try'
+title: "Minicart Coupon error messages only appear after a second try"
 id: 6ZdpXaHJFudXXwUDC00lcr
 status: PUBLISHED
 createdAt: 2023-12-18T16:22:10.537Z

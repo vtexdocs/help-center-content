@@ -1,5 +1,5 @@
 ---
-title: 'Search Resolver applying Messages translations over already translated content'
+title: "Search Resolver applying Messages translations over already translated content"
 id: 7OIKmmhO3Pa2z0pIU33kY
 status: PUBLISHED
 createdAt: 2023-07-20T15:28:57.078Z

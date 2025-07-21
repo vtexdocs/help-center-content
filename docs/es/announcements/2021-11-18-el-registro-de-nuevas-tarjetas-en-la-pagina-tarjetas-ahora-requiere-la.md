@@ -15,11 +15,11 @@ announcementImageID: ''
 announcementSynopsisES: 'VTEX requerirá la validación mediante reCAPTCHA cada vez que un cliente registre una nueva tarjeta en la página Tarjetas'
 ---
 
-A partir del 18 de noviembre de 2021, la plataforma VTEX requerirá la validación mediante [reCAPTCHA](https://developers.google.com/recaptcha/docs/display) cada vez que un cliente registre manualmente una nueva tarjeta en la [página Tarjetas](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) de tu tienda.
+A partir del 18 de noviembre de 2021, la plataforma VTEX requerirá la validación mediante [reCAPTCHA](https://developers.google.com/recaptcha/docs/display) cada vez que un cliente registre manualmente una nueva tarjeta en la [página Tarjetas](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) de tu tienda.
 
 Esto también significa que hay [mejoras en la ruta de API My Cards](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint).
 
-Este cambio es importante, ya que reduce drásticamente la probabilidad de que se produzcan ataques en el flujo de la [página Tarjetas](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes). Además, la experiencia de compra de tus clientes no se ve afectada, ya que el cambio no tiene ningún impacto en el flujo del Checkout.
+Este cambio es importante, ya que reduce drásticamente la probabilidad de que se produzcan ataques en el flujo de la [página Tarjetas](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes). Además, la experiencia de compra de tus clientes no se ve afectada, ya que el cambio no tiene ningún impacto en el flujo del Checkout.
 
 ## ¿Qué se necesita hacer?
 
@@ -27,5 +27,5 @@ Si tu tienda utiliza nuestra UI nativa en la [página Tarjetas] (https://help.vt
 
 Ten en cuenta que para probar esta validación en tu tienda, debes acceder a ella a través de la dirección pública (sin el entorno `myvtex`), utilizando un perfil común, sin permisos de administrador de la tienda o desarrollador.
 
-Si tu tienda tiene alguna implementación de UI o personalización que se comunique directamente con esta [ruta de API](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), ponte en contacto con nuestro [equipo de soporte](https://help.vtex.com/pt/support) para actualizar tu implementación de manera adecuada.
+Si tu tienda tiene alguna implementación de UI o personalización que se comunique directamente con esta [ruta de API](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), ponte en contacto con nuestro [equipo de soporte](/pt/support) para actualizar tu implementación de manera adecuada.
 

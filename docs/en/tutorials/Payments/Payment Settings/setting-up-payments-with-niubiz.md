@@ -3,8 +3,8 @@ title: 'Setting up payments with Niubiz'
 id: 6rtGmpkdZUw4AjlRcOePRu
 status: PUBLISHED
 createdAt: 2024-09-19T20:02:58.068Z
-updatedAt: 2024-09-19T20:19:58.405Z
-publishedAt: 2024-09-19T20:19:58.405Z
+updatedAt: 2025-07-02T20:09:44.245Z
+publishedAt: 2025-07-02T20:09:44.245Z
 firstPublishedAt: 2024-09-19T20:19:58.405Z
 contentType: tutorial
 productTeam: Financial
@@ -34,10 +34,11 @@ To configure Niubiz, follow the steps below:
    		<li><b>Automatic capture immediately after anti-fraud analysis</b>: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
    		<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
-8. Click `Save`.
+8. In __Provider Fields__, select or complete the fields __tipoFlujoNiubiz__ and __logoComercio__.
+9. Click `Save`.
 
-To configure the payment methods to be processed by Niubiz, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by Niubiz, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, Niubiz may take up to 10 minutes to appear at your store's checkout as a payment option.

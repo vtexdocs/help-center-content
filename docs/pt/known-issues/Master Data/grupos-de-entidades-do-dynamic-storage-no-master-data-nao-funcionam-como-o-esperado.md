@@ -1,5 +1,5 @@
 ---
-title: 'Grupos de entidades do Dynamic Storage no Master Data não funcionam como o esperado'
+title: "Grupos de entidades do Dynamic Storage no Master Data não funcionam como o esperado"
 id: 2qgBrT6ehhUyy7Z9Xj4R85
 status: PUBLISHED
 createdAt: 2019-08-05T20:46:48.873Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: master-datas-dynamic-storage-entity-groups-not-working-as-expected
+slugEN: grupos-de-entidades-do-dynamic-storage-no-master-data-nao-funcionam-como-o-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 

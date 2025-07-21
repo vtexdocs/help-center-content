@@ -15,7 +15,7 @@ legacySlug: configurar-antifraude-clearsale-v3
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible integrarse con el [antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV3. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
+En VTEX es posible integrarse con el [antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV3. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
 
 Para configurar ClearSaleV3 siga los pasos a continuación:
 
@@ -38,9 +38,10 @@ Para configurar ClearSaleV3 siga los pasos a continuación:
 </ul>
 7. Haga clic en `Guardar`.
 
->ℹ️ Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics" target="_blank).
->
-> Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la [API al momento de crear el pago](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
+<div class="alert alert-info">
+<p>Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
+  <p>Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API al momento de crear el pago</a>.</p>  
+</div>
 
 ## Creación de la etiqueta de Google Tag Manager
 
@@ -90,4 +91,6 @@ El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsIn
 
 El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> y <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a>.
 
->ℹ️ Aunque la conversión del tiempo en días consecutivos (`d`) y días hábiles (`bd`) a minutos es igual en el campo `deliverySlaInMinutes`, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).
+<div class="alert alert-info">
+Aunque la conversión del tiempo en días consecutivos (<code>d</code>) y días hábiles (<code>bd</code>) a minutos es igual en el campo <code>deliverySlaInMinutes</code>, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).
+</div>

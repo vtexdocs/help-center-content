@@ -1,5 +1,5 @@
 ---
-title: 'Os pagamentos de débito usando o conector Firstdata não podem ser liquidados devido a um erro no campo TransactionState'
+title: "Os pagamentos de débito usando o conector Firstdata não podem ser liquidados devido a um erro no campo TransactionState"
 id: 6imTj4PTpJGGFqyhSLTPu9
 status: PUBLISHED
 createdAt: 2022-03-03T21:59:55.119Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: debit-payments-using-firstdata-connector-cannot-be-settled-due-to-an-error-in-the-transactionstate-field
+slugEN: os-pagamentos-de-debito-usando-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate
 locale: pt
 kiStatus: No Fix
 internalReference: 461095
@@ -18,7 +18,9 @@ internalReference: 461095
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao utilizar o conector Firstdata para processar pagamentos de débito, nosso código foi projetado para esperar que o campo TransactionState seja definido como "CAPTURED". No entanto, encontramos um problema em que o provedor está enviando os valores "CAPTURED" e "SETTLED", o que está causando um erro:

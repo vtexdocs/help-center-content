@@ -1,5 +1,5 @@
 ---
-title: 'MELI Variation attribute is duplicated. Allowed unique attributes combinations.'
+title: "MELI Variation attribute is duplicated. Allowed unique attributes combinations."
 id: 7A80EYAOYmEWSlpvWrbXAT
 status: PUBLISHED
 createdAt: 2023-02-23T13:00:55.730Z

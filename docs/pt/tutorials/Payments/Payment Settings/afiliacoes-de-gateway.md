@@ -36,13 +36,17 @@ Para adicionar um novo provedor de pagamento ou antifraude em sua loja, siga os 
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão __Instalar app__ e siga as instruções de instalação. Esta mensagem é exibida somente para alguns tipos de afiliações de gateway.
 6. Clique em `Salvar`.
 
->ℹ️ Caso haja outros campos a serem preenchidos além do **Chave de aplicação** e **Token de aplicação** (Passo 6), o provedor deve ser configurado conforme tutorial específico. Para maiores informações, verifique a subseção [Configurações de Pagamento](https://help.vtex.com/pt/subcategory/configuracoes-de-pagamentos--3tDGibM2tqMyqIyukqmmMw).
+<div class = "alert alert-info">
+  <p>Caso haja outros campos a serem preenchidos além do <b>Chave de aplicação</b> e <b>Token de aplicação</b> (Passo 6), o provedor deve ser configurado conforme tutorial específico. Para maiores informações, verifique a subseção <a href="https://help.vtex.com/pt/subcategory/configuracoes-de-pagamentos--3tDGibM2tqMyqIyukqmmMw">Configurações de Pagamento</a>.</p>
+</div>
 
->❗ As credenciais utilizadas para preencher os campos **Chave de aplicação** e **Token de aplicação** devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas [credenciais geradas no Admin](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerar-chaves-de-aplicacao-na-sua-conta), que se iniciam com `vtexappkey-`.
+<div class = "alert alert-danger">
+  As credenciais utilizadas para preencher os campos <strong>Chave de aplicação</strong> e <strong>Token de aplicação</strong> devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerar-chaves-de-aplicacao-na-sua-conta">credenciais geradas no Admin</a>, que se iniciam com <code>vtexappkey-</code>.
+</div>
 
-Para configurar os métodos de pagamento a serem processados pelo provedor de pagamento escolhido, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pelo provedor de pagamento escolhido, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
 
 ![interface_provedor_PT_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/afiliacoes-de-gateway_2.JPG)
 
@@ -72,7 +76,8 @@ Para selecionar a exibição de provedores por meio de filtros, acesse a página
 
 ![interface_provedor_PT_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/afiliacoes-de-gateway_6.JPG)
 
->❗ Para remover os filtros aplicados e voltar a visualizar todos os provedores cadastrados na loja, clique no botão `Limpar todos`.
+<div class = "alert alert-danger">
+Para remover os filtros aplicados e voltar a visualizar todos os provedores cadastrados na loja, clique no botão <code>Limpar todos</code>.</div>
 
 ### Editar configurações de provedores
 
@@ -85,5 +90,6 @@ Para editar configurações de provedores de pagamento ou antifraude já cadastr
 
 ![interface_provedor_PT_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/afiliacoes-de-gateway_7.JPG)
 
->❗ Antes de realizar qualquer alteração na configuração de um provedor, como por exemplo: dados de autorização, modo de processamento ou tipo de reembolso, certifique-se de que as novas informações a serem inseridas não irão prejudicar o seu desempenho operacional na loja.
+<div class = "alert alert-danger">
+Antes de realizar qualquer alteração na configuração de um provedor, como por exemplo: dados de autorização, modo de processamento ou tipo de reembolso, certifique-se de que as novas informações a serem inseridas não irão prejudicar o seu desempenho operacional na loja.</div>
 

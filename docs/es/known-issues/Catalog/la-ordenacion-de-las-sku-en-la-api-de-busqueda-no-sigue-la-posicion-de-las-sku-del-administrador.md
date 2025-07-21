@@ -1,5 +1,5 @@
 ---
-title: 'La ordenación de las SKU en la API de búsqueda no sigue la posición de las SKU del administrador'
+title: "La ordenación de las SKU en la API de búsqueda no sigue la posición de las SKU del administrador"
 id: 6onugQyL4odM0jExTsMqnZ
 status: PUBLISHED
 createdAt: 2022-02-01T15:33:37.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: sku-ordering-in-the-search-api-does-not-follow-the-sku-position-of-the-admin
+slugEN: la-ordenacion-de-las-sku-en-la-api-de-busqueda-no-sigue-la-posicion-de-las-sku-del-administrador
 locale: es
 kiStatus: Backlog
 internalReference: 515042
@@ -18,7 +18,9 @@ internalReference: 515042
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, la respuesta de la API de búsqueda no respeta el posicionamiento de las SKU dentro del producto en Admin. En la respuesta, las SKU se ordenan en orden ascendente de SkuId.

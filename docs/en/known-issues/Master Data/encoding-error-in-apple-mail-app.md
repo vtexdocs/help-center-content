@@ -1,5 +1,5 @@
 ---
-title: 'Encoding error in Apple Mail App'
+title: "Encoding error in Apple Mail App"
 id: 1ppf3Edw6gSikk0KY44gmS
 status: PUBLISHED
 createdAt: 2018-06-26T17:54:35.967Z

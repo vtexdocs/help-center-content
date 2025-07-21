@@ -1,5 +1,5 @@
 ---
-title: 'La tabla de precios promocionales en carros de la compra de gran tamaño puede afectar al rendimiento o provocar errores de tiempo de espera.'
+title: "La tabla de precios promocionales en carros de la compra de gran tamaño puede afectar al rendimiento o provocar errores de tiempo de espera."
 id: 22H47mc9qYLdzk2sFkbBut
 status: PUBLISHED
 createdAt: 2023-12-07T15:47:28.360Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotional-price-table-in-large-shopping-carts-can-impact-performance-or-lead-to-timeout-errors
+slugEN: la-tabla-de-precios-promocionales-en-carros-de-la-compra-de-gran-tamano-puede-afectar-al-rendimiento-o-provocar-errores-de-tiempo-de-espera
 locale: es
 kiStatus: Backlog
 internalReference: 949389
@@ -18,7 +18,9 @@ internalReference: 949389
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

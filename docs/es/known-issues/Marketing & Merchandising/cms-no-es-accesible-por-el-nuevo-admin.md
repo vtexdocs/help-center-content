@@ -1,5 +1,5 @@
 ---
-title: 'CMS no es accesible por el nuevo Admin (My VTEX)'
+title: "CMS no es accesible por el nuevo Admin (My VTEX)"
 id: 49Ws7DDihGeQU04UmI86Cu
 status: PUBLISHED
 createdAt: 2018-04-18T20:04:23.491Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: cms-is-not-accessible-through-the-new-admin
+slugEN: cms-no-es-accesible-por-el-nuevo-admin
 locale: es
 kiStatus: Fixed
 internalReference: 

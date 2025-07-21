@@ -1,5 +1,5 @@
 ---
-title: 'Promoção de remessa gratuita sendo aplicada em pedidos divididos fora da restrição de promoção'
+title: "Promoção de remessa gratuita sendo aplicada em pedidos divididos fora da restrição de promoção"
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction
+slugEN: promocao-de-remessa-gratuita-sendo-aplicada-em-pedidos-divididos-fora-da-restricao-de-promocao
 locale: pt
 kiStatus: No Fix
 internalReference: 732302
@@ -18,7 +18,9 @@ internalReference: 732302
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

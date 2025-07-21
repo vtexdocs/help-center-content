@@ -1,5 +1,5 @@
 ---
-title: 'El informe Notifícame genera un archivo dañado cuando no se encuentran SKUs'
+title: "El informe Notifícame genera un archivo dañado cuando no se encuentran SKUs"
 id: 4UXSRdwdh7TTqGvQ3HrBX4
 status: PUBLISHED
 createdAt: 2023-12-20T20:13:33.873Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found
+slugEN: el-informe-notificame-genera-un-archivo-danado-cuando-no-se-encuentran-skus
 locale: es
 kiStatus: Backlog
 internalReference: 956264
@@ -18,7 +18,9 @@ internalReference: 956264
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el informe 'Notifícame' no tiene SKUs, al intentar exportarlo se generará un archivo corrupto a Excel

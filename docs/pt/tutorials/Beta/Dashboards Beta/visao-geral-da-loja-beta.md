@@ -15,7 +15,9 @@ legacySlug: visao-geral-da-loja-beta
 subcategoryId: QPnz120TdtLcXSh65c4Gs
 ---
 
->ℹ️ A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
+<div class="alert alert-info"> 
+A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
+</div>
 
 A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tempo real da sua operação no dia atual, oferecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
 
@@ -36,7 +38,9 @@ Neste artigo, apresentamos as principais seções e ações presentes na página
 
 As métricas da página incluem dados sobre pedidos e navegação, que são captados de sistemas diferentes.
 
->⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
+<div class ="alert alert-warning">
+É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
+</div>
 
 * **Pedidos e receitas:** os dados sobre pedidos e receitas vêm do OMS, ou Sistema de Gerenciamento de Pedidos da VTEX e incluem pedidos realizados em todos os seus canais de venda.
 * **Sessões:** os dados de navegação vêm do sistema interno da plataforma que capta sessões dos usuários no storefront de lojas VTEX. Sessões são representadas pelo conjunto de visualizações das páginas acessadas por um mesmo usuário  ao navegar em seu ecommerce, desconsiderando marketplaces, apps, Sales App e qualquer outro canal de venda.
@@ -61,7 +65,9 @@ Os dados da página são atualizados com frequências diferentes. Os gráficos n
 | Resultados financeiros | - [Receita captada](#monitoramento) <br>- [Ticket Médio](#metricas)<br>- [Produtos com maior receita](#metricas)                                                                                                                                                                                                                         |
 | Conversão              | - [Taxa de Conversão](#metricas) <br>- [Funil de vendas](#funil-de-vendas) <br>- [Pedidos captados](#monitoramento), comparando com o número de Pedidos cancelados. Dependendo do resultado, isso pode direcionar sua equipe a identificar problemas operacionais no fulfillment ou atendimento ao consumidor que causaram os pedidos cancelados. |
 
->ℹ️ Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em [Atualização de dados](#atualizacao-de-dados).
+<div class="alert alert-info"> 
+Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em <a href="#atualizacao-de-dados">Atualização de dados</a>.
+</div>
 
 ### Analisar resultados de campanhas
 

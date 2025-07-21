@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect refund for purchases with 3 payment methods (one of them being GC)'
+title: "Incorrect refund for purchases with 3 payment methods (one of them being GC)"
 id: 5nWfRRuxOj7CN5mjXCLzzu
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:19.216Z

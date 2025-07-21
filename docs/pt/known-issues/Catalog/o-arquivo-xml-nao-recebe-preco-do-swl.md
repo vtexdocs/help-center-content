@@ -1,5 +1,5 @@
 ---
-title: 'O arquivo XML não recebe preço do SWL'
+title: "O arquivo XML não recebe preço do SWL"
 id: 5wQep876yfIFr7NibBQtL
 status: PUBLISHED
 createdAt: 2022-01-21T14:53:24.449Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-file-does-not-get-price-from-swl
+slugEN: o-arquivo-xml-nao-recebe-preco-do-swl
 locale: pt
 kiStatus: Backlog
 internalReference: 425027
@@ -18,7 +18,9 @@ internalReference: 425027
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se criarmos um arquivo XML em um MarketPlace que carrega preços da White Label dos Vendedores, nosso XML não mostrará esses preços

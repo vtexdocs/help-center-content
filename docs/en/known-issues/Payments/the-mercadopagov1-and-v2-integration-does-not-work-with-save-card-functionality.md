@@ -1,10 +1,10 @@
 ---
-title: 'The MercadoPagoV1 and V2 Integration does not work with save card functionality'
+title: "The MercadoPagoV1 and V2 Integration does not work with save card functionality"
 id: 2V8kdA60OTl7VQoUUNgBci
 status: PUBLISHED
 createdAt: 2022-05-03T15:45:09.856Z
-updatedAt: 2024-01-09T13:23:20.203Z
-publishedAt: 2024-01-09T13:23:20.203Z
+updatedAt: 2025-01-29T14:08:25.999Z
+publishedAt: 2025-01-29T14:08:25.999Z
 firstPublishedAt: 2022-05-03T15:45:10.554Z
 contentType: knownIssue
 productTeam: Payments

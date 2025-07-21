@@ -1,5 +1,5 @@
 ---
-title: 'O botão Salvar do CampoValorForm.aspx requer dois cliques'
+title: "O botão Salvar do CampoValorForm.aspx requer dois cliques"
 id: G0YtmOpdB4nNdw8w87ZNz
 status: PUBLISHED
 createdAt: 2022-02-16T13:28:52.922Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: campovalorformaspx-save-button-requires-two-clicks
+slugEN: o-botao-salvar-do-campovalorformaspx-requer-dois-cliques
 locale: pt
 kiStatus: No Fix
 internalReference: 525616
@@ -18,7 +18,9 @@ internalReference: 525616
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

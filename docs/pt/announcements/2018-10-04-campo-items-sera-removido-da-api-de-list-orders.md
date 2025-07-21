@@ -1,5 +1,5 @@
 ---
-title: "Campo 'items' será removido da API de List Orders"
+title: 'Campo "items" será removido da API de List Orders'
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z
@@ -23,7 +23,9 @@ Request da API de List Orders: <code>http://{{accountName}}.{{environment}}.com.
 
 Se sua loja usa a API de List Orders e no mapeamento da sua integração é esperado receber o campo `items`, seu time de desenvolvimento precisa __retirá-lo do mapeamento da integração__.
 
->⚠️ O campo `items` da API de List Orders já está **obsoleto** há bastante tempo. Ele não tem serventia alguma atualmente, e por isso sua loja não deveria considerá-lo em suas integrações. Para pegar itens de pedidos, sua loja deve usar a [API do Feed](http://help.vtex.com/pt/tutorial/como-funciona-o-feed-do-oms).
+<div class="alert alert-warning">
+O campo <code>items</code> da API de List Orders já está <strong>obsoleto</strong> há bastante tempo. Ele não tem serventia alguma atualmente, e por isso sua loja não deveria considerá-lo em suas integrações. Para pegar itens de pedidos, sua loja deve usar a <a href="http://help.vtex.com/pt/tutorial/como-funciona-o-feed-do-oms">API do Feed</a>.
+</div>
 
 É importante lembrar que __a API de List Orders continua funcionando normalmente__. Apenas o campo `items` será excluído.
 
@@ -33,9 +35,13 @@ A retirada desse campo vai aumentar consideravelmente a estabilidade e a perform
 
 Por isso, é crucial retirá-lo da integração.
 
->ℹ️ **Atenção:** esta mudança somente impacta as integrações que dependem da entrega do campo `items` pela API do List Orders.
+<div class="alert alert-info">
+<strong>Atenção:</strong> esta mudança somente impacta as integrações que dependem da entrega do campo `items` pela API do List Orders.
+</div>
 
->ℹ️ Esta mudança **não** afeta a API de Get Order. Nela, o campo `items` continua existindo e sendo atualizado normalmente.
+<div class="alert alert-info">
+Esta mudança <strong>não</strong> afeta a API de Get Order. Nela, o campo <code>items</code> continua existindo e sendo atualizado normalmente.
+</div>
 
 <div class="alert">
 Request da API de Get Order: <code>http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}</code>

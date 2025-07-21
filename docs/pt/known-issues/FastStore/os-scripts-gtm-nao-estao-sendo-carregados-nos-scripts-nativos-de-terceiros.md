@@ -1,5 +1,5 @@
 ---
-title: 'Os scripts GTM não estão sendo carregados nos scripts nativos de terceiros'
+title: "Os scripts GTM não estão sendo carregados nos scripts nativos de terceiros"
 id: 4hTYThw8092OCHhUIvpCAa
 status: PUBLISHED
 createdAt: 2024-08-23T12:16:07.174Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: gtm-scripts-are-not-loading-on-the-native-thirdparty-scripts
+slugEN: os-scripts-gtm-nao-estao-sendo-carregados-nos-scripts-nativos-de-terceiros
 locale: pt
 kiStatus: Backlog
 internalReference: 1086165
@@ -18,7 +18,9 @@ internalReference: 1086165
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As lojas que estão usando o Faststore v2 (repositórios que começam em `starter.store` e usam o aplicativo `admin-faststore`) e V3 (repositórios que começam em `starter.store` e usam o aplicativo `vtex.webops`) não estão carregando o script GTM ao usar os scripts nativos de terceiros. Isso está relacionado ao Partytown.

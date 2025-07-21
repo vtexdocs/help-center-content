@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível editar o nome do modelo Styles'
+title: "Não é possível editar o nome do modelo Styles"
 id: 5czxRVaMCZFgvOadfYKl1h
 status: PUBLISHED
 createdAt: 2023-08-16T17:41:40.059Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: cant-edit-the-name-of-the-styles-template
+slugEN: nao-e-possivel-editar-o-nome-do-modelo-styles
 locale: pt
 kiStatus: Backlog
 internalReference: 882147
@@ -18,7 +18,9 @@ internalReference: 882147
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de criar um novo estilo no módulo Styles, não é possível editar seu nome.

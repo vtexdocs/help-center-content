@@ -1,5 +1,5 @@
 ---
-title: 'A rota /_search do sistema de cartões-presente intermitentemente não devolve comprovantes quando o cabeçalho da faixa REST é inferior a 10.'
+title: "A rota /_search do sistema de cartões-presente intermitentemente não devolve comprovantes quando o cabeçalho da faixa REST é inferior a 10."
 id: 1WgbuMggOFUYFm2HseAxnd
 status: PUBLISHED
 createdAt: 2023-03-13T22:29:35.009Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-search-route-of-the-gift-card-system-intermittently-does-not-return-vouchers-when-the-restrange-header-is-less-than-10
+slugEN: a-rota-search-do-sistema-de-cartoespresente-intermitentemente-nao-devolve-comprovantes-quando-o-cabecalho-da-faixa-rest-e-inferior-a-10
 locale: pt
 kiStatus: Backlog
 internalReference: 770337
@@ -18,7 +18,9 @@ internalReference: 770337
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um cenário onde o cliente tem comprovantes de fidelidade e chega à caixa, espera-se que a rota /_search devolva todos os comprovantes vinculados a esse usuário. Entretanto, o checkout passa o cabeçalho com a faixa de REST = 0-9. Em algumas contas, esta faixa não é suficiente e a API retorna uma matriz vazia. Quando simulamos a chamada diretamente à API com um intervalo maior que 10, podemos recuperar pelo menos um comprovante.

@@ -29,9 +29,11 @@ A partir desta página, você pode realizar as seguintes ações:
 
 ### Criar audiência de campanha
 
-Para criar uma Audiência de campanha, em *Promoções > Audiências de campanhas*, você precisa clicar no botão `Nova Audiência de campanha` e seguir os passos descritos no artigo [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
+Para criar uma Audiência de campanha, em *Promoções > Audiências de campanhas*, você precisa clicar no botão `Nova Audiência de campanha` e seguir os passos descritos no artigo [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
 
->⚠️ Após a criação da audiência de campanha, é preciso associá-la a uma [Promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) para que ela tenha efeito.
+<div class="alert alert-warning">
+  <p>Após a criação da audiência de campanha, é preciso associá-la a uma <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Promoção de campanha</a> para que ela tenha efeito.</p>
+</div>
 
 ### Visualizar audiências de campanha
 
@@ -44,7 +46,7 @@ As audiências de campanhas são apresentadas em _cards_ com as seguintes inform
 * **Status:** estado atual de disponibilidade da audiência de campanha.
     * **Ativa:** a audiência de campanha está disponível para uso nas promoções de campanha da sua loja, ou seja, não está arquivada.
     * **Inativa:** a audiência de campanha não está disponível para uso em promoções de campanha na sua loja. Esse status não é definitivo – é possível reativar a audiência de campanha a qualquer momento.
-* **Público-alvo:** nome do [público-alvo](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) associado à audiência de campanha.
+* **Público-alvo:** nome do [público-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) associado à audiência de campanha.
 
 Para visualizar as Audiências de campanhas que estão [arquivadas](#arquivar-audiencia-de-campanha), na opção **Exibir**, clique em **Arquivados**, conforme ilustrado a seguir:
 
@@ -72,12 +74,12 @@ Para alterar qualquer configuração da audiência de campanha, siga os passos a
 
 1. No Admin VTEX, em **Promoções > Audiências de campanhas**, busque pela audiência de campanha que você deseja alterar.
 2. Clique no cartão da Audiência de campanha desejada.
-3. Faça as alterações necessárias na página de edição da Audiência de campanha. Para mais detalhes sobre cada campo disponível, acesse o artigo [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
+3. Faça as alterações necessárias na página de edição da Audiência de campanha. Para mais detalhes sobre cada campo disponível, acesse o artigo [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
 4. Caso tenha realizado alguma alteração no público-alvo, clique em `Atualizar`.
 5. Clique em `Salvar`.
 
 ## Saiba mais
 
-* [Audiências de campanhas](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
-* [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
-* [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K)
+* [Audiências de campanhas](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
+* [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+* [Criar Audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K)

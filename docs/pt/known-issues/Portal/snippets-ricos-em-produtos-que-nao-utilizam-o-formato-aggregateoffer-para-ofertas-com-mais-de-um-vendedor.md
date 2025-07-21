@@ -1,5 +1,5 @@
 ---
-title: 'Snippets ricos em produtos que não utilizam o formato AggregateOffer para ofertas com mais de um vendedor'
+title: "Snippets ricos em produtos que não utilizam o formato AggregateOffer para ofertas com mais de um vendedor"
 id: pA3jkQ7qHjWXul7ZsBLy2
 status: PUBLISHED
 createdAt: 2023-02-14T12:45:02.825Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: product-rich-snippets-not-using-aggregateoffer-format-for-offers-with-more-than-one-seller
+slugEN: snippets-ricos-em-produtos-que-nao-utilizam-o-formato-aggregateoffer-para-ofertas-com-mais-de-um-vendedor
 locale: pt
 kiStatus: Backlog
 internalReference: 753505
@@ -18,7 +18,9 @@ internalReference: 753505
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um único produto é associado a várias ofertas (por exemplo, o mesmo par de sapatos é oferecido por comerciantes diferentes), então a AggregateOffer pode ser usada para enviar esta informação para o google de uma forma que seu rastreador não rejeitará a oferta por preços errados.

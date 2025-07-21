@@ -14,18 +14,20 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---
 
-O [fluxo do pedido](https://help.vtex.com/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
+O [fluxo do pedido](/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
 
 Alterações no pedido - sejam elas causadas pelo cliente, pela loja ou por sistemas externos - geram mudanças no __status do pedido__. E com, isso, o pedido se movimenta dentro do fluxo.
 
 ## Marketplaces e Sellers
 
-Os conceitos de [Marketplace e Seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
+Os conceitos de [Marketplace e Seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
 
 - __Marketplace__ é o ambiente onde é realizado o fechamento do pedido, ou seja, onde o cliente realiza o processo de checkout. 
 - __Seller__ é o dono do SKU. É, portanto, o responsável pelo fulfilment - ou seja, por fazer a entrega do produto ao cliente. 
 
->ℹ️ Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias entregas é Marketplace e Seller ao mesmo tempo.
+<div class="alert alert-info">
+Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias entregas é Marketplace e Seller ao mesmo tempo.
+</div>
 
 É importante entender esses conceitos porque o fluxo do pedido no Marketplace é diferente do fluxo no Seller.
 
@@ -69,13 +71,14 @@ Depois de aprovado o pagamento, o pedido segue para `Pagamento aprovado` e em se
 
 Ou seja, neste caso tanto as etapas de pagamento quanto de entrega são responsabilidade da loja.
 
->ℹ️ Todo pedido é finalizado em apenas um destes dois status possíveis:
->
-> 
->
-> * Faturado
->
-> * Cancelado
-> 
+<div class="alert alert-info">
+Todo pedido é finalizado em apenas um destes dois status possíveis:<br>
+<ul>
+  <li>Faturado</li>
+  <li>Cancelado</li>
+</ul>
+</div>
 
->ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status).
+<div class="alert alert-info">
+Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em <a href="https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status">Entendendo os status</a>. 
+</div>

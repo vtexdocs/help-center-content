@@ -20,9 +20,9 @@ The total shipping cost is the total price charged to the customer to deliver th
 
 See how they are calculated:
 
-* **[Shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
+* **[Shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
     * A fixed shipping cost
-    * [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): such as weight- and price-based charges, insurance and shipping charges. 
+    * [Additional shipping costs](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): such as weight- and price-based charges, insurance and shipping charges. 
 
     The shipping rate is calculated by adding the fixed cost to the additional charges. 
 
@@ -33,6 +33,8 @@ So, in general, the total shipping cost is calculated as follows:
 
 ![Custo-final-envio-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/total-shipping-cost_1.svg)
 
->❗ If the **price-based charge** is lower than the **insurance charge**, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>
-> The best carrier is chosen based on its shipping rate, which does not consider loading dock and warehouse costs (if any). To simulate shipping options for customers, use the [Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144).
+<div class="alert alert-danger">
+If the <b>price-based charge</b> is lower than the <b>insurance charge</b>, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>
+The best carrier is chosen based on its shipping rate, which does not consider loading dock and warehouse costs (if any). To simulate shipping options for customers, use the <a href="https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144">Shipping simulator</a>.
+</div>
 

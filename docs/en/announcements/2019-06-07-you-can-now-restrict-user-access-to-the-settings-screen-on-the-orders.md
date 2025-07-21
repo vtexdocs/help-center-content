@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisEN: 'Possibility to limit user access to the Settings screen'
 ---
 
->⚠️ From June 25 <sup>th</sup>, 2019, users without access to `Checkout` will not be allowed to edit the Settings tab on the Orders Management module.
+<div class="alert alert-warning">
+From June 25 <sup>th</sup>, 2019, users without access to <code>Checkout</code> will not be allowed to edit the Settings tab on the Orders Management module. 
+</div>
 
 Seeking to ensure greater safety, we created the possibility to limit user access to the **Settings** screen on the Orders Management module, allowing information to be edited by selected users only. 
 

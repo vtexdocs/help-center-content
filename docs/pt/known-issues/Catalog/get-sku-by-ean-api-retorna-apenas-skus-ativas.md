@@ -1,5 +1,5 @@
 ---
-title: 'GET SKU by EAN API retorna apenas SKUs ativas'
+title: "GET SKU by EAN API retorna apenas SKUs ativas"
 id: 5NiuB1Lgf3CM5kXSSVdfuu
 status: PUBLISHED
 createdAt: 2020-03-23T15:10:23.842Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: get-sku-by-ean-api-returns-only-active-skus
+slugEN: get-sku-by-ean-api-retorna-apenas-skus-ativas
 locale: pt
 kiStatus: Fixed
 internalReference: 699007
@@ -18,7 +18,9 @@ internalReference: 699007
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'O menu MELI Bridge Orders não exibe as informações de ID do pedido'
+title: "O menu MELI Bridge Orders não exibe as informações de ID do pedido"
 id: ZBc9ny043rVpYFqkZIQ1K
 status: PUBLISHED
 createdAt: 2023-08-16T10:46:52.015Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-bridge-orders-menu-not-showing-the-orderid-information
+slugEN: o-menu-meli-bridge-orders-nao-exibe-as-informacoes-de-id-do-pedido
 locale: pt
 kiStatus: Fixed
 internalReference: 881733
@@ -18,7 +18,9 @@ internalReference: 881733
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

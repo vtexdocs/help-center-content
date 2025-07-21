@@ -36,7 +36,9 @@ He aquí algunos ejemplos de *partners* que se integran con VTEX XML:
 - UOL Dynad
 - Zanox
 
->ℹ️ Los cambios en XML tardan en promedio dos horas en actualizarse.
+<div class = "alert alert-info">
+  <p>Los cambios en XML tardan en promedio dos horas en actualizarse.</p>
+</div>
 
 ## Nuevo XML
 
@@ -57,24 +59,26 @@ Con esto en manos, siga los siguientes pasos para configurar su XML:
 11. Elija si exhibirá en el sitio web del marketplace los SKUs indisponibles o no, es decir, si el producto será exhibido para compra, aunque no esté disponible para entrega inmediata.
 12. Seleccione si quiere que el producto sea exhibido con las informaciones del SKU estándar.
 13.A partir de aquí debe rellenar los tags según lo definido por el sistema al que enviará el XML. Debe seleccionar la casilla __Exhibe contenido__ en los tags que haya ingresado el nombre. Los tags que ya estén con esa opción seleccionada  y no es posible deshacer la selección son obligatorios.
-14. La URL utilizada para acceder al XML se genera automáticamente, conforme al [dominio registrado en el diccionario del Sitio Web](https://help.vtex.com/es/tutorial/configurar-dominio-del-xml--2RkGK4vHS0c6sYuUw0cUWC), en el CMS.
+14. La URL utilizada para acceder al XML se genera automáticamente, conforme al [dominio registrado en el diccionario del Sitio Web](/es/tutorial/configurar-dominio-del-xml--2RkGK4vHS0c6sYuUw0cUWC), en el CMS.
 
->⚠️ Si la política comercial tiene restricción de acceso, el XML no se generará.
+<div class="alert alert-warning">
+  <p>Si la política comercial tiene restricción de acceso, el XML no se generará.</p>
+</div>
 
 ## Conectores nativos: una alternativa a XML para integrar con marketplaces
 
 La integración con marketplaces puede ser configurada por conector nativo desarrollado por VTEX, que debiera ser su elección estándar ya que es más eficiente. En la actualidad, la plataforma VTEX cuenta con los siguientes conectores nativos:
 
-- [Amazon](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [B2W](https://help.vtex.com/es/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
-- [Mercado Livre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Magazine Luiza](https://help.vtex.com/es/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
-- [Carrefour](https://help.vtex.com/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
-- [Centauro](https://help.vtex.com/es/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
-- [Wish](https://help.vtex.com/es/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
-- [Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
-- [Google Shopping](https://help.vtex.com/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
-- [Google Shopping Ads](https://help.vtex.com/es/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
-- [Via Varejo](https://help.vtex.com/es/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
-- [Dafiti](https://help.vtex.com/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
-- [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)
+- [Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [B2W](/es/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
+- [Mercado Livre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
+- [Magazine Luiza](/es/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
+- [Carrefour](/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
+- [Centauro](/es/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
+- [Wish](/es/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
+- [Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
+- [Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
+- [Google Shopping Ads](/es/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
+- [Via Varejo](/es/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
+- [Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
+- [Netshoes](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)

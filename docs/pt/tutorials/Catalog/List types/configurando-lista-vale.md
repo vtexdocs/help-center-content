@@ -3,8 +3,8 @@ title: 'Configurar lista vale'
 id: tutorials_284
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:02.631Z
-updatedAt: 2019-12-31T15:22:25.169Z
-publishedAt: 2019-12-31T15:22:25.169Z
+updatedAt: 2025-05-15T18:03:04.045Z
+publishedAt: 2025-05-15T18:03:04.045Z
 firstPublishedAt: 2017-04-27T23:03:13.396Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: configurando-lista-vale
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>A funcionalidade <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-lista--4b4NsVFwA8kwqS8S82w4Go">Lista</a> é exclusiva para lojas que usam CMS Portal Legado.</p>
+</div>
 
 Será abordado neste artigo as particularidades da criação de um tipo de Lista Vale, que é um tipo especial de Lista. [Veja nossa documentação completa de Tipo de Lista clicando aqui.](/pt/tutorial/criando-tipo-de-lista/)
 
@@ -27,14 +31,13 @@ A configuração depende de dois pontos, listados abaixo.
 
 - O SKU precisa ser configurado para gerar crédito em vale.
 
-![sku-opção-credito-vale pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/List%20types/configurando-lista-vale_1.png)
-
+![sku-opção-credito-vale pt](https://images.ctfassets.net/alneenqid6w5/JLjFssu5Q2awo2UyiuOEQ/2719360144a349ef7fcf68fc96a7dee6/sku-op____o-credito-vale_pt.png)
 
 ## Configurações no Tipo de Lista
 
 A criação desse tipo de lista pede que, nas configurações, a entrega seja marcada como "Valor dos produtos comprados será convertido em Vale Compras". Veja a imagem de exemplo.
 
-![entrega-tipos-lista pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/List%20types/configurando-lista-vale_2.png)
+![entrega-tipos-lista pt](https://images.ctfassets.net/alneenqid6w5/7cX5Qz5CG4gSQuwOUKSy0Y/21687cba7440124b65e6b4be17007191/entrega-tipos-lista_pt.png)
 
 Salve a sua lista após realizadas as demais configurações desejadas.
 

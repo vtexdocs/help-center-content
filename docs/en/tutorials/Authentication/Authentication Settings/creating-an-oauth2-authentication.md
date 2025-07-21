@@ -21,7 +21,7 @@ In some circumstances, you may want to create an additional authentication in VT
 
 To match those needs, VTEX provides a VTEX ID integrated __authentication OAuth2__ .
 
->⚠️ As this is a complicated technical matter, we recommend that you consult a partner or IT team.
+<div class="alert alert-warning">As this is a complicated technical matter, we recommend that you consult a partner or IT team.</div>
 
 ### About OAuth2
 
@@ -155,7 +155,7 @@ Response:
 
 As soon as the service is developed and published, you can send the above-mentioned data to VTEX (by opening a ticket). VTEX will then be able to complete environment integration with VTEX ID, providing your store with another login option.
 
->ℹ️ If you have multiple stores (subaccounts) listed in **Account Settings > Account management > Account**, please note that each one will require their own OAuth2 Identity Provider configuration.
+<div class="alert alert-info">If you have multiple stores (subaccounts) listed in <strong>Account Settings > Account management > Account</strong>, please note that each one will require their own OAuth2 Identity Provider configuration.</div>
 
 Important things to remember:
 

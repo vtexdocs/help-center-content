@@ -29,16 +29,17 @@ Para ativar todos os SKUs utilizando o Admin VTEX, siga os passos abaixo:
 1. Acesse a URL  `https://{accountName}.myvtex.com/admin/site/productskuactivateall.aspx `.
 2. Clique em `Ativar todos os SKUs`.
 
->⚠️ SKUs cadastrados com dados inválidos não terão a opção de *Ativar o SKU se possível* ativada.
->
-> Caso nem todos os SKUs tenham sido marcados com a opção de *Ativar o SKU se possível*, repita o processo descrito acima.
+<div class="alert alert-warning">
+<p>SKUs cadastrados com dados inválidos não terão a opção de <em>Ativar o SKU se possível</em> ativada.</p>
+<p>Caso nem todos os SKUs tenham sido marcados com a opção de <em>Ativar o SKU se possível</em>, repita o processo descrito acima.</p>
+</div>
 
 ## Ativar um grupo de SKUs 
 
 Para ativar apenas um determinado grupo de SKUs, é possível utilizar uma planilha extraída do Admin VTEX. Veja como:
 
 1. Extraia a planilha de __Produtos e SKUs__ na plataforma. Você pode conferir o passo a passo desse processo em [Como exportar planilha de produtos
-](https://help.vtex.com/pt/tutorial/como-exportar-planilha-de-produtos--2sIroGeqZqaN3NAvaSGwWV).
+](/pt/tutorial/como-exportar-planilha-de-produtos--2sIroGeqZqaN3NAvaSGwWV).
 2. Altere na coluna __AtivarSKUSePossível__ o status dos SKUs que deseja ativar. O campo deve ser preenchido apenas com `SIM`.
 3. Salve as alterações feitas no documento.
 4. Importe a planilha novamente para a plataforma. Vale lembrar que a importação se dá da mesma maneira que a extração.

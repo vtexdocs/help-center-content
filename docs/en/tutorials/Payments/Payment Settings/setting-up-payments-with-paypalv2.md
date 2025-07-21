@@ -3,8 +3,8 @@ title: 'Setting up payments with PayPalV2'
 id: 2nGiQVk3YKvOAu8Zg4RKFr
 status: PUBLISHED
 createdAt: 2024-03-14T18:53:09.449Z
-updatedAt: 2024-07-24T19:40:23.978Z
-publishedAt: 2024-07-24T19:40:23.978Z
+updatedAt: 2025-07-16T22:42:18.769Z
+publishedAt: 2025-07-16T22:42:18.769Z
 firstPublishedAt: 2024-03-14T19:02:53.958Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: setting-up-payments-with-paypalv2
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider PayPalV2. Through this provider, your store can make sales via PayPalCP and PayPal.
+At VTEX, it is possible to integrate with the payment provider PayPalV2. Through this provider, your store can make sales via PayPalCP, PayPal, PayPalBCDC and PIX.
 
 To configure PayPalV2, follow the steps below:
 
@@ -36,8 +36,8 @@ To configure PayPalV2, follow the steps below:
 </ul>
 8. Click __Save__.
 
-To configure the payment methods to be processed by PayPalV2, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by PayPalV2, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, PayPalV2 may take up to 10 minutes to appear at your store's checkout as a payment option.

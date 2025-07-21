@@ -1,5 +1,5 @@
 ---
-title: 'Máscara do campo cálculo de frete na página do produto com comportamento inadequado'
+title: "Máscara do campo cálculo de frete na página do produto com comportamento inadequado"
 id: 3e3i6QgalWSKyIw6KsYwGa
 status: PUBLISHED
 createdAt: 2017-08-11T17:33:43.752Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: mask-of-the-shipping-calculation-field-on-the-product-page-shows-wrong-behavior
+slugEN: mascara-do-campo-calculo-de-frete-na-pagina-do-produto-com-comportamento-inadequado
 locale: pt
 kiStatus: Backlog
 internalReference: 

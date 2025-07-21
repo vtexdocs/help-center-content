@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-mi-pedido-con-stock-disponible-esta-dando-error-en-oms
 ---
 
-Cuando el pago de un pedido tarda muchos días para ser aprobado, algunas reservas terminan expirando, ocasionando posibles errores en el [flujo del pedido](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) en el módulo **Pedidos**, como productos con stock no disponible.
+Cuando el pago de un pedido tarda muchos días para ser aprobado, algunas reservas terminan expirando, ocasionando posibles errores en el [flujo del pedido](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) en el módulo **Pedidos**, como productos con stock no disponible.
 
 El status reservado tiene un plazo de validez y, si el pago no se confirma hasta esa fecha, el SKU se libera a otra compra, evitando la reserva innecesaria de items.
 

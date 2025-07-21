@@ -1,5 +1,5 @@
 ---
-title: 'Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller'
+title: "Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller"
 id: 57fIYUFmvuyYaq8W6KkieC
 status: PUBLISHED
 createdAt: 2017-06-16T21:18:22.276Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: authors_35
 tag: Checkout,Payments
-slugEN: marketplace-doesnt-consider-installment-rule-for-products-that-have-a-commercial-condition-in-the-seller
+slugEN: marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem
 locale: pt
 kiStatus: Backlog
 internalReference: 

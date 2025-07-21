@@ -1,5 +1,5 @@
 ---
-title: 'Preço inconsistente quando a SKU tem um multiplicador de unidades diferente de 1'
+title: "Preço inconsistente quando a SKU tem um multiplicador de unidades diferente de 1"
 id: NVtFiuWgptqa2gBEVmpOC
 status: PUBLISHED
 createdAt: 2022-09-05T13:05:50.789Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: inconsistent-price-when-the-sku-has-unit-multiplier-different-than-1
+slugEN: preco-inconsistente-quando-a-sku-tem-um-multiplicador-de-unidades-diferente-de-1
 locale: pt
 kiStatus: Backlog
 internalReference: 651102
@@ -18,7 +18,9 @@ internalReference: 651102
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando alguma SKU contém um multiplicador de unidade diferente de 1 (pode ser int como 10 ou 100, ou float como 0,8, por exemplo), em algumas situações, o preço retornado no store-graphql pode ter inconsistências com base na divisão do preço retornado da API de simulação:

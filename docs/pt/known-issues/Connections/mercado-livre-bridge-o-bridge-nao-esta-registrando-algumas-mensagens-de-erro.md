@@ -1,44 +1,39 @@
 ---
-title: '[Mercado Livre] [Bridge] O Bridge não está registrando algumas mensagens de erro'
+title: "[Mercado Livre] [Bridge] O Bridge não está registrando algumas mensagens de erro"
 id: 3KmdcY6hlLQx5h1FgKHAbS
 status: PUBLISHED
 createdAt: 2024-06-21T12:38:31.025Z
-updatedAt: 2024-06-26T11:07:40.994Z
-publishedAt: 2024-06-26T11:07:40.994Z
+updatedAt: 2025-06-23T15:21:10.190Z
+publishedAt: 2025-06-23T15:21:10.190Z
 firstPublishedAt: 2024-06-21T12:38:31.845Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-bridge-bridge-isnt-logging-some-error-messages
+slugEN: mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1053742
 ---
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
-Erro no fluxo de atualização: o sku não está sendo registrado na ponte
-
-**Marketplace:** Mercado Livre
-**Causa raiz:** Admin > Bridge > Produto
-
-**Importante:** não acontece com todos os skus;
+KI duplicado - o caso já está sendo tratado dentro do KI 1069692
 
 ## Simulação
 
 
-Admin > Marketplace > Produtos > Amazon
-
- ![](https://vtexhelp.zendesk.com/attachments/token/3MxTLEnmPv9lgG7UE8iUEd1Ft/?name=image.png
+KI duplicado
 
 ## Workaround
 
 
-Em alguns casos, o reprocessamento do sku na ponte resolve o problema.
+N/A
 
 
 

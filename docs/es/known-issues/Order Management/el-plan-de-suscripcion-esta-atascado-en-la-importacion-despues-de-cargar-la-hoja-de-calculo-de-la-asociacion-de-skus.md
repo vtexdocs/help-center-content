@@ -1,5 +1,5 @@
 ---
-title: "El plan de suscripción está 'atascado' en la 'importación' después de cargar la hoja de cálculo de la asociación de SKUs"
+title: 'El plan de suscripción está "atascado" en la "importación" después de cargar la hoja de cálculo de la asociación de SKUs'
 id: 4BVj2X44OZMttG57vUryHb
 status: PUBLISHED
 createdAt: 2022-05-03T00:28:48.118Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet
+slugEN: el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus
 locale: es
 kiStatus: Fixed
 internalReference: 571080
@@ -18,7 +18,9 @@ internalReference: 571080
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

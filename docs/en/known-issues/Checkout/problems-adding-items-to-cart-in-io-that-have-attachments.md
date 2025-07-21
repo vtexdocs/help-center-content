@@ -1,5 +1,5 @@
 ---
-title: 'Problems adding items to cart in IO that have attachments'
+title: "Problems adding items to cart in IO that have attachments"
 id: 6fuqi9FsGdIbuf8L6AyvqT
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:09.917Z

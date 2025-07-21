@@ -1,5 +1,5 @@
 ---
-title: 'Enlaces de imagen incompletos en la optimización crítica de CSS'
+title: "Enlaces de imagen incompletos en la optimización crítica de CSS"
 id: 1965M3rMbB30pTOCiMMxXj
 status: PUBLISHED
 createdAt: 2024-10-02T17:52:53.482Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: incomplete-image-links-in-critical-css-optimization
+slugEN: enlaces-de-imagen-incompletos-en-la-optimizacion-critica-de-css
 locale: es
 kiStatus: Backlog
 internalReference: 1110160
@@ -18,7 +18,9 @@ internalReference: 1110160
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

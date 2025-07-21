@@ -1,5 +1,5 @@
 ---
-title: "Ocorre um erro ao tentar realizar uma pesquisa usando o campo 'All' na interface do usuário do VTEX CRM"
+title: 'Ocorre um erro ao tentar realizar uma pesquisa usando o campo "All" na interface do usuário do VTEX CRM'
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm-ui
+slugEN: ocorre-um-erro-ao-tentar-realizar-uma-pesquisa-usando-o-campo-all-na-interface-do-usuario-do-vtex-crm
 locale: pt
 kiStatus: Backlog
 internalReference: 925679
@@ -18,7 +18,9 @@ internalReference: 925679
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O filtro "All" (Todos) na interface do usuário do CRM retorna um erro quando usado em entidades com muitos documentos. Isso ocorre porque o filtro "All" executa uma pesquisa curinga em todos os campos pesquisáveis, o que pode resultar em um erro devido ao grande volume de dados que está sendo consultado.

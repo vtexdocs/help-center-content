@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] El menú de pedidos del puente no muestra la información del ID de envío.'
+title: "[Mercado Livre] El menú de pedidos del puente no muestra la información del ID de envío."
 id: 2fXDbejpPJ04NDfPCCcr0j
 status: PUBLISHED
 createdAt: 2024-03-18T20:56:17.859Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-bridge-orders-menu-not-showing-the-shippingid-information
+slugEN: mercado-livre-el-menu-de-pedidos-del-puente-no-muestra-la-informacion-del-id-de-envio
 locale: es
 kiStatus: Backlog
 internalReference: 1001903
@@ -18,7 +18,9 @@ internalReference: 1001903
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente tenemos un problema que solo afecta a la visibilidad de algunos Pedidos MELI, lo que ocurre es que actualmente estamos registrando el ShipmentID en el menu del puente de pedidos, pero en algunos mensajes de error falta el OrderID, y es necesario para algunos casos ya que el orderID es la informacion que los vendedores tienen en el Portal MELI

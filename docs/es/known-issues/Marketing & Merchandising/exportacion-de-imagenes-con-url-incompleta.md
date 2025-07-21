@@ -1,5 +1,5 @@
 ---
-title: 'Exportación de imágenes con URL incompleta'
+title: "Exportación de imágenes con URL incompleta"
 id: 2XIs1s3gB2WSGA6CmGyGs0
 status: PUBLISHED
 createdAt: 2018-09-15T19:47:20.331Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: exporting-images-with-incomplete-url
+slugEN: exportacion-de-imagenes-con-url-incompleta
 locale: es
 kiStatus: Backlog
 internalReference: 

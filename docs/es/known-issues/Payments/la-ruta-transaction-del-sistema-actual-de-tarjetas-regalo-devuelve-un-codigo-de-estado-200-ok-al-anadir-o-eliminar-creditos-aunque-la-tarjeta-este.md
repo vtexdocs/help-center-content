@@ -1,5 +1,5 @@
 ---
-title: 'La ruta /transaction del sistema actual de tarjetas regalo devuelve un código de estado 200 OK al añadir o eliminar créditos, aunque la tarjeta esté inactiva.'
+title: "La ruta /transaction del sistema actual de tarjetas regalo devuelve un código de estado 200 OK al añadir o eliminar créditos, aunque la tarjeta esté inactiva."
 id: 4d5oeiLIvxLqmA1uHtZmrw
 status: PUBLISHED
 createdAt: 2023-04-24T20:31:14.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-current-gift-card-systems-transaction-route-returns-a-200-ok-status-code-when-adding-or-removing-credits-even-if-the-card-is-inactive
+slugEN: la-ruta-transaction-del-sistema-actual-de-tarjetas-regalo-devuelve-un-codigo-de-estado-200-ok-al-anadir-o-eliminar-creditos-aunque-la-tarjeta-este-inactiva
 locale: es
 kiStatus: Backlog
 internalReference: 795997
@@ -18,7 +18,9 @@ internalReference: 795997
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, nuestro sistema de tarjetas regalo no incluye una comprobación para verificar si una tarjeta regalo está activa antes de añadir o eliminar créditos. Aunque esta ruta solo afecta a la realización de transacciones con tarjetas regalo, es la única forma de hacerlo, por lo que se espera que se realice alguna validación.

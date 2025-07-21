@@ -1,5 +1,5 @@
 ---
-title: 'Buscacep no funciona en la creación del formulario GiftList.'
+title: "Buscacep no funciona en la creación del formulario GiftList."
 id: 3VRPSO1wYFX5XWrpTSD78X
 status: PUBLISHED
 createdAt: 2022-11-02T13:00:43.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: buscacep-not-working-in-create-giftlist-form
+slugEN: buscacep-no-funciona-en-la-creacion-del-formulario-giftlist
 locale: es
 kiStatus: No Fix
 internalReference: 342418
@@ -18,7 +18,9 @@ internalReference: 342418
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

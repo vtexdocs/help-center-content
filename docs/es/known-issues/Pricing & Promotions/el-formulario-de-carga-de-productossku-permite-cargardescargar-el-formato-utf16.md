@@ -1,5 +1,5 @@
 ---
-title: 'El formulario de carga de productos/SKU permite cargar/descargar el formato UTF-16'
+title: "El formulario de carga de productos/SKU permite cargar/descargar el formato UTF-16"
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: productsku-upload-form-allows-utf16-format-uploaddownload
+slugEN: el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16
 locale: es
 kiStatus: No Fix
 internalReference: 493402
@@ -18,7 +18,9 @@ internalReference: 493402
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, si un usuario intenta cargar una lista de SKU en el formulario de promoción habitual utilizando un archivo .txt, si el archivo cargado está en el formato de codificación UTF-16, también lo estará el archivo descargado después.

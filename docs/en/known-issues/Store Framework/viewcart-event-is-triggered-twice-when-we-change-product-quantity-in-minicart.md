@@ -1,5 +1,5 @@
 ---
-title: 'view_cart event is triggered twice when we change product quantity in minicart'
+title: "view_cart event is triggered twice when we change product quantity in minicart"
 id: 3NlB10z0ulKu7sySxPgkmp
 status: PUBLISHED
 createdAt: 2024-05-28T20:13:35.657Z

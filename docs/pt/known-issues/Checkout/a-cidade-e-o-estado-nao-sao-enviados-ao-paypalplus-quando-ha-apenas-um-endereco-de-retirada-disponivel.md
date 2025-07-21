@@ -1,5 +1,5 @@
 ---
-title: 'A cidade e o estado não são enviados ao PayPalPlus quando há apenas um endereço de retirada disponível'
+title: "A cidade e o estado não são enviados ao PayPalPlus quando há apenas um endereço de retirada disponível"
 id: 5ScWTMLqT9oBMUYFc6WGo2
 status: PUBLISHED
 createdAt: 2023-06-01T13:47:08.477Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: city-and-state-are-not-sent-to-paypalplus-when-there-is-only-pickup-address-available
+slugEN: a-cidade-e-o-estado-nao-sao-enviados-ao-paypalplus-quando-ha-apenas-um-endereco-de-retirada-disponivel
 locale: pt
 kiStatus: Fixed
 internalReference: 836025
@@ -18,7 +18,9 @@ internalReference: 836025
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os campos "cidade" e "estado" não são enviados ao PayPalPlus quando o comprador adiciona apenas um endereço de retirada ao carrinho, fazendo com que a forma de pagamento não seja carregada.

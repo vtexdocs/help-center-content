@@ -18,8 +18,10 @@ El sistema de suscripción de VTEX fue creado para facilitar las ventas recurren
 
 El cliente indica con qué frecuencia desea repetir la compra de un SKU particular y el sistema repite automáticamente el pedido de compra de acuerdo con el período programado, al que llamamos «ciclo de suscripción».
 
-En el Admin VTEX, en **Pedidos > Suscripciones**, hay una pestaña de [Dashboards](https://help.vtex.com/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#dashboard) para el seguimiento y supervisión de las «Suscripciones» existentes y una pestaña de [Configuraciones](https://help.vtex.com/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#configuraciones) de pedidos. La suscripción solo aparece en la lista después de que se aprueba el primer pago del cliente.
+En el Admin VTEX, en **Pedidos > Suscripciones**, hay una pestaña de [Dashboards](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#dashboard) para el seguimiento y supervisión de las «Suscripciones» existentes y una pestaña de [Configuraciones](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#configuraciones) de pedidos. La suscripción solo aparece en la lista después de que se aprueba el primer pago del cliente.
 
->⚠️ Actualmente, solo los pedidos realizados con **tarjeta de crédito** permiten suscripciones. Active todas las condiciones de tarjeta de crédito ya definidas para [compras recurrentes](https://help.vtex.com/es/tutorial/configurar-recorrencia-em-condicoes-de-pagamento--6EGuoAytLqU2CqUuaI2GUW) en sus métodos de pago. Además, su conector de pago debe aceptar pagos recurrentes. Póngase en contacto con el adquirente de su tienda y corrobore que este acepta transacciones de compras recurrentes cuyo origen sea tarjetas tokenizadas (sin código CVV).
+<div class="alert alert-warning">
+Actualmente, solo los pedidos realizados con <strong>tarjeta de crédito</strong> permiten suscripciones. Active todas las condiciones de tarjeta de crédito ya definidas para <a href="https://help.vtex.com/es/tutorial/configurar-recorrencia-em-condicoes-de-pagamento--6EGuoAytLqU2CqUuaI2GUW">compras recurrentes</a> en sus métodos de pago. Además, su conector de pago debe aceptar pagos recurrentes. Póngase en contacto con el adquirente de su tienda y corrobore que este acepta transacciones de compras recurrentes cuyo origen sea tarjetas tokenizadas (sin código CVV).
+</div>
 
-Vea más instrucciones en el artículo [Cómo configurar Suscripciones en su tienda](https://help.vtex.com/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
+Vea más instrucciones en el artículo [Cómo configurar Suscripciones en su tienda](/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).

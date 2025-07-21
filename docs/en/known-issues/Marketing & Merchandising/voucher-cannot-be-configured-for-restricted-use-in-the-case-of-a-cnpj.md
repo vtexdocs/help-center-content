@@ -1,5 +1,5 @@
 ---
-title: 'Voucher cannot be configured for restricted use in the case of a CNPJ'
+title: "Voucher cannot be configured for restricted use in the case of a CNPJ"
 id: 4k3FdaYP3WUqYsAeUSGY22
 status: PUBLISHED
 createdAt: 2017-04-11T21:26:42.491Z

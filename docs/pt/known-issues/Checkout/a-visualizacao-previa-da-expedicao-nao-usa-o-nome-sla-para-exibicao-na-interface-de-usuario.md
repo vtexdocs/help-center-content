@@ -1,5 +1,5 @@
 ---
-title: 'A visualização prévia da expedição não usa o nome SLA para exibição na interface de usuário'
+title: "A visualização prévia da expedição não usa o nome SLA para exibição na interface de usuário"
 id: 6v7vh0CSUfpiF04brZ0bgb
 status: PUBLISHED
 createdAt: 2022-05-06T20:46:38.910Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-does-not-use-sla-name-for-display-in-ui
+slugEN: a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario
 locale: pt
 kiStatus: No Fix
 internalReference: 574651
@@ -18,7 +18,9 @@ internalReference: 574651
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

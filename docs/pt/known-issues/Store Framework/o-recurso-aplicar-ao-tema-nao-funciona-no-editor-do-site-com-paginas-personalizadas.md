@@ -1,5 +1,5 @@
 ---
-title: 'O recurso Aplicar ao tema não funciona no Editor do site com páginas personalizadas'
+title: "O recurso Aplicar ao tema não funciona no Editor do site com páginas personalizadas"
 id: 5YkawaripXbohnZD04rj3O
 status: PUBLISHED
 createdAt: 2022-05-17T17:52:12.501Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: the-apply-to-the-theme-feature-doesnt-work-on-the-site-editor-with-custom-pages
+slugEN: o-recurso-aplicar-ao-tema-nao-funciona-no-editor-do-site-com-paginas-personalizadas
 locale: pt
 kiStatus: Backlog
 internalReference: 580543
@@ -18,7 +18,9 @@ internalReference: 580543
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

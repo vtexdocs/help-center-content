@@ -1,5 +1,5 @@
 ---
-title: 'Unexpected behavior in slider layout when using the props infinite=true and navigationStep=1'
+title: "Unexpected behavior in slider layout when using the props infinite=true and navigationStep=1"
 id: 2uSG9sqj32yL3wHt0SUnOO
 status: PUBLISHED
 createdAt: 2022-02-01T19:49:07.658Z

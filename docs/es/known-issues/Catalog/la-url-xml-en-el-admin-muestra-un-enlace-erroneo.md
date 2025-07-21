@@ -1,5 +1,5 @@
 ---
-title: 'La URL XML en el admin muestra un enlace erróneo'
+title: "La URL XML en el admin muestra un enlace erróneo"
 id: 2INFcpo4UriIfAndQbXxwD
 status: PUBLISHED
 createdAt: 2022-01-21T14:39:16.879Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-url-on-the-admin-showing-wrong-link
+slugEN: la-url-xml-en-el-admin-muestra-un-enlace-erroneo
 locale: es
 kiStatus: Backlog
 internalReference: 407528
@@ -18,7 +18,9 @@ internalReference: 407528
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A veces podemos ver un enlace erróneo al XML en el admin de XML (`/admin/Site/Xml.aspx`)

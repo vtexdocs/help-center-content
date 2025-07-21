@@ -1,5 +1,5 @@
 ---
-title: 'A IU CRM/masterdata não está apagando documentos mesmo com a mensagem de sucesso'
+title: "A IU CRM/masterdata não está apagando documentos mesmo com a mensagem de sucesso"
 id: 68de6QDUomjPPDXf9P14c3
 status: PUBLISHED
 createdAt: 2023-03-27T20:03:54.217Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message
+slugEN: a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso
 locale: pt
 kiStatus: No Fix
 internalReference: 699374
@@ -18,7 +18,9 @@ internalReference: 699374
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A IU CRM não está apagando documentos, embora a mensagem de sucesso seja mostrada.

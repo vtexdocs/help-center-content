@@ -1,5 +1,5 @@
 ---
-title: ' Totalizador de resultados de búsqueda y filtros presentando valor equivocado'
+title: "Totalizador de resultados de búsqueda y filtros presentando valor equivocado"
 id: 62FJLXM5ckM8sqYUIQg0C4
 status: PUBLISHED
 createdAt: 2017-12-22T16:50:30.032Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: search-result-totalizer-and-filters-showing-wrong-value
+slugEN: totalizador-de-resultados-de-busqueda-y-filtros-presentando-valor-equivocado
 locale: es
 kiStatus: Backlog
 internalReference: 
@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumario
 
->⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+<div class = "alert alert-warning">
+  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+</div>
 
 Al realizar cualquier tipo de búsqueda (categoría, marca, término, etc.), el control searchNavigator muestra todos los filtros posibles para el resultado, generalmente en el lateral. En el lado de cada filtro, el sistema muestra el totalizador. Esa es la cantidad de productos que existen para cada opción. Eventualmente, este totalizador no presenta un valor correcto y al hacer clic en la opción, el resultado muestra más o menos productos que la cantidad indicada en el filtro.
 

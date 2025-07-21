@@ -1,5 +1,5 @@
 ---
-title: 'Opções de montagem sendo ignoradas quando selecionadas no PDP e adicionadas ao carrinho'
+title: "Opções de montagem sendo ignoradas quando selecionadas no PDP e adicionadas ao carrinho"
 id: 2u0qbC98EK6vPskprYOsnd
 status: PUBLISHED
 createdAt: 2023-01-31T16:00:13.354Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: assembly-options-being-ignored-when-selected-on-pdp-and-adding-to-cart
+slugEN: opcoes-de-montagem-sendo-ignoradas-quando-selecionadas-no-pdp-e-adicionadas-ao-carrinho
 locale: pt
 kiStatus: Fixed
 internalReference: 743529
@@ -18,7 +18,9 @@ internalReference: 743529
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em uma opção de montagem PDP, quando o usuário seleciona diferentes quantidades para um único item e vai para o carrinho de compras, a seleção é ignorada e as quantidades são redefinidas para a quantidade inicial. Mas se o usuário aumenta, para **todos** os itens, em 1 quantidade pelo menos a seleção é persistida.

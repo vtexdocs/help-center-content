@@ -1,5 +1,5 @@
 ---
-title: 'Peso cadastrado no kit via API não é visível na interface'
+title: "Peso cadastrado no kit via API não é visível na interface"
 id: 3pXAznG51YoUquomEmaeUi
 status: PUBLISHED
 createdAt: 2018-08-06T22:31:30.571Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: weight-registered-in-the-kit-via-api-is-not-visible-in-the-interface
+slugEN: peso-cadastrado-no-kit-via-api-nao-e-visivel-na-interface
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -3,7 +3,7 @@ title: 'Account management'
 id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2024-11-26T21:55:29.577Z
+updatedAt: 2025-07-21T21:31:53.115Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -13,12 +13,11 @@ locale: en
 ## Access control
 
 - [Roles](https://help.vtex.com/en/docs/tutorials/roles)
-- [Telesales toolbar](https://help.vtex.com/en/docs/tutorials/telesales-toolbar)
-- [How to create a financial role?](https://help.vtex.com/en/docs/tutorials/how-to-create-a-financial-access-profile)
+- [Creating roles](https://help.vtex.com/en/docs/tutorials/creating-roles)
 - [Predefined roles](https://help.vtex.com/en/docs/tutorials/predefined-roles)
 - [License Manager resources](https://help.vtex.com/en/docs/tutorials/license-manager-resources)
-- [Access control](https://help.vtex.com/en/docs/tutorials/access-control)
-- [Creating roles](https://help.vtex.com/en/docs/tutorials/creating-roles)
+- [Creating a financial role](https://help.vtex.com/en/docs/tutorials/creating-a-financial-access-profile)
+- [Telesales toolbar](https://help.vtex.com/en/docs/tutorials/telesales-toolbar)
 
 ## Users
 

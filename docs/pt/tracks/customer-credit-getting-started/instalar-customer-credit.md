@@ -14,7 +14,7 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugPT: customer-credit-como-comecar
 ---
 
-Nesta track você encontra o passo a passo para instalar e configurar a app Customer Credit. Para mais informações sobre esta app, acesse [Customer Credit - Visão geral](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0).
+Nesta track você encontra o passo a passo para instalar e configurar a app Customer Credit. Para mais informações sobre esta app, acesse [Customer Credit - Visão geral](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0).
 
 Para instalar o Customer Credit em sua loja, siga os passos abaixo:
 

@@ -1,5 +1,5 @@
 ---
-title: "[Ordens que estão em 'Aguardando Autorização para Despacho' na VTEX, mas que ainda estão 'gastando_de-pagamento' na Dafiti."
+title: '[Ordens que estão em "Aguardando Autorização para Despacho" na VTEX, mas que ainda estão "gastando_de-pagamento" na Dafiti.'
 id: 6XbDr2QRAtk0bVAeywagjq
 status: PUBLISHED
 createdAt: 2022-12-20T13:14:31.368Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: dafiti-orders-that-are-in-awaiting-authorization-to-dispatch-at-vtex-but-are-still-paymentpending-at-dafiti
+slugEN: ordens-que-estao-em-aguardando-autorizacao-para-despacho-na-vtex-mas-que-ainda-estao-gastandodepagamento-na-dafiti
 locale: pt
 kiStatus: Fixed
 internalReference: 719606
@@ -18,7 +18,9 @@ internalReference: 719606
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ordens que estão em `"Aguardando Autorização para Despachar" `na VTEX, mas que ainda estão `"pagando_dependendo" `na Dafiti.

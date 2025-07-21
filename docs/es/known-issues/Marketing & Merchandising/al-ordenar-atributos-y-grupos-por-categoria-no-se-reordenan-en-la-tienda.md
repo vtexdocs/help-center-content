@@ -1,5 +1,5 @@
 ---
-title: 'Al ordenar atributos y grupos por categoría, no se reordenan en la tienda'
+title: "Al ordenar atributos y grupos por categoría, no se reordenan en la tienda"
 id: 1oWkNKBfrWMmKSWOeeGikO
 status: PUBLISHED
 createdAt: 2017-12-18T17:08:46.708Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: attributes-and-groups-organized-by-category-are-not-reorganized-in-the-store
+slugEN: al-ordenar-atributos-y-grupos-por-categoria-no-se-reordenan-en-la-tienda
 locale: es
 kiStatus: Backlog
 internalReference: 

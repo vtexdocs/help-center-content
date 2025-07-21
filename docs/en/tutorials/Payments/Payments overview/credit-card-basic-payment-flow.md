@@ -27,6 +27,8 @@ This article aims to explain how the basic flow of a __credit card__ payment wor
 
 With the response from the issuing bank, the reverse flow is performed and the __Payment Gateway__ receives the information if the payment has been approved or denied.
 
->ℹ️ You can include the **Anti-Fraud** in this stream. In such case, the anti-fraud receives the gateway information that the payment was pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial as response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order may continue its normal flow.
+<div class="alert alert-info">
+You can include the <strong>Anti-Fraud</strong> in this stream. In such case, the anti-fraud receives the gateway information that the payment was pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial as response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order may continue its normal flow.
+</div>
 
 

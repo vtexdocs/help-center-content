@@ -1,5 +1,5 @@
 ---
-title: 'El registro estatal no se completa tras aprobar la solicitud de organización'
+title: "El registro estatal no se completa tras aprobar la solicitud de organización"
 id: 7uUdlnXhfaaylNQNpIy3vE
 status: PUBLISHED
 createdAt: 2023-05-12T20:03:31.153Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: state-registration-is-not-filled-after-approving-the-organization-request
+slugEN: el-registro-estatal-no-se-completa-tras-aprobar-la-solicitud-de-organizacion
 locale: es
 kiStatus: Fixed
 internalReference: 825127
@@ -18,7 +18,9 @@ internalReference: 825127
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El campo Registro de Estado no se rellena después de aprobar la Solicitud de Organización en el admin.

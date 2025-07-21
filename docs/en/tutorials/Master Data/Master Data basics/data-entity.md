@@ -23,12 +23,13 @@ For example, imagine a system that controls a library. This system controls book
 
 With these concepts in mind, you can set up several data control scenarios in Master Data. By default, the following data entities are considered: customer, address, stores, etc. You can create as many data entities as you want to develop a customized environment tailored to your store's needs.
 
->⚠️ This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more:
->
-> * [Master Data version features](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#available-versions)
->
-> * [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)
-> 	
+<div class="alert alert-warning">
+<p>This article outlines the Master Data v1 operation. You should evaluate which Master Data version meets your needs or is in use in your operation. Learn more:</p>
+	<ul>
+    	<li><a href="https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#available-versions">Master Data version features</a></li>
+    	<li><a href="https://developers.vtex.com/docs/guides/master-data-v2-basics">Master Data v2</a></li>
+	</ul>
+</div>
 
 ## Data types
 
@@ -105,4 +106,6 @@ Follow the steps below to configure a new data entity.
 21. Click the **Applications** tab to return to the Master Data homepage.  
 22. Click the `Reload Applications` button.
 
->ℹ️ After creating the data entity, [create the form for adding, changing, and displaying data in Master Data](https://help.vtex.com/en/tutorial/creating-form-in-master-data--tutorials_1047).
+<div class="alert alert-info">
+	<p>After creating the data entity, <a href="https://help.vtex.com/en/tutorial/creating-form-in-master-data--tutorials_1047">create the form for adding, changing, and displaying data in Master Data</a>.</p>
+</div>

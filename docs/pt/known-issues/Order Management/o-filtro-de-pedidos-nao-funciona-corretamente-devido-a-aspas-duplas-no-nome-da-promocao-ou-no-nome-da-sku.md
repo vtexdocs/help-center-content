@@ -1,5 +1,5 @@
 ---
-title: "O filtro de pedidos não funciona corretamente devido a aspas duplas (') no nome da promoção ou no nome da SKU"
+title: 'O filtro de pedidos não funciona corretamente devido a aspas duplas (") no nome da promoção ou no nome da SKU'
 id: 4Qm0akQTQXR8sSbkTDiBL7
 status: PUBLISHED
 createdAt: 2024-06-06T15:42:19.747Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-filter-doesnt-work-properly-due-to-double-quotes-in-the-promotion-name-or-sku-name
+slugEN: o-filtro-de-pedidos-nao-funciona-corretamente-devido-a-aspas-duplas-no-nome-da-promocao-ou-no-nome-da-sku
 locale: pt
 kiStatus: Backlog
 internalReference: 1045623
@@ -18,7 +18,9 @@ internalReference: 1045623
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o sistema de filtro de pedidos não retorna os pedidos com promoções que contenham aspas duplas `"` em seus nomes, o que também se aplica ao nome da SKU.

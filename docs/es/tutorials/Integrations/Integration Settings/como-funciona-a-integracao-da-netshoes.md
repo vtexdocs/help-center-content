@@ -42,7 +42,7 @@ La integración envía producto, inventario y precios en entidades separadas. Un
 
 **Con asterisco están los campos obligatorios.*
 
-*¹ Algunas especificaciones son obligatorias. Para saber más, [haga clic aquí](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#otras-especificaciones). *
+*¹ Algunas especificaciones son obligatorias. Para saber más, [haga clic aquí](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#otras-especificaciones). *
 
 Las especificaciones se envían si están conforme los valores esperados por Netshoes. Es decir, al enviar un producto, la integración explora sus especificaciones y, si encuentra alguna que coincida con el valor esperado por la categoría del producto en Netshoes, envía la especificación. Si la especificación no tiene el valor esperado, la integración no la envía.
 
@@ -54,7 +54,9 @@ Al ser enviados con éxito por primera vez, Netshoes recibe los productos y real
 
 _`Ej:` si se cambia la descripción del producto, la integración no actualizará la descripción que se encuentra en el marketplace._
 
->⚠️ Nota: el producto no se puede borrar en el panel de Netshoes, porque así no podría ser enviado por la integración de nuevo.
+<div class="alert alert-warning">
+Nota: el producto no se puede borrar en el panel de Netshoes, porque así no podría ser enviado por la integración de nuevo.
+</div>
 
 En Netshoes, los productos tienen dos status posibles:
 - __Activo:__ disponible para la venta
@@ -64,17 +66,19 @@ Allí ellos se agrupan por un producto que tiene diversas variaciones/SKUs.
 
 _`Ej:` Camisa Azul (producto) | P, M, G (variaciones/SKUs)_
 
-La categoría se envía de acuerdo con el Departamento rellenado en la [planilla de mapeo](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+La categoría se envía de acuerdo con el Departamento rellenado en la [planilla de mapeo](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
 
 ## 2 - Inventario
 
 Netshoes sólo acepta recibir los inventarios para productos que ya se han enviado con éxito. Antes de esto, los envíos de inventario son rechazados. 
 
-Una vez que el proceso de catalogación es finalizado en Netshoes, la integración envía automáticamente los inventarios de los productos, siempre que la __API de Notificación de Productos Aprobados__ esté configurada ([sepa más aquí](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-notificacion-de-productos-aprobados).
+Una vez que el proceso de catalogación es finalizado en Netshoes, la integración envía automáticamente los inventarios de los productos, siempre que la __API de Notificación de Productos Aprobados__ esté configurada ([sepa más aquí](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-notificacion-de-productos-aprobados).
 
 Una vez que los productos reciben la primera carga de inventario, la actualización se realiza SKU por SKU cada vez que se produce algún cambio de stock en VTEX.
 
->⚠️ **Nota:** los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo **3 meses**.
+<div class="alert alert-warning">
+<strong>Nota:</strong> los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo <strong>3 meses</strong>.
+</div>
 
 ## 3 - Precios
 
@@ -90,11 +94,11 @@ _`Ej1:` promoción del 10% de descuento para una categoría determinada_
 
 _`Ej2:` SKU X está con precio de $ 10,00 en la política comercial usada en Netshoes y tiene un precio fijo de $ 15,00 para esa misma política. La integración enviará el precio de $ 15,00._
 
->⚠️ Nota: Como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por él. Por eso, no conseguimos enviar precios diferenciados en función de la forma de pago.
->
->
-> 
-> *Ej: si en VTEX existen intereses configurados para pagos parcelados, el precio enviado todavía será lo que la simulación de fulfillment devuelve.*
+<div class="alert alert-warning">
+Nota: Como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por él. Por eso, no conseguimos enviar precios diferenciados en función de la forma de pago.
+<br />
+<em>Ej: si en VTEX existen intereses configurados para pagos parcelados, el precio enviado todavía será lo que la simulación de fulfillment devuelve.</em>
+</div>
 
 ## 4 - Promociones
 
@@ -109,7 +113,9 @@ Sólo se aplican promociones que se pueden calcular en la simulación de fulfill
 | Envío Máximo | - | Tipo de Envío |
 | Envío Gratis | - | - |
 
->ℹ️ No es posible aplicar **ninguna condición** en las promociones cuyos campos se completaron como **-**, es decir, no se contemplará ninguna condición en la integración.
+<div class="alert alert-info">
+No es posible aplicar <strong>ninguna condición</strong> en las promociones cuyos campos se completaron como <strong>-</strong>, es decir, no se contemplará ninguna condición en la integración.
+</div>
 
 ## 5 - Flujo de Pedidos
 
@@ -121,23 +127,19 @@ Cuando un pedido se hace en el marketplace hay algunos puntos que influencian en
 
 En esta integración existen dos puntos que influenciarán en la entrega: __Cálculo del envío__ y el __Tiempo de Preparación de Envío__. La suma de los dos será el __Tiempo de Entrega Total__.
 
->ℹ️ Ej:
->
->
-> 
-> Envío normal = 3 días
->
->
-> 
-> Tiempo de Costo = 2 días
->
->
-> 
-> Tiempo Total de Entrega = 5 días
+<div class="alert alert-info">
+Ej:
+<br />
+Envío normal = 3 días
+<br />
+Tiempo de Costo = 2 días
+<br />
+Tiempo Total de Entrega = 5 días
+</div>
 
 - __Envío__
 
-En el momento del pedido, de forma predeterminada, Netshoes consulta la tabla de flete registrada en VTEX y nosotros les devolvemos las opciones de flete. Es importante destacar que para que sea posible realizar la consulta, es necesario registrar la [API de envío](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-flete) en el panel de Netshoes.
+En el momento del pedido, de forma predeterminada, Netshoes consulta la tabla de flete registrada en VTEX y nosotros les devolvemos las opciones de flete. Es importante destacar que para que sea posible realizar la consulta, es necesario registrar la [API de envío](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-flete) en el panel de Netshoes.
 
 La tienda tiene también la posibilidad de registrar en Netshoes una __tabela de contingencia__. De esta forma, si por alguna casualidad la integración no consigue consultar el envío en VTEX o la API de Envío no está registrada en su panel, Netshoes utiliza las informaciones de esta tabla. En este caso, Netshoes nos envía el pedido y la integración intenta hacer un *match* del envío calculado con la transportista que más se adecua en VTEX (usamos el __tipo__ de transportista como parámetro). 
 
@@ -147,78 +149,46 @@ Si la integración no puede encontrar un tipo de transportista igual, nosotros i
 
 El tiempo de preparación de envío se basa en la suma del campo `Tiempo de coste` en el Inventario con el `Tiempo de Coste` en el muelle. Y enviamos el mismo tiempo de preparación de forma masiva para todos los productos.
 
->ℹ️ Ej:
->
->
-> 
-> **Inventario A**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 3 días
->
->
-> 
-> **Inventario B**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 5 días
->
->
-> 
->
->
-> 
-> **Muelle 1:**
->
->
-> 
-> - Tiempo de Costo = 2 días
->
->
-> 
->
->
-> 
-> Un pedido con tiempo de envío = 3 días se quedará con un total de entrega diferente dependiendo de dónde salga el producto.
->
->
-> 
->
->
-> 
-> **Saliendo del inventario A:**
->
->
-> 
-> - Tiempo de preparación = 3 + 2 (muelle 1) = 5 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 8 días
->
->
-> 
-> **Saliendo del inventario B:**
->
->
-> 
-> - Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 10 días
+<div class="alert alert-info">
+Ej:
+<br />
+<strong>Inventario A</strong>
+<br />
+- Muelle 1: Tiempo de Costo = 3 días
+<br />
+<strong>Inventario B</strong>
+<br />
+- Muelle 1: Tiempo de Costo = 5 días
+<br />
+<br />
+<strong>Muelle 1:</strong>
+<br />
+- Tiempo de Costo = 2 días
+<br />
+<br />
+Un pedido con tiempo de envío = 3 días se quedará con un total de entrega diferente dependiendo de dónde salga el producto.
+<br />
+<br />
+<strong>Saliendo del inventario A:</strong>
+<br />
+- Tiempo de preparación = 3 + 2 (muelle 1) = 5 días
+<br />
+- Tiempo de envío = 3 días
+<br />
+- Tiempo total de entrega = 8 días
+<br />
+<strong>Saliendo del inventario B:</strong>
+<br />
+- Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
+<br />
+- Tiempo de envío = 3 días
+<br />
+- Tiempo total de entrega = 10 días
+</div>
 
->⚠️ Nota: En el caso de usar la tabla de contingencia para hacer el cálculo del envío, Netshoes no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el **Tiempo total de entrega** será el **envío** proporcionado por ellos, ignorando el **Tiempo de preparación**. Se debe tener cuidado con esto, porque puede generar divergencias en el **Tiempo total de entrega**.
+<div class="alert alert-warning">
+Nota: En el caso de usar la tabla de contingencia para hacer el cálculo del envío, Netshoes no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el <strong>Tiempo total de entrega</strong> será el <strong>envío</strong> proporcionado por ellos, ignorando el <strong>Tiempo de preparación</strong>. Se debe tener cuidado con esto, porque puede generar divergencias en el <strong>Tiempo total de entrega</strong>.
+</div>
 
 #### Precio/Disponibilidad:
 
@@ -240,7 +210,7 @@ Los pedidos en Netshoes disponen de los propios estatus. Sigue una explicación 
 
 <br />
 
-Netshoes notifica a VTEX a través de la __API de Importación de Pedidos__ [(configure ahora esta API!)](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-importacion-de-pedidos) cada vez que un pedido se realiza en su plataforma, y entonces intentamos integrarlo. 
+Netshoes notifica a VTEX a través de la __API de Importación de Pedidos__ [(configure ahora esta API!)](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-importacion-de-pedidos) cada vez que un pedido se realiza en su plataforma, y entonces intentamos integrarlo. 
 
 Aunque la API no está registrada, VTEX lee un feed de pedidos en Netshoes para asegurarse de que no haya pedidos perdidos! Pero de todas maneras sugerimos que la API sea catastrada, pues garantiza mucho más rapidez para integrar los pedidos, reduciendo posibilidades de ruptura en el stock.
 
@@ -276,4 +246,4 @@ Al facturar el pedido en VTEX, la integración actualiza el status en Netshoes a
   - `trackingNumber`, `trackingUrl` y `courier`
 
 - Para cambiar el status a __delivered__ será necesario:
-  - `courierStatus`: este es un campo que puede ser populado automáticamente (vía [actualizaciones de rastreo de los propios transportistas](https://help.vtex.com/es/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manualmente (vía API o interfaz del OMS).
+  - `courierStatus`: este es un campo que puede ser populado automáticamente (vía [actualizaciones de rastreo de los propios transportistas](/es/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manualmente (vía API o interfaz del OMS).

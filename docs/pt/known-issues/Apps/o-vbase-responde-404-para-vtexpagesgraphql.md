@@ -1,5 +1,5 @@
 ---
-title: 'O VBase responde 404 para vtex.pages-graphql'
+title: "O VBase responde 404 para vtex.pages-graphql"
 id: 1uoRka5Jwkvk5EQhmffyMO
 status: PUBLISHED
 createdAt: 2023-05-09T13:50:40.063Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
-slugEN: vbase-responds-404-to-vtexpagesgraphql
+slugEN: o-vbase-responde-404-para-vtexpagesgraphql
 locale: pt
 kiStatus: Backlog
 internalReference: 822031
@@ -18,7 +18,9 @@ internalReference: 822031
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O VBase está respondendo 404 para o aplicativo vtex.pages-graphql instalado na conta, por algum motivo, o aplicativo não está sendo encontrado e, como consequência, o comprador será afetado por não conseguir acessar um produto ou uma página específica na loja. Esse erro 404 é armazenado em cache por 2 horas, portanto, o problema normalmente é interrompido após o término do cache. O problema é intermitente e ainda não conseguimos descobrir o motivo pelo qual ele está ocorrendo.

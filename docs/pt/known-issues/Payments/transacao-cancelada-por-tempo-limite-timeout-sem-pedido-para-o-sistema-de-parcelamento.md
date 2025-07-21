@@ -1,5 +1,5 @@
 ---
-title: "Transação cancelada por tempo limite: 'Timeout sem pedido para o Sistema de Parcelamento'."
+title: 'Transação cancelada por tempo limite: "Timeout sem pedido para o Sistema de Parcelamento".'
 id: 68L2ka1QJ3yEHTsId1arF7
 status: PUBLISHED
 createdAt: 2022-03-02T12:15:17.495Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: transaction-canceled-by-timeout-timeout-no-request-para-o-sistema-de-parcelamento
+slugEN: transacao-cancelada-por-tempo-limite-timeout-sem-pedido-para-o-sistema-de-parcelamento
 locale: pt
 kiStatus: Backlog
 internalReference: 533844
@@ -18,7 +18,9 @@ internalReference: 533844
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Não pode criar pedidos com promoções aplicadas na camada de mercado a um vendedor sob o comportamento multinível'
+title: "Não pode criar pedidos com promoções aplicadas na camada de mercado a um vendedor sob o comportamento multinível"
 id: 8X5ut0NZnHJJbsrZqRxps
 status: PUBLISHED
 createdAt: 2021-12-17T17:58:11.823Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cant-create-orders-with-promotions-applied-on-the-marketplace-layer-to-a-seller-under-the-multilevel-behavior
+slugEN: nao-pode-criar-pedidos-com-promocoes-aplicadas-na-camada-de-mercado-a-um-vendedor-sob-o-comportamento-multinivel
 locale: pt
 kiStatus: Fixed
 internalReference: 446938
@@ -18,7 +18,9 @@ internalReference: 446938
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não é possível concluir compras onde o mercado está aplicando promoções a itens de vendedores que estão sob comportamento multinível. O cliente verá uma mensagem de erro genérica.

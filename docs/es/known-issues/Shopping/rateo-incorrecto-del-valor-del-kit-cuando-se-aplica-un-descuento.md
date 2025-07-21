@@ -1,5 +1,5 @@
 ---
-title: 'Rateo incorrecto del valor del kit cuando se aplica un descuento'
+title: "Rateo incorrecto del valor del kit cuando se aplica un descuento"
 id: mZLhWgjrvEa0eISE4syUE
 status: PUBLISHED
 createdAt: 2017-04-06T17:27:01.147Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-apportionment-of-kit-value-when-discount-is-applied
+slugEN: rateo-incorrecto-del-valor-del-kit-cuando-se-aplica-un-descuento
 locale: es
 kiStatus: Backlog
 internalReference: 

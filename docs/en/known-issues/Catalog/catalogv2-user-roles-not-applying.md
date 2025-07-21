@@ -1,5 +1,5 @@
 ---
-title: 'CatalogV2 User Roles not Applying'
+title: "CatalogV2 User Roles not Applying"
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z

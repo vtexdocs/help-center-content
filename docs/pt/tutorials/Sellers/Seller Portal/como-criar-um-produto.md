@@ -32,7 +32,9 @@ O formulário de cadastro de um novo produto contém as seguintes seções:
 *   [SEO](#seo)
 *   [Frente de loja](#frente-de-loja)
 
->ℹ️ Antes de criar um produto, você precisa criar a [Categoria](https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
+<div class="alert alert-info">
+  <p>Antes de criar um produto, você precisa criar a <a href="https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete">Categoria</a> correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.</p>
+</div>
 
 ## Informações Básicas
 
@@ -81,7 +83,9 @@ Para adicionar imagens ao produto, siga o passo a passo abaixo:
 1. Clique no botão **Adicionar imagens** ou solte-as no espaço pontilhado.
 2. Insira todas as imagens do produto, incluindo suas variações, como cor e tamanho. As imagens devem estar no formato JPEG, PNG ou GIF, com até 5MB cada.
 
->⚠️ Recomendamos o uso de imagens com 600px ou mais, para que a exibição da imagem aconteça adequadamente na sua loja.
+<div class="alert alert-warning">
+<p>Recomendamos o uso de imagens com 600px ou mais, para que a exibição da imagem aconteça adequadamente na sua loja.</p>
+</div>
 
 Você pode clicar em uma imagem e arrastá-la para antes ou depois das outras, caso deseje reorganizar as imagens e alterar a ordem de exibição na página do produto, conforme ilustrado abaixo.
 
@@ -128,7 +132,7 @@ Para editar um atributo, selecione o atributo desejado na lista. Para deletar um
 
 ## Informações do SKU
 
-Todo produto precisa ter pelo menos um [SKU](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) cadastrado. Caso seu produto não possua variações e você deseje criar apenas um SKU associado a ele, preencha as informações abaixo diretamente:
+Todo produto precisa ter pelo menos um [SKU](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) cadastrado. Caso seu produto não possua variações e você deseje criar apenas um SKU associado a ele, preencha as informações abaixo diretamente:
 
 *   **Código de referência**: código de referência único criado para ajudar na organização da loja. Não é um item obrigatório.
 *   **EAN/UPC**: código de identificação único do SKU (código de barras), aceita até 13 caracteres numéricos.
@@ -140,7 +144,9 @@ Todo produto precisa ter pelo menos um [SKU](https://help.vtex.com/pt/tutorial/o
 
 Se você desejar criar mais de um SKU, de acordo com as variações possíveis do seu produto, opte por clicar no botão `+ Criar variações`.
 
->⚠️ Ao clicar em `+ Criar variações`, os campos que tiverem sido preenchidos em **Informações do SKU** serão apagados.
+<div class="alert alert-warning">
+  <p>Ao clicar em <code>+ Criar variações</code>, os campos que tiverem sido preenchidos em <b>Informações do SKU</b> serão apagados.</p>
+</div>
 
 O que diferencia os SKUs ou variações do produto entre si são as diversas combinações de especificações possíveis. Exemplo: ao criar o produto _tênis_ e configurar a especificação _cor_ com as opções _rosa_ e _azul_ e a especificação _tamanho_ com as opções _36_ e _37_, os SKUs serão as combinações dessas opções: _tênis rosa 36_, _tênis rosa 37, tênis azul 36_ e _tênis azul 37_.
 
@@ -169,7 +175,9 @@ As especificações que você criou e suas respectivas opções são listadas ne
 
 Você pode alterar informações de cada especificação clicando no botão <i class="fas fa-pencil-alt"></i> na linha de cada uma.
 
->ℹ️ Depois de definir as configurações de especificações do produto, não é possível excluir uma especificação nem adicionar uma nova. Durante a edição, você pode apenas adicionar novos valores para a especificação existente.
+<div class="alert alert-info">
+  <p>Depois de definir as configurações de especificações do produto, não é possível excluir uma especificação nem adicionar uma nova. Durante a edição, você pode apenas adicionar novos valores para a especificação existente.</p>
+</div>
 
 Também é possível clicar no botão **+ Adicionar especificações** para incluir mais especificações.
 
@@ -195,7 +203,9 @@ Ao clicar no botão <i class="fas fa-ellipsis-v"></i>, é possível realizar as 
   * **Adicionar imagens:** neste painel, também é possível fazer upload de novas imagens, clicando no botão `Adicionar imagens` ou soltando arquivos de imagem no espaço pontilhado.
 * **Desativar:** desativar a variação na sua loja. 
 
->⚠️ Caso você adicione especificações após configurar as variações, todas as variações serão recalculadas e terão seus campos redefinidos.
+<div class="alert alert-warning">
+<p>Caso você adicione especificações após configurar as variações, todas as variações serão recalculadas e terão seus campos redefinidos.</p>
+</div>
 
 ### Edição avançada
 

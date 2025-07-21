@@ -1,5 +1,5 @@
 ---
-title: 'Global categories in catalog outdated compared to Google'
+title: "Global categories in catalog outdated compared to Google"
 id: 4vH5NRdMsuZmOohdHFn16H
 status: PUBLISHED
 createdAt: 2023-02-14T19:42:08.121Z

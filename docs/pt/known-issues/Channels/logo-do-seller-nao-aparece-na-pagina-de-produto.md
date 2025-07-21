@@ -1,5 +1,5 @@
 ---
-title: 'Logo do seller não aparece na página de produto'
+title: "Logo do seller não aparece na página de produto"
 id: 1WIIPZibFegYSsKIIscIse
 status: PUBLISHED
 createdAt: 2018-05-08T19:35:42.171Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Portal
-slugEN: sellers-logo-doesnt-appear-on-the-product-page
+slugEN: logo-do-seller-nao-aparece-na-pagina-de-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 

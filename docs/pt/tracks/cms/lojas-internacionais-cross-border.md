@@ -14,7 +14,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---
 
-Uma loja internacional (*cross-border*) é um tipo de [multiloja](https://help.vtex.com/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), o que na VTEX significa uma conta com múltiplos [bindings](https://help.vtex.com/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) (ou vínculos, em português) e diferentes canais de venda para cada uma das suas lojas locais.
+Uma loja internacional (*cross-border*) é um tipo de [multiloja](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), o que na VTEX significa uma conta com múltiplos [bindings](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) (ou vínculos, em português) e diferentes canais de venda para cada uma das suas lojas locais.
 
 As lojas internacionais podem alcançar compradores no mundo inteiro ao oferecer experiências de compra localizadas para os clientes da sua loja. 
 
@@ -48,9 +48,9 @@ Como uma loja internacional pode ter múltiplos bindings e alcançar compradores
 
 ## Artigos relacionados
 
-- [Criar multiloja / multidomínio](https://help.vtex.com/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
+- [Criar multiloja / multidomínio](/pt/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [O que é binding?](https://help.vtex.com/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [O que é binding?](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
 
-- [Como funciona uma Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
 

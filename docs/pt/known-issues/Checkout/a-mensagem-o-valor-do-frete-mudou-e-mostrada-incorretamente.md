@@ -1,5 +1,5 @@
 ---
-title: "A mensagem 'O valor do frete mudou' é mostrada incorretamente"
+title: 'A mensagem "O valor do frete mudou" é mostrada incorretamente'
 id: 6ct93Q2391vEd0JAt0n5RU
 status: PUBLISHED
 createdAt: 2023-03-21T22:28:23.673Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: message-freight-value-has-changed-is-shown-incorrectly
+slugEN: a-mensagem-o-valor-do-frete-mudou-e-mostrada-incorretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 775515
@@ -18,7 +18,9 @@ internalReference: 775515
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao remover um item do carrinho, a mensagem "Valor do frete mudou" é mostrada mesmo que o Total do frete seja o mesmo após a mudança.

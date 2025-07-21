@@ -1,5 +1,5 @@
 ---
-title: 'Error al visualizar el perfil del operador del centro de llamadas (vista restringida de pedidos)'
+title: "Error al visualizar el perfil del operador del centro de llamadas (vista restringida de pedidos)"
 id: 7aKQPtGvzYBaRksiuBa4YJ
 status: PUBLISHED
 createdAt: 2024-11-05T16:34:35.960Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: error-when-viewing-the-call-center-operator-profile-restricted-orders-view
+slugEN: error-al-visualizar-el-perfil-del-operador-del-centro-de-llamadas-vista-restringida-de-pedidos
 locale: es
 kiStatus: Backlog
 internalReference: 1129938
@@ -18,7 +18,9 @@ internalReference: 1129938
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para limitar el acceso de un usuario de televenta a los pedidos creados por el mismo, es necesario dotar al usuario del siguiente perfil "`Operadora de call center (vista restringida de pedidos)`" Sin embargo, al acceder a la pantalla de perfiles observamos que el recurso asociado "`Mostrar sólo pedidos creados por el usuario (vía call center)`" no está seleccionado, lo que da la impresión de que el perfil no cumple con las expectativas, pero al validarlo accediendo al admin con un usuario con este perfil vemos que el comportamiento es correcto, restringiendo el acceso del usuario a los pedidos creados por el mismo.

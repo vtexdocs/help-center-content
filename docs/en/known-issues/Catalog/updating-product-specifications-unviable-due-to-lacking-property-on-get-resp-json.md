@@ -1,5 +1,5 @@
 ---
-title: 'Updating Product Specifications Unviable due to Lacking Property on GET Resp. JSON'
+title: "Updating Product Specifications Unviable due to Lacking Property on GET Resp. JSON"
 id: 6FeuIyF2E5WdS0PNRRzgdA
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:06.720Z

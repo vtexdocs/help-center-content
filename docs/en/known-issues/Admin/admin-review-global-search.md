@@ -1,5 +1,5 @@
 ---
-title: '[admin] review global search'
+title: "[admin] review global search"
 id: 1r83M4ug7WVoF1gb22NMh0
 status: PUBLISHED
 createdAt: 2023-08-29T20:01:07.327Z

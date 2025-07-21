@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistencia en la cantidad de ítems con Assembly options en el carrito'
+title: "Inconsistencia en la cantidad de ítems con Assembly options en el carrito"
 id: ANQ597XM5mK85MhME920Y
 status: PUBLISHED
 createdAt: 2021-09-23T20:34:36.214Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: inconsistency-in-the-quantity-of-items-with-assembly-options-in-the-cart
+slugEN: inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito
 locale: es
 kiStatus: Backlog
 internalReference: 

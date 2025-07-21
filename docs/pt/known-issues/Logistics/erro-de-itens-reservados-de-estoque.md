@@ -1,5 +1,5 @@
 ---
-title: 'Erro de itens reservados de estoque'
+title: "Erro de itens reservados de estoque"
 id: 37cO3T4D0exvOMhStKYds9
 status: PUBLISHED
 createdAt: 2022-05-18T15:13:46.087Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-reserved-items-error
+slugEN: erro-de-itens-reservados-de-estoque
 locale: pt
 kiStatus: Fixed
 internalReference: 347924
@@ -18,7 +18,9 @@ internalReference: 347924
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

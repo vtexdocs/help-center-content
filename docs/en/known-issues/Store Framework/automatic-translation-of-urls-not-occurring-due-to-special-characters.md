@@ -1,5 +1,5 @@
 ---
-title: 'Automatic translation of URLs not occurring due to special characters'
+title: "Automatic translation of URLs not occurring due to special characters"
 id: 7G0WKfFFZxZ7mMEoasePld
 status: PUBLISHED
 createdAt: 2024-07-09T19:45:44.410Z

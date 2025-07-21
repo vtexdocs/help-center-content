@@ -1,5 +1,5 @@
 ---
-title: 'CultureInfo não permite valores com mais de 10 caracteres'
+title: "CultureInfo não permite valores com mais de 10 caracteres"
 id: fI0HXTnXF5suyo5UL68cc
 status: PUBLISHED
 createdAt: 2022-10-12T14:31:58.090Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cultureinfo-does-not-allow-values-longer-than-10-characters
+slugEN: cultureinfo-nao-permite-valores-com-mais-de-10-caracteres
 locale: pt
 kiStatus: Fixed
 internalReference: 667652
@@ -18,7 +18,9 @@ internalReference: 667652
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o campo CultureInfo no registro da política comercial tem uma limitação para valores de 10 caracteres, isto faz com que valores maiores que este gerem um erro SWW ao salvar a política.

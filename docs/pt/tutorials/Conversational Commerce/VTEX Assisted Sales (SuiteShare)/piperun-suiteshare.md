@@ -31,11 +31,13 @@ Com a Piperun podemos ter duas integrações diferentes: **Integração estáti
 
 ## Integração Dinâmica
 
->⚠️ Na integração dinâmica, você envia os leads para um pipeline e estágio específico do seu funil e atribui a um usuário da sua conta PipeRun.
+<div class="alert alert-warning">
+  <p>Na integração dinâmica, você envia os leads para um pipeline e estágio específico do seu funil e atribui a um usuário da sua conta PipeRun.</p>
+</div>
 
 ![Piperun - Suiteshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/piperun-suiteshare_3.png)
 
-Selecione o [link de captura](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje integrar. 
+Selecione o [link de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje integrar. 
 
 ![Piperun - Suiteshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/piperun-suiteshare_4.png)
 
@@ -55,7 +57,9 @@ Clique no botão **Salvar**.
 
 ## Integração Estática 
 
->⚠️ Na integração estática, você envia os leads para um estágio específico do seu funil sem atribuir a nenhum usuário automaticamente.
+<div class="alert alert-warning">
+  <p>Na integração estática, você envia os leads para um estágio específico do seu funil sem atribuir a nenhum usuário automaticamente.</p>
+</div>
 
 ![Piperun - Suiteshare_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/piperun-suiteshare_8.png)
 
@@ -83,7 +87,9 @@ Copie a Hash fornecida pela Piperun. 
 
 ![Piperun - Suiteshare_13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/piperun-suiteshare_14.png)
 
->❗ Para copiar a Hash, é necessário clicar com o botão direito do mouse e selecione a opção copiar.
+<div class="alert alert-danger">
+  <p>Para copiar a Hash, é necessário clicar com o botão direito do mouse e selecione a opção copiar.</p>
+</div>
 
 Você ainda pode definir opcionais para esse lead, por exemplo: de onde ele veio, ou tags para sua identificação. 
 

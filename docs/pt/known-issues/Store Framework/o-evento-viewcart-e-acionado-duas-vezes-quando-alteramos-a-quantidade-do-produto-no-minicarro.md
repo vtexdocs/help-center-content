@@ -1,5 +1,5 @@
 ---
-title: 'O evento view_cart é acionado duas vezes quando alteramos a quantidade do produto no minicarro'
+title: "O evento view_cart é acionado duas vezes quando alteramos a quantidade do produto no minicarro"
 id: 3NlB10z0ulKu7sySxPgkmp
 status: PUBLISHED
 createdAt: 2024-05-28T20:13:35.657Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: viewcart-event-is-triggered-twice-when-we-change-product-quantity-in-minicart
+slugEN: o-evento-viewcart-e-acionado-duas-vezes-quando-alteramos-a-quantidade-do-produto-no-minicarro
 locale: pt
 kiStatus: Fixed
 internalReference: 1040772
@@ -18,7 +18,9 @@ internalReference: 1040772
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando alteramos a quantidade de um produto no minicarro, o evento view_cart é acionado duas vezes

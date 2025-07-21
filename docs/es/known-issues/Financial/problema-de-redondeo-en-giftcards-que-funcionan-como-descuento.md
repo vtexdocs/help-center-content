@@ -1,5 +1,5 @@
 ---
-title: 'Problema de redondeo en giftcards que funcionan como descuento'
+title: "Problema de redondeo en giftcards que funcionan como descuento"
 id: ecLMI2kGhqmEMUkESOSOK
 status: PUBLISHED
 createdAt: 2018-03-27T20:47:13.941Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: authors_84
 tag: Checkout,Order Management
-slugEN: rounding-problem-in-giftcards-that-work-as-discount
+slugEN: problema-de-redondeo-en-giftcards-que-funcionan-como-descuento
 locale: es
 kiStatus: Backlog
 internalReference: 

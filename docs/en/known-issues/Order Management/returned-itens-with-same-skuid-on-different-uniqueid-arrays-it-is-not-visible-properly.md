@@ -1,5 +1,5 @@
 ---
-title: 'Returned Itens with same SkuId on different UniqueId arrays it is not visible properly'
+title: "Returned Itens with same SkuId on different UniqueId arrays it is not visible properly"
 id: 65uUpH4uSicaDzruCIBaTq
 status: PUBLISHED
 createdAt: 2024-06-14T20:48:37.328Z

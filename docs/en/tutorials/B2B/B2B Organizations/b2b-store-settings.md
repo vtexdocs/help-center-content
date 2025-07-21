@@ -3,8 +3,8 @@ title: 'B2B Store Settings'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
-updatedAt: 2024-06-06T16:33:44.798Z
-publishedAt: 2024-06-06T16:33:44.798Z
+updatedAt: 2025-06-16T12:01:28.366Z
+publishedAt: 2025-06-16T12:01:28.366Z
 firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B
@@ -17,8 +17,8 @@ subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 
 On this page, you will see the instructions on how to configure the general settings for your B2B store.
 
-1. 	In your Admin, go to Apps > B2B Organizations & Cost Centers > Organization and click the Settings tab, or search for Settings under B2B Organizations & Cost Centers
-2. 	Configure the General Settings.
+1. In your Admin, go to Apps > B2B Organizations & Cost Centers > Organization and click the Settings tab, or search for Settings under B2B Organizations & Cost Centers
+2. Configure the General Settings.
 
 - **Auto approve new organizations:** Select if you want to approve new organizations automatically.
 - **Make business document ready only:** By selecting this option, the customer will not be able to edit the business document field.

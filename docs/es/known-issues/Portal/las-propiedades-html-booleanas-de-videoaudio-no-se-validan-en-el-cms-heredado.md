@@ -1,5 +1,5 @@
 ---
-title: 'Las propiedades HTML booleanas de vídeo/audio no se validan en el CMS heredado'
+title: "Las propiedades HTML booleanas de vídeo/audio no se validan en el CMS heredado"
 id: 2WjsLZ7vw0KO023rGQd77L
 status: PUBLISHED
 createdAt: 2022-03-16T19:27:06.599Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: boolean-videoaudio-html-properties-not-being-validated-on-legacy-cms
+slugEN: las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado
 locale: es
 kiStatus: No Fix
 internalReference: 491898
@@ -18,7 +18,9 @@ internalReference: 491898
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

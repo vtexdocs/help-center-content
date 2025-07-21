@@ -3,8 +3,8 @@ title: 'Configurar pago con GOcuotas'
 id: 6oGcugCc3pXIJEhbOZ5YmV
 status: PUBLISHED
 createdAt: 2023-09-29T11:30:25.004Z
-updatedAt: 2024-02-05T13:42:55.988Z
-publishedAt: 2024-02-05T13:42:55.988Z
+updatedAt: 2024-12-09T15:15:11.383Z
+publishedAt: 2024-12-09T15:15:11.383Z
 firstPublishedAt: 2023-09-29T11:39:03.239Z
 contentType: tutorial
 productTeam: Financial
@@ -28,12 +28,12 @@ Para configurar GOcuotas, siga los pasos a continuación:
 
 ## Configurar condición de pago
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
-2. En la pantalla de proveedores, haga clic en el botón `Crear proveedor`.
-3. Escriba el nombre __GOcuotas__ en la barra de búsqueda y haga clic en el nombre del proveedor.
-4. Active la condición en el campo __Status__.
-5. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-6. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla **Condiciones de pago**, haga clic en el botón `+`.
+3. Haga clic en **GOcuotas**.
+4. Active la condición en el campo **Status**.
+5. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
+6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, GOcuotas puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

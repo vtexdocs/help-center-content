@@ -1,5 +1,5 @@
 ---
-title: "A não adição de dados na etapa 'entregar em outro endereço' faz com que o botão 'ir para o pagamento' desapareça"
+title: 'A não adição de dados na etapa "entregar em outro endereço" faz com que o botão "ir para o pagamento" desapareça'
 id: cdZO8gGXDB1JZSj42AnVh
 status: PUBLISHED
 createdAt: 2022-01-24T21:42:52.750Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: failure-to-add-data-in-the-deliver-to-another-address-step-causes-the-go-to-payment-button-to-disappear
+slugEN: a-nao-adicao-de-dados-na-etapa-entregar-em-outro-endereco-faz-com-que-o-botao-ir-para-o-pagamento-desapareca
 locale: pt
 kiStatus: Backlog
 internalReference: 467419
@@ -18,7 +18,9 @@ internalReference: 467419
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Durante a etapa de checkout, na etapa de preenchimento dos dados de envio, ao clicar na opção "Entregar em outro endereço", se nenhum endereço for adicionado e o comprador voltar à lista de endereços (usando o botão "voltar ao catálogo de endereços"), o botão "Ir para o pagamento" desaparecerá.

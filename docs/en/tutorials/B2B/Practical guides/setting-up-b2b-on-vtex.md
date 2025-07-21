@@ -27,7 +27,7 @@ See below a description of the settings required for turning an account into B2B
 
 ## Prerequisite
 
-If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](https://help.vtex.com/en/tutorial/creating-multi-store-multi-domain--tutorials_510) for more information.
+If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](/en/tutorial/creating-multi-store-multi-domain--tutorials_510) for more information.
 
 ## 1. Include a conditional rule in the B2B Commercial Policy
 
@@ -61,16 +61,20 @@ Browsing by non-approved users (when attempting to access any page, they will be
 
 Users not registered on the website need an interface for pre-registration. The pre-registration is a form with basic information about the user. Although basic, such information must be sufficient for the store owner to approve and release the user’s browsing on the website.
 
-Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](https://help.vtex.com/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
+Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
 
->⚠️ The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.
+<div class="alert alert-warning">
+  <p>The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.</p>
+</div>
 
 ## 4. Create a pre-registration form
 
-Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Example of HTML and JS")[ templates](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar " templates") serving this purpose.
+Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Example of HTML and JS")[ templates](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar " templates") serving this purpose.
 
 ## 5. Operation
 
 Once the settings have been completed and the B2B is finally operating, the store owner’s routine will depend on their business rules and needs. Basically, at each new registration, the store owner should analyze and approve the user using the CRM interface, that they can access using the following URL: `http://{nome_da_conta}.vtexcrm.com.br/`.
 
->ℹ️ This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.
+<div class="alert alert-info">
+  <p>This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.</p>
+</div>

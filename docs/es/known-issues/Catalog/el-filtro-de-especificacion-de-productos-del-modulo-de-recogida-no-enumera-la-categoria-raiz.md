@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de especificación de productos del módulo de recogida no enumera la categoría raíz'
+title: "El filtro de especificación de productos del módulo de recogida no enumera la categoría raíz"
 id: 6ZDaMBc9G5TtuwMJ5b0nuK
 status: PUBLISHED
 createdAt: 2023-10-12T14:29:57.985Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-specification-filter-on-the-collection-module-does-not-list-root-category
+slugEN: el-filtro-de-especificacion-de-productos-del-modulo-de-recogida-no-enumera-la-categoria-raiz
 locale: es
 kiStatus: Backlog
 internalReference: 918687
@@ -18,7 +18,9 @@ internalReference: 918687
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En el módulo de recogida, al utilizar los filtros para añadir productos, el filtro Especificación de producto no lista los campos registrados en la categoría raíz

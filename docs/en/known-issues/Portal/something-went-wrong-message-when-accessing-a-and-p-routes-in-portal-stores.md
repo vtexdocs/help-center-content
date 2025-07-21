@@ -1,5 +1,5 @@
 ---
-title: 'Something went wrong message when accessing /a and /p routes in Portal stores'
+title: "Something went wrong message when accessing /a and /p routes in Portal stores"
 id: 2XGAGH8xpNqjJpAir6DKzz
 status: PUBLISHED
 createdAt: 2023-11-30T16:31:45.428Z

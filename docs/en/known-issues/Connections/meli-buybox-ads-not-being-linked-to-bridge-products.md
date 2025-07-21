@@ -1,5 +1,5 @@
 ---
-title: 'MELI BuyBox Ads not being linked to bridge products'
+title: "MELI BuyBox Ads not being linked to bridge products"
 id: oI2IcQVkUxh3PcrT9k4JD
 status: PUBLISHED
 createdAt: 2023-03-30T11:04:48.189Z

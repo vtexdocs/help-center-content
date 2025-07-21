@@ -1,5 +1,5 @@
 ---
-title: 'Category and Brand substitute words not being indexed'
+title: "Category and Brand substitute words not being indexed"
 id: 4gIrMX8Wd2uW3Nekcbhu7S
 status: PUBLISHED
 createdAt: 2022-01-23T02:48:06.799Z

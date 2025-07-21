@@ -1,5 +1,5 @@
 ---
-title: 'AvailableQuantity value inconsistent due to the large number of routes created to deliver the item'
+title: "AvailableQuantity value inconsistent due to the large number of routes created to deliver the item"
 id: 4kKVjSNsIEU8ZVGcpwvzQw
 status: PUBLISHED
 createdAt: 2024-05-16T12:14:20.776Z

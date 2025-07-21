@@ -3,8 +3,8 @@ title: 'Criar tipo de lista'
 id: tutorials_254
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:52.502Z
-updatedAt: 2023-03-29T19:44:52.284Z
-publishedAt: 2023-03-29T19:44:52.284Z
+updatedAt: 2025-05-15T17:58:10.792Z
+publishedAt: 2025-05-15T17:58:10.792Z
 firstPublishedAt: 2017-04-27T23:03:11.198Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: criando-tipo-de-lista
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
+
+<div class="alert alert-warning">
+  <p>A funcionalidade <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-lista--4b4NsVFwA8kwqS8S82w4Go">Lista</a> é exclusiva para lojas que usam CMS Portal Legado.</p>
+</div>
 
 A criação de um tipo de lista é a configuração de quais listas o site terá. Exemplo: Lista de Casamento e Lista de Aniversário. Cada uma destas são um tipo de lista diferente, com configurações próprias. Este artigo tem como objetivo ilustrar o processo de criação de um tipo de lista.
 
@@ -26,7 +30,9 @@ A criação de um tipo de lista é a configuração de quais listas o site terá
 
 Após a criação dos tipos de listas, será possível que clientes criem efetivamente suas listas no site.
 
->⚠️ Não é possível excluir uma lista após ela ter sido gerada.
+<div class="alert alert-warning">
+  <p>Não é possível excluir uma lista após ela ter sido gerada.</p>
+</div>
 
 ## Campos do formulário
 

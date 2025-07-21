@@ -1,5 +1,5 @@
 ---
-title: 'Text in Store Login are not being translated using site editor'
+title: "Text in Store Login are not being translated using site editor"
 id: 6DptiKTxtOcYIJEgJlZCmo
 status: PUBLISHED
 createdAt: 2023-11-08T13:33:41.296Z

@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia entre el valor total del pedido y valor total de los productos'
+title: "Divergencia entre el valor total del pedido y valor total de los productos"
 id: 20XszEUpq8MKweAyqMyIkM
 status: PUBLISHED
 createdAt: 2018-08-22T19:31:56.591Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergence-between-total-order-value-and-total-products-value
+slugEN: divergencia-entre-el-valor-total-del-pedido-y-valor-total-de-los-productos
 locale: es
 kiStatus: Backlog
 internalReference: 

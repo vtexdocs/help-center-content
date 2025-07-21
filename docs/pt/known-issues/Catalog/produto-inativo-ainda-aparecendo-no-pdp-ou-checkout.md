@@ -1,5 +1,5 @@
 ---
-title: 'Produto inativo ainda aparecendo no PDP ou checkout'
+title: "Produto inativo ainda aparecendo no PDP ou checkout"
 id: 567gsup9oQGoMmj5utCra9
 status: PUBLISHED
 createdAt: 2022-03-14T19:50:43.917Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: inactive-product-still-appearing-on-pdp-or-checkout
+slugEN: produto-inativo-ainda-aparecendo-no-pdp-ou-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 542264
@@ -18,7 +18,9 @@ internalReference: 542264
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ativar somente o produto por API faz com que o produto permaneça ativo para o PDP e checkout

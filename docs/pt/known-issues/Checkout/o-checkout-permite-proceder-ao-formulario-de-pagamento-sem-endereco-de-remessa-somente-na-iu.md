@@ -1,5 +1,5 @@
 ---
-title: 'O checkout permite proceder ao formulário de pagamento sem endereço de remessa somente na IU'
+title: "O checkout permite proceder ao formulário de pagamento sem endereço de remessa somente na IU"
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-allows-proceeding-to-payment-form-without-shipping-address-on-the-ui-only
+slugEN: o-checkout-permite-proceder-ao-formulario-de-pagamento-sem-endereco-de-remessa-somente-na-iu
 locale: pt
 kiStatus: No Fix
 internalReference: 699317
@@ -18,7 +18,9 @@ internalReference: 699317
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em um carrinho com SLA somente para entrega e o usuário digita um código postal correto, o checkout permite ao usuário prosseguir, no entanto, se o usuário retornar à página do carrinho novamente e mudar para a opção de retirada, então clique para continuar para a parte de pagamento, depois volte ao carrinho novamente, mude novamente para a opção de entrega e continue novamente, desta vez, o usuário vai para o formulário de pagamento. Além disso, há uma mensagem na parte do endereço de entrega dizendo que o componente está "esperando os dados para ser preenchido".

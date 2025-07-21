@@ -1,5 +1,5 @@
 ---
-title: 'Falta la opción 1x installment en Checkout con múltiples condiciones de pago y configuración por defecto establecida en una opción diferente.'
+title: "Falta la opción 1x installment en Checkout con múltiples condiciones de pago y configuración por defecto establecida en una opción diferente."
 id: 6xzCd4cSKl7ygcptvqwZs9
 status: PUBLISHED
 createdAt: 2023-05-11T17:23:35.529Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: missing-1x-installment-option-on-checkout-with-multiple-payment-conditions-and-default-configuration-set-to-a-different-option
+slugEN: falta-la-opcion-1x-installment-en-checkout-con-multiples-condiciones-de-pago-y-configuracion-por-defecto-establecida-en-una-opcion-diferente
 locale: es
 kiStatus: Backlog
 internalReference: 709971
@@ -18,7 +18,9 @@ internalReference: 709971
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay más de una condición de pago configurada para un sistema de pago, y una condición de pago distinta de la que tiene la opción de pago a plazos 1x está configurada como predeterminada, la opción de pago a plazos 1x no aparece en la página de pago. En estos casos, sólo se elimina de la página de pago la opción del plazo 1x.

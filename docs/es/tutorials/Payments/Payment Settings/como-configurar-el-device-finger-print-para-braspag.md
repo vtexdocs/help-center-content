@@ -19,11 +19,13 @@ __Device Fingerprint__ es un identificador que actúa en el procesamiento de un 
 
 Mediante la recolección de datos no sensibles, Device Fingerprint identifica y analiza el nivel de seguridad del dispositivo utilizado para realizar la transacción, así como las transacciones que se realizaron previamente con este mismo dispositivo.
 
->ℹ️ Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+<div class="alert alert-info">
+Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
+</div>
 
 En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliación Braspag.
 
->ℹ️ Las configuraciones documentadas en este artículo se realizan en un ambiente externo a VTEX. Por lo tanto, pueden estar desactualizadas.
+<div class="alert alert-info">Las configuraciones documentadas en este artículo se realizan en un ambiente externo a VTEX. Por lo tanto, pueden estar desactualizadas.</div>
 
 Para insertar  los scripts que Braspag/CyberSource requiere para el device fingerprint, es necesario el uso de Google Tag Manager. Para ello, inicie sesión en [http://www.google.com/tagmanager](http://www.google.com/tagmanager/) y acceda a su cuenta.
 
@@ -39,15 +41,15 @@ function() {
   }
 ```
 
-![](//images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
+![](https://images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
 
 - Cree las variables `cs_orgId` y `cs_merchantId` con el tipo **Permanente**. El valor de estas dos variables deberá rellenarse con el contenido proporcionado por Braspag.
 
-![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Cree o edite un disparador para la pantalla de OrderPlaced (pantalla de compra finalizada con éxito), para que sea compatible con el evento de tipo **Evento personalizado** y de valor **orderPlaced**.
 
-![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Creación de la tag para Braspag
 
@@ -66,6 +68,6 @@ Rellene con el siguiente código HTML:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/f801a007a7d98773d06c741691a2e1ad/image.png_h_250_h_250)
+![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/f801a007a7d98773d06c741691a2e1ad/image.png_h_250_h_250)
 
 Por último, publique los cambios.

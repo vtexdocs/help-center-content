@@ -29,7 +29,9 @@ Anteriormente, ao selecionar o cartão de crédito ou débito como métodos de p
 
 A partir de agora, caso o provedor de antifraude entenda que o campo **Identificação do titular do cartão** não seja obrigatório para a sua análise antifraude, o lojista poderá configurar no Admin VTEX se o campo deverá ser exibido ou não no Checkout.
 
->ℹ️ O campo **Identificação do titular do cartão** deve ser preenchido com um dado específico para cada país, como CPF (Brasil) e Social Security Number (Estados Unidos). O nome do campo será exibido de formas diferentes no Checkout, de acordo com o país onde a compra está sendo realizada.
+<div class = "alert alert-info">
+  O campo <b>Identificação do titular do cartão</b> deve ser preenchido com um dado específico para cada país, como CPF (Brasil) e Social Security Number (Estados Unidos). O nome do campo será exibido de formas diferentes no Checkout, de acordo com o país onde a compra está sendo realizada.
+</div>
 
 ## Por que realizamos esta mudança?
 
@@ -45,9 +47,11 @@ Para verificar se os provedores de antifraude configurados em sua loja permitem 
 
 ![campo de documento do titular do cartão](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-04-29-checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao_1.png)
 
->⚠️ Caso a opção **Campo de documento do titular do cartão** não esteja disponível na tela de configuração do seu provedor de antifraude, o campo **Identificação do titular do cartão** continuará sendo exibido na tela do Checkout da loja e deverá ser obrigatoriamente preenchido pelo cliente.
+<div class = "alert alert-warning">
+  Caso a opção <b>Campo de documento do titular do cartão</b> não esteja disponível na tela de configuração do seu provedor de antifraude, o campo <b>Identificação do titular do cartão</b> continuará sendo exibido na tela do Checkout da loja e deverá ser obrigatoriamente preenchido pelo cliente.
+</div>
 
-Para maiores informações sobre como configurar a exibição do campo no Checkout de sua loja, acesse [Campo de documento do titular do cartão](https://help.vtex.com/pt/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#campo-de-documento-do-titular-do-cartao).
+Para maiores informações sobre como configurar a exibição do campo no Checkout de sua loja, acesse [Campo de documento do titular do cartão](/pt/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#campo-de-documento-do-titular-do-cartao).
 
 Para maiores informações sobre as configurações efetuadas internamente pelo provedor de antifraude, acesse [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
 

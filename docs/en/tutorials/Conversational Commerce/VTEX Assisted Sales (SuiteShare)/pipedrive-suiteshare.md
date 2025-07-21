@@ -15,5 +15,7 @@ legacySlug: pipedrive
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
->⚠️ This content is only available in Portuguese.
+<div class="alert alert-warning">
+  <p>This content is only available in Portuguese.</p>
+</div>
 

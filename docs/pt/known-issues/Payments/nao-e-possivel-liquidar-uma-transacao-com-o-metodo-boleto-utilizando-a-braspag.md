@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível liquidar uma transação com o método boleto utilizando a BrasPag'
+title: "Não é possível liquidar uma transação com o método boleto utilizando a BrasPag"
 id: 6bMohwJUByz5EX16Gn7CiR
 status: PUBLISHED
 createdAt: 2022-04-07T16:01:35.802Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: it-is-not-possible-to-settle-a-transaction-with-the-boleto-method-using-braspag
+slugEN: nao-e-possivel-liquidar-uma-transacao-com-o-metodo-boleto-utilizando-a-braspag
 locale: pt
 kiStatus: Backlog
 internalReference: 558065
@@ -18,7 +18,9 @@ internalReference: 558065
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a transação com o Boleto Bancário usando o conector BrasPag é aprovada, pagamento em autorizado e o API Liquidar a transação é chamado, ocorre um erro na captura devido ao status é como liquidar, o que não permite que a transação seja efetivamente capturada.

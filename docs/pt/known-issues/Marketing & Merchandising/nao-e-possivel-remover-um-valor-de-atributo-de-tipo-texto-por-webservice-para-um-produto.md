@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível remover um valor de atributo de tipo texto por WebService para um produto'
+title: "Não é possível remover um valor de atributo de tipo texto por WebService para um produto"
 id: 3jyqCliMA8026y2GgwQoyG
 status: PUBLISHED
 createdAt: 2018-01-02T21:22:34.885Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
-slugEN: unable-to-remove-a-text-type-attribute-value-of-a-product-by-using-webservice
+slugEN: nao-e-possivel-remover-um-valor-de-atributo-de-tipo-texto-por-webservice-para-um-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 

@@ -15,17 +15,21 @@ legacySlug: adding-collections
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ There are two ways to configure collections: through the Legacy CMS Portal or the [Collections Beta](https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) module. This article is about how to configure collections through the Legacy CMS Portal.
+<div class = "alert alert-warning" >
+  <p>There are two ways to configure collections: through the Legacy CMS Portal or the <a href="https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye">Collections Beta</a> module. This article is about how to configure collections through the Legacy CMS Portal.</p>
+</div>
 
 Follow the steps below to add a new collection:
 
 1. In the VTEX Admin, access **Storefront > Layout**.
 2. In the CMS folder, click on __Product Clusters (Collections)__.
 3. Click on __New Collection__.
-4. Fill out the Collection form fields. For more on the meaning of each one of these fields, read our article on [how to fill out new collection fields](https://help.vtex.com/en/tutorial/filling-out-collection-registration-fields--7eKL7CFRW3yGKlnDfQetbj).
+4. Fill out the Collection form fields. For more on the meaning of each one of these fields, read our article on [how to fill out new collection fields](/en/tutorial/filling-out-collection-registration-fields--7eKL7CFRW3yGKlnDfQetbj).
 5. Click on __Save Product Cluster__.
 
->⚠️ When the number of created collections surpasses twenty, those exceeding that number can be found through the search field on the admin interface. Search by the name of the collection you want to find.
+<div class="alert alert-warning">
+When the number of created collections surpasses twenty, those exceeding that number can be found through the search field on the admin interface. Search by the name of the collection you want to find.
+</div>
 
 Choosing the products that will make up a collection is done by clicking on __New Group__ in the desired collection, creating a __group__.
 
@@ -50,7 +54,9 @@ Of which:
 
 To this end, the first group that is created in any collection must necessarily be type *Inclusive*.
 
->⚠️ Be mindful of the set group type. When adding products to an <i>Exclusive</i> group type, for example, these **will not** be added to a collection due to the nature of the group.
+<div class="alert alert-warning">
+Be mindful of the set group type. When adding products to an <i>Exclusive</i> group type, for example, these <strong>will not</strong> be added to a collection due to the nature of the group.
+</div>
 
 ## Selecting Products
 
@@ -97,11 +103,15 @@ In the __find SKUs__ field, you can type in as many SKU IDs as needed, separatin
 
 To remove an SKU from the list, click on the red button next to it.
 
->ℹ️ When the number of listed SKUs surpasses ten, a page control becomes available.
+<div class="alert alert-info">
+When the number of listed SKUs surpasses ten, a page control becomes available.
+</div>
 
 ### By spreadsheet
 
- >ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
+ <div class="alert alert-info">
+Get the file template for adding SKUs to or removing them from a collection <a href="//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls">here</a>.
+</div>
 
 #### Bulk Upload
 
@@ -125,11 +135,15 @@ To avoid having to remove SKUs one at a time, you can use the import function of
 
 In this specific case, the SKUs listed in the imported spreadsheet will be excluded from the group. Do this by clicking on __remove SKUs__ after the file has been loaded. 
 
->⚠️ Disabled SKUs will not be removed or added, even if they appear as listed in the spreadsheet.
+<div class="alert alert-warning">
+Disabled SKUs will not be removed or added, even if they appear as listed in the spreadsheet.
+</div>
 
 ## Products by Market Launch date
 
->⚠️ In the **Other options** section, the **Pre-sales** and **Launches** options are add-ons to choosing products by Category, Brand or SKU, meaning that these flags will only work if you have previously selected them.
+<div class="alert alert-warning">
+In the <strong>Other options</strong> section, the <strong>Pre-sales</strong> and <strong>Launches</strong> options are add-ons to choosing products by Category, Brand or SKU, meaning that these flags will only work if you have previously selected them.
+</div>
 
 Note that you can only select one of the two options. Should you want both add-ons, create two groups and configure each one with the respective option.
 
@@ -143,4 +157,6 @@ In order to create a product collection that has not been launched yet, select t
 
 The __Launches__ option allows you to create a recently launched product collection. Upon selecting this option, the system considers all of the products that were launched within a 30-day interval prior to the present date. The launch date taken into account is also the same one set in the _Market launch date_ in the product file.
 
->ℹ️ To know more about how to exclude a product collection, read our article on [how to delete collections](https://help.vtex.com/en/tutorial/how-to-delete-a-collection--6C620yHzwsGoS8iaCocAM2).
+<div class="alert alert-info">
+To know more about how to exclude a product collection, read our article on <a href="https://help.vtex.com/en/tutorial/how-to-delete-a-collection--6C620yHzwsGoS8iaCocAM2">how to delete collections</a>.
+</div>

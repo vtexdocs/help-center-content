@@ -1,5 +1,5 @@
 ---
-title: 'A política de remessa que não entrega nos finais de semana está sendo considerada'
+title: "A política de remessa que não entrega nos finais de semana está sendo considerada"
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-that-does-not-deliver-on-weekends-is-being-considered
+slugEN: a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada
 locale: pt
 kiStatus: No Fix
 internalReference: 594828
@@ -18,7 +18,9 @@ internalReference: 594828
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Antes, a funcionalidade "**Fins de semana e feriados**" e "**Horário comercial**" funcionavam em conjunto, em outras palavras, uma informação dependia da outra.

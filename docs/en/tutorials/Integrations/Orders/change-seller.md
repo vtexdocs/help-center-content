@@ -17,7 +17,9 @@ subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 
 The Change Seller is the feature that gives marketplaces the autonomy to change the seller that will fulfill an order. 
 
->ℹ️ The Change Seller feature can only be configured using APIs. For more information, see our [Change Seller documentations for developers](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
+<div class = "alert alert-info">
+The Change Seller feature can only be configured using APIs. For more information, see our <a href="https://developers.vtex.com/vtex-rest-api/docs/change-seller">Change Seller documentations for developers</a>.
+</div>
 
 Sellers can be changed in two situations: 
 
@@ -37,10 +39,10 @@ Upon being notified by the seller about the order cancellation, the marketplace 
 You can not change sellers in the following cases:
 
 - Order items with services or attachments.
-- Intermediate orders in the [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Intermediate orders in the [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 - Orders with other changes.
 - Orders with taxes.
-- Orders with [split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
+- Orders with [split payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
 - Orders with split payment into multiple sellers.
 - Orders that use the seller's payment method and do not use a tokenized credit card.
 - Orders that use the seller's payment method and have more than one seller involved.
@@ -48,8 +50,8 @@ You can not change sellers in the following cases:
 - Orders that use the seller's payment method and do not have the same installment conditions and payment methods that the new seller accepts.
 - Orders placed prior to the Change Seller announcement.
 - Orders from an original non-VTEX seller.
-- If the new seller is not from VTEX and there are services or [assembly options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
-- If the new option is for pickup in [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
+- If the new seller is not from VTEX and there are services or [assembly options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
+- If the new option is for pickup in [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
+- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
 - Orders from sellers external to VTEX.
-- If the chosen carrier isn't associated with the order's [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).
+- If the chosen carrier isn't associated with the order's [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).

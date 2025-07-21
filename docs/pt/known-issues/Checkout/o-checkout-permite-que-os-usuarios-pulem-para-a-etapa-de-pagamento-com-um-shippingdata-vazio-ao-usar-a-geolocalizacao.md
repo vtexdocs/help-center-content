@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-allows-users-to-jump-to-payment-step-with-an-empty-shippingdata-when-using-geolocation
+slugEN: o-checkout-permite-que-os-usuarios-pulem-para-a-etapa-de-pagamento-com-um-shippingdata-vazio-ao-usar-a-geolocalizacao
 locale: pt
 kiStatus: Backlog
 internalReference: 343056
@@ -18,7 +18,9 @@ internalReference: 343056
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao usar a geolocalização no checkout, os usuários podem pular para a etapa de pagamento com o `shippingData` incompleto.

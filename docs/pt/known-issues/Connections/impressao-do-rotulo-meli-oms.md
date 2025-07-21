@@ -1,5 +1,5 @@
 ---
-title: 'Impressão do rótulo MELI OMS'
+title: "Impressão do rótulo MELI OMS"
 id: 6bjiu8eFZpTS3oGXiGQg34
 status: PUBLISHED
 createdAt: 2022-03-21T13:13:55.286Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-oms-label-printing
+slugEN: impressao-do-rotulo-meli-oms
 locale: pt
 kiStatus: Backlog
 internalReference: 546542
@@ -18,7 +18,9 @@ internalReference: 546542
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Estamos tendo alguns problemas ao clicar diretamente dentro do botão "etiqueta de entrega", para ordens do Mercado Livre dentro da OMS.

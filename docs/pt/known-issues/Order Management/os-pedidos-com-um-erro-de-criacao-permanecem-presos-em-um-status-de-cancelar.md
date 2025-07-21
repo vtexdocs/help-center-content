@@ -1,16 +1,16 @@
 ---
-title: "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
+title: 'Os pedidos com um "Erro de criação" permanecem presos em um status de "cancelar'
 id: gP4woBDBX0FsUC6sdMHED
 status: PUBLISHED
 createdAt: 2024-08-29T20:28:41.531Z
-updatedAt: 2024-08-29T20:28:42.413Z
-publishedAt: 2024-08-29T20:28:42.413Z
+updatedAt: 2025-04-08T12:55:56.231Z
+publishedAt: 2025-04-08T12:55:56.231Z
 firstPublishedAt: 2024-08-29T20:28:42.413Z
 contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: orders-with-a-creation-error-remain-stuck-in-a-cancel-status
+slugEN: os-pedidos-com-um-erro-de-criacao-permanecem-presos-em-um-status-de-cancelar
 locale: pt
 kiStatus: Backlog
 internalReference: 1089344
@@ -18,10 +18,13 @@ internalReference: 1089344
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
+Cenário1:
 Em algumas ordens que apresentam um erro no momento da criação (**Creation Error -** `cancellationData.reason`), é esperado que essas ordens atinjam automaticamente o status **Cancelado**, pois são ordens que estavam incompletas de alguma forma (_mesmo que a propriedade `isCompleted` esteja_ `true`), ou com um erro na comunicação entre os sistemas, principalmente na comunicação com o Gateway, e acabam sendo canceladas.
 
 
@@ -44,11 +47,15 @@ Nesse caso, o problema é que, atualmente, alguns pedidos com um **erro de cria�
 
 O importante nesses casos é poder validar que a transação já foi cancelada e que não há problemas com a reserva dos itens no pedido.
 
+Cenário 2:
+No cenário 2, o pedido pôde prosseguir, mesmo depois de receber a solicitação de cancelamento via Checkout/gateway. Nesse cenário, o pedido está preso em "Checking invoice" (Verificação de fatura), enquanto a transação está no status "Canceling" (Cancelamento).
+Como resultado, não é possível prosseguir com o pedido de fatura, nem cancelá-lo.
+
 ## Simulação
 
 
 
-Se o pedido estiver no status "**cancel**" e não tiver avançado para "**cancelado**":
+Se o pedido estiver no status "**cancelar**" e não tiver avançado para "**cancelado**":
 
 1. Faça um GET do pedido e valide as seguintes informações:
   - "status"

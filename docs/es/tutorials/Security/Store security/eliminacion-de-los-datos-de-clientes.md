@@ -3,8 +3,8 @@ title: 'Eliminación de los datos de clientes'
 id: 1R9Fn7A06Ifj4R9YD4JTKU
 status: PUBLISHED
 createdAt: 2022-04-14T13:28:53.209Z
-updatedAt: 2023-06-23T15:06:52.315Z
-publishedAt: 2023-06-23T15:06:52.315Z
+updatedAt: 2025-04-10T14:19:21.979Z
+publishedAt: 2025-04-10T14:19:21.979Z
 firstPublishedAt: 2022-04-14T13:50:08.688Z
 contentType: tutorial
 productTeam: Others
@@ -15,48 +15,52 @@ legacySlug: eliminacion-de-los-datos-de-clientes
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-Según las normas de protección de datos como [LGPD y RGPR] (https://vtex.com/us-en/privacy-and-agreements/vtex-commitment/), las empresas que utilizan datos personales de sus clientes deben aceptar sus solicitudes de eliminación del registro. Por lo tanto, VTEX te permite solicitar la eliminación de datos de los clientes de tu tienda.
+De acuerdo con normativas de protección de datos como [RGPD (Reglamento General de Protección de Datos de la Unión Europea) y LGPD (Ley General de Protección de Datos Personales de Brasil)](https://vtex.com/mx-es/privacy-and-agreements/vtex-commitment/), las empresas que utilizan datos personales de clientes deben aceptar sus solicitudes de eliminación de datos registrados. Por eso, VTEX te permite solicitar la eliminación de los datos de los clientes de tu tienda a través de Copilot.
 
-## Antes de solicitar la eliminación de datos
+## 1. Comprobar datos almacenados en Master Data
 
-Antes de [solicitar la eliminación a través del soporte](#pedir-eliminacion-via-soporte), es importante que compruebes qué entidades de Master Data almacenan datos de clientes en tu operación.
+Antes de [solicitar la eliminación de datos de clientes vía Copilot](#solicitar-eliminacion-de-dados-del-cliente-via-copilot), sigue los pasos a continuación:
 
-Debes tener cuidado de no eliminar ningún dato de las [entidades nativas de Master Data](#entidades-nativas-de-master-data). Sin embargo, debes eliminar manualmente la información del cliente en [otras entidades de Master Data](#otras-entidades-de-datos), en caso de que tu tienda tenga alguna. Puedes encontrar más detalles a continuación.
+1. **Identifica dónde están almacenados los datos:** verifica las entidades de datos de [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) que almacenan datos de clientes en tu operación.
+2. **Elimina las entidades personalizadas manualmente:** si tu tienda almacena datos de clientes en entidades personalizadas, elimínalos manualmente antes de abrir un ticket para solicitar la eliminación mediante Copilot. Para más información, consulta la sección [Entidades de datos personalizadas](#entidades-de-datos-personalizadas). Sigue este proceso solo para entidades personalizadas. No elimines las [entidades nativas](#entidades-nativas-de-master-data) CL y AD de Master Data.
 
 ### Entidades nativas de Master Data
 
-Con tu [solicitud vía soporte](#pedir-eliminacion-via-soporte), VTEX eliminará los datos de las entidades de datos nativas **CL** y **AD**. Es importante que no elimines los datos de estas entidades.
+Después de [solicitar la eliminación de datos](#solicitar-eliminacion-de-datos-de-clientes-via-copilot), VTEX eliminará los datos de las entidades de datos nativas **CL** y **AD**. Es importante que no los elimines por tu cuenta.
 
-### Otras entidades de datos
+### Entidades de datos personalizadas
 
-Si tu tienda almacena la información de los clientes en otras entidades de datos, debes eliminar manualmente estos datos antes de hacer una solicitud a través del soporte. Para ello, utiliza la API de Master Data:
+Si tu tienda almacena información de clientes en entidades de datos personalizadas (CL y AD), debes eliminarlas manualmente antes de abrir un ticket para solicitar la eliminación de datos de clientes vía Copilot. Para eliminarlos, utiliza la API de Master Data:
 
-1. Busca el documento con el endpoint [Search document](https://developers.vtex.com/vtex-rest-api/reference/searchdocuments-1)
+1. Encuentra el documento correspondiente al cliente utilizando el endpoint [Search document](https://developers.vtex.com/vtex-rest-api/reference/searchdocuments-1). 
+2. Elimina dicho documento utilizando el endpoint [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1).
 
-2. Utiliza el request [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1)
+<div class="alert alert-danger">
+No realices este proceso para las entidades nativas <strong>CL</strong> y <strong>AD</strong>.
+</div>
 
->❗ No realices este proceso para las entidades **CL** y **AD**.
+## 2. Configurar rol RGPD
 
-## Pedir eliminación vía soporte
+Para solicitar la eliminación de datos, crea un [rol personalizado](/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](/es/tutorial/license-manager-resources):
 
-Deberás solicitar la extensión de la eliminación de los datos personales de tus clientes en los sistemas de VTEX mediante la apertura de un ticket en nuestro [Soporte VTEX](https://help.vtex.com/es/support).
+- **Write user rights requests** (del producto **User Rights**).
+- **Open Support Ticket** (del producto **VTEX Support**).
 
-Para solicitar la eliminación de los datos personales de clientes, sigue los pasos a continuación:
+![perfil-de-acesso-gdpr](https://images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/92ae172c1867401e23b07a5fa55ff1be/espanhol.jpg)
 
-1. Accede a [Soporte VTEX](https://help.vtex.com/es/support).
-2. Ingresa tu nombre completo en el campo **Nombre** y selecciona en el campo **Tienda** el nombre de la tienda para la cual deseas abrir el ticket.
-3. Haz clic en la opción `Continuar`.
-4. Selecciona la opción `Técnico`.
-5. En el campo **Tipo de problema**, selecciona la opción `Quiero solicitar una configuración`.
-6. En el campo **Asunto de la solicitud**, deberás rellenar la siguiente información:
-   * Solicitud de Data Subject Request
-   * Cuentas VTEX
-   * Email vinculado a las cuentas VTEX cuyos datos deben eliminarse
-7. En el campo **Tu experiencia con la plataforma**, selecciona la opción correspondiente a tu experiencia como usuario de la plataforma VTEX.
-8. Rellena el campo **Describe en detalle lo sucedido** con los detalles de tu solicitud.
-9. Haz clic en `Enviar`.
+Luego, asigna este rol al usuario que será responsable de la solicitud de eliminación de datos de clientes.
 
->⚠️ Solicita la eliminación de los datos de una sola cuenta, es decir, se podrá eliminar el email de un solo comprador por ticket. Si incluyes más de un email, el ticket se rechazará.
+## 3. Solicitar la eliminación de datos del cliente vía Copilot
 
-La solicitud se enviará a nuestro equipo de soporte. Al cerrar el ticket, se emitirá un certificado que se enviará al email relacionado con la cuenta por la cual se abrió el ticket para comprobar que realmente se eliminaron los datos.
+Con los datos verificados y el perfil configurado, sigue estos pasos para abrir un ticket a través de Copilot:
+
+1. Inicia sesión en el Admin VTEX con un usuario que tenga el rol **Ley General de Protección de Datos**.
+2. Haz clic en el botón **Copilot** en la esquina superior derecha.
+3. Envía el siguiente mensaje: `Quiero eliminar un usuario de la plataforma VTEX`.
+    ![copilot-excluir-cliente-es](https://images.ctfassets.net/alneenqid6w5/5aGO3gtV9mrRB9FK5F2Tmq/8824adc8706ec3444bb77c2b07a89dfb/copilot-excluir-cliente-es.gif)   
+4. Cuando se solicite, ingresa el email del usuario que deseas eliminar. No es posible eliminar los datos de más de un cliente por ticket; proporciona únicamente el email de un comprador por solicitud.
+
+Después de esta etapa, el ticket se enviará al Soporte VTEX, y recibirás el ID del ticket para seguimiento.
+
+Al concluir el ticket, se enviará un certificado de eliminación al email asociado al ticket, comprobando que los datos se eliminaron con éxito.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Faixa de preço não respeita política comercial'
+title: "Faixa de preço não respeita política comercial"
 id: 3OsmwHOZyM0AQWA8CuK0aC
 status: PUBLISHED
 createdAt: 2017-10-17T17:50:40.970Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: price-range-disregards-sales-policy
+slugEN: faixa-de-preco-nao-respeita-politica-comercial
 locale: pt
 kiStatus: Backlog
 internalReference: 

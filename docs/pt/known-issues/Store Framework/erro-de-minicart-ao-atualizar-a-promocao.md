@@ -1,5 +1,5 @@
 ---
-title: 'Erro de Minicart ao atualizar a promoção'
+title: "Erro de Minicart ao atualizar a promoção"
 id: QMcRhD0wNNitxYvGtdDQt
 status: PUBLISHED
 createdAt: 2022-03-30T14:21:49.130Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: minicart-error-when-updating-promotion
+slugEN: erro-de-minicart-ao-atualizar-a-promocao
 locale: pt
 kiStatus: Backlog
 internalReference: 552633
@@ -18,7 +18,9 @@ internalReference: 552633
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

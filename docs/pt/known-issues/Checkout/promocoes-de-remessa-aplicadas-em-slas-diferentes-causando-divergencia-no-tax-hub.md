@@ -1,5 +1,5 @@
 ---
-title: 'Promoções de remessa aplicadas em SLAs diferentes causando divergência no Tax Hub'
+title: "Promoções de remessa aplicadas em SLAs diferentes causando divergência no Tax Hub"
 id: 3uI0b4FmXUh4uue5kFyFNy
 status: PUBLISHED
 createdAt: 2023-10-09T13:42:08.767Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-promotions-applying-in-different-slas-causing-divergence-in-tax-hub
+slugEN: promocoes-de-remessa-aplicadas-em-slas-diferentes-causando-divergencia-no-tax-hub
 locale: pt
 kiStatus: Fixed
 internalReference: 916423
@@ -18,7 +18,9 @@ internalReference: 916423
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando as promoções de frete se aplicam a diferentes SLAs, sendo um deles o frete grátis, isso causa divergência na solicitação enviada pelo Tax Hub, impedindo que o pedido seja feito.

@@ -1,5 +1,5 @@
 ---
-title: 'Advanced store settings being registered globally insted of by binding'
+title: "Advanced store settings being registered globally insted of by binding"
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z

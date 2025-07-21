@@ -1,5 +1,5 @@
 ---
-title: 'Product specification filter on the Collection Module does not list root category'
+title: "Product specification filter on the Collection Module does not list root category"
 id: 6ZDaMBc9G5TtuwMJ5b0nuK
 status: PUBLISHED
 createdAt: 2023-10-12T14:29:57.985Z

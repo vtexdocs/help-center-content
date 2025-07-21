@@ -41,7 +41,7 @@ Saiba mais sobre os principais cenários de uso de índices no Master Data nas s
 
 ### Consultas de até mil documentos
 
-O uso de índices é recomendado para buscas com resultados de até mil documentos. Se as buscas por um índice frequentemente retornarem mais de mil documentos, você pode obter uma performance melhor na busca ao indexar o campo, isto é, [configurá-lo como um filtro na entidade de dados](https://help.vtex.com/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
+O uso de índices é recomendado para buscas com resultados de até mil documentos. Se as buscas por um índice frequentemente retornarem mais de mil documentos, você pode obter uma performance melhor na busca ao indexar o campo, isto é, [configurá-lo como um filtro na entidade de dados](/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
 ### Restrição de valores por documento (chave alternativa)
 
@@ -63,7 +63,9 @@ Com isso, não será possível inserir um nome que já tenha sido cadastrado em 
 
 No exemplo acima, como já existe um registro com o **Nome** igual a **Maria**, não é possível cadastrar outro com o mesmo valor.
 
->⚠️ Use a opção **Valores Únicos** com cautela. Se um valor que você deseja permitir se repetir for configurado como único, o sistema bloqueará a inserção de registros duplicados, impedindo seu cadastro.
+<div class="alert alert-warning">
+  <p>Use a opção <strong>Valores Únicos</strong> com cautela. Se um valor que você deseja permitir se repetir for configurado como único, o sistema bloqueará a inserção de registros duplicados, impedindo seu cadastro.</p>
+</div>
 
 #### Vários campos no índice
 
@@ -79,4 +81,6 @@ Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode
 
 No exemplo acima, já existe um registro com o **Nome** igual a **Maria**. É possível incluir outro registro com o mesmo **Nome**, desde que o valor do **Documento** seja diferente.
 
->⚠️ Se a mesma combinação de valores se repetir, o registro não será salvo. Utilize a opção **Valores únicos** somente quando não existir a possibilidade de um conjunto de valores se repetir em registros diferentes.
+<div class="alert alert-warning">
+  <p>Se a mesma combinação de valores se repetir, o registro não será salvo. Utilize a opção <strong>Valores únicos</strong> somente quando não existir a possibilidade de um conjunto de valores se repetir em registros diferentes.</p>
+</div>

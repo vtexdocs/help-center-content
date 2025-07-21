@@ -1,5 +1,5 @@
 ---
-title: 'O carrinho criado a partir de um pedido antigo não traz os anexos'
+title: "O carrinho criado a partir de um pedido antigo não traz os anexos"
 id: 2TGthMyZOUQWkc2Wo6wgIg
 status: PUBLISHED
 createdAt: 2019-01-08T16:58:19.057Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-old-order-doesnt-bring-the-attachments
+slugEN: o-carrinho-criado-a-partir-de-um-pedido-antigo-nao-traz-os-anexos
 locale: pt
 kiStatus: No Fix
 internalReference: 802464
@@ -18,7 +18,9 @@ internalReference: 802464
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um carrinho a partir de um pedido antigo (botão "Pedir novamente" na tela "Meus pedidos"), os anexos e serviços do pedido original não serão mantidos.

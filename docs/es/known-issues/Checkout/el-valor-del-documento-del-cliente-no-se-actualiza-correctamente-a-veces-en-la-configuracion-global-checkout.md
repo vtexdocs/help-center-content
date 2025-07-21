@@ -1,5 +1,5 @@
 ---
-title: 'El valor del documento del cliente no se actualiza correctamente a veces en la configuración Global Checkout'
+title: "El valor del documento del cliente no se actualiza correctamente a veces en la configuración Global Checkout"
 id: 3846jcrfuMvULJt5dZkJxf
 status: PUBLISHED
 createdAt: 2023-07-17T20:50:26.133Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: client-document-value-will-not-update-correctly-sometimes-in-global-checkout-setting
+slugEN: el-valor-del-documento-del-cliente-no-se-actualiza-correctamente-a-veces-en-la-configuracion-global-checkout
 locale: es
 kiStatus: Backlog
 internalReference: 863726
@@ -18,7 +18,9 @@ internalReference: 863726
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza Global Checkout, y el cambio de utilizar el documento por defecto y un documento auto-identificado y el valor informado para el campo de número de documento no "tomarlo" correctamente.

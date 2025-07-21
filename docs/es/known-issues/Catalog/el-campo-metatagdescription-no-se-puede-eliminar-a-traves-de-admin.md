@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: metatagdescription-field-cannot-be-deleted-through-admin
+slugEN: el-campo-metatagdescription-no-se-puede-eliminar-a-traves-de-admin
 locale: es
 kiStatus: Backlog
 internalReference: 979691
@@ -18,7 +18,9 @@ internalReference: 979691
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

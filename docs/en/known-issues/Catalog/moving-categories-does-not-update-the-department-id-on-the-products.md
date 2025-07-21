@@ -1,5 +1,5 @@
 ---
-title: 'Moving categories does not update the department ID on the Products'
+title: "Moving categories does not update the department ID on the Products"
 id: 7unyFh8IcgF7bmvXV7V37m
 status: PUBLISHED
 createdAt: 2022-06-23T19:50:55.026Z

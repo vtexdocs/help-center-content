@@ -1,5 +1,5 @@
 ---
-title: 'Category translation fields being overwritten on catalog graphql'
+title: "Category translation fields being overwritten on catalog graphql"
 id: 2nZlEN8Tlt7oKfF77u63ch
 status: PUBLISHED
 createdAt: 2023-03-22T15:48:59.725Z

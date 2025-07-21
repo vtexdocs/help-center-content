@@ -1,5 +1,5 @@
 ---
-title: 'O campo de número de documento (RUT) está tendo o último dígito excluído aleatoriamente no iOS'
+title: "O campo de número de documento (RUT) está tendo o último dígito excluído aleatoriamente no iOS"
 id: 6KcbAWPN3AylZEm6IkSw3I
 status: PUBLISHED
 createdAt: 2023-10-18T22:53:27.101Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: document-number-field-rut-randomly-getting-last-digit-deleted-on-ios
+slugEN: o-campo-de-numero-de-documento-rut-esta-tendo-o-ultimo-digito-excluido-aleatoriamente-no-ios
 locale: pt
 kiStatus: Backlog
 internalReference: 921944
@@ -18,7 +18,9 @@ internalReference: 921944
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Somente no Safari/iOS, ao preencher o número do documento e percorrer os campos de dados do cliente, o campo do número do documento (RUT) terá o último dígito excluído.

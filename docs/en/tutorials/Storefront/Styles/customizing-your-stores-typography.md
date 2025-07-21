@@ -18,7 +18,9 @@ subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
 The typography of your online store is a tool for showing your brand identity to your customers.
 In the Admin, you have the flexibility to customize your store's typography to meet your business needs.
 
->⚠️ Keep in mind that changes made to your store's typography in the **Storefront** override typography changes made in the store's code. Please contact your development team and make sure that these changes will be set in the Storefront or in your store's code.
+<div class="alert alert-warning">
+  <p>Keep in mind that changes made to your store's typography in the <b>Storefront</b> override typography changes made in the store's code. Please contact your development team and make sure that these changes will be set in the Storefront or in your store's code.</p>
+</div>
 
 ## Adding custom font families
 
@@ -36,7 +38,9 @@ In the Admin, you have the flexibility to customize your store's typography to m
 
 6. Click **Upload** to upload the desired font file.
 
->⚠️ The font family file must have one of the following extensions: <i>.ttf</i> or <i>.woff</i>.
+<div class="alert alert-warning">
+<p>The font family file must have one of the following extensions: <i>.ttf</i> or <i>.woff</i>.</p>
+</div>
 
 7. Once the files have been uploaded, choose a font style. The accepted values are: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` and `Black Italic`.
 

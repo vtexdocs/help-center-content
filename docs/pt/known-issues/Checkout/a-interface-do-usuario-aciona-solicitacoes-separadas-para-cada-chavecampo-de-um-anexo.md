@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário aciona solicitações separadas para cada chave/campo de um anexo'
+title: "A interface do usuário aciona solicitações separadas para cada chave/campo de um anexo"
 id: 5IF3veMFTFi9dERoEokokt
 status: PUBLISHED
 createdAt: 2024-03-01T21:05:37.154Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-triggers-separate-requests-for-each-keyfield-of-an-attachment
+slugEN: a-interface-do-usuario-aciona-solicitacoes-separadas-para-cada-chavecampo-de-um-anexo
 locale: pt
 kiStatus: Backlog
 internalReference: 336371
@@ -18,7 +18,9 @@ internalReference: 336371
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando você define o valor de um campo de anexo de item por meio da interface do usuário, isso aciona uma solicitação para atualizar o orderForm, mesmo que ainda haja mais campos restantes.

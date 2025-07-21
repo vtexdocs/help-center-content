@@ -16,9 +16,9 @@ legacySlug: change-seller-for-affiliations-that-support-native-split-faq
 
 During the purchase process in a marketplace, it may be necessary to change the seller that will deliver the product to the final customer. One of the most common reasons is a stockout, which may lead to order cancellations.
 
-The new __Change seller__ feature for marketplaces with affiliations that support split payments allows you to [change the seller](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) and ensure that the sale is completed, avoiding refunds and unnecessary transactions.
+The new __Change seller__ feature for marketplaces with affiliations that support split payments allows you to [change the seller](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) and ensure that the sale is completed, avoiding refunds and unnecessary transactions.
 
-For more details about the solution, access the article [Affiliations with native split payment and seller change](https://help.vtex.com/en/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0Aletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A). If you want to know how to use it, check out our tutorial [How to use the Change Seller feature](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+For more details about the solution, access the article [Affiliations with native split payment and seller change](/en/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0Aletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A). If you want to know how to use it, check out our tutorial [How to use the Change Seller feature](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 We have compiled below the main questions that may arise regarding seller changes:
 
@@ -49,7 +49,9 @@ When the payment is settled, the system will send information about recipients a
 
 No. Split payments support the change seller feature only when made with one or two credit cards. This is because most of the payment providers settle the value immediately for payment methods such as “boleto” (popular Brazilian off-line payment method) or debit card. Therefore, we cannot offer a time window to change sellers in this case. 
 
->⚠️ If you make an attempt to change sellers with payment methods other than credit card, you will receive the following API call error message: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done".
+<div class="alert alert-warning">
+  If you make an attempt to change sellers with payment methods other than credit card, you will receive the following API call error message: "Error when updating additional data for transaction = 722726D8B04C4AAFB1EC945076FD2913. Payout split was already done".
+  </div>
 
 ### Is it possible to partially or fully refund an order?
 
@@ -76,7 +78,9 @@ However, it was necessary to change the seller. After the change, the order was 
 
 On the Partner02 dashboard, you can see a discount of BRL 0.28 identified as "Coinshop Discount". Although the price advertised by the seller Partner02 was BRL 0.30, it will receive only BRL 0.02.
 
->ℹ️ It is worth mentioning that in this case, it was possible to change sellers because the total cost difference was no more than BRL 0.30. If the difference was higher than BRL 0.31, it would not be possible to change sellers.
+<div class="alert alert-info">
+  It is worth mentioning that in this case, it was possible to change sellers because the total cost difference was no more than BRL 0.30. If the difference was higher than BRL 0.31, it would not be possible to change sellers.
+  </div>
 
 After the order invoicing, the system settled BRL 5.02 and performed the split payment.
 
@@ -108,9 +112,9 @@ Even though the price advertised by the seller Japacoin was BRL 0.04, the amount
 
 ### How can I see the price differences?
 
-During the change seller process, the marketplace can use the [API](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) for shopping cart simulation. 
+During the change seller process, the marketplace can use the [API](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) for shopping cart simulation. 
 
-With the sellers’ information in hand, you can simulate shopping carts to verify product availability. For more information, please check this tutorial on our Help Center: [How to use the Change Seller feature](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+With the sellers’ information in hand, you can simulate shopping carts to verify product availability. For more information, please check this tutorial on our Help Center: [How to use the Change Seller feature](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 During the simulation step, you can check the price of the new seller’s products and shipping and then decide if you want to change sellers.
 

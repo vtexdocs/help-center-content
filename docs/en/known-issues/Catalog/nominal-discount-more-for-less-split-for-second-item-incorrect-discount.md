@@ -1,5 +1,5 @@
 ---
-title: 'Nominal discount + More for Less + Split for second item --> incorrect discount'
+title: "Nominal discount + More for Less + Split for second item --> incorrect discount"
 id: 4hxRWUY6P8aDR9T1KHd3Yf
 status: PUBLISHED
 createdAt: 2024-07-25T16:48:26.511Z

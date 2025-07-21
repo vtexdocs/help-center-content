@@ -1,5 +1,5 @@
 ---
-title: 'Las opciones de entrega programadas no se actualizan al cambiar de dirección o de vendedor'
+title: "Las opciones de entrega programadas no se actualizan al cambiar de dirección o de vendedor"
 id: z1sjFNyZVUJAR7G95itfT
 status: PUBLISHED
 createdAt: 2023-06-12T12:07:06.920Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 3iOk6R6XYZ9O18JHFLPk43
 tag: Checkout
-slugEN: schedule-delivery-options-are-not-updated-when-changing-address-or-seller
+slugEN: las-opciones-de-entrega-programadas-no-se-actualizan-al-cambiar-de-direccion
 locale: es
 kiStatus: Backlog
 internalReference: 288574

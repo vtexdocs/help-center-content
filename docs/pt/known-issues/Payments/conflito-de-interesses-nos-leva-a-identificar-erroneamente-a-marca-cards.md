@@ -1,5 +1,5 @@
 ---
-title: 'Conflito de interesses nos leva a identificar erroneamente a marca Cards'
+title: "Conflito de interesses nos leva a identificar erroneamente a marca Cards"
 id: 338SA4RpmfHwaqoY62uRjS
 status: PUBLISHED
 createdAt: 2022-03-25T22:11:51.426Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: regex-conflict-causes-us-to-misidentify-the-cards-brand
+slugEN: conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards
 locale: pt
 kiStatus: Backlog
 internalReference: 316213
@@ -18,7 +18,9 @@ internalReference: 316213
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

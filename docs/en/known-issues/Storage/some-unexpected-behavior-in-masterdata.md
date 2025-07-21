@@ -1,5 +1,5 @@
 ---
-title: 'Some unexpected behavior in MasterData'
+title: "Some unexpected behavior in MasterData"
 id: 4E9jB5vkUMucnAuwUMOGQL
 status: PUBLISHED
 createdAt: 2023-09-18T21:27:15.291Z

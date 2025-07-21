@@ -1,5 +1,5 @@
 ---
-title: 'Card brands incorrectly processed as Visa'
+title: "Card brands incorrectly processed as Visa"
 id: 7xXie4JWGLWe0ImmHAHzSy
 status: PUBLISHED
 createdAt: 2024-04-30T13:28:23.035Z

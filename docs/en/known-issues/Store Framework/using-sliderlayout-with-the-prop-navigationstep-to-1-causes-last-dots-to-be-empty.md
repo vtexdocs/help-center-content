@@ -1,5 +1,5 @@
 ---
-title: 'Using slider-layout with the prop navigationStep to 1 causes last dots to be empty'
+title: "Using slider-layout with the prop navigationStep to 1 causes last dots to be empty"
 id: 28hbmflHNhAQmHN51Y6abX
 status: PUBLISHED
 createdAt: 2023-09-29T14:41:34.387Z

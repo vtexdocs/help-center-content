@@ -1,5 +1,5 @@
 ---
-title: 'No se informa al usuario cuando algo va mal'
+title: "No se informa al usuario cuando algo va mal"
 id: 6mjLK4MVOqWeiAXtwcl8rS
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:16.913Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: no-feedback-to-the-user-when-something-goes-wrong
+slugEN: no-se-informa-al-usuario-cuando-algo-va-mal
 locale: es
 kiStatus: No Fix
 internalReference: 339072
@@ -18,7 +18,9 @@ internalReference: 339072
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando el usuario está en la caja introduciendo sus datos para finalizar su compra y el internet se cae y vuelve a caer no se devuelve la información al usuario.

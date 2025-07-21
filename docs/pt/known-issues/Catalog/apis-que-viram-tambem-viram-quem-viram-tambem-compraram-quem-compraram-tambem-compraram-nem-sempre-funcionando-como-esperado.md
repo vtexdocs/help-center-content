@@ -1,5 +1,5 @@
 ---
-title: 'APIs Que Viram Também Viram, Quem Viram Também Compraram, Quem Compraram Também Compraram Nem sempre funcionando como esperado'
+title: "APIs Que Viram Também Viram, Quem Viram Também Compraram, Quem Compraram Também Compraram Nem sempre funcionando como esperado"
 id: KawgHAWqUlCvCGCAaHxDj
 status: PUBLISHED
 createdAt: 2022-12-07T12:32:13.613Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected
+slugEN: apis-que-viram-tambem-viram-quem-viram-tambem-compraram-quem-compraram-tambem-compraram-nem-sempre-funcionando-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 712015
@@ -18,7 +18,9 @@ internalReference: 712015
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

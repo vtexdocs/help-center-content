@@ -1,5 +1,5 @@
 ---
-title: 'El pago no muestra la promoción de envío en el primer instante para una condición específica'
+title: "El pago no muestra la promoción de envío en el primer instante para una condición específica"
 id: 14rQaM53csQQeA1wu5lRj8
 status: PUBLISHED
 createdAt: 2022-05-20T17:46:10.644Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-does-not-display-shipping-promotion-at-first-instant-for-specific-condition
+slugEN: el-pago-no-muestra-la-promocion-de-envio-en-el-primer-instante-para-una-condicion-especifica
 locale: es
 kiStatus: No Fix
 internalReference: 280144
@@ -18,7 +18,9 @@ internalReference: 280144
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El checkout (backend) tiene un comportamiento de pre-seleccionar el mejor método de entrega para el usuario tan pronto como un código postal es informado.

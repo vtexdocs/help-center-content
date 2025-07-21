@@ -20,7 +20,7 @@ De la misma forma en que el cliente puede acceder a través de Facebook, tambié
 
 ## Registrar Client Id y Client Secret para iniciar sesión con Google
 
-Antes de realizar la configuración en VTEX, usted necesita configurar el registro en Google. Para esto, siga las instrucciones del [artículo sobre registro de Client Id y Client Secret para iniciar sesión en Google](https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-google?locale=es).
+Antes de realizar la configuración en VTEX, usted necesita configurar el registro en Google. Para esto, siga las instrucciones del [artículo sobre registro de Client Id y Client Secret para iniciar sesión en Google](/es/tutorial/registrar-client-id-y-client-secret-para-login-con-google?locale=es).
 
 ## Configurar inicio de sesión en VTEX
 

@@ -15,15 +15,15 @@ legacySlug: configurar-a-regionalizacao-de-sellers
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-**Region** é a funcionalidade responsável por buscar os [sellers white labels](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#) de um marketplace conforme regiões de entrega e definir quais deles são capazes de atender ao pedido do cliente de acordo com a sua localização. Além disto, por meio dela também é possível filtrar preços e a disponibilidade dos items no estoque regionalmente.
+**Region** é a funcionalidade responsável por buscar os [sellers white labels](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#) de um marketplace conforme regiões de entrega e definir quais deles são capazes de atender ao pedido do cliente de acordo com a sua localização. Além disto, por meio dela também é possível filtrar preços e a disponibilidade dos items no estoque regionalmente.
 
-Quando o cliente navega pela loja, a sua localização é registrada pelo [VTEX Session](https://help.vtex.com/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). Estes dados são encaminhados para o Checkout, que por sua vez, gera uma lista de sellers habilitados para aquela região de entrega, denominada **regionId**.
+Quando o cliente navega pela loja, a sua localização é registrada pelo [VTEX Session](/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). Estes dados são encaminhados para o Checkout, que por sua vez, gera uma lista de sellers habilitados para aquela região de entrega, denominada **regionId**.
 
 Para verificar quais sellers foram considerados para uma determinada região em sua loja, acesse o endpoint [Get sellers by region](https://developers.vtex.com/vtex-rest-api/reference/getsellersbyregion).
 
 ## Divergências entre disponibilidade e preço
 
-Os itens e preços mostrados na vitrine de uma loja são baseados no cadastro do [catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) realizado pelo lojista. Durante o processo de compra podem ocorrer situações nas quais um ou mais itens tenham divergências na disponibilidade de entrega e preços (incluindo promoções) entre a vitrine e o carrinho no Checkout.
+Os itens e preços mostrados na vitrine de uma loja são baseados no cadastro do [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) realizado pelo lojista. Durante o processo de compra podem ocorrer situações nas quais um ou mais itens tenham divergências na disponibilidade de entrega e preços (incluindo promoções) entre a vitrine e o carrinho no Checkout.
 
 Uma divergência de disponibilidade de entrega (item disponível na vitrine, mas indicado como “Esgotado” no carrinho), ocorre quando:
 
@@ -40,7 +40,9 @@ Com a utilização do **Region**, caso o cliente realize o login na loja ainda d
 
 Para ativar o **Region** em sua loja, é necessário realizar os seguintes passos:
 
-1. [Configurar preço e disponibilidade de SKUs por Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
+1. [Configurar preço e disponibilidade de SKUs por Region](/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
 2. [Habilitar a funcionalidade Region](https://developers.vtex.com/docs/guides/enable-the-region-for-skus)
 
->ℹ️ Atualmente, o **Region** está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.
+<div class="alert alert-info">
+  Atualmente, o <b>Region</b> está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.
+</div>

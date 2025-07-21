@@ -1,5 +1,5 @@
 ---
-title: 'El conector Adyen heredado es incapaz de denegar de forma asíncrona la captura de pagos'
+title: "El conector Adyen heredado es incapaz de denegar de forma asíncrona la captura de pagos"
 id: 5tdNyMfA5zeNg4sCbPQgUc
 status: PUBLISHED
 createdAt: 2024-02-02T15:15:57.980Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture
+slugEN: el-conector-adyen-heredado-es-incapaz-de-denegar-de-forma-asincrona-la-captura-de-pagos
 locale: es
 kiStatus: Backlog
 internalReference: 976005
@@ -18,7 +18,9 @@ internalReference: 976005
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

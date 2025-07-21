@@ -19,7 +19,9 @@ O **Relatório de Indexação** é o relatório que indica o status de indexaç�
 
 ![RelatorioIndexação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Reports/utilizar-o-relatorio-de-indexacao_1.png)
 
->ℹ️ **Nota:** Para mais informações, acesse [Entendendo o funcionamento da indexação.](http://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
+<div class="alert alert-info">
+<strong>Nota:</strong> Para mais informações, acesse <a href="http://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao">Entendendo o funcionamento da indexação.</a>
+</div>
 
 ## Como acessar o relatório de indexação
 

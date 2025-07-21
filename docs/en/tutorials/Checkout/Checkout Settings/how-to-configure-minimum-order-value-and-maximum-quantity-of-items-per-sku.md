@@ -32,7 +32,9 @@ In B2B operations, there is a need to maintain relationships with buyers who req
 
 ![Minimum Order Value - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku_1.png)
 
->⚠️ The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
+<div class="alert alert-warning">
+The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
+</div>
 
 ## Setting a maximum number of items of the same SKU per cart
 
@@ -42,7 +44,9 @@ In B2B operations, there is a need to maintain relationships with buyers who req
 
 ![Max quantity of the same SKU in cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/Checkout%20Settings/how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku_2.png)
 
->⚠️ There are no limits on the maximum number of **same SKU** items per cart. The only restriction refers to the maximum number of items from **different SKUs**, which must be a maximum of 300 items per cart.
+<div class="alert alert-warning">
+There are no limits on the maximum number of <b>same SKU</b> items per cart. The only restriction refers to the maximum number of items from <b>different SKUs</b>, which must be a maximum of 300 items per cart.
+</div>
 
 If you want to use actions that prevent the user from exceeding the specified values even during the purchase flow (for example, create a cart button lock when the maximum amount of items is reached), it will be necessary to create a customization in the front-end of the store.
 

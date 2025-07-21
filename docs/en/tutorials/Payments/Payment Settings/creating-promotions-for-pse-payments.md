@@ -15,7 +15,7 @@ legacySlug: creating-promotions-for-pse-payments
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[PSE (Pagos Seguros en Línea)](https://help.vtex.com/en/tutorial/setting-up-payments-with-pse--7dRChubn7TqdEyWrHQEQp6) is a payment method available in VTEX stores for transactions in Colombia. If you already use PSE in your store and want to offer a special payment condition to customers based on the type of bank selected, you can create a regular promotion for PSE.
+[PSE (Pagos Seguros en Línea)](/en/tutorial/setting-up-payments-with-pse--7dRChubn7TqdEyWrHQEQp6) is a payment method available in VTEX stores for transactions in Colombia. If you already use PSE in your store and want to offer a special payment condition to customers based on the type of bank selected, you can create a regular promotion for PSE.
 
 To configure promotions by bank using PSE, you need to:
 
@@ -60,7 +60,9 @@ After getting the bank code, create the regular promotion following the steps be
 
 <blockquote><ui>6. In <b>What is the type and amount of discount?</b>, define the discount type for the promotion and enter the amount.</ui>
 
-<blockquote><ui>>ℹ️ The "Percentage" type is the most common for bank promotions.</blockquote>
+<blockquote><ui><div class="alert alert-info">
+The "Percentage" type is the most common for bank promotions.
+</div></blockquote>
 <br> 
 <blockquote><ui>7. In the <b>To which items will this promotion apply?</b> section, select whether the discount for payments made with the desired bank via PSE should apply to all store products or only to specific product types. If you want to restrict the promotion, configure the other fields in this section.</ui>
 
@@ -70,7 +72,9 @@ After getting the bank code, create the regular promotion following the steps be
 
 <blockquote><ui>10. In the <b>Restrictions and limitations of use</b> section, if you want the promotion to apply with other store promotions, select the <b>Apply with other promotions</b> option.</ui>
 
-<blockquote><ui>>⚠️ PSE promotions will always be added to the cart when the **Apply with other promotions** option is selected and other promotions are applied to the products. If the **Apply with other promotions** option is not selected, the checkout will use only the promotion that gives the biggest discount on the products.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+  PSE promotions will always be added to the cart when the <b>Apply with other promotions</b> option is selected and other promotions are applied to the products. If the <b>Apply with other promotions</b> option is not selected, the checkout will use only the promotion that gives the biggest discount on the products.
+</div></blockquote>
 <br>  
 <blockquote><ui>11. Click <b>Save</b>.</ui>
 

@@ -1,5 +1,5 @@
 ---
-title: 'Los usuarios no pueden acceder a la administración de la tarjeta regalo (página en bucle)'
+title: "Los usuarios no pueden acceder a la administración de la tarjeta regalo (página en bucle)"
 id: 5FowAAf8VulbVXcQIeSmHd
 status: PUBLISHED
 createdAt: 2024-05-02T15:26:57.386Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: users-cant-access-gift-card-admin-looping-page
+slugEN: los-usuarios-no-pueden-acceder-a-la-administracion-de-la-tarjeta-regalo-pagina-en-bucle
 locale: es
 kiStatus: Backlog
 internalReference: 1025971
@@ -18,7 +18,9 @@ internalReference: 1025971
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Si los usuarios bloquean las cookies de terceros (configuración del navegador) no podrán acceder al módulo de Tarjeta Regalo en admin, hay una cookie establecida en otro dominio VTEX.

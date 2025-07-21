@@ -1,5 +1,5 @@
 ---
-title: 'Problem in putting discounts in size order'
+title: "Problem in putting discounts in size order"
 id: 7JlXcIcicgQwkOkCuce4Ow
 status: PUBLISHED
 createdAt: 2017-04-03T20:07:11.542Z

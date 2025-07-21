@@ -1,5 +1,5 @@
 ---
-title: 'Shipping policy stuck in processing status is displayed as active in the new logistics UI'
+title: "Shipping policy stuck in processing status is displayed as active in the new logistics UI"
 id: 6c6JrnkhTdz5kM8kGzsRXQ
 status: PUBLISHED
 createdAt: 2023-10-25T23:48:45.891Z

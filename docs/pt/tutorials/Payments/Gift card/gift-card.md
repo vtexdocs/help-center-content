@@ -20,7 +20,7 @@ O GiftCard ou vale-presente é um dos recursos do módulo de Pagamentos que pode
 - Meio de pagamento para compras; 
 - Programa de fidelidade que o lojista pode conectar com o sistema VTEX. 
 
-Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](https://help.vtex.com/pt/tutorial/integrando-com-gift-card?locale=pt "como integrar com o GiftCard").   
+Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](/pt/tutorial/integrando-com-gift-card?locale=pt "como integrar com o GiftCard").   
 
 ## Como criar o Vale-presente pelo Admin
 
@@ -32,7 +32,9 @@ Para criar um novo vale-presente, confira o passo a passo:
   <br>
   <li>Clique no botão azul <b>Criar vale</b>.</li>  
   <br>
->ℹ️ Na tela de criação do vale, o campo **Vale-presente** é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.
+<div class = "alert alert-info">
+  <p>Na tela de criação do vale, o campo <b>Vale-presente</b> é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.</p>
+</div>
 <br>
   <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
   <br>
@@ -44,9 +46,13 @@ Para criar um novo vale-presente, confira o passo a passo:
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
 </ul><br>
 
->⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
+<div class="alert alert-warning">
+<strong>Atenção</strong>: o preenchimento dos campos “Valor” e “Data de expiração” é <strong>obrigatório</strong>. Caso o contrário, o vale-presente não será salvo.
+</div>
 
->❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<div class="alert alert-danger">
+A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
 <ul>
@@ -56,7 +62,9 @@ Depois de preencher os campos corretamente, o usuário poderá assinalar até tr
 <br>
   <li>Por fim, clique no botão <b>Salvar</b>.</li>
 <br>
->ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+<div class="alert alert-info">
+Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+</div>
 
 </ol>
 
@@ -77,9 +85,13 @@ Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a 
   <li><b>Data de expiração</b>: trata-se da data de vigência da utilização de todos os vales do lote.</li>
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
   <br>
-  >⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
+  <div class="alert alert-warning">
+<strong>Atenção</strong>: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é <strong>obrigatório</strong>. Caso o contrário, os vales-presente não serão salvos.
+</div>
 <br>
-  >❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+  <div class="alert alert-danger">
+A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+</div>
 <br>
   <li><b>Recarregável</b>: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
   <li><b>Reutilizável</b>: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
@@ -90,7 +102,9 @@ Uma nova tela irá aparecer confirmando que foram gerados o número de vales-pre
 <br>
   <li>Por fim, clique no botão <b>Voltar</b>.</li>
 <br>
->ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+<div class="alert alert-info">
+Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+</div>
 </ol>
 
 ## Como configurar o Vale-presente como meio de pagamento
@@ -108,7 +122,7 @@ Siga os passos abaixo para configurar o vale-presente:
 7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
 8. Clique em `Salvar`.
 
-Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
+Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
 
 Por fim, clique no botão azul Salvar.
 

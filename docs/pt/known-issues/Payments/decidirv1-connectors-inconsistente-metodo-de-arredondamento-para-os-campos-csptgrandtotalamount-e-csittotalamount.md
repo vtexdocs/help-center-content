@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: decidirv1-connectors-inconsistent-rounding-method-for-csptgrandtotalamount-and-csittotalamount-fields
+slugEN: decidirv1-connectors-inconsistente-metodo-de-arredondamento-para-os-campos-csptgrandtotalamount-e-csittotalamount
 locale: pt
 kiStatus: Backlog
 internalReference: 787367
@@ -18,7 +18,9 @@ internalReference: 787367
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O conector DecidirV1 antigo utiliza um método interno para calcular os campos `CSPTGRANDTOTALAMOUNT` e `CSITTOTALAMOUNT`, que é o produto entre o valor e a quantidade do produto. Esta abordagem resulta em uma cadeia com duas casas decimais. Consequentemente, quando o preço do produto contém mais de duas casas decimais, o valor do campo `CSPTGRANDTOTALAMOUNT` diverge, pois é o próprio valor do pagamento.

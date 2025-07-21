@@ -19,7 +19,7 @@ Quando um cliente solicitar o cancelamento de um pedido realizado pelo VTEX Sale
 
 ## Cenário 1: o cliente não está mais na loja
 
-Se o pedido tiver sido pago por **Venda direta - Débito ou Crédito** e o cliente não estiver mais presente na loja física — ou seja, não puder passar o cartão no terminal — é necessário  realizar o cancelamento em **Pedidos** > **Todos os pedidos**, no Admin VTEX. Esse procedimento só pode ser realizado por um usuário com o [perfil de acesso OMS - Full access](https://help.vtex.com/pt/tutorial/como-criar-perfil-de-acesso/#oms-full-access), seguindo as orientações do tutorial [Cancelar pedido](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186).
+Se o pedido tiver sido pago por **Venda direta - Débito ou Crédito** e o cliente não estiver mais presente na loja física — ou seja, não puder passar o cartão no terminal — é necessário  realizar o cancelamento em **Pedidos** > **Todos os pedidos**, no Admin VTEX. Esse procedimento só pode ser realizado por um usuário com o [perfil de acesso OMS - Full access](/pt/tutorial/como-criar-perfil-de-acesso/#oms-full-access), seguindo as orientações do tutorial [Cancelar pedido](/pt/tutorial/como-cancelar-pedido--tutorials_186).
 
 Neste caso, o pedido não será cancelado de imediato. A variação de tempo é determinada pelo adquirente e pode levar de 30 minutos a 24 horas.
 

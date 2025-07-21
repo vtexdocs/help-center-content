@@ -15,7 +15,9 @@ legacySlug: como-resolver-pedidos-de-suscripcion-con-errores
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
->ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
 
 Es posible identificar y gestionar errores en pedidos de suscripción a través del módulo **Suscripciones** > **Dashboards** > **Pedidos de suscripción** en el Admin.
 
@@ -30,7 +32,7 @@ Los problemas en ciclos de suscripción se producen cuando hay un impedimento pa
 
 La pestaña **Ciclos con un problema**, que se ilustra en la siguiente imagen, recoge los pedidos de suscripción que tienen este tipo de problemas.
 
-![pedidos_assinaturas_print_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
+![pedidos_assinaturas_print_es](https://images.ctfassets.net/alneenqid6w5/1dhCAuymIdeS4JyaxC7ep2/018f9060f82320eada25f385328cbd3a/pedidos_assinaturas_print_es.png)
 
 Desde esta pestaña se puede gestionar los pedidos que presentan ciclos con un problema y realizar reintentos manuales de creación de pedidos. Por ejemplo, cuando un producto no está disponible, puede ajustar el stock y volver a intentarlo.
 
@@ -187,7 +189,7 @@ Los errores de pago se producen durante el flujo de aprobación del pago, como e
 
 Los pedidos con este tipo de error pueden visualizarse en la pestaña **Error de pago**, ilustrada en la siguiente imagen.
 
-![pedidos_assinaturas_print_erro_pagamento_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Subscriptions/Subscription%20Guides/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
+![pedidos_assinaturas_print_erro_pagamento_es](https://images.ctfassets.net/alneenqid6w5/2Cc9hhcSr6CjeU3tDIerqo/adfef0d0054bb88ef52d32d6ce7d81fd/pedidos_assinaturas_print_erro_pagamento_es.png)
 
 Para analizar errores de pago, realice el siguiente procedimiento.
 
@@ -196,12 +198,12 @@ Para analizar errores de pago, realice el siguiente procedimiento.
 3. En la sección de **Pedidos de suscripción**, haga clic en la pestaña **Error de pago**.
 4. Identifique el pedido deseado y haga clic en el ID del pedido. Será dirigido a la página de detalles del pedido en el módulo de **Todos los pedidos**. 
 5. Una vez en la página de detalles del pedido, haga clic en **Ver detalles de la transacción**, en la opción **Pago**. Será dirigido a la página de Transacciones en el módulo **Pagos**. 
-6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](https://help.vtex.com/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
+6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
 
 Los pedidos con errores de pago pasan por 5 reintentos automáticos en un periodo de 12 horas, de acuerdo con  el flujo del gateway. No es posible realizar reintentos manuales para corregir errores de pago en el Admin. 
 
-Los clientes de su tienda pueden editar sus suscripciones y realizar otras acciones a través de la página [Mi cuenta](https://help.vtex.com/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Esto permite que algunos errores de pago sean resueltos por sus propios clientes, incluso después del período de reintentos automáticos, alterando la forma de pago.
+Los clientes de su tienda pueden editar sus suscripciones y realizar otras acciones a través de la página [Mi cuenta](/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Esto permite que algunos errores de pago sean resueltos por sus propios clientes, incluso después del período de reintentos automáticos, alterando la forma de pago.
 
 #### **Más información**
 
-* [Cómo gestionar Suscripciones](https://help.vtex.com/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+* [Cómo gestionar Suscripciones](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)

@@ -1,16 +1,16 @@
 ---
-title: '[Shopee] No se pudo crear el producto.'
+title: "[Shopee] No se pudo crear el producto."
 id: 4h5FLGm6vI7VPn48agVX6X
 status: PUBLISHED
 createdAt: 2022-10-25T16:14:49.143Z
-updatedAt: 2023-02-07T12:57:43.870Z
-publishedAt: 2023-02-07T12:57:43.870Z
+updatedAt: 2025-07-01T19:38:53.226Z
+publishedAt: 2025-07-01T19:38:53.226Z
 firstPublishedAt: 2022-10-25T16:14:50.455Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: shopee-could-not-create-product
+slugEN: shopee-no-se-pudo-crear-el-producto
 locale: es
 kiStatus: Fixed
 internalReference: 685149
@@ -18,7 +18,9 @@ internalReference: 685149
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

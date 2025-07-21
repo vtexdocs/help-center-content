@@ -1,5 +1,5 @@
 ---
-title: 'Criteria composition is not returned on the explained search UI'
+title: "Criteria composition is not returned on the explained search UI"
 id: 5IyEZe5GBlt732g0rbU5T4
 status: PUBLISHED
 createdAt: 2023-06-29T15:05:18.815Z

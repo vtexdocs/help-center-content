@@ -41,7 +41,9 @@ Para criar um vale-presente em uma moeda específica, siga os passos abaixo:
 
 ![Vales-presente multimoedas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-07-27-vales-presente-multimoedas_1.PNG)
 
-As moedas disponíveis serão as mesmas cadastradas nas [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada loja.
+As moedas disponíveis serão as mesmas cadastradas nas [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada loja.
 
->⚠️ A escolha da moeda deve ser realizada durante a criação de cada vale-presente ou de um lote de vales-presente. Não é possível modificar a moeda atribuída a um vale-presente após a sua criação.
+<div class="alert alert-warning">
+A escolha da moeda deve ser realizada durante a criação de cada vale-presente ou de um lote de vales-presente. Não é possível modificar a moeda atribuída a um vale-presente após a sua criação. 
+</div>
 

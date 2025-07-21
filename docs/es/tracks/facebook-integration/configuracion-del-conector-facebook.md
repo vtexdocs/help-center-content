@@ -23,7 +23,7 @@ El conector nativo que se utiliza para la integración con Facebook se configura
 5. Rellene los campos que aparecen en la pantalla según se describen a continuación y después haga clic en `Guardar configuración` (los campos marcados con el símbolo * son obligatorios).
 
 - **Integración (si elige desactivar la integración, se eliminará toda la configuración, incluyendo la autenticación y la afiliación)*:** seleccione _Activada_ para iniciar la integración.
-- **ID del afiliado*:** código de identificación para crear un [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) que aún no está registrado en tu sistema. El código debe estar compuesto por tres consonantes, repetidas o no. No se aceptan vocales. Sugerencia: FCB. La configuración del conector crea el afiliado automáticamente.
+- **ID del afiliado*:** código de identificación para crear un [afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) que aún no está registrado en tu sistema. El código debe estar compuesto por tres consonantes, repetidas o no. No se aceptan vocales. Sugerencia: FCB. La configuración del conector crea el afiliado automáticamente.
 - **Email del afiliado*:** ingrese un _email_ para el afiliado que está creando. Las notificaciones sobre la integración se enviarán a este _email_.
 - **Política comercial*:** es el ID de la política comercial que se utilizará en la integración. Todos los productos vinculados a esta política comercial se enviarán a Facebook.
 - **Nombre de visualización del producto*:** determina cuál será la regla para nombrar los SKU en Facebook. Hay dos opciones que puede seleccionar.

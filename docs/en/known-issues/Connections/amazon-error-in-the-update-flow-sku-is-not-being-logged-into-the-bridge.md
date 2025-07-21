@@ -1,5 +1,5 @@
 ---
-title: '[Amazon] Error in the update flow sku is not being logged into the bridge'
+title: "[Amazon] Error in the update flow sku is not being logged into the bridge"
 id: 1oBkaT6GWZfhB4t2Qpn6c0
 status: PUBLISHED
 createdAt: 2024-02-27T19:40:49.825Z

@@ -1,5 +1,5 @@
 ---
-title: 'Tiempos de espera de InternalSearchError en el Portal'
+title: "Tiempos de espera de InternalSearchError en el Portal"
 id: 6D6mdJ3zQypy1lcuht7WuU
 status: PUBLISHED
 createdAt: 2024-06-03T15:25:56.353Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: internalsearcherror-timeouts-on-portal
+slugEN: tiempos-de-espera-de-internalsearcherror-en-el-portal
 locale: es
 kiStatus: Backlog
 internalReference: 1043003
@@ -18,7 +18,9 @@ internalReference: 1043003
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En la actualidad, las tiendas que utilizan la búsqueda heredada del Portal pueden enfrentarse, al utilizar varios filtros en su tienda, como filtros de colección en plantillas, a tiempos de espera aleatorios e intermitentes que a menudo se muestran como un error "Algo ha ido mal" para los clientes.

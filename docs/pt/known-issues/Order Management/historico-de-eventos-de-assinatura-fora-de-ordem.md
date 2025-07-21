@@ -1,5 +1,5 @@
 ---
-title: 'Histórico de eventos de assinatura fora de ordem'
+title: "Histórico de eventos de assinatura fora de ordem"
 id: 5w78uE60pzjfOagGnRA2d5
 status: PUBLISHED
 createdAt: 2023-08-01T18:53:21.754Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscription-event-history-out-of-order
+slugEN: historico-de-eventos-de-assinatura-fora-de-ordem
 locale: pt
 kiStatus: Backlog
 internalReference: 872697
@@ -18,7 +18,9 @@ internalReference: 872697
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, o Histórico de assinatura na área Minha assinatura não exibe os eventos em uma ordem predefinida, portanto, pode mostrar os eventos em ordem não cronológica;

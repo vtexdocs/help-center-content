@@ -3,8 +3,8 @@ title: 'Configurar inicio de sesión con Facebook y Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-10-20T19:35:59.221Z
-publishedAt: 2023-10-20T19:35:59.221Z
+updatedAt: 2025-02-28T15:23:10.253Z
+publishedAt: 2025-02-28T15:23:10.253Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
@@ -27,8 +27,8 @@ El comportamiento nativo de la plataforma es ofrecer opciones de inicio de sesi�
 
 Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se deben crear credenciales de OAuth 2.0 (protocolo para la integración) en esos servicios. Para obtenerlas, sigue las instrucciones en los artículos a continuación:
 
-- [Facebook](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 ## Configurar inicio de sesión con los proveedores
 

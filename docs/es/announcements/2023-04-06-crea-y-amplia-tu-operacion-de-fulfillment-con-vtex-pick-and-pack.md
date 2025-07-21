@@ -15,14 +15,14 @@ announcementImageID: ''
 announcementSynopsisES: 'VTEX Pick and Pack proporciona un único lugar para que merchants gestionen el alistamiento, empaque y entrega last-mile.'
 ---
 
-[VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) es la solución que proporciona un único lugar para gestionar el alistamiento, empaque y entrega last-mile utilizando el stock de tiendas físicas y almacenes.
+[VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) es la solución que proporciona un único lugar para gestionar el alistamiento, empaque y entrega last-mile utilizando el stock de tiendas físicas y almacenes.
 
-Además, **VTEX Pick and Pack** los [ecopila datos y análisis](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#insights) de tu tienda para proporcionarte información que puedes utilizar para tomar decisiones estratégicas y ampliar tu operación omnichannel.
+Además, **VTEX Pick and Pack** los [ecopila datos y análisis](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#insights) de tu tienda para proporcionarte información que puedes utilizar para tomar decisiones estratégicas y ampliar tu operación omnichannel.
 
 La solución combina dos funcionalidades y aplicaciones móviles:
 
-- [VTEX Fulfillment](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gestión de alistamiento y empaque.
-- [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): control de la entrega last-mile.
+- [VTEX Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gestión de alistamiento y empaque.
+- [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): control de la entrega last-mile.
 - **Aplicaciones móviles:** aplicaciones para entregadores y conductores.
 
 ![pick_pack_gif_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-04-06-crea-y-amplia-tu-operacion-de-fulfillment-con-vtex-pick-and-pack_1.gif)
@@ -41,7 +41,9 @@ La solución combina:
 -	**Last Mile**: los operadores de la tienda pueden gestionar y dar instrucciones a los repartidores sobre la recolección y entrega de pedidos. Esto incluye optimización de rutas y prueba de recolección/entrega. Además, tu tienda puede integrarse fácilmente con transportadoras externas o un sistema TMS.  
 - **Aplicaciones móviles:** aplicaciones para dispositivos móviles diseñadas exclusivamente para que los alistadores y repartidores puedan realizar sus tareas sin necesidad de acceder al Admin de la tienda. Actualmente, las aplicaciones solo están disponibles para dispositivos Android.  
 
->❗ **VTEX Pick and Pack** no es un sistema de facturación. Los pedidos deben facturarse a través del OMS de VTEX. Puedes ver más información en [Facturar un pedido](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT).
+<div class="alert alert-danger">
+<b>VTEX Pick and Pack</b> no es un sistema de facturación. Los pedidos deben facturarse a través del OMS de VTEX. Puedes ver más información en <a href="https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT">Facturar un pedido</a>.
+</div>
 
 ## ¿Por qué realizamos este cambio?
 
@@ -66,7 +68,7 @@ Para comenzar a utilizar **VTEX Pick and Pack**, habla con tu Customer Success M
 
 ## Más información
 
--	[VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
--	[VTEX Pick and Pack: Fulfillment](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA)
--	[VTEX Pick and Pack: Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr)
+-	[VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
+-	[VTEX Pick and Pack: Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA)
+-	[VTEX Pick and Pack: Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr)
 

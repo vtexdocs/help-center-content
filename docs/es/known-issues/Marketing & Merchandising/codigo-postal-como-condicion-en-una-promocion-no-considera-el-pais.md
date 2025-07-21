@@ -1,5 +1,5 @@
 ---
-title: 'Código Postal como condición en una promoción no considera el país'
+title: "Código Postal como condición en una promoción no considera el país"
 id: 5rPGioNAiWaEmAIMQSACaM
 status: PUBLISHED
 createdAt: 2017-04-05T12:24:01.042Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_41
 tag: Pricing & Promotions
-slugEN: postal-code-as-condition-in-a-promotion-doesnt-consider-the-country
+slugEN: codigo-postal-como-condicion-en-una-promocion-no-considera-el-pais
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'Exclude products from collection not working.'
+title: "Exclude products from collection not working."
 id: 102Z3QRDo07OM6IPJCDlsY
 status: PUBLISHED
 createdAt: 2023-10-20T16:30:13.646Z

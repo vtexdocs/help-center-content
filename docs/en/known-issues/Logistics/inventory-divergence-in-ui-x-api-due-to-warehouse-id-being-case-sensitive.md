@@ -1,5 +1,5 @@
 ---
-title: 'Inventory divergence in UI x API due to warehouse id being case sensitive'
+title: "Inventory divergence in UI x API due to warehouse id being case sensitive"
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z

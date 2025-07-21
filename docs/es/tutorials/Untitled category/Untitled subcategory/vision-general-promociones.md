@@ -24,9 +24,9 @@ A continuación, encontrarás más detalles sobre las diferentes secciones y pá
 ## Promociones
 En esta sección será posible crear promociones, público de la campaña, tarjetas de regalo y tasas. La sección incluye las siguientes páginas, ya en el nuevo design:
 
-- [Promociones](https://help.vtex.com/es/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): descuentos que se ofrecen a los clientes en función de criterios específicos.  
+- [Promociones](/es/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): descuentos que se ofrecen a los clientes en función de criterios específicos.  
 
 Pronto estarán en el diseño actualizado del Admin:  
-- [Audiencia de campañas](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K): definiciones del público objetivo que pueden utilizarse como criterio de promoción.  
-- [Tarjetas de regalo](https://help.vtex.com/es/tutorial/gift-card--tutorials_995): se considera un medio de pago en la plataforma VTEX.   
-- [Tasa](https://help.vtex.com/es/tutorial/creando-la-tasaimpuesto--tutorials_321): un porcentaje adicional añadido al precio del producto, con el fin de aumentar su valor.  
+- [Audiencia de campañas](/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K): definiciones del público objetivo que pueden utilizarse como criterio de promoción.  
+- [Tarjetas de regalo](/es/tutorial/gift-card--tutorials_995): se considera un medio de pago en la plataforma VTEX.   
+- [Tasa](/es/tutorial/creando-la-tasaimpuesto--tutorials_321): un porcentaje adicional añadido al precio del producto, con el fin de aumentar su valor.  

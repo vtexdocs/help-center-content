@@ -1,5 +1,5 @@
 ---
-title: "[Magazine Luiza] Integrated FOB order with 'Conventional' delivery"
+title: '[Magazine Luiza] Integrated FOB order with "Conventional" delivery'
 id: 74uM19UXEopXguM6m0JbOL
 status: PUBLISHED
 createdAt: 2022-12-23T12:40:05.775Z

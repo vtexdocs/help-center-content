@@ -27,4 +27,4 @@ Como parte del esfuerzo por migrar la documentación para desarrolladores a nues
 
 Esta documentación utiliza la nueva [API REST del Catálogo](https://developers.vtex.com/docs/guides/catalog-api-overview) y reemplaza nuestra guía anterior basada en la API SOAP del Webservice, que ya no está disponible en nuestro Help Center.
 
->⚠️ Todavía no hemos desactivado la API SOAP del Webservice, pero ya no se recomienda para nuevas integraciones.
+<div class="alert alert-warning">Todavía no hemos desactivado la API SOAP del Webservice, pero ya no se recomienda para nuevas integraciones.</div>

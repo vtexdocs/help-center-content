@@ -24,4 +24,6 @@ After configuring the integration, you must authenticate your Google Shopping ac
 6. Click on the `Authenticate my account` button.
 7. Click `OK` to authorize the VTEX integration to connect with the ID Business Manager profile.
 
->ℹ️ There may be a delay between completing the integration and the moment it goes live because the update is not synchronous.  But it takes no more than a few hours.
+<div class="alert alert-info">
+There may be a delay between completing the integration and the moment it goes live because the update is not synchronous.  But it takes no more than a few hours.
+</div>

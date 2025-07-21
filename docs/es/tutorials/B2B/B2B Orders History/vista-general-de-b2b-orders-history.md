@@ -15,10 +15,10 @@ legacySlug: vista-general-de-b2b-orders-history
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 ---
 
-En una [operación B2B](https://help.vtex.com/es/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), varios usuarios de una misma organización realizan pedidos en nombre de la empresa. La aplicación **B2B Orders History** atiende estas necesidades específicas, permitiendo que los usuarios vean y gestionen pedidos de forma integrada y colaborativa.
+En una [operación B2B](/es/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), varios usuarios de una misma organización realizan pedidos en nombre de la empresa. La aplicación **B2B Orders History** atiende estas necesidades específicas, permitiendo que los usuarios vean y gestionen pedidos de forma integrada y colaborativa.
 
 ## Funcionalidad
-La aplicación **B2B Orders History** sustituye la página Pedidos predeterminada en [Mi cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) con una versión más adaptada al entorno B2B. Esta personalización permite que los [usuarios](https://help.vtex.com/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA) de una organización que hayan iniciado sesión, además de ver sus propios pedidos, también tengan acceso a los pedidos realizados por otros miembros de la misma organización o centro de costo, siempre y cuando tengan los permisos necesarios.
+La aplicación **B2B Orders History** sustituye la página Pedidos predeterminada en [Mi cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) con una versión más adaptada al entorno B2B. Esta personalización permite que los [usuarios](/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA) de una organización que hayan iniciado sesión, además de ver sus propios pedidos, también tengan acceso a los pedidos realizados por otros miembros de la misma organización o centro de costo, siempre y cuando tengan los permisos necesarios.
 
 ## Beneficios
 La vista centralizada de pedidos ese importante para:

@@ -1,5 +1,5 @@
 ---
-title: 'Las búsquedas con % al final no funcionan correctamente'
+title: "Las búsquedas con % al final no funcionan correctamente"
 id: 5WHCCpoBpopbGBk0lE3dOD
 status: PUBLISHED
 createdAt: 2022-03-30T23:31:43.172Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: searches-with-at-the-end-not-working-correctly
+slugEN: las-busquedas-con-al-final-no-funcionan-correctamente
 locale: es
 kiStatus: Backlog
 internalReference: 509101
@@ -18,7 +18,9 @@ internalReference: 509101
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se busca con un % al final de la búsqueda no funciona como se espera debido a problemas de decodificación.

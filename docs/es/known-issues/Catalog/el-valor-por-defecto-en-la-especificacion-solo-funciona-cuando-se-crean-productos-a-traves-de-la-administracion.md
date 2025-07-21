@@ -1,5 +1,5 @@
 ---
-title: 'El valor por defecto en la especificación sólo funciona cuando se crean productos a través de la administración'
+title: "El valor por defecto en la especificación sólo funciona cuando se crean productos a través de la administración"
 id: 6oL4LDFx18s0pOvOEKcniQ
 status: PUBLISHED
 createdAt: 2022-03-25T14:21:28.216Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: default-value-on-specification-only-working-when-creating-products-through-admin
+slugEN: el-valor-por-defecto-en-la-especificacion-solo-funciona-cuando-se-crean-productos-a-traves-de-la-administracion
 locale: es
 kiStatus: Backlog
 internalReference: 550097
@@ -18,7 +18,9 @@ internalReference: 550097
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se crea una especificación en una categoría VTEX se puede configurar un valor por defecto que se rellenará cuando se cree el sku/producto sin esta información.

@@ -1,5 +1,5 @@
 ---
-title: "Error occurs when attempting to perform a search using the 'All' field in VTEX CRM UI"
+title: 'Error occurs when attempting to perform a search using the "All" field in VTEX CRM UI'
 id: 1OKMTJuUZx6mnDmYW3MBjP
 status: PUBLISHED
 createdAt: 2023-10-25T18:46:48.120Z

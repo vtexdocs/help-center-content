@@ -1,5 +1,5 @@
 ---
-title: 'As sessões da página do produto não estão funcionando'
+title: "As sessões da página do produto não estão funcionando"
 id: 6Hgk9lBPmrZ9byc6eeRiki
 status: PUBLISHED
 createdAt: 2024-01-04T21:34:51.613Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
-slugEN: product-page-sessions-not-working
+slugEN: as-sessoes-da-pagina-do-produto-nao-estao-funcionando
 locale: pt
 kiStatus: Backlog
 internalReference: 961591
@@ -18,7 +18,9 @@ internalReference: 961591
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A visão geral do administrador tem algumas informações de análise. A informação sobre as sessões da página do produto deveria retornar os valores desse evento, mas às vezes está retornando zero

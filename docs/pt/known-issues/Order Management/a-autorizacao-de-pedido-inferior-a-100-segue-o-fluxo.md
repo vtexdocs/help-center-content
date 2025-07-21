@@ -1,5 +1,5 @@
 ---
-title: 'A autorização de pedido inferior a 100 segue o fluxo'
+title: "A autorização de pedido inferior a 100 segue o fluxo"
 id: 51vxznnbek6mtVtQgKEW9d
 status: PUBLISHED
 createdAt: 2024-02-16T13:44:05.199Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-authorization-lessthan-100-goes-with-the-flow
+slugEN: a-autorizacao-de-pedido-inferior-a-100-segue-o-fluxo
 locale: pt
 kiStatus: Backlog
 internalReference: 983031
@@ -18,7 +18,9 @@ internalReference: 983031
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Identificamos que quando o sistema de Autorização de Pedidos (OrderAuth) é configurado com o valor "lessThan: 100", no "Rules-list.CreateDoEffect" , ele não consegue entender que é menor ou igual a 100%, apenas que é menor que 100% e quando o pedido tem um desconto de 100%, o sistema autoriza que o pedido siga o fluxo normal.

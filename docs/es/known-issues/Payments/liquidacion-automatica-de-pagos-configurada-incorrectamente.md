@@ -1,5 +1,5 @@
 ---
-title: 'Liquidación automática de pagos configurada incorrectamente'
+title: "Liquidación automática de pagos configurada incorrectamente"
 id: 6KOQwBKNgOPNL7TM80Bqjf
 status: PUBLISHED
 createdAt: 2024-06-19T22:12:10.705Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: automatic-payment-settlement-incorrectly-setup
+slugEN: liquidacion-automatica-de-pagos-configurada-incorrectamente
 locale: es
 kiStatus: Backlog
 internalReference: 1053010
@@ -18,7 +18,9 @@ internalReference: 1053010
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El problema es que la pasarela ignoraba el valor `delayToAutoSettleAfterAntifraud`.

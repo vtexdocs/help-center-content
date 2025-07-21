@@ -1,5 +1,5 @@
 ---
-title: 'PayPalPlus no respeta el importe mínimo de la cuota'
+title: "PayPalPlus no respeta el importe mínimo de la cuota"
 id: 1IGzNPtXaaUsPkaq0qRgfK
 status: PUBLISHED
 createdAt: 2022-03-26T23:00:59.044Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: paypalplus-does-not-respect-the-minimum-installment-amount
+slugEN: paypalplus-no-respeta-el-importe-minimo-de-la-cuota
 locale: es
 kiStatus: No Fix
 internalReference: 370271
@@ -18,7 +18,9 @@ internalReference: 370271
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Incluso con el importe mínimo de la cuota configurado en el término de pago de PayPalPlus, mostramos cuotas en el pago que no respetan esta configuración

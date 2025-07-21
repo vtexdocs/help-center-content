@@ -1,5 +1,5 @@
 ---
-title: "A mensagem 'My billing address is ...' (Meu endereço de cobrança é ...) no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão"
+title: 'A mensagem "My billing address is ..." (Meu endereço de cobrança é ...) no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão'
 id: 3AqPihwDDIM2qixa1jvJmz
 status: PUBLISHED
 createdAt: 2022-03-28T01:11:35.679Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: the-message-my-billing-address-is-on-the-credit-card-iframe-is-in-the-wrong-language-when-using-checkout-in-catalan-language
+slugEN: a-mensagem-my-billing-address-is-meu-endereco-de-cobranca-e-no-iframe-do-cartao-de-credito-esta-no-idioma-errado-ao-usar-o-checkout-no-idioma-catalao
 locale: pt
 kiStatus: Fixed
 internalReference: 481181
@@ -18,7 +18,9 @@ internalReference: 481181
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A mensagem "Meu endereço de cobrança é ..." no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão.

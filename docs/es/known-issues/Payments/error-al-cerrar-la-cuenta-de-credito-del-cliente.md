@@ -1,5 +1,5 @@
 ---
-title: 'Error al cerrar la cuenta de crédito del cliente'
+title: "Error al cerrar la cuenta de crédito del cliente"
 id: zp8Bd8sIijJVNHws4nrkh
 status: PUBLISHED
 createdAt: 2023-09-20T21:38:28.253Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: error-closing-customer-credit-account
+slugEN: error-al-cerrar-la-cuenta-de-credito-del-cliente
 locale: es
 kiStatus: Backlog
 internalReference: 904432
@@ -18,7 +18,9 @@ internalReference: 904432
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando las cuentas principales y secundarias tienen instalada la aplicación de Crédito a Clientes, la creación de una creditAccount se produce en todas ellas. En este escenario hay casos en los que cerrar la creditAccount no funciona, aparece el siguiente error:

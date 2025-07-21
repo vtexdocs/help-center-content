@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Lanzamiento global del lead time, una configuración opcional del tiempo de envío a nivel de SKU.'
 ---
 
-VTEX ha puesto a disposición de todas las tiendas el [lead time](https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), una configuración del tiempo de envío de un SKU en un determinado stock. En otras palabras, puedes definir a nivel de SKU un tiempo de envío adicional en el cálculo de las promesas de envío que se muestran a los clientes en el checkout.
+VTEX ha puesto a disposición de todas las tiendas el [lead time](/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), una configuración del tiempo de envío de un SKU en un determinado stock. En otras palabras, puedes definir a nivel de SKU un tiempo de envío adicional en el cálculo de las promesas de envío que se muestran a los clientes en el checkout.
 
 ![lead_time_image_total_time_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-09-22-lead-time-configuracion-del-tiempo-de-envio-a-nivel-de-sku_1.png)
 
@@ -23,17 +23,19 @@ El uso del lead time es opcional y, cuando no se configura, el envío de pedidos
 
 ## ¿Qué cambió?
 
-Antes, el [cálculo del envío de pedidos](https://help.vtex.com/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) consideraba los periodos configurados en tu estrategia de envío a nivel de:
+Antes, el [cálculo del envío de pedidos](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) consideraba los periodos configurados en tu estrategia de envío a nivel de:
 
-* [Almacenes](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
-* [Muelles](https://help.vtex.com/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
-* [Políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
+* [Almacenes](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+* [Muelles](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
+* [Políticas de envío](/es/tutorial/politica-de-envio--tutorials_140)
 
-Ahora, también existe la opción de configurar el tiempo de envío a nivel de SKU, con la nueva columna de lead time en la página [Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139), a la que puedes acceder a través del Admin VTEX > **Catálogo > Stock > Gestión del stock**, como se muestra en la imagen a continuación:
+Ahora, también existe la opción de configurar el tiempo de envío a nivel de SKU, con la nueva columna de lead time en la página [Gestión del stock](/es/tutorial/gerenciar-inventario--tutorials_139), a la que puedes acceder a través del Admin VTEX > **Catálogo > Stock > Gestión del stock**, como se muestra en la imagen a continuación:
 
 ![lead_time_inventory_management_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-09-22-lead-time-configuracion-del-tiempo-de-envio-a-nivel-de-sku_2.png)
 
->⚠️ En el Admin VTEX, el lead time se configura en días, hasta un límite de 365. De manera predeterminada, el contaje se realiza en días laborables, pero puedes configurar tu política de envío para se [realice en días naturales](https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional). Para configurar periodos en horas, minutos y segundos debes utilizar el endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+<div class="alert alert-warning">
+En el Admin VTEX, el lead time se configura en días, hasta un límite de 365. De manera predeterminada, el contaje se realiza en días laborables, pero puedes configurar tu política de envío para se <a href="https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional">realice en días naturales</a>. Para configurar periodos en horas, minutos y segundos debes utilizar el endpoint <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-">Update inventory by SKU and warehouse</a>.
+</div>
 
 ## ¿Por qué realizamos este cambio?
 
@@ -45,4 +47,4 @@ Los principales beneficios de la nueva configuración del lead time son:
 
 ## ¿Qué se necesita hacer?
 
-La página [Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139) del Admin VTEX se ha actualizado agregando una columna de lead time en todas las tiendas, y no se requiere ninguna acción por tu parte. El uso del nuevo campo es opcional; si no lo configuras, el tiempo de envío de tus pedidos permanecerá sin cambios.
+La página [Gestión del stock](/es/tutorial/gerenciar-inventario--tutorials_139) del Admin VTEX se ha actualizado agregando una columna de lead time en todas las tiendas, y no se requiere ninguna acción por tu parte. El uso del nuevo campo es opcional; si no lo configuras, el tiempo de envío de tus pedidos permanecerá sin cambios.

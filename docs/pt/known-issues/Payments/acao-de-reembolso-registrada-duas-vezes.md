@@ -1,5 +1,5 @@
 ---
-title: 'Ação de reembolso registrada duas vezes'
+title: "Ação de reembolso registrada duas vezes"
 id: sentkBZJsQ9X954iNEyXh
 status: PUBLISHED
 createdAt: 2024-09-16T20:29:22.928Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: refund-action-logged-twice
+slugEN: acao-de-reembolso-registrada-duas-vezes
 locale: pt
 kiStatus: Backlog
 internalReference: 1099618
@@ -18,7 +18,9 @@ internalReference: 1099618
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, duas ações de reembolso podem ocorrer na transação, mas nenhuma delas é enviada ao adquirente.

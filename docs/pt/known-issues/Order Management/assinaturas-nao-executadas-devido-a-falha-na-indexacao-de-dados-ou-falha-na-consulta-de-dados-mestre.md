@@ -1,5 +1,5 @@
 ---
-title: 'Assinaturas não executadas devido a falha na indexação de dados ou falha na consulta de dados mestre'
+title: "Assinaturas não executadas devido a falha na indexação de dados ou falha na consulta de dados mestre"
 id: 1PspxNexEEz4GvJ5BpZZgH
 status: PUBLISHED
 createdAt: 2024-01-04T20:27:03.576Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-not-executed-due-to-data-indexing-failure-or-masterdata-query-failure
+slugEN: assinaturas-nao-executadas-devido-a-falha-na-indexacao-de-dados-ou-falha-na-consulta-de-dados-mestre
 locale: pt
 kiStatus: Backlog
 internalReference: 961526
@@ -18,7 +18,9 @@ internalReference: 961526
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A criação de solicitações de assinatura depende do retorno de uma consulta feita ao banco de dados de assinaturas; essa consulta é feita periodicamente para identificar quais assinaturas devem ser executadas naquele período; se essa consulta falhar ou não retornar uma assinatura específica, seu ciclo não será executado e nenhum erro será registrado, resultando, assim, em uma assinatura com a nextPurchaseDate no passado.

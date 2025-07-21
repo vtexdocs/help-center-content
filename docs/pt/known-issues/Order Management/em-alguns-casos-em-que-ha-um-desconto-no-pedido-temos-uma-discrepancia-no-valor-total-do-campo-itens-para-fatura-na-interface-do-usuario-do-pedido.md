@@ -1,5 +1,5 @@
 ---
-title: 'Em alguns casos em que há um desconto no pedido, temos uma discrepância no valor total do campo Itens para fatura na interface do usuário do pedido.'
+title: "Em alguns casos em que há um desconto no pedido, temos uma discrepância no valor total do campo Itens para fatura na interface do usuário do pedido."
 id: 20xiOKxpvdCODmDJDKunST
 status: PUBLISHED
 createdAt: 2024-05-06T20:17:01.162Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: in-some-cases-where-there-is-a-discount-on-the-order-we-have-a-discrepancy-in-the-total-value-of-the-items-to-invoice-field-in-the-order-ui
+slugEN: em-alguns-casos-em-que-ha-um-desconto-no-pedido-temos-uma-discrepancia-no-valor-total-do-campo-itens-para-fatura-na-interface-do-usuario-do-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 1028210
@@ -18,7 +18,9 @@ internalReference: 1028210
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Foi identificado que, em alguns pedidos em que há um desconto associado a um ou mais itens, podemos ter uma discrepância no valor total do campo "itens a faturar" na interface do usuário do pedido, pois o cálculo desse campo leva em conta o parâmetro "sellingPrice", em vez do parâmetro "priceDefinitions". Portanto, é possível notar diferenças de 0,01 ou um pouco mais no valor total do pedido.

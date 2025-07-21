@@ -1,5 +1,5 @@
 ---
-title: 'La Search API utilizando O=OrderByNameASC o O=OrderByNameDESC devuelve los resultados teniendo en cuenta la diferencia entre minúsculas y mayúsculas de la primera letra'
+title: "La Search API utilizando O=OrderByNameASC o O=OrderByNameDESC devuelve los resultados teniendo en cuenta la diferencia entre minúsculas y mayúsculas de la primera letra"
 id: 1VqHI8kcnqRarzc1kxUGig
 status: PUBLISHED
 createdAt: 2022-04-07T14:04:16.705Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: search-api-using-oorderbynameasc-or-oorderbynamedesc-returns-results-considering-difference-in-lower-case-and-uppercase-for-first-letter
+slugEN: la-search-api-utilizando-oorderbynameasc-o-oorderbynamedesc-devuelve-los-resultados-teniendo-en-cuenta-la-diferencia-entre-minusculas-y-mayusculas-de-la-primera-letra
 locale: es
 kiStatus: Backlog
 internalReference: 305247
@@ -18,7 +18,9 @@ internalReference: 305247
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de búsqueda utilizando O=OrderByNameASC o O=OrderByNameDESC devuelve los resultados teniendo en cuenta la diferencia entre minúsculas y mayúsculas de la primera letra

@@ -1,5 +1,5 @@
 ---
-title: 'Storefront Permissions considers inactive organizations'
+title: "Storefront Permissions considers inactive organizations"
 id: 2GANYaXFMQpLGADajl4CbS
 status: PUBLISHED
 createdAt: 2023-10-27T22:08:14.267Z

@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect display of package quantity at checkout'
+title: "Incorrect display of package quantity at checkout"
 id: 1ZphoPLQZyHJpvPlXWb1oR
 status: PUBLISHED
 createdAt: 2022-07-11T12:58:18.388Z

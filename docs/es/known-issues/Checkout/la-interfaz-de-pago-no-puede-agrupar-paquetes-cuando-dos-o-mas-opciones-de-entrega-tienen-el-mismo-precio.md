@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de pago no puede agrupar paquetes cuando dos o más opciones de entrega tienen el mismo precio.'
+title: "La interfaz de pago no puede agrupar paquetes cuando dos o más opciones de entrega tienen el mismo precio."
 id: 7F1g7iS8RqVPxNNZD0B2Db
 status: PUBLISHED
 createdAt: 2024-09-25T21:52:03.685Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-ui-may-not-group-packages-when-two-or-more-delivery-options-have-the-same-price
+slugEN: la-interfaz-de-pago-no-puede-agrupar-paquetes-cuando-dos-o-mas-opciones-de-entrega-tienen-el-mismo-precio
 locale: es
 kiStatus: Backlog
 internalReference: 1105920
@@ -18,7 +18,9 @@ internalReference: 1105920
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

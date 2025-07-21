@@ -1,5 +1,5 @@
 ---
-title: 'Giftcard não recebendo reembolso após o cancelamento da transação'
+title: "Giftcard não recebendo reembolso após o cancelamento da transação"
 id: lWW0jvEty50Pphr3JFYt7
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:16.141Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: giftcard-not-getting-refund-after-transaction-cancellation
+slugEN: giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao
 locale: pt
 kiStatus: Backlog
 internalReference: 491195
@@ -18,7 +18,9 @@ internalReference: 491195
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o pagamento é um cartão presente e ocorre um erro durante o processo de colocação do pedido e o pedido permanece incompleto, então o GC não é reembolsado após a transação ser cancelada.

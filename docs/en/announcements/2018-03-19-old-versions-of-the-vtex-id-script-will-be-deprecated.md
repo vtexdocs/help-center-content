@@ -27,9 +27,9 @@ To make this change possible, the VTEX ID script must be requested using this li
 
 This new method brings lots of advantages: even faster script updates, guarantees that your store is always using the latest version, and the end of the need to review the endpoint everytime a new version is released. 
 
->⚠️ **Warning:**
->
-> 
-> We don't recommend you to use the link in a hard-coded version. We'll soon deprecate the support for this import method.
+<div class="alert alert-warning">
+<strong>Warning:</strong><br>
+We don't recommend you to use the link in a hard-coded version. We'll soon deprecate the support for this import method.
+</div>
 
 Because all these changes have a direct impact in the client's access to your store, we strongly recommend you to not wait for the deadline and adopt this new VTEX ID script request method as soon as possible.

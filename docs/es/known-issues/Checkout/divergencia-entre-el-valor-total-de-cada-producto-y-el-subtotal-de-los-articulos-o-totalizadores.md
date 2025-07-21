@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia entre el valor total de cada producto y el subtotal de los artículos o totalizadores'
+title: "Divergencia entre el valor total de cada producto y el subtotal de los artículos o totalizadores"
 id: 2Z8vR0cKkaSYQqF9MUX8PX
 status: PUBLISHED
 createdAt: 2022-01-24T20:46:09.666Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergence-between-the-total-value-of-each-product-and-the-subtotal-of-items-or-totalizers
+slugEN: divergencia-entre-el-valor-total-de-cada-producto-y-el-subtotal-de-los-articulos-o-totalizadores
 locale: es
 kiStatus: Backlog
 internalReference: 331188
@@ -18,7 +18,9 @@ internalReference: 331188
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 En algunos casos, el valor total del pedido difiere de la suma del valor total de los productos (añadiendo también los gastos de envío y los posibles descuentos, si los hay). Esto ocurre porque el valor mostrado de los artículos forma parte del "sellingPrice", una información del orderForm que pierde precisión por motivos de redondeo.
 

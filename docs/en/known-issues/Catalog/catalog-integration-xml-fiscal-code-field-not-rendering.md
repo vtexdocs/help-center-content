@@ -1,5 +1,5 @@
 ---
-title: 'Catalog Integration XML fiscal code field not rendering'
+title: "Catalog Integration XML fiscal code field not rendering"
 id: 19Ubw33gsHcyIeMUQA3LGh
 status: PUBLISHED
 createdAt: 2024-05-10T14:28:22.117Z

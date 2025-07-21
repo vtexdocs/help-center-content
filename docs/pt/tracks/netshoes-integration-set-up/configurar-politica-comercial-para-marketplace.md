@@ -28,7 +28,7 @@ Em outras palavras, se não houver necessidade de definir um catálogo ou um tip
 
 ![marketplace-politica-comercial-principal-e-compartilhada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/netshoes-integration-set-up/configurar-politica-comercial-para-marketplace_3.png)
 
-A partir desse entendimento, avalie se é necessário configurar uma nova política comercial na sua loja. Se a resposta for sim, siga as orientações [deste artigo](https://help.vtex.com/pt/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) antes de passar para a próxima etapa de configuração. Caso sua política comercial já atenda às condições que precisa para a integração com o marketplace, siga as próximas instruções.
+A partir desse entendimento, avalie se é necessário configurar uma nova política comercial na sua loja. Se a resposta for sim, siga as orientações [deste artigo](/pt/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) antes de passar para a próxima etapa de configuração. Caso sua política comercial já atenda às condições que precisa para a integração com o marketplace, siga as próximas instruções.
 
 
 ## Definindo catálogo de produtos
@@ -41,7 +41,8 @@ Para definir o catálogo de produtos que vai ser enviado ao marketplace, o lojis
 4. Marque a flag __Políticas Comerciais__ para as políticas comerciais escolhidas.
 5. Clique em __Salvar__.
 
->❗ A VTEX não recomenda realizar a gestão de catálogo de produtos para marketplace através de coleções. Esse mecanismo gera muitas complexidades na organização, sendo recomendada a gestão através da flag Políticas Comerciais.
+<div class="alert alert-danger">A VTEX não recomenda realizar a gestão de catálogo de produtos para marketplace através de coleções. Esse mecanismo gera muitas complexidades na organização, sendo recomendada a gestão através da flag Políticas Comerciais.
+</div>
 
 ## Definindo a logística
 

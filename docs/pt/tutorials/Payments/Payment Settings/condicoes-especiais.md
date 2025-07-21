@@ -25,7 +25,7 @@ Para identificar as condições especiais aplicáveis a cada forma de pagamento,
 
 Possibilita definir uma regra de pagamento para cada agrupamento de SKUs, mas para que funcione corretamente, se faz necessário primeiro que crie condições comerciais diferentes da padrão do sistema e, que os SKUs que deverão obedecer a essa regra estejam devidamente associadas à condição comercial.
 
-Para saber como cadastrar uma nova condição comercial e associá-la a um SKU, leia o documento [Cadastrar condição comercial](https://help.vtex.com/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).
+Para saber como cadastrar uma nova condição comercial e associá-la a um SKU, leia o documento [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).
 
 ## Como configurar a condição comercial na condição de pagamento
 
@@ -136,7 +136,9 @@ Digamos que você deseje oferecer uma condição especial de pagamento para clie
 
 Neste caso, você deve selecionar o banco emissor que é o seu parceiro responsável por esse cartão e, em seguida, o nome da sua loja no campo __Co-brand__.
 
->⚠️ Por padrão, a informação de que um cartão tem co-brand **não** está cadastrada na base de dados da VTEX. Por isso, caso sua loja deseje segmentar uma condição de pagamento por cartões da loja, você precisa enviar a lista de cartões com co-brand para o time de suporte da VTEX por meio de um ticket.
+<div class="alert alert-warning">
+Por padrão, a informação de que um cartão tem co-brand <strong>não</strong> está cadastrada na base de dados da VTEX. Por isso, caso sua loja deseje segmentar uma condição de pagamento por cartões da loja, você precisa enviar a lista de cartões com co-brand para o time de suporte da VTEX por meio de um ticket.
+</div>
 
 ## Período
 
@@ -158,4 +160,6 @@ Veja a seguir como configurar o período na condição de pagamento:
 
 Imagine que sua loja normalmente oferece um parcelamento em até 6x sem juros, mas quer aproveitar as vendas do final de ano para oferecer um parcelamento em até 12x sem juros. Nesse caso, bastaria seguir os passos acima e cadastrar o período para a condição de pagamento, deixar de ser aplicada em 01 de janeiro do ano seguinte, por exemplo.
 
->⚠️ As condições de pagamento possuem um cache de até 10 minutos no Smart Checkout. Logo, qualquer mudança nas Condições de Pagamento do módulo **Pagamentos** pode levar até 10 minutos para entrar em produção no Smart Checkout.
+<div class = "alert alert-warning">
+  <p>As condições de pagamento possuem um cache de até 10 minutos no Smart Checkout. Logo, qualquer mudança nas Condições de Pagamento do módulo <strong>Pagamentos</strong> pode levar até 10 minutos para entrar em produção no Smart Checkout.</p>
+</div>

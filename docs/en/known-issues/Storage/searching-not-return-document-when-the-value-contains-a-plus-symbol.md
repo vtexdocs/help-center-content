@@ -1,5 +1,5 @@
 ---
-title: 'Searching not return document when the value contains a + (plus) symbol.'
+title: "Searching not return document when the value contains a + (plus) symbol."
 id: 7oWiN8Esh9iKy8144Tpglx
 status: PUBLISHED
 createdAt: 2024-07-08T18:52:21.794Z

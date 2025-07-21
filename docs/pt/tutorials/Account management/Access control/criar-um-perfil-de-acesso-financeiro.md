@@ -3,8 +3,8 @@ title: 'Criar um perfil de acesso financeiro'
 id: 717qPtxW3Cy9n5KrReHeVv
 status: PUBLISHED
 createdAt: 2020-05-21T18:32:54.471Z
-updatedAt: 2024-11-22T14:20:19.022Z
-publishedAt: 2024-11-22T14:20:19.022Z
+updatedAt: 2025-06-09T16:18:00.156Z
+publishedAt: 2025-06-09T16:18:00.156Z
 firstPublishedAt: 2020-05-21T20:22:19.449Z
 contentType: tutorial
 productTeam: Billing
@@ -15,38 +15,35 @@ legacySlug: como-criar-um-perfil-de-acesso-financeiro
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-Para [acessar as faturas](https://help.vtex.com/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) e outras informações financeiras da sua conta, é preciso associar um perfil de acesso financeiro a todos usuários autorizados a visualizar essas informações.
+Para [acessar as faturas](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) e outras informações financeiras da sua conta, é preciso associar um perfil de acesso financeiro a todos usuários autorizados a visualizar essas informações.
 
-Existem dois [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financeiro predefinidos: [Finance](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) e [Finance Full Access](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos o Finance como referência para este artigo, mas os passos abaixo são os mesmos para ambos perfis.
+Existem dois [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financeiro predefinidos: [Finance](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) e [Finance Full Access](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos o Finance como referência para este artigo, mas os passos abaixo são os mesmos para ambos perfis.
 
-## Criar um perfil de acesso financeiro
+## ## Como criar um perfil de acesso financeiro
 
 Para criar um perfil de acesso financeiro:
 
-1. Abra o **Admin**.
-2. Acesse o módulo **Gerenciamento de Contas**.
-3. Clique na aba **Perfis de acesso**.
-4. Agora, clique no botão **Novo perfil**.
-5. Selecione o perfil **Finance**.
-6. (Opcional) Antes de salvar, você pode **Adicionar usuários para este perfil de acesso**.
-7. Clique em **Salvar**.
-
-![gif perfil de acesso financeiro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Access%20control/criar-um-perfil-de-acesso-financeiro_1.gif)
+1. No Admin VTEX clique no canto superior direito na inicial do usuário logado.  
+2. Clique em **Configurações da conta**.  
+3. Clique em **Perfil de acesso**.  
+4. Clique em `Novo perfil`.  
+5. Selecione o perfil **Finance**.  
+6. Adicione usuários para este perfil de acesso.  
+7. Clique em `Salvar`.
 
 Agora o perfil de acesso financeiro está criado e disponível para associação a usuários existentes.
 
-## Associar usuários ao perfil de acesso financeiro
+## Como associar usuários ao perfil de acesso financeiro
 
 É possível associar um usuário ao perfil de acesso Finance já existente:
 
-1. Abra o **Admin**.
-2. Acesse o módulo **Gerenciamento de Contas**.
-3. Clique na aba **Usuários**.
-4. Selecione o usuário que deseja associar.
-5. Agora, escolha o **perfil de acesso Financeiro**.
-6. Clique no botão <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Access%20control/criar-um-perfil-de-acesso-financeiro_3.png" /> ao lado do perfil selecionado para adicionar.
-7. Para finalizar, clique em **Salvar**.
+1. No Admin VTEX, acesse no canto superior direito o seu nome.  
+2. Clique em **Configurações da conta**.  
+3. Clique em **Usuários**.  
+4. Selecione o usuário que deseja associar.  
+5. Clique em `Adicionar perfis`.  
+6. Selecione o perfil **Finance**, e clique em `Adicionar perfis`.  
+7. Clique em `Salvar`.
 
-![gif usuário](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Access%20control/criar-um-perfil-de-acesso-financeiro_2.gif)
+O usuário selecionado está associado ao perfil de acesso Financeiro e poderá acessar faturas, informações sobre o contrato, cobranças e outras informações financeiras.
 
-Agora o usuário selecionado está associado ao perfil de acesso Financeiro e poderá acessar faturas, informações sobre o contrato, cobranças e outras informações financeiras.

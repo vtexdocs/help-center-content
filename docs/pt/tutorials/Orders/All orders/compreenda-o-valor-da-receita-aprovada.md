@@ -3,8 +3,8 @@ title: 'Compreenda o valor da receita aprovada'
 id: tutorials_4322
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:05.741Z
-updatedAt: 2023-05-31T16:14:13.332Z
-publishedAt: 2023-05-31T16:14:13.332Z
+updatedAt: 2025-02-28T13:48:02.348Z
+publishedAt: 2025-02-28T13:48:02.348Z
 firstPublishedAt: 2017-04-27T23:11:15.957Z
 contentType: tutorial
 productTeam: Billing
@@ -15,42 +15,65 @@ legacySlug: compreenda-o-valor-da-receita-aprovada
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Para a VTEX, receita é o valor total do consumo de pedidos que passaram pelo status **Financeiramente Aprovado** no módulo **Pedidos**. Saiba mais no artigo [O que a VTEX considera como receita no cálculo da fatura?](https://help.vtex.com/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq)
+Para a VTEX, todo pedido financeiramente aprovado, tem seu valor total  considerado como receita, incluindo o frete e imposto aplicado sobre o preço final do produto. Todos os pedidos que passam por esse status são considerados na fatura, independentemente de cancelamentos ou devoluções subsequentes.
 
-## Relatório Financeiro
+## 1. Entenda o que é considerado receita na VTEX
+Para entender a fatura, é importante compreender o conceito de receita. Na VTEX, considera-se receita todos os pedidos que possuem a marcação de **aprovado** no módulo Pedidos. Isso inclui:
 
-No Relatório Financeiro, o cliente encontra uma listagem dos pedidos financeiramente aprovados com a devida marcação do canal de vendas - se B2C, B2B, Call Center, VTEX Sales App, Marketplace certificado, Seller certificado, e outros canais. 
+- O valor total do pedido incluindo frete e impostos.
+- Pedidos cancelados, incluindo aqueles rejeitados por antifraude.
+- Testes de compra. 
 
-Para acessar o relatório financeiro da fatura, siga os passos abaixo: 
+Em todos os casos citados, toda a infraestrutura da plataforma foi utilizada, já que este é o estágio em que o cliente conclui o processo de compra, por isso estes pedidos são considerados na receita.
 
-1. No Admin VTEX, acesse **Applicativos > Customer Credit > Títulos**, ou digite **Títulos** na barra de busca no topo da página.
-2. Selecione a fatura desejada.
-3. Clique em `Relatório Financeiro`.
+### Identifique quando um pedido é marcado como aprovado
+A marcação de um pedido como aprovado acontece no momento da autorização do pagamento. O processo varia conforme o meio de pagamento utilizado no pedido:
 
-Feito isso, você verá uma mensagem avisando que o Relatório Financeiro solicitado será enviado para o seu email de usuário no Admin VTEX.
+- **Cartão de crédito:** a marcação ocorre quando a adquirente valida o saldo e os dados do cartão.
+- **PIX e Boleto:** a marcação ocorre somente após a confirmação de pagamento.
 
-## Detalhamento de faturas
+Uma vez marcado como aprovado, a VTEX não considera mais alterações no pedido para fins de faturamento.
 
-Para que nossos clientes possam compreender suas faturas, a VTEX disponibiliza o detalhamento de cada fatura com a relação dos valores cobrados.
+## 2. Extraia o relatório financeiro da fatura
+O relatório financeiro contém **todos os pedidos aprovados** no período correspondente à fatura, considerando apenas o ambiente de onde foi exportado. Caso tenha múltiplos ambientes, será necessário extrair um relatório para cada um. Após a extração, o relatório será enviado para o seu email.
 
-Nela, constam dados descritivos sobre o _Gross Merchandise Value_ (GMV), que é a soma dos pedidos financeiramente aprovados no mês, detalhado no relatório financeiro. 
+O relatório financeiro é gerado no módulo de **Faturas**, para extrair siga os passos abaixo:
 
-Além da Taxa Fixa Mensal (Monthly Fixed Fee), e Take Rate aplicada, que pode variar de acordo com o plano que foi contratado. 
+1. No Admin VTEX, clique na inicial do seu nome no canto superior direito.
+2. Clique em  **Informações de Faturamento > Faturas**, ou digite **Faturas** na barra de busca.
+3. Selecione a fatura desejada.
+4. Clique em `Relatório Financeiro`.
 
-Para visualizar o detalhamento da sua fatura, siga o passos a passo abaixo:
+<div class = "alert alert-info">
+O relatório financeiro é estático e não sofre alterações após sua geração. Você pode acessá-lo a qualquer momento para conferir a receita.
+</div>
 
-1. No Admin VTEX, acesse **Applicativos > Customer Credit > Títulos**, ou digite **Títulos** na barra de busca no topo da página.
-2. Selecione a fatura desejada.
-3. Clique em `Detalhes`.
-4. Clique na seta para baixo, ao lado dos valores descritos na fatura.
+## 3. Analise e manipule o relatório financeiro
+O relatório financeiro está no formato **.csv** e apresenta diversas colunas que detalham cada pedido. Para validar os valores da sua fatura, aplique **filtros nas colunas** do relatório, conforme os critérios abaixo:
 
-## Valores da receita aprovada
+### Filtre e calcule o GMV transacionado
+Use a função `=SOMASE` no Excel para calcular o total de pedidos em diferentes cenários:
 
-A soma do valor total dos pedidos financeiramente aprovados listados no relatório financeiro é chamado de _Gross Merchandise Value_ (GMV). Para obter o valor total do GMV, você deve somar todos os valores contidos em _Total Value String_. 
+| Tipo de Receita                           | Filtros Aplicados                                                     | Coluna Somada                        | Descrição                                                        |
+|-------------------------------------------|-----------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------|
+| Certified Marketplace                     | `IsCertifiedMarketplace (Q) = Verdadeiro (T)`                         | `Value STR (G)` (formato brasileiro) | `Value STR` contém o valor de cada pedido no formato brasileiro. |
+| External Seller                           | `IsExternalSeller (S) = Verdadeiro (T)`                               | `Value STR (G)`                      | `G` indica a coluna usada para a soma.                           |
+| B2B                                       | `IsB2B (O) = Verdadeiro (T) e IsCertifiedMarketplace (Q) = Falso (F)` | `Value STR (G)`                      | `O` e `Q` são colunas do relatório.                              |
+| B2C                                       | `BillingType (O) = B2C`                                               | `Value STR (G)`                      | Os filtros são aplicados por coluna.                             |
+| Internal Certified Seller & Child Account | `IsInternalCertifiedSellerAndIsChildAccount (AF) = Verdadeiro (T)`    | `Value STR (G)`                      | `T` e `F` indicam valores booleanos (True ou False).             |
 
-O _Take Rate_ é o porcentual mensal que é cobrado sobre o valor total dos pedidos financeiramente aprovados. Apuramos o porcentual sobre o __total dos pedidos financeiramente aprovados__, já que esse é o estágio em que o cliente conclui todo o processo de compra, consumindo os recursos de Busca, Infra, Hosting etc.
+Esses filtros permitem segmentar os dados e garantir que cada categoria de pedido seja contabilizada corretamente na fatura.
 
-Diferentes canais de venda (B2C, B2B, Call Center..) possuem Take Rate diferentes. Para entender o porcentual que está sendo cobrado, consulte as condições no seu contrato.
+## 4. Correlacione os dados do relatório financeiro com os do módulo Pedidos
+Apesar do relatório financeiro ser a fonte oficial para validação das faturas, você pode correlacionar essas informações com o relatório de pedidos para obter mais detalhes sobre os pedidos faturados.
 
-Para acessar o valor dos pedidos financeiramente aprovados por cada canal de vendas, é necessário filtrar pela coluna **Type**.
+### Exporte o relatório de Pedidos para conferência
+Aqui, você verá o processo de extração do relatório gerado, incluindo os formatos disponíveis para download e como acessá-lo posteriormente.
 
+1. No Admin VTEX, acesse Pedidos > Todos os pedidos ou digite Todos os pedidos na barra de busca.
+2. Filtre a data de autorização do primeiro dia do mês desejado até o primeiro dia do mês seguinte, ambos às 00:00.
+3. Clique em `Usar meu fuso horário` para desconsiderar o fuso.
+4. Clique em `Aplicar`.
+5. Clique em `Exportar`.
+
+Após o download do relatório, use os **OrdersIDs** para correlacionar as informações com o relatório financeiro.

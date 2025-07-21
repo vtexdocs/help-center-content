@@ -1,5 +1,5 @@
 ---
-title: 'Schema validation failing for custom types in Headless CMS'
+title: "Schema validation failing for custom types in Headless CMS"
 id: 2dcDsFQkqbNqJZXEzztQ11
 status: PUBLISHED
 createdAt: 2023-09-19T21:43:59.145Z

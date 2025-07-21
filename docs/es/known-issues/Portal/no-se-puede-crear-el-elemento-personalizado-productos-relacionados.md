@@ -1,5 +1,5 @@
 ---
-title: "No se puede crear el elemento personalizado 'Productos relacionados'."
+title: 'No se puede crear el elemento personalizado "Productos relacionados".'
 id: 4Ca3b0mfpe20K7wSaImSQj
 status: PUBLISHED
 createdAt: 2022-01-21T14:44:26.429Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: unable-to-create-produtos-relacionados-custom-element
+slugEN: no-se-puede-crear-el-elemento-personalizado-productos-relacionados
 locale: es
 kiStatus: Backlog
 internalReference: 326899
@@ -18,7 +18,9 @@ internalReference: 326899
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 No se puede crear el elemento personalizado "Produtos Relacionados" en el CMS

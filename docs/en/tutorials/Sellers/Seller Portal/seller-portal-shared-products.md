@@ -16,7 +16,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
 
->⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
+<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
 
 **Shared Products** is the module where you can manage the products in your catalog that are already offered in the marketplace. The shared products dashboard displays all the products that the marketplace has made available for your store to sell. These products have been synced with the marketplace catalog.
 
@@ -35,7 +35,7 @@ The *Imported* tab displays products from the marketplace catalog that you have 
 
 The first time you access the Seller Portal the *Imported* tab will be empty because no products have been imported yet. Products will be displayed in this tab as you import them from the Available tab.
 
-When you click on a product in the list, you will be redirected to a page containing the [Product's Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
+When you click on a product in the list, you will be redirected to a page containing the [Product's Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Available
 ![Shared products Disponíveis EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller%20Portal/seller-portal-shared-products_2.jpg)
@@ -52,12 +52,12 @@ To import products in bulk, please do the following:
 To select all products available on the page, click the checkbox in the table header.
 
 All products that you have imported will be displayed in the *Imported* page.  Recently imported products will also remain listed in the *Available* tab.
-When you click on a product in the list, you will be redirected to a page containing the [Product's Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
+When you click on a product in the list, you will be redirected to a page containing the [Product's Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Related Articles
 
-- [Seller Portal: How Catalog works](https://help.vtex.com/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)             
-[Seller Portal: Offers and sending products to the marketplace](https://help.vtex.com/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)           
-- [Seller Portal: Product Details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
-- [Seller Portal: Getting Started](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)   
+- [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)             
+[Seller Portal: Offers and sending products to the marketplace](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)           
+- [Seller Portal: Product Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
+- [Seller Portal: Getting Started](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)   
 

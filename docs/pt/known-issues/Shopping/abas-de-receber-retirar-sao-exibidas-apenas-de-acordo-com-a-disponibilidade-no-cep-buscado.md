@@ -1,5 +1,5 @@
 ---
-title: "Abas de 'Receber | Retirar' são exibidas apenas de acordo com a disponibilidade no CEP buscado"
+title: 'Abas de "Receber | Retirar" são exibidas apenas de acordo com a disponibilidade no CEP buscado'
 id: 5PVGReAvyE0AOcoIq2SeKS
 status: PUBLISHED
 createdAt: 2018-11-21T16:19:00.507Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: receive-and-pickup-tabs-are-displayed-according-to-the-searched-zip-codes-availability
+slugEN: abas-de-receber-retirar-sao-exibidas-apenas-de-acordo-com-a-disponibilidade-no-cep-buscado
 locale: pt
 kiStatus: Backlog
 internalReference: 

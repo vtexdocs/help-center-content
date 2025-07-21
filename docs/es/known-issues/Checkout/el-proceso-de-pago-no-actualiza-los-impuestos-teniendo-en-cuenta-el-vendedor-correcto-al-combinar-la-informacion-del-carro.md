@@ -1,5 +1,5 @@
 ---
-title: 'El proceso de pago no actualiza los impuestos teniendo en cuenta el vendedor correcto al combinar la información del carro.'
+title: "El proceso de pago no actualiza los impuestos teniendo en cuenta el vendedor correcto al combinar la información del carro."
 id: 4HDGps2Ez5kWKuW1UNX1JQ
 status: PUBLISHED
 createdAt: 2024-07-03T20:21:23.533Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-pipeline-doesnt-update-taxes-considering-the-correct-seller-when-merging-cart-information
+slugEN: el-proceso-de-pago-no-actualiza-los-impuestos-teniendo-en-cuenta-el-vendedor-correcto-al-combinar-la-informacion-del-carro
 locale: es
 kiStatus: Backlog
 internalReference: 759842
@@ -18,7 +18,9 @@ internalReference: 759842
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando hay 2 vendedores en el método "SellerElection", uno de ellos es seleccionado como el que tiene el precio más barato para la entrega, y el otro el precio más barato para la recogida en el punto, la fusión de la información del carrito no actualiza los impuestos al seleccionar la recogida en el punto, causando un error al finalizar la compra.

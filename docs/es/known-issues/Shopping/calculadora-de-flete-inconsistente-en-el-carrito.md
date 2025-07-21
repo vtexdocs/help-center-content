@@ -1,5 +1,5 @@
 ---
-title: 'Calculadora de flete inconsistente en el carrito'
+title: "Calculadora de flete inconsistente en el carrito"
 id: 2U3U4r7DAAuIegW0geKG8U
 status: PUBLISHED
 createdAt: 2018-12-10T16:09:32.683Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: authors_4
 tag: Checkout
-slugEN: inconsistent-shipping-calculator
+slugEN: calculadora-de-flete-inconsistente-en-el-carrito
 locale: es
 kiStatus: Closed
 internalReference: 

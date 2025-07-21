@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistência no relatório de pedidos quando o campo tid é duplicado no campo connectorResponses da API de detalhes de pagamento GET.'
+title: "Inconsistência no relatório de pedidos quando o campo tid é duplicado no campo connectorResponses da API de detalhes de pagamento GET."
 id: 4xXSp2RMyHMeHpEUXgmpAZ
 status: PUBLISHED
 createdAt: 2023-09-06T21:18:05.941Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: order-report-inconsistency-when-tid-field-is-duplicated-in-the-connectorresponses-field-from-get-payment-details-api
+slugEN: inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get
 locale: pt
 kiStatus: Backlog
 internalReference: 895664
@@ -18,7 +18,9 @@ internalReference: 895664
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os conectores dessa lista precisam salvar mais campos para o conector que funciona com o aplicativo "Venda direta" - Vendas. Especificamente, para os conectores listados abaixo, e somente para eles, todo o conteúdo do payload deve ser direcionado para o campo "`connectorResponses`". Isso resulta em uma duplicação do campo "`tid`", que já existe em "`connectorResponses`". Embora essa duplicação não represente um problema em termos do ciclo de vida da transação, ela cria uma inconsistência ao gerar relatórios a partir da página do pedido.

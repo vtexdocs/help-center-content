@@ -17,7 +17,9 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 If you want regular promotion to be applied only for a limited number of times, simply uncheck the **unlimited** option in restrictions and limitations of use. After that, a field becomes available, to register the number of times the promotion can be applied to purchases in your store. So, if you register the number 10, the promotion will only be granted to the first 10 completed orders that meet the rules of the promotion in your store.
 
->⚠️ Orders with status `Canceling` or `Canceled` do not count in the defined limit.
+<div class="alert alert-warning">
+<p>Orders with status <code>Canceling</code> or <code>Canceled</code> do not count in the defined limit.</p>
+</div>
 
 ![promotion-with-restriction-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/how-to-create-a-promotion-with-limitation-of-use_1.png)
 
@@ -25,4 +27,4 @@ You can also set the limit per customer, rather than a general usage limit. To d
 
 ## Learn more
 
-- [Understand more about each type of promotion](https://help.vtex.com/en/tutorial/como-criar-promocoes--tutorials_320).
+- [Understand more about each type of promotion](/en/tutorial/como-criar-promocoes--tutorials_320).

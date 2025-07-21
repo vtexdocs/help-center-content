@@ -1,5 +1,5 @@
 ---
-title: 'Creating or editing List Type does not work'
+title: "Creating or editing List Type does not work"
 id: O7fwPOv0mymmwMiiauc6g
 status: PUBLISHED
 createdAt: 2017-08-21T15:37:40.240Z

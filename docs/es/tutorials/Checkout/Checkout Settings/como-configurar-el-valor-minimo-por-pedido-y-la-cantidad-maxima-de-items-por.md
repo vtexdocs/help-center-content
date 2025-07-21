@@ -32,7 +32,9 @@ En las operaciones B2B, existe la necesidad de mantener relaciones con los compr
 
 ![Minimum Order Value - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/como-configurar-el-valor-minimo-por-pedido-y-la-cantidad-maxima-de-items-por_1.png)
 
->⚠️ El cliente tiene permitido armar un carrito con un valor menor al especificado en la regla "Valor mínimo total de la compra". Sin embargo, en el momento de finalizar la compra, sólo se completarán los pedidos que sean iguales o superiores al valor especificado.
+<div class="alert alert-warning">
+El cliente tiene permitido armar un carrito con un valor menor al especificado en la regla "Valor mínimo total de la compra". Sin embargo, en el momento de finalizar la compra, sólo se completarán los pedidos que sean iguales o superiores al valor especificado.
+</div>
 
 ## Definir una cantidad máxima de ítems del mismo SKU por carrito
 
@@ -42,7 +44,9 @@ En las operaciones B2B, existe la necesidad de mantener relaciones con los compr
 
 ![Cantidad máxima de un mismo SKU en el carrito](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/Checkout%20Settings/como-configurar-el-valor-minimo-por-pedido-y-la-cantidad-maxima-de-items-por_2.png)
 
->⚠️ No hay límites en el número máximo de ítems **del mismo SKU** por carrito. La única restricción se refiere al número máximo de ítems de **SKUs diferentes**, que debe ser un máximo de 300 ítems por carrito.
+<div class="alert alert-warning">
+No hay límites en el número máximo de ítems <b>del mismo SKU</b> por carrito. La única restricción se refiere al número máximo de ítems de <b>SKUs diferentes</b>, que debe ser un máximo de 300 ítems por carrito.
+</div>
 
 Si desea utilizar acciones que eviten que el usuario exceda los valores especificados incluso durante el flujo de compra (por ejemplo, crear un bloqueo de botón del carrito cuando se alcance la cantidad máxima de artículos), será necesario crear una personalización en la parte delantera de la tienda.
 

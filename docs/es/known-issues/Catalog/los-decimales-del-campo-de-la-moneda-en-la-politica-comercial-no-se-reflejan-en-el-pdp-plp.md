@@ -1,5 +1,5 @@
 ---
-title: 'Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP'
+title: "Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP"
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: field-currency-decimal-places-in-trade-policy-not-reflecting-on-pdpplp
+slugEN: los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp
 locale: es
 kiStatus: No Fix
 internalReference: 695044
@@ -18,7 +18,9 @@ internalReference: 695044
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

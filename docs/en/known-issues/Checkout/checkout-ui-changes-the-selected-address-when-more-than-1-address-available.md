@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI changes the selected address when more than 1 address available'
+title: "Checkout UI changes the selected address when more than 1 address available"
 id: 1VMSrrZVWTo3RL8yNEPR6H
 status: PUBLISHED
 createdAt: 2024-11-21T21:29:29.796Z

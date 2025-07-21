@@ -1,5 +1,5 @@
 ---
-title: 'O item fica indisponível se suas opções de montagem possíveis não corresponderem ao canal de vendas do carrinho'
+title: "O item fica indisponível se suas opções de montagem possíveis não corresponderem ao canal de vendas do carrinho"
 id: 36TbVrK9qcFFNUaIdN7JTH
 status: PUBLISHED
 createdAt: 2024-08-20T12:43:01.364Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: item-becomes-unavailable-if-its-possible-assembly-options-dont-match-the-cart-sales-channel
+slugEN: o-item-fica-indisponivel-se-suas-opcoes-de-montagem-possiveis-nao-corresponderem-ao-canal-de-vendas-do-carrinho
 locale: pt
 kiStatus: Fixed
 internalReference: 1083848
@@ -18,7 +18,9 @@ internalReference: 1083848
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se um item tiver qualquer opção de montagem possível que não esteja disponível para o canal de vendas usado no carrinho, o item se tornará indisponível.

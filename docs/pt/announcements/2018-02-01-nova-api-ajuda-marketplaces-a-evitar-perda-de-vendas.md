@@ -19,10 +19,10 @@ Já está disponível em stable uma API que vai trazer ainda mais autonomia para
 
 Com esse novo status, os marketplaces podem recuperar vendas que seriam perdidas no caso de um seller cancelar o pedido de um cliente. Agora, eles terão tempo para encontrar um outro seller com o estoque necessário para atender o pedido e, assim, garantir a conversão.
 
->⚠️ **Atenção:**
->
->  
-> O novo status só estará disponível quando **Marketplace** e **Seller** forem VTEX. E, se não houver seller VTEX com estoque disponível, a compra do cliente não passa pelo novo status e é cancelada automaticamente.
+<div class="alert alert-warning">
+<strong>Atenção:</strong><br> 
+O novo status só estará disponível quando <strong>Marketplace</strong> e <strong>Seller</strong> forem VTEX. E, se não houver seller VTEX com estoque disponível, a compra do cliente não passa pelo novo status e é cancelada automaticamente.
+</div>
 
 A nova funcionalidade também permite que o marketplace tenha mais controle sobre a qualidade da entrega dos produtos, uma vez que também será possível trocar de seller quando o pedido estiver com os status "__Pagamento pendente__" e "__Aguardando autorização__". Outro caso de uso é para lojas que possuem franqueados (sellers white label): agora, elas também vão poder alterar o franqueado responsável por um pedido. 
 

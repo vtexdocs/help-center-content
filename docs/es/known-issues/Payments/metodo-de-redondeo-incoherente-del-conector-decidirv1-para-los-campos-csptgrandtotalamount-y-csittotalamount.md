@@ -1,5 +1,5 @@
 ---
-title: 'Método de redondeo incoherente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.'
+title: "Método de redondeo incoherente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT."
 id: 6VcgLkWcGwMdkpuJQ14ZBt
 status: PUBLISHED
 createdAt: 2023-04-10T20:32:29.930Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: decidirv1-connectors-inconsistent-rounding-method-for-csptgrandtotalamount-and-csittotalamount-fields
+slugEN: metodo-de-redondeo-incoherente-del-conector-decidirv1-para-los-campos-csptgrandtotalamount-y-csittotalamount
 locale: es
 kiStatus: Backlog
 internalReference: 787367
@@ -18,7 +18,9 @@ internalReference: 787367
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El conector heredado DecidirV1 utiliza un método interno para calcular los campos `CSPTGRANDTOTALAMOUNT` y `CSITTOTALAMOUNT`, que es el producto entre el valor del producto y la cantidad. Este método da como resultado una cadena con dos decimales. En consecuencia, cuando el precio del producto contiene más de dos decimales, el valor del campo `CSPTGRANDTOTALAMOUNT` diverge, ya que es el propio valor del pago.

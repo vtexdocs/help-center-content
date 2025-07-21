@@ -1,5 +1,5 @@
 ---
-title: 'Quick view não funciona em páginas HTTPS'
+title: "Quick view não funciona em páginas HTTPS"
 id: cXoMffma6AMOKgcimgmYO
 status: PUBLISHED
 createdAt: 2017-08-02T17:25:52.444Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
-slugEN: quick-view-does-not-work-on-HTTPS-pages
+slugEN: quick-view-nao-funciona-em-paginas-https
 locale: pt
 kiStatus: Fixed
 internalReference: 

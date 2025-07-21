@@ -1,5 +1,5 @@
 ---
-title: 'SKU KIT weight differs between shipping simulation and registration (admin)'
+title: "SKU KIT weight differs between shipping simulation and registration (admin)"
 id: 4YAWHxWpPOAoyi0O8MuEeC
 status: PUBLISHED
 createdAt: 2017-09-29T12:52:49.738Z

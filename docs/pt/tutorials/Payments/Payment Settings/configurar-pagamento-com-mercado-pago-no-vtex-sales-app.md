@@ -15,9 +15,11 @@ legacySlug: configurar-pagamento-com-mercado-pago-no-vtex-sales-app
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Mercado Pago. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Na VTEX, é possível realizar a integração com o provedor de pagamento Mercado Pago. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
->ℹ️ Para utilizar o provedor MercadoPagoV2 em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com MercadoPagoV2](https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
+<div class="alert alert-info">
+Para utilizar o provedor MercadoPagoV2 em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse <a href="https://help.vtex.com/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4">Configurar pagamento com MercadoPagoV2</a>.
+</div>
 
 Para utilizar o provedor MercadoPagoV2 no VTEX Sales App, é necessário:
 
@@ -26,7 +28,9 @@ Para utilizar o provedor MercadoPagoV2 no VTEX Sales App, é necessário:
 - [Instalar os aplicativos Mercado Pago Payment e Mercado Pago Instore na VTEX](#instalar-aplicativos-mercado-pago-payment-e-mercado-pago-instore-na-vtex)
 - [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
 
->⚠️ As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Mercado Pago para informações atualizadas.
+<div class="alert alert-warning">
+As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Mercado Pago para informações atualizadas.
+</div>
 
 ## Configurar chaves no ambiente Mercado Pago
 
@@ -34,7 +38,9 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 
 <blockquote><ui>1. Acesse o <a href="https://www.mercadopago.com.br/developers/pt">portal do desenvolvedor Mercado Pago</a> para criar uma nova conta.</ui>
 
-<blockquote><ui>>⚠️ O portal do desenvolvedor Mercado Pago permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e o Mercado Pago. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta no Mercado Pago.</blockquote>
+<blockquote><ui><div class="alert alert-warning">
+O portal do desenvolvedor Mercado Pago permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e o Mercado Pago. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta no Mercado Pago.
+  </div></blockquote>
 
 <blockquote><ui>2. Após realizar o login, acesse a <a href="https://www.mercadopago.com.br/developers/pt/docs/vtex/additional-content/your-integrations/credentials">documentação de credenciais</a> do Mercado Pago para verificar como obter o <b>Public Key</b> e <b>Access Token</b> que serão utilizados na configuração do MercadoPagoV2 na VTEX.</ui> 
 
@@ -90,7 +96,9 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 
 ## Instalar aplicativos Mercado Pago Payment e Mercado Pago Instore na VTEX
 
->⚠️ Antes de instalar o app **mercadopago.mercadopago-app**, confirme com a equipe de suporte do Mercado Pago qual é a versão atual do aplicativo.
+<div class="alert alert-warning">
+  Antes de instalar o app <b>mercadopago.mercadopago-app</b>, confirme com a equipe de suporte do Mercado Pago qual é a versão atual do aplicativo.
+  </div>
 
 1. No [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute o comando `vtex login nomedaconta` para realizar o login em sua conta.
 2. Instale o app **mercadopago.mercadopago-app** por meio do comando `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. A informação {{current-app-version}} deve ser substituída pela a versão atual do aplicativo, por exemplo: `vtex install mercadopago.mercadopago-app@2.3.15`.
@@ -104,7 +112,7 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 4. Em **Processar com o provedor**, selecione a opção **MercadoPagoV2**.
 5. Ative a condição no campo **Status**.
 6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor MercadoPagoV2 pode demorar até 10 minutos para aparecer como opção de pagamento no VTEX Sales App de sua loja.

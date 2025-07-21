@@ -40,7 +40,7 @@ A página **Promoções** apresenta as seguintes informações em uma tabela:
 
 ## Criar nova promoção
 
-Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](https://help.vtex.com/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
+Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Buscar promoções
 
@@ -91,4 +91,6 @@ Para acessar a página **Promoções arquivadas**, clique no ícone <i class="fa
 
 Você poderá desarquivar ou duplicar as promoções arquivadas clicando no ícone <i class="fas fa-ellipsis-v"></i>. 
 
->ℹ️ Ao desarquivar uma promoção, seu status mudará para `Pausada`.
+<div class="alert alert-info">
+  <p>Ao desarquivar uma promoção, seu status mudará para <code>Pausada</code>.</p>
+  </div>

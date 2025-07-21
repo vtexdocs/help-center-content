@@ -3,8 +3,8 @@ title: 'Operational Capacity (Beta)'
 id: 2thSYLMAS8KAd8V4XuBLSy
 status: PUBLISHED
 createdAt: 2023-05-08T18:03:07.644Z
-updatedAt: 2024-09-05T17:50:56.209Z
-publishedAt: 2024-09-05T17:50:56.209Z
+updatedAt: 2025-01-23T12:00:02.987Z
+publishedAt: 2025-01-23T12:00:02.987Z
 firstPublishedAt: 2023-05-09T17:22:57.861Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,55 +15,95 @@ legacySlug: locations-module
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
+<div class = "alert alert-info">
+This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
+</div>
 
->⚠️ To use the feature, it is required to have [franchise accounts](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
+<div class="alert alert-warning">
+To use the feature, it is required to have <a href="https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">franchise accounts</a> associated with the <a href="https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types">main account</a>.
+</div>
 
-The **Operational Capacity** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#acoes-na-pagina-de-detalhes-do-seller) to improve order allocation between them.
+The **Operational Capacity (Beta)** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#actions-on-the-capacity-details-page-of-the-seller) to improve order allocation between them.
 
-A good seller operational capacity management leads to the following advantages:
+Good management of seller operational capacity leads to the following advantages:
 
-- Better reallocates product demand between different sellers' warehouses.
-- Optimizes order shipping times by avoiding overloading sellers.
-- Improves the shopping experience for customers, who receive their orders on time.
+- Better allocation of product demand between different seller warehouses.
+- Optimized order shipping times by avoiding overloading sellers.
+- Improved shopping experience for customers, who receive their orders on time.
 
-When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
+This article describes how to use **Operational Capacity (Beta)** and is structured as follows:
 
-![operational_capacity_image1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_1.png)
+- [Enabling the Operational Capability (Beta) module](#enabling-the-operational-capability-beta-module)
+- [Getting started with Operational Capacity (Beta)](#getting-started-with-operational-capacity-beta)
+- [Operational Capacity (Beta) actions](#operational-capacity-beta-actions)
+- [Actions on the capacity details page of the seller](#actions-on-the-capacity-details-page-of-the-seller)
+- [Comprehensive seller behavior](#comprehensive-seller-behavior)
+- [Choosing between editing seller operational capacity, making it unlimited or pausing the seller, or disabling the module](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module)
+- [Disabling the Operational Capacity (Beta) module](#disabling-the-operational-capacity-beta-module)
 
->⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
+<div class = "alert alert-info">
+To manage <b>Operational Capacity (Beta)</b>, your VTEX Admin <a href="https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">role</a> must be associated with the <i>Logistics full access</i> <a href="https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">License Manager resource</a>.
+</div>
 
-The chart shows the following data:
+## Enabling the Operational Capability (Beta) module
+
+To start using the feature, you need to enable **Operational Capacity (Beta)** through the VTEX Admin. When not enabled, the module has no effect and doesn't allow you to manage seller capacity.
+
+<div class="alert alert-warning">
+Before enabling the module, we recommend configuring the operational capacity of your sellers. That way, before the feature starts working, you will have a clear view of how the capacity of each seller is consumed, and you can adjust your settings to meet the demands of your operation.
+</div>
+
+To enable the **Operational Capability (Beta)** module, follow the steps below:
+
+1.	In the VTEX Admin, go to **Shipping > Operational Capacity**, or type **Operational Capacity** in the search bar at the top of the page.
+2.	At the top of the page, find the callout message: “*Module disabled: Enable it so the settings you've configured are applied and used by the VTEX platform*”.
+3.	In the callout, click `Enable`.
+
+If you want to stop using the feature, you can [disable Operational Capacity (Beta)](#disabling-the-operational-capacity-beta-module) at any time. However, it is worth considering other strategies, as mentioned in [Choosing between editing seller operational capacity, making it unlimited, pausing the seller, or disabling the module](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module).
+
+## Getting started with Operational Capacity (Beta)
+
+In the VTEX Admin, go to **Shipping > Operational capacity**, or type **Operational capacity** in the search bar to see the following page:
+
+![operational_capacity_image_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_1.png)
+
+<div class="alert alert-warning">
+The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact our <a href="https://help.vtex.com/en/support">Support team</a>.
+</div>
+
+The chart shows the following information:
 
 - **Total sellers:** Total number of sellers in your operation.
-- **Active:** Number of sellers receiving new orders.
+- **Active:** Number of sellers who are receiving new orders, whether they have a configured capacity limit or unlimited capacity.
 - **Paused:** Number of sellers who are paused and not receiving new orders.
 - **Number of sellers that exceeded capacity:** Number of sellers that received more orders than their configured limit. You can view results from the last `7 days` or `28 days`.
 
-The **Operational Capacity** page displays the following information:
+The **Operational Capacity (Beta)** page displays the following information:
 
 | **Column** | **Description** |
 | :----------: | :---------- |
-| Name | Identification of the <a href="https://help.vtex.com/en/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> to which the operational capacity refers. |
-| Capacity Usage | <p>Percentage of operational capacity used on the day.</p><p><b>Example:</b> A seller with the capacity to handle 100 orders has used 80% of its capacity for the day. Therefore, they can only receive 20 more new orders that day.</p><p>In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they cannot receive any new orders for the day.</p><p>You can <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#editing-the-sellers-operational-capacity">edit the operational capacity of sellers</a> individually or in bulk, as detailed in the Editing operational capacity of sellers section.</p> |
-| Status | <p>Status of the seller's operational capacity, which can be of two types:</p><p><ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> <b>Active:</b> The toggle switch is activated, and the seller can receive new orders.</li><li><i class="fas fa-toggle-off" aria-hidden="true"></i><b>Paused:</b> The toggle switch is deactivated, and the seller cannot receive new orders.</li></ul></p><p>To choose when to pause a seller, see the section <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#choosing-between-pausing-or-increasing-operational-capacity">Choosing between pausing or increasing operational capacity</a>.</p> |
+| Seller | Identification of the <a href="https://help.vtex.com/en/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> to which the operational capacity refers. |
+| Capacity Usage | <p>Percentage of the seller operational capacity used on the day.</p><p><b>Example:</b> A seller with the capacity to handle 100 orders daily has used 80% of its capacity for the day. Therefore, they can only receive 20 more new orders that day.</p><p>In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they cannot receive any new orders for the day.</p><p>You can <a href="#editing-the-sellers-operational-capacity">edit the operational capacity of sellers</a> individually or in bulk.</p> |
+| Status | <p>Status of the seller's operational capacity, which can be of two types:</p><p><ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> <b>Active:</b> The toggle switch is activated, and the seller can receive new orders, either because it is within the capacity limit that has been set, or because the seller has unlimited capacity.</li><li><i class="fas fa-toggle-off" aria-hidden="true"></i><b>Paused:</b> The toggle switch is deactivated, and the seller cannot receive new orders.</li></ul></p><p>To choose when to pause a seller, see the section <a href="#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module">Choosing between pausing or increasing operational capacity</a>.</p> |
 
-When you click a seller, you are redirected to the [seller's details page](#actions-on-the-seller-details-page), which will be seen below.
+When you click a seller, you are redirected to the [seller's capacity details page](#actions-on-the-capacity-details-page-of-the-seller), which will be seen below.
 
-## Operational Capacity actions
+## Operational Capacity (Beta) actions
 
-In the VTEX Admin, under **Shipping > Operational Capacity**, you can do the following:
+In the VTEX Admin, in the **Shipping > Operational Capacity**, you can do the following:
 
 - [Search for sellers](#searching-for-sellers)
 - [Filter sellers](#filtering-sellers)
-- [Activate and pause sellers' operational capacity](#activating-and-pausing-the-operational-capacity-of-sellers)
-- [Edit the seller's operational capacity unit](#editing-the-sellers-operational-capacity-unit)
+- [Activate and pause the operational capacity of sellers](#activate-and-pause-the-operational-capacity-of-sellers)
+- [Edit the operational capacity unit of sellers](#edit-the-operational-capacity-unit-of-sellers)
 
 ### Searching for sellers
 
 Using the search bar, you can search for sellers by their name.
 
->ℹ️ You can associate the search for sellers with the [filter by status](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtering-sellers). If your search did not return any results, make sure no filters are active.
+<div class = "alert alert-info">
+You can associate the search for sellers with the <a href="#filtering-sellers">filter by status</a>. If your search did not return any results, make sure no filters are active.
+</div>
 
 ### Filtering sellers
 
@@ -71,7 +111,7 @@ You can filter the listed sellers by their status by clicking `Status` and selec
 
 To clear the applied filters, click **Status > Clear**.
 
-### Activating and pausing the operational capacity of sellers
+### Activate and pause the operational capacity of sellers
 
 A seller will have the <i class="fas fa-toggle-on" aria-hidden="true"></i> `Active` status if the toggle switch is activated, and the <i class="fas fa-toggle-off" aria-hidden="true"></i> `Paused` status if the toggle switch is deactivated. To change the operational capacity status of a single seller, click the toggle switch in the corresponding row and confirm the change by clicking `Pause`/`Activate`. 
 
@@ -83,7 +123,7 @@ To activate or pause the operational capacity of multiple sellers, follow these 
 4. Click `Activate` or `Pause`, as desired.
 5. Confirm by clicking `Activate` or `Pause`, as desired.
 
-### Editing the seller's operational capacity unit
+### Edit the operational capacity unit of sellers
 
 The seller's operational capacity considers the number of orders or order items. To edit the operational capacity of one or more sellers, follow the steps below:
 
@@ -95,62 +135,50 @@ The seller's operational capacity considers the number of orders or order items.
     - **Number of items:** The seller's operational capacity will be based on the number of items in an order.
 5. Click `Save Changes`.
 
->⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
+<div class="alert alert-warning">
+The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="#comprehensive-seller-behavior">Comprehensive seller behavior</a> section.
+</div>
 
-## Actions on the seller details page
+## Actions on the capacity details page of the seller
 
-In the VTEX Admin, under **Shipping > Operational Capacity**, when you click a seller, you are redirected to their details page, where you can:
+In the VTEX Admin, under **Shipping > Operational Capacity**, when you click the seller name, you are redirected to the capacity details page, where you can:
 
-- [Pause and activate the seller's operational capacity](#pause-and-activate-the-sellers-operational-capacity)
+- [Pause and activate the seller's operational capacity](#pausing-and-activating-the-sellers-operational-capacity)
 - [Monitor capacity usage](#monitoring-capacity-usage)
-- [Edit the address associated with the seller](#editing-the-address-associated-with-the-seller)
 - [Edit the seller's operational capacity](#editing-the-sellers-operational-capacity)
+- [Configure the seller's unlimited capacity](#configuring-the-sellers-unlimited-capacity)
+- [Edit the address associated with the seller](#editing-the-address-associated-with-the-seller)
 
-### Pause and activate the seller's operational capacity
+### Pausing and activating the seller's operational capacity
 
 At the top right of the seller's details page, you'll find a toggle switch to activate or pause their operational capacity:
 
 - **Activate:** Enable the toggle switch for `Active` and click `Activate`.
 - **Pause:** Toggle the switch for `Paused` and click `Pause`.
 
->⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
+<div class="alert alert-warning">
+The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="#comprehensive-seller-behavior">Comprehensive seller behavior</a> section.
+</div>
 
 ### Monitoring capacity usage
 
-The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
+The **Operational Capacity Status** shows, in real time, the percentage of the seller's capacity that has already been used that day and over the next three days, as in the image below:
 
-![operational_capacity_image2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_2.png)
+![operational_capacity_image_2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_2.png)
 
-The chart shows the following periods:
-
-- Today
-- Tomorrow
-- Date of the next two days
-
-If you set up the _Continue to receive orders by consuming the capacity of the following days_ [rule](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#iii-rule) for the seller, the chart will display the percentage of operational capacity for the following days already used for orders from previous days. Learn more in [Editing the seller's operational capacity](#editing-the-sellers-operational-capacity).
-
-### Editing the address associated with the seller
-
-To edit the seller's address or identification name in **Operational Capacity**, follow the steps below:
-
-1. In the **Basic Information** section, click `Edit Basic Information`.
-2. Change the desired information.
-3. Click `Save Changes`.
+If you set up the _Continue to receive orders by consuming the capacity of the following days_ [rule](#iii-rule) for the seller, the chart will display the percentage of operational capacity for the following days already used for orders from previous days. Learn more in [Editing the seller's operational capacity](#editing-the-sellers-operational-capacity).
 
 ### Editing the seller's operational capacity
 
-In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
+In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week. To change these settings, follow the steps below:
 
-![operational_capacity_image3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_3.png)
-
-To change these settings, follow the steps below:
-
-1. In the **Operational Capacity** section, click `Edit`.
-2. Change the desired options:
+1. On the seller capacity details page, find the **Operational Capacity** section.
+2. Click `Edit`.
+3. Change the desired options:
     - [I - Operational Capacity Unit](#i-operational-capacity-unit)
     - [II - Capacity](#ii-capacity)
     - [III - Rule](#iii-rule)
-3. Click `Save Changes`.
+4. Click `Save Changes`.
 
 Below are the field descriptions mentioned in the instructions.
 
@@ -173,18 +201,62 @@ Choose the rule for when the seller reaches maximum capacity for the day:
   > **Example:** A seller sells chocolates, and its operational capacity today reached 100%. The seller keeps receiving new orders, but they will be handled the next day, as the team can only handle orders already scheduled for today. At checkout, the delivery promise for new orders now displays a day later, as the orders will be handled tomorrow. If tomorrow's capacity is consumed today, new orders will be allocated for the day after tomorrow and handled in two days. This is because the store has set up a period of three days to receive orders by using the following days' capacity.
 - **Pause this seller until the end of the day:** Once a seller reaches their capacity limit for the day, they stop receiving new orders, which are allocated to other sellers.
 
-## Choosing between pausing or increasing operational capacity
+### Configuring the seller's unlimited capacity
 
-To decide whether the best strategy for your business is to [edit a seller's operational capacity](#-editing-the-sellers-operational-capacity) or [pause](#pause-and-activate-the-sellers-operational-capacity) them, it's important to understand the following:
+Also in the **Operational Capacity** section, you can configure unlimited capacity for the seller. This allows them to receive orders with no restrictions, meaning that the operational capacity is not managed.
 
-- **Paused seller:** The seller stops receiving new orders until they are reactivated. Even if the rule _Continue to receive orders by consuming the capacity of the following days_ is configured, new orders are not accepted.
-  > **Example:** The seller's store had problems with their facilities, affecting the handling of new orders. In this case, it is strategic to pause the seller and only reactivate them once they are able to handle orders again.
-- **Seller reached the maximum limit:** When the seller reaches 100% capacity, they stop receiving new orders for that day. However, their operational capacity becomes fully available the next day, and they automatically receive new orders.
-  > **Example:** On Christmas Eve, the seller reached its maximum capacity for the day and could not handle more orders, so it would not be worth [increasing the seller's operational capacity](#editing-the-sellers-operational-capacity). Since new orders can be handled the next day, there's no need to edit the seller, as their capacity will reset and be available to receive new orders again.
+To configure the seller's unlimited capacity, follow the steps below:
 
-### Comprehensive seller operational capacity
+1. On the seller capacity details page, find the **Operational Capacity** section.
+2. Click `Make Capacity Unlimited`.
+3. Click `Continue`.
 
-When customers don't enter their location on your store, they can see your store's products (seller 1) and those from [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI).
+<div class = "alert alert-info">
+Seller unlimited capacity is the default seller behavior for stores that don't use <b>Operational capacity (Beta)</b>. When the seller is configured with unlimited capacity, the module doesn't calculate the operational capacity usage.
+</div>
+
+To learn about applying different strategies, see the section [Choosing between editing seller operational capacity, making it unlimited or pausing the seller](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module).
+
+### Editing the address associated with the seller
+
+To edit the seller's address or identification name in **Operational Capacity (Beta)**, follow the steps below:
+
+1. On the seller capacity details page, find the **Basic Information** section.
+2. Click `Edit Basic Information`.
+3. Change the desired information.
+4. Click `Save Changes`.
+
+## Comprehensive seller behavior
+
+When customers don't enter their location on your store, they can see your store's products (seller 1) and those from [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI).
 
 Due to a platform limitation, when you deactivate the operational capacity of a comprehensive seller, their products are still displayed on the store, but customers can't buy them. 
 We therefore recommend leaving the comprehensive sellers' operational capacity enabled at all times.
+
+## Choosing between editing seller operational capacity, making it unlimited or pausing the seller, or disabling the module
+
+To define the best strategy for your business in different situations, it's important to understand the following:
+
+- **[Paused seller](#pausing-and-activating-the-sellers-operational-capacity):** The seller stops receiving new orders until they are reactivated. Even if the rule _Continue to receive orders by consuming the capacity of the following days_ is configured, new orders are not accepted.
+  > **Example:** The seller's store had problems with their facilities, affecting the handling of new orders. In this case, it is strategic to pause the seller and only reactivate them once they are able to handle orders again.
+- **[Seller reached the maximum limit](#monitoring-capacity-usage):** The seller that reached 100% of operational capacity stops receiving new orders that day. However, the next day, their operational capacity is cleared again and they automatically receive new orders.
+  > **Example:** On Christmas Eve, the seller reached the maximum limit of their capacity for the day and wouldn't be able to handle any more orders, so it wouldn't be useful to [edit the operational capacity](#editing-the-sellers-operational-capacity). The next day, new orders could be handled, so it would be preferable not to increase the seller capacity, as the next day their capacity will be cleared to receive new orders.
+- **[Seller with unlimited capacity](#configuring-the-sellers-unlimited-capacity):** The seller receives orders without restrictions, so there's no need to manage the operational capacity limit of this seller. This is the platform's default behavior for sellers from stores not using **Operational Capacity (Beta)**.
+  > **Example:** A seller only sells digital items that don't require handling and delivery time. In this case, it would be optimal for them to have unlimited operational capacity.
+* **[Disabled module](#disabling-the-operational-capacity-beta-module)**: When Operational Capacity (Beta) is not enabled, the module has no effect and you can't manage the operational capacity of sellers. However, when you disable the module, the seller operational capacity settings are not lost and will work again when the module is enabled.
+  > **Example:** If you want to stop using the Operational Capacity (Beta) module for any reason, you can disable it.
+
+## Disabling the Operational Capacity (Beta) module
+
+If you want to stop using the **Operational Capacity (Beta)** and suspend the effects of capacity settings for all sellers, you can disable the module. When you do this, you don't lose the seller capacity settings you configured, but they are no longer effective.
+
+To disable the **Operational Capability (Beta)** module, follow the steps below:
+
+1.	In the VTEX Admin, go to **Shipping > Operational Capacity**, or type **Operational Capacity** in the search bar at the top of the page.
+2.	In the menu at the top right of the page, click `Disable Module`.
+3.	In the modal, click `Disable`.
+
+<div class="alert alert-warning">
+  You can <a href="https://help.vtex.com/en/tutorial/operational-capacity-beta--2thSYLMAS8KAd8V4XuBLSy#enabling-the-operational-capability-beta-module">enable the Operational Capacity (Beta)</a> module to manage seller capacity at any time.
+</div>
+

@@ -1,5 +1,5 @@
 ---
-title: 'Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied'
+title: "Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied"
 id: 60gzoaN1WQC6OsEymBPdeq
 status: PUBLISHED
 createdAt: 2023-09-28T22:29:39.597Z

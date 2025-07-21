@@ -1,5 +1,5 @@
 ---
-title: 'MELI FULL orders not creating Invoice in VTEX'
+title: "MELI FULL orders not creating Invoice in VTEX"
 id: 6SNkDcqCWeDDPm01RrM0FQ
 status: PUBLISHED
 createdAt: 2024-02-05T11:14:30.020Z

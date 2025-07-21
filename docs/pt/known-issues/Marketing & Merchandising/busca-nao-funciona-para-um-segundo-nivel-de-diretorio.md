@@ -1,5 +1,5 @@
 ---
-title: 'Busca não funciona para um segundo nível de diretório'
+title: "Busca não funciona para um segundo nível de diretório"
 id: 6oAmtEIyyWWciICgSuYC00
 status: PUBLISHED
 createdAt: 2017-04-11T22:25:02.223Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: search-doesnt-work-for-a-second-folderlevel
+slugEN: busca-nao-funciona-para-um-segundo-nivel-de-diretorio
 locale: pt
 kiStatus: Backlog
 internalReference: 
@@ -18,7 +18,9 @@ internalReference:
 
 ## Sumário
 
->⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+<div class = "alert alert-warning">
+  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+</div>
 
 Na [documentação da Busca da VTEX](http://help.vtex.com/tutorial/como-funciona-a-busca-da-vtex/), temos o seguinte cenário contemplado:
 

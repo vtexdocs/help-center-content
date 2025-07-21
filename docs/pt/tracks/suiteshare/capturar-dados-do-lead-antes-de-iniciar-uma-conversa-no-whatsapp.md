@@ -22,9 +22,9 @@ Depois de preencher o  as informações ele será direcionado para o WhatsApp.
 
 ![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/suiteshare/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp_1.png)  
 
-Para começar, você precisa criar um **link** para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links.](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) Mas, se você já possui todos os links criados, vamos começar a organizar o nosso processo de [**captura**.](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo)  
+Para começar, você precisa criar um **link** para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links.](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) Mas, se você já possui todos os links criados, vamos começar a organizar o nosso processo de [**captura**.](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo)  
 
-1. Defina em qual etapa você deseja capturar as informações (ela pode ser diretamente no link distribuído nas redes sociais, no chat antes de selecionar o setor ou até mesmo na hora do redirecionamento [sequencial](https://help.vtex.com/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX) ou [geolocalizado](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D)).
+1. Defina em qual etapa você deseja capturar as informações (ela pode ser diretamente no link distribuído nas redes sociais, no chat antes de selecionar o setor ou até mesmo na hora do redirecionamento [sequencial](/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX) ou [geolocalizado](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D)).
 
 ![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/suiteshare/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp_2.png)
 

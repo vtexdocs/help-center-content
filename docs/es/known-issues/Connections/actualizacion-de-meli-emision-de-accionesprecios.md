@@ -1,5 +1,5 @@
 ---
-title: 'Actualización de MELI Emisión de acciones/precios'
+title: "Actualización de MELI Emisión de acciones/precios"
 id: 7LQ81vG5nsbBn4Wj7Z9VJe
 status: PUBLISHED
 createdAt: 2023-12-12T10:22:28.961Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-update-stockprice-issue
+slugEN: actualizacion-de-meli-emision-de-accionesprecios
 locale: es
 kiStatus: Fixed
 internalReference: 939329
@@ -18,7 +18,9 @@ internalReference: 939329
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

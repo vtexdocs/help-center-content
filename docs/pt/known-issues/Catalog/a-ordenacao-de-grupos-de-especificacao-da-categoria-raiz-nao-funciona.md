@@ -1,5 +1,5 @@
 ---
-title: 'A ordenação de grupos de especificação da categoria raiz não funciona'
+title: "A ordenação de grupos de especificação da categoria raiz não funciona"
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: ordering-of-specification-groups-from-the-root-category-does-not-work
+slugEN: a-ordenacao-de-grupos-de-especificacao-da-categoria-raiz-nao-funciona
 locale: pt
 kiStatus: No Fix
 internalReference: 634129
@@ -18,7 +18,9 @@ internalReference: 634129
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, quando grupos de especificação são criados na categoria raiz, não é possível reordená-los por Admin ou API

@@ -1,5 +1,5 @@
 ---
-title: "'¿Cuántas veces se aplicará su beneficio en su tienda?' Guardar incorrectamente en la interfaz del formulario de promoción"
+title: '¿Cuántas veces se aplicará su beneficio en su tienda?" Guardar incorrectamente en la interfaz del formulario de promoción'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: how-many-times-will-your-benefit-be-applied-in-your-store-saving-incorrectly-on-promotion-form-interface
+slugEN: cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion
 locale: es
 kiStatus: Backlog
 internalReference: 268304
@@ -18,7 +18,9 @@ internalReference: 268304
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

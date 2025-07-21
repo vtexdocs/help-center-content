@@ -1,5 +1,5 @@
 ---
-title: "When settleId is sent as null and code as 'refund-manually' our gateway performs a double refund."
+title: 'When settleId is sent as null and code as "refund-manually" our gateway performs a double refund.'
 id: 2PdRRjHDODY2Tk0VItO4Fo
 status: PUBLISHED
 createdAt: 2022-07-11T17:37:43.961Z

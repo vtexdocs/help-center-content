@@ -1,5 +1,5 @@
 ---
-title: 'Facets from the Segment affecting breadcrumbs, page title, and additional filters'
+title: "Facets from the Segment affecting breadcrumbs, page title, and additional filters"
 id: 3lBgcsjxiZxoDvnPhbMXgo
 status: PUBLISHED
 createdAt: 2024-06-27T22:57:42.875Z

@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency in the quantity of items with assembly options in the cart'
+title: "Inconsistency in the quantity of items with assembly options in the cart"
 id: ANQ597XM5mK85MhME920Y
 status: PUBLISHED
 createdAt: 2021-09-23T20:34:36.214Z

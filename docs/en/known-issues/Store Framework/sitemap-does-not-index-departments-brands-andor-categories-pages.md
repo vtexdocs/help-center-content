@@ -1,5 +1,5 @@
 ---
-title: 'Sitemap does not index departments, brands and/or categories pages'
+title: "Sitemap does not index departments, brands and/or categories pages"
 id: 59AJOYBjpw23Ee8EXKOjUF
 status: PUBLISHED
 createdAt: 2024-08-06T19:23:18.073Z

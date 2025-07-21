@@ -1,10 +1,10 @@
 ---
-title: '[Catalog] [Facelift] Only items that are within the department are being returned'
+title: "[Catalog] [Facelift] Only items that are within the department are being returned"
 id: 5oWpggJGMvwQOEEzWnb75I
 status: PUBLISHED
 createdAt: 2024-10-17T12:41:39.520Z
-updatedAt: 2024-10-17T12:42:06.645Z
-publishedAt: 2024-10-17T12:42:06.645Z
+updatedAt: 2024-12-19T18:41:16.770Z
+publishedAt: 2024-12-19T18:41:16.770Z
 firstPublishedAt: 2024-10-17T12:41:40.784Z
 contentType: knownIssue
 productTeam: Catalog

@@ -1,5 +1,5 @@
 ---
-title: 'Al acceder a mis pedidos, el nombre que aparece es el nombre del ProductName sin la información del SKU Name.'
+title: "Al acceder a mis pedidos, el nombre que aparece es el nombre del ProductName sin la información del SKU Name."
 id: 1PTEStTC2MDQwZpE0myF44
 status: PUBLISHED
 createdAt: 2024-03-08T13:16:01.672Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: when-accessing-my-orders-the-name-that-appears-is-the-name-of-the-productname-without-the-sku-name-information
+slugEN: al-acceder-a-mis-pedidos-el-nombre-que-aparece-es-el-nombre-del-productname-sin-la-informacion-del-sku-name
 locale: es
 kiStatus: No Fix
 internalReference: 694809
@@ -18,7 +18,9 @@ internalReference: 694809
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al acceder a "mis pedidos", el nombre que aparece es el nombre del "ProductName" sin la información del "SKU Name", sólo en la interfaz IO.

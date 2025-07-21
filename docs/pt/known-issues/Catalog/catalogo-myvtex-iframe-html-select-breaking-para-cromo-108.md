@@ -1,5 +1,5 @@
 ---
-title: 'Catálogo Myvtex Iframe HTML Select Breaking para Cromo 108'
+title: "Catálogo Myvtex Iframe HTML Select Breaking para Cromo 108"
 id: 7kax7PbhijSluYJETvOe92
 status: PUBLISHED
 createdAt: 2022-12-06T18:58:36.011Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-myvtex-iframe-html-select-breaking-for-chrome-108
+slugEN: catalogo-myvtex-iframe-html-select-breaking-para-cromo-108
 locale: pt
 kiStatus: Backlog
 internalReference: 711637
@@ -18,7 +18,9 @@ internalReference: 711637
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

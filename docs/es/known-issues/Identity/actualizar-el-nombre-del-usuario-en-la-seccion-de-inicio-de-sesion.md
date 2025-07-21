@@ -1,5 +1,5 @@
 ---
-title: 'Actualizar el nombre del usuario en la sección de inicio de sesión'
+title: "Actualizar el nombre del usuario en la sección de inicio de sesión"
 id: 2jshd2ApTq7hKNLbQiCWdS
 status: PUBLISHED
 createdAt: 2022-03-14T17:20:40.732Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: update-users-name-in-the-login-section
+slugEN: actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion
 locale: es
 kiStatus: No Fix
 internalReference: 542029
@@ -18,7 +18,9 @@ internalReference: 542029
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualizar el nombre del usuario en la sección de inicio de sesión

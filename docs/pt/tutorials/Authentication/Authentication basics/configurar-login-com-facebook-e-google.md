@@ -3,8 +3,8 @@ title: 'Configurar login com Facebook e Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-10-20T19:35:59.221Z
-publishedAt: 2023-10-20T19:35:59.221Z
+updatedAt: 2025-02-28T15:23:10.253Z
+publishedAt: 2025-02-28T15:23:10.253Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
@@ -21,14 +21,14 @@ Nativamente, a plataforma oferece opções de login com email e senha e login co
 
 1. [Obter credenciais junto aos provedores](#obter-credenciais-junto-aos-provedores)
 2. [Configurar login com provedores](#configurar-login-com-provedores)
-3. [Validar a configuração](#validar-a-configuracao)
+3. [Validar a configuração](#validar-a-configuracao) 
 
 ## Obter credenciais junto aos provedores
 
 Antes de configurar nossa integração de login com o Google e Facebook, é necessário criar credenciais de OAuth 2.0 (protocolo utilizado para integração) nesses serviços. Para fazer isso, siga as instruções nos artigos indicados abaixo:
 
-- [Facebook](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook--3R7rzXWG1GswWOIkYyy8SO)
-- [Google](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google--1lBgDmetUM4goie6mYEOK6)
+- [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook--3R7rzXWG1GswWOIkYyy8SO)
+- [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google--1lBgDmetUM4goie6mYEOK6)
 
 ## Configurar login com provedores
 

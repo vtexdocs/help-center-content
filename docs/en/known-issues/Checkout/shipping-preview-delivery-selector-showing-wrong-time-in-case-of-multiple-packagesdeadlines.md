@@ -1,5 +1,5 @@
 ---
-title: 'Shipping Preview delivery selector showing wrong time in case of multiple packages/deadlines'
+title: "Shipping Preview delivery selector showing wrong time in case of multiple packages/deadlines"
 id: 6isrBCEGK4UlpfFEEz4mxr
 status: PUBLISHED
 createdAt: 2023-03-23T15:50:24.372Z

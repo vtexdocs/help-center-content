@@ -1,5 +1,5 @@
 ---
-title: 'Erro na validação de documento corporativo do México no Checkout'
+title: "Erro na validação de documento corporativo do México no Checkout"
 id: 2sRYHVITR34SVmJKwTig2r
 status: PUBLISHED
 createdAt: 2022-02-04T12:50:13.965Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Other
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
-slugEN: error-when-validating-mexican-corporate-document-at-checkout
+slugEN: erro-na-validacao-de-documento-corporativo-do-mexico-no-checkout
 locale: pt
 kiStatus: Backlog
 internalReference: 425486 

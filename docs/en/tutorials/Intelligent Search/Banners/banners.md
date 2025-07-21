@@ -3,8 +3,8 @@ title: 'Banners'
 id: 72XytEoeqOAOiH05oVF0pH
 status: PUBLISHED
 createdAt: 2024-06-27T16:30:55.610Z
-updatedAt: 2024-06-27T16:31:52.889Z
-publishedAt: 2024-06-27T16:31:52.889Z
+updatedAt: 2025-04-14T15:01:20.064Z
+publishedAt: 2025-04-14T15:01:20.064Z
 firstPublishedAt: 2024-06-27T16:31:52.889Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,9 +19,7 @@ Banners is the Intelligent Search feature that displays banners, like promotiona
 
 Each customer group in your store, having its own profile, has its own interest. Your marketing campaigns need to take this into account in order to be effective and increase the sales conversion rate. The flexible settings of banners allow you to create marketing campaigns that are more creative, working your brand’s relationship with the public on an individual level.
 
-It is worth noting that these settings can be configured by terms as well as by filters used during the search. If a customer searches for “running shoes,” they can filter by different attributes (“size,” “type,” and “brand”) in the search results. When the “nike” filter is selected, if there is a banner of that brand in the store, it can be displayed to the customer (filter).
-
-Based upon the context captured by Intelligent Search, the system chooses the content, previously added, that is most relevant in that situation.
+It is worth noting that these settings can be configured by terms as well as by filters used during the search. Based upon the context captured by Intelligent Search, the system chooses the content, previously added, that is most relevant in that situation.
 
 For example, consider that the customer searches for "running shoes", and in the search results they can filter by several attributes ("size", "type" and "brand"). When selecting the “nike” filter, in case there is a campaign of this brand in the store, it can be displayed to the customer (filter). The customer can also be directed to a more specific promotion of Nike running shoes (term and filter), if you've created a campaign and linked it to the banner.
 
@@ -49,7 +47,7 @@ The page shows the following information:
 
 ## Creating a banner
 
-To add a new banner, click `New`. Learn more about all the information needed to create a Banner in [Configure Banners](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+To add a new banner, click `New`. Learn more about all the information needed to create a Banner in [Configure Banners](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
 
 ## Searching for banners
 

@@ -1,5 +1,5 @@
 ---
-title: 'Moeda incorreta em USD exibida em alguns locais'
+title: "Moeda incorreta em USD exibida em alguns locais"
 id: 3ESHpG4r40Ltyljn621zF2
 status: PUBLISHED
 createdAt: 2022-02-23T21:47:29.346Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: incorrect-usd-currency-displayed-in-some-locales
+slugEN: moeda-incorreta-em-usd-exibida-em-alguns-locais
 locale: pt
 kiStatus: Backlog
 internalReference: 414901
@@ -18,7 +18,9 @@ internalReference: 414901
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

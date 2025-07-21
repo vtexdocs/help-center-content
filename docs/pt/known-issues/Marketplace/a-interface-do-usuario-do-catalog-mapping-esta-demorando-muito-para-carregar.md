@@ -1,5 +1,5 @@
 ---
-title: 'A interface do usuário do Catalog Mapping está demorando muito para carregar.'
+title: "A interface do usuário do Catalog Mapping está demorando muito para carregar."
 id: 3k0hZEn51PUFUfw0fCs1VM
 status: PUBLISHED
 createdAt: 2023-05-10T16:40:05.978Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: catalog-mapping-ui-taking-too-much-time-to-load
+slugEN: a-interface-do-usuario-do-catalog-mapping-esta-demorando-muito-para-carregar
 locale: pt
 kiStatus: Backlog
 internalReference: 823218
@@ -18,7 +18,9 @@ internalReference: 823218
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o marketplace tem muitos vendedores e usa as planilhas de mapeamento para a maioria deles, a UI de mapeamento de catálogo pode ser muito pesada e, cada vez que o comerciante tenta acessá-la, leva muito tempo para carregar.

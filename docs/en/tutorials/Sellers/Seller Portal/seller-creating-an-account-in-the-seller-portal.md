@@ -15,7 +15,7 @@ legacySlug: seller-creating-an-account-in-the-seller-portal-beta
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-The Seller Portal is an edition of the VTEX platform that allows [sellers](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#selling-on-marketplaces) to connect and sell their products on marketplaces.
+The Seller Portal is an edition of the VTEX platform that allows [sellers](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#selling-on-marketplaces) to connect and sell their products on marketplaces.
 In the portal, sellers have access to all the essential features for operating ecommerce in large storefronts, providing increased visibility and sales conversion.
 
 The Seller Portal allows sellers to:
@@ -30,12 +30,14 @@ The Seller Portal allows sellers to:
 
 ## Creating an account in the Seller Portal
 
-The process of creating an account in the Seller Portal begins with an [invitation sent by the marketplace](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Once you receive the email invitation, there are two possible ways to create an account, which depend on whether your store is already hosted on VTEX or not. Follow the steps for the option that applies to your context:
+The process of creating an account in the Seller Portal begins with an [invitation sent by the marketplace](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Once you receive the email invitation, there are two possible ways to create an account, which depend on whether your store is already hosted on VTEX or not. Follow the steps for the option that applies to your context:
 
 - [Creating an account for VTEX sellers](#connecting-the-vtex-account-with-the-marketplace): store hosted on the VTEX platform.    
 - [Creating an account for external sellers](#creating-an-account-for-external-sellers): store hosted on another ecommerce platform, or not yet hosted on any platform.    
 
->ℹ️ The account creation link sent to the seller is valid for 7 days. Once the link is opened, the seller must complete the registration form within six hours, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again.
+<div class="alert alert-info">
+The account creation link sent to the seller is valid for 7 days. Once the link is opened, the seller must complete the registration form within six hours, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again.
+</div>
 
 ### Connecting the VTEX account with the marketplace
 
@@ -71,5 +73,5 @@ The **Seller Portal URL** provided is the link you will use to access your Selle
 
 ___________________
 
-Once you have completed these steps, you must [configure the Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) and wait for the[ marketplace to activate your store](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Once you have completed these steps, you must [configure the Seller Portal](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) and wait for the[ marketplace to activate your store](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 

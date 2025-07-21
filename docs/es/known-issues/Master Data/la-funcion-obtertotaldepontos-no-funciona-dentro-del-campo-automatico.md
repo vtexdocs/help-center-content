@@ -1,5 +1,5 @@
 ---
-title: "La función 'ObterTotalDePontos' no funciona dentro del Campo Automático"
+title: 'La función "ObterTotalDePontos" no funciona dentro del Campo Automático'
 id: 1iHy0tOPoUEIyGsYoq2Sqm
 status: PUBLISHED
 createdAt: 2018-12-10T18:08:19.476Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: obtertotaldepontos-function-does-not-work-inside-the-automatic-field
+slugEN: la-funcion-obtertotaldepontos-no-funciona-dentro-del-campo-automatico
 locale: es
 kiStatus: Backlog
 internalReference: 

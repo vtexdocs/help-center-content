@@ -1,27 +1,29 @@
 ---
-title: 'Filtra por especificações de SKU sem considerar a disponibilidade regionalizada'
+title: "Filtra por especificações de SKU sem considerar a disponibilidade regionalizada"
 id: 3CeTfHaNBfhrC5qIi3nTLh
 status: PUBLISHED
 createdAt: 2024-06-05T20:52:53.211Z
-updatedAt: 2024-06-05T20:52:54.055Z
-publishedAt: 2024-06-05T20:52:54.055Z
+updatedAt: 2025-03-31T21:40:45.796Z
+publishedAt: 2025-03-31T21:40:45.796Z
 firstPublishedAt: 2024-06-05T20:52:54.055Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: filters-by-sku-specifications-not-considering-regionalized-availability
+slugEN: filtra-por-especificacoes-de-sku-sem-considerar-a-disponibilidade-regionalizada
 locale: pt
-kiStatus: Backlog
+kiStatus: Scheduled
 internalReference: 1045111
 ---
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
-A filtragem da pesquisa por uma especificação de SKU também aplicará um filtro por disponibilidade de SKU, removendo os produtos em que a variação selecionada estiver em falta, mas isso não se aplica a lojas regionalizadas.
+A filtragem da pesquisa por uma especificação de SKU também aplicará um filtro por disponibilidade de SKU, removendo os produtos em que a variação selecionada estiver esgotada, mas isso não se aplica a lojas regionalizadas.
 
 As navegações regionalizadas podem retornar produtos em que a variação filtrada não está disponível porque a disponibilidade indexada para uma especificação de SKU é baseada em todos os vendedores regulares e de marca branca.
 

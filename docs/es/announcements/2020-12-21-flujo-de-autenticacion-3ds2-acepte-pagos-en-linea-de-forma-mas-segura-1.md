@@ -46,8 +46,8 @@ De este modo, cada banco emisor decide cuál verificación enviará al consumido
 
 El flujo 3DS2 estará inicialmente disponible para los conectores CieloV3, Adyen y Redsýs. Por lo tanto, corresponde a cada cliente VTEX contactar a ambas adquirentes para confirmar su habilitación.
 
-Además, el cliente debe [abrir un ticket para el soporte](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "abrir un ticket para el soporte") VTEX y solicitar la instalación de la función.  
+Además, el cliente debe [abrir un ticket para el soporte](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "abrir un ticket para el soporte") VTEX y solicitar la instalación de la función.  
 
 En el mismo ticket, también es necessario decir cuales los conectores y las cuentas que deben ser habilitadas para el flujo 3DS2.
 
-Para saber cómo habilitar el flujo con Adyen, lea este [artículo](https://help.vtex.com/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk?locale=es "artículo"). Para hacer el mismo proceso con CieloV3, consulte este [tutorial](https://help.vtex.com/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu "tutorial").
+Para saber cómo habilitar el flujo con Adyen, lea este [artículo](/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk?locale=es "artículo"). Para hacer el mismo proceso con CieloV3, consulte este [tutorial](/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu "tutorial").

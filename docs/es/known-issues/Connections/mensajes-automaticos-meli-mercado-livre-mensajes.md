@@ -1,5 +1,5 @@
 ---
-title: 'Mensajes automáticos MELI Mercado Livre - Mensajes'
+title: "Mensajes automáticos MELI Mercado Livre - Mensajes"
 id: 6WZy5RNesYJtJOaBAFnbkW
 status: PUBLISHED
 createdAt: 2023-05-04T11:22:21.762Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-automatic-messages-mercado-livre-messages
+slugEN: mensajes-automaticos-meli-mercado-livre-mensajes
 locale: es
 kiStatus: Backlog
 internalReference: 615164
@@ -18,7 +18,9 @@ internalReference: 615164
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

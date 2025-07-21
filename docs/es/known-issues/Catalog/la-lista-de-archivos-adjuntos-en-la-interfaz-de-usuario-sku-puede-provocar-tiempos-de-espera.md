@@ -1,5 +1,5 @@
 ---
-title: 'La lista de archivos adjuntos en la interfaz de usuario SKU puede provocar tiempos de espera.'
+title: "La lista de archivos adjuntos en la interfaz de usuario SKU puede provocar tiempos de espera."
 id: 4LGpbu237ZeEZxv5DEl8BR
 status: PUBLISHED
 createdAt: 2024-11-11T20:08:32.198Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: attachment-list-on-sku-ui-can-lead-to-timeouts
+slugEN: la-lista-de-archivos-adjuntos-en-la-interfaz-de-usuario-sku-puede-provocar-tiempos-de-espera
 locale: es
 kiStatus: Backlog
 internalReference: 1133468
@@ -18,7 +18,9 @@ internalReference: 1133468
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Actualmente, si un usuario registra muchos archivos adjuntos en la interfaz de usuario SKU, por ejemplo, más de 5000 archivos adjuntos, esto puede provocar que se agote el tiempo de espera al intentar guardar otros datos SKU en la interfaz de usuario skuform.aspx.

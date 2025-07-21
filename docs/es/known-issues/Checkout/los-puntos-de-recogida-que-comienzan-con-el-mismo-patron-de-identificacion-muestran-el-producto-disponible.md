@@ -1,5 +1,5 @@
 ---
-title: 'Los puntos de recogida que comienzan con el mismo patrón de identificación muestran el producto disponible'
+title: "Los puntos de recogida que comienzan con el mismo patrón de identificación muestran el producto disponible"
 id: 1iCnOFHyKNTLvY20VS58HP
 status: PUBLISHED
 createdAt: 2024-01-10T16:01:39.766Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-points-starting-with-the-same-id-pattern-show-product-available
+slugEN: los-puntos-de-recogida-que-comienzan-con-el-mismo-patron-de-identificacion-muestran-el-producto-disponible
 locale: es
 kiStatus: Backlog
 internalReference: 964036
@@ -18,7 +18,9 @@ internalReference: 964036
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando los dos puntos de recogida con IDs comienzan con el mismo patrón, la UI de caja los valida como la misma tienda, mostrando un producto disponible.

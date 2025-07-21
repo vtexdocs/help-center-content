@@ -19,7 +19,9 @@ El día 13/06/19, [anunciamos la descontinuación de las APIs de Feed V1 y V2](/
 
 __Cambiamos la fecha final de migración y las tiendas que aún no se adaptaron a la nueva versión tienen hasta el día 12/08 para adecuar su integración__. Después de esta fecha, no será más posible consumir datos de pedidos utilizando las versiones anteriores de esta API, impactando su proceso de entrega de pedidos.
 
->ℹ️ Las tiendas que ya estén usando la V3 de la API de Feed no necesitan realizar ninguna acción.
+<div class="alert alert-info">
+Las tiendas que ya estén usando la V3 de la API de Feed no necesitan realizar ninguna acción.
+</div>
 
 Es muy importante que esta migración se realice lo antes posible para que su operación no esté en riesgo. Siga las instrucciones a continuación y solicite al responsable por su integración que ejecute los cambios necesarios.
 

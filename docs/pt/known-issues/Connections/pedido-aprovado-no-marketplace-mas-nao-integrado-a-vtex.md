@@ -1,5 +1,5 @@
 ---
-title: 'Pedido aprovado no marketplace mas não integrado à VTEX'
+title: "Pedido aprovado no marketplace mas não integrado à VTEX"
 id: 4idGZH0WQ18GWjCOOo3xkq
 status: PUBLISHED
 createdAt: 2022-03-22T18:18:13.879Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: order-approved-in-the-marketplace-but-not-integrated-into-vtex
+slugEN: pedido-aprovado-no-marketplace-mas-nao-integrado-a-vtex
 locale: pt
 kiStatus: Backlog
 internalReference: 547809
@@ -18,7 +18,9 @@ internalReference: 547809
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

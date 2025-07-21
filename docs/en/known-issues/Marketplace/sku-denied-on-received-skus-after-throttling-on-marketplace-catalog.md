@@ -1,5 +1,5 @@
 ---
-title: 'Sku denied on Received Skus after throttling on marketplace catalog'
+title: "Sku denied on Received Skus after throttling on marketplace catalog"
 id: 4fleOaKNp6ALXdmZcAVCg0
 status: PUBLISHED
 createdAt: 2024-01-23T12:50:23.697Z

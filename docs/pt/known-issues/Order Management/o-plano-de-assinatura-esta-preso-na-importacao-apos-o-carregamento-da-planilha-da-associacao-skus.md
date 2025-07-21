@@ -1,5 +1,5 @@
 ---
-title: "O plano de assinatura está 'preso' na 'importação' após o carregamento da planilha da associação SKUs"
+title: 'O plano de assinatura está "preso" na "importação" após o carregamento da planilha da associação SKUs'
 id: 4BVj2X44OZMttG57vUryHb
 status: PUBLISHED
 createdAt: 2022-05-03T00:28:48.118Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet
+slugEN: o-plano-de-assinatura-esta-preso-na-importacao-apos-o-carregamento-da-planilha-da-associacao-skus
 locale: pt
 kiStatus: Fixed
 internalReference: 571080
@@ -18,7 +18,9 @@ internalReference: 571080
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -3,8 +3,8 @@ title: 'Navigation Data Pipeline '
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
-updatedAt: 2024-09-13T17:51:19.060Z
-publishedAt: 2024-09-13T17:51:19.060Z
+updatedAt: 2025-03-07T11:30:01.968Z
+publishedAt: 2025-03-07T11:30:01.968Z
 firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
@@ -18,7 +18,9 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 The navigation dataset operates with two main tables: `pageviews` and `sessions`. A `pageview` refers to each new page that a user accesses while browsing a store, while a `session` is the set of all pageviews made by a user in a single visit.
 Each `session` remains active until no new `pageviews` occur for a period of 30 minutes.
 
->⚠️ The navigation dataset does not capture all types of events that occur during browsing. For example, specific clicks, special events, and interactions with the mini cart are not recorded.
+<div class="alert alert-warning">
+The navigation dataset does not capture all types of events that occur during browsing. For example, specific clicks, special events, and interactions with the mini cart are not recorded.
+  </div>
 
 This section includes the following information:
 
@@ -33,14 +35,16 @@ This section includes the following information:
 | Characteristic | Description |
 |:---:|:---:|
 | Data source | The data in this set comes from a script that runs on the store frontend and logs user session information and activity. |
-| Availability | Navigation data can be accessed through the [Overview dashboard](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) in the VTEX Admin, with a focus on total sessions and the conversion funnel, or also through third-party tools such Google Analytics. |
+| Availability | Navigation data can be accessed through the [Overview dashboard](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) in the VTEX Admin, with a focus on total sessions and the conversion funnel, or also through third-party tools such Google Analytics. |
 | History | The data is retained for two years, starting 2022 for clients who already use the VTEX platform. |
 | Minimum update interval | One hour. |
 
->⚠️ Data Pipeline only provides data from sessions originating from VTEX storefront solutions: Legacy CMS, Store Framework, and FastStore. VTEX does not have access to sessions originating from third-party marketplaces or proprietary storefronts. Furthermore, storefront customizations   may interfere with or even disable the script, resulting in some sessions not being recorded, or in discrepancies in the conversion rate observed in the dashboard.
-> To minimize the impact on store performance, the script is configured to be the last element to load on the page. This means that very brief sessions may not be captured.
+<div class="alert alert-warning">
+  Data Pipeline only provides data from sessions originating from VTEX storefront solutions: Legacy CMS, Store Framework, and FastStore. VTEX does not have access to sessions originating from third-party marketplaces or proprietary storefronts. Furthermore, storefront customizations   may interfere with or even disable the script, resulting in some sessions not being recorded, or in discrepancies in the conversion rate observed in the dashboard.
+To minimize the impact on store performance, the script is configured to be the last element to load on the page. This means that very brief sessions may not be captured.
+</div>
 
-## Table: `sessions`
+## Table: sessions
 
 This table only contains closed sessions, whether due to inactivity or because a purchase was completed. It's sorted by `session_id`, `session_end_time`, and `store_name`. Avoid filtering large data ranges by columns that are not part of this sorting strategy. The table fields are described below:
 
@@ -70,12 +74,12 @@ This table only contains closed sessions, whether due to inactivity or because a
 | **user_id** | character varying(16383) | Unique identifier of the buyer, mapped by the VtexRCMacIdv7 cookie. |
 | **pageviews_count** | integer | Count of page views in this session. |
 | **views_home** | integer | Count of home page views in this session. |
-| **views_category** | integer | Count of [category](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) page views in this session. |
-| **views_department** | integer | Count of [department](https://help.vtex.com/en/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) page views in this session. |
+| **views_category** | integer | Count of [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) page views in this session. |
+| **views_department** | integer | Count of [department](/en/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) page views in this session. |
 | **views_search** | integer | Count of search page views in this session. |
 | **views_product** | integer | Count of product page views in this session. |
 | **views_checkout** | integer | Count of checkout page views in this session. |
-| **views_other** | integer | Count of views for pages [other](https://help.vtex.com/en/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw) than product, search, [category](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [department](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), or checkout in this session. |
+| **views_other** | integer | Count of views for pages [other](/en/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw) than product, search, [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [department](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), or checkout in this session. |
 | **views_checkout_cart** | integer | Count of checkout page views at the cart stage. |
 | **views_checkout_payment** | integer | Count of checkout page views at the payment stage. |
 | **views_checkout_shipping** | integer | Count of checkout page views at the shipping stage. |
@@ -94,7 +98,7 @@ This table only contains closed sessions, whether due to inactivity or because a
 | **exit_page_type** | character varying(16383) | Page type of the last view in this session. |
 | **exit_page_checkout_step** | character varying(16383) | Checkout stage of the last page view in this session.  |
 
-## Table: `pageviews`
+## Table: pageviews
 
 Each item in this table corresponds to a page viewed by the buyer, such as homepage, product page, and checkout stage.  
 A page view is counted after the buyer's browser loads the page. Each page has specific attributes, however, because this table brings everything together in a single schema, many null values will appear. For example, product page attributes are expected to be null when the page view corresponds to a shopping cart stage. The table fields are described below:  
@@ -197,10 +201,11 @@ VTEX navigation data has significant interactions with other datasets that enric
 
 ### Discover other Datasets
 
-- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
-- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
+- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

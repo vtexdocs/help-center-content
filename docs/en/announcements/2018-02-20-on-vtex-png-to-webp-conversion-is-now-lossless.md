@@ -19,6 +19,8 @@ VTEX stores already have automatic image compiling to __WebP__ format, as report
 
 The conversion of the image files only happens when your store is accessed by someone using a compatible browser (e.g. Gooogle Chrome). If they use a browser that doesn't read the format, the images won't be converted and will be displayed in their original formats. Notice that this automatic image compiling doesn't affect the file you uploaded in the CMS, only the way it's rendered on screen. 
 
->⚠️ **Lossless** compression is only available for **PNG** files. **JPG** files continue to be compressed through the **lossy** process (wich reduces the image size in order to increase loading speed).
+<div class="alert alert-warning">
+<strong>Lossless</strong> compression is only available for <strong>PNG</strong> files. <strong>JPG</strong> files continue to be compressed through the <strong>lossy</strong> process (wich reduces the image size in order to increase loading speed). 
+</div>
 
 This change was developed to meet the needs of users who really have to display high quality images on their stores, even after the conversion to the WebP format. In all other situations, using _.jpg_ files still is the best solution to keep your website's performance.

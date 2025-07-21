@@ -1,5 +1,5 @@
 ---
-title: 'Divergencia de inventario - La logística maneja el cero a la izquierda como otra SKU'
+title: "Divergencia de inventario - La logística maneja el cero a la izquierda como otra SKU"
 id: 3FKaDXw5pWVyUfwgKo6pfV
 status: PUBLISHED
 createdAt: 2022-05-18T15:19:00.037Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-divergence-logistics-handle-zero-on-left-as-another-sku
+slugEN: divergencia-de-inventario-la-logistica-maneja-el-cero-a-la-izquierda-como-otra-sku
 locale: es
 kiStatus: Fixed
 internalReference: 427610
@@ -18,7 +18,9 @@ internalReference: 427610
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

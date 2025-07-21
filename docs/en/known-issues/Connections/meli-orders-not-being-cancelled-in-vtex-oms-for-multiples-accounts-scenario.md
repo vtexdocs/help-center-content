@@ -1,5 +1,5 @@
 ---
-title: 'MELI Orders not being cancelled in VTEX OMS for multiples accounts scenario'
+title: "MELI Orders not being cancelled in VTEX OMS for multiples accounts scenario"
 id: 4u9ue93sHNWcfVm3sRL2qx
 status: PUBLISHED
 createdAt: 2024-02-06T11:04:52.918Z

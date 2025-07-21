@@ -1,5 +1,5 @@
 ---
-title: 'O desconto nominal não está sendo distribuído entre todos os itens do carrinho'
+title: "O desconto nominal não está sendo distribuído entre todos os itens do carrinho"
 id: gt1qMqN71YkaHuZgk9Ibs
 status: PUBLISHED
 createdAt: 2023-01-25T17:33:59.274Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: nominal-discount-is-not-being-distributed-among-all-items-in-the-cart
+slugEN: o-desconto-nominal-nao-esta-sendo-distribuido-entre-todos-os-itens-do-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 334130
@@ -18,7 +18,9 @@ internalReference: 334130
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Los cambios en las condiciones de pago no se aplican en la configuración del pago B2B'
+title: "Los cambios en las condiciones de pago no se aplican en la configuración del pago B2B"
 id: 12PfZx6O0MIUSIFdpQdUdI
 status: PUBLISHED
 createdAt: 2024-04-18T19:07:22.743Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: payment-terms-changes-not-applied-in-the-b2b-checkout-settings
+slugEN: los-cambios-en-las-condiciones-de-pago-no-se-aplican-en-la-configuracion-del-pago-b2b
 locale: es
 kiStatus: Fixed
 internalReference: 1019548
@@ -18,7 +18,9 @@ internalReference: 1019548
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La actualización de las condiciones de pago en la interfaz de usuario de detalles de la organización para una organización no se aplica a la configuración de pago B2B.

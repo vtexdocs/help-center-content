@@ -1,5 +1,5 @@
 ---
-title: 'Tamanho do atributo do Mercado Livre Mapper'
+title: "Tamanho do atributo do Mercado Livre Mapper"
 id: 3dLrm6SVsPB4tU46SC3Xdi
 status: PUBLISHED
 createdAt: 2022-07-26T19:53:34.899Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-mapper-attribute-size
+slugEN: tamanho-do-atributo-do-mercado-livre-mapper
 locale: pt
 kiStatus: No Fix
 internalReference: 592577
@@ -18,7 +18,9 @@ internalReference: 592577
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

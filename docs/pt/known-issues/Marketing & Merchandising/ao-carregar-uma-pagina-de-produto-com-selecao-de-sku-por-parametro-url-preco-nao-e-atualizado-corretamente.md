@@ -1,5 +1,5 @@
 ---
-title: 'Ao carregar uma página de produto com seleção de SKU por parâmetro (URL), preço não é atualizado corretamente'
+title: "Ao carregar uma página de produto com seleção de SKU por parâmetro (URL), preço não é atualizado corretamente"
 id: 4PAYx8WD2MIce8YMAaK2yk
 status: PUBLISHED
 createdAt: 2017-08-17T00:24:35.581Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: when-loading-a-product-page-with-a-selection-of-skus-by-parameter-url-the-price-is-not-correctly-updated
+slugEN: ao-carregar-uma-pagina-de-produto-com-selecao-de-sku-por-parametro-url-preco-nao-e-atualizado-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 

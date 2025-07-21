@@ -1,5 +1,5 @@
 ---
-title: 'As opções de assinatura de tradução não funcionam corretamente para alguns idiomas'
+title: "As opções de assinatura de tradução não funcionam corretamente para alguns idiomas"
 id: 6trVpxFrfpMIibospU2scp
 status: PUBLISHED
 createdAt: 2023-04-10T16:46:34.794Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: subscription-options-translations-dont-work-properly-for-some-languages
+slugEN: as-opcoes-de-assinatura-de-traducao-nao-funcionam-corretamente-para-alguns-idiomas
 locale: pt
 kiStatus: Backlog
 internalReference: 561186
@@ -18,7 +18,9 @@ internalReference: 561186
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, os períodos de assinatura estão errados na IU. Mas, se você olhar para o formulário de pedido, o período está mostrando corretamente.

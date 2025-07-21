@@ -1,5 +1,5 @@
 ---
-title: 'Final domain different from myvtex due to old component version on Site Editor'
+title: "Final domain different from myvtex due to old component version on Site Editor"
 id: 7bf2mMbpcxUd6Q32DYP6vz
 status: PUBLISHED
 createdAt: 2023-12-05T18:07:50.089Z

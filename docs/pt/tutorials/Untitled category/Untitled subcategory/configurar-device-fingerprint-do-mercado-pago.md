@@ -19,7 +19,9 @@ __Device Fingerprint__ é um identificador que atua no processamento de um pagam
 
 Por meio da coleta de dados não sensíveis, o Device Fingerprint identifica e analisa o nível de segurança do dispositivo utilizado para realizar a transação, bem como as transações que anteriormente foram realizadas com este mesmo dispositivo.
 
->ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+<div class="alert alert-info">
+Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
+</div>
 
 Neste artigo, explicaremos como associar o recurso Device Fingerprint à afiliação Mercado Pago.
 

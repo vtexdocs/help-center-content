@@ -1,5 +1,5 @@
 ---
-title: 'Serviço obrigatório funcionando como opcional'
+title: "Serviço obrigatório funcionando como opcional"
 id: 6bcdioCSYL7ZGoOy0nEtJC
 status: PUBLISHED
 createdAt: 2023-08-01T15:15:29.008Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: mandatory-service-working-as-optional
+slugEN: servico-obrigatorio-funcionando-como-opcional
 locale: pt
 kiStatus: Backlog
 internalReference: 872411
@@ -18,7 +18,9 @@ internalReference: 872411
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao criar um serviço, o comerciante pode escolher se será um campo obrigatório no checkout ou não.

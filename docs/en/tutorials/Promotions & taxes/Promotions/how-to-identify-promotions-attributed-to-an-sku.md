@@ -15,7 +15,9 @@ legacySlug: how-to-identify-promotions-attributed-to-an-sku
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
->⚠️ The steps described in this article use Google Chrome. Since this tool is not part of VTEX, it may be updated without notice.
+<div class="alert alert-warning" role="alert">
+<p>The steps described in this article use Google Chrome. Since this tool is not part of VTEX, it may be updated without notice.</p>
+</div>
 
 We have written this article in response to a frequent query from users of the VTEX platform: what is the reason for a promotion to be applied to an SKU when apparently it should not be?
 
@@ -31,6 +33,6 @@ To find out what promotions are being attributed to an SKU, we have to analyze i
 
 ## Learn more
 
-- [How promotions work](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-- [Identifying promotions applied to the cart](https://help.vtex.com/en/tutorial/how-to-identify-promotions-applied-to-the-cart--frequentlyAskedQuestions_345)
+- [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+- [Identifying promotions applied to the cart](/en/tutorial/how-to-identify-promotions-applied-to-the-cart--frequentlyAskedQuestions_345)
 

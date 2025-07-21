@@ -26,7 +26,7 @@ In other words, if there is no need to define a specific catalog or logistics ty
 
 ![carrefour.en3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/netshoes-integration-set-up/setting-up-a-marketplace-trade-policy_2.png)
 
-So before setting up a new sales policy in your store, make sure you need to do that. If the answer is yes, follow the guidelines in the article [How to hire a new sales policy](https://help.vtex.com/en/faq/how-to-configure-a-new-trade-policy--frequentlyAskedQuestions_700) before moving on to the next configuration step. If your sales policy already meets the conditions you need for integration with the marketplace, follow the instructions below.
+So before setting up a new sales policy in your store, make sure you need to do that. If the answer is yes, follow the guidelines in the article [How to hire a new sales policy](/en/faq/how-to-configure-a-new-trade-policy--frequentlyAskedQuestions_700) before moving on to the next configuration step. If your sales policy already meets the conditions you need for integration with the marketplace, follow the instructions below.
 
 
 ## Defining product catalog
@@ -39,7 +39,8 @@ In order to define the product catalog that will be sent to the marketplace, the
 4. Check the __Sales Policies__ flag for the chosen sales policies.
 5. Click __Save__.
 
->❗ VTEX does not recommend performing product catalog management for marketplace through collections. This mechanism brings many complexities in the organization. We recommend managing it through the Sales Policies flag instead.
+<div class="alert alert-danger"> VTEX does not recommend performing product catalog management for marketplace through collections. This mechanism brings many complexities in the organization. We recommend managing it through the Sales Policies flag instead.
+</div>
 
 ## Defining the logistics
 

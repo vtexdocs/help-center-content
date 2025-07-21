@@ -60,7 +60,9 @@ Si deseas comprar una aplicación para tu cuenta:
 3. Marca la opción **Acepto el medio de pago**, si estás de acuerdo con las condiciones.
 4. Haz clic en el botón **Obtener app**.
 
->⚠️ Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón **Obtener app**.
+<div class="alert alert-warning" role="alert">
+Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón <b>Obtener app</b>.
+</div>
 
 El costo de una aplicación puede ser:
 
@@ -68,4 +70,4 @@ El costo de una aplicación puede ser:
 - Un valor fijo mensual.
 - O presentar condiciones específicas,  que pueden incluir el número de mensajes SMS enviados o el tiempo de retransmisión en vivo, entre otros factores.
 
-Los costos se añadirán automáticamente a tu [factura VTEX](https://help.vtex.com/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) poco después de comprar la aplicación.
+Los costos se añadirán automáticamente a tu [factura VTEX](/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) poco después de comprar la aplicación.

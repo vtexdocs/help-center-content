@@ -1,5 +1,5 @@
 ---
-title: 'complementName in productContext is not translated'
+title: "complementName in productContext is not translated"
 id: 6Gol274XThpldM99pDuHAC
 status: PUBLISHED
 createdAt: 2024-09-10T18:15:06.126Z

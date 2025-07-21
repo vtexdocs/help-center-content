@@ -1,5 +1,5 @@
 ---
-title: 'La API del almacén demuestra la eliminación de puntos de recogida (almacén inStore)'
+title: "La API del almacén demuestra la eliminación de puntos de recogida (almacén inStore)"
 id: obATI7B4MgRb2lNExdXcV
 status: PUBLISHED
 createdAt: 2022-05-10T20:45:27.127Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: warehouse-api-demonstrates-pickup-point-deleted-instore-warehouse
+slugEN: la-api-del-almacen-demuestra-la-eliminacion-de-puntos-de-recogida-almacen-instore
 locale: es
 kiStatus: Fixed
 internalReference: 573017
@@ -18,7 +18,9 @@ internalReference: 573017
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se elimina un punto de recogida que está vinculado a un almacén (almacén inStore), el punto de recogida sigue vinculado al almacén si se consulta a través de la API.

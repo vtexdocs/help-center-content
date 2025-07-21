@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistencia en la fecha de e-mails transaccionales de pedidos cerrados después de la medianoche'
+title: "Inconsistencia en la fecha de e-mails transaccionales de pedidos cerrados después de la medianoche"
 id: 3D3FSEGDPykoUosW4wcwQS
 status: PUBLISHED
 createdAt: 2018-04-24T20:17:05.814Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: authors_41
 tag: Checkout,Message Center,Order Management
-slugEN: inconsistency-in-transactional-email-date-of-orders-closed-after-midnight
+slugEN: inconsistencia-en-la-fecha-de-emails-transaccionales-de-pedidos-cerrados-despues-de-la-medianoche
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -1,5 +1,5 @@
 ---
-title: 'Função somente de visualização de cartão-presente não disponível'
+title: "Função somente de visualização de cartão-presente não disponível"
 id: l5ucYxnwN7ahSEpOyv8US
 status: PUBLISHED
 createdAt: 2024-08-02T12:42:45.811Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: gift-card-view-only-role-not-available
+slugEN: funcao-somente-de-visualizacao-de-cartaopresente-nao-disponivel
 locale: pt
 kiStatus: Backlog
 internalReference: 1074878
@@ -18,7 +18,9 @@ internalReference: 1074878
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Embora tenhamos os recursos "Visualizador de cartão-presente" e "Exibir cartões-presente" no produto "GiftCard" (Configurações da conta > Funções do usuário), ambos permitem que os usuários criem e editem cartões-presente.

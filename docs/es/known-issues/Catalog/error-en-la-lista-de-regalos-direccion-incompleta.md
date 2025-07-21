@@ -1,5 +1,5 @@
 ---
-title: 'Error en la lista de regalos - Dirección incompleta'
+title: "Error en la lista de regalos - Dirección incompleta"
 id: 4iwradK1HCvDdbqd3tvn4N
 status: PUBLISHED
 createdAt: 2022-01-23T02:50:33.725Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: gift-list-error-incomplete-address
+slugEN: error-en-la-lista-de-regalos-direccion-incompleta
 locale: es
 kiStatus: Backlog
 internalReference: 313576
@@ -18,7 +18,9 @@ internalReference: 313576
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Algunas listas de regalos se muestran en rojo con el mensaje "dirección incompleta". Al hacer clic en la URL de la lista de regalos la redirigen al siguiente mensaje de error: `.myvtex.com/giftlist?GiftListAddressFail_ID`

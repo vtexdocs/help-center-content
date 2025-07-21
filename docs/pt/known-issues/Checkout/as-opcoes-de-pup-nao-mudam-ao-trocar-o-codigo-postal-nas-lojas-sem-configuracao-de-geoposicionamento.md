@@ -1,5 +1,5 @@
 ---
-title: 'As opções de PUP não mudam ao trocar o código postal nas lojas sem configuração de geoposicionamento'
+title: "As opções de PUP não mudam ao trocar o código postal nas lojas sem configuração de geoposicionamento"
 id: 6adZlmhb88zZsqifmWubO1
 status: PUBLISHED
 createdAt: 2022-08-30T20:06:15.411Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pup-options-do-not-change-when-changing-postal-code-in-stores-without-geopositioning-setup
+slugEN: as-opcoes-de-pup-nao-mudam-ao-trocar-o-codigo-postal-nas-lojas-sem-configuracao-de-geoposicionamento
 locale: pt
 kiStatus: Fixed
 internalReference: 648604
@@ -18,7 +18,9 @@ internalReference: 648604
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

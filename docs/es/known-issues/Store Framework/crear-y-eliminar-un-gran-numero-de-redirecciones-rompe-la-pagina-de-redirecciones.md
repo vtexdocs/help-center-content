@@ -1,5 +1,5 @@
 ---
-title: 'Crear y eliminar un gran número de redirecciones rompe la página de redirecciones.'
+title: "Crear y eliminar un gran número de redirecciones rompe la página de redirecciones."
 id: 5uFuid4a5f7uiRVW9LdT5Q
 status: PUBLISHED
 createdAt: 2024-04-02T19:45:07.540Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: creating-and-deleting-a-large-number-of-redirects-breaks-the-redirects-page
+slugEN: crear-y-eliminar-un-gran-numero-de-redirecciones-rompe-la-pagina-de-redirecciones
 locale: es
 kiStatus: Backlog
 internalReference: 1010392
@@ -18,7 +18,9 @@ internalReference: 1010392
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Tratar con una cantidad masiva de redirecciones puede romper la página de la interfaz de usuario. Si tiene muchas redirecciones o necesita borrar una gran cantidad de redirecciones esto puede llevar a un error en el que la página de la interfaz de usuario se carga para siempre y nunca devuelve la información de las redirecciones. Creemos que esto puede ocurrir porque cuando borramos una gran cantidad de redirecciones las primeras páginas de la consulta `listRedirects` están en blanco y la interfaz de usuario buscará estas primeras páginas para cargar las primeras redirecciones y nunca las encontrará.

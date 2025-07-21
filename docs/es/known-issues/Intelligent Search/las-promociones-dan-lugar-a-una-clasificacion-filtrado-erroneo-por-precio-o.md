@@ -1,5 +1,5 @@
 ---
-title: 'Las promociones dan lugar a una clasificación/filtrado erróneo por precio o descuento'
+title: "Las promociones dan lugar a una clasificación/filtrado erróneo por precio o descuento"
 id: 1qGJByINC3S7ibgiQccVcY
 status: PUBLISHED
 createdAt: 2023-08-28T17:51:44.627Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
-slugEN: promotions-resulting-in-wrong-sorting-filtering-by-price-or-discount
+slugEN: las-promociones-dan-lugar-a-una-clasificacion-filtrado-erroneo-por-precio-o
 locale: es
 kiStatus: Backlog
 internalReference: 888304
@@ -18,7 +18,9 @@ internalReference: 888304
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Las listas de productos y los resultados de búsqueda pueden estar mal ordenados/filtrados al utilizar la ordenación o el filtrado por precio o descuento si hay precios de artículos obsoletos a nivel de índice, incluso si el escaparate muestra el precio correcto.
 

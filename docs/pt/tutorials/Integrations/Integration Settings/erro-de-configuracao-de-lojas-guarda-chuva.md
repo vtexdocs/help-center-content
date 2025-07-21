@@ -15,9 +15,11 @@ legacySlug: erro-de-configuracao-de-lojas-guarda-chuva
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->ℹ️ Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
+<div class="alert alert-info">
+Caso você possua lojas oficiais no Mercado Livre, essa documentação pode ser relevante. O Mercado Livre possui parâmetros próprios para certificar sellers para serem lojas oficiais. Para mais informações, entre em contato com o seu consultor do Mercado Livre.
+</div>
 
-Chamamos de lojas guarda chuva as contas no [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) que possuem múltiplas [lojas oficiais](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) vinculadas ao mesmo usuário no Mercado Livre. A arquitetura funciona da seguinte forma: o [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra suas [subaccounts](https://help.vtex.com/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) com o Mercado Livre de forma que as lojas oficiais do usuário do Mercado Livre ficam vinculadas às subaccounts do seller.
+Chamamos de lojas guarda chuva as contas no [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) que possuem múltiplas [lojas oficiais](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) vinculadas ao mesmo usuário no Mercado Livre. A arquitetura funciona da seguinte forma: o [seller](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra suas [subaccounts](/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) com o Mercado Livre de forma que as lojas oficiais do usuário do Mercado Livre ficam vinculadas às subaccounts do seller.
 
 Porém essa arquitetura, envolvendo subaccounts e as lojas criadas no Mercado Livre podem gerar um erro na importação de produtos da integração. Nesse artigo iremos orientar os usuários para solucionar esse problema na importação de produtos que ocorre na integração do Mercado Livre em determinadas configurações de sellers e subaccounts.
 

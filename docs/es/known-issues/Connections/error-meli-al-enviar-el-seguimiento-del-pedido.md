@@ -1,5 +1,5 @@
 ---
-title: 'Error MELI al enviar el seguimiento del pedido'
+title: "Error MELI al enviar el seguimiento del pedido"
 id: 4wdzb5xjelAkFnbuRCFXAt
 status: PUBLISHED
 createdAt: 2023-03-06T10:06:58.255Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: meli-error-while-sending-the-order-tracking
+slugEN: error-meli-al-enviar-el-seguimiento-del-pedido
 locale: es
 kiStatus: Fixed
 internalReference: 764885
@@ -18,7 +18,9 @@ internalReference: 764885
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Checkout UI sends hyphen in the postal code to orderForm'
+title: "Checkout UI sends hyphen in the postal code to orderForm"
 id: 3cqrBqq5x8nixjAFt8BxCx
 status: PUBLISHED
 createdAt: 2024-01-16T12:37:56.497Z

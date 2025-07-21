@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search word analyzer not normalizing gender in Portuguese words'
+title: "Intelligent Search word analyzer not normalizing gender in Portuguese words"
 id: 2oVUQnXZK6FNXg7co88C1B
 status: PUBLISHED
 createdAt: 2024-07-26T22:55:32.746Z

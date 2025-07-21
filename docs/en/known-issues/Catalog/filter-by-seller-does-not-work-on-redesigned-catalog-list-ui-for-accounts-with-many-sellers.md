@@ -1,5 +1,5 @@
 ---
-title: 'Filter by seller does not work on redesigned catalog list UI for accounts with many sellers'
+title: "Filter by seller does not work on redesigned catalog list UI for accounts with many sellers"
 id: CmbTPwIG607eKi7DchCHw
 status: PUBLISHED
 createdAt: 2024-08-02T16:50:48.989Z

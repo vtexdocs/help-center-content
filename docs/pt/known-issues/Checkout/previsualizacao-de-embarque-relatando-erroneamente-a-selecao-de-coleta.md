@@ -1,5 +1,5 @@
 ---
-title: 'Pré-visualização de embarque relatando erroneamente a seleção de coleta'
+title: "Pré-visualização de embarque relatando erroneamente a seleção de coleta"
 id: 1KfCAK44prpDXLKUSVmm7O
 status: PUBLISHED
 createdAt: 2022-03-30T17:47:49.278Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: shipping-preview-wrongly-reporting-pickup-selection
+slugEN: previsualizacao-de-embarque-relatando-erroneamente-a-selecao-de-coleta
 locale: pt
 kiStatus: Backlog
 internalReference: 552912
@@ -18,7 +18,9 @@ internalReference: 552912
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 No carrinho, ao informar sua localização, a visualização da remessa informa erroneamente qual pickup foi selecionado para esta pickup. Quando de fato, duas opções de coleta devem ser exibidas (houve uma quebra de pacote neste exemplo). E ao chegar na caixa, a informação é fornecida corretamente, com as retiradas nas respectivas pick-ups corretas.

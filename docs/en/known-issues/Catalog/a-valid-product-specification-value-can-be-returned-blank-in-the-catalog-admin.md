@@ -1,5 +1,5 @@
 ---
-title: 'A valid product specification value can be returned blank in the catalog admin'
+title: "A valid product specification value can be returned blank in the catalog admin"
 id: 46IZtoT2nSKE71g2Tj0m8y
 status: PUBLISHED
 createdAt: 2024-01-16T00:28:14.900Z

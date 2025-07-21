@@ -48,6 +48,6 @@ Só é necessário fazer essa configuração caso você deseje receber a chave d
 
 Aqui você deve configurar o aplicativo que fornecerá a chave de autenticação.
 
-Veja em detalhes como configurar o aplicativo no artigo [Habilitar login por autenticação de 2 fatores](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
+Veja em detalhes como configurar o aplicativo no artigo [Habilitar login por autenticação de 2 fatores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
 
 ![Configuração Verificação em 2 passos User Management PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/configurar-dados-pessoais-na-tela-de-usuario_6.png)

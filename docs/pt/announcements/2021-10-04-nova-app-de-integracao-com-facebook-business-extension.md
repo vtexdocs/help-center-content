@@ -17,13 +17,13 @@ announcementSynopsisPT: 'A VTEX desenvolveu uma nova app para você integrar com
 
 O Facebook te permite anunciar seus produtos e ter uma presença estratégica em redes sociais como o próprio Facebook e o Instagram, garantindo mais visibilidade para sua marca. Existe agora uma plataforma do facebook que integra serviços e novas funcionalidades para empresas, o Facebook Business Extension (FBE).
 
-A VTEX desenvolveu a app _Facebook Business Extension e Conversions API_ para que a integração de lojas VTEX com o FBE seja um processo simples. A integração garante a instalação automática de algumas das principais _features_ do Facebook, tais como a [API de Conversões](https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversoes) e o [Pixel do Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-do-facebook).
+A VTEX desenvolveu a app _Facebook Business Extension e Conversions API_ para que a integração de lojas VTEX com o FBE seja um processo simples. A integração garante a instalação automática de algumas das principais _features_ do Facebook, tais como a [API de Conversões](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversoes) e o [Pixel do Facebook](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-do-facebook).
 
 A app _Facebook Business Extension e Conversions API_ está disponível globalmente, para todas as lojas que queiram integrar com o FBE.
 
 ## O que mudou?
 
-A VTEX possuía uma solução nativa de [Integração com o Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), que permitia integrar seu catálogo e disponibilizar seus produtos para serviços e funcionalidades do Facebook. 
+A VTEX possuía uma solução nativa de [Integração com o Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), que permitia integrar seu catálogo e disponibilizar seus produtos para serviços e funcionalidades do Facebook. 
 
 A nova integração com o Facebook Business Extension, além de possuir essa mesma capacidade, oferece novas _features_ e serviços, de forma mais simples e completa. 
 
@@ -31,8 +31,8 @@ Ao integrar com a app _Facebook Business Extension e Conversions API_, em uma ú
 
 Além disso, a integração com a app _Facebook Business Extension e Conversions API_ configura automaticamente as seguintes funcionalidades:
 
-- [API de Conversões](https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversoes)
-- [Pixel do Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-do-facebook)
+- [API de Conversões](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversoes)
+- [Pixel do Facebook](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-do-facebook)
 - [Catálogo](https://developers.facebook.com/docs/marketing-api/catalog?locale=pt_BR)
 - Botão 'Compre Agora' do Facebook
 - Botão 'Compre Agora' do Instagram
@@ -60,8 +60,10 @@ As funcionalidades instaladas automaticamente com a integração com a app tamb�
 
 ## O que precisa ser feito?
 
-Para integrar sua loja VTEX ao FBE, basta seguir os passos do [guia de Integração com o Facebook Business Extension](https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
+Para integrar sua loja VTEX ao FBE, basta seguir os passos do [guia de Integração com o Facebook Business Extension](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
 
->⚠️ Mesmo que você já tenha configurado a [Integração com o Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), a recomendação é que você realize a Integração com a app <i>Facebook Business Extension e Conversions API</i>. Isso vai permitir que você disponha de serviços aprimorados e novas funcionalidades.
+<div class="alert alert-warning">
+Mesmo que você já tenha configurado a <a href="https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integração com o Facebook</a>, a recomendação é que você realize a Integração com a app <i>Facebook Business Extension e Conversions API</i>. Isso vai permitir que você disponha de serviços aprimorados e novas funcionalidades. 
+</div>
 
 Vale ressaltar que não há interferência entre as duas integrações. Uma vez concluída a integração com a app _Facebook Business Extension e Conversions API_, sua loja passará a acessar todos os serviços disponibilizados pelo Facebook Business Extension.

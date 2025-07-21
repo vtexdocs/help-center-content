@@ -15,11 +15,15 @@ legacySlug: trocar-seller-de-um-pedido-do-instore-beta
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+<div class ="alert alert-info">
+<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>
 
 Durante o processamento de um pedido no VTEX Sales App, é possível que ele seja recusado por motivos diversos, como falta de estoque de um produto no seller que atenderia o pedido. Como solução para este problema, o sistema pode escolher um seller que apresenta estoque disponível dos itens do pedido.
 
->⚠️ Um pedido recusado no VTEX Sales App não significa que ele foi cancelado. O status recusado indica apenas que o seller indicado não será capaz de finalizar o pedido.
+<div class ="alert alert-warning">
+<p>Um pedido recusado no VTEX Sales App não significa que ele foi cancelado. O status recusado indica apenas que o seller indicado não será capaz de finalizar o pedido.</p>
+</div>
 
 Existem duas possibilidades de troca de seller:
 
@@ -53,5 +57,7 @@ Para trocar manualmente o seller de um pedido no VTEX Sales App, siga os passos 
 6. Confira as informações da troca de seller e clique em `Confirmar` para finalizar.
 ![trocar seller 2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_4.png)
 
->ℹ️ O cliente só será notificado da troca de seller por email caso o prazo de entrega seja diferente do que o original.
+<div class ="alert alert-info">
+<p>O cliente só será notificado da troca de seller por email caso o prazo de entrega seja diferente do que o original.</p>
+</div>
 

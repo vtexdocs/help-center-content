@@ -1,5 +1,5 @@
 ---
-title: 'Emails with sales roles are not allowed to impersonate using the B2B Organizations feature'
+title: "Emails with sales roles are not allowed to impersonate using the B2B Organizations feature"
 id: 4HKDawkaTmzWcTZyrIhhuj
 status: PUBLISHED
 createdAt: 2023-09-29T18:15:08.398Z

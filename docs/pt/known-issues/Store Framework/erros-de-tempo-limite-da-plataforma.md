@@ -1,5 +1,5 @@
 ---
-title: 'Erros de tempo limite da plataforma'
+title: "Erros de tempo limite da plataforma"
 id: 6Kp2viMZSnmGucJnciDNKx
 status: PUBLISHED
 createdAt: 2024-06-17T18:07:48.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: platform-timeout-errors
+slugEN: erros-de-tempo-limite-da-plataforma
 locale: pt
 kiStatus: Backlog
 internalReference: 1051070
@@ -18,7 +18,9 @@ internalReference: 1051070
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O aplicativo de mensagens recebe aleatoriamente um erro de tempo limite, e algumas páginas podem precisar ser atualizadas para funcionar corretamente. Isso está relacionado às páginas de administração, mas qualquer outra página da plataforma também pode receber esse erro.

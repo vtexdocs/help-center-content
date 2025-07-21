@@ -45,9 +45,11 @@ Las demás páginas del Admin serán rediseñadas a lo largo de 2022.
 
 ### Cambios en el menú de navegación
 
-No se ha eliminado ninguna página del Admin VTEX, pero sí hemos reorganizado el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](https://help.vtex.com/es/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
+No se ha eliminado ninguna página del Admin VTEX, pero sí hemos reorganizado el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k#Enhanced%20Navigation).
 
->ℹ️ Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de nuestra edición estándar del Admin VTEX se pueden encontrar al acceder a Apps > Apps instaladas.
+<div class="alert alert-info">
+Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de nuestra edición estándar del Admin VTEX se pueden encontrar al acceder a Apps > Apps instaladas.  
+</div>
 
 Además de reorganizar el orden de las páginas, también hemos cambiado algunas de las etiquetas en el menú de navegación para que sean más uniformes y estén alineadas con las funcionalidades VTEX. Las tablas a continuación muestran los cambios de los nombres de secciones y páginas.
 
@@ -75,10 +77,10 @@ Además de reorganizar el orden de las páginas, también hemos cambiado algunas
 
 ## ¿Por qué realizamos este cambio?
 
-Nuestro objetivo es aportar coherencia a tu experiencia, reduciendo la complejidad innecesari. Para lograrlo, estamos rediseñando varias partes de la experiencia e implementando cambios estructurales en la forma en que experimentas el Admin VTEX. La [nueva página de inicio](https://help.vtex.com/es/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy) también se ha rediseñado para que actúe como un panel de control para toda tu operación comercial, con datos procesables que te ayuden a tomar decisiones.
+Nuestro objetivo es aportar coherencia a tu experiencia, reduciendo la complejidad innecesari. Para lograrlo, estamos rediseñando varias partes de la experiencia e implementando cambios estructurales en la forma en que experimentas el Admin VTEX. La [nueva página de inicio](/es/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy) también se ha rediseñado para que actúe como un panel de control para toda tu operación comercial, con datos procesables que te ayuden a tomar decisiones.
 
 ## ¿Qué se necesita hacer?
 
 Si deseas participar en este programa Beta, haz clic [aquí](https://content.vtex.com/join-new-admin-beta-program-es/). El equipo de VTEX se pondrá en contacto y, una vez que te hayas unido a nuestro programa Beta, actualizaremos a todos los usuarios de la cuenta de tu tienda a la nueva experiencia. No se requiere ninguna configuración adicional.
 
-Para ayudarte a navegar por la nueva experiencia, hemos creado un [nuevo Help Center](https://help.vtex.com/es/v4) dedicado a la experiencia rediseñada, donde podrás acceder a [artículos de ayuda sobre las nuevas páginas](https://help.vtex.com/es/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k) y estar al tanto de los lanzamientos mientras rediseñamos toda la plataforma.
+Para ayudarte a navegar por la nueva experiencia, hemos creado un [nuevo Help Center](/es/v4) dedicado a la experiencia rediseñada, donde podrás acceder a [artículos de ayuda sobre las nuevas páginas](/es/v4/docs/admin-v4-start-here--3hVvfesyGq1RXkfzzh8o4k) y estar al tanto de los lanzamientos mientras rediseñamos toda la plataforma.

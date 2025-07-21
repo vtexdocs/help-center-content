@@ -1,5 +1,5 @@
 ---
-title: 'O checkout não mostra opção para mudar o código postal'
+title: "O checkout não mostra opção para mudar o código postal"
 id: 23xS5PVwwuDm5NhSZN65sU
 status: PUBLISHED
 createdAt: 2022-04-18T14:04:04.407Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-does-not-show-option-to-change-zip-code
+slugEN: o-checkout-nao-mostra-opcao-para-mudar-o-codigo-postal
 locale: pt
 kiStatus: Fixed
 internalReference: 321598
@@ -18,7 +18,9 @@ internalReference: 321598
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Para itens que estão restritos à coleta na loja para determinados endereços, a opção de alterar o código postal está desaparecendo enquanto o usuário estiver na guia de entrega, no carrinho .

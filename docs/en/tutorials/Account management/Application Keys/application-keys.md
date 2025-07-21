@@ -29,11 +29,13 @@ Internal application keys are credentials generated in and managed by your VTEX 
 
 ### External app keys
 
-External application keys are credentials generated in and managed by other VTEX accounts. By adding [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to application keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.
+External application keys are credentials generated in and managed by other VTEX accounts. By adding [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to application keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.
 
 ## Managing application keys
 
->⚠️ A [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) with the **Save User** [resource](https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) is required to manage users and application keys. The default role for this purpose is [User Administrator - RESTRICTED](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted), but it is also possible to [create a custom role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) with this resource.
+<div class="alert alert-warning">
+  <p>A <a href="https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">role</a> with the <strong>Save User</strong> <a href="https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">resource</a> is required to manage users and application keys. The default role for this purpose is <a href="https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a>, but it is also possible to <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role">create a custom role</a> with this resource.</p>
+</div>
 
 On the **Application Keys** page, you can manage the [internal](#internal-app-keys) and [external](#external-app-keys) app keys that have access to your account, including:
 
@@ -45,11 +47,13 @@ On the **Application Keys** page, you can manage the [internal](#internal-app-ke
 
 To view this page, at the top bar of the VTEX Admin, click your **profile avatar** — indicated by the first letter of your email — and then click **Account settings** > **Application Keys**.
 
->ℹ️ Learn more about [best practices for using application keys](https://help.vtex.com/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
+<div class = "alert alert-info">
+<p>Learn more about <a href="https://help.vtex.com/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">best practices for using application keys</a>.</p>
+</div>
 
 ## Generating internal application keys
 
-As application keys allow external systems to access your account, they can only be created by users who have the `License Manager / Services access control / Save user` feature in their [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+As application keys allow external systems to access your account, they can only be created by users who have the `License Manager / Services access control / Save user` feature in their [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
 
 To create internal app keys in your account, follow the steps below:
 
@@ -72,7 +76,9 @@ To create internal app keys in your account, follow the steps below:
 6. Click the `Generate` button.
 7. Click <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> to copy the **Application token**. _This secret will only be displayed once. Save it in a safe place._
 
->⚠️ Secure your application keys and token pairs as you would with other credentials, such as usernames and passwords. If you suspect an application key is compromised, immediately deactivate the key in your account. To learn more, read the [Activating or deactivating application keys](#activating-or-deactivating-application-keys) section of this article.
+<div class="alert alert-warning">
+  <p>Secure your application keys and token pairs as you would with other credentials, such as usernames and passwords. If you suspect an application key is compromised, immediately deactivate the key in your account. To learn more, read the <a href="#activating-or-deactivating-application-keys">Activating or deactivating application keys</a> section of this article.</p>
+</div>
 
 ## Adding external application keys
 
@@ -86,9 +92,11 @@ To add third-party application keys, follow the steps below:
 
 ## Managing application key permissions
 
-For an application key to successfully make API requests to your account, it must both be active and have [roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) specifying the account resources it is allowed to access.
+For an application key to successfully make API requests to your account, it must both be active and have [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) specifying the account resources it is allowed to access.
 
->❗ Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
+<div class="alert alert-danger">
+<p>Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.</p>
+</div>
 
 Application keys are created, by default, with no permission to access any account resources.
 
@@ -106,7 +114,7 @@ When editing an application key, you can:
 
 Once you have added roles to an application key, it will be displayed on the **Application Keys** page.
 
-![Application Keys](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/4ca25e35b379a4a71370c1e07221cf1a/appkeys-en.png)
+![Application Keys](https://images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/4ca25e35b379a4a71370c1e07221cf1a/appkeys-en.png)
 
 These are the visible fields on the **Application Keys** page:
 
@@ -114,13 +122,17 @@ These are the visible fields on the **Application Keys** page:
 - **Account:** VTEX account managing the app key.
 - **Status:** Current status of the app key, which can be active or inactive.
 
->ℹ️ Note that the **Label** field is not displayed on the **Application Keys**page. To see a description of the purpose of an internal app key, you will have to use the**Key** value to find it on the **My Keys** page. It is not possible to add labels to external app keys.
+<div class="alert alert-info">
+  <p>Note that the <strong>Label</strong> field is not displayed on the <strong>Application Keys</strong>page. To see a description of the purpose of an internal app key, you will have to use the<strong>Key</strong> value to find it on the <strong>My Keys</strong> page. It is not possible to add labels to external app keys.</p>
+</div>
 
 ## Activating or deactivating application keys
 
 If an application key that has access to your account is compromised, you should immediately revoke its access to your account. If you make a mistake, you can reactivate it to reestablish the impacted integration. This can be done in various ways depending on the [type of application key](#types-of-application-keys).
 
->⚠️ You should only reactivate an app key if you are certain it has not been compromised. Anyone with the associated app token will regain privileged access to your account.
+<div class="alert alert-warning">
+  <p>You should only reactivate an app key if you are certain it has not been compromised. Anyone with the associated app token will regain privileged access to your account.</p>
+</div>
 
 ### Deactivating internal application keys
 

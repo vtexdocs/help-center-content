@@ -1,5 +1,5 @@
 ---
-title: 'Itens com Assembly options aparecem como indisponíveis para entrega'
+title: "Itens com Assembly options aparecem como indisponíveis para entrega"
 id: uDN6ZTQgbLlZul7eLP5SQ
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:20.031Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: items-with-assembly-options-are-shown-as-unavailable-for-delivery
+slugEN: itens-com-assembly-options-aparecem-como-indisponiveis-para-entrega
 locale: pt
 kiStatus: Backlog
 internalReference: 

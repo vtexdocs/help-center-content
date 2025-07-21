@@ -1,5 +1,5 @@
 ---
-title: 'La interfaz de usuario muestra puntos de recogida duplicados cuando un artículo para entrega se encuentra entre artículos para recogida.'
+title: "La interfaz de usuario muestra puntos de recogida duplicados cuando un artículo para entrega se encuentra entre artículos para recogida."
 id: lIP6kRDsi23lNQd7RzNfY
 status: PUBLISHED
 createdAt: 2023-09-25T13:50:27.481Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: ui-shows-duplicated-pickup-points-when-an-item-for-delivery-is-between-items-for-pickup
+slugEN: la-interfaz-de-usuario-muestra-puntos-de-recogida-duplicados-cuando-un-articulo-para-entrega-se-encuentra-entre-articulos-para-recogida
 locale: es
 kiStatus: Backlog
 internalReference: 906549
@@ -18,7 +18,9 @@ internalReference: 906549
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En un carro con al menos tres productos, donde los pedidos de artículos son: 1º es para recogida, 2º es para entrega y 3º es para recogida, la IU mostrará el punto de recogida duplicado. Esto sucede porque la API agrupará el 1er artículo y el 3er artículo ya que es el mismo SLA.

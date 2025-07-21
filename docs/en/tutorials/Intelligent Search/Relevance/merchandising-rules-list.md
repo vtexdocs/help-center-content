@@ -41,7 +41,7 @@ To add a new merchandising rule, click `+ New`. Learn more about all the informa
 
 ### Types of editing
 
-There are two types of editor to create or modify Merchandising rules: the [Manual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
+There are two types of editor to create or modify Merchandising rules: the [Manual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
 
 Below are the features of each editor:
 

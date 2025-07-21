@@ -1,5 +1,5 @@
 ---
-title: 'Códigos Postales con nombre de distrito sin la ciudad respectiva'
+title: "Códigos Postales con nombre de distrito sin la ciudad respectiva"
 id: 1DrAs9AqCoakeaWoAKSYkm
 status: PUBLISHED
 createdAt: 2017-04-05T21:12:36.398Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: postal-codes-with-district-name-without-city
+slugEN: codigos-postales-con-nombre-de-distrito-sin-la-ciudad-respectiva
 locale: es
 kiStatus: Backlog
 internalReference: 

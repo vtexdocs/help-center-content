@@ -1,5 +1,5 @@
 ---
-title: 'Master Data não reflete devidamente as UTMs customizadas do trigger'
+title: "Master Data não reflete devidamente as UTMs customizadas do trigger"
 id: 5IUv6xx8MpUBMxJaUDUzN7
 status: PUBLISHED
 createdAt: 2019-06-10T22:34:10.000Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
-slugEN: master-data-trigger-custom-utms-do-not-reflect-accordingly
+slugEN: master-data-nao-reflete-devidamente-as-utms-customizadas-do-trigger
 locale: pt
 kiStatus: Backlog
 internalReference: 

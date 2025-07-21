@@ -1,5 +1,5 @@
 ---
-title: '[Facebook] [Review skus load route behavior on facebook]'
+title: "[Facebook] [Review skus load route behavior on facebook]"
 id: 1gd1djMnaXxFw8l2ZsKZFn
 status: PUBLISHED
 createdAt: 2023-03-30T11:38:17.727Z

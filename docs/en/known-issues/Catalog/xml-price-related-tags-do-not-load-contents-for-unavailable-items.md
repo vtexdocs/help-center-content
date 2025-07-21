@@ -1,5 +1,5 @@
 ---
-title: 'XML <price> related tags do not load contents for unavailable items'
+title: "XML <price> related tags do not load contents for unavailable items"
 id: 7u2WDGV9FJl4fXwfOhRx8N
 status: PUBLISHED
 createdAt: 2024-01-31T19:11:20.119Z

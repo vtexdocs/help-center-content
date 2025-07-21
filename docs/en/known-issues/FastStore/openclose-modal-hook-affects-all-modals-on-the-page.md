@@ -1,5 +1,5 @@
 ---
-title: 'Open/close modal hook affects all modals on the page'
+title: "Open/close modal hook affects all modals on the page"
 id: l1G3HN5Y3LxYVzuMnhjkL
 status: PUBLISHED
 createdAt: 2024-05-31T19:16:13.601Z

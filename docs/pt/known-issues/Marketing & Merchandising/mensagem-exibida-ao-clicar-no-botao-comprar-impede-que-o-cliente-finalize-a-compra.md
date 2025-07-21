@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem exibida ao clicar no botão “Comprar” impede que o cliente finalize a compra'
+title: "Mensagem exibida ao clicar no botão “Comprar” impede que o cliente finalize a compra"
 id: 3i3eys6d4MWnt0E611OdPH
 status: PUBLISHED
 createdAt: 2021-10-13T16:50:22.116Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: message-displayed-when-clicking-the-buy-button-prevents-customers-from-proceeding-with-the-purchase
+slugEN: mensagem-exibida-ao-clicar-no-botao-comprar-impede-que-o-cliente-finalize-a-compra
 locale: pt
 kiStatus: Backlog
 internalReference: 

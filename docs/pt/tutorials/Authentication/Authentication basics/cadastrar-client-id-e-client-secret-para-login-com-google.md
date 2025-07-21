@@ -23,7 +23,9 @@ Esses valores são obtidos a partir de um projeto que precisa ser criado no serv
 
 De forma simplificada, basta seguir os passos a seguir:
 
->⚠️ Os passos abaixo descrevem procedimentos em uma plataforma externa e podem estar desatualizados. Mais informações sobre esses procedimentos podem ser encontradas nos artigos [Setting up OAuth 2.0](https://support.google.com/cloud/answer/6158849) e [OpenID Connect](https://developers.google.com/identity/protocols/oauth2/openid-connect) da documentação do Google.
+<div class="alert alert-warning" role="alert">
+Os passos abaixo descrevem procedimentos em uma plataforma externa e podem estar desatualizados. Mais informações sobre esses procedimentos podem ser encontradas nos artigos <a href="https://support.google.com/cloud/answer/6158849">Setting up OAuth 2.0</a> e <a href="https://developers.google.com/identity/protocols/oauth2/openid-connect">OpenID Connect</a> da documentação do Google.
+</div>
 
 1. Entrar no link [`https://console.developers.google.com/`](https://console.developers.google.com/);
 2. Clicar em __Credenciais__, na aba lateral;

@@ -1,5 +1,5 @@
 ---
-title: 'Expired temporary redirects not pointing back to old route'
+title: "Expired temporary redirects not pointing back to old route"
 id: 1kI87EueEtHIyfZ4KmUJSF
 status: PUBLISHED
 createdAt: 2023-09-12T14:41:09.843Z

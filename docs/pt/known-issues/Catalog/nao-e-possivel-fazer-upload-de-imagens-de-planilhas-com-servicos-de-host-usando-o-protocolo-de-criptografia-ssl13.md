@@ -1,5 +1,5 @@
 ---
-title: 'Não é possível fazer upload de imagens de planilhas com serviços de host usando o protocolo de criptografia SSL1.3'
+title: "Não é possível fazer upload de imagens de planilhas com serviços de host usando o protocolo de criptografia SSL1.3"
 id: sqoXJSms7bhmdNe0Id111
 status: PUBLISHED
 createdAt: 2023-06-28T12:23:54.884Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: unable-to-upload-spreadsheet-images-with-host-services-using-protocol-encryption-protocol-ssl13
+slugEN: nao-e-possivel-fazer-upload-de-imagens-de-planilhas-com-servicos-de-host-usando-o-protocolo-de-criptografia-ssl13
 locale: pt
 kiStatus: Backlog
 internalReference: 851911
@@ -18,7 +18,9 @@ internalReference: 851911
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando o host de imagens da planilha usa um protocolo de criptografia SSL1.3, aparece um erro ao tentar carregar a planilha:

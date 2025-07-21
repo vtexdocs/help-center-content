@@ -21,9 +21,10 @@ Una causa de promoción es cualquier condición que genera una promoción.
 
 Por ejemplo: el minorista puede configurar una promoción para que se aplique si el cliente elige un medio de pago. En este caso, el medio de pago es la causa de la promoción.
 
->❗ No se puede guardar una promoción que no respete alguno de los límites. Por lo tanto, si actualmente su tienda tiene promociones que superen alguno de esos límites, esté atento.
->
-> Cualquier cambio en alguna de estas promociones hará que los nuevos límites sean aplicados. Por lo tanto, usted no podrá guardar la promoción con la configuración anterior.
+<div class="alert alert-danger">No se puede guardar una promoción que no respete alguno de los límites. Por lo tanto, si actualmente su tienda tiene promociones que superen alguno de esos límites, esté atento.
+
+Cualquier cambio en alguna de estas promociones hará que los nuevos límites sean aplicados. Por lo tanto, usted no podrá guardar la promoción con la configuración anterior.
+</div>
 
 Los siguientes son los nuevos límites para cada causa de promoción:
 

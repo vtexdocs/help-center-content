@@ -17,7 +17,9 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Para que uma promoção do tipo regular seja aplicada por um número limitado de vezes, basta desmarcar a opção **ilimitado** em restrições e limitações de uso. Quando desmarcada, é disponibilizado um campo para cadastrar a quantidade de vezes, em que a promoção poderá ser aplicada em compras na sua loja. Isso significa que se cadastrar o número 10, a promoção somente será concedida aos primeiros 10 pedidos fechados na sua loja, que atendam às regras da promoção.
 
->⚠️ Pedidos com status `Iniciando cancelamento` ou `Cancelado` não contam no limite definido.
+<div class="alert alert-warning">
+<p>Pedidos com status <code>Iniciando cancelamento</code> ou <code>Cancelado</code> não contam no limite definido.</p>
+</div>
 
 ![LimitacaoPromocao](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/como-criar-promocao-com-limitacao-de-uso_1.png)
 
@@ -25,4 +27,4 @@ Também é possível configurar o limite por cliente, ao invés de limite por pr
 
 ## Saiba mais
 
-- [Entenda mais sobre cada tipo de promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320).
+- [Entenda mais sobre cada tipo de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320).

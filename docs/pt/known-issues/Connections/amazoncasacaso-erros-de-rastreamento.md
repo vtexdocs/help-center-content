@@ -1,5 +1,5 @@
 ---
-title: '[Amazon][casacaso] - Erros de rastreamento'
+title: "[Amazon][casacaso] - Erros de rastreamento"
 id: 6a8QqrvjiQBBI2EM22581P
 status: PUBLISHED
 createdAt: 2022-03-10T17:59:48.309Z
@@ -18,7 +18,9 @@ internalReference: 360564
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

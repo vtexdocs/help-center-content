@@ -3,8 +3,8 @@ title: 'Como funciona a concorrência de promoções'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2024-11-11T17:22:09.507Z
-publishedAt: 2024-11-11T17:22:09.507Z
+updatedAt: 2025-03-25T18:12:46.253Z
+publishedAt: 2025-03-25T18:12:46.253Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,13 +15,13 @@ legacySlug: entendendo-a-concorrencia-de-promocoes
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-O módulo de Promoções possui uma lógica para definir qual promoção será aplicada em uma compra, assim como o [Checkout](https://help.vtex.com/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) precisa selecionar qual seller irá realizar o fullfilment do pedido. Essa lógica se chama concorrência de promoções.
+O módulo de Promoções possui uma lógica para definir qual promoção será aplicada em uma compra, assim como o [Checkout](/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) precisa selecionar qual seller irá realizar o fullfilment do pedido. Essa lógica se chama concorrência de promoções.
 
-Os cenários em que acontece concorrência de promoções são:
+A concorrência de promoções ocorre quando:
 
-- Promoções com o mesmo tipo de desconto.
-- Aplicação de mais de uma promoção no mesmo item.
-- Promoções não [configuradas](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) para permitir acumular promoções.
+- As promoções aplicadas têm o mesmo tipo de desconto.
+- Mais de uma promoção é aplicada ao mesmo item.
+- Essas promoções não estão [configuradas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) para permitir o acúmulo.
 
 Para entender como a seleção da promoção que será aplicada funciona, vamos entender alguns conceitos do módulo de Promoções.
 
@@ -34,10 +34,10 @@ Para entender como a seleção da promoção que será aplicada funciona, vamos 
 
 Os efeitos de promoções são relacionados ao benefício que a promoção oferece. Existem quatro tipos:
 
-- **Desconto no preço**: são as promoções que aplicam um desconto percentual ou nominal sobre o valor do produto. Aqui, estão incluídos alguns descontos da [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [desconto progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324) e qualquer outra mecânica que incida sobre o preço de um item.
-- **Desconto no frete**: são as [promoções com desconto no frete](https://help.vtex.com/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).
+- **Desconto no preço**: são as promoções que aplicam um desconto percentual ou nominal sobre o valor do produto. Aqui, estão incluídos alguns descontos da [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) e qualquer outra mecânica que incida sobre o preço de um item.
+- **Desconto no frete**: são as [promoções com desconto no frete](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).
 - **Brinde**: são as promoções que concedem um brinde ao cliente.
-- **Fórmula**: são as promoções com tipo de desconto nominal baseado em [fórmula](https://help.vtex.com/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), que é uma das opções da promoção regular.
+- **Fórmula**: são as promoções com tipo de desconto nominal baseado em [fórmula](/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), que é uma das opções da promoção regular.
 
 ## Ordenação de aplicação das promoções
 
@@ -76,7 +76,7 @@ A **Promoção 1** será aplicada no valor do item já descontado pela **Promoç
 
 ## Acumulação de promoções
 
-Quando as promoções são [configuradas](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) no campo `Permitir acumular promoções` para acumularem, elas são sempre aplicadas, independente do tipo, desde que suas condições sejam atendidas. 
+Quando as promoções são [configuradas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) no campo `Permitir acumular promoções` para acumularem, elas são sempre aplicadas, independente do tipo, desde que suas condições sejam atendidas. 
 
 Todavia, elas incidem no valor já descontado pela promoção que ganhou a concorrência de promoções não acumulativas. A ordem das promoções selecionadas seguirá a ordenação por tipo e valor, como descrito no item 1. 
 
@@ -84,7 +84,8 @@ Logo, a sequência de aplicação é:
 
 ![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/como-funciona-a-concorrencia-de-promocoes_1.png)
 
->⚠️ Pedidos de origem [Marketplace](https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.
+<div class="alert alert-warning">
+Pedidos de origem <a href="https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.</div>
 
 ## Estratégias de concorrência de promoções
 
@@ -99,7 +100,8 @@ Veja a seguir as duas estratégias de concorrência de promoções:
 - [Concorrência por cenário](#concorrencia-por-cenario)
 - [Concorrência por item](#concorrencia-por-item)
 
->ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) e solicite a mudança.
+<div class="alert alert-info">
+Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abra um chamado com nosso time de suporte</a> e solicite a mudança.</div>
 
 ### Concorrência por cenário
 
@@ -109,7 +111,7 @@ O que conceder o melhor desconto será aplicado ao carrinho. Veja nos exemplos a
 
 #### Exemplo 1
 
-Pedrinho vai comprar uma camiseta de R$100, com frete de R$30. No pedido, podem ser aplicadas cinco promoções. Todas as promoções aplicáveis foram [configuradas](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) no campo `Permitir acumular promoções` para não acumularem promoções, exceto pela primeira:
+Pedrinho vai comprar uma camiseta de R$100, com frete de R$30. No pedido, podem ser aplicadas cinco promoções. Todas as promoções aplicáveis foram [configuradas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) no campo `Permitir acumular promoções` para não acumularem promoções, exceto pela primeira:
 
 | Promoções acumulativas | Promoções não acumulativas |
 | ----------- | ----------- |
@@ -210,4 +212,4 @@ Neste cenário, o valor total do pedido ficaria em **R$ 525**.
 
 Essa opção ofereceria um desconto menor para o cliente que a seleção feita pela [concorrência por cenário](#concorrencia-por-cenario). Portanto, essa configuração depende do objetivo de negócio definido pela loja. 
 
-Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) com nosso time de suporte e solicite a mudança.
+Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) com nosso time de suporte e solicite a mudança.

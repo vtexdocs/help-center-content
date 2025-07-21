@@ -1,5 +1,5 @@
 ---
-title: 'Pedido con estado cancelado pero el pago sigue autorizado'
+title: "Pedido con estado cancelado pero el pago sigue autorizado"
 id: 19WmIjIbAQmJ19AOC4q56N
 status: PUBLISHED
 createdAt: 2022-05-11T12:49:23.081Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: order-with-status-of-canceled-but-the-payment-remains-authorized
+slugEN: pedido-con-estado-cancelado-pero-el-pago-sigue-autorizado
 locale: es
 kiStatus: Fixed
 internalReference: 420019
@@ -18,7 +18,9 @@ internalReference: 420019
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En algunos casos en los que el pedido queda incompleto o anulado al producirse algún fallo de comunicación con la Pasarela, el pago queda autorizado y/o aprobado, no entrando en el flujo de anulación y no devolviéndose automáticamente el importe pagado. Además, se pueden enviar accidentalmente correos electrónicos transaccionales, que también permiten el pago de recibos bancarios, ya que la URL irá con él.

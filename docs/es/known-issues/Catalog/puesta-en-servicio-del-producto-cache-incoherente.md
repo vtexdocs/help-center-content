@@ -1,5 +1,5 @@
 ---
-title: 'Puesta en servicio del producto Caché incoherente'
+title: "Puesta en servicio del producto Caché incoherente"
 id: 7queBSJcAG9yIlKbvWOVgY
 status: PUBLISHED
 createdAt: 2023-08-01T17:48:39.144Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-comissioning-inconsistent-cache
+slugEN: puesta-en-servicio-del-producto-cache-incoherente
 locale: es
 kiStatus: Backlog
 internalReference: 872364
@@ -18,7 +18,9 @@ internalReference: 872364
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 Hay, a partir de 2023, dos conjuntos de API distintos para actualizar la información de un vendedor en un mercado, son:
 https://developers.vtex.com/docs/api-reference/catalog-api#put-/api/catalog_system/pvt/seller

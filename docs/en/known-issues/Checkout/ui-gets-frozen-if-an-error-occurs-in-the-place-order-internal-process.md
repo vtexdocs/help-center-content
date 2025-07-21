@@ -1,5 +1,5 @@
 ---
-title: 'UI gets frozen if an error occurs in the place order internal process'
+title: "UI gets frozen if an error occurs in the place order internal process"
 id: pt5Orot3i9BlYCt4E2Kj5
 status: PUBLISHED
 createdAt: 2023-11-28T18:55:54.950Z

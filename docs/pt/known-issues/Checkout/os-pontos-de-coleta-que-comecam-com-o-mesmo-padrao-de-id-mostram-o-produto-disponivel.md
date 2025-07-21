@@ -1,5 +1,5 @@
 ---
-title: 'Os pontos de coleta que começam com o mesmo padrão de ID mostram o produto disponível'
+title: "Os pontos de coleta que começam com o mesmo padrão de ID mostram o produto disponível"
 id: 1iCnOFHyKNTLvY20VS58HP
 status: PUBLISHED
 createdAt: 2024-01-10T16:01:39.766Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickup-points-starting-with-the-same-id-pattern-show-product-available
+slugEN: os-pontos-de-coleta-que-comecam-com-o-mesmo-padrao-de-id-mostram-o-produto-disponivel
 locale: pt
 kiStatus: Backlog
 internalReference: 964036
@@ -18,7 +18,9 @@ internalReference: 964036
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando os dois pontos de coleta com IDs começam com o mesmo padrão, a interface do usuário do checkout os valida como a mesma loja, mostrando um produto disponível.

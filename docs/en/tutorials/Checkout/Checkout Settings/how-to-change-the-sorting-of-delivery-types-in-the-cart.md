@@ -21,4 +21,6 @@ By clicking on the delivery types menu, the customer will be able to access othe
 
 This is a standard behavior of the platform, and if the merchant wants to modify it, it is possible to customize the cart (through CSS and JavaScript), according to the store's needs.
 
->⚠️ Note that you should be very careful about any CSS or JavaScript changes in your cart. If it's not properly done, this kind of customization can compromise the conversion rate of your store and the security of your checkout.
+<div class="alert alert-warning">
+Note that you should be very careful about any CSS or JavaScript changes in your cart. If it's not properly done, this kind of customization can compromise the conversion rate of your store and the security of your checkout.
+</div>

@@ -15,7 +15,7 @@ legacySlug: changing-tracking-data-beta
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Retailers and customers can track order deliveries by entering their tracking data into the platform. To enter or change tracking data, orders must [have been invoiced](https://help.vtex.com/en/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Retailers and customers can track order deliveries by entering their tracking data into the platform. To enter or change tracking data, orders must [have been invoiced](/en/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
 
 There are two ways of entering order tracking data:
 

@@ -25,7 +25,7 @@ Antes, solo era posible evaluar el servicio de VTEX a través de la encuesta env
 
 - Evaluar el servicio de soporte de VTEX a través de nuestra *Encuesta de satisfacción*, tras la resolución de cada ticket.  
 - Consultar la lista de tickets resueltos que has abierto en nombre de tu tienda.    
-- Acceder al [Help Center](https://help.vtex.com/es), a [VTEX Community](https://community.vtex.com/) y al [Developer Portal](https://developers.vtex.com/).  
+- Acceder al [Help Center](/es), a [VTEX Community](https://community.vtex.com/) y al [Developer Portal](https://developers.vtex.com/).  
 
 Por el momento, la página solo muestra los tickets de soporte que ya han sido resueltos.
 
@@ -39,5 +39,5 @@ La nueva página *Encuesta de Satisfacción* ya está instalada en tu VTEX Admin
 
 También hemos enviado una invitación por email para que visites la página y hagas tu evaluación.
 
-Obtén más información en los artículos [¿Cómo funciona el soporte de VTEX](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) y [Abrir tickets para el soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Obtén más información en los artículos [¿Cómo funciona el soporte de VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) y [Abrir tickets para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 

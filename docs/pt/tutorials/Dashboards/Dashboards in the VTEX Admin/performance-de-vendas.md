@@ -15,7 +15,7 @@ legacySlug: performance-de-vendas
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-A página Performance de Vendas é um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel permite que usuários analisem dados dos pedidos da sua loja e de seus sellers, no caso de [lojas que atuam como marketplaces](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). Com a página, usuários podem:
+A página Performance de Vendas é um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel permite que usuários analisem dados dos pedidos da sua loja e de seus sellers, no caso de [lojas que atuam como marketplaces](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). Com a página, usuários podem:
 
 - Monitorar a saúde do seu negócio
 - Avaliar o impacto nas vendas dos eventos de alta demanda (Black Friday, Cyber Monday)
@@ -29,13 +29,15 @@ Para acessar a página, em seu Admin VTEX vá para __Dashboards > Performance de
 ![Sales Perf Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/performance-de-vendas_1.gif)
 
 ## Dados 
-Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
+Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
 
 Para garantir que você tenha acesso tanto aos últimos dados atualizados e também a todo seu histórico para análise sem perdas de performance, internamente o painel de Performance de Vendas divide esses dados em grupos separados. 
 
 Esses grupos também são processados por sistemas diferentes, o que pode causar uma diferença entre dados do OMS e do Performance de Vendas, apesar de buscarmos apresentar no máximo 5% de divergência. 
 
->⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
+<div class ="alert alert-warning">
+É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
+</div>
 
 ## Período
 
@@ -85,10 +87,10 @@ Dimensões são as opções disponíveis para filtrar, agrupar e comparar dados 
 | 1P / 3P | 1P, ou first-party, determina as métricas da própria loja. 3P, ou third-party, determina as métricas de terceiros. Por exemplo, ao selecionar a métrica Pedidos e filtrar por 3P, você verá os pedidos de terceiros, seus sellers, na lista e no gráfico. |
 | Campanha | Nome das campanhas criadas no Admin VTEX. |
 | Cupom | Nome dos cupons criados no Admin VTEX. |
-| Política comercial | Nome das [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) cadastradas na sua loja para filtrar pelas suas diferentes estratégias e canais de vendas. |
-| Promoções | Nome das [promoções](https://help.vtex.com/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD) criadas no Admin VTEX. |
-| UTM Campaign | Nome das [UTM](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns cadastradas para suas campanhas. |
-| UTM Source | Nome das [UTM](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Sources cadastradas para identificar a origem do tráfego em seu ecommerce. |
+| Política comercial | Nome das [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) cadastradas na sua loja para filtrar pelas suas diferentes estratégias e canais de vendas. |
+| Promoções | Nome das [promoções](/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD) criadas no Admin VTEX. |
+| UTM Campaign | Nome das [UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns cadastradas para suas campanhas. |
+| UTM Source | Nome das [UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Sources cadastradas para identificar a origem do tráfego em seu ecommerce. |
 
 ## Métricas
 Tanto o gráfico quanto a lista apresentam as métricas da sua loja, a partir dos dados do módulo de Gerenciamento de Pedidos (OMS). As métricas são divididas em:
@@ -210,7 +212,9 @@ A lista representa as métricas e filtros aplicados no gráfico em formato de ta
   - __Absoluto:__ visualize em números absolutos o aumento ou diminuição das métricas da lista, entre um período e outro. 
   - __Representativo:__ visualize o percentual de representatividade de um item dentro de uma métrica.
 
->ℹ️ Note que as métricas *Ticket médio* e *Itens por pedido* não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
+<div class="alert alert-info">
+Note que as métricas <em>Ticket médio</em> e <em>Itens por pedido</em> não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
+</div>
 
 ### Exportar dados
 

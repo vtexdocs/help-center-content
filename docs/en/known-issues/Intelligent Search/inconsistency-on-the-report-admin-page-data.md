@@ -1,5 +1,5 @@
 ---
-title: 'Inconsistency on the Report Admin page data'
+title: "Inconsistency on the Report Admin page data"
 id: 1PpUu4gA3esgGcdpIjITSu
 status: PUBLISHED
 createdAt: 2022-04-27T15:04:11.275Z

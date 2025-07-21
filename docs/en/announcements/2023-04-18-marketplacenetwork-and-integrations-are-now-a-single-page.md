@@ -35,5 +35,5 @@ We have unified the modules in Marketplaces and Integrations to provide VTEX sel
 
 ## What needs to be done?  
 
-This update will be automatically available to all VTEX users as of May 03, 2023. Learn more about the page in the [Marketplaces and Integrations](https://help.vtex.com/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) documentation.
+This update will be automatically available to all VTEX users as of May 03, 2023. Learn more about the page in the [Marketplaces and Integrations](/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) documentation.
 

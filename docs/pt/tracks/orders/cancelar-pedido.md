@@ -19,9 +19,13 @@ trackSlugPT: pedidos
 - Por API.
 - Por solicitação do próprio cliente.
 
->⚠️ Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status **Faturado** não podem ser cancelados.
+<div class="alert alert-warning">
+Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status <b>Faturado</b> não podem ser cancelados.
+</div>
 
->ℹ️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+<div class = "alert alert-info">
+Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
+</div>
 
 ## Cancelamento pelo módulo Pedidos
 
@@ -44,8 +48,8 @@ Confira nosso [guia de integração de ERPs](https://developers.vtex.com/docs/er
 
 O cliente pode solicitar o cancelamento do pedido por meio da tela de **Meus pedidos**.  
 
-Se o cliente solicitar o cancelamento dentro do período de carência do pedido, que é [configurável pela loja](https://help.vtex.com/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido?locale=pt "Configurar período de carência"), o lojista não precisa aprovar o cancelamento. Considera-se que o fluxo de picking, packing e entrega ainda não se iniciou, portanto o cancelamento não traria ônus à loja.
+Se o cliente solicitar o cancelamento dentro do período de carência do pedido, que é [configurável pela loja](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido?locale=pt "Configurar período de carência"), o lojista não precisa aprovar o cancelamento. Considera-se que o fluxo de picking, packing e entrega ainda não se iniciou, portanto o cancelamento não traria ônus à loja.
 
 Após o período de carência, entende-se que a loja já está agindo sobre o pedido. Nesse caso, o lojista deverá confirmar a solicitação de cancelamento.   
 
-Confira nosso artigo sobre o fluxo completo de [cancelamento solicitado pelo cliente](https://help.vtex.com/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente).
+Confira nosso artigo sobre o fluxo completo de [cancelamento solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente).

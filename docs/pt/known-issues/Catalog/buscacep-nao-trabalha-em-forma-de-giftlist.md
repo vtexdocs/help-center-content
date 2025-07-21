@@ -1,5 +1,5 @@
 ---
-title: 'Buscacep não trabalha em forma de GiftList.'
+title: "Buscacep não trabalha em forma de GiftList."
 id: 3VRPSO1wYFX5XWrpTSD78X
 status: PUBLISHED
 createdAt: 2022-11-02T13:00:43.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: buscacep-not-working-in-create-giftlist-form
+slugEN: buscacep-nao-trabalha-em-forma-de-giftlist
 locale: pt
 kiStatus: No Fix
 internalReference: 342418
@@ -18,7 +18,9 @@ internalReference: 342418
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -3,8 +3,8 @@ title: 'Offer Status'
 id: 2OE87wU26F7lApl99OdwvJ
 status: PUBLISHED
 createdAt: 2023-09-29T19:16:05.771Z
-updatedAt: 2024-09-09T14:53:52.369Z
-publishedAt: 2024-09-09T14:53:52.369Z
+updatedAt: 2024-11-27T00:05:01.148Z
+publishedAt: 2024-11-27T00:05:01.148Z
 firstPublishedAt: 2023-09-29T20:07:16.003Z
 contentType: tutorial
 productTeam: Channels
@@ -108,7 +108,9 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the published offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
->ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+<div class="alert alert-info">
+  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+  </div>
 
 ## Issues tab
 
@@ -179,7 +181,9 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the issues offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
->ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+<div class="alert alert-info">
+  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+  </div>
 
 ## Awaiting Completion tab
 
@@ -232,4 +236,6 @@ You will be redirected to the corresponding page to make the necessary changes.
 
 To export the awaiting offer list in XLSX format, click the down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
->ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+<div class="alert alert-info">
+  The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
+  </div>

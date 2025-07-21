@@ -1,5 +1,5 @@
 ---
-title: 'Slug and Link returned in the Catalog Facets API have different formats.'
+title: "Slug and Link returned in the Catalog Facets API have different formats."
 id: 3LbYdhZhjsvUuQNC7VJN5G
 status: PUBLISHED
 createdAt: 2024-03-12T15:43:07.017Z

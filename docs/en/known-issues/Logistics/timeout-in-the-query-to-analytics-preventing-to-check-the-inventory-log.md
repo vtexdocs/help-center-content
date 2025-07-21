@@ -1,5 +1,5 @@
 ---
-title: 'Timeout in the query to Analytics preventing to check the inventory log'
+title: "Timeout in the query to Analytics preventing to check the inventory log"
 id: 2gQhc3JF0bcm1JeLr0lluO
 status: PUBLISHED
 createdAt: 2024-02-19T20:54:22.012Z

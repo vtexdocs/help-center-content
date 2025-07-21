@@ -1,5 +1,5 @@
 ---
-title: 'MELI Freight quotation for multiple officialStoreIDs'
+title: "MELI Freight quotation for multiple officialStoreIDs"
 id: 4KdPYtRbDdsBrn2k0dz7oc
 status: PUBLISHED
 createdAt: 2024-02-07T11:19:11.169Z

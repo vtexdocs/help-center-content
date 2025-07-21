@@ -3,8 +3,8 @@ title: 'Sinônimos Inteligentes'
 id: 1rR47Kk96UgFYwh8dkDG7i
 status: PUBLISHED
 createdAt: 2024-06-17T13:41:39.402Z
-updatedAt: 2024-06-17T13:42:26.751Z
-publishedAt: 2024-06-17T13:42:26.751Z
+updatedAt: 2025-01-21T12:03:23.099Z
+publishedAt: 2025-01-21T12:03:23.099Z
 firstPublishedAt: 2024-06-17T13:42:26.751Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,11 @@ legacySlug: sinonimos-inteligentes
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
->ℹ️ Esta funcionalidade está  disponível para contas que tenham um número mínimo de sessões e pedidos para que o modelo de Inteligência Artificial seja treinado. Caso tenha interesse em implementá-la, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
+<div class="alert alert-info">
+  <p>Esta funcionalidade está  disponível para contas que tenham um número mínimo de sessões e pedidos para que o modelo de Inteligência Artificial seja treinado. Caso tenha interesse em implementá-la, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>. É possível que taxas extras se apliquem futuramente.</p>
+</div>
 
-A funcionalidade de [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
+A funcionalidade de [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
 
 Com a funcionalidade de Sinônimos Inteligentes, a página de **Sinônimos** no Admin VTEX apresenta recomendações inteligentes de termos para cadastro, além da configuração manual de sinônimos. A plataforma sugere sinônimos a partir de Inteligência Artificial, com base no comportamento de busca de clientes na sua loja.
 
@@ -52,16 +54,16 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
 
     * <i class="fas fa-bookmark"></i> **Salvar para depois:** remove a sugestão da contagem de **Novas sugestões** e passa a armazená-la na caixa **Sugestões salvas**. Para analisar as sugestões salvas posteriormente, clique em `Revisar`.
     * <i class="fas fa-times-circle"></i> **Recusar**: descarta a sugestão proposta.
-    * <i class="fas fa-pencil-alt"></i> **Editar**: altera campos da configuração dos sinônimos sugeridos. Depois de editar, é preciso clicar em <i class="fas fa-check-circle"></i> para salvar. Para mais informações sobre os campos disponíveis, leia [Configurar Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+    * <i class="fas fa-pencil-alt"></i> **Editar**: altera campos da configuração dos sinônimos sugeridos. Depois de editar, é preciso clicar em <i class="fas fa-check-circle"></i> para salvar. Para mais informações sobre os campos disponíveis, leia [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
     * <i class="fas fa-check-circle"></i> **Aprovar**: aplica e salva a sugestão proposta.
 6. Após revisar todas as sugestões, feche o modal para acessar a listagem de sinônimos configurados na sua loja.
 
-<div class="alert alert-error">
+<div class="alert alert-danger">
   <p>Uma vez que uma ação é realizada, não é possível desfazê-la, pois a próxima sugestão disponível é exibida imediatamente.</p>
 </div>
 
 ## Saiba mais
 
-* [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
-* [Configurar Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-* [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)
+* [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
+* [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
+* [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)

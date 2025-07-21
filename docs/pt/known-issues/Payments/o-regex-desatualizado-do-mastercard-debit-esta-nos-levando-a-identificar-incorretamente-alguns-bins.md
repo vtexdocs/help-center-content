@@ -1,5 +1,5 @@
 ---
-title: 'O regex desatualizado do Mastercard Debit está nos levando a identificar incorretamente alguns BINs'
+title: "O regex desatualizado do Mastercard Debit está nos levando a identificar incorretamente alguns BINs"
 id: 5gx4dSY2P5gGE0JI661hGL
 status: PUBLISHED
 createdAt: 2022-08-20T00:03:11.640Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins
+slugEN: o-regex-desatualizado-do-mastercard-debit-esta-nos-levando-a-identificar-incorretamente-alguns-bins
 locale: pt
 kiStatus: Backlog
 internalReference: 642136
@@ -18,7 +18,9 @@ internalReference: 642136
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Alguns BINs não estão sendo identificados corretamente no checkout. A bandeira do cartão é determinada por um regex que pode eventualmente estar desatualizado, fazendo com que a bandeira do cartão não seja identificada ou seja identificada incorretamente.

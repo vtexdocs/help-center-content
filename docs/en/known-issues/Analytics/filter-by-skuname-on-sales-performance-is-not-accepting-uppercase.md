@@ -1,5 +1,5 @@
 ---
-title: ' Filter by SkuName on Sales Performance is not accepting uppercase.'
+title: "Filter by SkuName on Sales Performance is not accepting uppercase."
 id: 3FCDeEn8xmEvOXKgBxqyL5
 status: PUBLISHED
 createdAt: 2022-08-16T18:06:02.919Z

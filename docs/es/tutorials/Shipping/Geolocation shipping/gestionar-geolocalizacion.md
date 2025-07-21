@@ -32,7 +32,9 @@ Accediendo a través del enlace [Genere sus polígonos con geojson.io](http://ge
 
 Usted usará ese JSon para añadir el polígono en la plataforma, que comprenderá a partir de ese lenguaje cuáles códigos postales están incluidos en esa área.
 
->❗ En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
+<div class="alert alert-danger">
+En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
+</div>
 
 ## Cómo añadir un Polígono
 
@@ -57,9 +59,11 @@ Un ejemplo de cómo quedaría es:
 
 Después, basta guardar.
 
->⚠️ Es importante prestar atención a que, si utiliza la geolocalización y, por tanto, rellena la columna **PolygonName** de la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127), la transportadora en cuestión no utilizará las columnas **ZipCodeStart** y **ZipCodeEnd**, que deberán rellenarse con `0`.
+<div class = "alert alert-warning">
+Es importante prestar atención a que, si utiliza la geolocalización y, por tanto, rellena la columna <b>PolygonName</b> de la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete</a>, la transportadora en cuestión no utilizará las columnas <b>ZipCodeStart</b> y <b>ZipCodeEnd</b>, que deberán rellenarse con <code>0</code>.
+</div>
 
-En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](https://help.vtex.com/es/tutorial/geolocalizacao-no-checkout/), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
+En **Configuración de la tienda > Storefront > Checkout**, en la [pestaña Checkout](/es/tutorial/geolocalizacao-no-checkout/), el campo API Key debe rellenarse con la misma clave que se utilizó para activar la geolocalización.
 
 Habilita también todas las API de Google Cloud Platform para asegurarte de que la clave funciona:
 
@@ -82,4 +86,6 @@ Caso necesite alterar algún lugar de entrega de un polígono que ya existe, ust
 
 Aquí el proceso es todavía más simples, pues no será necesario alterar ninguna información en la plantilla de flete, visto que es a través del ID que el sistema hace la consulta.
 
->⚠️ En el caso de que el transportista y la hoja de flete hayan sido creados antes de registrar el Polígono, recomendamos que sea editada la compañía que tiene vínculo con ese Polígono, para actualizar la relación. Con esto después de la Creación o Cambio de un Poligono, abra la compañía y haga clic en Guardar, sólo para sensibilizar una actualización.
+<div class = "alert alert-warning"> 
+  En el caso de que el transportista y la hoja de flete hayan sido creados antes de registrar el Polígono, recomendamos que sea editada la compañía que tiene vínculo con ese Polígono, para actualizar la relación. Con esto después de la Creación o Cambio de un Poligono, abra la compañía y haga clic en Guardar, sólo para sensibilizar una actualización.
+</div>

@@ -1,10 +1,10 @@
 ---
-title: 'Faststore PDPs are not regionalized'
+title: "Faststore PDPs are not regionalized"
 id: 17wHyAFHm5u2tyaxJ9mXNm
 status: PUBLISHED
 createdAt: 2024-08-28T19:48:35.858Z
-updatedAt: 2024-08-29T11:16:39.495Z
-publishedAt: 2024-08-29T11:16:39.495Z
+updatedAt: 2025-03-31T14:46:09.620Z
+publishedAt: 2025-03-31T14:46:09.620Z
 firstPublishedAt: 2024-08-28T19:48:36.848Z
 contentType: knownIssue
 productTeam: FastStore
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
 slugEN: faststore-pdps-are-not-regionalized
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 1088656
 ---
 

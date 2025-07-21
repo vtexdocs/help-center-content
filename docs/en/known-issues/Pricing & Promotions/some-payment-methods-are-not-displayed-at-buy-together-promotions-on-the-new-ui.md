@@ -1,5 +1,5 @@
 ---
-title: "Some Payment Methods are not displayed at 'Buy Together' promotions on the New UI"
+title: 'Some Payment Methods are not displayed at "Buy Together" promotions on the New UI'
 id: MDXIGrCng2fJOUibsc2RK
 status: PUBLISHED
 createdAt: 2024-09-03T01:49:54.371Z

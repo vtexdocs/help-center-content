@@ -1,5 +1,5 @@
 ---
-title: 'Verification transactions when saving card in MyCards are not automatically canceled'
+title: "Verification transactions when saving card in MyCards are not automatically canceled"
 id: 3VqRlcnzHqDEx7v1IIlBuf
 status: PUBLISHED
 createdAt: 2022-03-27T15:14:55.382Z

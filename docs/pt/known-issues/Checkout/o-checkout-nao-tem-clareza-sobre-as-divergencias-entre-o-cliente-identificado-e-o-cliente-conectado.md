@@ -1,5 +1,5 @@
 ---
-title: 'O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado'
+title: "O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado"
 id: 3TorBnBvCbqLB5AUG8oWp0
 status: PUBLISHED
 createdAt: 2023-05-03T21:54:48.509Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer
+slugEN: o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado
 locale: pt
 kiStatus: Backlog
 internalReference: 442267
@@ -18,7 +18,9 @@ internalReference: 442267
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Enquanto estiver no checkout, você precisará fazer login para ver/alterar informações pessoais e, em alguns casos, até mesmo concluir a compra. O processo de login é desconectado do formulário de pedido, portanto, você pode fazer login com qualquer e-mail e ser identificado com outro e-mail no fluxo de compra.

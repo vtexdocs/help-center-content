@@ -1,5 +1,5 @@
 ---
-title: 'O preenchimento do catálogo não aciona uma nova indexação de busca inteligente'
+title: "O preenchimento do catálogo não aciona uma nova indexação de busca inteligente"
 id: 3QAE7sE58h96m4mw2Xv4qw
 status: PUBLISHED
 createdAt: 2022-11-25T15:09:58.987Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-fullcleanup-does-not-trigger-a-new-intelligent-search-indexation
+slugEN: o-preenchimento-do-catalogo-nao-aciona-uma-nova-indexacao-de-busca-inteligente
 locale: pt
 kiStatus: Fixed
 internalReference: 449763
@@ -18,7 +18,9 @@ internalReference: 449763
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao executar uma limpeza completa (https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx) no catálogo, a emissora não envia a notificação de atualização para o indexador de Busca Inteligente, e os dados do produto podem ficar desatualizados, causando discrepâncias entre o conteúdo PDP e PLP.

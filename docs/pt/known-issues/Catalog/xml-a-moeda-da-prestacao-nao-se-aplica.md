@@ -1,5 +1,5 @@
 ---
-title: 'XML - A moeda da prestação não se aplica'
+title: "XML - A moeda da prestação não se aplica"
 id: 7kPbxbGnpqeqU8XCD576hZ
 status: PUBLISHED
 createdAt: 2024-02-02T19:16:59.053Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: xml-installment-currency-does-not-apply
+slugEN: xml-a-moeda-da-prestacao-nao-se-aplica
 locale: pt
 kiStatus: No Fix
 internalReference: 976295
@@ -18,7 +18,9 @@ internalReference: 976295
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao configurar uma moeda em um XML, ela se aplica a todos os campos, exceto ao campo "Parcela".

@@ -1,5 +1,5 @@
 ---
-title: 'O email de confirmação de pedido é enviado duas vezes em pedidos que possuem dois métodos de pagamento diferentes'
+title: "O email de confirmação de pedido é enviado duas vezes em pedidos que possuem dois métodos de pagamento diferentes"
 id: 3QkvzMI8Tx6k9ikQSsREpt
 status: PUBLISHED
 createdAt: 2021-09-21T14:38:35.783Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Order Management
-slugEN: the-order-confirmation-email-is-sent-twice-when-two-different-payment
+slugEN: o-email-de-confirmacao-de-pedido-e-enviado-duas-vezes-em-pedidos-que-possuem
 locale: pt
 kiStatus: Backlog
 internalReference: 

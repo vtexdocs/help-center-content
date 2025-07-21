@@ -1,5 +1,5 @@
 ---
-title: 'El pago con dos tarjetas no funciona con 3DS2'
+title: "El pago con dos tarjetas no funciona con 3DS2"
 id: 7tjxz6qEsQz9o42diSqMpt
 status: PUBLISHED
 createdAt: 2021-06-15T15:24:52.846Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: the-pay-with-two-cards-option-does-not-work-when-using-3d-secure-20-3ds2
+slugEN: el-pago-con-dos-tarjetas-no-funciona-con-3ds2
 locale: es
 kiStatus: Backlog
 internalReference: 

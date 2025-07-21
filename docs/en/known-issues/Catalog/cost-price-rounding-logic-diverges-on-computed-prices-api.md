@@ -1,5 +1,5 @@
 ---
-title: 'Cost Price Rounding Logic diverges on Computed Prices API'
+title: "Cost Price Rounding Logic diverges on Computed Prices API"
 id: 744fWEh7fgMHwvidFEhlV
 status: PUBLISHED
 createdAt: 2023-06-12T17:15:06.190Z

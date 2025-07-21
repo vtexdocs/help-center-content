@@ -35,4 +35,6 @@ El rechazo de una transacción de pago debido a un número de tarjeta inválido 
 
 No se requiere ninguna acción. El algoritmo de Luhn ya está activo en todas las tiendas VTEX.
 
->⚠️ El algoritmo de Luhn no restringe el fraude por ataques con tarjeta. El objetivo específico es comprobar si hay errores tipográficos o del valor ingresado en los números de las tarjetas.
+<div class="alert alert-warning">
+El algoritmo de Luhn no restringe el fraude por ataques con tarjeta. El objetivo específico es comprobar si hay errores tipográficos o del valor ingresado en los números de las tarjetas.
+</div>

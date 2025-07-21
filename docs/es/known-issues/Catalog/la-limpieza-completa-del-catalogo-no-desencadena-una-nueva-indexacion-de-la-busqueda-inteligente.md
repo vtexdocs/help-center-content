@@ -1,5 +1,5 @@
 ---
-title: 'La limpieza completa del catálogo no desencadena una nueva indexación de la Búsqueda Inteligente'
+title: "La limpieza completa del catálogo no desencadena una nueva indexación de la Búsqueda Inteligente"
 id: 3QAE7sE58h96m4mw2Xv4qw
 status: PUBLISHED
 createdAt: 2022-11-25T15:09:58.987Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: catalog-fullcleanup-does-not-trigger-a-new-intelligent-search-indexation
+slugEN: la-limpieza-completa-del-catalogo-no-desencadena-una-nueva-indexacion-de-la-busqueda-inteligente
 locale: es
 kiStatus: Fixed
 internalReference: 449763
@@ -18,7 +18,9 @@ internalReference: 449763
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al ejecutar una limpieza completa (https://{AccountName}.myvtex.com/admin/Site/fullcleanup.aspx) en el catálogo, la emisora no envía la notificación de actualización al indexador de búsqueda inteligente, y los datos de los productos pueden quedar obsoletos, lo que provoca discrepancias entre el contenido de PDP y PLP.

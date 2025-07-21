@@ -1,5 +1,5 @@
 ---
-title: '[Shopee] SKU disabled in marketplace. shopee-sku-helper (sku update failed)'
+title: "[Shopee] SKU disabled in marketplace. shopee-sku-helper (sku update failed)"
 id: 2GZUqJQ8MeI9lspoGYQ9Rh
 status: PUBLISHED
 createdAt: 2022-10-25T16:09:55.768Z

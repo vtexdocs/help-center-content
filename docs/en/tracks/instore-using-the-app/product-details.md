@@ -20,4 +20,4 @@ When clicking on the details of a product that appears in the VTEX Sales App sea
 
 This page shows the name of the product, its photo gallery, variations, description and availability. On this screen, the sales associate can add the product to the cart.
 
-Note that if you have configured your store to [force stock availability](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), even if the product is unavailable in all channels, the sales associate will be able to add it to the cart.
+Note that if you have configured your store to [force stock availability](/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), even if the product is unavailable in all channels, the sales associate will be able to add it to the cart.

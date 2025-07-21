@@ -1,5 +1,5 @@
 ---
-title: 'Error de seguimiento'
+title: "Error de seguimiento"
 id: 7CKv6XYkFl8jkFBvSJ22Wn
 status: PUBLISHED
 createdAt: 2022-06-20T18:25:25.307Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: tracking-error
+slugEN: error-de-seguimiento
 locale: es
 kiStatus: Backlog
 internalReference: 514557
@@ -18,7 +18,9 @@ internalReference: 514557
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El vendedor facturó algunos pedidos pero la información de seguimiento no fue enviada a B2W.

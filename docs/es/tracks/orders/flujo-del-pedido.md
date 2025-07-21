@@ -14,18 +14,20 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugES: pedidos
 ---
 
-El [flujo del pedido](https://help.vtex.com/es/tutorial/order-flow-and-status--tutorials_196) es la ruta que sigue un pedido en la plataforma VTEX, desde el momento en que el cliente hace clic en el botón Pagar hasta que se factura o cancela el pedido.
+El [flujo del pedido](/es/tutorial/order-flow-and-status--tutorials_196) es la ruta que sigue un pedido en la plataforma VTEX, desde el momento en que el cliente hace clic en el botón Pagar hasta que se factura o cancela el pedido.
 
 Los cambios en el pedido - ya sean causados por el cliente, la tienda o los sistemas externos - generan cambios en el __status del pedido__. Y con eso, el pedido se mueve dentro del flujo.
 
 ## Marketplaces y Sellers
 
-Los conceptos de [marketplace y seller](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) son fundamentales para comprender el flujo de un pedido en VTEX. Vamos a entender por qué:
+Los conceptos de [marketplace y seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) son fundamentales para comprender el flujo de un pedido en VTEX. Vamos a entender por qué:
 
 - __Marketplace__ es el ambiente donde se cierra el pedido, es decir, donde el cliente realiza el proceso de pago.
 - __Seller__ es el propietario del SKU. Por lo tanto, es responsable del fulfillment, es decir, de entregar el producto al cliente.
 
->ℹ️ Cuando la tienda vende productos en su propio ambiente y realiza sus propias entregas es Marketplace y Seller al mismo tiempo.
+<div class="alert alert-info">
+Cuando la tienda vende productos en su propio ambiente y realiza sus propias entregas es Marketplace y Seller al mismo tiempo.
+</div>
 
 Es importante comprender estos conceptos porque el flujo de pedidos en el Marketplace es diferente del flujo en el Seller.
 
@@ -69,13 +71,14 @@ Una vez que el pago ha sido aprobado, el pedido pasa a `Pago Aprobado` y luego a
 
 Es decir, en este caso, los pasos de pago y entrega son responsabilidad de la tienda.
 
->ℹ️ Cada pedido se completa solo en uno de dos estados posibles:
->
-> 
->
-> * Facturado
->
-> * Cancelado
-> 
+<div class="alert alert-info">
+Cada pedido se completa solo en uno de dos estados posibles:<br>
+<ul>
+  <li>Facturado</li>
+  <li>Cancelado</li>
+</ul>
+</div>
 
->ℹ️ Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en [Entendiendo los status](https://help.vtex.com/es/tutorial/fluxo-de-pedido--tutorials_196#entiendo-los-estados).
+<div class="alert alert-info">
+Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en <a href="https://help.vtex.com/es/tutorial/fluxo-de-pedido--tutorials_196#entiendo-los-estados">Entendiendo los status</a>.
+</div>

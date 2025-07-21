@@ -25,7 +25,7 @@ Para configurar o sortimento de produtos, será necessário [associar a polític
 
 Para configurar a logística, siga o passo a passo descrito [neste artigo](/pt/tutorial/configurando-logistica-para-marketplace).
 
-Para saber mais, consulte nosso tutorial com mais detalhes sobre [como configurar uma política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
+Para saber mais, consulte nosso tutorial com mais detalhes sobre [como configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
 
 ## Seller
 
@@ -45,10 +45,12 @@ Cada marketplace deverá ter um __identificador único de afiliação__.
 
 Após criar um [afiliado](/pt/tutorial/como-configurar-afiliado/), você deve associar uma política comercial a ele. A política comercial contém as informações dos sortimentos de produto, logística e preço que serão enviadas para o afiliado em questão.
 
->ℹ️ Caso a configuração de marketplace seja feita pelo módulo [Bridge](http://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/), o afiliado será criado automaticamente no módulo OMS.
+<div class="alert alert-info">
+Caso a configuração de marketplace seja feita pelo módulo <a href="http://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/">Bridge</a>, o afiliado será criado automaticamente no módulo OMS.
+</div>
 
 #### **SAIBA MAIS**
 
-- [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona uma Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)

@@ -1,5 +1,5 @@
 ---
-title: 'Link de download do Masterdata Export indisponível'
+title: "Link de download do Masterdata Export indisponível"
 id: 2oi0ABhQQxfPsKETeNUyvE
 status: PUBLISHED
 createdAt: 2022-07-08T13:50:43.220Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: masterdata-export-download-link-unavailable
+slugEN: link-de-download-do-masterdata-export-indisponivel
 locale: pt
 kiStatus: Backlog
 internalReference: 613864
@@ -18,7 +18,9 @@ internalReference: 613864
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para entidades de dados com vários campos, quando há uma tentativa de exportar uma planilha e baixá-la, por e-mail ou diretamente pela interface do usuário, o link de download não salva o arquivo em seu navegador.

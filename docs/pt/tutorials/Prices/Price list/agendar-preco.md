@@ -48,7 +48,9 @@ Para realizar o agendamento pelo Admin, siga os passos abaixo.
 - **Data Fim:** data de fim do agendamento do preço fixo. Será a partir dessa data que o preço fixo não será mais válido.
 - **Hora Fim:** hora de fim do agendamento do preço fixo. Será a partir dessa hora que o preço fixo não será mais válido.
 
->ℹ️ No agendamento feito pelo Admin, o fuso-horário considerado será o utilizado pelo computador do usuário.
+<div class="alert alert-info">
+  <p>No agendamento feito pelo Admin, o fuso-horário considerado será o utilizado pelo computador do usuário.</p>
+</div>
 
 ## Agendamento por importação de planilha de preços fixos
 
@@ -70,7 +72,9 @@ A planilha será enviada para seu email e pode ser baixada por lá. Após baixar
 - **Date From:** data e hora de início, no formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), do agendamento do preço fixo. Será a partir dessa data e hora que o preço fixo será válido.
 - **Date To:** data e hora de fim, no formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), do agendamento do preço fixo. Será a partir dessa data e hora que o preço fixo não será mais válido.
 
->ℹ️ Os campos **Date From** e **Date To** seguem o formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt" target="_blank), que inclui o fuso horário. Por exemplo, se uma promoção começar ou terminar às 22h00 do dia 30 de dezembro de 2024, na Argentina (fuso horário GMT-3), o valor a ser inserido será: `2024-12-30T22:00:00-03:00`.
+<div class="alert alert-info">
+    Os campos <strong>Date From</strong> e <strong>Date To</strong> seguem o formato <a href="https://www.ietf.org/rfc/rfc3339.txt" target="_blank">RFC3339</a>, que inclui o fuso horário. Por exemplo, se uma promoção começar ou terminar às 22h00 do dia 30 de dezembro de 2024, na Argentina (fuso horário GMT-3), o valor a ser inserido será: <code>2024-12-30T22:00:00-03:00</code>.
+</div>
 
 ![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/Price%20list/agendar-preco_2.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Orden aprobada en el marketplace pero no integrada en VTEX'
+title: "Orden aprobada en el marketplace pero no integrada en VTEX"
 id: 4idGZH0WQ18GWjCOOo3xkq
 status: PUBLISHED
 createdAt: 2022-03-22T18:18:13.879Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: order-approved-in-the-marketplace-but-not-integrated-into-vtex
+slugEN: orden-aprobada-en-el-marketplace-pero-no-integrada-en-vtex
 locale: es
 kiStatus: Backlog
 internalReference: 547809
@@ -18,7 +18,9 @@ internalReference: 547809
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

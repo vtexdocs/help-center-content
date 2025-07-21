@@ -1,5 +1,5 @@
 ---
-title: 'Update seller using Admin is setting some fields back to the default value after changing it via API'
+title: "Update seller using Admin is setting some fields back to the default value after changing it via API"
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z

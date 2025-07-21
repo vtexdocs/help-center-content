@@ -1,5 +1,5 @@
 ---
-title: 'Colar o código postal no carrinho de visualização de remessa às vezes retorna um resultado de API nulo'
+title: "Colar o código postal no carrinho de visualização de remessa às vezes retorna um resultado de API nulo"
 id: 5Lq32htqC7M9xiqajfn7y7
 status: PUBLISHED
 createdAt: 2022-06-01T15:30:08.776Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pasting-postal-code-in-shipping-preview-cart-sometimes-returns-null-api-result
+slugEN: colar-o-codigo-postal-no-carrinho-de-visualizacao-de-remessa-as-vezes-retorna-um-resultado-de-api-nulo
 locale: pt
 kiStatus: Backlog
 internalReference: 481878
@@ -18,7 +18,9 @@ internalReference: 481878
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Depois de inserir o código postal uma vez na visualização do envio e optar por colá-lo novamente, às vezes ocorre de fazer uma solicitação nula para a API do código postal.

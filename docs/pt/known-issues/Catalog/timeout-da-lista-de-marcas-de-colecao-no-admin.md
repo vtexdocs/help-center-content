@@ -1,5 +1,5 @@
 ---
-title: 'Timeout da lista de marcas de coleção no Admin'
+title: "Timeout da lista de marcas de coleção no Admin"
 id: 4de4lqAIhr9mU77EPAbvq1
 status: PUBLISHED
 createdAt: 2022-08-17T15:58:26.950Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: admin-collection-brand-list-timeout
+slugEN: timeout-da-lista-de-marcas-de-colecao-no-admin
 locale: pt
 kiStatus: No Fix
 internalReference: 639905
@@ -18,7 +18,9 @@ internalReference: 639905
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, para lojas que têm mais de 4000 marcas em seu catálogo, a seguinte listagem de marcas não carrega nenhuma marca quando se tenta criar uma nova coleção:

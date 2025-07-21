@@ -1,5 +1,5 @@
 ---
-title: 'A nova IU não mostra o valor faturado na página de itens de retorno'
+title: "A nova IU não mostra o valor faturado na página de itens de retorno"
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: new-ui-does-not-show-the-invoiced-value-on-return-items-page
+slugEN: a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno
 locale: pt
 kiStatus: No Fix
 internalReference: 664838
@@ -18,7 +18,9 @@ internalReference: 664838
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A Nova IU não está mostrando na página Itens de Retorno o valor total já faturado.

@@ -1,5 +1,5 @@
 ---
-title: 'Simulação Não é possível encontrar Produtos do Catálogo V2 na Página de Simulação de Embarque'
+title: "Simulação Não é possível encontrar Produtos do Catálogo V2 na Página de Simulação de Embarque"
 id: 7jZBMAZHNilokDdbCxWzSs
 status: PUBLISHED
 createdAt: 2022-05-18T18:26:09.456Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: simulation-is-not-possible-find-products-from-catalog-v2-on-shipping-simulation-page
+slugEN: simulacao-nao-e-possivel-encontrar-produtos-do-catalogo-v2-na-pagina-de-simulacao-de-embarque
 locale: pt
 kiStatus: No Fix
 internalReference: 488362
@@ -18,7 +18,9 @@ internalReference: 488362
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um problema ao usar o módulo de Simulação de Produtos do Catálogo V2 para encontrar Produtos no módulo de Simulação.

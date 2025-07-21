@@ -17,7 +17,9 @@ announcementSynopsisEN: 'As of February 28, the use of Web Service will be disco
 
 As of __February 28__, we will discontinue the use of Web Service for integrations with VTEX, __except for the Catalog methods__.
 
->⚠️ Web Service will continue to work for the Catalog, while we work on the development of this service's REST APIs. We will let you know as soon as a migration schedule is defined.
+<div class="alert alert-warning">
+Web Service will continue to work for the Catalog, while we work on the development of this service's REST APIs. We will let you know as soon as a migration schedule is defined.
+</div>
 
 If your store still uses any of these methods, replace them with API integrations. Otherwise, as of February 28, these integrations will no longer work.
 

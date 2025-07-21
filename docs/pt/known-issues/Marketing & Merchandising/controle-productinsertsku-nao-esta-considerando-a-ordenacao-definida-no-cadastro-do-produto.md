@@ -1,5 +1,5 @@
 ---
-title: 'Controle $product.InsertSku não está considerando a ordenação definida no cadastro do produto'
+title: "Controle $product.InsertSku não está considerando a ordenação definida no cadastro do produto"
 id: laM7GlhASOuGisu2e8KGO
 status: PUBLISHED
 createdAt: 2018-01-11T20:32:44.037Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: productinsertsku-control-is-not-following-the-set-order-of-the-product-registry
+slugEN: controle-productinsertsku-nao-esta-considerando-a-ordenacao-definida-no-cadastro-do-produto
 locale: pt
 kiStatus: Backlog
 internalReference: 

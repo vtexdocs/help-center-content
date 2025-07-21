@@ -1,5 +1,5 @@
 ---
-title: 'Las recogidas heredadas entre vendedores de marca blanca se tratan como recogidas diferentes/independientes en el flujo de compra'
+title: "Las recogidas heredadas entre vendedores de marca blanca se tratan como recogidas diferentes/independientes en el flujo de compra"
 id: mfLw2RDV0C7cXNic5CwoA
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:12.808Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow
+slugEN: las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra
 locale: es
 kiStatus: Backlog
 internalReference: 438630
@@ -18,7 +18,9 @@ internalReference: 438630
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Hay una característica en el módulo de Logística para heredar los puntos de recogida entre las cuentas de franquicia, y así entre los vendedores de marca blanca. Mientras estén registrados en un vendedor X, aparecerán como opciones de recogida para un vendedor Y según lo configurado en la estrategia de envío. Aunque sean los mismos, su ID será diferente entre cada vendedor, por lo que se verán como opciones de recogida diferentes e independientes.

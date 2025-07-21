@@ -1,5 +1,5 @@
 ---
-title: 'O botão giratório MyCards não está funcionando corretamente'
+title: "O botão giratório MyCards não está funcionando corretamente"
 id: 2Y1IHSesmqAKYsep1JzIND
 status: PUBLISHED
 createdAt: 2023-03-29T19:18:47.318Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: mycards-spinner-button-is-not-working-properly
+slugEN: o-botao-giratorio-mycards-nao-esta-funcionando-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 780667
@@ -18,7 +18,9 @@ internalReference: 780667
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Após clicar no botão "Salvar cartão novo", os usuários esperam ver algum feedback indicando que algo está sendo processado. Infelizmente, falta a experiência atual, já que o botão não exibe a animação "spinner" esperada. Isto pode ser frustrante para os usuários e diminuir a experiência geral do usuário.

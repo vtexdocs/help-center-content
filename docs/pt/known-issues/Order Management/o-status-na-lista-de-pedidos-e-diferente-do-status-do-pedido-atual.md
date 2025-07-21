@@ -1,5 +1,5 @@
 ---
-title: 'O status na lista de pedidos é diferente do status do pedido atual'
+title: "O status na lista de pedidos é diferente do status do pedido atual"
 id: 2UBFdtXWtCIygv0SiObCTN
 status: PUBLISHED
 createdAt: 2022-05-11T18:25:07.711Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: status-in-the-order-list-is-different-from-the-current-order-status
+slugEN: o-status-na-lista-de-pedidos-e-diferente-do-status-do-pedido-atual
 locale: pt
 kiStatus: Backlog
 internalReference: 577103
@@ -18,7 +18,9 @@ internalReference: 577103
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Em alguns casos, a lista de pedidos mostra um status diferente do status do pedido atual (cartão).

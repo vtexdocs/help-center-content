@@ -1,5 +1,5 @@
 ---
-title: 'Error when changing an index if the fields are identical.'
+title: "Error when changing an index if the fields are identical."
 id: Ckic7QH3kKyW3IA92A3Cm
 status: PUBLISHED
 createdAt: 2023-07-03T18:48:49.070Z

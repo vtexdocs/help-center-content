@@ -1,5 +1,5 @@
 ---
-title: 'El envío se muestra con valor incorrecto cuando hay stock negativo.'
+title: "El envío se muestra con valor incorrecto cuando hay stock negativo."
 id: 3EwZH688kMiS8uyugOk4uw
 status: PUBLISHED
 createdAt: 2017-08-23T13:13:48.362Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-is-displayed-with-wrong-value-for-negative-inventory
+slugEN: el-envio-se-muestra-con-valor-incorrecto-cuando-hay-stock-negativo
 locale: es
 kiStatus: Backlog
 internalReference: 

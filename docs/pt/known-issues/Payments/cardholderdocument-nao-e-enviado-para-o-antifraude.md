@@ -1,5 +1,5 @@
 ---
-title: 'cardholderDocument não é enviado para o antifraude.'
+title: "cardholderDocument não é enviado para o antifraude."
 id: 4KiYd2Duw9Njxl96zuIOIX
 status: PUBLISHED
 createdAt: 2023-05-22T18:24:46.148Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: cardholderdocument-is-not-sent-to-antifraud
+slugEN: cardholderdocument-nao-e-enviado-para-o-antifraude
 locale: pt
 kiStatus: Backlog
 internalReference: 829864
@@ -18,7 +18,9 @@ internalReference: 829864
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

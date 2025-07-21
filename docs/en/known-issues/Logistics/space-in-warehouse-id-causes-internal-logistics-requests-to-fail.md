@@ -1,5 +1,5 @@
 ---
-title: 'Space in warehouse ID causes internal logistics requests to fail'
+title: "Space in warehouse ID causes internal logistics requests to fail"
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z

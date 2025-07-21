@@ -1,5 +1,5 @@
 ---
-title: 'First subscription cycle is skipped'
+title: "First subscription cycle is skipped"
 id: 2VX6uoop56wK6jecAly40G
 status: PUBLISHED
 createdAt: 2024-02-05T14:10:40.701Z

@@ -1,88 +1,173 @@
 ---
-title: 'Account management'
-id: tutorials_6285
-status: ARCHIVED
-createdAt: 2017-04-27T21:48:34.322Z
-updatedAt: 2023-06-01T13:45:18.066Z
-publishedAt: 
-firstPublishedAt: 2017-04-27T23:11:18.953Z
+title: ' Account management'
+id: 2vhUVOKfCaswqLguT2F9xq
+status: PUBLISHED
+createdAt: 2023-04-25T20:31:19.403Z
+updatedAt: 2024-03-09T00:12:08.991Z
+publishedAt: 2024-03-09T00:12:08.991Z
+firstPublishedAt: 2023-05-24T17:48:42.796Z
 contentType: tutorial
 productTeam: Identity
-author: authors_2
+author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: account-management
 locale: en
-legacySlug: how-to-manage-accounts
+legacySlug: account-details-page
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Your accounts are managed on the Account management module. To access it, click on your profile avatar, which can be identified by the first letter of your email address, then click on **Account settings** > **Account**.
+The **Account** page allows you to view and manage your VTEX account details. To access it, click your **profile avatar** that has the first letter of your email, and click **Account Settings** > **Account.**
 
-On the page of each account, you find basic data about the virtual store, domain and multi-domain settings, access keys for APIs, the company logo and contact information.
+![Admin v4 account settings menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_1.jpg)
 
->ℹ️ Some of this data is useful solely for VTEX, and may not reflect in changes to the data displayed in the store.
+<div class="alert alert-warning">
+This screen has no application key details. Learn where to find and manage this information in the article <a href="https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">Application Keys</a>.
+</div>
 
-## Active/Inactive button
+The **Account** page is divided into two tabs: [General](#general) and [Stores](#stores). Learn more about each tab below.
 
-When you disable this button, the store bcomes inaccessible to end users.
+## General
 
-## "In production" button
+The **General** tab's features are available in the [Details](#details), [Company Information](#company-information), and [Owner](#owner) sections. This tab allows you to:
 
-By default, the store's initial status is not in production. In this status, there is no traffic to the store yet.
+![Account details page - account section](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_2.png)
 
-Under the standard VTEX contract, no percentage is charged on sales while the store is not in production.
+This tab allows you to:
 
-## Company information
+- View [account details](#details).
+- View and edit [company information](#company-information).
+- View [account-sponsor-user information](#sponsor).
 
-Here, you can edit the following company information:
+### Details
 
-- Account name (the identifier name of your account, used in the Admin access URL. It cannot be changed).
-- Trade name
-- Company name
-- Tax ID
+In this section, you can check the basic information of your VTEX account.
 
-## Store
+![Account details page - details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_3.png)
 
-In this section, you can configure your store's identifying characteristics:
-- [Store name](https://help.vtex.com/en/tutorial/what-is-the-store-name--3gh9mTNeMgs6Qe44e8IqQK#).
-- Trade name.
-- Hosts.
+- **Main account name:** [VTEX account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
+- **Creation date:** The date your account was created.
+- **Account ID:** The unique code that identifies your account.
+- **Go-live date:** The date your account was activated and available for configuration and store implementation.
+- **Account status:** Indicates whether your account is in production or not. An account in production is the first step to [making your store available for customers in a public domain](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM). This status can be either **in production** or **not in production**.
+- **Admin platform status:** Indicates whether or not your account is active, which means that the VTEX Admin and APIs are available for the configuration and deployment of your store. This status can be **Active** or **Inactive**.
 
-You can also click the `Configure this store` button to [Create a multistore](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510).
+### Company information
 
-### Hosts
+In this section, you will see the following information about your company:
 
-In the **Hosts** section, you need to add your store's main domain [set up with DNS pointing](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+- Logo
+- Trading name
+- Company registration number
 
->❗ In case your operation has more than one VTEX account or subaccounts, do not trade domains among them. This will cause errors in different aspects of your store.
+![Account details page - Company information](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_4.png)
 
-Click `Add New Domain` to add a new host, and then enter the domain in the text field. 
+#### Editing company information
 
->⚠️ If you add more than one domain as your store's host, they will all display the same content. However, we recommend registering only one domain and using redirections for the other ones. Learn more about redirections:
->
-> *<a href=”https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirection from other addresses</a>
->
-> *<a href=”https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configuring access without www</a>
+You can edit the company information by following the steps below:
 
-#### Subdomains
+1. Go to the **Account** page by clicking your **profile avatar** that has the first letter of your email address, and then go to **Account Settings** > **Account**.
+2. Go to the **Company Information** section.
+3. Click `Edit`.
+4. Change the desired information regarding:
+	- **Logo**
+	- **Trading name**
+	- **Legal name**
+	- **Company reg. no.**
+5. Click `Save`.
 
-Any domain registered this way needs to contain a subdomain, that may or may not be `www`. See the examples below:
+<div class="alert alert-warning">
+Your logo must be a JPG, GIF, or PNG file with a maximum size of 800 KB.
+</div>
 
-- `mystore.com` - Not valid because it does not have a subdomain.
-- `www.mystore.com` - Valid domain.
-- `store.mybrand.com` - Valid domain.
+### Sponsor
 
-## Contacts
+This section displays the account sponsor details. Each VTEX account has only one sponsor account, which has full access to all Admin sections, including important maintenance and authorization actions.
 
-The **Contacts** part is only visible to users that are registered there. This registration defines who can use the **[FullCleanUp](http://help.vtex.com/en/tutorial/understanding-how-to-maintain-a-database/)** panel and also who can view the **Security** information. This user is considered the sponsor user.
+<div class = "alert alert-info">
+Learn more about the <a href="https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy">sponsor user</a>.
+</div>
 
-After a user has filled in and saved the **Name** and **E-mail** in the contacts field, an automatic e-mail is sent to it, informing about the registration and requesting the creation of a password (in the event he has no access to the admin).
+![Account details page - Sponsor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_5.png)
 
->ℹ️ The template for this automatic email can be changed in the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84) by modifying the <i>account registration</i> template.
+If you are the sponsor user, you can [transfer store ownership](/en/tutorial/transferencia-de-propriedade-da-loja) in this section. This allows you to transfer the store's ownership to another user.
 
-![account registration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_1.jpg)
+## Stores
 
-## Security
+In the Stores tab, you can:
 
-The [appKeys and appTokens](https://help.vtex.com/en/tutorial/chaves-de-aplicacao) used to authenticate integrations with your store are created here.
+- View [store list](#stores).
+- [Add new store](#creating-a-store).
+- [Edit store](#editing-a-store).
+- [Delete store](#deleting-a-store).
 
-Only the Sponsor user is allowed to create appKeys and appTokens, since they give access to your store via API, which can be critical if not used by skilled professionals.
+By clicking the **Stores** tab at the top of the screen, you will see a list with all the information of all the stores created in your VTEX account.
+
+![Account details page - Stores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_6.png)
+
+For each store, you can view the following details:
+
+- **Store name:** Name that will identify your store.
+- **Trading name:** Business name of your store.
+- **Hosts:** Domains related to the store.
+
+You can use the search box to filter the stores displayed in the list by any of the attributes.
+
+You can also [create a new store](#create-store), [edit a store](#edit-store), or [delete](# delete-store) existing stores.
+
+### Creating a store
+
+Follow the steps below to create a store:
+
+1. Go to the **Account** page by clicking your **profile avatar** that has the first letter of your email, and then go to **Account Settings** > **Account**.
+2. Click the **Stores** tab at the top of the screen.
+3. Click the `+ New Store` button.
+4. Fill in the basic store information:
+	- **Store name:** Name that will identify your store.
+	- **Trading name:** Business name of your store.
+	- **Locale:** Preset language associated with this store.
+	- **Trade policy:** [Trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) you want to associate with the new store.
+5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
+6. Click the `Create` button.
+
+<div class = "alert alert-info">
+  To learn more about configuring your store's <b>Hosts</b>, read the article  <a href="https://help.vtex.com/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">Configure your store domain</a>.
+</div>
+
+<div class="alert alert-warning">
+Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
+</div>
+
+### Editing a store
+
+Follow the steps below to edit information from an existing store:
+
+1. Go to the **Account** page by clicking your **profile avatar** that has the first letter of your email, and then go to **Account Settings** > **Account**.
+2. Click the **Stores** tab at the top of the screen.
+3. Click the action button<i class="fas fa-ellipsis-v"></i> corresponding to the store you want to edit.
+4. Click `Edit`.
+5. You will see the account edit page. Edit the information you want.
+6. Click `Save`.
+
+### Deleting a store
+
+Follow the steps below to delete a store:
+
+1. Go to the **Account** page by clicking your **profile avatar** that has the first letter of your email, and then on **Account Settings** > **Account**.
+2. Click the **Stores** tab at the top of the screen.
+3. Click the action button <i class="fas fa-ellipsis-v"></i> corresponding to the store you want to delete.
+4. Click `Delete`.
+5. You will see a confirmation modal. Click `Delete`.
+
+The name of the removed store cannot be used again.
+
+<div class="alert alert-warning">
+Note that the main store, indicated with a star next to its name in the store list, cannot be deleted.
+</div>
+
+## Learn more
+
+- [What is an account name?](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)
+- [Sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy)
+- [Transferring store ownership](/en/tutorial/transferencia-de-propriedade-da-loja)
+- [Configure your store's domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450)
+- [Go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
+

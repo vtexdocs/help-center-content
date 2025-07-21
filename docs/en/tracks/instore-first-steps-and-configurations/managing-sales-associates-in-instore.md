@@ -14,8 +14,8 @@ trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations
 ---
 
-After configuring the [VTEX Sales App basic settings](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
-On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your [VTEX Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). It allows you to manage sales associate information across all [franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-a-sales-associate), [search](#searching-for-a-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-a-sales-associate) them.
+After configuring the [VTEX Sales App basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
+On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your [VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). It allows you to manage sales associate information across all [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-a-sales-associate), [search](#searching-for-a-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-a-sales-associate) them.
 
 ![vendedores-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/managing-sales-associates-in-instore_1.png)
 
@@ -25,7 +25,7 @@ The page displays the following information:
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Name          | Name that identifies the sales associate, defined in the[Add sales associate](#adding-a-sales-associate) step.                                                              |
 | Code          | Identifier code of each sales associate. It must be the same used in the physical store system.                                                                          |
-| Store         | Identifier name of the[franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
+| Store         | Identifier name of the[franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
 | Email         | Sales associate access email.                                                                                                                                            |
 
 ## Adding a sales associate
@@ -40,7 +40,9 @@ You can add a sales associate by following the steps below:
 
 After being added, the sales associate will receive a confirmation email and be redirected to the sales associate's login option in Sales App.
 
->⚠️ Sales associates registered in Sales App cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.
+<div class ="alert alert-warning">
+<p>Sales associates registered in Sales App cannot access the VTEX Admin. If a sales associate tries to log in to Admin, their registration will be deleted.</p>
+</div>
 
 ### Sales associate fields
 
@@ -53,9 +55,11 @@ After being added, the sales associate will receive a confirmation email and be 
 
 #### Physical store
 
-* **Store:** the [franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
+* **Store:** the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
 
->ℹ️ Changes can take up to 15 minutes to be processed and applied to Sales App.
+<div class ="alert alert-info">
+<p>Changes can take up to 15 minutes to be processed and applied to Sales App.</p> 
+</div>
 
 ## Searching for a sales associate
 

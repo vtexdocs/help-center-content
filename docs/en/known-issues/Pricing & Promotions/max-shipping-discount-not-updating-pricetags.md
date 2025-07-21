@@ -1,5 +1,5 @@
 ---
-title: 'Max Shipping Discount not updating priceTags'
+title: "Max Shipping Discount not updating priceTags"
 id: uA0KFnyIOHq3ikcaZmYGr
 status: PUBLISHED
 createdAt: 2023-09-20T17:54:59.620Z

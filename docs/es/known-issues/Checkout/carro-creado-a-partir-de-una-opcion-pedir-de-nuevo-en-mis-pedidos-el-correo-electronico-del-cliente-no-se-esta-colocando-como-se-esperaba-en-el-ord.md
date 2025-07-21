@@ -1,5 +1,5 @@
 ---
-title: "Carro creado a partir de una opción 'pedir de nuevo' en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm"
+title: 'Carro creado a partir de una opción "pedir de nuevo" en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm'
 id: 6dDhkaIhquOqaDuNkVZuln
 status: PUBLISHED
 createdAt: 2023-12-04T22:41:21.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-order-again-option-in-my-orders-the-customers-email-is-not-being-placed-as-expected-in-the-orderform
+slugEN: carro-creado-a-partir-de-una-opcion-pedir-de-nuevo-en-mis-pedidos-el-correo-electronico-del-cliente-no-se-esta-colocando-como-se-esperaba-en-el-orderform
 locale: es
 kiStatus: Backlog
 internalReference: 947563
@@ -18,7 +18,9 @@ internalReference: 947563
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

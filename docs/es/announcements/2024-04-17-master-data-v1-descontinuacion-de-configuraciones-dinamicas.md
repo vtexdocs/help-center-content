@@ -17,7 +17,7 @@ announcementSynopsisES: 'El "Campo calculado" y la acción de trigger "Editar el
 
 El día 17 de junio de 2024 desactivaremos las siguientes configuraciones en Master Data v1: **Campo calculado** y acción de trigger **Editar el valor del campo**.
 
-Estas opciones permitían cambiar los valores de documentos en [Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) de forma dinámica, ejecutando código desde un trigger o desde la actualización/creación de un documento.
+Estas opciones permitían cambiar los valores de documentos en [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) de forma dinámica, ejecutando código desde un trigger o desde la actualización/creación de un documento.
 
 Para sustituir estas configuraciones, si necesitas actualizar los valores de los campos de forma dinámica, te recomendamos [crear una aplicación que se comunique con Master Data](https://developers.vtex.com/docs/guides/create-master-data-crud-app).
 
@@ -29,7 +29,7 @@ Ten en cuenta que tanto los **Campos calculados** como los triggers existentes q
 
 ### Campo calculado
 
-El **Campo calculado** era una configuración dentro de los campos de [entidad de datos](https://help.vtex.com/es/tutorial/entidade-de-datos--tutorials_1265) que permitía ejecutar código C# para recalcular el valor del campo cada vez que se insertaba o actualizaba un nuevo documento.
+El **Campo calculado** era una configuración dentro de los campos de [entidad de datos](/es/tutorial/entidade-de-datos--tutorials_1265) que permitía ejecutar código C# para recalcular el valor del campo cada vez que se insertaba o actualizaba un nuevo documento.
 
 Este tipo de campo, ilustrado a continuación, ya no estará disponible a partir del 17 de junio de 2024. Los campos calculados creados anteriormente dejarán de funcionar en la misma fecha.
 
@@ -48,6 +48,6 @@ La opción **Editar el valor del campo**, ilustrada a continuación, ya no estar
 Si necesitas actualizar los valores de campo de Master Data con base en un trigger, recomendamos que te pongas en contacto con tu equipo de desarrolladores para seguir las directrices que se indican a continuación:
 
 * Desarrollar una aplicación en VTEX IO que se comunique con Master Data, siguiendo las directrices de la guía para desarrolladores [Creating a Master Data CRUD app](https://developers.vtex.com/docs/guides/create-master-data-crud-app).
-* Configura un trigger que envíe una solicitud HTTP a la aplicación, siguiendo las instrucciones disponibles en [Crear trigger en Master Data v1](https://help.vtex.com/es/tutorial/criando-trigger-no-master-data--tutorials_1270#enviar-request-http).
+* Configura un trigger que envíe una solicitud HTTP a la aplicación, siguiendo las instrucciones disponibles en [Crear trigger en Master Data v1](/es/tutorial/criando-trigger-no-master-data--tutorials_1270#enviar-request-http).
 
 Si utilizas el **Campo calculado** o un trigger con la acción **Editar el valor del campo**, sigue el procedimiento anterior antes del 17 de junio de 2024 para que los valores continúen actualizándose dinámicamente incluso después de que estos ajustes se hayan descontinuado en Master Data v1.

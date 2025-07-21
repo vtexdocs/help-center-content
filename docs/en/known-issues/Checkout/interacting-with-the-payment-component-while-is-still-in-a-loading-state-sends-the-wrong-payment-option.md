@@ -1,5 +1,5 @@
 ---
-title: 'Interacting with the payment component while is still in a loading state sends the wrong payment option'
+title: "Interacting with the payment component while is still in a loading state sends the wrong payment option"
 id: 4kSvM6fti8YfgcUyl4qFJs
 status: PUBLISHED
 createdAt: 2023-12-12T22:07:58.762Z

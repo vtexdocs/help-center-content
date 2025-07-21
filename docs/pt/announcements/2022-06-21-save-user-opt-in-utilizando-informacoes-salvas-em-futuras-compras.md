@@ -25,7 +25,7 @@ A partir de agora, duas caixas de seleção estarão disponíveis na tela do Che
 
 ![ Save user data opt-in PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-06-21-save-user-opt-in-utilizando-informacoes-salvas-em-futuras-compras_1.PNG)
 
-Saiba mais em [SmartCheckout - Preenchimento automático de dados do cliente](https://help.vtex.com/pt/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
+Saiba mais em [SmartCheckout - Preenchimento automático de dados do cliente](/pt/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 
 ## O que precisa ser feito?
 

@@ -1,5 +1,5 @@
 ---
-title: 'Fallo en la actualización del inventario utilizando Broadcaster for Integrations para notificar al mercado externo'
+title: "Fallo en la actualización del inventario utilizando Broadcaster for Integrations para notificar al mercado externo"
 id: 25IVNGiJJYIl8Ppb3UuNqo
 status: PUBLISHED
 createdAt: 2022-03-24T19:30:24.948Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: inventory-update-failure-using-broadcaster-for-integrations-to-notify-external-marketplace
+slugEN: fallo-en-la-actualizacion-del-inventario-utilizando-broadcaster-for-integrations-para-notificar-al-mercado-externo
 locale: es
 kiStatus: Fixed
 internalReference: 549645
@@ -18,7 +18,9 @@ internalReference: 549645
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

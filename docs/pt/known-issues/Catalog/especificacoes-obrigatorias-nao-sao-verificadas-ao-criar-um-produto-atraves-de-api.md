@@ -1,5 +1,5 @@
 ---
-title: 'Especificações obrigatórias não são verificadas ao criar um produto através de API'
+title: "Especificações obrigatórias não são verificadas ao criar um produto através de API"
 id: 2s4WhYOfIRDcwuXyUp9mtK
 status: PUBLISHED
 createdAt: 2022-02-10T21:44:57.094Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: mandatory-specifications-are-not-verified-when-creating-a-product-through-api
+slugEN: especificacoes-obrigatorias-nao-sao-verificadas-ao-criar-um-produto-atraves-de-api
 locale: pt
 kiStatus: Backlog
 internalReference: 522293
@@ -18,7 +18,9 @@ internalReference: 522293
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Os produtos com especificações obrigatórias não devem estar ativos se pelo menos uma dessas especificações não for preenchida ou verificada.

@@ -1,5 +1,5 @@
 ---
-title: 'Os artigos de presente lançam uma exceção genérica se não tiver preço'
+title: "Os artigos de presente lançam uma exceção genérica se não tiver preço"
 id: 7Jw1Nihqp3Sg2ecg7R9IEt
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:18.546Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: gift-items-throws-a-generic-exception-if-it-has-no-price
+slugEN: os-artigos-de-presente-lancam-uma-excecao-generica-se-nao-tiver-preco
 locale: pt
 kiStatus: No Fix
 internalReference: 510490
@@ -18,7 +18,9 @@ internalReference: 510490
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A seleção de um item de presente no carrinho lançará uma exceção genérica se ele não tiver preço, especialmente se a loja utilizar um serviço de impostos externos. O cliente não pode ir em frente ao selecioná-lo.

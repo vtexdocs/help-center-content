@@ -1,5 +1,5 @@
 ---
-title: "Product Insert/Update API allows '\n' in the textLink field."
+title: 'Product Insert/Update API allows "\n" in the textLink field.'
 id: 5TfUw5tTxBEu9HkL3ypBKw
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.325Z

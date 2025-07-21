@@ -1,5 +1,5 @@
 ---
-title: 'Tags title e description são ignoradas em template estáticos'
+title: "Tags title e description são ignoradas em template estáticos"
 id: 2ElYglcUPOQieoUUG6akqo
 status: PUBLISHED
 createdAt: 2017-09-05T20:55:36.892Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
-slugEN: tags-title-and-description-are-ignored-in-static-template
+slugEN: tags-title-e-description-sao-ignoradas-em-template-estaticos
 locale: pt
 kiStatus: Backlog
 internalReference: 

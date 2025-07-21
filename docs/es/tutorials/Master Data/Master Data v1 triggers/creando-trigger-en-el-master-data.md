@@ -15,7 +15,9 @@ legacySlug: creando-trigger-en-el-master-data
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
->ℹ️ Este artículo hace referencia a Master Data v1. Si deseas utilizar Master Data v2, consulta los pasos de la guía [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
+<div class="alert alert-info">
+  <p>Este artículo hace referencia a Master Data v1. Si deseas utilizar Master Data v2, consulta los pasos de la guía <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
+</div>
 
 Conceptualmente, un trigger es un recurso de programación que ejecuta una acción específica siempre que se produce un evento asociado. En Master Data, un trigger es la configuración de uno o varios eventos disparadores que se activan cuando se produce una determinada situación, en función de diversas variables.
 
@@ -84,7 +86,7 @@ Sigue los pasos a continuación para crear un trigger en Master Data v1:
 2. Haz clic en la pestaña **Trigger**.
 3. Haz clic en el botón `Agregar`.
 4. Ingresa el **Nombre** del trigger.
-5. Selecciona la [entidad de datos](https://help.vtex.com/es/tutorial/entidad-de-datos--tutorials_1265/ "entidad de datos") que activará la acción del trigger.
+5. Selecciona la [entidad de datos](/es/tutorial/entidad-de-datos--tutorials_1265/ "entidad de datos") que activará la acción del trigger.
 
    Una vez seleccionada la entidad de datos se mostrarán los demás campos de configuración.
 7. Selecciona un status para el trigger, que puede ser **Activado** o **Desactivado**.
@@ -121,7 +123,9 @@ Aquí debes definir las condiciones que activarán el evento o eventos configura
 
    ![filters-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20triggers/creando-trigger-en-el-master-data_2.png)
 
->ℹ️ Master Data v1 no permite la configuración de reintentos de trigger, a diferencia de Master Data v2.
+<div class="alert alert-info">
+  <p>Master Data v1 no permite la configuración de reintentos de trigger, a diferencia de Master Data v2.</p>
+</div>
 
 ### Programar
 
@@ -165,4 +169,4 @@ Los eventos se activarán cuando el registro no cumpla los filtros adicionales d
 
 ## Ejemplos
 
-- [Configurar carrito abandonado](https://help.vtex.com/es/tutorial/configurar-carrito-abandonado--tutorials_740)
+- [Configurar carrito abandonado](/es/tutorial/configurar-carrito-abandonado--tutorials_740)

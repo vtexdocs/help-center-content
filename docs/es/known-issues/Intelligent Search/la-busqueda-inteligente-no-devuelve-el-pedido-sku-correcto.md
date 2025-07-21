@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda inteligente no devuelve el pedido SKU correcto'
+title: "La búsqueda inteligente no devuelve el pedido SKU correcto"
 id: 6gR3dsK9CFxfwss6Am89wA
 status: PUBLISHED
 createdAt: 2022-11-07T15:09:48.448Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: intelligent-search-not-returning-correct-sku-order
+slugEN: la-busqueda-inteligente-no-devuelve-el-pedido-sku-correcto
 locale: es
 kiStatus: Fixed
 internalReference: 677937
@@ -18,7 +18,9 @@ internalReference: 677937
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 La API de búsqueda inteligente no devuelve el orden esperado de las variaciones de SKU para un producto en la búsqueda y las estanterías

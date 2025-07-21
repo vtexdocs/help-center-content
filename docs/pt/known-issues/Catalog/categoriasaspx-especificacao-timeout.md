@@ -1,5 +1,5 @@
 ---
-title: 'Categorias.aspx Especificação Timeout'
+title: "Categorias.aspx Especificação Timeout"
 id: 2HNWe5x0VvSe49G88X2y4Y
 status: PUBLISHED
 createdAt: 2022-02-25T12:33:15.024Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: categoriesaspx-specification-timeout
+slugEN: categoriasaspx-especificacao-timeout
 locale: pt
 kiStatus: Backlog
 internalReference: 433664
@@ -18,7 +18,9 @@ internalReference: 433664
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Não há limite para o registro dos campos de especificação, o que pode gerar timeouts na administração do catálogo.

@@ -14,7 +14,7 @@ trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-com-o-carrefour
 ---
 
-Primeiramente, você deve [cadastrar seus produtos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) com as suas principais [especificações](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) na plataforma VTEX. 
+Primeiramente, você deve [cadastrar seus produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) com as suas principais [especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) na plataforma VTEX. 
 
 As especificações do produto serão necessárias para que o suporte do Carrefour Marketplace consiga selecionar a categoria mais adequada para o seu produto. O Carrefour Marketplace só aceita 3 tipos de especificações: **Tamanho**, **Cor** e **Voltagem**.
 

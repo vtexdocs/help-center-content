@@ -1,5 +1,5 @@
 ---
-title: ""Let me know' email is sent even when the product is not available for the website's trade policy"
+title: "Let me know\" email is sent even when the product is not available for the website's trade policy"
 id: 577r3i32P5Yv9QIfVR5AYP
 status: PUBLISHED
 createdAt: 2021-02-22T20:44:52.444Z

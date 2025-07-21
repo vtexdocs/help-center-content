@@ -23,7 +23,7 @@ Tenha um atendimento sem filas e evite que o seu cliente espere horas para ser a
 
 Para começar a configuração, você deve ter criado anteriormente os links da sequência de atendimento, ou o link que deseja utilizar no seu atendimento.
 
-[Dúvidas sobre como criar os links?](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
+[Dúvidas sobre como criar os links?](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
 
 Para configurar o Widget, acesse o menu **Atrair > Widget**:
 

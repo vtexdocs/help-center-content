@@ -1,5 +1,5 @@
 ---
-title: 'el evento view_cart sólo se recibe en el dataLayer cada dos por tres'
+title: "el evento view_cart sólo se recibe en el dataLayer cada dos por tres"
 id: 73fimN0XczGQch20BhGAOo
 status: PUBLISHED
 createdAt: 2024-06-12T12:58:59.438Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: viewcart-event-is-only-received-on-the-datalayer-every-other-time
+slugEN: el-evento-viewcart-solo-se-recibe-en-el-datalayer-cada-dos-por-tres
 locale: es
 kiStatus: Backlog
 internalReference: 1048306
@@ -18,7 +18,9 @@ internalReference: 1048306
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 El evento view_cart sólo se recibe en el dataLayer cada dos por tres.

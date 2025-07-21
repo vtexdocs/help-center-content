@@ -1,5 +1,5 @@
 ---
-title: 'O seletor de componentes do vendedor pode apresentar inconsistência nos preços de entrega/remessa'
+title: "O seletor de componentes do vendedor pode apresentar inconsistência nos preços de entrega/remessa"
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: component-seller-selector-may-present-inconsistency-in-deliveryshipping-prices
+slugEN: o-seletor-de-componentes-do-vendedor-pode-apresentar-inconsistencia-nos-precos-de-entregaremessa
 locale: pt
 kiStatus: No Fix
 internalReference: 658452
@@ -18,7 +18,9 @@ internalReference: 658452
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O componente Seletor do Vendedor apresenta inconsistência nos preços de entrega/remessa com base no valor do pedido.

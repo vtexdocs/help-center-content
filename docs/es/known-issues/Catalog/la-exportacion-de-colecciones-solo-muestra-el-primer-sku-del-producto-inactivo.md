@@ -1,5 +1,5 @@
 ---
-title: 'La exportación de colecciones sólo muestra el primer SKU del producto inactivo'
+title: "La exportación de colecciones sólo muestra el primer SKU del producto inactivo"
 id: 7FegROKSwxpadN5NYVFR8M
 status: PUBLISHED
 createdAt: 2024-05-28T19:56:23.549Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-export-only-shows-1st-sku-of-inactive-product
+slugEN: la-exportacion-de-colecciones-solo-muestra-el-primer-sku-del-producto-inactivo
 locale: es
 kiStatus: Backlog
 internalReference: 1040753
@@ -18,7 +18,9 @@ internalReference: 1040753
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Cuando se utiliza el módulo de colecciones y se intenta exportar registros, si el producto listado en una colección dada tiene todos sus skus configurados como inactivos, la hoja exportada sólo listará 1 de los skus del producto, en lugar de todos.

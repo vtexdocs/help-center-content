@@ -1,10 +1,10 @@
 ---
-title: 'Qué son utm_source, utm_campaign y utm_medium'
+title: 'Monitoreo de campañas con parámetros UTM'
 id: 2wTz7QJ8KUG6skGAoAQuii
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.092Z
-updatedAt: 2022-11-28T19:10:34.068Z
-publishedAt: 2022-11-28T19:10:34.068Z
+updatedAt: 2025-05-26T16:32:16.492Z
+publishedAt: 2025-05-26T16:32:16.492Z
 firstPublishedAt: 2019-01-24T22:11:24.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,31 +15,35 @@ legacySlug: que-son-utm-source-utm-campaign-y-utm-medium
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-UTMs (Urchin Tracking Modules) son parámetros de URL normalmente utilizados en contextos de marketing para rastrear el tráfico que llega a las páginas del sitio.
+Los parámetros UTM (Urchin Tracking Modules) son parámetros de URL comúnmente utilizados en contextos de marketing para monitorear el tráfico que llega a las páginas del sitio web.
 
-Usted puede, por ejemplo, definir que cada vez que un usuario llegue a su tienda desde un clic en un anuncio de Facebook, la URL será montada con el parámetro `utm_source=fb`.
+<div class="alert alert-info">
+  Los parámetros UTM no se crean ni se gestionan directamente en la plataforma VTEX; deben agregarse manualmente a las URLs de las campañas de marketing. El análisis de los datos de tráfico basado en estos parámetros debe realizarse con herramientas externas, como 
+  <a href="https://analytics.google.com/" target="_blank">Google Analytics</a>.
+</div>
 
-O bien, usted puede definir que, para esa misma UTM, determinada promoción será aplicada. Es decir, siempre que un cliente venga de Facebook, se aplicará una determinada promoción en el pedido hecho por él.
+Por ejemplo, al hacer clic en un anuncio de Facebook, se direccionará al usuario a una URL que contiene el parámetro `utm_source=fb`.
 
-Así, la plataforma le permite tomar ciertas acciones de acuerdo con el origen del tráfico de la tienda.
+También pueden asociarse promociones específicas a determinados valores de parámetros UTM. Es decir, cuando un cliente accede desde una URL con un parámetro UTM configurado, puede aplicarse una promoción a la compra que haya sido identificada por el marketplace.
 
->ℹ️ En la pantalla de **Gestión de pedidos**, sólo utm_source está [disponible para filtro](https://help.vtex.com/es/tutorial/como-filtrar-pedidos).
+### Tipos de parámetros UTM
+Se pueden utilizar tres tipos de parámetros UTM para monitorear el tráfico:
 
-### Tipos de UTM
+- **utm_source:** identifica el origen del tráfico, como un sitio web, anunciante o publicación.
+- **utm_medium:** especifica el medio de divulgación, como banner, CPC (costo por clic) o newsletter.
+- **utm_campaign:** define el nombre de la campaña, indicando el contexto de marketing, como Navidad, lanzamiento o promoción.
 
-Conceptualmente, VTEX trabaja con tres tipos de UTM:
-- __utm_source__: el origen del tráfico, es decir, de qué sitio, anunciante o publicación vino el usuario.
-- __utm_medium__: los medios de publicidad o marketing utilizados para llegar a su sitio (ejemplos: banner, cpc, newsletter).
-- __utm_campaign__: el nombre de la campaña que define determinado contexto de marketing (ejemplos: natal, lanzamiento, promo01).
+<div class="alert alert-info">
+  En la pantalla de gestión de pedidos, solo el parámetro <code>utm_source</code> está 
+  <a href="https://help.vtex.com/es/tutorial/como-filtrar-pedidos" target="_blank">disponible para filtrar pedidos</a>.
+</div>
 
-Pero usted puede utilizar estas UTMs de la manera que mejor se adapte a sus reglas de negocio.
+<div class="alert alert-danger">
+No utilices caracteres especiales en los valores de parámetros UTM, por ejemplo, `utm_source=#fb`. Solo se aceptan caracteres alfanuméricos, guiones y guiones bajos.
+</div>
 
-Por lo tanto, en la práctica, lo que importa es definir la acción correcta para los valores de estos parámetros.
-
->❗ Atención: caracteres **especiales no** deben utilizarse en UTMs. Estas variables solo funcionan correctamente en caso de que sean utilizados caracteres ** alfanuméricos, guiones y underscore **.
-
-Para obtener más información sobre problemas con la adición de UTM al carrito, vaya a [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
+Para saber más sobre problemas relacionados con la aplicación de parámetros UTM en el carrito, consulta el artículo [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Artículos relacionados
+- [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](/es/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
 
-- [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](/es/faq/que-son-las-utms-internas)

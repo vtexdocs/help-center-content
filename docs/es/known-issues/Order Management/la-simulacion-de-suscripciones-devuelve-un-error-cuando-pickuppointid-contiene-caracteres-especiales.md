@@ -1,5 +1,5 @@
 ---
-title: 'La simulación de suscripciones devuelve un error cuando PickupPointID contiene caracteres especiales'
+title: "La simulación de suscripciones devuelve un error cuando PickupPointID contiene caracteres especiales"
 id: aM2So6TmVffZ1ywtQsknS
 status: PUBLISHED
 createdAt: 2023-09-19T17:31:47.442Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: subscriptions-simulation-returned-error-when-pickuppointid-contains-special-characters
+slugEN: la-simulacion-de-suscripciones-devuelve-un-error-cuando-pickuppointid-contiene-caracteres-especiales
 locale: es
 kiStatus: No Fix
 internalReference: 903332
@@ -18,7 +18,9 @@ internalReference: 903332
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Para realizar un pedido de suscripción o actualizar una suscripción, el sistema de suscripción realiza una simulación, y en esta simulación utiliza los datos de entrega devueltos por el sistema logístico, y si dentro de estos datos hay un punto de recogida cuyo ID está subrayado, el sistema de suscripción no podrá elegir correctamente el ANS, generando así el error "AddressProvider inválido:...." en la simulación y en consecuencia no generará el pedido.

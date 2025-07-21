@@ -1,5 +1,5 @@
 ---
-title: "A pesquisa de televendas não aceita caracteres especiais além de '@'."
+title: 'A pesquisa de televendas não aceita caracteres especiais além de "@".'
 id: 5eTb6KlR07dOP06BGhovoL
 status: PUBLISHED
 createdAt: 2024-07-29T17:21:34.828Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: telesales-search-doesnt-accept-special-characters-aside-from
+slugEN: a-pesquisa-de-televendas-nao-aceita-caracteres-especiais-alem-de
 locale: pt
 kiStatus: Backlog
 internalReference: 1072418
@@ -18,7 +18,9 @@ internalReference: 1072418
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Atualmente, ao usar a caixa de pesquisa de televendas, um usuário pode se passar por comprador para ajudar nas compras e, para isso, é necessário inserir, na caixa de pesquisa nativa, o e-mail de quem será representado.

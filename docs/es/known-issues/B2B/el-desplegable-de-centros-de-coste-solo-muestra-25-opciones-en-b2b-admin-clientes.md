@@ -1,5 +1,5 @@
 ---
-title: 'El desplegable de centros de coste sólo muestra 25 opciones en B2B Admin Clientes'
+title: "El desplegable de centros de coste sólo muestra 25 opciones en B2B Admin Clientes"
 id: 1ynkpOppe8iqbwB3CF0euV
 status: PUBLISHED
 createdAt: 2023-10-17T23:11:29.713Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
-slugEN: cost-center-dropdown-shows-only-25-options-in-b2b-admin-customers
+slugEN: el-desplegable-de-centros-de-coste-solo-muestra-25-opciones-en-b2b-admin-clientes
 locale: es
 kiStatus: Fixed
 internalReference: 921115
@@ -18,7 +18,9 @@ internalReference: 921115
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al dar de alta un nuevo cliente mediante el Admin Clientes B2B, el desplegable del centro de coste sólo muestra 25 opciones.

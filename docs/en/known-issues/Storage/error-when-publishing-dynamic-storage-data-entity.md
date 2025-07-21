@@ -1,5 +1,5 @@
 ---
-title: 'Error when publishing dynamic storage data entity'
+title: "Error when publishing dynamic storage data entity"
 id: 1yNh5CV41vrrrU5F7Vj2tG
 status: PUBLISHED
 createdAt: 2023-10-04T16:33:03.051Z

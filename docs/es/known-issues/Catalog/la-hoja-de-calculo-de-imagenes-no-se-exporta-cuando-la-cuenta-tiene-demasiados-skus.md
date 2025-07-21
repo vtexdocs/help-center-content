@@ -1,5 +1,5 @@
 ---
-title: 'La hoja de cálculo de imágenes no se exporta cuando la cuenta tiene demasiados skus'
+title: "La hoja de cálculo de imágenes no se exporta cuando la cuenta tiene demasiados skus"
 id: 61QPFKVJfCSIMyX1iLuJbQ
 status: PUBLISHED
 createdAt: 2022-08-02T19:05:25.641Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: images-spreadsheet-not-exported-when-the-account-has-too-many-skus
+slugEN: la-hoja-de-calculo-de-imagenes-no-se-exporta-cuando-la-cuenta-tiene-demasiados-skus
 locale: es
 kiStatus: Backlog
 internalReference: 623183
@@ -18,7 +18,9 @@ internalReference: 623183
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A pesar del mensaje de éxito en el Admin de que la hoja de cálculo de imágenes se está procesando y que pronto se enviará al correo electrónico, el informe nunca llega realmente.

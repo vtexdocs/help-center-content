@@ -1,5 +1,5 @@
 ---
-title: 'Produto indisponível mesmo com estoque na franquia'
+title: "Produto indisponível mesmo com estoque na franquia"
 id: 58KRJl4MFOaeb5KUYGmH8G
 status: PUBLISHED
 createdAt: 2022-01-25T12:17:33.680Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: product-unavailable-even-with-franchised-stock
+slugEN: produto-indisponivel-mesmo-com-estoque-na-franquia
 locale: pt
 kiStatus: Backlog
 internalReference: 404499
@@ -18,7 +18,9 @@ internalReference: 404499
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Se o produto estiver fora de estoque no mercado, em qualquer outro vendedor regular e a bandeira **show out of stock** estiver desmarcada, o produto será exibido fora de estoque no portal, mesmo que tenha estoque em contas de franquias. É possível adicionar o produto ao carrinho.

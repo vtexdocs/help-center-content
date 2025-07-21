@@ -15,9 +15,11 @@ legacySlug: aplicativo-affiliates-program
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
->ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), e não está disponível para lojas que utilizam [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
+<div class = "alert alert-info">
+O <b>Affiliates Program</b> é um aplicativo compatível apenas com lojas <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, e não está disponível para lojas que utilizam <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a> ou <a href="https://faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
+</div>
 
-No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
+No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
 
 O aplicativo **Affiliates Program **cria uma URL específica da sua loja VTEX para os seus [afiliados cadastrados](#adicionar-afiliado). Quando o afiliado compartilha sua URL com um cliente e este realiza uma compra pelo link, o afiliado recebe uma comissão sobre a venda.
 
@@ -46,7 +48,9 @@ A **página de perfil do afiliado** é uma interface pela qual ele pode acompanh
 
 A **página de cadastro** permite que os próprios interessados em se tornar afiliados preencham seus dados para solicitar registro junto a sua loja VTEX.
 
->ℹ️ As páginas dos afiliados são customizáveis. Para mais informações, veja o guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app).
+<div class = "alert alert-info">
+As páginas dos afiliados são customizáveis. Para mais informações, veja o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates Program app</a>.
+</div>
 
 ### Páginas no Admin VTEX
 
@@ -80,7 +84,9 @@ Para criar um novo afiliado, clique no botão `Adicionar afiliado`, preencha os 
 
 Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou_ Telefone. _
 
->⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
+<div class="alert alert-warning">
+No aplicativo <b>Affiliates Program</b>, além do termo afiliado ser diferente do <a href="https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">conceito usual de afiliado na VTEX</a>, o <code>ID do Afiliado</code> também não corresponde ao código padrão. No aplicativo, o <code>ID do Afiliado</code> é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
+</div>
 
 ### Filtrar afiliados
 
@@ -123,7 +129,9 @@ No topo da página, você visualiza as seguintes métricas sobre os pedidos real
 - **Total do pedido:** soma dos valores dos pedidos, feita a partir do preço dos itens e sem incluir os custos de envio.
 - **Total da comissão do pedido:**  soma dos valores das comissões dos afiliados sobre os pedidos.
 
->ℹ️ Para acompanhar o fluxo de um pedido, clique sobre o `ID do pedido`. Desta forma, você é redirecionado para o Admin VTEX em **Pedidos > Todos os pedidos**.
+<div class = "alert alert-info">
+Para acompanhar o fluxo de um pedido, clique sobre o `ID do pedido`. Desta forma, você é redirecionado para o Admin VTEX em <b>Pedidos > Todos os pedidos</b>.
+</div>
 
 ### Pesquisar pedidos
 
@@ -133,20 +141,22 @@ Para pesquisar um pedido, digite na barra de busca o `ID do afiliado` relacionad
 
 É possível filtrar a busca de pedidos pelos seguintes critérios:
 
-- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
 - **Período de criação do pedido:** filtre a partir de um intervalo de dias e horas durante o qual os pedidos foram criados. Para isso, no campo `De` determine uma data de início, e no campo `Até` coloque a data final.
 
 ### Exportar lista de pedidos
 
 O aplicativo **Affiliates Program** permite que você exporte uma lista com extensão CSV dos pedidos de afiliados. 
 
->⚠️ Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates).
+<div class="alert alert-warning">
+Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a>.
+</div>
 
 Após a configuração, para exportar a lista basta clicar em **Exportar**, na página **Gerenciamento de Pedidos**. A seguinte mensagem de confirmação deve aparecer:
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo gerado será enviado para o email do [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
+O arquivo gerado será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ### Visualizar detalhes do pedido
 
@@ -166,7 +176,7 @@ A página **Gerenciamento de comissões** permite realizar as seguintes ações:
 
 ### Pesquisar comissões
 
-Para pesquisar entre as comissões de pedidos, na barra de busca da aba **Comissões cadastradas**, digite o `ID do SKU` do pedido, ou seja, o número que [identifica o SKU](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
+Para pesquisar entre as comissões de pedidos, na barra de busca da aba **Comissões cadastradas**, digite o `ID do SKU` do pedido, ou seja, o número que [identifica o SKU](/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
 
 ### Editar comissões
 
@@ -187,9 +197,11 @@ Para exportar uma planilha de comissionamento por SKU com extensão CSV, no topo
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo será enviado para o email do [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
+O arquivo será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
 
->ℹ️ O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
+<div class = "alert alert-info">
+O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
+</div>
 
 ### Importar comissões
 
@@ -205,7 +217,9 @@ Confira se a seguinte mensagem aparece:
 
 O nome do arquivo adicionado vai aparecer próximo ao campo `Última importação`.
 
->ℹ️ É possível identificar a data de importação e o usuário que executou a ação, passando o cursor sobre o símbolo `?` em `Última importação`.
+<div class = "alert alert-info">
+É possível identificar a data de importação e o usuário que executou a ação, passando o cursor sobre o símbolo `?` em `Última importação`.
+</div>
 
 ### Fazer o download da última importação
 

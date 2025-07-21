@@ -1,5 +1,5 @@
 ---
-title: 'Tempo limite Geração de chaves internas do aplicativo'
+title: "Tempo limite Geração de chaves internas do aplicativo"
 id: 11U62yvD8i6Mp79rUC38FU
 status: PUBLISHED
 createdAt: 2024-05-08T11:28:41.002Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: timeout-generating-internal-application-keys
+slugEN: tempo-limite-geracao-de-chaves-internas-do-aplicativo
 locale: pt
 kiStatus: Fixed
 internalReference: 1029425
@@ -18,7 +18,9 @@ internalReference: 1029425
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

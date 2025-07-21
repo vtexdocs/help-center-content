@@ -26,7 +26,9 @@ Es para atender a estos escenarios que ofrecemos los tipos de promociones que se
 - Compre y gane
 - Límite de ítems con promoción en el carrito 
 
->ℹ️ Las pantallas de configuración de todas las promociones tienen las mismas secciones principales explicadas en el artículo sobre Promoción Regular. Las opciones presentes en estas secciones se repiten en todas las promociones, con excepción de algunas configuraciones específicas de condiciones para aplicar la promoción. Por lo tanto, en este artículo nos enfocamos en estas configuraciones específicas.
+<div class="alert alert-info">
+Las pantallas de configuración de todas las promociones tienen las mismas secciones principales explicadas en el artículo sobre Promoción Regular. Las opciones presentes en estas secciones se repiten en todas las promociones, con excepción de algunas configuraciones específicas de condiciones para aplicar la promoción. Por lo tanto, en este artículo nos enfocamos en estas configuraciones específicas.
+</div>
 
 ### Comprar Juntos
 
@@ -85,9 +87,11 @@ Para entender la promoción Compre y Gane con más detalle, vea el artículo  <a
 
 Esta configuración define cuántos ítems del carrito serán objeto de la promoción.
 
->⚠️ Es importante señalar que esta posibilidad es **válida apenas para una promoción regular con descuento porcentual.**
+<div class="alert alert-warning">
+Es importante señalar que esta posibilidad es <strong>válida apenas para una promoción regular con descuento porcentual.</strong>
+</div>
 
-Después de rellenar todos [los campos de una promoción regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
+Después de rellenar todos [los campos de una promoción regular](/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
 
 ![Limite itens - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/promotions/promociones-para-escenarios-especificos_5.png)
 

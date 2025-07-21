@@ -1,5 +1,5 @@
 ---
-title: "Valor divergente ao misturar a configuração 'paymentSystemToCheckFirstInstallment' e itens divididos"
+title: 'Valor divergente ao misturar a configuração "paymentSystemToCheckFirstInstallment" e itens divididos'
 id: 3h2o69kTBqFdQlzhED2kMN
 status: PUBLISHED
 createdAt: 2023-03-07T18:35:31.215Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: divergent-value-while-mixing-paymentsystemtocheckfirstinstallment-configuration-and-splitted-items
+slugEN: valor-divergente-ao-misturar-a-configuracao-paymentsystemtocheckfirstinstallment-e-itens-divididos
 locale: pt
 kiStatus: Backlog
 internalReference: 766454
@@ -18,7 +18,9 @@ internalReference: 766454
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tiver configurado "paymentSystemToCheckFirstInstallment" em OrderForm Configuration, o cálculo de checkout enviará dois pedidos ao módulo de promoções. Se houver itens divididos no carrinho (por exemplo, Mais para menos promoção), a primeira solicitação enviará os itens corretamente, mas a segunda enviará os itens divididos com base na aplicação da promoção.

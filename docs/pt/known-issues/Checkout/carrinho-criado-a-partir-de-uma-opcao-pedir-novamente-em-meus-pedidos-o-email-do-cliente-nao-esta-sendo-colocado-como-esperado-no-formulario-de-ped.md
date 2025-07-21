@@ -1,5 +1,5 @@
 ---
-title: "Carrinho criado a partir de uma opção 'pedir novamente' em Meus pedidos, o e-mail do cliente não está sendo colocado como esperado no formulário de pedido"
+title: 'Carrinho criado a partir de uma opção "pedir novamente" em Meus pedidos, o e-mail do cliente não está sendo colocado como esperado no formulário de pedido'
 id: 6dDhkaIhquOqaDuNkVZuln
 status: PUBLISHED
 createdAt: 2023-12-04T22:41:21.385Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: cart-created-from-an-order-again-option-in-my-orders-the-customers-email-is-not-being-placed-as-expected-in-the-orderform
+slugEN: carrinho-criado-a-partir-de-uma-opcao-pedir-novamente-em-meus-pedidos-o-email-do-cliente-nao-esta-sendo-colocado-como-esperado-no-formulario-de-pedido
 locale: pt
 kiStatus: Backlog
 internalReference: 947563
@@ -18,7 +18,9 @@ internalReference: 947563
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

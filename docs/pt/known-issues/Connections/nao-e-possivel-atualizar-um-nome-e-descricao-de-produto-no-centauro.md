@@ -1,5 +1,5 @@
 ---
-title: 'não é possível atualizar um nome e descrição de produto no Centauro.'
+title: "não é possível atualizar um nome e descrição de produto no Centauro."
 id: 6gWGtNPsyce5OToAAn7kbh
 status: PUBLISHED
 createdAt: 2022-03-16T18:37:12.297Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: ts-not-possible-to-update-a-product-name-and-description-on-centauro
+slugEN: nao-e-possivel-atualizar-um-nome-e-descricao-de-produto-no-centauro
 locale: pt
 kiStatus: Backlog
 internalReference: 544084
@@ -18,7 +18,9 @@ internalReference: 544084
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

@@ -14,11 +14,11 @@ locale: pt
 legacySlug: como-sincronizar-duas-promocoes-ao-mesmo-cupom
 ---
 
-Caso seja necessário, é possível gerar um [cupom](https://help.vtex.com/pt/tutorial/como-criar-cupom "cupom") de desconto com o valor igual ao total de uma compra. Assim, o cliente pode realizar um novo pedido sem pagar nada a mais por isso. 
+Caso seja necessário, é possível gerar um [cupom](/pt/tutorial/como-criar-cupom "cupom") de desconto com o valor igual ao total de uma compra. Assim, o cliente pode realizar um novo pedido sem pagar nada a mais por isso. 
 
 O mais comum é que esse valor seja relativo a duas quantias: o preço nominal do produto e o frete. 
 
-Por conta disso, é preciso criar duas [promoções regulares](https://help.vtex.com/pt/tutorial/promocao-regular "promoções") relacionadas ao mesmo cupom:
+Por conta disso, é preciso criar duas [promoções regulares](/pt/tutorial/promocao-regular "promoções") relacionadas ao mesmo cupom:
 
 - Uma promoção de frete grátis.
 - Uma promoção de desconto de valor nominal.

@@ -1,5 +1,5 @@
 ---
-title: 'Palabras sustitutas de la categoría no se indexan'
+title: "Palabras sustitutas de la categoría no se indexan"
 id: eo82wgmZi0MQOawSoysGw
 status: PUBLISHED
 createdAt: 2017-09-19T21:21:14.326Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: category-substitute-words-are-not-being-indexed
+slugEN: palabras-sustitutas-de-la-categoria-no-se-indexan
 locale: es
 kiStatus: Backlog
 internalReference: 

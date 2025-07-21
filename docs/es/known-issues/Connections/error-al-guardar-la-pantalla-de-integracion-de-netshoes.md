@@ -1,5 +1,5 @@
 ---
-title: 'Error al guardar la pantalla de integración de Netshoes'
+title: "Error al guardar la pantalla de integración de Netshoes"
 id: 4amOxIQgKqzCvpuzgAeYE5
 status: PUBLISHED
 createdAt: 2022-06-14T11:55:35.684Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: error-saving-netshoes-integration-card
+slugEN: error-al-guardar-la-pantalla-de-integracion-de-netshoes
 locale: es
 kiStatus: Backlog
 internalReference: 591921
@@ -18,7 +18,9 @@ internalReference: 591921
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

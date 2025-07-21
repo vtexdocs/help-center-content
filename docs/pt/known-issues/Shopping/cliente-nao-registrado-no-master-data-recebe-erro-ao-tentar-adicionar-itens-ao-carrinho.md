@@ -1,5 +1,5 @@
 ---
-title: 'Cliente não registrado no Master Data recebe erro ao tentar adicionar itens ao carrinho'
+title: "Cliente não registrado no Master Data recebe erro ao tentar adicionar itens ao carrinho"
 id: 2yHMODB4jSeI2Awy8emEmM
 status: PUBLISHED
 createdAt: 2018-05-11T18:33:43.880Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: customer-not-registered-in-master-data-receives-error-when-trying-to-add-items-to-cart
+slugEN: cliente-nao-registrado-no-master-data-recebe-erro-ao-tentar-adicionar-itens-ao-carrinho
 locale: pt
 kiStatus: Backlog
 internalReference: 

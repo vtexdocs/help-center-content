@@ -15,15 +15,17 @@ legacySlug: criando-grupo-de-categoria
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-Grupo é o nome dado a um conjunto de [especificações (campos)](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) relacionados aos produtos ou SKUs de determinada [categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
+Grupo é o nome dado a um conjunto de [especificações (campos)](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) relacionados aos produtos ou SKUs de determinada [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
 
-Na VTEX, uma especificação sempre faz parte de um grupo de especificações, que é associado a uma categoria. Por isso, para criar uma [especificação de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) ou uma [especificação de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
+Na VTEX, uma especificação sempre faz parte de um grupo de especificações, que é associado a uma categoria. Por isso, para criar uma [especificação de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) ou uma [especificação de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
 Neste artigo, explicamos como funciona a herança de especificações e o cadastro de grupos de especificações no Admin VTEX. Confira as seguintes seções:
 - [Herança de especificações](#heranca-de-especificacoes)
 - [Passo a passo no Admin VTEX](#passo-a-passo-no-admin-vtex)
 
->ℹ️ Para criar um grupo de especificações utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
+<div class = "alert alert-info">
+  <p>Para criar um grupo de especificações utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
+</div>
 
 ## Herança de especificações
 
@@ -50,7 +52,7 @@ Siga as instruções abaixo para criar um grupo de especificações:
 Você pode criar quantos campos achar necessário dentro de um grupo. Os campos criados podem ser definidos como filtros em todos os níveis de navegação na sua loja.
 
 ## Saiba mais
-- [Categorias](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Especificações de produto e de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-- [Cadastrar especificações ou campos de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+- [Categorias](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+- [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+- [Cadastrar especificações ou campos de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)

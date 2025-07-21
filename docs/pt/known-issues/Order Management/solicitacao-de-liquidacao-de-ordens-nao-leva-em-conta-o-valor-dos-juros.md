@@ -1,5 +1,5 @@
 ---
-title: 'Solicitação de liquidação de ordens não leva em conta o valor dos juros'
+title: "Solicitação de liquidação de ordens não leva em conta o valor dos juros"
 id: 149FG86c1f7sok1NJ7PWAQ
 status: PUBLISHED
 createdAt: 2024-11-05T17:51:29.058Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: request-for-settlement-of-orders-does-not-account-for-the-value-of-interest
+slugEN: solicitacao-de-liquidacao-de-ordens-nao-leva-em-conta-o-valor-dos-juros
 locale: pt
 kiStatus: Backlog
 internalReference: 1130035
@@ -18,7 +18,9 @@ internalReference: 1130035
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando uma ordem tem juros aplicados, o valor total da transação acaba sendo maior do que o valor original da ordem. Entretanto, durante o processo de envio da solicitação de liquidação do sistema de pedidos para o gateway de pagamento, o sistema envia apenas o valor do pedido, sem levar em conta os juros, o que resulta em uma solicitação de liquidação com um valor inferior ao valor total da transação, o que pode impedir que a transação seja completamente capturada.

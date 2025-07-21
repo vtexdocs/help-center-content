@@ -19,11 +19,13 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
->ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+<div class="alert alert-info">
+Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
+</div>
 
 This article will explain how to associate the Device Fingerprint feature with the PayU affiliation.
 
->ℹ️ The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.
+<div class="alert alert-info">The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.</div>
 
 1. Login on http://www.google.com/tagmanager/ for the stored to be set up;
 2. Enter the tags section to set up the device session id;
@@ -91,7 +93,7 @@ Once the tag has been set up, it is necessary to save the JS captured from the c
 
 ![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-set-up-fingerprint-for-payu_9.png)
 
-__Attachment__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Attachment__: [md5.js](https://assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
 ### Validation
 

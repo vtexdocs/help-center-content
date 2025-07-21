@@ -1,5 +1,5 @@
 ---
-title: 'Collections named with special characters cannot be exported'
+title: "Collections named with special characters cannot be exported"
 id: 516zuwek2Gfwd0U99si2XU
 status: PUBLISHED
 createdAt: 2023-08-22T12:46:46.230Z

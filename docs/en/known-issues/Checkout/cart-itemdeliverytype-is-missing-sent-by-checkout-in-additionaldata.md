@@ -1,5 +1,5 @@
 ---
-title: 'cart item.deliveryType is missing sent by checkout in AdditionalData'
+title: "cart item.deliveryType is missing sent by checkout in AdditionalData"
 id: lV8VxXUPOzO9cSMgNV4fj
 status: PUBLISHED
 createdAt: 2024-03-19T12:59:17.599Z

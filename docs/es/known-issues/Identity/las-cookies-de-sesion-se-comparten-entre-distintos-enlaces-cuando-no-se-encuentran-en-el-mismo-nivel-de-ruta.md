@@ -1,5 +1,5 @@
 ---
-title: 'Las cookies de sesión se comparten entre distintos enlaces cuando no se encuentran en el mismo nivel de ruta'
+title: "Las cookies de sesión se comparten entre distintos enlaces cuando no se encuentran en el mismo nivel de ruta"
 id: 4pKeUI7qtdByaQowYs19Et
 status: PUBLISHED
 createdAt: 2023-10-25T01:06:04.190Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
-slugEN: session-cookies-are-shared-between-different-bindings-when-they-are-not-in-the-same-path-level
+slugEN: las-cookies-de-sesion-se-comparten-entre-distintos-enlaces-cuando-no-se-encuentran-en-el-mismo-nivel-de-ruta
 locale: es
 kiStatus: No Fix
 internalReference: 925071
@@ -18,7 +18,9 @@ internalReference: 925071
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Las cookies para la información de sesión son exclusivas de la vinculación de cuenta específica, pero las vinculaciones que no están en el mismo nivel de ruta pueden recibir cookies de niveles inferiores, lo que provoca problemas.

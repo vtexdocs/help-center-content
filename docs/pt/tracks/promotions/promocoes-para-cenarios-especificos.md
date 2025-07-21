@@ -26,7 +26,9 @@ No entanto, às vezes sua loja pode ter a necessidade de criar promoções para 
 - Compre e Ganhe.
 - Limite de itens com promoção no carrinho.
 
->ℹ️ As telas de configuração de todas as promoções apresentam as mesmas seções principais que as explicadas no artigo sobre Promoção Regular. As opções presentes nessas seções se repetem em todas as promoções, à exceção de algumas configurações específicas de condições para aplicação da promoção. Por isso, neste artigo nos concentramos nessas configurações específicas.
+<div class="alert alert-info">
+As telas de configuração de todas as promoções apresentam as mesmas seções principais que as explicadas no artigo sobre Promoção Regular. As opções presentes nessas seções se repetem em todas as promoções, à exceção de algumas configurações específicas de condições para aplicação da promoção. Por isso, neste artigo nos concentramos nessas configurações específicas.
+</div>
 
 ### Compre Junto
 
@@ -40,7 +42,7 @@ Você pode, então, definir um valor de desconto para a cada uma dessas listas. 
 
 Dois exemplos desse tipo de promoção seriam "Compre uma calça e ganhe 10% na compra de um cinto" e "Compre um par de tênis + um par de meias e ganhe 15% de desconto".
 
-Para entender a promoção Compre Junto em mais detalhes, veja o artigo [Criar promoção Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323).
+Para entender a promoção Compre Junto em mais detalhes, veja o artigo [Criar promoção Compre Junto](/pt/tutorial/compre-junto--tutorials_323).
 
 ### Leve Mais por Menos
 
@@ -54,7 +56,7 @@ Por exemplo:
 - A cada `3` produtos, o cliente levará `1` produto `grátis`.
 - A cada `5` produtos, o cliente levará `2` produtos `com desconto` de `30%`.
 
-Para entender a promoção Leve Mais por Menos em mais detalhes, veja o artigo [Criar promoção Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325).
+Para entender a promoção Leve Mais por Menos em mais detalhes, veja o artigo [Criar promoção Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325).
 
 ### Desconto Progressivo
 
@@ -68,7 +70,7 @@ Para continuar a progressão do desconto, clique no botão de "+". Uma nova linh
 
 ![5 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/promotions/promocoes-para-cenarios-especificos_3.png)
 
-Para entender a promoção de Desconto Progressivo em mais detalhes, veja o artigo [Como funciona o desconto progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324).
+Para entender a promoção de Desconto Progressivo em mais detalhes, veja o artigo [Como funciona o desconto progressivo](/pt/tutorial/desconto-progressivo--tutorials_324).
 
 ### Compre e Ganhe
 
@@ -78,15 +80,17 @@ O desconto aplicado (frete grátis ou brinde) deve ser definido nos dados gerais
 
 ![5 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/promotions/promocoes-para-cenarios-especificos_4.png)
 
-Para entender a promoção do tipo Compre e Ganhe em mais detalhes, veja o artigo [Como funciona a promoção Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322).
+Para entender a promoção do tipo Compre e Ganhe em mais detalhes, veja o artigo [Como funciona a promoção Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322).
 
 ### Limite de itens com promoção no carrinho
 
 Esta configuração define quantos itens do carrinho serão afetados pela promoção.
 
->⚠️ É importante ressaltar que essa possibilidade é **válida apenas para uma promoção regular com desconto percentual**.
+<div class="alert alert-warning">
+É importante ressaltar que essa possibilidade é <strong>válida apenas para uma promoção regular com desconto percentual</strong>.
+</div>
 
-Depois de preencher todos [os campos de uma promoção regular](https://help.vtex.com/pt/tutorial/regular-promotion--tutorials_327) com desconto percentual, você pode selecionar a opção __Definir quantidade máxima de itens afetados por carrinho__ na seção __Restrições e limites de uso__.
+Depois de preencher todos [os campos de uma promoção regular](/pt/tutorial/regular-promotion--tutorials_327) com desconto percentual, você pode selecionar a opção __Definir quantidade máxima de itens afetados por carrinho__ na seção __Restrições e limites de uso__.
 
 ![Limite itens - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/promotions/promocoes-para-cenarios-especificos_5.png)
 

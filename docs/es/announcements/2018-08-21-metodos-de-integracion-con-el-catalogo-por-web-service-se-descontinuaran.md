@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisES: 'En 29/10, vamos a descontinuar algunos métodos de Web Service para integración con el catálogo.'
 ---
 
->ℹ️ El cambio descrito aquí sólo tiene impacto en su operación si su tienda utiliza integración por **Web Service** y esa integración utiliza alguno de los métodos listados abajo. De lo contrario, **no** es necesario tomar ninguna acción.
+<div class = "alert alert-info">
+El cambio descrito aquí sólo tiene impacto en su operación si su tienda utiliza integración por <b>Web Service</b> y esa integración utiliza alguno de los métodos listados abajo. De lo contrario, <b>no</b> es necesario tomar ninguna acción.
+</div>
 
 A partir del día __29 de octubre__, VTEX va a descontinuar los siguientes métodos de integración por Web Service, con el objetivo de mejorar el desempeño de la plataforma.
 

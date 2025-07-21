@@ -19,7 +19,9 @@ Starting June 24<sup>th</sup> 2019, the following Fulfillment order statuses wil
 
 Fulfillment originated orders are those related to the delivery or pick-up stages of an order. We can associate orders who have this origin to the process that a seller undergoes to have an order delivered or picked-up.
 
->⚠️ Status of orders originating in a Marketplace will not be affected.
+<div class="alert alert-warning">
+Status of orders originating in a Marketplace will not be affected.
+</div>
 
 ## Why is VTEX taking this action
 

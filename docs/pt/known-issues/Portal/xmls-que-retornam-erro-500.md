@@ -1,5 +1,5 @@
 ---
-title: 'XMLs que retornam erro 500'
+title: "XMLs que retornam erro 500"
 id: 6L48cBRaKQmjAOnNza3aNA
 status: PUBLISHED
 createdAt: 2022-06-07T17:53:45.884Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: xmls-returning-500-error
+slugEN: xmls-que-retornam-erro-500
 locale: pt
 kiStatus: Backlog
 internalReference: 268042
@@ -18,7 +18,9 @@ internalReference: 268042
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Eventualmente, o XML pode retornar um erro 500, o que acontece principalmente em arquivos XML grandes.

@@ -1,5 +1,5 @@
 ---
-title: '[Revista Luiza] Ajustar especificación plaintext_description'
+title: "[Revista Luiza] Ajustar especificación plaintext_description"
 id: 71sePdd6o3q9gvQ1I4JwZl
 status: PUBLISHED
 createdAt: 2023-02-14T19:15:17.763Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magazine-luiza-adjust-plaintextdescription-specification
+slugEN: revista-luiza-ajustar-especificacion-plaintextdescription
 locale: es
 kiStatus: Backlog
 internalReference: 754022
@@ -18,7 +18,9 @@ internalReference: 754022
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

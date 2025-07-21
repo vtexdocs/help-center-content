@@ -1,5 +1,5 @@
 ---
-title: 'Repeated items in the purchase summary for carts with more than 20 items'
+title: "Repeated items in the purchase summary for carts with more than 20 items"
 id: 2k76x4aStel8e4ItTHfhof
 status: PUBLISHED
 createdAt: 2022-08-24T17:26:32.083Z

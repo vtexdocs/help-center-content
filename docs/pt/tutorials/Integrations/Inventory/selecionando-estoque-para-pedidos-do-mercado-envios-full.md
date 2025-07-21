@@ -17,7 +17,7 @@ subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 
 [Mercado Envios Full](https://envios.mercadolivre.com.br/mercado-envios-full) é um serviço oferecido pelo Mercado Livre no qual o estoque o envio de produtos ao consumidor final fica sob responsabilidade do Mercado Livre. Cada vez que uma venda é completada, os produtos comprados são separados, empacotados e enviados dentro de 24hs.
 
-É possível integrar esse serviço à sua loja através do [cadastro de um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque) dedicado. Essa integração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Livre Full é atualizada automaticamente conforme a venda é realizada.
+É possível integrar esse serviço à sua loja através do [cadastro de um estoque](/pt/tutorial/gerenciar-estoque) dedicado. Essa integração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Livre Full é atualizada automaticamente conforme a venda é realizada.
 
 ## Configurando o Mercado Envios Full
 

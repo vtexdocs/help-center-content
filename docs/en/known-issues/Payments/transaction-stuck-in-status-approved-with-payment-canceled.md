@@ -1,5 +1,5 @@
 ---
-title: 'Transaction stuck in status approved with payment canceled'
+title: "Transaction stuck in status approved with payment canceled"
 id: 5SwwnGi26tagIXuTmvToc
 status: PUBLISHED
 createdAt: 2024-06-07T14:21:22.809Z

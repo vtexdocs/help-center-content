@@ -35,10 +35,12 @@ Em seguida, você precisa configurar uma impressora conectada ao VTEX Sales App 
 Para fazer o pareamento com uma impressora, é necessário cumprir os pré-requisitos a seguir:
 
 * Utilizar um computador com sistema operacional Windows 7 ou superior.
-* Caso não tenha o VTEX Sales App em seu computador, instalar o aplicativo a partir do nosso guia de [Instalação](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
-* Obter um par de credenciais (AppKey e AppToken) com as devidas permissões de acesso. Leia o artigo [Chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.
+* Caso não tenha o VTEX Sales App em seu computador, instalar o aplicativo a partir do nosso guia de [Instalação](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
+* Obter um par de credenciais (AppKey e AppToken) com as devidas permissões de acesso. Leia o artigo [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.
 
->ℹ️ Nós recomendamos que o perfil de acesso relacionado a essas credenciais seja o **VTEX Sales App Sales Person**. Porém, um perfil com acesso a outros módulos do Admin, como o **Admin Super**, também pode ser utilizado.
+<div class="alert alert-info">
+<p>Nós recomendamos que o perfil de acesso relacionado a essas credenciais seja o <strong>VTEX Sales App Sales Person</strong>. Porém, um perfil com acesso a outros módulos do Admin, como o <strong>Admin Super</strong>, também pode ser utilizado.</p>
+</div>
 
 ### Passo a passo
 

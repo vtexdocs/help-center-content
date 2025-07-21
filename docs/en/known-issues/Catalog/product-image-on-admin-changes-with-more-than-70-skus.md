@@ -1,5 +1,5 @@
 ---
-title: 'Product Image on admin changes with more than 70 skus.'
+title: "Product Image on admin changes with more than 70 skus."
 id: 6EtUyiWzpm5moEN6hkY4B0
 status: PUBLISHED
 createdAt: 2024-03-21T15:18:20.218Z

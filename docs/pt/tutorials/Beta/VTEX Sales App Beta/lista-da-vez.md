@@ -15,7 +15,9 @@ legacySlug: lista-da-vez
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).  
+<div class="alert alert-info">
+  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
+</div>  
 
 O aplicativo **Lista da Vez** permite organizar a fila de atendimento dos vendedores e consultar campanhas, rankings e metas já cadastradas pela plataforma Indeva. Nele, é possível encontrar as seguintes abas:
 
@@ -59,7 +61,9 @@ Para encerrar o atendimento de um vendedor, clique no vendedor desejado ou arras
   - **Reserva de outro vendedor:** o atendimento estava reservado para outro vendedor.
 - **Múltiplos atendimentos:** o vendedor atendeu mais de um cliente durante um único atendimento. Nessa opção, é possível selecionar a quantidade de clientes atendidos.
 
->ℹ️ Os motivos de movimentação de vendedores podem ser customizados conforme a necessidade da loja. Para editar essas opções, entre em contato com o suporte da plataforma Indeva.
+<div class="alert alert-info">
+  <p>Os motivos de movimentação de vendedores podem ser customizados conforme a necessidade da loja. Para editar essas opções, entre em contato com o suporte da plataforma Indeva.</p>
+</div>
 
 Selecione a opção desejada e clique em `Concluir` para finalizar.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Error approving skus that were rejected or reviewed by Offer Quality'
+title: "Error approving skus that were rejected or reviewed by Offer Quality"
 id: 7fRMTxq7CFRkyZeK08AGIg
 status: PUBLISHED
 createdAt: 2023-11-23T13:46:30.453Z

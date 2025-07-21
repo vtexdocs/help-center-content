@@ -1,5 +1,5 @@
 ---
-title: 'No todos los skus se devuelven en la hoja de especificaciones del producto/sku'
+title: "No todos los skus se devuelven en la hoja de especificaciones del producto/sku"
 id: 3fo3A4mQ1YjyJH7yWETk8J
 status: PUBLISHED
 createdAt: 2022-08-31T20:34:22.708Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: not-all-skus-are-returned-on-the-productsku-specification-spreadsheet
+slugEN: no-todos-los-skus-se-devuelven-en-la-hoja-de-especificaciones-del-productosku
 locale: es
 kiStatus: Fixed
 internalReference: 649316
@@ -18,7 +18,9 @@ internalReference: 649316
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Este comportamiento ocurre cuando una categoría tiene muchas especificaciones y muchos skus. De esta manera, al exportar la hoja de cálculo eventualmente se va a alcanzar el límite de Excel (alrededor de 65k).

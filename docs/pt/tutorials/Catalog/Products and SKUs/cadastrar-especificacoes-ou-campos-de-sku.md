@@ -3,8 +3,8 @@ title: 'Cadastrar especificações ou campos de SKU'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-11-30T12:05:25.945Z
-publishedAt: 2023-11-30T12:05:25.945Z
+updatedAt: 2025-05-20T20:29:30.252Z
+publishedAt: 2025-05-20T20:29:30.252Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 A especificação de SKU é um campo obrigatório no cadastro de SKU onde se inserem as características específicas de cada variação do produto.
 
-Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Por isso, para criar uma especificação (campo) de SKU, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
+Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Por isso, para criar uma especificação (campo) de SKU, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
 Exemplo: uma loja no setor de moda pretende vender o produto **Camisa Polo** nos tamanhos P, M ou G. Na categoria **Camisetas**, o grupo de especificações pode receber o nome de **Características**. Nesse caso, o tamanho é a característica que vai diferenciar cada SKU. Portanto, o lojista deve criar um campo de SKU chamado **Tamanho**, com **P**, **M** e **G** como opções de valor.
 
@@ -33,7 +33,9 @@ Neste artigo, explicamos como funciona a herança das especificações que você
         * [Cadastro do SKU](#cadastro-do-sku)
         * [Planilha](#planilha)
 
->ℹ️ Para criar uma especificação de SKU utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
+<div class = "alert alert-info">
+  <p>Para criar uma especificação de SKU utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
+</div>
 
 ## Herança de especificações de SKU
 
@@ -47,13 +49,15 @@ Por se tratar de uma especificação de SKU, as informações selecionadas nessa
 
 ## Passo a passo no Admin VTEX
 
-Para que as especificações apareçam no cadastro de SKUs, além de ter criado anteriormente um [grupo de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), é preciso criar os campos de SKU e cadastrar seus valores. Em seguida, você poderá preencher essas especificações no cadastro dos SKUs.
+Para que as especificações apareçam no cadastro de SKUs, além de ter criado anteriormente um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), é preciso criar os campos de SKU e cadastrar seus valores. Em seguida, você poderá preencher essas especificações no cadastro dos SKUs.
 
 Veja o passo a passo completo nas seções a seguir.
 
 ### Criar um campo de SKU
 
->⚠️ Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.
+<div class = "alert alert-warning">
+  <p>Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.</p>
+</div>
 
 Para criar um campo de SKU, siga as instruções abaixo:
 
@@ -61,29 +65,36 @@ Para criar um campo de SKU, siga as instruções abaixo:
 2. Clique em **Categorias**.
 3. Clique na categoria associada ao grupo de especificações em que você deseja criar um campo de SKU.
 
-    >⚠️ Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.
+    <div class = "alert alert-warning">
+      <p>Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.</p>
+    </div>
 
-3. Clique em `Ações` <i class="fas fa-angle-down"></i>.
-4. Clique em `Campo (SKU)`.
-5. Clique em `Novo Campo`.
-6. Preencha as informações referentes ao campo que está sendo criado:
-    * **Nome**: nome da especificação (campo) de SKU.
-    * **Texto**: descrição sobre o campo.
+4. Clique em `Ações` <i class="fas fa-angle-down"></i>.
+5. Clique em `Campo (SKU)`.
+6. Clique em `Novo Campo`.
+7. Preencha as informações referentes ao campo que está sendo criado:
+
+    <div class = "alert alert-info">
+      <p>O preenchimento de campos marcados com asterisco ( * ) é obrigatório. Não é possível alterar as definições sobre quais campos são obrigatórios ou não.</p>
+    </div>
+
+    * **Nome** *: nome da especificação (campo) de SKU.
+    * **Texto** *: descrição sobre o campo.
     * **Tipo**:  tipo de campo de SKU, que pode variar entre **Combo** ou **Radio**. Leia a seção [Tipos de campo de SKU](#tipos-de-campo-de-sku) para mais informações sobre cada opção.
-    * **Grupo**: nome do [grupo de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria) do qual esse campo fará parte.
+    * **Grupo**: nome do [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) do qual esse campo fará parte.
     * **Filtro**: define se a especificação será utilizada como filtro na navegação do site.
     * **Obrigatório**: define se o valor obrigatoriamente precisa ser preenchido no cadastro do SKU ou não. Caso o campo seja obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação.
-    * **Exibe Especificação**: define se o campo é mostrado na página de cadastro do SKU, na aba **Especificações**.
-    * **Link no Menu Superior**: define se o link para os valores do campo é mostrado no menu principal do site.
-    * **Link no Menu Lateral**: define se o link para os valores do campo é mostrado no menu lateral do site.
-    * **Ativo**: insere ou remove este campo no cadastro do SKU.
-7. Clique em `Salvar`.
+    * **Mostrar especificação**: define se o campo é mostrado na página de cadastro do SKU, na aba **Especificações**.
+    * **Link no menu superior**: define se o link para os valores do campo é mostrado no menu principal do site.
+    * **Link no menu lateral**: define se o link para os valores do campo é mostrado no menu lateral do site.
+    * **Ativo**: ativa o campo.
+8. Clique em `Salvar`.
 
 ![sku-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-sku_2.gif)
 
 #### Tipos de campo de SKU
 
-Existem dois tipos de campo de SKU – **Combo** e **Radio**. As especificações de SKU têm como objetivo diferenciar as variações do mesmo produto a partir de características objetivas e pré-definidas para seleção, como tamanho, cor, entre outras. Para apresentar campos de texto e estruturas HTML mais complexas, como descrições ou tabelas de medidas, é necessário utilizar a funcionalidade de [campo de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+Existem dois tipos de campo de SKU – **Combo** e **Radio**. As especificações de SKU têm como objetivo diferenciar as variações do mesmo produto a partir de características objetivas e pré-definidas para seleção, como tamanho, cor, entre outras. Para apresentar campos de texto e estruturas HTML mais complexas, como descrições ou tabelas de medidas, é necessário utilizar a funcionalidade de [campo de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
 
 Confira a tabela a seguir para obter detalhes sobre os tipos de campo de SKU que você pode selecionar na opção **Tipo** ao [criar um campo de SKU](#criar-um-campo-de-sku):
 
@@ -132,7 +143,9 @@ Os **Valores** dos campos de SKU irão variar de acordo com o tipo do campo esco
 
 ![sku-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-sku_4.gif)
 
->ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
+<div class = "alert alert-info">
+  <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
+</div>
 
 #### Acessar ou editar valores cadastrados
 
@@ -199,6 +212,6 @@ Para preencher especificações de SKUs em massa por planilha, você precisa exp
 ![sku-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-sku_6.gif)
 
 ## Saiba mais
-- [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-- [Especificações de produto e de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+- [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
 

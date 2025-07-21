@@ -1,5 +1,5 @@
 ---
-title: 'La API de promoción de múltiples Sku no funciona'
+title: "La API de promoción de múltiples Sku no funciona"
 id: 38CLe2oIWHGNgjL4L0uIxz
 status: PUBLISHED
 createdAt: 2023-01-09T21:18:05.077Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: multiple-sku-promotion-api-not-working
+slugEN: la-api-de-promocion-de-multiples-sku-no-funciona
 locale: es
 kiStatus: No Fix
 internalReference: 729990
@@ -18,7 +18,9 @@ internalReference: 729990
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 A pesar de la información de retorno de éxito en las API y el correo electrónico, la promoción no se ha creado en el administrador (crear API) o actualizado (actualizar API).

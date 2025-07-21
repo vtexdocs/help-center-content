@@ -15,11 +15,11 @@ legacySlug: configurar-promocoes-de-frete
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Na VTEX, você pode criar várias modalidades de [descontos](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320#) para a sua loja. Com promoções de frete, o comprador recebe algum desconto no valor cobrado pela entrega do seu pedido.
+Na VTEX, você pode criar várias modalidades de [descontos](/pt/tutorial/como-criar-promocoes--tutorials_320#) para a sua loja. Com promoções de frete, o comprador recebe algum desconto no valor cobrado pela entrega do seu pedido.
 
-O passo a passo para criar uma promoção de frete é o mesmo das [demais promoções regulares](https://help.vtex.com/pt/tutorial/promocao-regular/ "demais promoções"). Contudo, existem algumas especificidades que devem ser levadas em consideração no momento de configurar esses descontos.
+O passo a passo para criar uma promoção de frete é o mesmo das [demais promoções regulares](/pt/tutorial/promocao-regular/ "demais promoções"). Contudo, existem algumas especificidades que devem ser levadas em consideração no momento de configurar esses descontos.
 
-Antes de configurar qualquer promoção de frete, é preciso entender quais são as formas de oferecer o desconto para os compradores. Na VTEX, existem quatro possibilidades de promoção de frete, que podem ser selecionadas no campo **Qual o tipo e valor do desconto?** durante a [criação da Promoção Regular](https://help.vtex.com/pt/tutorial/regular-promotion#quais-sao-os-dados-gerais-desta-promocao). Veja abaixo quais são essas opções.
+Antes de configurar qualquer promoção de frete, é preciso entender quais são as formas de oferecer o desconto para os compradores. Na VTEX, existem quatro possibilidades de promoção de frete, que podem ser selecionadas no campo **Qual o tipo e valor do desconto?** durante a [criação da Promoção Regular](/pt/tutorial/regular-promotion#quais-sao-os-dados-gerais-desta-promocao). Veja abaixo quais são essas opções.
 
 - **Frete nominal:** um desconto específico para o valor do frete. Exemplo: R$20 de desconto para qualquer frete para a região nordeste.
 
@@ -81,4 +81,4 @@ Em resumo, a função do checkbox **Aplicar o desconto somente quando uma das tr
 
 Durante a configuração no módulo de **Promoções e Taxas**, você pode habilitar mais de uma transportadora para a mesma promoção. Contudo, o seu cliente só poderá selecionar uma transportadora no momento de finalizar a compra.
 
-Outra possibilidade é configurar uma promoção de frete criando uma promoção de campanha. Para saber as especificidades de frete nesta modalidade de desconto, [leia o nosso artigo](https://help.vtex.com/pt/tutorial/promocao-de-campanha?locale=pt).
+Outra possibilidade é configurar uma promoção de frete criando uma promoção de campanha. Para saber as especificidades de frete nesta modalidade de desconto, [leia o nosso artigo](/pt/tutorial/promocao-de-campanha?locale=pt).

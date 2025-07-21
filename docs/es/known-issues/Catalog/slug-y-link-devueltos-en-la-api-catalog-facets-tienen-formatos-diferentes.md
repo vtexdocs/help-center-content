@@ -1,5 +1,5 @@
 ---
-title: 'Slug y Link devueltos en la API Catalog Facets tienen formatos diferentes.'
+title: "Slug y Link devueltos en la API Catalog Facets tienen formatos diferentes."
 id: 3LbYdhZhjsvUuQNC7VJN5G
 status: PUBLISHED
 createdAt: 2024-03-12T15:43:07.017Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: slug-and-link-returned-in-the-catalog-facets-api-have-different-formats
+slugEN: slug-y-link-devueltos-en-la-api-catalog-facets-tienen-formatos-diferentes
 locale: es
 kiStatus: Backlog
 internalReference: 998397
@@ -18,7 +18,9 @@ internalReference: 998397
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 API de Facetas de Catálogo descrita aquí: https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/facets/search/-term-

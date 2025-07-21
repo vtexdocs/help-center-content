@@ -1,5 +1,5 @@
 ---
-title: 'O Headless CMS ignora as configurações de validação de matriz'
+title: "O Headless CMS ignora as configurações de validação de matriz"
 id: 1szfagZFJHmevSWDTyd45e
 status: PUBLISHED
 createdAt: 2024-06-07T14:22:41.366Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slugEN: headless-cms-ignores-array-validation-settings
+slugEN: o-headless-cms-ignora-as-configuracoes-de-validacao-de-matriz
 locale: pt
 kiStatus: Backlog
 internalReference: 1046372
@@ -18,7 +18,9 @@ internalReference: 1046372
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao tentar configurar regras de validação de matriz no CMS Headless, como itens de matriz mínimos e máximos, os erros de validação não são mostrados ao usuário e é possível salvar o esquema sem passar pela validação.

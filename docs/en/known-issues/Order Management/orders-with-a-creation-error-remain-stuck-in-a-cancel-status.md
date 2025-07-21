@@ -1,10 +1,10 @@
 ---
-title: "Orders with a 'Creation Error' remain stuck in a 'cancel' status"
+title: 'Orders with a "Creation Error" remain stuck in a "cancel" status'
 id: gP4woBDBX0FsUC6sdMHED
 status: PUBLISHED
 createdAt: 2024-08-29T20:28:41.531Z
-updatedAt: 2024-08-29T20:28:42.413Z
-publishedAt: 2024-08-29T20:28:42.413Z
+updatedAt: 2025-04-08T12:55:56.231Z
+publishedAt: 2025-04-08T12:55:56.231Z
 firstPublishedAt: 2024-08-29T20:28:42.413Z
 contentType: knownIssue
 productTeam: Order Management
@@ -20,6 +20,7 @@ internalReference: 1089344
 
 
 
+Scenario1:
 In some orders that present an error at the time of creation (**Creation Error -** `cancellationData.reason`), it is expected that these orders will automatically reach the **Cancelled** status, since they are orders that were incomplete in some way (_even if the_ `isCompleted` _property is_ `true`), or with an error in the communication between the systems, mainly in the communication with the Gateway, and end up being canceled.
 
 
@@ -41,6 +42,10 @@ In this case, the problem is that currently, some orders with a **creation error
 
 
 The important thing in these cases is to be able to validate that the transaction has already been canceled and that there are no problems with the reservation of the items in the order.
+
+Scenario 2:
+In scenario 2, the order was able to proceed, even after receiving the cancellation request via Checkout/gateway. In this scenario, the order is stuck in "Checking invoice", while the transaction is in the "Canceling" status.
+As a result, it is not possible to proceed with the order for invoice, nor for it to be canceled.
 
 
 ##
@@ -64,7 +69,7 @@ If the order is in the "**cancel**" status and has not advanced to "**canceled**
 
 
 
-We do not have a workaround for this issue at the moment.
+We do not have a workaround for this both issue at the moment.
 
 
 

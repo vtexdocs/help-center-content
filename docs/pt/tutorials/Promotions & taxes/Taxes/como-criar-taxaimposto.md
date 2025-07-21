@@ -3,8 +3,8 @@ title: 'Criar taxa/imposto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2023-10-26T13:20:22.531Z
-publishedAt: 2023-10-26T13:20:22.531Z
+updatedAt: 2025-04-11T16:22:19.619Z
+publishedAt: 2025-04-11T16:22:19.619Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,6 +18,10 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 Taxa é o contrário de promoção, ou seja, é um adicional percentual inserido no preço do produto, visando aumentar o valor. A taxa pode ser configurada considerando diversos tipos de condições, como faixa de CEP, departamento e marca dos produtos, cluster de cliente etc. A taxa é inserida somente no carrinho, na área denominada **Imposto**.
 
 A taxa é aplicada conforme o cadastro que é feito no seller. Então se no carrinho da sua loja tem um produto de outro seller, a taxa a ser aplicada a esse produto, será aquela que estiver cadastrada no Admin do seller dono do produto. Não será considerada a taxa cadastrada no módulo de Preço do marketplace, ainda que essa taxa esteja associada a esse produto.
+
+<div class = "alert alert-info">
+Contas do Seller Portal não têm acesso ao módulo de criação de taxas. No entanto, ao criar uma taxa pelo Admin VTEX, para que a taxa seja aplicada no contexto de seller, selecione a política comercial correspondente durante a configuração.
+</div>
 
 ## Como criar
 

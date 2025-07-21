@@ -85,7 +85,7 @@ Extends the checkout experience to users that are not members of B2B organizatio
 
 ### B2B Orders History
 
-Provides a new Orders page under [My Account](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) that allows B2B users to view all previous orders placed by users from their organization or cost center, depending on their role.
+Provides a new Orders page under [My Account](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) that allows B2B users to view all previous orders placed by users from their organization or cost center, depending on their role.
 
 ### B2B Admin Customers
 

@@ -1,5 +1,5 @@
 ---
-title: 'Attribute meli_shipping_mode not being updated in MELI integration'
+title: "Attribute meli_shipping_mode not being updated in MELI integration"
 id: 7DMsCqv2AsOEsL3LGLhxWq
 status: PUBLISHED
 createdAt: 2023-08-03T10:19:05.524Z

@@ -26,4 +26,4 @@ Agora é só criar seus anúncios no Facebook, Instagram e outras redes que util
 
 Além de levar o seu cliente diretamente para o WhatsApp de forma rápida e fácil, você ainda pode capturar informações diretamente para o seu CRM, analisar quais redes estão lhe trazendo mais clientes, além do Remarketing no seu link. 
 
-VTEX Assisted Sales (SuiteShare) traz a solução completa para a sua empresa crescer, vender e atender. Agora que aprendemos a como levar os visitantes das redes sociais para o WhatsApp, que tal [distribuir o atendimento no WhatsApp para mais de um número?](https://help.vtex.com/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/4Xgqw105OM7zRdKmdY6avV)
+VTEX Assisted Sales (SuiteShare) traz a solução completa para a sua empresa crescer, vender e atender. Agora que aprendemos a como levar os visitantes das redes sociais para o WhatsApp, que tal [distribuir o atendimento no WhatsApp para mais de um número?](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/4Xgqw105OM7zRdKmdY6avV)

@@ -3,8 +3,8 @@ title: 'Sending products to Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2024-09-05T17:12:54.731Z
-publishedAt: 2024-09-05T17:12:54.731Z
+updatedAt: 2025-04-30T16:59:50.365Z
+publishedAt: 2025-04-30T16:59:50.365Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -26,13 +26,15 @@ Once your account authentication is complete, sending products to Facebook will 
 - Product condition
 - Availability
 
-The update is automatic and will be performed whenever changes are made to any of the data. It is worth mentioning that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](https://help.vtex.com/en/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
+The update is automatic and will be performed whenever changes are made to any of the data. It is worth mentioning that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](/en/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
 
-If you want to send product attributes to Facebook, an additional step needs to be performed. Attributes are product [specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
+If you want to send product attributes to Facebook, an additional step needs to be performed. Attributes are product [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
 
 The additional step is mapping product specifications. Mapping allows matching the attributes from your VTEX store with the standards adopted by Facebook.
 
->⚠️ ttribute mapping via spreadsheet is optional, but if you choose to do it, it must be done completely. Otherwise, it may lead to integration errors.
+<div class="alert alert-warning">
+ttribute mapping via spreadsheet is optional, but if you choose to do it, it must be done completely. Otherwise, it may lead to integration errors.
+</div>
 
 ## Sending attributes to Facebook
 
@@ -52,7 +54,9 @@ The first step in mapping is to download the file [Facebook Mapping Spreadsheet.
 
 The second step is to fill in the downloaded file. The spreadsheet consists of a single tab with five columns.
 
->ℹ️ The Facebook mapping spreadsheet is case-sensitive.
+<div class="alert alert-info">
+The Facebook mapping spreadsheet is case-sensitive.
+</div>
 
 - **First column, _ID Category_:** must be filled in with the identification number of the product category on the VTEX platform. You can find the ID of a category in the Admin, in _Products > Catalog > Categories_. The category ID is the number to the left of the category name.
 - **Second column, _VTEX attribute name_:** must contain the name of the attribute on the VTEX platform.
@@ -61,7 +65,9 @@ The second step is to fill in the downloaded file. The spreadsheet consists of a
 - **Third column, _Facebook attribute name_:** must be populated with the corresponding term used by Facebook.
 > Example: the match for the _Cor_ attribute on Facebook is _Color_.
 
-  >ℹ️ For attribute names and reference values, refer to Facebook’s [Universal Basic Attributes](https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=en_US#universal-basic-attributes) documentation. If there is no match for an attribute or value, populate the Facebook attribute name column with the same term used on VTEX.
+  <div class="alert alert-info">
+For attribute names and reference values, refer to Facebook’s <a href="https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=en_US#universal-basic-attributes">Universal Basic Attributes</a> documentation. If there is no match for an attribute or value, populate the Facebook attribute name column with the same term used on VTEX.
+</div>
 
  **Fourth column, _VTEX attribute value_:** should be filled in with the values for your attributes on VTEX.
 > Example: let's say that one of the values for the gender attribute in your VTEX store is _Feminino_. Therefore, you should fill in the _VTEX attribute value_ column with the word _Feminino_.

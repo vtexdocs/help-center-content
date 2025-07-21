@@ -15,9 +15,9 @@ legacySlug: como-configurar-afiliado
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-En VTEX, el [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) es un código que identifica el marketplace para el seller. El [seller VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#como-seller-vtex) necesita configurar un código de afiliado para poder integrarse con un [marketplace VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex), y esta configuración solo es necesaria cuando el mercado integrado y el vendedor son ambos tiendas VTEX.
+En VTEX, el [afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) es un código que identifica el marketplace para el seller. El [seller VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#como-seller-vtex) necesita configurar un código de afiliado para poder integrarse con un [marketplace VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex), y esta configuración solo es necesaria cuando el mercado integrado y el vendedor son ambos tiendas VTEX.
 
-Cuando el marketplace no es una tienda VTEX (como en las [integraciones externas](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-externo)), o cuando la tienda se integra con un [marketplace certificado](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-certificado) (como Amazon o Mercado Livre), la plataforma crea automáticamente el código de afiliado.
+Cuando el marketplace no es una tienda VTEX (como en las [integraciones externas](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-externo)), o cuando la tienda se integra con un [marketplace certificado](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-certificado) (como Amazon o Mercado Livre), la plataforma crea automáticamente el código de afiliado.
 
 ## Cómo configurar
 
@@ -36,9 +36,11 @@ Para crear un nuevo ID del afiliado, realice los siguientes pasos:
 
 > Fijate que el valor **{NombreDelMarketplace}** debe ser cambiado por el nombre de la cuenta del marketplace y el valor **{IdDelSeller}** debe ser cambiado por el ID del seller registrado por el marketplace.
 
-> >❗ El valor **{IdDelSeller}** es *case sensitive*. Así, debe escribirse en la URL exactamente de la misma manera que esté registrado en el marketplace.
+> <div class="alert alert-danger">
+El valor <strong>{IdDelSeller}</strong> es <em>case sensitive</em>. Así, debe escribirse en la URL exactamente de la misma manera que esté registrado en el marketplace.
+</div>
 
-> En el caso de [marketplaces externos a VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#integrado-con-un-marketplace-externo), llene el campo con el valor: `https://{endpointDoAfiliado}/api/notification/`.   
+> En el caso de [marketplaces externos a VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#integrado-con-un-marketplace-externo), llene el campo con el valor: `https://{endpointDoAfiliado}/api/notification/`.   
 
 > Obtenga más información en nuestro artículo en el Developer Portal, [How to confugure the affiliate endpoint](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-price-update#how-to-configure-the-affiliate-endpoint).
 

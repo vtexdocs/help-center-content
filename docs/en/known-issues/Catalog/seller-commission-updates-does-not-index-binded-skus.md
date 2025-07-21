@@ -1,5 +1,5 @@
 ---
-title: 'Seller commission updates does not index binded skus'
+title: "Seller commission updates does not index binded skus"
 id: GNX6sFV0thQkMLWEwxya9
 status: PUBLISHED
 createdAt: 2023-08-31T14:44:39.162Z

@@ -1,5 +1,5 @@
 ---
-title: 'Promoção Mais por Menos não trabalhar ao lado da promoção regular'
+title: "Promoção Mais por Menos não trabalhar ao lado da promoção regular"
 id: 7MhNRYvHedtAKGPBBVulc4
 status: PUBLISHED
 createdAt: 2022-12-16T18:52:03.482Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: promotion-more-for-less-not-working-alongside-regular-promotion
+slugEN: promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular
 locale: pt
 kiStatus: Backlog
 internalReference: 637586
@@ -18,7 +18,9 @@ internalReference: 637586
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 O desconto final no carrinho de compras não é correto quando um More for Less promotion está sendo aplicado ao lado de uma promoção regular. O desconto é maior do que o esperado.

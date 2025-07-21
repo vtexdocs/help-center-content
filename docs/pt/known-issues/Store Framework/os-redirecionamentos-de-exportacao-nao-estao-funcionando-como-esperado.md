@@ -1,5 +1,5 @@
 ---
-title: 'Os redirecionamentos de exportação não estão funcionando como esperado'
+title: "Os redirecionamentos de exportação não estão funcionando como esperado"
 id: 5WoiJDQCSMDCwCn1auNwC4
 status: PUBLISHED
 createdAt: 2022-04-05T12:53:18.824Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slugEN: export-redirects-not-working-as-intended
+slugEN: os-redirecionamentos-de-exportacao-nao-estao-funcionando-como-esperado
 locale: pt
 kiStatus: Backlog
 internalReference: 537962
@@ -18,7 +18,9 @@ internalReference: 537962
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 

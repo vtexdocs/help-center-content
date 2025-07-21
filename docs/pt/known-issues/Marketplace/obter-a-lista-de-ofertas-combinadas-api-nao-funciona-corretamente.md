@@ -1,5 +1,5 @@
 ---
-title: 'Obter a Lista de Ofertas Combinadas API não funciona corretamente'
+title: "Obter a Lista de Ofertas Combinadas API não funciona corretamente"
 id: 7mxrjTDYB8yLeKmQkB5D9h
 status: PUBLISHED
 createdAt: 2022-03-31T13:49:41.374Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: get-matched-offers-list-api-not-working-properly
+slugEN: obter-a-lista-de-ofertas-combinadas-api-nao-funciona-corretamente
 locale: pt
 kiStatus: No Fix
 internalReference: 553456
@@ -18,7 +18,9 @@ internalReference: 553456
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A API Get Matched Offers List , documentada aqui: https://developers.vtex.com/vtex-rest-api/reference/getofferslist, não está funcionando corretamente quando o usuário tenta inserir os parâmetros de consulta sugeridos.

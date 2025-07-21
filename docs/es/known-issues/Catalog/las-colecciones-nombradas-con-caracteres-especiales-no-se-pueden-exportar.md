@@ -1,5 +1,5 @@
 ---
-title: 'Las colecciones nombradas con caracteres especiales no se pueden exportar'
+title: "Las colecciones nombradas con caracteres especiales no se pueden exportar"
 id: 516zuwek2Gfwd0U99si2XU
 status: PUBLISHED
 createdAt: 2023-08-22T12:46:46.230Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: collections-named-with-special-characters-cannot-be-exported
+slugEN: las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar
 locale: es
 kiStatus: Backlog
 internalReference: 683343
@@ -18,7 +18,9 @@ internalReference: 683343
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Se espera que una colección pueda ser exportada en el admin. Sin embargo, las colecciones con nombres que contienen símbolos como `$` , `+` o `,` no se pueden exportar.

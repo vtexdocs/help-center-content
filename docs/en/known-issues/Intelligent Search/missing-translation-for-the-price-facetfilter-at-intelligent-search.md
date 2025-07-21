@@ -1,5 +1,5 @@
 ---
-title: 'Missing translation for the price facet/filter at Intelligent Search'
+title: "Missing translation for the price facet/filter at Intelligent Search"
 id: 6c6GnC1dKGViJ2h0ZoY5pm
 status: PUBLISHED
 createdAt: 2024-01-31T21:33:04.796Z

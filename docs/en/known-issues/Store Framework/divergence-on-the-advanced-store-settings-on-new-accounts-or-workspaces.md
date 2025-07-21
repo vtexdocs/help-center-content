@@ -1,5 +1,5 @@
 ---
-title: 'Divergence on the Advanced Store Settings on new accounts or workspaces'
+title: "Divergence on the Advanced Store Settings on new accounts or workspaces"
 id: 1Jt8McqXjYAxfJNkBZHt4j
 status: PUBLISHED
 createdAt: 2024-07-11T18:16:01.106Z

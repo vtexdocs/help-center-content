@@ -15,7 +15,9 @@ legacySlug: guia-de-integracao-para-marketplaces
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
->⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
+<div class="alert alert-warning">
+Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
+</div> 
 
 ## Marketplaces e sellers
 
@@ -43,7 +45,7 @@ Extensão do navegador chrome, nesta ferramenta pode se testar, armazenar histó
 
 Toda chamada feita as APIs REST da VTEX devem ser feitas em "https" e devem conter em seu header as chaves de autenticação. As chaves de autenticação do header(para acessar as APIs REST) devem ser solicitados ao administrador da loja, ou ao time de operações que está implantando a loja.
 
->⚠️ **Atenção**: Deverá ser criada uma chave e um token exclusivos para cada integrador. **Não** se deve usar a chave da própria loja.
+<div class="alert alert-warning"><strong>Atenção</strong>: Deverá ser criada uma chave e um token exclusivos para cada integrador. **Não** se deve usar a chave da própria loja.</div>
 
 ## Modelos de integração
 
@@ -51,19 +53,19 @@ Toda chamada feita as APIs REST da VTEX devem ser feitas em "https" e devem cont
 
 Este modelo permite a um Seller **não** hospedado na plataforma VTEX expor e vender os seus produtos (SKUs) em Marketplaces hospedados na plataforma VTEX. Para implementar esse modelo o Seller deverá expor alguns endpoints que serão chamados pelo Marketplace e chamar alguns endpoints expostos pelo Marketplace, seguindo o protocolo VTEX. Neste modelo o Marketplace controla todo processo de pagamento. Segue abaixo instruções para realizar essa integração.
 
-[[Guia] Sellers Não VTEX Vendendo em Marketplace Hospedado na VTEX](https://help.vtex.com/pt/tutorial/guia-de-integracao-para-marketplaces-seller-nao-vtex--yMji0ow0rQuYgQsg26Kus)
+[[Guia] Sellers Não VTEX Vendendo em Marketplace Hospedado na VTEX](/pt/tutorial/guia-de-integracao-para-marketplaces-seller-nao-vtex--yMji0ow0rQuYgQsg26Kus)
 
 ### Seller vendendo em marketplace hospedado na plataforma VTEX e processando o pagamento
 
 Este modelo permite a um Seller **não** hospedado na plataforma VTEX expor e vender os seus produtos (SKUs) em Marketplaces hospedados na plataforma VTEX. Para implementar esse modelo o Seller deverá expor alguns endpoints que serão chamados pelo Marketplace e chamar alguns endpoints expostos pelo marketplace, seguindo o protocolo VTEX. Neste modelo o Marketplace envia os dados de pagamento para serem processados no Seller. Segue abaixo instruções para realizar essa integração.
 
-[[Guia] Sellers Não VTEX Vendendo em Marketplace VTEX Recebendo Pagamento](https://help.vtex.com/pt/tutorial/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento--bNY99qbQ7mKsSMMuq2m4g)
+[[Guia] Sellers Não VTEX Vendendo em Marketplace VTEX Recebendo Pagamento](/pt/tutorial/guia-de-integracao-para-marketplaces-seller-nao-vtex-com-pagamento--bNY99qbQ7mKsSMMuq2m4g)
 
 ### Marketplace vendendo para seller hospedado na plataforma VTEX
 
 Este modelo permite a um Marketplace **não** hospedado VTEX expor e vender os produtos (SKUs) de Sellers hospedados na plataforma VTEX. Para implementar esse modelo o Marketplace deverá expor alguns endpoints que serão chamados pelo Seller e chamar alguns endpoints expostos pelo Seller, seguindo o protocolo VTEX. Neste modelo o Marketplace controla toda a transação de pagamento. Segue abaixo instruções para realizar essa integração.
 
-[[Guia] Marketplace Não VTEX vendendo para Sellers VTEX](https://help.vtex.com/pt/tutorial/guia-de-integracao-para-marketplaces-marketplace-nao-vtex--SMBUYFVEfZr0m0ttOULxj)
+[[Guia] Marketplace Não VTEX vendendo para Sellers VTEX](/pt/tutorial/guia-de-integracao-para-marketplaces-marketplace-nao-vtex--SMBUYFVEfZr0m0ttOULxj)
 
 ### Marketplace vendendo para seller hospedado na plataforma VTEX enviando o pagamento
 

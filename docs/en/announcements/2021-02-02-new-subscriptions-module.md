@@ -15,7 +15,9 @@ announcementImageID: ''
 announcementSynopsisEN: 'The Subscriptions module is the VTEX solution for recurring orders in your store, and it is continuously evolving.'
 ---
 
->ℹ️ This update only applies to stores that have the Subscriptions module. For stores that do not use this feature, nothing will change.
+<div class="alert alert-info">
+  <p>This update only applies to stores that have the Subscriptions module. For stores that do not use this feature, nothing will change.</p>
+</div>
 
 The Subscriptions module is the VTEX solution for recurring orders in your store, and it is continuously evolving. The module was enhanced to streamline the system performance and deliver new features that improve the customer experience in your store. This article describes all the changes made in the Subscriptions module and how to adapt your store accordingly. 
 
@@ -64,7 +66,7 @@ Previously, in the VTEX system, a subscription consisted of an SKU linked to a p
 
 ![img7 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-02-02-new-subscriptions-module_7.png)
 
-The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). The diagram below shows our new subscription concept:
+The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). The diagram below shows our new subscription concept:
 
 #### Now:
 ![img8 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-02-02-new-subscriptions-module_8.png)
@@ -77,4 +79,6 @@ We also changed the way of calculating the subscription order cycle date. Users 
 Remember that if your store does not use our APIs in their integrations, no adaptation is needed on your side. The implementation will be automatic. 
 If you are a retailer or partner that used our subscriptions API, please note that every subscription API route previously defined will be replaced by new ones. You will be assisted by the VTEX team during the entire migration process, ensuring a seamless transition to the new module. Check out our [Integration with the New Subscription Module Guide](https://developers.vtex.com/vtex-developer-docs/docs/subscriptions-v3-migration-guide). 
 
->ℹ️ You can request the new Subscriptions UI by contacting our customer [support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Your store needs to enable and install [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) in order to use the new UI.
+<div class="alert alert-info">
+You can request the new Subscriptions UI by contacting our customer <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">support</a>. Your store needs to enable and install <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a> in order to use the new UI.  
+</div>

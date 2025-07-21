@@ -1,5 +1,5 @@
 ---
-title: 'La política de envíos bloqueada en estado de tramitación se muestra como activa en la nueva interfaz de usuario de logística.'
+title: "La política de envíos bloqueada en estado de tramitación se muestra como activa en la nueva interfaz de usuario de logística."
 id: 6c6JrnkhTdz5kM8kGzsRXQ
 status: PUBLISHED
 createdAt: 2023-10-25T23:48:45.891Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-stuck-in-processing-status-is-displayed-as-active-in-the-new-logistics-ui
+slugEN: la-politica-de-envios-bloqueada-en-estado-de-tramitacion-se-muestra-como-activa-en-la-nueva-interfaz-de-usuario-de-logistica
 locale: es
 kiStatus: Fixed
 internalReference: 925914
@@ -18,7 +18,9 @@ internalReference: 925914
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En ocasiones la póliza de transporte puede quedarse atascada en el estado de tramitación, pero en la nueva UI de logística no se ve porque informa de que el estado está activo.

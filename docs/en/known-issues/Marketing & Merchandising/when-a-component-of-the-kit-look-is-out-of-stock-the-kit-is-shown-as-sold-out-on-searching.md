@@ -1,5 +1,5 @@
 ---
-title: 'When a component of the kit look is out of stock, the kit is shown as sold out on searching'
+title: "When a component of the kit look is out of stock, the kit is shown as sold out on searching"
 id: 5PRtTKk1HyGkKciOussWEI
 status: PUBLISHED
 createdAt: 2017-03-29T23:44:56.615Z

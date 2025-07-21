@@ -1,5 +1,5 @@
 ---
-title: 'Messages app taking too long to return the informations'
+title: "Messages app taking too long to return the informations"
 id: 5GnHyQaPlqCW0KNar1tlMC
 status: PUBLISHED
 createdAt: 2024-01-30T14:16:58.627Z

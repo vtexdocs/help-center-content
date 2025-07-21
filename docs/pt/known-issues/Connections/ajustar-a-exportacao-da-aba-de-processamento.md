@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar a exportação da aba de processamento'
+title: "Ajustar a exportação da aba de processamento"
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: adjust-processing-tab-export
+slugEN: ajustar-a-exportacao-da-aba-de-processamento
 locale: pt
 kiStatus: Backlog
 internalReference: 649311
@@ -18,7 +18,9 @@ internalReference: 649311
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A exportação na aba de processamento de skus está falhando:

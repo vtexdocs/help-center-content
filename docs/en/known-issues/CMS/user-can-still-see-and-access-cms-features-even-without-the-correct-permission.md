@@ -1,5 +1,5 @@
 ---
-title: 'User can still see and access CMS features even without the correct permission'
+title: "User can still see and access CMS features even without the correct permission"
 id: n2BmrCyzXD04sysczRuyt
 status: PUBLISHED
 createdAt: 2024-06-07T12:22:10.494Z

@@ -1,5 +1,5 @@
 ---
-title: 'Carts created from order replacement do not receive promotions correctly'
+title: "Carts created from order replacement do not receive promotions correctly"
 id: 2ODIE9RNP7Q5LCglXsztzf
 status: PUBLISHED
 createdAt: 2023-10-20T17:47:40.494Z

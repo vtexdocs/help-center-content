@@ -1,5 +1,5 @@
 ---
-title: " [Ordem com erro 'Referência do objeto não definida para uma instância de um objeto'."
+title: '[Ordem com erro "Referência do objeto não definida para uma instância de um objeto".'
 id: 6758qSnWuXR6TWQ1mlKOxs
 status: PUBLISHED
 createdAt: 2022-11-29T17:45:30.636Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: magalu-order-with-error-object-reference-not-set-to-an-instance-of-an-object
+slugEN: ordem-com-erro-referencia-do-objeto-nao-definida-para-uma-instancia-de-um-objeto
 locale: pt
 kiStatus: Backlog
 internalReference: 707113
@@ -18,7 +18,9 @@ internalReference: 707113
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As ordens não foram criadas em OMS+Bridge e no log mostra erro: "Referência de objeto não definida para uma instância de um objeto".

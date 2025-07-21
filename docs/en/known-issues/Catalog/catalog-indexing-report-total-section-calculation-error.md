@@ -1,5 +1,5 @@
 ---
-title: "Catalog Indexing Report 'Total' Section Calculation Error"
+title: 'Catalog Indexing Report "Total" Section Calculation Error'
 id: 6TJXux104P2c0mruo5vlEn
 status: PUBLISHED
 createdAt: 2022-02-25T11:39:42.098Z

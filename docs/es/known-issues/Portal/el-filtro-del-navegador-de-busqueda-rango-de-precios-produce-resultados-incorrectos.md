@@ -1,16 +1,16 @@
 ---
-title: 'El filtro del Navegador de Búsqueda + Rango de Precios produce resultados incorrectos'
+title: "El filtro del Navegador de Búsqueda + Rango de Precios produce resultados incorrectos"
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z
-updatedAt: 2024-02-16T20:24:11.551Z
-publishedAt: 2024-02-16T20:24:11.551Z
+updatedAt: 2025-05-20T19:58:36.371Z
+publishedAt: 2025-05-20T19:58:36.371Z
 firstPublishedAt: 2022-06-28T16:55:53.927Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slugEN: search-navigator-filter-price-range-yielding-incorrect-results
+slugEN: el-filtro-del-navegador-de-busqueda-rango-de-precios-produce-resultados-incorrectos
 locale: es
 kiStatus: No Fix
 internalReference: 504992
@@ -18,16 +18,13 @@ internalReference: 504992
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
-
-Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda junto con un rango de precios en un VTEX Business Edition, se pueden mostrar productos fuera de la marca filtrada.
-
-
+Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda junto con un rango de precios en la búsqueda legada, se pueden mostrar productos fuera de la marca filtrada.
 
 * * *
-
-
 
 
 ## Simulación
@@ -52,7 +49,7 @@ Actualmente, cuando se utiliza el filtro de marca del Navegador de búsqueda jun
 
 
 Utilizar directamente la API de búsqueda usando los filtros priceRange y brand simultáneamente, la respuesta de búsqueda está enviando los resultados correctos
-https://developers.vtex.com/vtex-rest-api/reference/search-3#productsearchfilteredandordered
+https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search.
 
 (example: `https://{accountName}.{environment}.com.br/api/catalog_system/pub/products/search?fq=C%3A%2F1000050%2F1000155?fq=C:/1000050/1000155&P:[20830 TO 24100]`)
 

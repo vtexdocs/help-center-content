@@ -1,5 +1,5 @@
 ---
-title: 'Mensagem de erro exibida ao adicionar ou remover coleções em Promoções'
+title: "Mensagem de erro exibida ao adicionar ou remover coleções em Promoções"
 id: 5AsFQ2TTsThgMDDIQumcGO
 status: PUBLISHED
 createdAt: 2024-09-10T12:49:19.503Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: error-message-displayed-when-adding-or-removing-collections-in-promotions
+slugEN: mensagem-de-erro-exibida-ao-adicionar-ou-remover-colecoes-em-promocoes
 locale: pt
 kiStatus: Backlog
 internalReference: 1095440
@@ -18,7 +18,9 @@ internalReference: 1095440
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Ao adicionar ou remover coleções em promoções, uma mensagem de erro é exibida na interface do usuário: "Erro - Não é possível criar critérios de pesquisa!" Apesar da mensagem de erro, as alterações são salvas com êxito e a mensagem "Promoção salva com sucesso!" é exibida abaixo do erro. O problema é observado especificamente ao usar o seletor "_Different from:"_ com mais de uma coleção listada. Notavelmente, o erro não ocorre ao salvar uma promoção com o seletor _"Different from:"_ e apenas uma coleção listada.

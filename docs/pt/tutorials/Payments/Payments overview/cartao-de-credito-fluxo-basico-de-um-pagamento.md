@@ -27,4 +27,6 @@ Este artigo tem como objetivo explicar como funciona o fluxo básico de um pagam
 
 Com a resposta do banco emissor, é realizado o fluxo inverso e o __Gateway de Pagamentos__ recebe a informação se o pagamento foi aprovado ou negado.
 
->ℹ️ É possível incluir o **Antifraude** neste fluxo. Neste caso, o antifraude recebe as informações do gateway de que o pagamento foi pré-autorizado pelo banco emissor. Com a informação recebida do gateway, o antifraude envia uma resposta de aprovação ou negação do pagamento. Caso o antifraude negue, o pagamento é cancelado. Caso o pagamento seja aprovado, o pedido pode prosseguir seu fluxo normal.
+<div class="alert alert-info">
+É possível incluir o <strong>Antifraude</strong> neste fluxo. Neste caso, o antifraude recebe as informações do gateway de que o pagamento foi pré-autorizado pelo banco emissor. Com a informação recebida do gateway, o antifraude envia uma resposta de aprovação ou negação do pagamento. Caso o antifraude negue, o pagamento é cancelado. Caso o pagamento seja aprovado, o pedido pode prosseguir seu fluxo normal.
+</div>

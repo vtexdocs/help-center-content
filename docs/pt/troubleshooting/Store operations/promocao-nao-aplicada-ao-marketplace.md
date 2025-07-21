@@ -22,9 +22,9 @@ Ao configurar uma promoção para marketplaces, é possível que os usuários en
 Para solucionar o problema de promoções não aplicadas em marketplaces, é importante revisar a [seleção da política comercial](#selecao-da-politica-comercial) e a [seleção de afiliados](https://docs.google.com/document/d/1-dKFiIasKw8wAQ1NtXrIAeiRIqRfmted1k1hU6kg_Uc/edit#seleção-de-afiliados). 
 
 ### Seleção da política comercial
-A [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define regras e condições para a aplicação de promoções nos marketplaces. É importante selecionar a política comercial correta para assegurar que a promoção seja aplicada conforme esperado. Abaixo estão os passos para configurar uma promoção de política comercial.
+A [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define regras e condições para a aplicação de promoções nos marketplaces. É importante selecionar a política comercial correta para assegurar que a promoção seja aplicada conforme esperado. Abaixo estão os passos para configurar uma promoção de política comercial.
 
-1. Crie uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
+1. Crie uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
 2. Na seção Política Comercial, selecione as opções `Iguais a` e **Entregue por mim (Outras lojas)**.
 3. Escolha as políticas comerciais desejadas vinculadas aos marketplaces.
 4. Clique em `Salvar`.
@@ -46,6 +46,8 @@ Para garantir que uma promoção seja aplicada corretamente em um marketplace, �
   <li>Clique em <code>Salvar</code>.</li>
 </ol>
 
->ℹ️ Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
+<div class = "alert alert-info">
+Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
+</div>
 
-Para mais informações, acesse [Configurar promoção para marketplace](https://help.vtex.com/pt/tutorial/configurando-promocao-para-marketplace/).
+Para mais informações, acesse [Configurar promoção para marketplace](/pt/tutorial/configurando-promocao-para-marketplace/).

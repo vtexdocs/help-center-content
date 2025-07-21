@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Alguns skus não atualizam o preço'
+title: "[Magazine Luiza] Alguns skus não atualizam o preço"
 id: NXb7Bb4BTJepPphcK9z0V
 status: PUBLISHED
 createdAt: 2023-08-17T14:14:36.434Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slugEN: magazine-luiza-some-skus-do-not-update-price
+slugEN: magazine-luiza-alguns-skus-nao-atualizam-o-preco
 locale: pt
 kiStatus: Backlog
 internalReference: 882919
@@ -18,7 +18,9 @@ internalReference: 882919
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Precisamos entender por que alguns skus não atualizam o preço no marketplace.

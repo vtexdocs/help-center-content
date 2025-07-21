@@ -1,5 +1,5 @@
 ---
-title: 'A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU'
+title: "A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU"
 id: 3OW5OoBG6OYW8mHDcZMoOi
 status: PUBLISHED
 createdAt: 2022-10-27T17:40:30.149Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: user-deletion-from-order-authorization-rule-blocks-order-and-does-not-allow-ui-reprocessing
+slugEN: a-exclusao-do-usuario-da-regra-de-autorizacao-de-pedido-bloqueia-o-pedido-e-nao-permite-o-reprocessamento-da-iu
 locale: pt
 kiStatus: Backlog
 internalReference: 623376
@@ -18,7 +18,9 @@ internalReference: 623376
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando apagamos ou perdemos o acesso ao usuário vinculado a uma regra de aprovação de ordem, esta ordem não pode ser reprocessada para que um novo usuário possa aprovar a ordem e com isso a ordem permanece pendente de aprovação.

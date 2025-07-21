@@ -1,5 +1,5 @@
 ---
-title: 'A captura automática programada não é exibida.'
+title: "A captura automática programada não é exibida."
 id: 1cuvGbgUvd1ATeHEG6Il98
 status: PUBLISHED
 createdAt: 2024-10-22T19:54:53.978Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
-slugEN: scheduled-automatic-capture-does-not-appear
+slugEN: a-captura-automatica-programada-nao-e-exibida
 locale: pt
 kiStatus: Backlog
 internalReference: 1121837
@@ -18,7 +18,9 @@ internalReference: 1121837
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A opção "Programado: Agendar a captura automática" não aparece nas configurações de nenhum provedor que tenha essa configuração ativada.

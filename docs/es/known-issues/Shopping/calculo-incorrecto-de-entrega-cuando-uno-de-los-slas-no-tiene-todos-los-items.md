@@ -1,5 +1,5 @@
 ---
-title: 'Cálculo incorrecto de entrega cuando uno de los SLAs no tiene todos los ítems'
+title: "Cálculo incorrecto de entrega cuando uno de los SLAs no tiene todos los ítems"
 id: 57rd31npt6iWcOQm0gIAMA
 status: PUBLISHED
 createdAt: 2018-08-06T18:50:44.391Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: incorrect-delivery-calculation-when-one-of-the-slas-doesnt-have-all-items
+slugEN: calculo-incorrecto-de-entrega-cuando-uno-de-los-slas-no-tiene-todos-los-items
 locale: es
 kiStatus: Backlog
 internalReference: 

@@ -42,7 +42,7 @@ Learn more about the main scenarios for using indexes in Master Data in the foll
 
 ### Queries of up to a thousand documents
 
-The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](https://help.vtex.com/en/tutorial/filtrando-dados-no-master-data--tutorials_778).
+The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](/en/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
 ### Restricting values per document (alternative key)
 
@@ -64,7 +64,9 @@ As a result, it will not be possible to enter a name that has already been enter
 
 In the example above, as there is already a record with the **Name** equal to **Mary**, you cannot add another one with the same value.
 
->⚠️ Use the **Unique values** option with caution. If a value that you want to allow to be repeated is configured as unique, the system will block duplicate records, preventing another one from being entered.
+<div class="alert alert-warning">
+  <p>Use the <strong>Unique values</strong> option with caution. If a value that you want to allow to be repeated is configured as unique, the system will block duplicate records, preventing another one from being entered.</p>
+</div>
 
 #### Multiple fields in the index
 
@@ -80,4 +82,7 @@ In this case, the **Name** value can be repeated, or the **Document** value can 
 
 In the example above, there is already a record with the **Name** as **Mary**. You can include another record with the same **Name** as long as the **Document** value is different.
 
->⚠️ If the same combination of values repeats, the record will not be saved. Use the **Unique values** option only when you are certain that a set of values will not be repeated in different records.
+<div class="alert alert-warning">
+  <p>If the same combination of values repeats, the record will not be saved. Use the <strong>Unique values</strong> option only when you are certain that a set of values will not be repeated in different records.
+</p>
+</div>

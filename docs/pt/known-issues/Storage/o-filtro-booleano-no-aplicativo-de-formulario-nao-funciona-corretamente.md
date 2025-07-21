@@ -1,5 +1,5 @@
 ---
-title: 'O filtro booleano no aplicativo de formulário não funciona corretamente'
+title: "O filtro booleano no aplicativo de formulário não funciona corretamente"
 id: 4x77xCLrvU4gDWZ4s1faHw
 status: PUBLISHED
 createdAt: 2023-10-11T21:15:13.342Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
-slugEN: boolean-filter-on-form-application-does-not-work-properly
+slugEN: o-filtro-booleano-no-aplicativo-de-formulario-nao-funciona-corretamente
 locale: pt
 kiStatus: Backlog
 internalReference: 918537
@@ -18,7 +18,9 @@ internalReference: 918537
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando um filtro booleano é selecionado, a seguinte mensagem é retornada:

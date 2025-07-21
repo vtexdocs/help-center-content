@@ -1,5 +1,5 @@
 ---
-title: 'La validación de caracteres especiales de las colecciones anteriores (CMS) difiere de la de las colecciones nuevas'
+title: "La validación de caracteres especiales de las colecciones anteriores (CMS) difiere de la de las colecciones nuevas"
 id: 2Pc1VACj7VF9n1IDtO6Mr4
 status: PUBLISHED
 createdAt: 2022-10-31T20:38:49.460Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: legacy-collections-cms-special-character-validation-diverges-from-new-collections
+slugEN: la-validacion-de-caracteres-especiales-de-las-colecciones-anteriores-cms-difiere-de-la-de-las-colecciones-nuevas
 locale: es
 kiStatus: Backlog
 internalReference: 450569
@@ -18,7 +18,9 @@ internalReference: 450569
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Problema de desplazamiento al hacer zoom tras el renderizado de la página de búsqueda'
+title: "Problema de desplazamiento al hacer zoom tras el renderizado de la página de búsqueda"
 id: 2FcX9UNvBOanE3EhH9q0DT
 status: PUBLISHED
 createdAt: 2024-02-08T16:51:28.278Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: scroll-issue-when-zooming-after-search-page-render
+slugEN: problema-de-desplazamiento-al-hacer-zoom-tras-el-renderizado-de-la-pagina-de-busqueda
 locale: es
 kiStatus: Fixed
 internalReference: 979464
@@ -18,7 +18,9 @@ internalReference: 979464
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'FastStore cart merges assembly line items'
+title: "FastStore cart merges assembly line items"
 id: 4NBNaTZpr6PnRxPfrtGj77
 status: PUBLISHED
 createdAt: 2024-06-14T17:25:47.764Z

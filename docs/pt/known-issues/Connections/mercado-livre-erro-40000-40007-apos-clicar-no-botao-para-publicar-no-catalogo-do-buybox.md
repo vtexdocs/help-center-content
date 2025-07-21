@@ -1,5 +1,5 @@
 ---
-title: '[Mercado Livre] Erro 40000 / 40007 após clicar no botão para publicar no catálogo do Buybox.'
+title: "[Mercado Livre] Erro 40000 / 40007 após clicar no botão para publicar no catálogo do Buybox."
 id: 1UurW8nVNB4Npcs0CNRJ4R
 status: PUBLISHED
 createdAt: 2024-10-24T11:37:40.859Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slugEN: mercado-livre-error-40000-40007-after-clicking-the-button-to-publish-in-the-buybox-catalog
+slugEN: mercado-livre-erro-40000-40007-apos-clicar-no-botao-para-publicar-no-catalogo-do-buybox
 locale: pt
 kiStatus: Backlog
 internalReference: 1122911
@@ -18,7 +18,9 @@ internalReference: 1122911
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Às vezes, o comerciante está recebendo o erro 40000 / 40007 após clicar no botão para publicar no Catalog.

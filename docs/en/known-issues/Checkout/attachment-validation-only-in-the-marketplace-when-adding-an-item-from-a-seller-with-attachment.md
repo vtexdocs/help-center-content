@@ -1,5 +1,5 @@
 ---
-title: 'Attachment validation only in the marketplace when adding an item from a seller with attachment'
+title: "Attachment validation only in the marketplace when adding an item from a seller with attachment"
 id: 638N4urP08NY7v8jdH7U5N
 status: PUBLISHED
 createdAt: 2023-12-22T18:18:59.194Z

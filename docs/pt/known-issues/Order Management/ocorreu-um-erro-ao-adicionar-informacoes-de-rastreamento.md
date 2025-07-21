@@ -1,5 +1,5 @@
 ---
-title: "'Ocorreu um erro' ao adicionar informações de rastreamento"
+title: 'Ocorreu um erro" ao adicionar informações de rastreamento'
 id: 1gmlrPh9P1KbNI5NNXuImO
 status: PUBLISHED
 createdAt: 2023-02-08T18:38:55.699Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
-slugEN: an-error-has-occurred-when-adding-tracking-information
+slugEN: ocorreu-um-erro-ao-adicionar-informacoes-de-rastreamento
 locale: pt
 kiStatus: Backlog
 internalReference: 409225
@@ -18,7 +18,9 @@ internalReference: 409225
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 Ao inserir as informações de rastreamento quando o número da fatura contém espaços, ocorre o seguinte erro (seja via UI ou API) "`An error has occurred`".
 

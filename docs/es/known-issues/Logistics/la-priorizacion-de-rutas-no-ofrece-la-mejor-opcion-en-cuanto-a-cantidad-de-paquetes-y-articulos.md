@@ -1,5 +1,5 @@
 ---
-title: 'La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos'
+title: "La priorización de rutas no ofrece la mejor opción en cuanto a cantidad de paquetes y artículos"
 id: 4verafDuoFnC5vGDI4UV1m
 status: PUBLISHED
 createdAt: 2023-10-30T18:28:52.771Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: route-prioritization-does-not-offer-the-best-option-in-terms-of-quantity-of-packages-and-items
+slugEN: la-priorizacion-de-rutas-no-ofrece-la-mejor-opcion-en-cuanto-a-cantidad-de-paquetes-y-articulos
 locale: es
 kiStatus: Backlog
 internalReference: 927747
@@ -18,7 +18,9 @@ internalReference: 927747
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 En Logística, el primer criterio de desempate cuando el sistema está eligiendo la ruta (almacén + muelle + política de envío), está relacionado con el número de paquetes necesarios para esta ruta específica, menos paquetes significa que la ruta debería ser mejor.

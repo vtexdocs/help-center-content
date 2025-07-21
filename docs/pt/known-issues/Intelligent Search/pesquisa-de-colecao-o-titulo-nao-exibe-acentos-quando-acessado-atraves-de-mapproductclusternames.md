@@ -1,5 +1,5 @@
 ---
-title: 'Pesquisa de coleção - o título não exibe acentos quando acessado através de map=productClusterNames'
+title: "Pesquisa de coleção - o título não exibe acentos quando acessado através de map=productClusterNames"
 id: 41m89nYPVQxFaNUXAcGo3X
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:39.850Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slugEN: collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames
+slugEN: pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames
 locale: pt
 kiStatus: Backlog
 internalReference: 439856
@@ -18,7 +18,9 @@ internalReference: 439856
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 As páginas de coleção acessadas através de map=productClusterNames mostram o nome da coleção sem acentos no componente de busca-titulo.

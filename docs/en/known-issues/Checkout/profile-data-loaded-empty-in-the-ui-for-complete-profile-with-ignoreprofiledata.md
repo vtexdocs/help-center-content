@@ -1,5 +1,5 @@
 ---
-title: "Profile data loaded empty in the UI for complete profile with 'ignoreProfileData'"
+title: "Profile data loaded empty in the UI for complete profile with 'ignoreProfileData"
 id: 10B1QKgN42sjapDEALmKOp
 status: PUBLISHED
 createdAt: 2024-04-15T11:41:06.841Z

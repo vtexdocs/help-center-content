@@ -1,5 +1,5 @@
 ---
-title: 'Pickup point disregarded based on priority'
+title: "Pickup point disregarded based on priority"
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z

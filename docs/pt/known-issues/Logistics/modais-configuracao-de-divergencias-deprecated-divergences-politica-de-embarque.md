@@ -1,5 +1,5 @@
 ---
-title: 'Modais Configuração de Divergências Deprecated Divergences - Política de embarque'
+title: "Modais Configuração de Divergências Deprecated Divergences - Política de embarque"
 id: TYWgIv5xOTUBWdC63FbK5
 status: PUBLISHED
 createdAt: 2022-05-18T18:20:55.870Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: modals-deprecated-divergences-setup-shipping-policy
+slugEN: modais-configuracao-de-divergencias-deprecated-divergences-politica-de-embarque
 locale: pt
 kiStatus: No Fix
 internalReference: 445866
@@ -18,7 +18,9 @@ internalReference: 445866
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Há um cenário relativo aos modais usados e depreciados sem igual.

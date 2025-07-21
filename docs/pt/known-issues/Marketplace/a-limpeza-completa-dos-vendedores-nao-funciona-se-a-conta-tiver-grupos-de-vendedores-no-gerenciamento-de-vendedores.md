@@ -1,5 +1,5 @@
 ---
-title: 'A limpeza completa dos vendedores não funciona se a conta tiver grupos de vendedores no Gerenciamento de vendedores'
+title: "A limpeza completa dos vendedores não funciona se a conta tiver grupos de vendedores no Gerenciamento de vendedores"
 id: 3U9tS11FQU0JLUxEDSt5rL
 status: PUBLISHED
 createdAt: 2023-10-19T19:54:36.389Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
-slugEN: fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management
+slugEN: a-limpeza-completa-dos-vendedores-nao-funciona-se-a-conta-tiver-grupos-de-vendedores-no-gerenciamento-de-vendedores
 locale: pt
 kiStatus: No Fix
 internalReference: 922541
@@ -18,7 +18,9 @@ internalReference: 922541
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Na área de gerenciamento de vendedores, o marketplace pode agrupar seus vendedores como desejar e gerenciá-los na guia de gerenciamento de grupos.

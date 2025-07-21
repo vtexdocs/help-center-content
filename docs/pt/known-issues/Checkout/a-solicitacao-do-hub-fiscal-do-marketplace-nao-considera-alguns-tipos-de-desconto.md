@@ -1,5 +1,5 @@
 ---
-title: 'A solicitação do hub fiscal do Marketplace não considera alguns tipos de desconto'
+title: "A solicitação do hub fiscal do Marketplace não considera alguns tipos de desconto"
 id: 630nSPu8y5G6CSFtiH3MOL
 status: PUBLISHED
 createdAt: 2023-11-30T21:14:13.709Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slugEN: marketplace-tax-hub-request-doesnt-consider-some-discount-types
+slugEN: a-solicitacao-do-hub-fiscal-do-marketplace-nao-considera-alguns-tipos-de-desconto
 locale: pt
 kiStatus: Fixed
 internalReference: 945580
@@ -18,7 +18,9 @@ internalReference: 945580
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a conta tem isMarketplaceResponsibleForTaxes configurado, a solicitação do hub de impostos não considera alguns tipos de desconto: Nominal, Porcentagem e Preço máximo por item. Isso afeta o cálculo do imposto, e o preço final é maior do que o esperado.

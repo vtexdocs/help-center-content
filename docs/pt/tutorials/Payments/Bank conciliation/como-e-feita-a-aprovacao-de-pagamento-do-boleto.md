@@ -3,8 +3,8 @@ title: 'Como é feita a aprovação de pagamento do boleto?'
 id: frequentlyAskedQuestions_489
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z
-updatedAt: 2020-07-02T21:00:48.704Z
-publishedAt: 2020-07-02T21:00:48.704Z
+updatedAt: 2025-04-28T14:34:42.833Z
+publishedAt: 2025-04-28T14:34:42.833Z
 firstPublishedAt: 2019-01-24T22:11:54.868Z
 contentType: tutorial
 productTeam: Financial

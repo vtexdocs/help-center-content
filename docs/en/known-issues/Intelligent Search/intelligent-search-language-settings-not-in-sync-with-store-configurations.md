@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search language settings not in sync with store configurations'
+title: "Intelligent Search language settings not in sync with store configurations"
 id: 1GqoAyUSbTxwHvzoMoAYfD
 status: PUBLISHED
 createdAt: 2024-02-27T21:30:40.309Z

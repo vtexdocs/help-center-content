@@ -16,7 +16,7 @@ trackSlugPT: configurar-integracao-do-mercado-livre
 
 Após configurar o conector Mercado Livre, você deve autorizar a sua conta VTEX no Mercado Livre. A autorização é necessária para que seja feita a autenticação da sua loja VTEX na plataforma do marketplace.
 
-Somente o [usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta pode permitir essa autorização. Para autorizar, siga os passos abaixo:
+Somente o [usuário titular](/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta pode permitir essa autorização. Para autorizar, siga os passos abaixo:
 
 1. Acesse o Admin. 
 2. No  módulo MARKETPLACE, selecione a opção **Integrações** e clique em `Configurações`.

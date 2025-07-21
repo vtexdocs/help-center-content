@@ -47,7 +47,9 @@ Para fazer isso de maneira dinâmica, eu posso trocar o texto da chave `topbarSa
 
 Ou seja, estou usando as variáveis `preposicaonomeloja2` e `nomeloja`.
 
->⚠️ Ao usar variáveis para compor um texto, substitua o símbolo `#` por `@`. Ou seja, **#variavel#** torna-se **@variavel@**.
+<div class="alert alert-warning">
+Ao usar variáveis para compor um texto, substitua o símbolo <code>#</code> por <code>@</code>. Ou seja, <b>#variavel#</b> torna-se <b>@variavel@</b>.
+</div>
 
 ![textos-importante pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/alterar-textos-padrao-do-sistema-exibidos-na-loja_1.png)
 

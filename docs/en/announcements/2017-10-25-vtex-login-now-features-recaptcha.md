@@ -25,6 +25,7 @@ This means that the confirmation request may or may not appear, depending on sev
 
 With this change, VTEX no longer prevents user access after 3 incorrect attempts, since security is guaranteed by reCAPTCHA.
 
->ℹ️ Currently, we only use reCAPTCHA in the admin login flow.
+<div class="alert alert-info">Currently, we only use reCAPTCHA in the admin login flow.</div>
 
->⚠️ Due to this change, [it is no longer possible to use email and password for integrations](https://help.vtex.com/en/announcements/integrations-with-vtex-apis-now-need-token-authentication--7AdnXDH7AkYmuEUmmis8Es).
+<div class="alert alert-warning">
+Due to this change, <a href="https://help.vtex.com/en/announcements/integrations-with-vtex-apis-now-need-token-authentication--7AdnXDH7AkYmuEUmmis8Es">it is no longer possible to use email and password for integrations</a>.</div>

@@ -15,9 +15,11 @@ legacySlug: affiliates-program-app
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
->ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and is not available for stores that use [Legacy Portal CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
+<div class = "alert alert-info">
+The <b>Affiliates Program</b> is an app that is only supported by <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a> stores and is not available for stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy Portal CMS</a> or <a href="https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store. 
+</div>
 
-In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
+In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
 
 The **Affiliates Program** app generates a specific URL from your VTEX store to your [registered affiliates](#adding-an-affiliate). When the affiliate shares the URL with a customer who buys using the link, the affiliate gets a commission. 
 
@@ -46,7 +48,9 @@ The **affiliate profile page** is an interface where the affiliate can track and
 
 The **registration page** allows those who are interested in becoming affiliates to fill in their information to apply for VTEX store registration. 
 
->ℹ️ The affiliate pages are customizable. Learn more in the [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app) developer's guide.
+<div class = "alert alert-info">
+The affiliate pages are customizable. Learn more in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates Program app</a> developer's guide.
+</div>
 
 ### VTEX Admin pages
 
@@ -82,7 +86,9 @@ Click the `Add Affiliate` button to create a new affiliate, fill in the fields d
 
 Enter any of the following information in the search bar to search for an affiliate: _Affiliate ID, Name, Store Name, Email_, or _Phone_.
 
->⚠️ In the **Affiliates Program app**, not only is the term affiliate different from the [usual VTEX affiliate concept](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), but the `Affiliate ID` does not correspond to the default code. In the app, the `Affiliate ID` is an alphanumeric code automatically generated when you create a new affiliate.
+<div class="alert alert-warning">
+In the <b>Affiliates Program app</b>, not only is the term affiliate different from the <a href="https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">usual VTEX affiliate concept</a>, but the <code>Affiliate ID</code> does not correspond to the default code. In the app, the <code>Affiliate ID</code> is an alphanumeric code automatically generated when you create a new affiliate.
+</div>
 
 ### Filtering affiliates
 
@@ -125,7 +131,9 @@ At the top of the page, you see the following metrics about orders placed throug
 - **Order Total:** Sum of the order values, calculated from the item prices without shipping costs.
 - **Order Total Commission:**  Sum of the amounts of affiliate commissions on orders.
 
->ℹ️ To track an order flow, click the `Order ID`. This will redirect you to the VTEX Admin under **Orders > All Orders**.
+<div class = "alert alert-info">
+To track an order flow, click the <code>Order ID</code>. This will redirect you to the VTEX Admin under <b>Orders > All Orders</b>.
+</div>
 
 ### Searching for orders
 
@@ -135,20 +143,22 @@ Type the `affiliate ID` related to the order into the search bar to find an orde
 
 You can filter the order search by the following criteria:
 
-- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 - **Order Date:** Filter from a range of days and hours when the orders were created. To do so, the `From` field sets a start date and the `To` field sets the end date.
 
 ### Exporting the order list
 
 The **Affiliates Program app** allows you to export a list with a CSV extension of your affiliate orders. 
 
->⚠️ To enable the list export function, you must first set up email templates described in the [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates) developer's guide.
+<div class="alert alert-warning">
+To enable the list export function, you must first set up email templates described in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a> developer's guide.
+</div>
 
 After configuration, click **Export** on the **Order Management** page to export the list. The following confirmation message will be displayed:
 
  > _The report is being generated and will be_ _sent to your email._
 
-The generated file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
+The generated file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
 
 ### Viewing order details
 
@@ -168,7 +178,7 @@ The **Commission Management** page allows you to do the following:
 
 ### Searching for commissions
 
-To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](https://help.vtex.com/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
+To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
 
 ### Editing commissions
 
@@ -189,9 +199,11 @@ To export a SKU commission spreadsheet with a CSV extension, at the top of the *
 
 > _The report is being generated and will be sent to your email._
 
-The file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
+The file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
 
->ℹ️ The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.
+<div class = "alert alert-info">
+The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.
+</div>
 
 ### Importing commissions
 
@@ -207,7 +219,9 @@ Check if the following message is displayed:
 
 The name of the submitted fileadded file name will appear next to the `Last Import` field.
 
->ℹ️ You can identify the import information and the user by hovering over the `?` symbol next to `Last Import`.
+<div class = "alert alert-info">
+You can identify the import information and the user by hovering over the <code>?</code> symbol next to <code>Last Import</code>.
+</div>
 
 ### Downloading the last import
 

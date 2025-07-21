@@ -1,5 +1,5 @@
 ---
-title: 'Tabla de precios exportados Filtrado por marca no trae todos los skus'
+title: "Tabla de precios exportados Filtrado por marca no trae todos los skus"
 id: 3Z1A0Jpua28QNbwrEhPKxw
 status: PUBLISHED
 createdAt: 2022-08-23T16:07:14.755Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slugEN: exported-price-table-filtered-by-brand-does-not-bring-all-the-skus
+slugEN: tabla-de-precios-exportados-filtrado-por-marca-no-trae-todos-los-skus
 locale: es
 kiStatus: Fixed
 internalReference: 594075
@@ -18,7 +18,9 @@ internalReference: 594075
 
 ## Sumario
 
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+<div class="alert alert-info">
+  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
+</div>
 
 
 Al exportar la tabla de precios filtrada por Marca para obtener un resultado más específico, la hoja de cálculo llega incompleta al cliente.

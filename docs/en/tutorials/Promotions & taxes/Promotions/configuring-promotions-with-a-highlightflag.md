@@ -35,13 +35,13 @@ The promotion highlight can be applied to different types of promotions and disc
 
 The following types of discounts are eligible for a highlight application:
 
-- [Percentage discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
-- [Percentage shipping discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
-- [Maximum shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
-- [Free shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
+- [Percentage discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
+- [Percentage shipping discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
+- [Maximum shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
+- [Free shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
 - **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
 
-To learn more, see the [Promotions](https://help.vtex.com/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
+To learn more, see the [Promotions](/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
 
 ## Restrictions
 

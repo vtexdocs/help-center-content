@@ -1,5 +1,5 @@
 ---
-title: 'Kits without stock are displayed as available if they have a gift promotion'
+title: "Kits without stock are displayed as available if they have a gift promotion"
 id: 5xHAJ10n3qMSOGECegw8Yo
 status: PUBLISHED
 createdAt: 2018-04-24T21:43:13.080Z

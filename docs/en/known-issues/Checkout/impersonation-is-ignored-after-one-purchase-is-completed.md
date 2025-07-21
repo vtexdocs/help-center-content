@@ -1,5 +1,5 @@
 ---
-title: 'Impersonation is ignored after one purchase is completed'
+title: "Impersonation is ignored after one purchase is completed"
 id: 4mHKOlwaLwfIEf8HFh4y4Y
 status: PUBLISHED
 createdAt: 2024-03-20T20:10:26.200Z

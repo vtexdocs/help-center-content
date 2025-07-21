@@ -1,5 +1,5 @@
 ---
-title: 'Pageview triggers on G4A are being duplicated in custom search pages'
+title: "Pageview triggers on G4A are being duplicated in custom search pages"
 id: 4hIwZ2v9bbyyZXrxoDglyx
 status: PUBLISHED
 createdAt: 2023-11-08T13:35:27.802Z

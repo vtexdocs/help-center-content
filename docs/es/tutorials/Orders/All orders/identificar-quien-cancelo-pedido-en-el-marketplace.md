@@ -15,4 +15,4 @@ legacySlug: identificar-quien-cancelo-pedido-en-el-marketplace
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Cada acción realizada en una aplicación se ha registrado en el módulo **Pedidos**. Para ver este registro, en la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) haga clic en `Ver interacciones`.
+Cada acción realizada en una aplicación se ha registrado en el módulo **Pedidos**. Para ver este registro, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) haga clic en `Ver interacciones`.

@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 O status `Pronto para manuseio` é o aviso ao ERP de que ele deve descer o pedido para ocorrer a baixa na reserva. Após o ERP notificar a VTEX que integrou o pedido e que o estoque dos itens foi atualizado, o status é alterado para `Preparando entrega`.
 
-A baixa na reserva não ocorre automaticamente, isso deve ser controlado pelo seu ERP. Para mais detalhes, veja o artigo [Como a reserva funciona](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92).
+A baixa na reserva não ocorre automaticamente, isso deve ser controlado pelo seu ERP. Para mais detalhes, veja o artigo [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona--tutorials_92).
 
 Veja a seguir as maneiras possíveis de atualização desse status.
 
@@ -40,4 +40,6 @@ Se a loja não tiver ERP ou algum sistema que integre os pedidos, é possível f
     - <a class="far fa-check-square"></a> Eu entendo as consequências desta ação no fluxo do pedido.
 5. Clique em `Avançar com status`.
 
->⚠️ Ao iniciar o manuseio do pedido manualmente, o pedido não poderá ser integrado ao ERP posteriormente.
+<div class="alert alert-warning">
+Ao iniciar o manuseio do pedido manualmente, o pedido não poderá ser integrado ao ERP posteriormente.
+</div>

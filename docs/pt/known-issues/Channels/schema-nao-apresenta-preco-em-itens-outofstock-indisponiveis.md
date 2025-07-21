@@ -1,5 +1,5 @@
 ---
-title: 'Schema não apresenta preço em itens outOfstock (indisponíveis)'
+title: "Schema não apresenta preço em itens outOfstock (indisponíveis)"
 id: 492FPEWTmgsWuq6wWqSUEu
 status: PUBLISHED
 createdAt: 2018-01-29T20:29:42.910Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
-slugEN: schema-doesnt-present-price-in-outofstock-items-unavailable
+slugEN: schema-nao-apresenta-preco-em-itens-outofstock-indisponiveis
 locale: pt
 kiStatus: Backlog
 internalReference: 

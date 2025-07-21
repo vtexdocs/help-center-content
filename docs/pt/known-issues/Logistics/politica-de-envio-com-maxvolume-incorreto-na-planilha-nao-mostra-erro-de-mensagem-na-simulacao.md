@@ -1,5 +1,5 @@
 ---
-title: 'Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação'
+title: "Política de envio com MaxVolume incorreto na planilha não mostra erro de mensagem na simulação"
 id: 7zIbmadcOfI3oHmkm8LmkY
 status: PUBLISHED
 createdAt: 2022-05-18T18:19:04.901Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
-slugEN: shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation
+slugEN: politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao
 locale: pt
 kiStatus: No Fix
 internalReference: 380471
@@ -18,7 +18,9 @@ internalReference: 380471
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 Quando a Política de Embarque tem o MaxVolume abaixo na planilha, não há erro de mensagem a respeito disso na Simulação.

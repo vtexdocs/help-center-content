@@ -25,7 +25,7 @@ Before, it was only possible to rate VTEX's service through the survey sent to y
 
 - Rate VTEX's support through our *Satisfaction Survey* page after each ticket is resolved.    
 - View a list of resolved tickets submitted by you on behalf of your store.   
-- Access the [Help Center](https://help.vtex.com/), [VTEX Community](https://community.vtex.com/), and [Developer Portal](https://developers.vtex.com/).
+- Access the [Help Center](/), [VTEX Community](https://community.vtex.com/), and [Developer Portal](https://developers.vtex.com/).
 
 For now, the page only displays the support tickets that have already been resolved.
 
@@ -39,4 +39,4 @@ The new *Satisfaction Survey* page is already installed in your VTEX Admin by de
 
 We have also sent you an email invitation to visit the page and give your rating.
 
-For more information, read the articles [How does VTEX support work?](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) and [Opening tickets to VTEX support](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+For more information, read the articles [How does VTEX support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) and [Opening tickets to VTEX support](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).

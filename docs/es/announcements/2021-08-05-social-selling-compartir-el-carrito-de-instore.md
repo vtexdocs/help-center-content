@@ -23,7 +23,7 @@ Utilizando inStore Social Selling, puede crear acciones de activación para un p
 
 ## ¿Qué cambió?
 
-Anteriormente no era posible compartir el carrito en inStore, [solo en el ecommerce](https://help.vtex.com/es/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
+Anteriormente no era posible compartir el carrito en inStore, [solo en el ecommerce](/es/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
 
 Con inStore Social Selling, los vendedores de su tienda física pueden seleccionar productos y generar un enlace para compartir la **Sugerencia de carrito** con uno o más clientes a través de WhatsApp, como se muestra a continuación. También es posible copiar el enlace y compartirlo en otras redes sociales.
 
@@ -45,4 +45,4 @@ El objetivo de esta funcionalidad es empoderar a los vendedores de las tiendas f
 
 Para utilizar inStore Social Selling, es necesario [contactar al equipo de soporte de VTEX](https://support.vtex.com/hc/pt-br/requests) y solicitar la instalación.
 
-Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](https://help.vtex.com/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).

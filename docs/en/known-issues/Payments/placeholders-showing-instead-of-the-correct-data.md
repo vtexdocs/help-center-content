@@ -1,5 +1,5 @@
 ---
-title: 'Placeholders showing instead of the correct data'
+title: "Placeholders showing instead of the correct data"
 id: 5sZbIwHd1MNi0NsFnGO6il
 status: PUBLISHED
 createdAt: 2022-03-04T12:57:57.195Z

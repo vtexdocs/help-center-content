@@ -1,5 +1,5 @@
 ---
-title: 'Subscribers report does not show active subscriptions correctly'
+title: "Subscribers report does not show active subscriptions correctly"
 id: 4sqvm1v4CbCJLQ3HBBVTmp
 status: PUBLISHED
 createdAt: 2022-05-27T19:44:57.301Z

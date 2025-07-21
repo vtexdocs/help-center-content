@@ -26,7 +26,7 @@ Para atualizar o checkout da sua loja para a versão mais recente (Checkout v6),
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__.
 4. Em __Atualização do Smart Checkout (V6)__, habilite a opção __Ambiente de testes (em beta)__, clicando no botão <i class="fas fa-toggle-on"></i>.
 5. Clique em __Salvar__. 
-6. [Acesse sua loja em ambiente beta](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e realize os ajustes de estilo necessários. O Checkout v6 possui novas classes _CSS_ que devem ser levadas em consideração para customização do estilo.
+6. [Acesse sua loja em ambiente beta](/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e realize os ajustes de estilo necessários. O Checkout v6 possui novas classes _CSS_ que devem ser levadas em consideração para customização do estilo.
 
 ![Checkoutv6_box](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20Settings/ativar-o-checkout-v6_1.png)
 

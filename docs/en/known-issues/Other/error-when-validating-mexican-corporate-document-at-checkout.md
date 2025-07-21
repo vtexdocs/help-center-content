@@ -1,5 +1,5 @@
 ---
-title: 'Error when validating Mexican corporate document at checkout'
+title: "Error when validating Mexican corporate document at checkout"
 id: 2sRYHVITR34SVmJKwTig2r
 status: PUBLISHED
 createdAt: 2022-02-04T12:50:13.965Z

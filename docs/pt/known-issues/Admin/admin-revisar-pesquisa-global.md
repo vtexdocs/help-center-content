@@ -1,5 +1,5 @@
 ---
-title: '[admin] revisar pesquisa global'
+title: "[admin] revisar pesquisa global"
 id: 1r83M4ug7WVoF1gb22NMh0
 status: PUBLISHED
 createdAt: 2023-08-29T20:01:07.327Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
-slugEN: admin-review-global-search
+slugEN: admin-revisar-pesquisa-global
 locale: pt
 kiStatus: Backlog
 internalReference: 889993
@@ -18,7 +18,9 @@ internalReference: 889993
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 A pesquisa global não está encontrando informações sobre "usuários"

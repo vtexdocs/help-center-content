@@ -1,5 +1,5 @@
 ---
-title: 'CMS Fidelidade Configurações de valores não funcionam'
+title: "CMS Fidelidade Configurações de valores não funcionam"
 id: 5oh7WEZvQO339HRaWhBUfA
 status: PUBLISHED
 createdAt: 2023-01-04T14:18:17.304Z
@@ -10,7 +10,7 @@ contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slugEN: cms-loyalty-value-settings-not-working
+slugEN: cms-fidelidade-configuracoes-de-valores-nao-funcionam
 locale: pt
 kiStatus: Backlog
 internalReference: 726849
@@ -18,7 +18,9 @@ internalReference: 726849
 
 ## Sumário
 
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
 
 
 
