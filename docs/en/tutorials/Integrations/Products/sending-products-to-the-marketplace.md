@@ -21,7 +21,7 @@ When integrating with a marketplace, you have to define which products are to be
 
 One possibility is to work with the entire product catalog on the marketplace. To do this, just associate the main store’s sales policy ID which will always be **ID 1**, [when asked to do so during configuration](/en/tutorial/integrating-with-marketplace/).
 
-![ExemploPoliticaComercial](https://images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
+![ExemploPoliticaComercial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/sending-products-to-the-marketplace_1.png)
 
 This sales policy does not require a configured collection of products, since the system already understands that it refers to all products.
 
@@ -33,7 +33,7 @@ Another possibility is to work with a specific mix. Through some differentiated 
 4. Check the checkbox of the sales policies to which this product should belong.
 5. Click on **Save**.
 
-![](https://images.contentful.com/alneenqid6w5/2Fp2Y3qFF6SCwQaQI2iEiC/fae0654d1685f1f625794180044ae6a6/loja-cadastro-produto.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/sending-products-to-the-marketplace_2.gif)
 _If there are products that have no value indicated in the **loja** field in the product register or price register, such products will be send to all sales policies configured without a collection._
 
 ## Product indexation

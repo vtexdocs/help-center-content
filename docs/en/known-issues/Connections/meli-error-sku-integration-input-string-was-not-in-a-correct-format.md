@@ -29,7 +29,7 @@ Some skus are having an error in the integration` "Input string was not in a cor
 
 Admin > Bridge > Products
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pwn0EPjpLf7XnBrnGNXYZdV0i/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/meli-error-sku-integration-input-string-was-not-in-a-correct-format_1.png)
 
 
 

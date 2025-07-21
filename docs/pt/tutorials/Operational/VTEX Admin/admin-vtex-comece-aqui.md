@@ -19,7 +19,7 @@ O Admin permite que os comerciantes gerenciem toda sua experiência de comércio
 
 ## Página inicial
 
-![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
+![Store overview gif PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/VTEX%20Admin/admin-vtex-comece-aqui_1.gif)
 
 A página inicial oferece uma visão geral de alto nível da sua loja, como uma cabine de comando para as suas operações de comércio digital. Por isso, ela se chama [Visão Geral](/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -28,7 +28,7 @@ Assim que você fizer login no Admin, verá métricas e gráficos úteis para mo
 ## Menu de navegação 
 Nossos menus de navegação lateral e barra superior agrupam categorias similares para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. 
 
-![menu de navegação admin SEP2023](https://images.ctfassets.net/alneenqid6w5/2uRMUQWZoiRiuEL70siDJ1/40fe4023fbe2c890f512761ae1ff77ed/admin-navigation.png)
+![menu de navegação admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/VTEX%20Admin/admin-vtex-comece-aqui_2.png)
 
 Na topbar, você pode usar a barra de busca global para pesquisar páginas do Admin VTEX ou pedidos da sua loja. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -58,7 +58,7 @@ Também é possível utilizar a barra de busca na parte superior do Admin VTEX p
 
 ### Central de Informações
 
-![central de informações admin SEP2023](https://images.ctfassets.net/alneenqid6w5/7a9d2QspPcT4w9BbdpQiR6/d344e0470f3980a3a7323216e46a95c8/Information_center.gif)
+![central de informações admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/VTEX%20Admin/admin-vtex-comece-aqui_3.gif)
 
 É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo(a) a aproveitar a nossa plataforma ao máximo. C Clicando no botão <i class='fa fa-question-circle-o'></i> na barra superior, você pode acessar nosso [Help Center](), [Developer Portal](https://developers.vtex.com/), [Status da Plataforma](https://status.vtex.com/), [blog](https://vtex.com/pt/blog/) e central de suporte.
 
@@ -71,7 +71,7 @@ O botão Enviar feedback permite que um usuário possa enviar comentários a res
 
 Neste momento um formulário do Google será exibido para que você possa enviar seu feedback. Após o envio, você receberá um email.
 
-![Botão feedback - PT -](https://images.ctfassets.net/alneenqid6w5/6OUJxw2vU5UhLX16TOMAts/b9b9ecdd1ade0fce9e3a29cd6df1432c/Bot_o_feedback_-_PT_-.gif)
+![Botão feedback - PT -](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/VTEX%20Admin/admin-vtex-comece-aqui_4.gif)
 
 #### Formulário do feedback
 O objetivo principal das perguntas no formulário de feedback é coletar informações detalhadas sobre as experiências e percepções em relação ao produto no Admin VTEX.
@@ -99,7 +99,7 @@ Este processo de envio de feedback não deve ser utilizado para criar um ticket 
 
 ### Configurações da conta e do usuário
 
-![configurações de avatar admin SEP2023](https://images.ctfassets.net/alneenqid6w5/52uxBkDXceU5apwZe4ZkaQ/34b6240c3917892dc8c34f2c5efa4afd/Avatar_settings2.gif)
+![configurações de avatar admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/VTEX%20Admin/admin-vtex-comece-aqui_5.gif)
 
 Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Configurações da conta](/pt/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), e [Faturas](/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC), alterar o idioma do seu Admin e encerrar a sessão. 
 

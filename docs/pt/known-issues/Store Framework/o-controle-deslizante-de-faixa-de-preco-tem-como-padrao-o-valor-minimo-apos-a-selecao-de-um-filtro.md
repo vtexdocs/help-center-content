@@ -33,7 +33,7 @@ Ao aplicar um filtro de marca a ele, o seletor não moverá seu valor mínimo pa
 2- Selecione um filtro marcando-o à esquerda (category2/3/4)
 3- Com o filtro aplicado, observe que o controle deslizante de faixa de preço manterá o valor mínimo como antes e estará fora da faixa do controle deslizante.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/RuhwOHLwbPslKpeZ4VUq4Y995/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-controle-deslizante-de-faixa-de-preco-tem-como-padrao-o-valor-minimo-apos-a-selecao-de-um-filtro_1.png)
 
 Filtrar com o comportamento descrito para o valor mínimo.
 

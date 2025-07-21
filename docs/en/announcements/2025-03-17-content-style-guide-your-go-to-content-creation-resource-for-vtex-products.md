@@ -19,7 +19,7 @@ In ecommerce, written content is more than words. It’s a crucial part of the c
 
 To ensure a seamless experience for everyone, we’re introducing the new [Content Style Guide](https://contentguide.vtex.com/en): A portal designed to guide people while contributing to the VTEX ecosystem with product written content. Whether building apps, writing documentation, or collaborating on projects, this guide is your go-to resource for creating content.
 
-![Content Style Guide EN](https://images.ctfassets.net/alneenqid6w5/4nMWjjKZL7uFOe9kOjJNqq/e3b91d3880167781ee5b45f596bdcc71/content-style-guide.gif)
+![Content Style Guide EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-03-17-content-style-guide-your-go-to-content-creation-resource-for-vtex-products_1.gif)
 
 ## What is the Content Style Guide?
 

@@ -34,9 +34,9 @@ La hoja de cálculo de importación de imágenes no sustituye a la Etiqueta
 Admin > Catálogo > Importar y exportar > Especificaciones de SKU > Cargar hoja de cálculo
 En la interfaz de usuario se muestra correctamente, pero el correo electrónico muestra cero productos importados y ninguna especificación de error.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kisyvWtG1pHFXiOJUpAKuvegC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta_1.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Xspj9Ld4DLyZPpwJIdHq6cq0i/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta_2.png)
 
 
 ##

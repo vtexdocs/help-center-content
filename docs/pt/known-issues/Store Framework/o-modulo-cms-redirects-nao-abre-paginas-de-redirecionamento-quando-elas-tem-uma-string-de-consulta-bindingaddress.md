@@ -24,7 +24,7 @@ internalReference: 1115321
 
 
 Quando você está navegando em uma loja com uma string de consulta de endereço vinculada (principalmente lojas internacionais) e tenta abrir um redirecionamento específico por meio do módulo CMS Redirects, a página não abre. Isso acontece porque a consulta feita ao rewriter conta a string de consulta como parte da variável a ser pesquisada:
- ![](https://vtexhelp.zendesk.com/attachments/token/jls5hNgRD8iSjCKauOrfX6oxS/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-modulo-cms-redirects-nao-abre-paginas-de-redirecionamento-quando-elas-tem-uma-string-de-consulta-bindingaddress_1.png)
 
 Essa pesquisa incorreta leva ao KI: 729503 que afeta os redirecionamentos criados com strings de consulta.
 

@@ -38,6 +38,6 @@ In order to do this, you need to add a product called `Order Authorization` to t
 6. Choose the type of permission you wish to grant: either `Save Configuration` if you want to allow the user to edit and save changes, or `View Configuration` if you want the user to only view the Order Authorization page.
 7. Finally, click on **Save**.
 
-![GIT-OrderAutho.en](https://images.ctfassets.net/alneenqid6w5/1K34RexhGDYnU2ogYWsH6L/5214f0861ae9a92073005c074ab5c128/GIT-OrderAutho.en.gif)
+![GIT-OrderAutho.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019-06-06-ensure-more-safety-and-control-on-your-order-authorization-screen_1.gif)
 
 Upon adding this new product to a profile, ensure that the desired users are in fact linked to this profile.

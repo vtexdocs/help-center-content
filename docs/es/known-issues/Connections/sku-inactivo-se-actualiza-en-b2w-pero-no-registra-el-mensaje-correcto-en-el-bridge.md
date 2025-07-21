@@ -34,7 +34,7 @@ Sku estaba inactivo en el Catálogo VTEX > Se está inactivando correctamente en
 
 Importante: el Sku está inactivo en el Marketplace, sólo el mensaje del puente es incorrecto.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7RAx5JXjSWAtCfh7HJ27LOZOW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/sku-inactivo-se-actualiza-en-b2w-pero-no-registra-el-mensaje-correcto-en-el-bridge_1.png)
 
 
 

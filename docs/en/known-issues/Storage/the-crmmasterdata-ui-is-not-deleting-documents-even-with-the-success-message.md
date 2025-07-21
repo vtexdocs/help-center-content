@@ -29,9 +29,9 @@ The CRM UI is not deleting documents, although the success message is shown.
 
 
 - Access the application system (.vtexcrm.com.br)
-- Select a view, like Clientes, click on ![](https://vtexhelp.zendesk.com/attachments/token/l2EMLx8PT4mDFNKGPAtZQVGxt/?name=image.png)
+- Select a view, like Clientes, click on ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message_1.png)
 - Then, the system will show the documents that belong to the entity data selected
-- Select one document and click on the delete button ![](https://vtexhelp.zendesk.com/attachments/token/ipkMJC5WWN1LRfeRAkxr7RUCG/?name=image.png)
+- Select one document and click on the delete button ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message_2.png)
 - After that, the system will ask to confirm the action
 - After the confirmation, the message "_Registro excluído com sucesso!_" is shown
 - But the document is still listed when you click on the OK button

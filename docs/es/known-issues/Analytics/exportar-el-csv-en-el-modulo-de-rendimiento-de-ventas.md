@@ -33,7 +33,7 @@ Estamos teniendo problemas al intentar exportar el CSV en el módulo de rendimie
 
 Dentro del módulo de rendimiento de ventas, hay un botón para exportar el CSV y dice que se enviará por correo electrónico, pero en algunos casos no se está enviando.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3somzO1egT0LfYDZNFaEABpyF/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Analytics/exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas_1.png)
 
 
 

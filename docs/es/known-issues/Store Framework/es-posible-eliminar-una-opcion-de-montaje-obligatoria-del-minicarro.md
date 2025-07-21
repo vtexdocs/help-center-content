@@ -33,7 +33,7 @@ Si configuras un producto con una opción de montaje requerida y luego vas al mi
 
 Añada un producto que tenga una opción de ensamblaje requerida al minicarro y luego intente eliminarlo. Puedes hacer la prueba en el storecomponents
 https://storecomponents.myvtex.com/custom-bell/p?__bindingAddress=storecomponents.myvtex.com/
- ![](https://vtexhelp.zendesk.com/attachments/token/J3EPe83BNwTZnQ37NHLS2qqA9/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/es-posible-eliminar-una-opcion-de-montaje-obligatoria-del-minicarro_1.png)
 
 
 ##

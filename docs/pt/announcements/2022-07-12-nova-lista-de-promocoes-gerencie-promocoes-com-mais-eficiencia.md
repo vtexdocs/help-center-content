@@ -30,7 +30,7 @@ Desenvolvemos uma nova interface para a Lista de Promoções, que permite:
 * Exportar sua lista de promoções ativas.
 * Duplicar promoções ativas ou arquivadas para um processo de criação mais rápido.
 
-![geral-promo-PT](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/76708dc950cfef626516c9a08b6fe13d/image3.png)
+![geral-promo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-07-12-nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia_1.png)
 
 ## Por que fizemos essa mudança?
 

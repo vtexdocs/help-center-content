@@ -36,15 +36,15 @@ Two items each one with one  "courierId"
 
 ItemIndex:0
 
- ![](https://vtexhelp.zendesk.com/attachments/token/BV7Mk1lkB4bfbDUL60PuOxVGw/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_1.png)
 
 
 IntemIndex :1
- ![](https://vtexhelp.zendesk.com/attachments/token/4PaI0LrZEb4ICKus2GFzxvsul/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_2.png)
 
 The UI suggest this as a single package:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/1LIKdI2MhhOGmVfr4xMxSSL29/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/the-delivery-split-will-not-be-displayed-in-the-ui-or-in-my-orders-when-the-order-has-the-same-shipping-method_3.png)
 
 
 

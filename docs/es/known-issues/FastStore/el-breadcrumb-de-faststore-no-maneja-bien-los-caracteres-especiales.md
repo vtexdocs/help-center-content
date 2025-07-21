@@ -32,10 +32,10 @@ Si su tienda tiene categorías con caracteres especiales, como `/`, el breadcrum
 
 
 Añadir una categoría con un carácter especial como `computers/softwares`.
- ![](https://vtexhelp.zendesk.com/attachments/token/GotI44D5ebNA8EhouzkuBAh8l/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/el-breadcrumb-de-faststore-no-maneja-bien-los-caracteres-especiales_1.png)
 
 Ir a la PDP del producto y ver cómo se comporta la miga de pan:
- ![](https://vtexhelp.zendesk.com/attachments/token/uhuoUTlqJfGZrU3hHI19OqaqG/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/el-breadcrumb-de-faststore-no-maneja-bien-los-caracteres-especiales_2.png)
 Además, el enlace a la categoría no funcionará
 
 

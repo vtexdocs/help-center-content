@@ -25,7 +25,7 @@ internalReference: 1053609
 
 Um comprador pode pesquisar diferentes pontos de coleta em diferentes códigos postais. Ao usar o envio enxuto, depois de adicionar um código postal com pontos de coleta disponíveis e mudar para um código postal sem pontos de coleta, a etapa de envio é bloqueada com a mensagem "Algo deu errado".
 
- ![](https://vtexhelp.zendesk.com/attachments/token/i0jCDFlz5EGPnKyk5Nfw0Etl0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Checkout/o-transporte-enxuto-causa-algo-deu-errado-depois-de-mudar-os-pontos-de-coleta_1.png)
 
 ## Simulação
 

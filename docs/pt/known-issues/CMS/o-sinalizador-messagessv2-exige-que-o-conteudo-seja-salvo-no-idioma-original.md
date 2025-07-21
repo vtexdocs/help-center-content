@@ -25,7 +25,7 @@ internalReference: 1260018
 
 
 Quando uma loja multilíngue tem o sinalizador MessagesV2 Enable New Page Translation Configuration, ocorre um problema no editor do site. Se o cliente tentar salvar o conteúdo em uma das localidades que não seja a principal, ele poderá receber um erro de: Something Went Wrong.
- ![](https://vtexhelp.zendesk.com/attachments/token/QOndCdSMiZtiGHYTBf0sYstQd/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original_1.png)
 Esse erro está relacionado à mensagem: "Original content not found" (Conteúdo original não encontrado).
 
 Mas com esse sinalizador ativo, esse conteúdo não precisa ser salvo na localidade original para ser usado. Portanto, não deve ser necessário salvar o conteúdo.

@@ -37,7 +37,7 @@ Actualmente, si intenta filtrar varios productos a la vez en la barra de búsque
 
 3 - El resultado final debería parecerse a la imagen de abajo, donde los productos presentados no son exactamente los 3 que se filtraron, sino la lista original.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QlZToxNgxy6wbXkoGW74KkJU7/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/no-funciona-la-busqueda-de-varios-productos-en-el-modulo-de-precios_1.png)
 
 
 ##

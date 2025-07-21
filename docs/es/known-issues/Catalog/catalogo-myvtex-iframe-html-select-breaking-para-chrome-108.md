@@ -28,7 +28,7 @@ Este es un efecto secundario de una actualización de Chrome que ha sido program
 
 El efecto en el administrador de VTEX es que los usuarios de Chrome v108 tienen problemas para seleccionar en menús desplegables, por ejemplo, en la pestaña de configuración SKU, cuando se intenta seleccionar un valor en el menú desplegable, no se genera ninguna acción (debería mostrarse toda la lista de valores posibles):
 
- ![](https://vtexhelp.zendesk.com/attachments/token/JvqH3KkI0sgflVmKG3IOCfHa1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-myvtex-iframe-html-select-breaking-para-chrome-108_1.png)
 
 
 

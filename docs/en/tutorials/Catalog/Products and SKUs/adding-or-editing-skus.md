@@ -50,7 +50,7 @@ You can deactivate a SKU after creating it, but you can't delete a single SKU. T
 
 After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_EN](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/aca29dd7ec61b60ebb321b68444ea1dc/adding_or_editting_sku_EN.png)
+![adding_or_editting_sku_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-or-editing-skus_1.png)
 
 Additionally, once the SKU is created, you can include it in a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
 

@@ -36,7 +36,7 @@ Al aplicarle un filtro de marca el selector no moverá su valor mínimo a los va
 2- Selecciona un filtro marcándolo a la izquierda (category2/3/4)
 3- Con el filtro aplicado, observa que el deslizador de rango de precios mantendrá el valor mínimo como antes y estará fuera del rango del deslizador.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/RuhwOHLwbPslKpeZ4VUq4Y995/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-control-deslizante-de-la-gama-de-precios-adopta-por-defecto-el-valor-minimo-despues-de-seleccionar-un-filtro_1.png)
 
 Filtro con el comportamiento descrito para el valor min.
 

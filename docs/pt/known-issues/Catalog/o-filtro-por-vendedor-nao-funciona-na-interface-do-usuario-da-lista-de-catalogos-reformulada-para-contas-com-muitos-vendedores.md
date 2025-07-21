@@ -24,7 +24,7 @@ internalReference: 1075106
 
 
 A interface do usuário da lista de catálogos redesenhada fornece alguns filtros:
- ![](https://vtexhelp.zendesk.com/attachments/token/thTgoerwSeWWJKuVZNfhqevew/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-filtro-por-vendedor-nao-funciona-na-interface-do-usuario-da-lista-de-catalogos-reformulada-para-contas-com-muitos-vendedores_1.png)
 
 O filtro de vendedor não é carregado para contas que têm muitos vendedores.
 

@@ -27,7 +27,7 @@ Only authorized merchants will be able to request customer data deletion through
 - **Write user rights requests** (from the **User Rights** product)
 - **Open Support Ticket** (from the **VTEX Support** product)
 
-![perfil-de-acesso-gdpr](https://images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/39abccab40cc24142778788378fd9eac/ingles.jpg)
+![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-04-02-new-process-for-requesting-customer-data-deletion-via-copilot_1.jpg)
 
 Next, assign this role to the merchants who will request customer data deletion.
 

@@ -46,7 +46,7 @@ Actualmente no se permite la entrega de un kit si el producto tiene un modal con
 
 Configure la política de envíos para que también entregue los modales indefinidos.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/deeIRFGCxJEMdfXegOHTI8nuP/?name=inline923958570.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/no-se-permite-la-entrega-de-kits-si-el-producto-tiene-un-modal-configurado_1.png)
 Obs: Esta solución sólo está disponible si TODOS los componentes dentro del KIT tiene el modal configurado,
 
 

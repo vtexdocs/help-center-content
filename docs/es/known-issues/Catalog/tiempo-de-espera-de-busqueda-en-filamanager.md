@@ -25,7 +25,7 @@ internalReference: 1221279
 
 Actualmente, para las cuentas con una gran cantidad de archivos en su módulo filemanager, la búsqueda podría cargar indefinidamente
 
- ![](https://vtexhelp.zendesk.com/attachments/token/cJyLsMn4XxD3u0zPpQst7lXSL/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/tiempo-de-espera-de-busqueda-en-filamanager_1.png)
 
 
 ##

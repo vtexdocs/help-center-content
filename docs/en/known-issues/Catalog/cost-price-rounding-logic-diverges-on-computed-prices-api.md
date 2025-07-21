@@ -31,7 +31,7 @@ Set a product with a cost price of 67.82 and no markup.
 
 Check the pricing UI and the response from this API, which should deliver:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/r33X4C7mwiOwq9GkcB72ngCur/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/cost-price-rounding-logic-diverges-on-computed-prices-api_1.png)
 
 Even though the correct value is 67.82
 

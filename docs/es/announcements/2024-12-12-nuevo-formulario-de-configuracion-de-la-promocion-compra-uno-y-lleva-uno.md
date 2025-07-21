@@ -24,7 +24,7 @@ El nuevo formulario presenta una experiencia optimizada de configuración de pro
 - Reducir errores de configuración gracias a pasos bien definidos y criterios de promoción presentados de forma intuitiva.
 - Personalizar promociones de forma sencilla, ajustando las condiciones de compra y beneficios ofrecidos a los clientes.
 
-![Compre e Ganhe-ES](https://images.ctfassets.net/alneenqid6w5/6Jhx1J6n197TiAPgJq8j5h/b478b91221d5d649f3a9d94dbcf544a5/Compre_e_Ganhe-ES.gif)
+![Compre e Ganhe-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024-12-12-nuevo-formulario-de-configuracion-de-la-promocion-compra-uno-y-lleva-uno_1.gif)
 
 ## ¿Qué se necesita hacer?
 No se requiere ninguna acción para acceder al nuevo formulario. La actualización se aplicará a todas las tiendas VTEX automáticamente.

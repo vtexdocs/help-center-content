@@ -30,7 +30,7 @@ The page displays the list of your store's promotions and their basic informatio
 | `To` | Promotion end date. |
 | `Status` | Promotion status, which can be: <p> __Active:__ when a promotion is active.</p> <p>__Scheduled:__ when the promotion was scheduled.</p> <p>__Paused:__ when the promotion is paused. <p>__Completed:__ when the promotion ended.</p> |
 
-![listadepromocoes en](https://images.ctfassets.net/alneenqid6w5/3QkCDSGnYVvzz6ygn3ZUm8/c790e13db5f9ce7b8e9fa276478813d1/listadepromocoes_en.gif)
+![listadepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_1.gif)
 
 You can sort the promotions by name, date, or status. To do this, click on the title of the column with the information you want to use as sorting criteria.
 
@@ -82,7 +82,7 @@ The file contains the following information about each promotion:
 
 ## Promotion usage
 
-![usodaspromoções en](https://images.ctfassets.net/alneenqid6w5/5cvRZbj2TqwHuQcx6jjqm4/d94a8916fcd88257d83f8c8edd0a0dbf/usodaspromo____es_en.JPG)
+![usodaspromoções en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_2.JPG)
 
 To view the total of your active promotions and the remaining quota for new promotions, click `Promotion usage`. 
 
@@ -90,7 +90,7 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 ## Filter promotions
 
-![filtrodepromocoes en](https://images.ctfassets.net/alneenqid6w5/5ejpdUDVPbixeLp6nmDB1q/d637dba80b4cbda6194cae7cbf630785/filtrodepromocoes_en.gif)
+![filtrodepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/promotion-list-beta_3.gif)
 
 The promotion list can be filtered according to your needs by using the following filters:
 

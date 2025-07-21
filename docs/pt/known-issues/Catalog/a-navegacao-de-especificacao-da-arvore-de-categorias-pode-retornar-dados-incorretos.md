@@ -25,7 +25,7 @@ internalReference: 1179682
 
 Atualmente, ao navegar na árvore de categorias, se um usuário navegar para "Campo (SKU)" e depois para "Valores" de uma especificação e depois voltar para a visualização da árvore de categorias clicando no link de navegação:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/qtPOrJ9QkBSTLEALtov7At2nI/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-navegacao-de-especificacao-da-arvore-de-categorias-pode-retornar-dados-incorretos_1.png)
 
 e depois voltar para o mesmo formulário de especificação, os valores de especificação listados anteriormente não serão mais listados.
 

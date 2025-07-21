@@ -36,7 +36,7 @@ Cuando el Matcher procesa los skus en el módulo de sugerencias del marketplace 
 2. El sku llega al marketplace y es procesado por el matcher;
 3. Compruebe en la siguiente API si el objeto Matcher tiene los campos Height, Width, Weight y Length configurados como 0.1
 https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#get-/suggestions/-sellerId-/-sellerSkuId-
- ![](https://vtexhelp.zendesk.com/attachments/token/vCdMBFKEJ0243C9Ew7PPFDgp3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/igualador-que-convierte-altura-anchura-peso-y-longitud-a-01_1.png)
 
 
 ##

@@ -31,7 +31,7 @@ Para saber más sobre los agentes financieros involucrados en el flujo de pago d
 
 El flujo completo para pago por tarjeta de crédito en VTEX puede ser descrito por la siguiente imagen.  
 
-![Tarjeta de crédito - Flujo básico de un pago](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/354650e116ee61e05196dd1b592b6f6c/payments_image1_ES.JPG)
+![Tarjeta de crédito - Flujo básico de un pago](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/payments/flujo-de-pago-por-tarjeta-de-credito_1.JPG)
 
 1. En la pantalla de Checkout de su tienda, el cliente elige el **Medio de pago** _tarjeta de crédito_ para realizar el pago de su compra.
 2. La información de este pago se pasa al **Gateway de Pagos**, que es el player responsable de garantizar que este pago se realice con éxito.

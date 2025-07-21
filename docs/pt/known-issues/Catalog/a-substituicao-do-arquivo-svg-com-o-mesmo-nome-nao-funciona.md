@@ -25,11 +25,11 @@ internalReference: 1151600
 
 Ao usar o gerenciador de arquivos do CMS no administrador da conta, há uma opção para fazer upload de arquivos:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://vtexhelp.zendesk.com/attachments/token/k1Du6DExk2Rg7OCwXAKVRJfzv/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-substituicao-do-arquivo-svg-com-o-mesmo-nome-nao-funciona_1.png)
 
 Ao fazer upload de arquivos .SVG, se você optar por substituir um arquivo mais antigo, usando o mesmo nome, será exibida a seguinte mensagem:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3jOyJQyyWWZJ2s6tlzjiJyDko/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-substituicao-do-arquivo-svg-com-o-mesmo-nome-nao-funciona_2.png)
 
 No entanto, o conteúdo desse arquivo nunca será atualizado ao usar esse método.
 

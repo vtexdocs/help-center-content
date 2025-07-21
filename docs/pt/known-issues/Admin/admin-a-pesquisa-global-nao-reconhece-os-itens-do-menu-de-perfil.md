@@ -31,7 +31,7 @@ A Pesquisa global não reconhece "Itens do menu de perfil"
 Em alguns casos, a pesquisa não retorna nenhum resultado.
 Por exemplo: "Usuários" "Autenticação"
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QwUkKwavO6WM00STA32BVwyvn/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Admin/admin-a-pesquisa-global-nao-reconhece-os-itens-do-menu-de-perfil_1.png)
 
 
  ![](https://vtexhelp.zendesk.com/attachments/token/weT1QdMEqTne83NxeJRN1ilFm/?name=image.png

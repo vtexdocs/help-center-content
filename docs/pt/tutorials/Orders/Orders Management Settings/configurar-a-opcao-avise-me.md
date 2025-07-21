@@ -23,7 +23,7 @@ Quando um produto está fora de [estoque](/pt/tutorial/gerenciar-itens-em-estoqu
 
 Veja abaixo um exemplo de como a opção **Avise-me** é exibida em uma loja. Para receber uma notificação quando o item estiver disponível para venda, o cliente deve digitar o nome e o email nos campos destacados e, em seguida, clicar no botão `Enviar`.
 
-![aviseme-pt](https://images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/c97a66089cc55b3570f518fd901a139f/image1.png)
+![aviseme-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/Orders%20Management%20Settings/configurar-a-opcao-avise-me_1.png)
 
 Assim que o item é reposto no estoque da loja, o sistema envia um email para o cliente automaticamente, informando que o produto já está disponível para compra. 
 

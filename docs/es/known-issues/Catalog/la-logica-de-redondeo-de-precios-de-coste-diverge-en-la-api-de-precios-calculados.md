@@ -34,7 +34,7 @@ Establecer un producto con un precio de coste de 67,82 y sin margen de beneficio
 
 Compruebe la interfaz de usuario de precios y la respuesta de esta API, que debería ofrecer:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/r33X4C7mwiOwq9GkcB72ngCur/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados_1.png)
 
 Aunque el valor correcto es 67,82
 

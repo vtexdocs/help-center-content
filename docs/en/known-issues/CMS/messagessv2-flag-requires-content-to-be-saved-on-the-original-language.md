@@ -21,7 +21,7 @@ internalReference: 1260018
 
 
 When a multilanguage store has the MessagesV2 Enable New Page Translation Configuration flag, an issue happens on the site editor. If the client tries to save content in one of the locales that is not the main one, it might receive an error of: Something Went Wrong.
- ![](https://vtexhelp.zendesk.com/attachments/token/QOndCdSMiZtiGHYTBf0sYstQd/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/messagessv2-flag-requires-content-to-be-saved-on-the-original-language_1.png)
 This error is related to the message: "Original content not found".
 
 But with this flag active, this content is not required to be saved in the original locale for use. So it should not be required to save the content.

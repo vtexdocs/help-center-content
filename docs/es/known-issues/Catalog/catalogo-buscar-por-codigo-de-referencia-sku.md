@@ -34,7 +34,7 @@ Error al buscar utilizando "código de referencia sku"
 
 https://accountname.myvtex.com/admin/catalog-products
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pT9cx5kqdq9pc3M5wtev7rrA9/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-buscar-por-codigo-de-referencia-sku_1.png)
 
 
 ##

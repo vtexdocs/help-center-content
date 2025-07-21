@@ -60,7 +60,7 @@ Para seleccionar las funcionalidades para la transmisión de tu evento en vivo s
     * **Vista rápida**: esta opción permite a los usuarios acceder a los detalles del producto sin necesidad de salir de la página del evento en vivo.
     * **Scroll infinito**: activa la funcionalidad de scroll infinito para la opción **Productos de la barra lateral**, que se desplaza automáticamente según la cantidad de segundos definida. Los segundos se pueden definir en el campo **Estás modificando la velocidad de la barra lateral del producto (el rango recomendado: 3 a 100 segundos). Por favor, revisa y guarda tus cambios.**
 3. Haz clic en `Vista previa` para previsualizar la aplicación Live Shopping de acuerdo con los ajustes que definiste.
-  ![ls-cms](https://images.ctfassets.net/alneenqid6w5/7aHLYdrUAySptm8wfJFSyv/988766622b49e315a6ac1c7f22fca3ac/image.png)
+  ![ls-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_1.png)
 
 En la sección **Configuración CMS**, también encontrarás el script para insertar la aplicación de transmisiones en vivo en tu storefront en el lugar que prefieras.
 
@@ -98,7 +98,7 @@ Para aumentar el engagement y las ventas, la aplicación Live Shopping permite c
 
 Para gestionar el chat en vivo durante tu evento, busca el evento deseado en la lista de eventos y haz clic en el botón de flecha de la columna `Acciones`. En la sección **Chat en vivo** podrás ver y monitorear los comentarios en tiempo real, así como hacer un seguimiento del número de espectadores y de los me gusta. A continuación puedes consultar una lista con las funcionalidades disponibles:
 
-![ls-livechat](https://images.ctfassets.net/alneenqid6w5/6qgJl5jgPaKQIdYC4vlfEM/a9bbd65882863b18973239f8af9ea73e/image.png)
+![ls-livechat](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_2.png)
 
 * **I - Datos de la tienda**: permite configurar el nombre del administrador del chat. Ingresa el nombre de la persona en el campo de entrada y haz clic en `Guardar` para guardar los cambios.
 * **II - Descargar**: descarga la conversación de chat para futuras consultas o análisis.
@@ -117,7 +117,7 @@ La aplicación Live Shopping ofrece una funcionalidad de chat en vivo que permit
 
 1. En la lista de eventos, busca el evento deseado y haz clic en el botón de flecha de la columna `Acciones`.
 2. En la sección **Preguntas**, crea las preguntas que se mostrarán a la audiencia mediante el botón `Nueva pregunta`. Puedes elegir entre preguntas y encuestas, y definir el periodo de tiempo durante el que se mostrarán. Las respuestas recibidas se almacenarán en la misma sección.
-  ![ls-question](https://images.ctfassets.net/alneenqid6w5/2PO0dsftBiIarlYOdnBreh/20d0a8c1b3277a5aa50077de0a2ee37d/image.png)
+  ![ls-question](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_3.png)
 3. Haz clic en `Guardar la pregunta` para guardar tu pregunta y mostrarla a tu audiencia para que puedan responder. \
 
 #### Bloquear palabras no deseadas
@@ -140,7 +140,7 @@ Para acceder al estudio de streaming sigue los pasos a continuación:
 2. En la sección **Estudio de streaming** selecciona una de las siguientes opciones:
     * `Copiar invitación`: haz clic para copiar el link del evento y enviárselo a un coanfitrión para que pueda unirse a la transmisión en vivo.
     * `Acceder`: haz clic para acceder al estudio de streaming como anfitrión. Al hacer clic en `Acceder`, se abrirá una nueva ventana que te redirigirá al estudio de streaming.
-    ![ls-profile](https://images.ctfassets.net/alneenqid6w5/3J45oNqky0M8owVDwq27Eh/be731ffaa7fb9d14f7ab7cb1ebb6555f/image.png)
+    ![ls-profile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_4.png)
 3. En el campo `Completar mi perfil`, ingresa tu nombre y haz clic en `Continuar`. Después se te redirigirá al estudio de streaming.
 
 ### Mostrar productos durante el evento en vivo
@@ -152,7 +152,7 @@ Para mostrar productos durante el evento en vivo sigue estos pasos:
 1. En la lista de eventos, busca el evento deseado y haz clic en el botón de flecha de la columna `Acciones`.
 2. En la sección **Productos de la colección** selecciona los productos que deseas mostrar durante la transmisión en vivo activando el botón de alternancia en `Acciones`.
 
-![ls-products](https://images.ctfassets.net/alneenqid6w5/6b9YVi4ziMQvGwrswGnz6q/4c6c2b28c8a40c3bae37795eff7e974a/image.png)
+![ls-products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_5.png)
 
 ### Transmitir evento en vivo
 
@@ -161,14 +161,14 @@ Después de realizar toda la configuración y personalización de la aplicación
 1. En la lista de eventos, busca el evento deseado y haz clic en el botón de flecha de la `columna` Acciones.
 2. Copia el ID del evento en la sección `Detalles`.
 3. Cambia el status del evento a `En vivo` haciendo clic en el botón de alternancia `Iniciar`.
-![ls-event-details](https://images.ctfassets.net/alneenqid6w5/20VoqfM9WOEolWnP0qxZmW/d9a69345367d421e833d3300fb836ceb/image.png)
+![ls-event-details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_6.png)
   <div class="alert alert-warning" role="alert">
   El evento puede tardar hasta 3 minutos en iniciarse.
   </div>
 
 4. Accede a **Storefront > Site Editor**.
 5. Busca el bloque **Live Shopping** en tu storefront, de acuerdo con el template que utilizaste, y selecciónalo.
-  ![ls-transmission](https://images.ctfassets.net/alneenqid6w5/3KqmamTB0jveDJc9XoB4UO/f62fc17bbccd68e43bee6a3d712641e8/image.png)
+  ![ls-transmission](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_7.png)
 6. Activa el reproductor de **Live Shopping** en tu tienda a través del botón `Mostrar componente`.
 7. Haz clic en `Eventos (en vivo)` para elegir el evento deseado.
 8. Haz clic en `Guardar` para guardar los cambios.
@@ -185,7 +185,7 @@ Para crear una experiencia personalizada y visualmente atractiva para el evento 
 2. En la lista de eventos, busca el evento deseado y haz clic en el botón de flecha de la `columna` Acciones.
 3. Cuando el evento esté en vivo, ve a la sección **Tipo de layout** y haz clic en el botón `Personalizar apariencia` para acceder al módulo de personalización.
 4. En la página **Apariencia** encontrarás dos opciones: móvil y escritorio. Al seleccionar cada opción, puedes configurar y personalizar los componentes específicos de esas vistas, personalizando tanto los productos como las secciones de chat del reproductor de Live Shopping.
-  ![ls-look-feel](https://images.ctfassets.net/alneenqid6w5/3LRfDcViqH7pWXTNWH1Q4Q/cc4e5fc80edf5355c80b63c0b27467d9/image.png)
+  ![ls-look-feel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_8.png)
   <div class="alert alert-info">
   Observa que cuando entras en el módulo de personalización y empiezas a personalizar un componente, este se destacará en color azul.
 </div>
@@ -225,7 +225,7 @@ Debes finalizar la transmisión en vivo para dar por concluido el evento. Sigue 
   El proceso de finalización de la transmisión en vivo puede demorar un poco. No cierres la página hasta que el proceso se complete. El status `Finalizado` cambiará a verde cuando termine.
 </div>
 
-![ls-event-info](https://images.ctfassets.net/alneenqid6w5/6VrA9srqPvZl5cyrUtynRZ/853895482c0019a0be1147b4df04d0e6/image.png)
+![ls-event-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_9.png)
 
 Una vez concluida la transmisión en vivo, accede a la sección **Grabación del evento** para recibirlo por email o descargarlo directamente desde el navegador, si lo deseas. La descarga suele tardar 60 minutos, y podrás consultar el porcentaje del progreso.
 
@@ -233,5 +233,5 @@ Una vez concluida la transmisión en vivo, accede a la sección **Grabación del
 
 Para obtener información valiosa sobre el desempeño de tu transmisión en vivo, puedes monitorear los datos a través de la aplicación Live Shopping. Al analizar métricas de engagement e indicadores clave de desempeño (KPI), podrás evaluar la efectividad de tu evento y tomar decisiones informadas para futuras mejoras. Sigue los pasos a continuación para acceder y revisar los datos del evento:
 
-![ls-analytics](https://images.ctfassets.net/alneenqid6w5/5pDOBPqWMEeKnglszokEBZ/2f057bd4fc86ca1d6f96be281ecb89cc/image.png)
+![ls-analytics](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Live%20Shopping/live-shopping-eventos_10.png)
 

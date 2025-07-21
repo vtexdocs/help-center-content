@@ -50,7 +50,7 @@ Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el 
 
 Después de crear el SKU, puedes monitorear su disponibilidad para la venta a través del ícono de color. Al pasar el mouse sobre el ícono, se muestra un texto que explica el significado del color, según se ilustra en la siguiente imagen. Más información en [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_ES](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/921142f7de70981b27c0e1e022beb960/adding_or_editting_sku_ES.png)
+![adding_or_editting_sku_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products%20and%20SKUs/agregar-o-editar-skus_1.png)
 
 Además, después de registrar el SKU puedes agregarlo a un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) haciendo clic en el ícono de menú en la fila del SKU deseado y seleccionando la opción `Crear kit`. Ten en cuenta que transformar un SKU en un kit es permanente y no se puede deshacer.
 

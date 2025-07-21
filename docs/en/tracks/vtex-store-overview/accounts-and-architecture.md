@@ -28,7 +28,7 @@ VTEX account types are:
 
 The following image is an overview to help you [choose between standard, franchise, or Seller Portal accounts](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78):
 
-![main_account_franchise_seller_portal_EN](https://images.ctfassets.net/alneenqid6w5/4NfyGbu9eVJFRc6EfCpTHr/b8f887b2f84c72b3c20a38a020f9c53f/main_account_franchise_seller_portal_EN.png)
+![main_account_franchise_seller_portal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/accounts-and-architecture_1.png)
 
 ## Account characteristics
 
@@ -58,7 +58,7 @@ However, using many trade policies simultaneously can compromise the store's per
 
 The image below is an example of how the main account, environment, multi-store, and trade policies are related:
 
-![multistore_aditional_environment_EN](https://images.ctfassets.net/alneenqid6w5/6XOI59M49L18E99hSDpgWe/4bf1e15428b5db24e4658c446eb5e2cf/multistore_aditional_environment_EN.png)
+![multistore_aditional_environment_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/accounts-and-architecture_2.png)
 
 ### Multistore
 

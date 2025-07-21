@@ -33,7 +33,7 @@ The table below highlights the new features available on the page for [adding or
 | New field: **Additional description** | Include additional and summarized product information. This improvement provides more flexibility and options for presenting the product on the PDP. |
 | New field: **Release date** | Set the product release date, determining when it will be available for sale. |
 
-![announcement_product_page_EN](https://images.ctfassets.net/alneenqid6w5/4wCQdF8IlArYDPeC0GVBb/9a1cb057a2b1cbaade9180e0959a2cb4/announcement_product_page_EN.gif)
+![announcement_product_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-02-19-new-pages-for-adding-or-editing-products-and-skus-now-in-ga_1.gif)
 
 ### SKU
 
@@ -49,7 +49,7 @@ The table below highlights the new features on the page for [adding or editing S
 | New field: **Videos** | Attach up to six videos with the SKU. |
 | New field: **Attributes** | Create **Attributes** and add custom information to the SKU. |
 
-![announcement_sku_page_EN](https://images.ctfassets.net/alneenqid6w5/75H7cG75uj77vX0o60C9cP/1ac09383dd8057d5e2ac752484edd7a0/announcement_sku_page_EN.gif)
+![announcement_sku_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-02-19-new-pages-for-adding-or-editing-products-and-skus-now-in-ga_2.gif)
 
 ## What needs to be done?
 

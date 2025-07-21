@@ -24,7 +24,7 @@ subcategoryId: 2vuGumwWQ432unGlyOOXXc
 La aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 
-| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
+| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Personal%20Shopper/personal-shopper-vision-general_1.gif)     |
 | ---------- | ---------- |
 | Personal Shopper móvil       | Personal Shopper computadora       |
 
@@ -188,7 +188,7 @@ Si estás registrado como personal shopper puedes crear videollamadas con tus cl
 5.	Haz clic en `Crear videollamada`.
 6.	Selecciona `Iniciar videollamada instantánea` para comenzar la sesión con el cliente o `Crea una videollamada para más tarde` para programarla.
 
-![calls-personalshopper](https://images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/31d638c771d155110f2ab3a5b83c4c71/image.png)
+![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Personal%20Shopper/personal-shopper-vision-general_2.png)
 
 Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 
@@ -222,7 +222,7 @@ Asegúrate de conceder al navegador los permisos necesarios para el acceso al mi
 
 Al participar en una videollamada como personal shopper tendrás acceso a varias herramientas, según se presentan a continuación:
 
-![call-personalshopper](https://images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/a3294275dd17930a0af26f486ec0986f/image.png)
+![call-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Personal%20Shopper/personal-shopper-vision-general_3.png)
 
 * **I - Micrófono:** permite a los participantes controlar su audio silenciándose o reactivando el sonido.
 * **II - Cámara:** permite a los participantes encender o apagar su cámara durante la videollamada.

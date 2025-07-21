@@ -30,7 +30,7 @@ A página apresenta a lista com as promoções cadastradas na sua loja e suas in
 | `Até` | Data de término da promoção. |
 | `Status` | Status da promoção, que pode estar: <p> __Ativa:__ quando a promoção está ativada.</p> <p>__Programada:__ quando a promoção foi programada.</p> <p>__Pausada:__ quando a promoção estiver pausada. <p>__Finalizada:__ quando a promoção foi encerrada.</p> |
 
-![listadepromocoes pt](https://images.ctfassets.net/alneenqid6w5/3vT0P63t0Kvm2heipqfpsT/5f4e74dae8d76243d8214588c2db247a/listadepromocoes_pt.gif)
+![listadepromocoes pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promocoes-beta_1.gif)
 
 Você pode ordenar a exibição das promoções a partir do nome, das datas ou do status da promoção. Para isso, clique no título da coluna com a informação que você deseja utilizar como critério de ordenação.
 
@@ -82,7 +82,7 @@ O arquivo contém as seguintes informações sobre cada promoção:
 
 ## Uso das promoções
 
-![usodaspromoções pt](https://images.ctfassets.net/alneenqid6w5/6kpAz3b5vxOjIb8o9Aouxe/2c9b92564afeadbeb777b04813fbe0fa/usodaspromo____es_pt.JPG)
+![usodaspromoções pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promocoes-beta_2.JPG)
 
 Para visualizar o total de promoções ativas na sua loja e a cota de espaço restante para novas promoções, clique em `Uso das promoções`.
 
@@ -90,7 +90,7 @@ O número máximo padrão de promoções ativas é 100. Caso precise aumentar es
 
 ## Filtrar promoções
 
-![filtrodepromocoes pt](https://images.ctfassets.net/alneenqid6w5/3flpyzIkBlYDiuhYLea8nu/6e57eb53961b821b54233964711fe4d4/filtrodepromocoes_pt.gif)
+![filtrodepromocoes pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/lista-de-promocoes-beta_3.gif)
 
 A lista de promoções pode ser filtrada conforme a sua necessidade. A filtragem da lista pode ser feita pelos filtros a seguir: 
 

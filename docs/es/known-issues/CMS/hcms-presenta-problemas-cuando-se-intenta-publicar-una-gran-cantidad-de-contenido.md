@@ -32,7 +32,7 @@ Al intentar publicar una página con una gran cantidad de contenido, el hCMS pue
 
 
 Intente añadir un texto largo, por ejemplo, en una página hCMS. El borrador se guardará correctamente, pero al intentar publicarlo, no será posible. El error será:
- ![](https://vtexhelp.zendesk.com/attachments/token/YmERJsiEpxbtpSzCa7heytRjs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/hcms-presenta-problemas-cuando-se-intenta-publicar-una-gran-cantidad-de-contenido_1.png)
 
 En la red, verá:
 

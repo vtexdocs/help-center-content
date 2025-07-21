@@ -32,13 +32,13 @@ La característica que simula los datos entre los espacios de trabajo dentro de 
 
 
 Intente crear un nuevo borrador en un espacio de trabajo, como en el ejemplo de abajo, verá que la versión simulada se guardará:
- ![](https://vtexhelp.zendesk.com/attachments/token/ALJXihZcrD2L1K4FwrXfqZpML/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo_1.png)
 
 Después de editar, prueba a guardar los cambios, la versión simulada se convertirá en un borrador normal:
- ![](https://vtexhelp.zendesk.com/attachments/token/mrwjyqtC4ALC3DIlVXwP9sXXA/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo_2.png)
 
 Pero si accedes al entorno maestro de tu tienda, el borrador también estará allí:
- ![](https://vtexhelp.zendesk.com/attachments/token/DgHHvGNcu18BBx5CZqXoPmw9Z/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo_3.png)
 
 Este borrador también se puede publicar
 

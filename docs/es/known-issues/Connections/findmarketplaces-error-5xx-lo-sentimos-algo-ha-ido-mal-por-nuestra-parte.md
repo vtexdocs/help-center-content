@@ -34,7 +34,7 @@ El error se produce durante el reintento de integración con el marketplace Rica
 
 Admin > Mercado > Mercados e integraciones > Ricardo Eletro > Conectar
 
- ![](https://vtexhelp.zendesk.com/attachments/token/NGEmOlXo52LZgVBg692pAm0ow/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/findmarketplaces-error-5xx-lo-sentimos-algo-ha-ido-mal-por-nuestra-parte_1.png)
 
 
 ##

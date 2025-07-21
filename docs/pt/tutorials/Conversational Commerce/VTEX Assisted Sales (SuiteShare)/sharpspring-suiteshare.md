@@ -21,29 +21,29 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **SharpSrpring**.
 
-   ![SharpSpring_1](https://images.ctfassets.net/alneenqid6w5/3GAphuPmnfRLWSwUj6kf2t/9b3a07ed03a91a5c7b56cbf813fd31b8/SharpSpring_1.png)
+   ![SharpSpring_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > Marketing > Habilitar**.
 
-   ![SharpSpring_2](https://images.ctfassets.net/alneenqid6w5/2mVIrVMqw46gouJObzggSb/e84e232c373a1388f66bd21e99d4e163/SharpSpring_2.png)
+   ![SharpSpring_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_2.png)
 
-   ![SharpSpring_3](https://images.ctfassets.net/alneenqid6w5/2iyTWPWFwA8knyZVVTvMNz/f8841da59167b18c48f6a81d8a7c0190/SharpSpring_3.png)
+   ![SharpSpring_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_3.png)
 
 O próximo passo é acessar sua conta da **SharpSpring** e fazer login.
 
-![SharpSpring_4](https://images.ctfassets.net/alneenqid6w5/2WlxccYGdMlXuhmqndYnZE/f4774b9e268ffb3e1f5439c15413127e/SharpSpring_4.png)
+![SharpSpring_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_4.png)
 
 Agora, acesse o menu **Configurações** no canto superior direito.
 
-![SharpSpring_5](https://images.ctfassets.net/alneenqid6w5/5Ywk5ubVZNDQi0IpYt2u0Y/7c728729f51983336ce07e02b5c8a856/SharpSpring_5.png)
+![SharpSpring_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_5.png)
 
 Em **Configurações**, clique em **Configurações API**.
 
-![SharpSpring_6](https://images.ctfassets.net/alneenqid6w5/2gzKOi3F2hCvrhHH7LRFOk/29f24870c6c09d3cd9e509550b9c5b37/SharpSpring_6.png)
+![SharpSpring_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_6.png)
 
 Agora que você tem acesso às chaves da API, basta selecionar o link que deseja integrar com o CRM (captura) e inserior os códigos dentro da VTEX Assisted Sales (SuiteShare).
 
-![SharpSpring_7](https://images.ctfassets.net/alneenqid6w5/5EuuoLIO47LBgF0cKElMdo/6321b7c9b4ce5137efbcc669f80a7a47/SharpSpring_7.png)
+![SharpSpring_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sharpspring-suiteshare_7.png)
 
 Pronto! Você acabou de integrar a VTEX Assisted Sales (SuiteShare) com o seu CRM. 
 

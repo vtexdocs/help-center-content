@@ -23,7 +23,7 @@ Anteriormente, após o cadastro na loja ou primeira compra, os dados do cliente 
 
 A partir de agora, duas caixas de seleção estarão disponíveis na tela do Checkout, permitindo que o usuário indique se deseja que suas informações pessoais e de pagamento sejam armazenadas e reutilizadas para futuras compras. Dessa maneira, será  reduzido o tempo de compra realizado pelo cliente. 
 
-![ Save user data opt-in PT](https://images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/5324e710aa8787fc411b63e1f67609e2/Save_user_data_-_PT.PNG)
+![ Save user data opt-in PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-06-21-save-user-opt-in-utilizando-informacoes-salvas-em-futuras-compras_1.PNG)
 
 Saiba mais em [SmartCheckout - Preenchimento automático de dados do cliente](/pt/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 

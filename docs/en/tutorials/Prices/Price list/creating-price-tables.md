@@ -23,7 +23,7 @@ To create a new Price Table, follow the steps below:
 4. Choose the name of the pricing table you want to create.
 5. Click on button **Create price table**.
 
-![creating-price-tables](https://images.ctfassets.net/alneenqid6w5/1aG692obTeP7RMdEQd7jGE/5fabe5c47940372d29b45d2718c34b68/criar-tabela-precos-en.gif)
+![creating-price-tables](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/creating-price-tables_1.gif)
 
 To find a Price Table: 
 

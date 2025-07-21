@@ -31,11 +31,11 @@ It doesn't happen with all SKUs.
 
 Catalog VTEX
 
- ![](https://vtexhelp.zendesk.com/attachments/token/zW9gC27dV1ymA8U5xinRWKc3s/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/amazon-skus-for-the-same-product-werent-grouped-on-amazon_1.png)
 
 Aamazon
 
- ![](https://vtexhelp.zendesk.com/attachments/token/AaeVkm0lPS92TpMYhXfqkqa7g/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/amazon-skus-for-the-same-product-werent-grouped-on-amazon_2.png)
 
 
 ##

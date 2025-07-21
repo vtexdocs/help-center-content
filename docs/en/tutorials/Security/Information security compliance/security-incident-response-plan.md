@@ -17,7 +17,7 @@ subcategoryId: vONCJSxwN5qZiElOEtKkH
 
 VTEX has a structured Security Incident Response Plan designed to minimize risks, mitigate impact, and ensure a swift recovery from security incidents. This plan consists of the following phases: preparation; containment, eradication, and recovery; identification; communication; and post-incident activities.
 
-![security-incident-response-plan-en](https://images.ctfassets.net/alneenqid6w5/3aWjZkJzpF1HoQneetC8Pc/3deed0074b09a03f3b37a30c5979da7a/security-incident-response-plan-en.png)
+![security-incident-response-plan-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/Information%20security%20compliance/security-incident-response-plan_1.png)
 
 ## 1. Preparation
 

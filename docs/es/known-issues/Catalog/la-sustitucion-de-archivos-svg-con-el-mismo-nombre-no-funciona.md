@@ -25,11 +25,11 @@ internalReference: 1151600
 
 Cuando se utiliza el gestor de archivos CMS en el administrador de la cuenta, hay una opción para que usted pueda subir archivos:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://vtexhelp.zendesk.com/attachments/token/k1Du6DExk2Rg7OCwXAKVRJfzv/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-sustitucion-de-archivos-svg-con-el-mismo-nombre-no-funciona_1.png)
 
 Cuando suba archivos .SVG, si elige reemplazar un archivo anterior, utilizando el mismo nombre, se mostrará la siguiente pantalla:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3jOyJQyyWWZJ2s6tlzjiJyDko/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-sustitucion-de-archivos-svg-con-el-mismo-nombre-no-funciona_2.png)
 
 Sin embargo, el contenido de dicho archivo nunca se actualiza cuando se utiliza este método.
 

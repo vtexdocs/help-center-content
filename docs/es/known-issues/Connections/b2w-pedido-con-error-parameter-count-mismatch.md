@@ -36,7 +36,7 @@ Impacto:Ocurre con algunos pedidos
 
 Admin > Puente > Pedidos
 
- ![](https://vtexhelp.zendesk.com/attachments/token/cT90VMDIz1kZblPQWMpmmB93D/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/b2w-pedido-con-error-parameter-count-mismatch_1.png)
 
 
 ##

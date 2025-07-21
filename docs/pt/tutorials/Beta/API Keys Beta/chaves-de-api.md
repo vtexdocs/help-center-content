@@ -29,15 +29,15 @@ A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com
 
 * [Configurações](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ): permite definir o prazo de duração padrão de chaves de API geradas na sua conta.
 
-  ![apikeys-settings-pt](https://images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/b6e85ab01786d99648bbcdb38574973d/apikeys-settings-pt.png)
+  ![apikeys-settings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/API%20Keys%20Beta/chaves-de-api_1.png)
 
 * [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc): permite gerenciar chaves de API criadas e administradas por sua conta VTEX.
 
-  ![apikeys-pt](https://images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/d331b579a3fcec095ee4048eae3498f5/apikeys-pt.png)
+  ![apikeys-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/API%20Keys%20Beta/chaves-de-api_2.png)
 
 * [Chaves terceiras](/pt/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q): permite gerenciar chaves de API criadas e administradas por outras contas VTEX, com acesso a recursos específicos na sua conta.
 
-   ![apikeys-external-pt](https://images.ctfassets.net/alneenqid6w5/5mwOrVyQr2LiDBAkzIZWwU/ef829c3c776b6fa1326d49d97a6b7b47/apikeys-external-pt.png)
+   ![apikeys-external-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/API%20Keys%20Beta/chaves-de-api_3.png)
 
 ## Requisitos para gerenciar chaves de API
 

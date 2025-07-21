@@ -41,13 +41,13 @@ Errores
 - Aparece un mensaje de error en la interfaz de usuario (impresión 01)
 - Correo electrónico: El usuario recibe dos correos electrónicos, uno correcto con la hoja de cálculo y otro con un error (imprimir 02)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/nssU6EUTkqi1oEpWJfGNG4hZ3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-error-al-exportar-el-informe_1.png)
 
 IMPRIMIR 02
 
- ![](https://vtexhelp.zendesk.com/attachments/token/IaqPe0pf0oUHatfDvp85FH2sQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-error-al-exportar-el-informe_2.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/xsuPbF5tOdI7lXxaK3JMHlK0U/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-error-al-exportar-el-informe_3.png)
 
 
 

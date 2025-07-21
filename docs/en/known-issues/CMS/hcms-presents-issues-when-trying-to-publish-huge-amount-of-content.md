@@ -28,7 +28,7 @@ When trying to publish a page with a huge amount of content, the hCMS can presen
 
 
 Try to add a long text, for example, in an hCMS page. The draft will be saved correctly, but when trying to publish it, it will not be possible. The error will be:
- ![](https://vtexhelp.zendesk.com/attachments/token/YmERJsiEpxbtpSzCa7heytRjs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/hcms-presents-issues-when-trying-to-publish-huge-amount-of-content_1.png)
 
 On the network, you'll see:
 

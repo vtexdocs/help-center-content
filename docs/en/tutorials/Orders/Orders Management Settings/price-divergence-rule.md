@@ -29,7 +29,7 @@ The Price Divergence rule is composed of one or more order authorization rules. 
 - **Automatically deny:** Orders with a price difference within the defined range are automatically rejected and are not integrated.
 - **Create a task in VTEX DO for approval:** For price differences within the defined range, the order is integrated but needs to be [manually approved](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually) by an authorized user.
 
-![price_divergence_rules_EN](https://images.ctfassets.net/alneenqid6w5/3eUHS2dcIUY5KiDshLpurc/813c44996850c4bd68a5ea4be1a92f41/price_divergence_rules_EN.png)
+![price_divergence_rules_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20Management%20Settings/price-divergence-rule_1.png)
 
 When the [Price Divergence rule configuration](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) was not made, orders with price divergence errors are automatically approved. This applies to VTEX marketplaces, external marketplaces, and certified connectors (partners), but not to [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex).
 

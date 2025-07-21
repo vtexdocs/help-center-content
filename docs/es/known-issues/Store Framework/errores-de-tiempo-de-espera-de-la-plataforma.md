@@ -34,7 +34,7 @@ Esto puede estar relacionado con las consultas GraphQL. Normalmente, verás erro
 
 
 Intenta acceder a algunas páginas en el admin, por ejemplo, de una cuenta, y aleatoriamente, esta página puede recibir el error de abajo. Esta imagen también puede aparecer en el entorno myvtex al acceder a cualquier otra página:
- ![](https://vtexhelp.zendesk.com/attachments/token/bpiTuFWDjmPfEtLAiVcLhiMRs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/errores-de-tiempo-de-espera-de-la-plataforma_1.png)
 Al actualizar la página todo debería volver a la normalidad
 
 Puedes ver más detalles del error en la consola o simplemente esperar a que se refresque.

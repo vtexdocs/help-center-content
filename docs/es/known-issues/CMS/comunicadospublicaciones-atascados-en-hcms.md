@@ -32,7 +32,7 @@ Al intentar publicar nuevo contenido en hcms, la publicación o publicación pue
 
 
 Se trata de un problema intermitente relacionado con las publicaciones en hCMS. No todas las publicaciones darán lugar a este comportamiento. Pero puedes ver que la publicación se atascará en el primer paso del modal:
- ![](https://vtexhelp.zendesk.com/attachments/token/JRbMYz11RMrSetBEN9PS0WUWG/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/comunicadospublicaciones-atascados-en-hcms_1.png)
 
 
 

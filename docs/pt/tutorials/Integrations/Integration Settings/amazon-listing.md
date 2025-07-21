@@ -19,7 +19,7 @@ O **Amazon Listing** é a funcionalidade utilizada pelo seller para cadastrar pr
 - Se o produto já existe na Amazon, o seller deve seguir as instruções do [Tutorial Match de anúncios Amazon](/pt/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) para vincular seu produto a um anúncio na Amazon.  
 - Se o produto ainda não existe na Amazon, o seller deve seguir as instruções deste tutorial para cadastrar seu produto e criar um novo anúncio na Amazon. 
 
-![overview amazon listing](https://images.ctfassets.net/alneenqid6w5/6WBSbS8HiLi35enIvScFvC/f8ff5fccdf993505c11f30e83b3295f2/Overview-Amazon-Listing.gif)
+![overview amazon listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/amazon-listing_1.gif)
 
 <div class="alert alert-info">
 Todos os produtos precisam ter <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de serem enviados ao marketplace.
@@ -39,8 +39,8 @@ A página é composta pelos seguintes itens:
 
 Na barra de busca, o seller pesquisará SKUs por **nome** ou por **SKU ID.** Veja exemplos abaixo.
 
-![busca-nome-pt](https://images.ctfassets.net/alneenqid6w5/2tNnsb4mwSadZd91bIJufP/9d0bd4c705f4651f1768239b461113e3/busca-nome-pt.jpg)
-![busca-sku-pt](https://images.ctfassets.net/alneenqid6w5/1p47pPgdDFnOsbrDLaIFv2/92159d05716cfa3b39c17ee724fc31a8/busca-sku-pt.jpg)
+![busca-nome-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/amazon-listing_2.jpg)
+![busca-sku-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/amazon-listing_3.jpg)
 
 ### Filtros
 
@@ -112,7 +112,7 @@ Ao realizar a edição de um template, é possível adicionar novos atributos e 
 
 Quando alguma edição é feita no template, será apresentado no rodapé da página a opção de visualizar as alterações como na imagem a seguir.
 
-![Gerenciar template Listing](https://images.ctfassets.net/alneenqid6w5/7arqSe1SUKeozJ5ObMOYSk/1d97d4c2a86ee45bc733600e7b5b8d3e/gerenciamento-template.jpg)
+![Gerenciar template Listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Integration%20Settings/amazon-listing_4.jpg)
 
 <div class="alert alert-info">
 Todas as alterações realizadas no template, serão refletidas nos SKUs da categoria que ainda não foram enviados.

@@ -38,7 +38,7 @@ Hay dos escenarios aquí
 
 1. En la antigua UI de sku binding la hoja de cálculo de exportación devolvía 7 columnas, hoy la nueva UI cuando exportamos la hoja de cálculo devuelve 4 columnas.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OCsHYfXDqaz6W76qYhp7C1DDW/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo_1.png)
 
 **NUEVAS COLUMNAS**
 StockKeepingUnitId
@@ -46,7 +46,7 @@ SellerId
 SellerStockKeepingUnitId
 IsActive
 
- ![](https://vtexhelp.zendesk.com/attachments/token/gKb7BUfDenjXsGTQ0sE9F1DXr/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo_2.png)
 
 **COLUMNAS ANTIGUAS**
 SkuSellerId
@@ -61,11 +61,11 @@ Fecha de actualización solicitada
 
 **NOMBRE DEL FICHERO ANTES | ANTIGUO**
 
- ![](https://vtexhelp.zendesk.com/attachments/token/HjApMXd3SVgQ7Pb8XEN3Mgv20/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo_3.png)
 
 **NOMBRE DEL FICHERO DESPUÉS | NUEVO **
 
- ![](https://vtexhelp.zendesk.com/attachments/token/R2WZAjWdduzMXo7mFAT8LFmN6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/sku-binding-no-se-muestran-todas-las-columnas-en-la-hoja-de-calculo_4.png)
 
 
 

@@ -29,7 +29,7 @@ No configuration is needed to activate this functionality - it will be installed
 
 It is worth noting that this action can be undone. It is possible to approve a blocked SKU through REST API if the marketplace wishes to receive it again as a suggestion from the seller. To learn more about SKU approval, access our API documentation on the Developer Portal.
 
-![EN SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/fab32d8d2bbf1b59bace4e2fb0d85ac5/EN_SKUs_Recebidos_Announcement.jpg)
+![EN SKUs Recebidos Announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020-10-26-marketplace-improvements-on-received-skus_1.jpg)
 
 ## Configuring automatic SKU approval
 

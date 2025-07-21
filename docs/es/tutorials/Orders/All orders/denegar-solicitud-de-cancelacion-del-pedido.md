@@ -35,7 +35,7 @@ No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--t
 
 En la siguiente imagen puedes consultar cómo se desarrolla la denegación de las solicitudes de cancelación del pedido, una vez finalizado el periodo de cancelación:
 
-![cancel_api_improvements_help_center_ES_v2](https://images.ctfassets.net/alneenqid6w5/68eCO8cFvRz9NsvLaalNMe/716a0f4775bc8418b72578fd1e384130/cancel_api_improvements_help_center_ES_v2.png)
+![cancel_api_improvements_help_center_ES_v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_1.png)
 
 La descripción de cada paso es la siguiente:
 
@@ -71,11 +71,11 @@ Para denegar una solicitud de cancelación del pedido a través del Admin VTEX, 
 2. Selecciona el pedido deseado para acceder a la [página de información del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la parte superior de la página, haz clic en `Denegar`.
 
-  ![deny cancel request](https://images.ctfassets.net/alneenqid6w5/53kKd5oNkEjeziq9XR4yvO/19f9b7716df1f0e011b11850d3866e13/deny_cancel_request_ES.png)
+  ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_2.png)
 
 4. Ingresa en el campo Solicitud de cancelación el motivo por el que se deniega la solicitud de cancelación del pedido.
 
-  ![deny cancel request reason](https://images.ctfassets.net/alneenqid6w5/1okkX2L4JdZ57qcdZ758O4/fae33faa395d0aa0c51b2cd645bbf2f8/deny_cancel_request_reason_ES.png)
+  ![deny cancel request reason](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/denegar-solicitud-de-cancelacion-del-pedido_3.png)
 
   <div class="alert alert-warning">
 Atención: el cliente puede recibir el mensaje que ingreses en este campo a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi cuenta</a> o a través del marketplace.

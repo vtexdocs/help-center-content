@@ -28,10 +28,10 @@ If your store has categories with special characters, such as `/`, Fastestore's 
 
 
 Add a category with a special character such as `computers/softwares`
- ![](https://vtexhelp.zendesk.com/attachments/token/GotI44D5ebNA8EhouzkuBAh8l/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/faststores-breadcrumb-doesnt-handle-special-characters-well_1.png)
 
 Go to the product's PDP and see how the breadcrumb is behaving:
- ![](https://vtexhelp.zendesk.com/attachments/token/uhuoUTlqJfGZrU3hHI19OqaqG/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/faststores-breadcrumb-doesnt-handle-special-characters-well_2.png)
 Also, the link to the category will not work
 
 

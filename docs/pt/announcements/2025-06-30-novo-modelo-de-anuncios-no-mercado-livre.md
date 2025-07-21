@@ -23,13 +23,13 @@ A [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado
 
 No modelo anterior, um anúncio no marketplace era criado quando o seller enviava um produto pela integração de sua loja com o Mercado Livre. Todos os SKUs desse produto eram vinculados a um mesmo anúncio, sem a possibilidade de ter atributos como preço, origem do estoque, tipo de frete e desconto individualmente.  
 
-![uptin1](https://images.ctfassets.net/alneenqid6w5/5y6Mxe9VrAaCzO6ElXjM3O/249542135a717eba8e750a6952316c66/uptin1.jpg)
+![uptin1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre_1.jpg)
 
 No novo modelo, os anúncios são criados no marketplace a partir do envio de SKUs. Para agrupar os SKUs de um produto, o **Mercado Livre** identifica as características semelhantes e gera de maneira automática um conjunto chamado **Família.**  
 
 Ao criar um novo anúncio, o Mercado Livre utilizará os atributos do SKU como tamanho e cor para agrupá-los em uma **Família**.   
 
-![uptin-pt](https://images.ctfassets.net/alneenqid6w5/2H22mnrFOUx0Cfes1OFBzI/56802a3456e3d0e615eda85244dda208/uptin-pt.png)
+![uptin-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre_2.png)
 
 ## O que precisa ser feito?
 

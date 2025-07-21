@@ -21,7 +21,7 @@ Se seu cliente final compra um produto em qualquer dos seus canais (online ou lo
 
 No entanto, você pode preferir que essa loja funcione como ponto de retirada __mesmo se ela não tiver estoque__. Para isso, sua logística precisa garantir que o produto chegará a essa loja a partir de outro estoque - por exemplo, a partir do estoque do e-commerce. Neste caso, você precisa ter uma política de envio no e-commerce em que esteja configurado o ponto de retirada da loja física.
 
-![Criar ponto de retirada de contingência para garanti-lo como opção no checkout](https://images.ctfassets.net/alneenqid6w5/38phAuzqPzQoBPy8811K3K/53b839763aa9f25178d599d78eb73203/diagrama-como-criar-um-ponto-de_contigencia-pt.jpg)
+![Criar ponto de retirada de contingência para garanti-lo como opção no checkout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/Checkout%20overview/criar-ponto-de-retirada-de-contingencia-para-garanti-lo-como-opcao-no_1.jpg)
 
 ## Como implementar um ponto de retirada de contingência
 

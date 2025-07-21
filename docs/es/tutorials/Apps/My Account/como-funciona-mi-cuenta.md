@@ -34,7 +34,7 @@ Para saper sobre cómo personalizar la funcionalidad <b>Mi cuenta</b>, consulte 
 
 En esta pestaña, el cliente puede gestionar sus datos personales registrados en la tienda. Es posible [editar la información del perfil](#editar), [definir una nueva contraseña](#contrasena) y [elegir si desea recibir emails con promociones](#boletin-informativo).
 
-![profile ES](https://images.ctfassets.net/alneenqid6w5/6LUXeCU09v8EOyMXntPggz/98d696bdb6ca27fdcb6125d6ad83d60c/profile_ES.png)
+![profile ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_1.png)
 
 ### Editar
 
@@ -83,7 +83,7 @@ En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJT
 
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 
-![orders ES](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/c6d01d4becb2a0f1173e34a82f83cb90/orders_ES.png)
+![orders ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_2.png)
 
 La pestaña **Pedidos** permite que el cliente haga el seguimiento del progreso del pedido y realice solicitudes como la cancelación y la modificación. Consulte a continuación todas las opciones disponibles.
 
@@ -108,7 +108,7 @@ Al hacer clic en un pedido del listado, el cliente podrá visualizar todos los d
 
 El cliente también puede [Hacer pedido de nuevo](#hacer-pedido-de-nuevo) desde esta página. Al hacer clic en `Más opciones`, se muestran las funcionalidades de [Modificar pedido](#modificar-pedido) (en caso de que esté habilitada y el _status_ del pedido sea `Preparando el pedido`) y [Solicitar cancelación](#solicitar-cancelacion).
 
-![order details ES](https://images.ctfassets.net/alneenqid6w5/JQbiFPVtCl1Q8F6PaM0A0/d29f723e144d008ee0fc142db264a4a0/order_details_ES.png)
+![order details ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_3.png)
 
 #### Modificar pedido
 
@@ -135,7 +135,7 @@ Para agregar nuevas tarjetas, sigue los pasos a continuación:
 6. Resuelve el desafío de reCaptcha.
 7. Automáticamente se producirá un proceso de validación de tarjeta. Si no hay ningún problema, serás redirigido a la lista de tarjetas y la nueva tarjeta aparecerá en la lista.
 
-![Card ReCaptcha](https://images.ctfassets.net/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/eb678f63dc5c69a402bae6db631c5ba8/Card_ReCaptcha_EN.gif)
+![Card ReCaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_4.gif)
 
 Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
 
@@ -157,7 +157,7 @@ En esta pestaña, el cliente puede gestionar todas sus suscripciones registradas
 
 Esta pestaña se puede acceder a ella en el panel izquierdo a través de **Autenticación** en la configuración del perfil del usuario. En la pestaña encontrará opciones para la gestión de contraseña y gestión de sesiones.
 
-![My Authentication app ES](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/3ac0c69ccace5c9b274318b06bea409f/My_Authentication_app_ES.png)
+![My Authentication app ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_5.png)
 
 ### Gestión de contraseña 
 
@@ -167,7 +167,7 @@ El componente **Contraseña** permite al usuario crear una contraseña (si aún 
 2. En el campo **Código**, introduzca el código de verificación que recibió por email.
 3. En el campo **Nueva contraseña**, introduzca la nueva contraseña que desea asignar a su cuenta. Debajo del campo aparecen los requisitos que debe cumplir la contraseña para ser válida. A medida que escriba la contraseña, los símbolos de cada requisito cambiarán de rojo a verde. La contraseña solo será válida si todos los símbolos aparecen en verde.
 4. Una vez que haya introducido una contraseña válida, haga clic en el botón `GUARDAR CONTRASEÑA` para completar la creación de la contraseña.  
-![My Authentication create password ES](https://images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/c8f8a07de5442b0ffbc49c3b6a66de29/My_Authentication_create_password_ES.png)
+![My Authentication create password ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_6.png)
 
 Para cambiar la contraseña actual:
 
@@ -175,7 +175,7 @@ Para cambiar la contraseña actual:
 2. Introduzca la contraseña actual en el campo correspondiente.
 3. Introduzca la nueva contraseña en el campo correspondiente, cumpliendo todos los requisitos.
 4. Haga clic en el botón `GUARDAR CONTRASEÑA` para completar el cambio de contraseña.  
-![My Authentication change password ES](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/55e5cdfbb4f5daeb591eadbbccf82183/My_Authentication_change_password_ES.png)
+![My Authentication change password ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_7.png)
 
 <div class="alert alert-info">
 Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link <strong>Olvidé mi contraseña</strong>.
@@ -189,7 +189,7 @@ Para ver sus sesiones activas, haga clic en el botón `VER SESIONES` y accederá
 
 Para cancelar el acceso a las demás sesiones, haga clic en el botón `CIERRE DE SESIÓN` de la sesión deseada.
 
-![My Authentication Session Management ES](https://images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/1fe19f90a71681bf3f46a5d8ab52aabb/My_Authentication_Session_Management_ES_blur.png)
+![My Authentication Session Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_8.png)
 
 ## Configuraciones básicas
 
@@ -200,7 +200,7 @@ En **My Orders**, puedes determinar qué secciones estarán visibles para el cli
 * En **ORDERS**, la opción <a class="far fa-check-square"></a> _Visible_ determina si el cliente tiene la sección [Pedidos](#pedidos) para seguir sus pedidos.
 * En **ADDRESSES**, la opción <a class="far fa-check-square"></a> _Visible_ define si el cliente tendrá la sección [Direcciones](#direcciones) con detalles de su dirección. 
 
-![vtex-my-account_ES](https://images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/95b29a5b64c84fe70b4dc01e4a36b26a/vtex-my-account_ES.png)
+![vtex-my-account_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/My%20Account/como-funciona-mi-cuenta_9.png)
 
 Por defecto, las opciones **CARDS** y **ORDERS** vienen configuradas como visibles. Para cambiarlas o habilitar otras configuraciones, realiza los pasos a continuación:
 

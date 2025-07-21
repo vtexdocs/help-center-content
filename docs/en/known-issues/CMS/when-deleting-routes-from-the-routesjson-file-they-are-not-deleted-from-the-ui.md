@@ -28,10 +28,10 @@ If you create a route in your theme's `routes.json` file, the route will not be 
 
 
 Create a page on your themes under the routes.json file:
- ![](https://vtexhelp.zendesk.com/attachments/token/zoljY2X9GZ6NL4wUd10zoranp/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui_1.png)
 
 The page will be correctly created on the admin:
- ![](https://vtexhelp.zendesk.com/attachments/token/n2RP165BLtHwdHRrscu0IwOTo/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/when-deleting-routes-from-the-routesjson-file-they-are-not-deleted-from-the-ui_2.png)
 
 If you delete that route from the theme, the admin reference will still be there. But you will still be able to edit the routes on the admin.
 

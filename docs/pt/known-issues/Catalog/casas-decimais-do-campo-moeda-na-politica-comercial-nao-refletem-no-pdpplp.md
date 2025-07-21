@@ -27,10 +27,10 @@ internalReference: 695044
 Apesar do número definido no campo Casas decimais da moeda, as casas decimais reais são sempre 2 no PDP e PLP da loja.
 
 Configuração sobre Política Comercial:
- ![](https://vtexhelp.zendesk.com/attachments/token/2R9hhEaXn2ur3JZlbC4d5lEeF/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp_1.png)
 
 Frontend da conta:
- ![](https://vtexhelp.zendesk.com/attachments/token/zPYZBDD7DEywmya5wpuyonOqY/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp_2.png)
 
 
 

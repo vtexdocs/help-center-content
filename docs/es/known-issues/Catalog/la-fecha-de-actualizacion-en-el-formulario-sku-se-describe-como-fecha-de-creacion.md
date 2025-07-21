@@ -37,10 +37,10 @@ El campo mal llamado "fecha de creación" en realidad informa de la fecha de la 
 3. Compruebe que el campo "fecha de creación" se sustituye realmente por la fecha actual.
 
 Antes de la actualización:
- ![](https://vtexhelp.zendesk.com/attachments/token/PNjoH3Cuszh86hbetX4DZQnQe/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-fecha-de-actualizacion-en-el-formulario-sku-se-describe-como-fecha-de-creacion_1.png)
 
 Después de la actualización realizada el 21 de octubre
- ![](https://vtexhelp.zendesk.com/attachments/token/cxxVQQbqSlOFULz0uHRvA53rm/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-fecha-de-actualizacion-en-el-formulario-sku-se-describe-como-fecha-de-creacion_2.png)
 
 
 ##

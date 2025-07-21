@@ -58,7 +58,7 @@ Existem duas formas de adicionar e alterar um Mapeamento de URL:
 4. Clique no botão `Import` para realizar a importação da planilha.
 
 5. Baixe a planilha modelo ilustrada abaixo utilizando o botão `Clique aqui`.
-![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/mapeamento-de-urls-redirecionamento-301_1.png)
 6. Preencha os [campos da planilha](#campos-da-planilha).
 7. Depois de preencher a planilha, clique no botão `Localizar` na tela de importação.
 8. Selecione o arquivo que será importado de seu computador. O arquivo deve ter extensão `.xls` formato `Excel 97-2003 Workbook`.

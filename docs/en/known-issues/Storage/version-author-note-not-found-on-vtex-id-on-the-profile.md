@@ -35,11 +35,11 @@ This behavior does not impact the profile or shopper experience, once this is on
 - Click on "_Change Log_" button;
 - Open a recent version;
 - Check the "_Version author_", it will be an user id, and the name "`Note: Not found on VTEX ID.`", for example:
- ![](https://vtexhelp.zendesk.com/attachments/token/9ngSibhlO4er0Df3Fi7oQAhot/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/8tlsDbxNSFFHdJMVHf2yvctem/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/version-author-note-not-found-on-vtex-id-on-the-profile_1.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/version-author-note-not-found-on-vtex-id-on-the-profile_2.png)
 
 - Checking by Get version API:
- ![](https://vtexhelp.zendesk.com/attachments/token/MRrTRox5E0t91F3OpsDcRmJ9z/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/version-author-note-not-found-on-vtex-id-on-the-profile_3.png)
 
     "updatedBy_USER": "{\"Id\":\"d6d8269f-e7cc-4e4b-8b89-3b46a1407937\",\"Login\":\"vtex-service::checkout::stable\",\"Name\":null}",
 

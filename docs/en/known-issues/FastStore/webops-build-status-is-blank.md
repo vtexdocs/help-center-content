@@ -30,7 +30,7 @@ Sometimes, after deploying some changes to your Webops store, the Webops admin p
 
 - Try to deploy something
 - Check the status on the Webops's status, it may remain blank but on Github you'll be able to follow the build process
- ![](https://vtexhelp.zendesk.com/attachments/token/bZAviGkL4If4NmvveJD6lynFs/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/webops-build-status-is-blank_1.png)
 
 
 ##

@@ -19,7 +19,7 @@ Every time a [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKD
 
 On VTEX, the EAN is used to map the products with the corresponding [ASINs](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (*Amazon Standard Identification Number*) on Amazon. To map the equivalence between the EAN and the ASIN, manual matching is required. EAN and ASIN matches need to be exact for the offers to be linked correctly.  
 
-![Offer match overview](https://images.ctfassets.net/alneenqid6w5/3SrhTyS3Cpy2xxWvEA3M88/263c3f6248e2b8d2cc07807c4800fd97/Match-an__ncios-Amazon.gif)
+![Offer match overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/amazon-offer-matching_1.gif)
 
 ## Opportunity tab  
 
@@ -75,7 +75,7 @@ To approve the match, the seller must follow the steps below.
 1. 	In the `Opportunities` tab, click the icon <i class="fas fa-ellipsis-v"></i>.
 2. 	Click `View Details`.
 3. 	Check out the information displayed on the page.
-![Single Offer Match](https://images.ctfassets.net/alneenqid6w5/11Kd50vfsJccpDoHH8pSQ9/11d1054047295a3b8b03a687bb1201be/Match_individual_AMZ.png)  
+![Single Offer Match](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/amazon-offer-matching_2.png)  
 
 4. 	Then, click one of the available buttons: `Publish`, `Reject and request review`, or `Reject`.  
 
@@ -86,13 +86,13 @@ On the `Opportunity` tab, all listed products matching Your Offer and Amazon Sug
 1. On the `Opportunity` tab, select the checkbox next to the offer title that has a matching SKU <> ASIN.
 As you select the products, the following pop-up will appear on the screen showing the number of selected products.  
 
-![popupEN](https://images.ctfassets.net/alneenqid6w5/3MTOQgMftiT5rsbJgKVpAD/41058f81c65b88b1b8d48c9018e6e1ee/MATCH_AMZ_EN.png)
+![popupEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/amazon-offer-matching_3.png)
 
 2. When you have finished selecting the products, click `Publish Selected Offers`.  
 
 3. In the match confirmation pop-up, check the selected offers and click `Confirm Publish`.  
 
-![Matching confirmation](https://images.ctfassets.net/alneenqid6w5/7IWcW7ozGbMmZAH4Prec3M/4ebd22582c42cb2f5cd1a53f2311c2d4/MATCH_CONFIRMATION.png)
+![Matching confirmation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/amazon-offer-matching_4.png)
 
 Once confirmed, your offers will be sent and queued for processing. After approval, they will appear in the __Offers tab__, where you can __"View details of your offer"__, __"View offer suggested by Amazon"__, and __search for__ offers using the search bar.  
 

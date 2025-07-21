@@ -27,7 +27,7 @@ The new [Coupons](/en/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL) experience o
 
 The new [coupon list](/en/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) shows all the existing coupons in your store. This allows you to manage coupon data and analyze in which orders they were used.
 
-![listacupons en](https://images.ctfassets.net/alneenqid6w5/3EL3TmEa9iBuABSPWAkT0B/1cfe126f85df72b7c9e30f8e4cb85606/listacupons_en.gif)
+![listacupons en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-04-13-coupon-experience-improvements_1.gif)
 
 ### Easier access to coupon codes
 
@@ -44,7 +44,7 @@ The new filters allow you to view coupons that meet specific criteria. The avail
 - Last modified
 - Coupon type
 
-![filtroscupons en](https://images.ctfassets.net/alneenqid6w5/5ImK8Og5MsOnruVxkwblJ6/b2abce2b73d9facd5edcf6f589dad039/filtroscupons_en.gif)
+![filtroscupons en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-04-13-coupon-experience-improvements_2.gif)
 
 ### Coupon groups for agile management
 

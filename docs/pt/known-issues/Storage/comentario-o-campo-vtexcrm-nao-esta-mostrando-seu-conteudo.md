@@ -45,7 +45,7 @@ Atualmente, ao salvar dados no campo "Comentar" em um formulário de Dados Mestr
 3. Abra o campo de comentários
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tUX7c40L6Mucgl7J60Ba4Ysn5/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo_1.png)
 
 
 4. Tente inserir qualquer dado nele e salvar

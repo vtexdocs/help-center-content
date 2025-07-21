@@ -17,7 +17,7 @@ announcementSynopsisES: 'Hemos lanzado una página de encuesta de satisfacción 
 
 Hemos lanzado la nueva página *Encuesta de Satisfacción* en el Admin VTEX. Ahora, puedes evaluar nuestro servicio de soporte sin salir de la plataforma VTEX.
 
-![Pesquisa de satisfação ES](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/075a8169826dbd7f0a98354b9825d467/image__18_.png)
+![Pesquisa de satisfação ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-01-13-evalua-el-servicio-vtex-en-tu-admin_1.png)
 
 ## ¿Qué cambió?
 

@@ -25,7 +25,7 @@ internalReference: 483785
 
 Actualmente, cuando un usuario intenta importar datos a través del botón de inserción masiva de skus, si la hoja que se está utilizando es demasiado extensa, el proceso puede fallar.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/9TSm4inXTV8cFvuiHwLP9uMpb/?name=inline-929450477.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/tiempo-de-espera-de-importacion-de-colecciones-heredadas_1.png)
 
 
 

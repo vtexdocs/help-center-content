@@ -32,10 +32,10 @@ Al utilizar el componente de autocompletar de la guía de estilo (https://styleg
 
 
 Pruebe a escribir un término de búsqueda
- ![](https://vtexhelp.zendesk.com/attachments/token/wDC5HfVy0hJJByej9GmJCxyNN/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-autocompletado-de-styleguide-presenta-un-error-al-eliminar-el-termino-de-busqueda_1.png)
 
 Borra el término completamente, verás que vuelve a aparecer la primera letra del término:
- ![](https://vtexhelp.zendesk.com/attachments/token/sSFMXx0RqDQRFbFMg5rUUgE0Q/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-autocompletado-de-styleguide-presenta-un-error-al-eliminar-el-termino-de-busqueda_2.png)
 
 Puedes probarlo en el ejemplo de documentación: https://styleguide.vtex.com/#/Components/Forms/AutocompleteInput
 

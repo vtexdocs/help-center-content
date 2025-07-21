@@ -29,10 +29,10 @@ Se sua loja tiver categorias com caracteres especiais, como `/`, o breadcrumb da
 
 
 Adicione uma categoria com um caractere especial, como `computadores/softwares`
- ![](https://vtexhelp.zendesk.com/attachments/token/GotI44D5ebNA8EhouzkuBAh8l/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/FastStore/o-breadcrumb-da-faststore-nao-lida-bem-com-caracteres-especiais_1.png)
 
 Vá para o PDP do produto e veja como o breadcrumb está se comportando:
- ![](https://vtexhelp.zendesk.com/attachments/token/uhuoUTlqJfGZrU3hHI19OqaqG/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/FastStore/o-breadcrumb-da-faststore-nao-lida-bem-com-caracteres-especiais_2.png)
 Além disso, o link para a categoria não funcionará
 
 

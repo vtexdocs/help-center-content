@@ -24,7 +24,7 @@ internalReference: 429993
 
 Atualmente, está definido no nosso catálogo de regras comerciais que o peso de um KIT SKU deve ser definido pela soma dos seus componentes - https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215
 
- ![](https://vtexhelp.zendesk.com/attachments/token/jgbIT0VRNCLLOdiQO0CQrka5D/?name=inline-2098334185.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-peso-do-kit-pode-ser-sobreescrito-por-apiwebservice_1.png)
 
 No entanto, é atualmente possível sobrescrever este cálculo de peso através de API e/ou webservice onde o valor definido é o enviado diretamente na carga útil, não considerando qualquer pesagem de componentes.
 

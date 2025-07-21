@@ -34,7 +34,7 @@ Em todas as lojas VTEX IO é possível configurar esses parâmetros nativamente,
   - **Tag de descrição meta**: forneça uma breve descrição do conteúdo da página. Deve ser informativa e conter palavras-chave relevantes.
   - **Metatag robots**: especifique como os motores de busca devem rastrear e indexar uma página específica. Os valores padrão são `index, follow`. Para saber quais outros valores compatíveis com o Google, consulte a [lista de regras válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=pt-br#directives). 
 
-  ![seo-pt](https://images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/538870f8a15ecac304f2c1093764f02d/seo-pt.png)
+  ![seo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurando-seo-em-sua-loja_1.png)
 
 ### Favicons
 
@@ -42,7 +42,7 @@ Em todas as lojas VTEX IO é possível configurar esses parâmetros nativamente,
 2. Clique na aba **Geral**.
 3. Clique em **Adicionar**.
 
-  ![favicon-pt](https://images.ctfassets.net/alneenqid6w5/3NtSCr6cKVn7dDqsXn8jBN/52dc9e3efc6c9cac57f112a40b13158a/favicons-pt.png)
+  ![favicon-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurando-seo-em-sua-loja_2.png)
 
 4. Abrirá uma nova tela, que deve ser preenchida conforme as orientações a seguir:
     - **Relação do favicon**: defina a relação entre a URL configurada no campo
@@ -53,7 +53,7 @@ Em todas as lojas VTEX IO é possível configurar esses parâmetros nativamente,
 
     Veja o exemplo a seguir:
 
-    ![relacao-favicon-pt](https://images.ctfassets.net/alneenqid6w5/4gJkfubRqf9lhtRiryrMMA/b0b372b4db26ab50def96346b04d028b/relacao-favicon-pt.png)
+    ![relacao-favicon-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurando-seo-em-sua-loja_3.png)
 
 5. Clique em **Aplicar** para que as configurações reflitam em sua loja, o que pode levar alguns minutos.
 

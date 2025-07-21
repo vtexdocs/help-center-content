@@ -36,7 +36,7 @@ Al guardar impuestos en el módulo de promociones, el valor desplegable para "al
 3 - Guarde el formulario
 4 - Compruébelo de nuevo, el formulario saldrá vacío:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kGbgj8MON0fVzgmv19hKS1F9u/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Pricing%20&%20Promotions/tax-form-ui-is-not-displayng-marketing-tags-dropdown_1.png)
 
 
 

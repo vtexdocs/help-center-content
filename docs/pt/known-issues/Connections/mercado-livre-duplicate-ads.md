@@ -29,7 +29,7 @@ Alguns anúncios estão sendo duplicados no marketplace após serem aprovados na
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/m27u7nHLy02jvAIsO3B8yL3my/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/mercado-livre-duplicate-ads_1.png)
 
 
 

@@ -30,15 +30,15 @@ When a date filter is selected at Transactions Admin, all transactions with that
 1. Go to any store admin > orders > transactions;
 2. Select the icon to filter the transactions;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/6reloUKjqVA3z2CvvcgB4n9Ah/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Payments/transactions-filter-by-date-in-admin-not-working_1.png)
 
 3. Select any option from "Date" menu. In this case, it was selected "Cancellation Date > Yesterday";
 
- ![](https://vtexhelp.zendesk.com/attachments/token/FAH5pgNb0kX535JKNPKekRPVO/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Payments/transactions-filter-by-date-in-admin-not-working_2.png)
 
 4. You will see that the list returns all transactions that have a "cancellation date", regardless of the "yesterday" filter.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/lUFopWEbW6aoX0dHbsK3PPd0g/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Payments/transactions-filter-by-date-in-admin-not-working_3.png)
 
 ##
 

@@ -42,7 +42,7 @@ To enable VTEX access to the Adyen environment, follow the instructions below:
 2. In the left sidebar, copy and save the information shown above __Company__. This is your Company account.
 3. In the list below Company, search for the Merchant Account that will be used (highlighted in white). Copy and save this information.
 
-![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
+![Adyenv3_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_1.PNG)
 
 ### Getting the Live URL
 
@@ -59,7 +59,7 @@ The steps below assume that the API Key and Client Key have been previously gene
 2. Select your API credential.
 3. In __Server Settings > Authentication__, select __API key__. 
 
-![Adyenv3_2](https://images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
+![Adyenv3_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_2.PNG)
 
 <blockquote><ui>4. Click <b>Generate Key</b> and store the created key in a safe location.</ui>
 
@@ -69,7 +69,7 @@ The steps below assume that the API Key and Client Key have been previously gene
 
 <blockquote><ui>7. In <b>Add allowed origins</b>, add the domain address of your store. For example: https://www.yourstore.com.   
 
-![Adyenv3_3](https://images.ctfassets.net/alneenqid6w5/1HlZV1tWNXS4ME0B7LYsHR/61d66686d9a3a67c3dbbce8e331fef6d/Adyenv3_3.png)
+![Adyenv3_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_3.png)
 
 ### Configuring a webhook
 
@@ -83,7 +83,7 @@ Follow the steps below to configure a webhook:
 4. In **General > Description**, add a description for the new webhook. Example "Webhook Adyen Connector Provider v3".
 5. Em **General > Server configuration > URL**, enter the URL of your VTEX account. Example: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
+![Adyenv3_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_4.PNG)
 
 <blockquote><ui>6. Click <b>Apply</b>.</ui>
 
@@ -91,11 +91,11 @@ Follow the steps below to configure a webhook:
 
 <blockquote><ui>8. Click <b>Save changes</b>.</ui>
 
-![Adyenv3_5](https://images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
+![Adyenv3_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_5.PNG)
 
-![Adyenv3_6](https://images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
+![Adyenv3_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_6.PNG)
 
-![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
+![Adyenv3_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/configuring-payment-with-adyenv3_7.PNG)
 
 <div class="alert alert-info">
 If you have several stores, you need to configure a webhook for each of them.

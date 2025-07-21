@@ -16,7 +16,7 @@ legacySlug: what-to-do-when-the-avise-me-doesnt-show
 
 There is a situation in which, despite having [set up the “Notify me” option](/en/tutorial/set-up-the-avise-me) correctly, it does not appear. This happens **when the category display type is marked as “List of SKUs”.**
 
-![categoria-lista-de-skus EN](https://images.ctfassets.net/alneenqid6w5/2C4pwhZgdeQSmmiA4ss8y4/9cfd91a623e3e87734c2b9f417a08be7/lista_de_skus_EN.png)
+![categoria-lista-de-skus EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Others/what-to-do-when-the-notify-me-option-is-not-displayed_1.png)
 
 In this case, in addition to the default settings, the use of the `vtex.cmc:SkuSelection` control is required, even if there is only one SKU per page.
 

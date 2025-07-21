@@ -31,7 +31,7 @@ Currently, the return message from the inventory import report is in _pt-BR_. So
 2. Attach the file to be imported;
 3. At the end of the importing process, the e-mail will be sent with the import result. We can see that the message is not respecting the language of the account:
 
-![](https://vtexhelp.zendesk.com/attachments/token/ir6cFOIA64r7ZAC7GEdbw6pww/?name=image.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Logistics/the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage_1.png)
 
 "`Importação concluída! Total de itens importados: 6. Total de itens não importados: 0.`"
 

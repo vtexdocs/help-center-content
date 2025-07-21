@@ -28,13 +28,13 @@ The feature that mocks the data between workspaces inside the Headless CMS is cu
 
 
 Try to create a new draft on a workspace, just as in the example below, you'll see that the mock version will be saved:
- ![](https://vtexhelp.zendesk.com/attachments/token/ALJXihZcrD2L1K4FwrXfqZpML/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/headless-cms-is-not-mocking-data-between-workspaces_1.png)
 
 After editing, try saving your changes, the mock version will become a normal draft:
- ![](https://vtexhelp.zendesk.com/attachments/token/mrwjyqtC4ALC3DIlVXwP9sXXA/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/headless-cms-is-not-mocking-data-between-workspaces_2.png)
 
 But if you access the master environment of your store, the draft will also be there:
- ![](https://vtexhelp.zendesk.com/attachments/token/DgHHvGNcu18BBx5CZqXoPmw9Z/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/headless-cms-is-not-mocking-data-between-workspaces_3.png)
 
 This draft can also be published
 

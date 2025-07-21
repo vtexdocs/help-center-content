@@ -28,6 +28,6 @@ No Admin VTEX, acesse **Aplicativos > Organizações e centros de custo B2B > Or
     - **Status:** indica se o cadastro desta organização compradora está ativa.
     - **Campos personalizados:** contém campos adicionais de uma organização.
 
-![Configurações gerais organizações - PT](https://images.ctfassets.net/alneenqid6w5/27AqRCa9LbipRF1iFa0kXT/a430fb63e7953d706e1a2a60bdd4a339/Configura__es_gerais_organiza__es_-_PT.gif)
+![Configurações gerais organizações - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Organization%20details/configuracoes-gerais-da-organizacao-b2b_1.gif)
 
 Certifique-se de clicar em `Salvar` no canto superior direito da página após realizar qualquer alteração.

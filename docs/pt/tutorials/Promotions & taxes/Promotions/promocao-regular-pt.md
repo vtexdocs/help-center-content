@@ -91,7 +91,7 @@ Cada campo oferece as opções **Iguais a** (inclusão) ou **Diferentes de** (ex
 
 No exemplo abaixo, a promoção foi configurada para incluir todos os produtos da categoria Alimentação, com a marca Pedigree, exceto o produto Ração Whiskas Sachê. Veja como os campos foram preenchidos:
 
-![Tela quais itens-pt](https://images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/0ec93a1795105467af51e999595bde9c/Tela_quais_itens-pt.png)
+![Tela quais itens-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Promotions%20&%20taxes/Promotions/promocao-regular-pt_1.png)
 
 Para facilitar o preenchimento de produtos ou SKUs, você pode carregar um arquivo **.txt** contendo os IDs desejados. O arquivo deve listar um ID por linha. Para fazer o upload:
 

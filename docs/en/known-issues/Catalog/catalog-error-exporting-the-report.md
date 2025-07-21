@@ -37,13 +37,13 @@ Errors
 - An error message appears in the UI (print 01)
 - Email: User receives two emails, one correct with the spreadsheet and another email with an error (print 02)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/nssU6EUTkqi1oEpWJfGNG4hZ3/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-error-exporting-the-report_1.png)
 
 PRINT 02
 
- ![](https://vtexhelp.zendesk.com/attachments/token/IaqPe0pf0oUHatfDvp85FH2sQ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-error-exporting-the-report_2.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/xsuPbF5tOdI7lXxaK3JMHlK0U/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-error-exporting-the-report_3.png)
 
 
 

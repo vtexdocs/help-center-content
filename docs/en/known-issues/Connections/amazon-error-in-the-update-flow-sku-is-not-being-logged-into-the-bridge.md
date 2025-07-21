@@ -35,7 +35,7 @@ Error in the update flow sku isn't being logged into the bridge
 
 Admin > Marketplace > Products > Amazon
 
- ![](https://vtexhelp.zendesk.com/attachments/token/l7i4mRjrhA0eo5BWd92YCS46m/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/amazon-error-in-the-update-flow-sku-is-not-being-logged-into-the-bridge_1.png)
 
 
 ##

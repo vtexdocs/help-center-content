@@ -30,15 +30,15 @@ Para atribuir sellers à uma determinada organização compradora, siga os passo
 <li>No Admin VTEX, acesse <b>Aplicativos > Organizações e centros de custo B2B > Organizações</b>, ou digite <b>Organizações</b> na barra de busca no topo da página.</li>
 <li>Na aba <b>Organizações</b>, clique sobre o nome da organização compradora desejada.</li>
 
-![Organizações](https://images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/b823f4c4377b5eee578e8d58ec9beb87/ORGANIZACOES.jpg)
+![Organizações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Organization%20details/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky_1.jpg)
 
 <li>Na aba <b>Sellers</b>, em <b>Disponível</b>, selecione os sellers desejados.</li>
 
-![Organizações Detalhes](https://images.ctfassets.net/alneenqid6w5/185XmP4eH8WdgFT5T7CONb/002155ca14e5ad656741eff101ec5cbc/ORGANIZACOES-DETALHES.jpg)
+![Organizações Detalhes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Organization%20details/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky_2.jpg)
 
 <li>Clique no botão <b>ADICIONAR À ORG</b>.</li>
 
-![Organizações Detalhes 2](https://images.ctfassets.net/alneenqid6w5/2assMBtPIxiA80ldC1yNwu/d6152f123a128db9d6803b1899aff232/ORGANIZACOES-DETALHES2.jpg)
+![Organizações Detalhes 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/Organization%20details/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky_3.jpg)
 
 <li>Clique no botão <b>Salvar</b>.</li>
 

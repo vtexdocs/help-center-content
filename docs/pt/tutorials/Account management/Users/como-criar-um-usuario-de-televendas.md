@@ -41,7 +41,7 @@ Para criar um usuário com perfil de televendas, siga os seguintes passos:
 
 7. Clique no botão **Salvar**.
 
-![GIF animado mostrando como criar usuário televendas](https://images.ctfassets.net/alneenqid6w5/3oF5zuTnHu0Db8EQ2KdPCY/575304556410712f649e94cda1b3bdce/Adicionar_perfil.gif)
+![GIF animado mostrando como criar usuário televendas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Account%20management/Users/como-criar-um-usuario-de-televendas_1.gif)
 
 <div class="alert alert-warning">
   Ao criar um <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil</a>, evite incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.

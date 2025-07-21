@@ -94,4 +94,4 @@ You can also check whether the email is registered as a copy in any of the store
 3. Check if the email does not appear in the template's __Cc:__ or __Bcc:__ fields. If it does, remove it and click `Save`.
 4. Do this for each store's template card and test sending an email to the desired address.
 
-![copia_email_en](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/60df1d00ff23e4a1847d76a09e4dd44b/copia_email_en.png)
+![copia_email_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-receive-emails-from-vtex_1.png)

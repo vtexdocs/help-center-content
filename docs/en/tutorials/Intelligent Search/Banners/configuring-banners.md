@@ -29,7 +29,7 @@ After configuring the banner, you have to add it to a page on your store. To do 
 <p> This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article <a href="https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#banners">VTEX Intelligent Search: Multilanguage settings (Beta)</a>.</p>
 </div>
 
-![banner-form-en](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/306bbd26bcadab589aeabe91903b0bcc/image.png)
+![banner-form-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Banners/configuring-banners_1.png)
 
 ## Banner fields
 
@@ -60,7 +60,7 @@ To add a banner, the following fields need to be completed:
 
 Click <i class="fas-solid fa-link"></i> `Autofill from URL` to add the URL of the search page to the trigger rules that will be applied.
 
-![banner-url-en](https://images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/326bfe62f7a49e6f1bd34c7cbe5f6b6a/image.png)
+![banner-url-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Banners/configuring-banners_2.png)
 
 Click <i class="fas fa-plus"></i> `Add condition` to create a rule. Rules can be of two types:
 

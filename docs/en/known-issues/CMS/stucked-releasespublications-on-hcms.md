@@ -28,7 +28,7 @@ When trying to publish new content in hcms, the release or publication may get s
 
 
 It is an intermittent issue related to the releases on hCMS. Not all publications will lead to this behavior. But you may see that the publication will be stuck on the first step of the modal:
- ![](https://vtexhelp.zendesk.com/attachments/token/JRbMYz11RMrSetBEN9PS0WUWG/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/stucked-releasespublications-on-hcms_1.png)
 
 
 ##

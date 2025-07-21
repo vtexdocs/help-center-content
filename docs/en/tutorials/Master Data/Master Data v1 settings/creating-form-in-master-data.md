@@ -40,7 +40,7 @@ To create a form, follow the steps below:
 
    If the acronym of the __Shopping List__ entity is __SL__, and the name of the field is __Customer__, you must enter: `SL.Customer` to upload the customer service that is being viewed in the form.
 
-   ![relatedRecords-en](https://images.ctfassets.net/alneenqid6w5/3j6iBpbL7ao6soYaME4e2a/b63c13d0278c701cce402b77c567f843/image_2.png)
+   ![relatedRecords-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Master%20Data/Master%20Data%20v1%20settings/creating-form-in-master-data_1.png)
 
 After filling out the mandatory fields, the tabs available for configuration will be displayed. See below the fields of these tabs.
 

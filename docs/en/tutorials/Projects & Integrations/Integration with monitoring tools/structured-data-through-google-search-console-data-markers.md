@@ -66,15 +66,15 @@ With this type of information, users are able to send to Google information abou
 
 **
 ****Step 1**
-****![](https://images.contentful.com/alneenqid6w5/2auEIkvBGMO8gqWqgA4u8q/0c53485d350f622ae184852c88688f0c/marcadordedados_step1.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_1.gif)****
 
 ****Step 2****
 
-****![](https://images.contentful.com/alneenqid6w5/62T28aRiUM0cOwOmiOQ2UA/8584923dd2b3c1f9f9bc7a782caee223/marcadordedados_step2_url_type.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_2.gif)****
 
 ****Step 3****
 
-****![](https://images.contentful.com/alneenqid6w5/5YhbETD9mMMgsAeKGE2SMG/622bccd0df4e05462f7db9ae7bb05cf9/marcadordedados_step3_markup_business.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_3.gif)****
 
 ## Products
 
@@ -94,11 +94,11 @@ With this type of information, users are able to send to Google information abou
 
 **** Step 1****
 
-****![](https://images.contentful.com/alneenqid6w5/5ARq4O3nna8gqGM8KasC4K/57999e6c592e985550758aaab1c15c06/marcadordedados_step2_url_type_product.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_4.gif)****
 
 ****Step 2****
 
-****![](https://images.contentful.com/alneenqid6w5/1TNyUZzqLSOOO48gmCOQ26/d78f4f460a7d6caf864498db7f1ce2b2/marcadordedados_step3_markup_product.gif)****
+****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Projects%20&%20Integrations/Integration%20with%20monitoring%20tools/structured-data-through-google-search-console-data-markers_5.gif)****
 
 ****Step 3****
 

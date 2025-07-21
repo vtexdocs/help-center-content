@@ -32,7 +32,7 @@ This is due to the number of images per block. At the moment, we don't have an e
 - Access the CMS Site Editor (for example https://my-account-here.myvtex.com/admin/cms/site-editor);
 - Select the block with the new images to be added;
 - When the addition is saved, the message "`Something went wrong. Please try again.`" will appear in the bottom right-hand corner:
- ![](https://vtexhelp.zendesk.com/attachments/token/97C4wewa6iz3f7bsmHtdnXu1H/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/CMS/error-something-went-wrong-please-try-again-when-adding-images-via-site-editor_1.png)
 
 
 ##

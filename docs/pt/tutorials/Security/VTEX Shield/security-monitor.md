@@ -26,7 +26,7 @@ Para acessar o dashboard, siga os passos abaixo:
 1. No Admin VTEX, acesse **Dashboards**, ou digite **Dashboards** na barra de busca.
 2. Em **Security Monitor**, clique em **Security Monitor Dashboard**.
 
-![1-security-monitor-pt](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/f0d7f601da33a725db1208854fbdddac/security-monitor-pt.png)
+![1-security-monitor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_1.png)
 
 O Security Monitor apresenta as descobertas em três abas, divididas por status:
 
@@ -49,7 +49,7 @@ A aba **Abertas** apresenta as ameaças identificadas pelo Security Monitor que 
 
 A barra superior indica o total de descobertas e a quantidade de ameaças por nível de severidade (alta, média ou baixa).
 
-![2-findings-pt](https://images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/19ff4f43195fc91701df9df615e851dd/findings-pt.png)
+![2-findings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_2.png)
 
 A aba apresenta a listagem completa de descobertas abertas em uma tabela, da mais recente para a mais antiga: 
 
@@ -80,7 +80,7 @@ Para mover uma descoberta para a aba **Silenciadas**, ou seja, removê-la tempor
 3. Escolha o período de tempo em dias para manter essa descoberta na aba **Silenciadas**. As opções disponíveis são: **7**, **90** ou **120** dias.
 4. Clique em `Silenciar`.
 
-![3-snooze-finding-pt](https://images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/3861076116e39d3d9a29387d17ad25be/snooze-pt.png)
+![3-snooze-finding-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_3.png)
 
 ## Silenciadas
 
@@ -109,7 +109,7 @@ Na barra de busca, digite o email de usuário ou o nome da chave de aplicação 
 
 Ao clicar em <i class="fas fa-chevron-down"></i> `Tipo`, você pode escolher um dos tipos de descoberta para filtrar os resultados exibidos na listagem. Clique em `Aplicar` para confirmar o filtro escolhido e a listagem será atualizada.
 
-![4-filter-findings-pt](https://images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/b042d3c11411a62e26018dd19274f182/filter-security-monitor-pt.png)
+![4-filter-findings-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_4.png)
 
 ## Exportar descobertas
 
@@ -154,7 +154,7 @@ Para editar os usuários administrativos que vão receber notificações em caso
 
 3. Clique em `Salvar`.
 
-![5-edit-notifications-pt](https://images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/6bd1074e6ba9f36e9a22d1941da1dfd0/notifications-security-monitor-pt.png)
+![5-edit-notifications-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/VTEX%20Shield/security-monitor_5.png)
 
 ## Saiba mais
 

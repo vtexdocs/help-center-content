@@ -34,7 +34,7 @@ Os clientes não podem usar o recurso de arrastar e soltar no editor do site par
 
 Vá para qualquer conta e tente carregar uma imagem de banner através de arrastar e soltar
 
- ![](https://vtexhelp.zendesk.com/attachments/token/VImrMx2X11Cyb9sePaOFJJbj2/?name=inline785506209.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/edicao-drag-and-drop-no-site-editor_1.png)
 https://share.vidyard.com/watch/RXWHL4QYir7i5h1U4zuEuJ
 
 

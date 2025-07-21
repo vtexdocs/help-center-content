@@ -35,13 +35,13 @@ Actualmente, en la usabilidad de importación de SkuVincularValorServico.aspx, c
 
 1) Ir a la UI https://account.myvtex.com/admin/Site/SkuVincularValorServico.aspx cambiando las filas de la hoja adjunta de 0 a 1 y viceversa:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/ladK39V5My6gjGixeHuNTaV2b/?name=inline-1801216200.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona_1.png)
 
 2) Comprueba los efectos finales en la SKU cuyos valores has cambiado:
- ![](https://vtexhelp.zendesk.com/attachments/token/znYEzQhMevPcRVYKlBQYa73fF/?name=inline1216426643.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona_2.png)
 
 Podrá establecerlos como inactivos, pero no como activos. La interfaz de usuario de importación indica que se han realizado cambios:
- ![](https://vtexhelp.zendesk.com/attachments/token/6iKARGtVqTbKaL0vY9s7XPvt6/?name=inline2110004305.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/activar-servicio-al-importar-skuvincularvalorservicoaspx-no-funciona_3.png)
 
 En realidad, no se ha modificado ningún valor en la base de datos de la cuenta en cuestión.
 

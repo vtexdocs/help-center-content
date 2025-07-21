@@ -86,7 +86,7 @@ Each field allows you to select the options **Equal to** (inclusion) or **Differ
 
 In the example below, the promotion was configured to include all products in the Food category with the Pedigree brand, except the Whiskas Sachet product. Fields were completed as follows:
 
-![Tela quais itens-EN](https://images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/1a96b896b9e9472cd7b0200ec41832b0/Tela_quais_itens-EN.png)
+![Tela quais itens-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/regular-promotion_1.png)
 
 To simplify adding products or SKUs, you can upload a **.txt** file containing their desired IDs. Each ID should be on a separate line. To upload:
 

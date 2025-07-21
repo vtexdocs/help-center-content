@@ -50,7 +50,7 @@ Uma vez criado, o SKU pode ser inativado, mas a ação de excluir um único SKU 
 
 Após a criação do SKU, é possível acompanhar sua disponibilidade para venda por meio do ícone colorido. Ao passar o mouse sobre o ícone, aparece um texto com o significado da cor, como na imagem abaixo. Saiba mais em [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos).
 
-![adding_or_editting_sku_PT](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/332ba1e2bbb0d826b2e6e413c04c24db/adding_or_editting_sku_PT.png)
+![adding_or_editting_sku_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/adicionar-ou-editar-sku_1.png)
 
 Além disso, uma vez que o SKU seja cadastrado, é possível torná-lo parte de um [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Para isso, na linha do SKU desejado, clique no ícone menu e selecione a opção `Formar kit`. Vale reforçar que a ação de transformar o SKU em kit é definitiva e não pode ser desfeita.
 

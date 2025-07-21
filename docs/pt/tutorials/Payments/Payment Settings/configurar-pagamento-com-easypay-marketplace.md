@@ -47,7 +47,7 @@ As informações de configuração estão divididas em quatro seções:
 - [Personalização do Checkout easypay (opcional)](#personalizacao-do-checkout-easypay)
 - [Modo sandbox](#modo-sandbox)
 
-![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
+![easypay_pt_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_1.png)
 
 <div class="alert alert-warning" role="alert">Você deve realizar as configurações abaixo no <a href="https://backoffice.easypay.pt/">ambiente easypay</a>. O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no <a href="https://backoffice.easypay.pt/">ambiente easypay</a> para informações atualizadas.</div>
 
@@ -59,34 +59,34 @@ __Key ID e Key Value__: valor e ID da chave easypay.
 
 <blockquote><ui>1. No <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da easypay localizado no canto superior esquerdo da tela, e na seta da conta <b>Marketplace</b>.</ui>
 
-![easypay_pt_10](https://images.ctfassets.net/alneenqid6w5/4EEjKGvGS9CtKtpKoIxM6P/e872f7e1484e7498288ac9c214572261/easypay_pt_10.PNG)
+![easypay_pt_10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_2.PNG)
 
 <blockquote><ui>2. Acesse <b>Web Services > Configuração API 2.0</b>.</ui>
 
 <blockquote><ui>3. No menu <b>Alias</b>, opção <b>Criar Dados de Pagamentos</b>, clique em <b>Chaves</b>.</ui>
 
-![easypay_pt_11](https://images.ctfassets.net/alneenqid6w5/76UJMX2vIty0CSYqHSyvRM/25620b17b9a968615a66e71505e81c65/easypay_pt_11.png)
+![easypay_pt_11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_3.png)
 
 <blockquote><ui>4. Copie e salve as informações <b>ID</b> e <b>Chave</b>. Caso deseje criar uma nova chave, clique em <b>+ Nova</b>.</ui>
 
-![easypay_pt_12](https://images.ctfassets.net/alneenqid6w5/61bArIKoWC0mVXu8WmRlq7/ca541fe6220d0e6b1f74bf7816fe18a7/easypay_pt_12.PNG)
+![easypay_pt_12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_4.PNG)
 
 __Merchant account UID__: identificação da conta do comerciante onde serão depositados os valores das compras dos produtos efetuados na loja. Caso não haja uma conta comerciante separada, é possível utilizar o “Account UID” da conta de pagamentos.
 
 <blockquote><ui>1. No <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique no logotipo da easypay localizado no canto superior esquerdo da tela, e depois na conta “COMERCIANTE 1”, clique na seta.</ui>
 
-![easypay_pt_5](https://images.ctfassets.net/alneenqid6w5/gQE8fL64YRCCggxVZB7qX/8e130d01b3cc65871f540233b1693df5/easypay_pt_5.PNG)
+![easypay_pt_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_5.PNG)
 
   <blockquote><ui>2. Copie e salve as informações do <b>Account UID</b>.</ui>
 
-![easypay_pt_6](https://images.ctfassets.net/alneenqid6w5/3S2dkHv1WmJSyAVVn3salh/084650f9a54f09ac4466c7c0c52e6ba8/easypay_pt_6.PNG)
+![easypay_pt_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_6.PNG)
 
 __Margin account UID__: identificação da conta de margens. 
 
 1. No menu lateral do <a href="https://backoffice.easypay.pt/">ambiente easypay</a>, clique em __Beneficiário__.
 2. Copie as informações e salve as informações do __Account UID__ disponíveis em __Conta de Margens__.
 
-![easypay_pt_13](https://images.ctfassets.net/alneenqid6w5/6SjwHG131w2wUNlXLFcCD3/2853c1435b96a9be0f442236d36039c0/easypay_pt_13.PNG)
+![easypay_pt_13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_7.PNG)
 
 __Refund account ID e Refund account key__: easypay refund keys ID e value.
 
@@ -94,21 +94,21 @@ __Refund account ID e Refund account key__: easypay refund keys ID e value.
 
 <blockquote><ui>2. No menu <b>Alias</b>, opção <b>Conta de margens</b>, clique em <b>Chaves</b>.</ui>
 
-![easypay_pt_14](https://images.ctfassets.net/alneenqid6w5/3Llo906P3snImorgYKdsEn/5df8f470383b6e45032959a3707fa399/easypay_pt_14.PNG)
+![easypay_pt_14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_8.PNG)
 
 <blockquote><ui>3. Clique em <b>+ Nova</b>.</ui>
 
-![easypay_pt_15](https://images.ctfassets.net/alneenqid6w5/3CQJbQd6HywrS4FVMNzrIp/6cfaca92ba1aa114173cc97862d325ac/easypay_pt_15.PNG)
+![easypay_pt_15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_9.PNG)
 
 <blockquote><ui>4. Preencha o campo <b>Nome</b> com <b>Refund Account</b>.</ui>
 
-![easypay_pt_16](https://images.ctfassets.net/alneenqid6w5/28yf4dj3pbum7HuzvO7FHH/49c04507ba1eb16fa85c6964786d50f5/easypay_pt_16.png)
+![easypay_pt_16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_10.png)
 
 <blockquote><ui>5. Clique em <b>Salvar</b>.</ui>
 
 <blockquote><ui>6. Copie e salve as informações <b>ID</b> e <b>Chave</b>.</ui>
 
-![easypay_pt_17](https://images.ctfassets.net/alneenqid6w5/4Syc7o7Twuasd3uFyw9F0W/b22ae772f368d8e25db2723ff88b5276/easypay_pt_17.png)
+![easypay_pt_17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_11.png)
 
 <div class="alert alert-warning" role="alert">Os reembolsos são debitados diretamente de uma conta pertencente ao marketplace. Posteriormente, o marketplace deve solicitar ao seller o valor reembolsado.</div>
 
@@ -116,7 +116,7 @@ __Refund account ID e Refund account key__: easypay refund keys ID e value.
 
 Nesta seção, você deve indicar se a sua loja utilizará pagamentos assíncronos, síncronos ou ambos. Acesse a documentação easypay para verificar os [métodos de pagamentos](https://docs.quality-utility.aws.easypay.pt/concepts/payment-methods) disponíveis e suas respectivas [siglas](https://docs.quality-utility.aws.easypay.pt/checkout/reference) de identificação.
 
-![easypay_pt_7](https://images.ctfassets.net/alneenqid6w5/2Im2zLusDEAguft1GN8uf3/cad6490003aff12d7e28cd11f8d93a0d/easypay_pt_7.png)
+![easypay_pt_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_12.png)
 
 __Tipos de pagamento assíncronos aceites__: métodos de pagamento assíncronos disponíveis para o cliente. Preencha apenas com as siglas dos tipos de Assíncronos, separados por vírgula, sem pontos e sem espaços.
 
@@ -148,7 +148,7 @@ Exemplo:
 
 A easypay possui um layout de Checkout nativo configurado no app. Veja abaixo:
 
-![easypay_pt_8](https://images.ctfassets.net/alneenqid6w5/1xcsW6xpPx79OOnA2dB1zw/d6a72835fdfeac5d00f0db79078123d5/easypay_pt_8.png)
+![easypay_pt_8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_13.png)
 
 Caso deseje realizar algum tipo de personalização no Checkout nativo da easypay, preencha um ou mais dos campos nesta seção:
 
@@ -200,7 +200,7 @@ Para configurar o webhook da easypay, sig os passos abaixo:
 
 <blockquote><ui>1. No [ambiente easypay](https://backoffice.easypay.pt/), clique no logotipo da easypay localizado no canto superior esquerdo da tela, e depois clique na seta da conta marketplace.</ui>
 
-![easypay_pt_2](https://images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
+![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_14.PNG)
 
 <blockquote><ui>2. Acesse <b>Web Services > Configuração URL</b>.</ui>
 
@@ -208,7 +208,7 @@ Para configurar o webhook da easypay, sig os passos abaixo:
 
 `https://{nome-da-sua-conta}.myvtex.com/_v/easypaypartnerpt.payment-provider-easypay/webhook`
 
-![easypay_pt_9](https://images.ctfassets.net/alneenqid6w5/2f7UMqQzrIqNbtslGCFxyC/5724ef2676c10b5f1eff6594eafb5412/easypay_pt_9.PNG)
+![easypay_pt_9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-easypay-marketplace_15.PNG)
 
 <div class="alert alert-warning" role="alert">Caso haja mais de uma conta de pagamento em seu marketplace, adicione um link para cada uma das contas existentes.</div>
 

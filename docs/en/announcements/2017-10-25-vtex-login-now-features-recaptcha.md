@@ -19,7 +19,7 @@ VTEX login via e-mail and password now features reCAPTCHA, which makes store acc
 
 We use Invisible reCAPTCHA, a Google technology that determines when it's necessary to confirm whether the access attempt is being made by a robot or a human.
 
-![reCAPTCHA](https://images.contentful.com/alneenqid6w5/2obeayJZP6k8q8a6W68sQI/08bbf823714965fd207961a792a94f9f/reCAPTCHA.png)
+![reCAPTCHA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017-10-25-vtex-login-now-features-recaptcha_1.png)
 
 This means that the confirmation request may or may not appear, depending on several variables.
 

@@ -25,10 +25,10 @@ Sometimes there may be a breakdown in communications between VTEX and the partne
 In these cases logs are generated or the request is held in a loop. If erratic behavior is noted, the quickest solution is to check whether the request status is the same in both platforms. For instance, the Gateway may have updated the Status to "Settling", but subsequently reports that the Status is not correct, when in fact it is. Here is an example:
 
 On February 8, VTEX received a notification from Gateway of a change of Status.
-![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://images.contentful.com/alneenqid6w5/7us92BzXFYwyQsUqWQa0sM/9c8e7dc490e5497bf8cfa16e0f7874ce/2017-04-11-17_28_32-4820587-_-VTEX-PCI-Gateway-300x65.png) 
+![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Financial/what-should-i-do-when-there-are-problems-with-a-transaction_1.png) 
 
 On April 3, the gateway returns an error in the Status.
-![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://images.contentful.com/alneenqid6w5/35WTOXDAC4WgS0Ki866SSS/6d7f6ed699ef653d79d709c97320d10c/2017-04-11-17_26_40-4820587-_-VTEX-PCI-Gateway-300x87.png)
+![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Financial/what-should-i-do-when-there-are-problems-with-a-transaction_2.png)
 
 Another example would be if the Gateway (partner) reports that it does not have full details of a credit card to complete a purchase. However, the transaction details at the top of the page show that the information exists - the order could not have been completed without this information. The solution here would be the same, to contact your Gateway.
 

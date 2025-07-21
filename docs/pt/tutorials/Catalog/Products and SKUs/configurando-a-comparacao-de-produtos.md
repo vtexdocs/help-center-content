@@ -51,7 +51,7 @@ onde `ShelfLayoutId` é `Id` do template de prateleira criado na etapa anterior.
   - No campo `Folder Name`, atribua um nome para a pasta e clique em `OK`.
   - Clique em `Save Folder`.
 
-       ![new-folder-pt](https://images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/2cdb1a9747e5f9b208703ebdbd02b333/new-folder-pt.gif)
+       ![new-folder-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/configurando-a-comparacao-de-produtos_1.gif)
 
 4. Crie um layout padrão:
   - Abra a pasta criada no item anterior.
@@ -59,7 +59,7 @@ onde `ShelfLayoutId` é `Id` do template de prateleira criado na etapa anterior.
   - No campo `Template`, vincule o template de página criado no passo 2 à pasta. Saiba mais em [Associando um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Clique em `Save Layout` e, em seguida, em `OK`.
 
-       ![new-layout-pt](https://images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/c087f506cc178042923f56e1915bd720/new-layout-pt.gif)
+       ![new-layout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/configurando-a-comparacao-de-produtos_2.gif)
 
 ### Vitrine
 

@@ -38,7 +38,7 @@ Estos pedidos están atascados en el estado "A la espera de autorización para e
 - El registro no muestra ningún error en el flujo;
 - Bridge no muestra ningún error;
 
- ![](https://vtexhelp.zendesk.com/attachments/token/aRop2JlmVaPoBgPJIRLQcA0Pg/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex_1.png)
 
 
 

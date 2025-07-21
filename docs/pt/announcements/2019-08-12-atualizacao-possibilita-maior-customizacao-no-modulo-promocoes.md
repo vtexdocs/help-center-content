@@ -37,5 +37,5 @@ Com esta atualização, você tem mais poder sobre  o comportamento das suas pro
  6. Clique em  **Usar configurações de recorrência**
  7. Faça a configuração desejável de dias e horários para a promoção
 
-![CRON 2 PT](https://images.ctfassets.net/alneenqid6w5/7sn8XLs4lRqMFeWaR77Jqa/ab7e5605b834f8054b84191448cc6240/CRON_2_PT.png)
+![CRON 2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019-08-12-atualizacao-possibilita-maior-customizacao-no-modulo-promocoes_1.png)
 

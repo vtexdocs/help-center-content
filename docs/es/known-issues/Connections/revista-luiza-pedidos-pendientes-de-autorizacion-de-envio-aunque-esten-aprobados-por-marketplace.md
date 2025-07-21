@@ -36,12 +36,12 @@ Describa aquí los pasos necesarios para reproducir este comportamiento. Tenga c
 
 OMS
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Og610DmFNOXxq62mJ8Mi7KH0x/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace_1.png)
 
 
 Revista Luiza
 
- ![](https://vtexhelp.zendesk.com/attachments/token/dO1rwzcpoXTv5KSHqRk0ddHVv/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace_2.png)
 
 
 

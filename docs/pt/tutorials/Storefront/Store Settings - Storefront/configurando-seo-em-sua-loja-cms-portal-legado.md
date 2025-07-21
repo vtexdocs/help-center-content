@@ -32,4 +32,4 @@ A tag de título ajuda a definir o assunto da página para os motores de busca e
   - **Robots.txt:** especifique como os motores de busca devem rastrear e indexar uma página específica. Os valores padrão são `index, follow`. Para saber quais outros valores são compatíveis com o Google, consulte a [lista de regras válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=pt-br#directives).
 4. Clique em `Salvar`.
 
-![seo-pt](https://images.ctfassets.net/alneenqid6w5/32rGRVztX93jJeuIwKf5FI/5102c4e25da985072fb2acf543a78b9b/storefront-seo-settings-pt.png)
+![seo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Store%20Settings%20-%20Storefront/configurando-seo-em-sua-loja-cms-portal-legado_1.png)

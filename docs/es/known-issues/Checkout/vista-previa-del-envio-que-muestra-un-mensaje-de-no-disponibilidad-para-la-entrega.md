@@ -25,7 +25,7 @@ internalReference: 1170877
 
 La vista previa del envío en el carrito no tiene en cuenta el ANS seleccionado, a pesar de que la API de Checkout es correcta. Muestra el mensaje "Envío no disponible para su ubicación".
 
- ![](https://vtexhelp.zendesk.com/attachments/token/oKGiw0BqXd83twkctR84fT0Wc/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/vista-previa-del-envio-que-muestra-un-mensaje-de-no-disponibilidad-para-la-entrega_1.png)
 
 Este comportamiento fue notado en países particulares, como Argentina y Colombia, pero no se limita a esos 2.
 

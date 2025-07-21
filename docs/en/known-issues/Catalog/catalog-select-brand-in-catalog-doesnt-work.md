@@ -29,7 +29,7 @@ Unable to select/change a brand using search in admin
 
 Admin > Product > New Product Form > Brand > Change/select brand
 
- ![](https://vtexhelp.zendesk.com/attachments/token/g9zaocozyLQblAYMsUMdv4etz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-select-brand-in-catalog-doesnt-work_1.png)
 
 
 ##

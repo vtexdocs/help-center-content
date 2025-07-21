@@ -36,7 +36,7 @@ However, the Red status only considers the availability for the default sales ch
 1 - For a store with multiple sales channels, create a product with availability for a sales channel other than sc=1
 2 - Check its catalog availability visual tag, the one that can be seen in the catalog listing
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OpqtMAd4kvj5EW4HUxlAdrBo0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/incorrect-red-color-in-catalog-admin-availability-tag-for-items-out-of-sc1_1.png)
 
 3 - even with the item available for other sales channels, such as sc=2, the tag will only go green if its active and available for sc=1.
 

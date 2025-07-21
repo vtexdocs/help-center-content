@@ -31,7 +31,7 @@ A planilha de importação de imagens não substitui o rótulo
 Admin > Catálogo > Importar e exportar > Especificações de sku > Carregar planilha >
 Na interface do usuário, ele mostra sucesso, mas o e-mail mostra zero produtos importados e nenhuma especificação de erro
 
- ![](https://vtexhelp.zendesk.com/attachments/token/kisyvWtG1pHFXiOJUpAKuvegC/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo_1.png)
 
  ![](https://vtexhelp.zendesk.com/attachments/token/Xspj9Ld4DLyZPpwJIdHq6cq0i/?name=image.png
 

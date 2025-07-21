@@ -27,7 +27,7 @@ For example: When creating a campaign audience for the fashion segment, you can 
 
 The target audience segments the campaign audience's eligible users and conditions. If the campaign audience is active, the promotions associated with the campaign audience will be activated by meeting all the criteria defined for the target audience.
 
-![campanha-en](https://images.ctfassets.net/alneenqid6w5/6Cxe95BqKrrMxwMiEVSvTJ/5f7c4bb9f35c674f4959d136943b6808/campanha-en.png)
+![campanha-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Campaign%20Audiences/campaign-audiences_1.png)
 
 When the campaign is activated, eligible for the purchase context and all its restrictions are met, it does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the[ campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume) must also be met.
 

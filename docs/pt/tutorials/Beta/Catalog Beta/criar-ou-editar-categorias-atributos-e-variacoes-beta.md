@@ -61,7 +61,7 @@ Na fase beta, utilizaremos uma nova nomenclatura para os seguintes termos:
 
 No Admin VTEX, ao acessar **Catálogo > Categorias**, por padrão, você visualiza a interface de **Categorias** e **Atributos**, conforme a imagem abaixo:
 
-![category_attributes_PT](https://images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/c6d1c504ce54677eeae8c80c80b59fa5/category_attributes_PT.png)
+![category_attributes_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_1.png)
 
 Nesta página, você pode visualizar informações e realizar as seguintes ações:
 
@@ -82,7 +82,7 @@ Nesta página, você pode visualizar informações e realizar as seguintes açõ
 
 Quando você seleciona a opção **Variações**, você visualiza uma interface como a imagem abaixo:
 
-![category_variations_PT](https://images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/689c0bef10b31e2c2a597704f01d441b/category_variations_PT.png)
+![category_variations_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_2.png)
 
 Nesta página, você pode visualizar informações e realizar as seguintes ações:
 
@@ -218,7 +218,7 @@ Quando um grupo de atributos é criado na categoria pai, ele se torna obrigatór
 
 Na interface de **Atributos**, é possível identificar grupos e atributos herdados a partir do ícone de compartilhamento, localizado à esquerda do nome, como na imagem abaixo:
 
-![inherited_atribute_PT](https://images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/8d5928f2eead68cf473e106b791b9257/inherited_atribute_PT.png)
+![inherited_atribute_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/Catalog%20Beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_3.png)
 
 <div class = "alert alert-info">
   <p>Caso queira saber sobre status de atributos, confira a seção <a href="#ver-status-de-ativacao-da-variacao-e-seus-valores">Ver status de ativação do atributo e seus valores</a>.</p>

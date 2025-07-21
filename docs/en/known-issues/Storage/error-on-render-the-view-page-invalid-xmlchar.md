@@ -21,11 +21,11 @@ internalReference: 1140738
 
 When rendering the view page, an error `error on line ... at column ...: xmlParseCharRef: invalid xmlChar value ...` occurs. This error happens because the form contains a character not interpreted by the XML parser, causing the page to fail during rendering.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/vXtAkcFk2c2KKi0QNLO58P9dw/?name=Captura+de+Tela+2024-11-26+a%CC%80s+15.08.07.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-on-render-the-view-page-invalid-xmlchar_1.png)
 
 This field was checked in the checkbox on the form List Fields.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/LmZN49pwizGkuoR89Q7FWzA5n/?name=Captura+de+Tela+2024-11-26+a%CC%80s+14.59.02.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-on-render-the-view-page-invalid-xmlchar_2.png)
 
 
 ##

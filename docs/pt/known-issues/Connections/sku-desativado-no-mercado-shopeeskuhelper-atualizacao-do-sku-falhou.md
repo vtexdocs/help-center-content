@@ -39,7 +39,7 @@ Mesmo com preço e estoque corretamente registrados no catálogo VTEX, vários p
 
 Admin > APPS instalados > Calçados > Gerenciar Produtos > Status de Sincronização de Produtos
 
- ![](https://vtexhelp.zendesk.com/attachments/token/5nItV4f72xEP8f530KkOaHpuD/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/sku-desativado-no-mercado-shopeeskuhelper-atualizacao-do-sku-falhou_1.png)
 
 
 ##

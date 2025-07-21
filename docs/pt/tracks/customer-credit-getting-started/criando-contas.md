@@ -40,7 +40,7 @@ Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 
 A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 
-![CC_criar_conta_1_PT](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/d260357ee6bb9151e7dfc99d8fc72e90/CC_criar_conta_1_PT.JPG)
+![CC_criar_conta_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-getting-started/criando-contas_1.JPG)
 
 ## Criar múltiplas contas (importação em massa)
 
@@ -57,7 +57,7 @@ Para criar múltiplas contas ao mesmo tempo (em massa) no Customer Credit, você
   <li>Colunas <b>Credit limit</b> e <b>Tolerance rate</b>: valores disponibilizados para cada cliente. O <b>Tolerance rate</b> deve ser inserido em formato decimal, por exemplo, uma tolerância de 5% deve ser indicada como 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
+![CC_criar_conta_2_ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-getting-started/criando-contas_2.JPG)
 
 <blockquote><ui>6. Salve a planilha .csv.</ui>
 

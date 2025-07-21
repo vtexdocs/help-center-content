@@ -40,5 +40,5 @@ Acceda a Admin > Pedidos > Inventario y envío > Listos para enviar > filtrar "t
 ¿Existe una solución para este error? Si es así, descríbala aquí.
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/HEOqvAUXkaIEDYgVRStQJCuWT/?name=inline1320005424.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/VTEX%20Log/si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente_1.png)
 

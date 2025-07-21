@@ -30,7 +30,7 @@ The error occurs during the reattempt to integrate with the Ricardo Eletro marke
 
 Admin > Marketplace > Marketplaces and integrations > Ricardo Eletro > Connect
 
- ![](https://vtexhelp.zendesk.com/attachments/token/NGEmOlXo52LZgVBg692pAm0ow/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/findmarketplaces-error-5xx-sorry-something-went-wrong-on-our-side_1.png)
 
 
 ##

@@ -34,7 +34,7 @@ Existem duas possibilidades de troca de seller:
 
 | **Ativo** | **Desativo** |
 |----|
-| ![Recusar](https://images.ctfassets.net/alneenqid6w5/3ko5d7jnhUZh4HDxx3hr6d/3acaa50706a0938f0cbd30446cfebff1/Recusar.png) | ![Cancelar](https://images.ctfassets.net/alneenqid6w5/2ZS1DTLiKFlHJYBVyuYMhQ/4f13f9c482acaa7e7baddb7b4c0070eb/Cancelar.png) |
+| ![Recusar](https://images.ctfassets.net/alneenqid6w5/3ko5d7jnhUZh4HDxx3hr6d/3acaa50706a0938f0cbd30446cfebff1/Recusar.png) | ![Cancelar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_1.png) |
 
 ## Troca automática de seller
 
@@ -42,7 +42,7 @@ Após a recusa de um pedido no VTEX Sales App, o sistema irá procurar automatic
 
 Recomendamos que, caso um seller não seja encontrado automaticamente, seja realizada a [troca de seller manualmente](#troca-manual-de-seller). Para habilitar essa funcionalidade, entre em contato com o [Suporte da VTEX](https://support.vtex.com/hc/pt-br/requests). 
 
-![pedidos recusados PT](https://images.ctfassets.net/alneenqid6w5/5goolXgsNzyW6iIomwQViD/8dc2cf8b5ed5e14ef4df62d71d290514/image.png)
+![pedidos recusados PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_2.png)
 
 ## Troca manual de seller
 
@@ -52,10 +52,10 @@ Para trocar manualmente o seller de um pedido no VTEX Sales App, siga os passos 
 2. Na seção **Pedidos recusados**, clique no pedido que deseja trocar o seller. Caso a sua loja não tenha nenhum pedido recusado, essa seção ficará oculta.
 3. Na página do pedido, clique em `Trocar seller`.
 4. Selecione o seller desejado para o pedido. Na janela será apresentado o prazo de entrega e preço do frete de cada seller, além de indicar qual seller apresenta menor prazo.
-![trocar seller PT](https://images.ctfassets.net/alneenqid6w5/5qXGxdwH7F6uJfpL1jVSiT/d88d155df80d7664e3afe56c0fc9e709/image.png)
+![trocar seller PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_3.png)
 5. Após selecionar o seller, clique em `Continuar`.
 6. Confira as informações da troca de seller e clique em `Confirmar` para finalizar.
-![trocar seller 2 PT](https://images.ctfassets.net/alneenqid6w5/7DLR4MFL58OoL4tmQNAgJf/6ff588942b260ec8585a7fc7350dcaa3/image.png)
+![trocar seller 2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/VTEX%20Sales%20App%20Beta/trocar-seller-de-um-pedido-do-vtex-sales-app-beta_4.png)
 
 <div class ="alert alert-info">
 <p>O cliente só será notificado da troca de seller por email caso o prazo de entrega seja diferente do que o original.</p>

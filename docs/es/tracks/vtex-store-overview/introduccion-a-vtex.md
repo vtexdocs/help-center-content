@@ -18,7 +18,7 @@ trackSlugES: serie-de-la-tienda-vtex
 
 La imagen a continuación muestra las soluciones y posibilidades de VTEX, que se tratarán a lo largo de esta serie de artículos:
 
-![vtex_composable_complete_ES](https://images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/80e21dd3aebbe2c74c752b8d61d7a2f9/vtex_composable_complete_ES.png)
+![vtex_composable_complete_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-store-overview/introduccion-a-vtex_1.png)
 
 <div class="alert alert-info">
 Además de los portales Help Center y <a href="https://developers.vtex.com/">Developer Portal</a> y <a href="https://community.vtex.com/">VTEX Community</a>, en nuestro <a href="https://vtex.com/co-es/">sitio web</a>ofrecemos más información sobre la plataforma a través de <a href="https://vtex.com/br-pt/resources-category/product-demo-videos-br/">videos explicativos</a> (solo en inglés) y <a href="https://vtex.com/br-pt/resources-category/ebooks-br/">ebooks</a> creados por nuestros <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion">partners</a>. También ponemos a disposición una serie de <a href="https://sites.google.com/vtex.com.br/onboardingvtex/trilha">videos de onboarding</a> (solamente en portugués).

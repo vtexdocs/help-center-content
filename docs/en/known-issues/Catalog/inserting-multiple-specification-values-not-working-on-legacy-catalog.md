@@ -41,7 +41,7 @@ The data, itself, is not saved.
 
 2 - Try adding multiple values via a linebreak, such as the example below:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/6pVnoX8kHuMUq0fXp571JIBtZ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/inserting-multiple-specification-values-not-working-on-legacy-catalog_1.png)
 
 3 - You will not be able to and a "Try this tip" message will be shown.
 

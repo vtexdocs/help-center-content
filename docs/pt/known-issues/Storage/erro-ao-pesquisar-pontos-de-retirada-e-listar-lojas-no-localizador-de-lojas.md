@@ -24,13 +24,13 @@ internalReference: 1118712
 
 
 Ao pesquisar um ponto de coleta em Logística, pode ocorrer o seguinte erro:
- ![](https://vtexhelp.zendesk.com/attachments/token/tGzdaXqZCHcgtcGaPagLU0yZu/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-pesquisar-pontos-de-retirada-e-listar-lojas-no-localizador-de-lojas_1.png)
 
     Ocorreu um erro ao carregar os pontos de coleta. Por favor, recarregue a página.
 
 
 Além disso, nesse mesmo cenário, há um impacto na loja on-line, que usa o aplicativo Store Locator para listar suas lojas, então a lista de lojas não será exibida:
- ![](https://vtexhelp.zendesk.com/attachments/token/Dv85rVttxoEMwVXMsMmTxWoI1/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-pesquisar-pontos-de-retirada-e-listar-lojas-no-localizador-de-lojas_2.png)
 
 ## Simulação
 
@@ -52,8 +52,8 @@ Além disso, nesse mesmo cenário, há um impacto na loja on-line, que usa o apl
 
 Como isso ocorre de forma intermitente, você pode tentar novamente em alguns instantes.
 Você também pode listar todas as lojas de retirada (da API de logística), localizá-la na resposta e identificar seu **id**. Em seguida, adicione o ID ao URL do administrador. Para até 1.000 PUPs, você pode usar a API "List pickup points". Acima desse número, use a API "List paged pickup points" (lembrando-se de navegar pelas páginas):
- ![](https://vtexhelp.zendesk.com/attachments/token/EfD2BHKtWRI9FMXxDp8ne0Y0Y/?name=image.png)
- ![](https://vtexhelp.zendesk.com/attachments/token/FlXGbHMAa5B0jvIioHRPRsw0S/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-pesquisar-pontos-de-retirada-e-listar-lojas-no-localizador-de-lojas_3.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-pesquisar-pontos-de-retirada-e-listar-lojas-no-localizador-de-lojas_4.png)
 
 
 

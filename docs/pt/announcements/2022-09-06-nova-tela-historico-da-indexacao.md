@@ -19,7 +19,7 @@ Em toda operação de ecommerce, é necessário cadastrar ou alterar informaçõ
 
 Para aprimorar a experiência de monitoramento da indexação do seu Catálogo, redesenhamos a página de **Histórico da Indexação** no Admin VTEX. A nova interface permite acompanhar o tempo de indexação dos seus produtos e o status de indexação da sua loja.
 
-![Histórico da Indexação 1 - PT](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/eafd584f145b495cab5aee630f44fb8a/Screenshot_2022-09-01_at_12-47-19_Hist__rico_da_Indexa____o.png)
+![Histórico da Indexação 1 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022-09-06-nova-tela-historico-da-indexacao_1.png)
 
 ## O que mudou?
 

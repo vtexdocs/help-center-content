@@ -32,7 +32,7 @@ Ao tentar carregar um novo arquivo em admin/portal/#/sites/default/code, nada ac
 
 1. Vá para admin/portal/#/sites/default/code
 2. Vá para New -> Upload File -> selecione o arquivo que deseja importar -> clique em create
- ![](https://vtexhelp.zendesk.com/attachments/token/4uSgPeUxG9xAOkTq1HUs8khX6/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Portal/o-upload-de-arquivo-nao-esta-funcionando-em-adminportalsitesdefaultcode_1.png)
 3. Verifique se nada acontece
 
 ## Workaround

@@ -29,7 +29,7 @@ If you configure a product with a required assembly option and then go to the mi
 
 Add a product that has a required assembly option to the minicart and then try to delete it. You can test on the storecomponents
 https://storecomponents.myvtex.com/custom-bell/p?__bindingAddress=storecomponents.myvtex.com/
- ![](https://vtexhelp.zendesk.com/attachments/token/J3EPe83BNwTZnQ37NHLS2qqA9/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/it-is-possible-to-remove-a-required-assembly-option-from-the-minicart_1.png)
 
 
 ##

@@ -19,7 +19,7 @@ With an ever-increasing volume of data available for ecommerce operations to eva
 
 The dashboard allows users to analyze data from all sales channels of the store and its sellers, including metrics on revenue, orders, average ticket, and more. It also includes charts and tables so you can compare results from different periods, and introduces eleven filter options to provide unified insights into your entire operation.
 
-![Sales Perf Dash EN](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
+![Sales Perf Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021-10-19-new-sales-performance-dashboard_1.gif)
 
 ## What has changed?
 Previously, your VTEX Admin only had the Insights page to generate business intelligence from your operations data. We have now included the Sales Performance page, where you can have a more detailed view of the results of the different sales channels of your store. The Insights page will remain in your VTEX Admin.

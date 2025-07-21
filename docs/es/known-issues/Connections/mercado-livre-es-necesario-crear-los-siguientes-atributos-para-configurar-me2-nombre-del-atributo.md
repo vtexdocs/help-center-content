@@ -38,9 +38,9 @@ Admin > Mercado > Productos
     Os seguintes atributos precisam ser criados para configurar o me2: CHARMS_AND_MEDALS_MATERIAL.Los siguientes atributos deben ser criados para configurar me2: KEYBOARD_TYPE
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3E9OM6bkGAbmCH6mX5U9f0SOm/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-nombre-del-atributo_1.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/n6Jmp5fJYCGf5Dfr1H6cAamNF/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-nombre-del-atributo_2.png)
 
 
 ##

@@ -23,7 +23,7 @@ Assembly options attachments lose binding when two items are added to the cart f
 
 The expected behavior is that each attachment is delivered according to its assembly options. However, both attachments will be delivered by the same seller, causing all the assembly options attachments and the second item to show as unavailable.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/pAnVC0tyWPYhIrtDBJJXfERRR/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/assembly-options-attachments-lose-binding-if-items-are-available-in-different-whitelabel-sellers_1.png)
 
 
 ##

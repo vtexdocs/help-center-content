@@ -28,7 +28,7 @@ href="https://vtex.com/es-mx/contacto/">formulario de contacto</a>.</p>
 
 La funcionalidad Recomendaciones de productos permite a las tiendas ofrecer experiencias personalizadas a los consumidores, mediante sugerencias de ítems basadas en diferentes estrategias de recomendación. Además, permite mostrar productos relevantes o complementarios y aumentar la tasa de conversión y el ticket promedio de la operación.
 
-![productos-similares-es](https://images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/dc243a756d7bc4aa5371e0369f35033b/productos-similares-es.png)
+![productos-similares-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Product%20Recommendations%20Beta/recomendaciones-de-productos-beta_1.png)
 
 ## Prerrequisitos
 

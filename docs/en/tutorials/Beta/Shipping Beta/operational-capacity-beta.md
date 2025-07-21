@@ -65,7 +65,7 @@ If you want to stop using the feature, you can [disable Operational Capacity (Be
 
 In the VTEX Admin, go to **Shipping > Operational capacity**, or type **Operational capacity** in the search bar to see the following page:
 
-![operational_capacity_image_1_EN](https://images.ctfassets.net/alneenqid6w5/opN2M1DYrc69GY2OZQMkB/2bd82b22849281c63a6219b2369a4f25/operational_capacity_image_1_EN.png)
+![operational_capacity_image_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_1.png)
 
 <div class="alert alert-warning">
 The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact our <a href="https://help.vtex.com/en/support">Support team</a>.
@@ -164,7 +164,7 @@ The platform has some restrictions regarding <a href="https://help.vtex.com/en/t
 
 The **Operational Capacity Status** shows, in real time, the percentage of the seller's capacity that has already been used that day and over the next three days, as in the image below:
 
-![operational_capacity_image_2_EN](https://images.ctfassets.net/alneenqid6w5/5jW4EqujiAVrWvAThX4i2I/ae067e4f98dded0bb367f2fecfb064ae/operational_capacity_image_2_EN.png)
+![operational_capacity_image_2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/Shipping%20Beta/operational-capacity-beta_2.png)
 
 If you set up the _Continue to receive orders by consuming the capacity of the following days_ [rule](#iii-rule) for the seller, the chart will display the percentage of operational capacity for the following days already used for orders from previous days. Learn more in [Editing the seller's operational capacity](#editing-the-sellers-operational-capacity).
 

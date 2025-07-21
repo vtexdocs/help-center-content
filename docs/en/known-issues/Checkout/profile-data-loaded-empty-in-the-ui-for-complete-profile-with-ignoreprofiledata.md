@@ -32,7 +32,7 @@ When setting 'ignoreProfileData' via API Ignore profile data on checkout, if the
 - Add an item to the cart;
 - Add an email with a complete profile; no data will be loaded and it'll require login.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/jVk0tmcR7R4BmaEkDcCedJgBP/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/profile-data-loaded-empty-in-the-ui-for-complete-profile-with-ignoreprofiledata_1.png)
 
 
 ##

@@ -37,14 +37,14 @@ Criar uma nova política comercial é o primeiro passo para definir as condiçõ
 
 Essa configuração é feita no módulo Configurações da Loja, na aba Políticas comerciais. É necessário [criar uma nova política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) quando as configurações de catálogo, preços, promoções, logística e pagamentos forem diferentes entre os marketplaces em que os sellers vendem seus produtos. 
 
-![PT Add Politica comercial](https://images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/a9be66bd901619b68280ad8ceec4d552/PT_Add_Politica_comercial.jpg)
+![PT Add Politica comercial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_1.jpg)
 
 ## Gerenciamento de Pedidos
 Após a criação de uma política comercial, é preciso associá-la a cada marketplace em que o seller vende produtos ao cadastrar [afiliados](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). É assim que sellers identificam qual política comercial está atuando em cada marketplace. Se sua loja vende produtos em três marketplaces diferentes, é necessário criar três afiliados, cada um representando um marketplace. 
 
 Essa ação é feita na aba *Configurações* do módulo *Gerenciamento de Pedidos* da sua loja ao cadastrar afiliados. Mesmo criando várias, é importante notar que somente uma política comercial atuará no marketplace por vez. 
 
-![PT Afiliado](https://images.ctfassets.net/alneenqid6w5/44WIEfxcntAXCrsoveWKv2/3004320aeb44502e68cceac90c472d6c/PT_Afiliado.jpg)
+![PT Afiliado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_2.jpg)
 
 *No exemplo acima o afiliado "Amazon" está vinculado à política comercial "1".* 
 
@@ -58,7 +58,7 @@ Essa configuração é feita no módulo de *Promoções* em todas as [promoçõe
 
 Se nenhuma política comercial for selecionada, a promoção estará disponível em todos os canais de venda.
 
-![PT Promoções Politica Comercial](https://images.ctfassets.net/alneenqid6w5/78iUQ59I9DDJS1lI4mJjA1/8d011fccf8af4cf5bc088cbd77a7b914/PT_Promo____es_Politica_Comercial.jpg)
+![PT Promoções Politica Comercial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_3.jpg)
 
 *No exemplo acima, a promoção será aplicada somente a pedidos das políticas comerciais "Marketplace-BRL" e "Argentina-ARS", onde a loja atua como seller. A promoção não estará disponível no storefront da loja VTEX.* 
 
@@ -67,7 +67,7 @@ Sellers que transacionam o pagamento das vendas de seus produtos em um marketpla
 
 Essa configuração é feita no módulo de *Pagamentos*, ao [criar uma condição especial](/pt/tutorial/condicoes-especiais--tutorials_456) e ao associá-la às políticas comerciais desejadas. Se nenhuma restrição é feita, a política comercial será aplicada em todos os canais de venda. 
 
-![PT Pagamento Politica comercial](https://images.ctfassets.net/alneenqid6w5/1B0eL9YPiRsRSgQUSgHqBJ/bd8e088166a9fa0f1fabc0c410f18409/PT_Pagamento_Politica_comercial.jpg)
+![PT Pagamento Politica comercial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_4.jpg)
 
 *No exemplo acima, a condição de pagamento está associada à política comercial "Marketplace". Isso torna a condição de pagamento disponível apenas aos canais de venda associados a essa política comercial.*
 
@@ -80,7 +80,7 @@ Essa configuração é feita no *Catálogo* da VTEX, ao [cadastrar produtos](/pt
 Não é recomendado vincular políticas comerciais a coleções, para determinar o sortimento de produtos, sobretudo em casos de marketplaces externos à VTEX. Quando um produto é retirado da coleção da política comercial, o sistema VTEX não avisa o marketplace dessa atualização, fazendo com que o produto continue disponível no marketplace. 
 </div>  
 
-![Pt Catálogo Politica](https://images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/63eea6b22e93fa4e94840a5c9a88db94/Pt_Cat__logo_Politica.jpg)
+![Pt Catálogo Politica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_5.jpg)
 
 *No exemplo acima, o produto estará disponível apenas para canais de venda utilizando as políticas comerciais "Carrefour" e "Marketplace".* 
 
@@ -92,7 +92,7 @@ Essa configuração é feita no módulo de *Preços* da VTEX, utilizando políti
 - [Regras de preço](/pt/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): para determinar um markup para categorias e marcas específicas
 - [Preços fixos](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar preços em produtos específicos
 
-![PT Regra de preço](https://images.ctfassets.net/alneenqid6w5/lBoM4E1z07YLbsZfJhP1V/6344b89e4698e8834febd6dcbc4374cc/PT_Regra_de_pre__o.jpg)
+![PT Regra de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_6.jpg)
 
 *No exemplo acima, a regra de preço aplicou um markup à política comercial "Marketplace" para produtos dentro da categoria "Fera-Fashion*. 
 
@@ -102,10 +102,10 @@ Sellers podem configurar [rotas logísticas](/pt/tracks/logistica-101--13TFDwDtt
 
 Ambas configurações são realizadas no módulo *Estratégia de Envio*. Ao criar uma [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj), é preciso indicar quais políticas comerciais ela atenderá. Isso torna as políticas de envio associadas a essa doca disponíveis para as políticas comerciais vinculadas. Em seguida, é necessário relacionar o [estoque](/pt/tutorial/gerenciar-estoque) desejado a uma doca, para tornar seu inventário disponível para todas as políticas comerciais associadas à doca. 
 
-![PT Doca Politica](https://images.ctfassets.net/alneenqid6w5/1peTICHA1NJwPUAvPbsoMb/2f40ca4bb8723eff8218e24ad2b81c8f/PT_Doca_Politica.jpg)
+![PT Doca Politica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_7.jpg)
 *No exemplo acima, a doca está associada à política comercial "Marketplace", que serão atendidas pela transportadora "Transportadora A".*
 
-![PT Estoque Politica](https://images.ctfassets.net/alneenqid6w5/6ZyxXxLtPVaFgkb5LY9cVi/634a9269e2b94cc8102fe4037f8b7136/PT_Estoque_Politica.jpg)
+![PT Estoque Politica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_8.jpg)
 *No exemplo acima, o estoque está associado a "Doca A", portanto esse será o estoque que as políticas comerciais vinculadas à "Doca A" utilizarão.* 
 
 ## Integrações
@@ -113,7 +113,7 @@ As políticas comerciais também são aplicadas em todas as integrações em que
 
 Essas [integrações](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#vender-em-marketplace) são feitas na aba de *Configurações* do módulo *Integrações*. Cada canal costuma requerer condições comerciais específicas, porém, é possível que canais diferentes compartilhem da mesma política comercial. 
 
-![PT integracao politica](https://images.ctfassets.net/alneenqid6w5/2Zg5NRNmE30MNvB7cxXyso/50d0f55f7ed3ab4c1a776224151fb6bf/PT_integracao_politica.jpg)
+![PT integracao politica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Trade%20policies/Trade%20Policies%20Settings/configurando-a-politica-comercial-para-marketplace_9.jpg)
 
 *No exemplo acima, a política comercial "Marketplace" está aplicada na integração com o Google Shopping.*
 

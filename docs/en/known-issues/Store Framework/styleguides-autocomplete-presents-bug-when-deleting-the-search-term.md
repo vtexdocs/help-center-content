@@ -28,10 +28,10 @@ When using the style guide's autocomplete (https://styleguide.vtex.com/#/Compone
 
 
 Try writing a term to search for:
- ![](https://vtexhelp.zendesk.com/attachments/token/wDC5HfVy0hJJByej9GmJCxyNN/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/styleguides-autocomplete-presents-bug-when-deleting-the-search-term_1.png)
 
 Delete the term completely, you'll see that the first letter of the term will appear again:
- ![](https://vtexhelp.zendesk.com/attachments/token/sSFMXx0RqDQRFbFMg5rUUgE0Q/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/styleguides-autocomplete-presents-bug-when-deleting-the-search-term_2.png)
 
 You can test it on the documentation example: https://styleguide.vtex.com/#/Components/Forms/AutocompleteInput
 

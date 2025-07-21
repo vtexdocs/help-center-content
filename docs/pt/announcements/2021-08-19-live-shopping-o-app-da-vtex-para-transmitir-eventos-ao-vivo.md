@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O aplicativo permite que as lojas façam transmissões 
 
 O aplicativo Live Shopping é responsável por revolucionar o seu relacionamento com os clientes. Com ele, você pode realizar transmissões ao vivo no site de sua loja para promover coleções de produtos, aumentar as vendas e melhorar a experiência do usuário de forma simultânea e em tempo real.
 
-![VTEX Live Shopping App](https://images.contentful.com/alneenqid6w5/laSpBi1YPl54TxoSam7M7/6c377e4f93f45175ceda43a5629d8420/-Official_Sales_Deck-_VTEX_Live_Shopping_App.png)
+![VTEX Live Shopping App](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-08-19-live-shopping-o-app-da-vtex-para-transmitir-eventos-ao-vivo_1.png)
 
 O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/) e pode ser baixado por um preço de assinatura acessível por todas as lojas em VTEX IO e Legado.
 
@@ -42,7 +42,7 @@ No Admin, ele permite:
 - Estabelecer uma lista de palavras proibidas que serão bloqueadas no bate-papo em tempo real;
 - Disponibilizar enquetes e testes aos usuários.
 
-![live-shopping-event-details-pt](https://images.contentful.com/alneenqid6w5/3S1LlDHlh3P3VAZzLEgMOl/f93c9f80c325cbdb319f4a6a03968b20/image4.png)
+![live-shopping-event-details-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-08-19-live-shopping-o-app-da-vtex-para-transmitir-eventos-ao-vivo_2.png)
 
 ## Quais são as vantagens de usar o app?
 

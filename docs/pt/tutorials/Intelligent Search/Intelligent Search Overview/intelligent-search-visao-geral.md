@@ -26,7 +26,7 @@ subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 
 O Intelligent Search é uma solução de busca desenvolvida pela VTEX para fornecer resultados de busca precisos e relevantes com base nas interações dos clientes da sua loja. Os resultados são exibidos de acordo com o comportamento dos usuários, seja através da barra de busca, navegação por categorias ou visualização de vitrines de produtos.
 
-![Intelligent Search](https://cdn.jsdelivr.net/gh/vtexdocs/dev-portal-content@main/images/search-overview-0_21.gif)
+![Intelligent Search](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Intelligent%20Search/Intelligent%20Search%20Overview/intelligent-search-visao-geral_1.gif)
 
 A ferramenta conta com recursos como:
 

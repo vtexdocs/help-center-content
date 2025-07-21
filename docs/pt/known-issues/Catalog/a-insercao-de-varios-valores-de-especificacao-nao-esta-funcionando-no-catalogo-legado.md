@@ -42,7 +42,7 @@ Os dados, em si, não são salvos.
 
 2 - Tente adicionar vários valores por meio de uma quebra de linha, como no exemplo abaixo:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/6pVnoX8kHuMUq0fXp571JIBtZ/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado_1.png)
 
 3 - Você não conseguirá e uma mensagem "Try this tip" será exibida.
 

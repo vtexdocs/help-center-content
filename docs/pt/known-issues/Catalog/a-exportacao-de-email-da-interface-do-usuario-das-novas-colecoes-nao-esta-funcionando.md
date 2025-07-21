@@ -32,11 +32,11 @@ Atualmente, ao tentar usar a exportação por e-mail, no novo módulo de coleç�
 
 2 - Vá para a guia Exportar
 
- ![](https://vtexhelp.zendesk.com/attachments/token/hsnTzp3QEke2dAj6FoJwKXooL/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-exportacao-de-email-da-interface-do-usuario-das-novas-colecoes-nao-esta-funcionando_1.png)
 
 3 - Há duas opções, uma para exportar diretamente na interface do usuário (download para o computador) e outra para exportar por e-mail
 
- ![](https://vtexhelp.zendesk.com/attachments/token/7OpN2ObWUqFmSH9XccwMU3aaj/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-exportacao-de-email-da-interface-do-usuario-das-novas-colecoes-nao-esta-funcionando_2.png)
 
 4 - Tente usar a funcionalidade de exportação por e-mail
 

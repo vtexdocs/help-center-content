@@ -22,7 +22,7 @@ The user management dashboard design has been refreshed with the same interface 
 - The MFA (multi-factor authentication) configuration is now displayed for each user in the user list.
 - A button to export the user list data to a csv file that includes id, email and name.
 
-![Lista Usuários User Management EN](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/a8d2afc57a750d942cfe7e6e2cd98993/Lista_Usu__rios_User_Management_EN.png)
+![Lista Usuários User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020-12-17-new-ui-for-the-admins-user-management-dashboard_1.png)
 
 In addition, the dashboard has undergone some changes:
 

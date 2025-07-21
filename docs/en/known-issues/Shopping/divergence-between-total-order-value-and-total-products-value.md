@@ -26,7 +26,7 @@ The order is closed and normally transacted at VTEX. But, depending on the exter
 
 Example of occurrence:
 
-![image](//images.ctfassets.net/alneenqid6w5/4sJOKvC97OggkWYoCQaa6G/c6b38b60fc500436bb36a5ae6409094e/image.png)
+![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Shopping/divergence-between-total-order-value-and-total-products-value_1.png)
 
 In this case, the total value of the order charged to the customer was `R$ 7.98`. However, when adding the sales figures recorded in each product, the total would be `R$ 7.95`.
 

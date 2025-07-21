@@ -20,7 +20,7 @@ Con un volumen cada vez mayor de datos disponibles para que las operaciones de e
 
 El dashboard permite a los usuarios analizar los datos de todos los canales de venta de la tienda y de sus sellers, incluyendo métricas sobre los ingresos, los pedidos, el ticket promedio y mucho más. También incluye gráficos y tablas para que puedas comparar los resultados de diferentes periodos, e introduce once opciones de filtro para proporcionar insights unificados de toda la operación.
 
-![Sales Perf Dash ES](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
+![Sales Perf Dash ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021-10-19-nuevo-dashboard-desempeno-de-ventas_1.gif)
 
 ## ¿Qué cambió?
 Anteriormente, tu Admin VTEX solo contaba con la página Insights para generar inteligencia empresarial a partir de los datos de tus operaciones. Ahora hemos incluido una nueva página, Desempeño de Ventas, para ofrecerte una visión más detallada de los resultados de los diferentes canales de venta de tu tienda. La página Insights permanecerá en tu Admin VTEX.

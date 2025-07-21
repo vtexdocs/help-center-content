@@ -39,7 +39,7 @@ Las informaciones rellenadas en el registro se pueden actualizar en cualquier mo
 
 Para eliminar el registro de alguna marca, debe hacer clic en la flecha al lado de `Editar` y seleccionar la opción `Eliminar`.
 
-![editar-marca es](https://images.ctfassets.net/alneenqid6w5/1klwWT7dVmC63Az7KqX4hI/5fb442a9f0f4c3b566b61899ad17eb3c/editar-marca_ES.png)
+![editar-marca es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/catalog-101/registrar-marcas_1.png)
 
 ## API
 

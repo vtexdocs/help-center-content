@@ -22,7 +22,7 @@ internalReference: 562588
 
 It's not possible to identify the difference (id) between specifications in IS modules when they have the same name and they are on the same level
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4IkRStz0ewiubTt0pwHLx5SJ0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/duplicated-entries-for-categoriesspecification-values-on-the-same-level_1.png)
 
 
 

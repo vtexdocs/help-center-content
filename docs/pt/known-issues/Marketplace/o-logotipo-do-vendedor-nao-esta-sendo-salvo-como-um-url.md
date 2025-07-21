@@ -28,7 +28,7 @@ As informações do logotipo do vendedor no banco de dados não estão sendo sal
 
 Atualmente, nossa documentação do formulário de pedido afirma que este campo deve ser uma URL:
 https://developers.vtex.com/docs/guides/orderform-fields#sellers
- ![](https://vtexhelp.zendesk.com/attachments/token/SNx3LvZCcZAZHXrEnMaa5EUkh/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketplace/o-logotipo-do-vendedor-nao-esta-sendo-salvo-como-um-url_1.png)
 
 Mas em nosso banco de dados está sendo gravado em um formato diferente.
 

@@ -33,7 +33,7 @@ Currently, if you try to filter for multiple products at one in the pricing's se
 
 3 - The final result should look something like the image below, where the presented products are not the exact 3 that were filtered for, but the original list
 
- ![](https://vtexhelp.zendesk.com/attachments/token/QlZToxNgxy6wbXkoGW74KkJU7/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Pricing%20&%20Promotions/searching-for-multiple-products-in-the-pricing-module-doesnt-work_1.png)
 
 
 ##

@@ -25,7 +25,7 @@ internalReference: 560014
 
 Si se accede a una tienda y se hace clic en mostrar más, se navega por algunas páginas, y luego se hace clic de nuevo en el enlace "categoría" para reiniciar la navegación, el fetch more traerá el estado(página) de la última navegación, no volviendo al principio.
 
- ![](https://vtexhelp.zendesk.com/attachments/token/h61bZkQCRjKATjmc4d1VyUQ4V/?name=image+%283%29.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/fetchmore-mantiene-el-estado-de-nextpage-y-se-bloquea-la-paginacion_1.png)
 
 
 ## Simulación

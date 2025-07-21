@@ -24,7 +24,7 @@ internalReference:
 
 When a user searches for a term and thereafter applies a filter to the multi-selection options (in the searchNavigator control), the searched term is initially removed from the query, meaning that the filter ignores the term and performs the search query only by considering the options chosen by the user.
 
-![search result](//images.contentful.com/alneenqid6w5/6BZ5Xh6OHe8WSWywOQCKGw/e814ecd5db35ff565151876dd8f826d5/search_result.gif)
+![search result](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/searchnavigator-control-multiselection-filter-disregards-searched-term_1.gif)
 
 ## Simulation
 

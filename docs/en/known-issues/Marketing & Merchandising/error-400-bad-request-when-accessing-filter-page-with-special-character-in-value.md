@@ -20,7 +20,7 @@ internalReference:
 
 When applying a filter by specification (side menu) with special character, the system returns a white screen with the following error 400: "Bad Request! Scripts are not allowed!"
 
-![Filtro com erro 400](//images.contentful.com/alneenqid6w5/zFVBtySVCoYSoCqEQioOw/b0ac0afcad2eb753d0c02cf14850e087/erro_400.png)
+![Filtro com erro 400](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/error-400-bad-request-when-accessing-filter-page-with-special-character-in-value_1.png)
 
 ## Simulation
 

@@ -24,13 +24,13 @@ Sin embargo, esos atributos son muy claros (Color principal, Color secundario, T
 
 Si alguno de esos atributos es rellenado incorrectamente (por ejemplo, si usted ha atribuido un código relativo a Tamaño de cinturón para un calzado), el Integraciones va a retornar un error con el siguiente formato:
 
-![Shot1](https://images.contentful.com/alneenqid6w5/7A7DwGFr0cw8Q2qek0EqMU/9cad02c847f5dc7be7df68ad14bba39e/Shot1.jpg)
+![Shot1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_1.jpg)
 
 En este caso, tenemos dos ejemplos de errores en el mismo mensaje.
 
 El primero de ellos indica que el atributo cuyo código empieza con el número `113000` es necesario para la categoría elegida y no fue insertado en la planilla de mapeo. Vea la planilla a continuación:
 
-![Shot2](https://images.contentful.com/alneenqid6w5/4Nue6IMwP6YEKiweMIe0s4/e835e5ab80f6db2b7a13ee4ed6a4f1e4/Shot2.png)
+![Shot2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/Channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_2.png)
 
 El segundo error indica que el atributo cuyo código empieza con el número `63000`, insertado en la última columna de la planilla arriba es inválido para la categoría elegida.
 

@@ -21,7 +21,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 La página **Claves de API** permite configurar la duración de los tokens de API generados al crear una clave. Definir la duración de las claves de API es importante para garantizar la seguridad, limitar la exposición a riesgos y controlar el acceso a recursos, minimizando el impacto de claves comprometidas.
 
-![apikeys-settings-es](https://images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/e05c90c32240254ce7b36437fcd26f56/apikeys-settings-es.png)
+![apikeys-settings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/API%20Keys%20Beta/configurar-la-duracion-de-las-claves-de-api_1.png)
 
 De manera predeterminada, la duración de las claves de API es de 3 meses, salvo que se seleccione otra opción.
 

@@ -28,7 +28,7 @@ Cuando un sku falla las reglas de Calidad de Oferta creadas por el Marketplace, 
 Sin embargo, al intentar aprobar el sku, se devuelve un mensaje de error: "Lo sentimos, algo ha ido mal en el Catálogo. Por favor, inténtelo de nuevo o póngase en contacto con VTEX si el problema persiste".
 
 Esto sucede porque el módulo Matcher no fue capaz de llenar la información del producto y del sku después de enviar el sku a estas Fichas (puedes verificar esto usando las APIs):
- ![](https://vtexhelp.zendesk.com/attachments/token/0Dti3ak7twOpuVzvzntmPCGit/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/error-al-aprobar-skus-rechazados-o-revisados-por-calidad-de-la-oferta_1.png)
 
 
 ##

@@ -19,7 +19,7 @@ Continuando con las mejoras realizadas para la [certificación de Mercado Libre]
 
 En la nueva página **Promociones** de Mercado Libre, puedes gestionar una lista con las diferentes campañas promocionales en la plataforma disponibles para tu tienda.
 
-![Promociones](https://images.ctfassets.net/alneenqid6w5/2drMTXsElqn1iLe0WnVuTa/81ac8a2fea28f3db675cc33ef164ab8c/Promociones.gif)
+![Promociones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-06-15-integracion-con-mercado-libre-nueva-interfaz-para-gestionar-promociones_1.gif)
 
 ## ¿Qué cambió?
 

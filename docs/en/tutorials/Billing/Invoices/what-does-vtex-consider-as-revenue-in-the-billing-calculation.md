@@ -33,7 +33,7 @@ To learn how to access the orders that were considered for revenues calculation,
 All financially approved orders will receive this status, which can be seen in the orders management module:
 
 
-![image (2)](https://images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
+![image (2)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/what-does-vtex-consider-as-revenue-in-the-billing-calculation_1.png)
 
 
 To access this module, follow the step by step below:

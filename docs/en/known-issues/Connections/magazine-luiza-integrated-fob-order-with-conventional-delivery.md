@@ -31,9 +31,9 @@ _**Architecture:**_ FOB / Magalu Entregas
 ## Simulation
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/trNBBsjQKWcb75RAS5bGAtTAM/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-integrated-fob-order-with-conventional-delivery_1.png)
 
- ![](https://vtexhelp.zendesk.com/attachments/token/2BTcd1rvMRWs05Aq1uFjfBah0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-integrated-fob-order-with-conventional-delivery_2.png)
 
 
     Se no request for enviado isFOB=true, o SLA selecionado deve ser um do tipo FOB, como, por exemplo: "selectedSla": "vtex:fob_1" Se você deseja selecionar um SLA que não é do tipo FOB, o campo isFOB deve ser enviada como false ou não ser enviada.

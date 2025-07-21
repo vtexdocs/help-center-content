@@ -33,7 +33,7 @@ Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias e
 
 ## Fluxo do pedido no Marketplace
 
-![Screen Shot Fluxo de Marketplace](https://images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
+![Screen Shot Fluxo de Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_1.png)
 
 Ocorre quando a loja atua apenas como Marketplace no pedido. Ou seja, quando a loja vende produtos de outra loja - seu Seller.
 
@@ -47,7 +47,7 @@ Então, o despacho é autorizado e logo em seguida entra-se no status `Carência
 
 ## Fluxo do pedido no Seller
 
-![screenshoot fluxo seller PT](https://images.ctfassets.net/alneenqid6w5/19xYHIDMJf3wClpHAnTwuf/8adf145a324fdbc36db70785f55675c0/screenshoot_fluxo_seller_PT.JPG)
+![screenshoot fluxo seller PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_2.JPG)
 
 Ocorre quando a loja atua como Seller. Ou seja, quando ela é a dona do produto.
 
@@ -61,7 +61,7 @@ O próximo status é então o de `Preparando entrega`, quando o Seller prepara a
 
 ## Fluxo completo do pedido
 
-![Screen Shot Fluxo completo](https://images.ctfassets.net/alneenqid6w5/7A1IWqoCQw4INm34u6lOWF/f21882fb0c337fbaf2ebb462ebb197f7/Screen_Shot_Fluxo_completo.png)
+![Screen Shot Fluxo completo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/orders/fluxo-do-pedido_3.png)
 
 Ocorre quando a loja é ao mesmo tempo Marketplace e Seller. Ou seja, é quando o pedido foi fechado na loja e a própria loja é a dona do produto, sendo responsável pelo fulfillment.
 

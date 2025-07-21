@@ -33,7 +33,7 @@ La siguiente tabla ilustra las novedades de la página [agregar o editar product
 | Nuevo campo **Descripción adicional** | Incluye información adicional y resumida del producto. Esta mejora permite tener más flexibilidad y opciones al presentar el producto en la PDP.  |
 | Nuevo campo **Fecha de release** | Configura la fecha de release del producto, que corresponde al día en que estará disponible para la venta. |
 
-![announcement_product_page_ES](https://images.ctfassets.net/alneenqid6w5/4wCQdF8IlArYDPeC0GVBb/eafbaf6921299ee2cd5d54c5510bcbd8/announcement_product_page_ES.gif)
+![announcement_product_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025-02-19-nuevas-paginas-para-agregar-o-editar-productos-y-skus-ahora-en-ga_1.gif)
 
 ### SKU
 
@@ -49,7 +49,7 @@ La siguiente tabla ilustra las novedades de la página [agregar o editar SKU](/e
 | Nuevo campo **Videos** | Asocia hasta seis videos al SKU. |
 | Nuevo campo **Atributos** | Crea **Atributos** y agrega información personalizada en el SKU. |
 
-![announcement_sku_page_ES](https://images.ctfassets.net/alneenqid6w5/75H7cG75uj77vX0o60C9cP/17276fc4b1479b7ee3100cb4be1f0795/announcement_sku_page_ES.gif)
+![announcement_sku_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025-02-19-nuevas-paginas-para-agregar-o-editar-productos-y-skus-ahora-en-ga_2.gif)
 
 ## ¿Qué se necesita hacer?
 

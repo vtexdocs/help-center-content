@@ -32,12 +32,12 @@ Describe here what steps are needed to reproduce this behavior. Be careful not t
 
 OMS
 
- ![](https://vtexhelp.zendesk.com/attachments/token/Og610DmFNOXxq62mJ8Mi7KH0x/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace_1.png)
 
 
 Magazine Luiza
 
- ![](https://vtexhelp.zendesk.com/attachments/token/dO1rwzcpoXTv5KSHqRk0ddHVv/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace_2.png)
 
 
 

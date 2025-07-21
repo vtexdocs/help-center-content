@@ -37,7 +37,7 @@ No entanto, o status Vermelho considera apenas a disponibilidade para o canal de
 1 - Em uma loja com vários canais de vendas, crie um produto com disponibilidade para um canal de vendas diferente de sc=1
 2 - Verifique sua tag visual de disponibilidade no catálogo, aquela que pode ser vista na listagem do catálogo
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OpqtMAd4kvj5EW4HUxlAdrBo0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/cor-vermelha-incorreta-na-tag-de-disponibilidade-do-administrador-do-catalogo-para-itens-fora-de-sc1_1.png)
 
 3 - Mesmo com o item disponível para outros canais de vendas, como sc=2, a tag só ficará verde se estiver ativa e disponível para sc=1
 

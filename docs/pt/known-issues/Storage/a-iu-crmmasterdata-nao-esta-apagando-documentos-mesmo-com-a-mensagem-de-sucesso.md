@@ -33,9 +33,9 @@ A IU CRM não está apagando documentos, embora a mensagem de sucesso seja mostr
 
 
 - Acesse o sistema de aplicação (.vtexcrm.com.br)
-- Selecione uma vista, como Clientes, clique em ![](https://vtexhelp.zendesk.com/attachments/token/l2EMLx8PT4mDFNKGPAtZQVGxt/?name=image.png)
+- Selecione uma vista, como Clientes, clique em ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso_1.png)
 - Em seguida, o sistema mostrará os documentos que pertencem aos dados da entidade selecionada
-- Selecione um documento e clique no botão apagar ![](https://vtexhelp.zendesk.com/attachments/token/ipkMJC5WWN1LRfeRAkxr7RUCG/?name=image.png)
+- Selecione um documento e clique no botão apagar ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso_2.png)
 - Depois disso, o sistema pedirá para confirmar a ação
 - Após a confirmação, é exibida a mensagem "_Registro excluído com sucesso!_".
 - Mas o documento ainda está listado quando você clica no botão OK

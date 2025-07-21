@@ -32,7 +32,7 @@ No entanto, esse link não está redirecionando o cliente para a página de edi�
 
 
 Configure o sinalizador Permitir que os clientes façam alterações nos pedidos em Admin -> configurações -> configurações de pedidos
- ![](https://vtexhelp.zendesk.com/attachments/token/GqrSJ7cBhZc844LR3kXH7WMlX/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-link-alterar-pedido-no-checkoutorderplaced-esta-direcionando-para-myaccount-em-vez-da-pagina-do-pedido_1.png)
 
 O comprador preenche um pedido e vai para o checkout/orderPlaced
 

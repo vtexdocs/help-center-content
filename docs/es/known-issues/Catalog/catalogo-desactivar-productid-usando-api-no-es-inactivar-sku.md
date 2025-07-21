@@ -39,7 +39,7 @@ El producto sigue disponible en PDP
 
 PUT - https://VTEX.vtexcommercestable.com.br/api/catalog/pvt/product/
 
- ![](https://vtexhelp.zendesk.com/attachments/token/FVMLGum8BwYRG5crfDPmb0Gef/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-desactivar-productid-usando-api-no-es-inactivar-sku_1.png)
 
 
 ##

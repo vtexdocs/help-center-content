@@ -43,7 +43,7 @@ Antes de criar especificações, é importante compreender que as especificaçõ
 
 Considere o produto **Televisão** como exemplo. Em **Catálogo > Todos os produtos > Alterar > Especificações**, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da televisão. Esse grupo inclui um campo de nome **Polegadas** e um campo de nome **Faixa etária**, que são obrigatórios.
 
-![especificacoes-caracteristicas-pt](https://images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/ac89c8d88e3188da9d6af758d0e6992a/image6.png)
+![especificacoes-caracteristicas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-produto_1.png)
 
 Por se tratar de uma especificação de produto, as informações selecionadas nessa página valerão para todas as variações do produto __Televisão__. Todos os produtos cadastrados na mesma categoria da televisão precisam ter essas especificações preenchidas também, visto que os campos são obrigatórios.
 
@@ -80,7 +80,7 @@ Para criar um campo de produto, siga os passos abaixo:
     * **Ativo**: insere ou remove este campo no cadastro do produto (aba **Especificações**).
 7. Clique em `Salvar`. 
 
-![product-spec-1](https://images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/7d508a1ad7465143efe1465d19275e19/PT_ProdutoGif_1_Alterado.gif)
+![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-produto_2.gif)
 
 #### Tipos de campo de produto
 
@@ -146,7 +146,7 @@ Já para os campos de tipo **Combo**, **Radio** e **CheckBox**, é necessário c
 
     Os valores criados serão exibidos na aba **Especificação** no cadastro de Produto.
 
-![product-spec-2](https://images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/283b1aca04c1790b548ee51438fe132f/PT_ProdutoGif_2_Alterado.gif)
+![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-produto_3.gif)
 
 <div class = "alert alert-info">
   <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
@@ -188,7 +188,7 @@ Para preencher as especificações de cada produto de forma individual, siga as 
 
 6. Clique em `Salvar`.
 
-![product-spec-3](https://images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/f54f61f82531c5be837a8516278103df/PT_ProdutoGif_3_Alterado.gif)
+![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-produto_4.gif)
 
 #### Planilha
 
@@ -211,7 +211,7 @@ Para preencher especificações de produtos em massa por planilha, é necessári
 9. Clique em **Select** para selecionar o arquivo com a planilha preenchida no seu computador.
 10. Clique em `Importar`.
 
-![product-spec-4](https://images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/e25821cf11d4b27e9142389fbd207d85/PT_ProdutoGif_4_Alterado.gif)
+![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/cadastrar-especificacoes-ou-campos-de-produto_5.gif)
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)

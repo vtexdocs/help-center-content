@@ -40,7 +40,7 @@ Sin embargo, el estado Rojo sólo tiene en cuenta la disponibilidad para el cana
 1 - Para una tienda con múltiples canales de venta, cree un producto con disponibilidad para un canal de venta distinto de sc=1
 2 - Compruebe su etiqueta visual de disponibilidad en el catálogo, la que se puede ver en el listado del catálogo
 
- ![](https://vtexhelp.zendesk.com/attachments/token/OpqtMAd4kvj5EW4HUxlAdrBo0/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/color-rojo-incorrecto-en-la-etiqueta-de-disponibilidad-del-administrador-del-catalogo-para-articulos-fuera-de-sc1_1.png)
 
 3 - incluso con el artículo disponible para otros canales de venta, como sc=2, la etiqueta sólo se pondrá verde si está activa y disponible para sc=1.
 

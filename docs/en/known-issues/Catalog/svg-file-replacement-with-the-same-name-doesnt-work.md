@@ -21,11 +21,11 @@ internalReference: 1151600
 
 When using the CMS file manager in the account admin, there is an option for you to upload files:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://vtexhelp.zendesk.com/attachments/token/k1Du6DExk2Rg7OCwXAKVRJfzv/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tIFD30VhzhOuxTIV0f7UurtEH/?name=image.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/svg-file-replacement-with-the-same-name-doesnt-work_1.png)
 
 When upload .SVG files, if you choose to replace an older file, by using the same name, the following display will be prompted:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/3jOyJQyyWWZJ2s6tlzjiJyDko/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/svg-file-replacement-with-the-same-name-doesnt-work_2.png)
 
 However, the content of such file is never updating when using this method.
 

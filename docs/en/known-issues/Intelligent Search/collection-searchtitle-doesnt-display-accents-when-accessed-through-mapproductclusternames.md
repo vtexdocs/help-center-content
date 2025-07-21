@@ -28,7 +28,7 @@ Collection pages accessed through map=productClusterNames show the collection na
 
 Collection accessed using ?map=productClusterNames:
 
- ![](https://vtexhelp.zendesk.com/attachments/token/mLfeFcf2Gafya3mXkII5fDBlm/?name=inline-1038161401.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames_1.png)
 
 The correct collection name can be seen in the page Title, and the search-title displays it without accents. This behavior may also be extended to other special characters.
 

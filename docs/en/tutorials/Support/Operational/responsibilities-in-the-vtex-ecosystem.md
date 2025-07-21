@@ -30,7 +30,7 @@ During the initial setup on VTEX, if your store uses[ external integrations with
 
 Once the initial product, price, and inventory integration has been set up and the middleware built, the information flow will be as shown in the diagram below.
 
-![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
+![back-office-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Support/Operational/responsibilities-in-the-vtex-ecosystem_1.PNG)
 
 During routine operations, responsibilities are divided as follows:
 
@@ -196,6 +196,6 @@ To understand the right support to request in case of issues with updating the o
 2. Click the desired order to go to the [order details page](/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl).
 3. In the **Order History** section, click `View Interactions` (button illustrated below) and check for any error messages.
 
-![view-interactions-en](https://images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/0f0830c6ea1439877301be64f17c0ccf/view-interactions-en.png)
+![view-interactions-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Support/Operational/responsibilities-in-the-vtex-ecosystem_2.png)
 
 If the error message does not provide sufficient information, the merchant can contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.

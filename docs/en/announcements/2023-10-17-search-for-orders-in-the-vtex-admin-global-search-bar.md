@@ -30,7 +30,7 @@ Previously, the global search bar allowed you to search only the VTEX Admin page
 
 To do this, click the search bar, select the `Orders` option, and search for what you want. Each search can return up to 10 results, as shown in the image below:
 
-![order_global_search_EN](https://images.ctfassets.net/alneenqid6w5/7sJBPUKfTt3bUTuSTEQJEP/cbf95c626a1dcc5a75382fc8db06a863/order_global_search_EN.gif)
+![order_global_search_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023-10-17-search-for-orders-in-the-vtex-admin-global-search-bar_1.gif)
 
 By clicking a result, you will be redirected to the [Order Details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). The last 10 orders you searched for will be recorded in your recent search history, making access more convenient. The search record is stored at the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) level and not shared among users.
 

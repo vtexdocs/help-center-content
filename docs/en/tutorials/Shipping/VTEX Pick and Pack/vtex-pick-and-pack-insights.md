@@ -21,7 +21,7 @@ This feature is in closed beta, so only selected customers can access it now. If
 
 **Insights** is a VTEX Admin page that displays information about your store's performance regarding VTEX Pick and Pack.
 
-![pick-pack-insights-en](https://images.ctfassets.net/alneenqid6w5/3C3eQIIJczIaJjRLRpFTFK/147307180023927ebf3a6b7fce67583e/image.png)
+![pick-pack-insights-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_1.png)
 
 This page includes the following sections:
 
@@ -40,7 +40,7 @@ In this section, you will see the total number of orders or worksheets for a giv
 * Last 3 months
 * Last 6 months
 
-![pick-pack-insights-2-en](https://images.ctfassets.net/alneenqid6w5/3RQxDHaIIizzeWuzR0V6BB/78201db1138e08681fd53e5e1936bcd2/image.png)
+![pick-pack-insights-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_2.png)
 
 ## Time on each step
 
@@ -50,16 +50,16 @@ In this section, you will find information regarding the duration of each step i
 * Time in Packing
 * Time in Shipping
 
-![pick-pack-insights-3-en](https://images.ctfassets.net/alneenqid6w5/1m58WOMMnQ7WOdaj4i3SFf/bbe1920023985fcaeb319696c4990efe/image.png)
+![pick-pack-insights-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_3.png)
 
 ## Orders - Order Performance
 
 In this section, you will see information on the overall order performance and the average fulfillment time for each order.
 
-![pick-pack-insights-4-en](https://images.ctfassets.net/alneenqid6w5/7wqqORtnKrckhBf8FN5ff7/d94b159d309b0412229a89e7c5901a7e/image.png)
+![pick-pack-insights-4-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_4.png)
 
 ## Items
 
 In this section, you will see information about the order items managed in VTEX Pick and Pack, the average picking time per item, the number of items picked by picker, and the order fulfillment rate.
 
-![pick-pack-insights-5-en](https://images.ctfassets.net/alneenqid6w5/eKZL0i3FM5wsulVBPzLJv/eb0fceee067533570ddbf10ec4f3a0fd/image.png)
+![pick-pack-insights-5-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/VTEX%20Pick%20and%20Pack/vtex-pick-and-pack-insights_5.png)

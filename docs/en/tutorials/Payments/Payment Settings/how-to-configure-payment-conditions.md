@@ -38,7 +38,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Payment in full
 
-![pagamento-a-vista en](https://images.ctfassets.net/alneenqid6w5/6qsrMJR4Dm82eWCQWg4mqs/1f75f9c11e8a6786331ae92a67b95062/paid_in_full.png)
+![pagamento-a-vista en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-configure-payment-conditions_1.png)
 
 1. In the VTEX Admin, go to Store __Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -56,7 +56,7 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 
 ### Installments without interest
 
-![parcelamento-sem-juros en](https://images.ctfassets.net/alneenqid6w5/19OdrKlrMkKq2es2wImwmM/3f7397b1e49452e1baa326680876a020/pagamento_sem_juros_en.png)
+![parcelamento-sem-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-configure-payment-conditions_2.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -73,7 +73,7 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 
 ### Installments with interest
 
-![parcelamento-com-juros en](https://images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/48180fcb645b1016905cd18c3e2fc617/pagamento_com_juros_en.png)
+![parcelamento-com-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-configure-payment-conditions_3.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -91,7 +91,7 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 14. To choose between compound interest and simple interest, select __Compound interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
 15. Click __Save__.
 
-![Juros - en](https://images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/8249510a824b6f81f3f86ad2466b62c9/juros_en.png)
+![Juros - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-configure-payment-conditions_4.png)
 
 ## Remove payment condition
 
@@ -99,4 +99,4 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 2. In the __Payment Conditions__ tab, click on the payment term you wish to remove.
 3. Click on the trash can icon.
 
-![Remove payment condition](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/8fc094a085a51f3b24d705956c14e052/remove_payment_condition.png)
+![Remove payment condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Payment%20Settings/how-to-configure-payment-conditions_5.png)

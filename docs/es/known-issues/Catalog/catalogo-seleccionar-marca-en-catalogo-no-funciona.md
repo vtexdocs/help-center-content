@@ -33,7 +33,7 @@ No se puede seleccionar/cambiar una marca utilizando la búsqueda en admin
 
 Admin > Producto > Formulario de Nuevo Producto > Marca > Cambiar/seleccionar marca
 
- ![](https://vtexhelp.zendesk.com/attachments/token/g9zaocozyLQblAYMsUMdv4etz/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-seleccionar-marca-en-catalogo-no-funciona_1.png)
 
 
 ##

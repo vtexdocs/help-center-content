@@ -27,13 +27,13 @@ internalReference: 702056
 El vendedor puede enviar valores unitMultilplier para sus skus inferiores a 1.
 
 Ejemplo:
- ![](https://vtexhelp.zendesk.com/attachments/token/HqXCaizs03DZbMVT2tcufZM6K/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/sugerencias-transformar-unitmultiplier-menor-que-1-a-0_1.png)
 
 La misma información se envía al mercado correctamente:
- ![](https://vtexhelp.zendesk.com/attachments/token/zImMl1BVZHLG6zc45x4XwrZpB/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/sugerencias-transformar-unitmultiplier-menor-que-1-a-0_2.png)
 
 Sin embargo, una vez que el producto es procesado por el Matcher, el valor se redondea a 0:
- ![](https://vtexhelp.zendesk.com/attachments/token/j5FMl4AJJ0R5IP3FcStUo7DDi/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/sugerencias-transformar-unitmultiplier-menor-que-1-a-0_3.png)
 
 Y una vez es aprobado en el catálogo del marketplace, el valor continúa como 0. De esta forma se establece un valor erróneo en el catálogo del marketplace.
 

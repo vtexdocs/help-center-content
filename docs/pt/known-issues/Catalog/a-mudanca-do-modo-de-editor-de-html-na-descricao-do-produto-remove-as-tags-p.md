@@ -32,7 +32,7 @@ Se você inserir manualmente uma tag de abertura e fechamento de parágrafo <p><
 
 1 - Em uma descrição de produto com mais de 2 parágrafos, alterne para o modo de editor HTML disponível pressionando o botão </> na parte inferior
 
- ![](https://vtexhelp.zendesk.com/attachments/token/4WtexfuFAhq9kNA6yCac7kXeS/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-mudanca-do-modo-de-editor-de-html-na-descricao-do-produto-remove-as-tags-p_1.png)
 
 2 - adicione manualmente um conjunto de tags <p> </p>
 

@@ -28,7 +28,7 @@ Some listings are being duplicated on the marketplace after being approved in th
 
 
 
- ![](https://vtexhelp.zendesk.com/attachments/token/m27u7nHLy02jvAIsO3B8yL3my/?name=image.png)
+ ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-duplicate-ads_1.png)
 
 
 ##

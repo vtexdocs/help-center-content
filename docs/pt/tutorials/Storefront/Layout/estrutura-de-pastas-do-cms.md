@@ -33,7 +33,7 @@ Estas são as pastas que toda loja precisa ter no CMS para garantir o correto fu
 
 Veja abaixo estas pastas básicas no CMS:
 
-![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
+![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/estrutura-de-pastas-do-cms_1.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
