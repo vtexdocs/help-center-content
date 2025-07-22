@@ -484,9 +484,9 @@ async function getEntries() {
         const file = entries.items[j];
         const type = file.sys.contentType.sys.id;
 
-        // Skip files that are not published
+        // Skip files that are not published (or changed)
         if (!(file.sys.publishedVersion &&
-    file.sys.version == file.sys.publishedVersion + 1)) {
+    (file.sys.version == file.sys.publishedVersion + 1 || file.sys.version == file.sys.publishedVersion + 2 ))) {
           // This file is not published yet, skip it
           continue;
         }
