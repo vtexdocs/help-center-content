@@ -59,4 +59,4 @@ To learn more <about the feature/module/product>, see <the article/track>.
 
 </details>
 
-> ℹ Find examples of announcement articles on the [Help Center](https://help.vtex.com/en/announcements).
+> Find examples of announcement articles on the [Help Center](https://help.vtex.com/en/announcements).
