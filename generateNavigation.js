@@ -486,7 +486,7 @@ async function getEntries() {
 
         // Skip files that are not published
         if (!(file.sys.publishedVersion &&
-    file.sys.version == file.sys.publishedVersion + 1)) {
+    (file.sys.version == file.sys.publishedVersion + 1 || file.sys.version == file.sys.publishedVersion + 2 ))) {
           // This file is not published yet, skip it
           continue;
         }
