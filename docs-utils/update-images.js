@@ -28,7 +28,7 @@ const checkAndCompressImage = async (filePath) => {
 
       if (fileSizeInMB > 100) { // If file exceeds 100MB
           console.log(`File ${filePath} is over 100MB (${fileSizeInMB.toFixed(2)} MB). Compressing...`);
-          let oldFilePath = filePath.replace(/(\.\w+)$/, '_old$1'); // Add "_old" before the extension
+          let oldFilePath = filePath.replace(/(\.\w+)$/, '_old_TO_BE_DELETED$1'); // Add "_old_TO_BE_DELETED" before the extension
 
           fs.renameSync(filePath, oldFilePath); // Rename original file
           console.log(`File renamed: ${filePath}`);
