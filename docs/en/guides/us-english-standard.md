@@ -20,16 +20,16 @@ For example, words that might include either the letter \-**o** or the letters \
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Color <br> • Humor | • Colour <br> • Humour |
+| <ul><li>Color</li><li>Humor</li></ul> | <ul><li>Colour</li><li>Humour</li></ul> |
 
 Words ending in \-**ze** or \-**se** should be written with \-**ze**.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Materialize <br> • Apologize | • Materialise <br> • Apologise |
+| <ul><li>Materialize</li><li>Apologize</li></ul> | <ul><li>Materialise</li><li>Apologise</li></ul> |
 
 Words ending in \-**er** or \-**re** should be written with \-**er**.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Center <br> • Meter | • Centre <br> • Metre |
+| <ul><li>Center</li><li>Meter</li></ul> | <ul><li>Centre</li><li>Metre</li></ul> |
