@@ -28,16 +28,13 @@ Use a verb in the infinitive followed by an object.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Create product Visit store | New product Store |
+| <ul><li>Create product</li><li>Visit store</li></ul> | <ul><li>New product</li><li>Store</li></ul> |
 
 Reuse labels for the same action. Common labels can be found in the glossary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Add product | Insert product |
-| View details | See details |
-| Edit | Modify |
-| Rename | Change name |
+| <ul><li>Add product</li><li>View details</li><li>Edit</li><li>Rename</li></ul> | <ul><li>Insert product</li><li>See details</li><li>Modify</li><li>Change name</li></ul> |
 
 Use sentence case but capitalize proper nouns.
 
@@ -49,8 +46,7 @@ Don’t use punctuation or personal pronouns and avoid articles.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Add product | Add a product |
-| Preview content | Preview my content |
+| <ul><li>Add product</li><li>Preview content</li></ul> | <ul><li>Add a product</li><li>Preview my content</li></ul> |
 
 ## Specific
 
@@ -58,10 +54,7 @@ Use precise labels that reflect the exact action.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Publish | Confirm |
-| Rename | Edit |
-| Edit | Modify |
-| Learn more | Click here |
+| <ul><li>Publish</li><li>Rename</li><li>Edit</li><li>Learn more</li></ul> | <ul><li>Confirm</li><li>Edit</li><li>Modify</li><li>Click here</li></ul> |
 
 When the context implies a single clear object, remove the object name from the label.
 
