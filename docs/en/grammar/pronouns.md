@@ -30,5 +30,4 @@ Use first-person plural pronouns (*we, our, us*) to refer to VTEX as author of t
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| We recommend adjusting this setting to avoid stockout. | VTEX recommends adjusting this setting to avoid stockout. |
-| We recommend exporting 10,000 records at a time. | It's recommended to export 10,000 records at a time. |
+| <ul><li>We recommend adjusting this setting to avoid stockout.</li><li>We recommend exporting 10,000 records at a time.</li></ul> | <ul><li>VTEX recommends adjusting this setting to avoid stockout.</li><li>It's recommended to export 10,000 records at a time.</li></ul> |

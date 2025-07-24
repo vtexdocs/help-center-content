@@ -18,8 +18,7 @@ Use common contractions, such as negation, and *it’s,* *you’re*, *that's*, t
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| Order Management | Orders Management |
-| Seller Portal | Sellers Portal |
+| <ul><li>Order Management</li><li>Seller Portal</li></ul> | <ul><li>Orders Management</li><li>Sellers Portal</li></ul> |
 
 Avoid awkward contractions, such as *there’d*, *it’ll*, *they’d,* noun plus verb, and double.
 
@@ -31,4 +30,4 @@ List of some awkward and common contractions:
 
 | Common ✅ | Awkward ❌ |
 | :--------- | :------------ |
-| • You’re (You are) <br> • They’re (They are) <br> • They’ve (They have) <br> • It’s (It is / It has) <br> • You'll (You will) <br> • Don’t (Do not) <br> • Won’t (Will not) <br> • Can’t (Cannot) <br> • Shouldn’t (Should not) | • The system’s (The system is) <br> • The platform’s (The platform is / has) <br> • The data’s (The data is / has) <br> • There’re (There are) – Awkward because it’s harder to pronounce clearly. <br> • That’ll (That will) – Sounds overly casual. <br> • Who’d’ve (Who would have) – Rarely seen outside very casual speech. <br> • Shouldn’t’ve (Should not have) – Too convoluted for writing. |
+| <ul><li>You’re (You are)</li><li>They’re (They are)</li><li>They’ve (They have)</li><li>It’s (It is / It has)</li><li>You'll (You will)</li><li>Don’t (Do not)</li><li>Won’t (Will not)</li><li>Can’t (Cannot)</li><li>Shouldn’t (Should not)</li></ul> | <ul><li>The system’s (The system is)</li><li>The platform’s (The platform is / has)</li><li>The data’s (The data is / has)</li><li>There’re (There are) – Awkward because it’s harder to pronounce clearly.</li><li>That’ll (That will) – Sounds overly casual.</li><li>Who’d’ve (Who would have) – Rarely seen outside very casual speech.</li><li>Shouldn’t’ve (Should not have) – Too convoluted for writing.</li></ul> |

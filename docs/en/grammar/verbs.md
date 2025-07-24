@@ -37,7 +37,7 @@ When introducing sections with the phrase *you can*: at the beginning of an arti
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| In this guide, you will learn how to: <br> • Access Media <br> • Manage files in Media <br> <br> **Accessing Media** <br> There are three ways to access Media: | In this guide, you will learn how to: <br> • Accessing Media <br> • Managing files in Media <br> <br> **Access Media** <br> There are three ways to access Media: |
+| In this guide, you will learn how to:<ul><li>Access Media</li><li>Manage files in Media</li></ul><p><strong>Accessing Media</strong><br>There are three ways to access Media:</p> | In this guide, you will learn how to:<ul><li>Accessing Media</li><li>Managing files in Media</li></ul><p><strong>Access Media</strong><br>There are three ways to access Media:</p> |
 
 When talking about a description in a table, use the present. 
 
@@ -51,5 +51,4 @@ In buttons, use imperative verbs.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Create product | New product |
-| Visit store | Store |
+| <ul><li>Create product</li><li>Visit store</li></ul> | <ul><li>New product</li><li>Store</li></ul> |

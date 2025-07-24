@@ -22,48 +22,37 @@ Use periods on long or complex sentences, paragraphs with multiple sentences, an
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Invite your first seller | Invite your first seller. |
-| Here you can invite and onboard new sellers | Here you can invite and onboard new sellers. |
-| Collection deleted successfully | Collection deleted successfully! |
-| Total captured orders within the selected period | Total captured orders within the selected period. |
-| Learn more | Learn more. |
-| Delete user | Delete user? |
-| I agree and accept | I agree and accept. |
+| <ul><li>Invite your first seller</li><li>Here you can invite and onboard new sellers</li><li>Collection deleted successfully</li><li>Total captured orders within the selected period</li><li>Learn more</li><li>Delete user</li><li>I agree and accept</li></ul> | <ul><li>Invite your first seller.</li><li>Here you can invite and onboard new sellers.</li><li>Collection deleted successfully!</li><li>Total captured orders within the selected period.</li><li>Learn more.</li><li>Delete user?</li><li>I agree and accept.</li></ul> |
 
 For a more objective message, avoid using commas.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| [x] will also be removed from {applications} and other applications where it's being used | If it's being used in {applications}, or others, it will also be removed from those applications |
-| This collection has manually added products and also automatic filters in the CMS | In addition to the manually added products, this collection has automatic filters in the CMS |
+| <ul><li>[x] will also be removed from `{applications}` and other applications where it's being used</li><li>This collection has manually added products and also automatic filters in the CMS</li></ul> | <ul><li>If it's being used in `{applications}`, or others, it will also be removed from those applications</li><li>In addition to the manually added products, this collection has automatic filters in the CMS</li></ul> |
 
 Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-|  Words related to the product. They will be used in searches. Separate the words with commas ",". | Words related to the product. They will be used in searches. Separate the words with commas "," |
-| You are using <b>{current, number} out of {limit, number}</b> available coupon slots. Remove some coupons to create more. <u>Learn more</u> | You are using <b>{current, number} out of {limit, number}</b> available coupon slots. Remove some coupons to create more <u>Learn more</u> |
+| <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ",".</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more. <u>Learn more</u></li></ul> | <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ","</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more <u>Learn more</u></li></ul> |
 
 Don't use exclamation or interrogation marks.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Collection deleted successfully | Collection deleted successfully! |
-| Delete user | Delete user? |
+| <ul><li>Collection deleted successfully</li><li>Delete user</li></ul> | <ul><li>Collection deleted successfully!</li><li>Delete user?</li></ul> |
 
 Add a space before and after dashes to ensure readability and consistency in the text.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| 1 – 25 of 215 items | 1–25 of 215 items |
-| 8:00 AM – 9:00 PM | 8:00 AM–9:00 PM |
+| <ul><li>1 – 25 of 215 items</li><li>8:00 AM – 9:00 PM</li></ul> | <ul><li>1–25 of 215 items</li><li>8:00 AM–9:00 PM</li></ul> |
 
 Don't add space before and after slashes.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Filter by Name/SKU | Filter by Name / SKU |
-| Add/Remove products from collections | Add / Remove products from collections |
+| <ul><li>Filter by Name/SKU</li><li>Add/Remove products from collections</li></ul> | <ul><li>Filter by Name / SKU</li><li>Add / Remove products from collections</li></ul> |
 
 ## Colons
 
