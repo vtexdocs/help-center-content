@@ -3,8 +3,8 @@ title: 'Product and feature naming'
 id: guides0001
 status: PUBLISHED
 createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-01-09T19:24:22.388Z
-publishedAt: 2025-01-09T19:24:22.388Z
+updatedAt: 2025-07-24T19:24:22.388Z
+publishedAt: 2025-07-24T19:24:22.388Z
 firstPublishedAt: 2025-01-09T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
