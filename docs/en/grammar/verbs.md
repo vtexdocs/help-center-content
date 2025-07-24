@@ -22,10 +22,7 @@ Start sentences with imperative verbs when indicating the actions users must tak
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout. | To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog. |
-| Open the VTEX Admin and access **Storefront > FastStore WebOps**. | At the VTEX Admin, access **Storefront > FastStore WebOps**. |
-| Enter your postal code. | Entering your postal code. |
-| Learn more about VTEX IO Clients and their advantages. | Learning more about VTEX IO Clients and their advantages. |
+| <ul><li>Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout.</li><li>Open the VTEX Admin and access **Storefront > FastStore WebOps**.</li><li>Enter your postal code.</li><li>Learn more about VTEX IO Clients and their advantages.</li></ul> | <ul><li>To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog.</li><li>At the VTEX Admin, access **Storefront > FastStore WebOps**.</li><li>Entering your postal code.</li><li>Learning more about VTEX IO Clients and their advantages.</li></ul> |
 
 When the title or heading starts with a verb, use it in the \-ing form.
 
@@ -37,7 +34,7 @@ When introducing sections with the phrase *you can*: at the beginning of an arti
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| In this guide, you will learn how to:<ul><li>Access Media</li><li>Manage files in Media</li></ul><p><strong>Accessing Media</strong><br>There are three ways to access Media:</p> | In this guide, you will learn how to:<ul><li>Accessing Media</li><li>Managing files in Media</li></ul><p><strong>Access Media</strong><br>There are three ways to access Media:</p> |
+| In this guide, you will learn how to:<ul><li>Access Media</li><li>Manage files in Media</li></ul><p><strong>Accessing Media</strong></p><p>There are three ways to access Media:</p> | In this guide, you will learn how to:<ul><li>Accessing Media</li><li>Managing files in Media</li></ul><p><strong>Access Media</strong></p><p>There are three ways to access Media:</p> |
 
 When talking about a description in a table, use the present. 
 
