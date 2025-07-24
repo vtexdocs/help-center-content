@@ -136,7 +136,7 @@ Use camel case for placeholders and developer fields. This means capitalizing th
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| The file name should follow the pattern *{storeName}-favicon.ico*. | The file name should follow the pattern *{storename}-favicon.ico*. |
+| The file name should follow the pattern *`{storeName}`-favicon.ico*. | The file name should follow the pattern *`{storename}`-favicon.ico*. |
 
 ### Lists
 
@@ -146,10 +146,10 @@ Always capitalize the first letter in a bullet or numbered list.
 
 | Do ✅ | Don't ❌ |
 | :--------- | :------------ |
-| Search Console provides easy and free access to the following information: <br> 1. Top search terms <br> 2. Top URLs viewed  | Search Console provides easy and free access to the following information: <br> • top search terms <br> • top URLs viewed |
+| Search Console provides easy and free access to the following information: <ol><li>Top search terms</li><li>Top URLs viewed</li></ol> | Search Console provides easy and free access to the following information: <ul><li>top search terms</li><li>top URLs viewed</li></ul> |
 
 ### Numbered list
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| <ul><li>On the <b>Projects</b> page, click <code>Create new</code>.</li><li>In the <b>New project</b> page, complete the fields.</li><li>After setting each field of the page, click <code>Create</code>.</li></ul>  | <ul><li>on the <b>Projects</b> page, click <code>Create new</code>.</li><li>in the <b>New project</b> page, complete the fields.</li><li>after setting each field of the page, click <code>Create</code>.</li></ul> |
+| <ul><li>On the <b>Projects</b> page, click `Create new`.</li><li>In the <b>New project</b> page, complete the fields.</li><li>After setting each field of the page, click `Create`.</li></ul>  | <ul><li>on the <b>Projects</b> page, click `Create new`.</li><li>in the <b>New project</b> page, complete the fields.</li><li>after setting each field of the page, click `Create`.</li></ul> |
