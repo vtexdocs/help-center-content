@@ -26,11 +26,11 @@ Our language should reflect the diversity of our community and the unique identi
 * **When talking about people**, be descriptive only when required by the context.  
 * **When talking about things**, use clear and accurate information, avoiding metaphors and idioms that could obscure meaning.
 
-Avoid using terms that may carry unconscious racial bias or US English standardthose associated with military actions, politics, or sensitive historical events. These terms can inadvertently perpetuate stereotypes or create discomfort.
+Avoid using terms that may carry unconscious racial bias or those associated with military actions, politics, or sensitive historical events. These terms can inadvertently perpetuate stereotypes or create discomfort.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Protect your data against potential threats. <br> • We respond to cybersecurity risks to ensure your system’s safety. <br> • Our solution helps safeguard your network. | • Fight against cyberattacks. <br> • Defend your systems from the enemy. <br> • Go on the offensive with our security tools. |
+| <ul><li>Protect your data against potential threats.</li><li>We respond to cybersecurity risks to ensure your system’s safety.</li><li>Our solution helps safeguard your network.</li></ul> | <ul><li>Fight against cyberattacks.</li><li>Defend your systems from the enemy.</li><li>Go on the offensive with our security tools.</li></ul> |
 
 ## Gender-neutral language
 
@@ -42,13 +42,13 @@ You can also use a writing resource throughout the text to improve readability, 
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • If a customer has questions about their order, **they** can contact our support team for assistance. <br> • When customers want to return an order, **they are** able to do that through physical stores. <br> • This feature allows sales associates to showcase products in real time, allowing **them** to replicate an in-person experience with the customer. | <br> • If a customer has questions about their order, **he/she** can contact our support team for assistance. <br> • When customers want to return an order, **he or she is** able to do that through physical stores. <br> • This feature allows sales associates to showcase products in real time, allowing **he or she** to replicate an in-person experience with the customer. |
+| <ul><li>If a customer has questions about their order, **they** can contact our support team for assistance.</li><li>When customers want to return an order, **they are** able to do that through physical stores.</li><li>This feature allows sales associates to showcase products in real time, allowing **them** to replicate an in-person experience with the customer.</li></ul> | <ul><li>If a customer has questions about their order, **he/she** can contact our support team for assistance.</li><li>When customers want to return an order, **he or she is** able to do that through physical stores.</li><li>This feature allows sales associates to showcase products in real time, allowing **he or she** to replicate an in-person experience with the customer.</li></ul> |
 
 When referring to example user profiles, use names that reflect a broad range of identities.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Maria <br> • Jamal | • James <br> • Jessica |
+| <ul><li>Maria</li><li>Jamal</li></ul> | <ul><li>James</li><li>Jessica</li></ul> |
 
 ## Describing people
 
@@ -58,7 +58,7 @@ If you're unsure, use person-first language, which focuses on the person before 
 
 | Good | Better | Reason |
 | ---- | ---- | ---- |
-| • Dark mode is useful for people with vision issues. <br> • The policy was designed with feedback from people of Hispanic or Latino origin. | • Dark mode is useful for people who prefer reduced screen brightness. <br> • The policy was designed with feedback from Mexican and Colombian communities. | • Not everyone who uses dark mode has vision issues. This description is broader and applies to more users. <br> • Being specific highlights the unique experiences of distinct cultural groups within broader terms like "Hispanic" or "Latino”. |
+| <ul><li>Dark mode is useful for people with vision issues.</li><li>The policy was designed with feedback from people of Hispanic or Latino origin.</li></ul> | <ul><li>Dark mode is useful for people who prefer reduced screen brightness.</li><li>The policy was designed with feedback from Mexican and Colombian communities.</li></ul> | <ul><li>Not everyone who uses dark mode has vision issues. This description is broader and applies to more users.</li><li>Being specific highlights the unique experiences of distinct cultural groups within broader terms like "Hispanic" or "Latino”.</li></ul> |
 
 **To create inclusive content:**
 
@@ -69,8 +69,8 @@ If you're unsure, use person-first language, which focuses on the person before 
 
 | Usage | Reason |
 | ---- | ---- |
-| • Terms related to sight, such as "View all products," and "Watch the meeting." | • People who are blind or have low vision are not excluded by these terms — they still "view" content, just in a different way. Where possible, use alternatives to these words, but only if it makes sense in context. You don’t need to eliminate them if they accurately describe the action. |
-| • Enabled/disabled | • "Disabled" isn’t inherently offensive; it refers to when individuals face limitations due to their environment or societal barriers. However, it’s important to avoid associating "disabled" with negative or undesirable states. |
+| <ul><li>Terms related to sight, such as "View all products," and "Watch the meeting."</li></ul> | <ul><li>People who are blind or have low vision are not excluded by these terms — they still "view" content, just in a different way. Where possible, use alternatives to these words, but only if it makes sense in context. You don’t need to eliminate them if they accurately describe the action.</li></ul> |
+| <ul><li>Enabled/disabled</li></ul> | <ul><li>"Disabled" isn’t inherently offensive; it refers to when individuals face limitations due to their environment or societal barriers. However, it’s important to avoid associating "disabled" with negative or undesirable states.</li></ul> |
 
 Where appropriate, we recommend: 
 
@@ -78,7 +78,7 @@ Where appropriate, we recommend:
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Turn off <br> • Inactive <br> • Deactivate | • Disable <br> • Disabled |
+| <ul><li>Turn off</li><li>Inactive</li><li>Deactivate</li></ul> | <ul><li>Disable</li><li>Disabled</li></ul> |
 
 ## Deaf
 
@@ -90,7 +90,7 @@ Don’t use this term to refer to someone’s disability. Be specific:
 
 | Do ✅ |
 | ---- |
-| • Person who requires a keyboard-accessible checkout. <br> • Person who uses an accessibility device. <br> • Shopper with accessibility requirements. <br> • User who requires assistive technology. |
+| <ul><li>Person who requires a keyboard-accessible checkout.</li><li>Person who uses an accessibility device.</li><li>Shopper with accessibility requirements.</li><li>User who requires assistive technology.</li></ul> |
 
 ## Blind
 
@@ -102,7 +102,7 @@ Avoid using these words to describe something as extreme or unbelievable.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Some surprising trends emerged in the sales data this quarter. <br> • Before launching the promotion, carefully review the discount settings to avoid errors. | • Some crazy trends showed up in the sales data this quarter. <br> • Before launching the promotion, do a quick sanity check on the discount settings. |
+| <ul><li>Some surprising trends emerged in the sales data this quarter.</li><li>Before launching the promotion, carefully review the discount settings to avoid errors.</li></ul> | <ul><li>Some crazy trends showed up in the sales data this quarter.</li><li>Before launching the promotion, do a quick sanity check on the discount settings.</li></ul> |
 
 ## Race
 
@@ -116,4 +116,4 @@ Be mindful when referring to different parts of the world. If you mention cities
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • This feature can be used by merchants in countries like Romania, USA, and Brazil. | • This feature can be used by merchants in Kashmir, Taiwan, and Crimea. |
+| <ul><li>This feature can be used by merchants in countries like Romania, USA, and Brazil.</li></ul> | <ul><li>This feature can be used by merchants in Kashmir, Taiwan, and Crimea.</li></ul> |
