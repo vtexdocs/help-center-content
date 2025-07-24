@@ -127,6 +127,7 @@ When you send the request, be sure to include the following fields.
 <details>
 
 <summary><b>Don't ❌</b></summary>
+
 When you send the request, be sure to include the following fields:
 
 ```sh
