@@ -147,6 +147,7 @@ Use tables for items with three or more related data points.
 
 <details>
 <summary><b>Do ✅</b></summary>
+
 When creating a field, the following types are displayed:
 
 | Field type | Description |
@@ -158,6 +159,7 @@ When creating a field, the following types are displayed:
 
 <details>
 <summary><b>Don’t ❌</b></summary>
+
 When creating a field, the following types are displayed:
 
 | Field type |
@@ -170,6 +172,7 @@ Write an introductory sentence for the table and refer to the table's position u
 
 <details>
 <summary><b>Do ✅</b></summary>
+
 FastStore is a toolkit based on Jamstack that helps developers build high-performance stores. In the following table, see its main aspects:
 
 | Aspect | Description |
