@@ -67,4 +67,4 @@ When a link is within a paragraph, it's not necessary to modify capitalization o
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| This metric is only available for stores that <u>capture navigation data</u>. | This metric is only available for stores that <u>Capture navigation data</u>. |
+| This metric is only available for stores that [capture navigation data](#). | This metric is only available for stores that [Capture navigation data](#). |
