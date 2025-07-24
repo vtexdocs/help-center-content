@@ -125,6 +125,7 @@ When you send the request, be sure to include the following fields.
 </details>
 
 <details>
+
 <summary><b>Don't ❌</b></summary>
 When you send the request, be sure to include the following fields:
 
@@ -143,6 +144,7 @@ When you send the request, be sure to include the following fields:
 
 ## Tables
 Use tables for items with three or more related data points.
+
 <details>
 <summary><b>Do ✅</b></summary>
 When creating a field, the following types are displayed:
@@ -165,6 +167,7 @@ When creating a field, the following types are displayed:
 | **CEP** |
 </details>
 Write an introductory sentence for the table and refer to the table's position using phrases like the following table or the preceding table.
+
 <details>
 <summary><b>Do ✅</b></summary>
 FastStore is a toolkit based on Jamstack that helps developers build high-performance stores. In the following table, see its main aspects:
