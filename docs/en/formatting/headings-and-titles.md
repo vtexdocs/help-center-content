@@ -31,37 +31,31 @@ In texts where titles are commands for the user, use the imperative.
 
 | Do ✅ | Don't ❌ |
 | :------ | :-------- |
-| Create a specification group in a category | Cloning the repository created |
-| Install the VTEX IO CLI on your machine | Installing the VTEX IO CLI on your machine |
+| <ul><li>Create a specification group in a category</li><li>Install the VTEX IO CLI on your machine</li></ul> | <ul><li>Cloning the repository created</li><li>Installing the VTEX IO CLI on your machine</li></ul> |
 
 Use sentence case, except with proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :------ | :-------- |
-| Setting up the Notify me option | Setting up the notify me option |
-| Configuring Price Divergence rule | Configuring Price Divergence Rule |
-| Order flow and status | Order Flow and Status |
+| <ul><li>Setting up the Notify me option</li><li>Configuring Price Divergence rule</li><li>Order flow and status</li></ul> | <ul><li>Setting up the notify me option</li><li>Configuring Price Divergence Rule</li><li>Order Flow and Status</li></ul> |
 
 Do not use a full stop ( `.` ), bold, interrogation and exclamation marks, or italic.
 
 | Do ✅ | Don't ❌ |
 | :------ | :-------- |
-| Managing shipping rates | Managing shipping rates. |
-| Creating synonyms | Creating *synonyms* |
-| Events available in Audit | Events available in **Audit** |
+| <ul><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ul> | <ul><li>Managing shipping rates.</li><li>Creating *synonyms*</li><li>Events available in **Audit**</li></ul> |
 
 An interrogation mark (`?`) can be used in FAQs and Announcements.
 
 | Do ✅ | Don't ❌ |
 | :------ | :-------- |
-| How does promotion proration work? | How does promotion proration work |
-| What needs to be done? | What needs to be done |
+| <ul><li>How does promotion proration work?</li><li>What needs to be done?</li></ul> | <ul><li>How does promotion proration work</li><li>What needs to be done</li></ul> |
 
 When using an abbreviation or acronym in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
 
 | Do ✅ | Don't ❌ |
 | :------ | :-------- |
-| <b>Configuring SEO in your Store Framework store</b><br> SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages. | <b>Configuring SEO in your Store Framework store</b><br> SEO is one of the most important strategies to better position your site on organic search engine results pages. |
+| <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages.</p> | <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO is one of the most important strategies to better position your site on organic search engine results pages.</p> |
 
 Do not use highlight expressions and generic words, such as *attention*, *details*, *important observations,* and *examples.*
 
@@ -85,5 +79,4 @@ In the actual heading, use `-ing`.
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| Creating a seller | Create a seller |
-| Editing a seller | Edit a seller |
+| <ul><li>Creating a seller</li><li>Editing a seller</li></ul> | <ul><li>Create a seller</li><li>Edit a seller</li></ul> |

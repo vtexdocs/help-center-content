@@ -24,8 +24,6 @@ See the [lists](#lists) guidelines for more information.
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Tables</b></summary>
 
@@ -47,14 +45,13 @@ Make sure the list or table structure is consistent. Start each item with the sa
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| <ul><li><b>Control</b> search results using specific conditions.</li><li><b>Preview</b> how search results will be displayed to customers while navigating the store.</li><li><b>Change</b> the order of the items listed in search results.</li></ul> | <ul><li><b>Controls</b> search results using specific conditions.</li><li><b>You can change</b> the order of the items listed in search results.</li></ul> |
-| <ul><li><b>Indicates</b> the type of editing used in the merchandising rule.</li><li><b>Enables</b> or disables a merchandising rule.</li><li><b>Type</b> of editing used in the merchandising rule.</li><li><b>Option</b> to enable or disable a merchandising rule.</li></ul> | <ul><li><b>Option</b> that enables or disables a merchandising rule.</li></ul> |
+| <ul><li><b>Control</b> search results using specific conditions.</li><li><b>Preview</b> how search results will be displayed to customers while navigating the store.</li><li><b>Change</b> the order of the items listed in search results.</li></ul> | <ul><li><b>Controls</b> search results using specific conditions.</li><li><b>You can change</b> the order of the items listed in search results.</li><li><b>Type</b> of editing used in the merchandising rule.</li><li><b>Option</b> to enable or disable a merchandising rule.</li></ul> |
 
 When a list or a word in the table is not a complete sentence, don't use punctuation.
 
 | Do ✅ | Don't ❌ |
 | ------ |-------- |
-| Before cloning your store's repository, ensure that you have the following tools on your machine: <br><ul><li>Node.js</li><li>Yarn</li><li>Git</li><li>Visual Studio Code</li></ul> | Before cloning your store's repository, ensure that you have the following tools on your machine: <br><ul><li>Node.js.</li><li>Yarn.</li><li>Git.</li><li>Visual Studio Code.</li></ul> |
+| Before cloning your store's repository, ensure that you have the following tools on your machine:<ul><li>Node.js</li><li>Yarn</li><li>Git</li><li>Visual Studio Code</li></ul> | Before cloning your store's repository, ensure that you have the following tools on your machine:<ul><li>Node.js.</li><li>Yarn.</li><li>Git.</li><li>Visual Studio Code.</li></ul> |
 
 ## Lists
 
@@ -83,14 +80,14 @@ Use a **numbered list** for sequential steps.
 
 | Do ✅ | Don't ❌ |
 | ------ | -------- |
-| Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below: <br> 1. Go to **Storefront > Projects.**<br>2. Choose the project you want to archive and click **Settings** (⚙️) to open a modal.<br>3. Click `Archive project` on the General page. A pop-up message will appear to confirm that you want to archive the project. | Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below: <br><ul><li>Go to <b>Storefront > Projects.</b></li><li>Choose the project you want to archive and click <b>Settings</b> (⚙️) to open a modal.</li><li>Click <code>Archive project</code> on the General page. A pop-up message will appear to confirm that you want to archive the project.</li></ul> |
-| The promotions applied to the cart follow the order below: <br> 1. Percentage<br>2. Nominal<br>3. Buy Together | The promotions applied to the cart follow the order below: <br><ul><li>Percentage</li><li>Nominal</li><li>Buy Together</li></ul> |
+| Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below:<ol><li>Go to <b>Storefront > Projects.</b></li><li>Choose the project you want to archive and click <b>Settings</b> (⚙️) to open a modal.</li><li>Click <code>Archive project</code> on the General page. A pop-up message will appear to confirm that you want to archive the project.</li></ol> | Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below:<ul><li>Go to <b>Storefront > Projects.</b></li><li>Choose the project you want to archive and click <b>Settings</b> (⚙️) to open a modal.</li><li>Click <code>Archive project</code> on the General page. A pop-up message will appear to confirm that you want to archive the project.</li></ul> |
+| The promotions applied to the cart follow the order below:<ol><li>Percentage</li><li>Nominal</li><li>Buy Together</li></ol> | The promotions applied to the cart follow the order below:<ul><li>Percentage</li><li>Nominal</li><li>Buy Together</li></ul> |
 
 Write an introduction to the list providing context for the user. Use a colon at the end of the sentence if the list follows immediately after.
 
 | Do ✅ | Don't ❌ |
 | ------ | -------- |
-| Follow the steps below to add a new collection: <br> 1. In the Admin, click <b>Catalog</b>.<br>2. Click <b>Collections</b>.<br> | Add a new collection: <br> 1. In the Admin, click <b>Catalog</b>.<br>2. Click <b>Collections</b>.<br> |
+| Follow the steps below to add a new collection:<ol><li>In the Admin, click <b>Catalog</b>.</li><li>Click <b>Collections</b>.</li></ol> | Add a new collection:<ol><li>In the Admin, click <b>Catalog</b>.</li><li>Click <b>Collections</b>.</li></ol> |
 
 ### Unordered list
 
@@ -98,13 +95,13 @@ Use a **bulleted list** of items with a common theme that doesn’t require a sp
 
 | Do ✅ | Don't ❌ |
 | ------ | -------- |
-| The tool has features such as: <br> <ul><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ul> | The card Opens a modal that displays three tabs: <br> <ol><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ol> |
+| The tool has features such as:<ul><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ul> | The card Opens a modal that displays three tabs:<ol><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ol> |
 
 For bullet list items consisting of complete sentences, use a period at the end of each sentence.
 
 | Do ✅ | Don't ❌ |
 | ------ | -------- |
-| Promotion competition occurs in the following situations: <br><ul><li>Promotions with the same type of discount.</li><li>More than one promotion applied to the same item.</li></ul> | Promotion competition occurs in the following situations: <br><ul><li>Promotions with the same type of discount</li><li>More than one promotion applied to the same item</li></ul> |
+| Promotion competition occurs in the following situations:<ul><li>Promotions with the same type of discount.</li><li>More than one promotion applied to the same item.</li></ul> | Promotion competition occurs in the following situations:<ul><li>Promotions with the same type of discount</li><li>More than one promotion applied to the same item</li></ul> |
 
 Use a period if there are more elements, such as a callout, code example, or an image, between the introduction and the list.
 
@@ -115,9 +112,9 @@ When you send the request, be sure to include the following fields.
 
 ```sh
 { 
-  "skuId": {sku-identification-number}", 
-  "quantity": "{product-identification-number}", 
-  "price": "{sku-price}"
+  "skuId": "`{sku-identification-number}`", 
+  "quantity": "`{product-identification-number}`", 
+  "price": "`{sku-price}`"
 }
 ```
 
@@ -127,34 +124,27 @@ When you send the request, be sure to include the following fields.
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Don't ❌</b></summary>
-
 When you send the request, be sure to include the following fields:
 
 ```sh
 { 
-   "skuId": {sku-identification-number}", 
-   "quantity": "{product-identification-number}", 
-   "price": "{sku-price}"
+   "skuId": "`{sku-identification-number}`", 
+   "quantity": "`{product-identification-number}`", 
+   "price": "`{sku-price}`"
 }
 ```
 
 - `skuId`: SKU identification code corresponding to the item.
 - `quantity`: Item quantity.
 - `price`: Item price in cents.
-
 </details>
 
 ## Tables
-
 Use tables for items with three or more related data points.
-
 <details>
 <summary><b>Do ✅</b></summary>
-
 When creating a field, the following types are displayed:
 
 | Field type | Description |
@@ -162,30 +152,21 @@ When creating a field, the following types are displayed:
 | **Auto Increment** | Stores integers and is automatically incremented, which means that for each new record, this field receives the value of the previous record + 1. |
 | **Boolean** | Stores true or false information, which means it will always be completed as `true` or `false`.  |
 | **CEP** | Stores a CEP (postal code in Brazil). |
-
 </details>
-
-<br>
 
 <details>
 <summary><b>Don’t ❌</b></summary>
-
 When creating a field, the following types are displayed:
+
 | Field type |
 | ---------- |
 | **Auto Increment** |
 | **Boolean** |
 | **CEP** |
-
 </details>
-
-<br>
-
-Write an introductory sentence for the table and refer to the table's position using phrases like **the following table** or **the preceding table**.
-
+Write an introductory sentence for the table and refer to the table's position using phrases like the following table or the preceding table.
 <details>
 <summary><b>Do ✅</b></summary>
-
 FastStore is a toolkit based on Jamstack that helps developers build high-performance stores. In the following table, see its main aspects:
 
 | Aspect | Description |
@@ -193,10 +174,7 @@ FastStore is a toolkit based on Jamstack that helps developers build high-perfor
 | **Performance** | Ensures fast-loading stores and provides a good user experience, focusing on achieving high scores in tests like [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) and [Web Vitals](https://web.dev/articles/vitals#core-web-vitals).  |
 | **Stability** | Built to be stable and avoid crashes, so your store doesn't lose sales due to provider issues.  |
 | **Analytics/SEO** | Works with analytics tools to understand store customers and with SEO tools to improve store visibility in search results. |
-
 </details>
-
-<br>
 
 <details>
 <summary><b>Don’t ❌</b></summary>
@@ -206,7 +184,6 @@ FastStore is a toolkit based on Jamstack that helps developers build high-perfor
 | **Performance** | Ensures fast-loading stores and provides a good user experience, focusing on achieving high scores in tests like [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) and [Web Vitals](https://web.dev/articles/vitals#core-web-vitals).  |
 | **Stability** | Built to be stable and avoid crashes, so your store doesn't lose sales due to provider issues.  |
 | **Analytics/SEO** | Works with analytics tools to understand store customers and with SEO tools to improve store visibility in search results. |
-
 </details>
 
 > ⚠ The introductory sentence must be a complete sentence, and it can end with a colon or a period. Usually, a colon if it immediately precedes the table, and usually a period if there's more content (e.g., a callout) between the introduction and the table.
