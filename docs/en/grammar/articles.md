@@ -32,13 +32,13 @@ Do not use articles with proper nouns. The exceptions are when product names are
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Use the integration with Intelligent search Order {orderId} will be canceled on Sales App | Use the integration with the Intelligent search. Order {orderId} will be canceled on the Sales App |
+| <ul><li>Use the integration with Intelligent search</li><li>Order `orderId` will be canceled on Sales App</li></ul> | <ul><li>Use the integration with the Intelligent search.</li><li>Order `orderId` will be canceled on the Sales App</li></ul> |
 
 Use articles when product names are treated as common nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Test the new version of the VTEX Admin You can contact our team through the Help Center. | Test the new version of VTEX Admin You can contact our team through Help Center. |
+| <ul><li>Test the new version of the VTEX Admin</li><li>You can contact our team through the Help Center.</li></ul> | <ul><li>Test the new version of VTEX Admin</li><li>You can contact our team through Help Center.</li></ul> |
 
 The indefinite article used before SKU (Stock Keeping Unit) can vary depending on its pronunciation. It can be pronounced either as individual letters (/ˌɛsˌkeɪˈjuː/), which requires “an,” or as a single syllable (/skjuː/), which takes “a.” At VTEX, we use the syllable pronunciation (/skjuː/), so the preferred form is “a SKU.”
 
