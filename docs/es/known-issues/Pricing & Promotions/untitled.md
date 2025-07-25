@@ -11,18 +11,18 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: untitled
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 414238
 ---
 
-## Sumario
+## Summary
 
 
 We were not able to reproduce this issue, although it is reproduced consistently by the CX team. When we import a new spreadsheet with the fixed price information, we receive from a confirmation spreadsheet on our email with the result of the import. This spreadsheet have the status column sometimes at one column, sometimes at another column.
 
 
-## Simulación
+## Simulation
 
 
 - https://www.loom.com/share/8487e8940b424b6db0fe58a0981f82a4;

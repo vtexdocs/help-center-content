@@ -11,20 +11,27 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: checkout-payment-step-doesnt-work-if-apple-pay-is-the-first-payment-method
-locale: pt
+locale: en
 kiStatus: Backlog
 internalReference: 704699
 ---
 
-## Sumário
+## Summary
 
->⚠️ Este conteúdo só está disponível em Inglês.
 
-## Simulação
+When the Apple Pay payment method is returned as the first in the Gateway list, and the user is closing a purchase in a browser other than Safari, when arriving at the payments part, a looping occurs and the user himself is unable to close the purchase on account of endless loading.
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+
+## Simulation
+
+
+If you are making the purchase in a browser other than Safari, Apple Pay is the first payment method on the list returned by the gateway, go to the payment stage, the page will be stuck in a loading state.
+
+
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+Deactivate and reactivate this payment method so that it can go to the bottom of the list
 

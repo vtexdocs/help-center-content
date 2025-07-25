@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: unknown
 author: 
 slugEN: como-posso-acompanhar-minhas-disputas
-locale: es
+locale: en
 legacySlug: como-posso-acompanhar-minhas-disputas
 subcategoryId: unknown-subcategory
 ---

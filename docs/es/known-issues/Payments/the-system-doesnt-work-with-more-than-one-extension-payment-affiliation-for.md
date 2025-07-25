@@ -11,20 +11,27 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: the-system-doesnt-work-with-more-than-one-extension-payment-affiliation-for
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 319750
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+The system doesn't work with more than one extension payment affiliation.
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+## Simulation
+
+
+Set up two online debit rules using different acquirer affiliation.
+Sometimes the transaction isn't created in the correct affiliation.
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+For now, there are no workarounds.
+The client should associate only one affiliation or disable one of those.
 

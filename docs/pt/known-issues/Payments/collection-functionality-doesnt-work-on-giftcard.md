@@ -11,20 +11,33 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: collection-functionality-doesnt-work-on-giftcard
-locale: pt
+locale: en
 kiStatus: Backlog
 internalReference: 319349
 ---
 
-## Sumário
+## Summary
 
->⚠️ Este conteúdo só está disponível em Inglês.
 
-## Simulação
+The functionality that restricts the Giftcard to a determined collection of products is not working and it is  not respecting the restriction on the checkout.
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+
+
+## Simulation
+
+
+
+1. Create a Collection
+2. Associate it to the Giftcard
+3. Try to purchase a SKU that is not inside the collection with the account associated with the Giftcard.
+4. Watch as the order goes through on the checkout with the Giftcard.
+
+
+
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+N/A
 

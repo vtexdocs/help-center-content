@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo distribuir el servicio de respuesta en WhatsApp a más de un número?'
+title: 'How to distribute WhatsApp support to more than one number?'
 id: 4Xgqw105OM7zRdKmdY6avV
 status: PUBLISHED
 createdAt: 2022-08-25T17:49:03.709Z
@@ -9,9 +9,9 @@ firstPublishedAt: 2022-08-26T14:29:25.792Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero
-locale: es
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugES: suiteshare
+trackSlugEN: suiteshare
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

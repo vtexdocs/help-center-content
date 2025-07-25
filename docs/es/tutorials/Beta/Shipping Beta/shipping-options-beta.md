@@ -10,116 +10,116 @@ contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: shipping-options-beta
-locale: es
+locale: en
 legacySlug: delivery-options-beta
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
->ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
-**Opciones de envío** es la funcionalidad que permite a los administradores de la tienda crear, editar y gestionar las opciones de envío desde un mismo lugar y garantizar mayor simplicidad y eficiencia en la gestión de su operación. El término «envío» es la forma general de referirse a la entrega o recogida de un pedido. Al configurar cada opción de envío, el administrador de la tienda determina:
+The **shipping options** feature allows the retailer to create, edit, and manage the order shipping options in a single place, ensuring more simplicity and efficiency in managing your operation. The term "shipping" is the general way to indicate the order's delivery or pickup. In each shipping option configuration, the retailer determines:
 
-- El nombre de la opción de envío que se mostrará al consumidor.
-- El tipo de envío, si es entrega o recogida.
-- El plazo de envío.
-- La región geográfica a la que se aplicará la opción de envío.
-- La tarifa de envío que se cobrará al consumidor.
+- The name of the shipping option that will be displayed to the consumer.
+- The shipping type, whether shipping (delivery) or pickup.
+- The shipping deadline.
+- The geographical area to which the shipping option will apply.
+- The shipping rate you will charge the consumer.
 
-La interfaz **Opciones de envío** permite al administrador de la tienda definir y controlar todas las opciones de envío que se muestran al consumidor en el checkout. Esta funcionalidad permitirá separar el valor cobrado a los consumidores del costo logístico registrado en las [plantillas de envío](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127).
+The **Shipping Options** interface allows the retailer to define and control all shipping options presented to the consumer at checkout. This feature will allow you to separate the amount charged to consumers from the logistical cost recorded in the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127).
 
-Sin embargo, el objetivo de las **Opciones de envío** no es sustituir las [políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) ni las plantillas de envío. Las plantillas de envío se utilizarán para escoger la transportadora que entregará el pedido. Dicha selección es determinada por el [Order Allocation Algorithm](https://help.vtex.com/es/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA).
+The purpose of **Shipping Options**, however, is not to replace [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) or shipping rate templates. The shipping rate templates will be used when choosing the carrier to deliver the order, which is determined by the [Order Allocation Algorithm](https://help.vtex.com/en/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA).
 
-## Precios de las tarifas de envío
+## Shipping rate pricing
 
-Con las **Opciones de envío**, se separa lo que se cobra a los consumidores por el envío del pedido y el costo de envío para el administrador de la tienda, ya que se pueden configurar diferentes reglas de precios para la tarifa de envío.
+The **Shipping Options** distinguish between what the consumer is charged for shipping the order and the shipping cost for the retailer, as it is possible to set up different pricing rules for the shipping rate.
 
->ℹ️ Para que la selección de las transportadoras para el envío se realice correctamente, se debe ingresar en las plantillas de envío el costo real que las transportadoras cobran por realizar el envío.
+>ℹ️ The shipping costs that the carriers charge must be in the shipping rate template so that the suitable carrier can be chosen.
 
-La funcionalidad **Opciones de envío** permite al administrador de la tienda configurar la tarifa de envío a partir de:
+The **Shipping Options** allow the retailer to configure the shipping rate based on:
 
-- Valores fijos
-- Valores basados en el valor total del carrito
-- Valores basados en el peso de los ítems
-- Valores del costo de transporte
+- Fixed rates
+- Total cart amount
+- Item weight
+- Transportation cost
 
-Cabe destacar que en la fase beta, las **Opciones de envío** funcionan en paralelo con las promociones de envío del módulo [Promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N).
+Note that in the Beta phase, the **Shipping Options** work in parallel with the freight promotions in the [Promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) module.
 
-## Selección de sellers
+## Selecting sellers
 
-En **Opciones de envío**, la selección de sellers busca las opciones que ofrecen el menor costo para el administrador de la tienda. El administrador determina el plazo máximo en que el seller debe ser capaz de atender el pedido y, en la experiencia de checkout, el consumidor ve el plazo de envío real, o sea, el plazo de entrega de las transportadoras.
+Under **Shipping Options**, seller selection seeks the options that offer the lowest cost to the retailer. The retailer determines the deadline by which the seller must fulfill the order, and the consumer in the checkout views the real shipping time, which is the carriers' delivery time.
 
-En cada opción de envío, el administrador de la tienda registra un SLA (_Service Level Agreement_), es decir, un acuerdo de servicio con condiciones de envío para el pedido. Por ejemplo, un administrador de la tienda registra dos opciones de envío:
+In each shipping option, the retailer sets an SLA (_Service Level Agreement_), a service agreement with shipping conditions for the order. For example, a retailer adds two shipping options:
 
-- Una llamada `Entrega el mismo día`, con un SLA de envío de pedido el mismo día.
-- Una llamada `Estándar`, con un SLA de envío de pedido de hasta 5 días laborales.
+- One called `Same-day delivery`, with an SLA to ship the order on the same day.
+- The other called `Standard`, with an SLA to ship the order within 5 business days.
 
-El algoritmo de la plataforma VTEX, [Order Allocation Algorithm](https://help.vtex.com/es/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA), analiza las combinaciones de tiendas y centros de distribución que dan servicio a cada una de las opciones de envío y busca seleccionar las que tienen el menor costo de envío. En el ejemplo, el resultado es una combinación del menor costo de envío el mismo día y otra combinación del menor costo de envío en hasta 5 días laborales.
+The VTEX [Order Allocation Algorithm](https://help.vtex.com/en/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA) analyzes the store and distribution center combinations that serve each shipping option and seeks the ones with the lowest shipping cost. In the example, the result is a combination of lowest-cost same-day shipping and another combination of lowest-cost shipping within 5 business days.
 
->ℹ️ Con las **Opciones de envío**, existe la garantía de que siempre se presentará al consumidor una opción de envío disponible para la ubicación, lo que antes no ocurría. La única excepción es si no hay un seller ni política de envío que cumpla las condiciones de una opción de envío. En este caso, no se mostrará ninguna opción de envío al consumidor en el checkout.
+>ℹ️ The **Shipping options** ensure that the consumer will always have a shipping option available for their location, which wasn't the case before. The only exception is if there is no seller and no shipping policy that meets the conditions for a shipping option. In this case, no shipping option will appear for the consumer at checkout.
 
-## Acciones y configuración
+## Actions and configuration
 
-Las acciones disponibles en las **Opciones de envío** son:
+The **Shipping Options** allows you to:
 
-- [Agregar opción de envío](https://help.vtex.com/es/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#agregar-opcion-de-envio)
-- [Editar opción de envío](https://help.vtex.com/es/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#editar-opcion-de-envio)
-- [Ver lista de opciones de envío](https://help.vtex.com/es/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#ver-lista-de-opciones-de-envio)
+- [Add a shipping option](https://help.vtex.com/en/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#adding-a-shipping-option)
+- [Edit a shipping option](https://help.vtex.com/en/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#editing-a-shipping-option)
+- [View shipping options list](https://help.vtex.com/en/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL#viewing-the-shipping-options-list)
 
-## Agregar opción de envío
+## Adding a shipping option
 
-Para agregar una opción de envío, sigue los pasos a continuación:
+Follow the steps below to create a shipping option:
 
-1. En el Admin VTEX, accede a **Pedidos > Inventario y envío > Opciones de envío**.
-    > Si tu tienda utiliza el [Nuevo Admin VTEX](https://content.vtex.com/join-new-admin-beta-program-es/), acceda a **Configuración de la tienda** <i class="fas fa-cog" alt="engrenagem azul"></i> **> Envío > Opciones de envío**.
-2. Haz clic en `+ Crear opción de envío`.
-3. Ingresa el nombre de identificación de la opción de envío. Este nombre será visible para los consumidores en la experiencia de compra.
-4. Selecciona el tipo de envío: `Entrega` para entregar el pedido en la dirección del consumidor o `Punto de recogida` para que el consumidor recoja el pedido en un [punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
-5. Selecciona una o más zonas de envío en las que la opción de envío será válida. La zona de envío es una delimitación geográfica que establece la región en la que son válidas determinadas opciones de envío. Puedes utilizar la barra de búsqueda para buscar usando el nombre de la zona de envío.
-6. Determina el intervalo de tiempo para el plazo de envío. Puedes escoger entre las siguientes opciones:
-    - **Días laborables:** define un intervalo de tiempo en días. Por ejemplo, de 3 a 5 días laborales.
-    - **Tiempo transcurrido:** define el tiempo total en días, horas y/o minutos.
-    - **El mismo día:** no hay ajustes adicionales y la opción se ofrecerá siempre que haya al menos una tienda y transportadora que puedan entregar el mismo día, independientemente de la hora.
-7. Selecciona la regla de precios de la tarifa de envío que se aplicará con base en uno de los siguientes criterios:
-    - **Costo:** la tarifa varía según el origen del producto y los costos de la transportadora y el consumidor paga la tarifa completa.
-    - **Por valor del pedido:** la tarifa es relativa al precio del pedido y se pueden establecer uno o más rangos de precio. Se agregará un nuevo rango siempre que el valor máximo del intervalo sea diferente de Ilimitado.
-    - **Por peso:** la tarifa varía según el peso del paquete y se pueden definir uno o más rangos de precio por kilogramo (kg). Se agregará un nuevo rango siempre que el valor máximo del intervalo sea diferente de Ilimitado.
-    - **Markup:** la tarifa es el resultado de la suma del costo de envío más un porcentaje sobre ese costo.
-    - **Envío gratis:** libre de costo para el consumidor y no requiere configuración adicional.
-8. Haz clic en el botón `Guardar`.
+1. In the VTEX Admin, go to **Orders > Inventory & Shipping > Shipping Options**.
+    > If your store uses the [Redesigned VTEX Admin](https://content.vtex.com/join-new-admin-beta-program-en/), go to **Store Settings** <i class="fas fa-cog" alt="engrenagem azul"></i> **> Shipping > Shipping Options**.
+2. Click `+ Create Shipping Option`.
+3. Enter the name of the shipping option, which will be visible to consumers in their shopping experience.
+4. Select the shipping type: `Delivery`, to deliver the order to the consumer's address, or `Pickup point`, for the consumer to pick up the order at a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
+5. Select one or more shipping zones for which the shipping option will be valid. A shipping zone is a geographical boundary establishing the region for which certain shipping options are valid. You can use the search bar to search using the shipping zone name.
+6. Specify the time range for the shipping deadline. You can choose from the following options:
+    - **Business days:** Set a time range in days. For example, from 3 to 5 business days.
+    - **Elapsed time:** Set the total time in days, hours, and/or minutes.
+    - **Same day:** There are no additional settings, and the option will be offered whenever at least one store and carrier can deliver on the same day, regardless of the time.
+7. Select the shipping rate pricing rule to be applied based on the following criteria:
+    - **Cost:** The rate varies according to the product's origin and the carrier costs, and the consumer pays the rate in full.
+    - **By order value:** The rate is relative to the order price, and you can set one or more price ranges. A new price range will be added whenever the maximum value of the range is other than unlimited.
+    - **By weight:** The rate varies according to the package weight, and you can define one or more price ranges per kilogram (kg). A new range will be added whenever the maximum value of the range is different from unlimited.
+    - **Markup:** The rate is the result of the sum of the shipping cost and a percentage of this cost.
+    - **Free shipping:** Free of charge for the consumer; no additional configuration is required.
+8. Click `Save`.
 
-![opcoes_envio_criacao_es](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/0ef83d6a102d79c74a7d87c42c53c5eb/opcoes_envio_criacao_es.png)
+![opcoes_envio_criacao_en](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
 
-## Editar opción de envío
+## Editing a shipping option
 
-Puedes editar la configuración de una opción de envío siguiendo los pasos a continuación:
+You can change the configuration of a shipping option by following the steps below:
 
-1. En el Admin VTEX, accede a **Pedidos > Inventario y envío > Opciones de envío**.
-    > Si tu tienda utiliza el [Nuevo Admin VTEX](https://content.vtex.com/join-new-admin-beta-program-es/), acceda a **Configuración de la tienda** <i class="fas fa-cog" alt="engrenagem azul"></i> **> Envío > Opciones de envío**.
-2. Identifica la opción de envío deseada. Puedes utilizar la barra de búsqueda para filtrar por nombre.
-3. Haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>.
-4. Selecciona la opción `Editar`.
-5. Realiza los cambios deseados en el formulario de la opción de envío.
-6. Haz clic en el botón `Guardar`.
+1. In the VTEX Admin, go to **Orders > Inventory & Shipping > Shipping Options**.
+    > If your store uses the [Redesigned VTEX Admin](https://content.vtex.com/join-new-admin-beta-program-en/), go to **Store Settings** <i class="fas fa-cog" alt="engrenagem azul"></i> **> Shipping > Shipping Options**.
+2. Find the shipping option you want. You can use the search bar to filter by name.
+3. Click the menu icon <i class="fas fa-ellipsis-v"></i>.
+4. Select the `Edit` option.
+5. Make the desired changes to the shipping option form.
+6. Click `Save`.
 
-Además de editar una opción de envío, desde el ícono de menú <i class="fas fa-ellipsis-v"></i> puedes realizar las siguientes acciones:
+Besides editing a shipping option from the menu icon <i class="fas fa-ellipsis-v"></i>, you can:
 
-- **Duplicar:** crea una opción de envío idéntica, lo que puede facilitar la creación de variaciones.
-- **Desactivar/Activar:** el status de la opción de envío cambia a `inactivo` y deja de aparecer en el checkout. Puedes reactivar una opción de envío en cualquier momento.
-- **Eliminar:** la opción de envío se elimina permanentemente y no se puede recuperar.
+- **Duplicate:** It creates an identical shipping option, making it easier to create variations.
+- **Deactivate/Activate:** The shipping option becomes `inactive` and no longer appears in the checkout. You can reactivate a shipping option at any time.
+- **Delete:** The shipping option is permanently deleted and cannot be recovered.
 
-## Ver lista de opciones de envío
+## Viewing the shipping options list
 
-Después de configurar las opciones de envío, aparecerán en una lista en **Configuración de la tienda > Envío > Opciones de envío**, según se muestra en la siguiente imagen:
+Once you have configured the shipping options, they will be listed under **Store Settings > Shipping > Shipping Options**, as shown in the following image:
 
-![opcoes_envio_listagem_es](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/eda44ef73871de786a4c6fc8d106923a/opcoes_envio_listagem_es.png)
+![opcoes_envio_listagem_en](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
 
-La tabla siguiente contiene la descripción de las columnas mostradas:
+The table below contains the description of the columns shown:
 
-| **Columna** | **Descripción** |
+| **Column** | **Description** |
 | ---------- | ---------- |
-| Nombre | Nombre que identifica la opción de envío y que se muestra al consumidor en la experiencia de compra. |
-| Tipo | Tipo de envío, ya sea entrega o recogida. |
-| Tarifa | Regla de precio de la opción de envío. La tarifa de envío se puede cobrar según: <ul><li><b>Costo:</b> la tarifa varía según el origen del producto y los costos de la transportadora.</li><li><b>Por pedido:</b> la tarifa es relativa al precio del pedido y se pueden establecer uno o más rangos de precio.</li><li><b>Por peso:</b> la tarifa varía según el peso del paquete y se pueden definir uno o más rangos de precio por kilogramo (kg) para determinar una referencia de peso promedio y máximo para cada rango.</li><li><b>Envío gratis:</b> libre de costo para el consumidor y no requiere configuración adicional.</li><li><b>Markup:</b> la tarifa se define añadiendo un valor porcentual al costo de envío.</li></ul> |
-| Plazo | Periodo en el que se debe realizar el envío, ya sea el mismo día o después de un intervalo de tiempo. |
-| Zonas | Delimitación geográfica a la que servirá la operación, denominada zona de envío. |
-| Status | Puede ser `Activo`, cuando la opción de envío está disponible, o `Inactivo`, si la opción se ha desactivado temporalmente. |
+| Name | Name that identifies the shipping option and is displayed to the consumer in their shopping experience. |
+| Type | Shipping type, whether delivery or pickup. |
+| Rate | Shipping option pricing rule, in which the shipping rate can be charged based on:<ul><li><b>Cost:</b> The rate varies depending on the product's origin and the carrier costs.</li><li><b>Order:</b> The rate is based on the order price, and one or more price ranges can be established.</li><li><b>Weight:</b> The rate varies according to the package's weight, and you can define one or more price ranges per kilogram (kg), defining an average and maximum weight reference for each range.</li><li><b>Free shipping:</b> Free of charge for the consumer; no additional configuration is required.</li><li><b>Markup:</b> The rate is the result of the sum of the shipping cost and a percentage of this cost.</li></ul> |
+| Deadline | The period in which shipping must be done, either on the same day or after a certain time period. |
+| Zones | Geographical boundary that will be served by the operation called shipping zone. |
+| Status | It can be `Active` when the shipping option is available or `Inactive` if the option has been temporarily disabled. |

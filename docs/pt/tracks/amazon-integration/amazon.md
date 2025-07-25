@@ -1,5 +1,5 @@
 ---
-title: 'Amazon'
+title: 'Amazon '
 id: 5sYA9MlRo92jJIxKF1MTXb
 status: PUBLISHED
 createdAt: 2021-07-19T15:04:49.589Z
@@ -9,34 +9,34 @@ firstPublishedAt: 2021-07-19T20:20:32.860Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: amazon
-locale: pt
+locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
-trackSlugPT: integracao-com-a-amazon
+trackSlugEN: amazon-integration
 ---
 
-A Amazon é uma plataforma de ecommerce, considerada uma das cinco maiores empresas de tecnologia do mundo. Atualmente a Amazon comercializa produtos diversos, incluindo brinquedos, eletrônicos, vestuários,  acessórios, entre outros itens. Além disso, a empresa de varejo online oferece serviços de streaming, armazenamento em nuvem e assistentes virtuais. 
+Amazon is an ecommerce platform and is considered one of the five largest technology companies in the world. It currently sells a variety of products, such as toys, electronics, clothing, accessories and others In addition, the online retail giant offers streaming services, cloud storage, and virtual assistants.
 
-![amazon logo](https://images.contentful.com/alneenqid6w5/3hRQ23BqGdnYGkQtzOtsRF/abbcb463e142e13825d97358da9af010/amazon_logo.png)
+![amazon logo](https://images.ctfassets.net/alneenqid6w5/3hRQ23BqGdnYGkQtzOtsRF/abbcb463e142e13825d97358da9af010/amazon_logo.png)
 
-A configuração com a Amazon tem como objetivo enviar o catálogo de produtos da sua loja VTEX para esse marketplace, permitindo que você anuncie seus produtos e aumente suas vendas.
+The integration with Amazon sends products from your VTEX store's catalog to Amazon, allowing you to list your products and increase your sales. 
 
-A configuração está disponível para lojas VTEX no Brasil e Estados Unidos apenas para as seguintes categorias de produtos: 
-- Livros
-- Eletrônicos 
-- TV e Áudio
-- Computadores e Informática
-- Games e Consoles
-- Casa, Decoração e Limpeza
-- Cozinha
-- Ferramentas e Construção
-- Papelaria e Escritório 
-- Beleza e Cuidados Pessoais
-- Bebês
-- Brinquedos e Jogos
-- Esportes
-- Aventura e Lazer
-- Roupas
-- Calçados e Acessórios
-- Automotivos
-- Animais de estimação
-- Alimentos e Bebidas
+This integration is available for VTEX stores in Brazil and United States valid only for the following product categories:
+- Books
+- Electronics 
+- TV and Audio
+- Computers
+- Games
+- Home, Decoration and Cleaning Supplies
+- Kitchen
+- Tools and Home Improvement
+- Stationery and Office Supplies 
+- Beauty and Personal Care
+- Babies
+- Toys and Games
+- Sports
+- Adventure and Leisure
+- Clothing
+- Shoes and Accessories
+- Automotive
+- Pets
+- Food and Beverage

@@ -11,20 +11,27 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: looping-in-shipping-data-when-lean-shipping-is-active-and-have-two-shipping-methods-one-for-the-same-day
-locale: pt
+locale: en
 kiStatus: Fixed
 internalReference: 373868
 ---
 
-## Sumário
+## Summary
 
->⚠️ Este conteúdo só está disponível em Inglês.
 
-## Simulação
+When the store is using lean shipping, and has 2 deliveries, one for the same day, when choosing for the same day the component goes into looping, making requests for `api/checkout /simulation` and the user is not able to follow the normal flow of purchase.
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+
+## Simulation
+
+
+If you choose "Más rapido", in the network, you can see the looping in simulation requests. And the impossibility to continue to the payment.
+
+
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+N/A
 

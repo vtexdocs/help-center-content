@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slugEN: como-funciona-a-integracao-da-magazine-luiza
-locale: es
+locale: en
 legacySlug: como-funciona-a-integracao-da-magazine-luiza
 subcategoryId: unknown-subcategory
 ---

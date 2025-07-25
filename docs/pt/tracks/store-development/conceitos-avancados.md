@@ -1,5 +1,5 @@
 ---
-title: 'Conceitos avançados'
+title: 'Advanced concepts'
 id: 6a4cJHg8fVgDNDEdcq9S9Q
 status: PUBLISHED
 createdAt: 2022-12-22T19:24:34.808Z
@@ -9,40 +9,41 @@ firstPublishedAt: 2022-12-22T19:57:22.738Z
 contentType: trackArticle
 productTeam: VTEX IO
 slugEN: conceitos-avancados
-locale: pt
+locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
-trackSlugPT: desenvolvimento-de-loja
+trackSlugEN: store-development
 ---
 
-Agora que você já conhece um pouco os principais aspectos e tecnologias utilizadas para o desenvolvimento de loja na VTEX, exploraremos alguns conceitos mais avançados que podem te auxiliar no seu dia a dia com o desenvolvedor.
+Now that you know a bit about the main aspects and technologies used for store development on VTEX, we will explore some advanced concepts that can help you in your daily life as a developer.
 
-## Abstração de infraestrutura
-O VTEX IO é uma tecnologia proprietária VTEX, mas que suporta a utilização de diferentes frameworks e linguagens de programação já familiares aos desenvolvedores, como:
+## Infrastructure abstraction
 
-- TypeScript; 
-- React; 
-- GraphQL; 
-- .NET;
+VTEX IO is a proprietary VTEX technology, but it supports the use of different frameworks and programming languages already familiar to developers, such as:
+
+- TypeScript. 
+- React. 
+- GraphQL. 
+- .NET.
 - Node.
 
-Por abstrair diversas camadas de desenvolvimento de softwares, ao utilizar o VTEX IO, o desenvolvedor não precisa lidar com servidores, problemas de infraestrutura e escalabilidade.
+By abstracting several software development layers, when using VTEX IO, the developer does not need to deal with servers, infrastructure issues, and scalability.
 
-Outra facilidade possibilitada pela plataforma é a de todo o desenvolvimento ser sincronizado automaticamente com os servidores VTEX. Isso permite que nenhum código seja mantido localmente, facilitando atualizações e evitando problemas como o cache.
+Another advantage of the platform is that all development is automatically synced with VTEX servers. This means that no code is held locally, enabling updates and avoiding problems such as caching. 
 
-## Ambientes de desenvolvimento seguros
+## Safe development environments
 
-Com o objetivo de ser one-stop-shop para toda a VTEX, o VTEX IO apoia o desenvolvimento de todos os sistemas e oferece uma forma segura de alterar o funcionamento e a aparência de uma loja, sem afetar o que está em produção. O conceito fundamental para que isso seja possível é o de workspaces.
+Aimed to be a one-stop-shop for the whole of VTEX, VTEX IO supports the development of all systems and offers a secure way to change the functioning and appearance of a store without affecting what is in production. The key concept to make this possible is workspaces.
 
 ### Workspaces
 
-Com o VTEX IO, é possível desenvolver aplicações em múltiplos ambientes apartados chamados de workspaces. Workspaces são ambientes de desenvolvimento e teste isolados um do outro que funcionam como diferentes versões de uma mesma conta VTEX. 
+VTEX IO allows you to develop applications in several environments called workspaces. Workspaces are development and testing environments independent of each other and work as different versions of the same VTEX account. 
 
-Dessa forma, existe uma separação entre os ambientes de desenvolvimento e produção, aumentando assim a segurança da loja que utiliza o VTEX IO. 
+This way, development and production environments are separate, enhancing the store's security using VTEX IO. 
 
-Existem três tipos principais de workspaces:
+There are three main types of workspaces:
+- **Development workspace**: Mainly used by software developers to work in draft mode, building or expanding backend and frontend applications. 
+- **Production workspace**: Mainly used by development and quality assurance teams to validate VTEX IO applications. They can receive production traffic when used in A/B testing.
+- **Main workspace**: A single production workspace that mirrors the content delivered to a store's end consumers.
 
-- **Workspace de desenvolvimento**: utilizado principalmente por desenvolvedores de software para trabalhar em modo rascunho, construindo ou estendendo aplicações de back-end e front-end; 
-- **Workspace de produção**: utilizado principalmente pelos times de desenvolvimento e quality assurance para validar as aplicações de VTEX IO. Eles podem receber tráfego de produção quando utilizados em testes A/B;
-- **Workspace master**: um workspace único de produção que reflete o conteúdo entregue aos consumidores finais de uma loja.
+The main way to set up a workspace is to install or uninstall apps. This creates a plug-and-play system for modifying the store's behavior, which is one of the biggest advantages of VTEX IO.
 
-A principal forma de configurar um workspace é instalando ou desinstalando apps. Isso cria um sistema plug-and-play para modificar o comportamento da loja, que é um dos maiores atrativos do VTEX IO.

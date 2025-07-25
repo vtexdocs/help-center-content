@@ -10,29 +10,28 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: live-shopping
-locale: es
+locale: en
 legacySlug: live-shopping
 subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
 ---
 
-La aplicación Live Shopping permite que los negocios interactúen con sus clientes en tiempo real a través de transmisiones en vivo en el sitio web de la tienda. La aplicación es compatible tanto con dispositivos de escritorio como con dispositivos móviles. 
+The **Live Shopping** app allows businesses to engage with their customers in real time by live streaming on their store websites. The app is compatible with both desktop and mobile devices. 
 
->ℹ️ Live Shopping es una aplicación paga que ofrece diferentes planes de suscripción: **Lite**, **Standard**, y **Pro**.  El costo de la suscripción depende del plan que elijas, ya que cada uno proporciona un número específico de minutos mensuales de transmisiones en vivo. Para más información sobre planes y precios, consulta la página de<a hre="https://apps.vtex.com/liveshopping/p">Live Shopping App Store</a>.
+>ℹ️ Live Shopping is a paid app with different subscription plans: **Lite**, **Standard**, and **Pro**. The subscription cost depends on your chosen plan, each providing a specific number of monthly live stream minutes. For more information about the plans and pricing, refer to the <a hre="https://apps.vtex.com/liveshopping/p">Live Shopping App Store</a> page.
 
 ![live-shopping-web](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
 ![live-shopping-mobile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_2.png)
 
-Una vez [instalada la aplicación VTEX Live Shopping](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#installation) podrás acceder a diversas funcionalidades y ajustes para gestionar tus eventos en vivo de forma eficaz.
+Once you have [installed the VTEX Live Shopping app](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#installation), you can access various features and settings to manage your live events effectively.
 
-En el Admin accede a **Apps** > **Live Shopping** > **Eventos**. En la página **Eventos**, tendrás acceso a las siguientes secciones:
+Access the Admin and navigate to **Apps > Live Shopping > Events**. Upon reaching the **Events** pages, you will have access to the following sections:
 
-* **Eventos**: esta sección permite crear, gestionar y acceder a información detallada sobre eventos. Aquí puedes configurar nuevos eventos, acceder al estudio de streaming y consultar todos los detalles del evento. Para más información, consulta la sección [Crear y gestionar eventos](https://help.vtex.com/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+* **Events**: This section enables you to create, manage, and access detailed event information. From here, you can set up new events, access the live-streaming studio, and view comprehensive event details. For more information, refer to the [Creating and managing events](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch) section.
   ![ls-event](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_3.png)
-* **Uso**: esta sección permite consultar los detalles de uso de tu plan. Puedes monitorear el número de minutos utilizados, las grabaciones descargadas y los eventos que excedieron el máximo de espectadores.
+* **Usage**: This section allows you to effectively track the usage details of your plan. You can monitor the number of available live event minutes, downloaded video recordings, and events that have exceeded the maximum number of viewers.
   ![ls-usage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_4.png)
 
->⚠️ Los detalles de uso varían según el plan seleccionado: **Lite**, **Standard**, o **Pro**. Todos los detalles de pago se proporcionan al momento de la instalación.
+>⚠️ The usage details depend on your chosen plan: **Lite**, **Standard** or **Pro**. All payment details are provided at the moment of installation.
 
-También puedes navegar por **Apps** > **Live Shopping** >**Página global** para [configurar una página global de eventos en vivo](https://help.vtex.com/es/tutorial/live-shopping-configurar-landing-page-para-transmisiones-en-vivo). Esta funcionalidad proporciona una vista general de los eventos pasados, en vivo y futuros asociados a tu cuenta, lo que permite mejorar el engagement y las oportunidades de venta incluso después de que los eventos hayan concluido o antes de que se produzcan.
-
+You can also navigate to **Apps > Live Shopping > Global Page** to [configure a Global Page of live events](https://help.vtex.com/en/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events). This feature provides a comprehensive view of past, present, and upcoming events associated with your account, enabling enhanced engagement and sales opportunities even after the events have concluded or before they occur.

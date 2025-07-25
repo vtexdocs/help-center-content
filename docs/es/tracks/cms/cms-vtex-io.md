@@ -9,66 +9,67 @@ firstPublishedAt: 2022-01-10T20:13:28.409Z
 contentType: trackArticle
 productTeam: VTEX IO
 slugEN: cms-vtex-io
-locale: es
+locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
-trackSlugES: cms
+trackSlugEN: cms
 ---
 
-Para construir y configurar el sitio web de tu tienda mediante el CMS, utilizarás las siguientes funcionalidades: 
+To build and configure your store website using CMS, you will use the following: 
 
-- [Layout - Sites and Channels](#layout-sites-and-channels)
-- [Páginas](#paginas)
+- [Layout - Sites and channels](#layout-sites-and-channels)
+- [Pages](#pages)
 - [Site Editor](#site-editor)
-- [Estilos](#estilos) 
-- [Tienda](#tienda)
+- [Styles](#styles) 
+- [Store](#store)
 
 ## Layout - Sites and Channels
 
-Configura el [binding de la tienda](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding) a través de la carpeta **[Sites and channels](https://help.vtex.com/es/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)** en la sección **Layout**.
+Configure the [store’s binding](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding) through the **[Sites and channels](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)** folder in the **Layout** section.
 
-Binding es el proceso para vincular tu sitio web a una tienda. Para más detalles, consulta el artículo [Vincular una tienda a una estructura de carpetas en CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
+Binding is the process to link your website to a store. For more details , please refer to the article [Linking a store to a folder structure in CMS (binding)](https://help.vtex.com/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![CMS - Layout ES](https://images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/b79de6b1ecd88c672cd7f004666e4106/cms-layout-es.png)
+![CMS - Sites and channels EN](https://images.ctfassets.net/alneenqid6w5/4mXskFs41ULqUjO0naKtPd/73e1c8e48c93825b917c547c624ff8de/cms-sites-and-channels-en.png)
 
-## Páginas
-En **[Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc)**, crea una nueva URL y enlázala a una plantilla ya definida en el [código del tema de la tienda](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
+## Pages
+In **[Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)**, create a new URL and link it to a template already defined in your [Store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
-![CMS - Páginas](//images.ctfassets.net/alneenqid6w5/3f6BEwp3ifvCYNFpwMQjNn/b6c227e2c39991747ae1c60b826269e7/cms-pages-es.png)
+![CMS - Pages](//images.ctfassets.net/alneenqid6w5/3f6BEwp3ifvCYNFpwMQjNn/0e439bd649959c6b451120e21fb95f75/cms-pages-en.png)
 
-Además, esta sección contiene la página **Redirecciones**, que redirige a los usuarios y a los motores de búsqueda de una URL a otra más relevante o similar. 
+Also, this section contains the **Redirects** page, which redirects users and search engines from one URL to a more relevant or similar one. 
 
 ## Site Editor
-El **[Site Editor](https://help.vtex.com/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** es una interfaz gráfica para gestionar el contenido de tu storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
+The **[Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** is a graphical interface for managing your storefront content. It allows you to create, edit, publish, and schedule changes in your storefront components and behavior.
 
-![CMS - Site Editor ES](//images.ctfassets.net/alneenqid6w5/5mh4dQ3fdbM4wTDcdx6Cb/e44ac6d9f16a0523d476ccf15cf55fec/cms-siteeditor-es.png)
+![CMS - Site Editor EN](//images.ctfassets.net/alneenqid6w5/5mh4dQ3fdbM4wTDcdx6Cb/223fd5b5913716fa5d972779a2ee90ce/cms-siteeditor-en.png)
 
-## Estilos
+## Styles
 
-La sección **[Estilos](https://help.vtex.com/pt/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)** te permite definir diferentes temas de estilo para tu tienda, incluyendo variaciones en la tipografía y la paleta de colores. 
+The **[Styles](https://help.vtex.com/en/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)** section allows you to define different style themes for your store, including variations in typography and color palettes. 
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
-  Este recurso solo funciona en production workspaces <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace">espacios de trabajo de producción</a>.
+  This feature only works in <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace">production workspaces</a>.
 </div>
 
-![CMS - Estilos](//images.ctfassets.net/alneenqid6w5/6oMURjcDdxF2DCR1x59rR6/b6562343e0c7cfd98210964a5dfd30e8/cms-styles-es.png)
+![CMS - Styles](//images.ctfassets.net/alneenqid6w5/6oMURjcDdxF2DCR1x59rR6/7922d221d3e07ae06655f6f99a8b9882/cms-styles-en.png)
 
-## Tienda
-La sección **[Tienda](https://help.vtex.com/es/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)** es donde se configuran los ajustes de SEO, de las flags de optimización de rendimiento y se habilitan las notificaciones push de PWA en tu tienda.
+## Store
+The **[Store](https://help.vtex.com/en/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)** section is responsible for SEO configurations, performance optimization flags, and enabling PWA push notifications in your store.
 
-![CMS - Tienda](//images.ctfassets.net/alneenqid6w5/6hUAHs42TAVSzXp5KgT34f/02496bd9a4cdcb3ebbf6baeb51a50044/cms-store-es.png)
+![CMS - Store](//images.ctfassets.net/alneenqid6w5/6hUAHs42TAVSzXp5KgT34f/11c316fb6a30988b9db10be80defa05d/cms-store-en.png)
 
-## Referencias
-- [Layout - Sites and channels](https://help.vtex.com/es/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)
-- [Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc)
-- [Site Editor](https://help.vtex.com/es/tutorial/site-editor-visao-geral--299Dbeb9mFczUTyNQ9xPe1)
-- [Estilos](https://help.vtex.com/pt/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)
-- [Tienda](https://help.vtex.com/es/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)
+## References
+- [Concepts - VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6loFGF4nXvgIVIzsyyJA5c#concepts)
+- [Layout - Sites and channels](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262?&utm_source=autocomplete#sites-and-channels)
+- [Pages](https://help.vtex.com/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc)
+- [Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)
+- [Styles](https://help.vtex.com/en/tutorial/styles-overview--v0Db5ohEKSFIkTzSwCjVi?&utm_source=autocomplete)
+- [Store](https://help.vtex.com/en/tutorial/cms-loja-visao-geral--3Eat287G6wUi6Mly5rW5Fs)
 
-## Guías
-- **[Gestión del contenido de las páginas y plantillas](https://help.vtex.com/es/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** Crea el escenario de tienda deseado de acuerdo con las necesidades de tu negocio, utilizando una interfaz fácil de usar en tu beneficio.
+## Guides
+[Managing page and template content](https://help.vtex.com/en/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37): Build a storefront adapted to your business needs by using a friendly interface in your favor.
 
-- **[Mejorar el SEO de las páginas de lista de productos](https://help.vtex.com/es/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG):** Mejora el rendimiento SEO de las páginas de lista de productos utilizando el Site Editor.
+[Improving the SEO of Product Listing Pages](https://help.vtex.com/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG): Improve the SEO performance of Product Listing Pages by using the Site Editor.
 
-- **[Habilitar las notificaciones PWA de la tienda](https://help.vtex.com/es/tutorial/habilitando-notificacoes-pwa-da-loja--1be3ZPhbsgZSbE7h5H46pG):** Configura el aviso Progressive Web App (PWA) en tu tienda.
+[Enabling PWA push notifications in your store](https://help.vtex.com/en/tutorial/habilitando-notificacoes-pwa-da-loja--1be3ZPhbsgZSbE7h5H46pG): Configure the Progressive Web App (PWA) prompt in your store.
 
-- **[Gestión de contenidos por binding](https://help.vtex.com/es/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** Gestionar contenidos por binding significa personalizar estratégicamente la apariencia de tu tienda según la ubicación de los usuarios para aumentar el acceso y las tasas de ventas.
+[Managing content per binding](https://help.vtex.com/en/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn): Managing content per binding means strategically customizing your store's layout according to users' location to boost access and sales rates.

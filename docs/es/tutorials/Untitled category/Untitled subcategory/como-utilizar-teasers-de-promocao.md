@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 
 slugEN: como-utilizar-teasers-de-promocao
-locale: es
+locale: en
 legacySlug: como-utilizar-teasers-de-promocao
 subcategoryId: unknown-subcategory
 ---

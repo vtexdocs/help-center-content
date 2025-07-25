@@ -9,45 +9,45 @@ firstPublishedAt: 2022-12-22T19:57:08.694Z
 contentType: trackArticle
 productTeam: VTEX IO
 slugEN: frontend
-locale: es
+locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
-trackSlugES: desarrollo-de-la-tienda
+trackSlugEN: store-development
 ---
 
-Los frontend son la capa de presentación para el usuario, ya que definen la experiencia en la plataforma y son decisivos a la hora de determinar si la compra se llega a finalizar. Para que un negocio digital siga siendo relevante y competitivo, esta capa debe ofrecer elementos como una gran experiencia de usuario (en escritorio y móvil), capacidad de omnichannel, experiencia de compra personalizada y un excelente rendimiento web. 
+The storefront is the presentation layer for the user. It defines their experience on the platform and is a key factor when deciding whether to complete a purchase or not. For a digital business to remain relevant and competitive, this layer must offer elements such as a great user experience (via desktop and mobile), omnichannel capability, customized shopping experience, and outstanding web performance. 
 
-Para lograr estos objetivos, VTEX ofrece diferentes tecnologías para el desarrollo del frontend de la tienda. Cuál es la tecnología más recomendable depende de lo que se desea lograr.
+To achieve these goals, VTEX provides different technologies for store frontend development. Depending on the project, one technology may be more suitable than the others.
 
 ## Store Framework
 
-Store Framework surge de la idea de componibilidad, ya que permite combinar diferentes contenidos, servicios y datos. Además de integraciones y orquestación de API, VTEX ofrece las herramientas adecuadas para satisfacer las necesidades empresariales más específicas.
+Store Framework is based on composability, which allows the combination of different content, services, and data. So, in addition to integrations and API orchestration, VTEX offers the right tools to meet the most specific business needs.
 
-La ampliación de funcionalidades se produce a través de aplicaciones VTEX disponibles globalmente.
+The way this feature extension happens is through VTEX apps that are available globally.
 
-Store Framework es una solución para construir storefronts aprovechando VTEX IO. Esta solución permite utilizar la interfaz intuitiva de [Site Editor](https://help.vtex.com/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y simplificar la gestión de contenido de la tienda.
+Store Framework is a solution for building storefronts that leverages VTEX IO. Using it, you can rely on the user-friendly interface of [Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) and easily manage store content.
 
-![vtex io](https://images.ctfassets.net/alneenqid6w5/2ihbniXa1S2L7pLOPP0E3o/5c359c6ec0fd106a7f7783669485c64e/image3.png)
+![vtex io](https://images.ctfassets.net/alneenqid6w5/2ihbniXa1S2L7pLOPP0E3o/5b55c0f934c47034373e47f9be09c754/image3.png)
 
-Las tiendas creadas con Store Framework también tienen las siguientes funcionalidades:
-- **[Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: herramienta de búsqueda que corrige errores ortográficos y permite usar reglas condicionales para mostrar los resultados de búsqueda.
-- **[Multiidiomas](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: es la posibilidad que VTEX IO proporciona para configurar la traducción automática de la tienda a otros idiomas.
-- **[Transfronterizo](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: permite que una [multitienda VTEX](https://help.vtex.com/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en) opere en diferentes países con un enfoque propio para cada uno de ellos.
+Stores created with Store Framework also include: 
+- **[Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: Search tool that corrects spelling errors and enables conditional rules for displaying the search result.
+- **[Multi-language](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: VTEX IO enables the configuration of automatic translation into other languages in the store.
+- **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: Allows a [VTEX multi-store](https://help.vtex.com/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759) to operate in different countries with an approach specific to each of them.
 
 ## FastStore
 
-Si bien Store Framework se centra en la componibilidad, FastStore se creó con el rendimiento en mente y se basa en la arquitectura Jamstack (que significa JavaScript, API y Markup). En los sitios web Jamstack, la lógica de la aplicación generalmente reside en el cliente sin estar estrechamente acoplada al servidor de backend.
+While Store Framework focuses on composability, FastStore was built with a performance focus and is based on the Jamstack (standing for JavaScript, API, and Markup) architecture. In Jamstack websites, the application logic generally lies on the client side without being tightly coupled to the backend server.
 
-La intención es utilizar la arquitectura Jamstack para entregar storefronts de forma más rápida, segura y confiable. También comprende varias herramientas y recursos diseñados para este propósito, incluyendo pipeline de WebOps y kits de desarrollo optimizados para rendimiento.
+The intention is to leverage the Jamstack architecture to deliver storefronts quickly, securely, and reliably. In addition, it comes with many tools and features designed for this purpose, including WebOps pipelines and performance-optimized starter packs.
 
-Esto permite que FastStore se integre con cualquier CMS y cualquier plataforma de desarrollo, aunque para beneficiarse de las garantías y soporte proporcionado por VTEX, es necesario tener FastStore, WebOps y Headless CMS.
+In this way, FastStore can integrate with any CMS and any development platform, but to benefit from the guarantees and support provided by VTEX, the FastStore, Webops, and Headless CMS is required.
 
-Algunas funcionalidades no están disponibles, como las personalizaciones de Mi cuenta y la integración completa con las aplicaciones de VTEX IO e Intelligent Search.
+Some features are not available, such as My Account customizations and full integration with IO apps and Intelligent Search.
 
-## CMS Portal (Legado)
+## CMS Portal (Legacy)
 
-CMS Portal es una tecnología heredada de VTEX que sirve para gestionar, principalmente, el código fuente del sitio web y, por lo tanto, es el módulo donde se encuentra el contenido que aparece en la tienda.
+The CMS Portal is a legacy VTEX technology mainly responsible for managing the website's source code, which is the module containing the content displayed in the store. 
 
-En CMS Legado, un concepto importante son los controles, que son snippets de código que renderizan datos nativos de VTEX. Los controles ayudan al administrador de la tienda a crear contenido e incluir herramientas en el sitio web de forma nativa utilizando lo que VTEX ya ofrece. Se utilizan CSS, HTML y JavaScript para la personalización, lo que permite crear layouts y templates.
+For the Legacy CMS, an important concept is Controls, which are snippets of code that render native VTEX data. Controls help the retailer natively create content and embed tools on the site using what VTEX already offers. For this customization to happen, CSS, HTML, and JavaScript are used in the development, allowing you to create layouts and templates.
 
-Ya que CMS Legado utiliza tecnologías más antiguas, cuando hay que realizar algún cambio, se debe acceder a los códigos internamente y realizar las modificaciones en el campo Layout. Por eso, CMS es una tecnología más difícil de usar y mantener, lo que también dificulta el mantenimiento de un buen rendimiento a medida que se realizan más personalizaciones. 
+Due to the use of outdated technologies, when you need to make any changes in the legacy CMS, you have to access the codes internally and make the changes in the Layout field. Thus, CMS becomes more difficult to use and maintain, making it harder to keep up performance as more customizations are made. 
 

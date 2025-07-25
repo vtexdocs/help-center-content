@@ -9,29 +9,29 @@ firstPublishedAt: 2022-12-22T19:57:32.179Z
 contentType: trackArticle
 productTeam: VTEX IO
 slugEN: app-store
-locale: es
+locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
-trackSlugES: desarrollo-de-la-tienda
+trackSlugEN: store-development
 ---
 
-Una aplicación de VTEX IO amplía las funcionalidades ya ofrecidas por la plataforma VTEX. Pueden utilizarse para agregar nuevos recursos a una tienda, componer storefronts y ampliar las funcionalidades del Admin VTEX. Las aplicaciones se crean y lanzan en la plataforma mediante VTEX IO. Se pueden desarrollar:
+A VTEX IO app expands the features already offered by the VTEX platform. They can be used to add new features to a store, build storefronts, and expand the VTEX Admin features. These apps are built and launched on the platform with VTEX IO. You can develop the following:
 
-- **Aplicaciones de storefront**: además de los bloques que VTEX ya proporciona, también puedes crear nuevos bloques para personalizar lo que no se puede lograr con los bloques nativos de VTEX. Los componentes que forman el storefront son de tipo React.
-Algunos ejemplos de aplicaciones de storefront son: [vtex-apps/location-availability](https://github.com/vtex-apps/location-availability), [vtex-apps/flow-finance-payment](https://github.com/vtex-apps/flow-finance-payment), [vtex-apps/yotpo](https://github.com/vtex-apps/yotpo).
-- **Aplicaciones del Admin**: estas aplicaciones son paneles administrativos que están en puntos de ampliación en el Admin VTEX junto con todos los módulos de Catálogo, Pedidos y demás módulos de gestión de la plataforma. Puedes crear un módulo completamente personalizado en el Admin para centralizar dashboards y operaciones de distintos servicios.
-Algunos ejemplos de aplicaciones del Admin son: [vtex-apps/wish-list](https://github.com/vtex-apps/wish-list), [vtex-apps/reviews-and-ratings](https://github.com/vtex-apps/reviews-and-ratings), [vtex-apps/curbside-pickup](https://github.com/vtex-apps/curbside-pickup).
-- **Aplicaciones de backend**: con este tipo de aplicación, tienes la libertad de crear integraciones entre los servicios usando API REST o crear API GraphQL para consumir datos en componentes React personalizados diseñados por ti. Estos son servicios Node o .NET Core que aceleran las conexiones con el Admin o el storefront.
-Algunos ejemplos de aplicaciones backend son: [vtex-apps/store-locator](https://github.com/vtex-apps/store-locator), [vtex-apps/lightspeed](https://github.com/vtex-apps/lightspeed), [vtex-apps/wordpress-integration](https://github.com/vtex-apps/wordpress-integration).
+- **Storefront apps**: Besides the blocks that VTEX already provides, you can create new blocks to customize what is not covered via VTEX's native blocks. These are React components that are part of the storefront.
+You can find some storefront apps examples at [vtex-apps/location-availability](https://github.com/vtex-apps/location-availability), [vtex-apps/flow-finance-payment](https://github.com/vtex-apps/flow-finance-payment), [vtex-apps/yotpo](https://github.com/vtex-apps/yotpo).
+- **Admin apps**: These apps are admin dashboards that are extension points in the VTEX admin alongside all Catalog, Order, and other platform management modules. You can create a fully customized admin module to centralize dashboards and different service operations.
+You can find some admin apps examples at [vtex-apps/wish-list](https://github.com/vtex-apps/wish-list), [vtex-apps/reviews-and-ratings](https://github.com/vtex-apps/reviews-and-ratings), [vtex-apps/curbside-pickup](https://github.com/vtex-apps/curbside-pickup).
+- **Backend apps**: This type of app allows you to create integrations between services using REST APIs or create GraphQL APIs to use data in custom React components. These are Node or .NET Core services that streamline connections with the admin or frontend.
+You can find some backend apps examples at [vtex-apps/store-locator](https://github.com/vtex-apps/store-locator), [vtex-apps/lightspeed](https://github.com/vtex-apps/lightspeed), [vtex-apps/wordpress-integration](https://github.com/vtex-apps/wordpress-integration).
 
-Las aplicaciones VTEX IO pueden publicarse en [VTEX App Store](https://apps.vtex.com/), y pueden ser pagadas o gratis.
+VTEX IO apps can be made available in the [VTEX App Store](https://apps.vtex.com/) and can be paid or free. 
 
-VTEX App Store es un marketplace para las soluciones plug-and-play de VTEX. Tanto las aplicaciones desarrolladas por VTEX como las desarrolladas por partners certificados se publican en la tienda de aplicaciones para que los clientes y partners puedan buscar soluciones personalizadas para crear sus tiendas. 
+The VTEX App Store is a marketplace for VTEX plug-and-play solutions. Both apps developed by VTEX and certified partners are available for customers and partners to find customized solutions to build their stores. 
 
-Puedes utilizar las aplicaciones disponibles en VTEX App Store para:
-- Conectarte a las API de VTEX y crear integraciones con los módulos VTEX.
-- Integrar soluciones externas a una cuenta o tienda VTEX.
-- Ampliar el Admin VTEX nativo.
-- Agregar componentes de storefront a una tienda de Store Framework.
+You can use the apps available in the VTEX App Store to:
+- Connect to VTEX APIs and integrate with VTEX modules.
+- Integrate third-party solutions to a VTEX account or store.
+- Expand the native VTEX admin.
+- Add storefront components to a Store Framework store.
 
-Para saber cómo incluir una aplicación en VTEX App Store, sigue esta [guía](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-10-making-your-app-publicly-available#submitting-your-app-to-the-vtex-app-store).
+To understand how to add an app to the VTEX App Store, follow the instructions in the [guide](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-10-making-your-app-publicly-available#submitting-your-app-to-the-vtex-app-store). 
 

@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: unknown
 slugEN: untitled-entry-2020-03-09-at-22-26-14
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

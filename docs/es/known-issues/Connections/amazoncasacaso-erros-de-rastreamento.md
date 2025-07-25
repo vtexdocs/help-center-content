@@ -11,30 +11,29 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: amazoncasacaso-erros-de-rastreamento
-locale: es
+locale: en
 kiStatus: Fixed
 internalReference: 360564
 ---
 
-## Sumario
-
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+## Summary
 
 
-Estamos teniendo problemas en algunos casos en los que el flujo de trabajo de seguimiento para Amazon no está funcionando.
+We are having issue in some cases where the tracking workflow for Amazon is not working.
 
 
 ##
 
-## Simulación
+## Simulation
 
 
 
-El siguiente mensaje se muestra en la interfaz de bridge para el menú de seguimiento:
+The below message is shown in bridge UI for tracking Menu:
 
-Las cantidades proporcionadas para el ID de pedido (XXXXXXXXXXXX) eran superiores a las cantidades que se podían cumplir. Revise la cantidad del informe del pedido y tenga en cuenta los productos que se han cancelado o que ya se han cerrado.
+As quantidades fornecidas para a ID do pedido (XXXXXXXXXXXX) eram maiores do que as quantidades que podiam ser atendidas. Revise a quantidade a partir do relatório de pedido e leve em conta quaisquer produtos que foram cancelados ou já foram encerrados
 
 
+##
 
 ## Workaround
 

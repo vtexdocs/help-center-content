@@ -1,5 +1,5 @@
 ---
-title: 'Clientes (VTEX Tracking)'
+title: 'Clients (VTEX Tracking)'
 id: 277Z0epDNArIGJIbqtPMA9
 status: PUBLISHED
 createdAt: 2020-07-07T21:23:35.987Z
@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: clientes-vtex-tracking
-locale: es
+locale: en
 legacySlug: clientes-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ Contenido bajo traducción.
+>⚠️ Content under translation.

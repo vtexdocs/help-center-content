@@ -10,50 +10,50 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: vtex-shield
-locale: pt
+locale: en
 legacySlug: vtex-shield
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+>ℹ️ If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contato/).
 
-O VTEX Shield oferece camadas adicionais e personalizáveis de proteção para lojas que priorizam a resiliência da plataforma, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.
+VTEX Shield offers additional, customizable protection layers for stores that prioritize platform resilience and the security standards guaranteed by VTEX's existing security [certifications and practices](https://vtex.com/us-en/security/security-practices/).
 
-A solução apresenta recursos avançados de segurança que possibilitam detectar potenciais riscos e realizar ações preventivas. Assim, é possível se proteger contra interrupções imprevistas, mantendo a sua loja operacional e confiável.
+The solution provides advanced security features, allowing you to detect potential risks and take preventive actions. This ensures your store remains protected from unexpected disruptions, keeping it operational and reliable.
 
-Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
+When requesting VTEX Shield, you can choose from the following features:
 
 * [Security Monitor](#security-monitor)
-* [Testes de penetração](#testes-de-penetracao)
+* [Penetration tests](#penetration-tests)
 * [Web Application Firewall (WAF)](#web-application-firewall-waf)
 * [Data Protection Plus](#data-protection-plus)
 
 ## Security Monitor
 
-O Security Monitor é um dashboard no Admin VTEX que detecta ameaças à segurança relacionadas ao comportamento de usuários administrativos e a configurações inadequadas. Os riscos potenciais incluem [chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) antigas ou expostas na web, usuários ou credenciais com permissões excessivas e usuários inativos. A ferramenta apresenta uma visão geral das ameaças e das soluções, com a opção de notificar lojistas por email a cada descoberta.
+Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
 
-O Security Monitor está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Security Monitor](https://help.vtex.com/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
+Security Monitor is available in the VTEX Admin only for stores using VTEX Shield. For more information, check out the [Security Monitor](https://help.vtex.com/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) guide.
 
-## Testes de penetração
+## Penetration tests
 
-Testes de penetração ou _pentests_ são simulações de ataques a um sistema de computador, rede ou aplicativo da Web com o intuito de avaliar a segurança, possibilitando identificar e corrigir vulnerabilidades.
+Penetration tests, or pentests, are simulated attacks on a computer system, network, or web application to assess security, identify vulnerabilities, and fix them.
 
-Somente lojas com VTEX Shield que optarem por esse recurso possuem permissão para realizar testes de penetração, conforme os procedimentos indicados em [Testes de penetração e avisos de vulnerabilidade](https://help.vtex.com/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
+Only stores with VTEX Shield that request this feature are authorized to run penetration tests, following the procedures indicated in [Penetration tests and vulnerability notifications](https://help.vtex.com/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb).
 
 ## Web Application Firewall (WAF)
 
-O Web Application Firewall (WAF) é uma ferramenta para proteger aplicações web por meio do monitoramento e da filtragem do tráfego da Internet.
+The Web Application Firewall (WAF) protects web applications by monitoring and filtering internet traffic.
 
-Esse recurso de segurança desempenha um papel fundamental na proteção de sites, serviços on-line e aplicativos da Web contra vários ataques, como injeção de SQL, XSS (cross-site scripting) e outras vulnerabilidades comuns da web.
+This security feature plays a key role in protecting websites, online services, and web applications from attacks such as SQL injection, cross-site scripting (XSS), and other common web vulnerabilities.
 
-Somente lojas com VTEX Shield que optarem por esse recurso podem solicitar a ativação do WAF. Saiba mais sobre o funcionamento e os tipos de ameaças protegidas em [Web Application Firewall (WAF)](https://help.vtex.com/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn).
+Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](https://help.vtex.com/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
 
 ## Data Protection Plus
 
->ℹ️ Esta funcionalidade está em fase beta fechada, disponível apenas para algumas regiões. Em caso de dúvidas, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+>ℹ️ This feature is in closed beta and is only available in some regions. If you have any questions, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
-O [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) é uma arquitetura de dados que oferece uma camada adicional de proteção para dados pessoais. Nessa arquitetura, todos os dados PII (Personally Identifiable Information) são armazenados no [Profile System](https://developers.vtex.com/docs/guides/profile-system), um serviço desenvolvido especificamente para processar PII seguindo um [conjunto de regras e processos](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) apropriados para esse objetivo.
+[Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) is a data architecture that offers an additional layer of protection for personal data. In this architecture, all PII (Personally Identifiable Information) data is stored in the [Profile System](https://developers.vtex.com/docs/guides/profile-system), a service developed specifically for processing PII following a [set of rules and processes](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) appropriate for this purpose. 
 
-Outros módulos da plataforma, como Pedidos e Checkout, armazenam apenas dados anonimizados associados a um token do Profile System, ampliando a segurança dessas informações.
+Other platform modules, such as Orders and Checkout, only store anonymized data associated with a Profile System token, increasing the security of this information.
 
-Leia o conjunto de guias da categoria [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) no Developer Portal para mais detalhes e especificações dessa arquitetura.
+See the set of guides for the [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) category in the Developer Portal for more details and specifications about this architecture.

@@ -10,47 +10,47 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: web-application-firewall-waf
-locale: es
+locale: en
 legacySlug: web-application-firewall-waf
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Esta funcionalidad es parte de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh).  Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+>ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contact/).
 
-Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger aplicaciones web mediante monitoreo y filtrado del tráfico de internet.
+The Web Application Firewall (WAF) is a security layer designed to protect web applications by monitoring and filtering internet traffic.
 
-WAF se enfoca en las comunicaciones que se llevan a cabo a través de los protocolos HTTP (Hypertext Transfer Protocol) y HTTPS (HTTP Secure), analizando los datos de entrada y salida para detectar y bloquear posibles amenazas.
+The WAF is aimed at HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound and outbound data to detect and block possible threats.
 
-![waf-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
+![waf-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/_1.png)
 
-WAF opera a partir de la configuración de [reglas de seguridad](#reglas-de-seguridad) definidas por el equipo de seguridad de VTEX basándose en el análisis de patrones de circulación de datos. Dichas reglas sirven para que WAF monitoree constantemente el tráfico web y cuando detecte una actividad potencialmente perjudicial, pueda bloquear el tráfico, impidiendo que los atacantes aprovechen las vulnerabilidades en la aplicación web.
+The WAF's operation begins with the VTEX Security team defining [security rules](#security-rules) based on the analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block the traffic, thus preventing vulnerabilities in the web application.
 
-## Reglas de seguridad
+## Security rules
 
-Las tiendas que utilizan VTEX Shield y deciden usar WAF cuentan con las siguientes reglas de seguridad contra amenazas en el sitio web:
+Stores using VTEX Shield and choosing the WAF have the following security rules against threats:
 
-| Amenaza | Regla de seguridad |
+| Threat | Security rule |
 |---|---|
-| Remote File Inclusions (RFI) | Detecta tentativas de incluir archivos, normalmente a través de scripts en el servidor web. |
-| Directory Traversal | Comprueba y valida los nombres de archivo proporcionados por los usuarios, previniendo el acceso no autorizado a archivos y carpetas sensibles.   |
-| Cross-Site Scripting (XSS) | Impide la inyección de scripts del lado del cliente en las páginas vistas por los visitantes.   |
-| Carga de archivos | Detecta intentos de carga de archivos al servidor web.   |
-| Trucos de evasión | Protege contra algunos trucos de codificación utilizados para intentar eludir los mecanismos de protección.   |
-| Acceso no deseado | Detecta intentos de acceso a páginas administrativas o vulnerables, a bots y a herramientas de escaneo de seguridad.   |
-| Ataques identificados | Previene varios tipos de ataques comunes y vulnerabilidades conocidas que deberían bloquearse.   |
-| Filtro de IP | Consulta una lista de direcciones IP que tienen permiso o bloqueo de acceso.   |
-| Bloqueo de la red Tor | Impide el acceso al sitio web utilizando el navegador Tor.   |
+| Remote File Inclusions (RFI) | Detects attempts to include files, usually via scripts on the web server. |
+| Directory Traversal | Verifies and validates file names provided by users, preventing unauthorized access to sensitive files and folders. |
+| Cross-Site Scripting (XSS) | Prevents the injection of client-side scripts into the pages viewed by visitors. |
+| File upload | Detects attempts to upload files to the web server. |
+| Evasion techniques | Protects against some coding techniques used to bypass protection mechanisms. |
+| Unwanted access | Detects attempts to access admin or vulnerable pages, bots, and security scanning tools. |
+| Identified attacks | Prevents many common attacks and known vulnerabilities that must be blocked.   |
+| IP filter | Checks a list of IP addresses to view their access permissions or blocks. |
+| Tor network blocking | Prevents access to the site using the Tor browser. |
 
-## Solicitar activación de WAF
+## Requesting WAF activation
 
-Para solicitar la activación de WAF en tu tienda, ponte en contacto con el[ soporte VTEX](https://help.vtex.com/es/support). Incluya la siguiente información en el ticket:
+To request WAF activation for your store, please contact [VTEX Support](https://help.vtex.com/en/support). Include the following information in the ticket:
 
-* URL que se añadirán a WAF.
-* Nombre y datos de contacto de la persona que será el punto de contacto con el equipo de seguridad de VTEX durante el proceso de activación.
-* Proveedor: para tener acceso a WAF, todo el tráfico de URL de la tienda debe pasar por el proveedor que VTEX utiliza actualmente. De no ser ese el caso, debes llevar a cabo un procedimiento con el equipo de tráfico de VTEX que puede durar entre una y dos semanas.
+* URLs to be added to the WAF.
+* Name and contact information of the point of contact with the VTEX Security team during the activation process.
+* Provider: To access the WAF, all store URL traffic must go through the provider currently used by VTEX. If that's not the case, a procedure must be followed with the VTEX Traffic team, which can take between 1 and 2 weeks.
 
-Después de la solicitud, el plazo de activación de WAF en las URL de la tienda es de cuatro semanas, además del plazo necesario para la migración al proveedor, de ser necesario.
+After submitting the request, the deadline for activating the WAF on the store URLs is 4 weeks, plus the period needed to migrate to the provider, if applicable.
 
-## Más información
+## Learn more
 
-* [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)

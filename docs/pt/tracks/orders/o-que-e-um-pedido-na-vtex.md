@@ -1,5 +1,5 @@
 ---
-title: 'O que é um pedido na VTEX'
+title: 'What is an order in VTEX'
 id: 2sl6hj2eqwgqbDgTF6y5qE
 status: PUBLISHED
 createdAt: 2019-11-05T13:46:09.344Z
@@ -9,27 +9,27 @@ firstPublishedAt: 2019-11-18T12:19:57.554Z
 contentType: trackArticle
 productTeam: Post-purchase
 slugEN: o-que-e-um-pedido-na-vtex
-locale: pt
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
-trackSlugPT: pedidos
+trackSlugEN: orders
 ---
 
-No momento em que o cliente final da loja aperta o botão de `Finalizar compra`, é gerado um __pedido__ na plataforma VTEX.
+The moment the end customer pushes the Checkout button, an order is generated inside VTEX.
 
-Isso significa que a partir desse momento será possível rastrear o fluxo do pedido no módulo **Pedidos** do Admin VTEX.
+This means that you will now be able to track the order flow through the **Orders** module within your VTEX Admin.
 
-Ou seja, será possível saber os detalhes de cada etapa do andamento do pedido.
+That is, you can now know the details of each step throughout the order progress.
 
-Um pedido carrega uma série de informações, tais como:
+An order carries a lot of information, such as:
 
-- Itens do carrinho
-- Valor do pedido
-- Horário do pedido
-- Dados do cliente
-- Dados sobre promoções aplicadas ao pedido
-- Endereço de entrega
-- Método de pagamento
-- Política Comercial aplicada na compra
-- Responsável pela venda (marketplace) e pelo fulfillment (seller)
+- Cart items
+- Value of the order
+- Order time
+- Client's data
+- Promotional data currently applied to the order
+- Delivery address
+- Payment method
+- Trade policy applied to the purchase
+- Store which is responsible for selling (the Marketplace) and store responsible for the fulfillment (the Seller)
 
-Estas e outras informações são essenciais para a gestão dos pedidos da loja. Elas podem ser consumidas por API ou na página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos adiante.
+These and other information are essential for managing orders. They can be consumed using our API or on the [order details page](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), which we'll see later in this track.

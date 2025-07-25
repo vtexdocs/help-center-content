@@ -1,5 +1,5 @@
 ---
-title: 'Doca'
+title: 'Untitled'
 id: 7qHqVPLFhHch3svRtCUdHF
 status: ARCHIVED
 createdAt: 2019-04-24T21:03:52.642Z
@@ -9,13 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: unknown
 slugEN: doca
-locale: pt
+locale: en
 trackId: 
-trackSlugPT: untitled-track
+trackSlugEN: untitled-track
 ---
 
-Doca é uma etapa da logística que fica entre o estoque e as transportadoras. Ela funciona como uma área de escoamento de produtos que são vindos de um centro de distribuição. As docas recebem SKUs vindos de um ou mais estoques e entregam esses SKUs para uma ou mais transportadoras, que por sua vez serão entregues ao seu destinatário final do pedido.
 
-Na plataforma VTEX, é possível cadastrar o nome das docas, suas políticas comerciais, transportadoras associadas, tempo de custo e prioridades.
-
-Também é possível criar diferentes rotas para sua logística, com prazos e preços distintos.

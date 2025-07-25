@@ -11,19 +11,19 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return
-locale: es
+locale: en
 kiStatus: No Fix
 internalReference: 388869
 ---
 
-## Sumario
+## Summary
 
 
 [KI] Catalog API `/catalog/pvt/stockkeepingunit` with query parameter `refId` return field Videos as empty
 
 
 
-## Simulación
+## Simulation
 
 
 - Do a request that returns a value on the field Videos,f or example: https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/13130?an=hopelingerie

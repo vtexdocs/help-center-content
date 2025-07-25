@@ -10,46 +10,46 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: change-seller
-locale: es
-legacySlug: vea-como-utilizar-change-seller
+locale: en
+legacySlug: how-to-use-the-change-seller
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
-El Change Seller es la funcionalidad que da a los <i>marketplaces</i> la autonomía para cambiar el <i>seller</i> que entregará el pedido.
+The Change Seller is the feature that gives marketplaces the autonomy to change the seller that will fulfill an order. 
 
->ℹ️ La funcionalidad Change Seller solo se puede configurar a través de las APIs. Para más información, consulte la [documentación Change Seller para desarrolladores](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
+>ℹ️ The Change Seller feature can only be configured using APIs. For more information, see our [Change Seller documentations for developers](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
 
-Un cambio de <i>seller</i> puede ocurrir en dos situaciones:
+Sellers can be changed in two situations: 
 
-- <i>Seller</i> cancela un pedido.
-- <i>Marketplace</i> decide cambiar el <i>seller</i>.
+- Seller cancels the order.
+- Marketplace decides to change the seller.
 
-![seller_cancela_pedido_ES](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/9a1899752e5df76040cbcbdb12aaf456/seller_cancela_pedido_ES.png)
+![seller_cancela_pedido_EN](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
 
-Puede [configurar el periodo para cambiar de seller de 0 a 30 días](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller), por defecto, la ventana de cambio es de dos días. Al configurar la ventana a 0 días, no hay un período efectivo para el cambio de _sellers_ y la _feature_, aunque configurada, no funciona en la práctica, lo que provoca que el pedido proceda a la cancelación.
+You can [set the time window to change seller from 0 to 30 days](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller); by default, it is two days. When the window to change seller is set to 0 days, there is not an actual period for switching sellers, so even though the feature is configured, it does not work in practice, and the order proceeds to cancellation.
 
-Cuando el <i>seller</i> le notifica la cancelación, el <i>marketplace</i> puede configurar el número de días para actuar y decidir entre cancelar la compra o cambiar de <i> seller.</i> Tenga en cuenta que si opta por el cambio, el <i>marketplace</i> es el responsable de comunicarlo al cliente final.
+Upon being notified by the seller about the order cancellation, the marketplace can configure how many days they have to decide whether to cancel the purchase or change the seller. But pay attention: if the marketplace chooses to change sellers, the decision to inform customers of such changes is the marketplace’s responsibility.
 
-![mkt_cancela_seller_ES](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/28c420f005191ccba061053f44833275/mkt_cancela_seller_ES.png)
+![mkt_cancela_seller_EN](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/7a5c5687cb444e4ddf4a41a64dec6ff4/mkt_cancela_seller_EN.png)
 
-## Limitaciones
+## Limitations
 
-El cambio de _seller_ no puede realizarse en las siguientes situaciones:
+You can not change sellers in the following cases:
 
-- El pedido tiene ítems con servicios o anexos.
-- Pedidos intermedios en caso de [Multilevel Omnichannel Inventory](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
-- Pedidos con otros cambios.
-- Pedidos con impuestos.
-- Pedidos con [split de pago](https://help.vtex.com/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) que no utilizan tarjeta de crédito.
-- Pedidos con <i>split</i> de pago entre diferentes <i>sellers</i>.
-- Pedidos que utilizan el medio de pago del <i>seller</i> y no utilizan tarjeta de crédito tokenizada.
-- Pedidos que utilizan el medio de pago del <i>seller</i> y tienen más de un comerciante involucrado.
-- Pedidos que utilizan el medio de pago del <i>seller</i> y tienen pago en cuotas con intereses.
-- Pedidos que utilizan el medio de pago del <i>seller</i> y que no tienen las mismas condiciones de pago en cuotas y medios de pago en el nuevo <i>seller.</i> 
-- Pedidos realizados antes del anuncio de Change Seller.
-- Pedidos en los que el <i>seller</i> original no es de VTEX.
-- Cambio a un nuevo <i>seller </i>que no es de VTEX cuando hay servicios u [assembly options](https://help.vtex.com/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involucrados.
-- Cuando la nueva opción solicita el envío por recogida en [puntos de recogida](https://help.vtex.com/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- En caso de que el <i>marketplace</i> decida cambiar de <i>seller</i>, el cambio solo podrá realizarse en los [status](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) `Pago pendiente` y `Esperando confirmación del seller`.
-- Pedidos de sellers externos a VTEX.
-- Si la transportadora no está asociada a la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) del pedido.
+- Order items with services or attachments.
+- Intermediate orders in the [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Orders with other changes.
+- Orders with taxes.
+- Orders with [split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
+- Orders with split payment into multiple sellers.
+- Orders that use the seller's payment method and do not use a tokenized credit card.
+- Orders that use the seller's payment method and have more than one seller involved.
+- Orders that use the seller's payment method and were paid in installments with interest.
+- Orders that use the seller's payment method and do not have the same installment conditions and payment methods that the new seller accepts.
+- Orders placed prior to the Change Seller announcement.
+- Orders from an original non-VTEX seller.
+- If the new seller is not from VTEX and there are services or [assembly options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
+- If the new option is for pickup in [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
+- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
+- Orders from sellers external to VTEX.
+- If the chosen carrier isn't associated with the order's [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).

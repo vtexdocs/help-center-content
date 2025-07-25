@@ -11,12 +11,12 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: untitled
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 308613
 ---
 
-## Sumario
+## Summary
 
 
 Product not flagged to a specific SC can still be available for this SC. This scenario happens when the Sales Channel is associated to a collection on its config, and the product is available for this collection.
@@ -24,7 +24,7 @@ Even it is not available for the SC on the product interface, as the SC is assoc
 
 
 
-## Simulación
+## Simulation
 
 
 - Associate a collection to a SC;

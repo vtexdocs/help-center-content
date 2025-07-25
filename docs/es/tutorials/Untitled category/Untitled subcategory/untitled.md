@@ -1,16 +1,16 @@
 ---
 title: 'Untitled'
-id: 1CB87i63hFEDVNE3Tp5SP9
-status: DRAFT
-createdAt: 2021-02-25T14:41:44.948Z
-updatedAt: 2021-02-25T14:41:44.948Z
+id: 5aT7OSa0XSoaeEEKIGiucW
+status: ARCHIVED
+createdAt: 2017-07-28T22:59:23.616Z
+updatedAt: 2019-12-31T15:23:52.560Z
 publishedAt: 
-firstPublishedAt: 
+firstPublishedAt: 2019-01-25T17:27:42.747Z
 contentType: tutorial
-productTeam: unknown
-author: 
+productTeam: Identity
+author: 5fYXkMJagMwcSAeMAsAuOI
 slugEN: untitled
-locale: es
+locale: en
 legacySlug: 
 subcategoryId: unknown-subcategory
 ---

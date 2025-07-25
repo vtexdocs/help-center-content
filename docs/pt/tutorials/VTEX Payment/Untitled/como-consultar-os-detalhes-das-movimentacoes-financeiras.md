@@ -1,5 +1,5 @@
 ---
-title: 'Como consultar os detalhes das movimentações financeiras?'
+title: 'Untitled'
 id: 7c5KtZi5dye9NaOnwS1Gbw
 status: ARCHIVED
 createdAt: 2019-05-26T23:35:03.014Z
@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slugEN: como-consultar-os-detalhes-das-movimentacoes-financeiras
-locale: pt
+locale: en
 legacySlug: como-consultar-os-detalhes-das-movimentacoes-financeiras
 subcategoryId: 18xYXhZbElixqnashigi5k
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo funciona el protocolo de integración entre VTEX y empresas de antifraude'
+title: 'How the integration protocol between VTEX and anti-fraud companies works'
 id: 4aZtmdpgFikcsQomWyqAOq
 status: ARCHIVED
 createdAt: 2018-05-08T20:11:35.705Z
@@ -10,156 +10,156 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: antifraud-provider
-locale: es
+locale: en
 legacySlug: antifraud-provider
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-## ¿Qué es el Antifraud Provider Protocol?
+## What is the Antifraud Provider Protocol?
 
-El Antifraud Provider Protocol es el protocolo de integración entre VTEX y empresas que realizan servicios de antifraude.
+The Antifraud Provider Protocol is the integration protocol between VTEX and companies that provide anti-fraud services.
 
-Por medio de él, VTEX ofrece un contrato público disponible para todos los proveedores que desean integrarse a nuestra plataforma. Así, los proveedores ganan más autonomía en relación a la integración.
+Through it, VTEX offers a public contract available to all providers that wish to integrate into our platform. Thus, providers gain more autonomy.
 
-El protocolo cuenta con los siguientes recursos:
-- Procesamiento del análisis de riesgo síncrono y asíncrono.
-- Webhook para la notificación de status.
+The protocol has the following features:
+- Processing of synchronous and asynchronous risk analysis.
+- Webhook for status notification.
 
-Usted puede encontrar referencias a la API del protocolo [aquí](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
+You can find references to the protocol API [here](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
 
-## Conceptos
-__Provider__: sistema de antifraude o proveedor que ofrece este tipo de servicio.
+## Concepts
+__Provider__: An anti-fraud system or provider that offers this type of service.
 
-__Antifraud Provider Protocol__: protocolo de integración desarrollado por VTEX.
+__Antifraud Provider Protocol__: integration protocol developed by VTEX.
 
-__Conector__: nombre del proveedor asociado de integración con VTEX.
+__Connector__: name of the integration partner provider.
 
-## Primeros pasos
-A continuación, vamos a presentar paso a paso las informaciones referentes a la integración de pagos con VTEX.
+## First steps
+Next, we will present step-by-step information on integrating payments with VTEX.
 
-### 1. Fase comercial
-El primer paso es el contacto comercial con VTEX, que debe ser hecho por [nuestro sitio web](http://partner.vtex.com). Una vez finalizado el acuerdo comercial, el proveedor se registra y recibe un correo electrónico con los datos de acceso al ambiente del proveedor de antifraude, donde podrá realizar las configuraciones y pruebas necesarias.
+### 1. Commercial phase
+The first step is the commercial contact with VTEX, which should be done through [our site](http://partner.vtex.com). Upon completion of the business agreement, the provider is registered and receives an email with the data needed to access the environment of the anti-fraud provider, where you can make the necessary settings and tests.
 
-### 2. Implementación del protocolo
-Antes de configurar el ambiente VTEX, el proveedor debe implementar el servicio de back-end necesario para procesar el antifraude (API). Más información acerca de la API del protocolo [aquí](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
+### 2. Implementing the protocol
+Before setting up the VTEX environment, the provider must implement the back-end service required to process the anti-fraud (API). More information about the protocol API [here](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
 
-### 3. Portal de administración del Antifraud Provider
-Después de recibir los datos de acceso e implementar el back-end, el proveedor puede acceder a la herramienta de aprobación a través del Admin de VTEX. Para ello, debe instalar el App del Antifraud Provider en el menú Apps:
+### 3. Antifraud Provider Administration Panel
+After receiving the access data and deploying the backend, the provider can access the approval tool through VTEX Admin. To do this, you must install the Anti-Fraud Provider App from the Apps menu:
 
 ![print5](https://images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
 
-Haga clic en la App instalada o acceda a `https://{{AccountName}}.myvtex.com/admin/antifraud-provider`, sustituyendo `{{AccountName}}` por el nombre de su cuenta en la plataforma. En este ambiente, es posible registrar los datos de configuración de back-end del proveedor y realizar pruebas de integración.
+Click on the installed app or access `https://{{AccountName}}.myvtex.com/admin/antifraud-provider`, replacing `{{AccountName}}` with the name of your account on the platform. In this environment, you can register the provider back-end configuration data and perform integration tests.
 
 ![print6](//images.ctfassets.net/alneenqid6w5/2ziFhnDDHWMKE6QSIOIW4W/a0d3301c92157971275546ca2745f7b1/print6.png)
 
-### 4. Configuración inicial
+### 4. Initial settings
 ![print1](//images.ctfassets.net/alneenqid6w5/2RbsDjzeIgas064w8AKqS2/c0dc76877d74758ed5976bc729d26774/print1.png)
 
-Al acceder al ambiente por el enlace descrito arriba, usted verá un formulario. Rellene los campos de acuerdo con las siguientes indicaciones:
+When you access the environment through the link described in the previous item, you will see a form. Fill in the fields as indicated below:
 
-- __Connector Name__: rellene el nombre que desea dar a su conector dentro de VTEX. Este campo se puede editar siempre que sea necesario.
+- __Connector Name__: fill in with the name you want to give to your connector within VTEX. This field can be edited whenever necessary.
 
-- __Service URL__: defina la URL de su proveedor de servicios. Esta dirección URL será la dirección base del protocolo y debe seguir el formato determinado por él. Por ejemplo, si la dirección URL del servicio es *http://10.10.10.10*, la dirección URL completa para el endpoint */transactions* será *http://10.10.10.10/transactions*.
+- __Service URL__: set the URL of your provider service. This URL will be the base address of the protocol and must follow the format determined by it. For example, if the service URL is *http://10.10.10.10*, the full URL for the endpoint */transactions* will be *http://10.10.10.10/transactions*.
 
-- __Application Key__: introduzca el valor de "X-PROVIDER-API-AppKey" del header del pedido de su proveedor para fines de prueba.
+- __Application Key__: Enter the "X-PROVIDER-API-AppKey" value of your provider's request header for testing purposes.
 
-- __Application Token__: introduzca el valor de "X-PROVIDER-API-AppToken" del header del pedido de su proveedor para fines de prueba.
+- __Application Token__: Enter the "X-PROVIDER-API-AppToken" value of your provider's request header for testing purposes.
 
 <div class="alert alert warning">
-Es importante recordar que toda la comunicación HTTPS debe ser sobre TLS 1.2 exclusivamente.
+It's important to remember that all HTTPS communication should run exclusively on TLS 1.2.
 </div>
 
 <div class="alert alert warning">
-Su proveedor debe esperar dos headers: <strong>X-PROVIDER-API-AppKey</strong> y <strong>X-PROVIDER-API-AppToken</strong>. Esta combinación debe identificar un merchant. Todas las configuraciones que necesitan ser hechas por el merchant deben persistir en su proveedor. La única configuración que VTEX guarda con respecto a los merchants es la combinación de credenciales X-PROVIDER-API-AppKey y X-PROVIDER-API-AppToken.
+Your provider should expect two headers <strong>X-PROVIDER-API-AppKey</strong> and <strong>X-PROVIDER-API-AppToken</strong>. This combination should identify a merchant. All settings that need to be made by the merchant should persist in your provider. The only configuration that VTEX saves about merchants is the combination of X-PROVIDER-API-AppKey and X-PROVIDER-API-AppToken credentials.
 </div>
 
-Después de llenar los campos correctamente, el sistema comprobará las transacciones aprobadas a través de una llamada al endpoint __*/transactions*__ de su proveedor. Consulte la referencia a la API [aquí](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
+After completing the fields correctly, the system will check the approved transactions through a call to the __*/transactions*__ endpoint of your provider. See the API reference [here](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow).
 
-Las pruebas que se deben realizar en su integración antes de mandarla para la evaluación de VTEX se muestran abajo. Usted puede seleccionar qué pruebas desea ejecutar, pero para que su integración pase por el análisis de nuestro equipo, __todas ellas necesitan ser realizadas__. Por lo tanto, recomendamos que todos ellos permanezcan seleccionados.
+The tests that should be done in your integration before sending it to VTEX evaluation are displayed in the next module. You can select which tests you want to run, but for your integration to go through the analysis of our team, __all tests need to be done__. Therefore, we recommend that all of them remain selected.
 
 ![print2](//images.ctfassets.net/alneenqid6w5/5EVuBF31ramsiYuKa2wkwO/91a84f94f4030507b9635b150067965f/print2.png)
 
-### 5. Pruebas
-Al hacer clic en el botón __Execute tests__, el Antifraud Provider aplicará las pruebas en su integración para los diferentes escenarios posibles. Es importante recordar que __todos ellos son obligatorios__ y, para ejecutarlos, su servicio necesita estar en HTTPS. Las pruebas son:
+### 5. Testing
+When you click the __Execute tests__ button, the Antifraud Provider will apply the tests in your integration to the different possible scenarios. It's important to remember that __all of them are required__. To run them your service must be in HTTPS. The tests are:
 
-- __Authorize__: esta prueba se realiza en dos etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. A continuación, enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _approved_.
+- __Authorize__: This test is done in two steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. We then send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, expecting the _approved_ status as response.
 
-- __Denied__: a ejemplo de la anterior, esta prueba también se realiza en dos etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. A continuación, enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _denied_.
+- __Denied__: Like the previous one, this test is also done in two steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. We then send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, waiting the status _denied_ as response.
 
-- __AsyncApproved__: esta prueba se divide en tres etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. Entonces enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _undefined_. Por último, después de 10 segundos, enviamos un request de _Get Anti-defraud Status_ (con el mismo Transaction ID generado en el primer paso) a `{{ServiceURL}}/transactions/transactionId`, pero esta vez esperando en la respuesta el status _approved_.
+- __AsyncApproved__: This test is divided into three steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. We then send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the status _undefined_ as response. Finally, after 10 seconds, we send another _Get Antifraud Status_ request (with the same Transaction ID generated in the first step) to `{{ServiceURL}}/transactions/transactionId`, but this time waiting for the _approved_ status in response.
 
-- __AsyncDenied__: a ejemplo de la anterior, esta prueba también se divide en tres etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. Entonces enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _undefined_. Por último, después de 10 segundos, enviamos un request de _Get Anti-defraud Status_ (con el mismo Transaction ID generado en el primer paso) a `{{ServiceURL}}/transactions/transactionId`, pero ahora esperando en la respuesta el status _denied_.
+- __AsyncDenied__: As in the previous example, this test is also divided into three steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. We then send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the status _undefined_ as response. Finally, after 10 seconds, we send another _Get Antifraud Status_ request (with the same Transaction ID generated in the first step) to `{{ServiceURL}}/transactions/transactionId`, but this time waiting for the _denied_ status in response.
 
-- __HookApproved__: esta prueba se divide en cuatro etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. A continuación, enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _undefined_. Entonces, esperamos 10 segundos que el proveedor del antifraude haga un POST en la URL enviada en el campo _hook_ del primer paso (en el contenido del POST debe estar la respuesta obtenida en ese mismo paso). Por último, enviamos un request de _Get Anti-corrupto Status_ (con el mismo Transaction ID generado en el primer paso) a `{{ServiceURL}}/transactions/transactionId`, esperando en la respuesta el status _approved_.
+- __HookApproved__: This test is divided into four steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. Then we send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the status _undefined_ as response. Then we wait for 10 seconds for the antifraud provider to POST the URL sent in the _hook_ field of the first step (the POST content should contain the response obtained in that same step). Finally, we send another _Get Antifraud Status_ request (with the same Transaction ID generated in the first step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the _approved_ status in response.
 
-- __HookDenied__: a ejemplo de la anterior, esta prueba también se divide en cuatro etapas. En primer lugar, necesitamos el status _received_ como respuesta al request de _Send Antifraud Data_ para `{{ServiceURL}}/transaction`. A continuación, enviamos un request de _Get Antifraud Status_ (con el Transaction ID generado en el paso anterior) a `{{ServiceURL}}/transactions/transactionId`, esperando como respuesta el status _undefined_. Entonces, esperamos 10 segundos que el proveedor del antifraude haga un POST en la URL enviada en el campo _hook_ del primer paso (en el contenido del POST debe estar la respuesta obtenida en ese mismo paso). Por último, enviamos otro request de _Get Antifraud Status_ (con el mismo Transaction ID generado en el primer paso) a `{{ServiceURL}}/transactions/transactionId`, esperando en la respuesta el status _denied_.
+- __HookDenied__: Like the previous one, this test is also divided into four steps. First, we need the _received_ status in response to the _Send Antifraud Data_ request for `{{ServiceURL}}/transactions`. Then we send a _Get Antifraud Status_ request (with the Transaction ID generated in the previous step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the status _undefined_ as response. Then we wait for 10 seconds for the antifraud provider to POST the URL sent in the _hook_ field of the first step (the POST content should contain the response obtained in that same step). Finally, we send a further _Get Antifraud Status_ request (with the same Transaction ID generated in the first step) to `{{ServiceURL}}/transactions/transactionId`, waiting for the _denied_ status as response.
 
 <div class="alert alert info">
-Para cada prueba del Antifraud Provider Protocol, enviamos un final de ID específico para devolver la respuesta esperada. Son ellos:<br>
-<strong>Authorize:</strong> ID con final 1<br>
-<strong>Denied:</strong> ID con final 2<br>
-<strong>AsyncApproved:</strong> ID con final 3<br>
-<strong>AsyncDenied:</strong> ID con final 4<br>
-<strong>HookApproved:</strong> ID con final 5<br>
-<strong>HookDenied:</strong> ID con final 6<br>
+For each Antifraud Provider Protocol test, we send a specific ID end to return the expected response. They are:<br>
+<strong>Authorize:</strong> ID with end 1<br>
+<strong>Denied:</strong> ID with end 2<br>
+<strong>AsyncApproved:</strong> ID with end 3<br>
+<strong>AsyncDenied:</strong> ID with end 4<br>
+<strong>HookApproved:</strong> ID with end 5<br>
+<strong>HookDenied:</strong> ID with end 6<br>
 </div>
 
-### 6. Resultados
-Después de ejecutar las pruebas, el sistema devuelve los resultados, tanto positivos como negativos. El sistema también trae la información de los resultados esperados para cada prueba. Así, usted tiene más visibilidad de lo que debe ser ajustado en caso de error.
+### 6. Results
+After running the tests, the system returns the results, both positive and negative. The system also provides information on the expected results for each test. Thus, you have more visibility of what should be corrected in case of error.
 
 ![print3](//images.ctfassets.net/alneenqid6w5/4k4uoEtGb6CeoAAWasM4Ya/c718a92d5196f553c5531511a7e14b92/print3.png)
 
-Para visualizar de forma detallada cada acción realizada por la integración (y, así, identificar posibles errores), basta con hacer clic en el enlace __Show logs__. Una lista con la información completa de los eventos que ocurrieron durante la prueba se mostrará por debajo de los resultados.
+To visualize in detail each action performed by the integration (and thus to identify possible errors), just click on the __Show logs__ link. A list of the complete information about the events that happened during the test will be displayed below the results.
 
 ![print4](//images.ctfassets.net/alneenqid6w5/FeHanjGPxQqG8eoUw2MG0/a804453e7cc01ef7ef8d1b35e8960b94/print4.png)
 
-Cuando su integración ha pasado todas las pruebas con éxito, sólo tiene que abrir un ticket en el [help de VTEX](/es/support) informando la conclusión. Sin embargo, antes de abrir el ticket, asegúrese de tener la siguiente información:
+When your integration has successfully passed all tests, please open a ticket in our [VTEX support](https://help.vtex.com/pt/support "VTEX Help"). However, before opening the ticket, make sure you have the following information:
 
-- __Connector Name__: una descripción del proveedor. Utilice un máximo de 16 caracteres alfanuméricos. Este nombre no se puede cambiar una vez publicado.
-- __Partner contact__: correo electrónico del partner en caso de que sea necesario comunicar cambios y novedades de nuestro protocol.
-- __Production Service Provider Endpoint__: la ruta base que se utilizará para las llamadas API al proveedor, por ejemplo, _https://vtex.pagadito.com_. Debe responder al menos a una de las siguientes rutas: `{{serviceUrl}}/manifest` or `{{serviceUrl}}/payment-methods`. TEste endpoint debe estar disponible públicamente. 
-- __Sandbox Service Provider Endpoint__: la ruta base que se utilizará en el modo de prueba para las llamadas API al proveedor. Por ejemplo: _https://sandboxserviceproviderendpoint.com_. 
-- __Owner account__: el nombre de la cuenta VTEX que se utilizará en las solicitudes de devolución de llamada. Esta cuenta debe estar disponible en _{account}.myvtex.com_. 
-- __Allowed Accounts__: informar qué cuentas VTEX de este proveedor estarán disponibles (todas las cuentas o cuentas específicas).
-- __New Payment methods__: informar si este conector admite un método de pago que aún no está disponible en VTEX Admin. 
-- __New Payment method purchase flow__: si se admite un "Nuevo método de pago", indique si funciona con el Redirect o Payment App. Para más información acceda [Purchase Flows](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows).
+- __Connector Name__: a description of the provider. Use max. 16 alphanumeric characters. This name can not be modified after being published.
+- __Partner contact__: partner email address in case we need to communicate changes and new features of our protocol.
+- __Production Service Provider Endpoint__: the base path that will be used for API calls to the provider, e.g., _https://vtex.pagadito.com_. It has to respond to at least one of the following routes: `{{serviceUrl}}/manifest` or `{{serviceUrl}}/payment-methods`. This endpoint must be publicly available. 
+- __Sandbox Service Provider Endpoint__: the base path that will be used in test mode for API calls to the provider. E.g., _https://sandboxserviceproviderendpoint.com_. 
+- __Owner account__: the VTEX account name which will be used in callback requests. This account must be available at _{account}.myvtex.com_. 
+- __Allowed Accounts__: describe which VTEX accounts from this provider will be available (all accounts or specific accounts).
+- __New Payment methods__: inform if this connector supports a payment method that is not yet available in the VTEX Admin. 
+- __New Payment method purchase flow__: if a “New Payment method” is supported,  inform whether it works with Redirect or Payment App. For more information, access [Purchase Flows](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows).
 
-El SLA requerido para que el equipo de pagos realice la homologación es de 30 días.
+The SLA required for the payment team to carry out homologation is 30 days.
 
-## Credenciales VTEX
-Al llamar a `CallbackURL`, usted debe especificar los headers de autenticación, que en VTEX son el _X-VTEX-API-AppKey_ y el _X-VTEX-API-AppToken_. Puede encontrar estas credenciales en el módulo License Manager de VTEX. Estas credenciales son usadas por el Antifraud Provider únicamente.
+## VTEX Credentials
+When calling `CallbackURL`, you must specify the authentication headers, which in VTEX are _X-VTEX-API-AppKey_ and _X-VTEX-API-AppToken_. You can find these credentials in VTEX License Manager. These credentials are used by the Antifraud Provider only.
 
-Utilice la URL `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home`, sustituyendo el `{{AccountName}}` por su nombre de cuenta. Entonces, siga las instrucciones de [este tutorial](https://help.vtex.com/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para aprender a crear appKeys y appTokens en nuestra plataforma.
+Use the `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home` URL, replacing `{{AccountName}}` with your account name. Then follow the instructions of [this tutorial](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) to learn how to create appKeys and appTokens on our platform.
 
-## Configuración en las tiendas VTEX
-Una vez que la integración con su antifraude está aprobada, un conector se pondrá a disposición para que las tiendas VTEX lo configuren en sus respectivos sitios web. Para hacer esto, además del contrato con su empresa, la tienda deberá tener en las manos dos claves: "X-PROVIDER-API-AppKey" y "X-PROVIDER-API-AppToken".
+## Settings in VTEX stores
+Once the integration with your anti-fraud is approved, a connector will be made available for VTEX merchants to configure it on their respective websites. To do this, in addition to the contract with your company, the store will need two keys in hand: "X-PROVIDER-API-AppKey" and "X-PROVIDER-API-AppToken".
 
-Un ejemplo de cómo va a quedar la pantalla de configuración del antifraude para la tienda VTEX:
+An example of how the antifraud settings screen will look for the VTEX store:
 ![print8](//images.ctfassets.net/alneenqid6w5/2v00lYz2UsW4YsaSycESio/1dc399bea5e2a75a04d1867646c4e223/print8.png)
 
-Estas llaves deben estar disponibles por usted y van a servir para identificar la tienda que ha contratado y está utilizando su servicio de antifraude.
+These keys should be made available by you and will serve to identify the store that hired and is using your anti-fraud service.
 
-## Configuración del documento del titular de la tarjeta
-Durante el proceso de revisión de las transacciones de pago, algunos proveedores antifraude pueden optar por no utilizar información adicional como: la identificación personal del titular de la tarjeta. En estos casos, el administrador de la tienda tiene autonomía para decidir si solicita o no esta información a su cliente durante el proceso de checkout.
+## Cardholder Document Configuration
+During payment transactions analysis, some anti-fraud providers may choose not to use additional information such as the cardholder’s personal identification. In these cases, the merchant has the autonomy to decide whether or not to request this document from his customer during the checkout procedure.
 
->⚠️ La opción de configuración **Campo de documento del titular de la tarjeta** solo estará disponible para el administrador de la tienda, si el provedor antifraude declara el campo del documento del titular de la tarjeta (`cardholderDocument`) como `opcional` em su [manifesto](https://developers.vtex.com/vtex-rest-api/reference/manifest). Mas información en [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
+>⚠️ The configuration option **Cardholder document field** will only be available to the merchant if the anti-fraud provider declares in its [manifest](https://developers.vtex.com/vtex-rest-api/reference/manifest), the cardholder document field (`cardholderDocument`) as `optional`. Learn more at [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
 
-Para configurar la visualización del campo del documento del titular de la tarjeta, siga los siguientes pasos:
+To set up the cardholder document field, follow the steps below:
 
-1. Acceda al __Admin__ VTEX.
-2. Haga clic en __Pagos__.
-3. Después, haga clic en __Configuración__.
-4. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __`+`__.
-5. Seleccione el proveedor antifraude que desea utilizar.
-6. En la pantalla de configuración antifraude, complete la información solicitada.
-7. En __Campo de documento del titular de la tarjeta__, seleccione una de las seguientes opciones:
+1. Acess __Admin__ VTEX.
+2. Click on __Payments__.
+3. Then, click on __Settings__.
+4. On the __Gateway Affiliations__ tab, click the __`+`__ botton.
+5. Select the anti-fraud provider you wish to use.
+6. On the anti-fraud configuration screen, fill in the requested information.
+7. In __Cardholder document field,__, select one of the following options:
 
-    - __Mostrar como campo obligatorio__: el campo se mostrará al finalizar la compra con la información “obligatorio” y el cliente debe completar la información del titular de la tarjeta para completar el pedido.
-    - __Mostrar como campo opcional__: el campo se mostrará al finalizar la compra com la información “opcional” y el cliente decidirá si completa o no el campo. El pedido se puede completar incluso si el campo no se completa.
-    - __Ocultar campo__: el campo no se mostrará al finalizar la compra.
+    - __Display as a required field__: the field will be displayed at checkout with the information “required”, and the customer must fill in the cardholder information to complete the order.
+    - __Display as an optional field__: the field will be displayed at checkout with the information “optional”, and the customer will decide whether or not to fill in it. The order can be completed even if the field is not filled in.
+    - __Hide Field__: the field will not be displayed at checkout.
 
 <ui>
-  8. Haga clic en <b>Guardar.</b>
+  8. Click on <b>Save.</b>
   </ui>
 
-Después de seguir los pasos indicados, las configuraciones realizadas anteriormente pueden tardar hasta 10 minutos en aparecer en el checkout de su tienda.
+After following the steps indicated, the settings made above may take up to 10 minutes to appear at your store’s checkout.

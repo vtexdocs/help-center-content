@@ -9,9 +9,9 @@ firstPublishedAt: 2020-03-30T18:11:59.947Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: casas-bahia-marketplace
-locale: es
+locale: en
 trackId: 3E9XylGaJ2wqwISGyw4GuY
-trackSlugES: integracion-de-casas-bahia-marketplace
+trackSlugEN: casas-bahia-marketplace-integration
 ---
 
->⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

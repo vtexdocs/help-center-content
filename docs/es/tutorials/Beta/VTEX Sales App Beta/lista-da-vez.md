@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: lista-da-vez
-locale: es
+locale: en
 legacySlug: lista-da-vez
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.  
+>⚠️ This content is only available in Portuguese.  

@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slugEN: como-posso-reportar-uma-duvida-sobre-o-vtex-payment
-locale: es
+locale: en
 legacySlug: como-posso-reportar-uma-duvida-sobre-o-vtex-payment
 subcategoryId: 1lVBwR5PbVPYNhdCoIeACX
 ---

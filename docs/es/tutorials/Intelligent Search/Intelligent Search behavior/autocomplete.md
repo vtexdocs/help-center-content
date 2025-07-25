@@ -10,56 +10,58 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: autocomplete
-locale: es
+locale: en
 legacySlug: autocomplete
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
+>⚠️ The Autocomplete tool is enabled by default in VTEX Intelligent Search. It is not possible to disable it in the Admin.
 
->⚠️ Autocomplete es una herramienta que ya está activa en VTEX Intelligent Search. No es posible desactivarla en el Admin.
+Autocomplete is the functionality that displays previous search results based on current and previous searches. These results are presented in four different lists, which can be together or separated, depending on the customer's interaction. The existing sections are:
 
-Autocomplete funciona según la información obtenida a través del historial de búsqueda de términos relacionados con el Catálogo. Estos resultados se muestran en cuatro listas diferentes, que pueden estar juntas o separadas, dependiendo de la interacción con el cliente. Las secciones son:
+- Last searches performed;
 
-- Últimas búsquedas realizadas.
-- Sugerencia de búsqueda.
-- Sugerencia de productos.
-- Términos más buscados.
+- Search suggestion;
 
->⚠️ Cuando se busca un término no registrado, Autocomplete no encuentra productos con las especificaciones deseadas y no muestra ninguna sugerencia.
+- Product suggestion;
 
-Durante la interacción con la barra de búsqueda, VTEX Intelligent Search inmediatamente muestra el conjunto de Términos más buscados y Últimas búsquedas, si el cliente ya ha realizado alguna búsqueda.
+- Most searched terms.
 
-Cuando el usuario comienza a escribir, el sistema muestra las Sugerencias de búsqueda y Sugerencias de productos y elimina las listas anteriores.
+>⚠️ When searching for a term not listed, Autocomplete will not find products with that specification and will not display any suggestions.
 
->ℹ️ La información de las secciones **Términos más buscados** y **Sugerencia de búsquedas** es actualizada diariamente. Para la actualización, se utilizan los datos de los últimos 14 días de interacción de los clientes con la búsqueda.
+During the interaction with the search bar, VTEX Intelligent Search immediately displays the set of _Most searched terms_ and _Last searches_ (if the customer has done searches before).
 
-De esta forma, es posible proporcionar al cliente una experiencia de búsqueda más fluida y personalizada. Así puede ver el resultado rápidamente, además de recibir sugerencias basadas en su búsqueda. 
+When the user starts typing, the system displays the _Search suggestions_ and the _Product suggestions_ and removes the previous lists.
 
-Otra ventaja para el administrador de la tienda es el aumento de conversión, que es el resultado de la dinámica de facilidad de uso y experiencia.
+>ℹ️ Section information <i>Most searched terms</i> and <i>Search suggestions</i> are updated daily using the data from the last 14 days of the customers' interaction with the search.
 
->ℹ️ Autocomplete ofrece sugerencias de búsqueda incluso cuando la tienda es nueva y aún no muestra datos de interacciones con los clientes, como clics y búsquedas.
->     En este caso, la funcionalidad genera sugerencias de búsqueda a partir de un algoritmo que extrae palabras clave del catálogo, productos, marcas y categorías registradas en la tienda.
+This way, it is possible to provide the customer with a more fluid and personalized search experience. They can view the result quickly and receive suggestions based on their search.
 
-## Términos más buscados
+Another advantage for the store's manager is the increase in conversion due to this dynamic of usability and experience.
 
-En esta sección se muestran los términos más buscados por otros clientes dentro del sitio web.
+>ℹ️ Autocomplete offers search keyword suggestions even for completely new stores that do not yet have data on customer interaction such as clicks and searches.
+>     In this case, the feature suggests search options based on an algorithm that extracts keywords from the store's catalog, products, brands, and categories.
 
-![PT - Autocomplete termos mais pesquisados](https://images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
+ ## Most searched terms
 
-## Últimas búsquedas realizadas
+This section displays the most searched terms on the website by other customers.
 
-En esta sección se muestran las últimas búsquedas realizadas por el cliente. Así, es posible comenzar la interacción con la búsqueda instantáneamente.
+![top-busca-EN](https://images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
 
-![PT - Autocomplete historico](//images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
+## Last searches
 
-## Sugerencia de búsquedas
+This section displays the last searches performed by the customer. This way, it is possible to start the interaction with the search instantly.
 
-En esta sección se muestran los términos buscados por otros usuarios que se relacionan con la búsqueda realizada en ese momento. Además de términos, también se sugieren categorías relacionadas con la búsqueda.
+![historico-EN](//images.ctfassets.net/alneenqid6w5/4MGjASLdfoocOJUHqNQZ3S/a1f82e4d16a67dd446bd8b00117a3744/historico-EN.png)
 
-![PT - Autocomplete sugestao termos](//images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
+## Search suggestions
 
-## Sugerencia de productos
+This section displays the terms and categories other users searched related to the search performed at that time. 
 
-En esta sección se muestran los productos que coinciden con la búsqueda realizada en ese momento. Así, al mostrar productos relacionados con su búsqueda durante la escritura, se reducen las interrupciones y se le permite al usuario realizar una compra más dinámica.
+![sugest-EN](//images.ctfassets.net/alneenqid6w5/1yoepV91SSqKxLr0VVD8AX/4b80f72d4c5c5352c2399a1fbec2489e/sugest-EN.png)
 
-![PT - Autocomplete sugestao de produtos](//images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)
+## Product suggestion
+
+This section shows the products that correspond to the search carried out at that moment. By displaying products related to your search while you are typing, it reduces dropouts and gives the user the possibility to make a more dynamic purchase.
+
+![produtos-EN](//images.ctfassets.net/alneenqid6w5/5QMMNF3iCB2428Ycmswtvd/40062662cd777497d54a86eadb13a1d0/produtos-EN.png)

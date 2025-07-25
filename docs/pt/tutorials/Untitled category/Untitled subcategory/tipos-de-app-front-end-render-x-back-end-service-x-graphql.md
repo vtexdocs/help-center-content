@@ -1,5 +1,5 @@
 ---
-title: 'Tipos de app - front-end (render) x back-end (service) x GraphQL'
+title: 'Untitled'
 id: SEMAaDZ9YccEAsuuumCqQ
 status: ARCHIVED
 createdAt: 2017-11-22T15:53:58.850Z
@@ -10,31 +10,15 @@ contentType: tutorial
 productTeam: Others
 author: 
 slugEN: tipos-de-app-front-end-render-x-back-end-service-x-graphql
-locale: pt
+locale: en
 legacySlug: tipos-de-app-front-end-render-x-back-end-service-x-graphql
 subcategoryId: unknown-subcategory
 ---
 
-E possível criar aplicações de front-end e back-end com o VTEX IO. Além disso, a plataforma permite usar GraphQL para mapear rotas e facilitar a comunicação entre front-end e back-end.
+GraphQL is a recently developed framework. It facilitates communication between the front-end and the backend by declaring what we call "schemas", which work as communication protocols.
 
+Example: Through the GraphQL schemas, the front-end knows that if you make a `getUser` call it needs to call the endpoint `http://apps-graphql.vtex.aws-us-east-1.vtex.io/test/user/query/getUser?__v=0.9.1` and receive a response with type `{name, email, address, phone_number}`.
 
-### Front-end
+So, in addition to "mapping routes", GraphQL makes it easier for the front-end to call complex URLs.
 
-O __Render__ é um framework desenvolvido pela VTEX que permite criar apps de front-end com React e GraphQL de forma fácil, usando server-side rendering.
-
-Com ele, portanto, você pode realizar alterações visuais na experiência do usuário.
-
-
-### Back-end
-
-O __Service__ é um serviço para aplicações backend. Ele define endpoints e funções de backend para atender a estes endpoints. Pode buscar ou alterar dados no banco de dados, por exemplo.
-
-### GraphQL
-
-O GraphQL é um framework desenvolvido recentemente. Ele facilita a comunicação entre o frontend e o backend declarando o que chamamos de "schemas", que funcionam como protocolos de comunicação.
-
-Exemplo: por meio dos schemas GraphQL, o front-end sabe que se fizer uma chamada do tipo `getUser` ele vai chamar o endpoint `http://apps-graphql.vtex.aws-us-east-1.vtex.io/test/user/query/getUser?__v=0.9.1` e receber uma resposta do tipo `{name, email, address, phone_number}`.
-
-Ou seja, além de "mapear rotas", o GraphQL facilita que o front-end faça chamadas a URLs complexas.
-
-Como apps GraphQL definem tipos e campos que modelam os requests e responses trocados entre front-end e back-end, as chamadas ficam mais leves, o que leva a um ganho de performance.
+Because GraphQL apps define types and fields that model the requests and responses exchanged between front-end and back-end, requests get lighter, which leads to performance improvement.

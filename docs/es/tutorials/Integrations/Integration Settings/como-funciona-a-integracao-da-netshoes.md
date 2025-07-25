@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo funciona la integración de Netshoes?'
+title: 'How does Netshoes integration work?'
 id: 4WnhtMXAw0EgmEwiqgaOIu
 status: PUBLISHED
 createdAt: 2018-07-09T13:24:54.048Z
@@ -10,270 +10,268 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slugEN: como-funciona-a-integracao-da-netshoes
-locale: es
+locale: en
 legacySlug: como-funciona-a-integracao-da-netshoes
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Este artículo tiene como objetivo describir todo el flujo de la integración con Netshoes. De esta forma, quedará más claro cómo funciona la integración y el comportamiento esperado en cada etapa. El tutorial está dividido en cinco etapas:
+This article aims to describe the entire flow of the integration with Netshoes so it will become clear how the integration works and what is the expected behavior in each step. The tutorial is divided into five stages:
 
-1. Flujo de Productos
-2. Inventario
-3. Precios
-4. Promociones
-5. Flujo de pedidos
+1. Product Flow
+2. Inventory
+3. Prices
+4. Promotions
+5. Order Flow
 
-## 1 - Flujo de Productos
+## 1 - Product Flow
 
-La integración envía producto, inventario y precios en entidades separadas. Una vez que los productos se envían con éxito, ya es posible encontrarlos en Netshoes. La integración envía los siguientes campos:
+The integration sends product, inventory and prices in separate entities. Once the products are sent successfully, you can find them at Netshoes. The integration sends the following fields:
 <br />
 
-| Producto | SKU |
+| Products | SKU |
 | ---------- | ---------- |
-| Nombre* | EAN |
-| Descripción* | Peso* |
-| Especificaciones¹ | Altura* |
-| - | Ancho* |
-| - | Longitud* |
-| - | Imágenes* |
-| - | Especificaciones¹ |
+| Name * | EAN |
+| Description* | Weight* |
+| Specifications¹ | Height* |
+| - | Width* |
+| - | Length* |
+| - | Images* |
+| - | Specifications¹ |
 
 <br />
 
-**Con asterisco están los campos obligatorios.*
+**Required fields are asterisked.**
 
-*¹ Algunas especificaciones son obligatorias. Para saber más, [haga clic aquí](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#otras-especificaciones). *
+*¹ Some specifications are required. To learn more, [click here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#other-specifications).*
 
-Las especificaciones se envían si están conforme los valores esperados por Netshoes. Es decir, al enviar un producto, la integración explora sus especificaciones y, si encuentra alguna que coincida con el valor esperado por la categoría del producto en Netshoes, envía la especificación. Si la especificación no tiene el valor esperado, la integración no la envía.
+Specifications are sent if they conform to Netshoes' expected values. That is, when you submit a product, the integration scans its specifications. If they find any that matches the expected value of the product category in Netshoes, it sends the specification. If the specification does not have the expected value, the integration doesn't send the specification.
 
-_`Ej:` para una camisa que tenga la especificación "Material" registrada, la integración enviará los valores usados en ella._
+_`Ex:` for a shirt that has the specification "Material", the integration will send the values used in it._
 
-_`Ej:` Material - Algodón_
+_`Ex:` Material - Cotton_
 
-Al ser enviados con éxito por primera vez, Netshoes recibe los productos y realiza un proceso de catalogación interno. Una vez que son aprobados por Netshoes, la integración __no actualiza__ la información de producto porque esto eliminaría las que ya se han registrado. Si desea hacer algún cambio en la información del producto, usted debe cambiar directamente en Netshoes.
+When the specifications are successfully sent for the first time, Netshoes receives the products and performs an internal cataloging process. Once they are approved by Netshoes, the integration does not update the product information because it would undo the ones that have already been registered. If you want to make any changes to the product information, you need to make them directly in Netshoes.
 
-_`Ej:` si se cambia la descripción del producto, la integración no actualizará la descripción que se encuentra en el marketplace._
+_`Ex:` If the product description is changed, the integration will not update the description inside the marketplace._
 
->⚠️ Nota: el producto no se puede borrar en el panel de Netshoes, porque así no podría ser enviado por la integración de nuevo.
+>⚠️ Note: The product can not be deleted in the Netshoes panel, so it may be sent by the integration again.
 
-En Netshoes, los productos tienen dos status posibles:
-- __Activo:__ disponible para la venta
-- __Inactivo:__ no disponible para la venta, haciendo que el producto no aparezca en el marketplace.
+At Netshoes, products have two possible statuses:
+- __Active:__ available for sale
+- __Inactive:__ unavailable for sale, in which case the product isn't shown in the marketplace.
 
-Allí ellos se agrupan por un producto que tiene diversas variaciones/SKUs.
+There they are grouped by a product that has several variations/SKUs.
 
-_`Ej:` Camisa Azul (producto) | P, M, G (variaciones/SKUs)_
+_`Ex:` Blue shirt (product) | S, M, L (variations/SKUs)_
 
-La categoría se envía de acuerdo con el Departamento rellenado en la [planilla de mapeo](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+The category is sent according to the Department filled in the [mapping worksheet](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
 
-## 2 - Inventario
+## 2 - Inventory
 
-Netshoes sólo acepta recibir los inventarios para productos que ya se han enviado con éxito. Antes de esto, los envíos de inventario son rechazados. 
+Netshoes only receives inventories for products that have already been successfully sent. Before this, stock sendings are rejected. 
 
-Una vez que el proceso de catalogación es finalizado en Netshoes, la integración envía automáticamente los inventarios de los productos, siempre que la __API de Notificación de Productos Aprobados__ esté configurada ([sepa más aquí](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-notificacion-de-productos-aprobados).
+Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
 
-Una vez que los productos reciben la primera carga de inventario, la actualización se realiza SKU por SKU cada vez que se produce algún cambio de stock en VTEX.
+After the products receive the first stock load, the update is made SKU by SKU whenever there's a stock change in VTEX.
 
->⚠️ **Nota:** los datos de inventario enviados a Netshoes quedan registrados en nuestro sistema por sólo **3 meses**.
+>⚠️ **Note:** The inventory data sent to Netshoes is registered to our system for only **3 months**.
 
-## 3 - Precios
+## 3 - Prices
 
-Netshoes sólo acepta recibir precios para productos que ya se han enviado con éxito. Antes de esto, los envíos de precio son rechazados. 
+Netshoes only receives prices for products that have already been successfully sent. Before this, price sendings are rejected. 
 
-Una vez que el proceso de catalogación es finalizado en Netshoes, la integración envía automáticamente los precios de los productos, siempre que la __API de Notificación de Productos Aprobados__ esté configurada.
+Once the cataloging process is finished in Netshoes, the integration automatically sends the products' prices, provided that the __Approved Products API Notification__ is configured.
 
-Después de que los productos reciben la primera carga de precio, la actualización se realiza SKU por SKU cuando se produce alguna modificación de precios en VTEX. Sin embargo, para los precios con validez, cuando la fecha expira el sistema no notifica a los afiliados. De esta forma, el precio base sólo será enviado en la próxima modificación de precios.
+Once the products receive the first price load, the update is made SKU by SKU whenever there's a price change in VTEX. However, for prices with expiration dates, when the date expires the system does not notify the affiliates. So the base price will only be sent after the next price change.
 
-La integración envía los __precios de lista__ y el __precio final__ para cada SKU. El precio final se envía de acuerdo con el retorno de la simulación de fulfillment. En un escenario estándar, el precio enviado siempre será el indicado para la política comercial asociada a la integración. Sin embargo, existen factores que pueden influir en el precio final, como __promociones__ y __precios fijos__.
+The integration sends the __list prices__ and the __final price__ for each SKU. The final price is sent according to the return of the fulfillment simulation. In a standard scenario, the price that is sent will always be the one determined for the sales policy linked to the integration. However, there are factors that can influence the final price, such as __benefits__ and __fixed prices__.
 
-_`Ej1:` promoción del 10% de descuento para una categoría determinada_
+_` Ex1:` benefit of 10% discount for a certain category_
 
-_`Ej2:` SKU X está con precio de $ 10,00 en la política comercial usada en Netshoes y tiene un precio fijo de $ 15,00 para esa misma política. La integración enviará el precio de $ 15,00._
+_`Ex2:` SKU X is $ 10.00 in the sales policy used in Netshoes and has a fixed price of $ 15.00 for the same sales policy. The integration will send $ 15,00.
 
->⚠️ Nota: Como la forma de pago se hace en el marketplace, las reglas de pago son determinadas por él. Por eso, no conseguimos enviar precios diferenciados en función de la forma de pago.
+>⚠️ Note: since the payment method is made in the marketplace, the payment rules are determined by it. Because of this, we can't send differentiated prices depending on the payment method.
 >
 >
 > 
-> *Ej: si en VTEX existen intereses configurados para pagos parcelados, el precio enviado todavía será lo que la simulación de fulfillment devuelve.*
+> *Ex: If there are interests for installment payments configured in VTEX, the price sent will still be the one returned by the fulfillment simulation.*
 
-## 4 - Promociones
+## 4 - Benefits
 
-Sólo se aplican promociones que se pueden calcular en la simulación de fulfillment. En este caso, se pueden aplicar las siguientes condiciones:
+Only benefits that can be calculated in the fulfillment simulation are applied. In this case, the following conditions can be applied:
 
-| Tipo de descuento | Artículos | Condiciones |
+| Discount Type | Items | Conditions |
 | ---------- | ---------- | ---------- |
-| Porcentaje | Categorías | Valor mínimo/máximo del Pedido |
-| Nominal | Marcas | Valor mínino/máximo del Artículo |
-| Envío Nominal | Colecciones | Precio de/por |
-| Envío Percentual | productos | Código postal |
-| Envío Máximo | - | Tipo de Envío |
-| Envío Gratis | - | - |
+| Percentage | Categories | Min/Max Order Value |
+| Nominal | Brands | Min/Max Item Value |
+| Nominal Shipping | Collections | Price from/for |
+| Percentage Shipping | Products | CEP |
+| Maximum Shipping | - | Type of Shipping |
+| Free Shipping | - | - |
 
->ℹ️ No es posible aplicar **ninguna condición** en las promociones cuyos campos se completaron como **-**, es decir, no se contemplará ninguna condición en la integración.
+>ℹ️ It is not possible to apply <strong>any</ strong> condition type in benefits whose fields were filled in as <strong>-</ strong>, that is, no condition will be taken into account in the integration.
 
-## 5 - Flujo de Pedidos
+## 5 - Order Flow
 
-### 1 - Haciendo el pedido
+### 1º - Ordering
 
-Cuando un pedido se hace en el marketplace hay algunos puntos que influencian en sus detalles, como entrega, precio y disponibilidad.
+When an order is made in the marketplace there are some points that influence its details, such as delivery, price and availability.
 
-#### Entrega:
+#### Delivery:
 
-En esta integración existen dos puntos que influenciarán en la entrega: __Cálculo del envío__ y el __Tiempo de Preparación de Envío__. La suma de los dos será el __Tiempo de Entrega Total__.
+In this integration there are two points that will influence the delivery: __Shipping Calculation__ and __Time of Shipping Preparation__. The sum of the two will be the __Total Delivery Time__.
 
->ℹ️ Ej:
+>ℹ️ Ex:
 >
 >
 > 
-> Envío normal = 3 días
+> Normal Shipping = 3 days
 >
 >
 > 
-> Tiempo de Costo = 2 días
+> Cost Time = 2 days
 >
 >
 > 
-> Tiempo Total de Entrega = 5 días
+> Total Delivery Time = 5 days
 
-- __Envío__
+- __Shipping__
 
-En el momento del pedido, de forma predeterminada, Netshoes consulta la tabla de flete registrada en VTEX y nosotros les devolvemos las opciones de flete. Es importante destacar que para que sea posible realizar la consulta, es necesario registrar la [API de envío](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-flete) en el panel de Netshoes.
+At the time of ordering, by default, Netshoes queries the shipping table registered in VTEX and we send them back the shipping options. It is worth mentioning that, in order to be able to perform the query, you must register the [Shipping API](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#shipping-api) in the Netshoes panel.
 
-La tienda tiene también la posibilidad de registrar en Netshoes una __tabela de contingencia__. De esta forma, si por alguna casualidad la integración no consigue consultar el envío en VTEX o la API de Envío no está registrada en su panel, Netshoes utiliza las informaciones de esta tabla. En este caso, Netshoes nos envía el pedido y la integración intenta hacer un *match* del envío calculado con la transportista que más se adecua en VTEX (usamos el __tipo__ de transportista como parámetro). 
+The store can also register a __contingency table__ in Netshoes. Thus, if by any chance the integration is unable to query the shipping in VTEX or if the Shipping API is not registered in their panel, Netshoes uses the information in this table. In this case, Netshoes sends us the order and the integration tries to make a shipping *match* calculated with the carrier that best fits within VTEX (we use the carrier __type__ as a parameter). If the integration can not find an equal carrier type, we integrate the order using the cheapest carrier available.
 
-Si la integración no puede encontrar un tipo de transportista igual, nosotros integramos el pedido usando la transportista más barata disponible.
+- __Shipping preparation time__
 
-- __Tiempo de preparación de envío__
+The shipping preparation time is based on the sum of the `Cost Time` field in the Inventory and the `Cost Time` at the warehouse dock. We send in bulk the same preparation time for all products.
 
-El tiempo de preparación de envío se basa en la suma del campo `Tiempo de coste` en el Inventario con el `Tiempo de Coste` en el muelle. Y enviamos el mismo tiempo de preparación de forma masiva para todos los productos.
+>ℹ️ Ex:
+>
+>
+> 
+> **Inventory A**
+>
+>
+> 
+> - Warehouse Dock 1: Cost Time = 3 days
+>
+>
+> 
+> **Inventory B**
+>
+>
+> 
+> - Warehouse Dock 1: Cost Time = 5 days
+>
+>
+> 
+>
+>
+> 
+> **Warehouse Dock 1:**
+>
+>
+> 
+> - Cost Time = 2 days
+>
+>
+> 
+>
+>
+> 
+> An order with Shipping Time = 3 days will have a different Total Delivery Time depending on where the product will depart from.
+>
+>
+> 
+>
+>
+> 
+> **Leaving Inventory A:**
+>
+>
+> 
+> - Preparation time = 3 + 2 (warehouse dock 1) = 5 days
+>
+>
+> 
+> - Shipping time = 3 days
+>
+>
+> 
+> - Total delivery time = 8 days
+>
+>
+> 
+> **Exiting inventory B:**
+>
+>
+> 
+> - Preparation time = 5 + 2 (warehouse dock 1) = 7 days
+>
+>
+> 
+> - Shipping time = 3 days
+>
+>
+> 
+> - Total delivery time = 10 days
 
->ℹ️ Ej:
->
->
-> 
-> **Inventario A**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 3 días
->
->
-> 
-> **Inventario B**
->
->
-> 
-> - Muelle 1: Tiempo de Costo = 5 días
->
->
-> 
->
->
-> 
-> **Muelle 1:**
->
->
-> 
-> - Tiempo de Costo = 2 días
->
->
-> 
->
->
-> 
-> Un pedido con tiempo de envío = 3 días se quedará con un total de entrega diferente dependiendo de dónde salga el producto.
->
->
-> 
->
->
-> 
-> **Saliendo del inventario A:**
->
->
-> 
-> - Tiempo de preparación = 3 + 2 (muelle 1) = 5 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 8 días
->
->
-> 
-> **Saliendo del inventario B:**
->
->
-> 
-> - Tiempo de preparación = 5 + 2 (muelle 1) = 7 días
->
->
-> 
-> - Tiempo de envío = 3 días
->
->
-> 
-> - Tiempo total de entrega = 10 días
+>⚠️ Note: In case of using the contingency table to calculate shipping, Netshoes does not query VTEX. In this case, the only factor that will be taken into account for **Total Delivery Time**, will be the **Shipping</ strong> provided by them, ignoring the <strong>Preparation Time**. You should be careful about this, as it may lead to discrepancies in the **Total Delivery Time**.
 
->⚠️ Nota: En el caso de usar la tabla de contingencia para hacer el cálculo del envío, Netshoes no consulta a VTEX. De esta forma, el único factor que se tendrá en cuenta para el **Tiempo total de entrega** será el **envío** proporcionado por ellos, ignorando el **Tiempo de preparación**. Se debe tener cuidado con esto, porque puede generar divergencias en el **Tiempo total de entrega**.
+#### Price/Availability:
 
-#### Precio/Disponibilidad:
+At the time of ordering, Netshoes does not check the price of the product or if it has stock. Only the last price/stock sent is considered.
 
-En el momento del pedido, Netshoes no consulta el precio del producto y tampoco si tiene stock. Se considera sólo el último precio/stock enviado.
+### 2º - Integrating the order
 
-### 2º - Integrando el pedido
-
-Los pedidos en Netshoes disponen de los propios estatus. Sigue una explicación de ellos comparando con los estatus dentro de VTEX. [Entienda más sobre el status de los pedidos de VTEX aquí.](/es/tutorial/flujo-de-pedido-en-el-oms#flujo-del-pedido-del-seller)
+Netshoes orders have their own statuses. Here's an explanation of these statuses compared to the ones used by VTEX. [Learn more about the statuses of VTEX orders here.](/en/tutorial/order-flow-on-the-oms)
 <br />
 
-| Status VTEX | Status Netshoes | Descripción del status Netshoes |
+| Status VTEX | Status Netshoes | Netshoes Status Description |
 | ---------- | ---------- | ---------- |
-| Esperando la autorización para despachar | Created | Pedido nuevo en que el pago no ha sido aprobado todavía |
-| Carencia para cancelación / Listo para el manejo / Preparando entrega | Approved | Pago aprobado |
-| Facturado | Invoiced | Nota fiscal emitida |
-| Facturado | Shipped | Pedido despachado |
-| Facturado | Delivered | Pedido entregado |
-| Cancelado | Canceled | Pedido cancelado |
+| Waiting for clearance to dispatch | Created | New order with payment not yet approved |
+| Cancellation Grace / Ready for Handling / Preparing Delivery | Approved | Payment Approved |
+| Billed | Invoiced | Invoice issued |
+| Billed | Shipped | Order shipped |
+| Billed | Delivered | Order delivered |
+| Canceled | Canceled | Order canceled |
 
 <br />
 
-Netshoes notifica a VTEX a través de la __API de Importación de Pedidos__ [(configure ahora esta API!)](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-importacion-de-pedidos) cada vez que un pedido se realiza en su plataforma, y entonces intentamos integrarlo. 
+Netshoes notifies VTEX via the __Order Import API__ [(set up this API now!)](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#orders-import-api) every time an order is made on their platform, and then we try to integrate it. 
 
-Aunque la API no está registrada, VTEX lee un feed de pedidos en Netshoes para asegurarse de que no haya pedidos perdidos! Pero de todas maneras sugerimos que la API sea catastrada, pues garantiza mucho más rapidez para integrar los pedidos, reduciendo posibilidades de ruptura en el stock.
+Even if the API is not registered, VTEX reads an order feed at Netshoes to ensure there are no lost orders! But still, we suggest that the API be registered, because it guarantees a much faster integration of orders, reducing chances of a stock break.
 
-Integramos sólo aquellos que están en los status __Created__ y __Approved__ (sea un pedido normal o pedido de cambio). Cualquier pedido que ya haya pasado de este status no será integrado ni aparecerá en los registros de integración de pedidos.
+We only integrate those which are in the __Created__ or __Approved__ statuses (be it a normal order or an exchange request). Any order that has already passed this status will not be integrated nor will it appear in order integration logs.
 
-Los pedidos se integran con el mismo ID utilizado en Netshoes. Las solicitudes de cambio tendrán su ID complementado con un `"T"` al final.
+The orders are integrated with the same ID used in Netshoes. Exchange requests will have their ID supplemented with a `"T"` at the end.
 
-_`Ej:` pedido orignial - 6704259 | solicitud de cambio - 6704259T_
+_`Ex:` orignial order - 6704259 | exchange request - 6704259T_
 
-Si un pedido no se integra en el primer intento, hay un retry automático para errores no conocidos por la integración o temporales (throttling, servicios no disponibles 503, entre otros). Si es un error que se conoce, como divergencia en el valor del pedido, errores de SLA, etc., la integración no hace retry. 
+If an application does not integrate on the first attempt, there is an automatic retry for errors not known by the integration or temporary errors (throttling, unavailable services 503, among others). 
 
-Para que los pedidos con estos errores sean integrados, será necesario hacer alguna acción ([ver más sobre errores conocidos de Netshoes aquí](/es/faq/errores-en-bridge-como-solucionar#netshoes)).
+If it's a mapped error, such as divergence in the value of the order, SLA errors, etc., the integration does not retry. For orders with these errors to be integrated, you will need to do some action ([see more about known Netshoes bugs here](/en/faq/errors-in-bridge-how-to-solve#netshoes)).
 
-### 3º - Interacciones en el pedido
+### 3º - Interactions in the order
 
-Una vez que el pedido está integrado, algunas interacciones, en el panel de VTEX o en la propia Netshoes, serán aplicadas de los dos lados. Esto vale para:
+Once the order is integrated, some interactions, either in the VTEX panel or in Netshoes itself, will happen on both sides. This applies to:
 
-- Cancelar un pedido en Netshoes - la integración cancela el pedido en VTEX
-- Facturación de un pedido en VTEX - la integración facturará y actualizará el status del pedido en Netshoes (como explica el tema 5.4)
+- Canceling an order in Netshoes - the integration cancels the order in VTEX
+- Billing an order in VTEX - the integration will invoice and update the order status in Netshoes (as explained in topic 5.4)
 
-Sin embargo, otras acciones tomadas no se reflejan entre las plataformas:
-- Cancelar un pedido en VTEX - la integración no cancela el pedido en Netshoes
-- Facturación del pedido en Netshoes - la integración no le factura en VTEX
+However, other actions taken are not reflected between platforms:
+- Canceling an order in VTEX - the integration does not cancel the order in Netshoes
+- Billing the order in Netshoes - the integration will not invoice it in VTEX
 
-### 4º - Facturación del pedido
+### 4º - Billing the order
 
-Al facturar el pedido en VTEX, la integración actualiza el status en Netshoes a __invoiced__, __shipped__ y, por último, __delivered__. Sin embargo, para que esto suceda, es necesario que algunos campos específicos se rellenen de acuerdo con cada status. [Entenda más sobre el llenado de estos campos aquí](https://developers.vtex.com/vtex-developer-docs/docs/erp-integration-guide).
+When you invoice the order in VTEX, the integration updates the status in Netshoes for __invoiced__, __shipped__, and finally __delivered__. However, for this to happen, some specific fields must be filled in according to each status. [Learn more about completing these fields here](https://developers.vtex.com/vtex-developer-docs/docs/erp-integration-guide).
 
-- Para cambiar el status a __invoiced__ será necesario:
-  - `invoiceKey`, `invoiceNumber` y `issuanceDate`
+- To change the status to __invoiced__ you will need:
+  - `invoiceKey`, `invoiceNumber` and `issuanceDate`
 
-- Para cambiar el status a __shipped__ será necesario:
-  - `trackingNumber`, `trackingUrl` y `courier`
+- To change the status to __shipped__ you will need:
+  - `trackingNumber`, `trackingUrl` and `courier`
 
-- Para cambiar el status a __delivered__ será necesario:
-  - `courierStatus`: este es un campo que puede ser populado automáticamente (vía [actualizaciones de rastreo de los propios transportistas](https://help.vtex.com/es/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) o manualmente (vía API o interfaz del OMS).
+- To change the status to __delivered__ you will need:
+  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](https://help.vtex.com/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).

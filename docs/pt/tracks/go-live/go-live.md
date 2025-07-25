@@ -9,69 +9,71 @@ firstPublishedAt: 2022-12-09T22:07:42.750Z
 contentType: trackArticle
 productTeam: Reliability
 slugEN: go-live
-locale: pt
+locale: en
 trackId: 4Ns5FxIiksmjsdX2yOTduM
-trackSlugPT: go-live
+trackSlugEN: go-live
 ---
 
-Após a conclusão dos passos descritos anteriormente, é neste estágio que sua loja entrará em produção de fato. Para isso acontecer, [realize o apontamento de DNS](#realizar-apontamento-de-dns) e depois [notifique o apontamento](#notificar-apontamento) à plataforma.
+After completing the steps described previously, in this stage your store will go into production. For this to happen, you need to [set up DNS pointing](#setting-up-dns-pointing) and then [notify the pointing](#notify-the-pointing) to the platform.
 
-## Realizar apontamento de DNS
+## Setting up DNS pointing
 
-Na zona de DNS do seu domínio, você deve criar uma entrada do tipo CNAME no subdomínio desejado para o seguinte destino:
+In the DNS zone of your domain, you should create a CNAME-type entry in the desired subdomain for the following destination:
 ```
-{domínio}.cdn.vtex.com
+{domain}.cdn.vtex.com
 ```
 
-Note que o `{domínio}` indicado acima deve ser o mesmo que você [cadastrou na VTEX](https://help.vtex.com/pt/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#cadastrar-dominio-na-vtex).
+Note that the `{domain}` indicated above has to be the same as the one you [registered on VTEX](https://help.vtex.com/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex).
 
->⚠️ Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo [Como desabilitar o proxy no Cloudflare](https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
+<div class="alert-warning">
+If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the <a href="https://help.vtex.com/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb">How to disable the proxy in Cloudflare</a> article.
+</div>
 
-Alguns exemplos:
+See some examples:
 
 ```
-Endereço da loja: www.site.com
-  - Entrada (subdomínio): www
+Store host: www.site.com
+  - Subdomain: www
+  - Type: CNAME
+  - Destination: www.site.com.cdn.vtex.com
+```
+```
+Store host: www.site.com.br
+  - Subdomain: www
+  - Type: CNAME
+  - Destination: www.site.com.br.cdn.vtex.com
+```
+```
+Store host: store.mycompany.com
+  - Subdomain: store
+  - Type: CNAME
+  - Destination: store.mycompany.com.cdn.vtex.com
+```
+```
+Store host: www.store.mycompany.com.br
+  - Subdomain: www.store
   - Tipo: CNAME
-  - Destino: www.site.com.cdn.vtex.com
-```
-```
-Endereço da loja: www.site.com.br
-  - Entrada (subdomínio): www
-  - Tipo: CNAME
-  - Destino: www.site.com.br.cdn.vtex.com
-```
-```
-Endereço da loja: loja.minhaempresa.com
-  - Entrada (subdomínio): loja
-  - Tipo: CNAME
-  - Destino: loja.minhaempresa.com.cdn.vtex.com
-```
-```
-Endereço da loja: www.loja.minhaempresa.com.br
-  - Entrada (subdomínio): www.loja
-  - Tipo: CNAME
-  - Destino: www.loja.minhaempresa.com.br.cdn.vtex.com
+  - Destino: www.store.mycompany.com.br.cdn.vtex.com
 ```
 
-Atente-se que o início do domínio ("loja", "www", "www.loja" ou qualquer outro) e a terminação (".com", ".com.br", ".com.ar" ou qualquer outro) fazem parte do `{hostname}`, e devem estar no CNAME de destino.
+Note that the subdomain (`store`, `www`, `www.store` or others) and the top-level domain (`.com`, `.com.br`, `.com.ar`, or others) are part of the `{hostname}` and must be in the CNAME destination.
 
->❗ Não pode haver nenhum apontamento tipo A coexistindo com o CNAME descrito acima. A coexistência destes dois apontamentos pode causar problemas no Go Live da sua loja. Mantenha apenas o apontamento CNAME descrito acima.
+>❗ There can not be any type A pointing coexisting with the CNAME pointing described above. This coexistence may cause issues in your go-live. Maintain only the CNAME pointing described above.
 
-A propagação do apontamento de DNS demora de 24 a 48 horas para ocorrer completamente, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração. Além disso é necessário [notificar o apontamento](#notificar-apontamento) para que a loja fique disponível.
+It takes 24-48 hours for DNS pointing to propagate fully, which means that the configured address may not be accessible to everyone immediately after configuration. Also, [notifying the pointing](#notifying-the-pointing) is required for the store to be available.
 
-## Notificar apontamento
+## Notifying the pointing
 
-Uma vez que você realizou o apontamento de DNS, notifique à plataforma VTEX seguindo os passos abaixo:
+Once you have done the DNS pointing, you need to notify the VTEX platform by following the steps below:
 
-1. Acesse o Admin VTEX.
-2. Na seção **CONFIGURAÇÕES DA CONTA**, clique em **Gerenciamento da conta**.
-3. Clique em **Conta**.
-4. Clique no botão `Salvar` mesmo que não tenha feito alterações.
+1. Log in to the VTEX Admin.
+2. In the **ACCOUNT SETTINGS** section, click **Account Management**.
+3. Click **Account**.
+4. Click `Save` even if you have not made any changes.
 
-Assim que for feita a notificação, a loja já estará disponível, mas ainda aguardando a emissão do certificado SSL, o que deve acontecer em até dez minutos.
+Once the notification is sent, the store will be available, but still awaiting the issuance of the SSL certificate, which should happen within 10 minutes.
 
-Caso ocorra alguma falha ao gerar o certificado, seja por atraso na propagação do domíno ou algum tipo de erro, ao acessar o site você verá uma mensagem de que o certificado SSL está sendo gerado. Se isto permanecer por mais de trinta minutos após a notificação de apontamento, abra um ticket com o [suporte VTEX](https://help.vtex.com/pt/support) com prioridade urgente.
+In case of a failure to generate the certificate, either due to delay in the propagation of the domain or some type of error, when you access the site you will see a message informing that the SSL certificate is being generated. If it remains for more than thirty minutes after the pointing notification, open a ticket with [VTEX support](https://help.vtex.com/en/support) with urgent priority.
 
-O certificado é gerado por meio da [Let's Encrypt](https://letsencrypt.org/) e tem validade de 90 dias. Sua renovação é feita automaticamente até cinco dias antes do vencimento, bastando que o domínio esteja apontado corretamente para a VTEX.
+The certificate is generated through [Let's Encrypt](https://letsencrypt.org/) and is valid for 90 days. However, it is automatically renewed within five days before expiration, as long as the domain is correctly pointed to VTEX.
 

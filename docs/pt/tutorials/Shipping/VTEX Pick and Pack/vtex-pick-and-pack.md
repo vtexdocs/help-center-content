@@ -10,35 +10,35 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-pick-and-pack
-locale: pt
+locale: en
 legacySlug: vtex-pick-and-pack
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
+>ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
 
-**VTEX Pick and Pack** é a solução que permite aos comerciantes gerenciar a coleta, o empacotamento e a entrega de pedidos a partir de lojas físicas e estoques para endereços de clientes ou [pontos de retirada](https://help.vtex.com/pt/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Todo o gerenciamento é feito em um só lugar, gerando maior controle e visibilidade para os comerciantes em todo o processo de fulfillment.
+**VTEX Pick and Pack** is the solution that enables merchants to manage order picking, packing, and delivery from physical stores and warehouses to customers’ addresses or [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). All management is made in one place, providing visibility and control for merchants through the whole fulfillment process.
 
-## Funcionalidades
+## Capabilities
 
-Veja algumas das funcionalidades do **VTEX Pick and Pack**:
+Some of the **VTEX Pick and Pack** capabilities are the following:
 
-* O **entregador**, responsável pela separação de itens pedido, recebe uma notificação em seu próprio dispositivo para iniciar o processo de coleta, sem ter acesso ao Admin da loja.
-* O **comerciante** pode configurar os pacotes e imprimir as etiquetas com códigos de barras, permitindo que o entregador digitalize os códigos de barras e evite problemas de coleta.
-* O **comerciante** pode habilitar a comunicação entre o entregador e o cliente para resolver cenários de substituição, recusa ou adição de itens.
-* O **comerciante** pode gerenciar a agenda do entregador durante o processo de envio, e o rastreamento do pedido ocorre em tempo real.
-* A rota do **motorista** é otimizada e compatível com o Google Maps e Waze.
-* O **motorista** pode fazer o upload de comprovantes de entrega dos pedidos, com observações, assinaturas e fotos. 
+* The **picker** receives a notification on their own device to start the picking process, and has no access to the store’s Admin.
+* The **merchant** can configure packages and print labels with barcodes, so the picker can scan the barcodes and avoid mispicks.
+* The **merchant** can enable the communication between the picker and the customer to resolve scenarios like the replacement, rejection or addition of items.
+* The **merchant** can manage the driver schedule during the shipping process, and the order tracking occurs in real-time.
+* The **driver**’s route is optimized and compatible with Google Maps and Waze.
+* The driver can upload proof of pick-up and delivery of parcels: notes, signatures and pictures. 
 
-Com o **VTEX Pick and Pack**, os comerciantes também podem obter dados e análises sobre o processo de fulfillment, adotando uma abordagem orientada a dados para melhorar o desempenho dos entregadores, otimizar as distribuições em lojas físicas e estoques e aumentar a eficiência logística em geral.
+With **VTEX Pick and Pack**, merchants can also collect data and analytics on the fulfillment process, in a data-driven approach to improve pickers’ performance, optimize physical stores and warehouses distributions, and increase logistics efficiency overall.
 
-## Fulfillment, Last Mile e aplicativos móveis 
+## Fulfillment, Last Mile and mobile applications 
 
-O **VTEX Pick and Pack** é uma solução composta por:
+**VTEX Pick and Pack** is a solution composed of:
 
-* **[Fulfillment](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** aplicativo do Admin que permite a comunicação entre o entregador e o operador da loja. Os entregadores podem escanear itens usando seus dispositivos móveis e, se os operadores da loja permitirem, podem gerenciar alterações nos pedidos, como substituir, remover e adicionar itens. Os entregadores podem receber permissão para se comunicar com os clientes através de seus próprios dispositivos, sem acesso ao Admin da loja.
-* **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** aplicativo do Admin para o operador da loja instruir os entregadores sobre a coleta e entrega dos pedidos no endereço dos clientes ou nos pontos de retirada. Inclui a otimização de rotas e comprovação de coleta e entrega, ou seja, o entregador pode fazer o upload de uma assinatura do cliente, uma foto ou uma observação que confirme que a entrega foi feita. 
-* **Aplicativos móveis:** aplicativos para dispositivos móveis destinados exclusivamente para entregadores, para que eles possam realizar suas atividades sem acessar o Admin da loja.
+* **[Fulfillment](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** Admin app that enables the communication between the picker and the store operator. Pickers can scan items using their mobile devices and, if the store’s operators allow them to, they can manage order changes, like replacing, removing and adding items. Pickers can gain permission to communicate with customers through their own devices, with no access to the store's Admin.
+* **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** Admin app for the store operator to instruct delivery drivers from their own fleet about collecting and delivering orders to customers’ address or pickup points. It includes route optimization and proof of collecting and delivering, meaning the driver can upload the customer's signature, a picture, or a note confirming the delivery was made.  
+* **Mobile Applications:** Applications for mobile devices meant exclusively for pickers and drivers, so that they fulfill their parts with no access to the store’s Admin.
 
->ℹ️ Os apps de **Fulfillment** e **Last Mile** para entregadores e motoristas estão disponíveis apenas para dispositivos Android.
+>ℹ️ **Fulfillment** and **Last Mile** apps for pickers and drivers are available only for Android devices.
 

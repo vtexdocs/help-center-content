@@ -10,72 +10,72 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: analytics
-locale: es
+locale: en
 legacySlug: analytics
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 ---
 
-**Analytics** es una pantalla en el VTEX Intelligent Search que organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar esos datos en un archivo .csv.
+**Analytics** is a page in VTEX Intelligent Search that organizes the data related to the searches carried out in the store and allows you to export this data in a CSV file.
 
-Con esta información, podrá ver el desempeño de los resultados de la búsqueda y de los términos de búsqueda de [Autocomplete](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) y realizar acciones para mejorar el rendimiento, como configurar una redirección o registrar un nuevo sinónimo.
+It provides insights into the performance of search results and [Autocomplete](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) search terms. This way, you can take actions to improve performance, such as creating redirects or adding synonyms.
 
-A continuación se indican los pasos necesarios para acceder a la página:
+Follow the steps below to access the page:
 
-1. En el Admin VTEX, accede a **Storefront**, o escribe **Storefront** en la barra de búsqueda en la parte superior de la página.
-2. En __Intelligent Search__, haz clic en __Analytics__. 
+1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
+2. Under __Intelligent Search__, click __Analytics__. 
 
->ℹ️ La página **Analytics** es nativa en VTEX Intelligent Search. No se puede deshabilitar en el Admin.
+>ℹ️ The **Analytics** page is native to VTEX Intelligent Search. You cannot disable it in the Admin.
 
-## Datos
+## Data
 
-Los datos que componen el informe se actualizan cada 4 horas y contienen la siguiente información:
+The report data is updated every four hours and contains the following information:
 
-*   **Término de búsqueda**: contenido de las búsquedas realizadas. 
-*   **Búsquedas**: número de búsquedas realizadas para un término específico. Cuando el cliente busca un término en la tienda y hace clic en otra página o actualiza la página, también se cuenta como una búsqueda. 
-*   **Clics**: número total de clics en los resultados de búsqueda de un término. 
-*   **Clics únicos**: número de clics en los resultados de búsqueda de un término, excluyendo los clics repetidos de un mismo usuario. Indica el número de personas que han hecho clic en un determinado resultado a partir de la búsqueda. 
-*   **CTR _(click-through rate)_**: la tasa de clics según el total de búsquedas. Esta tasa se calcula de la siguiente forma: `(Clics/Búsquedas) * 100`. 
-*   **Conversión**: tasa de conversión de los términos buscados. El cálculo de la conversión sigue la fórmula: `(Pedidos/Clics únicos) * 100`.  Es posible que la tasa de conversión sobrepase el 100 %, ya que toma en cuenta la cantidad de pedidos efectuados entre clics. Por ejemplo, es posible que el usuario realice más de un pedido utilizando el término _camisa_ y, en ese caso, la conversión sería mayor que el 100 %.
-*   **Pedidos**: número de pedidos realizados desde la búsqueda. Para calcular esta métrica, consideramos que la búsqueda genera un pedido cada vez que, después buscar un término, el cliente hace clic en algún producto que aparece en los resultados y luego compra cualquier producto (no necesariamente el producto en el que hizo clic). 
-*   **Ventas**: ingresos totales generados por los pedidos realizados a partir de la búsqueda. El cálculo sigue la misma lógica que la métrica de **Pedidos**, la diferencia es que el resultado refleja los ingresos en lugar del número de pedidos.
+* **Terms**: the content that users searched for.
+* **Searches**: number of searches performed for a specific term. If the customer searches for a term in the store but clicks on a different page or refreshes the current page, it will also be counted as a new search.
+* **Clicks**: total number of clicks on search results for a term.
+* **Unique clicks**: the number of unique users that have clicked on search results for a term. Indicates the number of people who clicked on a particular search result.
+* **CTR**: stands for click-through rate. It is the ratio of clicks to the total number of searches. This rate is calculated as follows: `(Clicks/Searches) * 100`.
+* **Conversion**: conversion rate of the searched terms. The conversion rate is calculated based on the formula: `(Orders/Unique clicks) * 100`. The conversion rate can be over 100%, because it takes into account the number of orders placed between clicks. For example, it is possible that the user places more than one order using the term _t-shirt_, so the conversion would be greater than 100%.
+* **Orders**: number of orders placed from the search results. To calculate this metric, we consider all orders placed after the customer clicked on a search result, even if they ended up buying a different product than the one they clicked on.
+* **Sales**: the total revenue generated by orders placed from the search results. The calculation follows the same logic as the **Orders** metric, the difference being that the result reflects the revenue instead of the number of orders.
 
->ℹ️ Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que [exportar el informe](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacion).
+>ℹ️ The data displayed in the report is limited to the top 10,000 search terms. If you want the complete search data for your store, you must [export the report](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exporting-reports).
 
-Cuando se elige [exportar un informe](#exportacion), también existe la posibilidad de generarlo con las __métricas de embudo__. Si se selecciona esa opción, se agregarán 4 nuevas columnas al archivo:
+When you opt to [export a report](#exporting-reports), you can generate it **With funnel metrics**. If this option is selected, four new columns will be added to the file:
 
-* **ProductClicks**: dado un término de búsqueda, esta columna muestra los ID de los productos en los que se han hecho clic y el número de clics que se han producido, respectivamente. Por ejemplo: `3378|1`; `3659|2`; `4038|3` significa que se ha hecho clic 1 vez en el producto con ID 3378, se ha hecho clic 2 veces en el producto con ID 3659, y se ha hecho clic 3 veces en el producto con ID 4038. 
-* **PositionClickAverage**: dado un término de búsqueda, esta columna muestra los ID de los productos en los que se ha hecho clic y su posición promedio en la lista de resultados. Por ejemplo: `4321|1` significa que el producto cuyo ID es 4321 ocupa el primer lugar como posición promedio en la lista de resultados de la búsqueda.
-* **ProductsAddToCart**: dado un término de búsqueda, esta columna muestra los ID de los productos que han sido añadidos al carrito y la cantidad añadida, respectivamente. Por ejemplo: `3380|1`; `3910|2` significa que se ha añadido al carrito 1 unidad del producto con ID 3380, y que se han añadido 2 unidades del producto con ID 3910 al carrito. 
-* **ProductsSold**: dado un término de búsqueda, esta columna muestra los ID de los productos que fueron vendidos y la cantidad vendida, respectivamente. Por ejemplo: `3500|1` significa que se ha vendido 1 unidad del producto con ID 3500. 
+* **ProductClicks**: for a given search term, this column shows the IDs of the products that have been clicked on and the number of clicks they received. For example, `3378|1`; `3659|2`; `4038|3` means that the product with the ID 3378 has been clicked on one time, the product with the ID 3659 has been clicked on two times and the product with the ID 4038 has been clicked on three times.
+* **PositionClickAverage**: for a given search term, this column shows the IDs of the products that have been clicked on and their average position in search results. For example, `4321|1` means that, on average, product 4321 is the first item in search results.
+* **ProductsAddToCart**: for a given search term, this column shows the IDs of the products that have been added to the shopping cart and their quantity. For example, `3380|1`; `3910|2` means that one unit of the product with the ID 3380 has been added to the cart and that two units of the product with the ID 3910 have been added to the cart.
+* **ProductsSold**: for a given search term, this column shows the IDs of the products that have been sold and their quantity. For example, `3500|1` means that 1 unit of the product with the ID 3500 has been sold.
 
-## Filtros
+## Filters
 
-Como opción para restringir los datos, la pantalla **Analytics** permite combinar criterios. Consulte a continuación las opciones de filtros disponibles:
+The **Analytics** page allows you to combine different filters to limit the data displayed. See below the filter options available:
 
-* **Búsqueda** o **Autocomplete** 
-* **Con resultados** o **Sin resultados**: elegir entre las búsquedas que obtuvieron resultados o no. 
-* **Todos**, **Celular** o **Computador**: limitar los dispositivos en los que se han realizado las búsquedas. 
-* **Hoy**, **Ayer**, **Últimos 7 días**, **Últimos 30 días** y **Personalizar**: seleccionar el periodo a analizar. La opción **Personalizar** permite introducir fechas de inicio y de fin que se deben considerar. 
+*   **Search** or **Autocomplete**.
+*   **With results** or **With empty results**: choose between searches that returned results or searches that returned empty results.
+*   **All**, **Mobile **or **Desktop**: limit the devices on which the searches have been performed.
+*   **Today**, **Yesterday**, **Last 7 days**, **Last 30 days**, and **Custom:** select the period you want to analyze. The **Custom** option allows you to set the start and end dates.
 
-La página **Analytics** solo muestra información para un intervalo de un mes. Si desea acceder a los datos de un periodo de hasta 6 meses, debe [exportarlos en un archivo con formato CSV](#exportacion).
+The **Analytics** page only displays information for a maximum period of one month. To access data for a period of up to 6 months, please [export a CSV file](#exporting-reports).
 
-## Exportación
+## Exporting reports
 
-Para exportar un informe en formato CSV, debe seguir los pasos que se indican a continuación.
+To export a report in .csv format, you must follow the steps below:
 
-1. En la página **Storefront** > **Intelligent Search** > **Analytics**, haga clic en `Exportar`. 
-2. Configure los filtros del informe que se generará. 
-3. Elija si desea marcar la opción **Con métricas de embudo** o no. Si se selecciona, esta opción agrega las columnas **[ProductsClick, PositionClickAverage, ProductsAddToCart y ProductsSold](#datos)** al archivo, correlacionando la información sobre el número de clics y ventas con los ID de los productos buscados. 
-4. A continuación, haga clic en `Exportar`. 
-5. Espere a que el archivo esté disponible para su descarga. Salir de esta página no interrumpe el proceso. 
-6. Haga clic en `Descargar`. 
+1. On the **Storefront** > **Intelligent Search** > **Analytics** page, click on the `Export` button.
+2. Set the filters for the report you want to generate.
+3. Choose whether to check the option **With funnel metrics**. If you check this option, the [columns ProductsClick, PositionClickAverage, ProductsAddToCart, and ProductsSold](#data) will be added to the file — showing the correlation between number of clicks, sales, and searched for products.
+4. Then click on `Export`.
+5. Wait until the file is available for download. Leaving this page will not interrupt the process.
+6. Click on `Download`.
 
->ℹ️ El archivo permanece disponible para descarga durante 48 horas.
+>ℹ️ The file will be available for download for 48 hours.
 
-El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
+The report (CSV file) you have downloaded contains two tables. The first table contains information about searched terms, as illustrated below. It also shows funnel metrics (from the **ProductsClick** column to the **ProductsSold** column) if you have selected this option.
 
-![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/5910a3f67d31b5270841e5d4ef2f31bd/search-report-term.png)
+![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/a16b574485adf9cb41ab258a3c169881/search-report-term.png)
 
-La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
+The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 
-![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/50c65ac3ba4741c35fe820fd265b78de/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)

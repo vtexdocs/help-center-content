@@ -1,5 +1,5 @@
 ---
-title: 'Interfaz de la integración configurada'
+title: 'Interface of the configured integration'
 id: DmcxFAdyCC7t0a72hIXeT
 status: PUBLISHED
 createdAt: 2021-09-30T16:44:47.202Z
@@ -9,34 +9,36 @@ firstPublishedAt: 2021-09-30T18:49:28.436Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: interface-da-integracao-configurada
-locale: es
+locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugES: integracion-con-facebook-business-extension
+trackSlugEN: integration-with-facebook-business-extension
 ---
 
-Una vez completada la integración con la aplicación _Facebook Business Extension y Conversions API_, al acceder a **Admin VTEX > módulo MARKETPLACE > Facebook**, verás la centralización de comandos para configurar y gestionar los nuevos activos de Facebook.
+Once the integration with the _Facebook Business Extension and Conversions API_ app is complete, in **VTEX Admin > MARKETPLACE > Facebook** you will have access to the commands to configure and manage new Facebook assets.
 
-En esta interfaz, hay tres secciones principales: [Status](#status), [Funcionalidades](#funcionalidades) y [Catálogo](#catalogo).
+In this interface, there are three main sections: [Status](#status), [Features](#features), and [Catalog](#catalog).
 
-![Facebook business Extension](https://images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/1d4259b9f13c33754d31d3589dc81daf/print_interface_es.png)
+![Facebook business Extension](https://images.ctfassets.net/alneenqid6w5/0FVc54WxGh3BorDpQkkzI/c8f361520bb7cc8b7678de112ad67b1d/print_interface_en.png)
 
 ## Status
 
-En esta sección puedes ver el status de tu conexión con Facebook, el ID del Píxel de Facebook y el ID del catálogo. Además, hay un botón de desinstalación.
+This is the section where you can view the status of your connection with Facebook, as well as the Facebook Pixel ID and Catalog ID. There is also an **Uninstall** button.
 
-### Botón Desinstalar
+### Uninstall button
 
-En cualquier momento puedes eliminar la integración de la aplicación _Facebook Business Extension y Conversions API_. Esto se realiza en dos etapas, una en el Admin VTEX y la otra en el _toolbelt_ de VTEX IO.
+You can remove the _Facebook Business Extension and Conversions API_ app integration at any time. This must be performed in two steps: one via the VTEX Admin and one via the VTEX IO Toolbelt.
 
-La desinstalación en el Admin VTEX detiene la sincronización del catálogo y revoca tu acceso de usuario al sistema creado para la integración. Esto significa que la integración se desconfigurará, pero se puede rehacer en cualquier momento. Para ello, ve a **Admin VTEX > módulo MARKETPLACE > Facebook** y haz clic en el botón **Desinstalar**. En la nueva pantalla, haz clic en **Desinstalar**.
+Uninstalling the app via the VTEX Admin interrupts the catalog synchronization and revokes your user access to the system created for the integration. This means that the integration will be deconfigured, but it can be reconfigured at any time. To do so, go to **VTEX Admin > MARKETPLACE > Facebook** and click on the **Uninstall** button. On the pop-up window, click on **Uninstall**.
 
-## Funcionalidades
+Uninstalling the app via the command-line interface, i.e., VTEX IO Toolbelt, causes integration events to no longer be triggered. To perform this action, use the [Uninstall](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-command-reference#uninstall) command. Remember that this does not impact your access to Facebook features, which is only interrupted by using the **Uninstall** button in the VTEX Admin.
 
-En esta sección, puedes habilitar las funcionalidades de Facebook que no han sido configuradas automáticamente por la integración. Para ello, haz clic en **CONFIGURAR FUNCIONALIDADES**. Serás redirigido al ambiente de Facebook para que explores las opciones de herramientas y servicios.
+## Features
 
-## Catálogo
+In this section, you can enable Facebook features that have not been automatically configured by the integration. To do so, click on **CONFIGURE FEATURES**. You will be redirected to the Facebook environment, where you can explore options for tools and services.
 
-En esta sección hay dos botones que realizan las siguientes funciones:
+## Catalog
 
-- **Detalles de la integración:** redirige al usuario a la página de integración de los productos enviados a FBE. Esta página también se puede encontrar en _Admin VTEX > módulo MARKETPLACE > Integraciones > Productos_.
-- **Configuración de la integración:** redirige al usuario a una pantalla con campos rellenados relativos a la integración. En esta pantalla, puedes modificar la información utilizada en la integración con FBE.
+In this section, there are two buttons with the following functions:
+
+- **Integration details:** redirects the user to the integration page of products sent to FBE. This page can also be found in _VTEX Admin > MARKETPLACE > Integrations > Products_.
+- **Integration settings:** redirects the user to a screen with fields related to the integration, which are already filled out. On this screen, you can change information used in the integration with FBE.

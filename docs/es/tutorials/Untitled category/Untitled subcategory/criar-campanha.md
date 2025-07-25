@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 
 slugEN: criar-campanha
-locale: es
+locale: en
 legacySlug: criar-campanha
 subcategoryId: unknown-subcategory
 ---

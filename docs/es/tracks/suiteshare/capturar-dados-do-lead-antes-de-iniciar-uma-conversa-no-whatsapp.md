@@ -1,5 +1,5 @@
 ---
-title: 'Captura de datos de clientes potenciales antes de iniciar una conversación de WhatsApp'
+title: 'Capture lead data before starting a WhatsApp conversation'
 id: 5dcakrZEc8aOTG7OshTPWp
 status: PUBLISHED
 createdAt: 2022-08-25T17:55:53.070Z
@@ -9,9 +9,9 @@ firstPublishedAt: 2022-08-26T14:31:57.400Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp
-locale: es
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugES: suiteshare
+trackSlugEN: suiteshare
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

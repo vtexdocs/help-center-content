@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Undefined
 author: 
 slugEN: kr1-test
-locale: es
+locale: en
 legacySlug: kr1-test
 subcategoryId: unknown-subcategory
 ---

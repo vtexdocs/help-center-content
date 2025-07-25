@@ -1,5 +1,5 @@
 ---
-title: 'O que são Sinônimos'
+title: 'Untitled'
 id: 5h258Jj2xl6WdempkFiPBg
 status: ARCHIVED
 createdAt: 2019-11-25T18:06:45.875Z
@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: unknown
 slugEN: o-que-sao-sinonimos
-locale: pt
+locale: en
 trackId: 
-trackSlugPT: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

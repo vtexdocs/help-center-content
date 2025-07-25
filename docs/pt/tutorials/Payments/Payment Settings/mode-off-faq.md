@@ -10,72 +10,67 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: mode-off-faq
-locale: pt
+locale: en
 legacySlug: mode-off-faq
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O mode-off é um recurso do [Payment Provider Protocol](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-protocol "Payment Provider Protocol"), o protocolo de integração para pagamentos da VTEX. 
+Mode-off is a feature of the VTEX [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol "Payment Provider Protocol").
 
-Essa funcionalidade permite que a VTEX acompanhe a saúde e a estabilidade dos seus parceiros de pagamentos, garantindo que pedidos não sejam cancelados por conta de instabilidades. 
+This feature allows VTEX to track their payment partners’ health and stability, ensuring that the system will not cancel orders due to instabilities.
 
-O mode-off funciona da seguinte forma: quando a VTEX identifica algum tipo de erro consecutivo nas integrações dos parceiros de pagamento, o status mode-off é ativado para represar as transações de cartão de crédito. 
+Mode-off works as follows: when VTEX identifies consecutive errors in its payment partners’ integrations, the mode-off status is activated to interrupt credit card transactions. 
 
-Assim que a integração ou o parceiro apresentarem estabilidade novamente, o status mode-off é desativado e o nosso sistema começa a fazer as retentativas de processamento das transações que foram represadas.
+As soon as the integration or partner is stable again, the mode-off status is deactivated, and our system will run processing reattempts for the transactions on standby.
 
-Neste artigo, reunimos as principais dúvidas sobre o funcionamento do mode-off. 
+Check out the main questions about the mode-off feature below:
 
-Confiras as questões a seguir.
+## Do all partners have this feature activated?
 
-## Todos os parceiros têm essa funcionalidade habilitada?
+Yes, all VTEX payments partners have the mode-off activated.
 
-Sim, todos os parceiros de pagamentos da VTEX têm o mode-off habilitado.
+## What payment methods are covered by the mode-off?
 
-## O mode-off funciona para quais meios de pagamento?
+Mode-off is only applicable to payment methods that can be processed asynchronously—namely, credit card.
 
-Apenas para os meios de pagamento que podem ser processados de forma assíncrona. Ou seja, cartão de crédito.
+## Does the mode-off work for payments with “boleto” (popular Brazilian off-line payment method), QR code, or redirect?
 
-## O mode-off funciona para os meios de pagamento boleto, QR code ou redirect?
+No, these payment methods require an online response and cannot be processed asynchronously. For this reason, there are no reattempts for transactions made with them.
 
-Não, esses meios de pagamento demandam uma resposta on-line e não podem ser processados de forma assíncrona. 
+## What’s the current rule to activate the mode-off?
 
-Desse modo, para esses meios de pagamento, as transações não serão reprocessadas.
+The mode-off feature is activated if the partner or integration presents any instability identified through error messages, such as 500 and 408, or a timeout longer than 30 seconds over the last five minutes. This rule applies to all payment methods processed in mode-off.
 
-## Qual a regra atual para ligar o mode-off?
+>⚠️ Please remember that synchronous payment methods **cannot** be reprocessed. However, they count as errors for identifying whether a partner is stable.  
 
-O mode-off é ligado quando o parceiro ou a integração apresentam instabilidade identificada a partir do retorno de mensagens de erro do tipo: 500, 408 ou timeout maior que 30 segundos nos últimos cinco minutos. Essa regra é válida para todos os meios de pagamento que ele processa.
+## What is the rule to deactivate the mode-off?
 
->⚠️ Vale lembrar que os meios de pagamento síncronos **não** poderão ser reprocessados. Porém, entram na contagem de erros para identificarmos se um parceiro está instável ou não.
+Transactions shall be resumed when the partner stops experiencing a rate of five errors over the last five minutes. 
 
-## Qual a regra para o mode-off ser desligado?
+## For how long VTEX runs processing reattempts for transactions on standby?
 
-As transações serão liberadas normalmente quando o parceiro parar de apresentar a mesma taxa de cinco erros nos últimos cinco minutos. 
+The time between transaction processing reattempts (_retries_) can be defined by the partner when sending payment information. When configuring the payment cancellation time (`delayToCancel` field) for a period of less than 1 day, retry attempts will be made every 1 hour. If the time to cancel the payment is set to be equal to or greater than 1 day, retry attempts will be made every 4 hours. For more information, visit [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
-## Por quanto tempo a VTEX faz a retentativa de processamento das transações represadas?
+>ℹ️ If payment is made by [PIX (Brazilian instant payment method)](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) or the payment cancellation time is set between 5 minutes and 1 hour, retry calls will occur every 5 minutes.
 
-O tempo entre retentativas de processamento da transação (_retries_) pode ser definido pelo parceiro no momento do envio das informações de pagamento. Ao configurar o tempo para cancelamento do pagamento (campo `delayToCancel`) para um período menor que 1 dia, as retentativas serão realizadas a cada 1 hora. Se o tempo para cancelar o pagamento for definido como igual ou maior que 1 dia, as retentativas serão realizadas a cada 4 horas. Para mais informações, acesse [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
+## How to identify the mode-off? What to do if it is active?
 
->ℹ️ Caso o pagamento seja realizado por [PIX](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.
+The payment partner will note a high error rate and a reduction in the number of credit card payments. 
 
-## Como identificar o mode-off e o que fazer quando ele estiver ligado?
+At this point, it’s essential to work to fix the instability. You should also reassure your clients by informing them the payments will be processed as soon as the system regains stability. 
 
-O parceiro de pagamentos passa a enxergar uma alta taxa de erros e redução no volume de pagamentos feitos com cartão. 
+## How do retailers identify instability? What should they do?
 
-Nesse momento, é importante trabalhar para corrigir a instabilidade e tranquilizar os clientes de que os pagamentos serão processados assim que o sistema recuperar sua estabilidade. 
+Retailers will see various credit card payments with a pending status, marked as unprocessed.
 
-## Como o lojista identifica esse comportamento de instabilidade e o que ele precisa fazer?
+The transaction log will return the "mode-off" label.
 
-O lojista vai notar diversos pagamentos no cartão de crédito com o status de pendente, não processados. 
+## Once the mode-off is activated, is there any action required by retailers?
 
-O log da transação retornará o label "mode-off".
+On VTEX side, no. They should only wait for the retry. 
 
-## Uma vez que o mode-off for ligado, o lojista precisa fazer algo? 
+Retailers can also contact their payment partner to understand the instability scenario if they want to.
 
-Do lado da VTEX, não, apenas aguardar o retry. 
+## Where can I find technical details on how the mode-off works?
 
-Caso deseje, o lojista pode também entrar em contato com seu parceiro de pagamentos para entender o cenário de instabilidade.
-
-## Onde consigo mais detalhes técnicos sobre o funcionamento do mode-off?
-
-Para obter informações técnicas sobre o funcionamento do mode-off, confira nossa documentação no [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows#mode-off "").  
-
+For technical information on how the mode-off works, check out our documentation on the [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows#mode-off "").

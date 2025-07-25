@@ -10,105 +10,116 @@ contentType: tutorial
 productTeam: B2B
 author: 5l3eEiSz8MpcppCxcnijGz
 slugEN: vtex-insurance
-locale: pt
+locale: en
 legacySlug: vtex-insurance
 subcategoryId: unknown-subcategory
 ---
 
-O **VTEX Insurance** é um aplicativo que possibilita o lojista vincular os produtos da loja com ofertas de seguro fornecidas pela seguradora parceira [Assurant](https://www.assurant.com.br/). Essa funcionalidade permite que sua loja ofereça seguros personalizados ao seu cliente, oferecendo proteção financeira em caso de falhas ou defeitos do produto ou serviço adquirido. Com uma garantia estendida, é possível ofertar uma camada a mais de segurança ao consumidor. 
+**VTEX Insurance** is an app that enables merchants to bind store products to insurance offers provided by their insurance partner [Assurant](https://www.assurant.com.br/). This feature allows your store to provide customized insurance to customers, offering financial protection in case of failure or defect of the purchased product or service. You can provide your customers with an extra layer of security with an extended warranty.
 
-Assim que o pagamento for aprovado, seu cliente receberá do nosso suporte um email com o documento do seguro comprado. Esse documento é o comprovante que o produto comprado está assegurado e contém todas as informações de descrição do seguro adquirido, e também as instruções para acionar a seguradora.
+Once the payment is confirmed, your customer will receive an email from our support team with the purchased insurance document. This document is a receipt that confirms the purchased product is insured and contains all the information describing the insurance coverage, including instructions to contact the insurance company.
 
-Confira na tabela abaixo os tipos de seguro oferecidos pelo VTEX Insurance.
+Check out the table below to see the insurance types available in VTEX Insurance.
 
-Código   | Tipo de seguro
+Code   | Insurance Type
 --------- | ------
-EW | Garantia Estendida
-TH | Roubo e Furto Qualifiado
-RQ | Roubo e Dano Acidental
-QA | Dano Acidental
+EW | Extended Warranty
+TH | Theft and Qualified Theft
+RQ | Theft and Accidental Damage
+QA | Accidental Damage
 
-Para configurar o VTEX Insurance em sua loja, será necessário:
+To configure VTEX Insurance in your store, you need to:
 
-1. <a href="#pre-requisito-para-o-vtex-insurance">Instalar o aplicativo do VTEX Insurance.</a>
-2. <a href="#preparar-o-catalogo">Preparar o catálogo.</a>
-3. <a href="#configurar-insurance">Configurar Insurance.</a>
+1. <a href="#vtex-insurance-prerequisites">Install the VTEX Insurance app.</a>
+2. <a href="#setting-up-the-catalog">Set up the store catalog to cover the insurance plans.</a>
+3. <a href="#configuring-insurance">Configure Insurance.</a>
 
-## Pré-requisito para o VTEX Insurance
-Para iniciar a configuração do VTEX Insurance, siga os passos abaixo:
+## VTEX Insurance prerequisites
+To set up VTEX Insurance, follow the steps below.
 
-1. Entre em contato com o [nosso suporte](https://support.vtex.com/hc/pt-br/requests) para realizar a instalação do Insurance.
-2. No Admin VTEX, acesse **Gerenciamento de conta> Usuários** ou digite **Usuários** na barra de busca no topo da página.
-3. Clique em `Novo`. 
-4. Insira o email da loja responsável pela instalação do VTEX Insurance no campo **Email**.
-5. Caso o email inserido não seja identificado, clique em  ́Adicionar Perfis´. Nessa página, será necessário selecionar um [perfil](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete) já cadastrado como **Owner** ou **Desenvolvedor**.
-6. Clique em `Salvar`. 
+1. In the VTEX Admin, go to **Account Settings> Users** or type **Users** in the search bar at the top of the page.
+2. Click `New`.
+3. Enter the email of the store installing VTEX Insurance in the **Email** field. If the email is not accepted, click  ́Add Profiles ́. On this page, you will need to select an existing [profile](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that has already been added as **Owner** or **Developer**.
+4.  Click `Save`.
 
-O email cadastrado receberá do nosso suporte um email com o acesso ao aplicativo do VTEX Insurance.
-## Preparar o catálogo
-Após a instalação do VTEX Insurance, é necessário realizar a preparação do Catálogo para incluir os planos de seguro junto com os seus produtos. Para realizar essas configurações, siga os passos abaixo:
+The registered email address will receive an email from our support team with access to the VTEX Insurance app.
 
-1. Cadastre a [Assurant como um seller da sua loja](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392?&utm_source=autocomplete).
-2. [Crie uma coleção](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye)para agrupar um conjunto de produtos para você vincular os seguros. É necessário criar uma coleção específica para cada tipo de seguro, pois essa coleção será usada para definir em qual apólice de seguro os produtos irão se encaixar.
-3. [Crie um grupo de especificações de categoria](https://help.vtex.com/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) para incluir as garantias do fabricante no seu catálogo, como Garantia, por exemplo.
-4. [Crie uma especificação de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#criar-um-campo-de-produto) com as informações do seguro que você quer oferecer, como _Garantia Estendida_, por exemplo.
-5. Após a criação do campo **Garantia do Fabricante**, defina o período desejado de garantia. No campo **Valor Padrão**, é recomendado o valor 12, representando um período de 12 meses.
-6. [Crie uma categoria](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1?&utm_source=autocomplete) específica para o produto de seguro.
-7. [Crie o produto](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By?&utm_source=autocomplete#criar-produto) de seguro.
-8. [Crie SKUs](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) de seguro. É recomendada a criação de mais de três SKUs para cada seguro.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/763ed10aa72e1f453bca4e858b4347e1/image1.png)
-9. [Vincule os SKUs criados](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX?&utm_source=autocomplete) com o seller da Assurant.
-10.  [Vincule o seguro com o produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#preencher-especificacoes-de-produto) desejado.
+## Setting up the catalog
+After installing VTEX Insurance, you need to complete the Catalog setup to cover insurance plans and products. To configure it, follow the steps below.
 
->ℹ️ É preciso replicar esse processo em todas as categorias e produtos em que algum seguro será oferecido.
+1. Add [Assurant as a seller in your store](https://help.vtex.com/en/tutorial/adding-a-seller--tutorials_392).
 
-## Configurar Insurance
-Após a preparação do catálogo, sua loja já tem o vínculo do seguro com os produtos. Em **Seguro** > **Configuração**, você realizará as configurações de cadastro do VTEX Insurance. 
+2. [Create a collection](https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) to group products for binding the insurance options. You need to create a specific collection for each insurance type, as the collection will be used to specify which insurance policy the products will belong to.
 
-Siga os passos abaixo para configurar seu app VTEX Insurance.
+3. [Create a category specification group](https://help.vtex.com/en/tutorial/creating-a-specification-group-in-a-category--tutorials_246) to add manufacturer warranties to your catalog, such as Warranty.
+
+4. [Create a product specification](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106) with the insurance information you want to provide, such as Extended Warranty, for example.
+
+5. After creating the **Manufacturer warranty** field, set the desired warranty period. In the **Standard value** field, we recommend entering "12", representing 12 months.
+
+6. [Create a specific category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1) for an insurance product.
+
+7. [Create an insurance product](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+
+8. [Create insurance SKUs](https://help.vtex.com/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY). We recommend creating more than three SKUs for each insurance.![Insurance - SKUs](https://images.ctfassets.net/alneenqid6w5/7z6EX1cFT3l5wmnlX5LQk1/e1b53a46f844d679277074c59386b0de/image3.png)
+
+9. [Bind the created SKUs](https://help.vtex.com/en/tutorial/sku-bindings--1SmrVgNwjJX17hdqwLa0TX) to the Assurant seller.
+
+10. [Bind the insurance to the desired](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106) product.
+
+>ℹ️ You need to repeat this process for all categories and products that offer insurance coverage.
+
+## Configuring Insurance
+After setting up the catalog, your store will have the products bound to insurance. In **Insurance** > **Configuration**, complete the VTEX Insurance setup.
+
+Follow the steps below to set up your VTEX Insurance app.
 
 ### Company Information
-1. ![Insurance Configuration](//images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/343aefaafe713ae74ab488f87caf4b55/image5.png)
-1. Preencha a seção com as seguintes informações:
-
-- **Email**: email da loja.
-- **Name**: nome da loja.
-- **Phone**: telefone da loja.
-- **Mark-Up Value**: margem de lucro a ser obtida. Deve ser preenchida com valor 0 (zero). 
-- **Street Name**: rua da loja ou do seu escritório.
-- **City**: cidade da loja ou do seu escritório.
-- **State**: Estado da loja ou do seu escritório.
-- **Postal Code**: CEP da sua loja ou do seu escritório.
-- **Country**: país de sua loja ou do seu escritório.
-
-2. Clique em `Submit`.
+![Insurance Configuration](//images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/b779f15fc609605bb8c26452fa596251/image5.png)
+1. Complete the following information:
+- **Email**: Store email.
+- **Name**: Store name.
+- **Phone**: Store phone number.
+- **Mark-Up Value**: Profit margin to be achieved. Enter 0 (zero).
+- **Street Name**: The street your store or office is located.
+- **City**: The city your store or office is located.
+- **State**: The state your store or office is located.
+- **Postal Code**: Store or office postal code.
+- **Country**: The country of your store or office.
+2. Click `Submit`.
 
 ### Items bound to insurance items
-![Items Bound to Source Items](//images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/e55e7f2af44167b5885af398cfda7637/image6.png)
 
-1. Selecione os códigos que representam os tipos de seguro desejados para a coleção criada. 
-2. Vincule os SKUs criados com os planos de seguro: você deverá incluir o plano de seguro seguido pelo SKU ID.
-_Exemplo_: Ao vincular o Tipo de Seguro **Garantia Estendida** (Código **EW**) com o SKU criado para esse mesmo tipo de seguro (ID **357**), o vínculo será representado da seguinte maneira: **EW|357** (sem espaçamento).
-Se desejar vincular mais de um plano de seguro, como o de **Roubo e Furto Qualificado** (Código **TH**) com o SKU criado (ID **358**), vínculo **TH|358**, O campo deverá ser preenchido da seguinte maneira: **EW|357, TH|358**.
-3. Clique em `Submit`.      
+![Items Bound to Source Items](//images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/3aa3ac21584d7226965e0584eb738150/image2.png)
+
+1. Select the codes that correspond to the insurance types you want for the collection you have created.
+
+2. Bind the SKUs created to insurance plans: you must add the insurance plan followed by the SKU ID. Example_: When binding the **Extended Warranty** insurance type (Code **EW**) to the SKU created for that same insurance type (ID **357**), the binding will be presented as **EW|357** (no spacing).
+If you want to bind more than one insurance plan, such as **Theft and Qualified Theft** (Code **TH**) with the created SKU (ID **358**), **TH|358** binding, the field should be completed as **EW|357, TH|358**.
+3. Click `Submit`.
 
 ### Warranty field name
-![Warranty Field Name](//images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/441c24ddc67aa0182fbaad41b6ca4f86/image2.png)
 
-1. Especifique o campo de garantia do fabricante, indicando o nome da garantia utilizada no catálogo.
-2. Clique em `Submit`.
+![Warranty Field Name](//images.ctfassets.net/alneenqid6w5/215SqlxeJ3yFSZjfGnuJRl/c7440e8c3189d41c05d3a837cec3e273/image8.png)
+
+1.  Specify the manufacturer's warranty field, indicating the name of the warranty used in the catalog.
+
+2.  Click `Submit`.
 
 ### Insurance attachment setup
-![Attachement Setup](//images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/976dc38542cfe701e45e8ce0eec936b1/image7.png)
+![Insurance Attachement Setup](//images.ctfassets.net/alneenqid6w5/7wpyDOdmdsK2VqOOUbqrfr/0cc20efa1f556b1cd5ed82e97f456ced/insurance_attachement_setup.png)
 
-1. [Crie um anexo](https://help.vtex.com/pt/tutorial/cadastrar-um-anexo) para a Assurant com as informações recebidas pelo suporte na contratação do serviço.
-2. Em **Seguro > Configuração**, clique em `Add attachment` na seção **Insurance** **attachment setup**.
-3. Na página **Anexo**, clique no botão `Alterar` referente ao anexo **assurant.insurance**.
-4. Para cada item da tabela, clique em `Alterar` e apague todos os valores do campo **Valores Permitidos**.
-5. Clique em `Salvar`.
+1. [Add an](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) attachment for Assurant with the information received from the support team when contracting the service.
+
+2. In **Insurance > Configuration**, click `Add attachment` in the **Insurance** section **Attachment Setup**.
+
+3. On the **Attachment** page, click the `Change` button related to the **assurant.insurance** attachment. For each item in the table, click `Change` and delete all the values in the **Allowed values** field.
+
+4. Click `Save`.
 
 ### Manual pricing setup
-![Manual Pricing](//images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/59f5683a077151a789969ff64b7b5aac/image4.png)
+![Manual Pricing](//images.ctfassets.net/alneenqid6w5/a1wDUYo5UhkR09keQU6WG/c35b802ce82a4b0ddb077c7d62cae53e/image11.png)
 
-1. Ative o manual pricing na sua loja.
-2. Clique em `Done, next`.
+1. [Activate the manual pricing](https://help.vtex.com/en/tutorial/change-the-price-of-an-item-in-the-shopping-cart--7Cd37aCAmtL1qmoZJJvjNf) in your store.
 
+2. Click `Done, next`.

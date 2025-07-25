@@ -1,5 +1,5 @@
 ---
-title: 'Integração com VTEX ID'
+title: 'Integrating with VTEX ID'
 id: 4wGcnjMDg5KpLc40o14dDd
 status: ARCHIVED
 createdAt: 2019-01-23T18:56:08.943Z
@@ -10,19 +10,19 @@ contentType: tutorial
 productTeam: Identity
 author: authors_4
 slugEN: integracao-com-vtex-id
-locale: pt
+locale: en
 legacySlug: integracao-com-vtex-id
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-A VTEX não oferece suporte para integração do VTEX ID (nosso sistema de autenticação e autorização) em ambientes de terceiros.
+VTEX does not support integration with VTEX ID (our authentication and authorization system) inside third-party environments.
 
-A forma ideal de ter um fluxo de login integrado entre diferentes sistemas é utilizando um provedor OAuth.
+If you want an integrated login flow between different systems, the best way is to use an OAuth provider.
 
-O VTEX ID possui integração completa com serviços OAuth 2.0, o que pode ser estendido até mesmo para o acesso ao ambiente administrativo. Veja mais em: [Criar autenticação OAuth2](https://help.vtex.com/pt/faq/criar-autenticacao-oauth2)
+VTEX ID can be fully integrated to OAuth 2.0 services, which can be extended to the administrative environment. Read more about it here: [Creating an OAuth2 authentication](/en/faq/creating-an-oauth2-authentication)
 
-Naturalmente, o fluxo nativo entregue pelo VTEX ID sempre será o mais curto e otimizado para a melhor experiência do usuário, especialmente para em um ambiente de e-commerce.
+As expected, the native flow delivered by VTEX ID will always be the shortest one possible, optimized for the best user experience, especially for e-commerce environments.
 
-Sendo assim, a melhor alternativa para uma experiência de autenticação unificada é utilizando uma _"web view"_ no serviço externo que leve o VTEX ID até o usuário.
+Therefore, the best alternative for a unified authentication experience is to use a _"web view"_ in the external service that brings VTEX ID to the user.
 
-Sempre que o usuário faz login são criados cookies contendo o token de autorização. A partir disso, ele passa a estar identificado nos serviços e APIs da VTEX, aonde poderá fazer as ações que são pertinentes somente a usuários identificados. Veja mais em: [Verificando o usuário que está autenticado](https://help.vtex.com/pt/tutorial/verificando-o-usuario-que-esta-autenticado)
+Whenever the user logs in, cookies containing the authorization token are created. From there, it will be identified by VTEX services and APIs, where it can take the actions that are pertinent only to identified users. Read more about it here: [Checking which user is currently authenticated](https://help.vtex.com/tutorial/checking-which-user-is-currently-authenticated--4vLALC0yrsJydfaY56Zshq).

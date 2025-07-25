@@ -11,20 +11,30 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: callcenter-users-cant-delete-a-customers-credit-card-via-my-account
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 294001
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+Callcenter users cannot remove the credit card saved in a shopper profile via My Account. It'll generate a generic 404 exception.
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+## Simulation
+
+
+
+1. Log in as callcenter operator user
+2. Impersonate a customer's profile
+3. Try to remove the saved credit card
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+The card can be deleted by the customer/profile owner. For the profile owner, the action will work normally.
 

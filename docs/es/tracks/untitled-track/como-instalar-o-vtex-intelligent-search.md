@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slugEN: como-instalar-o-vtex-intelligent-search
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

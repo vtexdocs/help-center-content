@@ -9,78 +9,78 @@ firstPublishedAt: 2023-01-25T14:42:22.919Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: dashboard
-locale: pt
+locale: en
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
-trackSlugPT: conversational-commerce
+trackSlugEN: conversational-commerce
 ---
 
-Na página Dashboard, os proprietários de lojas VTEX têm acesso às métricas do canal de [Conversational Commerce VTEX](https://help.vtex.com/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1NwwADrU70v3roPUV7dWxI#). Neste painel, você pode visualizar o desempenho das vendas e os indicadores das sessões, além de filtrá-los pelo período e exportá-los para um arquivo CSV.
+On the Dashboard page, VTEX store owners have access to metrics from the [VTEX Conversational Commerce](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1NwwADrU70v3roPUV7dWxI) channel. In this dashboard, you can view the sales performance and session indicators, filter them by period and export them to a CSV file.
 
-![Conversational Commerce Analytics Panel](https://images.ctfassets.net/alneenqid6w5/1kQwpA3cAfiW4OdlGOYjOf/0317999b94d984da418d5126851085d1/Conversational_Commerce_Analytics_Panel_PT.png)
+![Conversational Commerce Analytics Panel](https://images.ctfassets.net/alneenqid6w5/1kQwpA3cAfiW4OdlGOYjOf/d138299cada7a34e32a0a5189ee1a5f7/Conversational_Commerce_Analytics_Panel_EN.png)
 
-## Dados
+## Data
 
-Os dados apresentados no painel são divididos em duas seções: **Performance de vendas** e **KPIs conversacionais**. Eles podem ser filtrados por período e possuem uma comparação com o período anterior.
+The data displayed in the dashboard is divided in two sections: **Sales Performance** and **Conversational KPIs**. They can be filtered by period and compared to the previous one.
 
-### Performance de vendas
+### Sales Performance
 
-Nesta seção são apresentados os dados numéricos relacionados às vendas realizadas por meio do Conversational Commerce. São eles:
+In this section, the numerical data related to the sales made through Conversational Commerce are displayed, which are:
 
-- **Receita total:** soma dos valores finais de todos os pedidos captados no período selecionado.
-- **Total de pedidos:** total de pedidos captados no período selecionado.
-- **Ticket médio:** média do valor pago pelos pedidos captados no período selecionado.
-- **Itens por pedido:** número médio de itens dos pedidos captados no período selecionado.
-- **Preço médio por item:** média do valor pago pelos itens dos pedidos captados no período selecionado.
+- **Total revenue:** Sum of final totals of all captured orders during the selected period.
+- **Total orders:** Total captured orders during the selected period.
+- **Average ticket:** Average amount paid for captured orders during the selected period.
+- **Items per order:** Average number of items in captured orders during the selected period.
+- **Avg. price per item:** Average amount paid for items in captured orders during the selected period.
 
-### KPIs conversacionais
+### Conversational KPIs
 
-Nesta seção, são apresentados dados relacionados ao canal de Conversational Commerce VTEX e seu uso. Eles são apresentados em formato numérico e em gráficos.
+In this section, data related to the VTEX Conversational Commerce channel and its usage is displayed. It is provided in both numerical and chart formats.
 
-Os dados em formato numérico são:
+The data in numerical format are:
 
-- **Total de sessões:** volume total de sessões no período selecionado. Uma sessão é o período em que um usuário interagiu ativamente com o canal WhatsApp.
-- **Taxa de rejeição:** percentual de sessões em que um usuário mandou apenas uma mensagem e não voltou a interagir com o canal WhatsApp.
-- **Conversão média por usuário:** Média de pedidos por usuário no canal WhatsApp no período selecionado.
-- **Total de usuários:** total de usuários únicos que tiveram pelo menos uma sessão com o canal WhatsApp no período selecionado.
-- **Total de novos usuários:** número de usuários únicos que tiveram a primeira sessão com o canal WhatsApp no período selecionado.
-- **Total de usuários recorrentes:** número de usuários únicos que tiveram interação anterior com o canal WhatsApp e tiveram pelo menos uma sessão no período selecionado.
-- **Taxa de conversão:** percentual de pedidos dividido pelo número total de sessões no período selecionado.
+- **Total sessions:** Total number of sessions in the selected time period. A session is a period in which a user actively interacts with the WhatsApp channel.
+- **Bounce rate:** Percentage of sessions in which a user only sent one message via WhatsApp and didn't interact through this channel again.
+- **Average conversion per user:** Average number of orders per user via WhatsApp in the selected period.
+- **Total users:** Total of unique users who had at least one session via WhatsApp in the selected time period.
+- **Total new users:** Number of unique users that had their first session via WhatsApp in the selected time period.
+- **Total returning users:** Number of unique users who have previously interacted via WhatsApp and had at least one session in the selected time period.
+- **Conversion rate:** Percentage of orders divided by the total number of sessions in the selected period.
 
-Os dados apresentados em gráficos são:
+The data presented in charts are:
 
-- **Usuários:** gráfico que mostra a representatividade de usuários novos e recorrentes no período selecionado.
-- **Suporte:** gráfico que mostra a representatividade de atendimentos com suporte versus autoatendimento. O autoatendimento refere-se à porcentagem das sessões que não tiveram assistência de um agente humano no período selecionado. O suporte em tempo real representa o número de sessões que tiveram a assistência de um agente humano no período selecionado.
+- **Users:** Chart showing the proportion of new and recurrent users in the selected period.
+- **Support:** Chart showing the proportion of supported versus self-service sessions. Self-service refers to the percentage of sessions without assistance from a human agent in the selected period. Live support represents the number of sessions that had assistance from a human agent in the selected period.
 
-## Filtro por período
+## Filter by period
 
-Os dados da página são atualizados a cada hora, portanto usuários podem esperar um delay de 10 a 80 minutos, dependendo do horário em que acessaram a página. Ela permite ainda que os usuários filtrem dados com base no período selecionado e comparem as métricas da loja com datas passadas.
+The page data is refreshed every hour, so users can expect a 10-80 minute delay depending on the time they accessed the page. It also allows users to filter data based on the selected time period and compare store metrics with previous dates.
 
-Para visualizar dados de diferentes períodos, no topo da página, selecione no menu suspenso **Período** o período desejado. Os filtros de data incluem as seguintes opções:
+To view data from different periods, select the desired one from the **Period** dropdown menu at the top of the page. Date filters include the following options:
 
-| Período | Início | Fim |
+| Period | Start | End |
 |---|---|---|
-| Hoje | 00:00 do dia atual | A última vez que os dados foram atualizados, quando o usuário acessou o painel de controle |
-| Ontem | 00:00 do dia anterior | 23:59 do dia anterior |
-| Últimos 7 dias | 00:00 dos oito dias anteriores ao dia de hoje | 23:59 do dia anterior ao dia de hoje |
-| Últimos 14 dias | 00:00 do 15º dia anterior ao dia de hoje | 23:59 do dia anterior ao dia de hoje |
-| Últimos 30 dias | 00:00 do 31º dia anterior ao dia de hoje | 23:59 do dia anterior ao dia de hoje |
-| Mês atual até hoje | 00:00 do primeiro dia do mês atual | 23:59 do dia anterior ao dia de hoje |
+| Today | 00:00h of the current day | The last time the data was updated when the user accessed the dashboard |
+| Yesterday | 00:00h of the previous day | 23:59h of the previous day |
+| Last 7 days | 00:00h of the eight days before today | 23:59h of the day before today |
+| Last 14 days | 00:00h of the 15th day before today | 23:59h of the day before today |
+| Last 30 days | 00:00h of the 31st day before today | 23:59h of the day before today |
+| Current month until today | 00:00h of the first day of the current month | 23:59h of the day before today |
 
-Os dados sempre trazem o comparativo do período anterior ao selecionado, por meio do percentual de comparação do lado direito, para embasar sua comparação. Dessa forma, se você selecionar o período **Últimos 7 dias**, a linha pontilhada do gráfico indica os dados dos últimos 7 e 14 dias atrás, por exemplo.
+The data always carries the comparison of the period before the selected one through the comparison percentage on the right-hand side to support your analysis. So if you select the **Last 7 days** period, the dotted line in the chart indicates data from the last 7 and 14 days ago, for example.
 
-## Exportar dados
+## Exporting data
 
-É possível exportar os dados do painel para um arquivo CSV. Para isso, clique no botão `↓ Exportar para .CSV`  e será feito o download do arquivo no seu computador. Os dados exportados serão sobre o período selecionado no painel e separados por dia. Os campos presentes no arquivo CSV são:
+You can export the dashboard data to a CSV file. To do so, click the `↓ Export to .CSV` button, and the file will be downloaded to your computer. The exported data will consist of the selected period in the dashboard and be sorted by date. The fields in the CSV file are:
 
-- Data
-- Total de sessões
-- Conversão média por usuário
-- Taxa de rejeição
-- Total de usuários
-- Total de novos usuários
-- Total de usuários recorrentes
-- Taxa de conversão
-- Percentual de usuários recorrentes
-- Percentual de novos usuários
-- Percentual de suporte humano
-- Percentual de autoatendimento
+- Date
+- Total sessions
+- Average conversion per user
+- Bounce rate
+- Total users
+- Total new users
+- Total recurring users
+- Conversion rate
+- Percentage of recurring users
+- Percentage of new users
+- Percentage of human support
+- Percentage of self-service

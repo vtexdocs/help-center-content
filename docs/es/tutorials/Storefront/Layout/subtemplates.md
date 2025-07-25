@@ -1,5 +1,5 @@
 ---
-title: 'Cómo utilizar Subtemplates'
+title: 'How to use Subtemplates'
 id: tutorials_577
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:46.725Z
@@ -10,27 +10,28 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: subtemplates
-locale: es
+locale: en
 legacySlug: subtemplates
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial valid only for Legacy CMS Stores.
 </div>
 
-Los Subtemplates sirven para pequeñas estructuras que podrán ser reaprovechadas en más de un Template de Página. Subtemplates funcionam como _“includes”_. 
+Subtemplates are intended for small structures that could be reused in several Page Templates. Subtemplates work as _“includes”_.
 
-Usted crea un bloc de HTML que desea reaprovechar y después inserta una llamada dentro de un Template de Página. Para crear un subtemplate:
+You can create an HTML block that you intend to reuse, and then insert a call inside a Page Template. To create a subtemplate:
 
-1. En el Admin VTEX, accede a **Storefront > Layout > CMS** y acceda la carpeta **Templates de Página > Subtemplates**.
-2. Haga clic en la opción **Novo Subtemplate**.
-3. Rellene el campo `Nome do Template`.
-4. Pegue su código en el campo `XHTML do Template:`.
-5. Por último, haga clic en el botón **salvar**.
+1. In the VTEX Admin, access **Storefront > Layout > CMS** and go to the **Templates de Página > Subtemplates** folder.
+2. Click on the **Novo Subtemplate** option.
+3. Fill in the `Nome do Template` field.
+4. Paste your code on the `XHTML do Template:`field.
+5. Then, click on **salvar**.
 
-Para referenciar un Subtemplate dentro de un Template de página, use la sintaxis abajo:
+In order to reference a Subtemplate inside a page Template, use the syntax below:
 
-`<vtex:template id="nome-do-id" />`
+`<vtex:template id="name-of-the-id" />`
 
-En el atributo `id` rellene con el nombre dado al subtemplate.
+Fill in the `id` attribute with the name given to the subtemplate.
+

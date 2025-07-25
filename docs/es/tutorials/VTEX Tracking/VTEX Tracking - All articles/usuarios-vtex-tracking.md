@@ -1,5 +1,5 @@
 ---
-title: 'Usuários (VTEX Tracking)'
+title: 'Users (VTEX Tracking)'
 id: 1zn5nrvkoWtx0pcabbRhSZ
 status: PUBLISHED
 createdAt: 2020-07-07T21:04:54.830Z
@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: usuarios-vtex-tracking
-locale: es
+locale: en
 legacySlug: usuarios-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ Contenido bajo traducción.
+>⚠️ Content under translation.

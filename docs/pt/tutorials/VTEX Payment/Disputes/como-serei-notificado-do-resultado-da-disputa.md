@@ -1,5 +1,5 @@
 ---
-title: 'Como serei notificado do resultado da disputa?'
+title: 'Untitled'
 id: 3eyFAdtZqRRCHzYjGyUU8n
 status: ARCHIVED
 createdAt: 2019-05-26T21:46:48.879Z
@@ -10,10 +10,9 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slugEN: como-serei-notificado-do-resultado-da-disputa
-locale: pt
+locale: en
 legacySlug: como-serei-notificado-do-resultado-da-disputa
 subcategoryId: 6ggjFlqyvL8hd9CtQFcHiD
 ---
 
-O VTEX Payment enviará um e-mail para o endereço eletrônico cadastrado no Admin dando detalhes sobre o resultado da disputa. A mensagem é enviada para o lojista tão logo o resultado é deliberado.
 

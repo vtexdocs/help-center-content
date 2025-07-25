@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slugEN: configurar-banners-por-categoria
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

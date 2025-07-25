@@ -11,36 +11,35 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: untitled
-locale: es
+locale: en
 kiStatus: Fixed
 internalReference: 631970
 ---
 
-## Sumario
-
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+## Summary
 
 
 
-Actualmente, el SNO (Shipping Notification Order) acepta recibir un número de factura con un "espacio" (carácter especial) al final, por ejemplo: "123456 ", pero al recibir el número de factura de esta forma algunos flujos realizados después de la compra como el seguimiento de actualizaciones, el sistema de tarjetas regalo que utilizan estos datos fallan porque el sistema no puede utilizar los datos correctamente.
+Currently, the SNO (Shipping Notification Order) accepts receiving an invoice number with a "space" (special character) at the end, for example: "123456 ", but when receiving the invoice number in this way some flows carried out post-purchase such as update tracking, giftcard system that use this data fail because the system cannot use the data correctly.
 
 
 ##
 
-## Simulación
+## Simulation
 
 
-1- Facturar un pedido, insertando el siguiente número de factura de ejemplo: "**123456**"; (espacio al final del número)
-2- Intenta insertar una actualización de seguimiento, según la API Actualizar estado de seguimiento del pedido: https://developers.vtex.com/vtex-rest-api/reference/updatetrackingstatus
-2.1- Informar el número de factura **sin** el "espacio", por ejemplo: "**123456**", tendremos el siguiente error: "mensaje": "**Factura no encontrada**"
-2.2- Informando el número de factura **con** el "espacio", por ejemplo: "123456 " (espacio al final del número), tendremos el siguiente error: "**500 Error Interno del Servidor**"
+1- Invoice an order, inserting the following example invoice number: "**123456**"; (space at the end of the number)
+2- Try to insert a tracking update, according to the Update order tracking status API: https://developers.vtex.com/vtex-rest-api/reference/updatetrackingstatus
+2.1- Informing the invoice number **without** the "space", for example: "**123456**", we will have the following error: "message": "**Invoice Not Found**"
+2.2- Informing the invoice number **with** the "space", for example: "123456 " (space at the end of the number), we will have the following error: "**500 Internal Server Error**"
 
 
+##
 
 ## Workaround
 
 
-Para estos casos, la solución sería no utilizar el "espacio" al final del número de factura.
+For these cases, the workaround would be not to use the "space" at the end of the invoice number.
 
 
 

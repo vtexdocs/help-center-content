@@ -9,10 +9,10 @@ firstPublishedAt: 2020-06-05T02:16:01.490Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: netshoes-marketplace
-locale: es
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
-trackSlugES: configurar-integracion-netshoes
+trackSlugEN: netshoes-integration-set-up
 ---
 
->⚠️ Este contenido es exclusivamente regional; 
-> por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

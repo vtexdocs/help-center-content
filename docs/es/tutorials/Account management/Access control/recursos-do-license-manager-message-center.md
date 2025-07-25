@@ -10,20 +10,20 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: recursos-do-license-manager-message-center
-locale: es
+locale: en
 legacySlug: 
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-Obtenga más información sobre [Recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+Learn more about [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Nome do recurso</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Resource name</strong>
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Categoria</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Category</strong>
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Descrição</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Description</strong>
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -31,7 +31,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Messages
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Enviar uma mensagem na Central de Mensagens.
+   <td class="t-body pa5" style="min-width: 15rem;">Send a message on Message Center.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -39,7 +39,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Providers
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Visualização da lista de remetentes da Central de Mensagens.
+   <td class="t-body pa5" style="min-width: 15rem;">Viewing the list of senders of the Message Center.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -47,7 +47,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Providers
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Criar ou editar remetentes (providers) criados na área de remetentes da Central de Mensagens.
+   <td class="t-body pa5" style="min-width: 15rem;">Create or edit senders (providers) created in the sender area of the Message Center.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -55,7 +55,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Providers
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Remover remetentes criados na área de remetentes da Central de Mensagens (providers).
+   <td class="t-body pa5" style="min-width: 15rem;">Remove senders created in the sender area of Message Center (Providers).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -63,7 +63,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Templates
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Visualização da lista de templates disponíveis da Central de Mensagens.
+   <td class="t-body pa5" style="min-width: 15rem;">Viewing the list of available templates from Message Center.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -71,7 +71,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Templates
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Adicionar novos templates à lista de templates da Central de Mensagens.
+   <td class="t-body pa5" style="min-width: 15rem;">Add new templates to **Message Center templates**.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -79,7 +79,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Templates
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Remover novos templates da lista de templates da **Central de Mensagens**.
+   <td class="t-body pa5" style="min-width: 15rem;">Remove new templates from the **Message Center templates**.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -87,7 +87,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Templates
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Edição e customização de templates na **Central de Mensagens**.
+   <td class="t-body pa5" style="min-width: 15rem;">Edition and customization of templates at **Message Center**.
    </td>
   </tr>
 </table>

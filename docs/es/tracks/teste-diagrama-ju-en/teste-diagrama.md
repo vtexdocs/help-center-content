@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Channels
 slugEN: teste-diagrama
-locale: es
+locale: en
 trackId: 2YUPF5z5Y68LKO8k05yu78
-trackSlugES: teste-diagrama-ju-es
+trackSlugEN: teste-diagrama-ju-en
 ---
 
 Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.

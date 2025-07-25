@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: unknown
 author: 
 slugEN: como-inserir-cupons-no-carrinho-via-api
-locale: es
+locale: en
 legacySlug: como-inserir-cupons-no-carrinho-via-api
 subcategoryId: unknown-subcategory
 ---

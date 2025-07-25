@@ -1,5 +1,5 @@
 ---
-title: 'Entienda cómo llegan los clientes a su WhatsApp'
+title: 'Understand how customers get to your WhatsApp'
 id: 5eLRT51rPMy0zwDVAAJLWH
 status: ARCHIVED
 createdAt: 2022-08-25T18:13:42.342Z
@@ -9,9 +9,9 @@ firstPublishedAt: 2022-08-26T14:41:53.608Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: entenda-como-os-clientes-chegam-ate-o-seu-whatsapp
-locale: es
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugES: suiteshare
+trackSlugEN: suiteshare
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

@@ -11,20 +11,30 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: split-items-order-with-value-as-0-zero-on-the-invoice
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 387933
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+There is a scenario where the order with Promotion More for Less and returned has items value as zero on the invoice!
+An item split order that an incoming note has been entered and OMS seems to be catching the wrong item (it took the 0 priced item instead of the correct priced item)
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+
+## Simulation
+
+
+Order with Promotion More for Less and returned items splited.
+Check the invoice item value.
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+There are no workaround available for this case.
 

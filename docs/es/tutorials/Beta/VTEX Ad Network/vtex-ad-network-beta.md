@@ -10,109 +10,109 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: vtex-ad-network-beta
-locale: es
+locale: en
 legacySlug: vtex-ad-network-beta
 subcategoryId: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
->ℹ️ VTEX Ad Network se encuentra en fase beta, lo que significa que estamos trabajando para mejorarlo. Si ya eres cliente de VTEX y deseas adoptar esta funcionalidad para tu negocio, por favor, póngate en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Si aún no es cliente pero estás interesado(a) en esta solución, por favor, completa el [formulario de contacto](https://vtex.com/co-es/contacto/).
+>ℹ️ VTEX Ad Network is in beta, which means that we are working to improve it. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-**VTEX Ad Network** conecta a retailers VTEX con marcas interesadas en anunciar sus productos. Con esta conexión, anunciantes y retailers VTEX pueden impulsar su negocio:
+**VTEX Ad Network** connects VTEX stores with brands interested in advertising their products. This connection allows advertisers and merchants to boost their business:
 
-- **Anunciantes:** marcas que pueden crear campañas de anuncios para promocionar productos en storefronts de tiendas VTEX que tengan esos mismos productos en sus catálogos, incrementando las ventas.
-- **Retailers:** son retailers que tienen tiendas VTEX que pueden ofrecer espacios en sus storefronts para que los anunciantes promocionen sus productos. Estos retailers recibirán una valor por cada clic recibido en anuncios de su tienda.
+- **Advertisers:** Brands that can create ad campaigns to promote products in VTEX stores offering the same products in their catalogs, thus increasing sales.
+- **Merchants:** Can offer ad space in their stores for advertisers to promote products. In return, these merchants will receive a fee for each click on an ad in their stores.
 
-## Campañas
+## Campaigns
 
-Una campaña de **VTEX Ad Network** tiene las siguientes características:
+A **VTEX Ad Network** campaign is based on the following characteristics:
 
-- Productos promocionados.
-- Presupuesto total.
-- Oferta, que es el costo por clic (CPC), es decir, el valor que el anunciante está dispuesto a pagar por cada clic recibido en el anuncio. Este valor también determina la [prioridad de diferentes anuncios](#priorizacion-de-anuncios) para el mismo espacio de visualización. Este valor se define por producto.
-- Duración.
-- Cobertura, que determina si la campaña se desarrollará en toda la red de Ad Network o en tiendas específicas.
+- Promoted products.
+- Total budget.
+- Bid, which is the cost per click (CPC) — the amount the advertiser is willing to pay for each click on the ad. This amount also determines the [priority of different ads](#ad-priority) for the same ad space and is defined per product.
+- Duration.
+- Coverage, which determines whether the campaign will run in the Ad Network or specific stores.
 
-Al crear una campaña, el anunciante define uno o varios códigos EAN (códigos de barras) asociados a los productos que desea promocionar. De esta forma, VTEX podrá mostrar estos anuncios en todas las tiendas que vendan ese producto y que se hayan adherido a **VTEX Ad Network**. O, si lo prefiere, el anunciante puede seleccionar en qué tiendas desea mostrar su campaña, de entre las posibles.
+When creating a campaign, the advertiser defines one or more EAN codes (barcodes) associated with the products they want to promote. VTEX can display these ads in all the stores that sell that product and have joined **VTEX Ad Network**, or advertisers can choose specific stores for their campaigns.
 
-## Formato del anuncio
+## Ad format
 
-Actualmente, VTEX ofrece un único formato de anuncio: productos patrocinados. Esto significa que los productos promocionados por los anunciantes pueden aparecer en un lugar destacado en algunos contextos en los que hay listas de productos:
+VTEX currently offers a single ad format: sponsored products. This means that products promoted by advertisers can be highlighted in some contexts where products are listed:
 
-- Resultados de búsqueda.
-- Páginas de categorías.
+- Search results.
+- Category pages.
 
-Consulta a continuación un ejemplo del modo de exhibición de este formato:
+Below, there's an example of how sponsored products are displayed:
 
-![vtex_ad_network_sponsored_ES](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/bfec823e3960cac69bf878395437cdec/vtex_ad_network_sponsored.png)
+![vtex_ad_network_sponsored_EN](https://images.ctfassets.net/alneenqid6w5/1PlUii3Hd3Tma9trnhqnLS/1abdea32c119ed4890e414ad7dbc8fea/vtex_ad_network_sponsored.png)
 
-Los retailers participantes en **VTEX Ad Network** podrán [configurar la cantidad de espacios para anuncios](https://help.vtex.com/es/tutorial/anunciando-com-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#crear-campana) que disponibilizarán en cada uno de estos contextos en la tienda.
+Stores participating in **VTEX Ad Network** will be able to [configure the amount of ad space](https://help.vtex.com/en/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse#creating-campaigns) available in each store context.
 
-## Priorización de anuncios
+## Ad priority
 
-Cada vez que un cliente navega a una página de una tienda que tiene espacio de anuncios disponible, **VTEX Ad Network** determina los anuncios que se mostrarán.
+Every time a customer browses a store with available ad space, **VTEX Ad Network** determines which ads will be displayed.
 
-Este proceso de priorización se desarrolla en tres etapas:
+This prioritization process consists of three stages:
 
-#### 1. Selección
+#### 1. Selection
 
-- **VTEX Ad Network** tiene en cuenta el contexto de navegación del cliente, es decir, término de búsqueda, categoría o vitrina, y selecciona campañas que contienen productos que se ajustan a este contexto. La plataforma también considera una puntuación mínima de relevancia, para garantizar que solo se muestren anuncios que puedan interesar al cliente.
-- En esta etapa, VTEX también tiene en cuenta la compatibilidad desde el punto de vista de la [configuración de la campaña](#campanas), como cobertura y términos de búsqueda negativos.
+- **VTEX Ad Network** considers customer behavior, such as search terms, categories, or window displays, and selects campaigns with products that fit this context. The platform even considers a minimum relevance score to ensure that only ads that might interest the customer are displayed.
+- At this stage, VTEX also considers compatibility from the point of view of [campaign settings](#campaigns), such as coverage and negative keywords.
 
-#### 2. Definición del presupuesto diario promedio
+#### 2. Budget pacing
 
-- En esta etapa, VTEX pondera el presupuesto de las campañas, excluyendo las que no tienen presupuesto disponible y optimizando gastos en función de la probabilidad de clics y conversión.
+- At this stage, VTEX weighs up the budget for campaigns, excluding the ones with no available budget and optimizing expenditure based on the likelihood of clicks and conversions.
 
-#### 3. Subasta
+#### 3. Auction
 
-- A partir de los candidatos seleccionados en las etapas anteriores, **VTEX Ad Network** determina los productos promocionados para ocupar los espacios disponibles.
-- La plataforma clasifica los anuncios en función de su oferta de costo por clic (CPC) y [nivel de calidad](#nivel-de-calidad).
-- También hay un factor aleatorio en el cálculo de la subasta para evitar sesgos. Por lo tanto, a medida que aumenta el valor del CPC y el nivel de calidad, aumenta la probabilidad de que un anuncio obtenga una mejor clasificación, aunque no hay garantía de que siempre sea así.
+- **VTEX Ad Network** determines the best-promoted products to fill the available spaces from the candidates selected in the previous stages.
+- The platform classifies the ads based on their bid (CPC) and [quality score](#quality-score).
+- There is also a random factor in the auction calculation to avoid biases. Therefore, the higher the CPC value x quality score, the more likely an ad will be ranked higher, but there is no guarantee that it will always be the case.
 
-Una vez determinados los anuncios que se muestran en la página, se determina el valor de las ofertas. La oferta ganadora de la subasta tendrá el valor final de la segunda mayor oferta más USD 0.01.
+The bid amount is set once the ads displayed on the page have been defined. The winning bid will be the final amount of the second-highest bid plus $0.01 USD.
 
->❗ Puede ocurrir que no se seleccione ningún anuncio con el proceso de priorización si no hay productos promocionados que se ajusten al contexto de navegación, a la cobertura de la tienda o que no tienen presupuesto disponible.
+>⚠️ Ads may not be selected through the prioritization process if the promoted products do not fit the customer behavior, store coverage, or available budget.
 
-### Nivel de calidad
+### Quality score
 
-El nivel de calidad de los anuncios es una medida que tiene en cuenta distintos criterios de evaluación e influye en la etapa de subasta en el proceso de [Priorización de anuncios](#priorizacion-de-anuncios). Cuanto más alto sea el nivel de calidad, más probabilidades habrá de que un determinado anuncio obtenga una buena clasificación en la subasta.
+The ad quality score is a measure that considers different evaluation criteria and influences the auction stage of the [Ad priority](#ad-priority) process. The higher the quality score, the more likely a particular ad will rank well in the auction.
 
-### Ejemplo de priorización
+### Priorization example
 
-Considera los siguientes anuncios, de campañas diferentes, que compiten en una misma tienda.
+Consider the following ads from different campaigns competing in the same store.
 
-| **Anuncio** | **Producto** | **Nivel de calidad** | **Oferta** | **Presupuesto** |
+| **Ad** | **Product** | **Quality Score** | **Bid** | **Budget** |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Perfume A | 10 % | 1.00 USD | 0 USD |
-| 2 | Perfume B | 1 % | 2.00 USD | 10 USD |
-| 3 | Perfume C | 10 % | 0.90 USD | 10 USD |
-| 4 | Champú A | 5 % | 0.50 USD | 10 USD |
+| 1 | Perfume A | 10% | $1.00 USD | $0 USD |
+| 2 | Perfume B | 1% | $2.00 USD | $10 USD |
+| 3 | Perfume C | 10% | $0.90 USD | $10 USD |
+| 4 | Shampoo A | 5% | $0.50 USD | $10 USD |
 
-Por ejemplo, si un cliente de esta tienda accede a la página de la categoría **Perfumes**, que contiene 300 productos, el proceso de priorización sería el siguiente:
+If a store customer accesses the **Perfumes** category page with 300 products, the prioritization process would go as follows:
 
-1. En la etapa de redirección, la plataforma descarta el anuncio 4 porque no se ajusta al contexto de navegación del cliente.
-2. Al evaluar el ritmo, la plataforma descarta el anuncio 1, ya que este no tiene presupuesto disponible.
-3. En la subasta, el producto 3 tiene más posibilidades de ocupar el primer puesto, teniendo en cuenta la **Oferta** y el **Porcentaje de conversiones**.
+1. At the targeting stage, the platform discards ad 4, which doesn't fit the customer behavior.
+2. After assessing the pacing, the platform discards ad 1, as it has no available budget.
+3. In the auction, product 3 has a greater chance of being ranked first, considering its **bid** and **conversion rate**.
 
-## Ventana de atribución
+## Attribution window
 
-La ventana de atribución de **VTEX Ad Network** es de 15 días. Esto significa que si un cliente hace clic en un anuncio de un producto y compra ese producto en los 15 días siguientes al clic, VTEX Ad Network atribuye esta venta al anuncio.
+**VTEX Ad Network's** attribution window is 15 days. If a customer clicks a product ad and buys that product within 15 days of clicking it, VTEX Ad Network attributes this sale to the ad.
 
-Sin embargo, en caso de que el cliente lo compre después de este periodo, la venta no se atribuirá al anuncio.
+However, if the customer buys after this period, the sale will not be allocated to the ad.
 
-## Cómo formar parte de VTEX Ad Network
+## How to join VTEX Ad Network
 
-Consulta a continuación cómo puedes formar parte de **VTEX Ad Network** ya sea como [retailer](#retailers) que muestra anuncios o como [anunciante](#anunciantes).
+See below how you can join **VTEX Ad Network** as a [merchant](#merchants) that displays ads or an [advertiser](#advertisers).
 
-### Retailers
+### Merchants
 
->⚠️ Por el momento, solamente tiendas desarrolladas con [Store Framework](https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) pueden ofrecer espacios para anuncios.
+>⚠️ Currently, only stores developed with [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) can offer ad space.
 
-Para disponibilizar espacios para anuncios en tu tienda, debe ponerse en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar la instalación de la aplicación VTEX Ad Network para tiendas en su cuenta VTEX.
+To make ad space available in your store, you need to contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request the installation of the __VTEX Ad Network app for merchants__ in your VTEX account.
 
-Para saber más sobre las funcionalidades para tiendas, consulta el artículo [Mostrar anuncios con VTEX Ad Network en tu tienda (Beta)](https://help.vtex.com/es/tutorial/exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta--6gWgZrMLcS5FDFFdl5LETA).
+Learn more about the functionalities for merchants in the [Displaying VTEX Ad Network ads in your store (Beta)](https://help.vtex.com/en/tutorial/exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta--6gWgZrMLcS5FDFFdl5LETA) article.
 
-### Anunciantes
+### Advertisers
 
-Cualquier anunciante interesado en promocionar productos que ya se venden en las tiendas VTEX puede anunciar utilizando **VTEX Ad Network**. Para ello, debes ponerte en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar la instalación de la aplicación __VTEX Ad Network__ en tu cuenta VTEX.
+Any brand interested in promoting products already sold in VTEX stores can advertise using **VTEX Ad Network**. To do this, you need to contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request that the __VTEX Ad Network__ app be installed on your VTEX account.
 
-Aprende más sobre las funcionalidades disponibles para los anunciantes en el artículo [Anunciar con VTEX Ad Network (Beta)](https://help.vtex.com/es/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse).
+Learn more about the features available to advertisers in the [Advertising with VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/advertising-with-vtex-ad-network-beta--5WoXcJzHc7EQElpPjziqse) article.

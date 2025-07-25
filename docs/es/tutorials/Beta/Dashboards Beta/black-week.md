@@ -10,9 +10,10 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: black-week
-locale: es
+locale: en
 legacySlug: black-week
 subcategoryId: QPnz120TdtLcXSh65c4Gs
 ---
 
->⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.
+

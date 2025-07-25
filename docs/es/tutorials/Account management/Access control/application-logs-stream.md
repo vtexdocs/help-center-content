@@ -1,5 +1,5 @@
 ---
-title: 'Recursos del License Manager - Application Logs Stream'
+title: 'License Manager resources - Application Logs Stream'
 id: 3xab6foVYbLpl5ue03wUAj
 status: ARCHIVED
 createdAt: 2022-02-16T14:02:05.358Z
@@ -10,20 +10,20 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: application-logs-stream
-locale: es
+locale: en
 legacySlug: application-logs-stream
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-Obtenga más información sobre [Recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+Learn more about [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Nombre del recurso</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Resource name</strong>
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Categoría</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Category</strong>
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;"><strong>Descripción</strong>
+   <td class="t-body pa5" style="min-width: 15rem;"><strong>Description</strong>
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -31,7 +31,7 @@ Obtenga más información sobre [Recursos del License Manager](https://help.vtex
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Logs
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Lea los registros de aplicaciones VTEX IO que pertenecen a esta cuenta.
+   <td class="t-body pa5" style="min-width: 15rem;">Read VTEX IO Application Records belonging to this account.
    </td>
   </tr>
 </table>

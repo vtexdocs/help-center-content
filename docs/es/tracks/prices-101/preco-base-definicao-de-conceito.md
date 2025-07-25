@@ -1,5 +1,5 @@
 ---
-title: 'Precio Base – Definición de Concepto'
+title: 'Base Price - Concept Definition'
 id: 3XcXp0r5WrJvogB8KIX4Kx
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:36.278Z
@@ -9,34 +9,34 @@ firstPublishedAt: 2019-07-17T19:41:02.693Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slugEN: preco-base-definicao-de-conceito
-locale: es
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
-trackSlugES: precios-101
+trackSlugEN: prices-101
 ---
 
-## Definición 
+## Definition
 
-El Precio Base de un SKU es el valor calculado a través de la combinación entre el **Precio de Costo** y el **Markup**, el margen de ganancia deseado con la venta del SKU. Es el __precio de referencia__ de un SKU para todas las tablas de precio. 
+A SKU's base price is the value which results from merging the **Cost Price** with the **Markup**, the desired profit margin with the SKU's sale. It represents the SKU's __reference price__ for all price tables. 
 
-![base-price-es](https://images.ctfassets.net/alneenqid6w5/14OYPLF5k6gNJhSUZ5OE53/9b59c8c88d39347707be5054d948ad91/base-price-es.png)
+![base-price-en](https://images.ctfassets.net/alneenqid6w5/cbmJa638a5NuZHtjF1FPN/4bb70f39b01a19c15ec07525e8372329/base-price-en.png)
 
-Este **precio base** puede combinarse con una **regla de precio** aplicada a la tabla de precios. Si no existe regla de precio registrada, el precio de venta en una tabla será el propio precio base.
+This **base price** can be combined with a price table's applied **price rule**. If there are no registered price rules, a price table's selling price will be equal to the base price itself.
 
-## Precio de Lista
+## List Price
 
-El __Precio de lista__ funciona como un precio de venta sugerido para un SKU. Más adelante, este precio puede sufrir una reducción y usted puede presentar un SKU con la siguiente información de precio en la vitrina:
+The __list price__ functions as a SKU's suggested selling price. Later on, this price can receive a reduction, allowing you to showcase a SKU with the following information in the store's window display:
 
 ```
-De: R$ 199.00
-Por: R$ 149.00
+Original Price: U$ 199,00
+Sales Price: U$ 149,00
 ```
 
-De esta manera, el precio de lista funciona como el **"precio De"** y el precio de venta funciona como el __"precio Por"__.
+Thus, the list price is the **original price** and the selling price is the __sales price__. 
 
-## Ejemplos
+## Examples
 
-Como mencionamos anteriormente, el precio base es el *precio de referencia* para todas las tablas de precio de su tienda. 
+As previously mentioned, the base price is the *reference price* for all your store's price tables. 
 
-Vimos en el artículo sobre la arquitectura del módulo de precios que, si registra *apenas* el precio base de un SKU, sin configurar otras reglas o precios fijos, este valor se considerará como el __precio calculado__ para todas sus tablas de precio.
+In the article on the Prices module architecture, we saw that if you *only* add a SKU base price without configuring other rules or fixed prices, that base price value will be considered the __computed price__ for your price tables.
 
-Así, si no hace parte de su estrategia tener precios diferentes para diversos contextos, basta registrar el precio base para sus SKUs.
+If your strategy does not entail having different prices for different contexts, you just have to add one base price for your SKUs.

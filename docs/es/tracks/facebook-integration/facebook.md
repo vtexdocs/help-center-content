@@ -1,5 +1,5 @@
 ---
-title: 'Facebook'
+title: ' Facebook'
 id: 7kNXlgUr0A4HRFXTCX8TYb
 status: PUBLISHED
 createdAt: 2021-02-08T18:11:30.928Z
@@ -9,23 +9,23 @@ firstPublishedAt: 2021-02-08T20:10:31.820Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: facebook
-locale: es
+locale: en
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
-trackSlugES: integracion-de-facebook
+trackSlugEN: facebook-integration
 ---
 
->ℹ️ Hay una integración con la aplicación <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension y Conversions API</a> que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integración de Facebook</a>, ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
+>ℹ️ There is an integration with the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension and Conversions API</a> that should be your default selection when integrating with Facebook. This is valid even if the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a> has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
 
-[Facebook](https://about.fb.com/ltam/) es la red social con el mayor número de usuarios en el mundo. Creada en 2004, es la plataforma a través de la cual más de tres mil millones de personas se conectan y comparten información todos los días.
+[Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 
-![Logo Facebook](https://images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/3c560deb0619a7e8d2c96057047eab1f/facebook_logo_4.png)
+![Logo Facebook](https://images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/a7cccc844a32302789bff0768ec4c62f/facebook_logo_4.png)
 
-Existen diferentes estrategias para promocionar su tienda en Facebook. El Administrador Comercial, también conocido como Business Manager, es una herramienta gratuita creada para facilitar la gestión de sus acciones en la red social. En un solo lugar, puede gestionar las publicaciones orgánicas, los anuncios pagados, las bibliotecas de contenidos y mucho más.
+There are different strategies to promote your store on Facebook. Business Manager is a free tool created to make it easier for you to manage your actions on the social network. In just one place, you can manage organic posts, paid ads, content libraries, and more.
 
-Una presencia estratégica en Facebook garantiza una mayor visibilidad de su tienda y mayores oportunidades de conversión en sus ventas. A través del conector nativo de VTEX, puede integrar su tienda con Facebook y enviar sus productos al Administrador Comercial de forma sencilla y eficiente.
+A strategic presence on Facebook ensures greater visibility for your store and increased opportunities for sales conversion. Through VTEX's native connector, you can integrate your store with Facebook, and easily and efficiently send your products to Facebook Business Manager.
 
-Antes de continuar con los pasos de configuración de la integración, debe crear una [cuenta en Facebook](https://www.facebook.com/) y una [cuenta en el Administrador Comercial](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
+Before proceeding with the integration setup, you must create a [Facebook account](https://www.facebook.com/) and a [Business Manager account](https://business.facebook.com/business/help/1710077379203657?id=180505742745347).
 
-|**SEPA MÁS** |
+|**LEARN MORE** |
 | ---------- |
-| Si desea más información sobre las ventajas y condiciones de uso, lea el artículo de Facebook acerca del [Administrador Comercial](https://business.facebook.com/business/help/113163272211510?id=180505742745347&recommended_by=1910428752389787). |
+| For more information about the benefits and terms of use, read Facebook's article about [Business Manager](https://business.facebook.com/business/help/1710077379203657?id=180505742745347). |

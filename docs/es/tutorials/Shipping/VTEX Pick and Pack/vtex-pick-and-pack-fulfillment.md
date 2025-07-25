@@ -10,453 +10,611 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-pick-and-pack-fulfillment
-locale: es
+locale: en
 legacySlug: vtex-pick-and-pack-fulfillment
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
+>ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
 
-- [Ingreso a la aplicación](#ingreso-a-la-aplicacion)
-    - [Página de inicio](#pagina-de-inicio)
-- [Proceso de alistamiento](#proceso-de-alistamiento)
-    - [Creación de hojas de trabajo](#creacion-de-hojas-de-trabajo)
-    - [Alistamiento de ítems](#alistamiento-de-items)
-    - [Rechazar ítems](#rechazar-items)
-    - [Reemplazar ítems](#reemplazar-items)
-    - [Observaciones al ítem o al pedido](#observaciones-al-item-o-al-pedido)
-    - [Opciones de la hoja de trabajo dentro del menú](#opciones-de-la-hoja-de-trabajo-dentro-del-menu)
-- [Proceso de empaquetado](#proceso-de-empaquetado)
-    - [Empaquetado en masa o individual](#empaquetado-en-masa-o-individual)
-        - [Empaquetado en masa](#empaquetado-en-masa)
-        - [Empaquetado individual](#empaquetado-individual)
-- [Proceso de envío](#proceso-de-envio)
-- [Sección Pedidos - Admin](#seccion-pedidos---admin)
-- [Sección Hojas de trabajo - Admin](#seccion-hojas-de-trabajo---admin)
-- [Configuración de la aplicación](#configuracion-de-la-aplicacion)
-    - [Configuración y alistamiento](#configuracion-y-alistamiento)
-    - [Cambios en los pedidos](#cambios-en-los-pedidos)
-    - [Motivos de rechazo y motivos de cambios de precio](#motivos-de-rechazo-y-motivos-de-cambios-de-precio)
-        - [Límite de cambios](#limite-de-cambios)
-        - [Hojas de trabajo para habilitar o deshabilitar funciones](#hojas-de-trabajo-para-habilitar-o-deshabilitar-funciones)
-        - [Tags de hojas de trabajo](#tags-de-hojas-de-trabajo)
-        - [Activar códigos EAN dinámicos](#activar-codigos-ean-dinamicos)
-    - [Configuración de categorías](#configuracion-de-categorias)
-    - [Configuración de empaquetado](#configuracion-de-empaquetado)
-    - [Configuración de pedidos](#configuracion-de-pedidos)
-    - [Configuración de automatización](#configuracion-de-automatizacion)
-    - [Configuración de instalaciones](#configuracion-de-instalaciones)
-    - [Configuración de catálogo](#configuracion-de-catalogo)
+[VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 
-## Ingreso a la aplicación
+The **VTEX Pick and Pack Fulfillment** module is related to the order handling process and has the following sections:
 
-Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicación](https://picking.pickingnpacking.com/login) como alistador. Como alistador podrás acceder a tu cuenta, iniciar sesión y encontrar pedidos. [Ir a la aplicación](https://picking.pickingnpacking.com/login).
+* [Picking and Packing](#picking-and-packing)
+* [Insights](#insights)
+* [Settings](#settings)
+* [Users](#users)
 
-Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
+>❗ **VTEX Pick and Pack** is not an invoicing system. After picking and packing, the order must be invoiced and updated as `Invoiced` in the OMS, so that **VTEX Fulfillment** can end the picking and packing flow and proceed to shipping.
 
-![pick and pack 1](https://images.ctfassets.net/alneenqid6w5/3tIH46Q7spSVEa1nDMBaHU/6c9cf04d64fe02a4a4e27c0cbcfe9ea2/image26.png)
+## Picking and Packing
 
-## Página de inicio
+This is the order management interface, with two main pages:
 
-Al acceder, se habilita el dashboard del alistador, que te permitirá monitorizar, analizar y visualizar los indicadores clave de desempeño del alistador.
+* [Picking and Packing list page](#picking-and-packing-list-page)
+* [Picking and Packing details page](#picking-and-packing-details-page)
 
-![pick and pack 2](//images.ctfassets.net/alneenqid6w5/3Hx3ir28gfSdv60DupqIpj/d169addf3e5162f53fd4ffae4fabf172/image3.png)
+### Picking and Packing list page
 
-- Permite visualizar de manera gráfica la cantidad de pedidos alistados durante los últimos días.
-- Puedes consultar la cantidad de pedidos con alistamiento finalizado.
-- Puedes consultar el tiempo total invertido en cada ítem de los pedidos procesados.
-- Permite conocer la cantidad de hojas de trabajo con el proceso de alistamiento finalizado y las que están pendientes de realizar el proceso de empaquetado.
-- - Permite conocer los pedidos pendientes que aún no han iniciado el proceso de alistamiento.
+When you access **Fulfillment > Picking and Packing**, you find a page listing all the orders that had the payment confirmed and are on the [order status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) `ready for handling`, as in the image below:
 
-En la sección superior de la aplicación podrás encontrar las siguientes funcionalidades.
+The table below contains a description of the columns:
 
-- **Selección de instalación,** ubicada a la derecha del ícono del usuario alistador. Al tocar, indica las instalaciones asociadas al usuario.
+| **Column** | **Description** |
+| ---------- | ---------- |
+| Created date | Order placement date and time. |
+| Delivery date | Order shipping deadline, according to the Service Level Agreement (SLA) defined between the store and the customer. |
+| Delivery method | Order shipping type, which can be delivery, send to customer’s address, or pickup from [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). |
+| Order number | Unique ID that identifies an order, the same one used in the Order Management System (OMS). |
+| Picker | Name of the picker assigned to the order. The picker is the person responsible for the picking process. The default value is `Unassigned` until a picker is assigned. |
+| Status | Order status, which can be: <ul><li><b>Ready for handling:</b> Orders are ready for handling, but were not yet assigned to a picker.</li><li><b>Ready for picking:</b> The order was assigned to a picker and is depending on the picker’s confirmation to move to the next status.</li><li><b>Picking:</b> The picker is collecting the order items.</li><li><b>Ready for packing:</b> The picker has finished the picking process and the order is ready to be packed.</li><li><b>Packing:</b> The order’s items are being packed in bags or packages determined by the store.</li><li><b>Ready for invoicing:</b> The order can be invoiced. <i>VTEX Pick and Pack</i> solution does not invoice orders.</li><li><b>Invoiced:</b> The order was invoiced.</li><li><b>Prepare services:</b> Shipping services are ready to be created.</li><li><b>Ready for shipping:</b> The order is ready for shipping.</li><li><b>Delivered:</b> The order was delivered to the customer address or pickup point.</li><li><b>Idle:</b> The order was an external fulfillment, and <i>VTEX Pick and Pack</i> will not be able to process it. If the order is invoiced in OMS in a status different from <code>Ready for invoicing</code>, the system will also consider it an external fulfillment and change the order status to <code>Idle</code>.</li><li><b>Canceled:</b> The order was ready for handling, but was canceled.</li></ul> |
 
-![pick and pack 3](//images.ctfassets.net/alneenqid6w5/7KTcPX2RJjmo7QMfZxsxx8/b5b10100395ac08bc6cb78575e3eeaed/image15.png)
+To view more details about an order, select one from the list and the information below will appear:
 
-- **Menú**, donde figuran los accesos directos a las funcionalidades principales de la aplicación.
+| **Column** | **Description** |
+| ---------- | ---------- |
+| Customer information | Customer’s name, email and contact number. |
+| Delivery information | Customer’s address for delivery or pickup point address, when the customer is picking up from the store. |
+| Delivery window | Shows the date the order was placed and the date the customer should receive it. |
+| Order items | Number of items and their categories. |
+| Payment method | Order's total amount and the [payment method](https://help.vtex.com/en/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used, like credit or debit cards. |
 
-![pick and pack 4](//images.ctfassets.net/alneenqid6w5/2633eMzDne2LCpYWqksCUm/e09e4962d5a17b8b68993387b2fcb719/image17.png)
+You can perform the following actions in the Picking and Packing page:
 
-## Proceso de alistamiento
+* [Search](#search)
+* [Filter](#filter)
+* [Import](#import)
+* [Export](#export)
+* [Print receipt](#print-receipt)
+* [Assign/Reassign picker](#assign-reassign-picker)
 
-### Creación de hojas de trabajo
+#### Search
 
-Desde la página de inicio, toca la opción **Sin asignar.** 
+On the top of the page, there is a search box with the magnifier icon <i class="fas fa-search"></i> in which you can search for orders using the following criteria:
 
-Al ingresar, encontrarás pedidos que están listos para preparación, organizados por fecha de entrega de forma descendiente.
+* Order ID
+* Customer name
+* Store operator managing the order
 
-Los pedidos en color rojo son aquellos que llevan mucho tiempo sin ser gestionados y el verde representa aquellos más recientes.
+#### Filter
 
->ℹ️ Las hojas de trabajo permitirán combinar varios pedidos, de modo que todos los ítems puedan ser alistados.
+You can filter orders using different criteria, and when you click `Filters`, a modal displays these options:
 
-Elige los pedidos que deseas gestionar y haz clic en la opción  **Empezar a alistar.** En ese momento el sistema crea las hojas de trabajo, con su respectivo número de identificación, que estarán compuestas por los ítems de los pedidos seleccionados.
+* **Sort Ascending/Descending:** Ascending sort makes the orders with the most recent delivery date and time set by customers at checkout appear first in the list. Descending sort organizes the list in the opposite way.
+* **Order date:** Set a range to filter orders created within the chosen start and end date.
+* **Due date:** Delivery deadlines occur within the chosen start and end date.
+* **Status:** One or more selected [order status](#picking-and-packing-list-page).
+* **Order total:** Order’s cost range, which can go from $0 to $5 millions.
+* **Number of items:** Number of orders’ items, which can go from 0 to 99.
+* **Carrier:** The [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) assigned to the delivery.
+* **Payment method:** The [payment method](https://help.vtex.com/en/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used by the customer, like credit or debit cards.
+* **Picker:** Picker assigned for the order picking process. Use available pickers’ emails.
+* **Categories:** Orders items' categories, for example, _Beverage_ or _Clothes_. It depends on the store’s category tree configured in the Catalog.
 
-![pick and pack 5](//images.ctfassets.net/alneenqid6w5/3ibz0RB8PSB3NdQnfVmXny/dc584f577881dbe47ff343a05ea0c528/image43.png)
+If you wish to remove the selected filters, click `Filters`, and then click `Clear filters`.
 
-![pick and pack 6](//images.ctfassets.net/alneenqid6w5/79AdZNyZkpj3dK8uLfFUnz/ee0bd30e3073345a515d46c7e0de1019/image11.png)
+#### Import
 
-De igual manera, se  habilitarán las acciones de alistamiento para cada producto que compone los pedidos asociados a las hojas de trabajo.
+By default, orders in the `ready for handling` status should be automatically imported from OMS to Picking and Packing. If an order is not appearing on the fulfillment module, although is `ready for handling`, it could be due to manual changes to the order’s status in the OMS, and you can import it manually.
 
-### Alistamiento de ítems
+To import an order manually, follow the steps below:
 
-Hay varias formas de iniciar el alistamiento de los productos: 
+1. Click `Import`.
+2. Enter the Order ID.
+3. Select the checkbox _“Only orders that did not download automatically will be imported”_.
+4. Click `Import`.
 
-Sitúate sobre el producto que deses alistar, y desliza hacia la izquierda.
+#### Export
 
-![pick and pack 7](//images.ctfassets.net/alneenqid6w5/1hGlv0xBZbzSxviLzKXHTW/05f428c28ca4faff07d563b48a8e60e6/image39.png)
+You can export a list of orders following the steps below:
 
-Si se pulsa una vez sobre el producto, solo será alistada una unidad. Si se pulsa dos veces, se alistarán todas las unidades.
+1. Click `Export`.
+2. Add the desired filters.
+    > It is not possible to export all orders. You can duplicate or delete filters in the menu <i class="fas fa-ellipsis-v"></i>. The available filters are:
+    * Picker
+    * Categories
+    * Carrier
+    * Start date
+    * End date
+    * City
+3. Click `Export`.
 
-### Rechazar ítems
+#### Print receipt
 
-Existen varias formas de rechazar un producto:
+The receipt is a report that contains what the picker has collected and the order's total amount. It may count as an invoice in some countries, but that is not a rule.
 
-Sitúate en el producto que deseas alistar, y desliza hacia el lado derecho.
+To print an order receipt, click on the menu <i class="fas fa-ellipsis-v"></i> of the row that corresponds to the order and select `Print receipt`.
 
-![pick and pack 8](//images.ctfassets.net/alneenqid6w5/57QUYlKaUtl360QlxWC4kt/af1d8ca336a5f911568f9ec948461bf4/image7.png)
+#### Assign/Reassign picker
 
-Mantén pulsado el producto y se desplegará un menú, donde puedes seleccionar Descartar ítem.
+To assign or reassign a picker, on the row of the desired order, click the menu <i class="fas fa-ellipsis-v"></i> and select  `Assign` or  `Reassign`. It will open a modal where you will choose the name of the picker.
 
-![pick and pack 9](//images.ctfassets.net/alneenqid6w5/2zRTW81m8FsoFpvNl70O4/b6b7f8ebe0d37d6439a348ed0735a5f0/image25.png)
+You can also assign or reassign a picker in the [Picking and Packing details page](#picking-and-packing-details-page), by clicking on the pencil icon <i class="fas fa-pencil-alt"></i> and selecting the picker.
 
-Después, debe incluirse el motivo del rechazo. Si lo deseas, puedes rechazar una cantidad específica, ingresando la cifra para después pulsar la opción Descartar unidades. También puedes descartarlas todas, como se muestra en la captura de pantalla a continuación.
+### Picking and Packing details page
 
-![pick and pack 10](//images.ctfassets.net/alneenqid6w5/78Ghr0v7Dp1PkKqLF1Q4pZ/2fc6d278277e1aa09c19ffad4c05935d/image23.png)
+To access an order details page, on the **Picking and Packing list page** click on the menu <i class="fas fa-ellipsis-v"></i> button at the row of the order you want to see more information about and select `See details`. You will find a page like the one below:
 
-### Reemplazar ítems
+In the details page, you can do the actions below. The actions available on the **Picking and Packing details page** will change according to the order status on the [Picking and Packing list page](#picking-and-packing-list-page).
 
-La opción **Reemplazar ítem** se encuentra en el menú que se despliega al tocar cada producto.
+* [Picking](#picking)* 
+* [Add item](#add-item)*
+* [Create personalized product](#create-personalized-product)
+* [Replace with recommended item (Suggestions)](#replace-with-recommended-item-suggestions)*
+* [Replace item (Search)](#replace-item-search)*
+* [Change price](#change-price)*
+* [Delete item](#delete-item)*
+* [Finish picking/confirm pickup](#finish-picking-confirm-pickup)*
+* [Packing](#packing)*
+* [Print receipt and voucher](#print-receipt-and-voucher)
+* [Add shipping service](#add-shipping-service)
+* [Track order](#track-order)
 
-Si se accede a **Reemplaza ítem**, el sistema valida los pedidos a los que pertenece el producto. Si existen pedidos que comparten productos el sistema habilita el listado de los pedidos asociados.
+>❗ Although the actions above can be performed by [users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) with access to the Admin, typically the actions with an ***** (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
 
-![pick and pack 11](//images.ctfassets.net/alneenqid6w5/2fFFzKLeIp6dNgknXAYuC/efdcba4627eadd592938dc8d4419218c/image21.png)
+#### Picking
 
-Selecciona los pedidos deseados y toca la opción **Reemplazar en los pedidos seleccionados.** Después, el sistema habilitará la pantalla **Reemplazar ítem.**
+In the natural flow, the picking is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-La pantalla Reemplazar ítem habilita los productos asociados al producto a reemplazar. Puedes utilizar el filtro de búsqueda.
+In the product row, as in the image below, you can pick a product and perform other actions.
 
-![pick and pack 12](//images.ctfassets.net/alneenqid6w5/3lGf61iDMk0nXqPtpIjTvM/3ff3f40f5609d481d8ee1d844a586a5a/image57.png)
+To pick a product, follow the steps below:
 
-Selecciona el producto deseado y haz clic en  la opción Reemplazar ítem: el sistema habilitará los campos de reemplazo.
+1. On the **Quantity** column, select the desired number of items.
+2. Click the check button <i class="far fa-check-circle"></i> at the end of the row.
+3. Click `Confirm`.
 
-![pick and pack 13](//images.ctfassets.net/alneenqid6w5/1pYNdI9Az53pRgdg1cYTnm/aef41d13dbcfa7534c36fe94de3733ff/image35.png)
+In case you need to undo the picking, click on the menu <i class="fas fa-ellipsis-v"></i> in the product's row and select `Restore`.
 
-Se pueden ingresar los siguientes datos:
-- Precio.
-- Cantidad.
-- Seleccionar el motivo de rechazo.
-- Ingresar la descripción del rechazo.
-- Modificar el precio.
+#### Add item
 
-Toca la opción **Confirmar reemplazo.**
+In the natural flow, adding items is done by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-### Observaciones al ítem o al pedido
+You can add another product by following the steps below:
 
-Para ingresar observaciones sobre el producto, accede al menú del ítem y después a la opción **Agregar observaciones.**
+1. On the menu <i class="fas fa-ellipsis-v"></i> on the same row of the Order ID, click `+Add item`.
+2. Search for the desired product.
+3. Click `Select`.
+4. Click `Add products`.
 
-![pick and pack 14](//images.ctfassets.net/alneenqid6w5/1r3yi390cfL6GxMcbEAWyj/1f8138ce000a1408441d5f77dbed2d2b/image31.png)
+#### Create personalized product
 
-Si existen pedidos que comparten producto, selecciona el pedido al que debe asociarse la observación. Ingresa la observación y toca la opción **Agregar observación.**
+You can create a personalized product by following the steps below:
 
-Para ingresar observaciones a la hoja de trabajo, nos ubicamos en el menú y seleccionamos la opción **Agregar observaciones.** Ingresamos las observaciones y tocamos en **Agregar observación.**
+1. On the menu <i class="fas fa-ellipsis-v"></i> on the same row of the Order ID, click on `+Add item`.
+2. Click the icon with a <i class="fas fa-plus"></i> plus sign.
+3. Fill in the following fields:
+    * Name
+    * Price
+    * Refid
+    * Ean
+4. Select a category.
+5. Click `Add`.
+6. Click `Add products`.
 
-### Opciones de la hoja de trabajo dentro del menú
+#### Search: replace item
 
-- **Listo para empaquetar:** permite alistar o rechazar todos los ítems asociados a la hoja de trabajo.
-- **Pausar alistamiento:** al hacer clic sobre esta opción, la hoja de trabajo queda en estado de pausa para no afectar el rendimiento del alistador.
-- **Imprimir lista de alistamiento:** disponibiliza un documento que enumera los ítems alistados de cada pedido.
+In the natural flow, the replacement of items is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-![pick and pack 15](//images.ctfassets.net/alneenqid6w5/7D4oZ5bWzb5BPeN43xH7HV/002a586863b4e1044aeac477b165cc2e/image45.png)
+You can replace a product by doing the following:
 
-## Proceso de empaquetado
+1. On the row corresponding to a product that was not picked, click on the menu <i class="fas fa-ellipsis-v"></i>.
+2. Click `Search`.
+3. Search for the desired product.
+4. Click `Select`.
+5. Click `Confirm`.
+6. In the modal that opens, select a reason for the replacement.
+    > The reasons have to be configured, as explained in the [Picking settings](#picking-settings) section.
+7. Fill in the field **Notes** with a brief explanation for the replacement (required).
+8. Click `Confirm`.
 
-Al terminar con el alistamiento del pedido el status pasa a ser Listo para empaquetar, permitiendo realizar el proceso de empaquetado.
+#### Suggestions: replace with recommended item
 
-Existen varias formas de iniciar el empaque.
+In the natural flow, the replacement of items is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-En el dashboard se encuentra la opción **Para empaquetar;** al acceder, nos redirige a la lista de hojas de trabajo pendientes por empacar. Desde el menú, accedemos a la lista de **Empaquetado** ubicada dentro de la opción **Pendiente.**
+You can replace an item for another one based on a recommendation. The option displayed depends on what your settings are in [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). 
 
-![pick and pack 15](//images.ctfassets.net/alneenqid6w5/5wiF37YnG1uwyR3j3SjB50/f3634ddeab5a581319b18252955ae4b3/image9.png)
+To replace an item for a recommendation, follow the steps below:
 
-Dentro de la pestaña **Empaquetado** seleccionamos la hoja de trabajo que se encuentre en estado Listo para empaquetar o Empaquetado para iniciar o continuar el proceso de empaque.
+1. On the row corresponding to a product that was not picked, click on the menu <i class="fas fa-ellipsis-v"></i>.
+2. Click `Suggestions`.
+3. Add the product that appears by clicking on `Select`.
+4. Click `Confirm`.
+5. In the modal that opens, select a reason for the replacement.
+    > The reasons have to be configured, as explained in the [Picking settings](#picking-settings) section.
+6. Fill in the field **Notes** with a brief explanation for the replacement (required).
+7. Click `Confirm`.
 
-Al acceder encontramos la lista de productos, donde podemos realizar un empaque individual o en masa.
+You can also search manually for a product, by doing the following:
 
-![pick and pack 16](//images.ctfassets.net/alneenqid6w5/76b06UUuKR7apFSGFXfetA/2a2b5bdfd1377b631e33102676adc9d3/image14.png)
+1. On the menu <i class="fas fa-ellipsis-v"></i>, click `Suggestions`.
+2. Click `Search manually`.
+3. Search for the desired product.
+4. Click `Select`.
+5. Click `Confirm`. 
+6. In the modal that opens, select a reason for the replacement.
+    > The reasons have to be configured, as explained in the [Picking settings](#picking-settings) section.
+7. Fill in the field **Notes** with a brief explanation for the replacement (required).
+8. Click `Confirm`.
 
-### Empaquetado individual o en masa
+#### Change price
 
-#### Empaquetado en masa
+In the natural flow, the price change is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-Para realizar un empaquetado en masa, dirígete al icono en forma de caja ubicado al lado derecho del campo de búsqueda.
+In order to change the price of an item, follow the steps below:
 
-Al tocar, se abre una ventana donde seleccionar el pedido para hacer el empaque masivo. Elige el embalaje que deseas utilizar.
+1. On the row corresponding to a product that was not picked, click on the menu <i class="fas fa-ellipsis-v"></i>. 
+2. Click `Change price`.
+3. In the modal that opens, fill in the fields:
+    * New price
+    * Reason
+    * Notes
+4. Click `Change price`.
 
-Verifica los productos del pedido que seleccionaste y toca la opción Empaquetar producto.
+#### Delete item
 
-![pick and pack 17](//images.ctfassets.net/alneenqid6w5/4cTjjNy4p1dcFjTFklDhhi/ccb4a42627f2d3e78a3ef26f23f9ee28/image5.png)
+In the natural flow, deleting items is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-#### Empaquetado individual
+You can reject a product by following the steps below:
 
-Para realizar un empaquetado individual, selecciona el producto que necesitas empaquetar.
+1. On the menu <i class="fas fa-ellipsis-v"></i>, click `Delete item`.
+2. In the modal that opens, select a reason for the rejection.
+3. Fill in the field **Notes** with a brief explanation for the deletion (required).
+4. Click `Confirm`.
 
-Si el producto está asociado a más de un pedido, el sistema lista los pedidos que puedes empaquetar; elige el pedido deseado.
+In case you need to restore the product, click on the menu &lt;insert_icon> and select `Restore`.
 
-Haz clic en **Nuevo Paquete** y selecciona el embalaje que deseas utilizar. 
+#### Finish picking/confirm pickup
 
-Agrega las unidades y selecciona la opción **Empaquetar producto.**
+In the natural flow, this is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to do it.
 
-## Proceso de envío
+Depending on the order status displayed on the [Picking and Packing list page](#picking-and-packing-list-page), in the **Status** section you will find different buttons for specific actions, like the `Finish Picking` in the image below:
 
-Una vez alistados todos los ítems, debes realizar el proceso de envío seleccionando desde el menú la opción **Para enviar.**
+The button options and the actions you perform by clicking on them can be one of the following:
 
-![pick and pack 18](//images.ctfassets.net/alneenqid6w5/3JqIlsCpWHul7ou3md1N4h/8307b7628684191dfa7f712ca4293808/image18.png)
+* `Finish picking`: All items were picked, and you conclude the picking, moving to the packing process.
+* `Confirm pickup`: If it is a delivery, you confirm pickup when the packages are ready to be delivered, and a carrier has picked them up. If the customer will get the order at a pickup point, you confirm pickup after the customer receives the packages.
 
-Se abrirá el listado de pedidos que se encuentran listos para envío, organizados por fecha de empaque. Haz clic sobre el pedido que deseas enviar.
+#### Packing 
 
-Si el pedido contiene más de un paquete, se deben seleccionar los paquetes para crear el servicio de envío. Después, haz clic en **Siguiente.**
+In the natural flow, the packing is made by pickers using their mobile devices. This section shows how to do it via Admin, in case [other users](#users) need to perform this action.
 
-Para crear el servicio de envío, deben proporcionarse los siguientes datos:
+Once you have finished the picking process, you have to create the packages and indicate which item goes in each package. The [packages’ settings](#packages-settings) of how to configure bags and any kind of packages will be seen in the next sections.
 
-- Fecha de recolección.
-- Fecha de entrega.
-- Seleccionar transportadora.
+To create a new package, follow the steps below:
 
-Al terminar, toca en la opción **Seleccionar y continuar.**
+1. Click on the icon in the section **Package List**.
+2. Select the package type.
+3. Click `Create package`.
 
-![pick and pack 18](//images.ctfassets.net/alneenqid6w5/7mvhayvPfwyNkHgq5DMCWk/24ad3596a5d163694abc38f6b858a226/image16.png)
+You can add a single product to a package or all products at once. After all products are packed, click `Close Packages`. Once you close packages, you are no longer able to add items or make any kind of change.
 
-Verifica los datos del servicio y haz clic en la opción **Crear servicio.**
+>❗ **VTEX Pick and Pack** is not an invoicing system. Once the order gets to `Ready for invoicing` status, it must be invoiced and updated as `Invoiced` in OMS. Only after that, **VTEX Fulfillment** will end the picking and packing flow and proceed to shipping.
+> If the order is invoiced in a status different from `Ready for invoicing`, the system will consider it an external fulfillment and change the order status to `Idle`, unabling **VTEX Pick and Pack** to process it.
 
-## Sección pedidos - Admin
+#### Print receipt and voucher
 
-Al entrar como Administrador tendrás acceso a la opción **Pedidos** desde el panel de Pick and Pack.
+On the top of the details page, on the left side of **Status**, you will find a menu <i class="fas fa-ellipsis-v"></i> and when you click on it, it displays the following options:
 
-En esta sección se muestra la distribución de pedidos según el estado en el que se encuentre actualmente:
+* **Receipt:** print the order’s receipt regarding all items.
+* **Voucher:** print the voucher, a report for customers that contains general information and that can be signed by them.
+* **Receipt picked items:** print the order’s receipt related only to items already picked.
+* **Voucher picked items:** print the voucher related only to items already picked.
+* **+ Add item:** [add a new product](#add-item) or create a [personalized product](#create-personalized-product).
 
-- Todos
-- Pendiente
-- Para enviar
-- Entregados
-- Cancelado
-- Rechazado
-- Exportar
+#### Add shipping service
 
-Posee un filtro de búsqueda configurable según la necesidad de resultado del usuario. Se puede filtrar por:
+When the order picking, packing and invoicing is complete, and the order is in the `Prepare services` status, you can add a shipping service following the steps below:
 
-- Fecha de creación
-- Fecha de entrega
-- Categorías
-- Medios de pago
-- Estrategia de envío
+1. Click the `Add service` button.
+2. Select the **day** and **time** when the order will be dispatched.
+3. Select the **day** and **time** when the order will be shipped.
+4. Choose a carrier.
+5. Select a Service Type.
+6. Select a payment method.
+7. Select the packages that will be shipped.
+8. Click `Confirm shipments`.
 
-Cuenta con un botón para **cerrar** ventana, o en su defecto, para **borrar todos** los filtros seleccionados.
+You will receive a message of success and the order will move to the _Ready for shipping_ status.
 
-![pick and pack 20](//images.ctfassets.net/alneenqid6w5/2cCfB2KdjWyRdvD8q9z4BF/3710266548a474dff6516120945ed626/image4.png)
+#### Track order
 
-La  sección Pedidos muestra la tabla de datos sin filtrar, con las opciones:
+Once the order gets to the _Ready for shipping_ or _Delivered_ status, the `Go to tracking` button will appear in the [Picking and Packing details page](#picking-and-packing-details-page). When you click it, you will be redirected to [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) to track the order.
 
-- ID del pedido
-- Facturas
-- Ítem(s)
-- Envío
-- Pago
-- Tags
-- Fecha de vencimiento
-- Status
+Or you can go to **Last Mile** directly in the store’s Admin, accessing **Apps > Last Mile > Shipping Services**.
 
-El usuario tendrá acceso a toda la información necesaria que corresponde al pedido.
+## Insights
 
-Al seleccionar un pedido, se abrirá una ventana adicional en la cual se muestra el estado del pedido.
+In **VTEX Pick and Pack**, the **Insights** page provides data and analytics about your orders during the fulfillment process. In that page, you will see two tabs: 
 
-- Además se puede comprobar el tiempo de preparación y la fecha de entrega prevista.
-- Las facturas del pedido.
-- Los ítem(s): se observarán los ítems ya alistados, rechazados, reemplazados y otras acciones realizadas desde la aplicación.
-- Las observaciones del pedido.
-- La información de envío.
-- La información del pago.
-- La información adicional.
-- Inicios de sesión.
+* [Picking and Packing](#insights-picking-and-packing)
+* [Operation](#insights-operation)
 
-## Sección hojas de trabajo - Admin
+>⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For more information, see the [Users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
 
-Al acceder como administrador, se podrá hacer un seguimiento de los pedidos y los flujos de datos de todas las acciones realizadas en la aplicación.
+### Insights: Picking and Packing
 
-En la opción **Hojas de trabajo** se muestran las  siguientes secciones:
+**Total orders** is a real time chart where you see information about all orders during a period in comparison to another. You can use multiple [filters](#insights-filters) to get different results.
 
-### Tiempo real
+#### Insights: Filters
 
-Muestra la cantidad de pedidos realizados y su porcentaje.
+You can combine multiple filters to filter the information you want to see in the charts, by accessing `Filters` on the top of the page. You can filter by the following criteria:
 
-### Pedidos no asignados
+* Picker
+* Delivery method
+* Carrier
+* City
+* Seller
 
-En esta sección se encuentran los pedidos que aún no han sido asignados a ningún alistador; los pedidos en color rojo son los que llevan más tiempo y los que están en verde son los más recientes.
+>ℹ️ The filter **Seller** is visible only for the account that operates as a marketplace. [White label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that filter option in **Insights**.
 
-### Hojas de trabajo
+Besides the **Total orders** chart, there is a sequence of charts where you obtain data about _Payment methods_ and orders that were:
 
-En esta opción se podrán encontrar los pedidos que ya han iniciado un proceso de alistamiento desde la aplicación.
+* Picked
+* Shipped
+* Delivered
+* Cancelled
 
-Al ingresar se muestra una tabla con las opciones:
+You can apply multiple filters to get different results.
 
-- Todos
-- Alistando
-- Empaquetando
-- Completado
-- Cancelado
+#### Insights: Performance of categories and products
 
-También posee la opción de Fijado, donde el usuario puede acceder a los pedidos en los que está trabajando actualmente.
+Below **Total orders**, you will find a chart about the number of orders and units bought and to what category they belong to. You can choose to group by `Categories` or `Products`.
 
-### Filtro de Búsqueda
+### Insights: Operation
 
-Además, cuenta con un filtro de búsqueda que permite encontrar los pedidos según la necesidad del usuario.
+In the tab **Operation**, you will see the Picking and Packing **Order flow**, a chart with the total amount of orders distributed per day in the last seven days. The darker the blue, the more orders, the lighter the blue, the less.
 
-![pick and pack 21](//images.ctfassets.net/alneenqid6w5/T6d3roLMCvoOMi52X7KMJ/3faf3580c22a2c289ff7aeef7c2ffc7f/image59.png)
+>ℹ️ The Picking and Packing **Order flow** chart is calculated taking into account all orders of the last 7 days, and distributes them in hours, going from 0 to 23. Even if you change the period to 15 days, for example, the chart will remain fixed considering 7 days.
 
-## Configuración de la aplicación
+Below the **Order flow**, there is another chart with orders data filtered by picker. You will see information about:
 
-Entra al panel de administrador de tu tienda VTEX utilizando tus credenciales de acceso. Después, en el menú **Pick and Pack,** haz clic en la opción **Configuración.**
+* Orders
+* Products
+* Rejected products
+* Fulfillment rate
+* Average time
 
-Una vez dentro, encontrarás varias opciones que te permitirán personalizar los siguientes procesos:
+The page also provides charts related to the following topics:
 
-- Alistamiento
-- Categorías de los productos
-- Empaquetado
-- Pedidos
-- Automatización
-- Usuarios
-- Catálogo
-- Instalaciones
+* **Picked orders:** number of orders picked in the selected period.
+* **Fulfillment rate:** percentage of orders picked within the minimum delivery due date. 
+* **Time:** average time of the picking process.
+* **Rejection reasons:** explanation of why a product was rejected.
+* **Replacement reasons:** explanation of why a product was replaced.
+* **Price change reason:** explanation of why a product has a price change.
 
-### Configuración y alistamiento
+## Settings
 
-La estrategia de alistamiento está estructurada por olas, e incluye:
+In order to configure **VTEX Pick and Pack** for your store, in your Admin, go to **Apps > Fulfillment > Settings.** You will a page with the following tabs:
 
-- Cambios en los pedidos.
-- Motivos de reemplazo y rechazo.
-- Motivos de cambio de precio.
-- Límite de cambios de cantidad de ítems en el pedido.
-- Límite de cambios de precio en ítems del pedido.
-- Límite total de cambios en los pedidos.
-- Hojas de trabajo.
-- Tags de hojas de trabajo.
-- Activar códigos EAN dinámicos.
+* [General](#general-settings)
+* [Picking](#picking-settings)
+* [Categories](#categories-settings)
+* [Packages](#packages-settings)
+* [Shipping](#shipping-settings)
+* [Printing](#printing-settings)
+* [Webhooks](#webhooks-settings)
 
->ℹ️ Alistamiento por olas significa que a medida que van llegando los pedidos estos pueden alistarse.
+>⚠️ To be able to access **Settings**, you need to be a [VTEX Fulfillment admin user](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) or a customer service user.
 
-### Cambios en los pedidos
+### General settings
 
-Activar o desactivar las siguientes funciones:
+In this tab, you can configure the store you are adding **VTEX Pick and Pack** to. You can choose a store by clicking on the pencil <i class="fas fa-pencil-alt"></i> at the top of the page and selecting the desired one.
 
-- Enviar cambios al OMS
-- Permitir cambiar el precio de los ítems
-- Permitir reemplazo de ítems
-- Permitir rechazar ítems
-- Permitir editar las cantidades de los ítems
-- Permitir agregar observaciones en el pedido
-- Permitir agregar observaciones en los ítems
+To configure a store, follow the steps below:
 
-### Motivos de rechazo y motivos de cambios de precio
+1. Fill in the boxes next to the map with the information of the store’s address.
+2. In **Contact information**, fill in with data about the person who is going to be contacted, if necessary.
+3. In **Work Schedules**, set up the starting and ending hour of the days of the week when the store’s picking can be performed.
+4. In **Units of measure**, select which unit is going to be the default to measure the length of items and packages, for example.
+5. Click the `Save` button.
 
-Permiten configurar las opciones que el sistema va a habilitar dentro de la aplicación Pick and Pack. Solo debes hacer clic sobre los campos para crearlos o eliminarlos del listado.
+### Picking settings
 
-#### Límite de cambios
+In this tab, you can configure some of the main aspects and preferences of the picking process, for example, rejection reasons and [pickers](#users-and-license-manager-in-vtex-fulfillment).
 
-Los límites de cambios de cantidad y precio de ítems en el pedido te permiten configurar el porcentaje (%) aceptado por cada tienda.
+To determine the picking settings, follow the steps below:
 
-#### Hojas de trabajo para habilitar o deshabilitar las siguientes funciones:
+1. In **Picker Assignation**, select if the store will assign pickers manually (`manual`), by an [Admin User](#users-and-license-manager-in-vtex-fulfillment), or automatically (`automatic`), based on the pickers’ availability.
+2. In **Packing Path**, select the moment you want the packing process to start, which can be:
+    * After picking
+    * After invoice
+    * From invoice
+3. In **Picking app**, enable the toggles <i class="fas fa-toggle-on"></i> related to the preferences of what pickers will be able to see and perform through the mobile application. It is not mandatory to enable them, and the options are the following:
+    * Show customer information
+    * Allow price change
+    * Allow product replacement
+    * Allow rejecting products
+    * Limit collection item quantity
+    * Allow mobile packing
+4. In **Reasons**, under _Replacement reasons_, fill in the box with the name of the label that will identify a valid replacement reason and press `enter`. Repeat the process to add as many labels as you want.
+5. Under _Changes price reasons_, fill in the box with the name of the label that will identify the reason for price changes and press `enter`. Repeat the process to add as many labels as you want.
+6. Fill in the box under _Limits for changes_ with the number of how many changes can be performed per order.
+7. In **Priority order**, choose the level of priority in the category tree level to sort items in the picking process. You can choose between `1` (main categories), or `2` (children categories).
+8. Click the `Save` button.
 
-- Permitir varios pedidos en una hoja de trabajo
-- Activar alistamiento rápido
-- Activar express fulfillment
-- Permitir mover pedidos una vez iniciado el alistamiento
-- Permitir mover pedidos entre hojas de trabajo
+### Categories settings
 
-#### Tags de hojas de trabajo
+In this tab, you will find categories and subcategories that should be listed according to the store’s business model priorities.
 
->⚠️ Solo debes hacer clic sobre el campo para crearlo o eliminarlo del listado.
+The actions you can do are the following:
 
-Las tags ayudan como identificadores de las hojas de trabajo para poder realizar configuraciones, filtros o asignaciones  necesarias dentro del sistema.
+* **Change priority:** Click the category and drag it to the position you want. 
+* **Delete category:** Click the trash icon <i class="far fa-trash-alt"></i> and click `Yes, delete`. This action will make the category disappear from the list and appear on the side, under _Collection / Category priority_.
+* **Add category:** If one category was deleted, it will appear under _Collection / Category priority_, and you can add them to the list by clicking on it.
 
-#### Activar códigos EAN dinámicos
+After changing the priorities list, you need to click `Save`.
 
-Existen tres tipos: precio, peso y cantidad. La configuración se compone de:
+### Packages settings
 
-- **Prefijo:** corresponde al identificador que el sistema va a tomar en el momento de asociar los EAN dinámicos.
-- **Identificador del ítem:** corresponde al tipo de identificador que el sistema va a tomar (RefID o SKU) para los identificadores.
-- **Decimales:** cantidad de decimales que soporta.
-- **Prueba:** permite verificar que la configuración esté correcta.
+In this tab, you can control the packages used to deliver the order and can create or delete a package.
 
->ℹ️ Puedes seleccionar los tres tipos de configuraciones para la tienda.
+To create a package, do the following:
 
->ℹ️ Si quieres eliminar un tipo puedes hacerlo dentro del campo haciendo clic sobre la X que lo acompaña.
+1. Click `Add new`.
+2. Fill in the name that will identify the package.
+3. Fill in with the package’s measures: height, width and length, using numbers only. 
 
->❗ EAN dinámico es un código que se genera con el peso del producto para calcular el precio.
+  >ℹ️ The measurement unit is the one configured in the tab General, in **Units of measure**.
 
-### Configuración de categorías
+4. Click `Add`.
 
-Aquí puedes realizar la configuración de las categorías que van a estar disponibles en la tienda, permitiendo importarlas y exportarlas. Esta configuración se realiza por Instalación.
+To delete a package, click on the row that corresponds to it and then click `Yes, delete`.
 
-También puedes definir el orden de alistamiento preferido para cada instalación. Este orden de alistamiento se aplica a todas las hojas de trabajo de una instalación específica.
+### Shipping settings
 
-La opción **Configuración rápida** replica la configuración de todas las Instalaciones asociadas a la tienda.
+In this tab, you can associate a [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) service to your store, which allows you to have status and location tracking with real-time updates, while your in-house courier’s fleet delivers orders to customers.
 
-### Configuración de empaquetado
+If the **Last Mile** toggle <i class="fas fa-toggle-off"></i>is disabled, there are no setting options. To start using **Last Mile**, do the following:
 
-La configuración de empaquetado e impresión incluye: 
+1. Enable the toggle by clicking on it <i class="fas fa-toggle-on"></i>.
+2. In **Associated carrier**, select the name of the carrier.
+3. If you do not want to enable automatic courier assignment when creating shipping services, leave the toggle disabled <i class="fas fa-toggle-off"></i> and click `Save`.
+4. If you want to enable automatic courier assignment, enable the toggle <i class="fas fa-toggle-on"></i> `Automatic courier assignment`.
+5. In _Type of assignment_, select the assignment rule for choosing carriers, which can be:
+    * **One at a time:** The task notification is sent to the courier that is closest to the collecting point. If the first courier does not accept the task within the request expiration time, the task is sent to the second nearest courier and so on. If no courier accepts the task, it remains unassigned.
+    * **Send to all:** All the couriers available in the task time zone receive the notification, limited to a maximum of 500 couriers. The task is assigned to the first courier that accepts it, and it stays unassigned until someone accepts it.
+    * **Round robin:** Within a certain radius, a round robin — an algorithm for scheduling and assigning resources — is assigned to the courier, and you can select the following options:
+        * Assign services to disconnected users
+        * Restart assignment if the service is rejected
+        * Prioritize couriers without services
+        * Prioritize couriers with shorter delivery time
+    * **The nearest one:** The task assignment is given to the available courier that is closest to the point where the order will be collected.
+6. Fill in the field _Expires in (seconds)_ with x, using numbers only. 
+7. Fill in the field _Number of reattempts_ with x, using numbers only. 
+8. Click `Save`.
 
-- Permitir informes sobre paquetes.
-- Permitir empaquetado automático.
-- Configuración de impresión de etiquetas de paquetes.
-- Configuración de impresión de recibos.
-- Sobres.
+### Printing settings
 
-La configuración de impresión de etiquetas de los paquetes te permite realizar los ajustes de la hoja de impresión: 
+In this tab, you can configure [printing](#print-receipt) preferences, organized in the following sections:
 
-- Formato
-- Tamaño de la fuente
-- Márgenes
-- Dimensiones
+* **Receipt:** Order’s receipt.
+* **Package label:** Label to identify a package, with bar codes for scanning.
+* **Shipping label:** Label with the shipping address.
 
-La configuración de sobres te permite crear el tipo de empaque de la tienda.
+In each one of those sections, you have to enable the toggle <i class="fas fa-toggle-on"></i> for the configuration to be valid. 
 
-En el momento de crearlos, el sistema proporciona los campos de configuración del paquete, que incluyen: 
+Once you are done with the printing settings, click `Save`.
 
-- **Nombre.**
-- **Tipo:* permite seleccionar si son bolsas, cajas, sobres, etc.
-- **Código:** corresponde a la identificación que maneja la tienda.
-- **Medidas.**
+### Webhook settings
 
-### Configuración de pedidos
+In this tab, you can configure a webhook to be notified about orders’ status changes and to get information about a given order. 
 
-La configuración de pedidos te permite habilitar la descarga de pedidos del OMS, teniendo en cuenta las siguientes configuraciones:
+>ℹ️ For more information, see our VTEX [Pick and Pack documentation](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api) for developers.
 
-- Medios de pago.
-- Métodos de envío.
-- Tipo de envío.
-- Tags del pedido.
+## Users
 
-### Configuración de automatización
+In **VTEX Pick and Pack**, the **Users** page allows you to manage the profiles involved in the fulfillment process, called _users_. There are three types of users:
 
-Esta configuración permite crear, editar y eliminar usuarios de Pick and Pack.
+| **User** | **Description** | **Permission** |
+| ---------- | ---------- | ---------- |
+| Picker | Person responsible for the picking. | <ul><li>Access the app, whether in mobile or web version (does not work offline).</li><li>Do not have access to the Admin.</li></ul> |
+| Customer Service | The store’s operator responsible for the order, the customer support with access to the Admin. | <ul><li>Access all orders in Admin.</li><li>Track orders.</li><li>Communicate with pickers.</li></ul> |
+| Admin | The admin role has access to check pickers, manage all settings, and order flow, including canceling orders if necessary. | All the permissions given to <i>Customer Service user</i>, plus: <ul><li>Manage all settings.</li><li>Manage order flow, including canceling orders.</li></ul> |
 
-Podemos asignar el rol Admin a los usuarios que se encuentran habitados.
+### Users and License Manager in VTEX Fulfillment
 
-También podemos crear usuarios Alistadores, asignarles instalaciones, realizar el proceso de empaquetado y asignación de categorías.
+The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **VTEX Fulfillment**, there are three types of users that participate in the fulfillment process - picker, customer service and admin. Usually, in VTEX, users are related to [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-### Configuración de instalaciones
+To access the **VTEX Fulfillment**, the admin and customer service users must have permissions related to License Manager resources. We recommend [creating a role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identified as “_Fulfillment admin_”, which must have at least the following products and resources associated with it:
 
-Para la gestión del usuario alistador, es importante la asignación de instalaciones (facilities), debido a que esto le permitirá ver los pedidos asociados y así podrá realizar la gestión del alistamiento.
+| **Product** | **Associated Resources** |
+| ---------- | ---------- |
+| Insights | <ul><li>Insights metrics</li></ul> |
+| License Manager | <ul><li>Get account by identifier</li><li>Get applications</li><li>Find user by email</li><li>View users with account access</li><li>View all admin users</li><li>Get resource by key</li><li>Get role Get paged roles</li><li>Get paged users</li><li>Get admin status</li><li>Get accounts</li><li>Get accounts by host</li></ul> |
 
-Los alistadores pueden vincularse a una o varias instalaciones.
+### Actions in the Users page
 
->ℹ️ Instalación: es el lugar físico donde existen alistadores recolectando productos.
+In the page **Users**, you can perform the following actions:
 
-### Configuración de catálogo
+* [Add a picker user](#add-a-picker-user)
+* [Add a customer service user](#add-a-customer-service-user)
+* [Add an admin user](#add-an-admin-user)
+* [Edit users](#edit-users)
+* [Generate Api-Key](#generate-api-key)
+* [Delete](#delete)
 
-Te permite tener sincronizado el catálogo de VTEX con el de Pick and Pack.
+#### Add a picker user
 
-Si existen nuevos productos dentro del catálogo se debe indexar el catálogo.
+To create a new _picker_, follow the steps below:
 
-Además, incluimos la opción de agregar más EAN a los productos e indicar si son productos que deben mantenerse a temperatura ambiente, fríos o congelados.
+1. In your Admin, go to **Apps > Fulfillment > Users**.
+2. On the top menu <i class="fas fa-ellipsis-v"></i>, click `Add picker`.
+3. Fill in the following information:
+    * **Name:** Picker’s complete name.
+    * **Email:** Picker’s email.
+    * **User:** Username that will identify the picker.
+    * **Password:** The password the picker will need to identify and authenticate himself in the app. The password must have at least:
+        * One uppercase letter
+        * One lowercase letter
+        * One number
+    * **Stores:** Select the environment the picker will be associated with. Each environment can have multiple [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associated with it.
+    * **Categories:** Select up to four categories related to the products the picker will collect.
 
+  >ℹ️ The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.
+
+4. Click `Save user`.
+
+#### Add a Customer Service user
+
+Only [admin users](#users-and-license-manager-in-vtex-fulfillment) can create new _customer service users_. To do so, follow the steps below:
+
+1. In your VTEX Admin, go to **Apps > Fulfillment > Users**.
+2. On the top menu <i class="fas fa-ellipsis-v"></i>, click `Add customer service user`.
+3. In the box, search by typing the user’s name, email or Id.
+4. Click `Confirm`.
+
+#### Add an Admin user
+
+Only an [admin user](#users-and-license-manager-in-vtex-fulfillment) can create another _admin user_. To do so, follow the steps below:
+
+1. In your VTEX Admin, go to **Apps > Fulfillment > Users**.
+2. On the top menu <i class="fas fa-ellipsis-v"></i>, click `Add admin`.
+3. In the box, search by typing the user’s name, email or Id.
+4. Click `Confirm`.
+
+#### Edit users
+
+You can edit any kind of user to change the information listed below:
+
+* Name
+* Password
+* Categories
+* Store
+
+To edit a user, follow these steps:
+
+1. In your VTEX Admin, go to **Apps > Fulfillment > Users**.
+2. On the row that corresponds to the user you want to edit, click on the menu <i class="fas fa-ellipsis-v"></i>.
+3. Select the option `Edit`.
+4. Change the fields you want.
+5. Insert the password.
+6. Click `Save`.
+
+#### Generate Api-Key
+
+[Admin users](#users-and-license-manager-in-vtex-fulfillment) can generate Api-Keys to use VTEX Pick and Pack APIs. For more information, see our [documentation for developers](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api#webhook).
+
+To generate an Api-Key, follow the steps below:
+
+1. In your VTEX Admin, go to **Apps > Fulfillment > Users**.
+2. On the row that corresponds to an admin user, click the menu <i class="fas fa-ellipsis-v"></i>.
+3. Select the option `Edit`.
+4. Click `Generate`.
+5. Save the Api-Key in a safe place.
+
+  >❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
+
+6. Enter the password.
+7. Click `Save`.
+
+#### Delete users
+
+Only admin users can delete other users, by following the steps below:
+
+1. In your VTEX Admin, go to **Apps > Fulfillment > Users**.
+2. On the row that corresponds to the user you want to edit, click on the menu <i class="fas fa-ellipsis-v"></i>.
+3. Select the option `Delete`.
+4. Click `Save`.

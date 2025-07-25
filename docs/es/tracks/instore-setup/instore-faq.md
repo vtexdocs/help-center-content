@@ -9,52 +9,54 @@ firstPublishedAt: 2020-05-19T12:20:03.919Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: instore-faq
-locale: es
+locale: en
 trackId: 6N0QlieWqboSVU2ehgAVAb
-trackSlugES: instore-setup
+trackSlugEN: instore-setup
 ---
 
-## ¿Con qué adquirentes funciona la solución? 
-Todas las adquirentes integradas con Software Express (P. Ej.: Stone, Elavon, Cielo, Network, etc.) y Cappta.
+## Which acquirers does the solution work with?
+All acquirers integrated with Software Express (Ex: Stone, Elavon, Cielo, Rede, etc.) and Cappta.
 
-## ¿InStore posee lector de código de barras?
-InStore puede integrarse con cualquier lector de código de barras o utilizar la cámara del tablet o celular para escanear.
+## Does inStore have a barcode reader?
+InStore can be integrated with any barcode reader or use tablet or smartphone cameras to scan.
 
-## ¿La solución está integrada con la plataforma VTEX?
-Sí. El administrador de la tienda tendrá todo el back office de VTEX conectado a su tienda física: Pedidos, Pasarela de pagos, Logística y demás.
+## Is the solution integrated with VTEX’s platform?
+Yes. Retailers will have the entire VTEX back-office connected to their physical stores: Orders, Payment gateway, Logistics and the rest.
 
-## ¿Es compatible con el Cupón Fiscal Electrónico (NFC-e)?
-Sí. Puede emitir cupones fácilmente integrando la solución con su ERP.
+## Is it compatible with electronic invoices?
+Yes. You will be able to easily issue invoices after integrating our solution with your ERP system. 
 
-## ¿Cuánto cuesta inStore?
-La forma de pago se define con el equipo comercial y varía según el proyecto.
+## How much does inStore cost?
+The price is defined with the commercial team and varies according to the project.
 
-## ¿Necesito tener una tienda virtual en VTEX para utilizar inStore?
-No. Es posible utilizar inStore sin tener el comercio electrónico en VTEX, pero los datos deben ser integrados con la plataforma VTEX.
+## Do I need to have a VTEX online store to use inStore?
+No. You can use inStore without having an ecommerce on VTEX, but the data must be integrated with VTEX’s platform.
+ 
+## What equipment is needed to use inStore?
+Any tablet or smartphone running Android (6.0 or 7.0) or iOS (9 or 10), computers running Windows (from 7 on), and credit and debit card machines. We also recommend using a barcode reader to streamline the sales process.
 
-## ¿Qué equipo se necesita para utilizar inStore?
-Cualquier tablet o celular con Android (6.0 o 7.0) o iOS (9 o 10), computadoras con Windows (a partir del 7) y la máquina para pagos con tarjeta de crédito o débito. También recomendamos el uso de un lector de código de barras para acelerar el proceso de venta.
+## How can I acquire the devices? Do you sell or rent them?
+ 
+The equipment can be purchased directly from the manufacturers. Thus, the shop owner can negotiate special conditions directly with manufacturers and buyers.
 
-## ¿Cómo puedo comprar los dispositivos? ¿Son comprados o alquilados?
-Los equipos pueden ser adquiridos directamente de los fabricantes. Así, el administrador de la tienda puede negociar condiciones especiales directamente con fabricantes y adquirentes.
+## Can I use inStore in events?
+Yes. InStore is small, mobile, and practical. So it is very easy to sell products anywhere.
 
-## ¿Puedo utilizar inStore en eventos?
-Sí. InStore es pequeño, móvil y práctico. Por lo tanto, es muy fácil vender productos en cualquier lugar.
+## Is it safe to use inStore?
+Yes. InStore and its compatible hardware use the best security practices with encryption to send all the purchases’ data, and all data saved on the phone is accessible only through the inStore app. Still, for performance and security reasons, we recommend not installing apps other than the ones of the phone's operating system.
 
-## ¿Es seguro utilizar inStore?
-Sí. InStore y sus hardwares compatibles utilizan las mejores prácticas de seguridad con encriptación para enviar todos los datos sobre las compras y todos los datos guardados en el teléfono celular son accesibles apenas por la app inStore. Aún así, recomendamos no instalar otras apps fuera de las del sistema operativo del celular por razones de rendimiento y seguridad. 
+## Do I need to have Internet access to use inStore?
+Yes, Internet access is important for purchases to be registered correctly on VTEX’s servers, allowing you to use all the advantages of VTEX’s platform.
 
-## ¿Se necesita acceso a Internet para utilizar inStore?
-Sí. Internet es importante para que las compras se registren correctamente en los servidores de VTEX, lo que permite utilizar todas las ventajas de la plataforma VTEX.
+## What are the recommended internet and infrastructure specifications?
+Minimum specifications:
+- Router with 2.4Ghz connection standard (802.11 N) and 20 Mbp device’s connection with the router
+- Internet with link speed = 2 Mbps (reaching the device, in other words, what appears in the speed test on the smartphone)
+ 
+Recommended specifications:
+- Router with 5.0Ghz (802.11 AC) connection standard (the smartphone must be dual-band) and 40 Mbps device’s connection with the router 
+- Internet with link speed = 5 Mbps (reaching the device, in other words, what appears in the speed test on the smartphone)
 
-## ¿Cuáles son las especificaciones de Internet e infraestructura recomendadas?
-Especificaciones mínimas:
-- Router con conexión estándar de 2.4Ghz (802.11 N) y conexión del dispositivo con el router de 20 Mbps
-- Internet con una velocidad de enlace de 2 Mbps (llegando al dispositivo, es decir, lo que aparece en la prueba de velocidad del celular)
+## What if my smartphone or card payment machine is stolen?
+Just notify VTEX. The seller associated with the inStore app on that phone will be removed, and the hardware key will be reset, preventing any action with inStore to be performed.
 
-Especificaciones recomendadas:
-- Router con conexión estándar de 5.0Ghz 802.11 AC (el celular tendrá que ser doble banda) y conexión del dispositivo con el router de 40 Mbps
-- Internet con una velocidad de enlace de 5 Mbps (llegando al dispositivo, es decir, lo que aparece en la prueba de velocidad del celular)
-
-## ¿Y si roban un teléfono celular o una máquina de pago?
-Simplemente notifique a VTEX, el vendedor asociado con la app de inStore de ese celular será eliminado, y la clave del hardware será reseteada, no permitiendo que se realice ninguna acción con inStore.

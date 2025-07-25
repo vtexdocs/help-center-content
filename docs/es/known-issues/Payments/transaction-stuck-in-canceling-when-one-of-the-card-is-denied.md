@@ -11,20 +11,34 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: transaction-stuck-in-canceling-when-one-of-the-card-is-denied
-locale: es
+locale: en
 kiStatus: No Fix
 internalReference: 429082
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
 
->⚠️ Este contenido sólo está disponible en Inglês.
+## Simulation
+
+
+
+1.
+
+Make a purchase with two credit cards.
+
+2.
+
+One of the cards is declined.
+
+
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+No workaround at this time
 

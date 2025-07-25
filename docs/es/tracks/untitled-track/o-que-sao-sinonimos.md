@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: unknown
 slugEN: o-que-sao-sinonimos
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

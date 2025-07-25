@@ -11,24 +11,22 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slugEN: ui-informs-that-there-is-no-sla-for-address-that-had-previously-available-sla
-locale: es
+locale: en
 kiStatus: Fixed
 internalReference: 585249
 ---
 
-## Sumario
-
->ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
+## Summary
 
 
-Cuando el usuario conectado llega a la fase de envío, con la dirección ya preseleccionada y con el ANS disponible para esa ubicación, al editar su dirección con exactamente la misma información rellenada anteriormente, la UI informa que no hay entrega disponible. Incluso la respuesta de la API es que sí hay SLA disponible (ya que es la misma dirección).
+When the logged-in user arrives at the shipping stage, with the address already pre-selected and with the SLA available for that location, when editing their address with the exact same information filled in before, the UI informs that there is no delivery available. Even the API response being that there is yes SLA available (since it is the same address).
 
 
 
-## Simulación
+## Simulation
 
 
-Teniendo un usuario con una dirección registrada, y esta dirección tiene entrega disponible, al ir a la etapa de envío, editar la dirección con la misma información. Justo después de editar el mensaje es que no hay más SLA disponible.
+Having a user with a registered address, and this address has delivery available, when going to the shipping stage, edit the address with the same information. Right after editing the message is that there is no more SLA available.
 
 
 

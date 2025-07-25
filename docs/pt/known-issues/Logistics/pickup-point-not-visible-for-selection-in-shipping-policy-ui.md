@@ -1,5 +1,5 @@
 ---
-title: 'Ponto de retirada não fica visível durante associação com política de envio'
+title: 'Pickup point not visible for selection in shipping policy (UI)'
 id: 84BhCZGoAxxuu1eljw0Uh
 status: DRAFT
 createdAt: 2021-12-28T14:52:46.105Z
@@ -11,19 +11,19 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: pickup-point-not-visible-for-selection-in-shipping-policy-ui
-locale: pt
+locale: en
 kiStatus: No Fix
 internalReference: 449813
 ---
 
-## Sumário
+## Summary
 
 
 When trying to select a pickup point in a shipping policy configuration, a few options might not be shown in the UI. This occurs when there are more than 999 pickup points registered, as the system has a lock to demonstrate only 999 results.
 
 
 
-## Simulação
+## Simulation
 
 
 Consider an account with more than 999 pickup points configured.

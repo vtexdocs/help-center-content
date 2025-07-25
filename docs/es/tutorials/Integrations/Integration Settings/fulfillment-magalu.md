@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: fulfillment-magalu
-locale: es
+locale: en
 legacySlug: fulfillment-magalu
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

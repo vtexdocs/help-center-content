@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: unknown
 author: 
 slugEN: untitled-entry-2020-03-02-at-01-04-15
-locale: es
+locale: en
 legacySlug: untitled-entry-2020-03-02-at-01-04-15
 subcategoryId: unknown-subcategory
 ---

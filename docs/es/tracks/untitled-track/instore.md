@@ -9,194 +9,195 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Shopping
 slugEN: instore
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
-Este artículo tiene como objetivo demostrar las fases del flujo de uso de inStore, una vez instalado y configurado, y señalar sus funcionalidades principales.
+This article aims to demonstrate the steps in the inStore usage journey, once installed and configured, and to point out the app's main features.
 
-Aquí usted puede ver el comportamiento del app en cada etapa de interacción con el vendedor. Algunos de los pasos descritos son opcionales (como la captura de carrito), pero representan el conjunto básico de funcionalidades de inStore.
+Here you can see the behavior of the application at each stage of interaction with the salesperson. Some of the steps described are optional (such as cart capture), but they represent the core set of inStore functionality.
 
-## 1. Iniciar sesión
+## 1. Login
 
-El primer contacto entre el vendedor de la tienda física y el inStore se produce al iniciar sesión en la aplicación.
+The first contact between the the physical store salesperson and inStore happens when logging into the application.
 
-Aquí, se debe utilizar el correo electrónico y la contraseña creados para el vendedor en el paso de [Configuración Básica](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO). Recuerde que no está permitido usar correos electrónicos que ya tengan acceso al panel administrativo de las tiendas VTEX.
+Here, the e-mail and password created for the salesperson in the [Basic Setup](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) must be used. Remember that you cannot use emails that already have access to the administrative panel of VTEX stores.
 
 ![31. inStore - Product Overview - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
 
-Al iniciar sesión, el vendedor accede al inStore específico de una cuenta VTEX. Aunque no es un escenario común, el mismo vendedor puede estar vinculado a más de una cuenta. Si necesita cambiar de cuenta, simplemente cierre sesión y, en la pantalla de inicio de sesión, haga clic en __Cambiar tienda__.
+Upon logging in, the salesperson accesses the inStore application specific to a VTEX account. Although it is not a common scenario, the same salesperson may be linked to more than one account. If you need to switch accounts, just log out and, on the login screen, click on __Change Store__.
 
-También recuerde que si el vendedor aún no tiene credenciales para iniciar sesión, debe comunicarse con los administradores de la cuenta.
+Also remember that if the seller does not yet have credentials to log in, they must contact the account administrators.
 
-## 2. Identificación del cliente
+## 2. Customer identification
 
-Al iniciar sesión, el vendedor es llevado directamente a la pantalla de identificación del cliente.
+After logging in, the salesperson is taken directly to the customer identification screen.
 
-inStore es una aplicación que ayuda a los vendedores a realizar ventas en la tienda física. Y tener información sobre el cliente desde la interacción inicial es un recurso valioso, especialmente teniendo en cuenta que el contexto que muestra inStore se refiere no solo a las interacciones del cliente con esa tienda específica, sino con todos los canales de venta de la marca.
+InStore is an app that helps salespeople to make sales in the physical store. And having information about the customer since the initial interaction is a valuable resource to accomplish that goal, especially considering that the context shown by inStore concerns not only the customer's interactions with that specific store, but with all the brand's sales channels.
 
-El cliente puede ser identificado por uno de estos métodos:
+The customer can be identified by one of these methods:
 - Email
-- CPF (en Brasil)
-- Teléfono
-- Código QR
+- CPF (in Brazil)
+- Telephone
+- QR Code
 
-Usted puede [configurar qué métodos de identificación desea habilitar](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/3AU7dicoaj3OVaprS6Wh2W) y en qué orden deben aparecer.
+You can [configure which identification methods you want to enable](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/3AU7dicoaj3OVaprS6Wh2W), and in what order they should appear.
 
-En el ejemplo de la imagen a continuación, E-mail y CPF están habilitados.
+In the example image below, E-mail and CPF are enabled.
 
 ![31. inStore - Product Overview - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/f15d5d5556b31f7ce78eb3d77994c722/31._inStore_-_Product_Overview_-_2_-_EN.png_h_250)
 
-Ingrese uno de estos datos en el campo y haga clic en el botón __Confirmar__.
+Just enter one of these data in the field and click on the __Confirm__ button.
 
-Alternativamente, si ha habilitado Usuario anónimo, es posible continuar sin identificar al cliente. Para hacer esto, haga clic en __Continuar sin identificación__.
+Alternatively, if you have enabled the Anonymous User feature, it is possible to proceed without identifying the customer. To do this, just click on __Continue without identification__.
 
->ℹ️ Aunque es posible atender a los clientes sin identificarlos, siempre recomendamos hacerlo, ya que esto le brinda al vendedor una serie de información contextual que aumenta las posibilidades de conversión.
+>ℹ️ Although it is possible to cater customers without identifying them, we always recommend doing so, as this gives the salesperson a series of contextual information that increases the chances of conversion.
 
-## 3. Búsqueda omnicanal
+## 3. Omnichannel search
 
-La barra superior de la aplicación de inStore ofrece algunas opciones utilizadas frecuentemente por el vendedor. Una de ellas es la búsqueda de SKU, disponible en la esquina superior derecha.
+The top bar of the inStore app offers some options frequently used by the salesperson. One of them is the SKU search, available in the upper right corner.
 
 ![31. inStore - Product Overview - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/f0680a6383e525a329089eb247501d4d/31._inStore_-_Product_Overview_-_3_-_EN.png_h_250)
 
-La búsqueda de inStore es omnicanal. Es decir, cuando realiza una búsqueda en la aplicación, el vendedor busca tanto en el stock local (de la tienda física en sí) como en el catálogo de otras tiendas físicas y del e-commerce.
+In inStore the search is omnichannel. That is, when doing a search in the app, the salesperson is searching both in the local inventory (of the physical store itself) and in the catalog of other physical stores and the e-commerce.
 
 ![31. inStore - Product Overview - 4 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5jBZMQOVW1n0ObtiwMYDtV/37bc53a81fea4d2db3cc61e5ccc0dd51/31._inStore_-_Product_Overview_-_4_-_EN.png_h_250)
 
-Las opciones de disponibilidad de entrega y recogida se mostrarán más adelante, en la etapa de entrega.
+The delivery and pickup availability options will be shown later, in the delivery stage.
 
-## 4. Lectura de código de barras
+## 4. Barcode reading
 
-Después de identificar al cliente, el vendedor es llevado directamente al carrito. Allí, si está utilizando la versión para computadora de inStore, conectada a un lector de código de barras, simplemente lea los productos para que aparezcan en el carrito.
+After identifying the customer, the salesperson is taken directly to the cart. There, if you are using the desktop version of inStore, connected to a barcode reader, simply beep the products and they will appear in the cart.
 
 ![31. inStore - Product Overview - 5 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5QbuILII93SyE4j7ovXed5/0390993518b96fb07f68c19345470413/31._inStore_-_Product_Overview_-_5_-_EN.png_h_250)
 
-Si el vendedor está usando un tablet o smartphone, verá un botón de lectura de código de barras en la barra superior de la aplicación.
+If the salesperson is using a tablet or smartphone, they will see a barcode reading button on the top bar of the application.
 
 ![31. inStore - Product Overview - 6 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/b1b41cfb9a3cfb9266383011e793c175/31._inStore_-_Product_Overview_-_6_-_EN.png_h_250)
 
-Al hacer clic en él, el vendedor puede usar la cámara para emitir leer un producto y, con eso, pasar automáticamente a la pantalla de detalles de ese producto.
+When clicking on it, the salesperson can use the camera to beep a product and, with that, be automatically taken to the details screen of that product.
 
-## 5. Carrito omnicanal
+## 5. Omnichannel cart
 
-Como la consulta del catálogo realizada por inStore trae productos no solo del stock local, sino de todo el catálogo compartido entre canales, el carrito en inStore es omnicanal: puede contener productos que existen en el stock de la tienda, pero también otros que existen en otros almacenes.
+Since consulting the catalog makes inStore bring products not only from the local inventory but from the entire catalog shared between channels, the cart assembled with inStore is omnichannel: it can contain products that exist in the store's local warehouse, but also others that exist in other warehouses.
 
-Es como si el vendedor tuviera acceso al mismo checkout del e-commerce, pero también a los stocks de las tiendas físicas. El checkout de inStore trae para el contexto de la tienda física los mismos datos que tendría en el e-commerce:
-- Datos de SKU del Catálogo
-- Promociones y gift cards del módulo de promociones
-- Precios y SLA del fulfillment
-- Cuotas del módulo de pagos
-- SLAs de entrega del módulo de logística
-- Tasas del servicio de tasas
+It's as if the salesperson had access to the e-commerce checkout but also with access to the physical store's inventories. The inStore checkout brings the same data you would have in e-commerce to the order context in the physical store:
+- Catalog SKU data
+- Promotions and gift cards from the promotions module
+- Fulfillment prices and SLAs
+- Payments module installments
+- Logistics module delivery SLAs
+- Fees
 
-## 6. Acceso al último carrito del cliente
+## 6. Access to the customer's last cart
 
-Después de que el vendedor identifica al cliente, inStore busca información sobre ese cliente que pueda ayudarlo en la venta. Una de estas informaciones muestra el último carrito no terminado por el cliente.
+After the salesperson identifies the customer, inStore searches for information about that customer that can assist in the sale. One of this information shows the last cart assembled but left open by that customer.
 
-Al tener acceso a esta información, el vendedor puede intentar completar la venta de los artículos que estaban en ese carrito, es decir, puede intentar recuperar el carrito abandonado.
+When having access to this information, the salesperson can try to complete the sale of the items that were in that cart, that is, they can try to recover the abandoned cart.
 
-Simplemente haga clic en __Acceso__ para ver los productos en el carrito abandonado.
+They just need to click __Access__ to see the products in the abandoned cart.
 
-## 7. Perfil del cliente
+## 7. Customer profile
 
-En el carrito, el vendedor puede hacer clic en __Resumen del pedido__ y luego en el nombre del cliente. Esto le da acceso a información relevante del cliente para la venta:
-- Número de días desde la última visita del cliente a una tienda o al e-commerce de la marca (considerando, por supuesto, que fue identificado en esa visita)
-- Datos del cliente, como correo electrónico, teléfono y número de documento
-- Direcciones del cliente
-- Último carrito creado por el cliente en el e-commerce
-- Historial de pedidos
+In the cart, the salesperson can click on __Order Summary__ and then on the customer's name. This gives them access to relevant customer information for the sale:
+- Number of days since the customer's last visit to a store or e-commerce (considering, of course, that they were identified on that visit)
+- Customer data, such as email, phone and document number
+- Customer addresses
+- Last cart created by the customer in the e-commerce
+- Order history
 
-En el cuadro que muestra el último carrito, el vendedor puede recuperar ese carrito con solo un botón: __Recuperar carrito__.
+In the box showing the last cart, the salesperson can retrieve that cart with just one click on the button __Recover Cart__.
 
-En el cuadro de cada uno de los últimos pedidos realizados por el cliente, el vendedor puede copiar el carrito, también presionando un solo botón: __Copiar carrito__.
+In the boxes of each of the last orders placed by the customer, the salesperson can copy the cart, also pressing a single button: __Copy Cart__.
 
-Es bueno recordar que toda esta información se refiere no solo a la experiencia del cliente en la tienda física actual, sino también a las interacciones de ese cliente en el comercio electrónico o en cualquier tienda de la marca donde un vendedor haya identificado al cliente con inStore.
+Remember that all this information refers not only to the customer's experience in the current physical store, but also to that customer's interactions in the e-commerce or in any physical store where a salesperson has catered the customer with an inStore app.
 
-## 8. Detalles del producto
+## 8. Product details
 
-Al hacer clic en los detalles de un producto que aparece en los resultados de búsqueda de inStore, o al leer el código de un producto, el vendedor se dirige a la pantalla de detalles del producto.
+When clicking on the details of a product that appears in the inStore search results, or when beeping a product, the salesperson is directed to the product details screen.
 
 ![31. inStore - Product Overview - 7 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/52e0133e7222676d105e4444ce83ea96/31._inStore_-_Product_Overview_-_7_-_EN.png_h_250)
 
-Esta pantalla muestra el nombre del producto, su galería de fotos, variaciones, descripción y disponibilidad. El vendedor puede, en esta pantalla, agregar el producto al carrito.
+This screen shows the name of the product, its photo gallery, variations, description and availability. On this screen, the salesperson can add the product to the cart.
 
-Tenga en cuenta que si usted configuró su tienda para [forzar disponibilidad de stock](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), el vendedor podrá agregar el producto al carrito, incluso si no está disponible en ningun almacén.
+Note that if you have configured your store to [force stock availability](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), even if the product is unavailable in all channels, the salesperson will be able to add it to the cart.
 
-## 9. Recomendación de producto
+## 9. Product recommendations
 
-Tanto en los detalles del producto como en el carrito, inStore muestra sugerencias de productos de forma predeterminada. Estas recomendaciones se realizan de acuerdo con las características del producto que se está viendo actualmente o los artículos que componen el carrito.
+Both in the product details and in the cart, inStore shows product recommendations by default. These suggestions are made according to the characteristics of the product that is currently being viewed or the items that make up the cart.
 
-Es posible deshabilitar la recomendación de producto. Para esto, consulte el artículo [Habilitar recomendación de producto](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/321NRjb9YjABQPReJJ5wr2).
+It is possible to disable product recommendations. For this, check out the article [Enabling product recommendation](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/321NRjb9YjABQPReJJ5wr2).
 
-## 10. Transferencia de carrito
+## 10. Cart transfer
 
-InStore permite [habilitar una funcionalidad de transferencia de carrito](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). Esta funcionalidad permite que una compra iniciada en un dispositivo se complete en cualquier otro dispositivo presente en el flujo de compra, sin la necesidad de leer los productos nuevamente.
+InStore let's you [enable a cart transfer functionality](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). This functionality allows a purchase initiated on one device to be completed on any other device present in the purchase flow, without the need to re-beep the products.
 
-Una vez en un carrito, el vendedor tiene acceso al botón __Transferir__. Al hacer clic en este botón, la aplicación muestra un código QR y un código numérico de cuatro dígitos.
+Once in an order cart, the salesperson has access to the __Transfer__ button. When clicking this button, the app shows a QR Code and a four-digit numeric code.
 
 ![31. inStore - Product Overview - 8 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
 
-Otro vendedor vinculado a la misma tienda puede capturar ese carrito y continuar la venta desde su dispositivo.
+Another salesperson logged into the same store can then capture that cart and continue selling from their device.
 
-Para capturar un carrito, ingrese al menú principal de inStore y haga clic en __Capturar carrito__. Alternativamente, en la pantalla de inicio de la aplicación, el vendedor simplemente puede arrastrar la pantalla hacia la derecha.
+To capture a cart, enter the inStore main menu and click on __Capture Cart__. Alternatively, on the app's home screen, the salesperson can slide the screen to the right.
 
-Luego debe ingresar el código numérico que se muestra en el dispositivo del vendedor que transfirió el carrito o hacer clic en __Leer código QR__ y luego usar la cámara en su dispositivo para leer el código QR generado en el dispositivo del primer vendedor.
+They should then enter the numeric code shown on the device of the salesperson who transferred the cart or click on __Read QR Code__ and then use the camera on their device to read the QR Code generated on the device of the first salesperson.
 
-Una vez hecho esto, el carrito se transferirá a este segundo dispositivo, desde donde la venta puede proceder normalmente.
+Once this is done, the cart will be transferred to the second device, from where the sale can proceed normally.
 
-## 11. Entrega
+## 11. Delivery
 
-Cuando se hace clic en __Ir a entrega__, inStore muestra las direcciones disponibles del cliente. Es decir, si el cliente ha registrado en algún momento más de una dirección de entrega, todas las opciones de dirección ya informadas aparecerán aquí. Alternativamente, el vendedor puede ingresar un código postal.
+When the salesperson clicks __Go to delivery__, inStore shows the customer's available addresses. That is, if the customer has at any time registered more than one delivery address, all address options already informed will show here.
+Alternatively, the salesperson can enter a zip code.
 
-La siguiente pantalla muestra las opciones de entrega. Como inStore tiene acceso al catálogo de varias tiendas, existen varias posibilidades para organizar la entrega, dependiendo de dónde se encuentren los productos en el carrito.
+The next screen shows the delivery options. As inStore deals with the catalog of multiple stores, there are several possibilities for organizing delivery, depending on where the products in the cart are.
 
-El siguiente ejemplo muestra dos opciones: recibir todos los artículos en casa a través de una entrega económica o recogerlos en otra tienda física dentro de 5 días hábiles.
+The example below shows two options: receive all items at home or pick up at another physical store within 5 working days.
 
 ![31. inStore - Product Overview - 10](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/476f54c1dba26c76fc90a691f33baa0c/31._inStore_-_Product_Overview_-_10.png)
 
-### Puntos de recogida
+### Pick-up Points
 
-Para los puntos de recogida, el sistema selecciona las tiendas que tienen los SKUs en stock y muestra la tienda más cercana al código postal del cliente, como sugerencia. Si el vendedor quiere cambiar la tienda donde el cliente recogerá los productos, solo hay que hacer clic en el botón __Cambiar punto de recogida__.
+For pick-up point options, the system selects the stores that have the SKUs in stock and shows the store closest to the customer's zip code, as a suggestion. If the salesperson wants to change the store where the customer will pick up the items, they just need to click the __Change pick-up point__ button.
 
 ![31. inStore - Product Overview - 11](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/167a7c3f169dab3ffbf49c30d670702e/31._inStore_-_Product_Overview_-_11.png)
 
-Al hacer clic en ese botón, el vendedor primero tiene acceso al punto de recogida sugerido por el sistema. Para ver todos los puntos de recogida disponibles, hay que hacer clic en __Ver todos los puntos de recogida__.
+When choosing to change the pick-up point, the salesperson first has access to the pick-up point suggested by the system. To see all available pick-up points, click __View all pick-up points__.
 
 ![31. inStore - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._inStore_-_Product_Overview_-_12.png)
 
-La aplicación mostrará la lista de puntos de recogida ordenados por la distancia más corta desde el código postal del cliente. También es posible elegir el punto de recogida en el mapa.
+The app will then show the list of pick-up points ordered by the shortest distance from the customer's zip code. It's also possible to choose a pick-up point on the map.
 
 ![31. inStore - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._inStore_-_Product_Overview_-_13.png)
 
-## 12. Pago
+## 12. Payment
 
-En el paso de pago, las [opciones de pago que se han configurado](https://help.vtex.com/es/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) aparecerán en su tienda.
+In the payment step, the salesperson will see the [payment options that have been configured](https://help.vtex.com/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) for your store.
 
-Una feature importante permitida por inStore son los pagos múltiples. Por ejemplo, al elegir Efectivo y luego hacer clic en __Agregar otro pago__, el vendedor puede cobrar parte del importe en efectivo y parte con tarjeta de crédito.
+An important feature allowed by inStore is multiple payments. For example, by choosing Cash and then clicking __Add another payment__, the salesperson can charge part of the amount in cash and part on credit or debit card.
 
 ![31. inStore - Product Overview - 14](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/6701ce986792dce02f88bfc4a18c0d9d/31._inStore_-_Product_Overview_-_14.png)
 
-La barra superior de la pantalla de pago le permite agregar cupones y gift cards. También permite cambiar el número de identificación del cliente que aparecerá en la factura.
+The top bar of the payment screen allows you to add a coupon and a gift card. It also allows changing the customer ID number that will appear on the invoice.
 
 ![31. inStore - Product Overview - 15](//images.ctfassets.net/alneenqid6w5/3CymGlJlWQ9I9w5tiheXQk/577fb68901d2e0a8b17ae11fb55ed98f/31._inStore_-_Product_Overview_-_15.png)
 
-## 13. Pedido completado
+## 13. Order placed
 
-El vendedor puede ver esta misma pantalla haciendo clic en __Pedidos completos__ en el menú principal de inStore, y buscando el pedido por número de pedido o cliente.
+The salesperson can see this same screen by clicking on __Completed Orders__ in inStore's main menu or searching for the order by order number or customer.
 
 ![31. inStore - Product Overview - 16](//images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/3bda7ef00a309b1e57081ad805adb889/31._inStore_-_Product_Overview_-_16.png)
 
-## 14. Impresión de factura
+## 14. NFC-e printing
 
-Con inStore, usted puede vender productos de su tienda física recibiendo pagos con la máquina de tarjetas y generando inmediatamente la factura.
+Using inStore, you can sell products from your physical store by receiving payments with the card machine and immediately generating the invoice.
 
-Si el dispositivo de impresión se ha [configurado correctamente](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/12GPLA7JdjXEZFLV3HokZU), la factura se imprimirá automáticamente tan pronto como se complete el pedido.
+If the printing device was [configured correctly](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/12GPLA7JdjXEZFLV3HokZU), the invoice will be printed automatically as soon as the order is completed.
 
-## 15. Imprimir resumen de pedido
+## 15. Print order summary
 
-Además de la factura, es posible imprimir un resumen del pedido cuando se completa la venta.
+In addition to the invoice, it's possible to print a summary of the order when the sale is completed.
 
-Usted puede configurar inStore para [imprimir el resumen del pedido automáticamente](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/12GPLA7JdjXEZFLV3HokZU), una vez que se complete el pedido. Pero, por defecto, no lo hace.
+You can [configure inStore to print the order summary automatically](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/12GPLA7JdjXEZFLV3HokZU), once the order is placed. But, by default, it doesn't.
 
-Sin embargo, si el vendedor aún desea imprimir el resumen del pedido, simplemente hay que hacer clic en el botón __Imprimir pedido__ en la pantalla del pedido finalizado, siempre que el dispositivo de impresión esté configurado correctamente para imprimir pedidos.
+However, if the salesperson still wants to print the order summary, just click the __Print Order__ button on the placed order screen, as long as the printing device is correctly configured to print orders.

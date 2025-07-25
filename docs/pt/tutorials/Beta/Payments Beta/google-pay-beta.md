@@ -10,77 +10,77 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: google-pay-beta
-locale: pt
+locale: en
 legacySlug: google-pay-beta
 subcategoryId: 3lZEaiSilZPwa3eCUUzwyr
 ---
 
->ℹ️ Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+>ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team.](https://help.vtex.com/en/support)
 
-O Google Pay™ é um serviço de pagamentos digitais que possibilita ao usuário não compartilhar os dados reais do seu cartão com a loja, trazendo mais segurança e acelerando a etapa de checkout. Com Google Pay o usuário pode realizar pagamentos por meio de cartões de crédito ou de débito, sem a necessidade de preencher qualquer dado manualmente, e o Google Pay também está disponível em diversos apps, sites e na Carteira do Google
+Google Pay™ is a digital payments service that allows users not to share their actual card information with the store, providing more security and streamlining the checkout step. With Google Pay, users can make payments using credit or debit cards without having to enter any information manually, and Google Pay is also available in various apps, websites and in the Google Wallet. 
 
-Os termos de serviço da API do Google Pay se aplicam sempre que o serviço Google Pay for oferecido por um lojista. Para ler os termos, acesse [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
+The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
->⚠️ O Google Pay não está disponível para Checkout V5 ou versões anteriores do Checkout.
+>⚠️ Google Pay is not available for Checkout V5 or earlier versions of Checkout.
 
-## Ativar Google Pay
+## Enabling Google Pay
 
-Para ativar o Google Pay, siga o passo a passo abaixo. 
+To enable Google Pay, follow the steps below.
 
-1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Carteiras** ou digite **Carteiras **na barra de busca no topo da página.
-2. Selecione a opção **Ativar** para modificar o checkout para incluir a extensão do Google Pay.
+1. In the VTEX Admin, go to **Store Settings > Payments > Wallets** or type **Wallets** in the search bar at the top of the page.
+2. Select **Activate** to include the Google Pay extension.
 
->ℹ️ As bandeiras suportadas no Google Pay são as mesmas bandeiras configuradas nas condições de pagamento.
+>ℹ️ The issuing banks supported by the Google Pay extension are the ones configured in the payment conditions.
 
-Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como nova forma de pagamento. É possível que demore em torno de 10 minutos para que a configuração apareça no Checkout.
+![google pay - EN](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/c1848f1deba2af0d837f96f21eae86a5/image.png)
 
-![google pay - PT](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/a8bca906bd64bf229ac9521848a7c029/image.png)
+Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
->⚠️ Google Pay, neste momento, não vai suportar assinatura.
+>⚠️ For now, Google Pay does not support subscriptions.
 
-É necessário ter os seguintes requisitos para utilizar o Google Pay:
+To use Google Pay, you must meet the following requirements:
 
-* Ter pelo menos uma [condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) ativa configurada para cartões de crédito ou débito com um [adquirente](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), definindo qual adquirente irá processar o pagamento da carteira.
-* Utilizar o [Checkout VTEX](https://help.vtex.com/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) na sua loja.
+* Having at least one active [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
+* Using [VTEX Checkout](https://help.vtex.com/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
 
->⚠️ Nas lojas que têm o fluxo de autenticação [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) configurado e suportado pelo adquirente, o pagamento com o Google Pay seguirá o fluxo nativo de cartão, sendo submetido também ao 3DS. Para mais informações sobre como configurar o fluxo de autenticação, consulte [Configurar fluxo de autenticação 3DS 2](https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
+>⚠️ For stores that have the [3DS](https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
 
-## Consultar transações finalizadas com o Google Pay
+## Viewing transactions completed with Google Pay
 
-Para consultar e verificar transações que foram finalizadas com o Google Pay no pagamento, siga os passos descritos no artigo [Ver detalhes da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). No caso de uma transação feita com o Google Pay, é necessário clicar em `+ Informações` e consultar o campo `paymentOrigin` ou pesquisar por "Google Pay" na barra de busca da página de listagem de transações.
+To view transactions that have been completed with Google Pay, please follow the steps described in the article [Viewing transaction details](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). In case of a transaction completed with Google Pay, you must click on `+ Information` and refer to the field `paymentOrigin` or search for "Google Pay" in the search bar of the transaction list page.
 
-## Adicionar informação do Google Pay no template de compra
+## Adding Google Pay information to the purchase template
 
-Para adicionar a informação que o pedido foi realizado com um cartão advindo do Google Pay no template de email para o comprador, siga as etapas a seguir:
+To add the information that the order was placed with a Google Pay card to the email template that will be sent to the buyer, follow the steps below.
 
-1. No Admin VTEX, acesse **Configurações da loja > Templates de email > Templates** ou digite **Templates **na barra de busca no topo da página.
-2. Acesse os templates de fechamento de compra e aprovação de pagamento.
-3. Após** **todas as menções** **a** `**{{#if lastDigits}} last digits {{lastDigits}}**`**, adicionar a seguinte linha:
+1. In the VTEX Admin, go to **Store Settings > Email templates > Templates** or type **Templates** in the search bar at the top of the page.
+2. Access the checkout and payment approval templates.
+3. After** **all mentions** **of** `{{#if lastDigits}}` last digits `{{lastDigits}}`, add the following line:
+`{{/if}} {{#if paymentOrigin}} ({{paymentOrigin}}`
 
-`{{/if}} {{#if paymentOrigin}} ({{paymentOrigin}}` 
+After this change, whenever there is any mention of the last four digits of the card in these email templates, the "(Google Pay)" information will be added for payments made with a digital wallet.
 
-Com isso, após qualquer menção aos últimos quatro dígitos do cartão desses templates de email, será adicionada a informação "(Google Pay)" caso o pagamento tenha sido feito com a carteira.
-
->ℹ️ Para lojas provisionadas a partir de Março de 2023, os templates já estarão atualizados com a informação do pagamento do pedido feito com o Google Pay.
+>ℹ️ For stores provisioned as of March 2023, the templates will already be updated with the information for payments made with Google Pay.
 
 ## FAQ
 
-### Problemas de ativação
+### Activation issues
 
-* Não é possível ligar a carteira, pois o toggle está desabilitado
+* Cannot enable the wallet because the toggle switch is disabled
 
-Ao se deparar com a mensagem "Você ainda não tem bandeiras habilitadas para Google Pay na sua loja.",** **é preciso acessar as condições de pagamento e garantir que há regras associadas para transacionar cartão com adquirentes.
+If you get the message "You don't have any networks enabled for Google Pay in your store.", you must go to the payment conditions and check if there are conditions associated with card transactions with acquirers.
 
-* O toggle está habilitado, mas não é possível finalizar o processo**
+* The toggle switch is enabled, but it is not possible to finish the process
 
-Caso não se depare com a mensagem de sucesso "Google Pay ativado com sucesso." ao ligar o toggle, significa que pode ter havido instabilidade no sistema. Se o problema persistir, o usuário receberá um aviso para contatar o [suporte da VTEX](https://support.vtex.com/hc/pt-br/requests).
+If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](https://help.vtex.com/en/support).
 
-### Problemas que podem acontecer na compra
+### Issues that may occur during the purchase process
 
-* Aparelho utilizado para finalizar a compra não suporta Google Pay
+* The device used to complete the purchase does not support Google Pay
 
-Ao se deparar com a mensagem "Forma de pagamento indisponível no seu navegador", o usuário deverá tentar fechar a compra em outro navegador ou aparelho.
+If the message "Payment method not available in your browser" is displayed, the user must try to complete the purchase on another browser or device.
 
-* Não há regras configuradas para cartão na loja
+* There are no rules configured for card payment in the store
 
-Caso o lojista não tenha configurado regras de pagamento para cartão, o usuário verá um erro ao selecionar o meio Google Pay de que este método não está disponível.
+If a store has no card payment rules configured, the user will see an error message saying the method is not available when selecting Google Pay.
+

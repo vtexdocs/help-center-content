@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar valores de campo de documento com Dynamic Expressions'
+title: 'Adding document field values with Dynamic Expressions'
 id: sYxPeSFaPAuQ8OY6MO2eG
 status: ARCHIVED
 createdAt: 2018-04-09T16:36:32.999Z
@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slugEN: dynamic-expressions
-locale: pt
+locale: en
 legacySlug: dynamic-expressions
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-Use dynamic expressions para adicionar um valor de campo do documento. Por exemplo, você pode configurar o e-mail do cliente para enviar e-mails de marketing dinamicamente usando triggers.
+Use dynamic expressions to add a document field value. For example, you can configure the client email to send marketing emails dynamically using triggers.
 
 - trigger JSON
 ```json
@@ -32,17 +32,18 @@ Use dynamic expressions para adicionar um valor de campo do documento. Por exemp
       "email": "client@email.com"
     }
 ```
+    
 
-## Configurando dynamic expressions
+## Setting up dynamic expressions
 
-Padrão:
+Pattern:
 
 `{!fieldName}`
     
-Exemplo:
+Example:
 
 `{!email}`
     
-Acessar campos aninhados usando um ponto.
+Access nested fields using a dot.
 
 `{!order.clientProfiledata.email}`

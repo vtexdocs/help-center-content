@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: bitrix24
-locale: es
+locale: en
 legacySlug: bitrix24
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

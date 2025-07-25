@@ -1,5 +1,5 @@
 ---
-title: 'Facebook - Liberación del dominio'
+title: 'Facebook - Liberação de domínio'
 id: 2tUZyYitZ7X17eMo9oqkD5
 status: PUBLISHED
 createdAt: 2022-08-30T18:06:34.250Z
@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: facebook-liberacao-de-dominio-suiteshare
-locale: es
-legacySlug: facebook-liberacion-del-dominio
+locale: en
+legacySlug: facebook-liberacao-de-dominio
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

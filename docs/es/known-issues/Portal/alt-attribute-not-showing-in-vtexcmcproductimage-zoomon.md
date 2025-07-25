@@ -11,20 +11,31 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slugEN: alt-attribute-not-showing-in-vtexcmcproductimage-zoomon-
-locale: es
+locale: en
 kiStatus: No Fix
 internalReference: 526563
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+ALT attribute not showing in the image loaded by the control `<vtex.cmc:ProductImage zoom="on" />`
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+## Simulation
+
+
+
+- Insert in a template of a product the control:  **`<vtex.cmc:ProductImage zoom="on" />`**
+- Load a product page with this layout.
+- Inspect the image corresponding to the control in the browser
+- Note that the `alt=" "` attribute is not loaded.
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+N/A
 

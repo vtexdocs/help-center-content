@@ -10,63 +10,63 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: assembly-options
-locale: es
-legacySlug: assembly-options-es
+locale: en
+legacySlug: assembly-options-en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
->⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
+>⚠️ This feature is only available for stores developed using [VTEX IO](https://vtex.com/us-en/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
 
-Una assembly option es un [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
+An assembly option is an [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
 
-En el siguiente ejemplo, una tienda ofrece múltiples assembly options para el producto _custom bell_ (campana personalizada). Estas opciones se muestran en la página de producto, donde el cliente puede seleccionar las opciones deseadas. Dependiendo de las opciones, puede haber un coste adicional para el SKU.
+In the example below, a store offers multiple assembly options for the Custom Bell product. These options are shown on the product page, where the customer can select the desired options. Depending on the choices, there may be an additional cost for the SKU.
 
-![assembly-option-ES](https://images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/a4598c720776d55966ff96a0423af592/image.png)
+![assembly-option-EN](https://images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/585aace6b147a8107f0f5d03faa5db5f/image.png)
 
-Puedes combinar distintos [SKU](https://help.vtex.com/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u) para ofrecer assembly options, como los _Bells add-ons Roman_ o los _Bells add-ons 1-3 lines_ en el ejemplo anterior. Si un ítem está agotado, se mostrará como no disponible.
+You can combine [SKUs](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
 
-En este artículo, explicamos cómo empezar a utilizar las opciones de ensamblaje (*Assembly Options*) en tu tienda.
+This article will explain how to start using Assembly Options in your store.
 
-## Implementación de las opciones de ensamblaje
+## Implementing Assembly Options
 
-Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicación Assembly Options](#aplicacion-assembly-options) o la interfaz nativa de [Campos personalizados](#campos-personalizados) del __Catálogo__.
+There are two ways to implement Assembly Options: using the [Assembly Options app](#app-assembly-options) or the native Catalog [Custom Product Attributes](#custom-product-attributes) interface.
 
->⚠️ Al implementar las opciones de ensamblaje en una [cuenta de seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una [cuenta de marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
+>⚠️ If you implement Assembly Options in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
 
-### Aplicación Assembly Options
+### Assembly Options App
 
-La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/br-pt/store-framework/), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](https://help.vtex.com/es/tutorial/aplicacion-assembly-options--54mWg37mojrqOgCA79iqqk).
+The [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) app, available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/), provides an interface for configuring and managing custom options. In this case, the assembly option syntax and attachment are automatically generated. Please refer to the [Assembly Options App](https://help.vtex.com/en/tutorial/assembly-options-app--54mWg37mojrqOgCA79iqqk) user guide to learn more about the app.
 
-### Campos personalizados
+### Custom Product Attributes
 
-Para crear opciones de ensamblaje utilizando __Campos personalizados__ en el Admin VTEX, primero debes crear manualmente una [sintaxis](#sintaxis-de-las-assembly-options) para definir las reglas de personalización del producto. Después, debes insertar esa sintaxis en la [configuración del anexo](#configuracion-del-anexo). Consulta las secciones a continuación para obtener más información.
+To create Assembly Options using Attachments in VTEX Admin, you must manually create a [syntax](#assembly-options-syntax) to define the product customization rules. Then, enter that syntax in the [attachment configuration](#attachment-settings). Check out the following sections for more details.
 
-#### Sintaxis de las assembly options
+#### Assembly Options syntax
 
-Para implementar una assembly option, primero debes crear una sintaxis, como la que se muestra a continuación, cambiando cada valor según tu escenario.
+To implement an assembly option, first you need to create a syntax, such as the one below, by changing each value according to your scenario.
 
 `[0-3]#10000[1-2][1]pricetable1;#20000[0-2][0]pricetable2;#30000[0-2][0]pricetable3`
 
-El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada `#` y `;` se encuentran las reglas para los SKU. Aprende más sobre cada segmento de esta sintaxis en la siguiente tabla.
+The first elements `[x-y]` are group rules, and between each `#` and `;` are SKU component rules. Learn more about each segment of this syntax in the table below.
 
-| Segmento    | Descripción         |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **\[0-3\]**#10000\[1-2\]\[1\]pricetable1;#20000\[0-2\]\[0\]pricetable2;#30000\[0-2\]\[0\]pricetable3       | Cantidad mínima y máxima de ítems que se pueden seleccionar del grupo. El primer segmento define cuántas opciones acepta esta assembly option en total. **\[0-3\]** significa que puedes seleccionar un mínimo de cero elementos y un máximo de tres. Si el valor es **\[1-1\]**, significa que solo puedes seleccionar un elemento de entre todas las opciones. |
-| \[0-3\]#**10000**\[1-2\]\[1\]pricetable1;**#20000**\[0-2\]\[0\]pricetable2;#**30000**\[0-2\]\[0\]pricetable3 | Después de cada `#`, debes incluir el ID del SKU del componente. Debes utilizar al menos un SKU en las assembly options.      |
-| \[0-3\]#10000**\[1-2\]**\[1\]pricetable1;#20000**\[0-2\]**\[0\]pricetable2;#30000**\[0-2\]**\[0\]pricetable3 | Este segmento define la cantidad mínima y máxima de cada SKU que el cliente final puede seleccionar. Si el valor es **\[0-1\]**, significa que puede haber hasta uno de este SKU.                             |
-| \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Este segmento define la cantidad seleccionada por defecto para cada SKU.  |
-| \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | El último segmento indica la tabla de precios de cada ítem.                    |
+| Segment      | Description        |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **\[0-3\]**#10000\[1-2\]\[1\]pricetable1;#20000\[0-2\]\[0\]pricetable2;#30000\[0-2\]\[0\]pricetable3      | Minimum and maximum quantity of items that can be selected from the group. The first segment defines how many choices  this assembly accepts in total. `[0-3]` means that you can select a minimum of zero items and a maximum of three. If the value is `[1-1]`, it  means that you can only select one item out of all the options. |
+| \[0-3\]#**10000**\[1-2\]\[1\]pricetable1;**#20000**\[0-2\]\[0\]pricetable2;#**30000**\[0-2\]\[0\]pricetable3 | After each `#`, you must include the SKU ID of the component. You must use at least one SKU in the assembly options.       |
+| \[0-3\]#10000**\[1-2\]**\[1\]pricetable1;#20000**\[0-2\]**\[0\]pricetable2;#30000**\[0-2\]**\[0\]pricetable3 | This segment defines the minimum and maximum quantity of each SKU that the end customer can select. If the value is `[0-1]`, it means that there can be up to one of this SKU.      |
+| \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | This segment defines the default selected quantity for each SKU.  |
+| \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | The final segment indicates the price table for each item.  | 
 
-![assembly-option-exemplo-ES](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
+![assembly-option-exemplo-EN](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/939c084743ddf02d3903af57104f0b39/image.png)
 
-#### Configuración del anexo
+#### Attachment Settings
 
-Para agregar una assembly option, es necesario tener un adjunto ya creado. Consulta el artículo [Registrar un anexo](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU) para aprender a crear uno.
+To add an Assembly Option, you  need to have an attachment already created. Check the article [Adding an attachment](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) to learn how to create one.
 
-Después de añadir un anexo y [asociarlo a un SKU](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku), sigue los pasos que se indican a continuación para configurar la assembly option.
+After adding an attachment and [associating it with an SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku), follow the steps below to configure the Assembly Option.
 
-1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en **Campos personalizados**.
-3. En la pestaña **Servicios y SKU**, elige el anexo al que quieres añadir la assembly option y haz clic en `Editar`.
-4. En el campo **Valores permitidos**, inserta la sintaxis que has creado, como se describe en la sección [Sintaxis de las assembly options](#sintaxis-de-las-assembly-options).
-5. Haz clic en `Guardar`.
+1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
+2. Click **Custom Product Attributes**.
+3. In the **Service and SKUs** tab, choose the attachment to which you want to add the Assembly option and click `Modify`.
+4. In the  **Permitted Values** field, insert the syntax you  created, as described in the [Assembly Options syntax](#assembly-options-syntax) section.
+5. Click `Save`.

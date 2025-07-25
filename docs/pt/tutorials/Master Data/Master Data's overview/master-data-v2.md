@@ -10,58 +10,50 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slugEN: master-data-v2
-locale: pt
+locale: en
 legacySlug: master-data-v2
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
->⚠️ **Atenção:** Esta versão não é compatível com entidades de dados da versão antiga. É possível usar esta configuração somente para novas entidades de dados.
+>⚠️ **Attention:** This version isn't compliant with data entities of old version. It's possible to use this configuration only to new data entities.
 
-Este artigo explica como salvar, validar e obter documentos no Master Data da VTEX. Nesta versão, usamos **JSON Schema** para validar documentos.
+## Introduction
 
-Se você não sabe o que é JSON Schema, por favor, confira a documentação externa [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/).
+This document will guide you to save, validate and get documents at VTEX Master Data. In this version we use JSON Schema to validate documents. If you don't know what that is, please, check out the [JSON Schema documentation](https://spacetelescope.github.io/understanding-json-schema/).
 
-Não é necessário criar um JSON Schema para salvar documentos. Você pode salvar em qualquer entidade de dados se o conteúdo for um JSON válido.
+It's not necessary to create a JSON Schema to save documents. You can save to any data entity if the content is a valid JSON.
 
-O JSON Schema indica como validar e indexar. Uma entidade de dados pode ou não ter múltiplos JSON Schemas.
-
+The JSON Schema indicates how to validate and index. A data entity may or may not have multiple JSON Schemas.
 ![master-data-data-entity-schemas](https://images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
 
-Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
-
+A document could be compliant with none or multiple schemas.
 ![master-data-documents-compliant](//images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
 
-Isso significa que o JSON Schema é um formato de documentos em entidades de dados.
+This means that JSON Schema is a format of documents in data entities.
 
-## Usando a API
+## Saving documents
 
-A API do Master Data v2 é praticamente a mesma da versão anterior, com algumas peculiaridades para atender aos novos recursos.
+If you don't need to validate your data, you may save your documents without any setup. Just indicate the data entity and some access credential.
 
-A **documentação completa** da API se encontra no [Developer Portal](https://developers.vtex.com/reference/master-data-api-v2-overview).
-
-### Salvando documentos
-
-Se você não precisa validar seus dados, pode salvar os documentos sem qualquer configuração. Basta indicar a entidade de dados e algumas credenciais com acesso.
-
-No caso de você precisar de alguma validação, você deve criar um Esquema JSON antes. Depois disso, você adicionará na consulta o parâmetro com nome do Esquema JSON.
+In case you need some validation, you must create a JSON Schema before. After that, you'll add the name of the JSON Schema to the query.
 
 `api/dataentities/{data-entity-name}/documents?_schema={my-schema}`
 
-### Obtendo documentos
+## Getting documents
 
-Existem três maneiras de obter documentos. Se tiver o ID, você deve usar a API de documentos.
+There are three ways of getting documents. If you have the ID you must use the documents API.
 
 `api/dataentities/{data-entity-name}/documents/{id}`
 
-Para obter uma coleção de documentos, você pode usar a API de search.
+In case you need to get a collection of documents, you may use the search API.
 
 `api/dataentities/{data-entity-name}/search`
 
-E, finalmente, caso precise obter todos os documentos, você deve usar a API de scroll.
+And, finally, if you want to get all documents, you must use the scroll API.
 
 `api/dataentities/{data-entity-name}/scroll`
 
-Como dissemos antes, os documentos podem ser compatíveis com nenhum ou com múltiplos JSON Schemas. Você pode adicionar na consulta o parâmetro do schema para filtrar os documentos com base no JSON Schema.
+As said before, the documents could be compliant with none or multiple JSON Schemas. You may add the schema parameter to the query in order to filter the documents based in the JSON Schema.
 
 ```
 api/dataentities/{data-entity-name}/documents/{id}?_schema={my-schema}
@@ -69,15 +61,9 @@ api/dataentities/{data-entity-name}/search?_schema={my-schema}
 api/dataentities/{data-entity-name}/scroll?_schema={my-schema}
 ```
 
-## Configurando o JSON Schema
+## Indexing fields
 
-A leitura e alteração dos JSON Schemas é feita através da API do Master Data. As rotas específicas estão nas [pasta Schemas](https://developers.vtex.com/reference/schemas). Informações adicionais também podem ser encontradas no artigo [Começando a trabalhar no Master Data com JSON Schema](https://help.vtex.com/pt/tutorial/comecando-a-trabalhar-no-master-data-com-json-schema--6uLbweaMBGqOm44cESMkEQ)
-
-Abaixo, indicamos as propriedades exclusivas do Master Data para configuração dos schemas para as entidades de dados.
-
-### Campos de indexação
-
-Use a propriedade `v-indexed` no schema para configurar os campos indexados. Você deve adicionar o campo às propriedades para gerar a configuração no indexador com o tipo correto.
+Use the property `v-indexed` to set up the fields that are indexed. You must add the field to the properties in order to generate the indexer configuration with the right type.
 
 ```
 {
@@ -88,35 +74,32 @@ Use a propriedade `v-indexed` no schema para configurar os campos indexados. Voc
   "v-indexed": [ "field1", "field2" ]
 }
 ```
-### Campos padrão
+## Default fields
 
-Use a propriedade `v-default-fields` no schema para configurar quais campos retornarão sem indicação na query string `_fields`.
+Use the property `v-default-fields` to configure wich fields will return without indication in the \_fields query string. 
 
 ```
 {
-  {...},
   "v-default-fields": [ "field1", "field2" ]
 }
 ```
 
-### Herança de schemas
+## Inheritance of schemas
 
-Use a propriedade `v-canonicalto` para herdar as configurações de outro JSON Schema na mesma entidade de dados.
+Use the property `v-canonicalto` to set up another JSON Schema in the same data entity to inheritance.
 
 ```
 {
-  {...},
   "v-canonicalto": "https://{host}/api/dataentities/{data-entity-name}/schemas/{my-base-schema}"
 }
 ```
 
-### Habilitar campos públicos
+## Enabling public fields
 
-Use a propriedade `v-security` para configurar quais campos são públicos (request sem usuário autenticado).
+Use the property `v-security` to set up which fields are public (request without user authentication).
 
 ```
 {
-  {...},
   "v-security": {
     "allowGetAll": false,
     "publicRead": [ "field1" ],
@@ -126,17 +109,14 @@ Use a propriedade `v-security` para configurar quais campos são públicos (requ
 }
 ```
 
-### Desativar o cache padrão
+## Disabling default caching
 
-Use a propriedade `v-cache` para desativar o cache padrão.
+Use the property `v-cache` to disable default caching.
 
 ```
 {
-  {...},
   "v-cache": false
 }
 ```
 
-### Hooks (triggers)
-
-[Veja como configurar Triggers](https://help.vtex.com/pt/tutorial/configurar-triggers)
+[Look how to setting up triggers in Master Data](https://help.vtex.com/en/tutorial/setting-up-triggers)

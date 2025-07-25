@@ -1,5 +1,5 @@
 ---
-title: 'Configurar Vale-presente'
+title: 'Setting up Gift cards'
 id: tutorials_995
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z
@@ -10,113 +10,114 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: gift-card
-locale: pt
+locale: en
 legacySlug: gift-card
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
 ---
 
-O GiftCard ou vale-presente é um dos recursos do módulo de Pagamentos que pode funcionar de duas formas:
+The GiftCard or voucher is one of the features of the Payments module, and it works in two different ways:
 
-- Meio de pagamento para compras; 
-- Programa de fidelidade que o lojista pode conectar com o sistema VTEX. 
+- A payment method for purchases;
+- A loyalty program that the retailer can connect with the VTEX system.
 
-Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](https://help.vtex.com/pt/tutorial/integrando-com-gift-card?locale=pt "como integrar com o GiftCard").   
+For more details on the second option, check our technical documentation on [integration with GiftCards](https://help.vtex.com/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450 "integration with Gift Card").
 
-## Como criar o Vale-presente pelo Admin
+## How to create the GiftCard (manual)
 
-Por padrão VTEX, o vale-presente é considerado como uma forma de pagamento. Esse produto conta com um valor nominal que pode ser utilizado no ato da compra para abater parte do valor de um pedido.
+By a VTEX standard, the gift card is considered a payment method. This product has a nominal value that can be used at the moment of the purchase to reduce the order price.
 
-Para criar um novo vale-presente, confira o passo a passo:
+To create a new gift card, follow the step by step:
 <ol>
-  <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
+  <li>In the VTEX Admin, go to <b>Promotions > Gift Cards</b>, or type <b>Gift Cards</b> in the search bar at the top of the page.</li>  
   <br>
-  <li>Clique no botão azul <b>Criar vale</b>.</li>  
+  <li>Click on the <b>New Gift Card</b> button.</li> 
   <br>
->ℹ️ Na tela de criação do vale, o campo **Vale-presente** é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.
+  >ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
 <br>
-  <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
+  <li>Fill in the fields that will be displayed as explained below:</li>
   <br>
-<ul>
-  <li><b>Valor</b>: valor nominal que será concedido para o uso do vale.</li>
-  <li><b>Código da moeda</b>: moeda na qual o vale será criado. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
-  <li><b>Data de expiração</b>: trata-se da data de vigência da utilização do vale.</li>
-  <li><b>CPF/CNPJ Cliente</b>: dado que identifica e define o vale para um específico cliente.</li>
-  <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
+<ul>  
+  <li><b>Value</b>: the nominal value that will be granted for the voucher use.</li>
+  <li><b>Currency code</b>: currency in which the voucher will be created. The options available for selection are presented in accordance with the commercial policies of each store.</li>
+  <li><b>Expiration Date</b>: this is the effective date for using the voucher.</li>
+  <li><b>Customer ID</b>: data that identifies and defines the voucher for a specific client.</li>
+  <li><b>Collection</b>: identifies the product collection that defines the items to which the voucher can be applied.</li>
 </ul><br>
 
->⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
+>⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
->❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+>❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
 
-Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
+After filling in the fields correctly, the user can select up to three configuration options:
 <ul>
-  <li><b>Restrito</b>: somente o cliente referente ao CPF ou CNPJ informado acima poderá utilizar este vale.</li>
-  <li><b>Recarregável</b>: enquanto esse vale estiver disponível, seu saldo poderá ser alterado.</li>
-  <li><b>Reutilizável</b>: será possível realizar novas compras com este vale até que seu valor seja totalmente utilizado.</li></ul>
+  <li><b>Restricted</b>: only the customer associated with the CPF or CNPJ informed above can use this voucher.</li>
+  <li><b>Reloadable</b>: while this voucher is available, its balance can be changed.</li>
+  <li><b>Reusable</b>: it will be possible to make new purchases with this voucher until its value is fully used.</li>
+</ul>
 <br>
-  <li>Por fim, clique no botão <b>Salvar</b>.</li>
+  <li>Finally, click on the <b>Save</b> button.</li>
 <br>
->ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+>ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
 
-</ol>
+</ol>  
 
-## Como criar um lote de Vales-presente pelo Admin
+## How to create a batch of Vouchers (manual)
 
-Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a passo:
+To create more than one new voucher at the same time (a batch), follow the step by step:
 <ol>
-  <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
+  <li>In the VTEX Admin, go to <b>Promotions > Gift Cards</b>, or type <b>Gift Cards</b> in the search bar at the top of the page.</li>  
   <br>
-  <li>Clique no botão azul <b>Criar vales em massa</b>.</li>  
-  <br>  
-  <li>Preencha os campos apresentados conforme as orientações abaixo:</li>  
+  <li>Click on the <b>New Gift Card Batch</b> button.</li> 
+  <br>
+  <li>Fill in the fields that will be displayed as explained below:</li>  
 <br>
 <ul>
-  <li><b>Quantidade de vales-presente</b>: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote.</li>
-  <li><b>Valor</b>: valor nominal que será concedido para todos os vales do lote.</li>
-  <li><b>Código da moeda</b>: moeda na qual os vales serão criados em lote. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
-  <li><b>Data de expiração</b>: trata-se da data de vigência da utilização de todos os vales do lote.</li>
-  <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
-  <br>
-  >⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
+  <li><b>Number of gift cards</b>: this is the number of vouchers that you want to create as a batch. A maximum of 500 (five hundred) vouchers can be created per batch.</li>
+  <li><b>Value</b>: the nominal value that will be granted for all vouchers in this batch.</li>
+  <li><b>Currency code</b>: currency in which vouchers will be batched. The options available for selection are customized according to the commercial policies of each store.</li>
+  <li><b>Expiration Date</b>: this is the effective date for using all vouchers of this batch.</li>
+  <li><b>Collection</b>: identifies the product collection that defines the items to which the vouchers can be applied.</li>
 <br>
-  >❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+>⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
 <br>
-  <li><b>Recarregável</b>: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
-  <li><b>Reutilizável</b>: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
+>❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank).
+<br>
+  <li><b>Reloadable</b>: while these vouchers are available, their balances can be changed;</li>
+  <li><b>Reusable</b>: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
 </ul><br>  
-  <li>Clique no botão <b>Salvar</b>.</li>
+  <li>Click on the <b>Save</b> button.</li>
 <br>
-Uma nova tela irá aparecer confirmando que foram gerados o número de vales-presentes solicitados e os respectivos códigos de identificação serão apresentados.<br> 
+A new screen will appear confirming that the requested number of vouchers has been generated and their IDs will also be shown.<br> 
 <br>
-  <li>Por fim, clique no botão <b>Voltar</b>.</li>
+  <li>To end, click on the <b>Back</b> button.</li>
 <br>
->ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
+>ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
 </ol>
 
-## Como configurar o Vale-presente como meio de pagamento
+## How to set a Gift Card as a payment method
 
-Após a criação do vale-presente, é necessário configurá-lo como meio de pagamento. Desta forma, seus clientes poderão utilizá-lo no Checkout.
+After creating the Gift Card, it must be configured as a payment method. This way, your customers will be able to use it at Checkout.
 
-Siga os passos abaixo para configurar o vale-presente:
+Follow the steps below to set up the Gift card:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Condições de pagamento__, clique no botão `+`.
-3. Clique no conector __Vale__.
-4. No topo da página, crie um __nome__ para essa condição de pagamento.
-5. Ative a condição no campo __Status__.
-6. Em __Processar com o provedor__, selecione o provedor de giftcard desejado.
-7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-8. Clique em `Salvar`.
+1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type Settings in the search bar at the top of the page.
+2. In the __Payment Conditions__ tab, click on the `+` button.
+3. Click on the __Vale__ connector.
+4. On the top of the page, create a __name__ to this payment condition.
+5. Activate the condition in the __Status__ field.
+6. Under __Process with provider__, select the desired giftcard provider.
+7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
+8. Click on `Save`.
 
-Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
+You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
 
-Por fim, clique no botão azul Salvar.
+To end, click on the blue __Save__ button.
 
-## Como gerenciar o vale
+## How to manage your voucher
 
-Uma vez que o vale for criado, é possível gerenciá-lo de algumas formas pelo Admin. Desse modo, o usuário pode: 
+Once the voucher has been created, it is possible to manage it in some ways through the Admin. The user can:
 
-- Adicionar ou remover valor, desde que o vale seja "Recarregável";
-- Visualizar o extrato;
-- Conferir em qual compra o vale foi utilizado;
-- Cancelar um vale.
+- Add or remove value, as long as the voucher is "Rechargeable";
+- View its statement;
+- Check which purchase the voucher was used for;
+- Cancel the voucher.

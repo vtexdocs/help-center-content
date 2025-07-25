@@ -11,18 +11,18 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: untitled
-locale: pt
+locale: en
 kiStatus: Backlog
 internalReference: 388640
 ---
 
-## Sumário
+## Summary
 
 
 Vimos exemplos de ordenação dos blocos contentplaceholder seguindo ordem alfabética (independente da ordem de criação) e em outros casos seguindo a ordem de criação.
 
 
-## Simulação
+## Simulation
 
 
 - Criar content placeholders para uma determimada página no CMS legado;

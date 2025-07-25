@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slugEN: sandbox-for-tests
-locale: es
+locale: en
 legacySlug: sandbox-for-tests
 subcategoryId: unknown-subcategory
 ---

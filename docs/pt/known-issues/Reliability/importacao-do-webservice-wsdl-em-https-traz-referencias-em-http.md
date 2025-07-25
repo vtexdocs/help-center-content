@@ -1,5 +1,5 @@
 ---
-title: 'Importação do webservice (WSDL) em HTTPS traz referências em HTTP'
+title: 'Webservice import (WSDL) in HTTPS brings references in HTTP'
 id: 4dnbERTOWkWAkkmSg4i0w8
 status: PUBLISHED
 createdAt: 2018-08-06T15:10:50.988Z
@@ -11,39 +11,37 @@ productTeam: Reliability
 author: authors_4
 tag: Web Service
 slugEN: importacao-do-webservice-wsdl-em-https-traz-referencias-em-http
-locale: pt
+locale: en
 kiStatus: Closed
 internalReference: 
 ---
 
-## Sumário
+## Summary
 
-Ao importar o WSDL do webservice em HTTPS (https://webservice-[loja].vtexcommerce.com.br/service.svc?wsdl) são apresentadas referências em HTTP.
+When importing the webservice's WSDL in HTTPS (https://webservice-\[store].vtexcommerce.com.br/service.svc?wsdl) references are shown in HTTP.
 
-Alguns ambientes de desenvolvimento podem apresentar erros 401 (usuário não autorizado) por conta disso, como o exemplo de mensagem a seguir:
+Some development environments may display 401 errors (unauthorized user) because of this, such as the following message sample:
 
 ```
 The document was understood, but it could not be processed.
   - The WSDL document contains links that could not be resolved.
-  - There was an error downloading 'http://webservice-[Loja].vtexcommerce.com.br/AdminWebService/Service.svc?xsd=xsd2'.
+  - There was an error downloading 'http://webservice-[Store].vtexcommerce.com.br/AdminWebService/Service.svc?xsd=xsd2'.
   - The request failed with HTTP status 401: Access Denied.
-Metadata contains a reference that cannot be resolved: 'https://webservice-[Loja].vtexcommerce.com.br/service.svc?wsdl'.
+Metadata contains a reference that cannot be resolved: 'https://webservice-[Store].vtexcommerce.com.br/service.svc?wsdl'.
 The HTTP request is unauthorized with client authentication scheme 'Anonymous'. The authentication header received from the server was 'Basic Realm="Please Login to VtexID"'.
 The remote server returned an error: (401) Unauthorized.
 If the service is defined in the current solution, try building the solution and adding the service reference again.
 ```
 
+## Simulation
 
-
-## Simulação
-
-Em seu ambiente de desenvolvimento, basta a importação do WSDL como no exemplo acima. Ainda que sua autenticação esteja configurada, é possível que erros de autorização sejam apresentados para links adicionais.
+In your development environment, just import the WSDL as in the example above. Even though your authentication is configured, it is possible that authorization errors appear for additional links.
 
 ## Workaround
 
-A importação e configuração de autenticação foram feitos para o endereço `https://webservice-[Loja].vtexcommerce.com.br/service.svc?wsdl`, e o erro foi apresentado para o endereço `http://webservice-[Loja].vtexcommerce.com.br/AdminWebService/Service.svc?xsd=xsd2` (que é uma referência do WSDL inicial).
+The authentication import and configuration was made to the address `https://webservice-[Store].vtexcommerce.com.br/service.svc?wsdl`, and the error was presented to the address `http://webservice-[Store].vtexcommerce.com.br/AdminWebService/Service.svc?xsd=xsd2` (which is an initial WSDL reference).
 
-Para contornar este problema, basta configurar a autenticação também para estes WSDL adicionais, ou simplesmente importar o WSDL inicial já em HTTP.
+To work around this problem, simply configure the authentication for these additional WSDLs, or import the initial WSDL already in HTTP.
 
-Posteriormente, atente-se em atualizar as referências para HTTPS. Para segurança da informação, é essencial que trocas de dados sejam estritamente por HTTPS.
+Subsequently, make sure you update the references for HTTPS. For information security, it is essential that data exchanges happen strictly through HTTPS.
 

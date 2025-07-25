@@ -9,9 +9,9 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Identity
 slugEN: criar-e-editar-usuarios
-locale: es
+locale: en
 trackId: 
-trackSlugES: untitled-track
+trackSlugEN: untitled-track
 ---
 
 

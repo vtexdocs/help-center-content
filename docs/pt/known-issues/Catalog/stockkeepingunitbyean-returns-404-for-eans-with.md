@@ -11,20 +11,38 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: stockkeepingunitbyean-returns-404-for-eans-with-
-locale: pt
+locale: en
 kiStatus: No Fix
 internalReference: 479244
 ---
 
-## Sumário
+## Summary
 
->⚠️ Este conteúdo só está disponível em Inglês.
 
-## Simulação
+Currently, when using the GET stockkeepingunitbyean API (https://developers.vtex.com/vtex-rest-api/reference/catalog-api-sku-ean#catalog-api-get-ean-skuid), the response is unable to resolve EAN strings that contain the character "/".
 
->⚠️ Este conteúdo só está disponível em Inglês.
+This happens because this character is interpreted as a part of the URL and consequently the API points to a nonexistent value.
+
+
+
+
+
+
+## Simulation
+
+
+1) Insert and EAN that has the "/" character in it, such as "123/456"
+
+2) Attempt to fetch this data via the API https://developers.vtex.com/vtex-rest-api/reference/catalog-api-sku-ean#catalog-api-get-ean-skuid
+
+3) You will receive a 404 response (you're querying for the EAN 123, which is not the correct value).
+
+
+
+
 
 ## Workaround
 
->⚠️ Este conteúdo só está disponível em Inglês.
+
+n/a
 

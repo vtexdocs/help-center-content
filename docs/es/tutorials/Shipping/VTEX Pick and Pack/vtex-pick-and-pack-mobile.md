@@ -10,201 +10,203 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-mobile
-locale: es
+locale: en
 legacySlug: vtex-pick-and-pack-mobile
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+>ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-La aplicación móvil de [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
+The [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
 
-![pickpack-mobile-es](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/b4c69a98c2576d0f90e9b676d41b7ac6/image.png)
+![pickpack-mobile-en](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/c130518e5a14f76ca2ee9268bc298d92/image.png)
 
-La preparación de pedidos se divide en cuatro etapas, que siguen el flujo habitual de los pedidos en la tienda:
+Order handling is divided into four steps, following the usual store order flow:
 
-- [Crear hoja de trabajo](#crear-hoja-de-trabajo)
-- [Alistamiento de productos](#alistamiento-de-productos)
-- [Empaque del pedido](#empaque-del-pedido)
-- [Envío de los paquetes](#envio-de-los-paquetes)
+- [Create worksheets](#creating-worksheets)
+- [Picking](#picking)
+- [Packing](#packing)
+- [Shipping](#shipping)
 
-## Hojas de trabajo
+## Worksheets
 
-Una hoja de trabajo consiste en un conjunto de pedidos que serán procesados por el flujo de Pick and Pack simultáneamente. Este enfoque permite una gestión eficiente, agilizando el procesamiento simultáneo de múltiples pedidos.
+A worksheet consists of a set of orders that will be processed by the Pick and Pack flow simultaneously. This allows for efficient management and speeds up the processing of multiple orders at once.
 
-Por ejemplo, considera una hoja de trabajo que incluya solamente tres pedidos:
+For example, a worksheet with only three orders:
 
-- Pedido 1: una camiseta roja y una falda rosa.
-- Pedido 2: dos camisetas rojas y un sombrero blanco.
-- Pedido 3: una falda rosa y un sombrero blanco.
+- Order 1: A red t-shirt and a pink skirt.
+- Order 2: Two red t-shirts and a white hat.
+- Order 3: A pink skirt and a white hat.
+When selecting this worksheet for handling, the app will display the following items for picking:
 
-Al seleccionar esta hoja de trabajo para su preparación, la aplicación indicará el alistamiento de:
+- Three red t-shirts.
+- Two pink skirts.
+- Two white hats.
 
-- Tres camisetas rojas.
-- Dos faldas rosas.
-- Dos sombreros blancos.
+The app will then help you pack each order with its respective items.
 
-A continuación, la aplicación dará soporte para el empaque de cada pedido con sus respectivos ítems.
+>⚠️ Worksheets only apply to the order picking and packing steps. You must ship each order separately.
 
->⚠️ Las hojas de trabajo solo se aplican a las etapas de alistamiento y empaque de los pedidos. Los envíos de cada pedido deben realizarse por separado.
+## Creating worksheets
 
-## Crear hoja de trabajo
+The __Unassigned__ tab lists the orders that should be selected for [worksheets](#worksheets). 
 
-La pestaña Sin asignar muestra en una lista los pedidos que deben seleccionarse para agregarlos a las hojas de trabajo. 
+![pickpack-ordemservico-en](//images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/fe3519449de97380728a84ea34d7ba86/image.png)
 
-![pickpack-ordemservico-es](//images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/d09cf0ea6e858d28afebb79b55999e31/image.png)
+To create a worksheet, follow the steps below:
 
-Para agregar una hoja de trabajo sigue los pasos a continuación:
+1. On the initial screen, click __Unassigned__ <i class="fas fa-arrow-right"></i>.
+2. Select the orders you want to add to the worksheet. To create a worksheet with all the orders, click <i class="fas fa-square"></i> `Select All`. 
+3. Click `Start Picking`.
 
-En la pantalla de inicio, haz clic en Sin asignar <i class="fas fa-arrow-right"></i>.
-Selecciona los pedidos que deseas incluir en la hoja de trabajo. Para crear una hoja de trabajo con todos los pedidos, haz clic en <i class="fas fa-square"></i> `Seleccionar todos`.
-Haz clic en `Empezar a alistar`.
+## Picking products
 
-## Alistar productos
+The picking step consists of manually selecting the items listed in a [worksheet](#worksheets) and taking them to the appropriate packaging area in your facility.
 
-La etapa de alistamiento consiste en seleccionar físicamente los ítems de una [hoja de trabajo](#hojas-de-trabajo) y llevarlos a la zona adecuada de tu instalación para su posterior empaque.
+### Pending worksheets
 
-### Hojas de trabajo pendientes
+The Pending tab displays the list of worksheets that have not been picked yet.
 
-La pestaña __Pendientes__ muestra la lista de hojas de trabajo cuyo alistamiento no ha finalizado.
+![pickpack-pendente-en](//images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/0b818a175fc5f290de6f37e1cff2d16f/image.png)
 
-![pickpack-pendente-es](//images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/ff9f1a49db76f2032e7021971bf15cad/image.png)
+In this tab, you can select the worksheet ID if you only want to see the picked items from that order.
 
-En esta pestaña, puedes seleccionar por el ID de una hoja de trabajo si deseas que se muestren solamente los ítems ya alistados de ese pedido.
+If there are worksheets assigned to the picker, you can access them from the picking screen by following these steps:
 
-Si hay hojas de trabajo asignadas al alistador, puedes acceder a ellas desde la pantalla de alistamiento siguiendo estos pasos:
+1. On the app's home page, click **Continue Picking**. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the picking step.
+2. Click the worksheet you want to start picking.
 
-1. En la pantalla de inicio de la aplicación, haz clic en **Continuar alistando**. Aparecerá una lista con las [hojas de trabajo](#hojasdetrabajo) asignadas al alistador que están en fase de alistamiento.
-2. Haz clic en la hoja de trabajo que deseas alistar.
+When clicking a worksheet, the following information is displayed:
 
-Al hacer clic en una hoja de trabajo se mostrará la siguiente información:
+- __Items:__ Products to be picked from the worksheet.
+- __Approvals:__ Products that were rejected or replaced.
+- __Info:__ General information about the worksheet and the order.
+- __Summary:__ Products that have already been picked.
 
-- __Ítems:__ productos que deben alistarse de la hoja de trabajo.
-- __Información:__ información general sobre la hoja de trabajo y el pedido.
-- __Resumen:__ productos ya alistados por el alistador.
+![pickpack-em-separacao-en](//images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/53ee187d9cf252ce233ab2c5b5c2b9ea/image.png)
 
-![pickpack-em-separacao-es](//images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/acafdfb2d52a575eb150dbd8ad3e4bc8/image.png)
+By clicking the <i class="fas fa-ellipsis-v"></i> menu, the following options will be displayed:
 
-Al hacer clic en el menú <i class="fas fa-ellipsis-v"></i>, se mostrarán las siguientes acciones:
+- **Add Note:** Add a note to the worksheet.
+- **Set as Ready for Packing:** Used to bulk pick orders or bulk reject orders.
+- **Pause Picking:** Pause the time count for picking the products listed in the worksheet.
+- **Open Barcode Reader:** Use the device's camera to read product barcodes.
+- **Print Picking List:** Generates a list of items from the worksheet for printing.
+- **Close Menu:** Closes the menu and returns to the picking screen. 
 
-- **Agregar observación:** agrega una observación a la hoja de trabajo.
-- **Listo para empaque:** utilizado para alistar o rechazar pedidos en masa.
-- **Pausar alistamiento:** pausa la cuenta atrás del tiempo disponible para el alistamiento de la hoja de trabajo.
-- **Abrir lector de código de barras:** utiliza la cámara del dispositivo para leer los códigos de barras de los productos.
-- **Imprimir lista de alistamiento:** disponibiliza un documento con la lista de ítems de la hoja de trabajo para impresión.
-- **Cerrar menú:** cierra el menú y vuelve a la pantalla de alistamiento. 
+To pick a product, follow the steps below:
 
-Para alistar un producto sigue estos pasos:
+1. On the Picking screen, go to the __Items__ tab.
+2. Click the product you want to pick or drag the product to the right. If the product has more than one unit, you need to click the number of units. For products with weight or volume, confirm the measurements first, then confirm your selection, as shown in the example below.
 
-1. En la pantalla de __Alistamiento__, accede a la pestaña __Ítems__.
-2. Haz clic en el producto que deseas alistar o desliza el producto hacia la derecha. Si el producto tiene más de una unidad, haz clic en la cantidad de unidades del producto. Para productos que contienen peso o volumen, debes confirmar la medida y, a continuación, confirmar la selección, como en el ejemplo a seguir:
-![pickpack-item-es](//images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/efdd37c986299e346a325606885a1218/image.png)
+![pickpack-item-en](//images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/de6e921ac69b112aee8ac14a81810c60/image.png)
 
-## Para alistar todos los productos de la hoja de trabajo de una sola vez, sigue estos pasos:
+To pick all the products from the worksheet at once, follow these steps:
 
-1. Haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en la opción **Listo para empaque.** 
-3. Haz clic en **Alistar todos los ítems disponibles.**
+1. Click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **Set ready for packaging** option.
+3. Click **Pick all Available Items.**
 
-Una vez alistados, los productos aparecen en la pestaña __Resumen__.
+Once picked, the products will be listed in the __Summary__ tab.
 
-## Rechazar ítems
+## Rejecting items
 
-Hay situaciones en las que puede ser necesario rechazar productos debido a la configuración de la tienda y a la disponibilidad de ítems en stock. 
+There are some scenarios in which products may have to be rejected due to store settings and item availability. 
 
->⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
+>⚠️ The option to reject items may not be available. If you have any questions, please contact the store admin.
 
-Para rechazar un producto de la hoja de trabajo sigue los pasos que se indican a continuación:
+To reject a product from the worksheet, follow the steps below:
 
-1. Accede a la pestaña __Ítems__.
-2. Haz clic y desliza hacia la izquierda el producto que deseas descartar.
-3. Selecciona el motivo del rechazo en la lista **Motivos de rechazo**.
-4. Selecciona el número de unidades que deseas rechazar o haz clic en `Confirmar y descartar todas las unidades`.
-5. Haz clic en `Descartar unidades`.
+1. Go to the __Items__ tab.
+2. Click and drag the product you want to reject to the left.
+3. Select the reason for rejection from the **Rejection reasons** list.
+4. Select the number of items you want to reject or click `Confirm and Discard All`.
+5. Click `Discard Item`.
 
-Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue estos pasos:
+To reject all the products from the worksheet at once, follow these steps:
 
-1. Haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en la opción **Listo para empaque.** 
-3. Haz clic en **Descartar todos los ítems disponibles.**
+1. Click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **Set ready for packaging** option.
+3. Click **Reject All Available Items**.
 
->❗ Si se descartan todos los ítems de un pedido, el pedido se completará automáticamente.
+>❗ If all the items from an order are rejected, the order will be completed automatically.
 
-## Reemplazar ítems
+## Replacing items
 
-Otra opción para ítems no disponibles es sustituirlos por otros, dependiendo de la configuración de la tienda y de la disponibilidad de los ítems en stock.
+You can also replace the item with another one, depending on the store's settings and the item's availability.
 
->⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
+>⚠️ The option to replace items may not be available. If you have any questions, please contact the store admin.
 
-Para reemplazar ítems de la hoja de trabajo sigue los pasos que se indican a continuación:
+To replace worksheet items, follow the steps below:
 
-1. Accede a la pestaña __Ítems__.
-2. Pulsa sobre el producto que deseas sustituir.
-3. Haz clic en la opción **Reemplazar ítem**.
-4. Busca o selecciona el ítem que sustituirá al producto en el pedido y haz clic en la casilla de selección <i class="fas fa-check-square"></i>. 
-5. Selecciona el número de unidades que deseas reemplazar.
-6. Selecciona el motivo de reemplazo en la lista de opciones.
-7. Rellena el campo **Descripción** para agregar más información sobre el reemplazo.
-8. Pulsa el botón `Confirmar reemplazo`.
+1. Go to the __Items__ tab.
+2. Press and hold the product you want to replace.
+3. Click the **Replace Item** option.
+4. Search for or select the replacement item for the order and check the box <i class="fas fa-check-square"></i>.
+5. Select the number of units to be replaced.
+6. Select the reason for the replacement from the list of options.
+7. Complete the **Description** field with more information about the replacement.
+8. Click the `Confirm Replacement` button.
 
-## Finalizar alistamiento
+## Completing the picking process
 
-Una vez alistados, rechazados o reemplazados todos los ítems de la hoja de trabajo, haz clic en el botón `Iniciar empaque` para que la hoja de trabajo pase a la etapa [empaque](#empaque).
+After all items on the worksheet have been picked, rejected, or replaced, click the `Start Packing` button to move the worksheet to the [packing](#packing) step.
 
-## Empaque
+## Packing
 
-En la etapa de empaque, el alistador selecciona los ítems de cada pedido en los respectivos embalajes de envío. La aplicación móvil de Pick and Pack permite la organización de todos los paquetes necesarios para los diversos pedidos de manera rápida y sencilla.
+During packing, the picker organizes order items into their respective shipping packages.  The Pick and Pack mobile app allows you to organize all the packages needed for multiple orders easily.
 
-![pickpack-empacotamento-es](//images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/282dc96e07df744684a5775a4c711d92/image.png)
+![pickpack-empacotamento-en](//images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/a12a99b9e9988032ac4b4950d1f85f01/image.png)
 
-Puedes acceder a la página Empaque al [concluir el alistamiento](#finalizar-alistamiento) de una hoja de trabajo o siguiendo los pasos a continuación:
+You can access the Packing page once you have [completed picking](#completing-the-picking-process) the items on a worksheet or by following these steps:
 
-1. En la pantalla de inicio de la aplicación, haz clic en **Empaque **. Aparecerá una lista con las [hojas de trabajo](#hojas-de-trabajo) asignadas al alistador que están en la etapa de empaque.
-2. Haz clic en la hoja de trabajo cuyos productos deseas empacar. 
+1. On the app's initial screen, click **To pack**. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the packing step.
+2. Click the worksheet you want to start picking. 
 
-![pickpack-item-pendente-es](//images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/d1a0dff72b963012706819c39a88d8c3/image.png)
+![pickpack-item-pendente-en](//images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/e3b58759bf7b7dfed1a7232f302bda2b/image.png)
 
-Sigue los pasos que se indican a continuación para empacar ítems:
+Follow the steps below to pack items:
 
-1. En __Empaque__, haz clic en el pedido que deseas empacar. 
-2. Haz clic en el botón <i class="fas fa-plus"></i> del producto que deseas agregar al paquete o haz clic en <i class="fas fa-box"></i> para agregar todos los productos a la vez.
->⚠️ Si optas por empacar todos los ítems del pedido, los productos que aún no se hayan empacado se registrarán en un único nuevo empaque.
-5. Selecciona un tipo de paquete ya registrado o agrega uno nuevo haciendo clic en `+ Crear paquete`. 
-6. Selecciona el tipo de paquete que deseas agregar.
-7. Selecciona cuántas unidades del producto deseas agregar a ese paquete.
-8. Haz clic en el botón `Empacar producto`.
+1. Under Packing, click the order you want to pack.
+2. Click the <i class="fas fa-plus"></i> button of the product you want to add to the package, or click <i class="fas fa-box"></i> to pack all products at once.
+>⚠️ If you choose to pack all the order items, the remaining unpacked products will automatically be listed in a new package.
+3. Select an existing package or add a new one by clicking `+ Create Package`.
+4. Select the package type you want to add.
+5. Select the number of units of this product you want to add to that package.
+6. Click the `Pack` button.
 
-Repite este procedimiento tantas veces como sea necesario para empacar todos los ítems de una hoja de trabajo.
+You need to repeat this procedure as many times as necessary to pack all the items from a worksheet.
 
-Los ítems ya empacados están disponibles en la pestaña **Ítems empacados**. Puedes alternar la vista de los ítems entre una lista de ítems o de pedidos y empaques haciendo clic en <i class="fas fa-toggle-on"></i>.
+The packed items will be displayed on the **Packed Items** tab. You can switch between viewing items as a list or by orders and packages by clicking <i class="fas fa-toggle-on"></i>.
 
-__Lista de ítems__
-![pickpack-item-empacotado-es](//images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/bc3bfe853b3fe8c2f2e7f728f71a67f5/image.png)
+__Item list__
+![pickpack-item-empacotado-en](//images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/ec354b5f4e8e0dbce8102dac4bdc554e/image.png)
 
-__Pedidos y paquetes__
-![pickpack-item-empacotado-2-es](//images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/9d3600f0ac99fe235eb017d0879e0a4a/image.png)
+__Orders and packages__
+![pickpack-item-empacotado-2-en](//images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/893b8268f9e01e764ca6f952852af1d1/image.png)
 
-Una vez empacados todos los ítems de la hoja de trabajo, puedes finalizar el empaque en la pestaña __Ítems empacados__ haciendo clic en el botón `Confirmar empaque`.
+After packing all items listed in the worksheet, complete the packing process on the Packed Items tab by clicking the `Confirm Packing` button.
 
-A continuación, se finalizará el pedido en la aplicación. Dependiendo de la configuración de tu tienda, el alistador puede pasar a la etapa de envío. 
+Then, the order will be completed in the app. Depending on your store's settings, the picker may proceed to the shipping step.
 
-## Envío
+## Shipping
 
-La fase de envío permite crear servicios de envío para los pedidos alistados y empacados.
+The shipping step allows you to create shipping services for orders picked and packed.
 
->⚠️ El envío es una etapa opcional de la aplicación, dependiendo de tu operación y de la configuración realizada por el administrador de la tienda.
+>⚠️ Shipping is an optional step in the app. It depends on your operation and the store settings.
 
-Para enviar paquetes desde la aplicación Pick and Pack, sigue los pasos que se indican a continuación:
+To ship packages using the Pick and Pack app, follow the steps below:
 
-1. En la pantalla inicial, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en la opción **A enviar.**
-3. Selecciona el paquete que deseas enviar. Solo puedes seleccionar pedidos con status `Preparando envío`.
-4. Rellena los datos de envío:
-    - **Fecha prevista de recolección**
-    - **Fecha prevista de entrega**
-    ![pickpack-envio-es](//images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/bf144c5d0a68fef03cab3c2a7db92d33/image.png)
-5. Selecciona una transportadora disponible.
-6. Haz clic en `Seleccionar y continuar`.
-7. Confirma la información de envío. Si no es necesario hacer correcciones, haz clic en el botón `Crear servicio`. En caso contrario, haz clic en `Atrás` y vuelve al paso 5. 
+1. In the initial screen, click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **To ship** option.
+3. Select the package you want to ship. You need to select an order with the `Preparing shipment` [status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196).
+4. Complete all shipping information:
+    - **Expected pickup date**
+    - **Expected delivery date**
+    ![pickpack-envio-en](//images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/91bf904272cdd0c22037fafa64e273a4/image.png)
+5. Select a carrier.
+6. Click `Select and Continue`.
+7. Confirm the shipping information. If no corrections are needed, click the `Create Service` button. If not, click `Back` and go back to step 5. 
 
-Una vez completado el registro, la información sobre el envío aparecerá en la siguiente pantalla de la aplicación. Los pedidos enviados están disponibles a través del menú <i class="fas fa-ellipsis-v"></i> __> Finalizado__. 
+After that, the shipping information will be displayed on the app's next screen. The shipped orders will be available in the <i class="fas fa-ellipsis-v"></i> > __Completed__ menu. 
+

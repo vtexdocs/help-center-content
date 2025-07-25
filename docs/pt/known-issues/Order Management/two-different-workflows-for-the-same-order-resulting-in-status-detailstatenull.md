@@ -11,26 +11,24 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slugEN: two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull
-locale: pt
+locale: en
 kiStatus: Fixed
 internalReference: 680919
 ---
 
-## Sumário
-
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+## Summary
 
 
-Devido a uma falha na etapa de criação do fluxo de trabalho, algumas ordens cujo fluxo de criação foi concluído corretamente, podem apresentar o seguinte valor no campo de status: `detail.state.null `e na listagem de ordens não apresentam nenhum valor de status;
+Due to a failure in the workflow creation step, some orders whose creation flow was completed correctly, may present the following value in the status field: `detail.state.null `and in the order listing they do not display any status value;
 
-Este erro ocorre devido à criação duplicada do Workflow durante o processo de criação do pedido, o Workflow é o objeto que gerencia a mudança de status e, uma vez duplicado, acaba gerando esta inconsistência;
+This error occurs due to the duplicate creation of the Workflow during the order creation process, Workflow is the object that manages the status change and once duplicated it ends up generating this inconsistency;
 
 
 
-## Simulação
+## Simulation
 
 
-Não há maneira de simular o erro.
+There is no way to simulate the error.
 
 
 
@@ -38,5 +36,5 @@ Não há maneira de simular o erro.
 ## Workaround
 
 
-Para este caso, a alternativa aplicável é solicitar a análise das ordens afetadas e também o ajuste do status, através de um ticket;
+For this case, the applicable workaround is to request the analysis of the affected orders and also the adjustment of the status, through a ticket;
 

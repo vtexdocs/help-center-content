@@ -9,12 +9,12 @@ firstPublishedAt: 2020-05-19T12:28:17.920Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: instore-download
-locale: pt
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
-trackSlugPT: instore-setup
+trackSlugEN: instore-setup
 ---
 
-Aqui você encontra os links para download do aplicativo do inStore.
+Here you find the links to download the inStore app.
 
 - [App Store](https://itunes.apple.com/us/app/vtex-instore/id1100390867?ls=1&mt=8)
 - [Google Play](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)

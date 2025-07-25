@@ -1,5 +1,5 @@
 ---
-title: 'A VTEX garante chargeback?'
+title: 'Untitled'
 id: 6l3bFmHv74HD0QcWzLsOwf
 status: ARCHIVED
 createdAt: 2019-05-26T21:58:32.459Z
@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slugEN: a-vtex-garante-chargeback
-locale: pt
+locale: en
 legacySlug: a-vtex-garante-chargeback
 subcategoryId: 6ggjFlqyvL8hd9CtQFcHiD
 ---
 
-Sim, caso o cliente ganhe a disputa.
+

@@ -10,7 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slugEN: a-consulta-de-status-no-feed-do-gerenciamento-de-pedidos-e-por-appkey-ou
-locale: es
+locale: en
 legacySlug: a-consulta-de-status-no-feed-do-oms-e-por-appkey-ou-por-accountname
 ---
 

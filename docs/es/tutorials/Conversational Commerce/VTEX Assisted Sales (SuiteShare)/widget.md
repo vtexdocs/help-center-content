@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: widget
-locale: es
+locale: en
 legacySlug: widget
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

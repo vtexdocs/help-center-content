@@ -9,19 +9,19 @@ firstPublishedAt: 2022-12-22T19:57:15.523Z
 contentType: trackArticle
 productTeam: VTEX IO
 slugEN: backend
-locale: pt
+locale: en
 trackId: 3fHF3GIjK8UugnQKIakpl9
-trackSlugPT: desenvolvimento-de-loja
+trackSlugEN: store-development
 ---
 
-Em uma loja de ecommerce, o backend se trata da parte que lida com todos os dados, desde preços, promoções, imagens de produtos até detalhes de cada pedido e informações dos clientes. Diferente do frontend, que lida com as interações e impressões do usuário sobre a loja, o backend define como essas interações irão funcionar, como essa experiência irá ocorrer. 
+In an ecommerce store, the backend handles all the data from prices, promotions, product images to order details and customer information. Unlike the frontend, which manages the user's interactions and impressions of the store, the backend determines how these interactions will work and how the experience will be.
 
-Na VTEX, para que a experiência do usuário ocorra da melhor forma possível, o backend se utiliza de diferentes recursos. O VTEX IO é uma tecnologia proprietária VTEX, mas que suporta a utilização de diversos frameworks e linguagens de programação já familiares aos desenvolvedores, como TypeScript, React, GraphQL, .NET e Node. Por abstrair diversas camadas de desenvolvimento de softwares, ao utilizar o VTEX IO, o desenvolvedor não precisa lidar com servidores, problemas de infraestrutura e escalabilidade.
+The backend uses a range of different features to make the user experience as seamless as possible on VTEX. VTEX IO is a proprietary VTEX technology, which supports several frameworks and programming languages familiar to developers, such as TypeScript, React, GraphQL, .NET, and Node. By removing several layers of software development, by using VTEX IO, the developer does not need to deal with servers, infrastructure, and scalability issues.
 
-## Apps e Integrações
+## Apps and integrations
 
-São através de apps de backend que se pode criar integrações entre os serviços utilizando APIs para consumir dados em componentes React customizados. O desenvolvedor também pode aproveitar as soluções de terceiros para implementar rapidamente novas estratégias e funcionalidades.
+Backend apps allow you to create integrations between services using APIs to get data from custom React components. The developer can also leverage third-party solutions to implement new strategies and features quickly.
 
 ## APIs
-As APIs do VTEX IO são construídas com GraphQL — uma linguagem de consulta que permite que os desenvolvedores enviem consultas contendo os dados específicos que precisam ser buscados em um único endpoint por meio de uma solicitação POST HTTP. Dessa forma, GraphQL fornece soluções para alguns dos maiores desafios ao projetar APIs para aplicativos modernos e é através dele que a VTEX pode oferecer maior flexibilidade e eficiência.
 
+VTEX IO APIs are built with GraphQL— a query language that allows developers to submit queries with the specific data that needs to be fetched from a single endpoint via an HTTP POST request. Thus, GraphQL provides solutions to some of the biggest challenges when designing APIs for modern applications, and it is through GraphQL that VTEX can offer greater flexibility and efficiency.

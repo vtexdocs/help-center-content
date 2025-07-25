@@ -1,5 +1,5 @@
 ---
-title: 'URL de callback de pedidos de Via'
+title: 'Callback URL for Via orders'
 id: Ku1ksxfDIiCKj6qSUrwZ1
 status: DRAFT
 createdAt: 2021-09-30T20:52:56.898Z
@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: url-de-callback-de-pedidos-da-via
-locale: es
+locale: en
 legacySlug: url-de-callback-de-pedidos-da-via
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
->⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

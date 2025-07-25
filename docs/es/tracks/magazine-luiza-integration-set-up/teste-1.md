@@ -9,68 +9,68 @@ firstPublishedAt: 2021-04-14T15:01:28.601Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: teste-1
-locale: es
+locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
-trackSlugES: configurar-la-integracion-de-magazine-luiza
+trackSlugEN: magazine-luiza-integration-set-up
 ---
 
-Enfocados en el éxito de nuestros clientes, en VTEX brindamos soluciones completas para diversos modelos de negocio. La versatilidad del comercio composable se pone al servicio de la innovación y el crecimiento de tu operación.
+With client success in mind, VTEX offers complete solutions for different business models. This puts the flexibility of composable commerce at the service of innovation and growth in your operation.
 
-Y para facilitar la adopción de nuevos recursos, la gestión autónoma de tu negocio y la mejora en la escalabilidad, hemos lanzado la nueva **Guía de onboarding**, un contenido que abarca íntegramente la jornada de operar una tienda VTEX. Accede desde la sección [Comienza aquí](https://help.vtex.com/es/tracks) del Help Center.
-
-<div>
-  <img src="//images.ctfassets.net/alneenqid6w5/359WPOFfC5pE91DpoECZJe/7fadfccaa642f496b82cdd09d93a5647/announcement_complete_guide_ES.png" alt="Guia de onboarding">
-</div>
-
-## ¿Qué es la Guía de onboarding?
-
-La **Guía de onboarding** está compuesta por una serie de artículos que incluyen la planificación de la arquitectura de la tienda, configuración del go live, productos para evolucionar el negocio y orientaciones sobre nuestro soporte. La guía presenta ajustes y recursos de la plataforma contextualizados en la jornada de operación de una tienda VTEX.
-
-La **Guía de onboarding** se compone de 3 series:
-
-* [Serie de la tienda VTEX](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU)
-* [Próximos pasos tras el go live](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS)
-* [Soporte en VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy)
-
->ℹ️ Las series presentan contenidos complementarios, pero son independientes entre sí, lo que significa que se puede explorar el contenido libremente y sin necesidad de seguir una secuencia.
-
-Nuestra meta es asegurarnos de que tanto clientes como partners, así como todo el ecosistema de VTEX, puedan sacarle el máximo partido a la **Guía de onboarding**. Con este objetivo de garantizar la pertinencia del material para una amplia gama de negocios, hemos cubierto una jornada completa y abarcadora. 
-
-A continuación, te presentamos una [introducción](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) a lo que encontrarás en la guía.
+To help you easily adopt new resources, manage your business autonomously, and gain scalability, we have published the new **Onboarding guide** — content covering the complete journey for operating a VTEX store. This documentation will be available in the [Start here](https://help.vtex.com/en/tracks) section of the Help Center.
 
 <div>
-    <img src="//images.ctfassets.net/alneenqid6w5/1N4nX2r9WxhdSCqr8zOEla/0c63bf21015b75c89c8dc1e75b283662/announcement_headings_track_1_ES.png" height="90" alt="Serie de la tienda VTEX">
+  <img src="//images.ctfassets.net/alneenqid6w5/359WPOFfC5pE91DpoECZJe/ead8add75ce24d17af10d12a439959f0/announcement_complete_guide_EN.png" alt="Onboarding guide">
 </div>
 
-La **Serie de la tienda VTEX** presenta el contexto inaugural de la operación, comenzando por la definición del [tipo de cuenta y arquitectura](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) que mejor se adaptan a las necesidades de tu negocio. A partir de ese punto, puedes llevar a cabo la [configuración inicial](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) y la configuración de los [módulos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) de la plataforma, enfocándote en acelerar la inauguración de la tienda. Una vez finalizadas las [integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) y la implementación de la [tecnología de frontend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) para la construcción del storefront, es el momento del [go live](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) y de la inauguración de la nueva tienda.
+## What is the Onboarding guide?
+
+The **Onboarding guide** is a collection of three documentation tracks, which include planning the store architecture, go-live configurations, products to help evolve your business, and guidelines about our support. The guide describes and contextualizes the platform settings and resources within the VTEX store journey.
+
+The **Onboarding guide** has three tracks:
+
+- [VTEX store overview](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9)
+- [Next steps after the go-live](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS)
+- [Support at VTEX](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy)
+
+>ℹ️ The tracks include content that complement one another, but they are intended to be standalone. This means you can explore the content freely, without following any specific order.
+
+Our aim is to allow clients, partners, and the VTEX ecosystem to take advantage of the **Onboarding guide**. We took into account a comprehensive journey to make sure the content stayed relevant for different businesses.
+
+You can find an [overview](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9) of the guide content below.
 
 <div>
-    <img src="//images.ctfassets.net/alneenqid6w5/6yRmvP19rt7z1mNE7vdWQz/24410786064e27a396dd068b5c37418a/announcement_headings_track_2_ES.png" height="90" alt="Proximos pasos tras el go live">
+    <img src="//images.ctfassets.net/alneenqid6w5/1N4nX2r9WxhdSCqr8zOEla/08f6af21193f72196786c3675d950a0e/announcement_headings_track_1_EN.png" height="90" alt="VTEX store track">
 </div>
 
-La serie **Próximos pasos tras el go live** presenta la manera en que se realiza el [comercio unificado](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/5Qvw31yH2FPDBl14K5xXHA) con los recursos de la plataforma, abordando [configuración de módulos](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/V1fs7IkfYMfn91ZVHTLu4) no mencionada anteriormente, ya que en este punto el enfoque está en la evolución de la operación. Esta serie también presenta los [productos add-on](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) de VTEX, una variedad de productos que pueden adquirirse por separado para posibilitar nuevas estrategias y la diversificación del negocio.
+The **VTEX store track** describes the initial context of the operation, starting by defining the [account type and architecture](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) that best suit the business needs. From there, you can complete the [initial setup](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) and configure the platform [modules](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), focusing on getting the operation going. Once the [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) are completed and the [frontend](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) technology has been implemented in order to build the storefront, it's time for the [go-live](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) and launching the new store.
 
 <div>
-    <img src="//images.ctfassets.net/alneenqid6w5/6N7adQ7RxTfTyuIrCDqstZ/e7a5437f1d39e69bfe53047c68c22821/announcement_headings_track_3_ES.png" height="90" alt="VTEX Support">
+    <img src="//images.ctfassets.net/alneenqid6w5/6yRmvP19rt7z1mNE7vdWQz/0e09fd47f72f6177da8f318ea78d0d9f/announcement_headings_track_2_EN.png" height="90" alt="Next steps after go live">
 </div>
 
-**Soporte en VTEX** presenta el [soporte](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) que proporcionamos a los clientes, que no se limita a una parte específica de la jornada. El [funcionamiento del soporte](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) se aborda también en otras series, ya que la [apertura de tickets](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE) es la vía para determinadas contrataciones y solicitudes. Esta serie ha sido diseñada para que nuestros clientes tengan la mejor experiencia con nuestros servicios y dispongan de la información necesaria para abrir tickets, ya sea en el ámbito del soporte [técnico](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [financiero](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) o [comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+The **Next steps after go-live** track describes how [unified commerce](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/5Qvw31yH2FPDBl14K5xXHA) is achieved with the platform resources, including [module settings](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/V1fs7IkfYMfn91ZVHTLu4) not mentioned before. The aim here is to focus on evolving the operation. This track also describes VTEX's [add-on products](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm), which are products that can be requested separately for implementing new strategies and diversifying the business.
 
-## ¿Por qué creamos este material?
+<div>
+    <img src="//images.ctfassets.net/alneenqid6w5/6N7adQ7RxTfTyuIrCDqstZ/500c3acec9c5f6c7ddc8895df69916ac/announcement_headings_track_3_EN.png" height="90" alt="VTEX Support">
+</div>
 
-Con el propósito de promover la autonomía de nuestros clientes, hemos estructurado la **Guía de onboarding** enfocándonos en los siguientes aspectos clave:
+The **VTEX Support** track describes the [support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) offered by VTEX to clients, which is not restricted to a specific part of the journey. Other tracks also mention [how support works](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3), since [opening a ticket](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE) is the designated channel for certain requests. The organization of this track aims to help our clients have the best experiences with our services, providing all the necessary information for opening tickets, whether for [technical](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [billing](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl), or [commercial](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) support.
 
-* **Jornada completa:** se trata de la primera documentación de la jornada completa de la operación de una tienda VTEX, y el contenido está diseñado para acelerar el go live y reducir el time-to-revenue del negocio.
-* * **Contenido inédito:** además del novedoso planteamiento de la jornada, hay contenido inédito, donde podemos destacar: _Serie de la tienda VTEX_ ([Cuentas y arquitectura](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl), [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), [Implementación de frontend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ)), _Acciones después del go live_, ([Productos add-on](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm)) y Soporte VTEX como un todo.
-* **Relevancia general:** el valor de esta guía no se limita a nuevos clientes o a tiendas que se encuentran en las fases previas al go live, ya que consideramos una jornada lo suficientemente abarcadora como para ser relevante para una gran variedad de modelos de negocio.
+## Why did we create this content?
 
-Esperamos que este material contribuya al éxito de tu negocio y a tu satisfacción con VTEX.
+We organized the **Onboarding guide** to provide autonomy for our clients. Here are some highlights about the guide:
 
-|  | **Guía de onboarding** |  |
+- **Complete journey:** This is the first documentation that covers the complete operational journey of a VTEX store. The content is designed to make go-live faster and reduce the _time to revenue_ of the business.
+- **Brand-new content:** In addition to the new approach of the journey, there is brand-new content, with the following highlights in the _VTEX store track_ ([Accounts and architecture](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl), [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), [Frontend implementation](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ)), in the _Next steps after the go-live track_ ([Add-on products](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm)), and the _VTEX Support track_ as a whole.
+- **General relevance:** The value of this guide is not restricted to new clients or stores in the phases before go-live. We envisioned a comprehensive journey to make it relevant for different business models.
+
+We hope this content contributes to the success of your business and your satisfaction with VTEX.
+
+|  | **Onboarding guide** |  |
 | :---: | :---: | :---: |
-| Parte I | Parte II | Parte III |
-| [Serie de la tienda VTEX](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | [Próximos pasos tras el go live](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS) | [Soporte en VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy) |
+| Part I | Part II | Part III |
+| [VTEX store overview](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9) | [Next steps after the go-live](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS) | [Support at VTEX](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) |
 
 <div>
-  <img src="//images.ctfassets.net/alneenqid6w5/4CgTVLjK3cazg4dDyVlB8m/eaf5ae6c543344566898cd810a9753a1/announcement_under_table_image_ES.png" alt="Imagen ecommerce">
+  <img src="//images.ctfassets.net/alneenqid6w5/4CgTVLjK3cazg4dDyVlB8m/924575a75836acd4e7b5e4a4c199b516/announcement_under_table_image_EN.png" alt="Ecommerce image">
 </div>

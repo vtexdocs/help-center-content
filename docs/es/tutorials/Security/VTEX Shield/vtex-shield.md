@@ -10,50 +10,50 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: vtex-shield
-locale: es
+locale: en
 legacySlug: vtex-shield
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
->ℹ️ Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+>ℹ️ If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contato/).
 
-VTEX Shield ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las certificaciones y [prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) existentes en VTEX.
+VTEX Shield offers additional, customizable protection layers for stores that prioritize platform resilience and the security standards guaranteed by VTEX's existing security [certifications and practices](https://vtex.com/us-en/security/security-practices/).
 
-La solución cuenta con recursos de seguridad avanzados que permiten detectar riesgos potenciales y realizar acciones preventivas. Así, puedes proteger tu tienda contra interrupciones inesperadas, garantizando la operatividad y confiabilidad de la misma.
+The solution provides advanced security features, allowing you to detect potential risks and take preventive actions. This ensures your store remains protected from unexpected disruptions, keeping it operational and reliable.
 
-Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcionalidades:
+When requesting VTEX Shield, you can choose from the following features:
 
 * [Security Monitor](#security-monitor)
-* [Pruebas de penetración](#pruebas-de-penetracion)
+* [Penetration tests](#penetration-tests)
 * [Web Application Firewall (WAF)](#web-application-firewall-waf)
 * [Data Protection Plus](#data-protection-plus)
 
 ## Security Monitor
 
-Security Monitor es un dashboard del Admin VTEX que detecta amenazas de seguridad relacionadas con el comportamiento de usuarios administrativos y configuraciones inapropiadas. Los riesgos potenciales incluyen [claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) antiguas o expuestas en la web, usuarios o credenciales con permisos excesivos y usuarios inactivos. La herramienta ofrece una visión general de las amenazas y soluciones, con la opción de notificar al retailer por email de cada hallazgo detectado.
+Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
 
-Security Monitor está disponible en el Admin VTEX solo para tiendas con VTEX Shield que opten por este recurso. Para obtener más información, consulta la guía [Security Monitor](https://help.vtex.com/es/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
+Security Monitor is available in the VTEX Admin only for stores using VTEX Shield. For more information, check out the [Security Monitor](https://help.vtex.com/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) guide.
 
-## Pruebas de penetración
+## Penetration tests
 
-Las pruebas de penetración o pentests son simulaciones de ataques a un sistema informático, red o aplicación web con el fin de evaluar la seguridad, permitiendo identificar y corregir vulnerabilidades.
+Penetration tests, or pentests, are simulated attacks on a computer system, network, or web application to assess security, identify vulnerabilities, and fix them.
 
-Solo las tiendas con VTEX Shield que opten por este recurso tienen permiso para realizar pruebas de penetración, según los procedimientos indicados en [Pruebas de penetración y avisos de vulnerabilidad](https://help.vtex.com/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb).
+Only stores with VTEX Shield that request this feature are authorized to run penetration tests, following the procedures indicated in [Penetration tests and vulnerability notifications](https://help.vtex.com/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb).
 
 ## Web Application Firewall (WAF)
 
-Web Application Firewall (WAF) es una herramienta para proteger aplicaciones web mediante monitoreo y filtrado del tráfico de internet.
+The Web Application Firewall (WAF) protects web applications by monitoring and filtering internet traffic.
 
-Este recurso de seguridad desempeña un papel clave en la protección de servicios online, aplicaciones y sitios web frente a diversos ataques, como la inyección SQL, XSS (cross-site scripting) y otras vulnerabilidades web comunes.
+This security feature plays a key role in protecting websites, online services, and web applications from attacks such as SQL injection, cross-site scripting (XSS), and other common web vulnerabilities.
 
-Solo las tiendas con VTEX Shield que opten por este recurso pueden solicitar la activación de WAF. Más información sobre su funcionamiento y los tipos de amenazas que combate en [Web Application Firewall (WAF)](https://help.vtex.com/es/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn).
+Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](https://help.vtex.com/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
 
 ## Data Protection Plus
 
->ℹ️ Esta funcionalidad se encuentra en fase beta cerrada y está disponible solo en algunas regiones. Si tienes alguna duda, ponte en contacto con [nuestro soporte](https://help.vtex.com/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+>ℹ️ This feature is in closed beta and is only available in some regions. If you have any questions, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
-[Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) es una arquitectura de datos que proporciona una capa adicional de protección para datos personales. En esta arquitectura, todos los datos de información de identificación personal (PII, Personally Identifiable Information) se almacenan en [Profile System](https://developers.vtex.com/docs/guides/profile-system), un servicio desarrollado específicamente para procesar PII siguiendo un [conjunto de reglas y procesos](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) apropiado para este objetivo.
+[Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) is a data architecture that offers an additional layer of protection for personal data. In this architecture, all PII (Personally Identifiable Information) data is stored in the [Profile System](https://developers.vtex.com/docs/guides/profile-system), a service developed specifically for processing PII following a [set of rules and processes](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) appropriate for this purpose. 
 
-Otros módulos de la plataforma, como Pedidos y Checkout, solamente almacenan datos anonimizados asociados con un token de Profile System, lo que aumenta la seguridad de esta información.
+Other platform modules, such as Orders and Checkout, only store anonymized data associated with a Profile System token, increasing the security of this information.
 
-Consulta el conjunto de guías de la categoría [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) en el Developer Portal para obtener más detalles y especificaciones sobre esta arquitectura.
+See the set of guides for the [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) category in the Developer Portal for more details and specifications about this architecture.

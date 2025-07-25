@@ -9,46 +9,46 @@ firstPublishedAt: 2021-09-30T18:46:40.188Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: facebook-business-extension
-locale: pt
+locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
-trackSlugPT: integracao-com-o-facebook-business-extension
+trackSlugEN: integration-with-facebook-business-extension
 ---
 
-O [Facebook Business Extension (FBE)](https://developers.facebook.com/products/business-apps/?locale=pt_BR) é uma plataforma que oferece uma maneira simplificada de integrar com serviços e funcionalidades do Facebook.
+[Facebook Business Extension (FBE)](https://developers.facebook.com/products/business-apps/?locale=en_US) is a platform that provides a streamlined way to integrate with Facebook services and features.
 
-A VTEX desenvolveu a app _Facebook Business Extension e Conversions API_, que facilita a integração com o FBE. Após concluir a integração, será possível gerenciar novos ativos do Facebook através da plataforma VTEX. Além disso, a integração instala automaticamente as seguintes funcionalidades:
+VTEX developed the _Facebook Business Extension and Conversions API_ app to facilitate the integration with FBE. After configuring the integration, you will be able to manage new Facebook assets through the VTEX platform. In addition, the integration automatically installs the following features:
 
-- [Pixel do Facebook](https://developers.facebook.com/docs/meta-pixel)
-- [API de Conversões](https://www.facebook.com/business/help/2041148702652965?locale=pt_BR)
-- [Catálogo](https://developers.facebook.com/docs/marketing-api/catalog?locale=pt_BR)
-- Botão 'Compre Agora' do Facebook
-- Botão 'Compre Agora' do Instagram
+- [Facebook Pixel](https://developers.facebook.com/docs/facebook-pixel?locale=en_US)
+- [Conversions API](https://www.facebook.com/business/help/2041148702652965?locale=en_US)
+- [Catalog](https://developers.facebook.com/docs/marketing-api/catalog?locale=en_US)
+- Facebook Call-to-action button
+- Instagram Call-to-action button
 
-## Compatibilidade
+## Compatibility
 
-A app _Facebook Business Extension e Conversions API_ tem compatibilidade total com lojas que operam com VTEX IO, compatibilidade parcial com as lojas que são CMS Legado ou [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). Para identificar em qual modelo sua loja opera, acesse [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
+The _Facebook Business Extension and Conversions API_ app is fully compatible with stores operating with VTEX IO, and partially compatible with stores that are CMS or [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). To identify which model your store operates with, go to [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
 
-Saiba mais sobre a configuração necessária para cada uma em nosso guia [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) no Developer Portal.
+Learn more about the required configuration for each in our [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) guide on the Developer Portal.
 
->⚠️ Na VTEX, existe um [guia de integração com Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc). No entanto, a integração com a app <i>Facebook Business Extension e Conversions API</i> deve ser sua escolha padrão, pois o FBE é a solução mais completa do Facebook. Independente de ter a outra integração configurada, você deve prosseguir normalmente com a configuração desta integração.
+>⚠️ VTEX has a <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook integration guide</a>. However, integration with the <i>Facebook Business Extension and Conversions API</i> app must be your default choice, as FBE is Facebook's most complete solution. Regardless of whether you have the other integration configured, you must proceed normally with the configuration of this integration.
 
-## Pixel do Facebook
+## Facebook Pixel
 
-O Pixel do Facebook permite medir a eficácia da publicidade do seu negócio, por meio da análise das ações que os usuários realizam no seu site. Com a integração com a app _Facebook Business Extension e Conversions API_, isso pode ser feito de forma nativa.
+Facebook Pixel allows you to measure your business advertising effectiveness by tracking the user actions on your website. You can use Facebook Pixel capabilities natively by integrating the [Facebook Business Extension app](https://apps.vtex.com/vtex-facebook-fbe/p) and Conversions API.
 
-Atualmente, o Pixel do Facebook é obtido pela integração da [app Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) e Conversions API e está disponível para as lojas VTEX IO e Legacy CMS Portal. Se a sua loja utiliza o sistema Legacy CMS, é necessário fazer uma configuração manual no sistema. Saiba mais lendo o artigo [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend).
+The integration to use Facebook Pixel is currently available for VTEX IO and Legacy CMS Portal stores. If your store uses the Legacy CMS system, you need to configure Pixel manually in the system. Learn more in the [Facebook Business Extension](https://developers.vtex.com/vtex-developer-docs/docs/vtex-facebook-fbe#facebook-pixel-for-legacy-cms-portal-frontend) article.
 
-Entretanto, se sua loja já utiliza o antigo app Facebook Pixel da App Store, você deve checar se o app foi desinstalado corretamente. Porque se o app ainda estiver instalado, ele pode duplicar os eventos do Facebook. 
+If your store uses the old Facebook Pixel app from the App Store, you should check if the app has been uninstalled correctly, otherwise Facebook events may be duplicated.
 
-Para visualizar se o app foi desinstalado, acesse no Admin VTEX *Configurações da Conta > Meus aplicativos*. 
+To find out if the app has been uninstalled, go to VTEX *Admin > Account Settings > My Apps*.
 
-## API de Conversões
+## Conversions API
 
-A API de Conversões foi desenvolvida para criar uma conexão direta entre os seus dados de marketing e o sistema do Facebook. Alguns dos principais benefícios dessa funcionalidade são:
+The Conversions API is designed to create a direct connection between your marketing data and the Facebook system. Some of the main advantages of this feature are:
 
-- Redução do custo por ação, como resultado da conexão aprimorada.
-- Otimização de anúncios para ações que acontecem no final da jornada do cliente.
-- Aprimoração da mensuração de dados de marketing.
-- Aumento do controle de dados.
+- Reduced cost per action as a result of the improved connection.
+- Ad optimization for actions that happen at the end of the customer journey.
+- Improved measurement of marketing data.
+- Increased data control.
 
->ℹ️ Saiba mais na documentação do Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=pt_BR">Sobre a API de Conversões</a>.
+>ℹ️ Learn more in the Facebook documentation <a href= "https://www.facebook.com/business/help/2041148702652965?locale=en_US">About Conversions API</a>.

@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slugEN: como-fazer-transferencias-pelo-vtex-payment
-locale: es
+locale: en
 legacySlug: como-fazer-transferencias-pelo-vtex-payment
 subcategoryId: 18xYXhZbElixqnashigi5k
 ---

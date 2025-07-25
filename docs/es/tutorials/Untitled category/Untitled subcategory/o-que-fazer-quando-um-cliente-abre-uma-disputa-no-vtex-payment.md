@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: unknown
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: o-que-fazer-quando-um-cliente-abre-uma-disputa-no-vtex-payment
-locale: es
+locale: en
 legacySlug: o-que-fazer-quando-um-cliente-abre-uma-disputa-no-vtex-payment
 subcategoryId: 4GiXnGyb48aFGcKSeIzC7j
 ---

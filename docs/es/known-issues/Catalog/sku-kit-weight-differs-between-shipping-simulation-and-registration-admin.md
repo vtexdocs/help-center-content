@@ -11,20 +11,30 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slugEN: sku-kit-weight-differs-between-shipping-simulation-and-registration-admin
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 389784
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+A SKU KIT should weigh the sum total of its components. When a KIT is being created, the system should increment the weight of each component to the weight of the KIT, however, this is only happening when the KIT (Parent) is edited and updated. The main impact is seen in the shipping simulation since the KIT often appears as having a much heavier weight than in reality. This happens every time a Component KIT is updated, the SKU KIT weight is not updated.
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+
+## Simulation
+
+
+To simulate, manually create a SKU KIT through admin. This article describes each step needed when registering a KIT: Kit Registration
+
+###
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+To overcome this behavior, as soon as you notice this divergence, access the SKU KIT (Parent) through admin and click on the save button (either by applying changes or not). The same process can be done by spreadsheet. After this step, wait a few moment for the indexation to finish.
 

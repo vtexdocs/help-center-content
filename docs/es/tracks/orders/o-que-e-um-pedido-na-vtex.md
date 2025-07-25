@@ -1,5 +1,5 @@
 ---
-title: 'Qué es un pedido en VTEX'
+title: 'What is an order in VTEX'
 id: 2sl6hj2eqwgqbDgTF6y5qE
 status: PUBLISHED
 createdAt: 2019-11-05T13:46:09.344Z
@@ -9,25 +9,27 @@ firstPublishedAt: 2019-11-18T12:19:57.554Z
 contentType: trackArticle
 productTeam: Post-purchase
 slugEN: o-que-e-um-pedido-na-vtex
-locale: es
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
-trackSlugES: pedidos
+trackSlugEN: orders
 ---
 
-En el momento en que el cliente final de la tienda presiona el botón `Pagar`, se genera un pedido en la plataforma VTEX.
+The moment the end customer pushes the Checkout button, an order is generated inside VTEX.
 
-Esto significa que ahora usted podrá realizar el seguimiento del flujo del pedido en el módulo **Pedidos** dentro del su Admin VTEX.
+This means that you will now be able to track the order flow through the **Orders** module within your VTEX Admin.
 
-Es decir, puede conocer los detalles de cada paso del progreso del pedido. Un pedido lleva mucha información, como:
+That is, you can now know the details of each step throughout the order progress.
 
-- Artículos en el carrito
-- Importe del pedido
-- Momento del pedido
-- Datos del cliente
-- Datos promocionales aplicados al pedido
-- Dirección de entrega
-- Forma de pago
-- Política comercial aplicada a la compra
-- Responsable de la venta (Marketplace) y del fulfillment (Seller)
+An order carries a lot of information, such as:
 
-Estas y otras informaciones son esenciales para administrar los pedidos de la tienda. Pueden ser consumidos por API o en la página de [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos más adelante.
+- Cart items
+- Value of the order
+- Order time
+- Client's data
+- Promotional data currently applied to the order
+- Delivery address
+- Payment method
+- Trade policy applied to the purchase
+- Store which is responsible for selling (the Marketplace) and store responsible for the fulfillment (the Seller)
+
+These and other information are essential for managing orders. They can be consumed using our API or on the [order details page](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), which we'll see later in this track.

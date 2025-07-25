@@ -9,43 +9,41 @@ firstPublishedAt: 2023-06-28T14:13:24.803Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: apple-pay
-locale: es
+locale: en
 trackId: 6X8YyZBoVJpz5R8oXciTyu
-trackSlugES: cartera-digital-e-wallet
+trackSlugEN: digital-wallet-e-wallet
 ---
 
-Sus clientes pueden comprar con Apple Pay, la [cartera digital](https://help.vtex.com/es/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1) de Apple. Para ello, usted necesita cumplir algunos requisitos:
+Your customers can shop using Apple Pay, the [digital wallet](https://help.vtex.com/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1) from Apple. For this, you need to fulfill some requirements:
 
-- Tener cuenta en `developer.apple.com`.
-- Tener contrato con un proveedor que procese pagos con Apple Pay.
+- Have an account in `developer.apple.com`.
+- Hire a provider that processes payments with Apple Pay.
 
->⚠️ Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
+>⚠️ Apple Pay currently only works on MacOs, IOS operating systems, and the Safari browser. For more information, go to [Devices compatible with Apple Pay](https://support.apple.com/en-gb/HT208531).
 
-## Configurar proveedor de pago
+## Setting up the payment provider
 
-En primer lugar, debes configurar un proveedor en el Admin de tu tienda que procese transacciones con Apple Pay, como [Adyen](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv) y [Stripe](https://help.vtex.com/es/tutorial/configurar-la-afiliacion-stripe--fwF2wk2FQKrODrWWkvSLO).
+Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3) and [Stripe](https://help.vtex.com/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).
 
-Para consultar todas las opciones de proveedores disponibles para este método de pago, acceda a la lista como se describe en el Paso 5 de la sección [Configurar el pago con Apple Pay](#configurar-el-pago-con-apple-pay).
+To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 
-<div class="alerta alerta-advertencia">
-  Antes de comenzar a configurar el proveedor, debe <a href="register your Merchant ID with Apple Pay">registrar su Merchant ID con Apple Pay</a>.
-</div>
+>⚠️ Before starting to configure the provider, you must [register your Merchant ID with Apple Pay](register your Merchant ID with Apple Pay).
 
-## Configurar el pago con Apple Pay
+## Setting up payment with Apple Pay
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. Haga clic en la pestaña __Condiciones de pago__ y, a continuación, en el botón `+`.
-3. Seleccione el medio de pago __Apple Pay__.
-4. Haga clic en el botón `Status` para activar esta condición de pago.
-5. En el campo __Procesar con proveedor__, seleccione el proveedor que se va a utilizar para procesar los pagos.
-6. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago marcando la casilla __Utilizar antifraude__.
-7. Elija si desea que los pagos se realicen en efectivo o parcelados.
-8. Si lo desea, también puede optar por una [condición especial de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
-9. Haga clic en `Guardar`.
+1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
+2. Click the __Payment conditions__ tab and then the `+` button.
+3. Select the __Apple Pay__ payment method.
+4. Click the `Status` button to enable this payment condition.
+5. In the __Process with provider__ field, select the provider that will be used to process the payments.
+6. If there is an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use anti-Fraud solution__ box.
+7. Choose whether you want payments to be made in cash or installments.
+8. If you wish, you can also opt for a [special payment condition](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+9. Click `Save`.
 
-Después de seguir los pasos indicados, Apple Pay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
+After following the indicated steps, Apple Pay may take up to 10 minutes to appear at your store's checkout as a payment option.
 
-### Artículos relacionados
+### Related articles
 
-- [Configurar Merchant ID en Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
-- [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456)
+- [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
+- [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456)

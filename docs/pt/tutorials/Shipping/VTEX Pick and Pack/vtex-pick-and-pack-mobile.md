@@ -10,202 +10,203 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: vtex-pick-and-pack-mobile
-locale: pt
+locale: en
 legacySlug: vtex-pick-and-pack-mobile
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
->ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+>ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-O aplicativo móvel do [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
+The [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
 
-![pickpack-mobile-pt](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/825577c3ee5232ac15408d243a20d04e/image.png)
+![pickpack-mobile-en](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/c130518e5a14f76ca2ee9268bc298d92/image.png)
 
-O manuseio do pedido é dividido em quatro etapas, seguindo o caminho normal de pedidos na loja:
+Order handling is divided into four steps, following the usual store order flow:
 
-1. [Criar ordem de serviço](#criar-ordem-de-servico)
-2. [Separação dos produtos](#separacao-dos-produtos)
-3. [Empacotamento do pedido](#empacotamento-do-pedido)
-4. [Envio dos pacotes](#envio-dos-pacotes)
+- [Create worksheets](#creating-worksheets)
+- [Picking](#picking)
+- [Packing](#packing)
+- [Shipping](#shipping)
 
-## Ordens de serviço
+## Worksheets
 
-Uma ordem de serviço consiste em um conjunto de pedidos que serão processados pelo fluxo do Pick and Pack simultaneamente. Essa abordagem permite uma gestão eficiente, agilizando o processamento simultâneo de múltiplos pedidos.
+A worksheet consists of a set of orders that will be processed by the Pick and Pack flow simultaneously. This allows for efficient management and speeds up the processing of multiple orders at once.
 
-Por exemplo, considere uma ordem de serviço que inclua apenas três pedidos:
+For example, a worksheet with only three orders:
 
-- Pedido 1: uma camiseta vermelha e uma saia rosa.
-- Pedido 2: duas camisetas vermelhas e um chapéu branco.
-- Pedido 3: uma saia rosa e um chapéu branco.
+- Order 1: A red t-shirt and a pink skirt.
+- Order 2: Two red t-shirts and a white hat.
+- Order 3: A pink skirt and a white hat.
+When selecting this worksheet for handling, the app will display the following items for picking:
 
-Ao selecionar esta ordem de serviço para manuseio, o aplicativo indicará a separação de:
+- Three red t-shirts.
+- Two pink skirts.
+- Two white hats.
 
-- Três camisetas vermelhas.
-- Duas saias rosa.
-- Dois chapéus brancos.
+The app will then help you pack each order with its respective items.
 
-Em seguida, o aplicativo te auxiliará no empacotamento de cada pedido com seus respectivos itens.
+>⚠️ Worksheets only apply to the order picking and packing steps. You must ship each order separately.
 
->⚠️ Ordens de serviço se aplicam apenas às fases de separação e empacotamento de pedidos. Você deve fazer o envio de cada pedido separadamente.
+## Creating worksheets
 
-### Criar ordem de serviço
+The __Unassigned__ tab lists the orders that should be selected for [worksheets](#worksheets). 
 
-A aba __Sem alocação__ lista os pedidos que devem ser selecionados para [ordens de serviço](#ordem-de-servico).
+![pickpack-ordemservico-en](//images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/fe3519449de97380728a84ea34d7ba86/image.png)
 
-![pickpack-ordemservico-pt](//images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/ed6060bd509ee50e397b06e62a335547/image.png)
+To create a worksheet, follow the steps below:
 
-Para criar uma ordem de serviço, siga os passos abaixo:
+1. On the initial screen, click __Unassigned__ <i class="fas fa-arrow-right"></i>.
+2. Select the orders you want to add to the worksheet. To create a worksheet with all the orders, click <i class="fas fa-square"></i> `Select All`. 
+3. Click `Start Picking`.
 
-1. Na tela inicial, clique em Sem alocação <i class="fas fa-arrow-right"></i>.
-2. Selecione os pedidos que deseja incluir na ordem de serviço. Para criar uma ordem de serviço com todos os pedidos, clique em <i class="fas fa-square"></i> `Selecionar tudo`.
-3. Clique em `Iniciar separação`.
+## Picking products
 
-## Separar produtos
+The picking step consists of manually selecting the items listed in a [worksheet](#worksheets) and taking them to the appropriate packaging area in your facility.
 
-A etapa de separação consiste em selecionar fisicamente os itens correspondentes a uma [ordem de serviço](#ordens-de-servico) e direcioná-los até a área adequada para empacotamento na sua instalação.
+### Pending worksheets
 
-### Ordens de serviço pendentes
+The Pending tab displays the list of worksheets that have not been picked yet.
 
-A aba __Pendentes__ exibe a lista de ordens de serviço que ainda não tiveram sua separação finalizada.
+![pickpack-pendente-en](//images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/0b818a175fc5f290de6f37e1cff2d16f/image.png)
 
-![pickpack-pendente-pt](//images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/617071b6d8e6f098f74aa466bd5321fc/image.png)
+In this tab, you can select the worksheet ID if you only want to see the picked items from that order.
 
-Nesta aba, é possível selecionar pelo ID de uma ordem de serviço, caso queira visualizar apenas os itens separados daquele pedido.
+If there are worksheets assigned to the picker, you can access them from the picking screen by following these steps:
 
-Caso haja ordens de serviço atribuídas ao separador, é possível acessá-las na tela de separação seguindo estes passos:
+1. On the app's home page, click **Continue Picking**. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the picking step.
+2. Click the worksheet you want to start picking.
 
-1. Na tela inicial do aplicativo, clique em **Continuar separação**. Será exibida uma lista com as [ordens de serviço](#ordens-de-servico) designadas ao separador que estão na etapa de separação.
-2. Clique na ordem de serviço que deseja separar.
+When clicking a worksheet, the following information is displayed:
 
-Ao clicar em uma ordem de serviço, as seguintes informações são exibidas:
+- __Items:__ Products to be picked from the worksheet.
+- __Approvals:__ Products that were rejected or replaced.
+- __Info:__ General information about the worksheet and the order.
+- __Summary:__ Products that have already been picked.
 
-- __Item(ns):__ produtos que devem ser separados na ordem de serviço.
-- __Informações:__ informações gerais da ordem de serviço e do pedido.
-- __Resumo:__ produtos que já foram separados pelo separador.
+![pickpack-em-separacao-en](//images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/53ee187d9cf252ce233ab2c5b5c2b9ea/image.png)
 
-![pickpack-em-separacao-pt](//images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/5f0e48be4c066bf3aa3757f0ddc3db07/image.png)
+By clicking the <i class="fas fa-ellipsis-v"></i> menu, the following options will be displayed:
 
-Ao clicar no menu <i class="fas fa-ellipsis-v"></i>, serão exibidas as seguintes ações:
+- **Add Note:** Add a note to the worksheet.
+- **Set as Ready for Packing:** Used to bulk pick orders or bulk reject orders.
+- **Pause Picking:** Pause the time count for picking the products listed in the worksheet.
+- **Open Barcode Reader:** Use the device's camera to read product barcodes.
+- **Print Picking List:** Generates a list of items from the worksheet for printing.
+- **Close Menu:** Closes the menu and returns to the picking screen. 
 
-- **Adicionar observação:** adiciona uma observação livre à ordem de serviço.
-- **Marcar como pronto para empacotar:** utilizada para separar pedidos em massa ou recusar pedidos em massa.
-- **Pausar separação:** pausa a contagem de tempo referente à separação da ordem de serviço.
-- **Abrir leitor de código de barras:** utiliza a câmera do dispositivo para ler código de barras dos produtos.
-- **Imprimir lista de separação:** disponibiliza um documento com a lista de itens da ordem de serviço para impressão.
-- **Fechar menu:** fecha o menu e volta para a tela de separação. 
+To pick a product, follow the steps below:
 
-Para separar um produto, siga estes passos:
+1. On the Picking screen, go to the __Items__ tab.
+2. Click the product you want to pick or drag the product to the right. If the product has more than one unit, you need to click the number of units. For products with weight or volume, confirm the measurements first, then confirm your selection, as shown in the example below.
 
-1. Na tela de __Separação__, acesse a aba __Item(ns)__.
-2. Clique no produto que deseja separar ou deslize o produto para a direita. Caso o produto tenha mais de uma unidade, é necessário clicar a quantidade de unidades do produto. Para produtos que contém peso ou volume é preciso confirmar a medida e depois confirmar a seleção, como o exemplo abaixo.
+![pickpack-item-en](//images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/de6e921ac69b112aee8ac14a81810c60/image.png)
 
-![pickpack-item-pt](//images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/f46444bb6af306fc698e2084473a421d/image.png)
+To pick all the products from the worksheet at once, follow these steps:
 
-Para separar todos os produtos da ordem de serviço de uma única vez, siga estes passos:
+1. Click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **Set ready for packaging** option.
+3. Click **Pick all Available Items.**
 
-1. Clique no menu <i class="fas fa-ellipsis-v"></i>.
-2. Clique na opção **Marcar como pronto para empacotar.** 
-3. Clique em **Separar todos os itens disponíveis.**
+Once picked, the products will be listed in the __Summary__ tab.
 
-Uma vez separados, os produtos são listados na aba __Resumo__.
+## Rejecting items
 
-## Recusar itens
+There are some scenarios in which products may have to be rejected due to store settings and item availability. 
 
-Há cenários em que pode ser necessário recusar produtos por conta das configurações da loja e disponibilidade dos itens no inventário. 
+>⚠️ The option to reject items may not be available. If you have any questions, please contact the store admin.
 
->⚠️ A opção de recusar itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
+To reject a product from the worksheet, follow the steps below:
 
-Para recusar um produto da ordem de serviço, siga os passos abaixo:
+1. Go to the __Items__ tab.
+2. Click and drag the product you want to reject to the left.
+3. Select the reason for rejection from the **Rejection reasons** list.
+4. Select the number of items you want to reject or click `Confirm and Discard All`.
+5. Click `Discard Item`.
 
-1. Acesse a aba __Item(ns)__.
-2. Clique e deslize para a esquerda o produto que deseja recusar.
-3. Selecione a razão da recusa da lista **Motivos de recusa**.
-  ![pickpack-item-recusa-pt](//images.ctfassets.net/alneenqid6w5/2rFwEeBHOf6PLRpgpcdDTL/08fac545bfe628e5211c0c818a22c3df/image.png)
-4. Selecione a quantidade de itens que deseja recusar ou clique em `Confirmar e descartar todas as unidades`.
-5. Clique em `Descartar unidades`.
+To reject all the products from the worksheet at once, follow these steps:
 
-Para recusar todos os produtos da ordem de serviço de uma única vez, siga estes passos:
+1. Click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **Set ready for packaging** option.
+3. Click **Reject All Available Items**.
 
-1. Clique no menu <i class="fas fa-ellipsis-v"></i>.
-2. Clique na opção **Marcar como pronto para empacotar.** 
-3. Toque em **Recusar todos os itens disponíveis.**
+>❗ If all the items from an order are rejected, the order will be completed automatically.
 
->❗ Se todos os itens de um pedido forem recusados, o pedido será concluído automaticamente.
+## Replacing items
 
-## Substituir itens
+You can also replace the item with another one, depending on the store's settings and the item's availability.
 
-Outra opção para casos de itens indisponíveis é substituir o item por um outro, a depender das configurações da loja e disponibilidade dos itens no inventário.
+>⚠️ The option to replace items may not be available. If you have any questions, please contact the store admin.
 
->⚠️ A opção de substituir itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
+To replace worksheet items, follow the steps below:
 
-Para substituir itens da ordem de serviço, siga os passos abaixo:
+1. Go to the __Items__ tab.
+2. Press and hold the product you want to replace.
+3. Click the **Replace Item** option.
+4. Search for or select the replacement item for the order and check the box <i class="fas fa-check-square"></i>.
+5. Select the number of units to be replaced.
+6. Select the reason for the replacement from the list of options.
+7. Complete the **Description** field with more information about the replacement.
+8. Click the `Confirm Replacement` button.
 
-1. Acesse a aba __Item(ns)__.
-2. Pressione o produto que deseja substituir.
-3. Clique na opção **Substituir item**.
-4. Busque ou selecione o item que substituirá o produto do pedido e clique na caixa de seleção <i class="fas fa-check-square"></i>.
-  ![pickpack-item-substituir-pt](//images.ctfassets.net/alneenqid6w5/3rdotgG0FkRbv3AprESrYA/6558b779984c5b763bfbc5e3a87c838d/image.png)
-5. Selecione o número de unidades que deverão ser substituídas.
-6. Selecione o motivo da substituição dentre as opções da lista.
-7. Preencha o campo **Descrição** com mais informações sobre a substituição.
-8. Clique no botão `Confirmar substituição`.
+## Completing the picking process
 
-## Concluir separação
+After all items on the worksheet have been picked, rejected, or replaced, click the `Start Packing` button to move the worksheet to the [packing](#packing) step.
 
-Uma vez que todos os itens da ordem de serviço foram separados, recusados ou substituídos, clique no botão `Iniciar empacotamento` para que a ordem de serviço passe para a etapa de [empacotamento](#empacotamento).
+## Packing
 
-## Empacotamento
+During packing, the picker organizes order items into their respective shipping packages.  The Pick and Pack mobile app allows you to organize all the packages needed for multiple orders easily.
 
-Na etapa de empacotamento, o separador seleciona os itens de cada pedido nas respectivas embalagens de envio. O aplicativo móvel do Pick and Pack permite organizar todos os pacotes necessários para diversos pedidos de forma simples e fácil.
+![pickpack-empacotamento-en](//images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/a12a99b9e9988032ac4b4950d1f85f01/image.png)
 
-![pickpack-empacotamento-pt](//images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/346447464d242ff16d085322378503fe/image.png)
+You can access the Packing page once you have [completed picking](#completing-the-picking-process) the items on a worksheet or by following these steps:
 
-É possível acessar a página de Empacotamento ao [concluir a separação](#concluir-separacao) de uma ordem de serviço ou seguindo estes passos:
+1. On the app's initial screen, click **To pack**. A list will be displayed with the [worksheets](#worksheets) assigned to the picker in the packing step.
+2. Click the worksheet you want to start picking. 
 
-1. Na tela inicial do aplicativo, clique em **Para empacotar**. Será exibida uma lista com as [ordens de serviço](#ordens-de-servico) designadas ao separador que estão na etapa de empacotamento.
-2. Clique na ordem de serviço cujos produtos deseja separar. 
+![pickpack-item-pendente-en](//images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/e3b58759bf7b7dfed1a7232f302bda2b/image.png)
 
-![pickpack-item-pendente-pt](//images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/abcca3f55094eea7f71c73660bd1b5f0/image.png)
+Follow the steps below to pack items:
 
-Siga os passos abaixo para empacotar itens:
+1. Under Packing, click the order you want to pack.
+2. Click the <i class="fas fa-plus"></i> button of the product you want to add to the package, or click <i class="fas fa-box"></i> to pack all products at once.
+>⚠️ If you choose to pack all the order items, the remaining unpacked products will automatically be listed in a new package.
+3. Select an existing package or add a new one by clicking `+ Create Package`.
+4. Select the package type you want to add.
+5. Select the number of units of this product you want to add to that package.
+6. Click the `Pack` button.
 
-1. Em Empacotamento, clique no pedido que deseja empacotar. 
-2. Clique no botão <i class="fas fa-plus"></i> do produto que deseja adicionar no pacote ou clique em <i class="fas fa-box"></i> para empacotar todos os produtos ao mesmo tempo.
->⚠️ Caso opte por empacotar todos os itens do pedido, os produtos que ainda não foram empacotados serão registrados em um único novo pacote.
-4. Selecione um pacote já registrado ou adicione um novo pacote clicando em `+ Criar pacote`. 
-5. Selecione o tipo do pacote que deseja adicionar.
-6. Selecione o número de unidades deste produto que deseja adicionar àquele pacote.
-7. Clique no botão `Empacotar produto`.
+You need to repeat this procedure as many times as necessary to pack all the items from a worksheet.
 
-É necessário repetir este procedimento quantas vezes for necessário para empacotar todos os itens referente a uma ordem de serviço.
+The packed items will be displayed on the **Packed Items** tab. You can switch between viewing items as a list or by orders and packages by clicking <i class="fas fa-toggle-on"></i>.
 
-Os itens que já foram empacotados estão disponíveis na aba **Itens empacotados**. É possível alternar a visualização dos itens entre uma lista de itens ou de pedidos e pacotes, clicando em <i class="fas fa-toggle-on"></i>.
+__Item list__
+![pickpack-item-empacotado-en](//images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/ec354b5f4e8e0dbce8102dac4bdc554e/image.png)
 
-__Lista de itens__
-![pickpack-item-empacotado-pt](//images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/5bb135ce0588205f44ff5511681ff816/image.png)
+__Orders and packages__
+![pickpack-item-empacotado-2-en](//images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/893b8268f9e01e764ca6f952852af1d1/image.png)
 
-__Pedidos e pacotes__
-![pickpack-item-empacotado-2-pt](//images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/fbaaedf590f158d3dbc9d24941d9f15a/image.png)
+After packing all items listed in the worksheet, complete the packing process on the Packed Items tab by clicking the `Confirm Packing` button.
 
-### Envio
+Then, the order will be completed in the app. Depending on your store's settings, the picker may proceed to the shipping step.
 
-A fase de envio permite criar serviços de envio referentes a pedidos que foram separados e empacotados.
+## Shipping
 
->⚠️ O envio é uma etapa opcional do aplicativo, a depender da sua operação e configurações feitas pelo administrador de loja.
+The shipping step allows you to create shipping services for orders picked and packed.
 
-Para enviar pacotes no aplicativo Pick and Pack, siga os passos abaixo:
+>⚠️ Shipping is an optional step in the app. It depends on your operation and the store settings.
 
-1. Na tela inicial, clique no menu <i class="fas fa-ellipsis-v"></i>.
-2. Clique na opção **Para envio.**
-3. Selecione o pacote que deseja enviar. Aqui é preciso selecionar um pedido que tenha status `Preparando envio`.
-4. Preencha as informações de envio:
-    - **Data prevista para coleta**
-    - **Data prevista para entrega**
-    ![pickpack-envio-pt](//images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/913d43663fb129edf3750b852bad2706/image.png)
-5. Selecione uma transportadora disponível.
-6. Clique em `Selecionar e continuar`.
-7. Confirme as informações do envio. Se nenhuma correção for necessária, clique no botão `Criar serviço`. Caso contrário, clique em `Voltar` e volte ao passo 5. 
+To ship packages using the Pick and Pack app, follow the steps below:
 
-Finalizado o cadastro, as informações do envio serão exibidas na tela seguinte no aplicativo. Os pedidos enviados estão disponíveis pelo menu <i class="fas fa-ellipsis-v"></i> __> Concluído__. 
+1. In the initial screen, click the <i class="fas fa-ellipsis-v"></i> menu.
+2. Click the **To ship** option.
+3. Select the package you want to ship. You need to select an order with the `Preparing shipment` [status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196).
+4. Complete all shipping information:
+    - **Expected pickup date**
+    - **Expected delivery date**
+    ![pickpack-envio-en](//images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/91bf904272cdd0c22037fafa64e273a4/image.png)
+5. Select a carrier.
+6. Click `Select and Continue`.
+7. Confirm the shipping information. If no corrections are needed, click the `Create Service` button. If not, click `Back` and go back to step 5. 
 
-![pickpack-finalizacao-pt](//images.ctfassets.net/alneenqid6w5/40mZiPyjG5VEHmcDazxUrI/2007a8d429ddb218f53add49575c0e76/image.png)
+After that, the shipping information will be displayed on the app's next screen. The shipped orders will be available in the <i class="fas fa-ellipsis-v"></i> > __Completed__ menu. 
+

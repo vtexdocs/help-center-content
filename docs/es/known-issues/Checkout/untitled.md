@@ -11,16 +11,16 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: untitled
-locale: es
+locale: en
 kiStatus: No Fix
 internalReference: 481402
 ---
 
-## Sumario
+## Summary
 
 
 
-## Simulación
+## Simulation
 
 
 To simulate the issue, it is necessary that the orderform already reaches the checkout with the address of type `search `filled up.

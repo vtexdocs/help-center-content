@@ -10,30 +10,31 @@ contentType: tutorial
 productTeam: Master Data
 author: 3vtAArasKQiuQKUg6AAuqq
 slugEN: vtable
-locale: es
+locale: en
 legacySlug: vtable
 subcategoryId: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
-VTable es una interfaz de usuario flexible y dinámica para administrar datos del Master Data.
+VTable is a flexible and dynamic user interface to manage data from Master Data.
 
-Utiliza **JSON Schema** para generar tablas increíbles.
+It uses **JSON Schema** to generate a lot of amazing tables.
 
-Si no está familiarizado con JSON Schema, eche un vistazo a las [especificaciones del JSON Schema](http://json-schema.org/) antes de seguir leyendo este documento.
+If you are not familiarized with JSON Schema please take a look ar the [JSON Schema specification](http://json-schema.org/) before you continue reading this document.
 
-Para que una aplicación sea procesada en VTable usted necesitará hacer lo siguiente:
-- Un JSON Schema definido para una entidad de datos en el Master Data.
-- Configurar la aplicación como se explica más adelante en este artículo.
+To have an app rendered in VTable you will need to set these up:
+- A JSON Schema defined for a data entity in Master Data.
+- An app configuration that will be explained later in this document.
 
-## Configuraciones de JSON Schema
+## JSON Schema configurations
 
-VTable utilizará la configuración del JSON Schema y de cualquier campo para montar un componente UI correspondiente. Estos son algunos ejemplos de configuraciones posibles:
+VTable will parse the JSON Schema configuration and any field to a corresponding UI component. These are some examples of posible configurations:
 
 ### Checkbox
 
-Para renderizar una casilla de verificación, el campo debe tener el tipo **boolean**.
+To render a checkbox the field must have type **boolean**.
 
-```JavaScript
+JavaScript
+```
 "approved": {
   "type": "boolean",
   "title": "Approved"
@@ -42,7 +43,7 @@ Para renderizar una casilla de verificación, el campo debe tener el tipo **bool
 
 ### DropDown
 
-Para renderizar un DropDown, el campo debe tener la palabra clave **enum**.
+To render a DropDown the field must have the **enum** keyword.
 
 ```JavaScript
 "gender": {
@@ -56,9 +57,10 @@ Para renderizar un DropDown, el campo debe tener la palabra clave **enum**.
 
 ### DatePicker
 
-Para renderizar un DatePicker, el campo debe tener la palabra clave **format** con el valor **date-time**.
+To render a DatePicker the field must have the keyword **format** with value **date-time**.
 
-```JavaScript
+JavaScript
+```
 "birthdate":{
    "type":"string",
    "format":"date-time"
@@ -67,9 +69,10 @@ Para renderizar un DatePicker, el campo debe tener la palabra clave **format** c
 
 ### TextArea
 
-Para renderizar una textArea, el campo debe tener tipo **string** en la definición del JSON Schema y la palabra clave **multiline** con valor **true** en la configuración de la app.
+To render a textArea the field must have type **string** in the JSON Schema definiton and the keyword **multiline** with value **true** in the app configuration
 
-```JavaScript
+JavaScript
+```
 // JSON Schema configuration
 "lastName":{
    "type":"string",
@@ -85,9 +88,9 @@ Para renderizar una textArea, el campo debe tener tipo **string** en la definici
 
 ### Link
 
-El LinkControl representa la referencia de una entidad de datos a otra. Para renderizar el LinkControl, el campo debe utilizar las palabras clave **link** y **linked_field**, donde el valor del enlace es el enlace al schema referenciado, y el valor de `linked_field` es el campo al que se hace referencia.
+The LinkControl represents the reference of one dataentity into another dataentity. To render the LinkControl the field must use the keywords **link** and **linked_field** where the value of link is the link to the referenced schema and the value of `linked_field` is the field that will be referenced.
 
-LinkControl permite navegar entre las tablas relacionadas. Para ello necesita especificar las propiedades **relatedApp** y **relatedTable** en la configuración del campo.
+The LinkControl lets you navigate between the related tables. For that you need to specify in the app configuration of the field the properties **relatedApp** and **relatedTable**.
 
 ```javascript
 // JSON Schema Configuration
@@ -106,9 +109,9 @@ LinkControl permite navegar entre las tablas relacionadas. Para ello necesita es
 
 ### TextBox
 
-Para renderizar un TextBox, el campo debe ser una **string** o **number** o **integer**. Todas las palabras clave del JSON Schema que se utilizan para evaluar el campo como **pattern**, **minLenght**, **maxLenght**... serán usadas por VTable para validar el valor del campo.
+To render a TextBox the field must be a **string** or **number** or **integer**. All the kewords of the JSON Schema that are used to validate the field as **pattern**, **minLenght**, **maxLenght**... will be used by VTable to validate the value of the field.
 
-Usted puede agregar una **mask** al campo en la configuración de la aplicación.
+You can add a **mask** to the field in the APP configuration.
 
 ```javascript
 // JSON Schema
@@ -128,7 +131,7 @@ Usted puede agregar una **mask** al campo en la configuración de la aplicación
 
 ### MultiOptions
 
-Para renderizar un control MultiOptions, el tipo del campo debe ser **array**, y los items deben ser del tipo **string**, debiendo haber definido el dominio, usando la palabra clave **enum**.
+To render a MultiOptions control the type of the field must be **array** and the items must be of type **string** and must have defined the domain using the **enum** keyword.
 
 ```javascript
 "nationality":{
@@ -149,7 +152,7 @@ Para renderizar un control MultiOptions, el tipo del campo debe ser **array**, y
 
 ### ArrayControl
 
-Si el tipo del campo es **array** y el schema del campo no coincide con un caso especial, VTable utilizará el ArrayControl.
+If the field type is **array** and the field schema doesn't match a special case the VTable will use de ArrayControl.
 
 ```javascript
 "list":{
@@ -177,7 +180,7 @@ Si el tipo del campo es **array** y el schema del campo no coincide con un caso 
 
 ### ObjectControl
 
-Para renderizar un ObjectControl, el tipo de campo debe ser **object**. El ObjectControl es recursivo, por lo que puede contener otro objeto como propiedad.
+To render a ObjectControl the field type must be **object**. The ObjectControl is recursive, then it can contain another object as property.
 
 ```javascript
 "complex":{
@@ -218,9 +221,9 @@ Para renderizar un ObjectControl, el tipo de campo debe ser **object**. El Objec
 }
 ```
 
-## Crear una App
+## Creating an App
 
-VTable utiliza el Master Data para almacenar la configuración de las aplicaciones a renderizar. Para crear una aplicación, necesitamos crear un JSON que contenga los datos que utiliza VTable para representar una tabla específica. Una aplicación habitual se parece al siguiente JSON.
+VTable use Master Data to store the configuration of the apps to render. To create an app we need to create a JSON that contains the data that VTable uses to render an specific table. A commom app looks like the following JSON.
 
 ```javascript
 {
@@ -267,15 +270,15 @@ VTable utiliza el Master Data para almacenar la configuración de las aplicacion
 }
 ```
 
-Usted puede utilizar este JSON como base para crear sus propias aplicaciones. Hay algunas consideraciones importantes para tener en cuenta al crear su aplicación.
+You can use this JSON as a base to create your own apps. There are some important considerations when creating your app.
 
-- El campo **entity** es la entidad de datos del Master Data y debe existir antes de crearse la aplicación.
-- El campo **model** es el schema relacionado con la entidad de datos en Master Data.
-- El campo **fields** contiene la lista de campos a renderizar. Cada campo contiene una configuración simple que define el ancho que cada campo tendrá cuando se hace en la tabla.
-- El campo **list** contiene la lista de campos que se representan en la tabla.
-- El campo **editor** contiene la configuración para representar el formulario.
+- The **entity** field is the data entity in Master Data and it must exist before creating the app.
+- The **model** field is the schema related to the data entity in Master Data
+- The **fields** field contains the list of fields to be rendered. Each field  contains a simple configuration defining the width that each field will take when rendered in the table.
+- The **list** field contains the list of fields tha will be rendered in the table.
+- The **editor** field contains the configuration for rendering the form.
 
-El siguiente JSON Schema contiene la estructura y validación de los objetos de aplicación de VTable. Usted puede validar la aplicación mediante un JSON Schema Validator como [jsonschemavalidator](https://www.jsonschemavalidator.net/).
+The following JSON Schema contains the structure and validation of the VTable app objects. You can validate the app using a JSON Schema Validator such as [jsonschemavalidator](https://www.jsonschemavalidator.net/).
 
 JavaScript
 ```
@@ -415,10 +418,10 @@ JavaScript
 }
 ```
 
-## Guardar en Master Data
+## Saving to Master Data
 
-Para guardar la aplicación en Master Data, usted debe agregar el documento a la entidad de datos Vtable. Un ejemplo de esta llamada es:
+To save the app JSON Object to Master Data, you need to add the document to the Vtable data entity. An example of that call is:
 
 `https://{{AccountName}}.vtexcommercestable.com.br/api/dataentities/vtable/documents/{{app-name}}?_schema=app`
 
-Para más informaciones, usted puede leer la [documentación de API de Master Data](https://developers.vtex.com/reference/master-data-api-v2-overview).
+For more information read the [Master Data API documentation](https://developers.vtex.com/reference/master-data-api-v2-overview).

@@ -1,5 +1,5 @@
 ---
-title: 'Configuração da estrutura para Atendimento Humano'
+title: 'Structure configuration for Live Support'
 id: SxhYiiqUJYiQX4CIWxmVE
 status: ARCHIVED
 createdAt: 2022-08-23T15:25:37.553Z
@@ -9,40 +9,41 @@ firstPublishedAt: 2022-08-23T17:47:18.082Z
 contentType: trackArticle
 productTeam: Shopping
 slugEN: configuracao-da-estrutura-para-suporte-humano
-locale: pt
+locale: en
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
-trackSlugPT: conversational-commerce
+trackSlugEN: conversational-commerce
 ---
 
-Depois da integração com WhatsApp, é necessário configurar a estrutura para o [Atendimento Humano](https://help.vtex.com/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL). Esse processo depende de plataformas parceiras, que irão disponibilizar interface de chat e fila de conversas para os atendentes, além de outras funcionalidades como métricas de acompanhamento, por exemplo.
+After the integration with WhatsApp, you need to configure the [Live Support](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) structure. This process depends on partner platforms, which will provide a chat interface and conversation queue to attendants, and other features such as tracking metrics.
 
-Há duas opções de parceiros pré-integrados com o Conversational Commerce VTEX: 
+There are two pre-integrated partner options with VTEX Conversational Commerce: 
 
-* [Zenvia](#integracao-zenvia)
-* [Zendesk](#integracao-zendesk)
+* [Zenvia](#zenvia-integration)
+* [Zendesk](#zendesk-integration)
 
->ℹ️ Converse com o time de desenvolvimento da VTEX caso deseje integrar com outras plataformas.
+>ℹ️ Get in touch with the VTEX development team if you want to integrate with other platforms.
 
-## Integração Zenvia
+## Zenvia Integration
 
-[Zenvia](https://www.zenvia.com/) é uma plataforma de atendimento integrada ao Conversational Commerce VTEX. Com ela é possível redirecionar automaticamente os clientes que desejam suporte para a equipe de atendimento. 
+[Zenvia](https://www.zenvia.com/) is an integrated service platform for VTEX Conversational Commerce. It allows you to automatically redirect customers who want support to the service team. 
 
-A Zenvia possui dois perfis de acesso para o atendimento:
+Zenvia has two access profiles for support:
 
-* **Agente**: perfil direcionado às pessoas da loja que prestarão apoio para o cliente, como vendedores, representantes de vendas, equipes de suporte ou call center.
-* **Administrador: **perfil direcionado para gestão e acompanhamento do processo de suporte. Este perfil tem acesso ao módulo de Administração da Zenvia, onde pode acessar o painel de atendimento, extrair relatórios, gerenciar atendentes, entre outros.
+* **Agent**: a profile directed to store personnel who will provide customer support, such as salespeople, sales representatives, support teams, or call center.
+* **Administrator**: a profile directed to management and follow-up of the support process. This profile has access to the Zenvia Administration Module, where you can access the dashboard, extract reports, manage attendants, and more.
 
-A Zenvia disponibiliza à VTEX o plano **Avançado** com os seguintes recursos:
+Zenvia provides VTEX with the **Advanced** plan with the following features:
 
-| **Plano   ** | **Incluso**                                                                                                             |
+| **Plan   ** | **Included**                                                                                                             |
 |:-------------:|:---------------------------------------------------------------------------------------------------------------------------:|
-| Avançado    | <ul><li>Agentes ilimitados</li><li>Dois anos de histórico</li><li>Departamentos ilimitados</li><li>Recursos avançados</li><li>Acesso a todos os canais</li></ul> |
+| Advanced    | <ul><li>Unlimited agents</li><li>Two years of history</li><li>Unlimited departments</li><li>Advanced features</li><li>Access to all channels</li></ul> |
 
-Caso a loja já possua ou opte por iniciar a operação com Zenvia, entre em contato com a equipe VTEX  para definir as seguintes etapas:
+If the store already has or chooses to start operations with Zenvia, contact the VTEX team to determine the following steps:
 
-* Número de licenças necessárias. 
-* Agendamento de treinamento para agentes.
+* Number of licenses required. 
+* Training schedule for agents.
 
-## Integração Zendesk
+## Zendesk Integration
 
-[Zendesk](https://www.zendesk.com.br/) é uma plataforma de mercado utilizada por diversos clientes e uma alternativa para o Conversational Commerce VTEX. Caso sua loja já utilize Zendesk e opte seguir com essa plataforma para suporte de Conversational  Commerce, é preciso seguir os passos descritos no artigo [Create Zendesk integration](https://developers.vtex.com/vtex-rest-api/docs/create-zendesk-integration).
+[Zendesk](https://www.zendesk.com.br/) is a market platform used by several clients and an alternative to the VTEX Conversational Commerce. If your store already uses Zendesk and you choose to continue with that platform for Conversational Commerce support, you must follow the steps outlined in the article [Create Zendesk integration](https://developers.vtex.com/vtex-rest-api/docs/create-zendesk-integration).
+

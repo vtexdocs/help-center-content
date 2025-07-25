@@ -9,9 +9,9 @@ firstPublishedAt: 2021-10-06T16:13:39.161Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slugEN: configurar-adaptador
-locale: es
+locale: en
 trackId: 132YFN170Jvs6ZUBGh8w2e
-trackSlugES: adaptador-vtex
+trackSlugEN: adaptador-vtex
 ---
 
->⚠️ Este contenido sólo está disponible en portugués.
+>⚠️ This content is only available in Portuguese.

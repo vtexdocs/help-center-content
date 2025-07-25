@@ -11,20 +11,32 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: pse-redirect-does-not-happen-when-the-user-chooses-to-pay-with-giftcard-and-pse
-locale: es
+locale: en
 kiStatus: Backlog
 internalReference: 580333
 ---
 
-## Sumario
+## Summary
 
->⚠️ Este contenido sólo está disponible en Inglês.
 
-## Simulación
+When the user chooses to pay with the Payment methods Giftcard and PSE, if the value to be paid with PSE is lower than 40000, the PSE redirect doesn't happen.
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+
+## Simulation
+
+
+
+1. Create a Gifticard on a store with PSE configured
+2. Go to checkout by  buying an item the value is lower than 40000+giftcard amount
+3. Use the Giftcard and choose to pay the remained value with PSE
+4. Close the purchase
+5. the PSE redirect will not happen
+
+
 
 ## Workaround
 
->⚠️ Este contenido sólo está disponible en Inglês.
+
+N/A
 

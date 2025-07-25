@@ -9,10 +9,10 @@ firstPublishedAt: 2020-10-20T14:23:14.172Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: centauro-marketplace
-locale: es
+locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
-trackSlugES: integracion-con-centauro
+trackSlugEN: centauro-integration
 ---
 
->⚠️ Este contenido es exclusivamente regional; 
-> por lo tanto, no se aplica a los países de habla española.
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

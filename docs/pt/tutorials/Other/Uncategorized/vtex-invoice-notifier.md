@@ -10,35 +10,34 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 3uCjaRpzeMieQWwWycYAMG
 slugEN: vtex-invoice-notifier
-locale: pt
+locale: en
 legacySlug: vtex-invoice-notifier
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 
-![invoice-flow](https://images.ctfassets.net/alneenqid6w5/1J8NLy4mw7miEPixtV20G8/80c960a20017f2058209c58681fae862/invoice-flow.svg)
+![chart EN](https://images.ctfassets.net/alneenqid6w5/3OMTqAs3Zhp1GFeBEtX8q0/4bcd68580be161fc3e98fc2877357e1a/chart.jpg_h_250)
 
-## Instalação da app - VTEX Invoice Notifier
+## App installation - VTEX Invoice Notifier
 
-Usuário deve fazer instalação da APP através da VTEX App Store - apps.vtex.com
+User should install the App from VTEX App Store - app.vtex.com
 
-*Ou fazer pela CLI do VTEX IO - vtex install vtex.invoice-notifier@0.x*
+*Or using the VTEX IO CLI - vtex install vtex.invoice-notifier@0.x*
 
-Ao realizar a instalação, uma página de configuração será exibida, nela o usuário insere o endpoint de comunicação com o sistema responsável pela emissão das notas.
+When proceeding with the installation, a setup page will appear, in which the user should insert the endpoint responsible for communication with the invoice issuing system.
 
 ![install-app](//images.ctfassets.net/alneenqid6w5/1QCqfd7Yc3lBF2BWUjPQ2g/888f9a2e18a90fa92f7b8ad32048d17d/install-app.png)
 
-## OMS notificar faturador
+## OMS notify invoice issuer
 
-Com o endpoint cadastrado na APP o OMS passa a reconhecer que está habilitado para essa loja a possibilidade de notificar um sistema externo de faturamento.
+Once the endpoint is added to the App, OMS recognizes that the store is able to notify external invoicing systems.
 
-O operador deve, no pedido, selecionar o pacote ou os itens que deseja faturar e gerar uma nova notificação:
+In the order, the operator must select the already invoiced package or items and create a new notification: 
 
 ![notify-invoicer1](//images.ctfassets.net/alneenqid6w5/1pTJ8sEgLo7cpyYcVFQKxR/7a0b066fc646d1941f3ac704023ea5f7/notify-invoicer1.png)
 
 ![notify-invoicer2](//images.ctfassets.net/alneenqid6w5/59qqed77NuvF0rrlpdABe9/1108b18f8eba54bf25c6766803578b42/notify-invoicer2.png)
 
-quando o usuário do OMS apertar o botão __Request Invoice__, a app irá realizar um request POST no endpoint cadastrado na APP com o seguinte BODY exemplo:
-
+When the OMS user clicks the __Request Invoice__ button, the app would perform a POST request to the registered App endpoint with the following BODY example:
 
 ```json
 {
@@ -48,22 +47,21 @@ quando o usuário do OMS apertar o botão __Request Invoice__, a app irá realiz
 }
 ```
 
-O faturador deve responder __200, 201, 202 ou 204__ para essa chamada, de forma que o OMS entenda que a notificação foi feita com sucesso, caso contrário, a UI irá exibir uma mensagem de falha de comunicação com o sistema faturador.
-
+The invoice issuer should respond to this call with __200, 201, 202 or 204__, in a way that enables OMS to understand if the notification was successfully processed, and in case it was not, the UI will display a communication failure message.
 
 ### CallbackUrl property
 
-A propriedade *callbackUrl* é uma __propriedade__ que especifica qual endereço deve ser utilizado para o __envio do invoice gerado__. Esse fluxo é descrito na imagem inicial do fluxo.
+The *callbackUrl* is a __property__ that specifies which address should be used to send __a created invoice__. This flow is described in the first chart of this article, above.
 
-Essa propriedade deve ser utilizada para saber qual endereço enviar o Invoice. 
+This property should be used to know which address sends the Invoice.
 
-Uma vez notificado com sucesso, a APP grava no Banco de Dados (VBASE) essa notificação.
+Once successfully notified, the APP records this notification in VBASE (databank).
 
 ![callBackProperty](//images.ctfassets.net/alneenqid6w5/POhuHliun9MO0hYgTmPvr/1df598855b888b113ef035df3502134d/callBackProperty.png)
 
-## Faturador pegar detalhes da nota
+## Invoice issuer gets invoice details
 
-Com a notificação em mãos o Faturador deve pegar os detalhes dessa Invoice (notificação)  no banco de dados (VBASE). Pois a API de comunicação passa apenas o pedido e o id da notificação.
+With the notification at hand, the invoice issuer should get this invoice's details (notification) from VBASE, since the communication API only gives the notification ID and order.
 
 __GET__
 ```
@@ -102,15 +100,15 @@ __RESPONSE__
 }
 ```
 
-- orderId == id do pedido
-- notification.id == hash que identifica essa solicitacao de picking no BD.
-- `items[0]` == array que contém o índice do item no pedido e a quantidade desse item presente nessa notificação
-- `changedItems[0]` == array de skus que foram inseridos no pedido após o fechamento do mesmo
-- observation == string que recebe uma mensagem de observaçao escrita na interface
+- orderId == Order ID
+- notification.id == hash that identifies this picking request in VBASE.
+- `items[0]` == array containing the item index and quantity present in this notification
+- `changedItems[0]` == array of SKUs inserter in the order after the order placement 
+- observation == string that receives an observation message written in the interface
 
-Além de buscar a Notificação completa, é necessário ainda pegar o pedido completo, para ter todos os detalhes de cada item e em seguida ainda buscar no catálogo qualquer detalhe fiscal, como o NCM.
+In addition to searching for the complete Notification, it's still necessary to get the full order with details for each item, and subsequently search for any fiscal detail such as NCM (Mercosul Common Customs Number) in the catalog.
 
-Existe uma API específica para pegar todas as notificações de um pedido caso o Faturador queira incluir a validação mais completa:
+There is a specific API used to get all notifications related to an order in case the invoice issuer wishes to include a more thorough validation:
 
 __GET__
 
@@ -118,9 +116,9 @@ __GET__
 {{accountName}}.myvtex.com/_v/invoice-notifier/:orderId/
 ```
 
-## Pegar dados completos do pedido
+## Get full order data
 
-Ao ser notificado de um novo pedido, e com os detalhes do invoice em mãos será necessário buscar o pedido completo, pois a notificação guarda somente o índice do item a ser faturado. Índice do array de itens presente no pedido.
+Upon being notified of a new order, having the order details at hand, you'll need to search for the full order, since the notification only saves the index of item that will be invoiced. Item array index present in the order.
 
 ### GET ORDER
 
@@ -130,15 +128,15 @@ __GET__
 http://{{accountName}}.vtexcommercestable.com.br/api/oms/pvt/orders/{{orderId}}
 ```
 
-O response dessa API contém os dados completos do pedido. Para a emissão da invoice é necessário algumas partes do objeto, como Dados do Cliente, dados de entrega, totalizadores de itens - frete - descontos, dados do item, CNPJ
+This API's response contains the complete order data. In order to issue the invoice, it's necessary that some object data, such as Client Data, Delivery Data, Items Totalizators - shipping - discounts, item data, company registration data.
 
-É recomendável o backend fazer uma validação se o pedido já contém nota, se já está faturado (é possível haver um faturamento parcial).
+The backend should check whether the order already has an invoice and whether it has been billed (it's possible that it was only partially billed).
 
-## Pegar dados NCM de cada produto
+## Getting customs data for each product
 
-A VTEX possui um campo no cadastro de produto - TaxCode - que deve receber o NCM do produto. Esse campo está presente nos detalhes do pedido e pode ser usado para o motor de parametrizações fiscais fazer o cálculo de impostos.
+VTEX has a product registration field called TaxCode, which receives a product's customs code. This field can be found in the order's details and can be used for calculating taxes using the fiscal parameter engine.
 
-Alguns lojistas não usam esse campo e passam o NCM como especificação de produto. Nesse modelo e necessário um request adicional ao catálogo para recolher esses detalhes:
+Some retailers don't use this field and set the customs code as a product specification. This model requires an additional catalog request in order to fetch these details:
 
 __GET__
 
@@ -160,23 +158,23 @@ __RESPONSE__
 ]
 ```
 
-## Identificar tipo de entrega do pedido
+## Identify the order delivery type
 
-Um pedido pode ser de dois tipos, __Delivery__ ou __Pickup-in-point__.
+An order can be one of two types: __Delivery__ or __Pickup-from-point__.
 
-Um pedido delivery possui os dados do cliente, ou seja, possui todos os dados de identificação de forma a se enquadrar no cenário de Nota Fiscal Eletrônica (para os estados que exigem NFe e SAT).
+A delivery order contains the client's data, meaning all identification data necessary for an Electronic Tax Invoice (for states requiring this or a workplace accident insurance).
 
-Pedidos de Pickup podem conter a identificação do cliente ou não. Um pedido feito no inStore pode ser feito de forma anônima, ou seja, sem identificação. Nesse caso é obrigatório a emissão de uma NFCe - Nota Fiscal do Consumidor Eletrônica (para os estados específicos).
+Pickup orders may or may not contain a client's identification. An order placed in inStore can be done so anonymously, without identifying oneself. This case warrants the issuing of an Electronic Tax Invoice (for specific states).
 
-A forma base de identificar se um pedido é Delivery ou Pickup é através do objeto __shippingData.logisticsInfo[0].deliveryChannel__
+The way to identify if an order is Delivery or Pickup is by looking at the __shippingData.logisticsInfo[0].deliveryChannel__ object.
 
 ![shipping-type](//images.ctfassets.net/alneenqid6w5/6p9yfYsHRbz4xCX9sjrGx9/cfeb4ae8afe0d47f53e49a556c51ccc6/shipping-type.png)
 
-## Inserir nota fiscal no pedido
+## Inserting the tax invoice into an order
 
-Uma vez enviado com sucesso a Nota para a SEFAZ é necessário incluir essa NOTA/CUPOM no OMS e para isso enviar para o endereço da propriedade __callbackUrl__.
+Once the invoice has been successfully sent to the tax revenue services, it must be included in OMS. This is done by sending it to the __callbackUrl__ property address.
 
-O payload enviado deve ser o seguinte:
+The sent payload must be as follows:
 
 __POST__ `{{callbackUrl}}`
 
@@ -186,10 +184,10 @@ Exemplo de callbackUrl: `https://{{account}}.myvtex.com/_v/invoice-notifier/{{or
 {
  "type":"Output",
  "issuanceDate":"2018-01-31",
- "invoiceNumber":"9999",   // número da NF
- "invoiceValue":"10000",  // valor final da NF
- "invoiceKey": null,  // chave de acesso à NF
- "invoiceUrl": null,  // link para a danfe ou cupom
+ "invoiceNumber":"9999",   // tax invoice number
+ "invoiceValue":"10000",  // final invoice value
+ "invoiceKey": null,  // invoice access key
+ "invoiceUrl": null,  // link to the simplified invoice or coupon
  "courier": null,
  "trackingNumber": null,
  "trackingUrl": null,
@@ -203,18 +201,18 @@ Exemplo de callbackUrl: `https://{{account}}.myvtex.com/_v/invoice-notifier/{{or
  }
  ```
  
-- id == id do sku (disponível no GET ORDER `items[0].id`)
-- invoiceNumber == número da Nota
-- invoiceValue == somatório do sellingPrice dos skus presentes nessa -  - nota + valor de frete rateado desses itens
-- invoiceKey == chave da Nota
+- id == SKU ID (available in GET ORDER `items[0].id`)
+- invoiceNumber == invoice number
+- invoiceValue == sum total of the sellingPrice SKUs -  - invoice + average shipping value of the items contained in the invoice
+- invoiceKey == invoice key
 
-O OMS aceita múltiplas Invoices, e o pedido atinge o status FATURADO apenas quando o total da soma de todos invoices for igual ao total do pedido.
+OMS accepts multiple invoices, with the order only reaching the INVOICED status once the sum total of all invoices is equal to the order's total value.
 
-O OMS __não__ guarda o XML da nota, apenas o link para visualização.
+OMS __doesn't__ save the invoice's XML, but merely the preview link.
 
-## Deletar notificação de invoice do BD
+## Deleting an invoice notification from the DB
 
-Após a inserção com sucesso da Nota Fiscal no pedido é necessário EXCLUIR a notificação do banco de dados VBase. Esse passo é necessário para que não ocorra o cenário de um usuário do OMS se confundir e excluir a notificação e tentar notificar novamente.
+After successfully inserting the Tax Invoice in the order, you need to delete the notification from the VBASE databank. This step is necessary to avoid a scenario in which a OMS user mistakenly deletes a notification only to try to notify once more. 
 
 __DELETE__
 
@@ -230,20 +228,21 @@ ou
 ‘VtexIdclientAutCookie'
 ```
 
-## Faturamento parcial de pedido
+## Partial order invoicing
 
-É comum o cenário de ruptura, ou seja, um ou mais itens não estarem disponíveis para entrega. Nesse cenário o operador do OMS pode faturar parcialmente um pedido.
+Inventory shortage scenarios are common, meaning scenarios in which one or more items are unavailable for delivery. In such a scenario, the OMS operator has the option to partially invoice an order.
 
-Em casos de faturamento parcial é importante atentar para o rateio do valor do Frete.
+In cases of partial invoicing, it's important to pay attention to the shipping rate allocation.
 
-O comportamento correto é seguir rateio do valor do frete referente aos itens dessa fatura parcial.
+The correct behavior is to follow the shipping rate allocation corresponding to the items within that partial invoice.
 
-No JSON do pedido, dentro de __logisticsInfo__ existe um array com a informação de frete para cada produto (cada índice de produtos).
+In the order's JSON, within the __logisticsInfo__, there is an array containing each product's shipping information (each product's index).
 
-O rateio é feito por produto, ou seja, caso exista uma quantidade X desse mesmo produto e a fatura parcial é de uma quantidade inferior a X é necessário fazer o rateio desse valor pela quantidade de itens.
+The allocation is by product, which means that if there is X amount of this product, but the partial invoice states an amount inferior to X, the rate allocation should be done for the number of items.
 
-Ex:
-Digamos que tivéssemos faturando apenas 1 unidade do produto, ao invés de todas as 3. O valor de frete desse produto (2,50) seria dividido por 3 unidades:
+Ex.:
+Let's suppose that you've only invoices 1 unit of a product, instead of the total available amount of 3. The item's shipping rate (U$ 2,50 in this example) will be divided by 3 (total number of available units):
+
 
 ```
 "logisticsInfo": [
@@ -255,7 +254,7 @@ Digamos que tivéssemos faturando apenas 1 unidade do produto, ao invés de toda
                 "listPrice": 250,
                 "sellingPrice": 250,
                 "deliveryWindow": null,
-                "deliveryCompany": "Transportadora",
+                "deliveryCompany": "Carrier",
                 "shippingEstimate": "3bd",
                 "shippingEstimateDate": "2018-11-05T12:11:36.2541081+00:00",
             },
@@ -267,26 +266,26 @@ Digamos que tivéssemos faturando apenas 1 unidade do produto, ao invés de toda
                 "listPrice": 250,
                 "sellingPrice": 250,
                 "deliveryWindow": null,
-                "deliveryCompany": "Transportadora",
+                "deliveryCompany": "Carrier",
                 "shippingEstimate": "3bd",
                 "shippingEstimateDate": "2018-11-05T12:11:36.2541081+00:00",                  
               }
         ]
 ```
 
-## Notificação de devolução
+## Return notification
 
-A notificação feita para gerar uma Nota Fiscal de devolução é do tipo output.
+The notification that creates a return tax invoice is an output type one.
 
 ```
 "type": "Output"
 ```
 
-No entanto existem dois modelos de devolução possíveis. Quando uma devolução é feita na própria loja física onde a compra original foi feita e ainda esteja em tempo hábil de efetuar o estorno pela própria máquina do cartão chamamos essa operação de cancelamento.
+There are, however, two possible return models. When a return is done in the brick-and-mortar store when the purchase was originally made, while still being within the credit card return policy able time, we call it cancellation.
 
-Em outros casos a operação de devolução pode ser feito de um pedido feito em alguma outra localidade. Nessa situação a notificação levará e consideração essa informação dentro do campo __observation__.
+Returns for orders made in other locations can also be done, but in these cases the notification will take the information contained in the __observation__ field into account.  
 
-__DEVOLUÇÃO__
+__RETURN__
 
 ```
 {
@@ -296,12 +295,12 @@ __DEVOLUÇÃO__
 Notification:
 {
     "type": "Input",
-    "observation": "inStore: { \"tradeAccount\": \"lojafarmgavea\" }",
+    "observation": "inStore: { \"tradeAccount\": \"storename\" }",
    "items": [...],
 }
 ```
 
-__CANCELAMENTO__
+__CANCELLATION__
 
 ```
 {
@@ -315,3 +314,4 @@ Notification:
    "items": [...],
 }
 ```
+

@@ -1,5 +1,5 @@
 ---
-title: 'Criar um produto (Beta)'
+title: 'Adding products (Beta)'
 id: 2nkoy6RakJEVF7ug4ZP0bP
 status: PUBLISHED
 createdAt: 2023-10-31T13:43:19.226Z
@@ -10,163 +10,183 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slugEN: criar-um-produto-beta
-locale: pt
+locale: en
 legacySlug: criar-um-produto-beta
 subcategoryId: unknown-subcategory
 ---
 
->ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso[Suporte](https://support.vtex.com/hc/pt-br/requests).
+>ℹ️ This feature is currently in beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
 
-A página **Adicionar produto (Beta)** possibilita criar e editar produtos e seus SKUs relacionados de forma completa no Admin VTEX. Para adicionar um novo produto, siga o passo a passo abaixo. 
+The **Add Product (Beta)** page allows you to create and edit[ products](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) and their corresponding [SKUs](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) in the VTEX Admin. To add a new product, follow the steps below.
 
-1. No Admin VTEX, acesse **Catálogo** > __Produtos e SKUs__ ou digite Produtos e SKUs na barra de busca no topo da página.
-2. Clique em `+ Adicionar produto`.
-3. Defina se o produto será criado como ativo na loja.
-Para que o produto seja criado como ativo na loja, você precisa selecionar a opção **Ativo** <i class="fas fa-toggle-on"></i> no canto superior direito da página.
-Caso você queira criar um produto no modo inativo, clique no botão <i class="fas fa-toggle-on"></i> e observe que a opção mudará para **Inativo**. É possível ativá-lo posteriormente pela página de edição do produto ou pela lista de produtos.
-4. Preencha as informações de cada aba. Abaixo você encontra mais informações sobre cada uma delas:
-- [Produto](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#produtos)
-- [Atributos](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#atributos)
-- [SKUs](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#skus)
-5. Selecione a opção **Ativo** <i class="fas fa-toggle-on"></i> no canto superior direito da página para ativar o SKU.
-6. Clique em `Salvar`.
+1. In the VTEX Admin, go to **Catalog > Products & SKUs**, or type **Products & SKUs** in the search bar at the top of the page.
+2. Click `+ Add Product`.
+3. Determine if the product being created will be active in the store. To create the product as active in the store, select the **Active** &lt;i class="fas fa-toggle-on">&lt;/i> option in the top right corner of the page.
+If you want to create a product as inactive, click the <i class="fas fa-toggle-on"></i> button and note that the option will change to **Inactive**. You can activate it later from the product edit page or the product list.
+4. Complete the information in each tab as detailed below.  
 
-Feito isso, o produto será ativado e estará disponível na sua loja.
+○  	[Product](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#produtos) 
 
->ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
+○  	[Attributes](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#atributos)
 
-# Produto
-Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
+○  	[SKUs](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#skus)
 
-## Informações gerais
+5. Select the **Active**&lt;i class="fas fa-toggle-on">&lt;/i> option at the top right of the page to activate the SKU.
+6. Click `Save`.
+
+After that, the product will be activated and available in your store.
+
+>ℹ️ If the product is not visible on your store after creating it, read the [Why is the product not visible on the website?](https://Why is the product not visible on the website?) article to find out how to solve this problem.
+
+## Product
+
+In this tab, complete the fields described below to create the product.
+
+### General information
 ![image9](https://images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
+- **Name:** Enter the product name. Use simple words, avoiding other languages or complex writing. This field is crucial for SEO and must respect the 150-character limit. Required field. **Example**: Ultralight Running Shoes.
+- **Substitute words:** Enter synonyms of terms related to the product name, separated by commas (`,`). This field is essential for a more comprehensive search and must respect the 8,000-character limit. **Example**: for the product `Ultralight Running Shoes`, synonyms could include `Light Running Shoes,Ultra Running Shoes`. If your store uses VTEX Intelligent Search, do not complete this field and read the[Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) article.
 
-- **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório. 
-**Exemplo**: Tênis Esportivo Ultralight.
-- **Palavras substitutas**: escreva sinônimos de termos relacionados ao nome dado para o produto, separados por vírgula (`,`). Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 8000 caracteres. **Exemplo**: para o produto Tênis Esportivo Ultralight, as palavras similares podem ser Tênis Esporte Leve,Tênis Ultra Esportivo. Caso sua loja utilize o VTEX Intelligent Search não preencha este campo, leia o artigo Sinônimos.
-- **Marca**: selecione uma marca já cadastrada na loja para relacionar ao produto. Campo obrigatório. __Exemplo__: SportXtreme.
-- **Categoria**: selecione a categoria ou subcategoria relacionada ao produto. Campo obrigatório. __Exemplo__: Calçados Esportivos.
-- **Código de referência**: escreva o código de referência único do produto para facilitar a organização da sua loja. __Exemplo__: TXU1234.
+- **Brand**: Select a brand already available in the store to associate with the product. Required field. Example: SportXtreme.
 
-## Descrição
+- **Category:** Select the category or subcategory associated with the product. Required field. **Example**: Running shoes.
 
-Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente. 
+- **Reference code:** Enter the product's unique reference code to improve your store management. **Example**: TXU1234.
 
-**Exemplo**: "O Tênis Esportivo Ultralight é a escolha perfeita para os atletas que buscam alto desempenho e conforto. Com design inovador e materiais de alta tecnologia, este tênis proporciona máxima leveza e resistência durante as atividades físicas."
+### Description
 
-O editor de texto da descrição é do tipo rich text, ou seja, você pode utilizar diversos recursos de formatação utilizando a barra de ferramentas desse campo, ilustrada abaixo.
+In this step, you must write a description with the main information about the product. The text must contain a clear and simple product description.
 
+Example: "The Ultralight Running Shoes are the perfect choice for athletes looking for high performance and comfort. Their innovative design and high-tech materials provide the utmost lightness and resistance during physical activity."
+
+The text editor for the description is a _rich text_ editor, which means you can use different formatting tools in its toolbar, as shown in the image below.
 ![image10](//images.ctfassets.net/alneenqid6w5/15nJVdLeSo0trgDc5czwl3/6796616b891c91907787537076bd12d9/image10.gif)
-Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 
-- **Estilos**: define o estilo do texto selecionado. As opções são: Normal e Título 1 até Título 6.
-- **Tamanho da fonte**: altera o tamanho da fonte do texto selecionado. Você pode optar por um valor de 10 a 36 pts.
-- **Negrito**: formata o texto selecionado em negrito.
-- **Itálico**: formata o texto selecionado em itálico.
-- **Sublinhado**: sublinha o texto selecionado.
-- **Alinhar à esquerda**: alinha o texto selecionado à esquerda.
-- **Alinhar ao centro**: centraliza o texto selecionado.
-- **Alinhar à direita**: alinha o texto selecionado à direita.
-- **Lista com marcadores**: transforma o texto selecionado em um item de uma lista não ordenada, com marcadores.
-- **Lista numerada**: transforma o texto selecionado em um item de uma lista ordenada.
-- **Adicionar link**: insere um link no texto selecionado. Ao clicar neste botão, é necessário preencher as informações abaixo e, em seguida, clicar em `Salvar`.
-- **Título do link**: escreva o texto que vai conter o link.
-- **URL**: insira o link ao qual o texto vai direcionar o usuário.
-- **Abrir em uma nova aba**: selecione esta opção se você deseja que, ao clicar no link, o usuário abra a página em uma nova aba do navegador. Não selecione se o objetivo for que o usuário acesse o link na mesma aba.
-- **Código-fonte**: exibe o código fonte da descrição em HTML. Você pode editar a descrição diretamente pelo código-fonte, se desejar. Para retornar à visão anterior, é necessário clicar novamente no botão referente ao código-fonte.
-## SEO
+See the tools available in the toolbar:
+
+- **Styles**: Define the style of the selected text. You can choose from **Normal**, and **Heading 1** to **Heading 6**.
+
+- **Font size:** Changes the font size of the selected text. You can choose from 10 to 36 pts.
+
+- **Bold:** Formats the selected text in bold.
+
+- **Italic:** Formats the selected text in italics.
+
+- **Underline:** Underlines the selected text.
+
+- **Align text left:** Aligns the selected text to the left.
+
+- **Center text:** Centers the selected text.
+
+- **Align text right:** Aligns the selected text to the right.
+
+- **Bulleted list:** Converts the selected text into an unordered list with bullets.
+
+- **Numbered list:** Converts the selected text into an ordered list item.
+
+- **Add link:** Adds a link to the selected text. After clicking this button, complete the required fields and then click `Save`.
+
+     - **Link title:** Enter the text with the link.
+     - **URL:** Enter the link to which the text will redirect the user.
+     - **Open in new tab:** Select this option if you want the user to open the page in a new tab when they click the link. Do not select it if you want the user to open the link in the same tab.
+
+- **Source code:** Displays the source code of the HTML description. You can edit the description directly from the source code if you want. To go back to the previous view, click the source button again.
+
+### SEO 
 ![image11](//images.ctfassets.net/alneenqid6w5/3JJ2gdAtrSYY4Xo8V83IUf/799e31402321a340e5978c3a2d621f7a/image11.png)
--  **URL do produto**: insira a URL pela qual será possível acessar o produto na loja. Neste campo, você não pode utilizar espaço nem caracteres especiais. Caso a URL seja composta por mais de uma palavra, você precisa separá-las com um `-`. Campo obrigatório. **Exemplo**: tenis-esportivo-ultralight.
 
-- **Título da página**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Tênis Esportivo Ultralight.
+- **Product URL:** Enter the URL to access the product page in the store. You cannot use spaces or special characters in this field. If the URL consists of more than one word, you must separate them with a hyphen (-). Required field. **Example**: ultralight-running-shoes.
 
-- **Meta descrição**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Conheça o Tênis Esportivo Ultralight da SportXtreme, perfeito para atletas que buscam leveza e desempenho máximo nas atividades esportivas.
+-  **Page title:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Ultralight Running Shoes
 
-## Operação e logística
-![image7](//images.ctfassets.net/alneenqid6w5/7u4kwyRsDBKFi1WVu5nV2q/3372b498b4d49932670575ea0b8211ab/image7.png)
+- **Meta description:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Meet the SportXtreme Ultralight Running Shoes, perfect for athletes looking for lightness and maximum performance in sports activities.
 
-- **Políticas comerciais**: selecione uma ou mais políticas comerciais a que o produto se destina, para definir a quais marketplaces o produto será disponibilizado. Caso nenhuma política comercial seja selecionada, o produto vai ser considerado para todas elas. **Exemplo**: B2C.
-- **Fornecedor**: selecione um fornecedor já cadastrado na loja para relacionar ao produto.
-- **Código fiscal**: informe o número de identificação fiscal do produto.
+### Operation and Logistics
 
-## Visibilidade
+- **Trade policies:** Select one or more[ trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) for the product to determine the marketplaces in which the product will be available. If no trade policy is selected, the product will be applied to all of them. Example: B2C.
+- **Supplier: **Select a supplier already added to the store to link to the product.
+- **Tax code:** Enter the fiscal identification number of the product.
+
+### Visibility 
 ![image4](//images.ctfassets.net/alneenqid6w5/3CygKnTtnLKzlR5Ci2nHdf/f26b3307479a762ad14f858e033a060b/image4.png)
 
-- **Mostrar no site**: ative ou desative a visibilidade do produto na sua loja. Caso o produto seja um brinde que não pode ser comprado, por exemplo, é importante desativar esta opção.
-- **Mostrar quando fora de estoque**: ative ou desative a opção de mostrar o produto na loja mesmo quando não houver quantidade em estoque. Se ativada, o produto esgotado aparece na sua loja no formato de [Avise-me](https://help.vtex.com/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) — campo em que o cliente informa seu email para ser avisado quando o produto estiver novamente disponível. Se essa opção for desativada, o produto não vai aparecer na loja quando estiver esgotado.
-- **Prioridade na ordenação de busca**: informe um valor numérico para definir a prioridade na página de resultado de busca. Para mais detalhes sobre este campo, leia [Como funciona o campo Score?](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae). Caso sua loja utilize o VTEX Intelligent Search, leia [Como o VTEX Intelligent Search funciona?](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy).
+- **Display on website:** Enable or disable the product visibility in your store. For example, if the product is a gift that cannot be purchased, you should disable this option.
 
-## Atributos
+- **Show when out of stock:** Enable or disable the option to show the product in the store even when it is out of stock. If enabled, the out-of-stock product will be displayed in your store with a [Notify me](https://help.vtex.com/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) field, in which the customer can enter their email to be notified when the product is back in stock. If this option is disabled, the product will not be displayed in the store when it is out of stock.
+- **Priority in search order:** Enter a numerical value to set the priority on the search results page. For more details on this field, read the[How does the Score field work?](https://help.vtex.com/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) article. 
 
-Dependendo da categoria do produto criado, podem aparecer campos para você preencher na aba Atributos. Esses campos são especificações que você pode adicionar aos seus SKUs para atribuir características aos produtos da sua loja.
+If your store uses VTEX Intelligent Search, read the[How does VTEX Intelligent Search work?](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy) article.
 
-Se você tiver criado algum campo de produto obrigatório, o produto só poderá ser ativado após o preenchimento desta [especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
+## Attributes
 
-Em Atributos, será exibido os [grupos de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) com as especificações cadastradas abaixo. Na imagem a seguir, o grupo de especificação é **Características** e as especificações cadastradas nele são **Vídeo** e **Veja Mais**.
+Depending on the product category you create, you may have to complete some fields in the **Attributes** tab. These fields are [specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) you can add to your SKUs to give them characteristics.
 
+If you have created any required product fields, the product will only be activated once this specification has been completed.
+
+Under **Attributes**, the [specification groups](https://help.vtex.com/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) will be displayed with the specifications you entered. In the image below, the specification group is **Characteristics**, and the specifications are **Video** and **See More**.
 ![image3](//images.ctfassets.net/alneenqid6w5/tp3ppbjPs7mbSo29DAXwI/946499d76c27c99034f37132b0c6d9fa/image3.png)
 
 ## SKUs
 
-Nesta aba, você fará o cadastro de SKUs que serão atrelados ao produto criado anteriormente. 
+In this tab, you will add the [SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) that will be linked to the product you created earlier.
 
-Para um produto disponível na sua loja, ele deve ter pelo menos um SKU ativo. É obrigatório que o SKU tenha uma imagem adicionada a ele para que ele seja ativado.
+>ℹ️ A product must have at least one active SKU to be available in your store. The SKU must have an image attached to it for it to be activated.
 
-## Especificações
+### Specifications
+This is where the previously created [specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) for the SKUs will be displayed. If you have created any required SKU fields, the SKU will only be activated once this specification has been completed.
 
-Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se você tiver criado algum campo de SKU obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação. 
-
-## Informações básicas
+### Basic Information
 ![image2](//images.ctfassets.net/alneenqid6w5/48TmuJ985SApT2gwx7IOCW/e08a3e7ece4f6872b7dff3418ad0d297/image2.png)
-- **Nome**: nome do SKU. Este nome será exibido na loja. Campo obrigatório.
-- **Código de referência**: código que será utilizado internamente pela loja para identificar o SKU. Campo obrigatório caso o SKU não tenha EAN/UPC preenchido.
-- **EAN/UPC**: campo que deve conter a informação do código de barras. Campo obrigatório caso o SKU não tenha o Código de referência preenchido.
-- **Código do fabricante**: fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.
-- **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](https://help.vtex.com/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
-- **Modal**: campo que realciona um produto não usual (carne, vidro, colchão) a uma transportadora especializada na entrega desse tipo de produto. Saiba mais no artigo Como funciona o modal.
+- **Name:** The SKU name, which will be displayed in the store. Required field.
+- **Reference code:** Code that the store will use internally to identify the SKU. Required field if the **EAN/UPC** is empty.
+- **EAN/UPC**: Field that must have the barcode information. Required field if the **Reference code** field is empty.
+- **Manufacturer code:** Provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.
+- **Commercial condition:** Used to define specific promotions or installment rules for SKUs. If there is no specific condition, use the default value. Learn more in the[Registering a commercial condition](https://help.vtex.com/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445) article. 
+- **Modal:** Field that links an unusual product (e.g., meat, glass, mattress) to a carrier specialized in delivering this product. Learn more in the[How the modal works](https://help.vtex.com/en/tutorial/como-funciona-o-modal--tutorials_125) article.
 
-## Imagens
+### Images
 
->⚠️ SKUs devem ter pelo menos uma imagem para estar ativo.
+>⚠️ SKUs must have at least one image to be active.
 
-Para adicionar uma imagem a seu SKU, siga os passos abaixo:
+To add an image to your SKU, follow the steps below:
 
-1. Clique no botão `+`.![image8](//images.ctfassets.net/alneenqid6w5/4cT5SMN8xz8S7dJYaGxVDf/11da22617b306323a5ce39d781edbb14/image8.png)
-2. Adicione o link da sua imagem no campo 🔗. Você pode adicionar mais de uma imagem ano seu SKU. Para isso, clique em + Adicionar imagem e adicione o novo link.![image6](//images.ctfassets.net/alneenqid6w5/7lEnztWcQFXIAPFdMkHIaH/96ff215f5caef65e23ecac650111ee50/image6.png)
-3. Clique em `Salvar`.
+1. Click the `+` button.![image8](//images.ctfassets.net/alneenqid6w5/4cT5SMN8xz8S7dJYaGxVDf/11da22617b306323a5ce39d781edbb14/image8.png)
+2. Add the link to your image in the 🔗 field. You can add more than one image to your SKU. To do this, click `+ Add Image` and add the new link. ![image6](//images.ctfassets.net/alneenqid6w5/7lEnztWcQFXIAPFdMkHIaH/96ff215f5caef65e23ecac650111ee50/image6.png)
+3. Click `Save`.
 
->ℹ️ A primeira imagem adicionada será a imagem principal do SKU que será exibida na loja e nos resultados de busca.
+>ℹ️ The first image added will be the main image of the SKU and will be displayed in the store and search results.
 
- Você pode editar os metadados de uma imagem clicando no botão <i class="fas fa-ellipsis-v"></i> e selecione <i class="fas fa-pencil-alt"></i> Editar metadados.
+You can edit an image's metadata by clicking the &lt;i class="fas fa-ellipsis-v">&lt;/i> button and selecting <i class="fas fa-pencil-alt"></i>` Edit Metadata`.
 
-Também é possível deletar uma imagem clicando no botão <i class="fas fa-ellipsis-v"></i> e selecione <i class="fas fa-trash-alt"></i> `Remover`. 
+You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-trash-alt"></i>`Remove`
 
-## Pesos e medidas
-- **Peso e dimensões para frete**:
- ![image1](//images.ctfassets.net/alneenqid6w5/22wJdRKOCeuO8vegdPncfH/755f8b2ea63544951edf6c52c3670a6b/image1.png)
+### Weight and Dimensions
+![image1](//images.ctfassets.net/alneenqid6w5/22wJdRKOCeuO8vegdPncfH/755f8b2ea63544951edf6c52c3670a6b/image1.png)
+#### Shipping weight and dimensions
 
-- **Peso do pacote**: peso do pacote vazio em quilos. Campo obrigatório.
-- **Largura do pacote**: largura do pacote em centímetros. Campo obrigatório.
-- **Altura do pacote**: altura do pacote em centímetros. Campo obrigatório.
-- **Comprimento do pacote**: comprimento do pacote em centímetros. Campo obrigatório.
+- **Package weight:** Weight of the empty package in kilos. Required field.
 
-## Peso e dimensões reais
+- **Package width:** Width of the package in centimeters. Required field.
 
-- **Peso real**: peso do SKU em quilos.
-- **Largura real**: largura do SKU em centímetros. 
-- **Altura real**: altura do SKU em centímetros.
-- **Comprimento real**: comprimentoaltura do SKU em centímetros.
+- **Package height:** Height of the package in centimeters. Required field.
 
- ## Sistema de medidas
+- **Package length:** Length of the package in centimeters. Required field.
 
-- **Unidade de medida**: utilizadao apenas em casos onde é necessário converter a unidade de medida para a venda. Por exemplo, se o produto é vendido em caixas, mas os clientes querem comprar por m². Nos casos comuns, utilizar “un”.
+#### Actual weight and dimensions
 
-- **Multiplicador de unidade**: unidade numérica que multiplica a quantidade selecionada do produto ao ser inserido no carrinho. Caso o multiplicador seja 5, o produto será adicionado em quantidades múltiplas de 5, ou seja 5, 10, 15, 20, e assim porem diante. 
+- **Actual weight:** Weight of the SKU in kilos.
+- **Actual width:** Width of the SKU in centimeters.
+- **Actual height:** Height of the SKU in centimeters.
+- **Actual length:** Length of the SKU in centimeters.
 
-## Configurações avançadas
+#### Unit system
+- **Unit of measure:** Used when the unit of measure needs to be converted for sales purposes. For example, if a product is sold by the box but customers want to buy it by m². Usually used as "ea." (abbreviation for each).
+
+- **Unit multiplier:** Numerical unit that multiplies the selected quantity of the product when it is added to the cart. If the multiplier is 5, the product will be added in multiple quantities of 5, such as 5, 10, 15, 20, and so on.
+
+### Advanced Settings 
 ![image5](//images.ctfassets.net/alneenqid6w5/3Rk6yBkgQ04TpuyfBOm45H/c0b79e55d74086b471ad54e1e8238e85/image5.png)
 
-- **Ativar kit**: determina se os SKUs que compõem um kit só podem ser vendidos juntos. Você pode fazer com que o SKU faça parte de um kit <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i>.
+- **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle &lt;i class="fas fa-toggle-on">&lt;/i> or not &lt;i class="fas fa-toggle-off">&lt;/i>.
 
-- **Gerar crédito em valores**: determina se o cliente receberá [crédito](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995) que o cliente recebe ao concluir uma compra de uma unidade de um determinado SKU. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> esta opção.
-
+- **Generate credit with gift card**: Determines if the customer receives [credit](https://help.vtex.com/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.

@@ -9,32 +9,33 @@ firstPublishedAt: 2022-04-18T11:49:25.270Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: tiktok-for-business
-locale: pt
+locale: en
 trackId: 1r0yJSO11nrer1YVu3WTFd
-trackSlugPT: integracao-com-o-tiktok
+trackSlugEN: tiktok-integration
 ---
 
->❗ A integração com o TikTok está disponível apenas para lojas da **América Latina**.
+>❗ The integration with TikTok is available only for stores in **Latin America**.
 
-O [TikTok](https://www.tiktok.com/pt-BR/) é uma plataforma de entretenimento para criar e compartilhar vídeos curtos que oferece ferramentas de marketing para empresas. Uma das principais ferramentas disponíveis nesse contexto é o TikTok Ads Manager, que contém recursos avançados para lançar campanhas e gerenciar publicidade no TikTok.
+[TikTok](https://www.tiktok.com/) is an entertainment platform for creating and sharing short videos that offers marketing tools for businesses. One of the key tools available in this context is TikTok Ads Manager, which contains advanced features for launching campaigns and managing advertising on TikTok.
 
-Através da integração entre a VTEX e o TikTok, você pode utilizar o TikTok como mais um canal de vendas e anúncios de produtos de forma conectada entre essas ferramentas.
+With the integration between VTEX and TikTok, you can use TikTok as another sales channel and for product advertisements in a connected way between these tools.
 
-Para que você possa configurar essa integração na sua loja, a VTEX desenvolveu o aplicativo gratuito [TikTok for Business](https://apps.vtex.com/vtexbr-tiktok-tbp/p), disponível na [VTEX App Store](https://apps.vtex.com/).
+To configure this integration in your store, VTEX has developed the free [TikTok for Business app](https://apps.vtex.com/vtexbr-tiktok-tbp/p), available on [VTEX App Store](https://apps.vtex.com/).
 
-O aplicativo inclui as funcionalidades a seguir:
+The app allows you to:
 
-* Vincular suas contas TikTok For Business e Ads Manager.
-* Sincronizar o seu catálogo de produtos com o TikTok.
-* Instalar o [Pixel do TikTok](#pixel-do-tiktok) na sua loja VTEX.
-* Gerenciar publicidade no TikTok a partir do Admin VTEX.
+* Connect TikTok for Business and TikTok Ads Manager accounts with your VTEX account.
+* Sync your product catalog with TikTok.
+* Install [TikTok Pixel](#tiktok-pixel) in your VTEX store.
+* Manage your ads on TikTok from the VTEX Admin.
 
-## Pixel do TikTok
+## TikTok Pixel
 
-O Pixel do TikTok é um código em JavaScript que você pode incluir no site da sua loja para compartilhar ações dos seus visitantes com o TikTok. Ele detecta as seguintes ações:
+TikTok Pixel is a JavaScript code you can include on your store's website to share your visitors' actions with TikTok. It tracks the following visitor actions:
 
-* Visualizar uma página da sua loja.
-* Adicionar um ou mais produtos ao carrinho.
-* Realizar uma compra.
+* View a page from your store.
+* Add one or more products to the shopping cart.
+* Make a purchase.
 
-Em lojas VTEX IO, o Pixel do TikTok é inserido automaticamente ao instalar e configurar o TikTok for Business. Em lojas CMS Legado ou Headless, é necessário configurá-lo manualmente, seguindo a [documentação do TikTok](https://ads.tiktok.com/help/article?aid=10000357) para inserir o código no Google Tag Manager. Saiba mais no guia para desenvolvedores [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp).
+In VTEX IO stores, by installing and configuring TikTok for Business, TikTok Pixel will automatically be installed. In stores using Legacy or Headless CMS, you need to configure it manually, following the [TikTok documentation](https://ads.tiktok.com/help/article?aid=10000357) to insert the code using Google Tag Manager. Learn more in the [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) developer’s guide.
+

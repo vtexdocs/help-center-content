@@ -1,5 +1,5 @@
 ---
-title: 'Reutilización de imágenes con Image Widget'
+title: 'Reusing images with Image Widget'
 id: 7pRSVI2xXpQUzjUZj0m4ov
 status: PUBLISHED
 createdAt: 2021-06-30T18:06:46.531Z
@@ -10,74 +10,74 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: image-widget
-locale: es
+locale: en
 legacySlug: image-widget
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image Widget es un repositorio modal de bloques que permite subir imágenes al [Site Editor](https://help.vtex.com/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Con este modal, puede subir, almacenar y gestionar las imágenes de su tienda y utilizarlas en diferentes páginas, como la de Inicio, Producto o Newsletter.
+Image widget is a modal repository for blocks that allow image uploads in [Site Editor](https://help.vtex.com/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). With this modal repository, you can upload, store, and manage your store’s images and use them on different pages, such as Home, Product, or Newsletter.
 
-Por ejemplo, puede añadir una nueva imagen al bloque __Carrusel__ de su tienda a través de  Image Widget.
+For instance, you may want to add a new image to your store's __Carousel__ block. You can use the Image Widget to upload the image.
 
-En la siguiente sección, aprenda a [acceso a Image Widget](#acceso-a-image-widget).
+In the following section, [Accessing Image Widget](#accessing-image-widget), learn how to use it.
 
-## Acceso a Image Widget
+## Accessing Image Widget
 
-Los bloques en Site Editor, que permiten subir una imagen, tienen el modal Image Widget, y en este artículo usaremos el bloque __Carrusel__ como ejemplo. Los pasos para acceder a Image Widget son los siguientes:
+Blocks on Site Editor, which allow you to upload an image, have the Image Widget modal. In this article, we will use the __Carousel__ block as an example.
+The steps to access the Image Widget are as follow:
 
-1. En el Admin VTEX, accede a **Storefront > Site Editor**.
-2. En la columna de la derecha, seleccione el bloque al que desea enviar una imagen.
-3. En __BANNERS__, haga clic en `AÑADIR.`
-4. En __Imagen del banner,__ haga clic en __Hacer Upload.__
+1. In the VTEX Admin, access **Storefront > Site Editor**.
+2. In the right column, select the block to which you desire to upload an image.
+3. In __BANNERS__, click on `ADD.`
+4. Click in the __Banner Image__ placeholder.
 
-Una vez completados los pasos anteriores, se abrirá en su pantalla el modal Image Widget.
+Once you have completed the previous steps, the Image Widget modal will open on your screen.
+Now that you know how to access the Image Widget, see what you can do next:
 
-Ahora que ya sabe cómo acceder a Image Widget, vea lo que puede hacer a continuación:
+- [Adding an image](#adding-an-image)
+- [Replacing an image](#replacing-an-image)
+- [Removing an image](#removing-an-image)
 
-- [Añadir una imagen](#añadir-una-imagen)
-- [Reemplazar una imagen](#reemplazar-una-imagen)
-- [Eliminar una imagen](#eliminar-una-imagen)
+### Adding an image
 
-### Añadir una imagen
-Después de [acceder a Image Widget](#acceso-a-image-widget) y con él abierto podrá añadir imágenes:
+After [accessing the Image Widget](#accessing-image-widget), you can add images to it:
 
->⚠️ Al agregar nuevas imágenes en el modal Image Widget usando un [development workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace), la configuración realizada se guardará directamente en el espacio de trabajo principal. Es decir, se reflejarán inmediatamente en el modal de tu tienda.
+>⚠️ When adding new images in the Image Widget modal using a [development workspace](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace),  the performed settings will be saved directly in the master workspace. In other words, they will immediately be reflected in your store's modal.
 <br>
->⚠️ El tamaño máximo que admite Image Widget es de 4 MB por archivo.
 
-1. Haga clic en `Añadir imagen`.
-2. Elige la imagen que quiere añadir y haga clic en `Abrir`.
-3. El modal se cierra por sí mismo. Haga clic en `APLICAR`.
+>⚠️ The maximum file size supported by Image Widget is 4 MB.
 
-Después de completar el paso anterior, la imagen estará configurada en el bloque y en su repositorio de Image Widget, y estará lista para ser utilizada en las páginas de su tienda.
+1. Click on `Add new.`
+2. Choose the image you want to add and click on `Open`.
+3. The modal closes by itself. Click on `APPLY`.
 
-Después de añadir una imagen al modal, tiene otras opciones con ella. Vea qué más puede hacer en [Funcionalidades dentro de Image Widget](#funcionalidades-dentro-de-image-widget).
+After completing the previous step, your image will be in the block and in your Image Widget repository and is ready to be used on your store pages. 
 
-#### Funcionalidades dentro de Image Widget
+Once you have added an image to the modal, see what else you can do with it in the article [Features within Image Widget](#features-within-image-widget).
 
-Dentro del modal, algunas de las funcionalidades que tiene son un campo para buscar imágenes, filtrarlas por orden y ver sus imágenes en lista o cuadrícula.
+#### Features within Image Widget
 
-Además, si [añadió imágenes](#añadir-una-imagen) en su modal, ahora puede ver, copiar la URL de una imagen, descargarla y eliminarla de su repositorio.
+Other features in the modal are searching for images, filtering them by order, and viewing your pictures in a list or grid.
 
-Con el modal abierto, haga clic en `más acciones` en la miniatura de una imagen.
+Furthermore, If you [added images](#adding-an-image) to your modal, now you can preview them, copy an image URL, download them, and delete them from your repository. 
 
-| Opciones    | descripción     |
+With the modal open, click on `more actions` in an image thumbnail.
+
+| Options    | Description    |
 | ---------- | ---------- |
-| __Avance__ |Abre una nueva página para obtener una vista previa de la imagen.  |
-| __Copiar URL__| Le permite copiar la URL de la imagen y utilizarla en otras partes de su tienda. |
-| __Descargar__      | Descargue la imagen en su computador. |
-| __Eliminar__      | Remueve la imagen del repositorio.      |
+| __Preview__ | Opens a new page to show a preview of the picture.|
+| __Copy URL__| Allows you to copy the image’s URL and use it in other sections of your store.|
+| __Download__ | Downloads the image to your computer.|
+| __Delete__   | Removes the image from the repository.|
 
-### Reemplazar una imagen
-En el bloque en el que desea sustituir una imagen:
+### Replacing an image
+Go to the block in which you want to replace a picture and:
+1. Click on `More actions` in an image thumbnail, and select __replace.__
+2. Click on `More Actions` again and select __Replace.__
+3. With the modal open, click on an image to replace.
+4. Click `APPLY`.
 
-1. Haga clic en `Más acciones" en la miniatura de una imagen y seleccione __Editar__.
-2. Haga clic en `Más acciones` nuevamente y seleccione __Reemplazar.__
-3. Con el modal abierto, haga clic en una imagen para reemplazarla.
-4. Haga clic en `APLICAR.`
+### Removing an image
+To remove a picture in the desired block, click on `More actions` in an image thumbnail and select __remove__. After this, the image will no longer be visible in the block.
 
-### Eliminar una imagen
-Para eliminar una imagen del bloque deseado, haga clic en `Más acciones` en la miniatura de la imagen y seleccione __Eliminar.__ Después de este procedimiento, la imagen ya no será visible en el bloque.
-
->⚠️ Cuando se remueve una imagen, no significa que se excluya del repositorio. Para ello, consulte la sección [Funcionalidades dentro de Image Widget](#funcionalidades-dentro-de-image-widget).
-
+>⚠️ When you remove an image, it does not mean it was deleted from the repository. To do that, check the section [Features within Image Widget](#features-within-image-widget).

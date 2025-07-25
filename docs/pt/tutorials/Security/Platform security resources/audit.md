@@ -10,119 +10,119 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: audit
-locale: pt
-legacySlug: como-encontrar-eventos-no-audit
+locale: en
+legacySlug: searching-for-events-on-audit
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Para aumentar a transparência e a confiança entre os usuários administrativos da sua loja, a VTEX registra diversas operações, seus autores e os horários em que elas ocorreram no **Audit**, um módulo utilizado para pesquisar e investigar este histórico com o auxílio de filtros.
+To increase transparency and trust among your store admin users, VTEX records different operations, their authors and timestamps in **Audit**, a module used to query and investigate this history through filters.
 
-Para acessar a página do Audit no Admin VTEX, acesse **Apps > Apps instalados > Audit**, ou digite **Audit** na barra de busca. Nessa página, é possível realizar as seguintes ações:
+To access the Audit page in the VTEX Admin, go to **Apps > Installed Apps > Audit**, or type **Audit** in the search bar. On this page, you can do the following:
 
-* [Buscar eventos no Audit](#buscar-eventos-no-audit)
-* [Verificar últimas buscas realizadas no Audit](#verificar-ultimas-buscas-realizadas-no-audit)
+* [Query events in Audit](#querying-events-in-audit)
+* [View the last queries in Audit](#viewing-the-last-queries-in-audit)
 
->ℹ️ Para visualizar os eventos do Audit, é necessário ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) associado ao [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
+>ℹ️ To view Audit events, you must have a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-![audit-ui-pt 1](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/42032a1aa1700f58ffaf92b1e00ecfd2/audit-ui-pt_1.png)
+![audit-ui-en (1)](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/9e040c47cb3220175bf368155f438813/audit-ui-en__1_.png)
 
-## Buscar eventos no Audit
+## Querying events in Audit
 
-O Audit possibilita realizar buscas por eventos a partir de filtros relacionados às informações a seguir: aplicação, data, ação, autor e detalhes do evento. A seguir, explicamos como utilizar os [filtros](#filtros) do Audit e como os [resultados](#resultados) são apresentados. Também demonstramos o uso de filtros com [exemplos](#exemplos-de-buscas) práticos.
+Audit allows you to query events using filters related to the following information: application, date, action, author, and event details. Below, we explain how to use Audit [filters](#filters) and how the [results](#results) are displayed. We also use practical [examples](#query-examples) to demonstrate the use of filters.
 
-### Filtros
+### Filters
 
-Confira o passo a passo para buscar por um evento utilizando os filtros disponíveis no Audit:
+Follow the instructions to search for an event using the filters available in Audit:
 
-1. No Admin VTEX, acesse **Apps > Apps instalados > Audit**, ou digite _Audit_ na barra de busca. Você será conduzido(a) para a aba **Eventos de auditoria** do Audit.
-2. Em **Filtros**, no menu **Aplicação**, selecione a aplicação relacionada à busca.
-3. No menu **Data**, escolha uma data pré-definida para a busca. Se preferir definir o exato intervalo de datas para a busca, ative a opção **Personalizada** e determine as datas de **Início** e **Fim** para a busca.
+1. In the VTEX Admin, go to **Apps > Installed Apps > Audit**, or type _Audit_ in the search bar. You will be redirected to the **Audit Events** tab.
+2. In the **Application** menu under **Filters**, select the application related to the query.
+3. In the **Date** menu, choose a predefined date for the query. If you prefer to set the exact date range for the query, select the **Custom** option and choose the **Start** and **End** dates for the query.
 
-   >ℹ️ Apenas registros dos últimos três meses são armazenados.
+   >ℹ️ Only records from the last 3 months are stored.
 
-4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
-5. Se necessário, você pode adicionar filtros mais específicos para realizar a busca por eventos com mais precisão. Para isso, clique no botão `Adicionar Filtro`.
-6. Selecione o parâmetro de filtragem (_Autor_ ou _Detalhe do evento_) e informe a qual valor o parâmetro deve ser comparado. Você pode inserir mais de um valor teclando `Enter` após cada seleção.
+4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
+5. Select the filter parameter (_Author_ or _Event Details_) and enter the value to which the parameter should be compared.
 
-    Ao adicionar filtros com o mesmo parâmetro (exemplo: um filtro definindo que a ação deve ser `Change Promotion Configuration` ou `Change Coupon Configuration`), os resultados incluem eventos que se igualam a qualquer um dos valores inseridos. Ao adicionar filtros com parâmetros distintos (exemplo: `Ação = Change Coupon Configuration `e `Autor = email@email.com`), os critérios são somados. É possível repetir os passos 4 e 5 para adicionar mais filtros.
+    When adding filters with the same parameter (for example: `Action = Change Promotion Configuration` or `Change Coupon Configuration`), the results include events that match any of the values entered. When adding filters with different parameters (for example: `Action = Change Coupon Configuration` and `Author = email@mail.com`), the criteria are combined. Note that you can repeat steps 4 and 5 to add more filters.
 
-    Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Change Promotion Configuration_ ou _Change Coupon Configuration_ e cujo autor é `email@email.com`.
+    For example, the query in the image below returns results for `Change Promotion Configuration` or `Change Coupon Configuration` actions whose author is `email@mail.com`.
 
-    ![filtros-pt](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
+    ![filtros-en (1)](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/266db3f0a88fe7e35268d8e2410c0052/filtros-en__1_.png)
 
-7. Clique no botão `Aplicar` para obter os eventos que foram encontrados.
+7. Click the `Apply` button to obtain the events found.
 
-    Confira [Resultados](#resultados) para entender como os eventos são apresentados.
+    Check the [Results](#results) section to see how the events are displayed.
 
->⚠️ Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que você não digitou espaços desnecessários nos termos da busca.
+>⚠️ The query results correspond exactly to the content entered in the filter field. To avoid unexpected results, make sure you haven't typed extra spaces in the query terms.
 
-Se desejar, você pode compartilhar uma busca com outro usuário. Para isso, clique em `Compartilhar busca`, no canto superior direito da página. O link para a busca no Audit será copiado para a sua área de transferência.
+If you wish, you can share a query with another user. To do this, click `Share Query` in the top right-hand corner of the page. The link to the Audit search will be copied to your clipboard.
 
-### Resultados
+### Results
 
-A seção **Resultados** lista cada evento encontrado na busca e exibe as informações de cada evento, apresentadas na tabela a seguir.
+The **Results** section lists all events found in the query and displays information about each event, as shown in the table below.
 
-| Coluna | Descrição |
+| Column | Description |
 |---|---|
-| __Copiar__ | Botão para copiar as informações do evento exibidas na tabela para a área de transferência. |
-| __Hora do evento__ | Data e horário em que o evento ocorreu, no fuso horário do navegador ou do sistema operacional. |
-| __Ação__ | Ação realizada na aplicação selecionada para a busca. Confira as ações possíveis na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Detalhe do evento__ | Informações complementares sobre o evento. Confira os detalhes exibidos para cada evento na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Autor__ | Email, ID ou token do usuário que realizou o evento. |
-| __Mais detalhes__ | Botão que abre um modal com mais informações sobre o evento, quando aplicável. Os detalhes exibidos podem incluir: <ul><li class="t-body mb5 lh-copy"><strong>Nome da entidade:</strong> ID da entidade modificada.</li><li class="t-body mb5 lh-copy"><strong>Entidade antes da ação:</strong> dados da entidade antes do evento, em formato <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a>.</li><li class="t-body mb5 lh-copy"><strong>Entidade após a ação:</strong> dados da entidade após o evento, em formato <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a>.</li></ul>A depender do evento, nem todas as informações citadas acima são exibidas. Por exemplo, um evento de exclusão de uma informação mostra apenas a entidade antes da ação. Por outro lado, um evento de criação de uma informação apresenta apenas a entidade após a ação. <br /><br /> Alguns eventos não apresentam nenhuma informação complementar. Nesses casos, o modal aparece vazio. |
+| __Copy__ | Button to copy the event information displayed in the table to the clipboard. |
+| __Event Time__ | Date and time of the event, displayed in the browser or operating system timezone. |
+| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Author__ | Email, ID, or token of the user who performed the event. |
+| __More Details__ | Button that opens a modal with more information about the event, when applicable. The details displayed may include: <ul><li class="t-body mb5 lh-copy"><strong>Entity name:</strong> The ID of the entity that was changed.</li><li class="t-body mb5 lh-copy"><strong>Entity before action:</strong> dInformation about the entity before the event, in <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a> format.</li><li class="t-body mb5 lh-copy"><strong>Entity after action:</strong> Information about the entity after the event, in <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a> format.</li></ul>Depending on the event, not all the information above is displayed. For example, an event that deleted information only displays the entity before the action. In contrast, an event that added information only displays the entity after the action. <br /><br /> Some events have no additional information. In such cases, the modal is left blank. |
 
-### Exemplos de buscas
+### Query examples
 
-A seguir, listamos alguns cenários de busca comuns para ilustrar como os filtros devem ser compostos dependendo do que se deseja buscar.
+Below, we've listed some common query scenarios to illustrate how filters should be arranged depending on what you want to query.
 
-#### Ativação de produto
+#### Product activation
 
-Para buscar se um produto foi ativado no Catálogo em determinada data:
+To query if a product was activated in the Catalog on a given date:
 
-1. Selecione a data desejada.
-2. No menu **Aplicação**, selecione _Catálogo (Admin)_.
-3. Adicione um filtro cuja **Ação** deve ser `Product Activation`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser `product id "X" activated`, onde `X` precisa ser substituído pelo ID do produto buscado.
+1. Select the desired date.
+2. In the **Application** menu, select _Catalog (Admin)_.
+3. Add a filter whose **Action** must be `Product Activation`.
+4. Add a filter whose **Event Details** must be equal to `activated product ID "X"`, where `X` must be replaced by the ID of the product queried.
 
-#### Alteração de preço
+#### Price change
 
-Para buscar se o preço de um SKU foi alterado em determinada data:
+To query whether the price of an SKU changed on a given date:
 
-1. Selecione a data desejada.
-2. No menu **Aplicação**, selecione _Preços_.
-3. Adicione um filtro cuja **Ação** deve ser `Put Price`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser o ID do SKU do item procurado.
+1. Select the desired date.
+2. In the **Application** menu, select _Prices_.
+3. Add a filter whose **Action** must be `Put Price`.
+4. Add a filter whose **Event Details** must be the SKU ID of the item queried.
 
-#### Exclusão de estoque
+#### Warehouse deletion
 
-Para buscar se um estoque foi deletado em determinada data:
+To query whether a warehouse was deleted on a given date:
 
-1. Selecione a data desejada.
-2. No menu **Aplicação**, selecione _Estoque & Entrega_.
-3. Adicione um filtro cuja **Ação** deve ser `Warehouse Delete`.
-4. Adicione um filtro cujo **Detalhe do evento **deve ser o ID do item procurado.
+1. Select the desired date.
+2. In the **Application** menu, select _Inventory & Shipping_.
+3. Add a filter whose **Action** must be `Warehouse Delete`.
+4. Add a filter whose **Event Details** must be the ID of the item queried.
 
-#### Exclusão de transportadora
+#### Carrier deletion
 
-Para buscar se uma transportadora foi deletada em determinada data:
+To query whether a carrier was deleted on a given date:
 
-5. Selecione a data desejada.
-6. No menu **Aplicação**, selecione _Estoque & Entrega_.
-7. Adicione um filtro cuja **Ação** deve ser `Carrier Delete`.
-8. Adicione um filtro cujo **Detalhe do evento** deve ser o ID da transportadora buscada.
+1. Select the desired date.
+2. In the **Application** menu, select _Inventory & Shipping_.
+3. Add a filter whose **Action** must be `Carrier Delete`.
+4. Add a filter whose **Event Details** must be the ID of the carrier queried.
 
-## Verificar últimas buscas realizadas no Audit
+## Viewing the last queries in Audit
 
-Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que você deseja refazer.
+Every query made in Audit is saved in the **Last queries** tab. To redo a query in this tab, click the  button corresponding to the query you want to redo.
 
-Confira a seguir as informações disponíveis nesta aba:
+See below the information available in this tab:
 
-| Coluna | Descrição |
+| Column | Description |
 |---|---|
-| Buscado em | Data e horário em que a busca foi realizada no Audit. |
-| Aplicação | Aplicação da VTEX em que os eventos foram buscados. |
-| Termos buscados | Filtros utilizados na busca. |
-| Período buscado | Data de início e fim do período selecionado para a busca. |
-| Refazer busca | Botão que permite repetir a busca. |
+| Queried on | Date and time the query was made in Audit. |
+| Application | VTEX application in which the events were queried. |
+| Terms | Filters applied to the query. |
+| Period | Start and end date of the period selected for the query. |
+| Redo Query | Button to redo the query. |
 
->⚠️ Apenas 50 buscas ficam gravadas na aba **Últimas buscas**. Se quiser salvar uma busca além desse limite, adicione-a aos favoritos do seu browser.
+>⚠️ The **Last queries** tab only saves up to 50 queries. If you want to save a query beyond this limit, add it to your browser favorites.

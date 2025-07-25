@@ -1,5 +1,5 @@
 ---
-title: 'Customizar a toolbar de Televendas'
+title: 'Customizing the Call center toolbar'
 id: 1XEz1zqO3KyIuwC4asUsOg
 status: PUBLISHED
 createdAt: 2017-10-06T15:54:18.649Z
@@ -10,48 +10,48 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slugEN: customizar-a-toolbar-de-televendas
-locale: pt
+locale: en
 legacySlug: customizar-a-toolbar-de-televendas
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ Não é recomendável alterar a altura do elemento da toolbar. Caso sua loja tenha um header ou outro elemento fixo no topo da tela, ele deve receber a propriedade `top` com a altura necessária para compensar presença da toolbar de televendas.
+>⚠️ It is not recommended changing the height of the toolbar element. If your store has a fixed header on top of the screen, it should receive the `top` css property with the necessary height not to overlap with the callcenter toolbar.
 
-A nova toolbar de televendas pode ser customizada com os estilos da sua loja ou com javascript. Para sobrescrever os estilos originais da toolbar, faça a customização em um arquivo **.css **ou **.js** e carregue-o no template da página.
+The new callcenter toolbar can be customized with the styles of your store or using JavaScript. To overwrite the original styles of the toolbar, do the customization in a **.css** or **.js** file and load it into the page template.
 
-Para customizar os estilos da toolbar, use as seguintes classes:
-
-```
-.cc-toolbar //Elemento mais externo da toolbar  
-.cc-user //Seção com email do usuário (operador)  
-.cc-customer //Seção com email do cliente personificado  
-.cc-btn-login //Botão de login para personificar cliente  
-.cc-impersonate //Pop-up com form para input do email do cliente  
-.cc-btn-change //Botão de login para trocar de cliente personificado  
-```
-
-Para interagir com a barra via javascript, use os IDs abaixo como hooks para acessar seus diferentes elementos no DOM:
+To customize the toolbar styles, use the following classes:
 
 ```
-#vtex-callcenter //Elemento mais externo da toolbar  
-#vtex-callcenter__user-email //Elemento do email de usuário (operador)  
-#vtex-callcenter__customer-email //Elemento do email do cliente  
-#vtex-callcenter__customer-email-input //Elemento de input do email do cliente  
-#vtex-callcenter__customer-login-submit //Elemento de submit do input do email do cliente  
+.cc-toolbar //Most external element of the toolbar
+.cc-user //Section with user email (operator)  
+.cc-customer //Section with the personified customer's email
+.cc-btn-login //Login button to personify customer
+.cc-impersonate //Pop-up with input form for customer email
+.cc-btn-change //Login button to change personified customer
+```
+
+To interact with the bar via JavaScript, use the following IDs as hooks to access its different elements in the DOM:
+
+```
+#vtex-callcenter //Most external element of the toolbar
+#vtex-callcenter__user-email //Element with the user's email (operator)  
+#vtex-callcenter__customer-email //Customer's email element
+#vtex-callcenter__customer-email-input //Customer email input element
+#vtex-callcenter__customer-login-submit //Customer email submit element
 ``` 
 
-Você também pode interagir com a barra usando métodos de Javascript públicos:
+You can also interact with the toolbar using its public Javascript methods:
 
 ```
-//Login do impersonar cliente
+// Impersonate customer login
 window.cc.impersonate(customer_email)
 ```
-(Onde `customer_email` é uma string com o email do cliente)
+
+(Where `customer_email` is a string with the client's email address)
 
 
 ```
-//Logout do impersonar cliente
+// Impersonate customer logout
 window.cc.customerLogout()
 ```
-(Retorna `true` se fez logout, retorna `false` se não havia cliente impersonado)
-
+(Returns `true` if you logout, returns `false` if there was no impersonated customer)

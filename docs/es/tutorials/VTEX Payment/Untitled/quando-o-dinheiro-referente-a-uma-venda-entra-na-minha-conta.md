@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: quando-o-dinheiro-referente-a-uma-venda-entra-na-minha-conta
-locale: es
+locale: en
 legacySlug: quando-o-dinheiro-referente-a-uma-venda-entra-na-minha-conta
 subcategoryId: 7DxGppMM2tOzQN4LFVo2Lg
 ---

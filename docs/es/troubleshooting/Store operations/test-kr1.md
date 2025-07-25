@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slugEN: test-kr1
-locale: es
+locale: en
 legacySlug: test-kr1
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 ---

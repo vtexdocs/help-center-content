@@ -10,60 +10,60 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: banners
-locale: pt
+locale: en
 legacySlug: banners
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
 ---
 
-Banners é a funcionalidade do Intelligent Search responsável por exibir banners, como ações promocionais, na página de resultado de busca do cliente. A exibição do banner é baseada na análise do contexto de busca - incluindo termos e filtros selecionados - na jornada de compra do cliente. Também é possível configurar banners para cada uma das categorias existentes no seu catálogo, assim como para os departamentos e subcategorias.
+Banners is the Intelligent Search feature that displays banners, like promotional activities, on the search results page of the customer. The banner display is based on an analysis of the search context, including selected terms and filters, in the buyer’s journey. Banners can also be configured for each existing category in your catalog, as well as for departments and subcategories.
 
-Com perfis diferentes, cada grupo de clientes da sua loja tem o seu próprio interesse. E as suas campanhas de marketing precisam levar isso em consideração para que sejam efetivas e consigam aumentar as taxas de conversão em vendas. A flexibilidade de configuração dos banners permite a criação de campanhas de marketing mais criativas, trabalhando o relacionamento da sua marca com o público de maneira individualizada.
+Each customer group in your store, having its own profile, has its own interest. Your marketing campaigns need to take this into account in order to be effective and increase the sales conversion rate. The flexible settings of banners allow you to create marketing campaigns that are more creative, working your brand’s relationship with the public on an individual level.
 
-Vale ressaltar que essas configurações podem ser feitas tanto pelos termos quanto pelos filtros utilizados durante a busca. O cliente pesquisa por "tênis de corrida" e, ao cair no resultado de busca, ele pode filtrar por diversos atributos (“tamanho”, “tipo” e “marca”). Ao selecionar o filtro “nike”, caso tenha um banner da marca na loja, ele pode ser exibido para o cliente (filtro). 
+It is worth noting that these settings can be configured by terms as well as by filters used during the search. If a customer searches for “running shoes,” they can filter by different attributes (“size,” “type,” and “brand”) in the search results. When the “nike” filter is selected, if there is a banner of that brand in the store, it can be displayed to the customer (filter).
 
-A partir da captura de contexto realizada pelo Intelligent Search, o sistema seleciona qual o conteúdo, previamente cadastrado, mais relevante para aquele cenário. 
+Based upon the context captured by Intelligent Search, the system chooses the content, previously added, that is most relevant in that situation.
 
-Por exemplo, se o cliente pesquisa por "tênis de corrida" e, ao cair no resultado de busca, ele pode filtrar por diversos atributos (“tamanho”, “tipo” e “marca”). Ao selecionar o filtro “nike”, caso tenha uma campanha da marca na loja, ela pode ser exibida para o cliente (filtro). O cliente também pode ser direcionado para uma promoção mais específica de tênis de corrida Nike (termo e filtro), caso tenha criado uma campanha e a relacionado com o banner.
+For example, consider that the customer searches for "running shoes", and in the search results they can filter by several attributes ("size", "type" and "brand"). When selecting the “nike” filter, in case there is a campaign of this brand in the store, it can be displayed to the customer (filter). The customer can also be directed to a more specific promotion of Nike running shoes (term and filter), if you've created a campaign and linked it to the banner.
 
-## Listagem de Banners
+## Banners listing page
 
-No Admin VTEX, a página **Storefront** > **Banners** exibe a listagem dos banners cadastrados e permite que você realize as seguintes ações:
+On VTEX Admin, the page **Storefront** > **Banners** shows the full list of registered banners and allows you to perform the following actions:
 
-* [Criar um banner](#criar-banner)
-* [Buscar por banners](#buscar-banner)
-* [Editar um banner](#editar-banner)
-* [Deletar um banner](#deletar-banner) 
+* [Create a banner](#creating-a-banner)
+* [Search for banners](#searching-a-banner)
+* [Edit a banner](#editing-a-banner)
+* [Delete a banner](#deleting-a-banner) 
 
-![banners-intro-pt](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/76b18f06e75a40e33c5a84882a247ac2/image.png)
+![banners-intro-en](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
 
-A página apresenta as seguintes informações: 
+The page shows the following information:
 
-| Coluna | Descrição                |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nome             | Nome que identifica o banner, definido na etapa [Criar banner](#criar-banner). |
-| Posição          | Área que o banner aparecerá na página de resultado de busca.                                                                                                                 |
-| Data de início   | Data que define o início da disponibilidade do banner.                                                                                                                       |
-| Data de término  | Data que define o término da disponibilidade do banner.                                                                                                                      |
-| Ativo            | Opção que ativa ou desativa um banner.                                                                                                                                       |
-| Ações            | Ação de deletar ou editar um banner.                                                                                                                                         |
+| Column     | Description                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name       | Name that identifies the banner, defined when [Creating a banner](#creating-a-banner). |
+| Position   | Position of the banner on the search results page.                                                                                                                              |
+| Start Date | Date when the banner will start being available.                                                                                                                                |
+| End Date   | Date when the banner will stop being available.                                                                                                                                 |
+| Active     | Option that activates or deactivates the banner.                                                                                                                                |
+| Actions    | Ability to delete or edit the banner.                                                                                                                                           |
 
-### Criar banner
+## Creating a banner
 
-Para configurar um banner, clique em `Novo`. Saiba mais sobre todas as informações necessárias para criar um Banner em [Configurar Banners](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+To add a new banner, click `New`. Learn more about all the information needed to create a Banner in [Configure Banners](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
 
-### Buscar banner
+## Searching for banners
 
-Para pesquisar um banner, digite o nome do banner na barra de busca.
+To search for a banner, enter the name of the banner in the search bar.
 
-### Editar banner
+## Editing a banner
 
-Você pode editar as informações um banner seguindo os passos abaixo.
+You can edit the banner details by following the steps below.
 
-1. Clique no botão de lápis <i class="fa-solid fa-pencil"></i>.
-2. Altere a informação desejada do banner.
-3. Clique em `Salvar`.
+1. Click the pencil <i class="fas-solid fa-pencil"></i> button.
+2. Change the desired banner details.
+3. Click `Save`.
 
-### Deletar banner
+## Deleting a banner
 
-Você pode deletar um banner clicando no botão de lixeira <i class="fa-solid fa-trash-can"></i>.
+You can delete a banner by clicking the trash <i class="fas-solid fa-trash-can"></i> button.
 

@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: portadores-vtex-tracking
-locale: es
+locale: en
 legacySlug: portadores-vtex-tracking
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
->⚠️ Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.
+>⚠️ The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.

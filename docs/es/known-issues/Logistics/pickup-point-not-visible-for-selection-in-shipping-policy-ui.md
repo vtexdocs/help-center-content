@@ -11,19 +11,19 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slugEN: pickup-point-not-visible-for-selection-in-shipping-policy-ui
-locale: es
+locale: en
 kiStatus: No Fix
 internalReference: 449813
 ---
 
-## Sumario
+## Summary
 
 
 When trying to select a pickup point in a shipping policy configuration, a few options might not be shown in the UI. This occurs when there are more than 999 pickup points registered, as the system has a lock to demonstrate only 999 results.
 
 
 
-## Simulación
+## Simulation
 
 
 Consider an account with more than 999 pickup points configured.

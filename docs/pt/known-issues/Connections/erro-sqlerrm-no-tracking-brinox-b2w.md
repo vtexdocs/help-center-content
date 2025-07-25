@@ -11,18 +11,16 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slugEN: erro-sqlerrm-no-tracking-brinox-b2w
-locale: pt
+locale: en
 kiStatus: Backlog
 internalReference: 643287
 ---
 
-## Sumário
-
->ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
+## Summary
 
 
 
-## Simulação
+## Simulation
 
 
 
