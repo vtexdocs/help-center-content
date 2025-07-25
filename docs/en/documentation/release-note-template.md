@@ -40,8 +40,6 @@ Release notes must have the following tags at their beginning:
 | `removed` | `x` | A feature, functionality, or component has been eliminated. |
 | `improved` | `^` | Enhancements or optimizations made to existing features or products. |
 
-<br>
-
 <details>
 <summary><b>Release Note template</b></summary>
 
@@ -65,7 +63,5 @@ To learn more <about the feature/module/product>, see <the article>.
 ```
 
 </details>
-
-<br>
 
 > See release note examples in the [Developer Portal](https://developers.vtex.com/updates/release-notes).

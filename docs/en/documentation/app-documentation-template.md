@@ -35,8 +35,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Learning objective</b></summary>
 
@@ -47,8 +45,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 | Clearly state what users should learn. | Leave learning goals ambiguous. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Title</b></summary>
@@ -61,8 +57,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Introduction</b></summary>
 
@@ -73,8 +67,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 | <ol><li>Summarize the app's purpose and user benefits.</li><li>Include an image and callouts for important notes.</li></ol>| Focus solely on technical details. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Before you begin (optional)</b></summary>
@@ -87,8 +79,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Installation</b></summary>
 
@@ -96,11 +86,9 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 | **✅ Do** | **❌ Don’t** |
 | :--- | :--- |
-| <ol><li>Provide clear and concise steps.<br></li>Enhance clarity with code snippets.<li></li></ol> | Skip steps or lack specific instructions. |
+| <ul><li>Provide clear and concise steps.</li><li>Enhance clarity with code snippets.</li></ul> | Skip steps or lack specific instructions. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Configuration</b></summary>
@@ -109,11 +97,9 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 | **✅ Do** | **❌ Don’t** |
 | :--- | :--- |
-| List all essential settings with detailed steps as defined in the <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema">settingsSchema</a>. | Omit configuration details. |
+| List all essential settings with detailed steps as defined in the [settingsSchema](https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema). | Omit configuration details. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>How it works</b></summary>
@@ -126,8 +112,6 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Customization</b></summary>
 
@@ -135,11 +119,9 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 | **✅ Do** | **❌ Don’t** |
 | :--- | :--- |
-| <ol><li>Include <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization">CSS handles</a> and a related table if applicable.</li><li>Reference external documentation for CSS customization.</li></ol> | Ignore customization options. |
+| <ul><li>Include [CSS handles](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization) and a related table if applicable.</li><li>Reference external documentation for CSS customization.</li></ul> | Ignore customization options. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Contributors</b></summary>
@@ -148,24 +130,20 @@ In this guide, you’ll learn about the available template, general guidelines, 
 
 | **✅ Do** | **❌ Don’t** |
 | :--- | :--- |
-| Follow the <a href="https://github.com/all-contributors/all-contributors">All-Contributors specification</a>. | Omit recognition of contributors. |
+| Follow the [All-Contributors specification](https://github.com/all-contributors/all-contributors). | Omit recognition of contributors. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Callouts</b></summary>
 
 **Description:** (Optional) Acknowledge contributors.
 
-| **✅ Do** | **❌ Don’t** |
+| ✅ Do | ❌ Don’t |
 | :--- | :--- |
-| Highlight information using callouts. | Use the provided callout types (Information, Warning, Danger) with appropriate messages. | Use generic text to highlight information. |
+| Highlight information using callouts. | <ul><li>Use the provided callout types (Information, Warning, Danger) with appropriate messages.</li><li>Use generic text to highlight information.</li></ul> |
 
 </details>
-
-<br>
 
 ## App documentation template
 
@@ -173,31 +151,31 @@ In this guide, you’ll learn about the available template, general guidelines, 
 <summary><b>App documentation template</b></summary>
 
 ```md
-# {Insert the app name}
+# `{Insert the app name}`
 
-`\{insert app name\}` `\{app's purpose starting with a verb\}` so you can `\{job to be done\}`.
+`{insert app name}` `{app's purpose starting with a verb}` so you can `{job to be done}`.
 
 ![insert-an-image-preview](/)
 
 ## Before you begin
 
-You need to have `\{insert what the user needs to have: an account in another platform, CLI, knowledge about another app, etc.\}`.
+You need to have `{insert what the user needs to have: an account in another platform, CLI, knowledge about another app, etc.}`.
 
-If you don't have `\{insert what the user needs to have and how to get it\}`.
+If you don't have `{insert what the user needs to have and how to get it}`.
 
 ## Installation
 
-1. [Install](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app) the `\{insert app name\}` app in the desired VTEX account by running `vtex install \{appVendor\}.\{appName\}` in your terminal.
+1. [Install](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app) the `{insert app name}` app in the desired VTEX account by running `vtex install {appVendor}.{appName}` in your terminal.
 2. (Optional, for frontend apps) Open the store Store Theme app directory in your code editor.
-3. (Optional, for frontend apps) Open the app `manifest.json file` and add the `\{insert app name\}` app under the `peerDependencies` field.
+3. (Optional, for frontend apps) Open the app `manifest.json file` and add the `{insert app name}` app under the `peerDependencies` field.
 
 
       "peerDependencies": {
-          "vtex.{appName}": "{appVersion}"
+          "vtex.`{appName}`": "`{appVersion}`"
       }
       
 
-4. (Optional, for frontend apps) Declare the `\{insert app name\}` app in the desired template. For example:
+4. (Optional, for frontend apps) Declare the `{insert app name}` app in the desired template. For example:
 
       "store.home": {
           "blocks": [
@@ -209,7 +187,7 @@ If you don't have `\{insert what the user needs to have and how to get it\}`.
 
 ## Configuration
 
-Once you have installed the app, you can `\{describe the app's configuration in the VTEX Admin as defined in the settingsSchema[https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema], for example\}`.
+Once you have installed the app, you can `{describe the app's configuration in the VTEX Admin as defined in the settingsSchema[https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema], for example}`.
 
 1. `First step`.
 2. `Second step`.
@@ -229,13 +207,13 @@ To apply CSS customizations to this and other blocks, follow the instructions in
 
 Use this section for [Admin apps](https://learn.vtex.com/docs/course-admin-lang-en) when the app requires user interaction beyond the Admin configuration.
 
-`\{Detail what can be done with the app and provide the steps to perform each operation.}\`
+`{Detail what can be done with the app and provide the steps to perform each operation.}`
 
 ## Contributors
 
 Thanks go to these wonderful people:
 
-- `\{insert the GitHub username\}`
+- `{insert the GitHub username}`
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome.
 ```

@@ -50,18 +50,12 @@ Keywords: [Words that help identify the article content in a search. Example: Un
 
 To identify the meaning and determine the specific correction for each error message, see the table below:
 
-Error type or message
-Meaning
-Required action
-`{Add the error message}` or
-
-Add the error type
-[Describe the meaning of the message or the cause of the error type. Example: Order not found on VTEX (item removed from the catalog or incorrect information).]
-[Guide the user with clear instructions. Example: provide a summary of the steps, mention another article, or recommend contacting support for further assistance.]
+| Error type or message | Meaning | Required action |
+| :--- | :--- | :--- |
+| `{Add the error message}` or `Add the error type` | [Describe the meaning of the message or the cause of the error type. Example: Order not found on VTEX (item removed from the catalog or incorrect information).] | [Guide the user with clear instructions. Example: provide a summary of the steps, mention another article, or recommend contacting support for further assistance.] |
 ```
 
 </details>
-
 <details>
 <summary><b>Template 2 - General articles</b></summary>
 
@@ -98,7 +92,6 @@ To solve this problem, there are several solutions you can consider:
 ```
 
 </details>
-
 <details>
 <summary><b>Template 3 - General articles: More than one step in the solution</b></summary>
 

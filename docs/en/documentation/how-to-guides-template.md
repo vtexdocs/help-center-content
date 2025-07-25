@@ -33,8 +33,6 @@ While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Scope</b></summary>
 
@@ -43,8 +41,6 @@ While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-
 | Covers a series of steps or concepts, often related to learning a new skill. | Narrow in scope, typically covering one task or process divided into steps. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Content</b></summary>
@@ -55,8 +51,6 @@ While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Audience</b></summary>
 
@@ -66,11 +60,9 @@ While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-
 
 </details>
 
-<br>
-
 ## Writing a how-to guide
 
-| **Topic** | **Tutorial** |
+| **Topic** | **Description** |
 | --------- | ------------ |
 | **Title** | Directly states the guide's goal and uses a verb in the gerund form. Consider your target audience and the specific action you want them to take. For example: `Setting up your development environment` |
 | **Before you begin** (optional)  | Lists all necessary prerequisites the user must have or complete before following the steps in the guide, including: <ol><li>Tools and software requirements: Specifies the minimum system requirements, such as operating system versions, specific software installations, and hardware configurations.</li><li>Account creation or setup: If the user needs to create an account or set up specific configurations, it provides clear instructions or links to relevant resources.</li><li>Basic knowledge or skills: If the guide assumes a certain level of familiarity with specific concepts or tools, it briefly outlines those prerequisites or provides links to additional learning resources.</li></ol> |
@@ -80,7 +72,7 @@ While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-
 ## How-to guide template
 
 <details>
-<summary><b>Announcement template</b></summary>
+<summary><b>How-to guide template</b></summary>
 
 ```md
 # Title

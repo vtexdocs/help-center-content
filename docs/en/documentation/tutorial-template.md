@@ -33,8 +33,6 @@ While both tutorial and [how-to guide](https://contentguide.vtex.com/docs/docume
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Scope</b></summary>
 
@@ -43,8 +41,6 @@ While both tutorial and [how-to guide](https://contentguide.vtex.com/docs/docume
 | Covers a series of steps or concepts, often related to learning a new skill. | Narrow in scope, typically covering one task or process divided into steps. |
 
 </details>
-
-<br>
 
 <details>
 <summary><b>Content</b></summary>
@@ -55,8 +51,6 @@ While both tutorial and [how-to guide](https://contentguide.vtex.com/docs/docume
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Audience</b></summary>
 
@@ -66,11 +60,9 @@ While both tutorial and [how-to guide](https://contentguide.vtex.com/docs/docume
 
 </details>
 
-<br>
-
 ## Writing a tutorial
 
-| **Topic** | **Tutorial** |
+| **Topic** | **Description** |
 | --------- | ------------ |
 | **Title** | Directly states the tutorial's goal with a verb in the gerund form. Consider your target audience and the specific action you want them to complete. For example: `Managing users in B2B organizations` |
 | **Before you begin** (optional)  | Lists all necessary prerequisites the user must meet or complete before following the steps in the guide, including: <ol><li>Tools and software requirements: Specify the minimum system requirements, such as operating system versions, specific software installations, and hardware configurations.</li><li>Account creation or setup: If the user needs to create an account or set up specific configurations, it provides clear instructions or links to relevant resources.</li><li>Basic knowledge or skills: If the guide assumes a certain level of familiarity with specific concepts or tools, it briefly outlines those prerequisites or provides links to additional learning resources.</li></ol> |
@@ -122,9 +114,6 @@ linkTitle="See more"
 ```
 
 </details>
-
-<br>
-
 <details>
 <summary><b>Template 2</b></summary>
 

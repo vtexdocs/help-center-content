@@ -64,26 +64,20 @@ To help you define the documentation context, see the checklist below:
 
 #### Audience
 
-<ol> 
-  <li><input type="checkbox" id="beginner" name="audience" value="Beginner" /> Beginner</li>
-  <li><input type="checkbox" id="operational" name="audience" value="Operational" /> Operational</li>
-  <li><input type="checkbox" id="developer" name="audience" value="Developer" /> Highly Technical</li>
-</ol>
+- [ ] Beginner
+- [ ] Operational
+- [ ] Highly Technical
 
 #### Learning Category
 
-<ol>
-  <li><input type="checkbox" /> Awareness - The audience can describe or paraphrase a concept or feature.</li>
-  <li><input type="checkbox" /> Comprehension - The audience can understand a concept to support decision-making.</li>
-  <li><input type="checkbox" /> Applicable Skill - The audience can follow instructions to complete a task.</li>
-</ol>
+- [ ] Awareness - The audience can describe or paraphrase a concept or feature.
+- [ ] Comprehension - The audience can understand a concept to support decision-making.
+- [ ] Applicable Skill - The audience can follow instructions to complete a task.
 
 #### Learning Objective
 
-<ol>
-  <li>Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?</li>
-  <li>Template example: <i>"Create a guide on <bold>add the guide’s purpose</bold>. The guide should emphasize clarity, structure, and user-friendliness. It's intended for <bold>add the guide’s audience</bold>."</i></li>
-</ol>
+1.  Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?
+2.  Template example: *"Create a guide on **add the guide’s purpose**. The guide should emphasize clarity, structure, and user-friendliness. It's intended for **add the guide’s audience**."*
 
 ## Documentation guidelines principles
 
@@ -91,7 +85,7 @@ This guideline is the VTEX interpretation of stylistics as a discipline and expl
 
 | Principle                   | Orientation  | Usage  |
 | :-------------------------- | :----------- | :----- |
-| **Clarity and conciseness** | 1. Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps. <br> 2. Use clear and informative headings and subheadings to guide readers through the documentation.| 1. Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.* <br> 2. Use headings like *Getting started*, *Instructions*, and *Advanced features*.   |
+| **Clarity and conciseness** | <ol><li>Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps.</li><li>Use clear and informative headings and subheadings to guide readers through the documentation.</li></ol>| <ol><li>Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.*</li><li>Use headings like *Getting started*, *Instructions*, and *Advanced features*.</li></ol>   |
 | **Consistency**             | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
 | **Completeness**            | Make sure the documentation is both comprehensive and concise, covering all relevant topics with enough detail. | If you’re documenting a feature, include information on how to use it, common use cases, and potential troubleshooting steps. |
 | **Usability**               | Consider the user's perspective and write the documentation in a way that is easy to navigate and use. | Use clear headings, subheadings, and bullet points to organize the content. |
