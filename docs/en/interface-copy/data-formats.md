@@ -152,7 +152,7 @@ For time remaining, use 00d 00h 00m 00s. Include as many units of time as needed
 | ---- | ---- |
 | 2h 30m | 150 minutes |
 
-For elapsed time, use x {time word} *ago*, such as created date and last modified.
+For elapsed time, use x `time word` *ago*, such as created date and last modified.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
