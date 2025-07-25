@@ -22,15 +22,13 @@ Use sentence case but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Give feedback | Give Feedback |
-| Help Center | Help center |
+| <ul><li>Give feedback</li><li>Help Center</li></ul> | <ul><li>Give Feedback</li><li>Help center</li></ul> |
 
 Don't use punctuation, such as question marks or periods.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Page not found | Page not found. |
-| Delete user | Delete user? |
+| <ul><li>Page not found</li><li>Delete user</li></ul> | <ul><li>Page not found.</li><li>Delete user?</li></ul> |
 
 Avoid using articles.
 
@@ -48,22 +46,19 @@ Keep it as short as possible while still being descriptive enough.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Inventory | Inventory management |
-| Campaigns | Store promotional campaigns |
+| <ul><li>Inventory</li><li>Campaigns</li></ul> | <ul><li>Inventory management</li><li>Store promotional campaigns</li></ul> |
 
 Avoid redundancy, such as by omitting context present elsewhere.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Page title: <br> Products | • Page title: <br> Permissions |
-| • Titles inside page: <br> Products <br> Categories | • Titles inside page: <br> Product permissions <br> Category permissions |
+| <ul><li><p>Page title:</p><p>Products</p></li><li><p>Titles inside page:</p><p>Products</p><p>Categories</p></li></ul> | <ul><li><p>Page title:</p><p>Permissions</p></li><li><p>Titles inside page:</p><p>Product permissions</p><p>Category permissions</p></li></ul> |
 
 Don't use a marketing tone of voice.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Search | VTEX Intelligent Search |
-| New product | Quickly create a product |
+| <ul><li>Search</li><li>New product</li></ul> | <ul><li>VTEX Intelligent Search</li><li>Quickly create a product</li></ul> |
 
 ## Specific
 
@@ -73,21 +68,19 @@ Reuse the same page title whenever possible, such as in the URL, title meta tag,
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| • Page title: Orders <br> • Title meta tag: Orders <br> • URL: /orders <br> • Navigation entry: Orders | • Page title: Orders <br> • Title meta tag: Orders listing <br> • URL: /all-orders <br> • Navigation entry: Store orders |
+| <ul><li>Page title: Orders</li><li>Title meta tag: Orders</li><li>URL: /orders</li><li>Navigation entry: Orders</li></ul> | <ul><li>Page title: Orders</li><li>Title meta tag: Orders listing</li><li>URL: /all-orders</li><li>Navigation entry: Store orders</li></ul> |
 
 In a form page, when an item is being edited, use the name of the item as the page title. When a new item is being created, use the word `New` followed by the item type.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Christmas discount | Promotion |
-| New promotion | Untitled promotion |
+| <ul><li>Christmas discount</li><li>New promotion</li></ul> | <ul><li>Promotion</li><li>Untitled promotion</li></ul> |
 
 In a listing page, use the type of item being listed as the page title. Include only nouns in the plural form and avoid adding an unnecessary prefix or suffix.
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Product | All products |
-| Orders | Orders listing |
+| <ul><li>Product</li><li>Orders</li></ul> | <ul><li>All products</li><li>Orders listing</li></ul> |
 
 ### Modal
 
@@ -95,5 +88,4 @@ In a modal with a form or actions, use an action label as the title. If the moda
 
 | Do ✅ | Don't ❌ |
 | --------- | ------------ |
-| Delete shipping policy | Shipping policy |
-| Create release | Create |
+| <ul><li>Delete shipping policy</li><li>Create release</li></ul> | <ul><li>Shipping policy</li><li>Create</li></ul> |

@@ -22,8 +22,7 @@ Include a description only when additional information is actually necessary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :-------- |
-| Label: Category | Label: Category <br> Description: Complete the category |
-| Label: Phone | Label: Phone <br> Description: Example: +1-576-158-4127 |
+| <ul><li>Label: Category</li><li>Label: Phone</li></ul> | <ul><li><p>Label: Category</p><p>Description: Complete the category</p></li><li><p>Label: Phone</p><p>Description: Example: +1-576-158-4127</p></li></ul> |
 
 Keep it as short as possible while still being descriptive enough.
 
@@ -35,9 +34,7 @@ Use sentence case, but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Schedule for updates | Schedule for Updates |
-| Seller identifier in the marketplace | Seller identifier in the Marketplace |
-| Performance analysis of all VTEX Shipping Network carriers | Performance analysis of all VTEX shipping network carriers |
+| <ul><li>Schedule for updates</li><li>Seller identifier in the marketplace</li><li>Performance analysis of all VTEX Shipping Network carriers</li></ul> | <ul><li>Schedule for Updates</li><li>Seller identifier in the Marketplace</li><li>Performance analysis of all VTEX shipping network carriers</li></ul> |
 
 Avoid punctuation such as commas, and don't use periods or question marks.
 
@@ -49,7 +46,7 @@ Don't include redundant words.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Label: Frequency <br> Description: Schedule for updates | • Label: Frequency <br> Description: Frequency for updates |
+| <ul><li>Label: Frequency</li><li>Description: Schedule for updates</li></ul> | <ul><li>Label: Frequency</li><li>Description: Frequency for updates</li></ul> |
 
 Don't use a marketing tone of voice or explain benefits.
 
@@ -63,25 +60,16 @@ When explaining a label, write as if completing the sentence "This is the…". S
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Label: Seller ID <br> Description: Seller identifier in the marketplace  | • Label: Seller ID <br> Description: This is the seller identifier in the marketplace |
-| Label: Frequency <br> Description: Schedule for updates | Label: Frequency <br> Description: Frequency is the schedule for updates |
-| Label: Privacy policy <br> Description: Declaration of the parties that manage customer data | Label: Privacy policy <br> Description: Fill a declaration of which parties manage customer data |
-| Label: Publish date <br> Description: Day in which the changes made will appear in the store | Label: Publish date <br> Description: When should the changes appear in the store? |
+| <ul><li><p>Label: Seller ID</p><p>Description: Seller identifier in the marketplace</p></li><li><p>Label: Frequency</p><p>Description: Schedule for updates</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of the parties that manage customer data</p></li><li><p>Label: Publish date</p><p>Description: Day in which the changes made will appear in the store</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: This is the seller identifier in the marketplace</p></li><li><p>Label: Frequency</p><p>Description: Frequency is the schedule for updates</p></li><li><p>Label: Privacy policy</p><p>Description: Fill a declaration of which parties manage customer data</p></li><li><p>Label: Publish date</p><p>Description: When should the changes appear in the store?</p></li></ul> |
 
 When explaining how information given in a form field will be used, write as if completing the sentence "When you enter a value in this field, it…" and start with a verb in the simple present tense.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Label: Seller ID <br> Description: Appears to customers in the store | • Label: Seller ID <br> Description: When you fill a value in this field, it appears to customers in the store |
-| • Label: Frequency <br> Description: Defines when updates will be published | • Label: Frequency <br> Description: Frequency defines when updates will be published |
-| • Label: Privacy policy <br> Description: Appears to customers in the store | • Label: Privacy policy <br> Description: This appears to customers in the store |
-| • Label: Publish date <br> Description: Considers the time zone where the store is located | • Label: Publish date <br> Description: Consider the time zone where the store is located |
+| <ul><li><p>Label: Seller ID</p><p>Description: Appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Defines when updates will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Appears to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Considers the time zone where the store is located</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: When you fill a value in this field, it appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Frequency defines when updates will be published</p></li><li><p>Label: Privacy policy</p><p>Description: This appears to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Consider the time zone where the store is located</p></li></ul> |
 
 When explaining both the label of a form field and how its value will be used, combine the two sentences described in the previous topics and adapt them if necessary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Label: Seller ID <br> Description: Seller identifier in the marketplace that appears to customers in the store | • Label: Seller ID <br> Description: Fill the seller identifier in the marketplace that will appear to customers in the store |
-| • Label: Frequency <br> Description: Schedule for updates that defines when they will be published | • Label: Frequency <br> Description: Frequency is the schedule for updates that defines when they will be published |
-| • Label: Privacy policy <br> Description: Declaration of which parties manage customer data that will appear to customers in the store | • Label: Frequency <br> Description: Frequency is the schedule for updates that defines when they will be published |
-| • Label: Publish date <br> Description: Day in which the changes made will be published considering the time zone where the store is located | • Label: Publish date <br> Description: When should the changes made be published, considering the time zone where the store is located? |
+| <ul><li><p>Label: Seller ID</p><p>Description: Seller identifier in the marketplace that appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Schedule for updates that defines when they will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of which parties manage customer data that will appear to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Day in which the changes made will be published considering the time zone where the store is located</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: Fill the seller identifier in the marketplace that will appear to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Frequency is the schedule for updates that defines when they will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of which parties manage customer data that will appear to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: When should the changes made be published, considering the time zone where the store is located?</p></li></ul> |

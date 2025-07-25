@@ -22,10 +22,7 @@ Keep it as short as possible while still being descriptive enough. Also, remembe
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Provider couldn't be saved due to a technical issue | We faced an unexpected issue while attempting to save the provider. There might be several reasons for this, such as server downtime or network errors |
-| Check this option | Check this |
-|  Select at least one option | Select at least one |
-| Products couldn't be imported because the CSV file is invalid | Something went wrong |
+| <ul><li>Provider couldn't be saved due to a technical issue</li><li>Check this option</li><li>Select at least one option</li><li>Products couldn't be imported because the CSV file is invalid</li></ul> | <ul><li>We faced an unexpected issue while attempting to save the provider. There might be several reasons for this, such as server downtime or network errors</li><li>Check this</li><li>Select at least one</li><li>Something went wrong</li></ul> |
 
 Don't use technical language.
 
@@ -37,29 +34,19 @@ Reuse messages (or their structure) whenever possible.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Collection exported successfully | The collection was successfully exported. |
-| Provider couldn't be saved due to a technical issue | A technical issue prevented the provider from being saved |
-|  Enter this information | This field is required |
-| Check this option | This option needs to be checked |
-| Select at least one option | At least one option needs to be selected |
+| <ul><li>Collection exported successfully</li><li>Provider couldn't be saved due to a technical issue</li><li>Enter this information</li><li>Check this option</li><li>Select at least one option</li></ul> | <ul><li>The collection was successfully exported.</li><li>A technical issue prevented the provider from being saved</li><li>This field is required</li><li>This option needs to be checked</li><li>At least one option needs to be selected</li></ul> |
 
 Don't use personal pronouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Account created successfully | Your account was successfully created |
-| Double-check the password | You entered the wrong password. |
+| <ul><li>Account created successfully</li><li>Double-check the password</li></ul> | <ul><li>Your account was successfully created</li><li>You entered the wrong password.</li></ul> |
 
 Use an objective and neutral tone.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Invoice couldn't be sent due to a technical issue | Oops, something went wrong, and the invoice could not be sent |
-| Products couldn't be imported because the CSV file is invalid | Please upload a valid CSV file |
-|  Account created successfully | Account successfully created! |
-| Log in to your Admin | Hello. Log in to your Admin |
-| Double-check the password | Unfortunately, the password is incorrect |
-| Enter this information | Please enter this information |
+| <ul><li>Invoice couldn't be sent due to a technical issue</li><li>Products couldn't be imported because the CSV file is invalid</li><li>Account created successfully</li><li>Log in to your Admin</li><li>Double-check the password</li><li>Enter this information</li></ul> | <ul><li>Oops, something went wrong, and the invoice could not be sent</li><li>Please upload a valid CSV file</li><li>Account successfully created!</li><li>Hello. Log in to your Admin</li><li>Unfortunately, the password is incorrect</li><li>Please enter this information</li></ul> |
 
 Use common contractions.
 
@@ -71,18 +58,13 @@ Use punctuation only when a larger message is extremely necessary.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| The store is being edited live. Changes will have immediate effect. | The store is being edited live and changes will have immediate effect. |
-| File couldn't be processed because its size is larger than 10MB | Sorry, your file is too large. To avoid errors, try files under 10 MB. |
-| Collection deleted successfully | Collection deleted successfully! |
-| Double-check the password | The password is incorrect, please try again. |
-| Upload an image up to 5 MB | This file is too large, please upload an image with 5MB at most. |
+| <ul><li>The store is being edited live. Changes will have immediate effect.</li><li>File couldn't be processed because its size is larger than 10MB</li><li>Collection deleted successfully</li><li>Double-check the password</li><li>Upload an image up to 5 MB</li></ul> | <ul><li>The store is being edited live and changes will have immediate effect.</li><li>Sorry, your file is too large. To avoid errors, try files under 10 MB.</li><li>Collection deleted successfully!</li><li>The password is incorrect, please try again.</li><li>This file is too large, please upload an image with 5MB at most.</li></ul> |
 
 Use sentence case, but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Collection exported successfully | Collection Exported Successfully |
-| Notifying Intelligent Search indexer | Notifying intelligent search indexer |
+| <ul><li>Collection exported successfully</li><li>Notifying Intelligent Search indexer</li></ul> | <ul><li>Collection Exported Successfully</li><li>Notifying intelligent search indexer</li></ul> |
 
 ## Specific
 
@@ -90,9 +72,7 @@ For the error texts in a form field, start with an imperative verb.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Complete this field | This field is required |
-| Check this option | This option needs to be checked |
-| Select at least one option | At least one option needs to be selected |
+| <ul><li>Complete this field</li><li>Check this option</li><li>Select at least one option</li></ul> | <ul><li>This field is required</li><li>This option needs to be checked</li><li>At least one option needs to be selected</li></ul> |
 
 In modals that confirm actions, personal pronouns, and question marks can be used.
 
@@ -104,5 +84,4 @@ For consistency, place the adverb “successfully” at the end of the phrase.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Order placed successfully | Your order was successfully placed |
-| Collection exported successfully. | The collection was successfully exported |
+| <ul><li>Order placed successfully</li><li>Collection exported successfully.</li></ul> | <ul><li>Your order was successfully placed</li><li>The collection was successfully exported</li></ul> |

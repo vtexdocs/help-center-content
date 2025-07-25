@@ -22,7 +22,7 @@ For country names, follow [https://countrycode.org/](https://countrycode.org/).
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • US <br> • United States | • USA <br> • United States of America |
+| <ul><li>US</li><li>United States</li></ul> | <ul><li>USA</li><li>United States of America</li></ul> |
 
 ### Addresses
 
@@ -40,13 +40,13 @@ Follow the guidelines of the [United States Postal Service](https://faq.usps.com
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 931 Monroe Dr NE, Atlanta, GA 30308 <br> • 670 Lafayette Ave,  Brooklyn, NY 11216 <br> • 670 Lafayette Ave,  Brooklyn, NY 11216  | • Monroe Dr NE 931,  Atlanta, GA 30308 <br> • 670 Lafayette Ave,  Brooklyn, New York, 11216 <br> • 670 Lafayette Ave,  Brooklyn, NY 11216-1031 |
+| <ul><li>931 Monroe Dr NE, Atlanta, GA 30308</li><li>670 Lafayette Ave, Brooklyn, NY 11216</li></ul> | <ul><li>Monroe Dr NE 931, Atlanta, GA 30308</li><li>670 Lafayette Ave, Brooklyn, New York, 11216</li><li>670 Lafayette Ave, Brooklyn, NY 11216-1031</li></ul> |
 
 When indicating an approximate location, you can use either the postal code in five-digit format, the city, or both. If both the city and the postal code are used, use a comma to separate them.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 11216 <br> • Brooklyn, 11216 <br> • Atlanta | • 11216-1031 <br> • Brooklyn, NY 11216 <br> • Monroe Dr  |
+| <ul><li>11216</li><li>Brooklyn, 11216</li><li>Atlanta</li></ul> | <ul><li>11216-1031</li><li>Brooklyn, NY 11216</li><li>Monroe Dr</li></ul> |
 
 ### Locales
 
@@ -54,7 +54,7 @@ Use a two-letter lowercase language subtag and a two-letter uppercase country su
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • en-US <br> • en-GB | • En-US <br> • EN |
+| <ul><li>en-US</li><li>en-GB</li></ul> | <ul><li>En-US</li><li>EN</li></ul> |
 
 ### Numbers
 
@@ -62,43 +62,43 @@ Use comma as the thousand separator and period as the decimal separator.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 1,230 <br> • 9.5 | • 1.230 <br> • 9,5 |
+| <ul><li>1,230</li><li>9.5</li></ul> | <ul><li>1.230</li><li>9,5</li></ul> |
 
 When talking about empty values, such as null, 0, or empty.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • No products to show <br> • \- <br> • Total budget spend <br> • \- <br> • \- | • 0 products to show <br> • \- <br> • Total budget spend <br> • None <br> • 0%  |
+| <ul><li>No products to show</li><li>-</li><li>Total budget spend</li><li>-</li><li>-</li></ul> | <ul><li>0 products to show</li><li>-</li><li>Total budget spend</li><li>None</li><li>0%</li></ul> |
 
 When referring to installments, use only the number. Don’t use x as an abbreviation of the word *installment.*
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Pay in 3 | • Pay in 3x |
+| Pay in 3 | Pay in 3x |
 
 Big numbers should use comma (,) as the thousand separator.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 37,809,009 | • 37809009 |
+| 37,809,009 | 37809009 |
 
 Use large number abbreviations when space is a constraint.
 
 | Examples |
 | ---- |
-| • 60 thousand \= 60K <br> • 60 million \= 60M <br> • 60 billion \= 60B <br> • 60 trillion \= 60T |
+| <ul><li>60 thousand = 60K</li><li>60 million = 60M</li><li>60 billion = 60B</li><li>60 trillion = 60T</li></ul> |
 
 Use the following format of US phone numbers in local contexts (xxx) xxx-xxx and \+1 (xxx) xxx-xxxx for international context.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • (843) 575-9211 <br> • \+1 (511) 475-1731 | • 843.575.9211 <br> • 1-511-475-1731 |
+| <ul><li>(843) 575-9211</li><li>+1 (511) 475-1731</li></ul> | <ul><li>843.575.9211</li><li>1-511-475-1731</li></ul> |
 
 For percentages, write the number and the symbol together, and either use no decimal places or use two.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 85% <br> • 85.31% | • 85 % <br> • 85.315 % |
+| <ul><li>85%</li><li>85.31%</li></ul> | <ul><li>85 %</li><li>85.315 %</li></ul> |
 
 ### Currency
 
@@ -106,19 +106,19 @@ Use the country code when prioritizing clarity, and use the currency symbol in c
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 20,000 USD <br> • $20,000  | • $20KUSD <br> • $20,000USD <br> • USD$20,000 |
+| <ul><li>20,000 USD</li><li>$20,000</li></ul> | <ul><li>$20KUSD</li><li>$20,000USD</li><li>USD$20,000</li></ul> |
 
 Do not add space between the symbol and value.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • $50 USD | • $ 50 USD |
+| $50 USD | $ 50 USD |
 
 Use a period as a decimal separator in currency values. Don't use separators for decimals, not even for long decimal numbers.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • $0.006653 | • $0,006653 |
+| $0.006653 | $0,006653 |
 
 ### Date and time
 
@@ -126,37 +126,37 @@ The US date format is Month Day, Year of Day of the week, Month Day, Year. Use c
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • January 1, 2020  <br> • April 15, 2025 <br> • Friday, December 21, 2029 | • January 1rst, <br> • 2020 April 15 25 <br> • Friday, 21/12/29 |
+| <ul><li>January 1, 2020</li><li>April 15, 2025</li><li>Friday, December 21, 2029</li></ul> | <ul><li>January 1rst,</li><li>2020 April 15 25</li><li>Friday, 21/12/29</li></ul> |
 
 Use MM/DD/YYYY in forms and ranges.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • The feature was deprecated on May 13, 2020. | • The feature was deprecated on May 13  2020. |
+| The feature was deprecated on May 13, 2020. | The feature was deprecated on May 13 2020. |
 
 Use 12-hour clock abbreviations in uppercase with no period.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • The promotions starts at 10:00 PM | • The promotion starts at 10 p.m. |
+| The promotions starts at 10:00 PM | The promotion starts at 10 p.m. |
 
 When an event or action actually happens based on a specific local time, include the city and UTC zone. 
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 10:30 AM São Paulo (GMT-3) | • 10:30 a.m São Paulo (GMT-3) |
+| 10:30 AM São Paulo (GMT-3) | 10:30 a.m São Paulo (GMT-3) |
 
 For time remaining, use 00d 00h 00m 00s. Include as many units of time as needed.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 2h 30m | • 150 minutes |
+| 2h 30m | 150 minutes |
 
 For elapsed time, use x {time word} *ago*, such as created date and last modified.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 2 days ago | • 2d |
+| 2 days ago | 2d |
 
 ### Units of measurement
 
@@ -164,37 +164,37 @@ Add a space between the number and the unit.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 1.9 lb <br> • 25 cm <br> • 7 kg | • 1.9lb <br> • 25cm <br> • 7kg |
+| <ul><li>1.9 lb</li><li>25 cm</li><li>7 kg</li></ul> | <ul><li>1.9lb</li><li>25cm</li><li>7kg</li></ul> |
 
 Put the plus or minus sign before the amount and the currency symbol with no space.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • \+$45.00 USD <br> • \-$6.99 USD | • \+ 45.00 USD <br> • \- $6.99 USD |
+| <ul><li>+$45.00 USD</li><li>-$6.99 USD</li></ul> | <ul><li>+ 45.00 USD</li><li>- $6.99 USD</li></ul> |
 
 Never use plural in unit of measurement abbreviations.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 7 lb <br> • 60 ml <br> • 1 kg | • 7 lbs <br> • 60 mls <br> • 7 kgs |
+| <ul><li>7 lb</li><li>60 ml</li><li>1 kg</li></ul> | <ul><li>7 lbs</li><li>60 mls</li><li>7 kgs</li></ul> |
 
 For pricing by measurement, never add a space before or after a slash.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • $50/m | • $50 / m <br> • $20/ m |
+| $50/m | <ul><li>$50 / m</li><li>$20/ m</li></ul> |
 
 Always use numerals and units when writing quantities.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 5 in <br> • 15 m | • five inches <br> • fifteen meters |
+| <ul><li>5 in</li><li>15 m</li></ul> | <ul><li>five inches</li><li>fifteen meters</li></ul> |
 
 Always use miles as the measure for distance.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 10 mi <br> • 0.55 mi | • 10 km <br> • 0.55 km |
+| <ul><li>10 mi</li><li>0.55 mi</li></ul> | <ul><li>10 km</li><li>0.55 km</li></ul> |
 
 ### Ranges
 
@@ -202,7 +202,7 @@ Always use en dash between ranges.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • 1 – 30 search results <br> • 1kg – 4kg | • 1 \- 30 search results <br> • 1kg \- 4kg |
+| <ul><li>1 – 30 search results</li><li>1kg – 4kg</li></ul> | <ul><li>1 - 30 search results</li><li>1kg - 4kg</li></ul> |
 
 ### Documentation
 
@@ -210,10 +210,10 @@ When writing time, include the city and GMT zone.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • Maintenance is scheduled for Monday, April 14, 2025 at 10:30 a.m. São Paulo (GMT-3). | • Maintenance is scheduled for Monday, April 14, 2025 at 10:30 a.m. São Paulo time. |
+| Maintenance is scheduled for Monday, April 14, 2025 at 10:30 a.m. São Paulo (GMT-3). | Maintenance is scheduled for Monday, April 14, 2025 at 10:30 a.m. São Paulo time. |
 
 If a number is under 10, spell it out (one, two, three, etc.). If it’s over (and including) 10, write it using digits (example: 43, 775), except when the number doesn’t refer to a specific value.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| • This filter exceeds the maximum range of six months. <br> • If searches for an index frequently return more than a thousand documents...  | • This filter exceeds the maximum range of 6 months. <br> • If searches for an index frequently return more than a 1,000 documents… |
+| <ul><li>This filter exceeds the maximum range of six months.</li><li>If searches for an index frequently return more than a thousand documents...</li></ul> | <ul><li>This filter exceeds the maximum range of 6 months.</li><li>If searches for an index frequently return more than a 1,000 documents…</li></ul> |

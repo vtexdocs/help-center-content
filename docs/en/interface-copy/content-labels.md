@@ -26,38 +26,32 @@ Reuse labels for the same property. Existing labels can be found in the glossary
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Name | Title |
-| ID | Identification |
-| Tags | Labels |
+| <ul><li>Name</li><li>ID</li><li>Tags</li></ul> | <ul><li>Title</li><li>Identification</li><li>Labels</li></ul> |
 
 Don't include redundant words already mentioned in the context.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
 | <ul><li>Page title: Promotions</li><li>Label: Name</li></ul> | <ul><li>Page title: Promotion</li><li>Field label: Promotion name</li></ul> |
-| <ul><li>Page title: Products</li><li>Label label: Status</li></ul> | <ul><li>Page title: Products</li><li>Label label: Product status</li></ul> |
+| <ul><li>Page title: Products</li><li>Label: Status</li></ul> | <ul><li>Page title: Products</li><li>Label: Product status</li></ul> |
 
 Use sentence case, but capitalize proper nouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Publish date | Publish Date |
-| Email address | EMAIL ADDRESS |
-| VTEX Seller | Vtex Seller |
+| <ul><li>Publish date</li><li>Email address</li><li>VTEX Seller</li></ul> | <ul><li>Publish Date</li><li>EMAIL ADDRESS</li><li>Vtex Seller</li></ul> |
 
 Don’t use verbs.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Name | Enter the name |
-| Status | Select status |
+| <ul><li>Name</li><li>Status</li></ul> | <ul><li>Enter the name</li><li>Select status</li></ul> |
 
 Don't use personal pronouns.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| VTEX account | My VTEX account |
-| Personal email | My email |
+| <ul><li>VTEX account</li><li>Personal email</li></ul> | <ul><li>My VTEX account</li><li>My email</li></ul> |
 
 Don't include negative words.
 

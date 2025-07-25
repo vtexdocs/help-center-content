@@ -22,15 +22,13 @@ Avoid custom placeholder text. The user should intuitively know what information
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| Search | Search by name |
-| Select… | Select an option... |
+| <ul><li>Search</li><li>Select…</li></ul> | <ul><li>Search by name</li><li>Select an option...</li></ul> |
 
 Don't include redundant words.
 
 | Do ✅ | Don't ❌ |
 | :---- | :---- |
-| • Page title: Products <br> Field placeholder: Search by category or ID| • Page title: Products <br> Field placeholder: Search by product category or product ID|
-| • Field label: Category <br> Field placeholder: Select… | • Field label: Category <br> Field placeholder: Select a category… |
+| <ul><li><p>Page title: Products</p><p>Field placeholder: Search by category or ID</p></li><li><p>Field label: Category</p><p>Field placeholder: Select…</p></li></ul> | <ul><li><p>Page title: Products</p><p>Field placeholder: Search by product category or product ID</p></li><li><p>Field label: Category</p><p>Field placeholder: Select a category…</p></li></ul> |
 
 Write at most 36 characters.
 
