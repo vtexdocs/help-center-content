@@ -1,5 +1,5 @@
 ---
-title: 'Interface copy: General'
+title: 'Interface copy'
 id: interface-copy-general
 status: PUBLISHED
 createdAt: 2025-07-25T19:06:37.704Z
@@ -13,4 +13,9 @@ locale: en
 ## General
 
 - [Action labels](https://contentguide.vtex.com/docs/interface-copy/action-labels)
-- [Como criar um plano de assinatura](https://help.vtex.com/pt/docs/tutorials/como-criar-um-plano-de-assinatura)
+- [Content labels](https://contentguide.vtex.com/docs/interface-copy/content-labels)
+- [Descriptions](https://contentguide.vtex.com/docs/interface-copy/descriptions)
+- [Messages](https://contentguide.vtex.com/docs/interface-copy/messages)
+- [Placeholder texts](https://contentguide.vtex.com/docs/interface-copy/placeholder-texts)
+- [Titles](https://contentguide.vtex.com/docs/interface-copy/titles)
+- [Data formats](https://contentguide.vtex.com/docs/interface-copy/data-formats)
