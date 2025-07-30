@@ -40,6 +40,6 @@ La **Serie de la tienda VTEX** es la primera de las que componen la **Guía de o
 
 La tercera y última ruta de la **Guía de onboarding** se denomina [Soporte en VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) y tiene como objetivo proporcionar a nuestros clientes la mejor experiencia con la plataforma y nuestro soporte, abordando el [funcionamiento del Soporte VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) y explicando cómo abrir tickets para obtener ayuda con problemas [técnicos](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [financieros](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) o [comerciales](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
-Una vez hecha esta presentación, podemos empezar nuestra jornada.<br>
+Una vez hecha esta presentación, podemos empezar nuestra jornada.
 Te damos la bienvenida a VTEX.
 
