@@ -40,6 +40,6 @@ The **VTEX store overview** is the first track in the **Onboarding guide**. Afte
 
 The third and final track of the **Onboarding guide** is [Support at VTEX](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) and aims to provide our customers with the best platform and support experiences. The track covers how [VTEX Support works](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) and explains how to open tickets to get help with [technical](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [billing](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) or [commercial](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) issues.
 
-Now we are ready to begin our journey.<br>
+Now we are ready to begin our journey.
 Welcome to VTEX.
 
