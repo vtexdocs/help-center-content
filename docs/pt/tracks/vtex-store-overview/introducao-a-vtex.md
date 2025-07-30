@@ -40,6 +40,6 @@ A **Trilha da loja VTEX** é a primeira das trilhas que compõem o **Guia de onb
 
 A terceira e última trilha do **Guia de onboarding** é chamada [Suporte na VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) e visa proporcionar aos nossos clientes a melhor experiência com a plataforma e nosso suporte. A trilha aborda o [funcionamento do Suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) e explica como abrir chamados para obter auxílio em questões [técnicas](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [financeiras](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) ou [comerciais](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
-Feita esta apresentação, podemos começar a jornada.<br>
+Feita esta apresentação, podemos começar a jornada.
 Desejamos as boas-vindas à VTEX.
 
