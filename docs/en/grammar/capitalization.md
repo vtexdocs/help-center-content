@@ -48,7 +48,6 @@ Respect the capitalization of company names as used in their copy material (not 
 
 | Do ✅ | Don't ❌ |
 | :----- | :------- |
-| VTEX | <ul><li>Vtex</li><li>vtex</li></ul> |
 | SAP | Sap |
 | ServiceNow | Servicenow |
 
