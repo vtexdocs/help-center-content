@@ -76,9 +76,13 @@ Para verificar la configuración del producto, es importante que sigas los pasos
     * En caso de que el producto tenga especificaciones, navega hasta la pestaña **Especificaciones** y verifica que se hayan rellenado los campos correspondientes.
 3. Luego de cualquier modificación, haz clic en `Guardar`.
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/ad8fd616f6245872af18ad98d1c9f4a6/02-campos-produto-es.png" alt="02-campos-produto-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Campos que se deben verificar en la página de información del producto</em></figcaption>
+<figure>
+    <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/ad8fd616f6245872af18ad98d1c9f4a6/02-campos-produto-es.png" alt="02-campos-produto-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Campos que se deben verificar en la página de información del producto</em></figcaption>
+</figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/1933479b0f82ec9229bdf1687859a714/03-aba-especificacoes-es.png" alt="03-aba-especificacoes-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña <strong>Especificaciones</strong></em></figcaption>
+<figure>
+    <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/1933479b0f82ec9229bdf1687859a714/03-aba-especificacoes-es.png" alt="03-aba-especificacoes-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña <strong>Especificaciones</strong></em></figcaption>
+</figure>
 
 ### SKU
 
@@ -112,7 +116,9 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 8. Verifica si el SKU incluye al menos una imagen. Si no la tiene, el SKU no se activará. Realiza el paso a continuación para corregir este problema.
 9. Haz clic en `Insertar` para subir una imagen nueva. Si lo prefieres, haz clic en `Asociar a las imágenes existentes` para incluir una imagen que ya se utilice en otro SKU.
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/1be699da86b880750f7884f9aabaa8a3/08-aba-imagens-es.png" alt="08-aba-imagens-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña  <strong>Imágenes</strong></em></figcaption>
+<figure>
+    <img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/1be699da86b880750f7884f9aabaa8a3/08-aba-imagens-es.png" alt="08-aba-imagens-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña  <strong>Imágenes</strong></em></figcaption>
+</figure>
 
 ![09-sku-imagens-es](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/06bad0f8081c24488cee7ec6d0853853/09-sku-imagens-es.PNG)
 
