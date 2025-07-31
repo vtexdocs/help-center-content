@@ -13,9 +13,8 @@ slugEN: my-store-order-was-canceled
 locale: pt
 legacySlug: o-pedido-da-minha-loja-foi-cancelado
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Pedidos, Status do pedido, Cancelamento
 ---
-
-**Tags:** Pedidos, Status do pedido, Cancelamento
 
 Após um pedido ser realizado, ele pode ser cancelado antes de completar o fluxo esperado. Para identificar o motivo de cancelamento, é preciso verificar todas as comunicações realizadas entre as integrações de pagamento. Isto porque, para uma compra ser faturada, ela passa por diversas etapas que podem provocar o cancelamento.
 

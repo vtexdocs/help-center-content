@@ -13,9 +13,8 @@ slugEN: my-stores-order-still-has-the-status-verifying-invoice
 locale: es
 legacySlug: el-pedido-de-mi-tienda-presenta-el-status-verificando-factura
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Pedidos, Status del pedido, Factura
 ---
-
-**Tags:** Pedidos, Status del pedido, Factura
 
 Al monitorear el [flujo de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda, puedes encontrarte con un pedido que permanece con el status `Verificando factura` durante más tiempo del esperado. En este status, la plataforma comprueba si el pago se ha completado y si la factura del pedido ha sido correctamente incluida, siendo estas condiciones necesarias para que el pedido avance en el flujo.
 
@@ -54,4 +53,3 @@ Puedes consultar las instrucciones para el envío de facturas vía Admin VTEX en
 <div class = "alert alert-info">
 Si es necesario realizar ajustes en el pedido, puedes <a href="https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw">modificarlo a través del Admin VTEX</a>.
 </div>
-

@@ -13,9 +13,8 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 locale: en
 legacySlug: the-order-doesnt-progress-after-the-status-handling-shipping
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Delivery, Orders, Order status, Integration, ERP, OMS, Handling shipping
 ---
-
-**Tags:** Delivery, Orders, Order status, Integration, ERP, OMS, Handling shipping
 
 The status `Handling shipping` occurs in the [order flow](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
 

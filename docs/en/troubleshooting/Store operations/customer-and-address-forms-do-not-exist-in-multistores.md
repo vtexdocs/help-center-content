@@ -13,9 +13,8 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 locale: en
 legacySlug: creating-customer-and-address-forms-in-new-stores
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Master Data v1, Customer, Address, Multistore
 ---
-
-**Tags:** Master Data v1, Customer, Address, Multistore
 
 In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), the forms are not created automatically.
 

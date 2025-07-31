@@ -13,9 +13,8 @@ slugEN: removing-error-message-request-headers-must-only-contain-ascii
 locale: en
 legacySlug: removing-error-message-request-headers-must-only-contain-ascii
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Request headers, UTM, Custom javascript
 ---
-
-**Tags:** Request headers, UTM, Custom javascript
 
 The message "__Request headers must contain only ASCII characters__" can be displayed in the user's browser when they navigate the store and try to access a new page or perform an action on the site, such as adding items to the shopping cart.
 

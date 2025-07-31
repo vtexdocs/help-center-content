@@ -13,9 +13,8 @@ slugEN: i-cant-import-the-price-table
 locale: en
 legacySlug: i-cant-import-the-price-table
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Pricing, Spreadsheet import
 ---
-
-**Tags:** Pricing, Spreadsheet import
 
 [Price tables, or price spreadsheets](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) and [Fixed price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 

@@ -13,9 +13,8 @@ slugEN: metrics-are-not-displayed-in-the-order-dashboard
 locale: en
 legacySlug: metrics-are-not-displayed-in-the-order-dashboard
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Dashboard, VTEX Admin, Overview, User roles
 ---
-
-**Tags:** Dashboard, VTEX Admin, Overview, User roles
 
 When accessing the Admin dashboard, it may fail to load metrics in the **Overview** dashboard, indicated by warning icons and the message "Something went wrong". This can be due to:
 

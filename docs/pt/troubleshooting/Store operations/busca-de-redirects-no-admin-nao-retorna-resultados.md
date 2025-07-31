@@ -13,9 +13,8 @@ slugEN: admin-redirect-search-returns-no-results
 locale: pt
 legacySlug: busca-de-redirects-no-admin-nao-retorna-resultados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Redirects
 ---
-
-**Tags:** Redirects
 
 Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
 

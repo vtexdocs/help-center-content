@@ -13,9 +13,8 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 locale: es
 legacySlug: crear-formularios-de-cliente-y-dirección-en-nuevas-tiendas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Master Data v1, Cliente, Direccion, Multitienda
 ---
-
-**Tags:** Master Data v1, Cliente, Direccion, Multitienda
 
 En Master Data v1, los formularios Cliente y Dirección solo se crean en la tienda principal de la cuenta de forma predeterminada. Es por este motivo que los formularios no se crean automáticamente al crear una [multitienda](/es/tutorial/gerenciando-uma-multiloja--4S0lFVBPylRS5KpVgdyDhJ).
 

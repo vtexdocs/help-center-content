@@ -13,9 +13,8 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 locale: es
 legacySlug: el-pedido-se-detiene-en-el-status-listo-para-preparacion
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Preparación, Pedidos, Status del pedido, Integración, ERP, OMS
 ---
-
-**Tags:** Preparación, Pedidos, Status del pedido, Integración, ERP, OMS
 
 El status `Listo para preparación` se produce en el [flujo del pedido](/es/tutorial/flujo-y-status-de-pedidos--tutorials_196#flujo-de-seller) justo después de que se cierre la ventana de cancelación. En este punto, VTEX debe recibir información del [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) sobre la integración del pedido y la actualización del stock de ítems, lo que permitiría que el flujo pueda proseguir hasta alcanzar el siguiente status `Preparando envío`.
 
