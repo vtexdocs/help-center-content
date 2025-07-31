@@ -81,9 +81,9 @@ Para verificar la configuración del producto, es importante que sigas los pasos
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/ad8fd616f6245872af18ad98d1c9f4a6/02-campos-produto-es.png"
     alt="02-campos-produto-pt"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em>Campos que se deben verificar en la página de información del producto</em>
   </figcaption>
 </figure>
@@ -93,9 +93,9 @@ Para verificar la configuración del producto, es importante que sigas los pasos
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/1933479b0f82ec9229bdf1687859a714/03-aba-especificacoes-es.png"
     alt="03-aba-especificacoes-pt"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em>Pestaña <strong>Especificaciones</strong></em>
   </figcaption>
 </figure>
@@ -137,9 +137,9 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/1be699da86b880750f7884f9aabaa8a3/08-aba-imagens-es.png"
     alt="08-aba-imagens-pt"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em>Pestaña <strong>Imágenes</strong></em>
   </figcaption>
 </figure>

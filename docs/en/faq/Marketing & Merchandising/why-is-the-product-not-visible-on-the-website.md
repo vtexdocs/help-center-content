@@ -81,9 +81,9 @@ To check the product settings, you must follow the steps below.
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/080a8fbd5815fe8059b449a23c01b944/02-campos-produto-en.png"
     alt="02-campos-produto-en"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em>Fields you must check on the product information page.</em>
   </figcaption>
 </figure>
@@ -93,9 +93,9 @@ To check the product settings, you must follow the steps below.
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/4870d3860fc73faed98f2237aa85cca9/03-aba-especificacoes-en.png"
     alt="03-aba-especificacoes-en"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em><strong>Specifications</strong> tab</em>
   </figcaption>
 </figure>
@@ -137,9 +137,9 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
     className="db center mv9 shadow-4 pointer"
     src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png"
     alt="08-aba-imagens-es"
-    style={{ marginBottom: '20px' }}
+    style="margin-bottom: 20px;"
   />
-  <figcaption style={{ textAlign: 'center' }}>
+  <figcaption style="text-align: center;">
     <em><strong>Images</strong> tab</em>
   </figcaption>
 </figure>
