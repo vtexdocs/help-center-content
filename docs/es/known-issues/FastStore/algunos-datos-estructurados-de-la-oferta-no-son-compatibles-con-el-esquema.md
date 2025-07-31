@@ -37,7 +37,7 @@ Algunos campos del tipo Oferta no están siendo validados correctamente por el s
 
 Puede ver este comportamiento en nuestra tienda por defecto https://www.fast.store/ buscando cualquier PDP en schema.org, por ejemplo:
 https://validator.schema.org/#url=https%3A%2F%2Fwww.fast.store%2Fwireless-controller-white-10000000%2Fp
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/algunos-datos-estructurados-de-la-oferta-no-son-compatibles-con-el-esquema_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2O5AHNwwktZmy2LXC8isSVWpt/?name=image.png)
 
 
 ##

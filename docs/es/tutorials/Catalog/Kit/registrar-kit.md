@@ -26,7 +26,7 @@ Un kit puede permitir o no que sus componentes se vendan por separado, entienda 
 
 Para configurar el Kit es necesario que los productos que harán parte de este – sus componentes – ya estén creados. Como en el siguiente ejemplo:
 
-![01-Componentes ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Kit/registrar-kit_1.png)
+![01-Componentes ES](https://images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
 
 Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
 
@@ -38,7 +38,7 @@ Luego de crear los productos componentes, podemos continuar con la configuració
 5. Si quiere un Kit Look, haga clic en la opción __Kit con ítems vendidos por separado__.
 6. Haga clic en `Guardar`.
 
-![02-kit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Kit/registrar-kit_2.png)
+![02-kit ES](https://images.ctfassets.net/alneenqid6w5/6PUdHiV1UAuMC6A80QYOQI/e14209f28e53d84e8f1af4ecb6261bac/02-kit_ES.png)
 
 ## Asociar componentes
 
@@ -53,9 +53,9 @@ Después de crear el producto que se convertirá en el Kit, deben asociarse los 
 7. Rellene el precio unitario del SKU dentro del Kit.
 6. Haga clic en `Guardar`.
 
-![03-agregar componente al Kit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Kit/registrar-kit_3.gif)
+![03-agregar componente al Kit ES](https://images.ctfassets.net/alneenqid6w5/2ghV5EOOAQ4kQOIomsmusE/5f7f3a94ffb0df4b4cdb74f71373445a/03-add_component_to_kit_ES.gif)
 
-![04-Kit en el carrito  TODO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Kit/registrar-kit_4.png)
+![04-Kit en el carrito  TODO](https://images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
 
 ## Peso del Kit
 
@@ -84,7 +84,7 @@ También podrá modificar únicamente el precio final del Kit directamente desde
 Pero tenga en cuenta que al cambiar cualquier componente se generará un nuevo precio final, actualizando lo que se había registrado anteriormente.
 Alterar solo el precio final no actualiza el precio de los componentes.
 
-![06-Lista de precios ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Kit/registrar-kit_5.png)
+![06-Lista de precios ES](https://images.ctfassets.net/alneenqid6w5/4lM2ecWDE40Ooa44scKIq6/6fa14fb364430e3bfc2fa3fff64c8e96/06-price_list_ES.png)
 
 ### Más información
 

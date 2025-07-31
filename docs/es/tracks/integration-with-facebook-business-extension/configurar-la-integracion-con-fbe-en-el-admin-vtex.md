@@ -40,7 +40,7 @@ Para que la integración funcione correctamente, se recomienda conceder todos lo
 10. Haz clic en `Siguiente`.
 11. En la ventana abierta, aparecerá una confirmación de que la integración se ha realizado. Haz clic en `Listo`.
 
-![gif es v1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/integration-with-facebook-business-extension/configurar-la-integracion-con-fbe-en-el-admin-vtex_1.gif)
+![gif es v1](https://images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/aad4d60cb7baecae018ef1d38d25acef/gif_es_v1.gif)
 
 ## Envío de datos de productos a Facebook Business Extension
 

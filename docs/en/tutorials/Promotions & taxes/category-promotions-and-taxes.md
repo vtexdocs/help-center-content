@@ -3,7 +3,7 @@ title: 'Promotions & taxes'
 id: category-promotions-and-taxes
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: category-promotions-and-taxes
@@ -20,17 +20,16 @@ locale: en
 ## Promotions
 
 - [Creating promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions)
-- [How does promotion proration work?](https://help.vtex.com/en/docs/tutorials/how-does-promotion-proration-work)
 - [How to identify promotions attributed to an SKU?](https://help.vtex.com/en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku)
 - [Configuring a promotion for an SKU](https://help.vtex.com/en/docs/tutorials/how-to-configure-a-promotion-for-an-sku)
 - [Does the shipping calculation take into account the free gift?](https://help.vtex.com/en/docs/tutorials/does-the-shipping-calculation-take-into-account-the-free-gift)
 - [Creating a promotion with limitation of use](https://help.vtex.com/en/docs/tutorials/how-to-create-a-promotion-with-limitation-of-use)
 - [How many coupons, taxes and promotions may I have in my store?](https://help.vtex.com/en/docs/tutorials/what-is-the-maximum-limit-of-promotions)
 - [Identifying promotions applied to the cart](https://help.vtex.com/en/docs/tutorials/how-to-identify-promotions-applied-to-the-cart)
-- [What are utm_source, utm_campaign, and utm_medium](https://help.vtex.com/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
+- [Campaign tracking with UTM parameters](https://help.vtex.com/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
 - [What does it mean to activate a gift multiplier on a promotion?](https://help.vtex.com/en/docs/tutorials/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion)
 - [How is shipping cost calculated when there's an item with shipping benefit on the cart?](https://help.vtex.com/en/docs/tutorials/how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart)
-- [How the progressive discount works](https://help.vtex.com/en/docs/tutorials/progressive-discount)
+- [How the progressive discount promotion  works](https://help.vtex.com/en/docs/tutorials/progressive-discount)
 - [How promotion competition works](https://help.vtex.com/en/docs/tutorials/how-promotion-competition-works)
 - [Creating a More for Less promotion](https://help.vtex.com/en/docs/tutorials/creating-a-more-for-less-promotion)
 - [Configuring promotions with highlights / flags](https://help.vtex.com/en/docs/tutorials/configuring-promotions-with-a-highlightflag)
@@ -39,7 +38,6 @@ locale: en
 - [Creating a Buy Together promotion](https://help.vtex.com/en/docs/tutorials/buy-together)
 - [How the Buy One Get One (BoGo) promotion works](https://help.vtex.com/en/docs/tutorials/buy-one-get-one)
 - [How to set percent discount promotion for a specific SKU](https://help.vtex.com/en/docs/tutorials/how-to-set-percent-discount-promotion-for-a-specific-sku)
-- [How to set a Buy One Get One promotion (gift) for a specific SKU](https://help.vtex.com/en/docs/tutorials/how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku)
 - [Configuring shipping promotions](https://help.vtex.com/en/docs/tutorials/configuring-shipping-promotions)
 - [Regular promotion with nominal discount based on formula](https://help.vtex.com/en/docs/tutorials/regular-promotion-with-nominal-discount-based-on-formula)
 - [Promotion List](https://help.vtex.com/en/docs/tutorials/promotion-list-beta)
@@ -48,7 +46,6 @@ locale: en
 
 ## Coupons
 
-- [Coupons list](https://help.vtex.com/en/docs/tutorials/coupons-list-beta)
 - [Creating a coupon](https://help.vtex.com/en/docs/tutorials/creating-a-coupon-beta)
 - [Promotional coupons: types and groups](https://help.vtex.com/en/docs/tutorials/coupons-beta)
 

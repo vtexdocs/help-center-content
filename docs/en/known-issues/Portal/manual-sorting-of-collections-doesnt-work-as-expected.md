@@ -3,8 +3,8 @@ title: "Manual sorting of collections doesn't work as expected"
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z
-updatedAt: 2024-10-09T18:49:09.414Z
-publishedAt: 2024-10-09T18:49:09.414Z
+updatedAt: 2025-07-30T19:41:03.111Z
+publishedAt: 2025-07-30T19:41:03.111Z
 firstPublishedAt: 2017-10-03T19:58:57.335Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slugEN: manual-sorting-of-collections-doesnt-work-as-expected
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 295245
 ---
 
@@ -60,4 +60,7 @@ As a workaround, we have the following options:
 
 - Use collections with only 30 items, if it's essential to apply manual sorting;
 - Use the Release Date field, register the dates in the desired sequence, and use the field to sort the collection.
+
+
+
 

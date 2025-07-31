@@ -36,7 +36,7 @@ Actualmente, al filtrar exclusivamente por el vendedor principal en los menús d
 1. Vaya a cualquier menú del catálogo, como Importar/Exportar
 2. 2. Filtre por el vendedor principal de la cuenta:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-filtro-para-vendedor-1-trae-resultados-vacios_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6dygVHVlzTTdqYD3jOyV10DaZ/?name=image.png)
 3. No se mostrarán resultados
 
 

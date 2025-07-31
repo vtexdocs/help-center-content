@@ -73,7 +73,7 @@ Let's suppose that an SKU has two fixed prices linked to it. In addition, both p
 
 For example, the first fixed price is set at __U$ 50,00__ and its schedule runs from __10AM__ to __4PM__. The second price is set at __U$ 25,00__ and is scheduled from __noon__ to __8PM of the same day__. Therefore, the prices compete for the same schedule between *noon and 4PM*, which means that the __U$ 25,00__ SKU sales price will prevail during this time.
 
-![fixed price - example2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/prices-101/preco-fixo-definicao-de-conceito_1.svg)
+![fixed price - example2](https://images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
 
 ### Competing criteria for minimum number of cart items
 
@@ -83,7 +83,7 @@ Let's suppose that you've added a fixed price of U$ 200,00 for __two of more ite
 
 Which price would in this case be applied to five or more items? The sales price would be the lower one, U$ 100,00. 
 
-![fixed price - example1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/prices-101/preco-fixo-definicao-de-conceito_2.svg)
+![fixed price - example1](https://images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
 
 ## Examples 
 

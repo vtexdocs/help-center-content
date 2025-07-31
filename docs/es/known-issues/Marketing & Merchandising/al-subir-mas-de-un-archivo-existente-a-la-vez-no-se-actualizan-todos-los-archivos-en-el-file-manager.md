@@ -32,7 +32,7 @@ Cuando se envían simultáneamente dos o más archivos existentes en el File Man
 
 A continuación, se mostrará el siguiente mensaje:
 
-![File manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketing%20&%20Merchandising/al-subir-mas-de-un-archivo-existente-a-la-vez-no-se-actualizan-todos-los-archivos-en-el-file-manager_1.png)
+![File manager](//images.contentful.com/alneenqid6w5/4Z7tY3FKCDV1Cz6Whji6HI/d730b6accf6caeb81b373745b20c337d/image.png)
 
 Esto significa que solo se identifica un archivo; los demás no se validan. Se cargan todos los archivos, pero solo uno de ellos sustituirá a su versión anterior.
 

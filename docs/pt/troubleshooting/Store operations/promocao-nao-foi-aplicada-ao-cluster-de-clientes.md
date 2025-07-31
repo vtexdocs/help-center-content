@@ -35,7 +35,7 @@ Para identificar se um cluster de clientes está associado a uma promoção, sig
 
 <blockquote><ui>3. Na seção <b>“Quais as condições para a promoção ser válida?”</b>, verifique se a opção <b>Cluster de clientes</b> está marcada e se o campo está preenchido com o <a href="https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes">valor correto do respectivo cluster</a>.</ui>
 
-![Cluster_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/promocao-nao-foi-aplicada-ao-cluster-de-clientes_1.png) 
+![Cluster_pt](https://images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/5641c6a38177859dc44f85cfb656a996/cluster_pt.png) 
 
 <blockquote><ui><div class="alert alert-warning">
   O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é <code>funcionario=true</code> e na promoção for cadastrado <code>Funcionario=true</code> ou <code>funcionario=True</code>, a promoção não será exibida para os usuários daquele cluster.

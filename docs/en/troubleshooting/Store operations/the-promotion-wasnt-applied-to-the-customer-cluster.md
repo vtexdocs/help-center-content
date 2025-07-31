@@ -35,7 +35,7 @@ To identify whether a customer cluster is associated with a promotion, follow th
 
 <blockquote><ui>3. In the section <b>“What are the conditions for the promotion to be valid?”</b>, check if the option <b>Customer cluster</b> is selected and that the field is completed with the correct <a href="https://help.vtex.com/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field">value of the respective cluster</a>.</ui>
 
-![Cluster_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/the-promotion-wasnt-applied-to-the-customer-cluster_1.png)  
+![Cluster_en](https://images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/9f5fccae1677bdf9acf69958b3835454/cluster_en.png)  
 
 <blockquote><ui><div class="alert alert-warning">
   The value entered in this field must be exactly the same as the value previously assigned to the customer cluster, as the system interprets differences between upper and lower case letters (case sensitive). For example, if the value entered for a given cluster identifier is <code>employee=true</code> and in the promotion it's <code>Employee=true</code> or <code>Employee=True</code>, the promotion won't be visible to users in that cluster.

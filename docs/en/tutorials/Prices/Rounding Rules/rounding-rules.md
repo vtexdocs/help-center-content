@@ -60,16 +60,16 @@ Below you can see examples of the flows of adding, editing and deleting rounding
 
 *_Procedure for creating a rule_*
 
-![config-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_1.gif)
+![config-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/77tOZFjGCbkDjfCbPVeg4c/cf07a45f811bd5bfd6c80ddbc478c2a4/config-arrendodamento-EN.gif)
 
 *_Procedure for modifying a rule_*
 
-![editar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_2.gif)
+![editar-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/4vuF4QJxVCoTc4iatE1MSZ/728e6875c0ed2787808b5cd9be46a2d3/editar-arrendodamento-EN.gif)
 
 *_Procedure for deleting a rule_*
 
-![deletar-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_3.gif)
+![deletar-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/6fDPWVbwtpyCYixRinlkxp/a5420a0633b35607bb4cca0b309c4b89/deletar-arrendodamento-EN.gif)
 
 *_Price simulation for a rule_*
 
-![teste-arrendodamento-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Rounding%20Rules/rounding-rules_4.gif)
+![teste-arrendodamento-EN](https://images.ctfassets.net/alneenqid6w5/66dsqzAfz27KJgAUAaXYFp/b3d61dcf614d390d72c7e3d5418ff86e/teste-arrendodamento-EN.gif)

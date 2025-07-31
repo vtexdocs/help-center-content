@@ -3,8 +3,8 @@ title: 'Novo modelo de anúncios no Mercado Livre'
 id: 3g7c72gcJk6WvKXNGfPTkb
 status: PUBLISHED
 createdAt: 2025-06-30T16:52:13.856Z
-updatedAt: 2025-06-30T18:56:14.397Z
-publishedAt: 2025-06-30T18:56:14.397Z
+updatedAt: 2025-07-24T17:00:22.767Z
+publishedAt: 2025-07-24T17:00:22.767Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
@@ -23,17 +23,17 @@ A [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado
 
 No modelo anterior, um anúncio no marketplace era criado quando o seller enviava um produto pela integração de sua loja com o Mercado Livre. Todos os SKUs desse produto eram vinculados a um mesmo anúncio, sem a possibilidade de ter atributos como preço, origem do estoque, tipo de frete e desconto individualmente.  
 
-![uptin1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre_1.jpg)
+![uptin1](https://images.ctfassets.net/alneenqid6w5/5y6Mxe9VrAaCzO6ElXjM3O/249542135a717eba8e750a6952316c66/uptin1.jpg)
 
 No novo modelo, os anúncios são criados no marketplace a partir do envio de SKUs. Para agrupar os SKUs de um produto, o **Mercado Livre** identifica as características semelhantes e gera de maneira automática um conjunto chamado **Família.**  
 
 Ao criar um novo anúncio, o Mercado Livre utilizará os atributos do SKU como tamanho e cor para agrupá-los em uma **Família**.   
 
-![uptin-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre_2.png)
+![uptin-pt](https://images.ctfassets.net/alneenqid6w5/2H22mnrFOUx0Cfes1OFBzI/56802a3456e3d0e615eda85244dda208/uptin-pt.png)
 
 ## O que precisa ser feito?
 
-As contas já integradas ao Mercado Livre serão migradas gradativa e automaticamente. 
+As contas já integradas ao Mercado Livre serão migradas gradativa e automaticamente. A disponibilização desse modelo de anúncios é realizada somente pelo Mercado Livre.  
 
 Para migrar os anúncios já existentes para o novo modelo, o seller precisa seguir os passos abaixo:  
 

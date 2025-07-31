@@ -24,7 +24,7 @@ Alguns pedidos no Gerenciamento de Pedidos ficam parados no status "Processando"
 
 Este erro é intermitente, sendo muito difícil sua simulação. A seguir, temos a imagem do log de quando este erro ocorre.
 
-![erro-sistema-de-perfis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Post-purchase/pedidos-com-erro-sistema-de-perfis_1.png)
+![erro-sistema-de-perfis](//images.contentful.com/alneenqid6w5/3XS6EnP8kU8W2SewuYsAes/503ce84831f50a80f57bc31a713a71c7/erro-sistema-de-perfis.png)
 
 ## Workaround
 

@@ -13,9 +13,9 @@ slugEN: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 locale: en
 legacySlug: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags: Catalog, SKU, Spreadsheet, Import
 ---
 
-**Product tags:** Catalog, SKU, Spreadsheet, Import
 
 After setting the category tree and adding [product specifications and SKUs](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) to your store, you must complete the values for the specifications you created. In the VTEX Admin, you can do this process manually or using a spreadsheet when [adding products and SKUs](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119).
 

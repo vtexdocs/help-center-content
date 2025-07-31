@@ -24,7 +24,7 @@ You can configure relevance in two ways:
   - __Priority Criteria__: it imposes that one or more criteria has a higher priority among the others. In this situation, there are no weights; all products that have this feature will be shown first in the search results.
   - __Criteria Composition__: it is a way to distribute weights for each option, ranging from 0 to 10. Here, there is no order between the criteria; the weights will define the relevance.
 
-![criterios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Relevance/relevance-rules_1.png)
+![criterios-en](https://images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/56c8163ed9b449419c17db066dd4506e/criterios-en.png)
 
 The information considered for the relevance is:
 
@@ -105,6 +105,6 @@ To change relevance settings, follow the steps below.
 
    If you want to change a criterion from **Criteria Composition** to **Priority Criteria**, click on the <i class="fas fa-grip-vertical"></i> icon and drag it to the top of the page, as shown below. Note that when the criterion is set as a priority, you can no longer change its weight. 
 
-   ![criterios-prioritarios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Intelligent%20Search/Relevance/relevance-rules_2.gif)
+   ![criterios-prioritarios-en](https://images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/326edf2ab5b2c2ee3050a97a98090dd9/criterios-prioritarios-en.gif)
 5. Click `Save` to finish.
 

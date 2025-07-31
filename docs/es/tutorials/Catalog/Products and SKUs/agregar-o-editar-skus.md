@@ -3,8 +3,8 @@ title: 'Agregar o editar SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-04-15T15:17:18.932Z
-publishedAt: 2025-04-15T15:17:18.932Z
+updatedAt: 2025-07-28T22:21:13.931Z
+publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -50,7 +50,7 @@ Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el 
 
 Después de crear el SKU, puedes monitorear su disponibilidad para la venta a través del ícono de color. Al pasar el mouse sobre el ícono, se muestra un texto que explica el significado del color, según se ilustra en la siguiente imagen. Más información en [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Products%20and%20SKUs/agregar-o-editar-skus_1.png)
+![adding_or_editting_sku_ES](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/921142f7de70981b27c0e1e022beb960/adding_or_editting_sku_ES.png)
 
 Además, después de registrar el SKU puedes agregarlo a un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) haciendo clic en el ícono de menú en la fila del SKU deseado y seleccionando la opción `Crear kit`. Ten en cuenta que transformar un SKU en un kit es permanente y no se puede deshacer.
 
@@ -97,8 +97,14 @@ La siguiente tabla presenta los límites y formatos aceptados para las imágenes
 | **Límites y formatos** | **Valores aceptados** |
 | :--- | :--- |
 | Tamaño máximo en píxeles | 5000 x 5000 píxeles |
+| Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |
+| Tamaño mínimo en KB | 300 KB |
 | Extensiones de archivo permitidas | <p><ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul></p> |
+
+<div class = "alert alert-info">
+  <p>Para más recomendaciones, consulta el artículo <a href="https://help.vtex.com/es/tutorial/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo--738K2yfq5U86kUI2k4AQIk">Buenas prácticas para el uso de imágenes en el Catálogo</a>.</p>
+</div>
 
 Después cargar una imagen, puedes editar los metadatos siguiendo los pasos a continuación:
 
@@ -183,6 +189,10 @@ Los siguientes campos definen cómo se organizará y contabilizará el SKU en el
 
 * **Unidad de medida:** identificación de la unidad de medida utilizada para contabilizar los ítems en stock.
 * **Multiplicador de unidad:** valor numérico que se utiliza para multiplicar el SKU y definir la cantidad en el carrito. Por ejemplo, un multiplicador de 5 significa que cada SKU representa 5 ítems en el carrito y solo permite compras en múltiplos de 5 como, por ejemplo, 10 o 15 ítems. Los valores de fracciones se pueden separar con punto o coma. Por ejemplo, medio kilogramo se puede indicar como 0.5 o 0,5.
+
+<div class="alert alert-warning">
+  <p>El valor en el campo multiplicador de unidad no tiene impacto en los cálculos de inventario y logística.</p>
+</div>
 
 ## Estrategia comercial
 

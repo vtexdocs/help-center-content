@@ -29,10 +29,10 @@ Ao usar o componente de autocompletar do guia de estilo (https://styleguide.vtex
 
 
 Tente escrever um termo para pesquisar:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-autocompletar-do-styleguide-apresenta-um-erro-ao-excluir-o-termo-de-pesquisa_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/wDC5HfVy0hJJByej9GmJCxyNN/?name=image.png)
 
 Exclua o termo completamente e você verá que a primeira letra do termo aparecerá novamente:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-autocompletar-do-styleguide-apresenta-um-erro-ao-excluir-o-termo-de-pesquisa_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/sSFMXx0RqDQRFbFMg5rUUgE0Q/?name=image.png)
 
 Você pode testá-lo no exemplo da documentação: https://styleguide.vtex.com/#/Components/Forms/AutocompleteInpu
 

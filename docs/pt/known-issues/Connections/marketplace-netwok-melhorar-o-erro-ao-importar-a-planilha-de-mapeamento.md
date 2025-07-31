@@ -29,7 +29,7 @@ Ao tentar importar uma planilha, o usuário recebe um erro genérico, como: Ocor
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/marketplace-netwok-melhorar-o-erro-ao-importar-a-planilha-de-mapeamento_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ocxWNQ2WYbzEeXm0E3mVqrXPu/?name=image.png)
 
 
 

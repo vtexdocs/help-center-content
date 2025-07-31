@@ -26,7 +26,7 @@ La configuración relacionada con el dominio es necesaria para que una direcció
 
  La dirección de la tienda se compone de los elementos ilustrados a continuación:
 
-![url-diagram-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Accounts/configurar-dominio-de-la-tienda_1.png)
+![url-diagram-es](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/70d9e55fc1f035bfb1b8733aa0cfdec4/url-diagram-es.png)
 
 | Elemento | Descripción | Ejemplo |
 |---|---|---|

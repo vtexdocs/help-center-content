@@ -3,7 +3,7 @@ title: 'Envio'
 id: category-shipping
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: category-shipping
@@ -48,7 +48,6 @@ locale: pt
 
 ## Tarifas de envio
 
-- [Gerenciar Tarifas de envio](https://help.vtex.com/pt/docs/tutorials/gerenciar-tarifas-de-envio)
 - [Tarifas de envio](https://help.vtex.com/pt/docs/tutorials/tarifas-de-envio)
 - [Adicionais de frete](https://help.vtex.com/pt/docs/tutorials/adicionais-de-frete)
 - [Custo final do envio](https://help.vtex.com/pt/docs/tutorials/custo-final-do-envio)
@@ -76,12 +75,9 @@ locale: pt
 
 ## Configurações de Estoque e Entrega
 
-- [Quando devo agrupar produtos na mesma remessa?](https://help.vtex.com/pt/docs/tutorials/quando-devo-agrupar-produtos-na-mesma-remessa)
 - [Configurar remessa](https://help.vtex.com/pt/docs/tutorials/como-funciona-a-remessa)
 - [Configurando a divisão de carga](https://help.vtex.com/pt/docs/tutorials/como-funciona-a-divisao-de-carga)
-- [Como funciona o modal](https://help.vtex.com/pt/docs/tutorials/como-funciona-o-modal)
 - [Configurar o Alerta de Estoque Crítico](https://help.vtex.com/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)
-- [Configurar modal para transportadoras](https://help.vtex.com/pt/docs/tutorials/configurar-modal-para-transportadoras)
 
 ## Pontos de retirada
 
@@ -106,4 +102,5 @@ locale: pt
 - [VTEX Pick and Pack: Insights](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-insights)
 - [VTEX Pick and Pack: Configurações](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-configuracoes)
 - [VTEX Pick and Pack Mobile](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-mobile)
+- [VTEX Pick and Pack: FAQ](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-faq)
 

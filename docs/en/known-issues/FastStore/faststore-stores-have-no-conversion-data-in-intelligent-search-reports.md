@@ -30,7 +30,7 @@ Currently, we have data on search terms and clicks but no valid conversion data.
 
 
 You can try buying products in a Faststore store, but the conversion data will not be updated or will not be a valid data.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/faststore-stores-have-no-conversion-data-in-intelligent-search-reports_1.png)
+ ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAzypE89_9N5C_O-Fm_dIRB0PM4AzMsJR2g-OYe79aDY5ED0TazxWyL-jt4xtmp6vvp6xyOWX3lC6dGy3oJgqjOcoHt4DpL_kKdpJ6KLIDjA5RYB9dkUIoz2MuvZKSrkg0Is70JA?key=qgapxA8TWy8ha9Krkd7IhXQL)
 
 
 ##

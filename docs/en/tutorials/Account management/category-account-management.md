@@ -3,7 +3,7 @@ title: 'Account management'
 id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -33,7 +33,8 @@ locale: en
 
 ## Accounts
 
-- [Changing the logo on the bank slip](https://help.vtex.com/en/docs/tutorials/how-do-i-change-the-logo-on-the-payment-slip)
+- [Changing the logo on the bank slip](https://help.vtex.com/en/docs/tutorials/changing-the-logo-on-the-bank-slip)
+- [Changing the store domain](https://help.vtex.com/en/docs/tutorials/change-the-store-domain)
 - [Configuring the store domain](https://help.vtex.com/en/docs/tutorials/configuring-the-store-domain)
 - [How to set up B2B with VTEX](https://help.vtex.com/en/docs/tutorials/setting-up-b2b-on-vtex)
 - [Managing a multistore](https://help.vtex.com/en/docs/tutorials/managing-a-multistore)

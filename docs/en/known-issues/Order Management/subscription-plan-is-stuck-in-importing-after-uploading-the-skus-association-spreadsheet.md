@@ -26,7 +26,7 @@ Within the **Plans** options for subscriptions, we have a functionality that all
 
 For the import, the indicated base spreadsheet shows two columns with examples of the values that must be placed. In the first column the ID of the SKU and in the second the value defines whether or not this SKU is associated. Here is an example of how it is displayed:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/64TRpBZfKZcCRKRouDVWJPSGq/?name=image.png)
 
 In this case, the problem occurs because **our service** **currently only accepts a numerical value in the "associate" column**, that is, only **0 for false** or **1 for true**. When uploading the spreadsheet with text in the "**associate**" column, the plan will remain in the "**importing**" state indefinitely, which currently blocks the ability to edit or upload a new spreadsheet.
 
@@ -50,7 +50,7 @@ To simulate it, you can:
 
 To avoid this behavior, it is recommended to **upload the spreadsheet with the numerical format indicated (0 or 1) in the "associate" column** and ensure that this cell is in fact in number format. Here is an example:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Order%20Management/subscription-plan-is-stuck-in-importing-after-uploading-the-skus-association-spreadsheet_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nsnccGKCNs13yG1X3uOgr3pfM/?name=image.png)
 
 In case the plan is "blocked", the idea is that for the moment a ticket is opened for the **Order Management** team, to try to "unblock" the specific Plan.
 

@@ -36,7 +36,7 @@ Esto se debe al número de imágenes por bloque. Por el momento, no tenemos un n
 - Acceda al Editor de Sitios CMS (por ejemplo https://my-account-here.myvtex.com/admin/cms/site-editor);
 - Seleccione el bloque con las nuevas imágenes a añadir;
 - Cuando la adición se guarda, el mensaje "`Algo salió mal. Por favor, inténtelo de nuevo.`" aparecerá en la esquina inferior derecha:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/error-algo-ha-ido-mal-por-favor-intentelo-de-nuevo-al-anadir-imagenes-a-traves-del-editor-de-sitios_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/97C4wewa6iz3f7bsmHtdnXu1H/?name=image.png)
 
 
 

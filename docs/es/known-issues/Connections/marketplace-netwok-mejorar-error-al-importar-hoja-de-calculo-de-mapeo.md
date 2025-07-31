@@ -32,7 +32,7 @@ Al intentar importar una hoja de cálculo, el usuario recibe un error genérico,
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/marketplace-netwok-mejorar-error-al-importar-hoja-de-calculo-de-mapeo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ocxWNQ2WYbzEeXm0E3mVqrXPu/?name=image.png)
 
 
 ##

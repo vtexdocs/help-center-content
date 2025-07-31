@@ -35,7 +35,7 @@ Al añadir un filtro en la interfaz de usuario de auditoría se produce un error
 - Añada un campo "Event Detail" a la aplicación "Site Editor".
 - Observe que la aplicación lanza un error `504 gateway Timeout` al intentar procesar los detalles `Something went wrong`.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/error-504-en-audit-ui-al-anadir-un-filtro-que-devuelve-caracteres-especiales_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/rK7X8AT7k1gH5uh71R9Mksvdd/?name=Captura+de+Tela+2024-12-16+a%CC%80s+15.53.33.png)
 
 
 

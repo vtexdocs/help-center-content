@@ -17,7 +17,7 @@ announcementSynopsisEN: 'We have launched a satisfaction survey page in the VTEX
 
 We have launched the new *Satisfaction Survey* page in the VTEX Admin. Now, you can rate our support service without leaving the VTEX environment.
 
-![Pesquisa de satisfação EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-01-13-rate-vtexs-service-in-your-admin_1.png)
+![Pesquisa de satisfação EN](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/eaadd736c6ce0d1b06e9f7cf2543f643/image__17_.png)
 
 ## What has changed?
 

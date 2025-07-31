@@ -48,7 +48,7 @@ Ilustramos a continuación los pasos a seguir con este mismo ejemplo:
 8. Haz clic en el ícono de engranaje <i class="fas fa-cog"></i> situado al lado del campo **Relationship** para configurarlo.
 9. En **Configuración de campo personalizado**, selecciona la entidad a la que deseas hacer referencia y el campo que se mostrará en la relación. En este ejemplo, la relación se realizará con la entidad **Cliente** y se mostrará el campo **email**.
 
-   ![Relación entidad Lista de Compras](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20applications/crear-relaciones-entre-entidades-de-master-data-utilizando-el-admin_1.png)
+   ![Relación entidad Lista de Compras](https://images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/e93299cbfa8d2f570345af87a0b783a9/Lista_Compras_Relacionamento_ES.png)
 
 10. Haz clic en el botón `Guardar` para guardar la configuración.
 11. Haz clic en el ícono de publicación <i class="fas fa-save"></i> para publicar la entidad.
@@ -93,5 +93,5 @@ Para hacerlo, es necesario agregar al formulario de la entidad el valor `{acroni
 
 Las relaciones se mantienen a través de los ID de los documentos. Así, cuando intentemos ingresar el valor del campo de relación como filtro en el formulario, solamente obtendremos los valores de los ID de los documentos referidos, y no los valores del campo seleccionado para cada documento. La imágen siguiente ilustra este resultado. Aprende más en el artículo [Filtrar datos en Master Data](/es/tutorial/filtrar-datos-en-el-master-data--tutorials_778).
 
-![Filtro relacionamento ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Master%20Data/Master%20Data%20v1%20applications/crear-relaciones-entre-entidades-de-master-data-utilizando-el-admin_2.png)
+![Filtro relacionamento ID](https://images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/a9e179027658143481e6a6f3444e24cd/Filtro_relacionamento_ID.png)
 

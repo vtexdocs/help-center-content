@@ -3,7 +3,7 @@ title: 'Pagos'
 id: category-payments
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Financial
 slugEN: category-payments
@@ -12,7 +12,6 @@ locale: es
 
 ## Visión de conjunto de Pagos
 
-- [¿Cómo se hace el cálculo del pago en plazos con interés compuesto?](https://help.vtex.com/es/docs/tutorials/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto)
 - [¿Cómo añadir el certificado PCI SSC a mi tienda?](https://help.vtex.com/es/docs/tutorials/como-anadir-el-certificado-pci-ssc-mi-tienda)
 - [Qué es el PCI SSC](https://help.vtex.com/es/docs/tutorials/que-es-el-pci-ssc)
 - [Tarjeta de crédito - Flujo básico de un pago](https://help.vtex.com/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago)
@@ -35,6 +34,9 @@ locale: es
 - [¿Qué es una transacción?](https://help.vtex.com/es/docs/tutorials/que-es-una-transaccion)
 - [¿Qué es 3D Secure?](https://help.vtex.com/es/docs/tutorials/que-es-3d-secure)
 - [Registrar información de BIN](https://help.vtex.com/es/docs/tutorials/registrar-informacion-de-bin)
+- [Reembolso de pagos](https://help.vtex.com/es/docs/tutorials/reembolso-de-pagos)
+- [Desarrollar un conector de pago para VTEX](https://help.vtex.com/es/docs/tutorials/desarrollar-un-conector-de-pago-para-vtex)
+- [¿Cómo funcionan las transacciones de verificación de cuenta? ](https://help.vtex.com/es/docs/tutorials/como-funcionan-las-transacciones-de-verificacion-de-cuenta)
 
 ## Transacciones
 
@@ -174,4 +176,7 @@ locale: es
 - [Configurar pago con Unlimit](https://help.vtex.com/es/docs/tutorials/configurar-pago-con-unlimit)
 - [Configurar pago con Malga](https://help.vtex.com/es/docs/tutorials/configurar-pago-con-malga)
 - [Crear promoción para pagos con PSE ](https://help.vtex.com/es/docs/tutorials/crear-promocion-para-pagos-con-pse)
+- [Configurar pago con PayPalCheckout](https://help.vtex.com/es/docs/tutorials/configurar-pago-con-paypalcheckout)
+- [Configurar pago con WorldpayVTEX](https://help.vtex.com/es/docs/tutorials/configurar-pago-con-worldpayvtex)
+- [Configurar pago con Cybersource LAC](https://help.vtex.com/es/docs/tutorials/configurar-pago-con-cybersource-lac)
 

@@ -34,7 +34,7 @@ Por ejemplo, al integrar nuestro catálogo en magalu, enviamos todo lo que tiene
 
 Ejemplo de especificación que se envía a Magalu
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/22vLwpFtB3XtuJPNFA2aDpqvf/?name=image.png)
 
 
 ## Workaround

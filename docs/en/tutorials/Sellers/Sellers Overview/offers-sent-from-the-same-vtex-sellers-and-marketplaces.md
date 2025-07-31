@@ -23,7 +23,7 @@ By default, the product that will be shipped from the seller must also be in [st
 
 The following image is an example in which Seller A sends a product to Marketplace A. Only after Marketplace A has added to its inventory the product sent by Seller A can the item be sent to Marketplace B.
 
-![erro-envio-skus-sellers-marketplaces-docnovo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Sellers%20Overview/offers-sent-from-the-same-vtex-sellers-and-marketplaces_1.JPG)
+![erro-envio-skus-sellers-marketplaces-docnovo](https://images.ctfassets.net/alneenqid6w5/3T528zwESuAVeiJXJWpFME/bb694301be01d46ac0d33ced3016da01/erro-envio-skus-sellers-marketplaces-docnovo.JPG)
 
 Marketplaces based on this business model have more advantages, as they are able to expand their product assortment in third-party sales channels, generating more sales opportunities.
 

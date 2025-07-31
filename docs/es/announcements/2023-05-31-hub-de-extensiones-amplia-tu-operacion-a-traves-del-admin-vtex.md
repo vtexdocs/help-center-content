@@ -17,7 +17,7 @@ announcementSynopsisES: 'La nueva sección del Admin VTEX para encontrar partner
 
 El Hub de extensiones es la nueva sección del Admin VTEX que reúne a desarrolladores, partners y administradores de las tiendas que desean ampliar las funcionalidades de su operación. A través del Hub de extensiones los partners pueden publicar sus extensiones y los administradores de las tiendas pueden verlas, comprarlas, instalarlas y gestionarlas. El Hub de extensiones estará disponible globalmente en todas las tiendas VTEX durante el tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes hacer la solicitud [abriendo un ticket con soporte](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
-![Extensions Hub GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-05-31-hub-de-extensiones-amplia-tu-operacion-a-traves-del-admin-vtex_1.gif)
+![Extensions Hub GIF](https://images.ctfassets.net/alneenqid6w5/2J9kCcwWYl36mQjphjpoOv/ebae6d6f5ef33a29f0037730c2a64cea/Extensions_Hub.gif)
 
 ## ¿Qué cambió?
 
@@ -49,7 +49,7 @@ El [sitio web Partner portal](https://partnerportal.vtex.com/) continuará exist
 
 El Hub de extensiones estará disponible para todas las tiendas a partir del tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes realizar la solicitud [abriendo un ticket a nuestro equipo de soporte](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM). A continuación, para empezar a utilizar el Hub de extensiones, solo tendrás que acceder a través del Admin de tu tienda. En el panel lateral izquierdo del Admin VTEX, haz clic en el ícono **Extensiones** y el Hub de extensiones estará visible en la parte superior del menú.
 
-![Extensions Hub panel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-05-31-hub-de-extensiones-amplia-tu-operacion-a-traves-del-admin-vtex_2.png)
+![Extensions Hub panel](https://images.ctfassets.net/alneenqid6w5/6agEF92xgLL9slUgOgnI8j/d20a9d4bf800eeaa2e6b952c312b0982/Extensions_Hub_panel_ES.png)
 
 ## ¿Por qué realizamos este cambio?
 

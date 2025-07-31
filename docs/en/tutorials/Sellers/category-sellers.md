@@ -3,7 +3,7 @@ title: 'Sellers'
 id: category-sellers
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-sellers
@@ -21,7 +21,6 @@ locale: en
 
 ## Management
 
-- [Configuring a marketplace between VTEX stores](https://help.vtex.com/en/docs/tutorials/configuring-the-marketplace-between-vtex-stores)
 - [Adding a seller](https://help.vtex.com/en/docs/tutorials/adding-a-seller)
 - [Seller Management ](https://help.vtex.com/en/docs/tutorials/seller-management)
 

@@ -29,7 +29,7 @@ Nuestras nuevas funcionalidades permiten a los _marketplaces_:
 
 Ve más allá del ecommerce tradicional con las [novedades de Marketplace de VTEX](https://content.vtex.com/es/2022-marketplace-release/?utm_source=announcement&utm_medium=organic&utm_campaign=2022_marketplace_release).
 
-![capa de blog marketplace 2022](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-10-17-releases-de-marketplace-vtex-en-2022_1.png)
+![capa de blog marketplace 2022](https://images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/20f7d7d151a3dbd76d0d69e5858510d0/capa_de_blog.png)
 
 ## ¿Qué estamos lanzando?
 
@@ -78,7 +78,7 @@ Obtén más información sobre cada característica a continuación.
 
 ### Seller Portal
 
-![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-10-17-releases-de-marketplace-vtex-en-2022_2.gif)
+![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/442d951b3a76c47f43249b3f544389be/Seller_Portal.gif)
 
 Seller Portal es una edición de la plataforma VTEX destinada a que los [sellers](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conecten y vendan sus productos en los _marketplaces_ hospedados en VTEX. Con el portal, los _sellers_ acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.
 
@@ -126,7 +126,7 @@ Para facilitar que los nuevos _sellers_ se unan al Seller Portal, también hemos
 
 ### Gestión de sellers
 
-![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-10-17-releases-de-marketplace-vtex-en-2022_3.gif)
+![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 Hemos lanzado la experiencia renovada de la página [Gestión de sellers](/es/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), donde los operadores de los _marketplaces_ [agregan sellers](/es/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registran su información respectiva y gestionan el status de cada _seller_.
 

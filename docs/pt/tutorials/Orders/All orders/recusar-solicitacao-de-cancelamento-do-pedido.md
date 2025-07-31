@@ -34,7 +34,7 @@ Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedid
 ## Diagrama de cancelamento de pedido recusado
 A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de um pedido após a janela para cancelamento:
 
-![order cancel diagram](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/recusar-solicitacao-de-cancelamento-do-pedido_1.png)
+![order cancel diagram](https://images.ctfassets.net/alneenqid6w5/6cGkrOT0G5sEeA3VaHKm4e/8f44049006390f2ef6a699cac00bd9d0/cancel_api_improvements_help_center_PT.png)
 
 Segue a descrição de cada etapa:
 
@@ -70,11 +70,11 @@ Para recusar uma solicitação de cancelamento do pedido pelo Admin VTEX, siga o
 2. Selecione o pedido desejado para acessar a página [Detalhes do pedido](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na parte superior da página, clique em Recusar. 
 
-  ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/recusar-solicitacao-de-cancelamento-do-pedido_2.png)
+  ![deny cancel request](https://images.ctfassets.net/alneenqid6w5/53kKd5oNkEjeziq9XR4yvO/04d25b8c3cf508d489ca53687d2187c7/deny_cancel_request_PT.png)
 
 4. Preencha o pop-up **Solicitação de cancelamento** com o motivo da recusa da solicitação de cancelamento do pedido.
 
-  ![deny_cancel_request_reason_PT_v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/recusar-solicitacao-de-cancelamento-do-pedido_3.png)
+  ![deny_cancel_request_reason_PT_v2](https://images.ctfassets.net/alneenqid6w5/2j1DgDKBaWJFMeVfuxfwYL/08eae24f54f83caa4d8449a3dd465d31/deny_cancel_request_reason_PT_v2.png)
 
   <div class="alert alert-warning">
 Lembre-se de que a mensagem contida nesse campo poderá ser exibida ao cliente pela <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha conta</a> ou enviada pelo marketplace.

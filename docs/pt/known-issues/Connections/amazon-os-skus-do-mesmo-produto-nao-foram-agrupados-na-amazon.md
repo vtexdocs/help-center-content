@@ -32,7 +32,7 @@ Isso não acontece com todos os SKUs.
 
 Catálogo VTEX
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zW9gC27dV1ymA8U5xinRWKc3s/?name=image.png)
 
 Aamazon
 

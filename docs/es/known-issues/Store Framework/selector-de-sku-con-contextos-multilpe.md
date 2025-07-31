@@ -26,10 +26,10 @@ internalReference: 341322
 
 El selector SKU dentro de la vista modal/rápida no está en el mismo contexto que está en la página de búsqueda y en la página de producto.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/selector-de-sku-con-contextos-multilpe_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zIQ15WW7s1Zo24Z1I5tFT4H3y/?name=image.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/selector-de-sku-con-contextos-multilpe_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/gnAeV75W2Sip3Pl1zfQyAiWOI/?name=image.png)
 
 
 ##

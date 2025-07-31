@@ -3,8 +3,8 @@ title: "Catalog Inativar o producttid usando a API não está inativando o SKU"
 id: 4RLMpCxYNtCz4WkAiwL8ws
 status: PUBLISHED
 createdAt: 2025-01-03T17:38:07.670Z
-updatedAt: 2025-07-17T19:33:18.513Z
-publishedAt: 2025-07-17T19:33:18.513Z
+updatedAt: 2025-07-24T17:43:05.083Z
+publishedAt: 2025-07-24T17:43:05.083Z
 firstPublishedAt: 2025-01-03T17:38:08.681Z
 contentType: knownIssue
 productTeam: Catalog

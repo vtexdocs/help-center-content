@@ -3,7 +3,7 @@ title: 'B2B'
 id: category-b2b
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: B2B
 slugEN: category-b2b
@@ -22,7 +22,6 @@ locale: pt
 ## Guias práticos
 
 - [Configurar loja B2B self-service](https://help.vtex.com/pt/docs/tutorials/configurar-loja-b2b-self-service)
-- [Facilitar a operação da loja B2B](https://help.vtex.com/pt/docs/tutorials/facilitar-a-operacao-da-loja-b2b)
 
 ## Organizações B2B
 

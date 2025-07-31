@@ -33,7 +33,7 @@ Es importante comprender estos conceptos porque el flujo de pedidos en el Market
 
 ## Flujo del pedido en el Marketplace
 
-![screenshoot fluxo marketplace ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/orders/flujo-del-pedido_1.JPG)
+![screenshoot fluxo marketplace ES](https://images.ctfassets.net/alneenqid6w5/2ehRbL33XqtPTTF8DoHtvT/49e8aad025ddba81b5f3d169a040d9f2/screenshoot_fluxo_marketplace_ES.JPG)
 
 Se produce cuando la tienda actúa solamente como Marketplace en el pedido. O sea, es cuando la tienda vende productos de otra tienda: su Seller.
 
@@ -47,7 +47,7 @@ El envío se autoriza y luego el pedido ingresa el status `Carencia para la canc
 
 ## Flujo del pedido en el Seller
 
-![screenshoot fluxo seller ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/orders/flujo-del-pedido_2.JPG)
+![screenshoot fluxo seller ES](https://images.ctfassets.net/alneenqid6w5/eEAFKk01PalVIOQFHrPUr/e10848ee747ff9c9334489d871fde01e/screenshoot_fluxo_seller_ES.JPG)
 
 Se produce cuando la tienda actúa como Seller. O sea, es entonces cuando ella posee el producto.
 
@@ -61,7 +61,7 @@ El siguiente status es `Preparando entrega`, cuando el Seller prepara la factura
 
 ## Flujo completo del pedido
 
-![screenshoot fluxo completo ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/orders/flujo-del-pedido_3.JPG)
+![screenshoot fluxo completo ES](https://images.ctfassets.net/alneenqid6w5/35UAHChmiqzGYFTsKDEnRI/ae60c51044ef99dab1c262fb73afc5ad/screenshoot_fluxo_completo_ES.JPG)
 
 Ocurre cuando la tienda es tanto Marketplace como Seller. Es decir, es cuando el pedido se cerró en la tienda y la tienda en sí es el propietario del producto, siendo responsable del fulfillment.
 

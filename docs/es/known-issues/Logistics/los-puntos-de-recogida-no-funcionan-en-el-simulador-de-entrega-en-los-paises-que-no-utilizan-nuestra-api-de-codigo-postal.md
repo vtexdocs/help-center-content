@@ -3,8 +3,8 @@ title: "Los puntos de recogida no funcionan en el simulador de entrega en los pa
 id: JvLW7e4qIyh7LHfYVBFOy
 status: PUBLISHED
 createdAt: 2025-07-18T19:46:50.343Z
-updatedAt: 2025-07-18T19:52:19.670Z
-publishedAt: 2025-07-18T19:52:19.670Z
+updatedAt: 2025-07-24T17:41:43.024Z
+publishedAt: 2025-07-24T17:41:43.024Z
 firstPublishedAt: 2025-07-18T19:46:51.332Z
 contentType: knownIssue
 productTeam: Logistics

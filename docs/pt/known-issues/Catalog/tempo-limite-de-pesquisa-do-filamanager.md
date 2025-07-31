@@ -25,7 +25,7 @@ internalReference: 1221279
 
 Atualmente, para contas com uma quantidade muito grande de arquivos em seu módulo de gerenciador de arquivos, a pesquisa pode ser carregada indefinidamente
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/tempo-limite-de-pesquisa-do-filamanager_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/cJyLsMn4XxD3u0zPpQst7lXSL/?name=image.png)
 
 ## Simulação
 

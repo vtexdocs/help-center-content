@@ -20,7 +20,7 @@ internalReference:
 
 On the List Types screen, when clicking on "See details" or "New List Type", it's not possible to create or change the List Type.
 
-![List Type Creation](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/creating-or-editing-list-type-does-not-work_1.png)
+![List Type Creation](//images.contentful.com/alneenqid6w5/3dmnyQDRyMc8guqw8m8EOc/b6192d84ade5e8990990d170ac4614d2/1.png)
 
 ## Simulation
 

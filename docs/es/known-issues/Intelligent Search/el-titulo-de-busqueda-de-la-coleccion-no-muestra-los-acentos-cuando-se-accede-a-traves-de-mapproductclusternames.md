@@ -32,7 +32,7 @@ Las páginas de colecciones a las que se accede a través de map=productClusterN
 
 Colección a la que se accede con ?map=productClusterNames:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/el-titulo-de-busqueda-de-la-coleccion-no-muestra-los-acentos-cuando-se-accede-a-traves-de-mapproductclusternames_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/mLfeFcf2Gafya3mXkII5fDBlm/?name=inline-1038161401.png)
 
 El nombre correcto de la colección puede verse en el título de la página, y el título de búsqueda lo muestra sin acentos. Este comportamiento también puede extenderse a otros caracteres especiales.
 

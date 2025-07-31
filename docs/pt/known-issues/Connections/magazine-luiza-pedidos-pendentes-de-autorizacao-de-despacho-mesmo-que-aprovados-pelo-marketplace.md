@@ -33,12 +33,12 @@ Descreva aqui quais são as etapas necessárias para reproduzir esse comportamen
 
 OMS
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Og610DmFNOXxq62mJ8Mi7KH0x/?name=image.png)
 
 
 Magazine Luiza
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dO1rwzcpoXTv5KSHqRk0ddHVv/?name=image.png)
 
 
 ## Workaround

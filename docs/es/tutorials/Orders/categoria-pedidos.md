@@ -3,7 +3,7 @@ title: 'Pedidos'
 id: category-orders
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: category-orders
@@ -52,6 +52,9 @@ locale: es
 - [Configuración de regla de Divergencia de precios](https://help.vtex.com/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores)
 - [Seguimiento de pedidos](https://help.vtex.com/es/docs/tutorials/seguimiento-de-pedidos)
 - [Denegar solicitud de cancelación del pedido](https://help.vtex.com/es/docs/tutorials/denegar-solicitud-de-cancelacion-del-pedido)
+- [Cómo modificar pedidos](https://help.vtex.com/es/docs/tutorials/como-modificar-pedidos)
+- [Adaptando tu integración para Modificar pedido](https://help.vtex.com/es/docs/tutorials/adaptando-tu-integracion-para-modificar-pedido)
+- [Cómo funciona Modificar pedido](https://help.vtex.com/es/docs/tutorials/como-funciona-modificar-pedido)
 
 ## Guía de Suscripciones
 
@@ -62,6 +65,8 @@ locale: es
 - [Cómo solucionar errores en pedidos de suscripción](https://help.vtex.com/es/docs/tutorials/como-solucionar-errores-en-pedidos-de-suscripcion)
 - [Correos electrónicos transaccionales para pedidos de suscripciones](https://help.vtex.com/es/docs/tutorials/correos-electronicos-transaccionales-para-pedidos-de-suscripciones)
 - [Puntos de recogida para pedidos de suscripción](https://help.vtex.com/es/docs/tutorials/puntos-de-recogida-para-pedidos-de-suscripcion)
+- [Suscripciones: FAQ](https://help.vtex.com/es/docs/tutorials/suscripciones-faq)
+- [Descripción del informe de suscripciones](https://help.vtex.com/es/docs/tutorials/descripcion-del-informe-de-suscripciones)
 
 ## Configuración de Gestión de Pedidos
 

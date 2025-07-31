@@ -3,8 +3,8 @@ title: "A classificação manual de coleções não funciona como esperado"
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z
-updatedAt: 2024-10-09T18:49:09.414Z
-publishedAt: 2024-10-09T18:49:09.414Z
+updatedAt: 2025-07-30T19:41:03.111Z
+publishedAt: 2025-07-30T19:41:03.111Z
 firstPublishedAt: 2017-10-03T19:58:57.335Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slugEN: a-classificacao-manual-de-colecoes-nao-funciona-como-esperado
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 295245
 ---
 
@@ -33,7 +33,7 @@ A classificação manual de coleções não funciona como esperado. Há duas man
 Em ambos os casos, o sistema suporta a classificação de até **30** SKUs da coleção. Quando a coleção tiver mais de 30 SKUs, todas as SKUs sobressalentes serão listadas ANTES daquelas posicionadas entre 1 e 30.
 
 
-> Esse comportamento é observado em todos os armazenamentos da VTEX, incluindo aqueles desenvolvidos com o VTEX IO.
+> Esse comportamento é observado em todos os armazenamentos da VTEX, incluindo os desenvolvidos com o VTEX IO.
 
 
 ## Simulação
@@ -58,5 +58,8 @@ Como solução alternativa, temos as seguintes opções:
 
 - Usar coleções com apenas 30 itens, se for essencial aplicar a classificação manual;
 - Use o campo Release Date (Data de lançamento), registre as datas na sequência desejada e use o campo para classificar a coleção.
+
+
+
 
 

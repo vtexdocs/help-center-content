@@ -22,7 +22,7 @@ internalReference: 525616
 
 Currently, when accessing the UI of the catalog page for saving specification values (https://myaccount.myvtex.com/admin/Site/CampoValor.aspx), the save button is only working when being clicked on twice, which might, for slower internet connections, mislead the user that the data is not being saved.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/campovalorformaspx-save-button-requires-two-clicks_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4GJaTvjIaioudlMMG1RKKIS0J/?name=inline-576344148.png)
 
 ​
 

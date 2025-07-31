@@ -3,7 +3,7 @@ title: 'Orders'
 id: category-orders
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: category-orders
@@ -52,6 +52,9 @@ locale: en
 - [Configuring Price Divergence rule](https://help.vtex.com/en/docs/tutorials/configuring-price-divergence-rule)
 - [​​Order tracking](https://help.vtex.com/en/docs/tutorials/order-tracking)
 - [Declining order cancellation](https://help.vtex.com/en/docs/tutorials/declining-order-cancellation)
+- [How to modify orders](https://help.vtex.com/en/docs/tutorials/how-to-modify-orders)
+- [Adapting your integration for Order modifications](https://help.vtex.com/en/docs/tutorials/adapting-your-integration-for-order-modifications)
+- [How Order modifications works](https://help.vtex.com/en/docs/tutorials/how-order-modification-works)
 
 ## Subscription Guides
 
@@ -62,6 +65,8 @@ locale: en
 - [Troubleshooting errors in subscription orders](https://help.vtex.com/en/docs/tutorials/troubleshooting-errors-in-subscription-orders)
 - [Transactional emails for subscriptions orders](https://help.vtex.com/en/docs/tutorials/transactional-emails-for-subscriptions-orders)
 - [Pickup points for subscription orders](https://help.vtex.com/en/docs/tutorials/pickup-points-for-subscription-orders)
+- [Subscriptions: FAQ](https://help.vtex.com/en/docs/tutorials/subscriptions-faq)
+- [Understanding the subscription report](https://help.vtex.com/en/docs/tutorials/understanding-the-subscription-report)
 
 ## Orders Management Settings
 

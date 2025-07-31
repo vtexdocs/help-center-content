@@ -21,7 +21,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 Na verdade, qualquer ação tomada no Full Clean Up fica registrada nessa página.
 
-![fullcleanupLog](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/como-ver-o-log-de-reindexacoes-do-catalogo_1.png)
+![fullcleanupLog](https://images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
 
 O log apresenta as seguintes informações para cada ação:
 - __Data__: data e horário da ação.

@@ -3,7 +3,7 @@ title: 'Master Data'
 id: category-master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: category-master-data
@@ -35,7 +35,7 @@ locale: es
 ## Aplicaciones de Master Data v1
 
 - [Exportación de datos de Master Data v1](https://help.vtex.com/es/docs/tutorials/exportacion-de-datos)
-- [Importar datos en el Master Data](https://help.vtex.com/es/docs/tutorials/importar-datos-en-el-master-data)
+- [Importar datos en Master Data v1](https://help.vtex.com/es/docs/tutorials/importar-datos-en-master-data-v1)
 - [Crear relaciones entre entidades en Master Data v1](https://help.vtex.com/es/docs/tutorials/crear-relaciones-entre-entidades-de-master-data-utilizando-el-admin)
 - [Crear consulta personalizada en Master Data v1](https://help.vtex.com/es/docs/tutorials/crear-consulta-personalizada-en-master-data-v1)
 - [Crear una aplicación en Master Data](https://help.vtex.com/es/docs/tutorials/creando-una-aplicacion-en-el-vtex-master-data)

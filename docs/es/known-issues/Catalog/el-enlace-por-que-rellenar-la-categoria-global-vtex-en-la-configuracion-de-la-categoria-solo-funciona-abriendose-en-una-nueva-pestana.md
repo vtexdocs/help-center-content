@@ -25,7 +25,7 @@ internalReference: 544034
 
 Enlace "¿Por qué llenar VTEX Categoría Global?" en la configuración de la categoría sólo funciona la apertura en una nueva pestaña. tratando de abrir con sólo hacer clic en el enlace se redirige a una página de error.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-abriendose-en-una-nueva-pestana_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Hhun8gyXHxWgk1qnUHWreWIBo/?name=image.png)
 
 
 ##

@@ -36,7 +36,7 @@ El orden de los releases programados se basa en la fecha de publicación: cuanto
 
 Para acceder a la página **Releases** en el Admin VTEX, dirígete al menú de navegación del **Releases**. La imagen a continuación muestra la interfaz e identifica qué puedes hacer en ella:
 
-![Releases list view v3 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Releases%20(Beta)/planner-pagina-de-releases-beta_1.png)
+![Releases list view v3 - ES](https://images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/94f9712e23df3f3e28c126acd4367d8f/Releases_list_view_v3_-_ES.png)
 
 | **Campo** | **Descripción** |
 |---|---|

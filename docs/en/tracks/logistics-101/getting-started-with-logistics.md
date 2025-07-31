@@ -56,7 +56,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 * **Settings**: General logistics settings, such as enabling critical stock notification.
 * **[Pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R)**: For listing physical locations where customers can pick up their orders.
 
-![estoque e entregaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/logistics-101/getting-started-with-logistics_1.png)
+![estoque e entregaEN](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/8286563b415555a4ab5e56cb8e6e290c/estoque_e_entregaEN.png)
 
 <div class = "alert alert-info"> Clients using <a href="https://vtex.com/us-en/">VTEX Shipping Network</a> can access this feature in the Inventory & shipping module.
 </div>

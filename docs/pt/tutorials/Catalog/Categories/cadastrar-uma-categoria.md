@@ -61,11 +61,11 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 - __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de exibição dos produtos:__ define como os SKUs serão exibidos na página do produto. Veja abaixo as opções de preenchimento deste campo:
   - __Lista de SKUs:__ todos os SKUs do departamento ou categoria em questão serão exibidos no formato de lista. Cada um com seu botão Comprar do lado.
-  ![1Lista.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Categories/cadastrar-uma-categoria_1.png)
+  ![1Lista.pt](https://images.ctfassets.net/alneenqid6w5/6mWjVoqS6SVTNngaDC2s0f/833590ef9a7ca23a80ca3064158eacf4/Lista.pt.png)
   - __Ícones de seleção de radio (radioBox):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de seleção de radio.
-  ![RadioBox.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Categories/cadastrar-uma-categoria_2.png)
+  ![RadioBox.pt](https://images.ctfassets.net/alneenqid6w5/6KPwMsYzYcdbLSaxuaXujO/da99f6ea4f3c41846d7370bd334e67d9/RadioBox.pt.png)
   - __Segue definição da especificação do SKU:__ todos os SKUs do departamento ou categoria em questão serão selecionados de acordo com a aba Especificação, no formulário de SKU. As opções pré-configuradas são Combo ou Radio.
-  ![Campos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Categories/cadastrar-uma-categoria_3.png)
+  ![Campos.pt](https://images.ctfassets.net/alneenqid6w5/U6fp5beQoHb9N8NFfbzJE/737de2d0a29e27ca99e8e3199e6cc4cd/Campos.pt.png)
 
 ### Saiba mais
 

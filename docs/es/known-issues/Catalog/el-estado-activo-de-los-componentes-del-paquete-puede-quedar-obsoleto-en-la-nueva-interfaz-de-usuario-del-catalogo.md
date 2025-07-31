@@ -25,7 +25,7 @@ internalReference: 1191983
 
 Actualmente, en la nueva versión de la interfaz de usuario del catálogo, cuando una SKU se crea como un paquete y tiene componentes, hay un listado de estado de cada componente para mostrar si está activo o no
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-estado-activo-de-los-componentes-del-paquete-puede-quedar-obsoleto-en-la-nueva-interfaz-de-usuario-del-catalogo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VFHwd92eJuxyRAtfRJeQmscou/?name=image.png)
 
 Sin embargo, si después de crear el kit dicho artículo se desactiva, la UI no lo actualiza en consecuencia.
 

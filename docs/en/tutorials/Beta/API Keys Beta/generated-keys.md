@@ -23,7 +23,7 @@ Internal API keys are credentials generated in and managed by your VTEX account.
 
 The **Generated** tab lists the API keys created by your account.
 
-![apikeys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Beta/API%20Keys%20Beta/generated-keys_1.png)
+![apikeys-en](https://images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/4dc24b7eb344a8b2828466a451995179/apikeys-en.png)
 
 The page displays the following information in a table:  
 

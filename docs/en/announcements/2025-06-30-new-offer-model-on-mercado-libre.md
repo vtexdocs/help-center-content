@@ -3,8 +3,8 @@ title: 'New offer model on Mercado Libre'
 id: 3g7c72gcJk6WvKXNGfPTkb
 status: PUBLISHED
 createdAt: 2025-06-30T16:52:13.856Z
-updatedAt: 2025-06-30T18:56:14.397Z
-publishedAt: 2025-06-30T18:56:14.397Z
+updatedAt: 2025-07-24T17:00:22.767Z
+publishedAt: 2025-07-24T17:00:22.767Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
@@ -23,16 +23,16 @@ The [integration with Mercado Libre](/en/tracks/configurar-integracao-do-mercado
 
 In the previous model, offers were created in the marketplace when sellers sent products through their store's integration with Mercado Libre. All SKUs of a product were linked to the same offer, without the option to separate attributes like price, stock origin, shipping type, or discounts individually.  
 
-![uptin1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-06-30-new-offer-model-on-mercado-libre_1.jpg)
+![uptin1](https://images.ctfassets.net/alneenqid6w5/5y6Mxe9VrAaCzO6ElXjM3O/62a0f18353b6a4d675014019c1b41170/uptin1.jpg)
 
 In the new model, offers are created by sending SKUs to the marketplace. To group the SKUs of a product, **Mercado Libre** automatically identifies their similar characteristics and creates a set called **Family**.  
 
 So, when creating a new offer, Mercado Libre will use the SKU attributes such as size and color to group them into a **Family**.  
 
-![uptin-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025-06-30-new-offer-model-on-mercado-libre_2.png)
+![uptin-en](https://images.ctfassets.net/alneenqid6w5/2H22mnrFOUx0Cfes1OFBzI/1dfa3d94ce90528c61c740b8798b3663/uptin-en.png)
 
 ## What needs to be done?
-Accounts already integrated with Mercado Libre will be migrated automatically.
+Accounts already integrated with Mercado Libre will be migrated automatically. This advertising model is only available through Mercado Libre.
 
 To migrate existing offers to the new model, sellers must:
 

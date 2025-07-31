@@ -3,8 +3,8 @@ title: 'Adding or editing SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-04-15T15:17:18.932Z
-publishedAt: 2025-04-15T15:17:18.932Z
+updatedAt: 2025-07-28T22:21:13.931Z
+publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: adding-skus-beta
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-The [Products and SKUs](/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+The [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
 
 Every new SKU must be linked to a product. Once the product is created, follow the steps below to add a new SKU:
 
@@ -50,7 +50,7 @@ You can deactivate a SKU after creating it, but you can't delete a single SKU. T
 
 After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Products%20and%20SKUs/adding-or-editing-skus_1.png)
+![adding_or_editting_sku_EN](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/aca29dd7ec61b60ebb321b68444ea1dc/adding_or_editting_sku_EN.png)
 
 Additionally, once the SKU is created, you can include it in a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
 
@@ -97,8 +97,14 @@ The table below shows the size limits and formats accepted for each image:
 | **File size and format** | **Description** |
 | :--- | :--- |
 | Maximum size in pixels | 5,000 x 5,000 pixels |
+| Minimum size in pixels | 600 x 600 pixels |
 | Maximum size in MB | 4 MB |
+| Minimum size in KB | 300 KB |
 | Allowed file extensions | <p><ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul></p> |
+
+<div class = "alert alert-info">
+  <p>For more recommendations, check the article <a href="https://help.vtex.com/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk">Best practices for using images in the Catalog</a>.</p>
+</div>
 
 After uploading an image, you can edit its metadata by following the steps below: 
 
@@ -183,6 +189,10 @@ The following fields define how the SKU will be organized and counted in the [wa
 
 * **Unit of measure:** Identifies the unit of measure used to count items in stock.
 * **Unit multiplier:** Numeric value by which the SKU will be multiplied to determine its quantity in the cart. For example, a multiplier of 5 means that each SKU represents 5 units in the cart, allowing purchases only in multiples of 5, such as 10 or 15 units. Fractional values can be separated by either a period or a comma. For example, 0.5 or 0,5 for half a kilogram.
+
+<div class="alert alert-warning">
+  <p>The value in the unit multiplier field has no impact on inventory and logistics calculations.</p>
+</div>
 
 ## Commercial strategy
 

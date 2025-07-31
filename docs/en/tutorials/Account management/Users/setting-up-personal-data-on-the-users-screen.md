@@ -21,18 +21,18 @@ To access it, follow the steps below:
 
 1. In the top bar of the Admin, in the right corner, click on the button with your initials;
 2. Select the __User Settings__ option.  
-![User Settings option User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_1.png)
+![User Settings option User Management EN](https://images.ctfassets.net/alneenqid6w5/t0xviJchq6iWQbtJc1OAX/f3e6f932c1db9f19103b8e0f4679e557/Op____o_Configura____es_de_usu__rio_User_Management_EN.png)
 
 There are two menu options:
 
 - In __Personal__, you can see your name, your e-mail that is used in the Admin, and you can also edit your phone number.  
-![Personal Configuration User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_2.png)
+![Personal Configuration User Management EN](https://images.ctfassets.net/alneenqid6w5/2iCA8XwoUatxRcW1WWQuwo/977702361ea9b9eab8b64e5bd7136e75/Configura____o_Pessoal_User_Management_EN.png)
 - In __Name__, you can edit your first and last name.  
-  ![Configuração Nome User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_3.png)
+  ![Configuração Nome User Management EN](https://images.ctfassets.net/alneenqid6w5/3rW547lV2D4sMVEiESj9uZ/7a96df88e5d4eda5f1059efb854e7e89/Configura____o_Nome_User_Management_EN.png)
 In __Mobile number__, you can edit your cell phone number with the country code.  
-  ![Configuração Celular User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_4.png)
+  ![Configuração Celular User Management EN](https://images.ctfassets.net/alneenqid6w5/7i4UTwnhDRataNtaPzEpUw/87437ca6668c91e16964aeb519575f03/Configura____o_Celular_User_Management_EN.png)
 - In __Authentication__, you can find the password options, 2-factor authentication (2FA) for your VTEX Admin login and session management. See the options in detail below.  
-![Configuration User Management Authentication EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_5.png)
+![Configuration User Management Authentication EN](https://images.ctfassets.net/alneenqid6w5/hqW76p2oJaFT3EDHDzzbA/1fd6875c57e30b7b6957e306a3426b30/Configura____o_Autentica____o_User_Management_EN.png)
 
 ## 2-step verification
 
@@ -50,4 +50,4 @@ Here you must configure the application that will provide the authentication key
 
 See in detail how to configure the application in the article on [Enabling two-factor authentication login](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
 
-![Configuration 2-step User Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Users/setting-up-personal-data-on-the-users-screen_6.png)
+![Configuration 2-step User Management EN](https://images.ctfassets.net/alneenqid6w5/6sAdQOMRYWiXa9gmHo4lsv/6882baabe4044696de7b6016c0397b07/Configura____o_Verifica____o_em_2_passos_User_Management_EN.png)

@@ -3,7 +3,7 @@ title: 'Pagamentos'
 id: category-payments
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Financial
 slugEN: category-payments
@@ -12,7 +12,6 @@ locale: pt
 
 ## Visão geral de Pagamentos
 
-- [Como é feito o cálculo do parcelado com juros compostos?](https://help.vtex.com/pt/docs/tutorials/como-e-feito-o-calculo-do-parcelado-com-juros-compostos)
 - [Como adicionar o selo PCI SSC à minha loja?](https://help.vtex.com/pt/docs/tutorials/como-adicionar-o-selo-pci-ssc-a-minha-loja)
 - [O que é o PCI SSC](https://help.vtex.com/pt/docs/tutorials/o-que-e-o-pci-ssc)
 - [Cartão de crédito - Fluxo básico de um pagamento](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento)
@@ -35,6 +34,9 @@ locale: pt
 - [O que é uma transação?](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-transacao)
 - [O que é 3D Secure?](https://help.vtex.com/pt/docs/tutorials/o-que-e-3d-secure)
 - [Cadastrar informações de BINs](https://help.vtex.com/pt/docs/tutorials/cadastrar-informacoes-de-bins)
+- [Reembolso de pagamentos](https://help.vtex.com/pt/docs/tutorials/reembolso-de-pagamentos)
+- [Desenvolvendo um conector de pagamento para a VTEX](https://help.vtex.com/pt/docs/tutorials/desenvolvendo-um-conector-de-pagamento-para-a-vtex)
+- [Como funcionam as transações de verificação de conta?](https://help.vtex.com/pt/docs/tutorials/como-funcionam-as-transacoes-de-verificacao-de-conta)
 
 ## Transações
 
@@ -174,4 +176,7 @@ locale: pt
 - [Configurar pagamento com Unlimit](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-unlimit)
 - [Configurar pagamento com Malga](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-malga)
 - [Criar promoção para pagamentos com o PSE](https://help.vtex.com/pt/docs/tutorials/criar-promocao-para-pagamentos-com-o-pse)
+- [Configurar pagamento com PayPalCheckout](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-paypalcheckout)
+- [Configurar pagamento com WorldpayVTEX](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-worldpayvtex)
+- [Configurar pagamento com Cybersource LAC](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-cybersource-lac)
 

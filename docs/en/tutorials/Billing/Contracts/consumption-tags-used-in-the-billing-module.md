@@ -79,7 +79,7 @@ When the store acts as both a marketplace and a seller, the order is tagged as <
 
 The image below shows how the order is tagged based on its origin, both for the marketplace and the seller:
 
-![marcacao_pedidos_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Contracts/consumption-tags-used-in-the-billing-module_1.png)
+![marcacao_pedidos_EN](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/98b2b9314b3be0ce4f5bb74b9caf9157/marcacao_pedidos_EN.png)
 
 <div class="alert alert-warning">
 Due to commercial agreements, VTEX grants a type of certification to certain channels. When an order is generated in a channel that does not have this level of certification, there are no consumption tags by origin, and the order is tagged as <code>IsB2C</code>. In other words, only certified channels have consumption tags by origin.

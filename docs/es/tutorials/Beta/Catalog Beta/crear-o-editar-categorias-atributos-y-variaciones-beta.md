@@ -61,7 +61,7 @@ En la fase beta utilizaremos una nueva nomenclatura para los siguientes término
 
 Al acceder a **Catálogo > Categorías** en el Admin VTEX, la vista predeterminada muestra la interfaz **Categorías** y **Atributos**, según se ilustra a continuación:
 
-![category_attributes_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Catalog%20Beta/crear-o-editar-categorias-atributos-y-variaciones-beta_1.png)
+![category_attributes_ES](https://images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/d5497da7c2bee3fd9a5c34b7cdbce6e1/category_attributes_ES.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -82,7 +82,7 @@ A continuación se describe la información que se muestra y las acciones que se
 
 Al seleccionar la vista de **Variaciones** se muestra la siguiente interfaz:
 
-![category_variations_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Catalog%20Beta/crear-o-editar-categorias-atributos-y-variaciones-beta_2.png)
+![category_variations_ES](https://images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/e0e4e79075fdccd3ebe5fd8005aee83a/category_variations_ES.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -218,7 +218,7 @@ Un grupo de atributos creado en la categoría principal es obligatorio en todas 
 
 En la interfaz **Atributos**, los grupos y atributos heredados se indican mediante un ícono de compartir a la izquierda del nombre, como se ilustra a continuación:
 
-![inherited_atribute_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Beta/Catalog%20Beta/crear-o-editar-categorias-atributos-y-variaciones-beta_3.png)
+![inherited_atribute_ES](https://images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/918167c8ae9d6bb306b1f9b49e24c5cd/inherited_atribute_ES.png)
 
 <div class = "alert alert-info">
   <p>Para más información sobre status de los atributos, consulta la sección <a href="#ver-status-de-activacion-de-atributos-y-sus-valores">Ver status de activación de atributos y sus valores</a>.</p>

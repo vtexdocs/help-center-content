@@ -3,8 +3,8 @@ title: "La clasificación manual de colecciones no funciona como se esperaba"
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z
-updatedAt: 2024-10-09T18:49:09.414Z
-publishedAt: 2024-10-09T18:49:09.414Z
+updatedAt: 2025-07-30T19:41:03.111Z
+publishedAt: 2025-07-30T19:41:03.111Z
 firstPublishedAt: 2017-10-03T19:58:57.335Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slugEN: la-clasificacion-manual-de-colecciones-no-funciona-como-se-esperaba
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 295245
 ---
 
@@ -28,7 +28,7 @@ La ordenación manual de colecciones no funciona como se esperaba. Hay dos maner
 
 
 1. Utilizando la colección de tipo de control ContentPlaceHolder;
-2. Utilizando una búsqueda o contexto de búsqueda de una Landing Page con el control SearchResult (en este caso, se debe utilizar la cadena de consulta _O=productClusterOrder_{ProductClusterId}%20asc_).
+2. Utilizando un contexto de búsqueda o búsqueda de una Landing Page con el control SearchResult (en este caso, se debe utilizar la cadena de consulta _O=productClusterOrder_{ProductClusterId}%20asc_).
 
 En ambos casos, el sistema permite ordenar hasta **30** SKUs de la colección. Cuando la colección tenga más de 30 SKUs, todos los SKUs sobrantes se listarán ANTES de los posicionados entre 1 y 30.
 
@@ -63,5 +63,8 @@ Como solución, tenemos las siguientes opciones:
 
 - Utilizar colecciones con sólo 30 elementos, si es imprescindible aplicar una ordenación manual;
 - Utilice el campo Fecha de publicación, registre las fechas en la secuencia deseada y utilice el campo para ordenar la colección.
+
+
+
 
 

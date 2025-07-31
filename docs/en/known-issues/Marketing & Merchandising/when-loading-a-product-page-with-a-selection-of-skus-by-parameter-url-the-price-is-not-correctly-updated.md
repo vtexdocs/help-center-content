@@ -22,7 +22,7 @@ When you access a product page with a change (more than one SKU) with the querys
 
 However if the SKU selected (from the parameter) is unavailable (out of stock / not deliverable), when the user selects another available SKU in the SKU selector, price details are not shown.
 
-![Price not updated on selection of SKU](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/when-loading-a-product-page-with-a-selection-of-skus-by-parameter-url-the-price-is-not-correctly-updated_1.gif)
+![Price not updated on selection of SKU](//images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
 
 ## Simulation
 

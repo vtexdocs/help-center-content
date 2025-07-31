@@ -38,7 +38,7 @@ Esto se debe a los límites de solicitud de MELI. Investigaremos más a fondo c�
 
 Dentro del menú "Mercado Livre" - "Promociones", a veces puede ocurrir que tengamos el siguiente error:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/error-en-la-interfaz-de-usuario-de-meli-promotions_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nTFCikj9ovOIsLA0QqkjuAwkU/?name=image.png)
 
 
 

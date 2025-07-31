@@ -21,19 +21,19 @@ O aplicativo Live Shopping permite que as empresas interajam com seus clientes e
 O Live Shopping é um aplicativo pago com diferentes planos de assinatura: <b>Lite</b>, <b>Standard</b> e <b>Pro</b>. O custo da assinatura depende do plano escolhido, cada um com um número específico de minutos mensais de transmissão ao vivo. Para mais informações sobre os planos e preços, consulte a página do <a href="https://apps.vtex.com/liveshopping/p">Live Shopping App Store</a>.
 </div>
 
-![live-shopping-web](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Live%20Shopping/live-shopping_1.png)
+![live-shopping-web](https://images.ctfassets.net/alneenqid6w5/9DC391PJ2C44ICxFvEjvY/32720fee1cc3df1d7f616e44cf54b9a3/image.png)
 
-![live-shopping-mobile](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Live%20Shopping/live-shopping_2.png)
+![live-shopping-mobile](https://images.ctfassets.net/alneenqid6w5/3gCjMl6VhGCe4Y2wQR3D7c/c147cf86fedcd3c32594ad02079b9c76/image.png)
 
 Depois de ter [instalado o aplicativo VTEX Live Shopping](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#installation), você poderá acessar vários recursos e configurações para gerenciar seus eventos ao vivo.
 
 No Admin VTEX, acesse **Aplicativos** > **Live Shopping** > **Eventos**. Na página **Eventos**, você terá acesso às seguintes seções:
 
 * **Eventos**: esta seção permite criar, gerenciar e acessar informações detalhadas sobre os eventos. Nela, você poderá configurar novos eventos, acessar o estúdio de transmissão ao vivo e visualizar informações do evento. Para mais informações, consulte a seção [Criar e gerenciar eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
-  ![ls-event](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Live%20Shopping/live-shopping_3.png)
+  ![ls-event](https://images.ctfassets.net/alneenqid6w5/242KPuoLOiKutLpmsqJgGM/7351903234588e3a21bad8b027e0fa2f/image.png)
 * **Uso**: esta seção permite que você acompanhe as informações de uso do seu plano. Você pode monitorar a quantidade de minutos de eventos ao vivo disponíveis, as gravações de vídeo baixadas e os eventos que excederam o limite de espectadores.
 
-![ls-usage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Live%20Shopping/live-shopping_4.png)
+![ls-usage](https://images.ctfassets.net/alneenqid6w5/3YjhgJu7uZk6P1eCEsm8T7/07eacdec18200bffe54bf824713c9961/image.png)
 
 <div class="alert alert-warning">
   Os detalhes de uso dependem do plano escolhido: <b>Lite</b>, <b>Standard</b> ou <b>Pro</b>. Todos os detalhes de pagamento são fornecidos no momento da instalação.

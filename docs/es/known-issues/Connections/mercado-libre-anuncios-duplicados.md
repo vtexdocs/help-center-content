@@ -32,7 +32,7 @@ Algunos anuncios se están duplicando en el mercado después de haber sido aprob
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-libre-anuncios-duplicados_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/m27u7nHLy02jvAIsO3B8yL3my/?name=image.png)
 
 
 ##

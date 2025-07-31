@@ -91,7 +91,7 @@ Há casos em que conectores podem ser construídos para atender alguma solução
 ### 3. Homologação do Payment Provider
 Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store"). 
 
-![ppp-vtex-store-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_1.png)
+![ppp-vtex-store-pt](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/d4ba38eb2aed1c4a4072cddbc2b4decf/image.png)
 
 <div class="alert alert-warning">
 Para passar no processo de homologação, é necessário implementar uma lógica específica para lidar com os requisitos do teste. Nas requisições enviadas ao Test Suite, utilize o header extra <code>X-VTEX-API-Is-TestSuite = true</code> para identificá-las e mascarar qualquer cenário exigido.<br>Toda comunicação com servidores, seja durante o processo de homologação ou em produção, deve ocorrer via HTTPS, que por padrão utiliza a porta 443. É importante lembrar que toda comunicação HTTPS deve ser exclusivamente sobre TLS 1.2.
@@ -120,7 +120,7 @@ Após preeencher o campo Service URL, o Test Suite irá validar o [endpoint Mani
 
 Nessa seção, você deve selecionar os casos que deseja testar. Se você está testando um método de cartão de crédito, a sua integração deve passar nos casos Approved, Denied, Cancellation, Async Approved e Async Denied. Para um método de pagamento com [redirecionamento](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows#redirect), apenas o Redirect flow é necessário.
 
-![ppp-config-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_2.png)
+![ppp-config-pt](https://images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/e41bf6da622195968fe1f91bad8f3b75/image.png)
 
 ### 4. Testes
 
@@ -150,18 +150,18 @@ Para identificar como responder corretamente a cada um dos testes com cartão de
 ### 5. Resultados
 Após executar os testes, o sistema irá mostrar o Test Report, onde você pode ver os resultados detalhados de cada caso de teste. Desse modo, você tem mais visibilidade sobre o que deve ser ajustado caso ocorra algum erro.
 
-![Payment Provider Test Suite 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_3.png)
+![Payment Provider Test Suite 2](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/9ecdf0551940ee02ed6bd21b3b86420e/image.png)
 
 Para ver as mensagens transmitidas entre o Test Suite e a implementação do seu provedor de pagamento, clique no botão Inspect Log do caso de teste desejado. Um modal irá se abrir para mostrar a lista de mensagem transmitidas e o payload de cada requisição e resposta. O botão no canto superior direito da seção de código facilita a cópia do código para a área de transferência.
 
-![Payment Provider Test Suite Logs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_4.png)
+![Payment Provider Test Suite Logs](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/369d86cffea42dfbe842d037bfdd065e/image.png)
 
 ## Fluxo do protocolo de pagamento
 Aqui vamos explicar o fluxo de pagamento integrado em detalhes. A imagem abaixo ilustra todo o fluxo, mostrando o fluxo de um pagamento e as responsabilidades do seu fornecedor.
 
 Tudo começa com a solicitação de um novo pagamento, após a criação de um novo pedido. A VTEX cria uma nova representação do pagamento e avança para o processamento dos pagamentos.
 
-![fluxo-atualizado-ppp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_5.png)
+![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 <div class="alert alert-info">
   O período padrão de 7 dias para novas tentativas de pagamento assíncronas só é aplicado quando o usuário não especifica um valor no campo <code>delayToCancel</code> do endpoint <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a> ou ao enviar o callbackURL.</div>
@@ -181,7 +181,7 @@ Seja qual for o caso, uma vez que o processamento termine e o provedor tenha um 
 
 O fluxo completo com status undefined e uso de notificação pode ser visto abaixo:
 
-![Payment authorization callback notification flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_6.png)
+![Payment authorization callback notification flow](https://images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/90500ae3bc824ff831193cf7cdf59c64/image1.png)
 
 1. A autorização do pagamento é iniciada quando o Gateway chama o endpoint Create Payment (__/payment__) para o Provider. No body do request, é enviado no campo `callbackUrl` a URL para fazer a notificação.
 2. O pagamento ocorre de forma assíncrona (não gera o status definitivo no momento em que a transação é iniciada). Então o Gateway recebe a resposta com status __undefined__ e fica esperando a conclusão do processamento do pagamento e, por fim, atualizar com o status definitivo (__approved__ ou __denied__).
@@ -190,7 +190,7 @@ O fluxo completo com status undefined e uso de notificação pode ser visto abai
 
 O fluxo completo com status __undefined__ e uso do __retry__ pode ser visto abaixo:
 
-![Payment authorization callback retry flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payments%20overview/payment-provider-protocol_7.png)
+![Payment authorization callback retry flow](https://images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/66f6fe3be218a9fe6e2584e75bb18640/image2.png)
 
 1. A autorização do pagamento é iniciada quando o Gateway chama o endpoint Create Payment (__/payment__) para o Provider. No body do request, é enviado no campo `callbackUrl` a URL do endpoint __retry__.
 2. O pagamento ocorre de forma assíncrona (não gera o status definitivo no momento em que a transação é iniciada). Então o Gateway recebe a resposta com status __undefined__ e fica esperando a conclusão do processamento do pagamento e, por fim, atualizar com o status definitivo (__approved__ ou __denied__).

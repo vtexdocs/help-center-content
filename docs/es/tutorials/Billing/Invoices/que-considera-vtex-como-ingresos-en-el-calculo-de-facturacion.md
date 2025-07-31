@@ -27,7 +27,7 @@ Para saber cómo acceder a los pedidos que se consideraron en el cálculo de los
 
 Para facilitar su visualización, todos los pedidos aprobados financieramente estarán marcados de esta forma, que se puede ver en el módulo de gestión de pedidos. 
 
-![image (4)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Invoices/que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion_1.png)
+![image (4)](https://images.ctfassets.net/alneenqid6w5/6HOwNB7DXzMr3pCPmeZkGS/4088a657730d190f8e4e2388295fd827/image__4_.png)
 
 Para acceder al módulo, realice el siguiente procedimiento:
 

@@ -3,7 +3,7 @@ title: 'Payments'
 id: category-payments
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Financial
 slugEN: category-payments
@@ -12,7 +12,6 @@ locale: en
 
 ## Payments overview
 
-- [How do you calculate payments in installments with compound interest?](https://help.vtex.com/en/docs/tutorials/how-do-you-calculate-payments-in-installments-with-compound-interest)
 - [How do I add the PCI SSC certificate to my store?](https://help.vtex.com/en/docs/tutorials/how-do-i-add-the-pci-ssc-certificate)
 - [What is the PCI SSC](https://help.vtex.com/en/docs/tutorials/what-is-the-pci-ssc)
 - [Credit Card - Basic payment flow ](https://help.vtex.com/en/docs/tutorials/credit-card-basic-payment-flow)
@@ -35,6 +34,9 @@ locale: en
 - [What is a transaction?](https://help.vtex.com/en/docs/tutorials/what-is-a-transaction)
 - [What is 3D Secure?](https://help.vtex.com/en/docs/tutorials/what-is-3d-secure)
 - [Adding BIN information](https://help.vtex.com/en/docs/tutorials/adding-bin-information)
+- [Payment refunds](https://help.vtex.com/en/docs/tutorials/payment-refunds)
+- [Developing a payment connector for VTEX](https://help.vtex.com/en/docs/tutorials/developing-a-payment-connector-for-vtex)
+- [How do account verification transactions work?](https://help.vtex.com/en/docs/tutorials/how-do-account-verification-transactions-work)
 
 ## Transactions
 
@@ -174,4 +176,7 @@ locale: en
 - [Setting up payments with Unlimit](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-unlimit)
 - [Setting up payments with Malga](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-malga)
 - [Creating promotions for PSE payments](https://help.vtex.com/en/docs/tutorials/creating-promotions-for-pse-payments)
+- [Setting up payments with PayPalCheckout](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-paypalcheckout)
+- [Setting up payments with WorldpayVTEX](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-worldpayvtex)
+- [Setting up payments with Cybersource LAC](https://help.vtex.com/en/docs/tutorials/setting-up-payments-with-cybersource-lac)
 

@@ -20,13 +20,13 @@ internalReference: 1118712
 
 
 When searching for a pickup point in Logistics, the following error may occur:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tGzdaXqZCHcgtcGaPagLU0yZu/?name=image.png)
 
     An error occurred while loading the pickup points. Please reload the page.
 
 
 Also in this same scenario, there is an impact on the webstore, which uses the Store Locator app to list its stores, then the list of stores will not be shown:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Dv85rVttxoEMwVXMsMmTxWoI1/?name=image.png)
 
 
 ##
@@ -54,8 +54,8 @@ Also in this same scenario, there is an impact on the webstore, which uses the S
 
 As it occurs intermittently, you can try again in a few moments.
 You can also list all the pickup stores (from Logistics API), find it in the response, and then identify its **id**. Then add the id to the admin URL. For up to 1000 PUPs, you can use the "List pickup points" API. Above this number, use the "List paged pickup points" API (remembering to browse the pages):
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator_3.png)
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Storage/error-when-searching-for-pickup-points-and-listing-stores-in-the-store-locator_4.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/EfD2BHKtWRI9FMXxDp8ne0Y0Y/?name=image.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/FlXGbHMAa5B0jvIioHRPRsw0S/?name=image.png)
 
 
 

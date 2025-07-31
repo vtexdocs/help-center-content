@@ -44,7 +44,7 @@ Los datos en sí no se guardan.
 
 2 - Intente añadir múltiples valores a través de un salto de línea, como en el siguiente ejemplo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-insercion-de-multiples-valores-de-especificacion-no-funciona-en-el-catalogo-heredado_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6pVnoX8kHuMUq0fXp571JIBtZ/?name=image.png)
 
 3 - No podrá hacerlo y se mostrará un mensaje "Pruebe este consejo".
 

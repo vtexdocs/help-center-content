@@ -29,7 +29,7 @@ Cuando el usuario intenta seleccionar un valor, a veces se selecciona la entrada
 
 Por ejemplo, tiene 2 opciones, color y tamaño. Al hacer clic en el color, que, a veces, tiene el tamaño seleccionado en su lugar:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/el-desplegable-de-seleccion-de-especificaciones-del-portal-del-vendedor-no-funciona-correctamente_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PpTFjmsH4i975D0uQSLD7WmkO/?name=image.png)
 
 
 ##

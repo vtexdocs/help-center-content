@@ -23,10 +23,10 @@ In this article we will show how the system works in these cases.
 
 **Scenario 1**: My ERP sends the price including VAT to VTEX, so I do not need to calculate it.
 
-1. Category page![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_1.png)
-2. Product page![PRODUCTOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_2.png)
-3. Shopping cart![CARRITOSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_3.png)
-4. Checkout![CHECKOUTSINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_4.png)
+1. Category page![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/jdugsMibXU6SO6momcYka/ecfb35f914fe9bbdc137ef5a5e932da4/1_cat.png)
+2. Product page![PRODUCTOSINIVA](https://images.ctfassets.net/alneenqid6w5/hoE9OYL65aaiaqyuUssAI/cdc7633cc4eb4ac2c4ea033e2e0e25c5/2_prod.png)
+3. Shopping cart![CARRITOSINIVA](https://images.ctfassets.net/alneenqid6w5/xX5Coy1UVUc0weEoY4Gik/c7131a671b35316aba28aaf7e8bbbb75/3_cart.png)
+4. Checkout![CHECKOUTSINIVA](https://images.ctfassets.net/alneenqid6w5/5QoFlwnTGg0WG86a6ekYu4/20de3c81acb0967787aaa10565e13d2f/4_check.png)
 
 **Scenario 2**: My ERP sends the price *without* VAT to VTEX.
 
@@ -38,7 +38,7 @@ Then to create a JS and add the amount of tax in the store window, you can also 
 
 __Attention__: On the product page you have to enter a JavaScript to add the values.
 
-1. Category page![CATEGORIASINIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_5.png)
-2. Product page![PRODUCTOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_6.png)
-3. Shopping cart![CARRITOCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_7.png)
-4. Checkout![CHECKOUTCONIVA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Taxes/send-item-price-with-tax-shown-separately_8.png)
+1. Category page![CATEGORIASINIVA](https://images.ctfassets.net/alneenqid6w5/jdugsMibXU6SO6momcYka/ecfb35f914fe9bbdc137ef5a5e932da4/1_cat.png)
+2. Product page![PRODUCTOCONIVA](https://images.ctfassets.net/alneenqid6w5/hoE9OYL65aaiaqyuUssAI/cdc7633cc4eb4ac2c4ea033e2e0e25c5/2_prod.png)
+3. Shopping cart![CARRITOCONIVA](https://images.ctfassets.net/alneenqid6w5/2cVDEuAgwoMYOSegQeQUiO/1b2666371b65289bb3956029b2911742/3a_cart.png)
+4. Checkout![CHECKOUTCONIVA](https://images.ctfassets.net/alneenqid6w5/6G4BksRmNO4giagOGga8Sq/7a3c7dd3426abc549ea6b61284a14fe0/4a_check.png)

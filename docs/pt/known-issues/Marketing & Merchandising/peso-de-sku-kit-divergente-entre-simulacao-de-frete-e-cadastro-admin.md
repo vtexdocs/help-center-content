@@ -20,7 +20,7 @@ internalReference:
 
 Um SKU KIT deve ter como peso a soma dos pesos de seus componentes. Quando um KIT está sendo montado, o sistema deveria incrementar o peso de cada componente ao peso do KIT porém, isso apenas está acontecendo quando o KIT (Pai) é editado e atualizado. O principal impacto é na simulação de frete, já que na maioria das vezes o KIT fica com um peso bem superior ao real.
 
-![simulacao de entrega](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/peso-de-sku-kit-divergente-entre-simulacao-de-frete-e-cadastro-admin_1.png)
+![simulacao de entrega](//images.contentful.com/alneenqid6w5/3nD8BM0a7ecKKoWEUewoQa/d6ecf51e491b6a54fdc4dc6f3240a75a/simulacao.png)
 
 ## Simulação
 

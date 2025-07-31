@@ -27,15 +27,15 @@ The new interface, which will be official as of February 1st, has two main new f
 
 * **No-date limit order search:** You can search for orders without setting a date limit, which returns all orders related to the criteria used, regardless of the order creation date. This search cannot be combined with other filters. However, you can select a custom search period of up to 6 months and then combine it with the filters. Learn more in the article [Filter orders on All orders](/en/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-  ![busca_sem_limite_data_all_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-12-08-new-orders-module-interface-official_1.png)
+  ![busca_sem_limite_data_all_en](https://images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/38b0d6578851aa2dedf8ef6914aff921/busca_sem_limite_data_all_en.png)
 
 * **Order diagram:** In the _Order status_ section of the new interface, by default, a timeline with the events of the order is displayed. Now you can also see the _Order diagram_. When you click `View diagram`, a modal opens and displays the following image:
 
-  ![diagrama_pedido_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-12-08-new-orders-module-interface-official_2.png)
+  ![diagrama_pedido_en](https://images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/cd9d746e2ac2104e5657ec55c1229bb0/diagrama_pedido_en.png)
 
 For those not using the beta version yet, the image below maps the  fields between the old and new versions of the **Order Details** page:
 
-![board_comparativo_interface_pedido_v2_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022-12-08-new-orders-module-interface-official_3.png)
+![board_comparativo_interface_pedido_v2_en](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/c0bd90681544108bd26da14f7091fc1d/board_comparativo_interface_pedido_v2_en.png)
 
 ## Why did we make this change?
 

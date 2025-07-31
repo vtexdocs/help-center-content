@@ -33,7 +33,7 @@ Para comprender y corregir cada error, consulta las soluciones a continuación:
 
 Es posible que se produzca el siguiente error: al acceder al Admin VTEX > **Storefront** y hacer clic en **Site Editor**, la página Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`.
 
-![Site Editor - Something went wrong PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/problemas-con-site-editor-en-mi-tienda_1.png)
+![Site Editor - Something went wrong PT](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/178a0dae490ee3ab5b0a8c5feaf54302/img1-PT.png)
 
 Para solucionarlo, consulta las instrucciones a continuación:
 
@@ -47,7 +47,7 @@ El error puede deberse a que [Intelligent Search](/es/tracks/vtex-intelligent-se
 1. En el Admin VTEX, accede a **Configuración de la tienda > Intelligent Search > Integraciones**.
 2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación. 
 
-    ![Site Editor - IS integrations PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/problemas-con-site-editor-en-mi-tienda_2.png)
+    ![Site Editor - IS integrations PT](https://images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/91618ffbb8e61ddf78bb0417bc55caa1/img2-PT.png)
 
 3. Si todos los status están verificados y sigues sin poder abrir Site Editor, consulta la sección [Comprobar la configuración del inquilino](#comprobar-la-configuracion-del-inquilino-solo-cuentas-nuevas). En caso contrario, procede al siguiente paso.
 4. Si la página Integraciones no coincide con la imagen mostrada anteriormente, consulta a continuación los posibles motivos y cómo solucionarlos:
@@ -107,12 +107,12 @@ Otra posible causa de este error está relacionada con la configuración de la r
 
 5. Comprueba cuál es la región principal de tu tienda. Esta información está disponible en el campo `defaultLocale`. Consulta el siguiente ejemplo.
 
-    ![graphql-default-locale-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/problemas-con-site-editor-en-mi-tienda_3.png)
+    ![graphql-default-locale-es](https://images.ctfassets.net/alneenqid6w5/37qyTXPNZE0zWbvCrqIsWa/52fd46bb572899ad05104f90a65f662f/graphql-default-locale-es.png)
 
 6. Ahora, en el Admin Vtex, accede a **Configuración de la tienda > Canales > Políticas comerciales**.
 7. En la página **Políticas comerciales**, selecciona la política comercial asociada a tu cuenta y consulta el campo **Región**.
 
-    ![Site Editor - Locale PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/problemas-con-site-editor-en-mi-tienda_4.png)
+    ![Site Editor - Locale PT](https://images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/62aa1add719c52cd697fbda36176ca03/img3-PT.png)
 
   Se considera que la región es incorrecta si se da cualquiera de los siguientes casos:
     - La región es diferente de la que debería utilizar la cuenta. Por ejemplo, la región configurada es `es-CO`, pero la cuenta debería ser `es-MX`.

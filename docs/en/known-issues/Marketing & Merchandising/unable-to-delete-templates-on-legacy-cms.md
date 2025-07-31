@@ -28,11 +28,11 @@ Customers are not able to delete templates from the legacy CMS.
 4. Click on the **HTML Templates** folder.
 5. Click on the `delete` button in any template.
 
-![HTML templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/unable-to-delete-templates-on-legacy-cms_1.png)
+![HTML templates](//images.contentful.com/alneenqid6w5/6PWmj8jj0YJyi0tJ2h1Ay5/788bfa080f071df9f16adb8a1e7af67d/image.png)
 
 When you try to delete a template, the following message will pop up:
 
-![Messagem CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketing%20&%20Merchandising/unable-to-delete-templates-on-legacy-cms_2.png)
+![Messagem CMS](//images.contentful.com/alneenqid6w5/579ZOpaYA2XeRW60bXcVow/7f915c8ec079be49f159c4f8a959efa1/image.png)
 
 ## Workaround
 

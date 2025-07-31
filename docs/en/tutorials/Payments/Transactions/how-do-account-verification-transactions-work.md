@@ -21,7 +21,7 @@ This transaction is for $1.50 and can be identified by the letters __AV__ (Accou
 
 You can see an example of an account verification transaction in the VTEX Admin, under __Orders > Transactions__.
 
-![Transação av en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-do-account-verification-transactions-work_1.png)
+![Transação av en](https://images.ctfassets.net/alneenqid6w5/2JzA7ef5RiZd0lHXuFAouW/90049a40a6379ea4f247cf79ede9785f/transaÃ_Ã_o_av_en.png)
 
 <div class="alert alert-warning">
 Once the financial institution or card issuer validates the card details, the payment transaction is automatically canceled, and the $1.50 is refunded. The customer is not charged.

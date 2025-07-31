@@ -34,15 +34,15 @@ Cuando se selecciona un filtro de fecha en Transactions Admin, todas las transac
 1. Ir a cualquier tienda admin > pedidos > transacciones;
 2. 2. Seleccione el icono para filtrar las transacciones;
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Payments/filtro-de-transacciones-por-fecha-en-admin-no-funciona_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/6reloUKjqVA3z2CvvcgB4n9Ah/?name=image.png)
 
 3. 3. Seleccione cualquier opción del menú "Fecha". En este caso, se ha seleccionado "Fecha de cancelación > Ayer";
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Payments/filtro-de-transacciones-por-fecha-en-admin-no-funciona_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/FAH5pgNb0kX535JKNPKekRPVO/?name=image.png)
 
 4. Verá que la lista devuelve todas las transacciones que tienen una "fecha de cancelación", independientemente del filtro "ayer".
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Payments/filtro-de-transacciones-por-fecha-en-admin-no-funciona_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/lUFopWEbW6aoX0dHbsK3PPd0g/?name=image.png)
 
 ##
 

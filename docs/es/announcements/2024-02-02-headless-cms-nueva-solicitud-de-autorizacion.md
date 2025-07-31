@@ -3,8 +3,8 @@ title: 'Headless CMS: nueva solicitud de autorización'
 id: 7G056zzZmGFBztkRqhpUgj
 status: PUBLISHED
 createdAt: 2024-02-02T12:34:37.766Z
-updatedAt: 2024-02-02T14:14:58.237Z
-publishedAt: 2024-02-02T14:14:58.237Z
+updatedAt: 2025-07-24T19:23:33.225Z
+publishedAt: 2025-07-24T19:23:33.225Z
 contentType: updates
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG

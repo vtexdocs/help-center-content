@@ -44,7 +44,7 @@ Para acessar o **Copilot** e iniciar a interação com o suporte, siga os passos
    - Tenho um cenário inesperado.
    - Preciso de uma configuração por parte da VTEX.
 
-![Chatbot-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/support-at-vtex/abertura-de-chamados_1.gif)
+![Chatbot-PT](https://images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/74ecf0d07b35057f1d2a82da9486d19e/copilot-pt.gif)
 
 O Copilot responderá de forma automática e guiará você pelo processo. Caso sua dúvida não seja resolvida durante a interação com o Copilot, você poderá prosseguir para a abertura de um chamado manualmente.
 

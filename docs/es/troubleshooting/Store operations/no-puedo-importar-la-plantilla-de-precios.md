@@ -55,7 +55,7 @@ Comprueba que los campos de tu plantilla estén rellenados según las guías de 
 
 Ejemplo de plantilla con filtros aplicados y con los campos __Error Code__ y __Error Messages__:
 
-![Hoja de precios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-puedo-importar-la-plantilla-de-precios_1.PNG)
+![Hoja de precios](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/2412a0609e152f55f147e4c05e76e2be/Price_spreadsheet.PNG)
 
 #### Tamaño de archivo
 

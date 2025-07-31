@@ -35,11 +35,11 @@ Actualmente, cuando se intenta utilizar la exportación por correo electrónico,
 
 2 - Ir a la pestaña de exportación
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/no-funciona-la-exportacion-de-correo-electronico-de-la-nueva-interfaz-de-colecciones_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/hsnTzp3QEke2dAj6FoJwKXooL/?name=image.png)
 
 3 - Hay 2 opciones, una para exportar directamente en la interfaz de usuario (Descargar al ordenador) y otro para exportar por correo electrónico
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/no-funciona-la-exportacion-de-correo-electronico-de-la-nueva-interfaz-de-colecciones_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7OpN2ObWUqFmSH9XccwMU3aaj/?name=image.png)
 
 4 - Pruebe a utilizar la función de exportación por correo electrónico
 

@@ -18,7 +18,7 @@ A common mistake in payment approval at the **Orders** module is the lack of inv
 
 In such case, when you try to approve the payment in **Orders**, you will see the following error:
 
-![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/Post-purchase/when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do_1.png)
+![error authorize fulfillment](https://images.contentful.com/alneenqid6w5/5Wvwem2kucqsOIYKq4WW00/23b0ffb4209565da148382c3299e2bac/error_authorize_fulfillment.png)
 
 To confirm that this is the problem, in the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), click `View Interactions` to see the order details.
 

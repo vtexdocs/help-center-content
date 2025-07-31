@@ -3,7 +3,7 @@ title: 'Master Data'
 id: category-master-data
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Master Data
 slugEN: category-master-data
@@ -35,7 +35,7 @@ locale: en
 ## Master Data v1 applications
 
 - [Exporting data from Master Data v1](https://help.vtex.com/en/docs/tutorials/exporting-data)
-- [How to import data into Master Data](https://help.vtex.com/en/docs/tutorials/importing-data-into-master-data)
+- [Importing data into Master Data v1](https://help.vtex.com/en/docs/tutorials/importing-data-into-master-data-v1)
 - [Creating relationships between Master Data v1 entities](https://help.vtex.com/en/docs/tutorials/creating-relationships-between-master-data-entities-using-admin)
 - [Creating custom queries in Master Data v1](https://help.vtex.com/en/docs/tutorials/creating-custom-queries-in-master-data-v1)
 - [How to create an application in Master Data](https://help.vtex.com/en/docs/tutorials/creating-an-application-in-master-data)

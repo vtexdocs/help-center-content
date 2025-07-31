@@ -27,7 +27,7 @@ A primeira caixinha com tempo total de __2 dias__ irá esperar o item represent
 
 O período considera T = 0 como a data do pedido.
 
-![Configuração em estoque e entrega ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/Inventory%20and%20Shipping%20Settings/como-funciona-a-remessa_1.png)
+![Configuração em estoque e entrega ](https://images.ctfassets.net/alneenqid6w5/2lvFxIIkeZtgpqm66yRiyf/3dd5e11e0c89ad2285777f6a0a8eadc5/Configura____o_em_estoque_e_entrega_PT.png)
 
 ## Como configurar a remessa
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione *Configurações da loja / Envio*.  

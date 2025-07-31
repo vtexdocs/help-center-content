@@ -31,7 +31,7 @@ Isso pode estar relacionado a consultas GraphQL. Normalmente, você verá erros 
 
 
 Tente acessar algumas páginas no administrador, por exemplo, de uma conta, e, aleatoriamente, essa página pode receber o erro abaixo. Essa imagem também pode aparecer no ambiente myvtex ao acessar quaisquer outras páginas:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/erros-de-tempo-limite-da-plataforma_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bpiTuFWDjmPfEtLAiVcLhiMRs/?name=image.png)
 Quando você atualizar a página, tudo deverá voltar ao normal
 
 Você pode ver mais detalhes do erro no console ou apenas esperar que ele seja atualizado

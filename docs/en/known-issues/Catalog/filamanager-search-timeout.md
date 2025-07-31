@@ -21,7 +21,7 @@ internalReference: 1221279
 
 Currently, for accounts with a very large amount of files in their filemanager module, the search might load indefinitely
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/filamanager-search-timeout_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/cJyLsMn4XxD3u0zPpQst7lXSL/?name=image.png)
 
 
 ##

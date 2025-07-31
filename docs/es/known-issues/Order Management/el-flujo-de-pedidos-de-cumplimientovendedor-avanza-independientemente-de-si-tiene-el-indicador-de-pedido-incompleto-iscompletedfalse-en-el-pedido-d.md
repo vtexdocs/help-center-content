@@ -42,7 +42,7 @@ El problema principal es realizar el cumplimiento del pedido sin un pedido (prin
 No es un escenario que se pueda replicar, sin embargo, es posible validar la propiedad en el JSON del **pedido de Marketplace** `"isCompleted:"` si actualmente está con el valor `false`, y el **pedido de Fulfillment (Vendedor)** `"isCompleted:"` con valor `true` y su flujo de trabajo permitiendo avanzar el pedido.
 
 Ejemplo de **Pedido de mercado** propiedad `"isCompleted": false`:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Order%20Management/el-flujo-de-pedidos-de-cumplimientovendedor-avanza-independientemente-de-si-tiene-el-indicador-de-pedido-incompleto-iscompletedfalse-en-el-pedido-d_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/61ctwev8pXI4WHheLVtfnD0Sq/?name=inline1159444440.png)
 
 
 ##

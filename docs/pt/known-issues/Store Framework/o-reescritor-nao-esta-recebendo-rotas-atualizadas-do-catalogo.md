@@ -29,13 +29,13 @@ Algumas atualizações de catálogo relacionadas a rotas não estão chegando ao
 
 
 Se você tiver uma rota sem produtos ou com um erro, tente executar a consulta de bootstrap primeiro:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/lgRhaWsmwABr8rF4ow1DmLNwC/?name=image.png)
 
     {bootstrap{brandscategories}}
 
 
 Se isso não funcionar, verifique se o reescritor está recebendo a rota; se a resposta for nula, o reescritor não recebeu a atualização:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-reescritor-nao-esta-recebendo-rotas-atualizadas-do-catalogo_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/W3vx3sa1BFL2DOSIsTh49tuvk/?name=image.png)
 
     {internal{get(path:"/test"){fromdeclarerid}}}
 

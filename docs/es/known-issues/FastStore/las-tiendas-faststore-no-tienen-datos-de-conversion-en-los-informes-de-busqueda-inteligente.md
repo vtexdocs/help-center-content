@@ -34,7 +34,7 @@ Actualmente, tenemos datos sobre términos de búsqueda y clics pero no datos de
 
 
 Puedes intentar comprar productos en una tienda Faststore, pero los datos de conversión no se actualizarán o no serán datos válidos.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/FastStore/las-tiendas-faststore-no-tienen-datos-de-conversion-en-los-informes-de-busqueda-inteligente_1.png)
+ ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAzypE89_9N5C_O-Fm_dIRB0PM4AzMsJR2g-OYe79aDY5ED0TazxWyL-jt4xtmp6vvp6xyOWX3lC6dGy3oJgqjOcoHt4DpL_kKdpJ6KLIDjA5RYB9dkUIoz2MuvZKSrkg0Is70JA?key=qgapxA8TWy8ha9Krkd7IhXQL)
 
 
 

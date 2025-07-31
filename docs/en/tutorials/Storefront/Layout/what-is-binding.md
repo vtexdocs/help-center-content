@@ -19,7 +19,7 @@ Website binding is what bridges the CMS (Portal) with the information defined in
 
 That is, it sets that an __account name__ (configured in the License Manager module) is linked to the folder and files structure of a particular __Website__ (defined in the CMS module).
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/what-is-binding_1.png)
+![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
 
 This is the setting made when an account wants to have more than one store. For each of these stores (which we call [multistores](/en/tutorial/creating-multi-store-multi-domain)), you make a binding.
 

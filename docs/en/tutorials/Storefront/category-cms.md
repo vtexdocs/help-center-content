@@ -3,7 +3,7 @@ title: 'Storefront'
 id: category-cms
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: VTEX IO
 slugEN: category-cms
@@ -115,12 +115,12 @@ locale: en
 - [Setting up the standard size for the zoom image](https://help.vtex.com/en/docs/tutorials/setting-up-the-standard-size-for-the-zoom-image)
 - [Set the store display texts](https://help.vtex.com/en/docs/tutorials/set-the-store-display-language)
 - [Configuring SEO in your Store Framework store](https://help.vtex.com/en/docs/tutorials/configuring-seo-in-your-store)
+- [Configuring SEO in Legacy CMS Portal stores](https://help.vtex.com/en/docs/tutorials/configuring-seo-in-legacy-cms-portal-stores)
 - [Configuring PWA in your Store Framework store](https://help.vtex.com/en/docs/tutorials/configuring-pwa-in-your-store-framework-store)
 
 ## Headless CMS
 
 - [Headless CMS - Overview](https://help.vtex.com/en/docs/tutorials/headless-cms-overview)
-- [Media - Overview](https://help.vtex.com/en/docs/tutorials/media-overview)
 - [Managing Projects](https://help.vtex.com/en/docs/tutorials/managing-projects)
 - [Managing Pages in the Headless CMS](https://help.vtex.com/en/docs/tutorials/managing-pages)
 - [Managing Singleton content types](https://help.vtex.com/en/docs/tutorials/managing-singleton-content-types)

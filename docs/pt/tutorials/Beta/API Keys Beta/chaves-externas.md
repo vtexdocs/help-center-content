@@ -23,7 +23,7 @@ As chaves de API externas são credenciais geradas e administradas por outras co
 
 A aba **Externas** apresenta a listagem de chaves de API de terceiros adicionadas à sua conta.
 
-![apikeys-external-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Beta/API%20Keys%20Beta/chaves-externas_1.png)
+![apikeys-external-pt](https://images.ctfassets.net/alneenqid6w5/5mwOrVyQr2LiDBAkzIZWwU/ef829c3c776b6fa1326d49d97a6b7b47/apikeys-external-pt.png)
 
 A página apresenta as seguintes informações em uma tabela:
 

@@ -3,8 +3,8 @@ title: "hCMS presenta problemas cuando se intenta publicar una gran cantidad de 
 id: 2O2kMLO9hhohCn9qykDFmt
 status: PUBLISHED
 createdAt: 2025-07-18T14:08:02.418Z
-updatedAt: 2025-07-18T14:08:03.144Z
-publishedAt: 2025-07-18T14:08:03.144Z
+updatedAt: 2025-07-24T17:46:39.870Z
+publishedAt: 2025-07-24T17:46:39.870Z
 firstPublishedAt: 2025-07-18T14:08:03.144Z
 contentType: knownIssue
 productTeam: CMS
@@ -32,7 +32,7 @@ Al intentar publicar una página con una gran cantidad de contenido, el hCMS pue
 
 
 Intente añadir un texto largo, por ejemplo, en una página hCMS. El borrador se guardará correctamente, pero al intentar publicarlo, no será posible. El error será:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/hcms-presenta-problemas-cuando-se-intenta-publicar-una-gran-cantidad-de-contenido_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/YmERJsiEpxbtpSzCa7heytRjs/?name=image.png)
 
 En la red, verá:
 

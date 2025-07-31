@@ -30,9 +30,9 @@ Image import spreadsheet does not replace the Label
 Admin > Catalog > Import and export > Sku specifications > Upload spreadsheet >
 In the UI it shows success but the email shows zero imported products and no error specifications
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-image-import-spreadsheet-does-not-replace-the-label_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kisyvWtG1pHFXiOJUpAKuvegC/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-image-import-spreadsheet-does-not-replace-the-label_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Xspj9Ld4DLyZPpwJIdHq6cq0i/?name=image.png)
 
 
 ##

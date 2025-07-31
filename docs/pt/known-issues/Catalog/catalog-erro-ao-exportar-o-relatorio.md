@@ -38,13 +38,13 @@ Erros
 - Uma mensagem de erro é exibida na interface do usuário (impressão 01)
 - E-mail: O usuário recebe dois e-mails, um correto com a planilha e outro com um erro (impressão 02)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/catalog-erro-ao-exportar-o-relatorio_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nssU6EUTkqi1oEpWJfGNG4hZ3/?name=image.png)
 
 IMPRESSÃO 02
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/catalog-erro-ao-exportar-o-relatorio_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/IaqPe0pf0oUHatfDvp85FH2sQ/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/catalog-erro-ao-exportar-o-relatorio_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/xsuPbF5tOdI7lXxaK3JMHlK0U/?name=image.png)
 
 ## Workaround
 

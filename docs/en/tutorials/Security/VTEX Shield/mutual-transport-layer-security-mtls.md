@@ -3,8 +3,8 @@ title: 'Mutual Transport Layer Security (mTLS)'
 id: 6YR3SoynJMfeEKGlY1Cqlo
 status: PUBLISHED
 createdAt: 2025-05-21T23:02:08.320Z
-updatedAt: 2025-05-21T23:23:43.762Z
-publishedAt: 2025-05-21T23:23:43.762Z
+updatedAt: 2025-07-22T14:43:57.796Z
+publishedAt: 2025-07-22T14:43:57.796Z
 firstPublishedAt: 2025-05-21T23:17:03.123Z
 contentType: tutorial
 productTeam: Identity
@@ -54,7 +54,7 @@ With mTLS, only trusted systems can communicate with each other. This reinforces
 
 The diagram below represents the mutual authentication flow using mTLS, where client and server validate each other's identity before any data is exchanged:
 
-![mtls-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/mutual-transport-layer-security-mtls_1.png)
+![mtls-en](https://images.ctfassets.net/alneenqid6w5/29oPGzHDD0YSQGFMDmPfQo/295074d85d3532fe0edb18e90558a3d2/screencapture-mermaid-live-view-2025-05-21-20_10_20.png)
 
 1. The client initiates a connection to the server.  
 2. The server presents its TLS certificate.  
@@ -138,3 +138,6 @@ mTLS can be implemented across all systems or in specific integrations, offering
 ## Learn more
 
 * [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [mTLS API](https://developers.vtex.com/docs/api-reference/mtls-api#overview)
+* [Implementing Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/implementing-mtls)
+* [Revoking SSL private certificates when using Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/revoking-ssl-private-certificates-when-using-mtls)

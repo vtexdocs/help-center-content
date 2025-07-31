@@ -3,7 +3,7 @@ title: 'Beta'
 id: category-beta-products
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Channels
 slugEN: category-beta-products
@@ -12,7 +12,6 @@ locale: en
 
 ## Subscriptions Beta
 
-- [Subscription plans](https://help.vtex.com/en/docs/tutorials/subscription-plans)
 - [Creating a subscription plan](https://help.vtex.com/en/docs/tutorials/creating-a-subscription-plan)
 
 ## Promotions Beta
@@ -26,18 +25,13 @@ locale: en
 - [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta)
 - [Regionalization (Beta)](https://help.vtex.com/en/docs/tutorials/regionalization-beta)
 - [​​Dynamic relevance in Intelligent Search (Beta)](https://help.vtex.com/en/docs/tutorials/dynamic-relevance-in-intelligent-search-beta)
+- [Intelligent Search: Hybrid Search (Beta)](https://help.vtex.com/en/docs/tutorials/intelligent-search-hybrid-search-beta)
 
 ## VTEX Sales App Beta
 
 - [Lista da Vez (Beta)](https://help.vtex.com/en/docs/tutorials/lista-da-vez)
 - [Orders to delivery (Beta)](https://help.vtex.com/en/docs/tutorials/order-to-delivery)
 - [Change seller of an VTEX Sales App order - (Beta)](https://help.vtex.com/en/docs/tutorials/change-seller-of-an-vtex-sales-app-order-beta)
-
-## Orders Beta
-
-- [How Change order works (Beta)](https://help.vtex.com/en/docs/tutorials/how-change-order-works-beta)
-- [How to change orders (Beta)](https://help.vtex.com/en/docs/tutorials/how-to-change-orders-beta)
-- [Adapting your integration for Change order (Beta)](https://help.vtex.com/en/docs/tutorials/adapting-your-integration-for-change-order-beta)
 
 ## Shipping Beta
 
@@ -53,17 +47,12 @@ locale: en
 
 ## Catalog Beta
 
-- [Products and SKUs (Beta)](https://help.vtex.com/en/docs/tutorials/products-and-skus-beta)
-- [Adding products (beta)](https://help.vtex.com/en/docs/tutorials/adding-products-beta)
-- [Adding SKUs (beta)](https://help.vtex.com/en/docs/tutorials/adding-skus-beta)
+- [Creating Collections (Beta)](https://help.vtex.com/en/docs/tutorials/creating-collections-beta)
+- [Creating or editing categories, attributes, and variations (Beta)](https://help.vtex.com/en/docs/tutorials/creating-or-editing-categories-attributes-and-variations-beta)
 
 ## Dashboards Beta
 
 - [Store Overview (Beta)](https://help.vtex.com/en/docs/tutorials/store-overview-beta)
-
-## Authentication Beta
-
-- [Configuring Sign in with Apple ID (Beta)](https://help.vtex.com/en/docs/tutorials/configuring-sign-in-with-apple-id-beta)
 
 ## API Keys Beta
 
@@ -73,23 +62,20 @@ locale: en
 - [Renewing API tokens (Beta)](https://help.vtex.com/en/docs/tutorials/renewing-api-tokens)
 - [External keys (Beta)](https://help.vtex.com/en/docs/tutorials/external-keys)
 
-## VTEX Ad Network
-
-- [VTEX Ad Network (Beta)](https://help.vtex.com/en/docs/tutorials/vtex-ad-network-beta)
-- [Displaying VTEX Ad Network ads in your store (Beta)](https://help.vtex.com/en/docs/tutorials/displaying-vtex-ad-network-ads-in-your-store-beta)
-- [Advertising with VTEX Ad Network (Beta)](https://help.vtex.com/en/docs/tutorials/advertising-with-vtex-ad-network-beta)
-- [Reports for advertisers on VTEX Ad Network (Beta)](https://help.vtex.com/en/docs/tutorials/reports-for-advertisers-on-vtex-ad-network-beta)
-
 ## VTEX Data Pipeline Beta
 
 - [Data dictionary: VTEX Data Pipeline](https://help.vtex.com/en/docs/tutorials/data-dictionary-vtex-data-pipeline-beta)
+- [Catalog Data Pipeline](https://help.vtex.com/en/docs/tutorials/catalog-data-pipeline)
 - [Inventory Data Pipeline ](https://help.vtex.com/en/docs/tutorials/inventory-data-pipeline-beta)
+- [Bridge Logs Data Pipeline](https://help.vtex.com/en/docs/tutorials/bridge-logs-data-pipeline)
+- [Marketplace in Data Pipeline](https://help.vtex.com/en/docs/tutorials/marketplace-in-data-pipeline)
 - [Navigation Data Pipeline ](https://help.vtex.com/en/docs/tutorials/navigation)
 - [Payments Data Pipeline ](https://help.vtex.com/en/docs/tutorials/payments)
 - [Orders Data Pipeline ](https://help.vtex.com/en/docs/tutorials/orders)
 - [Prices Data Pipeline ](https://help.vtex.com/en/docs/tutorials/prices-data-pipeline-beta)
-- [Promotions Data Pipeline ](https://help.vtex.com/en/docs/tutorials/promotions)
 - [Gift Card Data Pipeline](https://help.vtex.com/en/docs/tutorials/gift-card-data-pipeline)
-- [Bridge Logs Data Pipeline](https://help.vtex.com/en/docs/tutorials/bridge-logs-data-pipeline)
-- [Marketplace in Data Pipeline](https://help.vtex.com/en/docs/tutorials/marketplace-in-data-pipeline)
+
+## Product Recommendations Beta
+
+- [Product Recommendations (Beta)](https://help.vtex.com/en/docs/tutorials/product-recommendations-beta)
 

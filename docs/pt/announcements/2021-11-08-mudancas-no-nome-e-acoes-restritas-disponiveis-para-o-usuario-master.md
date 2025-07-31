@@ -27,7 +27,7 @@ Fique tranquilo, nós não nos enganamos. Após uma análise criteriosa, nossa e
 
 Mas isso não é tudo. Também modificamos o processo para mudar o usuário Titular de uma conta, transformando-o em um fluxo de transferência controlado por convite que é totalmente auditável.  
 
-![Gerenciamento titular gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021-11-08-mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master_1.gif)
+![Gerenciamento titular gif](https://images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/a3f49ef6a2cc6208afa52859da36b7fe/Announcement_PT.gif)
 
 Confira o artigo [Transferência de propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja) para mais detalhes sobre este novo processo.
 

@@ -21,7 +21,7 @@ internalReference: 1191983
 
 Currently, in the new catalog UI version, when a SKU is created as a bundle and it has components, there is a status listing of each component to show whether it is active or not
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/bundle-component-active-status-can-be-outdated-in-new-catalog-ui_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VFHwd92eJuxyRAtfRJeQmscou/?name=image.png)
 
 However, if after the kit creating the said item is inactivate, the UI doesn't update it accordingly.
 

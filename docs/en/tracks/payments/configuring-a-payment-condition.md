@@ -100,7 +100,7 @@ If you decide to configure a payment method that accepts installments with inter
 The Automatic Installment option allows you to configure the details of the installments directly in the payment provider (outside the VTEX environment).
 To enable this option, select “Yes” in the **Use external installments** field during the [provider setup](/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
 
-![automaticinstallment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payments/configuring-a-payment-condition_1.JPG)
+![automaticinstallment](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/965203e926177f608618ed0048411de6/parcelamentoautomaticous.JPG)
 
 After enabling automatic installment payment on the provider, follow these steps:
 

@@ -31,11 +31,11 @@ Currently, when attempting to use the export via email, in the new collections m
 
 2 - Go to the export tab
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/new-collections-ui-email-export-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/hsnTzp3QEke2dAj6FoJwKXooL/?name=image.png)
 
 3 - There are 2 options, one to export directly in the UI (Download to computer) and other to export via email
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/new-collections-ui-email-export-not-working_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7OpN2ObWUqFmSH9XccwMU3aaj/?name=image.png)
 
 4 - try using the export via email functionality
 

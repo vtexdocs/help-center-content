@@ -3,7 +3,7 @@ title: 'Storefront'
 id: category-cms
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: VTEX IO
 slugEN: category-cms
@@ -115,12 +115,12 @@ locale: pt
 - [Configurar o tamanho padrão da imagem de zoom](https://help.vtex.com/pt/docs/tutorials/configurar-o-tamanho-padrao-da-imagem-de-zoom)
 - [Definir os textos de exibição da loja](https://help.vtex.com/pt/docs/tutorials/definir-o-idioma-de-exibicao-da-loja)
 - [Configurando SEO em sua loja Store Framework](https://help.vtex.com/pt/docs/tutorials/configurando-seo-em-sua-loja)
+- [Configurando SEO em sua loja CMS Portal Legado](https://help.vtex.com/pt/docs/tutorials/configurando-seo-em-sua-loja-cms-portal-legado)
 - [Configurando PWA em sua loja Store Framework](https://help.vtex.com/pt/docs/tutorials/configurando-pwa-em-sua-loja-store-framework)
 
 ## Headless CMS
 
 - [Headless CMS - Visão geral](https://help.vtex.com/pt/docs/tutorials/headless-cms-visao-geral)
-- [Mídia - Visão geral](https://help.vtex.com/pt/docs/tutorials/midia-visao-geral)
 - [Gerenciando Projetos](https://help.vtex.com/pt/docs/tutorials/gerenciando-projetos)
 - [Gerenciando Páginas no Headless CMS](https://help.vtex.com/pt/docs/tutorials/gerenciando-paginas)
 - [Gerenciando content types do tipo Singleton](https://help.vtex.com/pt/docs/tutorials/gerenciando-content-types-do-tipo-singleton)

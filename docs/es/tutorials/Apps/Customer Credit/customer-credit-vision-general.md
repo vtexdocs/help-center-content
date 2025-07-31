@@ -40,7 +40,7 @@ Cuando se instala, el Customer Credit aparece como una opción de pago en el mom
 
 Vea a continuación el flujo básico de cómo funciona el Customer Credit en las tiendas VTEX:
 
-![GIF_CC_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Apps/Customer%20Credit/customer-credit-vision-general_1.gif)
+![GIF_CC_ES](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/99a8ceaf503fd3154ab5e2aa9b2f3021/GIF_CC_ES.gif)
 
 ## Definiciones en Customer Credit
 

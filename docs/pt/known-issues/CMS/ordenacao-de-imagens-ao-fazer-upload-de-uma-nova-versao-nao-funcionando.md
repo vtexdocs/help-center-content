@@ -35,7 +35,7 @@ Ir para o editor do site
 Adicionar uma nova imagem
 Tente encomendar
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wx1y1CbhbAkyUIH8peG9xiLtJ/?name=image.png)
 
 
 ##

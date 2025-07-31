@@ -3,7 +3,7 @@ title: 'Gestión de la cuenta'
 id: category-account-management
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Identity
 slugEN: category-account-management
@@ -33,7 +33,8 @@ locale: es
 
 ## Cuentas
 
-- [Alterar el logo del boleto](https://help.vtex.com/es/docs/tutorials/como-alterar-el-logo-del-boleto)
+- [Cambiar el logotipo del boleto](https://help.vtex.com/es/docs/tutorials/cambiar-el-logotipo-del-boleto)
+- [Cambiar el dominio de la tienda](https://help.vtex.com/es/docs/tutorials/cambiar-el-dominio-de-la-tienda)
 - [Configurar dominio de la tienda](https://help.vtex.com/es/docs/tutorials/configurar-dominio-de-la-tienda)
 - [Configurar B2B en VTEX](https://help.vtex.com/es/docs/tutorials/configurando-b2b-na-vtex)
 - [Gestionar multitienda](https://help.vtex.com/es/docs/tutorials/gestionar-multitienda)

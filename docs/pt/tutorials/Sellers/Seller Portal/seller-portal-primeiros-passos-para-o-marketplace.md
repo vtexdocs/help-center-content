@@ -27,13 +27,13 @@ Por meio do Seller Portal, marketplaces conseguem:
 - Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido e sem fricção.  
 - Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.  
 
-![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-primeiros-passos-para-o-marketplace_1.gif)
+![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 ## Interação entre seller e marketplace no Seller Portal
 
 A utilização do Seller Portal depende de ações do marketplace e do seller, conforme a imagem a seguir:
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/seller-portal-primeiros-passos-para-o-marketplace_2.png"/>
+<img src="https://drive.google.com/uc?export=download&id=13FpmM_ATe9JV1vhdgB4bXAzKZdoDo2Jp"/>
 
 Os passos representados na imagem anterior são:
 

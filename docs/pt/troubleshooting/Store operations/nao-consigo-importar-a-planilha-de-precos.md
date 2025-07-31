@@ -55,7 +55,7 @@ Confira se os campos de sua planilha estão devidamente preenchidos conforme as 
 
 Exemplo de planilha com filtros aplicados e campos __Error Code__ e __Error Message__ presentes:
 
-![Planilha de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-importar-a-planilha-de-precos_1.PNG)
+![Planilha de preço](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/0109fb3de360f568c44f6e0e6c3a920e/Price_spreadsheet.PNG)
 
 #### Tamanho do arquivo
 

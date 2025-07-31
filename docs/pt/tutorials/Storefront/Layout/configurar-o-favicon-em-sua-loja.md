@@ -23,23 +23,23 @@ Favicon é um pequeno ícone associado a um site. Ele é exibido na aba do naveg
 
 O favicon ajuda os usuários a identificar rapidamente um site quando tem várias abas abertas ou quando estão consultando os favoritos, melhorando a experiência do usuário e reforçar a identidade e a credibilidade de uma marca.
 
-![favicon-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-favicon-em-sua-loja_1.png)
+![favicon-pt](https://images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/87f53f368630eac930bd32c55043f589/favicon-pt.png)
 
 Para configurar o favicon em lojas CMS Portal Legado, siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout > CMS > Files Manager > imagens**.
 
-    ![files-manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-favicon-em-sua-loja_2.png)
+    ![files-manager](https://images.ctfassets.net/alneenqid6w5/4uQN2LoOBbID1KLD63B3jA/11b63673ad3a0088bb273a4cc40f2f47/files-manager.png)
 
 2. Na segunda coluna, clique em `Add`.
 
-    ![add-image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-favicon-em-sua-loja_3.png)
+    ![add-image](https://images.ctfassets.net/alneenqid6w5/34MLMbESt4MynXCF301zLc/83464cc6241dbdaaf50c38898850ba87/add-image.png)
 
 3. Clique em `Browse for file` para adicionar o arquivo de imagem no formato `.ico`.
 
     <div class="alert alert-warning">O nome do arquivo deve seguir o padrão <i><b>{storeName}</b>-favicon.ico</i>. Substitua a variável <b>{storeName}</b> pelo nome da loja cadastrado no <a href="https://help.vtex.com/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq">Gerenciamento da conta</a>.</div>
 
-    ![store-name-favicon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/configurar-o-favicon-em-sua-loja_4.png)
+    ![store-name-favicon](https://images.ctfassets.net/alneenqid6w5/sqSMZhwI4vz48vBFTqmEA/33d3fc6bd1a5bc50ccf11422f85f57cc/store-name-favicon.png)
 
 4. Configure os [templates](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88) com o elemento `<link>` dentro do `<head>`, da seguinte forma: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. A variável `{storeName}` deve ser substituída pelo nome da loja.
 

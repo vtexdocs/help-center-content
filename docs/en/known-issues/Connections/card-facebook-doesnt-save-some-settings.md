@@ -33,7 +33,7 @@ Card facebook doesn't save some settings.
 4. Return to integration card
 5. Didn't save the selected category
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/card-facebook-doesnt-save-some-settings_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VuJT08v4GZINqVjGrGnvIywCL/?name=image.png)
 
 
 

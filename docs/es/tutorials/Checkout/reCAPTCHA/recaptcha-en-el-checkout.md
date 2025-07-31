@@ -53,17 +53,17 @@ Puedes utilizar reCAPTCHA checkbox (v2). Es decir, cuando corresponda, el usuari
 
 Teniendo en cuenta los factores mencionados anteriormente, la experiencia de compra con tarjeta de débito o crédito suele seguir el flujo a continuación. Esto minimiza la incidencia de algunos tipos de fraude y ataques con una fricción mínima para el usuario.
 
-![reCAPTCHA scenariosES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/reCAPTCHA/recaptcha-en-el-checkout_1.jpg)
+![reCAPTCHA scenariosES](https://images.ctfassets.net/alneenqid6w5/3gA55NZPuxpKOxCZxvbhgj/596d96e2fd5ba06a1c390dc9d8d0ca68/reCAPTCHA_scenarios__2_.jpg)
 Como se ilustra en la imagen anterior, hay varios resultados posibles en este flujo:
 
 1. Si el algoritmo de VTEX Criteria no clasifica la sesión como sospechosa, la plataforma sigue con la compra de forma normal.
 
 2. De lo contrario, la interfaz debe mostrar la casilla de reCAPTCHA, que el cliente debe marcar. Si el reCAPTCHA no clasifica el comportamiento al marcar la casilla como sospechoso, la compra sigue de forma normal.
 
-![newCaptchaAnchor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/reCAPTCHA/recaptcha-en-el-checkout_2.gif)
+![newCaptchaAnchor](https://images.ctfassets.net/alneenqid6w5/2lv7PfOmkakDcSkNbAITtK/9b8cf067c590a48d2560e9a170fa2022/newCaptchaAnchor.gif)
 3. Si el reCAPTCHA clasifica el comportamiento como sospechoso, la interfaz mostrará el desafío.
 
-![desafio recaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/reCAPTCHA/recaptcha-en-el-checkout_3.png)
+![desafio recaptcha](https://images.ctfassets.net/alneenqid6w5/3wg7F9nmxJwZ8jxUJKb8OT/e820adf7252e86a94e79fc72eae1f536/desafio_recaptcha.png)
 4. Si el desafío se resuelve con éxito, la plataforma sigue con la compra. Si no, el comportamiento se clasifica como compatible con un _bot_ y la plataforma no finaliza la compra.
 
 ## reCAPTCHA v3

@@ -29,7 +29,7 @@ To find this line of code, go to the front-end of your store, enter the browser'
 
 See below the relationship between the folder in the CMS and the store's source code.
 
-![CommerceContext](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site_1.png)
+![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
 <div class="alert alert-info">
 This line of code is always commented out. Therefore, it has only informative function. That is, it does not take any action.

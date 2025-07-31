@@ -3,7 +3,7 @@ title: 'Shipping'
 id: category-shipping
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: category-shipping
@@ -48,7 +48,6 @@ locale: en
 
 ## Shipping rates
 
-- [Managing shipping rates](https://help.vtex.com/en/docs/tutorials/managing-shipping-rates)
 - [Shipping rates](https://help.vtex.com/en/docs/tutorials/shipping-rates)
 - [Additional shipping costs](https://help.vtex.com/en/docs/tutorials/additional-shipping-costs)
 - [Total shipping cost](https://help.vtex.com/en/docs/tutorials/total-shipping-cost)
@@ -76,12 +75,9 @@ locale: en
 
 ## Inventory and Shipping Settings
 
-- [When should I group products in the same shipment?](https://help.vtex.com/en/docs/tutorials/when-should-i-group-products-in-the-same-shipment)
 - [Setting up shipment](https://help.vtex.com/en/docs/tutorials/setting-up-shipment)
 - [Configuring Cargo Splitting](https://help.vtex.com/en/docs/tutorials/configuring-cargo-splitting)
-- [How the modal works](https://help.vtex.com/en/docs/tutorials/how-does-the-modal-work)
 - [Setting up the Low Inventory Alert](https://help.vtex.com/en/docs/tutorials/setting-up-the-critical-stock-alert)
-- [Setting up modal for carriers](https://help.vtex.com/en/docs/tutorials/configure-modal)
 
 ## Pickup points
 
@@ -106,4 +102,5 @@ locale: en
 - [VTEX Pick and Pack: Insights](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-insights)
 - [VTEX Pick and Pack: Settings](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-settings)
 - [VTEX Pick and Pack Mobile](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-mobile)
+- [VTEX Pick and Pack: FAQ](https://help.vtex.com/en/docs/tutorials/vtex-pick-and-pack-faq)
 

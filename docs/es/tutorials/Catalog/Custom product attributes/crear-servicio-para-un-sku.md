@@ -81,7 +81,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
   <p>El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).</p>
 </div>
 8. Haz clic en la barra que se encuentra junto al botón `Select`, que se muestra a continuación.
-  ![Anexos - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Custom%20product%20attributes/crear-servicio-para-un-sku_1.png)
+  ![Anexos - ES](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
 9. Selecciona la plantilla CSV actualizada.
 10. Haz clic en `Vincular valores de servicios a SKU` para finalizar.
 

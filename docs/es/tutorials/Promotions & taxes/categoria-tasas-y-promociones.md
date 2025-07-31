@@ -3,7 +3,7 @@ title: 'Tasas y promociones'
 id: category-promotions-and-taxes
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: category-promotions-and-taxes
@@ -20,17 +20,16 @@ locale: es
 ## Promociones
 
 - [Crear promociones](https://help.vtex.com/es/docs/tutorials/crear-promociones)
-- [¿Cómo funciona el prorrateo de una promoción?](https://help.vtex.com/es/docs/tutorials/como-funciona-el-prorrateo-de-una-promocion)
 - [Cómo identificar promociones asignadas a un SKU?](https://help.vtex.com/es/docs/tutorials/como-identificar-promociones-asignadas-un-sku)
 - [Configurar promoción para un SKU](https://help.vtex.com/es/docs/tutorials/como-configurar-promocion-para-un-sku)
 - [¿El cálculo del flete tiene en cuenta el regalo?](https://help.vtex.com/es/docs/tutorials/el-calculo-del-flete-tiene-en-cuenta-el-regalo)
 - [Crear promoción con limitación de uso](https://help.vtex.com/es/docs/tutorials/como-crear-promocion-con-limitacion-de-uso)
 - [¿Cuantos cupones, tasas y promociones puedo tener en mi tienda?](https://help.vtex.com/es/docs/tutorials/cual-es-el-limite-maximo-de-promociones)
 - [Identificar las promociones aplicadas en el carrito](https://help.vtex.com/es/docs/tutorials/como-identificar-las-promociones-aplicadas-en-el-carrito)
-- [Qué son utm_source, utm_campaign y utm_medium](https://help.vtex.com/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium)
+- [Monitoreo de campañas con parámetros UTM](https://help.vtex.com/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium)
 - [¿Qué significa activar el multiplicador de regalo en una promoción?](https://help.vtex.com/es/docs/tutorials/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion)
 - [¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?](https://help.vtex.com/es/docs/tutorials/como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito)
-- [Cómo el descuento progresivo funciona](https://help.vtex.com/es/docs/tutorials/descuento-progresivo)
+- [Cómo funciona la promoción Descuento progresivo](https://help.vtex.com/es/docs/tutorials/descuento-progresivo)
 - [Cómo funciona la competencia de promociones](https://help.vtex.com/es/docs/tutorials/como-funciona-la-competencia-de-promociones)
 - [Crear promoción Más por Menos](https://help.vtex.com/es/docs/tutorials/mas-por-menos)
 - [Configurar promoción con destaque / flag](https://help.vtex.com/es/docs/tutorials/configurando-promocion-con-destaque-flag)
@@ -39,7 +38,6 @@ locale: es
 - [Crear promoción Comprar Juntos](https://help.vtex.com/es/docs/tutorials/comprar-juntos-registro-de-promocion)
 - [Cómo funciona la promoción Compre y gane](https://help.vtex.com/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
 - [Configurar promoción de descuento porcentual para un SKU específico](https://help.vtex.com/es/docs/tutorials/configurar-promocion-de-descuento-porcentual-para-un-sku-especifico)
-- [Configurar una promoción Comprar y Obtener (regalo) para un SKU específico](https://help.vtex.com/es/docs/tutorials/configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico)
 - [Registrar promociones de envío](https://help.vtex.com/es/docs/tutorials/registrar-promociones-de-flete)
 - [Promoción regular con descuento nominal basado en la fórmula](https://help.vtex.com/es/docs/tutorials/promocion-regular-con-descuento-nominal-basado-en-la-formula)
 - [Lista de Promociones](https://help.vtex.com/es/docs/tutorials/lista-de-promociones-beta)
@@ -48,7 +46,6 @@ locale: es
 
 ## Cupones
 
-- [Lísta de cupones](https://help.vtex.com/es/docs/tutorials/lista-de-cupones-beta)
 - [Crear cupón](https://help.vtex.com/es/docs/tutorials/crear-cupon-beta)
 - [Cupones promocionales: tipos y grupos](https://help.vtex.com/es/docs/tutorials/cupones-beta)
 

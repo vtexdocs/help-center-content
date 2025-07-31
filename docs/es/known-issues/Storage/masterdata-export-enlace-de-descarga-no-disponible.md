@@ -36,7 +36,7 @@ Actualmente, para las entidades de datos con varios campos, cuando se intenta ex
 
 2 - el enlace de descarga no generará un archivo en su navegador
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Storage/masterdata-export-enlace-de-descarga-no-disponible_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/nQdUqbk7BiOK5RcigZhNZR9Rr/?name=image.png)
 
 
 

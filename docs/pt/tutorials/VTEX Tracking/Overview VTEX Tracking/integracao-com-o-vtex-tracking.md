@@ -32,7 +32,7 @@ Há dois cenários de integração:
 * **Integração nativa:** para os pedidos que já estão cadastrados no Gerenciamento de Pedidos do Admin VTEX.  Sua integração ocorre automaticamente após a [instalação do App](#instalacao-do-aplicativo). 
 * **Integração não nativa:** para os pedidos que não estão no Gerenciamento de Pedidos do Admin VTEX. Além da [instalação do App](#instalacao-do-aplicativo) é necessário o cadastro via API ou cadastro pela interface do VTEX Admin (utilizando da função televendas).
 
-![integracao tracking](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/VTEX%20Tracking/Overview%20VTEX%20Tracking/integracao-com-o-vtex-tracking_1.jpg)
+![integracao tracking](https://images.contentful.com/alneenqid6w5/L4u1MHbVvqNeKovdUv2ve/a9dfb661c1a2ac48b6f9400f75d0eaa8/integracao_tracking.jpg)
 
 ## Instalação do aplicativo 
 

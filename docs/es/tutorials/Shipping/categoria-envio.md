@@ -3,7 +3,7 @@ title: 'Envío'
 id: category-shipping
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Post-purchase
 slugEN: category-shipping
@@ -48,7 +48,6 @@ locale: es
 
 ## Tarifas de envío
 
-- [Gestionar las tarifas de envío](https://help.vtex.com/es/docs/tutorials/gestionar-las-tarifas-de-envio)
 - [Tarifas de envío](https://help.vtex.com/es/docs/tutorials/tarifas-de-envio)
 - [Adicionales de flete](https://help.vtex.com/es/docs/tutorials/adicionales-de-flete)
 - [Costo final del envío](https://help.vtex.com/es/docs/tutorials/costo-final-del-envio)
@@ -76,12 +75,9 @@ locale: es
 
 ## Configuración de inventario y envío
 
-- [¿Cuándo debo agrupar productos en el mismo envío?](https://help.vtex.com/es/docs/tutorials/cuando-debo-agrupar-productos-en-el-mismo-envio)
 - [Configurar grupos de envío](https://help.vtex.com/es/docs/tutorials/configurar-grupos-de-envio)
 - [Cómo se maneja el reparto de carga](https://help.vtex.com/es/docs/tutorials/como-se-maneja-el-reparto-de-carga)
-- [Cómo funciona el modal](https://help.vtex.com/es/docs/tutorials/como-se-maneja-el-modal)
 - [Configurar la Alerta de Stock Crítico](https://help.vtex.com/es/docs/tutorials/configurar-la-alerta-de-stock-critico)
-- [Configurar modal para transportistas](https://help.vtex.com/es/docs/tutorials/configurar-modal)
 
 ## Puntos de recogida
 
@@ -106,4 +102,5 @@ locale: es
 - [VTEX Pick and Pack: Análisis](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-analisis)
 - [VTEX Pick and Pack: Configuración](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-configuracion)
 - [VTEX Pick and Pack Mobile](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-mobile)
+- [Preguntas frecuentes sobre VTEX Pick and Pack](https://help.vtex.com/es/docs/tutorials/preguntas-frecuentes-sobre-vtex-pick-and-pack)
 

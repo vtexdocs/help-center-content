@@ -24,7 +24,7 @@ internalReference: 1170038
 
 
 Ao instalar a CLI usando a opção Windows da documentação, não há editor. Portanto, você poderá encontrar a seguinte mensagem em seu computador.
- ![image (12).png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Apps/o-instalador-do-windows-da-cli-nao-tem-um-editor_1.png)
+ ![image (12).png](https://vtexhelp.zendesk.com/attachments/token/F02RItFccmznmy106xSt9kjkQ/?name=image+%2812%29.png&lotus_request=true)
 Você pode simplesmente pressionar install e prosseguir com a instalação.
 
 ## Simulação

@@ -21,7 +21,7 @@ Detectar y corregir errores es fundamental para garantizar una experiencia fluid
 
 La página de error de renderización intenta reconectarse automáticamente al cabo de 10 segundos, sin que sea necesaria la intervención del usuario, lo que aumenta las posibilidades de resolver el problema rápidamente.
 
-![Tela erro - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Operational/VTEX%20Admin/consultar-errores-de-renderizacion-en-el-admin-vtex_1.png)
+![Tela erro - ES](https://images.ctfassets.net/alneenqid6w5/bTUpjxR1p69QtPpWzaaB3/564b0429eff3265d90fdb499c417b1ad/Tela_erro_-_ES.png)
 
 ## Cómo consultar detalles de errores de renderización
 
@@ -32,4 +32,4 @@ Los detalles técnicos del error están disponibles en la consola del navegador,
 3. Accede a la pestaña **Consola** para ver los mensajes de log y los errores registrados por el navegador.
 4. Consulta en la consola las líneas resaltadas en rojo, que representan mensajes de error e indican que algo no se ha cargado o procesado correctamente.
 
-![devtools - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Operational/VTEX%20Admin/consultar-errores-de-renderizacion-en-el-admin-vtex_2.gif)
+![devtools - ES](https://images.ctfassets.net/alneenqid6w5/26rabPnSk3xX5mmsGq6pv2/1a68d0bd15fad6a5be5ebf1c9d9ce0fe/devtools_-_ES.gif)

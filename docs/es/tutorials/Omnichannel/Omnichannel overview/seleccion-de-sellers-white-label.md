@@ -3,8 +3,8 @@ title: 'Selección de sellers white label'
 id: 3MemNQ4pKkWCpMdzI27AHa
 status: PUBLISHED
 createdAt: 2021-03-05T12:15:19.533Z
-updatedAt: 2022-06-17T16:05:08.344Z
-publishedAt: 2022-06-17T16:05:08.344Z
+updatedAt: 2025-07-22T22:19:55.610Z
+publishedAt: 2025-07-22T22:19:55.610Z
 firstPublishedAt: 2021-03-05T13:12:55.997Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -49,7 +49,7 @@ Cuando un cliente navega por el _marketplace_ y se desconoce su ubicación, los 
 
 ### Vitrina con localización del cliente
 
-Cuando el _marketplace_ conoce la ubicación del cliente, ya sea por medio de geocoordenadas captadas o mediante datos que brindó el cliente, la plataforma VTEX puede consultar a todos los _sellers_ que cubren dicha región a fin de mostrar el precio y la disponibilidad de los productos en la vitrina. Obtén más información en [Configurar el precio y la disponibilidad de los SKU por región](/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
+Cuando el _marketplace_ conoce la ubicación del cliente, ya sea por medio de geocoordenadas captadas o mediante datos que brindó el cliente, la plataforma VTEX puede consultar a todos los _sellers_ que cubren dicha región a fin de mostrar el precio y la disponibilidad de los productos en la vitrina y seleccionar el que ofrece el precio más bajo. Obtén más información en [Configurar el precio y la disponibilidad de los SKU por región](/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
 <div class="alert alert-warning">
 Cuando se conoce la ubicación del cliente, la plataforma VTEX consulta a todos los <i>sellers</i> de manera predeterminada, de acuerdo con la funcionalidad <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Región v2</a>. Sin embargo, es posible que algunas tiendas VTEX aún operen con Región v1, la cual tiene limitaciones en cuanto a la selección de <i>sellers</i> para la vitrina.
@@ -112,13 +112,13 @@ Si hay un empate entre los _sellers_ con los criterios de menor costo o mejor pl
 
 Un cliente agregó cinco SKU al carrito. Cada uno de los _sellers_ que ofrece la opción de entrega en su región (_sellers_ A, B, C y D) tiene en su [inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) solo una parte de los _ítems_, tal como se muestra en la imagen a continuación:
 
-![print_selecao_seller_white_label_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Omnichannel/Omnichannel%20overview/seleccion-de-sellers-white-label_1.png)
+![print_selecao_seller_white_label_1](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
 
 La plataforma VTEX selecciona al _seller_ que tiene disponible en su _stock_ el número máximo de SKU del carrito. En este caso, el _seller_ B es el único que entrega tres SKU. 
 
 Luego de seleccionar al _seller_ B, aún quedan dos SKU sin entregar. Si un único _seller_ enviara ambos, ese sería el factor decisivo para la selección, ya que el objetivo es reunir la menor cantidad de _sellers_ para cubrir el carrito. Sin embargo, y de acuerdo con la imagen a continuación, se necesitan a los _sellers_ A y C para entregar los SKU 1 y 4:
 
-![print_selecao_seller_white_label_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Omnichannel/Omnichannel%20overview/seleccion-de-sellers-white-label_2.png)
+![print_selecao_seller_white_label_2](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
 
 En la primera imagen, el _seller_ C podía entregar los SKU 3 y 4, y el _seller_ D entregaría el SKU 5. No obstante, se seleccionó al _seller_ B para entregar esos _ítems_, entonces, no se tienen en cuenta esos SKU en las otras etapas de selección. Esto se representó eliminando la flecha del _seller_ C hacia el SKU 3, y la flecha del _seller_ D hacia el SKU 5.
 
@@ -128,7 +128,7 @@ El resultado de la selección para la entrega es una combinación entre los _sel
 
 Un cliente agregó cinco SKU al carrito y hay cuatro _sellers_ (A, B, C y D) que entregan los pedidos en su región. Ninguno de ellos tiene en su [inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) todos los _ítems_, tal como se muestra en la imagen a continuación:
 
-![print_selecao_seller_white_label_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Omnichannel/Omnichannel%20overview/seleccion-de-sellers-white-label_3.png)
+![print_selecao_seller_white_label_3](https://images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
 
 La plataforma VTEX selecciona al _seller_ que tiene disponible en su _stock_ el mayor número de los SKU del carrito. Tanto el _seller_ B como el _seller_ D pueden entregar tres _ítems_, y como ambos entregan el SKU 3, compiten entre ellos.
 
@@ -141,11 +141,11 @@ Supongamos que el _seller_ B tiene la entrega más económica, y que el _seller_
 
 - **Entrega más rápida:** cuando se selecciona al _seller_ D, quedan sin entregar los SKU 3 y 4. El _seller_ C puede entregar ambos, por lo que resulta elegido y el resultado de la selección es la combinación de los _sellers_ D y C.
 
-![print_selecao_seller_white_label_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Omnichannel/Omnichannel%20overview/seleccion-de-sellers-white-label_4.png)
+![print_selecao_seller_white_label_4](https://images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
 
 - **Entrega más económica:** cuando se selecciona al _seller_ B, quedan sin entregar los SKU 1 y 4. Como solo el _seller_ A entrega el SKU 1, y solo el _seller_ C entrega el SKU 4, el resultado de la selección es una combinación de los _sellers_ A, B y C. 
 
-![print_selecao_seller_white_label_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Omnichannel/Omnichannel%20overview/seleccion-de-sellers-white-label_5.png)
+![print_selecao_seller_white_label_5](https://images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
 
 Las flechas repetidas de los _sellers_ que entregaban los SKU ya cubiertos por los _sellers_ B y D se eliminaron de las imágenes que contemplaban las opciones de entrega más económica y más rápida. Esto se debe a que en las etapas de selección sucesivas, los SKU ya cubiertos no se tienen en cuenta.
 

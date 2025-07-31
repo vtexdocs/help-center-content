@@ -3,7 +3,7 @@ title: 'Preços'
 id: category-prices
 status: PUBLISHED
 createdAt: 2024-11-05T19:06:37.704Z
-updatedAt: 2025-07-21T21:31:53.115Z
+updatedAt: 2025-07-31T13:47:38.664Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: category-prices
@@ -15,7 +15,6 @@ locale: pt
 - [Atualizar preço para marketplace](https://help.vtex.com/pt/docs/tutorials/atualizando-preco-para-marketplace)
 - [Alterar preço de SKU](https://help.vtex.com/pt/docs/tutorials/alteracao-de-preco-de-sku)
 - [Criar XML com preço promocional por tabela de preços](https://help.vtex.com/pt/docs/tutorials/criando-um-xml-com-preco-promocional-por-tabela-de-preco)
-- [Cadastrar o preço base de um produto](https://help.vtex.com/pt/docs/tutorials/cadastrar-o-preco-base-de-um-produto)
 - [Configurar tabelas de preços para usuários específicos](https://help.vtex.com/pt/docs/tutorials/configurar-price-tables-especificas)
 - [Agendar preço](https://help.vtex.com/pt/docs/tutorials/agendar-preco)
 - [Criar tabelas de preços ](https://help.vtex.com/pt/docs/tutorials/criar-tabelas-de-precos)

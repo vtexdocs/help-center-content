@@ -31,7 +31,7 @@ See how they are calculated:
 
 So, in general, the total shipping cost is calculated as follows:
 
-![Custo-final-envio-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Shipping%20rates/total-shipping-cost_1.svg)
+![Custo-final-envio-EN](https://images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/4b04d0319eb18cd1ee0e9c03858c5bc1/Custo-final-envio-EN.svg)
 
 <div class="alert alert-danger">
 If the <b>price-based charge</b> is lower than the <b>insurance charge</b>, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>

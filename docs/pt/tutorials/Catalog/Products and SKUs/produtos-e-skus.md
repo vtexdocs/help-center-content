@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 A página **Produtos e SKUs** possibilita visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, incluindo informações sobre SKUs, data da última atualização e status. Para acessá-la, entre no menu **Catálogo > Produtos e SKUs**.
 
-![products_and_skus_listing_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/produtos-e-skus_1.png)
+![products_and_skus_listing_page_PT](https://images.ctfassets.net/alneenqid6w5/7Hg9SPWks9EScdyttTfXYI/84b9347f9a485999844d6cb8bb25c5e5/products_and_skus_listing_page_PT.png)
 
 A página permite que você realize as seguintes ações:
 
@@ -99,7 +99,7 @@ Os ícones de disponibilidade do produto são igualmente aplicáveis para o SKU,
 
 Ao clicar na seta <i class="fas fa-chevron-right"></i> na linha de um produto, a plataforma exibe uma lista com todos os SKUs cadastrados para aquele produto, conforme apresentado na imagem abaixo:
 
-![products_and_skus_sku_icons_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/produtos-e-skus_2.gif)
+![products_and_skus_sku_icons_PT](https://images.ctfassets.net/alneenqid6w5/7ssqk5kn4ZYRpduWngH49e/ffa04aa9df7b5087fee3acd558033d4e/products_and_skus_sku_icons_PT.gif)
 
 Na lista de SKUs, é possível identificar as informações a seguir:
 
@@ -139,7 +139,7 @@ Ao clicar no ícone de menu <i class="fas fa-ellipsis-v"></i> em um produto, voc
 
 A página **Produtos e SKUs** permite que você acompanhe os registros técnicos da [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) de produtos e SKUs, também chamados de logs. Para isso, na linha correspondente ao produto desejado, clique no [menu de ações](#acessar-menu-de-acoes) <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e escolha a opção `Ver as informações de indexação`. Feito isso, o modal **Log de indexação** será aberto, como na imagem abaixo:
 
-![products_and_skus_indexing_modal_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Products%20and%20SKUs/produtos-e-skus_3.png)
+![products_and_skus_indexing_modal_PT](https://images.ctfassets.net/alneenqid6w5/32F9nLJmKAqeCzvghvMeS5/fcd92058fe6c09dabe2d85ff7e72ff28/products_and_skus_indexing_modal_PT.png)
 
 No canto superior direito do modal, você tem a opção de copiar o conteúdo para a área de transferência, clicando em <i class="far fa-clone" aria-hidden="true"></i> `Copiar`. Para fechar o modal, clique no ícone <i class="far fa-times-circle" aria-hidden="true"></i> ou clique fora do modal.
 

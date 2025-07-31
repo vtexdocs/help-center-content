@@ -32,7 +32,7 @@ Actualmente hay un problema con la creación de algunas cuentas en el Portal del
 
 Abra la cuenta recién creada en el Portal del Vendedor y compruebe si faltan las categorías.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Marketplace/categorias-que-faltan-vendedor-no-provisionado-correctamente_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bvkxO9YLbHCZ7h8ShvB9t9t9M/?name=image.png)
 
 
 ##

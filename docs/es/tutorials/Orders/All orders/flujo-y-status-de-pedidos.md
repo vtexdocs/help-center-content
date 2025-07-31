@@ -40,7 +40,7 @@ Para los casos de pedidos incompletos, consulta el artículo <a href="https://he
 
 ### Flujo de marketplace
 
-![pedido_marketplace_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_1.png)
+![pedido_marketplace_es](https://images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/390a09b29e0385c23be5ce5228e8b9f4/pedido_marketplace_es.png)
 
 El flujo del _marketplace_ está integrado con el flujo del _seller_. Cuando se finaliza un pedido que será enviado por un _seller_ externo (que no es el _seller_ principal), el flujo visto por el _marketplace_ es el siguiente: 
 
@@ -57,7 +57,7 @@ Para saber cómo identificar pedidos que provienen de _marketplaces_, consulta e
 
 ### Flujo de seller
 
-![pedido_fluxo_seller_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_2.png)
+![pedido_fluxo_seller_es](https://images.ctfassets.net/alneenqid6w5/wAez6nwupt5Fw7OosaTUH/51c2f48ff1629813b469311d8c867ec9/pedido_fluxo_seller_es.png)
 
 Este es el flujo del pedido visto por la tienda responsable de enviar los productos que componen el pedido. El pedido se realiza a través de otra tienda (o _marketplace_) y el flujo del _seller_ se inicia después de la confirmación del pedido.
 
@@ -96,7 +96,7 @@ Ten en cuenta que:
 
 ### Flujo completo
 
-![pedido_fluxo_completo_es_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_3.png)
+![pedido_fluxo_completo_es_2](https://images.ctfassets.net/alneenqid6w5/hQ09aEM1eaW28N7TRG0PY/ccb76d6a281ae006d08b4d060866073a/pedido_fluxo_completo_es.png)
 
 El flujo completo del pedido es visto por la tienda que realiza la venta y el envío del pedido. El flujo completo está compuesto por el flujo del _marketplace_ y el flujo del _seller_ de forma secuencial.
 
@@ -144,7 +144,7 @@ Para saber más sobre la cancelación de pedidos, consulta el artículo [¿Por q
 
 ### Flujo de cadena
 
-![pedido_fluxo_chain_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Orders/All%20orders/flujo-y-status-de-pedidos_4.png)
+![pedido_fluxo_chain_es](https://images.ctfassets.net/alneenqid6w5/1H891HnUzdCfoEVuO3Ry3Q/86fb6d87fbe872f1f81aa5219a7f92d6/pedido_fluxo_chain_es.png)
 
 El flujo de pedidos visto por la tienda intermediaria en una venta [Multinivel Omnichannel Inventory](/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) es similar al flujo de pedidos del _marketplace_, excepto al recibir el pago de los pedidos. En la etapa de `Pago pendiente`, en lugar de la cadena recibir el pago directamente del _gateway_, el _marketplace_ informa a la cadena que recibió la confirmación del pago. 
 

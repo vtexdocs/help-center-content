@@ -44,7 +44,7 @@ Para que uma coleção seja exibida no menu pelo controle Search Navigator, ela 
 
 Essa flag fica nas configurações da própria coleção, dentro do CMS.
 
-![searchNavigator2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/controle-search-navigator_1.jpg)
+![searchNavigator2](https://images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
 
 ## Categorias
 
@@ -52,7 +52,7 @@ Para uma categoria ser exibida por ação desse controle, ela deve estar com a f
 
 Essa flag fica na tela de cadastro da categoria.
 
-![searchNavigator1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/controle-search-navigator_2.jpg)
+![searchNavigator1](https://images.contentful.com/alneenqid6w5/Q04sSdSPeK4U6Cu48MKkK/198759d6dcdb5d740f0e7b380d8f38cc/searchNavigator1.jpg)
 
 <div class="alert alert-info">
   <strong>Importante</strong>: O controle <code>&lt;vtex.cmc:searchNavigator/&gt;</code> exibe, por padrão, apenas a categoria raiz (primeiro nível) e a subcategoria mais específica (último nível) dentro do contexto atual. Desdobramentos intermediários da árvore de categorias são omitidos.
@@ -85,7 +85,7 @@ Para que um campo de produto ou um campo de SKU seja exibido no menu pelo contro
 
 Ambas se encontram na tela de cadastro do campo.
 
-![searchNavigator3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/controle-search-navigator_3.jpg)
+![searchNavigator3](https://images.contentful.com/alneenqid6w5/5ZG3cioleoCUqSgiuGiG4m/cb943696e7952da38d36746f20941569/searchNavigator3.jpg)
 
 ## Faixas de preço
 

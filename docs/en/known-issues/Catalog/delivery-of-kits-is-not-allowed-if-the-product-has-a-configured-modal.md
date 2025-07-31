@@ -43,7 +43,7 @@ Currently the delivery of a kit is not allowed if the product has a configured m
 
 Configure the shipping policy so that it also delivers undefined modals.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/delivery-of-kits-is-not-allowed-if-the-product-has-a-configured-modal_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/deeIRFGCxJEMdfXegOHTI8nuP/?name=inline923958570.png)
 Obs: This workaround is only available if ALL components inside the KIT has the modal configured,
 
 

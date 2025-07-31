@@ -34,7 +34,7 @@ Error al descargar facturas en el módulo "Facturas" de Mercado Livre
 Admin > Mercado > Mercado Livre > Facturas
 Seleccionar periodo 1 semana (por ejemplo) > Descargar facturas
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/mercado-livre-error-al-descargar-facturas-en-el-modulo-facturas_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/tD9HEk2jCe7c63ScUffjcZrQb/?name=image.png)
 
 
 ##

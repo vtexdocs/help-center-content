@@ -22,7 +22,7 @@ To apply different prices to products via XML, you must associate a SKU price ta
   2. Find the XML file you want to edit and click on `Modify`. If you want to create a new file, please read our article [Configuring XML](/en/tutorial/configuring-xml--tutorials_242).
   3. Here, you must check if the fields related to SKU price (lowest product price, highest product price, original SKU price, current SKU price and current SKU price + taxes) are filled in. For the operation to work correctly, at least one of these fields must contain information.
   4. Fill in the **Price tables ** field with the name of the desired price table. Then, click on the check box corresponding to the tag in the column **Show content**. The selected price table must have fixed prices registered. Otherwise, the configuration will not be performed.
-![PT-tabela de precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/creating-an-xml-with-promotional-price-using-a-price-table_1.png)
+![PT-tabela de precos](https://images.ctfassets.net/alneenqid6w5/3WM4imKTVz2bpddr5MO1X1/b3741b0744059913db5a9eda668f7d0f/PT-tabela_de_precos.png)
 <div class="alert alert-warning">
   <p>Once the price table is included in the XML, all price fields will be overwritten.</p>
 </div>
@@ -35,4 +35,4 @@ After finishing the XML registration and saving the changes, you can check the i
 
 Example of updated XML:
 
-![XML-exemplo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/Price%20list/creating-an-xml-with-promotional-price-using-a-price-table_2.png)
+![XML-exemplo](https://images.ctfassets.net/alneenqid6w5/6VFUKpMkQdW1mdUTn4XE77/a4d00c7382bb91d26a813eda5946a62d/XML-exemplo.png)

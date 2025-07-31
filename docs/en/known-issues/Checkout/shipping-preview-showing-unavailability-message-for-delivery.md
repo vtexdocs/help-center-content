@@ -21,7 +21,7 @@ internalReference: 1170877
 
 The shipping preview in the cart does not consider the selected SLA, even though the Checkout API is correct. It shows the message "Shipping not available for your location."
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Checkout/shipping-preview-showing-unavailability-message-for-delivery_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/oKGiw0BqXd83twkctR84fT0Wc/?name=image.png)
 
 This behavior was noticed in particular countries, such as Argentina and Colombia, but it's not limited to those 2.
 
