@@ -19,7 +19,7 @@ VTEX permite que tu tienda actúe a la vez como [seller](/es/tutorial/como-confi
 
 Para mejorar esta experiencia, hemos rediseñado la página **Vínculos de SKU** en el Admin VTEX. La nueva interfaz te permite seguir y gestionar la relación de vínculo entre los SKU del seller y del marketplace de una forma más sencilla y ágil.
 
-![sku_binding_page_ES_final](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022-07-26-nueva-interface-de-vinculos-de-sku_1.png)
+![sku_binding_page_ES_final](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/c5f9ed73561edd82c340eef6f28ef12a/sku_binding_page_ES_final.png)
 
 ## ¿Qué cambió?
 

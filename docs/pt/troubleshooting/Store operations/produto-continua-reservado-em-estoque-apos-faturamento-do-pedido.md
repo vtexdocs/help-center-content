@@ -13,8 +13,9 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: pt
 legacySlug: produto-continua-reservado-em-estoque-apos-faturamento-do-pedido
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Estoque, Reserva
 ---
+
+**Tags:** Estoque, Reserva
 
 A reserva de estoque é uma funcionalidade essencial, que garante que o produto vendido em um pedido não seja disponibilizado para outro cliente até que o pedido seja completamente processado. No entanto, uma dúvida comum entre lojistas é entender por que a reserva permanece ativa, mesmo após o faturamento do pedido.
 
@@ -55,3 +56,4 @@ Para atualizar manualmente o saldo do inventário, siga as etapas abaixo:
 Ao atingir o status **Preparando Entrega**, é fundamental que o sistema de estoque atualize o produto, removendo-o do status de reservado e ajustando a quantidade disponível. Para isso, o ERP deve sincronizar o saldo de produtos em estoque, descontando os produtos que já estão reservados para pedidos em andamento.
 
 A configuração e integração do ERP são de responsabilidade do lojista. Esse processo pode ser automatizado através do endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), que permite a comunicação entre o sistema ERP e o estoque da loja, garantindo que as informações estejam sempre atualizadas.
+

@@ -32,10 +32,10 @@ Si creas una ruta en el archivo `routes.json` de tu tema, la ruta no se borrará
 
 
 Cree una página en sus temas bajo el archivo routes.json:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/al-eliminar-rutas-del-archivo-routesjson-no-se-eliminan-de-la-interfaz-de-usuario_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zoljY2X9GZ6NL4wUd10zoranp/?name=image.png)
 
 La página se creará correctamente en el admin:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/al-eliminar-rutas-del-archivo-routesjson-no-se-eliminan-de-la-interfaz-de-usuario_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/n2RP165BLtHwdHRrscu0IwOTo/?name=image.png)
 
 Si eliminas esa ruta del tema, la referencia al admin seguirá ahí. Pero usted todavía será capaz de editar las rutas en el admin.
 

@@ -30,13 +30,13 @@ To create this type of list, an SKU must be set up as follows:
 - The SKU price must be R$0.01.
 - The SKU must be set up to generate a credit voucher.
 
-![sku-opção-credito-vale en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/setting-up-the-voucher-list_1.png)
+![sku-opção-credito-vale en](https://images.ctfassets.net/alneenqid6w5/4CQusNMh8csmAs6qOkYAIi/07ea9ef632ca04b3e8b39c170732e18b/sku-op____o-credito-vale_en.png)
 
 ## List Types Settings
 
 The creation of this type of list requires that in the List Types settings the delivery is marked as “Value of products purchased will be converted into a gift card voucher”. See the example image.
 
-![entrega-tipos-lista en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/List%20types/setting-up-the-voucher-list_2.png)
+![entrega-tipos-lista en](https://images.ctfassets.net/alneenqid6w5/3WBtZ9m8zSsUmaIgYaIUSq/00be0c7191f283fa2f4ef1abdab917b6/entrega-tipos-lista_en.png)
 
 Save your list after you have defined all settings.
 

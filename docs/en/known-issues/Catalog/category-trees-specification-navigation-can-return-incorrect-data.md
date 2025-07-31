@@ -21,7 +21,7 @@ internalReference: 1179682
 
 Currently, when navigating the category tree, if an user navigates to "Field (SKU)" and then "Values" for a specification and then goes back to the category tree view via clicking the breadcrumb link:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/category-trees-specification-navigation-can-return-incorrect-data_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/qtPOrJ9QkBSTLEALtov7At2nI/?name=image.png)
 
 And then navigates back to the same speficiation form, the previously listed specification values will not be listed anylonger.
 

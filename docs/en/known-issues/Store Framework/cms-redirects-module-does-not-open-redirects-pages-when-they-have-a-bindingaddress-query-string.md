@@ -20,7 +20,7 @@ internalReference: 1115321
 
 
 When you're navigating a store with a binding address query string (mostly crossborder stores), and try to open a specific redirect through the CMS Redirects module, the page does not open. This happens because the query made to rewriter counts the querystring as part of the variable to search:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/cms-redirects-module-does-not-open-redirects-pages-when-they-have-a-bindingaddress-query-string_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/jls5hNgRD8iSjCKauOrfX6oxS/?name=image.png)
 
 This wrong search leads to the KI: 729503 which affects redirects built with query strings.
 

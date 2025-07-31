@@ -79,7 +79,7 @@ Cuando la tienda opera como marketplace y seller, se le asigna la tag <code>IsOn
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Contracts/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
+![marcacao_pedidos_ES](https://images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/67cb1c34478f7e4573d1b001bd37d721/marcacao_pedidos_ES.png)
 
 <div class="alert alert-warning">
 A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como <code>IsB2C</code>. Es decir, sólo los canales de venta certificados están marcados por origen.

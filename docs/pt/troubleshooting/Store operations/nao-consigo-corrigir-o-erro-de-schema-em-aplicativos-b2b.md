@@ -13,8 +13,9 @@ slugEN: i-cant-fix-the-schema-error-in-b2b-apps
 locale: pt
 legacySlug: nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: B2B, Schema, Master Data
 ---
+
+**Tags:** B2B, Schema, Master Data
 
 Em ambientes que utilizam aplicativos B2B, os usuários podem encontrar o alerta `schema is invalid` relacionado a problemas de schema. Esse tipo de alerta geralmente ocorre devido a uma configuração incorreta na entidade CL (cliente) dentro do Master Data.
 
@@ -47,4 +48,4 @@ Para corrigir o alerta Schema is invalid, siga os passos abaixo para garantir a 
 
 A imagem abaixo ilustra os passos necessários para corrigir a configuração dos campos obrigatórios no Master Data, solucionando o alerta `schema is invalid`.
 
-![B2B Suite - troubleshootingv2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-corrigir-o-erro-de-schema-em-aplicativos-b2b_1.gif)
+![B2B Suite - troubleshootingv2](https://images.ctfassets.net/alneenqid6w5/3IYnKHxoYR6FcKZGiG98fO/9d6187b95b49edc893df08ebdecfec94/B2B_Suite_-_troubleshootingv2.gif)

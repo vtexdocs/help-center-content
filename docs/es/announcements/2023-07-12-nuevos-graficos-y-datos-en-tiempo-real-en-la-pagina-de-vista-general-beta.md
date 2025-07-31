@@ -17,7 +17,7 @@ announcementSynopsisES: 'La página Vista General de tu Admin VTEX ha sido redis
 
 La página de [Vista general (Beta)](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) de tu Admin VTEX ha sido rediseñada y ahora ofrece nuevos gráficos, métricas y vistas. Estas nuevas funcionalidades proporcionan un seguimiento en tiempo real de tu operación, ofreciendo visibilidad con relación a los indicadores para que tu equipo y tú tengan un rápido feedback sobre las acciones realizadas en la tienda y puedan actuar con prontitud para implementar mejoras. 
 
-![ES Visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023-07-12-nuevos-graficos-y-datos-en-tiempo-real-en-la-pagina-de-vista-general-beta_1.png)
+![ES Visão geral beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/5b97a2cf1346f1c95fc32512c95da972/ES_Visa__o_geral_beta.png)
 
 ## ¿Qué cambió?
 

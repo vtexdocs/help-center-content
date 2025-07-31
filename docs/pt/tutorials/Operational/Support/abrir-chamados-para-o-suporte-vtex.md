@@ -59,7 +59,7 @@ O Copilot é uma ferramenta integrada à plataforma que facilita o suporte técn
    - Tenho um cenário inesperado.
    - Preciso de uma configuração por parte da VTEX.
 
-![Chatbot-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Operational/Support/abrir-chamados-para-o-suporte-vtex_1.gif)
+![Chatbot-PT](https://images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/74ecf0d07b35057f1d2a82da9486d19e/copilot-pt.gif)
 
 ### 3. Conversar com o Copilot
 Para que o Copilot ofereça a assistência correta, forneça as seguintes informações ao solicitar ajuda:

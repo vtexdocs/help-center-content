@@ -21,7 +21,7 @@ The Shopping Feed platform allows global brands to centralize, optimize, and tra
 To integrate with Shopping Feed, you must contact the <a href="https://help.vtex.com/support?/cultureInfo=en">VTEX support team</a> before following this tutorial.
 </div>  
 
-![Logo shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_1.png)
+![Logo shopping feed](https://images.ctfassets.net/alneenqid6w5/0aaChaSgJGB0XLwNrKhi0/0b21f61eee1d8e50002864d8191081e8/logo-shoppingfeed.png)
 
 Once the connector app is configured, your catalog feed will be available on ShoppingFeed, and your products will be ready to be published on the channels of your choice. As you sell across different channels, orders, and product stock levels will automatically stay synchronized between VTEX and Shopping Feed.   
 
@@ -49,7 +49,7 @@ To configure the connector, follow the steps below:
 1. In the app card, click **Settings.**   
 2. Fill in the fields shown in the image below. The fields in the Cron jobs section should be modified according to [this guide](https://crontab.guru/).  
 
-![crontab shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_2.png)
+![crontab shopping feed](https://images.ctfassets.net/alneenqid6w5/TbqmKmvkaJQvZUp4M8ZOI/7e9d4223acf8346aa4dc267c371cc39f/config-shoppingfeed.png)
 
 After the app is installed in the store, a new menu option becomes available in the VTEX Admin under **Apps > Installed Apps > Shopping Feed.**  
 
@@ -90,7 +90,7 @@ To create a feed, follow the steps below:
 6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
 7. Click the `Save` button.  
 
-![config app shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/shopping-feed-integration_3.png)
+![config app shopping feed](https://images.ctfassets.net/alneenqid6w5/539UhKVd6ocYzcY9Of5TY2/a040ea221be3ce0fb4622db825167818/shopping_feed_config.png)
 
 <div class="alert alert-danger">
 Each time a new feed is created, it is necessary to refresh all feeds by clicking on

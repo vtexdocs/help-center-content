@@ -32,13 +32,13 @@ Algunas actualizaciones de catálogo relacionadas con rutas no están llegando a
 
 
 Si tienes una ruta sin productos o con error, prueba a ejecutar primero la consulta bootstrap:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/lgRhaWsmwABr8rF4ow1DmLNwC/?name=image.png)
 
     {bootstrap{brandscategories}}
 
 
 Si no funciona, comprueba si el rewriter está recibiendo la ruta, si la respuesta es null entonces el rewriter no ha recibido la actualización:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Store%20Framework/el-reescritor-no-recibe-las-rutas-actualizadas-desde-el-catalogo_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/W3vx3sa1BFL2DOSIsTh49tuvk/?name=image.png)
 
     {internal{get(ruta:"/prueba"){fromdeclarerid}}}
 

@@ -3,8 +3,8 @@ title: 'Mutual Transport Layer Security (mTLS)'
 id: 6YR3SoynJMfeEKGlY1Cqlo
 status: PUBLISHED
 createdAt: 2025-05-21T23:02:08.320Z
-updatedAt: 2025-05-21T23:23:43.762Z
-publishedAt: 2025-05-21T23:23:43.762Z
+updatedAt: 2025-07-22T14:43:57.796Z
+publishedAt: 2025-07-22T14:43:57.796Z
 firstPublishedAt: 2025-05-21T23:17:03.123Z
 contentType: tutorial
 productTeam: Identity
@@ -138,3 +138,6 @@ mTLS puede implementarse en todos los sistemas o solo en integraciones específi
 ## Más información
 
 * [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [mTLS API](https://developers.vtex.com/docs/api-reference/mtls-api#overview)
+* [Implementing Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/implementing-mtls)
+* [Revoking SSL private certificates when using Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/revoking-ssl-private-certificates-when-using-mtls)

@@ -28,11 +28,11 @@ internalReference: 388869
 
 - Do a request that returns a value on the field Videos,f or example: https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit/13130?an=hopelingerie
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return_1.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/fxxa2tvxLqJcCmINgOWsDv9KM/?name=inline104653841.png)​
 
 - Do the request now using the query parameter refid, for example: https://catalog.vtexcommercestable.com.br/api/catalog/pvt/stockkeepingunit?refId=LCL91200MSH000P&an=hopelingerie
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return_2.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/XzVhNkVqxQSCuhCCxS46Inzgq/?name=inline310060959.png)​
 
 
 

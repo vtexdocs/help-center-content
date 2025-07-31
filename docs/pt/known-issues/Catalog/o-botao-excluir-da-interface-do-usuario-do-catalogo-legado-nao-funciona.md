@@ -25,7 +25,7 @@ internalReference: 326408
 
 O botão para excluir produtos no catálogo não está funcionando, ele simplesmente não reconhece nenhum clique do usuário
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/o-botao-excluir-da-interface-do-usuario-do-catalogo-legado-nao-funciona_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ZR7ogOzhfLN3yC61V9RzTMRlZ/?name=inline-652081372.png)
 
 Essa ação pode funcionar se o produto tiver acabado de ser criado e não houver skus, imagens ou qualquer outro tipo de dados associados a ele.
 

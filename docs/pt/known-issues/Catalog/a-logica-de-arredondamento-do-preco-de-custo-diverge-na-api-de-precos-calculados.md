@@ -32,7 +32,7 @@ Defina um produto com um preço de custo de 67,82 e nenhuma marcação.
 
 Verifique a interface do usuário de preços e a resposta dessa API, que deve fornecer:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/r33X4C7mwiOwq9GkcB72ngCur/?name=image.png)
 
 Mesmo que o valor correto seja 67,8
 

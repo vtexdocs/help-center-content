@@ -13,8 +13,9 @@ slugEN: why-dont-marketplace-orders-integrate-with-my-store
 locale: es
 legacySlug: por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Pedidos, Marketplace, Integración, SKU, Stock
 ---
+
+**Tags:** Pedidos, Marketplace, Integración, SKU, Stock  
 
 Cuando se producen errores de integración de pedidos entre un marketplace y tu tienda, se muestran mensajes en la página de cada pedido, informando el error ocurrido. Los posibles errores de integración de pedido son los siguientes:  
 

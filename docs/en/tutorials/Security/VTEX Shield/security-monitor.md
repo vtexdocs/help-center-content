@@ -26,7 +26,7 @@ To access the dashboard, follow the steps below:
 1. In the VTEX Admin, go to **Dashboards**, or type **Dashboards** in the search bar.
 2. Under **Security Monitor**, click **Security Monitor Dashboard**.
 
-![1-security-monitor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_1.png)
+![1-security-monitor-en](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/2cc1c397d80b020cdee8743eb79fa2b7/security-monitor-en.png)
 
 Security Monitor displays the findings in three tabs based on their status:
 
@@ -49,7 +49,7 @@ The **Open** tab displays the threats detected by the Security Monitor that have
 
 The top bar displays the total number of findings and the number of threats by severity level (high, medium, or low).
 
-![2-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_2.png)
+![2-findings-en](https://images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/e70417627fcb41986d7ab06be2aaafcd/findings-en.png)
 
 The tab displays the full list of open findings in a table, from the most recent to the oldest:
 
@@ -80,7 +80,7 @@ To move a finding to the **Snoozed** tab, removing it temporarily from the **Ope
 3. Choose the number of days you want the finding to remain in the **Snoozed** tab. The options available are: **7**, **90**, or **120** days.
 4. Click `Snooze`.
 
-![3-snooze-finding-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_3.png)
+![3-snooze-finding-en](https://images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/c7ca24c6ee12e307477b5436fd7ded5d/snooze-en.png)
 
 ## Snoozed
 
@@ -109,7 +109,7 @@ In the search bar, enter the user's email address or the name of the application
 
 By clicking `Type` <i class="fas fa-chevron-down"></i>, you can choose one of the finding types to filter the results displayed in the list. Click `Apply` to confirm the chosen filter, and the list will be updated.
 
-![4-filter-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_4.png)
+![4-filter-findings-en](https://images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/144c7b2efaaf32d4ef8de3cdb115eb47/filter-security-monitor-en.png)
 
 ## Exporting findings
 
@@ -153,7 +153,7 @@ To edit the admin users who will be notified about the findings, follow the step
    To remove a user, click the `X` next to their email.
 3. Click `Save`.
 
-![5-edit-notifications-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Security/VTEX%20Shield/security-monitor_5.png)
+![5-edit-notifications-en](https://images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/d7022e75253fe620253513a811edad0f/notifications-security-monitor-en.png)
 
 ## Learn more
 

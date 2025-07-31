@@ -3,8 +3,8 @@ title: "Arredondamento incorreto de preços quando o multiplicador de unidades �
 id: 7EhT7xXL5TJpQrfoXs3kn7
 status: PUBLISHED
 createdAt: 2025-07-14T12:56:21.332Z
-updatedAt: 2025-07-16T14:55:05.155Z
-publishedAt: 2025-07-16T14:55:05.155Z
+updatedAt: 2025-07-24T17:38:09.023Z
+publishedAt: 2025-07-24T17:38:09.023Z
 firstPublishedAt: 2025-07-14T14:50:39.819Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -23,7 +23,7 @@ internalReference: 1258875
 </div>
 
 
-O Intelligent Search pode recuperar o preço de um produto com mais de 2 casas decimais quando o multiplicador de unidades for diferente de 1.
+O Intelligent Search pode recuperar o preço de um produto com mais de duas casas decimais quando o multiplicador de unidades for diferente de 1.
 
 Por exemplo, uma unidade de um produto custa US$ 69,26, sendo que o multiplicador de unidades é 85.
 

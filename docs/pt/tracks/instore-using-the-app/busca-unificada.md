@@ -20,13 +20,13 @@ Com a [prateleira infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRR
 Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
 </div>
 
-![Barra busca - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-using-the-app/busca-unificada_1.gif)
+![Barra busca - PT](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/3c7031056980ae911e2436933bee89fa/Tela_1_barra_busca.gif)
 
 A busca do VTEX Sales App é unificada, o que significa que ao fazer uma busca no aplicativo a pesquisa é feita tanto no estoque local (da sua loja física) quanto no de outras lojas físicas e nos centros de distribuição associados ao ecommerce.
 
 Os resultados da busca mostram os produtos organizados para melhorar a experiência do cliente, com imagens que facilitam a identificação dos produtos e informações relevantes para o vendedor.
 
-![Busca unificada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-using-the-app/busca-unificada_2.png)
+![Busca unificada - PT](https://images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/c918c2a6179fc8899f9bc3d899b60121/Busca_unificada_VTEX_Sales_App.png)
 
 Ao clicar na opção `Adicionar ao carrinho`, as seguintes informações do produto serão exibidas:
 
@@ -36,7 +36,7 @@ Ao clicar na opção `Adicionar ao carrinho`, as seguintes informações do prod
 
 Para adicionar o produto ao carrinho, selecione a variação, entrega e quantidade desejada e clique em `Adicionar ao carrinho`.
 
-![Carrinho - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-using-the-app/busca-unificada_3.png)
+![Carrinho - PT](https://images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/f4a3612b1e625a03b446831229bbf605/Adicionar_ao_carrinho_VTEX_Sales_App.png)
 
 ## Filtros
 

@@ -33,7 +33,7 @@ The Received SKUs page is divided in tabs that correspond to the different offer
 
 Each tab displays a SKU list, offer SKU specifications, and the percentage of offers that have that status. Additionally, the tab has filter options that you can apply to the offers.  
 
-![received-skus-tabs-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_1.png)
+![received-skus-tabs-en](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/09fa16e993ba58dffa27b8809bb22c8f/received-skus-tabs-en.png)
 
 ### Pending
 
@@ -50,7 +50,7 @@ Each row in the list represents a product and contains the following information
 
 To check all the specifications of a product, click the name of the product. This will open a window that contains all the product information.  
 
-![received-skus-tabs-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_2.png)
+![received-skus-tabs-en](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ff94df985c2cc930548645ac0fbd5e98/received-skus-analyse-product-en.png)
 
 ### Issues  
 
@@ -62,7 +62,7 @@ The **Issues** tab contains all the offers that haven't been approved because th
 
 To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
-![received-skus-problems-tab](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_3.png)
+![received-skus-problems-tab](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/c690aa738096b88db8dcaa5aa6ddd959/offers-problems-en.png)
 
 ### Approved  
 
@@ -121,7 +121,7 @@ By default, the items that were submitted most recently are displayed at the top
 
 In this case, the items will be sorted in ascending or descending order when you click the **Price** or **Inventory** column headers.  
 
-![received-skus-ord-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_4.png)
+![received-skus-ord-en](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/585afe9679294087fe9351cea7f0799a/received-skus-ord-en.png)
 
 ## Cataloging items  
 
@@ -163,7 +163,7 @@ Creates a new SKU in the catalog and, consequently, a new product. We recommend 
 3. Complete the **Category** and **Brand** fields for each product. If the mapping was previously completed, the fields will be filled automatically.  
 4. Click `Approve`.  
 
-![received-skus-create-new-product-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_5.png)
+![received-skus-create-new-product-en](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/2d18fb18e7711cb4cd341795ac0820b4/received-skus-create-new-product-en.png)
 
 <div class="alert alert-info">
 This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
@@ -178,7 +178,7 @@ Creates a relationship between the seller product and a product in the marketpla
 3. Enter the product ID you want to associate them with.  
 4. Click `Approve`.  
 
-![received-skus-bind-to-product-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_6.png)  
+![received-skus-bind-to-product-en](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/fc02d18fe2771b0603f861f8516ab7ae/received-skus-bind-to-product-en.png)  
 
 **Use case**  
 
@@ -198,7 +198,7 @@ Creates a relationship between the new seller SKU and a SKU in the marketplace c
 3. Enter the **SKU ID** that you want to link for each SKU you're approving.  
 4. Click `Approve`.  
 
-![received-skus-bind-to-sku-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_7.png)
+![received-skus-bind-to-sku-en](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/8bc6c9b98e03afe02252bd69342005d1/received-skus-bind-to-sku-en.png)
 
 **Use case**  
 
@@ -219,7 +219,7 @@ Blocks the selected offers. This will prevent them from being automatically proc
 3. Complete the **Block reason** field. This field is optional.  
 4. Click `Reject`.  
 
-![received-skus-reject-and-block-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_8.png)
+![received-skus-reject-and-block-en](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/247d5dcfb554755d091b1367d84db2d5/received-skus-reject-and-block-en.png)
 
 When the marketplace blocks a SKU, it won't be included with other submitted offers the next time that the seller sends products. A SKU can be unblocked using a REST API if the marketplace wants to receive it as a suggestion from the seller. To learn more about SKU approval, see [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
@@ -236,7 +236,7 @@ Rejects the offer and sends an information correction request to the seller. To 
 3. Enter the information that needs correction in the Corrections field.  
 4. Click `Reject`.  
 
-![received-skus-reject-for-correction-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Products/received-skus-beta_9.png)
+![received-skus-reject-for-correction-en](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/7d456cf95d5a4ed7011accdfe0550fba/received-skus-reject-for-correction-en.png)
 
 <div class="alert alert-info">
 <p>This action can be applied in the offer tab <b>Pending</b>. The offers that need correction will show in the <b>Issues</b> tab.</p>

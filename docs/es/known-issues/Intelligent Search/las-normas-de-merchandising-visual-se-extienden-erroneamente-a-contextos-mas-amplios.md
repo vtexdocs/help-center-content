@@ -3,8 +3,8 @@ title: "Las normas de merchandising visual se extienden erróneamente a contexto
 id: 2wXWYnsHwYrXByNRu3HdBK
 status: PUBLISHED
 createdAt: 2024-09-13T22:19:38.122Z
-updatedAt: 2025-01-02T16:08:44.962Z
-publishedAt: 2025-01-02T16:08:44.962Z
+updatedAt: 2025-07-28T18:39:02.051Z
+publishedAt: 2025-07-28T18:39:02.051Z
 firstPublishedAt: 2024-09-13T22:19:39.138Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slugEN: las-normas-de-merchandising-visual-se-extienden-erroneamente-a-contextos-mas-amplios
 locale: es
-kiStatus: Fixed
+kiStatus: Backlog
 internalReference: 1098688
 ---
 
@@ -23,7 +23,7 @@ internalReference: 1098688
 </div>
 
 
-Las reglas de merchandising visual se establecen para contextos específicos definiendo filtros por atributos o términos de búsqueda, pero los filtros no se están limitando a su contexto exclusivo, generando resultados de búsqueda inesperados y entrando en conflicto con reglas de merchandising diferentes para otras páginas.
+Las reglas de merchandising visual se establecen para contextos específicos definiendo filtros por atributos o términos de búsqueda, pero los filtros no se limitan a su contexto exclusivo, generando resultados de búsqueda inesperados y entrando en conflicto con reglas de merchandising diferentes para otras páginas.
 
 Por contexto, los productos anclados y ocultos realizan la misma acción que las acciones promover y eliminar por ID de una regla de merchandising manual.
 

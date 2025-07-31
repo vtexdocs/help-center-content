@@ -13,8 +13,9 @@ slugEN: i-cant-import-the-price-table
 locale: pt
 legacySlug: nao-consigo-importar-a-planilha-de-precos
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Preços, Importação de planilhas
 ---
+
+**Tags:** Preços, Importação de planilhas
 
 As [tabelas ou planilhas de preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) e [Preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
@@ -55,7 +56,7 @@ Confira se os campos de sua planilha estão devidamente preenchidos conforme as 
 
 Exemplo de planilha com filtros aplicados e campos __Error Code__ e __Error Message__ presentes:
 
-![Planilha de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-importar-a-planilha-de-precos_1.PNG)
+![Planilha de preço](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/0109fb3de360f568c44f6e0e6c3a920e/Price_spreadsheet.PNG)
 
 #### Tamanho do arquivo
 

@@ -28,13 +28,13 @@ Some catalog updates related to routes are not arriving at the rewriter. This ca
 
 
 If you have a route without products or with an error, try running the bootstrap query first:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/rewriter-not-receiving-routes-updated-from-the-catalog_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/lgRhaWsmwABr8rF4ow1DmLNwC/?name=image.png)
 
     {bootstrap{brandscategories}}
 
 
 If it doesn't work, check if the rewriter is receiving the route, if the response is null then rewriter didn't received the update:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Store%20Framework/rewriter-not-receiving-routes-updated-from-the-catalog_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/W3vx3sa1BFL2DOSIsTh49tuvk/?name=image.png)
 
     {internal{get(path:"/test"){fromdeclarerid}}}
 

@@ -16,11 +16,11 @@ legacySlug: como-encontrar-o-pixel-do-google-analytics
 
 Para encontrar o ID de acompanhamento faça login na sua conta do [Analytics](https://analytics.google.com/analytics/web/#/).
 
-![GoogleAnalyticsLogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/como-encontrar-o-pixel-do-google-analytics_1.png)
+![GoogleAnalyticsLogo](https://images.ctfassets.net/alneenqid6w5/1ahGCXWIcYa4uTIo9RCtLO/bc57ebf9e9eed16c22431dc6b06939d0/GoogleAnalyticsLogo.png)
 
 Clique em **Administrador**. 
 
-![GoogleAnalytics_menu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/como-encontrar-o-pixel-do-google-analytics_2.png)
+![GoogleAnalytics_menu](https://images.ctfassets.net/alneenqid6w5/7weyAzsvGxyeYyU4EHA9JG/7b761daaf7806248de5d6f259da52a3d/GoogleAnalytics_menu.png)
 
 Selecione uma conta no menu na coluna conta.
 
@@ -28,6 +28,6 @@ Selecione uma propriedade no menu na coluna propriedade.
 
 Em propriedade, clique em Informações de rastreamento e depois em Código de acompanhamento. Seu ID de rastreamento é exibido na parte superior da página.
 
-![GoogleAnalytics_informações de acompanhamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Shopping/como-encontrar-o-pixel-do-google-analytics_3.png)
+![GoogleAnalytics_informações de acompanhamento](https://images.ctfassets.net/alneenqid6w5/7Dz2GrDyXgbGmS49YMcZ7S/627ff46b8b3e2656d270b6ea11ace913/GoogleAnalytics_informa____es_de_acompanhamento.png)
 
 Pronto! Agora você poderá adicionar o seu Pixel do Google Analytics na opção de _**Atrair > Remarketing**_ da **VTEX Assisted Sales (SuiteShare)**.

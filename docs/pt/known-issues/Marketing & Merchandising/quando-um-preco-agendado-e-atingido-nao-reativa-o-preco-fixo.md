@@ -20,7 +20,7 @@ internalReference:
 
 Contamos com dois preços: um preço fixo que sempre permanece vigente e um preço agendado que tem validade para uma faixa limitada de datas, que estará ativo juntamente com o preço fixo.
 
-![precio-agendado-no-reactiva](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Marketing%20&%20Merchandising/quando-um-preco-agendado-e-atingido-nao-reativa-o-preco-fixo_1.png)
+![precio-agendado-no-reactiva](//images.contentful.com/alneenqid6w5/28x1hbS9l2QgsyIcYyUoSM/bf1eecf7c1a429f8fc0070040f6fc2ac/precio-agendado-no-reactiva.png)
 
 Quando o preço agendado é atingido, deveria reativar o preço fixo, já que será o novo e único preço válido para esse SKU. Esta reativação ocorre para a maioria dos preços, mas não está ocorrendo em todos os casos e o produto fica publicado na web, geralmente com um preço mais econômico do que o preço fixo que não foi reativado automaticamente.
 

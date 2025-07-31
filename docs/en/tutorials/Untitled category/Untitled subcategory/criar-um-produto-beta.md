@@ -43,7 +43,7 @@ After that, the product will be activated and available in your store.
 In this tab, complete the fields described below to create the product.
 
 ### General information
-![image9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_1.png)
+![image9](https://images.ctfassets.net/alneenqid6w5/zuDEylLB51jEYDgupvInT/3cbd44a15e049422865dadb7169d0c38/image9.png)
 - **Name:** Enter the product name. Use simple words, avoiding other languages or complex writing. This field is crucial for SEO and must respect the 150-character limit. Required field. **Example**: Ultralight Running Shoes.
 - **Substitute words:** Enter synonyms of terms related to the product name, separated by commas (`,`). This field is essential for a more comprehensive search and must respect the 8,000-character limit. **Example**: for the product `Ultralight Running Shoes`, synonyms could include `Light Running Shoes,Ultra Running Shoes`. If your store uses VTEX Intelligent Search, do not complete this field and read the[Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) article.
 
@@ -60,7 +60,7 @@ In this step, you must write a description with the main information about the p
 Example: "The Ultralight Running Shoes are the perfect choice for athletes looking for high performance and comfort. Their innovative design and high-tech materials provide the utmost lightness and resistance during physical activity."
 
 The text editor for the description is a _rich text_ editor, which means you can use different formatting tools in its toolbar, as shown in the image below.
-![image10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_2.gif)
+![image10](https://images.ctfassets.net/alneenqid6w5/15nJVdLeSo0trgDc5czwl3/6796616b891c91907787537076bd12d9/image10.gif)
 
 See the tools available in the toolbar:
 
@@ -93,7 +93,7 @@ See the tools available in the toolbar:
 - **Source code:** Displays the source code of the HTML description. You can edit the description directly from the source code if you want. To go back to the previous view, click the source button again.
 
 ### SEO 
-![image11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_3.png)
+![image11](https://images.ctfassets.net/alneenqid6w5/3JJ2gdAtrSYY4Xo8V83IUf/799e31402321a340e5978c3a2d621f7a/image11.png)
 
 - **Product URL:** Enter the URL to access the product page in the store. You cannot use spaces or special characters in this field. If the URL consists of more than one word, you must separate them with a hyphen (-). Required field. **Example**: ultralight-running-shoes.
 
@@ -108,7 +108,7 @@ See the tools available in the toolbar:
 - **Tax code:** Enter the fiscal identification number of the product.
 
 ### Visibility 
-![image4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_4.png)
+![image4](https://images.ctfassets.net/alneenqid6w5/3CygKnTtnLKzlR5Ci2nHdf/f26b3307479a762ad14f858e033a060b/image4.png)
 
 - **Display on website:** Enable or disable the product visibility in your store. For example, if the product is a gift that cannot be purchased, you should disable this option.
 
@@ -124,7 +124,7 @@ Depending on the product category you create, you may have to complete some fiel
 If you have created any required product fields, the product will only be activated once this specification has been completed.
 
 Under **Attributes**, the [specification groups](/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) will be displayed with the specifications you entered. In the image below, the specification group is **Characteristics**, and the specifications are **Video** and **See More**.
-![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_5.png)
+![image3](https://images.ctfassets.net/alneenqid6w5/tp3ppbjPs7mbSo29DAXwI/946499d76c27c99034f37132b0c6d9fa/image3.png)
 
 ## SKUs
 
@@ -136,7 +136,7 @@ In this tab, you will add the [SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3
 This is where the previously created [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) for the SKUs will be displayed. If you have created any required SKU fields, the SKU will only be activated once this specification has been completed.
 
 ### Basic Information
-![image2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_6.png)
+![image2](https://images.ctfassets.net/alneenqid6w5/48TmuJ985SApT2gwx7IOCW/e08a3e7ece4f6872b7dff3418ad0d297/image2.png)
 - **Name:** The SKU name, which will be displayed in the store. Required field.
 - **Reference code:** Code that the store will use internally to identify the SKU. Required field if the **EAN/UPC** is empty.
 - **EAN/UPC**: Field that must have the barcode information. Required field if the **Reference code** field is empty.
@@ -151,8 +151,8 @@ SKUs must have at least one image to be active.</div>
 
 To add an image to your SKU, follow the steps below:
 
-1. Click the `+` button.![image8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_7.png)
-2. Add the link to your image in the 🔗 field. You can add more than one image to your SKU. To do this, click `+ Add Image` and add the new link. ![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_8.png)
+1. Click the `+` button.![image8](https://images.ctfassets.net/alneenqid6w5/4cT5SMN8xz8S7dJYaGxVDf/11da22617b306323a5ce39d781edbb14/image8.png)
+2. Add the link to your image in the 🔗 field. You can add more than one image to your SKU. To do this, click `+ Add Image` and add the new link. ![image6](https://images.ctfassets.net/alneenqid6w5/7lEnztWcQFXIAPFdMkHIaH/96ff215f5caef65e23ecac650111ee50/image6.png)
 3. Click `Save`.
 
 <div class="alert alert-info">The first image added will be the main image of the SKU and will be displayed in the store and search results.
@@ -163,7 +163,7 @@ You can edit an image's metadata by clicking the &lt;i class="fas fa-ellipsis-v"
 You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-trash-alt"></i>`Remove`
 
 ### Weight and Dimensions
-![image1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_9.png)
+![image1](https://images.ctfassets.net/alneenqid6w5/22wJdRKOCeuO8vegdPncfH/755f8b2ea63544951edf6c52c3670a6b/image1.png)
 #### Shipping weight and dimensions
 
 - **Package weight:** Weight of the empty package in kilos. Required field.
@@ -187,7 +187,7 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 - **Unit multiplier:** Numerical unit that multiplies the selected quantity of the product when it is added to the cart. If the multiplier is 5, the product will be added in multiple quantities of 5, such as 5, 10, 15, 20, and so on.
 
 ### Advanced Settings 
-![image5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Untitled%20category/Untitled%20subcategory/criar-um-produto-beta_10.png)
+![image5](https://images.ctfassets.net/alneenqid6w5/3Rk6yBkgQ04TpuyfBOm45H/c0b79e55d74086b471ad54e1e8238e85/image5.png)
 
 - **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle &lt;i class="fas fa-toggle-on">&lt;/i> or not &lt;i class="fas fa-toggle-off">&lt;/i>.
 

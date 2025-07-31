@@ -39,7 +39,7 @@ Para fazer isso é necessário adicionar um produto chamado `Order Authorization
  6. Escolha o tipo de permissão desejada: `Save Configuration`, para permitir que o usuário edite e salve modificações, ou `View Configuration`, para permitir a visualização da página de Autorização de Pedidos.
  7. Clique em **Salvar**
 
-![GIT-OrderAutho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019-06-06-garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos_1.gif)
+![GIT-OrderAutho](https://images.ctfassets.net/alneenqid6w5/4jnwsJuKbMW7YMt6g3Jhfp/19219d84c921d287462551b1b5ddbd00/GIT-OrderAutho.gif)
 
 Após adicionar este novo produto a um perfil, certifique-se de que os usuários desejados estão associados a este perfil de acesso.
   

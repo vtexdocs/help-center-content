@@ -37,7 +37,7 @@ El facebook de la tarjeta no guarda algunos ajustes.
 4. Volver a la tarjeta de integración
 5. No se ha guardado la categoría seleccionada
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/la-pantalla-de-integracion-de-facebook-no-guarda-algunos-ajustes_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VuJT08v4GZINqVjGrGnvIywCL/?name=image.png)
 
 
 

@@ -32,11 +32,11 @@ Esta diferencia se detalla aquí: https://help.vtex.com/en/tracks/catalogo-101--
 
 El módulo heredado tiene dos grupos de datos distintos, la colección (A) y el nombre del grupo (B)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/el-nombre-del-grupo-no-se-actualiza-automaticamente-en-la-busqueda-inteligente_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
 
 Sin embargo, el nuevo módulo de colecciones sólo desplaza el nombre de la colección, no su nombre de grupo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Intelligent%20Search/el-nombre-del-grupo-no-se-actualiza-automaticamente-en-la-busqueda-inteligente_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
 
 Los resultados de la búsqueda inteligente se basan en el nombre del grupo, por lo que, en los casos en que las actualizaciones se realizan únicamente en la nueva interfaz de usuario, los resultados no se reflejan en la interfaz de usuario ni en las consultas de búsqueda.
 

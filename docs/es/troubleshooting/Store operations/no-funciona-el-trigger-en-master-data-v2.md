@@ -13,8 +13,9 @@ slugEN: trigger-in-master-data-v2-is-not-working
 locale: es
 legacySlug: no-funciona-el-trigger-en-master-data-v2
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Master Data v2, Trigger
 ---
+
+**Tags:**  Master Data v2, Trigger
 
 Al crear un trigger para notificar cambios en una entidad de datos en Master Data v2, algunos usuarios pueden notar que no llegan requests al endpoint configurado, incluso después de haber configurado el trigger.
 

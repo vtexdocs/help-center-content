@@ -13,8 +13,9 @@ slugEN: i-cant-import-the-price-table
 locale: en
 legacySlug: i-cant-import-the-price-table
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Pricing, Spreadsheet import
 ---
+
+**Tags:** Pricing, Spreadsheet import
 
 [Price tables, or price spreadsheets](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) and [Fixed price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
@@ -55,7 +56,7 @@ Make sure that all fields in your table are properly populated based on the guid
 
 Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
 
-![Price spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-import-the-price-table_1.PNG)
+![Price spreadsheet](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/a88f798c1962786dadfd35573453242e/Price_spreadsheet.PNG)
 
 #### File size
 

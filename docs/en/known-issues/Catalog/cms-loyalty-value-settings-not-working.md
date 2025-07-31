@@ -34,7 +34,7 @@ Go to mystore.myvtex.com/admin/Site/ConfigForm.aspx
 
 There's a reward program checkbox under this tab
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/cms-loyalty-value-settings-not-working_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/YrxEGPufx4nulpDiecqhCqlnC/?name=image.png)
 
 Even with it unchecked, if you configure a reward promotion or a value directly on a product, the credits will be given to the purchase, ignoring this setting on the admin.
 

@@ -25,11 +25,11 @@ internalReference: 1140738
 
 Ao renderizar a página de visualização, ocorre um erro `erro na linha ... na coluna ...: xmlParseCharRef: valor xmlChar inválido ...`. Esse erro ocorre porque o formulário contém um caractere não interpretado pelo analisador XML, fazendo com que a página falhe durante a renderização.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-renderizar-a-pagina-de-visualizacao-xmlchar-invalido_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/vXtAkcFk2c2KKi0QNLO58P9dw/?name=Captura+de+Tela+2024-11-26+a%CC%80s+15.08.07.png)
 
 Esse campo foi marcado na caixa de seleção do formulário List Fields.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Storage/erro-ao-renderizar-a-pagina-de-visualizacao-xmlchar-invalido_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/LmZN49pwizGkuoR89Q7FWzA5n/?name=Captura+de+Tela+2024-11-26+a%CC%80s+14.59.02.png)
 
 ## Simulação
 

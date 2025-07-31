@@ -38,7 +38,7 @@ curl --location --request GET 'https://mystore.vtexcommercestable.com.br/api/cat
 
 Você deverá obter a seguinte resposta se o ID fornecido não existir
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/get-product-by-refid-retorna-null-quando-nao-e-encontrado_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zLUjULwrXOEEd8hX9P0pTq8op/?name=inline-1138166273.png)
 
 Isso está incorreto, pois o esperado é um `404 - Not Found`
 

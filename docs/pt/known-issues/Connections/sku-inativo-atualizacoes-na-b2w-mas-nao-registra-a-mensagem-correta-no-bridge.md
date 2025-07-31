@@ -34,7 +34,7 @@ Sku estava inativo no Catálogo VTEX > Está sendo inativado corretamente na B2W
 
 Importante: o Sku está inativo no Mercado, apenas a mensagem da ponte está incorreta.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Connections/sku-inativo-atualizacoes-na-b2w-mas-nao-registra-a-mensagem-correta-no-bridge_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/7RAx5JXjSWAtCfh7HJ27LOZOW/?name=image.png)
 
 
 

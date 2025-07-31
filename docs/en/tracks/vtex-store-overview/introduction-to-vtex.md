@@ -18,7 +18,7 @@ trackSlugEN: vtex-store-overview
 
 The following image shows VTEX's solutions and possibilities, which will be covered throughout this article series:
 
-![vtex_composable_complete_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/introduction-to-vtex_1.png)
+![vtex_composable_complete_EN](https://images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/d4622b765ea964b60da83fd11dffe865/vtex_composable_complete_EN.png)
 
 <div class="alert alert-info">
 Besides the resources available on the Help Center and <a href="https://developers.vtex.com/">Developer Portal</a>, as well as the <a href="https://community.vtex.com/">VTEX Community</a>, our <a href="https://vtex.com/us-en/">website</a> provides additional information about the platform through <a href="https://vtex.com/br-pt/resources-category/product-demo-videos-br/">demo videos</a> and <a href="https://vtex.com/br-pt/resources-category/ebooks-br/">ebooks</a> created by our <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">partners</a>. There is also a series of <a href="https://sites.google.com/vtex.com.br/onboardingvtex/trilha">onboarding videos</a> (available only in Portuguese).
@@ -40,6 +40,6 @@ The **VTEX store overview** is the first track in the **Onboarding guide**. Afte
 
 The third and final track of the **Onboarding guide** is [Support at VTEX](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) and aims to provide our customers with the best platform and support experiences. The track covers how [VTEX Support works](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) and explains how to open tickets to get help with [technical](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [billing](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) or [commercial](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) issues.
 
-Now we are ready to begin our journey.
+Now we are ready to begin our journey.<br>
 Welcome to VTEX.
 

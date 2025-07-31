@@ -34,10 +34,10 @@ La Búsqueda Global no reconoce los "Elementos del Menú de Perfil"
 En algunos casos, la búsqueda no devuelve ningún resultado.
 Por ejemplo: "Usuarios" "Autenticación"
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/admin-la-busqueda-global-no-reconoce-los-elementos-del-menu-de-perfil_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QwUkKwavO6WM00STA32BVwyvn/?name=image.png)
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/admin-la-busqueda-global-no-reconoce-los-elementos-del-menu-de-perfil_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/weT1QdMEqTne83NxeJRN1ilFm/?name=image.png)
 
 
 

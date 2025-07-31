@@ -29,7 +29,7 @@ Currently there is an issue with some Seller Portal account creation, where ther
 
 Open the recently created Seller Portal account and check if the categories are missing.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/categories-missing-seller-not-provisioned-correctly_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/bvkxO9YLbHCZ7h8ShvB9t9t9M/?name=image.png)
 
 
 ##

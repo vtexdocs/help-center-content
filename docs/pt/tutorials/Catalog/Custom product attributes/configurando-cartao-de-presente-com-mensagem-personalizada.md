@@ -45,11 +45,11 @@ No site da sua loja, é possível validar se a configuração foi efetuada corre
 3. Neste momento o tipo de serviço deve ser disponibilizado para seleção. A mensagem precisa ser escrita em até 150 caracteres.
 4. Selecione o serviço no carrinho clique no link para adicionar mensagem.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Custom%20product%20attributes/configurando-cartao-de-presente-com-mensagem-personalizada_1.png)
+![](https://images.contentful.com/alneenqid6w5/3txxLHOWtqguWu4qmAqumA/e68ef2cf4881d3b9a01199244567c790/mensagem-carrinho.png)
 
 Você pode visualizar a mensagem escrita em __Minha Conta > Meus Pedidos__:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Custom%20product%20attributes/configurando-cartao-de-presente-com-mensagem-personalizada_2.png)
+![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
 <div class="alert alert-info">
   <p>Após a configuração do serviço no SKU, aguarde a indexação para o cadastro ter efeito no site. Após isto já será possível testar a compra com este serviço ativo.</p>

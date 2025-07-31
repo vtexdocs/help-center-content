@@ -13,8 +13,9 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 locale: pt
 legacySlug: o-pedido-nao-avanca-apos-o-status-preparando-entrega
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Entrega, Pedidos, Status do pedido, Integração, ERP, OMS, Preparando entrega
 ---
+
+**Tags:** Entrega, Pedidos, Status do pedido, Integração, ERP, OMS, Preparando entrega
 
 O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.
 

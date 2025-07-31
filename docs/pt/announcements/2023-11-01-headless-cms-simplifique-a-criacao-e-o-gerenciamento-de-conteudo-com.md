@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Headless CMS - Gerencie seus projetos de forma centrali
 
 **Projetos** é a nova funcionalidade do Headless CMS que simplifica o gerenciamento de diversas experiências digitais, como aplicativos móveis, sites e email marketing em uma única tela.
 
-![Projects overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-11-01-headless-cms-simplifique-a-criacao-e-o-gerenciamento-de-conteudo-com_1.png)
+![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/c5a1f1ba3077c11504d9f78c1712c59e/projects-two-pt.png)
 
 Com ele, você pode personalizar as configurações, o conteúdo e a marca de cada projeto para públicos ou objetivos específicos.
 
@@ -26,7 +26,7 @@ Antes, para lidar com diferentes projetos com diferentes públicos-alvo ou solu�
 
 Agora, a interface de **Projetos** permite que você gerencie todos os seus projetos a partir de uma experiência centralizada, além de permitir que você navegue entre os projetos facilmente, edite as configurações, o conteúdo e a identidade em um só lugar. Essa melhoria aumenta sua capacidade de se adaptar, atendendo diferentes públicos e objetivos.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023-11-01-headless-cms-simplifique-a-criacao-e-o-gerenciamento-de-conteudo-com_2.gif)
+![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/b5bd29ece472c96fceb0aefb71a5365a/projects-one-pt-certo.gif)
 
 ## Por que fizemos essa mudança?
 Com a interface de **Projetos**, você poderá:

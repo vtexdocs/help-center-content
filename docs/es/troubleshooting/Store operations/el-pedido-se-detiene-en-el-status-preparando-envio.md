@@ -13,8 +13,9 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 locale: es
 legacySlug: el-pedido-se-detiene-en-el-status-preparando-envio
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Envío, Pedidos, Status del pedido, Integración, ERP, OMS, Preparando envío
 ---
+
+**Tags:** Envío, Pedidos, Status del pedido, Integración, ERP, OMS, Preparando envío
 
 El status `Preparando envío` se produce en el [flujo de pedidos](/es/tutorial/order-flow-on-the-oms--tutorials_196#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.
 

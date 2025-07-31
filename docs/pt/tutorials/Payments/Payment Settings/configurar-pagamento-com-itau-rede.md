@@ -50,27 +50,27 @@ Após receber as informações de acesso, você ou outro pessoa com perfil de ad
 
 <blockquote><ui>2. Selecione a conta na qual deseja transacionar pagamentos na VTEX e clique em <b>Aplicar</b>. Guarde o número da conta, pois ele deve ser utilizado no campo <b>Chave de aplicação</b> na seção <a href="#configurar-itau-rede-na-vtex">Configurar Itaú Rede na VTEX</a>.</ui> 
 
-![Itaú Rede_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_1.png)
+![Itaú Rede_1](https://images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/33d5debbfd4286e0a61bfde428d5ba51/Ita__Rede_1.png)
 
 <blockquote><ui>3. Após a tela atualizar para a conta desejada, no menu <b>para vender</b>, selecione a opção <b>e-commerce</b>.</ui>
 
-![Itaú Rede_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_2.PNG)
+![Itaú Rede_2](https://images.ctfassets.net/alneenqid6w5/3VB0bwzReQKt2zjXnLHltx/11bfb6b935d77828b0a243dc90ea55fd/Itau_Rede_2.PNG)
 
 <blockquote><ui>4. Na página <b>e-commerce</b>, clique no card <b>chave de integração</b>.</ui>
 
-![Itaú Rede_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_3.png)
+![Itaú Rede_3](https://images.ctfassets.net/alneenqid6w5/AxbQNB9snirJxN4zOV7qT/b8441d7cc910a99448ea9f4c9724612e/Itau_Rede_3.png)
 
 <blockquote><ui>5. Após ler as informações da chave de integração, clique em <b>li, estou ciente</b>.</ui>
 
-![Itaú Rede_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_4.png)
+![Itaú Rede_4](https://images.ctfassets.net/alneenqid6w5/BU5ydvg5BxaY9KRPHevzv/73a8d3ed6e2bf9e9625b69430f8ae2d6/Itau_Rede_4.png)
 
 <blockquote><ui>6. Clique no botão <b>gerar nova chave</b>.</ui>
 
-![Itaú Rede_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_5.png)
+![Itaú Rede_5](https://images.ctfassets.net/alneenqid6w5/kZGFItLuWLgm6lc9Twrhb/266384a3037afaeed2b8b04a5efb9a87/Itau_Rede_5.png)
 
 <blockquote><ui>7. Verifique as informações descritas na janela <b>gerar nova chave de integração</b> e clique em <b>gerar nova chave</b>.</ui>
 
-![Itaú Rede_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_6.png)
+![Itaú Rede_6](https://images.ctfassets.net/alneenqid6w5/diZYL8GRAhwcL5sX7IQtn/24789d56142d14bc756ecd8c02616135/Itau_Rede_6.png)
 
 <blockquote><ui>8. Após a criação da nova chave, clique em <b>copiar</b> e preserve a informação em um local seguro. Esta chave deverá ser utilizada no campo <b>Token de aplicação</b> na seção <a href="#configurar-itau-rede-na-vtex">Configurar Itaú Rede na VTEX</a>.</ui>
 
@@ -141,19 +141,19 @@ Para habilitar a chave Pix, acesse o Portal Rede e siga o passo a passo:
 
 <blockquote><ui>2. Selecione a conta na qual deseja transacionar pagamentos na VTEX e clique em <b>Aplicar</b>.</ui> 
 
-![Itaú Rede_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_7.png)
+![Itaú Rede_1](https://images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/33d5debbfd4286e0a61bfde428d5ba51/Ita__Rede_1.png)
 
 <blockquote><ui>3. Após a tela atualizar para a conta desejada, no menu <b>para vender</b>, selecione a opção <b>pix</b>.</ui>
 
-![Itaú Rede_7_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_8.png)  
+![Itaú Rede_7_pt](https://images.ctfassets.net/alneenqid6w5/4eoo6CA1ZIZNQ1RBEv4yUm/b2dd566d7e53251cf556b73138a46ae8/Ita__Rede_7.png)  
 
 <blockquote><ui>4. Clique em <b>Habilitar Pix na Rede</b>.</ui>  
 
-![Itaú Rede_8_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_9.png)
+![Itaú Rede_8_pt](https://images.ctfassets.net/alneenqid6w5/5eczd25Lmic550HChvQ8WG/0b55e0be2d2452c831c7f6fa06f071af/Ita__Rede_8.png)
 
 <blockquote><ui>5. Selecione a conta Itaú onde deseja receber suas vendas com Pix e clique em <b>Escolher conta</b>.</ui></blockquote>    
 
-![Itaú Rede_9_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Payment%20Settings/configurar-pagamento-com-itau-rede_10.png)
+![Itaú Rede_9_pt](https://images.ctfassets.net/alneenqid6w5/1FqQQFuB8M6iGaTXJDo0CT/5cae8e0b6f10e665417ac142f82933d5/Ita__Rede_9.png)
 
 ### Configurar condição de pagamento para PIX
 

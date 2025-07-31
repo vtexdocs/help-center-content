@@ -28,7 +28,7 @@ Além de enviar convites, a página também conta com a lista de sellers, para q
 
 Para que novos sellers se integrem ao seu marketplace, algumas ações precisam ser feitas no seu ambiente VTEX: [Convidar](#convidar-seller) e [Conectar](#conectar-seller)
 
-![sellers convidados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Seller%20Portal/marketplace-convite-de-sellers_1.JPG)
+![sellers convidados](https://images.ctfassets.net/alneenqid6w5/2y4yFpA7vo6BNjMdVyvZSU/bf18d2e0010e23be921ecb520a060725/sellers_convidados.JPG)
 
 ## Convidar seller
 

@@ -38,7 +38,7 @@ In this process, we generate a VTEX account for these sellers, which is the Sell
     {"code":"NotFound","message":"Route test21nov2569.myvtex.com/_v/segment/admin-login/v1/login?returnUrl=/admin&email=andrei.basoc+test21nov2@vtex.com not found","source":"Vtex.Kube.Router","requestId":"f19875630eac47a588b2e32250292f4a"}
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Marketplace/seller-invite-route-not-found-after-account-creation_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/aoT6ZHSmrHyO7Te9aKKN1pRCQ/?name=image.png)
 
 
 ##

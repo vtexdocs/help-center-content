@@ -21,7 +21,7 @@ O **Personal Shopper** é um aplicativo que permite às empresas realizarem sess
   O Personal Shopper foi desenvolvido para sellers que desejam apresentar novas coleções para clientes de alto valor ou clientes B2B. Essas sessões ao vivo personalizadas têm o objetivo de proporcionar uma experiência de compra mais personalizada do que as sessões públicas do <a href="https://help.vtex.com/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL">Live Shopping</a>.
 </div>
 
-| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Personal%20Shopper/visao-geral-do-personal-shopper_1.gif)     |
+| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
 | ---------- | ---------- |
 | Personal Shopper no celular       | Personal Shopper no computador       |
 
@@ -199,7 +199,7 @@ Ao estar cadastrado como personal shopper, você pode criar videochamadas com se
 5. Clique em `Criar videochamada`.
 6. Escolha `Iniciar videochamada instantânea` para iniciar a sessão com o cliente ou `Crie uma videochamada para mais tarde` para agendar uma chamada.
 
-![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Personal%20Shopper/visao-geral-do-personal-shopper_2.png)
+![calls-personalshopper](https://images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/5941ae9fe3be9cafd66c96aea9b52946/image.png)
 
 Se você optar por uma chamada instantânea, clique em `Iniciar uma videochamada` para iniciar a chamada com o cliente. Isso permite que vocês interajam em tempo real, fornecendo a ele assistência personalizada. Para obter mais informações sobre como conduzir uma videochamada, veja a seção [Fazer uma videochamada](/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#criar-uma-videochamada). Nesse caso, certifique-se de conceder ao seu navegador as permissões necessárias para o acesso ao microfone e à câmera para evitar problemas durante a videochamada.
 
@@ -233,7 +233,7 @@ Certifique-se de conceder ao seu navegador as permissões necessárias para o ac
 
 Ao participar de uma chamada de vídeo como personal shopper, você terá acesso a várias ferramentas de videoconferência, conforme apresentado a seguir:
 
-![call-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Apps/Personal%20Shopper/visao-geral-do-personal-shopper_3.png)
+![call-personalshopper](https://images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/0ef430b8bbe279b7b31c4f3c259d4c30/image.png)
 
 * **I - Microfone:** permite que os participantes controlem seu áudio, mutando ou desmutando o próprio microfone.
 * **II - Câmera:** permite que os participantes liguem ou desliguem sua câmera de vídeo durante a videochamada.

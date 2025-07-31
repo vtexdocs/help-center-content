@@ -17,7 +17,7 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 
 The **Account** page allows you to view and manage your VTEX account details. To access it, click your **profile avatar** that has the first letter of your email, and click **Account Settings** > **Account.**
 
-![Admin v4 account settings menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_1.jpg)
+![Admin v4 account settings menu EN](https://images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/c9f9e17c63ce76c40d01a650920ce5ff/Admin_v4_account_settings_menu_EN.jpg)
 
 <div class="alert alert-warning">
 This screen has no application key details. Learn where to find and manage this information in the article <a href="https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">Application Keys</a>.
@@ -29,7 +29,7 @@ The **Account** page is divided into two tabs: [General](#general) and [Stores](
 
 The **General** tab's features are available in the [Details](#details), [Company Information](#company-information), and [Owner](#owner) sections. This tab allows you to:
 
-![Account details page - account section](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_2.png)
+![Account details page - account section](https://images.ctfassets.net/alneenqid6w5/6UK90f7QEkwzfa0A2ccru/61a25511aa697fc8333c809463d94564/1en.png)
 
 This tab allows you to:
 
@@ -41,7 +41,7 @@ This tab allows you to:
 
 In this section, you can check the basic information of your VTEX account.
 
-![Account details page - details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_3.png)
+![Account details page - details](https://images.ctfassets.net/alneenqid6w5/2E2AS5t3Y3LeBZHPwAQxVL/1f9820f3b88337024d6f0370792cdd6b/1.1en.png)
 
 - **Main account name:** [VTEX account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
 - **Creation date:** The date your account was created.
@@ -58,7 +58,7 @@ In this section, you will see the following information about your company:
 - Trading name
 - Company registration number
 
-![Account details page - Company information](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_4.png)
+![Account details page - Company information](https://images.ctfassets.net/alneenqid6w5/VnjrwHmW1txGedK5fewVb/20c9237ae2f95e1ab1f8d667361c489e/1.2en.png)
 
 #### Editing company information
 
@@ -86,7 +86,7 @@ This section displays the account sponsor details. Each VTEX account has only on
 Learn more about the <a href="https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy">sponsor user</a>.
 </div>
 
-![Account details page - Sponsor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_5.png)
+![Account details page - Sponsor](https://images.ctfassets.net/alneenqid6w5/36R9gxFOVRov7QeFcdZNUe/0be2d1b90ccb11fb673fba80fd65b400/1.3en.png)
 
 If you are the sponsor user, you can [transfer store ownership](/en/tutorial/transferencia-de-propriedade-da-loja) in this section. This allows you to transfer the store's ownership to another user.
 
@@ -101,7 +101,7 @@ In the Stores tab, you can:
 
 By clicking the **Stores** tab at the top of the screen, you will see a list with all the information of all the stores created in your VTEX account.
 
-![Account details page - Stores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Account%20management/Accounts/account-management_6.png)
+![Account details page - Stores](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/19d4e782db194e0482398ffa382a9565/2en.png)
 
 For each store, you can view the following details:
 

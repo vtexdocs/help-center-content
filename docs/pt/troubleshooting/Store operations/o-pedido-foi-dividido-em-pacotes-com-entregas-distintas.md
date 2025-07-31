@@ -13,8 +13,9 @@ slugEN: the-order-was-split-into-packages-with-separate-deliveries
 locale: pt
 legacySlug: o-pedido-foi-dividido-em-pacotes-com-entregas-distintas
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Entregas distintas, Split de pedido, Pacotes, Remessa, Pré-venda
 ---
+
+**Tags:** Entregas distintas, Split de pedido, Pacotes, Remessa, Pré-venda
 
 Na VTEX, há situações em que o cliente recebe seu pedido dividido em vários pacotes, independentemente de haver ou não uma [divisão do pedido](/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) na plataforma. O cliente pode receber os itens do pedido em pacotes distintos nos seguintes casos:
 
@@ -42,3 +43,4 @@ Para configurar a remessa na sua loja, siga os passos abaixo:
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite **Envio** na barra de busca no topo da página e selecione **Configurações da loja / Envio**.
 2. Na página **Configurações gerais**, na seção **Agrupar produtos na mesma remessa**, preencha o campo _Criar grupos de remessa com intervalos de {X} dia(s)_ com o número de dias que deseja definir para a [remessa](/pt/tutorial/como-funciona-a-remessa).
 3. Clique em **Salvar**.
+

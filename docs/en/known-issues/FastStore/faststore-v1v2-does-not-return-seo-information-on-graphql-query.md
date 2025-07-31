@@ -45,7 +45,7 @@ You can also see this happening on the final domain when checking the SEO inform
 
 You can retrieve the other fields from the StoreSEO by extending the GraphQL Schema, as the doc explains:
 https://v1.faststore.dev/reference/api/objects/#storeseo
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/faststore-v1v2-does-not-return-seo-information-on-graphql-query_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/qtLb0Xc4mlmkq0AXngefRrPiF/?name=image.png)
 
 But the `title` and `description` information will still present the issue.
 

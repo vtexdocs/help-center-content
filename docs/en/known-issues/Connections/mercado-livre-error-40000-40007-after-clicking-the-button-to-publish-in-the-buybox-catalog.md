@@ -32,7 +32,7 @@ In the most cases we must add new error messages and it required to map them in 
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Connections/mercado-livre-error-40000-40007-after-clicking-the-button-to-publish-in-the-buybox-catalog_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/eYonQgTAztJkamUFq1URhSM8T/?name=image.png)
 
 
 ##

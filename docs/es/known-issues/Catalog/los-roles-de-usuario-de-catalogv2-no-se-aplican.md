@@ -32,7 +32,7 @@ Actualmente, la interfaz de usuario de la aplicación CatalogV2 no aplica correc
 
 2) Establezca un rol de usuario de sólo lectura
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/los-roles-de-usuario-de-catalogv2-no-se-aplican_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/NpEBOSahA9ogF72lsW9kYRjyH/?name=inline441836406.png)
 
 3) Con estas reglas establecidas, inicie la sesión con el usuario relacionado
 

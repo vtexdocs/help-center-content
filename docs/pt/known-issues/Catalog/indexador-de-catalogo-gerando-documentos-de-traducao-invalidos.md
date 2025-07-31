@@ -3,8 +3,8 @@ title: "Indexador de catálogo gerando documentos de tradução inválidos"
 id: 3pbXOA3DQILdu05tAwjlVM
 status: PUBLISHED
 createdAt: 2024-02-29T18:02:38.600Z
-updatedAt: 2024-12-10T23:41:41.324Z
-publishedAt: 2024-12-10T23:41:41.324Z
+updatedAt: 2025-07-24T17:50:39.534Z
+publishedAt: 2025-07-24T17:50:39.534Z
 firstPublishedAt: 2024-02-29T18:02:39.430Z
 contentType: knownIssue
 productTeam: Catalog
@@ -23,7 +23,7 @@ internalReference: 991494
 </div>
 
 
-Ao indexar um produto com informações traduzidas, as mensagens do aplicativo são solicitadas. Essas solicitações devem ter menos de 3s e, quando demoram mais do que isso, a indexação falha e gera um documento de tradução inválido.
+Ao indexar um produto com informações traduzidas, o aplicativo Messages é consultado. Essas solicitações devem ter menos de 3s e, quando demoram mais do que isso, a indexação falha e gera um documento de tradução inválido.
 
 Esse cenário gerará erros no histórico de indexação com a mensagem "translations is smaller than context".
 
@@ -38,4 +38,7 @@ Não há uma maneira fácil de reproduzir esse cenário, mas as contas com muito
 
 
 N/A
+
+
+
 

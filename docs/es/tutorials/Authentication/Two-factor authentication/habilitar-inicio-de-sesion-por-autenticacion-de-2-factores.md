@@ -38,7 +38,7 @@ Hay dos opciones de autenticación:
 - A través de una clave generada por una __aplicación__ de autenticación.
 - A través de una clave enviada por mensaje de texto a tu teléfono (__SMS__).
 
-![2FA - Select - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_1.png)
+![2FA - Select - PT](https://images.ctfassets.net/alneenqid6w5/3WRZKKU8LuW00UkeoUoIEY/d7db18f01bf30d5c5838f27b24f08e32/2FA_-_Select_-_PT.png)
 
 <div class="alert alert-danger">
  <p>Recomendamos encarecidamente que <strong>elijas la opción de autenticación por aplicación</strong>, ya que la autenticación por SMS depende del funcionamiento del operador de telefonía móvil. Con la aplicación, la clave de acceso estará siempre disponible cuando sea necesaria.</p>
@@ -50,11 +50,11 @@ Hay dos opciones de autenticación:
 Para utilizar una clave generada por una aplicación de autenticación sigue los pasos que se indican a continuación:
 
 1. Descarga la aplicación __Google Authenticator__ ([App Store](https://itunes.apple.com/mx/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=es_MX)).
-  ![2FA - App Download - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_2.png)
+  ![2FA - App Download - PT](https://images.ctfassets.net/alneenqid6w5/icTTRRH1WH7FiiH0gLnxb/c0bc298cb4c870e271da368bb765e146/2FA_-_App_Download_-_PT.png)
 2. Utiliza la aplicación para escanear el código QR con la cámara de tu teléfono. Tu cuenta VTEX se vinculará a la aplicación con un código de 6 dígitos.
-![mfa código](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_3.jpg)
+![mfa código](https://images.ctfassets.net/alneenqid6w5/4wk6Xk8c7T5EURmt94lRJx/42671df78ec718b7121b8d75379cf951/mfa_qr_code_correction_pt.jpg)
 3. Inicia sesión ingresando el código que se muestra en la aplicación. Este código se actualiza periódicamente, consúltalo siempre que sea necesario.
-  ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_4.png)
+  ![2FA - App Insert Code - PT](https://images.ctfassets.net/alneenqid6w5/NUKFyLNA9fWsBewD445Uy/58da9e3065ebec81f1528554808eee56/2FA_-_App_Insert_Code_-_PT.png)
 
 <div class="alert alert-info">
 Si inicias sesión con email y contraseña en la misma computadora, la clave de acceso se solicitará <strong>cada 3 días</strong>. Cuando esto ocurra, consulta el código de la aplicación.
@@ -66,11 +66,11 @@ Para utilizar una clave enviada por SMS sigue los pasos a continuación:
 
 1. Ingresa tu número de teléfono para recibir el código por SMS, incluyendo tanto el código del país como el código de área.
 
-  ![2FA - SMS Insert Phone - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_5.png)
+  ![2FA - SMS Insert Phone - PT](https://images.ctfassets.net/alneenqid6w5/116sok6Zd8sq69UPSSzs1w/d57d2ea05bb88182ab5b9df700fdadb2/2FA_-_SMS_Insert_Phone_-_PT.png)
 
 2. Recibirás un mensaje de texto de VTEX en el teléfono indicado. Ingresa la clave de 6 dígitos para completar el inicio de sesión.
 
-   ![2FA - SMS Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Authentication/Two-factor%20authentication/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_6.png)
+   ![2FA - SMS Insert Code - PT](https://images.ctfassets.net/alneenqid6w5/6KbuUvMFupmJEMN6kTOZ4E/bf998e866456c232965f4bd845b65db1/2FA_-_SMS_Insert_Code_-_PT.png)
 
 <div class="alert alert-warning">
 No podemos garantizar que tu operador de telefonía pueda entregarte la clave de acceso cuando la necesites. Si el mensaje de texto de VTEX no llega, intenta reenviar el código o <a href="#habilitar-o-2fa-por-aplicativo">activa 2FA mediante la aplicación</a>.

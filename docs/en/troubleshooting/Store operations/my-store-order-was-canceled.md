@@ -13,8 +13,9 @@ slugEN: my-store-order-was-canceled
 locale: en
 legacySlug: my-store-order-was-canceled
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Orders, Order status, Cancellation
 ---
+
+**Tags:** Orders, Order status, Cancellation
 
 An order can be canceled at any stage before completing the expected flow. To identify the reason for cancellation, all communications between payment integrations must be checked. This is because, for a purchase to be invoiced, it goes through several stages that can lead to cancellation.
 

@@ -27,9 +27,9 @@ Update user's name in the login section
 
 
 When we first log in and fill up the data it brings a name in this section which is correct.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/update-users-name-in-the-login-section_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/IJpYVAT1XewQUx4YnGtvGBL40/?name=image.png)
 But when we edit the information, the information displayed is not the same one.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/update-users-name-in-the-login-section_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/uOiJZWmfl9qmC12H2ryHBQ3EA/?name=image.png)
 
 
 

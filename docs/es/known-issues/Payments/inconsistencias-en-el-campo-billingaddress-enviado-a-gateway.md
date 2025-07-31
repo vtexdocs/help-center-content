@@ -3,8 +3,8 @@ title: "Inconsistencias en el campo billingAddress enviado a Gateway"
 id: 2SNynMgq0w0t7WBoXGoZwR
 status: PUBLISHED
 createdAt: 2022-01-21T18:13:45.045Z
-updatedAt: 2025-02-07T19:22:38.643Z
-publishedAt: 2025-02-07T19:22:38.643Z
+updatedAt: 2025-07-24T19:27:42.033Z
+publishedAt: 2025-07-24T19:27:42.033Z
 firstPublishedAt: 2022-01-21T18:59:43.332Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slugEN: inconsistencias-en-el-campo-billingaddress-enviado-a-gateway
 locale: es
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 291688
 ---
 

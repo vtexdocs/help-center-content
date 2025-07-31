@@ -27,7 +27,7 @@ Actualmente, la categoría global de productos no carga correctamente los datos 
 
 Se puede ver la siguiente pantalla
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/global-category-no-se-carga-correctamente-en-chrome-v12606478182-official-build-64bit_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kAdyffwxv7HiGYHQf7LnLmFvI/?name=image.png)
 
 
 ##

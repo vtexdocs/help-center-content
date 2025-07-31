@@ -35,9 +35,9 @@ API Get Product by RefId returns "not found" for some products/RefId, even with 
 
 https://VTEX.vtexcommercestable.com.br/api/catalog_system/pvt/products/productgetbyrefid/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BksgxlJ6S9SSqeullsdgcvnUm/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/catalog-api-get-product-by-refid-returns-not-found-for-some-productsrefid_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/vpk2h8A9N3j95Cw6XF7CL3cbt/?name=image.png)
 
 
 

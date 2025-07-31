@@ -31,7 +31,7 @@ If you manually insert a paragraph opening and closing tag <p></p> in the editor
 
 1 - in a product description with 2+ paragraphs, switch to the HTML editor mode available by pressing the </> button in the bottom
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/switching-from-html-editor-mode-in-product-description-removes-p-tags_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4WtexfuFAhq9kNA6yCac7kXeS/?name=image.png)
 
 2 - manually add a <p> </p> tag set
 

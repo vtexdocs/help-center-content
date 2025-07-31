@@ -13,16 +13,17 @@ slugEN: i-cant-view-the-product-in-the-search-results
 locale: pt
 legacySlug: nao-consigo-visualizar-o-produto-na-busca-do-site
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Produto, Busca, Catálogo, Intelligent search, Rewriter
 ---
+
+**Tags:** Produto, Busca, Catálogo, Intelligent search, Rewriter
 
 Quando o usuário realiza a pesquisa em uma loja VTEX por meio do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), é possível que o produto desejado não seja localizado, mesmo que o termo utilizado na busca esteja presente nas informações cadastradas do item.
 
 Cenário de exemplo: ao pesquisar no site da loja por produtos que contenham o termo "Pendleton", o resultado da busca exibe 6 produtos. Entretanto, quando acessamos o Admin VTEX (__Storefront > Intelligent Search > Explicação da busca__) e digitamos o mesmo termo, são apresentados 9 produtos.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-visualizar-o-produto-na-busca-do-site_1.png)
+![Filter_1](https://images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/d91a90067779eab00b0aefe3b40f889a/Filter_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-visualizar-o-produto-na-busca-do-site_2.png)
+![Filter_2](https://images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/eb0ef3af6e10a261b1e8176ca18ef04a/Filter_2.png)
 
 Este comportamento pode ocorrer devido aos seguintes cenários:
 
@@ -82,7 +83,7 @@ Para remover a restrição de busca por marca (*brand*) e permitir os produtos s
 
 <blockquote><ui>4. Em <b>Selecione um app</b>, clique sobre a opção do app Rewriter (<b>vtex.rewriter@{app-version-number}</b>).</ui>
 
-![Graphql_ide_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-visualizar-o-produto-na-busca-do-site_3.png)
+![Graphql_ide_pt](https://images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/2b1cf341f212c5ac6ea16e7314d3c048/Graphql_ide_pt.png)
 
 <blockquote><ui>5. No campo de preenchimento da query (abaixo de <b>GraphiQL</b>), insira os dados da função mutação <i>saveInternal</i>.<ui>
 

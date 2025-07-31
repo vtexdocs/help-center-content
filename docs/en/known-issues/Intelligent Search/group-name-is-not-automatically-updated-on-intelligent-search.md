@@ -28,11 +28,11 @@ This difference is detailed here: https://help.vtex.com/en/tracks/catalogo-101--
 
 The legacy module has two distict data clusters, the collection (A) and the group name (B)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/group-name-is-not-automatically-updated-on-intelligent-search_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/Wb85umTatjLPwTTdZ53985WHt/?name=image.png)
 
 However, the new collections module nly displaus the collection name, not its GroupName:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Intelligent%20Search/group-name-is-not-automatically-updated-on-intelligent-search_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/dXcYFigMd8BCKPCaF5wlvcUhZ/?name=image.png)
 
 The Intelligent Search result are based on the Group Name, which is why, on cases that updates are done only on the new UI, the results are not reflected on the front end and the search queries.
 

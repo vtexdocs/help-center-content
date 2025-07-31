@@ -35,7 +35,7 @@ Si inserta manualmente una etiqueta de apertura y cierre de párrafo <p></p> en 
 
 1 - en una descripción de producto con más de 2 párrafos, cambie al modo editor HTML disponible pulsando el botón </> en la parte inferior
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/al-cambiar-de-modo-de-editor-html-en-la-descripcion-del-producto-se-eliminan-las-etiquetas-p_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/4WtexfuFAhq9kNA6yCac7kXeS/?name=image.png)
 
 2 - añada manualmente un conjunto de etiquetas <p> </p>.
 

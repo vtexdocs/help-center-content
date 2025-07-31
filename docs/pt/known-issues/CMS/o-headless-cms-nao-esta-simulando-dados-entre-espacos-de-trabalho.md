@@ -29,13 +29,13 @@ O recurso que simula os dados entre espaços de trabalho dentro do Headless CMS 
 
 
 Tente criar um novo rascunho em um espaço de trabalho, como no exemplo abaixo, e você verá que a versão simulada será salva:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/ALJXihZcrD2L1K4FwrXfqZpML/?name=image.png)
 
 Após a edição, tente salvar suas alterações; a versão simulada se tornará um rascunho normal:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/mrwjyqtC4ALC3DIlVXwP9sXXA/?name=image.png)
 
 Mas se você acessar o ambiente mestre da sua loja, o rascunho também estará lá:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DgHHvGNcu18BBx5CZqXoPmw9Z/?name=image.png)
 
 Esse rascunho também pode ser publicad
 

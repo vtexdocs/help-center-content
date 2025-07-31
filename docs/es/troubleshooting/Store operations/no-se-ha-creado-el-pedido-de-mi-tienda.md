@@ -13,8 +13,9 @@ slugEN: my-store-order-was-not-created
 locale: es
 legacySlug: no-se-ha-creado-el-pedido-de-mi-tienda
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Pedidos, Integración, Integración XML, Producto, Stock
 ---
+
+**Tags:** Pedidos, Integración, Integración XML, Producto, Stock
 
 Cuando un cliente intenta realizar una compra y se produce un error al crear el pedido, esto puede deberse a varias razones, como problemas relacionados con el pago, logística o [integración del backend](/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con sistemas ERP (sistemas de planificación de recursos empresariales).
 
@@ -60,3 +61,4 @@ Puede ocurrir un error debido a la falta de información del producto cuando no 
 <div class="alert alert-warning">
 Pueden ocurrir errores al intentar facturar un pedido si hay información XML incorrecta o faltante.
 </div>
+

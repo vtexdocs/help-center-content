@@ -13,8 +13,9 @@ slugEN: i-cant-index-a-product-in-the-catalog
 locale: es
 legacySlug: no-logro-indexar-un-producto-del-catalogo
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Catálogo, Indexación, Producto, SKU, Política comercial
 ---
+
+**Tags:** Catálogo, Indexación, Producto, SKU, Política comercial
 
 El proceso de indexación permite reunir y organizar los datos de un producto, tales como información de catálogo, precio y stock, para mostrarlos a los clientes en la búsqueda y en la estantería de productos de la tienda.
 
@@ -120,4 +121,4 @@ Las cuentas que tienen 100 mil productos o más registrados deben ponerse en con
 
 Más información en [Mantenimiento de base de datos (full cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Programar reindexación completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-logro-indexar-un-producto-del-catalogo_1.png)
+![Programar reindexación completa](https://images.ctfassets.net/alneenqid6w5/65cBrSeyPnEY1FgnRUvnU8/db846ea59a4c0900f9c149bba786afc4/Programar_reindexaci_n_completa.png)

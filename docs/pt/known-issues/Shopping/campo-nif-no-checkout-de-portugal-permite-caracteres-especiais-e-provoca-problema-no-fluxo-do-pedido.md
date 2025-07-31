@@ -20,7 +20,7 @@ internalReference:
 
 O campo NIF (document) do checkout de Portugal (UI) está permitindo entrada de caracteres especiais nos seus valores. No entanto, os pedidos que forem fechados com caracteres especiais ficam travados com erro no OMS.
 
-![OMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Shopping/campo-nif-no-checkout-de-portugal-permite-caracteres-especiais-e-provoca-problema-no-fluxo-do-pedido_1.png)
+![OMS](//images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
 
 ## Simulação
 

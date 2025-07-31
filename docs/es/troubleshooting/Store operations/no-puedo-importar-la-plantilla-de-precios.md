@@ -13,8 +13,9 @@ slugEN: i-cant-import-the-price-table
 locale: es
 legacySlug: no-puedo-importar-la-plantilla-de-precios
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Precios, Importación de plantillas
 ---
+
+**Tags:** Precios, Importación de plantillas
 
 Las [tablas o plantillas de precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
 
@@ -55,7 +56,7 @@ Comprueba que los campos de tu plantilla estén rellenados según las guías de 
 
 Ejemplo de plantilla con filtros aplicados y con los campos __Error Code__ y __Error Messages__:
 
-![Hoja de precios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/no-puedo-importar-la-plantilla-de-precios_1.PNG)
+![Hoja de precios](https://images.ctfassets.net/alneenqid6w5/1r7FGH4sdfT0uzCUX4T07y/2412a0609e152f55f147e4c05e76e2be/Price_spreadsheet.PNG)
 
 #### Tamaño de archivo
 

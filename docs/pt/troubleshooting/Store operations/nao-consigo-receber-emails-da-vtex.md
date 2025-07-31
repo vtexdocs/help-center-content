@@ -13,8 +13,9 @@ slugEN: i-cant-receive-emails-from-vtex
 locale: pt
 legacySlug: nao-consigo-receber-emails-da-vtex
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Central de mensagens, Templates de emails, Importação de planilhas, Token de autenticação
 ---
+
+**Tags:** Central de mensagens, Templates de emails, Importação de planilhas, Token de autenticação
 
 Por meio da [Central de mensagens](/pt/tutorial/conhecendo-o-message-center--tutorials_84), a VTEX oferece aos lojistas a opção de personalizar templates de e-mail que serão encaminhados aos usuários. Estes emails podem ser utilizados para transmitir as seguintes informações:
 - Token de autenticação na loja
@@ -94,4 +95,4 @@ Além disso, você também pode verificar se o endereço de email está cadastra
 3. Verifique se o endereço de email não está presente nos campos __Cc:__ ou __Cco:__ do template. Caso esteja, remova a informação e clique em `Salvar`.
 4. Realize este procedimento para cada um dos cards de template da loja e realize um teste de envio de email para o endereço desejado.
 
-![copia_email_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/nao-consigo-receber-emails-da-vtex_1.png)
+![copia_email_pt](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/51aaca3868dce4213bc7c9f9b447b6ca/copia_email_pt.png)

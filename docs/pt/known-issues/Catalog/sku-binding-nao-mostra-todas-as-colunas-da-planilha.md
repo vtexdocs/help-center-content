@@ -35,7 +35,7 @@ Há dois cenários aqui
 
 1. Na antiga interface de usuário de vinculação de sku, a planilha de exportação retornava 7 colunas; hoje, na nova interface de usuário, quando exportamos a planilha, retornamos 4 colunas.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/sku-binding-nao-mostra-todas-as-colunas-da-planilha_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/OCsHYfXDqaz6W76qYhp7C1DDW/?name=image.png)
 
 **NOVAS COLUNAS**
 StockKeepingUnitId
@@ -43,7 +43,7 @@ SellerId
 SellerStockKeepingUnitId
 Está Ativo
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/sku-binding-nao-mostra-todas-as-colunas-da-planilha_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/gKb7BUfDenjXsGTQ0sE9F1DXr/?name=image.png)
 
 **COLUNAS ANTIGAS**
 SkuSellerId
@@ -58,7 +58,7 @@ RequestedUpdateDate (data de atualização solicitada)
 
 **NOME DO ARQUIVO ANTES | ANTIGO**
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Catalog/sku-binding-nao-mostra-todas-as-colunas-da-planilha_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/HjApMXd3SVgQ7Pb8XEN3Mgv20/?name=image.png)
 
 **NOME DO ARQUIVO APÓS | NOVO **
 

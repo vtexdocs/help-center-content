@@ -21,7 +21,7 @@ Para realizar a integração acesse no seu painel da Suiteshare as integrações
 
 Na dashboard em **“Integrações”**.
 
-![Anapro 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/anapro-suiteshare_1.png)
+![Anapro 1](https://images.ctfassets.net/alneenqid6w5/5Rx0RJ9BWA8p57KcBZcUSL/0c3e8ca37ea8e9cea03e89393101d19a/Screenshot_2022-08-31_at_14-42-19_Anapro.png)
 
 Ou clique em _**"configurações > Integrações"**_.
 
@@ -29,15 +29,15 @@ Em vendas, selecione **Anapro CRM** e clique em **“habilitar"**.
 
 O próximo passo é acessar sua conta da **Anapro** e fazer login:
 
-![Anapro 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/anapro-suiteshare_2.png)
+![Anapro 2](https://images.ctfassets.net/alneenqid6w5/27nMiiFZJwLcoZnKWUwrLc/7e2684133221c84007617fea997561d3/Screenshot_2022-08-31_at_14-42-30_Anapro.png)
 
 Agora, acesse o menu  **_"Configurações>Campanhas"_**.
 
-![Anapro 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/anapro-suiteshare_3.png)
+![Anapro 3](https://images.ctfassets.net/alneenqid6w5/5xLCEcL4Edbf0X6wVo8k9E/d56c880d56fb273673d9899cd9cead2d/Screenshot_2022-08-31_at_14-42-35_Anapro.png)
 
 Escolha a campanha da qual deseja gerar os links , clique em **"Editar"** e vá na aba **"Integração"**.
 
-![Anapro 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/anapro-suiteshare_4.png)
+![Anapro 4](https://images.ctfassets.net/alneenqid6w5/SN8dBsn48blUAbY3D5A8E/840181abb9bb1a35961329dcb94248b9/Screenshot_2022-08-31_at_14-42-41_Anapro.png)
 
 Na tela de **integração**, selecione a Empresa integradora e a Agência (Agente responsável pela geração do lead. Pode ser a própria incorporadora ou a Agência de marketing).
 
@@ -51,6 +51,6 @@ Agora que você tem acesso aos chaves, basta selecionar o link que deseja integr
 
 Selecione o link de captura que deseja integrar com o CRM:
 
-![Anapro 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/anapro-suiteshare_5.png)
+![Anapro 5](https://images.ctfassets.net/alneenqid6w5/4oxPYJKk1ZwYJ55JOHB4JE/171a1bdd5065e46a69addcd3eabf2c66/Screenshot_2022-08-31_at_14-42-47_Anapro.png)
 
 Agora preencha todos os outros campos, e pronto, aproveite a integração!

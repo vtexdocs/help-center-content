@@ -17,7 +17,7 @@ subcategoryId: vONCJSxwN5qZiElOEtKkH
 
 A VTEX tem um plano estruturado de resposta a incidentes de segurança desenvolvido para minimizar riscos, mitigar impactos e garantir uma rápida recuperação de incidentes de segurança. Esse plano consiste nas seguintes fases: preparação; contenção, erradicação e recuperação; identificação; comunicação e atividades pós-incidente.
 
-![security-incident-response-plan-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Security/Information%20security%20compliance/plano-de-resposta-a-incidentes-de-seguranca_1.png)
+![security-incident-response-plan-pt](https://images.ctfassets.net/alneenqid6w5/3aWjZkJzpF1HoQneetC8Pc/ab1e8443eb364ba1c9af4dd1dfc77c9f/security-incident-response-plan-pt.png)
 
 ## 1. Preparação
 

@@ -13,8 +13,9 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 locale: pt
 legacySlug: o-pedido-nao-avanca-apos-o-status-pronto-para-manuseio
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Manuseio, Pedidos, Status do pedido, Integração, ERP, OMS
 ---
+
+**Tags:** Manuseio, Pedidos, Status do pedido, Integração, ERP, OMS
 
 O status `Pronto para manuseio` ocorre no [fluxo do pedido](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após a janela de cancelamento ser encerrada. Neste momento, a VTEX deve receber a informação do [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) de que o pedido foi integrado e o estoque de itens foi atualizado, permitindo desta forma que o fluxo possa prosseguir até o status `Preparando entrega`.
 

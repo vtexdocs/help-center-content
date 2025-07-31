@@ -21,11 +21,11 @@ Para saber qual o IP de um cliente que realizou um pedido na sua loja, basta ana
 
 Ao abrir um pedido, clique em __"Ver detalhes da transação"__ na caixa de pagamento:
 
-![ip pedido1 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/como-obter-o-ip-de-um-pedido_1.png)
+![ip pedido1 PT](https://images.ctfassets.net/alneenqid6w5/6aXWqGSs9OSiaWaG4SYYcI/21acf3d8aa03a1d1133c776b85b76f09/ip_pedido1_PT.png)
 
 O IP pode ser visualizado na parte superior direita:
 
-![ip pedido2 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/como-obter-o-ip-de-um-pedido_2.png)
+![ip pedido2 PT](https://images.ctfassets.net/alneenqid6w5/5GWGCRtMWIMM0OwW86MeWG/4e4097ce9a8c5acdc388efac9ef38b9c/ip_pedido2_PT.png)
 
 Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/tutorial/como-visualizar-detalhes-do-pedido)
 

@@ -27,7 +27,7 @@ Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).
 
-![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025-04-02-novo-processo-para-solicitacao-de-exclusao-de-dados-pessoais-via-copilot_1.jpg)
+![perfil-de-acesso-gdpr](https://images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/f7b33721c7ac2cde71b4beb5633d31c2/port.jpg)
 
 Em seguida, atribua este perfil de acesso aos lojistas que serão responsáveis pela solicitação de exclusão de dados de clientes.
 

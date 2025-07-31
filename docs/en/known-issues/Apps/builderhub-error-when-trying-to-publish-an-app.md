@@ -3,8 +3,8 @@ title: "Builder-hub error when trying to publish an app"
 id: 5qBBBft0fcEZF2OxA3SCib
 status: PUBLISHED
 createdAt: 2025-07-18T12:49:09.655Z
-updatedAt: 2025-07-18T12:52:22.694Z
-publishedAt: 2025-07-18T12:52:22.694Z
+updatedAt: 2025-07-24T17:44:11.902Z
+publishedAt: 2025-07-24T17:44:11.902Z
 firstPublishedAt: 2025-07-18T12:49:10.828Z
 contentType: knownIssue
 productTeam: Apps

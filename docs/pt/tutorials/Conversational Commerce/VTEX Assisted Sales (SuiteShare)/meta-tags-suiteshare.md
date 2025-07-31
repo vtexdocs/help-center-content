@@ -19,11 +19,11 @@ Meta Tags são informações que são carregadas juntamente com o seu link, assi
 
 Meta tag no WhatsApp:
 
-![Meta Tags_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/meta-tags-suiteshare_1.png)
+![Meta Tags_Suitshare_1](https://images.ctfassets.net/alneenqid6w5/1vDto0Syulmk1FrMOc2i89/74ea4883a2c35c4149b76681f91f407d/Meta_Tags_Suitshare_1.png)
 
 Meta tag no Facebook:
 
-![Meta Tags_Suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/meta-tags-suiteshare_2.png)
+![Meta Tags_Suitshare_2](https://images.ctfassets.net/alneenqid6w5/2q2emAMuyTEdQkG2vGoimB/6716bfd664b525f0557a99c676359bde/Meta_Tags_Suitshare_2.png)
 
 As Meta Tags servem como uma prévia do que o usuário irá encontrar quando clicar no seu link.
 
@@ -33,15 +33,15 @@ As Meta Tags servem como uma prévia do que o usuário irá encontrar quando cli
 
 No painel da VTEX Assisted Sales (SuiteShare), acesse a opção _**Atrair > Links**_.
 
-![Meta Tags_Suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/meta-tags-suiteshare_3.png)
+![Meta Tags_Suitshare_3](https://images.ctfassets.net/alneenqid6w5/1JG2XCOA4pYyJeQiWB2Hkv/fa3c65fd6506c7594b93f55e7b05fe8a/Meta_Tags_Suitshare_3.png)
 
 Clique na seta para baixo, localizada no lado direito do link que você deseja editar as Meta Tags. Clique na opção **Meta tags**.
 
-![Meta Tags_Suitshare_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/meta-tags-suiteshare_4.png)
+![Meta Tags_Suitshare_4](https://images.ctfassets.net/alneenqid6w5/2mtMGJL5l7nE5w8GrPmfNm/6773c197d01eed56453f7d23b419211f/Meta_Tags_Suitshare_4.png)
 
 Em **Título**, você irá digitar o título do link. Nesse caso, utilizaremos um nome. Já na Descrição, você pode escrever um breve resumo do que você faz, de quem você é, o que a sua empresa vende, ou até mesmo, uma chamada para ação, como no exemplo. E por fim adicione uma imagem ao seu link. 
 
-![Meta Tags_Suitshare_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/meta-tags-suiteshare_5.png)
+![Meta Tags_Suitshare_5](https://images.ctfassets.net/alneenqid6w5/3voZYLGdaJE8BqWuHP40ix/7e55c30cfaf23bf4db1f84c63737d060/Meta_Tags_Suitshare_5.png)
 
 Clique no botão **Finalizar**.
 

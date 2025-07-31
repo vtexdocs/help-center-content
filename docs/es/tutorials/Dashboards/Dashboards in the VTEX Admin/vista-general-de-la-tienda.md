@@ -17,7 +17,7 @@ subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 
 En la página de Vista general del Admin VTEX los propietarios de las tiendas pueden obtener una rápida visión general de las métricas clave que afectan a sus ingresos. A través de este panel, puedes seguir la evolución de tus ventas mediante el análisis de tendencia de pedidos, la tasa de conversión y los gráficos de embudo de ventas. Puedes acceder a esta herramienta en el Admin VTEX, haciendo clic en **Dashboards > Vista general** en el menú de navegación, o escribe *Vista general* en la barra de búsqueda en la parte superior de la página.
 
-![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_1.gif)
+![Store Overview gif ES](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b91a459e41bac28866c1165ca8fcc208/Store_Overview_gif_ES.gif)
 
 La página Vista General proporciona un resumen de su negocio con VTEX. Para un análisis más profundo de las métricas de su tienda, visite [Desenpeño de ventas](/es/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 
@@ -54,7 +54,7 @@ Para comparar datos de diferentes periodos, en la parte superior de la página s
 | Últimos 28 días | 00:00 del 29º día anterior al día actual    | 23:59 del día anterior al día actual                                                                                         |
 
 ## Métricas
-![Store overview Métricas ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_2.png)
+![Store overview Métricas ES](https://images.ctfassets.net/alneenqid6w5/75FnGMAHaNQxfcHmKM7Jjf/fa0a742830add36b15347a667b46a740/Me__tricas_ES.png)
 La siguiente tabla describe las métricas clave disponibles en el panel de la página de inicio. Todas las métricas se refieren a los flujos de compra realizados en tiendas VTEX en un periodo de tiempo determinado.
 
 | Métrica                          | Descripción                                                                                                                                                                                                                                                                             |
@@ -69,7 +69,7 @@ La siguiente tabla describe las métricas clave disponibles en el panel de la p�
 
 ## Productos con mayores ingresos / Productos con más unidades vendidas
 
-![Store overview Growing products ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_3.jpg)
+![Store overview Growing products ES](https://images.ctfassets.net/alneenqid6w5/5J5U85LjLuTt6MRFSaisZG/71288c48523af26b98d46501a1822105/Store_overview_Growing_products_ES.jpg)
 
 Este componente muestra tus productos más rentables y los productos con mayor número de unidades vendidas en el periodo seleccionado. 
 
@@ -79,18 +79,18 @@ Puedes alternar entre estas dos opciones haciendo clic en el título o en el íc
 - **Productos con más unidades vendidas:** los productos con más unidades vendidas en el periodo seleccionado. Indica la cantidad de ítems vendidos y un porcentaje que muestra el aumento o la disminución de los ítems vendidos, comparando los periodos seleccionados.
 
 ## Pedidos realizados
-![Store overview Pedidos realizados EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_4.png)
+![Store overview Pedidos realizados EN](https://images.ctfassets.net/alneenqid6w5/54DyQfUdOlf3VZdwIUdQjT/fab0eca29780027e7eef5a53ccdc803b/Pedidos_realizados_EN.png)
 
 Este gráfico muestra el número de pedidos que recibió la tienda en el periodo seleccionado. La línea azul más gruesa indica los pedidos que se realizaron en el periodo más reciente. La línea gris más delgada indica los pedidos que se realizaron en el periodo que estás comparando. Al pasar el *mouse* sobre las líneas, el gráfico muestra el número de pedidos captados en cada fecha.
 
 ## Pedidos cancelados
-![Store overview Pedidos cancelados PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_5.png)
+![Store overview Pedidos cancelados PT](https://images.ctfassets.net/alneenqid6w5/2RUKzEeb2SvpktBvQJoUQk/5a3f4d78000475bae4d2a62ec1c7c4bd/Pedidos_cancelados_PT.png)
 
 Este gráfico muestra el número de pedidos cancelados en la tienda en el periodo seleccionado. La línea azul más gruesa indica los pedidos cancelados en el periodo más reciente. La línea gris más delgada indica los pedidos cancelados en el periodo que estás comparando. Al pasar el *mouse* sobre las líneas, el gráfico muestra el número de pedidos cancelados en cada fecha.
 
 ## Análisis de tendencia de pedidos
 
-![Store overview Order trend ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_6.jpg)
+![Store overview Order trend ES](https://images.ctfassets.net/alneenqid6w5/5c3eFasw5spgqeynh4Q9c5/0eafd1eeb6423749827c8cfec524858a/Store_overview_Order_trend_ES.jpg)
 
 Este gráfico muestra la tendencia de pedidos de tu tienda, indicando el número de pedidos realizados por los compradores en el periodo seleccionado.
 
@@ -100,13 +100,13 @@ El número que aparece en la parte superior del gráfico se refiere a los pedido
 
 ## Tasa de conversión
 
-![Store overview Conversion rate ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_7.jpg)
+![Store overview Conversion rate ES](https://images.ctfassets.net/alneenqid6w5/1S5WA2yR00R1GuBU0NoKaZ/92756d2a2a7f4165f4312f2c81bc08e6/Store_overview_Conversion_rate_ES.jpg)
 
 Este gráfico muestra la tasa de conversión de tu tienda en los períodos seleccionados que quieres comparar. La tasa de conversión se calcula dividiendo el número total de pedidos por el número total de sesiones en tu tienda. La línea azul más gruesa indica la tasa de conversión para el periodo más reciente. La línea gris más delgada indica la tasa para el periodo que estás comparando. Al pasar el mouse por encima del gráfico, se visualiza la tasa de conversión para cada periodo comparado. El gráfico también indica el porcentaje (%) y los puntos porcentuales (p.p) de aumento o reducción de esta métrica. Al pasar el mouse por encima del gráfico, puedes ver el valor de esa métrica en momentos específicos. 
 
 ## Embudo de ventas
 
-![Store overview sales funnel ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_8.jpg)
+![Store overview sales funnel ES](https://images.ctfassets.net/alneenqid6w5/3jSzBfJ4nQa8iI2f1opyds/d767479ae6fd2f51af5327b80527d883/Store_overview_sales_funnel_ES.jpg)
 
 Este gráfico permite seguir el volumen de sesiones en las etapas intermedias del flujo de compra y ver oportunidades para optimizar la tasa de conversión de la tienda. La siguiente tabla describe las etapas intermedias del flujo de compra.
 
@@ -122,7 +122,7 @@ Este gráfico permite seguir el volumen de sesiones en las etapas intermedias de
 Cada barra azul del gráfico representa el volumen de sesiones que han alcanzado una determinada etapa del flujo de compra. Este volumen se representa como valor absoluto (arriba), y como porcentaje del número de sesiones (abajo), junto con los puntos porcentuales (p.p) de aumento o reducción en el embudo de ventas. Al pasar el mouse por encima del porcentaje, puedes ver más detalles sobre esa etapa intermedia.
 
 ## Categorías con mayores ingresos
-![Categorias PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Dashboards/Dashboards%20in%20the%20VTEX%20Admin/vista-general-de-la-tienda_9.png)
+![Categorias PT](https://images.ctfassets.net/alneenqid6w5/1jkVQ63kTKC7EWYNpZ2M5i/7cf1e540189c28ec0d3286179d0d2774/Categorias_PT.png)
 
 Este gráfico muestra las diez categorías de tu tienda que más ingresos generaron en el periodo seleccionado. La barra azul indica los ingresos generados en la fecha más reciente y la barra gris indica los ingresos generados en el periodo comparado. Al pasar el mouse sobre el gráfico, se visualiza la tasa de conversión para cada periodo comparado. Al hacer clic en el título del gráfico, es posible cambiar la vista a las __Categorías más vendidas por pedido__.
 

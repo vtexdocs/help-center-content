@@ -21,25 +21,25 @@ O Sequencial garante que a sua empresa terá um atendimento no WhatsApp mais org
 
  Para criar um atendimento seletivo, acesse: _**Organizar > Sequencial**_. 
 
-![Sequencial  1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sequencial-suiteshare_1.png)
+![Sequencial  1](https://images.ctfassets.net/alneenqid6w5/5d6rENDv7iZliW45U3wSdX/863a4066aeb31f4130f509441aed7560/Screenshot_2022-08-29_at_17-29-16_Sequencial.png)
 
 IMPORTANTE: Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB).
 
 Clique em “_**Novo**_”.
 
-![Sequencial 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sequencial-suiteshare_2.png)
+![Sequencial 2](https://images.ctfassets.net/alneenqid6w5/6yE3a7cKM7tjSmg2YUCnsi/372a64bb021c5ed195aa0d49fc3a0508/Screenshot_2022-08-29_at_17-29-21_Sequencial.png)
 
 Defina o **link principal**. 
 
 Em **Link Âncora**, como o próprio nome já diz, você irá selecionar o link principal da central. Esse é o link que você irá divulgar, será o link responsável por fazer a ligação com os demais atendentes.
 
-![Sequencial 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sequencial-suiteshare_3.png)
+![Sequencial 3](https://images.ctfassets.net/alneenqid6w5/1ey00JvWyDeOWkCG7kzhgl/1985a9808e85374f15d3fb21feabb4b5/Screenshot_2022-08-29_at_17-29-25_Sequencial.png)
 
 Clique em _**“Avançar”**_.
 
 Em Links de Sequência, você irá escolher quem serão os vendedores ou números que irão participar da central. Clique em Adicionar e selecione o link para cada participante da central.
 
-![Sequencial 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Conversational%20Commerce/VTEX%20Assisted%20Sales%20(SuiteShare)/sequencial-suiteshare_4.png)
+![Sequencial 4](https://images.ctfassets.net/alneenqid6w5/7wYRRK5a5E8Myh7LUkSNKN/facae61bda1dafdc6421eca7cbd19687/Screenshot_2022-08-29_at_17-29-30_Sequencial.png)
 
 **NOTA**: Em atendimento fixo (opcional), você irá escolher se um cliente que já falou com algum atendente, ao clicar novamente no link principal (/minhacentral), cairá sempre para o mesmo atendente.
 

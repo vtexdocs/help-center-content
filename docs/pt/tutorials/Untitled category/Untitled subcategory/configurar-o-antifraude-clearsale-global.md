@@ -78,7 +78,7 @@ Para configurar a __ClearSale Global__, será necessário:
 <br>  
   <ui>11. No canto superior direito, clique em <b>Publicar</b>.</ui> 
 
-![Fingerprint ClearSalve_Tela](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Untitled%20category/Untitled%20subcategory/configurar-o-antifraude-clearsale-global_1.png)
+![Fingerprint ClearSalve_Tela](https://images.contentful.com/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/314960d342aad03b56da4affe46439f8/Fingerprint_ClearSalve_Tela.png)
 
 Para mais detalhes sobre o código inserido no Google Tag Manager, recomendamos a leitura [desta documentação](https://api.clearsale.com.br/docs/behavior-analytics), da ClearSale. 
 

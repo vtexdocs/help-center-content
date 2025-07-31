@@ -60,7 +60,7 @@ Consulta la lista completa de [recursos de License Manager](/es/tutorial/recurso
 
 Los roles de acceso pueden ser gestionados a través del Admin VTEX.  Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Roles de usuario**.
 
-![Lista roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Account%20management/Access%20control/roles_1.png)
+![Lista roles](https://images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/1b6a2abc5a10006d758e31806564d378/last_with_shadow_Wed_Apr__8_16_55_01_-03_2020.png)
 
 Esta pantalla muestra una lista de todos los roles registrados para la cuenta, que puede editar o eliminar desde la columna **Acciones**.
 

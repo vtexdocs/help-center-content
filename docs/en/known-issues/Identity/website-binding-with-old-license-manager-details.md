@@ -29,13 +29,13 @@ The example of the __Delacasa__ store illustrates the bug:
 Before it was called __delacasa__ the domain __decoramovel__ had been created. The Portal created the Binding and then added the new information to the new domain for the same Binding.
 
 The new details entered in the LM:
-![license-manager-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_1.JPG) 
+![license-manager-delacasa](//images.contentful.com/alneenqid6w5/6rC1pqQuQ0yeI60YqqS0Si/2d0cf344afd3f7cea14cf844ea86329b/license-manager-delacasa.JPG) 
 
 of the Website dictionary (mundinho) were shown as follows, making it clear what had happened:
-![dictionary-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_2.JPG) 
+![dictionary-delacasa](//images.contentful.com/alneenqid6w5/2w9Zf8aK1aw0euMsSouUEm/59b5b620f7c36f52f81af250be71b542/dicionario-delacasa.JPG) 
 
 From the Website Binding showing the result:
-![binding-delacasa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_3.JPG)
+![binding-delacasa](//images.contentful.com/alneenqid6w5/4JqhEdsgdGWgo2QOCksUaM/bc67aa1883df5f8827d399f4e89fc123/binding-delacasa.JPG)
 
 ## Simulation
 
@@ -52,5 +52,5 @@ The new Binding will have the new details.
 After creating a new one, make the change and later, if necessary, delete the old one.
 
 It is important to do things in this order, or the site will go off the air.
-![2017-04-10 10 40 41-Index](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Identity/website-binding-with-old-license-manager-details_4.png)
+![2017-04-10 10 40 41-Index](//images.contentful.com/alneenqid6w5/Jvzm768i64YeqQkqCYAWk/3261595cb7f9af998aac4f0c99fe3fb6/2017-04-10_10_40_41-Index.png)
 

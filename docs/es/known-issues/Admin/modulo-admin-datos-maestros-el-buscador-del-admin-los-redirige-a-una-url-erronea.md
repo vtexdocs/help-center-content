@@ -35,9 +35,9 @@ El módulo de Datos Maestros, el motor de búsqueda admin los redirige a la URL 
 Pasos:
 Admin > Buscar > Datos maestros >
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/DhvSEUDDmPjgGdIlWV4PJvh0A/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/9nUmLbZLPdCzBgvNziUi1WCvw/?name=image.png)
 
 
 ##
@@ -49,7 +49,7 @@ Admin > Buscar > Datos maestros >
 se puede acceder normalmente usando el menú lateral:
 Admin > Tienda > Datos maestros
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Admin/modulo-admin-datos-maestros-el-buscador-del-admin-los-redirige-a-una-url-erronea_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/59KwJCdK91ol1f4edT4hjNBHQ/?name=image.png)
 
 
 

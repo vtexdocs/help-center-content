@@ -13,8 +13,9 @@ slugEN: removing-error-message-request-headers-must-only-contain-ascii
 locale: es
 legacySlug: eliminando-mensaje-de-error-request-headers-must-contain-only-ascii
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Request headers, UTM, Javascript personalizado
 ---
+
+**Tags:** Request headers, UTM, Javascript personalizado
 
 El mensaje "__Request headers must contain only ASCII characters__" puede mostrarse en el navegador del usuario cuando esté navegando por la tienda e intente acceder a una nueva página o realizar una acción en el sitio web, como por ejemplo, agregar ítems al carrito.
 
@@ -87,3 +88,4 @@ Si lo deseas, también puedes incluir las siguientes funciones en el script:
 <div class="alert alert-warning">
   Remover las cookies mediante script no es una solución definitiva. Como se describe en la sección <b>Desactivar cookies con caracteres especiales</b>, es necesario identificar su origen e interrumpir el proceso de envío de cookies con caracteres especiales.
 </div>
+

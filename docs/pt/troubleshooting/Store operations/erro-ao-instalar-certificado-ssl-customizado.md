@@ -13,8 +13,9 @@ slugEN: error-installing-custom-ssl-certificates
 locale: pt
 legacySlug: erro-ao-instalar-certificado-ssl-customizado
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: certificados SSL, VTEX Shield
 ---
+
+**Tags:** certificados SSL, VTEX Shield
 
 Alguns erros podem ocorrer durante a instalação de [certificados SSL customizados](/pt/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q), funcionalidade disponível no [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Confira a seguir os erros possíveis e como solucioná-los.
 

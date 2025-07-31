@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 The **Brands** page allows you to view, manage and add brands on Seller Portal. To access the page on VTEX Admin, go to **Catalog** > **Brands**.
 
-![brands-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/Seller%20Portal/brands_1.PNG)
+![brands-en](https://images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/a5d64115e686cda5ebe5e11a8c8b7aa8/brands-en.PNG)
 
 ## Creating a Brand
 To create a new brand, click on the `Create brand` button. Fill in the fields on the __New brand__ modal according to the information below.

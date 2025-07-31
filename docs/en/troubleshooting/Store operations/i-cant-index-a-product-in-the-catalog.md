@@ -13,8 +13,9 @@ slugEN: i-cant-index-a-product-in-the-catalog
 locale: en
 legacySlug: i-cant-index-a-product-in-the-catalog
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Catalog, Index, Product, SKU, Trade policy
 ---
+
+**Tags:** Catalog, Index, Product, SKU, Trade policy
 
 The indexing process gathers and organizes a product's data, such as catalog information, price, and stock quantity, to be displayed to customers in search results and on store shelves.
 
@@ -120,4 +121,4 @@ For accounts with 100,000 or more products, please contact [VTEX Support](/en/fa
 
 Learn more in [Database Maintenance (Full Cleanup)](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Schedule full reindexing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/Store%20operations/i-cant-index-a-product-in-the-catalog_1.png)
+![Schedule full reindexing](https://images.ctfassets.net/alneenqid6w5/65cBrSeyPnEY1FgnRUvnU8/080fed5de879388ff7b2077981a044c5/Schedule_full_reindexing.png)

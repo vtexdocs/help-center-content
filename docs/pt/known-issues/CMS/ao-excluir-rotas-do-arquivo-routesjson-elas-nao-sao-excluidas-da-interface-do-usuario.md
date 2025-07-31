@@ -29,10 +29,10 @@ Se você criar uma rota no arquivo `routes.json` do seu tema, a rota não será 
 
 
 Crie uma página em seus temas no arquivo routes.json:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/ao-excluir-rotas-do-arquivo-routesjson-elas-nao-sao-excluidas-da-interface-do-usuario_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zoljY2X9GZ6NL4wUd10zoranp/?name=image.png)
 
 A página será criada corretamente no administrador:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/CMS/ao-excluir-rotas-do-arquivo-routesjson-elas-nao-sao-excluidas-da-interface-do-usuario_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/n2RP165BLtHwdHRrscu0IwOTo/?name=image.png)
 
 Se você excluir essa rota do tema, a referência do administrador ainda estará lá. Mas você ainda poderá editar as rotas no painel de administração.
 

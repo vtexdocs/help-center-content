@@ -27,7 +27,7 @@ internalReference: 691803
 A veces, al intentar importar una hoja de cálculo de imágenes con URLs de vteximg.com.br o vtexassets.com que están configuradas como "https://' en lugar de "http://" la importación falla. El mensaje de error es:
 
 "Fallo al procesar el registro. Asegúrese de que los datos de su hoja de cálculo son coherentes y vuelva a intentarlo. Detalles del error: Se ha producido un error al enviar la solicitud".
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/la-hoja-de-calculo-de-imagenes-no-se-importa-mensaje-de-error-fallo-al-procesar-el-registro_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/fenodCFcwpVyXYWUj6kgoi1fx/?name=image.png)
 
 
 

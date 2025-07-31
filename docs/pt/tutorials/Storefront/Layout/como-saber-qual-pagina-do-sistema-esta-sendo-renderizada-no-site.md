@@ -29,7 +29,7 @@ Para encontrar essa linha de código, acesse o front-end da sua loja, entre nas 
 
 Veja abaixo a relação entre a pasta no CMS e o código-fonte da loja.
 
-![CommerceContext](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site_1.png)
+![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
 <div class="alert alert-info">
 Essa linha de código está sempre comentada. Portanto, ela tem função apenas informativa. Ou seja, não realiza nenhuma ação.

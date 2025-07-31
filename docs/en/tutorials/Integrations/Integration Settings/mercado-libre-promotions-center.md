@@ -21,7 +21,7 @@ By clicking a promotion from the list, the seller can use the search bar to find
 
 To access the **Promotions** page in the VTEX Admin, go to **Marketplace > Mercado Libre > Promotions.**  
 
-![Central de Promoções Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Integration%20Settings/mercado-libre-promotions-center_1.gif)
+![Central de Promoções Mercado Livre](https://images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/918a02f8f04066d8c83b456533af55f7/Central_de_Promo__es_Mercado_Livre.gif)
 
 ## Promotion types
 

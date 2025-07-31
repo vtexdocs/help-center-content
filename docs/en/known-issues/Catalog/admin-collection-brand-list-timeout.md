@@ -21,7 +21,7 @@ internalReference: 639905
 
 Currently, for stores that have 4000+ brands on their catalog, the following brand listing does not load any brands when attempting to create a new collection:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Catalog/admin-collection-brand-list-timeout_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/VSET52djAjJfHdPHgtiqMACBK/?name=image.png)
 
 This occurs due to a timeout (you can see that there's a long load time and then it displays as "no brands").
 

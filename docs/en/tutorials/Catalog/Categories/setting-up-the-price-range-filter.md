@@ -20,7 +20,7 @@ They are very important for browsing and searching products in the store.
 
 The registration is simple, and different price ranges may be determined for categories, as shown below:
 
-![faixa-de-preço en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/setting-up-the-price-range-filter_1.png)
+![faixa-de-preço en](https://images.ctfassets.net/alneenqid6w5/1Xj5nkiiYgugKioamYQEs4/6aa1023fbcda148c33b73fa52890b1b7/faixa-de-pre__o_en.png)
 
 In Price Ranges, click on “New Price Range” and fill in the fields below:
 

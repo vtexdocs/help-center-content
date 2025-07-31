@@ -39,7 +39,7 @@ Você pode atribuir um perfil de acesso com o recurso ao usuário seguindo as in
 4. Na caixa de seleção, indique se esse redirecionamento é temporário ou permanente. Caso seja temporário, é preciso definir a data final.
 5. Clique em `Salvar` para finalizar.
 
-![gerenciando redirecionamentos pt 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Pages/gerenciando-redirecionamentos-de-url_1.png)
+![gerenciando redirecionamentos pt 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
 
 ## Importar redirecionamento
 

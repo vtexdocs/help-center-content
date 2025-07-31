@@ -89,7 +89,7 @@ Para adicionar um ou mais itens ao pedido, realize os seguintes passos:
 2. Na seção **A faturar**, clique em `Alterar itens`.
 3. Na página **Gerenciar itens do pedido**, clique na seta para cima <i class="fas fa-angle-up"></i> até o número da quantidade desejada, ou digite o número no campo. Feito isso, a página vai apresentar o preço e o número da quantidade anteriores tachados e vai aparecer a seguinte mensagem: _“Item editado”_.
 
-    ![change_order_adding_items_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_1.png)
+    ![change_order_adding_items_PT](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/ac1af94d506fdcd6be258f23cb51bd75/change_order_adding_items_PT.png)
 
 4. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [reverter uma alteração](#reverter-acoes).
 5. Clique em `Revisar e aplicar`.
@@ -110,7 +110,7 @@ Para adicionar um ou mais produtos a um pedido, realize os seguintes passos:
   > Se você clicar sobre o nome do produto, você será redirecionado para a página do produto no site da loja.
 6. A seguir, clique em `Adicionar itens selecionados`. A seguinte mensagem vai aparecer: _“Itens adicionados”_.
 
-    ![change_order_adding_product_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_2.png)
+    ![change_order_adding_product_PT](https://images.ctfassets.net/alneenqid6w5/6a1gqq7WZiTO1lXZL26tU0/1107b86fb89f9e1a76268693807bf4db/change_order_adding_product_PT.png)
 
 7. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [reverter uma alteração](#reverter-acoes).
 8. Clique em `Revisar e aplicar`.
@@ -127,7 +127,7 @@ Para remover um ou mais itens de um pedido, realize os seguintes passos:
 2. Na seção **A faturar**, clique em `Alterar itens`.
 3. Na página **Gerenciar itens do pedido**, clique na seta para baixo <i class="fas fa-angle-down"></i> até o número da quantidade desejada, ou digite o número no campo. Feito isso, a página apresenta o preço e o número da quantidade anteriores tachados e aparece a mensagem _“Item editado”_.
 
-    ![change_order_removing_items_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_3.png)
+    ![change_order_removing_items_PT](https://images.ctfassets.net/alneenqid6w5/1fyXdA3TCu89tVktrQTFOr/1ce6cbceb54dc71fe5da0bd37b2cd848/change_order_removing_items_PT.png)
 
 4. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [reverter uma alteração](#reverter-acoes).
 5. A seguir, clique em `Revisar e aplicar`.
@@ -144,7 +144,7 @@ Para excluir um produto de um pedido, realize os seguintes passos:
 2. Na seção **A faturar**, clique em `Alterar itens`.
 3. Na página **Gerenciar itens do pedido**, clique no ícone lixeira <i class="far fa-trash-alt"></i> `Remover item`. A seguinte mensagem de confirmação vai aparecer: _“Item removido”._
 
-    ![change_order_removing_product_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_4.png)
+    ![change_order_removing_product_PT](https://images.ctfassets.net/alneenqid6w5/6aN2IcHBxHHhFYIsy8ihRN/9130a233b2492ba003f4a93415bf16e1/change_order_removing_product_PT.png)
 
 4. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [everter uma alteração](#reverter-acoes).
 5. A seguir, clique em `Revisar e aplicar`.
@@ -179,7 +179,7 @@ Para alterar o peso de um item, realize os seguintes passos:
 3. Na página **Gerenciar itens do pedido**, na linha do produto desejado, digite o novo número do peso no campo. A unidade de medida vai estar especificada de acordo com as configurações no Catálogo. 
 4. Feito isso, a página apresenta o preço e o peso anteriores tachados e a mensagem _“Item editado”_.
 
-    ![change_order_changing_weight_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_5.png)
+    ![change_order_changing_weight_PT](https://images.ctfassets.net/alneenqid6w5/354LTV0LRZmcCXsB1oJkTw/a34686dc7fa270893387038e3472595e/change_order_changing_weight_PT.png)
 
 5. Revise os [detalhes do valor da alteração](#consultar-detalhes-dos-valores-da-alteracao). É possível [reverter uma alteração](#reverter-acoes).
 6. Clique em `Revisar e aplicar`.
@@ -200,7 +200,7 @@ Na página **Gerenciar itens do pedido**, enquanto você altera o pedido, o valo
 
 Na página **Gerenciar itens do pedido**, se você se arrepender de alguma alteração realizada, é possível desfazê-la. Para isso, clique no ícone seta curva `Desfazer ação`. Feito isso, uma mensagem de confirmação vai aparecer: _“Alteração desfeita”_, e a ação terá sido revertida.
 
-![change_order_undoing_actions_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Orders/All%20orders/como-alterar-pedidos_6.png)
+![change_order_undoing_actions_PT](https://images.ctfassets.net/alneenqid6w5/GcSxHKn9jphCgi8eNQarG/049029b660f8db15b1846d3098a34ea6/change_order_undoing_actions_PT.png)
 
 ## Erros de processamento
 

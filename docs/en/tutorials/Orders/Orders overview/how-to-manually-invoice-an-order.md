@@ -3,8 +3,8 @@ title: 'How to invoice an order'
 id: 7p1h852V5t54KyscpgxE2v
 status: PUBLISHED
 createdAt: 2020-12-28T20:50:42.445Z
-updatedAt: 2025-03-25T17:09:59.402Z
-publishedAt: 2025-03-25T17:09:59.402Z
+updatedAt: 2025-07-28T19:41:56.286Z
+publishedAt: 2025-07-28T19:41:56.286Z
 firstPublishedAt: 2020-12-28T21:01:55.107Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -34,7 +34,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 2. Search for the order by using the search bar [or the filters](/en/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Click the desired order.     
 4. Scroll down to the Invoice to items section, and click on the arrow icon <i class="fas fa-chevron-right"></i> to expand.  
-![Itens faturarEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20overview/how-to-manually-invoice-an-order_1.png)
+![Itens faturarEN](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
 5. Click the `Invoice` button. 
 6. Click the desired billing option:      
     * **Submit invoice referencing items:** to invoice the order referencing the package items.  
@@ -64,8 +64,8 @@ To send the invoice via VTEX Admin, follow the steps below:
 
 After the order is `Invoiced`, go to the **Invoice** section to check the invoices added, as shown in the image below:
 
-![FaturaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Orders/Orders%20overview/how-to-manually-invoice-an-order_2.png)
+![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
 
-For [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is captured by the VTEX payment gateway.
+For [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
 
 Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).

@@ -3,8 +3,8 @@ title: 'White label sellers selection'
 id: 3MemNQ4pKkWCpMdzI27AHa
 status: PUBLISHED
 createdAt: 2021-03-05T12:15:19.533Z
-updatedAt: 2022-06-17T16:05:08.344Z
-publishedAt: 2022-06-17T16:05:08.344Z
+updatedAt: 2025-07-22T22:19:55.610Z
+publishedAt: 2025-07-22T22:19:55.610Z
 firstPublishedAt: 2021-03-05T13:12:55.997Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -49,7 +49,7 @@ When a customer is browsing the marketplace from an undefined location, only the
 
 ### Window display when customer location is defined
 
-When the marketplace has access to the customer's location, either through captured geolocation or customer provided data, the VTEX platform queries for all the sellers covering that specific region to display the product price and availability in the window display. Learn more in [Setting up price and availability of SKUs by Region](/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
+When the marketplace has access to the customer's location, either through captured geolocation or customer provided data, the VTEX platform queries for all the sellers covering that specific region to display the product price and availability in the window display and select the seller offering the lowest price. Learn more in [Setting up price and availability of SKUs by Region](/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
 <div class="alert alert-warning">
 When the customer location is known, the VTEX platform queries for all sellers by default, using the <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2</a> feature. However, some VTEX stores may still be operating with Region v1, which has a limited seller selection for the window display.

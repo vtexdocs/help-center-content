@@ -39,9 +39,9 @@ API Get Product by RefId devuelve "no encontrado" para algunos productos/RefId, 
 
 https://VTEX.vtexcommercestable.com.br/api/catalog_system/pvt/products/productgetbyrefid/
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/BksgxlJ6S9SSqeullsdgcvnUm/?name=image.png)
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Catalog/catalogo-api-get-product-by-refid-devuelve-no-encontrado-para-algunos-productosrefid_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/vpk2h8A9N3j95Cw6XF7CL3cbt/?name=image.png)
 
 
 

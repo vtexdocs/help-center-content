@@ -146,5 +146,5 @@ In this section, you can highlight the promotion on the product listing page and
 
 See the Buy Together creation form below:
 
-![Informação geral - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Promotions%20&%20taxes/Promotions/buy-together_1.gif)
+![Informação geral - EN](https://images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/12e35d7d12bc22ffa4921a63502d5401/Compre_Junto_V1-_EN.gif)
 

@@ -24,7 +24,7 @@ O novo formulário foi criado para melhorar a experiência de configuração de 
 - Reduzir erros de configuração por meio de etapas bem definidas e uma visualização intuitiva dos critérios de promoção.
 - Personalizar promoções de maneira simplificada, ajustando as condições de compra e benefícios oferecidos aos clientes.
 
-![Compre e Ganhe-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024-12-12-novo-formulario-para-configuracao-da-promocao-compre-e-ganhe_1.gif)
+![Compre e Ganhe-PT](https://images.ctfassets.net/alneenqid6w5/6Jhx1J6n197TiAPgJq8j5h/46bf19850ff659f4108395ac862f8598/Compre_e_Ganhe-PT.gif)
 
 ## O que precisa ser feito?
 Nenhuma ação é necessária para acessar o novo formulário. A atualização será aplicada automaticamente em todas as lojas VTEX.

@@ -13,8 +13,9 @@ slugEN: my-orders-in-mercado-libre-have-errors
 locale: es
 legacySlug: errores-en-mis-pedidos-de-mercado-libre
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Marketplace, Catálogo, Integración, Mercado Libre, Productos
 ---
+
+**Tags:** Marketplace, Catálogo, Integración, Mercado Libre, Productos 
 
 Cuando se produce un error de integración en pedidos entre un marketplace y Mercado Libre, se muestra un mensaje de error en cada pedido. 
 
@@ -56,3 +57,4 @@ Para identificar el atributo indicado en el mensaje de error, consulta el númer
 <p><a href="https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar">Colombia</a></p> 
 <p><a href="https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar">México</a></p>
 </ul></p></div>
+

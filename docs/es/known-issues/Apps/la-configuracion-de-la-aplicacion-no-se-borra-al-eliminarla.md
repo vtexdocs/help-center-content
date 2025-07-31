@@ -35,7 +35,7 @@ internalReference: 1065954
 - Sigue las instrucciones para instalar la aplicación;
 - Rellene los ajustes (si procede) y "Guardar";
 - Haga clic en "Eliminar". Aparecerá el siguiente mensaje:
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Apps/la-configuracion-de-la-aplicacion-no-se-borra-al-eliminarla_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/kM5EhsfVaHLlISckht8rRYumU/?name=image.png)
 
 > ¿Desea eliminar la aplicación X?
 >

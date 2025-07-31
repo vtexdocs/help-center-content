@@ -43,7 +43,7 @@ Ao tentar traduzir um texto usando o editor do site para o login da loja, as alt
 
 Certifique-se de que iconLabel esteja vazio tanto no código da loja quanto no editor do site.
 Se não tiver certeza de que está vazio no editor do site, você pode redefinir o conteúdo acessando a versão do editor do site > redefinir.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Store%20Framework/o-texto-no-login-da-loja-nao-esta-sendo-traduzido-usando-o-editor-do-site_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/PXovY6zVHdqqhxjodbtMqdXAa/?name=image.png)
 
 Siga a documentação aqui e os contextos aqui para definir o rótulo conforme desejado.
 

@@ -13,8 +13,9 @@ slugEN: trigger-in-master-data-v2-is-not-working
 locale: en
 legacySlug: trigger-in-master-data-v2-is-not-working
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Master Data v2, Trigger
 ---
+
+**Tags:**  Master Data v2, Trigger
 
 When creating a trigger to notify changes to a data entity in Master Data v2, some users may notice that no requests are sent to the configured endpoint, even after configuring the trigger.
 

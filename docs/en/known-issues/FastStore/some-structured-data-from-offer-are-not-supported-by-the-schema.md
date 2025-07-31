@@ -33,7 +33,7 @@ Some fields from the Offer type are not being correctly validated by the schema.
 
 You can see this behavior on our default store https://www.fast.store/ by checking for any PDP on schema.org, for example:
 https://validator.schema.org/#url=https%3A%2F%2Fwww.fast.store%2Fwireless-controller-white-10000000%2Fp
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/FastStore/some-structured-data-from-offer-are-not-supported-by-the-schema_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/2O5AHNwwktZmy2LXC8isSVWpt/?name=image.png)
 
 
 ##

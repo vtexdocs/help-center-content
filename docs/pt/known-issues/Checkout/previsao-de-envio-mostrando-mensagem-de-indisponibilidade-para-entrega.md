@@ -25,7 +25,7 @@ internalReference: 1170877
 
 A visualização do frete no carrinho não considera o SLA selecionado, mesmo que a API de checkout esteja correta. Ela mostra a mensagem "Frete não disponível para sua localização".
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Checkout/previsao-de-envio-mostrando-mensagem-de-indisponibilidade-para-entrega_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/oKGiw0BqXd83twkctR84fT0Wc/?name=image.png)
 
 Esse comportamento foi observado em países específicos, como Argentina e Colômbia, mas não se limita a esses 2 países.
 

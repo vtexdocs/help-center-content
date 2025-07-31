@@ -25,7 +25,7 @@ internalReference: 1209822
 
 O aplicativo de login da VTEX tem um recurso chamado accountOptionLinks, que permite colocar links de redirecionamento personalizados para as seções da myaccount dentro do popover de login. Esses links são exibidos quando o usuário está conectado à loja on-line. Exemplo:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/problemas-de-navegacao-no-menu-myaccount_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/zosxLBGZVqOL0xNQkPDEfheBO/?name=image.png)
 
 No entanto, a navegação a partir desses links de popover de login não está funcionando. Depois de clicar, o URL muda na barra de endereços do navegador, mas a página não é renderizada. Por outro lado, a navegação de qualquer outra página para "myaccount" funciona bem.
 
@@ -39,11 +39,11 @@ Faça login em uma loja virtual que tenha o recurso `accountOptionLinks`. Ex:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/problemas-de-navegacao-no-menu-myaccount_2.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/JdhPUya3LJeKRpxwhzfvEA9d3/?name=image.png)
 
 - No canto superior direito, clique no ícone do nome de usuário/avatar e um popover será exibido. Em seguida, clique em uma das opções do menu de redirecionamento (no exemplo abaixo, "pedidos") e você verá que o URL do navegador será alterado, mas a página não.
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/known-issues/Identity/problemas-de-navegacao-no-menu-myaccount_3.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/plTb6qntOS6aZTxUIdMMfiEaK/?name=image.png)
 
 
 

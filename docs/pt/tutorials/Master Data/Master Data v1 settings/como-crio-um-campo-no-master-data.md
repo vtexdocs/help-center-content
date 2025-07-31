@@ -45,7 +45,7 @@ Confira o passo a passo:
 
 <div class="alert alert-info">Mais informações sobre <strong>Configurações gerais</strong> e <strong>Configurações de busca e de filtro</strong> podem ser encontradas na sessão <strong>Como configurar</strong> do artigo <a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar">Criar entidade de dados</a>.</div>
 
-![criar campo master data ds](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20v1%20settings/como-crio-um-campo-no-master-data_1.gif)
+![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 
 Desse modo, você retornará para a página de principal da aba Entidade de Dados. Para finalizar, você precisa publicar o campo. Basta localizar a linha da entidade em que o campo foi adicionado e clicar no ícone disquete.
 
@@ -70,6 +70,6 @@ Dito isso, prossiga com as instruções:
 7. Arraste o campo da lista Campos disponíveis para as colunas Campos da coluna 1 ou Campos da coluna 2;
 8. No canto inferior direito da tela, clique no botão azul Salvar.
 
-![criar campo master data CRM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Master%20Data%20v1%20settings/como-crio-um-campo-no-master-data_2.gif)
+![criar campo master data CRM](https://images.ctfassets.net/alneenqid6w5/2ykQ9Vx7FCZLehkQpxMMmp/0b52e7bc11fc024e74c5223b8e534b65/criar_campo_master_data_CRM.gif)
 
 Pronto! Assim, os campos serão exibidos no formulário.

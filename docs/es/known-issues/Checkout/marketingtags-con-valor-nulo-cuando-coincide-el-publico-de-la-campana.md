@@ -35,7 +35,7 @@ Cuando una cuenta tiene un público de campaña y se hace coincidir con un usuar
 - Crear un público para la campaña;
 - Inicie sesión con un usuario con el que coincida la campaña;
 - Comprueba el campo `marketingData.marketingTags` en el orderForm, tendrá un valor nulo y el nombre de la campaña.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Checkout/marketingtags-con-valor-nulo-cuando-coincide-el-publico-de-la-campana_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/1i6d9cIyg1Hx2fs9QsVZ6BFCY/?name=image.png)
 
 
 ##

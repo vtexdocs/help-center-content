@@ -27,7 +27,7 @@ Solo los retailers autorizados podrán solicitar la eliminación de datos de cli
 - **Write user rights requests** (del producto **User Rights**).
 - **Open Support Ticket** (del producto **VTEX Support**).
 
-![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025-04-02-nuevo-proceso-para-solicitar-la-eliminacion-de-datos-personales-via-copilot_1.jpg)
+![perfil-de-acesso-gdpr](https://images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/d2aadac371f160ec764fc73dae575ad3/espanhol.jpg)
 
 Luego, asigna este rol al retailer que será responsable de la solicitud de eliminación de datos de clientes.
 

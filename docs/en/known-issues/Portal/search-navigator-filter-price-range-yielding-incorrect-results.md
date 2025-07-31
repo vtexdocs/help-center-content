@@ -29,7 +29,7 @@ Currently, when using the search Navigator brand filter along with a price range
 
 1) Populate the search navigator controller with at least 2 brands, that is for a given category/subcategory, have at least 2 different brands listed:
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Portal/search-navigator-filter-price-range-yielding-incorrect-results_1.png)​
+ ![](https://vtexhelp.zendesk.com/attachments/token/2lJXG553wVxO5DU4GKifG7IlI/?name=inline-447748464.png)​
 
 2) Subsequently, filter for only `Brand B`, for instance, now, only the results yielded by this specific brand for this category should be shown,
 

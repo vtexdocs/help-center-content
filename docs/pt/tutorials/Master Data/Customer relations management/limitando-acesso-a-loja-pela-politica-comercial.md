@@ -48,7 +48,7 @@ Após a criação do cluster, é preciso criar a regra na política comercial pa
 3. No campo **Regra condicional**, preencha com o valor **{NomeDoCluster}=”true”**. O valor **{NomeDoCluster}** deve ser alterado pelo nome do campo na entidade de dados.
 4. Clique no botão **Salvar**.
 
-![Catálogo PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Master%20Data/Customer%20relations%20management/limitando-acesso-a-loja-pela-politica-comercial_1.png)
+![Catálogo PT](https://images.ctfassets.net/alneenqid6w5/7r2ANIP2U6JDt1B0dxGmF6/739b47fa293440f94bb635d0d90cfbc0/pol__ticas_comerciais_pt.png)
 
 Na configuração acima, apenas o clientes com o valor true (utilizado um campo boolean – em que os valores são verdadeiro ou falso) acessarão o site.
 

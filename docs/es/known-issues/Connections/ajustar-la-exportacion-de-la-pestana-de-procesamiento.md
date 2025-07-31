@@ -31,7 +31,7 @@ La exportación en la pestaña de procesamiento de skus está fallando:
 
 
 
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/Connections/ajustar-la-exportacion-de-la-pestana-de-procesamiento_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/UrnZzrfODolAIP6OVUyBoqlnJ/?name=image.png)
 
 
 

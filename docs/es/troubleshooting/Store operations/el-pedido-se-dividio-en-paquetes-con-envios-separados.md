@@ -13,8 +13,9 @@ slugEN: the-order-was-split-into-packages-with-separate-deliveries
 locale: es
 legacySlug: el-pedido-se-dividio-en-paquetes-con-envios-separados
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Envíos separados, Split de pedidos, Paquetes, Envío, Preventa
 ---
+
+**Tags:** Envíos separados, Split de pedidos, Paquetes, Envío, Preventa
 
 En VTEX, los clientes pueden recibir su pedido dividido en varios paquetes, independientemente de si [la división del pedido](/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV) se reflejó en la plataforma. El cliente puede recibir los ítems del pedido en paquetes separados en los siguientes casos:
 
@@ -42,3 +43,4 @@ Para configurar grupos de envío en tu tienda sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Configuración de la tienda > Envío > Configuración** o ingresa **Envío** en la barra de búsqueda en la parte superior de la página y selecciona **Configuración de la tienda / Envío**.
 2. En la sección **Grupo de entrega** de la página **Configuración general**, rellena el campo _Crear grupos de envío con intervalos de {X} día(s)_ con el número de días que deseas definir para el [envío](/es/tutorial/como-funciona-a-remessa).
 3. Haz clic en **Guardar**.
+

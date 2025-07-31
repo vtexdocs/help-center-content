@@ -13,15 +13,16 @@ slugEN: my-stores-site-editor-is-not-working
 locale: pt
 legacySlug: o-site-editor-da-minha-loja-nao-esta-funcionando
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags: Site editor, CMS, Store framework
 ---
+
+**Tags:** Site editor, CMS, Store framework
 
 O [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode encontrar dificuldades para abrir o Site Editor ou salvar conteúdo.
 
 Veja a seguir instruções instruções que podem ajudar a solucionar esses problemas no Site Editor.
 
 | **Problema** | **Descrição** | **Instruções para resolução do problema** |
-|------------ | ------------- | ----------------------------------------- |
+| ------------ | ------------- | ----------------------------------------- |
 | [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem <code>Algo deu errado</code>. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
 | [Não consigo gerenciar o conteúdo da minha loja no Site Editor](#nao-consigo-gerenciar-o-conteudo-da-minha-loja-no-site-editor) | Não é possível editar, salvar ou excluir conteúdo no Site Editor. | - [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).<br> - [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio). |
 | [Perdi o conteúdo armazenado no Site Editor](#perdi-o-conteudo-armazenado-no-site-editor) | O conteúdo salvo no Site Editor foi perdido. | [Abra um ticket para o Suporte VTEX](#perdi-o-conteudo-armazenado-no-site-editor). |
@@ -33,7 +34,7 @@ Para entender e corrigir cada erro, consulte as soluções abaixo:
 
 É possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.
 
-![Site Editor - Something went wrong PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_1.png)
+![Site Editor - Something went wrong PT](https://images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/178a0dae490ee3ab5b0a8c5feaf54302/img1-PT.png)
 
 Para solucionar esse erro, veja as instruções a seguir:
 
@@ -47,7 +48,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
 
-    ![Site Editor - IS integrations PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_2.png)
+    ![Site Editor - IS integrations PT](https://images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/91618ffbb8e61ddf78bb0417bc55caa1/img2-PT.png)
 
 3. Se todos os status estiverem ticados e ainda não for possível abrir o Site Editor, consulte a seção [Verificar a configuração do tenant](#verificar-a-configuracao-do-tenant-apenas-novas-contas). Caso contrário, prossiga para o próximo passo.
 4. Se a página Integrações estiver diferente da imagem acima, veja a seguir os possíveis motivos e como solucioná-los:
@@ -106,12 +107,12 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
     ```
 5. Verifique qual a localidade principal definida para sua loja. Essa informação está disponível no campo `defaultLocale`. Veja o exemplo abaixo.
 
-    ![graphql-default-locale-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_3.png)
+    ![graphql-default-locale-pt](https://images.ctfassets.net/alneenqid6w5/37qyTXPNZE0zWbvCrqIsWa/bdbbe304049719c2ed8606f2c71d4cb3/graphql-default-locale.png)
 
 6. Agora, acesse **Configurações da loja > Canais > Políticas comerciais**.
 7. Na página **Políticas comerciais**, selecione a política comercial associada à sua conta e verifique o campo **Localidade**.
 
-    ![Site Editor - Locale PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/Store%20operations/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
+    ![Site Editor - Locale PT](https://images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/62aa1add719c52cd697fbda36176ca03/img3-PT.png)
 
   A localidade é considerada incorreta nos seguintes casos:
     - A localidade é diferente do que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.

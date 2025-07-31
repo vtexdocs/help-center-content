@@ -3,8 +3,8 @@ title: "La bandera MessagessV2 requiere que el contenido se guarde en el idioma 
 id: 4mQuhUYT5zcMddid8mcWMl
 status: PUBLISHED
 createdAt: 2025-07-18T12:52:26.344Z
-updatedAt: 2025-07-18T12:52:27.187Z
-publishedAt: 2025-07-18T12:52:27.187Z
+updatedAt: 2025-07-24T18:19:23.632Z
+publishedAt: 2025-07-24T18:19:23.632Z
 firstPublishedAt: 2025-07-18T12:52:27.187Z
 contentType: knownIssue
 productTeam: CMS
@@ -25,7 +25,7 @@ internalReference: 1260018
 
 
 Cuando una tienda multilenguaje tiene el indicador MessagesV2 Enable New Page Translation Configuration, se produce un problema en el editor del sitio. Si el cliente intenta guardar contenido en una de las localizaciones que no es la principal, puede recibir un error de: Algo ha ido mal.
- ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/known-issues/CMS/la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original_1.png)
+ ![](https://vtexhelp.zendesk.com/attachments/token/QOndCdSMiZtiGHYTBf0sYstQd/?name=image.png)
 Este error está relacionado con el mensaje "Contenido original no encontrado".
 
 Pero con esta bandera activa, no se requiere guardar este contenido en la localización original para su uso. Por lo tanto, no debería ser necesario guardar el contenido.

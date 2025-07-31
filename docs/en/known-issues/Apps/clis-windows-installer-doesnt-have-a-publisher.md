@@ -20,7 +20,7 @@ internalReference: 1170038
 
 
 When installing the CLI using the Windows option of the documentation, there is no publisher. So, you may encounter the following message on your computer.
- ![image (12).png](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/known-issues/Apps/clis-windows-installer-doesnt-have-a-publisher_1.png)
+ ![image (12).png](https://vtexhelp.zendesk.com/attachments/token/F02RItFccmznmy106xSt9kjkQ/?name=image+%2812%29.png&lotus_request=true)
 You can just press install and follow up with the installation.
 
 
