@@ -1,0 +1,119 @@
+# This workflow leveradges the `vtexdocs/devportal-docsearch-action` to scrape files from the Help Center. But instead of indexing them, it just logs errors to a spreadsheet.
+# It uses a specific branch version of the docsearch action that has been stripped down to only log errors.
+name: "Help Center batch files scraper"
+
+on:
+  workflow_dispatch:
+    inputs:
+      directory:
+        description: 'Directory to search for files'
+        required: false
+        type: string
+        default: 'docs'
+      batch_size:
+        description: 'Number of files to process per batch'
+        required: false
+        type: number
+        default: 500
+      sleep_time:
+        description: 'Time to sleep between batches'
+        required: false
+        type: number
+        default: 0
+      files:
+        description: 'Comma-separated list of files to process'
+        required: false
+        type: string
+
+jobs:
+  find-files:
+    if: inputs.files == ''
+    runs-on: ubuntu-latest
+    name: Find files and create batches
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find all markdown files
+        id: find-files
+        run: |
+          echo "Searching for files in ${{ inputs.directory }}"
+
+          # Ensure we're only searching in the specified directory
+          if [ ! -d "${{ inputs.directory }}" ]; then
+            echo "Error: ${{ inputs.directory }} directory not found!"
+            exit 1
+          fi
+          
+          # Find all markdown files in the specified directory and its subdirectories
+          FILES=$(find ${{ inputs.directory }} -type f \( -name "*.md" -o -name "*.mdx" \) | tr '\n' ',')
+          
+          if [ -z "$FILES" ]; then
+            echo "Error: No markdown files found in ${{ inputs.directory }} directory!"
+            exit 1
+          fi
+          
+          echo "Found files:"
+          echo "$FILES"
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Create batches and trigger workflows
+        run: |
+          # Read all files into an array using comma as delimiter
+          IFS=',' read -r -a all_files <<< "${{ steps.find-files.outputs.files }}"
+          total_files=${#all_files[@]}
+          batch_size=${{ inputs.batch_size }}
+          
+          echo "Total files to process: $total_files"
+          
+          # Process files in batches
+          for ((i=0; i<total_files; i+=batch_size)); do
+            # Get the current batch of files
+            batch=()
+            end=$((i + batch_size))
+            if [ $end -gt $total_files ]; then
+              end=$total_files
+            fi
+            
+            for ((j=i; j<end; j++)); do
+              batch+=("${all_files[j]}")
+            done
+            
+            # Join the batch files with commas
+            batch_files=$(IFS=','; echo "${batch[*]}")
+            
+            echo "Triggering workflow for batch $((i/batch_size + 1)) with ${#batch[@]} files"
+            echo "Files in this batch: $batch_files"
+            
+            # Trigger a new workflow run with this batch
+            gh workflow run docsearch-scraper-batch.yml -f files="$batch_files"
+            
+            # Add a small delay between triggers to avoid rate limits
+            if [ $((i+batch_size)) -lt $total_files ]; then
+              echo "Waiting ${{ inputs.sleep_time }} seconds before next batch..."
+              sleep ${{ inputs.sleep_time }}
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # This job is triggered by the find-files job when the files input is not empty.
+  # It processes the batch of files passed as input. One run of the main workflow may trigger many runs of the process-batch job, depending on the number of files in and the batch_size parameter.
+  process-batch:
+    if: inputs.files != ''
+    runs-on: ubuntu-latest
+    name: Process batch of files
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Helpcenter Scraper
+        id: scraper
+        uses: vtexdocs/devportal-docsearch-action@broken-page-finder
+        with:
+          algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
+          algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
+          files: './configs/scraper_helpcenter_files.json'
+          added: ${{ inputs.files }}
