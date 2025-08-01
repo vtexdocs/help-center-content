@@ -88,7 +88,7 @@ jobs:
             echo "Files in this batch: $batch_files"
             
             # Trigger a new workflow run with this batch
-            gh workflow run docsearch-scraper-batch.yml -f files="$batch_files"
+            gh workflow run broken-page-finder.yml -f files="$batch_files"
             
             # Add a small delay between triggers to avoid rate limits
             if [ $((i+batch_size)) -lt $total_files ]; then
