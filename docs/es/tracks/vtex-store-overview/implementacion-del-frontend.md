@@ -146,19 +146,19 @@ En la siguiente tabla se comparan las dos tecnologías según sus principales fu
         <td>Tech Stack</td>
         <td>
             <ul>
-                <li>TypeScript
-                <li>React
-                <li>GraphQL
-                <li>Node.js
+                <li>TypeScript</li>
+                <li>React</li>
+                <li>GraphQL</li>
+                <li>Node.js</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>TypeScript
-                <li>React
-                <li>Next.js
-                <li>GraphQL
-                <li>Node.js
+                <li>TypeScript</li>
+                <li>React</li>
+                <li>Next.js</li>
+                <li>GraphQL</li>
+                <li>Node.js</li>
             </ul>
         </td>
     </tr>
@@ -176,13 +176,13 @@ En la siguiente tabla se comparan las dos tecnologías según sus principales fu
         <td>Comunidad de soporte</td>
         <td>
             <ul>
-                <li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework">Documentación oficial</a>
-                <li><a href="https://community.vtex.com/c/store-development/store-framework/17">VTEX Community</a>
+                <li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework">Documentación oficial</a></li>
+                <li><a href="https://community.vtex.com/c/store-development/store-framework/17">VTEX Community</a></li>
             </ul>
         </td>
         <td>
             <ul>
-                <li><a href="https://www.faststore.dev/docs">Documentación oficial</a>
+                <li><a href="https://www.faststore.dev/docs">Documentación oficial</a></li>
             </ul>
         </td>
     </tr>
@@ -190,14 +190,14 @@ En la siguiente tabla se comparan las dos tecnologías según sus principales fu
         <td>Monitoreo del desempeño y Analytics</td>
         <td>
             <ul>
-                <li>Posibilidad de configurar <a href="https://developers.vtex.com/docs/guides/google-tag-manager">VTEX Google Tag Manager</a> para analizar los datos de navegación de la tienda.
-                <li>Posibilidad de aumentar el desempeño del sitio web de la tienda utilizando herramientas de <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance">optimización de desempeño</a>.
+                <li>Posibilidad de configurar <a href="https://developers.vtex.com/docs/guides/google-tag-manager">VTEX Google Tag Manager</a> para analizar los datos de navegación de la tienda.</li>
+                <li>Posibilidad de aumentar el desempeño del sitio web de la tienda utilizando herramientas de <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance">optimización de desempeño</a>.</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>Posibilidad de configurar el módulo de Analytics nativo.
-                <li>Posibilidad de aumentar el desempeño del sitio web de la tienda utilizando herramientas tecnológicas.
+                <li>Posibilidad de configurar el módulo de Analytics nativo.</li>
+                <li>Posibilidad de aumentar el desempeño del sitio web de la tienda utilizando herramientas tecnológicas.</li>
             </ul>
         </td>
     </tr>
