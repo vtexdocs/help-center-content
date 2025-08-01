@@ -111,7 +111,7 @@ jobs:
 
       - name: Helpcenter Scraper
         id: scraper
-        uses: vtexdocs/devportal-docsearch-action@main
+        uses: vtexdocs/devportal-docsearch-action@broken-page-finder
         with:
           algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
           algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
