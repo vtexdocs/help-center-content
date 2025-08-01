@@ -14,12 +14,12 @@ on:
         description: 'Number of files to process per batch'
         required: false
         type: number
-        default: 300
+        default: 500
       sleep_time:
         description: 'Time to sleep between batches'
         required: false
         type: number
-        default: 300
+        default: 0
       files:
         description: 'Comma-separated list of files to process'
         required: false
