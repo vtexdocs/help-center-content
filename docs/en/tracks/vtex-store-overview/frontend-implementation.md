@@ -34,10 +34,10 @@ Before implementing the frontend, you should configure the following steps in yo
 
 | Step | Description |
 |---|---|
-| Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
-| Configuring roles | The team configures the roles needed for each [user](/en/tutorial/managing-users--tutorials_512) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
-| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
-| Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
+| Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br/><br/>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
+| Configuring roles | The team configures the roles needed for each [user](/en/tutorial/managing-users--tutorials_512) to use the VTEX platform.<br/><br/>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
+| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br/><br/>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br/><br/>Learn more in the [VTEX modules I](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
+| Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br/><br/>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br/><br/>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 
 <div class = "alert alert-info">
 The <a href="#development-stages">development stage</a> can run in parallel with other <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">backend integrations</a> and <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7">module configuration</a> steps, such as setting up payment methods and logistics. This will depend on the type of <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">architecture and planning</a> chosen for the VTEX store, and the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">implementing agency</a> or <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">VTEX Support</a> should monitor these processes.
@@ -148,19 +148,19 @@ The table below compares the two technologies based on their main features:
         <td>Tech Stack</td>
         <td>
             <ul>
-                <li>TypeScript
-                <li>React
-                <li>GraphQL
-                <li>Node.js
+                <li>TypeScript<li/>
+                <li>React<li/>
+                <li>GraphQL<li/>
+                <li>Node.js<li/>
             </ul>
         </td>
         <td>
             <ul>
-                <li>TypeScript
-                <li>React
-                <li>Next.js
-                <li>GraphQL
-                <li>Node.js
+                <li>TypeScript<li/>
+                <li>React<li/>
+                <li>Next.js<li/>
+                <li>GraphQL<li/>
+                <li>Node.js<li/>
             </ul>
         </td>
     </tr>
@@ -178,13 +178,13 @@ The table below compares the two technologies based on their main features:
         <td><em>Community and Support</em></td>
         <td>
             <ul>
-                <li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework">Official documentation</a>
-                <li><a href="https://community.vtex.com/c/store-development/store-framework/17">VTEX community</a>
+                <li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework">Official documentation</a><li/>
+                <li><a href="https://community.vtex.com/c/store-development/store-framework/17">VTEX community</a><li/>
             </ul>
         </td>
         <td>
             <ul>
-                <li><a href="https://www.faststore.dev/docs">Official documentation</a>
+                <li><a href="https://www.faststore.dev/docs">Official documentation</a><li/>
             </ul>
         </td>
     </tr>
@@ -192,14 +192,14 @@ The table below compares the two technologies based on their main features:
         <td><em>Performance Monitoring and Analytics</em></td>
         <td>
             <ul>
-                <li>Possibility of configuring <a href="https://developers.vtex.com/docs/guides/google-tag-manager">VTEX Google Tag Manager</a> to analyze store navigation data.
-                <li>Possibility of increasing store performance using <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance">optimization tools</a>.
+                <li>Possibility of configuring <a href="https://developers.vtex.com/docs/guides/google-tag-manager">VTEX Google Tag Manager</a> to analyze store navigation data.<li/>
+                <li>Possibility of increasing store performance using <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance">optimization tools</a>.<li/>
             </ul>
         </td>
         <td>
             <ul>
-                <li>Possibility of configuring the native Analytics module.
-                <li>Possibility of improving store performance using technology tools.
+                <li>Possibility of configuring the native Analytics module.<li/>
+                <li>Possibility of improving store performance using technology tools.<li/>
             </ul>
         </td>
     </tr>
