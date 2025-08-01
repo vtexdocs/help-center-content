@@ -1,6 +1,6 @@
 # This workflow leveradges the `vtexdocs/devportal-docsearch-action` to scrape files from the Help Center. But instead of indexing them, it just logs errors to a spreadsheet.
 # It uses a specific branch version of the docsearch action that has been stripped down to only log errors.
-name: "Help Center batch files scraper"
+name: "Broken Page Finder"
 
 on:
   workflow_dispatch:
