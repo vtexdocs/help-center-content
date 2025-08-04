@@ -15,9 +15,7 @@ legacySlug: how-to-know-which-javascript-file-is-being-applied-to-a-page
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for Legacy CMS Stores.
-</div>
+> Tutorial valid only for Legacy CMS Stores.
 
 The VTEX platform is extremely flexible. In other words, it is common for customers to have several customizations at the front-end of e-commerce. Different tools can handle these customizations, among them Google Tag Manager or even JavaScript files included on the CMS.
 
