@@ -13,7 +13,6 @@ tag: Portal (CMS)
 slugEN: google-merchant-center-reprovando-anuncios-por-divergencia-de-preco
 locale: pt
 kiStatus: Fixed
-internalReference: 
 ---
 
 ## Sumário
