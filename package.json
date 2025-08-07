@@ -1,0 +1,17 @@
+{
+  "name": "contentful-migration-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carolina Menezes <carolina.menezes@vtex.com>",
+  "license": "ISC",
+  "description": "Fetch and migrate content from Contentful to GitHub markdown files.",
+  "dependencies": {
+    "contentful-management": "^11.54.4",
+    "dotenv": "^17.2.1",
+    "minimist": "^1.2.8"
+  }
+}
