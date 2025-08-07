@@ -2,6 +2,7 @@ const contentful = require("contentful-management");
 const fs = require("fs");
 const path = require("path");
 require("dotenv").config();
+const matter = require("gray-matter");
 
 console.log("Generating navigation...");
 
@@ -235,8 +236,8 @@ function getNews() {
 
       const enSlug = file.replace(".md", "");
       //    console.log(enSlug)
-      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
-      const title = titleMatch[1];
+      const { title } = safeExtractFrontmatter(content);
+
       //    console.log("Title:" + title)
 
       const ptFile = ptFiles.find((f) => {
@@ -349,8 +350,7 @@ function getFaq() {
       const filePath = path.join(enCategoryPath, file);
       const content = fs.readFileSync(filePath, "utf8");
       const enSlug = file.replace(".md", "");
-      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
-      const title = titleMatch ? titleMatch[1] : "";
+      const { title } = safeExtractFrontmatter(content);
 
       const ptFile = ptFiles.find((f) => {
         const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), "utf8");
@@ -444,8 +444,7 @@ function getKnownIssues() {
       const filePath = path.join(enCategoryPath, file);
       const content = fs.readFileSync(filePath, "utf8");
       const enSlug = file.replace(".md", "");
-      const titleMatch = content.match(/(?:^|\n)title:\s*["'](.*?)["']/);
-      const title = titleMatch ? titleMatch[1] : "";
+      const { title } = safeExtractFrontmatter(content);
 
       const ptFile = ptFiles.find((f) => {
         const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), "utf8");
@@ -692,6 +691,32 @@ async function getEntries() {
     );
   } catch (error) {
     console.log("Error occurred while fetching entry:", error);
+  }
+}
+
+function safeExtractFrontmatter(content) {
+  try {
+    const { data } = matter(content);
+    return {
+      title: data.title || "",
+      slugEN: data.slugEN || "",
+      // Add more fields if needed
+    };
+  } catch (err) {
+    console.warn(`⚠️ Invalid YAML frontmatter: ${err.message}`);
+    // Fallback to regex-based extraction
+    const fallback = {};
+
+    const titleMatch = content.match(/^title:\s*['"]?(.+?)['"]?\s*$/m);
+    if (titleMatch) fallback.title = titleMatch[1].trim();
+
+    const slugMatch = content.match(/^slugEN:\s*['"]?(.+?)['"]?\s*$/m);
+    if (slugMatch) fallback.slugEN = slugMatch[1].trim();
+
+    return {
+      title: fallback.title || "",
+      slugEN: fallback.slugEN || "",
+    };
   }
 }
 
