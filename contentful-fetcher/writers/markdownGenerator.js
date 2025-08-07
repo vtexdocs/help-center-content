@@ -1,3 +1,5 @@
+const { getEntryStatus } = require("../utils/entryStatus");
+
 //GENERATE TRACKS MARKDOWN FILES
 function generateTrackMarkdown(entry, locale = "en") {
   const { fields, sys } = entry;
@@ -37,7 +39,8 @@ function generateTutorialMarkdown(
   entry,
   locale = "en",
   categoryName = "uncategorized",
-  subcategoryName = ""
+  subcategoryName = "",
+  isTroubleshooting = false
 ) {
   const { fields, sys } = entry;
 
@@ -49,6 +52,27 @@ function generateTutorialMarkdown(
   const author = fields.author?.pt?.[0]?.sys?.id || "";
   const subcategoryId = fields.subcategory?.pt?.sys?.id || "";
   const status = getEntryStatus(sys);
+
+  let text = fields.text?.[locale] || "";
+
+  // Extract tags if it's a troubleshooting article
+  let tags = [];
+  if (isTroubleshooting) {
+    const tagMatch = text.match(/\*\*Tags:\*\*\s*(.+)/i);
+    if (tagMatch) {
+      const tagList = tagMatch[1]
+        .split(",")
+        .map((tag) => tag.trim())
+        .filter(Boolean);
+      tags = tagList;
+
+      // Remove the tags line from the text body
+      text = text.replace(tagMatch[0], "").trimStart();
+    }
+  }
+
+  const tagYaml =
+    tags.length > 0 ? `tags:\n${tags.map((t) => `  - ${t}`).join("\n")}\n` : "";
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -65,26 +89,27 @@ slugEN: ${slugEN}
 legacySlug: ${legacySlug}
 locale: ${locale}
 subcategoryId: ${subcategoryId}
+${tagYaml}
 ---
 
-${fields.text?.[locale] || ""}
+${text}
 `;
 
   return { content, slug: slugLocalized, categoryName, subcategoryName };
 }
 
 //GENERATE ANNOUNCEMENT MARKDOWN FILES
-function generateAnnouncementMarkdown(entry, locale = 'en') {
+function generateAnnouncementMarkdown(entry, locale = "en") {
   const { fields, sys } = entry;
 
-  const title = fields.title?.[locale] || 'Untitled';
-  const slugLocalized = fields.slug?.[locale] || 'untitled';
-  const slugEN = fields.slug?.en || 'untitled';
-  const productTeam = fields.xpTeam?.pt || 'unknown';
-  const author = fields.author?.pt?.[0]?.sys?.id || '';
-  const legacySlug = fields.legacySlug?.[locale] || '';
-  const announcementImageID = fields.image?.pt?.id || '';
-  const synopsis = fields.synopsis?.[locale] || '';
+  const title = fields.title?.[locale] || "Untitled";
+  const slugLocalized = fields.slug?.[locale] || "untitled";
+  const slugEN = fields.slug?.en || "untitled";
+  const productTeam = fields.xpTeam?.pt || "unknown";
+  const author = fields.author?.pt?.[0]?.sys?.id || "";
+  const legacySlug = fields.legacySlug?.[locale] || "";
+  const announcementImageID = fields.image?.pt?.id || "";
+  const synopsis = fields.synopsis?.[locale] || "";
   const status = getEntryStatus(sys);
   const year = new Date(sys.createdAt).getFullYear();
   const synopsisKey = `announcementSynopsis${locale.toUpperCase()}`;
@@ -106,22 +131,49 @@ announcementImageID: '${announcementImageID}'
 ${synopsisKey}: ${synopsis.includes("'") ? `"${synopsis}"` : `'${synopsis}'`}
 ---
 
-${fields.text?.[locale] || ''}
+${fields.text?.[locale] || ""}
 `;
 
   return { content, slug: slugLocalized, year };
 }
 
-function getEntryStatus(sys) {
-  if (!!sys.archivedVersion) return "ARCHIVED";
-  if (!sys.publishedVersion) return "DRAFT";
-  if (sys.version >= sys.publishedVersion + 2) return "CHANGED";
-  if (sys.version === sys.publishedVersion + 1) return "PUBLISHED";
-  return "UNKNOWN";
+//GENERATE FAQ MARKDOWN FILES
+function generateFaqMarkdown(entry, locale = "en") {
+  const { fields, sys } = entry;
+
+  const title = fields.title?.[locale] || "Untitled";
+  const slugLocalized = fields.slug?.[locale] || "untitled";
+  const slugEN = fields.slug?.en || "untitled";
+  const legacySlug = fields.legacySlug?.[locale] || "";
+  const productTeam = fields.xpTeam?.pt || "unknown";
+  const author = fields.author?.pt?.[0]?.sys?.id || "";
+  const status = getEntryStatus(sys);
+
+  const content = `---
+title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
+id: ${sys.id}
+status: ${status}
+createdAt: ${sys.createdAt || ""}
+updatedAt: ${sys.updatedAt || ""}
+publishedAt: ${sys.publishedAt || ""}
+firstPublishedAt: ${sys.firstPublishedAt || ""}
+contentType: ${sys.contentType.sys.id}
+productTeam: ${productTeam}
+author: ${author}
+slugEN: ${slugEN}
+locale: ${locale}
+legacySlug: ${legacySlug}
+---
+
+${fields.text?.[locale] || ""}
+`;
+
+  return { content, slug: slugLocalized, productTeam };
 }
 
 module.exports = {
   generateTrackMarkdown,
   generateTutorialMarkdown,
-  generateAnnouncementMarkdown
+  generateAnnouncementMarkdown,
+  generateFaqMarkdown,
 };

@@ -1,75 +1,126 @@
-const fetchEntries = require('./fetch/entries');
-const minimist = require('minimist');
+const fetchEntries = require("./fetch/entries");
+const minimist = require("minimist");
 const {
   generateTrackMarkdown,
   generateTutorialMarkdown,
-  generateAnnouncementMarkdown
-} = require('./writers/markdownGenerator');
-const { writeMarkdown } = require('./writers/fileWriter');
-const { fetchLinkedEntry } = require('./fetch/linkedEntry');
-const { fixImageLinks } = require('./utils/fixImageLinks');
+  generateAnnouncementMarkdown,
+  generateFaqMarkdown,
+} = require("./writers/markdownGenerator");
+const { writeMarkdown } = require("./writers/fileWriter");
+const { fetchLinkedEntry } = require("./fetch/linkedEntry");
+const { fixImageLinks } = require("./utils/fixImageLinks");
+const { isArchived } = require("./utils/entryStatus");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
-  const contentTypes = args.contentType?.split(',') ?? ['trackArticle', 'tutorial'];
-  const locales = ['en', 'pt', 'es'];
+  let contentTypes = args.contentType?.split(",") ?? [
+    "trackArticle",
+    "tutorial",
+  ];
+  const locales = ["en", "pt", "es"];
+
+  const troubleshootingMode = contentTypes.includes('troubleshooting');
+
+  if (troubleshootingMode) {
+    contentTypes = contentTypes.map(type =>
+      type === 'troubleshooting' ? 'tutorial' : type
+    );
+  }
+
 
   const entries = await fetchEntries({ contentTypes });
 
   for (const entry of entries) {
+    if (isArchived(entry)) {
+      console.log(`⏭️ Skipping archived entry ${entry.sys.id}`);
+      continue;
+    }
+
     const type = entry.sys.contentType.sys.id;
 
     for (const locale of locales) {
-      if (type === 'trackArticle') {
-        const { content, slug, trackSlug } = generateTrackMarkdown(entry, locale);
-        await writeMarkdown({ content, slug, locale, folder: 'tracks', subfolder: trackSlug });
-
-      } else if (type === 'tutorial') {
+      if (type === "trackArticle") {
+        const { content, slug, trackSlug } = generateTrackMarkdown(
+          entry,
+          locale
+        );
+        await writeMarkdown({
+          content,
+          slug,
+          locale,
+          folder: "tracks",
+          subfolder: trackSlug,
+        });
+      } else if (type === "tutorial") {
         const subcatRef = entry.fields.subcategory?.pt?.sys?.id;
 
-        let categoryTitle = 'uncategorized';
-        let subcategoryTitle = 'unknown-subcategory';
+        let categoryTitle = "uncategorized";
+        let subcategoryTitle = "unknown-subcategory";
 
         if (subcatRef) {
           const subcategoryEntry = await fetchLinkedEntry(subcatRef);
-          subcategoryTitle = subcategoryEntry?.fields?.title?.[locale] || subcategoryTitle;
+          subcategoryTitle =
+            subcategoryEntry?.fields?.title?.[locale] || subcategoryTitle;
 
           const catRef = subcategoryEntry?.fields?.category?.pt?.sys?.id;
           if (catRef) {
             const categoryEntry = await fetchLinkedEntry(catRef);
-            categoryTitle = categoryEntry?.fields?.title?.[locale] || categoryTitle;
+            categoryTitle =
+              categoryEntry?.fields?.title?.[locale] || categoryTitle;
           }
         }
+
+        const isTroubleshooting = categoryTitle.toLowerCase() === 'troubleshooting';
+        if (troubleshootingMode && !isTroubleshooting) continue;
+
+        if (!troubleshootingMode && isTroubleshooting) continue;
 
         const { content, slug } = generateTutorialMarkdown(
           entry,
           locale,
           categoryTitle,
-          subcategoryTitle
+          subcategoryTitle,
+          isTroubleshooting
         );
 
+
         const fixedContent = fixImageLinks(content);
         await writeMarkdown({
           content: fixedContent,
           slug,
           locale,
-          folder: 'tutorials',
-          subfolder: categoryTitle,
-          subcategoryFolder: subcategoryTitle
+          folder: isTroubleshooting ? 'troubleshooting' : 'tutorials',
+          subfolder: isTroubleshooting ? subcategoryTitle : categoryTitle,
+          subcategoryFolder: isTroubleshooting ? '' : subcategoryTitle,
         });
-      } else if (type === 'updates') {
-        const { content, slug, year } = generateAnnouncementMarkdown(entry, locale);
+      } else if (type === "updates") {
+        const { content, slug, year } = generateAnnouncementMarkdown(
+          entry,
+          locale
+        );
         const fixedContent = fixImageLinks(content);
 
         await writeMarkdown({
           content: fixedContent,
           slug,
           locale,
-          folder: 'announcements',
-          subfolder: String(year)
+          folder: "announcements",
+          subfolder: String(year),
+        });
+      } else if (type === "frequentlyAskedQuestion") {
+        const { content, slug, productTeam } = generateFaqMarkdown(
+          entry,
+          locale
+        );
+
+        await writeMarkdown({
+          content: fixImageLinks(content),
+          slug,
+          locale,
+          folder: "faq",
+          subfolder: productTeam,
         });
       }
-
     }
   }
 }
