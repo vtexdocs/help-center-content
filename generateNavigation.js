@@ -609,7 +609,11 @@ async function getEntries() {
           } else {
             tutorialSubcategories[file.sys.id] = {
               name: file.fields.title,
-              slug: file.fields.slug.en,
+              slug: {
+                en: `category-${file.fields.slug.en}`,
+                pt: `category-${file.fields.slug.pt}`,
+                es: `category-${file.fields.slug.es}`,
+              },
               origin: "",
               type: "category",
               children: [],
@@ -624,11 +628,15 @@ async function getEntries() {
           // Add the "category-" prefix only to category slugs, not subcategories
           const updatedCategory = {
             name: file.fields.title,
-            slug: file.fields.slug.en,
+            slug: file.fields.slug,
             type: "category",
             children: [],
             subcategories: file.fields.subcategories.pt, // Does not modify subcategory slugs
-            slug: `category-${file.fields.slug.en}`,
+            slug: {
+              en: `category-${file.fields.slug.en}`,
+              pt: `category-${file.fields.slug.pt}`,
+              es: `category-${file.fields.slug.es}`,
+            },
           };
 
           tutorialCategories.push(updatedCategory);
