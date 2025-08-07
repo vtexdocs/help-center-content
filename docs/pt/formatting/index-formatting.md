@@ -14,4 +14,3 @@ locale: pt
 
 - [Headings and titles](https://contentguide.vtex.com/docs/formatting/headings-and-titles)
 - [Lists and tables](https://contentguide.vtex.com/docs/formatting/lists-and-tables)
-- [Computer interfaces](https://contentguide.vtex.com/docs/formatting/computer-interfaces)

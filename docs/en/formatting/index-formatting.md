@@ -7,10 +7,11 @@ updatedAt: 2025-07-25T21:31:53.115Z
 contentType: trackArticle
 productTeam: Localization
 slugEN: formatting-general
-locale: en
+locale: pt
 ---
 
 ## General
 
 - [Headings and titles](https://contentguide.vtex.com/docs/formatting/headings-and-titles)
 - [Lists and tables](https://contentguide.vtex.com/docs/formatting/lists-and-tables)
+- [Computer interfaces](https://contentguide.vtex.com/docs/formatting/computer-interfaces)
