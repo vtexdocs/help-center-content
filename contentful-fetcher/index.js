@@ -17,16 +17,33 @@ async function main() {
     "trackArticle",
     "tutorial",
   ];
-  const locales = ["en", "pt", "es"];
 
-  const troubleshootingMode = contentTypes.includes('troubleshooting');
+  const allowedTypes = [
+    "trackArticle",
+    "tutorial",
+    "updates",
+    "frequentlyAskedQuestion",
+    "troubleshooting",
+  ];
+  const invalidTypes = contentTypes.filter((t) => !allowedTypes.includes(t));
 
-  if (troubleshootingMode) {
-    contentTypes = contentTypes.map(type =>
-      type === 'troubleshooting' ? 'tutorial' : type
+  if (invalidTypes.length > 0) {
+    console.error(
+      `⛔ Invalid content type(s): ${invalidTypes.join(", ")}\n` +
+        `✅ Allowed types are: ${allowedTypes.join(", ")}`
     );
+    return;
   }
 
+  const locales = ["en", "pt", "es"];
+
+  const troubleshootingMode = contentTypes.includes("troubleshooting");
+
+  if (troubleshootingMode) {
+    contentTypes = contentTypes.map((type) =>
+      type === "troubleshooting" ? "tutorial" : type
+    );
+  }
 
   const entries = await fetchEntries({ contentTypes });
 
@@ -70,7 +87,8 @@ async function main() {
           }
         }
 
-        const isTroubleshooting = categoryTitle.toLowerCase() === 'troubleshooting';
+        const isTroubleshooting =
+          categoryTitle.toLowerCase() === "troubleshooting";
         if (troubleshootingMode && !isTroubleshooting) continue;
 
         if (!troubleshootingMode && isTroubleshooting) continue;
@@ -83,15 +101,14 @@ async function main() {
           isTroubleshooting
         );
 
-
         const fixedContent = fixImageLinks(content);
         await writeMarkdown({
           content: fixedContent,
           slug,
           locale,
-          folder: isTroubleshooting ? 'troubleshooting' : 'tutorials',
+          folder: isTroubleshooting ? "troubleshooting" : "tutorials",
           subfolder: isTroubleshooting ? subcategoryTitle : categoryTitle,
-          subcategoryFolder: isTroubleshooting ? '' : subcategoryTitle,
+          subcategoryFolder: isTroubleshooting ? "" : subcategoryTitle,
         });
       } else if (type === "updates") {
         const { content, slug, year } = generateAnnouncementMarkdown(

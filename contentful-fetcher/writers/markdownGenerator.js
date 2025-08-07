@@ -89,8 +89,7 @@ slugEN: ${slugEN}
 legacySlug: ${legacySlug}
 locale: ${locale}
 subcategoryId: ${subcategoryId}
-${tagYaml}
----
+${tagYaml}---
 
 ${text}
 `;
