@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_35
 slugEN: how-to-know-which-javascript-file-is-being-applied-to-a-page
-locale: pt
 legacySlug: como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

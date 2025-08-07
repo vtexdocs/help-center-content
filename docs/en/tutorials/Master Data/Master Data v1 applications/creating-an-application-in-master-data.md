@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: creating-an-application-in-master-data
-locale: en
 legacySlug: creating-an-application-in-master-data
+locale: en
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 ---
 

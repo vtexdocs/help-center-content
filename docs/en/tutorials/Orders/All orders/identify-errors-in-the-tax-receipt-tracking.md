@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: identify-errors-in-the-tax-receipt-tracking
-locale: en
 legacySlug: identify-errors-in-the-tax-receipt-tracking
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 

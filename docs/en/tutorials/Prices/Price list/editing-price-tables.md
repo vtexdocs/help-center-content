@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: editing-price-tables
-locale: en
 legacySlug: update-price-table
+locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-use-the-unavailable-product-class
-locale: es
 legacySlug: como-utilizar-la-clase-de-producto-no-disponible
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

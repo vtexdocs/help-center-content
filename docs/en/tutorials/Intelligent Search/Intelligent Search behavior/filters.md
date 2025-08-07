@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: filters
-locale: en
 legacySlug: filters
+locale: en
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 

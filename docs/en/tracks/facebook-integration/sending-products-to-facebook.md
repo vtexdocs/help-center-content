@@ -26,9 +26,9 @@ Once your account authentication is complete, sending products to Facebook will 
 - Product condition
 - Availability
 
-The update is automatic and will be performed whenever changes are made to any of the data. It is worth mentioning that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](/en/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
+The update is automatic and will be performed whenever changes are made to any of the data. It is worth mentioning that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](https://help.vtex.com/en/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
 
-If you want to send product attributes to Facebook, an additional step needs to be performed. Attributes are product [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
+If you want to send product attributes to Facebook, an additional step needs to be performed. Attributes are product [specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
 
 The additional step is mapping product specifications. Mapping allows matching the attributes from your VTEX store with the standards adopted by Facebook.
 
@@ -48,7 +48,7 @@ If you would like to send your product attributes to Facebook, please follow the
 
 Spreadsheet mapping allows you to match the attributes of your products on the VTEX platform with the standards used by Facebook.
 
-The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](https://assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/88d38c6356792b529eb6121a307bebbf/Planilha_de_Mapeamento_Facebook.xlsx).
+The first step in mapping is to download the file [Facebook Mapping Spreadsheet.xlsx](//assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/88d38c6356792b529eb6121a307bebbf/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Filling in the mapping spreadsheet
 

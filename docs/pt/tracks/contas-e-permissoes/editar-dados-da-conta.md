@@ -11,7 +11,7 @@ productTeam: Identity
 slugEN: editing-account-data
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: contas-e-permissoes
+trackSlugEN: contas-e-permissoes
 ---
 
 Na seção Gerenciamento da Conta, no menu lateral do Admin, você encontra a opção **Contas**. Ali é possível editar os dados gerais da sua conta.

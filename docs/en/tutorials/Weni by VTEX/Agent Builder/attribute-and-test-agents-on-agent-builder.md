@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: attribute-and-test-agents-on-agent-builder
-locale: en
 legacySlug: attribute-and-test-agents-on-agent-builder
+locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 

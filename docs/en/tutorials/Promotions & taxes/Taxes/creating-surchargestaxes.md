@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: creating-surchargestaxes
-locale: en
 legacySlug: creating-surchargestaxes
+locale: en
 subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 ---
 
@@ -62,4 +62,4 @@ Seller Portal accounts don’t have access to the Tax creation module. However, 
 
 Scheduling of a surcharge occurs when it is created with an expiration date and time, beginning after the current one. Visually, it is possible to identify these surcharges on the home page of the Promotions & Taxes module by an orange strip in the upper right-hand corner of the surcharge card with the word ‘scheduled’. See below an example of how the surcharge card looks when scheduled.
 
-![agendamento.en](https://images.ctfassets.net/alneenqid6w5/6XrW3s1vW86EPSvcMufVcg/3b64aad76af6a36adc278405163fc7aa/agendamento.en.png)
+![agendamento.en](//images.ctfassets.net/alneenqid6w5/6XrW3s1vW86EPSvcMufVcg/3b64aad76af6a36adc278405163fc7aa/agendamento.en.png)

@@ -11,7 +11,7 @@ productTeam: Reliability
 slugEN: settings
 locale: es
 trackId: 4Ns5FxIiksmjsdX2yOTduM
-trackSlugES: go-live
+trackSlugEN: go-live
 ---
 
 En esta etapa, debes ajustar la configuración que no depende de la fecha prevista para el go live. Por lo tanto, se recomienda realizarlas antes de pasar a las siguientes etapas.
@@ -32,7 +32,7 @@ Si no puedes remover el registro de dominio de tu tienda de la plataforma <stron
 La configuración de registros CAA según se describe en esta sección, solo es necesaria si tu servidor de DNS tiene un registro CAA. Si no, pasa al tema siguiente de esta guía.
 </div>
 
-Los registros CAA indican qué autoridades de certificación (CA) están autorizadas para generar y renovar los certificados que validan la identidad de tu dominio. La configuración adecuada de los registros es necesaria para poder generar los [certificados SSL](/es/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) y utilizar la CDN de VTEX.
+Los registros CAA indican qué autoridades de certificación (CA) están autorizadas para generar y renovar los certificados que validan la identidad de tu dominio. La configuración adecuada de los registros es necesaria para poder generar los [certificados SSL](https://help.vtex.com/es/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) y utilizar la CDN de VTEX.
 
 Debes asegurarte de que los registros CAA contengan la siguiente entrada:
 

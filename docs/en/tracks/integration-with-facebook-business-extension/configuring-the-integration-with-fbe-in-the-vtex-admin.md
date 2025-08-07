@@ -27,7 +27,7 @@ Regardless of whether you have installed the <a href= "https://apps.vtex.com/vte
 </div>
 
 4. Click on `CONTINUE WITH FACEBOOK`.
-5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
+5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
 6. Grant the necessary permissions for the integration by clicking `Continue`.
 7. Determine which settings will be used in the integration.
 8. Click on `Continue`.
@@ -40,7 +40,7 @@ For the integration to work properly, we recommended that you grant all the perm
 10. Click on `Next`.
 11. In the pop-up window, a confirmation that the integration has been configured will be displayed. Click on `Done`.
 
-![gif en v1](https://images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
+![gif en v1](//images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
 
 ## Sending product information to Facebook Business Extension
 

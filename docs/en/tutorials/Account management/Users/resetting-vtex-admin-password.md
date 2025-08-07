@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: resetting-vtex-admin-password
-locale: en
 legacySlug: how-to-retrieve-the-access-password
+locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
@@ -34,4 +34,4 @@ Once you have completed the above instructions, the old password is disabled, an
 
 ## Learn more
 
-* [Authentication](/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)
+* [Authentication](https://help.vtex.com/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slugEN: how-to-create-a-web-site
-locale: es
 legacySlug: como-crear-un-web-site
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Tutorial válido solo para tiendas CMS Portal Legado.
 </div>
 
-Un [sitio web](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) está formado por una serie de carpetas y archivos que conforman y definen el contenido de las páginas web que se muestran a los visitantes de una tienda.
+Un [sitio web](https://help.vtex.com/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) está formado por una serie de carpetas y archivos que conforman y definen el contenido de las páginas web que se muestran a los visitantes de una tienda.
 
 Sigue los pasos a continuación para crear un sitio web o lanzar tu primera tienda.
 
@@ -38,19 +38,19 @@ Sigue los pasos a continuación para crear un sitio web o lanzar tu primera tien
 
 4. Después de haber realizado los cambios necesarios, haz clic en `Save Website`. Te aparecerá un mensaje de confirmación en la pantalla y tu nuevo sitio web se creará en el directorio **Sites and channels**.
 
-5. Sigue el tutorial [Vincular una tienda a una estructura de carpetas en CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding) para vincular tu sitio web a un nombre de cuenta.
+5. Sigue el tutorial [Vincular una tienda a una estructura de carpetas en CMS (binding)](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding) para vincular tu sitio web a un nombre de cuenta.
 
 6. Luego cambia los templates y los layouts de tu sitio web como desees. Para obtener más información sobre cómo realizar estos cambios, lee los artículos a continuación:
 
-  - [Visión de conjunto de CMS Layout](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
-  - [Crear un template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
-  - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
+  - [Visión de conjunto de CMS Layout](https://help.vtex.com/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
+  - [Crear un template de página](https://help.vtex.com/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
+  - [Lista de controles para templates](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates)
 
 ## Artículos relacionados
 
-  - [¿Qué es un web site?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+  - [¿Qué es un web site?](https://help.vtex.com/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
   - [Vincular una tienda a una estructura de carpetas en CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
-  - [Visión de conjunto de CMS Layout](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
-  - [Crear un template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
-  - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
+  - [Visión de conjunto de CMS Layout](https://help.vtex.com/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
+  - [Crear un template de página](https://help.vtex.com/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
+  - [Lista de controles para templates](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates)
 

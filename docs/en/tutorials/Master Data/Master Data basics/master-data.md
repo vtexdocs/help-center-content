@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: master-data
-locale: en
 legacySlug: what-is-master-data
+locale: en
 subcategoryId: 1l3IVVYwrrG5YOtdt7R2SN
 ---
 
@@ -245,7 +245,7 @@ The attributes that make up Master Data documents are called fields. When compar
 
 For example, in an entity that stores client data from the store, such as 'CL' or 'Client', we may fill in fields such as **name**, **email**, **date of birth**, and **document**.
 
-In Master Data v1, the fields must be filled in in the specific format configured in the data entity. Learn more about [the field types in Master Data v1](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos).
+In Master Data v1, the fields must be filled in in the specific format configured in the data entity. Learn more about [the field types in Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos).
 
 However, in v2, there is no restriction on fields and formats. Format validation is made through [JSON schemas](#v2-schemas).
 
@@ -272,7 +272,7 @@ A Master Data trigger is a mechanism that performs an action after creating or u
 - Send an email.
 - Save document in another data entity.
 
-Learn more about how [to configure triggers in Master Data v1](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) or how [to configure triggers with Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
+Learn more about how [to configure triggers in Master Data v1](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) or how [to configure triggers with Master Data v2 API](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
 
 ## v2 schemas
 
@@ -284,7 +284,7 @@ Learn more about <a href=https://json-schema.org/>JSON schemas</a>.
 
 You can save a document to any data entity if the content is a valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
 
-![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
+![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
 
 <div class = "alert alert-info">
 A document can be compatible with multiple JSON Schemas, but also with none.
@@ -304,5 +304,5 @@ Learn how to configure [A/B testing with Master Data v2](https://developers.vtex
 
 Master Data can also be used to create abandoned cart integrations, i.e. performing automatic actions whenever clients add products to their store cart and log out without checking out.
 
-To learn more, please see this guide on [abandoned cart configuration](/pt/tutorial/configurar-carrinho-abandonado--tutorials_740)
+To learn more, please see this guide on [abandoned cart configuration](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740)
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-does-vtex-search-work
-locale: en
 legacySlug: how-does-vtex-search-work
+locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
@@ -77,7 +77,7 @@ To understand VTEX search, we must first become familiar with the indexer and it
 
 The catalog indexer is a quick access scalable database, with configurable algorithms for result prioritization. It is positioned between conventional database and user. See the outline below:
 
-![database](https://images.ctfassets.net/alneenqid6w5/5ACXw5iwhZP4iT1DwuEVOi/3c3b66551bf05d00042ed3babdfc004f/database.JPG)
+![database](//images.ctfassets.net/alneenqid6w5/5ACXw5iwhZP4iT1DwuEVOi/3c3b66551bf05d00042ed3babdfc004f/database.JPG)
 
 The indexer contains all the information referring to the product catalog (products, SKUs, brands, departments, categories). The search engine uses this information to locate products and to display these in shop windows and search results. However, __only already indexed products can be found by the search__.
 
@@ -124,5 +124,5 @@ Result:
 **Hint:** The use of __substitute words__, in spite of their low indexer score weight, is an extremely important feature. With this feature, it is possible to reach users that search for grammatically incorrect terms, but with the same semantics. 
 
 ## Read more
- - [How does the Score field work](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae)
+ - [How does the Score field work](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae)
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slugEN: managing-pages
-locale: en
 legacySlug: managing-pages-beta
+locale: en
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
@@ -19,7 +19,7 @@ In **Headless CMS**, you can manage all the URL routes and page templates for yo
 
 ## Overview
 
-![New pages](https://images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/7171a74a194bd96221f481de02d5599f/new_pages_-_en.png)
+![New pages](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/7171a74a194bd96221f481de02d5599f/new_pages_-_en.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |
@@ -42,7 +42,7 @@ To create and manage a page, follow these steps:
 3. Under `Untitled`, name the page.
 
 4. Click on `Sections` and select the desired section.
-![Gif - Pages](https://images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/d35ca90a8b65f2f436173375fee0bf9d/Ingles_gif_da_pag.gif)
+![Gif - Pages](//images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/d35ca90a8b65f2f436173375fee0bf9d/Ingles_gif_da_pag.gif)
 5. Add more sections if needed and fill them out.
 
 6. Click `Publish`. 

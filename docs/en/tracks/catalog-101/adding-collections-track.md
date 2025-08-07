@@ -23,6 +23,6 @@ Follow the step by step below to add a new collection:
 1. In the Admin, click on **Catalog**.
 2. Click on **Collections**.
 3. Click on the `Create Collection` button.
-4. Fill in the [Collection fields](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
+4. Fill in the [Collection fields](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
 5. Click on `Create` to update the information filled in the form.
-6. Then, [select the products](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) that will be part of the collection.
+6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) that will be part of the collection.

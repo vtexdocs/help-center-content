@@ -1,4 +1,5 @@
 const { getEntryStatus } = require("../utils/entryStatus");
+const { fixImageLinks } = require("../utils/fixImageLinks");
 
 //GENERATE TRACKS MARKDOWN FILES
 function generateTrackMarkdown(entry, locale = "en") {
@@ -11,6 +12,8 @@ function generateTrackMarkdown(entry, locale = "en") {
   const trackId = fields.trackId?.pt?.sys?.id || ""; // Always stored in pt?
   const productTeam = fields.xpTeam?.pt || "unknown"; // Usually only in pt
   const status = getEntryStatus(sys);
+  let text = fields.text?.[locale] || "";
+  text = fixImageLinks(text);
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -28,7 +31,7 @@ trackId: ${trackId}
 trackSlugEN: ${trackSlug}
 ---
 
-${fields.text?.[locale] || ""}
+${text}
 `;
 
   return { content, slug: slugLocalized, trackSlug };
@@ -54,6 +57,7 @@ function generateTutorialMarkdown(
   const status = getEntryStatus(sys);
 
   let text = fields.text?.[locale] || "";
+  text = fixImageLinks(text);
 
   // Extract tags if it's a troubleshooting article
   let tags = [];
@@ -112,6 +116,8 @@ function generateAnnouncementMarkdown(entry, locale = "en") {
   const status = getEntryStatus(sys);
   const year = new Date(sys.createdAt).getFullYear();
   const synopsisKey = `announcementSynopsis${locale.toUpperCase()}`;
+  let text = fields.text?.[locale] || "";
+  text = fixImageLinks(text);
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -130,7 +136,7 @@ announcementImageID: '${announcementImageID}'
 ${synopsisKey}: ${synopsis.includes("'") ? `"${synopsis}"` : `'${synopsis}'`}
 ---
 
-${fields.text?.[locale] || ""}
+${text}
 `;
 
   return { content, slug: slugLocalized, year };
@@ -147,6 +153,8 @@ function generateFaqMarkdown(entry, locale = "en") {
   const productTeam = fields.xpTeam?.pt || "unknown";
   const author = fields.author?.pt?.[0]?.sys?.id || "";
   const status = getEntryStatus(sys);
+  let text = fields.text?.[locale] || "";
+  text = fixImageLinks(text);
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -164,7 +172,7 @@ locale: ${locale}
 legacySlug: ${legacySlug}
 ---
 
-${fields.text?.[locale] || ""}
+${text}
 `;
 
   return { content, slug: slugLocalized, productTeam };

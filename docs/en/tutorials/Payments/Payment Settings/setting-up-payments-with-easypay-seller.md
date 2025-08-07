@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-easypay-seller
-locale: en
 legacySlug: setting-up-payments-with-seller
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -45,7 +45,7 @@ After installing the easypay Seller Account app, you need to configure it. To ac
 
 <blockquote><ui>- <b>Easypay Account UID</b>: Identification of your seller account where purchase amounts from store sales will be deposited. To get this information, access the <a href="https://backoffice.easypay.pt/">easypay environment</a>, click the easypay logo at the top of the screen, and click the desired account. Copy and save the <b>Account UID</b> information.</ui> 
 
-![easypay_en_18](https://images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/2e4dd4665f90512068d9f145b7a81caa/easypay_en_18.png)
+![easypay_en_18](//images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/2e4dd4665f90512068d9f145b7a81caa/easypay_en_18.png)
 
 <blockquote><ui>4. Click <b>Save</b>.</ui>
 

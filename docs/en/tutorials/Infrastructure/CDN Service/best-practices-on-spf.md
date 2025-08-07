@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slugEN: best-practices-on-spf
-locale: en
 legacySlug: best-practices-on-spf
+locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 

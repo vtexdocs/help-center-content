@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: creating-promotions
-locale: en
 legacySlug: creating-promotions
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated to one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/tutorial/buy-together--tutorials_323), [More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324), [Buy One Get One](/en/tutorial/buy-one-get-one--tutorials_322), and [Campaign Promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume). 
+A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated to one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](https://help.vtex.com/en/tutorial/buy-together--tutorials_323), [More for Less](https://help.vtex.com/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](https://help.vtex.com/en/tutorial/progressive-discount--tutorials_324), [Buy One Get One](https://help.vtex.com/en/tutorial/buy-one-get-one--tutorials_322), and [Campaign Promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume). 
 
 In this article, you will find step-by-step instructions on how to:
 
@@ -35,7 +35,7 @@ Follow the tutorial below to create a regular promotion.
  2. Click on __Promotions__.
  3. Click on the `Create promotion` button.
  4. Select `Regular`.
- 5. Fill in the [fields](/tutorial/regular-promotion--tutorials_327).
+ 5. Fill in the [fields](https://help.vtex.com/tutorial/regular-promotion--tutorials_327).
  6. Click on `Save`.
 
 ## Filtering or searching for promotions
@@ -58,7 +58,7 @@ To search for a promotion, follow the steps below:
 
  1. Access the **Promotions** menu.
  2. Click on **Promotions**. 
- 3. In the search bar, enter the name, description, [UTM](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) registered in the promotion.
+ 3. In the search bar, enter the name, description, [UTM](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) registered in the promotion.
 
 ## Sorting promotions
 
@@ -86,9 +86,9 @@ A promotion is scheduled when it is created (or modified) with a valid date and 
 
 These promotions can be easily identified on the main Promotions page: they have an orange stripe with the word scheduled in the upper right corner of the card, as shown below.
 
-![scheduleded](https://images.ctfassets.net/alneenqid6w5/illvXlc6M10IO8p8IfL7J/eb514999e99bff1bb64c9b21ca93fd9c/scheduled.png)
+![scheduleded](//images.ctfassets.net/alneenqid6w5/illvXlc6M10IO8p8IfL7J/eb514999e99bff1bb64c9b21ca93fd9c/scheduled.png)
 
-To schedule a promotion, follow the steps described in the [Scheduling promotions](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-promotions) section of the article [Scheduling features for special events](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI).
+To schedule a promotion, follow the steps described in the [Scheduling promotions](https://help.vtex.com/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-promotions) section of the article [Scheduling features for special events](https://help.vtex.com/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI).
 
 ## Archiving promotions
 

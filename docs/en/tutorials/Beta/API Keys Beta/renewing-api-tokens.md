@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: renewing-api-tokens
-locale: en
 legacySlug: renewing-api-tokens-beta
+locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
@@ -21,7 +21,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 The older the token, the greater the risk of exposure and potential damage to the operation. The token renewal procedure guarantees the continuity of your store security and minimizes potential vulnerabilities.  
 
-Renew the API token before the [duration](/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ) ends to maintain continuous access to resources and preserve security.  
+Renew the API token before the [duration](https://help.vtex.com/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ) ends to maintain continuous access to resources and preserve security.  
 
 Follow the steps below to renew the token of an API key:
 
@@ -68,6 +68,6 @@ If you renewed your token by mistake or forgot to copy the newly generated token
 
 ## Learn more
 
-* [API Keys (Beta)](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
-* [Configuring the duration of API keys (Beta)](/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ)
-* [Generated keys (Beta)](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)
+* [API Keys (Beta)](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
+* [Configuring the duration of API keys (Beta)](https://help.vtex.com/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ)
+* [Generated keys (Beta)](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)

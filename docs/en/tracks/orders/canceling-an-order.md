@@ -48,8 +48,8 @@ Check out our [ERP integration guide](https://developers.vtex.com/docs/erp-integ
 
 The customer can request the cancellation of the order through the **My orders** screen.
 
-If the customer requests cancellation within the grace period of the order, which is [configurable](/en/tutorial/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
+If the customer requests cancellation within the grace period of the order, which is [configurable](https://help.vtex.com/en/tutorial/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
 
 After the grace period, it is understood that the store is already acting on the order. In such case, the store must confirm the cancellation request.
 
-Check out our article [customer requested full cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer).
+Check out our article [customer requested full cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer).

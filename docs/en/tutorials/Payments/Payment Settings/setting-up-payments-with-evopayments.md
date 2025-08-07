@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-evopayments
-locale: en
 legacySlug: setting-up-payments-with-evopayments
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -39,8 +39,8 @@ To configure EVO Payments, follow the steps below:
 10. In __Habilitar plan Iphone For Life__, select whether you want to activate this option. 
 11. Click `Save`.
 
-To configure the payment methods to be processed by EVO Payments, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by EVO Payments, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, EVO Payments may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: vtex-support-satisfaction-survey
-locale: en
 legacySlug: vtex-support-satisfaction-survey
+locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
 After resolving a ticket, the Support team sends an email to the user with a link to the **satisfaction survey**, so that they can evaluate the service received. This evaluation is completed within the VTEX environment.
 
-Satisfaction surveys are available in the VTEX Admin, under **Apps > Installed Apps > Satisfaction Survey.** The page displays a search field to locate satisfaction surveys by ticket ID or subject and also provides access to the [Help Center](/pt) and [Developer Portal](https://developers.vtex.com/).
+Satisfaction surveys are available in the VTEX Admin, under **Apps > Installed Apps > Satisfaction Survey.** The page displays a search field to locate satisfaction surveys by ticket ID or subject and also provides access to the [Help Center](https://help.vtex.com/pt) and [Developer Portal](https://developers.vtex.com/).
 
 Satisfaction surveys related to tickets are grouped into three categories:
 

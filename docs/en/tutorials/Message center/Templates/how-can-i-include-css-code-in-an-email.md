@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slugEN: how-can-i-include-css-code-in-an-email
-locale: en
 legacySlug: how-can-i-include-css-code-in-an-email
+locale: en
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 

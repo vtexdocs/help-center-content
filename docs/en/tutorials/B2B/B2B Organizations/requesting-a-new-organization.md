@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: requesting-a-new-organization
-locale: en
 legacySlug: requesting-a-new-organization
+locale: en
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
 

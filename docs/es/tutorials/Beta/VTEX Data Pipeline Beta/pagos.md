@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: payments
-locale: es
 legacySlug: pagos
+locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
@@ -32,7 +32,7 @@ En esta sección puedes consultar la siguiente información:
 
 |**Característica**|**Descripción**|
 | - | - |
-|**Origen**|Los datos de este conjunto proceden del [módulo Pagos de VTEX](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). Se recopilan y organizan para reflejar las transacciones y pagos realizados en la plataforma.|
+|**Origen**|Los datos de este conjunto proceden del [módulo Pagos de VTEX](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). Se recopilan y organizan para reflejar las transacciones y pagos realizados en la plataforma.|
 |**Disponibilidad**|Solo se puede acceder a los datos de navegación en el Admin VTEX.|
 |**Historial**|Los datos se conservan durante dos años, a partir de 2023 para clientes que ya utilizan la plataforma VTEX. Los datos en la tabla `transaction_interactions` solo tienen historial desde el 07/05/24 (dd/mm/aa).|
 |**Intervalo mínimo de actualización**|Una hora.|
@@ -192,16 +192,16 @@ El conjunto de datos de pagos puede utilizarse para llevar a cabo los siguientes
 
 Los datos de pago de la plataforma VTEX muestran correlaciones con otros conjuntos de datos, ampliando la comprensión del ciclo de compra:
 
-- **Interacción con datos de [pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** el análisis conjunto de los datos de pago y los pedidos proporciona información sobre cómo influyen los medios de pago en las conversiones de pedidos, revelando tendencias en el comportamiento de compra de los clientes.  
+- **Interacción con datos de [pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** el análisis conjunto de los datos de pago y los pedidos proporciona información sobre cómo influyen los medios de pago en las conversiones de pedidos, revelando tendencias en el comportamiento de compra de los clientes.  
 - **Análisis financieros y contables:** integrar datos de pago con análisis financieros contribuye a una gestión más eficiente del flujo de caja y permite realizar previsiones financieras más precisas, impulsando la salud financiera de la empresa.  
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Navegación](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: configuring-the-store-domain
-locale: en
 legacySlug: configuring-domains-in-license-manager
+locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
@@ -26,7 +26,7 @@ Domain-related settings are necessary for a web address to be correctly routed t
 
 The store's address is composed of the following elements:
 
-![url-diagram-en](https://images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
+![url-diagram-en](//images.ctfassets.net/alneenqid6w5/kg98gTuZiMlewhPiRAyaF/ad84010eef6bab7fae5123f18ab0887d/url-diagram-en.png)
 
 | Element | Description | Example |
 |---|---|---|
@@ -54,7 +54,7 @@ Check out the host examples below and see which ones can be used as the main hos
 | Host example | Can be used as a host: yes (✔️) or not (❌) | Description |
 |---|---|---|
 | `www.mystore.com` | ✔️ | Contains the www subdomain. |
-| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
+| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
 | `store.mybrand.com` | ✔️ | Contains the store subdomain. |
 | `www.store.mybrand.com` | ✔️ | Contains two subdomains: `www` and `store`. |
 
@@ -62,8 +62,8 @@ Check out the host examples below and see which ones can be used as the main hos
 
 To ensure your store is accessible via different URLs, such as `www.mystore.com` and `mystore.com`, you should register a single main host and redirect the additional addresses to the main one. Learn more about redirects:
 
-* [Redirection from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278)
+* [Redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278)
 
 We recommend implementing a single host in your store.
 
@@ -80,7 +80,7 @@ To register a new host, they must comply with the guidelines specified in the [R
 7. Click `Add`.
 8. Click `Save`.
 
-After completing these steps, you can [configure DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+After completing these steps, you can [configure DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
 <div class="alert alert-warning">
   <p><a href="https://www.faststore.dev/">FastStore</a> stores also need to configure an address with the <code>secure</code> subdomain. Refer to the<a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns"> Configuring external DNS for a custom domain</a> guide for more details.</p>
@@ -92,4 +92,4 @@ After completing these steps, you can [configure DNS pointing to VTEX](/en/tutor
 
 ## Changing host
 
-The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).
+The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](https://help.vtex.com/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).

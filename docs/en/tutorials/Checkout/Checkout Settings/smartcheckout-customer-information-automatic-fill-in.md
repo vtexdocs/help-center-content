@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: smartcheckout-customer-information-automatic-fill-in
-locale: en
 legacySlug: smartcheckout-customer-information-automatic-fill-in
+locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
@@ -23,7 +23,7 @@ For SmartCheckout to reuse the information at Checkout, the customer must have a
 
 ## Customer information
 
-The information previously entered in the [Master Data](/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#) is automatically filled in the customer data fields at checkout. The list below shows the default connection between these data. However, it may vary depending on the country:
+The information previously entered in the [Master Data](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#) is automatically filled in the customer data fields at checkout. The list below shows the default connection between these data. However, it may vary depending on the country:
 
 - Customer (CL)
    - email
@@ -69,11 +69,11 @@ If payment with a credit or debit card is chosen, the following additional secur
    </ul>
 </div>
 
-Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
+Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](https://help.vtex.com/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
 
-For more information on data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+For more information on data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ### Learn more
 
- * [Import customer data](/en/tutorial/import-customer-data--2zWYVOyj0sISYQmeUwCsI0)
+ * [Import customer data](https://help.vtex.com/en/tutorial/import-customer-data--2zWYVOyj0sISYQmeUwCsI0)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

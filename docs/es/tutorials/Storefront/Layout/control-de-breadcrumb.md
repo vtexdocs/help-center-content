@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: breadcrumb-control
-locale: es
 legacySlug: control-de-breadcrumb
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

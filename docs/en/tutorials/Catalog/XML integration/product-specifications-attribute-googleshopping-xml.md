@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: product-specifications-attribute-googleshopping-xml
-locale: en
 legacySlug: product-specifications-attribute-googleshopping-xml
+locale: en
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
@@ -93,4 +93,4 @@ Just save this and the values will become listed.
 
 Now just define on Google Shopping XML the attributes as structured above.
 
-See [How to Configure Google Shopping XML](/en/tutorial/how-to-configure-xml-for-google-shopping--frequentlyAskedQuestions_372) for instructions on how to configure the XML.
+See [How to Configure Google Shopping XML](https://help.vtex.com/en/tutorial/how-to-configure-xml-for-google-shopping--frequentlyAskedQuestions_372) for instructions on how to configure the XML.

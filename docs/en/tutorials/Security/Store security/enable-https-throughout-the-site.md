@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slugEN: enable-https-throughout-the-site
-locale: en
 legacySlug: enable-https-throughout-the-site
+locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slugEN: setting-up-price-and-availability-of-skus-by-region
-locale: en
 legacySlug:  setting-up-price-and-availability-of-skus-by-region
+locale: en
 subcategoryId: dajK0sARX2c0MISKKoGoc
 ---
 
@@ -20,7 +20,7 @@ The __Region__ feature allows a store's items (SKUs) to be displayed according t
 To regionalize SKU prices and availability, it is necessary:
 
 1. Configure the Region feature, as described in [Enable the Region for SKUs](https://developers.vtex.com/docs/guides/enable-the-region-for-skus).
-2. [White Label Sellers](/en/faq/what-are-franchise-account-and-seller-white-label) can deliver orders from your store to determined ZIP code areas.
+2. [White Label Sellers](https://help.vtex.com/en/faq/what-are-franchise-account-and-seller-white-label) can deliver orders from your store to determined ZIP code areas.
 3. The user's session browsing the store contains information about their zip code and country of origin.
 
 <div class="alert alert-info">
@@ -37,16 +37,16 @@ The feature <b>Region</b> works for both CMS Portal Legacy stores and stores dev
 
 ## Setting up delivery in Franchise Account/White Label Seller
 
-The price and availability of SKUs in each region will be displayed in the main store according to your delivery configuration (zip code ranges indicated). The information on the zip codes is registered with the [Franchise Account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) carriers that act as the store's White Label Seller.
+The price and availability of SKUs in each region will be displayed in the main store according to your delivery configuration (zip code ranges indicated). The information on the zip codes is registered with the [Franchise Account](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) carriers that act as the store's White Label Seller.
 
 To configure delivery, follow the steps below:
 
 1. Access the Admin of the __Franchise Account__ that acts as Seller White Label of your store.
 2. In __Shipping__, click on __Shipping Strategy__.
-3. In __Shipping Policies__, click on the button `Create Shipping Policy` to register a [carrier](/en/tutorial/gerenciar-transportadora#). The ZIP codes operated by this carrier will be taken into account to display the price and availability by region in the main store.
-4. Register a [Dock](/en/tutorial/how-to-register-a-dock).
-5. Register an [Inventory](/en/tutorial/gerenciar-estoque--tutorials_137#).
-6. [Add stock for SKUs](/en/tutorial/managing-stock-items) that will be delivered through the configured route.
+3. In __Shipping Policies__, click on the button `Create Shipping Policy` to register a [carrier](https://help.vtex.com/en/tutorial/gerenciar-transportadora#). The ZIP codes operated by this carrier will be taken into account to display the price and availability by region in the main store.
+4. Register a [Dock](https://help.vtex.com/en/tutorial/how-to-register-a-dock).
+5. Register an [Inventory](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137#).
+6. [Add stock for SKUs](https://help.vtex.com/en/tutorial/managing-stock-items) that will be delivered through the configured route.
 
 <div class="alert alert-info">
 For an SKU to appear as available for sale, it needs to have stock and price associated with it.</div>

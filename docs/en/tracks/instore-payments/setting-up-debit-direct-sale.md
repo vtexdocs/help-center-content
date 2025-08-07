@@ -20,7 +20,7 @@ If you wish to receive your payments in debit mode on VTEX Sales App, follow the
 2. Click the `+` button.
 3. Click on the __Venda Direta Debito__ payment method.
 4. Click the `Status` button to enable this payment condition.
-5. Optionally, you can set up special payment conditions by clicking on `Add special condition`. Read the article [Configuring payment special conditions](/en/tutorial/condicoes-especiais--tutorials_456) for more information.
+5. Optionally, you can set up special payment conditions by clicking on `Add special condition`. Read the article [Configuring payment special conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456) for more information.
 6. Click `Save`.
 
 <div class="alert-info">

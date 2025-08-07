@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: canceling-orders
-locale: en
 legacySlug: canceling-orders
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
@@ -42,4 +42,4 @@ Using the ERP, this action can take place through our REST API, according to our
 
 ## Cancellation requested by the customer
 
-When the order cancellation is requested by the customer, the flow is different. Refer to [this article](/en/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo) to unserstand how cancellation happens in such case.
+When the order cancellation is requested by the customer, the flow is different. Refer to [this article](https://help.vtex.com/en/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo) to unserstand how cancellation happens in such case.

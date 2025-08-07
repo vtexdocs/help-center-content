@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: sales-app-card-entry-without-payment-terminal
-locale: en
 legacySlug: sales-app-card-entry
+locale: en
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
@@ -32,12 +32,12 @@ This article introduces the solution **Sales App card entry** and is organized i
 **Sales App card entry** has the following characteristics:
 
 - ✅ Allows payments with the same credit card network as the ecommerce website.
-- ✅ Includes the same [payment conditions](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) and installments provided by the ecommerce website.
-- ✅ It's [PCI compliant](/en/tutorial/o-que-e-o-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
+- ✅ Includes the same [payment conditions](https://help.vtex.com/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) and installments provided by the ecommerce website.
+- ✅ It's [PCI compliant](https://help.vtex.com/en/tutorial/o-que-e-o-pci-ssc), meaning it protects customer data and doesn't store sensitive information.
 
 However, the feature has some restrictions:
 
-- ❌ Doesn't support third-party [private label](/en/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4) payments.
+- ❌ Doesn't support third-party [private label](https://help.vtex.com/en/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4) payments.
 - ❌ Doesn't allow using multiple cards for a single purchase.
 
 ## Advantages
@@ -49,18 +49,18 @@ The following table presents the main advantages of using **Sales App card entry
 | **Speed and convenience** | Scanning the customer's card and the option of automatic or manual card entry streamline and speed up the purchase process. |
 | **Integrated and frictionless experience** | The purchase and the payment confirmation take place in **VTEX Sales App**, eliminating the need for multiple environments to complete a sale and promoting a seamless experience. |
 | **Secure purchases** | During the purchase, the customer watches the card scanning and (automatic or manual) data entry process, which keeps the information masked and doesn't store it after the purchase is completed. |
-| **Virtual card support** | **Sales App card** entrysupports physical card with [BINs](/en/tutorial/cadastrar-informacoes-de-bins--7xvo4JJ53WM7aLzufdC4au) and virtual cards, expanding payment options for customers. |
-| **Payment starter kit** | In addition to the [shared cart (Social Selling)](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
+| **Virtual card support** | **Sales App card** entrysupports physical card with [BINs](https://help.vtex.com/en/tutorial/cadastrar-informacoes-de-bins--7xvo4JJ53WM7aLzufdC4au) and virtual cards, expanding payment options for customers. |
+| **Payment starter kit** | In addition to the [shared cart (Social Selling)](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
 
 ## Use cases
 
-When using **Sales App card entry** for [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) sales with default shipping (over 24 hours), the purchase follows the same checkout flow as the ecommerce website and is classified as a card-not-present transaction — a technical term applied when the payment doesn't count has having used a physical card.
+When using **Sales App card entry** for [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) sales with default shipping (over 24 hours), the purchase follows the same checkout flow as the ecommerce website and is classified as a card-not-present transaction — a technical term applied when the payment doesn't count has having used a physical card.
 
 <div class="alert alert-danger">
 <p>Transactions made using this feature are subject to anti-fraud rules. Approval may take up to 24 hours if the purchase requires anti-fraud authorization. For this reason, we don't recommend using <b>Sales App card entry</b> in the following scenarios:</p><p><ul><li>Sales with express shipping</li><li>Local inventory sales (On Hands)</li></ul></p>
 </div>
 
-If the store has a [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) specifically for **VTEX Sales App** with an exclusive anti-fraud rule review, you can use **Sales App card entry** for sales with local inventory (On Hands) or express shipping.
+If the store has a [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) specifically for **VTEX Sales App** with an exclusive anti-fraud rule review, you can use **Sales App card entry** for sales with local inventory (On Hands) or express shipping.
 
 ## Settings
 
@@ -72,7 +72,7 @@ Before enabling the feature, make sure that the store is integrated with a payme
 
 ### Stores starting to use VTEX Sales App
 
-When [setting up VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), in the payment method activation step, keep the option <i class="fas fa-toggle-on" aria-hidden="true"></i> **Sales App card entry** enabled.
+When [setting up VTEX Sales App](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), in the payment method activation step, keep the option <i class="fas fa-toggle-on" aria-hidden="true"></i> **Sales App card entry** enabled.
 
 ### Stores using VTEX Sales App
 
@@ -94,7 +94,7 @@ Credit card network IDs need to be enabled for payments in this method. To confi
 
 1. In the VTEX Admin, go to **Store settings > Payment > Settings** or type **Settings** in the search bar at the top of the page.
 2. Check if the IDs of the credit card networks are `Active`. If they aren't, proceed to the next step.
-3. Set up a [credit card payment condition](/en/tutorial/condicoes-de-pagamento--tutorials_455) for your store.
+3. Set up a [credit card payment condition](https://help.vtex.com/en/tutorial/condicoes-de-pagamento--tutorials_455) for your store.
 
 ## Using the solution
 
@@ -119,6 +119,6 @@ Customers can scan the card or manually enter the data themselves if they prefer
 
 ## Learn more
 
-- [VTEX Sales App: FAQ](/en/tutorial/vtex-sales-app-faq--3CRKQHzflSW0DXenEHUpP5)
-- [Sharing shopping cart using VTEX Sales App Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
-- [Prerequisites for using VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)
+- [VTEX Sales App: FAQ](https://help.vtex.com/en/tutorial/vtex-sales-app-faq--3CRKQHzflSW0DXenEHUpP5)
+- [Sharing shopping cart using VTEX Sales App Social Selling](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
+- [Prerequisites for using VTEX Sales App](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)

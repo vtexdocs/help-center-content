@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-locale: es
 legacySlug: vision-de-conjunto-del-agent-builder
+locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 

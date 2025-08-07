@@ -11,7 +11,7 @@ productTeam: Identity
 slugEN: what-is-the-master-user
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: contas-e-permissoes
+trackSlugEN: contas-e-permissoes
 ---
 
 Para la plataforma VTEX, el usuario Titular es el principal responsable de la tienda. Es el usuario con mayor poder para tomar acciones, incluso acciones críticas.
@@ -26,11 +26,11 @@ Si su usuario tiene perfil de acceso al módulo Gestión de la cuenta, usted pue
 
 Al hacer clic en el nombre de la cuenta deseada, el nombre y el correo electrónico del usuario Titular se encuentran en la sección __Contacto__.
 
-![usuario-master-contato es](https://images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
+![usuario-master-contato es](//images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
 
 Entre las acciones que sólo el usuario Titular puede tomar, están:
 - Reindexar el catálogo.
-- Eliminar categorías, productos, SKUs y marcas a través del [fullcleanup](/es/tutorial/limpiar-base-de-datos-de-la-tienda).
+- Eliminar categorías, productos, SKUs y marcas a través del [fullcleanup](https://help.vtex.com/es/tutorial/limpiar-base-de-datos-de-la-tienda).
 - Autorizar integraciones con algunos marketplaces, como Mercado Libre.
 
 Además, cuando VTEX necesita comunicar informaciones sensibles a la tienda, como cambios en los perfiles de acceso, esta comunicación se realiza directa y exclusivamente con el usuario Titular.

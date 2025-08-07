@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: shipping-simulation
-locale: en
 legacySlug: freight-simulation
+locale: en
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
 ---
 
 The **Shipping Simulator** in the Admin simulates and analyzes available shipping options. The simulation checks the shipping conditions which enables the retailer to check availability of items, delivery methods, costs, and deadlines. 
 
-The simulator can also be used to validate the **[Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** settings before enabling the logistics process (Inventory, Dock, and [Shipping Policy](/en/tutorial/politica-de-envio--tutorials_140)) considering:
+The simulator can also be used to validate the **[Shipping Strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** settings before enabling the logistics process (Inventory, Dock, and [Shipping Policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)) considering:
 
 * **Item Availability**: the simulator checks if the item is in stock and whether it is possible to ship it (checks if there are carriers for that region, for example). If one of the criteria is not met, the simulator assumes that the item is unavailable.
 * **White Label Sellers Availability:** the simulator selects the white label seller that is closest to the shipping address (the logistics settings are calculated in the _White Label Seller’s_ environment, not in the main account). 
@@ -60,11 +60,11 @@ The items measurements in the simulation result appear in centimeters and grams;
 
 ## Simulation details
 
-The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](/en/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl) or shipping cost and delivery time taking into account the factors below.
+The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](https://help.vtex.com/en/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl) or shipping cost and delivery time taking into account the factors below.
 
-* **Excluded carriers**: when running the simulation, some carriers may be unavailable because they do not meet the [Shipping Policy’s](/en/tutorial/politica-de-envio--tutorials_140) criteria  (see[excluded carriers](#excluded-carrier) for more information).
+* **Excluded carriers**: when running the simulation, some carriers may be unavailable because they do not meet the [Shipping Policy’s](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) criteria  (see[excluded carriers](#excluded-carrier) for more information).
 * **Simulation sharing**: the simulation can be shared by clicking `share shipping simulation` in the upper right corner of the page. When you click, a share link is copied to your clipboard. This feature makes it easy to get the VTEX team, or your store’s team, to resolve issues on specific orders. Only users who have access to the VTEX environment can view the share link.
-* **Shipping rate:** in simulations that have more than one SKU, the `shipping rate` is proportionally divided according to the weight of each SKU in the package. For example, consider a simulation with 2 SKUs (one weighs 2kg, and the other one weighs 3kg). Let us assume that the shipping rate with Carrier A is US 10 in total. In this case, the cost for the lighter SKU is US 4, and the cost for the heavier one is US 6. To learn more, check [How proportional shipping costs are calculated](/en/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
+* **Shipping rate:** in simulations that have more than one SKU, the `shipping rate` is proportionally divided according to the weight of each SKU in the package. For example, consider a simulation with 2 SKUs (one weighs 2kg, and the other one weighs 3kg). Let us assume that the shipping rate with Carrier A is US 10 in total. In this case, the cost for the lighter SKU is US 4, and the cost for the heavier one is US 6. To learn more, check [How proportional shipping costs are calculated](https://help.vtex.com/en/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
 * **Package dimensions**: in simulations where the SKUs have more than 1 unit, the `dimensions` described next to the SKU on the simulation page do not change. The system will take into account that the total package dimensions increased.
 
 ### Excluded carriers

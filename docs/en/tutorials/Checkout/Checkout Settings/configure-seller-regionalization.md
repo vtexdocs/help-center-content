@@ -10,20 +10,20 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: configure-seller-regionalization
-locale: en
 legacySlug: configure-seller-regionalization
+locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-**Region** is the functionality responsible for searching the [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa#) of a marketplace according to delivery regions and defining which of them are able to fulfill the customer's order according to their location. In addition, through it it is also possible to filter prices and the availability of items in stock regionally.
+**Region** is the functionality responsible for searching the [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa#) of a marketplace according to delivery regions and defining which of them are able to fulfill the customer's order according to their location. In addition, through it it is also possible to filter prices and the availability of items in stock regionally.
 
-When the customer accesses the store pages, their location is recorded by the [VTEX Session](/en/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). This data is forwarded to Checkout, which in turn generates a list of sellers enabled for that delivery region, called regionId.
+When the customer accesses the store pages, their location is recorded by the [VTEX Session](https://help.vtex.com/en/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). This data is forwarded to Checkout, which in turn generates a list of sellers enabled for that delivery region, called regionId.
 
 To check which sellers have been considered for a particular region in your store, go to the [Get sellers by region](https://developers.vtex.com/vtex-rest-api/reference/getsellersbyregion) endpoint.
 
 ## Differences between availability and price
 
-The items and prices shown in a store's window are based on the [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) registration carried out by the retailer. During the purchase process, situations may occur in which one or more items have differences in delivery availability and prices (including promotions) between the store's window and the cart at Checkout.
+The items and prices shown in a store's window are based on the [catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) registration carried out by the retailer. During the purchase process, situations may occur in which one or more items have differences in delivery availability and prices (including promotions) between the store's window and the cart at Checkout.
 
 A delivery availability divergence (item available in the store's window, but indicated as “Sold Out” in the cart), occurs when:
 
@@ -40,7 +40,7 @@ With the use of **Region**, if the customer logs in to the store during the sele
 
 To activate **Region** in your store, you need to perform the following steps:
 
-1. [Setting up price and availability of SKUs by Region](/en/tutorial/setting-up-price-and-availability-of-skus-by-region--12ne58BmvYsYuGsimmugoc#)
+1. [Setting up price and availability of SKUs by Region](https://help.vtex.com/en/tutorial/setting-up-price-and-availability-of-skus-by-region--12ne58BmvYsYuGsimmugoc#)
 2. [Enable Region functionality](https://developers.vtex.com/docs/guides/enable-the-region-for-skus)
 
 <div class="alert alert-info">

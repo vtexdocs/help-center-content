@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: b2b-overview
-locale: en
 legacySlug: overview
+locale: en
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
 ---
 
@@ -36,4 +36,4 @@ In B2B ecommerce, there are usually three types of shopping experiences:
 
 ## Learn more
 [Configuring a B2B self-service store.
-](/pt/tutorial/configurar-loja-b2b-self-service--4576nMaRKk4madDZ7liiXS "Como configurar loja B2B self-service")
+](https://help.vtex.com/pt/tutorial/configurar-loja-b2b-self-service--4576nMaRKk4madDZ7liiXS "Como configurar loja B2B self-service")

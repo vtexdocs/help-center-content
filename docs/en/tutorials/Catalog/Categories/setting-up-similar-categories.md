@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: setting-up-similar-categories
-locale: en
 legacySlug: setting-up-similar-categories
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -31,8 +31,8 @@ Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will n
 
 To configure a similar category at product level, follow the steps below:
 
-1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
-2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
+2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
 3. In the **Storefront** section, add the desired categories in the **Similar Categories** field.
 4. Click `Save`.
 

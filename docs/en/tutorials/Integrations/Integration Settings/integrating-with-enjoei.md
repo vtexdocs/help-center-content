@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: integrating-with-enjoei
-locale: en
 legacySlug: integrating-with-enjoei
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

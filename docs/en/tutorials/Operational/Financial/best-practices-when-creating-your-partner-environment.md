@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: best-practices-when-creating-your-partner-environment
-locale: en
 legacySlug: best-practices-when-creating-your-partner-environment
+locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 

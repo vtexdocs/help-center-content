@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: how-to-set-up-your-store-on-seller-portal
-locale: en
 legacySlug: how-to-set-up-your-store-on-seller-portal
+locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
@@ -67,13 +67,13 @@ To manage the Seller Portal Catalog using REST API, check out the [Catalog API -
 
 To learn more, check out the following articles: 
 
-- [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)           
-- [All Products](/en/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)    
-- [How to create a product](/en/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)  
-- [Categories](/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
-- [Brands](/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
-- [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
-- [Seller Portal: Product details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)     
+- [Seller Portal: How Catalog works](https://help.vtex.com/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)           
+- [All Products](https://help.vtex.com/en/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)    
+- [How to create a product](https://help.vtex.com/en/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)  
+- [Categories](https://help.vtex.com/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
+- [Brands](https://help.vtex.com/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
+- [Seller Portal: Shared Products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
+- [Seller Portal: Product details](https://help.vtex.com/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)     
 
 ### 2. Prices
 
@@ -81,8 +81,8 @@ For a product to be sold, your customer needs to know how much each item display
 
  To learn more, check out the following articles:  
 
-- [Pricing Module Overview](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
-- [Adding a base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
+- [Pricing Module Overview](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
+- [Adding a base price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
 
 ### 3. Logistics
 
@@ -92,16 +92,16 @@ A delivery’s logistics route starts in the inventory, continues to the loading
 
 The Seller Portal has some pre-configured features to facilitate your interaction with the platform. To access the logistics modules, go to the sidebar and click on Shipping > Shipping Rates / Shipping Simulator / Pickup Points / Shipping Strategy. Your account has a standard inventory and loading dock, and it is not necessary to change this configuration for your store to sell in the marketplace. However, you need to conclude the logistical configuration by adding the following features:    
 
-- [Carrier](/en/tutorial/politica-de-envio--tutorials_140)    
-- [Shipping rates](/en/tutorial/gerenciar-valores-de-frete--tutorials_141)    
-- [Geolocation](/en/tutorial/gerenciar-geolocalizacao--tutorials_138)    
-- [Shipping spreadsheet](/en/tutorial/planilha-de-frete--tutorials_127)    
+- [Carrier](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)    
+- [Shipping rates](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141)    
+- [Geolocation](https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao--tutorials_138)    
+- [Shipping spreadsheet](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127)    
 
 ### 4. Inventory
 
 To sell your products on the marketplace, you need to update the number of items available in your inventory. The Seller Portal has the Manage Items in Stock tool, with which you can update the number of items available in a given inventory whenever necessary. To access the Inventory, go to the sidebar and click on Products > Inventory Management. To learn more, check out the following article:  
 
-- [Inventory Management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+- [Inventory Management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)
 
 ### 5. Payment 
 
@@ -115,12 +115,12 @@ __Seller processing payment:__ if the seller is allocated as the payment process
 
 To learn more, check out the following articles:  
 
-- [How the Payments module works](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
-- [How payment split between the seller and the marketplace works](/en/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)    
-- [Configuring affiliates](/en/tutorial/como-configurar-afiliado--tutorials_187)    
-- [Configuring payment connectors](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
-- [Configuring a payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
-- [Configuring anti-fraud](/en/tutorial/como-configurar-antifraude--tutorials_446)     
+- [How the Payments module works](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
+- [How payment split between the seller and the marketplace works](https://help.vtex.com/en/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)    
+- [Configuring affiliates](https://help.vtex.com/en/tutorial/como-configurar-afiliado--tutorials_187)    
+- [Configuring payment connectors](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
+- [Configuring a payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
+- [Configuring anti-fraud](https://help.vtex.com/en/tutorial/como-configurar-antifraude--tutorials_446)     
 
 ### 6. Selling products
 
@@ -128,12 +128,12 @@ Whenever a product or variation is created on the Seller Portal, they are automa
 
 “Offer” is how we call a product or variation from a seller that was sent to the marketplace and whose price and inventory have been configured. When you set up price and inventory conditions, you are preparing your product or variation for it to become an offer. Once the price and inventory conditions are configured, the product becomes an offer in the marketplace’s window display. To learn more, check out our article:  
 
-- [Seller Portal: Offers and Sending Products to the Marketplace](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
+- [Seller Portal: Offers and Sending Products to the Marketplace](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
 
 ### 7. Orders
 The moment the end customer pushes the Checkout button, an order is generated inside VTEX. This means that you will now be able to track the order flow through the Order Management module within your store's admin panel. That is, you can now know the details of each step throughout the order progress. To access the Orders module, go to the sidebar and click on Orders > All Orders / Transactions.
  To learn more, check out our article:  
- - [How Orders work in VTEX](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
+ - [How Orders work in VTEX](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
 
 ### 8. Creating and managing promotions
 
@@ -141,8 +141,8 @@ The **Promotions** page on the Seller Portal allows sellers and marketplaces to 
 
 To learn more, check out the following articles:
 
-- [Seller Portal: Promotions](/en/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
-- [Seller Portal: Creating a promotion](/en/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+- [Seller Portal: Promotions](https://help.vtex.com/en/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
+- [Seller Portal: Creating a promotion](https://help.vtex.com/en/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
 
 ### 9. Supervising Offer Management
 
@@ -150,9 +150,9 @@ The _Offer Management_ module allows sellers to monitor their offers’ submissi
 
 To learn more, check out the following articles:
 
-- [Offer Management module](/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE)  
-- [Offer Management: offer details](/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
-- [Offer Management: interaction details](/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
+- [Offer Management module](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE)  
+- [Offer Management: offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
+- [Offer Management: interaction details](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 
 ### 10. Sales Performance Dashboard
 The _Dashboards_ menu is a control panel that displays data for your unified commerce. The analyses presented here can inform decisions and help prioritize tasks for different professionals, from operations to commercial and marketing. The Dashboards include up-to-date data from all sales channels in which your store operates with VTEX, including key metrics that impact your store revenue.
@@ -177,9 +177,9 @@ These are settings that apply to your store's account in VTEX. They include User
 
 If more people in your operation need to access the Seller Portal, account Owners can add new users. To learn more, check out the following articles:  
 
-- [Account management](/en/tutorial/visao-geral-do-modulo-license-manager/)      
-- [How to manage users](/en/tutorial/gerenciando-usuarios--tutorials_512)     
-- [User Roles](/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [Account management](https://help.vtex.com/en/tutorial/visao-geral-do-modulo-license-manager/)      
+- [How to manage users](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512)     
+- [User Roles](https://help.vtex.com/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 
 **Profile Settings**
 These settings apply to your individual user profile. They include Personal Data and Authentication. To access this feature, click on your profile avatar in the upper right corner > User settings.

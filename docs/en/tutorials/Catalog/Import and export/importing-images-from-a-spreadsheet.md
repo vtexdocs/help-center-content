@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: importing-images-from-a-spreadsheet
-locale: en
 legacySlug: importing-images-via-a-worksheet
+locale: en
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
@@ -103,7 +103,7 @@ The **Image text** field needs to be filled in with the text to be linked to the
 <p>This is a mandatory field. The informed ID must match an existing SKU ID in the catalog.</p>
 </div>
 
-The SKU ID is the code that identifies the SKU to which the image will be linked to. You can get this code by exporting **Products and SKUs**. For further information, read [How to export a product spreadsheet](/en/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
+The SKU ID is the code that identifies the SKU to which the image will be linked to. You can get this code by exporting **Products and SKUs**. For further information, read [How to export a product spreadsheet](https://help.vtex.com/en/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
 
 ### SKUReferenceCode
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-to-create-a-subscription-attachment-via-the-catalog-module
-locale: en
 legacySlug: how-to-create-a-subscription-attachment
+locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
@@ -19,11 +19,11 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 If you use the <b>Subscriptions</b> module in the VTEX Admin, we recommend creating a subscription plan through this module. For more information, see the article <a href="https://help.vtex.com/en/tutorial/creating-a-subscription-plan--1qGRoFczm98Wgt81f9mUqC">Creating a subscription plan</a>. 
 </div>
 
-[Subscriptions](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) is the VTEX solution that allows merchants to sell to subscribing customers on a recurring, automatic basis based on a specified frequency.
+[Subscriptions](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) is the VTEX solution that allows merchants to sell to subscribing customers on a recurring, automatic basis based on a specified frequency.
 
 There are two ways your store's products can be purchased via subscription:
 
-* Creating [subscription plans](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) via the **Subscriptions** module.
+* Creating [subscription plans](https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) via the **Subscriptions** module.
 * Creating subscription attachments via the **Catalog** module.
 
 This article explains how to create subscription attachments via the **Catalog**, which is recommended when your store does not use the **Subscriptions (Beta)** module.
@@ -95,11 +95,11 @@ The following images provide examples of how to complete the fields in the VTEX 
 
 * **Example of monthly frequency:** The image shows a monthly subscription where orders can be placed on the 1st, 15th, or 28th of each month.
 
-  ![EN Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
+  ![EN Assinatura Exemplo Valores month](//images.ctfassets.net/alneenqid6w5/15AueDNpKyx3yBVjP0q7tY/415def684e81619e96155a1fb390a4f4/EN_Assinatura_Exemplo_Valores_month.png)
 
 * **Example of a frequency every 3 weeks:** The image shows a subscription that generates new orders every 3 weeks, with purchases occurring on Sundays, Tuesdays, or Saturdays.
 
-  ![EN Assinatura Exemplo Valores week](https://images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png)
+  ![EN Assinatura Exemplo Valores week](//images.ctfassets.net/alneenqid6w5/3pNwE8MSIe9GevIiLZxBOf/ecba3debced2525d6cd3ab3cbbdf4a5f/EN_Assinatura_Exemplo_Valores_week.png)
 
 ## 3. Associating a SKU with the subscription attachment
 
@@ -114,6 +114,6 @@ After that, customers will be able to create subscriptions in your store to auto
 
 ## Learn more
 
-* [How subscriptions work](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
-* [How to configure subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
+* [How subscriptions work](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
+* [How to configure subscriptions in your store](https://help.vtex.com/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
 * [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions)

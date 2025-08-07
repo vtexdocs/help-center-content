@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: determine-the-total-minimum-value-in-a-cart
-locale: en
 legacySlug: determine-the-total-minimum-value-in-a-cart
+locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 

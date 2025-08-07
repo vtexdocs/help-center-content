@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slugEN: managing-content-per-binding
-locale: pt
 legacySlug: gerenciando-conteudo-por-binding
+locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 

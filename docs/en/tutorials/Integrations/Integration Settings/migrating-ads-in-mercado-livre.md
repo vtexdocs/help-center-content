@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: migrating-ads-in-mercado-livre
-locale: en
 legacySlug: migrating-ads-in-mercado-livre
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slugEN: do-i-need-a-host-for-my-vtex-store
-locale: en
 legacySlug: do-i-need-a-host-for-my-vtex-store
+locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 

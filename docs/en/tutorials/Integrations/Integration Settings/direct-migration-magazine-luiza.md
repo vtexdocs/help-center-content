@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: direct-migration-magazine-luiza
-locale: en
 legacySlug: direct-migration-magazine-luiza
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

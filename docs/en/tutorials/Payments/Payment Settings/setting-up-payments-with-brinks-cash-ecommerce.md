@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-brinks-cash-ecommerce
-locale: en
 legacySlug: setting-up-payments-with-brinks-cash-ecommerce
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

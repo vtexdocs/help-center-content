@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: integrating-with-renner-and-camicado
-locale: en
 legacySlug: integrating-with-renner-and-camicado
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

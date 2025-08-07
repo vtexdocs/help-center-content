@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-anti-fraud
-locale: en
 legacySlug: what-is-anti-fraud
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

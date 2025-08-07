@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-pagaleve
-locale: en
 legacySlug: setting-up-payments-with-pagaleve
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

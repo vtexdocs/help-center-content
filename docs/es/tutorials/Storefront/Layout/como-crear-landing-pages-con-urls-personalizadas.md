@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-create-landing-pages-with-customized-urls
-locale: es
 legacySlug: como-funciona-el-contexto-de-busqueda, como-crear-landing-pages-con-urls-personalizadas
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

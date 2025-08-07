@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: change-seller
-locale: en
 legacySlug: how-to-use-the-change-seller
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
@@ -26,23 +26,23 @@ Sellers can be changed in two situations:
 - Seller cancels the order.
 - Marketplace decides to change the seller.
 
-![seller_cancela_pedido_EN](https://images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
+![seller_cancela_pedido_EN](//images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
 
 You can [set the time window to change seller from 0 to 30 days](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller); by default, it is two days. When the window to change seller is set to 0 days, there is not an actual period for switching sellers, so even though the feature is configured, it does not work in practice, and the order proceeds to cancellation.
 
 Upon being notified by the seller about the order cancellation, the marketplace can configure how many days they have to decide whether to cancel the purchase or change the seller. But pay attention: if the marketplace chooses to change sellers, the decision to inform customers of such changes is the marketplace’s responsibility.
 
-![mkt_cancela_seller_EN](https://images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/7a5c5687cb444e4ddf4a41a64dec6ff4/mkt_cancela_seller_EN.png)
+![mkt_cancela_seller_EN](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/7a5c5687cb444e4ddf4a41a64dec6ff4/mkt_cancela_seller_EN.png)
 
 ## Limitations
 
 You can not change sellers in the following cases:
 
 - Order items with services or attachments.
-- Intermediate orders in the [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Intermediate orders in the [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 - Orders with other changes.
 - Orders with taxes.
-- Orders with [split payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
+- Orders with [split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
 - Orders with split payment into multiple sellers.
 - Orders that use the seller's payment method and do not use a tokenized credit card.
 - Orders that use the seller's payment method and have more than one seller involved.
@@ -50,8 +50,8 @@ You can not change sellers in the following cases:
 - Orders that use the seller's payment method and do not have the same installment conditions and payment methods that the new seller accepts.
 - Orders placed prior to the Change Seller announcement.
 - Orders from an original non-VTEX seller.
-- If the new seller is not from VTEX and there are services or [assembly options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
-- If the new option is for pickup in [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
+- If the new seller is not from VTEX and there are services or [assembly options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
+- If the new option is for pickup in [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
+- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
 - Orders from sellers external to VTEX.
-- If the chosen carrier isn't associated with the order's [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).
+- If the chosen carrier isn't associated with the order's [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).

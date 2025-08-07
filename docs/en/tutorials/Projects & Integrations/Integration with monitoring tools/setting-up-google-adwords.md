@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: setting-up-google-adwords
-locale: en
 legacySlug: setting-up-google-adwords
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

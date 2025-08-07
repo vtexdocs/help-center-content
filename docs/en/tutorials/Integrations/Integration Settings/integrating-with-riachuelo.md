@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: integrating-with-riachuelo
-locale: en
 legacySlug: integrating-with-riachuelo
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

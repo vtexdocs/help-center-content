@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: understanding-the-subscription-report
-locale: en
 legacySlug: understanding-the-subscription-report
+locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 

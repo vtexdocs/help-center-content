@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: vtex-shipping-network-correios-faq
-locale: en
 legacySlug: vtex-shipping-network-correios-faq
+locale: en
 subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-a-service
-locale: en
 legacySlug: what-is-a-service
+locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: amaro-integration
-locale: en
 legacySlug: amaro-integration
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

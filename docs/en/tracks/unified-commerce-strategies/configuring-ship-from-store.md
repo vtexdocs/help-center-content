@@ -16,7 +16,7 @@ trackSlugEN: unified-commerce-strategies
 
 The **Ship From Store** strategy allows a customer who wants to receive the products at home to receive them from the warehouse of a physical store. In other words, in this scenario, the store functions as a mini distribution center.
 
-![35. Setting up Shipping From Store - 1](https://images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
+![35. Setting up Shipping From Store - 1](//images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
 
 This type of logistics helps your operation to reduce costs and shipping time. Instead of having only the main warehouses - usually away from the central areas of cities - you now have a more capillary delivery network.
 
@@ -24,7 +24,7 @@ Consider this example: a customer who is at homeplaces an order on the ecommerce
 
 ## Prerequisites
 
-First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Prerequisites for using VTEX Sales App").
+First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Prerequisites for using VTEX Sales App").
 
 ## How to implement Ship From Store
 
@@ -39,7 +39,7 @@ These are the steps to implement __Ship From Store__:
 
 ### Create franchise accounts
 
-We recommend using the [franchise account feature](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) to implement __Ship From Store__. With them, each of your physical stores will have a separate environment, with their own logistics, but all will inherit the catalog from the main environment.
+We recommend using the [franchise account feature](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) to implement __Ship From Store__. With them, each of your physical stores will have a separate environment, with their own logistics, but all will inherit the catalog from the main environment.
 
 ### Configure the logistics
 
@@ -51,11 +51,11 @@ Let's set up a carrier to deliver from the local warehouse of one of your physic
 
 1. In the VTEX Admin of the desired franchise account, go to **Shipping** > __Shipping Strategy__, or type __Shipping Strategy__ in the search bar at the top of the page.
 2. Click the `Create shipping policy` button.
-3. Fill in the carrier's data according to the article [Adding a carrier](/en/tutorial/cadastrar-transportadora--tutorials_140).
+3. Fill in the carrier's data according to the article [Adding a carrier](https://help.vtex.com/en/tutorial/cadastrar-transportadora--tutorials_140).
 
 #### Connect carriers to the physical store inventory
 
 Now you need to inform the VTEX system which is the warehouse from which products will leave to be delivered by the carrier added in the previous step.
 
-1. Add a loading dock, as described in [this article](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?locale=en). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
-2. Create a warehouse following the steps in the article [Adding a warehouse](/en/tutorial/geristar-estoque--tutorials_137). In the __Origin__ section, link the loading dock you created in the previous step.
+1. Add a loading dock, as described in [this article](https://help.vtex.com/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?locale=en). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
+2. Create a warehouse following the steps in the article [Adding a warehouse](https://help.vtex.com/en/tutorial/geristar-estoque--tutorials_137). In the __Origin__ section, link the loading dock you created in the previous step.

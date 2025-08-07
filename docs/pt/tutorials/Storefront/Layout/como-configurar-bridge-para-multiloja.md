@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slugEN: how-to-set-up-the-marketplace-for-multistores
-locale: pt
 legacySlug: como-configurar-bridge-para-multiloja
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

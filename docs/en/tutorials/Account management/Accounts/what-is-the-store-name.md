@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-the-store-name
-locale: en
 legacySlug: what-is-the-store-name
+locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 

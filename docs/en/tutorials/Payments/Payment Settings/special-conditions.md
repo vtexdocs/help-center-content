@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: special-conditions
-locale: en
 legacySlug: special-conditions
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -19,17 +19,17 @@ Special conditions are part of the configuration of payment conditions which all
 
 To identify the special conditions applicable to each payment method, in the VTEX Admin, access  __Payments > Settings > Payment Conditions__, select the desired payment method and check the options as shown in the illustration below.
 
-![special payment conditions](https://images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
+![special payment conditions](//images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
 
 ## Commercial condition
 
 Allows you to set a payment rule for each SKU group, but for it to work properly, it is necessary to first create different system default business conditions and secondly, the SKUs that comply with this rule must be properly linked to the commercial condition.
 
-To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](/en/tutorial/registering-a-commercial-condition--tutorials_445).
+To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](https://help.vtex.com/en/tutorial/registering-a-commercial-condition--tutorials_445).
 
 ## How to configure a commercial condition on the payment condition
 
-![condicao-comercial en](https://images.ctfassets.net/alneenqid6w5/2YSz1udqP6YCgSQ6u2c8II/1b9ec111a6f65a1a254908fd141a97f7/commercial-condition.png)
+![condicao-comercial en](//images.ctfassets.net/alneenqid6w5/2YSz1udqP6YCgSQ6u2c8II/1b9ec111a6f65a1a254908fd141a97f7/commercial-condition.png)
 
 1. Inside the payment condition, click on `Add special condition`.
 3. Then, click on `Commercial Condition`.
@@ -89,7 +89,7 @@ Allows a payment condition to be applied to a specific trade policy, or as many 
 
 How to configure a trade policy for the payment condition
 
-![politica-comercial en](https://images.ctfassets.net/alneenqid6w5/4FEkjd6rSMuA6mKOQ6O0aC/3d100357b97b18b7f073adc686ad0a1a/sales-policy.png)
+![politica-comercial en](//images.ctfassets.net/alneenqid6w5/4FEkjd6rSMuA6mKOQ6O0aC/3d100357b97b18b7f073adc686ad0a1a/sales-policy.png)
 
 1. Inside Payment Conditions, click on `Add special condition`.
 3. Then, click on `Trade Policy (Sales Channel)`.
@@ -114,7 +114,7 @@ How to configure the issuing bank in the payment condition
 6. If you want to segment by co-brand, select the desired option in __Co-brand__ (this box will only appear if VTEX was made aware of the co-brand card list beforehand).
 7. Save changes.
 
-![banco-emissor en](https://images.ctfassets.net/alneenqid6w5/6q6yz9BnLaAkCCkCOy2EYS/9129d3e6448169fa3f940b627a31160c/issuing-bank.png)
+![banco-emissor en](//images.ctfassets.net/alneenqid6w5/6q6yz9BnLaAkCCkCOy2EYS/9129d3e6448169fa3f940b627a31160c/issuing-bank.png)
 
 ### Examples
 
@@ -146,7 +146,7 @@ Allow you to set up an expiration date for the payment condition, so that its ap
 
 How to configure the payment condition period:
 
-![periodo en](https://images.ctfassets.net/alneenqid6w5/1SHkE4MhWYke8YAuiu0gii/cebe25c6535946b788e28bd24afa3c18/period.png)
+![periodo en](//images.ctfassets.net/alneenqid6w5/1SHkE4MhWYke8YAuiu0gii/cebe25c6535946b788e28bd24afa3c18/period.png)
 
 1. In Payment Conditions, click on `Add special condition`.
 2. Then, click on `Period`.

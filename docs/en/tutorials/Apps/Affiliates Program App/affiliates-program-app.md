@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Apps
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: affiliates-program-app
-locale: en
 legacySlug: affiliates-program-app
+locale: en
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 The <b>Affiliates Program</b> is an app that is only supported by <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a> stores and is not available for stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy Portal CMS</a> or <a href="https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store. 
 </div>
 
-In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
+In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
 
 The **Affiliates Program** app generates a specific URL from your VTEX store to your [registered affiliates](#adding-an-affiliate). When the affiliate shares the URL with a customer who buys using the link, the affiliate gets a commission. 
 
@@ -40,11 +40,11 @@ The app creates three types of affiliate pages, available to them without any ac
 
 The **affiliate page** is the VTEX store URL that they will share with the customers. The following image shows an example:
 
-![print_affiliates_url_en](https://images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
+![print_affiliates_url_en](//images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
 
 The **affiliate profile page** is an interface where the affiliate can track and manage their orders and commissions. The image below shows an example:
 
-![affiliate_profile_page_en](https://images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/9f11c3ffaa7aac74fe70ab6268679b74/print_profile_en.png)
+![affiliate_profile_page_en](//images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/9f11c3ffaa7aac74fe70ab6268679b74/print_profile_en.png)
 
 The **registration page** allows those who are interested in becoming affiliates to fill in their information to apply for VTEX store registration. 
 
@@ -74,7 +74,7 @@ The **Affiliate Management** page allows you to do the following:
 - [View affiliate details](#viewing-affiliate-details)
 - [Edit an affiliate](#editing-an-affiliate)
 
-![affiliates_management_page_en](https://images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6ea891b6bd27373375fb3d808b26d97c/affiliates_management_page_en.png)
+![affiliates_management_page_en](//images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6ea891b6bd27373375fb3d808b26d97c/affiliates_management_page_en.png)
 
 ### Adding an affiliate
 
@@ -121,7 +121,7 @@ The **Order Management** page allows you to do the following:
 - [Export order spreadsheet](#exporting-the-order-list)
 - [View order details](#viewing-order-details)
 
-![orders_management_page_en](https://images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/9f63b76106915d023708574ad68f3d18/orders_management_page_en.jpg)
+![orders_management_page_en](//images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/9f63b76106915d023708574ad68f3d18/orders_management_page_en.jpg)
 
 ### Monitoring data
 
@@ -143,7 +143,7 @@ Type the `affiliate ID` related to the order into the search bar to find an orde
 
 You can filter the order search by the following criteria:
 
-- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 - **Order Date:** Filter from a range of days and hours when the orders were created. To do so, the `From` field sets a start date and the `To` field sets the end date.
 
 ### Exporting the order list
@@ -158,7 +158,7 @@ After configuration, click **Export** on the **Order Management** page to export
 
  > _The report is being generated and will be_ _sent to your email._
 
-The generated file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
+The generated file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
 
 ### Viewing order details
 
@@ -174,11 +174,11 @@ The **Commission Management** page allows you to do the following:
 - [Import commissions](#importing-commissions)
 - [Download last import](#downloading-the-last-import)
 
-![commissions_ management_page_en](https://images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/73d8406a30e628474923dfb098dc53da/commissions__management_page_en.png)
+![commissions_ management_page_en](//images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/73d8406a30e628474923dfb098dc53da/commissions__management_page_en.png)
 
 ### Searching for commissions
 
-To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
+To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](https://help.vtex.com/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
 
 ### Editing commissions
 
@@ -199,7 +199,7 @@ To export a SKU commission spreadsheet with a CSV extension, at the top of the *
 
 > _The report is being generated and will be sent to your email._
 
-The file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
+The file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
 
 <div class = "alert alert-info">
 The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.

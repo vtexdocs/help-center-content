@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: how-to-modify-orders
-locale: en
 legacySlug: how-to-change-orders-beta
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-The [Order modifications](/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
+The [Order modifications](https://help.vtex.com/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
 
 This article explains how an order can be modified and how to do so. It comprises the following sections:
 
@@ -34,11 +34,11 @@ There are some conditions for modifying orders related to the order status. See 
 
 ### Status of the order to be modified
 
-In the [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), `Handling shipping` is the only status valid for **Order modifications** in the VTEX Admin. Read the [How Order modifications works](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more about API modifications.
+In the [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), `Handling shipping` is the only status valid for **Order modifications** in the VTEX Admin. Read the [How Order modifications works](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more about API modifications.
 
 ### License Manager permission
 
-For a user to be able to modify orders, their [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) must be associated with at least one of the following [Licence Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
+For a user to be able to modify orders, their [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) must be associated with at least one of the following [Licence Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
 
 - `Orders Full Access`
 - `Change order`
@@ -51,13 +51,13 @@ These are the main order modifications that can be made through the VTEX Admin:
 - **Remove:** Remove the partial or total number of items.
 - **Weight change:** Adjust the weight assigned to items.
 - **Replace items:** Replace items, including those priced by weight.
-- **Price change:** [Change the order total amount](/en/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
+- **Price change:** [Change the order total amount](https://help.vtex.com/en/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
 
-All these actions are done on the [order details](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) page, which you can access in two ways, as described below.
+All these actions are done on the [order details](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) page, which you can access in two ways, as described below.
 
 ### Viewing orders on the All orders page
 
-In the VTEX Admin, go to **Orders >** [All Orders](/en/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) and click the desired order, or type **All Orders** in the search bar at the top of the page. Then click the order you want to view. If necessary, you can use [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192) to narrow your search.
+In the VTEX Admin, go to **Orders >** [All Orders](https://help.vtex.com/en/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) and click the desired order, or type **All Orders** in the search bar at the top of the page. Then click the order you want to view. If necessary, you can use [filters](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192) to narrow your search.
 
 ### Viewing orders using the global search bar
 
@@ -89,7 +89,7 @@ To add one or more items to the order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the up arrow <i class="fas fa-angle-up"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_adding_items_EN](https://images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
+    ![change_order_adding_items_EN](//images.ctfassets.net/alneenqid6w5/5dqVuyGULGm5TJH2tliSoO/d1f2ff7078f9a72db8ab25b8dda60e7c/change_order_adding_items_EN.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -110,7 +110,7 @@ To add one or more products to an order, follow these steps:
   > If you click the product name, you will be redirected to the product page on the store's website.
 6. Then click `Add Selected Items`, and the following message will be displayed: _"Items added"_.
 
-    ![change_order_adding_product_EN](https://images.ctfassets.net/alneenqid6w5/6a1gqq7WZiTO1lXZL26tU0/30f4bc58081e982190d44bb730a9ca25/change_order_adding_product_EN.png)
+    ![change_order_adding_product_EN](//images.ctfassets.net/alneenqid6w5/6a1gqq7WZiTO1lXZL26tU0/30f4bc58081e982190d44bb730a9ca25/change_order_adding_product_EN.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -127,7 +127,7 @@ To remove one or more items from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the down arrow <i class="fas fa-angle-down"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_removing_items_EN](https://images.ctfassets.net/alneenqid6w5/1fyXdA3TCu89tVktrQTFOr/d2ebd588be0ed9b83aec51767bd263e3/change_order_removing_items_EN.png)
+    ![change_order_removing_items_EN](//images.ctfassets.net/alneenqid6w5/1fyXdA3TCu89tVktrQTFOr/d2ebd588be0ed9b83aec51767bd263e3/change_order_removing_items_EN.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -144,7 +144,7 @@ To remove a product from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the trash can icon <i class="far fa-trash-alt"></i> and `Remove Item`. The following confirmation message will appear: _"Item removed"_.
 
-    ![change_order_removing_product_EN](https://images.ctfassets.net/alneenqid6w5/6aN2IcHBxHHhFYIsy8ihRN/7d5515c38ca48467dbaabe0123d8b14d/change_order_removing_product_EN.png)
+    ![change_order_removing_product_EN](//images.ctfassets.net/alneenqid6w5/6aN2IcHBxHHhFYIsy8ihRN/7d5515c38ca48467dbaabe0123d8b14d/change_order_removing_product_EN.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -179,7 +179,7 @@ To change the weight of an item, follow these steps:
 3. On the **Manage order items** page, enter the new weight in the row of the desired product. The unit of measure will be specified based on the Catalog settings.
 4. Then, the page will display the previous price and weight number with a strikethrough, followed by the message _"Item edited"_.
 
-    ![change_order_changing_weight_EN](https://images.ctfassets.net/alneenqid6w5/354LTV0LRZmcCXsB1oJkTw/c57d6801d560764df71a72e0593358f9/change_order_changing_weight_EN.png)
+    ![change_order_changing_weight_EN](//images.ctfassets.net/alneenqid6w5/354LTV0LRZmcCXsB1oJkTw/c57d6801d560764df71a72e0593358f9/change_order_changing_weight_EN.png)
 
 5. Review the [details of the amount modification](##viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 6. Click `Review and Apply`.
@@ -200,14 +200,14 @@ On the **Manage order items** page, as you modify the order, the **Total amount*
 
 On the **Manage order items** page, you can undo a modification if you want. To do this, click the curved arrow icon `Undo Action`. After this, a confirmation message will be displayed: _"Change undone"_, indicating that the action has been successfully reversed.
 
-![change_order_undoing_actions_EN](https://images.ctfassets.net/alneenqid6w5/GcSxHKn9jphCgi8eNQarG/ceee7cdae26eddb1da3588d1e5af4d0e/change_order_undoing_actions_EN.png)
+![change_order_undoing_actions_EN](//images.ctfassets.net/alneenqid6w5/GcSxHKn9jphCgi8eNQarG/ceee7cdae26eddb1da3588d1e5af4d0e/change_order_undoing_actions_EN.png)
 
 ## Processing errors
 
 In any [type of order modification](#types-of-order-modifications) on the **Manage order items** page, when you click `Review and Apply,` the modification may not be approved, which redirects you back to the order details page. Some of the reasons for modifications being rejected are:
 
-- **Unavailable item:** The SKU may [not be displayed on the store's website](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
-- **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+- **Unavailable item:** The SKU may [not be displayed on the store's website](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
+- **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
-If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](/en/support).
+If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](https://help.vtex.com/en/support).
 

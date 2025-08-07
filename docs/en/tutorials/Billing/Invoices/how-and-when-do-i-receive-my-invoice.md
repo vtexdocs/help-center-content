@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-and-when-do-i-receive-my-invoice
-locale: en
 legacySlug: how-and-when-do-i-receive-my-invoice
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
@@ -21,7 +21,7 @@ The billing is triggered until the 5th business day of the month. Invoice and *b
 
 When a charge is made, we send an email to the registered contacts advising that the invoice and the *boleto* are already available for payment or consultation.
 
-If you have not received the notice by the 5th business day of the month, [check your administrative panel](/en/tutorial/how-to-download-the-vtex-invoices--tutorials_653). If you identify any divergence, [contact our](https://support.vtex.com/hc/en/requests) financial team.
+If you have not received the notice by the 5th business day of the month, [check your administrative panel](https://help.vtex.com/en/tutorial/how-to-download-the-vtex-invoices--tutorials_653). If you identify any divergence, [contact our](https://support.vtex.com/hc/en/requests) financial team.
 
 If you are unable to download your *"boleto"*, you may not have a financial profile configured in your store account. In this case, ask the account's Super Admin to add it.
 

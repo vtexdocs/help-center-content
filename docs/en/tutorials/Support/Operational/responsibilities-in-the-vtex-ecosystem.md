@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: responsibilities-in-the-vtex-ecosystem
-locale: en
 legacySlug: responsibilities-in-the-vtex-ecosystem
+locale: en
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 ---
 
@@ -30,7 +30,7 @@ During the initial setup on VTEX, if your store uses[ external integrations with
 
 Once the initial product, price, and inventory integration has been set up and the middleware built, the information flow will be as shown in the diagram below.
 
-![back-office-en](https://images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
+![back-office-en](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/1d2fe04cb3d2bd6c09b2fd000544d3e4/back-office-en.PNG)
 
 During routine operations, responsibilities are divided as follows:
 
@@ -134,13 +134,13 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
 If inconsistencies or errors are detected during the order payment transaction, the merchant must:
 
 1. Contact who is handling the transaction (payment and anti-fraud providers).
-2. If the issue remains unresolved, contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) providing details of the incident.
+2. If the issue remains unresolved, contact [VTEX Support](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) providing details of the incident.
 
 ## Implementation agencies
 
 With native CMS solutions, merchants often rely on an implementation agency to customize the storefront's layout and customer experience.
 
-VTEX offers the following native CMS options: [Layout](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS](/en/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
+VTEX offers the following native CMS options: [Layout](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, [Site Editor](https://help.vtex.com/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
 
 Issues related to how the content is being displayed to the end user should always be addressed initially with the agency's support. Some examples of these issues are:
 
@@ -152,11 +152,11 @@ Issues related to how the content is being displayed to the end user should alwa
 * Call-to-action buttons (e.g., Buy, Notify Me, Add to Cart) with unexpected behavior.
 * Product prices or shipping rates inconsistent with the information stored on the platform.
 
-If the agency identifies that the problem is with VTEX controls, apps, or native components, contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) including all evidence from the agency's investigation.
+If the agency identifies that the problem is with VTEX controls, apps, or native components, contact [VTEX Support](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) including all evidence from the agency's investigation.
 
 ## External marketplace integrations
 
-VTEX has a native multi-seller architecture that allows VTEX stores to become marketplaces or sellers in other VTEX stores. The platform has native integrations with external marketplaces, allowing you to sell your products without having to write a single line of code. The marketplaces with native integrations can be found in the [Marketplaces and Integrations](/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) tab.
+VTEX has a native multi-seller architecture that allows VTEX stores to become marketplaces or sellers in other VTEX stores. The platform has native integrations with external marketplaces, allowing you to sell your products without having to write a single line of code. The marketplaces with native integrations can be found in the [Marketplaces and Integrations](https://help.vtex.com/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) tab.
 
 Even so, there may be strategic partner stores for your business that operate outside this native collaborative network. In such cases, VTEX allows developing[ integrations with external marketplaces](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide), where external connectors (hubs) establish the communication between a VTEX store and a non-native external marketplace.
 
@@ -188,14 +188,14 @@ See below the responsibilities involved in updating or creating orders based on 
    * If the order is being handled or invoiced, for example, the **ERP** notifies VTEX.
    * If the order was canceled in the marketplace, it is the **connector**'s responsibility to update the status.
 
-For more information on who is responsible for each step of the order flow in an external marketplace scenario, see [Order flow and status - Seller flow](/en/tutorial/order-flow-and-status--tutorials_196#seller-flow).
+For more information on who is responsible for each step of the order flow in an external marketplace scenario, see [Order flow and status - Seller flow](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196#seller-flow).
 
 To understand the right support to request in case of issues with updating the order status, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**.
-2. Click the desired order to go to the [order details page](/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl).
+2. Click the desired order to go to the [order details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl).
 3. In the **Order History** section, click `View Interactions` (button illustrated below) and check for any error messages.
 
-![view-interactions-en](https://images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/0f0830c6ea1439877301be64f17c0ccf/view-interactions-en.png)
+![view-interactions-en](//images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/0f0830c6ea1439877301be64f17c0ccf/view-interactions-en.png)
 
-If the error message does not provide sufficient information, the merchant can contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.
+If the error message does not provide sufficient information, the merchant can contact [VTEX Support](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.

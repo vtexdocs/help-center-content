@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slugEN: registering-holidays
-locale: en
 legacySlug: registering-holidays
+locale: en
 subcategoryId: 6F0Qup9onmEM2wsEsEsUQa
 ---
 
@@ -30,7 +30,7 @@ To set up the Holidays, follow the steps below:
 **Holidays** feature will only be valid for carriers configured to allow these settings. To make the carrier eligible for holiday setup, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.  
-2. On the `Shipping Policies` tab, select the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) associated with the given carrier.
+2. On the `Shipping Policies` tab, select the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) associated with the given carrier.
 3. In the **Weekends and Holidays** section, make sure the option `Holiday delivery` disabled <i class="fas fa-toggle-off"></i>.
 4. Click on `Save`.
 
@@ -42,7 +42,7 @@ You may configure holidays for the years to come.
 
 The shipping time calculated for an order is based on the sum of two factors:
 
-- **Picking time**: The time the store operator takes to make the order items available to the [carrier](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
+- **Picking time**: The time the store operator takes to make the order items available to the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 - **Delivery time**: The time it takes for the carrier to deliver the order to the end customer.
 
 `Picking time + Delivery time = Order shipping time`

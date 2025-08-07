@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-to-set-up-fingerprint-for-payu
-locale: en
 legacySlug: how-to-set-up-fingerprint-for-payu
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -91,9 +91,9 @@ Once the tag has been set up, it is necessary to save the JS captured from the c
 
 - Accessing the VTEX panel in the CMS menu >> Layout >> File Manager >> .js File Management >> Add.
 
-![cms js](https://images.ctfassets.net/alneenqid6w5/175WhPco7ew6OSEUsIG4MU/68772fc79d642781908d19163d787141/cms_js.png)
+![cms js](//images.ctfassets.net/alneenqid6w5/175WhPco7ew6OSEUsIG4MU/68772fc79d642781908d19163d787141/cms_js.png)
 
-__Attachment__: [md5.js](https://assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Attachment__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
 ### Validation
 

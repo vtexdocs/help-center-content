@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: prices-settings
-locale: en
 legacySlug: price-configuration
+locale: en
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
 ---
 

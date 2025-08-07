@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-identify-promotions-applied-to-the-cart
-locale: en
 legacySlug: how-to-identify-promotions-applied-to-the-cart
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
@@ -42,7 +42,7 @@ In the cart, you can move your mouse over the question mark icon below the price
 
 However, if more than one promotion is applied, what appears will be the sum of the discounts, making it difficult to analyze the scenario.
 
-![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
+![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
 
 ## orderForm
 
@@ -71,11 +71,11 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 
 ## Promotions Simulator (Beta)
 
-The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
+The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
 
-For more information, read the [Promotions Simulator (Beta)](/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
+For more information, read the [Promotions Simulator (Beta)](https://help.vtex.com/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
 
 ## Learn more
 
-* [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-* [How to identify promotions attributed to an SKU?](/en/tutorial/how-to-identify-promotions-attributed-to-an-sku--frequentlyAskedQuestions_4813)
+* [How promotions work](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+* [How to identify promotions attributed to an SKU?](https://help.vtex.com/en/tutorial/how-to-identify-promotions-attributed-to-an-sku--frequentlyAskedQuestions_4813)

@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: carrier-working-hours
-locale: en
 legacySlug: setting-up-business-hours-for-carriers, configuring-carriers-cut-off-time
+locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-On VTEX, you can determine business hours for your store’s [carriers](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) in the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140). You can configure pickup time and shipping window periods available for the carrier.
+On VTEX, you can determine business hours for your store’s [carriers](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) in the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). You can configure pickup time and shipping window periods available for the carrier.
 
-To configure a carrier’s business hours in your store, in your VTEX Admin go to **Shipping > Shipping strategy**. You can [create a shipping policy](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) or [edit](/en/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) an existing one.
+To configure a carrier’s business hours in your store, in your VTEX Admin go to **Shipping > Shipping strategy**. You can [create a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) or [edit](https://help.vtex.com/en/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) an existing one.
 
 The way you configure working hours will influence the delivery time calculation. These configurations can be made on the shipping policy’s details page, in the following options:
 
@@ -26,7 +26,7 @@ The way you configure working hours will influence the delivery time calculation
 
 ## Shipping Window
 
-1. In the [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Shipping Window` card.
+1. In the [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Shipping Window` card.
 2. If you wish to activate the option `Accept purchases outside working hours`, enable the toggle switch. Otherwise, leave it deactivated.
 
   <div class="alert alert-danger">
@@ -46,7 +46,7 @@ When this option is enabled, the order <a href="https://help.vtex.com/en/tutoria
 
 ## Pickup Time
 
-1. In the [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Pickup Time` card.
+1. In the [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Pickup Time` card.
 2. Select the `Day of the week`.
 3. Select the `Pickup time`. 
 4. If you want to add a new pickup period, click `Add pickup time`.

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slugEN: precautions-when-setting-the-order-numbering
-locale: en
 legacySlug: precautions-when-setting-the-order-numbering
+locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 

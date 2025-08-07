@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: how-proportional-shipping-costs-are-calculated
-locale: en
 legacySlug: how-to-make-freight-apportionment
+locale: en
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
 ---
 
@@ -37,5 +37,5 @@ The weight of the product cannot be zero. This can cause problems when calculati
 
 You can see how proportional weight-based shipping costs are calculated in the Admin or via API. In the Admin, go to the **Inventory & shipping** module, simulate a delivery, and you will see detailed shipping values. You can also use an API and view these values in the order's JSON — as returned by the route[ Get order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) — for each item in the logisticsInfo field of their details.
 
-Learn more in our article[ Shipping simulator](/en/tutorial/simulacao-de-frete--tutorials_144).
+Learn more in our article[ Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144).
 

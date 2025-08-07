@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-does-the-score-field-work
-locale: en
 legacySlug: how-does-the-score-field-work
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -27,24 +27,24 @@ For example, you could use the score for specific events, such as when your stor
 
 ## Score in the VTEX search
 
-If your store uses the [VTEX search](/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), you can use the parameters below to implement sorting by score:
+If your store uses the [VTEX search](https://help.vtex.com/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), you can use the parameters below to implement sorting by score:
 
 - **Ascending order **(products with lower scores are displayed at the top)**:** `?O=OrderByScoreASC`
 - **Descending order **(products with the highest score are displayed at the top)**:** `?O=OrderByScoreDESC`
 
 ## Score in VTEX Intelligent Search
 
-The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), only by the [VTEX search](/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
+The `OrderByScoreASC` and `OrderByScoreDESC` parameters are not supported by[ VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), only by the [VTEX search](https://help.vtex.com/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
 
-[VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) does not allow direct sorting of products by the score defined in the **Score** field. When using one of these parameters in VTEX Intelligent Search, the default sorting will be by[ relevance](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+[VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) does not allow direct sorting of products by the score defined in the **Score** field. When using one of these parameters in VTEX Intelligent Search, the default sorting will be by[ relevance](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-However, the Catalog score composes Intelligent Search's [relevance](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) among the other criteria, allowing it to be given greater weight or even prioritized. Thus, the higher the score, the greater the weight, i.e., the behavior is descending: products with a higher score are prioritized.
+However, the Catalog score composes Intelligent Search's [relevance](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) among the other criteria, allowing it to be given greater weight or even prioritized. Thus, the higher the score, the greater the weight, i.e., the behavior is descending: products with a higher score are prioritized.
 
 Disregarding other criteria or even considering priority sorting, in VTEX Intelligent Search, products with no score are displayed after products with a score in the search results.
 
 You need to consider whether this would be appropriate for your use case compared to other criteria calculated automatically by the system, such as popularity and sales. Making one criterion a priority overrides all the others, even meeting the same objective as `OrderByScore`, bypassing the other relevance settings.
 
-To sort items manually one by one, we recommend using[ Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) to avoid undesirable effects and respect the relevance settings.
+To sort items manually one by one, we recommend using[ Merchandising Rules](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) to avoid undesirable effects and respect the relevance settings.
 
 ## Editing a product score
 

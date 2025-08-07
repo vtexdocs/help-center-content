@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: authors_24
 slugEN: what-is-binding
-locale: es
 legacySlug: que-es-binding
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

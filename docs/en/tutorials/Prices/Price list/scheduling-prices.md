@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: scheduling-prices
-locale: en
 legacySlug: scheduling-price-on-pricing-v2
+locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 

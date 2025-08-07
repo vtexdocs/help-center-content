@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-pse
-locale: en
 legacySlug: setting-up-payments-with-pse
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -55,7 +55,7 @@ To configure the PSE app in your store, you must have permission to access the P
 6. Fill the **Rule Name** field with a name of your choice for identification.
 7. Activate the condition in the **Status** field.
 8. In the **Process with affiliation** field, choose the connector that will process payments with PSE. Only connectors that support this payment method will be available for selection.
-9. If you wish, you can also [configure payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
+9. If you wish, you can also [configure payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
 10. Click `Save`.
 
 <div class="alert alert-info">

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: penetration-tests
-locale: en
 legacySlug: penetration-testing-and-vulnerability-notice
+locale: en
 subcategoryId: vONCJSxwN5qZiElOEtKkH
 ---
 
@@ -25,7 +25,7 @@ We understand that our enterprise customers also need to meet security audit req
 
 Instead of analyzing individual penetration test requests from customers, we now share the **Attestation of Penetration Testing** report for the latest penetration tests performed on our behalf by an independent, reputable and technically competent third-party security consultancy.
 
-This is provided upon request, free of charge, by [opening a ticket to VTEX support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+This is provided upon request, free of charge, by [opening a ticket to VTEX support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 <div class="alert alert-warning">
   <p>Please note that our <a href="https://vtex.com/us-en/privacy-and-agreements/agreements/">Master Services Agreement (MSA)</a> expressly forbids performing penetration tests against the VTEX platform without our prior written consent. Doing so without our authorization would constitute a breach of contract by the customer.</p>

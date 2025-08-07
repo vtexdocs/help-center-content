@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slugEN: order-transactional-email-templates
-locale: en
 legacySlug: list-of-e-mail-templates-in-the-message-center
+locale: en
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
@@ -34,8 +34,8 @@ To view the available templates, follow the steps below:
 | Order change payment | vtexcommerce-order-change-payment | Notifies that the payment has been changed. | Customer changes the payment and Checkout notifies OMS that the payment has been changed. |
 | Payment pending | vtexcommerce-payment-pending | Notifies of pending payment. | OMS sends the e-mail 48 hours after placing the order. |
 | Payment approved | vtexcommerce-payment-approved | Notifies that payment was approved. | Order status changes to __Payment Approved__. |
-| Change of information order | vtexcommerce-order-changed | Notifies that the [order has been changed](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). | Checkout notifies of order changed event (discount, add item or remove item). |
-| Change Order V2 | vtexcommerce-order-changed-v2 | Notification that [the order has been changed](/en/tutorial/como-alterar-pedidos--7btlG91rb6sHpW1dkd2kBw). | Checkout notifies an order change event, such as a price increase or decrease, item addition, removal, replacement, or a change in order weight. |
+| Change of information order | vtexcommerce-order-changed | Notifies that the [order has been changed](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). | Checkout notifies of order changed event (discount, add item or remove item). |
+| Change Order V2 | vtexcommerce-order-changed-v2 | Notification that [the order has been changed](https://help.vtex.com/en/tutorial/como-alterar-pedidos--7btlG91rb6sHpW1dkd2kBw). | Checkout notifies an order change event, such as a price increase or decrease, item addition, removal, replacement, or a change in order weight. |
 | Order invoiced | vtexcommerce-order-invoiced | Notifies that the order was invoiced. | Order status changes to __Invoiced__. |
 | Cancel billed request | vtexcommerce-order-invoiced-with-cancel-request | Notifies that the order can't be cancelled after being invoiced. | Seller denies a cancellation request when the order has the Handling Shipping status. |
 | Cancel shipped order | vtexcommerce-order-shipped-with-cancel-request | Notifies that the order can't be canceled after it has been shipped. | Seller denies a cancellation request when the order has alraedy received a tracking number or tracking URL data. |
@@ -43,4 +43,4 @@ To view the available templates, follow the steps below:
 | Shipping Update | vtexcommerce-order-shipping-update | Notification of delivery events, like "collected by the carrier" and "delivery route has started", for example. | The order must have the invoice and a tracking number and tracking URL attached to the invoice. It should also include delivery events, the main information of this template. |
 | Order delivered | vtexcommerce-order-shipping-finished | Notifies that shipping is completed. | The order must have the invoice and a tracking number and tracking URL attached to the invoice. Seller confirms delivery. This action changes the field `isDelivered` value to `true` on the order json. |
 | Order cancelled | vtexcommerce-order-cancelled | Order cancellation notification. | Order status changes to __Cancelled__. |
-| [Order refund](/en/tutorial/template-de-e-mail-transacional-para-pedido-estornado--5uy6FCBb6DLyIJlSDeM10G) | vtexcommerce-order-refunded | Order refund notification. | Seller inserts invoice with the refund value through the [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) API, with `input` as the value on the `type` field. In the Admin, this event is triggered when you click on the __Return items__ button on the order details page. |
+| [Order refund](https://help.vtex.com/en/tutorial/template-de-e-mail-transacional-para-pedido-estornado--5uy6FCBb6DLyIJlSDeM10G) | vtexcommerce-order-refunded | Order refund notification. | Seller inserts invoice with the refund value through the [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) API, with `input` as the value on the `type` field. In the Admin, this event is triggered when you click on the __Return items__ button on the order details page. |

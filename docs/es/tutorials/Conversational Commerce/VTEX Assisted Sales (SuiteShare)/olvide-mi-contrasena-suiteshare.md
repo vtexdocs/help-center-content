@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: i-forgot-my-password-suiteshare
-locale: es
 legacySlug: olvide-mi-contrasena-suiteshare
+locale: es
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: creating-collections-beta
-locale: en
 legacySlug: cadastrar-colecoes-beta
+locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
@@ -34,7 +34,7 @@ This article explains how to:
 
 ## Prerequisite
 
-To create a collection, you must have the _Owner (Admin Super)_ [role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
+To create a collection, you must have the _Owner (Admin Super)_ [role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
 
 ## Create a collection
 
@@ -43,9 +43,9 @@ Follow the step by step below to add a new collection:
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click on **Collections**.
 3. Click on the `Create Collection` button.
-4. Fill in the [Collection fields](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
+4. Fill in the [Collection fields](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
 5. Click on `Create` to update the information filled in the form.
-6. Then, [select the products](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
+6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
 
 <div class = "alert alert-info">
   <p>Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.</p>
@@ -92,23 +92,23 @@ Selecting products through the VTEX Admin can be made using the product list, se
 
 There are many filters that can be selected to reduce the number of products displayed on the list.
 
-![Collections-EN](https://images.ctfassets.net/alneenqid6w5/7j4kfkpKZfrc6QwVNjrV6Z/5d19956173c19af3e823eec2b24869f3/Screenshot_2020-08-28_Collections.png)
+![Collections-EN](//images.ctfassets.net/alneenqid6w5/7j4kfkpKZfrc6QwVNjrV6Z/5d19956173c19af3e823eec2b24869f3/Screenshot_2020-08-28_Collections.png)
 
 You can create new filters based on other criteria not covered by the predetermined filters. The images below show a few examples of these options:
 
-![Novo filtro - EN](https://images.ctfassets.net/alneenqid6w5/5CBl4UWLGKo9sf5CqoOIRD/4b679fbc6cfd2242327c9d6df77e555c/novo_filtro_-en.PNG)
+![Novo filtro - EN](//images.ctfassets.net/alneenqid6w5/5CBl4UWLGKo9sf5CqoOIRD/4b679fbc6cfd2242327c9d6df77e555c/novo_filtro_-en.PNG)
 
-![Filtro Colecao detalhes - EN](https://images.ctfassets.net/alneenqid6w5/7E4dl1gucqIaCUMGEfZIK1/ce198baa55d995431c3cc77efb799920/Filtro_Colecao_detalhes_-_EN.png)
+![Filtro Colecao detalhes - EN](//images.ctfassets.net/alneenqid6w5/7E4dl1gucqIaCUMGEfZIK1/ce198baa55d995431c3cc77efb799920/Filtro_Colecao_detalhes_-_EN.png)
 
 To add a product to a collection, click on the icon <i class="fas fa-plus-circle" title = "check circle"></i> related to the product, thereby saving it in the collection automatically.
 
 For more information about the item, click on the icon <i class="fas fa-external-link-alt" title = "external link"></i> to open the product page or click on the image to enlarge it.
 
-![EN-colecao-adicionar](https://images.ctfassets.net/alneenqid6w5/4pb2cOOWDwe4g5ToGz0kvp/fbc71e22012ce56237470c4edfc7975e/EN-colecao-adicionar.gif)
+![EN-colecao-adicionar](//images.ctfassets.net/alneenqid6w5/4pb2cOOWDwe4g5ToGz0kvp/fbc71e22012ce56237470c4edfc7975e/EN-colecao-adicionar.gif)
 
 If you want to add in bulk, apply one of the filters and click on the `Add All` button. It is worth noting that the product must have at least one existing SKU to be included in a collection.
 
-![EN-colecao-adicionar-todos](https://images.ctfassets.net/alneenqid6w5/3Ftzj2gJy9qIskElyIE6u/f638b1ae74f9d545fe74ea8c15cec9f8/EN-colecao-adicionar-todos.png)
+![EN-colecao-adicionar-todos](//images.ctfassets.net/alneenqid6w5/3Ftzj2gJy9qIskElyIE6u/f638b1ae74f9d545fe74ea8c15cec9f8/EN-colecao-adicionar-todos.png)
 
 <div class = "alert alert-danger" >
   <p> Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
@@ -123,7 +123,7 @@ You can also add items to a collection using a spreadsheet by following the step
   1. In your collection's dashboard, click on the `Import` button.
   2. Click on the **Include products in collection** option.
   3. Click on the `Import` button.
-  4. Click on `Download Template` to have the correct spreadsheet template as the example below: ![colecao-planilha-EN](https://images.ctfassets.net/alneenqid6w5/6liweo59r1TKnt8wWyELwN/8416f5bccd00dd42b5d326ba7cafca70/colecao-planilha.png)
+  4. Click on `Download Template` to have the correct spreadsheet template as the example below: ![colecao-planilha-EN](//images.ctfassets.net/alneenqid6w5/6liweo59r1TKnt8wWyELwN/8416f5bccd00dd42b5d326ba7cafca70/colecao-planilha.png)
   5. Fill in the spreadsheet with the Product IDs, RefIDs, or SKUs. Add a single ID on each line. Regardless of which ID you fill in, all SKUs for the selected product will be added to the collection after import.
   6. After filling out the spreadsheet, save the changes, and import the document into the VTEX Admin. You can drop the file in the indicated area or click on **Choose a file**. Files in CSV or XML format are accepted.
   7. To finish, click on `Import`.
@@ -140,11 +140,11 @@ Products can be removed either by selecting items from the __Collections__ modul
 
 To remove an item from the collection, simply click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
 
-![EN-coleao-remover](https://images.ctfassets.net/alneenqid6w5/58uEn8gQKd7lr6KVqz0TTq/eb982d2665fc13dccb9e2beb08bebc0b/EN-colecao-remover.gif)
+![EN-coleao-remover](//images.ctfassets.net/alneenqid6w5/58uEn8gQKd7lr6KVqz0TTq/eb982d2665fc13dccb9e2beb08bebc0b/EN-colecao-remover.gif)
 
 If you wish to remove in bulk, apply one of the filters and click on the `Remove All` button.
 
-![EN-colecao-remover-todos](https://images.ctfassets.net/alneenqid6w5/5KE4KYqKWTAT2S5kqwpiKv/28e9b2b7a12e0a51d676a6af810c194a/EN-colecao-remover-todos.png)
+![EN-colecao-remover-todos](//images.ctfassets.net/alneenqid6w5/5KE4KYqKWTAT2S5kqwpiKv/28e9b2b7a12e0a51d676a6af810c194a/EN-colecao-remover-todos.png)
 
 You can also click on the button <i class="far fa-check-circle" title = "check in circle"></i> (**Products in this collection**) in the top bar and then click `Remove All`.
 
@@ -177,7 +177,7 @@ To change your collection's order, follow the steps below:
 
   b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allows you to rearrange items in bulk.
 
-![EN-mover-colecao](https://images.ctfassets.net/alneenqid6w5/4YOgWuUHzotJ2MOcFkQYFr/92212011dad70b167ae2d2d7c4a0baf6/EN-mover-colecao.png)
+![EN-mover-colecao](//images.ctfassets.net/alneenqid6w5/4YOgWuUHzotJ2MOcFkQYFr/92212011dad70b167ae2d2d7c4a0baf6/EN-mover-colecao.png)
 
 ### Export collection spreadsheet
 

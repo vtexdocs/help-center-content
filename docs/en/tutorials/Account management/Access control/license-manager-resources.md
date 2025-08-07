@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: license-manager-resources
-locale: en
 legacySlug: license-manager-resources
+locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-VTEX provides several pre-defined [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) for administrative users. This allows employees to do their jobs requiring the minimum resources necessary. However, we know that every ecommerce has its unique needs, and flexibility is essential for addressing specific business problems. 
+VTEX provides several pre-defined [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) for administrative users. This allows employees to do their jobs requiring the minimum resources necessary. However, we know that every ecommerce has its unique needs, and flexibility is essential for addressing specific business problems. 
 
 Therefore, the VTEX platform offers you the possibility to create custom access profiles, allowing you to choose precisely which custom profile can access specific resources. Below you will find the descriptions of the resources available on the VTEX platform by product.
 

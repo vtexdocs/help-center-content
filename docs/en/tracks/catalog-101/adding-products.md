@@ -30,11 +30,11 @@ If your product does not appear on your store's website after you have created i
 
 ## VTEX Admin
 
-To add a new product to the store catalog, check the article [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+To add a new product to the store catalog, check the article [Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
 
 ## Spreadsheet
 
-We recommend that you add products and SKUs together when using a spreadsheet. You can check out the steps on the [Adding SKU](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) article of this track.
+We recommend that you add products and SKUs together when using a spreadsheet. You can check out the steps on the [Adding SKU](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) article of this track.
 
 ## API
 

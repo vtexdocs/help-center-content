@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: application-keys
-locale: en
 legacySlug: application-keys
+locale: en
 subcategoryId: 5GYFjiMQg0qIKpnnQY2qjh
 ---
 
@@ -29,7 +29,7 @@ Internal application keys are credentials generated in and managed by your VTEX 
 
 ### External app keys
 
-External application keys are credentials generated in and managed by other VTEX accounts. By adding [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to application keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.
+External application keys are credentials generated in and managed by other VTEX accounts. By adding [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to application keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.
 
 ## Managing application keys
 
@@ -53,7 +53,7 @@ To view this page, at the top bar of the VTEX Admin, click your **profile avatar
 
 ## Generating internal application keys
 
-As application keys allow external systems to access your account, they can only be created by users who have the `License Manager / Services access control / Save user` feature in their [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+As application keys allow external systems to access your account, they can only be created by users who have the `License Manager / Services access control / Save user` feature in their [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
 
 To create internal app keys in your account, follow the steps below:
 
@@ -62,7 +62,7 @@ To create internal app keys in your account, follow the steps below:
 
 	You will be redirected to the **My Keys** page, as shown below. This page lists all [internal app keys](#internal-application-keys).
 
-    ![My Keys](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
+    ![My Keys](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
 
     These are the visible fields on the **My Keys** page:
 
@@ -92,7 +92,7 @@ To add third-party application keys, follow the steps below:
 
 ## Managing application key permissions
 
-For an application key to successfully make API requests to your account, it must both be active and have [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) specifying the account resources it is allowed to access.
+For an application key to successfully make API requests to your account, it must both be active and have [roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) specifying the account resources it is allowed to access.
 
 <div class="alert alert-danger">
 <p>Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.</p>
@@ -114,7 +114,7 @@ When editing an application key, you can:
 
 Once you have added roles to an application key, it will be displayed on the **Application Keys** page.
 
-![Application Keys](https://images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/4ca25e35b379a4a71370c1e07221cf1a/appkeys-en.png)
+![Application Keys](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/4ca25e35b379a4a71370c1e07221cf1a/appkeys-en.png)
 
 These are the visible fields on the **Application Keys** page:
 
@@ -168,4 +168,4 @@ To reactivate external application keys that have previously been deactivated, y
 
 If necessary for a security audit, you can export a CSV file containing the **Key** values for all internal and external app keys that currently have access to your account — that is, that have roles associated with them.
 
-To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="//images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Export</strong></span> button.
+To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Export</strong></span> button.

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-clip
-locale: en
 legacySlug: setting-up-payments-with-clip
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -35,7 +35,7 @@ To configure Clip, follow the steps below:
 3. Click on **Clip**.
 4. Activate the condition in the **Status** field.
 5. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click on `Save`.
 
 After following the indicated steps, Clip may take up to 10 minutes to appear at your store`s checkout as a payment option.

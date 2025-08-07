@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: find-sellers
-locale: en
 legacySlug: find-sellers
+locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 

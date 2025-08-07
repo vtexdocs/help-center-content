@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: creating-a-more-for-less-promotion
-locale: en
 legacySlug: creating-more-for-less-promotion
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
@@ -67,7 +67,7 @@ Select one of the following options to apply the promotion:
 ### Selecting trade policies for the discount
 
 Select the trade policies valid for the discount. You can offer discounts for trade policies where  
-[your store acts as a marketplace](/pt/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
+[your store acts as a marketplace](https://help.vtex.com/pt/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
@@ -94,7 +94,7 @@ Follow the instructions below to complete the fields:
   The limit for creating a buy more, pay less promotion conditioned by SKUs is 100 SKUs.
 
 - **Collections:**  
-  Selects a product [collection](/en/tutorial/criando-colecao-de-produtos--tutorials_244). This option simplifies promotion management for groups of items with similar characteristics.
+  Selects a product [collection](https://help.vtex.com/en/tutorial/criando-colecao-de-produtos--tutorials_244). This option simplifies promotion management for groups of items with similar characteristics.
 
 - **The customer gets [Y] of these [X] products with discount:**  
   Define how many products the customer can get a discount on when they meet the minimum configured quantity.  
@@ -157,7 +157,7 @@ To add a condition, follow the instructions below:
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 
-- **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used.  
+- **UTM:** Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](https://help.vtex.com/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used.  
   Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.  
   Set the following parameters if necessary:
   - **utm_source:** Apply the discount when browsing occurs through the configured utm_source parameter.
@@ -167,7 +167,7 @@ To add a condition, follow the instructions below:
 
 - **Price list:** Restrict the promotion based on the presence or absence of a list price on the selected products.  
   Choose one of the options below:
-  - **Price list not defined:** Apply the promotion only to items with equal "full" and "discounted" values, which indicates that they don't have a [price list](/en/tutorial/precos-v2) configured.
+  - **Price list not defined:** Apply the promotion only to items with equal "full" and "discounted" values, which indicates that they don't have a [price list](https://help.vtex.com/en/tutorial/precos-v2) configured.
   - **Price list defined:** Apply the promotion only to items with different "full" and "discounted" values, which indicates that they have a price list.
 
 ## Setting usage restrictions
@@ -189,7 +189,7 @@ The available options are:
 Define how the promotion will be combined with other business conditions applied in the store:
 
 - **Allow combining with other promotions:**  
-  Allows the promotion to be applied simultaneously with other promotions, including additional discounts such as free shipping or gifts. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
+  Allows the promotion to be applied simultaneously with other promotions, including additional discounts such as free shipping or gifts. Learn more in the [How promotion competition works](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
 
 - **Allow combining with manual prices:**  
   Select this setting so that the promotion is applied to products whose price has been adjusted.

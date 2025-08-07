@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slugEN: customizing-the-vtex-smtp
-locale: en
 legacySlug: customizing-the-vtex-smtp
+locale: en
 subcategoryId: 1wsCJz4swMsK4QSsGeIgic
 ---
 

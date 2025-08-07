@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: how-is-the-platforms-operation-sla-determined
-locale: en
 legacySlug: how-is-the-platforms-operation-sla-determined
+locale: en
 subcategoryId: 5PYkoNDZyo2G80yiiqG2YW
 ---
 
@@ -36,5 +36,5 @@ To identify unstable scenarios, we recommend checking the [VTEX Status](https://
 
 ## Learn more
 
-- [VTEX status page](/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ)
+- [VTEX status page](https://help.vtex.com/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ)
 

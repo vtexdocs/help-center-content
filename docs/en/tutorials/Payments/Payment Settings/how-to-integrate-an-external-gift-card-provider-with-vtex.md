@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-to-integrate-an-external-gift-card-provider-with-vtex
-locale: en
 legacySlug: how-to-integrate-with-a-gift-card
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -29,4 +29,4 @@ For more information about the gift card system at VTEX, visit [Giftcard Hub](ht
 
 ## Sending endpoint information
 
-After creating the middleware, the provider must open a [ticket](/en/support) on VTEX informing the endpoints to be used for customers to carry out payment transactions using its gift card system.
+After creating the middleware, the provider must open a [ticket](https://help.vtex.com/en/support) on VTEX informing the endpoints to be used for customers to carry out payment transactions using its gift card system.

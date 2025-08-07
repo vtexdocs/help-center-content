@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: vtex-shield
-locale: en
 legacySlug: vtex-shield
+locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
@@ -33,9 +33,9 @@ When requesting VTEX Shield, you can choose from the following features:
 
 ## Security Monitor
 
-Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
+Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
 
-Security Monitor is available in the VTEX Admin only for stores using VTEX Shield. For more information, check out the [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) guide.
+Security Monitor is available in the VTEX Admin only for stores using VTEX Shield. For more information, check out the [Security Monitor](https://help.vtex.com/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) guide.
 
 ## Web Application Firewall (WAF)
 
@@ -43,7 +43,7 @@ The Web Application Firewall (WAF) protects web applications by monitoring and f
 
 This security feature plays a key role in protecting websites, online services, and web applications from attacks such as SQL injection, cross-site scripting (XSS), and other common web vulnerabilities.
 
-Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
+Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](https://help.vtex.com/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
 
 ## Data Protection Plus
 
@@ -59,12 +59,12 @@ See the set of guides for the [Data Protection Plus](https://developers.vtex.com
 
 ## Customized SSL certificates
 
-By default, VTEX uses [SSL certificates](/en/tutorial/certificado-de-seguranca-ssl--tutorials_1308) issued by [Let’s Encrypt](https://letsencrypt.org/) to ensure security and compatibility. However, some stores may require customized certificates to meet specific compliance or security requirements.
+By default, VTEX uses [SSL certificates](https://help.vtex.com/en/tutorial/certificado-de-seguranca-ssl--tutorials_1308) issued by [Let’s Encrypt](https://letsencrypt.org/) to ensure security and compatibility. However, some stores may require customized certificates to meet specific compliance or security requirements.
 
-The **SSL certificates** page in the VTEX Admin allows you to install and manage custom certificates. This feature is available only for stores that have opted in and use [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). For more information, see the guide [Custom SSL certificates](/en/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
+The **SSL certificates** page in the VTEX Admin allows you to install and manage custom certificates. This feature is available only for stores that have opted in and use [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). For more information, see the guide [Custom SSL certificates](https://help.vtex.com/en/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
 
 ## Mutual Transport Layer Security (mTLS)
 
 Mutual Transport Layer Security (mTLS) is an advanced security solution offered by VTEX Shield, which reinforces the protection of integrations between external systems and VTEX. This extra layer of protection is applicable to integration scenarios via APIs, such as headless stores or connections with ERPs and WMS.
 
-Unlike traditional TLS, in which only the server needs to prove its identity, mTLS requires mutual authentication: both the client and the server present valid digital certificates, ensuring that both sides of the communication are trustworthy before exchanging data. Learn more at [Mutual Transport Layer Security (mTLS)](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
+Unlike traditional TLS, in which only the server needs to prove its identity, mTLS requires mutual authentication: both the client and the server present valid digital certificates, ensuring that both sides of the communication are trustworthy before exchanging data. Learn more at [Mutual Transport Layer Security (mTLS)](https://help.vtex.com/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).

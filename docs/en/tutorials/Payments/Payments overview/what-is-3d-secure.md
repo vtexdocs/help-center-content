@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-3d-secure
-locale: en
 legacySlug: what-is-3d-secure
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

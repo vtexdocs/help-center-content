@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: promotions-simulator-beta
-locale: en
 legacySlug: promotions-simulator-beta
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
@@ -21,9 +21,9 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 The **Promotion Simulator** is a tool that allows you to view not only the promotions created in the VTEX platform and applied to the shopping cart but also their activation conditions. You can also test the application of promotions before activating them, including scheduled and inactive promotions.
 
-With multiple configuration possibilities for promotions, the simulator brings visibility into promotion [competition](/en/tutorial/how-promotion-competition-works--tutorials_2270), how they are combined during the purchase, and the triggers that activate them.
+With multiple configuration possibilities for promotions, the simulator brings visibility into promotion [competition](https://help.vtex.com/en/tutorial/how-promotion-competition-works--tutorials_2270), how they are combined during the purchase, and the triggers that activate them.
 
-The **Promotion Simulator** is available for all VTEX stores through [Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451), a tool for merchants at checkout. To access the simulator, follow the steps below:
+The **Promotion Simulator** is available for all VTEX stores through [Cartman](https://help.vtex.com/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451), a tool for merchants at checkout. To access the simulator, follow the steps below:
 
 1. In the top bar of the VTEX Admin, click the `Preview` button to open your store's restricted access page.
 
@@ -35,7 +35,7 @@ The **Promotion Simulator** is available for all VTEX stores through [Cartman](/
 
    In the new window, you will find a list of the products in your cart and all the promotions that have been applied and are applicable to each item.
 
-![Simulator-promo-en-gif-1](https://images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
+![Simulator-promo-en-gif-1](//images.ctfassets.net/alneenqid6w5/66PaJF2TBi2T1VBEFPlLuz/c05b0c30d34a029e4bff69dff70de0d5/simulador-promo-en-230706.gif)
 
 The **Promotion Simulator** interface displays the following information:
 
@@ -57,7 +57,7 @@ If you need to add or remove items from your cart, you can keep the simulator wi
 
 ### Searching and filtering promotions
 
-The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/tutorial/buy-together--tutorials_323), [Get More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324), [Buy One, Get One](/en/tutorial/buy-one-get-one--tutorials_322), or [Campaign Promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)) and **Discount** (Applied or Not Applied).
+The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](https://help.vtex.com/en/tutorial/buy-together--tutorials_323), [Get More for Less](https://help.vtex.com/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](https://help.vtex.com/en/tutorial/progressive-discount--tutorials_324), [Buy One, Get One](https://help.vtex.com/en/tutorial/buy-one-get-one--tutorials_322), or [Campaign Promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)) and **Discount** (Applied or Not Applied).
 
 ### Viewing applied promotions details
 
@@ -72,14 +72,14 @@ To edit a promotion, follow the steps below:
 
    You'll be redirected to the promotion form.
 
-3. Edit the [promotion fields](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#1-promotion-overview).
+3. Edit the [promotion fields](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#1-promotion-overview).
 4. Once you have made all changes, click `Save`.
 
 ### Simulating promotions
 
 The **Promotion Simulator** allows you to test the application of another promotion or simulate the effects of deactivating applied promotions. To do this, click the `Select Promotions` button at the top right of the page, as shown in the image below.
 
-![ui-Simulator-promo-en-gif-2](https://images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/31e593dbdb4fed07df101576ecc63f20/ui-simulador-promo-en-230706.gif)
+![ui-Simulator-promo-en-gif-2](//images.ctfassets.net/alneenqid6w5/4CkGZCw0142IDUwH8VVf7A/31e593dbdb4fed07df101576ecc63f20/ui-simulador-promo-en-230706.gif)
 
 To run a simulation, follow the instructions below:
 
@@ -98,6 +98,6 @@ To run a simulation, follow the instructions below:
 
 ### Learn more
 
-* [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR)
-* [Promotions for specific scenarios](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
-* [Configuring Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451)
+* [How promotions work](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR)
+* [Promotions for specific scenarios](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+* [Configuring Cartman](https://help.vtex.com/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451)

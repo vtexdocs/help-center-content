@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: configuring-promotions-with-a-highlightflag
-locale: en
 legacySlug: configuring-promotions-with-a-highlightflag
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
@@ -35,13 +35,13 @@ The promotion highlight can be applied to different types of promotions and disc
 
 The following types of discounts are eligible for a highlight application:
 
-- [Percentage discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
-- [Percentage shipping discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
-- [Maximum shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
-- [Free shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
+- [Percentage discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
+- [Percentage shipping discount](https://help.vtex.com/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
+- [Maximum shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
+- [Free shipping](https://help.vtex.com/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
 - **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
 
-To learn more, see the [Promotions](/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
+To learn more, see the [Promotions](https://help.vtex.com/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.
 
 ## Restrictions
 
@@ -89,16 +89,16 @@ This configuration involves editing the page template used for the product page 
 4. Click **/ > Product > @Product@**.
 5. Click the layout with a red checkmark.
 
-    ![template-pagina](https://images.ctfassets.net/alneenqid6w5/37poO6Jxhn6Mc1nLeMIbB1/093b30ca6d0cff84cd7d5bb0b221957f/template-pagina.gif)
+    ![template-pagina](//images.ctfassets.net/alneenqid6w5/37poO6Jxhn6Mc1nLeMIbB1/093b30ca6d0cff84cd7d5bb0b221957f/template-pagina.gif)
 
 6. In the __Template__ field, check the name of the template used:
 
-    ![template-produto](https://images.ctfassets.net/alneenqid6w5/3GST4wBaoqbW84ryZ7y1Y5/50ed5ddef8301cc433f3fe4b041a9eff/template-produto.png)
+    ![template-produto](//images.ctfassets.net/alneenqid6w5/3GST4wBaoqbW84ryZ7y1Y5/50ed5ddef8301cc433f3fe4b041a9eff/template-produto.png)
 
 7.  In the side menu, click the **HTML Templates** folder.
 8.  Click the template found at **@Product@**.
 
-    ![save-template](https://images.ctfassets.net/alneenqid6w5/5n0wxeIf8uVM26GRVkQ5Ty/94bc01183a21136e0d31d038f5f5b228/save-template.gif)
+    ![save-template](//images.ctfassets.net/alneenqid6w5/5n0wxeIf8uVM26GRVkQ5Ty/94bc01183a21136e0d31d038f5f5b228/save-template.gif)
 
 9.  Enter the code `<vtex.cmc:discountHightLight/>` based on your HTML structure.
 10.  Click **Save Template**.
@@ -108,7 +108,7 @@ This configuration involves editing the page template used for the product page 
 1.  In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2.  Click **CMS > Shelves Templtes**.
 
-    ![shelves-templates](https://images.ctfassets.net/alneenqid6w5/9F4rv410hc9HxXowv9EAX/60ad5506cf0a0a584a5b1419a0ed289c/shelves-templates.png)
+    ![shelves-templates](//images.ctfassets.net/alneenqid6w5/9F4rv410hc9HxXowv9EAX/60ad5506cf0a0a584a5b1419a0ed289c/shelves-templates.png)
 
 3.  Click the desired template.
 4.  Enter the `$product.DiscountHightLight` code.

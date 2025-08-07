@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
-locale: es
 legacySlug: como-saber-qual-pagina-do-sistema-esta-sendo-renderizada-no-site
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

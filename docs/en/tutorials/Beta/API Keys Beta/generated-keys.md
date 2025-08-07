@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: generated-keys
-locale: en
 legacySlug: generated-keys-beta
+locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
@@ -23,7 +23,7 @@ Internal API keys are credentials generated in and managed by your VTEX account.
 
 The **Generated** tab lists the API keys created by your account.
 
-![apikeys-en](https://images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/4dc24b7eb344a8b2828466a451995179/apikeys-en.png)
+![apikeys-en](//images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/4dc24b7eb344a8b2828466a451995179/apikeys-en.png)
 
 The page displays the following information in a table:  
 
@@ -51,7 +51,7 @@ Follow the instructions below to create a new API key:
 2. Make sure you are in the **Generated** tab.  
 3. Click `+ Generate Key`.  
 4. Complete the **Key identification** field with a name to identify the API key. This field is required.  
-5. Select the [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that will be associated with the key. By default, no role is pre-selected.  
+5. Select the [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that will be associated with the key. By default, no role is pre-selected.  
 
    <div class="alert alert-error">
      <p>Select only the roles required for the integration that will use the API key. Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.</p>
@@ -117,6 +117,6 @@ To delete an API key permanently, follow the steps below:
 
 ## Learn more
 
-* [API Keys (Beta)](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
-* [Configuring the duration of API keys (Beta)](/en/tutorial/configuring-the-duration-of-the-api-keys--kcGIFysFt02FDuhsfjQwZ)
-* [External keys (Beta)](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)
+* [API Keys (Beta)](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
+* [Configuring the duration of API keys (Beta)](https://help.vtex.com/en/tutorial/configuring-the-duration-of-the-api-keys--kcGIFysFt02FDuhsfjQwZ)
+* [External keys (Beta)](https://help.vtex.com/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)

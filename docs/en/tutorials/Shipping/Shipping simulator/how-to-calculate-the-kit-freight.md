@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: how-to-calculate-the-kit-freight
-locale: en
 legacySlug: how-to-calculate-the-kit-freight
+locale: en
 subcategoryId: 1O8AEORWOcgIiMosGoousQ
 ---
 

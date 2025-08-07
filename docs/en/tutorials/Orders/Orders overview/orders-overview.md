@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: orders-overview
-locale: en
 legacySlug: oms-overview
+locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
@@ -25,10 +25,10 @@ In the **Orders** section, you can view all information regarding the status of 
 
 This section includes the following pages:
 
-- [All Orders](/en/v4/docs/all-orders--6JHeydzIft46VY7JTEpbJT)  
-- [Order Details](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)   
-- [Transactions](/en/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
-- [Bank reconciliation](/en/tutorial/bank-reconciliations--tutorials_453) 
+- [All Orders](https://help.vtex.com/en/v4/docs/all-orders--6JHeydzIft46VY7JTEpbJT)  
+- [Order Details](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)   
+- [Transactions](https://help.vtex.com/en/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
+- [Bank reconciliation](https://help.vtex.com/en/tutorial/bank-reconciliations--tutorials_453) 
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 
@@ -43,9 +43,9 @@ You can only access information from orders created in the last two years, and t
 
 ## Subscriptions
 
-On the VTEX platform, you can create [subscriptions](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453), which means that you can offer your customers the possibility to automatically place recurring orders at a set frequency.
+On the VTEX platform, you can create [subscriptions](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453), which means that you can offer your customers the possibility to automatically place recurring orders at a set frequency.
 
 To manage this feature in your store, this section includes the following pages:  
-- [Dashboards](/en/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
-- [Subscription plans](/en/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
+- [Dashboards](https://help.vtex.com/en/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
+- [Subscription plans](https://help.vtex.com/en/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
 

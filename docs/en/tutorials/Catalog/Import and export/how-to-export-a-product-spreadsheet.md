@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
 slugEN: how-to-export-a-product-spreadsheet
-locale: en
 legacySlug: 
+locale: en
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-On VTEX platform, you can export a spreadsheet with the [products](/en/tutorial/adding-products--tutorials_2567) you have in your store.
+On VTEX platform, you can export a spreadsheet with the [products](https://help.vtex.com/en/tutorial/adding-products--tutorials_2567) you have in your store.
 
 Here's the step-by-step to do so:
 

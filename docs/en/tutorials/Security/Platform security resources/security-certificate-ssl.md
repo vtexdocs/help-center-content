@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: security-certificate-ssl
-locale: en
 legacySlug: hiring-the-security-certificate-sll
+locale: en
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
@@ -19,7 +19,7 @@ The SSL (Secure Socket Layer) is a protocol intended to increase the security of
 
 Whenever you access a safe web page, that is, an Internet page that is protected by an SSL certificate, a key, or a lock, appears on the status bar to indicate that the connection is safe. Traditional certificates require that you click on the key or lock in order to have access to the information of SSL certificate holders.
 
-There is no need to request the purchase of an SSL certificate. VTEX generates an SSL certificate for your store and guarantees its automatic renewal. The certificate is issued via Let's Encrypt and its creation is VTEX's responsibility at [the time of the store's Go-Live](/en/tutorial/configuring-dns-pointing-to-vtex--tutorials_4280).
+There is no need to request the purchase of an SSL certificate. VTEX generates an SSL certificate for your store and guarantees its automatic renewal. The certificate is issued via Let's Encrypt and its creation is VTEX's responsibility at [the time of the store's Go-Live](https://help.vtex.com/en/tutorial/configuring-dns-pointing-to-vtex--tutorials_4280).
 
 <div class="alert alert-warning">
 <p>Some stores may require customized certificates to meet specific compliance or security requirements. The <strong>SSL Certificates</strong> page in the VTEX Admin allows you to install and manage custom certificates. This feature is available only for stores that have opted in and use <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. For more information, see the guide <a href="https://help.vtex.com/en/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q">Custom SSL certificates</a>.</p>

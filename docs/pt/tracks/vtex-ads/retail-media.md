@@ -11,7 +11,7 @@ productTeam: Others
 slugEN: retail-media
 locale: pt
 trackId: 4sZoGHUrBNlaPMrtPCqGvA
-trackSlugPT: vtex-ads
+trackSlugEN: vtex-ads
 ---
 
 Retail Media é a prática de transformar os canais de venda — como sites, aplicativos e lojas físicas — em espaços publicitários estratégicos. Essa abordagem permite que varejistas e marcas veiculem campanhas direcionadas diretamente nos pontos de contato com o consumidor, durante a jornada de compra.
@@ -41,22 +41,22 @@ Com o VTEX Ads, é possível configurar diferentes tipos de campanha para atingi
 
 Os anúncios de produtos patrocinados são o formato mais comum no Retail Media. Os produtos patrocinados são exibidos em posições estratégicas, como resultados de busca e vitrines, com base em palavras-chave e categorias acessadas pelo consumidor. Isso aumenta a visibilidade dos produtos e a taxa de conversão.
 
-![sponsored-products](https://images.ctfassets.net/alneenqid6w5/5XOoqGk9bYhRhjkNqEtFa8/22be2a907dc02e6ef7f1b9e4f1a26140/image2.png)
+![sponsored-products](//images.ctfassets.net/alneenqid6w5/5XOoqGk9bYhRhjkNqEtFa8/22be2a907dc02e6ef7f1b9e4f1a26140/image2.png)
 
 ### Banner/Display
 
 Os banners ou displays são utilizados para promover produtos e promoções específicas, geralmente exibidos em áreas selecionadas do site, como categorias de produtos ou na página inicial. Este formato é focado em destacar promoções de forma visual.
 
-![banner-display](https://images.ctfassets.net/alneenqid6w5/2iruGcyoNWvL6mlFTVYhD2/920c67898c2f33d144ea8f21ed6f38db/image4.png)
+![banner-display](//images.ctfassets.net/alneenqid6w5/2iruGcyoNWvL6mlFTVYhD2/920c67898c2f33d144ea8f21ed6f38db/image4.png)
 
 ### Marcas patrocinadas
 
 Esse formato permite que as marcas posicionem seus anúncios de forma destacada, combinando elementos de banners e produtos patrocinados em uma única experiência de publicidade digital.
 
-![sponsored-brands](https://images.ctfassets.net/alneenqid6w5/5fC7TIDcTHiqKaKIoJURaL/b509474d5847b3c57edd4ba40f37f5f8/image3.png)
+![sponsored-brands](//images.ctfassets.net/alneenqid6w5/5fC7TIDcTHiqKaKIoJURaL/b509474d5847b3c57edd4ba40f37f5f8/image3.png)
 
 ### Tela em loja
 
 Esse tipo de campanha envolve o uso de painéis de LED ou telas LCD em lojas físicas para exibir campanhas e promoções. Esses displays podem ser usados tanto para aumentar o reconhecimento de marca quanto para promover ofertas específicas, com base no comportamento de compra dos consumidores.
 
-![digital-signage](https://images.ctfassets.net/alneenqid6w5/79kodZpNkRAvIaNDGphZmW/b9ae599f84fd823667d473bfe659e250/image1.png)
+![digital-signage](//images.ctfassets.net/alneenqid6w5/79kodZpNkRAvIaNDGphZmW/b9ae599f84fd823667d473bfe659e250/image1.png)

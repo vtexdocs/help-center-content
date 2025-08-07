@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: change-the-store-domain
-locale: en
 legacySlug: how-can-i-change-the-domain-of-my-store
+locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Changing a store [domain](/pt/tutorial/configuring-the-store-domain--tutorials_2450) after the go-live requires careful attention to minimize SEO problems and ensure a seamless transition without impacting the customer experience.
+Changing a store [domain](https://help.vtex.com/pt/tutorial/configuring-the-store-domain--tutorials_2450) after the go-live requires careful attention to minimize SEO problems and ensure a seamless transition without impacting the customer experience.
 
 Learn more about the complete process for changing your domain on VTEX in the following sections:
 
@@ -35,13 +35,13 @@ Before you begin, make sure that:
 
 Follow the steps below to change your domain:
 
-1. Create a new VTEX Admin host by following the instructions in [Registering a new host](/en/tutorial/configuring-the-store-domain--tutorials_2450#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.  
-2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in the [Configure template in SmartCheckout](/tutorial/configure-template-in-smartcheckout-update--ToTE5XB39t0SwtHgpgwSv) article.  
+1. Create a new VTEX Admin host by following the instructions in [Registering a new host](https://help.vtex.com/en/tutorial/configuring-the-store-domain--tutorials_2450#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.  
+2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in the [Configure template in SmartCheckout](https://help.vtex.com/tutorial/configure-template-in-smartcheckout-update--ToTE5XB39t0SwtHgpgwSv) article.  
    This step is essential for the Checkout to keep working after the change.  
-   You must check if the sites configured are associated with the account listed in **Account Settings > Accounts**. See the [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq) article for more details.  
-3. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](/en/support) and request internal pointing, informing them of the new domain. Learn more about [internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing).  
+   You must check if the sites configured are associated with the account listed in **Account Settings > Accounts**. See the [Account management](https://help.vtex.com/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq) article for more details.  
+3. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://help.vtex.com/en/support) and request internal pointing, informing them of the new domain. Learn more about [internal pointing](https://help.vtex.com/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing).  
    Once the ticket has been opened, the support team has up to three business days to analyze the settings and complete the pointing process.  
-4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) guide.
+4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live](https://help.vtex.com/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) guide.
 
 ## Deleting the previous domain
 

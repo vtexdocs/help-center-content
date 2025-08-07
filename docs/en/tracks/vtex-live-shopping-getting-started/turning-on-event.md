@@ -36,20 +36,20 @@ After the **Turn on** switch is enabled, you can close the page if you wish, but
 
 ## Event details
 
-Once the [event is turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), all configurations are enabled for setup and in the **Details** section, you will see the following information:
+Once the [event is turned on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), all configurations are enabled for setup and in the **Details** section, you will see the following information:
 
 | **Field name** | **Description** |
 | :---: | :--- |
 | ID | Event ID, its unique identifier. |
 | Event name | Name of the event. |
-| UTM source | [UTM source](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configured to track the event. |
+| UTM source | [UTM source](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configured to track the event. |
 | Minutes used | Transmission duration minutes in real time. It only starts counting from the moment you start to broadcast the event. |
 | Inbound server | Server code used to connect the event between different VTEX stores or other platforms, such as Facebook and Youtube. |
 | Server key | Server key identification used to connect the event between different VTEX stores or other platforms. |
 
-In this section you can monitor the [event status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below: 
+In this section you can monitor the [event status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below: 
 
-![article_6_turning_on_event_EN](https://images.ctfassets.net/alneenqid6w5/4KAySG2jgc0XilL7edzXl8/348a635360d7696d3077275e555147dc/article_6_turning_on_event_EN.png)
+![article_6_turning_on_event_EN](//images.ctfassets.net/alneenqid6w5/4KAySG2jgc0XilL7edzXl8/348a635360d7696d3077275e555147dc/article_6_turning_on_event_EN.png)
 
 <div class = "alert alert-info">
   <p>After turning on the event, if you don't transmit it and lack interaction with it for more than 90 minutes, the event status will move to <code>Completed</code>, meaning it is finished and can no longer be broadcasted.</p>

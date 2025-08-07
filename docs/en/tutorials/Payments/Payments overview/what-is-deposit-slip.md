@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-deposit-slip
-locale: en
 legacySlug: what-is-deposit-slip
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

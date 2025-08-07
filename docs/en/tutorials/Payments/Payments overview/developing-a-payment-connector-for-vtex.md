@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: developing-a-payment-connector-for-vtex
-locale: en
 legacySlug: developing-a-payment-connector-for-vtex
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-This article is a comprehensive guide for partners looking to develop [payment connectors](/en/tutorial/what-is-the-connector--3lze0Cu0bmyC6u2o2iaeEA) compatible with the VTEX platform. It focuses on enabling efficient, standardized integrations that allow connectors to work seamlessly across all stores on the platform.
+This article is a comprehensive guide for partners looking to develop [payment connectors](https://help.vtex.com/en/tutorial/what-is-the-connector--3lze0Cu0bmyC6u2o2iaeEA) compatible with the VTEX platform. It focuses on enabling efficient, standardized integrations that allow connectors to work seamlessly across all stores on the platform.
 
 By following these guidelines, partners can ensure their integrations meet the highest quality standards, delivering value to both merchants and their customers while fostering innovation and competitiveness in digital commerce.
 
@@ -46,7 +46,7 @@ Partners who want to develop a payment connector on VTEX must implement the foll
 - Settlement (immediate or scheduled).
 - Refund after settlement, if the transaction has already been completed.
 - Asynchronous transaction status notifications (automatic update of payment status on VTEX).
-- Compliance with [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance), certification, if you want to process payment methods such as credit, debit, or [co-branded](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#store-cards-co-branded) cards. If you don't have this certification, you must implement the connector using the [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) solution of VTEX.
+- Compliance with [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance), certification, if you want to process payment methods such as credit, debit, or [co-branded](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#store-cards-co-branded) cards. If you don't have this certification, you must implement the connector using the [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) solution of VTEX.
 - High availability and regional coverage of the connector, in accordance with the provisions set forth in the partnership agreement signed with VTEX.
 - Connector endpoints developed according to best practices for API creation.
 
@@ -111,7 +111,7 @@ See below the characteristics of each available infrastructure option:
 
 - __Real-time event access:__ Uses the [Event Bus](https://medium.com/dev-axe/aws-amazon-eventbridge-event-bus-explained-ad52ec36d185) to track actions performed on the platform.
 
-- __Simplified integration with database as a service:__ Easily connects to services like VBase and [Master data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) to manage application data efficiently.
+- __Simplified integration with database as a service:__ Easily connects to services like VBase and [Master data](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) to manage application data efficiently.
 
 - __No need for PCI-DSS developers:__ Connectors built on VTEX IO use [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) for card data processing, ensuring that the connector doesn't access sensitive information directly. However, the partner organization still needs to be [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance) compliant.
 
@@ -181,7 +181,7 @@ The growing adoption of digital wallets brings more security and convenience to 
 
 #### Support for Google Pay with DPAN (Device Primary Account Number) tokenization
 
-Supporting Google Pay with [DPAN tokenization](/en/tutorial/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow--3RM7RvhKZ057wja5xVEOqb) offers key advantages for both security and user experience:  
+Supporting Google Pay with [DPAN tokenization](https://help.vtex.com/en/tutorial/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow--3RM7RvhKZ057wja5xVEOqb) offers key advantages for both security and user experience:  
 
 - __Greater security:__ Actual card details aren't shared, reducing the risk of fraud.
 - __Less friction in recurring purchases:__ DPANs can be reused for recurring payments without needing to request user details again.
@@ -194,7 +194,7 @@ Support for Google Pay with DPAN is only available through the <a href="https://
 
 #### Support for payments via POS (VTEX Sales App)
 
-Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_sale) in [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) enable [Omnichannel](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) transactions between physical and digital environments. Key benefits include:
+Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_sale) in [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) enable [Omnichannel](https://help.vtex.com/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) transactions between physical and digital environments. Key benefits include:
 
 - __Integration between channels:__ Customers can start a purchase online and complete it in the physical store using the same payment method.
 - __Reduction of operational errors:__Since payment is integrated with VTEX Sales App, there's no need to manually record transactions in the [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
@@ -203,7 +203,7 @@ Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_
 
 #### Support for payout split
 
-Connectors with the [payout split](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx#payout-split) feature allow automatic division of a transaction amount among different recipients — either at the time of authorization or settlement — depending on the provider's configuration. This feature is essential for marketplaces and omnichannel operations.
+Connectors with the [payout split](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx#payout-split) feature allow automatic division of a transaction amount among different recipients — either at the time of authorization or settlement — depending on the provider's configuration. This feature is essential for marketplaces and omnichannel operations.
 
 - __Automated payment distribution__: The transaction amount is automatically split, increasing efficiency and reducing operational risk.
 - __Cost and complexity reduction__: Eliminates manual transfers, lowers administrative costs, and speeds up financial reconciliation.
@@ -211,9 +211,9 @@ Connectors with the [payout split](/en/tutorial/split-de-pagamento--6k5JidhYRUxi
 
 ## Saiba mais
 
-- [VTEX Payment Provider Protocol - Help Center](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m)
+- [VTEX Payment Provider Protocol - Help Center](https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m)
 - [Secure Proxy - Help Center](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy#custom-supported-operators)
-- [VTEX Master Data - Help Center](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw)
+- [VTEX Master Data - Help Center](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw)
 - [Implementing a Payment Provider - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-implementing-a-payment-provider)
 - [Payment Provider Framework - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework)
 - [Split Payouts on Payment Provider Protocol - Dev. Portal](https://developers.vtex.com/docs/guides/split-payouts-on-payment-provider-protocol)

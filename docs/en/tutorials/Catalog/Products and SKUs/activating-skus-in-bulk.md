@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: activating-skus-in-bulk
-locale: en
 legacySlug: activating-bulk-skus
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
@@ -38,7 +38,7 @@ To activate all SKUs using VTEX Admin, follow the steps below:
 
 To activate only a certain group of SKUs, you can use a spreadsheet extracted from the VTEX Admin, as follows:
 
-1. Download the __Products and SKUs__ spreadsheet from the platform. You can find out more details on this by reading [How to export a product spreadsheet](/en/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
+1. Download the __Products and SKUs__ spreadsheet from the platform. You can find out more details on this by reading [How to export a product spreadsheet](https://help.vtex.com/en/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
 2. In the __EnableSKUifPossible__ column, change the status of the SKUs you wish to enable. The field should be filled out with `YES` only.
 3. Save the changes made to the document.
 4. Import the spreadsheet to the platform again. Remember that you import the same way as you export. 

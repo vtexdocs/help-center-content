@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: data-subject-rights
-locale: en
 legacySlug: data-subject-rights
+locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
@@ -41,7 +41,7 @@ When answering an access or portability request, it's important to ensure that y
 
 #### Master Data v1
 
-You can use the [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) or VTEX Admin to access and export customer data stored in the [Master Data v1](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+You can use the [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) or VTEX Admin to access and export customer data stored in the [Master Data v1](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
 
 If you want to use the API, your developers should use the [Master Data v1 search endpoint](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search), searching the customer data (**CL**) and address (**AD**) entities, and any other entity you have configured to get personal information from your customers. Filter the search by customer email.
 
@@ -50,8 +50,8 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data.**
 2. Click the **Applications** tab.
 3. Click the view icon (on the right) of the desired data entity.
-![Master Data view button](https://images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
-4. Use the [Master Data v1 filter](/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
+![Master Data view button](//images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
+4. Use the [Master Data v1 filter](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
 5. Click `Export XLS`.
 6. Select the `Select all fields` option.
 7. If you want, change the email address to which you want to send the report.
@@ -101,7 +101,7 @@ Consent is not required in all situations. Explicit consent is not necessary if 
 
 ### Newsletter subscription
 
-When completing a purchase at VTEX Checkout, your customers can choose to subscribe to your store newsletter. If they wish to unsubscribe later, they can manage their subscription in the [My Account](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) section of your store, under the **Profile** tab. This is a native option for VTEX stores.
+When completing a purchase at VTEX Checkout, your customers can choose to subscribe to your store newsletter. If they wish to unsubscribe later, they can manage their subscription in the [My Account](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) section of your store, under the **Profile** tab. This is a native option for VTEX stores.
 
 In case you need to [adjust the subscription status of a particular customer](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1), your development team can do it directly using the Master Data v1 API.
 
@@ -111,15 +111,15 @@ Learn more about the My Account page and how your developers can<a href="https:/
 
 ### Abandoned cart
 
-The VTEX platform allows you to [set up abandoned cart automation](/en/tutorial/configurar-carrinho-abandonado--tutorials_740). With this feature, you can configure automatic emailing to customers who have visited your store, added products to their cart, and ended the session without making a purchase.
+The VTEX platform allows you to [set up abandoned cart automation](https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740). With this feature, you can configure automatic emailing to customers who have visited your store, added products to their cart, and ended the session without making a purchase.
 
-To ensure that you comply with the right to consent for this specific purpose, you should [set up your abandoned cart automation](/en/tutorial/configurar-carrinho-abandonado--tutorials_740) to send emails only to [store newsletter subscribers](#newsletter-subscription). Customers subscribed to the newsletter have the `isNewsletterOptIn` field set to `true` in the **CL** entity of the [Master Data v1](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+To ensure that you comply with the right to consent for this specific purpose, you should [set up your abandoned cart automation](https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740) to send emails only to [store newsletter subscribers](#newsletter-subscription). Customers subscribed to the newsletter have the `isNewsletterOptIn` field set to `true` in the **CL** entity of the [Master Data v1](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
 
 ### Notify me
 
-The [Notify Me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) option allows people to sign up to receive an email notification when an item they are interested is back in stock.
+The [Notify Me](https://help.vtex.com/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) option allows people to sign up to receive an email notification when an item they are interested is back in stock.
 
-Anyone can manage consent for [Notify Me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) on the page of the product in which they are interested.
+Anyone can manage consent for [Notify Me](https://help.vtex.com/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) on the page of the product in which they are interested.
 
 ### Save profile or payment details at Checkout
 
@@ -135,5 +135,5 @@ Learn more about <a href="https://help.vtex.com/en/tutorial/configurar-carrinho-
 
 The right to erasure allows customers to request that their personal data be erased from the platform.
 
-If any customer requests to erase their data from your store, you can comply by following the [Erasing customer data](/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
+If any customer requests to erase their data from your store, you can comply by following the [Erasing customer data](https://help.vtex.com/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
 

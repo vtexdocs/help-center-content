@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: ab-testing-how-where-when-and-why
-locale: es
 legacySlug: prueba-ab-como-donde-cuando-y-por-que
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

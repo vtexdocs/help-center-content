@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: setting-up-device-fingerprint-for-niubiz
-locale: en
 legacySlug: setting-up-device-fingerprint-for-niubz
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

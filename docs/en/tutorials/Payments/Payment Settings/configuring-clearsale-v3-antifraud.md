@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: configuring-clearsale-v3-antifraud
-locale: en
 legacySlug: configuring-clearsale-v3-antifraud
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with ClearSaleV3 [anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
+At VTEX, it is possible to integrate with ClearSaleV3 [anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
 Para configurar o ClearSaleV3, siga os passos abaixo:
 
 To configure ClearSaleV3, follow the steps below:
@@ -82,7 +82,7 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 
 The value entered in the **Custom SLA in minutes** field when configuring the anti-fraud solution is one of the three possible values for the `customSLA` field. If the cart is empty, the `customSLA` value will be the value of the `shippingEstimate` field for the transaction cart. If the cart has at least one item, the `customSLA` value will be the lowest value between the `deliverySlaInMinutes` value of the first item in the cart and the **Custom SLA in minutes** value used when configuring the anti-fraud solution.
 
-The `shippingEstimate` and `deliverySlaInMinutes` values correspond to the delivery time and are generated at checkout from information in the Logistics module. The calculation of the delivery time is explained in the article [How is the delivery time is calculated?](/en/tutorial/how-is-the-order-delivery-deadline-calculated--1TOuKCIjGQmqOqQkEqCg82).
+The `shippingEstimate` and `deliverySlaInMinutes` values correspond to the delivery time and are generated at checkout from information in the Logistics module. The calculation of the delivery time is explained in the article [How is the delivery time is calculated?](https://help.vtex.com/en/tutorial/how-is-the-order-delivery-deadline-calculated--1TOuKCIjGQmqOqQkEqCg82).
 
 The `shippingEstimate` value is obtained from a calculation made by the Logistics module. The value is followed by a letter, which represents the time unit used. The letters are:
 

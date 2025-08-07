@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: registering-the-skus-barcode-for-vtex-sales-app
-locale: en
 legacySlug: registering-the-skus-barcode-for-instore
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 

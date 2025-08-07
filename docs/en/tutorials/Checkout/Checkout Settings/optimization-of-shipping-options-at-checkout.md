@@ -10,20 +10,20 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: optimization-of-shipping-options-at-checkout
-locale: en
 legacySlug: optimization-of-shipping-options-at-checkout
+locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
 When the customer places an order, the cart may contain products that are in one of the following configurations:
-- Storage in multiple locations ([warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb#) or [loading docks](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj#)).
-- Specific sellers for each selected product, including [sellers white label](/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa#).
-- Shippings made by different [carriers](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE#).
+- Storage in multiple locations ([warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb#) or [loading docks](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj#)).
+- Specific sellers for each selected product, including [sellers white label](https://help.vtex.com/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa#).
+- Shippings made by different [carriers](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE#).
 
 In this context, VTEX Checkout v6 allows you to process different shipping options and combine selected products into packages. This optimization of shipping options (also known as **Lean Shipping**), improves the customer's shopping experience through the following actions:
 - **Reduction of information at Checkout**:
   - More expensive and longer shipping options are not shown to the customer.
-  - Products with different shipping options are automatically organized int [multiple packages](/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), without the need for customer review.   
+  - Products with different shipping options are automatically organized int [multiple packages](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), without the need for customer review.   
 
 - **Faster Checkout**: internal processing of available shipping options, reducing the number of options that have similar costs and shipping times.
 
@@ -53,7 +53,7 @@ To disable the __Optimized Shipping Options__ function, follow the steps below:
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. Under __Optimized Shipping Options__, click the <i class="fas fa-toggle-off"></i> to disable the __Optimize Shipping options display option__.
 
-![Optimized shipping options](https://images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/838428bac6e785ad6472fd87c18f1e1c/Optimized_shipping_options_EN.PNG)
+![Optimized shipping options](//images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/838428bac6e785ad6472fd87c18f1e1c/Optimized_shipping_options_EN.PNG)
 
 <ul>
   5. Click <b>Save</b>.

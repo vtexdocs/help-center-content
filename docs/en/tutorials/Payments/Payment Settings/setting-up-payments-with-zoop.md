@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-zoop
-locale: en
 legacySlug: setting-up-payments-with-zoop
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -34,6 +34,6 @@ To configure Zoop, follow the steps below:
 
 <ui>  7. Click on <b>Save.</b></ui>
 
-To set up payment conditions, access [Configure special payment conditions](/en/tutorial/how-to-configure-payment-conditions).
+To set up payment conditions, access [Configure special payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions).
 
 After following the indicated steps, Zoop connector may take up to 10 minutes to appear at your store's checkout as a payment option.

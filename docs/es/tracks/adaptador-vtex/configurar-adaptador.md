@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: configurar-adaptador
 locale: es
 trackId: 132YFN170Jvs6ZUBGh8w2e
-trackSlugES: adaptador-vtex
+trackSlugEN: adaptador-vtex
 ---
 
 <div class="alert alert-warning">

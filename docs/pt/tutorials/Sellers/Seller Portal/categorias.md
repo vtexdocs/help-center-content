@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: categories
-locale: pt
 legacySlug: categorias-beta
+locale: pt
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
 A página **Categorias** permite visualizar e gerenciar a árvore de categorias cadastradas no Seller Portal. Você pode acessar a página no Admin VTEX em **Catálogo** > **Categorias**.
 
-![categorias-pt](https://images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/8bbda2aa615c249815bae0424ead68c7/categorias-pt.PNG)
+![categorias-pt](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/8bbda2aa615c249815bae0424ead68c7/categorias-pt.PNG)
 
 A partir da árvore de categorias, você pode realizar uma variedade de ações:
 
@@ -71,6 +71,6 @@ Você pode alterar informações de cada categoria clicando no botão <i class="
 
 ### Saiba mais
 
-* [Lista de produtos (Beta)](/pt/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
-* [Como criar um produto (Beta)](/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)
+* [Lista de produtos (Beta)](https://help.vtex.com/pt/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
+* [Como criar um produto (Beta)](https://help.vtex.com/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)
 

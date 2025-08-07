@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: security-incident-response-plan
-locale: en
 legacySlug: security-incident-response-plan
+locale: en
 subcategoryId: vONCJSxwN5qZiElOEtKkH
 ---
 
 VTEX has a structured Security Incident Response Plan designed to minimize risks, mitigate impact, and ensure a swift recovery from security incidents. This plan consists of the following phases: preparation; containment, eradication, and recovery; identification; communication; and post-incident activities.
 
-![security-incident-response-plan-en](https://images.ctfassets.net/alneenqid6w5/3aWjZkJzpF1HoQneetC8Pc/3deed0074b09a03f3b37a30c5979da7a/security-incident-response-plan-en.png)
+![security-incident-response-plan-en](//images.ctfassets.net/alneenqid6w5/3aWjZkJzpF1HoQneetC8Pc/3deed0074b09a03f3b37a30c5979da7a/security-incident-response-plan-en.png)
 
 ## 1. Preparation
 
@@ -60,7 +60,7 @@ The objective is to analyze:
 
 ## Learn more
 
-* [Risk Assessment](/en/tutorial/risk-assessment--4K97IpqkpCpDYsZOSxtfkX) 
+* [Risk Assessment](https://help.vtex.com/en/tutorial/risk-assessment--4K97IpqkpCpDYsZOSxtfkX) 
 * [VTEX Shared Responsibility Model](https://vtex.com/us-en/security/shared-responsibility-model/)
 * [Security Practices - VTEX](https://vtex.com/us-en/security/security-practices/)
 * [Security](https://developers.vtex.com/docs/guides/security)

@@ -11,7 +11,7 @@ productTeam: Others
 slugEN: retail-media-roles
 locale: pt
 trackId: 4sZoGHUrBNlaPMrtPCqGvA
-trackSlugPT: vtex-ads
+trackSlugEN: vtex-ads
 ---
 
 Em uma operação de Retail Media, três papéis principais se destacam: **anunciante**, **publicador** e **agência de marketing**. A seguir, veja o que significa cada um desses papéis e como eles atuam no contexto do VTEX Ads:

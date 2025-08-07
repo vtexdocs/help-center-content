@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: YRJ73j8mt38D5TUleocQB
 slugEN: configuring-seo-in-legacy-cms-portal-stores
-locale: en
 legacySlug: configuring-seo-in-legacy-cms-portal-stores
+locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 ---
 
@@ -32,4 +32,4 @@ The title tag helps define the subject of the page for search engines and direct
   - **Robots.txt:** Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives).
 4. Click `Save`.
 
-![seo-en](https://images.ctfassets.net/alneenqid6w5/32rGRVztX93jJeuIwKf5FI/bc8c0971b1ccdc69a6066afe8198247d/storefront-seo-settings-en.png)
+![seo-en](//images.ctfassets.net/alneenqid6w5/32rGRVztX93jJeuIwKf5FI/bc8c0971b1ccdc69a6066afe8198247d/storefront-seo-settings-en.png)

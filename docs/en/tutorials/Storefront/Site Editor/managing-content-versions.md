@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: managing-content-versions
-locale: en
 legacySlug: managing-content-versions
+locale: en
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
@@ -62,7 +62,7 @@ You can only have one content active at a time. If you activate one content, the
 
 After [creating a new content version in Site Editor](#creating-a-new-content-version), you can schedule the publication of the new version in your store by using the **Visibility** feature.
 
-Please refer to the documentation [Scheduling content updates](/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) to learn how to use the **Visibility** feature.
+Please refer to the documentation [Scheduling content updates](https://help.vtex.com/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) to learn how to use the **Visibility** feature.
 
 ## Deleting versions
 

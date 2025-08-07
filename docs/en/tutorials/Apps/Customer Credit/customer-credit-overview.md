@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
 slugEN: customer-credit-overview
-locale: en
 legacySlug: credit-control-overview
+locale: en
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
@@ -40,7 +40,7 @@ When installed, Customer Credit appears as a payment option at Checkout only for
 
 See below the basic flow of how Customer Credit works in VTEX stores:
 
-![GIF_CC_EN](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
+![GIF_CC_EN](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
 
 ## Customer Credit definitions
 
@@ -88,4 +88,4 @@ If it is necessary to change an order to reduce its value after the settlement p
 
 ## Installation and configuration
 
-To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](https://help.vtex.com/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 523NSmHfn2IKEoiy2Q44YS
 slugEN: how-to-change-the-sku-and-product-relationship
-locale: en
 legacySlug: untitled-entry-2017-07-04-at-05-56-33
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 

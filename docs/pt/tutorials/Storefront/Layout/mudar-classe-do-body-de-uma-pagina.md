@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: changing-a-pages-body-class
-locale: pt
 legacySlug: mudar-classe-do-body-de-uma-pagina
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

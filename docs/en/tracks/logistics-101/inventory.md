@@ -14,7 +14,7 @@ trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---
 
-Inventory is the feature for managing products available for sale. Once [products have been added](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) to the [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), they must be listed in a warehouse to become available for sale. The [Inventory management](/en/tutorial/managing-stock-items--tutorials_139) module is where catalog items are associated with a warehouse.
+Inventory is the feature for managing products available for sale. Once [products have been added](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) to the [catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), they must be listed in a warehouse to become available for sale. The [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) module is where catalog items are associated with a warehouse.
 
 <div class = "alert alert-info">
 Remember to add at least one <a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">warehouse</a> in your store before using the <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">Inventory</a>. 
@@ -25,11 +25,11 @@ In the inventory, retailers can see:
 * Item availability
 * The warehouse in which the item is stored
 * Item update history
-* [Reserved](/en/tutorial/how-does-reservation-work--tutorials_92) items
+* [Reserved](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92) items
 
-To add items in bulk to the inventory, use the inventory template to import them. Learn more in the article [Importing and exporting an inventory spreadsheet](/en/tutorial/importing-and-exporting-an-inventory-spreadsheet--tutorials_2034).
+To add items in bulk to the inventory, use the inventory template to import them. Learn more in the article [Importing and exporting an inventory spreadsheet](https://help.vtex.com/en/tutorial/importing-and-exporting-an-inventory-spreadsheet--tutorials_2034).
 
-Use the [critical inventory level alert](/en/tutorial/setting-up-the-critical-stock-alert--6FD0GHeQPCsKIMgkQ88SGu) to receive notifications when an item is almost out of stock.
+Use the [critical inventory level alert](https://help.vtex.com/en/tutorial/setting-up-the-critical-stock-alert--6FD0GHeQPCsKIMgkQ88SGu) to receive notifications when an item is almost out of stock.
 
 <div class = "alert alert-info">
 You can also set up your inventory via the <a href="https://developers.vtex.com/vtex-rest-api/reference/inventory"> Inventory API.</a>
@@ -37,6 +37,6 @@ You can also set up your inventory via the <a href="https://developers.vtex.com/
 
 ### Learn more
 
-* [Inventory management](/en/tutorial/managing-stock-items--tutorials_139)
-* [Inventory update history](/en/tutorial/inventory-update-history--5AM7xbmMzmKSEQewakamc2)
-* [Updating the quantity of items in inventory](/en/tutorial/updating-the-quantity-of-items-in-inventory--2MDwYV1COA6YuoiY22AyGo)
+* [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139)
+* [Inventory update history](https://help.vtex.com/en/tutorial/inventory-update-history--5AM7xbmMzmKSEQewakamc2)
+* [Updating the quantity of items in inventory](https://help.vtex.com/en/tutorial/updating-the-quantity-of-items-in-inventory--2MDwYV1COA6YuoiY22AyGo)

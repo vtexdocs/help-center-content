@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-do-reversals-work-when-an-item-is-returned
-locale: en
 legacySlug: how-do-reversals-work-when-an-item-is-returned
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

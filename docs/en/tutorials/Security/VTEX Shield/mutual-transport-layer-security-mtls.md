@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: mutual-transport-layer-security-mtls
-locale: en
 legacySlug: mutual-transport-layer-security-mtls
+locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
@@ -27,7 +27,7 @@ subcategoryId: jrgbOxKaOW0kdZs7rdgvS
   </p>
 </div>
 
-In system integrations, especially when exchanging sensitive information or controlling business operations, it's essential to ensure that both ends of the communication are secure. mTLS is a feature of [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) that adds an advanced layer of security to integrations between external systems and VTEX.
+In system integrations, especially when exchanging sensitive information or controlling business operations, it's essential to ensure that both ends of the communication are secure. mTLS is a feature of [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) that adds an advanced layer of security to integrations between external systems and VTEX.
 
 ## Key concepts
 
@@ -54,7 +54,7 @@ With mTLS, only trusted systems can communicate with each other. This reinforces
 
 The diagram below represents the mutual authentication flow using mTLS, where client and server validate each other's identity before any data is exchanged:
 
-![mtls-en](https://images.ctfassets.net/alneenqid6w5/29oPGzHDD0YSQGFMDmPfQo/295074d85d3532fe0edb18e90558a3d2/screencapture-mermaid-live-view-2025-05-21-20_10_20.png)
+![mtls-en](//images.ctfassets.net/alneenqid6w5/29oPGzHDD0YSQGFMDmPfQo/295074d85d3532fe0edb18e90558a3d2/screencapture-mermaid-live-view-2025-05-21-20_10_20.png)
 
 1. The client initiates a connection to the server.  
 2. The server presents its TLS certificate.  
@@ -137,7 +137,7 @@ mTLS can be implemented across all systems or in specific integrations, offering
 
 ## Learn more
 
-* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
 * [mTLS API](https://developers.vtex.com/docs/api-reference/mtls-api#overview)
 * [Implementing Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/implementing-mtls)
 * [Revoking SSL private certificates when using Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/revoking-ssl-private-certificates-when-using-mtls)

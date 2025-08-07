@@ -11,7 +11,7 @@ productTeam: Identity
 slugEN: what-is-the-master-user
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: contas-e-permissoes
+trackSlugEN: contas-e-permissoes
 ---
 
 Para a plataforma VTEX, o **usuário Titular** é o principal responsável pela loja. Ele é o usuário da loja com maior poder para tomar ações, inclusive ações críticas.
@@ -26,7 +26,7 @@ Se seu usuário tem perfil de acesso ao módulo Gerenciamento da conta, você po
 
 Ao clicar na loja desejada, o nome e o e-mail do usuário Titular encontram-se na seção __Contato__.
 
-![usuario-master-contato pt](https://images.ctfassets.net/alneenqid6w5/HuUChkUJYyg2wi0gqua6c/015b91c77fd19f159117db66298c79aa/contato_usuario_master.png)
+![usuario-master-contato pt](//images.ctfassets.net/alneenqid6w5/HuUChkUJYyg2wi0gqua6c/015b91c77fd19f159117db66298c79aa/contato_usuario_master.png)
 
 Entre as ações que somente o usuário Titular pode tomar, estão:
 - Reindexar o catálogo.

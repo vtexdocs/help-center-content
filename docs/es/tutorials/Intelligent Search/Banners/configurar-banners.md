@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-banners
-locale: es
 legacySlug: configurar-banners
+locale: es
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
 ---
 
@@ -29,7 +29,7 @@ Después de configurar el banner, debes agregarlo a una página de tu tienda. Pa
 <p> Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo <a href="https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners">VTEX Intelligent Search: configuración Multidioma (Beta)</a>para saber más.</p>
 </div>
 
-![banner-form-es](https://images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
+![banner-form-es](//images.ctfassets.net/alneenqid6w5/4eY6elSTbPcVvjQHuxOhdu/ae3e6e5ffd311ad1c25e3cd7104bc874/image.png)
 
 ## Campos de registro del banner
 
@@ -52,7 +52,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 * **Hora de inicio:** hora en la que el banner comenzará a estar disponible.
 * **Fecha de fin:** fecha en la que el banner dejará de estar disponible. Esto permite al administrador programar futuras campañas, lo que facilita su control.
 * **Hora de fin:** hora en la que el banner dejará de estar disponible.
-* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Reglas de activación
 
@@ -60,7 +60,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 
 Haz clic en <i class="fa-solid fa-link"></i> `Autocompletar desde URL` para agregar la URL de la página de búsqueda donde se aplicarán las reglas de activación.
 
-![banner-url-es](https://images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/c7c8d7edfb83b4bb4f1e829b4aa50dc9/image.png)
+![banner-url-es](//images.ctfassets.net/alneenqid6w5/2ldGnmahkPao4EbISls3gu/c7c8d7edfb83b4bb4f1e829b4aa50dc9/image.png)
 
 Haz clic en <i class="fas fa-plus"></i> `Agregar condición` para crear una regla. Pueden ser de los siguientes tipos:
 

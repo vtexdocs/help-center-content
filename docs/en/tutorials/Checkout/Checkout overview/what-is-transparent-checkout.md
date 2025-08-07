@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-transparent-checkout
-locale: en
 legacySlug: what-is-transparent-checkout
+locale: en
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
 ---
 
@@ -19,7 +19,7 @@ Depending on the payment condition that the user chooses when making a purchase,
 
 The problem is that, at a time so critical to sales conversion as checkout, an extra step can be decisive for user decision making. Enters the __transparent checkout__, which eliminates the need for an extra step, making the shopping experience more fluid.
 
-[Mercado Pago Transparente](/en/tutorial/como-configurar-o-mercado-pago-transparente-no-modulo-pagamentos--tutorials_4570), [Paypal Plus](/en/tutorial/setting-up-paypal-plus) and [Moip](/en/tutorial/setting-up-the-moip-sub-acquirer) are examples of solutions that allow the user to enter the payment data and finalize the purchase without leaving your store. Among its main advantages are the usability and credibility gain for your business and the increase of up to 30% in conversions.
+[Mercado Pago Transparente](https://help.vtex.com/en/tutorial/como-configurar-o-mercado-pago-transparente-no-modulo-pagamentos--tutorials_4570), [Paypal Plus](/en/tutorial/setting-up-paypal-plus) and [Moip](/en/tutorial/setting-up-the-moip-sub-acquirer) are examples of solutions that allow the user to enter the payment data and finalize the purchase without leaving your store. Among its main advantages are the usability and credibility gain for your business and the increase of up to 30% in conversions.
 
 ### Related articles
 - [How to configure Mercado Pago Transparente in the PCI module?](/en/tutorial/how-to-configure-mercado-pago-transparente-in-the-pci-module)

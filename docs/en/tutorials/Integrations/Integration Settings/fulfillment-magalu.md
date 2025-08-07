@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: fulfillment-magalu
-locale: en
 legacySlug: fulfillment-magalu
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

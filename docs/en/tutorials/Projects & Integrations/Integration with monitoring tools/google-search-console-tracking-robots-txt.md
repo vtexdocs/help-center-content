@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: google-search-console-tracking-robots-txt
-locale: en
 legacySlug: google-search-console-tracking-robots-txt
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

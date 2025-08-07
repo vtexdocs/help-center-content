@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slugEN: setting-up-price-and-availability-of-skus-by-region
-locale: pt
 legacySlug: configurar-preco-e-disponibilidade-de-skus-por-region
+locale: pt
 subcategoryId: dajK0sARX2c0MISKKoGoc
 ---
 
@@ -20,7 +20,7 @@ A feature de __Region__ permite que os items de uma loja (SKUs), sejam exibidos 
 Para regionalizar os preços e disponibilidades dos SKUs, é necessário:
 
 1. Configurar a feature de Region, conforme descrito no guia [Enable the Region for SKUs](https://developers.vtex.com/docs/guides/enable-the-region-for-skus).
-2. [Sellers White Label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#) realizem entregas de pedidos feitos em sua loja para determinadas faixas de CEP.
+2. [Sellers White Label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#) realizem entregas de pedidos feitos em sua loja para determinadas faixas de CEP.
 3. A sessão do usuário navegando na loja contenha as informações sobre o seu CEP e país de origem.
 
 <div class="alert alert-info">
@@ -37,16 +37,16 @@ A feature <b>Region</b> funciona tanto para lojas CMS Portal Legado quanto lojas
 
 ## Configurar a entrega na Conta Franquia/Seller White Label
 
-O preço e a disponibilidade dos SKUs em cada região serão exibidos na loja principal de acordo com a sua configuração de entrega (faixas de CEPs indicada). A informação dos CEPs é cadastrada nas transportadoras da [Conta Franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) que atua como Seller White Label da loja.
+O preço e a disponibilidade dos SKUs em cada região serão exibidos na loja principal de acordo com a sua configuração de entrega (faixas de CEPs indicada). A informação dos CEPs é cadastrada nas transportadoras da [Conta Franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) que atua como Seller White Label da loja.
 
 Para configurar a entrega, siga os passos abaixo:
 
 1. Acesse o Admin da __Conta Franquia__ que atua como Seller White Label da sua loja.
 2. Em __Envio__, clique em **Estratégia de Envio**.
-3. Em __Políticas de envio__, clique no botão `Criar Política de Envio` para cadastrar uma [transportadora](/pt/tutorial/gerenciar-transportadora#). Os CEPs atendidos por esta transportadora serão levados em consideração para exibir o preço e a disponibilidade por região na loja principal
-4. Cadastre uma [doca](/pt/tutorial/how-to-register-a-dock#).
-5. Cadastre um [estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#).
-6. [Adicione estoque aos SKUs](/pt/tutorial/managing-stock-items) que serão entregues pela rota configurada.
+3. Em __Políticas de envio__, clique no botão `Criar Política de Envio` para cadastrar uma [transportadora](https://help.vtex.com/pt/tutorial/gerenciar-transportadora#). Os CEPs atendidos por esta transportadora serão levados em consideração para exibir o preço e a disponibilidade por região na loja principal
+4. Cadastre uma [doca](https://help.vtex.com/pt/tutorial/how-to-register-a-dock#).
+5. Cadastre um [estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#).
+6. [Adicione estoque aos SKUs](https://help.vtex.com/pt/tutorial/managing-stock-items) que serão entregues pela rota configurada.
 
 <div class="alert alert-info">
 Para um SKU aparecer como disponível para venda, é necessário que ele tenha estoque e preço associados a ele.

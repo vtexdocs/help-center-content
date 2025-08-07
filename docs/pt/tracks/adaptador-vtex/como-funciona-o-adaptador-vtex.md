@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: como-funciona-o-adaptador-vtex
 locale: pt
 trackId: 132YFN170Jvs6ZUBGh8w2e
-trackSlugPT: adaptador-vtex
+trackSlugEN: adaptador-vtex
 ---
 
 O Adaptador VTEX foi criado para clientes que já possuem integração do ERP com a plataforma de ecommerce CIASHOP. Utilizando o adaptador, o ERP deixará de enviar as informações para a CIASHOP e passará a enviá-las para a VTEX, mantendo a compatibilidade das integrações construídas.
@@ -33,7 +33,7 @@ Para facilitar o entendimento, organizamos o documento em tópicos:
 
 Por meio da tabela abaixo, você pode verificar o que a integração do adaptador contempla:
 
-![image-adaptador-2](https://images.ctfassets.net/alneenqid6w5/4TsEw3tXkfK0IEAZlcRzwR/b9dc7e117331beacf34577442c69da0c/Group_1_9_.png)
+![image-adaptador-2](//images.ctfassets.net/alneenqid6w5/4TsEw3tXkfK0IEAZlcRzwR/b9dc7e117331beacf34577442c69da0c/Group_1_9_.png)
 
 <div class="alert alert-warning">
   <p>Para integração via WEBSERVICE, os pedidos na VTEX serão coletados quando estiverem com pagamento aprovado, no status <b>Pronto-para-manuseio</b>.</p>

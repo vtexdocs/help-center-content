@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Others
 author: YRJ73j8mt38D5TUleocQB
 slugEN: configuring-seo-via-headless-cms
-locale: es
 legacySlug: configurar-seo-a-traves-de-headless-cms
+locale: es
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
 SEO (Search Engine Optimization) es una de las estrategias más importantes para que tu sitio web obtenga buenas posiciones orgánicas en las páginas de resultados de los buscadores.
 
-En tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides/faststore), puedes gestionar la configuración de SEO a través de [Headless CMS](/es/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09).
+En tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides/faststore), puedes gestionar la configuración de SEO a través de [Headless CMS](https://help.vtex.com/es/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09).
 
 <div class = "alert alert-info">Para tiendas desarrolladas con Store Framework, consulta <a href="https://help.vtex.com/es/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR">Configurar SEO en la tienda Store Framework</a>.</div>
 

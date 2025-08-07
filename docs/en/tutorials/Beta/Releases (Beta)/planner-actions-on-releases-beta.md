@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: planner-actions-on-releases-beta
-locale: en
 legacySlug: planner-actions-on-releases-beta
+locale: en
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
@@ -19,16 +19,16 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
   <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
 </div>
 
-The **Releases** module allows you to manage [releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
+The **Releases** module allows you to manage [releases](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
 
-In the **Releases**, you can view all the information about releases, follow the [status of the releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and perform a series of actions. In this article, we will present you those actions and how to perform them.
+In the **Releases**, you can view all the information about releases, follow the [status of the releases](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and perform a series of actions. In this article, we will present you those actions and how to perform them.
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you’ll find the following pages:
 
-* [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Calendar](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
 
-Each page displays a view of the releases and allows you to perform different actions depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). The main actions are:
+Each page displays a view of the releases and allows you to perform different actions depending on the [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). The main actions are:
 
 * [Create a release](#create-a-release)
 * [Search for a release](#search-for-a-release)
@@ -44,7 +44,7 @@ Each page displays a view of the releases and allows you to perform different ac
 
 To create a release through the **Releases**, follow these steps:
 
-1. In the [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) or [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on `Create Release`.
+1. In the [Calendar](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) or [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on `Create Release`.
 2. Fill in the **Name** field with a name for the release.
 3. In **Publish date**, choose a date to publish the release (optional).
 4. In **Time**, choose the time of the publication (optional).
@@ -52,28 +52,28 @@ To create a release through the **Releases**, follow these steps:
 
   > The following confirmation message will appear: _The release was created and scheduled_.
 
-When you create a release, it is not mandatory to define the **Publish date** and **Time** because you can create a release with the `Unscheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and it can be [Scheduled](#schedule) afterwards.
+When you create a release, it is not mandatory to define the **Publish date** and **Time** because you can create a release with the `Unscheduled` [status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and it can be [Scheduled](#schedule) afterwards.
 
 ## Search for release
 
 In the **Releases** page, you can search for releases using different tools:
 
 * **Search bar:** Enter the name of the release you want to find. 
-* **Filters**: To filter by [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), click on `Filters`, then use the `All statuses` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date, click use the `All periods` <i class="fas fa-angle-down"></i> to choose the desired date.
+* **Filters**: To filter by [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), click on `Filters`, then use the `All statuses` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date, click use the `All periods` <i class="fas fa-angle-down"></i> to choose the desired date.
 
 ## Schedule, reschedule or unschedule a release
 
 There are three possible actions you can perform when you set the publication date:
 
 * [Schedule](#schedule): Define a publication date for the release when there is no one.
-* [Unschedule](#unschedule): Cancel a publication date, which will move the release to the `Unscheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases).
+* [Unschedule](#unschedule): Cancel a publication date, which will move the release to the `Unscheduled` [status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases).
 * [Reschedule](#reschedule): Define a new date for a release that already had a set date.
 
 ### Schedule
 
 To schedule a release with the `Unscheduled` status, follow these steps:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Choose the <i class="fal fa-calendar"></i> `Schedule` option.
 3. In **Publish date**, choose a date to publish the release.
 4. In **Time**, choose the time of the publication.
@@ -91,13 +91,13 @@ When the release is in the `Scheduled` status, you can reschedule it. The steps 
 
 To unschedule a release and move it to the `Unscheduled` status, follow these steps:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Choose the <i class="fal fa-calendar"></i> `Unschedule` option.
 3. Click on the `Unschedule` button.
 
 ## Publish a release
 
-In order to publish a release, it needs to be in one of the following [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases):
+In order to publish a release, it needs to be in one of the following [status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases):
 
 * `Unscheduled`
 * `Scheduled`
@@ -105,13 +105,13 @@ In order to publish a release, it needs to be in one of the following [status](/
 
 In order to publish a release and make the changes available in the storefront of your store, follow these step-by-step instructions:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Click on <i class="far fa-cloud-upload"></i> `Publish Now.`
 3. Click on `Publish.`
 
 ## Delete a release
 
-A release can be deleted in every [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), i.e., it can be deleted permanently.
+A release can be deleted in every [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), i.e., it can be deleted permanently.
 
 <div class="alert alert-info">
   <p>If instead of deleting a release you want to archive it, you should unpublish it so that it is not deleted and you can republish it at any time.</p>
@@ -121,12 +121,12 @@ When you delete a release in the `Published` status, its changes remain in the s
 
 To delete a release, follow these step-by-step instructions:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Click on <i class="far fa-trash-alt"></i> `Delete`.
 3. Click on `Delete` again.
 
 ## Learn more
 
-* [Releases: Release concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: Release concept](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
+* [Releases: Calendar page](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Releases: Releases page](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)

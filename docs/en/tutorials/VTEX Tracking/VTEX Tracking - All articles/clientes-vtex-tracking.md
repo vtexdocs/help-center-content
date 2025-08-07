@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: clientes-vtex-tracking
-locale: en
 legacySlug: clientes-vtex-tracking
+locale: en
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 

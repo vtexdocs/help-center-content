@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: progressive-discount
-locale: en
 legacySlug: progressive-discount
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 Progressive Discount is a feature that allows you to create promotions with increasing discount percentages as the customer adds more products to the cart. This strategy is perfect for boosting larger purchases and rewarding the customer with benefits based on the number of items purchased.
 
-![Desconto Progressivo gift-EN](https://images.ctfassets.net/alneenqid6w5/5bWDJyWkKBJaoER9XPBkEq/7e19eeb9823179a8930cc20e3d0a62e4/Desconto_Progressivo-EN.gif)
+![Desconto Progressivo gift-EN](//images.ctfassets.net/alneenqid6w5/5bWDJyWkKBJaoER9XPBkEq/7e19eeb9823179a8930cc20e3d0a62e4/Desconto_Progressivo-EN.gif)
 
 To configure the **Progressive Discount** promotion, you need to complete the following steps:
 
@@ -40,16 +40,16 @@ Segue a tabela convertida para o formato Markdown, substituindo as células vazi
 | Field                          | Description                                                                                                                                                                                                                                                                                    | Example                                   |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | **Name**                       | Enter a clear and objective name that reflects the purpose of the promotion, making it easy for customers to identify it (up to 150 characters).                                                                                                                                               | Summer Clearance.                         |
-| **Status**                     | Define whether the promotion will be Active or Inactive. Configure as `<i class="fas fa-toggle-on" aria-hidden="true"></i>` to apply the promotion based on the configured dates and times. Set as `<i class="fas fa-toggle-off" aria-hidden="true"></i>` to pause it, even if it is within the defined period. | ![Habilitar Promotions- EN](https://images.ctfassets.net/alneenqid6w5/53JRRDwnwqYZHkAvXDHZ4q/3f76ac889196c32d02639e71bc3937d3/Habilitar_Promotions-_EN.png) ![Desabilitar Promotions-EN](https://images.ctfassets.net/alneenqid6w5/3kMog54wFdkBKNgBOped6G/39d4b4b39ea2f4262325476d53a0fd81/Desabilitar_Promotions-EN.png)                                |
+| **Status**                     | Define whether the promotion will be Active or Inactive. Configure as `<i class="fas fa-toggle-on" aria-hidden="true"></i>` to apply the promotion based on the configured dates and times. Set as `<i class="fas fa-toggle-off" aria-hidden="true"></i>` to pause it, even if it is within the defined period. | ![Habilitar Promotions- EN](//images.ctfassets.net/alneenqid6w5/53JRRDwnwqYZHkAvXDHZ4q/3f76ac889196c32d02639e71bc3937d3/Habilitar_Promotions-_EN.png) ![Desabilitar Promotions-EN](//images.ctfassets.net/alneenqid6w5/3kMog54wFdkBKNgBOped6G/39d4b4b39ea2f4262325476d53a0fd81/Desabilitar_Promotions-EN.png)                                |
 | **Description**                | The internal promotion description should be used to record information for internal communication (up to 10,000 characters). This field is used to specify the purpose of the promotion, such as a specific campaign or clearance.                                                            | Promotion for clearing summer collection items. |
-| **Start date and time**        | Select the date and time the promotion will start, ensuring that it is activated when you want it to. Make sure date and time align with campaign planning to maximize effectiveness.                                                                                                         | ![Data e horario de inicio da Promotions-EN](https://images.ctfassets.net/alneenqid6w5/5gTtMgL4HlIDqOLXr0GlkR/5f616c9cd72f92aca617da1d3a52eceb/Data_e_horario_de_inicio_da_Promotions-EN.png)                                          |
-| **End date and time**          | Define the expiration date of the promotion by setting the date and time it will be automatically deactivated.                                                                                                                                                                                 |  ![Data de termino e horario da Promotions-EN](https://images.ctfassets.net/alneenqid6w5/47LXgLL2EnmPdeB7HBDAlc/f3572e0e51e30efa09e3c139b544c317/Data_de_termino_e_horario_da_Promotions-EN.png)                                |
-| **Use recurrence settings**    | Select this option to schedule the promotion to repeat automatically on specific days and times. Set the desired ranges to ensure recurrence as scheduled.                                                                                                                                     | ![Usar recorrencia Promotions-EN](https://images.ctfassets.net/alneenqid6w5/45x0h14pQOrpBu6RacEheI/72ba9f5a8f2ec41b30ccee985d50dc7f/Usar_recorrencia_Promotions-EN.png)                                |
+| **Start date and time**        | Select the date and time the promotion will start, ensuring that it is activated when you want it to. Make sure date and time align with campaign planning to maximize effectiveness.                                                                                                         | ![Data e horario de inicio da Promotions-EN](//images.ctfassets.net/alneenqid6w5/5gTtMgL4HlIDqOLXr0GlkR/5f616c9cd72f92aca617da1d3a52eceb/Data_e_horario_de_inicio_da_Promotions-EN.png)                                          |
+| **End date and time**          | Define the expiration date of the promotion by setting the date and time it will be automatically deactivated.                                                                                                                                                                                 |  ![Data de termino e horario da Promotions-EN](//images.ctfassets.net/alneenqid6w5/47LXgLL2EnmPdeB7HBDAlc/f3572e0e51e30efa09e3c139b544c317/Data_de_termino_e_horario_da_Promotions-EN.png)                                |
+| **Use recurrence settings**    | Select this option to schedule the promotion to repeat automatically on specific days and times. Set the desired ranges to ensure recurrence as scheduled.                                                                                                                                     | ![Usar recorrencia Promotions-EN](//images.ctfassets.net/alneenqid6w5/45x0h14pQOrpBu6RacEheI/72ba9f5a8f2ec41b30ccee985d50dc7f/Usar_recorrencia_Promotions-EN.png)                                |
 
 ### Sellers
 In the right-hand corner of the page, in the **Sellers,** section, define the sellers that the promotion should apply to.
 
-![Seller-EN](https://images.ctfassets.net/alneenqid6w5/cOayrbcrmuwe2BfyUMOGS/4434bdf930beb8b41c10121b949fd634/Seller-EN.png)
+![Seller-EN](//images.ctfassets.net/alneenqid6w5/cOayrbcrmuwe2BfyUMOGS/4434bdf930beb8b41c10121b949fd634/Seller-EN.png)
 
 Select one of the following options for applying the promotion:
 
@@ -58,7 +58,7 @@ Select one of the following options for applying the promotion:
 - **Different from:** Define the sellers that will not be affected by this promotion. After selecting "Different from", you can choose the sellers you don't want to include in the campaign. All other sellers will be included.
 
 ### Trade policies
-In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](/pt/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
+In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](https://help.vtex.com/pt/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
 
 You can choose from the following options:
 
@@ -66,24 +66,24 @@ You can choose from the following options:
 - **Equal to**: This option allows you to determine the policies that will apply to the products eligible for the discount.
 - **Different from:** This option removes specific policies, ensuring the discount is not applied to products that use those business rules.
 
-![Politica comercial-EN](https://images.ctfassets.net/alneenqid6w5/2pa7FR8lrDdSJt7cdZl48b/ca16106afc16cd7a6d09bad8e19da028/Politica_comercial-EN.png)
+![Politica comercial-EN](//images.ctfassets.net/alneenqid6w5/2pa7FR8lrDdSJt7cdZl48b/ca16106afc16cd7a6d09bad8e19da028/Politica_comercial-EN.png)
 
 ## Set the conditions for the Progressive Discount promotion
 Determine the conditions and discount percentages to be applied. See the available conditions below:
 
 - **SKUs:** Select the SKUs that the progressive discount will apply to. This option restricts the promotion to products associated with the selected SKUs.
-- **Collections:** Select the product [collections](/en/tutorial/criando-colecao-de-produtos--tutorials_244) that the progressive discount will apply to. This option allows you to apply the promotion to a group of predefined products.
+- **Collections:** Select the product [collections](https://help.vtex.com/en/tutorial/criando-colecao-de-produtos--tutorials_244) that the progressive discount will apply to. This option allows you to apply the promotion to a group of predefined products.
 - **Must be the same item:** This option restricts the discount to products that are the same. For example, if you add different SKUs from the same collection, the promotion won't be applied. The rule only checks the quantity of the single SKU in the cart.
 - **Discount:** Set the discount percentage applied when the minimum quantity of items defined is reached. You can create up to 10 progressive discount ranges.
 - **Add range:** Configure additional progressive discount levels. For example, you can define a 5% discount with a quantity of 10, and an increase to 10% when the quantity reaches 20. The maximum number of configurable ranges is 10.
 
-![Desconto Promotions-EN](https://images.ctfassets.net/alneenqid6w5/3SznyBALv0e59SC2J2XMvH/9113b3422de0b767abb41a0c8121e91e/Desconto_Promotions-EN.png)
+![Desconto Promotions-EN](//images.ctfassets.net/alneenqid6w5/3SznyBALv0e59SC2J2XMvH/9113b3422de0b767abb41a0c8121e91e/Desconto_Promotions-EN.png)
 
 ## Setting conditions for applying the promotion
 Conditions allow the promotion to activate under specific circumstances based on the selected criteria. To add a condition, follow the instructions below:
 
 - **Card BIN:** Apply this promotion when using cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a TXT or CSV file, with each BIN on a separate row.
-- **Customer cluster:** select an already created [customer cluster](/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the field=value or field contains value format. Select one of the following options:
+- **Customer cluster:** select an already created [customer cluster](https://help.vtex.com/en/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the field=value or field contains value format. Select one of the following options:
     - **All of the following:** Apply the promotion only if all cluster criteria are met.
     - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
 - **Shipping location:** Apply the promotion based on the shipping address associated with the order. Conditions can be configured using the following criteria:
@@ -93,9 +93,9 @@ Conditions allow the promotion to activate under specific circumstances based on
         - **Configure the postal code ranges:** Complete the "From" and "To" fields with the desired postal codes.
         - **Add multiple ranges:** Use the + Add range option to include add ranges as necessary.
 
-![Local de entrega-EN](https://images.ctfassets.net/alneenqid6w5/2Hv9G5dZovZhdCoqFF75oy/26951daaa32e130f4ca5dda78fd630af/CEP_Promotions-EN.png)        
+![Local de entrega-EN](//images.ctfassets.net/alneenqid6w5/2Hv9G5dZovZhdCoqFF75oy/26951daaa32e130f4ca5dda78fd630af/CEP_Promotions-EN.png)        
 
-- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.
+- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](https://help.vtex.com/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.
 
  <div class = "alert alert-info">
 Using these parameters is optional and allows you to apply discounts to specific campaigns.

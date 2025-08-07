@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: registering-geolocation
-locale: en
 legacySlug: registering-geolocation
+locale: en
 subcategoryId: 5ckGPo3O5OG4AESKucmAaS
 ---
 
@@ -63,7 +63,7 @@ Done! Now just use this same ID in the freight spreadsheet, at the **PolygonNam
 <div class="alert alert-warning">It is important to note that, if you use geolocation, therefore filling in the <b>PolygonName</b> column of the <a href="https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127">shipping rate template</a>, the carrier will not use the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> columns, which must be filled in with <code>0</code>.
 </div>
 
-On the [Checkout tab](/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
+On the [Checkout tab](https://help.vtex.com/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 
 Please also enable all Google Cloud Platform APIs to ensure that the key works:
 

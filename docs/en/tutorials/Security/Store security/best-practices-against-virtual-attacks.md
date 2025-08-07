@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: best-practices-against-virtual-attacks
-locale: en
 legacySlug: best-practices-against-virtual-attacks
+locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
@@ -31,7 +31,7 @@ VTEX offers different protections against possible attacks on stores. Still, the
 
 Anti-fraud systems specialize in analyzing ecommerce purchases to identify fraudulent transactions. They analyze customers' behavioral data and prevent suspicious purchases from being made.
 
-Learn more about [anti-fraud systems](/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG) and how to use them on VTEX.
+Learn more about [anti-fraud systems](https://help.vtex.com/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG) and how to use them on VTEX.
 
 <div class="alert alert-warning">
   <p>To increase security, set up your anti-fraud solution for all the payment methods available in your store.</p>
@@ -39,16 +39,16 @@ Learn more about [anti-fraud systems](/en/tutorial/what-is-anti-fraud--69SjFCc4r
 
 ## Protection against transaction attacks
 
-To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC#) below, click the button and login into the Admin panel.
+To access the documentation on this topic, insert your VTEX [account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC#) below, click the button and login into the Admin panel.
 <iframe src="https://help.vtex.com/insertaccountname?id=62oQBmi7UZlYlgb0Ha1hZ3" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
 ## reCAPTCHA v3 at Checkout
 
 reCAPTCHA is a user verification solution for orders paid by credit or debit card. It prevents the use of malware for fraudulent purposes.
 
-We recommend using [reCAPTCHA v3](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), which uses a quality score instead of pop-up validation and is, therefore, harder to circumvent in such scenarios.
+We recommend using [reCAPTCHA v3](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), which uses a quality score instead of pop-up validation and is, therefore, harder to circumvent in such scenarios.
 
-Learn more about how to set up this verification at your store's checkout in the article [reCAPTCHA at checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3). To implement reCAPTCHA V3 in a VTEX store, see the [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score) developer's guide.
+Learn more about how to set up this verification at your store's checkout in the article [reCAPTCHA at checkout](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3). To implement reCAPTCHA V3 in a VTEX store, see the [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score) developer's guide.
 
 <div class = "alert alert-info">
 reCAPTCHA verification is enabled by default when store customers go through the steps of <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh#credit-cards">adding credit cards</a>, without having to be configured by the store.
@@ -56,7 +56,7 @@ reCAPTCHA verification is enabled by default when store customers go through the
 
 ## orderForm settings
 
-To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) below, click the button and login into the Admin panel.
+To access the documentation on this topic, insert your VTEX [account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) below, click the button and login into the Admin panel.
 
 <iframe src="https://help.vtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
@@ -69,5 +69,5 @@ To perform this configuration:
 1. Go to **Account settings** > **Authentication**.
 2. Disable the **password** field.
 
-Learn more about how to [manage authentication methods](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) for your store.
+Learn more about how to [manage authentication methods](https://help.vtex.com/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) for your store.
 

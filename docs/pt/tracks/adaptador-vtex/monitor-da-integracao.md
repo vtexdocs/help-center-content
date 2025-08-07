@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: monitor-da-integracao
 locale: pt
 trackId: 132YFN170Jvs6ZUBGh8w2e
-trackSlugPT: adaptador-vtex
+trackSlugEN: adaptador-vtex
 ---
 
 ## Conceito de lote e registros

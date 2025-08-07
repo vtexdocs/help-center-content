@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: payment-refunds
-locale: en
 legacySlug: payment-refunds
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

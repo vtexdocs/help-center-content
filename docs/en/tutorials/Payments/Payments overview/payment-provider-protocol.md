@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 4PrB9ACaQ8S0oO4wOmOuUu
 slugEN: payment-provider-protocol
-locale: en
 legacySlug: payment-provider-protocol
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
@@ -89,13 +89,13 @@ Before setting up the VTEX environment, the provider must implement the back-end
 In some cases, connectors can be built for a specific solution. The references below will help you identify such cases:
 
 - [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): Solution for implementing connectors through VTEX IO from a boilerplate, which already comes with most of the work done, including the protocol endpoints. VTEX IO also speeds up the development process and in-store testing.
-- [Payment Provider Protocol POS payments](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): PPP application for payments in physical stores using a payment terminal (POS), which can be used with credit and debit cards. The payment flow starts with a purchase made on [inStore](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc), then communication is established with the POS, where the customer inserts the card.
+- [Payment Provider Protocol POS payments](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): PPP application for payments in physical stores using a payment terminal (POS), which can be used with credit and debit cards. The payment flow starts with a purchase made on [inStore](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc), then communication is established with the POS, where the customer inserts the card.
 
 ### 3. Payment Provider Homologation 
 
 After getting access information and implementing the backend, the provider has to install the Payment Provider Test Suite app to access the testing tool. The installation is done through the VTEX App Store.
 
-![ppp-vtex-store-en](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/ea2026578b79d3c5edd33c997b62efa9/image.png)
+![ppp-vtex-store-en](//images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/ea2026578b79d3c5edd33c997b62efa9/image.png)
 
 <div class="alert alert-warning">
 <p>To pass the homologation process, you need to implement specific logic to handle the test requirements. When sending requests to Test Suite, use the extra header <code>X-VTEX-API-Is-TestSuite = true</code> to identify them and mask any required case.<br><br>All communication with servers, whether during the homologation process or in production, must be via HTTPS, which by default uses port 443. Note that all HTTPS communication must be exclusively over TLS 1.2.
@@ -118,7 +118,7 @@ Then, you will find a form with three sections: Service information, Payment met
 </p>
 </div>
 
-![Payment Provider Test Suite 0](https://images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
+![Payment Provider Test Suite 0](//images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
 
 #### Payment method
 
@@ -128,7 +128,7 @@ After completing the Service URL field, Test Suite will validate the[ Manifest e
 
 In this section, you need to select the cases you want to test. If you are testing a credit card method, your integration must pass the Approved, Denied, Cancellation, Async Approved, and Async Denied cases. Only the Redirect flow is required for a payment method with [redirect](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows#redirect).
 
-![ppp-config-en](https://images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/d49d66d80caa61f70720395a5dfca49b/image.png)
+![ppp-config-en](//images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/d49d66d80caa61f70720395a5dfca49b/image.png)
 
 ### 4. Testing
 
@@ -159,18 +159,18 @@ Use the following numbers to identify how to correctly respond to each credit ca
 
 After running the tests, the system will display the Test Report, where you can see the detailed results of each test case. This way, you can have more visibility into what should be adjusted if an error occurs.
 
-![Payment Provider Test Suite 2_EN](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/ee1f759bf436aa38fff080f561ce4eb7/Payment_Provider_Test_Suite_2_EN.JPG)
+![Payment Provider Test Suite 2_EN](//images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/ee1f759bf436aa38fff080f561ce4eb7/Payment_Provider_Test_Suite_2_EN.JPG)
 
 To see the messages exchanged between Test Suite and the payment provider implementation, click the Inspect Log button for the test case you want. A modal will open showing the message list and the payload of each request and response. The button in the upper right corner allows you to copy the code to the clipboard.
 
-![Payment Provider Test Suite Logs_EN](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/87c2ba89961c5bf5a73532ea073b4083/Payment_Provider_Test_Suite_Logs_en.JPG)
+![Payment Provider Test Suite Logs_EN](//images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/87c2ba89961c5bf5a73532ea073b4083/Payment_Provider_Test_Suite_Logs_en.JPG)
 
 ## Payment protocol flow
 Here we explain the integrated payment stream in detail. The image below illustrates the entire flow, showing VTEX Payments and the responsibilities of your supplier.
 
 It all starts with requesting a new payment after the creation of a new order. VTEX creates a new payment representation and proceeds to the payments processing.
 
-![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
+![fluxo-atualizado-ppp](//images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 <div class="alert alert-info">
   The default period of 7 days for asynchronous payment retries is only applied when the user does not specify a value in the <code>delayToCancel</code> field of the <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a> endpoint or when sending the callbackURL.</div>
@@ -191,7 +191,7 @@ In any case, once the processing is completed and the provider has a final statu
 
 The complete flow with __undefined__ status and use of notification can be seen below:
 
-![Payment authorization callback notification flow](https://images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/a72be587d650da053ecbe220a5daa642/image1.png)
+![Payment authorization callback notification flow](//images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/a72be587d650da053ecbe220a5daa642/image1.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL to send the notification.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.
@@ -200,7 +200,7 @@ The complete flow with __undefined__ status and use of notification can be seen 
 
 The complete flow with __undefined__ status and use of __retry__ can be seen below:
 
-![Payment authorization callback retry flow](https://images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/3f43bcbf5d48a9c459b553ca6ad7b216/image2.png)
+![Payment authorization callback retry flow](//images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/3f43bcbf5d48a9c459b553ca6ad7b216/image2.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL of the retry endpoint.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.
@@ -218,7 +218,7 @@ This URL has some query parameters, including the `X-VTEX-signature`. This param
 https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0F111111122222333344449984ACB/payments/A2A9A25B11111111222222333327883C/callback?accountName=teampaymentsintegrations&X-VTEX-signature=R123456789aBcDeFGHij1234567890tk
 ```
 
-In the [Transactions page of the Admin](/en/tutorial/how-to-view-the-orders-details--tutorials_452), the signature token appears masked for security reasons, as in this example: `X-VTEX-signature=Rj******tk`.
+In the [Transactions page of the Admin](https://help.vtex.com/en/tutorial/how-to-view-the-orders-details--tutorials_452), the signature token appears masked for security reasons, as in this example: `X-VTEX-signature=Rj******tk`.
 
 See below an example of a payload forwarded along with the callback URL:
 

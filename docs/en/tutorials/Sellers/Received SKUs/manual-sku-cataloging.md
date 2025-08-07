@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: manual-sku-cataloging
-locale: en
 legacySlug: approving-suggestions-for-skus
+locale: en
 subcategoryId: 4hU8QWlzhxWg711Kz7Gmib
 ---
 
@@ -21,7 +21,7 @@ The received SKUs page allows the marketplace to view, prioritize, and catalog t
 - Link them to existing SKUs.
 - Link them to existing products.
 
-Cataloging can be done using [one or more matchers](/en/tutorial/understanding-vtex-matcher-scoring?locale=en), both manually and automatically. There is also the possibility to use external tools to do it.
+Cataloging can be done using [one or more matchers](https://help.vtex.com/en/tutorial/understanding-vtex-matcher-scoring?locale=en), both manually and automatically. There is also the possibility to use external tools to do it.
 
 # Prioritizing cataloging 
 

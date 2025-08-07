@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: set-up-alelo-payment-method-for-cielo-v3
-locale: en
 legacySlug: set-up-alelo-payment-method-for-cielo-v3
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -21,13 +21,13 @@ This article will cover how to enable the Alelo grocery voucher card as a paymen
 <strong>Warning</strong>: The Alelo grocery voucher card is a payment method valid only in Brazil.
 </div>
 
-For the time being, on the VTEX platform, the payment acquirer Cielo is the only one to accept Alelo as a payment  method. The first step must therefore be to enable this payment acquirer as a gateway affiliation in your store. You can check out our full tutorial on these configuration steps [here](/en/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=en "here"). 
+For the time being, on the VTEX platform, the payment acquirer Cielo is the only one to accept Alelo as a payment  method. The first step must therefore be to enable this payment acquirer as a gateway affiliation in your store. You can check out our full tutorial on these configuration steps [here](https://help.vtex.com/en/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=en "here"). 
 
 After completing the step above, you can configure Alelo as a payment method in itself. 
 
 As with any payment method, configuring Alelo also allows you to add special conditions. However, these are optional and not adding them will not hinder the proper functioning of the voucher card. 
 
-For more details, you can check out our tutorial on [how to configure each of the special payment conditions](/en/tutorial/condicoes-especiais--tutorials_456?locale=en "how to configure each of the special payment conditions"). 
+For more details, you can check out our tutorial on [how to configure each of the special payment conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=en "how to configure each of the special payment conditions"). 
 
 Follow the instructions below:
 

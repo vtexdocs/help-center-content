@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Apps
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: assembly-options-app
-locale: en
 legacySlug: assembly-options-app
+locale: en
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 <p>This app is only available for stores developed using<a href="https://vtex.com/br-pt/store-framework/"> VTEX IO</a>. Before proceeding, you need to <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">install and configure Product Customizer</a> in your store.</p>
 </div>
 
-Product customization options are available at VTEX when using [Assembly Options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
+Product customization options are available at VTEX when using [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
 
 As an alternative to implementing Assembly Options through Catalog attachments, the [Assembly Options app](https://apps.vtex.com/vtex-admin-assembly-options/p) provides an interface to configure and manage customization options in stores using [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
@@ -37,15 +37,15 @@ After installation, the **Catalog > Assembly Options** page will become availabl
 
 In the VTEX Admin, go to **Catalog > Assembly Options** to access a list with all the assembly options available in your store.
 
-![assembly-options-app-en](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
+![assembly-options-app-en](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
 
 Below, you will find the information displayed in the list:
 
-* **ID:** Shows the assembly option ID, which is the same as the [attachment](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) ID in the **Catalog**.
+* **ID:** Shows the assembly option ID, which is the same as the [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) ID in the **Catalog**.
 * **Name:** Indicates the name of the assembly option's attachment.
 * **Required:** If it is marked with a <i class="far fa-check-circle"></i>, this column indicates that the assembly option attachment is required. If this field is empty, no action is needed.
 * **Status:** It indicates the assembly option status, which can be either:
-    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
     * **Inactive**: The customization options are inactive; therefore, they cannot be chosen.
 * **Menu** <i class="fas fa-ellipsis-v"></i>: It shows the options available:
     * <i class="far fa-pencil"></i> **Edit**: Provides access to the edit page of the assembly option.
@@ -89,5 +89,5 @@ When you save an assembly option, an attachment is automatically created in **Ca
 
 ## Learn more
 
-* [Assembly Options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
-* [What is an Attachment?](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm)
+* [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
+* [What is an Attachment?](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm)

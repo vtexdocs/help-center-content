@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: thszKx2EVIuqw0seVYsHK
 slugEN: inserting-images-into-let-me-know-email
-locale: en
 legacySlug: untitled-entry-2019-02-21-at-07-52-16
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_35
 slugEN: why-dont-cookies-support-special-characters
-locale: en
 legacySlug: why-dont-cookies-support-special-characters
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

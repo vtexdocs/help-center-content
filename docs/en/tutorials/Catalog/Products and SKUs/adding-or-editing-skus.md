@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: adding-or-editing-skus
-locale: en
 legacySlug: adding-skus-beta
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-The [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+The [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
 
 Every new SKU must be linked to a product. Once the product is created, follow the steps below to add a new SKU:
 
@@ -48,11 +48,11 @@ You can create a new SKU from an existing one within a product. To do this, on t
 You can deactivate a SKU after creating it, but you can't delete a single SKU. The platform only allows bulk deletion of products and SKUs via <a href="https://help.vtex.com/en/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802">Database Maintenance (Full Cleanup)</a>.
 </div>
 
-After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
+After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_EN](https://images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/aca29dd7ec61b60ebb321b68444ea1dc/adding_or_editting_sku_EN.png)
+![adding_or_editting_sku_EN](//images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/aca29dd7ec61b60ebb321b68444ea1dc/adding_or_editting_sku_EN.png)
 
-Additionally, once the SKU is created, you can include it in a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
+Additionally, once the SKU is created, you can include it in a [bundle](https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
 
 See the following sections for details about the form fields and instructions on how to complete them.
 
@@ -65,7 +65,7 @@ See the following sections for details about the form fields and instructions on
 The first section of the form includes the name and status of the SKU:
 
 * <b>Name*:</b> Enter the SKU name, which identifies the product variation. The name is limited to 200 characters. Example: For the product "Refrigerator", the SKU name could be "28.6-Cu".
-* **Active:** To activate the SKU, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. If the SKU remains unavailable for sale after activation, check the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Active:** To activate the SKU, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. If the SKU remains unavailable for sale after activation, check the article [Why is the product not visible on the website?](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ## Specifications
 
@@ -153,17 +153,17 @@ The fields in this section refer to the codes that identify the SKU:
 
 ## Logistics
 
-These are the SKU fields related to [logistics](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP):
+These are the SKU fields related to [logistics](https://help.vtex.com/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP):
 
 ## Modal (optional)
 
-[Modal](/en/tutorial/como-funciona-o-modal--tutorials_125) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo. 
+[Modal](https://help.vtex.com/en/tutorial/como-funciona-o-modal--tutorials_125) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo. 
 
-When previously created, modal options for the SKU will be displayed in a list, allowing you to select a single option. To learn more, see the article [Setting up modal for carriers](/en/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
+When previously created, modal options for the SKU will be displayed in a list, allowing you to select a single option. To learn more, see the article [Setting up modal for carriers](https://help.vtex.com/en/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
 ### Shipping weight and dimensions
 
-The following fields are used to [calculate the cubic weight factor](/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) of the SKU and refer to the package used for its transportation:
+The following fields are used to [calculate the cubic weight factor](https://help.vtex.com/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) of the SKU and refer to the package used for its transportation:
 
 * **Package weight:** Absolute weight value.
 * **Package width:** Absolute width value.
@@ -185,7 +185,7 @@ The fields below correspond to the actual dimensions of the product — the same
 
 ### Inventory unit
 
-The following fields define how the SKU will be organized and counted in the [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
+The following fields define how the SKU will be organized and counted in the [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
 
 * **Unit of measure:** Identifies the unit of measure used to count items in stock.
 * **Unit multiplier:** Numeric value by which the SKU will be multiplied to determine its quantity in the cart. For example, a multiplier of 5 means that each SKU represents 5 units in the cart, allowing purchases only in multiples of 5, such as 10 or 15 units. Fractional values can be separated by either a period or a comma. For example, 0.5 or 0,5 for half a kilogram.
@@ -198,14 +198,14 @@ The following fields define how the SKU will be organized and counted in the [wa
 
 This section includes fields related to the store's sales strategies:
 
-* **Commercial condition:** Defines the promotions or [payment conditions](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
-* **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) to customers.
-* **Generate credit with gift card:** When enabled, specifies that the sale of the SKU will generate a [gift card](/en/tutorial/gift-card--tutorials_995) credit to the customer.
+* **Commercial condition:** Defines the promotions or [payment conditions](https://help.vtex.com/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](https://help.vtex.com/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
+* **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) to customers.
+* **Generate credit with gift card:** When enabled, specifies that the sale of the SKU will generate a [gift card](https://help.vtex.com/en/tutorial/gift-card--tutorials_995) credit to the customer.
 * **Loyalty amount**: Determines the credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases.
 
 ## Customizations
 
-SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) and [services](/en/tutorial/o-que-e-um-servico).
+SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) and [services](https://help.vtex.com/en/tutorial/o-que-e-um-servico).
 
 To link a customization to a SKU, click the add + icon, select the desired option, and follow these steps:
 
@@ -218,7 +218,7 @@ The attachment and service options for the SKU must be configured in advance. Fo
 
 ## Cross-sells and up-sells
 
-This section allows the store to configure [cross-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
+This section allows the store to configure [cross-selling](https://help.vtex.com/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](https://help.vtex.com/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
 
 Below are the possible types of items you can associate with the SKU.
 
@@ -246,8 +246,8 @@ For more information, see the article <a href="https://help.vtex.com/en/tutorial
 
 ## Learn more
 
-* [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
-* [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
-* [Catalog: Overview](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
-* [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
+* [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
+* [Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
+* [Catalog: Overview](https://help.vtex.com/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
 

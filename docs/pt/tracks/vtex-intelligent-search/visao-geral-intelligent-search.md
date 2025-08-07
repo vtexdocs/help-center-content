@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: overview-intelligent-search
 locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
-trackSlugPT: vtex-intelligent-search
+trackSlugEN: vtex-intelligent-search
 ---
 
 O Intelligent Search é uma ferramenta de busca inteligente nativa da VTEX, projetada para melhorar a experiência de compra no comércio digital. Ele apoia os clientes durante toda a jornada de compra, independentemente do canal utilizado (website, aplicativo móvel, conversacional, entre outros).
@@ -34,5 +34,5 @@ Antes de começar a utilizar o Intelligent Search, confira se sua loja atende ao
     <p>O requisito acima não se aplica a cenários de implementação headless, em que a tecnologia de frontend não é oferecida pela VTEX. Nesses casos, é necessário implementar o envio dos eventos de busca. Obtenha mais detalhes em <a href="https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless">VTEX Intelligent Search Events API - Headless</a>.</p>
   </div>
 
-* A loja deve ter [produtos e SKUs cadastrados no Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e ativos.
+* A loja deve ter [produtos e SKUs cadastrados no Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e ativos.
 

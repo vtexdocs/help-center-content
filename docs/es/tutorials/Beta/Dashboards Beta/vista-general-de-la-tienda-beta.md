@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: store-overview-beta
-locale: es
 legacySlug: vista-general-de-la-tienda-beta
+locale: es
 subcategoryId: QPnz120TdtLcXSh65c4Gs
 ---
 
@@ -23,7 +23,7 @@ La página Vista general (Beta) de tu Admin VTEX proporciona un seguimiento en t
 
 Esta herramienta está disponible en el Admin VTEX, en la página de inicio. Para acceder, haz clic en **Dashboards > Vista general** en el menú de navegación, o escribe _Vista general_ en la barra de búsqueda de la parte superior de la página.
 
-![ES Visão geral beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/5b97a2cf1346f1c95fc32512c95da972/ES_Visa__o_geral_beta.png)
+![ES Visão geral beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/5b97a2cf1346f1c95fc32512c95da972/ES_Visa__o_geral_beta.png)
 
 En este artículo, presentamos las principales secciones y acciones presentes en la página. Aquí verás más información sobre:
 
@@ -78,7 +78,7 @@ Si deseas analizar los resultados de campañas, promociones o lanzamientos de nu
 3. Selecciona la [vista](#vista) `Acumulado`.
 4. Haz un seguimiento de las métricas hora a hora.
 
-![ES Visão geral beta acumulado](https://images.ctfassets.net/alneenqid6w5/44wg1PRlF5WHD5I6R5Cu8o/610b38ec888e48078998c5f51a9ade4e/ES_Visa__o_geral_beta_acumulado.png)
+![ES Visão geral beta acumulado](//images.ctfassets.net/alneenqid6w5/44wg1PRlF5WHD5I6R5Cu8o/610b38ec888e48078998c5f51a9ade4e/ES_Visa__o_geral_beta_acumulado.png)
 
 ### Monitorear impactos de cambios en la tienda
 
@@ -91,7 +91,7 @@ Si deseas ver el impacto de los cambios realizados en tu tienda, para identifica
 3. Evalúa el pulso en las métricas, o puntos de inflexión en el gráfico, que se han producido en las dos últimas horas. 
 4. Compara los horarios de los puntos de inflexión con los cambios generados para identificar su causa e impacto. 
 
-![ES Visão geral beta ultimas duas horas](https://images.ctfassets.net/alneenqid6w5/6JA6a85eBz6dMN5Cg1EAQi/e0cd80f9405e7736ee1c53ada5c8f97c/ES_Visa__o_geral_beta_ultimas_duas_horas.png)
+![ES Visão geral beta ultimas duas horas](//images.ctfassets.net/alneenqid6w5/6JA6a85eBz6dMN5Cg1EAQi/e0cd80f9405e7736ee1c53ada5c8f97c/ES_Visa__o_geral_beta_ultimas_duas_horas.png)
 
 ## Comparar periodos
 
@@ -134,7 +134,7 @@ La siguiente tabla describe los gráficos incluidos en la sección _Monitoreo_ d
 
 ## Métricas
 
-![ES Visão geral beta metricas](https://images.ctfassets.net/alneenqid6w5/6kxOvmmLfGYnhFiBvOtrOV/91ced2dd646ee9cdc9c1869f523ad1fd/ES_Visa__o_geral_beta_metricas.png)
+![ES Visão geral beta metricas](//images.ctfassets.net/alneenqid6w5/6kxOvmmLfGYnhFiBvOtrOV/91ced2dd646ee9cdc9c1869f523ad1fd/ES_Visa__o_geral_beta_metricas.png)
 
 La siguiente tabla describe las métricas disponibles en el panel de la página de inicio. Todas las métricas se refieren a flujos de compra realizados en tiendas VTEX en el periodo seleccionado.
 

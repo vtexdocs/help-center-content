@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: intelligent-search-hybrid-search-beta
-locale: es
 legacySlug: intelligent-search-busca-hibrida-beta
+locale: es
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 

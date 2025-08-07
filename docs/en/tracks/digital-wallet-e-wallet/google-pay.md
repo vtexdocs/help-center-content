@@ -33,7 +33,7 @@ To enable Google Pay, follow the steps below.
 <p>The card brands supported by the Google Pay extension are the ones configured in the payment conditions.</p>
 </div>
 
-![google-pay-checkout-en](https://images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
+![google-pay-checkout-en](//images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
@@ -43,8 +43,8 @@ Google Pay will then be available in your VTEX store's checkout as a new payment
 
 To use Google Pay, you must meet the following requirements:
 
-* Having at least one active [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
-* Using [VTEX Checkout](/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
+* Having at least one active [payment condition](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
+* Using [VTEX Checkout](https://help.vtex.com/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
 
 <div class = "alert alert-warning">
 <p>For stores that have the <a href="https://help.vtex.com/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa">3DS</a> authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to <a href="https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2">Setting up 3DS 2 authentication flow</a>.</p>
@@ -56,13 +56,13 @@ To use Google Pay, you must meet the following requirements:
 
 ## Viewing transactions completed with Google Pay
 
-To view transactions that have been completed with Google Pay, please follow the steps described in the article [Viewing transaction details](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). In the search bar of the transactions page, type **Google Pay** to filter the transactions carried out with this type of payment.
+To view transactions that have been completed with Google Pay, please follow the steps described in the article [Viewing transaction details](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). In the search bar of the transactions page, type **Google Pay** to filter the transactions carried out with this type of payment.
 
-![Google Pay Transaction_1](https://images.ctfassets.net/alneenqid6w5/3N6LkrdAmAEfmDDsuLaWz5/e1521f4f47aff56a64d808f2f450ce38/Google_Pay_Transaction1_EN.png)
+![Google Pay Transaction_1](//images.ctfassets.net/alneenqid6w5/3N6LkrdAmAEfmDDsuLaWz5/e1521f4f47aff56a64d808f2f450ce38/Google_Pay_Transaction1_EN.png)
 
 After accessing the desired transaction, click on `+ Information` to verify the **Google Pay** information described in the `paymentOrigin` field.
 
-![Google Pay Transaction_2](https://images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/a565b60f7ca5f541c836553140261985/Google_Pay_Transaction2_EN.png)
+![Google Pay Transaction_2](//images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/a565b60f7ca5f541c836553140261985/Google_Pay_Transaction2_EN.png)
 
 <div class="alert alert-warning">
   <p>It is also possible to identify transactions made with Google Pay through the <b>All Orders</b> page in Admin. You just need to select the desired search period, <a href="https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu">export the orders</a> in a report in .csv and locate the Google Pay information in the "payment origin" field.</p>
@@ -93,7 +93,7 @@ If you get the message "You don't have any networks enabled for Google Pay in yo
 
 * The toggle switch is enabled, but it is not possible to finish the process
 
-If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](/en/support).
+If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](https://help.vtex.com/en/support).
 
 ### Issues that may occur during the purchase process
 
@@ -107,5 +107,5 @@ If a store has no card payment rules configured, the user will see an error mess
 
 ### Learn more
 
-* [DPAN and FPAN: Understanding security in the online tokenized payment flow](/en/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb)
+* [DPAN and FPAN: Understanding security in the online tokenized payment flow](https://help.vtex.com/en/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb)
 

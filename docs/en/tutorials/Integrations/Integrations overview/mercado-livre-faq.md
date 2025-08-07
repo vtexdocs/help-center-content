@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slugEN: mercado-livre-faq
-locale: en
 legacySlug: mercado-livre-faq
+locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 

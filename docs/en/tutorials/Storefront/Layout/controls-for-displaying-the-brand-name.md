@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: controls-for-displaying-the-brand-name
-locale: en
 legacySlug: controls-for-displaying-the-brand-name
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

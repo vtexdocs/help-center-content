@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: managing-delivery-capacity
-locale: en
 legacySlug: managing-delivery-capacity
+locale: en
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 ---
 
 You can track the availability of delivery windows and the number of items/orders that can still be placed in each delivery window on the **Delivery capacity** page. 
 
-To manage your **Delivery capacity**, you must previously configure your [shipping policies](/en/tutorial/politica-de-envio--tutorials_140) and enable [scheduled deliveries](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi). 
+To manage your **Delivery capacity**, you must previously configure your [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) and enable [scheduled deliveries](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi). 
 
 <div class="alert alert-warning">
 For <a href="https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Scheduled delivery</a> and <a href="https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Delivery capacity</a> to perform correctly, you must follow the rules below:<p><ul><li>The result from {<a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in <a href="https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">shipping policy IDs</a>.</li></ul></p>

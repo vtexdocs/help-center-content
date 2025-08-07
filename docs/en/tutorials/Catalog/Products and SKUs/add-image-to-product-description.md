@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: add-image-to-product-description
-locale: en
 legacySlug: add-image-to-product-description
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
@@ -20,5 +20,5 @@ It is possible to insert images in the __Product description__ field. This image
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click on __All products__.
 3. Go to the desired product and click `Update`.
-4. In the __Product Description__ field, insert the HTML tag with the reference [URL of the image](/en/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368).
+4. In the __Product Description__ field, insert the HTML tag with the reference [URL of the image](https://help.vtex.com/en/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368).
 5. Click `Save`.

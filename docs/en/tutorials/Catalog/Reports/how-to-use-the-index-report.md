@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slugEN: how-to-use-the-index-report
-locale: en
 legacySlug: how-to-use-the-index-report
+locale: en
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
 The **Index Report** shows the indexing status of all products of the store. 
 
-![Indexingreport](https://images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
+![Indexingreport](//images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
 
 <div class="alert alert-info">
 <strong>Notice:</strong> For more information, access <a href="/en/tutorial/understanding-how-indexation-works">Understanding the operation of the indexation.</a>

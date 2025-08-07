@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
-locale: en
 legacySlug: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
+locale: en
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 

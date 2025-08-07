@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: configuring-payment-with-tino
-locale: en
 legacySlug: configuring-payment-with-tino
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

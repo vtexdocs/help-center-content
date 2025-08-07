@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: lista-da-vez
-locale: en
 legacySlug: lista-da-vez
+locale: en
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: managing-users-in-b2b-organizations
-locale: en
 legacySlug: managing-users-in-b2b-organizations
+locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 

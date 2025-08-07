@@ -3,15 +3,15 @@ title: 'Orders Data Pipeline '
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2024-09-13T17:49:49.921Z
-publishedAt: 2024-09-13T17:49:49.921Z
+updatedAt: 2025-07-31T21:50:11.564Z
+publishedAt: 2025-07-31T21:50:11.564Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: orders
-locale: en
 legacySlug: orders
+locale: en
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
@@ -35,6 +35,9 @@ This section includes the following information:
 - [Table: orders_payments](#table-orders_payments)
 - [Table: orders_packages](#table-orders_packages)
 - [Table: orders_items](#table-orders_items)
+- [Table: orders_extra_info](#table-orders-extra-info)
+- [Table: orders_custom_fields](#table-orders-custom-fields)
+- [Table: orders_custom_apps](#table-orders-custom-apps)
 - [Analyses with order data](#analyses-with-order-data)
 - [Correlations with other data](#correlations-with-other-data)
 
@@ -42,8 +45,8 @@ This section includes the following information:
 
 |**Characteristic**|**Description**|
 | - | - |
-|**Data source**|The data of the order set come from the [OMS (Order Management System)](/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).|
-|**Availability**|Order data can be accessed through the [Orders report](/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) in the VTEX Admin and also through the[ Orders APIs](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset.|
+|**Data source**|The data of the order set come from the [OMS (Order Management System)](https://help.vtex.com/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).|
+|**Availability**|Order data can be accessed through the [Orders report](https://help.vtex.com/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) in the VTEX Admin and also through the[ Orders APIs](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Keep in mind that the data available through the API may not be structured exactly the same way as it is in the Data Pipeline dataset.|
 |**History**|The data is retained for two years, from 2022 for clients who already use the VTEX platform.|
 |**Minimum update interval**|One hour.|
 
@@ -347,6 +350,60 @@ The *items* table stores details about the individual items in each order, inclu
 |unitmultiplier|double precision|Unit multiplier for the product, used in price and quantity calculations.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|
 
+## Table: `orders_extra_info`
+
+Stores general order information recorded in the OMS system, including creation and update timestamps, client identification, order items, custom data, change attachments, and batch control.  
+
+| Column name                         | Column type               | Column description                                                                                     |
+|-------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------|
+| orderid                             | character varying(255)     | Unique identifier of the order in the OMS system. Used as a linking key with other order tables.       |
+| hostname                            | character varying(255)     | Hostname where the order was created. Used together with orderid as a linking key.                     |
+| creationdate                        | timestamp with time zone   | Date and time when the order was created in the OMS system.                                            |
+| lastchange                          | timestamp with time zone   | Date and time of the last modification made to the order.                                              |
+| clientprofiledata_corporatename    | character varying(65535)   | Corporate name of the client when it's a B2B sale or legal entity.                                     |
+| clientprofiledata_corporatedocument| character varying(65535)   | Corporate document of the client (CNPJ/Tax ID) when it's a B2B sale or legal entity.                   |
+| clientprofiledata_iscorporate      | boolean                    | Boolean flag indicating whether the order is from a corporate client (legal entity) or individual.     |
+| items                               | super                      | JSON structure (SUPER) containing detailed information about order items.                              |
+| customdata_customapps              | super                      | JSON structure (SUPER) containing custom data from specific applications associated with the order.    |
+| customdata_customfields            | super                      | JSON structure (SUPER) containing additional custom fields configured for the order.                   |
+| changesattachment_id               | character varying(65535)   | Unique identifier of attachments related to changes made to the order.                                 |
+| changesattachment_changesdata      | super                      | JSON structure (SUPER) with detailed data about changes and attachments associated with the order.     |
+| batch_id                            | character varying(13)      | Processing batch identifier used for data ingestion and update control.                                |
+| changesattachment_href             | character varying(65535)   | URL or reference to the attachment related to changes made to the order.                               |
+| has_change_v2                       | boolean                    | Boolean flag indicating whether the order has changes in the new version (v2) of the attachment.       |
+
+## Table: `orders_custom_fields`
+
+Stores custom fields configured for orders in the OMS. Includes the type and value of each field, linked to specific entities such as orders or items, enabling flexible data modeling.
+
+| Column name        | Column type               | Column description                                                                 |
+|--------------------|---------------------------|-------------------------------------------------------------------------------------|
+| orderid            | character varying(255)     | Unique identifier of the order in the OMS system. Used as a linking key.           |
+| hostname           | character varying(255)     | Host/account name where the order was created.                                     |
+| creationdate       | timestamp with time zone   | Date and time when the order was created in the OMS system.                        |
+| lastchange         | timestamp with time zone   | Date and time of the last modification made to the order.                          |
+| linked_entity_id   | character varying(65535)   | Unique identifier of the entity the custom field is linked to.                     |
+| linked_entity_type | character varying(65535)   | Type of the entity that the custom field is linked to (e.g., order, item, etc.).   |
+| field_key          | character varying(65535)   | The property name/key from the custom fields JSON object.                          |
+| field_value        | character varying(65535)   | The property value corresponding to the field_key.                                 |
+| batch_id           | character varying(13)      | Processing batch identifier used for data ingestion and update control.            |
+
+### Table: `orders_custom_apps`
+
+Records custom data from specific applications integrated with the order. Each entry represents an application field with its version, key, and value, enabling tracking of OMS custom extensions.
+
+| Column name     | Column type               | Column description                                                                 |
+|------------------|---------------------------|-------------------------------------------------------------------------------------|
+| orderid          | character varying(255)     | Unique identifier of the order in the OMS system. Used as a linking key.           |
+| hostname         | character varying(255)     | Host/account name where the order was created.                                     |
+| creationdate     | timestamp with time zone   | Date and time when the order was created in the OMS system.                        |
+| lastchange       | timestamp with time zone   | Date and time of the last modification made to the order.                          |
+| customapps_id    | character varying(65535)   | Unique identifier of the custom application.                                       |
+| customapps_major | character varying(65535)   | Major version or classification of the custom application.                         |
+| field_key        | character varying(65535)   | Property name/key from the custom application fields JSON object.                  |
+| field_value      | character varying(65535)   | Property value corresponding to the field_key.                                     |
+| batch_id         | character varying(13)      | Processing batch identifier used for data ingestion and update control.            |
+
 ## Analyses with order data
 
 Order data can be used in the following analyses:
@@ -365,10 +422,10 @@ The order dataset has correlations with the following sets of the VTEX data ecos
 
 ### Discover other datasets
 
-- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
-- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
+- [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

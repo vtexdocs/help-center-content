@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: adding-a-record-on-a-master-data-form
-locale: en
 legacySlug: how-to-include-a-registration-on-a-master-data-form
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
 To add a record in a Master Data form, you need to access Master Data and choose the application you want to view. To do this, follow the instructions in the sections below.
 
-Fields can be configured as editable or not directly in the data entity. Learn more in [Data entity](/en/tutorial/entidade-de-dados--tutorials_1265).
+Fields can be configured as editable or not directly in the data entity. Learn more in [Data entity](https://help.vtex.com/en/tutorial/entidade-de-dados--tutorials_1265).
 
 <div class="alert alert-warning">
 This article covers Master Data v1. It is important to evaluate which version of Master Data meets your needs or is used in your operation. Learn more:

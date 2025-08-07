@@ -11,7 +11,7 @@ productTeam: Others
 slugEN: retail-media-benefits
 locale: pt
 trackId: 4sZoGHUrBNlaPMrtPCqGvA
-trackSlugPT: vtex-ads
+trackSlugEN: vtex-ads
 ---
 
 O Retail Media tem ganhado cada vez mais relevância como uma estratégia eficiente para conectar marcas, varejistas e consumidores. Seu diferencial está na capacidade de personalizar a jornada de compra, com maior precisão de segmentação e mensuração de resultados.

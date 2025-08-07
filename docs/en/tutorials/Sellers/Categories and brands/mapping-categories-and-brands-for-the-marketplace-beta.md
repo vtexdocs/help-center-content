@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: mapping-categories-and-brands-for-the-marketplace-beta
-locale: en
 legacySlug: mapping-categories-and-brands-for-the-marketplace-beta
+locale: en
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 

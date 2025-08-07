@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-a-department
-locale: en
 legacySlug: what-is-a-department
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 

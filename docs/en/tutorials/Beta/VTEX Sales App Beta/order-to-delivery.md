@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: order-to-delivery
-locale: en
 legacySlug: order-to-delivery
+locale: en
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 

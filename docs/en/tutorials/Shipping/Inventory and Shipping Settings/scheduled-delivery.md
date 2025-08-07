@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: scheduled-delivery
-locale: en
 legacySlug: scheduled-delivery, configuring-the-scheduled-delivery
+locale: en
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 ---
 
@@ -27,7 +27,7 @@ For <a href="https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU
 
 Once you've enabled the __Scheduled Delivery__ feature in the Shipping Policy, you can fill in the fields that will determine how it will work. Fill them to define the [maximum delivery time](#maximum-delivery-time), the [delivery window](#delivery-window), and the [delivery capacity limit](#delivery-capacity).
 
-For more information, read our article on [Shipping policies](/en/tutorial/shipping-policy--tutorials_140).
+For more information, read our article on [Shipping policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140).
 
 ## Maximum delivery time
 
@@ -53,5 +53,5 @@ When the customer completes the purchase and selects the scheduled delivery opti
 If the delivery window has reached its full capacity, it will not be available to be selected. To make it available, increase the number of items/orders by editing the <a href="https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140">Shipping policy</a>.
 </div> 
 
-For more information, read our article on [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz). 
+For more information, read our article on [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz). 
 

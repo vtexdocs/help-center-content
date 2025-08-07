@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-khipu
-locale: en
 legacySlug: setting-up-payments-with-khipu
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -37,7 +37,7 @@ To configure Khipu, follow the steps below:
 
 ## Setting up Notes Payable
 
-If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable).
+If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
 
 ## Setting up payment condition 
 
@@ -46,7 +46,7 @@ If you have not yet configured the Notes Payable as a payment method in other co
 3. On __Custom Payment__, click the button corresponding to the name used for the Notes Payable payment method (configured in the previous section).
 4. Activate the condition in the __Status__ field.
 5. On __Process with affiliation__, select __srconsultores-khipu-v0__.
-6. If you wish, you can also configure [payment special conditionso](/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditionso](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 7. Click on `Save`.
 
 After following the indicated steps, Khipu may take up to 10 minutes to appear at your store's checkout as a payment option.

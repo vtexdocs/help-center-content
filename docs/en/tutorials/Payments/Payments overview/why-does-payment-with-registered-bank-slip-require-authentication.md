@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: why-does-payment-with-registered-bank-slip-require-authentication
-locale: en
 legacySlug: why-does-payment-with-registered-bank-slip-require-authentication
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

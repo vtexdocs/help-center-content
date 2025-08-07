@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: understanding-the-cubic-weight-factor
-locale: en
 legacySlug: understanding-the-cubic-weight-factor
+locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
@@ -53,9 +53,9 @@ However, the calculation above is merely illustrative. For the carrier, the valu
 
 That is, if the value offered by your carrier is `6,000`, you must perform the division by 1000. Example: `1000g/6000 cm³ = 0,167`.
 
-This is the value you must fill out the **Cubic weight factor** field in your [shipping policy](/es/tutorial/politica-de-envio--tutorials_140).
+This is the value you must fill out the **Cubic weight factor** field in your [shipping policy](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_EN](https://images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
+![cubic_weight_EN](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
 
 Therefore, the final calculation will be:
 

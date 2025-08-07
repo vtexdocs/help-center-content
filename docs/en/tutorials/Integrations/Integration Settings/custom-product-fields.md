@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: custom-product-fields
-locale: en
 legacySlug: custom-product-fields
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

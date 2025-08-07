@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: configuring-viewed-product-email
-locale: en
 legacySlug: configuring-product-visited
+locale: en
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
@@ -86,7 +86,7 @@ The control that displays the viewed product is `ProductQueryStringReferenceShel
 - **5**: Suggestions
 - **6**: Accessories
 
-The first three shelves are set up automatically by the system, and the last three are configured [manually in the product settings](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
+The first three shelves are set up automatically by the system, and the last three are configured [manually in the product settings](https://help.vtex.com/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
 
 ## Creating a folder structure
 

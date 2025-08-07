@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: managing-content-versions
-locale: es
 legacySlug: gestion-de-versiones-de-contenido
+locale: es
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
@@ -19,7 +19,7 @@ La versión de un bloque es una copia de su contenido en un momento determinado.
 
 Con el recurso **Versiones**, puedes crear, programar y experimentar con diferentes contenidos para un bloque determinado, sin comprometer la versión publicada de tu tienda. Cada bloque disponible en el Site Editor puede tener varias versiones.
 
-![Activating Versions - Versiones](https://images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
+![Activating Versions - Versiones](//images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
 
 Ve en las siguientes secciones cómo:
 
@@ -65,7 +65,7 @@ Solo puedes tener un contenido activo a la vez. Si activas un contenido, los dem
 
 Después de [crear una nueva versión de contenido](#crear-una-nueva-version-de-contenido), puedes programar la publicación de la nueva versión en tu tienda mediante el recurso **Visibilidad**.
 
-Consulta la documentación [Programación de actualizaciones de contenido](/es/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) y aprende a utilizar el recurso **Visibilidad**.
+Consulta la documentación [Programación de actualizaciones de contenido](https://help.vtex.com/es/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) y aprende a utilizar el recurso **Visibilidad**.
 
 ## Eliminar versiones
 

@@ -21,7 +21,7 @@ If you wish to receive credit card payments on VTEX Sales App, follow the steps 
 3. Click the __Venda Direta Crédito__ payment method.
 4. Click the `Status` button to enable this payment condition.
 5. You can choose to set up cash or installment payment.
-6. Optionally, you can set up special payment conditions by clicking on `Add special condition`. Read the article [Configuring payment special conditions](/en/tutorial/condicoes-especiais--tutorials_456) for more information.
+6. Optionally, you can set up special payment conditions by clicking on `Add special condition`. Read the article [Configuring payment special conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456) for more information.
 7. Click `Save`.
 
 <div class="alert-info">

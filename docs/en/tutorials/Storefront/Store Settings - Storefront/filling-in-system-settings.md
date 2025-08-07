@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: filling-in-system-settings
-locale: en
 legacySlug: filling-in-system-settings
+locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 ---
 
@@ -32,7 +32,7 @@ The fields available for editing are:
 - **Buy Together max. quantity:** This is the maximum number of promotions of the “Buy Together” type that can be added to the same shopping cart.
 - **Show order notes:** Displays a field for your store's customers to send comments, special requests, or remarks in text form during the purchase.
 - **Max quantity of the same SKU in cart:** Is the maximum number of a SKU that can be added to the shopping cart.
-- **Show Super Zoom:** Shows [zoom](/en/tutorial/ativar-o-zoom-do-produto-no-template-de-pagina--104Z7aky7IcYKYIgs4KUIg).
+- **Show Super Zoom:** Shows [zoom](https://help.vtex.com/en/tutorial/ativar-o-zoom-do-produto-no-template-de-pagina--104Z7aky7IcYKYIgs4KUIg).
 - **Show "Notify me" option when out of stock:** Enables the Notify me feature on the product page.
 - **Activate UTMI links - Internal navigation tracking:** Enables the UTMI feature in the store. When this flag is enabled, all store links automatically receive UTMIs internal to store links. Here is an example:
 

@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slugEN: transferring-store-ownership
-locale: en
 legacySlug: changing-the-accounts-master-user
+locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Each VTEX account has a single [Sponsor user](/en/tutorial/what-is-the-sponsor-user) – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions. By default, this role is assigned to a user specified in your contract, usually the person overseeing digital commerce operations on a daily basis.
+Each VTEX account has a single [Sponsor user](https://help.vtex.com/en/tutorial/what-is-the-sponsor-user) – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions. By default, this role is assigned to a user specified in your contract, usually the person overseeing digital commerce operations on a daily basis.
 
 The current Sponsor user may transfer this responsibility to anyone they desire through the [Sponsor Management](#sponsor-management) page, by following the [steps in the ownership transfer flow](#transferring-account-ownership).
 
@@ -29,7 +29,7 @@ The __Account settings__ page allows you to identify the current account sponsor
 
 ### Transferring account ownership
 
-Before you start, make sure the user who will be granted the Sponsor role already has access to the account. If they don't, you should [create a new user](/en/tutorial/managing-users--tutorials_512#creating-a-new-user) for them before you proceed.
+Before you start, make sure the user who will be granted the Sponsor role already has access to the account. If they don't, you should [create a new user](https://help.vtex.com/en/tutorial/managing-users--tutorials_512#creating-a-new-user) for them before you proceed.
 
 To transfer store ownership, follow these steps:
 
@@ -70,7 +70,7 @@ If the Sponsor user is not available to perform the transfer of ownership throug
 
 ### Brazil 
 
-To change the Sponsor, please contact our Growth Operations team through [Support](/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the fields and submit a copy of the Articles of Association.
+To change the Sponsor, please contact our Growth Operations team through [Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the fields and submit a copy of the Articles of Association.
 
 If the representative appointed in the form is not mentioned in the Articles of Association, you must submit a notarized power of attorney informing that the representative appointed in the form is authorized to sign it.
 
@@ -78,7 +78,7 @@ With this information, the Growth Operations team will add an amendment to the c
 
 ### Other countries
 
-To change the Sponsor, please contact our Growth Operations team through [Support](/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the necessary fields.
+To change the Sponsor, please contact our Growth Operations team through [Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the necessary fields.
 
 If the representative appointed in the form is not mentioned in the Articles of Association, you must submit a copy of the Articles of Association.
 

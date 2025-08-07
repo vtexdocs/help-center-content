@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: weni-by-vtexs-official-agents
-locale: es
 legacySlug: agentes-oficiales-de-weni-by-vtex
+locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 

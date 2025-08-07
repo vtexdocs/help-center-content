@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
 slugEN: customer-credit-overview
-locale: pt
 legacySlug: credit-control-visao-geral
+locale: pt
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
@@ -40,7 +40,7 @@ Quando instalado, o Customer Credit aparece como uma opção de pagamento no Che
 
 Veja abaixo o fluxo básico de funcionamento do Customer Credit nas lojas VTEX:
 
-![GIF_CC_PT](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
+![GIF_CC_PT](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
 
 ## Definições no Customer Credit
 
@@ -87,4 +87,4 @@ Se for necessário alterar  uma ordem para diminuir o seu valor após o período
 </div>
 
 ## Instalação e configuração
-Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

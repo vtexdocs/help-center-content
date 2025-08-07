@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: banners
-locale: pt
 legacySlug: banners
+locale: pt
 subcategoryId: z6qcw06Z38YDu1fOcu9Jn
 ---
 
@@ -32,7 +32,7 @@ No Admin VTEX, a página **Storefront** > **Banners** exibe a listagem dos banne
 * [Editar um banner](#editar-banner)
 * [Deletar um banner](#deletar-banner) 
 
-![banners-intro-pt](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/76b18f06e75a40e33c5a84882a247ac2/image.png)
+![banners-intro-pt](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/76b18f06e75a40e33c5a84882a247ac2/image.png)
 
 A página apresenta as seguintes informações: 
 
@@ -47,7 +47,7 @@ A página apresenta as seguintes informações:
 
 ### Criar banner
 
-Para configurar um banner, clique em `Novo`. Saiba mais sobre todas as informações necessárias para criar um Banner em [Configurar Banners](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+Para configurar um banner, clique em `Novo`. Saiba mais sobre todas as informações necessárias para criar um Banner em [Configurar Banners](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
 
 ### Buscar banner
 

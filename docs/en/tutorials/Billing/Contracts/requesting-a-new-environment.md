@@ -10,18 +10,18 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: requesting-a-new-environment
-locale: en
 legacySlug: purchasing-and-accessing-your-environment
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-To request a new VTEX environment, please contact [Support](/pt/support) by selecting the Sales option and the request type `New additional environment`. Learn more in the article [Opening tickets with VTEX Support](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+To request a new VTEX environment, please contact [Support](https://help.vtex.com/pt/support) by selecting the Sales option and the request type `New additional environment`. Learn more in the article [Opening tickets with VTEX Support](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 Adding a new environment may incur additional costs, as stipulated in your contract. If these costs aren't covered, mention it in your request so that a contractual addendum can be issued.
 
 VTEX provisions new environments without replicating configurations or content from the main environment. After creating the environment, you'll need to configure and customize it by adding layout, products, trade policies, and integrations based on your needs.
 
-To add an ecommerce store independent of the existing one and associate the same catalog with a different domain URL, configure a [multistore](/en/tutorial/gerenciando-uma-multiloja--4S0lFVBPylRS5KpVgdyDhJ). This option doesn't generate additional costs.
+To add an ecommerce store independent of the existing one and associate the same catalog with a different domain URL, configure a [multistore](https://help.vtex.com/en/tutorial/gerenciando-uma-multiloja--4S0lFVBPylRS5KpVgdyDhJ). This option doesn't generate additional costs.
 
 ## Required information for the request
 When requesting a new environment, include the following information:

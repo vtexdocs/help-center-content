@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools
-locale: en
 legacySlug: confirming-the-ownership-of-your-store-on-google-search-console-webmaster-tools
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

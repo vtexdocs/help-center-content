@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: get-visitors-from-my-website-and-social-networks-to-whatsapp
 locale: pt
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugPT: suiteshare
+trackSlugEN: suiteshare
 ---
 
 Ter presença e ser ativo nas redes sociais é fundamental, além de ter um contato direto com seus clientes de forma próxima. O WhatsApp hoje é a ferramenta com mais de um bilhão de acessos diários no mundo inteiro, ou seja, 98% de seus clientes já estão conectados a ele. Mas como levar esses clientes de outras redes sociais diretamente para o WhatsApp da sua empresa? 
@@ -22,8 +22,8 @@ Primeiro, você já deve ter criado os links, caso não tenha criado clique aqui
 
 Agora é só criar seus anúncios no Facebook, Instagram e outras redes que utilizar, e inserir seu link no campo de texto. Seu cliente irá diretamente para a conversa no WhatsApp com a sua empresa.
 
-![Levar os visitantes do meu site e redes sociais para o WhatsApp 1](https://images.ctfassets.net/alneenqid6w5/44eCSKO1yJcy816ZA4wKlR/2f95d30387906b9d67ee953c6d484e31/Screenshot_2022-08-25_at_15-09-21_Levar_os_visitantes_do_meu_site_e_redes_sociais_para_o_WhatsApp.png)
+![Levar os visitantes do meu site e redes sociais para o WhatsApp 1](//images.ctfassets.net/alneenqid6w5/44eCSKO1yJcy816ZA4wKlR/2f95d30387906b9d67ee953c6d484e31/Screenshot_2022-08-25_at_15-09-21_Levar_os_visitantes_do_meu_site_e_redes_sociais_para_o_WhatsApp.png)
 
 Além de levar o seu cliente diretamente para o WhatsApp de forma rápida e fácil, você ainda pode capturar informações diretamente para o seu CRM, analisar quais redes estão lhe trazendo mais clientes, além do Remarketing no seu link. 
 
-VTEX Assisted Sales (SuiteShare) traz a solução completa para a sua empresa crescer, vender e atender. Agora que aprendemos a como levar os visitantes das redes sociais para o WhatsApp, que tal [distribuir o atendimento no WhatsApp para mais de um número?](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/4Xgqw105OM7zRdKmdY6avV)
+VTEX Assisted Sales (SuiteShare) traz a solução completa para a sua empresa crescer, vender e atender. Agora que aprendemos a como levar os visitantes das redes sociais para o WhatsApp, que tal [distribuir o atendimento no WhatsApp para mais de um número?](https://help.vtex.com/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/4Xgqw105OM7zRdKmdY6avV)

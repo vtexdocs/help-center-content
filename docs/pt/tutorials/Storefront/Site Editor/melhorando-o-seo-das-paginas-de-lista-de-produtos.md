@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: improving-the-seo-of-product-listing-pages
-locale: pt
 legacySlug: melhorando-o-seo-das-paginas-de-lista-de-produtos
+locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 

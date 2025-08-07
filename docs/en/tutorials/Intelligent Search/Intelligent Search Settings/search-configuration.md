@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: search-configuration
-locale: en
 legacySlug: search-configuration
+locale: en
 subcategoryId: 1EmKjP83dy0RWD9GzZkYsG
 ---
 
@@ -19,7 +19,7 @@ The **Search Settings** page comprises the VTEX Intelligent Search general setti
 
 ## General settings
 
-The general settings display the following options related to[ product and SKU specifications](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+The general settings display the following options related to[ product and SKU specifications](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
 * **Use SKU specifications to display individual products in search results**: Defines which specifications will sort the SKUs in the search results.
 
@@ -27,7 +27,7 @@ The general settings display the following options related to[ product and SKU s
 
     To configure this field, click the dropdown arrow and select the specifications you want to add.
 
-    Check the guide [Detaching SKUs by specification](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
+    Check the guide [Detaching SKUs by specification](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
 
 * **Searchable specifications:** Determines which product specifications can be searched by the search engine.
 
@@ -35,9 +35,9 @@ The general settings display the following options related to[ product and SKU s
 
 ## Facet settings
 
-The facet settings have settings related to the[ filters](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
+The facet settings have settings related to the[ filters](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
-![Facet configurations](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
+![Facet configurations](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
 
 * **Facet order:** Order in which the facets will be displayed in the store. If no facet is selected, the default order is alphabetical.
 

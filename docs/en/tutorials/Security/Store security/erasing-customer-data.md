@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: erasing-customer-data
-locale: en
 legacySlug: deleting-customer-data
+locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
@@ -21,7 +21,7 @@ Under data protection regulations such as the [EU's General Data Protection Regu
 
 Before [requesting customer data deletion via Copilot](#requesting-customer-data-deletion-via-copilot), follow these steps:
 
-1. **Identify where the data is stored:** Check the [Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) entities that store customer data in your operation.
+1. **Identify where the data is stored:** Check the [Master Data](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) entities that store customer data in your operation.
 2. **Delete custom entities manually:** If your store keeps customer data in custom entities, delete it manually before requesting data deletion via Copilot. For instructions, see the [Custom data entities](#custom-data-entities) section. Follow this process only for custom entities. Don't delete the Master Data [native entities](#master-data-native-entities) CL and AD.
 
 ### Master Data native entities
@@ -41,12 +41,12 @@ Don't do this for the native entities <strong>CL</strong> and <strong>AD</strong
 
 ## 2. Configuring the GDPR role
 
-To request data deletion, create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/tutorial/license-manager-resources):
+To request data deletion, create a [custom role](https://help.vtex.com/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources):
 
 - **Write user rights requests** (from the **User Rights** product)
 - **Open Support Ticket** (from the **VTEX Support** product)
 
-![perfil-de-acesso-gdpr](https://images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/ed896134190c0f7a619e5d446900511b/ingles.jpg)
+![perfil-de-acesso-gdpr](//images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/ed896134190c0f7a619e5d446900511b/ingles.jpg)
 
 Next, assign this role to the user who will request customer data deletion.
 
@@ -57,7 +57,7 @@ After checking the data and configuring the role, follow these steps to submit t
 1. Log in to the VTEX Admin with a user that has the **General Data Protection Law** role, configured in [2. Configuring the GDPR role](#2-configuring-the-gdpr-role).
 2. Go to **Copilot > Chat** in the VTEX Admin.
 3. Send the message: `I want to delete a user from the VTEX platform.`
-    ![copilot-excluir-cliente-en](https://images.ctfassets.net/alneenqid6w5/5aGO3gtV9mrRB9FK5F2Tmq/9fc8edb62c5b51b57b0efb58f48abd90/copilot-excluir-cliente-en.gif)
+    ![copilot-excluir-cliente-en](//images.ctfassets.net/alneenqid6w5/5aGO3gtV9mrRB9FK5F2Tmq/9fc8edb62c5b51b57b0efb58f48abd90/copilot-excluir-cliente-en.gif)
 4. When requested, provide the email of the user you want to delete. You can delete data for only one shopper per request. Submit the email address of a single shopper at a time.
 
 After this step, the request will be forwarded to VTEX Support, and you'll receive the support ticket ID to follow up.

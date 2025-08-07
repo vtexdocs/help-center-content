@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: controls-for-displaying-the-brand-name
-locale: es
 legacySlug: controles-para-mostrar-el-nombre-de-la-marca
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

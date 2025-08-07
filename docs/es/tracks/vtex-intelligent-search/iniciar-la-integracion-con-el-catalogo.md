@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: starting-the-integration-with-catalog
 locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
-trackSlugES: vtex-intelligent-search
+trackSlugEN: vtex-intelligent-search
 ---
 
 La página **Configuración de la tienda** **Intelligent Search** > **Integraciones** en el Admin VTEX es responsable de la indexación inicial del catálogo con VTEX Intelligent Search. Tras instalar la aplicación, este será el primer paso para integrarla con el catálogo.
@@ -24,6 +24,6 @@ Sigue las instrucciones para iniciar el proceso de integración:
 
 Comenzará el proceso de indexación. Una vez completado, se mostrará la pantalla que se ilustra a continuación.
 
-![integracoes-es](https://images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/0e53cf7952ac60b089bbcb5f6441640e/integracoes-es.PNG)
+![integracoes-es](//images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/0e53cf7952ac60b089bbcb5f6441640e/integracoes-es.PNG)
 
-No es necesario repetir este proceso. Después de que comience la integración, puedes seguir el status de indexación en la página [Historial de indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+No es necesario repetir este proceso. Después de que comience la integración, puedes seguir el status de indexación en la página [Historial de indexación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).

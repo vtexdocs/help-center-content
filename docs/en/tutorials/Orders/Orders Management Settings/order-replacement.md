@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: order-replacement
-locale: en
 legacySlug: allow-to-change-already-closed-orders, how-the-order-replacement-works
+locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
 **Order replacement** is the feature that allows customers to change order information without having to contact support or place a new order.
 
-[Changing items](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) is different from replacing orders. When replacing an order, the customer requests changes to the order, and when changing items, the store modifies the order.
+[Changing items](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) is different from replacing orders. When replacing an order, the customer requests changes to the order, and when changing items, the store modifies the order.
 
 <div class="alert alert-danger">
 The feature is available for all stores. You must enable it so that your customers can use it. 
@@ -52,15 +52,15 @@ Customers can change an order until it is invoiced, unlike cases where they need
 The information that can be modified using the Order replacement feature are:
 
 * Delivery address
-* [Type of delivery](/en/tutorial/how-does-the-type-of-delivery-work--tutorials_126)
+* [Type of delivery](https://help.vtex.com/en/tutorial/how-does-the-type-of-delivery-work--tutorials_126)
 * Payment method
-* [SKU](/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u)
+* [SKU](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u)
 
 ### Restrictions
 
 Orders cannot be modified in the cases of:
 
-* [Incomplete orders](/en/tutorial/understanding-incomplete-orders--tutorials_294): when the order does not contain all the information necessary to be completed on the platform.
+* [Incomplete orders](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294): when the order does not contain all the information necessary to be completed on the platform.
 * Shared transaction: orders with one or more sellers and payment made to the marketplace.
 * Orders already modified by the store.
 * Orders with status:

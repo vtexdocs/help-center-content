@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slugEN: table-of-base-prices
-locale: en
 legacySlug: filling-out-base-price-import-spreadsheet-fields
+locale: en
 subcategoryId: 3O1NvPgBPqE0qU88MSQaie
 ---
 
-For a better understanding of how to fill the [table of base prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#spreadsheet), read the full description of each field below.
+For a better understanding of how to fill the [table of base prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#spreadsheet), read the full description of each field below.
 
-- **SKU ID**: The SKU ID is the number that a specific SKU is identified by. Have a look at our article to find out how you can [find a SKU ID](/en/tutorial/where-to-find-the-SKU-ID--4VQZsYeb3igGK2YowuEYWW)
+- **SKU ID**: The SKU ID is the number that a specific SKU is identified by. Have a look at our article to find out how you can [find a SKU ID](https://help.vtex.com/en/tutorial/where-to-find-the-SKU-ID--4VQZsYeb3igGK2YowuEYWW)
 
 - **Cost Price**: Your SKU's production cost. If no such information is available, you can fill this field out with the same value as that of the **Base Price**.
 

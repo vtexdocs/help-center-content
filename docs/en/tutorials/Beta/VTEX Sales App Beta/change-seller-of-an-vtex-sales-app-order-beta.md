@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: change-seller-of-an-vtex-sales-app-order-beta
-locale: en
 legacySlug: change-seller-of-an-instore-order-beta
+locale: en
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 

@@ -10,15 +10,15 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 56yU9Wz6mLwmzo82TjgAHy
 slugEN: updating-prices-in-marketplaces
-locale: en
 legacySlug: updating-prices-for-marketplace
+locale: en
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
 Marketplace price updates depend on two factors:
 
-- Editing product prices in the [price table](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) linked to the trade policy used by the marketplace integration.
-- [Product indexing](/en/tutorial/understanding-how-indexation-works--tutorials_256) after new prices are added. 
+- Editing product prices in the [price table](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) linked to the trade policy used by the marketplace integration.
+- [Product indexing](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256) after new prices are added. 
 - For a scheduled fixed price to be applied in the marketplace, a price change must be made in the corresponding price list. This change acts as a trigger to notify the marketplace of the new price.
 
 <div class="alert alert-warning">

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: seller-portal-promotions
-locale: es
 legacySlug: seller-portal-promociones
+locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
@@ -27,7 +27,7 @@ A partir de la lista de promociones del Seller Portal puedes llevar a cabo diver
 * [Acceder al menú de acciones de la promoción](#acceder-al-menu-de-acciones-de-la-promocion)
 * [Acceder a promociones archivadas](#acceder-a-promociones-archivadas)
 
-![seller-portal-promo-es](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
+![seller-portal-promo-es](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
 
 En la siguiente tabla puedes consultar la información de la página **Promociones**: 
 
@@ -40,7 +40,7 @@ En la siguiente tabla puedes consultar la información de la página **Promocion
 
 ## Crear nueva promoción
 
-Para registrar una nueva promoción, haz clic en el botón `Crear promoción`. Para más información, consulta el tutorial [Seller Portal: crear una promoción](/es/tutorial/seller-portal-crear-una-promocion--kzNPEaiJE8EWkDzO9dbBI).
+Para registrar una nueva promoción, haz clic en el botón `Crear promoción`. Para más información, consulta el tutorial [Seller Portal: crear una promoción](https://help.vtex.com/es/tutorial/seller-portal-crear-una-promocion--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Buscar promociones
 
@@ -71,7 +71,7 @@ El archivo contiene la siguiente información sobre cada promoción:
 
 ## Verificar datos de uso de las promociones
 
-![seller-portal-promo-es](https://images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
+![seller-portal-promo-es](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/a65cab7ea0ee0983f80894668ca050d0/image.png)
 
 Para ver el total de promociones activas en tu tienda y la cuota restante para nuevas promociones, haz clic en `Uso de las promociones`.
 

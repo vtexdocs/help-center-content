@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: custom-fields-when-adding-an-organization
-locale: en
 legacySlug: custom-fields-when-adding-an-organization
+locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 

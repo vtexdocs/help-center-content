@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: viewing-the-detailed-order-log
-locale: en
 legacySlug: viewing-the-detailed-order-log-in-the-oms-flow
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 

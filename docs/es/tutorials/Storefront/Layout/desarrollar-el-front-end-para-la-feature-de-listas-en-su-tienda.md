@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: develop-the-front-end-for-the-list-feature-in-your-store
-locale: es
 legacySlug: desarrollar-el-front-end-para-la feature-de-listas-en-su-tienda
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

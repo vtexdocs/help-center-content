@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: google-search-console-tracking-tracking-errors
-locale: en
 legacySlug: google-search-console-tracking-tracking-errors
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

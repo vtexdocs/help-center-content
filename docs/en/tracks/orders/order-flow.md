@@ -14,13 +14,13 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---
 
-The [Order flow](/en/tutorial/order-flow-and-status--tutorials_196) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
+The [Order flow](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
 
 Order changes - whether caused by the customer, the store, or external systems - generate changes to the __order status__. And with that, the order moves within the flow.
 
 ## Marketplaces and Sellers
 
-[Marketplace and Seller](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
+[Marketplace and Seller](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
 
 - __Marketplace__ is the environment where the order is closed, ie, where the customer performs the checkout process.
 - __Seller__ is the owner of the SKU. It is therefore responsible for the fulfillment - that is, for delivering the product to the customer.
@@ -33,7 +33,7 @@ It's important to understand these concepts because the Marketplace's order flow
 
 ## Marketplace Order Flow
 
-![screenshoot fluxo marketplace EN](https://images.ctfassets.net/alneenqid6w5/6S7796dGpdWlRojJbrSgg/0ca93f3020f0393abafa75e7dd5951aa/screenshoot_fluxo_marketplace_EN.JPG)
+![screenshoot fluxo marketplace EN](//images.ctfassets.net/alneenqid6w5/6S7796dGpdWlRojJbrSgg/0ca93f3020f0393abafa75e7dd5951aa/screenshoot_fluxo_marketplace_EN.JPG)
 
 It happens when the store acts exclusively as a Marketplace in the order. That is, when the store sells products from another store - its Seller.
 
@@ -47,7 +47,7 @@ The dispatch is then authorized and the order enters the status `Window to Cance
 
 ## Seller Order Flow
 
-![screenshoot fluxo seller EN](https://images.ctfassets.net/alneenqid6w5/14SsrA3HbuAxsYerakdGGf/9a50dbe872d8712670ce7a1ddbbf2e6e/screenshoot_fluxo_seller_EN.JPG)
+![screenshoot fluxo seller EN](//images.ctfassets.net/alneenqid6w5/14SsrA3HbuAxsYerakdGGf/9a50dbe872d8712670ce7a1ddbbf2e6e/screenshoot_fluxo_seller_EN.JPG)
 
 It happens when the store acts as a Seller. That is, when it is the owner of the product.
 
@@ -61,7 +61,7 @@ The next status is then `Handling Shipping`, when the Seller prepares the invoic
 
 ## Complete Order Flow
 
-![screenshoot fluxo completo EN](https://images.ctfassets.net/alneenqid6w5/5uYoEIqMJxUMFZzXKf72Sh/2cf49ed2ddd0cceac3f429e1f4492422/screenshoot_fluxo_completo_EN.JPG)
+![screenshoot fluxo completo EN](//images.ctfassets.net/alneenqid6w5/5uYoEIqMJxUMFZzXKf72Sh/2cf49ed2ddd0cceac3f429e1f4492422/screenshoot_fluxo_completo_EN.JPG)
 
 It happens when the store is both the Marketplace and the Seller. That is, it's when the order was closed in the store and the store itself is the owner of the product, being responsible for the fulfillment.
 

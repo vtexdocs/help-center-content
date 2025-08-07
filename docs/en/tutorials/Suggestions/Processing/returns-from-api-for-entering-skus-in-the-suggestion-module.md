@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_41
 slugEN: returns-from-api-for-entering-skus-in-the-suggestion-module
-locale: en
 legacySlug: returns-from-api-for-entering-skus-in-the-suggestion-module
+locale: en
 subcategoryId: 2P4LrAbvyEiCaekmaWaEOk
 ---
 
