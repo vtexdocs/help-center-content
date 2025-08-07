@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: planner-release-concept-beta
-locale: en
 legacySlug: planner-release-concept-beta
+locale: en
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
@@ -21,7 +21,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 Managing an ecommerce operation requires the retailer to perform a series of store updates to the store, which are often interconnected. For example, carrying out an advertising campaign in which different storefront elements need to be configured.
 
-The **Releases** is the VTEX module that allows the retailers to [manage their releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) in order to coordinate the planning, creation, scheduling and publication of changes to the store. 
+The **Releases** is the VTEX module that allows the retailers to [manage their releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) in order to coordinate the planning, creation, scheduling and publication of changes to the store. 
 
 A release means a change or a group of changes that can be published together. The main benefits of using releases are:
 
@@ -36,12 +36,12 @@ A release means a change or a group of changes that can be published together. T
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you'll find the following pages:
 
-* [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C): Allows you to manage scheduled releases, with a weekly or monthly view.
-* [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw): Allows you to manage all releases, with a list view.
+* [Calendar](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C): Allows you to manage scheduled releases, with a weekly or monthly view.
+* [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw): Allows you to manage all releases, with a list view.
 
 ## Status of releases
 
-A release can have different statuses from its creation to its publication or deletion, for example. On the [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) and [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) pages, the status of each release is displayed associated with a color, as shown in the table below:
+A release can have different statuses from its creation to its publication or deletion, for example. On the [Calendar](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) and [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) pages, the status of each release is displayed associated with a color, as shown in the table below:
 
 | **Status** | **Color** | **Definition** |
 |:---:|:---:|:---:|
@@ -50,11 +50,11 @@ A release can have different statuses from its creation to its publication or de
 | `Queued` | Green (flashing) | The publication of the release is in the deployment stage and no action by the retailer is required for the release to get to the next status, which can be `Publishing` or `Publishing failed`. |
 | `Publishing` | Green (flashing) | The VTEX platform is processing the release publication request. No action by the retailer is required for the release to get to the next status, which can be `Published`, `Publication failed` or `Unpublished`. |
 | `Published` | Green | The release has been published and the changes are visible in the storefront. |
-| `Unpublished` | Gray | The release is no longer published and, therefore, the changes are not visible in the storefront. The unpublished release is not deleted, it is archived and can be [published](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again at any time.  |
-| `Publication failed` | Red | An error occurred and the release has not been published. In these cases, the retailer may try [to publish the release](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again or [schedule a new publication date](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#reschedule). |
+| `Unpublished` | Gray | The release is no longer published and, therefore, the changes are not visible in the storefront. The unpublished release is not deleted, it is archived and can be [published](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again at any time.  |
+| `Publication failed` | Red | An error occurred and the release has not been published. In these cases, the retailer may try [to publish the release](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again or [schedule a new publication date](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#reschedule). |
 
 ## Learn more
 
-* [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
+* [Releases: Calendar page](https://help.vtex.com/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Releases: Releases page](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)

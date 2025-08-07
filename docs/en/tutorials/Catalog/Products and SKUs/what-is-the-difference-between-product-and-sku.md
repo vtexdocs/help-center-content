@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-the-difference-between-product-and-sku
-locale: en
 legacySlug: what-is-the-difference-between-product-and-sku
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
@@ -27,4 +27,4 @@ Structurally, first you define the product information and then you create your 
 
 ## Learn more
 
-- [Registering a product](/en/tutorial/adding-products--tutorials_2567)
+- [Registering a product](https://help.vtex.com/en/tutorial/adding-products--tutorials_2567)

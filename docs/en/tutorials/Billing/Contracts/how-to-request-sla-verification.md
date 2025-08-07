@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-to-request-sla-verification
-locale: en
 legacySlug: how-to-request-sla-verification
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 

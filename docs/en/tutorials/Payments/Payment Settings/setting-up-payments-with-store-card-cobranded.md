@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-payments-with-store-card-cobranded
-locale: en
 legacySlug: setting-up-payments-with-store-card-cobranded
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

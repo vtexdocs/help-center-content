@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: marketplace-invited-sellers
-locale: en
 legacySlug: marketplace-invited-sellers-beta
+locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
@@ -27,7 +27,7 @@ In addition to sending invitations, the page also displays a list of sellers to 
 
 For new sellers to integrate with your marketplace, you must perform the following actions on the VTEX platform: [Invite](#inviting-sellers) and [Connect](#connecting-sellers).
 
-![EN seller invite](https://images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/48e7ae5bdb892b7e0b0811c2d868a8b4/EN_Seller_invite.jpg)
+![EN seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/48e7ae5bdb892b7e0b0811c2d868a8b4/EN_Seller_invite.jpg)
 
 ## Inviting sellers
 
@@ -36,13 +36,13 @@ You can invite sellers by sending them a link by email with all the necessary in
 1. In the _MARKETPLACE_ section, access the **Seller Invite** page.     
 3. Click on `Invite seller`.    
 4. Fill in the seller’s **General data**:
-    - **Seller name:** name of the seller's sales rep, who will orchestrate the connection on the seller’s side. This person must have an [OMS user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).     
+    - **Seller name:** name of the seller's sales rep, who will orchestrate the connection on the seller’s side. This person must have an [OMS user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).     
     - **Email:** email of the seller's sales rep, who will receive the invitation for creating the account or connecting an existing one.  
 5. Select the type of seller — `Common` or `White label`.    
 6. Toggle the **Share marketplace catalog** option if you want the seller to import your products and category tree.     
 7. If you enabled the switch in the previous step, you have to determine how to share your catalog with the seller:
-    - **Sales Channel:** defining the sales channel ([trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)) associated with the products and category tree you want to share with the seller.
-    - **Collection:** defining a [collection](/en/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) with the products and category tree to share with the seller.     
+    - **Sales Channel:** defining the sales channel ([trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)) associated with the products and category tree you want to share with the seller.
+    - **Collection:** defining a [collection](https://help.vtex.com/en/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) with the products and category tree to share with the seller.     
 8. Click on `Send invite`.     
 
 The seller will receive an invitation by email to sell on your marketplace. 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: how-to-create-a-shelf-template
-locale: pt
 legacySlug: como-criar-um-template-de-prateleira
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

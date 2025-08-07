@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-long-does-the-platform-take-to-identify-my-payment
-locale: en
 legacySlug: how-long-does-the-platform-take-to-identify-my-payment
+locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 

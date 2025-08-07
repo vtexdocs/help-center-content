@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: coupons-beta
-locale: en
 legacySlug: coupons-beta
+locale: en
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
 ---
 
@@ -19,7 +19,7 @@ A coupon consists of a promotional code composed of a sequence of letters and nu
 
 ## How to create coupons
 
-You can create and edit coupons in the VTEX Admin, in **Promotions** > [Coupons](/en/tutorial/coupons-list-beta--5z5ya3IonsC2W4B5h4JrsZ) or via the [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
+You can create and edit coupons in the VTEX Admin, in **Promotions** > [Coupons](https://help.vtex.com/en/tutorial/coupons-list-beta--5z5ya3IonsC2W4B5h4JrsZ) or via the [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
 <div class="alert alert-warning">
 <p>To be valid, the coupon must be associated with at least one promotion. The coupon can be associated with all types of promotions, except <a href="https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume">Campaign promotions</a>. Learn more in <a href="https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU">Creating a coupon (Beta)</a>.</p>
@@ -52,11 +52,11 @@ A coupon batch can be useful in the following scenarios:
 
 The platform automatically generates codes based on the prefix, followed by a dash and a random 15-character code, including letters and numbers. For example, if you create a coupon batch using the code `PROMO`, the platform will generate codes in the following format: `PROMO-99n0xjzfum1o6tk`.
 
-You can generate up to 1000 codes associated with a batch. To generate more than one code attached to a coupon, you must enable the **Generating coupons in a batch** option during setup and specify the desired quantity of codes. Please refer to [Creating a coupon](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU) for more information on this configuration.
+You can generate up to 1000 codes associated with a batch. To generate more than one code attached to a coupon, you must enable the **Generating coupons in a batch** option during setup and specify the desired quantity of codes. Please refer to [Creating a coupon](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU) for more information on this configuration.
 
 You can configure the number of times each code can be used in **Restrictions** when creating the coupon.
 
 ## Learn more
 
-* [Coupon list](/en/tutorial/coupons-list-beta--5z5ya3IonsC2W4B5h4JrsZ)
-* [Creating a coupon](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU)
+* [Coupon list](https://help.vtex.com/en/tutorial/coupons-list-beta--5z5ya3IonsC2W4B5h4JrsZ)
+* [Creating a coupon](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU)

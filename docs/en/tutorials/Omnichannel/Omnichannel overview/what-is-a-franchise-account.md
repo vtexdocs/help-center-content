@@ -10,16 +10,16 @@ contentType: tutorial
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: what-is-a-franchise-account
-locale: en
 legacySlug: what-is-a-franchise-account
+locale: en
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
 ---
 
-On the VTEX platform, you have the option to register physical stores, franchisees and representatives of your network as franchise accounts. This is one way to expand your [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) or Omnichannel strategy.
+On the VTEX platform, you have the option to register physical stores, franchisees and representatives of your network as franchise accounts. This is one way to expand your [Unified Commerce](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) or Omnichannel strategy.
 
 The franchise account is associated with a main account. In the case of a brand that has several physical stores, franchisees or representatives, each of them can have a franchise account linked to the brand's main account. This allows them to deliver the products sold by the brand's ecommerce.
 
-![diagrama contas v2 - en](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
+![diagrama contas v2 - en](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
 
 In this article, we will cover the following topics:
 
@@ -38,11 +38,11 @@ In addition, when using the franchise account you can manage prices and payment 
 
 A franchise account does not have its own website. Consumers browse directly on the main account website, which functions as a marketplace in this situation. Customer data is stored in the Master Data of the main account.
 
-![diagrama admin contas - en](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
+![diagrama admin contas - en](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
 
 ## Relationship between franchise account and White Label Seller
 
-Each franchise account automatically operates as a White Label Seller of the main account. This means that when the consumer adds a product to the cart and simulates the shipping cost in the main account store, the system automatically selects the White Label Seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the White Label Sellers selection algorithm, read our [article](/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) on the subject.
+Each franchise account automatically operates as a White Label Seller of the main account. This means that when the consumer adds a product to the cart and simulates the shipping cost in the main account store, the system automatically selects the White Label Seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the White Label Sellers selection algorithm, read our [article](https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) on the subject.
 
 End customers do not choose or acknowledge the existence of White Label Sellers at any point in the process. In this logic, the consumers have a relationship with the brand (main account) and not with the physical stores (franchise accounts).
 
@@ -57,7 +57,7 @@ As these concepts are independent, it is <strong>eventually</strong> possible th
 
 ## Franchise account configuration
 
-You can access and configure the [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07), [Order management](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa), [Prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP),[Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) and [Promotions &amp; Taxes](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
+You can access and configure the [Logistics](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07), [Order management](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa), [Prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP),[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) and [Promotions &amp; Taxes](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) modules directly in the Admin of each of the franchise accounts or using [VTEX APIs](https://developers.vtex.com/vtex-rest-api/reference/get-to-know-vtex-apis).
 
 To access the Admin of each franchise account, enter the URL `{{franchiseaccountname}}.myvtex.com/admin`, replacing the `{{franchiseaccountname}}` with the name of the franchise account you wish to manage.
 
@@ -67,13 +67,13 @@ There are several possible configurations for pricing and payment methods relate
 
 #### Using the prices of the main account
 
-In order for the franchise account to use the prices configured in the main account, it is necessary to select the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN).
+In order for the franchise account to use the prices configured in the main account, it is necessary to select the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](https://help.vtex.com/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN).
 
 #### Configuring prices specific to the franchise account
 
-To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
+To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](https://help.vtex.com/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
-When prices vary across franchise accounts, you should [configure regionalization](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) to ensure a consistent shopping experience. 
+When prices vary across franchise accounts, you should [configure regionalization](https://help.vtex.com/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) to ensure a consistent shopping experience. 
 By adopting regionalization, you can request the customer postal code before they navigate your store.This will allow you to display the products and prices available to their franchise account before proceeding to checkout.
 If regionalization is not implemented, a certain product price may be displayed in the store, but when the customer proceeds to checkout and enters their postal code, the price might differ for the franchise account fulfilling the order, resulting in another price.
 This discrepancy occurs because the catalog with the lowest price is prioritized during store navigation. However, at checkout, if the franchise account with the lowest price does not have the product in stock, the seller that has the product available will be selected, and the price will adjust to that seller's price.
@@ -94,7 +94,7 @@ Once you have [changed this configuration](#configuring-payment-methods-specific
 
 #### Configuring payment methods specific to the franchise account
 
-VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
+VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](https://help.vtex.com/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
 
 <div class="alert alert-warning">
 <p>If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.</p>
@@ -102,7 +102,7 @@ VTEX offers split payment solutions that can make the distribution of receivable
 
 ## Request the creation of a franchise account
 
-To open a franchise account, contact our Growth Operations team through [*Support*](/en/support) by selecting **Commercial** and `Create a white label environment`.
+To open a franchise account, contact our Growth Operations team through [*Support*](https://help.vtex.com/en/support) by selecting **Commercial** and `Create a white label environment`.
 
 The additional cost for the franchise account is specified in your contract. If not, please mention it in your request so that we can add an amendment to your contract.
 
@@ -115,6 +115,6 @@ If the number of accounts is greater than 10, please include them in an attached
 
 ## Learn more
 
-- [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4)
-- [Choosing between standard account, franchise account or Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
+- [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4)
+- [Choosing between standard account, franchise account or Seller Portal](https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
 

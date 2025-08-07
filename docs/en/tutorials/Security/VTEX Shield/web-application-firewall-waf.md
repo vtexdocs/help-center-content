@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: web-application-firewall-waf
-locale: en
 legacySlug: web-application-firewall-waf
+locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
@@ -23,7 +23,7 @@ The Web Application Firewall (WAF) is a security layer designed to protect web a
 
 The WAF is aimed at HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) communications, scanning inbound and outbound data to detect and block possible threats.
 
-![waf-en](https://images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/19c4af7d54a4e27985a697270e5ea662/waf-en.png)
+![waf-en](//images.ctfassets.net/alneenqid6w5/6yRQRFGEYBnfbynGxcNJrU/19c4af7d54a4e27985a697270e5ea662/waf-en.png)
 
 The WAF's operation begins with the VTEX Security team defining [security rules](#security-rules) based on the analysis of information flow patterns. Based on these rules, the WAF continuously monitors web traffic. When it detects potentially harmful activity, it can block the traffic, thus preventing vulnerabilities in the web application.
 
@@ -45,7 +45,7 @@ Stores using VTEX Shield and choosing the WAF have the following security rules 
 
 ## Requesting WAF activation
 
-To request WAF activation for your store, please contact [VTEX Support](/en/support). Include the following information in the ticket:
+To request WAF activation for your store, please contact [VTEX Support](https://help.vtex.com/en/support). Include the following information in the ticket:
 
 * URLs to be added to the WAF.
 * Name and contact information of the point of contact with the VTEX Security team during the activation process.
@@ -55,4 +55,4 @@ After submitting the request, the deadline for activating the WAF on the store U
 
 ## Learn more
 
-* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: what-are-utm-source-utm-campaign-and-utm-medium
-locale: en
 legacySlug: what-are-utm-source-utm-campaign-and-utm-medium
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
@@ -45,4 +45,4 @@ Don't use special characters in UTM values (example:`utm_source=#fb`). Only alph
 For more information about issues related to applying UTMs to carts, see [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Related articles
-- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
+- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](https://help.vtex.com/en/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)

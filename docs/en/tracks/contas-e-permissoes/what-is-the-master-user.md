@@ -26,11 +26,11 @@ If your user has role to the Account management module, you can verify who is th
 
 By clicking on the desired account name, the Sponsor user's name and email are in the __Contact__ section.
 
-![usuario-master-contato en](https://images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
+![usuario-master-contato en](//images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
 
 Among the actions that only the Sponsor user can take are:
 - Reindex the catalog.
-- Delete categories, products, SKUs and brands through the [fullcleanup feature](/en/tutorial/understanding-how-to-maintain-a-database).
+- Delete categories, products, SKUs and brands through the [fullcleanup feature](https://help.vtex.com/en/tutorial/understanding-how-to-maintain-a-database).
 - Authorize integrations with some marketplaces, such as Mercado Livre.
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.

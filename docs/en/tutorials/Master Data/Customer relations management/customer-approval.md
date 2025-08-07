@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: customer-approval
-locale: en
 legacySlug: customer-approval
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
@@ -34,6 +34,6 @@ After that, the store content will be displayed to the selected customers.
 
 You can approve multiple customers at once via a [Master Data API](https://developers.vtex.com/docs/api-reference/masterdata-api) route.
 
-All information related to a customer can be interpreted as a document in the __Customer__ [data entity](/en/tutorial/data-entity--tutorials_1265). Therefore, the [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id-) route must be used to change the __Approved__ field value in bulk.
+All information related to a customer can be interpreted as a document in the __Customer__ [data entity](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265). Therefore, the [PATCH Update partial document](https://developers.vtex.com/docs/api-reference/masterdata-api#patch-/api/dataentities/-acronym-/documents/-id-) route must be used to change the __Approved__ field value in bulk.
 
 Check the [Import customer data](https://developers.vtex.com/docs/guides/import-customer-data) guide to learn which fields are required for a specific individual document.

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slugEN: what-is-the-sponsor-user
-locale: en
 legacySlug: what-is-the-master-user
+locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
@@ -27,8 +27,8 @@ The Sponsor management page allows you to identify the current Sponsor user, tra
 
 Only the Sponsor user can perform these critical maintenance and authorization actions:
 
-* [Transfer store ownership](/en/tutorial/transferring-store-ownership) to a new Sponsor user
-* [Database Maintenance (Full Cleanup)](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802) operations, including:
+* [Transfer store ownership](https://help.vtex.com/en/tutorial/transferring-store-ownership) to a new Sponsor user
+* [Database Maintenance (Full Cleanup)](https://help.vtex.com/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802) operations, including:
     * Re-register prices in SmartCheckout
     * Delete Indexer Products
     * Delete Products/SKUs and related items
@@ -36,10 +36,10 @@ Only the Sponsor user can perform these critical maintenance and authorization a
     * Delete Sellers and related items
     * Schedule full reindexing
 * Authenticating your account in our native connectors, including:
-    * [Facebook](/en/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX)
-    * [Google Shopping](/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
-    * [Mercado Libre](/en/tracks/mercado-libre-integration-set-up--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)
-* [Approve order cancellation requests](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+    * [Facebook](https://help.vtex.com/en/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX)
+    * [Google Shopping](https://help.vtex.com/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
+    * [Mercado Libre](https://help.vtex.com/en/tracks/mercado-libre-integration-set-up--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)
+* [Approve order cancellation requests](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
 

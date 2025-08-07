@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: reports
-locale: en
 legacySlug: reports
+locale: en
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
 ---
 

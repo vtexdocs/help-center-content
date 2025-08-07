@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: live-shopping-configuring-a-landing-page-for-live-shopping-events
-locale: pt
 legacySlug: live-shopping-configurar-landing-page-para-transmissoes-ao-vivo
+locale: pt
 subcategoryId: 6cSdymcqmJQIWXQKB1XJ54
 ---
 
 A Página global oferece uma visão abrangente dos eventos passados, presentes e futuros associados à sua conta, permitindo maior engajamento e oportunidades de venda mesmo após a conclusão dos eventos ou antes que eles ocorram. A seguir, veja o exemplo de uma página global:
 
-![ls-global-page](https://images.ctfassets.net/alneenqid6w5/wVAbH4INonaRzLuznTp3S/467acf72efa87acb6a362c8031fc2bc1/image.png)
+![ls-global-page](//images.ctfassets.net/alneenqid6w5/wVAbH4INonaRzLuznTp3S/467acf72efa87acb6a362c8031fc2bc1/image.png)
 
 A seguir, apresentamos as principais funcionalidades encontradas na Página global:
 

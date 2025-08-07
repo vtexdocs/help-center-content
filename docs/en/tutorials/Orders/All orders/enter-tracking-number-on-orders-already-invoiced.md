@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slugEN: enter-tracking-number-on-orders-already-invoiced
-locale: en
 legacySlug: enter-tracking-number-on-orders-already-billed
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
@@ -30,4 +30,4 @@ VTEX Admin does not allow bulk importing of order tracking numbers through files
 
 ### Learn more
 
-- [Register tracking on the tax receipt](/en/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)
+- [Register tracking on the tax receipt](https://help.vtex.com/en/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: managing-content-versions
-locale: pt
 legacySlug: gerenciando-versoes-de-conteudo
+locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
@@ -62,7 +62,7 @@ Você só pode ter um conteúdo ativo por vez. Se você ativar um conteúdo, os 
 
 Depois de [criar uma nova versão de conteúdo](#criando-uma-nova-versão-de-conteúdo), você pode agendar a publicação da nova versão em sua loja por meio do recurso **Visibilidade**.
 
-Veja a documentação [Agendando atualizações de conteúdo](/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) e aprenda a usar o recurso **Visibilidade**.
+Veja a documentação [Agendando atualizações de conteúdo](https://help.vtex.com/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) e aprenda a usar o recurso **Visibilidade**.
 
 ## Excluindo versões
 

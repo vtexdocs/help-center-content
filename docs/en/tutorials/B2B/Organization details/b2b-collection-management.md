@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: b2b-collection-management
-locale: en
 legacySlug: b2b-collection-management
+locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 

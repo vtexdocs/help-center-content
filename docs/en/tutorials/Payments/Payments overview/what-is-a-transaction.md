@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-a-transaction
-locale: en
 legacySlug: what-is-a-transaction
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
@@ -26,4 +26,4 @@ In a VTEX store, a transaction starts every time a user chooses a [payment condi
 - [What is a credit card brand?](/en/tutorial/what-is-a-credit-card-brand)
 - [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
 - [Difference between payment methods and payment conditions](/en/tutorial/difference-between-payment-methods-and-payment-conditions)
-- [Transaction flow in Payments](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "Transaction flow in Payments")
+- [Transaction flow in Payments](https://help.vtex.com/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "Transaction flow in Payments")

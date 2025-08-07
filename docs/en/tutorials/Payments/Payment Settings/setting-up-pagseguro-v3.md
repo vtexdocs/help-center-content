@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-pagseguro-v3
-locale: en
 legacySlug: setting-up-pagseguro-v3
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -34,15 +34,15 @@ To configure PagBankV3, follow the steps below:
    		<li><b>Automatic capture immediately after anti-fraud analysis</b>: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
    		<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
-8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In __Provider Fields__, configure the fields __Prazo para captura do pagamento
 __, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, and __Prazo de expiração do QR Code PIX__ according to the provider's instructions.
 10. Click __Save__.
 
 <div class="alert alert-warning" role="alert">PagBank also offers the option of scheduled automatic capture for up to 5 days. If you wish to use it in your store, follow the steps indicated in this <a href="https://help.vtex.com/en/known-issues/scheduled-automatic-capture-does-not-appear--1cuvGbgUvd1ATeHEG6Il98">documentation</a>.</div>
 
-To configure the payment methods to be processed by PagBankV3, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by PagBankV3, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, PagBankV3 may take up to 10 minutes to appear at your store's checkout as a payment option.

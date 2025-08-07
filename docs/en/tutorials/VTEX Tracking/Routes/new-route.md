@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: new-route
-locale: en
 legacySlug: new-route
+locale: en
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-a-list
-locale: en
 legacySlug: what-is-a-list
+locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 

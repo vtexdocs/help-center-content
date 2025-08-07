@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: integrating-with-yop
-locale: en
 legacySlug: integrating-with-yop
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
@@ -48,7 +48,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Create a free freight promotion 
 
-[See our manual on how to create a promotion for the marketplace](/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[See our manual on how to create a promotion for the marketplace](https://help.vtex.com/tutorial/configurar-promocao-para-marketplace--tutorials_406).
 
 ## Go further
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: image-compression
-locale: es
 legacySlug: como-funciona-la-compactacion-automatica-de-imagenes
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -44,7 +44,7 @@ Al mismo tiempo, las imágenes PNG se optimizan utilizando[ pngquant](https://pn
 
 Por último, VTEX entrega el archivo más compacto de entre el WebP sin pérdida y el PNG optimizado, como se ilustra en el siguiente diagrama.
 
-![png-image-compression-es](https://images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/ea1861651c0c3576bb865f2c050a3792/png-image-compression-es.PNG)
+![png-image-compression-es](//images.ctfassets.net/alneenqid6w5/2i6UAp6HkiWl87Q7SDfIMB/ea1861651c0c3576bb865f2c050a3792/png-image-compression-es.PNG)
 
 ## JPG/JPEG
 
@@ -52,12 +52,12 @@ Para imágenes en formato **JPG/JPEG**, indicado para fotos, la conversión a We
 
 VTEX entrega al cliente la imagen que tenga el tamaño de archivo más pequeño de entre la original y la convertida a WebP sin pérdida, como se ilustra en el siguiente diagrama.
 
-![webp-image-compression-es](https://images.ctfassets.net/alneenqid6w5/6fZVHgF3ExpBr4XOpjw2pi/7213c5a45d35166c492201c6e8487d3f/webp-image-compression-es.PNG)
+![webp-image-compression-es](//images.ctfassets.net/alneenqid6w5/6fZVHgF3ExpBr4XOpjw2pi/7213c5a45d35166c492201c6e8487d3f/webp-image-compression-es.PNG)
 
 ## Artículos relacionados
 
-* [Buenas prácticas para el uso de imágenes en el Catálogo](/es/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk)
-* [Añadir imagen a la descripción del producto](/es/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
-* [Importar imágenes por plantilla](/es/tutorial/importando-imagens-por-planilha--tutorials_262)
-* [¿Cómo actualizar la imagen de un SKU?](/es/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu)
-* [Reutilización de imágenes con Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+* [Buenas prácticas para el uso de imágenes en el Catálogo](https://help.vtex.com/es/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk)
+* [Añadir imagen a la descripción del producto](https://help.vtex.com/es/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
+* [Importar imágenes por plantilla](https://help.vtex.com/es/tutorial/importando-imagens-por-planilha--tutorials_262)
+* [¿Cómo actualizar la imagen de un SKU?](https://help.vtex.com/es/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu)
+* [Reutilización de imágenes con Image Widget](https://help.vtex.com/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slugEN: customizar-a-toolbar-de-televendas
-locale: es
 legacySlug: customizar-a-toolbar-de-televendas
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

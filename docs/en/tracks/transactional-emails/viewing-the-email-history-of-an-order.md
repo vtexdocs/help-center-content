@@ -20,7 +20,7 @@ This feature is useful for tracking all email communication with the customer th
 
 To see email history, go to the **Orders** module, enter the desired order and scroll down to the timeline. There you will find the records of emails sent.
 
-This record is made by a system called __Conversation Tracker__. To get a deeper understanding of how it works, see our article on [communication with the client during the order flow](/en/tutorial/understanding-the-conversation-tracker--tutorials_195).
+This record is made by a system called __Conversation Tracker__. To get a deeper understanding of how it works, see our article on [communication with the client during the order flow](https://help.vtex.com/en/tutorial/understanding-the-conversation-tracker--tutorials_195).
 
 <div class = "alert alert-info">
 Since the communication with customers is a responsibility from marketplaces, only orders with marketplace origin keep a transactional emails history. Orders with fulfilllment origin do not keep a register of transactional emails.

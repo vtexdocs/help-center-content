@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_31
 slugEN: partner-program-intranet-and-vtex-store-manual
-locale: en
 legacySlug: partner-program-intranet-and-vtex-store-manual
+locale: en
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 

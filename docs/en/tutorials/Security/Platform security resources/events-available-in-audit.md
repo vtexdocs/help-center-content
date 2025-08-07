@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: events-available-in-audit
-locale: en
 legacySlug: events-available-in-audit
+locale: en
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Below, you will find a list of the potential events available in [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
+Below, you will find a list of the potential events available in [Audit](https://help.vtex.com/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA#) for each app.
 
 * [OMS](#oms)
 * [Orders](#orders)

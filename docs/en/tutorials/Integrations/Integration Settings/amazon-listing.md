@@ -10,17 +10,17 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: amazon-listing
-locale: en
 legacySlug: amazon-listing
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-**Amazon Listing** allows sellers to add products in the VTEX Admin and list them on Amazon. Once you've completed the [integration with Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan), you'll need to make your store products available for listing on the marketplace. There are two ways to do this:
+**Amazon Listing** allows sellers to add products in the VTEX Admin and list them on Amazon. Once you've completed the [integration with Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan), you'll need to make your store products available for listing on the marketplace. There are two ways to do this:
 
-- If the product already exists on Amazon, follow the instructions in the [Amazon Offer Matching tutorial](/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) to link your product to an Amazon offer.
+- If the product already exists on Amazon, follow the instructions in the [Amazon Offer Matching tutorial](https://help.vtex.com/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) to link your product to an Amazon offer.
 - If the product doesn't exist on Amazon yet, follow the steps in this tutorial to add the product and create a new offer.
 
-![overview-listing-en](https://images.ctfassets.net/alneenqid6w5/6WBSbS8HiLi35enIvScFvC/c5e4095175681e8a9223a5e871492c43/overview-listing-en.gif)
+![overview-listing-en](//images.ctfassets.net/alneenqid6w5/6WBSbS8HiLi35enIvScFvC/c5e4095175681e8a9223a5e871492c43/overview-listing-en.gif)
 
 <div class="alert alert-info">
 All products must have <a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Inventory</a> and <a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Price</a> configured before being sent to the marketplace.
@@ -40,9 +40,9 @@ The page consists of the following sections:
 
 In the search bar, you can search SKUs by **name** or **SKU ID.** See some examples below.
 
-![Filter name listing](https://images.ctfassets.net/alneenqid6w5/5UppxMacyhINSC81pMLgHe/935d63b6ade2087b23d59c0c6464f97e/name-listing.jpg)
+![Filter name listing](//images.ctfassets.net/alneenqid6w5/5UppxMacyhINSC81pMLgHe/935d63b6ade2087b23d59c0c6464f97e/name-listing.jpg)
 
-![SKU search listing](https://images.ctfassets.net/alneenqid6w5/4Zfk20fxq8QsuVGnpv9smq/01fa6a8f48cd00a91736a6e63722e926/sku-listing-en.jpg)
+![SKU search listing](//images.ctfassets.net/alneenqid6w5/4Zfk20fxq8QsuVGnpv9smq/01fa6a8f48cd00a91736a6e63722e926/sku-listing-en.jpg)
 
 ### Filters
 

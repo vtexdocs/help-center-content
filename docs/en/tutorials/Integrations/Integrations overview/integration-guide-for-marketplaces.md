@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slugEN: integration-guide-for-marketplaces
-locale: en
 legacySlug: integration-guide-for-marketplaces
+locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
@@ -53,19 +53,19 @@ Every call made to REST APIs from VTEX must be made in “https” and must have
 
 This model allows a seller not hosted on VTEX platform, exhibit and sell their products (SKUs) in Marketplaces hosted on VTEX platform. To implement this model, the Seller shall exhibit some endpoints that will be called by the Marketplace and call some endpoints exposed by the Marketplace, following the VTEX protocol. In this model the Marketplace controls all the payment process.  Find the instructions to do this integration below:
 
-[[Guide] Seller Selling in Marketplace Hosted on VTEX Platform](/en/tutorial/integration-guide-for-marketplaces-seller-non-vtex--yMji0ow0rQuYgQsg26Kus)
+[[Guide] Seller Selling in Marketplace Hosted on VTEX Platform](https://help.vtex.com/en/tutorial/integration-guide-for-marketplaces-seller-non-vtex--yMji0ow0rQuYgQsg26Kus)
 
 ### Seller selling in marketplace hosted on VTEX platform and processing the payment
 
 This model allows a seller not hosted on VTEX platform, exhibit and sell their products (SKUs) in Marketplaces hosted on VTEX platform. To implement this model, the Seller shall exhibit some endpoints that will be called by the Marketplace and call some endpoints exposed by the Marketplace, following the VTEX protocol. In this model the Marketplace sends payment data to be processed at the Seller. Following are the instructions to do this integration.
 
-[[Guide] Seller Selling in Marketplace Hosted on VTEX Platform and Processing the Payment](/en/tutorial/integration-guide-for-marketplaces-seller-non-vtex-with-payment--bNY99qbQ7mKsSMMuq2m4g)
+[[Guide] Seller Selling in Marketplace Hosted on VTEX Platform and Processing the Payment](https://help.vtex.com/en/tutorial/integration-guide-for-marketplaces-seller-non-vtex-with-payment--bNY99qbQ7mKsSMMuq2m4g)
 
 ### Marketplace selling to seller hosted on VTEX platform
 
 This model allows a seller not hosted on VTEX platform, exhibit and sell their products (SKUs) from Sellers hosted on VTEX platform. To implement this model, the Marktplace shall exhibit some endpoints that will be called by the Seller and call some endpoints exposed by the Seller, following the VTEX protocol. In this model the Marketplace controls all the payment transaction. Following are the instructions to do this integration.
 
-[[Guide] Marketplace non VTEX Selling to Seller Hosted on VTEX Platform](/en/tutorial/integration-guide-for-marketplaces-marketplace-non-vtex--SMBUYFVEfZr0m0ttOULxj)
+[[Guide] Marketplace non VTEX Selling to Seller Hosted on VTEX Platform](https://help.vtex.com/en/tutorial/integration-guide-for-marketplaces-marketplace-non-vtex--SMBUYFVEfZr0m0ttOULxj)
 
 ### Marketplace selling to seller hosted on VTEX platform sending payment
 

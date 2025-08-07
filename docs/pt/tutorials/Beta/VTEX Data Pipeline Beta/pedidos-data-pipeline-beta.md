@@ -3,15 +3,15 @@ title: 'Pedidos Data Pipeline '
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2024-09-13T17:49:49.921Z
-publishedAt: 2024-09-13T17:49:49.921Z
+updatedAt: 2025-07-31T21:50:11.564Z
+publishedAt: 2025-07-31T21:50:11.564Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: orders
-locale: pt
 legacySlug: pedidos-data-pipeline-beta
+locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
@@ -33,6 +33,9 @@ Nesta seção você encontra as seguintes informações:
 - [Tabela orders_payments](#tabela-orders_payments)
 - [Tabela orders_packages](#tabela-orders_packages)
 - [Tabela orders_items](#tabela-orders_items)
+- [Tabela orders_extra_info](#tabela-orders-extra-info)
+- [Tabela orders_custom_fields](#tabela-orders-custom-fields)
+- [Tabela orders_custom_apps](#tabela-orders-custom-apps)
 - [Análise com dados de pedidos](#analises-com-dados-de-navegacao)
 - [Correlações com outros dados](#correlacoes-com-outros-dados)
 
@@ -343,6 +346,60 @@ A tabela de `orders_items` armazena detalhes dos itens individuais em cada pedid
 | unitmultiplier | double precision | Multiplicador de unidade para o produto, usado em cálculos de preço e quantidade. |
 | batch_id | character varying(13) | Identificador referente ao carregamento dos dados na tabela para controle de qualidade da ingestão de dados. |
 
+## Tabela `orders_extra_info`
+
+Contém informações gerais do pedido registradas no sistema OMS, incluindo dados de criação, última modificação, identificação do cliente, itens do pedido, dados personalizados, anexos de alterações e controle de lote.  
+
+| Nome da Coluna                      | Tipo da Coluna               | Descrição                                                                                              |
+|------------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------|
+| orderid                             | character varying(255)        | Identificador único do pedido no sistema OMS. Usado como chave de ligação com outras tabelas.         |
+| hostname                            | character varying(255)        | Host onde o pedido foi criado. Usado com orderid como chave de ligação.                               |
+| creationdate                        | timestamp with time zone      | Data e hora em que o pedido foi criado no sistema OMS.                                                |
+| lastchange                          | timestamp with time zone      | Data e hora da última modificação feita no pedido.                                                    |
+| clientprofiledata_corporatename    | character varying(65535)      | Razão social do cliente em uma venda B2B ou pessoa jurídica.                                          |
+| clientprofiledata_corporatedocument| character varying(65535)      | Documento corporativo do cliente (CNPJ/ID Fiscal) em vendas B2B.                                      |
+| clientprofiledata_iscorporate      | boolean                       | Indica se o pedido é de um cliente corporativo (pessoa jurídica) ou pessoa física.                    |
+| items                               | super                         | Estrutura JSON com informações detalhadas dos itens do pedido.                                        |
+| customdata_customapps              | super                         | Estrutura JSON com dados personalizados de apps específicos associados ao pedido.                     |
+| customdata_customfields            | super                         | Estrutura JSON com campos personalizados adicionais do pedido.                                        |
+| changesattachment_id               | character varying(65535)      | Identificador único de anexos relacionados às alterações no pedido.                                   |
+| changesattachment_changesdata      | super                         | Estrutura JSON com dados detalhados sobre alterações e anexos no pedido.                              |
+| batch_id                            | character varying(13)         | Identificador de lote de processamento para ingestão e controle de atualização.                       |
+| changesattachment_href             | character varying(65535)      | URL ou referência ao anexo relacionado às alterações feitas no pedido.                                |
+| has_change_v2                       | boolean                       | Indica se há alterações na nova versão (v2) do anexo de alterações.                                   |
+
+## Tabela `orders_custom_fields`
+
+Armazena os campos personalizados configurados para pedidos no OMS. Inclui o tipo e o valor de cada campo, vinculados a entidades específicas como pedidos ou itens, permitindo maior flexibilidade na modelagem dos dados.  
+
+| Nome da Coluna         | Tipo da Coluna               | Descrição                                                                                  |
+|------------------------|-------------------------------|---------------------------------------------------------------------------------------------|
+| orderid                | character varying(255)        | Identificador único do pedido no OMS.                                                      |
+| hostname               | character varying(255)        | Nome do host/conta onde o pedido foi criado.                                               |
+| creationdate           | timestamp with time zone      | Data e hora de criação do pedido no OMS.                                                   |
+| lastchange             | timestamp with time zone      | Data e hora da última modificação no pedido.                                               |
+| linked_entity_id       | character varying(65535)      | Identificador da entidade à qual o campo personalizado está vinculado.                     |
+| linked_entity_type     | character varying(65535)      | Tipo da entidade vinculada (por exemplo: pedido, item etc.).                               |
+| field_key              | character varying(65535)      | Nome/chave do campo personalizado (gerado via UNPIVOT).                                    |
+| field_value            | character varying(65535)      | Valor correspondente ao campo personalizado.                                               |
+| batch_id               | character varying(13)         | Identificador do lote de processamento.                                                    |
+
+## Tabela `orders_custom_apps`
+
+Registra dados personalizados vindos de aplicações específicas integradas ao pedido. Cada entrada representa um campo da aplicação com sua respectiva versão, valor e chave, permitindo rastrear extensões customizadas do OMS.  
+
+| Nome da Coluna         | Tipo da Coluna               | Descrição                                                                                  |
+|------------------------|-------------------------------|---------------------------------------------------------------------------------------------|
+| orderid                | character varying(255)        | Identificador único do pedido no OMS.                                                      |
+| hostname               | character varying(255)        | Nome do host/conta onde o pedido foi criado.                                               |
+| creationdate           | timestamp with time zone      | Data e hora de criação do pedido no OMS.                                                   |
+| lastchange             | timestamp with time zone      | Data e hora da última modificação no pedido.                                               |
+| customapps_id          | character varying(65535)      | Identificador único do aplicativo personalizado.                                           |
+| customapps_major       | character varying(65535)      | Versão principal ou classificação do aplicativo personalizado.                             |
+| field_key              | character varying(65535)      | Nome/chave do campo no objeto JSON do app (gerado via UNPIVOT).                           |
+| field_value            | character varying(65535)      | Valor correspondente à chave do campo.                                                     |
+| batch_id               | character varying(13)         | Identificador do lote de processamento.                                                    |
+
 ## Análise com dados de Pedidos  
 
 Os dados de Pedidos podem ser empregados nas seguintes análises:  
@@ -362,11 +419,11 @@ O conjunto de dados de Pedidos possui correlações com os seguintes conjuntos d
 
 ### Conheça outros Conjuntos de dados
 
-- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
-- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegação](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)   
+- [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
+- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

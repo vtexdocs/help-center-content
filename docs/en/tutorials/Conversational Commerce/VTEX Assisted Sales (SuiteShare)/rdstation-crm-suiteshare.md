@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: rdstation-crm-suiteshare
-locale: en
 legacySlug: rdstation-crm
+locale: en
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

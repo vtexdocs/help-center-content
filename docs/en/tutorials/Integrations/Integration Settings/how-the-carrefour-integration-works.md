@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slugEN: how-the-carrefour-integration-works
-locale: en
 legacySlug: how-the-integration-with-carrefour-works
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
@@ -26,7 +26,7 @@ This article aims to describe the integration flow between VTEX and __Carrefour_
 ## 1. Products
 
 ### Product Submission
-Products are sent automatically, aproximately 8 hours after the [integration setup](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2) has been successfully completed. For this, it is based on the registered sales policy and sends the first package of products.
+Products are sent automatically, aproximately 8 hours after the [integration setup](https://help.vtex.com/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2) has been successfully completed. For this, it is based on the registered sales policy and sends the first package of products.
 
 Product and SKU fields are sent together in a separate batch from the offers one (which gathers SKU inventory and price information). Both batches can be uploaded at the same time - Carrefour will validate them.
 

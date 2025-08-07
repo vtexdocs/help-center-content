@@ -14,7 +14,7 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-getting-started
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access the **Event Information** page, where you can set it up, as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access the **Event Information** page, where you can set it up, as explained in the following sections:
 
 * [Layout type - Configuring style](#layout-type-configuring-style)
 * [Live chat - Configuring administrator name](#live-chat-configuring-administrator-name)
@@ -40,7 +40,7 @@ In the **Layout Type** section, you can choose the desired layout format for bro
 * **Landscape (16:9):** Provides a horizontal view of the transmission, optimized for desktop screens.
 * **Portrait Transmission (9:16):** Provides a portrait view of the transmission, optimized for mobile screens.
 
-![article_7_screen_format_EN](https://images.ctfassets.net/alneenqid6w5/2EpPRgxSsLdIYt1JtcxCb8/130ce5d114d4efd2e9751c588b2a3931/article_7_screen_format_EN.png)
+![article_7_screen_format_EN](//images.ctfassets.net/alneenqid6w5/2EpPRgxSsLdIYt1JtcxCb8/130ce5d114d4efd2e9751c588b2a3931/article_7_screen_format_EN.png)
 
 The screen format is **Landscape (16:9)** by default, but you can change it by clicking the **Portrait (9:6)** view. The blue checkmark indicates the selected option.
 
@@ -97,7 +97,7 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 * **Chat:** Enables your audience to interact via chat during the live event. Note that if the chat is hidden, the question option will also be hidden, as this functionality is displayed above the chat.
 * **Like:** Allows users to react during the live event with the like button that has the shape of a heart.
 
-![article_7_cms_configuration_EN](https://images.ctfassets.net/alneenqid6w5/2Tb8TErEdECiHpuwvJs53G/72ea57ddb2ab71f875e0b9ab2e46983e/article_7_cms_configuration_EN.png)
+![article_7_cms_configuration_EN](//images.ctfassets.net/alneenqid6w5/2Tb8TErEdECiHpuwvJs53G/72ea57ddb2ab71f875e0b9ab2e46983e/article_7_cms_configuration_EN.png)
 
 * **Checkout cart:** Provides an `Add to cart` button that, when clicked by your audience, opens a new tab to the checkout with the product added to the customer shopping cart. The PiP (Picture in Picture) mode will also be activated, allowing the customer to continue watching the live stream while completing the purchase.
 * **Quick view:** Permits your audience to have a view of the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up, in a way that doesn’t hide the event transmission. This allows the customer to choose the size and color of a product, for example, while watching the event. 

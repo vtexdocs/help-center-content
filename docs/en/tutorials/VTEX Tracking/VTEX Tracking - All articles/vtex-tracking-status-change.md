@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: vtex-tracking-status-change
-locale: en
 legacySlug: vtex-tracking-status-change
+locale: en
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 

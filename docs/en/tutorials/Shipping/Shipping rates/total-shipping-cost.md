@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: total-shipping-cost
-locale: en
 legacySlug: total-shipping-cost
+locale: en
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
@@ -20,9 +20,9 @@ The total shipping cost is the total price charged to the customer to deliver th
 
 See how they are calculated:
 
-* **[Shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
+* **[Shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)**: is the rate listed in the shipping policy, and corresponds to the rate of a carrier or a pickup point. Does not consider warehouse and loading dock costs. It takes into consideration the following aspects:
     * A fixed shipping cost
-    * [Additional shipping costs](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): such as weight- and price-based charges, insurance and shipping charges. 
+    * [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV): such as weight- and price-based charges, insurance and shipping charges. 
 
     The shipping rate is calculated by adding the fixed cost to the additional charges. 
 
@@ -31,7 +31,7 @@ See how they are calculated:
 
 So, in general, the total shipping cost is calculated as follows:
 
-![Custo-final-envio-EN](https://images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/4b04d0319eb18cd1ee0e9c03858c5bc1/Custo-final-envio-EN.svg)
+![Custo-final-envio-EN](//images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/4b04d0319eb18cd1ee0e9c03858c5bc1/Custo-final-envio-EN.svg)
 
 <div class="alert alert-danger">
 If the <b>price-based charge</b> is lower than the <b>insurance charge</b>, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: exporting-data
-locale: en
 legacySlug: exporting-data
+locale: en
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 ---
 

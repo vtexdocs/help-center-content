@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-transbank-webpay
-locale: en
 legacySlug: setting-up-payments-with-transbank-webpay
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -45,7 +45,7 @@ To configure Transbank Webpay, follow the steps below:
 3. Click on __Webpay__.
 4. Activate the condition in the __Status__ field.
 5. Under __Process with provider__, select the option __transbank__.
-6. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 7. Click `Save`.
 
 After following the indicated steps, Transbank Webpay may take up to 10 minutes to appear at your store's checkout as a payment option.

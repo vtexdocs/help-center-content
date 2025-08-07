@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: url-mapping-301-redirect
-locale: pt
 legacySlug: adicionar-ou-editar-um-mapeamento-de-url-manualmente
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_24
 slugEN: integrating-with-farmacias-app
-locale: en
 legacySlug: integrating-with-farmacias-app
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

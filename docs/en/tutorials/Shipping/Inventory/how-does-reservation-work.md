@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: how-does-reservation-work
-locale: en
 legacySlug: how-does-reservation-work, analyze-a-products-reservations
+locale: en
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
@@ -24,12 +24,12 @@ On the VTEX platform, warehouse refers to the physical location where items are 
 
 After an item is sold, it goes through the following statuses in your store's inventory:
 
-1. **[Authorized reservation](/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation)**: after the order is placed.
-2. **[Confirmed reservation](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation):** after payment is approved.
-3. **[Acknowledged reservation](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation):** when the order status changes to **Handling shipping** in **Orders** module.
-4. **[Removal from inventory](/en/tutorial/how-does-reservation-work--tutorials_92#removal-from-inventoryy):** when the order is in transit.
+1. **[Authorized reservation](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation)**: after the order is placed.
+2. **[Confirmed reservation](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation):** after payment is approved.
+3. **[Acknowledged reservation](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation):** when the order status changes to **Handling shipping** in **Orders** module.
+4. **[Removal from inventory](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#removal-from-inventoryy):** when the order is in transit.
 
-You can track the reservation status in the VTEX Admin, [as described at the end of this article](/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status).
+You can track the reservation status in the VTEX Admin, [as described at the end of this article](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status).
 
 <div class="alert alert-warning">
 Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
@@ -43,7 +43,7 @@ The item remains with this status for a certain time, and if payment is not conf
 
 _Payment expiration period + inventory reservation period_
 
-- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
+- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
 - **Inventory reservation period:** is set automatically, following the rules below.
     - **four calendar days:** when the payment is due on a Sunday, Monday or Tuesday.
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.
@@ -69,7 +69,7 @@ The VTEX platform does not subtract items from the inventory automatically. Sold
 
 ## Removal from inventory
 
-Removing a unit from inventory updates the quantity of items available for sale. Only the retailer or the ERP can do this, in the [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) module or via the [inventory update API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Removing a unit from inventory updates the quantity of items available for sale. Only the retailer or the ERP can do this, in the [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) module or via the [inventory update API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 VTEX does not update the quantity of items that a SKU has from the inventory update history.
 
@@ -96,7 +96,7 @@ By confirming the order handling, the seller takes responsibility for reserving 
 3. In the `Reserved` column, click the blue number. If there is no number in blue in this column, it means there are no reserved units for this item.
 4. A new screen will show the reserved items of the same SKU. In the `Status` column, check the status of the reservation.
 
-As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](/en/tutorial/managing-stock-items--tutorials_139) page.
+As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) page.
 
 <div class = "alert alert-info">
 All the statuses described here are internal and exclusive to VTEX for item sales control.

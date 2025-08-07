@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
 slugEN: setting-up-the-critical-stock-alert
-locale: en
 legacySlug: setting-up-the-critical-stock-alert
+locale: en
 subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 ---
 
@@ -25,7 +25,7 @@ The critical inventory alert is a logistics functionality whose purpose is to al
 
 ## How the Alert works
 
-When the inventory of the item reaches the minimum amount configured, a task will be created on [VTEX DO](/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). It will be triggered whenever the reservation of the order is made, that is, when the order is closed, and can take from 1 to 5 minutes to show up on the VTEX DO.
+When the inventory of the item reaches the minimum amount configured, a task will be created on [VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). It will be triggered whenever the reservation of the order is made, that is, when the order is closed, and can take from 1 to 5 minutes to show up on the VTEX DO.
 
 If the reservation is canceled, for example, because a customer has canceled an order, the task will be automatically closed.
 
@@ -40,4 +40,4 @@ Yes, the alert is considered by inventory, separately.
 No, it only verifies the inventories available in the store.
 
 ### Where can I see these alerts? How can I access the VTEX DO?  
-The alerts are logged in [VTEX DO](/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) and, for now, can only be accessed using the Orders Management. However, we also provide an [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) in case you want to search or allocate a task to someone, for example.
+The alerts are logged in [VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) and, for now, can only be accessed using the Orders Management. However, we also provide an [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) in case you want to search or allocate a task to someone, for example.

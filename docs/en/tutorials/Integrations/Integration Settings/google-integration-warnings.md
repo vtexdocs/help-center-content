@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: google-integration-warnings
-locale: en
 legacySlug: google-integration-warnings
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-When integrating a VTEX store with Google Shopping, the seller must complete the [Sending products to Google Shopping](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82) process. Google may or may not approve these products.  
+When integrating a VTEX store with Google Shopping, the seller must complete the [Sending products to Google Shopping](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82) process. Google may or may not approve these products.  
 
 ## Product integration status
 
@@ -38,17 +38,17 @@ When a product has the status **Processed with error or Processed with warning**
 Below are the required fields and how to complete them:  
 
 **Price:** Required field that must be completed by entering the price type you want to display in Google Shopping.
-To identify the SKU price integration error with Google, see the documentation [Checking integrations](/en/tutorial/verificando-integracao-no-bridge/#preco).  
+To identify the SKU price integration error with Google, see the documentation [Checking integrations](https://help.vtex.com/en/tutorial/verificando-integracao-no-bridge/#preco).  
 
-**Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).   
+**Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).   
 
 <div class=”alert alert-info”>
 A product description differs from the title or product name.
 </div>  
 
-**EAN/UPC:** Required field in the [Catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the SKU's unique identification code (barcode) with up to 13 numeric characters.  
+**EAN/UPC:** Required field in the [Catalog module](https://help.vtex.com/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the SKU's unique identification code (barcode) with up to 13 numeric characters.  
 
-**Manufacturer code:** Required field in the [Catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
+**Manufacturer code:** Required field in the [Catalog module](https://help.vtex.com/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
 
 <div class=”alert alert-info”>
 The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the <a href https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>EAN/UPC</a> or the <a href https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>Manufacturer's Code</a> to a product.
@@ -56,7 +56,7 @@ The codes EAN/UPC and Manufacturer's code are required when selling manufactured
 
 **Size:** Required field only for clothing products that correspond to the category [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) and footwear that correspond to the category [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU size.  
 
-The Size field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Size field is a [custom field](https://help.vtex.com/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
 
 |**Field name**|**Field type**|
 |:---:|:---:|
@@ -66,7 +66,7 @@ This field type supports alphanumeric values such as ** S, M, L, XL, 9.5, 10, 6.
 
 **Color:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU color.  
 
-The Color field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Color field is a [custom field](https://help.vtex.com/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** |
 |:---:|:---:|
@@ -80,7 +80,7 @@ Each SKU only allows one color.
 
 **Gender:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324479?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU gender.  
 
-The Gender field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Gender field is a [custom field](https://help.vtex.com/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** | **Field value** |
 |:---:|:---:|:---:|
@@ -90,7 +90,7 @@ This field requires entering predefined values. Only the values listed under fie
 
 **Age Group:** Required field for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324463?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1#:~:text=Veja%20a%20seguir%20os%20valores%20aceitos%20para%20este%20atributo%3A) on Google. If applicable to your product, enter the SKU age group.  
 
-The **Age group** field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The **Age group** field is a [custom field](https://help.vtex.com/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** | **Field value** |
 |---|---|---|

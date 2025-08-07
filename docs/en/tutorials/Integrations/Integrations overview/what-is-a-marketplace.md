@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slugEN: what-is-a-marketplace
-locale: en
 legacySlug: what-is-a-marketplace
+locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 

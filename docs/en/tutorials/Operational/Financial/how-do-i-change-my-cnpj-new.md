@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-do-i-change-my-cnpj-new
-locale: en
 legacySlug: how-do-i-change-my-cnpj
+locale: en
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 

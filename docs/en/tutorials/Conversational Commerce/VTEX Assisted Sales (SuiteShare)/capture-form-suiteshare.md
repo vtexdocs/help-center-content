@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: capture-form-suiteshare
-locale: en
 legacySlug: capture-form
+locale: en
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

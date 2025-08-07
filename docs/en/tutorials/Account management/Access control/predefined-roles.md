@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: 127RQ7SUoFfyTh5gbXUpdM
 slugEN: predefined-roles
-locale: en
 legacySlug: 
+locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
+[Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
 
 In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
 
@@ -68,7 +68,7 @@ Resource table:
 
 ## Call center operator
 
-This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
+This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](https://help.vtex.com/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
 
 The Assisted Sales resource causes the user to be automatically redirected to the store's telesales page, which will leave the user logging into an account with this role without access to important features of the administrative menu.
 

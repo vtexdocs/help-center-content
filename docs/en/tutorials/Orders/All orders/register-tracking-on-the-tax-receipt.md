@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slugEN: register-tracking-on-the-tax-receipt
-locale: en
 legacySlug: register-tracking-on-the-tax-receipt
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 

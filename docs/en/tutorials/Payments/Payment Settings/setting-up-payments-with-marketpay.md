@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-marketpay
-locale: en
 legacySlug: setting-up-payments-with-marketpay
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -30,8 +30,8 @@ To configure MarketPay, follow the steps below:
 7. In **Provider Fields**, select or complete the fields N/A according to the provider`s instructions.
 8. Click `Save`.
 
-To configure the payment methods to be processed by MarketPay, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods to be processed by MarketPay, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 
 After following the indicated steps, MarketPay may take up to 10 minutes to appear at your store`s checkout as a payment option.

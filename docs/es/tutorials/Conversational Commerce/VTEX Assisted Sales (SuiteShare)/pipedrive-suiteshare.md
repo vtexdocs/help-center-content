@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: pipedrive-suiteshare
-locale: es
 legacySlug: pipedrive
+locale: es
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

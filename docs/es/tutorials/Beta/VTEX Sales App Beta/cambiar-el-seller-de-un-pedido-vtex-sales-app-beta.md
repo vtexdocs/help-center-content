@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: change-seller-of-an-vtex-sales-app-order-beta
-locale: es
 legacySlug: cambiar-el-seller-de-un-pedido-instore-beta
+locale: es
 subcategoryId: 5SE2asHiQtHKfbnFru8RWH
 ---
 

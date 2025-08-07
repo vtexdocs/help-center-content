@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: smartcheckout-security
-locale: en
 legacySlug: smartcheckout-security
+locale: en
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
@@ -33,7 +33,7 @@ The vulnerability assumption claims that if a scammer has a customer's email add
 
 This means that the scammer would have to authenticate via login or by using an email access code when trying to make a purchase using another person's email. Without authentication, it's not possible to access or edit the account details, such as shipping address, payment details, or email. For purchases using credit card payment, it's also necessary to insert the card security code (CVV).
 
-Moreover, at checkout, the information is hidden using a certified payment security standard [PCI-DSS](/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#). According to this standard, the last digits of a card do not need to be hidden. The displayed information allows recognizing the payment method, but it's not enough for making a purchase.
+Moreover, at checkout, the information is hidden using a certified payment security standard [PCI-DSS](https://help.vtex.com/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#). According to this standard, the last digits of a card do not need to be hidden. The displayed information allows recognizing the payment method, but it's not enough for making a purchase.
 
 <div class = "alert alert-info">
 <p>With VTEX SmartCheckout™, safety comes first. If an email address is recognized, the way the details are filled in ensures that only the email owner will recognize the information.</p><p>When accessing the store from the restricted domain <code>myvtex.com</code>, store operators can see the unmasked data in SmartCheckout to run tests. Access from this domain is restricted to store admins with the right access level and credentials.</p>

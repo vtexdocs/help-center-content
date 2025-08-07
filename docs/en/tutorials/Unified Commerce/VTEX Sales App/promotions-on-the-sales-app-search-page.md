@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Shopping
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: promotions-on-the-sales-app-search-page
-locale: en
 legacySlug: promotions-on-the-sales-app-search-page
+locale: en
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-The [promotions](/pt/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#criar-promocoes) feature on the [Sales App](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) search page has been created for merchants who want to highlight special offers directly in the search results of the Product Listing Page (PLP). This provides a better shopping experience, promotes interaction with customers, and increases the visibility of products containing multiple promotions.
+The [promotions](https://help.vtex.com/pt/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#criar-promocoes) feature on the [Sales App](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) search page has been created for merchants who want to highlight special offers directly in the search results of the Product Listing Page (PLP). This provides a better shopping experience, promotes interaction with customers, and increases the visibility of products containing multiple promotions.
 
 To display a promotion correctly in Sales App, you must:
 
@@ -31,4 +31,4 @@ When a product has multiple promotions, the sales associate in a physical store 
 
 The following image shows a promotion available on the Product Listing Page (PLP).
 
-![promoção em destaque](https://images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)
+![promoção em destaque](//images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-cms-layout
-locale: es
 legacySlug: que-es-el-cms
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
   <p>Esta funcionalidad está disponible para las tiendas que utilizan la tecnología Portal Legada.</p>
 </div>
 
-La sección [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS.
+La sección [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS.
 ## Sites and channels
 
 Si aún no ha creado un Web Site (o desea crear un nuevo), es en ese directorio que debe ir primero. Si ya tiene un Web Site, aquí es donde usted tendrá acceso y administrará toda su estructura de carpetas.
@@ -69,31 +69,31 @@ En esta sección usted puede construir URLs más amigables, haciendo que las pá
 Para administrar los archivos de su sitio Web, usted puede acceder a este directorio. En él, puede agregar, borrar y modificar archivos CSS, JavaScript, XML e imágenes.
 
 ## Referencias
-- [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Configuración](/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM)
-- [Estructura de las carpetas del Layout](/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [Lista de controles para plantillas](/es/tutorial/list-of-controls-for-templates--tutorials_563)
-- [¿Qué son las plantillas?](/es/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [¿Qué es un sitio web?](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [¿Qué son los controles?](/es/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [¿Qué son los layouts?](/es/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [¿Qué son los estantes?](/es/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [¿Qué es binding?](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
+- [Configuración](https://help.vtex.com/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM)
+- [Estructura de las carpetas del Layout](https://help.vtex.com/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
+- [Lista de controles para plantillas](https://help.vtex.com/es/tutorial/list-of-controls-for-templates--tutorials_563)
+- [¿Qué son las plantillas?](https://help.vtex.com/es/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
+- [¿Qué es un sitio web?](https://help.vtex.com/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+- [¿Qué son los controles?](https://help.vtex.com/es/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
+- [¿Qué son los layouts?](https://help.vtex.com/es/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
+- [¿Qué son los estantes?](https://help.vtex.com/es/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
+- [¿Qué es binding?](https://help.vtex.com/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Guías
-- **[Crear o editar una plantilla de página](/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
+- **[Crear o editar una plantilla de página](https://help.vtex.com/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
 
-- **[Asociar una plantilla a un layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
+- **[Asociar una plantilla a un layout](https://help.vtex.com/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
 
-- **[Gestión de placeholders](/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
+- **[Gestión de placeholders](https://help.vtex.com/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
 
-- **[Uso de controles nativos de VTEX](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Los controles son fragmentos de código que puedes utilizar en las plantillas de tu sitio web para realizar acciones específicas, por ejemplo, un control en una página de producto para mostrar el nombre del producto en la pantalla.
+- **[Uso de controles nativos de VTEX](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Los controles son fragmentos de código que puedes utilizar en las plantillas de tu sitio web para realizar acciones específicas, por ejemplo, un control en una página de producto para mostrar el nombre del producto en la pantalla.
 
-- **[¿Para qué sirve el Control Personalizado?](/es/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Además de los controles nativos de VTEX, puedes crear tus propios controles.
+- **[¿Para qué sirve el Control Personalizado?](https://help.vtex.com/es/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Además de los controles nativos de VTEX, puedes crear tus propios controles.
 
 ### Controles
-- [Lista de controles para templates](/es/tutorial/lista-de-controles-para-templates)
-- [Control de búsqueda - fulltextSearchBox](/es/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
-- [Control de destaque de la colección](/es/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
-- [Control de breadcrumbs](/es/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
-- [Controles de la plantilla de estante](/es/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)
+- [Lista de controles para templates](https://help.vtex.com/es/tutorial/lista-de-controles-para-templates)
+- [Control de búsqueda - fulltextSearchBox](https://help.vtex.com/es/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
+- [Control de destaque de la colección](https://help.vtex.com/es/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
+- [Control de breadcrumbs](https://help.vtex.com/es/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)
+- [Controles de la plantilla de estante](https://help.vtex.com/es/tutorial/controles-do-template-de-prateleira--tutorials_550?&utm_source=autocomplete)

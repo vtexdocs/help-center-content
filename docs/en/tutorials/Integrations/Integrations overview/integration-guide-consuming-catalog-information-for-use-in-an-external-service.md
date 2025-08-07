@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slugEN: integration-guide-consuming-catalog-information-for-use-in-an-external-service
-locale: en
 legacySlug: integration-guide-consuming-catalog-information-for-use-in-an-external-service
+locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 

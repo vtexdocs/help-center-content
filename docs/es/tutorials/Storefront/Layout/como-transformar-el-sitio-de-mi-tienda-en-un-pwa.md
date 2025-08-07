@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-to-turn-my-store-website-into-a-pwa
-locale: es
 legacySlug: como-transformar-el-sitio-de-mi-tienda-en-un-pwa
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slugEN: import-customer-data
-locale: en
 legacySlug: import-customer-data-brazil
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
@@ -45,5 +45,5 @@ The tables below include the data and the formats required for the import.
 
 ### Learn more
 
- * [SmartCheckout - Customer information automatic fill-in](/en/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan)
+ * [SmartCheckout - Customer information automatic fill-in](https://help.vtex.com/en/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

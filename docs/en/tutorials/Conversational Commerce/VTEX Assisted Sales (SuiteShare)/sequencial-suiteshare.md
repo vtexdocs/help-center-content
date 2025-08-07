@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: sequencial-suiteshare
-locale: en
 legacySlug: sequencial
+locale: en
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

@@ -18,7 +18,7 @@ When an order is placed using VTEX Sales App, it is possible to print the order 
 
 To do this, the sales associate can click on the `Print order` button on the completed order screen, as illustrated below. Another option is to configure VTEX Sales App to print the order summary automatically as soon as an order is placed.
 
-![15. Configurar impressão de resumo do pedido - 1 - EN](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/790d42c635583e24fafdd613393184a4/print-order-en.png)
+![15. Configurar impressão de resumo do pedido - 1 - EN](//images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/790d42c635583e24fafdd613393184a4/print-order-en.png)
 
 To enable order summary printing, follow the steps below.
 
@@ -35,8 +35,8 @@ Next, you must configure a printer connected to VTEX Sales App to print order su
 To pair VTEX Sales App with a printer, the following prerequisites must be met:
 
 * Using computer with Windows 7 or higher operating system.
-* Having VTEX Sales App installed on your computer. If you do not have it, you must install the app by following our [Installation](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh) guide.
-* Obtaining a pair of credentials (AppKey and AppToken) with the corresponding access permissions. For more information, please refer to the article [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+* Having VTEX Sales App installed on your computer. If you do not have it, you must install the app by following our [Installation](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh) guide.
+* Obtaining a pair of credentials (AppKey and AppToken) with the corresponding access permissions. For more information, please refer to the article [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 
 <div class="alert alert-info">
 <p>We recommend that the access profile associated with these credentials be the <strong>VTEX Sales App Sales Person</strong>. However, you can also use a profile with access to other Admin modules, such as <strong>Super Admin</strong>.</p>
@@ -50,13 +50,13 @@ After obtaining the AppKey and AppToken, follow the steps below.
 2. Open the VTEX Sales App app and enter the name of the store where you want to configure the printer.
 3. In the VTEX Sales App main menu, go to **Settings** and click on the <i class="fas fa-cog"></i> **Configure device** option, as shown below.
 
-![15. Configurar impressão de resumo do pedido - 2 - EN](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/6b9437dbb66b4f0d86329a38ba619e5a/configuration-en.png)
+![15. Configurar impressão de resumo do pedido - 2 - EN](//images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/6b9437dbb66b4f0d86329a38ba619e5a/configuration-en.png)
 
 <ol start="4">
   <li>You will see the summary of the configured device. If this is the first time this configuration is performed, the fields on the screen will be empty, as shown in the image below. If a device has been previously configured, you will see the <b>Device name</b> and <b>Default printer</b>. Click on the <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Edit</span> button.</li>
 </ol>
 
-![15. Configurar impressão de resumo do pedido - 4 - EN](https://images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/19ce84bc4f5f802487e75c9ce03c8fd6/image_3.png)
+![15. Configurar impressão de resumo do pedido - 4 - EN](//images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/19ce84bc4f5f802487e75c9ce03c8fd6/image_3.png)
 
 <ol start="5">
   <li>Fill out the form according to the descriptions below.

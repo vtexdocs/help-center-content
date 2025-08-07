@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: forcing-searches-with-blocked-terms-to-return-results
-locale: en
 legacySlug: forcing-searches-with-blocked-terms-to-return-results
+locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 

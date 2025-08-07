@@ -8,7 +8,6 @@ const {
 } = require("./writers/markdownGenerator");
 const { writeMarkdown } = require("./writers/fileWriter");
 const { fetchLinkedEntry } = require("./fetch/linkedEntry");
-const { fixImageLinks } = require("./utils/fixImageLinks");
 const { isArchived } = require("./utils/entryStatus");
 
 async function main() {
@@ -30,7 +29,7 @@ async function main() {
   if (invalidTypes.length > 0) {
     console.error(
       `⛔ Invalid content type(s): ${invalidTypes.join(", ")}\n` +
-        `✅ Allowed types are: ${allowedTypes.join(", ")}`
+      `✅ Allowed types are: ${allowedTypes.join(", ")}`
     );
     return;
   }
@@ -61,6 +60,7 @@ async function main() {
           entry,
           locale
         );
+
         await writeMarkdown({
           content,
           slug,
@@ -101,9 +101,8 @@ async function main() {
           isTroubleshooting
         );
 
-        const fixedContent = fixImageLinks(content);
         await writeMarkdown({
-          content: fixedContent,
+          content,
           slug,
           locale,
           folder: isTroubleshooting ? "troubleshooting" : "tutorials",
@@ -115,10 +114,9 @@ async function main() {
           entry,
           locale
         );
-        const fixedContent = fixImageLinks(content);
 
         await writeMarkdown({
-          content: fixedContent,
+          content,
           slug,
           locale,
           folder: "announcements",
@@ -131,7 +129,7 @@ async function main() {
         );
 
         await writeMarkdown({
-          content: fixImageLinks(content),
+          content,
           slug,
           locale,
           folder: "faq",

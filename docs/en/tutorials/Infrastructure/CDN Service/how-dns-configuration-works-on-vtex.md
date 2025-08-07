@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-dns-configuration-works-on-vtex
-locale: en
 legacySlug: how-dns-configuration-works-on-vtex
+locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
@@ -33,4 +33,4 @@ Redirects work in stages:
 
 These settings ensure the resolved IP address is dynamic and can change anytime. This is because this IP address adapts to match the CDN (Content Delivery Network) server closest to the visitor's location. This adaptation improves the site's performance, as files are delivered from servers geographically closer to the visitor.
 
-Learn more about DNS configuration on VTEX by reading the [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) article.
+Learn more about DNS configuration on VTEX by reading the [Go-live](https://help.vtex.com/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) article.

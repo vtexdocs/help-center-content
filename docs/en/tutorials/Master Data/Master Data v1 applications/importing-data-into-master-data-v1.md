@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: importing-data-into-master-data-v1
-locale: en
 legacySlug: importing-data-into-master-data
+locale: en
 subcategoryId: 2AThnkEZAYbk4G4EIs53rL
 ---
 

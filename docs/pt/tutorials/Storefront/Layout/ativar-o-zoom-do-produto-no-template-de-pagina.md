@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: activating-the-product-zoom-in-the-page-template
-locale: pt
 legacySlug: ativar-o-zoom-do-produto-no-template-de-pagina
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

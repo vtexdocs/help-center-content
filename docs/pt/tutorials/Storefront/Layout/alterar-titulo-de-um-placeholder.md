@@ -10,27 +10,27 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: change-a-placeholder-title
-locale: pt
 legacySlug: alterar-titulo-de-um-placeholder
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 O título de um placeholder é o que aparece no canto direito do objeto, como indica a imagem abaixo.
 
-![cms-placeholder pt](https://images.ctfassets.net/alneenqid6w5/2B81NqQBPqi6MgEAawOU4I/00578c25664eab1bded200712d574959/placeholder_destaque.png)
+![cms-placeholder pt](//images.ctfassets.net/alneenqid6w5/2B81NqQBPqi6MgEAawOU4I/00578c25664eab1bded200712d574959/placeholder_destaque.png)
 
 O texto que for inserido nesse campo é o que será exibido como título do placeholder no site da loja.
 
 Seguindo o exemplo acima, teríamos o seguinte na loja:
 
-![exemplo-placeholder pt](https://images.ctfassets.net/alneenqid6w5/3J1Xr0TrkQU8EoYsss26Ke/84287c72e31c8246e5c3f2d96a1ab740/loja_pedro_exemplo_placeholder.png)
+![exemplo-placeholder pt](//images.ctfassets.net/alneenqid6w5/3J1Xr0TrkQU8EoYsss26Ke/84287c72e31c8246e5c3f2d96a1ab740/loja_pedro_exemplo_placeholder.png)
 
 Para alterar o título de um placeholder, basta seguir os passos abaixo:
 
 1. Clique no título.
 
 2. Insira o novo título.
-![placeholder-change-name pt](https://images.ctfassets.net/alneenqid6w5/59J7ZEZe4w8uAS2kGa4qIW/9f8adbf11d44c3ffe54d9178fbb363dc/change_name_pt.png)
+![placeholder-change-name pt](//images.ctfassets.net/alneenqid6w5/59J7ZEZe4w8uAS2kGa4qIW/9f8adbf11d44c3ffe54d9178fbb363dc/change_name_pt.png)
 
 3. Clique em __Rename__.
 

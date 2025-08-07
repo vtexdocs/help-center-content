@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Apps
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: assembly-options-app
-locale: es
 legacySlug: aplicacion-assembly-options
+locale: es
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 <p>Esta aplicación solo está disponible para las tiendas que usan<a href="https://vtex.com/br-pt/store-framework/"> VTEX IO</a>. Antes de continuar, debes <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar y configurar Product Customizer</a> en tu tienda.</p>
 </div>
 
-En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) (opciones de ensamblaje). Esta solución consiste en crear [anexos](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
+En VTEX, puedes tener opciones de personalización de productos disponibles cuando usas [Assembly Options](https://help.vtex.com/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) (opciones de ensamblaje). Esta solución consiste en crear [anexos](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos en los cuales es necesario gestionar distintas combinaciones de productos, cantidades, ítems adicionales y costos.
 
 La [aplicación Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) proporciona una interfaz para configurar y gestionar las opciones de personalización en tiendas que usan [VTEX IO](https://vtex.com/es-es/store-framework/) en lugar de implementar las opciones de ensamblaje a través de los anexos del Catálogo.
 
@@ -37,11 +37,11 @@ Una vez instalada, la página **Catálogo > Opciones de ensamblaje** estará dis
 
 En el Admin VTEX, en **Catálogo > Opciones de ensamblaje**, tendrás acceso a una lista con todas las Opciones de ensamblaje registradas en tu tienda cuando uses la aplicación.
 
-![assembly-options-app-es](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
+![assembly-options-app-es](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
 
 La información que aparecerá en la lista será:
 
-* **ID:** muestra el ID de la opción de ensamblaje, la cual equivale al ID del [anexo](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) en el **Catálogo**.
+* **ID:** muestra el ID de la opción de ensamblaje, la cual equivale al ID del [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) en el **Catálogo**.
 * **Nombre:** muestra el nombre del anexo de la opción de ensamblaje.
 * **Obligatorio:** cuando tiene un <i class="far fa-check-circle"></i>, esta columna indica que el anexo de opción de ensamblaje es obligatorio. Si el campo está vacío, significa que no es obligatorio.
 * **Status:** indica el status de la opción de ensamblaje, la cual puede ser:
@@ -89,5 +89,5 @@ Al guardar la opción de ensamblaje, se creará un anexo automáticamente en **C
 
 ## Más información
 
-* [Opciones de ensamblaje](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
-* [¿Qué es un anexo?](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm)
+* [Opciones de ensamblaje](https://help.vtex.com/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
+* [¿Qué es un anexo?](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm)

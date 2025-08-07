@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: adapting-your-integration-for-order-modifications
-locale: en
 legacySlug: adapting-your-integration-for-change-order-beta
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-To evolve the VTEX platform for order modifications, we are launching [Order modifications](/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ), a more complete and flexible solution that provides a [new experience in the VTEX Admin](/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+To evolve the VTEX platform for order modifications, we are launching [Order modifications](https://help.vtex.com/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ), a more complete and flexible solution that provides a [new experience in the VTEX Admin](https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
 
 After interactions between our engineering team, clients, and partners, we created this content with the best implementation practices and frequently asked questions. The goal is for future clients and partners to have this support material when they start using **Order modifications**.
 
@@ -32,21 +32,21 @@ The following sections outline the main use cases for **Order modifications** an
 
 ### Communication with customers via transactional email
 
-**Order modifications** uses new templates for [transactional emails](/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my) (Message Center) to cover the solution's innovative features.
+**Order modifications** uses new templates for [transactional emails](https://help.vtex.com/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my) (Message Center) to cover the solution's innovative features.
 
-To customize an email template in the VTEX Admin, copy and paste the link below into your browser, replacing `{accountName}` with your store's [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), and then click `Enter`:
+To customize an email template in the VTEX Admin, copy and paste the link below into your browser, replacing `{accountName}` with your store's [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), and then click `Enter`:
 
 `https://{accountName}.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-changed-v2`
 
 ### Managing order modifications through the VTEX Admin
 
-For stores using the current version to modify orders through the VTEX Admin, the updated interfaces will be immediately available for you to use **Order modifications** once the VTEX team has installed the new solution. This includes new management features and communication tools for [My Account](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) and [transactional email templates](/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
+For stores using the current version to modify orders through the VTEX Admin, the updated interfaces will be immediately available for you to use **Order modifications** once the VTEX team has installed the new solution. This includes new management features and communication tools for [My Account](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) and [transactional email templates](https://help.vtex.com/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
 
 ### Managing order modifications via API
 
 For stores that use our APIs, the implementation in the integration must comply with the new feature architecture.
 
-In **Order modifications,** the [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) endpoint works asynchronously, and the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) or integration that makes the request receives a `requestId` from the platform, which is a unique identifier to track the order modifications operation. This identifier will later be used in some of the endpoints. All the **Order modifications** endpoints are:
+In **Order modifications,** the [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) endpoint works asynchronously, and the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) or integration that makes the request receives a `requestId` from the platform, which is a unique identifier to track the order modifications operation. This identifier will later be used in some of the endpoints. All the **Order modifications** endpoints are:
 
 * [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)
 * [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: registering-a-commercial-condition
-locale: en
 legacySlug: registering-a-commercial-conditioin
+locale: en
 subcategoryId: 6312YEqn0AGYCsOOESSIQM
 ---
 

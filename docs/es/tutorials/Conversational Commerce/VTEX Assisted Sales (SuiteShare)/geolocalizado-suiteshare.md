@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: geolocalizado-suiteshare
-locale: es
 legacySlug: geolocalizado
+locale: es
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

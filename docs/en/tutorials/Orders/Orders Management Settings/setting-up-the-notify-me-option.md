@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: setting-up-the-notify-me-option
-locale: en
 legacySlug: set-up-the-notify-me
+locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
@@ -19,11 +19,11 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 <p>This article explains how to set up the <strong>Notify me</strong> feature in stores that use <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>. For stores using <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, the setup follows the steps described in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify">Availability Notify</a> guide.</p>
 </div>
 
-When a product is out of [stock](/en/tutorial/managing-stock-items--tutorials_139), the retailer may choose to make the **Notify me** feature available to the customer. This feature allows interested customers to be notified by email when the item is available again.
+When a product is out of [stock](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139), the retailer may choose to make the **Notify me** feature available to the customer. This feature allows interested customers to be notified by email when the item is available again.
 
 See below an example of how the **Notify me** option is displayed in a store. To receive a notification when the item is back in store, the customer must type in the name and the email in the marked fields and then click on the `Send` button.
 
-![aviseme-en](https://images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/1ae27f3cae7404d1ba86d4e06c231fd6/132012045-06c65073-2692-4827-b08a-7be5730b6422.png)
+![aviseme-en](//images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/1ae27f3cae7404d1ba86d4e06c231fd6/132012045-06c65073-2692-4827-b08a-7be5730b6422.png)
 
 As soon as the item is back in stock, the system automatically sends an email to the customer informing them that the product is available for purchase again. 
 
@@ -70,7 +70,7 @@ To set up the **Notify me** template for the emails which will be sent to the cu
 
 ## Learn more
 
-* [Exporting customers who signed up for the availability notification (Notify me)](/en/tutorial/exporting-clients-registered-in-the-availability-notification--3Yr19DMQukGeIImUeCwIao)
-* [Inserting images in the "Notify me" email](/en/tutorial/inserting-images-into-let-me-know-email--3soCXGcE3XBPsnPhxJh2DY)
-* [What to do when the "Notify me" option is not displayed](/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed--oNb6JK1LPMOQwYsecKKCs)
+* [Exporting customers who signed up for the availability notification (Notify me)](https://help.vtex.com/en/tutorial/exporting-clients-registered-in-the-availability-notification--3Yr19DMQukGeIImUeCwIao)
+* [Inserting images in the "Notify me" email](https://help.vtex.com/en/tutorial/inserting-images-into-let-me-know-email--3soCXGcE3XBPsnPhxJh2DY)
+* [What to do when the "Notify me" option is not displayed](https://help.vtex.com/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed--oNb6JK1LPMOQwYsecKKCs)
 

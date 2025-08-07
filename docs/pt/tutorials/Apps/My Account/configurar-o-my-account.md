@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slugEN: setting-up-my-account
-locale: pt
 legacySlug: configurar-o-my-account
+locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 </div>
 
-O novo [My Account](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) já está instalado em todas as contas VTEX em um <strong>ambiente teste</strong>, permitindo ajustes na nova página sem impactos na experiência do usuário. 
+O novo [My Account](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) já está instalado em todas as contas VTEX em um <strong>ambiente teste</strong>, permitindo ajustes na nova página sem impactos na experiência do usuário. 
 
 Isso quer dizer que o My Account já está disponível para a sua loja realizar as customizações necessárias, antes da migração massiva do aplicativo para produção, através do link abaixo:
 

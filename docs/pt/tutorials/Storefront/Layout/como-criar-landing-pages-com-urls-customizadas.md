@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-create-landing-pages-with-customized-urls
-locale: pt
 legacySlug: como-funciona-o-contexto-de-busca, como-funciona-o-contexto-de-busca-das-pastas-do-website
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

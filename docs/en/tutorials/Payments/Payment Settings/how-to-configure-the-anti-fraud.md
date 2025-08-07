@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-to-configure-the-anti-fraud
-locale: en
 legacySlug: how-to-configure-the-anti-fraud
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

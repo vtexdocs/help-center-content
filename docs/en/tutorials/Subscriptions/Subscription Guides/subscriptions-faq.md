@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: subscriptions-faq
-locale: en
 legacySlug: subscriptions-faq
+locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
@@ -21,7 +21,7 @@ This article intends to answer some of the most frequently asked questions about
 The number of subscriptions is unlimited, both for your store and for your customer. It means that there is not a limited number of subscriptions to be sold by your store or purchased by your customer. However, it is important to be aware of the conditions that apply to subscriptions.  
 
 ### Can my customer buy via subscription and pick up from stores or other pickup points?
-Yes, read our article [Pickup points for Subscriptions (Beta)](/en/tutorial/pickup-points-for-subscription-orders-beta--csIqB6iBh4QNIFdEj0nVv) for more information.
+Yes, read our article [Pickup points for Subscriptions (Beta)](https://help.vtex.com/en/tutorial/pickup-points-for-subscription-orders-beta--csIqB6iBh4QNIFdEj0nVv) for more information.
 
 ### Can my customer add more than one address to their subscription?
 It is not possible to add more than one address to the same subscription.  
@@ -59,7 +59,7 @@ By default, subscription orders are created between 6:00 and 7:00 a.m. UTC-3.
 However, you can set a different time via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) request. Send the new time in the `executionHourInUtc` field.
 
 ### Does the functionality Subscriptions work with Seller Portal?
-No, Subscriptions does not work with [Seller Portal](/en/tutorial/how-to-set-up-your-store-on-seller-portal).
+No, Subscriptions does not work with [Seller Portal](https://help.vtex.com/en/tutorial/how-to-set-up-your-store-on-seller-portal).
 
 ### How does it work to create subscriptions from original orders that have SKUs with attachments?
-By default, stores do not create subscription orders associating SKU [attachments](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+By default, stores do not create subscription orders associating SKU [attachments](https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-to-prevent-your-site-from-being-cloned
-locale: en
 legacySlug: how-to-prevent-your-site-from-being-cloned
+locale: en
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
@@ -45,7 +45,7 @@ This type of out-of-court request can be submitted directly to the hosting or do
 
 Make sure that all your store pages use HTTPS to ensure secure data transmission. Cloned sites often use invalid HTTP or certificates, which can be an indication that it isn't a legitimate page.
 
-Learn more about how to activate HTTPS in your VTEX store in [Changing the pages of the site to HTTPS protocol](/en/tutorial/how-do-i-use-the-https-protocol-on-my-stores-pages--frequentlyAskedQuestions_4378).
+Learn more about how to activate HTTPS in your VTEX store in [Changing the pages of the site to HTTPS protocol](https://help.vtex.com/en/tutorial/how-do-i-use-the-https-protocol-on-my-stores-pages--frequentlyAskedQuestions_4378).
 
 ## Monitor your brand's online presence
 
@@ -55,4 +55,4 @@ Check whether campaigns are displaying as expected and look for any unusual drop
 
 ## Learn more
 
-- [Best practices for the success of your VTEX store](/en/tutorial/best-practices-for-the-success-of-your-vtex-store--ItKyLqcRl9wNADMhYH8O4#performance-and-security)
+- [Best practices for the success of your VTEX store](https://help.vtex.com/en/tutorial/best-practices-for-the-success-of-your-vtex-store--ItKyLqcRl9wNADMhYH8O4#performance-and-security)

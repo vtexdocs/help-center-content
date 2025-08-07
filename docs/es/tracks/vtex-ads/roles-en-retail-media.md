@@ -11,7 +11,7 @@ productTeam: Others
 slugEN: retail-media-roles
 locale: es
 trackId: 4sZoGHUrBNlaPMrtPCqGvA
-trackSlugES: vtex-ads
+trackSlugEN: vtex-ads
 ---
 
 En una operación de retail media destacan tres roles principales: **anunciantes**, **publicadores y agencias de marketing**. Consulta a continuación en qué consiste cada uno de estos roles y cómo actúan en el contexto de VTEX Ads:

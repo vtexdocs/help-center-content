@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: regular-promotion
-locale: en
 legacySlug: regular-promotion
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-On VTEX, you can [create different types of promotions](/en/tutorial/como-criar-promocoes--tutorials_320) for a range of scenarios, but the most commonly used is the regular promotion.This promotion type allows you to configure discounts in a flexible and controlled way, combining multiple conditions, usage restrictions, and benefits.
+On VTEX, you can [create different types of promotions](https://help.vtex.com/en/tutorial/como-criar-promocoes--tutorials_320) for a range of scenarios, but the most commonly used is the regular promotion.This promotion type allows you to configure discounts in a flexible and controlled way, combining multiple conditions, usage restrictions, and benefits.
 
 ## Creating a regular promotion
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
@@ -86,7 +86,7 @@ Each field allows you to select the options **Equal to** (inclusion) or **Differ
 
 In the example below, the promotion was configured to include all products in the Food category with the Pedigree brand, except the Whiskas Sachet product. Fields were completed as follows:
 
-![Tela quais itens-EN](https://images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/1a96b896b9e9472cd7b0200ec41832b0/Tela_quais_itens-EN.png)
+![Tela quais itens-EN](//images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/1a96b896b9e9472cd7b0200ec41832b0/Tela_quais_itens-EN.png)
 
 To simplify adding products or SKUs, you can upload a **.txt** file containing their desired IDs. Each ID should be on a separate line. To upload:
 
@@ -108,7 +108,7 @@ The customer cart must meet the conditions specified in this section for the pro
 - **Full price and discounted price are the same** or **Full price and discounted price are different:** Refers to the added product prices. Only one can be selected.
 - **Use restriction BINs:** The discount will be granted to users paying with cards whose BINs are among the numbers entered in this field.
 - **Marketing tags:** Field used to associate the promotion with specific campaigns.
-- **Affiliates:** The affiliate is the seller's identifier for the marketplace. The discount will be applied to the selected affiliates. See the [What is an affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0?locale=pt) article for more information.
+- **Affiliates:** The affiliate is the seller's identifier for the marketplace. The discount will be applied to the selected affiliates. See the [What is an affiliate](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0?locale=pt) article for more information.
 - **Customer cluster:** The discount will be given if the customer is included in the cluster selected in this field. Note that the cluster name must be identical to the one added; any misspelling will prevent the configuration from working correctly.
 - **Shipping countries:** The discount will apply to items shipped to the countries selected in this field.
 - **Shipping to postal code should:** The discount will apply if the shipping postal code meets the configured rule.
@@ -150,7 +150,7 @@ The customer cart must meet the conditions specified in this section for the pro
 ### 4. Restrictions and limitations of use
 - **How many times will this promotion be applied in your store:** Limits the number of times the promotion will be applied. If you uncheck the **unlimited** field, the times field becomes available to enter the maximum number of times the promotion can be used. This only applies to orders created after the condition has been set up. It will not affect orders placed previously.
 - **How many times per customer will this promotion be applied in your store:** Sets a limit on how many times each customer can benefit from the promotion. If the above field is also selected, the store limit will have a higher priority than this one.
-- **Set maximum number of eligible items for each cart:** Defines the maximum number of items in the cart that will be affected by the promotion. See [this article](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy) to learn how to configure this field.
-- **Apply with other promotions:** If selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
+- **Set maximum number of eligible items for each cart:** Defines the maximum number of items in the cart that will be affected by the promotion. See [this article](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy) to learn how to configure this field.
+- **Apply with other promotions:** If selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
 - **Apply with manual prices:** Allows the promotion to apply to products whose prices were manually added via telesales. To enable the manual pricing feature, use the [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) endpoint.
 

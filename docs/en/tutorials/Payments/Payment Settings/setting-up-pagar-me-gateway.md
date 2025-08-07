@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-pagar-me-gateway
-locale: en
 legacySlug: setting-up-pagar-me-gateway
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

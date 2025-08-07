@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: cms-folder-structure
-locale: es
 legacySlug: estructura-de-carpetas-del-cms
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -65,4 +65,4 @@ Hay dos carpetas que, aunque no son tan importantes como las anteriores, suelen 
 
 - `/sistema/buscavazia`: carpeta donde el usuario es dirigido si la búsqueda no encuentra resultados.
 - `/sistema/{codigoHTTP}`: carpeta que renderiza páginas de errores de acuerdo con los códigos de status HTTP, tales como `404` (página no encontrada), `401` (no autorizado) y `500` (error de servidor).
-- `/sistema/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [sobre la búsqueda de VTEX](/es/tutorial/como-funciona-a-busca-da-vtex).
+- `/sistema/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [sobre la búsqueda de VTEX](https://help.vtex.com/es/tutorial/como-funciona-a-busca-da-vtex).

@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: campaign-audiences-list
-locale: en
 legacySlug: campaign-audiences-list
+locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
 Your store's campaign audience list is available in the VTEX Admin, on the *Promotions > Campaign audience* page, illustrated below.
 
-![lista-audiencias-campanha-en](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/cec59b7c69282287586b1db574aedfe7/lista-audiencias-campanha-en.png)
+![lista-audiencias-campanha-en](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/cec59b7c69282287586b1db574aedfe7/lista-audiencias-campanha-en.png)
 
 On this page, you can perform the following actions:
 
@@ -29,7 +29,7 @@ On this page, you can perform the following actions:
 
 ### Creating a campaign audience
 
-To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
+To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
 
 <div class="alert alert-warning">
   <p>To activate the newly created campaign audience, you must associate it to a <a href="https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume">Campaign promotion</a>.</p>
@@ -46,11 +46,11 @@ The campaign audiences are displayed in _cards_ containing the following informa
 * **Status:** Current availability status of the campaign audience.
     * **Active:** The campaign audience is available to use in your store's promotion campaigns, i.e. it is not archived.
     * **Inactive:** The campaign audience is not available to use in your store's promotion campaigns. This status is not permanent — you can reactivate a campaign audience at any time.
-* **Target audience:** Name of the [target audience](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) associated to the campaign audience.
+* **Target audience:** Name of the [target audience](https://help.vtex.com/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) associated to the campaign audience.
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 
-![toggle-audiencias-campanha-arquivadas-en](https://images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/853066310add51cccf742dc10ea0283b/toggle-audiencias-campanha-arquivadas-en.png)
+![toggle-audiencias-campanha-arquivadas-en](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/853066310add51cccf742dc10ea0283b/toggle-audiencias-campanha-arquivadas-en.png)
 
 To return to the campaign audiences which have not been archived, click **Not Archived**.
 
@@ -80,6 +80,6 @@ To change any campaign settings, follow the steps below:
 
 ## Learn more
 
-- [Campaign audiences](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m)
-- [Creating a campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
-- [Creating a campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)
+- [Campaign audiences](https://help.vtex.com/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m)
+- [Creating a campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
+- [Creating a campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: security-monitor
-locale: en
 legacySlug: security-monitor
+locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
@@ -26,7 +26,7 @@ To access the dashboard, follow the steps below:
 1. In the VTEX Admin, go to **Dashboards**, or type **Dashboards** in the search bar.
 2. Under **Security Monitor**, click **Security Monitor Dashboard**.
 
-![1-security-monitor-en](https://images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/2cc1c397d80b020cdee8743eb79fa2b7/security-monitor-en.png)
+![1-security-monitor-en](//images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/2cc1c397d80b020cdee8743eb79fa2b7/security-monitor-en.png)
 
 Security Monitor displays the findings in three tabs based on their status:
 
@@ -49,7 +49,7 @@ The **Open** tab displays the threats detected by the Security Monitor that have
 
 The top bar displays the total number of findings and the number of threats by severity level (high, medium, or low).
 
-![2-findings-en](https://images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/e70417627fcb41986d7ab06be2aaafcd/findings-en.png)
+![2-findings-en](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/e70417627fcb41986d7ab06be2aaafcd/findings-en.png)
 
 The tab displays the full list of open findings in a table, from the most recent to the oldest:
 
@@ -80,7 +80,7 @@ To move a finding to the **Snoozed** tab, removing it temporarily from the **Ope
 3. Choose the number of days you want the finding to remain in the **Snoozed** tab. The options available are: **7**, **90**, or **120** days.
 4. Click `Snooze`.
 
-![3-snooze-finding-en](https://images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/c7ca24c6ee12e307477b5436fd7ded5d/snooze-en.png)
+![3-snooze-finding-en](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/c7ca24c6ee12e307477b5436fd7ded5d/snooze-en.png)
 
 ## Snoozed
 
@@ -109,7 +109,7 @@ In the search bar, enter the user's email address or the name of the application
 
 By clicking `Type` <i class="fas fa-chevron-down"></i>, you can choose one of the finding types to filter the results displayed in the list. Click `Apply` to confirm the chosen filter, and the list will be updated.
 
-![4-filter-findings-en](https://images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/144c7b2efaaf32d4ef8de3cdb115eb47/filter-security-monitor-en.png)
+![4-filter-findings-en](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/144c7b2efaaf32d4ef8de3cdb115eb47/filter-security-monitor-en.png)
 
 ## Exporting findings
 
@@ -153,11 +153,11 @@ To edit the admin users who will be notified about the findings, follow the step
    To remove a user, click the `X` next to their email.
 3. Click `Save`.
 
-![5-edit-notifications-en](https://images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/d7022e75253fe620253513a811edad0f/notifications-security-monitor-en.png)
+![5-edit-notifications-en](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/d7022e75253fe620253513a811edad0f/notifications-security-monitor-en.png)
 
 ## Learn more
 
-* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Users](/en/tutorial/managing-users--tutorials_512)
-* [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+* [Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)
+* [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slugEN: filtering-data-on-master-data
-locale: en
 legacySlug: filtering-data-on-master-data
+locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: payments
-locale: pt
 legacySlug: pagamentos-data-pipeline-beta
+locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
@@ -194,16 +194,16 @@ As análises com o conjunto de dados de Pagamentos são as seguintes:
 
 Nos dados de pagamentos da plataforma VTEX, notam-se correlações com outros conjuntos de dados que ampliam a compreensão do ciclo de compras:  
 
-**- Interação com dados de [pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** análise dos dados de pagamento em conjunto com os pedidos oferece insights sobre como os métodos de pagamento influenciam nas conversões de pedidos, revelando tendências no comportamento de compra dos clientes.  
+**- Interação com dados de [pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** análise dos dados de pagamento em conjunto com os pedidos oferece insights sobre como os métodos de pagamento influenciam nas conversões de pedidos, revelando tendências no comportamento de compra dos clientes.  
 **- Análises financeiras e contábeis:** integrar dados de pagamento com análises financeiras contribui para uma gestão mais eficiente do fluxo de caixa e permite previsões financeiras mais precisas, auxiliando na saúde financeira da empresa.
 
 ### Conheça outros Conjuntos de dados
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegação](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
+- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
+- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

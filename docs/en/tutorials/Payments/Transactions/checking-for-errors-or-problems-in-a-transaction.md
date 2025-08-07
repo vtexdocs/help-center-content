@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: checking-for-errors-or-problems-in-a-transaction
-locale: en
 legacySlug: checking-for-errors-or-problems-in-a-transaction
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -27,7 +27,7 @@ You can <a href="https://help.vtex.com/en/faq/credit-card-basic-payment-flow">cl
 
 ## Check the transaction status
 
-To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en "In this article"), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
+To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](https://help.vtex.com/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en "In this article"), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
 
 ## Check the partner's reply messages
 

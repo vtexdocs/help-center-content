@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: configuring-the-duration-of-api-keys
-locale: en
 legacySlug: configuring-the-duration-of-api-keys-beta
+locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
@@ -21,7 +21,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 The **API Keys** page allows you to configure the duration of the API tokens generated when you create a key. Setting the duration of API keys is important to guarantee security, limit exposure to risks, control access to resources, and minimize the impact of compromised keys.
 
-![apikeys-settings-en](https://images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/aef6470321db869b6e149cc4e6f7c914/apikeys-settings-en.png)
+![apikeys-settings-en](//images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/aef6470321db869b6e149cc4e6f7c914/apikeys-settings-en.png)
 
 By default, the duration applied to API keys is three months unless another option is selected.
 
@@ -45,6 +45,6 @@ This period will apply to all new and existing keys, using the created date as t
 
 ## Learn more
 
-* [API Keys (Beta)](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
-* [Generated keys (Beta)](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)
-* [External keys (Beta)](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)
+* [API Keys (Beta)](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
+* [Generated keys (Beta)](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)
+* [External keys (Beta)](https://help.vtex.com/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)

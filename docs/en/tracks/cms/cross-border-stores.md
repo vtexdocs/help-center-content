@@ -14,7 +14,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---
 
-A cross-border store is a type of [multistore](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), which at VTEX means an account with multiple [bindings](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) and different sales channels for each one of its local stores.
+A cross-border store is a type of [multistore](https://help.vtex.com/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759), which at VTEX means an account with multiple [bindings](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) and different sales channels for each one of its local stores.
 
 Cross-border stores can reach shoppers worldwide by offering localized shopping experiences for your store's customers. 
 
@@ -48,9 +48,9 @@ Since a cross-border store can have multiple bindings and reach shoppers worldwi
 
 ## Related articles
 
-- [How to create a multistore / multidomain?](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
+- [How to create a multistore / multidomain?](https://help.vtex.com/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [What is binding?](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [What is binding?](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
 
-- [How trade policies work?](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [How trade policies work?](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
 

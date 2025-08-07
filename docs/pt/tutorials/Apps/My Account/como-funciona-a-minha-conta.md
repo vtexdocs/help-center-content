@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-my-account-works
-locale: pt
 legacySlug: como-funciona-o-my-account
+locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
@@ -98,13 +98,13 @@ Em `Pedir novamente`, o carrinho do pedido selecionado será duplicado. Isso sig
 
 ### Solicitar cancelamento
 
-O cliente pode solicitar o cancelamento do seu pedido a qualquer momento. Se solicitado durante o [tempo de carência para cancelamento](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC), não é necessário a aprovação da loja para a efetivação do cancelamento.
+O cliente pode solicitar o cancelamento do seu pedido a qualquer momento. Se solicitado durante o [tempo de carência para cancelamento](https://help.vtex.com/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC), não é necessário a aprovação da loja para a efetivação do cancelamento.
 
-Saiba mais sobre [como funciona o cancelamento de um pedido quando o mesmo é solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).
+Saiba mais sobre [como funciona o cancelamento de um pedido quando o mesmo é solicitado pelo cliente](https://help.vtex.com/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).
 
 ### Ver detalhes do pedido
 
-Ao clicar em um pedido da listagem, o cliente poderá visualizar todos os detalhes do seu pedido, como endereço de entrega, forma de pagamento utilizada e o total pago. Além disso, é possível visualizar informações de rastreio por itens do pedido e uma linha do tempo com todos os estados do [fluxo do pedido](/pt/tutorial/fluxo-de-pedido--tutorials_196).
+Ao clicar em um pedido da listagem, o cliente poderá visualizar todos os detalhes do seu pedido, como endereço de entrega, forma de pagamento utilizada e o total pago. Além disso, é possível visualizar informações de rastreio por itens do pedido e uma linha do tempo com todos os estados do [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196).
 
 O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta página. Ao clicar em `Mais opções`, são exibidas as funcionalidades de [Alterar pedido](#alterar-pedido) (caso esteja ativada e o pedido esteja no status `Preparando Entrega`) e [Solicitar cancelamento](#solicitar-cancelamento).
 
@@ -114,9 +114,9 @@ O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta págin
 
 Se o pedido estiver no status `Preparando entrega`, é possível escolher `Alterar pedido` ao clicar em `Mais opções` na página de detalhes do pedido.
 
-Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
+Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](https://help.vtex.com/pt/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
 
-Esse botão permite ao cliente mudar informações do pedido, como endereço, forma de pagamento e itens do carrinho, sem a necessidade de realizar um novo pedido ou de entrar em contato com a equipe de atendimento da loja. Leia o artigo [Como funciona a Substituição de Pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos) para saber mais.
+Esse botão permite ao cliente mudar informações do pedido, como endereço, forma de pagamento e itens do carrinho, sem a necessidade de realizar um novo pedido ou de entrar em contato com a equipe de atendimento da loja. Leia o artigo [Como funciona a Substituição de Pedidos](https://help.vtex.com/pt/tutorial/como-funciona-a-substituicao-de-pedidos) para saber mais.
 
 ## Cartões
 
@@ -137,27 +137,27 @@ Para adicionar novos cartões, siga os passos abaixo:
 
 ![Card ReCaptcha](https://images.contentful.com/alneenqid6w5/2xGRuG3f5S56POV684Q2Y3/01beb926fb436c05a10b74f7678b954c/Card_ReCaptcha_EN.gif)
 
-Contudo, existem limitações que precisam ser consideradas pelas lojas que utilizam a autenticação [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 ou V2) em suas adquirentes:
+Contudo, existem limitações que precisam ser consideradas pelas lojas que utilizam a autenticação [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 ou V2) em suas adquirentes:
 
-* Caso o comprador tente cadastrar um novo cartão sem tê-lo utilizado previamente na sua loja, a mensagem_ Ocorreu um erro ao tentar cadastrar o cartão_ será exibida. Para mais detalhes, acesse nossa documentação [Salvar novo cartão não funciona com o uso do 3DS](/pt/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
+* Caso o comprador tente cadastrar um novo cartão sem tê-lo utilizado previamente na sua loja, a mensagem_ Ocorreu um erro ao tentar cadastrar o cartão_ será exibida. Para mais detalhes, acesse nossa documentação [Salvar novo cartão não funciona com o uso do 3DS](https://help.vtex.com/pt/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
 * Em **Assinaturas**, não é possível primeiramente salvar o cartão e depois ativar a assinatura do serviço desejado. Em situações como essa, é necessário ativar a assinatura ao realizar a compra, dessa forma, o cartão será salvo automaticamente.
 
 * Se o cartão de crédito salvo na aba **Cartões** estiver com a data de validade expirada, será necessário removê-lo e realizar uma nova compra para salvá-lo, pois devido à autenticação **3DS**, não é possível atualizar e confirmar os dados do cartão sem ter realizado uma transação na loja.
 
-* Em casos de Marketplace, a opção `Salvar cartão` na aba **Cartões** não será possível para casos em que a condição de pagamento relativa ao cartão de crédito esteja associada apenas ao [seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-um-seller-white-label). Isso acontece porque a validação do cartão é feita diretamente na conta principal, por meio de uma transação teste, no valor de R$1,50, que logo seguida é reembolsável.
+* Em casos de Marketplace, a opção `Salvar cartão` na aba **Cartões** não será possível para casos em que a condição de pagamento relativa ao cartão de crédito esteja associada apenas ao [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa?&utm_source=autocomplete#o-que-e-um-seller-white-label). Isso acontece porque a validação do cartão é feita diretamente na conta principal, por meio de uma transação teste, no valor de R$1,50, que logo seguida é reembolsável.
 
-    Em outras palavras, para que seja possível salvar o cartão, a [condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de cartão de crédito precisa estar também na conta principal, neste caso, no Marketplace.
+    Em outras palavras, para que seja possível salvar o cartão, a [condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de cartão de crédito precisa estar também na conta principal, neste caso, no Marketplace.
 
 ## Assinaturas
 
-Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
+Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
 
 ## Autenticação
 
 Esta aba pode ser acessada no painel esquerdo pelo item **Autenticação** nas configurações de perfil do usuário. Na aba são encontradas opções para gerenciamento de senha e gerenciamento de sessões.
 
-![My Authentication app PT](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/1f8fe73f29fcee82f33e27aa07daa83f/My_Authentication_app_PT.png)
+![My Authentication app PT](//images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/1f8fe73f29fcee82f33e27aa07daa83f/My_Authentication_app_PT.png)
 
 ### Gerenciamento de senha
 
@@ -167,7 +167,7 @@ O componente **Senha** permite que o usuário crie uma senha (caso ainda não po
 2. No campo **Código**, insira o código de verificação recebido por email.
 3. No campo **Nova senha**, insira a nova senha que deseja atribuir à sua conta. Abaixo do campo aparecem os requisitos que a senha deve obedecer para ser válida. Conforme a senha é digitada, os símbolos de cada requisito se alteram de vermelho para verde. A senha será válida somente se todos os símbolos estiverem verdes.
 4. Após ter inserido uma senha válida, clique no botão `SALVAR SENHA` para concluir a criação da senha.  
-![My Authentication create password PT](https://images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/3f8b8b62a8722e515edc0eae6322ff6a/My_Authentication_create_password_PT.png)
+![My Authentication create password PT](//images.ctfassets.net/alneenqid6w5/5EDsOOYVAUmNolMnzs22FD/3f8b8b62a8722e515edc0eae6322ff6a/My_Authentication_create_password_PT.png)
 
 Para mudar a senha atual:
 
@@ -175,7 +175,7 @@ Para mudar a senha atual:
 2. Digite a senha atual no campo correspondente.
 3. Digite a nova senha no campo correspondente, obedecendo todos os requisitos.
 4. Clique no botão `SALVAR SENHA` para concluir a mudança de senha.  
-![My Authentication change password PT](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/94f7323e8d97d28a4d5dac042c5c620b/My_Authentication_change_password_PT.png)
+![My Authentication change password PT](//images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/94f7323e8d97d28a4d5dac042c5c620b/My_Authentication_change_password_PT.png)
 
 <div class="alert alert-info">
 Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link <strong>Esqueci minha senha</strong>.
@@ -189,7 +189,7 @@ Para visualizar as sessões ativas, clique no botão `VER SESSÕES` e você ser�
 
 Para revogar o acesso das outras sessões, clique no botão `DESLOGAR` da sessão desejada.
 
-![My Authentication Session Management PT](https://images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/0b818eb59e66b445874945c9e0784e9c/My_Authentication_Session_Management_PT_blur.png)
+![My Authentication Session Management PT](//images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/0b818eb59e66b445874945c9e0784e9c/My_Authentication_Session_Management_PT_blur.png)
 
 ## Configurações básicas
 
@@ -200,7 +200,7 @@ No **My Orders**, você pode determinar quais seções estarão visíveis para o
 * Em **ORDERS**, a opção <a class="far fa-check-square"></a> _Visible_ determina se o cliente tem a seção [Pedidos](#pedidos) para acompanhar seus pedidos.
 * Em **ADDRESSES**, a opção <a class="far fa-check-square"></a> _Visible_ define se o cliente vai ter a seção [Endereços](#enderecos) com detalhes do seu endereço.
 
-![vtex-my-account_PT](https://images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/12452e82c19c105a9aae17c483531fe2/vtex-my-account_PT.png)
+![vtex-my-account_PT](//images.ctfassets.net/alneenqid6w5/4x5BM7dpNcnjHagpycIeWt/12452e82c19c105a9aae17c483531fe2/vtex-my-account_PT.png)
 
 Por padrão, as opções **CARDS** e **ORDERS** vem configuradas como visíveis. Para alterá-las ou habilitar outras configurações, realize os passos abaixo: 
 

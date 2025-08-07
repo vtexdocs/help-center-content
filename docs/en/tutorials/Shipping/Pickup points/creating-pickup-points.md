@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: creating-pickup-points
-locale: en
 legacySlug: how-to-import-pickup-points-using-spreadsheets, adding-pickup-points
+locale: en
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-Pickup points are physical locations where customers can pick up orders placed on ecommerce platforms. Configuring pickup points is an optional step in your store's [shipping strategy](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3). 
+Pickup points are physical locations where customers can pick up orders placed on ecommerce platforms. Configuring pickup points is an optional step in your store's [shipping strategy](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3). 
 
 You can create pickup points using the [Create/update pickup point API](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate) or via VTEX Admin. This article explains how to perform the second process.
 
@@ -60,7 +60,7 @@ The address information and the location on the map will be displayed at checkou
 #### Additional information
 
 * **Pickup instructions:** enter information that will help your customer pick up the packages at the pickup point. For example, at which door the items can be picked up or which documents the customer must present when picking up their order. These instructions will be displayed at checkout, when the customer chooses the pickup point. 
-* **Tags:** add tags to group pickup points. These tags are used to link [shipping policies](/en/tutorial/shipping-policy--tutorials_140) to pickup points.  
+* **Tags:** add tags to group pickup points. These tags are used to link [shipping policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) to pickup points.  
 
 #### Business Hours
 

@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: fulfillment-logistics-vtex
-locale: en
 legacySlug: logistics
+locale: en
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
 ---
 
-Logistics or fulfillment is the process of planning and executing the transportation and storage of merchandise; and shipping orders to customers. It is directly related to the customer experience and to the store's business strategy, therefore, your [logistics configuration](/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP#configuring-the-logistics-process) is critical to your business. 
+Logistics or fulfillment is the process of planning and executing the transportation and storage of merchandise; and shipping orders to customers. It is directly related to the customer experience and to the store's business strategy, therefore, your [logistics configuration](https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP#configuring-the-logistics-process) is critical to your business. 
 
 The VTEX platform allows you to register and control your inventory, manage shipping rates, control item availability, and track deliveries. 
 
@@ -28,19 +28,19 @@ The logistics settings available via <a href="https://developers.vtex.com/vtex-r
 To find out which logistics configurations are necessary and how to perform them, you must first understand the steps in the purchase flow of a product.
 
 1. The process starts at the storefront: the customer selects the desired products and proceeds to checkout.
-2. At checkout, the customer enters their location, and the platform checks the available shipping methods. At this stage of the purchase process, the platform calculates the best [shipping strategy](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) for the customer. To do this, VTEX: 
-    * Checks the availability of the items and where they will be picked up ([warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb));
-    * Selects the [loading dock](/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj) and the time when the carrier must collect the items;
-    * Analyzes the [shipping policies](/en/tutorial/shipping-policy--tutorials_140) that meet the customer's shipping conditions. Through the shipping policies, the platform analyzes the carriers that can deliver the order and the available [pickup points](/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R). 
+2. At checkout, the customer enters their location, and the platform checks the available shipping methods. At this stage of the purchase process, the platform calculates the best [shipping strategy](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3) for the customer. To do this, VTEX: 
+    * Checks the availability of the items and where they will be picked up ([warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb));
+    * Selects the [loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj) and the time when the carrier must collect the items;
+    * Analyzes the [shipping policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) that meet the customer's shipping conditions. Through the shipping policies, the platform analyzes the carriers that can deliver the order and the available [pickup points](https://help.vtex.com/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R). 
 3. After the calculation, the platform displays the delivery methods available to the customer (with their respective delivery times and prices). The customer chooses between pickup and delivery and places the order. 
-Once the order is placed, the [reservation of the products is authorized](/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation). With this, the platform ensures that the items cannot be sold again. 
+Once the order is placed, the [reservation of the products is authorized](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation). With this, the platform ensures that the items cannot be sold again. 
 
-4. Once the [payment](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) is confirmed, the [reservation is also confirmed](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation).
-5. After the payment is confirmed and the [grace period for order cancellation](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC) expires, the platform waits for the retailer to handle the items. When the retailer [starts handling the order](/en/tutorial/moving-order-to-start-handling-status--tutorials_198), they indicate to the platform that the order items and their invoices are being prepared. From this stage, the [reservation is acknowledged](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation).
-6. The store uploads the order [invoice](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) on the platform.  
+4. Once the [payment](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) is confirmed, the [reservation is also confirmed](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation).
+5. After the payment is confirmed and the [grace period for order cancellation](https://help.vtex.com/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC) expires, the platform waits for the retailer to handle the items. When the retailer [starts handling the order](https://help.vtex.com/en/tutorial/moving-order-to-start-handling-status--tutorials_198), they indicate to the platform that the order items and their invoices are being prepared. From this stage, the [reservation is acknowledged](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation).
+6. The store uploads the order [invoice](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) on the platform.  
 7. The shipping process begins:
-    * For orders that are shipped to the customer's address (delivery), the store sends the packages to the [loading dock](/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj) where they will be collected by the [carrier](/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE). The carrier (chosen through the [shipping policies](/en/tutorial/shipping-policy--tutorials_140)) delivers the order.
-    * For orders that are shipped to [pickup points](/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R) (pickup), the store must make the packages ready for customer pick up. To do this, the packages are collected from the [warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) and transported to the pickup point. Transportation from the loading dock to the pickup point is configured using a [shipping policy](/en/tutorial/shipping-policy--tutorials_140).
+    * For orders that are shipped to the customer's address (delivery), the store sends the packages to the [loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj) where they will be collected by the [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE). The carrier (chosen through the [shipping policies](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140)) delivers the order.
+    * For orders that are shipped to [pickup points](https://help.vtex.com/en/tutorial/how-pickup-points-work--2fljn6wLjn8M4lJHA6HP3R) (pickup), the store must make the packages ready for customer pick up. To do this, the packages are collected from the [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) and transported to the pickup point. Transportation from the loading dock to the pickup point is configured using a [shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140).
 
 8. After invoicing and shipping, the store is responsible for updating the inventory, which also means removing the items from inventory.
 
@@ -48,7 +48,7 @@ Once the order is placed, the [reservation of the products is authorized](/en/tu
 Please note that the shipping process depends on the configuration made on the platform. Here, we present the scenarios for each type of shipping (delivery and pickup), but there are other possible flows in the shipping process. For example, when the customer chooses pickup and the selected pickup point is the warehouse, there is no need to transport the packages.
 </div>
 
-![Envio EN](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/2cf59529b64fd641f61b1afdb807d136/Envio_EN.svg)
+![Envio EN](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/2cf59529b64fd641f61b1afdb807d136/Envio_EN.svg)
 
 ## Configuring the logistics process
 

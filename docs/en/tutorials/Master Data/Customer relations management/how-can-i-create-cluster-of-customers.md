@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-can-i-create-cluster-of-customers
-locale: en
 legacySlug: how-can-i-create-cluster-of-customers
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 
@@ -51,7 +51,7 @@ The purpose of this article is to show how to configure your CRM to create a clu
 
 So technically, a cluster in CRM is nothing more than a field.
 
-To populate this field you can use an [import worksheet](/en/tutorial/importing-data-into-master-data--tutorials_1135 "How to import data into Master Data") or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
+To populate this field you can use an [import worksheet](https://help.vtex.com/en/tutorial/importing-data-into-master-data--tutorials_1135 "How to import data into Master Data") or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
 
 ## Learn more
 

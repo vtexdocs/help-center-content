@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slugEN: generating-a-har-file
-locale: en
 legacySlug: generating-a-har-file
+locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 

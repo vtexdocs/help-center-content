@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: setting-up-itau-registered-ticket
-locale: en
 legacySlug: setting-up-itau-registered-ticket
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: agent-builder-overview
-locale: en
 legacySlug: agent-builder-overview
+locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 

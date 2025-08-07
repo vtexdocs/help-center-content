@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto
-locale: en
 legacySlug: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-bank-payment-slip
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

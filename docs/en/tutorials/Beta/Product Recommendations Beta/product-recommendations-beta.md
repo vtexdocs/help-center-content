@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: product-recommendations-beta
-locale: en
 legacySlug: product-recommendations-beta
+locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
@@ -27,7 +27,7 @@ href="https://vtex.com/en-us/contact/">contact form</a>.</p>
 
 The Product Recommendations feature allows your store to provide custom experiences to buyers by recommending items based on multiple strategies. In addition, you can display relevant or complementary products, boost conversion rates, and increase the average ticket of your business.
 
-![buy-together](https://images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/a1bb03831639bac0722d124cce6fbc90/buy-together.png)
+![buy-together](//images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/a1bb03831639bac0722d124cce6fbc90/buy-together.png)
 
 ## Prerequisites
 
@@ -50,5 +50,5 @@ See below the five available recommendation strategies, implemented directly by 
 
 ## Implementation
 
-To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
+To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
 

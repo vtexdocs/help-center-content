@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-manage-the-kit-stock
-locale: en
 legacySlug: how-to-manage-the-kit-stock
+locale: en
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 

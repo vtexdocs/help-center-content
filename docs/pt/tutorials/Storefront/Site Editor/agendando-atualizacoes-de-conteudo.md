@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: scheduling-content-updates
-locale: pt
 legacySlug: agendando-atualizacoes-de-conteudo
+locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
@@ -19,7 +19,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 <p> A atualização agendada pode demorar até 30 minutos para ser efetivada e aparecer na sua página.</p>
 </div>
 
-Depois de [criar uma nova versão de conteúdo](/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), você pode fazer um agendamento para publicá-la na sua loja por meio do recurso **Visibilidade**.
+Depois de [criar uma nova versão de conteúdo](https://help.vtex.com/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), você pode fazer um agendamento para publicá-la na sua loja por meio do recurso **Visibilidade**.
 
 O recurso Visibilidade permite que você ative imediatamente a nova versão do conteúdo na sua loja, programe quando publicar o conteúdo ou quando desativar a nova versão. Você também pode escolher onde deseja aplicar a nova versão: em uma rota (**esta URL**) ou em rotas que compartilham o mesmo template (**este template**).
 

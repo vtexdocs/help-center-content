@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slugEN: managing-projects
-locale: es
 legacySlug: gestionar-proyectos
+locale: es
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
 Proyectos es una funcionalidad de VTEX Headless CMS que simplifica la gestión de varios proyectos de frontend, como aplicaciones móviles, páginas web y email marketing, desde un único dashboard.
 
-![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
+![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
 
 Cada proyecto cuenta con sus propios ajustes, contenido y marca, pudiendo personalizarse en función de públicos u objetivos específicos. 
 
@@ -25,12 +25,12 @@ En esta guía aprenderás a gestionar cada proyecto de frontend de tu tienda.
 
 ## Antes de empezar
 
-Para gestionar Headless CMS, asegúrate de que los [recursos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` estén asociados con tu [rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [crea un rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agrega estos recursos o añádelos a un rol de usuario existente.
+Para gestionar Headless CMS, asegúrate de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` estén asociados con tu [rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [crea un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agrega estos recursos o añádelos a un rol de usuario existente.
 
 ## Visión general
 Para acceder a **Proyectos**, en el Admin VTEX ve a **Storefront > Headless CMS**.
 
-![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
+![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
 
 | Opciones     | Descripción     |
 | ---------- | ---------- |
@@ -50,7 +50,7 @@ Un webhook es un endpoint HTTP que permite la comunicación automatizada entre V
 
 Tras crear un nuevo proyecto, puedes crear páginas para el mismo con todas las rutas URL y modelos de página compatibles con tu tienda, como páginas de inicio, de producto y de inicio de sesión. 
 
-Para crear una nueva página sigue los pasos presentes en este artículo: [Gestión de páginas en Headless CMS](/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+Para crear una nueva página sigue los pasos presentes en este artículo: [Gestión de páginas en Headless CMS](https://help.vtex.com/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Configuración del proyecto
 En Configuración, puedes realizar ajustes en el proyecto en  tres categorías principales:
@@ -90,7 +90,7 @@ Escoger un storefront `Custom` (personalizado) te brinda la flexibilidad de defi
 | ---------- | ---------- | ---------- |
 | URL de las secciones       | URL del webhook para recibir y guardar las secciones creadas en el código fuente en Headless CMS.      | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/sections`       |
 | URL de los tipos de contenido       | URL del webhook para recibir y guardar los tipos de contenido creados en el código fuente en Headless CMS.       | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types`       |
-| URL de compilación del webhook       | URL del webhook para iniciar una nueva compilación en Headless CMS cuando se agrega o edita una página o contenido.</br>[Problema Conocido - Headless CMS no está monetizando datos entre espacios de trabajo](/es/known-issues/headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo--iDUOWMDKXPb6ZjO19kmO7) Debido a un problema de simulación de datos, los borradores creados en cualquier workspace actualmente aparecen en el entorno master. Esto significa que los cambios que deberían estar aislados en workspaces individuales son visibles en el workspace master. | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{accountName}/master/build-releases`      |
+| URL de compilación del webhook       | URL del webhook para iniciar una nueva compilación en Headless CMS cuando se agrega o edita una página o contenido.</br>[Problema Conocido - Headless CMS no está monetizando datos entre espacios de trabajo](https://help.vtex.com/es/known-issues/headless-cms-no-esta-monetizando-datos-entre-espacios-de-trabajo--iDUOWMDKXPb6ZjO19kmO7) Debido a un problema de simulación de datos, los borradores creados en cualquier workspace actualmente aparecen en el entorno master. Esto significa que los cambios que deberían estar aislados en workspaces individuales son visibles en el workspace master. | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{accountName}/master/build-releases`      |
 | Guardar URL de webhook      | URL de webhook para permitir previsualizaciones del proyecto en tiempo real, enviando una notificación para actualizar la página y que se reflejen los últimos cambios en Headless CMS.      | -       |
 | URL de previsualización      | URL de webhook que permite la previsualización de páginas en el Headless CMS. | `https://{accountName}.vtex.app/api/preview` |
 
@@ -109,7 +109,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 1. Accede a **Storefront > Proyectos**.
 2. Selecciona el proyecto que deseas archivar y haz clic en **Configuración** (⚙️). 
 3. Haz clic en `Archivar proyecto` en la página `General`. Aparecerá un mensaje emergente para confirmar que deseas archivar el proyecto.
-![Arquivar projeto - ES](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
+![Arquivar projeto - ES](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
 Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto] (#restaurar-proyecto).

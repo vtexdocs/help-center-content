@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slugEN: how-to-setup-google-analytics-in-vtex-store
-locale: en
 legacySlug: how-to-setup-google-analytics-in-vtex-store
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 
@@ -33,7 +33,7 @@ In both cases, save the Google Analytics property ID code in the `G-xxxxxxx` for
 
 ## Configuring Google Tag Manager
 
-Once you have configured the necessary settings in your Google Analytics account, you will need to change Google Tag Manager settings in the VTEX Admin to track your store events. To do so, follow the steps described in [Configuring Google Tag Manager](/en/tutorial/integration-with-google-tag-manager).
+Once you have configured the necessary settings in your Google Analytics account, you will need to change Google Tag Manager settings in the VTEX Admin to track your store events. To do so, follow the steps described in [Configuring Google Tag Manager](https://help.vtex.com/en/tutorial/integration-with-google-tag-manager).
 
-If your store uses [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you will need to configure a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+If your store uses [VTEX IO - Store Framework](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you will need to configure a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 

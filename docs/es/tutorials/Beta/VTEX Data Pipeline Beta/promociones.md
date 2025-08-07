@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: promotions
-locale: es
 legacySlug: promociones
+locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
@@ -29,7 +29,7 @@ En esta sección puedes consultar la siguiente información:
 
 |**Característica**|**Descripción**|
 | - | - |
-|**Origen**|Proceden del [módulo Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) en el Admin VTEX.|
+|**Origen**|Proceden del [módulo Promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR) en el Admin VTEX.|
 |**Disponibilidad**|Se puede acceder a los datos de promociones a través del Admin VTEX y también a través de las [API de Promotions](https://developers.vtex.com/docs/guides/promotions-overview).|
 |**Historial**|Los datos se conservan durante dos años, a partir de 2024 para clientes que ya utilizan la plataforma VTEX.|
 |**Intervalo mínimo de actualización**|Una hora.|
@@ -100,8 +100,8 @@ En esta sección puedes consultar la siguiente información:
 | minimum\_quantity\_buy\_together | integer | Cantidad mínima para la promoción Comprar juntos. |
 | quantity\_to\_affect\_buy\_together | integer | La cantidad que afectará la promoción Comprar juntos. |
 | enable\_buy\_together\_per\_sku | boolean | Activar Comprar juntos por SKU. |
-| list\_sku1\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323). <ul>⮕  Objeto que contiene el ID y el nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323).</ul> |
-| list\_sku2\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323). <ul>⮕ Objeto que contiene el ID y el nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323).</ul>  |
+| list\_sku1\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323). <ul>⮕  Objeto que contiene el ID y el nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323).</ul> |
+| list\_sku2\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323). <ul>⮕ Objeto que contiene el ID y el nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323).</ul>  |
 | coupon | super | Obsoleto. Lista de cupones. |
 | total\_value\_floor | numeric(18,0) | Valor mínimo del carrito para activar la promoción. |
 | total\_value\_ceiling | numeric(18,0) | Valor máximo del carrito para activar la promoción. |
@@ -126,7 +126,7 @@ En esta sección puedes consultar la siguiente información:
 | min\_installment | integer | Número mínimo de cuotas. |
 | max\_installment | integer | Número máximo de cuotas. |
 | merchants | super | Lista de retailers. |
-| cluster\_expressions | super | Criterios para seleccionar un clúster de clientes. Cada ítem en este arreglo debe seguir el formato de una función de igualdad {propertyname}={value} o de una función contains {propertyname} contains {value}. En ambos casos, se debe cambiar {propertyname} por el nombre del campo en la entidad de datos, y {value} por el valor determinado en Master Data. Aprende más sobre estos criterios en [Cómo completar el campo Clúster de clientes](/es/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342). |
+| cluster\_expressions | super | Criterios para seleccionar un clúster de clientes. Cada ítem en este arreglo debe seguir el formato de una función de igualdad {propertyname}={value} o de una función contains {propertyname} contains {value}. En ambos casos, se debe cambiar {propertyname} por el nombre del campo en la entidad de datos, y {value} por el valor determinado en Master Data. Aprende más sobre estos criterios en [Cómo completar el campo Clúster de clientes](https://help.vtex.com/es/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342). |
 | pii\_cluster\_expressions | super | Expresiones de clústeres relacionadas con la información de identificación personal (PII) de los clientes. |
 | payments\_rules | super | Lista de reglas de pago. |
 | gift\_list\_types | super | Tipo de lista de regalos. |
@@ -136,7 +136,7 @@ En esta sección puedes consultar la siguiente información:
 | max\_usage\_per\_client | integer | Define el máximo de veces que un cliente puede utilizar la promoción. |
 | should\_distribute\_discount\_among\_matched\_items | boolean | Indica si se debe distribuir el descuento entre todos los ítems aplicables. |
 | multiple\_use\_per\_client | boolean | Define si el cliente puede utilizar la promoción varias veces. |
-| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](/en/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
+| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](https://help.vtex.com/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](https://help.vtex.com/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](https://help.vtex.com/en/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](https://help.vtex.com/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
 | use\_new\_progressive\_algorithm | boolean | Indica si se utiliza el algoritmo progresivo. |
 | percentual\_discount\_value\_list | super | Lista de valores de descuento porcentual. |
 | max\_number\_of\_affected\_items | integer | Número máximo de ítems aplicables a la promoción. |
@@ -210,8 +210,8 @@ En esta sección puedes consultar la siguiente información:
 | minimum\_quantity\_buy\_together | integer | Cantidad mínima para la promoción Comprar juntos. |
 | quantity\_to\_affect\_buy\_together | integer | Cantidad afectará la promoción Comprar juntos. |
 | enable\_buy\_together\_per\_sku | boolean | Activar Comprar juntos por SKU. |
-| list\_sku1\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre de un SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323). <ul>⮕  Objeto que contiene el ID y el nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323). </ul>|
-| list\_sku2\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre de un SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323). <ul>⮕ Objeto que contiene el ID y el nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](/es/tutorial/buy-together--tutorials_323).</ul> |
+| list\_sku1\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre de un SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323). <ul>⮕  Objeto que contiene el ID y el nombre del SKU que se agregará a la primera lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323). </ul>|
+| list\_sku2\_buy\_together | super | Arreglo de objetos, donde cada uno contiene el ID y nombre de un SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323). <ul>⮕ Objeto que contiene el ID y el nombre del SKU que se agregará a la segunda lista de la promoción **Comprar juntos**. Aprende más sobre este tipo de promoción en la documentación [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323).</ul> |
 | coupon | super | Obsoleto. Lista de cupones. |
 | total\_value\_floor | numeric(18,0) | Valor mínimo del carrito para activar la promoción. |
 | total\_value\_ceiling | numeric(18,0) | Valor máximo del carrito para activar la promoción. |
@@ -236,7 +236,7 @@ En esta sección puedes consultar la siguiente información:
 | min\_installment | integer | Número mínimo de cuotas. |
 | max\_installment | integer | Número máximo de cuotas. |
 | merchants | super | Lista de retailers. |
-| cluster\_expressions | super | Criterios para seleccionar un clúster de clientes. Cada ítem en este arreglo debe seguir el formato de una función de igualdad {propertyname}={value} o de una función contains {propertyname} contains {value}. En ambos casos, se debe cambiar {propertyname} por el nombre del campo en la entidad de datos, y {value} por el valor determinado en Master Data. Aprende más sobre estos criterios en [Cómo completar el campo Clúster de clientes](/es/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342). |
+| cluster\_expressions | super | Criterios para seleccionar un clúster de clientes. Cada ítem en este arreglo debe seguir el formato de una función de igualdad {propertyname}={value} o de una función contains {propertyname} contains {value}. En ambos casos, se debe cambiar {propertyname} por el nombre del campo en la entidad de datos, y {value} por el valor determinado en Master Data. Aprende más sobre estos criterios en [Cómo completar el campo Clúster de clientes](https://help.vtex.com/es/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342). |
 | pii\_cluster\_expressions | super | Expresiones de clústeres relacionadas con la información de identificación personal (PII) de los clientes. |
 | payments\_rules | super | Lista de reglas de pago. |
 | gift\_list\_types | super | Tipo de lista de regalos. |
@@ -246,7 +246,7 @@ En esta sección puedes consultar la siguiente información:
 | max\_usage\_per\_client | integer | Define el máximo de veces que un cliente puede utilizar la promoción. |
 | should\_distribute\_discount\_among\_matched\_items | boolean | Indica si se debe distribuir el descuento entre todos los ítems aplicables. |
 | multiple\_use\_per\_client | boolean | Define si el cliente puede utilizar la promoción varias veces. |
-| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](/es/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
+| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](https://help.vtex.com/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](https://help.vtex.com/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](https://help.vtex.com/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](https://help.vtex.com/es/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](https://help.vtex.com/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
 | use\_new\_progressive\_algorithm | boolean | Indica si se utiliza el algoritmo progresivo. |
 | percentual\_discount\_value\_list | super | Lista de valores de descuento porcentual. |
 | max\_number\_of\_affected\_items | integer | Número máximo de ítems que la promoción puede afectar. |
@@ -265,19 +265,19 @@ El conjunto de datos de promociones puede utilizarse para realizar los siguiente
 
 La relación entre el conjunto de datos de promociones y otros conjuntos de datos es esencial. A continuación, se muestran algunos ejemplos:  
 
-- **Datos de [pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** analizar la influencia de las promociones en los pedidos ayuda a comprender su impacto sobre las ventas.  
-- **Datos de [stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** la correlación con el stock es fundamental para garantizar la disponibilidad de los productos promocionados.  
+- **Datos de [pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** analizar la influencia de las promociones en los pedidos ayuda a comprender su impacto sobre las ventas.  
+- **Datos de [stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** la correlación con el stock es fundamental para garantizar la disponibilidad de los productos promocionados.  
 - **Análisis de marketing y publicidad**: la integración con estos datos permite medir la efectividad de las promociones para atraer tráfico y engagement.  
-- **Datos de [navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) en el sitio web:** analizar el efecto de las promociones en la navegación permite obtener insights sobre el comportamiento de los clientes y la eficacia de la exhibición de las promociones.  
+- **Datos de [navegación](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) en el sitio web:** analizar el efecto de las promociones en la navegación permite obtener insights sobre el comportamiento de los clientes y la eficacia de la exhibición de las promociones.  
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Pedidos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Navegación](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Pedidos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

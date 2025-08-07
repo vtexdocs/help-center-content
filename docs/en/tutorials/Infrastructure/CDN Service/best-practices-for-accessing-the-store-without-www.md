@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: best-practices-for-accessing-the-store-without-www
-locale: en
 legacySlug: configuring-access-without-www
+locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
@@ -27,8 +27,8 @@ A store's main domain must have a subdomain, such as `www` or other. To access t
 
 We recommend reading the following guides to understand how domains and DNS configuration work on VTEX:
 
-* [Configuring the store domain](/en/tutorial/configuring-the-store-domain--tutorials_2450)
-* [How DNS configuration works on VTEX](/en/tutorial/how-dns-configuration-works-on-vtex--2P5k3oMYOj7TgSK4Mrxmgy)
+* [Configuring the store domain](https://help.vtex.com/en/tutorial/configuring-the-store-domain--tutorials_2450)
+* [How DNS configuration works on VTEX](https://help.vtex.com/en/tutorial/how-dns-configuration-works-on-vtex--2P5k3oMYOj7TgSK4Mrxmgy)
 
 ## Limitations on DNS configuration for pure domains
 
@@ -55,7 +55,7 @@ Given the DNS configuration limitations for pure domains, this section outlines 
 
 ### Recommended solution: Redirects
 
-VTEX recommends always using the `www` or another subdomain when[ configuring the store's main domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450), to combine the use of CNAMEs and other settings. In this scenario, we recommend using redirects to access the address without `www` or other subdomains. Read the [Redirection from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ) article to learn how to configure redirects.
+VTEX recommends always using the `www` or another subdomain when[ configuring the store's main domain](https://help.vtex.com/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450), to combine the use of CNAMEs and other settings. In this scenario, we recommend using redirects to access the address without `www` or other subdomains. Read the [Redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ) article to learn how to configure redirects.
 
 Some DNS providers support CNAMEs for the pure domain (DNS Flattening). However, this option may not be offered by all providers. Therefore, we recommend the mandatory use of the subdomain to ensure that all the necessary features can coexist.
 

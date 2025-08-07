@@ -10,18 +10,18 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: mercado-libre-promotions-center
-locale: en
 legacySlug: mercado-libre-promotions-center
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,**  and **status.**  
+On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,**  and **status.**  
 
 By clicking a promotion from the list, the seller can use the search bar to find listed offers using the **MercadoLibre-ID** or the **Name** of each one.  
 
 To access the **Promotions** page in the VTEX Admin, go to **Marketplace > Mercado Libre > Promotions.**  
 
-![Central de Promoções Mercado Livre](https://images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/918a02f8f04066d8c83b456533af55f7/Central_de_Promo__es_Mercado_Livre.gif)
+![Central de Promoções Mercado Livre](//images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/918a02f8f04066d8c83b456533af55f7/Central_de_Promo__es_Mercado_Livre.gif)
 
 ## Promotion types
 

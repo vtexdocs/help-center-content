@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-carrefour-integration
-locale: en
 legacySlug: carrefour-integration-orders-erros
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 

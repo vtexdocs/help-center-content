@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: seller-portal-product-details
-locale: en
 legacySlug: seller-portal-product-details
+locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-![Shared products product details EN](https://images.ctfassets.net/alneenqid6w5/6H2NihfYF5QWfj60VjFueu/cc3f300460749e515607a49f6e6d2bc2/Shared_products_product_details_EN.jpg)
+![Shared products product details EN](//images.ctfassets.net/alneenqid6w5/6H2NihfYF5QWfj60VjFueu/cc3f300460749e515607a49f6e6d2bc2/Shared_products_product_details_EN.jpg)
 
-On the product details page of the [Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) module, you can view all information about a specific product, including: 
+On the product details page of the [Shared Products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) module, you can view all information about a specific product, including: 
 
 - The *General information* added by the marketplace for that product, such as its ID, photo, brand, category, and description.  
 - The information of the SKUs linked to the product, which means the product's specific variations that differentiate it from other options offered for the same product.  
@@ -39,12 +39,12 @@ To see a product’s details, go to Products > Catalog > Shared Products > Impor
 *You will be directed to the Inventory & shipping module to complete the configuration. Check out our documentation to learn more.*  
   5. Toggle the **Activate product** option.  
 
-Once you’ve completed the Price and Inventory configuration, your product will automatically appear as an offer in the marketplace. To learn more about selling shared products in the marketplace, check out our article on [Offers](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
+Once you’ve completed the Price and Inventory configuration, your product will automatically appear as an offer in the marketplace. To learn more about selling shared products in the marketplace, check out our article on [Offers](https://help.vtex.com/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
 
 ## Related Articles
 
-- [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)          
-- [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)        
-- [Seller Portal: Getting Started](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)          
-- [Seller Portal: offers and sending products to the marketplace](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)    
+- [Seller Portal: How Catalog works](https://help.vtex.com/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)          
+- [Seller Portal: Shared Products](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)        
+- [Seller Portal: Getting Started](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)          
+- [Seller Portal: offers and sending products to the marketplace](https://help.vtex.com/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)    
 

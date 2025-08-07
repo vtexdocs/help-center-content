@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-banqi
-locale: en
 legacySlug: setting-up-payments-with-banqi
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -33,7 +33,7 @@ To configure banQi, follow the steps below:
 3. Click on __carnê banQi__.
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
-6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click on `Save`.
 
 After following the indicated steps, banQi connector may take up to 10 minutes to appear at your store's checkout as a payment option.

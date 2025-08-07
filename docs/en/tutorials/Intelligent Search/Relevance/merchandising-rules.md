@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: merchandising-rules
-locale: en
 legacySlug: merchandising-rules
+locale: en
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
@@ -32,9 +32,9 @@ You can configure merchandising rules for different use cases. See some examples
 
 ## How it works
 
-Merchandising rules are a priority configuration. So, if you create a rule to promote a specific product for a particular search, this product will be at the top of the results, regardless of the other [Relevance settings](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Merchandising rules are a priority configuration. So, if you create a rule to promote a specific product for a particular search, this product will be at the top of the results, regardless of the other [Relevance settings](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-What determines in which cases to apply a merchandising rule are the trigger rules, which are the set of [conditions](/en/tutorial/merchandising-rules-conditions--4K9WCBiQ4ndU396ZygDpc2) that identify the scenarios where the action will be triggered.
+What determines in which cases to apply a merchandising rule are the trigger rules, which are the set of [conditions](https://help.vtex.com/en/tutorial/merchandising-rules-conditions--4K9WCBiQ4ndU396ZygDpc2) that identify the scenarios where the action will be triggered.
 
 ## Best practices
 
@@ -46,10 +46,10 @@ Some of the main examples of the use of merchandising rules are:
 
 Consider the following recommendations for using merchandising rules in your store:
 
-* Manage merchandising rules based on Intelligent Search's [relevance rules](/en/tutorial/relevance-rules--1o9jtVGjSIiptbqdNXIlNK) and [synonyms](/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
+* Manage merchandising rules based on Intelligent Search's [relevance rules](https://help.vtex.com/en/tutorial/relevance-rules--1o9jtVGjSIiptbqdNXIlNK) and [synonyms](https://help.vtex.com/en/subcategory/synonyms--BBzMtJan1UTxC9QZODnlN). Make sure that these three are aligned to avoid conflicts and provide a cohesive and efficient search experience.
 * Don't use merchandising rules with opposite effects for the same items, as this can lead to unexpected behavior in search results.
 * If too many merchandising rules are created, then the organic search will probably be greatly affected.
-* Be careful when using global [trigger rules](/en/tutorial/creating-merchandising-rules-manual-editor--3jrXB1MSvi14ezvKancorc#activation-rules), as they impact all searches.
+* Be careful when using global [trigger rules](https://help.vtex.com/en/tutorial/creating-merchandising-rules-manual-editor--3jrXB1MSvi14ezvKancorc#activation-rules), as they impact all searches.
 
 <div class="alert alert-warning">
   <p>If the search results are not correct, we recommend not creating merchandising rules to fix them, as this could indicate some other configuration problem. In this case, please contact our<a href="https://support.vtex.com/hc/en-us/requests"> Support</a>.</p>
@@ -57,7 +57,7 @@ Consider the following recommendations for using merchandising rules in your sto
 
 ## Learn more
 
-* [Merchandising rules list](/en/tutorial/merchandising-rules-list--3CZOjyie1LZVOhzeviVCgu)
-* [Creating merchandising rules - Visual Editor](/en/tutorial/creating-merchandising-rules-visual-editor--3gPO5CMJ3Off0OtA3EPzow)
-* [Creating merchandising rules - Manual Editor](/en/tutorial/creating-merchandising-rules-manual-editor--3jrXB1MSvi14ezvKancorc)
-* [Merchandising rule conditions](/en/tutorial/merchandising-rule-conditions--4K9WCBiQ4ndU396ZygDpc2)
+* [Merchandising rules list](https://help.vtex.com/en/tutorial/merchandising-rules-list--3CZOjyie1LZVOhzeviVCgu)
+* [Creating merchandising rules - Visual Editor](https://help.vtex.com/en/tutorial/creating-merchandising-rules-visual-editor--3gPO5CMJ3Off0OtA3EPzow)
+* [Creating merchandising rules - Manual Editor](https://help.vtex.com/en/tutorial/creating-merchandising-rules-manual-editor--3jrXB1MSvi14ezvKancorc)
+* [Merchandising rule conditions](https://help.vtex.com/en/tutorial/merchandising-rule-conditions--4K9WCBiQ4ndU396ZygDpc2)

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: collection-highlight-control
-locale: es
 legacySlug: control-de-destaque-de-coleccion
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
 slugEN: how-to-modify-details-of-customers-addresses
-locale: en
 legacySlug: how-to-modify-details-of-customers-addresses
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 

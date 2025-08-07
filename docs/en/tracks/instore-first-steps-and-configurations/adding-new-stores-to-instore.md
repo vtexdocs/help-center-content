@@ -14,9 +14,9 @@ trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations
 ---
 
-After configuring the [VTEX Sales App basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add more physical stores to the system or manage the existing ones in the VTEX Admin.
+After configuring the [VTEX Sales App basic settings](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add more physical stores to the system or manage the existing ones in the VTEX Admin.
 
-**Physical store** is a page in the VTEX Admin **Store Settings** that displays the physical stores added to the [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app and allows you to manage their information.
+**Physical store** is a page in the VTEX Admin **Store Settings** that displays the physical stores added to the [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app and allows you to manage their information.
 
 This page allows you to perform the following actions:
 
@@ -25,7 +25,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
 
 The page displays the following information: 
 
@@ -35,8 +35,8 @@ The page displays the following information:
 | Business telephone number | Physical store's business phone number.                                                                                                                                               |
 | City             | City where the physical store is located.                                                                                                                                                 |
 | State             | State where the physical store is located.                                                                                                                                                 |
-| Franchise account     | [Franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) to which the physical store is associated.                                                       |
-| Trade policy | [Trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) applied to the physical store.                                              |
+| Franchise account     | [Franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) to which the physical store is associated.                                                       |
+| Trade policy | [Trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) applied to the physical store.                                              |
 
 ## Adding a physical store
 
@@ -50,7 +50,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
 
 #### Identification
 
@@ -70,9 +70,9 @@ You can add a physical store by following the steps below:
 
 #### Technical information
 
-* **Franchise account:** the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the physical store must be added.
-* **Trade policy:** the [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) that will be applied in the physical store. Mandatory field.
-* **Pickup point:** the [pickup point](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) associated to this physical store, where customers pick up their orders. 
+* **Franchise account:** the [franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the physical store must be added.
+* **Trade policy:** the [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) that will be applied in the physical store. Mandatory field.
+* **Pickup point:** the [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) associated to this physical store, where customers pick up their orders. 
 
 <div class ="alert alert-info">
 <p>Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.</p> 

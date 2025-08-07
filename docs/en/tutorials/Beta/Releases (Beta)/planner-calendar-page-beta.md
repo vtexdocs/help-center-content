@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: planner-calendar-page-beta
-locale: en
 legacySlug: planner-calendar-page-beta
+locale: en
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
@@ -20,9 +20,9 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
   <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
 </div>
 
-The **Releases** module allows you to [manage your releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) so that you can coordinate the creation, schedule and publication of the changes in your store.
+The **Releases** module allows you to [manage your releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) so that you can coordinate the creation, schedule and publication of the changes in your store.
 
-You'll find the **Calendar** and [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) pages in the navigation menu of the **Releases** in the VTEX Admin. You can create a new release and perform other [actions](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) under __Calendar__.
+You'll find the **Calendar** and [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) pages in the navigation menu of the **Releases** in the VTEX Admin. You can create a new release and perform other [actions](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) under __Calendar__.
 
 You can view the **Calendar** page in three ways:
 
@@ -30,7 +30,7 @@ You can view the **Calendar** page in three ways:
 * [View per week](#view-per-week): It shows the releases scheduled for a certain week.
 * [View per day](#view-per-day): It shows the releases scheduled for the selected day and the changes related to the selected release.
 
-**Calendar** only shows [scheduled releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#schedule). To view all your releases, access the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page.
+**Calendar** only shows [scheduled releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#schedule). To view all your releases, access the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page.
 
 <div class="alert alert-warning">
   <p>In the beta version, the releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
@@ -40,7 +40,7 @@ You can view the **Calendar** page in three ways:
 
 In the following image, you will see the view per month and what you can do in the interface:
 
-![releases-calendar-monthly-view-en](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
+![releases-calendar-monthly-view-en](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
 
 In this page, you can:
 
@@ -52,13 +52,13 @@ In this page, you can:
 
 **IV - Select the type of view:** To get a different view of the _Calendar_ page, click on `Week ` <i class="fas fa-angle-down"></i>.
 
-**V - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 ## View per week
 
 In the following image, you'll see the view per week and what you can do in the interface:
 
-![releases-calendar-weekly-view-en](https://images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
+![releases-calendar-weekly-view-en](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
 
 In this page, you can:
 
@@ -70,13 +70,13 @@ In this page, you can:
 
 **IV - Select the type of view:** To get a different view of the Calendar, click on `Month` <i class="fas fa-angle-down"></i>.
 
-**V - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 ## View per day
 
 In the following image, you'll see the view per day and what you can do in the interface:
 
-![daily view v2 en](https://images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
+![daily view v2 en](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
 
 Apart from viewing information about the release, in this page, you can:
 
@@ -86,12 +86,12 @@ Apart from viewing information about the release, in this page, you can:
 
 **III - Access a release:** When there are several releases scheduled for the selected day, they'll appear on a list, ordered by the closest date.
 
-**IV - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
-**V - Perform actions in release:** Depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: actions in release](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Perform actions in release:** Depending on the [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: actions in release](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 ## Learn more
 
-* [Releases: Release concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: Release concept](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
+* [Releases: Actions on releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
+* [Releases: Releases page](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)

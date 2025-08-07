@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6MG4UmqXWpy4nggXB7KIai
 slugEN: pix-faq
-locale: en
 legacySlug: pix-faq
+locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: associate-a-sku-to-a-trade-policy
-locale: en
 legacySlug: associate-a-sku-to-a-trade-policy
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
@@ -33,4 +33,4 @@ You can associate an SKU with one or more trade policies on the configuration pa
   <p>If no specific trade policy is selected on the SKU configuration, all trade policies will have access to the SKU.</p>
 </div>
 
-Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](/en/tutorial/understanding-how-indexation-works--tutorials_256).
+Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256).

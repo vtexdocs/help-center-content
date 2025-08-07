@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-are-shelves
-locale: es
 legacySlug: que-son-estantes
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

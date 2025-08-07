@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: personal-shopper-overview
-locale: es
 legacySlug: personal-shopper-vision-general
+locale: es
 subcategoryId: 2vuGumwWQ432unGlyOOXXc
 ---
 
@@ -24,7 +24,7 @@ subcategoryId: 2vuGumwWQ432unGlyOOXXc
 La aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 
-| ![mobile-personalshopper](https://images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](https://images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
+| ![mobile-personalshopper](//images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](//images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
 | ---------- | ---------- |
 | Personal Shopper móvil       | Personal Shopper computadora       |
 
@@ -92,7 +92,7 @@ Para configurar tus preferencias sigue los pasos a continuación:
 1.	En el Admin VTEX, accede a **Apps > Personal Shopper > Configuración**.
 2.	Haz clic en la pestaña `Configuración de personal shoppers`.
 3.	En la sección **Cuenta general**, rellena los campos siguiendo los pasos a continuación:
-    * **URL del cliente**: ingresa la URL de la página que creaste en la sección [Personal Shopper: crear landing page](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#personal-shopper-crear-landing-page). Por ejemplo, `https://www.mystore.com/personal-shopper`.
+    * **URL del cliente**: ingresa la URL de la página que creaste en la sección [Personal Shopper: crear landing page](https://help.vtex.com/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#personal-shopper-crear-landing-page). Por ejemplo, `https://www.mystore.com/personal-shopper`.
     * **Nombre de la tienda**: ingresa el nombre de tu tienda. Este nombre se utilizará en los emails que se envíen a los clientes y a los personal shoppers.
 4.	En la sección **Política de privacidad & Términos y condiciones**, configura los links y el texto adecuados para solicitar el consentimiento del usuario con relación a la política de privacidad y los términos y condiciones del procesamiento de datos.
 5.	En la sección **Mensajes y notificaciones**, personaliza los siguientes mensajes:
@@ -188,11 +188,11 @@ Si estás registrado como personal shopper puedes crear videollamadas con tus cl
 5.	Haz clic en `Crear videollamada`.
 6.	Selecciona `Iniciar videollamada instantánea` para comenzar la sesión con el cliente o `Crea una videollamada para más tarde` para programarla.
 
-![calls-personalshopper](https://images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/31d638c771d155110f2ab3a5b83c4c71/image.png)
+![calls-personalshopper](//images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/31d638c771d155110f2ab3a5b83c4c71/image.png)
 
-Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
+Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](https://help.vtex.com/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 
-Si optas por programar una videollamada para más tarde, recibirás el link para compartirlo con los participantes. Para más información, consulta la sección [Ingresar a un evento programado](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#ingresar-a-un-evento-programado).
+Si optas por programar una videollamada para más tarde, recibirás el link para compartirlo con los participantes. Para más información, consulta la sección [Ingresar a un evento programado](https://help.vtex.com/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#ingresar-a-un-evento-programado).
 
 ### Gestionar disponibilidad
 
@@ -214,7 +214,7 @@ Para unirte a un evento solicitado por un cliente o a un evento que hayas creado
 4.	Haz clic en `Ingresar` para unirte a la llamada con el cliente.
 5.	Haz clic en `Iniciar videollamada`.
 
-Para conocer detalles más técnicos sobre la videollamada una vez iniciada, consulta la sección [Realización de la videollamada](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada).
+Para conocer detalles más técnicos sobre la videollamada una vez iniciada, consulta la sección [Realización de la videollamada](https://help.vtex.com/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada).
 
 Asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 
@@ -222,7 +222,7 @@ Asegúrate de conceder al navegador los permisos necesarios para el acceso al mi
 
 Al participar en una videollamada como personal shopper tendrás acceso a varias herramientas, según se presentan a continuación:
 
-![call-personalshopper](https://images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/a3294275dd17930a0af26f486ec0986f/image.png)
+![call-personalshopper](//images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/a3294275dd17930a0af26f486ec0986f/image.png)
 
 * **I - Micrófono:** permite a los participantes controlar su audio silenciándose o reactivando el sonido.
 * **II - Cámara:** permite a los participantes encender o apagar su cámara durante la videollamada.

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: routing-monitoring
-locale: en
 legacySlug: routing-monitoring
+locale: en
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
 ---
 

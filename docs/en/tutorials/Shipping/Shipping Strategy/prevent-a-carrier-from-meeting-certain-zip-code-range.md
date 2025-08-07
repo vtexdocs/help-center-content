@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slugEN: prevent-a-carrier-from-meeting-certain-zip-code-range
-locale: en
 legacySlug: prevent-a-carrier-from-meeting-certain-zip-code-range
+locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 

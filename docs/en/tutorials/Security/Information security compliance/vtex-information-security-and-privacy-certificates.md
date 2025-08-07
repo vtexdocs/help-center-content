@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Reliability
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: vtex-information-security-and-privacy-certificates
-locale: en
 legacySlug: vtex-information-security-and-privacy-certificates
+locale: en
 subcategoryId: vONCJSxwN5qZiElOEtKkH
 ---
 

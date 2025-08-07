@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: veiculos-vtex-tracking
-locale: en
 legacySlug: veiculos-vtex-tracking
+locale: en
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 

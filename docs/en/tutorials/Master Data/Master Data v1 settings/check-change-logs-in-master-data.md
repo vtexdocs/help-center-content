@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Master Data
 author: 5Bd75kMNAzARxg0DCUjwal
 slugEN: check-change-logs-in-master-data
-locale: en
 legacySlug: check-change-logs-in-master-data
+locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-At VTEX, logs function as a detailed account of changed made to an online store. Once the platform undergoes any configuration, the related information is stored on a databank called [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data").
+At VTEX, logs function as a detailed account of changed made to an online store. Once the platform undergoes any configuration, the related information is stored on a databank called [Master Data](https://help.vtex.com/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data").
 
 Within the ecommerce scenario, some configurations may be applied without exactly knowing the reason behind it. In such cases, the retailer can ascertain the origin of these actions by consulting the logs.
 

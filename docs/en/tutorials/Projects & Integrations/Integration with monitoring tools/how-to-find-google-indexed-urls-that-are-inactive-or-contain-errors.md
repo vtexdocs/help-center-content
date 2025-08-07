@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors
-locale: en
 legacySlug: how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 

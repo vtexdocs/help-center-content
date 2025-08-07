@@ -11,7 +11,7 @@ productTeam: Identity
 slugEN: understanding-your-account
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: contas-e-permissoes
+trackSlugEN: contas-e-permissoes
 ---
 
 Após contratar a VTEX, toda loja recebe uma conta que dá acesso ao painel administrativo e permite gerenciar aspectos importantes do seu ecommerce.

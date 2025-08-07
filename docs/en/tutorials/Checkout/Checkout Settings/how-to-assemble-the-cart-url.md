@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slugEN: how-to-assemble-the-cart-url
-locale: en
 legacySlug: how-to-assemble-the-cart-url
+locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 

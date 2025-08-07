@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slugEN: setting-up-cybersource-gateway
-locale: en
 legacySlug: setting-up-cybersource-gateway
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-CyberSource is a company that offers several solutions to help manage payments in your store. Among them are a [gateway](/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) and [anti-fraud](/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG), both with integrations available at VTEX.
+CyberSource is a company that offers several solutions to help manage payments in your store. Among them are a [gateway](https://help.vtex.com/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) and [anti-fraud](https://help.vtex.com/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG), both with integrations available at VTEX.
 
-If you want more information about integrating Cybersource anti-fraud into your store, go to [Setting up CyberSource anti-fraud](/en/tutorial/setting-up-cybersource-antifraud--2Z88QmpRAsWmI0qaCo4aQg).
+If you want more information about integrating Cybersource anti-fraud into your store, go to [Setting up CyberSource anti-fraud](https://help.vtex.com/en/tutorial/setting-up-cybersource-antifraud--2Z88QmpRAsWmI0qaCo4aQg).
 
 To use the Cybersource IO gateway in your store, the following actions are required:
 
@@ -64,7 +64,7 @@ Follow the steps below:
 
 Once you have obtained the available authentication keys, it is time to configure the Cybersource IO app in the Admin. 
 
-![Cybersource Admin settings EN](https://images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/9d036d1151c88215344459a3ae57fd91/Cybersource_Admin_settings_EN.JPG)
+![Cybersource Admin settings EN](//images.ctfassets.net/alneenqid6w5/53S98k6G5yOwOJrAO4ueiF/9d036d1151c88215344459a3ae57fd91/Cybersource_Admin_settings_EN.JPG)
 
 Follow the steps below to configure the Cybersource IO app:
 
@@ -135,7 +135,7 @@ To process credit card payments through Cybersource, follow the steps below:
 5. Activate the condition in the __Status__ field.
 6. In __Process with provider__ select the __Cybersource - IO__ option.
 7. If you want to use an anti-fraud system, select the __Use anti-fraud solution__ option and choose your preferred provider.
-8. If you wish, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+8. If you wish, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 9. Click __Save__.
 
 <div class="alert alert-warning">
@@ -191,7 +191,7 @@ function addsDeviceFingerPrint() {
 
 Additionally, you can define custom fields that will be included in orders forwarded from VTEX to Cybersource. 
 
-![Cybersource Admin merchant define fields EN](https://images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/176d6380fb7ef021d18822973f392ab0/Cybersource_Admin_merchant_define_fields_EN.JPG)
+![Cybersource Admin merchant define fields EN](//images.ctfassets.net/alneenqid6w5/5KPPO5k4to3sH9amCFyp7B/176d6380fb7ef021d18822973f392ab0/Cybersource_Admin_merchant_define_fields_EN.JPG)
 
 See below how to create these fields:
 

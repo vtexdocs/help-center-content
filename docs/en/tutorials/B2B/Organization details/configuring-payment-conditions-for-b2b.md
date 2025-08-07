@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: configuring-payment-conditions-for-b2b
-locale: en
 legacySlug: configuring-payment-conditions-for-b2b
+locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-In a B2B operation, [payment conditions](/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) are assigned to the buying organization. You determine the payment options that the organization users see at checkout.
+In a B2B operation, [payment conditions](https://help.vtex.com/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) are assigned to the buying organization. You determine the payment options that the organization users see at checkout.
 
 An organization administrator user can customize the available payment options by cost center.
 

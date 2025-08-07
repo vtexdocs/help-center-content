@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: get-visitors-from-my-website-and-social-networks-to-whatsapp
 locale: es
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugES: suiteshare
+trackSlugEN: suiteshare
 ---
 
 <div class="alert alert-warning">

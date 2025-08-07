@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: magento-suiteshare
-locale: es
 legacySlug: magento-suiteshare
+locale: es
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 

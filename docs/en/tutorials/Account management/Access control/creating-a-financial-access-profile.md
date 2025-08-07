@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: creating-a-financial-access-profile
-locale: en
 legacySlug: how-to-create-a-financial-access-profile
+locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-To [access invoices](/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
+To [access invoices](https://help.vtex.com/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
 
-There are two predefined financial [roles](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc): [Finance](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) and [Finance Full Access](/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
+There are two predefined financial [roles](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc): [Finance](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) and [Finance Full Access](https://help.vtex.com/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
 
 ## How to associate users with the financial access profile
 

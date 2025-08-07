@@ -10,15 +10,15 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slugEN: google-analytics-faq
-locale: en
 legacySlug: google-analytics-faq
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 
 Check below some of the most frequently asked questions about Google Analytics for VTEX stores.
 ## How to install Google Analytics in your store
 
-The installation is done via [Google Tag Manager](/tutorial/integracao-com-o-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+The installation is done via [Google Tag Manager](https://help.vtex.com/tutorial/integracao-com-o-google-tag-manager#), as described in the article [Setting up Google Analytics in VTEX stores](https://help.vtex.com/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## Where does the data displayed in Google Analytics come from? What are Google tags?
 

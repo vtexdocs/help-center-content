@@ -24,7 +24,7 @@ VTEX broadcast studio is called Bundle, and in this article you will learn how t
 
 To access the studio in VTEX Admin and start transmitting the live, in the **Event Information** page, go to the **Streaming Studio** section:
 
-![article_8_streaming_studio_EN](https://images.ctfassets.net/alneenqid6w5/42ko6XyZU0Fy0Y9Ri4sSmY/84cabea29afc3a34e011dca7064bc137/article_8_streaming_studio_EN.png)
+![article_8_streaming_studio_EN](//images.ctfassets.net/alneenqid6w5/42ko6XyZU0Fy0Y9Ri4sSmY/84cabea29afc3a34e011dca7064bc137/article_8_streaming_studio_EN.png)
 
 <div class = "alert alert-info">
   <p>To enable the fields, the event has to be <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq">turned on</a>, so that its status is <code>Live</code>.</p>
@@ -41,7 +41,7 @@ Both hosts using the link generated with the `Copy invitation` button and admini
 
 In the **Device settings** page, when you click `Enter the studio`, you are redirected to the **My Studio** page, as shown in the example below. a vertical [layout type](#https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style):
 
-![article_8_my_studio_EN](https://images.ctfassets.net/alneenqid6w5/6qLDAF3sVIUzGcxoLrUD5A/95d8f31be82f9ec1bf97d4fa030b72fc/article_8_my_studio_EN.png)
+![article_8_my_studio_EN](//images.ctfassets.net/alneenqid6w5/6qLDAF3sVIUzGcxoLrUD5A/95d8f31be82f9ec1bf97d4fa030b72fc/article_8_my_studio_EN.png)
 
 <div class = "alert alert-warning">
   <p>Before transmitting from Bundle, you must select the <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style">layout type</a> you want for the screen, because once in the <b>My Studio</b> page, this event layout cannot be altered anymore. To change afterwards, it would be necessary to create a new event.</p>
@@ -57,7 +57,7 @@ In the left navigation menu, you have the following sections (administrators onl
 
 In **My Studio** menu option, the numbers 1 to 5 show which settings can be done by guests and administrators, while numbers 6 to 9 are reserved for administrators only:
 
-![article_8_my_studio_woman_streaming_EN](https://images.ctfassets.net/alneenqid6w5/1coQL5kLVhhzwx4YofRTyD/e507677f61646033f033da1aa2b22cd6/article_8_my_studio_woman_streaming_EN.png)
+![article_8_my_studio_woman_streaming_EN](//images.ctfassets.net/alneenqid6w5/1coQL5kLVhhzwx4YofRTyD/e507677f61646033f033da1aa2b22cd6/article_8_my_studio_woman_streaming_EN.png)
 
 ### Settings for both guests and administrators
 
@@ -103,7 +103,7 @@ The name will appear in white letters against a dark background, which cannot be
 
 ### Asset dimensions
 
-The table below presents the format and limit for each type of asset on Bundle studio, depending on the [layout](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) configurations:
+The table below presents the format and limit for each type of asset on Bundle studio, depending on the [layout](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) configurations:
 
 | **Asset type** | **Common information** | **Horizontal view Landscape (16:9)** | **Vertical view  Portrait Transmission (9:16)** |
 | :---: | :--- | :---: | :---: |
@@ -149,9 +149,9 @@ To connect different VTEX accounts for the same event transmission, each account
 
 **Account A:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
+1. [Create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
 2. In the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
 4. In the [Streaming Studio](#streaming-studio) section, click `Access`.
 5. Log in the Bundle studio.
 6. Click `Enter the studio`.
@@ -166,10 +166,10 @@ You will see the confirmation message: *“A new destination has been added”*,
 
 **Account B:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
+1. [Create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
 2. In the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
-4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you wish to connect. In this case, Account A.
+3. [Turn on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+4. In the [Details](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you wish to connect. In this case, Account A.
 
 ### Connecting to Youtube
 

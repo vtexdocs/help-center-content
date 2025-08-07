@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: how-to-configure-the-caixa-virtual-debit-card
-locale: en
 legacySlug: how-to-configure-the-caixa-virtual-debit-card
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 

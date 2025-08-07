@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: compatibility-with-browsers-in-the-admin-module
-locale: en
 legacySlug: compatibility-with-browsers-in-the-admin-module
+locale: en
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
 ---
 

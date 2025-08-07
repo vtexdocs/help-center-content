@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-are-placeholders
-locale: es
 legacySlug: que-son-placeholders
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

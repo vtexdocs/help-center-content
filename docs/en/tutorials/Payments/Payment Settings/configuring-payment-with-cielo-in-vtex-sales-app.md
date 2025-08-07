@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: configuring-payment-with-cielo-in-vtex-sales-app
-locale: en
 legacySlug: configuring-payment-with-cielo-in-vtex-sales-app
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Cielo. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+At VTEX, it is possible to integrate with the payment provider Cielo. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
 <div class="alert alert-info">
 To use the Cielo provider in your store through other online sales channels (except VTEX Sales App), visit <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-cieloecommerce--6zuELBqEo0QzApbU4l7L4">Setting up payments with CieloEcommerce</a>.
@@ -107,7 +107,7 @@ The keys will be available on the Cielo developer portal within 2 business days.
 4. Under **Process with provider**, select the previously configured connector.
 5. Activate the condition in the **Status** field.
 6. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 After completing these steps, the Cielo provider may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.

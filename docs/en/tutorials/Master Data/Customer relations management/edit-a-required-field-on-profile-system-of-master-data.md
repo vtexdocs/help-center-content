@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_31
 slugEN: edit-a-required-field-on-profile-system-of-master-data
-locale: en
 legacySlug: edit-a-required-field-on-profile-system-of-master-data
+locale: en
 subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 ---
 

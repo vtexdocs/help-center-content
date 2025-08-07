@@ -11,7 +11,7 @@ productTeam: Identity
 slugEN: creating-and-editing-access-profiles
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: contas-e-permissoes
+trackSlugEN: contas-e-permissoes
 ---
 
 Como visto no tópico anterior, toda conta VTEX é criada por padrão com uma série de perfis de acesso predefinidos.

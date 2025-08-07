@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slugEN: filling-out-collection-registration-fields
-locale: en
 legacySlug: filling-out-Collection-registration-fields
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -25,7 +25,7 @@ To better understand the meaning of the registration fields of a product collect
 
 - __Name__: Name that identifies the product collection. This field is mandatory and should be filled solely with letters, number and hyphen. The hyphen must not be used at the beginning or at the end of the name.
 
-- __Highlight?__: This option should be checked if you want the collection to be highlighted in your store, by using the `$product.HightLight` control. For more on this control, read the following article: [Shelf Template Controls](/en/tutorial/shelf-template-controls--tutorials_550).
+- __Highlight?__: This option should be checked if you want the collection to be highlighted in your store, by using the `$product.HightLight` control. For more on this control, read the following article: [Shelf Template Controls](https://help.vtex.com/en/tutorial/shelf-template-controls--tutorials_550).
 
 - __Searchable?__: This should be checked to make the collection searchable in [VTEX's search API](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 

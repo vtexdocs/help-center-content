@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: can-i-use-a-customized-stock-in-the-marketplace
-locale: en
 legacySlug: can-i-use-a-customized-stock-in-the-marketplace
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
@@ -21,4 +21,4 @@ This inventory, therefore, may be the same used by the main store or another one
 
 ## Using a customized inventory
 
-Setting up a customized inventory means that different terms and prices than all other settings used in the store will be applied. Therefore, you need to set up a [new sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/) and a [new logistics rule for the marketplace](/en/tutorial/configuring-logistics-for-a-marketplace/).
+Setting up a customized inventory means that different terms and prices than all other settings used in the store will be applied. Therefore, you need to set up a [new sales policy](https://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/) and a [new logistics rule for the marketplace](https://help.vtex.com/en/tutorial/configuring-logistics-for-a-marketplace/).

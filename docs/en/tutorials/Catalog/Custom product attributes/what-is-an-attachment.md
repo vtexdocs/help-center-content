@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-an-attachment
-locale: en
 legacySlug: what-is-an-attachment
+locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
@@ -27,6 +27,6 @@ If your purchased item is a Brazilian National Team Shirt, the name of your Atta
 - Number: which allows the inclusion of a number chosen by the client in the back of the shirt, among the values 5, 7, 9, 10 and 11.
 
 ### Related articles
-- [Adding an attachment](/en/tutorial/adding-an-attachment)
-- [What is a service?](/en/tutorial/what-is-a-service)
-- [How to create a service for an SKU](/en/tutorial/creating-a-service-for-a-sku)
+- [Adding an attachment](https://help.vtex.com/en/tutorial/adding-an-attachment)
+- [What is a service?](https://help.vtex.com/en/tutorial/what-is-a-service)
+- [How to create a service for an SKU](https://help.vtex.com/en/tutorial/creating-a-service-for-a-sku)

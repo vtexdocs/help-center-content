@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: amazon-inventory-integration-errors
-locale: en
 legacySlug: amazon-inventory-integration-errors
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Inventory integration errors may occur in marketplaces for which VTEX has developed a [native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex). This article gathers the most common Amazon inventory integration errors and provides directions on how to fix them.
+Inventory integration errors may occur in marketplaces for which VTEX has developed a [native connector](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex). This article gathers the most common Amazon inventory integration errors and provides directions on how to fix them.
 
 In the Admin, there are messages identifying the errors. To view them, log in to your VTEX Admin and go to **MARKETPLACE > Connections > Inventory**. Click on "processed with error".
 
@@ -35,7 +35,7 @@ ____
 
 `This SKU is not in the Amazon catalog. If you are receiving this message after submitting a multi-marketplace inventory file and the designated marketplace for this error is different than the marketplace in which you submitted your file, this error is an indication that the Detail page for this item does not exist in the designated marketplace. Amazon is attempting to create the Detail Page for this item on your behalf. If successful, your listing will be created in the designated marketplace within 48 hours.`
 
-This message indicates a failure to export the SKU to the Amazon catalog, probably because the mapping template was not filled in correctly for that SKU. This makes it impossible to integrate inventory with Amazon. First, you must re-export the category to which the SKU belongs. To do this, please refer to the article [Sending products to Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Then, [update your inventory](/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). This will automatically be reflected in Amazon, therefore, no manual reprocessing of the error is required.
+This message indicates a failure to export the SKU to the Amazon catalog, probably because the mapping template was not filled in correctly for that SKU. This makes it impossible to integrate inventory with Amazon. First, you must re-export the category to which the SKU belongs. To do this, please refer to the article [Sending products to Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Then, [update your inventory](https://help.vtex.com/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). This will automatically be reflected in Amazon, therefore, no manual reprocessing of the error is required.
 
 ____
 
@@ -81,8 +81,8 @@ These errors occur due to token issues. Amazon may consider a token invalid for 
 <br></br>
 ### Learn more
 
-- [Amazon Integration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [Amazon Integration](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
 - [Minimum stock control for integrations
-](/en/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+](https://help.vtex.com/en/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
 - [Setting up the Alert Low Inventory
-](/en/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+](https://help.vtex.com/en/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)

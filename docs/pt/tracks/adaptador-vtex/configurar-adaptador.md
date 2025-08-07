@@ -11,7 +11,7 @@ productTeam: Marketing & Merchandising
 slugEN: configurar-adaptador
 locale: pt
 trackId: 132YFN170Jvs6ZUBGh8w2e
-trackSlugPT: adaptador-vtex
+trackSlugEN: adaptador-vtex
 ---
 
 Abaixo você encontrar informações sobre como você efetua a configuração do ambiente do adaptador para que ele possa se comunicar com a plataforma de e-commerce VTEX.

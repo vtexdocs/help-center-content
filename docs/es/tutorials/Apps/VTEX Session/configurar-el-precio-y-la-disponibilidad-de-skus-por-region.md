@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slugEN: setting-up-price-and-availability-of-skus-by-region
-locale: es
 legacySlug:  configurar-el-precio-y-la-disponibilidad-de-skus-por-region
+locale: es
 subcategoryId: dajK0sARX2c0MISKKoGoc
 ---
 
@@ -37,16 +37,16 @@ La funcionalidad <b>Region</b> funciona tanto para las tiendas Portal CMS Legado
 
 ## Configurar la entrega en la Cuenta Franquicia/Seller White Label
 
-El precio y la disponibilidad de los SKU en cada región se mostrarán en la tienda principal de acuerdo con su configuración de entrega (se indican los rangos de códigos postales). La información de los códigos postales se registra con los transportistas de la [Cuenta de Franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) que actúan como la Seller White Label de la tienda.
+El precio y la disponibilidad de los SKU en cada región se mostrarán en la tienda principal de acuerdo con su configuración de entrega (se indican los rangos de códigos postales). La información de los códigos postales se registra con los transportistas de la [Cuenta de Franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#) que actúan como la Seller White Label de la tienda.
 
 Para configurar la entrega, siga los pasos a continuación:
 
 1. Ingrese al Admin de la Cuenta Franquicia que actúa como Seller White Label de su tienda. 
 2. En __Envío__, haga click en __Estrategia de envío__.
-3. En __Políticas de envío__, haga clic en el botón `Crear Política de Envío` para registrar una [transportadora](/es/tutorial/gerenciar-transportadora). Los Códigos Postales atendidos por esta transportadora se llevarán en consideración para exhibir el precio y la disponibilidad por región en la tienda principal 
-5. Registre un [muelle](/es/tutorial/how-to-register-a-dock#).
-6. Registre un [inventario](/es/tutorial/gerenciar-estoque--tutorials_137#).
-7. [Agregue stock a los SKUs](/es/tutorial/managing-stock-items) que se entregarán por la ruta configurada.
+3. En __Políticas de envío__, haga clic en el botón `Crear Política de Envío` para registrar una [transportadora](https://help.vtex.com/es/tutorial/gerenciar-transportadora). Los Códigos Postales atendidos por esta transportadora se llevarán en consideración para exhibir el precio y la disponibilidad por región en la tienda principal 
+5. Registre un [muelle](https://help.vtex.com/es/tutorial/how-to-register-a-dock#).
+6. Registre un [inventario](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137#).
+7. [Agregue stock a los SKUs](https://help.vtex.com/es/tutorial/managing-stock-items) que se entregarán por la ruta configurada.
 
 <div class="alert alert-info">
 Para que un SKU aparezca como disponible para la venta, es necesario que tenga stock y precio asociados a este. 

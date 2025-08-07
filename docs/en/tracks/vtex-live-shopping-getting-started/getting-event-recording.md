@@ -14,7 +14,7 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-getting-started
 ---
 
-Once the transmission is over and the event reaches the [status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) `Completed`, you can access the live recording, by following the steps below:
+Once the transmission is over and the event reaches the [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) `Completed`, you can access the live recording, by following the steps below:
 
 1. In the VTEX Admin, access **Apps > Live Shopping > Events > Event Information** page.
 2. In the **Event recording** section, you can choose to click in two options:

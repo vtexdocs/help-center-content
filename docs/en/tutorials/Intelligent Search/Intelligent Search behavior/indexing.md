@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: indexing
-locale: en
 legacySlug: indexing
+locale: en
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
@@ -25,4 +25,4 @@ The indexing process is safe and has a retry mechanism — if an item is not ind
 
 Indexing is fundamental to analyze, process, and organize data as best as possible to improve your search results.
 
-Check [Indexing History](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) for more information on how to monitor the indexing process.
+Check [Indexing History](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) for more information on how to monitor the indexing process.

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: how-inventory-availability-works-on-the-product-page
-locale: en
 legacySlug: how-inventory-availability-works-on-the-product-page
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

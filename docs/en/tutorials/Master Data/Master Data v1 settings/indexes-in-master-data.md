@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: indexes-in-master-data
-locale: en
 legacySlug: setting-up-an-index-on-master-data
+locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
@@ -42,7 +42,7 @@ Learn more about the main scenarios for using indexes in Master Data in the foll
 
 ### Queries of up to a thousand documents
 
-The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](/en/tutorial/filtrando-dados-no-master-data--tutorials_778).
+The use of indexes is recommended for searches that return results of up to a thousand documents. If searches for an index frequently return more than a thousand documents, you can obtain better search performance by indexing the field, i.e., [configuring it as a filter in the data entity](https://help.vtex.com/en/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
 ### Restricting values per document (alternative key)
 
@@ -56,11 +56,11 @@ If only one field is configured as an index, the alternative key will not allow 
 
 For example, the **Customer** table has two columns: **ID** and **Name**. To make searching easier, the **Name** field (`firstName`) can be configured as an index and marked as **Unique values**, as illustrated below:
 
-![indices-1-en](https://images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/73cc5f6e47530f8a25b428b858c3d0df/indices-1-en.png)
+![indices-1-en](//images.ctfassets.net/alneenqid6w5/3OsXbib7NQTwtjSzBlvR0a/73cc5f6e47530f8a25b428b858c3d0df/indices-1-en.png)
 
 As a result, it will not be possible to enter a name that has already been entered in **Customer**:
 
-![indices-2-en](https://images.ctfassets.net/alneenqid6w5/4hHQqk8reoDAAzuMiNBncY/8caded1ca96fdf9c0bcd93a5afc12d27/indices-2-en.png)
+![indices-2-en](//images.ctfassets.net/alneenqid6w5/4hHQqk8reoDAAzuMiNBncY/8caded1ca96fdf9c0bcd93a5afc12d27/indices-2-en.png)
 
 In the example above, as there is already a record with the **Name** equal to **Mary**, you cannot add another one with the same value.
 
@@ -74,11 +74,11 @@ If there is more than one field in the index, the alternative key will prevent a
 
 For example, imagine that the **Customer** entity has three fields: **ID**, **Name** and **Document**. In the index configuration, under **Fields**, you enter Name (`firstName`) and Document (`document`), as shown below:
 
-![indices-3-en](https://images.ctfassets.net/alneenqid6w5/66m8jlFgaiE07dSpSFiWhg/6dfd99a8e88c85ea424e31bafd163572/indices-3-en.png)
+![indices-3-en](//images.ctfassets.net/alneenqid6w5/66m8jlFgaiE07dSpSFiWhg/6dfd99a8e88c85ea424e31bafd163572/indices-3-en.png)
 
 In this case, the **Name** value can be repeated, or the **Document** value can be repeated, but the combination of the two values cannot be repeated. In other words, there can be no record that repeats the same pair of values (such as identical **Name** and **Document**).
 
-![indices-4-en](https://images.ctfassets.net/alneenqid6w5/7sLqZNCOgjbF794zd6Jcz7/f56a0b860946eec272c8973d57eb6368/indices-4-en.png)
+![indices-4-en](//images.ctfassets.net/alneenqid6w5/7sLqZNCOgjbF794zd6Jcz7/f56a0b860946eec272c8973d57eb6368/indices-4-en.png)
 
 In the example above, there is already a record with the **Name** as **Mary**. You can include another record with the same **Name** as long as the **Document** value is different.
 

@@ -32,7 +32,7 @@ VTEX processes customers' personal data only when necessary, complying with the 
 * Identification number (when required by the country where the store operates)
 * Gift card history
 * Abandoned cart
-* [Conversation Tracker](/en/tutorial/conversation-tracker--tutorials_195) chat
+* [Conversation Tracker](https://help.vtex.com/en/tutorial/conversation-tracker--tutorials_195) chat
 * Session passwords (encrypted)
 * Generated tokens
 

@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: offers-and-sending-products-to-the-marketplace
-locale: pt
 legacySlug: seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace
+locale: pt
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
 ## O que é um Anúncio?
 
-Sempre que um produto ou uma variação são criados em seu [Seller Portal](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK), eles são enviados automaticamente para o Marketplace. Porém, isso não significa que este produto está pronto para ser exposto na vitrine do marketplace, e em seguida vendido. É preciso configurar condições de preço e estoque para que ele se torne disponível para venda.
+Sempre que um produto ou uma variação são criados em seu [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK), eles são enviados automaticamente para o Marketplace. Porém, isso não significa que este produto está pronto para ser exposto na vitrine do marketplace, e em seguida vendido. É preciso configurar condições de preço e estoque para que ele se torne disponível para venda.
 
 Anúncio é o nome que damos para um produto ou variação de um seller, que foi enviado para o marketplace e recebeu configurações de preço e estoque. Quando você configura condições de preço e estoque, você está preparando seu produto ou variação para que vire um anúncio. Uma vez configuradas as condições de preço e estoque, o produto da sua loja se torna um anúncio de fato, na vitrine do marketplace.
 
@@ -29,7 +29,7 @@ Anúncio é o nome que damos para um produto ou variação de um seller, que foi
 
 Na ilustração podemos ver uma série de anúncios de um seller na vitrine de um marketplace, contendo as variações de seus produtos.
 
-![ilustra-anuncio](https://images.ctfassets.net/alneenqid6w5/6jTBcTMp6BZkTIdmzlj2cO/2bb8c962ee97323f452c8d0fbff68c2b/ilustra-anuncio.png)
+![ilustra-anuncio](//images.ctfassets.net/alneenqid6w5/6jTBcTMp6BZkTIdmzlj2cO/2bb8c962ee97323f452c8d0fbff68c2b/ilustra-anuncio.png)
 
 ## Como sei que o meu produto foi enviado para o Marketplace?
 
@@ -37,12 +37,12 @@ Depois de configurar preço e estoque para o seu produto e ativá-lo, o anúncio
 
 No painel de *Produtos Compartilhados*, a coluna `Status` demonstra se o produto está disponível ou não no marketplace. 
 Os produtos que estão como `Ativos` já tem anúncios criados no marketplace. 
-Os produtos que estão como `Inativos` ainda não foram enviados para o marketplace. Para enviá-los, siga as instruções descritas no artigo de [Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
+Os produtos que estão como `Inativos` ainda não foram enviados para o marketplace. Para enviá-los, siga as instruções descritas no artigo de [Detalhes do produto](https://help.vtex.com/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Artigos Relacionados
 
-- [Seller Portal: Como Funciona o Catálogo](/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
-- [Seller Portal: Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
-- [Seller Portal: Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
-- [Seller Portal: Primeiros Passos](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)  
+- [Seller Portal: Como Funciona o Catálogo](https://help.vtex.com/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
+- [Seller Portal: Produtos Compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
+- [Seller Portal: Detalhes do produto](https://help.vtex.com/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
+- [Seller Portal: Primeiros Passos](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)  
 

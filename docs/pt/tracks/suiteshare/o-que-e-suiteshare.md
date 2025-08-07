@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: what-is-suiteshare
 locale: pt
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugPT: suiteshare
+trackSlugEN: suiteshare
 ---
 
 VTEX Assisted Sales (SuiteShare) é uma plataforma de marketing para WhatsApp.  

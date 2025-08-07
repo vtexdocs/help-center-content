@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: configuring-physical-stores-integration-with-b2w
-locale: en
 legacySlug: configuring-physical-stores-integration-with-b2w-skyhub
+locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 

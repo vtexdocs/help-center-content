@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-an-sku
-locale: en
 legacySlug: what-is-an-sku
+locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 

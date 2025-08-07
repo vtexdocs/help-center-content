@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: visualization-of-vtex-admin-rendering-errors
-locale: en
 legacySlug: visualization-of-vtex-admin-rendering-errors
+locale: en
 subcategoryId: 2eGwEr4DyPidougQJwktc5
 ---
 
@@ -21,7 +21,7 @@ Detecting and resolving these errors is crucial to ensuring a smooth user experi
 
 The Rendering Error page automatically attempts to reconnect every 10 seconds without user intervention, increasing the chances of resolving issues quickly.
 
-![Tela erro - EN](https://images.ctfassets.net/alneenqid6w5/bTUpjxR1p69QtPpWzaaB3/7f4bc00f9bf61a39c58ffa73732235de/Tela_erro_-_EN.png)
+![Tela erro - EN](//images.ctfassets.net/alneenqid6w5/bTUpjxR1p69QtPpWzaaB3/7f4bc00f9bf61a39c58ffa73732235de/Tela_erro_-_EN.png)
 
 ## How to view rendering error details
 
@@ -32,4 +32,4 @@ Technical details of rendering errors are available in the browser console, simp
 3. Go to the **Console** tab to view the log messages and errors recorded by the browser.
 4. In the Console, look for lines highlighted in red. These indicate error messages and components or pages that were not loaded or processed correctly.
 
-![devtools - EN](https://images.ctfassets.net/alneenqid6w5/26rabPnSk3xX5mmsGq6pv2/fa142b2e6900b0e69040488c5fa34178/devtools_-_EN.gif)
+![devtools - EN](//images.ctfassets.net/alneenqid6w5/26rabPnSk3xX5mmsGq6pv2/fa142b2e6900b0e69040488c5fa34178/devtools_-_EN.gif)

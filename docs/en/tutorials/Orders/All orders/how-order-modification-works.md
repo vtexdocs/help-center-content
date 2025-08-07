@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: how-order-modification-works
-locale: en
 legacySlug: how-change-order-works-beta
+locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
@@ -23,7 +23,7 @@ The **Order modifications** feature allows you to edit an order in different way
 - **Replace items:** Replace items, including those priced by weight.
 - **Price change:** Change the order total amount.
 
-For detailed instructions on each action, read the [How to modify orders](/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw) documentation. This article covers other aspects of **Order modifications** and is structured as follows:
+For detailed instructions on each action, read the [How to modify orders](https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw) documentation. This article covers other aspects of **Order modifications** and is structured as follows:
 
 - [Modifications through the VTEX Admin and API](#modifications-through-the-vtex-admin-and-api)
 - [General characteristics](#general-characteristics)
@@ -38,7 +38,7 @@ You can modify an order in two ways; see details in the table below:
 | Via the VTEX Admin | <p>Modifications are made from the <a href="https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl">order details page</a>, which can be accessed under <b>Orders > All orders</b>, by selecting the desired order.</p><p>You can also access the order using the search bar at the top of the VTEX Admin. To do this, click the bar, select the <b>Orders</b> option, and use any of the following criteria:</p><p><ul><li>Order ID</li><li>Customer name</li><li>Customer email</li><li>Customer document</li></ul></p><p><b>Help Center article:</b> <a href="https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw">How to modify orders</a></p> | <p><ul><li><code>handling</code></li></ul></p> |
 | Via API | <p>Modifications using the endpoints:</p><p><ul><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order modifications</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview">Preview order modifications</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-">Get order modifications detail</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes">Get order modifications history</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry">Retry order modifications</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel">Cancel order modifications</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/changes/settings">Get Order modifications settings</a></li><li><a href="https://developers.vtex.com/docs/api-reference/orders-api#put-/api/order-system/orders/changes/settings">Update Order modifications settings</a></li></ul></p> | <p><ul><li><code>handling</code></li><li><code>waiting-for-fulfillment</code></li><li><code>ready for invoicing</code></li></ul></p> |
 
-The order's change history is recorded on its [details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) in the **History of changed items section**. To view this information via API, use the [Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes) endpoint.
+The order's change history is recorded on its [details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) in the **History of changed items section**. To view this information via API, use the [Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes) endpoint.
 
 ## General characteristics
 
@@ -58,8 +58,8 @@ The order's change history is recorded on its [details page](/en/tutorial/pagina
 
 When a modification to an order item increases or decreases the original amount of the purchase, the **Orders** module automatically communicates with **Payments** as follows:
 
-- **Lower price after a modification:** The behavior depends on the payment status in the [transaction flow](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y).
-    - If the payment has already been settled (`settled` status), the payment [gateway](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) is notified to reverse the amount that must be returned to the customer.
+- **Lower price after a modification:** The behavior depends on the payment status in the [transaction flow](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y).
+    - If the payment has already been settled (`settled` status), the payment [gateway](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) is notified to reverse the amount that must be returned to the customer.
     - If the payment hasn't been settled yet, the gateway is notified to update the order total. 
 - **Higher price after a modification:** A notification is sent to the payment gateway to request the customer to pay the additional amount.
 

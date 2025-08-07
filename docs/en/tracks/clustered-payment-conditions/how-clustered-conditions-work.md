@@ -28,11 +28,11 @@ To configure these clusters, choose a property and then select the parameters to
 
 ## Property
 
-The property is filled with one of the [Master Data](/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629 "Master Data") fields. Think of these fields as the customer’s information that is stored by VTEX’s system. 
+The property is filled with one of the [Master Data](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629 "Master Data") fields. Think of these fields as the customer’s information that is stored by VTEX’s system. 
 
 As some fields are native to Master Data, these are created in advance and already exist once retailers gain access to their store’s Admin. However, these fields are not of consequence. 
 
-Besides these native fields, retailers can [create any field they want](/en/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete "create any field they want"). 
+Besides these native fields, retailers can [create any field they want](https://help.vtex.com/en/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829?&utm_source=autocomplete "create any field they want"). 
 
 Hence, retailers can create the properties - which can be text, numeric, true/false, by date - that they find most suitable to apply to the special payment condition for each cluster. 
 

@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: transactional-emails-for-subscriptions-orders
-locale: en
 legacySlug: transactional-emails-for-subscription-orders
+locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-All communication with your customer about [Subscriptions](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) will take place through the **Email Templates** module. Transactional emails related to subscriptions are fully customizable and are installed by default in the VTEX Admin.
+All communication with your customer about [Subscriptions](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) will take place through the **Email Templates** module. Transactional emails related to subscriptions are fully customizable and are installed by default in the VTEX Admin.
 
 To access transactional emails for subscriptions orders, check out the walk-through below:
 
@@ -25,7 +25,7 @@ To access transactional emails for subscriptions orders, check out the walk-thro
 4. Make the desired changes.
 5. Clique `Save`.
 
-You can also [create your own email template](/en/tutorial/understanding-the-message-center--tutorials_84).
+You can also [create your own email template](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84).
 
 ## How your customer tracks their subscription orders
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: gift-card
-locale: en
 legacySlug: gift-card
+locale: en
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
 ---
 
@@ -20,7 +20,7 @@ The GiftCard or voucher is one of the features of the Payments module, and it wo
 - A payment method for purchases;
 - A loyalty program that the retailer can connect with the VTEX system.
 
-For more details on the second option, check our technical documentation on [integration with GiftCards](/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450 "integration with Gift Card").
+For more details on the second option, check our technical documentation on [integration with GiftCards](https://help.vtex.com/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450 "integration with Gift Card").
 
 ## How to create the GiftCard (manual)
 
@@ -122,7 +122,7 @@ Follow the steps below to set up the Gift card:
 7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
 8. Click on `Save`.
 
-You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
+You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
 
 To end, click on the blue __Save__ button.
 

@@ -11,20 +11,20 @@ productTeam: Shopping
 slugEN: como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero
 locale: pt
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugPT: suiteshare
+trackSlugEN: suiteshare
 ---
 
 Você já conseguiu o mais difícil, fazer com que seus clientes entrem em contato com a sua empresa pelo WhatsApp. Agora, basta configurar com quem eles irão falar, definir os setores ou se serão direcionados para o atendente mais próximo a ele. 
 
-![Como distribuir o atendimento no WhatsApp para mais de um número 1](https://images.ctfassets.net/alneenqid6w5/7wLfyYNfAzOf7tn6xIBOWm/c899205e4a03b341c5ece68646d8f17e/Screenshot_2022-08-25_at_14-51-20_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
+![Como distribuir o atendimento no WhatsApp para mais de um número 1](//images.ctfassets.net/alneenqid6w5/7wLfyYNfAzOf7tn6xIBOWm/c899205e4a03b341c5ece68646d8f17e/Screenshot_2022-08-25_at_14-51-20_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
 
-Para começar, você precisa criar um link para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). Mas, se você já possui todos os links criados vamos começar a organizar o nosso time. 
+Para começar, você precisa criar um link para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). Mas, se você já possui todos os links criados vamos começar a organizar o nosso time. 
 
 **IMPORTANTE** : Se você for criar opções como, por exemplo: “Suporte” ou “vendas” e dentro das opções existir múltiplos atendentes, é necessário criar um link âncora para os setores. 
 
 Acesse “_**Organizar**_” e escolha como será distribuído o atendimento, você pode escolher entre **Sequencial, Geolocalizado** (Apenas para o plano Enterprise) e **Seletivo**.
 
-![Como distribuir o atendimento no WhatsApp para mais de um número 2](https://images.ctfassets.net/alneenqid6w5/6ODYG6o8SZUk9dQvx0Lps/e73c6dca3304220e27815eef943928bc/Screenshot_2022-08-25_at_14-55-02_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
+![Como distribuir o atendimento no WhatsApp para mais de um número 2](//images.ctfassets.net/alneenqid6w5/6ODYG6o8SZUk9dQvx0Lps/e73c6dca3304220e27815eef943928bc/Screenshot_2022-08-25_at_14-55-02_Como_distribuir_o_atendimento_no_WhatsApp_para_mais_de_um_n__mero.png)
 
 No modo **sequencial**, cada cliente que clica nesse link cairá para um atendente diferente, a distribuição é feita de forma sequencial, onde cada atendente terá a sua vez de forma igualitária.  Como se fosse uma fila de espera, cada cliente será direcionado para um atendente, numa espécie de central de atendimento (ou como alguns gostam de chamar), em um call-center de WhatsApp.
 
@@ -34,4 +34,4 @@ No modo **Seletivo**, cada cliente que clicar nesse link será direcionado para
 
 Agora que entendemos um pouco sobre cada opção, vamos criar nosso **chat**. Lembrando que dentro de um seletivo podemos inserir um sequencial ou Geolocalizado. Gostou? 
 
-Então escolha a opção que iremos configurar: [Sequencial](/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3), [Geolocalizado](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D), [Seletivo](/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX).
+Então escolha a opção que iremos configurar: [Sequencial](https://help.vtex.com/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3), [Geolocalizado](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D), [Seletivo](https://help.vtex.com/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX).

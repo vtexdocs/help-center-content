@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart
-locale: en
 legacySlug: how-is-shipping-cost-calculated-when-theres-an-item-with-shipping-benefit-on-the-cart
+locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 

@@ -11,10 +11,10 @@ productTeam: Reliability
 slugEN: post-go-live
 locale: es
 trackId: 4Ns5FxIiksmjsdX2yOTduM
-trackSlugES: go-live
+trackSlugEN: go-live
 ---
 
-Tu tienda está disponible en el [dominio registrado](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registrar-el-dominio-en-vtex) para que los clientes puedan acceder a ella y comprar.
+Tu tienda está disponible en el [dominio registrado](https://help.vtex.com/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registrar-el-dominio-en-vtex) para que los clientes puedan acceder a ella y comprar.
 
 Si lo deseas, puedes hacer que tu tienda esté disponible en otras direcciones mediante [redirecciones](#realizar-redirecciones).
 
@@ -22,6 +22,6 @@ Si lo deseas, puedes hacer que tu tienda esté disponible en otras direcciones m
 
 Para que tu tienda esté disponible en diferentes direcciones, hay dos tipos posibles de redirecciones:
 
-- [Configurar el acceso sin www](/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
- - Redirección desde otras direcciones](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+- [Configurar el acceso sin www](https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
+ - Redirección desde otras direcciones](https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
 

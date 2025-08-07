@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: linking-urls-to-banners-using-the-site-editor
-locale: pt
 legacySlug: vinculando-urls-em-banners-usando-o-site-editor
+locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 

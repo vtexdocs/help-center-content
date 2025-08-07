@@ -10,16 +10,16 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slugEN: transactional-email-template-for-refunded-order
-locale: en
 legacySlug: transactional-email-template-for-refunded-order
+locale: en
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-When the amount paid for an order is refunded to the customer, VTEX automatically sends an email to that customer, notifying them that the refund was successful. You can disable or customize the template for this email in the [Message Center](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
+When the amount paid for an order is refunded to the customer, VTEX automatically sends an email to that customer, notifying them that the refund was successful. You can disable or customize the template for this email in the [Message Center](https://help.vtex.com/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
 
 ## Template customization
 
-To do this, enter the Message Center and search for the **Order Refund Customer** template. Or search for the template key: `vtexcommerce-order-refunded`. Read our [Message Center guide](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) to learn how to customize transactional email templates.
+To do this, enter the Message Center and search for the **Order Refund Customer** template. Or search for the template key: `vtexcommerce-order-refunded`. Read our [Message Center guide](https://help.vtex.com/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) to learn how to customize transactional email templates.
 
 ## Email trigger event
 

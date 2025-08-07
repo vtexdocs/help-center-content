@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: analytics
-locale: en
 legacySlug: analytics
+locale: en
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 ---
 
 **Analytics** is a page in VTEX Intelligent Search that organizes the data related to the searches carried out in the store and allows you to export this data in a CSV file.
 
-It provides insights into the performance of search results and [Autocomplete](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) search terms. This way, you can take actions to improve performance, such as creating redirects or adding synonyms.
+It provides insights into the performance of search results and [Autocomplete](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL?&utm_source=autocomplete) search terms. This way, you can take actions to improve performance, such as creating redirects or adding synonyms.
 
 Follow the steps below to access the page:
 
@@ -80,8 +80,8 @@ To export a report in .csv format, you must follow the steps below:
 
 The report (CSV file) you have downloaded contains two tables. The first table contains information about searched terms, as illustrated below. It also shows funnel metrics (from the **ProductsClick** column to the **ProductsSold** column) if you have selected this option.
 
-![search-report-term](https://images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/a16b574485adf9cb41ab258a3c169881/search-report-term.png)
+![search-report-term](//images.ctfassets.net/alneenqid6w5/5b8DWfBkXE9hZzugQ2LoaP/a16b574485adf9cb41ab258a3c169881/search-report-term.png)
 
 The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 
-![search-report-date](https://images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)
+![search-report-date](//images.ctfassets.net/alneenqid6w5/1B1hwv5X36tvAv4Nt2Nxz1/354c3c4357d578dc2492b89a78c2a272/search-report-date.png)

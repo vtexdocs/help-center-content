@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: product-list
-locale: es
 legacySlug: lista-de-productos-beta
+locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
 La página **Productos** le permite ver y gestionar la lista completa de productos registrados en su tienda, lo que simplifica la gestión del catálogo en Seller Portal. Puede acceder a la página a través del menú **Catálogo** en el Admin VTEX.
 
-![product-list-es](https://images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/2ae859a5052ac86fee7b4938ead9a6a8/product-list-es.png)
+![product-list-es](//images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/2ae859a5052ac86fee7b4938ead9a6a8/product-list-es.png)
 
 Desde la lista de productos puede llevar a cabo varias acciones:
 
@@ -28,7 +28,7 @@ Desde la lista de productos puede llevar a cabo varias acciones:
 
 ## Crear un nuevo producto
 
-Al hacer clic en el botón **CREAR PRODUCTO**, se abrirá la página para registrar un nuevo producto en el catálogo. Consulte el artículo [Cómo crear un producto](/es/tutorial/como-crear-un-producto-beta--671zAWe0B9eCikzDu7kB1G) para obtener información sobre cómo realizar este procedimiento.
+Al hacer clic en el botón **CREAR PRODUCTO**, se abrirá la página para registrar un nuevo producto en el catálogo. Consulte el artículo [Cómo crear un producto](https://help.vtex.com/es/tutorial/como-crear-un-producto-beta--671zAWe0B9eCikzDu7kB1G) para obtener información sobre cómo realizar este procedimiento.
 
 <div class="alert alert-warning"> El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.</div>
 

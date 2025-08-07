@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
-locale: en
 legacySlug: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
+locale: en
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 
-Before configuring a discount for orders paid in full on Google Shopping and proceeding with the steps detailed below, please follow the instructions in the tutorial [Configuring a discount for orders paid in full](/en/tutorial/configuring-a-discount-for-orders-prepaid-in-full--7Lfcj9Wb5dpYfA2gKkACIt#).
+Before configuring a discount for orders paid in full on Google Shopping and proceeding with the steps detailed below, please follow the instructions in the tutorial [Configuring a discount for orders paid in full](https://help.vtex.com/en/tutorial/configuring-a-discount-for-orders-prepaid-in-full--7Lfcj9Wb5dpYfA2gKkACIt#).
 
 To set up the discount for orders paid in full on Google Shopping, you must add the payment method ID on the product page in the CMS. 
 

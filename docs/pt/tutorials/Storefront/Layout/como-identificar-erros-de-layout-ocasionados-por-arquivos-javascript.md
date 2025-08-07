@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-identify-layout-errors-caused-by-javascript-files
-locale: pt
 legacySlug: como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript
+locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -26,7 +26,7 @@ Para isso faça os seguintes passos :
 1. Para desabilitar o JS da página basta colocar o `/tools.html` no fim da URL. Ex: {AccountName}.myvtex.com/tools.html
 2. Clique em __Disable__ na aba __Client JavaScript is__.
 
-![javascript-disable ](https://images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png) 
+![javascript-disable ](//images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png) 
 
 3. Após isso, retire o `/tools.html` da URL e atualize a página.
 

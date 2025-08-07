@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-identify-layout-errors-caused-by-javascript-files
-locale: es
 legacySlug: como-identificar-errores-de-layout-causados-por-archivos-javascript
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -25,7 +25,7 @@ Para eso, siga los siguientes pasos:
 
 1. Para deshabilitar el JavaScript de la página basta colocar el `/tools.html` al final de la URL. Ej: {AccountName}.myvtex.com/tools.html
 2. Haga clic en __Disable__ en la pestaña __Client JavaScript is__.
-![javascript-disable ](https://images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
+![javascript-disable ](//images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
 
 3. Después retirar el `/tools.html` da URL y actualizar la página.
 

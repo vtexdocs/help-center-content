@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp
 locale: es
 trackId: khP0p8mjIYRIpvM7Cb4Zr
-trackSlugES: suiteshare
+trackSlugEN: suiteshare
 ---
 
 <div class="alert alert-warning">

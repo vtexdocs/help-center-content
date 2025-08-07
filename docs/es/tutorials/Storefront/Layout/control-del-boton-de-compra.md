@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: buy-button-control
-locale: es
 legacySlug: control-del-boton-de-compra
+locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: creating-service-for-a-sku
-locale: en
 legacySlug: creating-a-service-for-a-sku
+locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-SKU service is a VTEX feature that allows adding an item, that is optional and priced, to complement a product. For more information, read our article [What is a Service?](/en/tutorial/what-is-a-service--46Ha8CEEQoC6Y40i6akG0y).
+SKU service is a VTEX feature that allows adding an item, that is optional and priced, to complement a product. For more information, read our article [What is a Service?](https://help.vtex.com/en/tutorial/what-is-a-service--46Ha8CEEQoC6Y40i6akG0y).
 
 In this article we will cover the following topics:
 
@@ -46,7 +46,7 @@ In this section you must enter a name for your service type and configure its be
 - **Gift card:** option to display the service type on the gift card.
 - **Mandatory service:** option to make the service type mandatory.
 - **Status** option to enable or disable the service type.
-- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article [What is an Attachment?](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm).
+- **Attachments:** selected attachments that will be added to the service type. The attachment is used to add customized information to the service. To learn more, read our article [What is an Attachment?](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm).
 
 ## Creating a service value and associating it with a service type
 After registering the service type, you must assign a value to it. To register the value of a service type, please follow the steps below:
@@ -82,7 +82,7 @@ To link a service to a SKU, please follow the steps below:
   <p>The size of the template file cannot exceed 4Mb (4096KB).</p>
 </div>
 8. Click on the bar next to the `Select` button, as shown below.
-  ![Anexos - EN](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
+  ![Anexos - EN](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/6d834bfa0595150d8c6a5b69c6088e23/sku-services.png)
 9. Select the updated CSV template.
 10. Click on the button `Link service values to SKU`.
 

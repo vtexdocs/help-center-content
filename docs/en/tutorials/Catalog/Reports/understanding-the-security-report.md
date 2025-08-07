@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: understanding-the-security-report
-locale: en
 legacySlug: understanding-the-security-report
+locale: en
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
@@ -31,7 +31,7 @@ Several filters are available, beginning with the fields below, bearing in mind 
 
 In the example, I set up a filter for a change (whether creation or updating) to the price of an SKU. To do this I have used the fields __Data__ with the SKU Id, __Screen__, with the location of the platform where the change is happening and a specific time frame. According to the report you want, you may have to use other fields at the same time, or as a replacement for those I have used in the example.
 
-![relatorioseguran aPT.gif?h=250](https://images.ctfassets.net/alneenqid6w5/9t5KxHdSwTGYy84KmJIq7/ef82dec5acc0f07090f01d3484407e75/relatorio-seguranca-en.gif)
+![relatorioseguran aPT.gif?h=250](//images.ctfassets.net/alneenqid6w5/9t5KxHdSwTGYy84KmJIq7/ef82dec5acc0f07090f01d3484407e75/relatorio-seguranca-en.gif)
 
 Read the section below to understand all the available fields for filtering the report.
 

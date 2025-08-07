@@ -11,7 +11,7 @@ productTeam: Others
 slugEN: retail-media-glossary
 locale: pt
 trackId: 4sZoGHUrBNlaPMrtPCqGvA
-trackSlugPT: vtex-ads
+trackSlugEN: vtex-ads
 ---
 
 O glossário a seguir reúne os principais termos e conceitos relacionados ao Retail Media:

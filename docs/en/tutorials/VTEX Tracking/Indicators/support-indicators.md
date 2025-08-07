@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: support-indicators
-locale: en
 legacySlug: support-indicators
+locale: en
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2
 ---
 

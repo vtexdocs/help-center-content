@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: configuring-clearsale-v4-antifraud
-locale: en
 legacySlug: configuring-clearsale-v4-antifraud
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with ClearSaleV4 [anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
+At VTEX, it is possible to integrate with ClearSaleV4 [anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud--tutorials_446). Through this system, it is possible to increase the level of security in payment transactions carried out in your store using risk analyzes that identify possible fraud.
 
 To configure ClearSaleV4, follow the steps below:
 

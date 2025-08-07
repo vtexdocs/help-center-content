@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: url-mapping-301-redirect
-locale: en
 legacySlug: url-mapping-301-redirect
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

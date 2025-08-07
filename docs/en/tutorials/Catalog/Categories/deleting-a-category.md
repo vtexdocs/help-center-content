@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: deleting-a-category
-locale: en
 legacySlug: deleting-a-category
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -26,12 +26,12 @@ If you do not want to display a specific category to your customers, you can dea
 3. Select the category you want to deactivate.
 4. Click on the `Actions` button.
 5. Click on `Edit`.
-6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](https://images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/b1056e64bedc8a7f495dde49b87b735e/img_inativarcategoria_EN.png)
+6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](//images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/b1056e64bedc8a7f495dde49b87b735e/img_inativarcategoria_EN.png)
 7. Click on `Save`.
 
 ## Deleting all categories
 
-Another option is to [empty the catalog](/en/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) and delete all categories, brands, and specifications simultaneously. To do that, you must delete products and SKUs before, as described in the steps below:
+Another option is to [empty the catalog](https://help.vtex.com/en/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) and delete all categories, brands, and specifications simultaneously. To do that, you must delete products and SKUs before, as described in the steps below:
 
 1. Type the URL below into your browser: `{accountName}.myvtex.com/admin/Site/fullcleanup.aspx`
 2. Click on `Delete Products and SKUs`. Warning: your products, SKUs, and related items will be permanently removed from your store.

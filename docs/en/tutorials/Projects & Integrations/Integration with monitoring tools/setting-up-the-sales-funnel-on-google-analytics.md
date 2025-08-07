@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_4
 slugEN: setting-up-the-sales-funnel-on-google-analytics
-locale: en
 legacySlug: setting-up-the-sales-funnel-on-google-analytics
+locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
 
@@ -25,23 +25,23 @@ To make it easier, the entire setup in this article can be <a href="https://supp
 
 For manual configuration or editing of an existing goal, the first step is to access Analytics and click on the __Administrator__ button in the lower left corner. Then go to the __Goals__ option, from the "View" column.
 
-![image](https://images.ctfassets.net/alneenqid6w5/2lSqr5sq9cEJqQ8OrYeMrO/8bb8294a785ec55c4bc812780d010377/Screenshot_2019-10-28_14.59.53.png)
+![image](//images.ctfassets.net/alneenqid6w5/2lSqr5sq9cEJqQ8OrYeMrO/8bb8294a785ec55c4bc812780d010377/Screenshot_2019-10-28_14.59.53.png)
 
 In the goal administration screen, choose to create a new goal or to edit an existing one.
 
 __In step 1__ you can follow with a custom type goal:
 
-![image](https://images.ctfassets.net/alneenqid6w5/5vv17y3LYwEZ99E531Rw8E/0e73bbfed92a27dbc893aa1ab3f6cb2e/Screenshot_2019-10-28_15.01.15.png)
+![image](//images.ctfassets.net/alneenqid6w5/5vv17y3LYwEZ99E531Rw8E/0e73bbfed92a27dbc893aa1ab3f6cb2e/Screenshot_2019-10-28_15.01.15.png)
 
 __In step 2__ you can define the name you prefer for your goal and a position code (for internal Google Analytics use). In type, let's use "Destination":
 
-![image](https://images.ctfassets.net/alneenqid6w5/3TSWIxs5EPBQAfPYY4DKeD/f937330ad2fc5496c44a58acbc05f99d/Screenshot_2019-10-28_15.03.02.png)
+![image](//images.ctfassets.net/alneenqid6w5/3TSWIxs5EPBQAfPYY4DKeD/f937330ad2fc5496c44a58acbc05f99d/Screenshot_2019-10-28_15.03.02.png)
 
 __In step 3__ we have the most sensitive settings. In it we set the page that determines the completion of the goal and the path the clients will take to reach it.
 
 In the "Destination" field select the regular expression option and enter the URL of the order placed page: `^/checkout/orderPlaced`
 
-![image](https://images.ctfassets.net/alneenqid6w5/7foRf9TbRzb0pUNlXpqATQ/593d9162dfe76f4f8ab6a59eadbb330e/Screenshot_2019-10-28_15.04.07.png)
+![image](//images.ctfassets.net/alneenqid6w5/7foRf9TbRzb0pUNlXpqATQ/593d9162dfe76f4f8ab6a59eadbb330e/Screenshot_2019-10-28_15.04.07.png)
 
 Then configure the path that the client will go through until an order is finished. In such case, we're taking into account that the purchase process starts on the product screen; then my funnel will serve to measure the number of customers who access this screen, how many orders have been finished and at which step customers are giving up the purchase.
 
@@ -54,7 +54,7 @@ Still __in step 3__, enable the __Funnel__ option with the following steps:
 5. __Delivery__ = `^/checkout/(\?.*)?#/shipping$`
 6. __Payment__ = `^/checkout/(\?.*)?#/payment$`
 
-![image](https://images.ctfassets.net/alneenqid6w5/6W1evwkmfds3ok1h8Hjzsx/da9bef2d395db2170446ebd7d1df1dda/Screenshot_2019-10-28_15.06.24.png)
+![image](//images.ctfassets.net/alneenqid6w5/6W1evwkmfds3ok1h8Hjzsx/da9bef2d395db2170446ebd7d1df1dda/Screenshot_2019-10-28_15.06.24.png)
 
 One way to verify that the goal is set correctly is to use the "Check this goal" link. Google will generate a goal conversion simulation within the last 7 days.
 

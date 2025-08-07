@@ -3,19 +3,25 @@ title: 'Catálogo Data Pipeline'
 id: 7ARDELPaugrBu5dZT7Vx2b
 status: PUBLISHED
 createdAt: 2025-03-06T15:48:35.084Z
-updatedAt: 2025-04-02T18:49:45.514Z
-publishedAt: 2025-04-02T18:49:45.514Z
+updatedAt: 2025-07-31T22:11:52.565Z
+publishedAt: 2025-07-31T22:11:52.565Z
 firstPublishedAt: 2025-03-07T11:30:01.994Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: catalog-data-pipeline
-locale: pt
 legacySlug: catalogo-data-pipeline
+locale: pt
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
 O conjunto de dados é composto por cinco tabelas que fornecem as informações mais recentes do catálogo de uma conta VTEX. Neste conjunto de dados são disponibilizadas informações de **produtos, SKUs, marcas, categorias** e **especificações.**  
+
+<div clas="alert alert-warning">
+No modelo de dados de Catálogo, somente <b>Marcas</b> e <b>Categorias</b> com pelo menos um produto ou SKU vinculado no catálogo são elegíveis para envio, mesmo que estejam inativas.
+</div>
+
+Traduza para o EN e ES
 
 Nesta seção você encontrará as seguintes informações:  
 
@@ -33,7 +39,7 @@ Nesta seção você encontrará as seguintes informações:
 
 | **Caracterítica** | **Descrição** |
 |:---:|:---:|
-| **Origem dos dados** | Os dados são obtidos a partir do [módulo de catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |
+| **Origem dos dados** | Os dados são obtidos a partir do [módulo de catálogo](https://help.vtex.com/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |
 | **Disponibilidade** | Os dados podem ser acessados no Admin VTEX. |
 | **Histórico** | Os dados disponibilizado são a partir de fevereiro de 2025. |
 | **Menor intervalo de atualização possível** | Uma hora. |
@@ -186,11 +192,11 @@ Os dados do catálogo estão conectados a vários outros modelos de dados. Aqui 
 
 ### Conheça outros Conjuntos de dados
 
-- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
-- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)  
+- [Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
+- [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
+- [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
+- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)  
 

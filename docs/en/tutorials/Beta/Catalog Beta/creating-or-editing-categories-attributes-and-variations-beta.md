@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Management
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: creating-or-editing-categories-attributes-and-variations-beta
-locale: en
 legacySlug: creating-or-editing-categories-attributes-and-variations-beta
+locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
@@ -53,15 +53,15 @@ In the beta phase, we'll use a new name for the following terms:
 
 | **Current name** | **Beta name** |
 | --- | --- |
-| [Product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) | Attributes |
-| [SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) | Variations |
-| [Groups (of product specifications or SKUs)](/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Groups (of attributes or variations) |
+| [Product specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) | Attributes |
+| [SKU specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) | Variations |
+| [Groups (of product specifications or SKUs)](https://help.vtex.com/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Groups (of attributes or variations) |
 
 ## Interface overview of categories, attributes, and variations
 
 In the VTEX Admin, when you go to **Catalog > Categories**, the interface by displays **Categories** and **Attributes** by default, as shown in the image below:
 
-![category_attributes_EN](https://images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/fe467645e777cf8e5cbdc1e5e596390c/category_attributes_EN.png)
+![category_attributes_EN](//images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/fe467645e777cf8e5cbdc1e5e596390c/category_attributes_EN.png)
 
 On this page, you can view information and perform the following actions:
 
@@ -82,7 +82,7 @@ On this page, you can view information and perform the following actions:
 
 Selecting the **Variations** option displays an interface like the one shown below:
 
-![category_variations_EN](https://images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/0a0418f43b503e6fb16913ee28c4ef40/category_variations_EN.png)
+![category_variations_EN](//images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/0a0418f43b503e6fb16913ee28c4ef40/category_variations_EN.png)
 
 On this page, you can view information and do the following:
 
@@ -127,18 +127,18 @@ To create a category, follow the steps below:
 3. If you want to activate the category you're creating, select the checkbox **Active.** To keep it deactivated, leave the option unchecked.
 4. In the **Basic information** section, complete the following fields:
     - **Parent category:** If the category you’re creating is a subcategory (for example, nested under another category), enter the numerical code of the parent category it belongs to.
-    - **VTEX global category:** The [global category](/en/tutorial/configurando-a-categoria-global--tutorials_188) is a taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), predefined as a single tree on the VTEX platform.
+    - **VTEX global category:** The [global category](https://help.vtex.com/en/tutorial/configurando-a-categoria-global--tutorials_188) is a taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), predefined as a single tree on the VTEX platform.
 
 5. In the **Storefront and SEO** section, complete the following fields:
     - **Similar words:** Synonyms of the category names. Use this field to improve the coverage of search results. You can add multiple words, separated by commas, up to 200 characters.
     - **Page title:** Text displayed in the browser tab that corresponds to the title of the category page on the site. This field is crucial for SEO, as it doesn't allow HTML tags and must contain up to 150 characters.
     - **Description:** Brief summary of the category. We recommend using up to 200 characters, so that search engines display the description correctly on the results pages. The field only supports plain text and doesn't allow HTML tags.
-    - **Store search priority:** Integers used to define the category's priority in search results. The highest value means the highest priority in the results, and the value zero or the field left blank means no priority. Learn more in the article [How the score field works](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+    - **Store search priority:** Integers used to define the category's priority in search results. The highest value means the highest priority in the results, and the value zero or the field left blank means no priority. Learn more in the article [How the score field works](https://help.vtex.com/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 
 6. In the **Storefront** section, you can check any of the following options:
     - <a class="far fa-check-square" aria-hidden="true"></a> **Show on menu:** Makes the category or department visible on the store's top and side menus.
     - <a class="far fa-check-square" aria-hidden="true"></a> **Menu with active link:** Determines whether the category visible in the store is clickable, which redirects to a category page.
-    - <a class="far fa-check-square" aria-hidden="true"></a> **Brand filter:** Defines whether the category or department page should display the option to filter by [brands](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
+    - <a class="far fa-check-square" aria-hidden="true"></a> **Brand filter:** Defines whether the category or department page should display the option to filter by [brands](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
 
 7. In **Product display mode**, you determine how the SKUs of the products in the category will be displayed in the store product listing page. You can choose the following options:
     - **SKU list:** Items organized in a list format. If you don’t choose another option, this one will be used by default.
@@ -222,7 +222,7 @@ When a group of attributes is created in the parent category, it becomes mandato
 
 In the **Attributes** interface, you can identify groups and inherited attributes by the share icon, located to the left of the name, as in the image below:
 
-![inherited_atribute_EN](https://images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/49808ee4f19506367fed4f66f5ae172d/inherited_atribute_EN.png)
+![inherited_atribute_EN](//images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/49808ee4f19506367fed4f66f5ae172d/inherited_atribute_EN.png)
 
 <div class = "alert alert-info">
   <p>To learn about attribute status, see the section <a href="#viewing-attribute-activation-status-and-values">Viewing attribute activation status and values</a>.</p>
@@ -230,7 +230,7 @@ In the **Attributes** interface, you can identify groups and inherited attribute
 
 ## Actions on attributes
 
-In beta, *attributes* is the terminology for what used to be called [product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) — the informative properties that can be added to products. In **Catalog > Categories**, the **Attributes** page allows you to:
+In beta, *attributes* is the terminology for what used to be called [product specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) — the informative properties that can be added to products. In **Catalog > Categories**, the **Attributes** page allows you to:
 
 - [Adding attributes](#adding-attributes)
 - [Editing attributes](#editing-attributes)
@@ -314,7 +314,7 @@ To do this, at the top right of the **Attributes** page, click the eye icon <i c
 
 ## Actions on variations
 
-In beta, *variations* is the terminology for what used to be called [SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) — the SKU options in which products could be purchased. In **Catalog > Categories**, the **Variations** page allows you to:
+In beta, *variations* is the terminology for what used to be called [SKU specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) — the SKU options in which products could be purchased. In **Catalog > Categories**, the **Variations** page allows you to:
 
 - [Adding variations](#adding-variations)
 - [Editing variations](#editing-variations)

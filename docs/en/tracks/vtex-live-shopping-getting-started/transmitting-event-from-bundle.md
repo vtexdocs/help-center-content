@@ -32,9 +32,9 @@ The transmission occurs in the following way:
 
 ## Turning on the event
 
-By the time you are ready to transmit the live, you should already have your event turned on, and its [status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) should be `Live`. The reason is that only turned on events have all setting options enabled. 
+By the time you are ready to transmit the live, you should already have your event turned on, and its [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) should be `Live`. The reason is that only turned on events have all setting options enabled. 
 
-For the complete step by step, see the [Turning on event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
+For the complete step by step, see the [Turning on event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
 
 ## Starting the Go live
 
@@ -45,8 +45,8 @@ To go live, follow the steps below:
 </div>
 
 1. In the VTEX Admin, access **Apps > Live Shopping > Events > Event Information** page.
-2. In the **Streaming Studio** section, click `Access` to go to the [Bundle studio](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX).
-3. Once you’re logged into the [My Studio](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) page in Bundle, click `Go Live` on the right top of the page. If it shows a `Loading` message, wait a few seconds for the `Go live` button to appear.
+2. In the **Streaming Studio** section, click `Access` to go to the [Bundle studio](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX).
+3. Once you’re logged into the [My Studio](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) page in Bundle, click `Go Live` on the right top of the page. If it shows a `Loading` message, wait a few seconds for the `Go live` button to appear.
 4. In the confirmation window, click `Yes`.
 
 After a five seconds countdown shown on the player, the event transmission starts, and what you see in the player is the content live-streamed to the audience.
@@ -79,7 +79,7 @@ There are two ways for the administrator to leave Bundle without interfering on 
 
 To completely end the live, follow the steps below (administrators only):
 
-1. In [My Studio](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) in Bundle, click `End live` on the right top of the page.
+1. In [My Studio](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) in Bundle, click `End live` on the right top of the page.
 2. On the window, click `Yes`. This ends the transmission on Bundle, but you can still transmit the event from another studio.
 3. In the confirmation window, click `Yes`. This ends the event on VTEX Admin, and you can no longer resume the event, not even from other studios.
 

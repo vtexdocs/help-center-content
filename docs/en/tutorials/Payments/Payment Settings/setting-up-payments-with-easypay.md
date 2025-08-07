@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: setting-up-payments-with-easypay
-locale: en
 legacySlug: setting-up-payments-with-easypay
+locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
@@ -48,7 +48,7 @@ Configuration is divided in four sections:
 - [easypay checkout customization (required)](#easypay-checkout-customization)
 - [Sandbox mode](#sandbox-mode)
 
-![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
+![easypay_pt_1](//images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
 <div class="alert alert-warning" role="alert">You must set up the following configurations in the <a href="https://backoffice.easypay.pt/">easypay environment</a>. easypay controls these settings, therefore, VTEX does not guarantee that the steps below will be permanently updated. Use this document as a reference and check your <a href="https://backoffice.easypay.pt/">easypay environment</a> for up-to-date information.</div>
 
@@ -60,25 +60,25 @@ __Key ID e Key Value__: easypay key value and ID.
 
 <blockquote><ui>1. In the <a href="https://backoffice.easypay.pt/">easypay environment</a>, click the easypay logo in the top left corner of the screen and the arrow of the desired account.</ui>
 
-![easypay_pt_2](https://images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
+![easypay_pt_2](//images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
 
 <blockquote><ui>2. Go to <b>Web Services > Configuration API 2.0 > Keys</b>.</ui>
 
-![easypay_en_3](https://images.ctfassets.net/alneenqid6w5/3Qrv6zVnD0aUq4bqHXgrlk/7a37b868b1d80e24001ad58e3debeee8/easypay_en_3.png)
+![easypay_en_3](//images.ctfassets.net/alneenqid6w5/3Qrv6zVnD0aUq4bqHXgrlk/7a37b868b1d80e24001ad58e3debeee8/easypay_en_3.png)
 
 <blockquote><ui>3. Copy and save the <b>ID</b> and <b>Key</b> information.</ui>
 
-![easypay_en_4](https://images.ctfassets.net/alneenqid6w5/32OyO0qBLXPTJ0aZpXsQIv/9cd6f593c3f473726fc0380c0688d219/easypay_en_4.png)
+![easypay_en_4](//images.ctfassets.net/alneenqid6w5/32OyO0qBLXPTJ0aZpXsQIv/9cd6f593c3f473726fc0380c0688d219/easypay_en_4.png)
 
 __Merchant account UID__: identification of the merchant account where purchase amounts from store sales will be deposited. If there is no separate merchant account, you can use the "Account UID" of the payment account.
 
 <blockquote><ui>1. In the <a href="https://backoffice.easypay.pt/">easypay environment</a>, click the easypay logo in the top left corner of the screen, then click the arrow on the "MERCHANT 1" account.</ui>
 
-![easypay_pt_5](https://images.ctfassets.net/alneenqid6w5/gQE8fL64YRCCggxVZB7qX/8e130d01b3cc65871f540233b1693df5/easypay_pt_5.PNG)
+![easypay_pt_5](//images.ctfassets.net/alneenqid6w5/gQE8fL64YRCCggxVZB7qX/8e130d01b3cc65871f540233b1693df5/easypay_pt_5.PNG)
 
 <blockquote><ui>2. Copy and save the <b>Account UID</b> information.</ui>
 
-![easypay_en_6](https://images.ctfassets.net/alneenqid6w5/3S2dkHv1WmJSyAVVn3salh/e15357e9cfb846850ada8bfeda405d48/easypay_en_6.png)
+![easypay_en_6](//images.ctfassets.net/alneenqid6w5/3S2dkHv1WmJSyAVVn3salh/e15357e9cfb846850ada8bfeda405d48/easypay_en_6.png)
 
 __Margin account UID__: identification of the margin account. 
 
@@ -90,7 +90,7 @@ __Refund account ID and Refund account key__: If there is no specific refund acc
 
 In this section, you must indicate whether your store will use asynchronous and/or synchronous payments. See the easypay documentation to check the available [payment methods](https://docs.quality-utility.aws.easypay.pt/concepts/payment-methods) and their identification [acronyms](https://docs.quality-utility.aws.easypay.pt/checkout/reference).
 
-![easypay_en_7](https://images.ctfassets.net/alneenqid6w5/2Im2zLusDEAguft1GN8uf3/cad6490003aff12d7e28cd11f8d93a0d/easypay_pt_7.png)
+![easypay_en_7](//images.ctfassets.net/alneenqid6w5/2Im2zLusDEAguft1GN8uf3/cad6490003aff12d7e28cd11f8d93a0d/easypay_pt_7.png)
 
 __Accepted asynchronous payment types__: asynchronous payment methods available to the customer. Only enter the acronyms of the asynchronous payment types, separated by commas without periods or spaces.
 
@@ -122,7 +122,7 @@ Example:
 
 easypay has a native checkout layout configured in the app. See below:
 
-![easypay_en_8](https://images.ctfassets.net/alneenqid6w5/1xcsW6xpPx79OOnA2dB1zw/d6a72835fdfeac5d00f0db79078123d5/easypay_pt_8.png)
+![easypay_en_8](//images.ctfassets.net/alneenqid6w5/1xcsW6xpPx79OOnA2dB1zw/d6a72835fdfeac5d00f0db79078123d5/easypay_pt_8.png)
 
 If you want to customize easypay's native checkout, complete one or more fields in this section:
 
@@ -174,7 +174,7 @@ To configure the easypay webhook, follow the steps below:
 
 <blockquote><ui>1. In the <a href="https://backoffice.easypay.pt/">easypay environment</a>, click the easypay logo in the top left corner of the screen, then click the arrow of the desired account.</ui>
 
-![easypay_pt_2](https://images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
+![easypay_pt_2](//images.ctfassets.net/alneenqid6w5/53o4nqsgB92I5zBOt2gpwv/0f8e3401fc6b08160fede1cc08cc49ec/easypay_pt_2.PNG)
 
 <blockquote><ui>2. Go to <b>Web Services > URL Configuration</b>.</ui>
 
@@ -182,7 +182,7 @@ To configure the easypay webhook, follow the steps below:
 
 `https://{your-account-name}.myvtex.com/_v/easypaypartnerpt.payment-provider-easypay/webhook`
 
-![easypay_en_9](https://images.ctfassets.net/alneenqid6w5/2f7UMqQzrIqNbtslGCFxyC/a07d223716625952489b062874cf0aab/easypay_en_9.png)
+![easypay_en_9](//images.ctfassets.net/alneenqid6w5/2f7UMqQzrIqNbtslGCFxyC/a07d223716625952489b062874cf0aab/easypay_en_9.png)
 
 <blockquote><ui>4. Click <b>Submit</b>.</ui>
 
@@ -202,9 +202,9 @@ To configure the easypay affiliation, follow the steps below:
 
 To process payments with Apple Pay on easypay, you must first perform configurations to enable your store in the Apple Pay environment. Learn more at [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/docs/guides/setting-up-merchant-id-in-apple-pay).    
 
-To configure other payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
+To configure other payment methods that easypay will process, read the [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) article.
 
-To set special conditions for payment methods, read [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 
 After following the instructions, it can take up to 10 minutes for the easypay connector to be displayed as a payment option at your store checkout.  
 
