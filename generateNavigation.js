@@ -135,15 +135,23 @@ function getTutorialCategories() {
 }
 
 function getTrackArticles(steps) {
-  console.log("Getting track articles...");
+  console.log('Getting track articles...');
   const children = [];
   for (let i = 0; i < steps.length; i++) {
     const id = steps[i].sys.id;
     if (Object.hasOwn(trackArticles, id)) {
-      children.push(trackArticles[id]);
+      const article = { ...trackArticles[id] };
+
+      // Prefix article name with index + 1
+      article.name = {
+        en: `${i + 1}. ${article.name.en}`,
+        pt: article.name.pt ? `${i + 1}. ${article.name.pt}` : '',
+        es: article.name.es ? `${i + 1}. ${article.name.es}` : ''
+      };
+
+      children.push(article);
     }
   }
-
   return children;
 }
 
