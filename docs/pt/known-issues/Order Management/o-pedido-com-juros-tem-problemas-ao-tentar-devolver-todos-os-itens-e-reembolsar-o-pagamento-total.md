@@ -1,0 +1,34 @@
+---
+title: "O pedido com juros tem problemas ao tentar devolver todos os itens e reembolsar o pagamento total"
+id: 2J5XD9jjQfZWMVg0yYMzUa
+status: PUBLISHED
+createdAt: 2023-09-18T20:53:08.156Z
+updatedAt: 2023-09-18T20:53:08.813Z
+publishedAt: 2023-09-18T20:53:08.813Z
+firstPublishedAt: 2023-09-18T20:53:08.813Z
+contentType: knownIssue
+productTeam: Order Management
+author: 2mXZkbi0oi061KicTExNjo
+tag: Order Management
+slugEN: o-pedido-com-juros-tem-problemas-ao-tentar-devolver-todos-os-itens-e-reembolsar-o-pagamento-total
+locale: pt
+kiStatus: Backlog
+internalReference: 376077
+---
+
+## Sumário
+
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
+</div>
+
+### **Resumo**
+
+## Simulação
+
+
+
+## Workaround
+
+
+
