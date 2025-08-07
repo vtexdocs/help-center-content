@@ -86,11 +86,13 @@ node contentful-fetcher/index.js --contentType=trackArticle,tutorial
 
 ## 🧾 Supported Content Types
 
-| Type           | Output Folder                        | Nested?             |
-| -------------- | ------------------------------------ | ------------------- |
-| `trackArticle` | `tracks/{track}`                     | ✅ grouped by track |
-| `tutorial`     | `tutorials/{category}/{subcategory}` | ✅ grouped          |
-| `faq`          | _coming soon_                        | 🚧                  |
+| Type                      | Output Folder                                 | Nested?             |
+| ------------------------- | --------------------------------------------- | ------------------- |
+| `trackArticle`            | `tracks/{track}`                              | ✅ grouped by track |
+| `tutorial`                | `tutorials/{category}/{subcategory}`          | ✅ grouped          |
+| `updates`                 | `announcements/{year}`                        | ✅ grouped by year  |
+| `frequentlyAskedQuestion` | `docs/{locale}/faq/{productTeam}`             | ✅ grouped by team  |
+| `troubleshooting`         | `docs/{locale}/troubleshooting/{subcategory}` | ✅ grouped          |
 
 ---
 
