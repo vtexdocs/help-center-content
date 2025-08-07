@@ -2,10 +2,12 @@ const fetchEntries = require('./fetch/entries');
 const minimist = require('minimist');
 const {
   generateTrackMarkdown,
-  generateTutorialMarkdown
+  generateTutorialMarkdown,
+  generateAnnouncementMarkdown
 } = require('./writers/markdownGenerator');
 const { writeMarkdown } = require('./writers/fileWriter');
 const { fetchLinkedEntry } = require('./fetch/linkedEntry');
+const { fixImageLinks } = require('./utils/fixImageLinks');
 
 async function main() {
   const args = minimist(process.argv.slice(2));
@@ -46,15 +48,28 @@ async function main() {
           subcategoryTitle
         );
 
+        const fixedContent = fixImageLinks(content);
         await writeMarkdown({
-          content,
+          content: fixedContent,
           slug,
           locale,
           folder: 'tutorials',
           subfolder: categoryTitle,
           subcategoryFolder: subcategoryTitle
         });
+      } else if (type === 'updates') {
+        const { content, slug, year } = generateAnnouncementMarkdown(entry, locale);
+        const fixedContent = fixImageLinks(content);
+
+        await writeMarkdown({
+          content: fixedContent,
+          slug,
+          locale,
+          folder: 'announcements',
+          subfolder: String(year)
+        });
       }
+
     }
   }
 }
