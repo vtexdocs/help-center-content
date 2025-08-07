@@ -514,13 +514,32 @@ function getTroubleshooting() {
   const troubleshootingIndex = tutorialsContent.findIndex(
     (category) => category.name.en === "Troubleshooting"
   );
-  const troubleshootingContent =
-    tutorialsContent[troubleshootingIndex].children;
+
+  if (troubleshootingIndex === -1) return [];
+
+  const troubleshootingCategory = tutorialsContent[troubleshootingIndex];
+  const troubleshootingSubcategories = troubleshootingCategory.children || [];
+
+  const updatedSubcategories = troubleshootingSubcategories.map(
+    (subcategory) => {
+      return {
+        ...subcategory,
+        type: "category",
+        slug:
+          subcategory.slug.en ||
+          subcategory.name.en.toLowerCase().replace(/\s+/g, "-"), // single string slug
+        children: (subcategory.children || []).map((article) => ({
+          ...article,
+          type: "markdown", // keep article type
+        })),
+      };
+    }
+  );
 
   // Remove the troubleshooting category from the tutorials categories array
   navigation.navbar[1].categories.splice(troubleshootingIndex, 1);
 
-  return troubleshootingContent;
+  return updatedSubcategories;
 }
 
 async function getEntries() {
