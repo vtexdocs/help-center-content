@@ -135,7 +135,7 @@ function getTutorialCategories() {
 }
 
 function getTrackArticles(steps) {
-  console.log('Getting track articles...');
+  console.log("Getting track articles...");
   const children = [];
   for (let i = 0; i < steps.length; i++) {
     const id = steps[i].sys.id;
@@ -145,8 +145,8 @@ function getTrackArticles(steps) {
       // Prefix article name with index + 1
       article.name = {
         en: `${i + 1}. ${article.name.en}`,
-        pt: article.name.pt ? `${i + 1}. ${article.name.pt}` : '',
-        es: article.name.es ? `${i + 1}. ${article.name.es}` : ''
+        pt: article.name.pt ? `${i + 1}. ${article.name.pt}` : "",
+        es: article.name.es ? `${i + 1}. ${article.name.es}` : "",
       };
 
       children.push(article);
@@ -422,100 +422,6 @@ function getFaq() {
   return faqCategories;
 }
 
-function getKnownIssues() {
-  console.log("Getting Known Issues...");
-  const enDir = "docs/en/known-issues";
-  const ptDir = "docs/pt/known-issues";
-  const esDir = "docs/es/known-issues";
-
-  const enCategories = fs
-    .readdirSync(enDir, { withFileTypes: true })
-    .filter((dirent) => dirent.isDirectory());
-  const knownIssues = {};
-
-  enCategories.forEach((category) => {
-    const enCategoryPath = path.join(enDir, category.name);
-    const ptCategoryPath = path.join(ptDir, category.name);
-    const esCategoryPath = path.join(esDir, category.name);
-
-    const enFiles = fs.readdirSync(enCategoryPath);
-    const ptFiles = fs.existsSync(ptCategoryPath)
-      ? fs.readdirSync(ptCategoryPath)
-      : [];
-    const esFiles = fs.existsSync(esCategoryPath)
-      ? fs.readdirSync(esCategoryPath)
-      : [];
-
-    knownIssues[category.name] = [];
-
-    enFiles.forEach((file) => {
-      const filePath = path.join(enCategoryPath, file);
-      const content = fs.readFileSync(filePath, "utf8");
-      const enSlug = file.replace(".md", "");
-      const { title } = safeExtractFrontmatter(content);
-
-      const ptFile = ptFiles.find((f) => {
-        const ptContent = fs.readFileSync(path.join(ptCategoryPath, f), "utf8");
-        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
-        return (
-          slugMatch &&
-          slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase()
-        );
-      });
-
-      const esFile = esFiles.find((f) => {
-        const esContent = fs.readFileSync(path.join(esCategoryPath, f), "utf8");
-        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
-        return (
-          slugMatch &&
-          slugMatch[1].trim().toLowerCase() === enSlug.trim().toLowerCase()
-        );
-      });
-
-      knownIssues[category.name].push({
-        name: {
-          en: title,
-          pt: ptFile
-            ? fs
-                .readFileSync(path.join(ptCategoryPath, ptFile), "utf8")
-                .match(/(?:^|\n)title:\s*["'](.*?)["']/)[1]
-            : "",
-          es: esFile
-            ? fs
-                .readFileSync(path.join(esCategoryPath, esFile), "utf8")
-                .match(/(?:^|\n)title:\s*["'](.*?)["']/)[1]
-            : "",
-        },
-        slug: {
-          en: enSlug,
-          pt: ptFile ? ptFile.replace(".md", "") : "",
-          es: esFile ? esFile.replace(".md", "") : "",
-        },
-        origin: "",
-        type: "markdown",
-        children: [],
-      });
-    });
-  });
-
-  const knownIssuesCategories = [];
-  for (const category in knownIssues) {
-    knownIssuesCategories.push({
-      name: {
-        en: category,
-        pt: category,
-        es: category,
-      },
-      slug: `known-issues/${category}`,
-      origin: "",
-      type: "category",
-      children: knownIssues[category],
-    });
-  }
-
-  return knownIssuesCategories;
-}
-
 function getTroubleshooting() {
   const tutorialsContent = navigation.navbar[1].categories;
   const troubleshootingIndex = tutorialsContent.findIndex(
@@ -570,13 +476,15 @@ async function getEntries() {
 
         // Skip files that are not published (or changed)
         if (
-          !(
-            file.sys.publishedVersion &&
-            (file.sys.version == file.sys.publishedVersion + 1 ||
-              file.sys.version == file.sys.publishedVersion + 2)
-          )
+          !file.sys.publishedVersion ||
+          file.sys.archivedAt ||
+          !file.sys.publishedAt
         ) {
-          // This file is not published yet, skip it
+          console.warn(
+            `❌ Skipping unpublished entry: ${
+              file.fields?.title?.en || file.sys.id
+            }`
+          );
           continue;
         }
 
@@ -678,8 +586,6 @@ async function getEntries() {
     navigation.navbar[2].categories = getNews();
 
     navigation.navbar[3].categories = getFaq();
-
-    navigation.navbar[4].categories = getKnownIssues();
 
     navigation.navbar[5].categories = getTroubleshooting();
 
