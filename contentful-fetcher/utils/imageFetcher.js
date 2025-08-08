@@ -53,9 +53,9 @@ const checkAndCompressImage = async (filePath) => {
   }
 };
 
-const updateImages = async (filepath) => {
+const imageFetcher = async (filepath) => {
   if (!filepath) {
-    console.error('Received undefined filePath in updateImages');
+    console.error('Received undefined filePath in imageFetcher');
     return;
   }
 
@@ -122,7 +122,7 @@ const updateImages = async (filepath) => {
 
 if (require.main === module) {
   const filepath = process.argv[2]; // run with this command: node docs-utils/update-images.js "{fullFilePath}"
-  updateImages(filepath);
+  imageFetcher(filepath);
 }
 
-module.exports = { updateImages };
+module.exports = { imageFetcher };
