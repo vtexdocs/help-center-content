@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: my-orders-in-mercado-libre-have-errors
-locale: en
 legacySlug: my-orders-in-mercado-libre-have-errors
+locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 

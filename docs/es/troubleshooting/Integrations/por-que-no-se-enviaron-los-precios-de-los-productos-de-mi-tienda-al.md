@@ -10,13 +10,16 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
-locale: es
 legacySlug: no-se-enviaron-los-precios-de-los-productos-al-marketplace
+locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Marketplace, Integración, Precios
+tags:
+  - Marketplace
+  - Integración
+  - Precios
 ---
 
-El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.  
+El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.  
 
 ## Solución
 
@@ -24,7 +27,7 @@ Para resolver el problema, primero hay que identificar cuál de los procesos pre
 
 ### Configuración del módulo Precios
 
-La [configuración del módulo Precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) es donde el seller crea, edita y almacena los datos de precios de los SKUs vendidos en su tienda.  
+La [configuración del módulo Precio](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) es donde el seller crea, edita y almacena los datos de precios de los SKUs vendidos en su tienda.  
 
 Los mensajes de error de integración están disponibles en el menú Precio del Admin. Para acceder, ve a **Marketplace > Conexiones > Precio.**  
 
@@ -32,8 +35,8 @@ Consulta en la tabla siguiente los posibles mensajes de error relativos a la con
 
 |**Mensaje de error**|**Significado**|**Acción requerida**|
 |:--:|:--:|:--:|
-|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
-|Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
+|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
+|Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
 
 ### Catalogación de productos
 
@@ -48,4 +51,5 @@ Si los productos ya están catalogados, es necesario volver a procesar el envío
 3. Haz clic en el botón `Acciones`.  
 4. Haz clic en **Reprocesar**.  
 
-Repite el proceso para cada producto con el status **Procesado con error**. Si el error persiste, ponte en contacto con el equipo de [soporte VTEX](/es/support).
+Repite el proceso para cada producto con el status **Procesado con error**. Si el error persiste, ponte en contacto con el equipo de [soporte VTEX](https://help.vtex.com/es/support).
+

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 4JJllZ4I71DHhIOaLOE3nz
 slugEN: my-order-was-closed-with-the-wrong-price
-locale: en
 legacySlug: my-order-was-closed-with-the-wrong-price
+locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 ---
 
