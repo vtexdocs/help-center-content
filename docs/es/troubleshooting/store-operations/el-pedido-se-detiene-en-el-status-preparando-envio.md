@@ -25,9 +25,7 @@ tags:
 
 El status `Preparando envío` se produce en el [flujo de pedidos](https://help.vtex.com/es/tutorial/order-flow-on-the-oms--tutorials_196#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.
 
-<div class = "alert alert-info">
-  No se puede <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que ya han sido <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">facturados parcialmente</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190">modificar el pedido</a>.
-</div>
+> ℹ️ No se puede [cancelar pedidos](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) que ya han sido [facturados parcialmente](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190).
 
 La permanencia de un pedido en el status `Preparando envío` por un periodo superior al previsto puede deberse a la falta de registro de las facturas en VTEX.
 
@@ -43,9 +41,7 @@ Después de esta confirmación, sigue los pasos a continuación para verificar s
 2. Accede al pedido deseado.
 3. En la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), comprueba que el status se haya actualizado a `Facturado`.
 
-<div class = "alert alert-warning">
-  Si el pedido aún permanece con el status <code>Preparando envío</code>, comprueba que no haya ninguna inconsistencia en la comunicación con el marketplace. Para saber más, consulta <a href="https://help.vtex.com/es/faq/el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega--4szpXviNMAkwOe2cCiMiMe">El pedido fue facturado en el ERP pero continúa con el status "Preparando Envío". ¿Qué hacer?</a>.
-</div>
+> ⚠️ Si el pedido aún permanece con el status `Preparando envío`, comprueba que no haya ninguna inconsistencia en la comunicación con el marketplace. Para saber más, consulta [El pedido fue facturado en el ERP pero continúa con el status "Preparando Envío". ¿Qué hacer?](https://help.vtex.com/es/faq/el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega--4szpXviNMAkwOe2cCiMiMe).
 
 ### Registro manual de facturas (opcional)
 
@@ -58,6 +54,4 @@ Para garantir que o pedido seja faturado corretamente, é necessário observar o
 - Cuando sea necesario emitir más de una factura para un pedido, la suma del valor total de las facturas registradas debe ser igual al valor total del pedido.
 - El valor total del pedido se actualizará en caso de que se [modifiquen o remuevan ítems](https://help.vtex.com/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-warning">
-  Si el pedido todavía continúa con el status <code>Faturado</code> después del registro manual de las facturas, solicita más información abriendo un ticket con el <a href="https://help.vtex.com/es/support">Soporte VTEX</a>.
-</div>
+> ⚠️ Si el pedido todavía continúa con el status `Faturado` después del registro manual de las facturas, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).

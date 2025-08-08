@@ -36,9 +36,7 @@ The delivery date for each package will be adjusted based on the `shippingEstima
 
 To avoid splitting packages in orders that include pre-sale products, you can configure [shipping groups](https://help.vtex.com/en/tutorial/como-funciona-a-remessa). This allows you to group all packages to be delivered by the same carrier and from the same [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) into a single shipment.
 
-<div class="alert alert-danger">
-By configuring shipping groups, this behavior will be applied to all orders with different delivery dates, not just those containing pre-sale products.
-</div>
+> ❗ By configuring shipping groups, this behavior will be applied to all orders with different delivery dates, not just those containing pre-sale products.
 
 ### Configuring shipping groups
 

@@ -30,9 +30,7 @@ Whenever there is a change in product status or information, a reindexing flow i
 - Creation or removal of a collection
 - Changes in price or stock quantity
 
-<div class ="alert alert-info">
-  For more details about indexing a product in <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">legacy</a> stores, see <a href="https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256">How indexing works (Legacy CMS Portal)</a>. If your store uses <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, see <a href="https://help.vtex.com/en/tutorial/indexing-history--55SRQ79PXk5lTURF54DRyJ">Indexing History (Intelligent Search)</a>.
-</div>
+> ℹ️ For more details about indexing a product in [legacy](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, see [How indexing works (Legacy CMS Portal)](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256). If your store uses [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), see [Indexing History (Intelligent Search)](https://help.vtex.com/en/tutorial/indexing-history--55SRQ79PXk5lTURF54DRyJ).
 
 In some cases, the indexing process may be interrupted, resulting in the latest updated product information not being displayed on the store's website. Here are a few scenarios where such interruption can occur:
 
@@ -64,17 +62,15 @@ To fix any issues preventing correct product indexing in the store, consider doi
 
 Errors in product fields can lead to inconsistencies when indexing a product.
 
-<blockquote><ui>1. In the Admin VTEX, go to <b>Catalog > All Products</b>.</ui>
+<blockquote><ui>1. In the Admin VTEX, go to **Catalog > All Products**.</ui>
 
-<blockquote><div class ="alert alert-warning">
-  Stores using the <b>Products and SKUs (Beta)</b> page should check the product fields by going to <b>Catalog > Products and SKUs</b> in the VTEX Admin. Learn more about <a href="https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos and SKUS (Beta)</a>.
-</div></blockquote>
+<blockquote>> ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 
-<blockquote><ui>2. Find the product you want and click <b>UPDATE</b>.</ui>
+<blockquote><ui>2. Find the product you want and click **UPDATE**.</ui>
 
-<blockquote><ui>3. Check if the information in all the <a href="https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke">product fields</a> is correct. If necessary, update it and click Save.</ui>
+<blockquote><ui>3. Check if the information in all the [product fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) is correct. If necessary, update it and click Save.</ui>
 
-<blockquote><ui>4. Access the indexing report in <b>Catalog > Reports</b> and check whether the product is in the indexing queue or has been indexed.</ui>
+<blockquote><ui>4. Access the indexing report in **Catalog > Reports** and check whether the product is in the indexing queue or has been indexed.</ui>
 
 ### Checking the account binding information
 
@@ -90,8 +86,7 @@ Example: A product with 5 active SKUs across 5 different trade policies may requ
 
 To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](https://help.vtex.com/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404).  
 
-<div class ="alert alert-warning">
-  If you can reduce the number of trade policies in your store, access the product fields again to change the trade policy and check the indexing report, as described in <b>Checking product fields</b>.</div>
+> ⚠️ If you can reduce the number of trade policies in your store, access the product fields again to change the trade policy and check the indexing report, as described in **Checking product fields**.
 
 ### Changing the number of SKUs per product
 
@@ -103,8 +98,7 @@ After adjusting the number of SKUs per product, check the indexing report, as de
 
 ### Remove SKUs from collections 
 
-<div class ="alert alert-info">
-  There are two ways to remove a SKU from a collection: via the <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a> or using the <b>Collections (Beta)</b> module. This section shows how to remove a SKU from a collection in the <b>Legacy CMS Portal</b>. For more information about the process in the <b>Collections (Beta)</b> module, see <a href="https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#product-removal">Product removal</a>.</div>  
+> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#product-removal).  
 
 If any of the product's SKUs are included in a [collection](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:  
 

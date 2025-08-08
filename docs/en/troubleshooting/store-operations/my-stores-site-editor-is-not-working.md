@@ -25,7 +25,7 @@ Below are some instructions to help you solve these issues in Site Editor.
 
 | **Issue** | **Description** | **How to fix it** |
 | ------------ | ------------- | ----------------------------------------- |
-| [Site Editor won't open](#the-site-editor-won't-open) | The Site Editor page displays a blank screen or the message <code>Something went wrong</code>. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
+| [Site Editor won't open](#the-site-editor-won't-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
 | I can't manage my store's content in Site Editor (#I-can't-manage-my-store's-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domain-main-location). |
 | [I lost the content stored in Site Editor](#i-lost-the-content-stored-in-site-editor) | The content saved in Site Editor has been lost. | [Open a ticket with VTEX Support](#i-lost-the-content-stored-in-site-editor). |
 | [I'm still having problems with Site Editor](#i'm-still-having-problems-with-site-editor) | Issues with the Site Editor persist even after trying to resolve them. | [Open a ticket with VTEX Support](#i'm-still-experiencing-issues-with-site-editor). |
@@ -130,9 +130,7 @@ Open a ticket with the [VTEX Support](https://help.vtex.com/en/support) team to 
 
 To avoid losing content stored in Site Editor when changing the pair dependencies of the Store Theme app, follow the steps in the guide [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-<div class="alert alert-warning">
-  <p> In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of <a href="https://help.vtex.com/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD">Intermittent Site Editor content loss</a>. In this situation, open a ticket with the <a href="https://help.vtex.com/pt/support">VTEX Support</a> with <code>urgent</code> priority. </p>
-</div>
+> ⚠️  In cases where you lose content in Site Editor, the content can only be restored if the loss is related to the known issue of [Intermittent Site Editor content loss](https://help.vtex.com/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). In this situation, open a ticket with the [VTEX Support](https://help.vtex.com/pt/support) with `urgent` priority. 
 
 ## I'm still experiencing issues with Site Editor
 

@@ -33,25 +33,21 @@ Below are some solutions that can help ensure the promotion is displayed to the 
 
 To identify whether a customer cluster is associated with a promotion, follow the steps below:
 
-<blockquote><ui>1. In the VTEX Admin, go to <b>Promotions > Promotions</b>, or type <b>Promotions</b> in the search bar at the top of the page.</ui>
+<blockquote><ui>1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.</ui>
 
 <blockquote><ui>2. Click the promotion you want to check.</ui>
 
-<blockquote><ui>3. In the section <b>“What are the conditions for the promotion to be valid?”</b>, check if the option <b>Customer cluster</b> is selected and that the field is completed with the correct <a href="https://help.vtex.com/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field">value of the respective cluster</a>.</ui>
+<blockquote><ui>3. In the section **“What are the conditions for the promotion to be valid?”**, check if the option **Customer cluster** is selected and that the field is completed with the correct [value of the respective cluster](https://help.vtex.com/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).</ui>
 
 ![Cluster_en](//images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/9f5fccae1677bdf9acf69958b3835454/cluster_en.png)  
 
-<blockquote><ui><div class="alert alert-warning">
-  The value entered in this field must be exactly the same as the value previously assigned to the customer cluster, as the system interprets differences between upper and lower case letters (case sensitive). For example, if the value entered for a given cluster identifier is <code>employee=true</code> and in the promotion it's <code>Employee=true</code> or <code>Employee=True</code>, the promotion won't be visible to users in that cluster.
-</div></blockquote>
+<blockquote><ui>> ⚠️ The value entered in this field must be exactly the same as the value previously assigned to the customer cluster, as the system interprets differences between upper and lower case letters (case sensitive). For example, if the value entered for a given cluster identifier is `employee=true` and in the promotion it's `Employee=true` or `Employee=True`, the promotion won't be visible to users in that cluster.</blockquote>
 
 <blockquote><ui>4. If necessary, add or change the value for the desired cluster.</ui>
 
-<blockquote><ui>5. Click <code>Save</code>.</ui>
+<blockquote><ui>5. Click `Save`.</ui>
 
-<blockquote><ui><div class="alert alert-info">
-  To ensure that the same promotion is applied simultaneously to customer clusters with different values, select the condition <b>At least one of the following</b> and configure all the cluster values in the promotion.
-</div></blockquote>
+<blockquote><ui>> ℹ️ To ensure that the same promotion is applied simultaneously to customer clusters with different values, select the condition **At least one of the following** and configure all the cluster values in the promotion.</blockquote>
 
 ### Check the value assigned to the customer profile
 

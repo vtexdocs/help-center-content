@@ -33,25 +33,21 @@ Confira a seguir algumas soluções que podem ajudar a garantir a exibição da 
 
 Para identificar se um cluster de clientes está associado a uma promoção, siga os passos abaixo:
 
-<blockquote><ui>1. No Admin VTEX, acesse <b>Promoções > Promoções</b>, ou digite <b>Promoções</b> na barra de busca no topo da página.</ui>
+<blockquote><ui>1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.</ui>
 
 <blockquote><ui>2. Clique na promoção que deseja verificar.</ui>
 
-<blockquote><ui>3. Na seção <b>“Quais as condições para a promoção ser válida?”</b>, verifique se a opção <b>Cluster de clientes</b> está marcada e se o campo está preenchido com o <a href="https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes">valor correto do respectivo cluster</a>.</ui>
+<blockquote><ui>3. Na seção **“Quais as condições para a promoção ser válida?”**, verifique se a opção **Cluster de clientes** está marcada e se o campo está preenchido com o [valor correto do respectivo cluster](https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes).</ui>
 
 ![Cluster_pt](//images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/5641c6a38177859dc44f85cfb656a996/cluster_pt.png) 
 
-<blockquote><ui><div class="alert alert-warning">
-  O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é <code>funcionario=true</code> e na promoção for cadastrado <code>Funcionario=true</code> ou <code>funcionario=True</code>, a promoção não será exibida para os usuários daquele cluster.
-</div></blockquote>
+<blockquote><ui>> ⚠️ O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é `funcionario=true` e na promoção for cadastrado `Funcionario=true` ou `funcionario=True`, a promoção não será exibida para os usuários daquele cluster.</blockquote>
 
 <blockquote><ui>4. Caso necessário, adicione ou modifique o valor referente ao cluster desejado.</ui>
 
-<blockquote><ui>5. Clique em <code>Salvar</code>.</ui>
+<blockquote><ui>5. Clique em `Salvar`.</ui>
 
-<blockquote><ui><div class="alert alert-info">
-  Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição <b>Pelo menos um dos seguintes</b> e configurar todos os valores dos clusters na promoção.
-</div></blockquote>
+<blockquote><ui>> ℹ️ Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição **Pelo menos um dos seguintes** e configurar todos os valores dos clusters na promoção.</blockquote>
 
 ### Verificar valor atribuído no perfil do cliente
 

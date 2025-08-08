@@ -40,9 +40,7 @@ Siga os passos abaixo para solucionar o problema:
    * Se houver uma combinação do perfil **Call center operator** ou **OMS- Full access** com o perfil **Owner (Admin Super)**, é possível que ocorra um conflito no acesso a algumas páginas.
 4. Remova perfis de acesso conflitantes e conceda somente os perfis necessários para as operações que o usuário realiza na loja, seguindo as instruções para [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios).
 
-<div class="alert alert-warning">
-  <p>Somente o <strong>Owner (Admin Super)</strong> da conta ou um usuário com o perfil <strong>User Administrator - RESTRICTED</strong> possuem as permissões necessárias para realizar esta etapa.</p>
-</div>
+> ⚠️ Somente o **Owner (Admin Super)** da conta ou um usuário com o perfil **User Administrator - RESTRICTED** possuem as permissões necessárias para realizar esta etapa.
 
 ### Revise as configurações do navegador
 

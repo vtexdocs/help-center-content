@@ -45,7 +45,7 @@ Para validar se a política comercial está configurada corretamente no cadastro
  5. Clique no botão `Salvar`.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Se sua loja está operando com o <a href="https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">Novo Admin VTEX</a>, consulte o artigo <a href="https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos e SKUs</a> para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
+Se sua loja está operando com o [Novo Admin VTEX](https://help.vtex.com/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa), consulte o artigo [Produtos e SKUs](https://help.vtex.com/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By) para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
 </div>
 
 ### Verificando o estoque limite
@@ -61,5 +61,5 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
  4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o <a href="https://help.vtex.com/support?/cultureInfo=pt-br">suporte VTEX</a>.
+Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://help.vtex.com/support?/cultureInfo=pt-br).
 </div>

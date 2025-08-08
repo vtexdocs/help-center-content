@@ -40,9 +40,7 @@ Follow the steps below to solve the issue:
    * If the roles **Call center operator** or **OMS - Full access** are combined with the role **Owner (Admin Super)**, there may be a conflict when accessing some pages.
 4. Remove conflicting roles and assign only the roles required for the user's operations, following the instructions for [Managing users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users).
 
-<div class="alert alert-warning">
-  <p>Only the <strong>Owner (Admin Super)</strong> of the account or a user with the role <strong>User Administrator - RESTRICTED</strong> has the required permissions to perform this step.</p>
-</div>
+> ⚠️ Only the **Owner (Admin Super)** of the account or a user with the role **User Administrator - RESTRICTED** has the required permissions to perform this step.
 
 ### Reviewing your browser settings
 

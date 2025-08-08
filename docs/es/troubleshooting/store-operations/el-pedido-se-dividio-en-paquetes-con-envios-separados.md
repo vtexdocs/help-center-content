@@ -36,9 +36,7 @@ La fecha de entrega de cada paquete se modifica en función del valor de `shippi
 
 Para evitar que se dividan los paquetes de pedidos que incluyen productos de preventa, puedes configurar [grupos de envío](https://help.vtex.com/es/tutorial/como-funciona-a-remessa). De este modo, puedes agrupar en un solo conjunto todos los paquetes que serán entregados por la misma transportadora y provenientes del mismo [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
 
-<div class="alert alert-danger">
-Configurar los grupos de envío aplicará este comportamiento a todos los pedidos con fechas de entrega diferentes y no solo a los que tengan productos de preventa.
-</div>
+> ❗ Configurar los grupos de envío aplicará este comportamiento a todos los pedidos con fechas de entrega diferentes y no solo a los que tengan productos de preventa.
 
 ### Configurar grupos de envío
 

@@ -30,22 +30,22 @@ Fixing the Schema is invalid alert in B2B apps involves adjusting the configurat
 To fix the Schema is invalid alert, follow the steps below to ensure the correct configuration:
 
 <ol>
-  <li>In the VTEX Admin, go to <strong>Store Settings > Storefront > Master Data</strong>, or type <strong>Master Data</strong> in the search bar at the top of the page.</li>
+  <li>In the VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.</li>
   <li>Log in.</li>
-  <li>Click <strong>Advanced Settings</strong>.</li>
-  <li>Click <strong>Data structure</strong>.</li>
-  <li>Click <strong>Data Entities</strong>.</li>
-  <li>Click <strong>Edit</strong> in the <strong>CL</strong> row.</li>
-  <li>Review all the fields in the list to identify the one where the option is <strong>nullable</strong> and unchecked, and then check it.</li>
+  <li>Click **Advanced Settings**.</li>
+  <li>Click **Data structure**.</li>
+  <li>Click **Data Entities**.</li>
+  <li>Click **Edit** in the **CL** row.</li>
+  <li>Review all the fields in the list to identify the one where the option is **nullable** and unchecked, and then check it.</li>
 </ol>
 
 <div>
-  <p>Only the email field should remain with the <strong>"Is nullable"</strong> option unchecked.</p>
+  Only the email field should remain with the **"Is nullable"** option unchecked.
 </div>
 
 <ol start="8">
-  <li>Click <strong>Save</strong>.</li>
-  <li>In the list of <strong>Data Entities</strong>, click <strong>Publish</strong>.</li>
+  <li>Click **Save**.</li>
+  <li>In the list of **Data Entities**, click **Publish**.</li>
 </ol>
 
 The image below shows the necessary steps to fix the configuration of the required fields in Master Data, solving the `Schema is invalid` alert.

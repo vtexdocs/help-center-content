@@ -39,19 +39,17 @@ A [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-c
 Para garantir que uma promoção seja aplicada corretamente em um marketplace, é necessário selecionar o afiliado desejado. O afiliado é o parceiro associado ao marketplace que disponibiliza os produtos promocionais. A seguir, estão os passos para selecionar corretamente um afiliado na configuração de uma promoção.
 
 <ol>
-  <li>Crie uma <a href="https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#">promoção regular</a>.</li>
-  <li>Preencha o campo <strong>Afiliados</strong> com o nome do afiliado relacionado ao marketplace desejado.</li>
+  <li>Crie uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).</li>
+  <li>Preencha o campo **Afiliados** com o nome do afiliado relacionado ao marketplace desejado.</li>
 </ol>
 
   ![condições para promoção - PT](//images.ctfassets.net/alneenqid6w5/44j7gMDkkJVNZ0uhrDKpAr/323cce71c85fc6d5be055b6cd11548fb/condi__es_para_promo__o_-_PT.png)
 
 <ol start="3">
-  <li>Na seção <strong>Política Comercial</strong>, selecione as opções <code>Iguais</code> a e <strong>Entregue por mim (Outras lojas)</strong>.</li>
-  <li>Clique em <code>Salvar</code>.</li>
+  <li>Na seção **Política Comercial**, selecione as opções `Iguais` a e **Entregue por mim (Outras lojas)**.</li>
+  <li>Clique em `Salvar`.</li>
 </ol>
 
-<div class = "alert alert-info">
-Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
-</div>
+> ℹ️ Verifique se não foi criado nenhum filtro adicional de promoção, como forma de pagamento, filtros de cluster ou limitações no carrinho.
 
 Para mais informações, acesse [Configurar promoção para marketplace](https://help.vtex.com/pt/tutorial/configurando-promocao-para-marketplace/).

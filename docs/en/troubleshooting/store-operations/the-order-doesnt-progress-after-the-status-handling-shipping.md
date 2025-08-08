@@ -25,9 +25,7 @@ tags:
 
 The status `Handling shipping` occurs in the [order flow](https://help.vtex.com/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
 
-<div class = "alert alert-info">
-  You can't <a href="https://help.vtex.com/en/tutorial/canceling-orders--tutorials_186">cancel orders</a> that have already been <a href="https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partially invoiced</a>. If the customer wants to replace or remove items, they can <a href="https://help.vtex.com/en/tutorial/changing-items-from-a-complete-order--tutorials_190">change the order</a>.
-</div>
+> ℹ️ You can't [cancel orders](https://help.vtex.com/en/tutorial/canceling-orders--tutorials_186) that have already been [partially invoiced](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). If the customer wants to replace or remove items, they can [change the order](https://help.vtex.com/en/tutorial/changing-items-from-a-complete-order--tutorials_190).
 
 An order remaining in the status `Handling shipping` longer than expected may be due to the invoices not being registered on VTEX.
 
@@ -43,9 +41,7 @@ After this confirmation, follow the steps below to check if the status has chang
 2. Go to the desired order.
 3. On the [order details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl), check if the order status changed to `Invoiced`.
 
-<div class = "alert alert-warning">
-  If the order still has the status `Handling shipping`, check if there's any inconsistency in the communication with the marketplace. Learn more in <a href="https://help.vtex.com/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status--4szpXviNMAkwOe2cCiMiMe">The order was billed in the ERP but remains in the "Handling shipping" status. What to do?</a>.
-</div>
+> ⚠️ If the order still has the status `Handling shipping`, check if there's any inconsistency in the communication with the marketplace. Learn more in [The order was billed in the ERP but remains in the "Handling shipping" status. What to do?](https://help.vtex.com/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status--4szpXviNMAkwOe2cCiMiMe).
 
 ### Adding invoices manually (optional)
 
@@ -58,6 +54,4 @@ To ensure that the order is invoiced correctly, the following requirements must 
 - When you need to issue more than one invoice for an order, their combined total must equal the order's total amount.
 - The total order amount will be updated if [items are changed or removed](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-warning">
-  If the order remains in the <code>Invoiced</code> status after manually adding invoices, open a ticket with <a href="https://help.vtex.com/en/support">Suporte VTEX</a> for further assistance.
-</div>
+> ⚠️ If the order remains in the `Invoiced` status after manually adding invoices, open a ticket with [Suporte VTEX](https://help.vtex.com/en/support) for further assistance.

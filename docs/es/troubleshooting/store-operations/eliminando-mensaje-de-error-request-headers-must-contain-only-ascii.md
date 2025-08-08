@@ -39,21 +39,21 @@ Para remover el mensaje de error y permitir que el usuario vuelva a acceder a la
 
 En la página en la que se muestra el mensaje "__Request headers must contain only ASCII characters__", sigue los pasos a continuación para identificar la cookie que contiene caracteres especiales:
 
-<blockquote><ui>1. Accede al <a href="https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">DevTools</a> en tu navegador pulsando <b>F12</b> o haciendo clic con el botón derecho del mouse y eligiendo la opción <b>Inspect</b>.</ui>
+<blockquote><ui>1. Accede al [DevTools](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.</ui>
 
-  <blockquote><ui>2. En la barra superior de la pantalla, accede a la pestaña <b>Network</b> y ordena los requests haciendo clic en <b>Status</b>. La información <b>400</b> en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.</ui>  
+  <blockquote><ui>2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.</ui>  
 
 ![ascii 2ascii_2](//images.ctfassets.net/alneenqid6w5/KAwQG2JiXozFU5Pjgjv3Z/b3e881fcbf68abf42df7b6f45d8cf103/ascii_2.png) 
 
-<blockquote><ui>3. Haz clic en un request y después en la pestaña <b>Preview</b> para identificar si el error encontrado se refiere al mensaje "<b>Request headers must contain only ASCII characters</b>".</ui>
+<blockquote><ui>3. Haz clic en un request y después en la pestaña **Preview** para identificar si el error encontrado se refiere al mensaje "**Request headers must contain only ASCII characters**".</ui>
 
 ![ascii 3](//images.ctfassets.net/alneenqid6w5/16XPfE6SIwVO8SkTxl9yuR/06de7bb790b762dbd6b720e45a09e0ab/ascii_3.png)
 
-<blockquote><ui>4. Haz clic en la pestaña <b>Headers</b> y copia los datos de la cookie.</ui>  
+<blockquote><ui>4. Haz clic en la pestaña **Headers** y copia los datos de la cookie.</ui>  
 
 ![ascii 4](//images.ctfassets.net/alneenqid6w5/1CwUNkSO895RfPCTTaO29l/5b2bfeb184598aa2c32af65f14e4a058/ascii_4.png)
 
-<blockquote><ui>5. Accede a un <a href="https://pages.cs.wisc.edu/~markm/ascii.html">validador online de caracteres ASCII</a> e ingresa la información de la cookie. Si se identifican uno o varios caracteres especiales, los tipos y posiciones se mostrarán en la parte inferior del validador de caracteres.</ui>     
+<blockquote><ui>5. Accede a un [validador online de caracteres ASCII](https://pages.cs.wisc.edu/~markm/ascii.html) e ingresa la información de la cookie. Si se identifican uno o varios caracteres especiales, los tipos y posiciones se mostrarán en la parte inferior del validador de caracteres.</ui>     
 
 ![ascii 5](//images.ctfassets.net/alneenqid6w5/2xwztAmvtrxpJQeusgwlpH/86447a853ffa7bd68e097831acdbf1e5/ascii_5.png)
 
@@ -87,7 +87,5 @@ Si lo deseas, también puedes incluir las siguientes funciones en el script:
 - Hacer que las cookies que contengan caracteres especiales expiren automáticamente
 - Activar la recarga de la página mediante la función `window.location.reload()`  
 
-<div class="alert alert-warning">
-  Remover las cookies mediante script no es una solución definitiva. Como se describe en la sección <b>Desactivar cookies con caracteres especiales</b>, es necesario identificar su origen e interrumpir el proceso de envío de cookies con caracteres especiales.
-</div>
+> ⚠️ Remover las cookies mediante script no es una solución definitiva. Como se describe en la sección **Desactivar cookies con caracteres especiales**, es necesario identificar su origen e interrumpir el proceso de envío de cookies con caracteres especiales.
 

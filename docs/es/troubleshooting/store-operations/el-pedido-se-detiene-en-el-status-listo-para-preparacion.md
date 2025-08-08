@@ -34,20 +34,14 @@ La primera acción necesaria es ponerse en contacto con el responsable de tu [in
 2. Accede al pedido deseado.
 3. En la [página de detalhes do pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), comprueba que el status del pedido se haya actualizado a `Preparando envío`.
 
-<div class = "alert alert-warning">
-  Si el pedido todavía continúa en el status <code>Listo para preparación</code>, solicita más información abriendo un ticket con el <a href="https://help.vtex.com/es/support">Soporte VTEX</a>.
-</div>
+> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación`, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
 
 ### Actualización manual del status del pedido (opcional)
 
 Puedes [actualizar manualmente](https://help.vtex.com/es/tutorial/enviar-pedido-al-status-a-preparar-la-entrega--tutorials_198#por-el-admin-vtex) el status del pedido a `Preparando envío` vía Admin VTEX, si lo deseas. Sin embargo, para realizar este tipo de acción, es necesario tener un [rol con permiso OMS - Full access](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#roles). 
 
-<div class = "alert alert-danger">
-  Al actualizar manualmente el status y confirmar el inicio de la preparación, el seller asume la responsabilidad por la <a href="https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92">reserva de los ítens</a>, garantizando que haya suficiente stock y que se registre la baja de los ítems vendidos. Los pedidos actualizados de forma manual no pueden integrarse posteriormente en el sistema del ERP.
-</div>
+> ❗ Al actualizar manualmente el status y confirmar el inicio de la preparación, el seller asume la responsabilidad por la [reserva de los ítens](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92), garantizando que haya suficiente stock y que se registre la baja de los ítems vendidos. Los pedidos actualizados de forma manual no pueden integrarse posteriormente en el sistema del ERP.
 
-<div class = "alert alert-warning">
- Si el pedido todavía continúa en el status <code>Listo para preparación</code> después del intento de actualización manual, solicita más información abriendo un ticket con el <a href="https://help.vtex.com/en/support">Soporte VTEX</a>.
-</div>
+> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación` después del intento de actualización manual, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/en/support).
 
 Además del escenario de error relacionado con el sistema ERP, pueden darse situaciones en las que se muestren dos status diferentes para el mismo pedido, uno en la lista de la página __Todos los pedidos__ y otro en la respectiva [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl). Para más información sobre este escenario, accede al problema conocido [El status en la lista de pedidos es diferente al status del pedido actual](https://help.vtex.com/es/known-issues/el-estado-en-la-lista-de-pedidos-es-diferente-del-estado-actual-del-pedido--2UBFdtXWtCIygv0SiObCTN).
