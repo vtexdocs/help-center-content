@@ -39,19 +39,17 @@ To solve the problem of promotions not being applied to marketplaces, review the
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
 
 <ol>
-  <li>Create a <a href="https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI">regular promotion</a>.</li>
-  <li>Complete the <strong>Affiliates</strong> field with the name of the affiliate associated with the desired marketplace.</li>
+  <li>Create a [regular promotion](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).</li>
+  <li>Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.</li>
 </ol>
 
 ![condições para promoção - EN](//images.ctfassets.net/alneenqid6w5/44j7gMDkkJVNZ0uhrDKpAr/340f8e92945f3b7682ec80b0b33df514/condi__es_para_promo__o_-_EN.png)
 
 <ol start="3">
-  <li>In the <strong>Trade policy</strong> section, select the <code>Equal to</code> and <strong>Delivered by me (other stores)</strong> options.</li>
-  <li>Click <code>Save</code>.</li>
+  <li>In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.</li>
+  <li>Click `Save`.</li>
 </ol>
 
-<div class = "alert alert-info">
-Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
-</div>
+> ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
 
 Learn more in [Configuring promotions for marketplaces](https://help.vtex.com/en/tutorial/configurando-promocao-para-marketplace/).

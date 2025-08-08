@@ -25,7 +25,7 @@ Las instrucciones a continuación te ayudarán a resolver estos problemas en Sit
 
 | **Problema** | **Descripción** | **Instrucciones para resolver el problema** |
 | ------------ | ------------- | ----------------------------------------- |
-| [Site Editor no abre](#site-editor-no-abre) | La página Site Editor muestra una pantalla en blanco o el mensaje <code>Se produjo un error</code>. | - [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-busqueda).<br> - [Comprueba la configuración del inquilino (solo cuentas nuevas)](#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas). |
+| [Site Editor no abre](#site-editor-no-abre) | La página Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`. | - [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-busqueda).<br> - [Comprueba la configuración del inquilino (solo cuentas nuevas)](#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas). |
 | No puedo gestionar el contenido de mi tienda en Site Editor] (#no-puedo-gestionar-el-contenido-de-mi-tienda-en-site-editor) | No se puede editar, guardar o borrar contenido en Site Editor. | - [Comprueba si el rol de usuario tiene los permisos necesarios](#comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).<br> - [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio). |
 | Perdí el contenido almacenado en Site Editor](#perdi-el-contenido-almacenado-en-site-editor) | Se perdió el contenido guardado en Site Editor. | [Abre un ticket con el soporte VTEX](#perdi-el-contenido-almacenado-en-site-editor). |
 | [Continúo teniendo problemas con Site Editor](#continuo-teniendo-problemas-con-site-editor) | Tras intentar resolver los problemas en Site Editor, persisten. | [Abre un ticket con el soporte VTEX](#continuo-experimentando-problemas-con-site-editor). |
@@ -130,9 +130,7 @@ Abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) para inve
 
 Para evitar perder el contenido almacenado en Site Editor al cambiar las dependencias de pares de la aplicación Store Theme, sigue los pasos de la guía [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
 
-<div class="alert alert-warning">
-  <p> En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema <a href="https://help.vtex.com/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD">pérdida intermitente de contenido en Site Editor</a>. Ante esta situación, abre un ticket con el <a href="https://help.vtex.com/pt/support">Soporte VTEX</a> con prioridad <code>urgente</code>. </p>
-</div>
+> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](https://help.vtex.com/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](https://help.vtex.com/pt/support) con prioridad `urgente`. 
 
 ## Continúo experimentando problemas con Site Editor 
 

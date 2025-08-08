@@ -40,9 +40,7 @@ Sigue los pasos a continuación para solucionar el problema:
    * Si hay una combinación del rol **Call center operator** o **OMS- Full access** con el rol **Owner (Admin Super)**, puede haber un conflicto en el acceso a algunas páginas.
 4. Remueve los roles conflictivos y concede únicamente los necesarios para las operaciones que el usuario realiza en la tienda, siguiendo las instrucciones para [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editar-usuarios).
 
-<div class="alert alert-warning">
-  <p>Solamente el <strong>Owner (Admin Super)</strong> de la cuenta o usuarios con el rol <strong>User Administrator - RESTRICTED</strong> tienen los permisos necesarios para realizar esta etapa.</p>
-</div>
+> ⚠️ Solamente el **Owner (Admin Super)** de la cuenta o usuarios con el rol **User Administrator - RESTRICTED** tienen los permisos necesarios para realizar esta etapa.
 
 ### Revisar configuración del navegador
 

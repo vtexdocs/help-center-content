@@ -44,7 +44,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
  5. Haz clic en el botón `Guardar`.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si tu tienda utiliza el <a href="https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">nuevo Admin VTEX</a>, consulta el artículo <a href="https://help.vtex.com/es/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By">Productos y SKUs</a> para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
+Si tu tienda utiliza el [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa), consulta el artículo [Productos y SKUs](https://help.vtex.com/es/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By) para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
 </div>
 
 ### Verificar stock mínimo
@@ -60,5 +60,5 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](https://help.vtex.com/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si las soluciones propuestas no resuelven el problema, abre un ticket con el <a href="https://help.vtex.com/es/support">soporte VTEX</a>.
+Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support).
 </div>

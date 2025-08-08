@@ -63,4 +63,4 @@ Além disso, o cliente pode solicitar o cancelamento do pedido para a loja enqua
 
 Todas as alterações no pedido podem ser visualizadas na [Página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 
-<div class="alert alert-warning"> <p> Para pedidos com origem em um marketplace, mas que foram cancelados pela loja, a integração não notifica automaticamente o marketplace sobre o cancelamento. Nesses casos, <b>é necessário cancelar manualmente o pedido diretamente na interface do marketplace</b>.</p> </div>
+> ⚠️  Para pedidos com origem em um marketplace, mas que foram cancelados pela loja, a integração não notifica automaticamente o marketplace sobre o cancelamento. Nesses casos, **é necessário cancelar manualmente o pedido diretamente na interface do marketplace**.

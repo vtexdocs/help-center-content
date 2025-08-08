@@ -20,9 +20,7 @@ tags:
 
 [Price tables, or price spreadsheets](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) and [Fixed price](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
 
-<div class ="alert alert-warning">
-  You cannot import a <b>calculated price</b> table into the VTEX Admin. The <b>Export</b> function is available for this table only for the merchant to check the final price for each product.
-</div>
+> ⚠️ You cannot import a **calculated price** table into the VTEX Admin. The **Export** function is available for this table only for the merchant to check the final price for each product.
 
 After [importing a price table](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D), error messages may display for certain SKUs, as shown in the examples below:
 
@@ -51,9 +49,7 @@ Make sure that all fields in your table are properly populated based on the guid
 - [Planilha de preço-base](https://help.vtex.com/en/tutorial/table-of-base-prices--4Jox8TeQ5feqAn78TZ0DNA)
 - [Planilha de preço fixo](https://help.vtex.com/en/tutorial/filling-out-an-import-spreadsheets-fixed-price-fields--50RFoH3ruV97FJgeBUCURh)
 
-<div class ="alert alert-warning">
-  Before importing the table into the VTEX Admin, make sure that it does not contain columns with error information (<b>Error Code</b> and <b>Error Message</b>) or any filters applied to the cells. Importing a table under these conditions may cause errors in the data import process.
-</div>
+> ⚠️ Before importing the table into the VTEX Admin, make sure that it does not contain columns with error information (**Error Code** and **Error Message**) or any filters applied to the cells. Importing a table under these conditions may cause errors in the data import process.
 
 Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
 
@@ -63,6 +59,4 @@ Example of a table with filters applied and __Error Code__ and __Error Message__
 
 Price tables should not exceed a maximum size limit of 1 megabyte (MB). If your current file is larger, divide the information into files smaller than 1 megabyte (MB).
 
-<div class ="alert alert-warning">
-  All data for a specific SKU must be in a single table. You cannot enter information for the same SKU in different tables.
-</div>
+> ⚠️ All data for a specific SKU must be in a single table. You cannot enter information for the same SKU in different tables.

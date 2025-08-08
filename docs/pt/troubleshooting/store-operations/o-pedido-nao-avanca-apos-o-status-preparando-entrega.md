@@ -25,9 +25,7 @@ tags:
 
 O status `Preparando entrega` ocorre no [fluxo do pedido](https://help.vtex.com/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.
 
-<div class = "alert alert-info">
-  Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
-</div>
+> ℹ️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 A permanência de um pedido no status `Preparando entrega` por um período superior ao previsto pode ser atribuída à falta de cadastro das notas fiscais na VTEX.
 
@@ -43,9 +41,7 @@ Após esta confirmação, siga os passos abaixo para verificar se houve mudança
 2. Acesse o pedido desejado.
 3. Na [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), verifique se o seu status foi alterado para `Faturado`.
 
-<div class = "alert alert-warning">
-  Caso o pedido ainda permaneça no status <code>Preparando entrega</code>, verifique se existe alguma inconsistência na comunicação com o marketplace. Saiba mais em <a href="https://help.vtex.com/pt/faq/o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega--4szpXviNMAkwOe2cCiMiMe">O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?</a>.
-</div>
+> ⚠️ Caso o pedido ainda permaneça no status `Preparando entrega`, verifique se existe alguma inconsistência na comunicação com o marketplace. Saiba mais em [O pedido foi faturado no ERP mas continua no status "Preparando Entrega". O que fazer?](https://help.vtex.com/pt/faq/o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega--4szpXviNMAkwOe2cCiMiMe).
 
 ### Cadastro manual de notas fiscais (opcional)
 
@@ -58,6 +54,4 @@ Para garantir que o pedido seja faturado corretamente, é necessário observar o
 - Quando for necessário emitir mais de uma nota fiscal para um pedido, a soma do valor total das notas fiscais registradas deve ser igual ao valor total do pedido.
 - O valor total do pedido será atualizado em caso de [alteração ou remoção de itens](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-warning">
-  Caso o pedido ainda permaneça no status <code>Faturado</code> após o cadastro manual das notas fiscais, solicite mais informações por meio de um ticket no <a href="https://help.vtex.com/pt/support">Suporte VTEX</a>.
-</div>
+> ⚠️ Caso o pedido ainda permaneça no status `Faturado` após o cadastro manual das notas fiscais, solicite mais informações por meio de um ticket no [Suporte VTEX](https://help.vtex.com/pt/support).

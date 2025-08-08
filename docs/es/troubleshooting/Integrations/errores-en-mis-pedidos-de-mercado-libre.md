@@ -53,12 +53,5 @@ Haz clic en `Realizar mapeo`.
 Haz clic en la categoría que presenta error.
 Realiza nuevamente el mapeo de acuerdo con las categorías y atributos existentes en Mercado Libre.
 
-<div class="alert alert-info">
-Para identificar el atributo indicado en el mensaje de error, consulta el número inicial de los códigos determinados por Mercado Libre. Haz clic en el nombre de tu país para descargar la plantilla de referencia:
-<p><ul>
-<p><a href="https://assets.contentful.com/alneenqid6w5/22NlNdUIBK8qWic8cYw2sg/11c88bb0b439c7c7f8ce5909923af3d6/Brasil.zip">Brasil</a></p>
-<p><a href="https://assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar">Argentina</a></p> 
-<p><a href="https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar">Colombia</a></p> 
-<p><a href="https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar">México</a></p>
-</ul></p></div>
+> ℹ️ Para identificar el atributo indicado en el mensaje de error, consulta el número inicial de los códigos determinados por Mercado Libre. Haz clic en el nombre de tu país para descargar la plantilla de referencia: <ul> [Brasil](https://assets.contentful.com/alneenqid6w5/22NlNdUIBK8qWic8cYw2sg/11c88bb0b439c7c7f8ce5909923af3d6/Brasil.zip) [Argentina](https://assets.contentful.com/alneenqid6w5/3c61gJrH7GWOywMCGMECg4/dc7a2ce73a99d41345dde2092eb1fec6/Argentina.rar) [Colombia](https://assets.contentful.com/alneenqid6w5/5RePTJoKrYi4qA66WCCYKw/33910300057806b554d566210aa2310a/Colombia.rar) [México](https://assets.contentful.com/alneenqid6w5/3Z3xgpPyvuYEAIO2me4GSG/e4f4198463d8a3ba05124a30031302fa/Mexico.rar) </ul>
 

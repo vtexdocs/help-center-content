@@ -47,9 +47,7 @@ The following solutions focus on inventory management via VTEX Admin:
 * **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](https://help.vtex.com/en/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
 * **Configure unlimited inventory:** In the line that corresponds to the desired SKU and warehouse, on the _Unlimited inventory_ column, turn on the switch, and click `Save`. When this configuration is activated, the item is considered always available for sales and the store never runs _out-of-stock_ for it.
 
-<div class = "alert alert-info">
-To configure <i>out-of-stock</i> products to be displayed in your storefront, in your VTEX Admin access <b>Catalog > All Products</b>, and in the product configuration page, in the <b>Product</b> tab, select the checkbox <b>Yes</b> for <i>Show when out of stock</i>.
-</div>
+> ℹ️ To configure *out-of-stock* products to be displayed in your storefront, in your VTEX Admin access **Catalog > All Products**, and in the product configuration page, in the **Product** tab, select the checkbox **Yes** for *Show when out of stock*.
 
 ### Review XML integration
 
@@ -62,7 +60,5 @@ An error with product missing information can happen when the product has no inv
 3. In the `Edit XML` tab, for the option **Show unavailable SKUs**, select the checkbox `Show out-of-stock (sold-out) SKUs in the results`.
 4. Click `Save`.
 
-<div class="alert alert-warning">
-You can have invoicing errors when trying to invoice an order with incorrect or missing XML information.
-</div>
+> ⚠️ You can have invoicing errors when trying to invoice an order with incorrect or missing XML information.
 

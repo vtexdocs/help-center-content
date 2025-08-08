@@ -25,7 +25,7 @@ Veja a seguir instruções instruções que podem ajudar a solucionar esses prob
 
 | **Problema** | **Descrição** | **Instruções para resolução do problema** |
 | ------------ | ------------- | ----------------------------------------- |
-| [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem <code>Algo deu errado</code>. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
+| [O Site Editor não abre](#o-site-editor-nao-abre) | A página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`. | - [Verifique a integração de busca](#verificar-a-integracao-de-busca).<br> - [Verifique a configuração do tenant (apenas novas contas)](#verificar-a-configuracao-do-tenant-apenas-novas-contas). |
 | [Não consigo gerenciar o conteúdo da minha loja no Site Editor](#nao-consigo-gerenciar-o-conteudo-da-minha-loja-no-site-editor) | Não é possível editar, salvar ou excluir conteúdo no Site Editor. | - [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).<br> - [Verifique a localidade principal do domínio](#verificar-a-localidade-principal-do-dominio). |
 | [Perdi o conteúdo armazenado no Site Editor](#perdi-o-conteudo-armazenado-no-site-editor) | O conteúdo salvo no Site Editor foi perdido. | [Abra um ticket para o Suporte VTEX](#perdi-o-conteudo-armazenado-no-site-editor). |
 | [Continuo tendo problemas com o Site Editor](#continuo-tendo-problemas-com-o-site-editor) | Você ainda está tendo problemas com o Site Editor depois de tentar resolvê-los. | [Abra um ticket para o Suporte VTEX](#continuo-tendo-problemas-com-o-site-editor). |
@@ -129,9 +129,7 @@ Abra um ticket para o time de [Suporte VTEX](https://help.vtex.com/pt/support) p
 
 Para evitar a perda de conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme, siga os passos no guia [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
 
-<div class="alert alert-warning">
-  <p> Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de <a href="https://help.vtex.com/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD">Perda intermitente de conteúdo do Site Editor</a>. Nessa situação, abra um ticket para o <a href="https://help.vtex.com/pt/support">Suporte VTEX</a> com a prioridade <code>urgente</code>. </p>
-</div>
+> ⚠️  Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](https://help.vtex.com/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) com a prioridade `urgente`. 
 
 ## Continuo tendo problemas com o Site Editor 
 

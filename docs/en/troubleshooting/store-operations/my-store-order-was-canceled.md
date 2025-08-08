@@ -63,4 +63,4 @@ Additionally, the customer can request the order cancellation to the merchant wh
 
 All order changes can be viewed on the [Order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 
-<div class="alert alert-warning"> <p> For orders originating from a marketplace but canceled by the store, the integration doesn't automatically notify the marketplace about the cancellation. In these cases, <b>you must manually cancel the order directly in the marketplace interface</b>.</p> </div>
+> ⚠️  For orders originating from a marketplace but canceled by the store, the integration doesn't automatically notify the marketplace about the cancellation. In these cases, **you must manually cancel the order directly in the marketplace interface**.

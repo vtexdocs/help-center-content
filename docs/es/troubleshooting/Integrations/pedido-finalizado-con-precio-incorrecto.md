@@ -19,18 +19,14 @@ subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 
 El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**. 
 
-<div class = "alert alert-info">
-  <p>Para evitar que el pedido se finalice con el precio incorrecto, puedes crear <a href="https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW">Reglas de divergencia de precios</a>.</p>
-</div>
+> ℹ️ Para evitar que el pedido se finalice con el precio incorrecto, puedes crear [Reglas de divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
 
 Hay tres posibles causas por las que se finaliza un pedido con precio incorrecto:
 - [Precio del producto asumido por el marketplace](#precio-del-producto-asumido-por-el-marketplace)
 - [Envío calculado en el marketplace](#envio-calculado-en-el-marketplace)
 - [Precio del SKU modificado antes de la integración del pedido](#precio-del-SKU-modificado-antes-de-la-integracion-del-pedido)
 
-<div class = "alert alert-info">
- <p>Consulta otros errores de integración de pedidos de marketplace en <a href="https://help.vtex.com/es/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET">¿Por qué los pedidos del marketplace no se integran con mi tienda?</a>.</p>
-</div>
+> ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](https://help.vtex.com/es/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
 
 ## Precio del producto asumido por el marketplace
 
@@ -49,9 +45,7 @@ Debes reprocesar el pedido ignorando la divergencia siguiendo las instrucciones 
 5. Accede a la página del pedido reprocesado.
 6. En la parte superior, haz clic en `Aprobar`.
 
-<div class="alert alert-warning">
-  <p>Esta integración no cambia el valor del pedido y solo se procesará con la divergencia de precios.</p>
-</div>
+> ⚠️ Esta integración no cambia el valor del pedido y solo se procesará con la divergencia de precios.
 
 ## Envío calculado en el marketplace
 

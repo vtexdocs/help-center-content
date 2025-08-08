@@ -34,20 +34,14 @@ The first required action is to contact the person in charge of your [ERP integr
 2. Go to the desired order.
 3. On the [order details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl), check if the order status has changed to `Handling shipment`.
 
-<div class = "alert alert-warning">
-  If the order remains in the status <code>Ready for handling</code>, request more information by opening a ticket with <a href="https://help.vtex.com/en/support">VTEX Support</a>.
-</div>
+> ⚠️ If the order remains in the status `Ready for handling`, request more information by opening a ticket with [VTEX Support](https://help.vtex.com/en/support).
 
 ### Updating the order manually (optional)
 
 The merchant can [manually update](https://help.vtex.com/en/tutorial/moving-order-to-start-handling-shipping--tutorials_198#through-vtex-admin) the order status to `Handling shipment` via Admin VTEX, if desired. However, to perform this action, they must have a [role with OMS - Full access permission](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#roles). 
 
-<div class = "alert alert-danger">
-  By manually updating the status and confirming the start of handling, the seller assumes responsibility for <a href="https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92">reserving items</a>, gensuring there is sufficient stock, and that the sold items are deducted from the inventory. Manually updated orders can't be integrated into the ERP system later.
-</div>
+> ❗ By manually updating the status and confirming the start of handling, the seller assumes responsibility for [reserving items](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92), gensuring there is sufficient stock, and that the sold items are deducted from the inventory. Manually updated orders can't be integrated into the ERP system later.
 
-<div class = "alert alert-warning">
- If the order remains in the status <code>Ready for handling</code> after the manual update attempt, request more information by opening a ticket with <a href="https://help.vtex.com/pt/support">VTEX Support</a>.
-</div>
+> ⚠️ If the order remains in the status `Ready for handling` after the manual update attempt, request more information by opening a ticket with [VTEX Support](https://help.vtex.com/pt/support).
 
 In addition to the error scenario related to the ERP system, there may be situations in which two different statuses are displayed for the same order: one in the list on the __All Orders__ page and another on the respective [order details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl). For more information about this scenario, see the known issue [Status in the order list is different from the current order status](https://help.vtex.com/en/known-issues/status-in-the-order-list-is-different-from-the-current-order-status--2UBFdtXWtCIygv0SiObCTN).

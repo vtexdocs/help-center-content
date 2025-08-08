@@ -30,9 +30,7 @@ Sempre que um produto tem mudança de status ou alteração de informações, é
 - Criação ou remoção de coleção
 - Mudança de preço ou na quantidade de estoque
 
-<div class ="alert alert-info">
-  Para mais detalhes sobre a indexação de um produto em lojas <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">legado</a>, acesse <a href="https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256">Como funciona a indexação - CMS Portal Legado</a>. Se a sua loja utiliza o <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, verifique o <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Histórico da indexação - Intelligent Search</a>.
-</div>
+> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), acesse [Como funciona a indexação - CMS Portal Legado](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Se a sua loja utiliza o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifique o [Histórico da indexação - Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
 
 Em determinadas situações, a indexação é interrompida durante o processo e as informações mais atualizadas do produto não são exibidas no site da loja. Veja abaixo alguns cenários em que esta interrupção pode acontecer:
 
@@ -64,17 +62,15 @@ Para corrigir problemas que estejam impedindo um produto de ser corretamente ind
 
 Erros no cadastro de um produto podem gerar inconsistências no momento de realizar a indexação de um produto.
 
-<blockquote><ui>1. No Admin VTEX, acesse <b>Catálogo > Todos os produtos</b>.</ui>
+<blockquote><ui>1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.</ui>
 
-<blockquote><div class ="alert alert-warning">
-  Lojas que utilizam a página <b>Produtos e SKUS (Beta)</b> devem verificar os campos de cadastro do produto acessando <b>Catálogo > Produtos e SKUS</b> no Admin VTEX. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos e SKUS (Beta)</a>.
-</div></blockquote>
+<blockquote>> ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 
-<blockquote><ui>2. Localize o produto desejado e clique em <b>EDITAR</b>.</ui>
+<blockquote><ui>2. Localize o produto desejado e clique em **EDITAR**.</ui>
 
-<blockquote><ui>3. Verifique se as informações de todos os <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro</a> estão corretas. Se necessário, atualize as informações e clique em Salvar.</ui>
+<blockquote><ui>3. Verifique se as informações de todos os [campos de cadastro](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.</ui>
 
-<blockquote><ui>4. Acesse o relatório de indexação em <b>Catálogo > Relatórios</b> e verifique se o produto está na fila de indexação ou já foi indexado.</ui>
+<blockquote><ui>4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.</ui>
 
 ### Verificação de informações de binding na conta
 
@@ -90,8 +86,7 @@ Exemplo: se um produto possui 5 SKUs ativos em 5 políticas comerciais diferente
 
 Para evitar este cenário, verifique a possibilidade de utilizar uma mesma política comercial para marketplaces diferentes, como descrito em [Configurar política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).  
 
-<div class ="alert alert-warning">
-  Caso seja possível reduzir o número de políticas comerciais em sua loja, acesse novamente o cadastro do produto para modificar a política comercial e verificar o relatório de indexação, como descrito na seção <b>Verificação dos campos de cadastro do produto</b>.</div>
+> ⚠️ Caso seja possível reduzir o número de políticas comerciais em sua loja, acesse novamente o cadastro do produto para modificar a política comercial e verificar o relatório de indexação, como descrito na seção **Verificação dos campos de cadastro do produto**.
 
 ### Modificação de quantidades de SKUs do produto 
 
@@ -103,8 +98,7 @@ Após reorganizar a quantidade de SKUs por produto, verifique o relatório de in
 
 ### Remoção do SKU de coleções  
 
-<div class ="alert alert-info">
-  Existem duas formas de remover o SKU de uma coleção: por meio do <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Portal CMS Legado</a> ou utilizando o módulo <b>Coleções (Beta)</b>. Esta seção demonstra como remover o SKU de uma coleção no <b>Portal CMS Legado</b>. Para mais informações sobre o procedimento no módulo <b>Coleções (Beta)</b>, acesse <a href="https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos">Remoção de produtos</a>.</div>  
+> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **Portal CMS Legado**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
 
 Caso algum dos SKUs do produto faça parte de uma [coleção](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:  
 

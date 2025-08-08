@@ -33,25 +33,21 @@ A continuación se describen algunas soluciones para asegurarte de que la promoc
 
 Para comprobar si un clúster de clientes está asociado a una promoción, sigue los pasos a continuación:
 
-<blockquote><ui>1. En el Admin VTEX, accede a <b>Promociones > Promociones</b>, o escribe  <b>Promociones</b> en la barra de búsqueda en la parte superior de la página.</ui>
+<blockquote><ui>1. En el Admin VTEX, accede a **Promociones > Promociones**, o escribe  **Promociones** en la barra de búsqueda en la parte superior de la página.</ui>
 
 <blockquote><ui>2. Haz clic en la promoción que deseas verificar.</ui>
 
-<blockquote><ui>3. En la sección <b>“¿Cuáles son las condiciones para que la promoción sea válida?”</b>, verifica que la opción <b>Clúster de clientes</b> esté marcada y si el campo tiene el <a href="https://help.vtex.com/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes">valor correcto del clúster deseado</a>.</ui>
+<blockquote><ui>3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](https://help.vtex.com/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes).</ui>
 
 ![Cluster_es](//images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/ac5b26af7c4884341dd5551666deba5c/cluster_es.png)
 
- <blockquote><ui><div class="alert alert-warning">
- El valor ingresado en el campo debe ser exactamente igual al valor previamente asignado al clúster de clientes teniendo en cuenta que el sistema distingue entre mayúsculas y minúsculas (case sensitive). Por ejemplo, si el valor utilizado para un determinado identificador de clúster es <code>empleado=true</code> y en la promoción se ingresó <code>Empleado=true</code> o <code>empleado=True</code>, la promoción no se mostrará a los usuarios de ese clúster.
-</div></blockquote>
+ <blockquote><ui>> ⚠️ El valor ingresado en el campo debe ser exactamente igual al valor previamente asignado al clúster de clientes teniendo en cuenta que el sistema distingue entre mayúsculas y minúsculas (case sensitive). Por ejemplo, si el valor utilizado para un determinado identificador de clúster es `empleado=true` y en la promoción se ingresó `Empleado=true` o `empleado=True`, la promoción no se mostrará a los usuarios de ese clúster.</blockquote>
 
 <blockquote><ui>4. Agrega o modifica el valor del clúster deseado según sea necesario.</ui>
 
-<blockquote><ui>5. Haz clic en <code>Guardar</code>.</ui>
+<blockquote><ui>5. Haz clic en `Guardar`.</ui>
 
-<blockquote><ui><div class="alert alert-info">
-  Para garantizar que una misma promoción se aplique simultáneamente a clústeres de clientes que tienen valores diferentes registrados, debes seleccionar la condición <b>Al menos uno de los siguientes</b> y configurar todos los valores de los clústeres en la promoción.
-</div></blockquote>
+<blockquote><ui>> ℹ️ Para garantizar que una misma promoción se aplique simultáneamente a clústeres de clientes que tienen valores diferentes registrados, debes seleccionar la condición **Al menos uno de los siguientes** y configurar todos los valores de los clústeres en la promoción.</blockquote>
 
 ### Verificar el valor asignado en el perfil del cliente
 

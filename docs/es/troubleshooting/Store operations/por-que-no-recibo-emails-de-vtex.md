@@ -94,4 +94,4 @@ También puedes comprobar si la dirección de email está registrada como copia 
 3. Comprueba que en los campos __CC:__ o __CCO:__ de la plantilla no figura ninguna dirección de email. En caso contrario, elimina la información y haz clic en `Save`.
 4. Realiza este procedimiento con cada una de las plantillas de la tienda y haz una prueba de envío de email a la dirección deseada.
 
-![copia_email_es](https://images.ctfassets.net/alneenqid6w5/11EjQQnjcUHp2IHF87gNCy/a31ab802e560774fa1ef533d50dffd88/copia_email_es.png)
+![copia_email_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/Store%20operations/por-que-no-recibo-emails-de-vtex_1.png)

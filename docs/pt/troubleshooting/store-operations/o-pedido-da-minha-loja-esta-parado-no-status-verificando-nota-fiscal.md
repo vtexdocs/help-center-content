@@ -49,11 +49,7 @@ Para faturar o pedido (total ou parcialmente) ou ajustar os dados da nota fiscal
 5. Preencha os campos da tela.
 6. Clique em `Salvar nota fiscal`.
 
-<div class = "alert alert-info">
-Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo <a href="https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v">Como faturar um pedido</a>. Caso deseje faturar o pedido via API, use o endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>. 
-</div>
+> ℹ️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
-<div class = "alert alert-info">
-Se for necessário realizar ajustes no pedido, é possível <a href="https://help.vtex.com/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw">alterar o pedido pelo Admin VTEX</a>.
-</div>
+> ℹ️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](https://help.vtex.com/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
 

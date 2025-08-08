@@ -63,4 +63,4 @@ Además, el cliente puede solicitar la cancelación del pedido al retailer mient
 
 Puedes ver todas las modificaciones del pedido en la [Página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 
-<div class="alert alert-warning"> <p> Para pedidos originados en un marketplace pero cancelados por la tienda, la integración no notifica automáticamente la cancelación al marketplace. En estos casos, <b>es necesario cancelar manualmente el pedido directamente en la interfaz del marketplace</b>.</p> </div>
+> ⚠️  Para pedidos originados en un marketplace pero cancelados por la tienda, la integración no notifica automáticamente la cancelación al marketplace. En estos casos, **es necesario cancelar manualmente el pedido directamente en la interfaz del marketplace**.
