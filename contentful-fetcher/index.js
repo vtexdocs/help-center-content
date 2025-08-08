@@ -77,14 +77,17 @@ async function main() {
 
         if (subcatRef) {
           const subcategoryEntry = await fetchLinkedEntry(subcatRef);
+          //subcategoryTitle =
+          //  subcategoryEntry?.fields?.title?.[locale] || subcategoryTitle;
           subcategoryTitle =
-            subcategoryEntry?.fields?.title?.[locale] || subcategoryTitle;
+            subcategoryEntry?.fields?.title?.en || subcategoryTitle; //subcategoryFolder sempre em inglês
 
           const catRef = subcategoryEntry?.fields?.category?.pt?.sys?.id;
           if (catRef) {
             const categoryEntry = await fetchLinkedEntry(catRef);
-            categoryTitle =
-              categoryEntry?.fields?.title?.[locale] || categoryTitle;
+            //categoryTitle =
+            //  categoryEntry?.fields?.title?.[locale] || categoryTitle;
+            categoryTitle = categoryEntry?.fields?.title?.en || categoryTitle; //subfolder sempre em inglês
           }
         }
 
