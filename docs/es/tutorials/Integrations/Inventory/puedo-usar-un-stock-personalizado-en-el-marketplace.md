@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: can-i-use-a-customized-stock-in-the-marketplace
-locale: es
 legacySlug: puedo-usar-un-stock-personalizado-en-el-marketplace
+locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
@@ -21,4 +21,4 @@ Ese inventario puede ser el mismo practicado en la tienda principal o un inventa
 
 ## Usando un inventario personalizado
 
-Configurar un inventario personalizado significa adoptar plazos y precios diferentes de todas las demás configuraciones de la tienda. Por lo tanto, será necesario configurar una [nueva política comercial](/es/tutorial/configurar-politica-comercial-para-marketplace/) y una [nueva regla de logística para marketplace](/es/tutorial/como-configurar-logistica-para-politica-comercial/).
+Configurar un inventario personalizado significa adoptar plazos y precios diferentes de todas las demás configuraciones de la tienda. Por lo tanto, será necesario configurar una [nueva política comercial](https://help.vtex.com/es/tutorial/configurar-politica-comercial-para-marketplace/) y una [nueva regla de logística para marketplace](https://help.vtex.com/es/tutorial/como-configurar-logistica-para-politica-comercial/).

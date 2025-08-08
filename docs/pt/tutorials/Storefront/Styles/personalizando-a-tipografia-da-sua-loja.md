@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: customizing-your-stores-typography
-locale: pt
 legacySlug: personalizando-a-tipografia-da-sua-loja
+locale: pt
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
 ---
 
@@ -35,7 +35,7 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 
 5. No campo **Família de fontes**, crie um nome para a fonte.
 
-    ![familia-de-fontes-giff-pt](https://images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/d3a05b339370de4be136cc16685a0a99/familia-de-fontes-giff-pt.gif)
+    ![familia-de-fontes-giff-pt](//images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/d3a05b339370de4be136cc16685a0a99/familia-de-fontes-giff-pt.gif)
 
 6. Clique em **Enviar** para fazer o upload do arquivo da fonte desejada.
 
@@ -71,7 +71,7 @@ Siga as instruções a seguir para configurar tokens de tipo:
 
 3. Clique em **Editar > Tipografia > Tokens de tipo**.
 
-    ![tokens-tipo-giff-pt](https://images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/ffb592b26d8e7702b566ddc2731e76c7/tokens-tipo-giff-pt.gif)
+    ![tokens-tipo-giff-pt](//images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/ffb592b26d8e7702b566ddc2731e76c7/tokens-tipo-giff-pt.gif)
 
 4. Escolha o token que você deseja personalizar como, por exemplo, **Heading 1** (Cabeçalho 1), e clique nele.
 

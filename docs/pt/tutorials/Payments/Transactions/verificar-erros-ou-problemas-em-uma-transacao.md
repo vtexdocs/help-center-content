@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: checking-for-errors-or-problems-in-a-transaction
-locale: pt
 legacySlug: verificar-erros-ou-problemas-em-uma-transacao
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -28,7 +28,7 @@ Você pode <a href="https://help.vtex.com/pt/faq/cartao-de-credito-fluxo-basico-
 ## Verificar status da transação
 
 Para verificar o __status atual__ de uma transação, basta buscar na linha do tempo pela *caixa mais ao topo da tela com um círculo verde do lado esquerdo*. 
-[Neste artigo](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=pt "Neste artigo"), há a explicação de cada um dos status de uma transação bem-sucedida. Caso a transação tenha algum problema, seu status final será __Cancelled__.
+[Neste artigo](https://help.vtex.com/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=pt "Neste artigo"), há a explicação de cada um dos status de uma transação bem-sucedida. Caso a transação tenha algum problema, seu status final será __Cancelled__.
 
 ## Verificar mensagens de resposta dos parceiros
 

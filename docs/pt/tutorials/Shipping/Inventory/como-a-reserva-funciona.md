@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: how-does-reservation-work
-locale: pt
 legacySlug: como-a-reserva-funciona, como-analisar-as-reservas-de-um-produto
+locale: pt
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
@@ -25,12 +25,12 @@ O inventário é a relação dos itens que sua loja possui em estoque. Você pod
 
 Após ser vendido, um item passa pelos seguintes status no inventário da sua loja:
 
-1. **[Reserva autorizada:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada)** após a finalização da compra.
-2. **[Reserva confirmada:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)** após a aprovação do pagamento.
-3. **[Reserva reconhecida:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida)** quando o status do pedido muda para **Preparando entrega** no módulo **Pedidos**.
-4. **[Baixa no estoque:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque)** pedido em transporte para entrega.
+1. **[Reserva autorizada:](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada)** após a finalização da compra.
+2. **[Reserva confirmada:](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)** após a aprovação do pagamento.
+3. **[Reserva reconhecida:](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida)** quando o status do pedido muda para **Preparando entrega** no módulo **Pedidos**.
+4. **[Baixa no estoque:](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque)** pedido em transporte para entrega.
 
-É possível acompanhar o status da reserva dos itens pelo Admin VTEX, [como descrito ao final deste artigo.](/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva)
+É possível acompanhar o status da reserva dos itens pelo Admin VTEX, [como descrito ao final deste artigo.](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva)
 
 <div class="alert alert-warning">
 Produtos inseridos no carrinho não geram reserva ou prioridade. Um item só passa para o status de Reserva autorizada após o cliente finalizar o pedido.
@@ -44,7 +44,7 @@ O item permanece nesse status por um determinado tempo, e caso o pagamento não 
 
 _Tempo de expiração do pagamento + tempo de reserva no estoque_
 
-* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](/pt/tutorial/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado--frequentlyAskedQuestions_300#prazo-de-validade-do-boleto) ou [promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
+* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](https://help.vtex.com/pt/tutorial/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado--frequentlyAskedQuestions_300#prazo-de-validade-do-boleto) ou [promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
 * **Tempo de reserva no estoque:** é definido automaticamente, seguindo as regras abaixo.
     * **quatro dias corridos:** quando o dia de expiração do pagamento for domingo, segunda ou terça.
     * **cinco dias corridos:** quando o dia de expiração do pagamento for quarta, quinta ou sexta.
@@ -70,7 +70,7 @@ A plataforma VTEX não desconta automaticamente os itens do inventário. Os iten
 
 ## Baixa no estoque
 
-A baixa no estoque é a atualização da quantidade de itens disponíveis para venda. Essa ação deve ser realizada exclusivamente pelo lojista ou pelo ERP, por meio do [gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) ou da [API de atualização do inventário](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+A baixa no estoque é a atualização da quantidade de itens disponíveis para venda. Essa ação deve ser realizada exclusivamente pelo lojista ou pelo ERP, por meio do [gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) ou da [API de atualização do inventário](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 A VTEX não atualiza a quantidade de itens que um SKU possui do histórico de movimentações.
 
@@ -97,7 +97,7 @@ Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserv
 3. Na coluna `Reservados`, clique no número que aparece em azul. Caso não haja número em azul nesta coluna, isso significa que não há unidades reservadas para este item.
 4. Na nova janela que será aberta, visualize a reserva dos itens de mesmo SKU. Na coluna `Status`, você encontra o status da reserva.
 
-Como descrito acima, a baixa no estoque é uma consequência da atualização do inventário pelo lojista. Portanto, não é possível visualizar esse status na plataforma. É possível apenas conferir a quantidade de itens disponíveis para venda e a movimentação dos itens pelo [Gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+Como descrito acima, a baixa no estoque é uma consequência da atualização do inventário pelo lojista. Portanto, não é possível visualizar esse status na plataforma. É possível apenas conferir a quantidade de itens disponíveis para venda e a movimentação dos itens pelo [Gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 <div class = "alert alert-info">
 É importante lembrar que todos os status aqui descritos são internos e exclusivos da VTEX para o controle de venda de itens.

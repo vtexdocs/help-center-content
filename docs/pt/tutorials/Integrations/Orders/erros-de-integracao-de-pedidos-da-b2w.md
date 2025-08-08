@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-b2w-integration
-locale: pt
 legacySlug: erros-de-integracao-de-pedidos-da-b2w
+locale: pt
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
@@ -26,7 +26,7 @@ Na B2W, há erros de integração de pedidos que ocorrem com mais frequência qu
 
 `O item não está mais disponível`
 
-Erros de SLA significam que algum fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
+Erros de SLA significam que algum fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
 
 ____
 
@@ -34,7 +34,7 @@ ____
 
 `Não é possível integrar o pedido pois o mesmo se encontra cancelado`
 
-O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
+O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](https://help.vtex.com/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
 
 ____
 
@@ -42,7 +42,7 @@ ____
 
 `Não é possível avançar com pedido incompleto`
 
-Um pedido é considerado incompleto quando não recebeu todas as informações necessárias para ser finalizado. Apesar de, em geral, não ser possível recuperar pedidos incompletos, existe a possibilidade de resolver o erro com um reprocessamento manual. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**. Para entender possíveis causas para este tipo de erro, veja [Como funcionam os pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
+Um pedido é considerado incompleto quando não recebeu todas as informações necessárias para ser finalizado. Apesar de, em geral, não ser possível recuperar pedidos incompletos, existe a possibilidade de resolver o erro com um reprocessamento manual. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**. Para entender possíveis causas para este tipo de erro, veja [Como funcionam os pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
 
 ____
 
@@ -50,7 +50,7 @@ ____
 
 `Pedido não encontrado`
 
-Quando um pedido da B2W é dado como não encontrado, é necessário abrir um [chamado para suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
+Quando um pedido da B2W é dado como não encontrado, é necessário abrir um [chamado para suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
 
 ____
 
@@ -66,7 +66,7 @@ ____
 
 `Pedido com chave da nota inválida`
 
-Para que um pedido seja integrado na plataforma VTEX, é necessário que ele tenha o valor da chave de acesso da nota fiscal eletrônica preenchido corretamente. Os valores aceitos são sequências numéricas de 44 caracteres. O erro mencionado acontece quando um pedido não possui um valor válido para a chave de acesso da nota fiscal eletrônica. A solução é alterar essa chave para um valor aceito, como pode ser visto em [Inserir nota fiscal no pedido](/pt/tutorial/como-inserir-a-nota-fiscal--tutorials_193). Feita a alteração, reprocesse manualmente o pedido. No Admin VTEX, no módulo **MARKETPLACE > Integrações > Pedidos**, clique sobre o pedido com erro. Isso tornará visível o botão **Ações,** clique sobre ele e escolha a opção **Reprocessar**.
+Para que um pedido seja integrado na plataforma VTEX, é necessário que ele tenha o valor da chave de acesso da nota fiscal eletrônica preenchido corretamente. Os valores aceitos são sequências numéricas de 44 caracteres. O erro mencionado acontece quando um pedido não possui um valor válido para a chave de acesso da nota fiscal eletrônica. A solução é alterar essa chave para um valor aceito, como pode ser visto em [Inserir nota fiscal no pedido](https://help.vtex.com/pt/tutorial/como-inserir-a-nota-fiscal--tutorials_193). Feita a alteração, reprocesse manualmente o pedido. No Admin VTEX, no módulo **MARKETPLACE > Integrações > Pedidos**, clique sobre o pedido com erro. Isso tornará visível o botão **Ações,** clique sobre ele e escolha a opção **Reprocessar**.
 
 ____
 
@@ -74,12 +74,12 @@ ____
 
 `O preço do pedido no marketplace é diferente do seu valor determinado na VTEX. Para integrar automaticamente pedidos com divergência de valores no OMS, acesse Pedidos > Gerenciamento de pedidos > Autorização de pedidos, e configure uma regra de Divergência de valores.`
 
-Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração que o seller faz de uma [regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). Somente usuários com [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full podem [configurar uma regra de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe).
+Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração que o seller faz de uma [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). Somente usuários com [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full podem [configurar uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe).
 
 Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja um seller. Enquanto você não criar a regra de Divergência de valores, pedidos com divergência de preço ficam retidos, sendo possível acompanhá-los no Admin VTEX, em **Marketplace > Conexões > Pedidos**.
 
 ### Saiba mais
 
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Erros de falta de estoque na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Erros de SLA na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
+- [Resolução de erros de divergência de preço em pedidos de marketplace](https://help.vtex.com/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)

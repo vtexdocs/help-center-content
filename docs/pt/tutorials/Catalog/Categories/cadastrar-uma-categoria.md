@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: registering-a-category
-locale: pt
 legacySlug: cadastrando-categoria
+locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -58,21 +58,21 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 - __Ativo:__ ao selecionar esse item, a categoria ou o departamento fica ativado ou desativado na sua loja.
 - __Menu com link ativo:__ ao selecionar esse item, a categoria ou departamento fica ativa e clicável no site para que o cliente navegue através dele.
 - __Filtro de marca:__ ao selecionar esse item, a categoria ou o departamento passa a ter um filtro para marca na página.
-- __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+- __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de exibição dos produtos:__ define como os SKUs serão exibidos na página do produto. Veja abaixo as opções de preenchimento deste campo:
   - __Lista de SKUs:__ todos os SKUs do departamento ou categoria em questão serão exibidos no formato de lista. Cada um com seu botão Comprar do lado.
-  ![1Lista.pt](https://images.ctfassets.net/alneenqid6w5/6mWjVoqS6SVTNngaDC2s0f/833590ef9a7ca23a80ca3064158eacf4/Lista.pt.png)
+  ![1Lista.pt](//images.ctfassets.net/alneenqid6w5/6mWjVoqS6SVTNngaDC2s0f/833590ef9a7ca23a80ca3064158eacf4/Lista.pt.png)
   - __Ícones de seleção de radio (radioBox):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de seleção de radio.
-  ![RadioBox.pt](https://images.ctfassets.net/alneenqid6w5/6KPwMsYzYcdbLSaxuaXujO/da99f6ea4f3c41846d7370bd334e67d9/RadioBox.pt.png)
+  ![RadioBox.pt](//images.ctfassets.net/alneenqid6w5/6KPwMsYzYcdbLSaxuaXujO/da99f6ea4f3c41846d7370bd334e67d9/RadioBox.pt.png)
   - __Segue definição da especificação do SKU:__ todos os SKUs do departamento ou categoria em questão serão selecionados de acordo com a aba Especificação, no formulário de SKU. As opções pré-configuradas são Combo ou Radio.
-  ![Campos.pt](https://images.ctfassets.net/alneenqid6w5/U6fp5beQoHb9N8NFfbzJE/737de2d0a29e27ca99e8e3199e6cc4cd/Campos.pt.png)
+  ![Campos.pt](//images.ctfassets.net/alneenqid6w5/U6fp5beQoHb9N8NFfbzJE/737de2d0a29e27ca99e8e3199e6cc4cd/Campos.pt.png)
 
 ### Saiba mais
 
-- [O que é uma Categoria?](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-- [O que é um Departamento?](/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw)
-- [O que é uma Subcategoria?](/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
+- [O que é uma Categoria?](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
+- [O que é um Departamento?](https://help.vtex.com/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw)
+- [O que é uma Subcategoria?](https://help.vtex.com/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
 - [Excluir uma Categoria](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados)
 - [Cadastrar um Produto](/pt/tutorial/cadastrando-produto)
-- [Cadastrar um SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
+- [Cadastrar um SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
 

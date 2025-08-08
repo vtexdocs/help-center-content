@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: seller-management
-locale: es
 legacySlug: gestion-de-sellers-beta
+locale: es
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-**Gestión de sellers** es la página donde los operadores del marketplace [agregan sellers](/es/tutorial/adicionar-seller--tutorials_392), registran su información y gestionan sus status. La página incluye métricas para que los marketplaces evalúen su operación. También pueden aplicar filtros a los resultados de la lista de sellers y agruparlos a través de la opción Grupos, tags que le permiten filtrar los resultados más fácilmente.  
+**Gestión de sellers** es la página donde los operadores del marketplace [agregan sellers](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392), registran su información y gestionan sus status. La página incluye métricas para que los marketplaces evalúen su operación. También pueden aplicar filtros a los resultados de la lista de sellers y agruparlos a través de la opción Grupos, tags que le permiten filtrar los resultados más fácilmente.  
 
-![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
+![Seller management gif 2022 launch](//images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 ## Métricas
 La página muestra las métricas generales de los sellers:
@@ -25,7 +25,7 @@ La página muestra las métricas generales de los sellers:
 - __Total de sellers:__ todos los sellers incorporados al marketplace, incluyendo a los activos y *detenidos*.  
 - __Sellers activos:__ sellers que están recibiendo pedidos en el marketplace. Al hacer clic en la métrica, se filtra la lista por sellers activos. Se puede activar un seller haciendo clic en su Status en la lista, y cambiando la opción marcada a activo.   
 - __Sellers *detenidos*:__ sellers que no aparecen en el storefront y que ya no reciben pedidos en el marketplace. Al hacer clic en la métrica, se filtra la lista por sellers activos. Se puede activar un seller haciendo clic en su Status en la lista, y cambiando la opción marcada a activo.   
-- __Anuncios activos:__ todos los anuncios activos de tus sellers, en un periodo de 180 días. Al hacer clic en la métrica, se te redirigirá a la página de [SKU recibidos](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396).  
+- __Anuncios activos:__ todos los anuncios activos de tus sellers, en un periodo de 180 días. Al hacer clic en la métrica, se te redirigirá a la página de [SKU recibidos](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396).  
 
 ## Filtros
 
@@ -33,11 +33,11 @@ Puedes buscar un _seller_ utilizando la barra de búsqueda, escribiendo su nombr
 
 - **Status:** si el _seller_ está activo o *detenido*.   
 - **Integraciones:** el tipo de integración realizada para cada _seller_.  
-- **Visibilidad:** si la tienda del _seller_ es visible en el _storefront_ de tu _marketplace_, o si es un [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), cuya tienda no aparece en la experiencia de compra.      
-- **Grupos:** permite agrupar a los sellers con características similares. Las opciones de este filtro incluyen los grupos creados al [agregar un seller](/es/tutorial/adicionar-seller--tutorials_392) o en [Gestionar grupos](https://docs.google.com/document/d/1D5BcikSA6yJTioZXS8pKFZKfhmjks8QL31d1hWd1nec/edit#heading=h.kc7jlls22q4g).  
+- **Visibilidad:** si la tienda del _seller_ es visible en el _storefront_ de tu _marketplace_, o si es un [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), cuya tienda no aparece en la experiencia de compra.      
+- **Grupos:** permite agrupar a los sellers con características similares. Las opciones de este filtro incluyen los grupos creados al [agregar un seller](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392) o en [Gestionar grupos](https://docs.google.com/document/d/1D5BcikSA6yJTioZXS8pKFZKfhmjks8QL31d1hWd1nec/edit#heading=h.kc7jlls22q4g).  
 
 ## Grupos
-Los grupos facilitan que la gestión de múltiples sellers sea más eficiente y escalable en tu operación de marketplace. Los sellers se pueden agrupar en uno o más grupos según tus necesidades, utilizando los nombres de tu elección. Puedes crear, editar y eliminar grupos manualmente al [agregar seller](/es/tutorial/adicionar-seller--tutorials_392).
+Los grupos facilitan que la gestión de múltiples sellers sea más eficiente y escalable en tu operación de marketplace. Los sellers se pueden agrupar en uno o más grupos según tus necesidades, utilizando los nombres de tu elección. Puedes crear, editar y eliminar grupos manualmente al [agregar seller](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392).
 
 Esta funcionalidad permite a los marketplaces optimizar los escenarios de seguimiento de la operación, como, por ejemplo:
 - Identificar los modelos de negocio de los sellers como 1P, 3P o cuentas franquicia.  
@@ -46,7 +46,7 @@ Esta funcionalidad permite a los marketplaces optimizar los escenarios de seguim
 
 Los grupos se crean manualmente en __Agregar seller__ o al hacer clic en __Gestionar grupos.__ También se puede editar o eliminar los grupos después de crearlos.  
 
-![Gestión de seller](https://images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/c74c7c6069bb8e6e4908a10c4e208827/gestionador_de_seller_es.png)  
+![Gestión de seller](//images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/c74c7c6069bb8e6e4908a10c4e208827/gestionador_de_seller_es.png)  
 
 ## Gestionar grupos  
 
@@ -98,9 +98,9 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i> de la línea del _s
 El icono de <i class="fas fa-tag"></i> _etiqueta_ junto al nombre del _seller_ indica la visibilidad que tiene esta tienda durante la experiencia de compra en tu _marketplace_. Los _sellers_ pueden tener dos tipos de visibilidad:
 
 - **Seller *identificable*:** el _seller_ es visible en el _storefront_ de tu _marketplace,_ y es elegido por el consumidor durante la experiencia de compra en _buy box_. Un ícono de etiqueta rellenado significa que el seller es *identificable*.  
-- **Seller no identificable (white label):** los _[sellers white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label)_ son cuentas franquicia en VTEX, ocultas en la experiencia de compra, y seleccionadas automáticamente por el sistema del _checkout_ para el _fulfillment_ de los pedidos.  El ícono de etiqueta transparente significa que el seller no es *identificable*.  
+- **Seller no identificable (white label):** los _[sellers white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label)_ son cuentas franquicia en VTEX, ocultas en la experiencia de compra, y seleccionadas automáticamente por el sistema del _checkout_ para el _fulfillment_ de los pedidos.  El ícono de etiqueta transparente significa que el seller no es *identificable*.  
 
-Para agregar un _seller_ no identificable (_white label_), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, solicita la [adición de una cuenta franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. 
+Para agregar un _seller_ no identificable (_white label_), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, solicita la [adición de una cuenta franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. 
 
 ## Acciones masivas
 
@@ -110,7 +110,7 @@ Al poner en pausa a los _sellers_, puedes catalogar sus anuncios y hacer todas l
 
 ## Obtén más información
 
-- [Agregar Seller](/es/tutorial/adicionar-seller--tutorials_392)
-- [Configurar marketplaces VTEX](/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
-- [Acciones para la operación de marketplaces VTEX](/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Agregar Seller](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392)
+- [Configurar marketplaces VTEX](https://help.vtex.com/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
+- [Acciones para la operación de marketplaces VTEX](https://help.vtex.com/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
 

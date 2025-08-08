@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-discounts-for-orders-prepaid-in-full-on-google-shopping
-locale: es
 legacySlug: configurar-descuento-de-precio-al-contado-para-google-shopping
+locale: es
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 
-Antes de configurar el descuento de precio al contado para Google Shopping y realizar el paso a paso de este artículo, debe realizar los pasos que están en el tutorial [Configurar descuento de precio al contado](/es/tutorial/configurar-descuento-de-precio-al-contado--7Lfcj9Wb5dpYfA2gKkACIt#).
+Antes de configurar el descuento de precio al contado para Google Shopping y realizar el paso a paso de este artículo, debe realizar los pasos que están en el tutorial [Configurar descuento de precio al contado](https://help.vtex.com/es/tutorial/configurar-descuento-de-precio-al-contado--7Lfcj9Wb5dpYfA2gKkACIt#).
 
 Para configurar el descuento de precio al contado para Google Shopping es necesario añadir el ID del medio de pago al contado en la página de producto del CMS. Efectúe los siguientes pasos para realizar la configuración: 
 

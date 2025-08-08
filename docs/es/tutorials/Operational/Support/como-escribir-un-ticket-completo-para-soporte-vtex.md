@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: writing-an-effective-ticket-to-vtex-support
-locale: es
 legacySlug: como-escribir-un-ticket-completo-para-soporte-vtex
+locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos los clientes y partners tienen acceso al servicio prestado por el equipo de especialistas de [soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Para ponerse en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
+Todos los clientes y partners tienen acceso al servicio prestado por el equipo de especialistas de [soporte VTEX](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Para ponerse en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
 
 Los especialistas están preparados para proporcionar la mejor experiencia posible para solucionar los tickets. Sin embargo, para garantizar un servicio más rápido y objetivo, hay algunas guías que debes seguir al abrir un ticket.
 
@@ -26,7 +26,7 @@ Este artículo es una guía para que los clientes y partners abran los tickets c
 - [Antes de abrir un ticket](#antes-de-abrir-un-ticket)
 - [Rellenar un ticket](#rellenar-un-ticket)
 
-Para aprender a abrir un ticket en VTEX, consulta el artículo [Abrir tickets para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para aprender a abrir un ticket en VTEX, consulta el artículo [Abrir tickets para el soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ## Antes de abrir un ticket
 
@@ -34,7 +34,7 @@ Antes de abrir un ticket, verifica si el problema está relacionado con las pers
 
 ### Carrito y Checkout y Tiendas en CMS
 
-Es importante comprobar que el problema se produce sin personalizaciones activas en la tienda. Para realizar esta prueba, desactiva las personalizaciones (JS y CSS) e intenta reproducir el error según se explica en el artículo [Cómo bloquear personalizaciones para investigar problemas en el frontend de la tienda](/es/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). 
+Es importante comprobar que el problema se produce sin personalizaciones activas en la tienda. Para realizar esta prueba, desactiva las personalizaciones (JS y CSS) e intenta reproducir el error según se explica en el artículo [Cómo bloquear personalizaciones para investigar problemas en el frontend de la tienda](https://help.vtex.com/es/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). 
 
 ### Store Framework
 Para comprobar si el problema está asociado a IO, sigue los pasos a a continuación:
@@ -71,17 +71,17 @@ Si el error no se produce después del bloqueo de los archivos o en el tema pred
 
 ## Rellenar un ticket
 
-Si, después de seguir todos los pasos de troubleshooting indicados anteriormente, el problema persiste, abra un ticket con el [Soporte VTEX](/support?/cultureInfo=pt-br) siguiendo las indicaciones de la tabla a continuación.
+Si, después de seguir todos los pasos de troubleshooting indicados anteriormente, el problema persiste, abra un ticket con el [Soporte VTEX](https://help.vtex.com/support?/cultureInfo=pt-br) siguiendo las indicaciones de la tabla a continuación.
 
 | Información | Guías |
 | ----------- | ----------- |
 | Asunto y descripción del problema | <p> - Resume el problema o duda en pocas palabras. Rellena el campo **Asunto de la solicitud** de forma concisa y directa para ayudar al equipo de especialistas a entender rápidamente el escenario. </p> <p> - Rellena el campo **Asunto de la solicitud** con una descripción completa de lo observado e incluye qué, cómo y dónde está ocurriendo el problema para que el equipo de especialistas pueda investigar y reproducir el escenario. No olvides informar si los pasos para reproducir el problema incluyen alguna acción atípica que se deba realizar o algún permiso de acceso restringido. </p>  |
-| Pruebas | Incluye cualquier material que permita observar el problema, si está disponible. Por ejemplo, capturas o grabaciones de pantalla, [archivos HAR](/es/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs generados por la plataforma, respuestas del servidor o el texto o ID del error mostrado. |
+| Pruebas | Incluye cualquier material que permita observar el problema, si está disponible. Por ejemplo, capturas o grabaciones de pantalla, [archivos HAR](https://help.vtex.com/es/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs generados por la plataforma, respuestas del servidor o el texto o ID del error mostrado. |
 | Escenario esperado | Proporciona los detalles del escenario esperado, en comparación con lo que está ocurriendo. |
 | Pruebas y validaciones | Si ya intentaste solucionar el problema, detalla las acciones que ya hayas realizado, qué documentación consultaste y los resultados. |
 | Alcance del ticket | <p> - No abordes más de un problema en un mismo ticket. </p> <p> - No crees más de un ticket para el mismo problema. </p> |
 | Prioridad | 
-Comprueba la [prioridad](/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
+Comprueba la [prioridad](https://help.vtex.com/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
  | Información pertinente sobre el producto | 
 Consulta la siguiente tabla para ver la información pertinente dependiendo del producto en el que se produzca el error.
 
@@ -103,5 +103,5 @@ Puedes adaptar esta información a tu escenario específico y también utilizarl
 
 #### Más información
 
-- [Abrir un ticket para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
-- [¿Cómo funciona el soporte de VTEX?](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
+- [Abrir un ticket para el soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
+- [¿Cómo funciona el soporte de VTEX?](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)

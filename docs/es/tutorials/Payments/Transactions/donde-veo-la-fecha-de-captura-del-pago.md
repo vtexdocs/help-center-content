@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slugEN: where-do-i-see-the-payment-capture-date
-locale: es
 legacySlug: donde-veo-la-fecha-de-captura-del-pago
+locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

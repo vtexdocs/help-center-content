@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: vtex-global-support-resources
-locale: es
 legacySlug: recursos-de-soporte-global-de-vtex
+locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Este documento detalla la disponibilidad, el SLA de servicio y los recursos de soporte adicionales que VTEX ofrece a sus clientes. Para saber más sobre cómo funciona el soporte de VTEX, accede a [¿Cómo funciona el soporte de VTEX?](/es/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3)
+Este documento detalla la disponibilidad, el SLA de servicio y los recursos de soporte adicionales que VTEX ofrece a sus clientes. Para saber más sobre cómo funciona el soporte de VTEX, accede a [¿Cómo funciona el soporte de VTEX?](https://help.vtex.com/es/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3)
 
 ## Disponibilidad y SLA del servicio de soporte
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: selecting-stock-for-orders-mercado-envios-full
-locale: es
 legacySlug: seleccion-de-stock-para-pedidos-de-mercado-envios-full
+locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
@@ -31,4 +31,4 @@ Cuando el stock esté registrado, realice los siguientes pasos:
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.
 7. Para finalizar, haga clic en **Guardar Configuración**.
 
-![Início (3)](https://images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)
+![Início (3)](//images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)

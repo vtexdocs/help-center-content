@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: setting-up-the-global-category
-locale: es
 legacySlug: configurando-a-categoria-global
+locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -49,7 +49,7 @@ __Ejemplo__: si su tienda tiene una categoría "Placas base", lo ideal es elegir
 
 ### Cómo configurar la categoría global?
 
-En el [Catálogo de VTEX](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), la categoría global utilizada sigue [lista de todas las categorías de productos Google](https://support.google.com/merchants/answer/6324436?hl=es). Adoptamos este estándar porque se aplica a numerosos contextos, lo que facilita la categorización de productos de varios segmentos en una sola estructura.
+En el [Catálogo de VTEX](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), la categoría global utilizada sigue [lista de todas las categorías de productos Google](https://support.google.com/merchants/answer/6324436?hl=es). Adoptamos este estándar porque se aplica a numerosos contextos, lo que facilita la categorización de productos de varios segmentos en una sola estructura.
 
 Es necesario definir una categoría global. **Se aplica principalmente en la integración de una tienda con canales de venta externos.** Actualmente, VTEX utiliza este tipo de categoría solo para el conector de integración con Amazon.
 

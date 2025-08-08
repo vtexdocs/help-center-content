@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: understanding-the-minimum-availability-rule
-locale: es
 legacySlug: como-funciona-la-regla-de-disponibilidad-minima
+locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 

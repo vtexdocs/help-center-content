@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: vtex-support-satisfaction-survey
-locale: es
 legacySlug: encuesta-de-satisfaccion-del-soporte-vtex
+locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 

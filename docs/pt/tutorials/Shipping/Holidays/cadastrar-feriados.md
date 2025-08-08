@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slugEN: registering-holidays
-locale: pt
 legacySlug: cadastrar-feriados
+locale: pt
 subcategoryId: 6F0Qup9onmEM2wsEsEsUQa
 ---
 
@@ -30,7 +30,7 @@ Para configurar dias que devem ser considerados feriados, siga os passos abaixo:
 A funcionalidade **Feriados** será considerada para transportadoras com a configuração que permita isso. Para tornar a transportadora elegível à configuração de feriados, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Envio > Estratégia de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.  
-2. Na aba `Políticas de envio`, selecione a [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) associada à transportadora desejada.
+2. Na aba `Políticas de envio`, selecione a [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) associada à transportadora desejada.
 3. Na seção **Finais de semana e feriados**, certifique-se que a opção `Entrega em feriados` está com o switch desativado <i class="fas fa-toggle-off"></i>. 
 4. Clique em `Salvar`.
 
@@ -42,7 +42,7 @@ Você pode definir feriados para os anos seguintes.
 
 O cálculo do tempo de envio de um pedido é feito a partir da soma de duas etapas:
 
-- **Tempo de despacho:** tempo que o operador da loja leva para disponibilizar para a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) os itens do pedido.
+- **Tempo de despacho:** tempo que o operador da loja leva para disponibilizar para a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) os itens do pedido.
 - **Tempo de entrega:** tempo que a transportadora leva para entregar o pedido para o cliente final.
 
 `Tempo de despacho + Tempo de entrega = Tempo de envio do pedido`

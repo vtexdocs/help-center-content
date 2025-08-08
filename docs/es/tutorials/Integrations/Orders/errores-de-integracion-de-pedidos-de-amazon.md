@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-amazon-integration
-locale: es
 legacySlug: errores-de-integracion-de-pedidos-de-amazon
+locale: es
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
@@ -23,7 +23,7 @@ En Amazon, hay errores de integración de pedidos que se producen con más frecu
 
 `No available sla to deliver this order`
 
-Los errores de SLA significan que algún factor está impidiendo la entrega del pedido al consumidor final. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de SLA en la integración de pedidos de marketplace](/es/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
+Los errores de SLA significan que algún factor está impidiendo la entrega del pedido al consumidor final. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de SLA en la integración de pedidos de marketplace](https://help.vtex.com/es/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
 
 ____
 
@@ -31,7 +31,7 @@ ____
 
 `Order with SKU out of stock`
 
-Los errores relacionados con la falta o insuficiencia de stock pueden tener varias causas. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de falta de stock en la integración de pedidos de marketplace](/es/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP).
+Los errores relacionados con la falta o insuficiencia de stock pueden tener varias causas. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de falta de stock en la integración de pedidos de marketplace](https://help.vtex.com/es/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP).
 
 ____
 
@@ -39,9 +39,9 @@ ____
 
 `Order with SKU inactive or out of sales channel`
 
-Solo se integran los pedidos de SKU activos, por lo que debe comprobar el status del ítem en el Admin VTEX, en el módulo **Catálogo > Productos y SKUs**. Puede activar el SKU [rellenando los campos del SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) o [activar los SKU en masa](/es/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+Solo se integran los pedidos de SKU activos, por lo que debe comprobar el status del ítem en el Admin VTEX, en el módulo **Catálogo > Productos y SKUs**. Puede activar el SKU [rellenando los campos del SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) o [activar los SKU en masa](https://help.vtex.com/es/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
 
-Si los SKU del pedido están activos, significa que el problema es que los SKU no están vinculados a la política comercial utilizada en Amazon. En este caso, es necesario [asociar el SKU a la política comercial](/es/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+Si los SKU del pedido están activos, significa que el problema es que los SKU no están vinculados a la política comercial utilizada en Amazon. En este caso, es necesario [asociar el SKU a la política comercial](https://help.vtex.com/es/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
 
 ____
 
@@ -53,6 +53,6 @@ Este error se produce cuando el SKU del pedido no se identifica en la plataforma
 
 ### Sepa más
 
-- [Errores de falta de stock en la integración de pedidos de marketplace](/es/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Errores de SLA en la integración de pedidos de marketplace](/es/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolución de errores de divergencia de precio en pedidos de marketplace](/es/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Errores de falta de stock en la integración de pedidos de marketplace](https://help.vtex.com/es/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Errores de SLA en la integración de pedidos de marketplace](https://help.vtex.com/es/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
+- [Resolución de errores de divergencia de precio en pedidos de marketplace](https://help.vtex.com/es/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)

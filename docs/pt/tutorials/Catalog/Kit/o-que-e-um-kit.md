@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-a-kit
-locale: pt
 legacySlug: o-que-e-um-kit
+locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: brand-registration-fields
-locale: pt
 legacySlug: campos-de-cadastro-de-marca
+locale: pt
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
 ---
 
@@ -39,9 +39,9 @@ Para entender melhor o significado dos campos de cadastro de Marca, veja abaixo 
 
 - __Lomadee Campaing Code__: código usado para campanhas do Buscapé. O preenchimento desse campo com o código permite o acompanhamento de métricas de remarketing associados a essa marca.
 
-- __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae)
 
-- __Exibir no menu da Home__: ao selecionar essa caixa, a marca aparecerá no menu da sua loja por meio do controle *Menu de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender mais sobre o uso de controles, acesse nosso artigo com a [lista de controles](/pt/tutorial/lista-de-controles-para-templates--tutorials_563) para as páginas da sua loja. 
+- __Exibir no menu da Home__: ao selecionar essa caixa, a marca aparecerá no menu da sua loja por meio do controle *Menu de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender mais sobre o uso de controles, acesse nosso artigo com a [lista de controles](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates--tutorials_563) para as páginas da sua loja. 
 
 - __Ativar a marca__: ao selecionar essa caixa, a marca fica visível e pronta para o uso nos produtos cadastrados.
 

@@ -1,17 +1,17 @@
 ---
 title: 'Gerenciando redirecionamentos de URL'
 id: 3UJuFrU8imSVWg134mkvJV
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-02-03T13:17:46.873Z
-updatedAt: 2025-07-01T18:03:07.603Z
+updatedAt: 2025-08-08T13:19:47.579Z
 publishedAt: 2025-07-01T18:03:07.603Z
 firstPublishedAt: 2022-02-03T14:42:10.000Z
 contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: managing-url-redirects
-locale: pt
 legacySlug: gerenciando-redirecionamentos-de-url
+locale: pt
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
 ---
 
@@ -23,9 +23,9 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 
 ## Antes de começar
 
-Para criar, editar ou apagar redirecionamentos, o usuário do Admin precisa ter um perfil de acesso com o [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. 
+Para criar, editar ou apagar redirecionamentos, o usuário do Admin precisa ter um perfil de acesso com o [recurso do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. 
 
-Você pode atribuir um perfil de acesso com o recurso ao usuário seguindo as instruções do artigo [Gerenciando usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios), ou criar um novo perfil de acesso que inclui o recurso seguindo as instruções do artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Você pode atribuir um perfil de acesso com o recurso ao usuário seguindo as instruções do artigo [Gerenciando usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios), ou criar um novo perfil de acesso que inclui o recurso seguindo as instruções do artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
 ## Criar redirects
 
@@ -34,12 +34,17 @@ Você pode atribuir um perfil de acesso com o recurso ao usuário seguindo as in
 1. No Admin VTEX, clique em **Storefront** >  **Redirecionamentos**.
 2. Clique em `Novo redirecionamento`.
 3. Preencha os campos a seguir: 
-**De**: insira a URL da página a partir da qual você deseja redirecionar os visitantes. A URL não deve conter o domínio, por exemplo: `/-máscara-regeneradora-algas-marinhas/p`.
-**Para**: insira a URL da página a qual você deseja redirecionar os visitantes. A URL não deve conter o domínio, por exemplo: `/condicionador-de-leite-ultra-hidratante/p`. 
+- **De**: insira a URL da página a partir da qual você deseja redirecionar os visitantes. A URL não deve conter o domínio, por exemplo: `/-máscara-regeneradora-algas-marinhas/p`.
+- **Para**: insira a URL da página a qual você deseja redirecionar os visitantes. A URL não deve conter o domínio, por exemplo: `/condicionador-de-leite-ultra-hidratante/p`. 
+
+<div class="alert alert-warning" role="alert">
+  Parâmetros QueryString (exemplo, <code>?key=value</code>) não são encaminhados em redirecionamentos por padrão.
+</div>
+
 4. Na caixa de seleção, indique se esse redirecionamento é temporário ou permanente. Caso seja temporário, é preciso definir a data final.
 5. Clique em `Salvar` para finalizar.
 
-![gerenciando redirecionamentos pt 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
+![gerenciando redirecionamentos pt 1](//images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
 
 ## Importar redirecionamento
 

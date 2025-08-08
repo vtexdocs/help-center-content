@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-does-vtex-search-work
-locale: pt
 legacySlug: como-funciona-a-busca-da-vtex
+locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
@@ -127,5 +127,5 @@ Resultado:
 A utilização de __palavras substitutas__, apesar de ter um peso baixo para a pontuação do indexador, é um recurso extremamente importante. Com esse recurso é possível atingir usuários que realizam buscas por termos gramaticalmente errados mas com a mesma semântica.
 
 ## Saiba mais
- - [Como funciona o campo Score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) 
+ - [Como funciona o campo Score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) 
 

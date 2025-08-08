@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slugEN: how-to-use-the-index-report
-locale: pt
 legacySlug: utilizar-o-relatorio-de-indexacao
+locale: pt
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 

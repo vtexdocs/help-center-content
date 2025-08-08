@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
 slugEN: what-to-do-when-i-need-to-use-for-a-product-words-that-may-be-ignored-by
-locale: pt
 legacySlug: o-que-fazer-quando-preciso-usar-para-um-produto-palavras-que-podem-ser
+locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 

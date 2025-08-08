@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: kit-registration
-locale: es
 legacySlug: cadastrando-kit
+locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
@@ -26,19 +26,19 @@ Un kit puede permitir o no que sus componentes se vendan por separado, entienda 
 
 Para configurar el Kit es necesario que los productos que harán parte de este – sus componentes – ya estén creados. Como en el siguiente ejemplo:
 
-![01-Componentes ES](https://images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
+![01-Componentes ES](//images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
 
 Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
 
 1. Cree el producto que se convertirá en el Kit. Vea [Registrar Producto
-](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para más información.
-2. Inicie las configuraciones del SKU que se convertirá en el Kit. Vea [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para más información.
+](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para más información.
+2. Inicie las configuraciones del SKU que se convertirá en el Kit. Vea [Registrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para más información.
 3. Haga clic en la pestaña __Configuraciones Avanzadas__.
 4. Haga clic en la opción `Activar Kit`.
 5. Si quiere un Kit Look, haga clic en la opción __Kit con ítems vendidos por separado__.
 6. Haga clic en `Guardar`.
 
-![02-kit ES](https://images.ctfassets.net/alneenqid6w5/6PUdHiV1UAuMC6A80QYOQI/e14209f28e53d84e8f1af4ecb6261bac/02-kit_ES.png)
+![02-kit ES](//images.ctfassets.net/alneenqid6w5/6PUdHiV1UAuMC6A80QYOQI/e14209f28e53d84e8f1af4ecb6261bac/02-kit_ES.png)
 
 ## Asociar componentes
 
@@ -53,9 +53,9 @@ Después de crear el producto que se convertirá en el Kit, deben asociarse los 
 7. Rellene el precio unitario del SKU dentro del Kit.
 6. Haga clic en `Guardar`.
 
-![03-agregar componente al Kit ES](https://images.ctfassets.net/alneenqid6w5/2ghV5EOOAQ4kQOIomsmusE/5f7f3a94ffb0df4b4cdb74f71373445a/03-add_component_to_kit_ES.gif)
+![03-agregar componente al Kit ES](//images.ctfassets.net/alneenqid6w5/2ghV5EOOAQ4kQOIomsmusE/5f7f3a94ffb0df4b4cdb74f71373445a/03-add_component_to_kit_ES.gif)
 
-![04-Kit en el carrito  TODO](https://images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
+![04-Kit en el carrito  TODO](//images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
 
 ## Peso del Kit
 
@@ -63,7 +63,7 @@ El peso del Kit estará conformado por la suma del peso de sus componentes. Edit
 
 ## Stock
 
-El [stock](/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
+El [stock](https://help.vtex.com/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
 
 Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 
@@ -84,8 +84,8 @@ También podrá modificar únicamente el precio final del Kit directamente desde
 Pero tenga en cuenta que al cambiar cualquier componente se generará un nuevo precio final, actualizando lo que se había registrado anteriormente.
 Alterar solo el precio final no actualiza el precio de los componentes.
 
-![06-Lista de precios ES](https://images.ctfassets.net/alneenqid6w5/4lM2ecWDE40Ooa44scKIq6/6fa14fb364430e3bfc2fa3fff64c8e96/06-price_list_ES.png)
+![06-Lista de precios ES](//images.ctfassets.net/alneenqid6w5/4lM2ecWDE40Ooa44scKIq6/6fa14fb364430e3bfc2fa3fff64c8e96/06-price_list_ES.png)
 
 ### Más información
 
-- [Ordenar los productos del kit look](/es/tutorial/como-ordenar-los-productos-del-kitlook--frequentlyAskedQuestions_621)
+- [Ordenar los productos del kit look](https://help.vtex.com/es/tutorial/como-ordenar-los-productos-del-kitlook--frequentlyAskedQuestions_621)

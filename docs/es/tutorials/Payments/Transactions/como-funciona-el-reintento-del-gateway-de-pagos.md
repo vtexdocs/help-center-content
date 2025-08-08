@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: how-does-payment-gateway-retry-work
-locale: es
 legacySlug: como-funciona-el-reintento-del-gateway-de-pagos
+locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

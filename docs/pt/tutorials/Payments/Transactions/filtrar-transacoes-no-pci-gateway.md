@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: filtering-transactions-on-pci-gateway
-locale: pt
 legacySlug: filtrar-transacoes-no-pci-gateway
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

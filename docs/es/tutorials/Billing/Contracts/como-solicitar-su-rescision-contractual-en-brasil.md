@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: how-to-request-your-contract-termination-in-brazil
-locale: es
 legacySlug: como-solicitar-su-rescision-contractual-brasil
+locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 

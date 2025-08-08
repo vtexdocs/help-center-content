@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-do-reversals-work-when-an-item-is-returned
-locale: pt
 legacySlug: como-funciona-estorno-quando-ha-devolucao-do-item
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -19,9 +19,9 @@ Quando é solicitada a [devolução parcial ou total dos itens](/pt/tutorial/com
 
 Nesse caso, a VTEX realiza sim o estorno no adquirente quando o valor já foi capturado (status `Faturado`). Funciona da seguinte forma: a VTEX entra em contato com o adquirente e tenta realizar o estorno online o quanto antes. 
 
-Contudo, caso essa operação não seja bem sucedida, será enviado [uma notificação via e-mail](/pt/tutorial/como-configurar-notificacoes?locale=pt "uma notificação via e-mail") informando ao lojista que será preciso contatar o adquirente para efetivar o estorno automático. 
+Contudo, caso essa operação não seja bem sucedida, será enviado [uma notificação via e-mail](https://help.vtex.com/pt/tutorial/como-configurar-notificacoes?locale=pt "uma notificação via e-mail") informando ao lojista que será preciso contatar o adquirente para efetivar o estorno automático. 
 
-Para saber mais, [clique aqui](/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente?locale=pt "clique aqui").
+Para saber mais, [clique aqui](https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente?locale=pt "clique aqui").
 
 ## A exceção do boleto
 

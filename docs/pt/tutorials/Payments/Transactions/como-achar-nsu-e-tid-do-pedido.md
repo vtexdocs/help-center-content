@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-do-i-find-the-order-nsu-and-tid
-locale: pt
 legacySlug: como-achar-nsu-e-tid-do-pedido
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

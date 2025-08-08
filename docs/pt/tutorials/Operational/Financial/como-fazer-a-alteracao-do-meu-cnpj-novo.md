@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-do-i-change-my-cnpj-new
-locale: pt
 legacySlug: como-fazer-a-alteracao-do-meu-cnpj
+locale: pt
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 

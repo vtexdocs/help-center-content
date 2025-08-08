@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: understanding-the-minimum-availability-rule
-locale: pt
 legacySlug: entendendo-a-regra-de-disponibilidade-minima
+locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 

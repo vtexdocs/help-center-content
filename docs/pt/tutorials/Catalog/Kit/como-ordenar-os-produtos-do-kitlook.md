@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-define-the-order-of-lookkit
-locale: pt
 legacySlug: como-ordenar-os-produtos-do-kitlook
+locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 

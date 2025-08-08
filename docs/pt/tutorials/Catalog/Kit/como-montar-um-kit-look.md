@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: how-to-assemble-a-look-kit
-locale: pt
 legacySlug: como-montar-um-kit-look
+locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 

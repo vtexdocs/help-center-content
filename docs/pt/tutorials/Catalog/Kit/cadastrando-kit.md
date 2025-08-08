@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: kit-registration
-locale: pt
 legacySlug: cadastrando-kit
+locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
@@ -20,24 +20,24 @@ Um kit é um conjunto de produtos que são vendidos juntos, ou seja, é um produ
 Um kit pode permitir ou não que seus componentes sejam vendidos separadamente, entenda as diferenças:
 
 - **Kit**: Em um kit, na página do produto, os componentes só podem ser vendidos no kit, ou seja, não podem ser vendidos separadamente. Se os componentes estiverem configurados para exibir no site, eles serão apresentados normalmente nas páginas de categoria, marca e nos resultados de busca, bem como em qualquer prateleira.
-- **Kit Look**: Em um kit look, todos os produtos componentes podem ser encontrados no site e vendidos fora do kit, ou seja, até mesmo na página de produto do kit look é possível comprar os itens separadamente, ou todos juntos. Leia [Montar um Kit Look](/pt/tutorial/como-montar-um-kit-look--tutorials_266) para mais informações sobre esse tipo de kit.
+- **Kit Look**: Em um kit look, todos os produtos componentes podem ser encontrados no site e vendidos fora do kit, ou seja, até mesmo na página de produto do kit look é possível comprar os itens separadamente, ou todos juntos. Leia [Montar um Kit Look](https://help.vtex.com/pt/tutorial/como-montar-um-kit-look--tutorials_266) para mais informações sobre esse tipo de kit.
 
 ## Criar produtos
 
 Para a configuração do kit é necessário que os produtos que irão fazer parte dele &#8211; seus componentes &#8211; já estejam criados. Confira o exemplo abaixo:
 
-![Componentes](https://images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
+![Componentes](//images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
 
 Após a criação dos produtos componentes, podemos seguir para a configuração do kit.
 
-1. Crie o produto que será o kit. Leia [Cadastrar Produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para saber mais sobre esse processo.
-2. Abra as configurações do SKU que será o kit. Leia [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para saber mais sobre esse processo.
+1. Crie o produto que será o kit. Leia [Cadastrar Produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para saber mais sobre esse processo.
+2. Abra as configurações do SKU que será o kit. Leia [Cadastrar SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para saber mais sobre esse processo.
 3. Clique na aba __Configurações Avançadas__.
 4. Clique na opção `Ativar Kit`.
 5. Caso queira um kit look, clique na opção __Kit com itens vendidos separadamente__.
 6. Clique em `Salvar`.
 
-![kit](https://images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
+![kit](//images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
 
 ## Associar componentes
 
@@ -52,9 +52,9 @@ Depois de criar o produto que será o kit, você precisa associar os componentes
 7. Preencha o preço unitário do SKU dentro do KIT.
 6. Clique em `Salvar`.
 
-![Adicionar componente ao kit](https://images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
+![Adicionar componente ao kit](//images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
 
-![Kit no carrinho](https://images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
+![Kit no carrinho](//images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
 
 ## Peso do kit
 
@@ -62,7 +62,7 @@ O peso do kit será formado pelo somatório do peso de seus componentes. Editar
 
 ## Inventário
 
-O [inventário](/pt/tutorial/inventory-management--tutorials_139) do kit sempre será o inventário de seus componentes. Ou seja, não é possível inserir inventário apenas no kit, é preciso inserir inventário em cada um de seus componentes independentes, a fim de atualizar o inventário do kit. Essa informação pode ser visualizada no Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
+O [inventário](https://help.vtex.com/pt/tutorial/inventory-management--tutorials_139) do kit sempre será o inventário de seus componentes. Ou seja, não é possível inserir inventário apenas no kit, é preciso inserir inventário em cada um de seus componentes independentes, a fim de atualizar o inventário do kit. Essa informação pode ser visualizada no Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
 
 Como todos os SKUs componentes do kit só podem ser vendidos juntos, o inventário do kit será igual ao SKU com menos itens em inventário. Quando um dos componentes não possui mais inventário, o kit não pode ser comprado.
 
@@ -84,8 +84,8 @@ Mas note que alterar qualquer componente irá gerar um novo preço final, atuali
 
 Alterar somente o preço final não atualiza o preço dos componentes.
 
-![Lista de preços](https://images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
+![Lista de preços](//images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
 
 ### Saiba mais
 
-- [Ordenar os produtos do Kit Look](/pt/tutorial/como-ordenar-os-produtos-do-kitlook--frequentlyAskedQuestions_621)
+- [Ordenar os produtos do Kit Look](https://help.vtex.com/pt/tutorial/como-ordenar-os-produtos-do-kitlook--frequentlyAskedQuestions_621)

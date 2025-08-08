@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: sending-products-to-the-marketplace
-locale: pt
 legacySlug: entendendo-a-catalogacao-de-produtos-para-o-marketplace
+locale: pt
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 

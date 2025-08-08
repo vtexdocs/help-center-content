@@ -10,16 +10,16 @@ contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: opening-tickets-to-vtex-support
-locale: pt
 legacySlug: abrir-chamados-para-o-suporte-vtex
+locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
+Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
-É necessário [habilitar a autorização de suporte](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
+É necessário [habilitar a autorização de suporte](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
 Confira a seguir as etapas descritas neste artigo:
 
@@ -46,7 +46,7 @@ O suporte técnico oferece orientações para solucionar problemas ou esclarecer
 Para solicitar suporte técnico, siga os passos abaixo e preencha as informações necessárias:
 
 ### 1. Realizar login na sua conta
-Na etapa inicial, autentique seu acesso ao [Admin VTEX](/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) para gerenciar as operações de comércio digital da sua loja.
+Na etapa inicial, autentique seu acesso ao [Admin VTEX](https://help.vtex.com/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) para gerenciar as operações de comércio digital da sua loja.
 
 ### 2. Acessar o Copilot
 O Copilot é uma ferramenta integrada à plataforma que facilita o suporte técnico. Por meio dela, você pode tirar dúvidas e solucionar problemas. Para acessar o Copilot e iniciar a interação com o suporte, siga os passos abaixo:
@@ -59,7 +59,7 @@ O Copilot é uma ferramenta integrada à plataforma que facilita o suporte técn
    - Tenho um cenário inesperado.
    - Preciso de uma configuração por parte da VTEX.
 
-![Chatbot-PT](https://images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/74ecf0d07b35057f1d2a82da9486d19e/copilot-pt.gif)
+![Chatbot-PT](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/74ecf0d07b35057f1d2a82da9486d19e/copilot-pt.gif)
 
 ### 3. Conversar com o Copilot
 Para que o Copilot ofereça a assistência correta, forneça as seguintes informações ao solicitar ajuda:
@@ -122,12 +122,12 @@ Para solicitar suporte financeiro ou comercial, siga os passos abaixo e forneça
 ### 1. Realizar login no suporte VTEX
 Nessa etapa inicial, você deverá autenticar seu acesso ao Suporte VTEX. Siga os passos a seguir:
 
-1. Acesse o [Suporte VTEX](/pt/support).
+1. Acesse o [Suporte VTEX](https://help.vtex.com/pt/support).
 2. Escolha uma opção para autenticar sua conta, são três opções disponíveis:
 
    - Acesso por *token*, enviado para o email cadastrado na loja.
    - Login com o Google.
-   - Login usando email e senha, que exige [autenticação de 2 fatores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores) por aplicativo ou SMS.
+   - Login usando email e senha, que exige [autenticação de 2 fatores](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores) por aplicativo ou SMS.
 
 Depois de realizar a autenticação, você será direcionado à próxima etapa.
 
@@ -162,7 +162,7 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 #### Comercial
-O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [ambientes adicionais](/pt/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) ou à [alteração de usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) com o perfil Sponsor user (Master Admin user).
+O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [ambientes adicionais](https://help.vtex.com/pt/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) ou à [alteração de usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) com o perfil Sponsor user (Master Admin user).
 
 Para solicitar esse tipo de suporte, siga os passos abaixo:
 
@@ -188,5 +188,5 @@ Os status possíveis são:
 - **Resolvido:** chamado solucionado pelo agente do suporte ou pelo cliente. O cliente tem 27 horas úteis para reabrir o chamado respondendo ao email do suporte ou acessando o **Histórico de solicitações**. Caso contrário, o chamado será fechado.
 - **Fechado:** chamado marcado como resolvido e fechado automaticamente após 27 horas úteis sem nova interação. Não pode ser reaberto.
 
-Após a resolução do chamado, a equipe de suporte enviará um email com um link para a [Pesquisa de Satisfação](/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Por meio dessa pesquisa, você pode avaliar o atendimento sem sair do ambiente VTEX e contribuir para a melhoria contínua do suporte.
+Após a resolução do chamado, a equipe de suporte enviará um email com um link para a [Pesquisa de Satisfação](https://help.vtex.com/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Por meio dessa pesquisa, você pode avaliar o atendimento sem sair do ambiente VTEX e contribuir para a melhoria contínua do suporte.
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: can-i-use-a-customized-stock-in-the-marketplace
-locale: pt
 legacySlug: posso-usar-estoque-personalizado-no-marketplace
+locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
@@ -21,4 +21,4 @@ Dessa forma, esse estoque pode ser o mesmo adotado pela loja principal ou um esp
 
 ## Usando um estoque personalizado
 
-Configurar um estoque personalizado significa adotar prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma [nova política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) e uma [nova regra de logística para marketplace](/pt/tutorial/configurando-logistica-para-marketplace/).
+Configurar um estoque personalizado significa adotar prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma [nova política comercial](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) e uma [nova regra de logística para marketplace](https://help.vtex.com/pt/tutorial/configurando-logistica-para-marketplace/).

@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: selecting-stock-for-orders-mercado-envios-full
-locale: pt
 legacySlug: selecionando-estoque-para-pedidos-do-mercado-envios-full
+locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
 [Mercado Envios Full](https://envios.mercadolivre.com.br/mercado-envios-full) é um serviço oferecido pelo Mercado Livre no qual o estoque o envio de produtos ao consumidor final fica sob responsabilidade do Mercado Livre. Cada vez que uma venda é completada, os produtos comprados são separados, empacotados e enviados dentro de 24hs.
 
-É possível integrar esse serviço à sua loja através do [cadastro de um estoque](/pt/tutorial/gerenciar-estoque) dedicado. Essa integração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Livre Full é atualizada automaticamente conforme a venda é realizada.
+É possível integrar esse serviço à sua loja através do [cadastro de um estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque) dedicado. Essa integração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Livre Full é atualizada automaticamente conforme a venda é realizada.
 
 ## Configurando o Mercado Envios Full
 
@@ -32,4 +32,4 @@ Com o estoque já cadastrado, siga os passos a seguir:
 7. Insira o ID do estoque selecionado no campo **Armazém Mercado Full**.
 8. Clique em **Salvar Configuração**.
 
-![Início (3)](https://images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)
+![Início (3)](//images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)

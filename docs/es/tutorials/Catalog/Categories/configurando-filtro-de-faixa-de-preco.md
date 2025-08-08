@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: setting-up-the-price-range-filter
-locale: es
 legacySlug: configurando-filtro-de-faixa-de-preco
+locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -20,7 +20,7 @@ Importantísimas para navegación y búsqueda de los productos deseados en la ti
 
 El registro es sencillo y se pueden determinar diferentes rangos de precios para categorías, conforme a la imagen abajo:
 
-![faixa-de-preço es](https://images.ctfassets.net/alneenqid6w5/2j45MP5kMsA02YeMgMCy2y/9fa923fbae98e90882fabff0e2f7cf17/faixa-de-pre__o_es.png)
+![faixa-de-preço es](//images.ctfassets.net/alneenqid6w5/2j45MP5kMsA02YeMgMCy2y/9fa923fbae98e90882fabff0e2f7cf17/faixa-de-pre__o_es.png)
 
 Dentro de Fajas de Precio, haga clic en “Nuevo rango de precio” y rellene los campos:
 

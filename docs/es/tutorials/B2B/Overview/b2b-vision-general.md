@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slugEN: b2b-overview
-locale: es
 legacySlug: vision-general
+locale: es
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
 ---
 
@@ -36,4 +36,4 @@ En el ecommerce, el modelo B2B generalmente presenta tres tipos de experiencias 
 ## Sepa más
 
 [Cómo configurar una tienda B2B de autoservicio.
-](/pt/tutorial/configurar-loja-b2b-self-service--4576nMaRKk4madDZ7liiXS "Como configurar loja B2B self-service")
+](https://help.vtex.com/pt/tutorial/configurar-loja-b2b-self-service--4576nMaRKk4madDZ7liiXS "Como configurar loja B2B self-service")

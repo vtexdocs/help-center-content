@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-mercado-livre-integration
-locale: pt
 legacySlug: erros-de-integracao-de-pedidos-do-mercado-livre
+locale: pt
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
@@ -23,7 +23,7 @@ No Mercado Livre, há erros de integração de pedidos que ocorrem com mais freq
 
 `Pedido não importado pois o SLA de entrega selecionado para o mesmo não está disponível`
 
-Erros de SLA significam que um fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
+Erros de SLA significam que um fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
 
 ____
 
@@ -47,7 +47,7 @@ ____
 
 `Order with SKU out of stock`
 
-Há diversas causas para erros relacionados à falta ou insuficiência de estoque. Para identificar a origem do erro e corrigi-lo, confira [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP).
+Há diversas causas para erros relacionados à falta ou insuficiência de estoque. Para identificar a origem do erro e corrigi-lo, confira [Erros de falta de estoque na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP).
 
 ____
 
@@ -55,9 +55,9 @@ ____
 
 `Order with SKU inactive or out of sales channel`
 
-Somente pedidos de SKUs ativos são integrados, portanto, verifique o _status_ do item no seu Admin VTEX, no módulo **Catálogo > Produtos e SKUs**. É possível ativar o SKU ao [Preencher campos de cadastro de SKU](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), ou [Ativar SKUs em massa](/pt/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+Somente pedidos de SKUs ativos são integrados, portanto, verifique o _status_ do item no seu Admin VTEX, no módulo **Catálogo > Produtos e SKUs**. É possível ativar o SKU ao [Preencher campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), ou [Ativar SKUs em massa](https://help.vtex.com/pt/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
 
-Se os SKUs do pedido estiverem ativos, isso significa que o problema é os SKUs não estarem vinculados à política comercial usada no Mercado Livre. Neste caso, é necessário [associar o SKU à política comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+Se os SKUs do pedido estiverem ativos, isso significa que o problema é os SKUs não estarem vinculados à política comercial usada no Mercado Livre. Neste caso, é necessário [associar o SKU à política comercial](https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
 
 ____
 
@@ -65,7 +65,7 @@ ____
 
 `Taxes are diferents from store desired values`
 
-Se o preço de um produto no Mercado Livre for diferente daquele configurado na plataforma VTEX, o pedido não será integrado. Para identificar a origem do erro e corrigi-lo, confira [Resolução de erros de divergência de preço em pedido de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8).
+Se o preço de um produto no Mercado Livre for diferente daquele configurado na plataforma VTEX, o pedido não será integrado. Para identificar a origem do erro e corrigi-lo, confira [Resolução de erros de divergência de preço em pedido de marketplace](https://help.vtex.com/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8).
 
 ____
 
@@ -77,8 +77,8 @@ Esta mensagem sinaliza que o _token_ usado na integração está expirado ou des
 
 ### Saiba mais
 
-- [Integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Mercado Livre: FAQ](/pt/tutorial/mercado-livre-faq--3w4IgSgKZOocGee8cgSWW0)
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Integração com o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
+- [Mercado Livre: FAQ](https://help.vtex.com/pt/tutorial/mercado-livre-faq--3w4IgSgKZOocGee8cgSWW0)
+- [Erros de falta de estoque na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Erros de SLA na integração de pedidos de marketplace](https://help.vtex.com/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
+- [Resolução de erros de divergência de preço em pedidos de marketplace](https://help.vtex.com/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)

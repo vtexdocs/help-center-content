@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: what-is-order-configuration
-locale: pt
 legacySlug: o-que-e-order-configuration
+locale: pt
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4
 ---
 
@@ -30,7 +30,7 @@ Para instalar o aplicativo do Order Configuration no seu Admin, acesse a [nossa 
 
 Depois de instalado, as configurações de uso do Order Configuration são definidos na [API Price Simulations](https://developers.vtex.com/reference/price-simulations-api-overview).
 
-Por API, você deve associar uma [tabela de preços](/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) a cada cenário, criando uma correlação entre os dois. Dessa forma, quando o usuário for configurar suas condições de compra, ele receberá os preços referentes àquela regra.
+Por API, você deve associar uma [tabela de preços](https://help.vtex.com/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) a cada cenário, criando uma correlação entre os dois. Dessa forma, quando o usuário for configurar suas condições de compra, ele receberá os preços referentes àquela regra.
 
 Caso o usuário configure um cenário que não apresente nenhuma tabela de preços associada, será usada uma tabela de preços default.
 

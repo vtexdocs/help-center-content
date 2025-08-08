@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: how-to-temporarily-unblock-the-admin
-locale: pt
 legacySlug: como-desbloquear-temporariamente-o-admin
+locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
@@ -21,7 +21,7 @@ O bloqueio do Admin ocorre quando há atraso no pagamento das faturas. Enquanto 
 Para realizar esse procedimento, é necessário ter uma das seguintes permissões:
 
 - Admin Super
-- Perfil de [Acesso Financeiro](/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv?locale=pt)
+- Perfil de [Acesso Financeiro](https://help.vtex.com/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv?locale=pt)
 
 ## Solicitação de desbloqueio
 1. No Admin VTEX, acesse **Faturas.**

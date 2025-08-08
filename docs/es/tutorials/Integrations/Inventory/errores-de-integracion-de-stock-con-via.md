@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: via-inventory-integration-errors
-locale: es
 legacySlug: errores-de-integracion-de-stock-con-via
+locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 

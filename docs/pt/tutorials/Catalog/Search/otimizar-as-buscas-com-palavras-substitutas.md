@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slugEN: how-to-optimize-searches-with-substitute-words
-locale: pt
 legacySlug: otimizar-as-buscas-com-palavras-substitutas
+locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 

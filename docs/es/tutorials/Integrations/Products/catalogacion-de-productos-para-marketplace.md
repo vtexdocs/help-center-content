@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: sending-products-to-the-marketplace
-locale: es
 legacySlug: catalogacion-de-productos-para-marketplace
+locale: es
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 

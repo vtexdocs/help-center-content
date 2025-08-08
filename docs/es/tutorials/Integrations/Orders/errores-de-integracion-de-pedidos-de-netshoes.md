@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-netshoes-integration
-locale: es
 legacySlug: errores-de-integracion-de-pedidos-de-netshoes
+locale: es
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 

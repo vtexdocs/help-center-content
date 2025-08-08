@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slugEN: connecting-to-retailers-and-marketplaces-using-vtex-network
-locale: es
 legacySlug: conectandose-a-comerciantes-y-marketplaces-por-el-vtex-Network
+locale: es
 subcategoryId: 54gbzsku02c4bKmgFbp3v3
 ---
 

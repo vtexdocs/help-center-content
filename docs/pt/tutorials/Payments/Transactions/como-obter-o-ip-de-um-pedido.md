@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
 slugEN: how-to-capture-the-ip-of-an-order
-locale: pt
 legacySlug: como-obter-o-ip-de-um-pedido
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -21,11 +21,11 @@ Para saber qual o IP de um cliente que realizou um pedido na sua loja, basta ana
 
 Ao abrir um pedido, clique em __"Ver detalhes da transação"__ na caixa de pagamento:
 
-![ip pedido1 PT](https://images.ctfassets.net/alneenqid6w5/6aXWqGSs9OSiaWaG4SYYcI/21acf3d8aa03a1d1133c776b85b76f09/ip_pedido1_PT.png)
+![ip pedido1 PT](//images.ctfassets.net/alneenqid6w5/6aXWqGSs9OSiaWaG4SYYcI/21acf3d8aa03a1d1133c776b85b76f09/ip_pedido1_PT.png)
 
 O IP pode ser visualizado na parte superior direita:
 
-![ip pedido2 PT](https://images.ctfassets.net/alneenqid6w5/5GWGCRtMWIMM0OwW86MeWG/4e4097ce9a8c5acdc388efac9ef38b9c/ip_pedido2_PT.png)
+![ip pedido2 PT](//images.ctfassets.net/alneenqid6w5/5GWGCRtMWIMM0OwW86MeWG/4e4097ce9a8c5acdc388efac9ef38b9c/ip_pedido2_PT.png)
 
 Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/tutorial/como-visualizar-detalhes-do-pedido)
 

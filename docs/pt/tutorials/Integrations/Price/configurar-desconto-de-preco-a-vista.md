@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-a-discount-for-orders-prepaid-in-full
-locale: pt
 legacySlug: configurar-desconto-de-preco-a-vista
+locale: pt
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 
@@ -33,7 +33,7 @@ Depois de determinar o desconto no Checkout, é preciso atrelar o SKU ao meio de
 3. Clique no template da sua página de produto na lista de templates.
 4. Na propriedade `skuPrice`, adicione a variável `paymentSystemId` com o ID do meio de pagamento desejado.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
+![Screenshot 2020-12-18 Criar preço à vista](//images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Após a alteração, clique em __Save Template__ no campo superior para salvar.
 
@@ -44,4 +44,4 @@ Para as lojas desenvolvidas com o VTEX IO, essa funcionalidade está disponível
 
 ## Artigos relacionados
 
-[Configurar desconto de  preço à vista para Google Shopping](/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configurar desconto de  preço à vista para Google Shopping](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)

@@ -10,16 +10,16 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: received-skus-beta
-locale: pt
 legacySlug: anuncios-recebidos
+locale: pt
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-A página **SKUs recebidos** permite que o [marketplace](/pt/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda. Acesse a página no Admin VTEX em **Marketplace > SKUs recebidos**  ou digite **SKUs recebidos** na barra de busca do Admin.  
+A página **SKUs recebidos** permite que o [marketplace](https://help.vtex.com/pt/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda. Acesse a página no Admin VTEX em **Marketplace > SKUs recebidos**  ou digite **SKUs recebidos** na barra de busca do Admin.  
 
-A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
+A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
 
-![Apresentação Anúncios Recebidos-PT](https://downloads.ctfassets.net/alneenqid6w5/1qyRLboXsLXCwaoT3xfSwI/9882db31e2a68ebe127532f24cf4bcae/GIF_PT.gif)  
+![Apresentação Anúncios Recebidos-PT](//downloads.ctfassets.net/alneenqid6w5/1qyRLboXsLXCwaoT3xfSwI/9882db31e2a68ebe127532f24cf4bcae/GIF_PT.gif)  
 
 Neste artigo você encontrará uma visão geral sobre a [Estrutura da página](#estrutura-da-pagina), [Priorizando a catalogação](#priorizando-a-catalogacao) e [Catalogação de itens](#catalogacao-de-itens).  
 
@@ -50,7 +50,7 @@ Cada linha da lista representa um produto com as seguintes informações:
 
 Para verificar todas as especificações de um produto, clique sobre o nome do produto desejado e uma nova janela abrirá com todas as informações daquele produto.  
 
-![pendentes-info-produto-PT](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ea57f537bcad436fad6a45286adc7840/pendentes-info-produto-PT.png)  
+![pendentes-info-produto-PT](//images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ea57f537bcad436fad6a45286adc7840/pendentes-info-produto-PT.png)  
 
 ### Problemas
 
@@ -62,7 +62,7 @@ A ação pedir correção não está disponível na seção <b>Problemas.</b>
 
 Para identificar qual o problema de um anúncio, basta clicar no nome do produto desejado. Uma nova janela será exibida com as informações referentes ao produto, a mensagem de erro e o revisor do anúncio.  
 
-![skus-recebidos-janela-problemas-pt](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/4e29273e9959579dd2542a84ab29c185/anuncios-problemas-pt.png)
+![skus-recebidos-janela-problemas-pt](//images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/4e29273e9959579dd2542a84ab29c185/anuncios-problemas-pt.png)
 
 ### Aprovados
 
@@ -121,11 +121,11 @@ Por padrão, os itens com envios mais recentes são os primeiros a serem listado
 
 Nesse caso, os itens serão ordenados de forma crescente ou decrescente ao clicar em **"Preço"** ou **"Estoque"** no cabeçalho.  
 
-![ordenacao-PT](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/1f5cbbbae8c8b969fcabcfd531e57d95/ordenacao-PT.png)  
+![ordenacao-PT](//images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/1f5cbbbae8c8b969fcabcfd531e57d95/ordenacao-PT.png)  
 
 ## Catalogação de itens
 
-Todos os SKUs exibidos na lista já estão disponíveis para catalogação. Entretanto, recomenda-se realizar o [mapeamento de categorias e marcas](/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes desse passo para que o processo de catalogação seja mais rápido.  
+Todos os SKUs exibidos na lista já estão disponíveis para catalogação. Entretanto, recomenda-se realizar o [mapeamento de categorias e marcas](https://help.vtex.com/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes desse passo para que o processo de catalogação seja mais rápido.  
 
 <div class="alert alert-warning">
 Os anúncios presentes na seção Pendentes permanecem disponíveis por apenas 30 dias. Depois desse período, elas expiram automaticamente e o Seller precisará enviar novamente.
@@ -164,7 +164,7 @@ Cria um SKU novo no catálogo e, consequentemente, um novo produto. Recomenda-se
   3. Preencha os campos **Categoria** e **Marca** para cada produto. Caso o mapeamento tenha sido realizado previamente, esses campos já estarão preenchidos.  
   4. Clique em `Aprovar`.  
 
-![criar-novos-produtos-PT](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/07a3e80b2b4143779da1ebfdd29729a7/criar-novos-produtos-PT.png)  
+![criar-novos-produtos-PT](//images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/07a3e80b2b4143779da1ebfdd29729a7/criar-novos-produtos-PT.png)  
 
 <div class="alert alert-info">
 Esta ação pode ser realizada nas seções de anúncios <b>Pendentes</b> e <b>Problemas</b>.
@@ -179,7 +179,7 @@ Cria uma relação entre o produto do seller e um produto que já existe no cat�
   3. Preencha o ID do produto ao qual será associado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-produto-PT](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/d2130d8af5d5de678c36a6821316c09a/associar-a-produto-PT.png)  
+![associar-a-produto-PT](//images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/d2130d8af5d5de678c36a6821316c09a/associar-a-produto-PT.png)  
 
 **Caso de uso**
 
@@ -200,7 +200,7 @@ Cria uma relação entre o novo SKU do seller e um SKU que já existe no catálo
   3. Preencha o **ID do SKU** a associar para cada SKU que está sendo aprovado.  
   4. Clique em `Aprovar`.  
 
-![associar-a-sku-PT](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/9a4c3fdb8049f6825fe752baae239b52/associar-a-sku-PT.png)  
+![associar-a-sku-PT](//images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/9a4c3fdb8049f6825fe752baae239b52/associar-a-sku-PT.png)  
 
 **Caso de uso**
 
@@ -221,7 +221,7 @@ Bloqueia os anúncios selecionados e estes não serão mais reprocessados automa
   3. Preencha o campo **Motivo de bloqueio.** O preenchimento é opcional.  
   4. Clique em `Recusar`.  
 
-![recusar-e-bloquear-PT](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/35b8c59c3b4284047fba1882372c8e88/recusar-e-bloquear-PT.png)  
+![recusar-e-bloquear-PT](//images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/35b8c59c3b4284047fba1882372c8e88/recusar-e-bloquear-PT.png)  
 
 Quando um SKU é bloqueado pelo marketplace, significa que na próxima vez que o seller enviar seus produtos, aqueles que foram bloqueados não estarão mais em meio aos enviados. É possível desbloquear um SKU por API REST, se o marketplace deseja voltar a recebê-lo como sugestão do seller.  
 
@@ -240,7 +240,7 @@ Rejeita o anúncio e envia para o seller a solicitação de correção de inform
   3. Preencha o campo **correções** com a informação a ser corrigida pelo seller.  
   4. Clique em `Recusar`.  
 
-![recusar-e-corrigir-PT](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/e53cdbf195194a408fb05f790f812083/recusar-e-corrigir-PT.png)  
+![recusar-e-corrigir-PT](//images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/e53cdbf195194a408fb05f790f812083/recusar-e-corrigir-PT.png)  
 
 <div class="alert alert-info">
 Esta ação pode ser realizada nas seções de anúncios <b>Pendentes</b>. Os anúncios para correção serão exibidos na seção <b>Problemas</b>.

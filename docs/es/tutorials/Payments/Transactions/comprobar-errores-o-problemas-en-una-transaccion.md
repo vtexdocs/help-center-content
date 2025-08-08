@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: checking-for-errors-or-problems-in-a-transaction
-locale: es
 legacySlug: comprobar-errores-o-problemas-en-una-transaccion
+locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -27,7 +27,7 @@ El gateway de VTEX puede comunicarse con adquirentes, subadquirentes, antifraude
 
 ## Comprobar el status de la transacción
 
-Para comprobar el __status actual__ de una transacción, basta con buscar en la línea de tiempo por la *caja en la parte superior de la pantalla con un círculo verde del lado izquierdo*. [En este artículo](/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=es "En este artículo"), hay la explicación de cada uno de los status de una transacción exitosa. Si la transacción tiene algún problema, su status final será __Cancelled__.
+Para comprobar el __status actual__ de una transacción, basta con buscar en la línea de tiempo por la *caja en la parte superior de la pantalla con un círculo verde del lado izquierdo*. [En este artículo](https://help.vtex.com/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=es "En este artículo"), hay la explicación de cada uno de los status de una transacción exitosa. Si la transacción tiene algún problema, su status final será __Cancelled__.
 
 ## Comprobar los mensajes de respuesta de los socios
 

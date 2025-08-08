@@ -10,18 +10,18 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slugEN: requesting-a-new-environment
-locale: es
 legacySlug: comprar-y-acceder-su-ambiente
+locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Para contratar un nuevo entorno VTEX, ponte en contacto con nuestro [Soporte](/es/support) seleccionando la opción Comercial y el tipo de ticket `Crear entorno adicional`. Para saber más, consulta el artículo [Abrir tickets con el Soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para contratar un nuevo entorno VTEX, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support) seleccionando la opción Comercial y el tipo de ticket `Crear entorno adicional`. Para saber más, consulta el artículo [Abrir tickets con el Soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 La creación de un nuevo entorno puede generar costos adicionales, según lo estipulado en tu contrato. En caso de que ese costo no esté previsto, indícalo en el ticket para que se incluya una adenda al contrato.
 
 VTEX realiza el aprovisionamiento de nuevos entornos sin configuración ni contenido replicado del entorno principal. Después de crear el entorno, debes configurarlo y personalizarlo: agregar productos, políticas comerciales, layout e integraciones que respondan a tus necesidades.
 
-Para registrar una tienda de ecommerce independiente de la existente y asociar el mismo catálogo a un dominio de URL diferente, configura una [multitienda](/es/tutorial/como-criar-multiloja-multidominio--tutorials_510). Esta opción no genera costo adicional.
+Para registrar una tienda de ecommerce independiente de la existente y asociar el mismo catálogo a un dominio de URL diferente, configura una [multitienda](https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510). Esta opción no genera costo adicional.
 
 ## Información necesaria para abrir el ticket
 Al solicitar un nuevo entorno, incluye la siguiente información:

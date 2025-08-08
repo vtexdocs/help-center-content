@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-manage-the-kit-stock
-locale: es
 legacySlug: como-gestionar-el-inventario-del-kit
+locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 

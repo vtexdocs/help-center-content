@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-the-period-considered-for-calculating-my-billing
-locale: es
 legacySlug: cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda
+locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 

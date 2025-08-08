@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: accounts-payable-brazil
-locale: es
 legacySlug: procedimientos-de-cuentas-a-pagar
+locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 

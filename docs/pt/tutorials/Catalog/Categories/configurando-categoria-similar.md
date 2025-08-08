@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: setting-up-similar-categories
-locale: pt
 legacySlug: configurando-categoria-similar
+locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -31,8 +31,8 @@ Da mesma maneira, se filtrar por __Jarras de vidro__ na categoria __Jarras__, vo
 
 O passo a passo para configurar categoria similar no produto é o seguinte:
 
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
-2. Clique na linha do produto desejado, ou clique no menu três pontos > `Editar produto`. Caso esteja criando o produto, confira o artigo [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](https://help.vtex.com/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+2. Clique na linha do produto desejado, ou clique no menu três pontos > `Editar produto`. Caso esteja criando o produto, confira o artigo [Adicionar ou editar produto](https://help.vtex.com/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
 3. Na seção **Frente de loja**, adicione as categorias desejadas no campo **Categorias similares**.
 4. Clique em `Salvar`.
 

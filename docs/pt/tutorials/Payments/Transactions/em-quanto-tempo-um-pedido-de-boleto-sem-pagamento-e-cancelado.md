@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto
-locale: pt
 legacySlug: em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado
+locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -47,7 +47,7 @@ O prazo de vencimento da reserva do estoque é o **prazo de expiração do bolet
 - **Cinco dias corridos**: quando a data de expiração do boleto for quarta, quinta ou sexta.
 - **Seis dias corridos**: quando a data de expiração do boleto for sábado.
 
-Para mais informações sobre a reserva de produtos, acesse [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona--tutorials_92).
+Para mais informações sobre a reserva de produtos, acesse [Como a reserva funciona](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92).
 
 ## Prazo para cancelamento do pedido
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: creating-a-product-collection
-locale: es
 legacySlug: creando-colecciones-de-productos
+locale: es
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
@@ -25,7 +25,7 @@ Para crear una colección, siga las siguientes instrucciones:
 2. Haga clic en **Layout**.
 3. Haga clic en **Product Clusters (Collections)**.
 4. Haga clic en el botón `new collection`, como se muestra a continuación.
-	![Layout 4](https://images.ctfassets.net/alneenqid6w5/2qvwI8D3FKuEuyCaEEcu4I/4add6510a4fa136243f35bebabcaf14a/Layout_4.png)
+	![Layout 4](//images.ctfassets.net/alneenqid6w5/2qvwI8D3FKuEuyCaEEcu4I/4add6510a4fa136243f35bebabcaf14a/Layout_4.png)
 5. Rellene la información requerida:
 	- **Product Cluster Id:** código identificador de la colección. Este campo no debe rellenarse ya que el sistema lo genera automáticamente al guardar.
 	- **Nombre:** nombre de la colección.
@@ -49,17 +49,17 @@ Cada grupo puede ser de uno de los siguientes tipos: __Inclusión__ o __Exclusi�
 
 Para crear el Grupo, basta hacer clic en el botón _new group_ como en el ejemplo de la imagen abajo.
 
-![Layout 5](https://images.ctfassets.net/alneenqid6w5/5VJuruDOfKeWYG22Kumoy/402839b1a455f205bab5ab01c34c6230/Layout_5.png)
+![Layout 5](//images.ctfassets.net/alneenqid6w5/5VJuruDOfKeWYG22Kumoy/402839b1a455f205bab5ab01c34c6230/Layout_5.png)
 
 Para agregar todos los productos de un determinado Departamento a un grupo, basta con seleccionar el Departamento en cuestión, como indica el ítem 1 de la figura a seguir. Lo mismo se aplica a los productos de una determinada Categoría (ítem 2) o subcategoría (ítem 3).
 
-![Filtro_por_categoria](https://images.ctfassets.net/alneenqid6w5/ZOZAoB8tWKM4cuYaYw6W2/401a088fe3392fa4b769cc7b667daf77/Filtro_por_categoria.jpg)
+![Filtro_por_categoria](//images.ctfassets.net/alneenqid6w5/ZOZAoB8tWKM4cuYaYw6W2/401a088fe3392fa4b769cc7b667daf77/Filtro_por_categoria.jpg)
 
 ### Crear Grupo por Marca
 
 Para crear un grupo con productos de una o más marcas, basta con seleccionar la marca deseada en la lista correspondiente. Las marcas se encuentran dispuestas en orden alfabética y al hacer clic en la letra correspondiente a la inicial de la marca, la lista se despliega y exhibe las marcas existentes.
 
-![FIltro_por_marca](https://images.ctfassets.net/alneenqid6w5/2IsMy84TvOyeKWaKkWAMYS/9af2b71095ed38b958e48976b2415b67/FIltro_por_marca.jpg)
+![FIltro_por_marca](//images.ctfassets.net/alneenqid6w5/2IsMy84TvOyeKWaKkWAMYS/9af2b71095ed38b958e48976b2415b67/FIltro_por_marca.jpg)
 
 ### Definir Grupo por productos en preventa o en periodo de lanzamiento
 
@@ -73,7 +73,7 @@ Estas opcciones son un <em>complemento</ em> a la elección de los productos. Es
 
 Al contrario de la versión anterior, en la que la inclusión de productos específicos se hacía a partir del ID del Producto, en el nuevo módulo, las inclusiones manuales se hacen usándose el SKU de un producto. En el campo correspondiente es posible digitar el ID de un SKU o de varios, separando los valores con una coma. Ej: `2000004,2000009,2000005`. Pese a la diferencia en la forma del registro, en la práctica, el efecto será el mismo, ya que al asociar un SKU a un grupo, el producto “padre” de este también será agregado a la colección. En caso que un producto tenga más de un SKU, basta con agregar uno de los SKUs al grupo, que todos los SKUs asociados se incluirán en él. El campo de inclusión de los IDs no permite la digitación de caracteres alfanuméricos, ni la utilización de la combinación de teclas `Control + C` y `Control + V`. Además, cuando el número de SKUs en el listado ultrapase los 10 ítems, un control de paginación se hará disponible. Para excluir un SKU de la lista, basta con hacer clic en el botón rojo al lado del SKU correspondiente.
 
-![Inserir_sku_espec_fico](https://images.ctfassets.net/alneenqid6w5/u6q7VRW8YSsMs82IICgW6/71728c7bbdd6a12f0bb9c9b5cd84f2f2/inserir-sku-especifico.gif)
+![Inserir_sku_espec_fico](//images.ctfassets.net/alneenqid6w5/u6q7VRW8YSsMs82IICgW6/71728c7bbdd6a12f0bb9c9b5cd84f2f2/inserir-sku-especifico.gif)
 
 ### Importar un listado de SKUS para el grupo
 
@@ -81,7 +81,7 @@ Pese a que los filtros de grupos son muy prácticos para crear agrupamientos de 
 
 ![](https://images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
 
-Después que el sistema importa la planilla, los SKUs se presentan de la siguiente forma: ![Importar_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/opkyzS2xKCMecIU0c04Iu/ac8b3e545d02267630712b00b3e532f9/Importar_lista_de_skus.gif)
+Después que el sistema importa la planilla, los SKUs se presentan de la siguiente forma: ![Importar_lista_de_skus](//images.ctfassets.net/alneenqid6w5/opkyzS2xKCMecIU0c04Iu/ac8b3e545d02267630712b00b3e532f9/Importar_lista_de_skus.gif)
 
 SKUs que estén inactivos no tendrán sus IDs importados, aunque estén incluidos en la planilla.
 
@@ -91,12 +91,12 @@ Recuerde que, cuando se selecciona más de un tipo de grupos, sólo los producto
 
 Para evitar que un administrador tenga que excluir manualmente diversos SKUs, uno por uno, es posible usar también el recurso de importación de SKUs de la misma forma como en el ejemplo arriba. En este caso, después que el archivo se cargue, haga clic en la opción _excluir skus_ (ítem 1 de la imagen).
 
-![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
+![Excluir_lista_de_skus](//images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
+Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
 
 ## Búsqueda de coleciones
 
 Cuando la cantidad de colecciones creadas exceda el límite de exhibición, que es veinte ítems, las colecciones podrán ser encontradas a través del campo de búsqueda. La búsqueda debe hacerse con base en el nombre de la colección.
 
-![Pesquisar_cole__o](https://images.ctfassets.net/alneenqid6w5/31zMp3YFmUYY0OeyYuIK6I/89e92a9049c0a0af6ce9e7ba6d415e0b/pesquisar_colecao.gif)
+![Pesquisar_cole__o](//images.ctfassets.net/alneenqid6w5/31zMp3YFmUYY0OeyYuIK6I/89e92a9049c0a0af6ce9e7ba6d415e0b/pesquisar_colecao.gif)

@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: deactivating-and-reorganizing-categories
-locale: pt
 legacySlug: inativando-e-reorganizando-categorias
+locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](/pt/tutorial/cadastrando-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
+A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](https://help.vtex.com/pt/tutorial/cadastrando-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
 
 * [Inativar uma categoria](#inativar-uma-categoria)
 * [Alterar a ordem de subcategorias](#alterar-a-ordem-de-subcategorias)
@@ -72,5 +72,5 @@ Para movimentar uma categoria sem causar erros ou perder informações, siga o p
 
 ## Saiba mais
 
-* [Categorias - Definição de conceito](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Cadastrar uma Categoria](/pt/tutorial/cadastrar-uma-categoria--tutorials_206)
+* [Categorias - Definição de conceito](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Cadastrar uma Categoria](https://help.vtex.com/pt/tutorial/cadastrar-uma-categoria--tutorials_206)

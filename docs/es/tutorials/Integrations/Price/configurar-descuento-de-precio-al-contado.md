@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-a-discount-for-orders-prepaid-in-full
-locale: es
 legacySlug: configurar-descuento-de-precio-al-contado
+locale: es
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 
@@ -33,7 +33,7 @@ Después de determinar el descuento en Checkout, se debe vincular el SKU al medi
 3. Haga clic en el template de su página de producto en la lista de templates.
 4. En la propiedad `skuPrice`, añada la variable `paymentSystemId` con el ID del medio de pago deseado. 
 
-![Screenshot 2020-12-18 Crear precio al contado](https://images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
+![Screenshot 2020-12-18 Crear precio al contado](//images.ctfassets.net/alneenqid6w5/4X9sxu1jruXPgpJc5AthbD/ce74271f2f7ca41fa3f762b12a226bcb/Screenshot_2020-12-18_Criar_pre__o____vista.png)
 
 6. Luego, haga clic en __Save Template__ en el campo superior, para guardar la alteración.
 
@@ -44,5 +44,5 @@ Para las tiendas desarrolladas con VTEX IO, esa funcionalidad está disponible d
 
 ## Artículos relacionados
 
-[Configurar descuento de precio al contado para Google Shopping](/es/tutorial/configurar-descuento-de-precio-al-contado-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configurar descuento de precio al contado para Google Shopping](https://help.vtex.com/es/tutorial/configurar-descuento-de-precio-al-contado-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
 

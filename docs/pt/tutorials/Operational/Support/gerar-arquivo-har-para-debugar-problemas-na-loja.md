@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slugEN: generating-a-har-file
-locale: pt
 legacySlug: gerar-arquivo-har-para-debugar-problemas-na-loja
+locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 

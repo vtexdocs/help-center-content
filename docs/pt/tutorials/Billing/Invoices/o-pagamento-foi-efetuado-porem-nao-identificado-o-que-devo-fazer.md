@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: payment-was-made-but-not-found-what-should-i-do
-locale: pt
 legacySlug: o-pagamento-foi-efetuado-porem-nao-identificado-o-que-devo-fazer
+locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-Nesse artigo, você encontrará explicações sobre possíveis motivos sobre a não confirmação do pagamento da sua fatura de acordo com a [filial VTEX](/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z?locale=pt) que o cliente está faturado. 
+Nesse artigo, você encontrará explicações sobre possíveis motivos sobre a não confirmação do pagamento da sua fatura de acordo com a [filial VTEX](https://help.vtex.com/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z?locale=pt) que o cliente está faturado. 
 
 O pagamento deve ser identificado em até 48h úteis, e caso o seu pagamento não tenha sido identificado, você deverá abrir um [ticket](https://support.vtex.com/hc/pt-br/requests) com os comprovantes necessários e selecionar a opção **Envio de comprovante de pagamento**. 
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-to-view-the-orders-details
-locale: es
 legacySlug: como-visualizar-detalle-del-pedido
+locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

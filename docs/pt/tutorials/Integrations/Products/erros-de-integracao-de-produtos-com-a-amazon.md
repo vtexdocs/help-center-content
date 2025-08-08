@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: products-errors-in-the-amazon-integration
-locale: pt
 legacySlug: erros-de-integracao-de-produtos-com-a-amazon
+locale: pt
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
@@ -30,32 +30,32 @@ Na Amazon, há erros de integração de produtos que ocorrem com mais frequênci
 
 `Sku is inactive`
 
-O [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2) antigas vinculadas à política comercial da Amazon que contém SKUs inativos. 
+O [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](https://help.vtex.com/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2) antigas vinculadas à política comercial da Amazon que contém SKUs inativos. 
 
-Verifique o status do SKU no seu Admin, no módulo PRODUTOS > Catálogo > Produtos e SKU e, se necessário, [ative o SKU](/pt/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+Verifique o status do SKU no seu Admin, no módulo PRODUTOS > Catálogo > Produtos e SKU e, se necessário, [ative o SKU](https://help.vtex.com/pt/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
 
 ### Mensagem de erro
 
 `Requested value 'Information' was not found`
 
-**Information** é um dos tipos de especificação que pode ser indicado na coluna Type da [planilha de mapeamento da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Os tipos de especificações aceitos pela Amazon são:
+**Information** é um dos tipos de especificação que pode ser indicado na coluna Type da [planilha de mapeamento da Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Os tipos de especificações aceitos pela Amazon são:
 
 - **Variation:** Preencha com especificações do SKUs. Exemplo: Cor, Tamanho.
 - **Information:** Preencha com especificações do produto. Exemplo: Gênero, Departamento, Idade Mínima.
 
-Esse erro ocorre quando a [especificação do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) informada não existe ou não foi preenchida. Para resolver esse erro, [cadastre](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) uma especificação válida e refaça o mapeamento.
+Esse erro ocorre quando a [especificação do produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) informada não existe ou não foi preenchida. Para resolver esse erro, [cadastre](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) uma especificação válida e refaça o mapeamento.
 
 ### Mensagem de erro
 
 `Category not available for integration`
 
-O erro ocorre quando a [categoria global](/pt/tutorial/configurando-a-categoria-global--tutorials_188) selecionada no mapeamento não existe na Amazon. Confira o [mapeamento da Categoria Global](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) do produto garantindo que a categoria selecionada está vinculada com a Amazon.
+O erro ocorre quando a [categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) selecionada no mapeamento não existe na Amazon. Confira o [mapeamento da Categoria Global](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) do produto garantindo que a categoria selecionada está vinculada com a Amazon.
 
 ### Mensagem de erro
 
 `SKU XXX, Missing Attributes color. Código SKU XXX não coincide com nenhum ASIN. A criação de um novo ASIN requer os seguintes atributos ausentes: color. Feed ID: 0. Para saber mais detalhes acesse http://sellercentral.amazon.com.br/gp/errorcode/200692370`
 
-Esse erro ocorre quando a [especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) **Cor** não foi mapeada na [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). Você deverá revisar o cadastro desta especificação no [produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) e no [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) para solucioná-lo. Para revisar o cadastro da especificação no Produto, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba `Especificações` e identifique o campo **Cor** com a informação já preenchida.
+Esse erro ocorre quando a [especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) **Cor** não foi mapeada na [planilha de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). Você deverá revisar o cadastro desta especificação no [produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) e no [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) para solucioná-lo. Para revisar o cadastro da especificação no Produto, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba `Especificações` e identifique o campo **Cor** com a informação já preenchida.
 
 Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto, clique na seta <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6p43gQ8LMQitieDuUlBoiC/c7d43ef209986769bdaf1e2795408a96/alterar_seta.JPG" /> e selecione a opção SKU. Na aba `Especificações`, identifique o campo que utiliza Cor como atributo. Depois, preencha a planilha de mapeamento com as especificações de cor que precisam ser mapeadas.
 
@@ -65,7 +65,7 @@ Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique e
 
 `Specification Tamanho mapped not found neither in product or sku specification`
 
-Nos erros acima, o atributo citado não está cadastrado no produto do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) **Cor** ou **Tamanho** e refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
+Nos erros acima, o atributo citado não está cadastrado no produto do catálogo VTEX. Você deverá [cadastrar o atributo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) **Cor** ou **Tamanho** e refazer o [mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
 
 Exemplo de preenchimento para o atributo **Cor**:
 
@@ -85,7 +85,7 @@ Exemplo de preenchimento para o atributo **Tamanho**:
 
 `Specification Departament mapped not found neither in product or sku specifications`
 
-Nos erros acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
+Nos erros acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
 
 Exemplo de preenchimento para o atributo **Gênero**:
 
@@ -103,25 +103,25 @@ Exemplo de preenchimento para o atributo **Departamento**:
 
 `[Specification X] specification value not mapped in file to any amazon possible values`
 
-O erro ocorre quando a especificação X não é aceita pela Amazon. Você deverá [cadastrar uma especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) que seja aceita pela Amazon. Para visualizar os valores aceitos pela Amazon, acesse a [Planilha de atributos obrigatórios da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) e busque pela aba `VALORES VÁLIDOS`.
+O erro ocorre quando a especificação X não é aceita pela Amazon. Você deverá [cadastrar uma especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) que seja aceita pela Amazon. Para visualizar os valores aceitos pela Amazon, acesse a [Planilha de atributos obrigatórios da Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon) e busque pela aba `VALORES VÁLIDOS`.
 
 ### Mensagem de erro
 
 `XML Parsing Error at Line 49, Column 72: cvc-complex-type.2.2: Element &apos;MinimumManufacturerAgeRecommended&apos; must have no element [children], and the value must be valid`
 
-Esse erro ocorre quando a [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento) dos produtos não tem a especificação da idade recomendada pelo fabricante mapeada. Você deverá revisar o cadastro desta especificação no [produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) para solucionar o erro. Para revisar o cadastro da especificação, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba **Especificações** e identifique o campo `Idade` com a informação já preenchida. Depois, preencha a [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) com as especificações de idade que precisam ser mapeadas.
+Esse erro ocorre quando a [planilha de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento) dos produtos não tem a especificação da idade recomendada pelo fabricante mapeada. Você deverá revisar o cadastro desta especificação no [produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) para solucionar o erro. Para revisar o cadastro da especificação, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba **Especificações** e identifique o campo `Idade` com a informação já preenchida. Depois, preencha a [planilha de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) com as especificações de idade que precisam ser mapeadas.
 
 ### Mensagem de erro
 
 `XML Parsing Error at Line 79, Column 25: cvc-enumeration-valid: Value &apos;SizeName&apos; is not facet-valid with respect to enumeration &apos;[Furniture, FurnitureLeg]&apos;. It must be a value from the enumeration`
 
-Esse erro ocorre quando o valor `SizeName` preenchido na planilha de mapeamento não foi digitado corretamente. Para solucioná-lo, certifique-se de que está enviando as informações corretamente, conforme os valores exigidos pela Amazon na [planilha de atributos obrigatórios](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
+Esse erro ocorre quando o valor `SizeName` preenchido na planilha de mapeamento não foi digitado corretamente. Para solucioná-lo, certifique-se de que está enviando as informações corretamente, conforme os valores exigidos pela Amazon na [planilha de atributos obrigatórios](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#2-planilha-de-atributos-obrigatorios-da-amazon).
 
 ### Mensagem de erro
 
 `VariationTheme selected it's invalid`
 
-O erro ocorre quando a coluna **VariationTheme** da planilha de mapeamento da Amazon é preenchida com um valor que não é aceito pela Amazon. [Verifique os valores aceitos](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#5-preenchimento-da-planilha-de-mapeamento) e preencha um valor válido na planilha de mapeamento.
+O erro ocorre quando a coluna **VariationTheme** da planilha de mapeamento da Amazon é preenchida com um valor que não é aceito pela Amazon. [Verifique os valores aceitos](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#5-preenchimento-da-planilha-de-mapeamento) e preencha um valor válido na planilha de mapeamento.
 
 ### Mensagens de erro
 
@@ -129,7 +129,7 @@ O erro ocorre quando a coluna **VariationTheme** da planilha de mapeamento da Am
 
 `Entry Material dont have a espec mapped correctly in the file`
 
-Em ambos os erros, a [Categoria Global VTEX](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos **Department** ou **Material** no produto, e o  preenchimento da planilha de mapeamento. Cadastre o atributo no produto e preencha a planilha conforme o exemplo abaixo:
+Em ambos os erros, a [Categoria Global VTEX](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos **Department** ou **Material** no produto, e o  preenchimento da planilha de mapeamento. Cadastre o atributo no produto e preencha a planilha conforme o exemplo abaixo:
 
 | VTEX Category Id | VariationTheme | Type | VTEXSpecification | AmazonSpecification | VTEXValue | AmazonValue |
 | ---------- | ---------- | ---------- | ----------| ----------| ---------- | ---------- |
@@ -141,7 +141,7 @@ Em ambos os erros, a [Categoria Global VTEX](/pt/tracks/configurar-integracao-co
 
 `The field with value "239" does not respect the minimum value of 8 characters specified for a field of type #AnonType_ValueStandardProductID`
 
-Esse erro ocorre quando o EAN do produto não é válido ou está mal preenchido. Insira o código de EAN correto ou solicite a [isenção de EAN](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon.
+Esse erro ocorre quando o EAN do produto não é válido ou está mal preenchido. Insira o código de EAN correto ou solicite a [isenção de EAN](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon.
 
 ### Mensagens de erro
 
@@ -175,13 +175,13 @@ A Amazon estipula um limite de envio de produtos por conta. Nesse caso, é neces
 
 Esses erros de ASIN ocorrem quando o código GTIN ou EAN não foi enviado pela plataforma VTEX. Para resolver esse problema, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o SKU com erro, clique em **Alterar** e insira um código de GTIN/EAN válido no campo `EAN`.
 
-Caso não tenha informações do GTIN/EAN, solicite a [isenção de EAN](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon. Se a isenção de EAN for aprovada, você deverá solicitar ao suporte VTEX que o campo `EAN` seja desbloqueado como obrigatório.
+Caso não tenha informações do GTIN/EAN, solicite a [isenção de EAN](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon. Se a isenção de EAN for aprovada, você deverá solicitar ao suporte VTEX que o campo `EAN` seja desbloqueado como obrigatório.
 
 ## Mensagem de erro
 
 `SEM GTIN is not a valid EAN`
 
-Esse erro ocorre quando o EAN do produto não é válido ou está em branco. Insira o código de EAN ou solicite a [isenção de EAN](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon.
+Esse erro ocorre quando o EAN do produto não é válido ou está em branco. Insira o código de EAN ou solicite a [isenção de EAN](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#isencao-de-ean) à Amazon.
 
 ## Mensagem de erro
 

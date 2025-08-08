@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-long-does-the-platform-take-to-identify-my-payment
-locale: pt
 legacySlug: quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento
+locale: pt
 subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 ---
 

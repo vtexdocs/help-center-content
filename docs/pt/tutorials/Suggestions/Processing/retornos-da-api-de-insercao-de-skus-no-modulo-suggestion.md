@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_41
 slugEN: returns-from-api-for-entering-skus-in-the-suggestion-module
-locale: pt
 legacySlug: retornos-da-api-de-insercao-de-skus-no-modulo-suggestion
+locale: pt
 subcategoryId: 2P4LrAbvyEiCaekmaWaEOk
 ---
 

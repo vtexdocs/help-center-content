@@ -1,9 +1,9 @@
 ---
 title: 'Managing URL redirects'
 id: 3UJuFrU8imSVWg134mkvJV
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-02-03T13:17:46.873Z
-updatedAt: 2025-07-01T18:03:07.603Z
+updatedAt: 2025-08-08T13:19:47.579Z
 publishedAt: 2025-07-01T18:03:07.603Z
 firstPublishedAt: 2022-02-03T14:42:10.000Z
 contentType: tutorial
@@ -34,8 +34,13 @@ Multiple redirects are possible in a single URL. To create a redirect, follow th
 1. In the VTEX Admin, click **Storefront** > **Redirects**.
 2. Click `New Redirect`.
 3. Fill in the following fields: 
-**From**: Enter the page URL from which you want to redirect visitors. The URL should not contain the domain name, for example: `/mask-regenerator-marine-algae/p`.
-**To**: Enter the page URL to which you want visitors to be redirected. The URL must not contain the domain name, for example: `/conditioner-ultra-hydrating-milk conditioner/p`. 
+- **From**: Enter the page URL from which you want to redirect visitors. The URL should not contain the domain name, for example: `/mask-regenerator-marine-algae/p`.
+- **To**: Enter the page URL to which you want visitors to be redirected. The URL must not contain the domain name, for example: `/conditioner-ultra-hydrating-milk conditioner/p`. 
+
+<div class="alert alert-warning" role="alert">
+  QueryString parameters (e.g., <code>?key=value</code>) are not forwarded in redirects by default.
+</div>
+
 4. In the checkbox, indicate whether this redirect is temporary or permanent. If it is temporary, you need to set an end date.
 5. Click `Save`.
 
