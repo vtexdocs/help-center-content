@@ -9,6 +9,7 @@ const {
 const { writeMarkdown } = require("./writers/fileWriter");
 const { fetchLinkedEntry } = require("./fetch/linkedEntry");
 const { isArchived } = require("./utils/entryStatus");
+const { normalizeFolderName } = require("./utils/normalize");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
@@ -29,7 +30,7 @@ async function main() {
   if (invalidTypes.length > 0) {
     console.error(
       `⛔ Invalid content type(s): ${invalidTypes.join(", ")}\n` +
-      `✅ Allowed types are: ${allowedTypes.join(", ")}`
+        `✅ Allowed types are: ${allowedTypes.join(", ")}`
     );
     return;
   }
@@ -66,7 +67,7 @@ async function main() {
           slug,
           locale,
           folder: "tracks",
-          subfolder: trackSlug,
+          subfolder: normalizeFolderName(trackSlug),
         });
       } else if (type === "tutorial") {
         const subcatRef = entry.fields.subcategory?.pt?.sys?.id;
@@ -106,8 +107,13 @@ async function main() {
           slug,
           locale,
           folder: isTroubleshooting ? "troubleshooting" : "tutorials",
-          subfolder: isTroubleshooting ? subcategoryTitle : categoryTitle,
           subcategoryFolder: isTroubleshooting ? "" : subcategoryTitle,
+          subfolder: isTroubleshooting
+            ? normalizeFolderName(subcategoryTitle)
+            : normalizeFolderName(categoryTitle),
+          subcategoryFolder: isTroubleshooting
+            ? ""
+            : normalizeFolderName(subcategoryTitle),
         });
       } else if (type === "updates") {
         const { content, slug, year } = generateAnnouncementMarkdown(
@@ -133,7 +139,7 @@ async function main() {
           slug,
           locale,
           folder: "faq",
-          subfolder: productTeam,
+          subfolder: normalizeFolderName(productTeam),
         });
       }
     }
