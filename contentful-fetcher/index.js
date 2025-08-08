@@ -10,6 +10,8 @@ const { writeMarkdown } = require("./writers/fileWriter");
 const { fetchLinkedEntry } = require("./fetch/linkedEntry");
 const { isArchived } = require("./utils/entryStatus");
 const { normalizeFolderName } = require("./utils/normalize");
+const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
+const { updateImages } = require("./utils/updateImages");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
@@ -17,6 +19,7 @@ async function main() {
     "trackArticle",
     "tutorial",
   ];
+  const skipImages = args.skipImages;
 
   const allowedTypes = [
     "trackArticle",
@@ -47,6 +50,7 @@ async function main() {
 
   const entries = await fetchEntries({ contentTypes });
 
+  //CREATE FILES
   for (const entry of entries) {
     if (isArchived(entry)) {
       console.log(`⏭️ Skipping archived entry ${entry.sys.id}`);
@@ -61,9 +65,10 @@ async function main() {
           entry,
           locale
         );
+        const fixedContent = convertInlineHtmlToMarkdown(content);
 
         await writeMarkdown({
-          content,
+          content: fixedContent,
           slug,
           locale,
           folder: "tracks",
@@ -105,8 +110,9 @@ async function main() {
           isTroubleshooting
         );
 
+        const fixedContent = convertInlineHtmlToMarkdown(content);
         await writeMarkdown({
-          content,
+          content: fixedContent,
           slug,
           locale,
           folder: isTroubleshooting ? "troubleshooting" : "tutorials",
@@ -124,8 +130,10 @@ async function main() {
           locale
         );
 
+        const fixedContent = convertInlineHtmlToMarkdown(content);
+
         await writeMarkdown({
-          content,
+          content: fixedContent,
           slug,
           locale,
           folder: "announcements",
@@ -137,14 +145,37 @@ async function main() {
           locale
         );
 
+        const fixedContent = convertInlineHtmlToMarkdown(content);
+
         await writeMarkdown({
-          content,
+          content: fixedContent,
           slug,
           locale,
           folder: "faq",
           subfolder: normalizeFolderName(productTeam),
         });
       }
+    }
+  }
+
+  //FETCH AND UPDATE IMAGES
+  if (!skipImages) {
+    const folderMap = {
+      trackArticle: "tracks",
+      tutorial: "tutorials",
+      troubleshooting: "troubleshooting",
+      updates: "announcements",
+      frequentlyAskedQuestion: "faq",
+    };
+
+    const requestedTypes = args.contentType?.split(",") ?? [];
+    const foldersToUpdate = requestedTypes
+      .map((type) => folderMap[type])
+      .filter(Boolean);
+
+    for (const folder of foldersToUpdate) {
+      console.log(`🧼 Running image update for: ${folder}`);
+      await updateImages(folder);
     }
   }
 }
