@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-la-fecha-prometida-diverge-con-la-fecha-de-entrega
 ---
 
-Cuando hay un error asociado a la cantidad de días de un [feriado](/es/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk), por cuestiones de seguridad, el sistema define un rango que puede estar afectando la fecha de entrega del pedido.
+Cuando hay un error asociado a la cantidad de días de un [feriado](https://help.vtex.com/es/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk), por cuestiones de seguridad, el sistema define un rango que puede estar afectando la fecha de entrega del pedido.
 
 Si al registrar un feriado, usted rellena el campo __Fecha de inicio__ de forma correcta, pero se equivoca en el campo __Fecha de fin__, y el feriado termina quedando con 1 año, 6 meses o cualquier período indebido, el sistema entiende que hubo un error de registro y define uno rango menor para liberar la entrega del pedido.
 
@@ -27,4 +27,4 @@ Por lo tanto, si tiene problemas relacionados con plazos incoherentes o divergen
 4. Ajuste, si es necesario.
 5. Haz clic en `Guardar`.
 
-Para saper más, consulte el artículo [Registrar Feriados](/es/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk).
+Para saper más, consulte el artículo [Registrar Feriados](https://help.vtex.com/es/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk).

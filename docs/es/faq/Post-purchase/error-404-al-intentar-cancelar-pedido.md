@@ -21,7 +21,7 @@ Al intentar cancelar un pedido en el módulo **Pedidos**, a veces el sistema dev
 
 ### Cómo identificar el error
 
-Como se explica en el artículo [Verificar detalles de errores en los pedidos](/es/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), usted debe entrar en el pedido, conforme descrito abajo:
+Como se explica en el artículo [Verificar detalles de errores en los pedidos](https://help.vtex.com/es/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), usted debe entrar en el pedido, conforme descrito abajo:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el pedido deseado.

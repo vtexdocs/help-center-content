@@ -21,7 +21,7 @@ Ao tentar cancelar um pedido no módulo **Pedidos**, às vezes o sistema retorna
 
 ## Como identificar o erro
 
-Como explicado no artigo [Verificar detalhes de erros nos pedidos](/pt/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), acesse o pedido em que houve o problema, conforme o passo a passo abaixo:
+Como explicado no artigo [Verificar detalhes de erros nos pedidos](https://help.vtex.com/pt/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), acesse o pedido em que houve o problema, conforme o passo a passo abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
 2. Clique no pedido desejado.

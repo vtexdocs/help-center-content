@@ -20,8 +20,5 @@ Este error ocurre cuando la plantilla de flete es importada con la extensión __
 
 Para resolver el problema, es necesario ajustar la plantilla de flete para la extensión __.xls__ e [importar la plantilla de flete](http://help.vtex.com/es/tutorial/importar-planilla-de-envio) nuevamente.
 
-<div class="alert alert-warning">
-
-Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB. De lo contrario, o upload no funcionará.
-</div>
+> ⚠️ Si la plantilla tiene más de 10 MB, será necesario comprimirla en el formato .zip. Este archivo .zip deberá tener menos de 10 MB. De lo contrario, o upload no funcionará.
 

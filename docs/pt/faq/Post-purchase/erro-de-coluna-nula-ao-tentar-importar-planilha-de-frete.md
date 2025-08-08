@@ -20,9 +20,7 @@ Este erro ocorre quando a planilha de frete importada __possui uma aba fora do f
 
 Geralmente, a aba fora do padrão não contém nenhuma informação importante. Para resolver o problema, __delete as abas fora do padrão__, verifique se as abas dentro do padrão estão com as informações corretas e realizar o upload novamente.
 
-<div class="alert alert-warning">
-Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
-</div>
+> ⚠️ Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.
 
 ## Obter planilha com formato padrão
 

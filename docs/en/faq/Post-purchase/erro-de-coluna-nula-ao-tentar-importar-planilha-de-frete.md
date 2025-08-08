@@ -20,9 +20,7 @@ This error occurs when the imported freight spreadsheet __has a tab outside the 
 
 Generally, the tab outside default format does not contain any important information. To solve the problem, __delete the tabs outside default format__, check if the tabs within default format have the correct information and try the upload again.
 
-<div class="alert alert-warning">
-In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
-</div>
+> ⚠️ In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
 
 ## Obtain spreadsheet with default format
 

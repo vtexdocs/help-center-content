@@ -36,7 +36,5 @@ Para ajustar este cenário, o estoque do item deve ser atualizado com a quantida
 4. Na coluna __Atualizar contagem__, preencha com o valor indicado na descrição acima.
 5. Clique em __Salvar__.
 
-<div class="alert alert-warning">
-  Quando dois ou mais estoques utilizam a mesma <a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> e há uma quantidade negativa de unidades em um desses estoques, o SKU fica indisponível para venda, mesmo que exista uma quantidade disponível em um dos estoques no <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventário</a>.
-</div>
+> ⚠️ Quando dois ou mais estoques utilizam a mesma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e há uma quantidade negativa de unidades em um desses estoques, o SKU fica indisponível para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 

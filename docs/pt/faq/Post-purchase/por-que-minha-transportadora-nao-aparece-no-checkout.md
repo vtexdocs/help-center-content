@@ -18,17 +18,15 @@ Para finalizar um pedido na plataforma VTEX, é necessário selecionar uma forma
 
 Eventualmente, uma transportadora pode não ser exibida no checkout. Separamos seis cenários em que essa situação pode ocorrer e suas respectivas soluções. 
 
-Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/tutorial/visao-geral-logistics--tutorials_143). 
+Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](https://help.vtex.com/pt/tutorial/visao-geral-logistics--tutorials_143). 
 
 ## Concorrência entre transportadoras do mesmo tipo
 
-No momento de cadastro de uma transportadora, é preciso incluir o [método de envio](/pt/tutorial/como-funciona-o-tipo-de-entrega/) desta transportadora. No checkout, são exibidos os _métodos de envio_ e não o nome das transportadoras.
+No momento de cadastro de uma transportadora, é preciso incluir o [método de envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega/) desta transportadora. No checkout, são exibidos os _métodos de envio_ e não o nome das transportadoras.
 
 O checkout exibe sempre a transportadora mais rápida/barata entre as opções de um mesmo métodos de envio. Assim, uma transportadora não aparece no checkout quando outra do mesmo tipo tem menor prazo/custo cadastrado.
 
-<div class="alert alert-warning">
-O critério de desempate na concorrência entre transportadoras é a priorização do menor custo de envio.
-</div>
+> ⚠️ O critério de desempate na concorrência entre transportadoras é a priorização do menor custo de envio.
 
 ### Solução
 
@@ -36,13 +34,13 @@ Caso você deseje que todas as transportadoras sejam exibidas, você deve cadast
 
 ## Transportadora não atende o endereço informado 
 
-Ao cadastrar uma nova transportadora, a [planilha de frete](/pt/tutorial/importar-planilha-de-frete) deve ser preenchida com as faixas de CEP ou polígono para geolocalização que podem ser atendidas por ela. Os campos dessa planilha relativos à localização são `country`, `zipCodeStart` e `zipCodeEnd` e `PolygonName`
+Ao cadastrar uma nova transportadora, a [planilha de frete](https://help.vtex.com/pt/tutorial/importar-planilha-de-frete) deve ser preenchida com as faixas de CEP ou polígono para geolocalização que podem ser atendidas por ela. Os campos dessa planilha relativos à localização são `country`, `zipCodeStart` e `zipCodeEnd` e `PolygonName`
 
 Caso o cliente final deseje que um pedido seja entregue em uma região não cadastrada na planilha, a transportadora não aparecerá como opção no checkout.
 
 ### Solução
 
-Verifique na [planilha de frete](/pt/tutorial/importar-planilha-de-frete) se as faixas de CEP ou os polígonos de geolocalização configurados atendem o endereço do pedido. 
+Verifique na [planilha de frete](https://help.vtex.com/pt/tutorial/importar-planilha-de-frete) se as faixas de CEP ou os polígonos de geolocalização configurados atendem o endereço do pedido. 
 
 ## Volume do pedido excede o máximo permitido
 
@@ -68,7 +66,7 @@ Dessa vez, será necessário alterar os valores nos campos `weightStart` e `weig
 
 ### Solução
 
-[Habilite a divisão de carga](/pt/tutorial/como-funciona-a-divisao-de-carga--tutorials_109) quando a entrega ultrapassar o limite da transportadora. 
+[Habilite a divisão de carga](https://help.vtex.com/pt/tutorial/como-funciona-a-divisao-de-carga--tutorials_109) quando a entrega ultrapassar o limite da transportadora. 
 
 ## Otimização das opções de entrega no Checkout
 
@@ -76,9 +74,7 @@ Para melhorar a experiência de compra do cliente, a funcionalidade **Otimizaç�
 
 ### Solução
 
-Desabilitar a função [Otimização das opções de entrega no Checkout](/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB) em sua loja. 
+Desabilitar a função [Otimização das opções de entrega no Checkout](https://help.vtex.com/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB) em sua loja. 
 
-<div class="alert alert-warning">
-Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de <a href="https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">múltiplas entregas</a> esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as <b>Opções de entrega otimizadas</b> continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
-</div>
+> ⚠️ Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de [múltiplas entregas](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as **Opções de entrega otimizadas** continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
 

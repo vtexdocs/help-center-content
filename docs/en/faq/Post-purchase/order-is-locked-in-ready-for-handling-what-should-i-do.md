@@ -21,10 +21,8 @@ This happens because within the flow of orders there is a status in which the or
 When the ERP queries and enters this order in your base, it has to inform VTEX that the order can continue its flow. This can be done in two ways:
 
 - [ERP advises using API](https://developers.vtex.com/vtex-rest-api/reference/starthandling): this is the most common way of updating.
-- **Storeowner advances manually**: the store has no ERP and has to advance the order manually in VTEX Admin, in the [Order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). The complete steps are described in [Moving order to Handling Shipping](/en/tutorial/passar-pedido-para-o-status-preparando-entrega--tutorials_198).
+- **Storeowner advances manually**: the store has no ERP and has to advance the order manually in VTEX Admin, in the [Order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). The complete steps are described in [Moving order to Handling Shipping](https://help.vtex.com/en/tutorial/passar-pedido-para-o-status-preparando-entrega--tutorials_198).
 
-> You must have a [OMS - Full access role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") to be able to perform this action.
+> You must have a [OMS - Full access role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") to be able to perform this action.
 
-<div class="alert alert-warning">
-<p>If the order is moved manually from the <b>Start handling</b> status, it will not be possible to move the order down to the ERP afterwards.</p>
-</div>
+> ⚠️ If the order is moved manually from the **Start handling** status, it will not be possible to move the order down to the ERP afterwards.

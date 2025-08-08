@@ -14,7 +14,7 @@ locale: es
 legacySlug: como-funciona-el-flujo-de-captura-programada-para-las-compras-realizadas-con
 ---
 
-En las situaciones en las que el cliente realiza una compra utilizando dos formas de pago (tarjeta de crédito + tarjeta de regalo, por ejemplo), la liquidación de este valor se producirá de acuerdo con el plazo programado en cada una de las [afiliaciones de gateway](/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete), así como con las [condiciones de pago](/es/tutorial/condicoes-de-pagamento) configuradas en su tienda.
+En las situaciones en las que el cliente realiza una compra utilizando dos formas de pago (tarjeta de crédito + tarjeta de regalo, por ejemplo), la liquidación de este valor se producirá de acuerdo con el plazo programado en cada una de las [afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete), así como con las [condiciones de pago](https://help.vtex.com/es/tutorial/condicoes-de-pagamento) configuradas en su tienda.
 
 Vea el siguiente ejemplo: 
 

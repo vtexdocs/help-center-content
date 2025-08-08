@@ -27,7 +27,7 @@ Separamos dos situaciones distintas en las que esto puede ocurrir:
 
 ## El producto se elimina o desactiva de la política comercial ##
 
-Definir una [política comercial](/pt/faq/o-que-e-uma-politica-comercial "política comercial") es el primer paso para llevar a cabo la [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). Es decir, establecer una diferenciación de catálogo y/o logística entre los diferentes canales de venta de una tienda.
+Definir una [política comercial](https://help.vtex.com/pt/faq/o-que-e-uma-politica-comercial "política comercial") es el primer paso para llevar a cabo la [integração com o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). Es decir, establecer una diferenciación de catálogo y/o logística entre los diferentes canales de venta de una tienda.
 
 Cuando un producto se elimina de la política comercial, esta actualización se envía automáticamente a Mercado Libre, que, a su vez, deja de exhibir el anuncio del producto.
 
@@ -39,4 +39,4 @@ Al registrar un producto, es necesario establecer una cantidad mínima para el s
 Vale destacar que el valor de este stock mínimo se define en el panel de configuración de Mercado Libre en el Bridge de VTEX. 
 
 Para saber más, ingrese a:
-[FAQ Mercado Livre](/pt/faq/mercado-livre-faq "FAQ Mercado Livre")
+[FAQ Mercado Livre](https://help.vtex.com/pt/faq/mercado-livre-faq "FAQ Mercado Livre")

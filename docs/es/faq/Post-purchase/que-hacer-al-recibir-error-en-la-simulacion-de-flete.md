@@ -22,7 +22,7 @@ Antes de empezar, vale la pena recordar que la [Simulación de Flete](/es/tutori
 
 Para ilustrar ese artigo crearemos un escenario en el que el producto __X-Box__ no está siendo entregado en el Código Postal 22451-451 para la política comercial 1. El mensaje de error es este: "_No fue posible generar el carrito. Vea los detalles abajo_".
 
-Hay algunos factores que pueden influir en una simulación, por lo que recomendamos siempre comenzar desde lo más básico, verificar si el __X-Box__ es un producto activo y si está con las configuraciones correctas. El camino más rápido para ello es en el [Indexed-Info](/es/faq/por-que-o-produto-nao-aparece-no-site#indexed-info).
+Hay algunos factores que pueden influir en una simulación, por lo que recomendamos siempre comenzar desde lo más básico, verificar si el __X-Box__ es un producto activo y si está con las configuraciones correctas. El camino más rápido para ello es en el [Indexed-Info](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site#indexed-info).
 
 Una vez hecho lo anterior, tenemos que chequear la Logística como una totalidad, o sea, cuál es el stock de X-Box y qué transportadora está asociada Política Comercial 1. Esa información está contenida en el Muelle.
 
@@ -30,6 +30,6 @@ Vía API sería también bien sencillo. Haciendo la llamada [Cálculo de SLA](ht
 
 Pero, ¿qué hacer para corregirlo?
 
-Esto depende de cada comerciante, pero después de reconfigurar la Logística Stock-Muelle-Transportadora es posible que también sea necesario modificar la [planilla de la transportadora](/es/tutorial/como-montar-la-plantilla-de-flete).
+Esto depende de cada comerciante, pero después de reconfigurar la Logística Stock-Muelle-Transportadora es posible que también sea necesario modificar la [planilla de la transportadora](https://help.vtex.com/es/tutorial/como-montar-la-plantilla-de-flete).
 
 Una forma rápida de verificar el range de Códigos Postales de una transportadora es usando la pestaña [Valores de Flete](/es/tutorial/gestionar-valores-de-flete/).

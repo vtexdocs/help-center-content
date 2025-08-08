@@ -14,7 +14,7 @@ locale: pt
 legacySlug: como-funciona-o-fluxo-de-captura-agendada-para-compras-realizadas-com-duas
 ---
 
-Em situações onde o cliente realiza uma compra utilizando duas formas de pagamento (cartão de crédito + vale, por exemplo), a liquidação deste valor acontecerá de acordo com o prazo programado em cada uma das [afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete), bem como as [condições de pagamento](/pt/tutorial/condicoes-de-pagamento) configuradas em sua loja.
+Em situações onde o cliente realiza uma compra utilizando duas formas de pagamento (cartão de crédito + vale, por exemplo), a liquidação deste valor acontecerá de acordo com o prazo programado em cada uma das [afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete), bem como as [condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento) configuradas em sua loja.
 
 Analise o exemplo abaixo:
 

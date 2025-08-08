@@ -14,7 +14,7 @@ locale: pt
 legacySlug: onde-utilizar-o-link-de-whatsapp
 ---
 
-Você pode utiliza-lo em qualquer lugar na internet, basta apenas que o [link](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) fique clicável.
+Você pode utiliza-lo em qualquer lugar na internet, basta apenas que o [link](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) fique clicável.
 
 Logo abaixo você pode conferir alguns exemplos de lugares onde o Link de WhatsApp é muito utilizado e traz grandes resultados para as empresas.
 

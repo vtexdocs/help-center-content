@@ -26,7 +26,7 @@ Debajo, usted verás como identificar el motivo de las cancelaciónes.
 
 Todas las interacciones, tanto con el operador/gateway de pago como con el anti fraude, quedan registradas en el Admin VTEX, en **Pedidos > Transacciones**. Estos dos agentes son responsables por la mayoría de las cancelaciones.
 
-Siempre que se realiza una cancelación, el agente responsable crea un log en los eventos de la transacción del pedido, un mensaje identificando el motivo de la acción. Sepa más en [verificar las transacciones](/es/tutorial/como-visualizar-detalhes-do-pedido/).
+Siempre que se realiza una cancelación, el agente responsable crea un log en los eventos de la transacción del pedido, un mensaje identificando el motivo de la acción. Sepa más en [verificar las transacciones](https://help.vtex.com/es/tutorial/como-visualizar-detalhes-do-pedido/).
 
 ## Verifique las interacciones del pedido
 
@@ -35,7 +35,7 @@ En el módulo **Pedidos**, es posible analizar el origen de la cancelación del 
 Para ver las interaccinoes de un pedido, siga los pasos abajo:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en el pedido deseado, accedendo a la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Haz clic en el pedido deseado, accedendo a la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la sección **Hitorial de pedidos**, haz click en `Ver interacciones`.
 
 ### Cancelación hecha por el marketplace
@@ -52,4 +52,4 @@ En el módulo **Pedidos**, se puede realizar la cancelación manual por parte d
 
 En estos casos, primero el pedido queda en el status `Cancelación Requerida` y des después de una aprobación, o nuevo pedido de cancelación por el usuario final, el status pasa a `Cancelado`.
 
-Todos estos cambios en el pedido pueden ser visualizados en sus interacciones, en el módulo **Pedidos**, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). 
+Todos estos cambios en el pedido pueden ser visualizados en sus interacciones, en el módulo **Pedidos**, en la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). 

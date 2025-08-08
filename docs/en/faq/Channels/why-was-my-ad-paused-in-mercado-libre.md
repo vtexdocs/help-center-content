@@ -27,7 +27,7 @@ Paused ads on Mercado Livre occur for mainly __two reasons__:
 ## The product has either been removed or deactivated from the sales policy linked to Mercado Livre ##
 
 
-Defining a [política comercial](/pt/faq/o-que-e-uma-politica-comercial "política comercial") is the first step towards an [integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). In other words, establishing a catalogue and/or logistics differentiation between a store's various sales channels.
+Defining a [política comercial](https://help.vtex.com/pt/faq/o-que-e-uma-politica-comercial "política comercial") is the first step towards an [integração com o Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre?step=1#definindo-catalogo-de-produtos "integração com o Mercado Livre"). In other words, establishing a catalogue and/or logistics differentiation between a store's various sales channels.
 
 When a product is removed from the sales policy, this update is automatically sent to Mercado Livre, which, in turn, stops displaying the ad for the product.
 
@@ -40,5 +40,5 @@ It is worth mentioning that the minimum value for that inventory is set in Merca
 
 
 For more info, access:
-[FAQ Mercado Livre](/pt/faq/mercado-livre-faq "FAQ Mercado Livre")
+[FAQ Mercado Livre](https://help.vtex.com/pt/faq/mercado-livre-faq "FAQ Mercado Livre")
 

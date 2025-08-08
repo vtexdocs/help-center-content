@@ -20,6 +20,4 @@ Com isso, os clientes que realizam uma primeira compra na loja não têm o seu p
 
 Para clientes já cadastrados na loja, é possível acessar a seção de __Meus Pedidos__ e ver todos os pedidos realizados, inclusive os fechados pelo Visa Checkout. 
 
-<div class="alert alert-info">
-O e-mail do cliente salvo na VTEX deve ser o mesmo que o utilizado para login no Visa Checkout para que ele possa visualizar estes pedidos na seção de <strong>Meus Pedidos</strong>.
-</div>
+> ℹ️ O e-mail do cliente salvo na VTEX deve ser o mesmo que o utilizado para login no Visa Checkout para que ele possa visualizar estes pedidos na seção de **Meus Pedidos**.

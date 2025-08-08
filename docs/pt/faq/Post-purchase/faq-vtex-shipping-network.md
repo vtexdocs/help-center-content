@@ -33,21 +33,21 @@ Alguns fatores de negócio podem afetar os resultados do VTEX Shipping Network. 
 ## 2) Tive um problema com o funcionamento do VTEX Shipping Network. Como posso identificar aonde está o problema?  
  
 Primeiro, identifique se o comportamento foi em uma loja específica ou em todas as cadastradas na sua conta. Se for em todas as suas lojas, entre em contato com o suporte da VTEX. Se for em alguma especifica, o erro provavelmente estará na configuração logística da própria loja. Confira o funcionamento dos seguintes módulos:
-- [Docas](/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?locale=pt) 
-- [Estoques](/tutorial/gerenciar-estoque--tutorials_137?locale=pt)
-- [Transportadoras](/tutorial/cadastrar-transportadora--tutorials_140?locale=pt)
+- [Docas](https://help.vtex.com/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?locale=pt) 
+- [Estoques](https://help.vtex.com/tutorial/gerenciar-estoque--tutorials_137?locale=pt)
+- [Transportadoras](https://help.vtex.com/tutorial/cadastrar-transportadora--tutorials_140?locale=pt)
 
 
 ## 3) Encontrei valores inesperados na simulação do VTEX Shipping Network.  
 
-Primeiro, identifique se o comportamento foi em uma transportadora específica ou em todas as cadastradas na sua conta. Se o erro aparece em todas as transportadoras, entre em contato com o suporte da VTEX.  Se for em alguma transportadora específica, o erro provavelmente estará na [planilha de frete](/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt) cadastrada. No seu Admin, faça o download da planilha e confira os campos cadastrados.  
+Primeiro, identifique se o comportamento foi em uma transportadora específica ou em todas as cadastradas na sua conta. Se o erro aparece em todas as transportadoras, entre em contato com o suporte da VTEX.  Se for em alguma transportadora específica, o erro provavelmente estará na [planilha de frete](https://help.vtex.com/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt) cadastrada. No seu Admin, faça o download da planilha e confira os campos cadastrados.  
 
 
 ## 4) A transportadora não aparece na simulação do VTEX Shipping Network.
 
 Existem alguns cenários possíveis para esse comportamento:   
 -  A transportadora não atende a nenhum pedido da loja.  
-- Houve um erro no upload da [planilha de frete](/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt).   
+- Houve um erro no upload da [planilha de frete](https://help.vtex.com/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt).   
 
 
 

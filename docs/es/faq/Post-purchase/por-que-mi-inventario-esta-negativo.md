@@ -38,6 +38,4 @@ Para ajustar este escenario, el stock del elemento se debe actualizar con la can
 4. En la columna __Actualizar recuento__, rellene el valor indicado en la descripción anterior.
 5. Haga clic en __Guardar__.
 
-<div class="alert alert-warning">
-Cuando dos o más stocks utilizan la misma <a href="https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> y uno de estos stocks tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los stocks.  
-</div>
+> ⚠️ Cuando dos o más stocks utilizan la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y uno de estos stocks tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los stocks.

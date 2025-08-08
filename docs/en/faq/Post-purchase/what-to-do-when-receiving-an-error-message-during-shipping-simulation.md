@@ -22,7 +22,7 @@ Before we start, please remember that the [Shipping Simulation](/en/tutorial/fre
 
 To illustrate this article, let’s consider a scenario where the __X-Box__ product is not being delivered to Postal Code 22451-451 for sales policy 1. The error message is as follows: "_It was not possible to generate the cart. See details below_".
 
-Some factors may influence a simulation; so, we recommend that you always start from the basics, checking whether __X-Box__ is an active product and if all settings are correct. The shortest way to do so is in the [Indexed-Info](/en/faq/why-doesnt-the-product-appear-on-the-site#indexed-info).
+Some factors may influence a simulation; so, we recommend that you always start from the basics, checking whether __X-Box__ is an active product and if all settings are correct. The shortest way to do so is in the [Indexed-Info](https://help.vtex.com/en/faq/why-doesnt-the-product-appear-on-the-site#indexed-info).
 
 Then, we must check Logistics as a whole, that is, which X-Box inventory and which carrier are associated with Sales Policy 1. This information is contained in the Warehouse Dock.
 
@@ -30,6 +30,6 @@ This would also be very simple if you use the API. Through the query [Shipping C
 
 But how can you correct that?
 
-This depends on each retailer; however, after resetting the Inventory-Dock-Carrier Logistics, you may also need to change the [carrier spreadsheet](/en/tutorial/building-a-freight-spreadsheet).
+This depends on each retailer; however, after resetting the Inventory-Dock-Carrier Logistics, you may also need to change the [carrier spreadsheet](https://help.vtex.com/en/tutorial/building-a-freight-spreadsheet).
 
 A fast way to check a carrier’s range of Postal Codes is using the [Shipping Amounts](/en/tutorial/editing-freight-values/) tab.

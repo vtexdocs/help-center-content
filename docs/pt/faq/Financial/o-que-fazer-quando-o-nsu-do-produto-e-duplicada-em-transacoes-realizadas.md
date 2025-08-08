@@ -14,8 +14,8 @@ locale: pt
 legacySlug: o-que-fazer-quando-a-nsu-do-produto-e-duplicada-em-transacoes-realizadas
 ---
 
-Eventualmente, o [NSU](/pt/faq/como-achar-nsu-e-tid-do-pedido "NSU") ou número sequencial único, pode ser duplicado na adquirente Rede. Erros como esse podem atrapalhar o processo de conciliação.
+Eventualmente, o [NSU](https://help.vtex.com/pt/faq/como-achar-nsu-e-tid-do-pedido "NSU") ou número sequencial único, pode ser duplicado na adquirente Rede. Erros como esse podem atrapalhar o processo de conciliação.
 
-Porém, em circunstâncias que o NSU é a mesma para dois clientes diferentes, uma alternativa para verificar a transação é dar baixa no pagamento pelos números da [TID](/pt/tutorial/como-visualizar-detalhes-do-pedido "TID"), que são distintos entre si. 
+Porém, em circunstâncias que o NSU é a mesma para dois clientes diferentes, uma alternativa para verificar a transação é dar baixa no pagamento pelos números da [TID](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido "TID"), que são distintos entre si. 
 
 Atenção: é importante ressaltar que o NSU não é gerada pela VTEX, mas sim pelo adquirente responsável pela transação. Logo, é importante fazer contato com o time de e-commerce da Rede para resolver o problema em conjunto.

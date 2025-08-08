@@ -18,4 +18,4 @@ Actualmente, VTEX no tiene un informe que muestra los clientes de la tienda por 
 
 Normalmente, este tipo de información se obtiene en sistemas como ERPs, que realizan la facturación de todos los pedidos.
 
-Pero usted puede acceder al módulo **Pedidos**, hacer una [exportación de pedidos](/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) y con estos datos, puedes montar este informe en una planilla.
+Pero usted puede acceder al módulo **Pedidos**, hacer una [exportación de pedidos](https://help.vtex.com/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) y con estos datos, puedes montar este informe en una planilla.
