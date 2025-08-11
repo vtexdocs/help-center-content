@@ -12,7 +12,7 @@ slugEN: 2020-09-04-received-skus-bulk-approval
 locale: en
 legacySlug: received-skus-bulk-approval
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Now you can select up to 25 SKUs in bulk on the Received SKUs dashboard. We also created a new API for that. '
+announcementSynopsisEN: 'Now you can select up to 25 SKUs in bulk on the Received SKUs dashboard. We also created a new API for that.'
 ---
 
 Marketplaces manage their sellers' products from the [Received SKUs](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) dashboard, where you can review and approve products sent by sellers. On the dashboard, you can bulk select SKUs, approving, or rejecting items all at once.

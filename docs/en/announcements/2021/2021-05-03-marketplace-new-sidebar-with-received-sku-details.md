@@ -12,7 +12,7 @@ slugEN: 2021-05-03-marketplace-new-sidebar-with-received-sku-details
 locale: en
 legacySlug: marketplace-new-sidebar-with-received-sku-details
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Catalog received SKUs with more agility by checking out their data on the new sidebar. '
+announcementSynopsisEN: 'Catalog received SKUs with more agility by checking out their data on the new sidebar.'
 ---
 
 The [Received SKUs](https://help.vtex.com/en/tutorial/approving-suggestions-for-skus/) page allows marketplaces to view, prioritize and catalog items sent by sellers, making these products available for sale. Through the page, it is possible to catalog SKUs received from sellers, rejecting them, creating new products, or associating them with existing products.  

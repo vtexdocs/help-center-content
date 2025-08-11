@@ -12,7 +12,7 @@ slugEN: 2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta
 locale: pt
 legacySlug: integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' a VTEX terá uma nova integração automática com a B2W Coleta - uma das soluções de logística da B2W'
+announcementSynopsisPT: 'a VTEX terá uma nova integração automática com a B2W Coleta - uma das soluções de logística da B2W'
 ---
 
 A partir de primeiro de Novembro de 2019, a VTEX terá uma nova integração automática com a B2W Coleta - uma das soluções de logística da B2W.

@@ -12,7 +12,7 @@ slugEN: 2023-04-13-coupon-experience-improvements
 locale: es
 legacySlug: mejoras-en-la-experiencia-de-cupones
 announcementImageID: 'undefined'
-announcementSynopsisES: ' La nueva experiencia de Cupones para presentar más información estratégica y nuevas posibilidades de configuración.'
+announcementSynopsisES: 'La nueva experiencia de Cupones para presentar más información estratégica y nuevas posibilidades de configuración.'
 ---
 
 El principal objetivo de las promociones es aumentar la competitividad de la tienda y, en consecuencia, la tasa de conversión. Esto es posible cuando se ofrecen ventajas que resultan económicamente atractivas para los compradores. En este sentido, una estrategia de éxito sería utilizar [cupones](https://help.vtex.com/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL), es decir, códigos que puedes poner a disposición de los clientes de la tienda para aplicar promociones.

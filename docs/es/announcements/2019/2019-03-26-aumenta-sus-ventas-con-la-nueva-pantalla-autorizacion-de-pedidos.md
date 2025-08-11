@@ -12,7 +12,7 @@ slugEN: 2019-03-26-increase-your-sales-with-a-new-order-authorization-screen
 locale: es
 legacySlug: aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos
 announcementImageID: 'undefined'
-announcementSynopsisES: ' Esta herramienta permite el control de las aprobaciones de pedidos con cambios en sus valores.'
+announcementSynopsisES: 'Esta herramienta permite el control de las aprobaciones de pedidos con cambios en sus valores.'
 ---
 
 Esta herramienta permite el control de las aprobaciones de pedidos con cambios en sus valores. Las diferencias pueden existir de dos formas:

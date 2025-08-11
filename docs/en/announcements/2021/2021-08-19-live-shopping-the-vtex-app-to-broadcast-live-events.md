@@ -12,7 +12,7 @@ slugEN: 2021-08-19-live-shopping-the-vtex-app-to-broadcast-live-events
 locale: en
 legacySlug: live-shopping-the-vtex-app-to-broadcast-live-events
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'The app allows stores to carry out live broadcasts, product sales, and real-time chat with customers. '
+announcementSynopsisEN: 'The app allows stores to carry out live broadcasts, product sales, and real-time chat with customers.'
 ---
 
 The Live Shopping app is responsible for revolutionizing your relationship with your customers: use it to broadcast live on your store’s website, promoting product collections, increasing selling rates, and enhancing user experience simultaneously and in real-time.

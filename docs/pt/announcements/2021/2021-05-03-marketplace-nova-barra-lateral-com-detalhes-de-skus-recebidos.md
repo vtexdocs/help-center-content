@@ -12,7 +12,7 @@ slugEN: 2021-05-03-marketplace-new-sidebar-with-received-sku-details
 locale: pt
 legacySlug: marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral. '
+announcementSynopsisPT: 'Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral.'
 ---
 
 A página de [SKUs Recebidos](https://help.vtex.com/pt/tutorial/approving-suggestions-for-skus/) permite que o marketplace visualize, priorize e catalogue os itens enviados pelos sellers, tornando esses produtos disponíveis para venda. Nela, é possível catalogar os SKUs recebidos de sellers em relação aos SKUs e/ou produtos que já estão no marketplace, recusando-os, criando novos produtos, ou associando-os a produtos existentes. 

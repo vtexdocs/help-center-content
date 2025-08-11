@@ -12,7 +12,7 @@ slugEN: 2020-07-10-transitioning-api-integrations-to-https-tls-1-2
 locale: pt
 legacySlug: transicao-das-integracoes-via-api-para-https-tls-1-2
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Nos próximos meses, eliminaremos o suporte a todas as conexões HTTP a fim de aumentar a segurança da nossa plataforma. '
+announcementSynopsisPT: 'Nos próximos meses, eliminaremos o suporte a todas as conexões HTTP a fim de aumentar a segurança da nossa plataforma.'
 ---
 
 Como parte do nosso comprometimento contínuo em adotar padrões mundiais de segurança e privacidade, eliminaremos gradualmente o suporte a todas as conexões HTTP nos próximos meses. 

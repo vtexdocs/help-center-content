@@ -12,7 +12,7 @@ slugEN: 2021-03-15-wordpress-a-powerful-marketing-tool-for-your-store
 locale: es
 legacySlug: wordpress-una-poderosa-herramienta-de-marketing-para-su-tienda
 announcementImageID: 'undefined'
-announcementSynopsisES: 'Tiendas desarrolladas con VTEX IO ahora mostram páginas y publicaciones del blog de la marca dentro de la tienda. '
+announcementSynopsisES: 'Tiendas desarrolladas con VTEX IO ahora mostram páginas y publicaciones del blog de la marca dentro de la tienda.'
 ---
 
 El _marketing _de contenido ha sido muy utilizado como herramienta de _marketing_. WordPress es un _software _de código abierto con el que se puede crear libremente un sitio web o un _blog _que contenga páginas y publicaciones (categorizadas o no) sobre su marca y sus productos.

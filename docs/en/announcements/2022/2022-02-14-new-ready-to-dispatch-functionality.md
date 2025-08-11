@@ -12,7 +12,7 @@ slugEN: 2022-02-14-new-ready-to-dispatch-functionality
 locale: en
 legacySlug: new-ready-to-dispatch-functionality
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' New VTEX Log functionality for label printing and carrier notification.'
+announcementSynopsisEN: 'New VTEX Log functionality for label printing and carrier notification.'
 ---
 
 > ⚠️ This content is not available for this language because the new feature is only available for Brazilian stores that use the VTEX Shipping Network solution. 

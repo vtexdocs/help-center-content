@@ -12,7 +12,7 @@ slugEN: 2020-12-07-empower-your-customers-with-the-new-reviews-and-ratings-app
 locale: es
 legacySlug: empodere-a-sus-consumidores-con-la-nueva-app-reviews-and-ratings
 announcementImageID: 'undefined'
-announcementSynopsisES: '  Permita que su consumidor comente y califique los productos de su tienda con la nueva aplicación de VTEX App Store'
+announcementSynopsisES: 'Permita que su consumidor comente y califique los productos de su tienda con la nueva aplicación de VTEX App Store'
 ---
 
 Dé voz a su consumidor permitiéndole calificar productos y tomar decisiones más asertivas basadas en las calificaciones de otros usuarios. Aumente la credibilidad de sus productos y, consecuentemente, incremente su tasa de conversión.

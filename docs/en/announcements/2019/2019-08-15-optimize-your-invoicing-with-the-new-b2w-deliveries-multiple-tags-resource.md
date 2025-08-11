@@ -12,7 +12,7 @@ slugEN: 2019-08-15-optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-
 locale: en
 legacySlug: optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' VTEX will commence issuing multiple labels for B2W placed orders. Functionality will only be available for Brazil.'
+announcementSynopsisEN: 'VTEX will commence issuing multiple labels for B2W placed orders. Functionality will only be available for Brazil.'
 ---
 
 Starting August 12<sup>th</sup>, VTEX will commence issuing multiple labels for B2W placed orders. This functionality will only be available for stores that operate in Brazil.

@@ -12,7 +12,7 @@ slugEN: 2020-11-18-clustered-payment-conditions-customize-payment-options-for-b2
 locale: pt
 legacySlug: clustered-payments-conditions-personalize-as-opcoes-de-pagamento-para
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' Usuários do Customer Credit poderão criar condições especiais de pagamento para clusterizar seus clientes.'
+announcementSynopsisPT: 'Usuários do Customer Credit poderão criar condições especiais de pagamento para clusterizar seus clientes.'
 ---
 
 A partir de outubro, a VTEX contará com a Clustered Payments Conditions: uma nova modalidade de condições especiais de pagamento para usuários do Customer Credit. 

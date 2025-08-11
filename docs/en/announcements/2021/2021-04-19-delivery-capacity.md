@@ -12,7 +12,7 @@ slugEN: 2021-04-19-delivery-capacity
 locale: en
 legacySlug: delivery-capacity
 announcementImageID: 'undefined'
-announcementSynopsisEN: '  Manage and limit the number of items or orders in your scheduled delivery windows.'
+announcementSynopsisEN: 'Manage and limit the number of items or orders in your scheduled delivery windows.'
 ---
 
 

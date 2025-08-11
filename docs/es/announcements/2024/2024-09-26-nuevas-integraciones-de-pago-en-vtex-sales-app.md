@@ -12,7 +12,7 @@ slugEN: 2024-09-26-new-payment-integrations-for-vtex-sales-app
 locale: es
 legacySlug: nuevas-integraciones-de-pago-en-vtex-sales-app
 announcementImageID: 'undefined'
-announcementSynopsisES: ' Descubra las dos nuevas integraciones de pago disponibles en la App VTEX Sales'
+announcementSynopsisES: 'Descubra las dos nuevas integraciones de pago disponibles en la App VTEX Sales'
 ---
 
 Con el fin de optimizar las operaciones de VTEX Sales App en tu tienda, VTEX disponibiliza dos nuevas opciones de integración de pago: __Cielo__ y __Mercado Pago__.

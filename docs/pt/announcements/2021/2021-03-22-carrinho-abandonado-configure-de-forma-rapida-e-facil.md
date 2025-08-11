@@ -12,7 +12,7 @@ slugEN: 2021-03-22-abandoned-cart-app-configure-it-quickly-and-easily
 locale: pt
 legacySlug: carrinho-abandonado-configure-de-forma-rapida-e-facil
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Novo app simplifica o envio de emails para clientes que interromperam suas compras. '
+announcementSynopsisPT: 'Novo app simplifica o envio de emails para clientes que interromperam suas compras.'
 ---
 
 Se um potencial cliente visita sua loja já adicionou produtos no carrinho e se identificou com seu email, isto é um forte indício de intenção de compra. Por isso, a interrupção deste fluxo de compra deve ser tratada como uma oportunidade perdida. 

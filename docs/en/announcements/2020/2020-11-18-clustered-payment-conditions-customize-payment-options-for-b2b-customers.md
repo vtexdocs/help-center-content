@@ -12,7 +12,7 @@ slugEN: 2020-11-18-clustered-payment-conditions-customize-payment-options-for-b2
 locale: en
 legacySlug: clustered-payment-conditions-customize-payment-options-for-b2b-customers
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Customer Credit users can create special payment conditions to cluster their customers. '
+announcementSynopsisEN: 'Customer Credit users can create special payment conditions to cluster their customers.'
 ---
 
 The feature allows retailers to segment their customer base and offer different payment conditions for each group. 

@@ -12,7 +12,7 @@ slugEN: 2021-03-18-multiple-product-categorization-in-the-dafiti-marketplace
 locale: pt
 legacySlug: categorizacao-multipla-de-produtos-no-marketplace-dafiti
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' Associação de produto a múltiplas categorias por modelo de planilha de mapeamento que possui atributos obrigatórios'
+announcementSynopsisPT: 'Associação de produto a múltiplas categorias por modelo de planilha de mapeamento que possui atributos obrigatórios'
 ---
 
 A busca de produtos na sua loja Dafiti leva em consideração as categorias nas quais eles se encaixam. Para otimizar os resultados, é preciso que os produtos estejam inseridos em diversas categorias e retornem o máximo de resultados possíveis. 

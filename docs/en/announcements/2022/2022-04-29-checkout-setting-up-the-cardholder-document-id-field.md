@@ -12,7 +12,7 @@ slugEN: 2022-04-29-checkout-setting-up-the-cardholder-document-id-field
 locale: en
 legacySlug: checkout-setting-up-the-cardholder-document-id-field
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' Configuring the display of the cardholder ID field at checkout.'
+announcementSynopsisEN: 'Configuring the display of the cardholder ID field at checkout.'
 ---
 
 To allow our partners to operate in different locations and regions, each having its own requirements and shopping characteristics, VTEX is implementing the option of choosing whether or not to show the **Cardholder Document** field at Checkout. This way, anti-fraud solutions and retailers will have the autonomy to decide if that type of information should be requested from the customer for credit or debit card purchases.

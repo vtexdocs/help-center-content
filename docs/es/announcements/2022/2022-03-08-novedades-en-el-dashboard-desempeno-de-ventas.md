@@ -12,7 +12,7 @@ slugEN: 2022-03-08-sales-performance-dashboard-updates
 locale: es
 legacySlug: novedades-en-el-dashboard-desempeno-de-ventas
 announcementImageID: 'undefined'
-announcementSynopsisES: 'Lanzamos nuevos filtros, vistas sugeridas, datos próximos a tiempo real y nuevas formas de visualización de datos. '
+announcementSynopsisES: 'Lanzamos nuevos filtros, vistas sugeridas, datos próximos a tiempo real y nuevas formas de visualización de datos.'
 ---
 
 La página «Desempeño de ventas» es un dashboard que permite a los operadores de la tienda analizar los datos de todos los canales de venta de la tienda y de sus sellers, incluyendo métricas sobre los ingresos, pedidos, ticket promedio y mucho más. 

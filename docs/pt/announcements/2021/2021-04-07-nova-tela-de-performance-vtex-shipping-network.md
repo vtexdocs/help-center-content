@@ -12,7 +12,7 @@ slugEN: 2021-04-07-new-vtex-shipping-network-performance-page
 locale: pt
 legacySlug: nova-tela-de-performance-vtex-log
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' Tela de performance renovada melhora a experiência no acompanhamento de desempenho das transportadoras. '
+announcementSynopsisPT: 'Tela de performance renovada melhora a experiência no acompanhamento de desempenho das transportadoras.'
 ---
 
 Com a solução VTEX Shipping Network é possível monitorar o desempenho das transportadoras que realizam as entregas da sua loja. A funcionalidade **Performance** utiliza métricas que facilitam a análise de eficiência dos serviços prestados pelas transportadoras VTEX Shipping Network e transportadoras externas.  

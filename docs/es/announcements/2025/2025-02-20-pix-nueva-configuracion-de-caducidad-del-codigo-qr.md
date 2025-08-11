@@ -12,7 +12,7 @@ slugEN: 2025-02-20-pix-new-qr-code-expiration-setting
 locale: es
 legacySlug: pix-nueva-configuracion-de-caducidad-del-codigo-qr
 announcementImageID: 'undefined'
-announcementSynopsisES: ' La configuración del tiempo de vencimiento del Código QR PIX está disponible para tiendas VTEX.'
+announcementSynopsisES: 'La configuración del tiempo de vencimiento del Código QR PIX está disponible para tiendas VTEX.'
 ---
 
 Para optimizar las operaciones de pago en la plataforma, VTEX implementará una nueva configuración del tiempo de vencimiento de QR Code Pix (exclusivo Brasil).

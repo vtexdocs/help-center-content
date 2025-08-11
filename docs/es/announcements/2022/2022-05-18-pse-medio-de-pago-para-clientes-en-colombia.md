@@ -12,7 +12,7 @@ slugEN: 2022-05-18-pse-payment-method-for-customers-in-colombia
 locale: es
 legacySlug: pse-medio-de-pago-para-clientes-en-colombia
 announcementImageID: 'undefined'
-announcementSynopsisES: ' meta-description Procesa tus ventas con uno de los medios de pago más conocidos en Colombia.'
+announcementSynopsisES: 'meta-description Procesa tus ventas con uno de los medios de pago más conocidos en Colombia.'
 ---
 
 VTEX ahora ofrece uno de los medios de pago más populares en Colombia, [PSE](https://www.pse.com.co/empresa) (Pagos Seguros en Línea). A través de él, el consumidor es redirigido a su página de banca en línea tras confirmar el pedido y realizar el pago por débito online.

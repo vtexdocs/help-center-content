@@ -12,7 +12,7 @@ slugEN: 2021-03-12-freely-develop-custom-storefront-components-in-vtex-io
 locale: en
 legacySlug: freely-develop-custom-storefront-components-in-vtex-io
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'Authorization is no longer required to develop storefront components using VTEX IO. '
+announcementSynopsisEN: 'Authorization is no longer required to develop storefront components using VTEX IO.'
 ---
 
 If your store is built using the [VTEX Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/what-is-store-framework) and you are missing that one special storefront component, we have good news: previous authorization is no longer required to use the VTEX React [builder](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders)!

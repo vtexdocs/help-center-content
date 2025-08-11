@@ -12,7 +12,7 @@ slugEN: 2021-03-04-improvement-of-the-seller-white-label-selection-algorithm
 locale: es
 legacySlug: mejora-del-algoritmo-de-seleccion-de-sellers-white-label
 announcementImageID: 'undefined'
-announcementSynopsisES: '  Entienda cómo funciona la lógica de la elección de sellers para entrega o recogida.'
+announcementSynopsisES: 'Entienda cómo funciona la lógica de la elección de sellers para entrega o recogida.'
 ---
 
 Cuando una tienda tiene múltiples sellers para ampliar su oferta de productos y capacidad logística, puede haber numerosas combinaciones de precio y plazo de entrega disponibles para un mismo SKU. Para garantizar que se muestren las mejores alternativas al comprador, codificamos diversos filtros y reglas de negocio en el [algoritmo de selección de sellers](https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa?&utm_source=autocomplete) del checkout.

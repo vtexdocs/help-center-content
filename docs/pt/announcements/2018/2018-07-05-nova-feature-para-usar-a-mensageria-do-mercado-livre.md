@@ -12,7 +12,7 @@ slugEN: 2018-07-05-a-new-feature-to-use-mercado-livres-messaging-service
 locale: pt
 legacySlug: nova-feature-para-usar-a-mensageria-do-mercado-livre
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Agora, você pode comunicar atualizações no status do pedido usando o serviço de mensagens do Mercado Livre. '
+announcementSynopsisPT: 'Agora, você pode comunicar atualizações no status do pedido usando o serviço de mensagens do Mercado Livre.'
 ---
 
 A VTEX desenvolveu uma nova feature para suportar a Mensageria, o serviço de mensagens do Mercado Livre. Agora, os dados dos pedidos podem ser usados pela funcionalidade do marketplace para notificar seus clientes.

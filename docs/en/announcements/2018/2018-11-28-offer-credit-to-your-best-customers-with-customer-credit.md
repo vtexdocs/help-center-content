@@ -12,7 +12,7 @@ slugEN: 2018-11-28-offer-credit-to-your-best-customers-with-customer-credit
 locale: en
 legacySlug: offer-credit-to-your-best-customers-with-customer-credit
 announcementImageID: 'undefined'
-announcementSynopsisEN: "Credit Control will be replaced by VTEX's new credit solution for your store's clients. "
+announcementSynopsisEN: "Credit Control will be replaced by VTEX's new credit solution for your store's clients."
 ---
 
 __Customer Credit__ is VTEX's new solution for your store to offer credit to its best customers. Launched today, it brings several features that didn't exist within Credit Control: More deadline and installments options, authentication and credit available right on your store's checkout, and a pre-authorization and capture system more like the ones used by credit card payments.
