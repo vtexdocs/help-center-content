@@ -1,5 +1,5 @@
 const { getEntryStatus } = require("../utils/entryStatus");
-const { fixImageLinks } = require("../utils/markdownUtils");
+const { toISODate } = require("../utils/markdownUtils");
 
 //GENERATE TRACKS MARKDOWN FILES
 function generateTrackMarkdown(entry, locale = "en") {
@@ -103,13 +103,15 @@ ${text}
 function generateAnnouncementMarkdown(entry, locale = "en") {
   const { fields, sys } = entry;
 
+  const dateISO = toISODate(sys.createdAt);
+
   const title = fields.title?.[locale] || "Untitled";
-  const slugLocalized = fields.slug?.[locale] || "untitled";
-  const slugEN = fields.slug?.en || "untitled";
+  const slugLocalized = `${dateISO}-${fields.slug?.[locale]}` || "undefined";
+  const slugEN = `${dateISO}-${fields.slug?.en}` || "undefined";
   const productTeam = fields.xpTeam?.pt || "unknown";
-  const author = fields.author?.pt?.[0]?.sys?.id || "";
-  const legacySlug = fields.legacySlug?.[locale] || "";
-  const announcementImageID = fields.image?.pt?.id || "";
+  const author = fields.author?.pt?.[0]?.sys?.id || "undefined";
+  const legacySlug = fields.legacySlug?.[locale] || "undefined";
+  const announcementImageID = fields.image?.pt?.id || "undefined";
   const synopsis = fields.synopsis?.[locale] || "";
   const status = getEntryStatus(sys);
   const year = new Date(sys.createdAt).getFullYear();

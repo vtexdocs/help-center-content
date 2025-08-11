@@ -1,3 +1,9 @@
+function toISODate(dateStr) {
+  // dateStr vem em ISO do Contentful (ex: 2025-07-03T12:34:56.000Z)
+  // Queremos só YYYY-MM-DD
+  return (dateStr || "").slice(0, 10);
+}
+
 function convertCalloutToMarkdown(markdownContent) {
   const calloutMap = {
     info: "ℹ️",
@@ -29,6 +35,7 @@ function convertInlineHtmlToMarkdown(content) {
 }
 
 module.exports = {
+  toISODate,
   convertInlineHtmlToMarkdown,
   convertCalloutToMarkdown,
 };
