@@ -20,8 +20,8 @@ function yamlSafeString(value) {
   const hasDouble = value.includes('"');
 
   if (hasSingle && hasDouble) {
-    // Aspas simples e duplas → usa crases
-    return `\`${value}\``;
+    // Aspas simples e duplas → usa aspas duplas externas e escapa as internas
+    return `"${value.replace(/"/g, '\\"')}"`;
   } else if (hasSingle) {
     // Apenas aspas simples → usa aspas duplas
     return `"${value.replace(/"/g, '\\"')}"`;
