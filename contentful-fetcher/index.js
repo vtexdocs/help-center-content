@@ -12,6 +12,7 @@ const { isArchived } = require("./utils/entryStatus");
 const { normalizeFolderName } = require("./utils/normalize");
 const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
 const { updateImages } = require("./utils/updateImages");
+const { isDraft } = require("contentful-management");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
@@ -57,8 +58,8 @@ async function main() {
 
   //CREATE FILES
   for (const entry of entries) {
-    if (isArchived(entry)) {
-      console.log(`⏭️ Skipping archived entry ${entry.sys.id}`);
+    if (isArchived(entry) || isDraft(entry)) {
+      console.log(`⏭️ Skipping archived/draft entry ${entry.sys.id}`);
       continue;
     }
 

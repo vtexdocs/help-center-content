@@ -187,6 +187,19 @@ function getTrackTopics() {
 
   return categories;
 }
+function listAllMarkdownFiles(dir) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  const files = [];
+  for (const entry of entries) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...listAllMarkdownFiles(full));
+    } else if (entry.isFile() && path.extname(entry.name) === ".md") {
+      files.push(full);
+    }
+  }
+  return files;
+}
 
 function getNews() {
   console.log("Getting news...");
@@ -210,102 +223,85 @@ function getNews() {
   const ptDir = "docs/pt/announcements";
   const esDir = "docs/es/announcements";
 
-  const enFiles = fs
-    .readdirSync(enDir)
-    .filter((file) => fs.statSync(path.join(enDir, file)).isFile());
-  const ptFiles = fs
-    .readdirSync(ptDir)
-    .filter((file) => fs.statSync(path.join(ptDir, file)).isFile());
-  const esFiles = fs
-    .readdirSync(esDir)
-    .filter((file) => fs.statSync(path.join(esDir, file)).isFile());
+  const enFiles = listAllMarkdownFiles(enDir);
+  const ptFiles = listAllMarkdownFiles(ptDir);
+  const esFiles = listAllMarkdownFiles(esDir);
 
-  const news = {};
+  const news = {}; // { [year]: [ {monthCat}, ... ] }
 
-  enFiles.forEach((file) => {
-    if (path.extname(file) === ".md") {
-      const filePath = enDir + "/" + file;
-      //    console.log("File path:" + filePath);
-      const content = fs.readFileSync(filePath, "utf8");
-      //    console.log("Content:" + content);
-      const fileDate = new Date(file.substring(0, 10)); // Extract date from file name prefix
-      const year = fileDate.getUTCFullYear();
-      const month = fileDate.getUTCMonth();
+  for (const filePath of enFiles) {
+    const fileName = path.basename(filePath); // ex.: 2025-07-03-nova-regra-....
+    if (path.extname(fileName) !== ".md") continue;
 
-      if (!news[year]) {
-        news[year] = months.map((month) => ({
-          name: month,
-          slug: `announcements-${year}-${month.en}`,
-          origin: "",
-          type: "category",
-          children: [],
-        }));
-      }
+    const content = fs.readFileSync(filePath, "utf8");
 
-      const enSlug = file.replace(".md", "");
-      //    console.log(enSlug)
-      const { title } = safeExtractFrontmatter(content);
-
-      //    console.log("Title:" + title)
-
-      const ptFile = ptFiles.find((f) => {
-        const ptContent = fs.readFileSync(ptDir + "/" + f, "utf8");
-        const slugMatch = ptContent.match(/^slugEN:\s*(\S+)$/m);
-        if (slugMatch) {
-          const slugENTrimmed = slugMatch[1].trim().toLowerCase();
-          const enSlugTrimmed = enSlug.trim().toLowerCase();
-          return slugENTrimmed === enSlugTrimmed;
-        } else {
-          return false;
-        }
-      });
-
-      const esFile = esFiles.find((f) => {
-        const esContent = fs.readFileSync(esDir + "/" + f, "utf8");
-        const slugMatch = esContent.match(/^slugEN:\s*(\S+)$/m);
-        if (slugMatch) {
-          const slugENTrimmed = slugMatch[1].trim().toLowerCase();
-          const enSlugTrimmed = enSlug.trim().toLowerCase();
-          return slugENTrimmed === enSlugTrimmed;
-        } else {
-          return false;
-        }
-      });
-
-      news[year][month].children.push({
-        name: {
-          en: title,
-          pt: ptFile
-            ? fs
-                .readFileSync(ptDir + "/" + ptFile, "utf8")
-                .match(/(?:^|\n)title:\s*["'](.*?)["']/)[1]
-            : "",
-          es: esFile
-            ? fs
-                .readFileSync(esDir + "/" + esFile, "utf8")
-                .match(/(?:^|\n)title:\s*["'](.*?)["']/)[1]
-            : "",
-        },
-        slug: {
-          en: enSlug,
-          pt: ptFile ? ptFile.replace(".md", "") : "",
-          es: esFile ? esFile.replace(".md", "") : "",
-        },
-        origin: "",
-        type: "markdown",
-        children: [],
-      });
+    // data vem do prefixo YYYY-MM-DD no NOME do arquivo
+    const fileDate = new Date(fileName.substring(0, 10));
+    if (isNaN(fileDate)) {
+      console.warn(`⚠️ Ignorando arquivo sem data válida: ${filePath}`);
+      continue;
     }
-  });
+
+    const year = fileDate.getUTCFullYear();
+    const monthIdx = fileDate.getUTCMonth();
+
+    if (!news[year]) {
+      news[year] = months.map((m) => ({
+        name: m,
+        slug: `announcements-${year}-${m.en}`,
+        origin: "",
+        type: "category",
+        children: [],
+      }));
+    }
+
+    const enSlug = fileName.replace(".md", "");
+    const { title } = safeExtractFrontmatter(content);
+
+    // localizar correspondentes pt/es pelo slugEN no conteúdo
+    const findBySlugEN = (filesArr, baseDir) => {
+      for (const f of filesArr) {
+        const c = fs.readFileSync(f, "utf8");
+        const m = c.match(/^slugEN:\s*(\S+)$/m);
+        if (m && m[1].trim().toLowerCase() === enSlug.toLowerCase()) {
+          return f; // caminho completo
+        }
+      }
+      return null;
+    };
+
+    const ptMatchPath = findBySlugEN(ptFiles, ptDir);
+    const esMatchPath = findBySlugEN(esFiles, esDir);
+
+    const getTitleFrom = (fullPath) => {
+      if (!fullPath) return "";
+      const c = fs.readFileSync(fullPath, "utf8");
+      const t = c.match(/(?:^|\n)title:\s*["'](.*?)["']/);
+      return t ? t[1] : "";
+    };
+
+    news[year][monthIdx].children.push({
+      name: {
+        en: title,
+        pt: getTitleFrom(ptMatchPath),
+        es: getTitleFrom(esMatchPath),
+      },
+      slug: {
+        // usamos somente o nome do arquivo como slug (sem extensão)
+        en: enSlug,
+        pt: ptMatchPath ? path.basename(ptMatchPath, ".md") : "",
+        es: esMatchPath ? path.basename(esMatchPath, ".md") : "",
+      },
+      origin: "",
+      type: "markdown",
+      children: [],
+    });
+  }
 
   const newsCategories = [];
   for (const year in news) {
     newsCategories.push({
-      name: {
-        en: `${year}`,
-        es: `${year}`,
-        pt: `${year}`,
-      },
+      name: { en: `${year}`, es: `${year}`, pt: `${year}` },
       slug: `announcements-${year}`,
       origin: "",
       type: "category",
@@ -313,16 +309,22 @@ function getNews() {
     });
   }
 
-  // Sort years from most recent to oldest
-  newsCategories.sort((a, b) => b.name.en - a.name.en);
+  // 📅 anos desc
+  newsCategories.sort((a, b) => Number(b.name.en) - Number(a.name.en));
 
-  // Sort months within each year from most recent to oldest
+  // 📅 meses desc e posts dentro do mês desc (alfabético pelo slug -> equivale a data desc)
   newsCategories.forEach((yearCategory) => {
     yearCategory.children.sort(
       (a, b) =>
         months.findIndex((m) => m.en === b.name.en) -
         months.findIndex((m) => m.en === a.name.en)
     );
+
+    yearCategory.children.forEach((monthCategory) => {
+      monthCategory.children.sort(
+        (a, b) => b.slug.en.localeCompare(a.slug.en) // desc: mais novo → mais antigo
+      );
+    });
   });
 
   return newsCategories;
