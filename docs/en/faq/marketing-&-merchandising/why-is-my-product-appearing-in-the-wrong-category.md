@@ -22,7 +22,7 @@ The first step is to perform a GET request to Catalog API's [Get Product by Id A
 
 The response of this call brings the information of `DepartmentId` and `CategoryId`, as we may see in the image below:
 
-![department-id-category-id](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-&-merchandising/why-is-my-product-appearing-in-the-wrong-category_1.png)
+![department-id-category-id](//images.contentful.com/alneenqid6w5/1wJqRKDEcYkGqqsMAGy0aA/bf3521922d99fe678031a1898326b1ea/department-id-category-id.png)
 
 Then you should compare this response to the Ids that appear in your category tree. To access your category tree, follow the steps below:
 

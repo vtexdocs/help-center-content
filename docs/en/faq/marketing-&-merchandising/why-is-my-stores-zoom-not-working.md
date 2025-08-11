@@ -25,7 +25,7 @@ This image size can be set up through the following steps:
 2. Enter Settings.
 3. Click __File Types__ tab.
 
-![Tipos de Arquivo EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-&-merchandising/why-is-my-stores-zoom-not-working_1.png)
+![Tipos de Arquivo EN](//images.ctfassets.net/alneenqid6w5/3vFG4pv5Wgkcu6GaIEgOAa/17ee2d04db1d1dce4237de9bfaf6cc9e/Tipos_de_Arquivo_EN.png)
 
 The 1000x1000 size means that the resulting zoom will display the image in that size. Thus, this is the minimum size for the zoom to work.
 

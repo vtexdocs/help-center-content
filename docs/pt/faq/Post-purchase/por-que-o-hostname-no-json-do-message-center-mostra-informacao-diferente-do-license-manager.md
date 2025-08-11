@@ -18,6 +18,6 @@ O JSON utilizado pela Central de mensagens, ou seja, a fonte das informações q
 
 Ao visualizar a variável `hostName` no JSON da Central de mensagens, pode surgir a dúvida de onde esse dado é carregado. Por mais que o nome da variável seja host, ela carrega o nome - não alterável - do site criado na aba Conta do Gerenciamento da conta.
 
-![VTEX - License Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/Post-purchase/por-que-o-hostname-no-json-do-message-center-mostra-informacao-diferente-do-license-manager_1.png)
+![VTEX - License Manager](//images.contentful.com/alneenqid6w5/5sZb9Mvw4wcK6oM40CKEak/eee7f0e5848c179c678761a418a978b4/2017-03-22-12_33_29-VTEX-License-Manager.png)
 
 Ou seja, não será carregado o valor inserido na área de Hosts, e sim, conforme imagem acima, será carregado para o template de e-mail o valor cadastrado em **Nome da Loja**.

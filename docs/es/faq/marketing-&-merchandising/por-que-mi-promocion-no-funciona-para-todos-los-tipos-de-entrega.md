@@ -22,7 +22,7 @@ Para especificar en qué tipo de entrega desea aplicar la promoción, es necesar
 2. Haga clic en el card de la promoción a que desea aplicar el envío gratis.
 3. En el ítem 3, active la flag __Tipo de carga__ y especifique cuales deben recibir el flete gratis.
 
-![promoções-campo-tipo-frete es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-&-merchandising/por-que-mi-promocion-no-funciona-para-todos-los-tipos-de-entrega_1.png)
+![promoções-campo-tipo-frete es](//images.ctfassets.net/alneenqid6w5/4wTOYyINOgy4oGceMGmQKM/46c06b029b0e1a8fcf3f3ab48eaddf3a/promo____es-campo-tipo-frete_es.png)
 
 Hecho esto, los tipos de flete especificados entrarán en la promoción y aparecerán para el cliente con el flete gratis disponible.
 
