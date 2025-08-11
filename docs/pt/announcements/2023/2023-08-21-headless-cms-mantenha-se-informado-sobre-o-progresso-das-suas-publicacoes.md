@@ -12,7 +12,7 @@ slugEN: 2023-08-21-headless-cms-stay-informed-on-your-publication-progress
 locale: pt
 legacySlug: headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' Mantenha-se informado sobre as etapas de publicação do Headless CMS e identifique rapidamente erros de publicação.'
+announcementSynopsisPT: 'Mantenha-se informado sobre as etapas de publicação do Headless CMS e identifique rapidamente erros de publicação.'
 ---
 
 O Headless CMS agora conta com uma funcionalidade de notificação que mantém você informado durante cada etapa do processo de publicação. As novas notificações fornecem atualizações sobre cada estágio de uma publicação no VTEX Headless CMS, mantendo os usuários informados sobre os estágios de compilação (build) da publicação em Lançamentos, VTEX Headless CMS e FastStore. 

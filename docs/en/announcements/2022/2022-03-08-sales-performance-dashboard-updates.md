@@ -12,7 +12,7 @@ slugEN: 2022-03-08-sales-performance-dashboard-updates
 locale: en
 legacySlug: sales-performance-dashboard-updates
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'We have launched new filters, suggested views, data in near-real time, and new ways of viewing the data. '
+announcementSynopsisEN: 'We have launched new filters, suggested views, data in near-real time, and new ways of viewing the data.'
 ---
 
 The Sales Performance dashboard allows store operators to analyze data from all the store's sales channels and sellers, including metrics on revenue, orders, average ticket, and more. 

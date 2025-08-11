@@ -12,7 +12,7 @@ slugEN: 2018-09-04-changes-in-the-orderplaced-provide-more-precision-to-google-a
 locale: en
 legacySlug: changes-in-the-orderplaced-provide-more-precision-to-google-analytics-data
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' Now, orders with products from more than one seller generate a single event on Google Analytics.'
+announcementSynopsisEN: 'Now, orders with products from more than one seller generate a single event on Google Analytics.'
 ---
 
 The order confirmation page (also known as orderPlaced) received a series of improvements in its data layer. The update gets rid of existing redundancies in event creation on Google Analytics.

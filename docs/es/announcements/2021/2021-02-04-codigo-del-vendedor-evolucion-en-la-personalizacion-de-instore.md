@@ -12,7 +12,7 @@ slugEN: 2021-02-04-sales-rep-code-instore-customization-improvements
 locale: es
 legacySlug: codigo-del-vendedor-evolucion-en-la-personalizacion-de-instore
 announcementImageID: 'undefined'
-announcementSynopsisES: 'Ahora el cliente puede hacer que el código del vendedor sea una etapa obligatoria para la finalización de una venta. '
+announcementSynopsisES: 'Ahora el cliente puede hacer que el código del vendedor sea una etapa obligatoria para la finalización de una venta.'
 ---
 
 inStore, la solución para tiendas físicas de VTEX, permite que los administradores de tiendas personalicen las mismas según las necesidades de su negocio. Estas modificaciones se realizan a través de campos que se pueden incorporar al flujo de compra. 

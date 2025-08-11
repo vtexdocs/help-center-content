@@ -12,7 +12,7 @@ slugEN: 2020-05-05-inventory-and-shipping-see-what-has-changed-in-the-dashboard-
 locale: en
 legacySlug: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
 announcementImageID: 'undefined'
-announcementSynopsisEN: 'We improved the “Dashboard” usability, and changed its name to Shipping Strategy '
+announcementSynopsisEN: 'We improved the “Dashboard” usability, and changed its name to Shipping Strategy'
 ---
 
 All of your store’s logistics management takes place in the Inventory & Shipping module. It includes the "Dashboard" tab, in which you can configure the carriers, loading docks and inventories that are linked to your operation. We have updated this functionality in order to improve your experience when browsing the Inventory & Shipping module.

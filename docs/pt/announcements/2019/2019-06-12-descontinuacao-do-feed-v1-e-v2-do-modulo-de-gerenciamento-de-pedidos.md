@@ -12,7 +12,7 @@ slugEN: 2019-06-12-order-management-module-feed-v1-and-v2-discontinuation
 locale: pt
 legacySlug: descontinuacao-do-feed-v1-e-v2-do-modulo-de-gerenciamento-de-pedidos
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' O Feed v1 e v2 do módulo de Gerenciamento de pedidos será descontinuado'
+announcementSynopsisPT: 'O Feed v1 e v2 do módulo de Gerenciamento de pedidos será descontinuado'
 ---
 
 > ⚠️ A partir do dia 25 de julho de 2019, o Feed v1 e v2 do módulo de Gerenciamento de pedidos será descontinuado. Isso significa que, após esta data, somente será possível usar o Feed v3.

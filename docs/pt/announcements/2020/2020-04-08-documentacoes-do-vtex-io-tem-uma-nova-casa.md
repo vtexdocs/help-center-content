@@ -12,7 +12,7 @@ slugEN: 2020-04-08-vtex-io-documentation-has-a-new-home
 locale: pt
 legacySlug: documentacoes-do-vtex-io-tem-uma-nova-casa
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'As documentações do  VTEX IO e VTEX IO Store Framework agora disponíveis no VTEX IO Docs. '
+announcementSynopsisPT: 'As documentações do  VTEX IO e VTEX IO Store Framework agora disponíveis no VTEX IO Docs.'
 ---
 
 Desde 13 de março de 2020, as documentações do  VTEX IO e VTEX IO Store Framework não estão mais disponíveis no Help Center da VTEX. 

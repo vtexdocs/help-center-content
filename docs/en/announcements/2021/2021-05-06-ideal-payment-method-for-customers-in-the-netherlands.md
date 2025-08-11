@@ -12,7 +12,7 @@ slugEN: 2021-05-06-ideal-payment-method-for-customers-in-the-netherlands
 locale: en
 legacySlug: ideal-payment-method-for-customers-in-the-netherlands
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' One of the main payment methods in the Netherlands, can now be integrated into your store through Adyen.'
+announcementSynopsisEN: 'One of the main payment methods in the Netherlands, can now be integrated into your store through Adyen.'
 ---
 
 VTEX recently started offering an integration with [iDEAL](https://www.ideal.nl/en/consumers/what-is-ideal/), one of the leading payment methods in The Netherlands. Used in over 60% of the transactions in the country, iDEAL can be configured in your store through an integration with [Adyen](https://www.adyen.com/).

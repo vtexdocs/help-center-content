@@ -12,7 +12,7 @@ slugEN: 2020-12-07-wishlist-discover-the-new-vtex-app-store-app
 locale: es
 legacySlug: wishlist-descubra-la-nueva-aplicacion-de-vtex-app-store
 announcementImageID: 'undefined'
-announcementSynopsisES: '  Ofrezca a su consumidor la posibilidad de crear listas de deseos con la nueva aplicación de VTEX App Store.'
+announcementSynopsisES: 'Ofrezca a su consumidor la posibilidad de crear listas de deseos con la nueva aplicación de VTEX App Store.'
 ---
 
 Usted lo pidió y nosotros lo escuchamos: ¡ahora su tienda puede poner a disposición de los consumidores finales la funcionalidad de lista de deseos (wishlist)! Aumente el compromiso de sus clientes y sus ventas, permitiéndoles crear colecciones de productos de su interés para compras futuras.

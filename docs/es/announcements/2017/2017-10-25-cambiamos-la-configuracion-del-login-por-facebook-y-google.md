@@ -12,7 +12,7 @@ slugEN: 2017-10-25-facebook-and-google-login-settings-have-changed
 locale: es
 legacySlug: cambiamos-la-configuracion-del-login-por-facebook-y-google
 announcementImageID: 'undefined'
-announcementSynopsisES: ' La flag "Usar claves VTEX" fue deshabilitada y el tendero necesita configurar sus propias'
+announcementSynopsisES: 'La flag "Usar claves VTEX" fue deshabilitada y el tendero necesita configurar sus propias'
 ---
 
 El acceso por Facebook y Google es una funcionalidad de gran alcance, utilizada por cientos de tiendas VTEX. Y la configuración de esta funcionalidad ha cambiado. 

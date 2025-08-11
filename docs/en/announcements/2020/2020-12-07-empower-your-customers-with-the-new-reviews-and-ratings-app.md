@@ -12,7 +12,7 @@ slugEN: 2020-12-07-empower-your-customers-with-the-new-reviews-and-ratings-app
 locale: en
 legacySlug: empower-your-customers-with-the-new-reviews-and-ratings-app
 announcementImageID: 'undefined'
-announcementSynopsisEN: '  Allow your consumer to review and rate your store products with the new VTEX App Store: Reviews and Ratings app'
+announcementSynopsisEN: 'Allow your consumer to review and rate your store products with the new VTEX App Store: Reviews and Ratings app'
 ---
 
 Give your customers a voice by allowing them to rate products and make more assertive decisions based on ratings from other users. Enhance the credibility of your products and increase your conversion rate as a result.

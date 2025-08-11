@@ -12,7 +12,7 @@ slugEN: 2019-08-30-adapting-your-stores-front-end-requisites-to-master-data
 locale: pt
 legacySlug: adaptacao-das-requisicoes-de-front-end-da-sua-loja-ao-master-data
 announcementImageID: 'undefined'
-announcementSynopsisPT: ' A VTEX descontinuará o suporte ao CORS do Master Data.'
+announcementSynopsisPT: 'A VTEX descontinuará o suporte ao CORS do Master Data.'
 ---
 
 Com o principal objetivo de fornecer uma experiência cada vez mais eficiente para você e seus clientes, **a VTEX descontinuará o suporte ao CORS do Master Data.** Siga as instruções deste artigo e evite qualquer falha na operação e na navegação da sua loja.

@@ -12,7 +12,7 @@ slugEN: 2022-02-14-new-ready-to-dispatch-functionality
 locale: es
 legacySlug: nueva-funcionalidad-listos-para-despacho
 announcementImageID: 'undefined'
-announcementSynopsisES: ' Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.'
+announcementSynopsisES: 'Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.'
 ---
 
 > ⚠️ Este contenido no está disponible en este idioma, ya que la nueva funcionalidad solo está disponible para las tiendas de Brasil que utilizan la solución VTEX Shipping Network.

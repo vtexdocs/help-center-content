@@ -12,7 +12,7 @@ slugEN: 2021-04-19-delivery-capacity
 locale: es
 legacySlug: capacidad-de-entrega
 announcementImageID: 'undefined'
-announcementSynopsisES: '  Gestione y limite el número de ítems o pedidos en sus ventanas de entrega programadas.'
+announcementSynopsisES: 'Gestione y limite el número de ítems o pedidos en sus ventanas de entrega programadas.'
 ---
 
 

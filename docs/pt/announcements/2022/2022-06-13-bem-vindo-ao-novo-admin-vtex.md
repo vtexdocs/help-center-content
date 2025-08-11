@@ -12,7 +12,7 @@ slugEN: 2022-06-13-welcome-to-the-redesigned-vtex-admin
 locale: pt
 legacySlug: bem-vindo-ao-novo-admin-vtex
 announcementImageID: 'undefined'
-announcementSynopsisPT: 'Estamos trazendo o futuro do comércio até você através do novo design do Admin VTEX. '
+announcementSynopsisPT: 'Estamos trazendo o futuro do comércio até você através do novo design do Admin VTEX.'
 ---
 
 As empresas digitais têm buscado cada vez mais ferramentas que permitam que elas cresçam com menos atrito enquanto suas equipes podem se concentrar no que é mais importante para seus negócios. Por isso, a VTEX está lançando uma nova versão do seu Admin: para permitir que os comerciantes gerenciem toda a sua experiência de comércio digital em um único lugar, de forma mais simples e inteligente, com melhorias significativas quanto ao acesso aos dados e à realização de tarefas diárias.

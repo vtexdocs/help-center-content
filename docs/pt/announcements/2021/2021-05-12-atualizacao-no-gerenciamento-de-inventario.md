@@ -12,7 +12,7 @@ slugEN: 2021-05-12-inventory-management-updates
 locale: pt
 legacySlug: atualizacao-no-gerenciamento-de-inventario
 announcementImageID: 'undefined'
-announcementSynopsisPT: '  A aba “Inventário” do Estoque & Entrega foi atualizada para “Gerenciar Inventário”, a interface também mudou.'
+announcementSynopsisPT: 'A aba “Inventário” do Estoque & Entrega foi atualizada para “Gerenciar Inventário”, a interface também mudou.'
 ---
 
 

@@ -12,7 +12,7 @@ slugEN: 2022-07-25-the-vtex-admin-is-now-available-in-thai
 locale: es
 legacySlug: el-admin-vtex-ahora-esta-disponible-en-tailandes
 announcementImageID: 'undefined'
-announcementSynopsisES: ' Admin con una nueva opción de idioma.'
+announcementSynopsisES: 'Admin con una nueva opción de idioma.'
 ---
 
 El Admin VTEX admite diferentes opciones de idiomas para atender a nuestros clientes en todo el mundo. Localizamos nuestro producto para mejorar tu experiencia en general, no solo mediante traducciones, sino también a nivel cultural al tomar en cuenta las particularidades de cada país.

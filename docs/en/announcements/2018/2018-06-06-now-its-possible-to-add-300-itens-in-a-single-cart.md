@@ -12,7 +12,7 @@ slugEN: 2018-06-06-now-its-possible-to-add-300-itens-in-a-single-cart
 locale: en
 legacySlug: now-its-possible-to-add-300-itens-in-a-single-cart
 announcementImageID: 'undefined'
-announcementSynopsisEN: ' Versions 5 and 6 of the shopping cart now support big orders while keeping the performance of your store.'
+announcementSynopsisEN: 'Versions 5 and 6 of the shopping cart now support big orders while keeping the performance of your store.'
 ---
 
 The shopping cart (v5 and v6) of your store now can handle up to 300 items. But it won't make the loading speed of the page slower, because of the optimizations we've implemented.

@@ -12,7 +12,7 @@ slugEN: 2021-04-19-delivery-capacity
 locale: pt
 legacySlug: capacidade-de-entrega
 announcementImageID: 'undefined'
-announcementSynopsisPT: '  Gerencie e limite a quantidade de itens ou pedidos das suas janelas de entregas agendadas.'
+announcementSynopsisPT: 'Gerencie e limite a quantidade de itens ou pedidos das suas janelas de entregas agendadas.'
 ---
 
 
