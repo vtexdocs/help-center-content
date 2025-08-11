@@ -63,8 +63,6 @@ async function processDirectory(dirPath, contentTypeFolder) {
  * @param {string|null} contentTypeFolder - e.g. 'tutorials', 'tracks', 'faq'
  */
 async function updateImages(contentTypeFolder = null) {
-  console.log(`📥 Updating images${contentTypeFolder ? ` in content type: ${contentTypeFolder}` : ''}...`);
-
   const LOCALE_DIRS = [docsDirEN, docsDirPT, docsDirES];
 
   for (const localeDir of LOCALE_DIRS) {
@@ -85,7 +83,7 @@ async function updateImages(contentTypeFolder = null) {
     await new Promise(resolve => setTimeout(resolve, 100));
   }
 
-  console.log("✅ Finished replacing all images.");
+  console.log("🚀 Finished replacing all images.");
 }
 
 // CLI support: allow direct usage like `node utils/updateImages.js tutorials`

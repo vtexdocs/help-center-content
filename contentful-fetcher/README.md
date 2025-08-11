@@ -31,6 +31,7 @@ Each Markdown file includes rich frontmatter metadata for easy processing and re
 - 📁 Organizes tutorials by category/subcategory
 - 🧾 Adds structured frontmatter (ID, status, slugs, team, etc.)
 - ✅ Uses Contentful Management API
+- 🖼️ Downloads and renames images, updating Markdown links automatically
 
 ---
 
@@ -55,16 +56,15 @@ CONTENTFUL_ENVIRONMENT=master
 ## 🛠️ Project Structure
 
 ```
-contentful-exporter/
-├── exporter/               # All script logic (fetchers, writers, utils)
+help-center-content/
+├── contentful-fetcher/               # All script logic (fetchers, writers, utils)
 │   ├── fetch/              # Contentful client and entry loaders
 │   ├── writers/            # Markdown generators and file writers
 │   ├── utils/              # Helpers (e.g. slug normalization)
 │   └── index.js            # Main script entry point
-├── docs/                   # Generated Markdown files (output)
-├── .env                    # Contentful credentials
 ├── package.json
-```
+├── docs/                   # Generated Markdown files (output)
+├── .env                    # Contentful credentials```
 
 ---
 
@@ -73,7 +73,7 @@ contentful-exporter/
 To export content:
 
 ```bash
-node contentful-fetcher/index.js --contentType=tutorial --contentType=trackArticle
+node contentful-fetcher/index.js --contentType=tutorial
 ```
 
 You can also pass multiple content types:
@@ -81,6 +81,18 @@ You can also pass multiple content types:
 ```bash
 node contentful-fetcher/index.js --contentType=trackArticle,tutorial
 ```
+
+### 🖼️ Images
+
+All images referenced in Markdown are automatically downloaded, renamed for uniqueness, and their links are updated to point to the new location. 
+
+You can skip image downloading and link updates by passing the `--skipImages` flag:
+
+```bash
+node contentful-fetcher/index.js --contentType=trackArticle,tutorial --skipImages
+```
+
+This will export content without downloading images or modifying image links.
 
 ---
 

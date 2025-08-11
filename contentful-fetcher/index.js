@@ -48,7 +48,12 @@ async function main() {
     );
   }
 
+  console.log(
+    `📚 Fetching entries for content types: ${contentTypes.join(", ")}`
+  );
+
   const entries = await fetchEntries({ contentTypes });
+  console.log(`📄 Found ${entries.length} entries to process.`);
 
   //CREATE FILES
   for (const entry of entries) {
@@ -157,6 +162,7 @@ async function main() {
       }
     }
   }
+  console.log("🚀 Markdown files generation completed.");
 
   //FETCH AND UPDATE IMAGES
   if (!skipImages) {
@@ -174,7 +180,7 @@ async function main() {
       .filter(Boolean);
 
     for (const folder of foldersToUpdate) {
-      console.log(`🧼 Running image update for: ${folder}`);
+      console.log(`🖼️ Starting image update process for ${folder}`);
       await updateImages(folder);
     }
   }
