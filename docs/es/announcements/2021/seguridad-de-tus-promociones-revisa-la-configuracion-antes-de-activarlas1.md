@@ -1,0 +1,45 @@
+---
+title: 'Seguridad de tus promociones: revisa la configuración antes de activarlas'
+id: 39JEfh00CNqR9tECQlRPPY
+status: DRAFT
+createdAt: 2021-12-08T13:52:21.718Z
+updatedAt: 2021-12-13T19:15:54.854Z
+publishedAt: undefined
+contentType: updates
+productTeam: Marketing & Merchandising
+author: 2o8pvz6z9hvxvhSoKAiZzg
+slugEN: double-check-promotion-settings-before-activating-it-to-ensure-security1
+locale: es
+legacySlug: seguridad-de-tus-promociones
+announcementImageID: ''
+announcementSynopsisES: 'El resumen de la promoción permite revisar su información antes de activarla, lo que evita errores de configuración'
+---
+
+Es posible que se cometan errores al rellenar la información en el momento de configurar una nueva promoción. Para evitar que se activen promociones con información incorrecta, hemos creado el resumen de la promoción. Esta nueva funcionalidad te permite confirmar la configuración de la promoción antes de activarla.
+
+![resumo-promo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/seguridad-de-tus-promociones-revisa-la-configuracion-antes-de-activarlas1_1.png)
+
+## ¿Qué cambió?
+Anteriormente, una promoción se activaba automáticamente cuando se guardaba con el status **Activa**. Con el nuevo recurso, puedes ver un resumen de las configuraciones definidas antes de activar una nueva promoción. De este modo, es posible revisar si todos los datos de la promoción son correctos, evitando errores de implementación.
+
+Para que se muestre el resumen, la promoción debe estar configurada con el status **Activa** y ser del tipo [Regular](https://help.vtex.com/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) o [Más por menos](https://help.vtex.com/es/tutorial/mas-por-menos--tutorials_325).
+
+El resumen de la promoción muestra alertas con puntos de atención para asegurar el comportamiento esperado de una promoción antes de activarla.
+
+Esta es la información que se muestra en el resumen:
+
+- Nombre
+- Duración
+- Tipo de descuento
+- Destacado
+- Ítems incluidos o excluidos
+- Condiciones
+- Restricciones
+- Política comercial
+- Sellers
+
+## ¿Por qué realizamos este cambio?
+Hemos creado esta funcionalidad para evitar posibles errores al rellenar los campos de la promoción. El resumen de la promoción tiene como objetivo evitar que se perjudique el margen de beneficio de los productos incluidos en la promoción. De este modo, las promociones creadas en tu tienda se aplicarán con mayor seguridad.
+
+## ¿Qué se necesita hacer?
+El resumen de la promoción ya está disponible en el Admin VTEX automáticamente. Para saber más sobre esta etapa y la descripción de sus campos, lee nuestro artículo [Resumen de la promoción](https://help.vtex.com/es/tutorial/resumen-de-la-promocion--7aSxktBrFi4sUSmuSafZ4h).
