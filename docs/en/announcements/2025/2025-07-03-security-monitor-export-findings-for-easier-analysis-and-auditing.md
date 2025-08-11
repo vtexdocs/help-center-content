@@ -1,5 +1,5 @@
 ---
-title: 'Untitled'
+title: 'Security Monitor: Export findings for easier analysis and auditing'
 id: 3zd6g32wGCftuaKSTuTWif
 status: CHANGED
 createdAt: 2025-07-03T13:49:07.488Z
