@@ -12,4 +12,26 @@ function normalizeFolderName(name) {
   return name.trim().toLowerCase().replace(/\s+/g, "-").replace(":", "");
 }
 
-module.exports = { normalizeFileName, normalizeFolderName };
+function yamlSafeString(value) {
+  // Remove aspas simples, duplas ou crases no início e no fim
+  value = value.trim().replace(/^['"`](.*)['"`]$/, "$1");
+
+  const hasSingle = value.includes("'");
+  const hasDouble = value.includes('"');
+
+  if (hasSingle && hasDouble) {
+    // Aspas simples e duplas → usa crases
+    return `\`${value}\``;
+  } else if (hasSingle) {
+    // Apenas aspas simples → usa aspas duplas
+    return `"${value.replace(/"/g, '\\"')}"`;
+  } else if (hasDouble) {
+    // Apenas aspas duplas → usa aspas simples (escapando duplicando)
+    return `'${value.replace(/'/g, "''")}'`;
+  } else {
+    // Sem aspas → usa aspas simples
+    return `'${value}'`;
+  }
+}
+
+module.exports = { normalizeFileName, normalizeFolderName, yamlSafeString };

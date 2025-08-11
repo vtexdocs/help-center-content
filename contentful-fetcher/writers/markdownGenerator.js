@@ -1,5 +1,6 @@
 const { getEntryStatus } = require("../utils/entryStatus");
 const { toISODate } = require("../utils/markdownUtils");
+const { yamlSafeString } = require("../utils/normalize");
 
 //GENERATE TRACKS MARKDOWN FILES
 function generateTrackMarkdown(entry, locale = "en") {
@@ -111,8 +112,9 @@ function generateAnnouncementMarkdown(entry, locale = "en") {
   const productTeam = fields.xpTeam?.pt || "unknown";
   const author = fields.author?.pt?.[0]?.sys?.id || "undefined";
   const legacySlug = fields.legacySlug?.[locale] || "undefined";
-  const announcementImageID = fields.image?.pt?.id || "undefined";
-  const synopsis = fields.synopsis?.[locale] || "";
+  const announcementImageID =
+    fields.image?.[locale]?.id ?? fields.image?.pt?.id ?? "undefined";
+  const synopsis = yamlSafeString(fields.synopsis?.[locale]) || "";
   const status = getEntryStatus(sys);
   const year = new Date(sys.createdAt).getFullYear();
   const synopsisKey = `announcementSynopsis${locale.toUpperCase()}`;
@@ -132,7 +134,7 @@ slugEN: ${slugEN}
 locale: ${locale}
 legacySlug: ${legacySlug}
 announcementImageID: '${announcementImageID}'
-${synopsisKey}: ${synopsis.includes("'") ? `"${synopsis}"` : `'${synopsis}'`}
+${synopsisKey}: ${synopsis}
 ---
 
 ${text}
