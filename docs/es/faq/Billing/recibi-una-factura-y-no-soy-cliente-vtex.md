@@ -14,8 +14,7 @@ locale: es
 legacySlug: recibi-una-factura-y-no-soy-cliente-vtex
 ---
 
-VTEX opera actualmente con 4 plataformas diferentes: __VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP y UniteU.
-__.
+VTEX opera actualmente con 4 plataformas diferentes: VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP y UniteU.
 
 Si usted no utiliza la plataforma de comercio electrónico VTEX, pero es cliente de una de las otras, esto significa que los servicios prestados para ellos también tendrán sus Notas Fiscales emitidas con el CNPJ de VTEX.
 
