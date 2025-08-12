@@ -24,6 +24,4 @@ Esta deberá estar debidamente asociada en un mínimo a un Stock y a una Transpo
 
 La no realización de esa asociación no impide que los Productos sean exportados, pero, en la realidad, indica que los Productos catastrados para la respectiva Política Comercial no poseen disponibilidad – el Muelle se relaciona a las Existencias, que ponen a disposición un valor de disponibilidad para los SKUs.
 
-___ADVERTENCIA__: Si el canal de ventas está configurado con una colección, debe comprobar que el artículo pertenece a la colección. En caso contrario, ninguna información del elemento se actualizará en el parcero.
-
-___ADVERTENCIA__: Si la tienda no utiliza la colección en el canal de ventas y la configuración está definida de forma específica en el producto, es necesario comprobar si el producto está registrado para venta en el canal deseado. En caso contrario, ninguna información del elemento se actualizará en el parcero.
+>⚠️ Si el canal de ventas está configurado con una colección, debe comprobar que el artículo pertenece a la colección. En caso contrario, ninguna información del elemento se actualizará en el parcero. Si la tienda no utiliza la colección en el canal de ventas y la configuración está definida de forma específica en el producto, es necesario comprobar si el producto está registrado para venta en el canal deseado. En caso contrario, ninguna información del elemento se actualizará en el parcero.

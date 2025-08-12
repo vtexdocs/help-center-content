@@ -20,11 +20,9 @@ Isto é feito nas configurações da doca, onde a política comercial deve ser a
 
 Após as configurações, é necessário realizar a indexação de todos os produtos da base, para que a integração ocorra.
 
-1. Com o usuário titular, acesse o link {{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx;
+1. Com o usuário titular, acesse o link `{{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Clique no botão **Reindexar Base**.
 
-Lembre-se! É possível acompanhar o status de indexação e o status de integração dos estoques. Para isso, acesse o [relatório de indexação](https://help.vtex.com/pt/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "Utilizar o Relatório de Indexação") e o modulo [Integrações](/pt//tutorial/bridge/ "bridge").
+É possível acompanhar o status de indexação e o status de integração dos estoques. Para isso, acesse o [relatório de indexação](https://help.vtex.com/pt/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "Utilizar o Relatório de Indexação") e o modulo [Integrações](/pt//tutorial/bridge/ "bridge").
 
-___ ATENÇÃO: Se o canal de vendas estiver configurado com uma coleção, é necessário verificar se o item pertence à coleção. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
-
-___ ATENÇÃO: Caso a loja não utilize coleção no canal de venda e a configuração seja definida especificamente no produto, é necessário verificar se o produto está setado para venda no canal desejado. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
+>⚠️ Se o canal de vendas estiver configurado com uma coleção, é necessário verificar se o item pertence à coleção. Caso contrário, nenhuma informação do item será atualizada no parceiro. Caso a loja não utilize coleção no canal de venda e a configuração seja definida especificamente no produto, é necessário verificar se o produto está setado para venda no canal desejado. Caso contrário, nenhuma informação do item será atualizada no parceiro.

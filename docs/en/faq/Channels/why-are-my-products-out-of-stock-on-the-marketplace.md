@@ -20,11 +20,9 @@ This is done in the dock configurations, where the sales policy must be associat
 
 After the configurations, it is necessary to index all products in the base, so that integration takes place.
 
-1. With the sponsor user, access the link link {{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx;
+1. With the sponsor user, access the link `{{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Click on the button **Reindexar Base**.
 
-Remember! You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](https://help.vtex.com/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "How to use the Index Report") and the [Integrations module](http://help.vtex.com/tutorial/bridge/ "bridge").
+You can monitor the status of the indexation and the status of the integration of the inventories. To do this, access the [indexation report](https://help.vtex.com/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "How to use the Index Report") and the [Integrations module](http://help.vtex.com/tutorial/bridge/ "bridge").
 
-___ WARNING: If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner .___
-
-___ WARNING: If the store does not use collection in the sales channel and the configuration is defined specifically in the product, it is necessary to verify if the product is set for sale in the desired channel. Otherwise, no item information will be updated on the partner .___
+>⚠️ If the sales channel is configured with a collection, it is necessary to verify that the item belongs to the collection. Otherwise, no item information will be updated on the partner. If the store does not use collection in the sales channel and the configuration is defined specifically in the product, it is necessary to verify if the product is set for sale in the desired channel. Otherwise, no item information will be updated on the partner.
