@@ -20,5 +20,4 @@ Validation is done using the check digit, and in the event it is not valid, this
 
 To ensure EANs are correct, you need to reach out to their suppliers and manufacturers for the information for each product to be integrated on the marketplaces.
 
-_VTEX does not generate false or joker EANs to supply this scenario._
-
+>⚠️ VTEX does not generate false or joker EANs to supply this scenario.

@@ -18,5 +18,4 @@ Alguns Marketplaces, inclusive a B2W, identificam o dado de **EAN**, que é o c
 
 A validação é feita pelo dígito verificador e, caso não seja válido, impossibilita a integração do produto. Para manter os EANs corretos, é preciso buscar junto a seus fornecedores e fabricantes o dado para cada um dos produtos a ser integrados nos marketplaces.
 
-_A VTEX não gera EANs falsos ou coringas para suprir este cenário._
-
+>⚠️ A VTEX não gera EANs falsos ou coringas para suprir este cenário.

@@ -20,5 +20,4 @@ Esto es, existe una validación desde B2W – por el dígito verificado &#8211; 
 
 Para esto, parte del tendero busca junto a sus suministradores y fabricantes el dato para que sus productos puedan operar normalmente en el Marketplace deseado.
 
-_VTEX no genera EANs fakes o comodines para suplir este escenario. Esa cuestión es una adaptación que el Marketplace exige._
-
+>⚠️ VTEX no genera EANs fakes o comodines para suplir este escenario. Esa cuestión es una adaptación que el Marketplace exige.
