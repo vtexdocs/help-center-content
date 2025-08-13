@@ -1,11 +1,11 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const docsDirEN = path.join(__dirname, '../../docs/en/');
-const docsDirPT = path.join(__dirname, '../../docs/pt/');
-const docsDirES = path.join(__dirname, '../../docs/es/');
+const docsDirEN = path.join(__dirname, "../../docs/en/");
+const docsDirPT = path.join(__dirname, "../../docs/pt/");
+const docsDirES = path.join(__dirname, "../../docs/es/");
 
-const { imageFetcher } = require('./imageFetcher.js');
+const { imageFetcher } = require("./imageFetcher.js");
 
 const MAX_CONCURRENT_FILES = 100;
 
@@ -42,9 +42,12 @@ async function processDirectory(dirPath, contentTypeFolder) {
       const stats = fs.statSync(filePath);
 
       if (stats.isDirectory()) {
-        if (contentTypeFolder && !filePath.includes(`/${contentTypeFolder}/`)) continue;
+        if (contentTypeFolder) {
+          const parts = path.normalize(filePath).split(path.sep);
+          if (!parts.includes(contentTypeFolder)) continue;
+        }
         await processDirectory(filePath, contentTypeFolder);
-      } else if (path.extname(file) === '.md') {
+      } else if (path.extname(file) === ".md") {
         if (activeFiles < MAX_CONCURRENT_FILES) {
           activeFiles++;
           await processFile(filePath);
@@ -80,7 +83,7 @@ async function updateImages(contentTypeFolder = null) {
 
   // Wait for any remaining queued files
   while (activeFiles > 0 || fileQueue.length > 0) {
-    await new Promise(resolve => setTimeout(resolve, 100));
+    await new Promise((resolve) => setTimeout(resolve, 100));
   }
 
   console.log("🚀 Finished replacing all images.");
@@ -89,8 +92,8 @@ async function updateImages(contentTypeFolder = null) {
 // CLI support: allow direct usage like `node utils/updateImages.js tutorials`
 if (require.main === module) {
   const folderArg = process.argv[2]; // e.g. 'tutorials'
-  updateImages(folderArg).catch(error => {
-    console.error('❌ Error during image update:', error);
+  updateImages(folderArg).catch((error) => {
+    console.error("❌ Error during image update:", error);
   });
 }
 
