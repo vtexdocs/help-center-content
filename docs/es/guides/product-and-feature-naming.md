@@ -1,212 +1,208 @@
 ---
-title: 'Product and feature naming'
-id: guides0001
+title: 'Pautas de naming de productos y funcionalidades'
+id: guides0001-es
 status: PUBLISHED
-createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-07-24T19:24:22.388Z
-publishedAt: 2025-07-24T19:24:22.388Z
-firstPublishedAt: 2025-01-09T19:24:22.388Z
+createdAt: 2025-08-13T19:24:22.388Z
+updatedAt: 2025-08-13T19:24:22.388Z
+publishedAt: 2025-08-13T19:24:22.388Z
+firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: product-and-feature-naming
-locale: en
+slugES: pautas-naming-productos-funcionalidades
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: product-and-feature-naming
+trackSlugES: pautas-naming-productos-funcionalidades
 ---
 
-## Objective
+## Objetivo
 
-Establish a clear, consistent, and meaningful naming strategy for VTEX products, features, and projects to enhance brand identity, customer understanding, and market positioning. This strategy aims to ensure that names are descriptive, practical, and aligned with industry standards, making them easy to spell, pronounce, and remember.
+Establecer una estrategia de naming (nomenclatura) clara, consistente y significativa para productos, funcionalidades y proyectos VTEX para optimizar la identidad de marca, la comprensión del cliente y el posicionamiento en el mercado. Esta estrategia tiene como objetivo garantizar que los nombres sean descriptivos, prácticos y estén alineados con los estándares de la industria, haciéndolos fáciles de recordar y deletrear y pronunciar si se usan en español.
 
-By implementing these guidelines, VTEX will create a cohesive naming convention that facilitates communication, supports marketing efforts, and strengthens the overall VTEX brand in the global marketplace.
+Al implementar estas pautas, VTEX creará una convención de naming coherente para facilitar la comunicación, respaldar los esfuerzos de marketing y fortalecer la marca VTEX en el mercado global.
 
-Why have a naming process?
+¿Por qué establecer un proceso de naming?
 
-**Consistency:** Ensures all names align with the [brand's identity and values](https://brand.vtex.com/), creating a unified image.
+**Coherencia:** garantiza que todos los nombres se alineen con [la identidad y los valores de la marca](https://brand.vtex.com/), creando una imagen unificada.
 
-**Clarity:** Helps customers easily understand what each product, feature, or module does, reducing confusion.
+**Claridad:** permite comunicar de forma precisa el propósito de cada producto, función o módulo, minimizando ambiguedades y confusiones.
 
-**Professionalism:** Demonstrates a well-organized and thoughtful approach, enhancing the company's reputation.
+**Profesionalismo:** demuestra un enfoque bien organizado y reflexivo, mejorando la reputación de la empresa.
 
-**Market Positioning:** Differentiates VTEX products from competitors and clearly communicates their unique value.
+**Posicionamiento en el mercado:** diferencia los productos VTEX de la competencia y comunica claramente su valor único.
 
-**Global Relevance:** Ensures names are appropriate and understandable across different languages and cultures.
+**Relevancia global:** garantiza que los nombres sean apropiados y comprensibles en diferentes idiomas y culturas.
 
-**Efficiency:** Streamlines the naming process, saving time and resources by providing clear guidelines and reducing the need for ad-hoc decisions.
+**Eficiencia:** agiliza el proceso de naming, ahorra tiempo y recursos al proporcionar pautas claras y reducir la necesidad de decisiones arbitrarias.
 
-**Marketing and SEO:** Improves searchability and marketing effectiveness by using names that are easy to find and understand online.
+**Marketing y SEO:** mejora la visibilidad en buscadores y la efectividad de las acciones de marketing al utilizar nombres fáciles de encontrar y entender online.
 
-When does this process apply?
+¿Cuándo se aplica este proceso?
 
-* Launching new products;
-* Developing features and modules;
-* Updating existing names;
-* Adapting names for different regions and languages.
+*   Lanzamiento de nuevos productos
+*   Desarrollo de funcionalidades y módulos
+*   Actualización de nombres existentes
+*   Adaptación de nombres para diferentes regiones e idiomas
 
-When to run the naming process?
+¿Cuándo iniciar el proceso de naming?
 
-**The sooner, the better.** Ideally, run this process at least 2 months before rolling out to closed beta.
+**Cuanto antes mejor.** Lo ideal es iniciar este proceso al menos 2 meses antes de implementar la versión beta cerrada.
 
-### General guidelines
+### Pautas generales
 
-Names must be:
+Los nombres deben ser:
 
-**Meaningful:** Conveys relevant meaning and fits within the industry; use terms that are commonly used and easily recognizable by merchants.
+**Significativos:** transmiten un sentido claro y relevante dentro del contexto de la industria. Usan términos habituales entre retailers y fácilmente reconocibles.
 
-**Unique:** Differentiates from competitors and is not too generic.
+**Únicos:** se diferencian de la competencia y no son demasiado genéricos.
 
-**Memorable:** Easy to remember and recognize.
+**Fáciles de recordar:** se graban con facilidad y se reconocen sin esfuerzo.
 
-**Easy to Spell:** Should be spelled as it is pronounced.
+**Fáciles de deletrear:** deben escribirse como se pronuncian. Este criterio no aplica si el nombre se mantiene en inglés por razones estratégicas.
 
-**Easy to Pronounce:** Should be pronounced as it is spelled.
+**Fáciles de pronunciar:** deben pronunciarse tal como se escriben. Este criterio queda supeditado al uso de nombres en inglés.
 
-**Brief:** Limited to one or two words, max of three, or a compound word.
+**Breves:** limitado a una o dos palabras, un máximo de tres o una palabra compuesta.
 
-**Weighty:** Conveys strength and importance.
+**Con impacto:** transmiten fuerza y relevancia.
 
-**Global Relevance:** Ensure names are easy to understand in different languages and cultures.
+**De relevancia global:** deben ser comprensibles en distintos idiomas y culturas. Este punto tiene prioridad sobre los criterios de pronunciación y deletreo.
 
-**SEO Friendly:** Names should be searchable and rankable.
+**Compatibles con SEO:** deben ser fáciles de buscar y posicionar.
 
-**Word Choice:** Opt for words with positive connotations and impact to ensure memorable and engaging names.
+**Connotación positiva:** se recomienda usar palabras que generen asociaciones favorables y ayuden a que el nombre sea atractivo y fácil de recordar.
 
-Specific guidelines
+**Pautas específicas**
 
-**Versioning and Updates:** Use [semantic versioning](https://www.notion.so/vtexhandbook/POC-MVP-Alpha-Beta-what-and-when-do-we-communicate-things-6eee838febdd48feb0d60d00b9173ffa) for updates to existing features rather than renaming them. Add “(Beta)” for test pages and “(Legacy)” for outdated systems.
+**Versiones y actualizaciones:** utilizar [versionado semántico](https://www.notion.so/vtexhandbook/POC-MVP-Alpha-Beta-what-and-when-do-we-communicate-things-6eee838febdd48feb0d60d00b9173ffa) para indicar cambios en funcionalidades ya existentes, en lugar de renombrarlas. Agrega “(beta)” cuando se trate de páginas en prueba y “(legado)” cuando se trate de sistemas antiguos u obsoletos.
 
-**Translations:**  We use different translation strategies for products, modules, and features to ensure brand consistency and recognition across all markets.
+**Traducciones:** aplicamos estrategias de traducción diferenciadas para productos, módulos y funcionalidades, con el fin de garantizar la coherencia de marca y el reconocimiento en todos los mercados.
 
-**Products:** Keep in English.
+*   **Productos:** mantener en inglés.
+    *   Ejemplos: Sales App, Live Shopping, FastStore.
+*   **Módulos del Admin VTEX:** traducir.
+    *   Ejemplos: Overview/Visión general, Shipping/Envío, Orders/Pedidos
+*   **Roles:** no se traducen, mantener en inglés.
+    *   Ejemplos: Owner (Admin Super), VTEX IO Admin.
+*   **Funcionalidades:** traducir.
+    *   Ejemplo: Operational capacity / Capacidad operativa.
+*   **Aplicaciones:** se traducen según el caso.
+    *   Ejemplos: Wishlist/Lista de deseos, Customer Credit.
 
-* Examples: Sales App, Live Shopping, FastStore.
-  **VTEX Admin Modules:** Translated.
-* Examples: Overview / Visão geral, Shipping / Envio, Orders / Pedidos
-  **Permission Roles:** Not translated.
-* Examples: Owner (Admin Super), VTEX IO Admin.
-  **Features:** Translated.
-* Example: Operational capacity / Capacidade operacional.
-  **Apps:** Some are translated, some are not.
-* Examples: Wishlist / Lista de desejos, Customer Credit.
+**Capitalización:** las reglas de capitalización varían según el idioma. Para más detalles, consulta las [guías de estilo](https://language.vtex.com/content/style_guides.html) o ponte en contacto con el equipo de Localization.
 
-**Capitalization:** Capitalization rules differ by language. Use title case for titles in English, and sentence case in Portuguese and Spanish. For more details, see our [style guides](https://language.vtex.com/content/style_guides.html) or contact the Localization team.
+**Límite de caracteres:**
 
-**Character Limit:**
+*   Módulos - 18 caracteres
+*   Secciones - 16 caracteres
+*   Subsecciones - 21 caracteres
 
-* Modules \- 18 characters
-* Sections \- 16 characters
-* Subsections \- 21 characters
+### Evitar
 
+*   Evita el uso de verbos. Por ejemplo, usa “Sellers disponibles” en lugar de “Encontrar Sellers”.
+*   No incluyas signos de puntuación.
+*   No utilices pronombres personales.
+*   Evita redundancias o repetir términos innecesarios. Por ejemplo, evita repetir el título del módulo en la sección, como al usar las palabras “Gestión” o “Lista”.
+*   Evita abreviaturas, salvo que sean ampliamente reconocidas y comprendidas (por ejemplo, “B2B” o “SKU”).
 
-What to avoid
+### Ejemplos de naming
 
-* Don’t use verbs. For example, use “Available Sellers” instead of “Find Sellers.”
-* Don’t use punctuation.
-* Don’t use personal pronouns.
-* Avoid redundancy or repeat unnecessary terms. Example: avoid repeating the section title, such as when using the words *Management* or *List*.
+**Nombres de productos VTEX** (ejemplos)**:**
 
-* Avoid using abbreviations unless they are widely recognized and understood, such as “B2B” or “SKU.”
+*   VTEX Commerce Platform
+*   VTEX IO Development Platform
+*   VTEX Live Shopping
+*   VTEX Tracking
+*   VTEX Shipping Network
 
-Naming examples
+**Nombres de módulos VTEX** (ejemplos)**:**
 
-**VTEX Product Names** (examples)**:**
+*   VTEX Marketplace
+*   VTEX OMS (order management system)
+*   VTEX Intelligent Search
+*   VTEX CMS (content management system)
+*   VTEX IO Store Framework
+*   VTEX IO FastStore
+*   VTEX IO WebOps
+*   VTEX IO App Platform
 
-* VTEX Commerce Platform
-* VTEX IO Development Platform
-* VTEX Live Shopping
-* VTEX Tracking
-* VTEX Shipping Network
+**Nombres de funcionalidades VTEX** (ejemplos)**:**
 
-**VTEX Module Names** (examples)**:**
+*   Promociones
+*   Catálogo
+*   Master Data
+*   Dashboard de ventas
 
-* VTEX Marketplace
-* VTEX OMS (order management system)
-* VTEX Intelligent Search
-* VTEX CMS (content management system)
-* VTEX IO Store Framework
-* VTEX IO FastStore
-* VTEX IO WebOps
-* VTEX IO App Platform
+### Proceso optimizado para funcionalidades más simples
 
-**VTEX Feature Names** (examples)**:**
+1.  **Crea una solicitud**
+    *   Llena el workflow de naming en el canal de Slack #terminology para asegurar que todos los equipos relevantes estén informados, alineados y participen en el proceso de naming.
+        1.  Impulsores/responsables clave: PM, diseñadores.
+2.  **Verifica la necesidad:**
+    *   Determina si realmente es necesario crear un nuevo nombre. Evalúa si se puede adaptar uno existente o si la nueva funcionalidad, módulo o producto puede integrarse dentro de una convención de naming ya existente.
+        1.  Impulsores/responsables clave: PMs o Designers (al crear la solicitud), LOC (al analizar la tarea para continuar a la etapa 3).
+3.  **Genera ideas de nombres:**
+    *   Analiza la forma en que la competencia nombra productos o funcionalidades similares.
+    *   Crea una breve lista de posibles nombres.
+    *   Verifica que estén alineados con la estrategia y las guías de marca de VTEX.
+        1.  Impulsores/responsables clave: PMs o Designers (al crear la solicitud), LOC (durante el brainstorming).
+4.  **Discusión en equipo:**
+    *   Valida los nombres con la persona que creó la solicitud, el equipo de LOC y el equipo de Marketing de producto para asegurar que funcionen bien en distintos idiomas y mercados.
+    *   Recopila los comentarios internos y ajusta la lista según las contribuciones recibidas. Esto puede realizarse en la thread del canal #terminology para que cualquier persona interesada pueda participar.
+        1.  Responsables clave: LOC, PMs, PMMs, Designers, y cualquier otra persona que haya participado en la thread.
+5.  **Implementación:**
+    *   Revisa los comentarios y decide el nombre que mejor se ajuste a los criterios.
+    *   Una vez tomada la decisión final, deja constancia en la thread de la solicitud.
+    *   Comparte el nombre con los diferentes stakeholders interesados.
+    *   Asegúrate de que se use de forma coherente en todos los materiales de marketing, documentación del producto y comunicaciones internas.
+        1.  Responsables clave: LOC, EDU, PMs y PMMs.
 
-* VTEX Promotions
-* VTEX Catalog
-* VTEX Master Data
-* VTEX Sales Dashboard
+### Proceso integral para grandes lanzamientos de productos
 
+1.  **Crea una solicitud**
+    *   Completa el workflow de naming de productos en el grupo de Slack #terminology para asegurarte de que todos los equipos relevantes estén informados, alineados y participando en el proceso de naming.
+        1.  Responsables clave: PMs, Designers
+2.  **Verifica la necesidad:**
+    *   Determina si realmente es necesario crear un nuevo nombre. Evalúa si se puede adaptar uno existente o si la nueva funcionalidad, módulo o producto puede integrarse dentro de una convención de naming ya existente.
+        1.  Responsables clave: PMs, colaboran para definir si es necesario un nuevo nombre y evaluar las convenciones de naming existentes.
+3.  **Investigación y validación:**
+    *   Comienza [documentando](https://docs.google.com/document/d/1cBrYkQuUQAg-FFxCL6-HQIS90rw6PUhEZbXolp4CWB8/edit?usp=sharing) el proceso para definir el nombre.
+    *   Analiza la forma en que la competencia nombra productos y funcionalidades similares.
+    *   Verifica si se realizaron entrevistas con clientes para entender cómo nombran o describen el producto o la funcionalidad. Si no es así, considera realizarlas.
+        1.  Impulsores/responsables clave: PMMs, PMs y Product Designers
+            1.  PMM: comienza a documentar, lidera el análisis de competidores y aporta insights de mercado relevantes para el nombre en cuestión.
+            2.  PM y PD: garantizan que se realicen entrevistas con clientes e identifican oportunidades para obtener más información.
+4.  **Genera ideas de nombres:**
+    *   Crea una lista exhaustiva de nombres potenciales.
+    *   Evalúa cada nombre según las pautas (significativo, único, fácil de recordar, etc.).
+    *   Realiza una búsqueda exhaustiva de marcas registradas para asegurarte de que el nombre propuesto no esté en uso ni registrado por otra entidad.
+    *   Verifica que los nombres estén alineados con la estrategia general de VTEX, el portafolio de productos y la arquitectura de marca.
+        1.  Responsables clave: PMs, PMMs, EDU y LOC
+            1.  PM y PMM: generan una lista de nombres potenciales.
+            2.  PMM: realiza una búsqueda completa de marcas registradas.
+            3.  EDU y LOC: dan feedback sobre la claridad del nombre y su adecuación cultural.
+5.  **Discusión en equipo:**
+    *   Deben validarse los nombres con los equipos de LOC y Product Marketing para asegurarse de que sean adecuados en distintos idiomas y mercados.
+    *   Recopilar comentarios y ajustar la lista en función del feedback recibido.
+        1.  Responsables clave: LOC, PMMs y PM
+            1.  LOC: valida que los nombres sean apropiados en diferentes idiomas y mercados.
+            2.  PMM y PM: ajustan la lista de nombres basándose en los comentarios.
+6.  **Pruebas:**
+    *   Evalúa una lista corta de nombres con clientes, equipos internos relevantes y partners comerciales.
+    *   Documenta las respuestas, preferencias y rechazos para obtener insights valiosos.
+        1.  Responsables clave: PMMs y Product Designers
+            1.  PMM y PD: prueban una lista corta de nombres con los grupos mencionados y recopilan insights a partir de sus comentarios.
+7.  **Decisión final:**
+    *   Revisa los comentarios y define el nombre que mejor se ajuste a los criterios establecidos.
+    *   Valida el nombre elegido con [Alexandre Gusmão](mailto:alexandre.gusmao@vtex.com) y [Natalia Costa](mailto:natalia.costa@vtex.com).
+        1.  Responsables clave: PMs y PMMs. Colaboran en la definición del nombre final y lo validan con el liderazgo.
+8.  **Implementación:**
+    *   Completa el [documento](https://docs.google.com/document/d/1cBrYkQuUQAg-FFxCL6-HQIS90rw6PUhEZbXolp4CWB8/edit?usp=sharing) con el proceso y comunica el nombre elegido.
+    *   Comparte el nombre con los stakeholders de producto, marketing, ventas, ingeniería de soluciones y CX.
+    *   Asegúrate de que los equipos de marketing y documentación conozcan el cambio y utilicen el nuevo nombre de forma coherente.
+        1.  Responsables clave: PMMs, PMs, EDU y LOC
+            1.  PMMs: completan la documentación del proceso y comunican el nombre elegido.
+            2.  PMMs, PMs, EDU y LOC: colaboran en la difusión del nuevo nombre y garantizan su uso coherente en todos los canales.
 
-### Streamlined process for simpler features
+### Consulta si tienes dudas
 
-1. Fill a workflow
-   * Fill out the product-naming workflow in the \#terminology Slack group to ensure all relevant teams are informed, aligned, and participating in the naming process.
-     1. Key drivers/contributors: PMs, Designers.
-2. Necessity check:
-   * Determine if a new name is truly necessary. Evaluate if an existing name can be adapted or if the new feature/module/product can fit under an existing naming convention.
-     1. Key drivers/contributors: PMs or Designers (when creating the request), Localization (when analyzing the task to proceed to step 3).
-3. Generate name ideas:
-   * Analyze how competitors name similar products and features;
-   * Create a short list of possible names;
-   * Check for alignment with VTEX’s strategy and brand guidelines
-     1. Key drivers/contributors: PMs or Designers (when creating the request), Localization (when doing the brainstorm for naming suggestions).
-4. Team discussion:
-   * Validate names with the requester, and the Localization and Product Marketing teams to ensure they are suitable across different languages and markets;
-   * Collect internal feedback and refine the list based on input. This can be done publicly in the thread opened on the terminology channel so everyone interested can contribute.
-     1. Key drivers/contributors: Localization, PMs, PMMs, Designers, and anyone else who contributed to the discussion in the thread.
-5. Implementation:
-   * Review the feedback and decide the name that best fits the criteria;
-   * Once there’s a final decision, make it clear on the request thread;
-   * Socialize it with relevant stakeholders;
-   * Ensure all marketing materials, product documentation, and internal communications use the new name consistently.
-     1. Key drivers/contributors: Localization, Education, PMs and PMMs.
-
- Comprehensive process for big product launches
-
-1. Fill a workflow
-   * Fill out the product-naming workflow in the \#terminology Slack group to ensure all relevant teams are informed, aligned, and participating in the naming process.
-     1. Key drivers/contributors: PMs, Designers
-2. Necessity check:
-   * Determine if a new name is truly necessary. Evaluate if an existing name can be adapted or if the new feature/module/product can fit under an existing naming convention.
-     1. Key drivers/contributors: PMs, working collaboratively to determine the necessity of a new name and evaluate existing naming conventions.
-3. Research and validation:
-   * Begin [documenting](https://docs.google.com/document/d/1cBrYkQuUQAg-FFxCL6-HQIS90rw6PUhEZbXolp4CWB8/edit?usp=sharing) the step-by-step process for defining the name;  
-   * Analyze how competitors name similar products and features;
-   * Check if customer interviews have been conducted for insights on how they refer to the feature or product. If not, consider conducting one.
-     1. Key drivers/contributors: PMMs, PMs and Product Designers
-        1. PMM: Begin documenting, lead competitor analysis and provide market insights relevant to naming;
-        2. PM and PD: Ensure customer interviews are conducted and identify gaps for additional insights
-4. Generate name ideas:
-   * Create an exhaustive list of potential names;
-   * Evaluate each name against the guidelines (meaningful, unique, memorable, etc.);
-   * Conduct a comprehensive trademark search to ensure the proposed name isn’t already in use or registered by another entity;
-   * Ensure the names align with VTEX’s overall company strategy, product portfolio, and brand architecture.
-     1. Key drivers/contributors: PMs, PMMs, Education and Localization
-        1. PM & PMM: Generate an exhaustive list of potential names.
-        2. PMM: Conduct a comprehensive trademark search.
-        3. Education and Localization: Provide feedback on name clarity and cultural appropriateness.
-5. Team discussion:
-   * Validate names with localization and product marketing teams to ensure they are suitable across different languages and markets;
-   * Collect feedback and refine the list based on input.
-     1. Key drivers/contributors: Localization, PMMs and PM
-        1. Localization: Validate names for suitability across different languages and markets.
-        2. PMM & PM: Refine the name list based on feedback.
-6. Testing:
-   * Consider testing a shortlist of names with sponsor clients, friendly customers, related internal teams, and business partners;
-   * Document responses, likes, and dislikes to gather insights.
-     1. Key drivers/contributors: PMMs and Product Designers
-        1. PMMs & PD: Test a shortlist of names with sponsor clients, friendly customers, related internal teams, and business partners and gather insights.
-7. Final decision:
-   * Review the feedback and finalize the name that best fits the criteria;
-   * Validate the chosen name with [Alexandre Gusmão](mailto:alexandre.gusmao@vtex.com) and [Natalia Costa](mailto:natalia.costa@vtex.com).
-     1. Key drivers/contributors: PMs and PMMs collaborate in finalizing the name that best fits the criteria, and validate it with Leadership.
-8. Implementation:
-   * Complete the step-by-step process [document](https://docs.google.com/document/d/1cBrYkQuUQAg-FFxCL6-HQIS90rw6PUhEZbXolp4CWB8/edit?usp=sharing) and communicate the chosen name;
-   * Socialize it with stakeholders in product, marketing, sales, solution engineering, and customer success;
-   * Ensure all marketing materials, product documentation, and internal communications use the new name consistently.
-     1. Key drivers/contributors: PMMs, PMs, Education, and Localization
-        1. PMMs: Complete the step-by-step process document, communicate the chosen name;
-        2. PMMs, PMs, Education, and Localization: Collaborate on socializing the name as well as ensure the consistency usage of it.
-
-### Seek assistance if needed
-
-If doubts persist after following the process, consult with the Product Marketing team for additional guidance and final decision-making support.
+Si después de seguir el proceso aún tienes dudas, consulta con el equipo de Localization para recibir orientación adicional y soporte en la decisión final.

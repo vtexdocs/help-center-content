@@ -1,108 +1,94 @@
 ---
-title: 'Tone of Voice'
-id: guides0002
+title: 'Tono y Voz'
+id: guides0002-es
 status: PUBLISHED
-createdAt: 2025-02-10T19:24:22.388Z
-updatedAt: 2025-02-10T19:24:22.388Z
-publishedAt: 2025-02-10T19:24:22.388Z
-firstPublishedAt: 2025-02-10T19:24:22.388Z
+createdAt: 2025-08-13T19:24:22.388Z
+updatedAt: 2025-08-13T19:24:22.388Z
+publishedAt: 2025-08-13T19:24:22.388Z
+firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: tone-of-voice
-locale: en
+slugES: tono-y-voz
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: tone-of-voice
+trackSlugES: tono-y-voz
 ---
 
-The VTEX voice represents our **core brand elements** in the way we communicate. It ensures that our writing embodies the **VTEX personality and quality standards** across all touchpoints.
+La voz de VTEX representa **los elementos centrales de nuestra marca** en la manera en que nos expresamos. Asegura que cada mensaje transmita **la personalidad de VTEX** y respete nuestros estándares de calidad en todos los puntos de contacto.
 
-When communicating with our audience, keep in mind these principles:
+Al escribir para nuestra audiencia, ten en cuenta estos principios:
 
-✅ Find the balance between boldness, trustworthiness, and optimism to achieve the right tone.  
-✅ Always know who you are talking to.  
-✅ Our audience is the protagonist of every message. VTEX is the guide.  
-✅ Keep it simple and straight to the point.
+✅ Encuentra el equilibrio entre audacia, confianza y optimismo para lograr el tono adecuado.  
+✅ Ten siempre claro a quién te estás dirigiendo.  
+✅ Nuestra audiencia es la protagonista de cada mensaje. VTEX es la guía.  
+✅ Mantén los mensajes simples y directos.
 
-In the following sections, we will explore each of these principles.
+En las siguientes secciones exploraremos cada uno de estos principios.
 
-## Tone - Context
+## Tono - Contexto
 
-When writing documentation or creating a new interface, we are guiding the users to accomplish a task as efficiently as possible. 
+Al escribir documentación o crear una nueva interfaz, guiamos a los usuarios para que realicen una tarea de la manera más eficiente posible.
 
-We address the following audiences:
+Nos dirigimos a los siguientes públicos:
 
-| Audience type        | Description |
-| -------------------- | ----------- |
-| **Beginner**         | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
-| **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that need help to be solvedcannot be solved alone. |
-| **Highly Technical** | Builds or integrates technical solutions with VTEX. Works on store implementations and app development with our solutions, and integrations with partner systems via VTEX APIs, andor. Requires in-depth technical documentation that shows the characteristics of all our features and indicates how to solve business needs. |
-
-## Voice - Personality
-
-VTEX is grounded in three pillars: **boldness, trustworthiness,** and **optimism.**
-This means we write with authority and to the point (boldness). This helps us build the trust of our clients as we help them, configure, troubleshoot, and enhance the platform (trustworthy). We do this in a confident and friendly way without alarming users (optimistic).
-
-## Audience
-
-VTEX is not the hero, **the audience is the hero, and VTEX is their guide**. We have so much to deliver to the world, and we tend to place ourselves as protagonists. Let's change this approach: when we present ourselves as a guide, we become the help they need to overcome their challenges. Let's see some examples:
-
-**Talking to anybody**  
-*In the Admin platform, users can create fully customized landing pages to suit their needs, such as showcasing special offers, highlighting promotions, or featuring other engaging content to enhance the user experience.*
-
-**Relatable**  
-*In the Admin, you can create customized landing pages, such as pages for special offers or promotions.* 
-
-**Audience-first**  
-**It’s never about us**. We believe that our communication strategy is the most powerful resource to start a conversation, so it's crucial to understand **who we are talking to.** We talk to people who have a tech background. So our messaging should resonate with their expertise, using clear and direct language while addressing their specific challenges and needs. By focusing on practical solutions and technical insights, we aim to create meaningful connections and provide real value to merchants.
-
-**Generic**  
-*This feature allows merchants to display products that are most relevant to customers and to add or hide pre-selected products from search results, offering greater flexibility in tailoring the shopping experience.*
-
-**Empowering**  
-*This feature allows you to display products that are more relevant to the customer and to add or hide pre-selected products from the search results.*
-
-## Concise messages
-
-**Be straightforward**. As a complex solution, we already use many concepts and specific jargon, so we must make our texts as clear and direct as possible. Anyone reading our announcements should be able to relate to what we are saying. Also, **avoid repetitions and ambiguities**. Always re-read your text to make sure there aren't too many repeated or unclear terms/ideas.
-
-| On point ✅ | A bunch of noise 🚫 |
+| Tipo de audiencia | Descripción |
 | --- | --- |
-| *There was an error saving this row. Please try again.* | *An issue occurred while attempting to save this row. Try again to ensure your changes are successfully saved.*  |
+| **Principiante** | Nuevo en operaciones de ecommerce y en el uso de VTEX, con poca o ninguna experiencia previa. Su principal desafío es adaptarse tanto a la plataforma como al contexto general del ecommerce. |
+| **Operativo** | Gestiona tareas diarias de ecommerce, como el registro de SKUs y la gestión de promociones. Está familiarizado con el contexto del ecommerce, aunque puede enfrentar problemas que no siempre puede resolver por su cuenta. |
+| **Técnico** | Desarrolla o integra soluciones técnicas con VTEX. Trabaja en implementaciones de tiendas, desarrollo de aplicaciones con nuestras soluciones e integraciones con sistemas de partners mediante APIs de VTEX. Necesita documentación técnica detallada que describa las características de cada funcionalidad y muestre cómo resolver necesidades de negocio. |
 
-**Long story short:**
+## Voz - Personalidad
 
-✅ Always know who you are talking to.  
-✅ Our audience is the protagonist of every message. VTEX is the guide.  
-✅ Keep it simple and straight to the point.  
-✅ Find the balance between boldness, trustworthiness, and optimism to achieve the right tone.
+VTEX se sustenta en tres pilares: **audacia, confiabilidad,** y **optimismo.**   
+Esto significa que escribimos con claridad y autoridad (audacia), lo que contribuye a generar confianza al momento de configurar, resolver problemas y optimizar el uso de la plataforma (confianza). Todo lo hacemos de forma segura y cercana, sin alarmar a quienes usan nuestros productos (optimismo).
 
-**Don't be too informal or formal**
+## Audiencia
 
-| Too informal ❌ | Just about right ✅ | Too formal ❌ |
+VTEX no es el héroe, **el público es el héroe y VTEX es su guía**. Tenemos mucho que entregar al mundo y tendemos a colocarnos como protagonistas. Debemos cambiar este enfoque: al presentarnos como una guía, nos convertimos en el apoyo que necesitan para superar sus desafíos.
+
+Consulta los siguientes ejemplos:
+
+**Comunicación genérica**  
+*En el Admin VTEX los usuarios pueden crear landing pages completamente personalizadas para adaptarlas a sus necesidades, como mostrar ofertas especiales, destacar promociones o presentar otros contenidos relevantes para mejorar la experiencia del usuario.*
+
+**Enfocada**  
+*En el Admin puedes crear landing pages personalizadas, como páginas para ofertas especiales o promociones.*
+
+**La audiencia primero**  
+**Nunca se trata de nosotros.** Creemos que nuestra estrategia de comunicación es la herramienta más poderosa para iniciar una conversación, por lo que es fundamental entender a quién nos dirigimos. Hablamos con personas con experiencia técnica, por lo que nuestros mensajes deben resonar con su conocimiento, utilizando un lenguaje claro y directo que aborde sus desafíos y necesidades específicas. Al centrarnos en soluciones prácticas e información técnica, buscamos establecer conexiones significativas y ofrecer un valor real a los sellers.
+
+**Genérico**  
+*Esta funcionalidad permite a los sellers mostrar los productos que son más relevantes para los clientes y agregar u ocultar productos preseleccionados de los resultados de búsqueda, ofreciendo una mayor flexibilidad para personalizar la experiencia de compra.*
+
+**Acción en manos del usuario**  
+*Esta funcionalidad te permite mostrar los productos que son más relevantes para el cliente y agregar u ocultar productos preseleccionados de los resultados de búsqueda.*
+
+## Mensajes concisos
+
+**Escribe de forma clara y directa.** Nuestra solución es compleja y utiliza muchos conceptos y jerga técnica, por lo que es fundamental que nuestros textos sean lo más simple y comprensibles posible. Cualquier persona que lea nuestras comunicaciones debe poder entender de inmediato el mensaje. **Evita repeticiones y ambiguedades.** Siempre revisa tu texto para asegurarte de que no haya términos o ideas redundantes o confusas.
+
+| Directo ✅ | Exceso de información 🚫 |
+| --- | --- |
+| *Se produjo un error al guardar esta fila. Por favor inténtalo de nuevo.* | *Se produjo un error al intentar guardar esta fila. Inténtalo de nuevo para asegurarte de que los cambios se guarden correctamente.*  |
+
+**En resumen:**
+
+✅ Siempre ten claro con quién estás hablando.  
+✅ Nuestra audiencia es el protagonista de cada mensaje. VTEX es la guía.  
+✅ Mantén la comunicación simple y directa.  
+✅ Encuentra el equilibrio entre audacia, confianza y optimismo para lograr el tono adecuado.
+
+**No seas demasiado informal o formal.**
+
+| Demasiado informal ❌ | Correcto ✅ | Demasiado formal ❌ |
 | --- | --- | --- |
-| To change the SKU's EAN, just delete all the existing EANs linked to it first. | Delete EAN values associated with the SKU before updating the current SKU EAN. | In order to modify the existing EAN for the SKU, it is required to remove all EAN values currently associated with the SKU beforehand. |
-| Offline payment options mean the customer has to do something outside the store to keep the transaction moving. | Offline payment conditions are those that need a customer action outside of the store environment so that the transaction can follow its flow. | Offline payment conditions refer to those that require the customer to take action outside the store environment to facilitate the continuation of the transaction process. |
+| *Para cambiar el EAN del SKU, simplemente elimina todos los EAN existentes vinculados a él primero.* | *Elimina los valores EAN vinculados con el SKU antes de actualizar el SKU EAN actual.* | *Para modificar el EAN existente para el SKU, es necesario eliminar de antemano todos los valores de EAN actualmente vinculados con el SKU.* |
+| *Las opciones de pago offline son en las que el cliente debe realizar una acción fuera de la tienda para que la transacción continúe.* | *Las condiciones de pago offline son aquellas que requieren una acción por parte del cliente fuera del entorno de la tienda para que la transacción siga su curso.* | *Las condiciones de pago offline se refieren a aquellas que requieren que el cliente realice una acción fuera del entorno de la tienda para facilitar la continuación del proceso de transacción.* |
 
-**Be accurate**
+## Uso de por favor
 
-Use descriptive language to improve the experience for people who don’t use assistive technology.
+Buscamos ser educados sin recargar nuestras comunicaciones. El uso de "por favor" en las instrucciones generalmente resulta innecesario, ya que preferimos un tono claro y directo que transmita cortesía de manera más natural y eficiente.
 
-| Example | Alternative | Reason |
-| ---- | ---- | ---- |
-| VTEX has ways to help streamline catalog management and enhance the shopping experience for your customer. | VTEX helps streamline catalog management and enhance your customer shopping experience. | Avoid using overly vague or promotional language. Providing clear and accurate descriptions of new features helps build trust and enables users to make informed decisions. |
-
-**Use of please**
-
-We want to be polite, but saying please in instructions is too much. 
-
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| In the VTEX Admin, go to Orders \> All Orders | In the VTEX Admin, please go to Orders \> All Orders |
-
-**Contractions**
-
-We want to sound friendly, so we use common contractions. 
-
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| You don't have any manually added products. | You do not have any manually added products. |
+| Correcto ✅ | Incorrecto ❌ |
+| --- | --- |
+| En el Admin VTEX, accede a Pedidos \> Todos los Pedidos | Por favor, en el Admin VTEX, accede a Pedidos \> Todos los Pedidos |

@@ -1,119 +1,122 @@
 ---
-title: 'Inclusive language'
-id: guides0004
+title: 'Lenguaje inclusivo'
+id: guides0004-es
 status: PUBLISHED
-createdAt: 2025-06-10T19:24:22.388Z
-updatedAt: 2025-06-10T19:24:22.388Z
-publishedAt: 2025-06-10T19:24:22.388Z
-firstPublishedAt: 2025-06-10T19:24:22.388Z
+createdAt: 2025-08-13T19:24:22.388Z
+updatedAt: 2025-08-13T19:24:22.388Z
+publishedAt: 2025-08-13T19:24:22.388Z
+firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: inclusive-language
-locale: en
+slugES: lenguaje-inclusivo
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: inclusive-language
+trackSlugES: lenguaje-inclusivo
 ---
 
-## Diversity
+Evitamos las marcas de género lo más posible sin afectar la claridad del contenido, con el objetivo de mantener una comunicación inclusiva, accesible y fluida. Sin embargo, cuando el contexto, por espacio, design u otras consideraciones, exige una forma marcada, utilizamos el masculino genérico como convención linguística.
 
-Inclusive language isn’t just about avoiding certain words; it’s about adopting a thoughtful approach to writing that respects diversity, avoids assumptions and stereotypes, and fosters understanding by acknowledging people’s identities and experiences.
+Evitamos expresiones con barras, paréntesis o símbolos no estándar.
 
-## Writing principles
+| ✅ Correcto | ❌ Incorrecto |
+| --- | --- |
+| <ul><li>Te damos la bienvenida</li><li>El usuario debe seleccionar una de las siguientes opciones.</li><li>¿Realmente deseas realizar esta acción?</li><li>El usuario de la cuenta</li></ul> | <ul><li>Bienvenido</li><li>El/la usuario(a) debe seleccionar una de las siguientes opciones.</li><li>¿Estás seguro de que deseas realizar esta acción?</li><li>El/la usuario(a) de la cuenta</li><li>La persona usuaria de la cuenta</li></ul> |
 
-Our language should reflect the diversity of our community and the unique identities of those we serve. Here are some principles to help you craft inclusive, respectful, and welcoming experiences through your writing.
+## Lenguaje inclusivo
 
-* **When talking to people**, be respectful of all people. Use language that considers their perspectives and experiences.  
-* **When talking about people**, be descriptive only when required by the context.  
-* **When talking about things**, use clear and accurate information, avoiding metaphors and idioms that could obscure meaning.
+### Diversidad
 
-Avoid using terms that may carry unconscious racial bias or those associated with military actions, politics, or sensitive historical events. These terms can inadvertently perpetuate stereotypes or create discomfort.
+El lenguaje inclusivo va más allá de evitar palabras concretas: implica un enfoque consciente al escribir que respete la diversidad, elimine suposiciones y estereotipos, y fomente la empatía al reconocer las distintas identidades y experiencias de las personas.
 
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>Protect your data against potential threats.</li><li>We respond to cybersecurity risks to ensure your system’s safety.</li><li>Our solution helps safeguard your network.</li></ul> | <ul><li>Fight against cyberattacks.</li><li>Defend your systems from the enemy.</li><li>Go on the offensive with our security tools.</li></ul> |
+### Principios de lenguaje inclusivo
 
-## Gender-neutral language
+Nuestro lenguaje debe reflejar la diversidad de la comunidad y las identidades únicas de quienes reciben nuestros mensajes. Estos principios te guiarán para crear textos inclusivos y respetuosos:
 
-You can use the singular **they** as a generic third-person singular pronoun to refer to a person whose gender is unknown or irrelevant to the context. Alternatively, using **you** is also a neutral option. The subject-verb agreement will follow the English grammar rules, i.e.: you are, they are, and so on.
+*   **Muestra respeto y empatía**: emplea un tono que valore las perspectivas y experiencias de la audiencia.
+*   **Describe solo lo necesario**: incluye rasgos personales (género, edad, origen, discapacidad, etc.) únicamente cuando aporten valor al mensaje.
+*   **Usa claridad y franqueza**: evita metáforas, modismos o giros coloquiales que puedan oscurecer el significado; opta por información precisa y concisa.
+*   **Revisa el vocabulario**: elimina términos con prejuicios inconscientes (raciales, de género, culturales o de otro tipo) y descarta expresiones asociadas con acciones militares, política o sucesos históricos sensibles.
+*   **Evita suposiciones y estereotipos**: no des por sentado intereses, comportamientos o roles según género, origen u otras características; opta por un lenguaje neutral que no refuerce prejuicios.
 
-Don't use *he, him, his, she, her*, or *hers* in generic references.
+Aplicando estos principios lograrás que tus textos sean más inclusivos, claros y respetuosos con toda la audiencia.
 
-You can also use a writing resource throughout the text to improve readability, such as using “customers” and “they” instead of “a customer” and “they”, if the context does not require the subject in the singular form.
+| ✅ Correcto | ❌ Incorrecto |
+| --- | --- |
+| <ul><li>Protege tus datos contra posibles amenazas.</li><li>Gestionamos los riesgos de ciberseguridad para garantizar la protección de tu sistema.</li><li>Nuestra solución contribuye a salvaguardar tu red.</li></ul> | <ul><li>Lucha contra los ciberataques.</li><li>Defiende tu sistema del enemigo.</li><li>Pasa a la ofensiva con nuestras herramientas de seguridad.</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>If a customer has questions about their order, **they** can contact our support team for assistance.</li><li>When customers want to return an order, **they are** able to do that through physical stores.</li><li>This feature allows sales associates to showcase products in real time, allowing **them** to replicate an in-person experience with the customer.</li></ul> | <ul><li>If a customer has questions about their order, **he/she** can contact our support team for assistance.</li><li>When customers want to return an order, **he or she is** able to do that through physical stores.</li><li>This feature allows sales associates to showcase products in real time, allowing **he or she** to replicate an in-person experience with the customer.</li></ul> |
+### Precisión
 
-When referring to example user profiles, use names that reflect a broad range of identities.
+Emplea un lenguaje claro y detallado para describir imágenes, gráficos o elementos de la interfaz, de modo que quienes no dispongan de tecnologías de apoyo (por ejemplo, lectores de pantalla o lupas digitales) puedan comprender sin problema lo que se presenta.
 
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>Maria</li><li>Jamal</li></ul> | <ul><li>James</li><li>Jessica</li></ul> |
+| ✅Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>VTEX ofrece herramientas para optimizar la gestión del catálogo y mejorar la experiencia de compra de tus clientes.</li></ul> | <ul><li>VTEX hace todo más fácil y mejora la experiencia de compra de tus clientes con sus increíbles herramientas.</li></ul> |
 
-## Describing people
+Cuando sea necesario referirse a una persona cuyo género es desconocido o irrelevante para el contexto y cuando sea posible, utilizamos recursos linguísticos neutros para mantener la claridad y la inclusividad, sin afectar la fluidez del contenido. Algunas opciones son:
 
-When describing a group of people, use language that reflects how they describe themselves.
+*   **Uso de la segunda persona:** cuando el texto está dirigido directamente al lector, empleamos el verbo conjugado en segunda persona singular.
+*   **Construcciones impersonales:** recurrimos a frases que no especifican el género, como las construcciones con el verbo en pasiva o formas impersonales.
+*   **Uso de sustantivos neutros o epicenos:** cuando sea posible, usamos sustantivos que no varían de género, conocidos como epicenos, para evitar la marca de género.
+*   **Uso de “cada”, "quien" y “quienes”:** en casos donde se hace referencia a personas de manera genérica o indefinida, empleamos pronombres relativos neutros.
 
-If you're unsure, use person-first language, which focuses on the person before their traits. For example, say "people with disabilities" instead of "disabled people." However, some groups may prefer identity-first language, like the Deaf community, who often use "deaf person" to emphasize their identity as part of a cultural group.
+| ✅ Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>Puedes modificar tus preferencias en cualquier momento.</li><li>Tienes acceso a los informes desde tu cuenta.</li><li>El equipo de ventas tiene acceso a la plataforma.</li><li>Quienes participen en el evento recibirán una notificación sobre la actualización.</li><li>Cada participante puede descargarse el video.</li><li>Se actualizarán las direcciones automáticamente.</li><li>La persona responsable actualizará las direcciones automáticamente</li></ul> | <ul><li>El cliente puede modificar sus datos en cualquier momento.</li><li>El usuario tiene acceso a los informes desde su cuenta.</li><li>Los vendedores tienen acceso a la plataforma.</li><li>Los que participen en el evento recibirán una notificación sobre la actualización.</li><li>Los participantes pueden descargarse el video.</li><li>El responsable actualizará las direcciones automáticamente</li></ul> |
 
-| Good | Better | Reason |
-| ---- | ---- | ---- |
-| <ul><li>Dark mode is useful for people with vision issues.</li><li>The policy was designed with feedback from people of Hispanic or Latino origin.</li></ul> | <ul><li>Dark mode is useful for people who prefer reduced screen brightness.</li><li>The policy was designed with feedback from Mexican and Colombian communities.</li></ul> | <ul><li>Not everyone who uses dark mode has vision issues. This description is broader and applies to more users.</li><li>Being specific highlights the unique experiences of distinct cultural groups within broader terms like "Hispanic" or "Latino”.</li></ul> |
+Al proporcionar ejemplos hipotéticos, es importante representar la diversidad y evitar reforzar estereotipos relacionados con los roles. Utiliza nombres y títulos de puestos de trabajo que reflejen una variedad de identidades de género y antecedentes culturales. Además, evita asumir que las mujeres o los hombres deben estar limitados a roles específicos que perpetúen estereotipos.
 
-**To create inclusive content:**
+| ✅ Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>[samgonzalezperalta@email.com](mailto:samgonzalezperalta@email.com)</li><li>Hola, soy Val, y estoy aquí para atenderte.</li><li>Las personas de la secretaría pueden proporcionarte la información requerida.</li></ul> | <ul><li>[johnsmith@email.com](mailto:johnsmith@email.com)</li><li>Hola, soy Pedro, y estoy aquí para atenderte.</li><li>Las secretarias pueden proporcionarte la información requerida.</li></ul> |
 
-* Focus on individuals, not their conditions or limitations.  
-* Use straightforward language, and steer clear of metaphors, euphemisms, or idiomatic expressions.  
-* Avoid words that are misinterpreted as microaggressions.  
-* Refrain from using terms related to disabilities to describe objects, features, or experiences.
+### Descripción de personas
 
-| Usage | Reason |
-| ---- | ---- |
-| <ul><li>Terms related to sight, such as "View all products," and "Watch the meeting."</li></ul> | <ul><li>People who are blind or have low vision are not excluded by these terms — they still "view" content, just in a different way. Where possible, use alternatives to these words, but only if it makes sense in context. You don’t need to eliminate them if they accurately describe the action.</li></ul> |
-| <ul><li>Enabled/disabled</li></ul> | <ul><li>"Disabled" isn’t inherently offensive; it refers to when individuals face limitations due to their environment or societal barriers. However, it’s important to avoid associating "disabled" with negative or undesirable states.</li></ul> |
+Al referirte a un grupo, respeta la forma en que se identifican. Si dudas del término, prioriza el enfoque centrado en la persona.
 
-Where appropriate, we recommend: 
+No obstante, en algunas comunidades se prefiere enfatizar la identidad. Por ejemplo, la comunidad sorda suele usar “persona sorda” para enfatizar su identidad cultural.
 
-* Not using label actions or features using “disable” or “disabled.” 
+| ✅ Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>Personas con discapacidad</li></ul> | <ul><li>Discapacitados</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>Turn off</li><li>Inactive</li><li>Deactivate</li></ul> | <ul><li>Disable</li><li>Disabled</li></ul> |
+| Bien | Mejor | Motivo |
+| --- | --- | --- |
+| <ul><li>El modo oscuro es útil para personas con problemas de visión.</li><li>La política se diseñó con aportes de personas de origen hispano o latino.</li></ul> | <ul><li>El modo oscuro es útil para las personas que prefieren un brillo de pantalla reducido.</li><li>La política se ajustó con aportes de las comunidades mexicana y colombiana.</li></ul> | <ul><li>No todas las personas que usan el modo oscuro tienen problemas de visión; esta redacción abarca a más perfiles.</li><li>Especificar comunidades permite visibilizar experiencias singulares en lugar de agrupar bajo etiquetas amplias.</li></ul> |
 
-## Deaf
+| Uso | Motivo |
+| --- | --- |
+| <ul><li>Términos relacionados con la vista, como "Ver todos los productos" y "Ver video".</li></ul> | <ul><li>Las personas ciegas o con baja visión no quedan excluidas por estos términos: siguen “viendo” contenido, aunque de una forma distinta. Cuando sea posible, utiliza alternativas a estas palabras (acceder a los productos/video), pero solo si tiene sentido en el contexto. No es necesario eliminarlas si describen con precisión la acción.</li></ul> |
+| <ul><li>Válido/no válido</li></ul> | <ul><li>En el contexto de interfaz de usuario se debe evitar utilizar términos como "inválido" para describir una acción o entrada incorrecta. El término "no válido" es una alternativa más neutra y respetuosa.</li></ul> |
 
-Only use this term to refer to actual deafness, not as a metaphor. Use lowercase unless referring to the Deaf community.
+| ✅ Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>Tarjeta de regalo no válida</li></ul> | <ul><li>Tarjeta de regalo inválida</li></ul> |
 
-## Handicap, handicapped
+Evita usar condiciones reales como metáforas o expresiones figuradas. Las palabras relacionadas con la discapacidad deben emplearse con precisión y respeto, siempre priorizando a la persona y evitando generalizaciones o estigmas.
 
-Don’t use this term to refer to someone’s disability. Be specific:
+*   **Persona con discapacidad:** evita el término discapacidad y especifica.
+*   **Persona sorda**: utiliza este término únicamente para referirse a la sordera real, no como una metáfora. Emplea minúsculas, a menos que se haga referencia a la Comunidad Sorda.
+*   **Persona ciega**: utiliza este término únicamente para hacer referencia a la ceguera real, no como una metáfora.
+*   **Loco, locura:** evita utilizar esta palabra para describir algo como extremo o increíble.
 
-| Do ✅ |
-| ---- |
-| <ul><li>Person who requires a keyboard-accessible checkout.</li><li>Person who uses an accessibility device.</li><li>Shopper with accessibility requirements.</li><li>User who requires assistive technology.</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| --- | --- |
+| <ul><li>Persona que necesita un proceso de pago accesible mediante teclado.</li><li>Persona que utiliza un dispositivo de accesibilidad.</li><li>Comprador con necesidades de accesibilidad.</li><li>Usuario que requiere tecnología de asistencia.</li><li>En los datos de ventas de este trimestre surgieron algunas tendencias sorprendentes.</li><li>Esta promoción es imperdible, ¡descuentos impresionantes!</li><li>No ignores los cupones de descuento: ¡aprovéchalos!</li><li>No pases por alto nada: elige la promoción que mejor se ajusta a ti.</li></ul> | <ul><li>Ciego</li><li>En los datos de ventas de este trimestre aparecieron algunas tendencias locas.</li><li>Esta promoción es imperdible, ¡locura de precios!</li><li>¡No hagas oídos sordos y aprovecha los cupones de descuento!</li><li>No te ciegues: elige la mejor promoción antes de finalizar tu compra.</li></ul> |
 
-## Blind
+## Raza
 
-Only use this term to reference actual blindness, not as a metaphor.
+*   Trata las perspectivas que difieren de la tuya con curiosidad y respeto, evitando el uso de lenguaje que las etiquete como inusuales o desconocidas.
+*   Utiliza un lenguaje neutral y evita asociar términos como "negro" u "oscuro" con connotaciones negativas, o "blanco" o "claro" con connotaciones positivas.
+*   Ten cuidado con las metáforas y modismos, ya que algunos pueden cargar con sesgos históricos o culturales no intencionados.
 
-## Insane, crazy
+| ✅ Correcto | ❌Incorrecto |
+| --- | --- |
+| <ul><li>Antes de continuar, revisa las configuraciones de seguridad para asegurarte de que ningún proveedor está en la lista “bloqueados”.</li></ul> | <ul><li>Antes de continuar, revisa las configuraciones de seguridad para asegurarte de que ningún proveedor está en la lista negra.</li></ul> |
 
-Avoid using these words to describe something as extreme or unbelievable.
+## Regiones
 
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>Some surprising trends emerged in the sales data this quarter.</li><li>Before launching the promotion, carefully review the discount settings to avoid errors.</li></ul> | <ul><li>Some crazy trends showed up in the sales data this quarter.</li><li>Before launching the promotion, do a quick sanity check on the discount settings.</li></ul> |
+Presta atención al referirte a diferentes partes del mundo. Si mencionas ciudades, países o regiones en ejemplos, asegúrate de que no estén en disputa política. Al hablar de varias regiones, usa referencias equivalentes para evitar sesgos no deseados.
 
-## Race
-
-* Treat perspectives that differ from your own with curiosity and respect, avoiding language that might label them as unusual or unfamiliar.  
-* Use neutral language and avoid associating terms like “black” or “dark” with negative connotations or “white” or “light” with positive ones.  
-* Be mindful of metaphors and idioms, as some may carry unintended historical or cultural biases.
-
-## Regions
-
-Be mindful when referring to different parts of the world. If you mention cities, countries, or regions in examples, ensure they are not politically disputed. When discussing multiple regions, use equivalent references to avoid unintended bias.
-
-| Do ✅ | Don't ❌ |
-| ---- | ---- |
-| <ul><li>This feature can be used by merchants in countries like Romania, USA, and Brazil.</li></ul> | <ul><li>This feature can be used by merchants in Kashmir, Taiwan, and Crimea.</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| --- | --- |
+| <ul><li>Esta funcionalidad está disponible para retailers que operan en países como Rumania, EE. UU. y Brasil.</li></ul> | <ul><li>Esta funcionalidad está disponible para retailers que operan en Cachemira, Taiwán y Crimea.</li></ul> |
